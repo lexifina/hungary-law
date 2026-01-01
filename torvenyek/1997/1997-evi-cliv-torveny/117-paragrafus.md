@@ -28,7 +28,7 @@ d) a megszerzett szakvizsga-bizonyítvány megnevezését, számát, eredményé
 
 e) az egészségügyi szakmai tevékenység végzésére jogosító okirat másolatát.
 
-(6a) Az (5) bekezdés szerinti nyilvántartás a (6) bekezdés a) pont ac) és ad) alpontjában, valamint b)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(6a) Az (5) bekezdés szerinti nyilvántartás hatósági nyilvántartásnak minősül.
 
 (7) Az (5) bekezdésben meghatározott nyilvántartás adatainak, valamint az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos valamennyi dokumentumnak a kötelező megőrzési ideje 50 év.
 

@@ -12,4 +12,4 @@ b) az engedélyes nevét, valamint
 
 c) az engedély tárgyát.
 
-(4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4)

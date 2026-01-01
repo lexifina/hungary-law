@@ -34,7 +34,7 @@ f) a Rezidens Támogatási Programban történő részvétel tényét.
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet.
 
-(5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
+(5b) A (4) bekezdés szerinti nyilvántartás hatósági nyilvántartásnak minősül.
 
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 

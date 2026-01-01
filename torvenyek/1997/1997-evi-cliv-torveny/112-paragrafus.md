@@ -2,7 +2,7 @@
 
 112. § (1) Azt a személyt, aki az e törvényben foglalt feltételeknek megfelel, kérelmére működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartás a (4) bekezdés b)–n) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
+(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak tanúsítása. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
 
 (3) Nem vehető fel a működési nyilvántartásba az,
 
@@ -77,6 +77,22 @@ c) az egészségügyi szakképesítésére utaló megnevezést
 használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tevékenység gyakorlása során használt nevét köteles megjeleníteni a névtábláján, valamint az orvosok, fogorvosok az orvosi bélyegzőjükön és az orvosi vényen is használják.
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
+
+(4c) A működési nyilvántartás közhiteles hatósági nyilvántartásnak minősül
+
+a) az egészségügyi dolgozó alap- és működési nyilvántartási száma és alap- és működési nyilvántartásának jogszabályban meghatározott típusa,
+
+b) a 115. § (2) bekezdés b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint egészségügyi szakirányú szakmai továbbképzések megnevezése, továbbá a 110. § (2) bekezdés a) pontja szerinti, az egészségügyi felsőfokú szakirányú szakképzés teljesítése során az egészségügyi tevékenység önálló végzésére feljogosító kompetenciára vonatkozó adat,
+
+c) jogszabályban meghatározott halottvizsgálatra jogosult mentőtiszt esetén a halottvizsgálati jogosultságra vonatkozó adat,
+
+d) a működési nyilvántartási ciklus érvényességi ideje, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma, a működési nyilvántartás meghosszabbításának, illetve felfüggesztésének jogcíme, kezdő és befejező dátuma, továbbá a nyilvántartásból való törlés dátuma,
+
+e) a korlátozott alkalmasság ténye,
+
+f) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személye, működési nyilvántartási száma, a felügyelettel érintett szakképesítés
+
+tekintetében.
 
 (5) A (4) bekezdés b), c), e), f), k), m) és o) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint g) pontjából az egészségügyi tevékenység szüneteltetésének kezdő és befejező dátuma, valamint a működési nyilvántartás 113/A. § (5) bekezdése szerinti felfüggesztésének kezdő és befejező dátuma bárki számára megismerhető adat.
 

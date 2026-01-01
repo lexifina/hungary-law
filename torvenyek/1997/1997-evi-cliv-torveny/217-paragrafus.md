@@ -36,7 +36,7 @@ kezeli.
 
 (6) Rendkívüli halál esetében szemle során a hatóság halottvizsgálati szaktanácsadót vehet igénybe, ha a bizonyítási eszközök felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges, vagy a hatóság valamilyen – szakértőt nem igénylő – szakkérdésben felvilágosítást kér. A halottvizsgálati szaktanácsadót tevékenységéért díj illeti meg.
 
-(7) A halottvizsgálati szaktanácsadókról az egészségügyi államigazgatási szerv névjegyzéket vezet. A névjegyzék a halottvizsgálati szaktanácsadói jogosultság tekintetében közhiteles hatósági nyilvántartás. A névjegyzékbe nem kell felvenni azt, aki a Kormány rendelete alapján a névjegyzékbevétel nélkül is jogosult halottvizsgálati szaktanácsadói tevékenységet folytatni.
+(7) A névjegyzék a (8) bekezdés b) és f) pontja szerinti adatot közhitelesen tartalmazza. A névjegyzékbe nem kell felvenni azt, aki a Kormány rendelete alapján a névjegyzékbevétel nélkül is jogosult halottvizsgálati szaktanácsadói tevékenységet folytatni.
 
 (8) A névjegyzék tartalmazza a halottvizsgálati szaktanácsadó:
 
