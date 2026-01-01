@@ -6,4 +6,4 @@
 
 6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^65]
 
-[^65]: A 6. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § e) pontjával megállapított szöveg.
+[^65]: A 6. melléklet a 375/2025. (XI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

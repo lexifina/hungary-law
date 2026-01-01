@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2024-04-01 | 2007-410-20-22.41 | 44/2024. (II. 29.) Korm. rendelet |
 | 2024-08-16 | 2007-410-20-22.42 | 220/2024. (VII. 31.) Korm. rendelet |
 | 2025-09-18 | 2007-410-20-22.43 | 272/2025. (VIII. 18.) Korm. rendelet |
+| 2026-01-01 | 2007-410-20-22.44 | 375/2025. (XI. 30.) Korm. rendelet |
