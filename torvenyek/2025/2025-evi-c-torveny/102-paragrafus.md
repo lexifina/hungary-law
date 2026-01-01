@@ -20,7 +20,7 @@
 
 10.
 
-11.
+11. 4. § (3) bekezdés b) pontjában az „ingatlanra bejegyzett jelzálogjog” szövegrész helyébe az „ingatlanra bejegyzett jelzálogjog, vagy társasházi építményi jogra bejegyzett zálogjog” szöveg,
 
 12.
 

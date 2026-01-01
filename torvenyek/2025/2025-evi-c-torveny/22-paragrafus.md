@@ -1,3 +1,7 @@
 ## 7. A számvitelről szóló 2000. évi C. törvény módosítása
 
-### 22. §
+22. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) IX. Fejezete a következő 154/C. §-sal egészül ki:
+
+„154/C. § (1) A 95/E. § (1) bekezdésének vagy a 134/I. § (1) bekezdésének hatálya alá tartozó vállalkozó az éves beszámolónak, az összevont (konszolidált) éves beszámolónak, az IFRS-ek szerinti éves beszámolónak, az IFRS-ek szerinti összevont (konszolidált) éves beszámolónak, a könyvvizsgálói jelentésnek, a fenntarthatósági jelentésnek, az összevont (konszolidált) fenntarthatósági jelentésnek, a bizonyossági véleménynek (a bizonyossági jelentésnek) és adott esetben a nyilatkozatnak, a kormányok részére fizetett összegekről szóló jelentésnek, valamint a kormányok részére fizetett összegekről szóló összevont jelentésnek a közzétételével egyidejűleg teljesíti az (EU) 2023/2859 európai parlamenti és tanácsi rendelet (a továbbiakban: ESAP rendelet) 2. cikk 2. pontjában meghatározott gyűjtőszervezetnek történő benyújtási kötelezettségét, az információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából.
+
+(2) Az (1) bekezdésben említett információknak az egységes európai hozzáférési ponton való hozzáférhetővé tétele céljából gyűjtőszervezetként a céginformációs szolgálat jár el az ESAP rendelet előírásainak alkalmazásával.”

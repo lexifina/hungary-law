@@ -1,10 +1,10 @@
 201. § A Hpt.
 
-1.
+1. 6. § (1) bekezdés 76. pontjában az „ingatlanra alapított jelzálog” szövegrész helyébe az „építményi hitel, valamint az ingatlanra alapított jelzálog” szöveg,
 
-2.
+2. 6. § (1) bekezdés 120. pont a) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, továbbá az építményi hitel” szöveg,
 
-3.
+3. 6. § (1) bekezdés 120. pont b) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, illetve építményi hitel” szöveg,
 
 4.
 
