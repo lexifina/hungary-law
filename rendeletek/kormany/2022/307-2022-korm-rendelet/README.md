@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-307-20-
 | 2025-06-24 | 2022-307-20-22.8 | 528/2023. (XII. 1.) Korm. rendelet |
 | 2025-07-23 | 2022-307-20-22.9 | 216/2025. (VII. 22.) Korm. rendelet |
 | 2025-12-01 | 2022-307-20-22.10 | 365/2025. (XI. 28.) Korm. rendelet |
+| 2026-01-01 | 2022-307-20-22.11 | 468/2025. (XII. 30.) Korm. rendelet |
