@@ -1,7 +1,3 @@
-| Felelős: | pénzügyminiszter agrárminiszter belügyminiszter kultúráért és innovációért felelős miniszter |
+1. melléklet az 1545/2022. (XI. 18.) Korm. határozathoz[^2]
 
-| Határidő: | azonnal |
-
-1. melléklet az 1545/2022. (XI. 18.) Korm. határozathoz
-
-2X07655.pdf
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
