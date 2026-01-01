@@ -60,8 +60,8 @@ w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási 
 
 x) a családi állapotra, valamint a házasságkötés helyére vonatkozó adatok kivételével a születést anyakönyvező anyakönyvvezető a 7. § (3) bekezdésében meghatározott újszülött részére hivatalból kiadott állandó személyazonosító igazolvánnyal kapcsolatos kötelezettségei teljesítéséhez;
 
-y)
+y) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az egészségügyi szolgáltató az Elektronikus Egészségügyi Szolgáltatási Tér útján az egészségügyi szolgáltatást igénybe vevő polgár azonosításához és törvényben meghatározott feladatai ellátásához;
 
 z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 
-zs)
+zs) a lakcímre, az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozás tényén és idején kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az Integritás Hatóság a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról szóló nyilvántartással összefüggő feladatai ellátásához.

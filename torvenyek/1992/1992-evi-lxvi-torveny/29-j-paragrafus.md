@@ -24,7 +24,7 @@ b) személyazonosság igazolására alkalmas érvényes hatósági igazolványá
 
 (7) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában a (4) bekezdésben meghatározott adatokat az okmánynyilvántartó szerv a személyazonosság igazolására alkalmas hatósági igazolvány érvénytelenné válása időpontjáig kezeli, a (6) bekezdés szerinti értesítés alapján azokat haladéktalanul törli.
 
-(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
+(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. A tájékoztatás a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényét közhitelesen tanúsítja.
 
 (9) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosság igazolására alkalmas hatósági igazolvány érvényességi ideje alatt az érvényesség tényéről erre irányuló kérelemre kizárólag elektronikus azonosítást követően, elektronikus kapcsolattartás útján, egyedi informatikai alkalmazás igénybevételével
 
