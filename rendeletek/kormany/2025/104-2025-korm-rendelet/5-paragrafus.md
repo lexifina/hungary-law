@@ -1,3 +1,7 @@
-5. §[^5]
+5. § Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-[^5]: Az 5. § a 6. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+1. 41. § (4) bekezdésében az „és (3b) bekezdése szerinti” szövegrész,
+
+2. 41/A. §-a és
+
+3. 187. §-a.
