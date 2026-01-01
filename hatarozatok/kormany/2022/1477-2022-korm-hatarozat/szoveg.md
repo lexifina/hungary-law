@@ -12,35 +12,32 @@ b) a program pénzügyi lebonyolítása során legyen figyelemmel arra, hogy a 3
 
 | Határidő: | a forrás rendelkezésre bocsátását követően azonnal |
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok címet a 39. Energiaintenzív vállalatok támogatása alcímmel egészíti ki;
+3.[^3]
 
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
-
-4.[^3] felhívja a pénzügyminisztert, hogy – a gazdaságfejlesztési miniszter kezdeményezése alapján – az 1. pont szerinti célok megvalósítása érdekében gondoskodjon a kkv-k működési költségeinek finanszírozása érdekében legfeljebb 75 000 000 000 forint forrás, a kkv-k energiahatékonyságát célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében legfeljebb 25 000 000 000 forint forrás biztosításáról, a 3. pontban megjelölt alcím javára;
+4.[^4] felhívja a pénzügyminisztert, hogy – a gazdaságfejlesztési miniszter kezdeményezése alapján – az 1. pont szerinti célok megvalósítása érdekében gondoskodjon a kkv-k működési költségeinek finanszírozása érdekében legfeljebb 75 000 000 000 forint forrás, a kkv-k energiahatékonyságát célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében legfeljebb 25 000 000 000 forint forrás biztosításáról, a 3. pontban megjelölt alcím javára;
 
 | Felelős: | pénzügyminiszter gazdaságfejlesztési miniszter |
 
 | Határidő: | a felmerülés ütemében |
 
-5.[^4] felhívja a gazdaságfejlesztési minisztert, hogy a 2. pont szerinti támogatási program végrehajtásáról naptári negyedévenként készítsen jelentést a Kormány részére, és szükség esetén tegyen javaslatot a további intézkedések meghozatalára.
+5.[^5] felhívja a gazdaságfejlesztési minisztert, hogy a 2. pont szerinti támogatási program végrehajtásáról naptári negyedévenként készítsen jelentést a Kormány részére, és szükség esetén tegyen javaslatot a további intézkedések meghozatalára.
 
 | Felelős: | gazdaságfejlesztési miniszter |
 
 | Határidő: | a program lezárultáig minden naptári negyedév végén |
 
-6.[^5] felhívja a pénzügyminisztert, hogy a 2023. évben – a gazdaságfejlesztési miniszter kezdeményezése alapján – az 1. pont szerinti célok megvalósítása érdekében gondoskodjon az energiaintenzív kkv-k működési költségeinek finanszírozása és a kkv-k energiahatékonyságát célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében mindösszesen legfeljebb 70 000 000 000 forint forrás biztosításáról az energiaintenzív kkv-k működési költségeinek finanszírozását szolgáló előirányzat javára;
+6.[^6] felhívja a pénzügyminisztert, hogy a 2023. évben – a gazdaságfejlesztési miniszter kezdeményezése alapján – az 1. pont szerinti célok megvalósítása érdekében gondoskodjon az energiaintenzív kkv-k működési költségeinek finanszírozása és a kkv-k energiahatékonyságát célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében mindösszesen legfeljebb 70 000 000 000 forint forrás biztosításáról az energiaintenzív kkv-k működési költségeinek finanszírozását szolgáló előirányzat javára;
 
 | Felelős: | pénzügyminiszter gazdaságfejlesztési miniszter |
 
 | Határidő: | a felmerülés ütemében |
 
-7.[^6] egyetért az 1. pont szerinti támogatási program támogatási időszakának meghosszabbításával és kedvezményezetti körének a szálláshely-szolgáltatás és vendéglátás ágazatokban működő kkv-kra történő kiterjesztésével.
+7.[^7] egyetért az 1. pont szerinti támogatási program támogatási időszakának meghosszabbításával és kedvezményezetti körének a szálláshely-szolgáltatás és vendéglátás ágazatokban működő kkv-kra történő kiterjesztésével.
 
 [^1]: A 2. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
 [^2]: A 2. pont a) alpontja az 1029/2023. (II. 14.) Korm. határozattal megállapított szöveg.
-[^3]: A 4. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
-[^5]: A 6. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
-[^6]: A 7. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 4. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
+[^6]: A 6. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 7. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
