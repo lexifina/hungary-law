@@ -1,3 +1,3 @@
-## 15.[^116]
+## 15.[^118]
 
-[^116]: A 15. alcím címét a 790/2021. (XII. 27.) Korm. rendelet 16. § k) pontja hatályon kívül helyezte.
+[^118]: A 15. alcím címét a 790/2021. (XII. 27.) Korm. rendelet 16. § k) pontja hatályon kívül helyezte.

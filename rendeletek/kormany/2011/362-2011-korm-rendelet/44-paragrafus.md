@@ -1,3 +1,3 @@
-44. §[^173]
+44. §[^175]
 
-[^173]: A 44. § a 74/2014. (III. 13.) Korm. rendelet 14. §-a alapján nem lép hatályba.
+[^175]: A 44. § a 74/2014. (III. 13.) Korm. rendelet 14. §-a alapján nem lép hatályba.
