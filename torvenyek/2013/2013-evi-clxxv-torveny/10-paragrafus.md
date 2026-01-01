@@ -26,4 +26,4 @@ f) az előzetes jognyilatkozat alkalmazásáról határozatot hozó bíróság m
 
 g) az előzetes jognyilatkozatban tett, hatályossá vált rendelkezést.
 
-(2) Az (1) bekezdés b)–g) pontja szerinti adatokat az előzetes jognyilatkozatok nyilvántartása közhitelesen tartalmazza.
+(2) Az előzetes jognyilatkozatok nyilvántartása az (1) bekezdés b)–g) pontja szerinti adatokat – az előzetes jognyilatkozatot (visszavonását, módosítását) okiratba foglaló szerv (személy) székhelye kivételével – közhitelesen tartalmazza.
