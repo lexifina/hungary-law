@@ -24,7 +24,7 @@ a) az a kettős könyvvitelt vezető vállalkozó, ahol a könyvvizsgálatot jog
 
 b) a takarékszövetkezet,
 
-c) a konszolidálásba bevont vállalkozás,
+c) az összevont (konszolidált) éves beszámolót készítő anyavállalat, a konszolidálásba bevont leányvállalat és a konszolidálásba bevont közös vezetésű vállalkozás,
 
 d) a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 

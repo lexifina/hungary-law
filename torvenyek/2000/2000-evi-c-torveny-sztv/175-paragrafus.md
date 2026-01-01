@@ -24,4 +24,8 @@ i) a 2013/34/EU európai parlamenti és tanácsi irányelvnek a mikro-, kis-, k�
 
 j) az (EU) 2022/2464 és az (EU) 2024/1760 irányelvnek az egyes fenntarthatósággal kapcsolatos vállalati beszámolási és átvilágítási követelmények tagállamok általi alkalmazásának kezdőnapjai tekintetében történő módosításáról szóló, 2025. április 14-i (EU) 2025/794 európai parlamenti és tanácsi irányelv.
 
+k) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-ai (EU) 2023/2864 európai parlamenti és tanácsi irányelv.
+
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) E törvény a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-ai (EU) 2023/2859 európai parlamenti és tanácsi rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.

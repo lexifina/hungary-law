@@ -295,3 +295,13 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (110) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 14. § (7) bekezdésében meghatározott értékhatárokat teljesítő vállalkozó akkor is mentesül az önköltségszámítás rendjére vonatkozó belső szabályzat elkészítése alól, ha a megelőző üzleti év(ek)ben a mentesítés lehetőségével nem élhetett.
 
 (111) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel megállapított 95/B. § (2a) bekezdése, valamint 95/F. § (11) és (12) bekezdése a 2024. évben induló üzleti évre is alkalmazható.
+
+(112) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését, 87. § (2) bekezdését, 117. § (4) bekezdését és 155. § (5) bekezdés c) pontját először a 2026. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(113) E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 44. § (9) bekezdését és 87. § (2) bekezdését a 2025. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.
+
+(114) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 47. § (10) bekezdését, 73. § (4) bekezdését, 78. § (8) bekezdését először a 2026. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(115) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 47. § (10) bekezdését, 73. § (4) bekezdését, 78. § (8) bekezdését a 2025. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(116) A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított 154/C. § (1) bekezdése szerinti információknak az egységes európai hozzáférési ponton való hozzáférhetőségét 2028. január 10-étől kell biztosítani.

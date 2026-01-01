@@ -10,7 +10,7 @@ c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt.
 
 (3) Amennyiben az anyavállalat leányvállalatai és közös vezetésű vállalkozásai valamelyike nem rendelkezik a tárgyévet megelőző üzleti év (1) bekezdés szerinti adataival, akkor az (1) bekezdés szerinti mutatóérték meghatározásánál a tárgyévi várható – éves időtartamra átszámított – adatokat kell figyelembe venni.
 
-(4) A hitelintézeti, a biztosítói anyavállalatra, a pénzügyi vállalkozásra, mint anyavállalatra az (1) bekezdés szerinti mentesítés nem vonatkozik.
+(4) Az (1) bekezdés nem alkalmazható, ha az anyavállalat közérdeklődésre számot tartó gazdálkodó, vagy ha az anyavállalat leányvállalata vagy közös vezetésű vállalkozása közérdeklődésre számot tartó gazdálkodó.
 
 (5) Az (1) és (6) bekezdés nem alkalmazható, ha a mérleg fordulónapján az anyavállalat vagy a konszolidálásba bevont leányvállalat részvényei, üzletrészei, illetve az általuk kibocsátott értékpapírok tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 
