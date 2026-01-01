@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-354-20-
 | 2021-07-01 | 2009-354-20-22.5 | 356/2021. (VI. 24.) Korm. rendelet |
 | 2024-10-01 | 2009-354-20-22.6 | 356/2021. (VI. 24.) Korm. rendelet |
 | 2025-01-01 | 2009-354-20-22.7 | 356/2021. (VI. 24.) Korm. rendelet |
+| 2026-01-01 | 2009-354-20-22.8 | 408/2025. (XII. 19.) Korm. rendelet |

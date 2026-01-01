@@ -1,3 +1,23 @@
-## 1. §[^1] A munkabiztonsági szakértői tevékenység folytatását az 1. számú mellékletben felsorolt szakterületeken a Magyar Mérnöki Kamara (a továbbiakban: MMK) területi mérnöki kamarái (a továbbiakban: engedélyező szerv) engedélyezi.
+2. §[^2] (1) A kérelmező az engedély iránti kérelmet a lakóhelye szerint illetékes területi mérnöki kamaránál nyújtja be.
 
-[^1]: Az 1. § a 324/2011. (XII. 28.) Korm. rendelet 21. § a) pontja, a 356/2021. (VI. 24.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+(2) A kérelem tartalmazza
+
+a) a kérelmező nevét, címét, e-mail-címét, telefonszámát,
+
+b) a kérelmező születési helyét, idejét, anyja nevét,
+
+c) a kérelmező kamarai tagsági számát, ha van, és
+
+d) az engedélyezni kért szakterület megnevezését.
+
+(3) Az engedély iránti kérelemhez mellékelni kell
+
+a) a szakirányú felsőfokú végzettséget igazoló oklevél vagy bizonyítvány másolatát, külföldi felsőoktatási intézmény által kiállított oklevél esetén annak magyar fordítását, valamint a honosításáról szóló iratot,
+
+b) a kérelmezett szakterülettel összefüggő, az oklevél megszerzését követő szakirányú és munkabiztonsági gyakorlat feladatkörönként feltüntetett igazolását, amely tartalmazza a referenciamunkák intervallumát is, és
+
+c) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 83. § (2) bekezdésében előírtak igazolását.
+
+(4) Ha a kérelmező nem a felsőoktatási alapképzés műszaki, természettudományi vagy agrár szakán szerzett végzettséggel rendelkezik, akkor engedély iránti kérelmet az 1. melléklet 17. pontjában meghatározott szakterületre vonatkozóan nyújthat be.
+
+[^2]: A 2. § a 408/2025. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.

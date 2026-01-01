@@ -1,10 +1,10 @@
-1. számú melléklet a 354/2009. (XII. 30.) Korm. rendelethez
+1. melléklet a 354/2009. (XII. 30.) Korm. rendelethez[^15]
 
 Munkabiztonsági szakértői szakterületek
 
-1. Állattenyésztés technológiája és eszközeinek biztonsága
+1. Anyagmozgatás, szállítás, tárolás technológiája és eszközeinek biztonsága
 
-2. Anyagmozgatás technológiája és eszközeinek biztonsága
+2. Erdőgazdálkodás technológiája és eszközeinek biztonsága
 
 3. Bányászati tevékenység technológiája és eszközeinek biztonsága
 
@@ -12,42 +12,28 @@ Munkabiztonsági szakértői szakterületek
 
 5. Emelőgép technológiája és eszközeinek biztonsága
 
-6. Energia előállítás, szállítás, tárolás technológiája és eszközeinek biztonsága
+6. Energia előállítás, szállítás, tárolás technológiája és eszközeinek biztonsága, villamos biztonság
 
-7. Építőipari kivitelezés technológiája és eszközeinek biztonsága
+7. Állattenyésztés és növénytermesztés technológiája és eszközeinek biztonsága
 
-8. Erdőgazdálkodás technológiája és eszközeinek biztonsága
+8. Építőipari kivitelezés, üzemeltetés, ipari alpintechnika technológiája és eszközeinek biztonsága
 
 9. Feldolgozóipari tevékenység technológiája és eszközeinek biztonsága
 
-10. Fűtés, szellőzés technológiája és eszközeinek biztonsága
+10. Hulladékkezelés víz- és szennyvíz gazdálkodás technológiája és eszközeinek biztonsága
 
-11. Hírközlés és elektronika technológiája és eszközeinek biztonsága
+11. Kereskedelmi és vendéglátó-ipari tevékenység technológiája és eszközeinek biztonsága
 
-12. Hulladékkezelés technológiája és eszközeinek biztonsága
+12. Munkahelyi levegőminőség biztosításának technológiája és eszközeinek biztonsága
 
-13. Ipari alpintechnika technológiája és eszközeinek biztonsága
+13. Munkahelyi zaj és rezgés elleni védelem
 
-14. Kereskedelmi és vendéglátó-ipari tevékenység technológiája és eszközeinek biztonsága
+14. Művészeti tevékenység, sport- és nem művészeti célú szórakoztatási tevékenység technológiája és eszközeinek biztonsága
 
-15. Munkahelyi zaj és rezgés elleni védelem
+15. Munkahelyi kémiai biztonság
 
-16. Művészeti tevékenység technológiája és eszközeinek biztonsága
+16. Világítástechnika
 
-17. Növénytermesztés technológiája és eszközeinek biztonsága
+17. Beruházásszervezés, munkavédelem gazdasági elemzése, üzem- és munkaszervezés
 
-18. Sport- és nem művészeti célú szórakoztatási tevékenység technológiája és eszközeinek biztonsága
-
-19. Szállítás technológiája és eszközeinek biztonsága
-
-20. Tárolás, raktározás technológiája és eszközeinek biztonsága
-
-21. Világítástechnika
-
-22. Vízgazdálkodás technológiája és eszközeinek biztonsága
-
-23. Beruházásszervezés
-
-24. Üzem- és munkaszervezés
-
-25. Munkavédelem gazdasági elemzése
+[^15]: Az 1. melléklet a 408/2025. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
