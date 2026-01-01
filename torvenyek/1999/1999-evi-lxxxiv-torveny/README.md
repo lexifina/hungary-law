@@ -89,3 +89,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2025-09-01 | 2025. évi LXVII. törvény | 1999-84-00-00.108 |
 | 2025-10-01 | 2025. évi XXXII. törvény | 1999-84-00-00.106 |
 | 2025-12-23 | 2025. évi CXXIII. törvény | 1999-84-00-00.110 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 1999-84-00-00.109 |

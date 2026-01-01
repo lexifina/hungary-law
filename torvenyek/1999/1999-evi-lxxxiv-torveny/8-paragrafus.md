@@ -40,4 +40,4 @@ bd) a vezetési jogosultság megszerzésének és engedély-nyilvántartásba t�
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) , aj) és ak) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), af), ag), ai), ak) és al) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.

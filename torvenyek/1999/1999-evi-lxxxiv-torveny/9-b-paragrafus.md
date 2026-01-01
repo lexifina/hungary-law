@@ -24,6 +24,6 @@ j) a jármű vizsgálat során megállapított azonosító és műszaki adatait,
 
 (3) Az (1) bekezdés j) pontjában és a 9. § (1) bekezdés a)–d) pontjában szereplő adatok a járműnyilvántartásból elektronikus adatkapcsolat útján térítésmentesen ellenőrzésre kerülnek, amennyiben azok a járműnyilvántartásban szerepelnek.
 
-(4) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés c)–h) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés d)–h) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során informatikai adatkapcsolat útján közvetlen bekérdezéssel jogosult megismerni az alvázszámmal azonosított jármű eredetiségvizsgálata során megállapított minősítést és annak időpontját.

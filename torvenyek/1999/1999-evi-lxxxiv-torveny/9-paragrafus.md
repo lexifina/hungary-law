@@ -72,6 +72,6 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.
 
-(7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(7) A járműnyilvántartás az (1)–(4) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a)–d) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (8) A származás-ellenőrzéssel kapcsolatos adatok nyilvántartásba vételével összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.
