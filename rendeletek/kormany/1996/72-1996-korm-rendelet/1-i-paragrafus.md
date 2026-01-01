@@ -1,1 +1,0 @@
-## 1/H. § Ha a végrehajtás meghatározott cselekmény elvégzésére vagy meghatározott magatartásra irányul, a teljesítés elmaradása esetén a végrehajtást foganatosító szerv a végrehajtást elrendelő vízügyi hatóság.

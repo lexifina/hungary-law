@@ -2,7 +2,7 @@
 
 ## megállapítása
 
-10. §[^168] (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság határozattal állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
+10. §[^169] (1) A felszíni vizek partvonalát – kérelemre vagy hivatalból a környezet- és természetvédelmi előírásokra is figyelemmel – a vízügyi hatóság határozattal állapítja meg. A partvonalat, ha a terepadottságok vagy egyéb körülmények indokolják természetben is ki kell tűzni.
 
 (2) A partvonal megállapításánál – a már állandósult partvonal kivételével – figyelemmel kell lenni különösen:
 
@@ -24,7 +24,7 @@ f) a hatályos településfejlesztési tervekre.
 
 (5) A parti ingatlan tulajdonosa az elhabolás elleni védelem, valamint az elhabolt rész vízjogi engedély alapján történő helyreállítása során a megállapított partvonalig jogosult a szükséges munkákat elvégezni.
 
-(6)[^169] A megállapított partvonalat a településrendezési terv elkészítése során is figyelembe kell venni.
+(6)[^170] A megállapított partvonalat a településrendezési terv elkészítése során is figyelembe kell venni.
 
 (7) Ha a vízviszonyokba a meder feltöltésével jogellenesen beavatkoztak, a feltöltés fennmaradásáról vagy megszüntetéséről az (1) bekezdésben meghatározott eljárás során kell a partvonal módosításával vagy az eredeti partvonal fenntartásával határozni.
 
@@ -36,5 +36,5 @@ f) a hatályos településfejlesztési tervekre.
 
 (11) A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben e rendeletnek a hatósági engedély nélkül vagy attól eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-[^168]: A 10. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg.
-[^169]: A 10. § (6) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^169]: A 10. § az 527/2013. (XII. 30.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg.
+[^170]: A 10. § (6) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

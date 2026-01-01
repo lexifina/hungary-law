@@ -1,3 +1,5 @@
+## Adatlap a háztartási kút bejelentéséhez
+
 | ALAPADATOK: |
 
 | Tulajdonos neve, címe: |  |  |
@@ -62,7 +64,7 @@
 
 | Bejelentő aláírása | Kútfúró aláírása |
 
-6. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^302]
+6. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^303]
 
 Balatoni, kikötői rendeltetést szolgáló mederhasználati vízilétesítmény létesítésére vagy fennmaradására irányuló engedélyezési eljárás során benyújtandó tervdokumentáció természet- és tájvédelmi munkarészének tartalmi követelményei
 
@@ -108,4 +110,4 @@ Balatoni, kikötői rendeltetést szolgáló mederhasználati vízilétesítmén
 
 3. A tervdokumentáció természet- és tájvédelmi munkarészéhez csatolni kell a földmérési és térinformatikai államigazgatási szervtől beszerzett, az állami távérzékelési adatbázis azon adatait, amelyek alapján legalább egy évtized területhasználati változásai bemutathatóak.
 
-[^302]: A 6. mellékletet a 287/2025. (VIII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^303]: A 6. mellékletet a 287/2025. (VIII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.

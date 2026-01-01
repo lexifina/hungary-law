@@ -40,14 +40,12 @@
 
 | 20 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a kulturális örökség védelme jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | A vízjogi üzemeltetési engedélyezés, valamint a fúrt kút engedélyezéseinek kivételével, ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy műemléket érintő tevékenység engedélyezésére irányul. |
 
-| 21.[^299] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A víziközlekedés biztonsága, hajózási érdekek érvényre juttatása jogszabályban meghatározott követelményeinek való megfelelés kérdésében. | Hajózási létesítmény engedélyezésére irányuló eljárás esetében. |
+| 21.[^300] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A víziközlekedés biztonsága, hajózási érdekek érvényre juttatása jogszabályban meghatározott követelményeinek való megfelelés kérdésében. | Hajózási létesítmény engedélyezésére irányuló eljárás esetében. |
 
-| 22.[^300] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy teljesülnek-e a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben és a Vízparti Tervben rögzített követelmények. | Ha az eljárás a Balaton tómeder övezetét érinti. |
+| 22.[^301] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy teljesülnek-e a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben és a Vízparti Tervben rögzített követelmények. | Ha az eljárás a Balaton tómeder övezetét érinti. |
 
-5. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^301]
+5. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^302]
 
-Adatlap a háztartási kút bejelentéséhez
-
-[^299]: A 4. mellékletben foglalt táblázat 21. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
-[^300]: A 4. mellékletben foglalt táblázat 22. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
-[^301]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^300]: A 4. mellékletben foglalt táblázat 21. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^301]: A 4. mellékletben foglalt táblázat 22. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^302]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.

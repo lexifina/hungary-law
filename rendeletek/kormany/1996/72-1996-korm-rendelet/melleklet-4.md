@@ -82,8 +82,8 @@
 
 | ……………………………………. kútfúró aláírása | ………………………………… bejelentő aláírása |
 
-4. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^298]
+4. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^299]
 
 Az engedélyezési eljárásban felmerülő szakkérdések vizsgálatát végző szervek
 
-[^298]: A 4. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 224/2025. (VII. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^299]: A 4. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 224/2025. (VII. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
