@@ -1,0 +1,1 @@
+8. § A 2. § (1a) bekezdése és a 6. § (1a) bekezdése az Alaptörvény 53. cikk (1) bekezdés b) pontja alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó rendelkezésnek minősül.
