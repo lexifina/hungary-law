@@ -20,12 +20,14 @@ b) a képzésre jelentkező kérésére előzetes tudásmérést kell biztosíta
 
 c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, a képzés elvégzésének igazolására tanúsítványt kell kiállítania,, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről,
+d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie,
 
 e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének, továbbá hirdetéseinek és tájékoztatóinak meg kell felelnie a 17/A. §-ban foglaltaknak,
 
 f) vezetnie kell a képzés megvalósításával összefüggésben a 16. §-ban meghatározott dokumentumokat,
 
 g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek.
+
+(2a) A felnőttképző, ha felnőttképzési tevékenysége engedélyhez kötött, a felnőttképző képzési tevékenysége minőségének folyamatos javítása céljából választása szerint igénybe veheti a minőségirányítási rendszer külső értékelését.
 
 (3) A felnőttképző a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.

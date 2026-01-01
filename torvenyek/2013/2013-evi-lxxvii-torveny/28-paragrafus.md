@@ -22,7 +22,7 @@ rendeletben jelölje ki.
 
 a) a felnőttképzési tevékenységhez szükséges bejelentés és engedély részletes feltételeit, a bejelentés, illetve az engedély megadása iránti kérelem adattartalmát, benyújtásának és elbírálásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, a felnőttképzők nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, és a felnőttképzők nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat, a nyilvántartás módosításának és a nyilvántartásból való törlés eseteit, a felnőttképzési szerződés tartalmát, a felnőttképzési tevékenység feltételeit, a felnőttképző dokumentum- és nyilvántartásvezetési kötelezettségének szabályait, a felnőttképzők ellenőrzésére vonatkozó részletes szabályokat, valamint a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
-b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
+b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait, a nyilvántartás közhiteles adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
 
 c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
 
@@ -46,7 +46,7 @@ b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben h
 
 c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
 
-d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait, valamint a nyilvántartás közhiteles adatait.
 
 e) rendeletben határozza meg az egyéni tanulási számla rendszer működésének részletszabályait.
 
