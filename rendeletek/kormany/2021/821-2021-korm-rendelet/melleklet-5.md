@@ -62,7 +62,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 2.8.2. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-2.8.3.[^51]
+2.8.3.[^76]
 
 2.8.4. egyéb (alapanyag megjelölésével);
 
@@ -104,7 +104,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 3.10.5. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-3.10.6.[^52]
+3.10.6.[^77]
 
 3.10.7. egyéb (alapanyag megnevezéssel);
 
@@ -114,7 +114,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 3.13. az erdőtől eltérő mezőgazdasági területről származó hulladékból vagy maradványanyagból gyártott köztes termék esetében nyilatkozat arról, hogy a fenntarthatósági igazolással kísért köztes termék alapanyagául szolgáló biomassza előállításával érintett területekre vonatkozóan rendelkezésre áll-e jogszabályban meghatározott tápanyaggazdálkodási terv.
 
-3.14.[^53] biomasszából előállított gáz halmazállapotú köztes termék esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+3.14.[^78] biomasszából előállított gáz halmazállapotú köztes termék esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
 
 4. A bioüzemanyagra, folyékony bio-energiahordozóra vonatkozó adattartalom
 
@@ -148,7 +148,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 4.10.5. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-4.10.6.[^54]
+4.10.6.[^79]
 
 4.10.7. egyéb (alapanyag megnevezésével);
 
@@ -160,7 +160,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 4.14. nyilatkozat arról, hogy a bioüzemanyag vagy folyékony bio-energiahordozó előállítására szolgáló létesítmény mikortól üzemel (év/hónap/nap).
 
-4.15.[^55] biomasszából előállított gáz halmazállapotú, a közlekedésben használt üzemanyagok esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+4.15.[^80] biomasszából előállított gáz halmazállapotú, a közlekedésben használt üzemanyagok esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
 
 5. Termesztett és nem termesztett biomasszából előállított tüzelőanyagra (a továbbiakban: tüzelőanyag) vonatkozó adattartalom:
 
@@ -200,7 +200,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 5.11.5. a 2. melléklet 2. részében meghatározott alapanyag,
 
-5.11.6.[^56]
+5.11.6.[^81]
 
 5.11.7. egyéb (alapanyag megnevezésével);
 
@@ -210,7 +210,7 @@ A fenntarthatósági igazolás minimális adattartalma
 
 5.14. ha a tüzelőanyag alapanyaga Magyarországon került betakarításra vagy összegyűjtésre, abban az esetben az erdőtől eltérő mezőgazdasági területről származó hulladékból vagy maradványanyagból gyártott tüzelőanyag esetében nyilatkozat arról, hogy a fenntarthatósági igazolással kísért tüzelőanyag alapanyagául szolgáló biomassza előállításával érintett területekre vonatkozóan rendelkezésre áll-e külön jogszabályban meghatározott tápanyag-gazdálkodási terv.
 
-5.15.[^57] biomasszából előállított gáz halmazállapotú tüzelőanyag esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+5.15.[^82] biomasszából előállított gáz halmazállapotú tüzelőanyag esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
 
 6. Erdei biomasszára, fásszárú biomasszára, erdészeti-, faipari maradvány anyagra vonatkozó adattartalom:
 
@@ -236,10 +236,10 @@ A fenntarthatósági igazolás minimális adattartalma
 
 6.11. az igazolással érintett biomassza értékesítési iránya, célország megnevezése.
 
-[^51]: Az 5. melléklet 2. pont 2.8.3. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
-[^52]: Az 5. melléklet 3. pont 3.10.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^53]: Az 5. melléklet 3. pont 3.14. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^54]: Az 5. melléklet 4. pont 4.10.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § f) pontja hatályon kívül helyezte.
-[^55]: Az 5. melléklet 4. pont 4.15. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^56]: Az 5. melléklet 5. pont 5.11.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § g) pontja hatályon kívül helyezte.
-[^57]: Az 5. melléklet 5. pont 5.15. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^76]: Az 5. melléklet 2. pont 2.8.3. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^77]: Az 5. melléklet 3. pont 3.10.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^78]: Az 5. melléklet 3. pont 3.14. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^79]: Az 5. melléklet 4. pont 4.10.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § f) pontja hatályon kívül helyezte.
+[^80]: Az 5. melléklet 4. pont 4.15. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^81]: Az 5. melléklet 5. pont 5.11.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § g) pontja hatályon kívül helyezte.
+[^82]: Az 5. melléklet 5. pont 5.15. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.

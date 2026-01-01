@@ -1,5 +1,3 @@
-## 24. § A Kormány a Büat.-ban meghatározott mezőgazdasági igazgatási szervként és erdészeti hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatalt jelöli ki.
-
 ## 18. Záró rendelkezések
 
 25. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – 2022. január 1-jén lép hatályba.

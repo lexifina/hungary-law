@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-821-20-
 | 2024-07-06 | 2021-821-20-22.9 | 164/2024. (VI. 28.) Korm. rendelet |
 | 2024-08-14 | 2021-821-20-22.10 | 215/2024. (VII. 29.) Korm. rendelet |
 | 2025-01-01 | 2021-821-20-22.11 | 457/2024. (XII. 30.) Korm. rendelet |
+| 2026-01-01 | 2021-821-20-22.12 | 488/2025. (XII. 31.) Korm. rendelet |

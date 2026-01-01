@@ -2,9 +2,9 @@
 
 | 1. | Üzemanyag | Energiatartalom tömegre vetítve (alsó fűtőérték, MJ/kg) | Energiatartalom térfogatra vetítve (alsó fűtőérték, MJ/l) |
 
-| 2. | BIOMASSZÁBÓL ÉS/VAGY BIOMASSZA-FELDOLGOZÁSI ELJÁRÁSOK SORÁN ELŐÁLLÍTOTT ÜZEMANYAGOK) |
+| 2. | BIOMASSZÁBÓL ÉS/VAGY BIOMASSZA-FELDOLGOZÁSI ELJÁRÁSOK SORÁN ELŐÁLLÍTOTT ÜZEMANYAGOK |
 
-| 3. | Biopropán, bio-LPG | 46 | 24 |
+| 3. | Biopropán | 46 | 24 |
 
 | 4. | Tiszta növényi olaj (sajtolással, extrahálással, illetve hasonló eljárásokkal olajos magvakból nyert nyers vagy finomított, de kémiailag változatlan állapotú olaj) | 37 | 34 |
 
@@ -30,15 +30,15 @@
 
 | 15. | Egyidejűleg feldolgozott (fosszilis üzemanyagokkal egyidejűleg finomítóban feldolgozott), biomassza vagy pirolizált biomassza eredetű olaj cseppfolyósított szénhidrogéngáz kiváltására | 46 | 23 |
 
-| 16. | KÜLÖNFÉLE MEGÚJULÓ FORRÁSOKBÓL, TÖBBEK KÖZÖTT BIOMASSZÁBÓL ELŐÁLLÍTHATÓ, MEGÚJULÓ ÜZEMANYAGOK |
+| 16. | KÜLÖNFÉLE MEGÚJULÓ ENERGIAFORRÁSOKBÓL, TÖBBEK KÖZÖTT BIOMASSZÁBÓL ELŐÁLLÍTHATÓ, MEGÚJULÓ ÜZEMANYAGOK |
 
-| 17. | Megújuló forrásokból előállított metanol | 20 | 16 |
+| 17. | Megújuló energiaforrásokból előállított metanol | 20 | 16 |
 
-| 18. | Megújuló forrásokból előállított etanol | 27 | 21 |
+| 18. | Megújuló energiaforrásokból előállított etanol | 27 | 21 |
 
-| 19. | Megújuló forrásokból előállított propanol | 31 | 25 |
+| 19. | Megújuló energiaforrásokból előállított propanol | 31 | 25 |
 
-| 20. | Megújuló forrásokból előállított butanol | 33 | 27 |
+| 20. | Megújuló energiaforrásokból előállított butanol | 33 | 27 |
 
 | 21. | Fischer–Tropsch-dízelolaj (szintetikus szénhidrogén vagy szintetikus szénhidrogén-keverék dízelolaj kiváltására) | 44 | 34 |
 
@@ -50,9 +50,9 @@
 
 | 25. | DME (dimetil-éter) | 28 | 19 |
 
-| 26. | Megújuló forrásokból előállított hidrogén | 120 | – |
+| 26. | Megújuló energiaforrásokból előállított hidrogén | 120 | – |
 
-| 27. | ETBE (etil-tercio-butil-éter etanol-alapon előállítva) | 36 (ebből 37% megújuló energiaforrásból) | 27 (ebből 37% megújuló energiaforrásból) |
+| 27. | ETBE (etil-tercio-butil-éter etanol-alapon előállítva) | 36 (ebből 33% megújuló energiaforrásból) | 27 (ebből 33% megújuló energiaforrásból) |
 
 | 28. | MTBE (metil-tercio-butil-éter metanol-alapon előállítva) | 35 (ebből 22% megújuló energiaforrásból) | 26 (ebből 22% megújuló energiaforrásból) |
 
@@ -64,13 +64,17 @@
 
 | 32. | THxME (tercier-hexil-metil-éter metanol-alapon előállítva) | 38 (ebből 14% megújuló energiaforrásból) | 30 (ebből 14% megújuló energiaforrásból) |
 
-| 33. | FOSSZILIS ÜZEMANYAGOK |
+| 33. | NEM MEGÚJULÓ ÜZEMANYAGOK |
 
 | 34. | Benzin | 43 | 32 |
 
 | 35. | Dízelolaj | 43 | 36 |
 
-2. melléklet a 821/2021. (XII. 28.) Korm. rendelethez[^49]
+| 36. | Sugárhajtómű-üzemanyag | 43 | 34 |
+
+| 37. | Nem megújuló energiaforrásokból előállított hidrogén | 120 | – |
+
+2. melléklet a 821/2021. (XII. 28.) Korm. rendelethez[^71]
 
 1. Közlekedési célú biogáz és fejlett bioüzemanyagok előállítására szolgáló alapanyagok
 
@@ -346,7 +350,9 @@
 
 1.33. Egyéb biohulladékok a 2008/98/EK irányelv 3. cikkének 4. pontjában meghatározottak szerint, amelyek nem háztartásból és iparból származnak
 
-2. Bioüzemanyagok és közlekedési célú biogáz előállítására szolgáló olyan más alapanyagok, amelyeknek az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 25. cikk (1) bekezdése első albekezdésének a) pontjában említett célértékekhez való hozzájárulása kétszeres energiaértéken számítandó [(EU) 2018/2001 európai parlamenti és tanácsi irányelv IX. mellékletének B része]
+1.34.[^72] Egyéb, e mellékletben máshova nem sorolt olyan alapanyag, amely az Európai Unió akkreditációjával rendelkező önkéntes nemzetközi rendszer alapanyaglistájában mint valamely EU tagállam vagy az Egyesült Királyság által hulladék- vagy maradványanyagként sorolt alapanyag szerepel.
+
+2.[^73] Bioüzemanyagok és közlekedési célú biogáz előállítására szolgáló olyan alapanyagok, amelyeknek a megújulóenergia-részarányhoz való hozzájárulása korlátozott mértékű:
 
 2.1. Használt sütőolaj;
 
@@ -374,4 +380,6 @@
 
 2.6. Köztes növénykultúrák, például másodtermények és takarónövényzet – kivéve az e melléklet A. részében felsorolt alapanyagokat –, amelyek olyan területeken nőnek, ahol a rövid vegetációs időszak miatt az élelmiszer- és takarmánynövények termesztése egyetlen betakarításra korlátozódik, és feltéve, hogy használatuk nem igényel további földterületeket, továbbá feltéve, hogy a talaj szervesanyag-tartalma változatlan marad, amennyiben azokat nem a légi közlekedési ágazatban alkalmazott bioüzemanyag előállítására használják.
 
-[^49]: A 2. melléklet a 457/2024. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^71]: A 2. melléklet a 457/2024. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^72]: A 2. melléklet 1. pont 1.34. alpontját a 488/2025. (XII. 31.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^73]: A 2. melléklet 2. pont nyitó szövegrésze a 488/2025. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

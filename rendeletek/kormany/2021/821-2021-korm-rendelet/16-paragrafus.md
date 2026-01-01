@@ -1,6 +1,6 @@
 ## 10. Bioüzemanyagok, folyékony bio-energiahordozók, valamint a termesztett és nem termesztett biomasszából előállított tüzelőanyagok nyomon követhetőségi nyilvántartása és a nyomonkövetési kritériumok teljesítése
 
-16. § (1)[^29] Ha a biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó az e rendelet hatálya alá tartozó tevékenységet kíván folytatni, az általa kiállított 19. § (1) bekezdés szerinti dokumentumokkal kísért termesztett és nem termesztett biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyag hatósági nyomon követhetőségének biztosítása és igazolása céljából kérelmezi a mezőgazdasági igazgatási szervnél a BIONYOM nyilvántartásba történő felvételét.
+16. § (1)[^44] Ha a biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó az e rendelet hatálya alá tartozó tevékenységet kíván folytatni, az általa kiállított 19. § (1) bekezdés szerinti dokumentumokkal kísért termesztett és nem termesztett biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyag hatósági nyomon követhetőségének biztosítása és igazolása céljából kérelmezi a mezőgazdasági igazgatási szervnél a BIONYOM nyilvántartásba történő felvételét.
 
 (2) A BIONYOM nyilvántartásba vételt az érintett kérelmezi. A BIONYOM nyilvántartásba történő felvétel iránti kérelmet – a mezőgazdasági igazgatási szerv honlapján közzétett nyomtatványon, tevékenységi körönként – a mezőgazdasági igazgatási szervhez kell benyújtani. A biomassza-feldolgozó az általa üzemeltetett feldolgozói létesítményenként kérelmezi a BIONYOM nyilvántartásba vételét.
 
@@ -18,7 +18,7 @@
 
 (9) Ha a mezőgazdasági igazgatási szerv megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált, a biomassza-kereskedő, biomassza-feldolgozó és üzemanyag-forgalmazó BÜHG nyilvántartásba vételéről, és a BÜHG nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról, valamint a BIONYOM nyilvántartásba vételről és a BIONYOM nyilvántartásba vétel hatályának további egy évvel történő meghosszabbításáról szóló döntése jogszabályt sért, a döntést annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja abban az esetben is, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
-(10)[^30] Ha a BIONYOM ügyfél Magyarország területén végzi biomasszával, köztes termékkel, bioüzemanyaggal, folyékony bio-energiahordozóval, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyaggal (e § alkalmazásában a továbbiakban együtt: termék) kapcsolatos, e rendelet hatálya alá tartozó tevékenységét, annak nyomon követhetősége érdekében az általa értékesített, bérfeldolgozásra átadott vagy bérfeldolgozás keretében előállított, és a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal kísért termék vonatkozásában köteles az általa kiállított fenntarthatósági nyilatkozathoz – ha az a 10. melléklet szerinti adatokat maradéktalanul nem tartalmazza – a 10. melléklet szerinti adattartalmú nyomonkövetési dokumentumot kiállítani, és azt az általa kiadott fenntarthatósági nyilatkozattal együtt a mezőgazdasági igazgatási szerv honlapján elérhető BIONYOM nyilvántartásba, a tárgyévet követő év március 20. napjáig feltölteni.
+(10)[^45] Ha a BIONYOM ügyfél Magyarország területén végzi biomasszával, köztes termékkel, bioüzemanyaggal, folyékony bio-energiahordozóval, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyaggal (e § alkalmazásában a továbbiakban együtt: termék) kapcsolatos, e rendelet hatálya alá tartozó tevékenységét, annak nyomon követhetősége érdekében az általa értékesített, bérfeldolgozásra átadott vagy bérfeldolgozás keretében előállított, és a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal kísért termék vonatkozásában köteles az általa kiállított fenntarthatósági nyilatkozathoz – ha az a 10. melléklet szerinti adatokat maradéktalanul nem tartalmazza – a 10. melléklet szerinti adattartalmú nyomonkövetési dokumentumot kiállítani, és azt az általa kiadott fenntarthatósági nyilatkozattal együtt a mezőgazdasági igazgatási szerv honlapján elérhető BIONYOM nyilvántartásba, a tárgyévet követő év március 20. napjáig feltölteni.
 
 (11) Exportált termék esetén a BIONYOM ügyfél megadja az általa exportált termék értékesítési célországát, valamint annak a természetes személynek vagy gazdálkodó szervezetnek a nevét, és címét, akinek a terméket exportálja.
 
@@ -26,11 +26,11 @@
 
 (13) Ha a BIONYOM ügyfél által kiadott fenntarthatósági nyilatkozat kiállításának alapjául szolgáló fenntarthatósági nyilatkozat nem tartalmazza maradéktalanul az azzal kísért termék vonatkozásában a 9. és a 10. melléklet szerinti adatokat, a BIONYOM ügyfél a 9. és a 10. melléklet szerinti adattartalmú nyomonkövetési dokumentumot a partnertől beszerzi és a (11) és (12) bekezdésben foglalt dokumentáció benyújtásának kiegészítéseként az általa kiállított fenntarthatósági nyilatkozathoz és nyomonkövetési dokumentumhoz egyértelműen hozzárendelve, a mezőgazdasági igazgatási szerv honlapján elérhető BIONYOM nyilvántartásba a tárgyévet követő év március 20. napjáig feltölti.
 
-(14)[^31] Ha a biomassza-termelő a BIONYOM ügyfél részére értékesített biomassza fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal igazolja, és a dokumentum nem tartalmazza maradéktalanul a 9. melléklet szerinti adatokat, a biomassza-termelő köteles az általa kiállított dokumentum mellékleteként a BIONYOM ügyfél részére – a 9. melléklet szerinti adattartalmú – nyomonkövetési dokumentumot kiállítani és átadni.
+(14)[^46] Ha a biomassza-termelő a BIONYOM ügyfél részére értékesített biomassza fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal igazolja, és a dokumentum nem tartalmazza maradéktalanul a 9. melléklet szerinti adatokat, a biomassza-termelő köteles az általa kiállított dokumentum mellékleteként a BIONYOM ügyfél részére – a 9. melléklet szerinti adattartalmú – nyomonkövetési dokumentumot kiállítani és átadni.
 
-(15)[^32] Ha biomassza-termelő az általa értékesített termék fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal igazolja, és a dokumentumon nem szerepel egyedi azonosítószám, a biomassza-termelő köteles a dokumentumhoz egyedi azonosítószámot rendelni, valamint a dokumentum mellékletét képező – a 9. melléklet szerinti adattartalmú – nyomonkövetési dokumentumra is felvezetni.
+(15)[^47] Ha biomassza-termelő az általa értékesített termék fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal igazolja, és a dokumentumon nem szerepel egyedi azonosítószám, a biomassza-termelő köteles a dokumentumhoz egyedi azonosítószámot rendelni, valamint a dokumentum mellékletét képező – a 9. melléklet szerinti adattartalmú – nyomonkövetési dokumentumra is felvezetni.
 
-(16)[^33] A (15) bekezdés szerint képzett egyedi azonosítószámhoz egy, a 19. § (1) bekezdés b)–d) pontjában meghatározott dokumentum rendelhető. A (15) bekezdés szerinti egyedi azonosítószámmal jelölt 19. § (1) bekezdés b)–d) pontja szerinti dokumentum azonosítószámának egymást követő sorrendben a következő adatokat kell tartalmaznia:
+(16)[^48] A (15) bekezdés szerint képzett egyedi azonosítószámhoz egy, a 19. § (1) bekezdés b)–d) pontjában meghatározott dokumentum rendelhető. A (15) bekezdés szerinti egyedi azonosítószámmal jelölt 19. § (1) bekezdés b)–d) pontja szerinti dokumentum azonosítószámának egymást követő sorrendben a következő adatokat kell tartalmaznia:
 
 a) a biomassza megtermelőjének regisztrációs száma, ennek hiányában adószáma vagy adóazonosító jele,
 
@@ -40,9 +40,9 @@ c) a (14) bekezdés szerinti dokumentum felhasználójának regisztrációs szá
 
 d) a kiállítás évszáma.
 
-(17)[^34] Ha a BIONYOM ügyfél az általa értékesített, feldolgozott vagy forgalmazott termék fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentum kiállításával igazolja és a dokumentum nem tartalmaz egyedi azonosítószámot, a BIONYOM ügyfél a dokumentumhoz egyedi azonosítószámot rendel, valamint a dokumentum mellékletét képező – a 10. melléklet szerinti adattartalmú – nyomonkövetési dokumentumra felvezeti.
+(17)[^49] Ha a BIONYOM ügyfél az általa értékesített, feldolgozott vagy forgalmazott termék fenntarthatóságát a 19. § (1) bekezdés b)–d) pontja szerinti dokumentum kiállításával igazolja és a dokumentum nem tartalmaz egyedi azonosítószámot, a BIONYOM ügyfél a dokumentumhoz egyedi azonosítószámot rendel, valamint a dokumentum mellékletét képező – a 10. melléklet szerinti adattartalmú – nyomonkövetési dokumentumra felvezeti.
 
-(18)[^35] A (17) bekezdésben foglaltak szerint képzett egyedi azonosítószámhoz egy, a 19. § (1) bekezdés b)–d) pontjában meghatározott dokumentum rendelhető. A (17) bekezdés szerinti egyedi azonosítószámmal jelölt 19. § (1) bekezdés b)–d) pontja szerinti dokumentum azonosítószámának egymást követő sorrendben a következő adatokat kell tartalmaznia:
+(18)[^50] A (17) bekezdésben foglaltak szerint képzett egyedi azonosítószámhoz egy, a 19. § (1) bekezdés b)–d) pontjában meghatározott dokumentum rendelhető. A (17) bekezdés szerinti egyedi azonosítószámmal jelölt 19. § (1) bekezdés b)–d) pontja szerinti dokumentum azonosítószámának egymást követő sorrendben a következő adatokat kell tartalmaznia:
 
 a) a BIONYOM ügyfél regisztrációs száma, ennek hiányában adószáma vagy adóazonosító jele,
 
@@ -76,13 +76,13 @@ bb) nem termesztett biomassza tekintetében a 9. melléklet 2. pontja
 
 szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozattal, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 9. melléklet szerinti adatokat.
 
-(20)[^36] A 19. § (1) bekezdés b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.
+(20)[^51] A 19. § (1) bekezdés b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.
 
-[^29]: A 16. § (1) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^30]: A 16. § (10) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^31]: A 16. § (14) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^32]: A 16. § (15) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^33]: A 16. § (16) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^34]: A 16. § (17) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^35]: A 16. § (18) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^36]: A 16. § (20) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^44]: A 16. § (1) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^45]: A 16. § (10) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^46]: A 16. § (14) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^47]: A 16. § (15) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^48]: A 16. § (16) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^49]: A 16. § (17) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^50]: A 16. § (18) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^51]: A 16. § (20) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

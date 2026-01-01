@@ -1,6 +1,6 @@
 10. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § (1) bekezdés b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma[^84]
+Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § (1) bekezdés b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma[^112]
 
 1. A termesztett biomasszára vonatkozó adattartalom:
 
@@ -54,7 +54,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 2.7.2. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-2.7.3.[^85]
+2.7.3.[^113]
 
 2.7.4. egyéb (alapanyag megnevezéssel);
 
@@ -88,7 +88,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 3.7.5. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-3.7.6.[^86]
+3.7.6.[^114]
 
 3.7.7. egyéb (alapanyag megjelölésével);
 
@@ -96,7 +96,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 3.9. a fenntarthatósági nyilatkozattal érintett köztes termék értékesítési iránya, célország megnevezése.
 
-3.10.[^87] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú köztes termék esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+3.10.[^115] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú köztes termék esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
 
 4. A bioüzemanyagra vagy folyékony bio-energiahordozóra vonatkozó adattartalom:
 
@@ -124,7 +124,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 4.7.5. a 2. melléklet 2. pontjában meghatározott alapanyag,
 
-4.7.6.[^88]
+4.7.6.[^116]
 
 4.7.7. egyéb (alapanyag megnevezésével);
 
@@ -132,7 +132,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 4.9. a fenntarthatósági nyilatkozattal érintett bioüzemanyag, folyékony bio-energiahordozó értékesítési iránya, célország megnevezése.
 
-4.10.[^89] fenntarthatósági nyilatkozattal érintett bioüzemanyag vagy folyékony bio-energiahordozó esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására sor került-e.
+4.10.[^117] fenntarthatósági nyilatkozattal érintett bioüzemanyag vagy folyékony bio-energiahordozó esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására sor került-e.
 
 5. Termesztett és nem termesztett biomasszából előállított tüzelőanyagra (a továbbiakban: tüzelőanyag) vonatkozó adattartalom:
 
@@ -164,7 +164,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 5.7.5. a 2. melléklet 2. pontban meghatározott alapanyag,
 
-5.7.6.[^90]
+5.7.6.[^118]
 
 5.7.7. egyéb (alapanyag megnevezésével).
 
@@ -172,7 +172,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 5.9. a fenntarthatósági nyilatkozattal érintett tüzelőanyag értékesítési iránya, célország megnevezése;
 
-5.10.[^91] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú tüzelőanyag esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+5.10.[^119] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú tüzelőanyag esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
 
 6. Erdei biomasszára, fásszárú biomasszára, erdészeti-, faipari maradványanyagra vonatkozó adattartalom:
 
@@ -190,11 +190,11 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 6.7. a fenntarthatósági nyilatkozattal érintett biomassza értékesítési iránya, célország megnevezése.
 
-[^84]: A 10. melléklet címe a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^85]: A 10. melléklet 2. pont 2.7.3. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § j) pontja hatályon kívül helyezte.
-[^86]: A 10. melléklet 3. pont 3.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § k) pontja hatályon kívül helyezte.
-[^87]: A 10. melléklet 3. pont 3.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^88]: A 10. melléklet 4. pont 4.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § l) pontja hatályon kívül helyezte.
-[^89]: A 10. melléklet 4. pont 4.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^90]: A 10. melléklet 5. pont 5.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § m) pontja hatályon kívül helyezte.
-[^91]: A 10. melléklet 5. pont 5.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^112]: A 10. melléklet címe a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^113]: A 10. melléklet 2. pont 2.7.3. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § j) pontja hatályon kívül helyezte.
+[^114]: A 10. melléklet 3. pont 3.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § k) pontja hatályon kívül helyezte.
+[^115]: A 10. melléklet 3. pont 3.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^116]: A 10. melléklet 4. pont 4.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § l) pontja hatályon kívül helyezte.
+[^117]: A 10. melléklet 4. pont 4.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^118]: A 10. melléklet 5. pont 5.7.6. alpontját a 457/2024. (XII. 30.) Korm. rendelet 4. § m) pontja hatályon kívül helyezte.
+[^119]: A 10. melléklet 5. pont 5.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.

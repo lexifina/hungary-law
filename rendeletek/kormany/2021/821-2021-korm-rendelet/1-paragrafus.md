@@ -1,6 +1,6 @@
 ## 1. Értelmező rendelkezések
 
-## 1. § E rendelet alkalmazásában
+1. § E rendelet alkalmazásában
 
 1. alapértelmezett érték: a jellemző értékből előre meghatározott tényezők alkalmazásával származtatott, rendeletben meghatározott érték, amely az e rendeletben megállapított feltételek mellett a tényleges érték helyett alkalmazható;
 
@@ -40,13 +40,13 @@
 
 19. fenntarthatósági igazolás: a biomassza-kereskedő, a biomassza-feldolgozó, az üzemanyag-forgalmazó vagy a biomassza-energiatermelő által kiállított nyilatkozat, a biomassza, a köztes termék, a bioüzemanyag, a folyékony bio-energiahordozó és a biomasszából előállított tüzelőanyag fenntarthatósági és üvegházhatásúgázkibocsátás-megtakarítási követelményeknek való megfelelőségéről;
 
-20. fenntarthatósági nyilatkozat: a biomassza igazolás, a fenntarthatósági igazolás, a fenntarthatósági bizonyítvány, a szállítójegy, az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29–31. cikkének átültetését szolgáló más tagállami jogszabály szerint kiállított dokumentum, az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 30. cikk (4) bekezdése alapján hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásaival összhangban kiállított dokumentum és az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 30. cikk (4) bekezdése szerint az Európai Bizottság részéről harmadik országgal kötött nemzetközi megállapodással összhangban kiállított dokumentum;
+20.[^2] fenntarthatósági nyilatkozat: a biomassza igazolás, a fenntarthatósági igazolás, a fenntarthatósági bizonyítvány, a szállítójegy, az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29–31. cikkének átültetését szolgáló más tagállami jogszabály szerint kiállított dokumentum, az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 30. cikk (4) bekezdése alapján hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásaival összhangban kiállított dokumentum, ide nem értve a 25b. pontban meghatározott dokumentumot és az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 30. cikk (4) bekezdése szerint az Európai Bizottság részéről harmadik országgal kötött nemzetközi megállapodással összhangban kiállított dokumentum;
 
 21. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
-21a.[^2] hidrogénnel kezelt növényi olaj: az 1. melléklet 8. és 12. pontjában felsorolt termékek;
+21a.[^3] hidrogénnel kezelt növényi olaj: az 1. melléklet 8. és 12. pontjában felsorolt termékek;
 
-22.[^3] jellemző érték: az üvegházhatású gázok jellemző kibocsátásának becsült elkerülési értéke egy adott bioüzemanyag-, folyékony bio-energiahordozó- vagy biomasszából előállított tüzelőanyag-előállítási mód esetében;
+22.[^4] jellemző érték: az üvegházhatású gázok jellemző kibocsátásának becsült elkerülési értéke egy adott bioüzemanyag-, folyékony bio-energiahordozó- vagy biomasszából előállított tüzelőanyag-előállítási mód esetében;
 
 23. kibocsátási érték: biomassza, köztes termék, bioüzemanyag vagy folyékony bio-energiahordozó vagy biomasszából előállított tüzelőanyag előállítása, tárolása, szállítása során keletkező, szén-dioxid egyenértékben kifejezett energiatartalomra vagy tömegre vetített fajlagos üvegházhatású gázkibocsátás;
 
@@ -54,7 +54,9 @@
 
 25. kiskereskedelmi üzemanyag-forgalmazó: az a gazdálkodó szervezet, amely üzemanyagot üzemanyagtöltő-állomáson fogyasztónak kiszolgál;
 
-25a.[^4] külföldi erdei biomassza: olyan erdei biomassza, amelynek kitermelés szerinti területe nem Magyarországon található, de forgalmazása, felhasználása, feldolgozása Magyarországon történik;
+25a.[^5] külföldi erdei biomassza: olyan erdei biomassza, amelynek kitermelés szerinti területe nem Magyarországon található, de forgalmazása, felhasználása, feldolgozása Magyarországon történik;
+
+25b.[^6] megfelelési nyilatkozat: az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 30. cikk (4) bekezdése alapján hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásaival összhangban kiállított olyan dokumentum, mely olyan megújuló üzemanyag fenntarthatósági követelményeknek való megfelelését igazolja az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 25. cikke szerinti kötelezettség (e pont alkalmazásában: kötelezettség) teljesítésétől eltérő célra, melyet a kötelezettség teljesítéséhez felhasználtak vagy fel kívánnak használni;
 
 26. nem termesztett biomassza: a hulladék és feldolgozási maradvány (kivéve a faipari maradvány), valamint az állattenyésztésből származó maradványanyagok biológiailag lebontható része;
 
@@ -62,13 +64,16 @@
 
 28. regisztrációs szám: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény szerinti regisztrációs szám vagy az adóraktári, bejegyzett kereskedői, eseti bejegyzett kereskedői vagy jövedéki engedély száma;
 
-29. széntartalom újrahasznosításával nyert üzemanyag: meg nem újuló eredetű, a hulladékról szóló 2012. évi CLXXXV. törvény 7. §-ával összhangban történő hasznosításra nem alkalmas folyékony vagy szilárd hulladékáramokból, vagy meg nem újuló eredetű, ipari létesítmények gyártási folyamatainak elkerülhetetlen, nem szándékos következményeként kibocsátott hulladék-technológiai gázokból és égéstermékekből előállított folyékony és gáznemű üzemanyagok;
+29.[^7]
 
 30. termesztett biomassza: a mezőgazdasággal kapcsolatos tevékenység keretében a termőföld védelméről szóló törvény szerinti termőföldön vagy mező művelés alatt álló belterületi földön előállított biomassza, és a növénytermesztésből származó mezőgazdasági maradványok, kivéve a fásszárú biomassza;
 
 31. tényleges érték: az üvegházhatású gázok kibocsátásának egy adott bioüzemanyag-, folyékony bio-energiahordozó- vagy biomasszából előállított tüzelőanyag előállítási folyamat egyes vagy összes lépéséből eredő elkerülése, amelyet a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőüzemanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben meghatározott módszerrel kell kiszámítani.
 
 [^1]: Az 1. § 10. pontja a 620/2022. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 21a. pontját a 620/2022. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^3]: Az 1. § 22. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § 25a. pontját a 164/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § 20. pontja a 488/2025. (XII. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 21a. pontját a 620/2022. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^4]: Az 1. § 22. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 25a. pontját a 164/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § 25b. pontját a 488/2025. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § 29. pontját a 488/2025. (XII. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.

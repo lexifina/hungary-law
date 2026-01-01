@@ -1,0 +1,1 @@
+26. § A 12. § (1) bekezdésében, valamint a 16. § (2) bekezdésében meghatározott feldolgozó létesítményenkénti nyilvántartásba vételt a biomassza-feldolgozó első alkalommal 2022. április 1-jétől kérelmezi.

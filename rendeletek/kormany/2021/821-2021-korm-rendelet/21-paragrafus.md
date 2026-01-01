@@ -1,6 +1,6 @@
 ## 14. A fosszilis komparátor kibocsátási értéke
 
-## 21. § A fosszilis komparátor kibocsátási értéke a bioüzemanyagok, folyékony bio-energiahordozók, illetve a biomasszából előállított tüzelőanyagok felhasználási céljának megfelelően
+21. § A fosszilis komparátor kibocsátási értéke a bioüzemanyagok, folyékony bio-energiahordozók, illetve a biomasszából előállított tüzelőanyagok felhasználási céljának megfelelően
 
 a) 94 gCO2eq/MJ a közlekedésben,
 

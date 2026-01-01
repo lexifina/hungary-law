@@ -6,7 +6,7 @@
 
 a) a kérelmező nyilatkozatát arra vonatkozóan, hogy biomassza-kereskedői, biomassza-feldolgozói vagy üzemanyag-forgalmazói tevékenységi körben kéri a nyilvántartásba vételét, a nyilvántartásba vétel hatályának meghosszabbítását vagy a nyilvántartásból való törlést követő ismételt nyilvántartásba vételét,
 
-b) természetes személy erre vonatkozó kifejezett és önkéntes hozzájárulása esetében a természetes személy azonosító adatait, a lakcímét és telephelyét, gazdálkodó szervezet és egyéni cég esetében a cég nevét, székhelyét, telephelyét, cégjegyzék számát, adószámát és a képviseletre jogosult személy aláírási címpéldányának másolati példányát,
+b)[^40] természetes személy erre vonatkozó kifejezett és önkéntes hozzájárulása esetében a természetes személy azonosító adatait, a lakcímét és telephelyét, gazdálkodó szervezet és egyéni cég esetében a cég nevét, székhelyét, telephelyét, cégjegyzék számát, adószámát és a – (2a) bekezdés szerinti kivétellel – képviseletre jogosult személy aláírási címpéldányának másolati példányát,
 
 c) egyéni vállalkozó esetében nevét, lakcímét, adószámát, valamint egyéni vállalkozói nyilvántartási számát,
 
@@ -33,6 +33,8 @@ eh) alapértelmezett értékek alkalmazása esetén azok értékét,
 ei) tényleges érték vagy diszaggregált alapértelmezett érték, regionális átlagérték, illetve tényleges érték kombinációjának alkalmazása esetén a gyártáshoz kapcsolódó kibocsátási komponensek értékeit, valamint
 
 f) a 11. § (1) és (2) bekezdésében előírt nyilvántartás vezetés módjának leírását, elektronikus nyilvántartás esetében az adatvesztés, utólagos adatmódosítás megakadályozására tett intézkedések bemutatását.
+
+(2a)[^41] Ha a kérelmező cégjegyzékben nyilvántartott cég, és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a mezőgazdasági igazgatási szerv az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (3) A kérelemhez csatolni kell:
 
@@ -63,3 +65,6 @@ d) a nyilvántartásba vétel kezdő és lejárati időpontját,
 e) az arra vonatkozó adatot, hogy az ügyfelet biomassza-kereskedőként, biomassza-feldolgozóként vagy üzemanyag-forgalmazóként tartja nyilván, valamint
 
 f) a BÜHG nyilvántartásból való törlés tényét.
+
+[^40]: A 12. § (2) bekezdés b) pontja a 395/2025. (XII. 16.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^41]: A 12. § (2a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 42. § (1) bekezdése iktatta be.

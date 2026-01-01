@@ -6,7 +6,7 @@
 
 (4) Ha az erdészeti hatóság megállapítja, hogy a közigazgatási bíróság által el nem bírált, a biomassza-kereskedő, biomassza-feldolgozó, biomassza-energiatermelő EUTR nyilvántartásba való felvételről szóló döntése jogszabályt sért, a döntést annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja abban az esetben is, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
-(5)[^27] A 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal kísért, importált erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradványanyag esetén az első magyarországi forgalomba hozó
+(5)[^42] A 19. § (1) bekezdés b)–d) pontja szerinti dokumentummal kísért, importált erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradványanyag esetén az első magyarországi forgalomba hozó
 
 a) biztosítja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény 90/A. § (2) és (3) bekezdésében foglaltakat, azzal az eltéréssel, hogy az adott szállítmányhoz kapcsolható exportőri nyilatkozatnak az erdei biomassza fenntartható kitermelésére vonatkozó nyilatkozatot is tartalmaznia kell, továbbá
 
@@ -22,7 +22,7 @@ c) kellő gondosság elvén alapuló nyomon követhetőségi rendszeren, eljár�
 
 kell igazolni.
 
-(7)[^28] A 19. § (1) bekezdés b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.
+(7)[^43] A 19. § (1) bekezdés b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.
 
-[^27]: A 14. § (5) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^28]: A 14. § (7) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^42]: A 14. § (5) bekezdés nyitó szövegrésze a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^43]: A 14. § (7) bekezdése a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
