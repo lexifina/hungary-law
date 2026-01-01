@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-139-20-
 | --- | --- | --- |
 | 2024-06-29 | 2024-139-20-22.1 | 139/2024. (VI. 28.) Korm. rendelet |
 | 2024-12-24 | 2024-139-20-22.3 | 447/2024. (XII. 23.) Korm. rendelet |
+| 2026-01-01 | 2024-139-20-22.2 | 442/2025. (XII. 29.) Korm. rendelet |

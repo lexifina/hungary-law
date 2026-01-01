@@ -20,6 +20,4 @@ c) helyszíni ellenőrzésekben való műszaki közreműködés a beruházások 
 
 d) egyéb, felmerülő műszaki tanácsadási szolgáltatás a pályázati konstrukció kialakításának, megvalósításának minőségbiztosítási és gazdaságossági hatékonyságának biztosítása érdekében.
 
-(2)[^2]
-
-[^2]: A 2. § (2) bekezdése a 4. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+(2) Az (1) bekezdés b) pont bc) alpontjában foglalt, a programban érintett építési kulcstermékek egyszerűsített környezeti minősítésére, nyilvántartási rendszerének kialakítására vonatkozó műszaki szakértői közreműködői feladat végrehajtására a magyar építészetről szóló 2023. évi C. törvény 224. § (5) bekezdésével összhangban kerülhet sor.
