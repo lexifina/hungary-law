@@ -1,1 +1,1 @@
-### 15. §
+15. § A Tvt. 11. § (4) bekezdés d) pontjában a „magyarországi bejegyzett cég esetében három hónapnál nem régebbi cégkivonatot, bejegyzés hiányában” szövegrész helyébe a „még be nem jegyzett magyarországi cég esetében” szöveg lép.
