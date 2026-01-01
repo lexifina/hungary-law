@@ -114,7 +114,7 @@ g) a műanyag tartóeszközöket („hulladéktárolókat”) a járműben, ille
 
 a) a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkezik, és
 
-b)[^9] a Közlekedéstudományi Intézet által kétévenként meghirdetett továbbképzésen igazoltan részt vett, és
+b)[^9] a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet által kétévenként meghirdetett továbbképzésen igazoltan részt vett, és
 
 ba) az új foglalkozásvezető a továbbképzést követő, a 25.2.1 pont szerinti alapvizsgán,
 
@@ -294,7 +294,7 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 [^6]: Az 1. melléklet 21b. pontját a 17/2025. (VI. 24.) ÉKM rendelet 6. §-a iktatta be.
 [^7]: Az 1. melléklet 22. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított szöveg.
 [^8]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
-[^9]: Az 1. melléklet 25.1. pont b) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított, nyitó szövegrésze a 19/2025. (VI. 27.) ÉKM rendelet 9. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 25.1. pont b) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított, nyitó szövegrésze a 47/2025. (XII. 29.) ÉKM rendelet 10. §-a szerint módosított szöveg.
 [^10]: Az 1. melléklet 25.2.3. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-a szerint módosított szöveg.
 [^11]: Az 1. melléklet 26. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított szöveg.
 [^12]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.

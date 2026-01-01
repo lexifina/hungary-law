@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-39-20-7
 | 2023-09-22 | 2021-39-20-7Q.5 | 17/2023. (IX. 21.) ÉKM rendelet |
 | 2025-06-25 | 2021-39-20-7Q.6 | 17/2025. (VI. 24.) ÉKM rendelet |
 | 2025-07-01 | 2021-39-20-7Q.7 | 17/2023. (IX. 21.) ÉKM rendelet |
+| 2026-01-01 | 2021-39-20-7Q.8 | 17/2023. (IX. 21.) ÉKM rendelet |
