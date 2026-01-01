@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2025-01-04 | 2005-24-20-0L.48 | 15/2024. (VI. 12.) ÉKM rendelet |
 | 2025-07-01 | 2005-24-20-0L.49 | 18/2025. (VI. 26.) ÉKM rendelet |
 | 2025-10-03 | 2005-24-20-0L.50 | 29/2025. (IX. 18.) ÉKM rendelet |
+| 2026-01-01 | 2005-24-20-0L.51 | 49/2025. (XII. 30.) ÉKM rendelet |
