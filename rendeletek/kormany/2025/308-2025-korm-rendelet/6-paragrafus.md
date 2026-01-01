@@ -1,5 +1,3 @@
-## 4.[^6]
+## 4. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet, valamint a villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet módosításáról szóló 280/2025. (VIII. 21.) Korm. rendelet módosítása
 
-6. §
-
-[^6]: A 4. alcím a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+6. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet, valamint a villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet módosításáról szóló 280/2025. (VIII. 21.) Korm. rendelet 11. § (2) bekezdésének a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 126/A. § (6) bekezdését megállapító rendelkezése a „9/D. § (4) bekezdésében” szövegrész helyett a „8. § (7) bekezdésében” szöveggel lép hatályba.
