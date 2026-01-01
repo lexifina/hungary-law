@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2025-04-23 | 2015-87-20-22.41 | 84/2025. (IV. 22.) Korm. rendelet |
 | 2025-07-25 | 2015-87-20-22.42 | 225/2025. (VII. 24.) Korm. rendelet |
 | 2025-09-01 | 2015-87-20-22.43 | 225/2025. (VII. 24.) Korm. rendelet |
+| 2026-01-01 | 2015-87-20-22.44 | 342/2025. (X. 31.) Korm. rendelet |
