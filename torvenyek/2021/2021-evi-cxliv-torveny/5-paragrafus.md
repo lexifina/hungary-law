@@ -23,3 +23,5 @@ b) a földmegfigyelési előfeldolgozott adatokat.
 a) mindazon helyi adatokat, amelyeket a FOK állít elő, és
 
 b) az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet szerinti harmadik féltől származó adatokat, információkat.
+
+(6) A FIR adatainak fennállása tekintetében közhiteles hatósági nyilvántartás.
