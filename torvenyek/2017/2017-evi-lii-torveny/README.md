@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-52-00-00
 | 2023-01-01 | 2022. évi LXVIII. törvény | 2017-52-00-00.8 |
 | 2025-08-23 | 2025. évi LXVII. törvény | 2017-52-00-00.9 |
 | 2025-12-17 | 2025. évi XCIII. törvény | 2017-52-00-00.10 |
+| 2026-01-01 | 2025. évi CXXV. törvény | 2017-52-00-00.11 |

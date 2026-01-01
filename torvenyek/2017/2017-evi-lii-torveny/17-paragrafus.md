@@ -8,6 +8,8 @@ b) a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganato
 
 rendeletben jelölje ki.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a nemzeti listát, valamint a nemzeti listán szereplő egyes csoportok, csoportosulások, illetve szervezetek esetében alkalmazandó korlátozó intézkedéseket és azok hatályát.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés f), h), j) és k) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.
 
 (2a) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a vagyon befagyasztás vagy rendelkezésre bocsátás tilalma alól biztonsági intézkedések alkalmazásával történő mentesítés engedélyezésének, a biztonsági intézkedések megfelelősége és végrehajtása folyamatos figyelemmel kísérésének, valamint a nem megfelelő végrehajtás esetén alkalmazható intézkedések részletszabályait.
