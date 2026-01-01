@@ -1,8 +1,8 @@
 ## 200. § Vissza kell vonni a munkáltatói kölcsönt attól, aki felhasználását a pénzintézethez történt átutalástól számított 6 hónapon belül nem kezdte meg.
 
-201. § (1)[^312] A honvédelmi szervezettel fennálló alkalmazotti jogviszony megszűnésére tekintettel fel kell mondani a munkáltatói kölcsönt és vissza kell vonni a már jóváírt engedményt, amennyiben a kedvezményezett
+201. § (1)[^315] A honvédelmi szervezettel fennálló alkalmazotti jogviszony megszűnésére tekintettel fel kell mondani a munkáltatói kölcsönt és vissza kell vonni a már jóváírt engedményt, amennyiben a kedvezményezett
 
-a)[^313] hivatásos vagy szerződéses katonai szolgálati viszonya ténylegesként számított tíz év szolgálati időn belül közös megegyezéssel szűnt meg;
+a)[^316] hivatásos vagy szerződéses katonai szolgálati viszonya ténylegesként számított tíz év szolgálati időn belül közös megegyezéssel szűnt meg;
 
 b) hivatásos katonai szolgálati viszonya lemondással, szerződéses katonai szolgálati viszonya egyoldalú szerződésbontással szűnt meg;
 
@@ -24,29 +24,29 @@ j) hivatásos vagy szerződéses katonai szolgálati viszonya valamely, az egyes
 
 k) hivatásos vagy szerződéses katonai szolgálati viszonya a szolgálati viszony létesítéséhez megkövetelt feltételek igazolásának ismételt szabályszerű felhívás ellenére történt elmulasztása miatt szűnt meg;
 
-l)[^314] kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya a létesítéstől számított tíz éven belül közös megegyezéssel szűnt meg;
+l)[^317] kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya a létesítéstől számított tíz éven belül közös megegyezéssel szűnt meg;
 
-m)[^315] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya lemondással szűnt meg;
+m)[^318] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya lemondással szűnt meg;
 
-n)[^316] kormánytisztviselői jogviszonya hivatalvesztés fegyelmi büntetéssel vagy a hivatalra való méltatlanság miatt, továbbá honvédelmi alkalmazotti, közalkalmazotti jogviszonya elbocsátással szűnt meg;
+n)[^319] kormánytisztviselői jogviszonya hivatalvesztés fegyelmi büntetéssel vagy a hivatalra való méltatlanság miatt, továbbá honvédelmi alkalmazotti, közalkalmazotti jogviszonya elbocsátással szűnt meg;
 
-o)[^317] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya összeférhetetlenség megszüntetésének elmulasztása miatt szűnt meg;
+o)[^320] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya összeférhetetlenség megszüntetésének elmulasztása miatt szűnt meg;
 
-p)[^318] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya valamely, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező okból szűnt meg;
+p)[^321] kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonya valamely, az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező okból szűnt meg;
 
 q) kormánytisztviselői jogviszonya azért szűnt meg, mert a közigazgatási alapvizsgát a számára előírt határidőn belül neki felróható okból nem tette le;
 
-r)[^319] honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya az egészségügyi ok kivételével, alkalmatlanság miatt, továbbá rendkívüli felmentéssel vagy azonnali hatályú felmondással szűnt meg;
+r)[^322] honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya az egészségügyi ok kivételével, alkalmatlanság miatt, továbbá rendkívüli felmentéssel vagy azonnali hatályú felmondással szűnt meg;
 
-s)[^320] honvédelmi alkalmazotti, közalkalmazotti jogviszonya a büntetlen előélet, továbbá a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt nem állás igazolásának elmulasztása miatt szűnt meg.
+s)[^323] honvédelmi alkalmazotti, közalkalmazotti jogviszonya a büntetlen előélet, továbbá a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt nem állás igazolásának elmulasztása miatt szűnt meg.
 
-(1a)[^321] Az (1) bekezdés a)–k) pontban foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
+(1a)[^324] Az (1) bekezdés a)–k) pontban foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
 
-(1b)[^322] Nem kell alkalmazni az (1) bekezdés l) pontját azon kormánytisztviselő esetében, akivel a kormányzati szolgálati jogviszonyának közös megegyezéssel történő megszüntetésétől számított 30 napon belül honvédelmi szervezet más közszolgálati jogviszonyt létesített.
+(1b)[^325] Nem kell alkalmazni az (1) bekezdés l) pontját azon kormánytisztviselő esetében, akivel a kormányzati szolgálati jogviszonyának közös megegyezéssel történő megszüntetésétől számított 30 napon belül honvédelmi szervezet más közszolgálati jogviszonyt létesített.
 
-(1c)[^323] Nem kell alkalmazni az (1) bekezdés a) és l) pontját, ha az állomány tagjának a honvédelmi szervezettel fennálló foglalkoztatási jogviszonya közös megegyezéssel nyugdíjba helyezés céljából szűnik meg.
+(1c)[^326] Nem kell alkalmazni az (1) bekezdés a) és l) pontját, ha az állomány tagjának a honvédelmi szervezettel fennálló foglalkoztatási jogviszonya közös megegyezéssel nyugdíjba helyezés céljából szűnik meg.
 
-(2)[^324] Az (1) bekezdésben foglaltakon túlmenően, a bekövetkezett kötelezettségszegésre és mulasztásra figyelemmel kell felmondani a munkáltatói kölcsönt és vissza kell vonni a már jóváírt engedményt, ha a kedvezményezett:
+(2)[^327] Az (1) bekezdésben foglaltakon túlmenően, a bekövetkezett kötelezettségszegésre és mulasztásra figyelemmel kell felmondani a munkáltatói kölcsönt és vissza kell vonni a már jóváírt engedményt, ha a kedvezményezett:
 
 a) a kölcsönt nem a saját lakhatása megoldására fordította, vagy azzal más módon visszaélt,
 
@@ -56,29 +56,29 @@ c) az építkezés befejezését a kölcsönkérelmében vállalt időpontig, de
 
 d) a kölcsön megfizetésével késedelembe esik, és a felszólításban megjelölt határidőig sem tesz eleget a hátralékos részletfizetési kötelezettségének,
 
-e)[^325] a lakáscélú pénzintézeti kölcsönből fennálló tartozás csökkentéséhez, kiegyenlítéséhez nyújtott munkáltatói kölcsön felhasználását a támogatási megállapodás megkötésétől számított kilenc hónapon belül pénzintézeti igazolás bemutatásával nem igazolja,
+e)[^328] a lakáscélú pénzintézeti kölcsönből fennálló tartozás csökkentéséhez, kiegyenlítéséhez nyújtott munkáltatói kölcsön felhasználását a támogatási megállapodás megkötésétől számított kilenc hónapon belül pénzintézeti igazolás bemutatásával nem igazolja,
 
-f)[^326] lakásvásárlás esetén a támogatási szerződés megkötésétől számított kilenc hónapon belül, lakásépítés esetén a használatbavételi engedély megküldésével egyidejűleg nem igazolja, hogy a támogatással megszerzett lakóingatlan vonatkozásában a jogszabály szerinti lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz vagy az arra történő hazautazáshoz a honvédelmi szervezettől utazási költségtérítésben nem részesül,
+f)[^329] lakásvásárlás esetén a támogatási szerződés megkötésétől számított kilenc hónapon belül, lakásépítés esetén a használatbavételi engedély megküldésével egyidejűleg nem igazolja, hogy a támogatással megszerzett lakóingatlan vonatkozásában a jogszabály szerinti lakcím-bejelentési kötelezettségét teljesítette, és nem igazolja azt, hogy az attól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz vagy az arra történő hazautazáshoz a honvédelmi szervezettől utazási költségtérítésben nem részesül,
 
 g) egyéb, jogszabályban vagy a lakáscélú támogatási megállapodásban előírt lényeges kötelezettségének nem tesz eleget.
 
-(3)[^327] A (2) bekezdés c) pontja szerinti időtartam lejárta előtt benyújtott és a mulasztást kellőképpen megindokolt kérelemre a teljesítési határidő építés esetén két évvel, vásárlás esetén három hónappal hosszabbítható meg.
+(3)[^330] A (2) bekezdés c) pontja szerinti időtartam lejárta előtt benyújtott és a mulasztást kellőképpen megindokolt kérelemre a teljesítési határidő építés esetén két évvel, vásárlás esetén három hónappal hosszabbítható meg.
 
 (4) A kölcsönt írásban kell felmondani és erről a folyósító pénzintézetet is értesíteni kell.
 
-[^312]: A 201. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja szerint módosított szöveg.
-[^313]: A 201. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 2. §-a szerint módosított szöveg.
-[^314]: A 201. § (1) bekezdés l) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^315]: A 201. § (1) bekezdés m) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^316]: A 201. § (1) bekezdés n) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^317]: A 201. § (1) bekezdés o) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^318]: A 201. § (1) bekezdés p) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^319]: A 201. § (1) bekezdés r) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^320]: A 201. § (1) bekezdés s) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^321]: A 201. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 18. § (2) bekezdése iktatta be.
-[^322]: A 201. § (1b) bekezdését a 9/2021. (III. 2.) HM rendelet 19. § (1) bekezdése iktatta be.
-[^323]: A 201. § (1c) bekezdését a 9/2021. (III. 2.) HM rendelet 19. § (1) bekezdése iktatta be.
-[^324]: A 201. § (2) bekezdés nyitó szövegrésze a 22/2013. (X. 7.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^325]: A 201. § (2) bekezdés e) pontja a 9/2021. (III. 2.) HM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^326]: A 201. § (2) bekezdés f) pontja a 9/2021. (III. 2.) HM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^327]: A 201. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^315]: A 201. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja szerint módosított szöveg.
+[^316]: A 201. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 2. §-a szerint módosított szöveg.
+[^317]: A 201. § (1) bekezdés l) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^318]: A 201. § (1) bekezdés m) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^319]: A 201. § (1) bekezdés n) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^320]: A 201. § (1) bekezdés o) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^321]: A 201. § (1) bekezdés p) pontja a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^322]: A 201. § (1) bekezdés r) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^323]: A 201. § (1) bekezdés s) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^324]: A 201. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 18. § (2) bekezdése iktatta be.
+[^325]: A 201. § (1b) bekezdését a 9/2021. (III. 2.) HM rendelet 19. § (1) bekezdése iktatta be.
+[^326]: A 201. § (1c) bekezdését a 9/2021. (III. 2.) HM rendelet 19. § (1) bekezdése iktatta be.
+[^327]: A 201. § (2) bekezdés nyitó szövegrésze a 22/2013. (X. 7.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^328]: A 201. § (2) bekezdés e) pontja a 9/2021. (III. 2.) HM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^329]: A 201. § (2) bekezdés f) pontja a 9/2021. (III. 2.) HM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^330]: A 201. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 19. § (3) bekezdésével megállapított szöveg.

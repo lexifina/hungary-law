@@ -2,9 +2,9 @@
 
 209. § (1) A kölcsöntámogatásban részesült személy halála esetén a túlélő házastárs, illetve az örökösök a kölcsöntartozást változatlan feltételek mellett fizethetik vissza.
 
-(2)[^334]
+(2)[^338]
 
-(3)[^335]
+(3)[^339]
 
-[^334]: A 209. § (2) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 28. pontja hatályon kívül helyezte.
-[^335]: A 209. § (3) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 28. pontja hatályon kívül helyezte.
+[^338]: A 209. § (2) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 28. pontja hatályon kívül helyezte.
+[^339]: A 209. § (3) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 28. pontja hatályon kívül helyezte.

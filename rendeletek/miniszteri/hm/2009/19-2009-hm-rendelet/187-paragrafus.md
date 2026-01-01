@@ -30,4 +30,7 @@ b) az (1) bekezdés c), f) és g) pontja szerinti esetekben a lakás legalább 5
 
 (4) Munkáltatói kölcsön legfeljebb két alkalommal nyújtható, ideértve a kiegészítő kölcsönt is.
 
+(5)[^280] Az (1) bekezdés c) pontja szerinti céllal akkor nyújtható munkáltatói kölcsön, ha a kérelmező az ügylethez szükséges pénzintézeti kölcsönszerződésben a szerződés megkötésekor legalább adóstársként szerepelt.
+
 [^279]: A 187. § a 9/2021. (III. 2.) HM rendelet 15. §-ával megállapított szöveg.
+[^280]: A 187. § (5) bekezdését a 17/2025. (XII. 29.) HM rendelet 1. §-a iktatta be.

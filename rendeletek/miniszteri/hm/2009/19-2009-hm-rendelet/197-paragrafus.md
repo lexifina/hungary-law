@@ -8,17 +8,17 @@ b) 20%-a, ha a futamidőből 15 évnél több, de 20 évnél kevesebb van hátra
 
 c) 15%-a, ha a futamidőből 5 évnél több, de 15 évnél kevesebb van hátra.
 
-(3)[^300] Az egyösszegű visszafizetési szándékot a kedvezményezettnek a lakáscélú támogatási szervvel kell írásban közölnie. A lakáscélú támogatási szerv a szándéknyilatkozat kézhezvételétől számított 15 napon belül az adós részére a kedvezmény (2) bekezdés szerinti mértékéről igazolást állít ki.
+(3)[^303] Az egyösszegű visszafizetési szándékot a kedvezményezettnek a lakáscélú támogatási szervvel kell írásban közölnie. A lakáscélú támogatási szerv a szándéknyilatkozat kézhezvételétől számított 15 napon belül az adós részére a kedvezmény (2) bekezdés szerinti mértékéről igazolást állít ki.
 
-(4)[^301] A honvédelmi szervezet állományába tartozó, fegyelmi vagy büntető eljárás hatálya alatt álló személy részére az igazolás csak akkor állítható ki, ha az eljárás a jogviszony megszűnése vagy megszüntetése nélkül fejeződik be.
+(4)[^304] A honvédelmi szervezet állományába tartozó, fegyelmi vagy büntető eljárás hatálya alatt álló személy részére az igazolás csak akkor állítható ki, ha az eljárás a jogviszony megszűnése vagy megszüntetése nélkül fejeződik be.
 
 (5) Amennyiben a kedvezményezett a kölcsönből fennálló tartozását szándékának előzetes közlése nélkül, egy összegben visszafizeti, a (2) bekezdés szerinti kedvezmény utólag nem érvényesíthető, illetőleg annak összege nem téríthető vissza.
 
-(6)[^302]
+(6)[^305]
 
-(7)[^303]
+(7)[^306]
 
-[^300]: A 197. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés e) pontja, (8) bekezdés b) pontja szerint módosított szöveg.
-[^301]: A 197. § (4) bekezdése a 10/2014. (VII. 25.) HM rendelet 58. § (2) bekezdés h) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja, a 19/2024. (IX. 19.) HM rendelet 5. § 25. pontja szerint módosított szöveg.
-[^302]: A 197. § (6) bekezdését a 4/2012. (IV. 5.) HM rendelet 13. §-a iktatta be. Hatályon kívül helyezte ugyanezen módosító rendelet 23. § (2) bekezdése, újonnan a 22/2013. (X. 7.) HM rendelet 17. §-a iktatta be. Hatályon kívül helyezte a 22/2013. (X. 7.) HM rendelet 27. § c) pontja.
-[^303]: A 197. § (7) bekezdését a 22/2013. (X. 7.) HM rendelet 17. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 27. § c) pontja.
+[^303]: A 197. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés e) pontja, (8) bekezdés b) pontja szerint módosított szöveg.
+[^304]: A 197. § (4) bekezdése a 10/2014. (VII. 25.) HM rendelet 58. § (2) bekezdés h) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja, a 19/2024. (IX. 19.) HM rendelet 5. § 25. pontja szerint módosított szöveg.
+[^305]: A 197. § (6) bekezdését a 4/2012. (IV. 5.) HM rendelet 13. §-a iktatta be. Hatályon kívül helyezte ugyanezen módosító rendelet 23. § (2) bekezdése, újonnan a 22/2013. (X. 7.) HM rendelet 17. §-a iktatta be. Hatályon kívül helyezte a 22/2013. (X. 7.) HM rendelet 27. § c) pontja.
+[^306]: A 197. § (7) bekezdését a 22/2013. (X. 7.) HM rendelet 17. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 27. § c) pontja.

@@ -1,3 +1,3 @@
-211/B. §[^341]
+211/B. §[^345]
 
-[^341]: A 211/B. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 22/2018. (XII. 28.) HM rendelet 5. §-a.
+[^345]: A 211/B. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 22/2018. (XII. 28.) HM rendelet 5. §-a.

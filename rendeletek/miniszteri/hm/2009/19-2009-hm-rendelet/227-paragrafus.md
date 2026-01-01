@@ -6,18 +6,18 @@
 
 a) ha az elhelyezési ellátás hadrenden belüli szervezet útján történik, a területileg illetékes MH elhelyezési szolgálat,
 
-b)[^364] ha az elhelyezési ellátás nem honvédelmi szervezet útján történik, a lakóházkezelési feladatokat megbízási szerződés alapján ellátó Szolgáltató és annak alvállalkozója.
+b)[^368] ha az elhelyezési ellátás nem honvédelmi szervezet útján történik, a lakóházkezelési feladatokat megbízási szerződés alapján ellátó Szolgáltató és annak alvállalkozója.
 
 (2) A helyi lakóházkezelő szerv a feladatait önálló hatáskörben
 
-a)[^365] az (1) bekezdés a) pontja esetében a helyőrség-parancsnokság, illetőleg honvédelmi szervezet működési területére,
+a)[^369] az (1) bekezdés a) pontja esetében a helyőrség-parancsnokság, illetőleg honvédelmi szervezet működési területére,
 
 b) az (1) bekezdés b) pontja esetében a szolgáltatási szerződésben, valamint szakmai intézkedésben meghatározott helyőrség-parancsnokságra (településre)
 
 kiterjedő illetékességgel látja el.
 
-(3)[^366] A lakóházkezelés szakmai irányító szerve a HM vagyonkezelői feladatokat ellátó szerv.
+(3)[^370] A lakóházkezelés szakmai irányító szerve a HM vagyonkezelői feladatokat ellátó szerv.
 
-[^364]: A 227. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^365]: A 227. § (2) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^366]: A 227. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^368]: A 227. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^369]: A 227. § (2) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^370]: A 227. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
