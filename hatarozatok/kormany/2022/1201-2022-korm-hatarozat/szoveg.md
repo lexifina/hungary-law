@@ -4,11 +4,7 @@ A Kormány a nyírbátori Báthori István Múzeum felújításához szükséges
 
 2.[^1] a Felújítás megvalósítása céljából a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 013 039 920 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében meghatározott jogkörében eljárva, a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 62. A nyírbátori Báthori István Múzeum felújításának megvalósítása jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^2]
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2022. évi részének rendelkezésre állásáról a 3. pont szerinti előirányzaton;
 
@@ -42,11 +38,12 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-8.[^2] felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Báthori István Múzeum múzeumszakmai fejlesztési feladatairól, azok ütemezett forrásigényéről, valamint a Felújítást követő működési és fenntartási költségekről.
+8.[^3] felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Báthori István Múzeum múzeumszakmai fejlesztési feladatairól, azok ütemezett forrásigényéről, valamint a Felújítást követő működési és fenntartási költségekről.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2023. február 28.
 
 [^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^2]: A 8. pont az 1534/2022. (XI. 7.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2011: CXCV. törvény a 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 8. pont az 1534/2022. (XI. 7.) Korm. határozat 3. pontja szerint módosított szöveg.
