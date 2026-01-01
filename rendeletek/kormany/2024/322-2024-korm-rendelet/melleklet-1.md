@@ -1,6 +1,6 @@
 1. melléklet a 322/2024. (XI. 6.) Korm. rendelethez
 
-A 9. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell felelnie a következő követelményeknek:
+## A 9. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell felelnie a következő követelményeknek:
 
 1. A tanúsító szervezet a tanúsítványát független akkreditált vizsgáló laboratórium által kiadott értékelési jelentés alapulvételével, valamely – informatikai termékek és rendszerek technológiai biztonsági értékelési követelményeit tartalmazó – szabvány vagy nyilvános műszaki követelményrendszer előírásainak való megfelelés alapján állítja ki.
 

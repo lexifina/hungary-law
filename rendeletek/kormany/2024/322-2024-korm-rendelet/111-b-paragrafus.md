@@ -1,0 +1,5 @@
+111/B. § (1) Amennyiben a közszférabeli szervezetnek az IEA Rendelet 3. cikk (1) bekezdésében meghatározott kötelezettségével összhangban interoperabilitási értékelést kell végeznie, annak megkezdésével egyidejűleg tájékoztatja a Felügyeletet ennek tényéről.
+
+(2) A Felügyelet a Dáptv. 72. § (1a) és (3a) bekezdése szerinti feladatkörében a közszférabeli szervezet számára a közszférabeli szervezet által elvégzett interoperabilitási értékelés sikeres lefolytatása érdekében, az IEA rendelet 3. cikk (3) bekezdése és 17. cikk (2) bekezdés b) pontja szerinti támogatást nyújt, amelybe bevonhatja a digitális állampolgárság szolgáltatót.
+
+(3) Az IEA Rendelet 3. cikk (2) bekezdése szerinti hivatalos honlap a közszférabeli szervezet saját honlapja. Az elkészült interoperabilitási értékelés eredményét bemutató jelentést a közszférabeli szervezet saját honlapján közzéteszi és a jelentésre mutató linket késedelem nélkül megküldi a Felügyeletnek. A Felügyelet az interoperabilitási értékelés eredményét bemutató jelentésekre mutató linkek gyűjteményét közzéteszi a saját honlapján.
