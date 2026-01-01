@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-133-00-00
 | 2019-01-01 | 2017. évi CLXXIX. törvény | 2009-133-00-00.11 |
 | 2021-07-16 | 2020. évi XLI. törvény | 2009-133-00-00.12 |
 | 2023-07-22 | 2023. évi LX. törvény | 2009-133-00-00.13 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2009-133-00-00.14 |
