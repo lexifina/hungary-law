@@ -10,7 +10,7 @@ c) célja, valamint
 
 d) teljesítésének tartalmi követelményei
 
-## nem változtatható meg.
+nem változtatható meg.
 
 (2) A miniszter törli a programot a hatósági nyilvántartásból, ha az ellenőrzés során azt tapasztalja, hogy a jogosult
 
@@ -19,3 +19,5 @@ a) a program címétől, céljától, követelményeitől és óraszámától el
 b) nem vezette a továbbképzéssel kapcsolatos előírt dokumentumokat, vagy
 
 c) nem biztosította a továbbképzés helyszínén a programban szereplő tárgyi és személyi feltételeket, és
+
+a hiányosságokat a miniszter által megállapított határidőben nem szüntette meg.

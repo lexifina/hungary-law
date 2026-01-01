@@ -8,8 +8,8 @@ aa) ha az érvényességi ideje eltelt,
 
 ab) ha a jogosult jogutód nélkül megszűnt, vagy
 
-ac)[^2]
+ac)[^3]
 
 b) ha a törlést a jogosult kéri.
 
-[^2]: A 6. § a) pont ac) alpontját a 475/2020. (X. 30.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^3]: A 6. § a) pont ac) alpontját a 475/2020. (X. 30.) Korm. rendelet 24. §-a hatályon kívül helyezte.
