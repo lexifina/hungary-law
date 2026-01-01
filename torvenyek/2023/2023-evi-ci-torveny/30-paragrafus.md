@@ -6,6 +6,6 @@
 
 a) közvetlen vagy másolati példányban a szolgáltatás igénylője számára hozzáférhetővé teszi az általa tárolt, illetve az általa külső forrásból közvetlenül hozzáférhető adatokat;
 
-b)
+b) közvetlen vagy másolati példányban hozzáférhetővé teszi a szolgáltatás igénylője számára a Nemzeti Adatplatformon keresztül hozzáférhető adatokat;
 
 c) adatokat kér az adatkezelő közfeladatot ellátó szervektől.

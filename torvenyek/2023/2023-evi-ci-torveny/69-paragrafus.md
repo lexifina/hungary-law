@@ -4,7 +4,7 @@
 
 (2) A 33. alcím szerinti egyszerűsített igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek elfogadásával jön létre.
 
-(3)
+(3) A 34. alcím szerinti automatizált igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek alapján az adatok kiadására vonatkozó automatikus döntéshozatali eljárásban meghozott döntés közlésével jön létre.
 
 (4) Az általános igénybevételi eljárásban megkötött további felhasználásra vonatkozó megállapodás tartalmazza legalább
 
