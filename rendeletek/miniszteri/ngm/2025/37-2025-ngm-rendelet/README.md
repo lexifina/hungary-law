@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-37-20-2
 | 2025-12-12 | 2025-37-20-2X.1 | 37/2025. (XII. 11.) NGM rendelet |
 | 2025-12-13 | 2025-37-20-2X.2 | 2010. évi CXXX. törvény |
 | 2025-12-31 | 2025-37-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-01-01 | 2025-37-20-2X.4 | 2010. évi CXXX. törvény |
