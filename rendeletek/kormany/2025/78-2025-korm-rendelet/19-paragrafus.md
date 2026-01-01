@@ -1,3 +1,3 @@
-19. §[^19]
+19. § Az Adóig. vhr. 95. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^19]: A 19. § a 28. § (5) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(2a) Ha a (2) bekezdés szerinti jegyzőkönyv elektronikus formában készült, az állami adó- és vámhatóság e tényről a jelen lévő alkalmazottat vagy az értékesítésben közreműködő személyt szóban tájékoztatja. A szóbeli közlés megtörténtét a jegyzőkönyvben rögzíteni kell.”
