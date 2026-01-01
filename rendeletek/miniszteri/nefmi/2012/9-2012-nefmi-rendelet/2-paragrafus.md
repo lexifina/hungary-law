@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában:
+2. § E rendelet alkalmazásában:
 
 a) megjelenési eset: egy igénybevevőnek egy járóbeteg-szakellátó intézménynél, egy rendelési nap során, egy szakmában történő megjelenése és ellátása legalább egy egészségügyi eljárással;
 

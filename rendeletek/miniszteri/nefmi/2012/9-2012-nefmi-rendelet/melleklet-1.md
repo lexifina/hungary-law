@@ -524,8 +524,6 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 6.5. Meddőségi vizsgálatok keretében végezhető eljárások
 
-16640* Meddőségi vizsgálat, női
-
 ## Az alábbi listából egy megjelenés során egy beteg részére legfeljebb három különböző egészségügyi eljárás számolható el:
 
 7. Vizsgálat elszámolási szabályai szakmák szerint

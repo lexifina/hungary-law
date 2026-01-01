@@ -1,3 +1,3 @@
-## 16. §[^15] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 2. és 3. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
+17. §[^16] Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet és az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló 9/2012. (II. 28.) NEFMI rendelet módosításáról szóló 33/2020. (IX. 16.) EMMI rendelettel megállapított 6. mellékletben foglalt táblázat 1. sora szerinti egészségügyi eljárás a 2020. októberi teljesítményektől kezdve számolható el telemedicinális ellátás keretében.
 
-[^15]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
+[^16]: A 17. §-t a 33/2020. (IX. 16.) EMMI rendelet 6. §-a iktatta be.
