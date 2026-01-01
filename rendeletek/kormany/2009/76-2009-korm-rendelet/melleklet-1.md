@@ -1,4 +1,4 @@
-## 8. §[^35] E rendelet 1. § (1) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való megfelelést szolgálja.
+## 8. §[^37] E rendelet 1. § (1) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való megfelelést szolgálja.
 
 1. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez
 
@@ -16,11 +16,11 @@ c) a fennmaradó konfliktusokat és ezek feloldására, illetve kezelésére tet
 
 d) az új változat következtében várhatóan fellépő káros hatások elkerülését szolgáló intézkedésekre vagy azok módosítására vonatkozó javaslatokat.
 
-2.[^36]
+2.[^38]
 
 3. A területi (környezeti, társadalmi és gazdasági) hatásvizsgálat egyidejűleg több eltérési javaslat egymással összefüggő elemzését is tartalmazhatja.
 
-4.[^37] A területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot a területrendezési terv vagy településrendezési terv méretarányának megfelelően megkövetelhető mélységben kell elvégezni.
+4.[^39] A területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot a területrendezési terv vagy településrendezési terv méretarányának megfelelően megkövetelhető mélységben kell elvégezni.
 
 II. Részletes követelmények
 
@@ -32,7 +32,7 @@ a) A kérelemben szereplő javaslatok területrendezési szempontú elemzése so
 
 – az érintett települések rendezésére, térbeli fejlődési lehetőségeikre.
 
-b)[^38] A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
+b)[^40] A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
 
 – a levegőre (levegőminőség, porszennyezés, zaj- és rezgésszint);
 
@@ -88,10 +88,10 @@ d) A kérelemben szereplő javaslatok gazdasági szempontú elemzése során viz
 
 – az ingatlanérték alakulására.
 
-e)[^39] A kérelem rajzi melléklete(i) a vonatkozó területrendezési terv(ek) hitelesített másolatának vagy a digitális adatbázisának felhasználásával készítendő(k) el a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet 11. §-ában foglaltak szerint.
+e)[^41] A kérelem rajzi melléklete(i) a vonatkozó területrendezési terv(ek) hitelesített másolatának vagy a digitális adatbázisának felhasználásával készítendő(k) el a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet 11. §-ában foglaltak szerint.
 
-[^35]: A 8. §-t a 75/2012. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
-[^36]: Az 1. melléklet I. alcím 2. pontját a 121/2019. (V. 27.) Korm. rendelet 9. § g) pontja hatályon kívül helyezte.
-[^37]: Az I. számú melléklet I. alcím 4. pontja a 420/2021. (VII. 15.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
-[^38]: Az 1. számú melléklet II. b) pontja a 197/2011. (IX. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^39]: Az 1. számú melléklet II. alcím e) pontja a 121/2019. (V. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^37]: A 8. §-t a 75/2012. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
+[^38]: Az 1. melléklet I. alcím 2. pontját a 121/2019. (V. 27.) Korm. rendelet 9. § g) pontja hatályon kívül helyezte.
+[^39]: Az I. számú melléklet I. alcím 4. pontja a 420/2021. (VII. 15.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^40]: Az 1. számú melléklet II. b) pontja a 197/2011. (IX. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. számú melléklet II. alcím e) pontja a 121/2019. (V. 27.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
