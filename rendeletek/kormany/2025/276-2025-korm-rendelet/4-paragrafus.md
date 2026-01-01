@@ -1,3 +1,1 @@
-4. §[^1]
-
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+4. § Az 1. melléklet helyébe a 2. melléklet lép.
