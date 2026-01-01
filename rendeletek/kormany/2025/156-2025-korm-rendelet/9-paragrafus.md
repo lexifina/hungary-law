@@ -2,7 +2,7 @@
 
 a) az elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai parlamenti és tanácsi irányelv 22. cikkének,
 
-b) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlamenti és tanácsi irányelv 25. cikkének,
+b)[^1]
 
 c) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i (EU) 2019/904 európai parlamenti és tanácsi irányelv 14. cikkének,
 
@@ -22,4 +22,9 @@ a) a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 
 
 b) a hajók újrafeldolgozásáról, valamint az 1013/2006/EK rendelet és a 2009/16/EK irányelv módosításáról szóló, 2013. november 20-i 1257/2013/EU európai parlamenti és tanácsi rendelet
 
+c)[^2] az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet,
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^1]: A 9. § (1) bekezdés b) pontját a 412/2025. (XII. 22.) Korm. rendelet 24. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 9. § (2) bekezdés c) pontját a 412/2025. (XII. 22.) Korm. rendelet 23. § (1) bekezdése iktatta be.
