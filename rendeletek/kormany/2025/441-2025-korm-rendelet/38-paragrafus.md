@@ -1,3 +1,3 @@
-38. §[^21]
+38. § A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet 8. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-[^21]: A 38. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(3a) Az egyéb szervezetnek – ideértve a 3. § (3) és (4) bekezdése szerinti egyéb szervezetet is – az éves beszámolóval egyidejűleg nem kell üzleti jelentést készíteni.”

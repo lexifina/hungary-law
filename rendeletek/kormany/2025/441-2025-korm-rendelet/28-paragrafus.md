@@ -1,3 +1,3 @@
-28. §[^10]
+28. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 165. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-[^10]: A 28. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+(Az államháztartás információs rendszerében)
