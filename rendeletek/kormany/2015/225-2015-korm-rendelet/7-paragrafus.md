@@ -6,7 +6,7 @@
 
 (4) A veszélyes hulladék hulladékkezelőhöz vagy kereskedőhöz történő szállítását követően az átvétel előtt a hulladékkezelő, a kereskedő ellenőrzi, hogy a veszélyes hulladék megegyezik-e a szállítási lapon, illetve a hulladék átadójával kötött szerződésben rögzített adatokkal. A hulladékkezelő, a kereskedő a veszélyes hulladékot a szállítótól csak abban az esetben veheti át, ha a veszélyes hulladékot a szállítási lapon feltüntetettel megegyező hulladékként azonosította.
 
-(5)[^5] A veszélyes hulladék szállítója a szállítmány hulladékkezelőnek, kereskedőnek történő átadását követően az átadás tényét a szállítónál lévő valamennyi szállítási lap példányán igazoltatja. A hulladékkezelő vagy a kereskedő a szállítási lap egy példányát a szállítónak visszaadja, amelyet a szállító igazolásként megőriz. A hulladékkezelő vagy a kereskedő a szállítási lap rá vonatkozó egy példányát bizonylatként megőrzi, s annak másolati példányát elektronikus úton a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadójának megküldi.
+(5)[^5] A veszélyes hulladék szállítója a szállítmány hulladékkezelőnek, kereskedőnek történő átadását követően az átadás tényét a szállítónál lévő valamennyi szállítási lap példányán igazoltatja. A hulladékkezelő vagy a kereskedő a szállítási lap egy példányát a szállítónak visszaadja, amelyet a szállító igazolásként megőriz. A hulladékkezelő vagy a kereskedő a szállítási lap rá vonatkozó egy példányát bizonylatként megőrzi, s annak másolati példányát elektronikus úton vagy papír alapon a veszélyes hulladék átvételét követő 30 napon belül a hulladék átadójának megküldi.
 
 (6)[^6] Nem köteles a hulladékkezelő, illetve a kereskedő a szállítási lap másolati példányát a hulladék átadójának megküldeni abban az esetben, ha a szállító és a hulladék átadó személye megegyezik.
 
@@ -14,7 +14,7 @@
 
 (8)[^8] A kitöltött szállítási lapot a hulladék átadójának, a szállítónak, a kereskedőnek, a hulladékkezelőnek 5 évig meg kell őriznie.
 
-[^5]: A 7. § (5) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^5]: A 7. § (5) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 395/2025. (XII. 16.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^6]: A 7. § (6) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
 [^7]: A 7. § (7) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
 [^8]: A 7. § (8) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 19. § (3) bekezdése iktatta be.
