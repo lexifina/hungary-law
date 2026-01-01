@@ -20,6 +20,6 @@ i) bírságot kiszabó határozat ügyiratszáma, valamint
 
 j) bírság megfizetésének időpontja.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a), b) és c) pontjában foglalt adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
+(2)
 
 (3) Az erdészeti hatóság az (1) bekezdés szerinti adatokat a bírság megfizetésének időpontjáig, de legalább 3 évig tartja nyilván.

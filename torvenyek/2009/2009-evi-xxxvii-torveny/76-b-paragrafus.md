@@ -10,4 +10,4 @@ d) a földalatti gomba gyűjtéséhez kiadott gyűjtési napló sorszáma, valam
 
 e) a gyűjtési napló kiadásának ideje.
 
-(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés d) pontjában foglalt adat tekintetében – közhiteles hatósági nyilvántartásnak minősül.

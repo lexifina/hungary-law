@@ -86,6 +86,8 @@ l) határozza meg az erdészeti hatóság által alkalmazható közigazgatási s
 
 27. a szállítójegy és a műveleti lap nyomtatványok előállítására használt programokkal szembeni követelményeket, valamint ezek használatára vonatkozó adatszolgáltatási kötelezettséggel kapcsolatos szabályokat.
 
+28. e törvény végrehajtására kiadott miniszteri rendeletben szabályozott nyilvántartások közhiteles adattartalmát.
+
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 
 1. erdő terméketlen területté, illetve felnyíló erdővé minősítésének részletes szabályait;

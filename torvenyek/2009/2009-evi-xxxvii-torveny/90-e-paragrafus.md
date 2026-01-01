@@ -16,4 +16,4 @@ f) a faanyag kereskedelmi lánc felügyelete keretében elvégzett valamennyi el
 
 g) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény hatálya alá tartozó erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó rendeletben meghatározott adatokat.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), e) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a) és e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
