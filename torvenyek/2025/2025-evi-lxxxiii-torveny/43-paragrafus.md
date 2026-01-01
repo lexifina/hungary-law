@@ -1,8 +1,8 @@
 43. § A Kiskeradó tv.
 
-a)
+a) 1. § 1. pontjában a „tevékenységek” szövegrész helyébe a „tevékenységek – ide nem értve az üzemanyagtöltő állomáson történő szolgáltatás-értékesítést –” szöveg,
 
-b)
+b) 6. § (1a) bekezdésében a „tevékenység” szövegrész helyébe a „tevékenység – ide nem értve az üzemanyagtöltő állomáson történő szolgáltatás-értékesítést –” szöveg,
 
 c)
 

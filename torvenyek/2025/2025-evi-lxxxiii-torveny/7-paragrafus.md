@@ -1,1 +1,9 @@
-### 7. §
+7. § Az Szja tv. a következő 111. §-sal egészül ki:
+
+„111. § (1) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 48. § (2a) bekezdése alkalmazásában a három gyermeket nevelő anyák kedvezményének érvényesítése érdekében az anya által a munkáltatónak, kifizetőnek 2025. évben megtett adóelőleg-nyilatkozatot a munkáltató, kifizető folytatólagos adóelőleg-nyilatkozatnak tekinti, kivéve, ha az anya új adóelőleg nyilatkozatot tesz.
+
+(2) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 67/C. § (5)–(7a) bekezdése szerinti adókiegyenlítés először a 2025. adóévről szóló adóbevallásban érvényesíthető. A 2025. adóévet megelőző évek bármelyikének adóbevallásában kriptoeszközzel végrehajtott ügyletből származó veszteségként feltüntetett, adókiegyenlítésként még el nem számolt veszteség az adókiegyenlítésre jogosító összeg meghatározásakor figyelembe vehető.
+
+(3) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 71/A. § (1) bekezdése szerinti Otthontámogatás, valamint a kapcsolódó állami támogatás nyújtásának, ellenőrzésének, a közterhek megfizetésének és a jogosulatlanul igénybe vett támogatás visszafizetésének céljából az Otthontámogatás igénybevételében közreműködő munkáltatóként és fenntartóként eljáró szerv vagy személy, továbbá a kincstár jogosult az igénylő azonosítására, a vele való kapcsolattartásra, az igényelt támogatásra, továbbá a támogatással érintett lakáskölcsön-szerződésre vonatkozó, a Kormány rendeletében meghatározott adatok kezelésére.
+
+(4) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 77/A. § (2) bekezdés m) pont mb) alpontja már a 2023. december 31-ét követően biztosított jogszerzés esetében is alkalmazható.”
