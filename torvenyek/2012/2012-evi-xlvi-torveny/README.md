@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2025-03-01 | 2024. évi LXXII. törvény | 2012-46-00-00.55 |
 | 2025-06-10 | 2025. évi XLII. törvény | 2012-46-00-00.56 |
 | 2025-06-26 | 2025. évi LXVII. törvény | 2012-46-00-00.57 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2012-46-00-00.58 |
