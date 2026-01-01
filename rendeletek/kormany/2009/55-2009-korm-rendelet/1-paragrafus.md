@@ -4,25 +4,26 @@
 
 a) vásár, piac: a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.) meghatározott értékesítési forma, értékesítési hely;
 
-b) alkalmi (ünnepi) vásár: ünnepekhez, rendezvényekhez, eseményekhez kapcsolódó alkalomszerű – legfeljebb 20 napig, indokolt esetben 30 napig tartható – vásár;
+b)[^3] alkalmi (ünnepi) vásár: ünnepekhez, rendezvényekhez, eseményekhez kapcsolódó alkalomszerű – legfeljebb 30 napig, indokolt esetben 45 napig tartható – vásár;
 
 c) állandó vásár, illetve piac: a b) pontban meghatározott időtartamot meghaladó ideig működő értékesítési forma, értékesítési hely, ideértve az ugyanazon helyszínen, nyitva tartása szerint csak meghatározott napokon és meghatározott időben, de rendszeresen működő vásárt, piacot is, ide nem értve a nagybani piaci tevékenységet;
 
 d) használtcikk-vásár, illetve -piac: olyan helyi jellegű, általában időszaki értékesítési hely, ahol az eredeti célra még rendeltetésszerűen használható terméket (használt cikk) árusítanak;
 
-e)[^3] fenntartó: a vásár, piac, illetve a bevásárlóközpont helyszínéül szolgáló terület, ingatlan tulajdonosa, bérlője vagy más jogcímen használója, aki a vásáron, piacon, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a helyhasználatot biztosítja, és aki a vásár, piac, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a kereskedelmet kiszolgáló szolgáltatási tevékenység folytatásáért felelős;
+e)[^4] fenntartó: a vásár, piac, illetve a bevásárlóközpont helyszínéül szolgáló terület, ingatlan tulajdonosa, bérlője vagy más jogcímen használója, aki a vásáron, piacon, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a helyhasználatot biztosítja, és aki a vásár, piac, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a kereskedelmet kiszolgáló szolgáltatási tevékenység folytatásáért felelős;
 
-f)[^4] üzemeltető: a fenntartó vagy a fenntartó által kijelölt, a vásár, piac, illetve a bevásárlóközpont vezetését, illetve annak működtetésével kapcsolatos feladatokat ellátó személy, aki a fenntartó nevében eljárni jogosult;
+f)[^5] üzemeltető: a fenntartó vagy a fenntartó által kijelölt, a vásár, piac, illetve a bevásárlóközpont vezetését, illetve annak működtetésével kapcsolatos feladatokat ellátó személy, aki a fenntartó nevében eljárni jogosult;
 
-g)[^5] állatvásár: olyan időszaki értékesítési hely – ideértve az állatbörzét és az állatárverést is –, ahol nem kizárólag egy állattartási helyről származó élő állatot – ide nem értve a fogyasztási célra szánt halat és más hasznos vízi állatot – árusítanak.
+g)[^6] állatvásár: olyan időszaki értékesítési hely – ideértve az állatbörzét és az állatárverést is –, ahol nem kizárólag egy állattartási helyről származó élő állatot – ide nem értve a fogyasztási célra szánt halat és más hasznos vízi állatot – árusítanak.
 
-h)[^6] helyi termelői piac: a kereskedelemről szóló törvényben meghatározott fogalom.
+h)[^7] helyi termelői piac: a kereskedelemről szóló törvényben meghatározott fogalom.
 
-(3)[^7] Nem kell alkalmazni a helyi termelői piacok esetében a 2. § (3) és (4) bekezdését, a 7. §-t, valamint a 8. § (2) és (3) bekezdését.
+(3)[^8] Nem kell alkalmazni a helyi termelői piacok esetében a 2. § (3) és (4) bekezdését, a 7. §-t, valamint a 8. § (2) és (3) bekezdését.
 
 [^2]: Az 1. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés e) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^4]: Az 1. § (2) bekezdés f) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^5]: Az 1. § (2) bekezdés g) pontját a 41/2010. (II. 26.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^6]: Az 1. § (2) bekezdés h) pontját a 260/2011. (XII. 7.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (3) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdés b) pontja a 395/2025. (XII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^5]: Az 1. § (2) bekezdés f) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^6]: Az 1. § (2) bekezdés g) pontját a 41/2010. (II. 26.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (2) bekezdés h) pontját a 260/2011. (XII. 7.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (3) bekezdését a 260/2011. (XII. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
