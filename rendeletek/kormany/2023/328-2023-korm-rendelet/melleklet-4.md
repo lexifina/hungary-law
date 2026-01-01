@@ -1,6 +1,6 @@
-4. melléklet a 328/2023. (VII. 17.) Korm. rendelethez[^9]
+4. melléklet a 328/2023. (VII. 17.) Korm. rendelethez[^10]
 
-A „Felsőzsolca-Sajóivánka 400 kV-os távvezeték II. rendszer létesítése” beruházás helyszíne
+## A „Felsőzsolca-Sajóivánka 400 kV-os távvezeték II. rendszer létesítése” beruházás helyszíne
 
 |  | A | B |
 
@@ -810,4 +810,4 @@ A „Felsőzsolca-Sajóivánka 400 kV-os távvezeték II. rendszer létesítése
 
 | 403. | Szuhakálló | 071/11 |
 
-[^9]: A 4. mellékletet a 445/2024. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 4. mellékletet a 445/2024. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be.

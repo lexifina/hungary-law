@@ -60,7 +60,7 @@
 
 | 30. | Debrecen Dél 400/132 kV-os alállomásban meddő kompenzáció kiépítése | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 31. | Kerepes 400/132 kV-os táppont bővítése 220 kV-os kapcsolóberendezéssel és 1x500 MVA 400/231 kV-os transzformátorral, Ócsa–Zugló 220 kV-os távvezeték felhasítása és beforgatása Kerepes 220 kV kapcsolóberendezésbe, az így létrejövő Kerepes–Zugló 220 kV-os távvezeték átépítése kétrendszerűre | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 31.[^8] |  |  |
 
 | 32. | Albertirsa 750/400 kV-os alállomásban az SF6 tokozott kapcsolóberendezés átépítése szabadtéri kivitelűre | Pest Vármegyei Kormányhivatalt vezető főispán |
 
@@ -70,9 +70,9 @@
 
 | 35. | Szolnok alállomáshoz csatlakozó 20 MW/60 MWh-s átviteli hálózat részét képező integrált villamosenergia-tároló létesítése | Jász-Nagykun-Szolnok Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 328/2023. (VII. 17.) Korm. rendelethez[^8]
+3. melléklet a 328/2023. (VII. 17.) Korm. rendelethez[^9]
 
-A „Debrecen Dél – Debrecen Józsa 400 kV-os távvezeték létesítése” beruházás helyszíne
+## A „Debrecen Dél – Debrecen Józsa 400 kV-os távvezeték létesítése” beruházás helyszíne
 
 |  | A | B |
 
@@ -1056,4 +1056,5 @@ A „Debrecen Dél – Debrecen Józsa 400 kV-os távvezeték létesítése” b
 
 | 490. | Hajdúböszörmény | 0252/51 |
 
-[^8]: A 3. mellékletet a 445/2024. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^8]: A 2. mellékletben foglalt táblázat 31. sorát a 395/2025. (XII. 16.) Korm. rendelet 44. §-a hatályon kívül helyezte.
+[^9]: A 3. mellékletet a 445/2024. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
