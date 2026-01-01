@@ -1,0 +1,3 @@
+3. § Az Ehat Vhr. 28/I. §-a helyébe a következő rendelkezés lép:
+
+„28/I. § A 6. melléklet 1.1. pontjában szereplő táblázatot a 2026-os kötelezettségi évre is alkalmazni kell az energiamegtakarítási kötelezettség Hivatal általi megállapítására. A Hivatal a 2026. évben teljesítendő energiamegtakarítási kötelezettség mértékét 2026. január 31-ig kiigazítja. A 6. melléklet 1.1. pontjában szereplő táblázat nem alkalmazható a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet és az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet módosításáról szóló 471/2025. (XII. 30.) Korm. rendelet hatálybalépését megelőzően hitelesített beruházásokra.”
