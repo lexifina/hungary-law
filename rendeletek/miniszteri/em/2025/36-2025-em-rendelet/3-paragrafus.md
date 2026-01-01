@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 29/2001. (XII. 23.) KöM–GM együttes rendelet 2. számú melléklete.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
