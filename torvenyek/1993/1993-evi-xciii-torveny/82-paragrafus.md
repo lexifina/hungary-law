@@ -1,4 +1,14 @@
-82. § (1) A munkavédelmi hatóság munkavédelmi bírságot alkalmaz az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó követelmények teljesítését elmulasztó, és ezzel a munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyeztető munkáltatóval vagy a 40. § (2) bekezdésében meghatározott összehangolási kötelezettség megvalósításáért felelős személlyel vagy szervezettel szemben.
+82. § (1) A munkavédelmi hatóság munkavédelmi bírságot alkalmaz
+
+a) az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó követelmények teljesítését elmulasztó, és ezzel a munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyeztető munkáltatóval,
+
+b) a 40. § (2) bekezdésében meghatározott összehangolási kötelezettség megvalósításáért felelős személlyel vagy szervezettel,
+
+c) a 63/G. § (1) bekezdésében meghatározott azbesztbontásra vagy azbesztmentesítésre vonatkozó engedéllyel nem rendelkező vállalkozást megbízó személlyel vagy szervezettel, illetve
+
+d) a 63/G. § (17) bekezdésében meghatározott értesítési kötelezettséget elmulasztó személlyel vagy szervezettel
+
+szemben.
 
 (2) A munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyezteti különösen
 
@@ -27,6 +37,8 @@ i) a megengedett értéket meghaladó expozícióban történő foglalkoztatás 
 j) a rákkeltő expozícióval járó tevékenység esetére a külön jogszabály által előírt mérések elmulasztása.
 
 k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technológiai folyamatban végzett munka esetére a munkavédelemre vonatkozó szabályban előírtnál kevesebb munkavállalói létszám foglalkoztatása; továbbá
+
+l) a 63/G. § szerinti, engedély nélkül vagy nem az engedélyben foglaltaknak megfelelően végzett azbesztbontási vagy azbesztmentesítési tevékenység.
 
 (3)
 

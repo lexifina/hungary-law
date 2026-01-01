@@ -66,6 +66,8 @@ A kockázatértékelés dokumentumát a munkáltató köteles a külön jogszab�
 
 (6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítását a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, legfeljebb 50 főt foglalkoztatók esetében foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja. A feladatot foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
+(6c) A megelőzési stratégia munkabiztonsági tartalmának kialakítása a legalább 50 főt foglalkoztató munkáltatóknál a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti I. és II. veszélyességi osztályba sorolt tevékenységek esetén felsőfokú munkavédelmi szakképzettséggel látható el.
+
 (7) Az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkáltató köteles
 
 a) a szükséges utasításokat és tájékoztatást a munkavégzést megelőzően a munkavállalónak megadni;
@@ -87,5 +89,7 @@ h) teljes felelősséggel megtenni minden szükséges intézkedést a munkaváll
 i) a munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
 
 (8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló jogszabályban foglalt szempontokat is figyelembe kell venni.
+
+(8a) A kockázatértékelés elkészítése a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti I. veszélyességi osztályba sorolt tevékenységek esetén a legalább 50 főt foglalkoztató munkáltatónál felsőfokú munkavédelmi szakképzettséggel látható el.
 
 (9) A munkáltató a kockázatértékelést követően, annak megállapításait figyelembe véve, a feltárt kockázatok kezelése során határozza meg a védekezés leghatékonyabb módját, a kollektív, műszaki egyéni védelem módozatait, illetve az alkalmazandó szervezési és egészségügyi megelőzési intézkedéseket.

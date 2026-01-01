@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-93-00-00
 | 2025-03-01 | 2024. évi LXXII. törvény | 1993-93-00-00.67 |
 | 2025-07-01 | 2024. évi LXXXV. törvény | 1993-93-00-00.68 |
 | 2025-12-21 | 2025. évi CI. törvény | 1993-93-00-00.69 |
+| 2026-01-01 | 2025. évi CI. törvény | 1993-93-00-00.58 |
