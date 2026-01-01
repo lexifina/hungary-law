@@ -12,4 +12,6 @@ d) nyilvánosságra hozza a napközbeni részvételi jelentések és a napközbe
 
 e) folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat, valamint
 
-f) fogadja a KÜVI-től a rendkívüli eseményekről kiállított jegyzőkönyveket és a benyújtott kifogásokat, valamint a szavazás lezárásáról kiállított jegyzőkönyveket.
+f)[^16]
+
+[^16]: A 23. § f) pontját a 12/2025. (IX. 15.) IM rendelet 33. § d) pontja hatályon kívül helyezte.

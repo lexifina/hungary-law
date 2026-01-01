@@ -20,6 +20,6 @@
 
 |  | jegyzőkönyvvezető |
 
-12. melléklet a 9/2016. (VI. 28.) IM rendelethez[^22]
+12. melléklet a 9/2016. (VI. 28.) IM rendelethez[^32]
 
-[^22]: A 12. melléklet a 26/2018. (IX. 7.) IM rendelet 28. § e) pontjával megállapított szöveg.
+[^32]: A 12. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.

@@ -1,29 +1,5 @@
-## 6K07391_0
+## 5X07363.pdf
 
-|  | A választópolgár adatai | A választópolgár aláírása |
+4. melléklet a 9/2016. (VI. 28.) IM rendelethez[^27]
 
-| 1. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| 2. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| 3. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| 4. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
-
-| … |  |  |
-
-4. melléklet a 9/2016. (VI. 28.) IM rendelethez
-
-Külképviseleti névjegyzék
-
-KÜLKÉPVISELETI NÉVJEGYZÉK
-
-ORSZÁGOS NÉPSZAVAZÁS
-
-(a szavazás napja)
-
-(KÜLKÉPVISELET)
-
-(szavazóhelyiség címe)
-
-1. oldal
+[^27]: A 4. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.

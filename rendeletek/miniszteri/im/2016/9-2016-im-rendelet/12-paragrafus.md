@@ -8,8 +8,9 @@ b) az informatikai rendszerben tárolt és a jegyzőkönyvi adatok eltérése es
 
 c) a szavazást követő három napon keresztül biztosítja a szavazóköri jegyzőkönyvek második példánya, valamint a határozatok nyilvánosságát, majd azokat irattározza,
 
-d) a szavazóköri jegyzőkönyvek első példányait a TVI vezetője által meghatározottak szerint továbbítja az országgyűlési egyéni választókerületi választási irodához (a továbbiakban: OEVI), a fővárosi kerületi HVI az NVI-hez, valamint
+d)[^10] ellátja a jegyzőkönyvek szkennelésével és továbbításával kapcsolatos feladatokat, valamint
 
-e)[^8] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+e)[^11] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
 
-[^8]: A 12. § e) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^10]: A 12. § d) pontja a 12/2025. (IX. 15.) IM rendelet 28. §-ával megállapított szöveg.
+[^11]: A 12. § e) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.

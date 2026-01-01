@@ -1,3 +1,5 @@
-6. melléklet a 9/2016. (VI. 28.) IM rendelethez[^19]
+## 5X07366.pdf
 
-[^19]: A 6. melléklet a 42/2022. (XII. 28.) IM rendelet 4. § (1) bekezdésével megállapított szöveg.
+6. melléklet a 9/2016. (VI. 28.) IM rendelethez[^29]
+
+[^29]: A 6. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.

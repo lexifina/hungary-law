@@ -1,5 +1,5 @@
-## 2X10898.pdf
+## 5X07367.pdf
 
-7. melléklet a 9/2016. (VI. 28.) IM rendelethez[^20]
+7. melléklet a 9/2016. (VI. 28.) IM rendelethez[^30]
 
-[^20]: A 7. melléklet a 26/2018. (IX. 7.) IM rendelet 28. § c) pontjával megállapított szöveg.
+[^30]: A 7. melléklet a 12/2025. (IX. 15.) IM rendelet 29. §-ával megállapított szöveg.
