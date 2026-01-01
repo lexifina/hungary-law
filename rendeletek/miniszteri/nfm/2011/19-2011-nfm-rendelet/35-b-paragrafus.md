@@ -1,4 +1,4 @@
-35/B. §[^178] (1) Vasúti pálya, vasúti biztosító berendezés, vonatbefolyásoló rendszer, valamint vontatási energiaellátó rendszer (a továbbiakban együtt: vasúti infrastruktúra) átalakítása vagy korszerűsítése esetén a beruházó adatközlése alapján a pályahálózat-működtető köteles
+35/B. §[^179] (1) Vasúti pálya, vasúti biztosító berendezés, vonatbefolyásoló rendszer, valamint vontatási energiaellátó rendszer (a továbbiakban együtt: vasúti infrastruktúra) átalakítása vagy korszerűsítése esetén a beruházó adatközlése alapján a pályahálózat-működtető köteles
 
 a) a tervezett átalakítás vagy korszerűsítés teljes folyamatáról a munkaterület-átadás tervezett időpontja előtt 3 hónappal a tervezett munka leírását, a tervezett kezdési és befejezési időpontokat tartalmazó általános tájékoztatást közzétenni, valamint ezt a tájékoztatást a pályahálózat-működtetővel nem azonos, érdekelt vasúti társaságoknak, a hatóságnak, a Vasúti Képzési Módszertani Központnak megküldeni;
 
@@ -32,4 +32,4 @@ alapképzését az (5) bekezdés szerinti aktualizált alapképzési program ala
 
 (11) A vasúti társaság, amelynek munkavállalói számára az átalakított vagy korszerűsített vasúti pályahálózat-ismeret a munkavégzés feltétele, köteles az átalakítás vagy korszerűsítés alatt álló vasúti infrastruktúrára vonatkozó időszakos vonalismereti vizsgakérdés/válasz adatbázist a pályahálózat-működtető (1) bekezdés c) pontja szerinti folyamatos tájékoztatása alapján aktualizálni.
 
-[^178]: A 35/B. § a 14/2024. (VI. 10.) ÉKM rendelet 22. §-ával megállapított szöveg.
+[^179]: A 35/B. § a 14/2024. (VI. 10.) ÉKM rendelet 22. §-ával megállapított szöveg.

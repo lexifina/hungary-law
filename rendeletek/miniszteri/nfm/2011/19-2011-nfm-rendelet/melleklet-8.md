@@ -1,4 +1,4 @@
-8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^238]
+8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^241]
 
 Képzési központok, képzőszervezetek és regisztrált szervezetek esetében az alapképzés és időszakos oktatás tárgyi feltételei
 
@@ -52,4 +52,4 @@ Képzési központok, képzőszervezetek és regisztrált szervezetek esetében 
 
 | 17. | Elektronikus, vezetékes vagy mobil telefonos elérhetőség | központi képzési helyszínen 1 |  |
 
-[^238]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 14/2024. (VI. 10.) ÉKM rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^241]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 14/2024. (VI. 10.) ÉKM rendelet 28. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^230]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^233]
 
 A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -660,4 +660,4 @@ V. Különleges kötöttpálya-hálózat
 
 | 2. | Különleges kötöttpályás közlekedési szakmai oktató | A képzőszervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-[^230]: Az 1. melléklet a 14/2024. (VI. 10.) ÉKM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^233]: Az 1. melléklet a 14/2024. (VI. 10.) ÉKM rendelet 28. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^239]
+9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^242]
 
 E rendelet hatálya alá tartozó OKJ képzések, és a szakképesítésre felkészítő szakmai képzések a vasúti ágazatban
 
@@ -42,7 +42,7 @@ E rendelet hatálya alá tartozó OKJ képzések, és a szakképesítésre felk�
 
 | 3. | 1041 | I. | 10 | Kocsirendező | Kocsirendező |
 
-4.[^240] Megfeleltetési táblázat szakmai oktatás keretében megszerzett szakma esetén
+4.[^243] Megfeleltetési táblázat szakmai oktatás keretében megszerzett szakma esetén
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -62,5 +62,5 @@ E rendelet hatálya alá tartozó OKJ képzések, és a szakképesítésre felk�
 
 | 8 | Elektronika és elektrotechnika | 5 | 0714 | 04 | 06 | Közlekedésautomatikai technikus |  | Biztosítóberendezési forgalmi – Egyszerűsített forgalmi: biztosítóberendezési szakszolgálat |
 
-[^239]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (4) bekezdésével megállapított szöveg.
-[^240]: A 9. melléklet 4. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (5) bekezdése iktatta be.
+[^242]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^243]: A 9. melléklet 4. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (5) bekezdése iktatta be.

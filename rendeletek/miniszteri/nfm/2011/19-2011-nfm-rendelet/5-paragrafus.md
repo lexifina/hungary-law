@@ -1,3 +1,3 @@
-5. §[^12]
+5. §[^13]
 
-[^12]: Az 5. §-t a 33/2016. (VIII. 2.) NFM rendelet 33. § b) pontja hatályon kívül helyezte.
+[^13]: Az 5. §-t a 33/2016. (VIII. 2.) NFM rendelet 33. § b) pontja hatályon kívül helyezte.

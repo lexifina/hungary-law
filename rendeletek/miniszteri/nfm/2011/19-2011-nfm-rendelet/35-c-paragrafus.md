@@ -1,4 +1,4 @@
-35/C. §[^179] (1) Az üzembentartó által üzemeltetni kívánt, üzemeltetett új vasúti jármű előzetes típusengedélyezését, típusengedélyezését vagy már meglévő jármű típusengedélyezését vagy átalakítási engedélyezését követően és az üzembe helyezési engedélyt megelőzően, vagy olyan történelmi és muzeális vasúti jármű esetén, amely nem különleges menetre vonatkozó üzembe helyezési engedéllyel vesz részt a vasúti forgalomban, a vasúti jármű üzembentartója vagy üzemeltetője magyar nyelvű előképzési programot készít a vasúti járműre vonatkozóan. A vasúti jármű üzembentartója vagy üzemeltetője az előképzési programot tájékoztatásul a hatóságnak megküldi.
+35/C. §[^180] (1) Az üzembentartó által üzemeltetni kívánt, üzemeltetett új vasúti jármű előzetes típusengedélyezését, típusengedélyezését vagy már meglévő jármű típusengedélyezését vagy átalakítási engedélyezését követően és az üzembe helyezési engedélyt megelőzően, vagy olyan történelmi és muzeális vasúti jármű esetén, amely nem különleges menetre vonatkozó üzembe helyezési engedéllyel vesz részt a vasúti forgalomban, a vasúti jármű üzembentartója vagy üzemeltetője magyar nyelvű előképzési programot készít a vasúti járműre vonatkozóan. A vasúti jármű üzembentartója vagy üzemeltetője az előképzési programot tájékoztatásul a hatóságnak megküldi.
 
 (2) A vasúti jármű üzembentartója vagy üzemeltetője a gyártó, valamint annak hiányában a vasúti jármű előző üzembentartója vagy üzemeltetője bevonásával az előképzési program alapján megszervezi a vizsgabiztosok, vasútszakmai oktatók, különleges kötöttpályás közlekedési szakmai oktatók részére a vasúti járműismeretre vonatkozó elméleti képzést. Ezen a képzésen a résztvevők száma a hatóság engedélye nélkül a 30 főt nem haladhatja meg. A képzés megtartásához nem szükséges vasútszakmai oktató, különleges kötöttpályás közlekedési szakmai oktató.
 
@@ -14,4 +14,4 @@
 
 (8) A jelen §-ban meghatározott értesítési és bejelentési kötelezettség elmulasztása esetén a munkavállaló nem jogosult az új vasúti jármű közlekedtetésére.
 
-[^179]: A 35/C. § a 14/2024. (VI. 10.) ÉKM rendelet 23. §-ával megállapított szöveg.
+[^180]: A 35/C. § a 14/2024. (VI. 10.) ÉKM rendelet 23. §-ával megállapított szöveg.

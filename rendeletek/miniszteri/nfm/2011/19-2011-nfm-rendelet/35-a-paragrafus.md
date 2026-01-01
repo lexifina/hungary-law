@@ -1,6 +1,6 @@
-## 30/A. [^176] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti infrastruktúra, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
+## 30/A. [^177] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti infrastruktúra, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
 
-35/A. §[^177] (1) Új vasúti pálya építése, illetve egy évnél hosszabb ideig forgalomszüneteltetett vasúti pálya (a továbbiakban együtt: új vasúti pálya) forgalomba helyezése esetén a beruházó adatközlése alapján a pályahálózat-működtető köteles
+35/A. §[^178] (1) Új vasúti pálya építése, illetve egy évnél hosszabb ideig forgalomszüneteltetett vasúti pálya (a továbbiakban együtt: új vasúti pálya) forgalomba helyezése esetén a beruházó adatközlése alapján a pályahálózat-működtető köteles
 
 a) a tervezett építés, illetve az egy évnél hosszabb ideig forgalomszüneteltetett vasúti pálya esetében a forgalomba helyezéshez szükséges munkálatok megkezdése előtt 3 hónappal az elvégzendő munkálatokról tájékoztatást közzétenni; a pályahálózat-működtetővel nem azonos érdekelt vasúti társaságokat, a hatóságot, a képzési módszertani központot írásban értesíteni;
 
@@ -64,5 +64,5 @@ b) helyi, illetve városi vasúti pályahálózat esetében a hálózatismereti 
 
 (17) A munkamódszer-átadó mellett teljesítendő szolgálat ellátása megtörténhet építési forgalom, korlátozott szolgáltatási szintű forgalmi körülmények vagy üzemi próba alatt is, a vasúti pálya használatbavételi engedélyének véglegessé válását megelőzően.
 
-[^176]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be, az alcím címe a 37/2020. (X. 14.) ITM rendelet 8. §-a szerint módosított szöveg.
-[^177]: A 35/A. § a 14/2024. (VI. 10.) ÉKM rendelet 21. §-ával megállapított szöveg.
+[^177]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be, az alcím címe a 37/2020. (X. 14.) ITM rendelet 8. §-a szerint módosított szöveg.
+[^178]: A 35/A. § a 14/2024. (VI. 10.) ÉKM rendelet 21. §-ával megállapított szöveg.

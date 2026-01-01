@@ -22,8 +22,8 @@
 
 | 11 | Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 6 | 6 | 6 | 6 | 6 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^233]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^236]
 
 A vasúti, a különleges kötöttpályás közlekedés biztonságával összefüggő képzések, a képzésben való részvétel feltételei, az alapképzés témakörei, a hatósági vizsgák vizsgatevékenységei, témakörei, a vizsgáztatás feltételei, a vizsgák megfeleltetése, a képesítéssel betölthető munkakörök
 
-[^233]: A 3. melléklet a 14/2024. (VI. 10.) ÉKM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^236]: A 3. melléklet a 14/2024. (VI. 10.) ÉKM rendelet 28. § (3) bekezdésével megállapított szöveg.

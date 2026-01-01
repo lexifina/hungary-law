@@ -2,9 +2,9 @@
 
 ## AZ ALAPKÉPZÉS RENDSZERE
 
-## 4. [^8] Az alapképzést végző szolgáltatók nyilvántartása
+## 4. [^9] Az alapképzést végző szolgáltatók nyilvántartása
 
-4. §[^9] (1)[^10] Alapképzés végzésére az e rendeletben meghatározott személyi és tárgyi feltételeket teljesítő, a hatóság által az alapképzést végző szolgáltatók nyilvántartásába vett gazdálkodó szervezet (a továbbiakban: képzőszervezet) jogosult.
+4. §[^10] (1)[^11] Alapképzés végzésére az e rendeletben meghatározott személyi és tárgyi feltételeket teljesítő, a hatóság által az alapképzést végző szolgáltatók nyilvántartásába vett gazdálkodó szervezet (a továbbiakban: képzőszervezet) jogosult.
 
 (2) A képzőszervezetek nyilvántartásába az a szervezet vehető, amely nyilatkozatban vállalja, hogy
 
@@ -14,7 +14,7 @@ b) biztosítani tudja a 8. mellékletben meghatározott tárgyi feltételeket é
 
 c) a szervezet tevékenységi körei között szerepel a máshová nem sorolt (Mns) egyéb oktatás.
 
-(3)[^11] Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezetők képzésével foglalkozó bejelentő a (2) bekezdésben meghatározott feltételeken túl az alapképzést végző szolgáltatók nyilvántartásába akkor vehető, ha
+(3)[^12] Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezetők képzésével foglalkozó bejelentő a (2) bekezdésben meghatározott feltételeken túl az alapképzést végző szolgáltatók nyilvántartásába akkor vehető, ha
 
 a) nyilatkozatban vállalja, hogy rendelkezik olyan vállalatirányítási rendszerrel, amely biztosítja, hogy az e rendeletben meghatározott előírásokkal összhangban lévő képzés nyújtására megfelelő képzettségű és gyakorlattal rendelkező oktatókat alkalmaznak;
 
@@ -36,7 +36,7 @@ f) nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a Vasúti 
 
 (7) A képzőszervezet minden év március 31-éig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységéről, és – statisztikai adatok közlésével – annak eredményességéről.
 
-[^8]: A 4. alcím címe a 33/2016. (VIII. 2.) NFM rendelet 32. § d) pontjával megállapított szöveg.
-[^9]: A 4. § a 33/2016. (VIII. 2.) NFM rendelet 15. §-ával megállapított szöveg.
-[^10]: A 4. § (1) bekezdése a 43/2021. (IX. 8.) ITM rendelet 4. §-ával megállapított szöveg.
-[^11]: A 4. § (3) bekezdése a 14/2024. (VI. 10.) ÉKM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 4. alcím címe a 33/2016. (VIII. 2.) NFM rendelet 32. § d) pontjával megállapított szöveg.
+[^10]: A 4. § a 33/2016. (VIII. 2.) NFM rendelet 15. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdése a 43/2021. (IX. 8.) ITM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 4. § (3) bekezdése a 14/2024. (VI. 10.) ÉKM rendelet 2. §-ával megállapított szöveg.

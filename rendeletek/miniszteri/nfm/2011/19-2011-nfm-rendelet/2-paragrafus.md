@@ -28,7 +28,7 @@
 
 13. kiegészítő alapképzés: a sikertelen alapvizsgát követően a rendeletben meghatározott vizsgával záruló képzés, amelyre az alapképzésre vonatkozó rendelkezéseket kell alkalmazni;
 
-14. Közlekedési Szakértői Testület: a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben meghatározott Közlekedési Szakértői Testület;
+14.[^5]
 
 15. különleges kötöttpályás közlekedési szakmai oktató: az alapképzésben vagy az időszakos oktatáson a különleges kötöttpályás közlekedés biztonságával összefüggő témaköröket oktató személy;
 
@@ -59,3 +59,4 @@
 28. zárt rendszerű távoktatási képzésmenedzsment rendszer: az Fktv.-ben meghatározott fogalom.
 
 [^4]: A 2. § a 14/2024. (VI. 10.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 14. pontját a 49/2025. (XII. 30.) ÉKM rendelet 4. § a) pontja hatályon kívül helyezte.

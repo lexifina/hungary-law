@@ -1,4 +1,4 @@
-10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^241]
+10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^244]
 
 Egyéb vasúti hatósági képzések
 
@@ -24,16 +24,16 @@ Egyéb vasúti hatósági képzések
 
 11. Vasúti balesetvizsgálók továbbképzése
 
-12.[^242] Kazánbiztosok továbbképzése
+12.[^245] Kazánbiztosok továbbképzése
 
-13.[^243] Felsőfokú kiegészítő hatósági vasúti jármű vizsgabiztosi továbbképzés
+13.[^246] Felsőfokú kiegészítő hatósági vasúti jármű vizsgabiztosi továbbképzés
 
-14.[^244] Felsőfokú kiegészítő hatósági műhely részterületi vezetői továbbképzés
+14.[^247] Felsőfokú kiegészítő hatósági műhely részterületi vezetői továbbképzés
 
-15.[^245] Vasúti biztonságkritikus kommunikáció képzés
+15.[^248] Vasúti biztonságkritikus kommunikáció képzés
 
-[^241]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (5) bekezdésével megállapított szöveg.
-[^242]: A 10. melléklet 12. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
-[^243]: A 10. melléklet 13. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
-[^244]: A 10. melléklet 14. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
-[^245]: A 10. melléklet 15. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
+[^244]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (5) bekezdésével megállapított szöveg.
+[^245]: A 10. melléklet 12. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
+[^246]: A 10. melléklet 13. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
+[^247]: A 10. melléklet 14. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.
+[^248]: A 10. melléklet 15. pontját a 14/2024. (VI. 10.) ÉKM rendelet 28. § (6) bekezdése iktatta be.

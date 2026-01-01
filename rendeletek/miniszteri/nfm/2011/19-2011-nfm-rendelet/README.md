@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-19-20-2
 | 2021-10-09 | 2011-19-20-2W.20 | 43/2021. (IX. 8.) ITM rendelet |
 | 2023-10-19 | 2011-19-20-2W.21 | 19/2023. (X. 16.) ÉKM rendelet |
 | 2024-07-10 | 2011-19-20-2W.22 | 14/2024. (VI. 10.) ÉKM rendelet |
+| 2026-01-01 | 2011-19-20-2W.23 | 49/2025. (XII. 30.) ÉKM rendelet |

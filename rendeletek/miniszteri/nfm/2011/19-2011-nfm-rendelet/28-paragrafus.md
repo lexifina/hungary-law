@@ -6,6 +6,6 @@
 
 28. § (1) Az időszakos vizsga szervezésére a regisztrált szervezet jogosult.
 
-(2)[^142] A vizsga előkészítése, szervezése a regisztrált szervezet, a vizsgatételek meghatározása és a vizsgabiztosok kijelölése a vizsgáztató szervezet feladata. Az időszakos vizsgát a munkavállalók vizsgáinak érvényességi idején belül kell megszervezni.
+(2)[^143] A vizsga előkészítése, szervezése a regisztrált szervezet, a vizsgatételek meghatározása és a vizsgabiztosok kijelölése a vizsgáztató szervezet feladata. Az időszakos vizsgát a munkavállalók vizsgáinak érvényességi idején belül kell megszervezni.
 
-[^142]: A 28. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 16. § 6. pontja szerint módosított szöveg.
+[^143]: A 28. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 16. § 6. pontja szerint módosított szöveg.

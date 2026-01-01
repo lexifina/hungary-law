@@ -1,10 +1,10 @@
-## 30/D. [^192] Zárt rendszerű elektronikus távoktatás
+## 30/D. [^193] Zárt rendszerű elektronikus távoktatás
 
-35/G. § (1) A hatóság évente legalább egy alkalommal – a Közlekedési Szakértői Testület szakmai javaslata alapján – pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (a továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag) tanúsításának, minősítésének megszerzésére.
+35/G. § (1)[^194] A hatóság évente legalább egy alkalommal pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (a továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag) tanúsításának, minősítésének megszerzésére.
 
 (2) A pályázati kiírást közzé kell tenni a hatóság honlapján. A pályázatok beadásának határideje a kiírástól számított 30 nap.
 
-(3) A hatóság az akkreditáció megszerzésére irányuló pályázattal kapcsolatos döntését a Közlekedési Szakértői Testület állásfoglalásának figyelembevételével hozza meg. A pályázatokat a beérkezés sorrendjében abból a szempontból vizsgálja, hogy megfelelnek-e
+(3)[^195] A hatóság az akkreditáció megszerzésére irányuló pályázatokat a beérkezés sorrendjében abból a szempontból vizsgálja, hogy megfelelnek-e
 
 a) a Rendszer vonatkozásában
 
@@ -32,4 +32,6 @@ bc) színvonala és kidolgozottsága tekintetében – ideértve, de nem kizár�
 
 (9) A hatóság az akkreditált Rendszerek és a Tananyagok listáját és akkreditációs számát honlapján közzéteszi.
 
-[^192]: A 30/D. alcímet (35/G–35/H. §) a 43/2021. (IX. 8.) ITM rendelet 21. §-a iktatta be.
+[^193]: A 30/D. alcímet (35/G–35/H. §) a 43/2021. (IX. 8.) ITM rendelet 21. §-a iktatta be.
+[^194]: A 35/G. § (1) bekezdése a 49/2025. (XII. 30.) ÉKM rendelet 4. § b) pontja szerint módosított szöveg.
+[^195]: A 35/G. § (3) bekezdése a 49/2025. (XII. 30.) ÉKM rendelet 3. §-ával megállapított szöveg.
