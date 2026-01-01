@@ -18,8 +18,8 @@ f) a dohányzásról való leszokás támogatásával.
 
 (3) A javítóintézetben gondoskodni kell arról, hogy a fiatalkorú hozzájusson ahhoz a terápiához, amely személyiségfejlődésének korrekciójához, személyiségzavara, beilleszkedési zavara enyhítéséhez, szenvedélybetegsége gyógyításához szükséges, valamint arról, hogy a fogyatékossággal élő fiatalkorú megfelelő gyógypedagógiai ellátásban részesüljön.
 
-(4)[^28]
+(4)[^29]
 
 (5) Ha a félbeszakítás meghosszabbítása szükséges, a javítóintézet igazgatója a félbeszakítás lejárta előtt előterjesztést készít a miniszternek.
 
-[^28]: A 26. § (4) bekezdését a 44/2015. (X. 2.) EMMI rendelet 2. §-a hatályon kívül helyezte.
+[^29]: A 26. § (4) bekezdését a 44/2015. (X. 2.) EMMI rendelet 2. §-a hatályon kívül helyezte.

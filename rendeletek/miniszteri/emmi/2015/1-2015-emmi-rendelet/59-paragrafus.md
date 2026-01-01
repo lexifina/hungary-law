@@ -6,8 +6,8 @@
 
 a) a javítóintézet székhelye szerint illetékes rendőri szervet,
 
-b)[^64] azt a főügyészséget, amelynek a területén a fiatalkorúval szemben a büntetőeljárás folyamatban van és
+b)[^65] azt a főügyészséget, amelynek a területén a fiatalkorúval szemben a büntetőeljárás folyamatban van és
 
 c) a rendelkezési jogkör gyakorlóját.
 
-[^64]: Az 59. § b) pontja az 50/2022. (XII. 27.) BM rendelet 9. §-a szerint módosított szöveg.
+[^65]: Az 59. § b) pontja az 50/2022. (XII. 27.) BM rendelet 9. §-a szerint módosított szöveg.

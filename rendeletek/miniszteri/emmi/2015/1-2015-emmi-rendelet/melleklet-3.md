@@ -76,7 +76,7 @@
 
 ## – középfokú iskolai végzettség
 
-3. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^74]
+3. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^75]
 
 1. A javítóintézeti nevelés elrendelése esetén a fiatalkorúak felvételére kijelölt javítóintézetek
 
@@ -122,4 +122,4 @@ Rákospalotai Javítóintézet és Központi Speciális Gyermekotthon
 
 8800 Nagykanizsa, Kemping utca 6.
 
-[^74]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a, a 4/2018. (I. 23.) EMMI rendelet 5. §-a, a 6/2019. (III. 12.) EMMI rendelet 5. § v) pontja, a 6/2020. (III. 6.) Korm. rendelet 10. § b) pontja, a 8/2023. (III. 28.) BM rendelet 1. § a)-e) pontja szerint módosított szöveg.
+[^75]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a, a 4/2018. (I. 23.) EMMI rendelet 5. §-a, a 6/2019. (III. 12.) EMMI rendelet 5. § v) pontja, a 6/2020. (III. 6.) Korm. rendelet 10. § b) pontja, a 8/2023. (III. 28.) BM rendelet 1. § a)-e) pontja szerint módosított szöveg.

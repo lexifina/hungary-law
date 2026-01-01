@@ -1,3 +1,3 @@
-## 65. §[^68] A letartóztatott fiatalkorú szabadon bocsátásakor a javítóintézet a 48. § szerint jár el.
+## 65. §[^69] A letartóztatott fiatalkorú szabadon bocsátásakor a javítóintézet a 48. § szerint jár el.
 
-[^68]: A 65. § a 6/2019. (III. 12.) EMMI rendelet 5. § r) pontja szerint módosított szöveg.
+[^69]: A 65. § a 6/2019. (III. 12.) EMMI rendelet 5. § r) pontja szerint módosított szöveg.
