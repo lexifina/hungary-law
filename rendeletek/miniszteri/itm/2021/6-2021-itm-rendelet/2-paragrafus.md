@@ -20,10 +20,12 @@
 
 9. zárt rendszerű távoktatási képzésmenedzsment rendszer: az Fktv.-ben ekként meghatározott fogalom;
 
-10. Közlekedési Szakértői Testület: a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben meghatározott Közlekedési Szakértői Testület;
+10.[^1]
 
 11. képzés: pilóta nélküli légijárművek irányításához szükséges ismeretek megszerzésére irányuló, jogszabály által előírt oktatási folyamat;
 
 12. önállóan végzett képzés: jogszabály által előírtan, de tanfolyami kötelezettség nélkül a tanuló által önállóan vagy segítséggel végzett elméleti és/vagy gyakorlati képzés.
 
 (2) Az e rendeletben nem szabályozott fogalmak tekintetében az (EU) 2019/947 bizottsági végrehajtási rendelet, valamint a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzembentartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet és a légiközlekedésről szóló törvény értelmező rendelkezései az irányadók.
+
+[^1]: A 2. § (1) bekezdés 10. pontját a 49/2025. (XII. 30.) ÉKM rendelet 7. § a) pontja hatályon kívül helyezte.

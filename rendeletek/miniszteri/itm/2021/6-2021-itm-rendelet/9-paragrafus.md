@@ -2,6 +2,6 @@
 
 (2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és a tanácsi irányelvnek való megfelelést szolgálja.
 
-(3)[^11]
+(3)[^14]
 
-[^11]: A 9. § (3) bekezdését az 55/2021. (XI. 5.) ITM rendelet 41. §-a hatályon kívül helyezte.
+[^14]: A 9. § (3) bekezdését az 55/2021. (XI. 5.) ITM rendelet 41. §-a hatályon kívül helyezte.

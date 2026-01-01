@@ -1,10 +1,10 @@
-5. § (1) A légiközlekedési hatóság évente egy alkalommal – a Közlekedési Szakértői Testület szakmai javaslata alapján – pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (a továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag) tanúsításának, minősítésének megszerzésére.
+5. § (1)[^11] A légiközlekedési hatóság évente egy alkalommal pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (a továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag) tanúsításának, minősítésének megszerzésére.
 
 (2) A pályázónak díjat kell fizetnie, melynek mértéke Tananyagonként és Rendszerenként 500 000 forint.
 
 (3) A pályázati kiírást a légiközlekedési hatóság a honlapján közzéteszi. A pályázatok beadásának határideje a kiírástól számított 30 nap, a pályázathoz csatolni kell a díj befizetéséről szóló igazolást.
 
-(4) A légiközlekedési hatóság az akkreditáció megszerzésére irányuló pályázattal kapcsolatos döntését a Közlekedési Szakértői Testület állásfoglalásának figyelembevételével hozza meg. A pályázatokat a beérkezés sorrendjében abból a szempontból vizsgálja, hogy megfelelnek-e:
+(4)[^12] A légiközlekedés hatóság az akkreditáció megszerzésére irányuló pályázatokat a beérkezés sorrendjében abból a szempontból vizsgálja, hogy megfelelnek-e:
 
 a) a Rendszer vonatkozásában
 
@@ -31,3 +31,6 @@ bc) színvonal és kidolgozottság tekintetében az adott képzésben korábban 
 (9) Amennyiben az akkreditált Rendszer vagy Tananyag a (8) bekezdés szerinti módosítása szerinti változata az erre vonatkozó felszólítást követő 10 munkanapon belül sem felel meg a jogszabályi, tantervi, akkreditációs előírásoknak, a légiközlekedési hatóság a Rendszer vagy a Tananyag akkreditációját visszavonja.
 
 (10) A légiközlekedési hatóság az akkreditált Rendszer és a Tananyag listáját és akkreditációs számát honlapján közzéteszi.
+
+[^11]: Az 5. § (1) bekezdése a 49/2025. (XII. 30.) ÉKM rendelet 7. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 49/2025. (XII. 30.) ÉKM rendelet 6. §-ával megállapított szöveg.

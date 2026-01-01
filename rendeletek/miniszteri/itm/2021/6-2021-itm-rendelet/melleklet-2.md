@@ -14,7 +14,7 @@
 
 | 7. | Gyakorlat | UAS rendszerek üzembentartásának gyakorlata | A távoli pilóta megszerezze az UAS rendszerek földi és légi üzemeltetéséhez szükséges gyakorlati ismereteket, beleértve a repüléstervezést, a légtérhasználati ismereteket, a műveleti területtel kapcsolatos kockázatok értékelését, a normál, vészhelyzeti és sürgősségi eljárásokat, a pilóta nélküli légi jármű repülési útvonalának vezérlését és automatizálásának kezelését, a repülés előtti és repülés utáni ellenőrzéseket, a légiforgalmi kommunikációs ismereteket és az emberi tényezőkből fakadó kockázatok gyakorlati kezelésére vonatkozó ismereteket. | 16 óra |
 
-2. melléklet a 6/2021. (II. 5.) ITM rendelethez[^13]
+2. melléklet a 6/2021. (II. 5.) ITM rendelethez[^16]
 
 Drón pilóta vizsga
 
@@ -28,4 +28,4 @@ Drón pilóta vizsga
 
 ”
 
-[^13]: A 2. mellékletet a 9/2022. (VIII. 1.) TIM rendelet 69. §-a iktatta be.
+[^16]: A 2. mellékletet a 9/2022. (VIII. 1.) TIM rendelet 69. §-a iktatta be.
