@@ -1,1 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény 48. §-ának (3) bekezdése b) pontjának 1. alpontjában kapott felhatalmazás alapján – figyelemmel a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet 19. §-ának (2) bekezdésére – a következőket rendelem el:
