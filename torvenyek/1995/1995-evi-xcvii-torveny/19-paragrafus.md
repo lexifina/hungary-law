@@ -40,7 +40,7 @@ f) a repülés végrehajtásának kiegészítő feltételeit,
 
 g) az üzemben tartási engedély időbeli hatályát.
 
-(7a) Az üzemben tartási engedélyekről vezetett nyilvántartás a (7) bekezdésben meghatározott adatok vonatkozásában – a (7) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(7a)
 
 (8) A polgári légiközlekedés tekintetében az üzemben tartás feltételeit az (1) bekezdés a) és c) pontjában és a (3) bekezdésben meghatározott esetekben a miniszter állapítja meg.
 

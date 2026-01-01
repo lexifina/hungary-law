@@ -24,4 +24,4 @@ b) kormányrendeletben meghatározott esetben és feltételek szerint a pilóta 
 
 (6) A lajstromba vett légijárműre, repülőeszközre — a lajstromba történt bejegyzéssel — jelzálogot lehet alapítani.
 
-(7) A lajstrom nyilvános, közhiteles nyilvántartás. A bejegyzett adatokról a légiközlekedési hatóság — kérelemre — tájékoztatást (kivonatot) ad.
+(7) A lajstrom nyilvános, valamint a légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló kormányrendelet szerinti adatok tekintetében közhiteles nyilvántartás. A bejegyzett adatokról a légiközlekedési hatóság – kérelemre – tájékoztatást (kivonatot) ad.

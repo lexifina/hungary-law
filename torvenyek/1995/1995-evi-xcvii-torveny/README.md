@@ -82,3 +82,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2025-06-24 | 2025. évi LV. törvény | 1995-97-00-00.102 |
 | 2025-11-01 | 2025. évi LXX. törvény | 1995-97-00-00.103 |
 | 2025-12-23 | 2020. évi CLXXIX. törvény | 1995-97-00-00.105 |
+| 2026-01-01 | 2025. évi CXX. törvény | 1995-97-00-00.104 |
