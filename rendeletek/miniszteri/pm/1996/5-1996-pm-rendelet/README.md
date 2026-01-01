@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-5-20-53
 | 2023-01-01 | 1996-5-20-53.14 | 40/2012. (XII. 20.) NGM rendelet |
 | 2024-01-01 | 1996-5-20-53.15 | 40/2012. (XII. 20.) NGM rendelet |
 | 2025-01-01 | 1996-5-20-53.16 | 40/2012. (XII. 20.) NGM rendelet |
+| 2026-01-01 | 1996-5-20-53.17 | 40/2012. (XII. 20.) NGM rendelet |
