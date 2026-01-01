@@ -43,5 +43,3 @@ d) a befektetési vállalkozás tájékoztatja a Felügyeletet a közgyűlés el
 9. A 8. pont b) alpontja szerinti előterjesztés tartalmazza:
 
 a) a magasabb alapjavadalmazás-teljesítményjavadalmazás arány szükségességének indoklását,
-
-b) a javasolt maximális arányt,
