@@ -160,7 +160,7 @@
 
 | referenciatávolság méterben | 150 | 150 | 150 | 150 |
 
-## Az LAmax hangnyomásszintek kiszámításához, amelyből a Közlekedéstudományi Intézet által közzétett ,,Zajgátló védőövezet számítási módszere” alapján az egyenértékű zajszintek számíthatók, szükséges a fajlagos csillapítási tényező ismerete. A hivatkozott tanulmány 6. táblázata tartalmazza a szükséges oktávonkénti értékeket. Mivel a zajszámítás módszerei különbözőek lehetnek, esetleg tercenkénti szintekkel is rendelkezésre álló zajforrások esetén, az ICAO Annex 16. V. kötete 1. fejezetének a légijárművek zajkibocsátására vonatkozó táblázatai teljes mértékben felhasználhatók (például a doppler hatás is számítható nagy fel- és leszálló sebességek esetén). Ha szabványokon alapuló tényleges mérések rendelkezésre állnak, annak eredményeit kell alkalmazni minden egyéb számítási módszerrel szemben.
+## Az LAmax hangnyomásszintek kiszámításához, amelyből a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet által közzétett ,,Zajgátló védőövezet számítási módszere” alapján az egyenértékű zajszintek számíthatók, szükséges a fajlagos csillapítási tényező ismerete. A hivatkozott tanulmány 6. táblázata tartalmazza a szükséges oktávonkénti értékeket. Mivel a zajszámítás módszerei különbözőek lehetnek, esetleg tercenkénti szintekkel is rendelkezésre álló zajforrások esetén, az ICAO Annex 16. V. kötete 1. fejezetének a légijárművek zajkibocsátására vonatkozó táblázatai teljes mértékben felhasználhatók (például a doppler hatás is számítható nagy fel- és leszálló sebességek esetén). Ha szabványokon alapuló tényleges mérések rendelkezésre állnak, annak eredményeit kell alkalmazni minden egyéb számítási módszerrel szemben.
 
 ## Ezen zajnormatívák felhasználhatók esetleges nagyobb pontosságú, szimulációs módszernél is. Ebben az esetben már figyelembe vehető a gömbsugárzótól eltérő térbeli irányítottság is.
 
@@ -212,7 +212,17 @@ együttes rendelethez[^66]
 
 4.2.[^74] a zajterhelés értékeléséhez (azaz az izofon görbék és az érintett lakosság számának meghatározásához) az 1. számú függelékben meghatározott zajjellemzőket, az Lden és Lnight értéket kell használni. További olyan zajjellemzők is alkalmazhatók, amelyek objektív adatokon alapulnak.
 
-[^65]: A 2. számú melléklet 2. pontja a a 19/2025. (VI. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+## 1. számú függelék
+
+## a 18/1997. (X. 11.) KHVM–KTM
+
+## együttes rendelet
+
+## 3. számú mellékletéhez
+
+Zajra vonatkozó jellemzők
+
+[^65]: A 2. számú melléklet 2. pontja a a 19/2025. (VI. 27.) ÉKM rendelet 1. §-a, a 47/2025. (XII. 29.) ÉKM rendelet 1. §-a szerint módosított szöveg.
 [^66]: A 3. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
 [^67]: A 3. számú melléklet címe a 17/2016. (VI. 10.) NFM rendelet 7. §-a szerint módosított szöveg.
 [^68]: A 3. számú melléklet 1.4. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.

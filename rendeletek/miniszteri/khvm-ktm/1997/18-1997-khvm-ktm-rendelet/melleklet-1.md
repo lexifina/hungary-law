@@ -2,16 +2,6 @@
 
 együttes rendelethez[^63]
 
-## 1. számú függelék
-
-## a 18/1997. (X. 11.) KHVM–KTM
-
-## együttes rendelet
-
-## 3. számú mellékletéhez
-
-## Zajra vonatkozó jellemzők
-
 ## (a 3. számú melléklet 4.2. pontja szerint)
 
 1. A nappali – esti – éjszakai zajszint Lden

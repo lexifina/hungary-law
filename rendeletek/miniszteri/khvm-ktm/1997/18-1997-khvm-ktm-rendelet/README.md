@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-18-20-6
 | 2024-01-03 | 1997-18-20-6B.14 | 32/2023. (XII. 29.) ÉKM rendelet |
 | 2024-07-03 | 1997-18-20-6B.15 | 16/2024. (VII. 2.) ÉKM rendelet |
 | 2025-07-01 | 1997-18-20-6B.16 | 19/2025. (VI. 27.) ÉKM rendelet |
+| 2026-01-01 | 1997-18-20-6B.17 | 19/2025. (VI. 27.) ÉKM rendelet |
