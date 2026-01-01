@@ -22,7 +22,7 @@
 
 | 11. | Véső úti Sporttelep és Strandfürdő fejlesztés, Véső úti R.A.J.T. (Szolnok) | Szolnok közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 4946, 4980, 4990, 5024/1, 5024/4, 5024/5, 5370/2, 5370/3, 6663, 6693, 6831, 7038, 7198, 7303, 7326, 7350/1, 7353/7, 7355/3, 7355/4, 7355/5, 7356, 7436/6 és 7436/7 helyrajzi számú ingatlanok | Jász-Nagykun-Szolnok Vármegyei Kormányhivatalt vezető főispán |
 
-| 12. | Szabadidőközpont kialakítása Érdligeten | Érden a Sárd, Néra, Sás, Láp, Temes, Patak, Zagyva, Zala, Zápor és Tétényi u. által határolt területen, az Érd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 02/1, 02/3, 02/4, 02/5, 02/6, 02/7, 02/8, 02/9, 02/10, 02/11, 02/12, 02/13, 02/14, 02/15, 02/16, 02/17, 02/18, 02/19, 02/20, 03, 04/2, 04/3, 04/4, 04/5, 04/6, 04/7, 04/8, 04/9, 04/10, 05, 07/6, 07/7, 07/8, 07/10, 07/12, 07/13 és 07/14 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 12. |  |  |  |
 
 | 13. | Nyíregyházi Atlétikai Centrum | Nyíregyháza közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 6743 helyrajzi számú ingatlan, természetben a Nyíregyháza, Tiszavasvári út, Derkovits Gyula utca és Erkel Ferenc utca által határolt terület | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatalt vezető főispán |
 

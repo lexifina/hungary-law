@@ -4,4 +4,4 @@
 
 [^27]: A 16. §-t a 173/2021. (IV. 9.) Korm. rendelet 2. §-a iktatta be.
 [^28]: A hatálybalépés időpontja 2021. április 10.
-[^29]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a, a 371/2020. (VII. 30.) Korm. rendelet 46. §-a, a 173/2021. (IV. 9.) Korm. rendelet 1. §-a, az 546/2022. (XII. 22.) Korm. rendelet 183. § a)-e) pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a, a 371/2020. (VII. 30.) Korm. rendelet 46. §-a, a 173/2021. (IV. 9.) Korm. rendelet 1. §-a, az 546/2022. (XII. 22.) Korm. rendelet 183. § a)-e) pontja, a 395/2025. (XII. 16.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
