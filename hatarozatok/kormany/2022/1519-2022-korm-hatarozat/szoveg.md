@@ -6,11 +6,7 @@ A Kormány a veszélyhelyzet idején a villamos energia és földgáz egyetemes 
 
 | Határidő: | a 3. pont szerinti forrás rendelkezésre állását követően azonnal |
 
-2. – az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva – a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 21. Központi kezelésű előirányzatok címet a 18. Rezsivédelmi szolgáltatás ellentételezése alcímmel és azon belül az 1. Rezsivédelmi szolgáltatás ellentételezésével összefüggő kiadások jogcímcsoporttal egészíti ki;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+2.[^1]
 
 3. felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter kezdeményezésére gondoskodjon a rezsivédelmi szolgáltatás biztosításának ellentételezéséhez szükséges első részlet céljára 157 496 200 805 forint forrás rendelkezésre állásáról a 2. pont szerinti jogcímcsoport javára;
 
@@ -23,3 +19,5 @@ A Kormány a veszélyhelyzet idején a villamos energia és földgáz egyetemes 
 | Felelős: | technológiai és ipari miniszter pénzügyminiszter |
 
 | Határidő: | legkésőbb 2022. december 15-ig |
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
