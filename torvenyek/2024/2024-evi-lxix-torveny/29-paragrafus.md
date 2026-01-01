@@ -8,17 +8,35 @@ ab) a szervezet székhelyét, telephelyét, fióktelepét,
 
 ac) ha a szervezet nem az Európai Unióban letelepedett szervezet, de Magyarországon belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
 
-ad) az elektronikus információs rendszer biztonságáért felelős személy természetes személyazonosító adatait, telefonszámát és elektronikus levelezési címét,
+ad) a szervezet nyilvántartásba vételének és az abból történő törlésének időpontját,
 
-ae) azon európai uniós tagállamok listáját, amelyben a szervezet szolgáltatásokat nyújt,
+ae) az elektronikus információs rendszer biztonságáért felelős személy természetes személyazonosító adatait, telefonszámát és elektronikus levelezési címét,
 
-af) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat;
+af) azon európai uniós tagállamok listáját, amelyben a szervezet szolgáltatásokat nyújt,
 
-b) a sérülékenységvizsgálat végzésére jogosult szervezet azonosításához szükséges adatokat, a szervezet elérhetőségeit, ideértve az elektronikus elérhetőségeket;
+ag) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat;
 
-c) a sérülékenységvizsgálat végzésére jogosult természetes személy azonosításához szükséges természetes személyazonosító adatait, elérhetőségeit, ideértve az elektronikus elérhetőségeket, valamint a sérülékenységvizsgálat végzésére jogosult természetes személy szakértelmére vonatkozó adatokat; valamint
+b) a sérülékenységvizsgálat végzésére jogosult szervezet
 
-d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek azonosításához szükséges adatokat, a szervezet elérhetőségeit, ideértve az elektronikus elérhetőségeket.
+ba) azonosításához szükséges adatokat,
+
+bb) elérhetőségeit, ideértve az elektronikus elérhetőségeket és
+
+bc) nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát;
+
+c) a sérülékenységvizsgálat végzésére jogosult természetes személy
+
+ca) azonosításához szükséges természetes személyazonosító adatait,
+
+cb) elérhetőségeit, ideértve az elektronikus elérhetőségeket,
+
+cc) szakértelmére vonatkozó adatokat és
+
+cd) nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát;
+
+d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek 70. § (5) bekezdése szerinti adatait.
+
+(1a) Az (1) bekezdés a) pontja szerinti nyilvántartás az (1) bekezdés a) pont ad) alpontjában, az (1) bekezdés b) pontja szerinti nyilvántartás az (1) bekezdés b) pont bc) alpontjában, az (1) bekezdés c) pontja szerinti nyilvántartás az (1) bekezdés c) pont cd) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (2) Az SZTFH összeállítja az 1. § (1) bekezdés d) és e) pontja hatálya alá tartozó alapvető és fontos szervezetek, valamint a doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetek jegyzékét, és azt kétévente felülvizsgálja. A jegyzék összeállítását és felülvizsgálatát követően az SZTFH tájékoztatja a nemzeti kiberbiztonsági hatóságot a kormányrendeletben meghatározott adatokról.
 

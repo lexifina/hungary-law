@@ -1,36 +1,38 @@
 48. § (1) A tanúsító hatóság nyilvántartja és kezeli:
 
-a) az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott megfelelőségi nyilatkozat adatait,
+1. az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott megfelelőségi nyilatkozat adatait,
 
-b) a megfelelőségi nyilatkozathoz benyújtott műszaki dokumentációt és az IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok tanúsítási rendszernek való megfelelésével kapcsolatos információkat,
+2. a megfelelőségi nyilatkozathoz benyújtott műszaki dokumentációt és az IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok tanúsítási rendszernek való megfelelésével kapcsolatos információkat,
 
-c) a megfelelőségértékelő szervezet és annak kijelölt kapcsolattartója azonosításához szükséges adatokat, ha a megfelelőségértékelő szervezet egyben az (EU) 2019/881 európai parlamenti és tanácsi rendelet 56. cikk (5) bekezdése szerinti közjogi szerv, ennek tényét, valamint az SZTFH elnökének rendeletében meghatározott követelmények teljesülését alátámasztó dokumentumokat,
+3. a megfelelőségértékelő szervezet és annak kijelölt kapcsolattartója azonosításához szükséges adatokat, ha a megfelelőségértékelő szervezet egyben az (EU) 2019/881 európai parlamenti és tanácsi rendelet 56. cikk (5) bekezdése szerinti közjogi szerv, ennek tényét, valamint az SZTFH elnökének rendeletében meghatározott követelmények teljesülését alátámasztó dokumentumokat,
 
-d) a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezet akkreditált státuszára vonatkozó határozatban foglalt, valamint az akkreditált státusz változására vonatkozó információkat,
+4. a nemzeti akkreditáló szerv által akkreditált megfelelőségértékelő szervezet akkreditált státuszára vonatkozó határozatban foglalt, valamint az akkreditált státusz változására vonatkozó információkat,
 
-e) ha a 47. § (4) bekezdése szerinti engedélyezési eljárás lefolytatása szükséges, akkor az azzal kapcsolatos kérelmet, adatokat és dokumentumokat,
+5. ha a 47. § (4) bekezdése szerinti engedélyezési eljárás lefolytatása szükséges, akkor az azzal kapcsolatos kérelmet, adatokat és dokumentumokat,
 
-f) az engedélyezési eljárás során kiadott engedélyre, annak felfüggesztésére, részben vagy egészben történő visszavonására vonatkozó adatokat, valamint annak tényét, hogy az engedély hatályát vesztette,
+6. az engedélyezési eljárás során kiadott engedélyre, annak felfüggesztésére, részben vagy egészben történő visszavonására vonatkozó adatokat, valamint annak tényét, hogy az engedély hatályát vesztette,
 
-g) ha a tanúsító hatóság a „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállításának jogát megfelelőségértékelő szervezetre átruházta, a delegált jogkör azonosításához szükséges adatokat,
+7. ha a tanúsító hatóság a „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállításának jogát megfelelőségértékelő szervezetre átruházta, a delegált jogkör azonosításához szükséges adatokat,
 
-h) az Európai Bizottság által a megfelelőségértékelő szervezet nyilvántartásba vételekor adott azonosító számot,
+8. az Európai Bizottság által a megfelelőségértékelő szervezet nyilvántartásba vételekor adott azonosító számot,
 
-i) a megfelelőségértékelő szervezet által igénybe vett közreműködő, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
+9. a megfelelőségértékelő szervezet által igénybe vett közreműködő, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
 
-j) a megfelelőségértékelő szervezet által kiadott tanúsítvány adatait,
+10. a megfelelőségértékelő szervezet nyilvántartásba vételének időpontját,
 
-k) a gyártó, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
+11. a megfelelőségértékelő szervezet által kiadott tanúsítvány adatait,
 
-l) a tanúsítványok kiállításának megtagadásával, hatályának korlátozásával, felfüggesztésével és a visszavonásával kapcsolatos információkat,
+12. a gyártó, valamint kijelölt kapcsolattartója azonosításához szükséges adatokat,
 
-m) a 41. § (3) bekezdése szerinti sebezhetőséggel vagy rendellenességgel kapcsolatos információt,
+13. a tanúsítványok kiállításának megtagadásával, hatályának korlátozásával, felfüggesztésével és a visszavonásával kapcsolatos információkat,
 
-n) a felügyeleti tevékenység ellátása során tudomására jutott adatokat, dokumentumokat, valamint
+14. a 41. § (3) bekezdése szerinti sebezhetőséggel vagy rendellenességgel kapcsolatos információt,
 
-o) a benyújtott panaszokkal kapcsolatos adatokat, dokumentumokat.
+15. a felügyeleti tevékenység ellátása során tudomására jutott adatokat, dokumentumokat, valamint
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés f) és g) pontja szerinti adatok tekintetében közhiteles nyilvántartásnak minősül.
+16. a benyújtott panaszokkal kapcsolatos adatokat, dokumentumokat.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés 6., 7. és 10. pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az (1) bekezdés szerinti adatok kezelésének célja az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat biztonságával összefüggő információk naprakészen tartása, valamint az azokat érintő sebezhetőséggel vagy rendellenességgel kapcsolatos feladatok, továbbá a tanúsító hatóság ellenőrzési és felügyeleti hatósági tevékenységének ellátása.
 

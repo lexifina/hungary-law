@@ -18,9 +18,11 @@ b) az 54. § szerinti tanúsítást végző tanúsító szervezetről.
 
 a) a szervezet megnevezését és székhelyét, valamint annak kijelölt kapcsolattartója természetes személyazonosító adatait, telefonszámát, és elektronikus levelezési címét,
 
-b) a szervezet – nyilvántartásba vételekor kapott – azonosító számát,
+b) a szervezet nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 
 c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (5) Ha a (3) bekezdés szerinti nyilvántartásban szereplő szervezet poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet vagy tanúsító tevékenységet már nem végez, akkor a (3) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 

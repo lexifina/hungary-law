@@ -14,11 +14,13 @@
 
 a) az auditor adatait és annak kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, valamint elektronikus levelezési címét,
 
-b) az auditor – nyilvántartásba vételekor kapott – azonosító számát,
+b) az auditor nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 
 c) az auditor által igénybe vett közreműködő adatait, valamint kijelölt kapcsolattartója azonosításához szükséges természetes személyazonosító adatait, telefonszámát, elektronikus levelezési címét, és
 
 d) az audit eredményét tartalmazó dokumentumot.
+
+(4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően, ha a (3) bekezdés szerinti nyilvántartásba történő felvételről az SZTFH a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg a kérelmében megjelölt tevékenység megkezdésének, illetve folytatásának joga, és az általános közigazgatási rendtartásról szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 

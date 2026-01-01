@@ -24,9 +24,11 @@ végzi.
 
 a) a gazdálkodó szervezet megnevezését és székhelyét, valamint annak kijelölt kapcsolattartója természetes személyazonosító adatait, telefonszámát, és elektronikus levelezési címét,
 
-b) a gazdálkodó szervezet – nyilvántartásba vételekor kapott – azonosító számát,
+b) a gazdálkodó szervezet nyilvántartásba vételének időpontját, valamint – nyilvántartásba vételekor kapott – azonosító számát,
 
 c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(5a) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6) A (4) bekezdés szerinti nyilvántartásba történő felvételi eljárás során az SZTFH a feladat ellátásához szükséges – az SZTFH elnökének rendeletében meghatározott – szakértelem és infrastrukturális feltételek teljesülésének megállapítása érdekében bevonja a nemzeti kiberbiztonsági incidenskezelő központot.
 
