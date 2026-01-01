@@ -8,7 +8,7 @@
 
 (4) A hulladékgazdálkodási hatóság a hulladékgazdálkodási engedélyt, valamint a nyilvántartásba vett adatokat módosíthatja vagy visszavonhatja.
 
-(4a) A hulladékgazdálkodási hatóság felveszi a koncesszori alvállalkozói nyilvántartásba azokat az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozásokat, amelyek a koncesszorral, illetve koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat egyes elmeinek ellátására kötött hatályos szerződéssel rendelkeznek. A hulladékgazdálkodási hatóság vezeti, naprakészen tartja és nyilvánosan hozzáférhetővé teszi a koncesszori alvállalkozói nyilvántartást.
+(4a) A hulladékgazdálkodási hatóság felveszi a koncesszori alvállalkozói nyilvántartásba azokat az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozásokat, amelyek a koncesszorral, illetve koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat egyes elmeinek ellátására kötött hatályos szerződéssel rendelkeznek. A hulladékgazdálkodási hatóság vezeti, naprakészen tartja és nyilvánosan hozzáférhetővé teszi a koncesszori alvállalkozói nyilvántartást. A nyilvántartásba való felvétel és az onnan való törlés időpontja közhiteles adat.
 
 (5) Hivatalból eljárva vagy kérelemre induló eljárás esetén a hulladékgazdálkodási hatóság a hulladékgazdálkodási engedélyt korábbi módosításaival együtt egységes szerkezetbe foglalja. Kérelem esetén a kérelem előterjesztője igazgatási szolgáltatási díjat fizet.
 

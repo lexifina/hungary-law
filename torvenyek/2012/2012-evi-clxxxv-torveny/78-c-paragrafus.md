@@ -40,7 +40,7 @@ c) természetes személy ügyfél esetén a természetes személyazonosító ada
 
 d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet ügyfél esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(4) A (2) bekezdés 1., 2., 4., 5., 7–13. pontja szerinti nyilvántartás közhiteles hatósági nyilvántartás.
+(4) A (2) bekezdés 12. pontja szerinti, a 80. § (2) bekezdése szerinti adattartalommal vezetett, és a 83/A. § alapján az OKIR publikus felületén közzétett nyilvántartás – a (3) bekezdés c) és d) pontjában foglalt adatokat ide nem értve – közhiteles hatósági nyilvántartás.
 
 (5) A hulladékgazdálkodási tevékenység gyakorlásával, a hulladékkezelési létesítmény létesítésével, bővítésével kapcsolatos engedély kiadásáról, visszavonásáról vagy módosításáról szóló határozatot a környezetvédelmi hatósággal is közölni kell.
 
@@ -94,6 +94,6 @@ ei) a 86. § (9) bekezdése szerinti két éves időtartam utolsó napját.
 
 (10a) A nyilvántartás (10) bekezdés c) és e) pontjában meghatározott adata a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhető.
 
-(11)
+(11) A (9) bekezdés szerinti nyilvántartásban a nyilvántartásba való felvétel és az onnan való törlés időpontja közhiteles adat.
 
 (12) A 86. § (9) bekezdése szerinti két éves időtartam kezdő időpontja a 86. § (9) bekezdésében meghatározott bírságösszeget a költségvetési évben elérő vagy azt meghaladó bírságot kiszabó utolsó döntés véglegessé válásának, vagy jogorvoslati eljárás lefolytatása esetén az eljárás során hozott bírósági döntés jogerőre emelkedésének időpontja.

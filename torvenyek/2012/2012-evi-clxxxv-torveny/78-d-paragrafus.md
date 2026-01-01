@@ -1,6 +1,6 @@
 78/D. § (1) A hulladékgazdálkodás megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében a hulladékgazdálkodási hatóság létrehozza és működteti az NHIR-t.
 
-(2) Az NHIR a természetes személy ügyfél személyes adatai, jogi személy és szervezet esetén a cégjegyzékbe bejegyzett adatai, valamint a (3) bekezdés f) pontja kivételével a (3) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartás.
+(2)
 
 (3) Az NHIR tartalmazza
 
