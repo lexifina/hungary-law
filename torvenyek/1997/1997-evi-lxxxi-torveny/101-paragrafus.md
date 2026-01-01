@@ -24,7 +24,7 @@ i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmul
 
 j) a nyugdíjbiztosításon belüli jogorvoslat rendjét,
 
-k) a tizenharmadik havi nyugdíj megállapítására és folyósítására vonatkozó részletes szabályokat,
+k) a tizenharmadik havi nyugdíj és a tizennegyedik havi nyugdíj megállapítására és folyósítására vonatkozó részletes szabályokat,
 
 l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 
