@@ -6,17 +6,7 @@ A Kormány a 21. századi szakképző intézményfejlesztési program végrehajt
 
 3.[^1] a Fejlesztés megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 811 187 876 forintban határozza meg;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében meghatározott jogkörében eljárva, a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím,
-
-a) 1. Egyedi magasépítési beruházások alcímet az 54. GYSZC Pattantyús-Ábrahám Géza Technikum komplex fejlesztésének megvalósítása jogcímcsoporttal,
-
-b) 6. Egyedi magasépítési beruházásokkal kapcsolatos bevételek alcímet a 4. GYSZC Pattantyús-Ábrahám Géza Technikum komplex fejlesztésének megvalósításával kapcsolatos bevételek jogcímcsoporttal
-
-egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+4.[^2]
 
 5. felhívja az innovációért és technológiáért felelős minisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegyék meg a szükséges intézkedéseket a GYSZC-nél a Fejlesztés megvalósítására rendelkezésre álló 1 696 806 750 forintnak a Beruházási Ügynökség részére történő ütemezett rendelkezésre bocsátása érdekében;
 
@@ -42,11 +32,12 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-7a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 3. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+7a.[^3] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 3. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
 
 | Felelős: | építési és beruházási miniszter pénzügyminiszter |
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
 [^1]: A 3. pont az 1492/2022. (X. 19.) Korm. határozat 105. pontja szerint módosított szöveg.
-[^2]: A 7a. pontot az 1492/2022. (X. 19.) Korm. határozat 104. pontja iktatta be.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 7a. pontot az 1492/2022. (X. 19.) Korm. határozat 104. pontja iktatta be.
