@@ -1,10 +1,10 @@
 ### 168. § [A jogvita]
 
-(1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében közszolgálati panaszt nyújthat be a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv ellen. A kormányzati igazgatási szerv és az érdekképviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
+(1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból, a kormányzati igazgatási szervnél foglalkoztatott munkavállaló a munkaviszonyból származó igényének érvényesítése érdekében közszolgálati panaszt nyújthat be a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv ellen. A kormányzati igazgatási szerv és az érdekképviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
 
 (2) A közszolgálati panaszt a sérelmesnek tartott munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül lehet a Közszolgálati Döntőbizottsághoz benyújtani
 
-a) a kormányzati szolgálati jogviszony megszűnése és megszüntetése,
+a) a kormányzati szolgálati jogviszony, illetve a munkaviszony megszűnése és megszüntetése,
 
 b) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítás,
 
@@ -22,15 +22,21 @@ h) a tartós külszolgálat megszűnése és megszüntetése,
 
 i) a tartós külszolgálatra kihelyezés és annak egyoldalú módosítása
 
+j) a munkaszerződés egyoldalú módosítása,
+
+k) a munkavállaló kötelezettségszegése miatt alkalmazott jogkövetkezmény,
+
+l) az Mt. 81. § (1) bekezdése szerinti értékelés
+
 tárgyában.
 
 (3) A (2) bekezdésben meghatározottakon túli igény esetén a közszolgálati panaszt az elévülési időn belül lehet előterjeszteni.
 
-(4) A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a kormányzati igazgatási szerv bírósághoz fordulhat.
+(4) A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, a kormányzati igazgatási szervnél foglalkoztatott munkavállaló, illetve a kormányzati igazgatási szerv bírósághoz fordulhat.
 
-(5) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével, ha a Közszolgálati Döntőbizottság a (10) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt. Ebben az esetben a keresetlevelet a határidő lejártától számított harminc napon belül lehet előterjeszteni.
+(5) A kormánytisztviselő, illetve a kormányzati igazgatási szervnél foglalkoztatott munkavállaló közvetlenül a bírósághoz fordulhat keresetével, ha a Közszolgálati Döntőbizottság a (10) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt. Ebben az esetben a keresetlevelet a határidő lejártától számított harminc napon belül lehet előterjeszteni.
 
-(6) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a kormánytisztviselő a közszolgálati panaszt, a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv a keresetlevelet a 74. § (10) és (11) bekezdése szerinti megtámadás eredménytelenségének megállapításától számított harminc napon belül terjesztheti elő. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
+(6) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a kormánytisztviselő, illetve a kormányzati igazgatási szervnél foglalkoztatott munkavállaló a közszolgálati panaszt, a 80. § (3) bekezdésében meghatározott kormányzati igazgatási szerv a keresetlevelet a 74. § (10) és (11) bekezdése szerinti megtámadás eredménytelenségének megállapításától számított harminc napon belül terjesztheti elő. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
 (7) A kormányzati igazgatási szerv mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Közszolgálati Döntőbizottsághoz akkor fordulhat, ha e törvény megengedi.
 

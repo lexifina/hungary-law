@@ -14,7 +14,7 @@ b) kockázatelemzést végez,
 
 c) gondoskodik az összeférhetetlenségi helyzetek megelőzése érdekében a tudatosság növeléséről és az intézményrendszer uniós támogatások végrehajtásáért felelős szereplőinek képzéséről,
 
-d) együttműködik a büntetőeljárásban eljáró szervekkel.
+d) az Igazgatóságot megillető, a büntetőeljárásról szóló 2017. évi XC. törvény 58. §-ban meghatározott egyéb érdekelti jogállásból eredő jogosultságokra is tekintettel együttműködik a büntetőeljárásban eljáró szervekkel.
 
 (3a) A (3) bekezdés a) pont szerinti
 

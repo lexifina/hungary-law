@@ -20,4 +20,4 @@
 
 (9) A Nemzeti Fejlesztési Központ önálló gazdasági szervezettel rendelkezik.
 
-(10)
+(10) A Nemzeti Fejlesztési Központ a Magyarország kiberbiztonságáról szóló törvény alkalmazásában központi kormányzati igazgatási szervként központi államigazgatási szervnek minősül.

@@ -10,4 +10,4 @@
 
 (5) Ha a közigazgatási államtitkár kormányzati szolgálati jogviszonya a 228. § (1) bekezdés b), d) vagy f) pontja, illetve a 228. § (2) bekezdés a) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
 
-(6) Ha a közigazgatási államtitkár megbízatása a 228. § (1) bekezdés a) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.
+(6)

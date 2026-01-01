@@ -14,6 +14,8 @@ e) hivatalvesztés fegyelmi büntetéssel,
 
 f) álláshelyének a központosított álláshelyállományba kerülésével.
 
+(1a) Ha a közigazgatási államtitkár és a helyettes államtitkár megbízatása az (1) bekezdés a) pontja alapján szűnik meg, a közigazgatási államtitkár és a helyettes államtitkár kinevezését a közigazgatási államtitkár, illetve a helyettes államtitkár halálát követő naptól e törvény erejénél fogva visszavontnak kell tekinteni.
+
 (2) A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolgálati jogviszonya megszüntethető:
 
 a) e tisztségéről történő lemondással,

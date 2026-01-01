@@ -30,7 +30,7 @@ b) helyi nemzetiségi önkormányzat képviselője,
 
 ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak és a kormányzati igazgatási szerv illetékessége a helyi nemzetiségi önkormányzatra kiterjed.
 
-(5) A kormánytisztviselő további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony , az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
+(5) A kormánytisztviselő további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
 
 (6) A kormánytisztviselő annak létesítését megelőzően köteles írásban bejelenteni a munkáltatói jogkör gyakorlója részére a gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt.
 

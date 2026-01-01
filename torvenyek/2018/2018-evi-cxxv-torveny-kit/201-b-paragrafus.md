@@ -12,4 +12,4 @@ d) halálával.
 
 (2) Ha a miniszterelnök politikai igazgatójának megbízatása az (1) bekezdés a) pontja alapján szűnt meg, a miniszterelnök politikai igazgatója az új Kormány megalakulásáig vagy az (1) bekezdés b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-(3) Ha a miniszterelnök politikai igazgatójának megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényét a miniszterelnök állapítja meg.
+(3)

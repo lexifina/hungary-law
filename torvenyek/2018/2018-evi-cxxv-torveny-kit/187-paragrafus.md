@@ -35,3 +35,5 @@ miatt szűnt meg.
 (10) A politikai felsővezető szabadságát – a (11) bekezdést kivéve – megváltani nem lehet.
 
 (11) A politikai felsővezető szabadságát a politikai szolgálati jogviszony megszűnésekor meg kell váltani, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki.
+
+(12) Ha a politikai felsővezető – a miniszterelnök kivételével – megbízatása a politikai felsővezető halála miatt szűnik meg, a politikai felsővezető kinevezését a politikai felsővezető halálát követő naptól e törvény erejénél fogva visszavontnak kell tekinteni.
