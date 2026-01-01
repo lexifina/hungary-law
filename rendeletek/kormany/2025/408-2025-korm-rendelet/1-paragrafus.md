@@ -22,8 +22,8 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A munkabiztonsági szakértői tevékenységről szóló 354/2009. (XII. 30.) Korm. rendelet módosítása
 
-1. §
+1. § A munkabiztonsági szakértői tevékenységről szóló 354/2009. (XII. 30.) Korm. rendelet (a továbbiakban: 354/2009. Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. alcím a 24. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+„1. § A munkabiztonsági szakértői tevékenység folytatását a Magyar Mérnöki Kamara (a továbbiakban: MMK) területi mérnöki kamarái (a továbbiakban: engedélyező szerv) engedélyezik. A munkabiztonsági szakértői szakterületeket az 1. melléklet tartalmazza.”

@@ -1,1 +1,3 @@
-22. §
+22. § A 25/2024. Korm. rendelet 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a munkavédelmi hatóság korábbi hatósági eljárása során feltárt súlyos veszélyeztetés miatt a hatósági ellenőrzést megelőző három éven belül egy alkalommal a munkáltatóval szemben végleges döntésében munkavédelmi bírságot szabott ki, akkor a munkavédelmi hatóság az ezt követően kiszabott munkavédelmi bírság mértékét 1,5-szeresére emeli meg. Három éven belül végleges döntésben egynél több alkalommal kiszabott munkavédelmi bírság esetén – az ismétlődő jogsértés miatt – a legutóbb alkalmazott szorzó megduplázódik.”
