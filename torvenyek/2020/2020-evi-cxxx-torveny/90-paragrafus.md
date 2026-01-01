@@ -8,7 +8,7 @@ b) közérdekű önkéntes tevékenységet,
 
 c) állami projektértékelői jogviszonyt.
 
-d) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
+d)
 
 (2) A foglalkoztatott a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat
 
@@ -24,7 +24,7 @@ a) gyakorolható tevékenységet,
 
 b) állami projektértékelői jogviszonyt.
 
-c) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt.
+c)
 
 (4) Vezetői munkakört betöltő foglalkoztatott a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
 
