@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2021-01-01 | 2020. évi XLIII. törvény | 1999-75-00-00.36 |
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 1999-75-00-00.37 |
 | 2025-06-15 | 2025. évi XIX. törvény | 1999-75-00-00.38 |
+| 2026-01-01 | 2025. évi CXXV. törvény | 1999-75-00-00.39 |
