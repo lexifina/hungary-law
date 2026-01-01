@@ -6,9 +6,15 @@
 
 (2) A kereskedő köteles
 
-a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni;
+a) az üzlet nyitvatartási idejét
+
+aa) az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve kormányrendeletben meghatározott esetekben az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni, vagy
+
+ab) befektetési arany forgalmazása esetében a 9/A. § (1) bekezdése szerinti engedély iránti kérelemben, illetve az SZTFH elnöke rendeletében meghatározott esetekben az abban bekövetkező változást az azt megelőző nyolc napon belül az SZTFH-nak bejelenteni, és
 
 b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.
+
+(2a) A kereskedő az üzlet nyitvatartási idejének megváltozását a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben meghatározott írásbeli kapcsolattartás mellett a kereskedelmi hatóságnak elektronikus levelezési címén keresztül is bejelentheti.
 
 (3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
 
