@@ -1,3 +1,3 @@
-243. §[^483]
+243. §[^484]
 
-[^483]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^484]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

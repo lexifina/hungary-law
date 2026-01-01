@@ -1,4 +1,4 @@
-100/A. §[^162] (1) A végső kedvezményezett a 100. § szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi utóellenőrzését.
+100/A. §[^164] (1) A végső kedvezményezett a 100. § szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi utóellenőrzését.
 
 (2) Az NFK a közbeszerzési eljárás ellenőrzésével összefüggésben további dokumentumok benyújtását is kérheti.
 
@@ -16,4 +16,4 @@ b) egyet nem értése esetén a jelentésben foglaltakat fenntartja.
 
 (7) Az NFK haladéktalanul tájékoztatja a végső kedvezményezettet a (6) bekezdés szerinti döntéséről.
 
-[^162]: A 100/A. §-t a 202/2025. (VII. 16.) Korm. rendelet 41. §-a iktatta be.
+[^164]: A 100/A. §-t a 202/2025. (VII. 16.) Korm. rendelet 41. §-a iktatta be.

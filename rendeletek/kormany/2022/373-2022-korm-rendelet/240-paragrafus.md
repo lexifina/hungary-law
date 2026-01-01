@@ -1,5 +1,5 @@
 ## 67. Módosító rendelkezések
 
-240. §[^480]
+240. §[^481]
 
-[^480]: A 240. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (1) bekezdése alapján nem lép hatályba.
+[^481]: A 240. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (1) bekezdése alapján nem lép hatályba.

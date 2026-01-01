@@ -1,4 +1,4 @@
-26. § (1)[^79] Folyamatba épített dokumentumalapú ellenőrzést, helyszíni ellenőrzést vagy helyszíni szemlét nem végezheti
+26. § (1)[^81] Folyamatba épített dokumentumalapú ellenőrzést, helyszíni ellenőrzést vagy helyszíni szemlét nem végezheti
 
 a) az ellenőrzés alá vont személy,
 
@@ -18,7 +18,7 @@ h) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem v
 
 (2) A kifizetés engedélyezésében nem vehet részt, aki tekintetében az (1) bekezdésben felsorolt valamely ok fennáll, azzal, hogy e bekezdés alkalmazásában az ellenőrzés alá vont személyen a kifizetést igénylő személyt kell érteni.
 
-(3)[^80] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja vagy e rendelkezések tekintetében a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt úgy kell tekinteni, mint akitől az ügy elfogulatlan megítélése egyéb okból nem várható. Ezen személy az (1) és a (2) bekezdés szerinti ügyekben nem járhat el.
+(3)[^82] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja vagy e rendelkezések tekintetében a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt úgy kell tekinteni, mint akitől az ügy elfogulatlan megítélése egyéb okból nem várható. Ezen személy az (1) és a (2) bekezdés szerinti ügyekben nem járhat el.
 
 (4) Az (1) bekezdés a), b) és d) pontja, valamint az (1) bekezdés a), b) és d) pontja vonatkozásában a (2) bekezdés nem zárja ki, hogy a nemzeti hatóság, illetve annak munkatársa
 
@@ -28,5 +28,5 @@ b) szakpolitikai felelős által vezetett szervezet tekintetében
 
 folyamatba épített dokumentumalapú ellenőrzésben, helyszíni ellenőrzésben vagy helyszíni szemlében vegyen részt. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint az ellenőrzéshez kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
-[^79]: A 26. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^80]: A 26. § (3) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 15. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja, a 441/2024. (XII. 23.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
+[^81]: A 26. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^82]: A 26. § (3) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 15. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja, a 441/2024. (XII. 23.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.

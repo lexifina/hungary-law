@@ -6,6 +6,6 @@
 
 (4) A végső kedvezményezett a (3) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi a nemzeti hatóság részére.
 
-(5)[^174] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
+(5)[^176] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
 
-[^174]: A 103. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 31. pontja szerint módosított szöveg.
+[^176]: A 103. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 31. pontja szerint módosított szöveg.
