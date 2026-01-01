@@ -62,6 +62,8 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 21. EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság és EU-szintű vegyes pénzügyi holding társaság anyavállalat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+21a. építményi hitel: fogyasztó részére ingatlanon alapított társasházi építményi jogon alapított zálogjog fedezete mellet nyújtott hitel vagy kölcsön;
+
 22. értékpapírosítás: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 23. értékpapírosítási pozíció: az 575/2013/EU rendeletben ekként meghatározott fogalom;
@@ -152,7 +154,7 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 49b. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
-50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
+50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is, továbbá az építményi hitel;
 
 51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 
@@ -390,9 +392,9 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 120. versengő szolgáltatások:
 
-a) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet elérő vagy azt meghaladó legrövidebb futamidőre kínált hitel és pénzkölcsön, valamint az ingatlan pénzügyi lízing,
+a) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet elérő vagy azt meghaladó legrövidebb futamidőre kínált hitel és pénzkölcsön, továbbá az építményi hitel, valamint az ingatlan pénzügyi lízing,
 
-b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet meg nem haladó leghosszabb futamidőre kínált hitel és pénzkölcsön, valamint pénzügyi lízing, továbbá valamennyi, ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is, vagy
+b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fedezete mellett öt évet meg nem haladó leghosszabb futamidőre kínált hitel és pénzkölcsön, illetve építményi hitel, valamint pénzügyi lízing, továbbá valamennyi, ingatlanon alapított jelzálogjog fedezete nélkül kínált hitel és pénzkölcsön, illetve építményi hitel, ideértve a fizetési számlához (bankszámlához) kapcsolódó hitelkeretet és a hitelkártyát is, vagy
 
 c) betét és fizetési számla (bankszámla)
 
