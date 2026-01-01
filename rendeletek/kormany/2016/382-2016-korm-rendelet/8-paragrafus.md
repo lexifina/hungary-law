@@ -1,6 +1,6 @@
 ## 6. A hajózási hatóságok kijelölése
 
-8. § (1)[^94] Hajózási hatóságként a Kormány
+8. § (1)[^97] Hajózási hatóságként a Kormány
 
 a) a (2) és (3) bekezdés szerinti ügyekben a minisztert,
 
@@ -14,21 +14,21 @@ jelöli ki.
 
 (2) Hajózási hatóságként a miniszter jár el:
 
-1.[^95]
+1.[^98]
 
-2.[^96] hajózásbiztonsági ellenőri képesítéssel,
+2.[^99] hajózásbiztonsági ellenőri képesítéssel,
 
-3.[^97] a hajózási szakértők nyilvántartásának vezetésével,
+3.[^100] a hajózási szakértők nyilvántartásának vezetésével,
 
-4.[^98] a vizsgabiztosok és az oktatók névjegyzékének vezetésével,
+4.[^101] a vizsgabiztosok és az oktatók névjegyzékének vezetésével,
 
-5.[^99] a hajózási képesítések megszerzésére felkészítő képzések jóváhagyásával és ellenőrzésével,
+5.[^102] a hajózási képesítések megszerzésére felkészítő képzések jóváhagyásával és ellenőrzésével,
 
-5a.[^100] a hajózási üzemeltetési vezetői képesítések, hajózási képesítések és képesítő okmányok közhiteles nyilvántartásával, elismerésével és honosításával,
+5a.[^103] a hajózási üzemeltetési vezetői képesítések, hajózási képesítések és képesítő okmányok közhiteles nyilvántartásával, elismerésével és honosításával,
 
-5b.[^101] a vizsgák részletes szabályait és feltételeit, valamint a vizsgabizottság működési rendjét megállapító vizsgaszabályzat jóváhagyásával,
+5b.[^104] a vizsgák részletes szabályait és feltételeit, valamint a vizsgabizottság működési rendjét megállapító vizsgaszabályzat jóváhagyásával,
 
-5c.[^102] a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján számonkérhető ismeretanyag, a vizsgafeladatok és a vizsgatárgyak számonkérésének módjának meghatározásával,
+5c.[^105] a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján számonkérhető ismeretanyag, a vizsgafeladatok és a vizsgatárgyak számonkérésének módjának meghatározásával,
 
 6. a hajózási gyakorlati idő mérséklésének engedélyezésével,
 
@@ -58,19 +58,19 @@ jelöli ki.
 
 19. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-20.[^103] a településfejlesztési terv és a településrendezési terv víziúttal érintett település esetében történő egyeztetési eljárásaival
+20.[^106] a településfejlesztési terv és a településrendezési terv víziúttal érintett település esetében történő egyeztetési eljárásaival
 
-21.[^104] a hajós és tengerész szolgálati könyv nyilvántartásával,
+21.[^107] a hajós és tengerész szolgálati könyv nyilvántartásával,
 
-22.[^105] a szimulátorok jóváhagyásával
+22.[^108] a szimulátorok jóváhagyásával
 
-23.[^106] a hajózási képesítésekkel, képesítő okmányokkal, szolgálati könyvekkel és képzésekkel, valamint a magyarországi különös kockázatú vízi utakkal kapcsolatban az Európai Bizottság és a tagállamok értesítésével,
+23.[^109] a hajózási képesítésekkel, képesítő okmányokkal, szolgálati könyvekkel és képzésekkel, valamint a magyarországi különös kockázatú vízi utakkal kapcsolatban az Európai Bizottság és a tagállamok értesítésével,
 
-24.[^107] a képesítő okmányok visszavonásával, bevonásával és felfüggesztésével,
+24.[^110] a képesítő okmányok visszavonásával, bevonásával és felfüggesztésével,
 
-25.[^108] más állam különös kockázatot jelentő vízi útjával kapcsolatos vizsga Magyarországon történő teljesítéséhez szükséges megállapodás megkötésével és az Európai Bizottság tájékoztatásával,
+25.[^111] más állam különös kockázatot jelentő vízi útjával kapcsolatos vizsga Magyarországon történő teljesítéséhez szükséges megállapodás megkötésével és az Európai Bizottság tájékoztatásával,
 
-26.[^109] a magyarországi különös kockázatú vízi utakra vonatkozóan más tagállamtól érkező kérés esetén a vizsgához szükséges megállapodás megkötésével
+26.[^112] a magyarországi különös kockázatú vízi utakra vonatkozóan más tagállamtól érkező kérés esetén a vizsgához szükséges megállapodás megkötésével
 
 kapcsolatos ügyekben.
 
@@ -86,7 +86,7 @@ kapcsolatos ügyekben.
 
 4. az úszólétesítmények építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával,
 
-5.[^110] a (6) bekezdésben foglaltak kivételével az úszólétesítmény üzemképességének megállapításával és tanúsításával,
+5.[^113] a (6) bekezdésben foglaltak kivételével az úszólétesítmény üzemképességének megállapításával és tanúsításával,
 
 6. a szállítótartályok (konténerek) műszaki felügyeletével, gyártó, javító üzemeinek jóváhagyásával,
 
@@ -118,17 +118,17 @@ kapcsolatos ügyekben.
 
 20. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadásával,
 
-21.[^111] a vízi repülőtér kivételével az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásával,
+21.[^114] a vízi repülőtér kivételével az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásával,
 
-22.[^112] a vízi repülőtér kivételével vízi sportpálya kijelölésével,
+22.[^115] a vízi repülőtér kivételével vízi sportpálya kijelölésével,
 
-23.[^113] az európai hajóazonosító szám kiadásával, a Vkt. 48/C. § (1) bekezdése szerinti adatrögzítéssel, az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendeletben meghatározott adatkezeléssel és annak 5. cikkében az egyedüli kapcsolattartó pont számára meghatározott feladatok ellátásával,
+23.[^116] az európai hajóazonosító szám kiadásával, a Vkt. 48/C. § (1) bekezdése szerinti adatrögzítéssel, az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendeletben meghatározott adatkezeléssel és annak 5. cikkében az egyedüli kapcsolattartó pont számára meghatározott feladatok ellátásával,
 
 24. a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével,
 
 25. a Vkt. 20. §-a szerinti megfelelőség tanúsításával összefüggő kötelezettségek teljesítésének piacfelügyeleti ellenőrzésével,
 
-26.[^114] a hajós és tengerész szolgálati könyv ellenőrzésével,
+26.[^117] a hajós és tengerész szolgálati könyv ellenőrzésével,
 
 27. a tengeri kedvtelési célú kishajók jachtnaplójának és személyzeti jegyzékének kiadásával és hitelesítésével,
 
@@ -144,44 +144,44 @@ kapcsolatos ügyekben.
 
 33. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-34.[^115] az (EU) 2023/959 európai parlamenti és tanácsi irányelv szerinti kiutasítási, feltartóztatási határozat meghozatalával összefüggő hajózási hatósági hatáskörrel,
+34.[^118] az (EU) 2023/959 európai parlamenti és tanácsi irányelv szerinti kiutasítási, feltartóztatási határozat meghozatalával összefüggő hajózási hatósági hatáskörrel,
 
-35.[^116] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
+35.[^119] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
 
 kapcsolatos eljárásokban.
 
-(5)[^117] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
+(5)[^120] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
 
-(6)[^118] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+(6)[^121] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
 
-(7)[^119]
+(7)[^122]
 
-(8)[^120] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
+(8)[^123] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
 
-[^94]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^95]: A 8. § (2) bekezdés 1. pontját a 247/2019. (X. 24.) Korm. rendelet 6. §-a hatályon kívül helyezte. [A 248/2019. (X. 24.) Korm. rendelet 15. § b) pontjával elrendelet módosítás, amely szerint hatályát veszti 8. § (2) bekezdés 1. pontja, nem vezethető át.]
-[^96]: A 8. § (2) bekezdés 2. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^97]: A 8. § (2) bekezdés 3. pontja a 251/2024. (VIII. 22.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
-[^98]: A 8. § (2) bekezdés 4. pontja a 251/2024. (VIII. 22.) Korm. rendelet 69. §-a szerint módosított szöveg.
-[^99]: A 8. § (2) bekezdés 5. pontja a 251/2024. (VIII. 22.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
-[^100]: A 8. § (2) bekezdés 5a. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
-[^101]: A 8. § (2) bekezdés 5b. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
-[^102]: A 8. § (2) bekezdés 5c. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
-[^103]: A 8. § (2) bekezdés 20. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
-[^104]: A 8. § (2) bekezdés 21. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^105]: A 8. § (2) bekezdés 22. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^106]: A 8. § (2) bekezdés 23. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
-[^107]: A 8. § (2) bekezdés 24. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
-[^108]: A 8. § (2) bekezdés 25. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
-[^109]: A 8. § (2) bekezdés 26. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
-[^110]: A 8. § (4) bekezdés 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^111]: A 8. § (4) bekezdés 21. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^112]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^113]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^114]: A 8. § (4) bekezdés 26. pontja a 66/2022. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^115]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 450/2025. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^116]: A 8. § (4) bekezdés 35. pontját a 450/2025. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
-[^117]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^118]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^119]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § c) pontja hatályon kívül helyezte.
-[^120]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^97]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^98]: A 8. § (2) bekezdés 1. pontját a 247/2019. (X. 24.) Korm. rendelet 6. §-a hatályon kívül helyezte. [A 248/2019. (X. 24.) Korm. rendelet 15. § b) pontjával elrendelet módosítás, amely szerint hatályát veszti 8. § (2) bekezdés 1. pontja, nem vezethető át.]
+[^99]: A 8. § (2) bekezdés 2. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^100]: A 8. § (2) bekezdés 3. pontja a 251/2024. (VIII. 22.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^101]: A 8. § (2) bekezdés 4. pontja a 251/2024. (VIII. 22.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^102]: A 8. § (2) bekezdés 5. pontja a 251/2024. (VIII. 22.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
+[^103]: A 8. § (2) bekezdés 5a. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
+[^104]: A 8. § (2) bekezdés 5b. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
+[^105]: A 8. § (2) bekezdés 5c. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (2) bekezdése iktatta be.
+[^106]: A 8. § (2) bekezdés 20. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^107]: A 8. § (2) bekezdés 21. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^108]: A 8. § (2) bekezdés 22. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^109]: A 8. § (2) bekezdés 23. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
+[^110]: A 8. § (2) bekezdés 24. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
+[^111]: A 8. § (2) bekezdés 25. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
+[^112]: A 8. § (2) bekezdés 26. pontját a 251/2024. (VIII. 22.) Korm. rendelet 67. § (3) bekezdése iktatta be.
+[^113]: A 8. § (4) bekezdés 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^114]: A 8. § (4) bekezdés 21. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^115]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^116]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 8. § (4) bekezdés 26. pontja a 66/2022. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^118]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 450/2025. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^119]: A 8. § (4) bekezdés 35. pontját a 450/2025. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^120]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^121]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^122]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § c) pontja hatályon kívül helyezte.
+[^123]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

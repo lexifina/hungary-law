@@ -1,4 +1,4 @@
-26. § (1)[^189] Ez a rendelet
+26. § (1)[^192] Ez a rendelet
 
 1. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
 
@@ -6,15 +6,15 @@
 
 3. a közúti fuvarozó vállalkozásokról vezetett nemzeti elektronikus nyilvántartások összekapcsolására vonatkozó közös szabályok megállapításáról és az 1213/2010/EU rendelet hatályon kívül helyezéséről szóló, 2016. április 1-i (EU) 2016/480 bizottsági végrehajtási rendelet,
 
-4.[^190] az új nehézgépjárművek szén-dioxid-kibocsátási előírásainak meghatározásáról, valamint az 595/2009/EK és az (EU) 2018/956 európai parlamenti és tanácsi rendelet és a 96/53/EK tanácsi irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1242 európai parlamenti és tanácsi rendelet,
+4.[^193] az új nehézgépjárművek szén-dioxid-kibocsátási előírásainak meghatározásáról, valamint az 595/2009/EK és az (EU) 2018/956 európai parlamenti és tanácsi rendelet és a 96/53/EK tanácsi irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1242 európai parlamenti és tanácsi rendelet,
 
-4a.[^191] az (EU) 2019/1242 rendeletnek az új nehézgépjárművekre vonatkozó szén-dioxid-kibocsátási előírások szigorítása és a jelentéstételi kötelezettségek beillesztése tekintetében történő módosításáról, az (EU) 2018/858 rendeletet módosításáról, valamint az (EU) 2018/956 rendelet hatályon kívül helyezéséről szóló, 2024. május 14-i (EU) 2024/1610 európai parlamenti és tanácsi rendelet,
+4a.[^194] az (EU) 2019/1242 rendeletnek az új nehézgépjárművekre vonatkozó szén-dioxid-kibocsátási előírások szigorítása és a jelentéstételi kötelezettségek beillesztése tekintetében történő módosításáról, az (EU) 2018/858 rendeletet módosításáról, valamint az (EU) 2018/956 rendelet hatályon kívül helyezéséről szóló, 2024. május 14-i (EU) 2024/1610 európai parlamenti és tanácsi rendelet,
 
 5. a pilóta nélküli légi járművekkel végzett műveletekre vonatkozó szabályokról és eljárásokról szóló, 2019. május 24-i (EU) 2019/947 bizottsági végrehajtási rendelet,
 
 6. a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzembentartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló rendelet,
 
-7.[^192] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet,
+7.[^195] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet,
 
 8. a légi járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-i 748/2012/EU bizottsági rendelet,
 
@@ -118,9 +118,9 @@
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(2)[^193]
+(2)[^196]
 
-(3)[^194]
+(3)[^197]
 
 (4) Ez a rendelet
 
@@ -128,7 +128,7 @@ a) a közösségi repülőterek földi kiszolgálási piacára való bejutásró
 
 b) a harmadik országok közösségi repülőtereket használó légi járműveinek biztonságáról szóló, 2004. április 21-i 2004/36/EK európai parlamenti és tanácsi irányelvnek,
 
-c)[^195]
+c)[^198]
 
 d) a repülőtéri díjakról szóló, 2009. március 11-i 2009/12/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -136,7 +136,7 @@ e) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 f) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek,
 
-g)[^196] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
+g)[^199] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
 
 h) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelvnek,
 
@@ -146,25 +146,25 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-l)[^197] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+l)[^200] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
 
-m)[^198] a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek
+m)[^201] a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek
 
-n)[^199] a transzeurópai közlekedési hálózat (TEN-T) megvalósításának előmozdítását célzó egyszerűsítési intézkedésekről szóló, 2021. július 7-i (EU) 2021/1187 európai parlamenti és tanácsi irányelvnek
+n)[^202] a transzeurópai közlekedési hálózat (TEN-T) megvalósításának előmozdítását célzó egyszerűsítési intézkedésekről szóló, 2021. július 7-i (EU) 2021/1187 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(5)[^200] A 8. § (4) bekezdés 34. pontja az üvegházhatást okozó gázok kibocsátási egységei Unión belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelv, valamint az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék létrehozásáról és működtetéséről szóló (EU) 2015/1814 határozat módosításáról szóló, 2023. május 10-i (EU) 2023/959 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(5)[^203] A 8. § (4) bekezdés 34. pontja az üvegházhatást okozó gázok kibocsátási egységei Unión belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelv, valamint az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék létrehozásáról és működtetéséről szóló (EU) 2015/1814 határozat módosításáról szóló, 2023. május 10-i (EU) 2023/959 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^189]: A 26. § (1) bekezdése a 94/2024. (IV. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^190]: A 26. § (1) bekezdés 4. pontja a 450/2025. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^191]: A 26. § (1) bekezdés 4a. pontját a 450/2025. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^192]: A 26. § (1) bekezdés 7. pontja a 310/2025. (X. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^193]: A 26. § (2) bekezdését a 94/2024. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^194]: A 26. § (3) bekezdését a 94/2024. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^195]: A 26. § (4) bekezdés c) pontját a 450/2025. (XII. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^196]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^197]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^198]: A 26. § (4) bekezdés m) pontját a 66/2022. (II. 28.) Korm. rendelet 16. §-a iktatta be.
-[^199]: A 26. § (4) bekezdés n) pontját a 612/2023. (XII. 22.) Korm. rendelet 48. §-a iktatta be.
-[^200]: A 26. § (5) bekezdését a 450/2025. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^192]: A 26. § (1) bekezdése a 94/2024. (IV. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^193]: A 26. § (1) bekezdés 4. pontja a 450/2025. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^194]: A 26. § (1) bekezdés 4a. pontját a 450/2025. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^195]: A 26. § (1) bekezdés 7. pontja a 310/2025. (X. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^196]: A 26. § (2) bekezdését a 94/2024. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^197]: A 26. § (3) bekezdését a 94/2024. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^198]: A 26. § (4) bekezdés c) pontját a 450/2025. (XII. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^199]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^200]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^201]: A 26. § (4) bekezdés m) pontját a 66/2022. (II. 28.) Korm. rendelet 16. §-a iktatta be.
+[^202]: A 26. § (4) bekezdés n) pontját a 612/2023. (XII. 22.) Korm. rendelet 48. §-a iktatta be.
+[^203]: A 26. § (5) bekezdését a 450/2025. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.

@@ -38,6 +38,6 @@
 
 | 19 | A hajózási hatóságnak az úszóműves rakodóhelyre, hajóállomásra, úszóműállásra, hajóhídra, veszteglőhelyre, vízi sportpályára és vízi repülőtérre vonatkozó létesítési, fennmaradási és használatba vételi engedélyezési eljárása, valamint ezen eljárások vonatkozásában a tervtől való eltérés engedélyezése iránti eljárása. | Annak elbírálása, hogy a vízgazdálkodás és vízvédelem jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | A vizek medrének, vízjárta területeknek, valamint árvízvédelmi létesítményeknek vízi közlekedési célt szolgáló alakítása, kotrása, mesterséges vízterek létesítése esetében. |
 
-3. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^205]
+3. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^208]
 
-[^205]: A 2–3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 588. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^208]: A 2–3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 588. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

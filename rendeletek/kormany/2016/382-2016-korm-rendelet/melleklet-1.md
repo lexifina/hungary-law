@@ -1,4 +1,4 @@
-1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^203]
+1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^206]
 
 1. Az útügyi hatóság eljárásaiban kijelölt szakhatóságok
 
@@ -20,4 +20,4 @@
 
 | 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^203]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés e) pontja, a 677/2020. (XII. 28.) Korm. rendelet 42. §-a, a 26/2022. (I. 28.) Korm. rendelet 18. §-a, a 616/2022. (XII. 29.) Korm. rendelet 241. §-a, a 416/2024. (XII. 20.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^206]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés e) pontja, a 677/2020. (XII. 28.) Korm. rendelet 42. §-a, a 26/2022. (I. 28.) Korm. rendelet 18. §-a, a 616/2022. (XII. 29.) Korm. rendelet 241. §-a, a 416/2024. (XII. 20.) Korm. rendelet 26. §-a szerint módosított szöveg.
