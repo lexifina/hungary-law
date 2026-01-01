@@ -1,0 +1,5 @@
+[1] Napjaink nemzetközi biztonságpolitikai fejleményei indokolttá teszik a terrorizmust elhárító szerv külföldre irányuló tevékenységét övező törvényi szabályozás felülvizsgálatát és pontosítását. Ugyanezen megfontolások indokolják a terrorizmus elleni küzdelem terén rendelkezésre álló jogi eszköztár kiszélesítését egyes olyan jogintézmények törvénybe iktatása által, amelyeket mind ez idáig a Kormány veszélyhelyzeti rendeletei rögzítettek: e jogintézmények hétköznapi jogrendben történő meghonosítása a háborús veszélyhelyzet elmúltával is tovább erősítheti a közrend és a közbiztonság védelmét, valamint a terrorizmus elleni fellépés eredményes voltát és hatékonyságát.
+
+[2] A jogalkalmazói tapasztalatok tükrében szükségessé vált a lőfegyvertartást kizáró törvényi rendelkezések pontosítása a Büntető Törvénykönyvről szóló törvény és a gyülekezési jogról szóló törvény, valamint a szabálysértési eljárás irányadó előírásaival fennálló maradéktalan logikai összhang megteremtése érdekében.
+
+[3] E célkitűzések jegyében az Országgyűlés a következő törvényt alkotja:
