@@ -12,6 +12,4 @@
 
 ## c) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás,”
 
-(2) Az Fgytv. 2. §-a a következő 26a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
+(2)

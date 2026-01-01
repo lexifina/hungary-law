@@ -6,7 +6,7 @@
 
 3. 45/A. § (3) bekezdés g) pontjában a „tájékoztatására” szövegrész helyébe a „tájékoztatására, továbbá” szöveg,
 
-4. 47/C. § (1) bekezdés a) pontjában a „tartozó,” szövegrész helyébe a „tartozó vagy külföldi,” szöveg,
+4.
 
 5. 47/C. § (5) bekezdés c)–e) pontjában az „a vállalkozás” szövegrész helyébe az „a KKV-nak nem minősülő vállalkozás” szöveg,
 
