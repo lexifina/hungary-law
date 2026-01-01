@@ -1,4 +1,4 @@
-18/B. §[^98] A háziorvos olyan informatikai rendszert használ, amely
+18/B. §[^99] A háziorvos olyan informatikai rendszert használ, amely
 
 a) EESZT migrációs modult tartalmaz,
 
@@ -18,4 +18,4 @@ h) rizikófelmérési adatlap kezelésére közvetlenül alkalmas, és
 
 i) statisztikai adatszolgáltatásra közvetlenül alkalmas.
 
-[^98]: A 18/B. §-t a 32/2023. (VIII. 24.) BM rendelet 1. §-a iktatta be.
+[^99]: A 18/B. §-t a 32/2023. (VIII. 24.) BM rendelet 1. §-a iktatta be.

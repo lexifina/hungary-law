@@ -528,7 +528,7 @@
 
 |  | 13. Állandóan hibáztatom magam. | 0 | 1 | 2 | 3 |
 
-4. számú melléklet a 4/2000. (II. 25.) EüM rendelethez[^116]
+4. számú melléklet a 4/2000. (II. 25.) EüM rendelethez[^119]
 
 Házi gyermekorvosi törzskarton
 
@@ -1068,4 +1068,4 @@ f) tankötelezettségi problémák
 
 g) egyéb: .........................
 
-[^116]: A 4. számú mellékletet a 28/2017. (X. 25.) EMMI rendelet 14. § (2) bekezdése iktatta be.
+[^119]: A 4. számú mellékletet a 28/2017. (X. 25.) EMMI rendelet 14. § (2) bekezdése iktatta be.
