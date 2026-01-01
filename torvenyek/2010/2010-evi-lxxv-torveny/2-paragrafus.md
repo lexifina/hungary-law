@@ -1,16 +1,14 @@
 2. § E törvény alkalmazásában:
 
-1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével – feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
+1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével,
 
-2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
+2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka,,
 
 3. alkalmi munka: a munkáltató és a munkavállaló között
 
 a) összesen legfeljebb öt egymást követő naptári napig, és
 
-b) egy naptári hónapon belül összesen legfeljebb tizenöt naptári napig, és
-
-c) egy naptári éven belül összesen legfeljebb kilencven naptári napig
+b) egy naptári hónapon belül összesen legfeljebb tizenöt naptári napig
 
 létesített, határozott időre szóló munkaviszony,
 

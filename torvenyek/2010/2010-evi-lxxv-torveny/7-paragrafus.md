@@ -4,8 +4,10 @@
 
 (2) A személyi jövedelemadó-, szociális hozzájárulási adó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
 
-a) a mezőgazdasági és turisztikai idénymunka esetén,
+a) a mezőgazdasági idénymunka,
 
-b) az alkalmi munka eseteiben
+b) a turisztikai idénymunka, valamint
 
-az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
+c) az alkalmi munka
+
+eseteiben az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit a 8–9. §-ban foglalt eltérésekkel kell alkalmazni.
