@@ -1535,5 +1535,5 @@ A puttony alatti terület megközelítését kényszerkapcsolatban működő kor
 [^16]: A 4. számú melléklet I. rész 5. pont 5.6. alpontja a 27/2010. (XII. 31.) NGM rendelet 30. § (2) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 29. §-a szerint módosított szöveg.
 [^17]: A 4. melléklet I. pont 7.2. alpontja a 64/2023. (XII. 28.) GFM rendelet 3. §-ával megállapított szöveg.
 [^18]: A 4. melléklet I. pont 7.3. alpontja a 64/2023. (XII. 28.) GFM rendelet 3. §-ával megállapított szöveg.
-[^19]: A 4. számú melléklet II. pont 14.2.5. alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § g) pontja szerint módosított szöveg.
-[^20]: A 4. számú melléklet III. pont 6.15.1.7. alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § h) pontja szerint módosított szöveg.
+[^19]: A 4. számú melléklet II. pont 14.2.5 alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § g) pontja szerint módosított szöveg.
+[^20]: A 4. számú melléklet III. pont 6.15.1.7 alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § h) pontja szerint módosított szöveg.

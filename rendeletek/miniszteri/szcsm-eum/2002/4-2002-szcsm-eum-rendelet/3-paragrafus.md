@@ -9,7 +9,7 @@
 (4)[^6] Amennyiben a tervező, kivitelező rendelkezik a munkabiztonsági szaktevékenység ellátásához előírt képesítéssel, nincs szükség külön biztonsági és egészségvédelmi koordinátor megbízására vagy alkalmazására.
 
 [^2]: A „Biztonsági és egészségvédelmi koordinátorok kijelölése az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében, az előzetes bejelentés teljesítése” alcím címe a 64/2023. (XII. 28.) GFM rendelet 4. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdése a 64/2023. (XII. 28.) GFM rendelet 4. § b)-c) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 64/2023. (XII. 28.) GFM rendelet 4. § b) -c) pontja szerint módosított szöveg.
 [^4]: A 3. § (2) bekezdése a 64/2023. (XII. 28.) GFM rendelet 4. § b)-c) pontja szerint módosított szöveg.
 [^5]: A 3. § (3) bekezdése a 64/2023. (XII. 28.) GFM rendelet 4. § c) pontja szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdése a 27/2010. (XII. 31.) NGM rendelet 75. § g) pontja, a 64/2023. (XII. 28.) GFM rendelet 4. § c) pontja szerint módosított szöveg.
