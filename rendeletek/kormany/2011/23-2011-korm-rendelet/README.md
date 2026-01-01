@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-23-20-2
 | 2021-03-11 | 2011-23-20-22.13 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2011-23-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2024-10-01 | 2011-23-20-22.16 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2026-01-01 | 2011-23-20-22.17 | 395/2025. (XII. 16.) Korm. rendelet |
