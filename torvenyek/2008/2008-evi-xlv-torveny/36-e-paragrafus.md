@@ -40,7 +40,7 @@ e) a nyilatkozatot a nyilvántartásba bejegyző közjegyző neve, székhelye é
 
 (5)
 
-(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait.
+(6) Az élettársi nyilvántartás a (4) bekezdés b)–e) pontjában meghatározott adatokat – a bejegyző közjegyző székhelye kivételével – közhitelesen tartalmazza.
 
 (7) Az élettársi nyilvántartás az adatokat az élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzésének időpontjától számított 100 évig tartalmazza.
 

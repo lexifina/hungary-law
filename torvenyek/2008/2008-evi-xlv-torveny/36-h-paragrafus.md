@@ -16,4 +16,4 @@ c) az országos kamara
 
 a nyilvántartás vezetésére és az abból történő adatszolgáltatásra vonatkozó rendeletben meghatározott részletes szabályok szerint vezeti.
 
-(4) A nyilvántartás – ellenkező bizonyításig – közhitelesen tanúsítja, hogy az abba bejegyzett vagyonjogi szerződés fennáll.
+(4)
