@@ -42,7 +42,7 @@ i) egyéb, a Héraklész Programmal szorosan összefüggő feladatok, valamint
 
 j) egységes informatikai rendszer működtetése, fejlesztése.
 
-(3)[^90] A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére támogatja az egyéb utánpótlás-nevelési feladatok ellátását, a következők szerint:
+(3)[^92] A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére támogatja az egyéb utánpótlás-nevelési feladatok ellátását, a következők szerint:
 
 a) az Olimpiai Reménységek Versenyén (a továbbiakban: ORV) történő részvételt,
 
@@ -60,4 +60,4 @@ g) az Utánpótlás Edzők Életút Programját, valamint
 
 h) az utánpótlás-nevelés színvonalának fejlesztésére irányuló szakmai programok megvalósítását.
 
-[^90]: A 36. § (3) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 19. pontja szerint módosított szöveg.
+[^92]: A 36. § (3) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 19. pontja szerint módosított szöveg.

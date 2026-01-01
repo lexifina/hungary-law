@@ -2,7 +2,7 @@
 
 17. § (1)[^34] A kedvezményezett a támogató részére a támogatási szerződés előkészítése érdekében a következő adatokat, valamint dokumentumokat nyújtja be:
 
-1.[^35] gazdasági társaság esetén teljes – cégnyilvántartás szerinti – cégnevét, székhelyét, cégjegyzékszámát, adószámát, valamennyi fizetési számlaszámát, harminc napnál nem régebbi közokirati formájú papír alapú vagy elektronikus cégkivonatát, képviselőjének nevét és közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát,
+1.[^35] gazdasági társaság esetén teljes – cégnyilvántartás szerinti – cégnevét, székhelyét, cégjegyzékszámát, adószámát, valamennyi fizetési számlaszámát, képviselőjének nevét és közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, amennyiben a gazdasági társaság a megjelölt képviselő aláírás-mintáját a cégbírósághoz nem nyújtotta be, vagy a benyújtás tényét a cégjegyzék nem tartalmazza,
 
 2.[^36] gazdasági társaságnak nem minősülő gazdálkodó szervezet esetén hatályos létesítő okiratának egyszerű másolatát, vagy a civil szervezet közokirati formájú nyilvántartási adatait tartalmazó papír alapú vagy elektronikus kivonatát, képviselőjének nevét és közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, helyi önkormányzatok társulása esetén a társulási megállapodás másolatát.
 
@@ -70,19 +70,21 @@ bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejöt
 
 (1b)[^49] Az (1) bekezdésben meghatározott dokumentumok – az (1) bekezdés 1–4. pontjában foglaltak kivételével – elektronikus úton is benyújthatóak.
 
+(1c)[^50] A támogató a gazdasági társaság cégkivonatát és a megjelölt képviselő közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját elektronikus úton hivatalból szerzi be a cégnyilvántartásból, amennyiben a gazdasági társaság a megjelölt képviselő aláírásmintáját a cégbírósághoz benyújtotta, és a benyújtás tényét a cégjegyzék tartalmazza.
+
 (2) Az (1) bekezdés 6. pontjában meghatározott személyes adatok kedvezményezett részéről történő szolgáltatása önkéntes, de azok támogató részére való rendelkezésre bocsátása és a kezelésükhöz való hozzájárulás a költségvetési támogatás feltételét képezi.
 
-(2a)[^50] Az (1) bekezdés 11–11b. pontja szerinti tulajdonosi nyilatkozatot a tulajdonos a kedvezményezett kérelmének beérkezését követő 60 napon belül köteles a kedvezményezett részére kiadni vagy a kérelmet elutasítani. Ha a tulajdonos a kérelem beérkezését követő 60 napon belül nem válaszol a kedvezményezettnek, a tulajdonosi nyilatkozatot megadottnak kell tekinteni. A kedvezményezett ebben az esetben a tulajdonoshoz benyújtott kérelmének tértivevénnyel kézbesített másolatát, valamint a tulajdonos válaszának hiányáról büntetőjogi felelőssége tudatában tett nyilatkozatát csatolja a támogató felé.
+(2a)[^51] Az (1) bekezdés 11–11b. pontja szerinti tulajdonosi nyilatkozatot a tulajdonos a kedvezményezett kérelmének beérkezését követő 60 napon belül köteles a kedvezményezett részére kiadni vagy a kérelmet elutasítani. Ha a tulajdonos a kérelem beérkezését követő 60 napon belül nem válaszol a kedvezményezettnek, a tulajdonosi nyilatkozatot megadottnak kell tekinteni. A kedvezményezett ebben az esetben a tulajdonoshoz benyújtott kérelmének tértivevénnyel kézbesített másolatát, valamint a tulajdonos válaszának hiányáról büntetőjogi felelőssége tudatában tett nyilatkozatát csatolja a támogató felé.
 
-(3)[^51] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
+(3)[^52] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
 
-(4)[^52] A 38/A. § (3) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
+(4)[^53] A 38/A. § (3) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
 
-(5)[^53] A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált, és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett benyújtja a támogató részére a Nemzeti Adó- és Vámhivataltól (a továbbiakban: adóhatóság) származó vagy az adóhatóság által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából lekérdezett harminc napnál nem régebbi igazolást.
+(5)[^54] A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált, és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett benyújtja a támogató részére a Nemzeti Adó- és Vámhivataltól (a továbbiakban: adóhatóság) származó vagy az adóhatóság által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából lekérdezett harminc napnál nem régebbi igazolást.
 
 [^33]: A 7. alcím címe a 279/2018. (XII. 21.) Korm. rendelet 25. § a) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
 [^34]: A 17. § (1) bekezdés nyitó szövegrésze a 279/2018. (XII. 21.) Korm. rendelet 25. § b) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
-[^35]: A 17. § (1) bekezdés 1. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^35]: A 17. § (1) bekezdés 1. pontja a 395/2025. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^36]: A 17. § (1) bekezdés 2. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^37]: A 17. § (1) bekezdés 3. pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § a) pontja, a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^38]: A 17. § (1) bekezdés 4. pontja a 472/2020. (X. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, az 552/2022. (XII. 22.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
@@ -97,7 +99,8 @@ bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejöt
 [^47]: A 17. § (1) bekezdés 18. pontját az 552/2022. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
 [^48]: A 17. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 7. §-a iktatta be.
 [^49]: A 17. § (1b) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 7. § (5) bekezdése iktatta be.
-[^50]: A 17. § (2a) bekezdését a 472/2020. (X. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^51]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^52]: A 17. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
-[^53]: A 17. § (5) bekezdése a 472/2020. (X. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^50]: A 17. § (1c) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^51]: A 17. § (2a) bekezdését a 472/2020. (X. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^52]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^53]: A 17. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
+[^54]: A 17. § (5) bekezdése a 472/2020. (X. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.

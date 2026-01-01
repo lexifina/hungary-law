@@ -1,4 +1,4 @@
-37. § (1)[^91] A nem olimpiai sportágak szakszövetségei és országos sportági szövegségei, valamint az olimpiai sportágak szakszövetségei és országos sportági szövetségei nem olimpiai szakágai, továbbá a Nemzeti Versenysport Szövetség szakmai programjainak és az Stv.-ben, valamint az alapszabályában meghatározott feladatainak megvalósításával összefüggő működését szolgáló költségvetési támogatás felhasználása során a következő tételek számolhatók el:
+37. § (1)[^93] A nem olimpiai sportágak szakszövetségei és országos sportági szövegségei, valamint az olimpiai sportágak szakszövetségei és országos sportági szövetségei nem olimpiai szakágai, továbbá a Nemzeti Versenysport Szövetség szakmai programjainak és az Stv.-ben, valamint az alapszabályában meghatározott feladatainak megvalósításával összefüggő működését szolgáló költségvetési támogatás felhasználása során a következő tételek számolhatók el:
 
 1. a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel, továbbá a felkészülés szakmai költségei,
 
@@ -32,19 +32,19 @@
 
 16. sportszakemberek képzésének és továbbképzésének díjai.
 
-(2)[^92] A Nemzetközi Világjátékok Szövetségének (GAIFS) IWGA Világjátékaira, a Küzdősportok Világjátékaira, a nem olimpiai sportágak részére rendezett sport világeseményekre való felkészülés szakmai feladatainak ellátását, az e versenyeken való részvételt, továbbá az Európai Olimpiai Bizottság által rendezett Európai Játékokon, és a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC) által megrendezett versenyeken részt vevő nem olimpiai sportágak felkészülését szolgáló költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
+(2)[^94] A Nemzetközi Világjátékok Szövetségének (GAIFS) IWGA Világjátékaira, a Küzdősportok Világjátékaira, a nem olimpiai sportágak részére rendezett sport világeseményekre való felkészülés szakmai feladatainak ellátását, az e versenyeken való részvételt, továbbá az Európai Olimpiai Bizottság által rendezett Európai Játékokon, és a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC) által megrendezett versenyeken részt vevő nem olimpiai sportágak felkészülését szolgáló költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
 
-(3)[^93]
+(3)[^95]
 
-(4)[^94]
+(4)[^96]
 
-(5)[^95]
+(5)[^97]
 
-(6)[^96] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
+(6)[^98] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
 
-[^91]: A 37. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
-[^92]: A 37. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
-[^93]: A 37. § (3) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^94]: A 37. § (4) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^95]: A 37. § (5) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^96]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
+[^93]: A 37. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
+[^94]: A 37. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
+[^95]: A 37. § (3) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^96]: A 37. § (4) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^97]: A 37. § (5) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^98]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
