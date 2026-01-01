@@ -78,6 +78,6 @@ eb) a tűzfegyverrel együtt megsemmisített tűzfegyver fődarab e törvény sz
 
 ec) a megsemmisítés időpontja.
 
-(2a) A (2) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2a)
 
 (3) A központi nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra – törvény eltérő rendelkezése hiányában – személyazonosításra alkalmatlan módon átadhatók és felhasználhatók.

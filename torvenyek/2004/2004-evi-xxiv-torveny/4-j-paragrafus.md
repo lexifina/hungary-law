@@ -14,6 +14,6 @@ a) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szól�
 
 b) a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján a 3/A. § (2) bekezdés a)–c) pontjában, valamint
 
-c) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 3/A. § (2) bekezdés d) pontjában
+c) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 3/A. § (2) bekezdés d) és e) pontjában
 
 meghatározott körülményre vonatkozó adatokat átveszi és az átvételtől számított 5 éven át kezeli.

@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-24-00-00
 | 2025-06-07 | 2025. évi XXXV. törvény | 2004-24-00-00.36 |
 | 2025-06-15 | 2025. évi XXXV. törvény | 2004-24-00-00.37 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2004-24-00-00.38 |
+| 2026-01-01 | 2025. évi CXXV. törvény | 2004-24-00-00.40 |

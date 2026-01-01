@@ -26,7 +26,7 @@ f) a repülésben, illetve az űrrepülésben való felhasználásra szánt piro
 
 (6) A rendőrség az engedély megadásával egyidejűleg az engedéllyel rendelkezőket – ha a tevékenységet az engedéllyel rendelkező nem a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint végzi – nyilvántartásba veszi.
 
-(6a) Az (5) és (6) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(6a)
 
 (7) A (6) bekezdés szerinti nyilvántartás tartalmazza
 
