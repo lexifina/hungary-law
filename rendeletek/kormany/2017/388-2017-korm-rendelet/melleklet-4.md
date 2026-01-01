@@ -1,5 +1,5 @@
-## 4X08876.pdf
+## 5X09211.pdf
 
 4. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^10]
 
-[^10]: A 4. melléklet a 377/2024. (XII. 6.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 141/2025. (VI. 19.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^10]: A 4. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (4) bekezdésével megállapított és a 404/2025. (XII. 16.) Korm. rendelet 5. §-a szerint módosított szöveg.

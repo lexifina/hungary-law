@@ -1,5 +1,5 @@
-## 4X08884.pdf
+## 5X09218.pdf
 
 6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^12]
 
-[^12]: A 6. melléklet a 377/2024. (XII. 6.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^12]: A 6. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.

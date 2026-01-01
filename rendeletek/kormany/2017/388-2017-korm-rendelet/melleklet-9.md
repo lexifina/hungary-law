@@ -1,5 +1,5 @@
-## 4X08888.pdf
+## 5X09223.pdf
 
 9. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^15]
 
-[^15]: A 9. melléklet a 377/2024. (XII. 6.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^15]: A 9. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.

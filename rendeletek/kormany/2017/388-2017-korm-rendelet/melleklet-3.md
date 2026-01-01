@@ -1,5 +1,5 @@
-## 4X08875.pdf
+## 5X09210.pdf
 
 3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^9]
 
-[^9]: A 3. melléklet a 377/2024. (XII. 6.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. melléklet a 378/2025. (XII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
