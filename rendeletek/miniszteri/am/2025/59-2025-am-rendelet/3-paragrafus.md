@@ -1,3 +1,7 @@
-3. §[^3]
+3. § Az R.
 
-[^3]: A 3. § a 4. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+a) 1. §-ában a „2025. évi központi költségvetéséről szóló 2024. évi XC. törvény” szövegrész helyébe a „2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény” szöveg,
+
+b) 1. mellékletében foglalt táblázat címében a „2025” szövegrész helyébe a „2026” szöveg
+
+lép.
