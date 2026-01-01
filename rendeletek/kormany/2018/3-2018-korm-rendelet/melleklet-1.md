@@ -6,4 +6,4 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megv
 
 [^9]: A 8. §-t az 504/2021. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
 [^10]: A hatálybalépés időpontja 2021. augusztus 19.
-[^11]: Az 1. melléklet a 288/2019. (XII. 4.) Korm. rendelet 2. §-a, a 206/2021. (IV. 29.) Korm. rendelet 4. §-a, az 504/2021. (VIII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet a 288/2019. (XII. 4.) Korm. rendelet 2. §-a, a 206/2021. (IV. 29.) Korm. rendelet 4. §-a, az 504/2021. (VIII. 18.) Korm. rendelet 2. § b) pontja, a 395/2025. (XII. 16.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
