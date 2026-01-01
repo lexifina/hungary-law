@@ -1,17 +1,3 @@
-2. melléklet az 1121/2022. (III. 7.) Korm. határozathoz
+2. melléklet az 1121/2022. (III. 7.) Korm. határozathoz[^19]
 
-XI. Miniszterelnökség
-
-XII. Agrárminisztérium
-
-XIV. Belügyminisztérium
-
-XVIII. Külgazdasági és Külügyminisztérium
-
-XIX. Gazdaság-újraindítási Alap uniós fejlesztései
-
-XX. Emberi Erőforrások Minisztériuma
-
-XXI. Miniszterelnöki Kabinetiroda
-
-XLVII. Gazdaság-újraindítási Alap
+[^19]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
