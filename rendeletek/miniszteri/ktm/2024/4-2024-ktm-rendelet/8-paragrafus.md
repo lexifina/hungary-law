@@ -54,9 +54,9 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 16. sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 33 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 110 millió eurónak megfelelő forintösszeget, sportlétesítményeknek nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2,2 millió eurónak megfelelő forintösszeget.
 
-(2)[^8] A támogatást nyújtó adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 8–26. alcím hatálya alá tartozó, egyedi támogatásról, ha az elsődleges mezőgazdasági termelés vagy a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása a 10 ezer eurónak megfelelő forintösszeget, egyéb tevékenység támogatása a 100 ezer eurónak megfelelő forintösszeget meghaladja.
+(2)[^10] A támogatást nyújtó adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 8–26. alcím hatálya alá tartozó, egyedi támogatásról, ha az elsődleges mezőgazdasági termelés vagy a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása a 10 ezer eurónak megfelelő forintösszeget, egyéb tevékenység támogatása a 100 ezer eurónak megfelelő forintösszeget meghaladja.
 
-(3)[^9] A (2) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
+(3)[^11] A (2) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
 
-[^8]: A 8. § (2) bekezdését a 12/2024. (XI. 6.) KTM rendelet 2. §-a iktatta be.
-[^9]: A 8. § (3) bekezdését a 12/2024. (XI. 6.) KTM rendelet 2. §-a iktatta be.
+[^10]: A 8. § (2) bekezdését a 12/2024. (XI. 6.) KTM rendelet 2. §-a iktatta be.
+[^11]: A 8. § (3) bekezdését a 12/2024. (XI. 6.) KTM rendelet 2. §-a iktatta be.

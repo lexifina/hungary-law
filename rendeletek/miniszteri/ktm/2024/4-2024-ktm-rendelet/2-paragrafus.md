@@ -58,6 +58,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 25. halászati és akvakultúra-termékek: a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk a) és b) pontjában meghatározott termékek,
 
+25a.[^2] hatékony együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 90. pontja szerinti együttműködés,
+
 26. hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló,
 
 27. helyi infrastruktúra: olyan infrastruktúra, amely helyi szinten járul hozzá az üzleti és fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez,
@@ -92,9 +94,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 42. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
-43.[^2]
+43.[^3]
 
-43a.[^3] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
+43a.[^4] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
 
 44. közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
 
@@ -116,7 +118,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 53. megújuló hidrogén: a 651/2014/EU bizottsági rendelet 2. cikk 102c. pontja szerinti hidrogén,
 
-54.[^4]
+54.[^5]
 
 55. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti értékelés és elemzés,
 
@@ -141,6 +143,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 65. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
 66. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást,
+
+66a.[^6] pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
 67. primerenergia: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti energia,
 
@@ -194,12 +198,14 @@ d) az a)–c) alpont közül több pont együttes megvalósulása esetén a legk
 
 85. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
-86.[^5]
+86.[^7]
 
 87. versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
 [^1]: A 2. § nyitó szövegrésze a 3/2025. (III. 26.) KTM rendelet 6. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 43. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^3]: A 2. § 43a. pontját a 3/2025. (III. 26.) KTM rendelet 1. §-a iktatta be.
-[^4]: A 2. § 54. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § b) pontja hatályon kívül helyezte.
-[^5]: A 2. § 86. pontját a 3/2025. (III. 26.) KTM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § 25a. pontját a 9/2025. (XII. 11.) KTM rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § 43. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 43a. pontját a 3/2025. (III. 26.) KTM rendelet 1. §-a iktatta be.
+[^5]: A 2. § 54. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^6]: A 2. § 66a. pontját a 9/2025. (XII. 11.) KTM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § 86. pontját a 3/2025. (III. 26.) KTM rendelet 7. § a) pontja hatályon kívül helyezte.
