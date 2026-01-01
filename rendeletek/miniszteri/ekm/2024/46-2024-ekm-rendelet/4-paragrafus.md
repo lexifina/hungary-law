@@ -10,13 +10,13 @@ műszaki és közlekedésbiztonsági vizsgálatra vonatkozó díjrészeinek 80%-
 
 (3) A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) 14. § (2) bekezdés a), b), d), e) és g) pontjában, továbbá az ER. 10. számú mellékletében megállapított közúti ellenőrzési feladatok, valamint az ER. 15. §-ában megállapított telephelyi ellenőrzési feladatok költségfedezetét az 1. mellékletben foglalt táblázat 50–53. sorában megállapított alapdíj, valamint az 1. mellékletben foglalt táblázat 59–63. sorában megállapított pótdíj közlekedési hatóság által beszedett összegének 35%-a szolgálja.
 
-(4) A közúti gépjárművek környezetvédelmi felülvizsgálatával kapcsolatos irányító, szabályozó és fejlesztő, valamint a felügyeleti és ellenőrzési feladatok költségfedezetét
+(4)[^1] A közúti gépjárművek környezetvédelmi felülvizsgálatával kapcsolatos irányító, szabályozó és fejlesztő, valamint a felügyeleti és ellenőrzési feladatok költségfedezetét
 
 a) a 2. mellékletben foglalt táblázatban megállapított és beszedett díjak 20%-ából, valamint
 
 b) az (1) bekezdésben meghatározott, a közlekedési hatóság által beszedett, illetve a tanúsító szervezetek által befizetett összegből,
 
-felülvizsgálatonként 236 forint szolgálja (a továbbiakban együttesen: környezetvédelmi hozzájárulás).
+felülvizsgálatonként 316 forint szolgálja (a továbbiakban együttesen: környezetvédelmi hozzájárulás).
 
 (5) A környezetvédelmi hozzájárulás az ÉKM 10032000-00003582-06020015 számú számláját illeti meg, amelynek 50%-át át kell vezetni a tárgyhónapot követő hónap 25. napjáig az ÉKM Magyar Államkincstárnál vezetett 10032000-00003582-05050019 fejezeti kezelésű előirányzat-felhasználási keretszámlájára.
 
@@ -33,3 +33,5 @@ d) a lakosság tájékoztatása, környezetvédelmi tudatosságának javítása
 céljainak jogszabályban meghatározott állami feladatai költségfedezetére fordíthatja.
 
 (7) Az ÉKM a környezetvédelmi hozzájárulásból a (6) bekezdéssel nem érintett összeget kizárólag a környezetvédelmi vizsgálati rendszer működtetésével és fejlesztésével kapcsolatos költségek fedezetére, és ezen belül elsősorban az ellenőrző eszközök és technológia fejlesztése, valamint a közlekedési hatóság környezetvédelmi feladatainak ellátását biztosító informatikai rendszer fejlesztése céljainak jogszabályban meghatározott állami feladatai költségfedezetére fordíthatja.
+
+[^1]: A 4. § (4) bekezdés záró szövegrésze a 49/2025. (XII. 30.) ÉKM rendelet 9. §-a szerint módosított szöveg.
