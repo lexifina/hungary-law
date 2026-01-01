@@ -1,5 +1,5 @@
 ## (Az Lt. 25. §-ához)
 
-10. §[^27] A jóváhagyott légi személyszállítási és a jóváhagyott légi árufuvarozási szabályzatot, a menetrendet, a tarifákat és ezek változásait – az utasok, illetőleg a fuvaroztatók tájékoztatása céljából – a légi személyszállítási és árufuvarozási tevékenység folytatására jogosult közzéteszi.
+10. §[^28] A jóváhagyott légi személyszállítási és a jóváhagyott légi árufuvarozási szabályzatot, a menetrendet, a tarifákat és ezek változásait – az utasok, illetőleg a fuvaroztatók tájékoztatása céljából – a légi személyszállítási és árufuvarozási tevékenység folytatására jogosult közzéteszi.
 
-[^27]: A Vhr. 10. §-a a 408/2007. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A Vhr. 10. §-a a 408/2007. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

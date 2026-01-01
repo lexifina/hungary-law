@@ -1,6 +1,6 @@
 ## (Az Lt. 50/B. és 51. §-ához)
 
-21. §[^48] (1)[^49] Az akadálykorlátozási felületek kijelölésére vonatkozó rendelkezések a közforgalom számára nyitva álló repülőterek esetén és az Lt. 37. § (1) bekezdés b) pont ba), bd) és be) alpontjában meghatározott azon repülőterek esetén alkalmazandóak, amelyeken műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé (a 21–21/H. § vonatkozásában a továbbiakban együtt: repülőtér).
+21. §[^49] (1)[^50] Az akadálykorlátozási felületek kijelölésére vonatkozó rendelkezések a közforgalom számára nyitva álló repülőterek esetén és az Lt. 37. § (1) bekezdés b) pont ba), bd) és be) alpontjában meghatározott azon repülőterek esetén alkalmazandóak, amelyeken műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé (a 21–21/H. § vonatkozásában a továbbiakban együtt: repülőtér).
 
 (2) A repülőtér üzembentartója az akadálykorlátozási felület elemeit és méreteit a futópálya megközelítési típusa alapján határozza meg a (3)–(5) bekezdésben foglaltaknak megfelelően. Ha a futópálya mindkét irányában végrehajtanak fel- és leszállási műveleteket, akkor a repülőtér üzembentartója az adott futópálya küszöbhöz tartozó akadálykorlátozási felületek közül a szigorúbb követelményeknek megfelelő felületet jelöli ki.
 
@@ -34,5 +34,5 @@ f) megszakított megközelítési felület.
 
 (7) A (3) és (4) bekezdésben meghatározott felületek, valamint a (6) bekezdésben meghatározott akadályvédelmi felület méreteinek és egyéb paramétereinek a leírását és az azt ábrázoló ábrákat a légiközlekedési hatóság honlapján teszi közzé.
 
-[^48]: A Vhr. 21. §-át és az azt megelőző alcímet a 108/2010. (IV. 9.) Korm. rendelet 4. §-a hatályon kívül helyezte, újonnan a 167/2019. (VII. 9.) Korm. rendelet 1. §-a iktatta be.
-[^49]: A Vhr. 21. § (1) bekezdése a 84/2024. (IV. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^49]: A Vhr. 21. §-át és az azt megelőző alcímet a 108/2010. (IV. 9.) Korm. rendelet 4. §-a hatályon kívül helyezte, újonnan a 167/2019. (VII. 9.) Korm. rendelet 1. §-a iktatta be.
+[^50]: A Vhr. 21. § (1) bekezdése a 84/2024. (IV. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

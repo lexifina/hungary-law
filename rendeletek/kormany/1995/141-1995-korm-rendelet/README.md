@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2024-10-01 | 1995-141-20-22.46 | 285/2024. (IX. 30.) Korm. rendelet |
 | 2024-11-22 | 1995-141-20-22.47 | 350/2024. (XI. 21.) Korm. rendelet |
 | 2024-12-24 | 1995-141-20-22.48 | 425/2024. (XII. 23.) Korm. rendelet |
+| 2026-01-01 | 1995-141-20-22.49 | 342/2025. (X. 31.) Korm. rendelet |

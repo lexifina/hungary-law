@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^118]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^119]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -278,4 +278,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 2 | ENR 5.4 | Légiforgalmi akadályok | nem | – |
 
-[^118]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 425/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^119]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 425/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
