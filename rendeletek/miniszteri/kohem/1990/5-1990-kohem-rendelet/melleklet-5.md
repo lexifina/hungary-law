@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^421]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^422]
 
 A forgalomba helyezés előtti és időszakos vizsgálat, honosítási eljárás tárgyi feltételei, technológiája és ügyrendje
 
@@ -350,4 +350,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^421]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja és 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése, az 54/2024. (XII. 30.) ÉKM rendelet 4. §-a, a 18/2025. (VI. 26.) ÉKM rendelet 7. § (1) bekezdése és 8. § d) pontja, a 37/2025. (XII. 22.) ÉKM rendelet 2. § b) pontja és 3. § a) pontja szerint módosított szöveg.
+[^422]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja és 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése, az 54/2024. (XII. 30.) ÉKM rendelet 4. §-a, a 18/2025. (VI. 26.) ÉKM rendelet 7. § (1) bekezdése és 8. § d) pontja, a 37/2025. (XII. 22.) ÉKM rendelet 2. § b) pontja és 3. § a) pontja szerint módosított szöveg.

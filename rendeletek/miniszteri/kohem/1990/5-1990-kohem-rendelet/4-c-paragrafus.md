@@ -32,6 +32,8 @@ b) tulajdonos ezt kéri.
 
 (9)[^94] A jármű-honosítási eljárásban kiadott „Műszaki adatlap”-on a következő időszakos vizsgálat határidejét a származási országban megállapított időbeli hatállyal megegyezően, de legfeljebb a 11. § (3) bekezdésében meghatározott időtartamban kell megállapítani.
 
+(10)[^95] A jármű-honosítási eljárásban kiadott „Műszaki adatlap” a jármű forgalomba helyezéséhez az azon feltüntetett Műszaki érvényesség időbeni hatályának végéig használható fel.
+
 [^87]: A 4/C. §-t megelőző alcímet a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be.
 [^88]: A 4/C. §-t a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be, szövege a 18/2022. (IX. 13.) TIM rendelet 1. §-ával megállapított szöveg.
 [^89]: A 4/C. § (3) bekezdése a 33/2024. (IX. 10.) ÉKM rendelet 1. §-ával megállapított szöveg.
@@ -40,3 +42,4 @@ b) tulajdonos ezt kéri.
 [^92]: A 4/C. § (7) bekezdése a 18/2025. (VI. 26.) ÉKM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^93]: A 4/C. § (8) bekezdése a 18/2025. (VI. 26.) ÉKM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^94]: A 4/C. § (9) bekezdése a 18/2025. (VI. 26.) ÉKM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^95]: A 4/C. § (10) bekezdését a 41/2025. (XII. 22.) ÉKM rendelet 1. §-a iktatta be.

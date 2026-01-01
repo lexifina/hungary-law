@@ -1,6 +1,6 @@
-## A vizsgabiztosokra vonatkozó feltételek[^183]
+## A vizsgabiztosokra vonatkozó feltételek[^184]
 
-12/A. §[^184] (1) A járművek honosítását, egyedi forgalomba helyezésének engedélyezését, forgalomba helyezés előtti és időszakos vizsgálatát, valamint azok minősítő vizsgálatát csak olyan műszaki vizsgabiztos végezheti, aki alapszintű műszaki vizsgabiztosi képesítéssel rendelkezik.
+12/A. §[^185] (1) A járművek honosítását, egyedi forgalomba helyezésének engedélyezését, forgalomba helyezés előtti és időszakos vizsgálatát, valamint azok minősítő vizsgálatát csak olyan műszaki vizsgabiztos végezheti, aki alapszintű műszaki vizsgabiztosi képesítéssel rendelkezik.
 
 (2) A 3,5 t megengedett legnagyobb össztömeget meghaladó járművek honosítását, egyedi forgalomba helyezésének engedélyezését, forgalomba helyezés előtti és időszakos vizsgálatát, valamint azok minősítő vizsgálatát csak az a vizsgabiztos végezheti, aki kiegészítő szintű műszaki vizsgabiztosi képesítéssel rendelkezik.
 
@@ -16,5 +16,5 @@ b) díjazása nem kapcsolódhat az adott műszaki vizsgálat eredményéhez és 
 
 (6) A vizsgabiztosok szakmai képzésének szabályait a 12. számú melléklet tartalmazza.
 
-[^183]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
-[^184]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 18/2025. (VI. 26.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^184]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
+[^185]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 18/2025. (VI. 26.) ÉKM rendelet 4. §-ával megállapított szöveg.
