@@ -1,1 +1,1 @@
-39. §
+39. § A szociális, gyermekjóléti és gyermekvédelmi igénybevevői nyilvántartásról és az országos jelentési rendszerről szóló 415/2015. (XII. 23.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
