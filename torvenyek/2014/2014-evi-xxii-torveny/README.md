@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-22-00-00
 | 2022-11-24 | 2022. évi XLV. törvény | 2014-22-00-00.12 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2014-22-00-00.13 |
 | 2024-11-29 | 2024. évi LV. törvény | 2014-22-00-00.14 |
+| 2026-01-01 | 2025. évi LXXXIII. törvény | 2014-22-00-00.15 |

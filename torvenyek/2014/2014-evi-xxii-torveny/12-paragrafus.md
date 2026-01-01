@@ -1,0 +1,1 @@
+12. § A 2026. július 1-jét magában foglaló adóévre a 7. § (3) bekezdése szerint megállapított adóelőleg felét kell megfizetni, a 7. § (4) bekezdésében szereplő – az adóalany választása szerinti, rá irányadó – egyik előlegfizetési időpontban. 2026. évben a naptári évtől nem eltérő üzleti éves adóalanyok adóéve 2026. július 1-től 2026. december 31-ig tart.

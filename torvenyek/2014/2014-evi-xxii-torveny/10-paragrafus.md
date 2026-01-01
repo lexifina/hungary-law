@@ -1,1 +1,1 @@
-10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
+10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
