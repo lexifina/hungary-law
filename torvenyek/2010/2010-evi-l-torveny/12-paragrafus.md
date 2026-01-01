@@ -9,3 +9,5 @@
 (1a) A polgármester és a főpolgármester választásának szavazólapján a választópolgár egy jelöltre szavazhat.
 
 (2) Polgármester, főpolgármester az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
+
+(3) Ha két vagy több polgármesterjelölt vagy főpolgármester-jelölt a legtöbb szavazatot egyenlő számú szavazattal érte el, a szavazást meg kell ismételni.

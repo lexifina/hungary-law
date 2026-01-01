@@ -6,7 +6,13 @@
 
 1. § (1) A választópolgár a választójogát szabad elhatározása alapján gyakorolja.
 
-(2) A választópolgár lakóhelyén vagy – ha lakóhelye mellett legkésőbb a választás kitűzését megelőző 30. napig tartózkodási helyet is létesített – bejelentett tartózkodási helyén választhat.
+(2) A választópolgár lakóhelyén vagy ha lakóhelye mellett
+
+a) legkésőbb a választás kitűzését megelőző 30. napig tartózkodási helyet is létesített, vagy
+
+b) bejelentett tartózkodási hellyel rendelkezik abban a választókerületben, amelyben a választás kitűzését megelőző 30. napon lakóhellyel rendelkezett,
+
+bejelentett tartózkodási helyén választhat.
 
 (3) A választópolgár bármely választókerületben választható.
 

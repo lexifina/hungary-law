@@ -2,6 +2,8 @@
 
 (2) Töredékszavazatnak minősül az egyéni választókerületekben a jelölő szervezet jelöltjére leadott minden olyan szavazat, amellyel nem szereztek mandátumot.
 
+(2a) Ha az egyéni választókerületben a szavazást a 14. § (2) bekezdése alapján meg kell ismételni, a töredékszavazatokat az ismételt szavazáson leadott szavazatok alapján kell megállapítani.
+
 (3) A közös jelöltekre leadott töredékszavazatnak minősülő szavazatok a közös jelöltet állító jelölő szervezetek közös kompenzációs listájára kerülnek.
 
 (3a) A nemzetiségi kompenzációs listára az azon szereplő jelöltekre az egyéni választókerületben leadott azon szavazatok kerülnek töredékszavazatként, amelyekkel nem szereztek mandátumot.
