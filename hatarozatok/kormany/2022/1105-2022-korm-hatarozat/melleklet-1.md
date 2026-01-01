@@ -1,18 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 27. A Sberbank Magyarország Zrt.-nél számlavezetéssel érintett önkormányzatok támogatása címmel és az 1. melléklet szerinti alcímekkel történő kiegészítését;
+## 1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az aktuális bérfizetési kötelezettségek teljesítése érdekében – elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére 282 232 251 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 27. A Sberbank Magyarország Zrt.-nél számlavezetéssel érintett önkormányzatok támogatása cím 1. melléklet szerinti alcímei javára, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított forrás terhére, az ott meghatározott célokra külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson az 1. melléklet szerinti önkormányzatok (a továbbiakban: Önkormányzatok) részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatás felhasználási határideje 2022. március 31. legyen;
 
@@ -28,4 +16,8 @@
 
 ## Határidő: 2022. december 31.
 
-1. melléklet az 1105/2022. (III. 2.) Korm. határozathoz
+1. melléklet az 1105/2022. (III. 2.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
