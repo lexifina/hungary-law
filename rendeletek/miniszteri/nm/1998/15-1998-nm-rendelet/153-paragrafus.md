@@ -1,6 +1,6 @@
-## Kapcsolattartás, családgondozás[^634]
+## Kapcsolattartás, családgondozás[^636]
 
-153. §[^635] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^637] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
 a) a gyermekvédelmi gyám segíti
 
@@ -12,7 +12,7 @@ b) a szakszolgálat felügyelt kapcsolattartás esetén
 
 ba) a kapcsolattartás kulturált és zavartalan lebonyolításához helyszínt és a felügyeletet ellátó szakembert biztosít, így különösen gondoskodik a gyermekvédelmi gyám, vagy a gyermekvédelmi szakértői bizottság vezetője, illetve családgondozója jelenlétéről,
 
-bb)[^636] ha a kapcsolattartásra nem a gyermek gondozásának helyén kerül sor, gondoskodik arról, hogy a felügyeletet ellátó szakember vezesse a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett formai és tartalmi követelményeknek megfelelő kapcsolattartási naplót.
+bb)[^638] ha a kapcsolattartásra nem a gyermek gondozásának helyén kerül sor, gondoskodik arról, hogy a felügyeletet ellátó szakember vezesse a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett formai és tartalmi követelményeknek megfelelő kapcsolattartási naplót.
 
 (2) A gyermekvédelmi gyám
 
@@ -22,9 +22,9 @@ b) közreműködik a gyermek és szülei kapcsolatának rendezésében,
 
 c) segíti a gyermeket önálló életvitelének kialakításában.
 
-(3)[^637] A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a család- és gyermekjóléti szolgálat együttműködnek.
+(3)[^639] A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a család- és gyermekjóléti szolgálat együttműködnek.
 
-(4)[^638] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
+(4)[^640] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
 
 a) közvetlenül tartanak kapcsolatot egymással,
 
@@ -34,11 +34,11 @@ c) a gyermekkel és a családdal kapcsolatos tapasztalataikat megosztják egymá
 
 d) a gyermekkel közös megbeszélést tarthatnak.
 
-(5)[^639] A gondozási hely a helyzetértékelés véglegesítését megelőzően a kapcsolattartási naplót feltölti a GYVR dokumentumtárába.
+(5)[^641] A gondozási hely a helyzetértékelés véglegesítését megelőzően a kapcsolattartási naplót feltölti a GYVR dokumentumtárába.
 
-[^634]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^635]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^636]: A 153. § (1) bekezdés b) pont bb) alpontja a 6/2020. (III. 6.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
-[^637]: A 153. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.
-[^638]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.
-[^639]: A 153. § (5) bekezdését a 34/2020. (X. 2.) EMMI rendelet 12. §-a iktatta be.
+[^636]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^637]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^638]: A 153. § (1) bekezdés b) pont bb) alpontja a 6/2020. (III. 6.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^639]: A 153. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^640]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.
+[^641]: A 153. § (5) bekezdését a 34/2020. (X. 2.) EMMI rendelet 12. §-a iktatta be.

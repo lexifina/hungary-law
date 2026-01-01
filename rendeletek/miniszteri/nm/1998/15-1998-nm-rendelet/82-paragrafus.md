@@ -1,16 +1,16 @@
-## 81. §[^248] A különleges vagy speciális ellátást igénylő, valamint a kettős szükségletű gondozott gyermek számára a fejlődéséhez, fejlesztéséhez, gyógyulásához, rehabilitációjához és terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
+## 81. §[^250] A különleges vagy speciális ellátást igénylő, valamint a kettős szükségletű gondozott gyermek számára a fejlődéséhez, fejlesztéséhez, gyógyulásához, rehabilitációjához és terápiájához szükséges és indokolt eszközök beszerzéséről a fenntartó gondoskodik.
 
-82. § (1)[^249] A 3 éven felüli gondozott gyermeket személyes szükségleteinek kielégítésére – a (3) bekezdésben meghatározott kivétellel – havonta zsebpénzzel kell ellátni. A zsebpénz havi összege nem lehet kevesebb a szociális vetítési alap összegének
+82. § (1)[^251] A 3 éven felüli gondozott gyermeket személyes szükségleteinek kielégítésére – a (3) bekezdésben meghatározott kivétellel – havonta zsebpénzzel kell ellátni. A zsebpénz havi összege nem lehet kevesebb a szociális vetítési alap összegének
 
-a)[^250] 10%-ánál a 3–10 éves,
+a)[^252] 10%-ánál a 3–10 éves,
 
-b)[^251] 26%-ánál a 10–14 éves,
+b)[^253] 26%-ánál a 10–14 éves,
 
-c)[^252] 36%-ánál a 14 év feletti
+c)[^254] 36%-ánál a 14 év feletti
 
 gyermek esetében.
 
-(2)[^253] A zsebpénznek az (1) bekezdésben meghatározott mértéken felüli összegét a gondozott gyermek szorgalma, magatartása figyelembevételével
+(2)[^255] A zsebpénznek az (1) bekezdésben meghatározott mértéken felüli összegét a gondozott gyermek szorgalma, magatartása figyelembevételével
 
 a) gyermekotthonban elhelyezetteknél a nevelő javaslatára az intézmény vezetője,
 
@@ -18,9 +18,9 @@ b) nevelőszülőnél elhelyezettek esetében a nevelőszülő,
 
 havonta állapítja meg, és folyósítja.
 
-(3)[^254] A gondozási helyéről önkényesen eltávozott (szökött) gondozott gyermeket a szökés időtartama alatt zsebpénz nem illeti meg.
+(3)[^256] A gondozási helyéről önkényesen eltávozott (szökött) gondozott gyermeket a szökés időtartama alatt zsebpénz nem illeti meg.
 
-(4)[^255] A gondozott gyermek zsebpénzéről nevelője, nevelőszülője zsebpénznyilvántartást vezet a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett formában. A zsebpénznyilvántartás tartalmazza:
+(4)[^257] A gondozott gyermek zsebpénzéről nevelője, nevelőszülője zsebpénznyilvántartást vezet a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett formában. A zsebpénznyilvántartás tartalmazza:
 
 a) a gyermek tartózkodási helyének megjelölését,
 
@@ -30,20 +30,20 @@ c) a gyermek nevét, születési helyét és idejét,
 
 d) a zsebpénz havi összegét, kísérő nélküli kiskorú esetén a zsebpénz heti összegét,
 
-e)[^256] a zsebpénz felhasználásának bemutatását, külön feltüntetve a bevételt, a kiadást, az egyenleget, a felhasználás időpontját, valamint minden egyes felhasználásnál – az életkoránál vagy állapotánál fogva aláírásra képtelen gyermek kivételével – a gyermek aláírását.
+e)[^258] a zsebpénz felhasználásának bemutatását, külön feltüntetve a bevételt, a kiadást, az egyenleget, a felhasználás időpontját, valamint minden egyes felhasználásnál – az életkoránál vagy állapotánál fogva aláírásra képtelen gyermek kivételével – a gyermek aláírását.
 
-(5)[^257] A gondozott gyermek a zsebpénze felhasználásáról maga dönt.
+(5)[^259] A gondozott gyermek a zsebpénze felhasználásáról maga dönt.
 
-(6)[^258] A fejlesztő felkészítésben való részvételre kötelezett, valamint a 3–6 éves korú gondozott gyermek részére a zsebpénz nem kerül kifizetésre, de biztosítani kell a személyre szóló felhasználását.
+(6)[^260] A fejlesztő felkészítésben való részvételre kötelezett, valamint a 3–6 éves korú gondozott gyermek részére a zsebpénz nem kerül kifizetésre, de biztosítani kell a személyre szóló felhasználását.
 
-[^248]: A 81. § a 19/2014. (III. 13.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^249]: A 82. § (1) bekezdés nyitó szövegrésze a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított, a 80/2022. (XII. 30.) BM rendelet 9. § a) pontja szerint módosított szöveg.
-[^250]: A 82. § (1) bekezdés a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított, a 42/2025. (X. 30.) BM rendelet 3. § c) pontja szerint módosított szöveg.
-[^251]: A 82. § (1) bekezdés b) pontja a 42/2025. (X. 30.) BM rendelet 3. § d) pontja szerint módosított szöveg.
-[^252]: A 82. § (1) bekezdés c) pontja a 42/2025. (X. 30.) BM rendelet 3. § e) pontja szerint módosított szöveg.
-[^253]: A 82. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (2) bekezdésével megállapított szöveg.
-[^254]: A 82. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
-[^255]: A 82. § (4) bekezdése a 6/2020. (III. 6.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^256]: A 82. § (4) bekezdés e) pontja a 29/2025. (VII. 24.) BM rendelet 2. §-ával megállapított szöveg.
-[^257]: A 82. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése.
-[^258]: A 82. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 48. § (4) bekezdésével megállapított szöveg.
+[^250]: A 81. § a 19/2014. (III. 13.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^251]: A 82. § (1) bekezdés nyitó szövegrésze a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított, a 80/2022. (XII. 30.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^252]: A 82. § (1) bekezdés a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (1) bekezdésével megállapított, a 42/2025. (X. 30.) BM rendelet 3. § c) pontja szerint módosított szöveg.
+[^253]: A 82. § (1) bekezdés b) pontja a 42/2025. (X. 30.) BM rendelet 3. § d) pontja szerint módosított szöveg.
+[^254]: A 82. § (1) bekezdés c) pontja a 42/2025. (X. 30.) BM rendelet 3. § e) pontja szerint módosított szöveg.
+[^255]: A 82. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (2) bekezdésével megállapított szöveg.
+[^256]: A 82. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
+[^257]: A 82. § (4) bekezdése a 6/2020. (III. 6.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^258]: A 82. § (4) bekezdés e) pontja a 29/2025. (VII. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^259]: A 82. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése.
+[^260]: A 82. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 48. § (3) bekezdése, szövege a 48. § (4) bekezdésével megállapított szöveg.

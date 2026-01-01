@@ -69,3 +69,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2025-07-25 | 1998-15-20-3D.73 | 29/2025. (VII. 24.) BM rendelet |
 | 2025-11-01 | 1998-15-20-3D.75 | 42/2025. (X. 30.) BM rendelet |
 | 2025-12-31 | 1998-15-20-3D.76 | 26/2025. (XII. 30.) KIM rendelet |
+| 2026-01-01 | 1998-15-20-3D.74 | 55/2025. (XII. 30.) BM rendelet |
