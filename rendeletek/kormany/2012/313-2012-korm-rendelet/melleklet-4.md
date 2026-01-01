@@ -32,9 +32,9 @@
 
 | 16 | az önkéntesen átvett dokumentációk, gyűjtemények, dokumentumtárak | az adományozó |
 
-| 17[^63] |  |  |
+| 17[^65] |  |  |
 
-4. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^64]
+4. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^66]
 
 Adatszolgáltatás az Országos Építésügyi Nyilvántartás működését elősegítő elektronikus alkalmazásokból
 
@@ -54,5 +54,5 @@ Adatszolgáltatás az Országos Építésügyi Nyilvántartás működését el�
 
 | 7 | ÖVNYR | a műemlékvédelemmel kapcsolatos szabályokról szóló kormányrendeletben meghatározott adatok | a kulturális örökség védelméért felelős miniszter | bárki |
 
-[^63]: A 3. mellékletben foglalt táblázat 17. sorát a 285/2024. (IX. 30.) Korm. rendelet 86. § i) pontja hatályon kívül helyezte.
-[^64]: A 4. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 84. § (3) bekezdése iktatta be. A melléklet a Magyar Közlöny 2024. évi 100. számában megjelent helyesbítésnek megfelelő szöveg.
+[^65]: A 3. mellékletben foglalt táblázat 17. sorát a 285/2024. (IX. 30.) Korm. rendelet 86. § i) pontja hatályon kívül helyezte.
+[^66]: A 4. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 84. § (3) bekezdése iktatta be. A melléklet a Magyar Közlöny 2024. évi 100. számában megjelent helyesbítésnek megfelelő szöveg.

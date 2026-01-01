@@ -1,6 +1,6 @@
 2. §[^8] E rendelet alkalmazásában
 
-1. Dokumentációs Központ: az Építésügyi Dokumentációs és Információs Központ, amely az építésügy, a településfejlesztés, a településrendezés, a területfejlesztés és a területrendezés körébe tartozó dokumentációknak és adatoknak a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény szerinti közgyűjteménye és azok nyilvántartása;
+1.[^9] Dokumentációs Központ: az Építésügyi Dokumentációs és Információs Központ, amely az építésügy, a településfejlesztés, a településrendezés, a területfejlesztés és a területrendezés körébe tartozó dokumentációknak és adatoknak a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvény szerinti közgyűjteménye és azok nyilvántartása, valamint e területekhez kapcsolódó tudományos feladatot, tevékenységet ellátó közgyűjteménye;
 
 2. e-építés: az építésügy, a településfejlesztés és a településrendezés közös információs felülete, amelynek adatkezelője az építésügyi igazgatásért és építéshatósági ügyekért felelős miniszter, valamint a településfejlesztésért és településrendezésért felelős miniszter, üzemeltetését az Üzemeltető látja el;
 
@@ -52,9 +52,13 @@
 
 8.18. Örökségvédelmi Nyilvántartási Rendszer (ÖVNYR): a régészeti örökség és a műemlékek központi nyilvántartásai és a nyilvántartásban szereplő adatokkal kapcsolatos iratok, dokumentumok kezelésére szolgáló elektronikus alkalmazás;
 
-8.19.[^9] e-zöldfelületi tanúsítás: olyan elektronikus alkalmazás, amely kizárólagosan biztosítja az zöldfelületi tanúsító személyek és szervezetek számára a hiteles zöldfelületi tanúsítvány elektronikus formában történő előállítását és annak a nyilvántartásba vételét;
+8.19.[^10] e-zöldfelületi tanúsítás: olyan elektronikus alkalmazás, amely kizárólagosan biztosítja az zöldfelületi tanúsító személyek és szervezetek számára a hiteles zöldfelületi tanúsítvány elektronikus formában történő előállítását és annak a nyilvántartásba vételét;
+
+8.20.[^11] Barnamezős Területek Kataszterének Adatkezelő Felülete (BarKA): a barnamezős területek hely- és leíró adatainak közzétételét szolgáló elektronikus alkalmazás;
 
 9. tervtár: a Dokumentációs Központ által gyűjtött építészeti-műszaki, valamint települési és térségi dokumentációk tárolására, őrzésére, valamint kezelésére szolgáló fizikai vagy elektronikus tárolóhely.
 
 [^8]: A 2. § a 285/2024. (IX. 30.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § 8. pont 8.19. alpontját a 285/2024. (IX. 30.) Korm. rendelet 77. § (2) bekezdése iktatta be.
+[^9]: A 2. § 1. pontja a 448/2025. (XII. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^10]: A 2. § 8. pont 8.19. alpontját a 285/2024. (IX. 30.) Korm. rendelet 77. § (2) bekezdése iktatta be.
+[^11]: A 2. § 8. pont 8.20. alpontját a 448/2025. (XII. 29.) Korm. rendelet 23. §-a iktatta be.

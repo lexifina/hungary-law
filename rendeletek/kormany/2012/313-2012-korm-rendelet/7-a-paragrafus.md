@@ -1,3 +1,3 @@
-7/A. §[^53] Az OÉNY működését elősegítő elektronikus alkalmazások közül az adatkéréssel érintettek vonatkozásában a szolgáltatható adatok körét, valamint az adatszolgáltatásra és az adatkérésre jogosultakat a 4. melléklet határozza meg.
+7/A. §[^55] Az OÉNY működését elősegítő elektronikus alkalmazások közül az adatkéréssel érintettek vonatkozásában a szolgáltatható adatok körét, valamint az adatszolgáltatásra és az adatkérésre jogosultakat a 4. melléklet határozza meg.
 
-[^53]: A 7/A. §-t a 788/2021. (XII. 27.) Korm. rendelet 22. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^55]: A 7/A. §-t a 788/2021. (XII. 27.) Korm. rendelet 22. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 83. §-ával megállapított szöveg.

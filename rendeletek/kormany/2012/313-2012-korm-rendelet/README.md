@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2024-10-01 | 2012-313-20-22.27 | 285/2024. (IX. 30.) Korm. rendelet |
 | 2025-03-01 | 2012-313-20-22.29 | 62/2014. (III. 6.) Korm. rendelet |
 | 2025-07-01 | 2012-313-20-22.28 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2026-01-01 | 2012-313-20-22.30 | 448/2025. (XII. 29.) Korm. rendelet |
