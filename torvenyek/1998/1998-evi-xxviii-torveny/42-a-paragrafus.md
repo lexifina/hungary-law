@@ -34,6 +34,8 @@ l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó 
 
 m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 
+(4a) Az ebnyilvántartás a (4) bekezdés e)–l) pontja tekintetében – a szolgáltató állatorvos neve és kamarai bélyegző száma kivételével – közhiteles nyilvántartásnak minősül.
+
 (5) Az ebnyilvántartás működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 
 (6) Az eb tulajdonosa és tartója köteles a (4) bekezdés szerinti adatokat az eb transzponderrel történő megjelölését és regisztrációját végző állatorvos rendelkezésére bocsátani.
