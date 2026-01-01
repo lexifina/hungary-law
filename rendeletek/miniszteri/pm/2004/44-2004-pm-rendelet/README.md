@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-5
 | 2018-01-01 | 2004-44-20-53.18 | 52/2017. (XII. 29.) NGM rendelet |
 | 2019-01-01 | 2004-44-20-53.19 | 13/2018. (XII. 18.) PM rendelet |
 | 2023-01-01 | 2004-44-20-53.20 | 13/2018. (XII. 18.) PM rendelet |
+| 2026-01-01 | 2004-44-20-53.21 | 61/2025. (XII. 30.) NGM rendelet |
