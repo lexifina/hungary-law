@@ -16,7 +16,8 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 180 napon túli fennállás esetén is építési engedély nélkül létesíthető, amennyiben az egyes építmények mérete az építési tevékenység után sem haladja meg a nettó 800 m3 térfogatot és 7 méter gerincmagasságot.
 
-(3) Az (1) és a (2) bekezdésben meghatározott építmény 180 napon túl az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság állékonyságot és tűzbiztonságot igazoló szakértői véleménye birtokában maradhat fenn.
+(3)[^31] Az (1) és a (2) bekezdésben meghatározott építmény 180 napon túl a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet állékonyságot és tűzbiztonságot igazoló szakértői véleménye birtokában maradhat fenn.
 
 [^29]: Az 5/D. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^30]: Az 5/E. §-t a 460/2020. (X. 20.) Korm. rendelet 7. §-a iktatta be.
+[^31]: Az 5/E. § (3) bekezdése a 442/2025. (XII. 29.) Korm. rendelet 9. §-a szerint módosított szöveg.

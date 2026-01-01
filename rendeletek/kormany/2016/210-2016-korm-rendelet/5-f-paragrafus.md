@@ -1,4 +1,4 @@
-5/F. §[^31] (1) A Beruházások helyszíne tekintetében a településkép védelméről szóló jogszabályi rendelkezéseket az alábbi eltérésekkel kell alkalmazni:
+5/F. §[^32] (1) A Beruházások helyszíne tekintetében a településkép védelméről szóló jogszabályi rendelkezéseket az alábbi eltérésekkel kell alkalmazni:
 
 a) bármely, a meglévő épületek külső megjelenését érintő beavatkozás – amennyiben az eredeti építészeti arculat korhű rekonstrukciójával megvalósuló épületrészeket érinti – csak az épületek vonatkozásában készült építéstörténeti tudományos dokumentációban feltárt vagy hivatkozott eredeti terveinek felhasználásával végezhető el, amennyiben azok rendelkezésre állnak, azzal, hogy a beavatkozás keretében biztosítani kell a korábbi helyreállítási hibák, eltérések korrekcióját, ideértve különösen az építészeti minőséget lerontó utólagos hozzáépítések elbontását, stílusegyezés esetén a tetőzet eredeti formájának újjáépítését és az esetlegesen korábban eltávolított épületdíszítések, tetődíszek, tornyok, kupolák, portálok visszaállítását;
 
@@ -16,7 +16,7 @@ d) bármely, a meglévő épületek külső megjelenését érintő beavatkozás
 
 e) az épületek közterületről látható homlokzatain gépészeti berendezés, ablak-klímaberendezés és klímaberendezések kültéri egysége csak az épület részeként, az épület megjelenéséhez illeszkedve, illetve takartan helyezhető el, a kondenzvíz elvezetéséről úgy kell gondoskodni, hogy az közterületre vagy szomszéd telekre nem folyhat át.
 
-f)[^32] a kivitelezési területeket lehatároló szerkezetre, palánkra reklám, hirdetmény, plakát a vagyonkezelő hozzájárulásával helyezhető el.
+f)[^33] a kivitelezési területeket lehatároló szerkezetre, palánkra reklám, hirdetmény, plakát a vagyonkezelő hozzájárulásával helyezhető el.
 
-[^31]: Az 5/F. §-t a 460/2020. (X. 20.) Korm. rendelet 7. §-a iktatta be.
-[^32]: Az 5/F. § (2) bekezdés f) pontját a 228/2023. (VI. 8.) Korm. rendelet 4. §-a iktatta be.
+[^32]: Az 5/F. §-t a 460/2020. (X. 20.) Korm. rendelet 7. §-a iktatta be.
+[^33]: Az 5/F. § (2) bekezdés f) pontját a 228/2023. (VI. 8.) Korm. rendelet 4. §-a iktatta be.
