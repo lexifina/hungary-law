@@ -1,13 +1,9 @@
-26. § (1) A megfelelőségértékelő szervezet – a jogszabályban meghatározott intézkedések megtétele mellett – köteles a piacfelügyeleti hatóságot tájékoztatni, ha a megfelelőség tanúsításához szükséges vizsgálat alapján megállapítja, hogy a termék
+## 17. Safety Gate biztonsági riasztórendszer
 
-a) csak meghatározott feltételek teljesítése esetén hozható forgalomba,
+26. § (1) Az egyedi nemzeti kapcsolattartó ponti feladatokat ellátó fogyasztóvédelmi hatóság (a továbbiakban: Nemzeti Kapcsolattartó Pont) vesz részt a termékbiztonsággal kapcsolatos ügyekben illetékes piacfelügyeleti hatóságok európai hálózatában.
 
-b) a fogyasztó életét, egészségét vagy testi épségét súlyosan és közvetlenül veszélyezteti, vagy
+(2) Magyarország a Nemzeti Kapcsolattartó Ponton keresztül kapcsolódik a Safety Gate biztonsági riasztórendszerhez (a továbbiakban: Safety Gate).
 
-c) nem felel meg az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban vagy a jogszabályokban meghatározott követelményeknek.
+(3) Amennyiben a piacfelügyeleti hatóság a termék forgalomba hozatalát korlátozó, illetve kivonását vagy visszahívását elrendelő intézkedést hoz, vagy a gazdasági szereplőkkel olyan intézkedésekben állapodik meg, amelyek egy terméknek az értékesítését vagy használatát veszélyessége miatt megakadályozzák, korlátozzák vagy különleges feltételekhez kötik, tájékoztatnia kell a Nemzeti Kapcsolattartó Pontot. A Nemzeti Kapcsolattartó Pont a Safety Gate-en keresztül tájékoztatja az Európai Bizottságot az intézkedésekről, megjelölve azok okát is. A Nemzeti Kapcsolattartó Pont az intézkedések módosításáról vagy a termék visszahívásáról haladéktalanul tájékoztatja a Bizottságot.
 
-(2) Az országos és a területi gazdasági kamarák, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek, a forgalmazók, továbbá a fogyasztók
-
-a) tájékoztathatják a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot a termék biztonságosságának követelményeivel kapcsolatos észrevételeikről,
-
-b) tájékoztatást kérhetnek a KPIR működtetéséért felelős fogyasztóvédelmi hatóságtól a KPIR-ben nyilvántartott adatokról, amelyet a KPIR működtetéséért felelős fogyasztóvédelmi hatóság a személyes adatok védelmére vonatkozó előírások betartása mellett adhat meg.
+(4) A rendelkezésre bocsátott információk tartalmáért a Nemzeti Kapcsolattartó Pontot értesítő piacfelügyeleti hatóság felel.

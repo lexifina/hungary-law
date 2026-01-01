@@ -34,9 +34,9 @@
 
 16. kereskedelmi kommunikáció: az Fgytv. 2. § q) pontjában meghatározott fogalom,
 
-17. Közösségi Gyors Tájékoztatási Rendszer: az Európai Bizottság veszélyes termékek bejelentésére létrehozott információs rendszere,
+17. Safety Gate biztonsági riasztórendszer: az Európai Bizottság veszélyes termékek bejelentésére létrehozott információs rendszere,
 
-18. Központi Piacfelügyeleti Információs Rendszer: a piacfelügyeleti hatóságok által végzett piacfelügyeleti ellenőrzéssel kapcsolatos adatok és beszerzett dokumentumok feldolgozására és nyilvántartására szolgáló adatbázis,
+18.
 
 19. megfelelőséget igazoló dokumentum: a megfelelőségértékelési eljárás lefolytatását igazoló dokumentumok,
 
