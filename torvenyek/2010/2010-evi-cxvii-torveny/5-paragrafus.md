@@ -1,8 +1,12 @@
-## 4. A bioüzemanyag közlekedési célú felhasználására vonatkozó rendelkezések
+## 4. A megújuló üzemanyag közlekedési célú felhasználására vonatkozó rendelkezések
 
-5. § (1) A motorbenzint vagy a dízelgázolajat forgalomba hozó üzemanyag-forgalmazó a bioüzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott bioüzemanyag minimális mennyisége elérje az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező bioüzemanyag-részarány mennyiségét. A kötelező bioüzemanyag-részarány mennyiség megállapításán belül – az általános kötelezettség kiegészítéseként vagy a helyett – a Kormány az e törvény végrehajtására kiadott rendeletében az egyes meghatározott bioüzemanyagnak minősülő termékek kötelező részaránya tekintetében is megállapíthat kötelezettséget.
+5. § (1) Az üzemanyagot forgalomba hozó üzemanyag-forgalmazó megújuló üzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba, CNG-be, LNG-be bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott megújuló üzemanyag minimális mennyisége elérje az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező megújulóüzemanyag-részarány mennyiségét. A kötelező megújulóüzemanyag-részarány mennyisége megállapításán belül – az általános kötelezettség kiegészítéseként vagy ahelyett – a Kormány az e törvény végrehajtására kiadott rendeletében az egyes meghatározott megújuló üzemanyagnak minősülő termékek kötelező részaránya tekintetében is megállapíthat kötelezettséget.
 
-(2) A kötelező bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni
+(2) Az (1) bekezdésben megállapított kötelezettség teljesítéséhez az üzemanyag-forgalmazó forgalomba hozott megújuló üzemanyagként veheti figyelembe a földgázellátásról szóló törvényben meghatározott szállító- vagy elosztóvezetékbe betáplált biometánt – ideértve a szállítóvezetéken keresztül Magyarországra behozott biometánt is –, amelynek feltételeit az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(3) Az (1) bekezdésben megállapított kötelezettség teljesítéséhez az üzemanyag-forgalmazó forgalomba hozott megújuló üzemanyagként veheti figyelembe az általa forgalomba hozott, széntartalom újrahasznosításával nyert üzemanyag mennyiségét, azonban a figyelembe vett mennyiség nem haladhatja meg az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértéket.
+
+(4) A kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni
 
 a) azt a forgalomba hozott bioüzemanyagot, amelynek fenntartható módon történő előállítását az arra kötelezett nem igazolja,
 

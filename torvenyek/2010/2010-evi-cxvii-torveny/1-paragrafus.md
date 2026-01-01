@@ -36,11 +36,11 @@
 
 13. forgalomba hozott üzemanyag:
 
-a) a 30. pont a) alpontja szerinti üzemanyag-forgalmazó esetében az általa szabad forgalomba bocsátott,
+a) a 30. pont a) alpontja szerinti üzemanyag-forgalmazó esetében az általa szabad forgalomba bocsátott üzemanyag,
 
-b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa tagállamból beszerzett
+b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa tagállamból beszerzett üzemanyag,
 
-üzemanyag;
+c) a 30. pont c) alpontja szerinti üzemanyag-forgalmazó esetében az általa jármű üzemanyagtartályába töltéssel kiszolgált üzemanyag;
 
 14. fosszilis komparátor: egy adott bioüzemanyaghoz vagy folyékony bio-energiahordozóhoz felhasználási célját tekintve legközelebb álló fosszilis üzemanyag vagy az a fosszilis üzemanyag, amelynek egy adott bioüzemanyag vagy folyékony bio-energiahordozó a keverőkomponense;
 
@@ -50,11 +50,17 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 17. kiindulási érték: a 2010. évben a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás az e törvény végrehajtására kiadott jogszabályban meghatározott mértéke;
 
+17a. közlekedési célra felhasznált megújuló villamos energia: a villamosenergiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott megújuló energiaforrásokból előállított és közlekedési célra felhasznált villamos energia;
+
 18. köztes termék: biomasszából kémiai vagy fizikai eljárással átalakított, bioüzemanyag vagy folyékony bio-energiahordozó előállítása céljára szolgáló termék;
 
 19. lignocellulóz-tartalmú anyagok: ligninből, cellulózból és hemicellulózból álló anyagok, mint például az erdőkből, a fás szárú energianövényekből, illetve erdészeti iparágak maradék-, illetve hulladékanyagából származó biomassza;
 
 20. megújuló tüzelő- és üzemanyag: megújuló üzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok;
+
+20a. megújuló üzemanyag: a bioüzemanyagok, és a nem biológiai eredetű megújuló üzemanyagok;
+
+20b. megújulóüzemanyag-részarány: a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált energiamennyiségéhez viszonyított részaránya;
 
 21. mezőgazdasági, akvakultúra-, halászati, és erdészeti maradványok: olyan maradványanyagok, amelyeket közvetlenül a mezőgazdaság, az akvakultúra, a halászat és az erdészet állít elő; a kapcsolódó iparágakból vagy feldolgozási folyamatokból származó maradványanyagokat nem foglalják magukban;
 
@@ -70,14 +76,18 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 26. sűrített földgáz (CNG): olyan szénhidrogéngáz, amely környezeti hőmérsékleten gáz halmazállapotú (a 2711 21 00 – 2711 29 00 KN kód szerinti termék);
 
+26a. széntartalom újrahasznosításával nyert üzemanyag: meg nem újuló eredetű, a hulladékról szóló 2012. évi CLXXXV. törvény 7. §-ával összhangban történő hasznosításra nem alkalmas folyékony vagy szilárd hulladékáramokból, vagy meg nem újuló eredetű, ipari létesítmények gyártási folyamatainak elkerülhetetlen, nem szándékos következményeként kibocsátott hulladék-technológiai gázokból és égéstermékekből előállított folyékony és gáznemű üzemanyag;
+
 27. teljes életciklusra számított üvegházhatású gázkibocsátás: minden olyan nettó CO2-, CH4- és N2O-kibocsátás, amely a bioüzemanyaghoz vagy folyékony bio-energiahordozóhoz vagy más megújuló üzemanyaghoz kapcsolható; ezek valamennyi releváns szakaszára kiterjed, beleértve a kitermelést vagy növénytermesztést, a földhasználatban bekövetkező változásokat, a szállítást és a forgalmazást, a feldolgozást és a fogyasztás során történő elégetési folyamatokat, a kibocsátás helyétől függetlenül;
 
 28. üvegházhatású gázkibocsátás-elkerülés: annak százalékban meghatározott értéke két tizedes jegyre kerekítve, hogy a bioüzemanyagok, folyékony bio-energiahordozók vagy más megújuló üzemanyaghoz kapcsolható teljes életciklusra számított üvegházhatású gázkibocsátása mennyivel kevesebb, mint azok fosszilis komparátorára meghatározott üvegházhatású gázkibocsátás;
 
 29. üzemanyag: a motorbenzin, a dízelgázolaj, bioüzemanyag, a szintetikus és paraffinos üzemanyag, a földgáz (beleértve a biometánt) gáznemű (sűrített földgáz – CNG) és cseppfolyósított (cseppfolyósított földgáz – LNG) formában, valamint a cseppfolyósított propán-bután gáz (LPG) is;
 
-30. üzemanyag-forgalmazó: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerint
+30. üzemanyag-forgalmazó:
 
-a) az üzemanyagot szabadforgalomba bocsátó személy, és
+a) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerint az üzemanyagot szabadforgalomba bocsátó személy,
 
-b) a másik tagállamban szabadforgalomba bocsátott üzemanyagot kereskedelmi céllal belföldre szállító jövedéki engedélyes kereskedő.
+b) a Jöt. szerint a másik tagállamban szabadforgalomba bocsátott üzemanyagot kereskedelmi céllal belföldre szállító jövedéki engedélyes kereskedő, vagy
+
+c) a CNG-t, az LNG-t jármű üzemanyagtartályába töltéssel kiszolgáló személy.

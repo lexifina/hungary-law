@@ -26,6 +26,6 @@ e) az arra vonatkozó adatot, hogy az ügyfelet biomassza-kereskedőként, bioma
 
 f) a BIONYOM nyilvántartásból való törlés tényét és okát.
 
-(5) A mezőgazdasági igazgatási szerv által vezetett nyilvántartás – az érintett természetes személy személyes adatainak kivételével – közhiteles nyilvántartásnak minősül.
+(5) A mezőgazdasági igazgatási szerv által vezetett nyilvántartás – az érintett természetes személy természetes személyazonosító adatai, valamint a gazdálkodó szervezet cégnyilvántartásban szereplő adatai kivételével – közhiteles nyilvántartásnak minősül.
 
 (6) Ha a nyilvántartásban szereplő személy azon tevékenységét, amely miatt a nyilvántartásban szerepel, a továbbiakban nem folytatja, kérelmezi az adatainak a nyilvántartásból való törlését. A mezőgazdasági igazgatási szerv az érintett személy adatait a kérelem beérkezését követő év január 1-jét követő ötödik év végéig kezelheti.

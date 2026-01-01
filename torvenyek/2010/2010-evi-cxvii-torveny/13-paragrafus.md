@@ -26,11 +26,31 @@ k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, va
 
 l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 
-m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
+m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét,
 
-n) a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat.
+n) a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat,
 
 o) az Uniós Adatbázisba történő adatszolgáltatás részletes szabályait.
+
+p) a bioüzemanyag-részarány és az egyes bioüzemanyagoknak minősülő termékek részarányának nem teljesítése esetén fizetendő bírság mértékét, sávos bírságtétel esetén az egyes sávok meghatározásához alkalmazott arányokat,
+
+q) a nem biológiai eredetű megújuló üzemanyagokra vonatkozó kötelező részarány mértékét,
+
+r) az üzemanyag-fogalmazó által a nem biológiai eredetű megújuló üzemanyagok kötelező részarányának teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra, továbbá a nem biológiai eredetű megújuló üzemanyagok kötelező részarány teljesítésének ellenőrzésére vonatkozó részletes szabályokat,
+
+s) a nem biológiai eredetű megújuló üzemanyagok kötelező részaránya teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat,
+
+t) a nem biológiai eredetű megújuló üzemanyagok részarányának nem teljesítése esetén fizetendő bírság mértékét,
+
+u) a zöldtöltés-igazolási rendszerre, az igazolás kiállítására, jóváírására, nyilvántartására, átruházására, felhasználására, ellenőrzésére, kijavítására, módosítására és törlésére, valamint a megújulóüzemanyag-részarányban való elszámolására vonatkozó részletes szabályokat,
+
+v) a megújulóüzemanyag-részarány mértékét, kiszámításának módját, teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat, nem teljesítése esetén a fizetendő bírság mértékét,
+
+w) a széntartalom újrahasznosításával nyert üzemanyag részarányban elszámolható mértékét,
+
+x) a biometán szállító- vagy elosztóvezetékbe betáplálásának a megújuló üzemanyag részarányban való elszámolásának feltételeit,
+
+y) az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott kötelezettségek teljesítésére, a jelentéstételre, a folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek, és ezek alapanyagai eredetének nyomon követésére a 12/A. § (1) bekezdés szerinti esetben alkalmazandó részletes szabályokat.
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
