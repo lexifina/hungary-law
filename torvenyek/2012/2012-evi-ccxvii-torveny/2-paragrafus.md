@@ -76,7 +76,7 @@ b) a negyedik kereskedési időszakban a 2003/87/EK európai parlamenti és tan�
 
 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
 
-32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
+32.
 
 33. visszaadás: kibocsátási egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére a jegyzékkezelő felé,
 

@@ -16,7 +16,9 @@ f) olyan hajózási társaságokra, amelyek az 2003/87/EK európai parlamenti é
 
 (2) Nem terjed ki e törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre.
 
-(2a) Nem terjed ki e törvény hatálya a kizárólag biomasszát használó létesítményekre.
+(2a)
+
+(2b) Nem terjed ki e törvény hatálya azon létesítményekre, amelyeknek a biomassza égetéséből származó kibocsátása a Nemzeti Végrehajtási Intézkedés benyújtását megelőző 5 éves időszakban átlagosan meghaladta a létesítmény teljes üvegházhatású gáz kibocsátásának 95%-át.
 
 (3) Nem terjed ki e törvény hatálya az 1. mellékletben foglalt táblázat 38. sora szerinti tevékenység esetében olyan légi jármű üzembentartóra, amely tekintetében nem Magyarország az adminisztrációért felelős tagállam. Nem terjed ki a törvény hatálya továbbá az 1. mellékletben foglalt táblázat 38. sorában meghatározott kivételnek számító tevékenységekre.
 

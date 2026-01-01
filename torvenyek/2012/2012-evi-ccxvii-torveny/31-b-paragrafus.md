@@ -64,6 +64,6 @@ dd) a számlavezetési és felügyeleti díj összege és megfizetésének tény
 
 e) minden egyéb olyan adatot, amelynek szolgáltatására az ÜHG azonosítóval vagy THÉ-azonosítóval rendelkező üzemeltető a vonatkozó hazai és európai uniós jogszabályban foglalt rendelkezés szerint köteles.
 
-(3) Az (1) és (2) bekezdésben meghatározott elektronikus rendszer hatósági nyilvántartás, amely a létesítmények üvegházhatású gázokkal kapcsolatos kibocsátásaira vonatkozó adatokat közhitelesen tartalmazza.
+(3) Az (1) és (2) bekezdésben meghatározott nyilvántartás a (2) bekezdés c) pont cg) és ch) alpontja, továbbá a (2) bekezdés d) pont dd) alpontja, valamint az üvegházhatású gázokkal kapcsolatos kibocsátásra vonatkozó adatok tekintetében közhiteles.
 
 (4) A nyilvántartásban szereplő adatokban bekövetkezett változást – jogszabály eltérő rendelkezése hiányában – az érintettek kötelesek a hatóságnak a változást követő 15 napon belül bejelenteni. A változásbejelentési kötelezettségeket a hatóság által az erre a célra rendszeresített elektronikus űrlapon kell teljesíteni.
