@@ -9,3 +9,5 @@
 (4) Ha a szolgáltatás nem felel meg az akadálymentességi követelményeknek, a szolgáltató erről haladéktalanul tájékoztatja az ellenőrző hatóságot, illetve azoknak a tagállamoknak az illetékes nemzeti hatóságait, amelyek területén a szolgáltatást nyújtja, és részletesen ismerteti a meg nem felelést és a meghozott korrekciós intézkedéseket.
 
 (5) A szolgáltató az ellenőrző hatóság felhívására átadja a hatóság részére a szolgáltatás akadálymentességi követelményeknek való megfelelésének igazolásához szükséges valamennyi információt és dokumentációt.
+
+(6) A szolgáltató az ellenőrző hatóság felhívására együttműködik a hatósággal annak érdekében, hogy a szolgáltatás megfeleljen az akadálymentességi követelményeknek.

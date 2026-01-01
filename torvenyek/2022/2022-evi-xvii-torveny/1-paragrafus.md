@@ -48,4 +48,6 @@ a) az online térképek és térképszolgáltatások, feltéve, hogy a navigáci
 
 b) a harmadik fél tulajdonát képező olyan tartalmak, amelyeket nem az érintett gazdasági szereplő finanszírozott vagy fejlesztett ki, és nem tartoznak annak ellenőrzése alá.
 
+(3a) A 4. alcímben foglaltakat nem kell alkalmazni a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerinti közbeszerzési eljárás és koncessziós beszerzési eljárás esetén.
+
 (4) E törvény rendelkezéseit alkalmazni kell a „112-es” egységes európai segélyhívó számra beérkezett segélyhívásokra is.
