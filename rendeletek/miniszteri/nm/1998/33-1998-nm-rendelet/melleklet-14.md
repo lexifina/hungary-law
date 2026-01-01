@@ -1,136 +1,258 @@
-## M804509A_0
+## 5X03429.docx
 
-| Munkavállaló egészségügyi törzslapja |
+## Munkavállaló egészségügyi törzslapja
 
-| Név: | Születési helye: Ideje: | Anyja neve: |
+| Adattartalom | Értékkészlet |
 
-| Iskolai végzettsége: | Szakmai képzettsége: | Lakcíme: Értesítési címe: |
+| Munkavállaló adatai |  |
 
-| Családi anamnézis: | Foglalkozási anamnézis |
+| Név |  |
 
-|  | Szív- érrend- szeri | Légző- szervi | Daganat | Emész- tőszervi | Anyag- csere | Pszich. | Egyéb | Expozíció | Időtartam/év | Munkakör | Expozíció | Időtartam/év | Munkakör |
+| Születési név |  |
 
-| Apa |  |  |  |  |  |  |  | Megterhelés |  |  | Metilbromid |  |  |
+| Anyja neve |  |
 
-| Anya |  |  |  |  |  |  |  | Fizikai |  |  | Metilklorid |  |  |
+| Születési hely |  |
 
-| Testvér(ek) |  |  |  |  |  |  |  | Mentális |  |  | Na-Al-fluorid (kriolit) |  |  |
+| Születési idő |  |
 
-| Életmód | Pszichés |  |  | Nikkel |  |  |
+| Lakcím |  |
 
-| Dohányzás | Alkoholfogyasztás | Hő |  |  | Nitrogénoxidul |  |  |
+| Tartózkodási cím |  |
 
-| Nem | Igen | Nem | Igen | Hideg |  |  | Ólom és vegyületei |  |  |
+| TAJ |  |
 
-| abbahagyta éve | ideje éve | menny. db | abbahagyta éve | fajtája | menny. liter | Fizikai kóroki tényezők |  |  | Növényvédősz. megnev. |  |  |
+| Iskolai végzettség |  |
 
-| Zaj |  |  |
+| Szakmai képesítés |  |
 
-| Sportolás | Étkezési szokás | Vibráció: kéz/kar |  |  |
+| Családi anamnézis (családtagonként) |  |
 
-| Rendszeres | Rendszertelen | Nem |  | Korszerű | Korszerűtlen | Vibráció: egész test |  |  | Szelén |  |  |
+| Rokonsági fok | apa/anya/testvér(ek) |
 
-| Allergiás túlérzékenység (gyógyszer, vegyi anyag, egyéb): | Ionizáló sugárzás |  |  | Szénkéneg |  |  |
+| Szív-érrendszeri megbetegedés |  |
 
-| Nem ionizáló sugárzás |  |  | Szénmonoxid |  |  |
+| Légzőszervi megbetegedés |  |
 
-| Biológiai kóroki tényezők |  |  | Széntetraklorid |  |  |
+| Emésztőszervi megbetegedés |  |
 
-| Bejelentett foglalkozási betegség(ek), fokozott expozíció(k) (diagnózis, bejelentés időpontja): | Pszichoszociális kóroki tényezők |  |  | Sztirol |  |  |
+| Anyagcsere megbetegedés |  |
 
-| Ergonómiai kóroki tényezők |  |  | Tetraklóretán |  |  |
+| Pszichiátriai megbetegedés |  |
 
-| Kémiai kóroki tényezők |  |  | Toluol |  |  |
+| Daganat |  |
 
-| Arzén és vegyületei |  |  | Triklóretilén |  |  |
+| Egyéb |  |
 
-| Előző lényegesebb betegségek, műtétek, balesetek (diagnózis, időpont): | Benzol |  |  | Trinitrotoluol (trotyl) |  |  |
+| Életmód |  |
 
-| Benzol aminovegyületei |  |  | Vanádium |  |  |
+| Dohányzás, Alkoholfogyasztás, Tudatmódosító szer fogyasztás |  |
 
-| Benzol nitrovegyületei |  |  | Vinilklorid |  |  |
+| Típus | Dohányzás / Alkoholfogyasztás / Tudatmódosító szer fogyasztás |
 
-| Dimetil-formamid |  |  | Porok |  |  |
+| Aktív használat |  |
 
-| Jelenlegi idült betegségek: | Dioxan (dietilén dioxid) |  |  | Azbeszt |  |  |
+| fajtája |  |
 
-| Etiléndiklorid |  |  | Tüdőfibr.-t ok. porok |  |  |
+| mennyisége |  |
 
-| Etilénoxid |  |  |
+| mióta (éve, hónapja) |  |
 
-| Higany és vegyületei |  |  |
+| Korábbi használat (abbahagyott) |  |
 
-| Halothan |  |  | Üveggyapot |  |  |
+| Mióta hagyta abba (éve, hónapja) |  |
 
-| Izocianát |  |  | Egyéb |  |  |
+| Sportolás | Rendszeres / Rendszertelen / Nem sportol |
 
-| Kadmium és vegyületei |  |  |  |  |  |
+| Diéta |  |
 
-| Mangán |  |  |  |  |  |
+| Allergia (típusonként) |  |
 
-| Króm és vegyületei |  |  |  |  |  |
+| Típus | Gyógyszer / Vegyi anyag / Pollen, por / Egyéb |
 
-| Jogosítvány | Eltitkolt betegségem nincs. Egészségügyi állapotomról és a munkakörülményekről a felvilágosítást megkaptam. ………………………….………. munkavállaló |
+| allergén(ek) |  |
 
-| van | nincs |
+| Bejelentett korábbi foglalkozási betegségek |  |
 
-| Katonai szolgálat |
+| diagnózis |  |
 
-| Rendszeres gyógyszerszedés: | volt | nem volt |
+| bejelentés időpontja |  |
 
-## Előzetes munkaalkalmassági, záróvizsgálatok
+| Bejelentett korábbi fokozott expozíciók |  |
 
-## M804510_0
+| expozíció |  |
 
-| Vizsgálatok időpontja |  |  |  |  |
+| időpont (időszak) |  |
 
-| Üzem (üzemrész) |  |  |  |  |
+| Korábbi lényeges események |  |
 
-| Munkakör |  |  |  |  |
+| Típus | Betegség/műtét/baleset/eszméletvesztés |
 
-| Panaszok |  |  |  |  |
+| diagnózis, beavatkozás | BNO/OENO kód |
 
-| Testsúly, testmagasság |  | kg | cm |  | kg | cm |  | kg | cm |  | kg | cm |
+| leírás |  |
 
-| Bőr és látható nyálkahártyák |  |  |  |  |
+| időpont (időszak) |  |
 
-| Mirigyek (pajzsmirigy) |  |  |  |  |
+| Idült betegségek |  |
 
-| Csontok és ízületek |  | lúdtalp |  | lúdtalp |  | lúdtalp |  | lúdtalp |
+| diagnózis |  |
 
-| Száj-, orr- és garatképletek |  |  |  |  |
+| Rendszeresen szedett gyógyszerek |  |
 
-| Fogazat |  |  |  |  |
+| gyógyszer neve |  |
 
-| Tüdő |  |  |  |  |
+| Foglalkozási anamnézis |  |
 
-| Szív |  |  |  |  |
+| Időtartam |  |
 
-| Érverés, vérnyomás |  | /min | Hgmm |  | /min | Hgmm |  | /min | Hgmm |  | /min | Hgmm |
+| munkakör |  |
 
-| Érrendszer (variocositas, nodus) |  |  |  |  |
+| expozíció |  |
 
-| Has |  |  |  |  |
+| Jelenlegi munkakör jellemzői |  |
 
-| Idegrendszer |  |  |  |  |
+| Megterhelések | Könnyű fizikai munka / Közepesen nehéz fizikai munka / Nehéz fizikai munka / Hőexpozíció / Hideg expozíció / Szabadban végzett munka / Éjszakai (és/vagy váltott műszakos) munkarend |
 
-| Hallás |  | J. | B. |  | J. | B. |  | J. | B. |  | J. | B. |
+| Fizikai kóroki tényezők |  |
 
-| Látás | J. | B. | J. | B. | J. | B. |  | J. | B. |
+| Kémiai kóroki tényezők |  |
 
-| Színlátás | Színlátás | Színlátás | Színlátás |
+| kategória | rákkeltő/reprotoxikus/mutagén/egyéb |
 
-| Kiegészítő szakvizsgálatok eredményei |  |  |  |  |
+| tényező |  |
 
-| Munkaalkalmasság, korlátozások, feltételek |  |  |  |  |
+| Biológiai kóroki tényezők |  |
 
-|  | orvosi aláírás, bélyegző |  |  |  |  |
+| baktériumok |  |
 
-## Időszakos, soron kívüli orvosi vizsgálati lap
+| vírusok |  |
 
-| Név: | Időszakos vizsgálat oka: | Milyen időközönként végzendő: |
+| paraziták |  |
 
-| A vizsgálat fajtája, időpontja | Panaszok | Vizsgálati adatok | Orvosi megállapítása (kórismével), tanácsadás, teendők | Vizsgálatot végző orvos aláírása |
+| gombák |  |
+
+| Ergonómiai kóroki tényezők | Gyakori és/vagy nehéz kézi tehermozgatás / Repetitív mozdulatok / Váll feletti munkavégzés / Kényszertesttartás / Statikus izommunka / Helyileg ható tartós nyomás / Térdet terhelő munkavégzés (lépcsőzés, létrázás, térdeplés) / egyéb |
+
+| Pszichoszociális kóroki tényezők |  |
+
+| Porok |  |
+
+| Egyéb |  |
+
+| Vezetői engedélyek |  |
+
+| Típus | I. csoport / II. csoport (hivatásos) / Gépkezelő |
+
+| Megjelenési lap |  |
+
+| Megjelenés típusa | Előzetes / Időszakos / Soron kívüli / Záró / Védőoltás / Egyéb |
+
+| Időpont |  |
+
+| Munkakör |  |
+
+| Panaszok |  |
+
+| Testsúly |  |
+
+| Testmagasság |  |
+
+| BMI |  |
+
+| Bőr és látható nyálkahártyák |  |
+
+| Mirigyek (pajzsmirigy) |  |
+
+| Csontok és ízületek |  |
+
+| Száj-, orr- és garatképletek |  |
+
+| Fogazat |  |
+
+| Tüdő |  |
+
+| Szív |  |
+
+| Érverés |  |
+
+| Vérnyomás RR |  |
+
+| Érrendszer (varicositas, nodus) |  |
+
+| Has |  |
+
+| Idegrendszer |  |
+
+| Hallás |  |
+
+| oldal | jobb/bal |
+
+| érték |  |
+
+| korrekció |  |
+
+| Látás |  |
+
+| típus | távoli/közeli |
+
+| oldal | jobb/bal |
+
+| visus |  |
+
+| korrekció |  |
+
+| Színlátás |  |
+
+| Kiegészítő szakvizsgálatok |  |
+
+| szűrőaudiometria (dB halláscsökkenés) |  |
+
+| oldal | jobb/bal |
+
+| frekvencia (minden frekvenciára) | 125 Hz / 250 Hz / 500 Hz / 1000 Hz / 2000 Hz / 3000 Hz / 4000 Hz / 6000 Hz / 8000 Hz |
+
+| halláscsökkenés dB |  |
+
+| spirometria |  |
+
+| FEV1 |  |
+
+| FVC |  |
+
+| PEF |  |
+
+| MEF75 |  |
+
+| MEF50 |  |
+
+| MEF25 |  |
+
+| EKG |  |
+
+| pulzoximetria |  |
+
+| egyéb |  |
+
+| Laborvizsgálatok |  |
+
+| vizeletvizsgálat |  |
+
+| Biológiai expozíciós és hatásmutatók (BEM) |  |
+
+| típus |  |
+
+| érték |  |
+
+| egyéb |  |
+
+| Munkaalkalmasság |  |
+
+| minősítés | alkalmas / korlátozással alkalmas / nem alkalmas / ideiglenesen nem alkalmas |
+
+| korlátozások |  |
+
+| érvényesség (felülvizsgálat időpontja) |  |
 
 14. számú melléklet a 33/1998. (VI. 24.) NM rendelethez
 

@@ -4,7 +4,7 @@
 
 ## A) Hatóanyagok (amelyek nem szerepelnek a 8. számú mellékletben), továbbá eljárások
 
-## 1.[^117] Kémiai kóroki tényezők
+## 1.[^119] Kémiai kóroki tényezők
 
 ## a) Az 1272/2008/EK rendelet alapján a besorolás kritériumainak megfelelő, a következő veszélyességi osztályok és kategóriák egyikébe, vagy ezek közül többe besorolt, és a következő figyelmeztető mondat egyikével, vagy ezek közül többel ellátott anyagok és keverékek:
 
@@ -58,4 +58,4 @@
 
 10. számú melléklet a 33/1998. (VI. 24.) NM rendelethez
 
-[^117]: A 9/A. számú melléklet A) pont 1. pontja a 16/2015. (III. 30.) EMMI rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^119]: A 9/A. számú melléklet A) pont 1. pontja a 16/2015. (III. 30.) EMMI rendelet 12. § (3) bekezdésével megállapított szöveg.

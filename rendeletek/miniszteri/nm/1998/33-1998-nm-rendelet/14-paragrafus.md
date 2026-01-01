@@ -6,16 +6,22 @@
 
 (3)[^71] A fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet 2. számú mellékletében felsorolt tevékenységet végző egészségügyi dolgozókkal – az előzetes vizsgálatot és véleményezést követően – a munkaköri alkalmasságot vizsgáló orvos nyilatkozatot írat alá, amelyben a vizsgált személy vállalja, hogy ha egészségi állapotában változás következik be, azt kivizsgáltatja és HIV fertőzés, HCV vagy HBV vírushordozás esetén erről az érintett az egészségügyi intézmény orvos-igazgatóját tájékoztatja. A fenti vírusok valamelyikének hordozása esetén a munkaköri alkalmasságot elbíráló orvos az alkalmassági véleményben feltünteti ,,a 18/1998. (VI. 3.) NM rendelet 2. számú mellékletében meghatározott beavatkozásokat nem végezhet'' megjegyzést. A vizsgált személynek az állapota változásának bejelentéséről aláírt nyilatkozata nem érinti a HIV fertőzés megállapítására irányuló, a soron kívüli munkaköri, illetve személyi higiénés alkalmassági vizsgálat keretében történő szűrővizsgálatok külön jogszabály szerinti elvégzésének kötelezettségét.
 
-(4)[^72] Az egészségügyi törzslapot a munkaköri, illetve szakmai alkalmasságot első fokon elbíráló szerv őrzi meg. A munkahigiénés és foglalkozás-egészségügyi szerv által végzett szakmai alkalmassági vizsgálat során kiállított törzslapot az illetékes szakképző és felsőoktatási intézmény iskola orvosa őrzi meg.
+(4)[^72] Az egészségügyi törzslapot a vizsgálatot végző orvos feltölti az Elektronikus Egészségügyi Szolgáltatási Tér egészségügyi dokumentum-nyilvántartásába.
+
+(4a)[^73] A vizsgálatot végző orvos a munkaköri alkalmassági vizsgálat során a munkavállalót nyilatkoztatja arról, hogy az általa közölt adatok a valóságnak megfelelnek, eltitkolt betegsége nincs, és az egészségi állapotáról és a munkakörülményekről a felvilágosítást megkapta.
+
+(4b)[^74] A (4a) bekezdés szerinti nyilatkozatot a (6) bekezdésben meghatározott időpontig a munkaköri, illetve szakmai alkalmasságot első fokon elbíráló szerv őrzi meg. A munkahigiénés és foglalkozás-egészségügyi szerv által végzett szakmai alkalmassági vizsgálat során tett nyilatkozatot a (6) bekezdés szerinti időpontig az illetékes szakképző és felsőoktatási intézmény iskolaorvosa őrzi meg.
 
 (5) A munkaviszony, tanulói, illetve hallgatói jogviszony megszűnésekor a munkaköri, illetve szakmai alkalmassági vizsgálatot első fokon véleményező kiállítja az egészségügyi törzslap kivonatát. A munkavállaló, tanuló vagy hallgató részére átadja a munkakörének, illetve szakmai alkalmasságának vizsgálatára vonatkozó adatokat azzal, hogy új munkahelyén az alkalmassági vizsgálatot végző orvosnak mutassa be azt.
 
 (6) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény alapján az egészségügyi dokumentációt az adatfelvételtől számított legalább 30 évig – a külön jogszabály szerint biológiai tényezők hatásának kitett munkavállaló esetén 40 évig – a munkaköri, illetve szakmai alkalmasságot első fokon elbíráló szerv őrzi meg.
 
-(7)[^73] A gazdálkodó szervezet részére foglalkozás-egészségügyi alapszolgáltatást nyújtó szolgáltatóban bekövetkezett változás esetén az egészségügyi dokumentációt át kell adni a foglalkozás-egészségügyi alapszolgáltatást nyújtó új szolgáltató részére.
+(7)[^75] A gazdálkodó szervezet részére foglalkozás-egészségügyi alapszolgáltatást nyújtó szolgáltatóban bekövetkezett változás esetén az egészségügyi dokumentációt át kell adni a foglalkozás-egészségügyi alapszolgáltatást nyújtó új szolgáltató részére.
 
 [^69]: A 14. § (1) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 7. §-a szerint kiegészített szöveg.
 [^70]: A 14. § (2) bekezdése a 27/2000. (IX. 30.) EüM rendelet 11. §-ának (1) bekezdésével megállapított szöveg.
 [^71]: A 14. § új (3) bekezdését a 27/2000. (IX. 30.) EüM rendelet 11. §-ának (2) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3)-(5) bekezdés számozását (4)-(6) bekezdésre változtatta; szövege 18/2002. (XII. 28.) ESZCSM rendelet 14. §-ának b) pontja szerint kiegészített szöveg.
-[^72]: A 14. § (4) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 9. §-ának (2) bekezdése, a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének g) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^73]: A 14. § (7) bekezdését a 27/2000. (IX. 30.) EüM rendelet 11. §-ának (4) bekezdése iktatta a szövegbe.
+[^72]: A 14. § (4) bekezdése a 63/2024. (XII. 30.) BM rendelet 1. §-ával megállapított szöveg.
+[^73]: A 14. § (4a) bekezdését a 16/2025. (V. 29.) BM rendelet 3. §-a iktatta be.
+[^74]: A 14. § (4b) bekezdését a 16/2025. (V. 29.) BM rendelet 3. §-a iktatta be.
+[^75]: A 14. § (7) bekezdését a 27/2000. (IX. 30.) EüM rendelet 11. §-ának (4) bekezdése iktatta a szövegbe.
