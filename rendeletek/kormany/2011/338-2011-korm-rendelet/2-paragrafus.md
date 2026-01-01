@@ -20,11 +20,11 @@ b)[^3] a 2010. január 1. és a lekérdezés napja között hatályban volt jogs
 
 (5)[^5] A Nemzeti Jogszabálytárban közzé kell tenni az Indokolások Tárában közzétett indokolásokat.
 
-(6)[^6] A Nemzeti Jogszabálytárban közzé kell tenni az igazságügyért felelős miniszter által meghatározott, kiemelkedő társadalmi, gazdasági jelentőségű, hatályos jogszabály tekintetében a jogszabály megalkotására vagy módosítására irányuló javaslathoz kapcsolódó indokolásra, előterjesztői álláspontra és a megalkotása vagy módosítása során keletkezett irományokra figyelemmel szerkesztett összefoglalót, amely előkészítéséről az igazságügyért felelős miniszter gondoskodik.
+(6)[^6]
 
 [^1]: Az 1. § a 383/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 618. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés b) pontja a 20/2022. (I. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdés b) pontja a 20/2022. (I. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (4) bekezdését a 47/2018. (III. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § (5) bekezdését a 48/2019. (III. 13.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 2. § (6) bekezdését a 48/2019. (III. 13.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (6) bekezdését a 48/2019. (III. 13.) Korm. rendelet 1. §-a iktatta be, a 481/2025. (XII. 31.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

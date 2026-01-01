@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-338-20-
 | 2022-02-01 | 2011-338-20-22.11 | 20/2022. (I. 24.) Korm. rendelet |
 | 2023-01-01 | 2011-338-20-22.12 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-03-01 | 2011-338-20-22.13 | 60/2023. (II. 28.) Korm. rendelet |
+| 2026-01-01 | 2011-338-20-22.14 | 48/2019. (III. 13.) Korm. rendelet |
