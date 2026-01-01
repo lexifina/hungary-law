@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-55-00-00
 | 2025-07-02 | 2010. évi CXXX. törvény | 2024-55-00-00.19 |
 | 2025-07-22 | 1/2025. (VII. 24.) NGM határozat | 2024-55-00-00.26 |
 | 2025-07-23 | 2010. évi CXXX. törvény | 2024-55-00-00.27 |
+| 2026-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-55-00-00.20 |
