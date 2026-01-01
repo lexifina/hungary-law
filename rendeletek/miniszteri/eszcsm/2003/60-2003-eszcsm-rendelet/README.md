@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2025-04-05 | 2003-60-20-0M.57 | 10/2025. (IV. 4.) BM rendelet |
 | 2025-08-03 | 2003-60-20-0M.58 | 73/2013. (XII. 2.) EMMI rendelet |
 | 2025-08-14 | 2003-60-20-0M.59 | 73/2013. (XII. 2.) EMMI rendelet |
+| 2026-01-01 | 2003-60-20-0M.60 | 73/2013. (XII. 2.) EMMI rendelet |
