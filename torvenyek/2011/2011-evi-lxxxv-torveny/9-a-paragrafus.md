@@ -4,7 +4,7 @@
 
 a) amely a termékdíj raktár működésére szolgáló ingatlan jogszerű használója,
 
-b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
+b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
 
 c) amely az állami adóhatóságnál nyilvántartott vám- vagy adótartozással nem rendelkezik kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
 

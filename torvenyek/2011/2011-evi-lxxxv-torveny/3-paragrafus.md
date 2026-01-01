@@ -14,7 +14,7 @@ d) a 6. § (1) bekezdése alapján készletre vételt végzőt [a továbbiakban 
 
 terheli.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
 
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként,:
 
@@ -86,7 +86,7 @@ a) az egyéb kőolajterméket alapanyagként használja fel;
 
 b) a Magyarországon hulladékká vált egyéb kőolajtermékből újrafinomítás vagy más célra történő újrahasználat eljárással előállított termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 
-c) a belföldön hulladékká vált termék az újrafelhasználásra előkészítését vagy a használt termék újbóli felhasználásra történő előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
+c) a belföldön hulladékká vált termékből az újrafelhasználásra előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
 
 d)
 

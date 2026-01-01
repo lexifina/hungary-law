@@ -100,7 +100,7 @@ d) a 8711 vtsz. alá tartozó termék, kivéve a kerékpár segédmotorral felsz
 
 17.
 
-18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék – ideértve a termékdíj raktárban tárolt egyéb terméket is – előállítható feldolgozható, alkotórészként, tartozékként más termékbe beépíthető, újbóli felhasználásra előkészíthető és készletezhető;
+18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék – ideértve a termékdíj raktárban tárolt egyéb terméket is – előállítható feldolgozható, alkotórészként, tartozékként más termékbe beépíthető és készletezhető;
 
 18a.
 
@@ -172,8 +172,8 @@ számára meghatározott díjfizetési kötelezettség;
 
 31.
 
-32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
+32.
 
-32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet tárgyévet megelőző év január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
+32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet 2024. január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
 
 33. Végfelhasználó: a terméket tovább már nem értékesítő, a szükséglete kielégítésére felhasználó természetes, vagy jogi személy.

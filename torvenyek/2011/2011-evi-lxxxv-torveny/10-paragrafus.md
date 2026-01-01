@@ -22,7 +22,7 @@ teljesíti.
 
 (5) A (3a) és (4) bekezdésben előírt határidő elmulasztása esetén igazolásnak nincs helye és a (3a) vagy (4) bekezdésben meghatározottak nem alkalmazhatók.
 
-(6) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(6)
 
 (7) A kötelezett a termékdíj-kötelezettségre kiható bármely változást, annak bekövetkeztét követő 15 napon belül köteles az állami adóhatóságnak bejelenteni.
 
