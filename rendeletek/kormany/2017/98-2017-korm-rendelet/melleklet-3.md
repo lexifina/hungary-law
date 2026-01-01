@@ -30,11 +30,11 @@
 
 | 15. | Szent Margit Kórház: a) b) új D épületszárny kialakítása az új műveseállomás és krónikus osztály elhelyezése céljából. | Budapest belterület 62447 belterület 16247/2 |
 
-| 16. | Pest Megyei Flór Ferenc Kórház (Kistarcsa): a) konyhaüzem felújítása, b) energetikai korszerűsítéshez kapcsolódó felújítások (függönyfal, csővezetékek, villamosság), c) liftek cseréje, d) közüzemi úthálózat felújítása, e) új járóbeteg-szakrendelő épület építése, f) új belgyógyászati épület építése, g) az A és B épületek felújítása, komfortosítása. | Kistarcsa belterület 3144/2 belterület 3144/16 |
+| 16. |  |  |
 
 | 17. | Uzsoki Utcai Kórház: a) klimatizálás és erősáramú betáplálás bővítése, b) új klinikai és rehabilitációs tömb építése, c) a Hungária körúti rehabilitációs osztályok fő telephelyre költöztetése, d) régi épületek felújítása és komfortosítása, e) parkolóház építése, f) raktárbázis kialakítása, g) energetikai rekonstrukció, h) épületbontások. | Budapest belterület 31524 belterület 32272 belterület 31644 |
 
-| 18. | Toldy Ferenc Kórház (Cegléd): a) új belgyógyászati szárny építése, b) telephelyek összevonásával új, többszintes járóbeteg-szakrendelő létesítése, c) a városi szakrendelő, valamint a tüdőgondozó beköltöztetése az új épületbe, a fő telephelyre, d) sürgősségi osztály bővítése, e) f) energetikai beruházás. | Cegléd belterület 161 belterület 4068/2 belterület 160 belterület 488 |
+| 18. |  |  |
 
 | 19. |  |  |
 
