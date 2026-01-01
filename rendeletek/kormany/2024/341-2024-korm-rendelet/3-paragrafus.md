@@ -53,3 +53,11 @@ bc) szakértői szolgáltatás,
 bd) dokumentum- és küldemény-digitalizációs szolgáltatás
 
 tartoznak.
+
+(8)[^1] Az alábbi közvetlenül vagy közvetetten 100%-os állami tulajdonú gazdasági társaságok kötelesek igénybe venni a központi informatikai infrastruktúra és infokommunikációs szolgáltató szolgáltatáskatalógusában meghatározott kiberbiztonsági szolgáltatásokat:
+
+a) Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság,
+
+b) MVM Energetika Zártkörűen Működő Részvénytársaság, és az általa irányított elismert vállalatcsoport.
+
+[^1]: A 3. § (8) bekezdését a 483/2025. (XII. 31.) Korm. rendelet 38. §-a iktatta be.

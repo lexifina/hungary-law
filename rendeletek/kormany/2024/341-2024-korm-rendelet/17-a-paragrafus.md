@@ -1,9 +1,10 @@
-17/A. §[^5] (1) A 2026. évre vonatkozó termékkatalógus tekintetében a jelen §-ban foglalt rendelkezéseket kell alkalmazni.
+17/A. §[^9] (1) A 2026. évre vonatkozó termékkatalógus tekintetében a jelen §-ban foglalt rendelkezéseket kell alkalmazni.
 
 (2) A 2026. évre vonatkozó termékkatalógus tekintetében a központi alkalmazás szolgáltató
 
 a) a termékkatalógus tervezetét 2025. november 20-ig köteles megküldeni a DMÜ részére jóváhagyásra, amelyről a DMÜ 4 napon belül dönt,
 
-b) a jóváhagyást követően haladéktalanul közzéteszi a jóváhagyott dokumentumokat, továbbá a szolgáltatási modellváltás bevezetését célzó folyamat keretében 2025. november 25-ig tájékoztatja az igénybevevőket – a folyamat során már velük egyeztetett – az összesített norma szerinti alapszintű szolgáltatások mennyiségéről, valamint a norma feletti alapszintű és emelt szintű szolgáltatások mennyiségéről és a megkötendő direktfinanszírozási szerződésekben foglalt díjak összességéről.
+b)[^10]
 
-[^5]: A 17/A. §-t a 164/2025. (VI. 23.) Korm. rendelet 50. §-a iktatta be.
+[^9]: A 17/A. §-t a 164/2025. (VI. 23.) Korm. rendelet 50. §-a iktatta be.
+[^10]: A 17/A. § (2) bekezdés b) pontját a 483/2025. (XII. 31.) Korm. rendelet 43. § b) pontja hatályon kívül helyezte.
