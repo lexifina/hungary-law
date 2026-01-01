@@ -32,7 +32,7 @@ Az autópályák és autóutak csomópontjainak összekötőpályái, összeköt
 
 Vegyes járműforgalom céljára szolgálnak, de a lassú járműforgalom – állandó vagy időszakos kivételektől eltekintve – tiltott. Távolsági forgalmat bonyolítanak le országrészek, régiók között, illetve azok forgalmának gyűjtő és elosztó szerepét látják el. Minden keresztezése szabályozott, szintbeni vasúti keresztezés (iparvágány kivételével) nem létesíthető. Közúti csomópont létesítése – ha megengedett a balra kanyarodás – csak a járművek részére külön felálló sáv kialakításával történhet. Külterületen a tömegközlekedési járművek (autóbusz, trolibusz) részére megállóöblök állnak rendelkezésre, az út menti ingatlanokhoz nem létesíthető közvetlen csatlakozás, és csak a forgalmi csomópontokban lehet fel- és lehajtani.
 
-5.[^12] Másodrendű főutak
+5.[^17] Másodrendű főutak
 
 Vegyes járműforgalom céljára szolgálnak, de a lassú járműforgalom megtiltható. Régiók és vármegyék közötti távolsági forgalmat bonyolítanak le, illetve azok forgalmának gyűjtő és elosztó szerepét látják el. Minden keresztezése szabályozott, külterületen az út menti ingatlanokhoz – csak kivételes esetben – létesíthető közvetlen csatlakozás, csak a forgalmi csomópontokban lehet fel- és lehajtani.
 
@@ -100,4 +100,4 @@ Kerékpárosok közlekedésére szolgáló önálló utak (ideértve a gyalogoso
 
 A gyalogutak a gyalogosok közlekedésére szolgáló önálló utak. A járdák a közútnak a gyalogosok közlekedésére szolgáló, attól szintkülönbséggel, kiemelt szegéllyel vagy más módon elválasztott része.
 
-[^12]: Az 5. melléklet I. rész 5. pontja a 2/2023. (II. 20.) ÉKM rendelet 14. §-a szerint módosított szöveg.
+[^17]: Az 5. melléklet I. rész 5. pontja a 2/2023. (II. 20.) ÉKM rendelet 14. §-a szerint módosított szöveg.

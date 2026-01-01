@@ -140,8 +140,8 @@
 
 ## 3X12239.pdf
 
-2. melléklet a 26/2021. (VI. 28.) ITM rendelethez[^9]
+2. melléklet a 26/2021. (VI. 28.) ITM rendelethez[^13]
 
 A TEN-T közúti hálózat elemei Magyarországon
 
-[^9]: A 2. melléklet az 52/2023. (XII. 29.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 2. melléklet az 52/2023. (XII. 29.) ÉKM rendelet 4. §-ával megállapított szöveg.

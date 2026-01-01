@@ -10,7 +10,7 @@ b) helyi közút esetén a helyi önkormányzat rendeletében foglalt díjtétel
 
 c) a közforgalom elől el nem zárt magánutak esetén a tulajdonos által meghatározott, a 4. mellékletben foglalt értékeket meg nem haladó díjtételek alkalmazásával;
 
-d)[^2] a Magyar Közút Nonprofit Zrt. kezelésében lévő kerékpárutakra a 4. mellékletben az egyéb közutakon alkalmazott díjtételek figyelembevételével
+d)[^6] a Magyar Közút Nonprofit Zrt. kezelésében lévő kerékpárutakra a 4. mellékletben az egyéb közutakon alkalmazott díjtételek figyelembevételével
 
 kell megállapítani.
 
@@ -22,15 +22,15 @@ b) a közút építéséhez vagy üzemeltetéséhez, fenntartásához kapcsolód
 
 c) az állami, önkormányzati vagy egyházi ünnepeken rendezett legfeljebb 2 óra időtartamú megemlékezés
 
-d)[^3] az önkormányzat által szervezett kulturális, valamint az egyházak által vallási tevékenység végzése céljából szervezett rendezvény
+d)[^7] az önkormányzat által szervezett kulturális, valamint az egyházak által vallási tevékenység végzése céljából szervezett rendezvény
 
 esetén, ha az elfoglalt útterület járműforgalmának elvezetésére az érintett közútkezelő műszakilag alkalmas terelőutat jelöl ki.
 
-(4)[^4] Az igénybevételi díj szempontjából elfoglalt útterületnek a járda kivételével a járműforgalom számára nem járható, korlátozóelemekkel lehatárolt, útburkolattal rendelkező teljes terület minősül. Ha a járda igénybevétele annak megbontásával és helyreállításával jár, a díjfizetési kötelezettség fennáll.
+(4)[^8] Az igénybevételi díj szempontjából elfoglalt útterületnek a járda kivételével a járműforgalom számára nem járható, korlátozóelemekkel lehatárolt, útburkolattal rendelkező teljes terület minősül. Ha a járda igénybevétele annak megbontásával és helyreállításával jár, a díjfizetési kötelezettség fennáll.
 
 (5) Az igénybevételi díj megfizetéséig a közút nem közlekedési célú igénybevétele nem kezdhető meg.
 
-(6)[^5] Az igénybevételi díj mértékét az igénybevétel tervezett időtartama alapján minden megkezdett napra, a területfoglalás szempontjából minden megkezdett négyzetméterre vagy kilométerre kell megállapítani.
+(6)[^9] Az igénybevételi díj mértékét az igénybevétel tervezett időtartama alapján minden megkezdett napra, a területfoglalás szempontjából minden megkezdett négyzetméterre vagy kilométerre kell megállapítani.
 
 (7) A kezelő hozzájárulása nélkül, vagy a hozzájárulásban előírt feltételektől eltérő igénybevétel esetén pótdíjat kell fizetni. A pótdíj mértékét – a közút kezelőjének kérelmére – a közlekedési hatóság állapítja meg és szabja ki az igénybe vevővel szemben. A közút kezelője a kérelmében megjelöli a hozzájárulás nélküli vagy a hozzájárulásban foglaltaktól eltérően igénybe vett útterület
 
@@ -42,10 +42,10 @@ c) forgalma akadályozásának mértékét.
 
 (8) A pótdíjat az igénybevétel tényleges tartamára – a hozzájárulástól eltérő igénybevétel esetén a szabálytalanság fennállásának időtartamára – kell megállapítani. A pótdíj összege a (6) bekezdés szerint irányadó díj kétszerese,
 
-(9)[^6] A Magyar Közút Nonprofit Zrt. az általa havonta beszedett díjbevételt a tárgyhónapot követő hónap utolsó napjáig a „Közlekedési ágazati programok” fejezeti kezelésű előirányzat javára utalja át.
+(9)[^10] A Magyar Közút Nonprofit Zrt. az általa havonta beszedett díjbevételt a tárgyhónapot követő hónap utolsó napjáig a „Közlekedési ágazati programok” fejezeti kezelésű előirányzat javára utalja át.
 
-[^2]: A 7. § (2) bekezdés d) pontja az 52/2023. (XII. 29.) ÉKM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^3]: A 7. § (3) bekezdés d) pontját az 52/2023. (XII. 29.) ÉKM rendelet 2. § (3) bekezdése iktatta be.
-[^4]: A 7. § (4) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^5]: A 7. § (6) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^6]: A 7. § (9) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^6]: A 7. § (2) bekezdés d) pontja az 52/2023. (XII. 29.) ÉKM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 7. § (3) bekezdés d) pontját az 52/2023. (XII. 29.) ÉKM rendelet 2. § (3) bekezdése iktatta be.
+[^8]: A 7. § (4) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^9]: A 7. § (6) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^10]: A 7. § (9) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (6) bekezdésével megállapított szöveg.

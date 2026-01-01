@@ -46,6 +46,6 @@ b) az építménynek, tevékenységnek, fának a közút tengelyétől, illetve 
 
 (8) A közút kezelője a saját kezelésében lévő közutat nem közlekedési céllal hozzájárulás és díjfizetés nélkül igénybe veheti, olyan feltételek mellett, mint amelyekkel a közút kezelője másnak a hozzájárulását megadhatná.
 
-(9)[^1] Gyorsforgalmi úton – nemzetközi sportrendezvény, valamint új forgalomtechnikai eszközök és közlekedésbiztonsági fejlesztések tesztelése kivételével – rendezvény megtartásához nem adható közútkezelői hozzájárulás. Nemzetközi sportrendezvény megtartásához, valamint új forgalomtechnikai eszközök és közlekedésbiztonsági fejlesztések teszteléséhez a közútkezelői hozzájárulás a közlekedésért felelős miniszter egyetértése esetén adható meg, amelyet előzetesen a kérelmezőnek szükséges beszerezni, és azt a kérelemhez mellékelni.
+(9)[^5] Gyorsforgalmi úton – nemzetközi sportrendezvény, valamint új forgalomtechnikai eszközök és közlekedésbiztonsági fejlesztések tesztelése kivételével – rendezvény megtartásához nem adható közútkezelői hozzájárulás. Nemzetközi sportrendezvény megtartásához, valamint új forgalomtechnikai eszközök és közlekedésbiztonsági fejlesztések teszteléséhez a közútkezelői hozzájárulás a közlekedésért felelős miniszter egyetértése esetén adható meg, amelyet előzetesen a kérelmezőnek szükséges beszerezni, és azt a kérelemhez mellékelni.
 
-[^1]: A 6. § (9) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § (9) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 2. § (1) bekezdésével megállapított szöveg.
