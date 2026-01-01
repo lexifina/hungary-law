@@ -23,3 +23,5 @@ automatikus adattovábbítás útján továbbítja a Nemzeti Választási Iroda 
 (3) A Nemzeti Választási Iroda az adatok változásának a nyilvántartásban történő feltüntetése, valamint az elhalálozott polgár törlése céljából a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyiadat- és lakcímnyilvántartás hatálya alá tartozó polgárok személyazonosító és lakcímadatai tekintetében a személyiadat- és lakcímnyilvántartásból automatikus információátadás útján történő rendszeres adatátvétellel biztosítja.
 
 (4) Ha a polgár választójogosultságát visszanyerte, adatait a választójoggal nem rendelkező polgárok nyilvántartásából törölni kell. A választójoggal nem rendelkező polgárok nyilvántartásából törölt polgár adatait a törléstől számított hat hónapig meg kell őrizni.
+
+(5) A választójoggal nem rendelkező polgárok nyilvántartása a 2/A. melléklet h) és i) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.

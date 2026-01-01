@@ -10,4 +10,4 @@
 
 (5) A 103. § (2) bekezdés b) pont ba) alpontja és c) pontja szerinti kérelmet a szavazatszámláló bizottság bírálja el. A szavazatszámláló bizottság a kérelem alapján – a 93. § (1)–(3) bekezdésében foglalt rendelkezések alkalmazásával – a mozgóurnát igénylő választópolgárt felveszi a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékébe, és törli a kinyomtatott szavazóköri névjegyzékből.
 
-(6) Ha a választópolgár a szavazást megelőző második napon 10 óráig a mozgóurna iránti kérelmét visszavonja, a Nemzeti Választási Iroda törli a mozgóurnát igénylő választópolgárok jegyzékéből.
+(6) Ha a választópolgár a szavazást megelőző harmadik napig a mozgóurna iránti kérelmét visszavonja, a Nemzeti Választási Iroda törli a mozgóurnát igénylő választópolgárok jegyzékéből.

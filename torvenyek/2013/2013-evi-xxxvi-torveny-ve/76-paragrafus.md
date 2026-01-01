@@ -26,7 +26,7 @@ k) együttműködik más államok választási szerveivel,
 
 l) javaslatot tehet a választásokat érintő jogszabályok megalkotására, illetve módosítására, véleményezi a feladatkörét érintő jogszabályok tervezetét.
 
-(2) A Nemzeti Választási Iroda a honlapján folyamatosan, legalább napi frissítéssel közzéteszi a névjegyzékekkel, a szavazással és a választás eredményével összefüggő közérdekű adatokat, így különösen
+(2) A Nemzeti Választási Iroda a honlapján folyamatosan, legalább napi frissítéssel közzéteszi a névjegyzékekkel, a szavazással és a választás eredményével összefüggő közérdekű és közérdekből nyilvános adatokat, így különösen
 
 a) a névjegyzékbe vételét kérő, a névjegyzékbe vett, a szavazási iratot visszaküldő, az érvényes szavazási iratot leadó – magyarországi lakcímmel nem rendelkező – választópolgárok számát értesítési cím szerint országonkénti bontásban azzal, hogy azon államok adatait, amelyek tiltják a kettős állampolgárságot, együtt kell közzétenni,
 
@@ -34,7 +34,9 @@ b) a központi névjegyzéken szereplő, az egyes szavazóköri névjegyzékekbe
 
 c) az egyes szavazóhelyiségekben szavazóként megjelenő, az egyes külképviseleteken szavazóként megjelenő választópolgárok számát,
 
-d) a választás szavazóköri eredményét és a választás eredményét megállapító jegyzőkönyvek tartalmát.
+d) azon választópolgárok nevét és jelölő szervezetét, akik számára ajánlóívet igényeltek, illetve akiket jelöltként bejelentettek, valamint a jelöltek és a megválasztott képviselők nevét és jelölő szervezetét, valamint
+
+e) a választás szavazóköri eredményét és a választás eredményét megállapító jegyzőkönyvek tartalmát.
 
 (2a) A Nemzeti Választási Iroda a választások hivatalos honlapján minden évben – a január 1-jei adatok alapján közzéteszi a választópolgárok számát választástípusonkénti, településenkénti, valamint a választójogot megalapozó – az Alaptörvény XXIII. cikk (1)–(3) bekezdése szerinti – jogállás szerinti bontásban.
 

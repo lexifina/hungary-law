@@ -6,7 +6,7 @@
 
 a) az (1) bekezdés szerinti határidőig módosíthatja vagy
 
-b) a szavazást megelőző második napon 10 óráig visszavonhatja
+b) legkésőbb a szavazást megelőző harmadik napon visszavonhatja
 
 átjelentkezési kérelmét.
 

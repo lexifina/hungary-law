@@ -2,4 +2,4 @@
 
 (2) A területi választási bizottság a szavazóköri jegyzőkönyvek alapján megállapítja a vármegyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás eredményét.
 
-(3)
+(3) Ha ugyanazon személy főpolgármester-jelöltként és fővárosi listás jelöltként is indult a választáson, a fővárosi listás választás eredményét a főpolgármester-választás eredményét megállapító határozat jogerőre emelkedését követő három napon belül kell megállapítani.

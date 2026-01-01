@@ -21,3 +21,5 @@ d) nemzetiségi önkormányzati képviselő választójogának megszűnése eset
 küldött megkeresésében tájékoztatást ad a képviselő választójogának megszűnéséről.
 
 (6) A 9. melléklet c)–e) pontja szerinti adatokat a mandátum megszűnését követő tizenöt év elteltével törölni kell a képviselők nyilvántartásából.
+
+(7) A képviselők nyilvántartása a 9. melléklet h)–k) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.

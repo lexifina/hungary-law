@@ -1,6 +1,6 @@
 177. § (1) A szavazatszámláló bizottság visszautasítja azt a választópolgárt, aki
 
-a) nem tudja személyazonosságát és lakcímét vagy személyi azonosítóját igazolni,
+a) nem tudja személyazonosságát igazolni,
 
 b) nem szerepel a kinyomtatott szavazóköri névjegyzékben,
 
