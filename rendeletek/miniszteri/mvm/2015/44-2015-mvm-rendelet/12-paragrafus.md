@@ -1,6 +1,6 @@
 12. § (1) A kérelemmel, a hirdetménnyel, illetve az ellenőrzött közbeszerzési dokumentumokkal kapcsolatos hiányokat a kérelem, a hirdetmény, illetve a közbeszerzési dokumentumok ismételt, teljes terjedelemben való megküldésével a hiánypótlásra történő felhívás feladásától számított
 
-a) tíz napon belül kell pótolni azokban az esetekben, amikor a Kbt. a hirdetmény megküldésére határidőt határoz meg;
+a)[^51] hat napon belül kell pótolni azokban az esetekben, amikor a Kbt. a hirdetmény megküldésére határidőt határoz meg;
 
 b) tizenöt napon belül kell pótolni, ha a Kbt. a hirdetmény megküldésére határidőt nem határoz meg.
 
@@ -24,8 +24,9 @@ b)[^57] a megküldött hirdetmény, illetve az ellenőrzött közbeszerzési dok
 
 (7)[^58]
 
-(8)[^59] Ha a hiánypótlásra történő felhívás alapján az ajánlatkérő a hirdetmény tartalmát jelentősen megváltoztatja, a Hatóság a kérelmezőt a 11. § (1) bekezdése alapján ismételten hiánypótlásra hívhatja fel a hirdetmény megküldésétől számított két, ha a kérelmező a közbeszerzési dokumentumok ellenőrzését is kéri, öt munkanapon belül.
+(8)[^59] Ha a hiánypótlásra történő felhívás alapján az ajánlatkérő a hirdetmény tartalmát jelentősen megváltoztatja, a Hatóság a kérelmezőt a 11. § (1) bekezdése alapján ismételten hiánypótlásra hívhatja fel.
 
+[^51]: A 12. § (1) bekezdés a) pontja a 10/2025. (XII. 19.) KTM rendelet 9. § a) pontja szerint módosított szöveg.
 [^52]: A 12. § (3) bekezdése az 5/2019. (III. 28.) MvM rendelet 11. § (1) bekezdésével megállapított, a 3/2023. (X. 16.) TFM rendelet 16. § 10. pontja szerint módosított szöveg.
 [^53]: [A 12. § (2) bekezdésének az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontjával elrendelt módosítása, amely szerint a „hirdetmény ellenőrzésért felelős szervezeti egység” szövegrész helyébe a „Hatóság” szöveg lép, nem vezethető át.]
 [^54]: A 12. § (4a) bekezdését a 3/2023. (X. 16.) TFM rendelet 6. § (1) bekezdése iktatta be.
@@ -33,4 +34,4 @@ b)[^57] a megküldött hirdetmény, illetve az ellenőrzött közbeszerzési dok
 [^56]: A 12. § (6) bekezdés a) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 8. pontja szerint módosított szöveg.
 [^57]: A 12. § (6) bekezdés b) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
 [^58]: A 12. § (7) bekezdését a 3/2023. (X. 16.) TFM rendelet 16. § 11. pontja hatályon kívül helyezte.
-[^59]: A 12. § (8) bekezdése a 3/2023. (X. 16.) TFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^59]: A 12. § (8) bekezdése a 3/2023. (X. 16.) TFM rendelet 6. § (2) bekezdésével megállapított, a 10/2025. (XII. 19.) KTM rendelet 10. § 1. pontja szerint módosított szöveg.

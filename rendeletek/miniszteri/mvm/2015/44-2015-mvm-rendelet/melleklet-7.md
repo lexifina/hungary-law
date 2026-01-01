@@ -28,7 +28,7 @@
 
 ## 15ezt az információt itt vagy – adott esetben – az eljárás megindító felhívásban adja meg
 
-7. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^141]
+7. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^142]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -156,4 +156,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^141]: A 7. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^142]: A 7. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (6) bekezdése szerint módosított szöveg.

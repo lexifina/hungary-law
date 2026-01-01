@@ -10,7 +10,7 @@
 
 ## 2adott esetben
 
-10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^144]
+10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^145]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -130,4 +130,4 @@ V. szakasz: Az eljárás eredménye
 
 VI. szakasz: Kiegészítő információk
 
-[^144]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^145]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (7) bekezdése szerint módosított szöveg.

@@ -32,7 +32,7 @@
 
 ## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^139]
+4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^140]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -210,4 +210,4 @@ V. szakasz: Az eljárás eredménye1
 
 VI. szakasz: Kiegészítő információk
 
-[^139]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (4) bekezdésé szerint módosított szöveg.
+[^140]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (4) bekezdésé szerint módosított szöveg.
