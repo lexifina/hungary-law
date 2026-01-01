@@ -8,6 +8,6 @@ b) azon adózók – a költségvetési szervek, a személyi jövedelemadóról 
 
 ba) az adóévet megelőző második évben vagy azt megelőzően kezdték meg tevékenységüket, és
 
-bb)[^107] adóteljesítményük értéke a Magyar Közlönyben közzétett Közleményben meghatározott összeget elérte.
+bb)[^108] adóteljesítményük értéke a Magyar Közlönyben közzétett Közleményben meghatározott összeget elérte.
 
-[^107]: A 100. § b) pont bb) alpontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^108]: A 100. § b) pont bb) alpontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (2) bekezdés 1. pontja szerint módosított szöveg.

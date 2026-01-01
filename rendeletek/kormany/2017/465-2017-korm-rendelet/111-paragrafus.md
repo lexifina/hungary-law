@@ -1,26 +1,26 @@
 ## IX. Fejezet
 
-## A SZOKÁSOS PIACI ÁR MEGÁLLAPÍTÁSA IRÁNTI KÉRELEM BENYÚJTÁSÁNAK, NYILVÁNTARTÁSÁNAK, A DÍJ KEZELÉSÉNEK, NYILVÁNTARTÁSÁNAK MÓDJÁRÓL ÉS FELTÉTELEIRŐL, TOVÁBBÁ AZ ELJÁRÁS RÉSZLETES SZABÁLYAIRÓL[^116]
+## A SZOKÁSOS PIACI ÁR MEGÁLLAPÍTÁSA IRÁNTI KÉRELEM BENYÚJTÁSÁNAK, NYILVÁNTARTÁSÁNAK, A DÍJ KEZELÉSÉNEK, NYILVÁNTARTÁSÁNAK MÓDJÁRÓL ÉS FELTÉTELEIRŐL, TOVÁBBÁ AZ ELJÁRÁS RÉSZLETES SZABÁLYAIRÓL[^117]
 
 ## 52. A szokásos piaci ár megállapítása iránti kérelem benyújtása és a kérelem alapján induló eljárás részletszabályai
 
 111. § (1) A szokásos piaci ár megállapítása iránti kérelem (e fejezet alkalmazásában a továbbiakban: kérelem) tartalmazza:
 
-a)[^117] a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló jogszabály szerinti fődokumentum és helyi dokumentum tartalmi elemeit,
+a)[^118] a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló jogszabály szerinti fődokumentum és helyi dokumentum tartalmi elemeit,
 
 b) azon időszak megjelölését, amelyre a határozat kötőerejének megállapítását kérik,
 
 c) az egyoldalú, kétoldalú vagy többoldalú eljárások közüli választást,
 
-d)[^118] kétoldalú vagy többoldalú eljárás iránti kérelem esetén a kérelem és mellékleteinek angol nyelvű fordítását,
+d)[^119] kétoldalú vagy többoldalú eljárás iránti kérelem esetén a kérelem és mellékleteinek angol nyelvű fordítását,
 
-e)[^119] a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén,
+e)[^120] a fizetési számlaszám megjelölését, ahová az adózó a díj visszautalását kéri a kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén,
 
 f) az adózó végső anyavállalatának nevét, székhelyét, azonosító számát,
 
 g) belföldi illetőségű kapcsolt vállalkozásait, az eljárással érintett belföldi és külföldi illetőségű kapcsolt vállalkozások adatait (ideértve azok nevének, címének, székhelyének, telephelyének, adószámának, ennek hiányában azzal egyenértékű azonosítójának feltüntetését, továbbá az adózó végső és közvetlen anyavállalatának adatait).
 
-(1a)[^120] A fődokumentum tartalmi elemei és az ügyletre vonatkozó szerződés angol nyelven is benyújtható.
+(1a)[^121] A fődokumentum tartalmi elemei és az ügyletre vonatkozó szerződés angol nyelven is benyújtható.
 
 (2) Az (1) bekezdés g) pontja és az 1. melléklet szerinti végső anyavállalat a multinacionális vállalatcsoport azon csoporttagja, amely
 
@@ -32,11 +32,11 @@ b) a multinacionális vállalatcsoportnak nincs másik olyan csoporttagja, amely
 
 (4) A kérelemhez csatolni kell az előterjesztő nyilatkozatát arról, hogy a kérelemben bemutatott tényállás megfelel a valóságnak.
 
-(5)[^121] Az adópolitikáért felelős miniszter a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó azonosító adatait, a kérelem érkezésének időpontját, iktatószámát, a befizetett díj összegét, az eljárás lefolytatásának időtartamát, valamint az eljárás lefolytatásához és az információcseréhez szükséges további adatokat.
+(5)[^122] Az adópolitikáért felelős miniszter a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó azonosító adatait, a kérelem érkezésének időpontját, iktatószámát, a befizetett díj összegét, az eljárás lefolytatásának időtartamát, valamint az eljárás lefolytatásához és az információcseréhez szükséges további adatokat.
 
-[^116]: A IX. fejezet címe az 506/2021. (VIII. 19.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^117]: A 111. § (1) bekezdés a) pontja az 506/2021. (VIII. 19.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^118]: A 111. § (1) bekezdés d) pontja az 506/2021. (VIII. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^119]: A 111. § (1) bekezdés e) pontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdés 10. pontja szerint módosított szöveg.
-[^120]: A 111. § (1a) bekezdését az 506/2021. (VIII. 19.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^121]: A 111. § (5) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^117]: A IX. fejezet címe az 506/2021. (VIII. 19.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^118]: A 111. § (1) bekezdés a) pontja az 506/2021. (VIII. 19.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^119]: A 111. § (1) bekezdés d) pontja az 506/2021. (VIII. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^120]: A 111. § (1) bekezdés e) pontja a 611/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^121]: A 111. § (1a) bekezdését az 506/2021. (VIII. 19.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^122]: A 111. § (5) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
