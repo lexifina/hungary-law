@@ -90,17 +90,15 @@ d) a kiállítás dátuma,
 
 e) a 161/b. ábra[^317] szerinti jelzés.
 
-(14) [^318] A nehéz tehergépkocsik e rendelet eltérő rendelkezése hiányában lakott területen kívül csak autópályán, autóúton és főútvonalon közlekedhetnek.
+(14) [^318] A nehéz tehergépkocsik e rendelet eltérő rendelkezése hiányában lakott területen kívül csak autópályán, autóúton és főútvonalon közlekedhetnek, azzal, hogy a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 3/A. § (1) bekezdése szerinti nehéz tehergépkocsi, amennyiben a Kkt. 3/A. § (2) bekezdése szerint magyarországi célállomással nem rendelkezik, a Kkt. eltérő rendelkezése hiányában kizárólag a tranzitút-hálózatot használhatja.
 
-(15) [^319] A (14) bekezdésben fel nem sorolt utakat elengedhetetlenül szükséges távolságban abban az esetben használhatja nehéz tehergépkocsi, ha
+(15) [^319] A (14) bekezdésben meghatározott korlátozás nem vonatkozik azon nehéz tehergépkocsira, amely az úti céljával vagy a kiindulási helyével azonos – vagy ha ez nem lehetséges, akkor azzal szomszédos – vármegyében
 
-a) áruszállítás érdekében az áru fel-, vagy lerakásának, illetve – különleges felépítményű jármű esetén – a felépítményével történő munkavégzés helyszínére vagy helyszínéről;
+a) áruszállítás érdekében az áru fel- vagy lerakásának vagy – különleges felépítményű jármű esetén – a felépítményével történő munkavégzés helyszínére vagy helyszínéről vagy
 
 b) üzemben tartója telephelyére vagy telephelyéről
 
 ## közlekedik.
-
-## A nehéz tehergépkocsi az a) és b) pontban felsorolt helyszínre, helyszínről történő közlekedése során a (14) bekezdésben felsorolt útvonalakról való lehajtás után, azokat egy irányban legfeljebb egy alkalommal keresztezheti.
 
 (16) [^320] Nem vonatkozik a (14) bekezdésben meghatározott tilalom azon nehéz tehergépkocsira, amely útlezárás miatt terelőúton közlekedik, valamint arra, amelyet az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerint 2013. évi LXVII. törvény 9. § (1) bekezdése szerint nem terhel útdíjfizetési és bevallási kötelezettség, továbbá a nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 4. §-a alapján kiadott engedéllyel rendelkező járművekre.
 
@@ -122,7 +120,7 @@ b) üzemben tartója telephelyére vagy telephelyéről
 [^315]: A 48. § (12) bekezdés a) pontja a 129/2013. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^316]: A 48. § (13) bekezdését az 58/2007. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be.
 [^317]: A Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
-[^318]: A 48. § (14) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
-[^319]: A 48. § (15) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^318]: A 48. § (14) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be, szövege a 439/2025. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^319]: A 48. § (15) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be, szövege a 439/2025. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^320]: A 48. § (16) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
 [^321]: A 48. § (17) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.

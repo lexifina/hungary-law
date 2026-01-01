@@ -82,7 +82,7 @@ z/3. [^81] „Környezetvédelmi övezet (zóna)” (53/e. ábra); a jelzőtábl
 
 (11) [^88] Ha a „Kivéve célforgalom” vagy a „Kivéve áruszállítás” feliratú kiegészítő tábla időszakot is megjelöl, az útra célforgalomban is csak ebben az időszakban szabad behajtani és azt a megjelölt időszak végéig el kell hagyni.
 
-(12) [^89] Az (1) bekezdés n)–t) és z/2. pontjában említett jelzőtáblánál a köztisztasági és közegészségügyi feladat vagy postai gyűjtő- és kézbesítő szolgálat ellátására szolgáló járművel a tilalom ellenére be szabad hajtani, ha ez a feladat ellátása érdekében elkerülhetetlen; a feladat elvégzése után az utat minden járműnek haladéktalanul el kell hagyni.
+(12) [^89] Az (1) bekezdés n)–t) és z/2. pontjában említett jelzőtáblánál a köztisztasági és közegészségügyi feladat, közútkezelői feladat vagy postai gyűjtő- és kézbesítő szolgálat ellátására szolgáló járművel a tilalom ellenére be szabad hajtani, ha ez a feladat ellátása érdekében elkerülhetetlen; a feladat elvégzése után az utat minden járműnek haladéktalanul el kell hagyni.
 
 (13) [^90] Az (1) bekezdés n)–p), t) és u) pontjában említett jelzőtáblánál mozgáskorlátozott személy (illetőleg az őt szállító jármű vezetője), a betegszállító gépjármű a tilalom ellenére behajthat, ha úti célja a jelzőtáblával megjelölt úton van vagy csak ezen az úton közelíthető meg. A járművel ilyen esetben legfeljebb 20 km/óra sebességgel szabad közlekedni.
 
@@ -117,7 +117,7 @@ z/3. [^81] „Környezetvédelmi övezet (zóna)” (53/e. ábra); a jelzőtábl
 [^86]: A 14. § (9) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.
 [^87]: A 14. § eredeti (8) bekezdésének számozását (10) bekezdésre változatta a 2/1984. (I. 29.) KM–BM együttes rendelet 6. § (5) bekezdése.
 [^88]: A 14. § (11) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta a szövegbe.
-[^89]: A 14. § (12) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^89]: A 14. § (12) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (7) bekezdésével megállapított, a 439/2025. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^90]: A 14. § (13) bekezdését a 2/1984. (I. 29.) KM–BM e. r. 6. § (7) bekezdése iktatta be, szövegét újonnan az 59/2004. (III. 31.) Korm. rendelet 1. §-a állapította meg.
 [^91]: A 14. § (13a) bekezdését a 137/2011. (VII. 19.) Korm. rendelet 1. §-a iktatta be.
 [^92]: A 14. § (14) bekezdését a 4/1988. (VI. 30.) KM–BM e. r. 3. § (3) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 6. § (8) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
