@@ -2,10 +2,10 @@
 
 (2) Új telepítési engedély módosítása nem vonatkozhat az engedélyben foglalt feltételek olyan megváltoztatására, amelyekkel az új telepítés nem lett volna engedélyezhető az új telepítési engedély iránti kérelem elbírálásakor, kivéve, ha a módosítási kérelem benyújtásakor hatályos jogszabály azt lehetővé teszi.
 
-(3)[^25] A telepítési engedélyben nem módosítható
+(3)[^26] A telepítési engedélyben nem módosítható
 
 a) a jogosult és
 
 b) a megjelölt terület.
 
-[^25]: A 19. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 19. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 2. §-a iktatta be.

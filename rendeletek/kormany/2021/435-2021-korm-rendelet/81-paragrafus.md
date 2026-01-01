@@ -36,7 +36,7 @@ h) a közfogyasztásra forgalomba hozott borászati termék előírásoknak, fö
 
 i) a borászati termékek származását, eredetét, minőségét,
 
-j)[^103] a borászati üzem működésének jogszerűségét, a borászati termékek tárolásának körülményeit, valamint a borászati üzem higiéniai követelményeknek történő megfelelését,
+j)[^105] a borászati üzem működésének jogszerűségét, a borászati termékek tárolásának körülményeit, valamint a borászati üzem higiéniai követelményeknek történő megfelelését,
 
 k) a borászati terméket szállító jármű rakományát,
 
@@ -44,11 +44,11 @@ l) a segéd- és adalékanyagok eredetét és minőségét,
 
 m) a borászati termékek csomagolása során felhasznált csomagolóanyagok megfelelőségét,
 
-n)[^104] a borászati termékek borászati kísérőokmányait, továbbá
+n)[^106] a borászati termékek borászati kísérőokmányait, továbbá
 
 o) a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonására vonatkozó rendelkezések betartását, valamint a lepárlásra átadott borászati melléktermékek minőségét.
 
 (4) A termékleírásnak való megfelelés (3) bekezdés h) pontja szerinti ellenőrzése kockázatelemzésen alapuló, szúrópróbaszerű vizsgálat alapján, éves ellenőrzési tervnek megfelelően, az adott földrajzi árujelzővel ellátott borászati terméket előállító borászati üzemek legalább 10%-ára kiterjedően történik.
 
-[^103]: A 81. § (3) bekezdés j) pontja a 23/2022. (I. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^104]: A 81. § (3) bekezdés n) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^105]: A 81. § (3) bekezdés j) pontja a 23/2022. (I. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^106]: A 81. § (3) bekezdés n) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.

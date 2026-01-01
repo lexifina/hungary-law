@@ -1,4 +1,4 @@
-36. §[^46] A borászati üzemengedély-nyilvántartás a Btv. 7. § (4) bekezdésében meghatározott adatokon túl tartalmazza
+36. §[^47] (1) A borászati üzemengedély-nyilvántartás a Btv. 7. § (4) bekezdésében meghatározott adatokon túl tartalmazza
 
 a) a borászati üzemengedélyes
 
@@ -10,7 +10,7 @@ ac) NÉBIH tevékenység-azonosítóját;
 
 b) a borászati üzem
 
-ba) címét,
+ba) helyét,
 
 bb) nyilvántartásba vételének dátumát;
 
@@ -18,9 +18,10 @@ c) a borászati üzemben
 
 ca) végezhető, 32. § (1) bekezdése szerinti tevékenységek felsorolását,
 
-cb)[^47] az engedély megadását követően továbbra is tárolni kívánt azon adómentes, fogyasztásra szánt borászati terméktételek mennyiségét hektoliterben, két tizedesjegy pontossággal, amelyet az üzemengedély megadását megelőzően a borászati üzemengedéllyel érintett ingatlanban tároltak;
+cb) az engedély megadását követően továbbra is tárolni kívánt azon adómentes, fogyasztásra szánt borászati terméktételek mennyiségét hektoliterben, két tizedesjegy pontossággal, amelyet az üzemengedély megadását megelőzően a borászati üzemengedéllyel érintett ingatlanban tároltak;
 
 d) a kiszerelést végző borászati üzemek 32. § (3) bekezdése szerinti kódját.
 
-[^46]: A 36. § nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^47]: A 36. § c) pont cb) alpontját a 23/2022. (I. 27.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte, újonnan a 392/2023. (VIII. 14.) Korm. rendelet 9. §-a iktatta be.
+(2) A borászati üzemengedély-nyilvántartás az (1) bekezdés a) pont aa) alpontjában, b) pontjában, c) pont ca) alpontjában, valamint d) pontjában meghatározott adatok tekintetében közhiteles.
+
+[^47]: A 36. § a 342/2025. (X. 31.) Korm. rendelet 51. §-ával megállapított szöveg.

@@ -17,3 +17,7 @@ c) szőlőtermesztésre való alkalmasságának minősítését,
 d) minősítés alapján meghatározott pontértékét, valamint
 
 e) hektárban kifejezett nagyságát.
+
+(3)[^5] A szőlő termőhelyi kataszter nyilvántartás a (2) bekezdés c)–e) pontjában meghatározott adatok tekintetében közhiteles.
+
+[^5]: A 2. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 50. §-a iktatta be.
