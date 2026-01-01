@@ -10,6 +10,8 @@ c) a hozzáférési jogosultság jogszabályban meghatározottak szerinti biztos
 
 d) a technikai működést biztosító modulokat.
 
+e)[^1] az állam által fenntartott egészségügyi szolgáltatókra vonatkozó, a miniszter által meghatározott rendben elkészített állománytáblázatok és az országos szervezési táblázat informatikai felületét.
+
 (2) A KSZDR funkcionalitásait biztosító modulok
 
 a) az adatgyűjtő modulon belül
@@ -34,9 +36,10 @@ bc) az elemző-értékelő modul,
 
 bd) az ágazati és kormányzati intézményi tervező modul.
 
-(3)[^1] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a Tv. 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartás vezetésére a Személyügyi Támogató és Nyilvántartó Rendszert köteles használni.
+(3)[^2] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a Tv. 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartás vezetésére a Személyügyi Támogató és Nyilvántartó Rendszert köteles használni.
 
-(4)[^2] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a munkáltatói intézkedést a Személyügyi Támogató és Nyilvántartó Rendszerben készíti el.
+(4)[^3] A Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a munkáltatói intézkedést a Személyügyi Támogató és Nyilvántartó Rendszerben készíti el.
 
-[^1]: A 3. § (3) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 3. § (4) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^1]: A 3. § (1) bekezdés e) pontját a 418/2025. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
+[^2]: A 3. § (3) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 3. § (4) bekezdését a 159/2021. (III. 31.) Korm. rendelet 1. §-a iktatta be.

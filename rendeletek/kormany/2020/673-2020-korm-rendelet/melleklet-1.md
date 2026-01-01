@@ -22,10 +22,10 @@ II. Rendvédelem
 
 4. a tartalékállományban lévők nyilvántartására szolgáló rendszer
 
-5.[^34] a hivatásos katasztrófavédelmi szervnél alkalmazott Szolgálat Összeállító Szoftver
+5.[^38] a hivatásos katasztrófavédelmi szervnél alkalmazott Szolgálat Összeállító Szoftver
 
 III. Egészségügy
 
 1. az egészségügyi szakképzést szerzett személyek országos alapnyilvántartása
 
-[^34]: Az 1. melléklet II. pont 5. alpontját a 159/2021. (III. 31.) Korm. rendelet 7. §-a iktatta be.
+[^38]: Az 1. melléklet II. pont 5. alpontját a 159/2021. (III. 31.) Korm. rendelet 7. §-a iktatta be.
