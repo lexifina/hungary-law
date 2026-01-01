@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2020-07-15 | 2020. évi LXXVI. törvény | 1992-84-00-00.50 |
 | 2021-01-01 | 2020. évi LXXVIII. törvény | 1992-84-00-00.51 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1992-84-00-00.52 |
+| 2026-01-01 | 2025. évi CXII. törvény | 1992-84-00-00.53 |

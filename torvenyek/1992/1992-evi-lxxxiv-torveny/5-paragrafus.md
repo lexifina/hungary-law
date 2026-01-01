@@ -4,7 +4,7 @@
 
 a)
 
-b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást és tizenharmadik havi ellátást,
+b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást, tizenharmadik havi ellátást és tizennegyedik havi ellátást,
 
 c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 

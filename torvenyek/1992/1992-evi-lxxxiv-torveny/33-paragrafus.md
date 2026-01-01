@@ -1,3 +1,3 @@
 ## A finanszírozás szabályai
 
-33. §
+### 33. §

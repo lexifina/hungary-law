@@ -2,7 +2,7 @@
 
 1. Az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételekből a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap számára a havonta átutalásra kerülő összeg meghatározása az alábbiak szerint történik (előirányzaton eredeti előirányzatot kell érteni):
 
-ahol
+## ahol
 
 1.1. A: az adóhatóságnál kezelt azon tárgyévi adó, járulék, hozzájárulás, illeték költségvetési bevételi előirányzata, kivéve a társadalombiztosítás pénzügyi alapjai – a képlet E: és Ny: fogalmak szerinti – bevételek előirányzata, amely befizetési kötelezettségek nem teljesítése esetére jogszabály késedelmi pótlék, illetve bírság fizetési kötelezettséget ír elő.
 

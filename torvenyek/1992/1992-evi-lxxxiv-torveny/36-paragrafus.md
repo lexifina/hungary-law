@@ -1,3 +1,3 @@
 ## Vegyes rendelkezések
 
-36. §
+### 36. §

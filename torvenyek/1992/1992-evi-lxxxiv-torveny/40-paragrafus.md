@@ -1,3 +1,3 @@
 ## Záró rendelkezések
 
-40. §
+### 40. §

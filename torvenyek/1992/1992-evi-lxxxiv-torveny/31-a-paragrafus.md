@@ -1,3 +1,3 @@
 ## A gyógyító-megelőző ellátások finanszírozása
 
-31/A. §
+### 31/A. §

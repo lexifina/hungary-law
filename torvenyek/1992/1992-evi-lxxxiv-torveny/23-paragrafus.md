@@ -1,3 +1,3 @@
 ## Egészségügyi szakellátás
 
-23. §
+### 23. §
