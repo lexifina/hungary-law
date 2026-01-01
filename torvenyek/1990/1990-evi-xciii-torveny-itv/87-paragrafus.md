@@ -19,3 +19,5 @@ a) újonnan létrejött belföldi alapítványként az alapítás évét követ�
 b) újonnan létrejött, más EGT-államban nyilvántartásba vett alapítványként az alapítás évét követő második év végéig teljesítette a Civil törvény szerinti közhasznú szervezetté történő minősítés – magyarországi nyilvántartásba vételen kívüli – feltételeit,
 
 az 5. § (1) bekezdése f) pontja alapján igénybe vett mentességre tekintettel meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az állami adóhatóság felhívására megfizetni. Az alapítvány megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
+
+(7) Ha a 17. § (1a) bekezdés e) pontjában meghatározott feltétel nem teljesül, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben kell megfizetni.

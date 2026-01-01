@@ -62,13 +62,17 @@ c) a Munkavállalói Résztulajdonosi Programról szóló törvény szerinti KMR
 
 d) a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény.
 
+e) a tulajdonos által nyújtott kölcsön végelszámolás keretében történő elengedésével bekövetkező vagyonszerzés, amennyiben a végelszámolás a cég törlésével fejeződik be.
+
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
 a) a határidő elteltét követő 15 napon belül megállapítja, hogy az illetékes építésügyi hatóság a határidőn belül – a vagyonszerző nevére szóló – végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette, vagy
 
-b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – végleges használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által
 
-Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem vált véglegessé, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – véglegessé válik. Ezt a tényt az állami adóhatóság az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi.
+ba) határidőn belül kiadott – a vagyonszerző nevére szóló – végleges használatbavételi engedéllyel, vagy
+
+bb) a vagyonszerző nevére kiállított, a használatbavétel határidőn belüli tudomásulvételét bizonyító dokumentummal igazolja.
 
 (2b) Amennyiben a vagyonszerző több telket kapott ajándékba, és mindegyik esetében vállalta lakóház felépítését, majd a telkeket utóbb egyesíttette, az illetéket az adóhatóság akkor törli, ha az új telek esetén a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Ellenkező esetben valamennyi telek után meg kell fizetni az illetéket és a késedelmi pótlék összegét is. Ha a vagyonszerző a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely arra a megosztás során létrejött telekre esik, amelyen a lakóház felépült, feltéve, hogy a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni.
 
@@ -87,3 +91,5 @@ a) amelyben a vagyonszerző által az adóévre fizetendő társasági adónak m
 b) amelynek jogszabályai szerint – nulla vagy negatív eredmény és adóalap esetén – a társasági adónak megfelelő adó mértéke, több adómérték esetén a legkisebb adómérték nem éri el a 9 százalékot vagy
 
 c) amelynek jogszabályai szerint a vagyoni betét, részesedés értékesítéséből származó jövedelmet nem terheli a társasági adónak megfelelő, legalább 9 százalékos mértéket elérő adó.
+
+(5) Az (1a) bekezdés e) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – a folyamatban levő végelszámolás befejezéséig felfüggeszti. Az állami adóhatóság a felfüggesztett illetéket – döntés kibocsátása nélkül, az ügyiratra feljegyzéssel – akkor törli, ha a cégbíróság végzésében helyt ad a cég törlésére irányuló kérelemnek.

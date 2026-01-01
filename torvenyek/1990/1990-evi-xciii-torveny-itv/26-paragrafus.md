@@ -114,9 +114,11 @@ i) a kulturális örökség egyes elemeinek fenntartható fejlesztéséről szó
 
 a) a határidő elteltét követő 15 napon belül megállapítja, hogy az illetékes építésügyi hatóság a határidőn belül – a vagyonszerző nevére szóló – végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette, vagy
 
-b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – végleges használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által
 
-Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem vált véglegessé, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – véglegessé válik. Ezt a tényt az állami adóhatóság az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi.
+ba) határidőn belül kiadott – a vagyonszerző nevére szóló – végleges használatbavételi engedéllyel, vagy
+
+bb) a vagyonszerző nevére kiállított, a használatbavétel határidőn belüli tudomásulvételét bizonyító dokumentummal igazolja.
 
 (2b) Amennyiben a vagyonszerző több telket vásárolt, és mindegyik esetében vállalta lakóház felépítését, majd a telkeket utóbb egyesíttette, az illetéket az adóhatóság akkor törli, ha az új telek esetén a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Ellenkező esetben valamennyi telek után meg kell fizetni az illetéket és a késedelmi pótlék összegét is. Ha a vagyonszerző a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely arra a megosztás során létrejött telekre esik, amelyen a lakóház felépült, feltéve, hogy a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni.
 
@@ -140,7 +142,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (6) Az illetékkötelezettség keletkezésekor a 35. életévét be nem töltött fiatal az első lakástulajdonának (tulajdoni hányadának) megszerzése esetén az egyébként fizetendő illeték 50%-ig terjedő kedvezményre jogosult, ha az egész lakástulajdon forgalmi értéke a 15 000 000 forintot nem haladja meg. Ilyen forgalmi értékű lakás tulajdoni hányadának megszerzése esetén a vagyonszerzőt a szerzett tulajdoni hányaddal arányos mértékű kedvezmény illeti meg.
 
-(7) Az (1) bekezdés r) pontjában említett feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző a fizetési meghagyás véglegessé válásáig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel. Az (1) bekezdés r) pontjában említett sportcélú ingatlan felépítésének igazolása érdekében az ott meghatározott 4 éves határidő elteltét követő 15 napon belül az állami adóhatóság megkeresi az ingatlan fekvése szerint illetékes építésügyi hatóságot. Az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket abban az esetben törli, ha
+(7) Az (1) bekezdés r) pontjában említett feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző a fizetési meghagyás véglegessé válásáig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel. Az (1) bekezdés r) pontjában említett sportcélú ingatlan felépítését az ott meghatározott 4 éves határidő elteltét követő 15 napon belül az állami adóhatóság az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi. Az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket abban az esetben törli, ha
 
 a) az építésügyi hatóság igazolta, hogy a vagyonszerző nevére sportcélú ingatlanra adott ki használatbavételi engedélyt, vagy a vagyonszerző használatbavételét tudomásul vette, és
 
@@ -207,6 +209,8 @@ bd) olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszer
 be) erdőkezelésbe adja,
 
 feltéve, hogy az 5 éves időtartam hátralévő részére a termőföld használója, hasznosítója vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá mezőgazdasági termelőszervezet részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá, továbbá erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
+
+c) nem minősül az (1) bekezdés p) pont pc) alpontjában foglalt feltétel megszegésének, ha a termőföldre jogszabály erejénél fogva szolgalom keletkezik.
 
 (18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig, véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha az eredetileg vállalt 5 év letelte előtt
 

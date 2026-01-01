@@ -26,11 +26,11 @@ a) a továbbértékesítés megtörténtét
 
 aa) az ingatlan eladása esetén az ingatlan-nyilvántartásba bejegyzett tulajdonjog-változás nem igazolja,
 
-ab) az ingatlan pénzügyi lízingbe adása esetén a pénzügyi lízingbeadás tényének ingatlan-nyilvántartásban való feltüntetése és a futamidő végén tulajdonjog-átszállást eredményező pénzügyi lízingszerződés nem igazolja, vagy
+ab) az ingatlan pénzügyi lízingbe adása esetén az ingatlan-nyilvántartásba bejegyzett lízingbevevői jog és a futamidő végén tulajdonjog-átszállást eredményező pénzügyi lízingszerződés nem igazolja, vagy
 
 b) a továbbértékesítésről szóló szerződés a vagyonszerző (1) bekezdés b) pontja szerinti vállalása ellenére nem ment teljesedésbe, vagy a felek a már teljesedésbe ment, továbbértékesítésről szóló szerződést utóbb felbontják,
 
-a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét az állami adóhatóság a vagyonszerző terhére pótlólag előírja. Igazoltnak kell tekinteni a továbbértékesítést abban az esetben is, ha az ingatlan-nyilvántartási eljárás megindítását a tulajdoni lapon feltüntetett széljegy tanúsítja, feltéve, ha az ingatlan-nyilvántartási eljárás a tulajdonjog-változás bejegyzésével, illetve a pénzügyi lízingbeadás tényének feltüntetésével zárul.
+a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét az állami adóhatóság a vagyonszerző terhére pótlólag előírja. Igazoltnak kell tekinteni a továbbértékesítést abban az esetben is, ha az ingatlan-nyilvántartási eljárás megindítását a tulajdoni lapon feltüntetett széljegy tanúsítja, feltéve, ha az ingatlan-nyilvántartási eljárás a tulajdonjog-változás, illetve a lízingbevevői jog bejegyzésével zárul.
 
 (7) Ha a megszerzett ingatlanból a vagyonszerző több önálló ingatlant alakít ki, akkor az illetékkülönbözetet – arányosítással – csak arra az ingatlanra lehet előírni, amelyet az (1) bekezdésben meghatározott célból megszerzett ingatlan illetékkiszabásra bejelentésétől számított két éven belül nem értékesített tovább.
 
