@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-39-00-00
 | 2023-07-01 | 2022. évi LXXV. törvény | 1998-39-00-00.29 |
 | 2024-01-01 | 2023. évi CIX. törvény | 1998-39-00-00.30 |
 | 2024-09-01 | 2024. évi XII. törvény | 1998-39-00-00.31 |
+| 2026-01-01 | 2025. évi XXXIV. törvény | 1998-39-00-00.32 |

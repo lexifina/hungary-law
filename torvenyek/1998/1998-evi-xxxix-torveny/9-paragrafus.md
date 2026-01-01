@@ -8,9 +8,9 @@
 
 (5) Az (1) bekezdés alapján a munkáltató akkor köteles kezdeményezni a kormányhivatalnál a kifizetőhelyként történő nyilvántartásba vételét, ha a pénzbeli egészségbiztosítási ellátásra jogosult foglalkoztatottak létszáma tartósan – legalább hat egymás követő hónapban – meghaladja a 100 főt.
 
-(6) Ha a munkáltató az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (6) bekezdése szerinti mulasztási bírság fizetésére kötelezhető.
+(6) Ha a munkáltató az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 80. § (6) bekezdése szerinti mulasztási bírság fizetésére kötelezhető.
 
-(7) A Nemzeti Egészségbiztosítási Alapkezelő
+(7) Az egészségbiztosítási szerv
 
 a) az (5) bekezdésben foglalt feltétel bekövetkezése esetén a (8) bekezdésben,
 
@@ -20,7 +20,7 @@ c) a pénzbeli egészségbiztosítási ellátások és a baleseti táppénz meg�
 
 d) a pénzbeli egészségbiztosítási ellátásokkal, a baleseti táppénzzel, a nyugellátásokkal és a családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása céljából a (10a) bekezdésben
 
-foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magyar Államkincstár részére.
+foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a kincstár részére.
 
 (8) A (7) bekezdés a) pontja szerinti adatszolgáltatás tartalmazza
 
@@ -92,7 +92,7 @@ g) a foglalkoztató kifizetőhelyi nyilvántartásba történő vétele szempont
 
 (17) A kifizetőhelyi feladatellátás során keletkezett iratok megőrzési idejére megfelelően alkalmazni kell a kormányhivatalok mindenkori egységes iratkezelési szabályzatáról szóló szabályozásban foglalt, az egészségbiztosítási pénzbeli ellátási ügyekben keletkezett iratokra vonatkozó rendelkezéseket.
 
-(18) A kifizetőhelyekről az egészségbiztosító nyilvántartást vezet. A kifizetőhelyek nyilvántartása – a foglalkoztatók kifizetőhelyi minőségével összekapcsoltan – a (19) bekezdés a)–c) és e)–f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(18) A kifizetőhelyekről az egészségbiztosító nyilvántartást vezet. A kifizetőhelyek nyilvántartása – a foglalkoztatók kifizetőhelyi minőségével összekapcsoltan – a (19) bekezdés c) és e)–g) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (19) A (18) bekezdés szerinti nyilvántartás az alábbi adatokat tartalmazza:
 
@@ -108,4 +108,8 @@ e) a kifizetőhely létesítésének napja,
 
 f) a kifizetőhely megszűnésének napja.
 
+g) a foglalkoztató kifizetőhelyi minőségének jelölése.
+
 (20) A (19) bekezdés d) pontja szerinti adatokat az egészségbiztosító a kifizetőhely megszűnésének napját követő 5 évig kezeli.
+
+(21) A foglalkoztató kifizetőhelyi minősége a (18) bekezdés szerinti nyilvántartásba vétellel jön létre.

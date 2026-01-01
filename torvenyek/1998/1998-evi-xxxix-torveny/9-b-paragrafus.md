@@ -1,1 +1,5 @@
-### 9/B. §
+9/B. § (1) A kifizetőhely az e-TB kiskönyv 9/A. § (3) bekezdése szerinti adatait az egészségbiztosítási szerv által erre a célra létrehozott és az egészségbiztosítási szerv által üzemeltetett elektronikus felületről (a továbbiakban: lekérdezőfelület) kérdezheti le az elektronikus azonosítást követően abban az esetben, ha a kincstár 9. § (18) és (19) bekezdése szerinti közhiteles hatósági nyilvántartásában kifizetőhelyként szerepel.
+
+(2) A lekérdezőfelületen a kifizetőhely kizárólag azon biztosítottak adatainak megismerésére jogosult, akik a lekérdezés időpontjában a kifizetőhelyet működtető foglalkoztatónál a társadalombiztosítás ellátásaira jogosító jogviszonyban állnak.
+
+(3) A kincstár 9. § (1) bekezdése szerinti társadalombiztosítási kifizetőhelyként működő illetményszámfejtő helye jogosult közvetlen elektronikus adatkapcsolat útján lekérni a 9/A. § (3) bekezdése szerinti adatokat a központosított illetményszámfejtési körbe tartozó foglalkoztatóknál biztosítási jogviszonyban állók vonatkozásában.
