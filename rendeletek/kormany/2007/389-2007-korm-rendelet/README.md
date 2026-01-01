@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2025-03-01 | 2007-389-20-22.44 | 26/2025. (II. 27.) Korm. rendelet |
 | 2025-08-01 | 2007-389-20-22.46 | 233/2025. (VII. 31.) Korm. rendelet |
 | 2025-08-21 | 2007-389-20-22.47 | 166/2011. (VIII. 24.) Korm. rendelet |
+| 2026-01-01 | 2007-389-20-22.45 | 787/2021. (XII. 27.) Korm. rendelet |
