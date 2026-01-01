@@ -20,12 +20,17 @@ b) az államhatár átlépésekor a tehergépjármű Magyarország területére 
 
 (4) A CEMT engedélyt vagy a 4. § (1) bekezdés c) pontjában meghatározott engedélyt és a fuvarregisztráció elvégzéséről szóló, a BIREG rendszer által korábban megküldött visszaigazolást a díj ellenében nemzetközi közúti árutovábbítást végző gazdálkodó szervezet a magyarországi felrakás helyén a feladónak, magyarországi lerakás helyén a címzettnek is bemutatja.
 
-(5) Magyarországi felrakás esetén a felrakó, magyarországi lerakás esetén a lerakó is vizsgálja a (4) bekezdésben foglalt engedély meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelését, továbbá a fuvarregisztráció érvényességét.
+(5)[^24] Magyarországi felrakás esetén a felrakó, magyarországi lerakás esetén a lerakó is vizsgálja a (4) bekezdésben foglalt engedély meglétét, időbeli hatályát és az adott fuvarfeladatnak való megfelelését, továbbá a fuvarregisztráció meglétét, teljességét, valamint az adott fuvarfeladatnak való megfelelését.
 
-(6) Ha a (4) bekezdés szerinti engedély hiányzik, nem érvényes, hatálytalan vagy nem felel meg az adott árutovábbítási feladatnak, vagy a fuvarregisztrációt a tehergépjármű vezetője vagy üzemben tartója nem végezte el, a felrakó, vagy a lerakó azt a közlekedési hatóságnak, a vámhatóságnak vagy a rendőrségnek a hiba észlelését követően a BIREG rendszeren keresztül haladéktalanul bejelenti. A bejelentést kézhez vevő hatóság jogosult a felrakás és lerakás helyén megjelenni, a közúti közlekedésről szóló törvény szerint intézkedni, vagy más hatóság eljárását kezdeményezni. Ha az engedély hiánya, érvénytelensége, hatálytalansága, hiányossága vagy a fuvarregisztráció elmulasztása, hiányossága az áru felrakásánál derül ki, a felrakó jogosult az áru felrakását megtagadni.
+(6)[^25] Ha a (4) bekezdés szerinti engedély hiányzik, nem érvényes, hatálytalan, nem felel meg az adott árutovábbítási feladatnak, vagy a fuvarregisztráció hiányzik, hiányos vagy nem felel meg az adott fuvarfeladatnak, a felrakó vagy a lerakó azt a közlekedési hatóságnak, a vámhatóságnak vagy a rendőrségnek a hiba észlelését követően a BIREG rendszeren keresztül haladéktalanul bejelenti. A bejelentést kézhez vevő hatóság jogosult a felrakás és lerakás helyén megjelenni, a közúti közlekedésről szóló törvény szerint intézkedni, vagy más hatóság eljárását kezdeményezni.
 
-(7)[^24] A magyarországi felrakás helyén a felrakó, a magyarországi lerakás helyén a lerakó a CEMT engedéllyel, vagy a 4. § (1) bekezdés c) pontjában meghatározott engedéllyel végzett, továbbá kabotázs fuvarozás esetén a BIREG rendszerben ellenőrzi a szállító által előzetesen feltöltött engedély meglétét, rögzíti a felrakás és a lerakás helyét, idejét, továbbá feltölti a regisztrált fuvarfeladathoz tartozó fuvarlevelet és egyéb dokumentumokat (engedélykezelés).
+(6a)[^26] Ha a (6) bekezdésben foglalt bármely hiányosság az áru felrakásánál derül ki, a felrakó jogosult az áru felrakását megtagadni.
+
+(7)[^27] A magyarországi felrakás helyén a felrakó, a magyarországi lerakás helyén a lerakó a CEMT engedéllyel, vagy a 4. § (1) bekezdés c) pontjában meghatározott engedéllyel végzett, továbbá kabotázs fuvarozás esetén a BIREG rendszerben ellenőrzi a szállító által előzetesen feltöltött engedély meglétét, rögzíti a felrakás és a lerakás helyét, idejét, továbbá feltölti a regisztrált fuvarfeladathoz tartozó fuvarlevelet és egyéb dokumentumokat (engedélykezelés).
 
 [^22]: A 4/A. §-t a 116/2014. (IV. 3.) Korm. rendelet 5. §-a iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg.
 [^23]: A 4/A. § (1) bekezdése a 18/2021. (I. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^24]: A 4/A. § (7) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^24]: A 4/A. § (5) bekezdése a 433/2025. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A 4/A. § (6) bekezdése a 433/2025. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 4/A. § (6a) bekezdését a 433/2025. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 4/A. § (7) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.

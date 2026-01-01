@@ -1,4 +1,4 @@
-15. § (1)[^46] A tevékenységi engedélyben – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl – fel kell tüntetni
+15. § (1)[^51] A tevékenységi engedélyben – az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl – fel kell tüntetni
 
 a) a tevékenységi engedély számát és időbeli hatályát,
 
@@ -12,7 +12,7 @@ e) az üzemeltethető járművek számát, autóbuszok esetében azok összes f�
 
 f) a szakmai irányító képesítésének korlátozottsága miatt, vagy bármely egyéb okból a tevékenységi engedély esetleges korlátozását.
 
-(2)[^47] A járművek számának megfelelő számban kiadott tevékenységi engedély másolata (a továbbiakban: engedélykivonat) a jármű forgalmi rendszámára szól, és legalább tartalmazza az engedélykivonat alszámát is.
+(2)[^52] A járművek számának megfelelő számban kiadott tevékenységi engedély másolata (a továbbiakban: engedélykivonat) a jármű forgalmi rendszámára szól, és legalább tartalmazza az engedélykivonat alszámát is.
 
 (3) A tevékenységi engedély adataiban bekövetkezett változást az engedélyes tizenöt napon belül köteles a közlekedési hatóságnak bejelenteni. Be kell jelenteni továbbá az engedély alapján üzemeltetett járművekben történő változást is; ez a bejelentési kötelezettség azonban nem vonatkozik a jármű átmeneti kiesése esetén igénybe vett helyettesítő járműre, ha az igénybevétel időtartama – szerződéssel igazoltan – nem haladja meg a tizenöt napot.
 
@@ -24,5 +24,5 @@ f) a szakmai irányító képesítésének korlátozottsága miatt, vagy bármel
 
 (7) A gazdálkodó szervezet köteles a tevékenységi engedélyt és az engedélykivonatokat a közúti közlekedési szolgáltatási tevékenység szüneteltetése esetén a közlekedési hatóságnál letétbe helyezni; a tevékenység megszűnése esetén, illetve az engedély időbeli hatályának lejártával pedig azt köteles a közlekedési hatóságnak visszaszolgáltatni.
 
-[^46]: A 15. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 359. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^47]: A 15. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^51]: A 15. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 359. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^52]: A 15. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.

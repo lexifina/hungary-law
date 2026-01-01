@@ -2,6 +2,6 @@
 
 ## 89/1988. (XII. 20.) MT rendelet módosítása
 
-39. §[^121]
+39. §[^127]
 
-[^121]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

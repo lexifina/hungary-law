@@ -2,7 +2,7 @@
 
 (2) A közlekedési hatóság a Magyarország területén székhellyel rendelkező gazdálkodó szervezet részére
 
-a)[^27] az – akár csak részben is – 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
+a)[^30] az – akár csak részben is – 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
 
 b) az autóbusszal díj ellenében végzett személyszállítási tevékenységre közúti személyszállítási engedélyt
 
@@ -14,4 +14,7 @@ ad ki.
 
 (5) A kiadott engedélyek, engedély-kivonatok másnak át nem adhatók.
 
-[^27]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+(6)[^31] A közúti közlekedési szolgáltatási tevékenységet végzőkről vezetett nyilvántartás az 1071/2009/EK rendeletben meghatározott adatok tekintetében – a természetes személyazonosító adatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+[^30]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 8. § (6) bekezdését a 342/2025. (X. 31.) Korm. rendelet 19. §-a iktatta be.
