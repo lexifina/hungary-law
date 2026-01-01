@@ -14,10 +14,13 @@ c) az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezel
 
 (3a)[^10] Az EESZT működtetője az EESZT-be az egészségügyi szolgáltatók által feltöltendő adatok tekintetében bekövetkezett adatvédelmi incidens esetén együttműködik az incidensben érintett egészségügyi szolgáltatóval. Az EESZT működtetője eljárásrendet tartalmazó ajánlást ad ki az EESZT-be az egészségügyi szolgáltatók által feltöltendő adatokat érintő adatvédelmi incidensek és incidensgyanús események esetére az incidens azonosításában, a kockázatok felmérésében, az incidens elhárításához szükséges adminisztratív feladatokban az egészségügyi szolgáltató és az EESZT működtetője közötti együttműködés tekintetében.
 
+(3b)[^11] Az EESZT működtetője az Eüak. 4. § (2) bekezdése szerinti célokra, az EESZT szolgáltatások fejlesztése, új szolgáltatások bevezetése, valamint az adatalapú egészségügy döntéshozatalának megalapozása érdekében a Szolgáltatóközpont útján elemzési képességet fejleszt.
+
 (4) Az egészségügyért felelős miniszter az e § szerinti feladata ellátásába adatfeldolgozóként vonja be a Szolgáltatóközpontot.
 
-(5)[^11] Az egészségügyért felelős miniszter az Eüak. 7. § (7) bekezdése, valamint az egészségügyről szóló 1997. évi CLIV. törvény 24. § (9)–(11) bekezdése szerinti egészségügyi adatok megismerésének biztosítása érdekében az egészségügyi adatok orvosszakmai értékeléséhez adatfeldolgozóként az Országos Kórházi Főigazgatóságot (a továbbiakban: OKFŐ) bevonja. Az OKFŐ további adatfeldolgozót is igénybe vehet.
+(5)[^12] Az egészségügyért felelős miniszter az Eüak. 7. § (7) bekezdése, valamint az egészségügyről szóló 1997. évi CLIV. törvény 24. § (9)–(11) bekezdése szerinti egészségügyi adatok megismerésének biztosítása érdekében az egészségügyi adatok orvosszakmai értékeléséhez adatfeldolgozóként az Országos Kórházi Főigazgatóságot (a továbbiakban: OKFŐ) bevonja. Az OKFŐ további adatfeldolgozót is igénybe vehet.
 
 [^9]: A 3/A. alcímet (5/A. §-t) a 630/2022. (XII. 30.) Korm. rendelet 33. §-a iktatta be.
 [^10]: Az 5/A. § (3a) bekezdését a 294/2025. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
-[^11]: Az 5/A. § (5) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 59. §-a iktatta be.
+[^11]: Az 5/A. § (3b) bekezdését a 351/2025. (XI. 12.) Korm. rendelet 18. §-a iktatta be.
+[^12]: Az 5/A. § (5) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 59. §-a iktatta be.

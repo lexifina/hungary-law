@@ -1,4 +1,4 @@
-## 3/B.[^13] Egészséginformatikai rendszerek engedélyezése
+## 3/B.[^14] Egészséginformatikai rendszerek engedélyezése
 
 5/C. § (1) Az informatikai rendszer engedélyezése iránti kérelmet (a továbbiakban: kérelem) az informatikai rendszerre vonatkozó vagyoni jogokkal vagy az informatikai rendszer továbbfejlesztéséhez szükséges felhasználási jogokkal rendelkező szervezet (a továbbiakban: fejlesztő) terjeszthet elő.
 
@@ -20,4 +20,4 @@ e) a Szolgáltatóközpont által kiállított műszaki bevizsgálási támogat�
 
 (5) Ha a kérelemmel érintett informatikai rendszer orvostechnikai eszköznek minősül vagy más tanúsítási kötelezettség alá esik, úgy a kérelemhez mellékelni kell az informatikai rendszerre vonatkozó követelményeknek való megfelelést igazoló okiratokat.
 
-[^13]: A 3/B. alcímet (5/C–5/E. §-t) a 294/2025. (IX. 25.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 3/B. alcímet (5/C–5/E. §-t) a 294/2025. (IX. 25.) Korm. rendelet 3. §-a iktatta be.

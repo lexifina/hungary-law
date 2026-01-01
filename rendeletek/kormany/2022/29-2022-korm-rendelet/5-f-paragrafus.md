@@ -1,4 +1,4 @@
-## 3/C.[^14] Egészséginformatikai rendszerek műszaki bevizsgálása
+## 3/C.[^15] Egészséginformatikai rendszerek műszaki bevizsgálása
 
 5/F. § (1) A műszaki bevizsgálás lefolytatásának és az eredményes műszaki bevizsgálásról szóló támogató vélemény feltétele, hogy a fejlesztő regisztrációval rendelkezzen a Szolgáltatóközpont által üzemeltetett felületen, amelynek keretében
 
@@ -28,4 +28,4 @@ b) az informatikai rendszer felhasználási területét, amelyre a bevizsgálás
 
 (6) Az (5) bekezdés szerinti támogató vélemény érvényességi ideje három év.
 
-[^14]: A 3/C. alcímet (5/F–5/G. §-t) a 294/2025. (IX. 25.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A 3/C. alcímet (5/F–5/G. §-t) a 294/2025. (IX. 25.) Korm. rendelet 3. §-a iktatta be.

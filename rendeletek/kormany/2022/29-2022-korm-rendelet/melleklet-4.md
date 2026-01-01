@@ -1,4 +1,4 @@
-4. melléklet a 29/2022. (I. 31.) Korm. rendelethez[^35]
+4. melléklet a 29/2022. (I. 31.) Korm. rendelethez[^36]
 
 EESZT csatlakozásra használt informatikai rendszerek fejlesztőire irányadó követelmények
 
@@ -26,4 +26,4 @@ EESZT csatlakozásra használt informatikai rendszerek fejlesztőire irányadó 
 
 2.1. ISO 9001 vagy egyéb szoftverfejlesztési területen alkalmazott auditált minőségirányítási rendszer tanúsítvány
 
-[^35]: A 4. mellékletet a 294/2025. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^36]: A 4. mellékletet a 294/2025. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
