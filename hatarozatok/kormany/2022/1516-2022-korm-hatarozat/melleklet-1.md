@@ -22,13 +22,9 @@
 
 | Határidő: | folyamatos, az Intézkedési Tervben meghatározott határidőkkel összhangban |
 
-## 1.5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az Intézkedési Terv 1. pontjában meghatározott célok végrehajtása érdekében a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 1. Technológiai és Ipari Minisztérium igazgatása cím terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 9. Család- és ifjúságügyi célú központi költségvetési hozzájárulások alcím, 4. Gyermek, ifjúsági és családpolitikai programok jogcím javára 14 000 000 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint.
+## 1.5. [^1]
 
-| Felelős: | pénzügyminiszter technológiai és ipari miniszter kultúráért és innovációért felelős miniszter |
-
-| Határidő: | azonnal |
-
-## 2.[^1]
+## 2.[^2]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -92,4 +88,5 @@ Az Európai Unió számára készített „A nők szerepének erősítése a csa
 
 | Határidő: | folyamatos |
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.5. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
