@@ -56,12 +56,14 @@ besorolási kategóriába kell besorolni.
 
 (5) A szolgálati beosztás (4) bekezdés szerinti értékelésének felülvizsgálatát a miniszter elrendelheti.
 
-(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, a beosztási illetmény megállapításához szükséges szorzószámokat, valamint a (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét
+(6) A szolgálati beosztások besorolási kategóriáihoz rendelt rendfokozatokat és fizetési fokozatokat, a beosztási illetmény megállapításához szükséges szorzószámokat, valamint a (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményének alsó határát
 
 a) a (3) bekezdés a) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban az 5. melléklet, a tiszti besorolási osztályban a 6. melléklet,
 
 b) a (3) bekezdés b) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban a 7. melléklet, a tiszti besorolási osztályban a 8. melléklet,
 
 c) a vezetői besorolási osztályban a 9. melléklet tartalmazza.
+
+(6a) A (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét a miniszter egyedileg határozza meg azzal, hogy az illetmény nem lehet kevesebb a (6) bekezdés c) pontja szerinti, a 9. mellékletben meghatározott alsó határnál.
 
 (7) A (2) bekezdés b) pontja szerinti szakirányító 1 és szakirányító 2 vezetői beosztásba – a szervezeti szint és irányítói jogkör figyelembevételével – azt a vezetői beosztást betöltőt lehet besorolni, aki központi szervnél vagy az országos főigazgató közvetlen alárendeltségébe tartozó szervezeti egységnél több szervezeti elemet irányít vagy szervezeti egységet vezet, de nem minősül kiemelt vezetőnek, vagy a területi szerv vezetőjének helyettese.

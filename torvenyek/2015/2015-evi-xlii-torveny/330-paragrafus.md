@@ -43,3 +43,5 @@ m) a 82/J. § (1) bekezdés e) pontjából eltérően megszűnik a rendvédelmi 
 n) a 82/J. § (1) bekezdés f) pontjától eltérően a 82/A. § (3) bekezdése szerinti esetben az 50%-ot meghaladó mértékű egészségi állapot esetében szűnik meg az egészségkárosodási ellátásra való jogosultság,
 
 o) a 82/J. § (2), (4) és (5) bekezdése nem alkalmazható.
+
+(4) Az Országgyűlési Őrség hivatásos állománya tagjának nem tanulmányi szerződés keretében végzett, más rendvédelmi szervnél vagy rendészeti felsőoktatást folytató felsőoktatási intézménynél történő oktatása, képzése az oktatás időtartamára a 60. § szerinti átrendeléssel történik.

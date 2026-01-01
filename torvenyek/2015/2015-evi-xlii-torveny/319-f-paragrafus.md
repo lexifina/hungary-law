@@ -40,6 +40,8 @@ h) a szerződéses jogviszony létesítését kizáró, a 41. § (1) bekezdése 
 
 i) méltatlanná válás.
 
+j) a kifogástalan életvitel követelményének történő meg nem felelés miatt a határvadász szolgálatra alkalmatlanná válás.
+
 (4) A szerződéses jogviszony az állományilletékes parancsnok és a határvadász közös megegyezésével bármikor megszüntethető. A megszüntetést bármelyik fél kezdeményezheti, és azt indokolni nem kell.
 
 (5) A (4) bekezdés szerinti közös megegyezést írásba kell foglalni, amelyben rögzíteni kell a szerződéses jogviszony megszüntetésének napját, a határvadásznak és az általános rendőrségi feladatok ellátására létrehozott szervnek a szerződéses jogviszony megszüntetéséből eredő jogait és kötelezettségeit. A jogokban és kötelezettségekben való megegyezés nem feltétele a szerződéses jogviszony közös megegyezéssel történő megszüntetésének. A felek a megállapodástól csak közös akarattal térhetnek el.

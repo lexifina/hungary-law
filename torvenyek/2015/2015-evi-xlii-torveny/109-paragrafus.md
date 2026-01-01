@@ -30,4 +30,4 @@ b) a (2a) bekezdés szerinti kivételi körbe tartozó vezetői tisztségviselő
 
 (7) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezte és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
 
-(8) Vezetői beosztást betöltő személy az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyt engedéllyel létesíthet.
+(8)
