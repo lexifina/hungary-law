@@ -1,6 +1,6 @@
 ## I. közhasználatú fürdő, amely legalább egy alábbi feltételnek megfelel:
 
-## a) a közhasználatú fürdők létesítéséről és üzemeltetéséről szóló 510/2023. (XI. 20.) Korm. rendelet 2. § 22. pontja szerinti 1-es típusú közhasználatú fürdőnek vagy 2. § 23. pont a) alpontja szerinti 2/a típusú közhasználatú fürdőnek minősül,
+## a) a közhasználatú fürdők létesítéséről és üzemeltetéséről szóló 510/2023. (XI. 20.) Korm. rendelet 2. § 22. pontja szerinti 1-es típusú közhasználatú fürdőnek, vagy 2. § 23. pont a) alpontja szerinti 2/a típusú közhasználatú fürdőnek minősül,
 
 ## b) legalább egy, az alábbi felsorolásban szereplő szolgáltatást nyújtja a látogatók számára:
 
@@ -32,7 +32,9 @@
 
 ## c) a TEÁOR’25 49.34 Személyszállítás kötélpályán, sífelvonóval szolgáltatást,
 
-## d) a TEÁOR’25 49.12 Egyéb vasúti személyszállítás tevékenység közül a „személyszállítás siklóval” szolgáltatást
+## d) a TEÁOR’25 49.12 Egyéb vasúti személyszállítás tevékenység közül a „személyszállítás siklóval” szolgáltatást,
+
+## e) a TEÁOR’25 49.12 Egyéb vasúti személyszállítási tevékenység közül a „keskeny nyomtávú vasút (kisvasút) személyszállítási célra” szolgáltatást
 
 ## nyújtja.
 
@@ -68,8 +70,8 @@
 
 ## b) a TEÁOR’25 94.91 Egyházi tevékenység szolgáltatás keretében turisztikai attrakciót működtet.
 
-4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^115]
+4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^116]
 
 Turisztikailag kiemelt jelentőségű település
 
-[^115]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.
+[^116]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.

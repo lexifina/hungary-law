@@ -1,44 +1,38 @@
-## Aggtelek
+|  | A | B |
 
-## Dég
+| 1. | A 3. melléklet szerinti regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakció | Ellenőrző hatóság |
 
-## Hajós
+| 2. | közhasználatú fürdő | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Hollókő
+| 3. | természetes fürdőhely | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Kalocsa
+| 4. | muzeális intézmény, vár, kastély | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Kaposvár
+| 5. | turisztikai közlekedési infrastruktúrához tartozó közlekedési eszközök közül | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Kecskemét
+| 5.1. | a belvízi személyszállítási tevékenység 1. a Balatoni Hajózási Zrt. járata végzi a személyszállítási tevékenységet, 2. a MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság járata végzi a személyszállítási tevékenységet |
 
-## Kiskőrös
+| 5.2. | a TEÁOR’25 49.12 Egyéb vasúti személyszállítási tevékenység közül a „keskeny nyomtávú vasút (kisvasút) személyszállítási célra” szolgáltatás |
 
-## Lakitelek
+| 5.3. | a TEÁOR’25 49.34 Személyszállítás kötélpályán, sífelvonóval szolgáltatás |
 
-## Nádasdladány
+| 5.4. | a TEÁOR’25 49.12 Egyéb vasúti személyszállítás tevékenység közül a „személyszállítás siklóval” szolgáltatás |
 
-## Orosháza
+| 6. | turisztikai közlekedési infrastruktúrához tartozó közlekedési eszközök: a TEÁOR’25 49.31 Menetrend szerinti közúti személyszállítás tevékenység közül a „hop on hop off” jellegű menetrend szerinti buszos városnéző turisztikai szolgáltatás | területileg illetékes jegyző |
 
-## Őriszentpéter
+| 7. | kalandpark | területileg illetékes jegyző |
 
-## Pápa
+| 8. | állatkert | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Szarvas
+| 9. | vidámpark | területileg illetékes jegyző |
 
-## Szekszárd
+| 10. | védett természeti terület bemutatóhelye | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Szentgotthárd
+| 11. | zenés, táncos rendezvény | területileg illetékes jegyző |
 
-## Szolnok
+| 12. | műemlék | területileg illetékes fővárosi, vármegyei kormányhivatal |
 
-## Tata
-
-## Tiszakécske
-
-## Zalaegerszeg
-
-6. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^116]
+6. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^118]
 
 A Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai rendszerek
 
@@ -52,4 +46,4 @@ A Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai re
 
 | 4. | NETA – Nemzeti Turisztikai Adatbázis | A turisztikai attrakciók naprakész adatbázisa. |
 
-[^116]: A 6. mellékletet a 157/2025. (VI. 23.) Korm. rendelet 8. §-a iktatta be.
+[^118]: A 6. mellékletet a 157/2025. (VI. 23.) Korm. rendelet 8. §-a iktatta be.

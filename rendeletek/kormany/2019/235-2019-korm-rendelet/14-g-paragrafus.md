@@ -8,6 +8,6 @@ b) tételesen meg kell határozni az átadás-átvétellel érintett befektetett
 
 c) rendelkezni kell az átadás-átvétellel érintett feladatokhoz, feladatcsoportokhoz kapcsolódó szerződések, okiratok, szabályzatok és más dokumentumok eredeti és hiteles másolati példányainak átadásáról.
 
-(3) Az (1) bekezdés szerinti átadás-átvételt, illetve a jegyzőkönyv elkészítését legkésőbb a Módr1. hatálybalépésétől[^102] számított 45. napig végre kell hajtani. A jegyzőkönyv aláírására az érintett szervezetek vezetői jogosultak.
+(3) Az (1) bekezdés szerinti átadás-átvételt, illetve a jegyzőkönyv elkészítését legkésőbb a Módr1. hatálybalépésétől[^103] számított 45. napig végre kell hajtani. A jegyzőkönyv aláírására az érintett szervezetek vezetői jogosultak.
 
-[^102]: A hatálybalépés időpontja 2025. június 24.
+[^103]: A hatálybalépés időpontja 2025. június 24.
