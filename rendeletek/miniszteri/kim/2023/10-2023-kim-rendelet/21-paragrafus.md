@@ -1,4 +1,4 @@
-## 11.[^45] Az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás
+## 11.[^43] Az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás
 
 21. § (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -14,4 +14,4 @@
 
 (7) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-[^45]: A 11. alcím (21. §) a 24/2025. (XI. 6.) KIM rendelet 8. §-ával megállapított szöveg.
+[^43]: A 11. alcím (21. §) a 24/2025. (XI. 6.) KIM rendelet 8. §-ával megállapított szöveg.

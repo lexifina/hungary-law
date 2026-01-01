@@ -56,9 +56,9 @@ f) nagyvállalkozásnál a korábban már bárki által használatba vett tárgy
 
 (8) Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
-a)[^63] a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
+a)[^61] a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
 
-b)[^64] a munkahelyeket a beruházás üzembe helyezésétől számított három éven belül betöltik,
+b)[^62] a munkahelyeket a beruházás üzembe helyezésétől számított három éven belül betöltik,
 
 c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig az érintett területen fenntartja, és
 
@@ -68,5 +68,5 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 
 (10) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-[^63]: A 21/E. § (8) bekezdés a) pontja a 24/2025. (XI. 6.) KIM rendelet 11. §-ával megállapított szöveg.
-[^64]: A 21/E. § (8) bekezdés b) pontja a 24/2025. (XI. 6.) KIM rendelet 11. §-ával megállapított szöveg.
+[^61]: A 21/E. § (8) bekezdés a) pontja a 24/2025. (XI. 6.) KIM rendelet 11. §-ával megállapított szöveg.
+[^62]: A 21/E. § (8) bekezdés b) pontja a 24/2025. (XI. 6.) KIM rendelet 11. §-ával megállapított szöveg.

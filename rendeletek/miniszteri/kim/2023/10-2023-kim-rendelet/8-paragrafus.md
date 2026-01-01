@@ -28,7 +28,7 @@ d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek
 
 e) a további általános és egyéb működési költség, beleértve az anyagok, a fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
-(5a)[^38] Az (5) bekezdés e) pontja szerinti költségek egyszerűsített költségelszámolás alapján közvetett költségként is megállapíthatók, ha azokat világos, konkrét és aktuális dokumentumokkal támasztják alá. A közvetett költségek mértéke nem haladhatja meg az (5) bekezdés a)–d) pontja szerinti elszámolható költségek összegének 20%-át.
+(5a)[^36] Az (5) bekezdés e) pontja szerinti költségek egyszerűsített költségelszámolás alapján közvetett költségként is megállapíthatók, ha azokat világos, konkrét és aktuális dokumentumokkal támasztják alá. A közvetett költségek mértéke nem haladhatja meg az (5) bekezdés a)–d) pontja szerinti elszámolható költségek összegének 20%-át.
 
 (6) A (2) bekezdés d) pontja esetén a támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
 
@@ -44,9 +44,9 @@ d) megvalósíthatósági tanulmány esetén az elszámolható költségek 50%-�
 
 (8) A támogatási intenzitást külön kell megállapítani az egyes kedvezményezettekre, ideértve a (11) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti együttműködési projektben részt vevőket is.
 
-(9)[^39] Ipari kutatás, kísérleti fejlesztés és megvalósíthatósági tanulmány esetén a (7) bekezdés szerinti támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
+(9)[^37] Ipari kutatás, kísérleti fejlesztés és megvalósíthatósági tanulmány esetén a (7) bekezdés szerinti támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-(10)[^40] Ipari kutatás és kísérleti fejlesztés esetén a (7) bekezdés szerinti támogatási intenzitás a (9) bekezdésben foglalt mértéken felül legfeljebb az elszámolható költségek 80%-áig növelhető nagyvállalkozás esetén is oly módon, hogy a (11) bekezdés a) és b) pontja együttesen nem alkalmazható.
+(10)[^38] Ipari kutatás és kísérleti fejlesztés esetén a (7) bekezdés szerinti támogatási intenzitás a (9) bekezdésben foglalt mértéken felül legfeljebb az elszámolható költségek 80%-áig növelhető nagyvállalkozás esetén is oly módon, hogy a (11) bekezdés a) és b) pontja együttesen nem alkalmazható.
 
 (11) Ipari kutatás és kísérleti fejlesztés esetén a támogatási intenzitás
 
@@ -68,6 +68,6 @@ bb) a projekt legalább két – nagyvállalkozás esetén három – tagállamb
 
 bc) az a) pont ac) vagy ad) alpontja szerinti feltétel teljesül, azzal, hogy az ac) alpont esetén az eredmények széles körű terjesztésének legalább három tagállamban vagy az EGT-megállapodásban szerződő fél területén kell megvalósulnia.
 
-[^38]: A 8. § (5a) bekezdését a 24/2025. (XI. 6.) KIM rendelet 5. §-a iktatta be.
-[^39]: A 8. § (9) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 2. pontja szerint módosított szöveg.
-[^40]: A 8. § (10) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 3. pontja szerint módosított szöveg.
+[^36]: A 8. § (5a) bekezdését a 24/2025. (XI. 6.) KIM rendelet 5. §-a iktatta be.
+[^37]: A 8. § (9) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 2. pontja szerint módosított szöveg.
+[^38]: A 8. § (10) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 3. pontja szerint módosított szöveg.

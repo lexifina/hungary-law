@@ -1,6 +1,6 @@
 ## IV. Fejezet
 
-## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK KÜLÖNÖS SZABÁLYAI[^67]
+## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK KÜLÖNÖS SZABÁLYAI[^65]
 
 ## 13. Az állami szakképző intézmények Szkt. szerinti ingyenes képzéseinek kiegészítő finanszírozása
 
@@ -30,7 +30,7 @@ b) képzés esetén a kedvezményezett által a támogatási kérelemben megjel�
 
 c) a technikum kizárólag érettségi vizsgára felkészítő képzésében, a tárgyévet megelőző évben felnőttképzési jogviszonyban részt vevő személyenként 360 000 forint/év keretösszeg képzési időszak által érintett hónapok számának megfelelően arányosan csökkentett összege.
 
-(4a)[^68] A (4) bekezdés a) pontja szerinti, a duális képzőhelyen oktatásban részt vevők havi létszámát a duális képzőhelyen megvalósult oktatás adott havi óraszám arányának figyelembevétele alapján számított létszámként kell meghatározni.
+(4a)[^66] A (4) bekezdés a) pontja szerinti, a duális képzőhelyen oktatásban részt vevők havi létszámát a duális képzőhelyen megvalósult oktatás adott havi óraszám arányának figyelembevétele alapján számított létszámként kell meghatározni.
 
 (5) A (4) bekezdés a) pontja szerinti támogatás összegének számításakor alkalmazott súlyszorzó értéke 2, ha az oktatás időtartamából és a ténylegesen megtartott óraszámból adódó intenzitás legalább kétszeres. A súlyszorzó értéke minden más esetben 1.
 
@@ -38,10 +38,10 @@ c) a technikum kizárólag érettségi vizsgára felkészítő képzésében, a 
 
 (7) A (4) bekezdés b) pontja szerinti támogatás összegének számításakor alkalmazott szakmaszorzót a szakképesítésnek a Magyar Képesítési Keretrendszer szintje határozza meg, oly módon, hogy a legfeljebb 4-es szintű szakképesítés esetén a 4-es szinthez, a legalább 5-ös szintű szakképesítés esetén az 5-ös szinthez meghatározott szakmaszorzót kell alkalmazni.
 
-(8)[^69] A támogatási kérelmet a támogató által meghatározott formanyomtatványon a január 1-jétől december 31-éig tartó időszakra tárgyév február 15-éig kell benyújtani.
+(8)[^67] A támogatási kérelmet a támogató által meghatározott formanyomtatványon a január 1-jétől december 31-éig tartó időszakra tárgyév február 15-éig kell benyújtani.
 
 (9) A támogatási kérelem alapján a támogató megállapítja a kedvezményezett részére az adott költségvetési évre folyósítandó támogatás – ezer forintra kerekített – összegét, a támogatás két részletben történő folyósításának határidejét, és erről támogatói okiratot ad ki.
 
-[^67]: A IV. Fejezet (22–23. §) a 32/2024. (VIII. 8.) KIM rendelet 5. §-ával megállapított szöveg.
-[^68]: A 22. § (4a) bekezdését a 24/2025. (XI. 6.) KIM rendelet 12. §-a iktatta be.
-[^69]: A 22. § (8) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 10. pontja szerint módosított szöveg.
+[^65]: A IV. Fejezet (22–23. §) a 32/2024. (VIII. 8.) KIM rendelet 5. §-ával megállapított szöveg.
+[^66]: A 22. § (4a) bekezdését a 24/2025. (XI. 6.) KIM rendelet 12. §-a iktatta be.
+[^67]: A 22. § (8) bekezdése a 24/2025. (XI. 6.) KIM rendelet 16. § 10. pontja szerint módosított szöveg.
