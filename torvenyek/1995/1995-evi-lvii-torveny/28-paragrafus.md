@@ -19,3 +19,5 @@ d)
 e) a 31. § (1) bekezdését,
 
 f) a 31/A. §-t.
+
+g) a 32/B. § (2) bekezdését.

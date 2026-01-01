@@ -10,6 +10,6 @@ b) üzemi vízfogyasztó az, aki ivóvizet szolgáltató közműről a saját ga
 
 (3) A vízjogi engedéllyel, bányafelügyeleti szerződéssel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
 
-(4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához az e-vízikönyvi hatósági közhiteles nyilvántartásból.
+(4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához a vízikönyvi nyilvántartásból.
 
 (5) A vízhasználók által bevallott, a vízkészletjárulék alapjául szolgáló tényleges vízhasználatra vonatkozó adatokhoz a vízügyi igazgatási szervek jogosultak hozzáférni a vízkészlet-gazdálkodási faladataik ellátása céljából.

@@ -30,7 +30,7 @@ f) a vízgazdálkodás országos koncepciójának végrehajtásához kapcsolód�
 
 g) a szennyvízelvezetési agglomerációk lehatárolásának és települési jegyzékének;
 
-h)
+h) a meghatározott cselekmény elvégzésére vagy meghatározott magatartásra irányuló jogkövetkezmények végrehajtására vonatkozó részletes szabályok;
 
 i)
 

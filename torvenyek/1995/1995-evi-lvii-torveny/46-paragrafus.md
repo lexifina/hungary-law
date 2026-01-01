@@ -1,1 +1,1 @@
-### 46. §
+46. § E törvénynek a közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról szóló 2025. évi LXXX. törvénnyel megállapított 32/B. §-át a 2026. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.

@@ -68,7 +68,7 @@ a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak,
 
 b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási, vízvédelmi feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
 
-27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
+27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek nyilvántartása;
 
 28. vízkár: a vizek többletéből vagy hiányából származó kár;
 
