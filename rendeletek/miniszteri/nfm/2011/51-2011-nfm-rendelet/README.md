@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-2
 | 2024-10-01 | 2011-51-20-2W.37 | 1/2024. (I. 11.) EM rendelet |
 | 2025-01-01 | 2011-51-20-2W.38 | 83/2011. (XII. 29.) NFM rendelet |
 | 2025-10-01 | 2011-51-20-2W.39 | 83/2011. (XII. 29.) NFM rendelet |
+| 2026-01-01 | 2011-51-20-2W.40 | 22/2026. (II. 12.) Korm. rendelet |

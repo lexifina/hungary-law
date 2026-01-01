@@ -1,6 +1,6 @@
 ## 3. A támogatás igénylése
 
-4. §[^10] (1)[^11] Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 12. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a rendszerirányítóhoz.
+4. §[^11] (1)[^12] Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 12. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a rendszerirányítóhoz.
 
 (2) A támogatási igénybejelentés tartalmazza
 
@@ -28,5 +28,5 @@ a javított támogatási igénybejelentő lap két eredeti példányának, valam
 
 (9) Az igénylő (7) és (8) bekezdés szerinti önellenőrzésre vonatkozó jogosultsága adott havi támogatási igénybejelentés alapján a késedelmi igénylési határnapot követően megszűnik. A késedelmi támogatási igénybejelentés önellenőrzéssel nem javítható. A rendszerirányító kifizetést önellenőrzésre való jogosultság alapján kizárólag a (7) bekezdés szerint hiánytalanul beérkezett iratok alapján teljesíthet.
 
-[^10]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
-[^11]: A 4. § (1) bekezdése az 1/2024. (I. 11.) EM rendelet 7. §-ával megállapított szöveg.
+[^11]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdése az 1/2024. (I. 11.) EM rendelet 7. §-ával megállapított szöveg.

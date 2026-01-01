@@ -10,13 +10,14 @@ tartalmazza.
 
 (3)[^7]
 
-(4) A távhőszolgáltató a támogatási igényének mértékét a 2. melléklet 1. pontja szerinti módon számolja ki.
+(4) A távhőszolgáltató a támogatási igényének mértékét a 2. melléklet 1. pontja szerinti módon számolja ki.[^8]
 
 (5) Az intézmény támogatási igényének mértékét a 2. melléklet 2. pontja szerinti módon számolja ki.
 
-(6)[^8] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján letölthető formában közzéteszi a 2. melléklet 1.1. és 2.1. pontjai szerinti támogatási igénybejelentő lapokat, valamint a 2. melléklet 1.2. és 2.2. pontja szerinti számítási módokat.
+(6)[^9] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján letölthető formában közzéteszi a 2. melléklet 1.1. és 2.1. pontjai szerinti támogatási igénybejelentő lapokat, valamint a 2. melléklet 1.2. és 2.2. pontja szerinti számítási módokat.
 
 [^5]: A 3. § (1) bekezdés a) pontja az 59/2012. (X. 31.) NFM rendelet 8. §-ával megállapított, az 54/2015. (IX. 30.) NFM rendelet 8. § b) pontja, a 19/2018. (IX. 27.) ITM rendelet 2. § b) pontja szerint módosított szöveg.
 [^6]: A 3. § (2)–(3) bekezdését az 59/2012. (X. 31.) NFM rendelet 14. §-a hatályon kívül helyezte.
 [^7]: A 3. § (2)–(3) bekezdését az 59/2012. (X. 31.) NFM rendelet 14. §-a hatályon kívül helyezte.
-[^8]: A 3. § (6) bekezdése az 59/2012. (X. 31.) NFM rendelet 13. § (1) bekezdése, a 37/2015. (VI. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^8]: Az alkalmazására vonatkozó eltérésekről és kiegészítésekről lásd a lakossági felhasználóknak nyújtott távhőszolgáltatás díjával összefüggő rendkívüli intézkedéshez kapcsolódó távhőszolgáltatói támogatásról szóló 22/2026. (II. 12.) Korm. rendeletet.
+[^9]: A 3. § (6) bekezdése az 59/2012. (X. 31.) NFM rendelet 13. § (1) bekezdése, a 37/2015. (VI. 30.) NFM rendelet 23. §-a szerint módosított szöveg.

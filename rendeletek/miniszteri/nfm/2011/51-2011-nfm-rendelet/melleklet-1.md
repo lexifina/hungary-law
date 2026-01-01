@@ -1,6 +1,6 @@
-## 10. §[^30] Ez a rendelet az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
+## 10. §[^31] Ez a rendelet az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^31]
+1. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^32]
 
 A támogatás mértéke
 
@@ -70,7 +70,7 @@ A támogatás mértéke
 
 | 31 | Gyöngyös | Városgondozási Zrt. | 16 876 262 | 4 464 |
 
-| 32 | Győr | GYŐR-SZOL Zrt. | 506 277 737 | 1 816 |
+| 32 | Győr | GYŐR-SZOL Zrt. | 392 944 737 | 1 816 |
 
 | 33 | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Nonprofit Kft. | 2 844 466 | 6 659 |
 
@@ -82,7 +82,7 @@ A támogatás mértéke
 
 | 37 | Inota | Várpalotai Közszolgáltató Nonprofit Kft. | 5 890 135 | 5 993 |
 
-| 38 | Kaposvár | Kaposvári Vagyonkezelő Zrt. | 105 666 555 | 2 189 |
+| 38 | Kaposvár | Kaposvári Vagyonkezelő Zrt. | 109 327 804 | 2 273 |
 
 | 39 | Kapuvár | Kapuvári Hőszolgáltató Kft. | 6 021 092 | 6 064 |
 
@@ -110,7 +110,7 @@ A támogatás mértéke
 
 | 51 | Mátészalka | SZALKATÁVHŐ Kft. | 20 834 125 | 4 776 |
 
-| 52 | Miskolc | MIHŐ Kft. | 670 289 253 | 1 220 |
+| 52 | Miskolc | MIHŐ Kft. | 540 305 253 | 1 220 |
 
 | 53 | Mohács | MOHÁCS-HŐ Kft. | 31 175 423 | 4 011 |
 
@@ -178,7 +178,7 @@ A támogatás mértéke
 
 | 85 | Szentgotthárd | RÉGIÓHŐ Kft. | 4 771 112 | 3 233 |
 
-| 86 | Szentlőrinc | Szentlőrinci Közüzemi Nonprofit Kft. | 14 400 257 | 0 |
+| 86 | Szentlőrinc | Szentlőrinci Közüzemi Nonprofit Kft. | 9 935 257 | 0 |
 
 | 87 | Szigetszentmiklós | “Aries” Nonprofit Kft. | 20 583 847 | 5 677 |
 
@@ -246,5 +246,5 @@ A támogatás mértéke
 
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Vármegyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
-[^30]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^31]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a, a 48/2019. (XII. 23.) ITM rendelet 7. §-a, a 32/2020. (IX. 30.) ITM rendelet 2. §-a, az 58/2020. (XII. 29.) ITM rendelet 2. §-a, a 14/2021. (III. 31.) ITM rendelet 5. §-a, a 48/2021. (IX. 30.) ITM rendelet 2. §-a, a 66/2021. (XII. 30.) ITM rendelet 2. §-a, a 2/2022. (XII. 27.) EM rendelet 1. §-a, a 8/2022. (XII. 28.) EM rendelet 2. §-a, a 3/2023. (III. 31.) EM rendelet 2. §-a, a 20/2023. (IX. 29.) EM rendelet 2. §-a, a 16/2024. (IX. 30.) EM rendelet 7. és 8. §-a, a 29/2025. (IX. 30.) EM rendelet 7. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelt módosítás nem vezethető át.]
+[^31]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a, a 48/2019. (XII. 23.) ITM rendelet 7. §-a, a 32/2020. (IX. 30.) ITM rendelet 2. §-a, az 58/2020. (XII. 29.) ITM rendelet 2. §-a, a 14/2021. (III. 31.) ITM rendelet 5. §-a, a 48/2021. (IX. 30.) ITM rendelet 2. §-a, a 66/2021. (XII. 30.) ITM rendelet 2. §-a, a 2/2022. (XII. 27.) EM rendelet 1. §-a, a 8/2022. (XII. 28.) EM rendelet 2. §-a, a 3/2023. (III. 31.) EM rendelet 2. §-a, a 20/2023. (IX. 29.) EM rendelet 2. §-a, a 16/2024. (IX. 30.) EM rendelet 7. és 8. §-a, a 29/2025. (IX. 30.) EM rendelet 7. és 8. §-a, a 40/2025. (XII. 29.) EM rendelet 1. § a) és b) pontja szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelt módosítás nem vezethető át.]

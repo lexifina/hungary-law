@@ -1,8 +1,8 @@
-2. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^32]
+2. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^33]
 
 Támogatási igénybejelentés
 
-1. A távhőszolgáltató tárgyhavi támogatási igénybejelentése
+1. A távhőszolgáltató tárgyhavi támogatási igénybejelentése[^34]
 
 1.1. A távhőszolgáltató tárgyhavi támogatási igénybejelentéséhez a rendszerirányító felé kitöltendő támogatási igénybejelentő lap
 
@@ -90,4 +90,5 @@ vi: Intézmény által vásárolt vagy termelt kapcsolt hő mennyisége
 
 Ti: Intézmény kapcsolt termelés után kapott támogatásának értéke (Ti = ti*vi)
 
-[^32]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított, az 54/2015. (IX. 30.) NFM rendelet 9. § (2) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 8. §-a, a 19/2018. (IX. 27.) ITM rendelet 2. § c)–d) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított, az 54/2015. (IX. 30.) NFM rendelet 9. § (2) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 8. §-a, a 19/2018. (IX. 27.) ITM rendelet 2. § c)–d) pontja szerint módosított szöveg.
+[^34]: A 22/2026. (II. 12.) Korm. rendelet 2. §-a alapján a 2026. január hónapra eső távhőszolgáltatói támogatási igénybejelentés során a távhőszolgáltató a 2. melléklet 1. pontja helyett az 22/2026. (II. 12.) Korm. rendelet 1. mellékletét alkalmazza.
