@@ -2,7 +2,7 @@
 
 (1) A vámtanácsadói tevékenység végzésére jogosult bejelentést tevőkről nyilvántartást kell vezetni. A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a vámtanácsadói tevékenység végzésére jogosult természetes személy a 207. § (1) bekezdése szerint bejelentést tett és rendelkezik a tevékenység végzéséhez jogszabályban előírt ismeretekkel és szakmai gyakorlattal. A nyilvántartásban szereplő természetes személyek nyilvános adatainak, az azokban bekövetkezett változásoknak a közzététele az ellenőrzés lehetőségének megteremtését és az időszerű tájékoztatást szolgálja.
 
-(2) A vámtanácsadók nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(2) A vámtanácsadók nyilvántartása az (5) bekezdés d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A vámtanácsadók nyilvántartásába való felvételre irányuló bejelentést a nyilvántartásba vételt végző szervezetnél lehet előterjeszteni.
 

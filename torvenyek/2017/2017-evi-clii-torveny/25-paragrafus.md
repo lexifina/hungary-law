@@ -28,6 +28,6 @@ b) benyújtja a nyilatkozatát, arra vonatkozóan, hogy rendelkezik-e EORI szám
 
 (7) A vámhatóság kérheti az adatok hitelességét bizonyító okiratok bemutatását.
 
-(8) A vámhatóság vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben.
+(8) A vámhatóság vámazonosító szám igénylése esetén a bejelentés alapján EORI számot állapít meg a Vámkódex 9. cikk (1) és (2) bekezdése szerinti esetekben. Az állami adó- és vámhatóság által vezetett nyilvántartás az EORI szám és a VPID szám tekintetében közhiteles nyilvántartásnak minősül.
 
 (9) A vámhatóság az FJA 6. cikk (2) bekezdése alapján a nyilvántartásba vétel mellőzésének indokoltságát az ügy körülményeire tekintettel alkalmanként állapítja meg.
