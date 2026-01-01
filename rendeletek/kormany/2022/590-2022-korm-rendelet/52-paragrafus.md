@@ -1,11 +1,14 @@
 52. § Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat (XIX. fejezet, 2. cím, 7. alcím, 1. jogcímcsoport) vonatkozásában
 
-a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, az SZPI uniós feladatainak támogatásával kapcsolatban az Európai Területi Együttműködés határmenti programok keretében kötött támogatási szerződések esetén a külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy,
+a)[^77] kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
 b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-c) teljesítésigazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, az SZPI uniós feladatainak támogatásával kapcsolatban az Európai Területi Együttműködés határmenti programok keretében kötött támogatási szerződések esetén a külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy,
+c)[^78] teljesítésigazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
 d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+
+[^77]: Az 52. § a) pontja a 455/2025. (XII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^78]: Az 52. § c) pontja a 455/2025. (XII. 29.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

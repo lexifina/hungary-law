@@ -1,13 +1,3 @@
-65. § Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzata (XIX. fejezet, 3. cím, 6. alcím) vonatkozásában
+65. §[^97]
 
-a) kötelezettségvállaló: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő vagy az általa írásban kijelölt személy,
-
-b)[^76] pénzügyi ellenjegyző: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-c) teljesítésigazoló: a 75/2016. (IV. 5.) Korm. rendelet 18. §-a szerinti képviselő vagy az általa írásban kijelölt személy,
-
-d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
-
-[^76]: A 65. § b) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^97]: A 65. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § j) pontja hatályon kívül helyezte.

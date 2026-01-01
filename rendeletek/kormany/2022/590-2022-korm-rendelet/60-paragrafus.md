@@ -1,11 +1,3 @@
-60. § A Rászoruló Személyeket Támogató OP (RSZTOP) előirányzata (XIX. fejezet, 3. cím, 1. alcím, 8. jogcímcsoport) vonatkozásában
+60. §[^91]
 
-a) kötelezettségvállaló: az OP IH vezetője vagy az általa írásban kijelölt személy,
-
-b) pénzügyi ellenjegyző: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-c) teljesítésigazoló: az OP IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy,
-
-d) érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
+[^91]: A 60. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § g) pontja hatályon kívül helyezte.
