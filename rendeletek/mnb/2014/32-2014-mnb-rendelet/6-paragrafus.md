@@ -1,4 +1,4 @@
-6. § (1)[^31] Amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme alacsonyabb, mint hatszázezer forint, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg
+6. § (1)[^33] Amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme alacsonyabb, mint nyolcszázezer forint, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg
 
 a) forinthitel nyújtása esetén az 50%-ot,
 
@@ -6,7 +6,7 @@ b) euróhitel, euró alapú hitel nyújtása esetén a 25%-ot,
 
 c) a b) pontban szabályozottól eltérő pénznemben meghatározott devizahitel nyújtása esetén a 10%-ot.
 
-(2)[^32] Amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme eléri vagy meghaladja a hatszázezer forintot, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg
+(2)[^34] Amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme eléri vagy meghaladja a nyolcszázezer forintot, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg
 
 a) forinthitel nyújtása esetén a 60%-ot,
 
@@ -14,7 +14,7 @@ b) euróhitel, euró alapú hitel nyújtása esetén a 30%-ot,
 
 c) a b) pontban szabályozottól eltérő pénznemben meghatározott devizahitel nyújtása esetén a 15%-ot.
 
-(3)[^33] Az (1) bekezdéstől eltérően, amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme alacsonyabb, mint hatszázezer forint, a JTM hitelkérelem elbíráláskori értéke 5 évet meghaladó futamidejű, ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelre irányuló kérelem esetén nem haladhatja meg
+(3)[^35] Az (1) bekezdéstől eltérően, amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme alacsonyabb, mint nyolcszázezer forint, a JTM hitelkérelem elbíráláskori értéke 5 évet meghaladó futamidejű, ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelre irányuló kérelem esetén nem haladhatja meg
 
 a) forinthitel nyújtása esetén
 
@@ -36,7 +36,7 @@ ca) legalább 5 éves kamatperiódusban rögzített hitelkamat vagy a futamidő 
 
 cb) 5 évnél rövidebb kamatperiódusban rögzített hitelkamat vagy változó hitelkamat esetén az 5%-ot.
 
-(4)[^34] A (2) bekezdéstől eltérően, amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme eléri vagy meghaladja a hatszázezer forintot, a JTM hitelkérelem elbíráláskori értéke 5 évet meghaladó futamidejű, ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelre irányuló kérelem esetén nem haladhatja meg
+(4)[^36] A (2) bekezdéstől eltérően, amennyiben az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelme eléri vagy meghaladja a nyolcszázezer forintot, a JTM hitelkérelem elbíráláskori értéke 5 évet meghaladó futamidejű, ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelre irányuló kérelem esetén nem haladhatja meg
 
 a) forinthitel nyújtása esetén
 
@@ -58,7 +58,7 @@ ca) legalább 5 éves kamatperiódusban rögzített hitelkamat vagy a futamidő 
 
 cb) 5 évnél rövidebb kamatperiódusban rögzített hitelkamat vagy változó hitelkamat esetén a 10%-ot.
 
-(4a)[^35] Az (1)–(4) bekezdéstől eltérően, amennyiben a hitelcél energetikailag hatékony lakás vásárlása, építése vagy lakás energiamegtakarítási célú felújítása, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg a 60%-ot
+(4a)[^37] Az (1)–(4) bekezdéstől eltérően, amennyiben a hitelcél energetikailag hatékony lakás vásárlása, építése vagy lakás energiamegtakarítási célú felújítása, a JTM hitelkérelem elbíráláskori értéke nem haladhatja meg a 60%-ot
 
 a) a legalább 10 éves kamatperiódusban rögzített,
 
@@ -68,9 +68,9 @@ c) az 5 évnél nem hosszabb futamidejű
 
 forinthitel esetén.
 
-(5)[^36] A (3)–(4a) bekezdés alkalmazása során
+(5)[^38] A (3)–(4a) bekezdés alkalmazása során
 
-a)[^37] a hitelnyújtó attól függően állapítja meg a JTM maximális értékét az állami kamattámogatás igénybevétele mellett, az állami kamattámogatási időszakot
+a)[^39] a hitelnyújtó attól függően állapítja meg a JTM maximális értékét az állami kamattámogatás igénybevétele mellett, az állami kamattámogatási időszakot
 
 aa) nem meghaladó futamidőre folyósított hitelek esetén, hogy a kamattámogatásra vonatkozó jogszabályi rendelkezésekre figyelemmel az ügyfél által fizetendő kamat változó, kamatperiódusokban vagy a futamidő végéig rögzítettnek tekinthető, és kamatperiódusban rögzítettnek tekinthető hitelkamat esetén milyen hosszú a kamatperiódus,
 
@@ -92,10 +92,10 @@ da) forinthitel nyújtása esetén az ügyfél, illetve adóstársak esetén az 
 
 db) forinttól eltérő pénznemben meghatározott devizahitel nyújtása esetén az ügyfél, illetve adóstársak esetén az ügyfelek összesített igazolt havi nettó jövedelmétől és a hitel pénznemétől függően a (3) bekezdés b) pont bb) alpontjában, c) pont cb) alpontjában, a (4) bekezdés b) pont bb) alpontjában vagy c) pont cb) alpontjában rögzített értéket.
 
-[^31]: A 6. § (1) bekezdés nyitó szövegrésze a 20/2023. (V. 11.) MNB rendelet 2. § d) pontja szerint módosított szöveg.
-[^32]: A 6. § (2) bekezdés nyitó szövegrésze a 20/2023. (V. 11.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
-[^33]: A 6. § (3) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 20/2023. (V. 11.) MNB rendelet 2. § d) pontja szerint módosított szöveg.
-[^34]: A 6. § (4) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 20/2023. (V. 11.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
-[^35]: A 6. § (4a) bekezdését a 49/2024. (XI. 11.) MNB rendelet 3. §-a iktatta be.
-[^36]: A 6. § (5) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 49/2024. (XI. 11.) MNB rendelet 5. § a) pontja szerint módosított szöveg.
-[^37]: A 6. § (5) bekezdés a) pont nyitó szövegrésze a 49/2024. (XI. 11.) MNB rendelet 5. § b) pontja szerint módosított szöveg.
+[^33]: A 6. § (1) bekezdés nyitó szövegrésze a 28/2025. (IX. 1.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^34]: A 6. § (2) bekezdés nyitó szövegrésze a 28/2025. (IX. 1.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^35]: A 6. § (3) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 28/2025. (IX. 1.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^36]: A 6. § (4) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 28/2025. (IX. 1.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^37]: A 6. § (4a) bekezdését a 49/2024. (XI. 11.) MNB rendelet 3. §-a iktatta be.
+[^38]: A 6. § (5) bekezdését a 29/2018. (VIII. 21.) MNB rendelet 4. §-a iktatta be, nyitó szövegrésze a 49/2024. (XI. 11.) MNB rendelet 5. § a) pontja szerint módosított szöveg.
+[^39]: A 6. § (5) bekezdés a) pont nyitó szövegrésze a 49/2024. (XI. 11.) MNB rendelet 5. § b) pontja szerint módosított szöveg.

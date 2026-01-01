@@ -30,9 +30,9 @@ c) az igénybe vett visszatérítendő, hazai vagy uniós költségvetési forr�
 
 10. igazolt havi nettó jövedelem: az ügyfélnek egy naptári hónapra vonatkozó rendszeres,
 
-a) a munkáltató, az állami adóhatóság, a magyar vagy valamely külföldi állam ellátást folyósító szerve, a felsőoktatási intézmény 12 hónapnál nem régebben, papír alapon vagy elektronikus úton kiállított igazolása (ideértve az állami adóhatóság által kiállított keresetkimutatást is) alapján meghatározható nettó jövedelmei összessége, amelyek után a felmerülő közterhek levonásra, megfizetésre kerültek,
+a)[^24] a munkáltató, az állami adóhatóság, a magyar vagy valamely külföldi állam ellátást folyósító szerve, a felsőoktatási intézmény által a hitelkérelem elbírálásától számított 12 hónapnál nem régebben, papír alapon vagy elektronikus úton kiállított igazolás (ideértve az állami adóhatóság által kiállított keresetkimutatást is) alapján meghatározható nettó jövedelmei összessége, amelyek után a felmerülő közterhek levonásra, megfizetésre kerültek,
 
-b) az ügyfél nyilatkozata és az átutalási megbízás jogcímét (ideértve az átutalás „Közlemény” rovatában egyértelműen feltüntetett jogcímet is) tartalmazó, 12 hónapnál nem régebbi időszakra vonatkozó fizetési számlakivonat (ideértve az ügyfél számlavezetője, számlainformációs szolgáltatója által elektronikus úton megküldött kivonatot is) alapján az ügyfél fizetési számláján jóváírt bére, nem önálló tevékenységből származó jövedelme, nyugdíja, továbbá egyéb, a magyar vagy külföldi állam által folyósított ellátás összege, amelyek után a felmerülő közterhek – az ügyfél tudomása szerint – levonásra, megfizetésre kerültek,
+b)[^25] az ügyfél nyilatkozata és az átutalási megbízás jogcímét (ideértve az átutalás „Közlemény” rovatában egyértelműen feltüntetett jogcímet is) tartalmazó, a hitelkérelem elbírálásától számított 12 hónapnál nem régebbi időszakra vonatkozó fizetési számlakivonat (ideértve az ügyfél számlavezetője, számlainformációs szolgáltatója által elektronikus úton megküldött kivonatot is) alapján az ügyfél fizetési számláján jóváírt bére, nem önálló tevékenységből származó jövedelme, nyugdíja, továbbá egyéb, a magyar vagy külföldi állam által folyósított ellátás összege, amelyek után a felmerülő közterhek – az ügyfél tudomása szerint – levonásra, megfizetésre kerültek,
 
 c) a bíróságnak a megállapításról vagy jóváhagyásról szóló döntése alapján a házastársi tartásdíja, élettársi tartásdíja, valamint az üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet végző szervezet által kiállított nyilatkozattal igazolt járadéka,
 
@@ -65,3 +65,5 @@ b) olyan lakást érint, ahol a felújítás a hitelkérelem benyújtásakor ér
 20. vállalkozó természetes személy: az Szja. tv. szerinti egyéni vállalkozó és mezőgazdasági őstermelő.
 
 [^23]: A 2. § a 49/2024. (XI. 11.) MNB rendelet 1. §-ával megállapított szöveg.
+[^24]: A 2. § 10. pont a) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § c) pontja szerint módosított szöveg.
+[^25]: A 2. § 10. pont b) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § d) pontja szerint módosított szöveg.

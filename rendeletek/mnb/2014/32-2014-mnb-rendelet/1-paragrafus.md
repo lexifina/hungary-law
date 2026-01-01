@@ -20,7 +20,7 @@ db) a munkáltató feltétel nélkül készfizető kezességet vállal arra, hog
 
 (3) E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni
 
-a)[^7] a négyszázötvenezer forintot meg nem haladó összegű hitelre – a hitelkeret emelésének kivételével –, amennyiben az ügyfél a hitelkérelem elbírálásakor nem rendelkezik hiteltartozással olyan, a rendelet hatálybalépését követően igényelt hitelből eredően, amelynek eredeti hitelösszege, hitelkeret-szerződés esetén aktuális szerződött hitelkeret-összege nem haladta meg a négyszázötvenezer forintot;
+a)[^7] a ötszázötvenezer forintot meg nem haladó összegű hitelre – a hitelkeret emelésének kivételével –, amennyiben az ügyfél a hitelkérelem elbírálásakor nem rendelkezik hiteltartozással olyan, a rendelet hatálybalépését követően igényelt hitelből eredően, amelynek eredeti hitelösszege, hitelkeret-szerződés esetén aktuális szerződött hitelkeret-összege nem haladta meg a ötszázötvenezer forintot;
 
 b)[^8] az ügyfél fizetési nehézsége vagy késedelme miatt a meglévő hitelei módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik, és az új hitel
 
@@ -46,7 +46,7 @@ i)[^10] azon hitelre, amely esetében a hitelszerződés az eredeti ügyfelek hi
 
 j)[^11] azon, a rendelet ügyfelenkénti legutolsó alkalmazásától számított három éven belüli, hitelszerződésenként adott naptári évben első alkalommal megvalósuló hitelkeret-emelésre, amely esetében:
 
-ja)[^12] a hitelkeret emelésének mértéke alkalmanként nem haladja meg a hitelkeret emelés előtti értékének 20%-a és négyszázötvenezer forint közül az alacsonyabb összeget,
+ja)[^12] a hitelkeret emelésének mértéke alkalmanként nem haladja meg a hitelkeret emelés előtti értékének 20%-a és ötszázötvenezer forint közül az alacsonyabb összeget,
 
 jb) az 5. § (1) bekezdésében meghatározott mutató – a hitelnyújtó számára rendelkezésre álló, az ügyfél által fizetendő aktuális havi törlesztőrészletre vonatkozó információk és a hitelnyújtó által vezetett fizetési számlára érkező igazolt havi nettó jövedelem alapján – nem haladja meg a 6. § (2) bekezdés a)–c) pontja szerinti értéket, és az ügyfél a hitelkeret-emeléshez történő hozzájáruló vagy azt kezdeményező nyilatkozatában engedélyezte a hitelnyújtónak a havi adósságszolgálatra vonatkozó adatok lekérdezését azon hitelinformációs rendszerből, amelyhez a hitelnyújtó csatlakozott vagy amelynek tagja, és
 
@@ -112,12 +112,12 @@ b) a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori �
 [^4]: Az 1. § (2) bekezdés b) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés c) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (2) bekezdés d) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (3) bekezdés a) pontja a 8/2016. (IV. 6.) MNB rendelet 1. § (2) bekezdésével megállapított, az 51/2021. (XI. 16.) MNB rendelet 4. § a) pontja, a 20/2023. (V. 11.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (3) bekezdés a) pontja a 8/2016. (IV. 6.) MNB rendelet 1. § (2) bekezdésével megállapított, az 51/2021. (XI. 16.) MNB rendelet 4. § a) pontja, a 28/2025. (IX. 1.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (3) bekezdés b) pont nyitó szövegrésze a 29/2018. (VIII. 21.) MNB rendelet 6. § c) pontja, az 51/2021. (XI. 16.) MNB rendelet 4. § b) pontja szerint módosított szöveg.
 [^9]: Az 1. § (3) bekezdés c) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § d) pontja szerint módosított szöveg.
 [^10]: Az 1. § (3) bekezdés i) pontja az 51/2021. (XI. 16.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (3) bekezdés j) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be, szövege az 51/2021. (XI. 16.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: Az 1. § (3) bekezdés j) pont ja) alpontja a 20/2023. (V. 11.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § (3) bekezdés j) pont ja) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. § (3) bekezdés k) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
 [^14]: Az 1. § (3) bekezdés l) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be, a 20/2023. (V. 11.) MNB rendelet 3. § a) pontja hatályon kívül helyezte.
 [^15]: Az 1. § (3) bekezdés m) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (2) bekezdése iktatta be.
