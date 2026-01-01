@@ -1,7 +1,3 @@
-## egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint.
+1. melléklet az 1625/2022. (XII. 14.) Korm. határozathoz[^2]
 
-| Felelős: | pénzügyminiszter Miniszterelnökséget vezető miniszter agrárminiszter |
-
-| Határidő: | azonnal |
-
-1. melléklet az 1625/2022. (XII. 14.) Korm. határozathoz
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
