@@ -13,5 +13,5 @@
 [^168]: Az Ávr. 41. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
 [^169]: Az Ávr. 41. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 6. pontja, a 89/2016. (IV. 29.) Korm. rendelet 4. § 2. pontja, az 560/2023. (XII. 14.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
 [^170]: Az Ávr. 41. § (1a) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^171]: Az Ávr. 41. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 3. pontja, a 104/2025. (V. 14.) Korm. rendelet 3. § 1. pontja, a 394/2025. (XII. 11.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^171]: Az Ávr. 41. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 3. pontja, a 104/2025. (V. 14.) Korm. rendelet 3. § 1. pontja, a 394/2025. (XII. 11.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg. [A 104/2025. (V. 14.) Korm. rendelet 5. § 1. pontjával elrendelt módosítás, amely szerint hatályát veszti a 41. § (4) bekezdésében az „és (3b) bekezdése szerinti” szövegrész, nem vezethető át.]
 [^172]: Az Ávr. 41. § (5) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.

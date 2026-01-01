@@ -6,7 +6,7 @@
 
 a) a helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv által az Igazgatóság részére engedményezett forgótőke,
 
-b)[^667] a szolidaritási hozzájárulás,
+b)[^667]
 
 c)[^668] az Áht. 39/A. § (5) bekezdése, 105/B. § (1) bekezdése, 108. § (3) bekezdése és 108/B. § (2) bekezdése szerinti bírság,
 
@@ -45,7 +45,7 @@ e)[^682]
 (10)[^685] A forgótőke tárgyhavi visszapótlására csak addig a mértékig kerülhet sor, ameddig arra a helyi önkormányzatot, továbbá az Egészségbiztosítási Alapból nettó módon finanszírozott helyi önkormányzati költségvetési szervet megillető, a nettó finanszírozásnál figyelembe vett támogatások (3) bekezdés szerinti levonásokkal – ide nem értve az engedményezett forgótőkét – csökkentett összege fedezetet nyújt.
 
 [^666]: Az Ávr. 140. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^667]: Az Ávr. 140. § (2) bekezdés b) pontja a 499/2016. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^667]: Az Ávr. 140. § (2) bekezdés b) pontját a 441/2025. (XII. 23.) Korm. rendelet 31. § 1. pontja hatályon kívül helyezte.
 [^668]: Az Ávr. 140. § (2) bekezdés c) pontja a 210/2025. (VII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^669]: Az Ávr. 140. § (2) bekezdés d) pontja a 210/2025. (VII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^670]: Az Ávr. 140. § (2) bekezdés e) pontját a 210/2025. (VII. 17.) Korm. rendelet 4. §-a iktatta be.
