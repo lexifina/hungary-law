@@ -1,1 +1,3 @@
-### 2. §
+2. § A Rendőrségről szóló 1994. évi XXXIV. törvény „A rendőrségi adatkezelés és adatfeldolgozás általános szabályai” alcíme a következő 80/C. §-sal egészül ki:
+
+„80/C. § Az általános rendőrségi feladatok ellátására létrehozott szerv a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (39) bekezdése szerint átadott adatokat az ott megjelölt céltól eltérő célra nem használhatja fel és harmadik fél részére kizárólag a rendőrség ezen tevékenységéhez kapcsolódó alkalmazásfejlesztési feladatokhoz kapcsolódóan adhatja át, a feladatok ellátásának támogatása érdekében.”

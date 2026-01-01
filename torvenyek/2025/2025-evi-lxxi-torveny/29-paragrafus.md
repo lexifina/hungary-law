@@ -1,1 +1,3 @@
-### 29. §
+29. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 379. §-sal egészül ki:
+
+„379. § A rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 319/R. § hatálybalépésekor a terrorizmust elhárító szervnek a személyi állományába tartozó, a 319/R. § (4) bekezdésében meghatározott tagja a 319/R. § hatálybalépését követő hatvan napon belül nyilatkozik, hogy vállalja-e a 319/R. § (5) bekezdés b) pontja szerinti poligráfos vizsgálaton való részvétel lehetőségét. Aki a határidőn belül nem tesz nyilatkozatot vagy nemleges nyilatkozatot tesz, annak a szolgálati beosztását, munkakörét úgy kell módosítani, hogy a 319/R. § (4) bekezdése szerinti feladatkört a továbbiakban nem láthat el.”

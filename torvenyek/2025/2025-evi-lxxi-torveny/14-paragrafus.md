@@ -1,1 +1,1 @@
-### 14. §
+14. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 14. § (1a) bekezdésében a „kezdeményező a bíróság” szövegrész helyébe a „kezdeményező a bántalmazott mellett kérelmezőnek minősül és a bíróság” szöveg lép.

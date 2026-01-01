@@ -1,1 +1,1 @@
-### 36. §
+36. § A kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény 19. § (1) bekezdésében a „céljából,” szövegrész helyébe a „céljából – az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank tájékoztatás céljából –,” szöveg lép.
