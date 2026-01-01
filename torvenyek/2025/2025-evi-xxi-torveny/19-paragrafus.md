@@ -2,13 +2,13 @@
 
 1.
 
-2.
+2. 33. § (3c) bekezdésében az „A (3a) és a (3b) bekezdés szerinti előirányzat-átcsoportosítás esetén az ugyanazon” szövegrész helyébe az „Az ugyanazon” szöveg
 
 3.
 
 4.
 
-5.
+5. 33. § (4b) bekezdés c) és d) pontjában az „a (3b) bekezdésben meghatározott fejezetek kivételével a (3a) bekezdés” szövegrész helyébe az „a (3a) bekezdés” szöveg,
 
 6.
 
