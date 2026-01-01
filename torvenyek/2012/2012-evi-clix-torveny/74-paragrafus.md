@@ -1,8 +1,8 @@
 ## 46. Nyilvántartások vezetése
 
-74. § (1) A Hatóság a postai szolgáltatókról és az általuk nyújtott szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartásban fel kell tüntetni az egyetemes postai szolgáltató és az általa nyújtott szolgáltatások adatait, valamint az engedélyköteles illetve a bejelentésköteles szolgáltatást nyújtó postai szolgáltatók által az engedélyben vagy a bejelentésben feltüntetett adatokat. A nyilvántartás részét képezik az engedély iránti kérelem vagy a bejelentés mellékletei. A közhiteles nyilvántartásba való betekintés jogát mindenki számára biztosítani kell, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
+74. § (1) A Hatóság a postai szolgáltatókról és az általuk nyújtott szolgáltatásokról nyilvántartást vezet. A nyilvántartásban fel kell tüntetni az egyetemes postai szolgáltató és az általa nyújtott szolgáltatások adatait, valamint az engedélyköteles illetve a bejelentésköteles szolgáltatást nyújtó postai szolgáltatók által az engedélyben vagy a bejelentésben feltüntetett adatokat. A nyilvántartás részét képezik az engedély iránti kérelem vagy a bejelentés mellékletei. A nyilvántartásba való betekintés jogát mindenki számára biztosítani kell, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
-(2) A Hatóság a közhiteles nyilvántartás alapján internetes oldalán közzéteszi és naprakészen tartja a postai szolgáltatók jegyzékét. A jegyzék tartalmazza:
+(2) A Hatóság a nyilvántartás alapján internetes oldalán közzéteszi és naprakészen tartja a postai szolgáltatók jegyzékét. A jegyzék tartalmazza:
 
 a) a postai szolgáltatók nevét (elnevezését),
 
@@ -15,3 +15,5 @@ d) a szolgáltatás nyújtásának földrajzi (közigazgatási) területét,
 e) a szolgáltató által az engedélyben, illetve bejelentésben megjelölt központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám, e-mail és internetes honlap),
 
 f) a jogszabályban meghatározott egyéb adatot.
+
+(3) A postai szolgáltatókról és az általuk nyújtott szolgáltatásokról vezetett nyilvántartás a (2) bekezdés a)–d) pontja szerinti adatok tekintetében közhiteles.
