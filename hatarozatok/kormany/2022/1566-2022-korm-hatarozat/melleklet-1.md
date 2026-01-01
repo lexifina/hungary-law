@@ -1,5 +1,3 @@
-| Felelős: | pénzügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter technológiai és ipari miniszter |
+1. melléklet az 1566/2022. (XI. 24.) Korm. határozathoz[^2]
 
-| Határidő: | azonnal |
-
-1. melléklet az 1566/2022. (XI. 24.) Korm. határozathoz
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
