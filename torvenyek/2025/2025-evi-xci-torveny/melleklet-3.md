@@ -1,1 +1,5 @@
 3. melléklet a 2025. évi XCI. törvényhez
+
+1. A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 10. melléklet 3. pontjában a „SZHtárgyév/i = tárgyévi szolidaritási hozzájárulás tárgyhónapig teljesítendő összege,” szöveg a „SZHtárgyév/i = 3. hónapban a tárgyévi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévi szolidaritási hozzájárulás összegének 100%-a,” szöveggel lép hatályba.
+
+2. A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 10. melléklet 3. pontjában a „SZHelőző év/i = tárgyévet megelőző évi szolidaritási hozzájárulás tárgyévet megelőző év tárgyhónappal azonos hónapjáig teljesített összege,” szöveg a „SZHelőző év/i = 3. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 30%-a, 9. hónapban a tárgyévet megelőző évi hozzájárulás összegének 90%-a, 12. hónapban a tárgyévet megelőző évi szolidaritási hozzájárulás összegének 100%-a,” szöveggel lép hatályba.

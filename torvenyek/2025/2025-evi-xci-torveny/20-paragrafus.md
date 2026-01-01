@@ -1,1 +1,1 @@
-### 20. §
+20. § A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 43. § (6) bekezdésében az „a (4) és (5) bekezdés” szövegrészek helyett az „az (5) bekezdés” szöveggel lép hatályba.
