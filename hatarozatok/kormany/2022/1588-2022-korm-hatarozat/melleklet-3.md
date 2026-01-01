@@ -1,5 +1,3 @@
-## 2X08157.pdf
+3. melléklet az 1588/2022. (XI. 30.) Korm. határozathoz[^11]
 
-3. melléklet az 1588/2022. (XI. 30.) Korm. határozathoz
-
-2X08160.pdf
+[^11]: A 3. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

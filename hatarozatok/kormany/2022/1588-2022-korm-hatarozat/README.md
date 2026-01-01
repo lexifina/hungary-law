@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1588-30
 | --- | --- | --- |
 | 2022-11-30 | 2022-1588-30-22.1 | 1588/2022. (XI. 30.) Korm. határozat |
 | 2022-12-01 | 2022-1588-30-22.2 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2022-1588-30-22.3 | 2011: CXCV. törvény |

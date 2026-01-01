@@ -1,32 +1,14 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## a)[^1]
 
-## aa) XIII. Honvédelmi Minisztérium fejezet, 9. Központi kezelésű előirányzatok címének az 1. A HM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímmel, ezen belül az 1. A HM tulajdonosi joggyakorlásával kapcsolatos kiadások jogcímcsoporttal, ezen belül az 1. A HM tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai jogcímmel és
+## b)[^2]
 
-## ab) XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcímnek a 2. Víziközmű-szolgáltató társaságok integrációjának támogatása jogcímcsoporttal
-
-## történő kiegészítését;
-
-## b) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 2 196 747 610 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
-
-## c) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 153 368 872 741 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaság-újraindítási programok jogcímcsoport (a továbbiakban: GÚP előirányzat) terhére, a 2. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+## c)[^3]
 
 ## d) a Magyarország 2022. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 814/2021. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) 8. § (3) bekezdése alapján jóváhagyja a GÚP előirányzatnak a c) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 153 368 872 741 forinttal történő túlteljesülését;
 
-## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 368 998 793 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása cím terhére, a 3. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+## e)[^4]
 
 ## f) a Korm. rendelet 8/A. § (7) bekezdése alapján jóváhagyja a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása címnek az e) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 368 998 793 forinttal történő túlteljesülését;
 
@@ -36,17 +18,22 @@
 
 | Határidő: | azonnal |
 
-## 2.[^1]
+## 2.[^5]
 
-## 3.[^2]
+## 3.[^6]
 
-## 4.[^3]
+## 4.[^7]
 
-## 5.[^4]
+## 5.[^8]
 
-1. melléklet az 1588/2022. (XI. 30.) Korm. határozathoz
+1. melléklet az 1588/2022. (XI. 30.) Korm. határozathoz[^9]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
