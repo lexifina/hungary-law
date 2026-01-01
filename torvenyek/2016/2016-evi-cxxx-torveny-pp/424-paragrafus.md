@@ -6,6 +6,10 @@
 
 (3) Ha a határozat az ügy érdemére kiható módon jogszabálysértő, illetve jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától a Kúria a határozatot egészben vagy részben hatályon kívül helyezi, és a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
 
+(3a) Ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta, és a Kúria azt állapítja meg, hogy ez a határozat az ügy érdemére kiható módon jogszabálysértő, a Kúria a határozatot részben vagy egészben hatályon kívül helyezi és az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+
+(3b) Ha a felülvizsgálat engedélyezésére olyan ügyben került sor, amelyben törvény kizárja a felülvizsgálatot és a Kúria megállapítja, hogy a határozat az ügy érdemére kiható módon jogszabálysértő, illetve jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától, de a jogszabálysértés a jogviszony természete vagy a beállt joghatások jellege miatt nem orvosolható, a Kúria kizárólag a jogsértés tényét állapítja meg.
+
 (4) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült perköltség és a meg nem fizetett illeték, illetve az állam által előlegezett költség összegét állapítja meg, azok viselése, illetve megfizetése kérdésében az új határozatot hozó bíróság dönt.
 
 (5) Ha a Kúria a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajthatóság vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.

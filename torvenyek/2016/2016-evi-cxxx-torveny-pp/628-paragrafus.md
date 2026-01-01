@@ -36,4 +36,6 @@ m) – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – 
 
 n) az eljárás anyagát rögzítő felvétel hitelesítésére, megtekintésére, illetve meghallgatására, az arról történő másolat készítésére és kiadására, valamint a felvétel tárolására, őrzésére és törlésére
 
+o) a polgári per tárgyalásán online hallgatóságként történő részvételre
+
 vonatkozó részletes szabályokat rendeletben állapítsa meg.

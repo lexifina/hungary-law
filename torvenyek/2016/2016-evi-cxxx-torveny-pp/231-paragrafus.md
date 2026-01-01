@@ -6,4 +6,6 @@
 
 (2) A bíróság hivatalból vagy a fél indokolt kérelmére az egész tárgyalásról vagy annak egy részéről a nyilvánosságot kizárja, ha az minősített adat védelmében, üzleti titok vagy törvényben meghatározott más titok megőrzése, a közerkölcs védelmében, kiskorú védelmében vagy a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a tárgyalásnak a tanúmeghallgatással érintett részéről a nyilvánosságot különösen indokolt esetben akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el és a zárt tárgyaláson történő meghallgatása a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
 
-(3) A bíróság a nyilvánosságot kizáró végzését köteles indokolni.
+(2a) Az eljáró bíróság a hallgatóság azon tagjának tárgyaláson – vagy annak egy részén – történő részvételét kizárhatja, akinek jelenléte a bizonyítás eredményességének hátrányos befolyásolására valószínűsíthetően alkalmas lehet. A bíróság e személyt a tárgyalóteremből kiutasíthatja, illetve kivezettetheti.
+
+(3) A bíróság a nyilvánosságot kizáró vagy korlátozó végzését köteles indokolni.

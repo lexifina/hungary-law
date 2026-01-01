@@ -8,11 +8,11 @@ b) az eljárási illetéket – kivéve a 411. § (3) bekezdésében foglaltakat
 
 c) a felülvizsgálati kérelem elkésett,
 
-d) a felülvizsgálati kérelemnek nincs helye a 407. § alapján,
+d) felülvizsgálatnak nincs helye a 407. § a)−d) pontja alapján,
 
-e) a felülvizsgálati kérelemnek nincs helye a 408. § alapján, és a felülvizsgálati kérelem előterjesztője a felülvizsgálati kérelemmel együtt nem nyújtott be engedélyezés iránti kérelmet,
+e) felülvizsgálatnak nincs helye a 407. § e) vagy f) pontja alapján és a fél nem kéri a felülvizsgálat engedélyezését,
 
-f) a kérelem nem felel meg a törvény által meghatározott követelményeknek, és az ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg, vagy
+f) a felülvizsgálati kérelem nem felel meg a törvény által meghatározott követelményeknek, és az ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg, vagy
 
 g) a kérelmet előterjesztő fél a megadott lakóhelyéről (székhelyéről) nem idézhető, illetve onnan ismeretlen helyre költözött.
 
