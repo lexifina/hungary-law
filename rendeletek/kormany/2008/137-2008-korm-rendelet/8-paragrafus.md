@@ -38,9 +38,33 @@ b) a vizsgázó és a vizsgaközpont között folyamatos informatikai kapcsolat 
 
 c) a vizsgát olyan módon szervezik meg, amely kizárja, hogy a vizsgázó más személy segítségét vagy az adott vizsgán igénybe nem vehető segítséget vegyen igénybe.
 
+(6)[^44] A Hivatal nyilvántartást vezet az akkreditált vizsgaközpontokról, mely tartalmazza az akkreditált vizsgaközpont
+
+a) nevét,
+
+b) székhelyét, telephelyét,
+
+c) elérhetőségét,
+
+d) vezetőjének nevét,
+
+e) azonosítóját,
+
+f) vizsgahelye(i) székhelyét, telephelyét,
+
+g) vizsgahelye(i) vezetőjének nevét,
+
+h) vizsgahelye(i) azonosítóját, valamint
+
+i) akkreditációjáról szóló határozat dátumát és számát.
+
+(7)[^45] A (6) bekezdés szerinti nyilvántartás – a cégnyilvántartásban, illetve az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés d) pontja alapján vezetett nyilvántartásban szereplő adatok kivételével – közhiteles nyilvántartásnak minősül.
+
 [^38]: A 8. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^39]: A 8. § (2) bekezdés b) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^40]: A 8. § (2) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^41]: A 8. § (3) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^42]: A 8. § (4) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 9. §-a iktatta be.
 [^43]: A 8. § (5) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^44]: A 8. § (6) bekezdését a 342/2025. (X. 31.) Korm. rendelet 5. §-a iktatta be.
+[^45]: A 8. § (7) bekezdését a 342/2025. (X. 31.) Korm. rendelet 5. §-a iktatta be.

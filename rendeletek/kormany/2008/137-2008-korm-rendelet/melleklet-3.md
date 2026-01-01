@@ -1,4 +1,4 @@
-3. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^101]
+3. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^106]
 
 Nemzetközi kulturális egyezményekre tekintettel egyenértékű nyelvvizsgák
 
@@ -6,29 +6,29 @@ Nemzetközi kulturális egyezményekre tekintettel egyenértékű nyelvvizsgák
 
 A Cambridge Assessment English nyelvvizsgarendszer
 
-a)[^102] B1 szintű vizsgája általános, egynyelvű, komplex típusú B1 szintű (alapfokú) nyelvvizsgának,
+a)[^107] B1 szintű vizsgája általános, egynyelvű, komplex típusú B1 szintű (alapfokú) nyelvvizsgának,
 
-b)[^103] B2 szintű vizsgája általános, egynyelvű, komplex típusú B2 szintű (középfokú) nyelvvizsgának,
+b)[^108] B2 szintű vizsgája általános, egynyelvű, komplex típusú B2 szintű (középfokú) nyelvvizsgának,
 
-c)[^104] C1 szintű vizsgája általános, egynyelvű, komplex típusú C1 szintű (felsőfokú) nyelvvizsgának,
+c)[^109] C1 szintű vizsgája általános, egynyelvű, komplex típusú C1 szintű (felsőfokú) nyelvvizsgának,
 
-d)[^105] C2 szintű vizsgája általános, egynyelvű, komplex típusú C1 szintű (felsőfokú) nyelvvizsgának
+d)[^110] C2 szintű vizsgája általános, egynyelvű, komplex típusú C1 szintű (felsőfokú) nyelvvizsgának
 
 felel meg.
 
-2.[^106] Német nyelv
+2.[^111] Német nyelv
 
 A Goethe-Institut nyelvvizsgarendszer
 
-a)[^107] Goethe-Zertifikat B1 vizsgája általános, egynyelvű, komplex típusú, B1 szintű (alapfokú) nyelvvizsgának,
+a)[^112] Goethe-Zertifikat B1 vizsgája általános, egynyelvű, komplex típusú, B1 szintű (alapfokú) nyelvvizsgának,
 
-b)[^108] Goethe-Zertifikat B2 vizsgája általános, egynyelvű, komplex típusú, B2 szintű (középfokú) nyelvvizsgának,
+b)[^113] Goethe-Zertifikat B2 vizsgája általános, egynyelvű, komplex típusú, B2 szintű (középfokú) nyelvvizsgának,
 
-c)[^109] Goethe-Zertifikat C1 vizsgája általános, egynyelvű, komplex típusú, C1 szintű (felsőfokú) nyelvvizsgának
+c)[^114] Goethe-Zertifikat C1 vizsgája általános, egynyelvű, komplex típusú, C1 szintű (felsőfokú) nyelvvizsgának
 
 felel meg.
 
-3.[^110] Francia nyelv
+3.[^115] Francia nyelv
 
 3.1. A Diplôme d’Études en Langue Française nyelvvizsgarendszer
 
@@ -42,13 +42,13 @@ a) DALF C1 és DALF C2 vizsgája általános, egynyelvű, komplex típusú, C1 s
 
 felel meg.
 
-[^101]: A 3. számú mellékletet a 661/2020. (XII. 24.) Korm. rendelet 3. §-a iktatta be.
-[^102]: A 3. számú melléklet 1. pont a) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
-[^103]: A 3. számú melléklet 1. pont b) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
-[^104]: A 3. számú melléklet 1. pont c) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
-[^105]: A 3. számú melléklet 1. pont d) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
-[^106]: A 3. melléklet 2. pontját az 563/2021. (X. 1.) Korm. rendelet 2. §-a iktatta be.
-[^107]: A 3. számú melléklet 2. pont a) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
-[^108]: A 3. számú melléklet 2. pont b) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
-[^109]: A 3. számú melléklet 2. pont c) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
-[^110]: A 3. számú melléklet 3. pontját a 406/2024. (XII. 18.) Korm. rendelet 5. §-a iktatta be.
+[^106]: A 3. számú mellékletet a 661/2020. (XII. 24.) Korm. rendelet 3. §-a iktatta be.
+[^107]: A 3. számú melléklet 1. pont a) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^108]: A 3. számú melléklet 1. pont b) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^109]: A 3. számú melléklet 1. pont c) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^110]: A 3. számú melléklet 1. pont d) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^111]: A 3. melléklet 2. pontját az 563/2021. (X. 1.) Korm. rendelet 2. §-a iktatta be.
+[^112]: A 3. számú melléklet 2. pont a) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^113]: A 3. számú melléklet 2. pont b) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^114]: A 3. számú melléklet 2. pont c) alpontja a 406/2024. (XII. 18.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^115]: A 3. számú melléklet 3. pontját a 406/2024. (XII. 18.) Korm. rendelet 5. §-a iktatta be.

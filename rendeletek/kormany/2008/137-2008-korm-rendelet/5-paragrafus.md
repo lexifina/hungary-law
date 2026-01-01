@@ -10,7 +10,7 @@ c)[^23] elbírálja a vizsgaközpont, a vizsgahelyek, a vizsgarendszer létesít
 
 d)[^24] ellenőrzi a vizsgaközpontok működését.
 
-(2)[^25] A Hivatal dönt az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely a (2a) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)[^25] A Hivatal dönt az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely az oktatási nyilvántartásról szóló törvényben és annak mellékleteiben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2a)[^26] A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tartalmazza:
 
@@ -56,7 +56,7 @@ cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a 
 
 [^23]: Az 5. § (1) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 346/2019. (XII. 23.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
 [^24]: Az 5. § (1) bekezdés d) pontját a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^25]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^25]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § a) pontja, a 342/2025. (X. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^26]: Az 5. § (2a) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^27]: Az 5. § (2a) bekezdés b) pont bd) alpontja a 403/2020. (VIII. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^28]: Az 5. § (2a) bekezdés b) pont bf) alpontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.

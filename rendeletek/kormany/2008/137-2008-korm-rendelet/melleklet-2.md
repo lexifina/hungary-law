@@ -32,9 +32,9 @@
 
 | Szaknyelvi egynyelvű írásbeli | és | Szaknyelvi kétnyelvű szóbeli | Szaknyelvi egynyelvű komplex |
 
-2. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^96]
+2. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^101]
 
-1.[^97] A2 szintű (belépőfokú) nyelvtudást mérő vizsga
+1.[^102] A2 szintű (belépőfokú) nyelvtudást mérő vizsga
 
 1.1. Az A2 szintű nyelvtudást mérő nyelvvizsgán a mindennapi élethelyzetekben, a szakmai tevékenység során előforduló egyszerű, személyes élettérrel kapcsolatos idegen nyelvi kommunikációhoz szükséges idegennyelv-ismeret meglétét kell felmérni.
 
@@ -52,7 +52,7 @@ e) A nyelvhasználó ismeri a célnyelvű beszédközösség legelemibb mindenna
 
 f) Kétnyelvű vizsgák esetén a nyelvhasználó képes összefoglalni a rövid és egyszerű célnyelvi szövegek lényegét magyarul, képes közvetíteni a rövid és egyszerű magyar szövegek kulcsinformációit a célnyelven.
 
-2.[^98] B1 szintű (alapfokú) nyelvtudást mérő vizsga
+2.[^103] B1 szintű (alapfokú) nyelvtudást mérő vizsga
 
 2.1. A B1 szintű nyelvtudást mérő nyelvvizsgán a mindennapi élethelyzetekben, a szakmai tevékenység során előforduló egyszerű, idegen nyelvi kommunikációhoz szükséges idegennyelv-ismeret meglétét kell felmérni.
 
@@ -70,7 +70,7 @@ e) A nyelvhasználó ismeri a célnyelvű beszédközösség legelemibb mindenna
 
 f) Kétnyelvű vizsgák esetén a nyelvhasználó képes egyszerű célnyelvű szövegek magyar nyelvű fordítására vagy magyar szövegek viszonylag pontos, célnyelvű közvetítésére; utóbbi tartalmazhat alaki, nyelvtani, lexikai hibákat, de súlyos információs hibát nem.
 
-3.[^99] B2 szintű (középfokú) nyelvtudást mérő vizsga követelményei
+3.[^104] B2 szintű (középfokú) nyelvtudást mérő vizsga követelményei
 
 3.1. A B2 szintű nyelvtudást mérő nyelvvizsgán a mindennapi élet, a szakmai tevékenység során előforduló, az önálló idegen nyelvi kommunikációhoz szükséges idegennyelv-ismeret meglétét kell felmérni.
 
@@ -88,7 +88,7 @@ e) A nyelvhasználó ismeri a célnyelvű beszédközösség legfontosabb minden
 
 f) Kétnyelvű vizsga esetén a nyelvhasználó közvetíti az összetettebb és elvontabb általános és szakmai szövegeket; magyarra fordításai, tömörítései gyakorlottságról és stílusérzékről tanúskodnak; célnyelvű fordításai, tömörítései, amelyek nyelvtanilag és legtöbbször lexikailag is helyesek, gyakran tartalmazhatnak stilisztikai hibákat, a szokásos kifejezés helyett körülírásokat.
 
-4.[^100] C1 szintű (felsőfokú) nyelvtudást mérő vizsga követelményei
+4.[^105] C1 szintű (felsőfokú) nyelvtudást mérő vizsga követelményei
 
 4.1. A C1 szintű nyelvtudást mérő nyelvvizsgán a mindennapi élethelyzetekben, a szakmai tevékenység során előforduló tetszőleges, és teljes idegen nyelvi kommunikációhoz szükséges biztonságos, a célnyelv teljes eszköztárát általában helyesen alkalmazó idegennyelv-ismeret meglétét kell felmérni.
 
@@ -106,8 +106,8 @@ e) A nyelvhasználó ismeri az irodalmi köznyelvet, felismeri a nem-standard ny
 
 f) Kétnyelvű vizsga esetén a nyelvhasználó az eredeti szöveg információs tartalmát maradéktalanul, stilisztikailag helyesen adja vissza; célnyelvű fordítás, tömörítés készítése esetén a célnyelv nyelvi-kulturális normáinak megfelelően, világos és gördülékeny stílusban közvetít.
 
-[^96]: A 2. számú melléklet a 33/2014. (II. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^97]: A 2. számú melléklet 1. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^98]: A 2. számú melléklet 2. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^99]: A 2. számú melléklet 3. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^100]: A 2. számú melléklet 4. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^101]: A 2. számú melléklet a 33/2014. (II. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^102]: A 2. számú melléklet 1. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^103]: A 2. számú melléklet 2. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^104]: A 2. számú melléklet 3. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^105]: A 2. számú melléklet 4. pontja a 406/2024. (XII. 18.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.

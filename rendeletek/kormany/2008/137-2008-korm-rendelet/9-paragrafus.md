@@ -1,4 +1,4 @@
-9. § (1)[^44] Az akkreditált vizsgarendszer:
+9. § (1)[^46] Az akkreditált vizsgarendszer:
 
 a) legalább három szinten egy, az adott szintre kidolgozott nyelvvizsgával a négy nyelvi alapkészséget méri, és elkülönülten értékeli;
 
@@ -8,10 +8,21 @@ c) az akkreditáció iránti kérelmet benyújtó vizsgaközpont szellemi alkot�
 
 d) értékelési rendszere illeszkedik az alkalmazott mérési eszközökhöz.
 
-(2)[^45] Az akkreditált vizsgarendszer új vizsganyelvvel, vizsgaszinttel bővíthető, egynyelvűvé tehető az Akkreditációs Kézikönyvben meghatározottak szerint.
+(2)[^47] Az akkreditált vizsgarendszer új vizsganyelvvel, vizsgaszinttel bővíthető, egynyelvűvé tehető az Akkreditációs Kézikönyvben meghatározottak szerint.
 
-(3)[^46] Ha a vizsgaközpont a vizsgarendszer bármely elemét meg kívánja változtatni, erre irányuló kérelmet nyújt be. Ha a Hivatal a rá irányadó ügyintézési határidőn belül nem hoz döntést, az ügyfelet megilleti a kérelmezett jog gyakorlása.
+(3)[^48] Ha a vizsgaközpont a vizsgarendszer bármely elemét meg kívánja változtatni, erre irányuló kérelmet nyújt be. Ha a Hivatal a rá irányadó ügyintézési határidőn belül nem hoz döntést, az ügyfelet megilleti a kérelmezett jog gyakorlása.
 
-[^44]: A 9. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^45]: A 9. § (2) bekezdése a 346/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^46]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 622. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+(4)[^49] Közhiteles adat a nyilvántartott akkreditált vizsgarendszer
+
+a) neve,
+
+b) akkreditációjának dátuma és száma,
+
+c) vizsgaformátuma, valamint
+
+d) vizsganyelvei.
+
+[^46]: A 9. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^47]: A 9. § (2) bekezdése a 346/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^48]: A 9. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 622. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^49]: A 9. § (4) bekezdését a 342/2025. (X. 31.) Korm. rendelet 6. §-a iktatta be.
