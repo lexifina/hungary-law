@@ -8,7 +8,7 @@ lehet a kölcsönkérelem benyújtásával kezdeményezni a hitelintézetnél.
 
 (2) A kölcsönkérelem benyújtásának napja az a nap, amikor az igénylők a kölcsönkérelmet és a kapcsolódó dokumentumokat benyújtják a hitelintézet részére. A hitelintézet a kölcsönkérelem benyújtásáról és az ahhoz csatolt dokumentumokról igazolást ad az igénylőknek, amelyben tájékoztatja őket az elbírálás (3) bekezdés szerinti időtartamáról és a (4) bekezdésben foglaltakról. A kölcsönkérelem benyújtásának minősül az is, ha a kölcsönkérelmet és az ahhoz csatolt dokumentumokat a hitelintézet függő közvetítője vette át. Ez esetben az elbírálás várható időtartamáról a függő közvetítő ad írásbeli tájékoztatást.
 
-(3)[^28] A hitelintézet a kölcsönkérelmet
+(3)[^29] A hitelintézet a kölcsönkérelmet
 
 a) otthon vásárlása esetén a kölcsönkérelem benyújtása napját követő 30 napon belül,
 
@@ -20,4 +20,4 @@ bírálja el – bele nem számítva az ügyfél részére szükség esetén biz
 
 (5) Ha az igénylő az otthon vásárlását vagy építését a saját erőn és a kölcsönön felül kamattámogatással nem érintett hitelintézeti kölcsön igénybevételével valósítja meg, akkor az e rendelet szerinti kölcsön kizárólag a kamattámogatással nem érintett kölcsönnel egyidejűleg vagy azt követően folyósítható. Ha a kamattámogatott és a kamattámogatással nem érintett kölcsönt két hitelintézet folyósítja, akkor az e rendelet szerinti hitel folyósítása a kamattámogatással nem érintett hitelt folyósító hitelintézet által a folyósítás megtörténtéről szóló igazolását követően lehetséges.
 
-[^28]: A 14. § (3) bekezdés záró szövegrésze a 332/2025. (X. 30.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^29]: A 14. § (3) bekezdés záró szövegrésze a 332/2025. (X. 30.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.

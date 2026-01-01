@@ -10,7 +10,7 @@ b) építőközösség esetén a használatbavételi engedély, a használatbav�
 
 hitelintézet részére történő bemutatását követően kerülhet sor azzal a feltétellel, hogy a hitelintézet a lakhatási igények kielégítésére alkalmasnak találta.
 
-(2a)[^30] A (2) bekezdés a) pontjában és a (3) bekezdésben foglaltaktól eltérően – az igénylő hitelintézethez intézett kérelme és megfelelő pótfedezet bevonása esetén – a készültségi fok eléréséhez a kölcsön összege előzetesen is folyósítható, azzal, hogy a kölcsön első részleteként folyósított összeg nem haladhatja meg a kölcsön összegének 30 százalékát.
+(2a)[^31] A (2) bekezdés a) pontjában és a (3) bekezdésben foglaltaktól eltérően – az igénylő hitelintézethez intézett kérelme és megfelelő pótfedezet bevonása esetén – a készültségi fok eléréséhez a kölcsön összege előzetesen is folyósítható, azzal, hogy a kölcsön első részleteként folyósított összeg nem haladhatja meg a kölcsön összegének 30 százalékát.
 
 (3) Az e rendelet szerinti hitelprogram keretében a folyósítás akkor kezdhető meg, ha a támogatott személy a kamattámogatással nem érintett hitelintézeti kölcsönön kívül saját erejét az otthon vásárlására vagy építésére már felhasználta.
 
@@ -18,4 +18,4 @@ hitelintézet részére történő bemutatását követően kerülhet sor azzal 
 
 (5) A hitelintézet az otthon építésére kötött szerződések összessége tekintetében a 8. § (2) bekezdés e) pont ec) és ed) alpontja szerinti számlák 15%-át ellenőrzi, amely ellenőrzés időben és földrajzilag is arányosan megosztott.
 
-[^30]: A 19. § (2a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 12. §-a iktatta be.
+[^31]: A 19. § (2a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 12. §-a iktatta be.
