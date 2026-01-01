@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-4-20-8X
 | --- | --- | --- |
 | 2023-02-24 | 2023-4-20-8X.1 | 4/2023. (II. 23.) ÉKM rendelet |
 | 2025-07-01 | 2023-4-20-8X.2 | 19/2025. (VI. 27.) ÉKM rendelet |
+| 2026-01-01 | 2023-4-20-8X.3 | 47/2025. (XII. 29.) ÉKM rendelet |
