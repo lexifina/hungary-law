@@ -1,4 +1,4 @@
-42/D. §[^101] (1) A 42/C. § (1) bekezdése szerinti képzési irányokhoz kapcsolódóan a kormányhivatal összeállítja és nyilvánosságra hozza a képző intézmények azon képzéseinek a vármegyei szintű jegyzékét, amelyek a (2) bekezdésben foglaltaknak megfelelnek, és amelyekhez a 42/B. § (1) bekezdése szerinti támogatás nyújtható. A kormányhivatal a 42/C. § (1) bekezdése szerinti képzési irányok nyilvánosságra hozatalával egyidejűleg felhívásban közzéteszi a jegyzékre vétel kezdeményezésének határidejét, a képzési költségnormákat, valamint azt a szempontrendszert, amely alapján a képző intézmény kezdeményezheti a képzésének jegyzékre vételét.
+42/D. §[^102] (1) A 42/C. § (1) bekezdése szerinti képzési irányokhoz kapcsolódóan a kormányhivatal összeállítja és nyilvánosságra hozza a képző intézmények azon képzéseinek a vármegyei szintű jegyzékét, amelyek a (2) bekezdésben foglaltaknak megfelelnek, és amelyekhez a 42/B. § (1) bekezdése szerinti támogatás nyújtható. A kormányhivatal a 42/C. § (1) bekezdése szerinti képzési irányok nyilvánosságra hozatalával egyidejűleg felhívásban közzéteszi a jegyzékre vétel kezdeményezésének határidejét, a képzési költségnormákat, valamint azt a szempontrendszert, amely alapján a képző intézmény kezdeményezheti a képzésének jegyzékre vételét.
 
 (2) A kormányhivatal – a (3) bekezdésben meghatározott szempontok figyelembevételével – a jegyzékre olyan képzést vehet fel, amely a kormányhivatalok által a képzési irányok nyilvánosságra hozatalával egyidejűleg közzétett szempontrendszernek megfelel, amely képzés az Fktv. vagy az Szktv. hatálya alá tartozik, és amely esetében a képző intézmény – amennyiben szükséges, úgy –
 
@@ -20,4 +20,4 @@ f) vállalja a 42/E. §-ban meghatározott együttműködési megállapodás meg
 
 (5) A miniszter a kormányhivatal által összeállított jegyzéket ellenőrzési tervben meghatározottak szerint ellenőrizheti.
 
-[^101]: A 42/D. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.
+[^102]: A 42/D. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.

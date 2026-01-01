@@ -1,4 +1,4 @@
-1. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^113]
+1. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^114]
 
 A szolgáltatásnyújtás személyi feltételei
 
@@ -26,4 +26,4 @@ e) Pedagógusképzés
 
 f) Társadalomtudományi
 
-[^113]: Az 1. melléklet a 687/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^114]: Az 1. melléklet a 687/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.

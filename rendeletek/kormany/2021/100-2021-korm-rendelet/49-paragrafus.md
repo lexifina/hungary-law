@@ -1,5 +1,5 @@
 ## 25. Hatályukat vesztő rendelkezések
 
-49. §[^112]
+49. §[^113]
 
-[^112]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

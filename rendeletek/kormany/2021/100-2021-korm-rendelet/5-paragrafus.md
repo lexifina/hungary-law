@@ -42,11 +42,11 @@ b)[^9] munkahelyhez jutásához várhatóan szükséges és célszerű az állam
 
 (6)[^10] Az állami foglalkoztatási szerv biztosítja, hogy az álláskeresőnek naprakész információja legyen az egyéni cselekvési terv tartalmáról. Amennyiben kötelező együttműködési elemet ír elő az állami foglalkoztatási szerv az egyéni cselekvési tervben, az álláskereső erről szóló tájékoztatását igazolnia kell elektronikusan vagy személyes átvétellel.
 
-(7)[^11] Az egyéni cselekvési tervben foglaltak teljesülését az állami foglalkoztatási szerv az egyéni cselekvési tervben meghatározott időpontban – legalább három havonta – a szolgáltatást kérővel közösen értékeli. Az egyéni cselekvési tervet az abban foglaltak teljesítésével kapcsolatos értékelést követően, a szolgáltatást kérő jelenlétében lehet felülvizsgálni és módosítani.
+(7)[^11] Az egyéni cselekvési tervben foglaltak teljesülését az állami foglalkoztatási szerv az egyéni cselekvési tervben meghatározott időpontban – legalább hathavonta – a szolgáltatást kérővel közösen értékeli. Az egyéni cselekvési tervet az abban foglaltak teljesítésével kapcsolatos értékelést követően, a szolgáltatást kérő jelenlétében lehet felülvizsgálni és módosítani. A szolgáltatást kérő a cselekvési terv átvételétől vagy a korábbi felülvizsgálattól számított 3 hónap elteltével kérheti a cselekvési terv felülvizsgálatát.
 
 [^6]: Az 5. § (1) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 5. § (2) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 5. § (3) bekezdés a) pontja a 687/2023. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (5) bekezdés b) pontja a 687/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (6) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^11]: Az 5. § (7) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^11]: Az 5. § (7) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be, szövege a 395/2025. (XII. 16.) Korm. rendelet 41. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 39. § (1) Az állami foglalkoztatási szerv a munkaerőpiaci programban meghatározottak szerint, a foglalkoztatásra irányuló jogviszony ideje alatt, legfeljebb egy évi időtartamra utazási támogatást nyújthat a foglalkoztatónak, annak a foglalkoztatotti létszámnak az erejéig, mely megegyezik azon álláskeresők számával, akikkel a foglalkoztató a kérelem benyújtását megelőző három hónapban az Flt. szerinti munkaviszonyt létesített, ha
 
-a)[^93] a foglalkoztatottjának a lakóhelyétől eltérő településen található a munkavégzés helye, és
+a)[^94] a foglalkoztatottjának a lakóhelyétől eltérő településen található a munkavégzés helye, és
 
 b) a munkába járás biztosításáról a foglalkoztató gondoskodik.
 
@@ -8,4 +8,4 @@ b) a munkába járás biztosításáról a foglalkoztató gondoskodik.
 
 (3) Vissza kell követelni a támogatást a foglalkoztatótól, ha a kérelem benyújtásakori statisztikai állományi létszámot a támogatás ideje alatt nem tartja fenn.
 
-[^93]: A 39. § (1) bekezdés a) pontja a 297/2024. (X. 14.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^94]: A 39. § (1) bekezdés a) pontja a 297/2024. (X. 14.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-42/G. §[^104] (1) A közfoglalkoztatottaknak nyújtott képzések esetén a közfoglalkoztatásért felelős miniszter az általa meghatározott szempontok alapján nyilvánosságra hozza a képzési irányokat, amelyekhez tartozó képzésben történő részvételhez az állami foglalkoztatási szervként eljáró kormányhivatal támogatást nyújthat.
+42/G. §[^105] (1) A közfoglalkoztatottaknak nyújtott képzések esetén a közfoglalkoztatásért felelős miniszter az általa meghatározott szempontok alapján nyilvánosságra hozza a képzési irányokat, amelyekhez tartozó képzésben történő részvételhez az állami foglalkoztatási szervként eljáró kormányhivatal támogatást nyújthat.
 
 (2) A közfoglalkoztatásért felelős miniszter az (1) bekezdés szerinti képzési irányok nyilvánosságra hozatalával egyidejűleg felhívásban közzéteszi a jegyzékre vétel kezdeményezésének határidejét, a képzési költségnormákat, valamint azt a szempontrendszert, amely alapján a képző intézmény kezdeményezheti a képzésének jegyzékre vételét.
 
@@ -24,4 +24,4 @@ h) vállalja, hogy a képzésről tájékoztató anyagot biztosít a kormányhiv
 
 (5) A közfoglalkoztatásért felelős miniszter a (3) és (4) bekezdésben meghatározott jegyzék összeállítása során a 42/D. § (3) bekezdésében meghatározottakat alkalmazza.
 
-[^104]: A 42/G. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.
+[^105]: A 42/G. §-t a 297/2024. (X. 14.) Korm. rendelet 22. §-a iktatta be.
