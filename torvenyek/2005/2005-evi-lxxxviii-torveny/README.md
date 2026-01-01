@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2021-05-28 | 2021. évi LIII. törvény | 2005-88-00-00.26 |
 | 2024-01-01 | 2023. évi XC. törvény | 2005-88-00-00.27 |
 | 2025-10-28 | 2024. évi XCI. törvény | 2005-88-00-00.30 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2005-88-00-00.29 |
