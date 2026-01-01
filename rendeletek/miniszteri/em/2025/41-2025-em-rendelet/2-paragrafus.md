@@ -1,3 +1,3 @@
-2. § A 18/2025. (VII. 31.) EM rendelet a következő 4. §-sal egészül ki:
+2. §[^3]
 
-„4. § Az egyes építési kulcstermékek elérhetőségét az energiapolitikáért felelős miniszter az általa vezetett minisztérium honlapján első alkalommal 2026. január 1-jéig teszi közzé.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
