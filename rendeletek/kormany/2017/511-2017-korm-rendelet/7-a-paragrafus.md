@@ -96,9 +96,11 @@ c) a legutóbbi továbbképzés időpontját,
 
 d) a vizsgabiztosi tevékenység felfüggesztéséről, az engedély visszavonásáról rendelkező határozat számát, keltét, a felfüggesztés időtartamát.
 
+(5a)[^18] A Nyilvántartás az (5) bekezdés c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
 (6) Az (5) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
-(7)[^18] A közlekedési hatóság visszavonja – az f)–h) pont esetén közigazgatási szankcióként – az engedélyt, és törli a vizsgabiztost a Nyilvántartásból, ha
+(7)[^19] A közlekedési hatóság visszavonja – az f)–h) pont esetén közigazgatási szankcióként – az engedélyt, és törli a vizsgabiztost a Nyilvántartásból, ha
 
 a) azt a vizsgabiztos kéri,
 
@@ -114,15 +116,15 @@ f) a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendel
 
 g) a vizsgálat során a mérőműszereket illetéktelenül befolyásolta, vagy szándékosan valótlan adatot rögzített.
 
-h)[^19] műszaki vizsgabiztosi tevékenységét a „B” kategóriára érvényes vezetési jogosultságtól való eltiltás ellenére, azt követően is folytatta.
+h)[^20] műszaki vizsgabiztosi tevékenységét a „B” kategóriára érvényes vezetési jogosultságtól való eltiltás ellenére, azt követően is folytatta.
 
 (8) A közlekedési hatóság eltiltja a vizsgabiztost a tevékenység végzésétől, ha
 
-a)[^20] az e rendeletben vagy a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben foglalt előírásokat megszegte,
+a)[^21] az e rendeletben vagy a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben foglalt előírásokat megszegte,
 
 b) a (6) bekezdésben előírt bejelentési kötelezettség teljesítését elmulasztotta.
 
-(9)[^21] Az eltiltás időtartama
+(9)[^22] Az eltiltás időtartama
 
 a) a (8) bekezdés a) pontjában meghatározott esetben legfeljebb hat hónapig,
 
@@ -138,7 +140,8 @@ tart.
 [^15]: A 7/A. § (2d) bekezdését a 168/2025. (VI. 26.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^16]: A 7/A. § (3) bekezdése a 168/2025. (VI. 26.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^17]: A 7/A. § (5) bekezdés b) pontja a 168/2025. (VI. 26.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^18]: A 7/A. § (7) bekezdés nyitó szövegrésze a 168/2025. (VI. 26.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^19]: A 7/A. § (7) bekezdés h) pontját a 168/2025. (VI. 26.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^20]: A 7/A. § (8) bekezdés a) pontja a 168/2025. (VI. 26.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^21]: A 7/A. § (9) bekezdése a 168/2025. (VI. 26.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^18]: A 7/A. § (5a) bekezdését a 342/2025. (X. 31.) Korm. rendelet 43. § (1) bekezdése iktatta be.
+[^19]: A 7/A. § (7) bekezdés nyitó szövegrésze a 168/2025. (VI. 26.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^20]: A 7/A. § (7) bekezdés h) pontját a 168/2025. (VI. 26.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^21]: A 7/A. § (8) bekezdés a) pontja a 168/2025. (VI. 26.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^22]: A 7/A. § (9) bekezdése a 168/2025. (VI. 26.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.

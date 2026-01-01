@@ -1,6 +1,6 @@
-## 7/C. §[^24] Ha a közlekedési hatóság a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben foglalt rendelkezések megszegését megállapítja, megtiltja az adott szolgáltatási tevékenység folytatását az arra való jogosultság igazolásáig.
+## 7/C. §[^25] Ha a közlekedési hatóság a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben foglalt rendelkezések megszegését megállapítja, megtiltja az adott szolgáltatási tevékenység folytatását az arra való jogosultság igazolásáig.
 
-7/D. §[^25] A járművek egyedi forgalomba helyezése során az ügyfélnek – előzetes nyilatkozata esetén – elektronikus úton is megküldhető
+7/D. §[^26] A járművek egyedi forgalomba helyezése során az ügyfélnek – előzetes nyilatkozata esetén – elektronikus úton is megküldhető
 
 a) a Műszaki vizsgálati bizonyítvány,
 
@@ -8,5 +8,5 @@ b) a jármű „Műszaki adatlap”, valamint
 
 c) az egyedi forgalomba helyezési engedély.
 
-[^24]: A 7/C. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
-[^25]: A 7/D. §-t az 561/2023. (XII. 14.) Korm. rendelet 47. § (1) bekezdése iktatta be.
+[^25]: A 7/C. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
+[^26]: A 7/D. §-t az 561/2023. (XII. 14.) Korm. rendelet 47. § (1) bekezdése iktatta be.

@@ -8,6 +8,6 @@
 
 (5) A muzeális jellegű jármű műszaki alkalmasságának időbeli hatályát a muzeális minősítő vizsgálat során a forgalomban való részvétel feltételeként meghatározott korlátozások és a jármű fajtához e rendeletben meghatározottak alapulvételével kell megállapítani, de nem haladhatja meg az 5 évet.
 
-(6)[^47] Az első magyarországi forgalomba helyezés során muzeális járműként forgalomba helyezett járműnek a muzeális jelleg megszűnését követő ismételt forgalomba helyezésére a közúti járművek műszaki megvizsgálásról szóló miniszteri rendelet szerinti egyedi forgalomba helyezési eljárás szerint, a járműre az első magyarországi forgalomba helyezésének időpontjában hatályos egyedi forgalomba helyezési feltételek teljesülése esetén kerülhet sor.
+(6)[^49] Az első magyarországi forgalomba helyezés során muzeális járműként forgalomba helyezett járműnek a muzeális jelleg megszűnését követő ismételt forgalomba helyezésére a közúti járművek műszaki megvizsgálásról szóló miniszteri rendelet szerinti egyedi forgalomba helyezési eljárás szerint, a járműre az első magyarországi forgalomba helyezésének időpontjában hatályos egyedi forgalomba helyezési feltételek teljesülése esetén kerülhet sor.
 
-[^47]: A 16/J. § (6) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 53. §-a iktatta be.
+[^49]: A 16/J. § (6) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 53. §-a iktatta be.

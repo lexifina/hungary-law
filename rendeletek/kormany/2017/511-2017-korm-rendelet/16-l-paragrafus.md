@@ -1,4 +1,4 @@
-## 4/B. [^52] Járműforgalmazók engedélyezése
+## 4/B. [^54] Járműforgalmazók engedélyezése
 
 16/L. § (1) Az ÁFE kiadásában történő járműforgalmazói közreműködést a közlekedési hatóság annak a gazdálkodó szervezetnek (a továbbiakban: járműforgalmazó) engedélyezi, amely
 
@@ -28,9 +28,9 @@ a) az engedély kiadásának feltételei már nem állnak fenn, vagy
 
 b) a járműforgalmazó ezt kéri.
 
-(7)[^53]
+(7)[^55]
 
 (8) Az (5) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a járműforgalmazó az adatok javítását a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló miniszteri rendelet szerinti díj megfizetését követően kezdeményezheti.
 
-[^52]: A 4/B. alcímet (16/L. és 16/C. §) a 789/2021. (XII. 27.) Korm. rendelet 69. §-a iktatta be.
-[^53]: A 16/L. § (7) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 55. §-a hatályon kívül helyezte.
+[^54]: A 4/B. alcímet (16/L. és 16/C. §) a 789/2021. (XII. 27.) Korm. rendelet 69. §-a iktatta be.
+[^55]: A 16/L. § (7) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 55. §-a hatályon kívül helyezte.

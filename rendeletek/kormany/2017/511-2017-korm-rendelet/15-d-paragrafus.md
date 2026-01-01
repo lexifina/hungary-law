@@ -1,4 +1,4 @@
-15/D. §[^31] (1) A közlekedési hatóság – az e) és f) pont esetében közigazgatási szankcióként – visszavonja a személyre szóló műhelykártyát, ha
+15/D. §[^33] (1) A közlekedési hatóság – az e) és f) pont esetében közigazgatási szankcióként – visszavonja a személyre szóló műhelykártyát, ha
 
 a) azt a menetíró szerelő kéri,
 
@@ -24,4 +24,4 @@ c) a menetíró készüléket úgy kalibrálja, hogy az a rögzített adatok bef
 
 d) valótlan adatot rögzít.
 
-[^31]: A 15/D. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.
+[^33]: A 15/D. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.
