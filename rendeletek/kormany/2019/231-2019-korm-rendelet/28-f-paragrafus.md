@@ -1,4 +1,4 @@
-28/F. §[^21] (1)[^22] A 28. § (1) bekezdés f) pontja szerinti támogatást – a tárgyév február 28-áig benyújtott kérelem alapján – félévente két egyenlő részletben, a támogatás éve április 30-áig és július 30-áig támogatási előlegként kell kifizetni.
+28/F. §[^23] (1)[^24] A 28. § (1) bekezdés f) pontja szerinti támogatást – a tárgyév február 28-áig benyújtott kérelem alapján – félévente két egyenlő részletben, a támogatás éve április 30-áig és július 30-áig támogatási előlegként kell kifizetni.
 
 (2) A 28. § (1) bekezdés f) pontja szerinti támogatás a külhoni és diaszpórában élő magyarság identitása, valamint kultúrája megőrzésére és fejlesztésére irányuló, hitéleti, közösségszervezési, szemléletformáló, illetve tradíciómegtartó és -ápoló tevékenységre fordítható.
 
@@ -10,5 +10,5 @@
 
 (6) A támogatás rendeltetésszerű felhasználásáról elsősorban a beszámoló alapján kell meggyőződni. A beszámolóban foglaltak alátámasztására a támogató mintavételszerűen a beszámoló által érintett időszakban felmerült, a támogatott tevékenység megvalósításához kapcsolódó költségeket igazoló számviteli és egyéb bizonylatok benyújtását is előírhatja.
 
-[^21]: A 28/F. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^22]: A 28/F. § (1) bekezdése a 15/2025. (II. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^23]: A 28/F. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 28/F. § (1) bekezdése a 15/2025. (II. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

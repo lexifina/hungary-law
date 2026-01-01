@@ -34,9 +34,9 @@
 
 | 17. | Magyarországi Bolgár Ortodox Egyház | 0,0183 |
 
-6. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^31]
+6. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^34]
 
-1. Az egyházi gyűjtemények és kulturális intézmények támogatása előirányzat felhasználásáról szóló beszámoló adattartalma
+1.[^35] Az egyházi gyűjtemények és művelődési intézmények támogatása előirányzat felhasználásáról szóló beszámoló adattartalma
 
 1. A költségvetési támogatásban részesült egyház neve
 
@@ -542,4 +542,5 @@
 
 11. Megvalósított szakmai program részletes kifejtése (országonként bemutatva az elvégzett tevékenységeket, különösen a felújításokat és beruházásokat)
 
-[^31]: A 6. mellékletet az 516/2022. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^34]: A 6. mellékletet az 516/2022. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 6. melléklet 1. alcím címe a 394/2025. (XII. 11.) Korm. rendelet 35. § 4. pontja szerint módosított szöveg.
