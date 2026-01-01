@@ -6,7 +6,7 @@
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
-(1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
+(1d) Ha a 49. § szerinti minősítés iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, vagy ha a döntéshez szükséges előkérdés megválaszolása más szerv hatáskörébe tartozik, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
 (2) Kérelem alapján minősítést (ide nem értve a 49/A. § h) pontja szerinti minősítést) a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
@@ -16,19 +16,13 @@ b) legalább három éven vagy három üzleti éven át jogszabályi kötelezett
 
 c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és rendelkezik a kérelmezett minősítésre előírt szakmai minősítő vizsgával, vagy azzal egyenértékű vizsgával.
 
-(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli:
+(2a)
 
-a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal, vagy
+(2b)
 
-b) legalább egy üzleti évre kiterjedően banknál végzett 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói gyakorlattal, vagy
+(2c)
 
-c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
-
-(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és rendelkezik a (2a) bekezdés szerinti feltételek teljesülésének elismeréséről szóló igazolással.
-
-(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság igazolást állít ki, és az igazolásról szóló döntés véglegessé válásával egyidejűleg értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
-
-(2d) A (2c) bekezdés szerinti igazolás, a kiállításának naptári évét követő naptári év utolsó napjáig jogosít banknál a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálatra vonatkozó megbízás elfogadására.
+(2d)
 
 (2e) Fenntarthatósági minősítést az a kamarai tag könyvvizsgáló kaphat, aki
 
@@ -52,7 +46,7 @@ b) ha a rendelkezésre álló információk alapján megalapozottan feltételezh
 
 (6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről a döntés véglegessé válását követő 30 napon belül értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
 
-(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
+(7) A minősített kamarai tag könyvvizsgálók, könyvvizsgáló cégek 49. § szerinti minősítésének adatait a 33. § (1) bekezdése és a 44. § (1) bekezdése szerinti nyilvántartások tartalmazzák.
 
 (8) A szakmai minősítő vizsga tartalmi követelményeit, az eljárási és az értékelési szabályokat a kamara külön szabályzatban határozza meg. A szakmai minősítő vizsgának legalább részben írásbeli vizsgának kell lennie.
 

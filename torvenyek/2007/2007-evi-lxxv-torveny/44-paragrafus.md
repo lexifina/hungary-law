@@ -32,7 +32,7 @@ o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilv
 
 p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba, valamint annak feltüntetése, hogy az Európai Gazdasági Térség állama illetékes hatóságának nyilvántartása szerint jogosult-e fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására,
 
-q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
+q)
 
 r) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges engedély megadásáról, valamint visszavonásáról szóló hatósági döntések.
 

@@ -30,7 +30,7 @@ n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve
 
 o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgálóként nyilvántartásba vették,
 
-p) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
+p)
 
 q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számviteli törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve,
 

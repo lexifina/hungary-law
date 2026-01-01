@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2025-01-01 | 2023. évi LIX. törvény | 2007-75-00-00.50 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2007-75-00-00.53 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2007-75-00-00.55 |
+| 2026-01-01 | 2025. évi LXXXIII. törvény | 2007-75-00-00.54 |
