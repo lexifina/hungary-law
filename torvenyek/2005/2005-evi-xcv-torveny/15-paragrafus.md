@@ -1,6 +1,6 @@
 ## Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések
 
-15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
+15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. A gyógyszerészeti államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
 
 (2) A kábítószerként, illetve pszichotróp anyagként minősített gyógyszer gyártására, raktározására vonatkozó, illetve az e termékekkel történő nagykereskedelem szakmai szabályait, továbbá az e tevékenység végzésére jogosultak nyilvántartási és adatszolgáltatási kötelezettségét, valamint e termékek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét külön jogszabály állapítja meg.
 
@@ -16,27 +16,17 @@
 
 (8) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy a külön jogszabályban meghatározott hatóság részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
-(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről nyilvántartást vezet, amely a (10) bekezdés b)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(9) A gyógyszerészeti államigazgatási szerv nyilvántartásokat vezet
 
-(10) A (9) bekezdés szerinti nyilvántartás tartalmazza a gazdálkodó szervezet:
+a) a tevékenységi engedéllyel rendelkező,
 
-a) nevét,
+b) az ellenőrzött anyagok szállítmányozását végző és
 
-b) székhelyét,
+c) a tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző
 
-c) telephelyeit,
+gazdálkodó szervezetekről.
 
-d) engedélyének számát és érvényességi idejét,
-
-e) tevékenységének jellegét,
-
-f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó szervezet esetén a bírósági nyilvántartásba-vételi számát, vagy költségvetési szerv esetén a törzskönyvi számát.
-
-g) kábítószer felelősének nevét.
-
-(11) A tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző gazdálkodó szervezetekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
-
-(12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
+(10) A (9) bekezdés szerinti nyilvántartások tartalmazzák
 
 a) a gazdálkodó szervezet
 
@@ -46,44 +36,64 @@ ab) székhelyét,
 
 ac) telephelyeit,
 
-b) a hatósági bizonyítvány számát,
+ad) fióktelepeit,
 
-c) a tevékenység jellegének és helyének pontos megjelölését,
+ae) cégjegyzékszámát, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát;
 
-d) a kábítószerért felelős személy megnevezését,
+b) a kábítószer-felelős vagy kábítószerért felelős személy
 
-e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát,
+ba) nevét,
 
-f) a tevékenységgel érintett ellenőrzött anyag nevét,
+bb) beosztását,
 
-g) a tárolóhely és a tárolási rend rövid leírását,
+bc) elektronikus elérhetőségét;
 
-h) a biztonsági berendezések, intézkedések leírását,
+c) a tevékenység végzésének helyét;
 
-i) a gazdálkodó szervezettel szerződésben álló tevékenységi engedéllyel rendelkező nevét,
+d) a tevékenység jellegének leírását.
 
-j) alvállalkozó nevét.
+(11) A (9) bekezdés a) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
 
-(12a) A (12) bekezdés j) pontja értelmében alvállalkozónak minősül az a természetes személy, aki a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termeszt.
+a) a tevékenységi engedély számát és
 
-(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+b) a tevékenységi engedély hatályossági idejét.
 
-(14) Az egészségügyi államigazgatási szerv a kábítószerek, pszichotróp anyagok és új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetekről nyilvántartást vezet.
+(12) A (9) bekezdés b) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
 
-(15) A (14) bekezdés szerinti nyilvántartás tartalmazza:
+a) a gyógyszerészeti államigazgatási szerv által kiadott, bejelentés tényét igazoló hatósági bizonyítvány számát és
 
-a) a gazdálkodó szervezet
+b) a biztonsági berendezések és intézkedések leírását.
 
-aa) nevét,
+(12a)
 
-ab) székhelyét,
+(13) A (9) bekezdés c) pontja szerinti nyilvántartás a (10) bekezdésben foglaltakon túl tartalmazza
 
-b) hatósági bizonyítvány számát,
+a) a gyógyszerészeti államigazgatási szerv által kiadott, bejelentés tényét igazoló hatósági bizonyítvány számát,
 
-c) a tevékenység jellegének pontos megjelölését,
+b) a tevékenységgel érintett mák- vagy kenderfajták nevét,
 
-d) a kábítószerért felelős személy megnevezését,
+c) a tárolóhely és tárolási rend leírását,
 
-e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
+d) a biztonsági berendezések és intézkedések leírását,
 
-(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+e) a gazdálkodó szervezettel szerződésben álló engedélyes (10) bekezdés a) pontja szerinti adatait és
+
+f) a tevékenység végzésében közreműködő
+
+fa) tevékenységi engedéllyel nem rendelkező gazdálkodó szervezet (10) bekezdés a) pontja szerinti adatait vagy
+
+fb) a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termesztő őstermelő nevét, címét, azonosítóját.
+
+(14) A (9) bekezdés
+
+a) a) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (11) bekezdés,
+
+b) b) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (12) bekezdés a) pontja,
+
+c) c) pontja szerinti nyilvántartás a (10) bekezdés c) és d) pontja, valamint a (13) bekezdés a) pontja
+
+szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(15) A (10) bekezdés a) pont aa) és ac) alpontja, a (10) bekezdés c), d) pontja, a (11) bekezdés, a (12) bekezdés a) pontja és a (13) bekezdés a) pontja szerinti adatokat a gyógyszerészeti államigazgatási szerv a honlapján közzéteszi.
+
+(16)

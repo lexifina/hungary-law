@@ -6,7 +6,7 @@ b) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről,
 
 c) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet,
 
-d) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
+d) az emberi felhasználásra szánt gyógyszerek forgalombahozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
 
 e)
 

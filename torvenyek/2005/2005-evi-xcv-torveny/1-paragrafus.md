@@ -122,7 +122,7 @@ függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 
 48. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet (a továbbiakban: Atr.) szerinti állami támogatás;
 
-49. egy és ugyanazon vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) 2. cikk (2) bekezdése szerinti vállalkozás;
+49. egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás;
 
 50. támogatási intenzitás: az Atr. szerinti intenzitás;
 
