@@ -34,7 +34,7 @@ c) nem tanúsíthat feladata ellátása körében, sem azon kívül olyan magata
 
 (3b) A (3) bekezdés c) pontja szerinti pártatlanságot veszélyeztető tevékenység különösen a nagykereskedelmi és kiskereskedelmi tevékenység, ingatlan-bérbeadás, ingatlankezelési tevékenység, operatív és pénzügyi lízingtevékenység, vagyoni őrző-védő tevékenység, valamint irattározási és raktározási tevékenység.
 
-(4) A felszámolói névjegyzék – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül. A névjegyzékben fel kell tüntetni:
+(4) A felszámolói névjegyzék az a) pont ad) alpontjában, az i) pont ib) alpontjában és a j) pont jb) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A névjegyzékben fel kell tüntetni:
 
 a) a felszámoló:
 
@@ -42,7 +42,9 @@ aa) nevét, postai és elektronikus levelezési címét,
 
 ab) székhelyét, telephelyét, fióktelepét (működési terület),
 
-ac) világhálón elérhető elektronikus értékesítési rendszerben használt pénzforgalmi számlaszámát és az azt vezető pénzforgalmi szolgáltató nevét, székhelyét,
+ac) világhálón elérhető elektronikus értékesítési rendszerben használt pénzforgalmi számlaszámát és az azt vezető pénzforgalmi szolgáltató nevét, székhelyét és
+
+ad) nyilvántartási számát, valamint a felszámolói névjegyzékbe történő felvételének időpontját,
 
 b) a felszámoló ügyvezetőjének, felügyelőbizottsági elnökének, könyvvizsgálójának nevét, lakóhelyét,
 
@@ -58,23 +60,23 @@ fa) természetes személyazonosító adatait, lakcímét,
 
 fb) szakképzettségét,
 
-fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valamint az (1a) bekezdés szerinti kötelező továbbképzési kötelezettség teljesítéséről szóló tanúsítvány számát,
+fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valamint az (1a) bekezdés szerinti kötelező továbbképzési kötelezettség teljesítéséről szóló tanúsítvány számát és
 
 fd) nyilvántartási számát,
 
-g) a felszámoló ügyvezetőjének, illetve a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
+g) a felszámoló ügyvezetőjének, illetve a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét,
 
 h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult,
 
 i) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők
 
-ia) arcképmását,
+ia) arcképmását és
 
-ib) a 27/D. § (15) bekezdése szerinti fizetésképtelenségi szakértői igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját,
+ib) a 27/D. § (15) bekezdése szerinti fizetésképtelenségi szakértői igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját, és
 
 j) a h) pont szerinti felszámoló gazdasági társaságnál szerkezetátalakítási szakértői tevékenységet végző természetes személyek
 
-ja) f) pontban felsorolt adatait és arcképmását,
+ja) f) pontban felsorolt adatait és arcképmását és
 
 jb) g) pontban felsorolt adatait és a Szát. 24. § (8) bekezdése szerinti szerkezetátalakítási szakértői igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
 

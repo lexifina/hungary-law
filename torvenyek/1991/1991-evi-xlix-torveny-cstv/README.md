@@ -87,3 +87,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2025-07-01 | 2025. évi XLVI. törvény | 1991-49-00-00.136 |
 | 2025-08-01 | 2025. évi LI. törvény | 1991-49-00-00.137 |
 | 2025-12-17 | 2025. évi XCIII. törvény | 1991-49-00-00.139 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 1991-49-00-00.138 |
