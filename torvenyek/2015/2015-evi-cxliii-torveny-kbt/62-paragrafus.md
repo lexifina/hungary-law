@@ -38,7 +38,7 @@ g) esetében az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áru
 
 h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és
 
-ha) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy
+ha) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett közbeszerzési eljárás eredményéről szóló tájékoztató közzétételétől számított három évig, vagy
 
 hb) ha a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a hamis adat szolgáltatásának megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
 
@@ -50,7 +50,7 @@ ib) a gazdasági szereplő szándékosan szolgáltatott hamis adatot vagy tett h
 
 j) esetében az ajánlatkérő bizonyítani tudja, hogy az adott eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban, vagy korábbi közbeszerzési vagy koncessziós beszerzési eljárásból ebből az okból kizárták, és
 
-ja) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett eljárás lezárulásától számított három évben, vagy
+ja) ha a kizárás miatt jogorvoslatra nem került sor, az ajánlatkérő megítélése szerint a kizárás alapjául szolgáló cselekmény miatt a szerződés teljesítése vonatkozásában a megbízhatósága alapos okkal megkérdőjelezhető, az érintett eljárás eredményéről szóló tájékoztató közzétételétől számított három évben, vagy
 
 jb) ha a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését a jogtalan befolyásolás megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;
 
@@ -58,7 +58,7 @@ k) tekintetében a következő feltételek valamelyike megvalósul:
 
 ka) nem az Európai Unió, az Európai Gazdasági Térség vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, a Kereskedelmi Világszervezet közbeszerzési megállapodásban részes államban vagy az EUMSZ 198. cikkében említett tengerentúli országok és területek bármelyikében vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, vagy amellyel az Európai Uniónak kétoldalú megállapodása van a közbeszerzés terén,
 
-kb) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
+kb) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b), d), e) vagy g) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
 
 kc) a gazdasági szereplőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy személyes joga szerint jogképes szervezet, amelynek tekintetében a kb) alpont szerinti feltétel fennáll;
 

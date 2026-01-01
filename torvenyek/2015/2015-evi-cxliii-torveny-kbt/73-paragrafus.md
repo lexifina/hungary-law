@@ -10,28 +10,28 @@ c) az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alk
 
 d) az ajánlattevő vagy részvételre jelentkező nem felel meg a szerződés teljesítéséhez szükséges alkalmassági követelményeknek, vagy nem igazolta megfelelően a követelményeknek való megfelelést;
 
-e) egyéb módon nem felel meg az ajánlati, ajánlattételi vagy részvételi felhívásban és a közbeszerzési dokumentumokban, valamint a jogszabályokban meghatározott feltételeknek, ide nem értve a részvételi jelentkezés és az ajánlat ajánlatkérő által előírt formai követelményeit;
+e) aránytalanul alacsony ellenszolgáltatást, vagy más teljesíthetetlen feltételt tartalmaz, vagy az erre vonatkozó gyanú megalapozatlanságát az ajánlattevő nem indokolta megfelelően;
 
-f) az ajánlattevő vagy részvételre jelentkező
+f) a részvételre jelentkező ajánlatot tesz;
 
-fa) valamely adatot a 44. § (2)–(3) bekezdésébe ütköző módon minősít üzleti titoknak és ezt az ajánlatkérő hiánypótlási felhívását követően sem javítja; vagy
+g) nem felel meg azoknak a környezetvédelmi, szociális és munkajogi követelményeknek, amelyeket a jogszabályok vagy kötelezően alkalmazandó kollektív szerződés, vagy a 4. mellékletben felsorolt környezetvédelmi, szociális és munkajogi rendelkezések írnak elő;
 
-fb) a 44. § (1) bekezdése szerinti indokolás a hiánypótlást követően sem megfelelő.
+h) azt az ajánlati kötöttség megsértésével az ajánlattevő visszavonta;
 
-(2) Az (1) bekezdésben foglaltakon túl az ajánlat érvénytelen, ha aránytalanul alacsony ellenszolgáltatást vagy más teljesíthetetlen feltételt tartalmaz [72. §].
+i) az ajánlattevő az ajánlati biztosítékot határidőre nem vagy az előírt mértéknél kisebb összegben bocsátotta rendelkezésre;
 
-(3) Az (1) bekezdésben foglaltakon túl a részvételi jelentkezés érvénytelen, ha a részvételre jelentkező ajánlatot tesz.
+j) az ajánlatkérő az eljárást megindító felhívásban előre meghatározott egy olyan értéket (egységárat, ajánlati árat vagy költséget), amelyet meghaladó árat vagy költséget tartalmazó ajánlatot a bírálat során érvénytelenné fog nyilvánítani, és az ajánlat ezen értéket (egységárat, ajánlati árat vagy költséget) meghaladja;
 
-(4) Az (1) bekezdés e) pontja alapján érvénytelen az ajánlat különösen, ha nem felel meg azoknak a környezetvédelmi, szociális és munkajogi követelményeknek, amelyeket a jogszabályok vagy kötelezően alkalmazandó kollektív szerződés, illetve a 4. mellékletben felsorolt környezetvédelmi, szociális és munkajogi rendelkezések írnak elő. A Közbeszerzési Hatóság – a foglalkoztatáspolitikáért felelős miniszter által minden évben rendelkezésére bocsátott adatszolgáltatás alapján – tájékoztatást tesz közzé honlapján a Magyarországon egyes ágazatokban alkalmazandó kötelező legkisebb munkabérről.
+k) annak tartalma nem felel meg a műszaki leírásban vagy a szerződéses feltételekben foglalt ajánlatkérői előírásoknak, vagy az ajánlattevő nem igazolta megfelelően az ezeknek való megfelelést;
 
-(5) Az ajánlatkérő a közbeszerzési dokumentumokban tájékoztatásként közli azoknak a szervezeteknek a nevét, amelyektől az ajánlattevő tájékoztatást kaphat a (4) bekezdés szerinti azon követelményekről, amelyeknek a teljesítés során meg kell felelni. Az ajánlatkérő a (4) bekezdésben foglaltakra tekintettel nem köteles a közbeszerzési eljárásban külön információk feltüntetését előírni az ajánlatban, csak azt ellenőrzi, hogy az ajánlatban feltüntetett információk nem mondanak-e ellent a (4) bekezdés szerinti követelményeknek.
+l) az ajánlattevő vagy részvételre jelentkező valamely adatot a 44. § (2) és (3) bekezdésébe ütköző módon minősít üzleti titoknak;
 
-(6) Az (1) bekezdés e) pontja alapján érvénytelen különösen az ajánlat, ha
+m) a 44. § (1) bekezdése szerinti indokolás hiányzik vagy nem megfelelő;
 
-a) azt az ajánlati kötöttség fennállása ellenére az ajánlattevő visszavonta;
+n) egyéb módon nem felel meg az ajánlati, ajánlattételi vagy részvételi felhívásban és a közbeszerzési dokumentumokban, valamint a jogszabályokban meghatározott feltételeknek, ide nem értve a részvételi jelentkezés és az ajánlat ajánlatkérő által előírt formai követelményeit.
 
-b) az ajánlattevő az ajánlati biztosítékot határidőre nem vagy az előírt mértéknél kisebb összegben bocsátotta rendelkezésre;
+(2) A Közbeszerzési Hatóság – a foglalkoztatáspolitikáért felelős miniszter által minden évben rendelkezésére bocsátott adatszolgáltatás alapján – tájékoztatást tesz közzé honlapján a Magyarországon egyes ágazatokban alkalmazandó kötelező legkisebb munkabérről.
 
-c) az ajánlatkérő az eljárást megindító felhívásban előre meghatározott egy olyan értéket (egységárat, ajánlati árat vagy költséget), amelyet meghaladó árat vagy költséget tartalmazó ajánlatot a bírálat során érvénytelenné fog nyilvánítani, és az ajánlat ezen értéket (egységárat, ajánlati árat vagy költséget) meghaladja.
+(3) Az ajánlatkérő a közbeszerzési dokumentumokban tájékoztatásként közli azoknak a szervezeteknek a nevét, amelyektől az ajánlattevő tájékoztatást kaphat az (1) bekezdés g) pontja szerinti azon követelményekről, amelyeknek a teljesítés során meg kell felelni. Az ajánlatkérő az (1) bekezdés g) pontjában foglaltakra tekintettel nem köteles a közbeszerzési eljárásban külön információk feltüntetését előírni az ajánlatban, csak azt ellenőrzi, hogy az ajánlatban feltüntetett információk nem mondanak-e ellent az (1) bekezdés g) pontja szerinti követelményeknek.
 
-(7) Az ajánlatkérő, az (1) bekezdés c) pontja szerinti esetben – felvilágosításkérés útján – köteles biztosítani annak lehetőségét, hogy az érintett ajánlattevő vagy részvételre jelentkező bizonyítsa, hogy nem tudott vagy az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie az alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet tekintetében a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok megvalósulásáról, valamint, hogy a 62. § (1) bekezdés o) pontja szerinti esetben a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta.
+(4) Az ajánlatkérő az (1) bekezdés c) pontja szerinti esetben – felvilágosításkérés útján – köteles biztosítani annak lehetőségét, hogy az érintett ajánlattevő vagy részvételre jelentkező bizonyítsa, hogy nem tudott vagy az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie az alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet tekintetében a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok megvalósulásáról, valamint, hogy a 62. § (1) bekezdés o) pontja szerinti esetben a kizáró ok fennállása a részvételre jelentkezést, vagy az ajánlattételt nem befolyásolta.

@@ -12,7 +12,7 @@ b) aki teljesíti az eljárásban előírt alkalmassági feltételeket, és
 
 c) aki nem áll kizáró ok hatálya alatt.
 
-(4) A részvételi jelentkezés és ajánlat érvénytelenségére a 73. § (1) és (4)–(6) bekezdését és a 74. §-t kell alkalmazni, az ajánlatkérő alkalmazhatja a 73. § (2) és (3) bekezdésében foglalt érvénytelenségi okokat is.
+(4) A részvételi jelentkezés és ajánlat érvénytelenségére a 73. § (1) bekezdés a)–d) és g)–n) pontját és a 74. §-t kell alkalmazni, az ajánlatkérő alkalmazhatja a 73. § (1) bekezdés e)–f) pontjában foglalt érvénytelenségi okokat is.
 
 (5) Az eljárás a 75. § (1) bekezdése szerinti esetben, továbbá az ajánlatkérő által az eljárást megindító felhívásban meghatározott esetekben eredménytelen. Ha az ajánlatkérő olyan feltételeket határoz meg, amelyek fennállása esetén az eljárást eredménytelenné nyilváníthatja, rögzítenie kell azokat az objektív szempontokat is, amelyek alapján az eredménytelenségre vonatkozó döntést meg fogja hozni.
 

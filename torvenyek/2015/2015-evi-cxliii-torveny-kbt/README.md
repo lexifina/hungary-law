@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 2015-143-00-00.78 |
 | 2025-12-23 | 2025. évi CXXI. törvény | 2015-143-00-00.79 |
 | 2025-12-30 | 2024. évi LXIV. törvény | 2015-143-00-00.74 |
+| 2026-01-01 | 2024. évi LXIV. törvény | 2015-143-00-00.75 |
