@@ -40,7 +40,7 @@ bd) az adósságtörlesztési határozatban meghatározott kötelezettségeit sz
 
 7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékossággal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
 
-8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
+8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett országos központi nyilvántartás,
 
 9. Art.: az adózás rendjéről szóló törvény,
 
