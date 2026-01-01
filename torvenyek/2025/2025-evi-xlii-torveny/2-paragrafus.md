@@ -1,1 +1,3 @@
-### 2. §
+2. § Az Szjtv. a következő 1/C. §-sal egészül ki:
+
+„1/C. § Ha e törvény vagy e törvény végrehajtására kiadott jogszabály a szerencsejáték műszaki-informatikai rendszer vagy annak egy része auditálását írja elő, akkor a szerencsejáték-szervező megbízásából a szerencsejáték műszaki-informatikai rendszer vagy annak része auditálását elvégző auditor erről – legfeljebb 2 évig érvényes – auditálási okiratot állít ki.”
