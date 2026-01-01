@@ -1,1 +1,1 @@
-38. § A kisgyermekkel otthon lévők szövetkezete tagjainak legalább 90%-a olyan természetes személy, aki nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül.
+38. § A kisgyermekkel otthon lévők szövetkezete tagjainak legalább 90%-a olyan természetes személy, aki csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül.

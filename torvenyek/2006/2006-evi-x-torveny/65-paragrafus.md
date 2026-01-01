@@ -1,3 +1,5 @@
-## V. Fejezet
+65. § (1) A szövetkezeti részesedés és a befektetői szövetkezeti részesedés vagy annak hányada átruházása esetén – ide nem értve azt az esetet, amikor a részesedést vagy annak hányadát az energiaszövetkezet szerzi meg − a jogosultak személyének megváltozását és annak időpontját a tagnyilvántartásba való bejegyzés céljából a részesedés vagy annak hányada megszerzője a szerzéstől számított nyolc napon belül köteles bejelenteni az energiaszövetkezetnek. A bejelentést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, és mellékelni kell hozzá az átruházási szerződést. A bejelentésben nyilatkozni kell a megszerzés tényén kívül arról is, hogy a részesedés vagy hányada megszerzője az alapszabály rendelkezéseit magára nézve kötelezőnek ismeri el.
 
-### 65. §
+(2) A szövetkezeti részesedés és a befektetői szövetkezeti részesedés vagy annak hányada átruházása folytán bekövetkezett tagváltozás az energiaszövetkezettel szemben annak bejelentésétől hatályosul.
+
+(3) A szövetkezeti részesedés és a befektetői szövetkezeti részesedés vagy annak hányada új jogosultját az energiaszövetkezettel szemben a nyilvántartásba vételtől függetlenül a bejelentéstől illetik meg a tagsági jogviszonyból eredő jogosultságok, és terhelik a tagsággal járó kötelezettségek.

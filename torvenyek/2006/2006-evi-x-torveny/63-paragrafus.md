@@ -1,1 +1,7 @@
-### 63. §
+63. § (1) Az energiaszövetkezet személyes közreműködést vállaló tagja a szövetkezeti részesedését (a továbbiakban: szövetkezeti részesedés) vagy annak hányadát az energiaszövetkezet más tagjára, az energiaszövetkezetre vagy harmadik személyre átruházhatja. A szövetkezeti részesedés hányadának átruházása esetén az átruházandó és az átruházónál maradó hányad mértéke nem lehet kevesebb, mint az energiaszövetkezet alapszabályában rögzített tagi minimális vagyoni hozzájárulás mértéke. Az átruházó szerződést írásba kell foglalni.
+
+(2) Az energiaszövetkezet befektető tagja a befektetői szövetkezeti részesedését vagy annak hányadát az energiaszövetkezet más tagjára, az energiaszövetkezetre vagy harmadik személyre átruházhatja. A befektetői szövetkezeti részesedés hányadának átruházása esetén az átruházandó és az átruházónál maradó hányad mértéke nem lehet kevesebb, mint az energiaszövetkezet alapszabályában rögzített tagi minimális vagyoni hozzájárulás mértéke. Az átruházó szerződést írásba kell foglalni.
+
+(3) A szövetkezeti részesedést és a befektetői szövetkezeti részesedést vagy annak hányadát harmadik személyre akkor lehet átruházni, ha a tag a vagyoni hozzájárulását teljes mértékben szolgáltatta.
+
+(4) A szövetkezeti részesedésnek és a befektetői szövetkezeti részesedésnek vagy azok hányadának harmadik személyre történő átruházása az igazgatóság beleegyezéséhez kötött, a beleegyezés megadásáról az igazgatóság az alapszabályban rögzített belépési feltételek alapján dönt. Ha az igazgatóság az átruházási szándék bejelentésétől számított harminc napon belül nem nyilatkozik, a beleegyezést megadottnak kell tekinteni.

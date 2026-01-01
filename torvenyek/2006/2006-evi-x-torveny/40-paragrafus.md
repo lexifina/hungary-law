@@ -2,7 +2,7 @@
 
 a) a szövetkezet tagjává kíván válni,
 
-b) nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül,
+b) csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül,
 
 c) a szövetkezet alapszabályában foglaltakat elfogadja, magára nézve kötelezőnek ismeri el,
 

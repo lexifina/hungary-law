@@ -1,1 +1,3 @@
-### 58. §
+58. § (1) Az energiaszövetkezetbe történő belépéshez szükséges tagfelvételi kérelemről a személyes közreműködést vállaló tagok esetében az igazgatóság indokolással ellátott döntést hoz a tagfelvételi kérelem benyújtásától számított harminc napon belül. Az igazgatóság a döntésről és annak indokolásáról az energiaszövetkezetbe belépni kívánó személyt a döntés meghozatalától számított nyolc napon belül értesíti.
+
+(2) A befektető tag felvételéről a közgyűlés indokolással ellátott döntést hoz, az alapszabályban meghatározott szavazati többség alapján, a tagfelvételi kérelem benyújtásától számított harminc napon belül. A befektető tag felvételéről szóló döntésről és annak indokolásáról az igazgatóság értesíti az energiaszövetkezetbe befektető tagként belépni kívánó személyt a döntés meghozatalától számított nyolc napon belül.

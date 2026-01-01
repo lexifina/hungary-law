@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2022-08-01 | 2022. évi XXVI. törvény | 2006-10-00-00.29 |
 | 2023-01-01 | 2022. évi LXXIV. törvény | 2006-10-00-00.30 |
 | 2023-07-02 | 2023. évi XXXIV. törvény | 2006-10-00-00.31 |
+| 2026-01-01 | 2025. évi CXXII. törvény | 2006-10-00-00.32 |
