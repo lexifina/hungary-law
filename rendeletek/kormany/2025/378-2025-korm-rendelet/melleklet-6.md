@@ -1,3 +1,7 @@
-6. melléklet a 378/2025. (XII. 1.) Korm. rendelethez[^8]
+## „5. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^8]: A 6. melléklet a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+## 5X09218.pdf
+
+## ”
+
+6. melléklet a 378/2025. (XII. 1.) Korm. rendelethez

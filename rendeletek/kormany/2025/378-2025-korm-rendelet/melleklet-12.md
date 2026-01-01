@@ -1,3 +1,7 @@
-12. melléklet a 378/2025. (XII. 1.) Korm. rendelethez[^14]
+## „13. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^14]: A 12. melléklet a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+## 5X09228.pdf
+
+## ”
+
+12. melléklet a 378/2025. (XII. 1.) Korm. rendelethez
