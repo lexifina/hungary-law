@@ -1,1 +1,3 @@
-### 7. §
+7. § Az Efo. tv. a következő 22. §-sal egészül ki:
+
+„22. § E törvénynek az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosításáról szóló 2025. évi X. törvénnyel megállapított 1. § (4a) bekezdését, 2. § 3. pontját, 8. § (2) bekezdését és 10. § (2) bekezdését a 2025. december 31-ét követően megvalósuló munkavégzésre irányuló, e törvény szerinti foglalkoztatási jogviszonyok esetében kell alkalmazni.”
