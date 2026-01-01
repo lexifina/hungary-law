@@ -156,9 +156,9 @@ ENGEDÉLYKÉRELMEK TARTALMI KÖVETELMÉNYEI
 
 a) a robbanóanyag előállítását végző vállalkozás megnevezését, székhelyét, telephelyét, fióktelepét,
 
-b) a gyártás helyét (település, utca, házszám vagy helyrajzi szám),
+b)[^12] a gyártás helyét (település, utca, házszám vagy helyrajzi szám), valamint
 
-c) a felelős személy természetes személyazonosító adatait és lakcímét, valamint
+c)[^13]
 
 d) a készletezésre szolgáló robbanóanyag-raktár helyét, a tárolási engedélyes megnevezését és a tárolási engedély számát.
 
@@ -180,9 +180,9 @@ e) a robbanóanyag gyártásra szolgáló létesítmények, berendezések és es
 
 2.1. A kérelem tartalmazza
 
-a) a forgalmazó megnevezését, székhelyét, magyarországi telephelyét, fióktelepét,
+a)[^14] a forgalmazó megnevezését, székhelyét, magyarországi telephelyét, fióktelepét, valamint
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét, valamint
+b)[^15]
 
 c) a készletezésre szolgáló robbanóanyag-raktár helyét, a tárolási engedélyes megnevezését és a tárolási engedély számát.
 
@@ -194,7 +194,7 @@ c) a készletezésre szolgáló robbanóanyag-raktár helyét, a tárolási enge
 
 a) a kérelmező nevét, székhelyét,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét,
+b)[^16]
 
 c) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyiségét,
 
@@ -214,13 +214,13 @@ b) bértárolás esetében a tárolási engedélyessel e célra kötött megáll
 
 a) a kérelmező nevét, székhelyét,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét,
+b)[^17]
 
 c) a kérelmező nyilatkozatát az engedély alapját képező bányafelügyeleti engedélyről és számáról,
 
-d)[^9] a robbantás célját, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást,
+d)[^18] a robbantás célját, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást,
 
-e)[^10] a robbantás tervezőjének nevét, lakcímét és engedélyének számát, valamint
+e)[^19] a robbantás tervezőjének nevét, lakcímét és engedélyének számát, valamint
 
 f) a robbantás tervezőjének nyilatkozatát arról, hogy a tervezett robbantás Általános Robbantási Biztonsági Szabályzat szerinti repeszhatása, a rezgésre érzékeny létesítményeken várható rezgések szeizmikus hatása nem veszélyezteti az életet, a testi épséget, az egészséget, illetve a vagyonbiztonságot,
 
@@ -230,14 +230,20 @@ h) a robbantás során szükséges biztonsági intézkedéseket, a védendő lé
 
 i) a robbantás műszaki leírását, valamint
 
-j)[^11] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
+j)[^20] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
 
-4.2.[^12] A kérelem benyújtásakor igazolni kell épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, ha az épület bontása az építésügyi hatóság engedélye alapján történhet.
+4.2.[^21] A kérelem benyújtásakor igazolni kell épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, ha az épület bontása az építésügyi hatóság engedélye alapján történhet.
 
-4.3.[^13]
+4.3.[^22]
 
-[^9]: A 2. melléklet 4. pont 4.1. alpont d) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § b) pontja szerint módosított szöveg.
-[^10]: A 2. melléklet 4.1. pont e) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § c) pontja szerint módosított szöveg.
-[^11]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg. [A 2. melléklet 4. pont 4.1. alpont j) pontjában a 19/2024. (XII. 30.) SZTFH rendelet 26. § b) pontja által elrendelt módosítás, amely szerint a „bányában,” szövegrész helyébe a „bányában a kőolaj- és földgázbányászatban, a víz kitermelése céljából fúrólyukban” szöveg lép, nem vezethető át.]
-[^12]: A 2. melléklet 4. pont 4.2. alpontja a 4/2024. (V. 31.) SZTFH rendelet 14. §-ával megállapított szöveg.
-[^13]: A 2. melléklet 4. pont 4.3. alpontját a 19/2024. (XII. 30.) SZTFH rendelet 27. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. melléklet 1.1. pont b) alpontja a 14/2025. (XII. 22.) SZTFH rendelet 30. § a) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet 1.1. pont c) alpontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § d) pontja hatályon kívül helyezte.
+[^14]: A 2. melléklet 2.1. pont a) alpontja a 14/2025. (XII. 22.) SZTFH rendelet 30. § b) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet 2.1. pont b) alpontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § e) pontja hatályon kívül helyezte.
+[^16]: A 2. melléklet 3.1. pont b) alpontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § f) pontja hatályon kívül helyezte.
+[^17]: A 2. melléklet 4.1. pont b) alpontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § g) pontja hatályon kívül helyezte.
+[^18]: A 2. melléklet 4. pont 4.1. alpont d) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § b) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet 4.1. pont e) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § c) pontja szerint módosított szöveg.
+[^20]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg. [A 2. melléklet 4. pont 4.1. alpont j) pontjában a 19/2024. (XII. 30.) SZTFH rendelet 26. § b) pontja által elrendelt módosítás, amely szerint a „bányában,” szövegrész helyébe a „bányában a kőolaj- és földgázbányászatban, a víz kitermelése céljából fúrólyukban” szöveg lép, nem vezethető át.]
+[^21]: A 2. melléklet 4. pont 4.2. alpontja a 4/2024. (V. 31.) SZTFH rendelet 14. §-ával megállapított szöveg.
+[^22]: A 2. melléklet 4. pont 4.3. alpontját a 19/2024. (XII. 30.) SZTFH rendelet 27. § d) pontja hatályon kívül helyezte.

@@ -24,7 +24,7 @@ engedélye robbanóanyag megszerzésére is feljogosít. A robbanóanyag tárol�
 
 a) a gyártás helyét település, utca, házszám vagy helyrajzi szám megjelölésével,
 
-b) a felelős személy természetes személyazonosító adatait és lakcímét,
+b)[^3]
 
 c) a gyártás egyéb hatósági feltételeit, és
 
@@ -32,7 +32,7 @@ d) az engedély hatályát.
 
 (4) A robbanóanyag-forgalmazási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
-a) a felelős személy természetes személyazonosító adatait és lakcímét,
+a)[^4]
 
 b) a forgalmazni kívánt robbanóanyag kereskedelmi megnevezését és mennyiségét, valamint
 
@@ -40,7 +40,7 @@ c) az engedély hatályát.
 
 (5) A robbanóanyag megszerzési engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
-a) a felelős személy természetes személyazonosító adatait és lakcímét,
+a)[^5]
 
 b) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyiségét, valamint
 
@@ -52,7 +52,7 @@ a) a robbantási munka helyét a bányaüzem megnevezésével, cím vagy helyraj
 
 b) a biztonsági távolságok méreteit,
 
-c)[^3] a robbantás tervezőjének természetes személyazonosító adatait és lakcímét,
+c)[^6] a robbantás tervezőjének természetes személyazonosító adatait és lakcímét,
 
 d) az egy év alatt felhasználható robbanóanyag mennyiségét, fajtáját,
 
@@ -64,7 +64,7 @@ g) az engedély hatályát.
 
 (7) A felhasználási engedélyben a bányafelügyelet a kérelemben szereplő robbanóanyagokkal azonos robbantástechnikai paraméterekkel rendelkező robbanóanyag felhasználását is engedélyezheti.
 
-(7a)[^4] Robbanóanyagot átadni – a (8) bekezdésben foglalt kivétellel – robbanóanyag-megszerzési engedéllyel rendelkező személynek lehet.
+(7a)[^7] Robbanóanyagot átadni – a (8) bekezdésben foglalt kivétellel – robbanóanyag-megszerzési engedéllyel rendelkező személynek lehet.
 
 (8) A (11) bekezdés szerinti esetben nincs szükség robbanóanyag megszerzési engedélyre. A robbanóanyag megszerzéséhez az ár- vagy belvíz elleni védekezés, a helyi vízkárelhárítás, a III. fokú vagy „Rendkívüli” készültség idején, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kattv.) 3. § 5. pontja szerinti katasztrófa vagy 9. pontja szerinti katasztrófaveszély esetében elegendő az intézkedésre jogosult szerv nyilatkozata.
 
@@ -105,5 +105,8 @@ c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezet
 (17) Az 1. § (2) bekezdés a) pontjában meghatározott szervek belső szabályozása alapján kialakított, engedélyezett és védett raktárban a robbanóanyag-szektorban működő vállalkozás bértárolási szerződés alapján is tárolhat robbanóanyagot.
 
 [^2]: A 4. § (1a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (1) bekezdése iktatta be, szövege a 19/2024. (XII. 30.) SZTFH rendelet 26. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (6) bekezdés c) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § a) pontja szerint módosított szöveg.
-[^4]: A 4. § (7a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (2) bekezdése iktatta be.
+[^3]: A 4. § (3) bekezdés b) pontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § a) pontja hatályon kívül helyezte.
+[^4]: A 4. § (4) bekezdés a) pontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § b) pontja hatályon kívül helyezte.
+[^5]: A 4. § (5) bekezdés a) pontját a 14/2025. (XII. 22.) SZTFH rendelet 31. § c) pontja hatályon kívül helyezte.
+[^6]: A 4. § (6) bekezdés c) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (7a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (2) bekezdése iktatta be.
