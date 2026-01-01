@@ -1,0 +1,1 @@
+8. § A 6/2013. (I. 18.) Korm. rendelet 10. § (1) bekezdés g) pontjában az „az NKFH-t,” szövegrész helyébe az „a fogyasztóvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt és az NKFH-t,” szöveg lép.

@@ -1,0 +1,3 @@
+18. § (1) A 11. § és a 12. § a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2022/65/EK irányelv hatályba helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A 7. § az általános termékbiztonságról, az 1025/2012/EU európai parlamenti és tanácsi rendelet és az (EU) 2020/1828 európai parlamenti és tanácsi irányelv módosításáról, valamint a 2001/95/EK európai parlamenti és tanácsi irányelv és a 87/357/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/988 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
