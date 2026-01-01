@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2025-06-15 | 2025. évi XXXV. törvény | 2014-88-00-00.44 |
 | 2025-07-01 | 2024. évi XXIX. törvény | 2014-88-00-00.41 |
 | 2025-12-24 | 2025. évi C. törvény | 2014-88-00-00.46 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2014-88-00-00.45 |
