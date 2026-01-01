@@ -24,6 +24,6 @@
 
 | Engedélyezés dátuma: |
 
-21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^343]
+21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^345]
 
-[^343]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 326/2020. (VII. 1.) Korm. rendelet 20. § b) pontja iktatta be.
+[^345]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 326/2020. (VII. 1.) Korm. rendelet 20. § b) pontja iktatta be.

@@ -1,4 +1,4 @@
-35/A. §[^159] (1)[^160] A muzeális fegyver sportlövészeti célú használatára jogosító engedély tartalmazza
+35/A. §[^161] (1)[^162] A muzeális fegyver sportlövészeti célú használatára jogosító engedély tartalmazza
 
 a) sportegyesület esetében a sportegyesület
 
@@ -16,7 +16,7 @@ ba) természetes személyazonosító adatait, valamint
 
 bb) számára engedélyezhető lőszerelem tárolására szolgáló tárolóhely címét.
 
-(1a)[^161] A 30. § (1a) bekezdésében meghatározott engedély meglétét igazoló hatósági igazolványt a 25. számú melléklet szerint kell kiállítani.
+(1a)[^163] A 30. § (1a) bekezdésében meghatározott engedély meglétét igazoló hatósági igazolványt a 25. számú melléklet szerint kell kiállítani.
 
 (2) Az elöltöltő fegyver vadászati célú használatára jogosító engedély tartalmazza
 
@@ -24,6 +24,6 @@ a) a jogosult természetes személyazonosító adatait és lakóhelyét, valamin
 
 b) az elöltöltő fegyver rendeltetésszerű működtetéséhez szükséges lőszerelemeknek a jogosult lakóhelyétől eltérő helyen történő tárolása esetén a tárolóhely címét.
 
-[^159]: A 35/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 12. §-a iktatta be.
-[^160]: A 35/A. § (1) bekezdése a 678/2021. (XII. 3.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^161]: A 35/A. § (1a) bekezdését a 678/2021. (XII. 3.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege az 569/2022. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^161]: A 35/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^162]: A 35/A. § (1) bekezdése a 678/2021. (XII. 3.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^163]: A 35/A. § (1a) bekezdését a 678/2021. (XII. 3.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege az 569/2022. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.

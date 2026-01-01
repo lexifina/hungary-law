@@ -1,14 +1,14 @@
-20/B. §[^96] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító engedéllyel rendelkező az engedély birtokában jogosult
+20/B. §[^97] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító engedéllyel rendelkező az engedély birtokában jogosult
 
 a) a lőpor és a csappantyú megvásárlására,
 
-b)[^97] legfeljebb 5 kg össztömegű lőpor és 2000 db csappantyú szállítására, valamint
+b)[^98] legfeljebb 5 kg össztömegű lőpor és 2000 db csappantyú szállítására, valamint
 
-c)[^98] az Ftv. 2. § 44. pontjában meghatározott tevékenység végzésére.
+c)[^99] az Ftv. 2. § 44. pontjában meghatározott tevékenység végzésére.
 
-(2)[^99] A házilagos lőszerszerelésre és -újratöltésre jogosító engedély birtokában kizárólag az engedélyes lőfegyvertartási engedélyébe bejegyzett lőfegyverhez tartozó (használható) – a (3) bekezdés a) pontjának hatálya alá nem tartozó – lőszer házilagos szerelése és újratöltése végezhető.
+(2)[^100] A házilagos lőszerszerelésre és -újratöltésre jogosító engedély birtokában kizárólag az engedélyes lőfegyvertartási engedélyébe bejegyzett lőfegyverhez tartozó (használható) – a (3) bekezdés a) pontjának hatálya alá nem tartozó – lőszer házilagos szerelése és újratöltése végezhető.
 
-(3)[^100] A lőszer házilagos szerelésére és -újratöltésére jogosító engedély birtokában sem engedélyezett
+(3)[^101] A lőszer házilagos szerelésére és -újratöltésére jogosító engedély birtokában sem engedélyezett
 
 a) peremgyújtású lőszer házilagos szerelése és újratöltése,
 
@@ -18,8 +18,8 @@ c) a lőpor és a csappantyú közforgalmú közlekedési eszközön történő 
 
 (4) A lőszer házilagos szerelése és újratöltése nem végezhető olyan helyiségben, ahol nyílt lánggal üzemelő berendezés található. A lőszer házilagos szerelése és újratöltése során a dohányzás, valamint a nyílt láng használatával vagy szikraképződéssel járó egyéb tevékenység folytatása tilos.
 
-[^96]: A 20/B. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
-[^97]: A 20/B. § (1) bekezdés b) pontja a 371/2016. (XI. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^98]: A 20/B. § (1) bekezdés c) pontja a 102/2012. (V. 18.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^99]: A 20/B. § (2) bekezdése a 295/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^100]: A 20/B. § (3) bekezdés nyitó szövegrésze a 479/2024. (XII. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^97]: A 20/B. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
+[^98]: A 20/B. § (1) bekezdés b) pontja a 371/2016. (XI. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^99]: A 20/B. § (1) bekezdés c) pontja a 102/2012. (V. 18.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^100]: A 20/B. § (2) bekezdése a 295/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^101]: A 20/B. § (3) bekezdés nyitó szövegrésze a 479/2024. (XII. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
