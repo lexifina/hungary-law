@@ -1,3 +1,3 @@
-4. melléklet a 60/2024. (XII. 23.) BM rendelethez[^137]
+4. melléklet a 60/2024. (XII. 23.) BM rendelethez[^130]
 
-[^137]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

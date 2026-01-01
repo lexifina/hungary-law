@@ -1,3 +1,3 @@
-5. melléklet a 60/2024. (XII. 23.) BM rendelethez[^138]
+5. melléklet a 60/2024. (XII. 23.) BM rendelethez[^131]
 
-[^138]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

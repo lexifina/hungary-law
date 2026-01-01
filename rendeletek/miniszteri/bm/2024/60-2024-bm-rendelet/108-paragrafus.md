@@ -1,3 +1,3 @@
-108. §[^112]
+108. §[^107]
 
-[^112]: A 108. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 108. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

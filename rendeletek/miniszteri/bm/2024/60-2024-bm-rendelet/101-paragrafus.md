@@ -1,3 +1,3 @@
-101. §[^105]
+101. §[^100]
 
-[^105]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

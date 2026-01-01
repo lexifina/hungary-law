@@ -1,17 +1,14 @@
 98. § Hatályát veszti az Országgyűlési Őrség hivatásos állományának továbbképzési és vezetőképzési rendszeréről, rendészeti utánpótlási és vezetői adatbankjáról, valamint rendfokozati vizsgájáról szóló 26/2021. (VIII. 9.) BM rendelet
 
-a)[^98]
+a)[^96]
 
-b)[^99]
+b) 13. § (3)–(6) bekezdése,
 
-c)[^100]
+c) 27. §-a,
 
-d)[^101]
+d) 28. § (1) bekezdése,
 
-e)[^102]
+e)[^97]
 
-[^98]: A 98. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^99]: A 98. § b) pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^100]: A 98. § c) pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^101]: A 98. § d) pontja a 111. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^102]: A 98. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 98. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 98. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
