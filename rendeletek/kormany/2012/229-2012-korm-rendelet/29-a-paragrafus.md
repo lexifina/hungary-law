@@ -1,4 +1,4 @@
-## I/A. Fejezet[^75]
+## I/A. Fejezet[^76]
 
 ## A KÖZNEVELÉSI SZERZŐDÉS TARTALMA, ÉRVÉNYESSÉGI IDEJE ÉS MEGKÖTÉSÉNEK SZABÁLYAI
 
@@ -14,10 +14,10 @@ d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azoka
 
 e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
 
-(2)[^76] A köznevelési szerződés érvényességi ideje legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyv megbízásra vonatkozó rendelkezéseit kell alkalmazni.
+(2)[^77] A köznevelési szerződés érvényességi ideje legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyv megbízásra vonatkozó rendelkezéseit kell alkalmazni.
 
-(3)[^77]
+(3)[^78]
 
-[^75]: Az I/A. fejezetet (29/A. §) a 143/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
-[^76]: A 29/A. § (2) bekezdése a 122/2018. (VII. 10.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^77]: A 29/A. § (3) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
+[^76]: Az I/A. fejezetet (29/A. §) a 143/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^77]: A 29/A. § (2) bekezdése a 122/2018. (VII. 10.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^78]: A 29/A. § (3) bekezdését a 122/2018. (VII. 10.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
