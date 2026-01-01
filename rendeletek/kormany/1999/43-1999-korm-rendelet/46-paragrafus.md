@@ -1,13 +1,13 @@
-## 45/A. §[^534] A fekvőbeteg-gyógyintézetben a napi élelmezési nyersanyagnorma általános forgalmi adó nélküli összege naponta és betegenként átlagosan legalább ötszázötven forint.
+## 45/A. §[^531] A fekvőbeteg-gyógyintézetben a napi élelmezési nyersanyagnorma általános forgalmi adó nélküli összege naponta és betegenként átlagosan legalább ötszázötven forint.
 
 ## Egyéb ellátások
 
-46. § (1)[^535] A NEAK a dialízis ellátások országosan egységes alapdíjára jutó forintértéket az éves költségvetési törvényben az e célra rendelkezésre álló keret és az országos teljesítmények alapján havonta állapítja meg a szerződés szerinti kezelőhelyek száma, valamint a működési idő szerinti mértékig. A dializáló eljárásokat és a dializáló eljáráson belüli arányokat az R. 11. számú melléklete tartalmazza.
+46. § (1)[^532] A NEAK a dialízis ellátások országosan egységes alapdíjára jutó forintértéket az éves költségvetési törvényben az e célra rendelkezésre álló keret és az országos teljesítmények alapján havonta állapítja meg a szerződés szerinti kezelőhelyek száma, valamint a működési idő szerinti mértékig. A dializáló eljárásokat és a dializáló eljáráson belüli arányokat az R. 11. számú melléklete tartalmazza.
 
 (2) Ha jogszabály lehetővé teszi a dializáló kezelések kúraszerű ellátásként kerülnek finanszírozásra.
 
-(3)[^536] A szolgáltató a 18. számú melléklet szerinti adatokat a tárgyhónapot követő hónap 5. munkanapjáig küldi meg a finanszírozónak.
+(3)[^533] A szolgáltató a 18. számú melléklet szerinti adatokat a tárgyhónapot követő hónap 5. munkanapjáig küldi meg a finanszírozónak.
 
-[^534]: A 45/A. §-t a 72/2009. (IV. 3.) Korm. rendelet 8. §-a iktatta be.
-[^535]: A 46. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 21. §-ával megállapított, a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
-[^536]: A 46. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^531]: A 45/A. §-t a 72/2009. (IV. 3.) Korm. rendelet 8. §-a iktatta be.
+[^532]: A 46. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 21. §-ával megállapított, a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
+[^533]: A 46. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
