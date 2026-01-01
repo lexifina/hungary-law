@@ -4,21 +4,21 @@
 
 26. § (1) Ez a rendelet 2013. január 1-jén lép hatályba, rendelkezéseit – a (3) bekezdésben foglalt kivétellel – a hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-(2)[^53] E rendeletnek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 407/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (2) bekezdésének rendelkezéseit a Módr. hatálybalépését[^54] követően indult és a megismételt eljárásokban kell alkalmazni.
+(2)[^54] E rendeletnek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 407/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (2) bekezdésének rendelkezéseit a Módr. hatálybalépését[^55] követően indult és a megismételt eljárásokban kell alkalmazni.
 
-(3)[^55]
+(3)[^56]
 
 (4) Új doktori iskola alapításakor – ide nem értve azon tudományágakat, amelyekben az adott intézményben korábban már működött doktori iskola – a doktori iskola hét törzstagjából legalább öt törzstagnak, interdiszciplináris doktori iskola esetén legalább nyolc törzstagnak kell megfelelnie a 2. § (3) bekezdés d) pontjában előírt feltételnek. Ezen doktori iskolák valamennyi törzstagjának az alapítástól számított 6. naptári év végéig kell megfelelnie a 2. § (3) bekezdésében meghatározott valamennyi feltételnek.
 
 (5) A felsőoktatásról szóló 1993. évi LXXX. törvény és a felsőoktatásról szóló 2005. évi CXXXIX. törvény szabályainak megfelelően elnyert habilitált doktori cím egyenértékű jelen rendelet szabályai szerint elnyert habilitált doktori címmel.
 
-(6)[^56] Az a doktorandusz, doktorjelölt, aki a doktorandusz, doktorjelölti jogviszonyát a 2016/2017-es tanévet megelőzően létesítette
+(6)[^57] Az a doktorandusz, doktorjelölt, aki a doktorandusz, doktorjelölti jogviszonyát a 2016/2017-es tanévet megelőzően létesítette
 
 a) az Nftv. és e rendelet 2016. augusztus 31-én hatályos rendelkezései szerint szerezhet doktori fokozatot, vagy
 
 b) jogosult a 12. § alapján korábbi doktori tanulmányai elismerése mellett felvételét kérni azzal, hogy az Nftv. 47. § (2) bekezdése szerinti nyolc féléves támogatási időt – a doktori képzésben már igénybe vett támogatási idejére is tekintettel – nem lépheti túl.
 
-[^53]: A 26. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^54]: A hatálybalépés időpontja 2017. december 23.
-[^55]: A 26. § (3) bekezdését a 266/2016. (VIII. 31.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
-[^56]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 266/2016. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^54]: A 26. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^55]: A hatálybalépés időpontja 2017. december 23.
+[^56]: A 26. § (3) bekezdését a 266/2016. (VIII. 31.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^57]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 266/2016. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése iktatta be.
