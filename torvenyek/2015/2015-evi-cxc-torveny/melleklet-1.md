@@ -2,258 +2,248 @@
 
 1. Albánia
 
-1a. Andorra
+2. Andorra
 
-2. Anguilla
+3. Anguilla
 
-3. Antigua és Barbuda
+4. Antigua és Barbuda
 
-4. Argentína
+5. Argentína
 
-5. Aruba
+6. Aruba
 
-6. Ausztrália
+7. Ausztrália
 
-7. Ausztria
+8. Ausztria
 
-7a. Azerbajdzsán
+9. Azerbajdzsán
 
-7b. Bahama-szigetek
+10. Bahama-szigetek
 
-7c. Bahrein
+11. Bahrein
 
-8. Barbados
+12. Barbados
 
-9. Belgium
+13. Belgium
 
-10. Belize
+14. Belize
 
-11. Bermuda
+15. Bermuda
 
-11a. Brazília
+16. Brazília
 
-12. Brit Virgin-szigetek
+17. Brit Virgin-szigetek
 
-12a. Brunei
+18. Brunei
 
-13. Bulgária
+19. Bulgária
 
-14. Chile
+20. Chile
 
-15. Ciprus
+21. Ciprus
 
-16. Cook-szigetek
+22. Cook-szigetek
 
-17. Costa Rica
+23. Costa Rica
 
-18. Curaçao
+24. Curaçao
 
-19. Csehország
+25. Csehország
 
-20. Dánia
+26. Dánia
 
-21. Dél-Afrika
+27. Dél-Afrika
 
-21a. Dominikai Közösség
+28. Dominikai Közösség
 
-21b. Ecuador
+29. Ecuador
 
-21c. Egyesült Arab Emírségek
+30. Egyesült Arab Emírségek
 
-22. Egyesült Királyság
+31. Egyesült Királyság
 
-23. Észtország
+32. Észtország
 
-24. Feröer-szigetek
+33. Feröer-szigetek
 
-25. Finnország
+34. Finnország
 
-26. Franciaország és annak következő tengerentúli területei:
+35. Franciaország és annak következő tengerentúli területei: Francia Guyana, Guadeloupe, Martinique, Mayotte, Réunion, Saint-Barthélemy és Új-Kaledónia
 
-– Francia Guyana,
+36. Georgia
 
-– Guadeloupe,
+37. Ghána
 
-– Martinique,
+38. Gibraltár
 
-– Mayotte,
+39. Görögország
 
-– Réunion,
+40. Grenada
 
-– Saint-Barthélemy és
+41. Grönland
 
-– Új-Kaledónia
+42. Guernsey
 
-26a. Georgia
+43. Hollandia és annak következő területe: Bonaire, Sint Eustatius és Saba
 
-27. Ghána
+44. Hongkong
 
-28. Gibraltár
+45. Horvátország
 
-29. Görögország
+46. India
 
-30. Grenada
+47. Indonézia
 
-30a. Grönland
+48. Írország
 
-31. Guernsey
+49. Izland
 
-32. Hollandia és annak következő területe:
+50. Izrael
 
-– Bonaire, Sint Eustatius és Saba
+51. Jamaica
 
-32a. Hongkong
+52. Japán
 
-33. Horvátország
+53. Jersey
 
-34. India
+54. Kajmán-szigetek
 
-35. Indonézia
+55. Kamerun
 
-36. Írország
+56. Kanada
 
-37. Izland
+57. Katar
 
-37a. Izrael
+58. Kazahsztán
 
-37b. Jamaica
+59. Kenya
 
-38. Japán
+60. Kína
 
-39. Jersey
+61. Kolumbia
 
-40. Kajmán-szigetek
+62. Korea
 
-40a. Kamerun
+63. Kuvait
 
-41. Kanada
+64. Lengyelország
 
-41a. Katar
+65. Lettország
 
-41b. Kazahsztán
+66. Libanon
 
-41c. Kenya
+67. Libéria
 
-41d. Kína
+68. Liechtenstein
 
-42. Kolumbia
+69. Litvánia
 
-43. Korea
+70. Luxemburg
 
-43a. Kuvait
+71. Makaó
 
-44. Lengyelország
+72. Malajzia
 
-45. Lettország
+73. Maldív-szigetek
 
-45a. Libanon
+74. Man-sziget
 
-45b. Libéria
+75. Marokkó
 
-46. Liechtenstein
+76. Marshall-szigetek
 
-47. Litvánia
+77. Mauritius
 
-48. Luxemburg
+78. Málta
 
-48a. Makaó
+79. Mexikó
 
-48b. Malajzia
+80. Moldova
 
-48c. Maldív-szigetek
+81. Monaco
 
-49. Man-sziget
+82. Mongólia
 
-49a. Marokkó
+83. Montenegró
 
-50. Marshall-szigetek
+84. Montserrat
 
-51. Mauritius
+85. Nauru
 
-52. Málta
+86. Németország
 
-53. Mexikó
+87. Nigéria
 
-53a. Moldova
+88. Niue
 
-53b. Monaco
+89. Norvégia
 
-53c. Montenegró
+90. Olaszország
 
-54. Montserrat
+91. Omán
 
-54a. Nauru
+92. Orosz Föderáció
 
-55. Németország
+93. Örményország
 
-55a. Nigéria
+94. Pakisztán
 
-56. Niue
+95. Panama
 
-57. Norvégia
+96. Pápua Új-Guinea
 
-58. Olaszország
+97. Peru
 
-58a. Omán
+98. Portugália
 
-58b. Orosz Föderáció
+99. Románia
 
-58c. Örményország
+100. Ruanda
 
-58d. Pakisztán
+101. Saint Kitts és Nevis
 
-58e. Panama
+102. Saint Lucia
 
-58f. Peru
+103. Saint Vincent és a Grenadine-szigetek
 
-59. Portugália
+104. Samoa
 
-60. Románia
+105. San Marino
 
-60a. Ruanda
+106. Seychelle-szigetek
 
-60b. Saint Kitts és Nevis
+107. Sint Maarten
 
-61. Saint Lucia
+108. Spanyolország
 
-62. Saint Vincent és a Grenadine-szigetek
+109. Svájc
 
-63. Samoa
+110. Svédország
 
-64. San Marino
+111. Szaúd-Arábia
 
-65. Seychelle-szigetek
+112. Szenegál
 
-66. Sint Maarten
+113. Szingapúr
 
-67. Spanyolország
+114. Szlovák Köztársaság
 
-68. Svájc
+115. Szlovénia
 
-69. Svédország
+116. Törökország
 
-69a. Szaúd-Arábia
+117. Thaiföld
 
-69b. Szenegál
+118. Trinidad és Tobago
 
-69c. Szingapúr
+119. Turks és Caicos-szigetek
 
-70. Szlovák Köztársaság
+120. Uganda
 
-71. Szlovénia
+121. Ukrajna
 
-71a. Törökország
+122. Uruguay
 
-71b. Thaiföld
+123. Új-Zéland
 
-72. Turks és Caicos-szigetek
-
-72a. Uganda
-
-72b. Ukrajna
-
-72c. Uruguay
-
-73. Új-Zéland
-
-74. Vanuatu
+124. Vanuatu
