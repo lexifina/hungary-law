@@ -1,0 +1,1 @@
+34. § Hatályát veszti az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény 1. melléklet 1. pontjában foglalt táblázat 19., 22., 23., 28., 37., 103. és 140. sora.

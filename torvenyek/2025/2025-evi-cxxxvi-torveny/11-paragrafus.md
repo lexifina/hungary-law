@@ -1,0 +1,3 @@
+11. § Az Stv. 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szakszövetség nyilvántartott tagsággal rendelkező szervezet, amelyet a sportág versenyrendszerében részt vevő sportszervezetek hozhatnak létre. A sportszervezet tagként való felvétele a szakszövetségbe nem tagadható meg, ha az a szakszövetség alapszabályát magára nézve kötelezőnek fogadja el, és vállalja, hogy a sportág versenyrendszerében – legalább egy versenyző vagy csapat indításával – részt vesz. A versenyrendszerben való részvétel igazolásának határidejére, módjára és a tagsági jogok gyakorolhatósága tekintetében a versenyrendszerben való részvételhez vagy annak hiányához kapcsolódó következményekre vonatkozó részletes szabályokról a szakszövetség szabályzatában rendelkezik.”
