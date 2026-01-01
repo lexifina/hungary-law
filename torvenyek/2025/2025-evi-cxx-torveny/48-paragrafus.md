@@ -1,1 +1,3 @@
-### 48. §
+48. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 19. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Amennyiben a felügyeleti szerv megállapítja, hogy az útdíjszedő gyakorlata, vagy más körülmény miatt az UD rendszer nem felel meg a meghatározott átjárhatósági műszaki és eljárási feltételeknek, egyeztetést kezdeményez az útdíjszedővel, valamint más érintettekkel, és felhívja az útdíjszedőt, hogy legfeljebb hat hónapon belül tegye alkalmassá a rendszert az (EU) 2019/520 európai parlamenti és tanácsi irányelvben meghatározott átjárhatósági műszaki és eljárási követelmények teljesítésére. Amennyiben az útdíjszedő a határidőt elmulasztja, a 20. § (2) bekezdés b) pontja szerinti bírság kiszabása mellett a felügyeleti szerv kötelezi az irányelv szerinti kötelezettségei teljesítésére.”
