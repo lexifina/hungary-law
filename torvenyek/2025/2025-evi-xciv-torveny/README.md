@@ -1,0 +1,7 @@
+# 2025. évi XCIV. törvény fogyasztóvédelmi tárgyú törvényeknek a mikro-, kis- és középvállalkozások támogatását és jogharmonizációt célzó módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-94-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2026-01-01 | 2025. évi XCIV. törvény | 2025-94-00-00.0 (közlönyállapot) |
