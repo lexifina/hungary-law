@@ -48,9 +48,9 @@
 
 | 24. |  |  |
 
-| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 25. |  |  |
 
-| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 26. |  |  |
 
 | 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispán |
 
