@@ -14,8 +14,6 @@
 
 ## a következőket rendelem el:
 
-## 1.[^1]
+## 1. A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet módosítása
 
-1. §
-
-[^1]: Az 1. alcím (1–2. §) a 10. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+1. § A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet [a továbbiakban: 24/2005. (IV. 21.) GKM rendelet] 38. § (3) bekezdés b) pont bd) alpontjában a „követelményeknek, valamint” szövegrész helyébe a „követelményeknek” szöveg lép.

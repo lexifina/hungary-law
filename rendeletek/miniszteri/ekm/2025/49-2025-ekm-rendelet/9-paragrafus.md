@@ -1,5 +1,3 @@
-## 6.[^5]
+## 6. A közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló 46/2024. (XII. 30.) ÉKM rendelet módosítása
 
-9. §
-
-[^5]: A 6. alcím (9. §) a 10. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+9. § A közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló 46/2024. (XII. 30.) ÉKM rendelet 4. § (4) bekezdésében a „236” szövegrész helyébe a „316” szöveg lép.

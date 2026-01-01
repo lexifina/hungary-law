@@ -1,3 +1,5 @@
 ## 5. A XVI. Építési és Közlekedési Minisztérium fejezet fejezeti kezelésű előirányzatainak és központi kezelésű előirányzatainak kezeléséről és felhasználásáról szóló 24/2023. (XII. 29.) ÉKM rendelet módosítása
 
-8. § A XVI. Építési és Közlekedési Minisztérium fejezet fejezeti kezelésű előirányzatainak és központi kezelésű előirányzatainak kezeléséről és felhasználásáról szóló 24/2023. (XII. 29.) ÉKM rendelet 1. mellékletében foglalt táblázat F:12 mező 5. pontjában az „az egyes ipari parki, iparterületi beruházásokhoz kapcsolódó közúti fejlesztések támogatásához, valamint egyéb kormányzati célokhoz kapcsolódó közúti fejlesztések finanszírozásához fűződően nyilvántartott függő követelések, szerződések elszámolását, lezárását érintően” szövegrész helyébe az „az egyes ipari parki, iparterületi beruházásokhoz kapcsolódó közúti fejlesztések támogatásához, valamint egyéb vagy kormányzati célokhoz kapcsolódó közúti fejlesztéseket is érintő feladatok finanszírozásához” szöveg lép.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
