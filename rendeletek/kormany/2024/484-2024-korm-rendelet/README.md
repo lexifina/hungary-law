@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-484-20-
 | 2025-07-02 | 2024-484-20-22.7 | 2010. évi CXXX. törvény |
 | 2025-11-01 | 2024-484-20-22.8 | 342/2025. (X. 31.) Korm. rendelet |
 | 2025-12-31 | 2024-484-20-22.9 | 461/2025. (XII. 30.) Korm. rendelet |
+| 2026-01-01 | 2024-484-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
