@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2023-09-01 | 2023. évi XXXVIII. törvény | 1997-159-00-00.46 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 1997-159-00-00.48 |
 | 2025-06-15 | 2025. évi XXXV. törvény | 1997-159-00-00.49 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 1997-159-00-00.50 |

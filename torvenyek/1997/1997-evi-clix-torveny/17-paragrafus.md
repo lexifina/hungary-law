@@ -13,3 +13,5 @@ d) a mezei őrszolgálat működési területe nagyságáról és a működési 
 e) a mezőőri járulék szedéséről és annak mértékéről, valamint
 
 f) a mezei őrszolgálat megszűnésének időpontjáról.
+
+(3) A (2) bekezdés szerinti nyilvántartás a (2) bekezdés b), e) és f) pontja tekintetében közhitelesnek minősül.

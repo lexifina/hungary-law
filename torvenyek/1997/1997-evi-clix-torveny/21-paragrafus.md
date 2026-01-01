@@ -19,3 +19,5 @@ f) tevékenységi területéről, valamint
 g) szolgálati igazolványa és szolgálati jelvénye sorszámáról.
 
 (4) A (3) bekezdés szerinti nyilvántartásban szereplő személyes adatok a foglalkoztatás megszűnésének évét követő év végéig kezelhetők.
+
+(5) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés c) és f) pontja tekintetében közhitelesnek minősül.
