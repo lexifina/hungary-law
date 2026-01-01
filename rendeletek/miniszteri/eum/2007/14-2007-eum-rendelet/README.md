@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2025-08-03 | 2007-14-20-0B.64 | 31/2025. (VII. 31.) BM rendelet |
 | 2025-10-01 | 2007-14-20-0B.65 | 41/2025. (IX. 29.) BM rendelet |
 | 2025-12-28 | 2007-14-20-0B.66 | 41/2025. (IX. 29.) BM rendelet |
+| 2026-01-01 | 2007-14-20-0B.67 | 51/2025. (XII. 22.) BM rendelet |
