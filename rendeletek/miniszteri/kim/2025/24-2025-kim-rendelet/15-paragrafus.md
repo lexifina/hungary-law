@@ -2,11 +2,10 @@
 
 (2)[^17]
 
-(3)[^18]
+(3)[^18] A Rendelet 1. melléklete helyébe a 3. melléklet lép.
 
-(4)[^19]
+(4) A Rendelet 2. melléklete helyébe a 4. melléklet lép.
 
 [^16]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: A 15. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 15. § (3) bekezdése a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^19]: A 15. § (4) bekezdése a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^18]: A 3. melléklet a 25/2025. (XII. 29.) KIM rendelet 6. § b) pontja alapján nem lép hatályba.
