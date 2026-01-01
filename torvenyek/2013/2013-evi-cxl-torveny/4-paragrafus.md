@@ -46,4 +46,4 @@ is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról
 
 (13) A fémkereskedő a fémkereskedelmi engedélyköteles anyag más fémkereskedőtől történő felvásárlása során a 4. § (2) bekezdésben meghatározott írásbeli megállapodásban és az anyagkísérő okmányon a 3. § (5) bekezdésben felsorolt fémkereskedelmi engedélyköteles anyagokat külön tételként az ott meghatározott felismerésre alkalmas jellemző megjelölésével köteles feltüntetni és aszerint nyilvántartásba venni.
 
-(14) A fémkereskedelmi hatóság által a (10) bekezdés alapján vezetett nyilvántartás – a telephelyek nyitva tartására vonatkozó adat, illetve azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(14)
