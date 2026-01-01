@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2025-01-16 | 2013-369-20-22.39 | 353/2014. (XII. 29.) Korm. rendelet |
 | 2025-01-24 | 2013-369-20-22.40 | 1/2025. (I. 23.) Korm. rendelet |
 | 2025-07-01 | 2013-369-20-22.41 | 305/2018. (XII. 27.) Korm. rendelet |
+| 2026-01-01 | 2013-369-20-22.42 | 179/2025. (VI. 30.) Korm. rendelet |

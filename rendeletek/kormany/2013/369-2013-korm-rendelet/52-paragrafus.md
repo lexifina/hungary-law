@@ -1,5 +1,5 @@
 ## 19. Módosító rendelkezések
 
-52. §[^179]
+52. §[^180]
 
-[^179]: Az 52–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^180]: Az 52–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
