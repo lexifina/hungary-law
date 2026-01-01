@@ -19,3 +19,7 @@ d) a fás szárú ültetvény telepítésének éve,
 e) a fás szárú ültetvény kitermelésére vonatkozó adatok (év, kitermelt nettó fatömeg, kitermeléssel érintett terület nagysága).
 
 (2) A fás szárú ültetvényekről (1) bekezdés szerinti nyilvántartás adatai nyilvánosak, azokba – elektronikus úton is – betekintés biztosítható, illetve hiteles másolat adható.
+
+(3)[^3] Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a), c)–e) pontja szerinti adatok tekintetében közhiteles.
+
+[^3]: A 6. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 39. §-a iktatta be.
