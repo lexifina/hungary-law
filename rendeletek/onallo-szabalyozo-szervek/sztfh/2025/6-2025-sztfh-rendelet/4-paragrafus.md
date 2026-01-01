@@ -1,5 +1,5 @@
 ## 2. Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 20/2021. (X. 29.) SZTFH rendelet módosításáról
 
-4. §[^8]
+4. §[^4]
 
-[^8]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

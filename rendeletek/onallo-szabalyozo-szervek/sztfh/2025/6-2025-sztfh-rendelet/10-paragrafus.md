@@ -1,3 +1,5 @@
-10. §[^14]
+10. § Hatályát veszti az R2.
 
-[^14]: A 10. § a 11. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+a) 7. § (3) bekezdése,
+
+b) 15. § (1) bekezdése.

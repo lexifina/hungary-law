@@ -1,17 +1,13 @@
 3. § Hatályát veszti az R1.
 
-a)[^3]
+a) 5. § (1) bekezdésében a „vagy több szervezőre” szövegrész,
 
-b)[^4]
+b) 5. § (4) bekezdése,
 
-c)[^5]
+c) 7. § (1) és (2) bekezdésében „a szervező és” szövegrész,
 
-d)[^6]
+d) 19. § (2) bekezdés c) pontjában a „vagy a szervezőket” szövegrész,
 
-e)[^7]
+e)[^3]
 
-[^3]: A 3. § a) pontja a 11. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^4]: A 3. § b) pontja a 11. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^5]: A 3. § c) pontja a 11. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^6]: A 3. § d) pontja a 11. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^7]: A 3. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
