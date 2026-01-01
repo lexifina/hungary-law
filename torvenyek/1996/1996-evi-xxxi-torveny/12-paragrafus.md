@@ -24,7 +24,7 @@ c) a szolgáltatás megkezdésének és befejezésének időpontját vagy a hat�
 
 d) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltó készülék karbantartó szervezet címét.
 
-(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének, a tűzoltó készülék karbantartó szervezet címének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A tűzvédelmi hatóság a hivatásos katasztrófavédelmi szerv központi szerve részére a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő tevékenységet folytatókról a (3) bekezdés szerint vezetett nyilvántartás adatait átadja.
 

@@ -44,7 +44,7 @@ c) a szakértői bizonyítvány számát, a kiadás időpontját, valamint
 
 d) a tűzvédelmi szakterület megnevezését.
 
-(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok és az elérhetőségi cím (postacím, telefon-, telefaxszám, e-mail) kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak a (3) bekezdés b)–d) pontjában szereplő adatai is nyilvánosak.
 
