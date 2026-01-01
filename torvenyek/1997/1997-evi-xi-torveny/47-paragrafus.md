@@ -38,7 +38,7 @@ n) a védjegyoltalomra alapított jelzálogjogot és a végrehajtás alá vonás
 
 o) a 18. § (1) bekezdésében meghatározott ötéves időszak 18. § (1)–(3) bekezdései szerint meghatározott kezdő napját.
 
-(3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) A védjegylajstrom – a (2) bekezdés e) és f) pontjában foglalt adatok kivételével – közhiteles nyilvántartás, amely a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
 (4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a védjeggyel kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a védjegylajstromba bejegyezték.
 
