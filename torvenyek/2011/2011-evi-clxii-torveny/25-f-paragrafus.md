@@ -1,0 +1,1 @@
+25/F. § Ha a katonai bíró Magyar Honvédséggel fennálló szolgálati viszonya a honvédek jogállásáról szóló kormányrendelet szerint az öregségi nyugdíjkorhatár betöltésével megszűnik és a bíró az általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását kéri, a 97. § (3) bekezdése szerint kell eljárni.

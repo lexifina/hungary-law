@@ -16,9 +16,13 @@ g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szerveze
 
 h) ha a bíró
 
-ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
+ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt és nem kérte az általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását,
 
 hb) a felmentési okként meghatározott életkor betöltése előtt, maga kéri nyugállományba helyezését a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással,
+
+hc) az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén betölti a hetvenedik életévét,
+
+hd) az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén – a Tny. 18. § (2) vagy (2a) bekezdésben foglalt feltételek fennállására hivatkozással – maga kéri nyugállományba helyezését,
 
 i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 
