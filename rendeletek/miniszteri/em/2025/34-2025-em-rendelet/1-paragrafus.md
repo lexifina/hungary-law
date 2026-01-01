@@ -6,6 +6,62 @@
 
 ## [4] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 17. alpontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. §[^1]
+1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 15/2023. (VII. 25.) EM rendelet (a továbbiakban: Rendelet) 4. §-a helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„4. § (1) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+
+1. 3–7., 9–11., 13., 17., 19–21., 23–24., 27–31. és 32. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
+
+2. 27–32. sora alapján az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
+
+3. 6., 7., 9–11., 13. és 27–32. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
+
+4. 6., 7., 9–11., 13., 14., 21. és 27–32. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális beruházási támogatás;
+
+5. 6., 13., 14. és 21. sora alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti kis- és középvállalkozásnak nyújtott beruházási támogatás;
+
+6. 27–32. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás;
+
+7. 4., 7. és 9–11. sora alapján a 651/2014/EU bizottsági rendelet 22. cikke szerinti induló vállalkozásnak nyújtott támogatás;
+
+8. 4., 6., 7., 9–11., 13. és 17. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatás-fejlesztési projektekhez nyújtott támogatás;
+
+9. 4., 6., 7., 9–11. és 13. sora alapján a 651/2014/EU bizottsági rendelet 26. cikke szerinti kutatási infrastruktúrához nyújtott beruházási támogatás;
+
+10. 4., 6., 7., 9–11. és 13. sora alapján a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középvállalkozásoknak nyújtott innovációs támogatás;
+
+11. 13. sora alapján a 651/2014/EU bizottsági rendelet 29. cikke szerinti eljárási és szervezési innováció támogatása;
+
+12. 13. és 27–32. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+
+13. 4., 7., 9–11. és 13. sora alapján a 651/2014/EU bizottsági rendelet 36. cikke szerinti dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás;
+
+14. 7. és 9–11. sora alapján a 651/2014/EU bizottsági rendelet 36a. cikke szerinti elektromos vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás;
+
+15. 7. és 9–11 sora alapján a 651/2014/EU bizottsági rendelet 36b. cikke szerinti, tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatás;
+
+16. 3., 4., 7. és 9–11. sora alapján a 651/2014/EU bizottsági rendelet 38. cikke szerinti épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás;
+
+17. 3., 4., 7. és 9–11. sora alapján a 651/2014/EU bizottsági rendelet 38a. cikke szerinti épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás;
+
+18. 3., 4., 7., és 9–11. sora alapján a 651/2014/EU bizottsági rendelet 41. cikke szerinti megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás;
+
+19. 3., 7. és 9–11., sora alapján a 651/2014/EU bizottsági rendelet 46. cikke szerinti energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás;
+
+20. 6. sora alapján a 651/2014/EU bizottsági rendelet 47. cikke szerinti erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatás;
+
+21. 4., 7., 9–11. és 20. sora alapján a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás;
+
+22. 4., 7. és 9–11. sora szerinti támogatási kategóriával támogatott beruházáshoz a 651/2014/EU bizottsági rendelet 49. cikke szerinti környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás;
+
+23. 27–32. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás;
+
+24. 13. és 14. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás;
+
+25. 4., 7., 9–11., 14., 19., 21. és 32. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
+
+26. 4. sora alapján az (EU) 2021/783 európai parlamenti és tanácsi rendelet 4. cikk 2. pontja szerinti Éghajlat-politika területhez (a továbbiakban: Éghajlat-politika terület) sorolt már uniós támogatást elnyert és végrehajtás alatt álló projektek összegéhez nyújtott támogatás
+
+nyújtható.
+
+(2) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat 12., 14., 16., 18., 20. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás nyújtható.”

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-34-20-8
 | --- | --- | --- |
 | 2025-12-20 | 2025-34-20-8Y.1 | 34/2025. (XII. 19.) EM rendelet |
 | 2025-12-21 | 2025-34-20-8Y.2 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2025-34-20-8Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
