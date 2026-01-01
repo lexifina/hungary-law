@@ -40,7 +40,7 @@ részére, amely szervek a jelentést megküldik a védelmi és biztonsági tev�
 
 (6) Az (1) bekezdés szerinti bejelentést a rendkívüli esemény kezelésében érintett szervezetek felhasználják a kritikus szervezetek rendkívüli eseményre történő reagálása, védekezése és helyreállításának fejlesztése érdekében.
 
-(7) Ha a közérdek alapján szükséges, az erre kijelölt közigazgatási szerv, illetve állami vezető a rendkívüli eseménnyel kapcsolatban tájékoztatja a nyilvánosságot.
+(7) Ha a közérdek alapján szükséges, az erre kijelölt közigazgatási szerv, illetve állami vezető a rendkívüli eseménnyel kapcsolatban tájékoztatja a nyilvánosságot, kivéve a Magyar Nemzeti Bankra mint az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetre vonatkozó rendkívüli eseményt, amelyről a Magyar Nemzeti Bank elnöke döntése szerint kerül a nyilvánosság tájékoztatásra.
 
 (8) A kritikus infrastruktúrát érintő tervezett és soron kívüli karbantartások, javítások és a rendkívüli esemény kezelésében közreműködő szervezetek, valamint a közreműködő természetes személyek, szervezetek és más érintett résztvevők kötelesek biztosítani annak elsődlegességét, hogy a kritikus szervezet és kritikus infrastruktúra, az alapvető szolgáltatás működése a lehető legrövidebb ideig legyen korlátozott.
 

@@ -16,7 +16,7 @@ c) a kijelölő hatóság felkérésére stressz-teszten vesz részt.
 
 (5) A komplex ellenálló képességi gyakorlat célja a kritikus szervezet ellenálló képességi tervében megjelölt szervezeti és eszközrendszer alkalmasságának, továbbá a kritikus szervezet és a rendkívüli esemény kezelésében érintett szervezetek együttműködésének vizsgálata.
 
-(6) A komplex ellenálló képességi gyakorlat megfelelőségét az általános kijelölő hatóság értékeli. Ha az értékelő azt állapítja meg, hogy az ellenálló képességi terv valamely része, vagy az alkalmazott eljárásrend nem megfelelő, a kritikus szervezetet az ellenálló képességi terv soron kívüli módosítására, a komplex ellenálló képességi gyakorlat megismétlésére kötelezheti.
+(6) A komplex ellenálló képességi gyakorlat megfelelőségét az általános kijelölő hatóság értékeli. Ha az értékelő azt állapítja meg, hogy az ellenálló képességi terv valamely része, vagy az alkalmazott eljárásrend nem megfelelő, a kritikus szervezetet – az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank kivételével – az ellenálló képességi terv soron kívüli módosítására, a komplex ellenálló képességi gyakorlat megismétlésére kötelezheti. Az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank esetében az általános kijelölő hatóság a Magyar Nemzeti Bankot tájékoztatja a komplex gyakorlat megfelelőségéről tett megállapításairól.
 
 (7) A kritikus szervezet a komplex ellenálló képességi gyakorlat lefolytatásával a tárgyévben esedékes ellenálló képességi gyakorlatot is teljesíti.
 

@@ -1,6 +1,6 @@
 ## 11. Ellenálló képességi terv
 
-19. § (1) A kritikus szervezet a kijelölő hatóság határozatában meghatározott határidőre kidolgozza, és az általános kijelölő hatóság részére elfogadás céljából, elektronikus úton megküldi az általános kijelölő hatóság által meghatározott és honlapján közzétett formanyomtatvány kitöltésével elkészített ellenálló képességi tervet és annak mellékletét képező ellenálló képességi mátrixot.
+19. § (1) A kritikus szervezet a kijelölő hatóság határozatában meghatározott határidőre kidolgozza, és az általános kijelölő hatóság részére elfogadás céljából – az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bank tájékoztatás céljából –, elektronikus úton megküldi az általános kijelölő hatóság által meghatározott és honlapján közzétett formanyomtatvány kitöltésével elkészített ellenálló képességi tervet és annak mellékletét képező ellenálló képességi mátrixot.
 
 (2) A kritikus szervezet által elkészített ellenálló képességi terv, ellenálló képességi mátrix elfogadásáról, kiegészíttetéséről, módosításáról vagy elutasításáról a tartalmi és formai követelmények vizsgálata alapján az általános kijelölő hatóság dönt az érintett energetikai ágazati kijelölő hatóság vagy ágazati szakhatóság bevonásával.
 

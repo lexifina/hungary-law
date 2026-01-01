@@ -26,6 +26,18 @@ e) a 34. § (2) és (3) bekezdés
 
 nem alkalmazandó.
 
+(3a) Az 1. mellékletben foglalt táblázat 72. és 75. sorában meghatározott alapvető szolgáltatást nyújtó szervezetként eljáró Magyar Nemzeti Bankra
+
+a) a 19. § (2) bekezdés és a 19. § (5) bekezdés b) pont bc)–be) alpontja,
+
+b) a 21. § (1)–(5) bekezdése,
+
+c) a 28. §, valamint
+
+d) a 32. § (5) bekezdése
+
+nem alkalmazandó.
+
 (4) A kritikus szervezetekre és kritikus infrastruktúrákra e törvényben foglalt rendelkezéseket az (EU) 2022/2555 európai parlamenti és tanácsi irányelvet (a továbbiakban: NIS 2 irányelv) átültető nemzeti jogszabályokban foglaltak elsőbbségével kell alkalmazni.
 
 (5) A földgáz, hidrogén és villamos energia alágazatra e törvény rendelkezései – e törvényben meghatározott eltérésekkel – alkalmazandók.
