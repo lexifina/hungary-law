@@ -28,9 +28,9 @@ a) a 6. melléklet I. pontja, valamint
 
 b) a 6. melléklet II. pontja,
 
-12. korlátozott villamosenergia-kereskedelmi működési engedélyes a 7. melléklet I. pontja,
+12.[^21] korlátozott villamosenergia-kereskedelmi működési engedélyes, illetve az üzletszabályzat-mentesítésről szóló határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes a 7. melléklet I. pontja,
 
-13. villamosenergia-kereskedelmi működési engedélyes a 7. melléklet II. pontja,
+13.[^22] az üzletszabályzattal rendelkező villamosenergia-kereskedelmi működési engedélyes (az üzletszabályzat-mentesítésről szóló határozattal nem rendelkező engedélyes) a 7. melléklet II. pontja,
 
 14. a Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes a 7. melléklet III. pontja,
 
@@ -53,3 +53,5 @@ b) a 6. melléklet II. pontja,
 alapján.
 
 [^20]: A 10. § a 17/2025. (XI. 13.) MEKH rendelet 4. §-ával megállapított szöveg.
+[^21]: A 10. § 12. pontja a 17/2025. (XI. 13.) MEKH rendelet 6. § 3. pontja szerint módosított szöveg.
+[^22]: A 10. § 13. pontja a 17/2025. (XI. 13.) MEKH rendelet 6. § 4. pontja szerint módosított szöveg.

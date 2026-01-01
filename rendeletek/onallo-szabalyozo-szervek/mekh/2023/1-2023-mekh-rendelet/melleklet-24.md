@@ -26,13 +26,13 @@
 
 | 13. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 14.[^110] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 14.[^114] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-| 15.[^111] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
+| 15.[^115] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
 
-| 16.[^112] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
+| 16.[^116] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
 
-| 17.[^113] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
+| 17.[^117] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
 
 ## II. A nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és nem időjárásfüggő (biomassza kivételével) megújuló energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -68,13 +68,13 @@
 
 | 15. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 16.[^114] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 16.[^118] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-| 17.[^115] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
+| 17.[^119] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
 
-| 18.[^116] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
+| 18.[^120] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
 
-| 19.[^117] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
+| 19.[^121] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
 
 ## III. A földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -116,13 +116,13 @@
 
 | 18. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 19.[^118] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 19.[^122] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-| 20.[^119] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
+| 20.[^123] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
 
-| 21.[^120] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
+| 21.[^124] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
 
-| 22.[^121] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
+| 22.[^125] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
 
 ## IV. A biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -160,13 +160,13 @@
 
 | 16. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 17.[^122] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 17.[^126] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-| 18.[^123] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
+| 18.[^127] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
 
-| 19.[^124] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
+| 19.[^128] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
 
-| 20.[^125] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
+| 20.[^129] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
 
 ## V. Az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli létesítmények részére térítésmentesen kiosztásra került kibocsátási egységekkel összefüggésben földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -210,37 +210,37 @@
 
 | 19. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 20.[^126] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 20.[^130] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-| 21.[^127] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
+| 21.[^131] | Lakossági felhasználókra vonatkozó naturáliák | T544 | Éves | A tárgyidőszakot követő év március 31. |
 
-| 22.[^128] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
+| 22.[^132] | Távhőszolgáltatók HMV-vel kapcsolatos víziközmű költségei és bevételei | T545 | Éves | Az adatokat a tárgyévet követő év május 31. napjáig kell megadni. |
 
-| 23.[^129] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
+| 23.[^133] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | T524 | Negyedéves | Az adatokat a tárgyidőszakot követő 10. napig kell megadni. |
 
-24. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^130]
+24. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^134]
 
-A RIR szolgáltatásra akkreditált szabályozási egységet képviselő kiegyenlítő szabályozási szolgáltató (RIR Szolgáltató)[^131]
+A RIR szolgáltatásra akkreditált szabályozási egységet képviselő kiegyenlítő szabályozási szolgáltató (RIR Szolgáltató)[^135]
 
-[^110]: A 23. melléklet I. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^111]: A 23. melléklet I. pontjában foglalt táblázat 15. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
-[^112]: A 23. melléklet I. pontjában foglalt táblázat 16. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^113]: A 23. melléklet I. pontjában foglalt táblázat 17. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^114]: A 23. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^115]: A 23. melléklet II. pontjában foglalt táblázat 17. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
-[^116]: A 23. melléklet II. pontjában foglalt táblázat 18. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^117]: A 23. melléklet II. pontjában foglalt táblázat 19. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^118]: A 23. melléklet III. pontjában foglalt táblázat 19. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^119]: A 23. melléklet III. pontjában foglalt táblázat 20. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
-[^120]: A 23. melléklet III. pontjában foglalt táblázat 21. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^121]: A 23. melléklet III. pontjában foglalt táblázat 22. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^122]: A 23. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^123]: A 23. melléklet IV. pontjában foglalt táblázat 18. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
-[^124]: A 23. melléklet IV. pontjában foglalt táblázat 19. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^125]: A 23. melléklet IV. pontjában foglalt táblázat 20. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^126]: A 23. melléklet V. pontjában foglalt táblázat 20. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^127]: A 23. melléklet V. pontjában foglalt táblázat 21. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
-[^128]: A 23. melléklet V. pontjában foglalt táblázat 22. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^129]: A 23. melléklet V. pontjában foglalt táblázat 23. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
-[^130]: A 24. mellékletet a 2/2024. (III. 12.) MEKH rendelet 4. § (6) bekezdése iktatta be.
-[^131]: A 24. melléklet címe a 17/2025. (XI. 13.) MEKH rendelet 6. § 7. pontja szerint módosított szöveg.
+[^114]: A 23. melléklet I. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^115]: A 23. melléklet I. pontjában foglalt táblázat 15. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
+[^116]: A 23. melléklet I. pontjában foglalt táblázat 16. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^117]: A 23. melléklet I. pontjában foglalt táblázat 17. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^118]: A 23. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^119]: A 23. melléklet II. pontjában foglalt táblázat 17. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
+[^120]: A 23. melléklet II. pontjában foglalt táblázat 18. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^121]: A 23. melléklet II. pontjában foglalt táblázat 19. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^122]: A 23. melléklet III. pontjában foglalt táblázat 19. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^123]: A 23. melléklet III. pontjában foglalt táblázat 20. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
+[^124]: A 23. melléklet III. pontjában foglalt táblázat 21. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^125]: A 23. melléklet III. pontjában foglalt táblázat 22. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^126]: A 23. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^127]: A 23. melléklet IV. pontjában foglalt táblázat 18. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
+[^128]: A 23. melléklet IV. pontjában foglalt táblázat 19. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^129]: A 23. melléklet IV. pontjában foglalt táblázat 20. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^130]: A 23. melléklet V. pontjában foglalt táblázat 20. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^131]: A 23. melléklet V. pontjában foglalt táblázat 21. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (5) bekezdése iktatta be.
+[^132]: A 23. melléklet V. pontjában foglalt táblázat 22. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^133]: A 23. melléklet V. pontjában foglalt táblázat 23. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (6) bekezdése iktatta be.
+[^134]: A 24. mellékletet a 2/2024. (III. 12.) MEKH rendelet 4. § (6) bekezdése iktatta be.
+[^135]: A 24. melléklet címe a 17/2025. (XI. 13.) MEKH rendelet 6. § 7. pontja szerint módosított szöveg.

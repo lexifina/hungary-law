@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1-20-5Z
 | 2024-12-01 | 2023-1-20-5Z.6 | 11/2024. (XI. 21.) MEKH rendelet |
 | 2025-07-01 | 2023-1-20-5Z.7 | 8/2025. (VI. 4.) MEKH rendelet |
 | 2025-12-01 | 2023-1-20-5Z.8 | 17/2025. (XI. 13.) MEKH rendelet |
+| 2026-01-01 | 2023-1-20-5Z.9 | 17/2025. (XI. 13.) MEKH rendelet |

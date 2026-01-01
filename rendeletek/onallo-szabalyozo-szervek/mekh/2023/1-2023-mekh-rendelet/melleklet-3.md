@@ -8,8 +8,8 @@
 
 | 4. | Villamos hálózatok év végi nyomvonalhossza (B) | V122 | Éves | Az adatokat évente, a tárgyidőszakot követő év február 20-ig kell megadni. |
 
-3. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^27]
+3. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^29]
 
 I. A nem biomassza energiahordozót felhasználó, 50 MW vagy annál nagyobb névleges teljesítőképességű erőmű adatszolgáltatási kötelezettsége
 
-[^27]: A 3. melléklet a 9/2023. (VI. 23.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
+[^29]: A 3. melléklet a 9/2023. (VI. 23.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
