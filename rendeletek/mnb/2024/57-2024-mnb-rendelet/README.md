@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-57-20-2
 | 2025-01-02 | 2024-57-20-2C.2 | 2010. évi CXXX. törvény |
 | 2025-04-01 | 2024-57-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-04-02 | 2024-57-20-2C.4 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2024-57-20-2C.5 | 42/2025. (XII. 4.) MNB rendelet |
