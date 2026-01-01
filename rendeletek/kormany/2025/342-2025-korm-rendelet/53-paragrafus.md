@@ -1,5 +1,3 @@
-## 38.[^38]
+## 38. A hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokról szóló 55/2023. (II. 27.) Korm. rendelet módosítása
 
-53. §
-
-[^38]: A 38. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+53. § Hatályát veszti a hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokról szóló 55/2023. (II. 27.) Korm. rendelet 2. § (1) bekezdésében az „A nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartás.” szövegrész.

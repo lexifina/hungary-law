@@ -1,5 +1,5 @@
-## 29.[^29]
+## 29. A kulturális szakemberek szakmai továbbképzésének nyilvántartásba vételi szabályairól szóló 378/2017. (XII. 11.) Korm. rendelet módosítása
 
-41. §
+41. § A kulturális szakemberek szakmai továbbképzésének nyilvántartásba vételi szabályairól szóló 378/2017. (XII. 11.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
 
-[^29]: A 29. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„4. § A programokról vezetett nyilvántartásban szerelő adatokat a miniszter a kormányzati portálon közzéteszi.”

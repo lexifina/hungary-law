@@ -1,5 +1,3 @@
-## 26.[^26]
+## 26. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet módosítása
 
-38. §
-
-[^26]: A 26. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+38. § Hatályát veszti a fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés k) pontja.

@@ -1,5 +1,5 @@
-## 27.[^27]
+## 27. A fás szárú ültetvényekről szóló 135/2017. (VI. 9.) Korm. rendelet módosítása
 
-39. §
+39. § A fás szárú ültetvényekről szóló 135/2017. (VI. 9.) Korm. rendelet 6. §-a a következő (3) bekezdéssel egészül ki:
 
-[^27]: A 27. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(3) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a), c)–e) pontja szerinti adatok tekintetében közhiteles.”

@@ -1,5 +1,5 @@
-## 24.[^24]
+## 24. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet módosítása
 
-34. §
+34. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet 29. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^24]: A 24. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(2a) A hatósági hivatalos névjegyzék a (2) bekezdés b)–d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.”

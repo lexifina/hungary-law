@@ -1,5 +1,3 @@
-## 2.[^2]
+## 2. A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosítása
 
-2. §
-
-[^2]: A 2. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+2. § Hatályát veszti a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 19. § (5a) bekezdése.

@@ -1,5 +1,3 @@
-## 40.[^40]
+## 40. Az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonnyal összefüggő egyes rendelkezésekről szóló 315/2023. (VII. 17.) Korm. rendelet módosítása
 
-56. §
-
-[^40]: A 40. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+56. § Hatályát veszti az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonnyal összefüggő egyes rendelkezésekről szóló 315/2023. (VII. 17.) Korm. rendelet.

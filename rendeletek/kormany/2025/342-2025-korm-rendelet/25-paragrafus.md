@@ -1,5 +1,11 @@
-## 18.[^18]
+## 18. Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosítása
 
-25. §
+25. § Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet 10. §-a a következő (8) és (9) bekezdéssel egészül ki:
 
-[^18]: A 18. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(8) Az EETS szolgáltatókról vezetett nyilvántartás tartalmazza
+
+a) az EETS szolgáltató azonosító adatait,
+
+b) a nyilvántartásba vételről szóló határozat számát és a nyilvántartásba vétel időpontját.
+
+(9) Az EETS szolgáltatók nyilvántartása a (8) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító adatok, a lakcím adatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.”

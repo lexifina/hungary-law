@@ -1,5 +1,3 @@
-## 23.[^23]
+## 23. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-31. §
-
-[^23]: A 23. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+31. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet 6. melléklete az 1. melléklet szerint módosul.

@@ -1,5 +1,5 @@
-## 15.[^15]
+## 15. A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet módosítása
 
-22. §
+22. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^15]: A 15. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(1) Az intézménytörzsben a köznevelési intézmény hat számjegyből álló OM azonosítóval szerepel, mely adat tekintetében a nyilvántartás közhitelesnek minősül.”

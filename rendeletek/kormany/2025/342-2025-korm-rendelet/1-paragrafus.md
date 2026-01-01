@@ -96,8 +96,8 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet módosítása
 
-1. §
+1. § A légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet a következő 5/A. §-sal egészül ki:
 
-[^1]: Az 1. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„5/A. § A lajstrom – az 5. § (2) bekezdés d) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.”

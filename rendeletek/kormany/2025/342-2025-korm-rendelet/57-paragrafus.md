@@ -1,5 +1,5 @@
-## 41.[^41]
+## 41. A visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet módosítása
 
-57. §
+57. § A visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet 33. §-a a következő (5) bekezdéssel egészül ki:
 
-[^41]: A 41. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(5) A nyilvántartás a 32. § (2) bekezdés b)–e) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.”

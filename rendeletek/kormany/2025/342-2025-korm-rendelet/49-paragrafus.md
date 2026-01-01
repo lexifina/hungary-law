@@ -1,5 +1,5 @@
-## 36.[^36]
+## 36. Az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet módosítása
 
-49. §
+49. § Az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^36]: A 36. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(3a) A nyilvántartás – a cégnyilvántartásban szereplő adatok kivételével – a (3) bekezdés b)–d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.”

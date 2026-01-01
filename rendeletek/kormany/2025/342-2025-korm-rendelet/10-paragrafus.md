@@ -1,1 +1,1 @@
-10. §
+10. § A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet 3. § (2) bekezdésében a „bejelentésekről” szövegrész helyébe a „bejelentések adattartalmáról” szöveg lép.
