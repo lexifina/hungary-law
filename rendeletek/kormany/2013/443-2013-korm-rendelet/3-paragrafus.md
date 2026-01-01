@@ -28,7 +28,7 @@ f) mellékletként az átadott fémkereskedelmi engedélyköteles anyagról beaz
 
 (8)[^13] A fémkereskedelmi hatóság a NAV illetékes vármegyei (fővárosi) adó- és vámigazgatóságainak elérhetőségét honlapján közzéteszi.
 
-(9)[^14] A Fémtv. 3. § (7) bekezdésében meghatározott bejelentésben a fémkereskedőre, illetve koncesszori fémkereskedőre vonatkozó adatok megadása során a beazonosítás érdekében a fémkereskedő, illetve koncesszori fémkereskedő telephelye engedélyszámát meg kell adni. A fémkereskedők, illetve a koncesszori fémkereskedők adatai a fémkereskedelmi hatóság honlapján, a Fémtv. 4. § (10) bekezdésében meghatározott közhiteles nyilvántartásban elérhetőek.
+(9)[^14] A Fémtv. 3. § (7) bekezdésében meghatározott bejelentésben a fémkereskedőre, illetve koncesszori fémkereskedőre vonatkozó adatok megadása során a beazonosítás érdekében a fémkereskedő, illetve koncesszori fémkereskedő telephelye engedélyszámát meg kell adni. A fémkereskedők, illetve a koncesszori fémkereskedők adatai a fémkereskedelmi hatóság honlapján, a Fémtv. 4. § (10) bekezdésében meghatározott nyilvántartásban elérhetőek.
 
 (10) A Fémtv. 3. § (7) bekezdésében meghatározott írásbeli bejelentés elektronikus úton is megküldhető az illetékes fémkereskedelmi hatóság részére. A fémkereskedelmi hatóság ez esetben a küldő email címére, az ügyfélkapuhoz rendelt tárhelyére – illetve amennyiben a bejelentés email elérhetőséget tartalmaz, a megadott email címre – visszaigazolást küld.
 
@@ -66,7 +66,7 @@ b)[^17] a fémkereskedő vagy a koncesszori fémkereskedő engedélyének (telep
 [^11]: A 3. § (6) bekezdés b) pontja a 309/2023. (VII. 14.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
 [^12]: A 3. § (7) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^13]: A 3. § (8) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.
-[^14]: A 3. § (9) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 9-11. pontja szerint módosított szöveg.
+[^14]: A 3. § (9) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 9-11. pontja, a 342/2025. (X. 31.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^15]: A 3. § (12) bekezdés b) pontja a 309/2023. (VII. 14.) Korm. rendelet 9. § 2. és 7. pontja szerint módosított szöveg.
 [^16]: A 3. § (13) bekezdés nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
 [^17]: A 3. § (13) bekezdés b) pontja a 309/2023. (VII. 14.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
