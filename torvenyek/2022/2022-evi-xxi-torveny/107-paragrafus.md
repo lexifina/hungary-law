@@ -24,7 +24,7 @@ i) az „egészségügyi személy” vagy „egyházi személy” feliratot.
 
 (3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés e) és h) pontja szerinti adatokat a személyazonossági igazolvány angol és magyar nyelven is tartalmazza.
 
-(4) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(4)
 
 (5) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 27. melléklet 1–8., 10. és 16. pontja szerinti adatait a Honvédség központi nyilvántartó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 

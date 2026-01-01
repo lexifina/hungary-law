@@ -16,4 +16,4 @@ b) a HUNGARY feliratot.
 
 (6) A honvédelmi szervezet az érvényességüket vesztett, bevont személyi igazolójegyeket és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére a személyi igazolójegy megsemmisítése céljából.
 
-(7) Az (1) bekezdés szerinti nyilvántartás személyi igazolójeggyel összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(7)

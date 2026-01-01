@@ -30,4 +30,4 @@ g) a katonai nyugdíjas igazolvány megnevezést.
 
 (8) A katonai igazgatás területi szerve az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség központi nyilvántartó szerve részére az igazolvány megsemmisítése céljából.
 
-(9) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(9)

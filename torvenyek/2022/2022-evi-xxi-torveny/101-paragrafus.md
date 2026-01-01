@@ -32,7 +32,7 @@ i) a katonai igazolványt kiadó állam kódját.
 
 (5) A hadkötelezettek szolgálati beosztása szerint illetékes honvédelmi szervezet a részére megküldött katonai igazolványokról a hadkötelezettség fennállása idején nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
 
-(6) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
+(6)
 
 (7) A (2) bekezdés a) pontja szerinti adatokat, a (2) bekezdés b) pontja szerinti érvényességi időt, valamint a (2) bekezdés d)–f) és i) pontja szerinti adatokat a katonai igazolvány angol és magyar nyelven egyaránt tartalmazza.
 

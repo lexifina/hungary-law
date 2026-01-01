@@ -2,6 +2,8 @@
 
 28. § (1) A veszteség-nyilvántartásban a (3) bekezdés szerinti személyeknek a 10. melléklet szerinti adatait kell kezelni.
 
+(1a) Az (1) bekezdés szerinti nyilvántartás a 10. melléklet 2–2.4. pontja és 4–7. pontja vonatkozásában közhiteles nyilvántartásnak minősül.
+
 (2) A veszteség-nyilvántartás adatait a katonai szolgálat felső korhatáráig a Honvédség központi nyilvántartó szerve, azt követően a hadtörténelmi levéltári feladatokat ellátó honvédelmi szervezet a rá vonatkozó törvényi rendelkezések szerint kezeli.
 
 (3) A veszteség-nyilvántartásban történő adatkezelés célja a Honvédség fegyveres konfliktusok következtében, illetve szolgálatteljesítéssel összefüggően

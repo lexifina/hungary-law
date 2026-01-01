@@ -8,7 +8,7 @@ a) a kiegészítő rokkantsági támogatásban részesülő személy esetében a
 
 b) a kiegészítő hozzátartozói támogatásban és az árvák kiegészítő támogatásában részesülő személy esetében a 20. melléklet 1., 3–5. pontja, valamint 7. pontja szerinti,
 
-c) a honvédelmi alkalmazottak után járó árvák kiegészítő támogatásában részesülő személy esetében a 20. melléklet 1., 4. és 5. pontja szerinti, illetve
+c)
 
 d) az üzemi balesettel és a foglalkozási megbetegedéssel kapcsolatos
 
