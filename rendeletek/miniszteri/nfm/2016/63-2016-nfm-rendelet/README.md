@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2
 | 2025-03-01 | 2016-63-20-2W.15 | 4/2025. (II. 28.) EM rendelet |
 | 2025-08-01 | 2016-63-20-2W.17 | 18/2023. (IX. 21.) EM rendelet |
 | 2025-11-12 | 2016-63-20-2W.18 | 15/2022. (IV. 29.) ITM rendelet |
+| 2026-01-01 | 2016-63-20-2W.16 | 4/2025. (II. 28.) EM rendelet |

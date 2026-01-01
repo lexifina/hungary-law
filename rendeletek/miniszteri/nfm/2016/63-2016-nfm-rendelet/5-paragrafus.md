@@ -12,7 +12,7 @@ c) a KÁT mérlegkör működtetéséhez kötődő pénzforgalmi szaldóját.
 
 (3)[^21] A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen – a KÁT mérlegkör kiadásait pozitív, bevételeit negatív előjellel – figyelembe venni:
 
-a)[^22] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
+a)[^22] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott előzetes elszámolási mérési adatok szolgáltatása és a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló Korm. rendelet (a továbbiakban: Korm. rendelet) alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a Korm. rendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
 
 b)[^23] a KÁT termelőtől a jogosulatlanul értékesített villamos energia után a tárgyhónapban fizetett visszatérítések összegét;
 
@@ -43,7 +43,7 @@ n)[^34]
 [^19]: Az 5. alcím címe a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^20]: Az 5. § (1) bekezdés a) pontja a 49/2021. (X. 1.) ITM rendelet 28. § b) pontja szerint módosított szöveg. Az 5. § (1) bekezdés a) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^21]: Az 5. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 29. § (2) bekezdésével megállapított, nyitó szövegrésze a 15/2022. (VIII. 18.) TIM rendelet 2. § a) pontja szerint módosított szöveg.
-[^22]: Az 5. § (3) bekezdés a) pontja a 2/2020. (I. 13.) ITM rendelet 4. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdés a) pontja a 4/2025. (II. 28.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: Az 5. § (3) bekezdés b) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (3) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (3) bekezdés c) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^25]: Az 5. § (3) bekezdés d) pontja a 49/2021. (X. 1.) ITM rendelet 23. § (1) bekezdésével megállapított, a 15/2022. (VIII. 18.) TIM rendelet 2. § b) pontja szerint módosított szöveg.
