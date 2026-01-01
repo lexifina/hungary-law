@@ -1,3 +1,7 @@
-6. §[^8]
+6. § Hatályát veszti az R.
 
-[^8]: A 6. § a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+a) 1. § d) pontja,
+
+b) 3. § (2a) bekezdése,
+
+c) 6. §-ában a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i” szövegrész.
