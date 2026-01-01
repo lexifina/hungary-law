@@ -52,19 +52,33 @@ c) három sajátos nevelési igényű gyermek, illetve a korai fejlesztésre és
 
 (6d)[^84] A többcélú gyermekvédelmi intézményben köznevelési feladatot ellátó intézményegységben dolgozó pedagógust gyermekvédelmi pótlék illeti meg, a pótlék mértéke legalább a pótlékalap 50%-a.
 
-(6e)[^85] A területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyámot gyermekvédelmi gyámi pótlék illeti meg, amelynek mértéke legalább a pótlékalap 185%-a.
+(6e)[^85] A területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyámot gyermekvédelmi gyámi pótlék illeti meg, amelynek mértéke legalább a pótlékalap 400%-a.
 
 (6f)[^86]
 
 (6g)[^87] A pótlék számítási alapja 440 000 Ft.
 
-(7)[^88] A kollektív szerződés a (2)–(6e) bekezdésben meghatározottnál magasabb mértékű pótlékot is megállapíthat.
+(6h)[^88] A közalkalmazottat
 
-(8)[^89] A kollektív szerződés a (2)–(6e) bekezdésben foglalt eseteken túlmenően is megállapíthat munkahelyi pótlékot a pótlékalap 25–100%-a közötti mértékben.
+a) a (2)–(6e) és (10) bekezdésben meghatározott pótlékok,
 
-(9)[^90] A (2)–(6e) bekezdésben felsorolt pótlékok egymás mellett nem folyósíthatók.[^91]
+b) a 15/D. §-ban meghatározott pótlék,
 
-(10)[^92] Helyettesítési pótlék illeti meg a bölcsődei csoportban azt a kisgyermeknevelőt, aki a másik kisgyermeknevelő távolléte miatt egyedül látja el a bölcsődei csoporttal kapcsolatos feladatokat. A helyettesítési pótlék mértéke az egy órára eső illetmény 30%-a. Helyettesítési pótlék kizárólag akkor illeti meg a bölcsődei csoportban a kisgyermeknevelőt, ha az általa ellátandó gyermekek számított létszáma – a másik kisgyermeknevelő távollétekor – meghaladja a bölcsődei nevelési évben az adott bölcsődei csoportba felvehető gyermekek létszámának 50%-át.
+c) a Törvény 70–74. §-a szerinti illetménypótlékok,
+
+d) – a 2/a. számú melléklet szerinti pedagógus munkakörben foglalkoztatott és a 15/C. § szerinti pótlékra jogosult közalkalmazott kivételével – a munka törvénykönyvéről szóló 2012. évi I. törvény 140–144. §-a szerinti bérpótlékok, valamint
+
+e) az Szt. 94/L. § (6) bekezdése és a Gyvt. 15. § (10) bekezdése szerinti bérpótlék
+
+után 15%-os kiegészítő bérpótlék illeti meg.
+
+(7)[^89] A kollektív szerződés a (2)–(6e) bekezdésben meghatározottnál magasabb mértékű pótlékot is megállapíthat.
+
+(8)[^90] A kollektív szerződés a (2)–(6e) bekezdésben foglalt eseteken túlmenően is megállapíthat munkahelyi pótlékot a pótlékalap 25–100%-a közötti mértékben.
+
+(9)[^91] A (2)–(6e) bekezdésben felsorolt pótlékok egymás mellett nem folyósíthatók.[^92]
+
+(10)[^93] Helyettesítési pótlék illeti meg a bölcsődei csoportban azt a kisgyermeknevelőt, aki a másik kisgyermeknevelő távolléte miatt egyedül látja el a bölcsődei csoporttal kapcsolatos feladatokat. A helyettesítési pótlék mértéke az egy órára eső illetmény 30%-a. Helyettesítési pótlék kizárólag akkor illeti meg a bölcsődei csoportban a kisgyermeknevelőt, ha az általa ellátandó gyermekek számított létszáma – a másik kisgyermeknevelő távollétekor – meghaladja a bölcsődei nevelési évben az adott bölcsődei csoportba felvehető gyermekek létszámának 50%-át.
 
 [^75]: A 14. § a 326/2008. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^76]: A 15. § (2) bekezdése a 305/2018. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -76,11 +90,12 @@ c) három sajátos nevelési igényű gyermek, illetve a korai fejlesztésre és
 [^82]: A 15. § (6b) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^83]: A 15. § (6c) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 663/2021. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^84]: A 15. § (6d) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^85]: A 15. § (6e) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^85]: A 15. § (6e) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 427/2025. (XII. 23.) Korm. rendelet 5. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^86]: A 15. § (6f) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 4. § (2) bekezdése.
 [^87]: A 15. § (6g) bekezdését a 628/2023. (XII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^88]: A 15. § (7) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^89]: A 15. § (8) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^90]: A 15. § (9) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^91]: A Magyar Közlöny 2001. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.
-[^92]: A 15. § (10) bekezdését a 272/2019. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^88]: A 15. § (6h) bekezdését a 427/2025. (XII. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^89]: A 15. § (7) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^90]: A 15. § (8) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^91]: A 15. § (9) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^92]: A Magyar Közlöny 2001. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.
+[^93]: A 15. § (10) bekezdését a 272/2019. (XI. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2024-03-01 | 2000-257-20-22.53 | 60/2011. (IV. 12.) Korm. rendelet |
 | 2024-07-09 | 2000-257-20-22.54 | 40/2024. (II. 29.) Korm. rendelet |
 | 2025-01-01 | 2000-257-20-22.51 | 628/2023. (XII. 23.) Korm. rendelet |
+| 2026-01-01 | 2000-257-20-22.55 | 427/2025. (XII. 23.) Korm. rendelet |

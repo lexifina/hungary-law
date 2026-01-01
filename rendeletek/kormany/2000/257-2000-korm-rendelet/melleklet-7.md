@@ -1,20 +1,48 @@
-|  | A | B |
+|  | A | B | C | D | E | F |
 
-| 1 | Pedagógus fokozat | Bölcsődei pótlék mértéke a 15. § (6g) bekezdésében foglalt számítási alap százalékában |
+| 1. | Fizetési fokozat | Közalkalmazotti jogviszonyban töltött idő |  |
 
-| 2 | Gyakornok | 24% |
+| 2. | A | B | C | D |
 
-| 3 | Pedagógus I. | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
+| 3. | 1 | 0–3 év között | 20 860 | 37 820 | 38 421 | 38 869 |
 
-| 4 | Pedagógus II. | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
+| 4. | 2 | 3–6 év között | 21 520 | 38 117 | 38 572 | 39 173 |
 
-| 5 | Mesterpedagógus | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
+| 5. | 3 | 6–9 év között | 22 180 | 38 269 | 38 869 | 40 071 |
 
-7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^146]
+| 6. | 4 | 9–12 év között | 22 840 | 38 572 | 39 173 | 41 120 |
+
+| 7. | 5 | 12–15 év között | 23 500 | 38 718 | 39 318 | 43 067 |
+
+| 8. | 6 | 15–18 év között | 24 160 | 38 869 | 39 622 | 45 172 |
+
+| 9. | 7 | 18–21 év között | 24 820 | 40 368 | 41 120 | 47 271 |
+
+| 10. | 8 | 21–24 év között | 25 480 | 40 968 | 41 417 | 47 872 |
+
+| 11. | 9 | 24–27 év között | 26 140 | 41 721 | 42 473 | 49 667 |
+
+| 12. | 10 | 27–30 év között | 26 800 | 43 819 | 44 869 | 52 518 |
+
+| 13. | 11 | 30–33 év között | 27 460 | 45 918 | 47 271 | 55 673 |
+
+| 14. | 12 | 33–36 év között | 28 120 | 46 822 | 48 017 | 56 722 |
+
+| 15. | 13 | 36–39 év között | 28 780 | 48 321 | 49 971 | 58 821 |
+
+| 16. | 14 | 39–42 év között | 29 440 | 50 571 | 52 518 | 61 072 |
+
+| 17. | 15 | 42–45 év között | 30 100 | 52 822 | 55 072 | 66 622 |
+
+| 18. | 16 | 45–48 év között | 30 760 | 54 320 | 56 571 | 69 322 |
+
+| 19. | 17 | 48 év felett | 31 420 | 55 218 | 58 821 | 71 421 |
+
+7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^151]
 
 Az egészségügyi kiegészítő pótlék összege
 
-I. Ápolók, szakápolók egészségügyi kiegészítő pótlékának összege (Ft)
+## I. Ápolók, szakápolók egészségügyi kiegészítő pótlékának összege (Ft)
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -122,106 +150,4 @@ I. Ápolók, szakápolók egészségügyi kiegészítő pótlékának összege (
 
 II. Orvosok egészségügyi kiegészítő pótlékának összege (Ft)
 
-| Sorszám | Közalkalmazotti jogviszonyban töltött idő | Fizetési osztály |
-
-| H | I | J |
-
-| 1. | 0–1 év között | 20 820 | 220 320 | 232 820 |
-
-| 2. | 1–2 év között | 20 820 | 220 320 | 232 820 |
-
-| 3. | 2–3 év között | 20 820 | 220 320 | 232 820 |
-
-| 4. | 3–4 év között | 27 320 | 226 720 | 242 120 |
-
-| 5. | 4–5 év között | 12 270 | 211 670 | 227 070 |
-
-| 6. | 5–6 év között | 12 270 | 211 670 | 227 070 |
-
-| 7. | 6–7 év között | 18 770 | 219 870 | 238 670 |
-
-| 8. | 7–8 év között | 18 770 | 219 870 | 238 670 |
-
-| 9. | 8–9 év között | 10 170 | 211 270 | 230 070 |
-
-| 10. | 9–10 év között | 16 570 | 220 470 | 241 570 |
-
-| 11. | 10–11 év között | 16 570 | 220 470 | 241 570 |
-
-| 12. | 11–12 év között | 16 570 | 220 470 | 241 570 |
-
-| 13. | 12–13 év között | 10 349 | 218 349 | 240 449 |
-
-| 14. | 13–14 év között | 10 349 | 218 349 | 240 449 |
-
-| 15. | 14–15 év között | 10 349 | 218 349 | 240 449 |
-
-| 16. | 15–16 év között | 18 149 | 229 049 | 252 049 |
-
-| 17. | 16–17 év között | 2 134 | 213 034 | 236 034 |
-
-| 18. | 17–18 év között | 2 134 | 213 034 | 236 034 |
-
-| 19. | 18–19 év között | 11 834 | 223 634 | 245 334 |
-
-| 20. | 19–20 év között | 11 834 | 223 634 | 245 334 |
-
-| 21. | 20–21 év között | 3 361 | 215 161 | 236 861 |
-
-| 22. | 21–22 év között | 13 061 | 225 861 | 246 461 |
-
-| 23. | 22–23 év között | 13 061 | 225 861 | 246 461 |
-
-| 24. | 23–24 év között | 13 061 | 225 861 | 246 461 |
-
-| 25. | 24–25 év között | 12 193 | 223 793 | 245 593 |
-
-| 26. | 25–26 év között | 12 193 | 223 793 | 245 593 |
-
-| 27. | 26–27 év között | 12 193 | 223 793 | 245 593 |
-
-| 28. | 27–28 év között | 21 893 | 232 293 | 255 293 |
-
-| 29. | 28–29 év között | 3 707 | 214 108 | 237 107 |
-
-| 30. | 29–30 év között | 3 707 | 214 108 | 237 107 |
-
-| 31. | 30–31 év között | 12 108 | 222 608 | 246 708 |
-
-| 32. | 31–32 év között | 12 108 | 222 608 | 246 708 |
-
-| 33. | 32–33 év között | – | 204 422 | 228 522 |
-
-| 34. | 33–34 év között | 2 422 | 213 022 | 238 222 |
-
-| 35. | 34–35 év között | 2 422 | 213 022 | 238 222 |
-
-| 36. | 35–36 év között | 2 422 | 213 022 | 238 222 |
-
-| 37. | 36–37 év között | – | 204 737 | 230 837 |
-
-| 38. | 37–38 év között | – | 204 737 | 230 837 |
-
-| 39. | 38–39 év között | – | 204 737 | 230 837 |
-
-| 40. | 39–40 év között | 1 037 | 214 637 | 241 637 |
-
-| 41. | 40–41 év között | – | 196 451 | 223 452 |
-
-| 42. | 41–42 év között | – | 196 451 | 223 452 |
-
-| 43. | 42–43 év között | – | 206 436 | 234 268 |
-
-| 44. | 43–44 év között | – | 206 436 | 234 268 |
-
-| 45. | 44–45 év között | – | 188 251 | 216 082 |
-
-| 46. | 45–46 év között | – | 198 191 | 226 897 |
-
-| 47. | 46–47 év között | – | 198 191 | 226 897 |
-
-| 48. | 47–48 év között | – | 198 191 | 226 897 |
-
-| 49. | 48 év felett | – | 189 945 | 219 527 |
-
-[^146]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése, a 189/2024. (VII. 8.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^151]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése, a 189/2024. (VII. 8.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.

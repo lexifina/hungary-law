@@ -1,6 +1,6 @@
 ## [A Törvény 20/A. §-ához][^7]
 
-1/A. §[^8] (1)[^9] A Kjt. 20/A. § (2) bekezdésében foglaltakon túlmenően nem kötelező pályázat kiírása
+1/A. §[^8] (1)[^9] A Törvény 20/A. § (2) bekezdésében foglaltakon túlmenően nem kötelező pályázat kiírása
 
 a) azon munkakör esetében, amely a Kjt. 61. § (1) bekezdése szerinti „A”–„E” fizetési osztályba történő besorolással tölthető be,
 
@@ -64,7 +64,7 @@ c)[^17] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szöve
 
 [^7]: Az 1/A. §-t megelőző jogszabályi hivatkozást a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1/A. §-t a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^9]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 427/2025. (XII. 23.) Korm. rendelet 5. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^10]: Az 1/A. § (1) bekezdés b) pontja a 191/2016. (VII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: Az 1/A. § (2) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^12]: Az 1/A. § (3) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
