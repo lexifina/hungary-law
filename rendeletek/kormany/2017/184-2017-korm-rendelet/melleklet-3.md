@@ -2,11 +2,11 @@
 
 A magzati halálozással összefüggő adatfelvételi lapok adattartalma
 
-1.[^24] Az egészségügyi intézmény adatai, betegtörzsszám
+1.[^26] Az egészségügyi intézmény adatai, betegtörzsszám
 
 2. A várandós nő
 
-2.1.[^25] neve, születési neve
+2.1.[^27] neve, születési neve
 
 2.2. születésének helye, időpontja
 
@@ -44,5 +44,5 @@ A magzati halálozással összefüggő adatfelvételi lapok adattartalma
 
 5. A várandós nő ápolására vonatkozó adatok
 
-[^24]: A 3. melléklet 1. pontja a 377/2024. (XII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^25]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^26]: A 3. melléklet 1. pontja a 377/2024. (XII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^27]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

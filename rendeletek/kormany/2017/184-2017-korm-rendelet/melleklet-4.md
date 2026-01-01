@@ -2,7 +2,7 @@
 
 A házassági lap adattartalma
 
-1.[^26] Anyakönyvi azonosító, az eseményazonosító
+1.[^28] Anyakönyvi azonosító, az eseményazonosító
 
 2. A házasságkötés helye, időpontja
 
@@ -32,4 +32,4 @@ A házassági lap adattartalma
 
 3.12. foglalkozása, munkaköre, foglalkozási viszonya
 
-[^26]: A 4. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^28]: A 4. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.

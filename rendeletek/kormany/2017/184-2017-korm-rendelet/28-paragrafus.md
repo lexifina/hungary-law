@@ -10,4 +10,8 @@ d) az európai statisztikákról és a titoktartási kötelezettség hatálya al
 
 e) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2015. április 29-i (EU) 2015/759 európai parlamenti és tanácsi rendelet
 
+f)[^19] az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2024. november 27-i (EU) 2024/3018 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^19]: A 28. § f) pontját a 482/2025. (XII. 31.) Korm. rendelet 2. §-a iktatta be.

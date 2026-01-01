@@ -2,7 +2,7 @@
 
 A bejegyzett élettársi kapcsolat megszűnése lap adattartalma a kötelék felbontása kérdésében jogerőre emelkedett ítéletről
 
-1.[^30] Anyakönyvi azonosító, az eseményazonosító
+1.[^32] Anyakönyvi azonosító, az eseményazonosító
 
 2. A bejegyzés helye, időpontja
 
@@ -14,7 +14,7 @@ A bejegyzett élettársi kapcsolat megszűnése lap adattartalma a kötelék fel
 
 6. A bejegyzett élettársak adatai
 
-6.1.[^31] születési családi és utóneve
+6.1.[^33] születési családi és utóneve
 
 6.2. neme
 
@@ -48,5 +48,5 @@ A bejegyzett élettársi kapcsolat megszűnése lap adattartalma a kötelék fel
 
 13. A perben vagyonjogi igényt érvényesítettek-e
 
-[^30]: A 7. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
-[^31]: A 7. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^32]: A 7. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^33]: A 7. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
