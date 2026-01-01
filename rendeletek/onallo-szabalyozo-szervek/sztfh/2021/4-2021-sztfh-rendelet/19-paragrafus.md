@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés alkalmazásában a távszerencsejátéknak nem minősülő fogadást szervező által alkalmazott minden olyan módszer automatikus szűrőrendszer üzemeltetésének minősül, amely esetében az ügyfél-átvilágítással érintett személy és a pénzügyi és vagyoni korlátozó intézkedéssel érintett személyek adatainak összehasonlítása (az egyezés vizsgálata, kizárása) nem manuálisan, hanem informatikai megoldás használatával történik.
 
-(3)[^29] A játékkaszinót vagy kártyatermet működtető szolgáltató, valamint a távszerencsejáték és az online kaszinójáték szervezője a játékost érintően köteles a szűrést elvégezni
+(3)[^30] A játékkaszinót vagy kártyatermet működtető szolgáltató, valamint a távszerencsejáték és az online kaszinójáték szervezője a játékost érintően köteles a szűrést elvégezni
 
 a) az ügyfél-átvilágítási intézkedések végrehajtásakor és
 
@@ -26,4 +26,4 @@ a szűrést elvégzi.
 
 (8) A szűrés során keletkezett adatot a szolgáltató a szűrés végrehajtásától számított nyolc évig köteles megőrizni.
 
-[^29]: A 19. § (3) bekezdése a 32/2022.(VII. 21.) SZTFH rendelet 3. §-ával megállapított szöveg.
+[^30]: A 19. § (3) bekezdése a 32/2022.(VII. 21.) SZTFH rendelet 3. §-ával megállapított szöveg.
