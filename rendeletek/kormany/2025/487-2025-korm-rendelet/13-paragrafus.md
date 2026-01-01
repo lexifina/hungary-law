@@ -1,0 +1,9 @@
+13. § (1) A 3. § (4) bekezdésétől eltérően a 2026. január 1. és 2026. május 1. között benyújtott részvétel iránti kérelem esetén a Hivatal a számlaszerződést a szükséges adatokkal kitöltött és aláírt kérelem hiánytalan beérkezését követő 90 napon belül írja alá elektronikusan.
+
+(2) Az (1) bekezdés szerinti számlaszerződés esetében a hiánytalan, részvétel iránti kérelem benyújtásának napját követően közlekedési célra értékesített villamos energia tekintetében a Hivatal abban az esetben is jóváírja a 6. § (1) bekezdése szerinti adatokat a ZÖTIR nyilvántartásban, ha az üzemeltetői engedélyes a számlaszerződés aláírását követő naptári hónap utolsó napjáig teljesíti az 5. § (3) bekezdés b) és c) pontja szerinti feltételeket.
+
+(3) Az 5. § (3) bekezdés c) pontjától eltérően 2026. december 31. napjáig a Hivatal abban az esetben is jóváírja a közlekedési célra értékesített megújuló eredetű villamos energiára vonatkozó, a 6. § (1) bekezdése szerinti adatokat a ZÖTIR nyilvántartásban, ha legkésőbb az 5. § (3) bekezdés b) pontja szerinti adatszolgáltatással egyidejűleg az üzemeltetői engedélyes által a ZÖTIR nyilvántartásban jóváírni kért – de legfeljebb az 5. § (2) bekezdése szerinti adatszolgáltatásban foglalt – villamosenergia-mennyiségre és az üzemeltetői engedélyes javára az értékesítéssel azonos időtartamú villamosenergia-fogyasztás megújuló eredetének igazolására havi termelési időszakú, magyarországi erőmű által termelt villamos energiáról kiállított származási garancia került felhasználásra.
+
+(4) A 6. § (2) bekezdésétől eltérően a 2026-ban értékesített villamos energia alapján az üzemeltetői engedélyes javára bejegyzett ZÖTIR jóváírás 2027. december 31. napjáig forgalomképes, illetve eddig az időpontig használható fel az üzemanyag-forgalmazó által.
+
+(5) A Hivatal a 9. § (1) bekezdése szerinti zöldtöltés-igazolást első alkalommal 2027. március 31. napján állítja ki.
