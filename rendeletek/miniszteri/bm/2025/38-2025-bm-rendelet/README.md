@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-38-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-09-19 | 2025-38-20-0A.1 | 38/2025. (IX. 18.) BM rendelet |
+| 2026-01-01 | 2025-38-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
