@@ -1,4 +1,4 @@
-1. § (1)[^1] A légiközlekedésről szóló 1995. évi XCVII. törvény 2. § (3) bekezdésében meghatározott, a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására a Közlekedéstudományi Intézetet (a továbbiakban: KTI) jelölöm ki.
+1. § (1)[^1] A légiközlekedésről szóló 1995. évi XCVII. törvény 2. § (3) bekezdésében meghatározott, a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézetet (a továbbiakban: KTI) jelölöm ki.
 
 (2)[^2] A légiközlekedésről szóló 1995. évi XCVII. törvény 2. § (3) bekezdésében meghatározott feladatok keretében a KTI a következő feladatokat végzi:
 
@@ -18,7 +18,7 @@ g)[^4] a légiközlekedéssel összefüggő informatikai rendszerek üzemelteté
 
 h)[^5] a légiközlekedés biztonságának növelése és a légiközlekedés fejlesztése érdekében szakértői támogatást nyújt a légiiparban működő szakmai és képzési szervezetek, intézmények együttműködését, innovációs és kutatás-fejlesztési tevékenységét, valamint a nemzetközi kapcsolatok kiépítését segítő fórumok, iparági klaszterek működéséhez.
 
-[^1]: Az 1. § (1) bekezdése a 45/2023. (XII. 29.) ÉKM rendelet 1. §-a, a 19/2025. (VI. 27.) ÉKM rendelet 6. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 45/2023. (XII. 29.) ÉKM rendelet 1. §-a, a 47/2025. (XII. 29.) ÉKM rendelet 7. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 19/2025. (VI. 27.) ÉKM rendelet 7. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés g) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (2) bekezdésével megállapított szöveg.
