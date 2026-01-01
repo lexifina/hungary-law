@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^160]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^161]
 
 I. RÉSZ
 
@@ -34,9 +34,11 @@ I. RÉSZ
 
 | 8/b. | Vicia faba L. | Lóbab | TP 8/1, 2019.3.19. |
 
-| 9. | Brassica napus L. (partim) | Káposztarepce | TP 36/3, 2020.4.21. |
+| 9. | Brassica napus L. (partim) | Káposztarepce | TP 36/4, 2025.3.31. |
 
 | 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
+
+| 9/b. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TP 185/1, 2025.3.31. |
 
 | 10. | Cannabis sativa L. | Kender | TP 276/2 Rev., 2022.12.30. |
 
@@ -90,7 +92,7 @@ I. RÉSZ
 
 | 31. | Phleum pratense L. | Mezei komócsin | TP 34/1 2021.12.22. |
 
-| 32. | Trifolium pratense L. | Vöröshere | TP 5/1 2021.12.22. |
+| 32. | Trifolium pratense L. | Vöröshere | TP 5/1 Rev., 2025.2.13. |
 
 II. RÉSZ
 
@@ -154,7 +156,7 @@ II. RÉSZ
 
 | 27. | Arachis hypogaea L. | Földimogyoró | TG 93/4, 2014.4.9. |
 
-| 28. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TG/185/3 2002. 4. 17. |
+| 28. |  |  |  |
 
 | 29. | Carthamus tinctorius L. | Sáfrányos szeklice | TG 134/4, 2023.10.24. |
 
@@ -194,4 +196,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^160]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)–d) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^161]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)–d) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (1) bekezdése, az 55/2025. (XII. 19.) AM rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.

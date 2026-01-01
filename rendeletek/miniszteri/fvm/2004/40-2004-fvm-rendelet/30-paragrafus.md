@@ -82,6 +82,8 @@
 
 40.[^149] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2024. november 29-i (EU) 2024/2963 bizottsági végrehajtási irányelv.
 
+41.[^150] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2025. június 2-i (EU) 2025/1079 bizottsági végrehajtási irányelv.
+
 [^134]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^135]: A 30. § 2a. pontját a 30/2024. (V. 3.) AM rendelet 4. §-a iktatta be.
 [^136]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -98,3 +100,4 @@
 [^147]: A 30. § 38. pontját a 36/2023. (VII. 19.) AM rendelet 3. §-a iktatta be.
 [^148]: A 30. § 39. pontját a 62/2023. (XI. 22.) AM rendelet 1. §-a iktatta be.
 [^149]: A 30. § 40. pontját a 18/2025. (V. 30.) AM rendelet 1. §-a iktatta be.
+[^150]: A 30. § 41. pontját az 55/2025. (XII. 19.) AM rendelet 1. §-a iktatta be.

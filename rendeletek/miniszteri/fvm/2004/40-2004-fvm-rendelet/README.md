@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-40-20-8
 | 2024-01-01 | 2004-40-20-82.33 | 159/2023. (XII. 27.) AM rendelet |
 | 2024-05-06 | 2004-40-20-82.34 | 30/2024. (V. 3.) AM rendelet |
 | 2025-06-01 | 2004-40-20-82.35 | 70/2006. (IX. 27.) FVM rendelet |
+| 2026-01-01 | 2004-40-20-82.36 | 70/2006. (IX. 27.) FVM rendelet |
