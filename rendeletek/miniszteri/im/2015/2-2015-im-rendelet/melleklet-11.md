@@ -46,6 +46,6 @@
 
 ## P.H.
 
-11. melléklet a 2/2015. (II. 20.) IM rendelethez[^16]
+11. melléklet a 2/2015. (II. 20.) IM rendelethez[^24]
 
-[^16]: A 11. mellékletet a 26/2018. (IX. 7.) IM rendelet 24. § b) pontja hatályon kívül helyezte.
+[^24]: A 11. mellékletet a 26/2018. (IX. 7.) IM rendelet 24. § b) pontja hatályon kívül helyezte, újonnan a 12/2025. (IX. 15.) IM rendelet 27. § (2) bekezdése iktatta be.

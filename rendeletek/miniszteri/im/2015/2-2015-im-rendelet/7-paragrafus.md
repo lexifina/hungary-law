@@ -40,8 +40,10 @@ o) továbbítja a szavazóköri névjegyzék lezárását követően beérkező 
 
 a)[^6]
 
-b) az egyéb választási kellékek, nyomtatványok előállításával, illetve az értesítők postázásával megbízhatja az NVI-t és
+b)[^7] az egyéb választási kellékek, nyomtatványok előállításával megbízhatja az NVI-t és
 
-c) a kinyomtatott szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti, és a hitelesítésről értesíti az NVI-t.
+c)[^8] a kinyomtatott szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti.
 
 [^6]: A 7. § (2) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^7]: A 7. § (2) bekezdés b) pontja a 12/2025. (IX. 15.) IM rendelet 32. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (2) bekezdés c) pontja a 12/2025. (IX. 15.) IM rendelet 32. § b) pontja szerint módosított szöveg.

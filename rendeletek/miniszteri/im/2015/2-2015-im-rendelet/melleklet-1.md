@@ -1,5 +1,3 @@
-## 23. § A helyi népszavazási eljárásban használandó nyomtatványok jegyzékét az 1. melléklet, a nyomtatványok mintáit a 2–10. melléklet állapítja meg.
+1. melléklet a 2/2015. (II. 20.) IM rendelethez[^17]
 
-1. melléklet a 2/2015. (II. 20.) IM rendelethez
-
-A helyi népszavazáson használandó nyomtatványok
+[^17]: Az 1. mellékletet a 12/2025. (IX. 15.) IM rendelet 32. § d) pontja hatályon kívül helyezte.
