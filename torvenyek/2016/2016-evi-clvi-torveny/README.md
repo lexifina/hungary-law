@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-156-00-00
 | 2025-07-20 | 2025. évi L. törvény | 2016-156-00-00.27 |
 | 2025-07-23 | 2025. évi LXVII. törvény | 2016-156-00-00.29 |
 | 2025-08-01 | 2024. évi LXXIV. törvény | 2016-156-00-00.25 |
+| 2026-01-01 | 2025. évi LXVII. törvény | 2016-156-00-00.30 |
