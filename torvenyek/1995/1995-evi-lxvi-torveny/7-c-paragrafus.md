@@ -19,3 +19,5 @@ e) esetleges vételárát.
 (4a) A Hatóság ellenőrizheti a tulajdonosnak a köziratra vonatkozó – e törvényben foglaltak szerint biztosított – épségben és használható állapotban történő megőrzési kötelezettsége teljesítését.
 
 (5) Ha a Hatóság él az elővásárlási jogával, a közirat az illetékes közlevéltár levéltári anyaga részévé válik, és azt az (1) bekezdés szerinti nyilvántartásból törölni kell.
+
+(6) Az (1) bekezdés a) pontja szerinti adatok nyilvánosak, azokat a Hatóság honlapján közzéteszi.

@@ -28,7 +28,7 @@ l) levéltár: a maradandó értékű iratok tartós megőrzésének, levéltár
 
 m) közlevéltár: a nem selejtezhető köziratokkal kapcsolatos levéltári feladatokat — ideértve a tudományos és igazgatási feladatokat is — végző, közfeladatot ellátó szerv által fenntartott levéltár;
 
-n) nyilvános magánlevéltár: a természetes személy, valamint a nem közfeladatot ellátó szerv tulajdonában vagy birtokában lévő maradandó értékű iratok tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
+n) nyilvános magánlevéltár: a természetes személy, vagy szerv, a tulajdonában vagy birtokában lévő, közlevéltár illetékességébe nem tartozó tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
 
 o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kigyűjtése tudományos vagy más cél érdekében;
 
