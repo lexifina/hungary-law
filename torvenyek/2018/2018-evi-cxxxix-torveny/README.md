@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-139-00-00
 | 2024-01-01 | 2023. évi XCIII. törvény | 2018-139-00-00.11 |
 | 2025-01-01 | 2024. évi LXXXIII. törvény | 2018-139-00-00.14 |
 | 2025-07-20 | 2025. évi L. törvény | 2018-139-00-00.15 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2018-139-00-00.16 |

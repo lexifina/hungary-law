@@ -24,6 +24,8 @@ f) a hegybírók e törvény által meghatározott feladatainak részletes szab�
 
 g) a Balatoni főépítész feladatait.
 
+h) a beépítésre szánt terület növekményének mértékét érintő közhiteles nyilvántartás adatkörét.
+
 (2) Felhatalmazást kap a területrendezésért felelős miniszter, hogy
 
 a) jó termőhelyi adottságú szántók övezete, az erdőtelepítésre javasolt terület övezete, a tájképvédelmi terület övezete, a vízminőség-védelmi terület övezete, a nagyvízi meder övezete és a VTT-tározók övezete térképi lehatárolását és az övezeti szabályokat,
