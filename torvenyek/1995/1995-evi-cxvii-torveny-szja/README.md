@@ -149,3 +149,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 1995-117-00-00.220 |
 | 2025-11-22 | 2025. évi LXXXIV. törvény | 1995-117-00-00.221 |
 | 2025-12-17 | 2025. évi XCV. törvény | 1995-117-00-00.223 |
+| 2026-01-01 | 2025. évi LIV. törvény | 1995-117-00-00.210 |

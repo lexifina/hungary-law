@@ -36,13 +36,13 @@ c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatk
 
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
 
-a) négy vagy több gyermeket nevelő anyák kedvezményét vagy a három gyermeket nevelő anyák kedvezményét,
+a) 30 év alatti anyák kedvezményét,
 
-b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
+b) négy vagy több gyermeket nevelő anyák kedvezményét, a három gyermeket nevelő anyák kedvezményét vagy a két gyermeket nevelő anyák kedvezményét,
 
-c) 25 év alatti fiatalok kedvezményét,
+c) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
 
-d) 30 év alatti anyák kedvezményét,
+d) 25 év alatti fiatalok kedvezményét,
 
 e) személyi kedvezményt,
 

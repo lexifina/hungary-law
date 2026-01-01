@@ -20,7 +20,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 
-1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
+1.7. a családi pótlék, a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, anyasági támogatás és gyermeknevelési támogatás;
 
 1.8.
 
@@ -228,9 +228,9 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.23. a Kormány által alapított közigazgatási ösztöndíjprogram keretében folyósított ösztöndíj;
 
-4.24. a) a szociális szövetkezet tagja által a tagi munkavégzés, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja, a kisgyermekkel otthon lévők szövetkezetének a nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja által a személyes közreműködés ellenértékeként élelmiszer, a szociális szövetkezet, a kisgyermekkel otthon lévők szövetkezete és a közérdekű nyugdíjas szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel, azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát;
+4.24. a) a szociális szövetkezet tagja által a tagi munkavégzés, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja, a kisgyermekkel otthon lévők szövetkezetének csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagja által a személyes közreműködés ellenértékeként élelmiszer, a szociális szövetkezet, a kisgyermekkel otthon lévők szövetkezete és a közérdekű nyugdíjas szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel, azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát;
 
-b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának, valamint a közérdekű nyugdíjas szövetkezet által a közösségi alapból az alapszabályában rögzítettek szerint az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának, továbbá a kisgyermekkel otthon lévők szövetkezete által nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
+b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának, valamint a közérdekű nyugdíjas szövetkezet által a közösségi alapból az alapszabályában rögzítettek szerint az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának, továbbá a kisgyermekkel otthon lévők szövetkezete által csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
 
 mindkét esetben azzal, hogy az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni;
 
@@ -526,13 +526,15 @@ e) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otth
 
 7.21. a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés elengedése (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére
 
-a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával, független felek között,
+## a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával, független felek között,
 
-b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján vagy
+## b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján,
 
-c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
+## c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében, vagy
 
-kerül sor.
+## d) a pénzügyi intézmény által haláleset vagy rokkantság esetén biztosított egyedi méltányosság alapján
+
+## kerül sor;
 
 7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
 
@@ -584,7 +586,7 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 
 b) szerinti kötött felhasználású hitelről szóló hallgatói hitelszerződés alapján fennálló tartozás törlesztéséhez, előtörlesztéséhez a munkáltató által a munkavállaló számára kifizetett juttatás;
 
-7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás és tizenharmadik havi ellátás a juttatás, illetve az ellátás időpontjától függetlenül;
+7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás, tizenharmadik havi ellátás és tizennegyedik havi ellátás a juttatás, illetve az ellátás időpontjától függetlenül;
 
 7.40. a közlekedési alapismeretek tanfolyam és vizsga díjából jogszabály alapján visszatérített összeg;
 
@@ -609,6 +611,8 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 ## 7.47. az a jövedelem, amely a kifizető által megvásárolt – a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendeletben meghatározott – visszaváltási díjas termékek magánszemély részére bármely módon történő átengedése révén keletkezik.
 
 ## 7.48. a magyar építészetről szóló törvény szerint műemléknek minősülő ingatlannak a megszerzését követő 36 hónapon túli értékesítéséből származó jövedelem, feltéve, hogy a magánszemély az ingatlant a megszerzést követően a műemlékvédelmi előírásoknak megfelelően felújította, műemléki helyreállítását elvégezte, és erről rendelkezik az örökségvédelmi hatóság által az adózás rendjéről szóló törvényben az adókedvezményre jogosító igazolással kapcsolatos adatszolgáltatásra előírt rendben és határidőig kiállított igazolással, azzal, hogy nem érvényesíthető az adómentesség, ha az ingatlan értékesítése gazdasági tevékenység vagy egyéni vállalkozói tevékenység keretében történik.
+
+## 7.49. az UEFA Bajnokok Ligája (UEFA Champions League) 2026. évi döntőjével összefüggésben az Európai Labdarúgó Szövetséggel (a továbbiakban: UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel, sportszervezettel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások).
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -652,15 +656,15 @@ e) a kegyeleti ellátás;
 
 8.11. a csoportos személyszállítás;
 
-8.12. az olyan juttatás, amelyet a sportról szóló törvény szerinti sportszervezet, sportköztestület a vele bármilyen jogviszonyban álló, a sportról szóló törvény szerinti amatőr vagy hivatásos sportolónak
+8.12. az olyan juttatás, amelyet a sportról szóló törvény szerinti sportszervezet, sportköztestület, vagy a Nemzeti Sportfejlesztési és Módszertani Intézet a vele bármilyen jogviszonyban álló, a sportról szóló törvény szerinti amatőr vagy hivatásos sportolónak
 
-a) az edzési vagy versenyfeladathoz közvetlenül kapcsolódó sportszolgáltatás, utazás, szállás és étkezés,
+## a) az edzési vagy versenyfeladathoz közvetlenül kapcsolódó sportszolgáltatás, utazás, szállás és étkezés,
 
-b) a sportegészségügyi ellátás és sportegészségügyi ellátás fedezetéül szolgáló biztosítás díja,
+## b) a sportegészségügyi ellátás és sportegészségügyi ellátás fedezetéül szolgáló biztosítás díja,
 
 ## c) a sportot és tanulást segítő program keretében nyújtott szolgáltatás
 
-révén juttat, azzal, hogy e pont alkalmazásában sportegészségügyi ellátás az a szolgáltatás, amely az amatőr vagy a hivatásos sportoló egészségének megőrzését vagy helyreállítását szolgálja;
+## révén juttat, azzal, hogy e pont alkalmazásában sportegészségügyi ellátás az a szolgáltatás, amely az amatőr vagy a hivatásos sportoló egészségének megőrzését vagy helyreállítását szolgálja;
 
 8.13. a 6000 m2-t meg nem haladó nagyságú illetményföld-juttatás, ide nem értve annak bármilyen módon történő megváltását;
 
@@ -748,7 +752,7 @@ az adóévben legfeljebb – az a), b) és c) pont szerinti juttatási körben k
 
 8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
-8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.
+8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 750 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.
 
 ## 8.45. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából közvetlenül a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (1) bekezdése szerinti forgalomba hozatalt kezdeményező borászati üzemengedélyestől palackozott kiszerelésben vásárolt, oltalom alatt álló eredetmegjelöléssel ellátott borászati termék, valamint az oltalom alatt álló földrajzi jelzéssel ellátott borászati termék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.
 

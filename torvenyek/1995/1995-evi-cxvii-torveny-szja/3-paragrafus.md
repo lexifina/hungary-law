@@ -264,15 +264,15 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 
-55. 30 év alatti anya: az a 30. életévét be nem töltött, gyermeket vállaló nő, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a 30. életéve betöltését megelőző napig megnyílik.
+55.
 
 56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.
 
 57. A három gyermeket nevelő anyák kedvezménye: a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény.
 
-58.
+58. A két gyermeket nevelő anyák kedvezménye: a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény.
 
-59.
+59. A 30 év alatti anyák kedvezménye: a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti kedvezmény.
 
 60. Sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés.
 
@@ -308,7 +308,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 70. Elemi kár: az elemi csapás (így különösen a jégeső, az árvíz, a belvíz, a fagy, a homokverés, az aszály, a hó-, a jég- és a széltörés, a vihar, a földrengés, valamint a természeti vagy a biológiai eredetű tűz) okozta kár, amelynek igazolására a kár tényét tartalmazó okmány (pl. biztosító, mezőgazdasági igazgatási szerv, katasztrófavédelem végrehajtását végző szerv által kiállított szakvélemény, jegyzőkönyv stb.), vagy – ha nem rendelkezik tőle független szervezet által kiadott okmánnyal – a károsult által kiállított jegyzőkönyv szolgál.
 
-71.
+71. Éves átlagkereset: a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset tizenkétszerese.
 
 72.
 

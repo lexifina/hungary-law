@@ -42,7 +42,7 @@ m) induló vállalkozás munkavállalójaként, vezető tisztségviselőjeként 
 
 ma) a szerzést,
 
-mb) a 77/B. § (12) bekezdés szerinti jogszerzés esetén a jog gyakorlásának megnyíltát
+mb) a 77/B. § (12) bekezdés szerinti jogszerzés esetén a jog magánszemély részére történő alapítását és a jog megismeréséről szóló nyilatkozat keltét
 
 követő legalább három évig nem értékesíti; az induló vállalkozás magánszemélyenként az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére az – állami adó- és vámhatóság által a honlapján közzétett módon – az adóévben átadott összes részesedés könyv szerinti értékéről, valamint a részesedés ellenértékének a magánszemély által megfizetett összegéről.
 

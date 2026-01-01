@@ -116,9 +116,7 @@ d) adózott követelésállomány alatt a számított követelésből az adókö
 
 (18)
 
-(19) A családi pótlék címén megszerzett bevételből nem kell jövedelmet megállapítani.
-
-a)–e)
+(19)
 
 (20)
 

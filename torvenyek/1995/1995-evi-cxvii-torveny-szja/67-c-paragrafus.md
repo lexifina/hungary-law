@@ -18,11 +18,13 @@ d) olyan kriptoeszközként szerezte, amelynek alapján megállapított összeg 
 
 e) tevékenység, szolgáltatás nyújtás ellenértékeként vagy azzal összefüggésben szerezte –, a megszerzett kriptoeszköz bevételszerzés időpontjára megállapított szokásos piaci értéke azzal, hogy a b) pont szerinti esetekben a megszerzés alapjául szolgáló tevékenység tekintetében bevételt megállapítani nem kell.
 
-(5) Ha a magánszemély az adóévben, az adóévet megelőző évben, vagy az adóévet megelőző két évben kriptoeszközzel végrehajtott ügyletből származó veszteséget ért el és azt a veszteség keletkezésének évéről szóló adóbevallásában feltünteti, adókiegyenlítésre jogosult, amelyet az adóbevallásában megfizetett adóként érvényesíthet a (6) és (7) bekezdés szerint.
+(5) Ha a magánszemély az adóévben, vagy az adóévet megelőző bármely évben kriptoeszközzel végrehajtott ügyletből származó veszteséget ért el és azt a veszteség keletkezésének évéről szóló adóbevallásában feltünteti, adókiegyenlítésre jogosult, amelyet az adóbevallásában megfizetett adóként érvényesíthet a (6) és (7) bekezdés szerint.
 
-(6) A (5) bekezdés szerinti adókiegyenlítés az adóévben, vagy az azt megelőző két évben bevallott, kriptoeszközzel végrehajtott ügyletből származó veszteségnek és a 8. § (1) bekezdése szerinti, a bevalláskor hatályos adókulcsnak a szorzata, csökkentve az adóévet megelőző két év bármelyikéről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel, de legfeljebb a (7) bekezdés szerint meghatározott összeg.
+(6) Az (5) bekezdés szerinti adókiegyenlítés az adóévben, vagy az azt megelőző bármely évben bevallott, kriptoeszközzel végrehajtott ügyletből származó veszteségnek és a 8. § (1) bekezdése szerinti, a bevalláskor hatályos adókulcsnak a szorzata, csökkentve az adóévet megelőző bármely évről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel, de legfeljebb a (7) bekezdés szerint meghatározott összeg.
 
-(7) A (6) bekezdésben meghatározott összeg az adóévben, vagy az azt megelőző két évben bevallott, kriptoeszközzel végrehajtott ügyletből származó jövedelem adója, csökkentve az adóévet megelőző két év bármelyikéről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel.
+(7) A (6) bekezdésben meghatározott összeg az adóévben, vagy az azt megelőző két évben bevallott, kriptoeszközzel végrehajtott ügyletből származó jövedelem adója, csökkentve az adóévet megelőző bármelyik évről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel.
+
+(7a) A magánszemély olyan nyilvántartást vezet, amelyből megállapítható a kriptoeszközzel végrehajtott ügyletből származó bármely évi veszteség összesített, adókiegyenlítésként még nem érvényesített összege, amelyet a magánszemély a tárgyévi adóbevallásában tájékoztató adatként feltüntet.
 
 (8) A magánszemély a kriptoeszközzel végrehajtott ügyletből származó jövedelmet és annak adóját az adóhatóság közreműködése nélkül elkészített bevallásában vagy az adóbevallási tervezet adatait kiegészítve vallja be, és az adót a bevallás benyújtására nyitva álló határidőig fizeti be.
 

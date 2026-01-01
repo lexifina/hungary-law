@@ -16,6 +16,8 @@ felhasználható, a 70. § (8) bekezdése szerinti éves rekreációs keretössz
 
 (1b) Béren kívüli juttatásnak minősül a munkáltató által 35. életévét be nem töltött munkavállalójának az (1) és (1a) bekezdésben foglaltaktól függetlenül lakhatási támogatás címén kormányrendeletben meghatározott feltételek szerint lakás bérleti díjának megfizetéséhez vagy lakáscélú hitel törlesztéséhez adott, a 70. § (8b) bekezdésben meghatározott lakáscélú keretösszeget meg nem haladó része.
 
+(1c) Béren kívüli juttatásnak minősül a rendvédelmi feladatokat ellátó szerv által a foglalkoztatottjának lakhatási támogatás címén lakás bérleti díjának megfizetéséhez kormányrendeletben meghatározott feltételek szerint adott támogatás, azzal, hogy e támogatásra az (1b) bekezdés szerinti lakhatási támogatás e törvény szerinti szabályait az ott meghatározott életkori korlátozás figyelmen kívül hagyásával kell alkalmazni.
+
 (2) Béren kívüli juttatásnak minősül
 
 a) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;

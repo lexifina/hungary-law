@@ -1,6 +1,6 @@
 53. § (1) A jövedelmet a bevételből
 
-a) az egyéni vállalkozó 40 százalék,
+a) az egyéni vállalkozó 45 százalék,
 
 b) az adóév egészében kizárólag a (2) bekezdésben, vagy kizárólag a (2) bekezdésben meghatározott és a c) pont szerinti tevékenységből bevételt szerző egyéni vállalkozó 80 százalék,
 
