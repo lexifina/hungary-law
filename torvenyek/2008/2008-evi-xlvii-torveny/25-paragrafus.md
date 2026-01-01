@@ -4,4 +4,4 @@
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. § (7) bekezdése szerinti végzést.
 
-(3)
+(3) A bejelentéssel kapcsolatos eljárásról a Gazdasági Versenyhivatal a 12. § (4) bekezdése szerinti adatok belső ügyintézési felületen történő rögzítésével értesíti a 10. §-ban megjelölt hatóságokat.
