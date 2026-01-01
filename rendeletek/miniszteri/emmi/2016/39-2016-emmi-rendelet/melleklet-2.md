@@ -112,6 +112,8 @@
 
 | 55 | A 26/1997. (IX. 3.) NM rendelet 3. számú melléklet 2. és 6. pontja szerinti iskolai védőnői ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója | 1 óra |
 
+| 56 | Az Eütv. 157. §-a szerinti klinikai kutatásban érintett ellátás | – klinikai vizsgálat azonosítója – ellátás típusa – kapcsolódó egészségügyi ellátásra vonatkozó eseménykatalógus EESZT-azonosítója | 1 óra |
+
 ## Jelmagyarázat:
 
 ## * A „beteg további sorsa” fogalom megfelel az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló rendelet szerinti fogalomnak.

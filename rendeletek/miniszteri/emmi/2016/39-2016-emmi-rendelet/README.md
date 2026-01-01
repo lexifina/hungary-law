@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-39-20-5
 | 2025-01-23 | 2016-39-20-5H.20 | 23/2019. (X. 15.) EMMI rendelet |
 | 2025-09-01 | 2016-39-20-5H.21 | 37/2020. (X. 30.) EMMI rendelet |
 | 2025-10-01 | 2016-39-20-5H.23 | 40/2025. (IX. 25.) BM rendelet |
+| 2026-01-01 | 2016-39-20-5H.18 | 37/2020. (X. 30.) EMMI rendelet |

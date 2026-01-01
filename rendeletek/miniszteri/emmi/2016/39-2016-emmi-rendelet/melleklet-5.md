@@ -38,6 +38,8 @@
 
 | 19 | Várandósság megállapítása és rizikófelmérés | 1 óra | kötelező |
 
+| 20 | „Munkavállaló egészségügyi törzslapja” | 1 óra | kötelező |
+
 5. melléklet a 39/2016. (XII. 21.) EMMI rendelethez
 
 Jelentéstételi és adatszolgáltatási kötelezettségek
