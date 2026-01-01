@@ -12,7 +12,7 @@ bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkav
 
 bc) a tevékenység ellenértékeként harmadik ország állampolgára által a tárgyhónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem.
 
-(2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
+(2) A 6. § (1) bekezdés a) és l) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 
 a) a biztosítási kötelezettséget eredményező jogviszony hónap közben keletkezik vagy szűnik meg,
 
@@ -22,7 +22,7 @@ c) az adott hónapban a biztosított táppénzben, baleseti táppénzben részes
 
 a járulékfizetési alsó határ meghatározása során az a)–c) pontok szerinti naptári napokat figyelmen kívül kell hagyni. Amennyiben az a)–c) pontokban meghatározott körülmények a naptári hónap csak egy részében állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni.
 
-(3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban álló és
+(3) A (2) bekezdés szerinti járulékfizetési alsó határra vonatkozó rendelkezést nem kell alkalmazni a munkaviszonyban, tartós megbízási jogviszonyban álló és
 
 a) csecsemőgondozási díjban, gyermekgondozási díjban, gyermekek otthongondozási díjában, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesülők,
 

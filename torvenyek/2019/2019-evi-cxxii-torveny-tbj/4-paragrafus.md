@@ -145,3 +145,9 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
 21.5. 21.5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
 
 22. Nemzetgazdasági szintű bruttó átlagkereset: a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, teljes munkaidőben alkalmazásban állókra tekintettel megállapított bruttó átlagkereset.
+
+23. tartós megbízási jogviszony: olyan megbízási jogviszony, amelyet a foglalkoztató tartós megbízási jogviszonyként jelent be az állami adó- és vámhatóságnak.
+
+24. Komplex Jogviszony Nyilvántartás: olyan informatikai rendszer, amely a természetes személyek számára az e törvény szerinti biztosítási jogviszonnyal, vagy egyéb jogcímen egészségügyi szolgáltatást megalapozó jogosultsággal, továbbá a nyugdíjcélú járulékfizetéssel és az Európai Egészségbiztosítási Kártyával kapcsolatos adatok egy felületen történő lekérdezését, valamint az ehhez kapcsolódó ügyintézési lehetőségeket támogatja.
+
+25. jogcímcsoport: a Komplex Jogviszony Nyilvántartás szolgáltatásainak igénybevételéhez biztosított ügyintézési felületen megjelenő, az 58. § (2) bekezdés 24. pontja szerinti jogosulti jogcímek összesített megnevezése.

@@ -1,4 +1,4 @@
-61. § (1) A 60. § (1) bekezdés alapján nyilvántartásba vett adatokból
+61. § (1) Ha törvény eltérően nem rendelkezik, a 60. § (1) bekezdése alapján nyilvántartásba vett adatokból
 
 a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a 60. § (1) bekezdés a) pontja szerinti adatok, a 60. § (1) bekezdés d) pontjából a munkahelyre vonatkozó adatok, a 60. § (1) bekezdés f) pontja szerinti jövedelemre vonatkozó adatok, valamint g) pontja szerinti,
 

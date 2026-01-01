@@ -12,7 +12,7 @@ bb) a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti
 
 bc) a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
 
-bd) a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
+bd) a kisgyermekkel otthon lévők szövetkezetének csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
 
 c) álláskeresési támogatásban részesülő személy,
 
@@ -20,7 +20,7 @@ d) egyéni vállalkozó,
 
 e) társas vállalkozó,
 
-f) díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (megbízási szerződés alapján, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével – ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
+f) díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (megbízási szerződés alapján – ide nem értve a tartós megbízási jogviszonyt –, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével – ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 
 g) egyházi szolgálati viszonyban álló egyházi személy,
 
@@ -34,9 +34,11 @@ hc)
 
 i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
 
-j) állami projektértékelői jogviszonyban, illetve az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
+j) állami projektértékelői jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 
 k) a köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa arra az időre, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik más biztosítással járó jogviszonnyal.
+
+l) tartós megbízási jogviszony keretében munkát végző személy.
 
 (2) Az (1) bekezdés f) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, alapítvány, egyesület, egyesületek szövetsége, társasház közösség, köztestület, kamara, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, vízgazdálkodási társulat, erdőbirtokossági társulat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, egyéni cég, szövetkezet, lakásszövetkezet, európai szövetkezet, állami vállalat, egyes jogi személyek vállalata, vállalatcsoport, Munkavállalói Résztulajdonosi Program szervezeteinek, önkéntes kölcsönös biztosító pénztárak, magánnyugdíjpénztárak tisztségviselője, vezető tisztségviselője, vagy e szervezetek felügyelőbizottságának, illetve a Kormány egyéb javaslattevő, véleményező vagy tanácsadói tevékenységet végző testületének a tagja, a helyi önkormányzati választásokon választott képviselő és tisztségviselők, társadalmi megbízatású polgármester, feltéve, hogy járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés f) pontjában meghatározott összeget, és a munkát Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzi.
 

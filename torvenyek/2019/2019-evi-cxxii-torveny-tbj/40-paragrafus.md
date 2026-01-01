@@ -12,7 +12,7 @@ a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefog
 
 b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja,
 
-c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban egyidejűleg részesül,
+c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül és egyidejűleg gyermekgondozást segítő ellátást, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat is kap,
 
 d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 
