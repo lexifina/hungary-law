@@ -2,6 +2,6 @@
 
 ## A NEMZETKÖZI SZABADALMI BEJELENTÉSEKKEL ÖSSZEFÜGGŐ BEADVÁNYOK
 
-## A Hivatal mint átvevő hivatal[^36]
+## A Hivatal mint átvevő hivatal[^37]
 
-[^36]: A 13. §-t megelőző alcím a 27/2010. (XII. 28.) KIM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 13. §-t megelőző alcím a 27/2010. (XII. 28.) KIM rendelet 9. § (2) bekezdése szerint módosított szöveg.

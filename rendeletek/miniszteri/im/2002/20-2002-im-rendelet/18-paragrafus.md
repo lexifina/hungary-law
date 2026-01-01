@@ -1,6 +1,6 @@
 ## A fajtaleírás és fordítása
 
-18. § (1)[^42] A növényfajta ismertetéséhez a növényfajta kísérleti vizsgálatának (az UPOV-egyezmény szerinti technikai vizsgálatának) eredményét magában foglaló, a kísérleti vizsgálatot végző szerv által kiállított fajtaleírást kell benyújtani, elektronikus kapcsolattartás esetén egy, egyéb esetben három azonos példányban.
+18. § (1)[^43] A növényfajta ismertetéséhez a növényfajta kísérleti vizsgálatának (az UPOV-egyezmény szerinti technikai vizsgálatának) eredményét magában foglaló, a kísérleti vizsgálatot végző szerv által kiállított fajtaleírást kell benyújtani, elektronikus kapcsolattartás esetén egy, egyéb esetben három azonos példányban.
 
 (2) A fajtaleírás a növényfajta kísérleti vizsgálatának eredményét ismertető jelentésből és leíró részből áll.
 
@@ -38,4 +38,4 @@ f) a megkülönböztető jellemzőt és annak kifejeződési fokozatát.
 
 (5) Az idegen nyelven készült fajtaleírás magyar nyelvű fordítására megfelelően alkalmazni kell a 2. § (2), (4) és (5) bekezdéseiben foglaltakat.
 
-[^42]: A 18. § (1) bekezdése a 30/2018. (XII. 12.) IM rendelet 9. § b) pontja szerint módosított szöveg.
+[^43]: A 18. § (1) bekezdése a 30/2018. (XII. 12.) IM rendelet 9. § b) pontja szerint módosított szöveg.
