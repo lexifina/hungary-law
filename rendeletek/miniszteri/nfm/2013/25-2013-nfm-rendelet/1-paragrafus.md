@@ -2,41 +2,41 @@
 
 1. §[^1] (1)[^2] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény végrehajtásáról szóló kormányrendeletben (a továbbiakban: Vhr.) meghatározott díjkategóriába tartozó, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény alapján az egyes útdíjköteles elemi útszakaszok használatáért fizetendő útdíj részét képező infrastruktúra díj (a továbbiakban: infrastruktúra díj) alapmértékét a (2)–(5) bekezdés tartalmazza.
 
-(2)[^3] A Vhr. szerint J2 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(2)[^3] A Vhr. szerinti J2 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 61,09 forint,
+a) gyorsforgalmi úton 65,89 forint,
 
-b) főúton 33,40 forint.
+b) főúton 36,03 forint.
 
-(3)[^4] A Vhr. szerint J3 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(3)[^4] A Vhr. szerinti J3 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 97,66 forint,
+a) gyorsforgalmi úton 105,32 forint,
 
-b) főúton 55,25 forint.
+b) főúton 59,59 forint.
 
-(4)[^5] A Vhr. szerint J4 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(4)[^5] A Vhr. szerinti J4 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 151,38 forint,
+a) gyorsforgalmi úton 163,26 forint,
 
-b) főúton 94,62 forint.
+b) főúton 102,05 forint.
 
-(4a)[^6] A Vhr. szerint J5 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(4a)[^6] A Vhr. szerinti J5 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 158,50 forint,
+a) gyorsforgalmi úton 170,94 forint,
 
-b) főúton 98,43 forint.
+b) főúton 106,16 forint.
 
-(4b)[^7] A Vhr. szerint M2 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(4b)[^7] A Vhr. szerinti M2 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 32,96 forint,
+a) gyorsforgalmi úton 35,55 forint,
 
-b) főúton 13,12 forint.
+b) főúton 14,15 forint.
 
-(4c)[^8] A Vhr. szerint M3 díjkategóriába tartozó gépjárművek kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúra díj alapmértéke:
+(4c)[^8] A Vhr. szerinti M3 díjkategóriába tartozó útdíjköteles gépjármű kilométerenkénti, általános forgalmi adót magában foglaló infrastruktúradíjának alapmértéke:
 
-a) gyorsforgalmi úton 61,09 forint,
+a) gyorsforgalmi úton 65,89 forint,
 
-b) főúton 33,40 forint.
+b) főúton 36,03 forint.
 
 (4d)[^9] Az egyes útdíjköteles elemi útszakaszok használatáért fizetendő infrastruktúradíj mértékét az útdíjköteles elemi útszakaszok 1. mellékletben meghatározott hosszának és az infrastruktúradíj alapmértéke alapján megállapított mértékének a szorzataként kell meghatározni.
 
@@ -44,11 +44,11 @@ b) főúton 33,40 forint.
 
 [^1]: Az 1. § a 8/2020. (II. 28.) ITM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 19/2022. (IX. 19.) TIM rendelet 2. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
-[^5]: Az 1. § (4) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
-[^6]: Az 1. § (4a) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdése iktatta be, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
-[^7]: Az 1. § (4b) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdése iktatta be, szövege a 8/2024. (III. 28.) ÉKM rendelet 1. §-ával megállapított, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
-[^8]: Az 1. § (4c) bekezdését a 8/2024. (III. 28.) ÉKM rendelet 1. §-a iktatta be, nyitó szövegrésze a 23/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (4) bekezdése a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (4a) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdése iktatta be, szövege a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § (4b) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 1. § (1) bekezdése iktatta be, szövege a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^8]: Az 1. § (4c) bekezdését a 8/2024. (III. 28.) ÉKM rendelet 1. §-a iktatta be, szövege a 46/2025. (XII. 23.) ÉKM rendelet 1. §-ával megállapított szöveg.
 [^9]: Az 1. § (4d) bekezdését a 8/2024. (III. 28.) ÉKM rendelet 1. §-a iktatta be, szövege a 23/2024. (VII. 31.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (5) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 1. § (2) bekezdésével megállapított, a 8/2024. (III. 28.) ÉKM rendelet 2. §-a szerint módosított szöveg.
