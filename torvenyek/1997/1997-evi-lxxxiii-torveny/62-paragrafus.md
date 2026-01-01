@@ -12,7 +12,7 @@
 
 a) a kifizetőhellyel rendelkező munkáltató esetében a kifizetőhely,
 
-b) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztosító
+b) egyéb esetben – ideértve, ha a kérelem benyújtásakor vagy elbírálásakor a biztosított biztosítási jogviszonya megszűnt – a munkáltató székhelye szerint illetékes egészségbiztosító
 
 bírálja el.
 
@@ -24,7 +24,7 @@ bírálja el.
 
 a) a (2) bekezdés a) pontja szerinti esetben a kifizetőhely,
 
-b) a (2) bekezdés c) pontja, valamint a (2d) bekezdés szerinti esetben az egészségbiztosító
+b) a (2) bekezdés b) pontja, valamint a (2d) bekezdés szerinti esetben az egészségbiztosító
 
 folyósítja.
 
@@ -32,9 +32,9 @@ folyósítja.
 
 (2e) A gyermekgondozási díjnak a 42/E. § szerint a vér szerinti apa részére történő megállapítása iránt benyújtott kérelmet, ha a vér szerinti apa a gyermek születése napján biztosított, a munkáltatójának a székhelye szerint, egyéb esetben a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el. A gyermekgondozási díjnak a 42/E. § szerint a szülő nő részére történő megállapítása iránti benyújtott kérelmet, ha a szülő nő a gyermek születése napján nem biztosított, a lakóhelye (tartózkodási helye) szerint illetékes egészségbiztosító bírálja el.
 
-(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, illetve a gyermekgondozási díj folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról ugyanazon szerv gondoskodik, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, az új foglalkoztató szerinti – a (2c) bekezdés a) vagy b) pontja szerint meghatározott – szerv folyósítja a már megállapított ellátást.
+(3) Ha a csecsemőgondozási díj, az örökbefogadói díj, illetve a gyermekgondozási díj folyósítása alatt a biztosított biztosítási jogviszonya megszűnik, az ellátás továbbfolyósításáról a megszűnt biztosítási jogviszonnyal érintett foglalkoztató székhelye szerint illetékes egészségbiztosító gondoskodik. Ha az ellátás folyósításának ideje alatt a biztosított foglalkoztatót vált, akkor az új foglalkoztató szerinti – a (2c) bekezdés a) vagy b) pontja szerint meghatározott – szerv folyósítja a már megállapított ellátást.
 
-(4) A biztosítási jogviszony megszűnését követően a baleseti táppénzt ugyanazon szerv folyósítja tovább, amely a folyósításra a biztosítási jogviszony megszűnéséig is hatáskörrel rendelkezett. Ha a baleseti táppénznek a biztosítási jogviszony megszűnését követő folyósítása alatt az ellátásban részesülő újabb biztosítási jogviszonyt létesít, az újabb biztosítási jogviszony kezdetét megelőző nappal a (2) bekezdés a) vagy b) pontja szerinti szerv az ellátás folyósítását megszünteti. A keresőképtelenség folyamatos fennállása esetén a biztosított – az újabb biztosítási jogviszonya alapján benyújtott kérelme alapján – az 55. § (1b) bekezdése alkalmazásával válhat jogosulttá ismételten baleseti táppénzre.
+(4) A biztosítási jogviszony megszűnését követően a baleseti táppénzt az egészségbiztosító folyósítja tovább. Ha a baleseti táppénznek a biztosítási jogviszony megszűnését követő folyósítása alatt az ellátásban részesülő újabb biztosítási jogviszonyt létesít, az újabb biztosítási jogviszony kezdetét megelőző nappal az egészségbiztosító az ellátás folyósítását megszünteti. Ha a biztosítási jogviszony megszűnését követő napon a biztosított újabb biztosítási jogviszonyt létesít, a baleseti táppénzt ugyanazon szerv szünteti meg, aki addig azt folyósította. A keresőképtelenség folyamatos fennállása esetén a biztosított – az újabb biztosítási jogviszonya alapján benyújtott kérelme alapján – az 55. § (1b) bekezdése alkalmazásával válhat jogosulttá ismételten baleseti táppénzre.
 
 (5)
 
