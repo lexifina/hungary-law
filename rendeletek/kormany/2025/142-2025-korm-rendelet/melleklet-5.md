@@ -1,3 +1,3 @@
-5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^43]
+5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^42]
 
-[^43]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-34. §[^34]
+34. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 106. § (1) bekezdése a következő c) ponttal egészül ki:
 
-[^34]: A 34. § a 39. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+(A védett kulturális javak kiviteli engedélye iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy)
