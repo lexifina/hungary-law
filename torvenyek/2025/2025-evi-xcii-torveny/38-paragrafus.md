@@ -1,1 +1,3 @@
-### 38. §
+38. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő 235. §-sal egészül ki:
+
+„235. § Ha a 234. § hatálya alá tartozó katonai bíró a 25/F. § szerinti továbbfoglalkoztatását kéri, és az OBH elnöke az érintett bíró katonai bírói tisztségből történő felmentéséről szóló javaslatot már a köztársasági elnök elé terjesztette, az OBH elnöke – a 97. § (3) bekezdésétől eltérően – a bírói tisztségre való kinevezésről szóló önálló javaslatot terjeszt a köztársasági elnök elé azzal, hogy az e felterjesztés alapján történő kinevezés a katonai bírói tisztség megszüntetésével egyidejű bírói kinevezésnek minősül.”
