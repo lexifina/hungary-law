@@ -1,6 +1,6 @@
 ### 63. § [A szabadság]
 
-(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(15) bekezdésben és a 66/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
+(1) A köztisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (4)–(15) bekezdésben és a 66/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
 
 (2) Az (1) bekezdésben foglaltakon túl szabadság jár a következő időszakok alapján:
 
@@ -16,17 +16,7 @@ e) a 47. § (11) bekezdés a), b), h), j), k), n) és o) pontjában, valamint a 
 
 f) minden olyan munkában nem töltött idő, amelyre a köztisztviselő illetményre jogosult.
 
-(3) A 69. § (1) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
-
-a) tanácsos besorolásnál három munkanap,
-
-b) vezető-tanácsos besorolásnál öt munkanap,
-
-c) főtanácsos besorolásnál hét munkanap,
-
-d) vezető-főtanácsos besorolásnál kilenc munkanap
-
-pótszabadságot vehet igénybe.
+(3)
 
 (4) A 69. § (2) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
 
@@ -42,7 +32,7 @@ e) vezető-főtanácsos besorolásnál kilenc munkanap
 
 pótszabadságot vehet igénybe.
 
-(5) A vezetői álláshelyet betöltő köztisztviselő a (3) és (4) bekezdésben szereplő pótszabadság helyett vezetői pótszabadságot vehet igénybe, amelynek mértéke évente:
+(5) A vezetői álláshelyet betöltő köztisztviselő a (4) bekezdésben szereplő pótszabadság helyett vezetői pótszabadságot vehet igénybe, amelynek mértéke évente:
 
 a) nem önálló szervezeti egység vezetője esetén öt munkanap,
 
