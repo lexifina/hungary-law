@@ -1,18 +1,18 @@
-37. § (1)[^84] Ha a házaspár a gyermekvállalásra a szerződésben meghatározott határidőig a gyermekvállalását nem vagy csak részben teljesíti, úgy a kamattámogatás a határidő lejártát követő naptól – nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik, és az igénybe vett kamattámogatás összegét, részbeni teljesítés esetén csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő és a gyermekvállalásból már teljesített gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével, a kamattámogatás igénybevételének napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten – a gyermekvállalási határidő leteltét követő 120 napon belül – vissza kell fizetniük. A gyermekvállalást teljesítettnek kell tekinteni akkor is, ha a magzat a 12. várandóssági hét betöltését követően elhal vagy halva születik, vagy ha a házastársak egyike elhunyt.
+37. § (1)[^85] Ha a házaspár a gyermekvállalásra a szerződésben meghatározott határidőig a gyermekvállalását nem vagy csak részben teljesíti, úgy a kamattámogatás a határidő lejártát követő naptól – nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik, és az igénybe vett kamattámogatás összegét, részbeni teljesítés esetén csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő és a gyermekvállalásból már teljesített gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével, a kamattámogatás igénybevételének napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten – a gyermekvállalási határidő leteltét követő 120 napon belül – vissza kell fizetniük. A gyermekvállalást teljesítettnek kell tekinteni akkor is, ha a magzat a 12. várandóssági hét betöltését követően elhal vagy halva születik, vagy ha a házastársak egyike elhunyt.
 
-(2)[^85] Ha a házaspár a gyermekvállalást a házasság felbontásának vagy érvénytelenítésének időpontjáig nem vagy csak részben teljesíti, köteles a házasság felbontásának vagy érvénytelenítésének tényét a bírósági határozat jogerőre emelkedését követő 60 napon belül a jogerős határozat bemutatásával a hitelintézetnél igazolni. A hitelintézet az igazolás benyújtásáról az 53. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt. A házaspár az igénybe vett kamattámogatás összegét, részbeni teljesítés esetén csökkentve a bírósági határozat jogerőre emelkedésének időpontjában meglévő gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével, a kamattámogatás igénybevételének napjától a házasság felbontásának vagy érvénytelensége megállapításának hitelintézetnél történő igazolása napjáig számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten köteles visszafizetni, és a kamattámogatás az igazolást követő naptól – nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik.
+(2)[^86] Ha a házaspár a gyermekvállalást a házasság felbontásának vagy érvénytelenítésének időpontjáig nem vagy csak részben teljesíti, köteles a házasság felbontásának vagy érvénytelenítésének tényét a bírósági határozat jogerőre emelkedését követő 60 napon belül a jogerős határozat bemutatásával a hitelintézetnél igazolni. A hitelintézet az igazolás benyújtásáról az 53. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt. A házaspár az igénybe vett kamattámogatás összegét, részbeni teljesítés esetén csökkentve a bírósági határozat jogerőre emelkedésének időpontjában meglévő gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével, a kamattámogatás igénybevételének napjától a házasság felbontásának vagy érvénytelensége megállapításának hitelintézetnél történő igazolása napjáig számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten köteles visszafizetni, és a kamattámogatás az igazolást követő naptól – nemteljesítés esetén a teljes, részbeni teljesítés esetén a nem teljesült gyermekre eső kölcsönösszeg tekintetében – megszűnik.
 
 (3) A (2) bekezdés szerinti esetben a házasság felbontásának vagy érvénytelenítésének időpontjában fennálló várandósságból született gyermekkel – ideértve a 12. várandóssági hét betöltését követően elhalt vagy halva született magzatot is – a gyermekvállalást teljesítettnek kell tekinteni. Ha a házaspár a várandósságot és a gyermek születésének várható időpontját a házasság felbontása vagy érvénytelenítése igazolását követő 30. napig a hitelintézet részére orvosi bizonyítvánnyal igazolja, a (2) bekezdés szerinti visszafizetési kötelezettség fennállásának, mértékének és kezdő időpontjának megállapítása a házasság felbontásának vagy érvénytelenítésének időpontjában fennálló várandósság végéig meghosszabbodik.
 
-(4)[^86] Az (1)–(3) bekezdésben foglaltaktól eltérően, ha a házaspár az igénybe vett kamattámogatás összegét a gyermekvállalási határidő lejártát megelőzően önként vissza kívánja fizetni, és addig a gyermekvállalását nem vagy csak részben teljesítette, akkor a gyermekvállalási határidő lejártnak minősül, és a visszafizetendő – részbeni teljesítés esetén a visszafizetés időpontjában meglévő és a gyermekvállalásból már teljesített gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével csökkentett – összeget növelni kell a kamattámogatás igénybevételének napjától a visszafizetés napjáig számított jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal.
+(4)[^87] Az (1)–(3) bekezdésben foglaltaktól eltérően, ha a házaspár az igénybe vett kamattámogatás összegét a gyermekvállalási határidő lejártát megelőzően önként vissza kívánja fizetni, és addig a gyermekvállalását nem vagy csak részben teljesítette, akkor a gyermekvállalási határidő lejártnak minősül, és a visszafizetendő – részbeni teljesítés esetén a visszafizetés időpontjában meglévő és a gyermekvállalásból már teljesített gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével csökkentett – összeget növelni kell a kamattámogatás igénybevételének napjától a visszafizetés napjáig számított jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal.
 
-(5)[^87] A támogatott személy kérelmére az e rendelet szerinti bármely visszafizetési kötelezettségre – ideértve az esedékes kamatokat is – a kormányhivatal hatósági jogkörében eljárva, méltányossági eljárás keretében részletfizetést engedélyezhet, ha a kérelmezők igazolják, hogy a kamattámogatás, a gyermekvállalási támogatás és azok kamatai azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeikre is tekintettel aránytalanul súlyos terhet jelentene.
+(5)[^88] A támogatott személy kérelmére az e rendelet szerinti bármely visszafizetési kötelezettségre – ideértve az esedékes kamatokat is – a kormányhivatal hatósági jogkörében eljárva, méltányossági eljárás keretében részletfizetést engedélyezhet, ha a kérelmezők igazolják, hogy a kamattámogatás, a gyermekvállalási támogatás és azok kamatai azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeikre is tekintettel aránytalanul súlyos terhet jelentene.
 
-(5a)[^88] A részletfizetési kedvezmény megszűnik és a tartozás egy összegben esedékessé válik, ha a támogatott személy a kedvezményes fizetési feltételeknek nem vagy csak részben tett eleget.
+(5a)[^89] A részletfizetési kedvezmény megszűnik és a tartozás egy összegben esedékessé válik, ha a támogatott személy a kedvezményes fizetési feltételeknek nem vagy csak részben tett eleget.
 
-(6)[^89] A támogatott személyek az e rendelet szerinti bármely fizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránt kérelemmel fordulhatnak a kormányhivatalhoz. A kormányhivatal hatósági jogkörében eljárva, méltányossági eljárás keretében a kérelmezők különös méltánylást érdemlő helyzetére tekintettel a fizetési kötelezettség teljesítésére legfeljebb 5 évre fizetési halasztást engedélyezhet, a fizetési kötelezettséget részben vagy teljesen elengedheti.
+(6)[^90] A támogatott személyek az e rendelet szerinti bármely fizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránt kérelemmel fordulhatnak a kormányhivatalhoz. A kormányhivatal hatósági jogkörében eljárva, méltányossági eljárás keretében a kérelmezők különös méltánylást érdemlő helyzetére tekintettel a fizetési kötelezettség teljesítésére legfeljebb 5 évre fizetési halasztást engedélyezhet, a fizetési kötelezettséget részben vagy teljesen elengedheti.
 
-(7)[^90] Különös méltánylást érdemlő helyzetnek minősül a gyermekvállalási kötelezettség nemteljesítése tekintetében különösen, ha a kölcsönszerződésben vállalt gyermek azért nem születik meg, mert
+(7)[^91] Különös méltánylást érdemlő helyzetnek minősül a gyermekvállalási kötelezettség nemteljesítése tekintetében különösen, ha a kölcsönszerződésben vállalt gyermek azért nem születik meg, mert
 
 a) a gyermek megszületését a házastársak egyikének a kölcsön igénybevételéről szóló szerződés megkötését követően megváltozott munkaképességű személlyé válása következtében nem vállalták;
 
@@ -36,11 +36,11 @@ db) a gyermekvállalását azért nem tudta teljesíteni, mert vele szemben a re
 
 e) a házaspár számára a gyermekvállalás szakorvos által kiállított egészségügyi dokumentációval igazoltan ellenjavallt.
 
-(8)[^91]
+(8)[^92]
 
-(9)[^92] Különös méltánylást érdemlő helyzetnek minősül, ha az e rendelet szerinti fizetési kötelezettség a támogatott személyek megélhetését ellehetetlenítené.
+(9)[^93] Különös méltánylást érdemlő helyzetnek minősül, ha az e rendelet szerinti fizetési kötelezettség a támogatott személyek megélhetését ellehetetlenítené.
 
-(10)[^93] A (7) bekezdés szerinti ok fennállása esetén a fizetési kötelezettség részbeni elengedésének van helye. A (9) bekezdés szerinti ok fennállása esetén
+(10)[^94] A (7) bekezdés szerinti ok fennállása esetén a fizetési kötelezettség részbeni elengedésének van helye. A (9) bekezdés szerinti ok fennállása esetén
 
 a) fizetési halasztás engedélyezésének van helye, vagy
 
@@ -54,19 +54,19 @@ b) a fizetési kötelezettség részbeni vagy teljes elengedésének van helye a
 
 (14) Az (5) bekezdés, a (6) bekezdés és a (10) bekezdés szerinti fizetési könnyítés iránti kérelmet a kamattámogatás visszafizetését elrendelő határozat támogatott általi kézhezvételét követő 30. napig lehet benyújtani.
 
-(15)[^94]
+(15)[^95]
 
-(16)[^95] A kormányhivatal tájékoztatást küld a hitelintézet részére a hozzá benyújtott kérelem tárgyában hozott döntéséről.
+(16)[^96] A kormányhivatal tájékoztatást küld a hitelintézet részére a hozzá benyújtott kérelem tárgyában hozott döntéséről.
 
-[^84]: A 37. § (1) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 28. pontja szerint módosított szöveg.
-[^85]: A 37. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 29. pontja szerint módosított szöveg.
-[^86]: A 37. § (4) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^87]: A 37. § (5) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^88]: A 37. § (5a) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdése iktatta be.
-[^89]: A 37. § (6) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
-[^90]: A 37. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
-[^91]: A 37. § (8) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 49. § b) pontja hatályon kívül helyezte.
-[^92]: A 37. § (9) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^93]: A 37. § (10) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^94]: A 37. § (15) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 49. § b) pontja hatályon kívül helyezte.
-[^95]: A 37. § (16) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 41. § (4) bekezdése iktatta be.
+[^85]: A 37. § (1) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 28. pontja szerint módosított szöveg.
+[^86]: A 37. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 29. pontja szerint módosított szöveg.
+[^87]: A 37. § (4) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^88]: A 37. § (5) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^89]: A 37. § (5a) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 41. § (1) bekezdése iktatta be.
+[^90]: A 37. § (6) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^91]: A 37. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^92]: A 37. § (8) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 49. § b) pontja hatályon kívül helyezte.
+[^93]: A 37. § (9) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^94]: A 37. § (10) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^95]: A 37. § (15) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 49. § b) pontja hatályon kívül helyezte.
+[^96]: A 37. § (16) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 41. § (4) bekezdése iktatta be.

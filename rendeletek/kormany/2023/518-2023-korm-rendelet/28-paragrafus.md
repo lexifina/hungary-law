@@ -6,13 +6,13 @@
 
 3. a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-4.[^60] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
+4.[^61] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
 
 5. a saját adóazonosító jelüket adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
 6. a várandósság betöltött 12. hetét a várandósgondozásban részt vevő szülész-nőgyógyász szakorvos által kiállított, a várandósság tényéről és annak 12. hete betöltésének napjáról, a szülés várható időpontjáról és a magzatok számáról szóló igazolással,
 
-7.[^61] a 15. § (1) bekezdés c) pontjában, a 15. § (3) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
+7.[^62] a 15. § (1) bekezdés c) pontjában, a 15. § (3) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
 
 8. a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
 
@@ -32,11 +32,11 @@ b) a tervezési díjról szóló számlával és
 
 c) az elektronikus építési naplóval,
 
-11.[^62]
+11.[^63]
 
-12.[^63] az igénylő építőközösségi tagságát építőközösségi szerződéssel,
+12.[^64] az igénylő építőközösségi tagságát építőközösségi szerződéssel,
 
-13.[^64] az 5. § (1) bekezdés 2. pontja szerinti önálló tető- és épületszerkezettel rendelkezés tényét – amennyiben az a 8. § szerinti helyszíni szemle során nem állapítható meg – az épület építészeti-műszaki dokumentációjával vagy építésügyi műszaki szakértő által készített szakvéleménnyel.
+13.[^65] az 5. § (1) bekezdés 2. pontja szerinti önálló tető- és épületszerkezettel rendelkezés tényét – amennyiben az a 8. § szerinti helyszíni szemle során nem állapítható meg – az épület építészeti-műszaki dokumentációjával vagy építésügyi műszaki szakértő által készített szakvéleménnyel.
 
 (2) Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 7. pontja szerinti igazolás nem megfelelő volta vagy hiánya miatt a hitelintézet a kölcsönkérelmet elutasítja – a kormányhivatal a 27. § (1) bekezdése szerinti hatósági eljárás során, az igénylők külön kérelmére, méltányosság keretében
 
@@ -56,7 +56,7 @@ c) teljes bizonyító erejű magánokiratba vagy a kiállítási hely joga szeri
 
 d) az igénylő annak hiteles magyar nyelvű fordítását is benyújtja a kormányhivatal részére.
 
-(4)[^65] A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
+(4)[^66] A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
 
 (5) A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot tulajdoni lap másolat lekérésével ellenőrzi.
 
@@ -90,12 +90,12 @@ ic) bírósági határozattal,
 
 j) a gyámság vagy gondnokság fennállását és a törvényes képviseletre való jogosultságot a gyámhatóság által kiállított tanúsítvánnyal.
 
-(8)[^66] A 6. § (7) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (5) bekezdés d) pont df) és dg) alpontja, valamint e) pontja, a 19. § (4) bekezdése, a 24. § (1) bekezdés b)–d) pontja, valamint a 31. § (1) és (2) bekezdése szerinti tényeket a hitelintézet a 8. § (1) bekezdése szerinti helyszíni szemle útján ellenőrzi.
+(8)[^67] A 6. § (7) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (5) bekezdés d) pont df) és dg) alpontja, valamint e) pontja, a 19. § (4) bekezdése, a 24. § (1) bekezdés b)–d) pontja, valamint a 31. § (1) és (2) bekezdése szerinti tényeket a hitelintézet a 8. § (1) bekezdése szerinti helyszíni szemle útján ellenőrzi.
 
-[^60]: A 28. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 346. §-ával megállapított szöveg.
-[^61]: A 28. § (1) bekezdés 7. pontja a 262/2024. (VIII. 29.) Korm. rendelet 3. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
-[^62]: A 28. § (1) bekezdés 11. pontját a 282/2025. (VIII. 25.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
-[^63]: A 28. § (1) bekezdés 12. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
-[^64]: A 28. § (1) bekezdés 13. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
-[^65]: A 28. § (4) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^66]: A 28. § (8) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 20. pontja szerint módosított szöveg.
+[^61]: A 28. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 346. §-ával megállapított szöveg.
+[^62]: A 28. § (1) bekezdés 7. pontja a 262/2024. (VIII. 29.) Korm. rendelet 3. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
+[^63]: A 28. § (1) bekezdés 11. pontját a 282/2025. (VIII. 25.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
+[^64]: A 28. § (1) bekezdés 12. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
+[^65]: A 28. § (1) bekezdés 13. pontját a 388/2024. (XII. 11.) Korm. rendelet 37. §-a iktatta be.
+[^66]: A 28. § (4) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^67]: A 28. § (8) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 20. pontja szerint módosított szöveg.

@@ -14,13 +14,13 @@ b) ha az érintett futamidőre az a) pontban meghatározott módszer alapján á
 
 (6) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) 2. § (5) bekezdésére tekintettel a kölcsönre az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a és 25. §-a helyett a (7)–(11) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
 
-(7)[^22] A kölcsön előtörlesztése esetén az érvényesített költségek – ideértve a gyermekvállalási támogatás költségvetéssel való elszámolását is – mértéke nem haladhatja meg az előtörlesztett összeg 1%-át.
+(7)[^23] A kölcsön előtörlesztése esetén az érvényesített költségek – ideértve a gyermekvállalási támogatás költségvetéssel való elszámolását is – mértéke nem haladhatja meg az előtörlesztett összeg 1%-át.
 
 (8) Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (9) és (10) bekezdésben foglaltak szerint.
 
 (9) A kölcsön ügyleti kamata a kamattámogatás időszaka alatt
 
-a)[^23] első alkalommal a kölcsön – vagy részfolyósítás esetén annak első részlete – folyósításának napját követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
+a)[^24] első alkalommal a kölcsön – vagy részfolyósítás esetén annak első részlete – folyósításának napját követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
 
 b) második alkalommal az a) pont szerinti időpontot követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
 
@@ -42,5 +42,5 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-[^22]: A 12. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
-[^23]: A 12. § (9) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 5. pontja szerint módosított szöveg.
+[^23]: A 12. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
+[^24]: A 12. § (9) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 5. pontja szerint módosított szöveg.
