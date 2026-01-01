@@ -4,7 +4,7 @@
 
 2.[^3] egyéb szálláshely: a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 40. pontjában meghatározott egyéb szálláshely,
 
-3.[^4] falusi szálláshely: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 1/3. mellékletében nem szereplő települések, valamint a természetes gyógytényezőkről szóló külön jogszabály alapján törzskönyvezett gyógyhelyek kivételével az 5000 fő alatti településeken vagy a 100 fő/km2 népsűrűség alatti területeken található olyan magánszálláshely vagy egyéb szálláshely, amelyet úgy alakítottak ki, hogy abban a falusi életkörülmények, a helyi vidéki szokások és kultúra, valamint a mezőgazdasági hagyományok komplex módon, adott esetben kapcsolódó szolgáltatásokkal együtt kerüljenek bemutatásra, és amely a háztartási körülmények között végzett vendéglátó tevékenységre vonatkozó szabályok megtartásával egyéb szolgáltatásként ételszolgáltatást is nyújthat a szállóvendégek részére,
+3.[^4] falusi szálláshely: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 1/3. mellékletében nem szereplő települések, valamint a természetes gyógytényezőkről szóló külön jogszabály alapján törzskönyvezett gyógyhelyek kivételével az 5000 fő alatti településeken, valamint az 5000 fő feletti települések vidéki jellegű nem belterületi településrészein vagy a 100 fő/km2 népsűrűség alatti területeken található olyan magánszálláshely vagy egyéb szálláshely, amelyet úgy alakítottak ki, hogy abban a falusi életkörülmények, a helyi vidéki szokások és kultúra, valamint a mezőgazdasági hagyományok komplex módon, adott esetben kapcsolódó szolgáltatásokkal együtt kerüljenek bemutatásra, és amely a háztartási körülmények között végzett vendéglátó tevékenységre vonatkozó szabályok megtartásával egyéb szolgáltatásként ételszolgáltatást is nyújthat a szállóvendégek részére,
 
 4. kemping: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített, külön zárt területen működő szálláshelytípus, amelyben szállás céljából a vendégek és járműveik számára elkülönült területet (a továbbiakban: területegység), illetve üdülőházat (a továbbiakban együtt: lakóegység) és egyéb kiszolgálólétesítményeket és szolgáltatásokat [így különösen: tisztálkodási, mosási, főzési, egészségügyi célokat szolgáló vizesblokk, energiaellátás, digitális információ (WIFI), portaszolgálat] biztosítanak, és amely legalább kilenc lakóegységgel rendelkezik,
 
@@ -42,7 +42,7 @@
 
 [^2]: A 2. § a 155/2019. (VI. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^3]: A 2. § 2. pontja a 383/2020. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 3. pontja a 775/2021. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 3. pontja a 775/2021. (XII. 23.) Korm. rendelet 1. §-ával megállapított, a 395/2025. (XII. 16.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § 4a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^6]: A 2. § 6. pontja a 383/2020. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § 6a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.

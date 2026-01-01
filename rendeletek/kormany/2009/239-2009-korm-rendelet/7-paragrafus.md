@@ -14,7 +14,7 @@ ca)[^39] – a honvédelmi és katonai célú ingatlanon kívül működtetni k�
 
 cb)[^40] – a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely engedélyezése esetében – az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert, valamint
 
-d)[^41] ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében –
+d)[^41] ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem benyújtását megelőző öt éven belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében –
 
 da)[^42] a honvédelmi és katonai célú ingatlanon kívül működtetni kívánt szálláshely engedélyezése esetében az elsőfokú eljárásban az építésügyi hatáskörében eljáró fővárosi és megyei kormányhivatalt,
 
@@ -35,7 +35,7 @@ a tevékenység megkezdéséről a bejelentés megtörténtéről szóló igazol
 [^38]: A 7. § a) pont ab) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 81. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 146. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A 7. § c) pont ca) alpontja a 41/2025. (III. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^40]: A 7. § c) pont cb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.
-[^41]: A 7. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
+[^41]: A 7. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (2) bekezdésével megállapított, nyitó szövegrésze a 395/2025. (XII. 16.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^42]: A 7. § d) pont da) alpontja a 30/2020. (II. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^43]: A 7. § e) pontját a 379/2016. (XII. 2.) Korm. rendelet 146. § (3) bekezdése iktatta be.
 [^44]: A 7. § f) pontját a 463/2024. (XII. 30.) Korm. rendelet 41. §-a iktatta be.
