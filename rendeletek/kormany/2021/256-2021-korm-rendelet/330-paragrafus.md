@@ -6,7 +6,7 @@ aa) kifogás elbírálása,
 
 ab) szabálytalansági eljárás vagy jogorvoslati eljárás,
 
-ac)[^497] a támogatási szerződés módosítása,
+ac)[^501] a támogatási szerződés módosítása,
 
 ad) a záró kifizetési kérelem javítása,
 
@@ -16,4 +16,4 @@ c) a kedvezményezettet nem terheli visszafizetési kötelezettség.
 
 (2) A pénzügyi zárást megelőzően a fel nem használt támogatást fel kell szabadítani a kötelezettségvállalás alól a kedvezményezett záró kifizetési kérelmében tett nyilatkozata alapján.
 
-[^497]: A 330. § (1) bekezdés a) pont ac) alpontja a 48/2024. (III. 4.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^501]: A 330. § (1) bekezdés a) pont ac) alpontja a 48/2024. (III. 4.) Korm. rendelet 21. §-ával megállapított szöveg.

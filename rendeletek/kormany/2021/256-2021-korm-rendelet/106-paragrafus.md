@@ -1,6 +1,6 @@
 106. § Az irányító hatóság olyan értékelési szempontokat alkalmaz, amelyek
 
-a)[^185] megfelelnek az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 73. cikkében meghatározott feltételeknek,
+a)[^188] megfelelnek az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 73. cikkében meghatározott feltételeknek,
 
 b) biztosítják a támogatásra legalkalmasabb projektek kiválasztását,
 
@@ -10,13 +10,13 @@ d) olyan projektek kiválasztását teszik lehetővé, amelyek közvetlenül hoz
 
 e) biztosítják az állami támogatási szabályoknak való megfelelést,
 
-f)[^186] kiterjednek a támogatást igénylő korábbi projektjeivel kapcsolatban a monitoring és információs rendszerben rendelkezésre álló információk – így különösen a pénzügyi korrekciót eredményezett szabálytalanságok – vizsgálatára,
+f)[^189] kiterjednek a támogatást igénylő korábbi projektjeivel kapcsolatban a monitoring és információs rendszerben rendelkezésre álló információk – így különösen a pénzügyi korrekciót eredményezett szabálytalanságok – vizsgálatára,
 
-g)[^187] figyelembe veszik a támogatási kérelemmel összefüggésben a közbeszerzési eljárások ellenőrzésének eredményét, és
+g)[^190] figyelembe veszik a támogatási kérelemmel összefüggésben a közbeszerzési eljárások ellenőrzésének eredményét, és
 
-h)[^188] figyelembe veszik az Európai Unió Alapjogi Chartájában szereplő jogok érvényesülését.
+h)[^191] figyelembe veszik az Európai Unió Alapjogi Chartájában szereplő jogok érvényesülését.
 
-[^185]: A 106. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
-[^186]: A 106. § f) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^187]: A 106. § g) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^188]: A 106. § h) pontját a 195/2023. (V. 22.) Korm. rendelet 37. §-a iktatta be.
+[^188]: A 106. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
+[^189]: A 106. § f) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^190]: A 106. § g) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^191]: A 106. § h) pontját a 195/2023. (V. 22.) Korm. rendelet 37. §-a iktatta be.

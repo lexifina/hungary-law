@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-256-20-
 | 2025-03-14 | 2021-256-20-22.33 | 37/2025. (III. 11.) Korm. rendelet |
 | 2025-07-19 | 2021-256-20-22.34 | 202/2025. (VII. 16.) Korm. rendelet |
 | 2025-09-01 | 2021-256-20-22.35 | 202/2025. (VII. 16.) Korm. rendelet |
+| 2026-01-01 | 2021-256-20-22.38 | 384/2025. (XII. 8.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 44/B.[^224] Áttérés a Helyreállítási és Ellenállóképességi Terv terhére finanszírozott projekt 2021–2027 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására
+## 44/B.[^227] Áttérés a Helyreállítási és Ellenállóképességi Terv terhére finanszírozott projekt 2021–2027 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására
 
 167/C. § (1) A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott, az áttéréshez szükséges feltételek fennállása esetén az irányító hatóság az áttéréshez szükséges
 
@@ -14,4 +14,4 @@ b) új technikai felhívást hirdet meg.
 
 (5) Az új támogatási szerződés meghatározza a Helyreállítási és Ellenállóképességi Terv, valamint az érintett program közötti elszámolás és finanszírozás rendjét, valamint azok fordulónapját is.
 
-[^224]: A 44/B. alcímet (167/C. §-t) a 37/2025. (III. 11.) Korm. rendelet 14. §-a iktatta be.
+[^227]: A 44/B. alcímet (167/C. §-t) a 37/2025. (III. 11.) Korm. rendelet 14. §-a iktatta be.

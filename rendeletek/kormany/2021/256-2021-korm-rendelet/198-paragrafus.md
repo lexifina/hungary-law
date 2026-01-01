@@ -1,10 +1,10 @@
-198. § (1)[^317] A kedvezményezett a szállítói szerződést, a szállítói szerződés módosítását és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a szállítói szerződés módosítását követő öt munkanapon belül megküldi az irányító hatóság részére utóellenőrzés céljából.
+198. § (1)[^320] A kedvezményezett a szállítói szerződést, a szállítói szerződés módosítását és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a szállítói szerződés módosítását követő öt munkanapon belül megküldi az irányító hatóság részére utóellenőrzés céljából.
 
-(2)[^318] Az irányító hatóság a szállítói szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
+(2)[^321] Az irányító hatóság a szállítói szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
 
-(3)[^319] Az irányító hatóság a dokumentumok kézhezvételét követő tíz munkanapon belül elvégzi azok támogathatósági, elszámolhatósági és műszaki szempontú ellenőrzését és megküldi a kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát.
+(3)[^322] Az irányító hatóság a dokumentumok kézhezvételét követő tíz munkanapon belül elvégzi azok támogathatósági, elszámolhatósági és műszaki szempontú ellenőrzését és megküldi a kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát.
 
-(3a)[^320] Ha az irányító hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.
+(3a)[^323] Ha az irányító hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.
 
 (4) Ha a kedvezményezett a nyilatkozattal nem ért egyet, annak kézhezvételétől számított két munkanapon belül megküldi észrevételeit az irányító hatóság részére.
 
@@ -16,7 +16,7 @@ b) egyet nem értése esetén a nyilatkozatban foglaltakat fenntartja.
 
 (6) Az irányító hatóság haladéktalanul tájékoztatja a kedvezményezettet az (5) bekezdés szerinti döntéséről.
 
-[^317]: A 198. § (1) bekezdése a 48/2024. (III. 4.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^318]: A 198. § (2) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^319]: A 198. § (3) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 38. § i) pontja szerint módosított szöveg.
-[^320]: A 198. § (3a) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 21. §-a iktatta be.
+[^320]: A 198. § (1) bekezdése a 48/2024. (III. 4.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^321]: A 198. § (2) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^322]: A 198. § (3) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 38. § i) pontja szerint módosított szöveg.
+[^323]: A 198. § (3a) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 21. §-a iktatta be.

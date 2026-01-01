@@ -1,4 +1,4 @@
-## 44/A.[^223] Áttérés a projekt 2014–2020 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására
+## 44/A.[^226] Áttérés a projekt 2014–2020 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására
 
 167/A. § (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt 2014–2020 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására térhet át (ezen alcím alkalmazásában a továbbiakban: áttérés), ha
 
@@ -14,4 +14,4 @@ e) az áttérés megfelel az Európai Regionális Fejlesztési Alapra, az Európ
 
 (2) Az áttérést az irányító hatóság kezdeményezi.
 
-[^223]: A 44/A. alcímet (167/A-167/B. §-t) a 463/2022. (XI. 15.) Korm. rendelet 10. §-a iktatta be.
+[^226]: A 44/A. alcímet (167/A-167/B. §-t) a 463/2022. (XI. 15.) Korm. rendelet 10. §-a iktatta be.

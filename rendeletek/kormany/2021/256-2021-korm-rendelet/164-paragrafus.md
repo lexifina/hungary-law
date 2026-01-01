@@ -10,15 +10,15 @@ c) a projekt keretében megvalósított tevékenység megfelel valamely e rendel
 
 d) az áttérés az áttérést megelőző feltételeknél nagyobb mértékben segíti elő az indikátorok teljesítését, illetve az abszorpciót,
 
-e)[^221]
+e)[^224]
 
 f) az áttérés nem okoz kettős finanszírozást, és
 
 g) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
-(2)[^222]
+(2)[^225]
 
 (3) Az (1) bekezdés szerinti áttérést az irányító hatóság és a kedvezményezett is kezdeményezheti.
 
-[^221]: A 164. § (1) bekezdés e) pontját a 218/2024. (VII. 31.) Korm. rendelet 76. § d) pontja hatályon kívül helyezte.
-[^222]: A 164. § (2) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^224]: A 164. § (1) bekezdés e) pontját a 218/2024. (VII. 31.) Korm. rendelet 76. § d) pontja hatályon kívül helyezte.
+[^225]: A 164. § (2) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
