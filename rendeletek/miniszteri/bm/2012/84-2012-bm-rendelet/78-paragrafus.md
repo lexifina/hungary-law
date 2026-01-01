@@ -1,5 +1,5 @@
-## 44.[^120]
+## 44.[^121]
 
 78. §
 
-[^120]: A 44. alcímet (78. §-t) a 34/2024. (VIII. 8.) BM rendelet 14. § h) pontja hatályon kívül helyezte.
+[^121]: A 44. alcímet (78. §-t) a 34/2024. (VIII. 8.) BM rendelet 14. § h) pontja hatályon kívül helyezte.

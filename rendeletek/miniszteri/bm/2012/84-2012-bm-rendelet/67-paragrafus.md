@@ -1,6 +1,6 @@
 ## 40. A körlet rendje
 
-67. §[^102] (1) A körlet az Országgyűlési Őrség valamely szervezeti eleme elhelyezésére szolgáló épület vagy épületrész, a hozzá tartozó létesítményekkel együtt.
+67. §[^103] (1) A körlet az Országgyűlési Őrség valamely szervezeti eleme elhelyezésére szolgáló épület vagy épületrész, a hozzá tartozó létesítményekkel együtt.
 
 (2) A körletparancsnok a körletben elhelyezett szervezeti elem vezetője, aki felelős a körlet rendjéért, a körletben elhelyezett személyek fegyelméért. Ha a körletben több szervezeti elem van elhelyezve, a körletparancsnokot a közös szolgálati elöljáró jelöli ki. A körletparancsnoki teendőket utasításban alacsonyabb beosztású szolgálati elöljáróra is át lehet ruházni, amely utasítást a körletben elhelyezett személyekkel ismertetni kell.
 
@@ -12,4 +12,4 @@
 
 (6) Az országgyűlési őr felelős a körlet rendjének fenntartásáért, a használatára bízott eszközök, felszerelések, berendezések megóvásáért, rendeltetésszerű használatáért.
 
-[^102]: A 67. § a 34/2024. (VIII. 8.) BM rendelet 9. §-ával megállapított szöveg.
+[^103]: A 67. § a 34/2024. (VIII. 8.) BM rendelet 9. §-ával megállapított szöveg.

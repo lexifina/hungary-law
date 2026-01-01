@@ -12,8 +12,11 @@
 
 (6) Az országgyűlési őr intézkedése előtt felméri, hogy rendelkezésére állnak-e azok az eszközök, amelyekkel a megkezdett intézkedését eredményesen be tudja fejezni; ha nem, úgy az intézkedésének megkezdése előtt segítséget kér.
 
+(7)[^21] Rendészeti szakképzettséggel vagy szakképesítéssel nem rendelkező országgyűlési őr kizárólag szakképzett országgyűlési őr irányításával intézkedhet. Ha a rendészeti szakképzettséggel vagy szakképesítéssel nem rendelkező országgyűlési őr az intézkedési kötelezettségére okot adó cselekményt önállóan észleli, köteles azt haladéktalanul a legközelebbi országgyűlési őrnek jelezni, valamint arról jelentést tenni szolgálati elöljárójának, vagy a szolgálati elöljáró akadályoztatása esetén az ügyeletesnek.
+
 [^16]: A 2. alcím címe a 34/2024. (VIII. 8.) BM rendelet 1. §-ával megállapított szöveg.
 [^17]: Az 5. § (1) bekezdését a 9/2018. (IV. 25.) BM rendelet 55. § b) pontja hatályon kívül helyezte.
 [^18]: Az 5. § (3) bekezdése a 19/2020. (VI. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^19]: Az 5. § (4) bekezdése a 9/2018. (IV. 25.) BM rendelet 37. §-ával megállapított, a 37/2018. (XII. 28.) BM rendelet 25. § c) pontja szerint módosított szöveg.
 [^20]: Az 5. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 37. §-ával megállapított, a 34/2024. (VIII. 8.) BM rendelet 13. § 3. pontja szerint módosított szöveg.
+[^21]: Az 5. § (7) bekezdését az 54/2025. (XII. 22.) BM rendelet 8. §-a iktatta be.

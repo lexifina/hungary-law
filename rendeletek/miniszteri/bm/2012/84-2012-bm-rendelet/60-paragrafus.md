@@ -2,7 +2,7 @@
 
 60. § (1) A szolgálati elöljáró
 
-a)[^90] szervezi, irányítja és ellenőrzi az alárendelt szervezeti elemek és beosztottak munkáját, biztosítja a munka feltételeit, figyelembe véve és mérlegelve alárendeltjei javaslatait,
+a)[^91] szervezi, irányítja és ellenőrzi az alárendelt szervezeti elemek és beosztottak munkáját, biztosítja a munka feltételeit, figyelembe véve és mérlegelve alárendeltjei javaslatait,
 
 b) megfelelően dokumentálja ellenőrzéseit és az ellenőrzés eredményétől függően a feltárt hibák, hiányosságok megszüntetésére, valamint a felelős személyének megállapítására és felelősségének érvényesítésére a szükséges intézkedéseket megteszi,
 
@@ -24,7 +24,7 @@ j) intézkedik a továbbképzés, önképzés, számonkérés folyamatos végreh
 
 k) gondoskodik az Országgyűlési Őrség vagyonának védelméről, rendeltetésszerű használatáról, a szolgálat ellátásához szükséges technikai felszerelésről, biztosítja a körletrend betartását,
 
-l)[^91] ismeri a vezetése alá tartozó szervezeti elem létszámát, az eszközök, a felszerelés és fegyverzet mennyiségét és állapotát, és törekszik a szervezeti elem optimális működtetésére,
+l)[^92] ismeri a vezetése alá tartozó szervezeti elem létszámát, az eszközök, a felszerelés és fegyverzet mennyiségét és állapotát, és törekszik a szervezeti elem optimális működtetésére,
 
 m) intézkedik a szolgálati okmányoknak az iratkezelési szabályok szerinti kezeléséről, elhelyezéséről úgy, hogy azok a nap 24 órájában – valamennyi szolgálati csoport okmányai vonatkozásában – ellenőrzéskor rendelkezésre álljanak és naprakészek legyenek, továbbá
 
@@ -36,5 +36,5 @@ n) távolléte esetére kijelöli helyettesét, ha kijelölt vagy megbízott hel
 
 (4) A feljebbvaló mindenkor megköveteli az alacsonyabb rendfokozatúaktól a fegyelem, a rend, az öltözködési szabályok, valamint a magatartásra, az udvariasságra és a tiszteletadásra vonatkozó előírások megtartását.
 
-[^90]: A 60. § (1) bekezdés a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 25. pontja szerint módosított szöveg.
-[^91]: A 60. § (1) bekezdés l) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 26. és 27. pontja szerint módosított szöveg.
+[^91]: A 60. § (1) bekezdés a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 25. pontja szerint módosított szöveg.
+[^92]: A 60. § (1) bekezdés l) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 26. és 27. pontja szerint módosított szöveg.

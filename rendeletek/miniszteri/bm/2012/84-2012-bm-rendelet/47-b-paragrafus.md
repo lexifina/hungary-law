@@ -1,8 +1,8 @@
-## 26/B. [^83] Díszőri feladatok
+## 26/B. [^84] Díszőri feladatok
 
-47/B. § (1)[^84] A díszőr ellátja az öltözködési és alaki előírásokban foglaltak alapján részére meghatározott díszelgő feladatokat nemzeti ünnepek, ünnepségek, rendezvények, kegyeleti aktusok, díszőrbemutatók, egyéb díszelgési feladatok alkalmával. A díszőr tevékenységét a díszőrvezénylő parancsnok utasításai szerint végzi.
+47/B. § (1)[^85] A díszőr ellátja az öltözködési és alaki előírásokban foglaltak alapján részére meghatározott díszelgő feladatokat nemzeti ünnepek, ünnepségek, rendezvények, kegyeleti aktusok, díszőrbemutatók, egyéb díszelgési feladatok alkalmával. A díszőr tevékenységét a díszőrvezénylő parancsnok utasításai szerint végzi.
 
 (2) A védett objektumon kívül, illetve külföldön ellátott díszőrfeladatokat az Országgyűlési Őrség parancsnoka engedélyezi.
 
-[^83]: A 26/B. alcímet (47/B. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
-[^84]: A 47/B. § (1) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 22. pontja szerint módosított szöveg.
+[^84]: A 26/B. alcímet (47/B. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^85]: A 47/B. § (1) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 22. pontja szerint módosított szöveg.
