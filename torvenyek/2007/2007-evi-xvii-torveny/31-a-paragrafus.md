@@ -4,7 +4,7 @@
 
 (2) Az intervenciós raktárregiszter a 28. § (2) bekezdés szerinti adatokon kívül tartalmazza az ügyfél regisztrációs számát, a raktározási helyszíneket és a raktározási építmények műszaki paramétereit.
 
-(2a) Az intervenciós raktárregiszter a (2) bekezdésben foglalt adatok tekintetében – kivéve a 28. § (2) bekezdésében foglalt természetes személyazonosító adatokat – közhiteles hatósági nyilvántartásnak minősül.
+(2a) Az intervenciós raktárregiszterben a (2) bekezdés szerinti adatok tekintetében az ellenkező bizonyításig vélelmezni kell, hogy ezek az adatok fennállnak és valósak.
 
 (3) A hatósági nyilvántartás adatait a mezőgazdasági és vidékfejlesztési támogatási szerv az informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a mezőgazdasági és vidékfejlesztési támogatási szerv által történik a raktárregiszterbe történő felvétel iránt benyújtott kérelem alapján. A mezőgazdasági és vidékfejlesztési támogatási szerv azokat a raktározókat, akikkel már kötött raktárszerződést, hivatalból nyilvántartásba veszi.
 
