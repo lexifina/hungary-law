@@ -4,6 +4,6 @@
 
 ## [3] A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (7) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § 4. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörében eljáró agrárminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott de minimis támogatásokról szóló 39/2011. (V. 18.) VM rendelet [a továbbiakban: 39/2011. (V. 18.) VM rendelet] 2. § (8) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(8) A támogatás mértéke az Üzletszabályzatban kerül meghatározásra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
