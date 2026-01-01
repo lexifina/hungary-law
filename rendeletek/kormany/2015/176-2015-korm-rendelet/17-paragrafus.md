@@ -1,8 +1,8 @@
 ## 15. Az önálló diszpécserszolgálati tevékenység engedélyezése
 
-17. § (1)[^47] Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély (a továbbiakban: diszpécserszolgálati engedély) birtokában végezhet. A diszpécserszolgálati engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja ki, amely megfelel a 6. és 7. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. A diszpécserszolgálati engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat és az önálló diszpécserszolgálat üzleti nevét tartalmazó nyilatkozatot.
+17. § (1)[^48] Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély (a továbbiakban: diszpécserszolgálati engedély) birtokában végezhet. A diszpécserszolgálati engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja ki, amely megfelel a 6. és 7. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. A diszpécserszolgálati engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat és az önálló diszpécserszolgálat üzleti nevét tartalmazó nyilatkozatot.
 
-(1a)[^48] A diszpécserszolgálati engedély – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza
+(1a)[^49] A diszpécserszolgálati engedély – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza
 
 a) az engedély egyedi sorszámát,
 
@@ -14,11 +14,11 @@ d) a vállalkozás üzleti nevét, valamint
 
 e) a szakmai irányító nevét.
 
-(1b)[^49] A diszpécserszolgálati engedély öt évre szól, amely időtartamot a közlekedési hatóság a vállalkozás kérelmére újabb öt évre meghosszabbítja. Ha a vállalkozás a diszpécserszolgálati engedély kiadására e rendeletben meghatározott feltételeknek továbbra is megfelel, a diszpécserszolgálati engedély időbeli hatályának a meghosszabbítása nem tagadható meg.
+(1b)[^50] A diszpécserszolgálati engedély öt évre szól, amely időtartamot a közlekedési hatóság a vállalkozás kérelmére újabb öt évre meghosszabbítja. Ha a vállalkozás a diszpécserszolgálati engedély kiadására e rendeletben meghatározott feltételeknek továbbra is megfelel, a diszpécserszolgálati engedély időbeli hatályának a meghosszabbítása nem tagadható meg.
 
-(2)[^50] A közlekedési hatóság az általa kiadott diszpécserszolgálati engedélyeket és az egyes diszpécserszolgálati engedélyek jogosultjainak üzleti neveit honlapján közzéteszi, és azok tekintetében a honlap tartalmát negyedévente aktualizálja.
+(2)[^51] A közlekedési hatóság az általa kiadott diszpécserszolgálati engedélyeket és az egyes diszpécserszolgálati engedélyek jogosultjainak üzleti neveit honlapján közzéteszi, és azok tekintetében a honlap tartalmát negyedévente aktualizálja.
 
-(3)[^51] Az önálló diszpécserszolgálati tevékenységet végző vállalkozás pénzügyi teljesítőképessége abban az esetben megfelelő, ha megfelel a 8. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek.
+(3)[^52] Az önálló diszpécserszolgálati tevékenységet végző vállalkozás pénzügyi teljesítőképessége abban az esetben megfelelő, ha megfelel a 8. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek.
 
 (4) A vagyoni biztosíték mértékét az önálló diszpécserszolgálattal szerződött – személyszállító szolgáltatást folytató – vállalkozások által működtetett személygépkocsik száma határozza meg. A vagyoni biztosíték mértéke, ha az önálló diszpécserszolgálat működési területén illetékes helyi önkormányzat – rendeletében – eltérően nem rendelkezik,
 
@@ -42,7 +42,7 @@ a) csökkenés következik be, akkor a (4) bekezdésben meghatározott biztosít
 
 b) növekedés következik be, akkor a biztosítékot azzal arányosan fel kell emelni.
 
-(7)[^52]
+(7)[^53]
 
 (8) Ha a helyi önkormányzat az önálló diszpécserszolgáltatási tevékenység végzésére az e szakaszban foglaltaktól eltérő feltételeket állapít meg, akkor
 
@@ -52,9 +52,9 @@ b) az önálló diszpécserszolgálati tevékenységet végző vállalkozásokna
 
 e szakasz rendelkezéseit az eltérő feltételek figyelembevétele mellett kell alkalmazni.
 
-[^47]: A 17. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^48]: A 17. § (1a) bekezdését a 394/2022. (X. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^49]: A 17. § (1b) bekezdését a 394/2022. (X. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^50]: A 17. § (2) bekezdése a 394/2022. (X. 19.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^51]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^52]: A 17. § (7) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^48]: A 17. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^49]: A 17. § (1a) bekezdését a 394/2022. (X. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^50]: A 17. § (1b) bekezdését a 394/2022. (X. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^51]: A 17. § (2) bekezdése a 394/2022. (X. 19.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^52]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^53]: A 17. § (7) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.

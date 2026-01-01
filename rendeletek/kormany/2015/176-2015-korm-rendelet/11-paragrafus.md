@@ -22,6 +22,8 @@ a vizsga napjától számított öt évig érvényes vizsgaigazolást ad ki.
 
 (5)[^37] A továbbképzési szaktanfolyami képesítés megszerzéséhez a személygépkocsi vezetőjének szaktanfolyamon kell részt vennie, és vizsgát kell tennie, amely alapján kiállított vizsgaigazolás öt évig érvényes. Ezt követően a személygépkocsi vezetőjének ötévente továbbképzésen kell részt vennie, és vizsgát kell tennie.
 
+(5a)[^38] Nem kell továbbképzési szaktanfolyamon részt vennie és továbbképzési vizsgát tennie annak a személygépkocsis személyszállító szolgáltatást nyújtó személygépkocsi vezetőjének, aki a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet 2. melléklet 1. pontjában meghatározott, érvényes autóbusz-vezetői szakmai alapképesítéssel vagy szakmai továbbképzési képesítéssel rendelkezik.
+
 (6) A személygépkocsi vezetőjének mind személytaxis személyszállító, mind személygépkocsis személyszállítói képesítéshez
 
 a) alapképzésnél elméleti és gyakorlati vizsgát,
@@ -38,3 +40,4 @@ b) továbbképzésnél elméleti vizsgát kell tennie.
 [^35]: A 11. § (3) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
 [^36]: A 11. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.
 [^37]: A 11. § (5) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^38]: A 11. § (5a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 20. § (3) bekezdése iktatta be.

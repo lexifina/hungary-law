@@ -8,10 +8,10 @@ b) a korábbi tevékenységi engedély bevonásával egyidejűleg – a korábbi
 
 (2) A vállalkozás tizenöt napon belül a tevékenységi engedélyt és annak kivonatait köteles
 
-a)[^39] a tevékenység megszűnése esetén, valamint az engedély időbeli hatályának lejártával a közlekedési hatóságnak visszaszolgáltatni,
+a)[^40] a tevékenység megszűnése esetén, valamint az engedély időbeli hatályának lejártával a közlekedési hatóságnak visszaszolgáltatni,
 
 b) a tevékenység szüneteltetése esetén – annak időtartamára, legfeljebb öt évre – a közlekedési hatóságnál letétbe helyezni.
 
 (3) A (2) bekezdésben meghatározott esetekben a közlekedési hatóság a bejelentés tényét írásban rögzíti, és az ügyfél kérelmére erről igazolást ad ki.
 
-[^39]: A 13. § (2) bekezdés a) pontja a 251/2024. (VIII. 22.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.
+[^40]: A 13. § (2) bekezdés a) pontja a 251/2024. (VIII. 22.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.

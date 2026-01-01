@@ -1,6 +1,6 @@
 ## 8. Személyszállító szolgáltatást végző személygépkocsi műszaki alkalmassági vizsgálata
 
-10. § (1)[^29] Azt a személygépkocsit, amellyel a vállalkozás a személyszállító szolgáltatást végezni kívánja, a tevékenységi engedély iránt benyújtott kérelem elbírálását megelőzően a közlekedési hatóság által üzemeltetett vizsgaállomáson forgalomba helyezés előtti vagy időszakos vizsgálattal összevontan elvégzett műszaki alkalmassági vizsgálatra kell bemutatni. Ezt követően a műszaki alkalmassági vizsgálatot minden időszakos vizsgálattal összevontan kell elvégezni. Az időszakos vizsgálattal összevontan elvégzett műszaki alkalmassági vizsgálat a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott országos lefedettséget biztosító műszaki vizsgálóállomáson is elvégezhető.
+10. § (1)[^29] Azt a személygépkocsit, amellyel a vállalkozás a személyszállító szolgáltatást végezni kívánja, a tevékenységi engedély iránt benyújtott kérelem elbírálását megelőzően a közlekedési hatóság által üzemeltetett vizsgaállomáson vagy a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott országos lefedettséget biztosító műszaki vizsgálóállomáson forgalomba helyezés előtti vagy időszakos vizsgálattal összevontan elvégzett műszaki alkalmassági vizsgálatra kell bemutatni. Ezt követően a műszaki alkalmassági vizsgálatot minden időszakos vizsgálattal összevontan kell elvégezni.
 
 (2) A műszaki alkalmassági vizsgálat megkezdésekor személytaxi-szolgáltatáshoz alkalmazni kívánt személygépkocsi esetében be kell mutatni a viteldíjjelző készülék hitelesítésének igazolását.
 
@@ -10,6 +10,6 @@
 
 (5)[^31] A 12. § (3) bekezdése szerinti engedélykivonatban megjelölt személygépkocsi üzemképtelenné válása esetén – átmeneti időre, de legfeljebb harminc napra – a szolgáltatás zavartalan folytatása érdekében a vállalkozás engedélykivonattal nem rendelkező, személygépkocsival is végezheti a tevékenységét; azonban ennek a személygépkocsinak meg kell felelnie az (1)–(4) bekezdésben meghatározott feltételeknek. A vállalkozás köteles a közlekedési hatóságnak az engedélykivonattal nem rendelkező személygépkocsi átmeneti használatát a használat megkezdését megelőzően – megjelölve az üzemképtelenné vált személygépkocsi rendszámát is – írásban bejelenteni. A személygépkocsi vezetője az üzemképtelenné vált jármű engedély kivonatát és a közlekedési hatóság által küldött – a bejelentés tudomásul vételét tanúsító – igazolást a szolgáltatás nyújtásakor köteles magánál tartani.
 
-[^29]: A 10. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^29]: A 10. § (1) bekezdése a 395/2025. (XII. 16.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
 [^30]: A 10. § (4) bekezdése a 394/2022. (X. 19.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^31]: A 10. § (5) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § f) pontja szerint módosított szöveg.

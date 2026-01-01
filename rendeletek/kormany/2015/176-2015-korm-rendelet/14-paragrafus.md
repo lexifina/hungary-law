@@ -6,9 +6,9 @@
 
 (3) A személyszállító vezetői igazolványt a közlekedési hatóság a 11. § (3) vagy (5) bekezdése szerinti vizsgaigazolásnak az érvényességi idejére, de legfeljebb öt évre adja ki.
 
-(3a)[^40] A személyszállító vezetői igazolványt az időbeli hatálya lejártát követő tizenöt napon belül vissza kell szolgáltatni a kiállító hatóság részére.
+(3a)[^41] A személyszállító vezetői igazolványt az időbeli hatálya lejártát követő tizenöt napon belül vissza kell szolgáltatni a kiállító hatóság részére.
 
-(4)[^41] A kérelmet a közlekedési hatóság elutasítja, ha a személygépkocsi vezetője
+(4)[^42] A kérelmet a közlekedési hatóság elutasítja, ha a személygépkocsi vezetője
 
 a) az 5. § (2) bekezdés b) pontjában meghatározottaknak – a személyszállító vezetői igazolvány meglétének kivételével – nem felel meg,
 
@@ -36,15 +36,15 @@ d) a személygépkocsi vezető arcképmását, valamint
 
 e) személytaxi-vezetői igazolvány esetén az igazolvány területi hatályát is.
 
-(6)[^42] A személyszállító vezetői igazolvány jogosultja a közlekedési hatóságnál a változástól számított 15 napon belül bejelenti az (5) bekezdés b) és e) pontja szerinti adatokban bekövetkezett változásokat.
+(6)[^43] A személyszállító vezetői igazolvány jogosultja a közlekedési hatóságnál a változástól számított 15 napon belül bejelenti az (5) bekezdés b) és e) pontja szerinti adatokban bekövetkezett változásokat.
 
-(7)[^43] A (6) bekezdés szerinti bejelentés alapján a közlekedési hatóság a személyszállító vezetői igazolvány
+(7)[^44] A (6) bekezdés szerinti bejelentés alapján a közlekedési hatóság a személyszállító vezetői igazolvány
 
 a) visszavonásáról intézkedik, ha az igazolvány kiadásának feltételei a továbbiakban nem állnak fenn, vagy
 
 b) bevonásával egyidejűleg új személyszállító vezetői igazolványt ad ki, ha annak adataiban változás következett be, és az igazolvány kiadásának feltételei továbbra is fennállnak.
 
-[^40]: A 14. § (3a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 63. §-a iktatta be.
-[^41]: A 14. § (4) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^42]: A 14. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^43]: A 14. § (7) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^41]: A 14. § (3a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 63. §-a iktatta be.
+[^42]: A 14. § (4) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^43]: A 14. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^44]: A 14. § (7) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
