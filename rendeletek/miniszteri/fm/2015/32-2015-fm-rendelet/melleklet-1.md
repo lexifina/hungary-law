@@ -1,6 +1,6 @@
 1. melléklet a 32/2015. (VI. 19.) FM rendelethez[^9]
 
-XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2025. évi költségvetési kiadási előirányzatainak feladatterve
+XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2026. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -28,4 +28,4 @@ XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2025. 
 
 | 12 | 408762 |  | Ingatlanokkal kapcsolatos beruházási, felújítási és rekonstrukciós kiadások | Az állam tulajdonában és az AM-nek a Nemzeti Földalap feletti tulajdonosi joggyakorlásában lévő ingatlanok és az Ögt. szerint a Nemzeti Földalapba tartozó harmadlagos művek felújítása és beruházása közvetlen és járulékos kiadásainak finanszírozása, ideértve az azok rendeltetésszerű használatához szükséges ingóságok beszerzését is. | 1. a felújítást, beruházást végző, illetve a termékbeszerzéssel, szolgáltatásnyújtással érintett szerződéses partnerek 2. helyi önkormányzat 3. jogszabály által meghatározott partner 4. közigazgatási hatóság | – | – | 1. szerződés alapján teljesítés- arányosan 2. közigazgatási hatósági döntés alapján egy összegben 3. jogszabály alapján egy összegben | – | – | – | – | – |
 
-[^9]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított, a 7/2022. (II. 17.) AM rendelet 1. § b) pontja, a 2/2023. (I. 12.) AM rendelet 1. §-a és 2. § b) pontja, a 27/2023. (VI. 30.) AM rendelet 1. §-a, a 35/2024. (VI. 10.) AM rendelet 8. §-a, a 40/2025. (VIII. 18.) AM rendelet 2. §-a, 3. § b)–c) pontja és 4. § b) pontja pontja, az 59/2025. (XII. 22.) AM rendelet 2. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított, a 7/2022. (II. 17.) AM rendelet 1. § b) pontja, a 2/2023. (I. 12.) AM rendelet 1. §-a és 2. § b) pontja, a 27/2023. (VI. 30.) AM rendelet 1. §-a, a 35/2024. (VI. 10.) AM rendelet 8. §-a, a 40/2025. (VIII. 18.) AM rendelet 2. §-a, 3. § b)–c) pontja és 4. § b) pontja pontja, az 59/2025. (XII. 22.) AM rendelet 2. §-a, 3. § b) pontja szerint módosított szöveg.
