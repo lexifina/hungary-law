@@ -8,7 +8,7 @@ b) a játékkaszinó 1:200 léptékű építési és berendezési tervét, kamer
 
 c) az épület, illetve helyiség jogszerű birtoklását igazoló okmányt, három hónapnál nem régebbi tulajdoni lapot,
 
-d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
+d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az auditor által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló auditálási okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
 
 e) a bevezetni kívánt értékzsetonok és érmék valamennyi fajtájából egy-egy érvénytelenített példányt,
 

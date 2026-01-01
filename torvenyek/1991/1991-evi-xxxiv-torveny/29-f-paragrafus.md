@@ -2,7 +2,7 @@
 
 (1a) A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell
 
-a) az auditálásra jogosult szervezet által kiállított auditálási okiratot,
+a) az auditor által kiállított auditálási okiratot,
 
 b) távszerencsejáték szervezésen belül sporteseményre fogadás szervezésére irányuló kérelem esetén nyilatkozatot arról, hogy a (4) bekezdés szerinti felhasználási szerződés megkötésre került,
 

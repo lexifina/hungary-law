@@ -1,0 +1,1 @@
+35/B. § Az auditor szerencsejáték-szervező tevékenységet nem folytathat. Az auditor, az auditor vezető tisztségviselője, tagja, részvényese, tényleges tulajdonosa, az auditor nevében az auditálási okiratot aláíró személy, valamint az auditot végző foglalkoztatott nem lehet tagja, részvényese, vezető tisztségviselője vagy tényleges tulajdonosa szerencsejáték-szervezőnek.

@@ -68,7 +68,7 @@ b) biztonságos – virtuális vagy fizikális – módszerrel eltakartak, és a
 
 26. Nemzetközi együttműködés keretében szervezett szerencsejáték: különböző államokban székhellyel rendelkező szerencsejáték szervezők által közösen szervezett sorsolásos játék, illetve totalizatőri rendszerű fogadás, amely esetén a különböző államban székhellyel rendelkező szerencsejáték szervezők mindegyike rendelkezik a székhelye szerinti államban az adott szerencsejáték szervezésére vonatkozó engedéllyel és a szervezők az együttműködés keretében az általuk önállóan gyűjtött tétekből közös nyereményalapot képeznek.
 
-27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
+27. Szerencsejáték műszaki-informatikai rendszer: a szerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 
 28. Szerver: a szerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 

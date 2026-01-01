@@ -12,6 +12,6 @@ d) a fogadási formák szerinti egyes fogadószelvény-mintákat,
 
 e) az engedélyezési eljárásért fizetendő igazgatási-szolgáltatási díj, illetve a koncessziós szerződésben meghatározott koncessziós díj megfizetését igazoló okiratot,
 
-f) a hírközlő eszközök és rendszerek igénybevételével szervezett fogadások engedélyezése esetén a 2. § (6) bekezdésben foglalt követelmények teljesítését igazoló, az EGT területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okiratot.
+f) a hírközlő eszköz és rendszer által részvételi jogosultságot biztosító fogadások engedélyezése esetén a 2. § (6) bekezdésében foglalt követelmények teljesítését igazoló, auditor által kiadott auditálási okiratot.
 
 (3) A fogadásokról a szerencsejáték-felügyeleti hatóság által az engedélyben meghatározott időszakonként és meghatározott formában időszaki, a fogadás megszűnését követő százhúsz napon belül pedig végelszámolást kell készíteni. A szerencsejáték-felügyeleti hatóság dönt a végelszámolás jóváhagyásáról. A 24/A. § (2) bekezdését, valamint a Vhr. sorsolásos játékok nyertes és el nem adott sorsjegyei, a külön engedélyezett sorsolásos játékok bevételének és költségének elszámolására, végelszámolására vonatkozó rendelkezéseit alkalmazni kell.

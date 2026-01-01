@@ -80,11 +80,23 @@ a) elkülönítve a jelentős önkorlátozó nyilatkozatot adó személyek, vala
 
 b) az adatkezelés jellegét (önkéntes elhatározáson vagy bírósági határozaton alapuló korlátozás),
 
-c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan időtartamú jellegét).
+c) a nyilvántartásba vétel időpontját,
+
+d) a megszűnés időpontját vagy a korlátozás határozatlan időtartamú jellegét,
+
+e) a jelentős önkorlátozó nyilatkozatot adó személyek, valamint a (6) bekezdés szerinti személyek szerencsejáték-felügyeleti hatósági azonosítóját,
+
+f) a korlátozással érintett szerencsejáték-fajta megnevezését,
+
+g) a korlátozással érintett szerencsejáték-szervezők megnevezését, amennyiben a korlátozás kifejezetten szerencsejáték-szervezőre vonatkozik és
+
+h) a korlátozással érintett szerencsejáték-szervező szerencsejáték-felügyeleti hatósági azonosítóját, amennyiben a korlátozás kifejezetten szerencsejáték-szervezőre vonatkozik.
 
 (6e) A (6d) bekezdés szerinti adatokat és az azt alátámasztó okirati bizonyítékokat a szerencsejáték-felügyeleti hatóság a (6b) bekezdés szerinti célból a korlátozás megszűnését, megszüntetését követő 6 évig kezeli.
 
 (6f) A szerencsejáték-felügyeleti hatóság a (6) bekezdés szerinti személyek (6d) bekezdés a) pontja szerinti adatai ellenőrzése vagy a hiányzó adatok beszerzése, és a nyilvántartásból való, elhalálozás miatti kikerülés időpontja tekintetében jogosult a személyiadat- és lakcímnyilvántartásból közvetlen hozzáféréssel adatszolgáltatást igényelni.
+
+(6g) A (6d) bekezdés szerinti nyilvántartás a (6d) bekezdés c), d) és f)–h) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (7)
 
@@ -102,4 +114,6 @@ c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan id
 
 (11) A játékos részére a szervező által létrehozott közös, vagy több játékosi egyenleg esetében a (10) bekezdésben foglaltakat alkalmazni kell. Több egyenleg esetén a különbözet számításakor a különböző játékosi egyenlegek számadatait összesítetten kell figyelembe venni.
 
-(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell valamely, az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott, a rendszer auditálását igazoló okiratot.
+(11a) Szerencsejáték műszaki-informatikai rendszer auditálását a Magyarország kiberbiztonságáról szóló törvény szerinti, „jelentős” vagy „magas” biztonsági osztályra nyilvántartásba vett auditor végzi, amely rendelkezik a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv vagy az akkreditáló szerv által elismert külföldi akkreditáló szervezet által odaítélt akkreditált státusszal a szerencsejáték műszaki-informatikai rendszerek auditálására (a továbbiakban: auditor).
+
+(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell az auditor által kiadott, a rendszer auditálását igazoló okiratot.

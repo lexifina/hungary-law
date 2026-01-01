@@ -6,7 +6,27 @@
 
 (3) Az üzemeltető köteles – nyilvántartásba vétel céljából – a szerencsejáték-felügyeleti hatósághoz bejelenteni az általa működtetni kívánt játékautomatát. A szerencsejáték-felügyeleti hatóság a játékautomatát a kérelemben foglalt időtartamra, de legfeljebb hitelességének időtartamára veszi nyilvántartásba. A játékautomata a bejelentési kötelezettség megfelelő teljesítése nélkül nem üzemeltethető.
 
-(3a) A szerencsejáték-felügyeleti hatóság a (3) bekezdés alapján bejelentett játékautomatákról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+(3a) A szerencsejáték-felügyeleti hatóság a (3) bekezdés alapján bejelentett játékautomatákról hatósági nyilvántartást vezet, amely tartalmazza a játékautomata
+
+a) üzemeltetőjének elnevezését,
+
+b) üzemeltetőjének székhelyét,
+
+c) üzemeltetőjének adószámát,
+
+d) üzemeltetőjének szerencsejáték-felügyeleti hatósági azonosítóját,
+
+e) mérésügyi azonosító számát,
+
+f) regisztrációs kártya számát,
+
+g) nyilvántartásba vételi igazolás érvényességének időtartamát,
+
+h) nyilvántartásba vételéről kiállított igazolás számát és
+
+i) nyilvántartásból való törlésének időpontját.
+
+(3b) A (3a) bekezdés szerinti nyilvántartás a (3a) bekezdés f)–i) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (4) A szerencsejáték-felügyeleti hatóság csak azokat a játékautomatákat veszi nyilvántartásba, amelyek a jogszabályban a játékautomatákra előírt műszaki követelményeknek megfelelnek.
 
