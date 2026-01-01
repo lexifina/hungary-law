@@ -1,5 +1,7 @@
 3. § (1) A háztartási kutak kivételével a felszín alatti vízkivétel céljából tervezett vízilétesítmény esetén az engedélyes köteles monitoringrendszer kiépítésére és a megfigyelőkutakba távmérővel ellátott folyamatos vízszintregisztráló eszköz telepítésére.
 
+(1a)[^1] Az (1) bekezdésben foglaltakon túlmenően nem kötelező monitoring terv készítése, továbbá monitoring rendszer kiépítése és üzemeltetése, amennyiben a vízkivétel a 10 000 m3/év mennyiséget nem haladja meg.
+
 (2) A különleges vízkészlet-gazdálkodási körzetben – a háztartási kutakat kivéve – valamennyi felszín alatti vízkivétel céljából létesült vízilétesítmény a víz mennyiségének mérését biztosító folyamatosan mérő hitelesített vízmérővel vagy akkreditált kalibráló laboratórium által 5 évnél nem régebben kalibrált digitális kútvízmérő alkalmazásával üzemeltethető.
 
 (3) A monitoringrendszerre vonatkozó monitoringtervet a termelőkút létesítését megelőzően jóváhagyás céljából az illetékes vízügyi és vízvédelmi hatóságként eljáró vármegyei kormányhivatal részére kell benyújtani. A monitoringtervben a vízkivétel utánpótlódási területén belül legalább három, az igénybe vett vízadóra szűrőzött kút létesítésére kell javaslatot tenni. A vízkivétel utánpótlódási területén belül az igénybe vett vízadóra szűrőzött és érvényes üzemeltetésre jogosító vízjogi engedéllyel rendelkező monitoringkúttal az új kút létesítése kiváltható.
@@ -46,7 +48,7 @@ c) − ha a süllyedés mértéke túllépi a működési területével érintet
 
 d) műholdas, távérzékelési eszközöket is igénybe vehet a tényleges vízhasználatok nyomon követésére;
 
-e) a monitoringterv jóváhagyását megelőzően új termelőkút létesítéséhez vagyonkezelői nyilatkozatot nem ad ki.
+e)[^2]
 
 (12) A vízügyi és vízvédelmi hatóság a vízkészletek mennyiségi és minőségi védelme érdekében
 
@@ -59,3 +61,6 @@ c) a működési területével érintett vízügyi igazgatási szervvel együttm
 d) a vízügyi igazgatási szerv jelzése alapján hivatalból gondoskodik az üzemeltetésre jogosító vízjogi engedély felülvizsgálatáról, ennek keretén belül, indokolt esetben intézkedik az engedély módosításáról, visszavonásáról;
 
 e) a vízkivételek fenntarthatósága érdekében általános hatáscsökkentő és vízkészletnövelő területi intézkedések bevezetésére kötelezheti a vízhasználót.
+
+[^1]: A 3. § (1a) bekezdését a 489/2025. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^2]: A 3. § (11) bekezdés e) pontját a 489/2025. (XII. 31.) Korm. rendelet 4. §-a hatályon kívül helyezte.
