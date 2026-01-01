@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-54-20-7
 | 2025-01-04 | 2021-54-20-7Q.8 | 54/2024. (XII. 30.) ÉKM rendelet |
 | 2025-07-01 | 2021-54-20-7Q.9 | 54/2024. (XII. 30.) ÉKM rendelet |
 | 2025-10-03 | 2021-54-20-7Q.10 | 29/2025. (IX. 18.) ÉKM rendelet |
+| 2026-01-01 | 2021-54-20-7Q.11 | 29/2025. (IX. 18.) ÉKM rendelet |
