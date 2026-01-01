@@ -4,7 +4,7 @@ a) a helyi iparűzési adó és az innovációs járulék tényleges nyereségad
 
 b) a 22. § (1) bekezdése, a 22/C. § (2) bekezdése szerint az arra jogosult szervezet részére juttatott támogatás nyereségadó-ráfordításként elszámolt adóévi összege (ide nem értve a kiegészítő támogatás, kiegészítő sportfejlesztési támogatás összegét),
 
-c) a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének, a kutatás-fejlesztési tevékenység adókedvezményének és a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének az adózás előtti eredmény javára elszámolt adóévi összege,
+c) az adókedvezménynek az adózás előtti eredmény javára elszámolt adóévi összege,
 
 d)
 
@@ -26,7 +26,7 @@ i) a tőkeinstrumentumban fennálló befektetés kivezetésekor a befektetésen 
 
 (2) A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét növeli:
 
-a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményének, a kutatás-fejlesztési tevékenység adókedvezményének és a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének az adózás előtti eredmény terhére elszámolt adóévi összege,
+a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a társasági adónak a 18/D. § (7) és (8) bekezdésében foglaltak miatt, továbbá az adókedvezménynek az adózás előtti eredmény terhére elszámolt adóévi összege,
 
 b)
 

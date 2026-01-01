@@ -248,7 +248,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (115) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 25a. pontját, 22/B. § (1) bekezdés k) pontját és (20)–(35) bekezdését a támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően, és ezen bizottsági határozatban foglalt feltételeknek megfelelően kell alkalmazni, figyelemmel a (116) bekezdésben foglaltakra.
 
-(116) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 25a. pontját, 22/B. § (1) bekezdés k) pontját és (20)–(35) bekezdését az adózó választása szerint alkalmazhatja a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény vonatkozó rendelkezéseinek hatálybalépését megelőzően a 22/B. § (3) bekezdése alapján benyújtott bejelentésre, kérelemre, azzal a feltétellel, hogy a beruházás vonatkozásában a 22/B. § (21) bekezdése szerinti kérelmet az adópolitikáért felelős miniszterhez benyújtja és az igényelt átmeneti fejlesztési adókedvezmény összege nem haladja meg a 22/B. § (3) bekezdése alapján eredetileg igényelt fejlesztési adókedvezmény összegét.
+(116)
 
 (117) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 18/b. pontját a hatálybalépését követően értékesített, kivezetett részesedésre kell alkalmazni.
 
@@ -293,3 +293,9 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (136) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 16. § (2) bekezdés a) és d) pontját első alkalommal a módosítás hatálybalépését követő átalakulásra, egyesülésre, szétválásra kell alkalmazni.
 
 (137) Az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 24/A. § (25) bekezdését a 2025. július 23. napját követően kiállított igazolásokra kell alkalmazni.
+
+(138) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 4. § 33a. pontját, 22/B. § (1) bekezdés l) pontját és (36)–(50) bekezdését az adózó választása szerint alkalmazhatja a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvény vonatkozó rendelkezéseinek hatálybalépését megelőzően a 22/B. § (3) bekezdése vagy (20)–(35) bekezdése alapján benyújtott bejelentésre, azzal a feltétellel, hogy a beruházás vonatkozásában a 22/B. § (37) bekezdése szerinti bejelentést az adópolitikáért felelős miniszterhez benyújtja, az igényelt fejlesztési adókedvezmény összege nem haladja meg a 22/B. § (3) bekezdése vagy (20)–(35) bekezdése alapján eredetileg igényelt adókedvezmény összegét, továbbá a bejelentésben megjelölt beruházás megfelel a 4. § 33a. pontjában, a 22/B. § (1) bekezdés l) pontjában és (36)–(50) bekezdésében foglalt feltételeknek.
+
+(139) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 4. § 8.–8e. pontja és 22/I. §-a első alkalommal a 2026. adóévre és a 2026. január 1-jétől kezdődően megkezdett beruházásokra alkalmazható.
+
+(140) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 26. § (7) és (8) bekezdését első alkalommal a 2025. adóévi fizetendő adó alapján meghatározott adóelőlegre kell alkalmazni, feltéve, hogy annak bevallása 2025. december 31-ét követően esedékes.

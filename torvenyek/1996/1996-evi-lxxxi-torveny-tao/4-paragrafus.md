@@ -46,7 +46,17 @@ f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a k�
 
 7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
 
-8.
+8. biológiai sokféleség: a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló 2020. június 18-i 2020/852/EU parlamenti és tanácsi rendelet 2. cikk 15. pontjában meghatározott biológiai sokféleség;
+
+8a. helyreállítás: az állapotromlás forrásainak eltávolítására irányuló környezetgazdálkodási intézkedés;
+
+8b. ökoszisztéma: a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló 2020. június 18-i 2020/852/EU parlamenti és tanácsi rendelet 2. cikk 13. pontjában meghatározott ökoszisztéma;
+
+8c. rehabilitáció: olyan környezetgazdálkodási intézkedés, amelynek célja az ökoszisztéma működésének helyreállítása a leromlott területen, amely esetében a cél az ökoszisztéma-szolgáltatás megújítása és folyamatos biztosítása, nem pedig a kijelölt természetes vagy féltermészetes referencia-ökoszisztéma biológiai sokfélesége és integritása;
+
+8d. természetalapú megoldás: a természetes vagy módosított szárazföldi vagy édesvízi ökoszisztéma védelmére, megőrzésére, helyreállítására, fenntartható használatára és kezelésére irányuló olyan intézkedés, amely a társadalmi, gazdasági és környezetvédelmi kihívásokat orvosolja és egyidejűleg javítja az emberi jólétet és az ökoszisztéma-szolgáltatásokat;
+
+8e. visszaállítás: az ökoszisztéma helyreállítása elősegítésének folyamata, amelynek célja a biológiai sokféleség megőrzése és az ökoszisztéma ellenálló képességének – különösen az éghajlatváltozással szembeni ellenálló képességének – növelése, azzal, hogy az ökoszisztéma visszaállítása magában foglalja különösen az ökoszisztéma állapotának javítása érdekében hozott intézkedéseket és az olyan ökoszisztéma újjáteremtését vagy helyreállítását, amelyben ez az állapot megszűnt, valamint az ökoszisztéma éghajlatváltozásnak való ellenálló képességének és alkalmazkodásának javítását;
 
 9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési jogviszonyt vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszonyt szabályozó szerződés és egyoldalú jognyilatkozat;
 
@@ -236,13 +246,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely vármegyei, régiós vagy szakmai szövetségként működik;
 
-25a. nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű beruházás: olyan beruházás, amelynek célja
-
-a) akkumulátor, szolárpanel, szélturbina, hőszivattyú, elektrolizátor, szén-dioxid-leválasztást és -tárolást szolgáló berendezés gyártása,
-
-b) az a) pont szerinti berendezés gyártásához tervezett és közvetlenül használt kulcsfontosságú alkatrész gyártása,
-
-c) az a) pont szerinti berendezés és a b) pont szerinti alkatrész gyártásához szükséges nyersanyag előállítása vagy visszanyerése;
+25a.
 
 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 
@@ -332,7 +336,11 @@ i) a külföldi személynél munkavállalóként foglalkoztatott vagy ugyanezen 
 
 j) a külföldi személyt minden esetben telephellyel rendelkezőnek kell tekinteni, ha a tevékenysége megfelel az adóügyi illetősége szerinti állam és Magyarország által a jövedelem- és vagyonadók tárgyában kötött, nemzetközi szerződés telephely fogalmának;
 
-33a.
+33a. tiszta technológiák gyártási kapacitásának biztosítását szolgáló beruházás: olyan beruházás, amelynek célja gyártási kapacitás létrehozása
+
+a) az Európai Bizottságnak az „Állami támogatásokra vonatkozó keret a tisztaipar-megállapodás támogatása céljából” című, 2025. július 4-i, C/2025/3602 számú közleménye (a továbbiakban: CISAF Közlemény) II. mellékletében felsorolt végtermékek és főbb egyedi alkotóelemek előállításához, ideértve a másodlagos nyersanyag igénybevételével történő előállítást is,
+
+b) olyan új vagy hasznosított kritikus fontosságú nyersanyag előállításához, amely az a) alpontban említett végtermékek vagy főbb egyedi alkotóelemek előállításához szükséges;
 
 34. természeti erőforrás: a környezet védelmének általános szabályairól szóló törvényben meghatározott fogalom;
 

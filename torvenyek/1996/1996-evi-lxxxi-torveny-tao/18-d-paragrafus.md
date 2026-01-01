@@ -4,7 +4,7 @@
 
 (3) A 18/A. § (1) bekezdése szerinti adózó áttérés adóévéről szóló adóbevallásában bevallott társasági adóelőlegének összege, annak az adózás rendjéről szóló törvény szerinti, adóhatósági módosítása esetén sem csökkenhet az adóelőleg-minimum összege alá.
 
-(4) A 18/A. § (1) bekezdése szerinti adózó az áttérés adóévében és az áttérést követő adóévben negyedévente, a negyedévet követő hónap 20-ik napjáig teljesítendő adatszolgáltatásra köteles a várható éves adózás előtti eredményéről, adóalapjáról és fizetendő adójáról.
+(4)
 
 (5) A 18/A. § (1) bekezdése szerinti adózó az áttérést megelőző adóévről szóló társasági adóbevallásában, a bevallással egyidejűleg adatot szolgáltat az áttérést megelőző adóév IFRS-ek szerint meghatározott társasági adókötelezettségéről (adózás előtti eredményéről, korrigált adózás előtti eredményéről, adóalap-módosító tételeiről).
 

@@ -40,6 +40,6 @@ c) állományból történő kikerülésének időpontját, indokát.
 
 (14) Az adózó az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott adatokat a társasági adóbevallásában beruházásonként feltünteti.
 
-(15) Ugyanazon beruházás tekintetében az e § szerinti adókedvezmény együttesen nem alkalmazható a 22/B. § (1) bekezdése és a 22/E. § (1) bekezdése szerinti adókedvezménnyel, továbbá a Válságközlemény 2.5. szakasza alapján jóváhagyott SA.102428 számú bizottsági határozat szerinti támogatással.
+(15) Ugyanazon beruházás tekintetében az e § szerinti adókedvezmény együttesen nem alkalmazható a 22/B. § (1) bekezdése és a 22/E. § (1) bekezdése szerinti adókedvezménnyel, továbbá a CISAF közlemény 6. fejezete szerinti támogatással.
 
 (16) Az adókedvezmény feltételeinek teljesítését az állami adó- és vámhatóság az adókedvezmény első igénybevételét követő harmadik adóév végéig legalább egyszer ellenőrzi.

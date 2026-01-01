@@ -20,15 +20,15 @@ b) az adóévet megelőző adóév fizetendő adójának a működés naptári n
 
 (7) Az adóelőleg a (8)–(9) bekezdésben foglalt eltéréssel
 
-a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó meghaladja az 5 millió forintot;
+a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó meghaladja az 20 millió forintot;
 
-b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint.
+b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 20 millió forint.
 
 (8) A mezőgazdasági és erdőgazdálkodási ágazatba, a halászati ágba sorolt adózónál
 
-a) az adóév első negyedévében az éves adóelőleg 10 százaléka, második negyedévében 20 százaléka, harmadik negyedévében 30 százaléka, negyedik negyedévében 40 százaléka esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint,
+a) az adóév első negyedévében az éves adóelőleg 10 százaléka, második negyedévében 20 százaléka, harmadik negyedévében 30 százaléka, negyedik negyedévében 40 százaléka esedékes, ha az előző adóévi fizetendő adó legfeljebb 20 millió forint,
 
-b) az adóév első negyedévében az éves adóelőleg 3,3 százaléka, második negyedévében 6,6 százaléka, harmadik negyedévében 10 százaléka, negyedik negyedévében 13,4 százaléka esedékes havonta, ha az előző adóévi fizetendő adó meghaladja az 5 millió forintot.
+b) az adóév első negyedévében az éves adóelőleg 3,3 százaléka, második negyedévében 6,6 százaléka, harmadik negyedévében 10 százaléka, negyedik negyedévében 13,4 százaléka esedékes havonta, ha az előző adóévi fizetendő adó meghaladja az 20 millió forintot.
 
 (9) Ha a naptári évtől eltérő üzleti évet választó adózónak az adóelőleg-kötelezettséget havonként, negyedévenként kell teljesítenie, akkor az első hónap kezdő napjaként a választott üzleti év kezdő napját kell számításba venni. Az első adóévi hónap kezdő napjának naptári hónapon belüli sorszáma határozza meg valamennyi további adóévi hónap kezdő napjának naptári hónapon belüli sorszámát. Amennyiben valamely adóévi hónap kezdő napjának naptári hónapon belüli sorszáma magasabb, mint a követő naptári hónap napjainak száma, a követő adóévi hónap kezdő napjaként a követő naptári hónap utolsó napját kell tekinteni. Adóévi negyedévként három adóévi hónapot kell figyelembe venni.
 
