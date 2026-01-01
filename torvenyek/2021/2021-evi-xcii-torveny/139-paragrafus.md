@@ -1,0 +1,5 @@
+### 139. § [Hivatalos elérhetőségre vonatkozó rendelkezések]
+
+(1) Ha a jogi személy törvény alapján köteles hivatalos elérhetőséggel rendelkezni, és bejegyzéséig a hivatalos elérhetősége a nyilvántartási jegyzékben nem kerül feltüntetésre, és arra a jogi személy nyilvántartásba vételét követő harminc napon belül a rendelkezési nyilvántartást vezető szerv elektronikus adattovábbítása alapján sem kerül sor, a bíróság a szervezettel szemben hivatalból törvényességi felügyeleti eljárást indít, egyéb jogi személy esetén értesíti a nyilvántartó szervet.
+
+(2) Ha a jogi személy törvény alapján köteles hivatalos elérhetőséggel rendelkezni, és a jogi személy nyilvántartási jegyzékbe bejegyzett hivatalos elérhetőségének törlését követő harminc napon belül az új hivatalos elérhetőség a rendelkezési nyilvántartást vezető szerv elektronikus adattovábbítása alapján nem kerül a jogi személy nyilvántartási jegyzékében feltüntetésre, a bíróság a szervezettel szemben hivatalból törvényességi felügyeleti eljárást indít, egyéb jogi személy esetén értesíti a nyilvántartó szervet.

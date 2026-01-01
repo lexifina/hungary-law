@@ -1,0 +1,3 @@
+### 9. § [A nyilvántartási eljárás működtetési költségeinek biztosítása]
+
+A nyilvántartási eljárásban fizetendő közzétételi költségtérítés és az információért fizetendő költségtérítés a központi költségvetés bevételét képezi. A nyilvántartási eljárás, az e törvény szerinti szolgáltatások során az elektronikus eljárást és ügyintézést támogató rendszer, a jogi személyek nyilvántartási portálja üzemeltetésével, fejlesztésével, az adatok feldolgozásával, valamint a Cégközlöny működtetésével összefüggésben felmerült személyes és igazolt költségeket a központi költségvetés utólagos elszámolási kötelezettség mellett legkésőbb a tárgyév február 15. napjáig biztosítja.

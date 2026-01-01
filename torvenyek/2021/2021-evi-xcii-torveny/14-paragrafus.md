@@ -1,0 +1,9 @@
+### 14. § [A nyilvántartási jegyzékbe történő bejegyzés közzététele, a Cégközlöny]
+
+(1) A Cégközlöny az igazságügyért felelős miniszter által vezetett minisztérium hivatalos lapja, amely a nyilvántartási portálnak a közlemények megismerését szolgáló része. A Cégközlöny egyes közleményei a nyilvántartási portálról nem távolíthatók el.
+
+(2) A jogi személy adatainak, azok változásának, valamint a jogi személy létesítő okiratának, módosításának közzététele – ideértve a jogi személy bejegyzésének és törlésének közzétételét is – a nyilvántartási jegyzékbe történő bejegyzéssel valósul meg. A bíróság a bejegyző végzését – a nyilvántartási jegyzék nem nyilvános adatára vonatkozó tartalom nélkül, a gazdasági forgalom biztonsága és a hitelezők védelme érdekében – a Cégközlönyben is megjelenteti, azonban a joghatás a bejegyzéshez fűződik. A Cégközlönyben kerül közzétételre e törvényben meghatározott esetben a bíróság jogi személyre vonatkozó egyéb végzésének rendelkező része.
+
+(3) A Cégközlönyben jogszabályi rendelkezés alapján kerül közzétételre más bíróság határozatának rendelkező része is. Közzétételre kerülnek azok a közlemények is, amelyeknek a Cégközlönyben való közzétételére törvény közvetlenül a jogi személyt kötelezi.
+
+(4) Az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, valamint a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzésére, valamint törlésére vonatkozó adatoknak a nyilvántartási jegyzékbe történő bejegyzését követő harminc napon belül a bíróság intézkedik az adatoknak az Európai Unió Hivatalos Lapjában történő nyilvánosságra hozataláról az Európai Unió hivatalos közlemények közzétételéért felelős hivatalának való megküldés útján. Ennek során a bíróság feltünteti a bejegyzésre vonatkozó végzésének számát, a végzés keltét, azt a tényt, hogy a közzétételre Magyarországon a Cégközlönyben is sor került, valamint a Cégközlönyben történt közzététel napját is.

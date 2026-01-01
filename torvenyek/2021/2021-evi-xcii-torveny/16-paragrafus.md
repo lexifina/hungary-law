@@ -1,0 +1,5 @@
+### 16. § [Ingyenes nyilvántartási információ]
+
+(1) A Kormány rendeletében kijelölt szerv a nyilvántartási jegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A Kormány rendeletében kijelölt szerv az erre szolgáló honlapon – a hitelezők védelme érdekében – biztosítja egyes nyilvántartási jegyzéki adatok ingyenesen történő megismerését. E bekezdés szerinti ingyenes nyilvántartási információ tájékoztató jellegű, az adat közhiteles igazolására nem alkalmas.
+
+(2) Ha a jogi személy hivatalos elérhetőséggel rendelkezik, a Kormány rendeletében kijelölt szerv a jogi személyt a jogi személy adatában bekövetkezett változásról a jogi személynek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-a szerinti hivatalos elérhetőségére (a továbbiakban: hivatalos elérhetőség) megküldött, közokirati formában kiállított elektronikus bizonyítvánnyal értesíti.

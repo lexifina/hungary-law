@@ -1,0 +1,5 @@
+### 88. § [A közhasznú szervezet beszámolójának automatikus vizsgálata]
+
+(1) A bíróság a közhasznú szervezet letétbe helyezett beszámolóját a letétbe helyezést követő hatvan napon belül – az informatikai rendszer alkalmazásával, automatizált módon – megvizsgálja. Ha a beszámoló alapján azt állapítja meg, hogy a szervezet a közhasznúvá minősítés feltételeinek nem felel meg, a szervezet közhasznú jogállásának megszüntetéséről és az erre vonatkozó adat nyilvántartási jegyzékből való törléséről határoz. Ha a bíróság a beszámoló olyan hiányát vagy tartalmi ellentmondását észleli, amely alapján a minősítési feltételek fennállta egyértelműen nem dönthető el, úgy az e bekezdésben megállapított határidőn belül kezdeményezi az ügyésznél a közhasznú minősítés feltételei fennálltának vizsgálatát.
+
+(2) Ha a közhasznú szervezet arra hivatkozással kéri közhasznú jogállásának törlését, hogy a közhasznú jogállás feltételeinek nem felel meg, a bíróság a szervezet közhasznú jogállását automatikus eljárásban törli. A végzés ellen fellebbezésnek nincs helye.
