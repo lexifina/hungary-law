@@ -4,7 +4,7 @@
 
 37/A. § E törvény alkalmazásában
 
-a) játékosügynöki tevékenység: a hivatásos sportoló vagy a sportszervezet megbízása alapján és képviseletében végzett közreműködői tevékenység a hivatásos sportoló játékjoga használatának sportszervezet általi megszerzése, illetve a hivatásos sportoló és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében,
+a) játékosügynöki tevékenység: a hivatásos sportoló vagy a sportszervezet megbízása alapján és képviseletében végzett közreműködői tevékenység a hivatásos sportoló játékjoga használatának sportszervezet általi megszerzése, illetve a hivatásos sportoló és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében, vagy – a b) pont szerinti sportszakember kivételével – a sportszakember megbízása alapján és képviseletében végzett közreműködői tevékenység a sportszakember és a sportszervezet közötti, sporttevékenység végzésére irányuló szerződés megkötése érdekében,
 
 b) játékosügynök: olyan sportszakember, aki játékosügynöki tevékenységet folytat, és a játékosügynökséggel munkaviszonyban, tagsági vagy egyéb jogviszonyban áll,
 

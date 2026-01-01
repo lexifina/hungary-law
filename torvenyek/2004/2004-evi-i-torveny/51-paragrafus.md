@@ -78,6 +78,8 @@ o) javaslatot tesz a Kormány részére a sportakadémiai minősítés megszerz�
 
 p) az államháztartásért felelős miniszter véleményének kikérésével javaslatot tesz a Kormány részére a látvány-csapatsportok támogatására nyújtható támogatási keretösszegnek a látvány-csapatsportágak közötti felosztása arányának megállapítására.
 
+q) kialakítja a sporthoz kapcsolódó egyes kedvezmények rendszerét és meghatározza igénybevételük feltételeit.
+
 (2a) A sportversenyek tiltott befolyásolása elleni nemzeti platform összetételét és működésének rendjét a Kormány állapítja meg.
 
 (2b) A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter ellátja a kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről.
@@ -113,3 +115,7 @@ p) az államháztartásért felelős miniszter véleményének kikérésével ja
 10. a támogatás szabályszerű felhasználásának alátámasztása érdekében szükséges egyéb adatok.
 
 (8) A sportpolitikáért felelős miniszter a (7) bekezdés szerinti adatokat a Tao. szerinti igazolás vagy támogatási igazolás kiállításától számított 10 évig kezeli.
+
+(9) A sporthoz kapcsolódó kedvezményrendszerbe regisztrált személy regisztrációjának megszüntetését követően a Nemzeti Sportfejlesztési és Módszertani Intézet az érintett személy születési évére és lakóhelye szerinti településre vonatkozó adatát – egyedi azonosításra nem alkalmas módon – statisztikai célból kezeli és az adatkezelés szükségességét négyévente felülvizsgálja.
+
+(10) A sportpolitikáért felelős miniszter által adományozható kitüntetésekre jelölt személy természetes személyazonosító adatait és lakcímadatát, az adományozásra vonatkozó döntés megalapozásához szükséges, az indítványban szereplő adatait – különösen titulusát (végzettségét, munkahelyét és beosztását), állampolgárságát és elérhetőségeit, korábbi állami és egyéb kitüntetéseit, valamint az életútjára és a kitüntetésre alapot adó érdemeire közvetlenül vonatkozó, az adományozáshoz figyelembe vett adatokat – a sportpolitikáért felelős miniszter a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezeli. Az adatkezelés szükségességét a sportpolitikáért felelős miniszter négyévente felülvizsgálja.

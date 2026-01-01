@@ -1,6 +1,6 @@
 61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter az általa vezetett nyilvántartás alapján, közigazgatási hatósági eljárás keretében hivatalból állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás hatósági nyilvántartás, amely az 59. § (1), (3) és (4) bekezdésében meghatározott személy 57/B. § (1) bekezdése szerinti adatait, továbbá az 59. § (1) bekezdésében meghatározott sporteredményeket tartalmazza.
+(1a) Az (1) bekezdés szerinti nyilvántartás az 59. § (1), (3), (4) és (6e) bekezdésében meghatározott személy 57/B. § (1) bekezdése szerinti adatait, továbbá az 59. § (1) bekezdésében meghatározott sporteredményeket tartalmazza. A nyilvántartás az 57/B. § (1) bekezdés g) pontja szerinti adat és az 59. § (1) bekezdésében meghatározott sporteredmény tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (1b) A sportpolitikáért felelős miniszter a jogosult írásbeli kérelmére – a megérkezéstől számított 15 napon belül – hatósági bizonyítványnak minősülő igazolást állít ki a járadékra jogosultság tényéről és a járadék kérelmezés időpontjában folyósított összegéről.
 

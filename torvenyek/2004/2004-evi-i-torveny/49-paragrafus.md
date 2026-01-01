@@ -36,7 +36,7 @@ n) támogatja a sportszakember-képzést és a sporttal kapcsolatos tudományos 
 
 o) fenntartja a sportegészségügy állami intézményeit és országos hálózatát, támogatja a sportorvosi tevékenységet,
 
-p) biztosítja a nemzeti sportinformációs rendszer működésének feltételeit,
+p) biztosítja a nemzeti sportinformációs rendszer, valamint az 57/D. § szerinti elektronikus támogatáskezelő rendszer működésének feltételeit,
 
 q) támogatja a testkultúra fejlesztését szolgáló és sporttudományi képzést,
 

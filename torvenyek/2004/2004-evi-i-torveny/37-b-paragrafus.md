@@ -8,6 +8,8 @@ c) megfelel az e törvényben meghatározott feltételeknek.
 
 (2) A játékosügynöki tevékenység folytatása tekintetében a Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóság az adott sportágban működő országos sportági szakszövetség. Ha a játékosügynöki tevékenységet a játékosügynök, illetve a játékosügynökség több, (1) bekezdés szerinti sportágban kívánja folytatni, a játékosügynöki tevékenységet minden érintett országos sportági szakszövetség részére be kell jelenteni.
 
+(2a) Az országos sportági szakszövetség által a Szolgtv. által vezetett nyilvántartás a Szolgtv. 27. § (3) bekezdésében meghatározott adatok, valamint a játékosügynöki tevékenység folytatására való jogosultság kezdő időpontja tekintetében közhiteles nyilvántartás.
+
 (3) Játékosügynöki tevékenységet játékosügynökként az folytathat, aki
 
 a) büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt, és

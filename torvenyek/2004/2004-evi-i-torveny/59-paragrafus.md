@@ -36,7 +36,15 @@ e) az érmes által, a járadékra jogosító eredmény elérését megalapozó,
 
 (6d) Az (5) bekezdés e) pontja szerinti javaslat hiányában a sportpolitikáért felelős miniszter az edzői járadékot annak a személynek a javára állapítja meg – amennyiben megfelel az (5) bekezdés a)–c) pontja szerinti feltételeknek –, aki az érmest a járadékra jogosultságot megalapozó versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette.
 
-(7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
+(6e) Élete végéig járadékra jogosult az edző halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az edzővel annak házastársaként
+
+a) az edző halála időpontjában és legalább az azt megelőző tizenöt évben, vagy
+
+b) az edző járadékát megalapozó érmesi helyezés megszerzését megelőző legalább 5 évben és azt követően az edző halálának időpontjáig
+
+megszakítás nélkül közös háztartásban élt.
+
+(7) Megszűnik az érmes, az edző és az özvegy járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
 
 (8) Érdemtelen és nem részesül járadékban az a jogosult, aki
 

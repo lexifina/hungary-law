@@ -92,11 +92,7 @@ Ferencvárosi Torna Club
 
 |
 
-Budapest belterület 38442/15
-
 |
-
-Ferencvárosi Torna Club
 
 |
 
@@ -118,13 +114,7 @@ Magyar Lovassport Szövetség
 
 |
 
-Budapest, belterület 11637
-
 |
-
-Pénzügyőr Sportegyesület
-
-(székhely: 1026 Budapest, Pasaréti út 124–126., a továbbiakban: Pénzügyőr Sportegyesület)
 
 |
 
@@ -132,11 +122,7 @@ Pénzügyőr Sportegyesület
 
 |
 
-Budapest, belterület 38303/69
-
 |
-
-Pénzügyőr Sportegyesület
 
 |
 
@@ -163,3 +149,53 @@ Veszprém, külterület 0213/85/A
 |
 
 Veszprémi Építők Sportegyesület
+
+|
+
+13.
+
+|
+
+Szeged, belterület 25853/1/D
+
+|
+
+Szegedi Vasutas Sportegyesület
+
+(székhely: 6724 Szeged, Kossuth Lajos sugárút 74. C., a továbbiakban: SZVSE)
+
+|
+
+14.
+
+|
+
+Szeged, belterület 25853/1/F
+
+|
+
+SZVSE
+
+|
+
+15.
+
+|
+
+Szeged, belterület 25853/1/G
+
+|
+
+SZVSE
+
+|
+
+16.
+
+|
+
+Szeged, belterület 25853/1/K
+
+|
+
+SZVSE

@@ -2,7 +2,11 @@
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
 
-a)
+a) rendeletben jelölje ki
+
+aa) az elektronikus támogatáskezelő rendszer működtetéséért felelős szervet,
+
+ab) a működtetésért felelős szervet,
 
 b) rendeletben állapítsa meg
 
@@ -30,7 +34,7 @@ bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkoz�
 
 bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
 
-bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat,
+bm)
 
 bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
 
@@ -50,7 +54,7 @@ bu) a játékosügynöki tevékenység megkezdésére és folytatására, a ját
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
-a)
+a) az egyes sportcélú kedvezményekre és igénybevételük feltételeire vonatkozó részletes szabályokat,
 
 b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 
