@@ -1,4 +1,4 @@
-14. § (1) Az Elnök közhiteles hatósági nyilvántartást vezet a Rendelet 22. cikke szerinti megbízható bejelentőkről.
+14. § (1) Az Elnök nyilvántartást vezet a Rendelet 22. cikke szerinti megbízható bejelentőkről.
 
 (2) A Rendeletben és az Elnök rendeletében foglalt feltételeknek megfelelő, Magyarországon letelepedett szervezet kérelme alapján az Elnök határozatával a kérelmet benyújtó szervezetet megbízható bejelentőnek minősíti és nyilvántartásba veszi. Az Elnök hatósági határozatban dönt a megbízható bejelentői minősítés hatályának felfüggesztéséről vagy visszavonásáról, valamint visszavonás esetén a nyilvántartásból való törlésről.
 
@@ -10,7 +10,7 @@ b) a megbízható bejelentő – Elnök határozatával kijelölt – szakterül
 
 c) a megbízható bejelentői minőség felfüggesztése esetében a felfüggesztésre vonatkozó adatokat.
 
-(4) Az (1) bekezdés szerinti nyilvántartás adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
+(4) Az (1) bekezdés szerinti nyilvántartás adatai a megbízható bejelentő neve, valamint a (3) bekezdés b) és c) pontja tekintetében közhitelesek, nyilvánosak és a Hatóság internetes honlapjáról elérhetők.
 
 (5) A megbízható bejelentőnek tizenöt napon belül be kell jelentenie az Elnöknek, ha a nyilvántartásban szereplő adataiban vagy a megbízható bejelentői minősítéshez szükséges feltételeiben változás következett be.
 

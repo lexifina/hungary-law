@@ -14,6 +14,6 @@ d) a kutatás célját.
 
 (4) Az ellenőrzött kutatónak tizenöt napon belül be kell jelentenie az Elnöknek, ha a nyilvántartásban szereplő adataiban vagy az ellenőrzött kutatói minősítéshez szükséges feltételeiben változás következett be.
 
-(5) Az (1) bekezdés szerinti nyilvántartás – a kutató (3) bekezdés b) pontja szerinti személyes adatai kivételével – a Hatóság internetes honlapjáról nyilvánosan elérhető, és a nyilvántartás e körben közhiteles hatósági nyilvántartásnak minősül.
+(5) Az (1) bekezdés szerinti nyilvántartás – a kutató személye, kutatóhelye, valamint kutatási célja tekintetében közhiteles nyilvántartás – a Hatóság internetes honlapjáról nyilvánosan elérhető.
 
 (6) Az Elnök a természetes személy kutató (3) bekezdés a) és b) pontjában meghatározott személyes adatait a hatósági feladatainak ellátása, valamint a Rendelet 40. cikk (8) bekezdés szerinti adatszolgáltatás nyújtása érdekében a nyilvántartásból való törlésig kezeli.
