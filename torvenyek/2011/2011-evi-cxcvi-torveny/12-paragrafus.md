@@ -106,6 +106,8 @@ közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szerveze
 
 (11b) Az (1) bekezdés n) pontjában meghatározott kizárólagos gazdasági tevékenység vagy egyes résztevékenységei gyakorlásának joga ágazati törvényben szabályozott módon másnak átengedhető.
 
+(11c) Az (1) bekezdés a) pontjában meghatározott kizárólagos gazdasági tevékenységi kör mint gyűjtőfogalom keretein belül a szénhidrogén-szállítóvezetékek létesítésének és üzemben tartásának joga koncessziós pályázat kiírása vagy koncessziós szerződés nélkül ágazati törvényben meghatározott módon másnak átengedhető.
+
 (12) A (4)–(6) bekezdésben foglalt korlátozások figyelembevételével, valamint a (7)–(11) bekezdésben meghatározottakon kívül az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége gyakorlásának időleges joga koncessziós szerződés megkötése nélkül kizárólag
 
 a) az állam,
