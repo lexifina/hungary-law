@@ -1,3 +1,3 @@
-4. melléklet a 26/2025. (II. 27.) Korm. rendelethez[^31]
+4. melléklet a 26/2025. (II. 27.) Korm. rendelethez[^28]
 
-[^31]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,9 @@
-17. § (1)[^26]
+17. § (1)[^24]
 
-(2)[^27]
+(2) Hatályát veszti a METÁR rendelet
 
-[^26]: A 17. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 17. § (2) bekezdése a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+a) 3. § (4) bekezdése,
+
+b) 3. § (6) bekezdésében az „és (4)” szövegrész.
+
+[^24]: A 17. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

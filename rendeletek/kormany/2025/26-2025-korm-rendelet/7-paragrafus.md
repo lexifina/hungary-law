@@ -8,15 +8,15 @@ c)[^9]
 
 d)[^10]
 
-e)[^11]
+e) 4. § (13) bekezdésében a „(12)–(12a) bekezdés” szövegrész helyébe a „(12) bekezdés” szöveg,
 
-f)[^12]
+f)[^11]
 
-g)[^13]
+g)[^12]
 
-h)[^14]
+h)[^13]
 
-i)[^15]
+i)[^14]
 
 lép.
 
@@ -24,8 +24,7 @@ lép.
 [^8]: A 7. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^10]: A 7. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 7. § e) pontja a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^12]: A 7. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 7. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 7. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 7. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 7. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 7. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
