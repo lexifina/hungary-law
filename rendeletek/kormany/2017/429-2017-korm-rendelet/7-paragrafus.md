@@ -1,3 +1,3 @@
-7. §[^9]
+7. §[^11]
 
-[^9]: A 7. §-t a 315/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdése hatályon kívül helyezte.
+[^11]: A 7. §-t a 315/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdése hatályon kívül helyezte.

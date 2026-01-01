@@ -1,3 +1,3 @@
-20. §[^33]
+20. §[^35]
 
-[^33]: A 20. §-t a 304/2023. (VII. 11.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^35]: A 20. §-t a 304/2023. (VII. 11.) Korm. rendelet 18. §-a hatályon kívül helyezte.

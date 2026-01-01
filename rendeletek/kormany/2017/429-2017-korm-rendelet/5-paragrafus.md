@@ -8,6 +8,6 @@
 
 (5) A (3) és (4) bekezdésben meghatározott esetben a helységnév anyakönyvezésekor – ha az iratokból megállapítható – az adott kanton, tartomány vagy szövetségi tagállam nevét, illetve a helység kerületének megjelölését is fel kell tüntetni az adott országban alkalmazott hivatalos elnevezéssel. Az ország nevét minden esetben hivatalos magyar elnevezésével kell bejegyezni.
 
-(6)[^8] Az (1)–(5) bekezdés rendelkezéseit a származási hely bejegyzésére is megfelelően alkalmazni kell.
+(6)[^10] Az (1)–(5) bekezdés rendelkezéseit a származási hely bejegyzésére is megfelelően alkalmazni kell.
 
-[^8]: Az 5. § (6) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^10]: Az 5. § (6) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
