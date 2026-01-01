@@ -1,4 +1,4 @@
-4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^100]
+4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^103]
 
 Vendéglátóhely üzlettípusok és azok jellemzői
 
@@ -14,7 +14,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket helyben készítik, főzőkonyhával rendelkezik. |
 
-2. Büfé
+2. Büfé[^104]
 
 | Fő terméktípusa: | Melegétel/hidegétel |
 
@@ -22,7 +22,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Üzemeltetés típusa | Egész éven át nyitva tartó / időszakos |
 
-| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
+| Kiszolgálás jellege, felhasznált eszközök, fogyasztás helye: | A kiszolgálás lehet hagyományos vagy önkiszolgáló, egyszer vagy többször használatos edényekben (étkészlet, poharak stb.). Helyszíni fogyasztás lehetőségét nem kötelező biztosítania. |
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
@@ -50,9 +50,9 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-5. Alkoholos italokra specializálódott vendéglátóhely (bár, kocsma, borozó)
+5.[^105] Alkoholos italokra specializálódott vendéglátóhely (bár, kocsma, borozó)
 
-| Fő terméktípusa: | Szeszes ital |
+| Fő terméktípusa: | Szeszes és alkoholmentes ital |
 
 | Tevékenység TEÁOR’25 kódja | 56.30 Italszolgáltatás |
 
@@ -62,9 +62,9 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-6. Zenés-táncos vendéglátóhely
+6.[^106] Zenés-táncos vendéglátóhely
 
-| Fő terméktípusa: | Szeszes ital |
+| Fő terméktípusa: | Szeszes és alkoholmentes ital |
 
 | Tevékenység TEÁOR’25 kódja | 56.30 Italszolgáltatás |
 
@@ -134,4 +134,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-[^100]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^103]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^104]: A 4. melléklet 2. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^105]: A 4. melléklet 5. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^106]: A 4. melléklet 6. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

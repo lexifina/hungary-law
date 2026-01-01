@@ -1,4 +1,4 @@
-27/A. §[^71] (1) Ha a jegyző az ellenőrzése során megállapítja, hogy a kereskedő a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációs kötelezettségének nem tesz eleget, azonnali hatállyal megtiltja a vendéglátó üzlet üzemeltetését, és a Kertv. 9. § (4) bekezdés a) pont ac) alpontja alapján pénzbírságot szab ki.
+27/A. §[^73] (1) Ha a jegyző az ellenőrzése során megállapítja, hogy a kereskedő a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációs kötelezettségének nem tesz eleget, azonnali hatállyal megtiltja a vendéglátó üzlet üzemeltetését, és a Kertv. 9. § (4) bekezdés a) pont ac) alpontja alapján pénzbírságot szab ki.
 
 (2) Az (1) bekezdés szerinti pénzbírság összege 200 000 forint. A pénzbírság összege a központi költségvetést illeti meg.
 
@@ -14,4 +14,4 @@ d) ha az ideiglenes bezárást követően a kereskedő a megjelölt határidőn 
 
 (4) A pénzbírság összege a (3) bekezdés esetében a vendéglátó üzletnek az előző lezárt üzleti évben a mindenkor hatályos TEÁOR nómenklatúra szerinti vendéglátás tevékenységből származó nettó árbevétel 3%-áig, de legfeljebb ötmillió forintig terjedhet. A pénzbírság összege a központi költségvetést illeti meg.
 
-[^71]: A 27/A. §-t a 484/2024. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
+[^73]: A 27/A. §-t a 484/2024. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
