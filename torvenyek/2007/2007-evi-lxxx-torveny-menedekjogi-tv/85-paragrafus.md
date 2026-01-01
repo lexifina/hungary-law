@@ -8,7 +8,7 @@ c) a folyósított támogatás összegéről; valamint
 
 d) a folyósítás időpontjáról, visszatérítendő támogatás esetén a törlesztési határidőről.
 
-(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) és d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)
 
 (3) A támogatást folyósító szervek kezelhetik a járási hivatal és a települési önkormányzat hatáskörébe tartozó támogatásra jogosult személlyel közös háztartásban élő családtagok kereseti és vagyoni viszonyaira vonatkozó adatokat, amennyiben a támogatás feltételeinek fennállása ezek alapján állapítható meg.
 
