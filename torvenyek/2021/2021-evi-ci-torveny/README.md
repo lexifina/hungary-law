@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2025-06-20 | 2025. évi LI. törvény | 2021-101-00-00.44 |
 | 2025-08-01 | 2025. évi LI. törvény | 2021-101-00-00.45 |
 | 2025-12-23 | 2025. évi CXXXIII. törvény | 2021-101-00-00.46 |
+| 2026-01-01 | 2025. évi CXXXVI. törvény | 2021-101-00-00.47 |

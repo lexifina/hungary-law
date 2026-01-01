@@ -90,12 +90,28 @@ Budapest, belterület 74332
 
 |
 
-7
+7.
 
 |
 
-Budapest, belterület 26085/1123 (91788/125049 tulajdoni hányad)
+Budapest, belterület 26085/1123
+
+(43630/125049 tulajdoni hányad)
 
 |
 
-VASAS Futball Club Korlátolt Felelősségű Társaság
+VASAS Futball Club Korlátolt Felelősségű Társaság (székhely: 1139 Budapest, Fáy u. 58., cégjegyzékszám: 01-09-717962)
+
+|
+
+8.
+
+|
+
+Budapest, belterület 26085/1123
+
+(48158/125049 tulajdoni hányad)
+
+|
+
+Vasas Akadémia Korlátolt Felelősségű Társaság (székhely: 1139 Budapest, Fáy utca 58., cégjegyzékszám: 01-09-940733)
