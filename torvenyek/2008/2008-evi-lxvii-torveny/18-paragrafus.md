@@ -37,3 +37,5 @@
 (19)
 
 (20) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 6. § (11a) és (11b) bekezdését az adóalany első alkalommal a 2023. adóévi adókötelezettségére alkalmazza.
+
+(21) A vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 7/A. § szerinti adókedvezmény első alkalommal a 2026. adóévre és a 2025. december 31-ét követően megkezdett beruházásokra alkalmazható.
