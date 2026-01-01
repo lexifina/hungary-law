@@ -2,6 +2,6 @@
 
 ## [2] E célok végrehajtására a polgári perrendtartásról szóló 2016. évi CXXX. törvény 628. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A polgári perben és a közigazgatási bírósági eljárásban alkalmazható nyomtatványokról szóló 17/2020. (XII. 23.) IM rendelet 6. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) Ha a természetes személy fél a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, az egyedi döntéssel szemben a 22. mellékletben meghatározott nyomtatványon is előterjesztheti a keresetlevelet.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

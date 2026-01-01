@@ -1,5 +1,3 @@
-1. melléklet a 13/2025. (X. 31.) IM rendelethez
+1. melléklet a 13/2025. (X. 31.) IM rendelethez[^4]
 
-„22. melléklet a 17/2020. (XII. 23.) IM rendelethez
-
-5X08335.pdf”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

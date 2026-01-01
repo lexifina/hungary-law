@@ -1,1 +1,3 @@
-2. § A polgári perben és a közigazgatási bírósági eljárásban alkalmazható nyomtatványokról szóló 17/2020. (XII. 23.) IM rendelet az 1. melléklet szerinti 22. melléklettel egészül ki.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
