@@ -1,6 +1,6 @@
 ## A maradékhő-értékesítő 1.1–1.3. pont alapján megállapított értékesítői hődíja legfeljebb a távhőszolgáltató saját hőtermelésének fajlagos költsége, saját hőtermelés hiányában a távhőszolgáltató által vásárolt hő 1. mellékletben meghatározott legalacsonyabb értékesítői hődíja lehet.
 
-4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^36]
+4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^42]
 
 A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
@@ -80,7 +80,7 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 37 | Inota | Várpalotai Közszolgáltató Nonprofit Kft. | 8719 |
 
-| 38 | Kaposvár | Kaposvári Vagyonkezelő Zrt. | 4965 |
+| 38 | Kaposvár | Kaposvári Vagyonkezelő Zrt. | 5048[^43] |
 
 | 39 | Kapuvár | Kapuvári Hőszolgáltató Kft. | 8269 |
 
@@ -206,4 +206,5 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 100 | Zirc | Veolia Energia Magyarország Zrt. | 8096 |
 
-[^36]: A 4. melléklet a 29/2025. (IX. 30.) EM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^42]: A 4. melléklet a 29/2025. (IX. 30.) EM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^43]: A 4. mellékletben foglalt táblázat C:38 mezője a 39/2025. (XII. 29.) EM rendelet 1. § c) pontja szerint módosított szöveg.

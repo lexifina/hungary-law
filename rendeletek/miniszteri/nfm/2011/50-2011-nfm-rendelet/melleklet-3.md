@@ -1,4 +1,4 @@
-3. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^35]
+3. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^41]
 
 Az 5/A. § szerinti maradékhő-értékesítőre vonatkozó legmagasabb hatósági ár meghatározásának módszertana
 
@@ -20,4 +20,4 @@ Az 5/A. § szerinti maradékhő-értékesítőre vonatkozó legmagasabb hatósá
 
 1.4. A maradékhő-értékesítő értékesítői hődíjának felső korlátja
 
-[^35]: A 3. mellékletet az 59/2012. (X. 31.) NFM rendelet 5. §-a hatályon kívül helyezte, újonnan az 54/2015. (IX. 30.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 29/2025. (IX. 30.) EM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^41]: A 3. mellékletet az 59/2012. (X. 31.) NFM rendelet 5. §-a hatályon kívül helyezte, újonnan az 54/2015. (IX. 30.) NFM rendelet 7. § (3) bekezdése iktatta be, szövege a 29/2025. (IX. 30.) EM rendelet 3. § (2) bekezdésével megállapított szöveg.

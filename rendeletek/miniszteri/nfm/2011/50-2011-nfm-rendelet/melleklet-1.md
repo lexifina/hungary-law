@@ -74,7 +74,7 @@
 
 | 35 | Gyöngyös | Veolia Energia Magyarország Zrt. | Városgondozási Zrt. | 0 | 6 772 |
 
-| 36 | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 297 498 000 | 968 |
+| 36 | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 184 165 000[^34] | 968 |
 
 | 37 | Győr | ALTEO-Therm Kft. | GYŐR-SZOL Zrt. | 287 000 | 6 699 |
 
@@ -82,9 +82,9 @@
 
 | 39 | Hajdúszoboszló | Veolia Energia Magyarország Zrt. | Hajdúszoboszlói Nonprofit Zrt. | 0 | 6 845 |
 
-| 40 | Kaposvár | E.ON Energiatermelő Kft. | Kaposvári Vagyonkezelő Zrt. | 0 | 7 270 |
+| 40 | Kaposvár | E.ON Energiatermelő Kft. | Kaposvári Vagyonkezelő Zrt. | 0 | 5 500[^35] |
 
-| 41 | Kaposvár | OMNI Energy Kft. | Kaposvári Vagyonkezelő Zrt. | 0 | 7 270 |
+| 41 | Kaposvár | OMNI Energy Kft. | Kaposvári Vagyonkezelő Zrt. | 0 | 5 500[^36] |
 
 | 42 | Kazincbarcika | ALTEO-Therm Kft. | Barcika Szolg Kft. | 69 717 000 | 8 111 |
 
@@ -100,9 +100,9 @@
 
 | 48 | Mátészalka | Geotherm FIRE Kft. | SZALKATÁVHŐ Kft. | 0 | 5 886 |
 
-| 49 | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 170 604 000 | 920 |
+| 49 | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 105 612 000[^37] | 920 |
 
-| 50 | Miskolc | Kuala Kft. | MIHŐ Kft. | 170 604 000 | 920 |
+| 50 | Miskolc | Kuala Kft. | MIHŐ Kft. | 105 612 000[^38] | 920 |
 
 | 51 | Miskolc | MVM MIFŰ Kft. – Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | MIHŐ Kft. | 87 174 000 | 8 280 |
 
@@ -158,7 +158,7 @@
 
 | 77 | Százhalombatta | Veolia Energia Magyarország Zrt. | “SZÁKOM” Nonprofit Kft. | 26 915 000 | 7 704 |
 
-| 78 | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 11 721 000 | 328 |
+| 78 | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 7 256 000[^39] | 328 |
 
 | 79 | Szeged | Geo Hőterm Kft. | Szegedi Távfűtő Kft. | 0 | 7 340 |
 
@@ -221,3 +221,9 @@
 | 8 | Egyéb | 3 000 |
 
 [^33]: Az 1. melléklet a 29/2025. (IX. 30.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 1. melléklet 1. pontjában foglalt táblázat D:36 mezője a 29/2025. (IX. 30.) EM rendelet 5. § a) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 1. pontjában foglalt táblázat E:40 mezője a 39/2025. (XII. 29.) EM rendelet 1. § a) pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 1. pontjában foglalt táblázat E:41 mezője a 39/2025. (XII. 29.) EM rendelet 1. § b) pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 1. pontjában foglalt táblázat D:49 mezője a 29/2025. (IX. 30.) EM rendelet 5. § b) pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 1. pontjában foglalt táblázat D:50 mezője a 29/2025. (IX. 30.) EM rendelet 5. § c) pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet 1. pontjában foglalt táblázat D:78 mezője a 29/2025. (IX. 30.) EM rendelet 5. § d) pontja szerint módosított szöveg.
