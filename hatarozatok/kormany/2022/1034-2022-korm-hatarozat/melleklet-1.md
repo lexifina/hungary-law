@@ -1,72 +1,12 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## a)[^1]
 
-## aa) IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 12. Kisújszállás Város Önkormányzata egészségügyi feladatainak támogatása és a 13. Sopron Megyei Jogú Város Önkormányzat feladatainak támogatása címekkel,
+## b)[^2]
 
-## ab) XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcímnek az 5. Beruházás ösztönzési célú képzési támogatások jogcímcsoporttal
+## c)[^3]
 
-## történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## b) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 390 455 270 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2023. augusztus 31.
-
-## c)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 28 425 254 982 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: Nemzeti Választási Iroda elnöke
-
-## Miniszterelnökséget vezető miniszter
-
-## belügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## külgazdasági és külügyminiszter
-
-## emberi erőforrások minisztere
-
-## a miniszterelnök általános helyettese
-
-## Magyar Művészeti Akadémia elnöke
-
-## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 801 020 000 forint tekintetében 2024. december 31.
-
-## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 250 000 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## d)[^4]
 
 ## e) egyetért azzal, hogy a belügyminiszter a c) és d) alpont szerint átcsoportosított
 
@@ -78,17 +18,9 @@
 
 ## f) egyetért azzal, hogy a belügyminiszter az e) alpont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok részére;
 
-## g) az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (4) bekezdésében biztosított jogkörében eljárva 336 609 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet LXXII. Egészségbiztosítási és Járvány Elleni Védekezési Alap fejezet, 2. Járvány elleni védekezési alap cím, 1. Járvány Elleni Védekezés Központi Tartaléka alcím terhére, a 4. melléklet szerint;
+## g)[^5]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## h) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 3 488 479 253 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaság-újraindítási programok jogcímcsoport terhére, az 5. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## h)[^6]
 
 ## i) az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a külgazdasági és külügyminiszter a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcím, 1. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoport, 2. Tőkealapokhoz történő hozzájárulás jogcím terhére 280 000 000 eurónak megfelelő forint összegben kötelezettséget vállaljon;
 
@@ -108,18 +40,24 @@
 
 ## az átvezetés tekintetében 2022. február 15.
 
-## 2.[^2]
+## 2.[^7]
 
-## 3.[^3]
+## 3.[^8]
 
-## 4.[^4]
+## 4.[^9]
 
-## 5.[^5]
+## 5.[^10]
 
-1. melléklet az 1034/2022. (II. 1.) Korm. határozathoz
+1. melléklet az 1034/2022. (II. 1.) Korm. határozathoz[^11]
 
-[^1]: Az 1. pont c) pontja az 1611/2023. (XII. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. pont g) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. pont h) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
