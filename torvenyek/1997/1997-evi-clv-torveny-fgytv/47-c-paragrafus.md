@@ -74,13 +74,17 @@ a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé 
 
 b) a jogsértés a fogyasztók széles körét érinti,
 
-c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét,
+c) a KKV-nak nem minősülő vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét,
 
-d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét, vagy
+d) a KKV-nak nem minősülő vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét, vagy
 
-e) a vállalkozás megsérti az adatok végleges hozzáférhetetlenné tételét lehetővé tevő címke vagy adattörlő kód átadására irányuló kötelezettségét.
+e) a KKV-nak nem minősülő vállalkozás megsérti az adatok végleges hozzáférhetetlenné tételét lehetővé tevő címke vagy adattörlő kód átadására irányuló kötelezettségét.
 
-(6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
+(6) Az (5) bekezdés a) és c)-e) pontja szerinti esetekben közigazgatási szankcióként figyelmeztetés akkor alkalmazható, ha azt különös méltánylást érdemlő körülmény indokolja, vagy a jogsértés a vállalkozás érdekkörén kívül eső okra vezethető vissza.
+
+(6a) A (6) bekezdéstől eltérően a Szankció tv. 9. § (3) bekezdésében foglaltakon túl akkor sincs helye figyelmeztetés alkalmazásának, ha a jogsértés kereskedelmi kommunikáció útján valósul meg.
+
+(6b) Az (5) bekezdés b) pontja szerinti esetben közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
 
 (7) Az (5) bekezdés, valamint a Szankció tv. 9. § (3) bekezdése szerinti esetekben az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bírság legkisebb összege az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében minden esetben 2 millió forint, az (1) bekezdés a) pontjának hatálya alá nem tartozó vállalkozás esetében minden esetben 200 ezer forint.
 

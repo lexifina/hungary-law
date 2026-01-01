@@ -30,9 +30,11 @@ d) a fogyasztói panaszok intézésére,
 
 e) a fogyasztói szerződés keretében érvényesített szavatossági és jótállási igények intézésére,
 
-f) a termék forgalmazása vagy szolgáltatás nyújtása során az egyenlő bánásmód követelményére, továbbá
+f) a termék forgalmazása vagy szolgáltatás nyújtása során az egyenlő bánásmód követelményére,
 
-g) a fogyasztók tájékoztatására
+g) a fogyasztók tájékoztatására, továbbá
+
+h) a fizetési mód használatához kapcsolódó díj, költség vagy egyéb fizetési kötelezettség felszámításának tilalmára
 
 vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 

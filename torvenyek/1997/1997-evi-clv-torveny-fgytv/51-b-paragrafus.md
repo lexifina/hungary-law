@@ -1,4 +1,4 @@
-51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
+51/B. § (1) A fogyasztóvédelemért felelős miniszter a fogyasztóvédelmi hatóság honlapján közzéteszi az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
 
 a) a közzététel e § szerinti jogcímét,
 

@@ -14,9 +14,29 @@ e) független és nem áll a fogyasztóktól eltérő más olyan személyek – 
 
 f) bármely megfelelő eszköz segítségével – így különösen a honlapján – világos és közérthető megfogalmazásban nyilvánosságra hozza a szervezetnek az a)–e) pontban felsorolt feltételeknek való megfelelését igazoló információkat, továbbá információkat a finanszírozási forrásairól a pénzbeli vagy egyéb vagyoni jellegű juttatásról arról, hogy milyen a szervezeti, irányítási és tagsági struktúrája, valamint mi a létesítő okiratban meghatározott célja és mik a tevékenységei.
 
-(2) Az adott szervezet kérelme alapján eseti alapon feljogosított szervezetként kijelölhető a szervezet egy konkrét belföldi képviseleti kereset megindítására, amennyiben a szervezet megfelel az e törvényben előírt, feljogosított szervezetként való kijelölésre vonatkozó feltételeknek.
+(2) Az adott szervezet kérelme alapján eseti alapon feljogosított szervezetként nyilvántartásba vehető a szervezet egy konkrét belföldi képviseleti kereset megindítására, amennyiben a szervezet megfelel az e törvényben előírt, feljogosított szervezetként való nyilvántartásba vételre vonatkozó feltételeknek.
 
-(3) A feljogosított szervezetként történő keresetindítási jogosultságról a feljogosított szervezetként történő kijelölésről a fogyasztóvédelemért felelős miniszter dönt.
+(3) A fogyasztóvédelemért felelős miniszter a feljogosított szervezetekről nyilvántartást vezet, amely tartalmazza
+
+a) a feljogosított szervezet
+
+aa) nevét,
+
+ab) székhelyét,
+
+ac) cégjegyzékszámát vagy nyilvántartási számát,
+
+b) annak megjelölését, hogy a feljogosított szervezet
+
+ba) belföldi képviseleti kereset indítására jogosult,
+
+bb) határon átnyúló képviseleti kereset indítására jogosult, vagy
+
+bc) belföldi és határon átnyúló képviseleti kereset indítására jogosult, valamint
+
+c) a (2) bekezdés szerinti esetben annak megjelölését, hogy a feljogosított szervezet nyilvántartásba vételére eseti alapon került sor.
+
+(3a) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Feljogosított szervezetként való kijelölési eljárás lefolytatása nélkül e törvény alapján jogosult belföldi képviseleti kereset indítására:
 
