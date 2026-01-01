@@ -20,7 +20,7 @@
 
 | 10 | Adminisztratív, irodai és egyéb üzletmenetet támogató szolgáltatás (82) | 82.10 Adminisztratív, üzletmenetet támogató szolgáltatás 82.20 Telefonos ügyfélszolgálat 82.99 M.n.s. egyéb üzletmenetet támogató szolgáltatás |
 
-2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^419]
+2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^414]
 
 Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’25 kód szerint
 
@@ -206,4 +206,4 @@ Az energiahatékonysági beruházási, a megújuló energia előállítására �
 
 | 90. | 33.2 Ipari gép, berendezés üzembe helyezése |
 
-[^419]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 29. § b) pontjával megállapított szöveg.
+[^414]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 29. § b) pontjával megállapított szöveg.

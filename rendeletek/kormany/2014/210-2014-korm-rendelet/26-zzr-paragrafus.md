@@ -1,3 +1,3 @@
-## 15/ZW. A támogatás biztosítékai
+## 15/ZW.
 
-26/ZZR. § A kedvezményezett a 23. § szerinti biztosíték nyújtására köteles.
+26/ZZR. §

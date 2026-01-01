@@ -1,3 +1,3 @@
-## 15/ZX. A támogatás folyósítása
+## 15/ZX.
 
-26/ZZS. § A támogatás folyósítása a 24. §-ban foglaltak szerint történik.
+26/ZZS. §
