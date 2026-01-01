@@ -199,3 +199,5 @@ Az adatgyűjtő modulba feltöltendő adatkörök az Esztv. hatálya alá tartoz
 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
 
 14.7. összeférhetetlenség megszüntetésének időpontja
+
+15. A foglalkoztatott 9. mellékletben meghatározott adatai.

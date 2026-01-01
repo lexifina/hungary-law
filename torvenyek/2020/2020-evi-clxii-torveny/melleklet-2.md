@@ -24,6 +24,8 @@ Az adatgyűjtő modulba feltöltendő adatkörök a Kttv. hatálya alatt álló 
 
 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
 
+1.11. arcképmás
+
 2. Elérhetőség
 
 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)

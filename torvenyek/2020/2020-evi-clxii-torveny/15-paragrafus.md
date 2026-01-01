@@ -33,3 +33,5 @@
 15. azon állami fenntartású egészségügyi szolgáltatók meghatározását, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatátadást 2021. január 1-jén meg kell kezdeni.
 
 16. a szerepkör-tanúsítvány kiállítása érdekében a szerepkör-tanúsító szolgáltató részére átadásra kerülő adatok átadásának rendjét.
+
+17. A 7. § (4) bekezdése és a 14/B. § (2) bekezdése szerinti adatszolgáltatás rendjét.

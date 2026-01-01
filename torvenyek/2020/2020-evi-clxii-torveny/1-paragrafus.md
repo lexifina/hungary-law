@@ -12,4 +12,6 @@ c) a nemzetközi kapcsolatokkal összefüggő esetenkénti adatszolgáltatás bi
 
 d) statisztikai lekérdezések biztosítása.
 
+e) az egészségügyi ellátórendszerben – az e törvényben meghatározott körben – foglalkoztatott személyeknek az egészségügyi stratégiai tervezéshez szükséges adatainak biztosítása, elemzése.
+
 (3) A KSZDR felépítését, működését, a jogosultságkezelés rendjét a Kormány rendeletben határozza meg.

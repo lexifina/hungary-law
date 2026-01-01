@@ -1,8 +1,10 @@
 6. § (1) Az adatgyűjtő modulnak a személyhez köthető adatokat
 
-a) a 2. § szerinti foglalkoztató szervezet a 7. § (1) bekezdése szerint, valamint
+a) a 2. § szerinti foglalkoztató szervezet a 7. § (1) bekezdése szerint,
 
-b) a 7. § (2) és (3) bekezdése szerinti információs rendszer
+b) a 7. § (2) és (3) bekezdése szerinti információs rendszer és
+
+c) a 7. § (4) bekezdése szerinti személyi körben az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi. tv.) 6. § (1) bekezdés e) pont eb) alpontja szerinti nyilvántartás
 
 szolgáltatja.
 
@@ -23,3 +25,5 @@ f) az Esztv. szerinti egészségügyi szolgálati jogviszonyban foglalkoztatotta
 g) a Kit., a Kttv., a Hszt. és az Nsztv. hatálya alá tartozó munkavállalók vonatkozásában a 7. mellékletben
 
 meghatározott adatkörök tekintetében a foglalkoztató szervezettel foglalkoztatási jogviszonyban álló foglalkoztatottakra, illetve – feltéve, hogy a foglalkoztatási jogviszony megszűnését vagy megszüntetését követő tíz év még nem telt el – volt foglalkoztatottakra kiterjedően kell végezni.
+
+(3) Az adatgyűjtő modul részére a 7. § (4) bekezdése szerinti személyi körben a nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatóval fennálló jogviszony adataira vonatkozó adatfeltöltést az állami vagy önkormányzati fenntartású egészségügyi szolgáltatóval fennálló, Esztv. szerinti foglalkoztatási jogviszony alatt kell elvégezni.
