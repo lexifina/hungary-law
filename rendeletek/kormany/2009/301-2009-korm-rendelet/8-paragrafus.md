@@ -20,7 +20,7 @@ g) a hatósági szerződés megszüntetésének, a vizsgálói jogosultság felf
 
 h) a nyilvántartásba való bejegyzés, törlés időpontját.
 
-(3)[^32] Az (1) bekezdés szerinti nyilvántartás a (2) bekezdésben meghatározott adatok tekintetében a – természetes személyazonosító adatok és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3)[^32] Az (1) bekezdés szerinti nyilvántartás a (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító adatok, a lakcímadatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 [^31]: A 8. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^32]: A 8. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^32]: A 8. § (3) bekezdése a 342/2025. (X. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
