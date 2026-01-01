@@ -1,1 +1,1 @@
-### 73. §
+73. § E törvénynek az energetikai tárgyú törvények módosításáról szóló 2025. évi XCVI. törvénnyel (a továbbiakban: Mód.tv.) megállapított, illetve módosított 10. § (3) bekezdését, 11. § (3) bekezdés h) pontját és 12. § (2a) bekezdését a Mód.tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

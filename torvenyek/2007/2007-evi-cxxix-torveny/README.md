@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2025-03-01 | 2024. évi LXXII. törvény | 2007-129-00-00.61 |
 | 2025-06-26 | 2025. évi LXVII. törvény | 2007-129-00-00.62 |
 | 2025-12-24 | 2025. évi XCVII. törvény | 2007-129-00-00.63 |
+| 2026-01-01 | 2025. évi XCVI. törvény | 2007-129-00-00.54 |

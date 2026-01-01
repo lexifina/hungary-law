@@ -6,7 +6,7 @@ a)
 
 b) humuszos termőréteg mentéséhez termőföldön történő, 400 m2-t meghaladó területigényű tevékenység megvalósítása,
 
-c) az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,
+c) az 1500 m2-t meg nem haladó szőlőültetvény telepítése kivételével az ültetvénytelepítéshez, beleértve az 59. § (1) bekezdésében meghatározott ültetvények esetében a termőföldnek nem minősülő ingatlanon való telepítést is,
 
 d) a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosításhoz, valamint a termőföld eredeti állapotának helyreállításához, ha az érintett teljes terület meghaladja a 400 m2 területnagyságot, vagy vonalas létesítmények esetében az 500 métert,
 
