@@ -120,7 +120,7 @@ Magyarország területén van.
 
 37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.
 
-38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási gazdasági társaság 33/A. § (6) bekezdésében meghatározott feladatainak ellátásával összefüggésben felmerült – kormányrendeletben meghatározott – indokolt költségeivel csökkentett összege;
+38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevétel;
 
 39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított személy.
 

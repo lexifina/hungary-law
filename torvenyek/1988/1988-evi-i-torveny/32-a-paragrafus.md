@@ -6,7 +6,7 @@
 
 (4) Az (1) bekezdés szerinti közúti hírközlő hálózatok szabad kapacitásai elsősorban a kormányzati célú hálózatok igényeinek kiszolgálására használhatóak azzal, hogy ez a használat a közúti hírközlő hálózatok útüzemeltetési, valamint az elektronikus útdíjszedési és díj ellenőrzési létesítmények működtetését, üzemeltetését támogató hálózati alapszolgáltatások megszakítás-mentes és a hálózathasználati szerződésben rögzített minőségi feltételekkel történő nyújtását nem veszélyeztetheti.
 
-(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását a hálózatkezelő gazdasági társaság biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, az útdíjszolgáltatási gazdasági társaság, a közútkezelő gazdasági társaság és a kormányzati célú hírközlési szolgáltató részére.
+(5) Az (1) bekezdés szerinti közúti hírközlő hálózatok alapfunkciójának teljes körű ellátását a hálózatkezelő gazdasági társaság biztosítani köteles. Ennek keretében teljes önköltség alapú hozzáférést köteles biztosítani a 33. § (1) bekezdés b) pont ba) alpontja szerinti közút kezelője, az útdíjszolgáltatási gazdasági társaság és a közútkezelő gazdasági társaság részére.
 
 (6) A (4) és (5) bekezdés szerinti hasznosítás mellett fennmaradó szabad kapacitás a hírközlési piacon történő értékesítés körében az állami vagyonnal való gazdálkodás szabályai szerint hasznosítható. A szabad kapacitásért fizetett ellenérték nem lehet alacsonyabb a mindenkori piaci árnál.
 

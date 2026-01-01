@@ -1,0 +1,1 @@
+27/C. § A közlekedési hatóság a menetíró készülék beépítését, vizsgálatát, javítását végző járműfenntartó szervezetekről a menetíró készülékről szóló miniszteri rendelet szerinti adattartalommal nyilvántartást vezet. A nyilvántartás a menetíró készülékről szóló miniszteri rendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősül.

@@ -14,6 +14,6 @@ f) igazolványának számát.
 
 (2) Az (1) bekezdés b)–d) pontjaiban meghatározott adatokban bekövetkezett változásokat a közúti ellenőr a változás bekövetkezésétől számított 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
-(3) A közúti ellenőri névjegyzék az (1) bekezdés a), b) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)
 
 (4) A közlekedési hatóság az (1) bekezdés szerinti adatokat a közúti ellenőr ellenőrzési jogosultságának megszűnésének évét követő ötödik naptári év végéig kezeli.

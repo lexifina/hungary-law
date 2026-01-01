@@ -128,7 +128,7 @@ b) a miniszter, hogy
 
 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
 
-2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat
+2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat, a tranzitút-hálózat magyarországi szakaszait,
 
 3. az ömlesztett (szóródó) tömegáru közúton történő fuvarozásának és saját számlás szállításának a feltételeit, valamint egyes közúti közlekedési szolgáltatások engedélyezésének a részletes szabályait,
 
@@ -288,7 +288,7 @@ r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért f
 
 s)
 
-t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
+t) a miniszter, hogy a 33/A. § (6d) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
 
 rendeletben állapítsa meg.
 

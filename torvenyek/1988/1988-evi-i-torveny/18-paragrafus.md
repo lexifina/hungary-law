@@ -1,6 +1,6 @@
 18. § (1) A közúti járművezetők képzése állami köznevelési közfeladat ellátásában vagy a szakképzési feladat ellátásában részt vevő szerveknél, az oktatási központnál, köznevelési és szakképzési intézményeknél, vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését a Kormány rendeletében kijelölt állami tulajdonú gazdasági társaság vagy költségvetési szerv végzi vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél történik.
 
-(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani, amely nyilvántartás a képzésre engedéllyel rendelkező szerv neve, fantázianeve, székhelye, cégjegyzékszáma, adószáma, a tárgyi feltételek biztosításának helyére, valamint a személyi feltételekre vonatkozó adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
+(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
 
 (2a) A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése és utánképzése, valamint a szakoktatói, iskolavezetői vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység határon átnyúló szolgáltatásnyújtás keretében nem végezhető.
 
@@ -91,6 +91,32 @@ f) a nyilvántartásba vétel száma, időpontja,
 (9c) A (9b) bekezdés szerinti nyilvántartás c)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (9d) A nyilvántartás adatai közül a szakmai képesítéssel rendelkezők családi neve és utóneve, születési családi neve és utóneve, a nyilvántartást vezető közlekedési hatóság megnevezése és a képesítő okmány száma, a kiadás dátuma nyilvánosak.
+
+(9e) A (2) bekezdés szerinti közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
+
+a) a képzésre engedéllyel rendelkező szerv
+
+aa) nevét,
+
+ab) fantázianevét,
+
+ac) székhelyét, cégjegyzékszámát, adószámát,
+
+b) az elméleti képzés helyszínét,
+
+c) a gyakorlati képzés helyszínét,
+
+d) az engedélyezett kategóriákat,
+
+e) az engedélyezett szaktanfolyamokat,
+
+f) az engedélyezett utánképzési programokat (II-es program esetén járműkategória megjelölésével),
+
+g) az iskolavezető nevét és
+
+h) az iskolavezető azonosítóját.
+
+(9f) A (9e) bekezdés szerinti nyilvántartás a (9e) bekezdés a) pont ab) alpontjában, valamint a (9e) bekezdés b)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (10) A névjegyzék adatai közül a (2) bekezdés szerint tevékenység végzésére jogosultak családi neve és utóneve, születési családi neve és utóneve, a névjegyzéket vezető közlekedési hatóság megnevezése és a névjegyzékbe vételt igazoló okmány száma, a kiadás dátuma nyilvánosak.
 
