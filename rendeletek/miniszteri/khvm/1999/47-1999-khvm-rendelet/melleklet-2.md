@@ -36,9 +36,9 @@
 
 |  | Óbánya település | – | 307,7 | – | – |
 
-## 2. [^8]
+## 2. [^7]
 
-2. számú melléklet a 47/1999. (XII. 28.) KHVM rendelethez[^9]
+2. számú melléklet a 47/1999. (XII. 28.) KHVM rendelethez[^8]
 
-[^8]: Az 1. melléklet 2. pontját a 25/2023. (XII. 13.) EM rendelet 4. § d) pontja hatályon kívül helyezte.
-[^9]: A 2. számú melléklet a 144/2011. (XII. 23.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. melléklet 2. pontját a 25/2023. (XII. 13.) EM rendelet 4. § d) pontja hatályon kívül helyezte.
+[^8]: A 2. számú mellékletet a 42/2025. (XII. 30.) EM rendelet 3. § b) pontja hatályon kívül helyezte.

@@ -2,6 +2,6 @@
 
 (2) Az R. 24. §-ának (4) bekezdése alapján a locsolási célú ivóvíz-felhasználással összefüggő igénybejelentést és a fizetendő díjat külön jogszabály állapítja meg.
 
-(3)[^6] E rendelet értelmében fogyasztási helynek minősül a fogyasztó tulajdonában vagy egyéb jogcímen használatában lévő, önálló helyrajzi számon vagy alszámon lévő ingatlan, ahol ivóvízvételi hely van, vagy bekötési vízmérő vagy mellékvízmérő van felszerelve, illetve amely szennyvíz-elvezetési helynek minősül.
+(3)[^5] E rendelet értelmében fogyasztási helynek minősül a fogyasztó tulajdonában vagy egyéb jogcímen használatában lévő, önálló helyrajzi számon vagy alszámon lévő ingatlan, ahol ivóvízvételi hely van, vagy bekötési vízmérő vagy mellékvízmérő van felszerelve, illetve amely szennyvíz-elvezetési helynek minősül.
 
-[^6]: A 6. § (3) bekezdését a 23/2004. (XII. 16.) KvVM rendelet 3. §-a iktatta be, szövege a 46/2006. (XII. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 6. § (3) bekezdését a 23/2004. (XII. 16.) KvVM rendelet 3. §-a iktatta be, szövege a 46/2006. (XII. 25.) KvVM rendelet 3. §-ával megállapított szöveg.
