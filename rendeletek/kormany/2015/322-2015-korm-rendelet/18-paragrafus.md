@@ -1,3 +1,5 @@
-18. §[^25]
+18. §[^25] (1) A Kbt. Második Része szerinti, kivitelezésre vagy kivitelezésre és az ahhoz kapcsolódó tervezésre együtt irányuló építési beruházás esetén az építőipari kivitelezési tevékenységet végző ajánlattevőnek, valamint az ajánlatában megnevezett, építőipari kivitelezési tevékenységet végző gazdasági szereplőnek legkésőbb a szerződéskötés időpontjáig szerepelnie szükséges a magyar építészetről szóló 2023. évi C. törvény szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében. A nyilvántartásban szereplés tényét az ajánlatkérő ellenőrzi a névjegyzéki adatok alapján.
 
-[^25]: A 18. §-t az 54/2023. (II. 27.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+(2) A nem Magyarországon letelepedett gazdasági szereplők esetén – amennyiben a szerződés teljesítéséhez szükséges – a letelepedés szerinti ország nyilvántartásában szereplés, vagy a letelepedés szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagsággal való rendelkezés követelményét szükséges igazolnia az építőipari kivitelezési tevékenységet végző nyertes ajánlattevőnek saját magára, illetve az ajánlatában megnevezett nem Magyarországon letelepedett, építőipari kivitelezési tevékenységet végző gazdasági szereplőre vonatkozóan.
+
+[^25]: A 18. §-t az 54/2023. (II. 27.) Korm. rendelet 10. §-a hatályon kívül helyezte, újonnan a 371/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.

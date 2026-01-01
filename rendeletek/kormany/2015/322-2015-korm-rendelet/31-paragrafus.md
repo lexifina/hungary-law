@@ -1,3 +1,3 @@
-31. §[^48]
+31. §[^47]
 
-[^48]: A 31. §-t az 503/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^47]: A 31. §-t az 503/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
