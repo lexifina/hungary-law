@@ -1,0 +1,5 @@
+## 2.[^2]
+
+4. §
+
+[^2]: A 2. alcím a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
