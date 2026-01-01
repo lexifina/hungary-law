@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-479-20-
 | 2023-12-29 | 2016-479-20-22.11 | 445/2017. (XII.27.) Korm. rendelet |
 | 2024-01-01 | 2016-479-20-22.12 | 642/2023. (XII. 28.) Korm. rendelet |
 | 2025-01-01 | 2016-479-20-22.13 | 423/2024. (XII. 23.) Korm. rendelet |
+| 2026-01-01 | 2016-479-20-22.14 | 441/2025. (XII. 23.) Korm. rendelet |

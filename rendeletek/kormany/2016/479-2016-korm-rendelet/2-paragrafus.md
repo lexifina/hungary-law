@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet hatálya a Tv. 3. § (1) bekezdés 4. pontjában meghatározott egyéb szervezetek közül:
 
-a) az egyesületre – ideértve a sportszövetségeket is –, az alapítványra (a továbbiakban együtt: civil szervezet),
+a)[^1] az egyesületre – ideértve a sportszövetségeket is –, az alapítványra és a sportról szóló törvény szerinti sportfióktelepre (a továbbiakban együtt: civil szervezet),
 
 b) a köztestületre,
 
@@ -32,13 +32,13 @@ terjed ki.
 
 (2) Az (1) bekezdés l) pontja szerinti külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet, különösen:
 
-a)[^1] a közhasznú szervezetként működő felsőoktatási intézmény,
+a)[^2] a közhasznú szervezetként működő felsőoktatási intézmény,
 
-b)[^2] a Doktoranduszok Országos Szövetsége, az Országos Tudományos Diákköri Tanács,
+b)[^3] a Doktoranduszok Országos Szövetsége, az Országos Tudományos Diákköri Tanács,
 
 c) a Magyar Felsőoktatási Akkreditációs Bizottság,
 
-d)[^3] a Felsőoktatási Tervezési Testület,
+d)[^4] a Felsőoktatási Tervezési Testület,
 
 e) a Magyar Rektori Konferencia,
 
@@ -50,6 +50,7 @@ h) az európai kutatási infrastruktúráért felelős konzorcium, valamint
 
 i) a Magyar Szénhidrogén Készletező Szövetség.
 
-[^1]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte, újonnan a 616/2020. (XII. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^2]: A 2. § (2) bekezdés b) pontja a 642/2023. (XII. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^3]: A 2. § (2) bekezdés d) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdés a) pontja a 441/2025. (XII. 23.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte, újonnan a 616/2020. (XII. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^3]: A 2. § (2) bekezdés b) pontja a 642/2023. (XII. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdés d) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
