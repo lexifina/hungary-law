@@ -36,7 +36,7 @@ közúti járművek számát kell figyelembe venni.
 
 (8) A 2030. január 1. utáni időszakra vonatkozóan a második referencia-időszakra meghatározott célértéket kell alkalmazni, és annak teljesítését a későbbi ötéves időszakokban az e §-ban foglaltakkal összhangban kell megállapítani.
 
-(9) Az ajánlatkérő az adott referencia-időszak során megvalósított beszerzései összességét figyelembe véve, az (1)–(3) bekezdés és a 7. § (1) bekezdése szerinti célértékeket
+(9)[^2] Az ajánlatkérő az adott referencia-időszak során megvalósított beszerzései összességét figyelembe véve, az (1)–(3) bekezdés szerinti célértékeket
 
 a) a referencia-időszakban önállóan vagy
 
@@ -49,3 +49,5 @@ teljesíti, azzal, hogy tiszta járművet a járműbeszerzési tervben szereplő
 (11) Önkormányzati rendelet az (1)–(3) bekezdésben meghatározott minimális beszerzési célértéknél magasabb értéket is megállapíthat. Ilyen esetben a magasabb érték megállapítható az (1) bekezdésben foglalt kategóriákon belüli szűkebb járműkörre irányuló beszerzésekre is.
 
 (12) E § alkalmazásában a minimális beszerzési célérték a tiszta járművek százalékos arányát fejezi ki az adott referencia-időszak alatt odaítélt valamennyi szerződés hatálya alá tartozó, meghatározott járműkategórián belüli közúti járművek teljes számán belül.
+
+[^2]: A 6. § (9) bekezdés nyitó szövegrésze a 433/2025. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

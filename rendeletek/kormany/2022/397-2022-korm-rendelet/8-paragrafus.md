@@ -6,7 +6,7 @@
 
 a) a referencia-időszak során beszerzett tiszta és nem tiszta, továbbá a kibocsátásmentes járművek arányát országos összesítésben,
 
-b) a 7. § (1) bekezdése hatálya alá tartozó ajánlatkérőkre vonatkozóan, a referencia-időszak során beszerzett tiszta és nem tiszta, továbbá a kibocsátásmentes járművek arányát városonként összesítve,
+b)[^4]
 
 c) a referencia-időszak hátralévő részére vonatkozóan a járműbeszerzési tervek országos összesítését,
 
@@ -25,3 +25,5 @@ e) a koordináló szerv által relevánsnak ítélt egyéb információt, amely 
 (7) Az (5) bekezdés szerinti jelentés tartalmazza a tiszta közúti járművek beszerzésének az alacsony kibocsátású mobilitás támogatása érdekében hozott intézkedéseket és az e rendelet szerinti célértékeknek való megfelelés érdekében tervezett további végrehajtási tevékenységekkel kapcsolatos terveket, a klímapolitikáért felelős miniszter által relevánsnak ítélt egyéb információkat, valamint az 1. § (1) bekezdése szerinti szerződések hatálya alá tartozó közúti járművek számát és kategóriáit az Európai Bizottság által a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, az (EU) 2019/1161 európai parlamenti és tanácsi irányelvvel módosított 2009/33/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésével összhangban rendelkezésre bocsátott adatok alapján.
 
 (8) A klímapolitikáért felelős miniszter 2023. március 31-ig, majd ezt követően minden év március 31-ig jelentést készít a Kormány részére a közbeszerzések hatására elért kibocsátáscsökkentés mértékéről, valamint ezen beruházások hosszú távú megtérüléséről.
+
+[^4]: A 8. § (2) bekezdés b) pontját a 433/2025. (XII. 23.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

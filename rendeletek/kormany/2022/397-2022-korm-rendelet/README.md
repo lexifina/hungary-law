@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-397-20-
 | 2023-04-27 | 2022-397-20-22.3 | 141/2023. (IV. 24.) Korm. rendelet |
 | 2023-09-07 | 2022-397-20-22.4 | 409/2023. (VIII. 30.) Korm. rendelet |
 | 2025-07-01 | 2022-397-20-22.5 | 409/2023. (VIII. 30.) Korm. rendelet |
+| 2026-01-01 | 2022-397-20-22.6 | 433/2025. (XII. 23.) Korm. rendelet |
