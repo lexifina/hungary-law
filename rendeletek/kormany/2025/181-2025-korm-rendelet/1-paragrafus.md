@@ -22,12 +22,13 @@
 
 ## 1. Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosítása
 
-1. § (1)[^1]
+1. § (1) Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet (a továbbiakban: Vhr.) 4. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-(2)[^2]
+„(3) A miniszter a (2) bekezdés szerinti adatszolgáltatás alapján számlát állít ki az útdíjszedő részére, legkésőbb az adatszolgáltatás kézhezvételét követő 2. munkanapig a tárgyhavi útdíjbevétel összegéről. Az útdíjszedő a kiállított számla alapján, legkésőbb a számlakiállítás hónapjának utolsó munkanapjáig befizetést teljesít a számlán feltüntetett, a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett kincstári számlák javára. Az általános forgalmi adó összegének befizetésekor az útdíjszedő feltünteti a miniszter által vezetett minisztérium adószámát.”
 
-(3)[^3]
+(2)[^1]
 
-[^1]: Az 1. § (1) bekezdése a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^2]: Az 1. § (2) bekezdése a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^3]: Az 1. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(3)[^2]
+
+[^1]: Az 1. § (2) bekezdése a 402/2025. (XII. 16.) Korm. rendelet 10. §-a alapján nem lép hatályba.
+[^2]: Az 1. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

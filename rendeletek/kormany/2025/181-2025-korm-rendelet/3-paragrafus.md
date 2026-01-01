@@ -1,6 +1,9 @@
-3. § (1)[^6]
+3. § (1) Hatályát veszti a Vhr.
 
-(2)[^7]
+a) 4. § (2a) és (2b) bekezdése, valamint
 
-[^6]: A 3. § (1) bekezdése a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^7]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+b) 10/A. alcíme.
+
+(2)[^4]
+
+[^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

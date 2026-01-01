@@ -1,10 +1,9 @@
 2. § A Vhr.
 
-a)[^4]
+a) 1. § (2) bekezdésében a „Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaságot” szövegrész helyébe a „Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságot” szöveg,
 
-b)[^5]
+b)[^3]
 
 lép.
 
-[^4]: A 2. § a) pontja a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^5]: A 2. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
