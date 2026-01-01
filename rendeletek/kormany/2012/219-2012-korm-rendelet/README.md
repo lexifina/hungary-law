@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-219-20-
 | 2023-01-01 | 2012-219-20-22.16 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2024-01-01 | 2012-219-20-22.17 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2025-01-01 | 2012-219-20-22.18 | 425/2012. (XII. 29.) Korm. rendelet |
+| 2026-01-01 | 2012-219-20-22.19 | 425/2012. (XII. 29.) Korm. rendelet |

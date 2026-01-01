@@ -126,4 +126,6 @@ A nyugdíjbiztosítási átutalás során alkalmazandó járulékmértékek
 
 | 61. | 2025 | 21,3 | 21,3 |
 
-[^15]: A 2. melléklet a 425/2012. (XII. 29.) Korm. rendelet 29. §-a, az 500/2013. (XII. 29.) Korm. rendelet 12. §-a, a 353/2014. (XII. 29.) Korm. rendelet 64. §-a, a 420/2015. (XII. 23.) Korm. rendelet 6. §-a, a 449/2016. (XII. 19.) Korm. rendelet 22. §-a, a 360/2017. (XI. 30.) Korm. rendelet 6. §-a, a 322/2018. (XII. 28.) Korm. rendelet 15. §-a, a 310/2019. (XII. 18.) Korm. rendelet 13. §-a, a 707/2020. (XII. 30.) Korm. rendelet 6. §-a, a 692/2021. (XII. 9.) Korm. rendelet 14. §-a, az 506/2022. (XII. 13.) Korm. rendelet 13. §-a, az 524/2023. (XII. 1.) Korm. rendelet 12. §-a, a 464/2024. (XII. 30.) Korm. rendelet 13. §-a szerint módosított szöveg.
+| 62. | 2026 | 20,77 | 20,77 |
+
+[^15]: A 2. melléklet a 425/2012. (XII. 29.) Korm. rendelet 29. §-a, az 500/2013. (XII. 29.) Korm. rendelet 12. §-a, a 353/2014. (XII. 29.) Korm. rendelet 64. §-a, a 420/2015. (XII. 23.) Korm. rendelet 6. §-a, a 449/2016. (XII. 19.) Korm. rendelet 22. §-a, a 360/2017. (XI. 30.) Korm. rendelet 6. §-a, a 322/2018. (XII. 28.) Korm. rendelet 15. §-a, a 310/2019. (XII. 18.) Korm. rendelet 13. §-a, a 707/2020. (XII. 30.) Korm. rendelet 6. §-a, a 692/2021. (XII. 9.) Korm. rendelet 14. §-a, az 506/2022. (XII. 13.) Korm. rendelet 13. §-a, az 524/2023. (XII. 1.) Korm. rendelet 12. §-a, a 464/2024. (XII. 30.) Korm. rendelet 13. §-a, a 389/2025. (XII. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.
