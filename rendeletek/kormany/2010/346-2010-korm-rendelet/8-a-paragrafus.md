@@ -1,4 +1,4 @@
-8/A. §[^57] (1) A kormányzati célú hírközlési szolgáltató az e rendelet szerinti közszolgáltatási szerződésekben és egyedi szolgáltatási megállapodásokban (a továbbiakban együtt: közszolgáltatási megállapodás) meghatározott közszolgáltatások teljesítése esetén, annak ellentételezéseként, a központosított közszolgáltatások nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályokban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek (a továbbiakban együtt: nettó költség), az állam javára jogszabály alapján fizetendő kötelezettségek (a továbbiakban: adók) összegének, valamint az e rendeletben meghatározott mértékű észszerű nyereség megtérítésére tarthat igényt.
+8/A. §[^60] (1) A kormányzati célú hírközlési szolgáltató az e rendelet szerinti közszolgáltatási szerződésekben és egyedi szolgáltatási megállapodásokban (a továbbiakban együtt: közszolgáltatási megállapodás) meghatározott közszolgáltatások teljesítése esetén, annak ellentételezéseként, a központosított közszolgáltatások nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályokban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek (a továbbiakban együtt: nettó költség), az állam javára jogszabály alapján fizetendő kötelezettségek (a továbbiakban: adók) összegének, valamint az e rendeletben meghatározott mértékű észszerű nyereség megtérítésére tarthat igényt.
 
 (2) A kormányzati célú hírközlési szolgáltató az (1) bekezdésben meghatározott észszerű nyereséget a (4) bekezdésben foglalt mértékben számolhat el
 
@@ -22,7 +22,7 @@ c) azokban a fejlesztési tárgyú közszolgáltatási szerződésekben vagy üz
 
 (6) A kormányzati célú hírközlési szolgáltató az (1) bekezdésben meghatározott ellentételezésre az (5) bekezdésben meghatározott előkalkulációval azonos szerkezetben, a közszolgáltatási megállapodásban szabályozott követelmények szerint lefolytatott teljesítésigazolási eljárásban benyújtott utókalkuláció alapján tarthat igényt. Az utókalkuláció részeként a kormányzati célú hírközlési szolgáltató köteles a központosított közszolgáltatás nyújtásával kapcsolatban felmerült, a számviteli nyilvántartásában szereplő nettó tényköltségeket, a jogszabály alapján fizetendő adókat és az elszámolt tényköltségek alapján – az észszerű nyereségráta alkalmazásával – kiszámított és gazdasági számításokkal alátámasztott észszerű nyereség összegét a szolgáltatást igénybe vevő szerv felé teljesítésigazolás és ellentételezés céljából bemutatni.
 
-(7)[^58] Az e §-ban foglaltak teljesüléséről a kormányzati célú hírközlési szolgáltató gondoskodik.
+(7)[^61] Az e §-ban foglaltak teljesüléséről a kormányzati célú hírközlési szolgáltató gondoskodik.
 
-[^57]: A 8/A. §-t a 81/2019. (IV. 18.) Korm. rendelet 12. §-a iktatta be.
-[^58]: A 8/A. § (7) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^60]: A 8/A. §-t a 81/2019. (IV. 18.) Korm. rendelet 12. §-a iktatta be.
+[^61]: A 8/A. § (7) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 3. §-ával megállapított szöveg.

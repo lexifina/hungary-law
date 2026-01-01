@@ -1,4 +1,4 @@
-6. §[^51] (1)[^52] A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
+6. §[^53] (1)[^54] A kormányzati célú hírközlési szolgáltató az e rendelet alapján felelősségi körébe tartozó hálózat vonatkozásában kizárólagos jog alapján látja el:
 
 a) a kormányzati célú hálózat tervezését, a kormányzati célú hálózat előkészítését, létesítését, bővítését, fejlesztését, valamint fenntartására, működtetésére és üzemeltetésére irányuló szolgáltatásokat (a továbbiakban együtt: működtetés);
 
@@ -26,7 +26,7 @@ b) megszerzi a működtetéshez szükséges hatósági engedélyeket és megtesz
 
 c) a kormányzati célú hírközlési szolgáltatások vonatkozásában biztosítja a titkos információgyűjtés és a titkos adatszerzés alkalmazásának a külön jogszabály szerinti, valamint a Nemzetbiztonsági Szakszolgálat által meghatározott feltételeit;
 
-d) különleges jogrend idején a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés veszélyhelyzeti és különleges jogrendi felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
+d)[^55] különleges jogrend idején a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés védelmi és biztonsági célú felkészítésének rendszeréről, az államigazgatási szervek ezzel összefüggő feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
 
 e) kapcsolatot tart a védelmi igazgatás szervezetével a felek között létrejött megállapodásban rögzített eljárásrend és felelősségi kör alapján;
 
@@ -40,8 +40,9 @@ g) ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és elb�
 
 (6) Az e §-ban foglaltak nem érintik az elkülönült hírközlési tevékenység végzésére jogosult e rendeletben foglalt jogosultságait.
 
-(7)[^53] A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.
+(7)[^56] A (2) bekezdés e) pontjában foglalt kötelezettség az EDR vonatkozásában nem áll fenn.
 
-[^51]: A 6. § a 169/2013. (V. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^52]: [A 24/2025. (II. 27.) Korm. rendelet 29. § b) pontja által elrendelt módosítás, amely szerint a 6. § (1) bekezdés e) pontjában a „védelmi igazgatás” szövegrész helyébe a „védelmi és biztonsági igazgatás” szöveg lép, nem vezethető át.]
-[^53]: A 6. § (7) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^53]: A 6. § a 169/2013. (V. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^54]: [A 24/2025. (II. 27.) Korm. rendelet 29. § b) pontja által elrendelt módosítás, amely szerint a 6. § (1) bekezdés e) pontjában a „védelmi igazgatás” szövegrész helyébe a „védelmi és biztonsági igazgatás” szöveg lép, nem vezethető át.]
+[^55]: A 6. § (3) bekezdés d) pontja a 483/2025. (XII. 31.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^56]: A 6. § (7) bekezdése a 410/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

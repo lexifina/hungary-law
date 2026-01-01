@@ -1,3 +1,3 @@
-39. §[^179]
+39. §[^190]
 
-[^179]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
+[^190]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
