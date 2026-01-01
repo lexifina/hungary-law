@@ -1,0 +1,1 @@
+2. § A központi szoftverlicenc-gazdálkodásban érintett szervezetek e rendelet szerinti kötelezettségei a kiemelt gyártó(k) szoftverlicenccel érintett termékeire, szolgáltatásaira, valamint ezen termékek és szolgáltatások beszerzésére vagy tervezett beszerzésére terjed ki.

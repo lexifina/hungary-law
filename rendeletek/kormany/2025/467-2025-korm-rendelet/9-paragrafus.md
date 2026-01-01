@@ -1,0 +1,5 @@
+9. § (1) A központi szoftverlicenc-gazdálkodásban érintett szervezet a szoftverlicenc-gazdálkodási szabályzatát a DMÜ honlapján közzétett útmutatóban meghatározott formában és tartalommal köteles elkészíteni és folyamatosan gondoskodni annak naprakészen tartásáról.
+
+(2) A szoftverlicenc-gazdálkodási szabályzat készítésére köteles központi szoftverlicenc-gazdálkodásban érintett szervezet a szoftverlicenc-gazdálkodási szabályzatot első alkalommal a központi szoftverlicenc-gazdálkodásban érintett szervezetté válásával érintett tárgyév szeptember 30-ig köteles elkészíteni és a DMÜ-nek megküldeni, amely azt a vonatkozó útmutatóban meghatározott követelményeknek való megfelelőség tekintetében ellenőrzi, és szükség esetén a szabályzat kiegészítését vagy új szabályzat benyújtását kérheti.
+
+(3) A szoftverlicenc-gazdálkodási szabályzatot a szoftverlicenc-gazdálkodási szabályzat készítésére köteles központi szoftverlicenc-gazdálkodásban érintett szervezet köteles évente a (2) bekezdésben meghatározott határnapig felülvizsgálni és – amennyiben annak tartalma módosult – a DMÜ-nek megküldeni.
