@@ -1,19 +1,13 @@
-7. § (1)[^9] Ha a fogyasztó kijavítás iránti jótállási igényét közvetlenül a jótállási jegyen vagy a jótállási nyilatkozaton feltüntetett javítószolgálatnál kívánja bejelenteni, a javítószolgálat köteles a vállalkozást haladéktalanul értesíteni a jótállási igény bejelentéséről.
+7. § (1)[^11] Ha a fogyasztó kijavítás iránti jótállási igényét közvetlenül a jótállási jegyen vagy a jótállási nyilatkozaton feltüntetett javítószolgálatnál kívánja bejelenteni, a javítószolgálat köteles a vállalkozást haladéktalanul értesíteni a jótállási igény bejelentéséről.
 
-(1a)[^10] A javítószolgálat köteles igazolható módon a vállalkozást értesíteni a termék kijavítását követő öt munkanapon belül a javítás elvégzéséről.
+(1a)[^12] A javítószolgálat a termék kijavítását követően haladéktalanul köteles a vállalkozást igazolható módon értesíteni a javítás elvégzéséről, egyéb esetben a vállalkozás értesítésére a 4. § (5a) bekezdésében foglaltakat alkalmazza.
 
-(1b)[^11] A javítószolgálat köteles igazolható módon értesíteni a vállalkozást a megállapítást követő öt munkanapon belül:
-
-a) ha az ingó dolog első alkalommal történő javítása esetén megállapítást nyer, hogy az ingó dolog nem javítható;
-
-b) ha az ingó dolog javítása előreláthatóan tizenöt napnál hosszabb időt vesz igénybe, a javítás várható idejéről;
-
-c) ha az ingó dolog javítása nem lehetséges harminc nap alatt.
+(1b)[^13]
 
 (2) A javítószolgálat a kijavítást az 5. §-ban előírtak betartásával köteles elvégezni.
 
 (3) A javítószolgálat a kijavítás iránti jótállási igény intézésekor a 6. § (1) bekezdésében foglaltak megfelelő alkalmazásával köteles eljárni.
 
-[^9]: A 7. § (1) bekezdése a 4/2023. (V. 31.) IM rendelet 2. §-ával megállapított, a 12/2024. (VII. 12.) IM rendelet 3. §-a szerint módosított szöveg.
-[^10]: A 7. § (1a) bekezdését a 18/2020. (VI. 12.) ITM rendelet 3. §-a iktatta be.
-[^11]: A 7. § (1b) bekezdését a 18/2020. (VI. 12.) ITM rendelet 3. §-a iktatta be.
+[^11]: A 7. § (1) bekezdése a 4/2023. (V. 31.) IM rendelet 2. §-ával megállapított, a 12/2024. (VII. 12.) IM rendelet 3. §-a szerint módosított szöveg.
+[^12]: A 7. § (1a) bekezdését a 18/2020. (VI. 12.) ITM rendelet 3. §-a iktatta be, szövege a 65/2025. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 7. § (1b) bekezdését a 18/2020. (VI. 12.) ITM rendelet 3. §-a iktatta be, a 65/2025. (XII. 30.) NGM rendelet 3. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 11. §[^13] E rendeletnek a fogyasztó és vállalkozás közötti szerződés keretében eladott dolgokra vonatkozó szavatossági és jótállási igények intézésének eljárási szabályairól szóló 19/2014. (IV. 29.) NGM rendelet módosításáról szóló 18/2020. (VI. 12.) ITM rendelettel (a továbbiakban: Módr.) módosított 4. § (3) bekezdését, 5. §-át, 6. § (3) bekezdését, 7. § (1a) és (1b) bekezdését és 8. § (1) bekezdését és 1. mellékletét a Módr. hatálybalépését[^14] követően kötött szerződésekre kell alkalmazni.
+## 11. §[^15] E rendeletnek a fogyasztó és vállalkozás közötti szerződés keretében eladott dolgokra vonatkozó szavatossági és jótállási igények intézésének eljárási szabályairól szóló 19/2014. (IV. 29.) NGM rendelet módosításáról szóló 18/2020. (VI. 12.) ITM rendelettel (a továbbiakban: Módr.) módosított 4. § (3) bekezdését, 5. §-át, 6. § (3) bekezdését, 7. § (1a) és (1b) bekezdését és 8. § (1) bekezdését és 1. mellékletét a Módr. hatálybalépését[^16] követően kötött szerződésekre kell alkalmazni.
 
-1. melléklet a 19/2014. (IV. 29.) NGM rendelethez[^15]
+1. melléklet a 19/2014. (IV. 29.) NGM rendelethez[^17]
 
 |  | A | B |
 
@@ -28,6 +28,6 @@
 
 | 12. | Vizsgálat megállapításai indokolással ellátva: |  |
 
-[^13]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 18/2020. (VI. 12.) ITM rendelet 5. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2021. január 1.
-[^15]: Az 1. mellékletet a 18/2020. (VI. 12.) ITM rendelet 6. §-a iktatta be, szövege a 12/2024. (VII. 12.) IM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 18/2020. (VI. 12.) ITM rendelet 5. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2021. január 1.
+[^17]: Az 1. mellékletet a 18/2020. (VI. 12.) ITM rendelet 6. §-a iktatta be, szövege a 12/2024. (VII. 12.) IM rendelet 2. §-ával megállapított szöveg.
