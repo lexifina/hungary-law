@@ -26,7 +26,9 @@
 
 ## d) A nettó, illetve bruttó hozamráta közötti különbségként az adott időszakra vonatkozó befektetési vagyonarányos költségeket kell figyelembe venni.
 
-## e) Választható portfoliós rendszerben az egyes portfoliókra számított hozamrátát az a)–d) pontok szerinti módszerrel kell kiszámítani.
+## e) Választható portfóliós rendszerben az egyes portfóliókra számított hozamrátát az a)–d) pont szerinti módszerrel kell kiszámítani. Amennyiben valamely választható portfólió indulási időpontjából adódóan
+
+## a 10, 15, 20 éves átlagos hozamráták kiszámításához valamely év tekintetében nem áll rendelkezésre portfólió szintű hozamráta vagy a fedezeti tartalék a) pont szerinti módszerrel kiszámított hozamrátája, az érintett évre vonatkozóan a fedezeti tartalék hozamráta kiszámítását a következőképpen kell elvégezni. Negyedévente a negyedév végi vagyon piaci értékével súlyozva kell átlagolni az adott negyedév egészében működő választható portfóliók hozamrátáit, majd az így kapott negyedéves fedezeti hozamráták szorzataként kell meghatározni az éves fedezeti hozamrátát. Az éves fedezeti hozamráta képlete: R = (1+r1) × (1+r2) × (1+r3) × (1+r4) – 1, ahol r1, r2, r3, r4 a negyedéves fedezeti hozamráták értéke.
 
 ## f) Az elszámolóegységekre épülő nyilvántartási rendszer esetén a nettó hozamrátát az adott időszak záró árfolyamának és a megelőző időszak záró árfolyamának hányadosaként kell kiszámítani. Az elszámolóegységes rendszert bevezető pénztáraknál az első időszak nettó hozamrátájának kiszámításánál a megelőző időszak záró árfolyamaként 1-et kell figyelembe venni. A bruttó hozamráta számítása során az adott időszakban elszámolt befektetési vagyonarányos költségek arányát a portfólió adott időszak alatti napi bruttó piaci értékeinek számtani átlagára vetítve meg kell határozni, majd ezzel a nettó hozamráta értékét növelni.
 
@@ -90,6 +92,6 @@
 
 ## e) Választható portfoliós rendszerben az egyes portfoliókra számított hozamrátát az a)–d) pontok szerinti módszerrel kell kiszámítani.
 
-4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^164]
+4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^165]
 
-[^164]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.
+[^165]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.

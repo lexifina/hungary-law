@@ -14,11 +14,11 @@
 
 ## 4. Az értékelés körébe tartozó eszközök teljeskörűen megegyeznek a Felügyeletnek küldött negyedéves jelentés megfelelő adataival.
 
-## 5.[^147] A pénztár az értékelést elkülönítve, a likviditási, a működési, valamint a fedezeti tartalék eszközei szerint, s ezen belül az egyéni számlák tartalékára és a szolgáltatási tartalékokra megbontva végzi. Választható portfoliós rendszer esetében a fedezeti tartalék eszközeit portfoliónkénti bontásban kell kimutatni és értékelni.
+## 5.[^148] A pénztár az értékelést elkülönítve, a likviditási, a működési, valamint a fedezeti tartalék eszközei szerint, s ezen belül az egyéni számlák tartalékára és a szolgáltatási tartalékokra megbontva végzi. Választható portfoliós rendszer esetében a fedezeti tartalék eszközeit portfoliónkénti bontásban kell kimutatni és értékelni.
 
-## 6.[^148] A pénztár – amennyiben azt bármilyen tény, körülmény, információ szükségessé teszi –, az óvatosság számviteli elvének érvényesítése érdekében, külön indokolással eltérhet a II. fejezetben leírt értékelési eljárásoktól és javaslatot tehet a letétkezelő számára az általános értékelési szabályoktól eltérő értékelés alapján meghatározott, alacsonyabb értékre is. Az indokolásnak utalnia kell arra, hogy az adott eszköz értékelésénél miért szükséges eltérni a letétkezelő által alkalmazott értékelési szabályoktól és az a jogszabály mely értékelési szabályától való eltérést jelenti. A javaslat elkészítése a pénztár felelőssége, melyet a pénztár igazgatótanácsának is jóvá kell hagynia. A letétkezelő az alacsonyabb értéket akkor fogadhatja el, ha azt a pénztár vezetésének előterjesztése és az igazgatótanács jóváhagyása után a könyvvizsgáló – a Magyar Nemzeti Könyvvizsgálati Standardok alkalmazása alapján kiadott jelentésében – véleményezte. Az eltérő érték elfogadása és alkalmazása – a könyvvizsgáló a Magyar Nemzeti Könyvvizsgálati Standardok alkalmazása alapján kiadott véleménye alapján – a letétkezelő számára kötelező.
+## 6.[^149] A pénztár – amennyiben azt bármilyen tény, körülmény, információ szükségessé teszi –, az óvatosság számviteli elvének érvényesítése érdekében, külön indokolással eltérhet a II. fejezetben leírt értékelési eljárásoktól és javaslatot tehet a letétkezelő számára az általános értékelési szabályoktól eltérő értékelés alapján meghatározott, alacsonyabb értékre is. Az indokolásnak utalnia kell arra, hogy az adott eszköz értékelésénél miért szükséges eltérni a letétkezelő által alkalmazott értékelési szabályoktól és az a jogszabály mely értékelési szabályától való eltérést jelenti. A javaslat elkészítése a pénztár felelőssége, melyet a pénztár igazgatótanácsának is jóvá kell hagynia. A letétkezelő az alacsonyabb értéket akkor fogadhatja el, ha azt a pénztár vezetésének előterjesztése és az igazgatótanács jóváhagyása után a könyvvizsgáló – a Magyar Nemzeti Könyvvizsgálati Standardok alkalmazása alapján kiadott jelentésében – véleményezte. Az eltérő érték elfogadása és alkalmazása – a könyvvizsgáló a Magyar Nemzeti Könyvvizsgálati Standardok alkalmazása alapján kiadott véleménye alapján – a letétkezelő számára kötelező.
 
-## 7.[^149] Az 1. számú melléklet 1. pont e5) alpontjában meghatározott eszközökbe történő befektetésre a 6. pont szerinti értékelési szabályok nem alkalmazandóak.
+## 7.[^150] Az 1. számú melléklet 1. pont e5) alpontjában meghatározott eszközökbe történő befektetésre a 6. pont szerinti értékelési szabályok nem alkalmazandóak.
 
 ## II. Értékelési szabályok
 
@@ -34,15 +34,15 @@
 
 ## a) a pénztár tulajdonában lévő, a tőzsdén jegyzett fix és változó kamatozású kötvények, valamint a diszkont kincstárjegyek esetén – az elsődleges forgalmazói rendszerbe bevezetett államkötvényeket és diszkont kincstárjegyeket kivéve – egységesen az értékelési időszakban az utolsó tőzsdei záró nettó árfolyam felhasználásával kell értékelni oly módon, hogy a nettó árhoz a piaci érték meghatározásakor hozzá kell adni a fordulónapig felhalmozott kamatokat;
 
-## b)[^150] az elsődleges forgalmazói rendszerbe bevezetett, kötelező árjegyzésű, 3 hónapnál hosszabb hátralévő futamidejű fix és változó kamatozású, illetve diszkont állampapírok esetén az Államadósság Kezelő Központ (a továbbiakban: ÁKK) által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett legjobb vételi és eladási nettó árfolyamok számtani átlaga és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+## b)[^151] az elsődleges forgalmazói rendszerbe bevezetett, kötelező árjegyzésű, 3 hónapnál hosszabb hátralévő futamidejű fix és változó kamatozású, illetve diszkont állampapírok esetén az Államadósság Kezelő Központ (a továbbiakban: ÁKK) által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett legjobb vételi és eladási nettó árfolyamok számtani átlaga és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
 
-## c)[^151] az elsődleges forgalmazói rendszerben nem kötelező árjegyzésű, 3 hónapnál rövidebb hátralévő futamidejű fix kamatozású és diszkont állampapírok – ideértve az állami készfizető kezességgel rendelkező értékpapírokat is – esetén az ÁKK által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett 3 hónapos referenciahozam felhasználásával a fordulónapra számított nettó árfolyam és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+## c)[^152] az elsődleges forgalmazói rendszerben nem kötelező árjegyzésű, 3 hónapnál rövidebb hátralévő futamidejű fix kamatozású és diszkont állampapírok – ideértve az állami készfizető kezességgel rendelkező értékpapírokat is – esetén az ÁKK által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett 3 hónapos referenciahozam felhasználásával a fordulónapra számított nettó árfolyam és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
 
-## d)[^152] ha a szabályozott piacra bevezetett, hitelviszonyt megtestesítő értékpapírnak – az elsődleges forgalmazói rendszerbe bevezetett állampapírokat kivéve – nincsen 30 napnál nem régebbi árfolyama, akkor a piaci érték az értékpapír jellemző szabályozott piacán árjegyzésként közzétett, 30 napon belüli utolsó, nettó vételi és eladási árfolyamának számtani átlagaként számított nettó árfolyam;
+## d)[^153] ha a szabályozott piacra bevezetett, hitelviszonyt megtestesítő értékpapírnak – az elsődleges forgalmazói rendszerbe bevezetett állampapírokat kivéve – nincsen 30 napnál nem régebbi árfolyama, akkor a piaci érték az értékpapír jellemző szabályozott piacán árjegyzésként közzétett, 30 napon belüli utolsó, nettó vételi és eladási árfolyamának számtani átlagaként számított nettó árfolyam;
 
-## e)[^153] amennyiben a fenti értékelési módszerek nem alkalmazhatóak, akkor a piaci érték az értékpapír kibocsátója által árjegyzésként, 30 napnál nem régebben közzétett utolsó, nettó vételi és eladási árfolyam számtani átlagaként számított nettó árfolyam; ennek hiányában egyéb, szabályozott piacon kívüli árjegyzésként 30 napnál nem régebben közzétett utolsó, nettó vételi és eladási árfolyamának számtani átlagaként számított nettó árfolyam;
+## e)[^154] amennyiben a fenti értékelési módszerek nem alkalmazhatóak, akkor a piaci érték az értékpapír kibocsátója által árjegyzésként, 30 napnál nem régebben közzétett utolsó, nettó vételi és eladási árfolyam számtani átlagaként számított nettó árfolyam; ennek hiányában egyéb, szabályozott piacon kívüli árjegyzésként 30 napnál nem régebben közzétett utolsó, nettó vételi és eladási árfolyamának számtani átlagaként számított nettó árfolyam;
 
-## f)[^154] amennyiben az értékpapír piaci értéke az a)–e) pont alapján nem állapítható meg, akkor az árfolyam megállapítása során az eszközértékelési szabályzatban meghatározott eljárás szerint kell eljárni.
+## f)[^155] amennyiben az értékpapír piaci értéke az a)–e) pont alapján nem állapítható meg, akkor az árfolyam megállapítása során az eszközértékelési szabályzatban meghatározott eljárás szerint kell eljárni.
 
 ## 5. Részvények értékelése:
 
@@ -54,13 +54,13 @@
 
 ## d) ha egyik módszer sem alkalmazható, akkor függetlenül annak régiségétől, az utolsó tőzsdei, ennek hiányában tőzsdén kívüli árfolyam, illetve a beszerzési ár közül az alacsonyabbat kell figyelembe venni.
 
-## e)[^155] az 1. számú melléklet 1. pont e5) alpontjában meghatározott eszközök értékelése során bekerülésekor a beszerzési értéken, azt követően az 1. számú melléklet 8. pontnak megfelelő értékelő könyvvizsgáló által évente megállapított értéken kell figyelembe venni.
+## e)[^156] az 1. számú melléklet 1. pont e5) alpontjában meghatározott eszközök értékelése során bekerülésekor a beszerzési értéken, azt követően az 1. számú melléklet 8. pontnak megfelelő értékelő könyvvizsgáló által évente megállapított értéken kell figyelembe venni.
 
 ## 6. A befektetési jegyek (ideértve az ingatlanbefektetési alap által kibocsátott befektetési jegyet is) értékelése:
 
 ## a) a nyíltvégű befektetési alap befektetési jegyét az alapkezelő által közzétett legutolsó egy jegyre jutó nettó eszközértéken kell figyelembe venni;
 
-## b)[^156] zárt végű befektetési alap befektetési jegye esetében az utolsó tőzsdei záróárfolyam és az utolsó nyilvánosságra hozott nettó eszközérték közül az alacsonyabbat kell figyelembe venni. Az utolsó tőzsdei záróárfolyam akkor alkalmazható, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi. A kockázati tőkealap-jegyeket is a zárt végű befektetési alapokra vonatkozó értékelési módszer alapján kell értékelni.
+## b)[^157] zárt végű befektetési alap befektetési jegye esetében az utolsó tőzsdei záróárfolyam és az utolsó nyilvánosságra hozott nettó eszközérték közül az alacsonyabbat kell figyelembe venni. Az utolsó tőzsdei záróárfolyam akkor alkalmazható, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi. A kockázati tőkealap-jegyeket is a zárt végű befektetési alapokra vonatkozó értékelési módszer alapján kell értékelni.
 
 ## 7. Jelzáloglevél: a jelzáloglevelet a hitelviszonyt megtestesítő értékpapírokhoz hasonlóan, a 4.1. pont szerint kell értékelni.
 
@@ -88,38 +88,38 @@
 
 ## 4. A külföldi befektetések révén keletkezett pozíciók devizában kifejezett értékét a fordulónapon közzétett, ennek hiányában a legutolsó nyilvánosságra hozott MNB középárfolyam felhasználásával kell forintban kifejezni.
 
-## 11.[^157] Ingatlan: az ingatlanokat a pénztár által meghatározott fordulónapra, de legalább az üzleti év fordulónapjára, 3 hónapnál nem régebbi, a pénztártól független ingatlanértékelő által készített értékbecslés alapján kell értékelni. Az ingatlan beszerzésének évében a pénztár az ingatlant könyv szerinti értéken is értékelheti. Az ingatlanértékelő által végzett értékbecslések között végzett ingatlan beruházást könyv szerinti értéken kell értékelni.
+## 11.[^158] Ingatlan: az ingatlanokat a pénztár által meghatározott fordulónapra, de legalább az üzleti év fordulónapjára, 3 hónapnál nem régebbi, a pénztártól független ingatlanértékelő által készített értékbecslés alapján kell értékelni. Az ingatlan beszerzésének évében a pénztár az ingatlant könyv szerinti értéken is értékelheti. Az ingatlanértékelő által végzett értékbecslések között végzett ingatlan beruházást könyv szerinti értéken kell értékelni.
 
 ## 12. Repó (fordított repó): az ügylet árkülönbözetének naptári napra számított időarányos (lineáris) része.
 
 ## 13. Swap: a letétkezelő belső értékelési szabályzata alapján kell értékelni.
 
-## 14.[^158] Az egyéb, tőzsdén vagy más szabályozott piacon forgalmazott, fenti kategóriákba nem sorolható értékpapír esetében a piaci érték forrása azon tőzsdei, vagy más szabályozott piaci árfolyam, ahol az adott értékpapír forgalma jellemzően zajlik. Amennyiben a vonatkozó piacról 30 napnál frissebb árfolyam nem érhető el, akkor a beszerzési árat kell az értékeléshez alkalmazni.
+## 14.[^159] Az egyéb, tőzsdén vagy más szabályozott piacon forgalmazott, fenti kategóriákba nem sorolható értékpapír esetében a piaci érték forrása azon tőzsdei, vagy más szabályozott piaci árfolyam, ahol az adott értékpapír forgalma jellemzően zajlik. Amennyiben a vonatkozó piacról 30 napnál frissebb árfolyam nem érhető el, akkor a beszerzési árat kell az értékeléshez alkalmazni.
 
-## 15.[^159] Az értékelés során meg kell jelölni azokat az eszközöket, amelyekre nem áll rendelkezésre az e rendeletben meghatározott értékelési szabályok szerinti piaci érték. Ezen eszközök értékelését rendszeresen felül kell vizsgálni.
+## 15.[^160] Az értékelés során meg kell jelölni azokat az eszközöket, amelyekre nem áll rendelkezésre az e rendeletben meghatározott értékelési szabályok szerinti piaci érték. Ezen eszközök értékelését rendszeresen felül kell vizsgálni.
 
-## 16.[^160] A felülvizsgálat során vizsgálni kell az értékesíthetetlenség és a nemfizetés kockázatát. Amennyiben ilyen kockázat felmerül, a bekövetkezés becsült valószínűségével arányosan csökkenteni kell a nyilvántartási értéket.
+## 16.[^161] A felülvizsgálat során vizsgálni kell az értékesíthetetlenség és a nemfizetés kockázatát. Amennyiben ilyen kockázat felmerül, a bekövetkezés becsült valószínűségével arányosan csökkenteni kell a nyilvántartási értéket.
 
-## 17.[^161] Amennyiben az értékelésben releváns információ válik nyilvánossá vagy kerül a letétkezelő birtokába, az értékelést ismételten el kell végezni.
+## 17.[^162] Amennyiben az értékelésben releváns információ válik nyilvánossá vagy kerül a letétkezelő birtokába, az értékelést ismételten el kell végezni.
 
-## 18.[^162] Az értékeléshez alkalmazott modellt és a felhasznált adatokat dokumentálni kell.
+## 18.[^163] Az értékeléshez alkalmazott modellt és a felhasznált adatokat dokumentálni kell.
 
-4. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^163]
+4. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^164]
 
-[^147]: A 3. számú melléklet I. része 5. alpontjának második mondatát a 233/2006. (XI. 24.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^148]: A 3. melléklet I. rész 6. pontja a 470/2015. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^149]: A 3. számú melléklet I. rész 7. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^150]: A 3. számú melléklet II. 4. b) pontja a 293/2005. (XII. 23.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^151]: A 3. számú melléklet II. 4. c) pontja a 293/2005. (XII. 23.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^152]: A 3. melléklet II. rész 4. pont d) alpontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^153]: A 3. melléklet II. rész 4. pont e) alpontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^154]: A 3. melléklet II. rész 4. pont f) alpontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^155]: A 3. számú melléklet II. rész 5. pont e) alpontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 139/2016. (VI. 13.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^156]: A 3. számú melléklet II. 6. b) pontjának második és harmadik mondatát a 293/2005. (XII. 23.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^157]: A 3. számú melléklet II. részének 11. pontja a 368/2007. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^158]: A 3. számú melléklet II. részének 14. pontját a 233/2006. (XI. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^159]: A 3. melléklet II. rész 15. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^160]: A 3. melléklet II. rész 16. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^161]: A 3. melléklet II. rész 17. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^162]: A 3. melléklet II. rész 18. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^163]: A 4. számú melléklet a 293/2005. (XII. 23.) Korm. rendelet 16. §-ával megállapított, a 233/2006. (XI. 24.) Korm. rendelet 13. §-a, a 368/2007. (XII. 23.) Korm. rendelet 20. §-a, a 335/2008. (XII. 30.) Korm. rendelet 16. § (1) bekezdése, a 332/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése, a 470/2015. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^148]: A 3. számú melléklet I. része 5. alpontjának második mondatát a 233/2006. (XI. 24.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^149]: A 3. melléklet I. rész 6. pontja a 470/2015. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^150]: A 3. számú melléklet I. rész 7. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^151]: A 3. számú melléklet II. 4. b) pontja a 293/2005. (XII. 23.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^152]: A 3. számú melléklet II. 4. c) pontja a 293/2005. (XII. 23.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^153]: A 3. melléklet II. rész 4. pont d) alpontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^154]: A 3. melléklet II. rész 4. pont e) alpontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^155]: A 3. melléklet II. rész 4. pont f) alpontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^156]: A 3. számú melléklet II. rész 5. pont e) alpontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 139/2016. (VI. 13.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^157]: A 3. számú melléklet II. 6. b) pontjának második és harmadik mondatát a 293/2005. (XII. 23.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^158]: A 3. számú melléklet II. részének 11. pontja a 368/2007. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^159]: A 3. számú melléklet II. részének 14. pontját a 233/2006. (XI. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^160]: A 3. melléklet II. rész 15. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^161]: A 3. melléklet II. rész 16. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^162]: A 3. melléklet II. rész 17. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^163]: A 3. melléklet II. rész 18. pontját a 684/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^164]: A 4. számú melléklet a 293/2005. (XII. 23.) Korm. rendelet 16. §-ával megállapított, a 233/2006. (XI. 24.) Korm. rendelet 13. §-a, a 368/2007. (XII. 23.) Korm. rendelet 20. §-a, a 335/2008. (XII. 30.) Korm. rendelet 16. § (1) bekezdése, a 332/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése, a 470/2015. (XII. 29.) Korm. rendelet 15. § (3) bekezdése, a 353/2025. (XI. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.

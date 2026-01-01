@@ -4,15 +4,15 @@
 
 ## Hatálybalépés
 
-34. § (1)[^109] E rendelet – a (3), (4), (5), (6) és (7) bekezdésben foglaltak kivételével – 2002. január 1-jén lép hatályba.
+34. § (1)[^110] E rendelet – a (3), (4), (5), (6) és (7) bekezdésben foglaltak kivételével – 2002. január 1-jén lép hatályba.
 
-(2)[^110] A 19. § (2) bekezdésében meghatározott, közvetett tulajdonlásra vonatkozó arányokat a Hpt. 3. melléklete szerint kell meghatározni.[^111]
+(2)[^111] A 19. § (2) bekezdésében meghatározott, közvetett tulajdonlásra vonatkozó arányokat a Hpt. 3. melléklete szerint kell meghatározni.[^112]
 
 (3) E rendelet 17. § (3) és (4) bekezdései 2002. július 1-jén lépnek hatályba.
 
-(4)–(7)[^112]
+(4)–(7)[^113]
 
-[^109]: A 34. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja szerint módosított szöveg.
-[^110]: A 34. § (2) bekezdése a 332/2004. (XII. 11.) Korm. rendelet 12. §-ának (2) bekezdése, az 537/2013. (XII. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
-[^111]: A Magyar Közlöny 2002. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
-[^112]: A 34. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.
+[^110]: A 34. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja szerint módosított szöveg.
+[^111]: A 34. § (2) bekezdése a 332/2004. (XII. 11.) Korm. rendelet 12. §-ának (2) bekezdése, az 537/2013. (XII. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^112]: A Magyar Közlöny 2002. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
+[^113]: A 34. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.

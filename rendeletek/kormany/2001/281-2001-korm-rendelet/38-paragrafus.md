@@ -2,6 +2,6 @@
 
 ## Módosuló szabályok
 
-38. §[^114]
+38. §[^115]
 
-[^114]: A 38. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.
+[^115]: A 38. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.
