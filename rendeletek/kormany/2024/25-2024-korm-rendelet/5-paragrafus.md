@@ -30,8 +30,10 @@ c) halálos munkabaleset következett be, 20-szorosára
 
 emeli meg a munkavédelmi hatóság a munkavédelmi bírság mértékét.
 
-(4) Ha a munkavédelmi hatóság korábbi hatósági eljárása során feltárt súlyos veszélyeztetés miatt a hatósági ellenőrzést megelőző három éven belül egy alkalommal a munkáltatóval szemben végleges döntésében munkavédelmi bírságot szabott ki, akkor az új munkavédelmi bírság mértékét 1,5-szeresére emeli meg. Minden további, három éven belül végleges döntésben kiszabott munkavédelmi bírság esetén az ismétlődő jogsértés miatt, ezen bekezdés szerint a legutóbb alkalmazott szorzó bírságonként megduplázódik.
+(4)[^2] Ha a munkavédelmi hatóság korábbi hatósági eljárása során feltárt súlyos veszélyeztetés miatt a hatósági ellenőrzést megelőző három éven belül egy alkalommal a munkáltatóval szemben végleges döntésében munkavédelmi bírságot szabott ki, akkor a munkavédelmi hatóság az ezt követően kiszabott munkavédelmi bírság mértékét 1,5-szeresére emeli meg. Három éven belül végleges döntésben egynél több alkalommal kiszabott munkavédelmi bírság esetén – az ismétlődő jogsértés miatt – a legutóbb alkalmazott szorzó megduplázódik.
 
 (5) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti mikro- és kisvállalkozás vagy természetes személy munkáltató munkavédelmi normasértése esetén a munkavédelmi bírság mértéke 0,8-szeresére csökken, és legfeljebb 25 millió forintig terjedhet; középvállalkozás munkáltató munkavédelmi normasértése esetén a munkavédelmi bírság mértéke 0,9-szeresére csökken, és legfeljebb 50 millió forintig terjedhet.
 
 (6) Az (5) bekezdés nem alkalmazható, ha a munkáltató mulasztása miatt halálos munkabaleset következett be.
+
+[^2]: Az 5. § (4) bekezdése a 408/2025. (XII. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
