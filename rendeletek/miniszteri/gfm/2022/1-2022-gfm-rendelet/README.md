@@ -76,3 +76,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1-20-8P
 | 2025-11-05 | 2022-1-20-8P.68 | 2/2022. (VI. 20.) GFM rendelet |
 | 2025-12-23 | 2022-1-20-8P.69 | 8/2022. (VIII. 31.) GFM rendelet |
 | 2025-12-30 | 2022-1-20-8P.70 | 2/2022. (VI. 20.) GFM rendelet |
+| 2026-01-01 | 2022-1-20-8P.71 | 2/2022. (VI. 20.) GFM rendelet |
