@@ -1,15 +1,3 @@
-| ÁHT-T | ÚJ címrendi besorolás | Megnevezés | Régi címrendi besorolás |
-
-| Fejezet | Cím | Alcím | Jogcím-csoport | Jogcím | Fejezet | Cím | Alcím | Jogcím-csoport | Jogcím |
-
-|  |  |  |  |  |  | ÉPÍTÉSI ÉS BERUHÁZÁSI MINISZTÉRIUM |  |  |  |  |  |
-
-|  | 16 | 11 | 3 |  |  | Rendelkezésre állási díjak |  |  |  |  |  |
-
-| 398862 | 16 | 11 | 3 | 1 |  | Gyorsforgalmi úthálózat rendelkezésre állási díj | 17 | 21 | 16 | 00 | 00 |
-
-| 399340 | 16 | 11 | 3 | 2 |  | M5, M6 autópálya rendelkezésre állási díjak | 21 | 22 | 5 | 00 | 00 |
-
 8. melléklet az 1515/2022. (X. 26.) Korm. határozathoz
 
 A 2023. évi megosztásra kerülő központi kezelésű előirányzatok átrendezésének végrehajtásához

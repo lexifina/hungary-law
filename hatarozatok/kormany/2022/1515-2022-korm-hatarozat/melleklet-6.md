@@ -1,5 +1,3 @@
-## 2X07170.pdf
+6. melléklet az 1515/2022. (X. 26.) Korm. határozathoz[^16]
 
-6. melléklet az 1515/2022. (X. 26.) Korm. határozathoz
-
-A 2022. évi megosztásra nem kerülő központi kezelésű előirányzatok átrendezésének végrehajtásához
+[^16]: A 6. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
