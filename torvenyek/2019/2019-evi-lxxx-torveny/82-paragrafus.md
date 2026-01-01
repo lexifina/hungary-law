@@ -22,6 +22,6 @@ c) a gazdasági kamara adatait, képviselőjének és a nyilvántartásba-vétel
 
 d) a Kormány rendeletében meghatározott, személyes adatnak nem minősülő adatokat.
 
-(4) A duális képzőhelyek nyilvántartása közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 (5) A nyilvántartásba-vételi eljárás ingyenes.

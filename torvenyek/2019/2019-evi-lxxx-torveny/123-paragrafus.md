@@ -86,7 +86,7 @@
 
 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
 
-31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
+31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a közhiteles adatok körét, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 
 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
 
@@ -122,7 +122,7 @@
 
 45. az önköltség szakmánként alkalmazandó súlyszorzóját,
 
-46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közzétételének és továbbításának módját,
+46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közhitelességét, közzétételének és továbbításának módját,
 
 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 
