@@ -4,7 +4,7 @@
 
 a) a kérelmező létesítő okiratát,
 
-b) a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette –, bejegyzett cég esetében 30 napnál nem régebbi cégkivonatot,
+b)[^1] a (2a) bekezdésben meghatározott kivétellel a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette –,
 
 c) harminc napnál nem régebbi igazolást arra vonatkozóan, hogy az alapításban részt vevő személynek, már működő cég esetén a kérelmezőnek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben 30 napnál régebben lejárt tartozása nincs,
 
@@ -32,7 +32,7 @@ m) nyilatkozatot arról, hogy a jogszabályban meghatározott, és jogszabályon
 
 a) a kérelmező létesítő okiratát,
 
-b) a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette –, bejegyzett cég esetében harminc napnál nem régebbi cégkivonatot,
+b)[^2] a (2a) bekezdésben meghatározott kivétellel a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette –,
 
 c) harminc napnál nem régebbi igazolást arra vonatkozóan, hogy az alapításban részt vevő személynek, már működő cég esetén a kérelmezőnek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben 30 napnál régebben lejárt tartozása nincs,
 
@@ -57,6 +57,8 @@ l) nyilatkozatot arra vonatkozóan, hogy a szolgáltatási tevékenységét miko
 m) nyilatkozatot arról, hogy a jogszabályban meghatározott, és jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
 
 n) annak igazolását, hogy a kérelmező rendelkezik a feldolgozni tervezett készpénz mennyiségének megfelelő kapacitású, a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által sikeresen bevizsgált típusú bankjegyvizsgáló géppel.
+
+(2a)[^3] Magyarországon bejegyzett cég esetében a Felügyelet a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (3) Az állami adóhatóságtól beszerezhető (1) bekezdés c) pontja és (2) bekezdés c) pontja szerinti igazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -124,6 +126,14 @@ e) a kérelmező külföldi vállalkozás benyújtja a székhelye szerinti felü
 
 f) külföldi pénzügyi intézmény kérelmező esetén a kérelmező székhelye szerinti állam jogszabályai biztosítják a pénzügyi intézmény prudens, biztonságos működését.
 
-(8) Már működő fióktelep esetén az engedélyezés iránti kérelemhez – az (5) és (6) bekezdésben felsoroltak helyett, ha azokat a Felügyelet előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, bejegyzett fióktelep esetében harminc napnál nem régebbi cégkivonatot kell becsatolni. A Felügyelet a kérelmezőt bármikor felhívhatja a (5) és (6) bekezdésben meghatározott feltételek igazolására.
+(8)[^4] Már működő fióktelep esetén az engedélyezés iránti kérelemhez – az (5) és (6) bekezdésben felsoroltak helyett, ha azokat a Felügyelet előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a (8a) bekezdésben meghatározott kivétellel a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet kell becsatolni, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette. A Felügyelet a kérelmezőt bármikor felhívhatja az (5) és (6) bekezdésben meghatározott feltételek igazolására.
+
+(8a)[^5] Bejegyzett fióktelep esetében a cégkivonatot a Felügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (9) Ha a kérelmező az (1) bekezdés c) pontjában, a (2) bekezdés c) pontjában, az (5) bekezdés d) pontjában, illetve a (6) bekezdés d) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
+
+[^1]: A 2. § (1) bekezdés b) pontja a 395/2025. (XII. 16.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdés b) pontja a 395/2025. (XII. 16.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^4]: A 2. § (8) bekezdése a 395/2025. (XII. 16.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^5]: A 2. § (8a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 18. § (4) bekezdése iktatta be.
