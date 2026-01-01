@@ -12,7 +12,7 @@
 
 5.[^7]
 
-5a.[^8] forgalmazott hordozható elem, akkumulátor: az adott évben Magyarország területén forgalomba hozott hordozható elem, akkumulátor, ide nem értve azokat a hordozható elemeket és akkumulátorokat, amelyeket a végfelhasználók részére történt eladást megelőzően ugyanabban az évben véglegesen kivittek Magyarország területéről;
+5a.[^8]
 
 6.[^9]
 
@@ -40,7 +40,7 @@
 [^5]: A 2. § (1) bekezdés 3. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
 [^6]: A 2. § (1) bekezdés 4. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés 5. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
-[^8]: A 2. § (1) bekezdés 5a. pontját a 158/2021. (III. 31.) Korm. rendelet 9. §-a iktatta be.
+[^8]: A 2. § (1) bekezdés 5a. pontját a 158/2021. (III. 31.) Korm. rendelet 9. §-a iktatta be, a 203/2025. (VII. 17.) Korm. rendelet 16. § 2. pontja hatályon kívül helyezte.
 [^9]: A 2. § (1) bekezdés 6. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
 [^10]: A 2. § (1) bekezdés 7. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
 [^11]: A 2. § (1) bekezdés 8. pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
