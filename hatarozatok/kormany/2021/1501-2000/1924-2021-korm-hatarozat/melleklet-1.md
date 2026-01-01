@@ -12,19 +12,11 @@
 
 ## Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósítása érdekében
+## 3.[^1]
 
-## a)[^1]
+## a)[^2]
 
-## b) 3 483 280 570 forint egyszeri átcsoportosítását rendeli el a Magyarország a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: 2022. évi Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 2. Modern Városok Program jogcímcsoport terhére, a 2022. évi Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## belügyminiszter
-
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, 2022. január 31-ig
+## b)[^3]
 
 ## 4. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósítása céljából legfeljebb 4 606 967 686 forint biztosításáról a 2023. évi központi költségvetésben a Modern Városok Program szakmai céljaira szolgáló fejezeti kezelésű előirányzat javára;
 
@@ -42,7 +34,9 @@
 
 ## Határidő: a 2023. évi központi költségvetés végrehajtása során, legkésőbb 2023. február 15.
 
-1. melléklet az 1924/2021. (XII. 20.) Korm. határozathoz[^2]
+1. melléklet az 1924/2021. (XII. 20.) Korm. határozathoz[^4]
 
-[^1]: A 3. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^1]: A 3. pont nyitó szövegrésze a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 3. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
