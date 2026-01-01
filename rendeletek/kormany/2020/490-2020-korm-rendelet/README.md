@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-490-20-
 | 2021-09-18 | 2020-490-20-22.2 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2022-07-01 | 2020-490-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2020-490-20-22.4 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-01-01 | 2020-490-20-22.5 | 400/2025. (XII. 16.) Korm. rendelet |

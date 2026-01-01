@@ -42,7 +42,7 @@ szolgáltatási modulokat biztosítja.
 
 (5) Az elemi rehabilitációs szolgáltató az (1)–(4) bekezdés szerinti szolgáltatási modulok biztosítása során
 
-a) az (1) bekezdés a) és k) pontjában foglalt szolgáltatások esetén elemi rehabilitációs szerződésenként maximum 10 óra,
+a)[^7] az (1) bekezdés a) és k) pontjában foglalt szolgáltatások esetén elemi rehabilitációs szerződésenként évi legfeljebb 10 óra,
 
 b) az (1) bekezdés b) pontjában foglalt szolgáltatás esetén elemi rehabilitációs szerződésenként – maximum két alkalommal – évi 8 szolgáltatási óra,
 
@@ -51,3 +51,5 @@ c) az (1) bekezdés c)–j) és l) pontjában foglalt szolgáltatások esetén a
 szolgáltatási óraszám korlátozás figyelembevételével jár el.
 
 (6) Ha az elemi rehabilitációs szolgáltató nem rendelkezik megfelelő kapacitással a szolgáltatási modulok biztosítására, tájékoztatja az igénybevevőt a szükséges szolgáltatási modulok biztosítására alkalmas elemi rehabilitációs szolgáltatókról.
+
+[^7]: A 8. § (5) bekezdés a) pontja a 400/2025. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.

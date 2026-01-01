@@ -1,25 +1,25 @@
 ## 7. A módszertani központ feladatai és működése
 
-## 22. § A módszertani központ
+22. §[^15] A módszertani központ
 
-a) összehangolja és hálózatba szervezi az egyes ellátási területeken működő elemi rehabilitációs központok munkáját,
+a) összehangolja és hálózatba szervezi az egyes ellátási területeken működő elemi rehabilitációs szolgáltatók munkáját,
 
-b) biztosítja az egységes szolgáltatásnyújtást,
+b) az egységes szolgáltatásnyújtás biztosítása érdekében
 
-c) a szolgáltatást nyújtó szakemberek számára továbbképzéseket szervez,
+ba) minőségbiztosítási eljárásokat dolgoz ki,
 
-d) minőségbiztosítási eljárásokat dolgoz ki,
+bb) támogató irányelveket, standardokat készít,
 
-e) kidolgozza az elemi rehabilitációs szolgáltatás dokumentációs rendjét,
+bc) kidolgozza az elemi rehabilitációs szolgáltatás dokumentációs rendjét,
 
-f) támogató irányelveket, standardokat készít,
+c) a szolgáltatást nyújtó szakemberek számára képzéseket és továbbképzéseket dolgoz ki és szervez,
 
-g) évente ellenőrzi az elemi rehabilitációs szolgáltatás nyújtásához szükséges személyi, tárgyi és szakmai feltételek betartását,
+d) évente ellenőrzi az elemi rehabilitációs szolgáltatás nyújtásához szükséges személyi, tárgyi és szakmai feltételek betartását,
 
-h) tanácsadást és információnyújtást biztosít a komplex rehabilitáció területéről,
+e) tanácsadást és információnyújtást biztosít a komplex rehabilitáció területéről,
 
-i) nyilvántartást vezet a Fot. 21/B. §-ában foglaltak alapján,
+f) nyilvántartást vezet a Fot. 21/B. §-ában foglaltak alapján, és
 
-j) képzéseket dolgoz ki a halmozottan sérült és a siketvak igénybevevők számára nyújtott szolgáltatás vonatkozásában,
+g) együttműködik a komplex rehabilitációt támogató interdiszciplináris tudományterületek képviselőivel.
 
-k) együttműködik a hazai felsőoktatási intézményekkel az orvos- és egészségtudományi kutatások, kiemelten a bionika területén a létrehozott komplex orvosi diagnosztikai eszközök és szolgáltatások, fejlesztések megismerése érdekében.
+[^15]: A 22. § a 400/2025. (XII. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
