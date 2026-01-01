@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-439-20-
 | 2023-12-31 | 2012-439-20-22.12 | 675/2023. (XII. 29.) Korm. rendelet |
 | 2025-01-01 | 2012-439-20-22.13 | 416/2024. (XII. 20.) Korm. rendelet |
 | 2025-08-18 | 2012-439-20-22.14 | 203/2025. (VII. 17.) Korm. rendelet |
+| 2026-01-01 | 2012-439-20-22.15 | 342/2025. (X. 31.) Korm. rendelet |
