@@ -1,6 +1,6 @@
-## 14.[^71]
+## 14.[^73]
 
-26. §[^72]
+26. §[^74]
 
-[^71]: A 14. alcímet (26. §) a 41/2014. (II. 24.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.
-[^72]: A 14. alcímet (26. §) a 41/2014. (II. 24.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.
+[^73]: A 14. alcímet (26. §) a 41/2014. (II. 24.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.
+[^74]: A 14. alcímet (26. §) a 41/2014. (II. 24.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.

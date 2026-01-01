@@ -1,3 +1,3 @@
-40. §[^84]
+40. §[^86]
 
-[^84]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

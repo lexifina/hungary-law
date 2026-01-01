@@ -1,4 +1,4 @@
-1. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^87]
+1. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^89]
 
 A KT kódok
 
@@ -18,7 +18,7 @@ A KT kódok
 
 | 4. | III. csoport: Ipari olajok (emulziók) | 604 |
 
-1.1.2. egyéb műanyagtermék KT kódjának 1-3. karaktere
+1.1.2.[^90] egyéb műanyagtermék KT kódjának 1–3. karaktere
 
 |  | A | B |
 
@@ -26,19 +26,15 @@ A KT kódok
 
 | 2. | Műanyag művirág, levél- és gyümölcsutánzat és ezek részei; ezekből készült áru | 301 |
 
-| 3. | 15 mikronnál kisebb falvastagságú műanyag hordtasak, a biológiailag lebomló műanyagból készült, valamint a nagyon könnyű műanyag hordtasak kivételével | 311 |
+| 3. | 15 mikronnál kisebb falvastagságú műanyag hordtasak, a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 311 |
 
-| 4. | 15 mikronnál kisebb falvastagságú, biológiailag lebomló műanyagból készült műanyag hordtasak, a nagyon könnyű műanyag hordtasak kivételével | 312 |
+| 4. | 15 mikronnál kisebb falvastagságú, biológiailag lebomló műanyagból készült műanyag hordtasak | 312 |
 
-| 5. | nagyon könnyű műanyag hordtasak, a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 313 |
+| 5. | 15 mikron vagy annál nagyobb, de 50 mikront el nem érő falvastagságú biológiailag lebomló műanyagból készült műanyag hordtasak | 316 |
 
-| 6. | biológiailag lebomló műanyagból készült nagyon könnyű műanyag hordtasak | 314 |
+| 6. | 50 mikron vagy azt meghaladó falvastagságú műanyag hordtasak, a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 351 |
 
-| 7. | biológiailag lebomló műanyagból készült, 15 mikron vagy annál nagyobb, de 50 mikront el nem érő falvastagságú műanyag hordtasak | 316 |
-
-| 8. | 50 mikron vagy azt meghaladó falvastagságú műanyag hordtasak, a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 351 |
-
-| 9. | biológiailag lebomló műanyagból készült 50 mikron vagy azt meghaladó falvastagságú műanyag hordtasak | 352 |
+| 7. | 50 mikron vagy azt meghaladó falvastagságú, biológiailag lebomló műanyagból készült műanyag hordtasak | 352 |
 
 1.1.3. egyéb vegyipari termék KT kódjának 1-3. karaktere
 
@@ -186,7 +182,7 @@ A KT kódok
 
 | 16. | 73 | ha a termékdíj-kötelezettség az egyéb kőolajtermék után számlán átvállalásra került |
 
-| 17. | 74 | ha a termékdíjat az újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött termék után nem kell megfizetni |
+| 17. | 74 | ha a termékdíjat az újrahasználatra előkészítést követően létrejött termék után nem kell megfizetni[^91] |
 
 | 18. | 77 | ha a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés a) pontja alapján szerződéssel átvállalásra került |
 
@@ -226,7 +222,7 @@ A KT kódok
 
 | 5. | B4 | újrahasználatra előkészítést követően létrejött termék |
 
-| 6. | B5 | újbóli felhasználásra előkészítést követően létrejött termék |
+| 6.[^92] |  |  |
 
 | 7. | K1 | külföldről behozott, saját vámtarifaszáma alapján termékdíjköteles termék esetén |
 
@@ -250,4 +246,7 @@ A KT kódok
 
 | 7. | 900 80 99 | reklámhordozó papír |
 
-[^87]: Az 1. melléklet a 465/2024. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^89]: Az 1. melléklet a 465/2024. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^90]: Az 1. melléklet 1. pont 1.1.2. alpontja a 412/2025. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^91]: Az 1. melléklet 1.3. alpontjában foglalt táblázat B:17 mezője a 412/2025. (XII. 22.) Korm. rendelet 4. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^92]: Az 1. melléklet 1.4. alpontjában foglalt táblázat 6. sorát a 412/2025. (XII. 22.) Korm. rendelet 4. § (1) bekezdés g) pontja hatályon kívül helyezte.

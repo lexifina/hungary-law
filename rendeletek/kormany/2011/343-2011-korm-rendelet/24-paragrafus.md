@@ -1,8 +1,8 @@
-24. § (1)[^66]
+24. § (1)[^68]
 
-(2)[^67]
+(2)[^69]
 
-(3)[^68]
+(3)[^70]
 
 (4) A Ktdt. 25. § (2) bekezdésében meghatározott visszaigénylő kötelezett nyilvántartásának tartalmaznia kell
 
@@ -18,7 +18,7 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) lakosságtól történő visszagyűjtés esetén a hasznosításra átadó nyilatkozatát az átadott mennyiség lakossági eredetéről.
 
-(5)[^69] A Ktdt. 40. § (6) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
+(5)[^71] A Ktdt. 40. § (6) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
 
 a) a termékdíj megfizetésének adatait,
 
@@ -26,7 +26,7 @@ b) a körforgásos termék KF kódját, tömegét és
 
 c) a kiterjesztett gyártói felelősségi díj megfizetésének napját és a díjról kiállított számla számát.
 
-[^66]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
-[^67]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^68]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^69]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 276/2023. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^68]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^69]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^70]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^71]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 276/2023. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
