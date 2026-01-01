@@ -6,6 +6,6 @@ b) egyéb esetben a szolgáltatás megrendelésekor a fogyasztó számára hozz�
 
 ## kell tájékoztatást adni.
 
-(2)[^17] Ha a vállalkozás valamely termék forgalmazásával közvetlen összefüggésben nyújtott szolgáltatásáért külön díjat számít fel (így különösen a felszolgálási, szállítási, kiszállási díjat), a külön díjat a termék árának feltüntetésére vonatkozó szabályok szerint, az érintett termék árával együtt (ugyanazon árkiíráson vagy árjegyzéken) kell feltüntetni.
+(2)[^21] Ha a vállalkozás valamely termék forgalmazásával közvetlen összefüggésben nyújtott szolgáltatásáért külön díjat számít fel (így különösen a felszolgálási, szállítási, kiszállási díjat), a külön díjat a termék árának feltüntetésére vonatkozó szabályok szerint, az érintett termék árával együtt (ugyanazon árkiíráson vagy árjegyzéken) kell feltüntetni.
 
-[^17]: A 6. § (2) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 7. §-a szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 7. §-a szerint módosított szöveg.

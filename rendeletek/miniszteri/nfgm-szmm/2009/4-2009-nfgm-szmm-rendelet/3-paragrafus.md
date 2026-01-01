@@ -1,4 +1,4 @@
-3. § (1)[^5] A termék egységárát, ha az nem egyezik meg a termék eladási árával,
+3. § (1)[^9] A termék egységárát, ha az nem egyezik meg a termék eladási árával,
 
 a) a terméken, annak csomagolásán vagy a termékhez egyéb módon rögzítve, vagy
 
@@ -22,4 +22,4 @@ e) az élelmiszerláncról és hatósági felügyeletéről szóló törvényben
 
 (3) Ha külön jogszabály meghatározott előrecsomagolt termék forgalmazása során a nettó tömeg mellett a töltő (lecsepegtetéssel meghatározott) tömeg feltüntetését is előírja, elegendő a töltő tömeg egységárának feltüntetése.
 
-[^5]: A 3. § (1) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 21/2009. (IX. 15.) NFGM–SZMM együttes rendelet 3. §-ával megállapított szöveg.

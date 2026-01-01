@@ -1,6 +1,6 @@
-## 11. §[^19] E rendelet a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 11. §[^23] E rendelet a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 4/2009. (I. 30.) NFGM–SZMM együttes rendelethez[^20]
+1. melléklet a 4/2009. (I. 30.) NFGM–SZMM együttes rendelethez[^24]
 
 ## Az üzemanyagárak összehasonlításának módszertana
 
@@ -30,5 +30,5 @@ A 2018/732 bizottsági végrehajtási rendelet alapján a figyelembe veendő üz
 
 A Nemzeti Adó- és Vámhivatal fogyasztási norma szerinti üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak havi közzétételére vonatkozó kötelezettségére támaszkodva, amelyet a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 82. § (2) bekezdése keletkeztet, az üzemanyagtöltő állomás üzemeltetője negyedévre levetítve összegzi a havi üzemanyagárakat, ez képzi az átlagos üzemanyagár kiszámításának alapját. Az azonos márkanév, megjelenés, arculat használatával értékesítő üzemanyagtöltő állomás-hálózatba tartozó elektromos töltőállomás üzemeltetője az elektromobilitási szolgáltatás esetében választása szerint a legalacsonyabb elektromobilitási szolgáltatási díjat a megelőző negyedévben a hálózat egészében alkalmazott legalacsonyabb elektromobilitási szolgáltatási díjak átlagolásával is meghatározhatja.
 
-[^19]: A 11. §-t a 48/2020. (XII. 11.) ITM rendelet 2. §-a iktatta be.
-[^20]: Az 1. mellékletet a 41/2021. (VIII. 31.) ITM rendelet 4. §-a iktatta be.
+[^23]: A 11. §-t a 48/2020. (XII. 11.) ITM rendelet 2. §-a iktatta be.
+[^24]: Az 1. mellékletet a 41/2021. (VIII. 31.) ITM rendelet 4. §-a iktatta be.

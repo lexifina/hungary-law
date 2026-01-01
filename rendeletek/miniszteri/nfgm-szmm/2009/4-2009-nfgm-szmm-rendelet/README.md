@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-2K
 | 2018-01-01 | 2009-4-20-2K.8 | 19/2017. (VII. 12.) NGM rendelet |
 | 2021-09-30 | 2009-4-20-2K.9 | 41/2021. (VIII. 31.) ITM rendelet |
 | 2022-05-28 | 2009-4-20-2K.10 | 48/2020. (XII. 11.) ITM rendelet |
+| 2026-01-01 | 2009-4-20-2K.11 | 63/2025. (XII. 30.) NGM rendelet |
