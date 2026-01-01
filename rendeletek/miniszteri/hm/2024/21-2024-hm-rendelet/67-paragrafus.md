@@ -1,5 +1,5 @@
 ## 46. Módosító rendelkezések
 
-67. §[^18]
+67. §[^40]
 
-[^18]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

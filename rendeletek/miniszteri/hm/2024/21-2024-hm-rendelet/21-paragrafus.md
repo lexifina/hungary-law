@@ -11,3 +11,7 @@ b) akinek a szolgálati viszonya vagy a honvédelmi alkalmazotti jogviszonya hó
 (3) A SZÉP juttatást utólag a tárgyhavi illetmény kifizetésével azonos napon kell jóváírni.
 
 (4) A SZÉP juttatást az átutaláshoz szükséges Széchenyi Pihenő Kártya számának honvédelmi szervezet részére történő bejelentését követő hónapban, a jogosultság fennállásától kezdődően, visszamenőleg kell biztosítani.
+
+(5)[^16] A SZÉP juttatás tekintetében felmerülő tartozás visszafizetését elsősorban a Széchenyi Pihenő Kártyáról történő visszavonással vagy a jogosultat megillető járandóságokból – hozzájárulásával – történő levonással szükséges rendezni. Ha a levonásra nincs mód, a visszafizetés a jogosult részéről átutalással vagy házipénztárba történő befizetéssel is történhet. Ha az állomány tagjának szolgálati viszonya a SZÉP juttatás jogszerű kifizetését követően önhibán kívüli okból szűnik meg, a kifizetett összeg nem követelhető vissza.
+
+[^16]: A 21. § (5) bekezdését a 15/2025. (XII. 19.) HM rendelet 2. §-a iktatta be.

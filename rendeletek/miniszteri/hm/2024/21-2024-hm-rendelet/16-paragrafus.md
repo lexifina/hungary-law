@@ -34,8 +34,10 @@ alapilletménynek megfelelő összeg.
 
 (5) A végkielégítést az (1) bekezdés a) pontja esetén a felmentési idő utolsó napján, az (1) bekezdés b) pontja esetén a szerződés lejártakor kell kifizetni. Ha a tiszti, altiszti állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel, vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
-a) ezt a tényt a korábban döntésre jogosult elöljáró köteles haladéktalanul írásban bejelenteni,
+a)[^8] ezt a tényt a korábban döntésre jogosult elöljáró részére köteles haladéktalanul írásban bejelenteni,
 
 b) a felmentési időből hátralevő idő tekintetében illetményre nem jogosult,
 
 c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
+
+[^8]: A 16. § (5) bekezdés a) pontja a 15/2025. (XII. 19.) HM rendelet 7. § d) pontja szerint módosított szöveg.

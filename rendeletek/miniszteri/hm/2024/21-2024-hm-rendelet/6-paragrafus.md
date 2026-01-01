@@ -10,6 +10,10 @@ b) évente legfeljebb három betoborzott személy után
 
 jogosult.
 
+(2a)[^5] Ismételt szolgálati viszony létesítése esetén a toborzópénz ugyanazon személy után öt éven belül csak egy alkalommal fizethető ki abban az esetben is, ha a szolgálati viszony létesítések különböző személyek közreműködésével valósultak meg.
+
 (3) Az (1) bekezdés szerinti nyilatkozatot a jelentkező a szerződéskötéskor köteles leadni.
 
 (4) A toborzópénzt az állomány tagja részére az (1) bekezdésben meghatározott időtartam leteltét követő második hónap 5. napjáig kell kifizetni.
+
+[^5]: A 6. § (2a) bekezdését a 15/2025. (XII. 19.) HM rendelet 1. §-a iktatta be.

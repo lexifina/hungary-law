@@ -1,6 +1,6 @@
 ## 6. A szerződéshosszabbítási díj
 
-7. § (1) Szerződéshosszabbítási díjra jogosult a legénységi állomány tagja a Hjkr. 13. § (1) bekezdése szerinti szerződéshosszabbítás esetén.
+7. § (1)[^6] Szerződéshosszabbítási díjra jogosult a legénységi állomány tagja a Hjkr. 13. § (1) bekezdése szerinti esetben, a szerződéshosszabbítást megelőző időszakra vállalt szolgálati idő lejártával.
 
 (2) Az (1) bekezdés szerinti díj összegét a letöltött szolgálati évek figyelembevételével számítva, a szolgálati viszony meghosszabbításával vállalt további évekhez tartozó értékek összeadásával kell megállapítani. Ezen érték vállalt évenként
 
@@ -50,7 +50,7 @@ b) a Hjkr. 15. § (3) bekezdése szerinti időtartam alatt a meghosszabbítást 
 
 alapilletmény alapján kell kiszámítani.
 
-(4) A szerződéshosszabbítási díjat legkésőbb a vállalt szolgálati idő meghosszabbításáról szóló szerződés aláírását követő hónapra járó illetménnyel együtt kell kifizetni.
+(4)[^7] A szerződéshosszabbítási díjat legkésőbb a szerződéshosszabbítást megelőző időszakra vállalt szolgálati idő lejártát követő hónapra járó illetménnyel együtt kell kifizetni.
 
 (5) A legénységi állomány tagja köteles visszafizetni a szolgálati viszonyának utolsó hosszabbításakor részére kifizetett szerződéshosszabbítási díj összegét, ha szolgálati viszonya a vállalt szolgálati idő letöltése előtt a Hjkr. 15. § (4) bekezdése szerinti, neki felróható okból szűnik meg.
 
@@ -61,3 +61,6 @@ alapilletmény alapján kell kiszámítani.
 (8) Nem jogosult szerződéshosszabbítási díjra a legénységi állomány tagja az Illetményrendelet 22. § (1)–(3) bekezdése szerinti illetmény-visszatartás időtartamára.
 
 (9) A szerződéshosszabbítási díjra a legénységi állomány tagja a mindenkori jegybanki alapkamattal növelt összegben az Illetményrendelet 22. § (4) bekezdése szerinti esetben utólag jogosult.
+
+[^6]: A 7. § (1) bekezdése a 15/2025. (XII. 19.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § (4) bekezdése a 15/2025. (XII. 19.) HM rendelet 7. § c) pontja szerint módosított szöveg.
