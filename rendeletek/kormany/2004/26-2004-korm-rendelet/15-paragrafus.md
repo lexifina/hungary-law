@@ -1,4 +1,4 @@
-## Az Európai Unió jogának való megfelelés[^67]
+## Az Európai Unió jogának való megfelelés[^68]
 
 ## 15. § Ez a rendelet
 
@@ -12,4 +12,4 @@ d) a gyógyszerek kiegészítő oltalmi tanúsítványáról szóló 469/2009/EK
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^67]: „Az Európai Unió jogának való megfelelés” alcímet (15. §) a 41/2022. (II. 15.) Korm. rendelet 7. §-a iktatta be.
+[^68]: „Az Európai Unió jogának való megfelelés” alcímet (15. §) a 41/2022. (II. 15.) Korm. rendelet 7. §-a iktatta be.

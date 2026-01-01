@@ -28,11 +28,14 @@ l) a hasznosítási engedélyeket.
 
 m)[^47] az (EU) 2019/933 európai parlamenti és tanácsi rendelet 1. cikk 2. pontja szerinti kivétel fennállását.
 
-(2)[^48] A tanúsítványlajstromra egyebekben az Szt.-nek a szabadalmi lajstromra vonatkozó rendelkezéseit (54–55. §-ok) kell megfelelően alkalmazni.
+(1a)[^48] A tanúsítványlajstrom – az (1) bekezdés d)–g) pontjában foglalt adatok kivételével – közhiteles nyilvántartásnak minősül.
+
+(2)[^49] A tanúsítványlajstromra egyebekben az Szt.-nek a szabadalmi lajstromra vonatkozó rendelkezéseit (54–55. §-ok) kell megfelelően alkalmazni.
 
 [^43]: A 6. §-t megelőző alcím a 272/2011. (XII. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^44]: A 6. § (1) bekezdés nyitó szövegrésze a 272/2011. (XII. 20.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^45]: A 6. § (1) bekezdés g) pontja a 41/2022. (II. 15.) Korm. rendelet 8. § 18. pontja szerint módosított szöveg.
 [^46]: A 6. § (1) bekezdésének h) pontja a 264/2007. (X. 10.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést csak a 2007. október 25. napját követően indult eljárásokban lehet alkalmazni.
 [^47]: A 6. § (1) bekezdés m) pontját a 41/2022. (II. 15.) Korm. rendelet 4. §-a iktatta be.
-[^48]: A 6. § (2) bekezdése a 272/2011. (XII. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^48]: A 6. § (1a) bekezdését a 342/2025. (X. 31.) Korm. rendelet 3. §-a iktatta be.
+[^49]: A 6. § (2) bekezdése a 272/2011. (XII. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

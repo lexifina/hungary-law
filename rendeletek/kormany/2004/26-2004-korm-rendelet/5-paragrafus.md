@@ -18,7 +18,7 @@ a) gyógyszerek tanúsítványa esetén a 469/2009/EK európai parlamenti és ta
 
 b) növényvédő szerek tanúsítványa esetén az 1610/96/EK európai parlamenti és tanácsi rendelet 17. cikk (2) bekezdése
 
-## alapján helyesbítheti.
+alapján helyesbítheti.
 
 (2b)[^39] A (2a) bekezdés szerinti helyesbítés iránti kérelem a tanúsítvány időtartamának lejárati napjáig nyújtható be.
 
