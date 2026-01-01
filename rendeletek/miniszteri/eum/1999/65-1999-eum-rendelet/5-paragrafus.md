@@ -20,6 +20,6 @@ védőeszközt, amelyet a védőeszközre meghatározott felhasználási határo
 
 d) figyelembe veszi a védőeszköz használatának egészségi (egyéni) alkalmassági feltételeit, illetve annak egészségi korlátjait.
 
-(3)[^4] Az egyes alkalmazható védőeszközök típusait és a védőeszköz használatával végezhető tevékenységek listáját a munkavédelmi hatóság a miniszter honlapján közzéteszi.
+(3)[^7] Az egyes alkalmazható védőeszközök típusait és a védőeszköz használatával végezhető tevékenységek listáját a munkavédelmi hatóság a miniszter honlapján közzéteszi.
 
-[^4]: Az 5. § (3) bekezdése a 32/2021. (VII. 26.) ITM rendelet 9. §-ával megállapított szöveg.
+[^7]: Az 5. § (3) bekezdése a 32/2021. (VII. 26.) ITM rendelet 9. §-ával megállapított szöveg.
