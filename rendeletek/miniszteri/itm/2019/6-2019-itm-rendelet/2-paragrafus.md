@@ -12,7 +12,7 @@ c) a Magyar Szabványügyi Testület,
 
 d) az Építési Vállalkozók Országos Szakszövetsége,
 
-e) az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉMI Nonprofit Kft.),
+e)[^1] a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI),
 
 f) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Nonprofit Kft.),
 
@@ -25,3 +25,5 @@ i) az építésügyi szabályozásért és építéshatósági ügyekért felel�
 ## által delegált egy-egy személy.
 
 (4) A Bizottság elnöke és tagjai az e rendelet szerinti feladataikat díjazás nélkül látják el.
+
+[^1]: A 2. § (3) bekezdés e) pontja a 47/2025. (XII. 29.) ÉKM rendelet 6. § a) pontja szerint módosított szöveg.
