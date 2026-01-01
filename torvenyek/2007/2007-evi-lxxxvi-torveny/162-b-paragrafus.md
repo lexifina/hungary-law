@@ -7,3 +7,5 @@
 (2a) Az együttműködés magában foglalja a REMIT és a REMIT módosítás alapján az ACER-hez beérkező információk nemzeti szintű megosztását, valamint ehhez kapcsolódóan az adatok jogszerű megosztását biztosító, olyan mechanizmusok kialakítását, amely megfelel a REMIT-ben és a REMIT módosításában foglalt, továbbá az ACER által meghatározott elvárásoknak.
 
 (3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az Ákr. szerinti védett adathoz fűződő érdekek ne sérüljenek.
+
+(4) Az állami adó- és vámhatóság minden év január 31. napjáig a Hivatal rendelkezésére bocsátja a tárgyévet megelőző évben köztartozással érintettek listáját a köztartozással érintett időszak megjelölésével. Az adatszolgáltatás teljesítése érdekében a Hivatal minden év december 31. napjáig az állami adó- és vámhatóság részére megküldi az ellenőrzéssel érintettek nevét és adószámát.

@@ -1,5 +1,3 @@
-171/A. § (1) Az elosztó hálózati engedélyesek a villamosenergia-kereskedőkkel egyeztetve kidolgozott adatcsere-szabályzatot első alkalommal a 69. § (2) bekezdés hatálybalépését követő 90 napon belül nyújtja be jóváhagyásra a Hivatalhoz.
+171/A. § (1) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2025. évi XCVI. törvénnyel (a továbbiakban: Mód.tv.) megállapított 75. § (3) bekezdés g) pontját a hatálybalépésekor hatályos engedéllyel rendelkezők tekintetében is alkalmazni kell.
 
-(2) Az elosztó hálózati engedélyesek az (1) bekezdésben meghatározott határidőig az elosztói szabályzatot – 69. § (2) bekezdésében foglaltakra figyelemmel – felülvizsgálják és jóváhagyásra benyújtják a Hivatalhoz.
-
-(3) Az (1) bekezdés alapján jóváhagyott adatcsere-szabályzat hatálybalépéséig az elosztói szabályzat adatcserére vonatkozó előírásai alkalmazandók.
+(2) E törvénynek a Mód.tv.-vel megállapított 131/A. §-át a Mód.tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

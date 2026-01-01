@@ -1,4 +1,4 @@
-66/E. § (1) A Hivatal az aggregátorokról nyilvántartást vezet, amely – jogi személyek azonosító adatai kivételével – közhiteles hatósági nyilvántartásnak minősül. A jogi személy a Hivatal nyilvántartásba történő bejegyzése napjától minősül aggregátornak.
+66/E. § (1) A Hivatal az aggregátorokról nyilvántartást vezet, amely a (2) bekezdés a) pontja szerinti adat tekintetében közhiteles hatósági nyilvántartásnak minősül. A jogi személy a Hivatal nyilvántartásba történő bejegyzése napjától minősül aggregátornak.
 
 (2) A nyilvántartás tartalmazza az aggregátor
 

@@ -88,9 +88,9 @@
 
 42. az egyetemes szolgáltatás keretében történő villamosenergia-vásárláshoz való jogosultság szempontjából az egyetemes szolgáltatóhoz tett igénybejelentésük esetén közszolgáltatásra jogosult központi költségvetési szervek és közfeladatot ellátó intézmények, helyi önkormányzatok közfeladatot ellátó költségvetési intézményei, közfeladatot ellátó egyházi jogi személyek, valamint közfeladatot ellátó alapítványi fenntartású intézmények körét,
 
-43. a hálózatfejlesztési tervre vonatkozó szempontrendszert,
+43. a hálózatfejlesztési tervre vonatkozó szempontrendszert, valamint a hálózatfejlesztési terv készítési kötelezettség nem teljesítésének és a hálózatfejlesztési tervben foglaltak végre nem hajtásának jogkövetkezményeit,
 
-44.
+44. a vasúti felsővezetéki rendszerről vételezett villamos energia szolgáltatására, mérésére és elszámolására, valamint a vasúti társaság, a pályahálózat-működtető, a hálózati engedélyes és a villamosenergia-kereskedő jogaira és kötelezettségeire vonatkozó részletes szabályokat,
 
 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 
@@ -114,7 +114,7 @@
 
 55. az átviteli rendszerirányító és az elosztó hálózati engedélyesek által a villamosenergia-rendszer üzembiztonságára tekintettel a nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás megtagadásának feltételeit és a nagy- vagy középfeszültségű hálózatra csatlakozni kívánó termelők részére kiosztható szabad kapacitások meghatározásának módjára vonatkozó szabályokat
 
-56. az energetikai adatszolgáltató platform működtetőjének kijelölését, a működtetésére vonatkozó részletes szabályokat, a háztartási méretű kiserőművek nem elszámolási célú adatok és azok műszaki jellemzői meghatározását, valamint az energetikai adatszolgáltató platform által nyújtott szolgáltatások díját,
+56. az energetikai adatszolgáltató platform működtetőjének kijelölését, a működtetésére vonatkozó részletes szabályokat, a háztartási méretű kiserőművek nem elszámolási célú adatok és azok műszaki jellemzői meghatározását,
 
 57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait, továbbá a 45/A. § (4) bekezdése szerinti adatok műszaki jellemzőinek meghatározását és az azokhoz való hozzáférés, átadás részletes szabályait,
 
@@ -125,6 +125,12 @@
 60. a betáplálásra irányuló hálózati hozzáférés szabályainak részletszabályit, valamint a miniszternek a 35/A. § (2) bekezdésben meghatározott feladatának végrehajtását segítő szerv létrehozására, működésére, feladat- és hatáskörére, valamint tagjaira vonatkozó részletszabályokat,
 
 61. a zöldtöltés-igazolási rendszerre vonatkozó részletes szabályokat, az igazolás kiállítására, jóváírására, nyilvántartására, átruházására, felhasználására, ellenőrzésére, kijavítására, módosítására és törlésére, az elektromostöltőberendezés-üzemeltető jogaira és kötelezettségeire vonatkozó szabályokat,
+
+62. a hálózati engedélyes energetikai adatszolgáltató platformot működtető engedélyes útján teljesítendő feladatainak körét, feltételeit, a feladatok teljesítéséhez szükséges adatszolgáltatás és a feladatok ellátásának részletes szabályait, a 24. § (7) bekezdése szerinti szolgáltatási szerződés tartalmi elemeit és a szerződéskötés, valamint az együttműködés részletes szabályait,
+
+63. az adathozzáférési tisztviselő feladataira vonatkozó részletes szabályokat,
+
+64. a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának, valamint a villamosenergia-tárolók bevételkompenzációjának a finanszírozásához szükséges pénzeszköz esetében a fizetési kötelezettség alapjául szolgáló villamosenergia-mennyiség megállapítási módjára vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -144,7 +150,7 @@ rendeletben állapítsa meg.
 
 7. az engedélyesek e törvény szerinti engedélyköteles tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
 
-8. a felhasználók mérési adataihoz történő hozzáférés szabályait, az adatok formátumát, a mérési adatok felhasználók, valamint a villamosenergia-kereskedők részére történő átadásával kapcsolatos eljárás rendjét,
+8. az (EU) 2023/1162 bizottsági végrehajtási rendelet szerinti közel valós idejű mérési és fogyasztási adatok – a felhasználó és a felhasználó hozzájáruló nyilatkozatával rendelkező jogosult fél részére történő – hozzáférésének szabályait, az adatok formátumát, az adatokhoz való hozzáférés módját és eljárásrendjét,
 
 9. a megújuló energiaforrásokból nyert energiával termelt energiára vonatkozó származási garanciára figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
 
@@ -204,6 +210,10 @@ rendeletben állapítsa meg.
 
 5. a villamosművet, termelői, magán- vagy közvetlen vezetéket körülvevő biztonsági övezetre vonatkozó szabályokat, az ott érvényesítendő tilalmakat és korlátozásokat, a vezetékjog alapján építhető átalakító- és kapcsolóberendezések körét
 
+6. a villamos biztonsági felülvizsgálat folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+
+7. az adópolitikáért felelős miniszterrel egyetértésben a villamos biztonsági felülvizsgálatot végző szolgáltatók nyilvántartásba vételéért és a nyilvántartás vezetésével kapcsolatos feladatok ellátásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+
 rendeletben állapítsa meg.
 
 (4)
@@ -238,7 +248,7 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 
 9. a hálózati engedélyes által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
 
-10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.
+10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.
 
 11. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának módjára és tartalmára vonatkozó részletes szabályokat.
 
@@ -255,3 +265,7 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 17. a villamosenergia-tárolók bevételkompenzációja tekintetében a bevételkompenzáció kiszámításának részletszabályait, a bevételkompenzáció meghatározásához szükséges referencia nettó bevétel kiszámításának módját és az annak felülvizsgálatához kapcsolódó szabályokat, a bevételkompenzáció alkalmazásának feltételeire és elszámolására, valamint a bevételkompenzációra jogosult adatszolgáltatási kötelezettségének adattartalmára, teljesítésére és egyéb részleteire vonatkozó szabályokat,
 
 18. a lakossági piaci árat és annak áralkalmazási feltételeit.
+
+19. az energetikai adatszolgáltató platform díját és áralkalmazási feltételeit,
+
+20. a hálózatfejlesztési terv tartalmi és formai követelményeit, benyújtásának gyakoriságát és határidejét, valamint a hálózatfejlesztési terv tervezetének rendszerhasználókkal való egyeztetésére és az egyeztetés eredményének közzétételére vonatkozó eljárásrend részletes szabályait.

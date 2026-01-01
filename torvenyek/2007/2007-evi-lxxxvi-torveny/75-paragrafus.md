@@ -16,4 +16,8 @@ e) a kérelmező, vagy jogelődje 74. § (1) bekezdés b)–i) pontja szerinti e
 
 f) a kérelmező megtévesztő vagy valótlan adatot közölt.
 
+g) a kérelmező az adózás rendjéről szóló törvény alapján nem minősül köztartozásmentes adózónak.
+
 (4) A működési engedély meghosszabbítására az engedély megadására vonatkozó szabályokat kell alkalmazni. A kiserőművi összevont engedély és a termelői működési engedély időbeli hatályát legkorábban az engedély lejárta előtt két évvel – atomerőmű és széntüzelésű erőmű esetén öt évvel – korábban lehet meghosszabbítani. A kiserőművi összevont engedély és a termelői működési engedély időbeli hatálya meghosszabbítására irányuló kérelmet legkésőbb az engedély lejárta előtt 180 nappal korábban kell benyújtani.
+
+(5) Megújuló energiaforrást hasznosító erőmű esetén a kiserőművi összevont engedély és a termelői működési engedély időbeli hatályának meghosszabbítása annak lejárta időpontjára tekintet nélkül kérelmezhető, amennyiben az érintett erőművi kapacitás hosszútávú megőrzése a megújuló energiaforrásból történő villamosenergia-termelés elősegítéséhez és integrációjához szükséges, feltéve, hogy a termelői engedélyes benyújtja az engedély időbeli hatályának módosításához szükséges független műszaki szakértői véleményt és vállalja a szakértői véleményben meghatározott műszaki beruházások teljesítését. Az engedély időbeli hatályának meghosszabbítása esetén a Hivatal határozatában működést biztosító feltételeket szabhat, valamint ellenőrzi az általa előírt feltételek és műszaki beruházások határidőben történő teljesítését.

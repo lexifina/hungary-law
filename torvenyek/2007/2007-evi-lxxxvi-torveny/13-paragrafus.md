@@ -12,7 +12,13 @@ ba) a villamosenergia-kereskedelmi szolgáltatást a villamos energia egyetemes 
 
 bb) az egyetemes szolgáltatás keretében ellátott felhasználó által igénybe vehető, a Vhr.-ben meghatározott szolgáltatásokat biztosítja.
 
-c) aktív felhasználó vagy energiaközösség megújuló energiaforrásból termelt és megosztott.
+c) aktív felhasználó vagy energiaközösség megújuló energiaforrásból termelt és megosztott, a Vhr.-ben meghatározott mértékben és feltételek szerint,
+
+d) a villamosenergia-tároló részére értékesítettek a Vhr.-ben meghatározott mértékben és feltételek szerint,
+
+e) ugyanazon csatlakozási pont mögött, közcélú hálózat igénybe vétele nélkül értékesítettek, a Vhr.-ben meghatározott mértékben és feltételek szerint.
+
+(3a) A (3) bekezdésben meghatározott mentességi feltételek részletszabályait és a feltételek teljesülésének igazolási módját a Vhr. határozza meg.
 
 (4) A (3) bekezdés b) pont ba) alpontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
 

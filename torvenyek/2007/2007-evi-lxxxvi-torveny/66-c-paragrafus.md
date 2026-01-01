@@ -1,4 +1,4 @@
-66/C. § (1) A Hivatal az energiaközösségekről nyilvántartást vezet, amely – jogi személyek azonosító adatai kivételével – közhiteles hatósági nyilvántartásnak minősül. Az adott jogi személy a nyilvántartásba történő bejegyzés napjától minősül energiaközösségnek.
+66/C. § (1) A Hivatal az energiaközösségekről nyilvántartást vezet, amely a (2) bekezdés a) és g)–i) pontja szerinti adat tekintetében közhiteles hatósági nyilvántartásnak minősül. Az adott jogi személy a nyilvántartásba történő bejegyzés napjától minősül energiaközösségnek.
 
 (2) A nyilvántartás tartalmazza az energiaközösség
 

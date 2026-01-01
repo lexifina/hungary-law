@@ -1,8 +1,8 @@
-141. § (1) E Fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 146/A. § (1) bekezdése szerinti csatlakozási díj, a 146. § (1) és (4) bekezdése szerinti külön díj, valamint az egyetemes szolgáltatás 145. § (3) és (3a) bekezdése szerinti ára.
+141. § (1) E Fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 143/A. § (1) bekezdése szerinti adatszolgáltatási platform díj, a 146/A. § (1) bekezdése szerinti csatlakozási díj, a 146. § (1) és (4) bekezdése szerinti külön díj, valamint az egyetemes szolgáltatás 145. § (3) és (3a) bekezdése szerinti ára.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
-(3) A hatósági árhoz kapcsolódó áralkalmazási feltételeket az ár megállapítója rendeletben határozza meg.
+(3) A hatósági árhoz kapcsolódó áralkalmazási feltételeket az ár megállapítója az e törvény végrehajtására kiadott rendeletében határozza meg.
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
@@ -30,6 +30,6 @@ c) a költség- és árbevétel-struktúra átláthatóságát nyilvántartási 
 
 a) megtiltja a jogszabályt sértő ár, illetve díj további alkalmazását és kötelezi az engedélyest a jogszerű ellenérték alkalmazására,
 
-b) kötelezi az engedélyest a 142–146/A. §-ban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyidőszaki átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
+b) kötelezi az engedélyest a 142–146/A. §-ban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyidőszaki átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók, engedélyesek részére történő visszatérítésére, és
 
 c) a kormányrendeletben meghatározott mértékű bírságot szab ki.

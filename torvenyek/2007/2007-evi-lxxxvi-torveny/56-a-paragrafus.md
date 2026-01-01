@@ -17,3 +17,7 @@
 (6) A felhasználók tájékoztatását szolgáló, a Hivatal által működtetett független, egyértelmű és objektív összehasonlító eszközhöz a felhasználó díjmentesen fér hozzá.
 
 (7) A villamosenergia-kereskedő a honlapján közzéteszi a (6) bekezdés szerinti, a Hivatal által működtetett összehasonlító eszköz elérhetőségét.
+
+(8) Az átviteli rendszerirányító és az elosztó a működési területén szolgáltatott villamos energiáról az (EU) 2019/943 európai parlamenti és tanácsi rendelet 2. cikk 65. pontja szerinti ajánlattételi övezetek szerinti bontásban és a piaci elszámolás gyakoriságával azonos, de legfeljebb egyórás időközönként, az e törvény végrehajtására kiadott kormányrendeletben meghatározott elektronikus formában és módon elérhetővé teszi a megújuló villamos energia részarányra és az üvegházhatásúgáz-kibocsátás tartalomra vonatkozó adatokat.
+
+(9) A háztartási és ipari villamosenergia-tároló, valamint az elektromos meghajtású gépjármű villamosenergia-tárolójának tulajdonosa, üzemeltetője és az általuk felhatalmazott harmadik személy jogosult megkülönböztetésmentes feltételek mellett és költségmentesen, közel valós időben hozzáférni a villamosenergia-tároló töltöttségi és üzemi állapotára vonatkozó alapvető adatokhoz. A hozzáférés módjára és az alapvető adatok körére vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.

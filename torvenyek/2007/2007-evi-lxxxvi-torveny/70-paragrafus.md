@@ -10,7 +10,7 @@
 
 (5a) Ha a nemzetközi üzemi és kereskedelmi szabályzat valamely rendelkezése ugyanazon szabályozási tárgykör esetében eltérő szabályokat állapít meg, mint a többi villamosenergia-ellátási szabályzat, akkor a szabályozás összhangja érdekében a 67/A. § rendelkezései alapján kell eljárni.
 
-(6) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés eredménytelensége esetén a villamosenergia-ellátási szabályzatot a nemzetközi üzemi és kereskedelmi szabályzat kivételével határozattal hivatalból módosíthatja, ha a szabályzat akadályozza a hatékony versenyt, az árszabályozásra vonatkozó rendelkezések érvényesülését, vagy indokolatlan megkülönböztetések alkalmazását teszi lehetővé.
+(6) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés eredménytelensége esetén a villamosenergia-ellátási szabályzatot a nemzetközi üzemi és kereskedelmi szabályzat kivételével hivatalból módosíthatja, ha a villamosenergia-ellátási szabályzat akadályozza a hatékony versenyt, az árszabályozásra vonatkozó rendelkezések érvényesülését, indokolatlan megkülönböztetés alkalmazását teszi lehetővé vagy a felhasználó hozzájáruló nyilatkozatával rendelkező jogosult félre aránytalan adminisztratív terhet ír elő.
 
 (7) A villamosenergia-ellátási szabályzatokat és azok módosításait a Hivatal jóváhagyó határozatával együtt az elkészítésükért felelős engedélyesek a honlapjukon – mindenkor hatályos egységes szerkezetbe foglalt szöveggel – közzéteszik.
 

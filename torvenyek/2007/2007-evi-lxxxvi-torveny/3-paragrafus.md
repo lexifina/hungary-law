@@ -196,7 +196,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
-49a.
+49a. Összevont menetrendadási szerződés: azonos mérlegkörbe tartozó rendszerhasználók menetrendadással kapcsolatos jogainak közös gyakorlását, illetve kötelezettségeinek közös teljesítését rögzítő megállapodás;
 
 49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
 
@@ -317,3 +317,9 @@ történő értékesítése vagy ellenérték nélküli átadása;
 81. Tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontjában meghatározott személy.
 
 82. Zöldtöltés-igazolási rendszer: a közúti közlekedésről szóló törvény szerinti elektromos töltőberendezésen értékesített megújuló villamos energia mennyiségét igazoló előírások és eljárások összessége.
+
+83. Innovatív megújulóenergia-technológia: olyan megújuló energiaforrást hasznosító villamosenergia-termelési technológia, amely legalább egy szempontból előrelépést jelent a hasonló korszerű technológiákhoz képest, vagy amely révén felhasználhatóvá válik az egyébként kereskedelmi alapú működésre még nem alkalmas vagy túl kockázatos termelési technológia;
+
+84. Jogosult fél: az (EU) 2023/1162 bizottsági végrehajtási rendelet szerinti jogosult fél;
+
+85. Közös elhelyezésű energiatárolás: olyan villamosenergia-tároló, amely a közcélú hálózatra megújuló forrásból villamos energiát termelő erőművel ugyanazon csatlakozási ponton keresztül kapcsolódik, illetve csatlakozik.

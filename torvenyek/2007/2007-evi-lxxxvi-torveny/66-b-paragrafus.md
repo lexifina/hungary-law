@@ -4,11 +4,13 @@
 
 (1a) A megújulóenergia-közösségre az energiaközösségre vonatkozó szabályokat kell alkalmazni azzal, hogy a megújulóenergia-közösség olyan energiaközösség, amely megújuló energiaforrásból termel villamos energiát, ilyen villamos energiát fogyaszt, tárol vagy értékesít. A megújulóenergia-közösség tényleges irányítását azon tag vagy tagok látják el, amelyek felhasználási helyeinek csatlakozási pontjai a megújulóenergia-közösség tulajdonában álló villamosenergia-tároló és erőmű csatlakozási pontjaival ugyanazon nagy/középfeszültségű transzformátorállomási körzetben helyezkednek el.
 
-(2) Az energiaközösség nem végezhet a 74. § (1) bekezdés c), d), f) és g) pontja szerinti tevékenységeket. Az energiaközösség a megfelelő engedély birtokában a 74. § (1) bekezdés a), b), e) és h–l) pontja szerinti tevékenységeket végezheti.
+(2) Az energiaközösség nem végezhet a 74. § (1) bekezdés c), d), f), g) és k) pontja szerinti tevékenységet. Az energiaközösség a megfelelő engedély birtokában végezheti a 74. § (1) bekezdés a), b), e), h–j) és l) pontja szerinti tevékenységeket.
 
 (3) Az energiaközösség e törvény által szabályozott tevékenységét érintően nem vehet részt határon átnyúló együttműködésben.
 
 (4) Az energiaközösségben történő részvétel nem érintheti hátrányosan a felhasználó e törvényben szabályozott megszerzett jogait és kötelezettségeit.
+
+(4a) Az energiaközösség a tagjai számára beszerzési megbízotti és megosztási hozzárendelési szolgáltatást is nyújthat.
 
 (5) Az a természetes vagy jogi személy, aki foglalkozását vagy elsődleges gazdasági tevékenységét a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1893/2006/EK rendelet) I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, vagy olyan jogi személyben rendelkezik egyedüli vagy többségi tulajdonnal, meghatározó befolyással, illetve olyan jogi személy vezető tisztségviselője vagy kapcsolt vállalkozása, amely főtevékenységét az 1893/2006/EK rendelet I. melléklete szerinti villamosenergia, gázellátás területén fejti ki, nem lehet az energiaközösség ügyvezetését egyedül vagy – amennyiben az energiaközösség ügyvezetését több személyből álló testület látja el – többségben ellátó tagja.
 

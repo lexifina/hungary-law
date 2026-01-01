@@ -1,8 +1,8 @@
 ## A termelői vezeték és csatlakozási pont közös használata
 
-39/G. § (1) Ha a termelői vezetékre több olyan, legalább 0,5 MW névleges teljesítményű erőmű – ide nem értve a háztartási méretű kiserőművet –, vagy több villamosenergia-tároló csatlakozik, amelyeknek nem ugyanaz a természetes vagy jogi személy a tulajdonosa, az erőművek vagy villamosenergia-tárolók a termelői vezeték és csatlakozási pont használatára vonatkozóan megállapodást kötnek.
+39/G. § (1) Ha a termelői vezetékre olyan erőmű – ide nem értve a háztartási méretű kiserőművet – vagy villamosenergia-tároló is kapcsolódik, amelynek nem ugyanaz a tulajdonosa, mint a termelői vezetéké, az érintettek a termelői vezeték és a csatlakozási pont közös használatára vonatkozóan megállapodást kötnek.
 
-(2) A termelői vezeték és csatlakozási pont közös használatára vonatkozóan megállapodást a felek a megállapodás megküldésével a Hivatalnak bejelentik.
+(2) Ha a termelői vezetékre legalább 0,5 MW névleges teljesítményű erőmű vagy legalább 0,5 MW névleges teljesítményű villamosenergia-tároló csatlakozik, akkor az (1) bekezdés szerinti megállapodást a felek – a megállapodás megküldésével – a Hivatalnak bejelentik.
 
 (3) A termelői vezeték használatára vonatkozó megállapodás minimális tartalmi elemeit a Kormány e törvény végrehajtására kiadott rendeletben állapítja meg.
 

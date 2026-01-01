@@ -22,7 +22,7 @@
 
 10. a 37. §-ban meghatározott szabályok szerint dönt a rendszerösszekötő vezeték tekintetében benyújtott mentesítési kérelemről,
 
-11. a Vhr.-ben meghatározott szempontrendszer alapján jóváhagyja az átviteli rendszerirányító által készített hálózatfejlesztési tervet, figyelemmel kíséri annak megvalósítását és évente értékeli azt,
+11. jóváhagyja a hálózati engedélyes által készített hálózatfejlesztési tervet, figyelemmel kíséri annak megvalósítását és évente értékeli azt,
 
 12. a 8. § (1) bekezdésének rendelkezései szerint erőmű létesítésére, illetve keresletoldali szabályozási intézkedésekre, a 26. § (1) bekezdése szerint a hálózat fejlesztésére pályázatot írhat ki, a 26/A. § (1) bekezdése szerint az átviteli hálózat fejlesztésére pályázatot ír ki, és elbírálja azokat,
 
@@ -110,6 +110,8 @@
 
 5. tájékoztatást nyújt a felhasználók részére a jogaikra, az alkalmazandó jogszabályokra és a jogvita esetén rendelkezésükre álló vitarendezési mechanizmusokra vonatkozóan.
 
+6. figyelemmel kíséri és azonosítja a mérési és fogyasztási adatokhoz való hozzáférés vonatkozásában az (EU) 2023/1162 bizottsági végrehajtási rendelet alapján a felhasználót megillető jogok érvényesülésével kapcsolatos gyakorlatokat.
+
 (6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 
 1. eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
@@ -129,3 +131,5 @@ a) a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/
 b) az (EU) 2019/943 európai parlamenti és tanácsi rendeletnek a határkeresztező villamosenergia-áramlás kiberbiztonsági szempontjaira vonatkozó ágazatspecifikus szabályokról szóló üzemi és kereskedelmi szabályzat létrehozása révén történő kiegészítéséről szóló, 2024. március 11-i (EU) 2024/1366 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: NCCS) 4. cikk (1) bekezdése szerinti illetékes hatóság feladatait.
 
 c) a zöldtöltés-igazolási rendszer működtetését és ellenőrzését.
+
+d) jogszabály eltérő rendelkezése hiányában a felhasználó hozzájáruló nyilatkozata alapján történő, a mérési és fogyasztási adatok rendelkezésre bocsátására irányuló eljárások vonatkozásában az (EU) 2023/1162 bizottsági végrehajtási rendeletben foglalt szabályok alkalmazásának ellenőrzését.
