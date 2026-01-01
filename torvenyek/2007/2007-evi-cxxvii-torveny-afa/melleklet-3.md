@@ -792,6 +792,34 @@ Jogszabályban meghatározott rozsdaövezeti akcióterületen található földr
 
 |
 
+|
+
+60.
+
+|
+
+Háziasított szarvasmarha élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva
+
+|
+
+0201 20 90-ből
+
+0201 30 00-ból
+
+0202 20 90-ből
+
+0202 30 50-ből
+
+0202 30 90-ből
+
+0206 10-ből
+
+0206 21 00-ból
+
+0206 22 00-ból
+
+0206 29-ből
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |

@@ -30,7 +30,7 @@ a) mindegyike belföldön nyilvántartásba vett adóalany legyen, valamint
 
 b) egyikének se legyen olyan, e törvényben szabályozott jogállása, amelynek alapján tőle adó fizetése ne lenne követelhető.
 
-(4) A (3) bekezdés a) pontjának alkalmazásában – akár termék értékesítője, szolgáltatás nyújtója vagy termék beszerzője, szolgáltatás igénybevevője minőségében, akár mindkét minőségben egyaránt – belföldön nyilvántartásba vett adóalany az Eva. hatálya alá tartozó személy, szervezet is.
+(4)
 
 (5) Az érintettség valószínűsítése mellett az ügylet teljesítésében érintett bármelyik fél kérheti
 

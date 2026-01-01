@@ -1,6 +1,6 @@
 120. § Abban a mértékben, amilyen mértékben az adóalany – ilyen minőségében – a terméket, szolgáltatást adóköteles termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, jogosult arra, hogy az általa fizetendő adóból levonja azt az adót, amelyet
 
-a) termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan egy másik adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – rá áthárított;
+a) termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan egy másik adóalany rá áthárított
 
 b) termék beszerzéséhez – ideértve a termék Közösségen belüli beszerzését is –, szolgáltatás igénybevételéhez – ideértve az előleget is, ha az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti – kapcsolódóan fizetendő adóként megállapított;
 
