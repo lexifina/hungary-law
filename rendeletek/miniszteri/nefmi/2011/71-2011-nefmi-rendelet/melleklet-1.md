@@ -372,6 +372,30 @@ VII.[^7] Dentoalveoláris sebészet
 
 ## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
 
+## TA 224 Fogeltávolítás orthodonciai célból
+
+## Fog vagy gyökér eltávolítása fogóval, emelővel fogszabályzó szakorvos indikációja és beutalója alapján. Vérzéscsillapítás, sebellátás egy ülésben.
+
+## A beteg dokumentációjában a fogszabályozó szakorvos beutalóját meg kell őrizni és ellenőrzés során be kell tudni mutatni.
+
+## Elszámolható: foganként, a fog jelölésével.
+
+## Együtt nem elszámolható: TA 135 kóddal.
+
+## Együtt nem elszámolható ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 098, FA 100, FA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 222, FA 116, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TA 135, TB 141, TB 142, FA 147, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, FA 181, TA 190, TA 192, TA 193, TA 194, FA 195, TA 197, TA 198 és TA 225 kódokkal.
+
+## TA 225 Fogeltávolítás gócvizsgálat eredményét követően vagy anamnézisben szereplő alapbetegség és annak kezelése miatt
+
+## Fog vagy gyökér eltávolítása fogóval, emelővel általános orvos beutalója alapján végzett gócvizsgálatot követően. Vérzéscsillapítás, sebellátás egy ülésben.
+
+## Ide tartozik a gócvizsgálat eredményét követő fogeltávolításon túl a biszfoszfonát (vagy egyéb antirezorbtív) kezelést megelőző (BNO M8190-Osteoporosis), illetve kemoterápiát és/vagy sugárkezelést megelőző fogeltávolítások (BNO Y8420-Radiológiai eljárások és sugárterápia). Ezekben az esetekben a BNO egyidejű rögzítése szükséges, valamint az általános orvos beutalóját és a készült röntgenfelvételt/felvételeket meg kell őrizni és ellenőrzés során be kell tudni mutatni.
+
+## Elszámolható: foganként, a fog jelölésével.
+
+## Együtt nem elszámolható: TA 135 kóddal.
+
+## Együtt nem elszámolható ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 098, FA 100, FA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 222, FA 116, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TA 135, TB 141, TB 142, FA 147, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, FA 181, TA 190, TA 192, TA 193, TA 194, FA 195, TA 197, TA 198 és TA 224 kódokkal.
+
 ## TB 131 Fogeltávolítás feltárással
 
 ## Műtéti feltárással végzett fog- vagy gyökéreltávolítás, sebellátással, vérzéscsillapítással. Röntgenfelvétel készítése és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti archiválása – kivéve sürgősségi ellátás – kötelező.
@@ -796,6 +820,6 @@ X. Fogszabályozási szolgáltatások
 
 [^5]: Az 1. melléklet I. alcíme a 31/2025. (VII. 31.) BM rendelet 5. §-a szerint módosított szöveg.
 [^6]: Az 1. melléklet V. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^7]: Az 1. melléklet VII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet VII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a, az 51/2025. (XII. 22.) BM rendelet 7. §-a szerint módosított szöveg.
 [^8]: Az 1. melléklet VIII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
 [^9]: [Nem vezethető át a 16/2023. (VI. 14.) BM rendelet 8. §-ában foglalt azon módosítás, amely szerint az 1. melléklet IX. pont „TA 197 Tejfogtömés – egy felszínen” megjelölésű részében az „Elszámolható: foganként” szövegrész helyébe az „Elszámolható: tejfoganként” szöveg lép.]
