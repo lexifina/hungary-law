@@ -1,10 +1,10 @@
-20. § (1)[^82]
+20. § (1)[^77]
 
 (2) A berendezések rendszeres karbantartásának tartalmát a gyártó határozza meg, és az ezt tartalmazó karbantartási utasítást az üzemeltető rendelkezésére bocsátja. Ennek hiányában a karbantartás tartalmát a 29. §-ban foglaltak figyelembevételével a vonatkozó szabványok határozzák meg.
 
-(3)[^83] A berendezések karbantartását a gyártói utasításban foglaltak szerinti gyakorisággal kell végezni. Ha a gyártói utasítás másként nem rendelkezik, két egymást követő karbantartás között a 20 évesnél nem régebben üzembe helyezett vagy felújított berendezés esetében 70 naptári nap, egyéb esetben 35 naptári nap telhet el.
+(3)[^78] A berendezések karbantartását a gyártói utasításban foglaltak szerinti gyakorisággal kell végezni. Ha a gyártói utasítás másként nem rendelkezik, két egymást követő karbantartás között a 20 évesnél nem régebben üzembe helyezett vagy felújított berendezés esetében 70 naptári nap, egyéb esetben 35 naptári nap telhet el.
 
-(4)[^84]
+(4)[^79]
 
 (5) A karbantartó vállalkozás felelős az általa végzett munkáért, és értékarányos felelősségbiztosítással kell rendelkeznie.
 
@@ -12,6 +12,6 @@
 
 (7) Ha a berendezést a karbantartó vállalkozás szerelője állította le, a berendezés ismételt üzembe helyezéséig másik karbantartó vállalkozás nem bízható meg.
 
-[^82]: A 20. § (1) bekezdését a 447/2021. (VII. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^83]: A 20. § (3) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^84]: A 20. § (4) bekezdését a 280/2015. (IX. 22.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
+[^77]: A 20. § (1) bekezdését a 447/2021. (VII. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^78]: A 20. § (3) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^79]: A 20. § (4) bekezdését a 280/2015. (IX. 22.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
