@@ -1,0 +1,9 @@
+# 47/2025. (XII. 29.) ÉKM rendelet
+
+az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság megszűnésével összefüggő miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-47-20-8X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-01-01 | 2025-47-20-8X.1 | 47/2025. (XII. 29.) ÉKM rendelet |
