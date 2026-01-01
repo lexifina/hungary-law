@@ -36,7 +36,13 @@ azzal, hogy ha a változás érinti az alkalmazott mentőegység típusát, ille
 
 (3b)[^131] Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett változás hatósági nyilvántartásba vételéről a működési engedélyt kiadó egészségügyi államigazgatási szerv 8 napon belül elektronikus úton tájékoztatást küld a bejelentő és a Nemzeti Egészségbiztosítási Alapkezelő részére. Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett új mentőjármű, illetve betegszállító jármű szakmai minimumfeltételeknek való megfelelőségét a működési engedélyt kiadó egészségügyi államigazgatási szerv a nyilvántartásba vételt követő 60 napon belül ellenőrzi.
 
-(4)[^132] A (2) bekezdés b) pontja szerinti jelentéseket elektronikusan, az NNGYK elektronikus humán erőforrás nyilvántartó informatikai rendszere útján kell megtenni.
+(4)[^132] A (2) bekezdés b) pontja szerinti jelentéseket
+
+a) az állam vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltató, illetve működtetett klinikai központ és egyetemi kórház, valamint az önkormányzati fenntartású egészségügyi szolgáltató esetén a Kormányzati Személyügyi Döntéstámogató Rendszer részére,
+
+b) a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az a) pont hatálya alá nem tartozó egészségügyi szolgáltató esetében elektronikusan, az NNGYK elektronikus humán erőforrás nyilvántartó informatikai rendszere útján
+
+kell megtenni.
 
 (5)[^133]
 
@@ -56,7 +62,7 @@ azzal, hogy ha a változás érinti az alkalmazott mentőegység típusát, ille
 [^129]: A 14. § (3) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 6. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
 [^130]: A 14. § (3a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 14. §-a iktatta be, nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
 [^131]: A 14. § (3b) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 14. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^132]: A 14. § (4) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 83/2025. (IV. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^132]: A 14. § (4) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 418/2025. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^133]: A 14. § (5) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 27. § g) pontja hatályon kívül helyezte.
 [^134]: A 14. § (6) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 27. § g) pontja hatályon kívül helyezte.
 [^135]: A 14. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
