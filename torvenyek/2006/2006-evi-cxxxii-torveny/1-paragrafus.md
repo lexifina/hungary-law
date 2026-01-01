@@ -66,7 +66,7 @@ q) tartalékkapacitás: az a rendelkezésre álló országos kapacitásmennyisé
 
 r) szakellátási kapacitás feletti rendelkezési jog: adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
 
-s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett közhiteles nyilvántartás.
+s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett nyilvántartás.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 

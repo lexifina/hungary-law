@@ -12,7 +12,7 @@
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
 
-(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
+(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
@@ -97,6 +97,8 @@ c) járóbeteg-szakellátási tartalékkapacitások szakorvosi óra száma,
 d) járóbeteg-szakellátási tartalékkapacitások nem szakorvosi óra száma,
 
 e) egyéb teljesítményegységek szerinti tartalék finanszírozási egységek száma.
+
+(8e) A kapacitás-nyilvántartás közhitelesen tartalmazza a (8b) bekezdés c)–f) és h) pontja, a (8b) bekezdés i) pont ia)–id) és ig) alpontja, a (8b) bekezdés j) és k) pontja, a (8c) bekezdés a), d) és e) pontja, valamint a (8d) bekezdés szerinti adatokat.
 
 (9) A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
 
