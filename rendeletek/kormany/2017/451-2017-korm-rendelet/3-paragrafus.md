@@ -96,13 +96,15 @@ a) be) alpontja szerinti bejelentés esetén a bejelentéshez csatolni kell
 
 aa) az árcsökkentéssel érintett eszköz nevét és 13–15 jegyű ISO kódját, valamint a bejelentés idején érvényes, továbbá a bejelentés szerinti közfinanszírozás alapjául javasolt árat, illetve
 
-ab) ha a bejelentő a NEAK szállítójegyzékében nem szerepel, a cégjegyzésre jogosult képviselő aláírási címpéldányát;
+ab)[^10]
 
 b) bg) alpontja szerinti bejelentés esetén a bejelentéshez csatolni kell
 
 ba) a törléssel érintett eszköz nevét és 13–15 jegyű ISO kódját, valamint a törlés rövid indoklását, illetve
 
-bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzésre jogosult képviselő aláírási címpéldányát.
+bb)[^11]
+
+(11a)[^12] Ha a Gyftv. 32. § (2) bekezdés b) pont be) és bg) alpontja szerinti bejelentés esetén a bejelentő a NEAK szállítójegyzékében nem szerepel, az egészségbiztosítási szerv elektronikus úton hivatalból szerzi be a cégnyilvántartásból a cégjegyzésre jogosult képviselő aláírási címpéldányát.
 
 (12) Ha a gyógyászati segédeszköz használati útmutatójában a befogadást követően változás következik be, a módosított útmutatót a módosítás pontos megjelölésével az érintett gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője a NEAK-nak benyújtja.
 
@@ -118,3 +120,6 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 [^7]: A 3. § (5) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege, a 334/2023. (VII. 20.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
 [^9]: A 3. § (7) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (11) bekezdés a) pont ab) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^11]: A 3. § (11) bekezdés b) pont bb) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^12]: A 3. § (11a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 29. §-a iktatta be.

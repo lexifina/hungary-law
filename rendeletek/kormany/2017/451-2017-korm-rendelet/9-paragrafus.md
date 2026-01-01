@@ -4,7 +4,7 @@ a) a követelményjegyzékben foglalt követelményeknek nem felel meg, és a (4
 
 b) jogszabály az eszköz funkcionális csoportjának támogatását megszüntette,
 
-c)[^15] az NNGYK vagy a fogyasztóvédelmi hatóság az eszköz forgalmazását megtiltotta,
+c)[^18] az NNGYK vagy a fogyasztóvédelmi hatóság az eszköz forgalmazását megtiltotta,
 
 d) az eszköz gyártóját vagy meghatalmazott képviselőjét a támogatott gyógyászati segédeszközzel kapcsolatos jogsértő kereskedelmi gyakorlat miatt az arra jogosult hatóság egy éven belül két esetben végleges döntésével elmarasztalta, vagy
 
@@ -30,4 +30,4 @@ c) az adott funkcionális csoportra megállapított követelményjegyzéknek nem
 
 (5) Ha a NEAK a felülvizsgálat eredményeként az eszköz más funkcionális csoportba történő átsorolásáról dönt, az eszközt – a Gyftv. 32/A. § (4a) bekezdése szerinti eset kivételével – a közfinanszírozás alapjául szolgáló árának, közfinanszírozás alapjául szolgáló kölcsönzési napidíjának változatlansága mellett sorolja át.
 
-[^15]: A 9. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.
+[^18]: A 9. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.
