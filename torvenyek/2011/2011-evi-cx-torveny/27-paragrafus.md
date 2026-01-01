@@ -1,5 +1,1 @@
-27. § (1) A köztársasági elnök az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 6. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Sándor-palota gazdasági ügyekért felelős vezetőjénél lévő, a köztársasági elnökkel közös háztartásban élő házastársának, gyermekeinek vagyonnyilatkozatát a Sándor-palota gazdasági ügyekért felelős vezetője 2023. augusztus 1. napjáig őrzi.
-
-(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+### 27. §
