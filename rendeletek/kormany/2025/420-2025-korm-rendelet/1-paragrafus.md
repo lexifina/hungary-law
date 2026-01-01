@@ -28,6 +28,6 @@
 
 ## 1. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosítása
 
-1. § A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet [a továbbiakban: 356/2007. (XII. 23.) Korm. rendelet] 5. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1b) Az (1a) bekezdés f) pontja szerinti jogcím esetén az ingatlanügyi hatóság a földhasználati lap jegyzet rovatában feltünteti, hogy az alhaszonbérlet a Fétv. 65. §-án vagy a Fétv. 65/A. §-án alapul.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

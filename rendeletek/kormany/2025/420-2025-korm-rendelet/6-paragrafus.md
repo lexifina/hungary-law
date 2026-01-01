@@ -1,5 +1,3 @@
-6. § Hatályát veszti a 356/2007. (XII. 23.) Korm. rendelet
+6. §[^7]
 
-a) 13. § (6) bekezdésében a „ , valamint családi gazdálkodó esetében a családi gazdálkodók nyilvántartását vezető hatósággal” szövegrész,
-
-b) 1. melléklet 8. pontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

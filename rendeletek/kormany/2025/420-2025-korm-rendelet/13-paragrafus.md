@@ -1,1 +1,3 @@
-13. § Hatályát veszti a 191/2014. (VII. 31.) Korm. rendelet 5. § (1) bekezdés d) pontja.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

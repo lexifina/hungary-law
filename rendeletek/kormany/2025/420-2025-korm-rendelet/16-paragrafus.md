@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet 42. § (4) bekezdés f) pontjában a „ , (4) bekezdésében” szövegrész.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

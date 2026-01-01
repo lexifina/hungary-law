@@ -1,3 +1,3 @@
-21. § A 647/2020. (XII. 23.) Korm. rendelet 5. §-a helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„5. § A Foktftv. 4. § (2) bekezdése szerinti ténybejegyzés során a 179/2023. (V. 15.) Korm. rendelet 124. §-a szerinti soron kívüli elintézésre irányuló kérelem benyújtásának nincs helye.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

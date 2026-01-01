@@ -1,1 +1,3 @@
-10. § Hatályát veszti a 38/2014. (II. 24.) Korm. rendelet 7. § (2) bekezdésében az „A 6. § (1) bekezdés c) pontja szerinti igazolással a szervezet valamely vezető tisztségviselőjének vagy a cégvezetőjének kell rendelkeznie.” szövegrész.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

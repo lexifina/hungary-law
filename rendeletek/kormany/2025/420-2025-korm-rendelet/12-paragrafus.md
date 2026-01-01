@@ -1,7 +1,3 @@
-12. § A 191/2014. (VII. 31.) Korm. rendelet
+12. §[^13]
 
-a) 5. § (1) bekezdés c) pontjában a „körülmények” szövegrész helyébe a „feltételek” szöveg,
-
-b) 16. § (1) bekezdésében a „bármelyik” szövegrész helyébe a „bármelyik – e rendelet feltételeinek megfelelő –” szöveg
-
-lép.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

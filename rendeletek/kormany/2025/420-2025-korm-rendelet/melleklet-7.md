@@ -1,19 +1,3 @@
-7. melléklet a 420/2025. (XII. 23.) Korm. rendelethez
+7. melléklet a 420/2025. (XII. 23.) Korm. rendelethez[^33]
 
-1. A 38/2014. (II. 24.) Korm. rendelet 1. melléklet 1. pontja a következő 1.6. alponttal egészül ki:
-
-(A kérelmet benyújtó természetes személy)
-
-„1.6. – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.”
-
-2. A 38/2014. (II. 24.) Korm. rendelet 1. melléklet 3. pontja a következő 3.6. alponttal egészül ki:
-
-(Természetes személy kérelmező:)
-
-„3.6. – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.”
-
-3. A 38/2014. (II. 24.) Korm. rendelet 1. melléklet 9. pont 9.5. alpontja helyébe a következő alpont lép:
-
-(Az üzemközpontnak minősülő ingatlan:)
-
-„9.5. a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.”
+[^33]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
