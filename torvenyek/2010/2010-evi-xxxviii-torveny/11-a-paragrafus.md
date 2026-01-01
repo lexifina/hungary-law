@@ -1,1 +1,1 @@
-11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó.
+11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó azzal, hogy a Kjnp. 15/A. § (7) bekezdése nem alkalmazható a végrendeletet, az öröklési szerződést, a halál esetére szóló ajándékozást, az öröklésről való lemondást, a várt öröklésről való rendelkezést, valamint ezek módosítását, visszavonását, felbontását vagy megszüntetését tartalmazó okiratra.

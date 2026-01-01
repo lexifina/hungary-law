@@ -1,0 +1,1 @@
+128. § E törvénynek a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról szóló 2025. évi XCIII. törvénnyel megállapított 104/A. § (1) bekezdését a folyamatban lévő ügyekben akkor kell alkalmazni, ha a 104/A. § (1) bekezdése szerinti hirdetmény kézbesítésére még nem került sor.
