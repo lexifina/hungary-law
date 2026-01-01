@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-169-20-
 | 2025-01-01 | 2010-169-20-22.23 | 418/2024. (XII. 23.) Korm. rendelet |
 | 2025-03-01 | 2010-169-20-22.24 | 251/2024. (VIII. 22.) Korm. rendelet |
 | 2025-07-01 | 2010-169-20-22.25 | 251/2024. (VIII. 22.) Korm. rendelet |
+| 2026-01-01 | 2010-169-20-22.26 | 251/2024. (VIII. 22.) Korm. rendelet |
