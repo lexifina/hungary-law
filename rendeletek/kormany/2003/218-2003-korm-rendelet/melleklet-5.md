@@ -126,13 +126,13 @@
 
 ## – Üzbegisztán
 
-5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^69]
+5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^70]
 
 Kérelem a 2/A. §-ban meghatározott – mozgásában korlátozott személyeket ellátó – intézmény
 
 parkolási igazolványának kiadására
 
-1. Az igazolvány első alkalommal történő igénylése esetén kitöltendő
+1.[^71] Az igazolvány első alkalommal történő igénylése esetén kitöltendő
 
 A jogosult intézmény
 
@@ -144,7 +144,7 @@ székhelye:
 
 telephelye:
 
-A kérelemhez bemutatom az e rendelet 12/A. § (1) bekezdés a) pont ab)-ac) alpontjában meghatározottakat, az intézmény nevét, az aláírási címpéldányt vagy ezt helyettesítő aláírási mintát, az intézmény nevében eljáró személy képviseleti jogosultságát igazoló okiratot, a bérelt- vagy lízingelt járművekre vonatkozó szerződést, továbbá az intézmény működési engedélyét.
+A kérelemhez – a 12/A. § (1a) bekezdésében foglaltak kivételével – bemutatom az e rendelet 12/A. § (1) bekezdés a) pont ab)-ac) alpontjában meghatározottakat, az intézmény nevét, az aláírási címpéldányt vagy ezt helyettesítő aláírási mintát, az intézmény nevében eljáró személy képviseleti jogosultságát igazoló okiratot, a bérelt- vagy lízingelt járművekre vonatkozó szerződést, továbbá az intézmény működési engedélyét.
 
 Tudomásul veszem, hogy amennyiben a közölt adatokban változás következik be, a parkolási igazolványt kiállító hatóság részére az adatváltozást 15 napon belül bejelentem.
 
@@ -188,4 +188,5 @@ Kijelentem, hogy az igazolványt e rendelet 8. §-ában foglalt kötelezettsége
 
 | dátum | kérelmező cégszerű aláírása |
 
-[^69]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^70]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^71]: Az 5. számú melléklet 1. pontja a 395/2025. (XII. 16.) Korm. rendelet 4. §-a szerint módosított szöveg.
