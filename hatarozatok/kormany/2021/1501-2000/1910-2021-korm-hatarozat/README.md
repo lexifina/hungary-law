@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1910-30
 | --- | --- | --- |
 | 2021-12-15 | 2021-1910-30-22.1 | 1910/2021. (XII. 15.) Korm. határozat |
 | 2021-12-16 | 2021-1910-30-22.2 | 2010: CXXX. törvény |
+| 2026-01-01 | 2021-1910-30-22.3 | 2011: CXCV. törvény |
