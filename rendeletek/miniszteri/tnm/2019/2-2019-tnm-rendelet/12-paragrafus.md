@@ -1,10 +1,10 @@
-12. § (1)[^26] A 8. § (2) bekezdés f) pontja szerinti támogatás esetén
+12. § (1)[^28] A 8. § (2) bekezdés f) pontja szerinti támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
 b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
 
-(2)[^27] A 8. § (2) bekezdés f) pontja szerinti támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
+(2)[^29] A 8. § (2) bekezdés f) pontja szerinti támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
 
 a) a szerző díjazása, ideértve a szerzői joggal kapcsolatos költséget is,
 
@@ -18,5 +18,5 @@ e) az elrendezés és nyomdai előkészítés költsége és
 
 f) a nyomtatás vagy elektronikus közzététel költsége.
 
-[^26]: A 12. § (1) bekezdés nyitó szövegrésze az 1/2024. (I. 30.) TNM rendelet 11. § b) pontja szerint módosított szöveg.
-[^27]: A 12. § (2) bekezdése az 1/2024. (I. 30.) TNM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 12. § (1) bekezdés nyitó szövegrésze az 1/2024. (I. 30.) TNM rendelet 11. § b) pontja szerint módosított szöveg.
+[^29]: A 12. § (2) bekezdése az 1/2024. (I. 30.) TNM rendelet 6. §-ával megállapított szöveg.

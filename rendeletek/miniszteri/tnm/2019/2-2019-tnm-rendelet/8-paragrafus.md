@@ -1,12 +1,12 @@
 ## 5. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
-8. § (1)[^19] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
+8. § (1)[^21] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
-a)[^20] beruházási támogatásként, ideértve az infrastruktúra építését, bővítését vagy korszerűsítését,
+a)[^22] beruházási támogatásként, ideértve az infrastruktúra építését, bővítését vagy korszerűsítését,
 
-b)[^21] zenei és irodalmi alkotások kiadásához nyújtott támogatásként, valamint
+b)[^23] zenei és irodalmi alkotások kiadásához nyújtott támogatásként, valamint
 
-c)[^22] működési támogatásként
+c)[^24] működési támogatásként
 
 nyújtható.
 
@@ -24,7 +24,7 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^19]: A 8. § (1) bekezdése az 1/2024. (I. 30.) TNM rendelet 3. §-ával megállapított szöveg.
-[^20]: A 8. § (1) bekezdés a) pontja az 5/2024. (VII. 29.) TNM rendelet 5. § a) pontja szerint módosított szöveg.
-[^21]: A 8. § (1) bekezdés b) pontja az 5/2024. (VII. 29.) TNM rendelet 4. § a) pontja szerint módosított szöveg.
-[^22]: A 8. § (1) bekezdés c) pontját az 5/2024. (VII. 29.) TNM rendelet 2. §-a iktatta be.
+[^21]: A 8. § (1) bekezdése az 1/2024. (I. 30.) TNM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 8. § (1) bekezdés a) pontja az 5/2024. (VII. 29.) TNM rendelet 5. § a) pontja szerint módosított szöveg.
+[^23]: A 8. § (1) bekezdés b) pontja az 5/2024. (VII. 29.) TNM rendelet 4. § a) pontja szerint módosított szöveg.
+[^24]: A 8. § (1) bekezdés c) pontját az 5/2024. (VII. 29.) TNM rendelet 2. §-a iktatta be.
