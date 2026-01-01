@@ -1,0 +1,3 @@
+[1] Az Alkotmánybíróság feladata a demokratikus jogállam, az alkotmányos rend és az Alaptörvényben biztosított jogok védelme, a jogrendszer belső összhangjának megőrzése, valamint a hatalommegosztás elvének érvényre juttatása. Az Alaptörvény védelmének legfőbb szerveként tevékenykedő Alkotmánybíróság működésének feltételeit az Országgyűlés minden körülmény között biztosítja, illetve törvényben rendelkezik az Alkotmánybíróság tagjait, dolgozóit megillető illetményre és juttatásokra vonatkozó fő szabályokról, lehetővé téve méltó megbecsülésüket.
+
+[2] A fenti célok elérése, az Alkotmánybíróság működésének, funkcióinak teljes körű érvényre juttatása érdekében az Országgyűlés a következő törvényt alkotja:
