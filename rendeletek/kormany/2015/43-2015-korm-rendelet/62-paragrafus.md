@@ -28,7 +28,7 @@ d) az eredménytől függő díjvisszatérítési tartalék,
 
 e) az eredménytől független díjvisszatérítési tartalék,
 
-f) a káringadozási tartalék,
+f)[^18]
 
 g) a törlési tartalék,
 
@@ -36,7 +36,8 @@ h) a befektetési egységekhez kötött (unit-linked) életbiztosítások tartal
 
 i) az egyéb biztosítástechnikai tartalékok,
 
-j)[^18]
+j)[^19]
 
 [^17]: A 62. § a 295/2015. (X. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^18]: A 62. § j) pontját a 295/2015. (X. 8.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^18]: A 62. § f) pontját az 586/2020. (XII. 15.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^19]: A 62. § j) pontját a 295/2015. (X. 8.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
