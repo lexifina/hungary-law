@@ -1,9 +1,17 @@
-5. § (1)[^4]
+5. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (3) bekezdése a következő c) ponttal egészül ki:
 
-(2)[^5]
+(Az „A” kategóriába tartozó tűzfegyver tartását)
 
-(3)[^6]
+## „c) igazságügyi fegyverszakértő számára a kérelmező lakóhelye, ennek hiányában a lőfegyver, lőszer tárolásának a helye szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság”
 
-[^4]: Az 5. § (1) bekezdése a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^5]: Az 5. § (2) bekezdése a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^6]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## (engedélyezi.)
+
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 22. § c) pontja helyébe a következő rendelkezés lép:
+
+(Lőfegyver, lőszer tartása munkavégzési célra engedélyezhető)
+
+## „c) igazságügyi fegyverszakértőnek feladatköréhez kapcsolódóan, „A” kategóriába tartozó tűzfegyverre és lőszerre is,”
+
+(3)[^1]
+
+[^1]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

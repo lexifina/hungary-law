@@ -18,6 +18,4 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. §[^1]
-
-[^1]: Az 1. § a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+1. § A Kormány Magyarország terrorizmus elleni nemzeti listáját (a továbbiakban: nemzeti lista) az 1. melléklet szerint állapítja meg.

@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 3. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+2. § A Kormány a nemzeti listán szereplő csoport, csoportosulás, illetve szervezet esetében alkalmazandó korlátozó intézkedések megjelölését, valamint a korlátozó intézkedések hatályát a 2. melléklet szerint állapítja meg.
