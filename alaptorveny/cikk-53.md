@@ -1,6 +1,12 @@
 53. cikk
 
-(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel sarkalatos törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint
+
+a) hadiállapotban és szükségállapotban az Országgyűlés külön felhatalmazása nélkül,
+
+b) veszélyhelyzetben az Országgyűlés – a jelen lévő országgyűlési képviselők kétharmadának szavazatával határozott időre megadott – felhatalmazásával
+
+egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet.
 
 (2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 

@@ -2,7 +2,7 @@
 
 56. cikk
 
-(1) A köztársasági elnök jogosult a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
+(1) A köztársasági elnök jogosult a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, illetve veszélyhelyzetben egyes törvények alkalmazásának felfüggesztésére, törvényi rendelkezésektől való eltérésre, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
 
 (2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrend kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
 

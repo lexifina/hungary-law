@@ -14,7 +14,7 @@ c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;
 
 d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.
 
-(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az ügyész hetvenedik életévének betöltéséig állhat fenn.
 
 (4) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
