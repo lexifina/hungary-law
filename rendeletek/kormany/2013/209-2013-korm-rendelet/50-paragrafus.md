@@ -1,3 +1,3 @@
-50. §[^112]
+50. §[^131]
 
-[^112]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

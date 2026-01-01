@@ -1,9 +1,5 @@
-## 10. A bevallási közreműködő
+## 10.[^77]
 
-17. § (1) A bevallási közreműködő a tevékenysége során műszaki támogatást nyújt az úthasználat bevallásához a szerződött díjfizető számára oly módon, hogy
+17. §
 
-a) a szerződött díjfizető számára fedélzeti eszközt biztosít,
-
-b) az úthasználat (2) bekezdés szerinti adatait elemi útszakaszonként gépjárműhöz és folyószámlához rendelten elektronikus úton megküldi az útdíjszolgáltató részére.
-
-(2) A bevallási közreműködő a bevallás elkészítéséhez szükséges, az útdíjszolgáltatóval kötött szerződésben meghatározott adatokat továbbítja az útdíjszolgáltató felé.
+[^77]: A 10. alcímet (17–19. §-t) a 402/2025. (XII. 16.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

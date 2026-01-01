@@ -1,4 +1,4 @@
-44/A. §[^100] (1) A felügyeleti szerv 2025. március 25-ig, azt követően pedig ötévente összesített formában a honlapján jelentést tesz közzé az útdíjakról és a használati díjakról (jelen alcím alkalmazásában a továbbiakban együtt: díjak).
+44/A. §[^119] (1) A felügyeleti szerv 2025. március 25-ig, azt követően pedig ötévente összesített formában a honlapján jelentést tesz közzé az útdíjakról és a használati díjakról (jelen alcím alkalmazásában a továbbiakban együtt: díjak).
 
 (2) A felügyeleti szerv az (1) bekezdésben meghatározott jelentésben a következőkről ad tájékoztatást:
 
@@ -20,4 +20,4 @@ h) a díjakból származó bevételek felhasználása, tájékoztatás a közút
 
 i) a különböző kibocsátási osztályokba tartozó járművek részarányának alakulása az útdíjköteles utakon.
 
-[^100]: A 44/A. §-t a 336/2023. (VII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^119]: A 44/A. §-t a 336/2023. (VII. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.

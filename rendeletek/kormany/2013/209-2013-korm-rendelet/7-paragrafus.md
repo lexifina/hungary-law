@@ -1,4 +1,4 @@
-## 6. §[^18] A díjellenőrzésre kijelölt szervezet az általa kiszabott és számára megfizetett bírságot havonta legalább egy alkalommal köteles a jogszabályban megjelölt költségvetési előirányzat részére levonás és beszámítás nélkül átutalni.
+## 6. §[^17] A díjellenőrzésre kijelölt szervezet az általa kiszabott és számára megfizetett bírságot havonta legalább egy alkalommal köteles a jogszabályban megjelölt költségvetési előirányzat részére levonás és beszámítás nélkül átutalni.
 
 ## III. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) Az útdíjszedő indokolatlan megkülönböztetésektől mentes módon működik együtt az útdíjszolgáltatókkal.
 
-[^18]: A 6. § a 67/2022. (II. 28.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^17]: A 6. § a 67/2022. (II. 28.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
