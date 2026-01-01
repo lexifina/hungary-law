@@ -10,11 +10,7 @@ b) a más fejlesztési forrásokból megvalósult fejlesztési elemektől tört�
 
 3. egyetért azzal, hogy a Beruházás komplex előkészítésének finanszírozása 82 098 424 forint központi költségvetési forrásból valósuljon meg;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcímet a 3. Víziközmű-fejlesztések jogcímcsoporttal egészíti ki;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+4.[^1]
 
 5. felhívja a pénzügyminisztert, hogy – a külgazdasági és külügyminiszter, valamint az építési és beruházási miniszter bevonásával – a Beruházás komplex előkészítése érdekében gondoskodjon 82 098 424 forint forrás biztosításáról a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport javára;
 
@@ -33,3 +29,5 @@ b) a más fejlesztési forrásokból megvalósult fejlesztési elemektől tört�
 | Felelős: | külgazdasági és külügyminiszter építési és beruházási miniszter technológiai és ipari miniszter |
 
 | Határidő: | az előkészítés lezárását követően a felmerülés ütemében |
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
