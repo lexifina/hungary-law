@@ -16,7 +16,7 @@ f) a nem végleges állapotú személyek estében a felülvizsgálat időpontjá
 
 g) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám).
 
-(1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés e) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(1a)
 
 (2) A nyilvántartást vezető szerv a nyilvántartásból adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
 
