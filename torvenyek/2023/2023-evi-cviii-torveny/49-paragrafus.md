@@ -6,6 +6,6 @@
 
 (2) A vállalkozás vagy az 1. § (3) bekezdése szerinti szervezet a központi azonosítási ügynök szolgáltatás igénybevételével fér hozzá az ESG menedzsmentplatformhoz.
 
-(3) Az ESG menedzsmentplatform adatbázisa csak az ESG tanúsítvánnyal rendelkező beszámolók esetében közhiteles.
+(3)
 
 (4) Az állami ESG minősítő a vállalkozás és az 1. § (3) bekezdése szerinti szervezet ESG Menedzsmentplatformon tárolt ESG adataihoz hozzáférhet.

@@ -4,19 +4,23 @@
 
 a) az ESG tanúsító azonosításához szükséges adatokat,
 
-b) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Magyarország területén belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
+b) az ESG tanúsító nyilvántartási számát és a Tanúsítók Névjegyzékébe történő felvételének időpontját,
 
-c) a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
+c) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Magyarország területén belül kínál szolgáltatásokat és magyarországi letelepedett képviselőt jelöl ki, a képviselő nevét vagy cégnevét, levelezési címét, telefonszámát és elektronikus levelezési címét,
 
-d) annak tényét, ha a Hatóság az ESG tanúsítót az ESG tanúsítói tevékenységtől eltiltotta,
+d) a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
 
-e) a Hatóság elnökének rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumokat, valamint
+e) annak tényét, ha a Hatóság az ESG tanúsítót az ESG tanúsítói tevékenységtől eltiltotta,
 
-f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+f) a Hatóság elnökének rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumokat, valamint
+
+g) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (1a) A Hatóság a honlapján közzéteszi az ESG tanúsítói tevékenység végzésére jogosult ESG tanúsítók (1) bekezdés a) pontja szerinti adatait.
 
 (1b) Az (1) bekezdés szerinti adatok kezelésének célja az ESG tanúsítókra vonatkozó információk naprakészen tartása, valamint a Hatóság hatósági ellenőrzési feladatainak ellátása.
+
+(1c) A Tanúsítók Névjegyzéke az (1) bekezdés b) és e) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (2) A Tanúsítók Névjegyzékébe történő nyilvántartásba vétel feltétele
 

@@ -30,7 +30,11 @@ d) akinek a vezető tisztségviselője vagy személyesen közreműködő tagja a
 
 8. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
 
-9. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+9. az ESG minősítő nyilvántartási számát és névjegyzékbe történő felvételének időpontját;
+
+10. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(2a) A (2) bekezdés szerinti névjegyzék a (2) bekezdés 9. pontjában meghatározott adat tekintetében közhiteles hatósági nyilvántartás.
 
 (3) A Hatóság a honlapján közzéteszi az (1) bekezdés szerinti névjegyzéknek a (2) bekezdés 1., 2. és 7. pontja szerinti adatait.
 

@@ -6,7 +6,7 @@
 
 1. a tanácsadó családi és utónevét, születési családi és utónevét, születési helyét, születési idejét, anyja nevét, állampolgárságát, elérhetőségét, szakképesítését,
 
-2. a tanácsadó nyilvántartási számát,
+2. a tanácsadó nyilvántartási számát és névjegyzékbe történő felvételének időpontját,
 
 3. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
 
@@ -62,13 +62,17 @@ b) a betéti társaság vagy a közkereseti társaság jogi személy ESG tanács
 
 9. a 43/B. § (1) bekezdése szerinti adatokat és dokumentumokat,
 
-10. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+10. a tanácsadó nyilvántartási számát és névjegyzékbe történő felvételének időpontját;
+
+11. a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
 (4) Az ESG tanácsadó a (2) vagy (3) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
 
 (5) Ha az ESG tanácsadó ESG tanácsadói tevékenységet már nem végez, akkor a (2) illetve (3) bekezdés szerinti adatokat a Hatóság a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
 (6) Ha a (2) illetve (3) bekezdés szerinti adatok változását az ESG tanácsadó bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot a Hatóság az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+
+(6a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés 2., 4. és 5. pontjában, valamint a (3) bekezdés 10. pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
 (7) A Hatóság a honlapján közzéteszi ESG tanácsadói tevékenység végzésére jogosult ESG tanácsadók esetében az (1) bekezdés szerinti névjegyzék adatai közül
 

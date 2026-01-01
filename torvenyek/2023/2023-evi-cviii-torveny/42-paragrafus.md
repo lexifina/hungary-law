@@ -12,7 +12,11 @@ d) a gyártó székhelyének címét,
 
 e) a Kiberbiztonsági tv. alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvány vagy megfelelőségi nyilatkozat meglétét igazoló dokumentumot,
 
-f) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+f) az ESG szoftver nyilvántartásba vételének időpontját,
+
+g) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés f) pontjában meghatározott adat tekintetében közhiteles hatósági nyilvántartás.
 
 (2) A Hatóság a honlapján közzéteszi az (1) bekezdés szerinti nyilvántartás (1) bekezdés a)–d) pontja szerinti adatait.
 

@@ -1,3 +1,3 @@
 26. § (1) A vállalkozás ügyvezető szerve felel az ESG beszámoló e törvényben és az európai uniós jogi aktusokban előírt fenntarthatósági követelményeknek megfelelő elkészítéséért és közzétételéért.
 
-(2)
+(2) A vállalkozás fenntarthatósági célú átvilágítási kötelezettsége szerinti ESG adatszolgáltatási kötelezettség elmulasztása esetén, vagy ha az ESG beszámoló az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott követelményeknek nem felel meg, a Hatóság közigazgatási bírságot szab ki a vállalkozásra. A bírság mértékére, megállapításának szempontrendszerére és a bírság megfizetésének módjára vonatkozó szabályokat a Kormány rendeletben állapítja meg.
