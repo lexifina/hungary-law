@@ -1,1 +1,0 @@
-## 8. § A Módr. 4. 5. §-ának az 1/2012. (I. 20.) Korm. rendelet 18/C. § (3) bekezdését megállapító rendelkezése az „örökbe fogadásának kettő éves fennállása vagy halva születésének időpontjára” szövegrész helyett az „örökbe fogadásának vagy halva születésének időpontjára” szöveggel lép hatályba.
