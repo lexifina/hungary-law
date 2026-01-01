@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-18-20-0
 | 2023-02-11 | 2004-18-20-06.6 | 2/2023. (II. 10.) IM rendelet |
 | 2024-07-01 | 2004-18-20-06.7 | 16/2023. (X. 30.) IM rendelet |
 | 2025-01-01 | 2004-18-20-06.8 | 16/2023. (X. 30.) IM rendelet |
+| 2026-01-01 | 2004-18-20-06.9 | 19/2025. (XII. 29.) IM rendelet |

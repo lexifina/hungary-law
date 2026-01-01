@@ -4,7 +4,7 @@
 
 a) a rajzokat erős, fehér, sima, fénytelen és tartós, 29,7 cm magas és 21,0 cm széles (A4 méretű) papírlapok egyik oldalán kell elhelyezni; a lapokon a felhasználható terület mérete legfeljebb 26,2 x 17,0 cm; a legkisebb szegélyméret felül és a bal oldalon 2,5 cm, a jobb oldalon 1,5 cm, alul 1 cm; a felhasználható vagy a felhasznált terület körül keret ne készüljön;
 
-b)[^9] a rajzokat fekete színű, tartós, egyenletes vastagságú, jól látható vonalakkal, színezés és árnyékolás nélkül kell elkészíteni, a metszeteket vonalkázással kell jelölni úgy, hogy az ne akadályozza a hivatkozási jelek és jelzővonalaik felismerhetőségét;
+b)[^9] a rajzokat fekete színű vagy színes, tartós, egyenletes vastagságú, jól látható vonalakkal vagy területekkel, a rajz értelmezhetőségét lehetővé tevő megfelelő kontraszt biztosítása mellett kell elkészíteni, a metszeteket vonalkázással kell jelölni, úgy, hogy az ne akadályozza a hivatkozási jelek és jelzővonalaik felismerhetőségét;
 
 c)[^10] a rajzok méretének és grafikai kivitelezésének biztosítania kell, hogy az összes részlet felismerhető legyen; kivételes esetben, amikor a rajzon méret szerepel, azt grafikusan kell ábrázolni;
 
@@ -22,7 +22,7 @@ i) a rajzok nem tartalmazhatnak szöveget, kivéve a megértéshez feltétlenül
 
 j)[^12] mindegyik lap szegélyén legyen rajta az adott lap sorszáma, törve a lapok összesített számával.
 
-[^9]: A 6. § b) pontja a 2/2023. (II. 10.) IM rendelet 6. §-ával megállapított szöveg.
+[^9]: A 6. § b) pontja a 19/2025. (XII. 29.) IM rendelet 4. §-ával megállapított szöveg.
 [^10]: A 6. § c) pontja a 2/2023. (II. 10.) IM rendelet 6. §-ával megállapított szöveg.
 [^11]: A 6. § h) pontját a 30/2012. (VI. 25.) KIM rendelet 11. §-a hatályon kívül helyezte.
 [^12]: A 6. § j) pontja a 30/2012. (VI. 25.) KIM rendelet 11. §-a szerint módosított szöveg.
