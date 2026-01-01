@@ -6,9 +6,9 @@
 
 (4) Az e rendelet hatálybalépését megelőzően tett egyszerű bejelentés alapján bővített lakóépületre a 23. § szerinti hatósági bizonyítványt kell kérelmezni.
 
-(5)[^2] Az e rendelet hatálybalépését megelőzően tett, saját lakhatás biztosítása céljából épülő új lakóépület építésére vonatkozó egyszerű bejelentés esetén a 16. § (1) bekezdés e) pontja szerinti eltéréshez az e rendelet szerinti új egyszerű bejelentést kell tenni.
+(5)[^4] Az e rendelet hatálybalépését megelőzően tett, saját lakhatás biztosítása céljából épülő új lakóépület építésére vonatkozó egyszerű bejelentés esetén a 16. § (1) bekezdés e) pontja szerinti eltéréshez az e rendelet szerinti új egyszerű bejelentést kell tenni.
 
-(6)[^3] Az építésügyi hatóság a 36. és 37. § alkalmazása során figyelemmel van az Épkiv. 46. § (1)–(2) bekezdésében foglaltakra.
+(6)[^5] Az építésügyi hatóság a 36. és 37. § alkalmazása során figyelemmel van az Épkiv. 46. § (1)–(2) bekezdésében foglaltakra.
 
-[^2]: A 62. § (5) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 38. §-a iktatta be.
-[^3]: A 62. § (6) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 38. §-a iktatta be.
+[^4]: A 62. § (5) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 38. §-a iktatta be.
+[^5]: A 62. § (6) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 38. §-a iktatta be.

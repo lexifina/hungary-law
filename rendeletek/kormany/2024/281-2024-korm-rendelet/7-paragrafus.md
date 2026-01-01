@@ -30,6 +30,8 @@ i) személyes benyújtás esetén az építtető aláírását.
 
 (3) Ha a kérelmet a meghatalmazott az ÉTDR felületén nyújtja be és az építtető az elektronikus ügyintézési rendelkezésében a kérelemmel érintett ügyben meghatalmazást nem adott, csatolni kell a meghatalmazás építtető által elektronikusan aláírt vagy hitelesített másolatát, több építtető esetén személyenként külön-külön hitelesítve.
 
-(4) Ha a kérelmező jogi személy vagy jogi személyiség nélküli szervezet, a kérelemhez mellékelni kell a képviselő közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányának másolatát.
+(4)[^1]
 
 (5) A kérelem benyújtásával egyidejűleg igazolni kell az igazgatási szolgáltatási díj megfizetését.
+
+[^1]: A 7. § (4) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 46. §-a hatályon kívül helyezte.

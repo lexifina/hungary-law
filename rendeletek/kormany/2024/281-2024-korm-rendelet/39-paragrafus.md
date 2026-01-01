@@ -8,6 +8,8 @@ a) az építtetővel,
 
 b) a települési önkormányzati adóhatósággal,
 
-c) az ingatlanügyi hatósággal, valamint
+c)[^2] az ingatlanügyi hatósággal,
 
 d) veszélyes anyagokkal foglalkozó üzem, létesítmény esetén az iparbiztonsági hatósággal.
+
+[^2]: A 39. § (3) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § f) pontja szerint módosított szöveg.
