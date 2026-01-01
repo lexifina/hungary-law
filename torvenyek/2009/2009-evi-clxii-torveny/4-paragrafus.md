@@ -22,7 +22,7 @@ g) a fogyasztó által fizetendő teljes összeg és a törlesztőrészlet össz
 
 a) a hitelező, a hitelközvetítő vagy a közvetítői alvállalkozó neve,
 
-b) tájékoztatás arra vonatkozóan, hogy a hitel fedezete ingatlanra bejegyzett jelzálogjog,
+b) tájékoztatás arra vonatkozóan, hogy a hitel fedezete ingatlanra bejegyzett jelzálogjog, vagy társasházi építményi jogra bejegyzett zálogjog,
 
 c) a törlesztőrészletek száma, valamint
 
