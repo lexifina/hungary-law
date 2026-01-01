@@ -1,0 +1,1 @@
+12. § Ez a rendelet a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. szeptember 23-i 2019/1780 (EU) rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
