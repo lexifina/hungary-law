@@ -118,6 +118,6 @@
 
 57. azokat a körülményeket, amelyeket a Hivatal értékel annak érdekében, hogy a III/A. fejezet szerinti hatásköreinek gyakorlása során elsőbbséget biztosítson azoknak az ügyeknek, amelyek a nagykereskedelmi energiapiacok működésére jelentősebb hatással vannak,
 
-58. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének engedélyezésére vonatkozó szabályokat, illetve kijelöli az engedélyező és felügyelő hatóságot,
+58. a hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének engedélyezésére vonatkozó szabályokat – a hidrogén tárolására alkalmas földtani szerkezetek kutatására, kiképzésére, tárolásra történő hasznosítására és bezárására vonatkozó részletes szabályok kivételével – , illetve kijelöli az engedélyező és felügyelő hatóságot,
 
 59. a díjmentes csatlakozásra vonatkozó eljárási szabályokat.

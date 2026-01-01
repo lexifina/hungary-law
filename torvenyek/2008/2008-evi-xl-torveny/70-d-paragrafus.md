@@ -4,4 +4,4 @@
 
 (3) Határérték túllépés esetén a hidrogénnel kevert földgázt betápláló rendszerhasználó köteles a betáplálást azonnali hatállyal megszüntetni.
 
-(4) A hidrogént előállító, felhasználó vagy tároló létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit és a műszaki biztonsági dokumentáció tartalmát az e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
+(4) Az (1)–(3) bekezdésben foglaltaktól eltérően a földgáztárolóba nagy tisztaságú hidrogén juttatható azzal, hogy a földgáztárolóból a földgázszállító rendszerbe továbbra is kizárólag a földgáz minőségére vonatkozó jogszabályi követelményeknek megfelelő megengedett hidrogéntartalmú földgáz táplálható be.

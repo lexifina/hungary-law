@@ -2,7 +2,7 @@
 
 26. § (1) Az engedélyesnek a földgáztárolói tevékenység gyakorlásához rendelkeznie kell az általa üzemeltetett földgáztárolók többségi tulajdonával, vagy a földgáztárolókra vonatkozó vagyonkezelői joggal. A többségi tulajdon meghatározásánál a földgáztároló engedélyes által üzemeltetett teljes eszközvagyon könyvszerinti értékét kell figyelembe venni.
 
-(1a) Földgáztároló az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett a Hivatal által kiadott működési engedély alapján, a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló jogszabályban foglaltak szerint létesíthető. A földgáztárolót csak az a földgáztároló engedélyes üzemeltetheti, akinek az a működési engedélyében szerepel.
+(1a) Földgáztároló az előírt műszaki-biztonsági, pénzügyi és gazdasági feltételek megtartása mellett a Hivatal által kiadott működési engedély alapján, a bányafelügyelet engedélye alapján létesíthető és működtethető. A földgáztárolót csak az a földgáztároló engedélyes üzemeltetheti, akinek az a működési engedélyében szerepel.
 
 (2) A földgáztároló engedélyesnek rendelkeznie kell továbbá saját méréssel, vagy a csatlakozó rendszerüzemeltető által biztosított hiteles méréssel, adatátviteli eszközökkel, saját szervezetén belül mindezek folyamatos üzemeltetését és felügyeletét ellátó, a karbantartást és az üzemzavar elhárítást irányító szervezetekkel, valamint műszaki irányító szolgálattal.
 

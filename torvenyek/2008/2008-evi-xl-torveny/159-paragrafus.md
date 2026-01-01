@@ -9,5 +9,3 @@ b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módos�
 c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról;
 
 d) a földgáz belső piacára vonatkozó közös szabályokról szóló 2009/73/EK irányelv módosításáról szóló, 2019. április 17-i 2019/692/EU európai parlamenti és tanácsi irányelv.
-
-e) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 5., 7., 9. pontja és a Melléklet 3. pontja;
