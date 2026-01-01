@@ -23,3 +23,5 @@ i) ellenőrzi a védelmi és biztonsági célú feladatellátást és az arra va
 j) koordinálja a különleges jogrendi felkészülés ágazati feladatainak ellátását, valamint
 
 k) ellátja a jogszabályban részére meghatározott további feladatokat.
+
+l) kijelöli az ország védelme és biztonsága szempontjából jelentős lőteret.

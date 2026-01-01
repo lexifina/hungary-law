@@ -15,3 +15,5 @@
 (3) Az összehangolt védelmi tevékenység elrendeléséről, annak okairól és a Kormány által az összehangolt védelmi tevékenység foganatosításával összefüggésben tervezett főbb döntésekről a Kormány köteles tájékoztatni a köztársasági elnököt és az Országgyűlés tárgykör szerint feladatkörrel rendelkező bizottságát.
 
 (4) Az összehangolt védelmi tevékenység elrendeléséről a lakosságot – a nemzetbiztonsági érdek védelmének elsőbbségével – kormányrendeletben meghatározottak szerint azonnali hatállyal tájékoztatni kell és gondoskodni kell a lakosságtájékoztatás folyamatosságáról.
+
+(5) Összehangolt védelmi tevékenység, ha az elrendelése feltételei fennállnak, különleges jogrend idején is elrendelhető.

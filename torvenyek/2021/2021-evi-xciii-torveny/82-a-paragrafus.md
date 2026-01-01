@@ -1,1 +1,3 @@
-82/A. § Az Országgyűlés Alaptörvény 51. cikk (3) bekezdése szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 180 napos időtartamú megadására irányulhat.
+82/A. § (1) Az Országgyűlés Alaptörvény 51. cikk (3) bekezdése szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 6 hónapos időtartamú megadására irányulhat.
+
+(2) Az Országgyűlés Alaptörvény 53. cikk (1) bekezdés b) pontja szerinti döntését kezdeményező javaslat a felhatalmazás alkalmanként legfeljebb 6 hónapos időtartamú megadására irányulhat.

@@ -22,7 +22,7 @@
 
 6. a védelmi és biztonsági igazgatási feladatok ellátásával összefüggő minősített adatközlési feltételek kialakítására és fenntartására, a védett kommunikáció kialakítására és működtetésére, valamint az érintett kormányzati igazgatási szervek kijelölésére vonatkozó szabályokat,
 
-7.
+7. az ország védelme és biztonsága szempontjából jelentős lőtér kijelölésének részletes szabályait, valamint a működésének feltételeit,
 
 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 

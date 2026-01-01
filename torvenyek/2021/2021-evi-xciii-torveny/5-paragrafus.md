@@ -78,6 +78,8 @@ i) a kiberbiztonsági válsághelyzet;
 
 29. az ország védelme és biztonsága szempontjából jelentős kettős kijelölésű szervezet: az ország védelme és biztonsága szempontjából jelentős szervezet, melyet a honvédelmi ágazati kijelölő hatóság is kijelölt, valamint az a kritikus szervezet, melyet a honvédelmi ágazati kijelölő hatóság a 43/N. § alapján is kijelölt,
 
+29a. az ország védelme és biztonsága szempontjából jelentős lőtér: a védelmi és biztonsági igazgatás központi szerve által kijelölt, lőtér-üzemeltetési engedéllyel rendelkező polgári rendeltetésű lőtér, amely folyamatos működésével és rendelkezésre állásával részt vesz a védelmi és biztonsági érdekből végzett felkészítésben és lőgyakorlathoz, kiképzéshez használnak,
+
 30. az ország védelme és biztonsága szempontjából jelentős szervezet: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan alapvető szolgáltatást nyújtó szervezet, amely elengedhetetlen Magyarország társadalmi, gazdasági stabilitásához és a biztonság, a környezet, a védelmi képességek és a nemzeti ellenálló képességi rendszer fenntartásához.
 
 31. általános kijelölő hatóság: az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, a kijelölés fenntartására, vagy a kijelölés visszavonására irányuló közigazgatási hatósági eljárás lefolytatására kormányrendeletben kijelölt hatóság, amely a honvédelmi ágazati kijelölő hatóság kijelölési eljárása során az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott esetekben szakhatóságként is közreműködik,
