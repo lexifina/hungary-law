@@ -1,1 +1,3 @@
-6. § Nem lép hatályba az R2. 31. § (4) bekezdése és 1. melléklet 2.3.5. pontja.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
