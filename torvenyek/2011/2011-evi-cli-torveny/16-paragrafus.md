@@ -20,4 +20,4 @@ b) neki felróható okból egy évig nem vesz részt az Alkotmánybíróság mun
 
 c) a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl.
 
-(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés b) pontja esetében – a megbízatási idő lejártának napjával – és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet a Magyar Közlönyben közzé kell tenni.
+(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés b) pontja esetében – a megbízatási idő lejártának napjával – és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet az Alkotmánybíróság Határozatai hivatalos lapban közzé kell tenni.

@@ -4,7 +4,17 @@
 
 (3) A teljes ülésen hivatalból vesz részt a főtitkár, továbbá részt vehetnek az elnök által meghívott személyek.
 
-(4) A teljes ülés akkor határozatképes, ha azon legalább az Alkotmánybíróság tagjainak kétharmada, köztük az elnök vagy az elnök akadályoztatása esetén az elnökhelyettes jelen van.
+(4) A teljes ülés akkor határozatképes, ha azon legalább az Alkotmánybíróság hivatalban lévő tagjainak kétharmada, köztük
+
+a) az elnök,
+
+b) az elnök akadályoztatása esetén az elnökhelyettes, vagy
+
+c) az elnök és az elnökhelyettes együttes akadályoztatása esetén az Alkotmánybíróság elnök által kijelölt tagja
+
+jelen van.
+
+(4a) A (4) bekezdés c) pontja szerinti esetben az Alkotmánybíróság elnök által kijelölt tagja eseti jelleggel az elnök jogkörében eljárva összehívja és vezeti a teljes ülést.
 
 (5) Ha e törvény másként nem rendelkezik, a teljes ülés döntéseit nyílt szavazással, szótöbbséggel, tartózkodó szavazat nélkül hozza meg. Az Alkotmánybíróság tagja a döntésben köteles részt venni. Szavazategyenlőség esetén az elnök szavazata dönt.
 

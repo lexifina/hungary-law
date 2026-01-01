@@ -2,7 +2,7 @@
 
 (2) Az Alkotmánybíróság teljes ülésén dönt
 
-a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban és a 38. §-ban meghatározott eljárásban,
+a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban, a 35/A. §-ban és a 38. §-ban meghatározott eljárásban,
 
 b) alaptörvény-ellenes vagy nemzetközi szerződésbe ütköző törvény megsemmisítéséről, valamint a tanács által érdemben vizsgált ügyben törvény megsemmisítéséről,
 
