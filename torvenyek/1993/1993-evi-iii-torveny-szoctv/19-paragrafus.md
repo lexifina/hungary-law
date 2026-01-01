@@ -4,9 +4,9 @@
 
 (1b) Közhiteles hatósági nyilvántartásnak minősül
 
-a) a 18. §-ban szabályozott nyilvántartás a 18. § d) és e) pontja szerinti adatkör tekintetében,
+a)
 
-b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
+b)
 
 c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 

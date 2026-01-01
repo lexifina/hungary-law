@@ -22,7 +22,7 @@ h) a támogatás jogcímét (alanyi, normatív),
 
 i) a közgyógyellátásra jogosult által a közgyógyellátás terhére igénybe vett gyógyszert és gyógyászati segédeszközt.
 
-(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés c)–i) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés e), g) és i) pontja szerinti adatok, valamint a (3) bekezdés f) pontja a jogosultsági időtartam alatt még felhasználható és az 50/E. §-ban szabályozott időszakban még rendelkezésre álló gyógyszerkeret összege tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartás adatainak megismerésére – a (3) bekezdés e) pontja szerinti adat kivételével – az 51. §-ban meghatározott módon és célból a működési engedéllyel rendelkező gyógyszertár jogosult.
 

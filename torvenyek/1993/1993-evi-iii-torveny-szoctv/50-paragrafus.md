@@ -30,7 +30,7 @@ h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi 
 
 (3)
 
-(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot a megállapítása alapjául szolgáló, az (1) bekezdésben foglalt körülmény fennállásának időtartamáig, a normatív közgyógyellátásra való jogosultságot négy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő nap.
+(4) Az alanyi és a normatív közgyógyellátásra való jogosultságról a járási hivatal dönt. Az alanyi közgyógyellátásra való jogosultságot a megállapítása alapjául szolgáló, az (1) bekezdésben foglalt körülmény fennállásának időtartamáig, de legalább négy évre, míg a normatív közgyógyellátásra való jogosultságot négy évre állapítják meg. A közgyógyellátásra való jogosultság kezdő időpontja – az (5) bekezdésben meghatározott kivétellel – a jogosultságot megállapító határozat meghozatalát követő harmadik nap.
 
 (4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg.
 

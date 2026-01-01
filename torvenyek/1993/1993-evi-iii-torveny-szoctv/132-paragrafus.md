@@ -30,7 +30,7 @@ m) a tartós ápolást végzők időskori támogatásának igénylésére, megá
 
 n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális szakértői szerv kijelölését;
 
-o)
+o) a szociális alapszolgáltatást és a szociális szakosított ellátást nyújtó intézménynél, szolgáltatónál foglalkoztatott személyek tekintetében a Kjt. illetményrendszerétől való eltérés és ennek végrehajtásának szabályait;
 
 p) a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 
