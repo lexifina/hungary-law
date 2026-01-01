@@ -128,6 +128,8 @@ III. A befektetési alap befektetési politikája és céljai, azon eljárások 
 
 25.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
 
+25.10. Annak megjelölése, hogy a nyilvános nyílt végű ingatlanalap alkalmazza-e a külön jogszabály szerinti, zártkörű ingatlanalap befektetési jegyeire vonatkozó beszámítás lehetőségét
+
 IV. A kockázatok
 
 26. A kockázati tényezők, valamint annak bemutatása, hogy az ABAK hogyan felel meg a 16.§ (5) bekezdésben előírt feltételeknek
@@ -680,7 +682,7 @@ A kockázati tőkebefektetés, illetve magántőke-befektetés jellegzetességei
 
 A befektetési alapkezelő
 
-a) cégneve, székhelye;
+a) cégneve, székhelye és a minősített befolyással rendelkező tulajdonosai,
 
 b) a cégbejegyzésének száma, helye és ideje;
 

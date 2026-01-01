@@ -1,10 +1,10 @@
 69. § (1) Nyilvános befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy a letétkezelő a befektetési alap induló saját tőkéje lejegyzését és befizetését, illetve teljesítését a Felügyelet részére igazolja.
 
-(2) Zártkörű befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy a befektetési alapkezelő a Felügyeletnek benyújtsa
+(2) Zártkörű befektetési alap nyilvántartásba történő bejegyzésének feltétele, hogy az engedélyezett kezelési szabályzattal együtt a befektetési alapkezelő a Felügyeletnek benyújtsa
 
 a) a letétkezelő megbízására vonatkozó szerződést;
 
-b) a befektetési alap kezelési szabályzatát, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre;
+b)
 
 c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
 
@@ -12,7 +12,7 @@ d) ingatlanalap és vegyes alap esetében a könyvvizsgáló megbízására irá
 
 (3) Ingatlanalap és vegyes alap esetében az (1) és (2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
 
-(4) A 2. § (2) bekezdés szerinti ABAK által kezelt kockázati illetve magántőkealap esetében a (2) bekezdésben meghatározott feltételek közül a b) és c) pontban foglaltakat kell teljesíteni a nyilvántartásba vételhez.
+(4) A 2. § (2) bekezdés szerinti ABAK által kezelt kockázati illetve magántőkealap esetében a (2) bekezdésben meghatározott feltételek közül a c) pontban foglaltakat kell teljesíteni a nyilvántartásba vételhez.
 
 (5) A kockázati tőkealap nyilvántartásba vételét követő harminc napon belül a kockázati tőkealap-kezelő intézkedik a kockázati és magántőkealap nyilvántartásba vételét megelőzően lejegyzett befektetési jegyek vagy ideiglenes befektetési jegyek haladéktalan előállításáról. A kockázati tőkealap a nyilvántartásba vételét követően a befektetési jegyre eső vagyoni hozzájárulás teljes befizetéséig terjedő időszakra, a befektető által jegyzett befektetési jegyek névértéke összegéről (kockázati tőkealap jegyzett tőke összegéről) ideiglenes befektetési jegyet bocsát ki, azzal, hogy a befektető által jegyzett befektetési jegyre teljesített vagyoni hozzájárulás összegét – nyomdai úton történő forgalomba hozatal esetén – az ideiglenes befektetési jegyen, illetve – dematerializált úton történő forgalomba hozatal esetén – a 101. § (3) bekezdés szerinti okiraton kell feltüntetni azzal, hogy minden további vagyoni hozzájárulás teljesítése esetén a 101. § (3) bekezdése szerinti új okirat kerül kiállításra a befektető által addig teljesített vagyoni hozzájárulás mértéke %-ában és a mértéke összegszerű feltüntetésével.
 

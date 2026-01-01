@@ -72,7 +72,9 @@ I. A befektetési alapra vonatkozó információk
 
 3.9. Amennyiben a befektetési alap – a Felügyelet engedélye alapján – eszközeinek akár 100 százalékát fektetheti olyan, különböző átruházható értékpapírokba és pénzpiaci eszközökbe, amelyeket valamely EGT-állam, annak önkormányzata, harmadik ország, illetve olyan nemzetközi szervezet bocsátott ki, amelynek egy vagy több EGT-állam is tagja, az erre vonatkozó figyelemfelhívás
 
-3.10. Az adott tárgykörre vonatkozó egyéb információ
+3.10. Amennyiben a nyilvános nyílt végű ingatlanalap alkalmazza a külön jogszabály szerinti, zártkörű ingatlanalap befektetési jegyei beszámításának lehetőségét, az erre vonatkozó figyelemfelhívás
+
+3.11. Az adott tárgykörre vonatkozó egyéb információ
 
 4. A befektetők részére szóló tájékoztatás elérhetősége
 

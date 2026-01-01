@@ -26,13 +26,15 @@ a) az ABAK tőkeáttétel alkalmazásával kapcsolatos politikájáról, valamin
 
 b) a cél-ABA letelepedésére vonatkozó információkról, ha az ABA gyűjtő-ABA;
 
-c) ABA-k kezelési szabályzatáról, figyelemmel a (3a) bekezdésre;
+c)
 
 d) a letétkezelő kijelöléséről;
 
 e) a befektetők tájékoztatására szolgáló azon információkról, amelyeket az a)–d) pontok nem tartalmaznak.
 
-(3a) A Felügyelet jóváhagyása szükséges a (3) bekezdés c) pontja szerinti kezelési szabályzat zárt körű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez. A Felügyelet jóváhagyás megadására irányuló eljárása alatt a kezelési szabályzat nem alkalmazható.
+(3a) A Felügyelet jóváhagyása szükséges a zártkörű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez, ahol legalább a 21. § feltételeit figyelembe veszi.
+
+(3b) A Felügyelet jóváhagyása szükséges a zártkörű alap kezelési szabályzat jóváhagyásához.
 
 (4) Az engedély iránti kérelem teljesnek tekinthető, ha az ABAK legalább az (1) bekezdés a)–d) pontjában, valamint a (2) bekezdésben említett információkat benyújtotta.
 

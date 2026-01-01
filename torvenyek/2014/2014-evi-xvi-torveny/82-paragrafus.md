@@ -14,7 +14,7 @@
 
 (5) A beolvadó és az átvevő alapok befektetési jegy tulajdonosainak az egyesüléssel kapcsolatos tájékoztatása módjára e törvény általános, illetve az adott alap kezelési szabályzatának befektetők tájékoztatására vonatkozó rendelkezései alkalmazandók.
 
-(6)
+(6) Zártkörű alapok egyesülésére a kockázati és magántőkealapok egyesülésére vonatkozó szabályok megfelelően irányadók.
 
 (7) Nem kell a 86. § (2) bekezdés, a 90. § (1) bekezdés, a 95. § (1) bekezdés, a 99. § (4) bekezdés előírásait alkalmazni abban az esetben, ha egy (1) bekezdés szerinti befektetési alap az egyesülés során ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alapnak az egyesülés során újonnan létrehozott részalapjává alakul, feltéve, hogy
 

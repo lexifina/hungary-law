@@ -56,6 +56,8 @@ bn) tájékoztató, kezelési szabályzat utolsó módosításának időpontja,
 
 bo) jogelőd, jogutód befektetési alap neve.
 
+(1a) A nyilvántartás az (1) bekezdés b) pont ba), bl) és bm) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
 (2) A Felügyelet (1) bekezdés szerinti nyilvántartása nyilvános. A Felügyelet az (1) bekezdésben meghatározott adatokat a honlapján letölthető formában magyar és angol nyelven közzéteszi.
 
 (3) A Felügyelet a befektetési alapkezelők (1) bekezdés szerinti adatainak változása esetén tájékoztatja a befektetési alapkezelő fogadó országának felügyeleti hatóságát.
