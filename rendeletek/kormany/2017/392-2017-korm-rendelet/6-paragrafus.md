@@ -6,6 +6,6 @@
 
 (4) A Nyilvántartás alapadataihoz kapcsolódó mellékletek tekintetében az (1)–(3) bekezdés rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a dokumentumok valóságtartalmáért azok kiállítója tartozik helytállni.
 
-(5)[^1] A Nyilvántartásba be kell jegyezni valamennyi, a Tvt. 51. § (1) és (4) bekezdés a)–c) pontjában meghatározott tevékenységekre vonatkozó adatot.
+(5)[^2] A Nyilvántartásba be kell jegyezni valamennyi, a Tvt. 51. § (1) és (4) bekezdés a)–c) pontjában meghatározott tevékenységekre vonatkozó adatot.
 
-[^1]: A 6. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 179. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: A 6. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 179. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
