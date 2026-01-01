@@ -68,3 +68,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2025-06-28 | 2025. évi LVIII. törvény | 2001-64-00-00.77 |
 | 2025-07-20 | 2025. évi L. törvény | 2001-64-00-00.76 |
 | 2025-09-01 | 2025. évi LVIII. törvény | 2001-64-00-00.78 |
+| 2026-01-01 | 2025. évi LVIII. törvény | 2001-64-00-00.79 |
