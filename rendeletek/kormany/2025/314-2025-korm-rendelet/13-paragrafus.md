@@ -2,9 +2,9 @@
 
 (2) A 12. § 2026. január 1-jén lép hatályba.
 
-(3) Az 1. §, a 2. § és a 9. § az Európai Bizottság jóváhagyását követő napon lép hatályba.[^13]
+(3) Az 1. §, a 2. § és a 9. § az Európai Bizottság jóváhagyását követő napon lép hatályba.[^12]
 
-(4) Az 1. §, a 2. § és a 9. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.[^14]
+(4) Az 1. §, a 2. § és a 9. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.[^13]
 
-[^13]: Az 1/2026. (I. 12.) KKM határozat alapján a hatálybalépés időpontja 2025. december 18.
-[^14]: Lásd az 1/2026. (I. 12.) KKM határozatot.
+[^12]: Az 1/2026. (I. 12.) KKM határozat alapján a hatálybalépés időpontja 2025. december 18.
+[^13]: Lásd az 1/2026. (I. 12.) KKM határozatot.

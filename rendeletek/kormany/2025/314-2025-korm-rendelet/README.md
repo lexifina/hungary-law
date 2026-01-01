@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-314-20-
 | 2025-10-19 | 2025-314-20-22.2 | 2010. évi CXXX. törvény |
 | 2025-12-18 | 2025-314-20-22.5 | 1/2026. (I. 12.) KKM határozat |
 | 2025-12-19 | 2025-314-20-22.6 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2025-314-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
