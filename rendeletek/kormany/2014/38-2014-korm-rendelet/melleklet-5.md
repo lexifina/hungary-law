@@ -1,4 +1,4 @@
-5. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^122]
+5. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^123]
 
 Újonnan alapított mezőgazdasági termelőszervezet mezőgazdasági üzemközpontjának bejelentése adattartalma
 
@@ -14,9 +14,9 @@
 
 1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-1.6.[^123] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+1.6.[^124] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
-2.[^124] Annak jelölése, hogy a benyújtó meghatalmazással vagy törvényes képviselőként jár el, valamint a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
+2.[^125] Annak jelölése, hogy a benyújtó meghatalmazással vagy törvényes képviselőként jár el, valamint a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
 3. A kérelmező újonnan alapított mezőgazdasági termelőszervezet adatai:
 
@@ -24,7 +24,7 @@
 
 3.2. honossága,
 
-3.3.[^125] nyilvántartó hatóság típusa és megnevezése,
+3.3.[^126] nyilvántartó hatóság típusa és megnevezése,
 
 3.4. nyilvántartási száma,
 
@@ -36,7 +36,7 @@
 
 3.8. telefonszáma,
 
-3.9.[^126] értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
+3.9.[^127] értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4. Annak jelölése, hogy az újonnan alapított mezőgazdasági termelőszervezet státusz törlését a 17. § vagy a 17/A. § alapján kéri.
 
@@ -56,9 +56,9 @@
 
 7.3. ingatlan esetében fennálló használati jog megjelölése esetén nyilatkozat arról, hogy a földhasználati nyilvántartásba bejegyzésre került-e,
 
-7.4.[^127] ingatlan azonos-e a kérelmező székhelyével vagy telephelyével,
+7.4.[^128] ingatlan azonos-e a kérelmező székhelyével vagy telephelyével,
 
-7.5.[^128] az ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
+7.5.[^129] az ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
 
 8. A benyújtó nyilatkozata arról, hogy
 
@@ -68,10 +68,10 @@
 
 9. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^122]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
-[^123]: Az 5. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (5) bekezdése iktatta be.
-[^124]: Az 5. melléklet 2. pontja a 420/2025. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^125]: Az 5. melléklet 3. pont 3.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^126]: Az 5. melléklet 3. pont 3.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^127]: Az 5. melléklet 7. pont 7.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^128]: Az 5. melléklet 7. pont 7.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^123]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^124]: Az 5. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (5) bekezdése iktatta be.
+[^125]: Az 5. melléklet 2. pontja a 420/2025. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^126]: Az 5. melléklet 3. pont 3.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^127]: Az 5. melléklet 3. pont 3.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^128]: Az 5. melléklet 7. pont 7.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^129]: Az 5. melléklet 7. pont 7.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.

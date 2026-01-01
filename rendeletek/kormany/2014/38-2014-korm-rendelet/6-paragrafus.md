@@ -1,4 +1,4 @@
-6. §[^19] (1)[^20] A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében – a (3) és (4) bekezdésben foglaltak kivételével – az okirat papíralapú vagy elektronikus másolatának csatolásával
+6. §[^20] (1)[^21] A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében – a (3) és (4) bekezdésben foglaltak kivételével – az okirat papíralapú vagy elektronikus másolatának csatolásával
 
 a) igazolja, hogy a kérelem benyújtását megelőző öt évből legalább három évben értékesítésből nettó árbevétele származott, továbbá, hogy az éves értékesítése – az eladott mező- és erdőgazdasági áruk beszerzési értékével és a közvetített mező- és erdőgazdasági szolgáltatások értékével csökkentett – nettó árbevételének több mint a fele a mezőgazdasági tevékenysége folytatásából származott,
 
@@ -10,13 +10,13 @@ ca) az 5. § (1) bekezdés a) pontjában, illetve az 5/A. §-ban foglaltakat, va
 
 cb) a ca) alpontban meghatározottak hiányában azt, hogy a szervezet legalább egy vezető tisztségviselője vagy a cégvezetője – a 2. §-ban foglaltak figyelembevételével – 3 éves üzemi gyakorlattal rendelkezik.
 
-(1a)[^21] A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelméhez – az (1b) bekezdés szerinti eset kivételével – az aláírási címpéldány másolatát is csatolni kell.
+(1a)[^22] A szervezet mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelméhez – az (1b) bekezdés szerinti eset kivételével – az aláírási címpéldány másolatát is csatolni kell.
 
-(1b)[^22] Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a mezőgazdasági igazgatási szerv az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+(1b)[^23] Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a mezőgazdasági igazgatási szerv az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
 (2) A települési és a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat), az állam vagy költségvetési szerv 100%-os tulajdonában álló szervezet esetében az (1) bekezdés b) pontjában foglaltak helyett igazolni kell, hogy az adott szervezet az állam, az önkormányzat, illetve a költségvetési szerv 100%-os tulajdonában áll, ezért a Földforgalmi tv. 5. § 19. pont a) alpont ac) pontja szerinti feltételt nem kell vizsgálni.
 
-(3)[^23] A kérelemben csak a 2. melléklet 1., 2., 3., 4., 7., 9., 10. és 11. pontja szerinti adatokat kell megadni, az (1) bekezdés szerinti feltételek fennállásáról nem kell nyilatkozni
+(3)[^24] A kérelemben csak a 2. melléklet 1., 2., 3., 4., 7., 9., 10. és 11. pontja szerinti adatokat kell megadni, az (1) bekezdés szerinti feltételek fennállásáról nem kell nyilatkozni
 
 a) a nemzeti park igazgatóság és
 
@@ -36,11 +36,11 @@ ba) a Ptk. 3:44. §-a szerinti egyesüléssel létrejött jogi személy esetébe
 
 bb) a Ptk. 3:45. §-a szerinti szétválással létrejött jogi személy esetében, kivéve, ha a szétválással létrejött jogi személy főtevékenysége megfeleltethető valamely mező- vagy erdőgazdasági tevékenységnek.
 
-(6)[^24] Az (1) bekezdés b) és c) pontjában foglalt feltételek fennállását jogi személy vezető tisztségviselő esetében a nevében eljárásra kijelölt személy vonatkozásában kell igazolni.
+(6)[^25] Az (1) bekezdés b) és c) pontjában foglalt feltételek fennállását jogi személy vezető tisztségviselő esetében a nevében eljárásra kijelölt személy vonatkozásában kell igazolni.
 
-[^19]: A 6. § a 31/2024. (II. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^20]: A 6. § (1) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
-[^21]: A 6. § (1a) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 33. §-a iktatta be.
-[^22]: A 6. § (1b) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 33. §-a iktatta be.
-[^23]: A 6. § (3) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
-[^24]: A 6. § (6) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 52. § e) pontja szerint módosított szöveg.
+[^20]: A 6. § a 31/2024. (II. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^21]: A 6. § (1) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^22]: A 6. § (1a) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 33. §-a iktatta be.
+[^23]: A 6. § (1b) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 33. §-a iktatta be.
+[^24]: A 6. § (3) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^25]: A 6. § (6) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 52. § e) pontja szerint módosított szöveg.

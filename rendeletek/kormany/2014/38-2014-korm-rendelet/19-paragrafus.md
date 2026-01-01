@@ -1,6 +1,6 @@
-## 6.[^77] A kényszerhasznosítóként való jelentkezés tényének bejegyzésére és törlésére vonatkozó különös szabályok
+## 6.[^78] A kényszerhasznosítóként való jelentkezés tényének bejegyzésére és törlésére vonatkozó különös szabályok
 
-19. §[^78] (1) A kényszerhasznosítóként jelentkezés iránti kérelmet a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem adattartalmát a 3. melléklet 1–3., 4.4. és 5–6. pontja határozza meg.
+19. §[^79] (1) A kényszerhasznosítóként jelentkezés iránti kérelmet a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem adattartalmát a 3. melléklet 1–3., 4.4. és 5–6. pontja határozza meg.
 
 (2) A Fétv. 91. §-ában meghatározott módon kényszerhasznosítóként kérelmet előterjesztő földművesek és mezőgazdasági termelőszervezetek esetében a mezőgazdasági igazgatási szerv a Fétv. 91. § (4) bekezdésében foglalt 15 napos határidő lejártát követő naptól számított 30 napon belül jegyzi be a kérelmezők adatlapjaira a kényszerhasznosítóként jelentkezés tényét, melyről egyszerűsített határozatot hoz.
 
@@ -12,5 +12,5 @@
 
 (6) A kényszerhasznosítóként jelentkezés tényének a nyilvántartásba vételét és a nyilvántartásból való törlését a 11. § (2) bekezdése szerint kell közölni.
 
-[^77]: A 6. alcím címe a 481/2024. (XII. 31.) Korm. rendelet 52. § m) pontja szerint módosított szöveg.
-[^78]: A 19. § a 481/2024. (XII. 31.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^78]: A 6. alcím címe a 481/2024. (XII. 31.) Korm. rendelet 52. § m) pontja szerint módosított szöveg.
+[^79]: A 19. § a 481/2024. (XII. 31.) Korm. rendelet 46. §-ával megállapított szöveg.

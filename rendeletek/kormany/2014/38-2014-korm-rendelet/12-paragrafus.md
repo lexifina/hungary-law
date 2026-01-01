@@ -1,8 +1,8 @@
-## 11/C. §[^40] A földműves nyilvántartásba vételi eljárásokban az eljárás szünetelésének nincs helye.
+## 11/C. §[^41] A földműves nyilvántartásba vételi eljárásokban az eljárás szünetelésének nincs helye.
 
-## 4.[^41] A változások átvezetésével kapcsolatos eljárás
+## 4.[^42] A változások átvezetésével kapcsolatos eljárás
 
-12. §[^42] (1) A nyilvántartásba vett földműves, mezőgazdasági termelőszervezet, illetve újonnan alapított mezőgazdasági termelőszervezet a nyilvántartásban szereplő adataiban utólag bekövetkező változást – a (2), (4) és (6) bekezdésekben foglalt esetek kivételével – a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni a mezőgazdasági igazgatási szervnek, a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon. A bejelentés adattartalmát a 3. melléklet határozza meg.
+12. §[^43] (1) A nyilvántartásba vett földműves, mezőgazdasági termelőszervezet, illetve újonnan alapított mezőgazdasági termelőszervezet a nyilvántartásban szereplő adataiban utólag bekövetkező változást – a (2), (4) és (6) bekezdésekben foglalt esetek kivételével – a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni a mezőgazdasági igazgatási szervnek, a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon vagy elektronikus űrlapon. A bejelentés adattartalmát a 3. melléklet határozza meg.
 
 (2) A nyilvántartás a személyiadat- és lakcímnyilvántartásban szereplő személyhez tartozó vagy a cégnyilvántartásban szereplő céghez tartozó adatokat közigazgatási hatósági döntés meghozatala nélkül átveszi a személyiadat- és lakcímnyilvántartásból, illetve a cégnyilvántartásból.
 
@@ -18,6 +18,6 @@
 
 (8) A mezőgazdasági igazgatási szerv a változások átvezetésének megtörténtét a 11. § (2) bekezdése szerint közli a bejelentővel.
 
-[^40]: A 11/C. §-t a 103/2018. (VI. 11.) Korm. rendelet 15. §-a iktatta be.
-[^41]: A 4. alcím címe a 481/2024. (XII. 31.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
-[^42]: A 12. § a 481/2024. (XII. 31.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^41]: A 11/C. §-t a 103/2018. (VI. 11.) Korm. rendelet 15. §-a iktatta be.
+[^42]: A 4. alcím címe a 481/2024. (XII. 31.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
+[^43]: A 12. § a 481/2024. (XII. 31.) Korm. rendelet 39. §-ával megállapított szöveg.
