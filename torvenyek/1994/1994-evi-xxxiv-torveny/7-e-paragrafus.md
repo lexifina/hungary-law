@@ -36,25 +36,25 @@ d) a Kormány döntése alapján részt vesz a magyar állampolgár vagy más sz
 
 e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat,
 
-f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a nemzetközi normák betartásával – ellátja a kijelölt
+f) a miniszter – indokolt esetben a külpolitikáért felelős miniszter egyetértésével meghozott – döntése alapján
 
-fa) magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét, valamint
+fa) elláthatja a kijelölt magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét,
 
-fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek, intézmények és létesítmények biztosítását,
+fb) elláthatja a kormányzati tevékenység szempontjából fontos, külföldön lévő kijelölt magyar szervek, intézmények és létesítmények biztosítását, valamint
 
-e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
+fc) speciális műveleti képességeivel külföldön Magyarország biztonsági, bűnüldözési érdekeinek érvényesítését szolgáló tevékenységet láthat el,
 
 g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 
 h) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a terrortámadás bekövetkezésével, illetve annak jelentős veszélyével összefüggő védelmi és biztonsági esemény (a továbbiakban: terrorbiztonsági esemény) esetén az azonnali és összehangolt reagálás érdekében – a védelmi és biztonsági igazgatás központi szerve koordinációs tevékenységének a megkezdéséig, a miniszter folyamatos tájékoztatása mellett – elsődleges beavatkozó szervezetként irányítja és koordinálja az eseménykezelésben érintett szerveknek és szervezeteknek a terrorbiztonsági esemény felderítésére, elhárítására, illetve felszámolására irányuló tevékenységét.
 
-(1a) Ha a terrorizmust elhárító szervnek az (1) bekezdés c) pontjában meghatározott személyvédelmi feladata ellátásához külföldre vonatkozó, valamint külföldi eredetű információk megszerzése szükséges, azok beszerzése érdekében
+(1a) Ha a terrorizmust elhárító szervnek az (1) bekezdés a) pont ad) alpontjában, c) pontjában vagy f) pontjában meghatározott feladata ellátásához külföldre vonatkozó, valamint külföldi eredetű információk megszerzése szükséges – a miniszter erre irányuló döntése esetén –, azok beszerzése érdekében
 
-a) megkeresi a hatáskörrel rendelkező nemzetbiztonsági szolgálatot, vagy
+a) az információkat saját hatáskörben megszerezheti, vagy
 
-b) az információkat saját hatáskörben megszerzi.
+b) a hatáskörrel rendelkező nemzetbiztonsági szolgálattal együttműködve végezheti tevékenységét.
 
-(1b) Az (1a) bekezdésben foglaltak végrehajtásának rendjét a terrorizmust elhárító szerv és a hatáskörrel rendelkező nemzetbiztonsági szolgálat megállapodásban rögzíti.
+(1b) Az (1a) bekezdés b) pontjában foglaltak végrehajtásának rendjét a terrorizmust elhárító szerv és a hatáskörrel rendelkező nemzetbiztonsági szolgálat megállapodásban rögzítheti.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
@@ -78,6 +78,6 @@ b) a rendelkezésre álló erőkkel és eszközökkel közreműködik a leplezet
 
 c) közreműködhet eljárási cselekmény végrehajtásában.
 
-(6) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott tevékenységére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 11. § (5) bekezdését, 14. § (1) és (2) bekezdését, 14. § (4) bekezdés a)–f) pontját, 14. § (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
+(6) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, e) pontjában, valamint az (1a) bekezdésben meghatározott tevékenységére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 11. § (5) bekezdését, 14. § (1) és (2) bekezdését, 14. § (4) bekezdés a)–f) pontját, 14. § (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
 
 (7) A terrorizmust elhárító szerv (1) bekezdés f) pontjában meghatározott tevékenységében, a Kormány döntése alapján meghatározott időtartamra – a hatályos nemzetközi normák betartásával – a Magyar Honvédség közreműködhet.

@@ -22,7 +22,7 @@ f) a közlekedési rendszabályok megtartásának, a járműhasználat szabálys
 
 (5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, a reintegrációs őrizet, valamint a megelőző távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – az intézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli az intézkedés alá vont személy
 
-a) azonosításához szükséges fényképlenyomatot,
+a) azonosításához szükséges fényképét,
 
 b) vezeték- és utónevét,
 
@@ -44,4 +44,28 @@ j) vonatkozásában elrendelt intézkedés időtartamát,
 
 k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
 
-(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.
+(5a) A rendőrség a büntetőeljárásról szóló törvény szerinti, a külföldi embercsempész elleni büntetőeljárásban alkalmazott feltételes ügyészi felfüggesztés ellenőrzése céljából – az ügyészség által meghatározott felfüggesztés időtartamáig – kezeli a gyanúsított
+
+a) azonosításához szükséges fényképét,
+
+b) családi és utónevét,
+
+c) születési családi és utónevét,
+
+d) születési helyét és idejét,
+
+e) anyja születési családi és utónevét,
+
+f) állampolgárságát,
+
+g) vonatkozásában alkalmazott felfüggesztés tényét, okát, időtartamát, a felfüggesztésről szóló határozat számát és keltét,
+
+h) vonatkozásában alkalmazott felfüggesztést alkalmazó ügyészség megnevezését és a felfüggesztésről szóló határozat közlésének időpontját, illetve azt az időpontot, ameddig a gyanúsítottnak Magyarország területét el kell hagynia.
+
+(5b) A rendőrség rendészeti célból jogosult átvenni
+
+a) az idegenrendészeti nyilvántartási rendszerben szereplő, az (5a) bekezdés a)–f) pontja szerinti adatokat, valamint
+
+b) a bűnügyi nyilvántartási rendszerben szereplő, az (5a) bekezdés a)–h) pontja szerinti adatokat.
+
+(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának, továbbá a külföldi embercsempész elleni büntetőeljárásban alkalmazott feltételes ügyészi felfüggesztés ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.

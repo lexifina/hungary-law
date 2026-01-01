@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2025-07-01 | 2025. évi XXXV. törvény | 1994-34-00-00.129 |
 | 2025-10-12 | 2019. évi XCVI. törvény | 1994-34-00-00.131 |
 | 2025-11-01 | 2025. évi LXX. törvény | 1994-34-00-00.132 |
+| 2026-01-01 | 2025. évi CXXV. törvény | 1994-34-00-00.134 |

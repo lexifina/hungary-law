@@ -10,7 +10,7 @@ c) magánlakásba — külön írásos utasítás birtokában — ellenőrzés, 
 
 d) területet lezárhat, és megakadályozhatja, hogy oda bárki belépjen vagy onnan távozzék, illetőleg az ott tartózkodókat távozásra kötelezheti.
 
-(2) A védett személyeket – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével – a Kormány rendeletben jelöli ki. A Kormány rendeletében ki nem jelölt személy ideiglenes védelmét a miniszter rendeli el. Az ideiglenes védelem tartama a 12 hónapot nem haladhatja meg.
+(2) A védett személyeket törvény vagy a Kormány – a nemzetközi jogi kötelezettségek és a viszonossági gyakorlat figyelembevételével megalkotott – rendelete jelöli ki. A törvényben vagy a Kormány rendeletében ki nem jelölt személy ideiglenes védelmét a miniszter rendeli el. Az ideiglenes védelem tartama a 12 hónapot nem haladhatja meg.
 
 (3) A rendőrség a védett középületek és az abban tartózkodók biztonsága érdekében az (1) bekezdés a) és d) pontjában meghatározottakon túl a be- és kilépésre az ott elhelyezett szerv vezetőjével egyetértésben szabályokat állapíthat meg.
 
