@@ -1,3 +1,3 @@
-2. §[^2]
+2. § Az Ehat Vhr. 13. §-a a következő (9) bekezdéssel egészül ki:
 
-[^2]: A 2. § a 9. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(9) Az energetikai auditálásra kötelezett gazdálkodó szervezet az energetikai auditokból származó ajánlások alapján konkrét és megvalósítható végrehajtási tervet dolgoz ki. A végrehajtási tervben meg kell határozni az audit egyes ajánlásainak végrehajtására irányuló intézkedéseket, amennyiben az műszakilag, illetve gazdaságilag megvalósítható. A végrehajtási tervet be kell nyújtani a gazdálkodó szervezet vezető tisztségviselője részére. A végrehajtási tervben szereplő intézkedések felülvizsgálatára az energetikai auditálásra kötelezett gazdálkodó szervezet költségszakértőt bízhat meg. Az energetikai auditálásra kötelezett gazdálkodó szervezet a végrehajtási tervekről és az ajánlások végrehajtási arányáról éves jelentést készít, amelyet a tárgyévet követő év március 31-ig honlapján közzétesz.”
