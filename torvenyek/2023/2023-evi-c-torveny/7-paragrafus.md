@@ -4,6 +4,8 @@
 
 (2) Zöldterület övezetből, mezőgazdasági terület övezetből és erdőterület övezetből új beépítésre szánt területet, vagy különleges beépítésre nem szánt területet kijelölni nem lehet, kivéve, ha legalább az új kijelöléssel azonos mértékű és legalább azzal megegyező biológiai aktivitás értékű zöldterület övezet, mezőgazdasági terület övezet vagy erdőterület övezet kerül csereterületként kijelölésre az új beépítésre szánt terület kijelölésével azonos település közigazgatási területén belül. Amennyiben a csereterület zöldterület övezetként kerül megvalósításra, a zöldterületnek alkalmasnak kell lennie az általános településrendezési és építési követelményekről szóló kormányrendeletben meghatározott közkerti vagy közparki funkció ellátására.
 
+(2a) A (2) bekezdésétől eltérően szélerőmű és szélerőműpark létesítése esetén nem kell csereterületet biztosítani, ha a villamos energiáról szóló törvény szerinti könnyített térségben valósul meg a beruházás.
+
 (3) Az építészeti-műszaki tervezés és az építési tevékenység során törekedni kell a meglévő növényállomány megtartására, valamint a zöld védjeggyel ellátott termékek alkalmazására.
 
 (4) A jogszabályokban és a hatósági eljárások során a környezetvédelmi, természetvédelmi, területfejlesztési és területrendezési előírások betartásával kell az építésügyi előírásokat meghatározni.

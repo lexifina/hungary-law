@@ -24,6 +24,14 @@ megvalósítására irányul.
 
 (3) Ipari parkban vagy logisztikai parkban megvalósuló kereskedelmi, szolgáltató, ipari, raktározási vagy logisztikai rendeltetésű építési beruházások abban az esetben is kiemelt beruházássá és az azokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatók, ha európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg.
 
+(3a) Az építési beruházás magáncélú kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügy kiemelt jelentőségű üggyé nyilvánítható – abban az esetben is, ha az építési beruházás központi költségvetési vagy európai uniós támogatás felhasználása nélkül valósul meg, továbbá az (1) bekezdés g) pontja szerinti feltételek nem teljesülnek –, ha
+
+a) az építési beruházás fő célja a FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó, egybefüggő területen elhelyezkedő egy vagy több lakóépület megépítése,
+
+b) a kiemelt beruházás keretében legalább 250 lakás valósul meg és
+
+c) a b) pont szerinti egy vagy több lakóépületben megvalósuló lakások legalább 70 százaléka megfelel a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszernek.
+
 (4) Az az építési beruházás (e bekezdés alkalmazásában a továbbiakban: beszállító) is kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügy kiemelt jelentőségű üggyé nyilvánítható, amely az (1) bekezdésben megállapított feltételeket nem teljesíti – ideértve azt is, hogy európai uniós és központi költségvetési támogatás felhasználása nélkül valósul meg a beszállító építési beruházása –, azonban az (1) bekezdés g) pontja szerinti építési beruházás megvalósítójával (e bekezdés alkalmazásában a továbbiakban: anyacég) írásbeli megállapodást köt a termeléséhez kapcsolódó beszállítói tevékenységről. Ilyen esetben az anyacég az (1) bekezdés g) pontja szerinti feltételeket önállóan vagy a beszállítóval együtt is teljesítheti. Az anyacég és a beszállító kiemelt beruházásának helyszínét és közvetlen környezetét a kiemelt beruházássá nyilvánító törvényben vagy kormányrendeletben meg kell határozni. A beszállítóra egyebekben a magáncélú kiemelt beruházásokra irányadó szabályokat kell alkalmazni.
 
 (5) Több építési beruházás együttesen is kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatóak, amelyek európai uniós és központi költségvetési támogatás felhasználása nélkül valósulnak meg, az (1) bekezdés g) pontjában szereplő feltételeket azonban együttesen teljesítik. Ilyen esetben az építési beruházásoknak egymással közvetlenül szomszédos ingatlanokon kell megvalósulniuk, és a kiemelt beruházás helyszínét és közvetlen környezetét a kiemelt beruházássá nyilvánító törvényben vagy kormányrendeletben meg kell határozni. Erre a több építési beruházást magában foglaló kiemelt beruházásra egyebekben a magáncélú kiemelt beruházásokra irányadó szabályokat kell alkalmazni.

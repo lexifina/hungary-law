@@ -12,4 +12,4 @@
 
 (3) A főépítészi szervezetrendszert az országos főépítész szakmailag irányítja.
 
-(4) A területi kamara – szakmagyakorlási jogosultságot nem keletkeztető – közhiteles és bárki számára elérhető nyilvántartást vezet a területén lakóhellyel rendelkező állami és az önkormányzati főépítészekről. A nyilvántartásba vétel iránti kérelmet írásban kell előterjeszteni. A nyilvántartásba vételről – valamint ha az adott főépítész még nem kamarai tag, akkor a kamarai tagságról is – a területi kamara elnöksége a törvényi feltételek igazolása után 30 napon belül határoz.
+(4) A területi kamara – szakmagyakorlási jogosultságot nem keletkeztető – kormányrendeletben meghatározottak szerint közhiteles és bárki számára elérhető nyilvántartást vezet a területén lakóhellyel rendelkező állami és az önkormányzati főépítészekről. A nyilvántartásba vétel iránti kérelmet írásban kell előterjeszteni. A nyilvántartásba vételről – valamint ha az adott főépítész még nem kamarai tag, akkor a kamarai tagságról is – a területi kamara elnöksége a törvényi feltételek igazolása után 30 napon belül határoz.
