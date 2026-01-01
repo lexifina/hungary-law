@@ -1,3 +1,3 @@
-9. §[^9]
+9. § A Számla rendelet 13/A. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^9]: A 9. § a 20. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(5) Amennyiben az adatszolgáltatásra kötelezett adóalany az állami adó- és vámhatóság rendszerének sikeres feldolgozásra vonatkozó visszaigazolása ellenére észleli, hogy hibás adatszolgáltatás történt, vagy a szolgáltatott adat módosítása egyéb körülmény miatt válik utólag szükségessé, az adatszolgáltatást a hiba elhárítását vagy a módosításra okot adó körülmény bekövetkezését követően meg kell ismételni. Az ismételt adatszolgáltatást az adatszolgáltatásra kötelezett adóalanynak az állami adó- és vámhatóság rendszerében jóvá kell hagynia.”
