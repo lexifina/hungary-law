@@ -1,13 +1,12 @@
 11. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet
 
-a)[^20]
+a) 6. § (2) bekezdés j) pont je) alpontjában a „tevékenységgel” szövegrész helyébe a „tevékenységgel, valamint” szöveg,
 
-b)[^21]
+b)[^14]
 
-c)[^22]
+c)[^15]
 
 lép.
 
-[^20]: A 11. § a) pontja a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^21]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 11. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

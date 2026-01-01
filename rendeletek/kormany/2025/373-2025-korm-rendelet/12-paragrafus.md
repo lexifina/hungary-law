@@ -1,3 +1,5 @@
-12. §[^23]
+12. § Hatályát veszti a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet
 
-[^23]: A 12. § a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+a) 6. § (2) bekezdés j) pont jd) alpontjában a „valamint” szövegrész,
+
+b) 12. § (4) bekezdése.
