@@ -1,3 +1,3 @@
-31. §[^111]
+31. §[^112]
 
-[^111]: A 31. §-t a 237/2020. (V. 26.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^112]: A 31. §-t a 237/2020. (V. 26.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

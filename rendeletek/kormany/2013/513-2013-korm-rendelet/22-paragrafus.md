@@ -1,6 +1,6 @@
 ## 21. § A különleges nevelőszülő által nevelt gyermekek közül – saját gyermekeit is beszámítva – legfeljebb három gyermek lehet életkora alapján különleges ellátást igénylő gyermek.
 
-22. § (1)[^94] Annak megállapítása érdekében, hogy a nevelőszülő alkalmas-e speciális, különleges vagy kettős szükségletű gyermek ellátására, az intézmény megvizsgálja
+22. § (1)[^95] Annak megállapítása érdekében, hogy a nevelőszülő alkalmas-e speciális, különleges vagy kettős szükségletű gyermek ellátására, az intézmény megvizsgálja
 
 a) a nevelőszülő motivációját, alkalmasságát, ideértve a pszichológiai alkalmasságát is,
 
@@ -14,15 +14,15 @@ cb) a tartósan beteg, a fogyatékos gyermek egészségügyi ellátásához, fej
 
 cc) a három év alatti gyermek egészségügyi ellátásához és fejlesztéséhez való hozzájutás lehetőségét, feltételeit.
 
-(2)[^95] Az intézmény a nevelőszülővel kötött keretmegállapodásban rögzíti, hogy a nevelőszülő speciális, különleges nevelőszülő, feltéve, hogy
+(2)[^96] Az intézmény a nevelőszülővel kötött keretmegállapodásban rögzíti, hogy a nevelőszülő speciális, különleges nevelőszülő, feltéve, hogy
 
 a) a nevelőszülő vállalja speciális, különleges vagy kettős szükségletű gyermek ellátását, valamint
 
-b)[^96] az intézmény az (1) bekezdésben foglaltak vizsgálata alapján meggyőződik arról, hogy a nevelőszülő alkalmas a speciális vagy különleges nevelőszülői feladatok ellátására és a feladat ellátásához a feltételek biztosítottak.
+b)[^97] az intézmény az (1) bekezdésben foglaltak vizsgálata alapján meggyőződik arról, hogy a nevelőszülő alkalmas a speciális vagy különleges nevelőszülői feladatok ellátására és a feladat ellátásához a feltételek biztosítottak.
 
-(3)[^97] Az intézmény a gondozási helyre vonatkozó javaslat kialakítása érdekében tájékoztatja a területi gyermekvédelmi szakszolgálatot arról, hogy a nevelőszülő az (1) bekezdés c) pontja alapján milyen ellátási szükségletű gyermek fogadására alkalmas.
+(3)[^98] Az intézmény a gondozási helyre vonatkozó javaslat kialakítása érdekében tájékoztatja a területi gyermekvédelmi szakszolgálatot arról, hogy a nevelőszülő az (1) bekezdés c) pontja alapján milyen ellátási szükségletű gyermek fogadására alkalmas.
 
-[^94]: A 22. § (1) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
-[^95]: A 22. § (2) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
-[^96]: A 22. § (2) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
-[^97]: A 22. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^95]: A 22. § (1) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^96]: A 22. § (2) bekezdés nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
+[^97]: A 22. § (2) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja szerint módosított szöveg.
+[^98]: A 22. § (3) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
