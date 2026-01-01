@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2024-01-01 | 1992-111-20-22.27 | 524/2023. (XII. 1.) Korm. rendelet |
 | 2025-01-01 | 1992-111-20-22.28 | 452/2024. (XII. 30.) Korm. rendelet |
 | 2025-11-01 | 1992-111-20-22.29 | 299/2025. (X. 1.) Korm. rendelet |
+| 2026-01-01 | 1992-111-20-22.30 | 410/2025. (XII. 22.) Korm. rendelet |
