@@ -1,1 +1,5 @@
-### 68. §
+68. § A Ve. 153. alcíme a következő 326/A. §-sal egészül ki:
+
+„326/A. § (1) A helyi választási bizottság valamennyi érintett szavazatot ismételten megszámol, ha a települési nemzetiségi választáson mandátumra jogosult jelöltek közül legkevesebb szavazatot szerző jelölt és a mandátumra nem jogosult jelöltek közül legtöbb szavazatot szerző jelölt szavazatszámának különbsége kisebb, mint az érvényes és érvénytelen szavazólapok száma összegének 0,5 százaléka, és az újraszámlálást a mandátumra nem jogosult jelöltek közül legtöbb szavazatot szerző jelölt a szavazatszámlálást követő napon 10 óráig kéri.
+
+(2) A szavazatok újraszámlálását a helyi választási bizottság a szavazást követő három napon belül végzi el.”

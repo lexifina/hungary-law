@@ -1,1 +1,3 @@
-### 57. §
+57. § A Ve. 294. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az országgyűlési egyéni választókerületi választási bizottság az egyéni választókerületi szavazás eredményéről kiállított szavazóköri jegyzőkönyvek alapján, legkésőbb a szavazást követő hatodik napon, újraszámlálás esetén legkésőbb a szavazást követő nyolcadik napon megállapítja az egyéni választókerületi választás eredményét. Az országgyűlési egyéni választókerületi választási iroda az egyéni választókerületi választás eredményéről kiállított jegyzőkönyv egy példányát – az egyéni választókerületi választás eredményét megállapító határozat jogerőre emelkedését követően haladéktalanul – a Nemzeti Választási Irodához juttatja el.”

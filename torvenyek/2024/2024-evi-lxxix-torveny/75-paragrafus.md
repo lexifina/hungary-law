@@ -8,12 +8,12 @@ c)
 
 d)
 
-e)
+e) 176. § (2) bekezdése,
 
-f)
+f) 177. § (1) bekezdés a) pontjában az „és lakcímét vagy személyi azonosítóját” szövegrész,
 
 g)
 
-h)
+h) 289. § (1) bekezdésében a „határidőben” szövegrész,
 
 i)
