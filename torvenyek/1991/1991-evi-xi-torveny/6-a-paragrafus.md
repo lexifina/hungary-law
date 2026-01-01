@@ -1,4 +1,4 @@
-6/A. § (1) Az egészségügyi államigazgatási szerv az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartásba vételt az egészségügyi államigazgatási szerv közli a bejelentő személlyel vagy szervezettel.
+6/A. § (1) Az egészségügyi államigazgatási szerv az Eütv. 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartásba vételt az egészségügyi államigazgatási szerv közli a bejelentő személlyel vagy szervezettel.
 
 (2) Az (1) bekezdés szerinti hatósági nyilvántartás tartalmazza:
 
@@ -6,11 +6,11 @@ a) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató 6
 
 b) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató székhelyére vonatkozó címadatokat,
 
-c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan a 6. § (4) bekezdés e) pont ea), ed), eh) és el) alpontjában meghatározott adatokat,
+c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan a 6. § (4) bekezdés e) pont ea), ed), eg), eh) és el) alpontjában meghatározott adatokat,
 
 d) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatót foglalkoztató, illetve igénybe vevő egészségügyi szolgáltatóra vonatkozóan azon szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését, amelynek működtetésében a nyilvántartásba vétel alapján működő egészségügyi szolgáltató részt vesz,
 
-e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó, az egészségügyi szolgáltatásban részt vevő egészségügyi és nem egészségügyi dolgozók 6/B. §-ban meghatározott adatait szervezeti egységenként és azon belül szakmánként.
+e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó, az egészségügyi szolgáltatásban részt vevő, az Eütv. szerinti alap- és működési nyilvántartásban szereplő dolgozók nevét, működési nyilvántartási számát szakmánkénti bontásban, valamint a szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott szakmákban feltételként előírt, az Eütv. szerinti alap- és működési nyilvántartásban nem szereplő egészségügyi dolgozók nevét, születési helyét és idejét szakmánkénti bontásban.
 
 (3) A (2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 

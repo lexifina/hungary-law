@@ -56,7 +56,13 @@ r) közvetlenül és haladéktalanul intézkedik, ha az ellátási kötelezetts�
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h)–i), o) és q) pontjában foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
-(3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont aa) és af) alpontja, b) és e) pontja, a 6/A. § (2) bekezdés a) pontja szerinti, a nyilvántartó rendszer által az egészségügyi szolgáltató részére meghatározott egyedi azonosító száma, a 6/A. § (2) bekezdés b), d) és e) pontja, valamint a 6/B. § (1) bekezdés 12–14. pontja szerinti adatok tekintetében minősül közhiteles hatósági nyilvántartásnak.
+(3) Az (1) bekezdés e) pont ea) alpontja szerinti nyilvántartás közhitelesen tartalmazza
+
+a) a (4) bekezdés a) pont af) alpontja, a (4) bekezdés b) pont bb) alpontja és a (4) bekezdés e) pont ea) alpontja szerinti adatokat, a (4) bekezdés e) pont eb) alpontja szerinti adatok közül a közszolgáltatásban való részvétel tényét, a (4) bekezdés e) pont ec)–ee), eg) és eh) alpontja szerint adatokat, a (4) bekezdés e) pont ei) alpontja tekintetében a helyettesítés kezdetét és helyét, valamint az ügyeletben való részvételre vonatkozó adatokat, a (4) bekezdés e) pont ek)–eo) alpontja szerinti adatokat, ide nem értve a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti járműnyilvántartásban szereplő adatokat, valamint a (4) bekezdés h) pontja szerinti adatok közül a közreműködés igénybevételének tényét szakmánként,
+
+b) a (4a) bekezdés szerinti közreműködő egészségügyi szolgáltatók vonatkozásában a (4) bekezdés a) pont af) alpontja szerinti adatot, a (4) bekezdés h) pontja szerinti adatok közül a közreműködés igénybevételének tényét szakmánként, valamint a (4a) bekezdés d) pont dg)–di) alpontja szerinti adatokat,
+
+c) a 6/A. § szerinti egészségügyi szolgáltatók vonatkozásában a (4) bekezdés a) pont af) alpontja és a (4) bekezdés e) pont eg) és eh) alpontja szerinti adatokat.
 
 (4) Az (1) bekezdés e) pont ea) és eb) alpontja szerinti nyilvántartás az egészségügyi szolgáltató tekintetében tartalmazza:
 
@@ -70,7 +76,7 @@ ac) költségvetési szerv fenntartójának megnevezését,
 
 ad) képviselője nevét,
 
-ae) adószámát,
+ae) statisztikai számjelének első nyolc számjegyét,
 
 af) nyilvántartó rendszer által meghatározott egyedi azonosító számát,
 
@@ -80,7 +86,13 @@ ah) finanszírozási szerződésének egészségbiztosítási szerv által adott
 
 ai) internetes honlapja címét, ha ilyennel rendelkezik;
 
-b) az a) pont szerinti egészségügyi szolgáltató székhelyére és az egészségügyi szolgáltatás telephelyére vonatkozó címadatokat;
+b) az a) pont szerinti egészségügyi szolgáltató
+
+ba) székhelyére és
+
+bb) a működési engedélye szerinti telephelyére
+
+vonatkozó címadatokat;
 
 c) az a) pont szerinti egészségügyi szolgáltató elérhetőségére vonatkozó adatokat telefonszám és elektronikus levelezési cím megjelölésével;
 
@@ -96,7 +108,7 @@ ec) szakellátás esetén az egészségügyi szolgáltató által végezhető eg
 
 ed) a szakmához tartozó szolgáltatási típus megnevezését,
 
-ee) az egészségügyi szolgáltató által végezhető tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra, a működési engedély számát, kiállításának időpontját, státuszát, a működés megkezdésének időpontját, az engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
+ee) az egészségügyi szolgáltató által végezhető tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra, a működési engedély számát, véglegessé válásának időpontját, státuszát, a működés megkezdésének időpontját, az engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
 
 ef) az engedélyező hatóság megnevezését,
 
@@ -104,7 +116,7 @@ eg) a járóbeteg-szakellátásban és az alapellátásban a heti rendelési id�
 
 eh) az alapellátásban a tanácsadási időt, rendelkezésre állási időt napi bontásban,
 
-ei) egészségbiztosítási szervvel szerződést kötött alapellátás esetén a helyettesítésre vonatkozó adatokat, ezen belül a helyettesítő nevét, helyettesítés kezdetét, helyettesítés helyét, egészségbiztosítási szervvel szerződést kötött alapellátás esetén az ügyeletben való részvételre vonatkozó adatokat,
+ei) egészségbiztosítási szervvel szerződést kötött alapellátás esetén a helyettesítésre vonatkozó adatokat, ezen belül a helyettesítő nevét és működési nyilvántartási számát, helyettesítés kezdetét, helyettesítés helyét, egészségbiztosítási szervvel szerződést kötött alapellátás esetén az ügyeletben való részvételre vonatkozó adatokat,
 
 ej) alapellátás esetén a praxiskezelő által kijelölt alapellátási körzetre, valamint a praxisengedélyre vonatkozó adatokat,
 
@@ -114,19 +126,21 @@ el) fekvőbeteg-ellátásban az osztály típusát, ágyszámát, az osztályon 
 
 em) fekvőbeteg-szakellátásban a folyamatos ellátás formáját,
 
-en) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű gyártmányára és típusára, a gépjármű gyártásának időpontjára, betegszállító jármű esetén az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban szerepel, a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
+en) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű gyártmányára és típusára, a gépjármű gyártásának időpontjára, betegszállító jármű esetén az embléma sorszámára, az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban szerepel, a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
 
 eo) a betegszállítást végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy az a sürgősség igénye, a kíséret igénye, az alkalmazott betegszállító gépjármű típusa, valamint a végrehajtás módja szerint milyen jellegű; dialízis esetén a kezelőhelyek számát, a kezelések számát; nappali kórház esetén a beteglétszámot, nappali ellátás esetén heti óraszámot;
 
-f) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a szolgáltató heti nyitvatartási rendjét, valamint annak megjelölését, hogy a szolgáltató – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült, vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz;
+ep) az egészségügyi szolgáltatás személyi feltételei körében az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) szerinti alap- és működési nyilvántartásban szereplő dolgozók nevét, működési nyilvántartási számát szakmánkénti bontásban, valamint a szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott szakmákban feltételként előírt, az Eütv. szerinti alap- és működési nyilvántartásban nem szereplő egészségügyi dolgozók nevét, születési helyét és idejét, szakmánkénti bontásban;
 
-g) az egészségügyi szolgáltatás végzéséhez biztosított gépműszereket típus, gyártmány, gyártási év és gyártási szám szerint és
+f) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában az e tevékenységekre vonatkozó heti nyitvatartási rendet, valamint annak megjelölését, hogy – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült, vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz szakmánkénti bontásban;
+
+g) az egészségügyi szolgáltatás végzéséhez biztosított közepes- és nagy értékű gépműszereket típus, gyártmány, gyártási év és gyártási szám szerint és
 
 h) a közreműködés, személyes közreműködés igénybevételére vonatkozóan ennek tényét, tartalmát szakmánként.
 
 (4a) Az (1) bekezdés e) pont ea) és eb) alpontja szerinti nyilvántartás a közreműködő egészségügyi szolgáltató tekintetében a következő adatokat tartalmazza:
 
-a) a közreműködő szolgáltató (4) bekezdés a) pont aa)–ag) alpontja szerinti adatokat,
+a) a közreműködő szolgáltató (4) bekezdés a) pont aa)–ag) alpontja, (4) bekezdés e) pont ea) és ep) alpontja, valamint (4) bekezdés h) pontja szerinti adatokat,
 
 b) a közreműködő szolgáltató székhelyére vonatkozó címadatokat,
 
@@ -152,11 +166,13 @@ dh) járóbeteg-szakellátáson belül a diagnosztika ellátási forma esetén a
 
 di) fekvőbeteg-ellátásban a folyamatos ellátás formáját,
 
-dj) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, illetve betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű típusára, a gépjármű gyártásának évére, betegszállító jármű esetén az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban van,
+dj) a mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató e feladatának ellátását biztosító mentőjárműveinek, illetve betegszállító járműveinek azonosítására szolgáló érvényes rendszámra, forgalmi engedély számára, a gépjármű típusára, a gépjármű gyártásának évére, betegszállító jármű esetén az embléma sorszámára, az egyszerre szállítható beteg személyek számára és a rögzített ülések számára vonatkozó adatokat, valamint annak megjelölését, hogy a jármű aktív vagy tartalékállományban van,
 
 dk) a mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
 
 dl) a betegszállítást végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy az a sürgősség igénye, a kíséret igénye, az alkalmazott betegszállító gépjármű típusa, valamint a végrehajtás módja szerint milyen jellegű.
+
+dm) közreműködőként az egészségügyi szolgáltatás végzéséhez nyújtott közepes- és nagy értékű gép-műszerek típusát, gyártmányát, gyártási évét, üzembehelyezési évét, gyártási számát; amennyiben a gép sugáregészségügyi engedéllyel rendelkezik, annak számát, keltét szakmánként.
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 

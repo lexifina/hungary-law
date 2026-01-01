@@ -18,6 +18,6 @@ b) a forgalmazó és a gyártó nevét, valamint
 
 c) az engedélyezett termék, technológia rendeltetését.
 
-(4) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja, valamint a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4)
 
 (5) Az (1) bekezdés szerinti nyilvántartást az egészségügyi államigazgatási szerv a honlapján közzéteszi.
