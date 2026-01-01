@@ -1,0 +1,1 @@
+22. § A választási iroda vezetője a választási iroda részére megállapított támogatás szabályszerű felhasználásának utólagos ellenőrzésére a választási iroda tagjának ad megbízást, aki az ellenőrzésről jegyzőkönyvet készít.

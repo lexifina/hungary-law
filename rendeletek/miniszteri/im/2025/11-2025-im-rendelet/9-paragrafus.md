@@ -1,0 +1,7 @@
+9. § (1) Az országgyűlési képviselők általános és időközi választása, az Európai Parlament tagjainak és a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők általános választása, továbbá az országos népszavazás kiadásainak fedezetére rendelkezésre álló normatívák összegét az NVI legkésőbb a szavazás napját megelőző negyvenedik napig támogatási előlegként utalja át.
+
+(2) A helyi önkormányzati képviselők és polgármesterek időközi választása, a nemzetiségi önkormányzati képviselők időközi választás kiadásainak fedezetére rendelkezésre álló normatívák összegét az NVI az elfogadott elszámolás alapján utólag, az elszámolás elfogadását követő nyolc munkanapon belül utalja át.
+
+(3) Megismételt szavazás kiadásainak fedezetére rendelkezésre álló normatívák összegét az NVI az elfogadott elszámolás alapján utólag, az elszámolás elfogadását követő nyolc munkanapon belül utalja át az érintett választási irodának.
+
+(4) A Magyarország külképviseletei által ellátandó feladatok vonatkozásában az országgyűlési képviselők általános választása, az Európai Parlament tagjainak választása, valamint országos népszavazás kiadásainak fedezetére rendelkezésre álló támogatás összegét – a megállapodásban meghatározottak szerint – támogatási előlegként, az országgyűlési képviselők időközi választása esetében az NVI elnöke által elismert kiadások fedezetét utólagosan biztosítja.
