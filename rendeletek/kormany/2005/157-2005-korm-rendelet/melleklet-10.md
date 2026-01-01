@@ -10,7 +10,7 @@
 
 | 3. | Elérhető fajlagos hőszolgáltatási költségcsökkenés | % |
 
-10. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^195]
+10. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^197]
 
 A maradékhővé minősítés hőmérsékleti, betáplálási és technológiai szempontjai
 
@@ -68,4 +68,4 @@ A maradékhővé minősítés hőmérsékleti, betáplálási és technológiai 
 
 3. A villamosenergiát hőtermelésre használó villamos kazánok által termelt hőenergia nem tekinthető maradékhőnek, függetlenül attól, hogy a felhasznált villamos energia rendszerszintű szabályozásból, menetrendtartás miatti vagy hálózatból vásárolt forrásból származik.
 
-[^195]: A 10. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^197]: A 10. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (3) bekezdése iktatta be.

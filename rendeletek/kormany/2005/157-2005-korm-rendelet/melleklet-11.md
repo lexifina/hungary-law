@@ -1,4 +1,4 @@
-11. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^196]
+11. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^198]
 
 A helyi hőhasznosítási terv elkészítésére és tartalmi elemeire vonatkozó szabályok
 
@@ -22,4 +22,4 @@ A helyi hőhasznosítási terv elkészítésére és tartalmi elemeire vonatkoz�
 
 1.1.8. fel kell mérni a szomszédos vármegyékkel való lehetséges együttműködéseket.
 
-[^196]: A 11. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (4) bekezdése iktatta be.
+[^198]: A 11. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (4) bekezdése iktatta be.

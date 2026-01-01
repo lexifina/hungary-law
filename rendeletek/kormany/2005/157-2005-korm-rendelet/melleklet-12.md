@@ -1,4 +1,4 @@
-12. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^197]
+12. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^199]
 
 A hatékony távfűtési rendszer kritériumai
 
@@ -30,4 +30,4 @@ Az egy hőforrásból a távhőrendszerbe betáplált éves hőmennyiség meghat
 
 A hőtermelési összetétel kiszámításakor csak az adott távhőrendszernél származási garanciaként beszámítható és betáplált hőenergiáknak a forrásai szerinti arányát kell figyelembe venni, a távhőtermelés és távhőszolgáltatás működtetéséhez felhasznált segéd villamos energiákat nem.
 
-[^197]: A 12. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (5) bekezdése iktatta be.
+[^199]: A 12. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (5) bekezdése iktatta be.

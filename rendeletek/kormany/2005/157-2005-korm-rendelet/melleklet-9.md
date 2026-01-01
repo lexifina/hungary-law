@@ -34,7 +34,7 @@
 
 ## A vizsgált beruházás akkor költséghatékony, ha F × G > C + G × D
 
-9. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^194]
+9. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^196]
 
 A távhőszolgáltatóra vonatkozó fejlesztési terv tartalmának követelményei
 
@@ -44,4 +44,4 @@ A távhőszolgáltatóra vonatkozó fejlesztési terv tartalmának követelmény
 
 1.1.1. Az 1.2. és 1.3. pont szerinti célok meghatározása az 1.a. és 1.b. táblázatokban bemutatott adatok különbségének figyelembevételével történik. A benyújtott fejlesztési tervben szereplő adatokat a fejlesztési terv felülvizsgálata során össze kell hasonlítani a felülvizsgálat időpontjában fennálló állapottal.
 
-[^194]: A 9. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^196]: A 9. mellékletet a 238/2025. (VII. 31.) Korm. rendelet 10. § (2) bekezdése iktatta be.

@@ -18,4 +18,4 @@ d) a Tszt. 11/A. § (2) bekezdésében foglalt feltétel fennállását igazoló
 
 e) a Tszt. 11/A. § (4) bekezdése szerinti határozatot.
 
-[^10]: A „Távhőtermelő létesítmény tulajdonjogának közcélú megváltása” alcímet (2/A–2/C. §-t) a 238/2025. (VII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A Vhr. „Távhőtermelő létesítmény tulajdonjogának közcélú megváltása” alcímét (2/A–2/C. §-t) a 238/2025. (VII. 31.) Korm. rendelet 3. §-a iktatta be.

@@ -18,4 +18,4 @@ távhővezetékbe történhet.
 
 (6) Az (5) bekezdés szerinti maradékhő betáplálások során figyelemmel kell lenni a kapcsolt hőtermelők technológiai előírásaira. A maradékhő-értékesítő csatlakoztatása nem veszélyeztetheti a távhővezeték-hálózat hidraulikai működését és az érintett felhasználók folyamatos és biztonságos távhőellátását, beleértve az alacsony hőmérsékleti igényű felhasználókat.
 
-[^1]: Az „A távhő előállítására szolgáló megújuló energia hasznosítása” alcím (1. §) a 238/2025. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: A Vhr. „A távhő előállítására szolgáló megújuló energia hasznosítása” alcíme (1. §) a 238/2025. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -18,4 +18,4 @@ ec) a maradékhő értékesítés tervezett éves üzemeltetési költségeit, �
 
 f) amennyiben a kérelmező az eb) ponton túl más tevékenységet is végez, a maradékhő értékesítés érdekében általa végzendő egyéb feladatok leírását.
 
-[^16]: A 3/A. §-t a 238/2025. (VII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^16]: A Vhr. 3/A. §-át a 238/2025. (VII. 31.) Korm. rendelet 5. §-a iktatta be.

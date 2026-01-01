@@ -12,5 +12,5 @@
 
 [^2]: A Vhr. 1/A. §-át megelőző alcímet a 122/2015. (V. 26.) Korm. rendelet 30. §-a iktatta be, az alcím címe a 238/2025. (VII. 31.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
 [^3]: A Vhr. 1/A. §-át a 122/2015. (V. 26.) Korm. rendelet 30. §-a iktatta be.
-[^4]: Az 1/A. § (1) bekezdése a 238/2025. (VII. 31.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
-[^5]: Az 1/A. § (2) bekezdése a 238/2025. (VII. 31.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^4]: A Vhr. 1/A. § (1) bekezdése a 238/2025. (VII. 31.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
+[^5]: A Vhr. 1/A. § (2) bekezdése a 238/2025. (VII. 31.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
