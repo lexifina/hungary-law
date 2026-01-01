@@ -1,1 +1,3 @@
-### 25. §
+25. § A KSZDR tv. 7. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy ezen jogviszonyával egyidejűleg egészségügyi dolgozóként nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál is munkavégzésre irányuló jogviszonyban áll, az adatgyűjtő modul a 7/A. melléklet szerinti, a nem állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál fennálló jogviszonyára vonatkozó adatkörben meghatározott adatokat veszi át – a Kormány rendeletében meghatározott rendben – az Ehi. tv. 6. § (1) bekezdés e) pont eb) alpontja szerinti nyilvántartásból.”
