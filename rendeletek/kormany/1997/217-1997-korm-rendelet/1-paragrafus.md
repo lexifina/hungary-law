@@ -12,9 +12,9 @@ ba)[^4]
 
 bb) az Ebtv. 26. §-a és 50. §-a alapján benyújtott méltányossági kérelmek elbírálásánál a személyi jövedelemadóról szóló törvényben jövedelemként meghatározott vagyoni érték (bevétel) munkavállalói járulékkal, személyi jövedelemadóval, egészségbiztosítási és nyugdíjjárulékkal, magán-nyugdíjpénztári tagdíjjal, valamint a jövedelemadóról szóló törvényben elismert költségekkel csökkentett része, függetlenül attól, hogy adómentesnek vagy adókötelesnek minősül,
 
-c)[^5] irányadó időszak: folyamatos biztosítás esetén az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napjától az ellátásra való jogosultságot megelőző harmadik hónap utolsó napjáig terjedő időszak, melynek kezdő napja nem lehet korábbi az ellátásra való jogosultságot megelőző naptári év első napjánál,
+c)[^5] irányadó időszak: folyamatos biztosítás esetén az ellátásra való jogosultság kezdő napján fennálló – az Ebtv. 39/A. § (1a) bekezdése szerinti esetben a megszűnt – biztosítási jogviszony első napjától az ellátásra való jogosultságot megelőző harmadik hónap utolsó napjáig terjedő időszak, melynek kezdő napja nem lehet korábbi az ellátásra való jogosultságot megelőző naptári év első napjánál,
 
-d)[^6] számítási időszak: az irányadó időszakon belül az Ebtv. 48. § (1)–(4) bekezdésében, baleseti táppénz esetén az Ebtv. 55. § (7) bekezdésében meghatározott időszak azon naptári napjai, amelyre pénzbeli egészségbiztosítási járulékalapot képező jövedelmet vallottak be, amely időszak legfeljebb azon hónapig tarthat, ameddig a biztosított jövedelméről a bevallás benyújtásra került,
+d)[^6] számítási időszak: az irányadó időszakon belül az Ebtv. 48. § (1)–(4) bekezdésében, baleseti táppénz esetén az Ebtv. 55. § (7) bekezdésében meghatározott időszak azon naptári napjai, amelyre társadalombiztosítási járulékalapot képező jövedelmet vallottak be, amely időszak legfeljebb azon hónapig tarthat, ameddig a biztosított jövedelméről a bevallás benyújtásra került,
 
 e)[^7] funkcionális alcsoport: az MSZ EN ISO 9999 szabvány szerinti hatodik szintű tizenkétjegyű besorolási csoport (ISO12),
 
@@ -42,7 +42,7 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira jogosultak
 
 (3)[^19] A (2) bekezdésben foglaltakon túl e rendelet alkalmazásában az Ebtv. 5/B. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
 
-(4)[^20] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként – ha kormányrendelet ettől eltérően nem rendelkezik – a NEAK-ot jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 19/A. § (4) bekezdésében, 20. § (1) bekezdésében, 20/A. § (3) és (10) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b), d), e) és f) pontjában, 21/A. § (1) bekezdésében, 26. § (1) és (2)–(2b) bekezdésében, 27. § (6) és (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4), (7) és (8) bekezdésében, 36. § (1)–(2), (4) és (6)–(9) bekezdésében, 38. § (1), (2) és (4)–(6) bekezdésében, 37. §-ában, 38/A. §-ában, 38/B. §-ában, 38/C. §-ában, 65. § (2) bekezdésében, 70. § (5) bekezdésében, 79/A. §-ában, 81. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
+(4)[^20] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként – ha kormányrendelet ettől eltérően nem rendelkezik – a NEAK-ot jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 19/A. § (4) bekezdésében, 20. § (1) bekezdésében, 20/A. § (3) és (10) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b), d), e) és f) pontjában, 21/A. § (1) bekezdésében, 26. § (1) és (2)–(2b) bekezdésében, 27. § (6) és (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4), (7) és (8) bekezdésében, 36. § (1)–(2), (4) és (6)–(9) bekezdésében, 38. § (1), (2) és (4)–(6) bekezdésében, 37. §-ában, 38/A. §-ában, 38/B. §-ában, 38/C. §-ában, 65. § (2) bekezdésében, 70. § (5) bekezdésében, 79/A. §-ában, 79/C. §-ában, 81. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
 
 (4a)[^21] A Kormány egészségbiztosítóként a NEAK-ot jelöli ki az Ebtv. 36. § (3) bekezdésében foglalt feladatok ellátására. A NEAK jogosult az Ebtv. 36. § (1)–(9) bekezdésében, továbbá az Ebtv. 37–38/C. §-ában meghatározott ellenőrzésekhez elemzéseket végezni, ellenőrzéseket elrendelni, koordinálni és irányítani.
 
@@ -58,7 +58,7 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira jogosultak
 
 (7a)[^27] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként
 
-a)[^28] az Ebtv. 62. § (2b) bekezdése, 62. § (2c) bekezdés b) pontja, valamint 63. § (1) bekezdése szerinti – a b) pont szerinti szerv által összeállított adatállománynak megfelelően végrehajtandó – folyósítási feladatok ellátására, továbbá az Ebtv. 50. §-a szerint méltányosságból megállapított pénzbeli ellátás és egyszeri segély folyósítására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságát,
+a)[^28] az Ebtv. 62. § (2b) bekezdése, (2c) bekezdés b) pontja, (3) és (4) bekezdése, valamint 63. § (1) bekezdése szerinti – a b) pont szerinti szerv által összeállított adatállománynak megfelelően végrehajtandó – folyósítási feladatok ellátására, továbbá az Ebtv. 50. §-a szerint méltányosságból megállapított pénzbeli ellátás és egyszeri segély folyósítására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságát,
 
 b)[^29] az Ebtv. 62. § (2) bekezdés b) pontja, 62. § (2a), (2d) és (2e) bekezdése, valamint 63. § (1) bekezdése szerinti elbírálási feladatok ellátására a kormányhivatalt
 
@@ -98,8 +98,8 @@ jelöli ki.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A Vhr. 1. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés a) pontja szerint módosított szöveg.
 [^4]: A Vhr 1. § (2) bekezdés b) pont ba) alpontját a 254/2013. (VII. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^5]: A Vhr. 1. § (2) bekezdés c) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A Vhr. 1. § (2) bekezdés d) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A Vhr. 1. § (2) bekezdés c) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 396/2025. (XII. 16.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A Vhr. 1. § (2) bekezdés d) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított, a 396/2025. (XII. 16.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^7]: A Vhr. 1. § (2) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A Vhr. 1. § (2) bekezdés f) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^9]: A Vhr. 1. § (2) bekezdés g) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
@@ -113,7 +113,7 @@ jelöli ki.
 [^17]: A Vhr. 1. § (2) bekezdés o) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^18]: A Vhr. 1. § (2) bekezdés p) pontját a 364/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 316/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A Vhr. 1. §-ának (3) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^21]: A Vhr. 1. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 630/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^22]: A Vhr. 1. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 9. § a) pontja, a 463/2024. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^23]: A Vhr. 1. § (5a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
@@ -121,7 +121,7 @@ jelöli ki.
 [^25]: A Vhr. 1. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított, a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^26]: A Vhr. 1. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^27]: A Vhr. 1. § (7a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 404/2017. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^28]: A Vhr. 1. § (7a) bekezdés a) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^28]: A Vhr. 1. § (7a) bekezdés a) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^29]: A Vhr. 1. § (7a) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^30]: A Vhr. 1. § (7b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (II. 2.) Korm. rendelet 2. § (5) bekezdése.
 [^31]: A Vhr. 1. § (7c) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
