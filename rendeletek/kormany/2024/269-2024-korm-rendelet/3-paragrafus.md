@@ -8,6 +8,8 @@
 
 (2) A Hatóság a Katonai Típusalkalmassági Bizonyítvánnyal rendelkező típushoz tartozó, a légialkalmassági követelményeknek – ideértve a légijármű jelzéseire vonatkozó követelményeket is – megfelelő, más hatóság vagy szervezet nyilvántartásában nem szereplő légijárművet veszi nyilvántartásba.
 
-(3) A nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(3)[^1]
 
 (4) A nyilvántartás nem nyilvános.
+
+[^1]: A 3. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 59. §-a hatályon kívül helyezte.

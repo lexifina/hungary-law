@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-269-20-
 | --- | --- | --- |
 | 2024-10-17 | 2024-269-20-22.1 | 269/2024. (IX. 17.) Korm. rendelet |
 | 2024-10-18 | 2024-269-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2024-269-20-22.3 | 342/2025. (X. 31.) Korm. rendelet |
