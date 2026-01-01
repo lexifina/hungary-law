@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-190-20-
 | 2024-10-01 | 2009-190-20-22.17 | 285/2024. (IX. 30.) Korm. rendelet |
 | 2025-08-28 | 2009-190-20-22.18 | 284/2025. (VIII. 25.) Korm. rendelet |
 | 2025-09-10 | 2009-190-20-22.19 | 284/2025. (VIII. 25.) Korm. rendelet |
+| 2026-01-01 | 2009-190-20-22.20 | 342/2025. (X. 31.) Korm. rendelet |

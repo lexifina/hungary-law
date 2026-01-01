@@ -1,4 +1,4 @@
-7/A. §[^58] (1) A mezőgazdasági birtoktest és birtokközpont kialakításával kapcsolatos hatósági eljárás megindításához szükséges kérelem tartalmazza
+7/A. §[^59] (1) A mezőgazdasági birtoktest és birtokközpont kialakításával kapcsolatos hatósági eljárás megindításához szükséges kérelem tartalmazza
 
 a) a tervezett birtokközpont telekadatait és annak a birtokközpont kialakítása előtti övezeti besorolását,
 
@@ -12,4 +12,4 @@ d) ha a birtoktest valamely ingatlana nem a kérelmező tulajdonában van, erre 
 
 (3) A birtoktest és a birtokközpont megszüntetése akkor engedélyezhető, ha a megszüntetést követően a telkek beépítettsége megfelel az övezeti előírásoknak.
 
-[^58]: A 7/A. §-t a 285/2024. (IX. 30.) Korm. rendelet 44. §-a iktatta be.
+[^59]: A 7/A. §-t a 285/2024. (IX. 30.) Korm. rendelet 44. §-a iktatta be.
