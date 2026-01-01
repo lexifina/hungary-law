@@ -1,19 +1,19 @@
 ## 34. § A kérelemhez – az igényelt munkáltatói kölcsön jogcímétől függően – csatolni kell
 
-a)[^97] az építkezés, bővítés, korszerűsítés vagy akadálymentesítés költségvetését, melyből megállapítható a költségek lakásra eső hányada,
+a)[^99] az építkezés, bővítés, korszerűsítés vagy akadálymentesítés költségvetését, melyből megállapítható a költségek lakásra eső hányada,
 
 b) az építkezés jogerős építési engedélyét és engedélyezési tervét, egyszerű bejelentéshez kötött építési tevékenység esetén az építésügyi hatóságnak történő bejelentéshez mellékelendő kivitelezési dokumentációt,
 
-c)[^98] a megszerzendő, vagy az átépíteni, bővíteni, korszerűsíteni szándékozott lakás harminc napnál nem régebbi tulajdoni lapjának hiteles másolatát,
+c)[^100] a megszerzendő, vagy az átépíteni, bővíteni, korszerűsíteni szándékozott lakás harminc napnál nem régebbi tulajdoni lapjának hiteles másolatát,
 
-d)[^99] nyilatkozatot a hivatásos állomány tagja, valamint a vele együtt költöző, együtt lakó családtagja tulajdonában lévő lakásban található szobák számáról, nagyságáról,
+d)[^101] nyilatkozatot a hivatásos állomány tagja, valamint a vele együtt költöző, együtt lakó családtagja tulajdonában lévő lakásban található szobák számáról, nagyságáról,
 
-e)[^100] lakás adásvétele esetén az érvényes adásvételi szerződést,
+e)[^102] lakás adásvétele esetén az érvényes adásvételi szerződést,
 
-f)[^101] a hivatásos állomány tagja, valamint együtt költöző, együtt lakó családtagja havi nettó jövedelmét igazoló okiratot.
+f)[^103] a hivatásos állomány tagja, valamint együtt költöző, együtt lakó családtagja havi nettó jövedelmét igazoló okiratot.
 
-[^97]: A 34. § a) pontja a 46/2019. (XII. 18.) BM rendelet 25. § j) pontja szerint módosított szöveg.
-[^98]: A 34. § c) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
-[^99]: A 34. § d) pontja a 9/2018. (IV. 25.) BM rendelet 62. §-ával megállapított szöveg.
-[^100]: A 34. § e) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
-[^101]: A 34. § f) pontja a 9/2018. (IV. 25.) BM rendelet 64. § c) pontja szerint módosított szöveg.
+[^99]: A 34. § a) pontja a 46/2019. (XII. 18.) BM rendelet 25. § j) pontja szerint módosított szöveg.
+[^100]: A 34. § c) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
+[^101]: A 34. § d) pontja a 9/2018. (IV. 25.) BM rendelet 62. §-ával megállapított szöveg.
+[^102]: A 34. § e) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
+[^103]: A 34. § f) pontja a 9/2018. (IV. 25.) BM rendelet 64. § c) pontja szerint módosított szöveg.

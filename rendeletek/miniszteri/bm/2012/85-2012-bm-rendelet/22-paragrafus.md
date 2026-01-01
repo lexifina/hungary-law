@@ -12,11 +12,13 @@ b) aki ellen büntető- vagy fegyelmi eljárás van folyamatban,
 
 c) akinek illetményét – a fennálló tartozásai miatt – további levonásokkal terhelni már nem lehet.
 
+d)[^39] aki próbaidejét tölti.
+
 (3) A támogatás kizárólag a családi otthon kialakításával összefüggő berendezési és felszerelési tárgyak beszerzésére fordítható.
 
 (4) A támogatás a szolgálati viszony fennállása alatt egy alkalommal – házastársak és élettársak esetében csak az egyik fél részére – engedélyezhető.
 
-(5)[^39] A támogatás legfeljebb négy éves futamidőre adható, felső határa nem haladhatja meg a központi költségvetésről szóló törvény szerinti rendvédelmi illetményalap (a továbbiakban: illetményalap) összegének tizenötszörösét.
+(5)[^40] A támogatás legfeljebb négy éves futamidőre adható, felső határa nem haladhatja meg a központi költségvetésről szóló törvény szerinti rendvédelmi illetményalap (a továbbiakban: illetményalap) összegének tizenötszörösét.
 
 (6) Ha a hivatásos állomány tagjának szolgálati viszonya a törlesztés ideje alatt önhibájából szűnik meg, a vissza nem fizetett támogatás a szolgálati viszony megszűnésének napján egy összegben esedékessé válik.
 
@@ -25,4 +27,5 @@ c) akinek illetményét – a fennálló tartozásai miatt – további levonás
 (8) Az Országgyűlési Őrség parancsnoka kivételesen, rendkívüli méltánylást érdemlő esetben engedélyezheti a tartozás törlését.
 
 [^38]: A 21. § a 35/2015. (VI. 16.) BM rendelet 8. § d) pontja szerint módosított szöveg.
-[^39]: A 22. § (5) bekezdése a 49/2013. (VIII. 27.) BM rendelet 5. § a) pontja, a 36/2015. (VI. 16.) BM rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 22. § (2) bekezdés d) pontját az 54/2025. (XII. 22.) BM rendelet 9. §-a iktatta be.
+[^40]: A 22. § (5) bekezdése a 49/2013. (VIII. 27.) BM rendelet 5. § a) pontja, a 36/2015. (VI. 16.) BM rendelet 30. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 85/2012. (XII. 28.) BM rendelethez[^153]
+4. melléklet a 85/2012. (XII. 28.) BM rendelethez[^155]
 
 1. Kegyeleti kiadásként elszámolható költségnormák
 
@@ -32,4 +32,4 @@
 
 2.4. Sírgondozás költsége: hozzátartozó hiányában vagy akadályoztatása esetén a hősi halott és a szolgálat halottja síremlékének gondozására a szolgáltató által kiállított számlával igazolt összeg.
 
-[^153]: A 4. melléklet a 34/2024. (VIII. 8.) BM rendelet 22. §-ával megállapított szöveg.
+[^155]: A 4. melléklet a 34/2024. (VIII. 8.) BM rendelet 22. §-ával megállapított szöveg.

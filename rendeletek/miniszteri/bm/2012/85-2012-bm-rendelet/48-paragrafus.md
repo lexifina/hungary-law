@@ -1,6 +1,6 @@
 ## 48. § A hivatásos állomány tagja a munkáltatói kölcsön teljes összegének felhasználását, valamint a hitelcél megvalósulását az alábbi okiratok, bizonylatok másolatának benyújtásával köteles igazolni:
 
-a)[^110] lakás tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
+a)[^112] lakás tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
 
 b) lakás építése vagy bővítése esetén
 
@@ -8,7 +8,7 @@ ba) a jogerős építési engedélyben meghatározott határidőn belüli joger�
 
 bb) egyszerű bejelentéshez kötött építési tevékenységnél a felépítés megtörténtét tanúsító hatósági bizonyítvány, valamint a munkáltatói kölcsön felhasználását igazoló, a hatósági bizonyítvány keltezésének napjáig kibocsátott, az építtető nevére kiállított számlák,
 
-c)[^111] lakáskorszerűsítés, akadálymentesítés esetén a munkáltatói kölcsön folyósítását megelőző hat hónapon belül és azt követő tizenkét hónapon belül a hivatásos állomány tagja nevére kiállított számla, valamint az elvégzett munka ellenértékéről kiállított bizonylat; benyújtásuk kötelező a folyósítást követő tizenkét hónapon belül.
+c)[^113] lakáskorszerűsítés, akadálymentesítés esetén a munkáltatói kölcsön folyósítását megelőző hat hónapon belül és azt követő tizenkét hónapon belül a hivatásos állomány tagja nevére kiállított számla, valamint az elvégzett munka ellenértékéről kiállított bizonylat; benyújtásuk kötelező a folyósítást követő tizenkét hónapon belül.
 
-[^110]: A 48. § a) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
-[^111]: A 48. § c) pontja a 46/2019. (XII. 18.) BM rendelet 25. § m) pontja szerint módosított szöveg.
+[^112]: A 48. § a) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
+[^113]: A 48. § c) pontja a 46/2019. (XII. 18.) BM rendelet 25. § m) pontja szerint módosított szöveg.

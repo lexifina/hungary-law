@@ -12,7 +12,7 @@ e) szolgálati viszonya az Országgyűlési Őrségnél – a (3) bekezdésben f
 
 f) a kölcsönt nem a hitelcélnak megfelelően használja, használta fel,
 
-g)[^116] lakásépítésre és lakásbővítésre nyújtott munkáltatói kölcsön esetén a jogerős használatbavételi engedély kiadásáig, egyszerű bejelentéshez kötött építési tevékenység esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállításáig, a korszerűsítésre, akadálymentesítésre nyújtott munkáltatói kölcsön esetén a folyósítást követő tizenkét hónapon belül a felhasználást – írásbeli felszólítás ellenére – számlával nem igazolta, vagy
+g)[^118] lakásépítésre és lakásbővítésre nyújtott munkáltatói kölcsön esetén a jogerős használatbavételi engedély kiadásáig, egyszerű bejelentéshez kötött építési tevékenység esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállításáig, a korszerűsítésre, akadálymentesítésre nyújtott munkáltatói kölcsön esetén a folyósítást követő tizenkét hónapon belül a felhasználást – írásbeli felszólítás ellenére – számlával nem igazolta, vagy
 
 h) más súlyos szerződésszegést követett el.
 
@@ -32,11 +32,11 @@ e) szolgálati viszonya a hivatásos állomány tagjának fel nem róható egés
 
 f) a szolgálati viszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a Hszt. 59. § (2) bekezdése szerinti szolgálati beosztást nem tud felajánlani.
 
-(4)[^117] A támogatási megállapodás felmondása esetén – az (1) bekezdés b) pontjában foglalt kivétellel – a tartozás a felmondással egy összegben esedékessé válik.
+(4)[^119] A támogatási megállapodás felmondása esetén – az (1) bekezdés b) pontjában foglalt kivétellel – a tartozás a felmondással egy összegben esedékessé válik.
 
 (5) A támogatási megállapodás felmondására az Országgyűlési Őrség a szerződésszegés tudomására jutásakor, az (1) bekezdés d) és g) pontjában foglalt esetekben a felszólításban kitűzött határidő eredménytelen lejártakor, az (1) bekezdés e) pontjában foglalt esetben a szolgálati viszony megszűnése napján haladéktalanul intézkedik, a felmondásról a kölcsönt kezelő pénzintézetet írásban értesíti.
 
-(6)[^118] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
+(6)[^120] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
 
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
@@ -44,6 +44,6 @@ b) az (1) bekezdés d) és e) pontjában meghatározott esetben a felmondásban 
 
 számított, a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:48. § (1) bekezdése szerinti kamattal növelten köteles megfizetni.
 
-[^116]: Az 50. § (1) bekezdés g) pontja a 46/2019. (XII. 18.) BM rendelet 25. § o) pontja szerint módosított szöveg.
-[^117]: Az 50. § (4) bekezdése a 46/2019. (XII. 18.) BM rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^118]: Az 50. § (6) bekezdése a 46/2019. (XII. 18.) BM rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^118]: Az 50. § (1) bekezdés g) pontja a 46/2019. (XII. 18.) BM rendelet 25. § o) pontja szerint módosított szöveg.
+[^119]: Az 50. § (4) bekezdése a 46/2019. (XII. 18.) BM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^120]: Az 50. § (6) bekezdése a 46/2019. (XII. 18.) BM rendelet 24. § (2) bekezdésével megállapított szöveg.
