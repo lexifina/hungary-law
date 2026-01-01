@@ -46,6 +46,8 @@ s) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel
 
 t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
 
+u) a kúriai bíró általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását – a kúriai bíró kérelmére – jóváhagyja.
+
 (2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
 
 (2a) A Kúria elnöke indokolja azokat a döntéseit, amelyekhez az OBT egyetértése vagy kötelező véleménye szükséges.

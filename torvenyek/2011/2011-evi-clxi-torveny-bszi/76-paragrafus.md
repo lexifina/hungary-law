@@ -76,7 +76,7 @@ i) dönt a bíró tekintetében a tartós külszolgálat ellátásáról,
 
 j) dönt arról, hogy a bíróság hatáskörének vagy illetékességi területének csökkenése olyan mértékű-e, hogy ott a bíró további foglalkoztatása nem lehetséges,
 
-k)
+k) a bíró általános öregségi nyugdíjkorhatár betöltését követő bírói szolgálati viszonyban történő továbbfoglalkoztatását – a bíró kérelmére – jóváhagyja,
 
 l)
 
