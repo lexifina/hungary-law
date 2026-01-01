@@ -2,7 +2,7 @@
 
 ## EGYSÉGES ARCKÉPMÁS- ÉS ALÁÍRÁS-FELVÉTELEZÉS
 
-60. § (1)[^218] Az Nytv. 15. § (2) bekezdése szerinti egységes arcképmás- és aláírás-felvételezés célja az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerinti kártyafelhasználói regisztráció során a személyesen megjelent kérelmezőnek, valamint a videotechnológiával történt azonosítást követően a kérelmezőnek az Nytv. 29. § (2) bekezdés a)–g) pontjában megjelölt személyi adatainak ellenőrzése, és arcképmásának, valamint – ha a 12. életévét betöltötte – aláírásának rögzítése.
+60. § (1)[^218] Az Nytv. 15. § (2) bekezdése szerinti egységes arcképmás- és aláírás-felvételezés célja az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerinti kártyafelhasználói regisztráció során a személyesen megjelent kérelmezőnek, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatással és videotechnológiás kapcsolattal történő ügyintézéssel megvalósuló azonosítást követően a kérelmezőnek az Nytv. 29. § (2) bekezdés a)–g) pontjában megjelölt személyi adatainak ellenőrzése, és arcképmásának, valamint – ha a 12. életévét betöltötte – aláírásának rögzítése.
 
 (2)[^219] Az egységes arcképmás- és aláírás-felvételezésre irányuló eljárás az Nytv. 29. § (12) bekezdése szerinti személyazonosság igazolására alkalmas okmány kiadása iránti eljárás részét képezi.
 
@@ -10,5 +10,5 @@
 
 (4) E Fejezet rendelkezéseit az állandó személyazonosító igazolványon kívül más, személyazonosság igazolására alkalmas okmány kiadására irányuló eljárásban külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-[^218]: A 60. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^218]: A 60. § (1) bekezdése a 483/2025. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^219]: A 60. § (2) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
