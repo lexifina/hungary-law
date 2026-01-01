@@ -8,7 +8,7 @@
 
 a) a közjegyző vagy közjegyzőhelyettes székhelye szerinti területi kamara terjeszti fel az országos elnökhöz, vagy
 
-b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel az igazságügyért felelős miniszterhez,
+b) a közjegyző vagy közjegyzőhelyettes közvetlenül terjeszti fel elektronikus úton az igazságügyért felelős miniszterhez,
 
 aki a meghallgatást követően dönt a nyelvi jogosítvány kiadásáról.
 

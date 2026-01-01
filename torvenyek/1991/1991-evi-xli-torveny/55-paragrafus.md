@@ -18,7 +18,7 @@
 
 9. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
 
-10. a közjegyzői díjszabás alkalmazásáról,
+10. minden ügytípusra kiterjedően a közjegyzői díjszabásról szóló rendelet alkalmazásáról,
 
 11. a közjegyző őrzésében levő pénz, értéktárgy és értékpapír kezeléséről és nyilvántartásáról,
 

@@ -6,7 +6,7 @@ a) a közjegyzők működésének folyamatosságához szükséges átmeneti int�
 
 b) a közjegyzői állások számát és székhelyét, a közjegyzők illetékességi területét, valamint hagyatéki ügyekben az azonos illetékességi területen működő közjegyzők között érvényesülő ügyelosztási rendet a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
 
-c)
+c) a pályázat kiírása nélkül történő közjegyzői áthelyezéssel kapcsolatos döntés mérlegelési szempontjaira vonatkozó szabályokat,
 
 d) a közjegyzők ügyvitelének szabályait,
 
