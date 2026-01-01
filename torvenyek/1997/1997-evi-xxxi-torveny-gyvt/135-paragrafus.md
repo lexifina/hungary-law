@@ -54,7 +54,7 @@ ba) személyazonosító, és a társadalombiztosítási azonosító jelére vona
 
 bb) vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira vonatkozó,
 
-bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó,
+bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására, az ellene folyamatban lévő szabálysértési és büntetőeljárásra vonatkozó,
 
 bd) egészségi állapotára vonatkozó,
 
@@ -99,6 +99,8 @@ di) a javítóintézet utógondozó részlegén történő ellátás biztosítá
 dj) – részükre az ellátás folyamatos biztosítása, engedély nélküli eltávozás esetén a felkutatásuk segítése céljából – személyleírására és különös ismertetőjegyeire vonatkozó
 
 adatainak a kezelésére.
+
+(2a) A gyermekjóléti központ és a gyámhatóság a gyermek veszélyeztetettsége mértékének megállapítása, értékelése, a veszélyeztetettség megelőzése és megszüntetése céljából adatigényléssel fordulhat a bűnügyi nyilvántartó szervhez annak megismerése érdekében, hogy a (2) bekezdés b) pontja szerinti személyi kör tekintetében folyamatban van-e büntetőeljárás a Büntető Törvénykönyvről szóló 2012. évi C. törvény XIII. Fejezetében meghatározott emberiesség elleni bűncselekmények; XV. Fejezetében meghatározott élet, testi épség és egészség elleni bűncselekmények; XVII. Fejezetében meghatározott egészséget veszélyeztető bűncselekmények; XVIII. Fejezetében meghatározott emberi szabadság elleni bűncselekmények; XIX. Fejezetében meghatározott nemi élet szabadsága és nemi erkölcs elleni bűncselekmények; XX. Fejezetében meghatározott gyermekek érdekét sértő és család elleni bűncselekmények; zaklatás, kiszolgáltatott személy megalázása; XXIX. Fejezetében meghatározott hivatalos személy elleni bűncselekmények; XXX. Fejezetében meghatározott közbiztonság elleni bűncselekmények; XXXII. Fejezetében meghatározott köznyugalom elleni bűncselekmények; embercsempészés, családi kapcsolatok létesítésével visszaélés, veszélyes állat, illetve veszélyes eb tartásával kapcsolatos kötelezettség megszegése; XXXV. Fejezetében meghatározott vagyon elleni erőszakos bűncselekmények; XXXVI. Fejezetében meghatározott vagyon elleni bűncselekmények elkövetésének gyanúja miatt.
 
 (3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, cselekvési és intézkedési terv, családgondozási terv, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
 
