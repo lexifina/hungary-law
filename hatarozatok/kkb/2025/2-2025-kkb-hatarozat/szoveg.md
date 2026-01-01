@@ -2,7 +2,7 @@
 
 2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, és ezzel egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2025. évi munkatervének elfogadásáról szóló 3/2024. (XII. 20.) KKB határozat.
+3.[^1] Ez a határozat a közzétételét követő napon lép hatályba.
 
 Melléklet a 2/2025. (XII. 22.) KKB határozathoz
 
@@ -271,3 +271,5 @@ ________________
 2 A 2/2022. (IV. 29.) OAH rendelet 19. és 20. §-aiban foglaltak szerint
 
 3 A Nukleáris Értékelő Munkacsoport, a Lakosság Tájékoztatási Munkacsoport és az Operatív Törzs beosztott munkatársai képzésének végrehajtása (sugárvédelem, nukleáris és környezetbiztonság, rendvédelem, igazgatás, műszaki, informatika)
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
