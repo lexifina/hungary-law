@@ -12,6 +12,11 @@ b) költségvetési szerv esetén a költségvetési szervekről vezetett törzs
 
 c) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet esetén a bírósági nyilvántartásba bejegyzett, hatályos adatairól – a szervezet képviselőjének kérelmére – kiadott, 30 napnál nem régebbi kivonat,
 
-d) nonprofit gazdasági társaság esetén 30 napnál nem régebbi cégkivonat.
+d)[^1]
 
 (4) A (3) bekezdésben felsorolt okiratokat – amennyiben azt a kérelmező nem csatolja – a kijelölt szerv szerzi be az illetékes szervhez történő adatszolgáltatási kérelem benyújtásával.
+
+(4a)[^2] Nonprofit gazdasági társaság esetén a cégkivonatot a kijelölt szerv a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+
+[^1]: A 4. § (3) bekezdés d) pontját a 395/2025. (XII. 16.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^2]: A 4. § (4a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 23. § (1) bekezdése iktatta be.

@@ -60,7 +60,7 @@
 
 ## g) saját előadásaihoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenység bemutatása és annak eredményessége
 
-## h)[^20] helyi köznevelési és szakképző intézményekkel, művészeti közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása
+## h)[^25] helyi köznevelési és szakképző intézményekkel, művészeti közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása
 
 ## együttműködések bemutatása
 
@@ -286,4 +286,4 @@ c) műszaki állomány (üzemeltetés, műszaki tárak)
 
 IV. A fenntartó (támogató) által tárgyévben biztosított támogatás mértéke
 
-[^20]: A 7. melléklet I. rész h) pontja a 13/2020. (II. 7.) Korm. rendelet 114. § 3. pontja szerint módosított szöveg.
+[^25]: A 7. melléklet I. rész h) pontja a 13/2020. (II. 7.) Korm. rendelet 114. § 3. pontja szerint módosított szöveg.

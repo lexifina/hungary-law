@@ -1,4 +1,4 @@
-9. melléklet a 428/2016. (XII. 15.) Korm. rendelethez[^21]
+9. melléklet a 428/2016. (XII. 15.) Korm. rendelethez[^26]
 
 Szakmai beszámoló
 
@@ -98,4 +98,4 @@ I. Színház, balett- és táncegyüttes
 
 II. Zenekar, énekkar
 
-[^21]: A 9. melléklet a 616/2022. (XII. 29.) Korm. rendelet 249. § c) pontja szerint módosított szöveg.
+[^26]: A 9. melléklet a 616/2022. (XII. 29.) Korm. rendelet 249. § c) pontja szerint módosított szöveg.
