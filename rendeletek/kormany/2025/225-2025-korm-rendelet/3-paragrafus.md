@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 32. § (5) bekezdése alapján 2026. január 1-jén lép hatályba.
+3. § A 387/2012. (XII. 19.) Korm. rendelet 12/A. § (2) bekezdésében az „Emeritus vagy a Magyar Tudományos Akadémia doktora címmel rendelkező oktató, kutató” szövegrész helyébe az „Emeritus vagy a doktori szabályzatban foglalt feltételeknek megfelelő egyéb oktató, kutató” szöveg lép.
