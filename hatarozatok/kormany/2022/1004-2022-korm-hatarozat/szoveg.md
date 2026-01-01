@@ -12,10 +12,6 @@ emberi erőforrások minisztere
 
 Határidő: az adatok rendelkezésre állását követően azonnal
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 5. 2022. évi bérintézkedések támogatása címmel történő kiegészítését.
+2.[^1]
 
-Felelős: pénzügyminiszter
-
-belügyminiszter
-
-Határidő: azonnal
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
