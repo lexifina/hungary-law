@@ -1,1 +1,7 @@
-3. §
+3. § A 217/1997. (XII. 1.) Korm. rendelet 41/A. §-a helyébe a következő rendelkezés lép:
+
+„41/A. § (1) Az egészségbiztosítási szerv, illetve a társadalombiztosítási kifizetőhely – az ügyfélnek a felhasználás célját is tartalmazó kérelmére – hatósági bizonyítványt állít ki az egészségbiztosítás pénzbeli ellátásai, a baleseti táppénz, valamint az utazási költségtérítési támogatás megállapításával, illetve folyósításával kapcsolatos adatok igazolása céljából. Az egészségbiztosítási szerv az ügyfél kérésének megfelelően, a hatósági bizonyítványban feltünteti a más egészségbiztosítási szerv, valamint 2023. június 30. napját követően a társadalombiztosítási kifizetőhely által megállapított, illetve folyósított ellátásokat is.
+
+(2) Ha az (1) bekezdés szerinti hatósági bizonyítvány kiállítása az egészségbiztosítási szerv hatáskörébe tartozik, a hatósági bizonyítványt az az egészségbiztosítási szerv állítja ki, amely az ügyfél részére az ellátást megállapította. Ha a hatósági bizonyítványban igazolandó adatok több, különböző illetékességű egészségbiztosítási szervet is érintenek, a hatósági bizonyítványt az ügyfél részére utoljára ellátást megállapító egészségbiztosítási szerv állítja ki.
+
+(3) Az Ebtv. 79/B. § (1) és (2) bekezdése alapján vezetett nyilvántartásból – az adatok igénylésére jogosult, az Ebtv. 79. § (6) bekezdése szerinti szervek megkeresésére – bármely egészségbiztosítási szerv adatot szolgáltat, ideértve azt is, ha a megkeresés által érintett ellátást nem a megkeresett egészségbiztosítási szerv állapította meg, illetve folyósította. A megkeresés más egészségbiztosítási szervhez történő áttételének helye nincs.”

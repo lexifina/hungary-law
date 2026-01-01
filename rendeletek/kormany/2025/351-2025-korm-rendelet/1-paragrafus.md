@@ -26,8 +26,8 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. §
+1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet [a továbbiakban: 217/1997. (XII. 1.) Korm. rendelet] 31/F. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. alcím a 20. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(2) A biztosított a segély megállapításának időpontjától számított egy éven belül ismételten abban az esetben részesíthető segélyben, amennyiben az egészségi állapotával összefüggésben különös méltánylást érdemlő körülmény következett be.”

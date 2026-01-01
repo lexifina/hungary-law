@@ -1,5 +1,3 @@
-## 9.[^10]
+## 9. A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet módosítása
 
-19. §
-
-[^10]: A 9. alcím a 20. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+19. § A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 8. melléklet 52. pontjában a „meghatalmazás visszavonására” szövegrész helyébe a „meghatalmazás visszavonására, illetve a meghatalmazás meghatalmazott általi törlésére” szöveg lép.
