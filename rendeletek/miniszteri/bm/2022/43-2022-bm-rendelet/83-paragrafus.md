@@ -14,11 +14,11 @@ f) „Alkalmas kategória-váltással” vagy
 
 g) „Alkalmatlan”.
 
-(2)[^27] A „Korlátozással alkalmas”, a „Korlátozással alkalmas minősítés meghosszabbítása”, az „Ideiglenesen alkalmatlan” és az „Ideiglenesen alkalmatlan minősítés meghosszabbítása” minősítések együttes időtartama a 79. § (3) bekezdésében és a 80. § (4) bekezdésében meghatározott időtartamnál hosszabb nem lehet.
+(2)[^28] A „Korlátozással alkalmas”, a „Korlátozással alkalmas minősítés meghosszabbítása”, az „Ideiglenesen alkalmatlan” és az „Ideiglenesen alkalmatlan minősítés meghosszabbítása” minősítések együttes időtartama a 79. § (3) bekezdésében és a 80. § (4) bekezdésében meghatározott időtartamnál hosszabb nem lehet.
 
-(3)[^28]
+(3)[^29]
 
-(4)[^29] Az „Alkalmas kategória-váltással” minősítés esetén meg kell határozni azt az alkalmasságvizsgálati kategóriát vagy kategóriákat, amelybe tartozó szolgálati beosztást a hivatásos állomány tagja elláthat. Szervezeti egységen belül azonos besorolású másik szolgálati beosztás felajánlása esetén a Hszt. 53. § (2) bekezdése szerint kell eljárni. Amennyiben a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el,
+(4)[^30] Az „Alkalmas kategória-váltással” minősítés esetén meg kell határozni azt az alkalmasságvizsgálati kategóriát vagy kategóriákat, amelybe tartozó szolgálati beosztást a hivatásos állomány tagja elláthat. Szervezeti egységen belül azonos besorolású másik szolgálati beosztás felajánlása esetén a Hszt. 53. § (2) bekezdése szerint kell eljárni. Amennyiben a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el,
 
 a) egészségi ok esetén a felülvizsgálati eljárás szabályai szerint kell eljárni,
 
@@ -34,9 +34,9 @@ a) egészségi alkalmatlanság esetén a felülvizsgálati eljárás szabályai 
 
 b) pszichológiai vagy fizikai alkalmatlanság esetén kötelezően háromfős bizottsági vizsgálatra kerül sor.
 
-(8)[^30] A másodfokon megismételt alkalmasságvizsgálat „Alkalmas kategória-váltással” minősítése esetén a (4) bekezdésben meghatározott eljárásrend alkalmazandó.
+(8)[^31] A másodfokon megismételt alkalmasságvizsgálat „Alkalmas kategória-váltással” minősítése esetén a (4) bekezdésben meghatározott eljárásrend alkalmazandó.
 
-[^27]: A 83. § (2) bekezdése a 60/2024. (XII. 23.) BM rendelet 105. §-ával megállapított szöveg.
-[^28]: A 83. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 110. § f) pontja hatályon kívül helyezte.
-[^29]: A 83. § (4) bekezdése a 24/2023. (VI. 30.) BM rendelet 57. § (1) bekezdésével megállapított szöveg.
-[^30]: A 83. § (8) bekezdését a 24/2023. (VI. 30.) BM rendelet 57. § (2) bekezdése iktatta be.
+[^28]: A 83. § (2) bekezdése a 60/2024. (XII. 23.) BM rendelet 105. §-ával megállapított szöveg.
+[^29]: A 83. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 110. § f) pontja hatályon kívül helyezte.
+[^30]: A 83. § (4) bekezdése a 24/2023. (VI. 30.) BM rendelet 57. § (1) bekezdésével megállapított szöveg.
+[^31]: A 83. § (8) bekezdését a 24/2023. (VI. 30.) BM rendelet 57. § (2) bekezdése iktatta be.

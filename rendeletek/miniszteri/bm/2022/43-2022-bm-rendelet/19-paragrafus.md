@@ -6,7 +6,7 @@ a) a személyügyi szerv által kitöltött alkalmasságvizsgálatra rendelő la
 
 b) az egészségi, pszichológiai és fizikai-erőnléti állapotára vonatkozó, az adott alkalmasságvizsgálat szempontjából szükséges dokumentációt.
 
-(3)[^6] Az (1) bekezdésben foglaltaktól eltérően a hivatásos állomány tagjának egészségi alkalmasságával kapcsolatos döntés a rendelkezésre álló dokumentumok alapján is meghozható a soron kívüli és az ismételt alkalmasságvizsgálat során, ha a vizsgálatra rendelt személy
+(3)[^7] Az (1) bekezdésben foglaltaktól eltérően a hivatásos állomány tagjának egészségi alkalmasságával kapcsolatos döntés a rendelkezésre álló dokumentumok alapján is meghozható a soron kívüli és az ismételt alkalmasságvizsgálat során, ha a vizsgálatra rendelt személy
 
 a) egészségi állapota a személyes megjelenést nem teszi lehetővé,
 
@@ -16,4 +16,4 @@ c) utaztatása esetén egészségi állapotában romlás következne be,
 
 és meglévő egészségügyi dokumentációjából az egészségi állapota megítélhető.
 
-[^6]: A 19. § (3) bekezdés nyitó szövegrésze a 60/2024. (XII. 23.) BM rendelet 109. § 6. pontja szerint módosított szöveg.
+[^7]: A 19. § (3) bekezdés nyitó szövegrésze a 60/2024. (XII. 23.) BM rendelet 109. § 6. pontja szerint módosított szöveg.

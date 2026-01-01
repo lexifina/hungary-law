@@ -30,7 +30,7 @@ b) a rehabilitációs hatóság vizsgálatával összefüggésben annak időpont
 
 c) a rehabilitációs hatóság szakvéleményét, valamint az attól való eltérés részletes indokolását, az egyéb egészségügyi dokumentációk diagnózisai alapján az egészségügyi alkalmassági táblázat minősítő kódjait, illetve a betegségek nemzetközi osztályozására szolgáló kódrendszer szerinti BNO kódokat,
 
-d)[^41]
+d)[^42]
 
 e) a közúti járművezetői egészségi alkalmasság felülvizsgálata szükségességére vonatkozó véleményt,
 
@@ -40,4 +40,4 @@ g) a FÜV bizottság elnökének és tagjainak aláírását,
 
 h) az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
 
-[^41]: A 108. § (3) bekezdés d) pontját a 35/2025. (VIII. 28.) BM rendelet 33. § b) pontja hatályon kívül helyezte.
+[^42]: A 108. § (3) bekezdés d) pontját a 35/2025. (VIII. 28.) BM rendelet 33. § b) pontja hatályon kívül helyezte.

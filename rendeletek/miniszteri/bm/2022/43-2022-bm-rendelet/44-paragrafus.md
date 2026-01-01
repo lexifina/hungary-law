@@ -2,10 +2,10 @@
 
 a) a Hszt. 36–40. §-a szerinti hivatásos állományba visszavétellel vagy
 
-b)[^9] a Magyar Honvédség hivatásos katonai állományából vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból történő áthelyezéssel
+b)[^10] a Magyar Honvédség hivatásos katonai állományából vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból történő áthelyezéssel
 
 kerül sor.
 
 (2) A hivatásos állományba visszavételt megelőző, a hivatásos állományba kinevezést megelőző alkalmasságvizsgálat elvégzése során – amennyiben rendelkezésre áll – a korábbi hivatásos szolgálati jogviszony fennállása alatt keletkezett egészségügyi és pszichológiai dokumentációt is figyelembe kell venni.
 
-[^9]: A 44. § (1) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 99. §-ával megállapított szöveg.
+[^10]: A 44. § (1) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 99. §-ával megállapított szöveg.

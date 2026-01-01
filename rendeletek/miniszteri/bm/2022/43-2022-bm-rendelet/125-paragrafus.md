@@ -1,3 +1,3 @@
-125. §[^58]
+125. §[^59]
 
-[^58]: A 125. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 125. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

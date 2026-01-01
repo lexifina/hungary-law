@@ -1,6 +1,6 @@
 ## 20. A bizottsági vizsgálat
 
-86. §[^33] (1) A 81. § (3) bekezdés b) pontja, a 83. § (4) bekezdés b) pontja, valamint a 83. § (7) bekezdés b) pontja szerinti bizottsági vizsgálat vizsgálatra a 85. § (1) bekezdését kell alkalmazni, azzal, hogy a háromtagú bizottság a minősítésről szótöbbséggel dönt.
+86. §[^34] (1) A 81. § (3) bekezdés b) pontja, a 83. § (4) bekezdés b) pontja, valamint a 83. § (7) bekezdés b) pontja szerinti bizottsági vizsgálat vizsgálatra a 85. § (1) bekezdését kell alkalmazni, azzal, hogy a háromtagú bizottság a minősítésről szótöbbséggel dönt.
 
 (2) A bizottsági alkalmasságvizsgálat során az érintett személy megjelenésére, esetleges távolmaradására a 85. § (2) bekezdésében foglaltakat alkalmazni kell.
 
@@ -20,4 +20,4 @@ b) amennyiben a minősítés időpontjában már rendelkezésre állt olyan szol
 
 (5) „Hivatásos szolgálatra alkalmatlan” minősítés esetén intézkedni kell a Hszt. 86. § (2) bekezdés a) pontjában, illetve a Hszt. 86. § (5) és (6) bekezdésében meghatározott intézkedések megtétele érdekében.
 
-[^33]: A 86. § a 24/2023. (VI. 30.) BM rendelet 58. §-ával megállapított szöveg.
+[^34]: A 86. § a 24/2023. (VI. 30.) BM rendelet 58. §-ával megállapított szöveg.
