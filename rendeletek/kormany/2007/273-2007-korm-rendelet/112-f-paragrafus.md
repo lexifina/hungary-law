@@ -1,4 +1,4 @@
-112/F. §[^512] (1) A nem természetes személynek a 112/E. § (1) bekezdése szerint közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétszázmillió forint.
+112/F. §[^514] (1) A nem természetes személynek a 112/E. § (1) bekezdése szerint közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül – legalább százezer, de legfeljebb kétszázmillió forint.
 
 (2) A nem természetes személynek a 112/E. § (2) bekezdése szerinti közigazgatási bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET-ben megállapított szempontok mérlegelésével kiszabható közigazgatási bírság összege – a piaci szereplővel szembeni közigazgatási bírság alkalmazásán felül –legalább százezer, de legfeljebb négyszázmillió forint.
 
@@ -8,4 +8,4 @@
 
 (5) Számszerűsíthető, igazolt, megelőző évi bruttó jövedelem hiányában a bírság összege minimum százezer, maximum kétmilliárd forint.
 
-[^512]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^514]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.

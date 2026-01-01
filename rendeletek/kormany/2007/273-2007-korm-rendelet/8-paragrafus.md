@@ -18,8 +18,22 @@ b) a háztartási méretű kiserőműhöz kapcsolódó inverter egyedi azonosít
 
 (6)[^94] Az elosztó hálózati engedélyes az (5) bekezdés szerinti adatszolgáltatást – ideértve az (5) bekezdés szerinti adatoknak az aktív felhasználó által a 21/D. § (1) bekezdés b) pontjában bejelentett változását is – havonta egy alkalommal összesítetten, legkésőbb a naptári hónap utolsó napjáig teljesíti.
 
+(7)[^95] Az elosztó átlátható és egyértelmű formában a honlapján közzéteszi és legalább negyedévente aktualizálja az ellátási területén
+
+a) kisfeszültségen transzformátorkörzetenként, közép- és nagyfeszültségen alállomásonként a hálózati csatlakozásra rendelkezésre álló szabad transzformátorkapacitások aktuális és – a hálózatfejlesztési terv szerinti fejlesztésekre és a VET 170. § (2) bekezdés 25. pontjában kapott felhatalmazáson alapuló rendelet szerint meghirdetett kapacitások alapján – a következő öt évben valószínűsíthető mértékét, megjelölve, ha zárolt áramkör érintett,
+
+b) az a) pont szerinti bontásban azon kapacitások mértékét, amelyekre vonatkozóan csatlakozási szerződés teljesítése folyamatban van,
+
+c) azon kisfeszültségű transzformátorkörzetek, illetve közép- és nagyfeszültségű alállomások listáját, amelyek esetében a csatlakozásra rendelkezésre álló hálózati kapacitások szűkösségére tekintettel a rugalmas hálózati csatlakozás lehetőségét biztosítja, figyelemmel a VET 170. § (2) bekezdés 25. pontjában kapott felhatalmazáson alapuló rendelet alapján meghirdetettekre, valamint
+
+d) az a) pont szerinti szabad kapacitások meghatározásához figyelembe vett kritériumokat és módszertant.
+
+(8)[^96] A (4) bekezdés szerinti közzétett adat tájékoztató jellegű, és nem keletkeztet jogot a közcélú hálózathoz való csatlakozásra.
+
 [^90]: A Vhr. 8. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^91]: A Vhr. 8. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^92]: A Vhr. 8. § (4) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^93]: A Vhr. 8. § (5) bekezdését a 173/2025. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
 [^94]: A Vhr. 8. § (6) bekezdését a 173/2025. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^95]: A Vhr. 8. § (7) bekezdését a 280/2025. (VIII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^96]: A Vhr. 8. § (8) bekezdését a 280/2025. (VIII. 21.) Korm. rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-## Társasházi megosztási hozzárendelés[^324]
+## Társasházi megosztási hozzárendelés[^326]
 
 39/E. § (1) A VET 66/B. § (9) bekezdés b) pontja szerinti társasházi energiaközösségben a társasház csatlakozási pontja mögötti ugyanazon összekötő berendezéshez csatlakozó távlehívható fogyasztásmérővel rendelkező felhasználási helyek vehetnek részt.
 
@@ -10,4 +10,4 @@ b) a különböző mérlegkörhöz tartozó elszámolási pontok esetén a menet
 
 (3) A VET 66/B. § (9) bekezdés b) pontja szerinti korrigált adatok elosztó általi biztosításának feltétele, hogy a megosztási hozzárendelés teljesítéséhez szükséges mérési adatok szolgáltatásának, a korrigált elszámolási adatok előállításának, ellenőrzésének és hitelesítésének szabályaiban, valamint a villamosenergia-ellátási szabályzatokban meghatározott további feltételekben az érintettek írásban megállapodtak.
 
-[^324]: A Vhr. „Társasházi megosztási hozzárendelés” alcímét (39/E. §-t) a 280/2025. (VIII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^326]: A Vhr. „Társasházi megosztási hozzárendelés” alcímét (39/E. §-t) a 280/2025. (VIII. 21.) Korm. rendelet 8. §-a iktatta be.

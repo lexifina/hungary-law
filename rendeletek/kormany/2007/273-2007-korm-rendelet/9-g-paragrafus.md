@@ -1,4 +1,4 @@
-## (A VET 45/A. §-ához)[^105]
+## (A VET 45/A. §-ához)[^107]
 
 9/G. § (1) A háztartási méretű kiserőmű üzemeltetése kizárólag a háztartási méretű kiserőműhöz kapcsolódó inverter és az energetikai adatszolgáltató platform között az adatok továbbítását lehetővé tevő műszaki megoldás (a továbbiakban: műszaki megoldás) biztosításával lehetséges.
 
@@ -10,4 +10,4 @@
 
 (5) Az energetikai adatszolgáltató platform 3 havonta tájékoztatja az elosztói engedélyest az energetikai adatszolgáltató platform szabályzatában meghatározott módon a 22/a. melléklet 2.1. és 2.2. pontjában meghatározott, az adatok továbbítását lehetővé tevő műszaki megoldásoknak való megfeleléséről.
 
-[^105]: A Vhr. „(A VET 45/A. §-ához)” alcímét (9/G. §-t) a 173/2025. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^107]: A Vhr. „(A VET 45/A. §-ához)” alcímét (9/G. §-t) a 173/2025. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
