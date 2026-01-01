@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-82-00-00
 | 2024-11-29 | 2024. évi LV. törvény | 1991-82-00-00.45 |
 | 2025-01-01 | 2024. évi LV. törvény | 1991-82-00-00.46 |
 | 2025-06-20 | 2025. évi LIV. törvény | 1991-82-00-00.47 |
+| 2026-01-01 | 2025. évi LXXXIII. törvény | 1991-82-00-00.48 |
