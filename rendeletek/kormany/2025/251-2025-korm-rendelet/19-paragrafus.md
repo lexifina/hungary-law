@@ -2,10 +2,11 @@
 
 19. § (1)[^19]
 
-(2)[^20]
+(2) A Rendelet 6. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-(3)[^21]
+„(5) Az edzők, nevelőedzők és más sportszakemberek részére világbajnokság, Európa-bajnokság esetén megállapítható eredményességi jutalmak összege a sportágban a versenyzőknek a 10–12. melléklet szerint világbajnokság, Európa-bajnokság esetén nyújtható eredményességi jutalmak összegének ötven százaléka, triatlon és öttusa sportágban hetven százaléka lehet.”
+
+(3)[^20]
 
 [^19]: A 19. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 19. § (2) bekezdése a 22. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^21]: A 19. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 19. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
