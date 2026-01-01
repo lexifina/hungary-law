@@ -1,1 +1,3 @@
-2. § Hatályát veszti az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelősségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet 11. § (2) bekezdése.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
