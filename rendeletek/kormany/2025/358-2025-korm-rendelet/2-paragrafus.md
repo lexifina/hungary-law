@@ -1,3 +1,1 @@
-2. §[^1]
-
-[^1]: A 2. § a 4. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+2. § A Kvtv. 4. § (8)–(10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kvtv. 4. § (8)–(10) bekezdése szerinti előirányzat terhére összesen legfeljebb 860 milliárd forintig csoportosíthat át a Kormány.
