@@ -194,78 +194,78 @@
 
 4. melléklet a 23/2024. (IX. 30.) HM rendelethez[^8]
 
-A külföldi katonai műveletben részt vevők alapellátmánya és alapellátmány-kiegészítésehavi nettó összege
+A külföldi katonai műveletben részt vevők alapellátmánya és alapellátmány-kiegészítése havi nettó összege
 
 1. Az alapellátmány havi nettó összege
 
 |  | A | B | C |
 
-| 1. | Beosztáshoz rendszeresített rendfokozat | Honvédelmi alkalmazottak (munkakör, fizetési osztály / fizetési fokozat, vezetői megbízás) | Alapellátmány havi nettó összege forintban |
+| 1 | Beosztáshoz rendszeresített rendfokozat | Honvédelmi alkalmazottak (munkakör, fizetési osztály/fizetési fokozat, vezetői megbízás) | Alapellátmány havi nettó összege forintban |
 
-| 2. | vezérőrnagy | – | 838 642 |
+| 2 | vezérőrnagy | – | 922 506 |
 
-| 3. | dandártábornok | – | 776 521 |
+| 3 | dandártábornok | – | 854 173 |
 
-| 4. | ezredes | fizetési osztálytól függetlenül magasabb vezető | 714 399 |
+| 4 | ezredes | fizetési osztálytól függetlenül magasabb vezető | 785 839 |
 
-| 5. | alezredes | – fizetési osztálytól függetlenül vezető – „H”–„J” fizetési osztály | 633 641 |
+| 5 | alezredes | – fizetési osztálytól függetlenül vezető – „H”–„J” fizetési osztály | 697 005 |
 
-| 6. | őrnagy | G/5–G/17 | 583 944 |
+| 6 | őrnagy | G/5-G/17 | 642 338 |
 
-| 7. | százados | G/1–G/4 F/3–F/17 | 546 671 |
+| 7 | százados | G/1-G/4 F/3-F/17 | 601 338 |
 
-| 8. | főhadnagy | F/2 | 529 728 |
+| 8 | főhadnagy | F/2 | 582 701 |
 
-| 9. | hadnagy | F/1 | 510 527 |
+| 9 | hadnagy | F/1 | 561 580 |
 
-| 10. | főtörzszászlós | – | 407 744 |
+| 10 | főtörzszászlós | – | 448 518 |
 
-| 11. | törzszászlós | „E” fizetési osztály | 398 708 |
+| 11 | törzszászlós | „E” fizetési osztály | 438 579 |
 
-| 12. | zászlós |  | 390 237 |
+| 12 | zászlós | – | 429 261 |
 
-| 13. | főtörzsőrmester | „D” fizetési osztály | 371 035 |
+| 13 | főtörzsőrmester | „D” fizetési osztály | 408 139 |
 
-| 14. | törzsőrmester |  | 347 882 |
+| 14 | törzsőrmester | – | 382 670 |
 
-| 15. | őrmester | „C” fizetési osztály | 329 245 |
+| 15 | őrmester | „C” fizetési osztály | 362 170 |
 
-| 16. | legénységi állománycsoport | „A”–„B” fizetési osztály | 307 784 |
+| 16 | legénységi állománycsoport | „A”–„B” fizetési osztály | 338 562 |
 
 2. A biztonsági körülmények szerinti alapellátmány-kiegészítés havi nettó összege
 
 |  | A | B |
 
-| 1. | Biztonsági körülmények szerinti kategória | Alapellátmány-kiegészítés havi nettó összege forintban |
+| 1 | Biztonsági körülmények szerinti kategória | Alapellátmány-kiegészítés havi nettó összege forintban |
 
-| 2. | 1. mérsékelten veszélyeztetett | 0 |
+| 2 | 1. mérsékelten veszélyeztetett | 0 |
 
-| 3. | 2. veszélyeztetett | 99 395 |
+| 3 | 2. veszélyeztetett | 109 335 |
 
-| 4. | 3. fokozottan veszélyeztetett | 155 304 |
+| 4 | 3. fokozottan veszélyeztetett | 170 834 |
 
-| 5. | 4. jelentősen veszélyeztetett | 248 487 |
+| 5 | 4. jelentősen veszélyeztetett | 273 336 |
 
-| 6. | 5. kiemelten veszélyeztetett | 397 578 |
+| 6 | 5. kiemelten veszélyeztetett | 437 336 |
 
-| 7. | 6. különösen veszélyeztetett | 442 758 |
+| 7 | 6. különösen veszélyeztetett | 487 034 |
 
-| 8. | 7. magasfokon veszélyeztetett | 496 973 |
+| 8 | 7. magasfokon veszélyeztetett | 546 670 |
 
-| 9. | 8. rendkívüli veszélyeztetettségű | 547 801 |
+| 9 | 8. rendkívüli veszélyeztetettségű | 602 581 |
 
 3. Az éghajlati viszonyok szerinti alapellátmány-kiegészítés havi nettó összege
 
 |  | A | B |
 
-| 1. | Éghajlati viszonyok szerinti kategória | Alapellátmány-kiegészítés havi nettó összege forintban |
+| 1 | Éghajlati viszonyok szerinti kategória | Alapellátmány-kiegészítés havi nettó összege forintban |
 
-| 2. | 1. hazánkhoz hasonló | 0 |
+| 2 | 1. hazánkhoz hasonló | 0 |
 
-| 3. | 2. hazánktól eltérő | 24 848 |
+| 3 | 2. hazánktól eltérő | 27 333 |
 
-| 4. | 3. hazánktól szélsőségesen eltérő | 74 546 |
+| 4 | 3. hazánktól szélsőségesen eltérő | 82 001 |
 
-| 5. | 4. extrém | 136 668 |
+| 5 | 4. extrém | 150 335 |
 
-[^8]: A 4. melléklet a 73. §-sal megállapított szöveg.
+[^8]: A 4. melléklet a 15/2025. (XII. 19.) HM rendelet 9. §-ával megállapított szöveg.
