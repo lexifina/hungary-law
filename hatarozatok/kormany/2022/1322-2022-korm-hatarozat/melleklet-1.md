@@ -1,10 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2022. évi központi költségvetésének címrendjét 2022. július 15-i fordulónappal az 1. és 2. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## a Kormány irányítása alá tartozó fejezetet irányító szervek vezetői
-
-## Határidő: 2022. július 15.
+## 1.[^1]
 
 ## 2. felhívja a Kormány irányítása alá tartozó fejezetet irányító szervek vezetőit, hogy gondoskodjanak a Magyar Államkincstárnál
 
@@ -24,4 +18,7 @@
 
 ## az átvezetés tekintetében 2022. július 15.
 
-1. melléklet az 1322/2022. (VII. 8.) Korm. határozathoz
+1. melléklet az 1322/2022. (VII. 8.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
