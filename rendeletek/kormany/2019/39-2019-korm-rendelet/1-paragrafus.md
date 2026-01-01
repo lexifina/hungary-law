@@ -1,12 +1,12 @@
-1. §[^1] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a szerint a 2025. évben kiállított igazolások és támogatási igazolások együttes összege – ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/A. §-a szerinti kiegészítő sportfejlesztési támogatást – nem haladhatja meg a 125 200 000 000 forintot, amelyen belül
+1. §[^1] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a szerint a 2026. évben kiállított igazolások és támogatási igazolások együttes összege – ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/A. §-a szerinti kiegészítő sportfejlesztési támogatást – nem haladhatja meg a 125 200 000 000 forintot, amelyen belül
 
-a)[^2] az építési beruházások megvalósítására irányuló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 9. pont c)–f) alpontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 30 800 000 000 forint lehet,
+a)[^2] az építési beruházások megvalósítására irányuló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 9. pont c)–f) alpontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 25 900 000 000 forint lehet,
 
-b)[^3] az egyéb, alapvetően működési célt szolgáló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 3., 4. pontjában, 9. pont a), b), g), h) alpontjában, 11., 12. és 13. pontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 94 100 000 000 forint lehet.
+b)[^3] az egyéb, alapvetően működési célt szolgáló támogatások – ideértve a Korm. rendelet 2. § (1) bekezdés 3., 4. pontjában, 9. pont a), b), g), h) alpontjában, 11., 12. és 13. pontjában foglalt célokra irányuló támogatásokat – együttes összege legfeljebb 99 000 000 000 forint lehet.
 
 c)[^4] 300 000 000 forint kizárólag a Magyar Olimpiai Bizottság jóváhagyott sportfejlesztési programjának megvalósítására használható fel.
 
-[^1]: Az 1. § a 663/2020. (XII. 24.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 185/2023. (V. 19.) Korm. rendelet 2. § a) pontja, a 623/2023. (XII. 22.) Korm. rendelet 2. § a) pontja, a 399/2024. (XII. 16.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § a) pontja a 623/2023. (XII. 22.) Korm. rendelet 2. § b) pontja, a 399/2024. (XII. 16.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § b) pontja a 623/2023. (XII. 22.) Korm. rendelet 2. § c) pontja, a 399/2024. (XII. 16.) Korm. rendelet 1. § c) pontja, a 215/2025. (VII. 22.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^1]: Az 1. § a 663/2020. (XII. 24.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 185/2023. (V. 19.) Korm. rendelet 2. § a) pontja, a 419/2025. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 419/2025. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § b) pontja a 215/2025. (VII. 22.) Korm. rendelet 12. §-a, a 419/2025. (XII. 23.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^4]: Az 1. § c) pontját a 623/2023. (XII. 22.) Korm. rendelet 1. §-a iktatta be.

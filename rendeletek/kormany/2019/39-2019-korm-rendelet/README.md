@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-39-20-2
 | 2024-01-01 | 2019-39-20-22.10 | 623/2023. (XII. 22.) Korm. rendelet |
 | 2025-01-01 | 2019-39-20-22.11 | 623/2023. (XII. 22.) Korm. rendelet |
 | 2025-07-23 | 2019-39-20-22.12 | 623/2023. (XII. 22.) Korm. rendelet |
+| 2026-01-01 | 2019-39-20-22.13 | 215/2025. (VII. 22.) Korm. rendelet |
