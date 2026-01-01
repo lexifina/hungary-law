@@ -1,5 +1,3 @@
-## 2.[^6]
+## 2. A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosításáról szóló 24/2025. (XI. 6.) KIM rendelet módosítása
 
-5. §
-
-[^6]: A 2. alcím a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+5. § A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosításáról szóló 24/2025. (XI. 6.) KIM rendelet (a továbbiakban: Mód.rendelet1.) 18. § (2) bekezdésében a „2. § (2) bekezdése, a 15. § (3) és (4) bekezdése, valamint a 3. és 4. melléklet” szövegrész helyébe a „15. § (3) és (4) bekezdése, valamint a 4. melléklet” szöveg lép.
