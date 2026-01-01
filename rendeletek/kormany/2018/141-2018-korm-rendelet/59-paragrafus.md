@@ -1,4 +1,4 @@
-## 58. §[^375] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 193/2021. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr50.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/O. §-át és 2. melléklet 63. sorát a Módr50. hatálybalépésekor[^376] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 58. §[^376] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 193/2021. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr50.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/O. §-át és 2. melléklet 63. sorát a Módr50. hatálybalépésekor[^377] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^375]: Az 58. §-t a 193/2021. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
-[^376]: A hatálybalépés időpontja 2021. április 24.
+[^376]: Az 58. §-t a 193/2021. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
+[^377]: A hatálybalépés időpontja 2021. április 24.

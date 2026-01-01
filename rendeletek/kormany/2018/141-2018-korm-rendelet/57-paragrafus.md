@@ -1,4 +1,4 @@
-## 56. §[^371] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet módosításáról szóló 139/2021. (III. 23.) Korm. rendelettel (a továbbiakban: Módr48.) módosított 3. § (3) és (4) bekezdését a Módr48. hatálybalépésekor[^372] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 56. §[^372] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet módosításáról szóló 139/2021. (III. 23.) Korm. rendelettel (a továbbiakban: Módr48.) módosított 3. § (3) és (4) bekezdését a Módr48. hatálybalépésekor[^373] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^371]: Az 56. §-t a 139/2021. (III. 23.) Korm. rendelet 6. §-a iktatta be.
-[^372]: A hatálybalépés időpontja 2021. március 24.
+[^372]: Az 56. §-t a 139/2021. (III. 23.) Korm. rendelet 6. §-a iktatta be.
+[^373]: A hatálybalépés időpontja 2021. március 24.

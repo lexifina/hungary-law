@@ -1,10 +1,10 @@
-## 6/W. §[^248] A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+## 6/W. §[^249] A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-6/X. §[^249] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
+6/X. §[^250] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
 
-a)[^250] a hatályos településrendezési tervek és az OTÉK, illetve előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^251] a hatályos településrendezési tervek és az OTÉK, illetve előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^251] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^252] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlanokon kereskedelmi, szolgáltató, gazdasági, munkásszállás, valamint a környezetre jelentős hatást gyakorló ipari és gazdasági tevékenységi célú építmények és azok kiszolgáló építményei helyezhetőek el, azzal, hogy az épületekre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények a következők:
 
@@ -40,7 +40,7 @@ b) B:71 mezőjében megjelölt Göd külterület 062/11 helyrajzi számú ingatl
 
 kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
 
-[^248]: A 6/W. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^249]: A 6/X. §-t a 811/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^250]: A 6/X. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 52. pontja szerint módosított szöveg.
-[^251]: A 6/X. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 53. pontja szerint módosított szöveg.
+[^249]: A 6/W. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^250]: A 6/X. §-t a 811/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^251]: A 6/X. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 52. pontja szerint módosított szöveg.
+[^252]: A 6/X. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 53. pontja szerint módosított szöveg.

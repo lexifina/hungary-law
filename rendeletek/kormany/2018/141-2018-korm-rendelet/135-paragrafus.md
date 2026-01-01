@@ -1,4 +1,4 @@
-135. §[^526] E rendeletnek az egyes kormányrendeletek módosításáról szóló 447/2023. (X. 3.) Korm. rendelettel (a továbbiakban: Módr127.) megállapított 6/Z. § (10) bekezdését a Módr127. hatálybalépésekor[^527] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+135. §[^527] E rendeletnek az egyes kormányrendeletek módosításáról szóló 447/2023. (X. 3.) Korm. rendelettel (a továbbiakban: Módr127.) megállapított 6/Z. § (10) bekezdését a Módr127. hatálybalépésekor[^528] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^526]: A 135. §-t a 447/2023. (X. 3.) Korm. rendelet 5. §-a iktatta be.
-[^527]: A hatálybalépés időpontja 2023. október 4.
+[^527]: A 135. §-t a 447/2023. (X. 3.) Korm. rendelet 5. §-a iktatta be.
+[^528]: A hatálybalépés időpontja 2023. október 4.
