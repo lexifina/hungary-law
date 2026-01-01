@@ -24,4 +24,4 @@ i) a külföldre utazási korlátozás hatálya alatt álló szabad mozgás és 
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
-(3) Az (1) bekezdésben meghatározott nyilvántartások – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
+(3)
