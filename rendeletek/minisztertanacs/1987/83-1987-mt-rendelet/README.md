@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-83-20-6
 | 2024-01-01 | 1987-83-20-65.22 | 524/2023. (XII. 1.) Korm. rendelet |
 | 2025-01-01 | 1987-83-20-65.23 | 452/2024. (XII. 30.) Korm. rendelet |
 | 2025-11-01 | 1987-83-20-65.24 | 452/2024. (XII. 30.) Korm. rendelet |
+| 2026-01-01 | 1987-83-20-65.25 | 410/2025. (XII. 22.) Korm. rendelet |
