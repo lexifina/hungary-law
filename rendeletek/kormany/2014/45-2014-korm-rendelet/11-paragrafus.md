@@ -24,9 +24,9 @@ g)[^36] a szerződés megkötéséhez alkalmazott, távollévők közötti kommu
 
 h) a teljesítés feltételeiről, így különösen a fizetésről, a fuvarozásról és a teljesítési határidőről, valamint a vállalkozás panaszkezelési módjáról;
 
-i) a 20. § szerinti jog gyakorlásának határidejéről és egyéb feltételeiről (különösen a 22. §-ban foglaltakról), valamint a 2. melléklet szerinti nyilatkozat-mintáról;
+i)[^37] a 20. § szerinti jog gyakorlásának határidejéről, egyéb feltételeiről (különösen a 22. §-ban foglaltakról), a 25. § szerinti jogkövetkezményről és a 2. melléklet szerinti nyilatkozatmintáról;
 
-j)[^37] arról, hogy a 20. § szerinti jog gyakorlása esetén a termék visszaküldésének költségét a fogyasztónak kell viselnie, ha a vállalkozás nem vállalta e költség viselését, és – a távollévők között kötött szerződés esetében – a termék postai küldeményként nem küldhető vissza;
+j)[^38] arról, hogy a 20. § szerinti jog gyakorlása esetén a termék visszaküldésének költségét a fogyasztónak kell viselnie, ha a vállalkozás nem vállalta e költség viselését, és – a távollévők között kötött szerződés esetében – a termék postai küldeményként nem küldhető vissza;
 
 k) arról, hogy a fogyasztó a 26. § szerint köteles megtéríteni a vállalkozás ésszerű költségeit, ha a 13. § vagy a 19. § esetén a teljesítés megkezdését követően gyakorolja a 20. § szerinti felmondási jogát;
 
@@ -38,21 +38,21 @@ n) az értékesítés utáni ügyfélszolgálati és egyéb szolgáltatások, va
 
 o) arról, hogy rendelkezésre áll-e a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti magatartási kódex, illetve a magatartási kódexről történő másolatkérés módjáról;
 
-p)[^38] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
+p)[^39] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
 
-q)[^39] ha a szerződés szerinti áruért vagy szolgáltatásért járó ellenszolgáltatás automatizált döntéshozatal alapján a fogyasztó személyére szabott;
+q)[^40] ha a szerződés szerinti áruért vagy szolgáltatásért járó ellenszolgáltatás automatizált döntéshozatal alapján a fogyasztó személyére szabott;
 
 r) a fogyasztó kötelezettségeinek szerződés szerinti legrövidebb időtartamáról;
 
 s) a fogyasztó által a vállalkozás kérésére fizetendő vagy biztosítandó letét vagy egyéb pénzügyi biztosíték nyújtásáról és annak feltételeiről;
 
-t)[^40] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás működéséről, valamint az alkalmazandó műszaki védelmi intézkedésről;
+t)[^41] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás működéséről, valamint az alkalmazandó műszaki védelmi intézkedésről;
 
-u)[^41] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás bármilyen vonatkozó kompatibilitásáról és interoperabilitásáról a vállalkozástól észszerűen elvárható ismereteknek megfelelően;
+u)[^42] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás bármilyen vonatkozó kompatibilitásáról és interoperabilitásáról a vállalkozástól észszerűen elvárható ismereteknek megfelelően;
 
 v) a jogszabályi előírás vagy a vállalkozás döntése alapján a vállalkozásra nézve kötelező peren kívüli panaszkezelési mód és vitarendezési mechanizmus igénybevételének lehetőségéről, valamint az ehhez való hozzáférés módjáról;
 
-w)[^42] a békéltető testülethez fordulás lehetőségéről, a békéltető testület nevéről és székhelyének postai címéről.
+w)[^43] a békéltető testülethez fordulás lehetőségéről, a békéltető testület nevéről és székhelyének postai címéről.
 
 (2) Ha a vállalkozás nem tett eleget az (1) bekezdés e) és f) pontjaiban meghatározott valamennyi járulékos költségre vagy az (1) bekezdés j) pontjában meghatározott költségre vonatkozó tájékoztatási követelménynek, a fogyasztó nem köteles megfizetni e költségeket.
 
@@ -70,9 +70,10 @@ w)[^42] a békéltető testülethez fordulás lehetőségéről, a békéltető 
 [^34]: A 11. § (1) bekezdés c) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^35]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 12. és 13. pontja által elrendelt módosítás, amely szerint a „termékért”, szövegrész helyébe az „áruért”, illetve a „termék” szövegrész helyébe az „áru” szöveg lép, nem vezethető át.]
 [^36]: A 11. § (1) bekezdés g) pontja a 107/2017. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^37]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 14. pontja által elrendelt módosítás, amely szerint a „termék”, szövegrész helyébe az „áru” szöveg lép, nem vezethető át.]
-[^38]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^39]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 712/2020. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^40]: A 11. § (1) bekezdés t) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^41]: A 11. § (1) bekezdés u) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^42]: A 11. § (1) bekezdés w) pontja az 531/2022. (XII. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^37]: A 11. § (1) bekezdés i) pontja a 415/2025. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^38]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 14. pontja által elrendelt módosítás, amely szerint a „termék”, szövegrész helyébe az „áru” szöveg lép, nem vezethető át.]
+[^39]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^40]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 712/2020. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^41]: A 11. § (1) bekezdés t) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^42]: A 11. § (1) bekezdés u) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^43]: A 11. § (1) bekezdés w) pontja az 531/2022. (XII. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
