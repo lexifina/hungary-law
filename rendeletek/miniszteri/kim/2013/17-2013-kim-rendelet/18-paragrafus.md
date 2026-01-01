@@ -1,9 +1,7 @@
 ## III. Fejezet
 
-## A VÁLASZTÓJOGGAL NEM RENDELKEZŐ POLGÁROK NYILVÁNTARTÁSA
+## A SZAVAZÓKÖRÖK ÉS VÁLASZTÓKERÜLETEK NYILVÁNTARTÁSA[^19]
 
-## 7. Igazolás kiadása
+18. § A HVI vezetője a változtatásra okot adó körülmény – különösen a választókerületi beosztás módosítása – felmerülésekor, valamint az NVI elnökének utasítása szerint felülvizsgálja, és szükség esetén – a Ve. 79. § (2) bekezdésében foglalt tilalmi időszakon kívül – módosítja a szavazóköri beosztást.
 
-18. §[^19]
-
-[^19]: A 18. §-t a 17/2023. (XI. 30.) IM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^19]: A III. Fejezet (18. §) a 12/2025. (IX. 15.) IM rendelet 24. §-ával megállapított szöveg.
