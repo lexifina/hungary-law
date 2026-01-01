@@ -1,13 +1,17 @@
 ## A földrajzi árujelzőre vonatkozó bejelentés
 
-4. § (1) A Vt. XVI–XVII. fejezeteiben szabályozott földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell
+4. § (1)[^6] A Vt. XVII/C. Fejezetében szabályozott kézműves és ipari termékek földrajzi jelzéseinek lajstromozására irányuló bejelentésnek tartalmaznia kell
 
 a) a bejelentési kérelmet;
 
 b) képviselet esetén annak igazolását;
 
-c)[^6] az agrárpolitikáért felelős miniszter által – külön jogszabály alapján – ellenőrzött és jóváhagyott termékleírást, ha a bejelentés szeszes italra vonatkozó földrajzi árujelző lajstromozására irányul.
+c) a kézműves és ipari termékek földrajzi jelzéseinek oltalmáról, valamint az (EU) 2017/1001 és az (EU) 2019/1753 rendelet módosításáról szóló, 2023. október 18-i (EU) 2023/2411 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2411 európai parlamenti és tanácsi rendelet] 9. cikkében meghatározott követelményeknek megfelelő termékleírást;
+
+d) az (EU) 2023/2411 európai parlamenti és tanácsi rendelet 10. cikkében meghatározott követelményeknek megfelelő egységes dokumentumot;
+
+e) az (EU) 2023/2411 európai parlamenti és tanácsi rendelet 11. cikkében meghatározott követelményeknek megfelelő bejelentést kísérő dokumentációt.
 
 (2) Az (1) bekezdésben említett bejelentésekre az 1. § (2)–(3) bekezdéseit megfelelően alkalmazni kell.
 
-[^6]: A 4. § (1) bekezdés c) pontja a 30/2018. (XII. 12.) IM rendelet 13. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdése a 19/2025. (XII. 29.) IM rendelet 2. §-ával megállapított szöveg.
