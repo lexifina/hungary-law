@@ -1,4 +1,4 @@
-1. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^342]
+1. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^346]
 
 Az adatszolgáltatás korlátozásáról szóló nyilatkozat adattartalma
 
@@ -26,4 +26,4 @@ Az adatszolgáltatás korlátozásáról szóló nyilatkozat adattartalma
 
 2.3. teljeskörűen
 
-[^342]: Az R. 1. számú melléklete az 569/2022. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^346]: Az R. 1. számú melléklete az 569/2022. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

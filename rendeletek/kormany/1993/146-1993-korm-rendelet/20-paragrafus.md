@@ -1,8 +1,8 @@
 ## (Az Nytv. 14—16. §-aihoz)
 
-## Értesítési kötelezettségek a nyilvántartás számára[^175]
+## Értesítési kötelezettségek a nyilvántartás számára[^176]
 
-20. §[^176] Az elektronikus anyakönyvi nyilvántartás adatkezelője automatikusan, az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy haladéktalanul átvezeti a nyilvántartáson az anyakönyvbe történő bejegyzésből eredő adatváltozásokat, adatjavításokat.
+20. §[^177] Az elektronikus anyakönyvi nyilvántartás adatkezelője automatikusan, az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy haladéktalanul átvezeti a nyilvántartáson az anyakönyvbe történő bejegyzésből eredő adatváltozásokat, adatjavításokat.
 
-[^175]: Az R. 20. § -a előtti alcím a 13/1999. ( II.1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^176]: Az R. 20. §-a az 572/2020. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^176]: Az R. 20. § -a előtti alcím a 13/1999. ( II.1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^177]: Az R. 20. §-a az 572/2020. (XII. 9.) Korm. rendelet 5. §-ával megállapított szöveg.

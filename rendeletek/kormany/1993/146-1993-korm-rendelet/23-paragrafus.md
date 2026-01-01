@@ -1,8 +1,8 @@
-23. § (1)[^223] A nyilvántartásból statisztikai célra adatszolgáltatás – az Nytv. 2. §-ának (5) bekezdésében foglalt kivétellel – egyedi azonosításra alkalmatlan módon teljesíthető.
+23. § (1)[^225] A nyilvántartásból statisztikai célra adatszolgáltatás – az Nytv. 2. §-ának (5) bekezdésében foglalt kivétellel – egyedi azonosításra alkalmatlan módon teljesíthető.
 
-(2)[^224] Statisztikai adatszolgáltatás igénylésekor meg kell jelölni a felhasználás célját, az érintettek körét (különösen a területi, időbeli meghatározást és a személyi kört), az adattartalmat és az adatszolgáltatás teljesítésének kért formáját (papír, elektronikus levélcímre történő küldés vagy elektronikus adathordozó).
+(2)[^226] Statisztikai adatszolgáltatás igénylésekor meg kell jelölni a felhasználás célját, az érintettek körét (különösen a területi, időbeli meghatározást és a személyi kört), az adattartalmat és az adatszolgáltatás teljesítésének kért formáját (papír, elektronikus levélcímre történő küldés vagy elektronikus adathordozó).
 
-(3)[^225] Statisztikai adatszolgáltatás keretében
+(3)[^227] Statisztikai adatszolgáltatás keretében
 
 a) a 6. számú mellékletben meghatározott adattartalommal igényelhető, vagy
 
@@ -10,16 +10,16 @@ b) a 6. számú mellékletben meghatározott adatoktól eltérő tartalmú igén
 
 adattartalommal teljesíthető az adatszolgáltatás.
 
-(4)[^226] A nyilvántartás szervei az adatszolgáltatás teljesítése érdekében a (2) bekezdés szerinti kérelemben megjelölt kritériumok összetettségére, az érintetti kör nagyságára figyelemmel hatósági szerződést köthetnek a statisztikai adatszolgáltatást igénylővel a (3) bekezdésben meghatározott adattartalom-igénylésre vonatkozóan.
+(4)[^228] A nyilvántartás szervei az adatszolgáltatás teljesítése érdekében a (2) bekezdés szerinti kérelemben megjelölt kritériumok összetettségére, az érintetti kör nagyságára figyelemmel hatósági szerződést köthetnek a statisztikai adatszolgáltatást igénylővel a (3) bekezdésben meghatározott adattartalom-igénylésre vonatkozóan.
 
-(5)[^227] A hatósági szerződés az általános közigazgatási rendtartásról szóló törvényben meghatározottak mellett tartalmazza
+(5)[^229] A hatósági szerződés az általános közigazgatási rendtartásról szóló törvényben meghatározottak mellett tartalmazza
 
 a) az adatszolgáltatás célját,
 
 b) az adatvédelmi záradékot, amely felhívja a figyelmet az átadott adatok jogszerű felhasználására.
 
-[^223]: Az R. 23. § -ának (1) bekezdése a 13/1999. ( II.1.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^224]: Az R. 23. § (2) bekezdése a 256/2023. (VI. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^225]: Az R. 23. § (3) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^226]: Az R. 23. § (4) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 185/2025. (VII. 3.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^227]: Az R. 23. § (5) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^225]: Az R. 23. § -ának (1) bekezdése a 13/1999. ( II.1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^226]: Az R. 23. § (2) bekezdése a 256/2023. (VI. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^227]: Az R. 23. § (3) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^228]: Az R. 23. § (4) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 185/2025. (VII. 3.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^229]: Az R. 23. § (5) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
