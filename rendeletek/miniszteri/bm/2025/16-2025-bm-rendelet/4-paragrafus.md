@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 30. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+4. § A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 13. számú melléklete helyébe az 1. melléklet lép.
