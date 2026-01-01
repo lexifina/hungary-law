@@ -1,0 +1,1 @@
+2. § A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 14. § (12) bekezdésében a „köztisztasági és közegészségügyi feladat” szövegrész helyébe a „köztisztasági és közegészségügyi feladat, közútkezelői feladat” szöveg lép.
