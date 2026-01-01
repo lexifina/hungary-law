@@ -10,6 +10,16 @@
 
 ## 1. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 73/B. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(1) A nyugdíjfolyósító szerv nem szünetelteti az öregségi nyugdíj folyósítását a Tny. 83/C. § (1) bekezdése szerinti jogviszony fennállására tekintettel, ha a jogviszony
+
+a) szociális, gyermekjóléti vagy gyermekvédelmi szolgáltatónál, intézményben, hálózatnál,
+
+b) köznevelési intézményben,
+
+c) szakképző intézményben vagy
+
+d) egészségügyi szolgáltatónál, illetve egészségügyi dolgozóként más költségvetési szervnél
+
+áll fenn.”
