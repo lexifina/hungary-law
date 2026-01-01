@@ -8,7 +8,7 @@
 
 a) állapítsa meg a díjkategóriákat, az útdíj mértékének megállapítására vonatkozó módszertant, és az esetleges kedvezményekre vonatkozó rendelkezéseket;
 
-b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és útdíjellenőrzés-támogatói feladatok ellátása érdekében szerződéskötésre feljogosított költségvetési szervet, az útdíjszedői, és az egyetemes útdíjszolgáltatói feladatok ellátására feljogosított szervezetet, az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet, továbbá a végső menedékes bevallási közreműködőt;
+b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és az útdíjellenőrzés-támogatói feladatok ellátására irányuló szerződést megkötő költségvetési szervet, az útdíjszedőt, az egyetemes útdíjszolgáltatót, valamint az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet;
 
 c) állapítsa meg az útdíjszolgáltató 21. § (1) bekezdés szerinti nyilvántartásba vételéhez szükséges feltételeket;
 
@@ -36,7 +36,7 @@ n) állapítsa meg a jármű kijelölt várakozási helyre szállításának és
 
 o) állapítsa meg az úthasználó bevallással összefüggő kötelezettségeit, beleértve a fedélzeti eszköz üzemeltetésével, használatával és érvénytelenítésével kapcsolatos részletes szabályokat, valamint
 
-p) állapítsa meg a bevallási közreműködői és a végső menedékes bevallási közreműködői tevékenység részletes feltételeit, valamint a bevallási közreműködőkkel és a végső menedékes bevallási közreműködővel megkötendő szerződés kötelező tartalmi elemeit;
+p)
 
 q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és a mezőgazdasági termények betakarítása idejére a mezőgazdasági termények szállítását végző saját gépjárműinek útdíj fizetése alóli mentesülésének részletes szabályait;
 
@@ -60,4 +60,6 @@ e) rendeletben jelölje ki a tanúsító szervet,
 
 f) rendeletben állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a végső menedékes bevallási közreműködő és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+g) rendeletben állapítsa meg a bevallási közreműködői tevékenység végzésének részletes feltételeit, valamint az útdíjszolgáltató által a bevallási közreműködőkkel megkötendő szerződés kötelező tartalmi elemeit.
+
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.

@@ -42,7 +42,7 @@
 
 20. útdíjköteles elemi útszakasz: az útdíjfizetés ellenében használható közúthálózatnak a díjmeghatározás szempontjából két útszelvényében lehatárolt része;
 
-21. útdíjköteles gépjármű: az autóbusz, a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
+21. útdíjköteles gépjármű: az autóbusz, a nehéz tehergépjármű, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
 
 22. útdíjszedés: az útdíj beszedésére irányuló cselekmények összessége;
 
@@ -70,7 +70,7 @@
 
 34. EETS nyújtására alkalmas rendszer: az UD rendszer azon elemei, amelyek kifejezetten szükségesek az EETS-szolgáltatók rendszeren belüli integrációjához és az EETS működéséhez;
 
-35. EETS-terület: az EETS-szolgáltatásba bevont magyarországi útdíjköteles elemi útszakaszok összessége;
+35. EETS-terület: az útdíjköteles elemi útszakaszok összessége, valamint az olyan közúti infrastruktúra-elem, amelynek használatáért UD rendszer igénybevételével útdíjat kell fizetni;
 
 36. elektronikus útdíjszedési rendszer: olyan útdíjszedési rendszer, amelyben a felhasználó számára kizárólag abban az esetben keletkezik útdíjfizetési kötelezettség, ha az automatikus észlelő rendszer a járműben található fedélzeti eszközzel való távoli kommunikáció vagy automatikus rendszámfelismerés útján érzékeli, hogy a jármű egy bizonyos helyen tartózkodik;
 
@@ -80,9 +80,9 @@
 
 39. útdíjbevallás: az útdíjszedőnek tett bejelentés, amely az útdíjszolgáltató és az útdíjszedő között megállapodott formátumban igazolja egy adott gépjármű jelenlétét egy EETS-területen;
 
-40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
+40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez, a kivetett útdíj ellenőrzéséhez és beszedéséhez szükségesek;
 
-41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevétel;
 
 42. nehézgépjármű: olyan gépjármű, amelynek műszakilag megengedett legnagyobb össztömege meghaladja a 3,5 tonnát;
 
@@ -170,4 +170,4 @@ b) az (EU) 2019/1242 rendelet hatálya alá nem tartozó járművek tekintetébe
 
 75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.
 
-76. végső menedékes bevallási közreműködő: olyan kiemelt bevallási közreműködő, amely szolgáltatását valamennyi szerződött díjfizető számára biztosítja.
+76.

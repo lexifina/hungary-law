@@ -26,17 +26,17 @@ feladatokat lát el.
 
 (7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti.
 
-(8) A szerződött díjfizető bevallási közreműködőt vagy végső menedékes bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé. Ha e törvény, vagy az e törvény felhatalmazása alapján kiadott kormányrendelet eltérően nem rendelkezik, a bevallási közreműködőre vonatkozó rendelkezéseket a végső menedékes bevallási közreműködőre is megfelelően alkalmazni kell.
+(8) A szerződött díjfizető bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét teljesítse az útdíjszolgáltató felé.
 
-(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
+(8a) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek teljesítése esetén végezheti e tevékenységét, az útdíjszolgáltatóval kötött szerződés szerint.
 
-(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
+(8b) A bevallási közreműködő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül a szerződött díjfizetőtől beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik a szerződött díjfizetőnek.
 
-(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékű átalány-költségtérítést fizet.
+(8c) Ha a bevallási közreműködőt az egyetemes útdíjszolgáltató veszi igénybe, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértékű átalány-költségtérítést fizet.
 
-(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.
+(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott követelményeknek megfelelő bevallási közreműködőkkel.
 
-(9a) A (9) bekezdést a végső menedékes bevallási közreműködő tekintetében nem kell alkalmazni.
+(9a)
 
 (10) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
 
