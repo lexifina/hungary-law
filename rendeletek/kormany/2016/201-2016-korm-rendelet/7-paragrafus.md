@@ -18,6 +18,9 @@ f) az alkalmazott különböző adók, illetékek és tarifák ismertetése és
 
 g) a felhasználói panaszok intézésével kapcsolatos információk, ideértve az alternatív vitarendezési eljárásokkal kapcsolatos információkat is.
 
+(2a)[^11] A (2) bekezdés e) pontja szerinti alkalmazott energiahordozó összetételt úgy kell megadni, hogy abban a megújuló energia részaránya az adott távhűtési rendszer igénybevevőihez rendelt hűtési célú bruttó végső energiafogyasztás százalékában legyen kifejezve, beleértve azt is, hogy mennyi energiát használtak fel egy hűtési egység fogyasztóhoz vagy végfelhasználóhoz történő eljuttatása érdekében.
+
 (3) A (2) bekezdésben előírt információk interneten is elérhetővé tehetők, a számlán történő hivatkozás révén.
 
 [^10]: A 7. § a 678/2023. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 7. § (2a) bekezdését a 238/2025. (VII. 31.) Korm. rendelet 13. §-a iktatta be.
