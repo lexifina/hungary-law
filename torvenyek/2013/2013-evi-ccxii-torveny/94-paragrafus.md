@@ -1,6 +1,6 @@
 94. § (1) Az ingatlanügyi hatóság a mező- és erdőgazdasági hasznosítású földek – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – használatáról és a földhasználókról a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
 
-a) a földrészlet ingatlan-nyilvántartási adatait;
+a) a földhasználó által használt földterület adatait;
 
 b) a földrészlet (alrészlet) vagy földrészletek természetes személy földhasználójának
 

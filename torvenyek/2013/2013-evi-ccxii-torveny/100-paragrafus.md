@@ -2,7 +2,7 @@
 
 ## A FÖLDMŰVESEK, A MEZŐGAZDASÁGI TERMELŐSZERVEZETEK ÉS A MEZŐGAZDASÁGI ÜZEMKÖZPONTOK NYILVÁNTARTÁSA
 
-100. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról nyilvántartást vezet, amely – a természetes személyazonosító és lakcím-azonosító adatok, valamint a gazdálkodó szervezetek esetében az azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+100. § (1) A föld tulajdonjoga vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról nyilvántartást vezet, amely – a személyiadat- és lakcímnyilvántartásban, valamint az ingatlan-nyilvántartásban szereplő közhiteles adatok, a gazdálkodó szervezetek esetében a székhely és az azonosító adatok, továbbá a mezőgazdasági üzemközpont esetén az azon fennálló használat jogcíme kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartásbavétel iránti eljárás a földműves, illetve a mezőgazdasági termelőszervezet kérelmére indul.
 
@@ -56,7 +56,7 @@ bh) adószámát;
 
 c) a mezőgazdasági üzemközpont esetén
 
-ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése szerinti településnek, és az ingatlan fekvésének a megjelölését,
+ca) az üzemközpont helyét,
 
 cb) azt, hogy a földművesnek, illetve a mezőgazdasági termelőszervezetnek az ingatlanon tulajdonjoga, haszonélvezeti joga, vagyonkezelői joga, vagy használati joga áll fenn, és
 
