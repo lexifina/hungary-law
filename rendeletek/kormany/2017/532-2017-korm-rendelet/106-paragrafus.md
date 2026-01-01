@@ -8,7 +8,7 @@ b) az engedélyezett tevékenységét,
 
 c) az engedély számát.
 
-(2) Az e rendelet szerint kiadott karbantartás oktató szervezeti engedélyekről a légiközlekedési hatóság nyilvántartást vezet, amely az engedély kiadása, valamint módosítása iránti kérelmeket – beleértve az ügy során keletkezett dokumentumokat – tartalmazza. A nyilvántartást az engedély visszavonása után 5 évig meg kell őrizni.
+(2)[^110]
 
 (3) A karbantartás oktató szervezeti engedély kiadása vagy módosítása iránti kérelmet a légiközlekedési hatósághoz az általa rendszeresített formanyomtatványon kell benyújtani. A kérelem az Ákr.-ben foglaltakon túl a tartalmazza
 
@@ -18,4 +18,7 @@ b) a felelős vezető személy nevét.
 
 (4) A karbantartás oktató szervezeti engedély iránti kérelem benyújtásával egyidejűleg a kérelmező igazolja a kérelem tárgyának megfelelő, e rendelet szerinti követelmények teljesítését.
 
-(5) A légiközlekedési hatóság a kiadott engedélyekről nyilvántartást vezet, amelyet a honlapján közzétesz. A nyilvántartás az engedélyben foglalt adatokat tartalmazza.
+(5)[^111]
+
+[^110]: A 106. § (2) bekezdését a 342/2025. (X. 31.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^111]: A 106. § (5) bekezdését a 342/2025. (X. 31.) Korm. rendelet 44. § c) pontja hatályon kívül helyezte.

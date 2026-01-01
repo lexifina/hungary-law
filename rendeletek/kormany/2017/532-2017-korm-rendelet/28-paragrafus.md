@@ -1,15 +1,7 @@
-28. § (1) A légiközlekedési hatóság évente legalább egyszer konzultációt tart a földi kiszolgálás tapasztalatairól az adott repülőtéren. A konzultációban részt vesz
+28. §[^82] (1) A repülőtér üzemben tartója minden menetrendi szezon kezdetét legalább 5 nappal megelőzően köteles a légitársaságokkal egyeztetett menetrendi tervet a légiközlekedési hatóság részére megküldeni.
 
-a) a légiközlekedési hatóság,
+(2) Az évi 2 millió fő utasforgalmat meghaladó és az automata poggyászosztályozó rendszerrel rendelkező repülőtér üzembentartója és a földi kiszolgálói engedéllyel rendelkező szervezet között létrejött poggyászkezelési tevékenységről szóló együttműködési megállapodást a repülőtér üzembentartója köteles a légiközlekedési hatóság részére jóváhagyásra benyújtani.
 
-b) a repülőtér üzemben tartója,
+(3) A földi kiszolgáló engedéllyel rendelkező szervezet minden menetrendi szezon kezdetét legalább 5 nappal megelőzően köteles megküldeni a légiközlekedési hatóság részére a légitársaságokkal a földi kiszolgálás tárgyában megkötött, valamint a tevékenység végzéséhez kapcsolódó alvállalkozói szerződéseket.
 
-c) a földi kiszolgálási tevékenységre érvényes engedéllyel rendelkezők,
-
-d) a Repülőtér-használók Bizottsága.
-
-(2) A légiközlekedési hatóság a konzultáció kezdeményezését Magyarország légiforgalmi tájékoztató kiadványában, az AIP-ben teszi közzé.
-
-(3) A konzultáció során a felek közösen értékelik a földi kiszolgálással kapcsolatos tapasztalatokat az adott repülőtéren, különös tekintettel a 26. § (1) bekezdés d) pontja szerinti esetben alkalmazott díjakra és a szolgáltatás minőségére.
-
-(4) Az (1) bekezdés a)–c) pontjában meghatározott esetekben a kiválasztást a légiközlekedési hatóság végzi. A légiközlekedési hatóság a kiválasztás során konzultál a repülőtér üzemben tartójával és a Repülőtér-használók Bizottságával.
+[^82]: A 28. § a 451/2025. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

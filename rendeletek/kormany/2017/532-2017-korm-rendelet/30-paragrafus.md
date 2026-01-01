@@ -8,7 +8,7 @@ c) vezeti a nemzeti minőségbiztosítási ellenőrökről szóló nyilvántart�
 
 d) bedolgozza a polgári légiközlekedés fenyegetettségi szintjének értékelései, a minőségbiztosítási ellenőrzések, a gyakorlatok, valamint a kivizsgálások eredményei alapján a Légiközlekedés Védelmi Bizottság döntésével jóváhagyott eseti intézkedéseket az éves minőségbiztosítási ellenőrzés programba, továbbá irányítja és koordinálja az eseti intézkedésekkel összefüggő feladatok végrehajtását,
 
-e)[^66]
+e)[^84]
 
 (2) A Minőségbiztosítási Program keretén belül a Védelmi Programban meghatározott elvek, célok és feladatok koordinált megvalósításának elősegítése érdekében a légiközlekedési hatóság a minőségbiztosítási tevékenységhez az együttműködő hatóságokkal kötött együttműködési megállapodás alapján bevonhat az együttműködő hatóság állományába tartozó, e rendelet szerinti képesítéssel rendelkező személyt.
 
@@ -20,4 +20,4 @@ e)[^66]
 
 (6) A minőségbiztosítási ellenőrzés jelentés és a csatolt minőségbiztosítási ellenőrzés eltérési lap alapján a légiközlekedési hatóság szükség esetén dönt a további intézkedésekről.
 
-[^66]: A 30. § (1) bekezdés e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 77. § c) pontja hatályon kívül helyezte.
+[^84]: A 30. § (1) bekezdés e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 77. § c) pontja hatályon kívül helyezte.
