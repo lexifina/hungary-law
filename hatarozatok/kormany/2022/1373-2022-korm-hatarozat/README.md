@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1373-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-07-27 | 2022-1373-30-22.1 | 1373/2022. (VII. 27.) Korm. határozat |
+| 2026-01-01 | 2022-1373-30-22.2 | 2011: CXCV. törvény |
