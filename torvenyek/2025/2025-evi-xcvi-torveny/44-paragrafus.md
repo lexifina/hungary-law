@@ -7,15 +7,3 @@ b) az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK 
 való megfelelést szolgálja.
 
 (2) Ez a törvény az interoperabilitási követelményekről, valamint a mérési és fogyasztási adatokhoz való hozzáférésre vonatkozó megkülönböztetésmentes és átlátható eljárásokról szóló, 2023. június 6-i (EU) 2023/1162 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
