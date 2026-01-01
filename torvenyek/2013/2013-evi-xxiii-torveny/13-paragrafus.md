@@ -8,9 +8,11 @@ c) a tároló társaságokban való tulajdonszerzésre és hiteleinek törleszt�
 
 d) a Szövetség működésére,
 
-e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködésre, valamint
+e) a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés, és az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendeletben meghatározott, a miniszteri rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentés elkészítésében, továbbá a magyarországi termékszabvány szerinti paraméterek vizsgálatában való közreműködésre,
 
-f) az Fbkt.-ban meghatározott feladatai teljesítésére
+f) a kijelölt készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához való hozzájárulásra, valamint
+
+g) az Fbkt.-ban meghatározott feladatai teljesítésére
 
 fordíthatja.
 

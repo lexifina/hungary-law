@@ -1,4 +1,4 @@
-33. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség egyéb feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli tagi hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
+33. § (1) A készletezéshez, a készletnöveléshez, a készenléti töltőállomások felszereléséhez és a felszerelések fenntartásához való hozzájárulásához, továbbá a Szövetség egyéb feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli tagi hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
 
 (2) A Szövetség e törvényben meghatározott feladatai ellátásához – a közgyűlés által jóváhagyott mértékig – hitelt is felvehet. Ezen hitelek kamatait a működés ráfordításai között kell elszámolni.
 

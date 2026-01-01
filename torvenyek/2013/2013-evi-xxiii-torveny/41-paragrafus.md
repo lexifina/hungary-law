@@ -2,9 +2,9 @@
 
 a) katonai célra hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára,
 
-b)
+b) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára,
 
-c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
+c) rendészeti célra 27101921 KN kódú kerozint hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára.
 
 (2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
 
