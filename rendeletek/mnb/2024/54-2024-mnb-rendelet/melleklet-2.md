@@ -42,6 +42,8 @@
 
 | 20 | E45 | A Magyar Államkincstár saját tulajdonában lévő, valamint a nála letétbe helyezett értékpapírok állománya tulajdonosi bontásban | Magyar Államkincstár (a továbbiakban: MÁK) | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 8. munkanap |
 
+| 20a[^3] | E46 | Belföldi (rezidens) magánszemélyek részére letétkezelt (rezidensek és nem rezidensek által kibocsátott) értékpapírok állománya | letétkezelési tevékenységet végző hitelintézet, befektetési vállalkozás, befektetési alapkezelő, az ezen típusú EGT-fióktelep, MÁK | féléves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+
 | 21 | E48 | A BÉT-es részvények kapitalizációja és forgalma, részvények tőzsdei be- és kivezetése | pénzügyi eszközök kereskedését lebonyolító tőzsde, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
 
 | 22 | E50 | Az állampapírok, az államadósság és az állami követelések felhalmozott és eredményszemléletű kamata | Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) | havi, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 20. nap |
@@ -58,7 +60,7 @@
 
 | 28 | E64 | Hitelintézetek és befektetési szolgáltatást végző szervezetek által kibocsátott, hitelviszonyt megtestesítő értékpapírok adatai, illetve a letétkezelési tevékenységet végző szervezetek tulajdonában lévő és az általuk letétkezelt, hitelviszonyt megtestesítő értékpapírokra vonatkozó ár-információk | bank, szakosított hitelintézet, letétkezelési tevékenységet végző szövetkezeti hitelintézet, befektetési vállalkozás és egyéb szervezet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 8. munkanap |
 
-| 29 | E65 | Napi jelentés repó és repótípusú tranzakciókról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő 2. munkanap 14 óra |
+| 29[^4] | E65 | Napi jelentés repó és repótípusú tranzakciókról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő 1. munkanap 14 óra |
 
 | 30 | KELERADF | Központi értéktári törzs- és tranzakciós adatok | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 13 óra |
 
@@ -112,9 +114,9 @@
 
 | 55 | K04 | Havi jelentés a mérlegen belüli bankközi ügyletek fennálló állományáról és kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
 
-| 56 | K05 | Napi jelentés a mérlegen belüli bankközi ügyletek állományáról és kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 12 óra |
+| 56[^5] | K05 | Napi jelentés a mérlegen belüli bankközi ügyletek állományáról és kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 10 óra |
 
-| 57 | K10 | Napi jelentés a nem bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 14 óra |
+| 57[^6] | K10 | Napi jelentés a nem bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 10 óra |
 
 | 58 | K12 | Napi jelentés a bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8 óra |
 
@@ -137,6 +139,8 @@
 | 67 | L73 | Havi jelentés a devizaegyensúly mutatóról | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank, jelzálog-hitelintézet kivételével a bank, jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 15. munkanap; a naptári negyedév utolsó hónapja tekintetében: első negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 12. nap; második – negyedik negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 11. nap; |
 
 | 68 | L74 | Negyedéves jelentés a bankközi finanszírozási mutatóról | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank, jelzálog-hitelintézet kivételével a bank, jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében: tárgyidőszakot követő második hónap 12. nap; második – negyedik negyedév tekintetében: tárgyidőszakot követő második hónap 11. nap; |
+
+| 68a[^7] | L75 | Negyedéves jelentés a lakó- és kereskedelmi ingatlannal fedezett hitelkockázati kitettségekről | összevont alapú felügyelet alá tartozó, hitelintézeti csoportot vezető hitelintézet, valamint – a harmadik országbeli hitelintézet fióktelepe, az Eximbank Zrt., a KELER Zrt. és az MFB Zrt. kivételével – az összevont alapú felügyelet alá nem tartozó hitelintézet | negyedéves | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében: a tárgyidőszakot követő második hónap 12. nap; második – negyedik negyedév tekintetében: a tárgyidőszakot követő második hónap 11. nap; |
 
 | 69 | M01 | A hitelintézetek statisztikai mérlege és eredménykimutatása | hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében előzetes: tárgyidőszakot követő hónap 11. munkanap; végleges: első negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 12. nap, második – negyedik negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 11. nap; |
 
@@ -338,4 +342,11 @@
 
 | 7 | Z07 | Anonimizált konszolidált biztosított betéti adatok | Országos Betétbiztosítási Alap | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 54/2024. (XII. 3.) MNB rendelethez
+2. melléklet az 54/2024. (XII. 3.) MNB rendelethez[^8]
+
+[^3]: Az 1. melléklet I. pontjában foglalt táblázat 20a. sorát a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja iktatta be.
+[^4]: Az 1. melléklet I. pontjában foglalt táblázat 29. sora a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet I. pontjában foglalt táblázat 56. sora a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet I. pontjában foglalt táblázat 57. sora a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet I. pontjában foglalt táblázat 68a. sorát a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja iktatta be.
+[^8]: A 2. melléklet a 41/2025. (XII. 4.) MNB rendelet 2. § b) pontjával megállapított szöveg.

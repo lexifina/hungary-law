@@ -1,4 +1,4 @@
-## 4X08718A.pdf
+## 5X09306M.pdf
 
 3. melléklet az 54/2024. (XII. 3.) MNB rendelethez
 
@@ -50,6 +50,9 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 9. Módszertani segédletek az egyes adatszolgáltatásokhoz; Példatárak
 
-10. A jelentő dealerek (a D23 és a D24 MNB azonosító kódú adatszolgáltatás teljesítésére kötelezettek) listája
+10.[^9]
 
-11. A D23–D25 MNB azonosító kódú adatszolgáltatás összeállításához a BIS által kiadott tájékoztató anyagok és módszertani segédletek
+11.[^10]
+
+[^9]: A 3. melléklet 10. pontját a 41/2025. (XII. 4.) MNB rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 3. melléklet 11. pontját a 41/2025. (XII. 4.) MNB rendelet 3. §-a hatályon kívül helyezte.
