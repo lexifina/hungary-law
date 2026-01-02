@@ -1,33 +1,3 @@
-## „6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+2. melléklet a 375/2025. (XI. 30.) Korm. rendelethez[^8]
 
-|  | A | B | C | D |
-
-| 1 | Sorszám | A behajtási tilalomra, a kötelező haladási irányra | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban |
-
-| 2 | 1. | A behajtás tilalmára | 13. § (1) bekezdés g), g/1., i), i/1. pont, 14. § (1) bekezdés n), z) pont | 47 000 |
-
-| 3 | 2. | A behajtás tilalmára | 14. § (1) bekezdés l), r) és 48. § (14)–(15) bekezdés | 100 000 |
-
-| 4 | 3. | A kötelező haladási irányra | 13. § (1) bekezdés a), a/1., b), c) pont, 14. § (1) bekezdés a), b), c) pont | 78 000 |
-
-| 5 | 4. | Korlátozott forgalmú övezetre (zóna) | 14. § (1) bekezdés z/2. pont | 100 000 |
-
-## ”
-
-2. melléklet a 375/2025. (XI. 30.) Korm. rendelethez
-
-„11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
-
-|  | A | B | C | D | E |
-
-| 1 | Sorszám | A behajtási tilalomra, a kötelező haladási irányra | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-| 2 | 1. | A behajtás tilalmára | 13. § (1) bekezdés g), g/1., i), i/1. pont, 14. § (1) bekezdés n), z) pont | 47 000 | járművezető vagy annak távollétében az üzemben tartó |
-
-| 3 | 2. | A behajtás tilalmára | 14. § (1) bekezdés l), r) és 48. § (14) bekezdés | 100 000 | járművezető vagy annak távollétében az üzembentartó |
-
-| 4 | 3. | A kötelező haladási irányra | 13. § (1) bekezdés a), a/1., b), c) pont, 14. § (1) bekezdés a), b), c) pont | 78 000 | járművezető vagy annak távollétében az üzemben tartó |
-
-| 5 | 4. | Korlátozott forgalmú övezetre (zóna) | 14. § (1) bekezdés z/2. pont | 100 000 | járművezető vagy annak távollétében az üzemben tartó |
-
-”
+[^8]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
