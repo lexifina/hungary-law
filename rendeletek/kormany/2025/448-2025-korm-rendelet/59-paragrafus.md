@@ -1,3 +1,3 @@
-59. §[^41]
+59. §[^43]
 
-[^41]: Az 59. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^43]: Az 59. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

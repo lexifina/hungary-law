@@ -1,3 +1,3 @@
-70. §[^53]
+70. §[^55]
 
-[^53]: A 70. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^55]: A 70. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

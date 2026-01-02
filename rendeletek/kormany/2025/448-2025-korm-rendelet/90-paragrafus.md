@@ -1,3 +1,3 @@
-90. §[^73]
+90. §[^75]
 
-[^73]: A 90. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^75]: A 90. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

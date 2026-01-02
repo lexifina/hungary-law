@@ -1,3 +1,3 @@
-84. §[^67]
+84. §[^69]
 
-[^67]: A 84. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^69]: A 84. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

@@ -1,3 +1,3 @@
-57. §[^39]
+57. §[^41]
 
-[^39]: Az 57. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^41]: Az 57. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

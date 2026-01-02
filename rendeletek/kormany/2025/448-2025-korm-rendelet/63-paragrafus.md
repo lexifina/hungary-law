@@ -1,3 +1,3 @@
-63. §[^45]
+63. §[^47]
 
-[^45]: A 63. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^47]: A 63. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

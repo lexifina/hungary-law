@@ -1,3 +1,3 @@
-87. §[^70]
+87. §[^72]
 
-[^70]: A 87. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^72]: A 87. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

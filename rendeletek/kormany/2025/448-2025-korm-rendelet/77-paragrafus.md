@@ -1,3 +1,3 @@
-77. §[^60]
+77. §[^62]
 
-[^60]: A 77. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^62]: A 77. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

@@ -1,3 +1,3 @@
-85. §[^68]
+85. §[^70]
 
-[^68]: A 85. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^70]: A 85. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

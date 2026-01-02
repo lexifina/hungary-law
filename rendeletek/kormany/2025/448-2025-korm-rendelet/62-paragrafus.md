@@ -1,3 +1,3 @@
-62. §[^44]
+62. §[^46]
 
-[^44]: A 62. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^46]: A 62. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

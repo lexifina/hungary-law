@@ -1,3 +1,3 @@
-2. melléklet a 448/2025. (XII. 29.) Korm. rendelethez[^131]
+2. melléklet a 448/2025. (XII. 29.) Korm. rendelethez[^134]
 
-[^131]: A 2. melléklet a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^134]: A 2. melléklet a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

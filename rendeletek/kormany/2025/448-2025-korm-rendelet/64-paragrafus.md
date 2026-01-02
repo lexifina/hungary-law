@@ -1,3 +1,3 @@
-64. §[^46]
+64. §[^48]
 
-[^46]: A 64. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^48]: A 64. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.

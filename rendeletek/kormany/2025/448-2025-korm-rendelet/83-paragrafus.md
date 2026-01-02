@@ -1,3 +1,3 @@
-83. §[^66]
+83. §[^68]
 
-[^66]: A 83. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^68]: A 83. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
