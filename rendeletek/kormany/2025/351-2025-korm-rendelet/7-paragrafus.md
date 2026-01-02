@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 217/1997. (XII. 1.) Korm. rendelet 37. §-a.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

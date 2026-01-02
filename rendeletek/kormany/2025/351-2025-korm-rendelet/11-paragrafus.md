@@ -1,1 +1,3 @@
-11. § Hatályát veszti a 43/1999. (III. 3.) Korm. rendelet 19. § (3) és (4) bekezdése.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

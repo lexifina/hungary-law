@@ -28,6 +28,6 @@
 
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet [a továbbiakban: 217/1997. (XII. 1.) Korm. rendelet] 31/F. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(2) A biztosított a segély megállapításának időpontjától számított egy éven belül ismételten abban az esetben részesíthető segélyben, amennyiben az egészségi állapotával összefüggésben különös méltánylást érdemlő körülmény következett be.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

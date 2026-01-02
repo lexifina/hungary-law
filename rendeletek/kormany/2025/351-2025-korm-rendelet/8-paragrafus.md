@@ -1,5 +1,5 @@
 ## 2. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-8. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet [a továbbiakban: 43/1999. (III. 3.) Korm. rendelet] 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(2) A háziorvosi, házi gyermekorvosi ügyeleti feladatokat ellátó szolgáltató havonta a Háziorvosi, háziorvosi ügyeleti ellátás jogcímcsoporton belül az Ügyeleti szolgálat előirányzat egy havi összegének megfelelő díjra jogosult.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
