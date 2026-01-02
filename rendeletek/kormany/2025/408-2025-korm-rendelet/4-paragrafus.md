@@ -1,3 +1,3 @@
-4. § A 354/2009. Korm. rendelet a következő 3/A. §-sal egészül ki:
+4. §[^4]
 
-„3/A. § Az engedély kiadásának feltétele a 7/A. §-ban meghatározott jogosultsági vizsga sikeres teljesítése.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § A 354/2009. Korm. rendelet a következő 8/B. §-sal egészül ki:
+6. §[^6]
 
-„8/B. § A 2026. január 1-je előtt kiadott szakértői engedélyekben szereplő szakterületek megfeleltetését a 2. melléklet tartalmazza.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

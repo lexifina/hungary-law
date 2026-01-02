@@ -24,6 +24,6 @@
 
 ## 1. A munkabiztonsági szakértői tevékenységről szóló 354/2009. (XII. 30.) Korm. rendelet módosítása
 
-1. § A munkabiztonsági szakértői tevékenységről szóló 354/2009. (XII. 30.) Korm. rendelet (a továbbiakban: 354/2009. Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„1. § A munkabiztonsági szakértői tevékenység folytatását a Magyar Mérnöki Kamara (a továbbiakban: MMK) területi mérnöki kamarái (a továbbiakban: engedélyező szerv) engedélyezik. A munkabiztonsági szakértői szakterületeket az 1. melléklet tartalmazza.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

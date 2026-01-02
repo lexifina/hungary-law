@@ -1,1 +1,3 @@
-11. § A 100/2021. Korm. rendelet 38. § (3) bekezdés c) pontjában a „60” szövegrész helyébe a „30” szöveg lép.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
