@@ -2,6 +2,6 @@
 
 ## [2] A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 12. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 4/C. §-a a következő (10) bekezdéssel egészül ki:
+1. §[^2]
 
-„(10) A jármű-honosítási eljárásban kiadott „Műszaki adatlap” a jármű forgalomba helyezéséhez az azon feltüntetett Műszaki érvényesség időbeni hatályának végéig használható fel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
