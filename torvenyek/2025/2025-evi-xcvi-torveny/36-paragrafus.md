@@ -1,5 +1,3 @@
 ## 4. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-36. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c), (3e) és (3g)–(3h) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított szolgalom vagy más használati jog, a villamos energiáról szóló törvény szerinti termelői vezeték, magánvezeték és közvetlen vezeték vezetékjoga és a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.”
+### 36. §
