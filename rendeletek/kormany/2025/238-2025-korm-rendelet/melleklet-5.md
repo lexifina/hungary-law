@@ -1,3 +1,3 @@
-5. melléklet a 238/2025. (VII. 31.) Korm. rendelethez[^21]
+5. melléklet a 238/2025. (VII. 31.) Korm. rendelethez[^20]
 
-[^21]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
