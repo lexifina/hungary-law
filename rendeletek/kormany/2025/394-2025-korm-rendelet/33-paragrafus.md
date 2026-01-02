@@ -1,1 +1,3 @@
-33. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 30/A. § e) pontjában a „május 31-e” szövegrész helyébe a „május 15-e” szöveg lép.
+33. §[^48]
+
+[^48]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

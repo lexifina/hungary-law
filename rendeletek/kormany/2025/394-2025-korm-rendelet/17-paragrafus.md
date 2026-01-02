@@ -1,27 +1,29 @@
 17. § Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. 23. § (5) bekezdése,
+1.[^18]
 
-2.[^36]
+2.[^19]
 
-3.[^37]
+3.[^20]
 
-4.[^38]
+4.[^21]
 
-5.[^39]
+5.[^22]
 
-6.[^40]
+6.[^23]
 
-7. 167/A. § (4) bekezdés 8. pontjában a „KSH kódját” szövegrész,
+7.[^24]
 
-8.[^41]
+8.[^25]
 
-9.[^42]
+9.[^26]
 
-[^36]: A 17. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 17. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 17. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 17. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 17. § 6. pontja a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^41]: A 17. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 17. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § 6. pontja a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^24]: A 17. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 17. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

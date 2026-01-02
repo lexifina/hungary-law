@@ -1,22 +1,25 @@
-32. § (1)[^57]
+32. § (1)[^41]
 
 (2) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
 
-1. 1. melléklete a 4. melléklet,
+1.[^42]
 
-2.[^58]
+2.[^43]
 
-3. 14. melléklete a 6. melléklet,
+3.[^44]
 
-4. 15. melléklete a 7. melléklet,
+4.[^45]
 
-5.[^59]
+5.[^46]
 
-6.[^60]
+6.[^47]
 
 szerint módosul.
 
-[^57]: A 32. § (1) bekezdése a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^58]: A 32. § (2) bekezdés 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^59]: A 32. § (2) bekezdés 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^60]: A 32. § (2) bekezdés 6. pontja a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^41]: A 32. § (1) bekezdése a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^42]: A 32. § (2) bekezdés 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 32. § (2) bekezdés 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 32. § (2) bekezdés 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 32. § (2) bekezdés 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 32. § (2) bekezdés 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 32. § (2) bekezdés 6. pontja a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
