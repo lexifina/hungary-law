@@ -26,7 +26,7 @@
 
 10. a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) szerinti kriptoeszköz átváltást validáló szolgáltatók (a továbbiakban: kriptoeszköz átváltást validáló szolgáltatók) felügyeletével,
 
-11. a kereskedelemről szóló 2005. évi CXLIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet – ideértve a bizományosi, a közvetítői, az őrzési, tárolási, szállítási és egyéb kapcsolódó tevékenységet – végző személyek és szervezetek engedélyezésével és ellenőrzésével
+11. a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) szerinti befektetési arannyal folytatott tevékenységet végző személyek és szervezetek engedélyezésével és ellenőrzésével
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
