@@ -1,3 +1,0 @@
-4. melléklet az 1099/2022. (III. 2.) Korm. határozathoz[^11]
-
-[^11]: A 4. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
