@@ -6,6 +6,6 @@
 
 ## [4] A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Vhr.) 11. § (14) bekezdése a következő c) ponttal egészül ki:
+1. §[^1]
 
-[A korai fejlesztést és gondozást, illetve fejlesztő nevelést-oktatást nyújtó intézmény – ideértve a sajátos nevelési igényű gyermekek ellátását biztosító gyógypedagógiai intézményt is – általi szolgáltatás igénybevételével kapcsolatos utazási költségtérítési támogatás iránti kérelem elbírálása során a (15)–(18) bekezdés szerint kell eljárni, azzal, hogy alkalmazni kell az (1)–(4) és (11) bekezdést a következő eltérésekkel:]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
