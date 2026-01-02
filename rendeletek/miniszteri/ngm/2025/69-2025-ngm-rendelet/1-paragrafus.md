@@ -4,4 +4,6 @@
 
 ## [3] Az állami vagyonról szóló 2007. évi CVI. törvény 71. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Hatályát veszti az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2022. (V. 26.) GFM rendelet 2. melléklet VIII. pontjában foglalt táblázat.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
