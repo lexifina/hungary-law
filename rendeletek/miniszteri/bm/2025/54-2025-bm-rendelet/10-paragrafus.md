@@ -1,5 +1,3 @@
-## „d) aki próbaidejét tölti.”
+10. §[^11]
 
-10. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 24. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A hivatásos állomány tagja részére próbaidő alatt illetményelőleg nem nyújtható.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

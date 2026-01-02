@@ -1,3 +1,3 @@
-3. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 30. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(A kérelemnek tartalmaznia kell:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

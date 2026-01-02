@@ -10,10 +10,6 @@
 
 ## 1. Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet módosítása
 
-1. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 12. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) A Hszt. 330. § (4) bekezdése szerinti átrendelés esetén az (1) bekezdés szerinti állományparancs vagy írásbeli utasítás
-
-a) kiadására akkor kerülhet sor, ha a képzést folytató rendvédelmi szerv vagy rendészeti felsőoktatást folytató felsőoktatási intézmény a hivatásos állomány tagjának képzésre vagy oktatásra történő jelentkezését dokumentáltan elfogadta,
-
-b) azt is rögzíti, hogy az átrendelt illetményét és egyéb járandóságait az Országgyűlési Őrség folyósítja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

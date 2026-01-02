@@ -1,7 +1,3 @@
-11. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet
+11. §[^12]
 
-a) 24/A. § (1) bekezdésében a „rendelkezik, továbbá” szövegrész helyébe a „rendelkezik, és nem áll próbaidő alatt, továbbá” szöveg,
-
-b) 24/C. § (2) bekezdésében a „rendelkezik.” szövegrész helyébe a „rendelkezik, és nem áll próbaidő alatt.” szöveg
-
-lép.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

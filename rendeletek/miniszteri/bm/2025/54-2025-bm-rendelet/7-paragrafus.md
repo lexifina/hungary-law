@@ -1,1 +1,3 @@
-7. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 12. § (1) bekezdés nyitó szövegrészében a „60. § (3) bekezdése vagy 61. § (1) bekezdése” szövegrész helyébe a „60. § (3) bekezdése, 61. § (1) bekezdése vagy 330. § (4) bekezdése” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
