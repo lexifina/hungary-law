@@ -50,10 +50,6 @@
 
 ## 1. A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosítása
 
-1. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet
+1. §[^2]
 
-a) 29/A. §-ában az „az Építésügyi Minőségellenőrző Innovációs Közhasznú Társaságot” szövegrész helyébe az „a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézetet” szöveg,
-
-b) 35. § (1) bekezdésében az „az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.” szövegrész helyébe az „a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

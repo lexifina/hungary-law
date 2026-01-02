@@ -1,3 +1,5 @@
 ## 8. Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet módosítása
 
-8. § Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 29. § (2) bekezdésében az „Az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „A Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 3. A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet módosítása
 
-3. § A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet 32/A. § (5) bekezdés g) pontjában a „Közlekedéstudományi Intézet” szövegrész helyébe a „Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

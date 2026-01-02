@@ -1,3 +1,5 @@
 ## 9. A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet módosítása
 
-9. § A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet 5/E. § (3) bekezdésében az „az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

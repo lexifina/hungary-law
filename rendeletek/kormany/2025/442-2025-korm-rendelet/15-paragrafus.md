@@ -1,3 +1,5 @@
 ## 15. A vasúti képzési módszertani központ kijelöléséről szóló 295/2020. (VI. 22.) Korm. rendelet módosítása
 
-15. § A vasúti képzési módszertani központ kijelöléséről szóló 295/2020. (VI. 22.) Korm. rendelet 1. §-ában a „Közlekedéstudományi Intézetet” szövegrész helyébe a „Közlekedéstudományi és Építésügyi Minőségellenőrző Intézetet” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
