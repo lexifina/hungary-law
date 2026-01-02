@@ -6,4 +6,4 @@
 
 2. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^74]
 
-[^74]: A 2. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés a) pontjával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^74]: A 2. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés a) pontjával megállapított, a 421/2025. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.

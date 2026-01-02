@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-348-20-
 | 2023-01-01 | 2006-348-20-22.15 | 136/2022. (IV. 7.) Korm. rendelet |
 | 2024-07-01 | 2006-348-20-22.16 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2025-07-01 | 2006-348-20-22.17 | 155/2025. (VI. 23.) Korm. rendelet |
+| 2026-01-02 | 2006-348-20-22.18 | 441/2015. (XII. 28.) Korm. rendelet |

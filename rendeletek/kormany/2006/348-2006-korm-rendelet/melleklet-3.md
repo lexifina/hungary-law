@@ -4,7 +4,7 @@
 
 ## A minisztérium évente legalább 2 vizsganapot ír ki, ezek időpontját és a vizsga díját az állami természetvédelem hivatalos honlapján, legalább 30 nappal a vizsgát megelőzően közzéteszi.
 
-## A vizsgadíj összegét a minisztérium Magyar Államkincstárnál vezetett 10032000-01494549-00000000 számú számlájára kell befizetni. A vizsga magyar nyelven zajlik.
+## A vizsgadíj összegét a minisztérium Magyar Államkincstárnál vezetett 10032000-01494549-00000000 számú számlájára kell befizetni.
 
 ## A vizsga elméleti és gyakorlati részből áll.
 
