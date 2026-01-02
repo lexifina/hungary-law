@@ -1,3 +1,3 @@
-29. § Az Mr. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+29. §[^30]
 
-„(2) Az átalakítási támogatás mértéke az átalakítás költsége, de legfeljebb 150 000 forint.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
