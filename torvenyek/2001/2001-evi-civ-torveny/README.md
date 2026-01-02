@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2023-09-01 | 2023. évi LIII. törvény | 2001-104-00-00.20 |
 | 2025-03-01 | 2024. évi LXIV. törvény | 2001-104-00-00.21 |
 | 2026-01-01 | 2025. évi XLIX. törvény | 2001-104-00-00.22 |
+| 2026-01-02 | 2025. évi CXVIII. törvény | 2001-104-00-00.23 |

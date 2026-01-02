@@ -4,7 +4,7 @@
 
 (2) Az eljárás alá vont jogi személlyel szemben kiszabható pénzbírság legalacsonyabb mértéke egymillió forint, legnagyobb mértéke
 
-a) három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 5%-a,
+a) három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény, valamint a nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdés, 327/A. § (1) bekezdés, 327/B. § (1) bekezdés] esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 5%-a,
 
 b) három évig terjedő szabadságvesztéssel büntetendő bűncselekmény esetén az eljárás alá vont jogi személynek a bűncselekmény elkövetését megelőző évben elért forgalmának 3%-a.
 

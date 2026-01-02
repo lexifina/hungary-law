@@ -12,11 +12,11 @@ c) a bűncselekmény káros következményeit más módon helyreállítja, illet
 
 d) megfelelő intézkedéseket vezet be annak érdekében, hogy a jogi személy vezetője, tagja vagy alkalmazottja ne kövessen el újabb, a 2. § (1) bekezdés a) és b) pontjában meghatározott bűncselekményt, vagy a 2. § (1) bekezdés c) pontjában meghatározott esetekre vonatkozóan a jogi személy vezetője fellépjen a más személy által elkövetett bűncselekménnyel szemben.
 
-(4) A nyomozó hatóság vagy az ügyészség (1), illetve (2) bekezdés szerinti intézkedéséről értesíteni kell az eljárás alá vont jogi személy törvényes képviselőjét és az eljárás alá vont jogi személy védőjét, akik az értesítéstől számított nyolc napon belül panaszt terjeszthetnek elő az intézkedést elrendelő nyomozó hatóságnál vagy ügyészségnél.
+(4) A nyomozó hatóság vagy az ügyészség (1) bekezdés szerinti intézkedéséről értesíteni kell az eljárás alá vont jogi személy törvényes képviselőjét és az eljárás alá vont jogi személy védőjét, akik az értesítéstől számított nyolc napon belül panaszt terjeszthetnek elő az intézkedést elrendelő nyomozó hatóságnál vagy ügyészségnél.
 
-(5) A nyomozó hatóság vagy az ügyészség az (1) vagy (2) bekezdés alapján értesített bíróságot vagy szervet értesti arról, hogy az (1), illetve a (2) bekezdés szerinti értesítés alapján tett intézkedést meg kell szüntetni, ha
+(5) A nyomozó hatóság vagy az ügyészség az (1) bekezdés alapján értesített bíróságot vagy szervet értesti arról, hogy az (1) bekezdés szerinti értesítés alapján tett intézkedést meg kell szüntetni, ha
 
-a) az (1), illetve a (2) bekezdés szerinti értesítés feltételei már nem állnak fenn,
+a) az (1) bekezdés szerinti értesítés feltételei már nem állnak fenn,
 
 b) az eljárás alá vont jogi személlyel szemben az eljárást megszüntették.
 

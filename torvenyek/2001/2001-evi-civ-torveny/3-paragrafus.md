@@ -10,7 +10,7 @@ c) pénzbírság.
 
 (2) Az (1) bekezdés szerinti intézkedések alkalmazásának nem akadálya, ha az elkövető halála, kegyelem, kóros elmeállapot vagy tevékeny megbánás miatt nem büntethető, vagy vele szemben törvényben meghatározott egyéb büntethetőséget megszüntető ok állapítható meg, vagy az elkövetőt megrovásban részesítették.
 
-(3) Az eljárás alá vont jogi személlyel szemben az intézkedés alkalmazásának célja a társadalom védelme érdekében annak megelőzése, hogy a jogi személy érintettségével újabb, a 2. §-ban meghatározott bűncselekményt kövessenek el.
+(3) Az eljárás alá vont jogi személlyel szemben az intézkedés alkalmazásának célja a társadalom védelme érdekében annak megelőzése, hogy az eljárás alá vont jogi személy vagy más jogi személy érintettségével újabb, a 2. §-ban meghatározott bűncselekményt kövessenek el.
 
 (4) Az eljárás alá vont jogi személlyel szemben alkalmazható intézkedést úgy kell megállapítani, hogy az igazodjon
 
