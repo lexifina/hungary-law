@@ -8,4 +8,6 @@
 
 ## [5] A Kormány a szakképzésről szóló 2019. évi LXXX. törvény 123. § (2) bekezdés 35. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 123/B. §-ában a „705 000” szövegrész helyébe a „775 500” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
