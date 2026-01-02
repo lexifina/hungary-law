@@ -1,3 +1,5 @@
 ## 2. A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosításáról szóló 24/2025. (XI. 6.) KIM rendelet módosítása
 
-5. § A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosításáról szóló 24/2025. (XI. 6.) KIM rendelet (a továbbiakban: Mód.rendelet1.) 18. § (2) bekezdésében a „2. § (2) bekezdése, a 15. § (3) és (4) bekezdése, valamint a 3. és 4. melléklet” szövegrész helyébe a „15. § (3) és (4) bekezdése, valamint a 4. melléklet” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

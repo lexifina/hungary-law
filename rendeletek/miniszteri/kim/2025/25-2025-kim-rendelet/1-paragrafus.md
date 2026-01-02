@@ -4,6 +4,6 @@
 
 ## 1. A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

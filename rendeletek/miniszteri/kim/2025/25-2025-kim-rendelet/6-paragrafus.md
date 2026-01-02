@@ -1,5 +1,3 @@
-6. § Nem lép hatályba a Mód.rendelet1.
+6. §[^7]
 
-a) 2. § (2) bekezdése,
-
-b) 3. melléklete.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
