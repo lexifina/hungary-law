@@ -1,1 +1,3 @@
-16. § Hatályát veszti az egyes köznevelési tárgyú miniszteri rendeletek módosításáról és a Pedagógus-továbbképzési Akkreditációs Testületről szóló 46/1999. (XII. 13.) OM rendelet hatályon kívül helyezéséről szóló 37/2021. (VIII. 31.) EMMI rendelet 39. § (3) bekezdése.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-17. § Nem lép hatályba az egyes köznevelési tárgyú miniszteri rendeletek módosításáról és a Pedagógus-továbbképzési Akkreditációs Testületről szóló 46/1999. (XII. 13.) OM rendelet hatályon kívül helyezéséről szóló 37/2021. (VIII. 31.) EMMI rendelet 24. § (2) bekezdése.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
