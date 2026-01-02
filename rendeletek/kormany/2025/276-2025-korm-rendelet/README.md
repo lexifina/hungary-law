@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-276-20-
 | --- | --- | --- |
 | 2025-09-06 | 2025-276-20-22.1 | 276/2025. (VIII. 21.) Korm. rendelet |
 | 2026-01-01 | 2025-276-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-01-02 | 2025-276-20-22.3 | 2010. évi CXXX. törvény |
