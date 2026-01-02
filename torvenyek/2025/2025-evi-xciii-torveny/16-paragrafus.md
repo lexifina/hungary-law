@@ -2,21 +2,9 @@
 
 16. § (1)
 
-(2) A Kertv. 6. § (2) bekezdés helyébe a következő rendelkezés lép:
+(2)
 
-„(2) A kereskedő köteles
-
-a) az üzlet nyitvatartási idejét
-
-aa) az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve kormányrendeletben meghatározott esetekben az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni, vagy
-
-ab) befektetési arany forgalmazása esetében a 9/A. § (1) bekezdése szerinti engedély iránti kérelemben, illetve az SZTFH elnöke rendeletében meghatározott esetekben az abban bekövetkező változást az azt megelőző nyolc napon belül az SZTFH-nak bejelenteni, és
-
-b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.”
-
-(3) A Kertv. 6. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A kereskedő az üzlet nyitvatartási idejének megváltozását a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben meghatározott írásbeli kapcsolattartás mellett a kereskedelmi hatóságnak elektronikus levelezési címén keresztül is bejelentheti.”
+(3)
 
 (4)
 
@@ -30,7 +18,13 @@ b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokr�
 
 (9)
 
-(10)
+(10) A Kertv. 9/C. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép, és az (1) bekezdés a következő e) ponttal egészül ki:
+
+(Az SZTFH az engedélyesekről nyilvántartást vezet az SZTFH elnökének rendeletében foglalt részletes szabályok szerint, amely a következőket tartalmazza:)
+
+## „d) az SZTFH elnökének a befektetési arannyal folytatott kereskedelmi tevékenység folytatásának részletes feltételeiről szóló rendeletében meghatározott feltételek teljesülését alátámasztó dokumentumok,
+
+## e) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.”
 
 (11)
 
