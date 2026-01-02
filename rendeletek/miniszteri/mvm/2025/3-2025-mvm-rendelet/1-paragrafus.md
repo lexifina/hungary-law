@@ -2,6 +2,6 @@
 
 ## [2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 11. alpontjában meghatározott feladatkörömben eljárva − a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben − a következőket rendelem el:
 
-1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (34) bekezdéssel egészül ki:
+1. §[^2]
 
-„(34) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2026. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 3/2025. (XII. 30.) MvM rendelettel (a továbbiakban: Módr32.) megállapított 1. mellékletében foglalt táblázat 8. és 9. sorát, módosított 2/B. § 1–3. és 5. pontját, 1. melléklet címét, 5. § (3) bekezdés e) pontját a Módr32. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
