@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-16-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-01-01 | 2025-16-20-5Z.1 | 16/2025. (X. 2.) MEKH rendelet |
+| 2026-01-02 | 2025-16-20-5Z.2 | 2010. évi CXXX. törvény |

@@ -1,1 +1,3 @@
-2. § A 2/2023. (IV. 6.) MEKH rendelet 4. § (3) és (4) bekezdésében az „A Ht.” szövegrész helyébe az „A hulladéklerakó üzemeltetője a Ht.” szöveg, valamint a „kell alkalmazni” szövegrész helyébe az „alkalmazza” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
