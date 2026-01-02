@@ -1,1 +1,3 @@
-27. § A 20/2022. (I. 31.) SZTFH rendelet a 3. melléklet szerinti 6. melléklettel egészül ki.
+27. §[^29]
+
+[^29]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

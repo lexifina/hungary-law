@@ -1,5 +1,5 @@
 ## 8. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet módosítása
 
-14. § A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet [a továbbiakban: 20/2022. (I. 31.) SZTFH rendelet] 1. §-a a következő 11. ponttal egészül ki:
+14. §[^16]
 
-(E rendelet alkalmazásában)
+[^16]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

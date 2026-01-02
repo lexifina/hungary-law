@@ -1,5 +1,5 @@
-## 10.[^5]
+## 10.[^34]
 
 32. §
 
-[^5]: A 10. alcím a 34. § (2) bekezdése alapján 2026. január 22-én lép hatályba.
+[^34]: A 10. alcím a 34. § (2) bekezdése alapján 2026. január 22-én lép hatályba.

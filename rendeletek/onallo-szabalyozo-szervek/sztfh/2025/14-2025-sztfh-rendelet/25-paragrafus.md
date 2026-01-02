@@ -1,3 +1,3 @@
-25. § A 20/2022. (I. 31.) SZTFH rendelet 38. §-a a következő (12a) bekezdéssel egészül ki:
+25. §[^27]
 
-„(12a) Az üzemzavar-elhárítás megkezdése előtt gondoskodni kell a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról.”
+[^27]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

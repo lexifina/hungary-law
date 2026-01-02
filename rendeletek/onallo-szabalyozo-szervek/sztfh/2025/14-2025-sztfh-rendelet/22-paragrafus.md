@@ -1,3 +1,3 @@
-22. § A 20/2022. (I. 31.) SZTFH rendelet 26. § (2) bekezdése a következő e) ponttal egészül ki, a bekezdés f) és g) pontja helyébe a következő rendelkezések lépnek, és a bekezdés a következő h) ponttal egészül ki:
+22. §[^24]
 
-(A bányatelek megállapításáról szóló határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza:)
+[^24]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

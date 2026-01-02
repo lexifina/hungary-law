@@ -1,1 +1,3 @@
-4. § Hatályát veszti az 5/2021. (X. 21.) SZTFH rendelet 1. § (1c) bekezdésében az „– az (1b) bekezdés szerinti eset kivételével –” szövegrész.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

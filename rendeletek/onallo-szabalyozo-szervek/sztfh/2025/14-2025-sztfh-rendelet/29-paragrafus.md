@@ -1,7 +1,3 @@
-29. § Hatályát veszti a 20/2022. (I. 31.) SZTFH rendelet
+29. §[^31]
 
-a) 21. § (2) bekezdése,
-
-b) 25. § (3) bekezdés f) pontja,
-
-c) 30. § (2) bekezdés g) pontjában a „rétegsavazást,” szövegrész.
+[^31]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

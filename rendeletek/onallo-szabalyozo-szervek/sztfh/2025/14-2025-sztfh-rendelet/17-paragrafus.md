@@ -1,13 +1,3 @@
-17. § A 20/2022. (I. 31.) SZTFH rendelet 8. §-a a következő (11) bekezdéssel egészül ki:
+17. §[^19]
 
-„(11) A kutatási terület visszaadásának elfogadására irányuló kérelem tartalmazza
-
-a) a visszaadandó kutatási terület lehatárolására vonatkozó adatokat, ha nem a teljes kutatási terület visszaadásának elfogadását kérelmezik,
-
-b) a bányakárok megtérítésének igazolását,
-
-c) a tájrendezési kötelezettség teljesítésének igazolását,
-
-d) a környezetvédelmi kötelezettségek teljesítésének igazolását, valamint
-
-e) a földvédelmi és talajvédelmi kötelezettségek teljesítésének igazolását.”
+[^19]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

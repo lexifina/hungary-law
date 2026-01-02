@@ -1,3 +1,3 @@
-16. § A 20/2022. (I. 31.) SZTFH rendelet 7. §-a a következő (4) bekezdéssel egészül ki:
+16. §[^18]
 
-„(4) A bányafelügyelet a kutatás során alkalmazott rétegrepesztést a 30. § (4) bekezdésében foglalt feltételek teljesülése esetén engedélyezi.”
+[^18]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
