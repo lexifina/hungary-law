@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-330-20-
 | 2025-11-01 | 2025-330-20-22.1 | 330/2025. (X. 30.) Korm. rendelet |
 | 2025-11-02 | 2025-330-20-22.2 | 2010. évi CXXX. törvény |
 | 2026-01-01 | 2025-330-20-22.3 | 427/2025. (XII. 23.) Korm. rendelet |
+| 2026-01-02 | 2025-330-20-22.4 | 2010. évi CXXX. törvény |
