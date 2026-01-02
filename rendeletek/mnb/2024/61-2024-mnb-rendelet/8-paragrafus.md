@@ -1,1 +1,3 @@
-8. § A Rendelet 4. melléklete helyébe a 2. melléklet lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

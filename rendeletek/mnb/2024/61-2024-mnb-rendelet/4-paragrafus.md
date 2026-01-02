@@ -1,3 +1,3 @@
-4. § A Rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A Bit. 153. § (6) bekezdése szerinti közzététel során a biztosító a modell TKM értékét a termék bevezetésével egy időben tünteti fel az internetes honlapján. A biztosító az egyedi TKM értékét a szerződéskötés előtti tájékoztatás során, bizonyítható és azonosítható módon közli az ügyféllel. A közlésben a biztosító kitér arra, hogy a biztosítottra vonatkozóan milyen egyedi paramétereket használt az egyedi TKM értékének számítása során. Az ügyfelek részére az egyedi TKM értékét a kezdetben választott eszközalap-kombinációra, az egyes eszközalapokhoz tartozó TKM értékek súlyozott átlagaként kiszámolva mutatja be. A számítás során felhasznált egyedi paraméterek értékét, valamint a számítás eredményét a biztosító átadja az ügyfél részére, mielőtt az ügyfelet a biztosítási szerződéssel kapcsolatban ajánlati kötöttség terheli. Az egyedi TKM értékét a biztosító az ajánlati dokumentáción feltünteti.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
