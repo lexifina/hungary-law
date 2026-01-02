@@ -1,5 +1,3 @@
-6. § Az R. 45. alcíme a következő 66/B. §-sal egészül ki:
+6. §[^7]
 
-„66/B. § (1) E rendeletnek a hivatásos és szerződéses állományú katonák, a honvédelmi alkalmazottak, a honvédelmi szervezeteknél foglalkoztatott munkavállalók, valamint a honvédelmi tárca gondoskodási körébe tartozók részére nyújtható egyes juttatásokról szóló 21/2024. (IX. 30.) HM rendelet és a külföldi szolgálatról szóló 23/2024. (IX. 30.) HM rendelet egyes juttatási kérdéseinek módosításáról szóló 15/2025. (XII. 19.) HM rendelettel (a továbbiakban: Módr2.) megállapított 7. § (1) és (4) bekezdését első alkalommal a Módr2. hatálybalépését követően kezdeményezett, szerződéshosszabbításra irányuló személyügyi eljárások során kell alkalmazni.
-
-(2) E rendelet hatálybalépése és a Módr2. hatálybalépése között kifizetett szerződéshosszabbítási díj összegét a szerződéshosszabbítást megelőző időszakra vállalt szolgálati idő lejártát követően felül kell vizsgálni. Ha a 7. § (4) bekezdése Módr2. hatálybalépését megelőző napon érvényes rendelkezései alapján kifizetett szerződéshosszabbítási díj összege alacsonyabb, mint a 7. § (4) bekezdésének Módr2. hatálybalépését követően érvényes rendelkezései szerint kiszámított szerződéshosszabbítási díj összege, a különbözetet a szerződéshosszabbítást megelőző időszakra vállalt szolgálati idő lejártát követő hónap végéig ki kell fizetni a legénységi állomány tagja részére.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

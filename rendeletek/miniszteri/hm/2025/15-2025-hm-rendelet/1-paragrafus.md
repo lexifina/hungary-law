@@ -18,6 +18,6 @@
 
 ## 1. A hivatásos és szerződéses állományú katonák, a honvédelmi alkalmazottak, a honvédelmi szervezeteknél foglalkoztatott munkavállalók, valamint a honvédelmi tárca gondoskodási körébe tartozók részére nyújtható egyes juttatásokról szóló 21/2024. (IX. 30.) HM rendelet módosítása
 
-1. § A hivatásos és szerződéses állományú katonák, a honvédelmi alkalmazottak, a honvédelmi szervezeteknél foglalkoztatott munkavállalók, valamint a honvédelmi tárca gondoskodási körébe tartozók részére nyújtható egyes juttatásokról szóló 21/2024. (IX. 30.) HM rendelet (a továbbiakban: R.) 6. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) Ismételt szolgálati viszony létesítése esetén a toborzópénz ugyanazon személy után öt éven belül csak egy alkalommal fizethető ki abban az esetben is, ha a szolgálati viszony létesítések különböző személyek közreműködésével valósultak meg.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
