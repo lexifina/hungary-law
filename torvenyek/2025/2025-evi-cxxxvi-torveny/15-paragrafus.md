@@ -1,15 +1,1 @@
-15. § Az Stv. „A támogatás forrásai és igénybevételének feltételei” alcíme a következő 57/D. és 57/E. §-sal egészül ki:
-
-„57/D. § (1) A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatás kivételével a támogatói okirattal vagy támogatási szerződéssel nyújtott állami sportcélú támogatásokhoz való hozzáférés, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, a támogatási szerződés vagy támogatói okirat aláírása, a támogatások felhasználásának elszámolása és ellenőrzése során a sportpolitikáért felelős miniszter, valamint a Nemzeti Sportfejlesztési és Módszertani Intézet ezen ügyek intézésével kapcsolatban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális szolgáltatás nyújtására kötelezett szervezetnek minősül, és az eljárást az erre a célra létrehozott felületen (a továbbiakban: elektronikus támogatáskezelő rendszer), elektronikus ügyintézés keretében valósítja meg. Az elektronikus támogatáskezelő rendszert a Kormány rendeletében kijelölt szerv (a továbbiakban: elektronikus támogatáskezelő rendszer működtetéséért felelős szerv) működteti.
-
-(2) Az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv az elektronikus támogatáskezelő rendszer működtetése céljából kezeli a támogatás felhasználójának vagy a felhasználó képviseletére jogosult személynek a természetes személyazonosító adatait és elektronikus levelezési címét. Az adatkezelés szükségességét az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv négyévente felülvizsgálja.
-
-(3) A rendelkezési nyilvántartást vezető szerv a felhasználó képviseleti jogának igazolása céljából ingyenesen biztosítja a rendelkezési nyilvántartásban elérhető meghatalmazás ellenőrzésének eredményét az elektronikus támogatáskezelő rendszer működtetéséért felelős szerv részére.
-
-57/E. § (1) Az 55. § (1) bekezdés c) pontjában, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 15. pontjában, 23. § (4) bekezdés 8. pontjában, és 23. § (5) bekezdés 17. pontjában foglaltakra figyelemmel a helyi önkormányzati többségi tulajdonában álló ingatlanon külön-külön vagy összesen legalább 50%-ban központi költségvetési támogatásból vagy a Tao. szerinti látvány-csapatsport támogatásból megvalósuló beruházás esetén a helyi önkormányzat köteles biztosítani az ingatlan sportcélú fenntartását, üzemeltetését a tárgyi eszköz üzembe helyezését követő
-
-a) 15 évig, amennyiben a központi költségvetési támogatás, illetve a Tao. szerinti látvány-csapatsport támogatás összege együttesen legalább 50 millió forint, de nem éri el a 100 millió forintot,
-
-b) 30 évig, amennyiben a központi költségvetési támogatás, illetve a Tao. szerinti látvány-csapatsport támogatás összege együttesen a 100 millió forintot eléri vagy meghaladja.
-
-(2) A sportpolitikáért felelős miniszter a sportcélú fenntartás, üzemeltetés időtartamát az (1) bekezdésben foglaltaktól eltérően állapíthatja meg a helyi önkormányzat által írásban benyújtott, indoklással ellátott kérelem alapján azzal, hogy a sportcélú fenntartási, üzemeltetési kötelezettség időtartama nem lehet kevesebb 5 évnél.”
+### 15. §
