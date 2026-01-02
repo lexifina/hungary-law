@@ -6,12 +6,12 @@ b)
 
 c)
 
-d) 11. § (3) bekezdés c) pontja,
+d)
 
-e) 69. § (2) bekezdés b) pontja,
+e)
 
-f) 69. § (4) bekezdésében a „b) és” szövegrész,
+f)
 
 g)
 
-h) 203/B. § (2) bekezdése.
+h)
