@@ -1,1 +1,3 @@
-7. § Hatályát veszti a nemzetgazdasági miniszter irányítása alá tartozó egyes központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 5/2025. (III. 7.) NGM rendelet.
+7. §[^3]
+
+[^3]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
