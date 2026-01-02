@@ -1,5 +1,3 @@
-## „c) a különös méltánylást érdemlő személyes körülmény fennáll. A külföldi elem igazolására külföldön kiállított hitelesített közokirat és magánokirat alkalmas.”
+35. §[^36]
 
-35. §[^34]
-
-[^34]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

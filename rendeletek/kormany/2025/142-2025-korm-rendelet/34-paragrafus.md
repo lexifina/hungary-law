@@ -1,3 +1,3 @@
-34. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 106. § (1) bekezdése a következő c) ponttal egészül ki:
+34. §[^35]
 
-(A védett kulturális javak kiviteli engedélye iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy)
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

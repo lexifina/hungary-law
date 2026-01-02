@@ -1,3 +1,3 @@
-3. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^40]
+3. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^42]
 
-[^40]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
