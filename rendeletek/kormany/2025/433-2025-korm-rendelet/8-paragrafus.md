@@ -1,7 +1,5 @@
 ## 5. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-8. § Hatályát veszti a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet
+8. §[^7]
 
-a) 4. § (2) bekezdés 27. pont e) és f) alpontjában az „– a Közlekedési Szakértői Testület szakmai állásfoglalására figyelemmel –” szövegrész, valamint
-
-b) 5. § d) pontja.
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

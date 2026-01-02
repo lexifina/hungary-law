@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 179/2011. (IX. 2.) Korm. rendelet 6/B. §-a.
+7. §[^6]
+
+[^6]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

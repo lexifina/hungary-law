@@ -22,10 +22,6 @@
 
 ## 1. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló 236/2000. (XII. 23.) Korm. rendelet módosítása
 
-1. § A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló 236/2000. (XII. 23.) Korm. rendelet 1/A. számú mellékletében foglalt táblázat
+1. §[^1]
 
-a) 21. kódszámhoz tartozó részében a „KR. 6. melléklet 1. és 3. pont, BR. 11/F. melléklet 1. és 3. pont” szövegrész helyébe a „KR 6. melléklet 1., 2. és 4. pont, BR. 11/F. melléklet 1., 2. és 4. pont” szöveg,
-
-b) 22. kódszámhoz tartozó részében a „KR. 6. melléklet 2. pont, BR. 11/F. melléklet 2. pont” szövegrész helyébe a „KR. 6. melléklet 3. pont, BR. 11/F. melléklet 3. pont” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
