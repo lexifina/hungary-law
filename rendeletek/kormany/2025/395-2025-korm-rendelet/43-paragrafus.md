@@ -1,7 +1,3 @@
-43. § Az R13.
+43. §[^51]
 
-a) 12. § (2) bekezdés b) pontjában az „és a képviseletre” szövegrész helyébe az „és a – (2a) bekezdés szerinti kivétellel – képviseletre” szöveg,
-
-b) 18. § (8) bekezdés a) pontjában az „esetében a képviseletre” szövegrész helyébe az „esetében – a (8a) bekezdés szerinti kivétellel – a képviseletre” szöveg
-
-lép.
+[^51]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

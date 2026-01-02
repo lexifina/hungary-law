@@ -1,1 +1,3 @@
-21. § Hatályát veszti az R7. 8. § (4) bekezdés a) pontjában a „tizenöt napon belül” szövegrész.
+21. §[^29]
+
+[^29]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

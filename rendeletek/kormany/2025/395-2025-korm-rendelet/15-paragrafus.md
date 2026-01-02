@@ -1,3 +1,5 @@
 ## 8. A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet módosítása
 
-15. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet 11. § (3) bekezdésében a „telephelye” szövegrész helyébe a „telephelye és fióktelepe” szöveg, a „két” szövegrész helyébe a „négy” szöveg, valamint a „település” szövegrész helyébe a „vármegye” szöveg lép.
+15. §[^24]
+
+[^24]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

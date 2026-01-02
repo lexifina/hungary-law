@@ -1,3 +1,5 @@
 ## 26. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosítása
 
-39. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 24/E. § (1) bekezdésében a „kiadásáról szóló határozat véglegessé válásával” szövegrész helyébe a „megadásával egyidejűleg” szöveg lép.
+39. §[^47]
+
+[^47]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

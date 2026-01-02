@@ -1,7 +1,3 @@
-38. § Hatályát veszti az R12.
+38. §[^46]
 
-a) 3. § (1a) bekezdése és (2a) bekezdés a) pontja,
-
-b) 24. § (2) bekezdése,
-
-c) 28. § (3) bekezdés b) pont bg) alpontjában az „és elvégeztette-e annak külső értékelését,” szövegrész.
+[^46]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

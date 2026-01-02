@@ -1,5 +1,5 @@
 ## 3. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet módosítása
 
-5. § A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet (a továbbiakban: R2.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+5. §[^5]
 
-(E rendelet alkalmazásában)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

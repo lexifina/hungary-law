@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 17. § (6) bekezdésében a „vagy cégkivonatával” szövegrész.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

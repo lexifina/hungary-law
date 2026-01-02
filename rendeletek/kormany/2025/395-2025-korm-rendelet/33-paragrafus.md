@@ -1,1 +1,3 @@
-33. § Hatályát veszti az R11. 1. melléklet 19. alcímében foglalt táblázat 60. és 61. sora.
+33. §[^41]
+
+[^41]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

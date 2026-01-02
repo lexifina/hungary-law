@@ -1,1 +1,3 @@
-30. § Hatályát veszti az R10. 3. § (11) bekezdés a) pont ab) alpontja és b) pont bb) alpontja.
+30. §[^38]
+
+[^38]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

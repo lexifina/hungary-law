@@ -110,6 +110,6 @@
 
 ## 1. A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosítása
 
-1. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet (a továbbiakban: R.) 17. §-a a következő (6a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(6a) Ha a kérelmező a hajózási engedély kivonatát nem nyújtotta be, a gazdálkodó szervezet hajózási útlevélre vonatkozó jogosultságának igazolása céljából a cégkivonatát az általános hatáskörű útlevélhatóság, vagy amennyiben a kérelmet a járási hivatalhoz nyújtották be, a járási hivatal elektronikus úton, közvetlen lekérdezéssel szerzi be a cégnyilvántartásból.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

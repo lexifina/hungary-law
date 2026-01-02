@@ -1,1 +1,3 @@
-9. § Hatályát veszti az R3. 6. § (5) bekezdése.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

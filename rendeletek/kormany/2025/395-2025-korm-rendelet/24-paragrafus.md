@@ -1,5 +1,3 @@
-24. § Hatályát veszti az R8.
+24. §[^32]
 
-a) 4. § (3) bekezdés d) pontja és
-
-b) 7. § (2) bekezdés c) és e) pontja.
+[^32]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

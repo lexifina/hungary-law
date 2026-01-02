@@ -1,7 +1,3 @@
-11. § Az R4.
+11. §[^17]
 
-a) 2. § 3. pontjában a „településeken” szövegrész helyébe a „településeken, valamint az 5000 fő feletti települések vidéki jellegű nem belterületi településrészein” szöveg,
-
-b) 7. § d) pontjában a „hat hónapon” szövegrész helyébe az „öt éven” szöveg
-
-lép.
+[^17]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
