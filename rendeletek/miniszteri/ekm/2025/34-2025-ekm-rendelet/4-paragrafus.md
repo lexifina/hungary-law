@@ -1,7 +1,3 @@
-## „k) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezet közútkezelési feladatai ellátása érdekében üzemben tartott gépjárműve után, az érintett ország és Magyarország államhatárától számított első csomóponti lehajtóig terjedő használatidíj-köteles útszakaszon,
+4. §[^4]
 
-## l) a gépjárműadóról szóló törvényben meghatározott muzeális jellegű gépjármű után.”
-
-4. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 19. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha ugyanarra a gépjárműre részben vagy egészben azonos időszakra több jogosultságot váltottak, a 20. §-ban meghatározott ügyintézési díj ellenében kérhető a felesleges jogosultság visszaváltása. Ha a jogosultságok kezdő időpontja nem egyezik meg, a későbbi kezdő időpontú jogosultság visszaváltásnak akkor van helye, ha a későbbi kezdő időpontú jogosultság érvényessége még nem kezdődött el, vagy ha már elkezdődött, akkor a későbbi kezdő időpontú jogosultság érvényességének kezdete és a kérelem előterjesztése között eltelt időszakban a korábbi kezdő időpontú jogosultság érvényessége fennállt. Vármegyei jogosultság akkor váltható vissza, ha annak területi hatálya az ugyanarra a gépjárműre megváltott, vissza nem váltandó jogosultság területi hatályával megegyezik, vagy a vissza nem váltandó jogosultság azt magában foglalja.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,4 +10,4 @@
 
 1. §[^1]
 
-[^1]: Az 1. § a 46/2025. (XII. 23.) ÉKM rendelet 3. §-a alapján nem lép hatályba.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
