@@ -4,6 +4,6 @@
 
 ## [3] Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdés 2. pontjában kapott felhatalmazás alapján, az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az atomenergiáról szóló törvény hatálya alá tartozó építményekkel, létesítményekkel kapcsolatos műszaki szakértői, tervezői, műszaki ellenőri és felelős műszaki vezetői tevékenység szerinti szakmagyakorlásra való alkalmasság igazolásának és nyilvántartásba vételének részletes szabályairól, továbbá a nyilvántartás adattartalmára vonatkozó szabályokról szóló 7/2022. (IV. 29.) OAH rendelet (a továbbiakban: Rendelet) 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Ha a kérelem nem felel meg a 7. § szerinti követelményeknek, a Hatóság a kérelmezőt legfeljebb 15 napos határidő tűzése mellett hiánypótlásra szólítja fel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

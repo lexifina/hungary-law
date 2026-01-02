@@ -1,3 +1,3 @@
-2. § A Rendelet 12. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„12. § A Hatóság a szakmagyakorlókról és a szakmagyakorló cégekről az Atv. 18/D. § (3) bekezdése szerint elektronikus nyilvántartást vezet.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
