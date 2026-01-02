@@ -1,1 +1,3 @@
-3. § A 343/2011. (XII. 29.) Korm. rendelet 2/E. § (1) bekezdésében az „alkotórészként” szövegrész helyébe a „vagy alkotórészként” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. §[^4]
+6. §[^7]
 
-[^4]: A 6. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+[^7]: A 6. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.

@@ -1,3 +1,3 @@
-19. §[^16]
+19. §[^22]
 
-[^16]: A 19. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+[^22]: A 19. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
