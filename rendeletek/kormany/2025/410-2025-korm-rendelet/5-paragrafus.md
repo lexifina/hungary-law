@@ -1,3 +1,3 @@
-5. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+5. §[^1]
 
-„(3) A rokkantsági járadék havi összege 2026. január 1-jétől 63 915 forint.”
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

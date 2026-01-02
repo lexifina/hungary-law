@@ -1,1 +1,3 @@
-11. § Hatályát veszti a nyugellátások és egyes más ellátások 2024. január havi emeléséről szóló 524/2023. (XII. 1.) Korm. rendelet.
+11. §[^7]
+
+[^7]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
