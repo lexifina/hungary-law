@@ -1,1 +1,3 @@
-5. § Hatályát veszti az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet 4. mellékletében foglalt táblázat 2. sorában a „Nemzeti Útdíjfizetési Szolgáltató Zrt.” szövegrész.
+5. §[^3]
+
+[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-4. § Az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet 1. § (2) bekezdés k) pontjában az „a Nemzeti Útdíjfizetési Szolgáltató” szövegrész helyébe az „az útdíjszolgáltatási gazdasági társasági, útdíjszedői, egyetemes útdíjszolgáltatói, valamint útdíjellenőrzés-támogatói feladatai ellátása tekintetében a Magyar Közút Nonprofit” szöveg lép.
+4. §[^2]
+
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
