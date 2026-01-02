@@ -14,6 +14,6 @@
 
 ## 1. Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet módosítása
 
-1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) a következő 36. §-sal egészül ki:
+1. §[^2]
 
-„36. § A Rekonstruktív Reproduktív Medicina tevékenység körében a 11065, 11066, 16640 és 16641 kódszámú eljárást a 04 Szülészet-nőgyógyászat kód alatt – 2026. július 31-ig – kizárólag a 2. számú melléklet „A járóbeteg-szakellátásban használt index/* jelzésű eljárások az alábbi intézetekben végezhetők, a szakmai feltételektől és igényektől függően a NEAK-kal kötött szerződésben meghatározott mennyiségi korlátozással” megjelölésű rész 66. pontja szerinti szolgáltatók jelenthetik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
