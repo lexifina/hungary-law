@@ -1,1 +1,3 @@
-6. § Nem lép hatályba az egyes szociális, gyermekvédelmi és fogyatékosságügyi tárgyú miniszteri rendeletek módosításáról szóló 29/2025. (VII. 24.) BM rendelet 6. § a) pontja.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
