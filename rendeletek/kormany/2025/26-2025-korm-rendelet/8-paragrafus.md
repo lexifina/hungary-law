@@ -1,5 +1,3 @@
-8. § (1)[^15]
+8. §[^9]
 
-(2) Hatályát veszti a KÁT rendelet 4. § (12a) bekezdése.
-
-[^15]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

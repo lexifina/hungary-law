@@ -10,6 +10,6 @@
 
 ## 1. A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamosenergia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
