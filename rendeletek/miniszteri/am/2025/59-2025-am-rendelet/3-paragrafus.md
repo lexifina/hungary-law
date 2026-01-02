@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 1. §-ában a „2025. évi központi költségvetéséről szóló 2024. évi XC. törvény” szövegrész helyébe a „2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény” szöveg,
-
-b) 1. mellékletében foglalt táblázat címében a „2025” szövegrész helyébe a „2026” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
