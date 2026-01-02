@@ -32,7 +32,10 @@ f) a kiállító erdészeti hatóság bélyegzője, vezetőjének aláírása.
 
 (8)[^18] Az erdészeti hatóság a szolgálati igazolványt és szolgálati jelvényt a hatósági vagy igazgatási feladatkör megszűnésekor visszavonja. A szolgálati igazolvány és a szolgálati jelvény elvesztését, ellopását, illetve a használhatatlanságát eredményező megrongálódását az erdészeti hatóságnak haladéktalanul be kell jelenteni, melynek tényéről a miniszter az általa vezetett minisztérium honlapján közleményt tesz közzé, feltüntetve az erdészeti hatósági vagy igazgatási feladatokat ellátó kormánytisztviselő szolgálati igazolványának vagy szolgálati jelvényének sorszámát.
 
+(9)[^19] Az erdészeti hatósági vagy igazgatási feladatokat ellátó személynek a kormányzati szolgálati jogviszonya megszűnésekor – ha a munkavégzési kötelezettség megszűnése ennél korábbi időpontra esik, a munkavégzési kötelezettsége megszűnésekor – a szolgálati jelvényt, valamint a 3. melléklet II. pont 2. alpontja szerinti „Erdészeti hatóság” kiegészítő jelzést a foglalkoztatónak vissza kell szolgáltatnia, azokat tovább nem viselheti.
+
 [^15]: A 26. § (2) bekezdése a 107/2024. (V. 9.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^16]: A 26. § (3) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § i) pontja szerint módosított szöveg.
 [^17]: A 26. § (4) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § j) pontja szerint módosított szöveg.
 [^18]: A 26. § (8) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § k) pontja szerint módosított szöveg.
+[^19]: A 26. § (9) bekezdését a 421/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

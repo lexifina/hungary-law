@@ -2,7 +2,7 @@
 
 32. § (1) E rendelet hatálybalépésekor nyilvántartásban szereplő jogosult erdészeti szakszemélyzet határozatlan időre szóló jogosult erdészeti szakszemélyzeti kiemelt besorolása
 
-a)[^24] középfokú erdészeti végzettséggel egyenértékű szakképesítéssel rendelkező, illetve erdésztechnikusi végzettségű, kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet esetében 2023. január 1-jéig,
+a)[^25] középfokú erdészeti végzettséggel egyenértékű szakképesítéssel rendelkező, illetve erdésztechnikusi végzettségű, kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet esetében 2023. január 1-jéig,
 
 b) középfokú erdészeti végzettséggel egyenértékű szakképesítéssel rendelkező, illetve erdésztechnikusi végzettségű, rendészeti feladatokat ellátó erdészeti szakszemélyzet esetében 2023. július 1-jéig,
 
@@ -22,4 +22,4 @@ c) az (1) bekezdés c) pontja szerinti esetben 96 kreditpont összegyűjtése, a
 
 d) az (1) bekezdés d) pontja szerinti esetben 120 kreditpont összegyűjtése, amelyből legalább 90 kreditpont a választható kiegészítő képzések teljesítéséből származik.
 
-[^24]: A 32. § (1) bekezdés a) pontja a 316/2022. (VIII. 16.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^25]: A 32. § (1) bekezdés a) pontja a 316/2022. (VIII. 16.) Korm. rendelet 10. §-a szerint módosított szöveg.
