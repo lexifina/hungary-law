@@ -1,3 +1,3 @@
-6. §[^4]
+6. §[^6]
 
-[^4]: A 6. § a 10. § (2) bekezdése alapján 2026. január 30-án lép hatályba.
+[^6]: A 6. § a 10. § (2) bekezdése alapján 2026. január 30-án lép hatályba.

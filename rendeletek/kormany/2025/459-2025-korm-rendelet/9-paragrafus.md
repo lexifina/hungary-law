@@ -1,9 +1,3 @@
-9. § Hatályát veszti a Korm. rendelet
+9. §[^13]
 
-a) 1. § (1) bekezdés 13. pontjában az „az átmeneti fejlesztési adókedvezmény kivételével” szövegrész,
-
-b) 5. § (6) bekezdésében az „– az átmeneti fejlesztési adókedvezmény folyóáron –” szövegrészek,
-
-c) 9. alcíme és 9. §-a,
-
-d) 15. § (3) bekezdése.
+[^13]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

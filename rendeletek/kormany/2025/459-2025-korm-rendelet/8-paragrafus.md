@@ -1,15 +1,19 @@
 8. § A Korm. rendelet
 
-a) 1. § (1) bekezdés 2. pontjában a „földterület vásárlása” szövegrész helyébe a „földterület vásárlása – ha az nem képezi részét a beruházás elszámolható költségeinek –,” szöveg, az „az átmeneti fejlesztési” szövegrész helyébe az „a tiszta technológiát támogató fejlesztési” szöveg,
+a)[^8]
 
-b) 1. § (1) bekezdés 5a. pontjában, 1. § (2) bekezdés a) pontjában és 4. § (3) bekezdésében az „és h)–k)” szövegrész helyébe a „ , h)–j) és l)” szöveg,
+b)[^9]
 
-c) 1. § (1) bekezdés 8. pontjában az „50 millió” szövegrész helyébe az „55 millió” szöveg, az „a Tao. törvény 22/B. § (2a) bekezdésében meghatározott esetekben” szövegrész helyébe a „továbbá azzal, hogy” szöveg,
+c)[^10]
 
-d) 5. § (6) bekezdésében a „100 millió” szövegrészek helyébe a „110 millió” szöveg,
+d)[^11]
 
-e)[^5]
+e)[^12]
 
 lép.
 
-[^5]: A 8. § e) pontja a 10. § (2) bekezdése alapján 2026. január 30-án lép hatályba.
+[^8]: A 8. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 8. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § e) pontja a 10. § (2) bekezdése alapján 2026. január 30-án lép hatályba.
