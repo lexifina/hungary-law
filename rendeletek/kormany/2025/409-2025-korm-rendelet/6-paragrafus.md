@@ -1,1 +1,3 @@
-6. § Hatályát veszti a tizenharmadik havi ellátásról szóló 342/2020. (VII. 14.) Korm. rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
