@@ -8,6 +8,6 @@
 
 ## 1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
 
-1. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 66. alcíme a következő 201/ZP. §-sal egészül ki:
+1. §[^2]
 
-„201/ZP. § E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 384/2025. (XII. 8.) Korm. rendelettel [a továbbiakban: 384/2025. (XII. 8.) Korm. rendelet] megállapított 37/A. § (1) és (2) bekezdését a 384/2025. (XII. 8.) Korm. rendelet hatálybalépését megelőzően megkezdett és a 384/2025. (XII. 8.)Korm. rendelet hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
