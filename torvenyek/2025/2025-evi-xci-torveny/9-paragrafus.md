@@ -1,7 +1,1 @@
-9. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 60/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Jogosulatlan igénybevétel esetén és a visszafizetési kötelezettség késedelmes teljesítése esetén a helyi önkormányzat jogszabályban meghatározott mértékű ügyleti kamatot, illetve azon felül késedelmi kamatot fizet. Ha a helyi önkormányzat visszafizetési kötelezettségnek nem tesz eleget, a kincstár – az engedélyezett és az előírtaknak megfelelő ütemben teljesített részletfizetés kivételével – hatósági átutalási megbízást nyújt be a kötelezett fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.”
-
-(2) Az államháztartásról szóló 2011. évi CXCV. törvény 60/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a helyi önkormányzat a részletfizetést engedélyező határozatban foglalt fizetési kötelezettségének a határozatban foglaltak szerint nem tesz eleget, a visszafizetési és kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik. Ha az így keletkezett egyösszegű fizetési kötelezettséget a kötelezett az esedékessé válást követő tizenöt napon belül nem teljesíti, a kincstár hatósági átutalási megbízást nyújt be a kötelezett fizetési számlájára. A fizetési számlát vezető pénzforgalmi szolgáltató a kincstár e bekezdés alapján benyújtott hatósági átutalási megbízását okirat csatolása nélkül köteles teljesíteni.”
+### 9. §
