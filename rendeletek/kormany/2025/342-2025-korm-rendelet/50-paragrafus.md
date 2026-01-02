@@ -1,5 +1,5 @@
 ## 37. A szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet módosítása
 
-50. § A szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet 2. §-a a következő (3) bekezdéssel egészül ki:
+50. §[^51]
 
-„(3) A szőlő termőhelyi kataszter nyilvántartás a (2) bekezdés c)–e) pontjában meghatározott adatok tekintetében közhiteles.”
+[^51]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

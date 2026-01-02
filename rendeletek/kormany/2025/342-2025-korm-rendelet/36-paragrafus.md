@@ -1,1 +1,3 @@
-36. § Hatályát veszti a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet 29. § (1) bekezdésében az „A hatósági hivatalos jegyzék közhiteles, az abban foglalt adatok valódiságát az ellenkező bizonyításig vélelmezni kell.” szövegrész.
+36. §[^37]
+
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

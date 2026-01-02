@@ -98,6 +98,6 @@
 
 ## 1. A légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet módosítása
 
-1. § A légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet a következő 5/A. §-sal egészül ki:
+1. §[^2]
 
-„5/A. § A lajstrom – az 5. § (2) bekezdés d) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

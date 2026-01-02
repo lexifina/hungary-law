@@ -1,9 +1,5 @@
 ## 32. A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet módosítása
 
-44. § Hatályát veszti a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet
+44. §[^45]
 
-a) 88. § (3) bekezdése,
-
-b) 106. § (2) bekezdése,
-
-c) 106. § (5) bekezdése.
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 3. Az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges szabályokról szóló 26/2004. (II. 26.) Korm. rendelet módosítása
 
-3. § Az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges szabályokról szóló 26/2004. (II. 26.) Korm. rendelet 6. §-a a következő (1a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(1a) A tanúsítványlajstrom – az (1) bekezdés d)–g) pontjában foglalt adatok kivételével – közhiteles nyilvántartásnak minősül.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

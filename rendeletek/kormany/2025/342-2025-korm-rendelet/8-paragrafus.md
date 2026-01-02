@@ -1,1 +1,3 @@
-8. § Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 5. § (2) bekezdésében az „a (2a) bekezdés b) és c) pontjában” szövegrész helyébe az „az oktatási nyilvántartásról szóló törvényben és annak mellékleteiben” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
