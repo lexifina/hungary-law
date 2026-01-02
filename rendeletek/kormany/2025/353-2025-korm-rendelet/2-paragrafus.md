@@ -1,3 +1,3 @@
-2. § Az Öbr. 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) A pénztár fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § e) pontja szerinti kereskedelmi kommunikációja csak a tíz, tizenöt és húsz naptári év átlagos hozamrátáját és a pénztár ezen rendelet alapján számított tárgyévi hozamrátáját tartalmazhatja. Ha a pénztár kereskedelmi kommunikációja a hozam mértékére hivatkozást tartalmaz, akkor az elmúlt tíz, tizenöt és húsz naptári év átlagos hozamrátáját is fel kell tüntetni a többi hozamrátával azonos méretben. Átlagos hozamrátaként – a nyilvánosságra hozatalt megelőző – tíz, tizenöt és húsz teljes naptári évre vonatkozó, hivatalosan közzétett fedezeti tartalék nettó éves hozamráta mértani átlagát kell meghatározni. Választható portfóliós rendszer működtetése esetén a választható portfóliókra vonatkozó hozamrátákat kell szerepeltetni, feltüntetni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
