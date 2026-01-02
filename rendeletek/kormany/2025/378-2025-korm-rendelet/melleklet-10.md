@@ -1,7 +1,3 @@
-## „9. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+10. melléklet a 378/2025. (XII. 1.) Korm. rendelethez[^13]
 
-## 5X09225.pdf
-
-## ”
-
-10. melléklet a 378/2025. (XII. 1.) Korm. rendelethez
+[^13]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
