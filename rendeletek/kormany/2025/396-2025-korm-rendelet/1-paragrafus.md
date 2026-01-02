@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés k) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Ebtv. vhr.) 27/A. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1b) Az Ebtv. 42/F. §-a szerinti gyermekgondozási díj esetében az (1) bekezdés c) pontjában foglaltakon túl a nevelőszülői foglalkoztatási jogviszonyban töltött napokkal össze kell számítani az ellátásra való jogosultság kezdő napján fennálló más jogviszonyból származó biztosításban töltött napok közül azokat, amelyek megelőzik azt a napot, amelytől a gyermek gondozási helyét a nevelőszülőnél jelölték ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

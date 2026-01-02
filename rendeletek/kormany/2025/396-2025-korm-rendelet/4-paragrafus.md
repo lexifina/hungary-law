@@ -1,7 +1,3 @@
-4. § Az Ebtv. vhr.
+4. §[^5]
 
-a) 1. § (2) bekezdés c) pontjában a „fennálló biztosítási jogviszony” szövegrész helyébe a „fennálló – az Ebtv. 39/A. § (1a) bekezdése szerinti esetben a megszűnt – biztosítási jogviszony” szöveg,
-
-b) 1. § (2) bekezdés d) pontjában a „pénzbeli egészségbiztosítási járulékalapot” szövegrész helyébe a „társadalombiztosítási járulékalapot” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
