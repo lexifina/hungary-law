@@ -1,3 +1,1 @@
-## „a) az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatásait, valamint a honvédek jogállásáról szóló kormányrendelet szerinti katona oktató állomány önkéntes tartalékos szolgálati viszonyban álló tagjának e szolgálati viszonyból származó jövedelmét, és”
-
-15. § Hatályát veszti a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. § (1) bekezdésében az „ , a szünetelés időtartama alatt szerzett” szövegrész.
+### 15. §
