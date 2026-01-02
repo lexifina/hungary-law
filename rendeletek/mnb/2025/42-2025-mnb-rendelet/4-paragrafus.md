@@ -1,3 +1,3 @@
-4. § A Rendelet 15. §-a a következő 5. és 6. ponttal egészül ki:
+4. §[^5]
 
-(E rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
