@@ -1,3 +1,3 @@
-6. melléklet a 25/2025. (VII. 16.) BM rendelethez[^50]
+6. melléklet a 25/2025. (VII. 16.) BM rendelethez[^51]
 
-[^50]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
