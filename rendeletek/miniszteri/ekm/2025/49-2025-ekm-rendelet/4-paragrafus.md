@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 19/2011. (V. 10.) NFM rendelet
+4. §[^5]
 
-a) 2. § 14. pontja,
-
-b) 35/G. § (1) bekezdésében az „– a Közlekedési Szakértői Testület szakmai javaslata alapján –” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
