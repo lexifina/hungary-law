@@ -22,6 +22,8 @@ b) amely az (1) bekezdés c) pontja esetében az élő szervezet állományának
 
 (3a) Aki a (2) vagy a (2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
+(3b) Nem büntethető az (1) bekezdés c) pontja alapján, aki a természetkárosítást elhanyagolható mennyiségű egyedre követi el, ha jogszabály meghatározza a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló EK tanácsi rendelet hatálya alá tartozó élő szervezet egyedének elhanyagolható mennyiségét.
+
 (4) E § alkalmazásában élő szervezet egyede:
 
 a) az élő szervezet egyedének valamennyi fejlődési szakasza, alakja, állapota,
