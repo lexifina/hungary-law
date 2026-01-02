@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 5. § (1) bekezdés 5. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
