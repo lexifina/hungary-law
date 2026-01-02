@@ -10,24 +10,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló 614/2022. (XII. 29.) Korm. rendelet (a továbbiakban: Hvt.vhr.) a következő 6/A. alcímmel egészül ki:
+1. §[^2]
 
-„6/A. A Honvédség középszintű vezető szerve
-
-8/A. § (1) A Honvédség középszintű vezető szerve a Magyar Honvédség Összhaderőnemi Műveleti Parancsnokság.
-
-(2) A Magyar Honvédség Összhaderőnemi Műveleti Parancsnokság – a Honvéd Vezérkar főnöke és a Honvédség hadrendje szerinti más magasabb szintű parancsnokság parancsnoka által vezetett és a közvetlenül alárendelt honvédségi szervezeteik kivételével – irányítja a honvédségi szervezetek tevékenységét.
-
-(3) A Magyar Honvédség Összhaderőnemi Műveleti Parancsnokság az Áht. szerinti középirányító szerve az alárendeltségébe tartozó – költségvetési szervként működő – honvédségi szervezeteknek.
-
-(4) A Magyar Honvédség Összhaderőnemi Műveleti Parancsnokság a (3) bekezdés szerinti középirányító szervként – ha törvény vagy kormányrendelet eltérően nem rendelkezik –
-
-a) az Áht. 9. § b) pontjában,
-
-b) az Áht. 9. § d) pontjában,
-
-c) – a költségvetési szerv tevékenységének törvényességi és szakszerűségi ellenőrzése (ide nem értve a költségvetési szerv tevékenységének a pénzügyi ellenőrzését) kivételével – az Áht. 9. § e) pontjában és
-
-d) az Áht. 9. § g)–i) pontjában
-
-meghatározott irányítási hatásköröket gyakorolja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
