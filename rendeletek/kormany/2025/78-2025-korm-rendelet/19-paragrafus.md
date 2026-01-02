@@ -1,3 +1,3 @@
-19. § Az Adóig. vhr. 95. §-a a következő (2a) bekezdéssel egészül ki:
+19. §[^20]
 
-„(2a) Ha a (2) bekezdés szerinti jegyzőkönyv elektronikus formában készült, az állami adó- és vámhatóság e tényről a jelen lévő alkalmazottat vagy az értékesítésben közreműködő személyt szóban tájékoztatja. A szóbeli közlés megtörténtét a jegyzőkönyvben rögzíteni kell.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
