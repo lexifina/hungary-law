@@ -2,8 +2,6 @@
 
 ## [2] A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés o) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló 7/2002. (I. 28.) KöViM rendelet [a továbbiakban: 7/2002. (I. 28.) KöViM rendelet] „A rendelet hatálya” című alcíme a következő 1/A. §-sal egészül ki:
+1. §[^2]
 
-„1/A. § (1) A 13. §, a 16. §, valamint a 18–21. § a Magyarország területén működő, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá tartozó, évente legalább 2 millió utasforgalmat vagy 50 000 tonna áruforgalmat bonyolító kereskedelmi repülőtér üzemben tartójára, az ilyen repülőtéren végzett földi kiszolgálási tevékenységre, az e tevékenységet folytatóra és a légiközlekedési hatóságra terjed ki.
-
-(2) Ha valamely repülőtér eléri az (1) bekezdés szerinti áruforgalmi küszöböt, de az utasforgalomra az (1) bekezdésben meghatározott küszöböt nem, akkor a 13. §-ban, a 16. §-ban és a 18–21. §-ban meghatározott rendelkezések nem vonatkoznak azon földi kiszolgálási tevékenységre, amelyek csak az utasforgalmat érintik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § A 7/2002. (I. 28.) KöViM rendelet a 20. §-t követően a következő alcím címmel és 21. §-sal egészül ki:
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

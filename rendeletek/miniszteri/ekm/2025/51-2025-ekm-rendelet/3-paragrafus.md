@@ -1,1 +1,3 @@
-3. § A 7/2002. (I. 28.) KöViM rendelet a 2. §-t követően a következő „Az engedély” alcím címmel és 3–6. §-sal egészül ki:
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
