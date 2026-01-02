@@ -1,5 +1,3 @@
-1. melléklet a 43/2025. (XII. 31.) EM rendelethez
+1. melléklet a 43/2025. (XII. 31.) EM rendelethez[^4]
 
-A Felajánlási rendelet 9. melléklete a következő 3. ponttal egészül ki:
-
-„3. Az 1. pont szerinti dedikált földgázforrások kitárolására 2026. I. negyedévben 3 690 916 MWh, a 3. melléklet 6.13.1.3. pontja szerinti Egyéb tárolói források kitárolását követően kerül sor.”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
