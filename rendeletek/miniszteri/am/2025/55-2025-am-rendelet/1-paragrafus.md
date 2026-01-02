@@ -4,6 +4,6 @@
 
 ## [3] A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 30. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet [a továbbiakban: 40/2004. (IV. 7.) FVM rendelet] 30. §-a a következő 41. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet a következő irányelveknek való megfelelést szolgálja:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
