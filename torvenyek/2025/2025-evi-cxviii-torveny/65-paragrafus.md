@@ -9,15 +9,3 @@ c) 6. §-a, 8. § b) pontja és 24. §-a az uniós korlátozó intézkedések me
 való megfelelést szolgálja.
 
 (2) E törvény 7. §-a, 29. §-a, 31. §-a és 57. §-a a büntetőeljárás során az elektronikus bizonyítékokkal kapcsolatban, valamint a büntetőeljárást követően a szabadságvesztés-büntetések végrehajtása céljából kibocsátott, közlésre kötelező európai határozatokról és megőrzésre kötelező európai határozatokról szóló, 2023. július 12-i (EU) 2023/1543 európai parlamenti és tanács rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

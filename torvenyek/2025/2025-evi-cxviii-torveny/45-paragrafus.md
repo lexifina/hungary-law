@@ -1,3 +1,1 @@
-45. § A Be. 321. § (5a) bekezdése helyébe a következő rendelkezés lép:
-
-„(5a) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalást megszünteti és a lefoglalás tárgyát kiadni rendeli, de az annak átvételére jogosult vagyoni érdekelt a lefoglalás megszüntetéséről és kiadásáról szóló határozat vagy a lefoglalás tárgyának átvételére vonatkozó felhívás, továbbá a vádemelés után a jogerős vagy véglegessé vált határozat közlésétől számított három hónapon belül nem veszi át a lefoglalás tárgyát, akkor az az állam tulajdonába kerül. Erről a lefoglalás megszüntetéséről szóló határozatban kell rendelkezni.”
+### 45. §

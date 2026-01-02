@@ -1,27 +1,27 @@
 60. § Hatályát veszti a Be.
 
-1. „A lefoglalás végrehajtása” alcíme,
+1.
 
-2. 317. §-a,
+2.
 
-3. „A lefoglalt dolog megváltása” alcíme,
+3.
 
-4. „A lefoglalt dolog értékesítése” alcíme,
+4.
 
-5. 322. §-a,
+5.
 
-6. 327. § (2) bekezdés b) és c) pontja,
+6.
 
-7. 327. § (3) bekezdésében a „(2) bekezdés a) pontja esetén a” szövegrész,
+7.
 
-8. 327. § (4) és (5) bekezdése,
+8.
 
-9. „A zár alá vétel végrehajtása” alcíme,
+9.
 
-10. „A zár alá vett vagyon megváltása” alcíme,
+10.
 
-11. 332. § (1) bekezdésében az „A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.” szövegrész,
+11.
 
-12. 335. § (2) bekezdésében a „közvádra üldözendő” szövegrész,
+12.
 
-13. 845/A. § (2) bekezdésében a „szükség esetén” szövegrész.
+13.
