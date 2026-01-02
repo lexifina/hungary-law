@@ -1,4 +1,4 @@
-## 25. §[^64] Ez a rendelet
+## 25. §[^65] Ez a rendelet
 
 a) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet 6., 8., 12–14., 16. és 20. cikke,
 
@@ -12,4 +12,4 @@ e) a fókatermékek kereskedelméről szóló 1007/2009/EK európai parlamenti �
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^64]: A 25. § a 217/2011. (X. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^65]: A 25. § a 217/2011. (X. 19.) Korm. rendelet 5. §-ával megállapított szöveg.

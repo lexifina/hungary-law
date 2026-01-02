@@ -26,8 +26,8 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-4. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^68]
+4. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^69]
 
 Tenyésztési napló
 
-[^68]: A 4. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^69]: A 4. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
