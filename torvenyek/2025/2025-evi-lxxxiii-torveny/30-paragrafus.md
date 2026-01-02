@@ -1,3 +1,1 @@
-## „16a. kisüzemi habzóbor előállító: borpiaci évenként legfeljebb 500 hektoliter habzóbort előállító, más habzóbort előállító üzemtől jogilag és gazdaságilag független, más habzóbort előállító üzemtől elkülönült telephelyet használó, nem licencia alapján működő, borászatiüzem-engedéllyel rendelkező borászati üzem, továbbá habzóbort előállító üzemek együttműködése esetén az a borászatiüzem-engedéllyel rendelkező borászati üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő habzóbort előállító borászati üzemével összesített termelése borpiaci évenként nem haladja meg az 500 hektoliter habzóbort, mindkét esetben beleértve a másik tagállam jogszabálya vagy illetékes hatósága által engedélyezett, előbbi feltételeket teljesítő borászati üzemet;”
-
 ### 30. §

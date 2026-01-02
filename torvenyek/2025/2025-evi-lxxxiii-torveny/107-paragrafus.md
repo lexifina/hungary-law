@@ -1,3 +1,1 @@
-107. § Az Szt. 78. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A (3), (4), illetve (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja a Tao. törvény szerinti szokásos piaci ár (szokásos piaci tartomány) és az alkalmazott ellenérték alapján számított különbözetből a felek megállapodása alapján – a mérlegkészítés időpontjáig – utólag elszámolt összeg, abban az esetben, ha a Tao. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybevétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.”
+### 107. §
