@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Magyarországon évente összesen kiadható foglalkoztatási célú tartózkodási engedélyek és vendégmunkás-tartózkodási engedélyek számáról szóló 51/2024. (XII. 23.) NGM rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
