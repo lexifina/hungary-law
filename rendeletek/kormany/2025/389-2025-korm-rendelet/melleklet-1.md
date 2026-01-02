@@ -1,13 +1,3 @@
-1. melléklet a 389/2025. (XII. 10.) Korm. rendelethez
+1. melléklet a 389/2025. (XII. 10.) Korm. rendelethez[^9]
 
-Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 2. mellékletében foglalt táblázat a következő 62. sorral egészül ki:
-
-|  | [A | B | C |
-
-| 1. | A kereset, jövedelem megszerzésének éve | Járulékmérték%(magánnyugdíj-pénztári tagság hiányában) | Járulékmérték%(magánnyugdíj-pénztári tagság esetén)] |
-
-„
-
-| 62. | 2026 | 20,77 | 20,77 |
-
-”
+[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,6 +10,6 @@
 
 ## 1. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet módosítása
 
-1. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet (a továbbiakban: TnyR.) 3. § (5) bekezdése a következő e) ponttal egészül ki:
+1. §[^1]
 
-(A Központ nyugdíjbiztosítási igazgatási szervként jár el)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
