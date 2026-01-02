@@ -1,3 +1,3 @@
-2. §[^1]
+2. §[^3]
 
-[^1]: A 2. § a 4. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^3]: A 2. § a 2/2026. (II. 26.) ÉKM rendelet 3. §-a alapján nem lép hatályba.
