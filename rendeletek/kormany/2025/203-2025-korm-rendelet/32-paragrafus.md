@@ -1,3 +1,3 @@
-32. §[^68]
+32. §[^62]
 
-[^68]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

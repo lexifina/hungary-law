@@ -1,3 +1,3 @@
-29. §[^64]
+29. §[^59]
 
-[^64]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

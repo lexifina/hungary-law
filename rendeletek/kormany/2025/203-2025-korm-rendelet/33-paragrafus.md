@@ -1,3 +1,3 @@
-33. §[^69]
+33. §[^63]
 
-[^69]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
