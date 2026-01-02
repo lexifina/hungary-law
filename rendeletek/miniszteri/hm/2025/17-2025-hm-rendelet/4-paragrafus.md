@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 188. § (3) bekezdésében a „ , továbbá a 189. §” szövegrész,
-
-b) 194. § (2) bekezdés c) pontjában az „az igénylés benyújtásától számított két évnél korábban” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

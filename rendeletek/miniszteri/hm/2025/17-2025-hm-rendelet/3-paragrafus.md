@@ -1,3 +1,3 @@
-3. § Az R. 206. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) A támogatásban részesülő személy tulajdonában lévő vagy tulajdonába kerülő lakásra a kölcsönt folyósító pénzintézettel a tartozás erejéig és fennállásának tartamára – meglévő tulajdon esetén külön megállapodás alapján – a HM javára jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell bejegyeztetni az ingatlan-nyilvántartásba. A 187. § (1) bekezdés a) pontja szerinti jogcímen nyújtott munkáltatói kölcsön esetében, ha az igénylő a vételár megfizetéséhez lakáscélú pénzintézeti jelzáloghitelt is igénybe vesz, a bejegyzendő terhek vételárhoz viszonyított aránya meghaladhatja a (3) bekezdésben megjelölt arányt.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
