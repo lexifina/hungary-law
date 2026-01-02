@@ -1,7 +1,5 @@
 ## 3. Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet módosítása
 
-6. § Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] a következő 18. §-sal egészül ki:
+6. §[^6]
 
-„18. § (1) A Kbt. Második Része szerinti, kivitelezésre vagy kivitelezésre és az ahhoz kapcsolódó tervezésre együtt irányuló építési beruházás esetén az építőipari kivitelezési tevékenységet végző ajánlattevőnek, valamint az ajánlatában megnevezett, építőipari kivitelezési tevékenységet végző gazdasági szereplőnek legkésőbb a szerződéskötés időpontjáig szerepelnie szükséges a magyar építészetről szóló 2023. évi C. törvény szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében. A nyilvántartásban szereplés tényét az ajánlatkérő ellenőrzi a névjegyzéki adatok alapján.
-
-(2) A nem Magyarországon letelepedett gazdasági szereplők esetén – amennyiben a szerződés teljesítéséhez szükséges – a letelepedés szerinti ország nyilvántartásában szereplés, vagy a letelepedés szerinti országban előírt engedéllyel, jogosítvánnyal vagy szervezeti, kamarai tagsággal való rendelkezés követelményét szükséges igazolnia az építőipari kivitelezési tevékenységet végző nyertes ajánlattevőnek saját magára, illetve az ajánlatában megnevezett nem Magyarországon letelepedett, építőipari kivitelezési tevékenységet végző gazdasági szereplőre vonatkozóan.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

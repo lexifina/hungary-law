@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 322/2015. (X. 30.) Korm. rendelet 21. §-a.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
