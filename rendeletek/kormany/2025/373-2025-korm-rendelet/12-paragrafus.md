@@ -1,5 +1,3 @@
-12. § Hatályát veszti a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet
+12. §[^12]
 
-a) 6. § (2) bekezdés j) pont jd) alpontjában a „valamint” szövegrész,
-
-b) 12. § (4) bekezdése.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
