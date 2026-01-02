@@ -1,7 +1,3 @@
-## „i) vérzsír-tükör vizsgálat a túlsúlyos 18 év alattiak körében,
+10. §[^11]
 
-## j) túlsúlyos 18 év alattiak gondozása.”
-
-10. § (1) Az R6. 1. melléklete a 8. melléklet szerint módosul.
-
-(2) Az R6. 2. melléklete a 9. melléklet szerint módosul.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
