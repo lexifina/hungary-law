@@ -1,11 +1,3 @@
-## „5. melléklet az 2011. évi CLXIV. törvényhez
-
-## A II. fizetési osztály (ügyészségi fogalmazó) fizetési fokozatai és az azokhoz tartozó alapilletmények alsó és felső határai
-
-## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,86 | 1,07 | 3. | 2. | 2 | 3 | 0,9 | 1,12 | 4. | 3. | 4 | | 0,93 | 1,16
-
-## ”
-
 24. melléklet a 2024. évi LXXIV. törvényhez
 
 1. A 243. §(1) bekezdése szerint Pest Vármegye Önkormányzatának tulajdonából Göd Város Önkormányzatának tulajdonába kerülő ingatlanok
