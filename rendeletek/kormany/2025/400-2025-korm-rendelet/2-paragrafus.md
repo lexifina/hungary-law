@@ -1,3 +1,3 @@
-2. § A Rendelet 8. § (5) bekezdés a) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-[Az elemi rehabilitációs szolgáltató az (1)–(4) bekezdés szerinti szolgáltatási modulok biztosítása során]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
