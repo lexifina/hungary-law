@@ -1,9 +1,3 @@
-3. § Hatályát veszti a BM rendelet
+3. §[^4]
 
-a) 2/A. §-ában az „az irányítása alá tartozó” szövegrész,
-
-b) 3. § 7b., 7c. és 11a. pontja,
-
-c) 6. § (3) bekezdés e) pontja és
-
-d) 5/E. alcíme.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
