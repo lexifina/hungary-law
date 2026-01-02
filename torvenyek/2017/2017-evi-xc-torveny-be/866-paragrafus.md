@@ -60,6 +60,8 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 23. a büntetőeljárás során a pártfogó felügyelő tevékenységének a szabályait
 
+24. az online csalások megelőzése érdekében a végfelhasználóknak internethozzáférést nyújtó elektronikus hírközlési szolgáltatók által alkalmazandó védelmi intézkedések részletes szabályait, az általuk e célból üzemeltetendő technikai eszközök körét és a velük szemben támasztott műszaki követelményeket
+
 rendeletben megállapítsa.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy

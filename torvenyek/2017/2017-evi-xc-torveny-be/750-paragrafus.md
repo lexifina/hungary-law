@@ -2,7 +2,7 @@
 
 (2) Ha az ügyészség a bírósági eljárás távollévő terhelttel szembeni lefolytatását indítványozza, és annak feltételei fennállnak, akkor a bíróság tájékoztatja a terheltet arról, hogy
 
-a) a bíróság ez eljárást a terhelt távollétében folytatja,
+a) a bíróság az eljárást a terhelt távollétében folytatja,
 
 b) a védő kirendeléséről és a védő elérhetőségéről, ha az (1) bekezdés alapján védő kirendelésére került sor,
 
