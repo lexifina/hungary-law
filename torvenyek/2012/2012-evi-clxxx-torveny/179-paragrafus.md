@@ -60,4 +60,8 @@
 
 29. a 2005/671/IB tanácsi határozatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2023. október 4-i (EU) 2023/2123 európai parlamenti és tanácsi irányelvnek
 
+30. a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek,
+
+31. a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló 2016. október 26-i (EU) 2016/1919 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
