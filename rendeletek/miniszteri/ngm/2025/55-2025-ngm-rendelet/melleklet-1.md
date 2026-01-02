@@ -1,13 +1,3 @@
-1. melléklet az 55/2025. (XII. 29.) NGM rendelethez
+1. melléklet az 55/2025. (XII. 29.) NGM rendelethez[^4]
 
-A Rendelet 1. melléklet VI. pontjában foglalt táblázat 1. sora helyébe a következő rendelkezés lép:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 1. | ÉMI-TÜV SÜD Minőségügyi és Biztonságtechnikai Korlátolt Felelősségű Társaság | 13-09-072640 | 2026. december 31. |
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
