@@ -1,7 +1,3 @@
-## „11. melléklet a 2/2015. (II. 20.) IM rendelethez
+42. melléklet a 12/2025. (IX. 15.) IM rendelethez[^17]
 
-## 5X07360.pdf
-
-## ”
-
-42. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^17]: A 42. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

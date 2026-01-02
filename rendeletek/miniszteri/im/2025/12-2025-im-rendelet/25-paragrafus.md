@@ -1,3 +1,3 @@
-25. § A helyi népszavazási eljárás során a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a használandó nyomtatványokról szóló 2/2015. (II. 20.) IM rendelet (a továbbiakban: Hnr.) 23. §-a helyébe a következő rendelkezés lép:
+25. §[^2]
 
-„23. § A helyi népszavazási eljárásban használandó nyomtatványok mintáit a 2–11. melléklet állapítja meg.”
+[^2]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

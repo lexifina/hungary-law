@@ -1,7 +1,3 @@
-## „4. melléklet a 2/2015. (II. 20.) IM rendelethez
+40. melléklet a 12/2025. (IX. 15.) IM rendelethez[^15]
 
-## 5X07356.pdf
-
-## ”
-
-40. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^15]: A 40. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

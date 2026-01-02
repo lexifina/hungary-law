@@ -1,7 +1,3 @@
-## „16. melléklet a 9/2016. (VI. 28.) IM rendelethez
+53. melléklet a 12/2025. (IX. 15.) IM rendelethez[^28]
 
-## 5X07375.pdf
-
-## ”
-
-53. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^28]: Az 53. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

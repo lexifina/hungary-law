@@ -1,7 +1,3 @@
-## „9. melléklet a 2/2015. (II. 20.) IM rendelethez
+41. melléklet a 12/2025. (IX. 15.) IM rendelethez[^16]
 
-## 5X07359.pdf
-
-## ”
-
-41. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^16]: A 41. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

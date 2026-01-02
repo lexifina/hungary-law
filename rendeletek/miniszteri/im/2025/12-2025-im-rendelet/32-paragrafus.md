@@ -1,11 +1,5 @@
 ## 21. Hatályon kívül helyező rendelkezések
 
-32. § Hatályát veszti a Hnr.
+32. §[^9]
 
-a) 7. § (2) bekezdés b) pontjában az „ , illetve az értesítők postázásával” szövegrész,
-
-b) 7. § (2) bekezdés c) pontjában az „ , és a hitelesítésről értesíti az NVI-t” szövegrész,
-
-c) 11. § a) pontjában az „a központi névjegyzék és” szövegrész,
-
-d) 1. melléklete.
+[^9]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

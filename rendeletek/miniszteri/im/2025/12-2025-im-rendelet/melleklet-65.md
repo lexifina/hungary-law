@@ -1,7 +1,3 @@
-## „11. melléklet a 11/2024. (VII. 8.) IM rendelethez
+65. melléklet a 12/2025. (IX. 15.) IM rendelethez[^40]
 
-## 5X07399.pdf
-
-## ”
-
-65. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^40]: A 65. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

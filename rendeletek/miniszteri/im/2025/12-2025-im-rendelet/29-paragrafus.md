@@ -1,3 +1,3 @@
-## „d) ellátja a jegyzőkönyvek szkennelésével és továbbításával kapcsolatos feladatokat, valamint”
+29. §[^6]
 
-29. § Az Onr. 2–7. és 12–17. melléklete helyébe a 42–53. melléklet lép.
+[^6]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

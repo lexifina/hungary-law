@@ -1,3 +1,3 @@
-31. § (1) Az Iönkr. 1–13. melléklete helyébe az 54–66. melléklet lép.
+31. §[^8]
 
-(2) Az Iönkr. a 67–81. melléklet szerinti 14–28. melléklettel egészül ki.
+[^8]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „3. melléklet a 9/2016. (VI. 28.) IM rendelethez
+44. melléklet a 12/2025. (IX. 15.) IM rendelethez[^19]
 
-## 5X07363.pdf
-
-## ”
-
-44. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^19]: A 44. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

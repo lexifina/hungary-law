@@ -1,7 +1,3 @@
-## „2. melléklet a 9/2016. (VI. 28.) IM rendelethez
+43. melléklet a 12/2025. (IX. 15.) IM rendelethez[^18]
 
-## 5X07361.pdf
-
-## ”
-
-43. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^18]: A 43. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

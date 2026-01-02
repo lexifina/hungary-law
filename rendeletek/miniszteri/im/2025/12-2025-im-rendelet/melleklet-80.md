@@ -1,7 +1,3 @@
-## „26. melléklet a 11/2024. (VII. 8.) IM rendelethez
+80. melléklet a 12/2025. (IX. 15.) IM rendelethez[^55]
 
-## 5X07414.pdf
-
-## ”
-
-80. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^55]: A 80. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

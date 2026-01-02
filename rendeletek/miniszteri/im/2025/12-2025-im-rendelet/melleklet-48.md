@@ -1,7 +1,3 @@
-## „7. melléklet a 9/2016. (VI. 28.) IM rendelethez
+48. melléklet a 12/2025. (IX. 15.) IM rendelethez[^23]
 
-## 5X07369.pdf
-
-## ”
-
-48. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^23]: A 48. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

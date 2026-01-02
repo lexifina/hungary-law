@@ -1,7 +1,3 @@
-26. § A Hnr.
+26. §[^3]
 
-a) 8. § (1) bekezdés f) pontjában a „szavazóurnáknak” szövegrész helyébe a „szavazólapokat tartalmazó doboznak” szöveg,
-
-b) 8. § (2) bekezdés c) pontjában a „szavazóurnákat” szövegrész helyébe a „szavazólapokat tartalmazó dobozt” szöveg
-
-lép.
+[^3]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

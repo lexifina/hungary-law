@@ -1,7 +1,3 @@
-## „22. melléklet a 11/2024. (VII. 8.) IM rendelethez
+76. melléklet a 12/2025. (IX. 15.) IM rendelethez[^51]
 
-## 5X07410.pdf
-
-## ”
-
-76. melléklet a 12/2025. (IX. 15.) IM rendelethez
+[^51]: A 76. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
