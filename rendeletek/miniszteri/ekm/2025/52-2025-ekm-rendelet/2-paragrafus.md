@@ -1,0 +1,3 @@
+2. § A 9/2019. (VI. 14.) MvM rendelet 13. §-a helyébe a következő rendelkezés lép:
+
+„13. § Az általános mezőgazdasági terület övezetét a településrendezési eszközben, településtervben le kell határolni, és azt legalább 95%-ban általános mezőgazdasági területbe, tájgazdálkodási mezőgazdasági területbe, természetközeli területbe, vízgazdálkodási területbe, közlekedési területbe, védelmi célú erdőterületbe, rekreációs erdőterületbe vagy egyéb erdőterületbe kell sorolni. A fennmaradó területen nem jelölhető ki a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet 27. § (2) bekezdés 1., 2. és 16. pontja szerinti építési övezet.”
