@@ -1,7 +1,3 @@
-4. § (1)[^1]
+4. §[^5]
 
-(2) Az R. 1. melléklete helyébe a 2. melléklet lép.
-
-(3) Az R. 2. melléklete a 3. melléklet szerint módosul.
-
-[^1]: A 4. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

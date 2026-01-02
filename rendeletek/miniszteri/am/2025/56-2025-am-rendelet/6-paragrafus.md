@@ -1,7 +1,3 @@
-6. § Hatályát veszti az R.
+6. §[^7]
 
-a) 1. § d) pontja,
-
-b) 3. § (2a) bekezdése,
-
-c) 6. §-ában a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i” szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
