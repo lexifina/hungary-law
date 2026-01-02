@@ -1,3 +1,3 @@
-2. § Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(1) Ha a Hatóság megállapítja, hogy a kérelem vagy a hirdetmény, illetve az ellenőrzött közbeszerzési dokumentum nem felel meg a 10. § (8) bekezdés a)–e) pontjának valamelyikében foglaltaknak, a kérelmezőt – a hiány, illetve a jogszabályba ütköző előírás megjelölése mellett – a 9. § (1) és (2) bekezdése szerinti hirdetmények esetében a kérelem megküldését követő két munkanapon belül, a 9. § (3) bekezdése szerinti hirdetmények esetében a megküldésétől számított három munkanapon belül, a 9. § (4) és (5) bekezdése szerinti hirdetmények, valamint a közbeszerzési dokumentumok esetében a megküldésétől számított tíz munkanapon belül elektronikus úton hiánypótlásra hívja fel.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

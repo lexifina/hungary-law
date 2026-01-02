@@ -1,3 +1,3 @@
-3. § Az R. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) A Hatóság a 26. § szerinti hirdetmények vonatkozásában a 9–12. § szerinti eljárást követően az eredetileg megküldött, a javított vagy a hiánypótlásra válaszként megküldött hirdetményt a 9. § (1) és (2) bekezdése szerinti hirdetmények esetében annak megküldésétől számított két munkanapon belül, a 9. § (3) bekezdése szerinti hirdetmények esetében a megküldésétől számított három munkanapon belül, a 9. § (4) és (5) bekezdése szerinti hirdetmények esetében a megküldésétől számított tíz munkanapon belül adja fel a TED-en történő közzétételre.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
