@@ -1,1 +1,3 @@
-4. § Az R. 7/F. §-ában a „100. és 101.” szövegrész helyébe a „100., 101. és 107.” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
