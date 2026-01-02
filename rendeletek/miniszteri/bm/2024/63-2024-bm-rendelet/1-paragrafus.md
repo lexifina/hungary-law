@@ -28,6 +28,6 @@
 
 ## 1. A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet módosítása
 
-1. § A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet (a továbbiakban: R.) 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) Az egészségügyi törzslapot a vizsgálatot végző orvos feltölti az Elektronikus Egészségügyi Szolgáltatási Tér egészségügyi dokumentum-nyilvántartásába.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
