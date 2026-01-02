@@ -1,1 +1,3 @@
-2. § A 4/2009. (I. 30.) NFGM–SZMM együttes rendelet 2/A. § (2) és (5) bekezdésében az „által” szövegrész helyébe az „által az értékesítési helyen” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
