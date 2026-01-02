@@ -1,5 +1,3 @@
-10. § Hatályát veszti az R2.
+10. §[^11]
 
-a) 7. § (3) bekezdése,
-
-b) 15. § (1) bekezdése.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
