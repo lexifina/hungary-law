@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (3) bekezdés k) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet [a továbbiakban: 532/2017. (XII. 29.) Korm. rendelet] 23/B. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A légiközlekedési hatóság az engedélyt – a c) pont esetében közigazgatási szankcióként – visszavonja, ha]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
