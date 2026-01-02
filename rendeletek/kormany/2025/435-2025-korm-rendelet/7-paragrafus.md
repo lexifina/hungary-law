@@ -1,1 +1,3 @@
-7. § A Púévhr. 95/A. § (6) bekezdésében a „10 600” szövegrész helyébe a „11 660” szöveg lép.
+7. §[^4]
+
+[^4]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

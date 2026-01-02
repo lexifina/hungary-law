@@ -1,3 +1,3 @@
-4. § A Púévhr. 88. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^1]
 
-„(1) A Gyakornok fokozathoz tartozó havi illetmény a 2026. évben 705 000 Ft.”
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
