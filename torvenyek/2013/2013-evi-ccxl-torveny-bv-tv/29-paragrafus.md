@@ -8,7 +8,7 @@
 
 (5) Az elévülés határidejébe nem számít be
 
-a) a halasztás ideje, valamint a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás tartama,
+a) a halasztás, a büntetés-félbeszakítás és a 14. § szerinti végrehajtási sorrendre tekintettel történő megszakítás, valamint a szabadságvesztés, az elzárás és a közérdekű munka esetén a megelőzően megkezdett azonos nemű büntetés végrehajtásának időtartama,
 
 b) az a tartam, amely alatt a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés azért nem hajtható végre, mert a külföldi igazságügyi hatóság az elítélt kiadatásának vagy átadásának végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta,
 

@@ -1,6 +1,6 @@
 ## A fenyítések és a fegyelmi eljárás
 
-168. § (1) A büntetés-végrehajtás rendjét vétkesen megsértő elítélttel szemben, valamint a büntetés-végrehajtás rendjének és biztonságának biztosítása érdekében a következő fenyítések alkalmazhatók:
+168. § (1) A büntetés-végrehajtás rendjét szándékosan megsértő elítélttel szemben, valamint a büntetés-végrehajtás rendjének és biztonságának biztosítása érdekében a következő fenyítések alkalmazhatók:
 
 a) feddés,
 

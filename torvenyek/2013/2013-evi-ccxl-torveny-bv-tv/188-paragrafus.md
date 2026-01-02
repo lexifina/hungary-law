@@ -10,7 +10,7 @@ b) alaposan feltehető, hogy a büntetés célja további szabadságelvonás né
 
 a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tartamát és a büntetésből még végrehajtásra váró részt,
 
-b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
+b) az elítélt büntetés végrehajtása alatt tanúsított magatartását, kiemelten – a kezdeti kategória besoroláshoz és a szabadságvesztés letöltendő tartamához képest – a kategória-rendszerben való előmenetelét, valamint a visszaesési kockázatot csökkentő reintegrációs tevékenységben való részvételét,
 
 c) az elítéltnek az általa elkövetett bűncselekményhez való viszonyulását és a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
 
