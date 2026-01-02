@@ -1,1 +1,3 @@
-2. § Hatályát veszti a tájékoztatási célú adatkezelés veszélyhelyzeti szabályairól szóló 270/2025. (VIII. 13.) Korm. rendelet.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
