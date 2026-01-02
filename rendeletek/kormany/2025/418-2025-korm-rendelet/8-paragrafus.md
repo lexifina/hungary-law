@@ -1,1 +1,3 @@
-8. § A 96/2003. (VII. 15.) Korm. rendelet 25. § (7) bekezdésében a „vasutas igényjogosultakat ellátó egészségügyi szolgáltatók” szövegrész helyébe a „vasutas igényjogosultakat, valamint a Paksi Atomerőmű beruházás megvalósításában közreműködő gazdálkodó szervezet által foglalkoztatott biztosítottakat ellátó egészségügyi szolgáltatók” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
