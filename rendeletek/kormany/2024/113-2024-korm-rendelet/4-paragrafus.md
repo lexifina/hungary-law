@@ -1,1 +1,3 @@
-4. § Az anyakönyvezési feladatok ellátásának részletes szabályairól szóló 429/2017. (XII. 20.) Korm. rendelet az 1. melléklet szerinti 6a. melléklettel egészül ki.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
