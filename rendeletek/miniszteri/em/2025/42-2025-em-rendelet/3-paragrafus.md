@@ -1,5 +1,3 @@
-3. § Hatályát veszti az állami tulajdonú közüzemi vízműből szolgáltatott ivóvízért, illetőleg az állami tulajdonú közüzemi csatornamű használatáért fizetendő díjakról szóló 47/1999. (XII. 28.) KHVM rendelet
+3. §[^1]
 
-a) 3. §-a,
-
-b) 2. számú melléklete.
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
