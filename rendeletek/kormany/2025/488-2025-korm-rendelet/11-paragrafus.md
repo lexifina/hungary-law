@@ -1,1 +1,3 @@
-11. § A 821/2021. (XII. 28.) Korm. rendelet 10. § (5) bekezdésében az „a bio-etil-tercier-butiléter literben meghatározott mennyiségének 47,57%-a” szövegrész helyébe az „a bio-etil-tercier-butiléter literben meghatározott mennyiségének legfeljebb 42,43%-a” szöveg lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. § A 821/2021. (XII. 28.) Korm. rendelet 27. § (1) bekezdése a következő f) ponttal egészül ki:
+9. §[^10]
 
-(Ez a rendelet)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

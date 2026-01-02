@@ -1,1 +1,3 @@
-12. § Hatályát veszti a 821/2021. (XII. 28.) Korm. rendelet 1. § 29. pontja.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
