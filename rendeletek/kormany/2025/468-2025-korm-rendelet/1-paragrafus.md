@@ -16,26 +16,6 @@
 
 ## 1. A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet módosítása
 
-1. § (1) A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (2d) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2d) A Nemzeti Informatikai Eszközkezelési Rendszer (a továbbiakban: NITEK) felé adatszolgáltatásra köteles és e rendelet 3/A. alcíme szerint jár el:
-
-a) a (2) bekezdés a)–d) pontja szerinti szervezet – a (2a) és (2b) bekezdés szerinti szervezet kivételével –, és
-
-b) a NITEK-hez a 14/B. § (3) bekezdése szerint önkéntesen csatlakozó szervezet.”
-
-(2) Az R. 1. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(E rendelet meghatározza)
-
-## „e) a kormányzati központosított információ-technológiai (a továbbiakban: IT) eszközgazdálkodási rendszer részletes szabályait, ennek részeként a szoftverlicenc-gazdálkodási rendszer egyes szabályait, valamint e rendeletben meghatározott szoftverlicenc-gazdálkodási szolgáltatásokért fizetendő díjat (a továbbiakban: szoftverlicenc-gazdálkodási díj),”
-
-(3) Az R. 1. § (3) bekezdése a következő j) ponttal egészül ki:
-
-(E rendelet meghatározza)
-
-## „j) a NITEK csatlakozó szervezeteit, azok adatszolgáltatási és díjfizetési kötelezettségét, a DKÜ közfeladatként ellátott nyilvántartás-vezetési és az eszközéletút-menedzsment feladatait.”
-
-(4) Az R. 1. § (4) bekezdése a következő 8d. és 8e. ponttal egészül ki:
-
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
