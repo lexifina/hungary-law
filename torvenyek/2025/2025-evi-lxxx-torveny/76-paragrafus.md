@@ -1,1 +1,1 @@
-76. § A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (18) bekezdésében az „a (19) bekezdés a)–c) és e)–f) pontja” szövegrész helyébe az „a (19) bekezdés c) és e)–g) pontja” szöveg lép.
+### 76. §

@@ -1,5 +1,1 @@
-## „zs) a lakcímre, az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozás tényén és idején kívüli – kikerülés okára és idejére vonatkozó adatok kivételével az Integritás Hatóság a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról szóló nyilvántartással összefüggő feladatai ellátásához.”
-
-24. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/J. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásából a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. A tájékoztatás a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége tényét közhitelesen tanúsítja.”
+### 24. §

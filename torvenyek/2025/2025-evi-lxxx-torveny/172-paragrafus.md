@@ -1,3 +1,3 @@
 ## 71. A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény módosítása
 
-172. § A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 8/A. § (5) bekezdésében a „személyes adatainak kivételével” szövegrész helyébe a „természetes személyazonosító adatai, valamint a gazdálkodó szervezet cégnyilvántartásban szereplő adatai kivételével” szöveg lép.
+### 172. §
