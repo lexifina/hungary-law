@@ -1,1 +1,3 @@
-13. § Hatályát veszti az 58/2024. (XII. 3.) MNB rendelet.
+13. §[^1]
+
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
