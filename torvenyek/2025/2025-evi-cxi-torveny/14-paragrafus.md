@@ -2,8 +2,8 @@
 
 a)
 
-b) 16. § (6) bekezdésében az „a Magyar Közlönyben” szövegrész helyébe az „az Alkotmánybíróság Határozatai hivatalos lapban” szöveg,
+b)
 
-c) 70. § (2) bekezdésében az „a Magyar Közlönyben” szövegrész helyébe az „az Alkotmánybíróság Határozatai hivatalos lapban” szöveg
+c)
 
 lép.
