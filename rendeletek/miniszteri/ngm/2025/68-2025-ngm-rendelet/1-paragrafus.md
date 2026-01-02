@@ -4,4 +4,6 @@
 
 ## [3] Az adózás rendjéről szóló 2017. évi CL. törvény 269. § (10) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 13/2020. (XII. 23.) PM rendelet 4. § a) pontjában a „Katonai Nemzetbiztonsági Szolgálat, továbbá a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szerv” szövegrész helyébe a „rendvédelmi szerv, a nemzetbiztonsági szolgálat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
