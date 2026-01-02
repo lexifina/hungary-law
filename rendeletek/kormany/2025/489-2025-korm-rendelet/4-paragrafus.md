@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 221/2025. (VII. 24.) Korm. rendelet 3. § (11) bekezdés e) pontja.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
