@@ -1,5 +1,3 @@
-## „f) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2024. november 27-i (EU) 2024/3018 európai parlamenti és tanácsi rendelet”
+3. §[^4]
 
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-3. § Az Stt. Vhr. az 1. melléklet szerinti 9. melléklettel egészül ki.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
