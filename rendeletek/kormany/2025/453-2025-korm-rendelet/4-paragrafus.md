@@ -1,3 +1,3 @@
-4. § A 40/2013. (II. 14.) Korm. rendelet 46. §-a a következő (5a) bekezdéssel egészül ki:
+4. §[^4]
 
-„(5a) Ha a visszamenőleges értékelés a (2) bekezdés a)–d) pontja szerinti adatok hiányossága miatt nem végezhető el, az élelmiszerlánc-biztonsági és állategészségügyi hatóság a (2) bekezdés a)–d) pontja szerinti adatok kiegészítésére és ismételt benyújtásra kötelezi a felhasználót.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
