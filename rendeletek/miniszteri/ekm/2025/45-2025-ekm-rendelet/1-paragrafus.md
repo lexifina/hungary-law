@@ -2,6 +2,6 @@
 
 ## [2] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A fizetési közreműködő egyetemes útdíjszolgáltató általi igénybevételének részletes szabályairól szóló 20/2025. (VI. 30.) ÉKM rendelet 5. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) Az (1) bekezdés c) pontját és a (2) bekezdést nem kell alkalmazni olyan fizetési közreműködő tekintetében, amelyben az állam közvetlen vagy közvetett meghatározó befolyással rendelkezik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
