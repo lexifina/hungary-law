@@ -1,3 +1,3 @@
-28. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 165. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+28. §[^10]
 
-(Az államháztartás információs rendszerében)
+[^10]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
