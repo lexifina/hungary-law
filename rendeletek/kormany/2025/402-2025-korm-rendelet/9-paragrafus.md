@@ -1,5 +1,3 @@
-9. § Hatályát veszti a Vhr.
+9. §[^10]
 
-a) 13. § (3) bekezdése, valamint
-
-b) 10. alcíme.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
