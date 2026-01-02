@@ -1,0 +1,7 @@
+## 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
+
+17. § Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Ávt.) 1. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogainak gyakorlása következtében, vagy azzal összefüggésben kerül sor – különösen a szabálysértési és büntetőeljárásban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon –, ide nem értve a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 318. § (4a) és (4b) bekezdésében meghatározott, állami tulajdonba került gépjárművet, valamint azt a vagyont, amely az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-a és 125/D. §-a szerinti eljárás útján kerül állami tulajdonba.
+
+(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására.”

@@ -1,0 +1,1 @@
+61. § Hatályát veszti a Be. 234. § (2) bekezdés b) pontjában az „a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés,” szövegrész.
