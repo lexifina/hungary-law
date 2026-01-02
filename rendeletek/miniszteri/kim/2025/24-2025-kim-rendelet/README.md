@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-24-20-8
 | 2025-11-07 | 2025-24-20-8O.1 | 24/2025. (XI. 6.) KIM rendelet |
 | 2025-11-08 | 2025-24-20-8O.2 | 2010. évi CXXX. törvény |
 | 2026-01-01 | 2025-24-20-8O.3 | 25/2025. (XII. 29.) KIM rendelet |
+| 2026-01-02 | 2025-24-20-8O.4 | 2010. évi CXXX. törvény |

@@ -1,3 +1,3 @@
-1. melléklet a 24/2025. (XI. 6.) KIM rendelethez[^22]
+1. melléklet a 24/2025. (XI. 6.) KIM rendelethez[^21]
 
-[^22]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
