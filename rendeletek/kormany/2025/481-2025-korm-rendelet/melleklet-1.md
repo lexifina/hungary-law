@@ -1,13 +1,3 @@
-1. melléklet a 481/2025. (XII. 31.) Korm. rendelethez
+1. melléklet a 481/2025. (XII. 31.) Korm. rendelethez[^8]
 
-A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet 3. számú mellékletében foglalt táblázat a következő 17. sorral egészül ki:
-
-|  | [A | B |
-
-|  | A szakkérdés (vizsgálat) megjelölése | Illetékes állami szerv] |
-
-„
-
-| 17. | Kriminalisztikai digitális nyomszakértői vizsgálat | NSZKK, Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
-
-”
+[^8]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

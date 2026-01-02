@@ -1,7 +1,3 @@
-6. § Hatályát veszti a Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet
+6. §[^7]
 
-a) 2. § (6) bekezdése,
-
-b) 7. § (1) bekezdés e) pontja,
-
-c) 8. § (4) bekezdése.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

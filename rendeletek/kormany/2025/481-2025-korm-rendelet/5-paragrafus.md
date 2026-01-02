@@ -1,7 +1,3 @@
-5. § A Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet
+5. §[^6]
 
-a) 9. § (2) bekezdésében a „szolgáltatásával kapcsolatos” szövegrész helyébe a „ , valamint az MI kereső szolgáltatásával kapcsolatos” szöveg,
-
-b) 9. § (3) bekezdés nyitó szövegrészében a „vonatkozásában kizárólagosan” szövegrész helyébe a „ , továbbá az MI kereső vonatkozásában kizárólagosan” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
