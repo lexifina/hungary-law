@@ -319,3 +319,5 @@ A tábla egyes oszlopai
 26. oszlop: a tőzsdetag kereskedői felhasználóneve, amellyel a kereskedési rendszerbe belépett az adott ajánlati műveletet megelőző ajánlati művelet elvégzéséhez.
 
 27. oszlop: tagi vállalkozáson belül a megelőző befektetési döntésért felelős személy vagy algoritmus azonosítója. Az (EU) 2017/590 felhatalmazáson alapuló bizottsági rendelet I. melléklet 2. táblázat 57. mezőjében foglaltak szerint töltendő ki.
+
+29. oszlop: kódtár („Ajánlat típusok kódtára”) szerint.
