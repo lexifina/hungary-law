@@ -1,7 +1,3 @@
-## „
+6. melléklet a 48/2025. (XII. 8.) BM rendelethez[^10]
 
-| 301/a. | 86601 | Barrett-nyelőcső kezelése rádiófrekvenciás ablációval | 06P 2730 | Nyelőcső kisebb műtétei |
-
-## ”
-
-6. melléklet a 48/2025. (XII. 8.) BM rendelethez
+[^10]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

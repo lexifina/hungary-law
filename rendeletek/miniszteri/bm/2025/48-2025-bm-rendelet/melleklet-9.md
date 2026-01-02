@@ -1,13 +1,3 @@
-## Az R2. 5. mellékletében foglalt táblázat a következő 437. sorral egészül ki:
+9. melléklet a 48/2025. (XII. 8.) BM rendelethez[^13]
 
-|  | (A | B |
-
-|  | OENO kód | Egészségügyi eljárás) |
-
-## „
-
-| 437. | 87050 | Tartós katéter behelyezése visszatérő folyadékgyülem lecsapolásához |
-
-## ”
-
-9. melléklet a 48/2025. (XII. 8.) BM rendelethez
+[^13]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
