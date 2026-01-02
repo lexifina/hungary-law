@@ -1,7 +1,3 @@
-## „2a. komplex szolgáltatás: azon szolgáltatások összessége, melyet a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (IX. 14.) Korm. rendelet 1. § (1) bekezdés a) pont aa) alpontja szerinti központi informatikai infrastruktúra és infokommunikációs szolgáltató, valamint az e rendelet szerinti kormányzati célú hírközlési szolgáltató egy csomagban nyújt a felhasználók részére. A komplex szolgáltatás szolgáltatója a központi informatikai infrastruktúra és infokommunikációs szolgáltató azzal, hogy a csomag részét képező kormányzati célú hírközlési szolgáltatásokat a központi informatikai infrastruktúra és infokommunikációs szolgáltató közvetített szolgáltatásként nyújtja. A központi informatikai infrastruktúra és infokommunikációs szolgáltató a komplex szolgáltatást egykapus módon, a felhasználók teljes körű kiszolgálásával, kezelésével nyújtja, melynek keretében ügyfélkapcsolatot biztosít;”
+6. §[^6]
 
-6. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. § (5) bekezdése helyébe a következő rendelkezés lép, és a § a következő (6) bekezdéssel egészül ki:
-
-„(5) Komplex szolgáltatás esetén a felhasználókkal való ügyfélkapcsolat biztosítását a NISZ Zrt. látja el, a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben meghatározottak szerint.
-
-(6) A kormányzati célú hírközlési szolgáltató a szolgáltatáskatalógusában határozza meg az általa nyújtott szolgáltatások körét és szakmai-műszaki tartalmát.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

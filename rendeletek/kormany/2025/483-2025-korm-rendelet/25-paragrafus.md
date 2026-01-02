@@ -1,5 +1,3 @@
-25. § Hatályát veszti a Dápvhr.
+25. §[^25]
 
-a) 6. § (3) bekezdés nyitó szövegrészében az „(a továbbiakban: alkalmazás-szolgáltatás)” szövegrész, valamint
-
-b) 7. § (1) bekezdés nyitó szövegrészében az „alkalmazás-szolgáltatás” szövegrész.
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

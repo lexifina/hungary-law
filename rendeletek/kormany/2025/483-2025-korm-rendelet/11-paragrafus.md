@@ -1,1 +1,3 @@
-11. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. § (4) bekezdésében az „Az e rendelet szerinti kormányzati célú hírközlési szolgáltatásokhoz kapcsolódó, a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet alapján ellátott” szövegrész helyébe az „A kormányzati célú hírközlési szolgáltatásokhoz kapcsolódó, a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti,” szöveg lép.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-39. § A 341/2024. (XI. 14.) Korm. rendelet 15. § (5) bekezdése helyébe a következő rendelkezés lép:
+39. §[^39]
 
-„(5) 2026. január 1-jét követő 120 napon belül a Felügyelet hivatalból – az érintett központi szolgáltató bevonásával – teljeskörűen felülvizsgálja az (1) bekezdés a) pontja szerinti kötelezettségeket, és a felülvizsgálat eredményétől függően hatósági határozatában állapítja meg az (1) bekezdés a) pontja szerinti alkalmazások tekintetében a központosított alkalmazás-üzemeltetési és alkalmazás-fejlesztési szolgáltatások kötelező igénybevételét. A szolgáltatási szintekre, valamint a norma szerinti alapszintű, norma feletti alapszintű és emelt szintű szolgáltatások finanszírozására vonatkozó döntést a Felügyelet a 18. § (1) bekezdésében meghatározott időpontot követően hozza meg.”
+[^39]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

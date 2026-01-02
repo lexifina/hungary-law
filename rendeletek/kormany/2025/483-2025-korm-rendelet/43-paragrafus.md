@@ -1,5 +1,3 @@
-43. § Hatályát veszti a 341/2024. (XI. 14.) Korm. rendelet
+43. §[^43]
 
-a) 17. §-a,
-
-b) 17/A. § (2) bekezdés b) pontja.
+[^43]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

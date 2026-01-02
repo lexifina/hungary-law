@@ -30,6 +30,6 @@
 
 ## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
 
-1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet [a továbbiakban: 146/1993. (X. 26.) Korm. rendelet] 16. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^1]
 
-„(1b) Az (EU) 2022/1463 bizottsági végrehajtási rendelet 2. cikke szerinti, az egyszeri adatszolgáltatást támogató technikai rendszeren keresztüli igazolásra irányuló kérelem esetén a polgár természetes személyazonosító adatait és bejelentett lakcímét a nyilvántartást kezelő szerv által továbbított adatok alapján a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet [a továbbiakban: 322/2024. (XI. 6.) Korm. rendelet] szerinti személyre szabott ügyintézési felület szolgáltatója által digitálisan előállított hitelesített igazolással igazolhatja.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

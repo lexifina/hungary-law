@@ -1,9 +1,3 @@
-32. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet HATODIK RÉSZE a következő XXIII/B. Fejezettel egészül ki:
+32. §[^32]
 
-„XXIII/B. Fejezet
-
-ELEKTRONIKUS AZONOSÍTÁSI RENDSZEREK TANÚSÍTÁSA
-
-150/F. § (1) A (2) bekezdésben foglalt kivétellel az elektronikus azonosítási rendszer eIDAS Rendelet 12a. cikke szerinti tanúsítását az a megfelelőségértékelő szervezet végezheti, amelyet az Szabályozott Tevékenységek Felügyeleti Hatósága – a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló rendelete szerint – „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállítására vonatkozó feltételeknek megfelelő megfelelőségértékelő szervezetként nyilvántartásba vett.
-
-(2) Ha az (1) bekezdés szerinti tanúsítást az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) szóló, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti releváns kiberbiztonsági tanúsítási rendszer vagy annak részei keretében kell elvégezni, a tanúsítást a kiberbiztonsági tanúsítási rendszer tekintetében megfelelőségértékelő tevékenység lefolytatására jogosult megfelelőségértékelő szervezet folytatja le.”
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

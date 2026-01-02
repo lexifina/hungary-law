@@ -1,3 +1,3 @@
-23. § (1) A Dápvhr. 2. melléklete a 2. melléklet szerint módosul.
+23. §[^23]
 
-(2) A Dápvhr. 3. melléklete a 3. melléklet szerint módosul.
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-15. § Hatályát veszti a 429/2017. (XII. 20.) Korm. rendelet
+15. §[^15]
 
-a) 1. § (3) bekezdése,
-
-b) 1. melléklet 2. pont b) alpontja.
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

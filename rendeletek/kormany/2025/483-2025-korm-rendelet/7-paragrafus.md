@@ -1,13 +1,3 @@
-7. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 2. alcíme a következő 8/B. §-sal egészül ki:
+7. §[^7]
 
-„8/B. § (1) A kormányzati célú hírközlési szolgáltató a DMÜ által jóváhagyott szolgáltatáskatalógusában előre meghatározza a tárgyévet követő évre vonatkozóan az általa nyújtott szolgáltatások körét és pontos műszaki tartalmát.
-
-(2) A tárgyévet követő évre vonatkozó szolgáltatáskatalógus tervezetét a kormányzati célú hírközlési szolgáltató tárgyév szeptember 30. napjáig köteles megküldeni a DMÜ részére jóváhagyásra.
-
-(3) A szolgáltatáskatalógus jóváhagyásáról a DMÜ 30 napon belül dönt, amelyről haladéktalanul tájékoztatja a kormányzati célú hírközlési szolgáltatót.
-
-(4) A jóváhagyást követően a kormányzati célú hírközlési szolgáltató közzéteszi a jóváhagyott szolgáltatáskatalógust.
-
-(5) A szolgáltatáskatalógus felülvizsgálatát a kormányzati célú hírközlési szolgáltató a tárgyév során egyszer kezdeményezheti.
-
-(6) A szolgáltatáskatalógus felülvizsgálata során a kormányzati célú hírközlési szolgáltató felülvizsgálja a szolgáltatások körét és szakmai-műszaki tartalmát, és javaslatot tesz az esetlegesen már nem költséghatékony, más szolgáltatással kiváltható, helyettesíthető szolgáltatások kivezetésére, illetve új szolgáltatások bevezetésére.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

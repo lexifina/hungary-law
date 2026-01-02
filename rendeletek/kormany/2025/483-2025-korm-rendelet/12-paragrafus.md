@@ -1,5 +1,3 @@
-12. § Hatályát veszti a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet
+12. §[^12]
 
-a) 18. § (1) bekezdésében az „– az 5. § (6) bekezdésének megfelelően –” szövegrész,
-
-b) 18. § (3) bekezdésében az „– a 8. § (6)–(7) bekezdésében foglaltaktól eltérően –” szövegrész.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

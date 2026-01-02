@@ -1,1 +1,3 @@
-37. § Hatályát veszti a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 3. melléklet 2. pontja.
+37. §[^37]
+
+[^37]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
