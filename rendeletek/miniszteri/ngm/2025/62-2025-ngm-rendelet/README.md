@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-62-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-01-01 | 2025-62-20-2X.1 | 62/2025. (XII. 30.) NGM rendelet |
+| 2026-01-02 | 2025-62-20-2X.2 | 2010. évi CXXX. törvény |
