@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 9/2019. (VI. 14.) MvM rendelet
+5. §[^6]
 
-a) 6. § (2) bekezdésében az „a településrendezési eszközökben, a jogszerűen kijelölt beépítésre szánt területen” szövegrész,
-
-b) 6. § (3) bekezdése.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
