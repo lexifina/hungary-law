@@ -2,7 +2,7 @@
 
 A tulajdonilap-másolat szolgáltatása iránti kérelem adattartalma
 
-A tulajdonilap-másolat szolgáltatása iránti kérelem az alábbi adatokat tartalmazza:
+## A tulajdonilap-másolat szolgáltatása iránti kérelem az alábbi adatokat tartalmazza:
 
 1. tulajdonilap-másolatot igénylő természetes személy neve, anyja születési családi és utóneve, születési helye, születési ideje;
 

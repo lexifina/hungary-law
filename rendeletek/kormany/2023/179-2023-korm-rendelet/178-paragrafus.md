@@ -1,3 +1,3 @@
-178. §[^143]
+178. §[^149]
 
-[^143]: A 178. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^149]: A 178. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

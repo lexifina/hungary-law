@@ -8,7 +8,7 @@ ab) bejegyzendő jog vagy tény kötelezettje,
 
 ac) törlendő jog vagy tény jogosultja;
 
-b)[^94]
+b)[^97]
 
 c) haszonélvezeti jog és használat jogának bejegyzése iránti kérelem esetén a bejegyzett vagyonkezelői jog jogosultja;
 
@@ -30,4 +30,4 @@ d) az ingatlan több tulajdonosa közül, ha a bejegyzendő jog vagy tény nem a
 
 (5) Az (1) bekezdés a) pont ac) alpontjától eltérően szerződésen alapuló elővásárlási jog törléséhez nem szükséges annak a törlésre kerülő elővásárlási jogra jogosultnak a meghatalmazása, aki az elővásárlás jogával nem élt, amennyiben az elővásárlási jog törlésére az új tulajdonos bejegyzésével egyidejűleg egyoldalú tulajdonosi jognyilatkozat alapján kerül sor.
 
-[^94]: A 114. § (1) bekezdés b) pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § c) pontja alapján nem lép hatályba.
+[^97]: A 114. § (1) bekezdés b) pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § c) pontja alapján nem lép hatályba.

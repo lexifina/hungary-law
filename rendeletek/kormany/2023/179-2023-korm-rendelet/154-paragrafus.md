@@ -24,13 +24,13 @@ b) a jelzálogjog, önálló zálogjog ranghelye fenntartásának tényét az ez
 
 c) az elő- és visszavásárlási jogot, a vételi jogot, az eladási jogot, a tulajdonjog-fenntartáshoz kapcsolódó vevői jogra, a tulajdonjog-fenntartásra, valamint a jövőbeli épületre vonatkozó vevői jogra vonatkozó bejegyzést az ezeken alapuló tulajdonszerzés,
 
-d)[^125] az öröklési szerződésen alapuló elidegenítési és terhelési tilalmat a szerződéses örökös vagy jogutódja tulajdonjogának,,
+d)[^129] az öröklési szerződésen alapuló elidegenítési és terhelési tilalmat a szerződéses örökös vagy jogutódja tulajdonjogának,,
 
 e) a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét az ingatlan elidegenítése esetén a szerző tulajdonjogának
 
 bejegyzésével egyidejűleg.
 
-(4a)[^126] Hivatalból törölni kell az ingatlan-nyilvántartásból az alzálogjogot annak a jelzálogjognak vagy önálló zálogjognak a törlésével egyidejűleg, amelyet az alzálogjog terhel.
+(4a)[^130] Hivatalból törölni kell az ingatlan-nyilvántartásból az alzálogjogot annak a jelzálogjognak vagy önálló zálogjognak a törlésével egyidejűleg, amelyet az alzálogjog terhel.
 
 (5) A 129. § szerinti ténybejegyzést a jogorvoslati határidő lejártakor vagy – amennyiben a döntés ellen közigazgatási per indult – a jogorvoslati kérelemre vonatkozó tény törlésével egyidejűleg hivatalból kell törölni.
 
@@ -44,5 +44,5 @@ c) azt a haszonélvezeti, özvegyi, tartási, életjáradéki vagy gondozási jo
 
 (7) Öröklési szerződés esetén, ha az örökhagyóval szerződő fél az örökhagyó előtt halt meg, az elidegenítési és terhelési tilalom ebből az okból nem törölhető.
 
-[^125]: A 154. § (4) bekezdés d) pontja a 483/2024. (XII. 31.) Korm. rendelet 25. § 14. pontja szerint módosított szöveg.
-[^126]: A 154. § (4a) bekezdését a 287/2024. (IX. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^129]: A 154. § (4) bekezdés d) pontja a 483/2024. (XII. 31.) Korm. rendelet 25. § 14. pontja szerint módosított szöveg.
+[^130]: A 154. § (4a) bekezdését a 287/2024. (IX. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.

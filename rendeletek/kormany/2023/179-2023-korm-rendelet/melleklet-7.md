@@ -2,7 +2,7 @@
 
 Az ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása iránti kérelem adattartalma
 
-Az ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása iránti kérelem az alábbi adatokat tartalmazza:
+## Az ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása iránti kérelem az alábbi adatokat tartalmazza:
 
 1. a kérelmező neve, anyja születési családi és utóneve, születési helye, születési ideje;
 

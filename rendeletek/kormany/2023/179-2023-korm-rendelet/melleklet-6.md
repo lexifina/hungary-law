@@ -2,7 +2,7 @@
 
 A tulajdoni lapba történő betekintés iránti kérelem adattartalma
 
-A tulajdoni lapba történő betekintés iránti kérelem az alábbi adatokat tartalmazza:
+## A tulajdoni lapba történő betekintés iránti kérelem az alábbi adatokat tartalmazza:
 
 1. a betekintő természetes személy neve, anyja születési családi és utóneve, születési helye, születési ideje;
 

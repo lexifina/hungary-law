@@ -2,7 +2,7 @@
 
 Az ingatlan adataiban bekövetkezett változás bejegyzése iránti kérelem adattartalma
 
-Az ingatlan adataiban bekövetkezett változás bejegyzése iránti kérelem az alábbi adatokat tartalmazza:
+## Az ingatlan adataiban bekövetkezett változás bejegyzése iránti kérelem az alábbi adatokat tartalmazza:
 
 1. a kérelmező családi és utóneve;
 
