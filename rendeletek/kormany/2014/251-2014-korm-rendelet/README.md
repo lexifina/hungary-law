@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-251-20-
 | 2018-01-01 | 2014-251-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2014-251-20-22.6 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2014-251-20-22.7 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-01-03 | 2014-251-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
