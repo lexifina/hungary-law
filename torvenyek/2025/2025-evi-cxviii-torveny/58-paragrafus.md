@@ -34,7 +34,7 @@
 
 17.
 
-18. 750. § (2) bekezdés a) pontjában az „ez” szövegrész helyébe az „az” szöveg,
+18.
 
 19.
 

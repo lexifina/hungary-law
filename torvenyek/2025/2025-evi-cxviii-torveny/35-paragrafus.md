@@ -1,7 +1,1 @@
-35. § A Bv. tv. 142. §-a a következő (5)–(7) bekezdéssel egészül ki:
-
-„(5) Az elítélt a jogszabályban előírt élettér hiányából eredő alapvető jogokat sértő elhelyezési körülmények miatt – írásban – közvetlenül panasszal élhet a bv. intézet parancsnokához. A panaszt a benyújtástól számított tizenöt napon belül kell elbírálni azzal, hogy a (2) bekezdés a) pontja alkalmazásának nincs helye. A panaszt és az elbírálásának eredményét a jogszabályhely megjelölésével kell nyilvántartani.
-
-(6) Ha a panasz alapos, a bv. intézet parancsnoka a 75/I. §-ban foglaltak szerint jár el azzal, hogy ha e körülmény megszüntetése sem az adott bv. intézeten belül, sem átszállítással nem oldható meg, a bv. intézet parancsnoka a sérelem ellensúlyozása érdekében – az e körülmények között töltött napok számával arányosan – kedvezményt biztosíthat az elítéltnek, így különösen a szabad levegőn tartózkodás időtartamának, illetve az egyes kapcsolattartási formák gyakoriságának vagy időtartamának megnövelése, a személyes szükségletekre fordítható összeg, illetve a vásárlások gyakoriságának megnövelése, a jogszabályban meghatározott többletszolgáltatás ingyenes biztosítása, a kondicionáló terem használatának, illetve közös sport- vagy kulturális eseményen való részvétel engedélyezése által.
-
-(7) A panasz benyújtása nem tekinthető kártalanítási kérelemnek. Ha a panasz tartalmából ez egyértelműen nem állapítható meg, az elítéltet nyilatkoztatni kell, és szükség szerint tájékoztatást kell adni részére a kártalanítási kérelem benyújtásának feltételeiről.”
+### 35. §
