@@ -1,1 +1,0 @@
-Az Országgyűlés az „elérhető fogyasztóvédelem” elvének fokozottabb érvényesítése, a családok és a kiszolgáltatott fogyasztók, különösen a gyermekek testi épségének és egészségének fokozottabb védelme, továbbá a hulladékgazdálkodást érintő hatósági eljárások egyszerűsítése érdekében és Magyarország versenyképességének növelése érdekében a következő törvényt alkotja:
