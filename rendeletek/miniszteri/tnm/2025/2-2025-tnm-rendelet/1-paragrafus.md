@@ -1,7 +1,0 @@
-## [1] A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet módosításának célja, hogy a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvényben foglaltakra figyelemmel, a jogrendszer egységességét fenntartva, a 2026. év tekintetében az érintett előirányzatok kezelési és felhasználási szabályairól rendelkezzen.
-
-## [2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdés a) pont ab)−ag) alpontjában kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 11. alpont a) pontjában meghatározott feladatkörömben eljárva − a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben − a következőket rendelem el:
-
-1. §[^2]
-
-[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
