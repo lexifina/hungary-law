@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-115-20-
 | 2024-01-01 | 2021-115-20-22.3 | 561/2023. (XII. 14.) Korm. rendelet |
 | 2024-03-01 | 2021-115-20-22.4 | 24/2024. (II. 14.) Korm. rendelet |
 | 2024-10-25 | 2021-115-20-22.5 | 308/2024. (X. 24.) Korm. rendelet |
+| 2026-01-04 | 2021-115-20-22.6 | 408/2025. (XII. 19.) Korm. rendelet |

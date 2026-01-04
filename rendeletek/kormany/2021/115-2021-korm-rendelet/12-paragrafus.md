@@ -8,4 +8,6 @@ b) a hatósági ellenőrzés megkezdését követően létesült, a jogviszony l
 
 c) a hatósági ellenőrzés megkezdésekor már megszűnt, a jogviszony megszűnésének napja.
 
-(2) Ha a felek a foglalkoztatásra irányuló jogviszonyt a jognyilatkozat alakszerűségére vonatkozó rendelkezések megtartásával létesítették, a foglalkoztatót csak a bejelentési kötelezettség teljesítésére kell kötelezni.
+(2)[^9] Ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tett eleget, az Fftv. 10. § (2) bekezdése szerinti bejelentés teljesítésére akkor is kötelezni kell, ha a felek a foglalkoztatásra irányuló jogviszonyt a jognyilatkozat alakszerűségére vonatkozó rendelkezések megtartásával létesítették.
+
+[^9]: A 12. § (2) bekezdése a 408/2025. (XII. 19.) Korm. rendelet 14. §-ával megállapított szöveg.

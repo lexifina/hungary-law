@@ -22,11 +22,11 @@ d) a munka- és pihenőidőre,
 
 e) az ellenérték megfizetésére,
 
-f)[^2] a jogviszony megszűnésével összefüggő igazolás kiállítására és kiadására, valamint az elszámolás megtörténtére, valamint
+f)[^3] a jogviszony megszűnésével összefüggő igazolás kiállítására és kiadására, valamint az elszámolás megtörténtére, valamint
 
 g) a munkaerő-kölcsönzésre, valamint a munkaerő-kölcsönzési tevékenység végzésére
 
-h)[^3] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására, ideértve a harmadik országbeli állampolgár minősített kölcsönbeadónál történő foglalkoztatására, a harmadik országbeli állampolgár felé fennálló kötelező tájékoztatásra
+h)[^4] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására, ideértve a harmadik országbeli állampolgár minősített kölcsönbeadónál történő foglalkoztatására, a harmadik országbeli állampolgár felé fennálló kötelező tájékoztatásra
 
 vonatkozó szabályok megtartását.
 
@@ -52,5 +52,5 @@ keretében történik.
 
 (5) A foglalkoztatás-felügyeleti hatóság az állami foglalkoztatási szerv megkeresésére hatósági ellenőrzést folytat le a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabályok megtartásának ellenőrzésére a foglalkoztatást elősegítő támogatásban részesülő foglalkoztatónál, és az ellenőrzés eredményéről tájékoztatja az állami foglalkoztatási szervet.
 
-[^2]: Az 5. § (2) bekezdés f) pontja az 561/2023. (XII. 14.) Korm. rendelet 52. §-a szerint módosított szöveg.
-[^3]: Az 5. § (2) bekezdés h) pontját a 227/2022. (VI. 28.) Korm. rendelet 8. §-a iktatta be.
+[^3]: Az 5. § (2) bekezdés f) pontja az 561/2023. (XII. 14.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdés h) pontját a 227/2022. (VI. 28.) Korm. rendelet 8. §-a iktatta be.

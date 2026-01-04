@@ -2,7 +2,7 @@
 
 30. § (1) Ez a rendelet az Európai Munkaügyi Hatóság létrehozásáról, a 883/2004/EK, a 492/2011/EU és az (EU) 2016/589 rendelet módosításáról, valamint az (EU) 2016/344 határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1149 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^29] Ez a rendelet
+(2)[^41] Ez a rendelet
 
 1. a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
 
@@ -40,4 +40,4 @@
 
 való megfelelést szolgálja.
 
-[^29]: A 30. § (2) bekezdése a 308/2024. (X. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^41]: A 30. § (2) bekezdése a 308/2024. (X. 24.) Korm. rendelet 16. §-ával megállapított szöveg.

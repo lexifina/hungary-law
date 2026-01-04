@@ -1,4 +1,4 @@
-1. melléklet a 115/2021. (III. 10.) Korm. rendelethez[^30]
+1. melléklet a 115/2021. (III. 10.) Korm. rendelethez[^42]
 
 A tételes összegű munkaügyi bírság mértéke
 
@@ -20,7 +20,7 @@ A tételes összegű munkaügyi bírság mértéke
 
 1.1.2. ** Ha a foglalkoztató harmadik országbeli állampolgárt – az 1.1.3. pont kivételével – úgy foglalkoztat tovább, hogy az engedély érvényességének lejártát megelőzően a harmadik országbeli állampolgár számára – ha ezt az engedélyre vonatkozó jogszabály lehetővé teszi – új engedély iránti kérelmet az illetékes hatósághoz benyújtott, azonban a hatóság az ügyben nem hozott határozatot. Nem tekinthető továbbfoglalkoztatásnak, ha a harmadik országbeli állampolgár továbbfoglalkoztatása az 1.1.3. pontban foglaltak szerint történik.
 
-1.1.3.[^31] A foglalkoztató és a harmadik országbeli állampolgár foglalkoztatott, ha az ugyanazon foglalkoztatóval korábban létesített foglalkoztatásra irányuló jogviszony feltételei (munkakör, munkavégzés helye) a korábban kiadott engedélyben foglaltakhoz képest nem változtak, előzetes megállapodás és az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott ideiglenes tartózkodásra jogosító igazolás birtokában megállapodhat a harmadik országbeli állampolgárnak az engedély lejártát követő, a tartózkodási engedély kiadására irányuló, összevont kérelmezési eljárás idejére szóló továbbfoglalkoztatásában [lásd a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (10) bekezdését].
+1.1.3.[^43] A foglalkoztató és a harmadik országbeli állampolgár foglalkoztatott, ha az ugyanazon foglalkoztatóval korábban létesített foglalkoztatásra irányuló jogviszony feltételei (munkakör, munkavégzés helye) a korábban kiadott engedélyben foglaltakhoz képest nem változtak, előzetes megállapodás és az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott ideiglenes tartózkodásra jogosító igazolás birtokában megállapodhat a harmadik országbeli állampolgárnak az engedély lejártát követő, a tartózkodási engedély kiadására irányuló, összevont kérelmezési eljárás idejére szóló továbbfoglalkoztatásában [lásd a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (10) bekezdését].
 
 2. Munkaügyi bírság a 19. § (1) bekezdés b) pontja alapján
 
@@ -44,5 +44,5 @@ A tételes összegű munkaügyi bírság mértéke
 
 | 3. | Természetes személy vagy őstermelő foglalkoztató | minimálbér | minimálbér × 2 |
 
-[^30]: Az 1. melléklet a 24/2024. (II. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^31]: [Az 1. melléklet 1. pont 1.1. alpont 1.1.3. pontjában a 35/2024. (II. 29.) Korm. rendelet 336. § b) pontja által elrendelt módosítás, amely szerint a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép, nem vezethető át.]
+[^42]: Az 1. melléklet a 24/2024. (II. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^43]: [Az 1. melléklet 1. pont 1.1. alpont 1.1.3. pontjában a 35/2024. (II. 29.) Korm. rendelet 336. § b) pontja által elrendelt módosítás, amely szerint a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép, nem vezethető át.]
