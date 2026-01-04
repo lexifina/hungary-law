@@ -1,5 +1,9 @@
-## 4.[^12]
+## 4. A foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet módosítása
 
-12. §
+12. § A foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet (a továbbiakban: Ffvr.) 5. alcíme a következő 6/A. §-sal egészül ki:
 
-[^12]: A 4. alcím a 24. § (2) bekezdése alapján 2026. január 4-én lép hatályba.
+„6/A. § (1) A hatósági ellenőrzés kezdő időpontja – a (2) és (3) bekezdésben meghatározott kivétellel – az az időpont, amikor a foglalkoztatás-felügyeleti hatóság vagy – ha a hatósági ellenőrzés a munkavédelmi hatóság jelzése alapján indul – a munkavédelmi hatóság a foglalkoztatónál a helyszíni ellenőrzést első alkalommal megkezdte.
+
+(2) Ha a foglalkoztatónál helyszíni ellenőrzésre nem, vagy csak egyéb ellenőrzési cselekmény után kerül sor, akkor a hatósági ellenőrzés kezdő időpontja az első ellenőrzési cselekmény időpontja.
+
+(3) Panasz, közérdekű bejelentés, más hatóság vagy állami szerv jelzése esetén a hatósági ellenőrzés kezdő időpontja a panasz, közérdekű bejelentés vagy a jelzés beérkezését követő első ellenőrzési cselekmény időpontja.”
