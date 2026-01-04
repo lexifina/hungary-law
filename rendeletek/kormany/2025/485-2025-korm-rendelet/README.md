@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-485-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-01-03 | 2025-485-20-22.1 | 485/2025. (XII. 31.) Korm. rendelet |
+| 2026-01-04 | 2025-485-20-22.2 | 2010. évi CXXX. törvény |

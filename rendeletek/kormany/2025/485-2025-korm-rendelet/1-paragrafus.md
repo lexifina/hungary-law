@@ -14,6 +14,6 @@
 
 ## 1. A külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokat érintő tulajdonszerzéséről szóló 251/2014. (X. 2.) Korm. rendelet módosítása
 
-1. § A külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlanokat érintő tulajdonszerzéséről szóló 251/2014. (X. 2.) Korm. rendelet 6. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3) Önkormányzati érdek sérelmének minősül a (2) bekezdésben foglaltakon túl, ha az ingatlanszerzéssel érintett településen a helyi önazonosság védelméről szóló törvény felhatalmazása alapján megalkotott helyi önkormányzati rendelet dologi jogvédelmi eszközeinek alkalmazására vonatkozó rendelkezéseit figyelmen kívül hagyták.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

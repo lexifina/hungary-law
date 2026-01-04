@@ -1,12 +1,13 @@
 14. § Az Inyvhr.
 
-a) 40/B. alcím címében és 71/B. §-ában az „alapuló ingyenes használati” szövegrész helyébe az „alapuló használati” szöveg,
+a)[^14]
 
-b)[^8]
+b)[^15]
 
-c)[^9]
+c)[^16]
 
 lép.
 
-[^8]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
-[^9]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^14]: A 14. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^16]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.

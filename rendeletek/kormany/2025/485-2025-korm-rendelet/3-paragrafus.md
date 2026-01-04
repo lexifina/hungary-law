@@ -1,3 +1,3 @@
-3. §[^2]
+3. §[^3]
 
-[^2]: A 3. § a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^3]: A 3. § a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.

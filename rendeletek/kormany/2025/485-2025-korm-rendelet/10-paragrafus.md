@@ -1,3 +1,3 @@
-10. §[^6]
+10. §[^10]
 
-[^6]: A 10. § a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^10]: A 10. § a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
