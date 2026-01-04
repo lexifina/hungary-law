@@ -1,4 +1,4 @@
-5. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^400]
+5. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^401]
 
 I. Gépjármű, segédmotoros kerékpár és lassú jármű kipufogógázának megengedett szennyezőanyag-tartalma
 
@@ -136,12 +136,4 @@ A gépjármű(13) kipufogógázának szennyezőanyag-tartalmát meghatározó ko
 
 8 EEV: fokozottan környezetkímélő jármű.
 
-(9) A hibrid hajtású gépjárművet az 5. környezetvédelmi osztálynál magasabb – a belsőégésű motorja által meghatározott – környezetvédelmi osztályba kell besorolni, amennyiben a meghajtó belsőégésű motor legalább Euro-III. jóváhagyású.
-
-Amennyiben a gépkocsi megfelel az 5E, az 5N, vagy az 5P környezetvédelmi osztályba sorolás feltételeinek, akkor a jármű üzembentartójának kérelmére
-
-– az 5. környezetvédelmi osztályba sorolt gépkocsi átsorolható 5E, 5N, vagy 5P környezetvédelmi osztályba, és
-
-– ha a hibrid hajtású gépkocsi az 5. környezetvédelmi osztálynál magasabb osztályba lett besorolva, akkor átsorolható a megfelelő 5E, 5N, vagy 5P környezetvédelmi osztályba.
-
-[^400]: Az 5. számú melléklet a 44/2001. (XII. 18.) KöViM rendelet 16. § (3) bekezdésével, I. fejezet 1. pontja és II. fejezete a 16/2007. (II. 2.) GKM rendelet 1. §-ával megállapított, II. fejezete a 35/2009. (VII. 10.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg. Az 5. számú melléklet I. fejezete a 41/2010. (V. 12.) KHEM rendelet 4. § (2) bekezdése, II. része a 63/2010. (XI. 29.) NFM rendelet 8. § (2) bekezdése, a 23/2012. (V. 8.) NFM rendelet 11. § (2) bekezdése, a 66/2012. (XII. 10.) NFM rendelet 6. § (2) bekezdése, a 44/2014. (X. 31.) NFM rendelet 9. § (2) bekezdés b) pontja, a 40/2015. (VI. 30.) NFM rendelet 6. § (2) bekezdése és 7. §-a, a 2/2018. (II. 5.) NFM rendelet 14. §-a, a 28/2018. (XI. 15.) ITM rendelet 18. § (2) bekezdése, a 36/2019. (IX. 20.) ITM rendelet 7. § a)–b) pontja, a 22/2021. (V. 13.) ITM rendelet 3–4. §-a szerint módosított szöveg.
+[^401]: Az 5. számú melléklet a 44/2001. (XII. 18.) KöViM rendelet 16. § (3) bekezdésével, I. fejezet 1. pontja és II. fejezete a 16/2007. (II. 2.) GKM rendelet 1. §-ával megállapított, II. fejezete a 35/2009. (VII. 10.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg. Az 5. számú melléklet I. fejezete a 41/2010. (V. 12.) KHEM rendelet 4. § (2) bekezdése, II. része a 63/2010. (XI. 29.) NFM rendelet 8. § (2) bekezdése, a 23/2012. (V. 8.) NFM rendelet 11. § (2) bekezdése, a 66/2012. (XII. 10.) NFM rendelet 6. § (2) bekezdése, a 44/2014. (X. 31.) NFM rendelet 9. § (2) bekezdés b) pontja, a 40/2015. (VI. 30.) NFM rendelet 6. § (2) bekezdése és 7. §-a, a 2/2018. (II. 5.) NFM rendelet 14. §-a, a 28/2018. (XI. 15.) ITM rendelet 18. § (2) bekezdése, a 36/2019. (IX. 20.) ITM rendelet 7. § a)–b) pontja, a 22/2021. (V. 13.) ITM rendelet 3–4. §-a szerint módosított szöveg.
