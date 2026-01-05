@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-50-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-01-04 | 2025-50-20-8X.1 | 50/2025. (XII. 30.) ÉKM rendelet |
+| 2026-01-05 | 2025-50-20-8X.2 | 2010. évi CXXX. törvény |

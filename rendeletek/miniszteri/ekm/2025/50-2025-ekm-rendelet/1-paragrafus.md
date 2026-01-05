@@ -8,20 +8,6 @@
 
 ## 1. A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet módosítása
 
-1. § A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 97. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3) Kívülről látható világító, megvilágított, átvilágított, illetve fényvisszaverő kivitelű fóliát, bevonatot, feliratot, ábrát vagy jelzést – (3a) bekezdésben szereplő esetek kivételével – a gépjárművön, a mezőgazdasági vontatón és a lassú járművön elhelyezni tilos.
-
-(3a) A gépjárműre, mezőgazdasági vontatóra és lassú járműre
-
-a) a 27., 67. és 103. §-ban említett járművek esetében az ott meghatározott jelölések és berendezések,
-
-b) közúti ellenőrzést végző hatósági járművek esetében az ellenőrzéshez kapcsolódó feliratok és jelölések,
-
-c) a veszélyes árut szállító járművek esetében a veszélyes áruk közúti szállítására vonatkozó előírás (ADR) szerinti veszélyt jelző táblák,
-
-d) a hosszú és nehéz, valamint a lassú járművek (járműszerelvények) esetében azok megjelölésére engedélyezett táblák,
-
-e) közútkezelési karbantartási tevékenységet végző járművek esetében a tevékenységével összefüggő feliratok és jelölések
-
-szerelhetőek fel.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
