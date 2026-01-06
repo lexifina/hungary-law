@@ -48,7 +48,7 @@
 
 (21) A kormányzati igazgatásról szóló törvény 86. § (7)–(7b) bekezdésétől eltérően a kormányzati szolgálati vagy ösztöndíjas jogviszony megszűnését vagy megszüntetését követően a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
 
-(22) A felkészülés, valamint a tartós külszolgálat idejére, az érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkező, tartós külszolgálatra való kihelyezésre jelölt személy a 36. § (4)–(4b) bekezdése, illetve a 36. § (8a) bekezdés a) pontjában foglaltak szerint a 36. § (4) bekezdés a) pontja szerinti vezényléssel a külpolitikáért felelős miniszter által vezetett minisztériumhoz vezényelhető.
+(22) A felkészülés, valamint a tartós külszolgálat idejére, – ha nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes biztonsági szakvéleménnyel, vagy – ha egyszerűsített nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes tanúsítvánnyal rendelkező, tartós külszolgálatra való kihelyezésre jelölt személy a 36. § (4)–(4b) bekezdése, illetve a 36. § (8a) bekezdés a) pontjában foglaltak szerint a 36. § (4) bekezdés a) pontja szerinti vezényléssel a külpolitikáért felelős miniszter által vezetett minisztériumhoz vezényelhető.
 
 (23) A kormányzati igazgatásról szóló törvény 166. § (2) bekezdésében foglaltaktól eltérően a fegyelmi vétséget elkövető tartós külszolgálatra kihelyezettel szemben kiszabható fegyelmi büntetések – a kihelyező szervhez vezényelt hivatásos állomány tagja, valamint az e) pont esetében szakdiplomata kivételével – :
 

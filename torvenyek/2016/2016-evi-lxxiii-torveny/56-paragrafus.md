@@ -2,7 +2,7 @@
 
 (1a) A 36. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szakdiplomata munkaköri leírását a szakminiszterrel egyeztetve a kihelyező szerv készíti el.
 
-(1b) A 36. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kihelyező vezető döntése alapján a kihelyezésre kerülő személy a tartós külszolgálatra történő felkészülést a szakminisztérium állományából is teljesítheti, amennyiben érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik.
+(1b) A 36. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kihelyező vezető döntése alapján a kihelyezésre kerülő személy a tartós külszolgálatra történő felkészülést a szakminisztérium állományából is teljesítheti, amennyiben – ha nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes biztonsági szakvéleménnyel, vagy – ha egyszerűsített nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes tanúsítvánnyal rendelkezik.
 
 (2) A 36. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-n foglalkoztatott szakdiplomata tartós külszolgálata a kihelyező vezető kezdeményezésére megszüntethető. A szakdiplomata tartós külszolgálatának megszüntetésére vonatkozó szakminiszteri kezdeményezésről a szakminiszter és a kihelyező vezető együttesen dönt.
 

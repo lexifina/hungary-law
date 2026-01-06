@@ -10,7 +10,7 @@ d) jogszabály vagy a kihelyező vezető által előírt, a tartós külszolgál
 
 e) jogszabály vagy a kihelyező szerv vezetője által előírt képzési, továbbképzési és szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
 
-f) érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik,
+f) – ha nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes biztonsági szakvéleménnyel, vagy – ha egyszerűsített nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes tanúsítvánnyal rendelkezik,
 
 g) nem állampolgára a fogadó államnak, valamint
 
