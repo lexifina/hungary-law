@@ -8,7 +8,7 @@
 
 a) a vezényelt olyan fegyelemsértést, bűncselekményt vagy szabálysértést követett el, amely várhatóan a szolgálati viszonyt vagy a rendfokozatot érintő felelősségre vonást von maga után,
 
-b) a vezényelt nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek nem felel meg,
+b)[^1] a vezényelt nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során kiállított, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 71/C. § (2) bekezdése szerinti tájékoztató szerint a biztonsági feltételeknek nem felel meg,
 
 c) a polgári nemzetbiztonsági szolgálatnál vagy a miniszter vezetése, irányítása alatt álló szervnél a vezényelt vezetői munkakörbe, szolgálati beosztásba kinevezését tervezik, vagy
 
@@ -17,3 +17,5 @@ d) az a polgári nemzetbiztonsági szolgálat által megjelölt egyéb szolgála
 (5) A vezénylő szerv főigazgatója a más szervhez vezénylést – a Pnbjt. 48. § (2) bekezdése szerinti halasztás esetét kivéve – a megszüntetés kezdeményezésekor megjelölt naptól kezdődően, ennek hiányában azonnali hatállyal szünteti meg, és az érintetteteket a megszüntetésről egyidejűleg értesíti.
 
 (6) A más szervhez vezénylés megszüntetéséről szóló állományparancsban meg kell határozni a vezénylés megszüntetésének napját.
+
+[^1]: A 12. § (4) bekezdés b) pontja a 436/2025. (XII. 23.) Korm. rendelet 57. §-ával megállapított szöveg.
