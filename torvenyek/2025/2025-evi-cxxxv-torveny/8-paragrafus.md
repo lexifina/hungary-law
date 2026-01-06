@@ -1,0 +1,5 @@
+8. § A Kiberbiztonsági tv. a következő 79/A. §-sal egészül ki:
+
+„79/A. § (1) Az 1. és 2. §-ban meghatározott, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti közfeladatot ellátó szervnek is minősülő szervezet (a továbbiakban: közfeladatot ellátó szerv) által használt vagy szolgáltatott elektronikus információs rendszerrel vagy központi szolgáltatással kapcsolatos adat megismerése iránti igényt az adat keletkezésétől számított legfeljebb 20 évig el kell utasítani, ha az adat megismerése kiberbiztonsági érdeket veszélyeztet.
+
+(2) Az (1) bekezdés szerinti igény teljesíthetőségéről a közfeladatot ellátó szerv vezetője dönt.”
