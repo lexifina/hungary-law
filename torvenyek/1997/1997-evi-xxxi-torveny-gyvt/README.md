@@ -102,3 +102,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2025-12-17 | 2025. évi XCV. törvény | 1997-31-00-00.139 |
 | 2025-12-23 | 2025. évi CXXVI. törvény | 1997-31-00-00.141 |
 | 2026-01-01 | 2025. évi XCIII. törvény | 1997-31-00-00.136 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 1997-31-00-00.142 |

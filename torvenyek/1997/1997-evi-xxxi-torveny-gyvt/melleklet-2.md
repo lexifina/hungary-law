@@ -100,7 +100,7 @@
 
 ## 3. az előírt iskolai végzettség, képzettségi követelmény,
 
-## 4. a munkakör ellátásához előírt egyéb feltétel (vagyonnyilatkozat, nemzetbiztonsági ellenőrzés),
+## 4. a munkakör ellátásához előírt egyéb feltétel (vagyonnyilatkozat, nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés),
 
 ## 5. a munkakör ellátásának kezdete és vége,
 
