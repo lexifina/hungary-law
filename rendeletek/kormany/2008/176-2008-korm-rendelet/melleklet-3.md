@@ -1,4 +1,4 @@
-3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^75]
+3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^76]
 
 Energetikai minőség és szén-dioxid-kibocsátás szerinti besorolás (hatékonysági osztályok)
 
@@ -42,4 +42,4 @@ Energetikai minőség és szén-dioxid-kibocsátás szerinti besorolás (hatéko
 
 3. Amennyiben az épület vagy önálló rendeltetési egység műszaki állapota miatt nem alkalmas a rendeltetésszerű funkció ellátására, úgy mind az összesített energetikai jellemző, mind a fajlagos szén-dioxid-kibocsátás szerinti besorolás „I” kategóriába tartozik. Ebben az esetben az energetikai tanúsítványban a nem meghatározható számszerű eredmény adatok nem kerülnek kitöltésre.
 
-[^75]: A 3. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.
+[^76]: A 3. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.

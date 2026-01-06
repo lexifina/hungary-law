@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-176-20-
 | 2021-06-27 | 2008-176-20-22.21 | 49/2012. (III. 28.) Korm. rendelet |
 | 2023-11-01 | 2008-176-20-22.22 | 200/2023. (V. 25.) Korm. rendelet |
 | 2024-10-01 | 2008-176-20-22.23 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2026-01-06 | 2008-176-20-22.24 | 436/2025. (XII. 23.) Korm. rendelet |

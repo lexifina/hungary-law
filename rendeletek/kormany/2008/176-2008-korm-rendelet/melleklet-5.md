@@ -1,4 +1,4 @@
-5. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^77]
+5. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^78]
 
 Épülettechnikai rendszerek értékelési osztályai
 
@@ -48,4 +48,4 @@ QF/H,net: nettó fűtési/hűtési energiaigény
 
 QF/H,net,REF: a Rend. szerinti referenciaépület fűtési/hűtési energiaigénye
 
-[^77]: Az 5. mellékletet a 200/2023. (V. 25.) Korm. rendelet 10. § (2) bekezdés b) pontja iktatta be.
+[^78]: Az 5. mellékletet a 200/2023. (V. 25.) Korm. rendelet 10. § (2) bekezdés b) pontja iktatta be.

@@ -1,5 +1,5 @@
-1. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^73]
+1. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^74]
 
 Energetikai tanúsítvány alapvető tartalmi elemei
 
-[^73]: Az 1. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés a) pontjával megállapított szöveg.
+[^74]: Az 1. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés a) pontjával megállapított szöveg.
