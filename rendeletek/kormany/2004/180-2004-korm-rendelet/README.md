@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-180-20-
 | 2014-09-05 | 2004-180-20-22.8 | 38/2008. (II. 23.) Korm. rendelet |
 | 2015-12-16 | 2004-180-20-22.9 | 403/2015. (XII. 15.) Korm. rendelet |
 | 2015-12-27 | 2004-180-20-22.10 | 362/2015. (XII. 2.) Korm. rendelet |
+| 2026-01-06 | 2004-180-20-22.11 | 403/2015. (XII. 15.) Korm. rendelet |
