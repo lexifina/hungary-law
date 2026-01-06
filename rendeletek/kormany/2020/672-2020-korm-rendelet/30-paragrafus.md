@@ -6,6 +6,8 @@ b) aki a jogszabályban meghatározott, a külszolgálatot megelőző alkalmass�
 
 c) aki a kihelyező szerv vagy a kihelyező vezető által előzetesen – a külföldi állomáshely sajátosságaira és az összekötő tiszti feladatokra tekintettel – meghatározott szakmai követelményeknek megfelel,
 
-d) akinél – a nemzetbiztonsági ellenőrzés alá eső munkakör esetében – a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot nem állapított meg, valamint
+d)[^1] akinél – nemzetbiztonsági ellenőrzés alá eső munkakör esetében – a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot, vagy – egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakör esetében – az egyszerűsített nemzetbiztonsági ellenőrzés a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információt nem állapított meg, valamint
 
 e) aki ellen nincs folyamatban büntető-, méltatlansági vagy fegyelmi eljárás.
+
+[^1]: A 30. § d) pontja a 436/2025. (XII. 23.) Korm. rendelet 40. §-ával megállapított szöveg.

@@ -14,11 +14,11 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-e)[^1] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
+e)[^2] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
 
-f)[^2] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
+f)[^3] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
 
-g)[^3] a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet
+g)[^4] a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet
 
 szerinti kölcsön minősül.
 
@@ -34,6 +34,6 @@ c) a NAV Szj. tv. 172. § (2) bekezdés f) pontja szerinti, a hitelfelvevő, ill
 
 alapján ellenőrzi.
 
-[^1]: Az 57. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
-[^2]: Az 57. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
-[^3]: Az 57. § (1) bekezdés g) pontját a 389/2024. (XII. 11.) Korm. rendelet 34. §-a iktatta be.
+[^2]: Az 57. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
+[^3]: Az 57. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
+[^4]: Az 57. § (1) bekezdés g) pontját a 389/2024. (XII. 11.) Korm. rendelet 34. §-a iktatta be.
