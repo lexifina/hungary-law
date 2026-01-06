@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-152-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 2007-152-00-00.20 |
 | 2024-07-01 | 2024. évi XX. törvény | 2007-152-00-00.21 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2007-152-00-00.22 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 2007-152-00-00.23 |
