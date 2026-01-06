@@ -26,7 +26,7 @@
 
 12. Magyarországon települő nemzetközi katonai szervezet: nemzetközi szervezet döntése vagy nemzetközi megállapodás alapján létrehozott, Magyarországon települő olyan szervezet vagy alakulat, amely a létrehozó szervezet tagállamai vagy a részes államok érdekében katonai feladatot hajt végre,
 
-13. más szerv: honvédelmi szervezetnek nem minősülő költségvetési szerv, oktatási intézmény, egészségügyi szolgáltató, autonóm államigazgatási szerv, köztestület, közhasznú szervezet, egyesület, gazdasági társaság, alapítvány, amely honvédelmi vagy védelmi és biztonsági érdeket szolgál, vagy közreműködik a honvédelmi feladatok ellátásában,
+13.[^14] más szerv: honvédelmi szervezetnek nem minősülő költségvetési szerv, oktatási intézmény, egészségügyi szolgáltató, autonóm államigazgatási szerv, köztestület, közhasznú szervezet, egyesület, gazdasági társaság, alapítvány, amely honvédelmi vagy védelmi és biztonsági érdeket szolgál, vagy közreműködik a honvédelmi feladatok ellátásában, vagy amely helyre történő vezénylés honvédelmi érdeket szolgál,
 
 14. nyugállományú katona: az állomány volt tagja,
 
@@ -49,3 +49,5 @@ c) ha egészségkárosodási ellátásban vagy honvédelmi szolgálati juttatás
 20. szolgálati viszonyra vonatkozó szabály: e rendelet és a végrehajtására kiadott miniszteri rendeletek, közjogi szervezetszabályozó eszközök, a Hvt. 18. §-a szerinti belső rendelkezés és a Hvt. 77. § (1) bekezdése szerinti HVKF parancs,
 
 21. szolgálatteljesítési hely: az a földrajzilag körülhatárolható területrész, ahol a szolgálati feladatot ténylegesen végre kell hajtani.
+
+[^14]: A 29. § 13. pontja a 436/2025. (XII. 23.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.

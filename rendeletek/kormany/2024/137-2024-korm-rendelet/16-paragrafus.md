@@ -8,7 +8,7 @@ b) az állomány tagjának szolgálati beosztása átszervezés következtében 
 
 c) az állomány tagja a szolgálati beosztásában nem foglalkoztatható tovább, mert arra az egészségi vagy a pszichikai állapota alapján alkalmatlan,
 
-d) az állomány tagja a nemzetbiztonsági ellenőrzéshez kötött szolgálati beosztásában nem foglalkoztatható tovább, mert a nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény nemzetbiztonsági kockázatot állapított meg.
+d)[^11] az állomány tagja a nemzetbiztonsági ellenőrzéshez vagy egyszerűsített nemzetbiztonsági ellenőrzéshez kötött szolgálati beosztásában nem foglalkoztatható tovább, mert a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot, vagy az egyszerűsített nemzetbiztonsági ellenőrzés a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információt állapított meg.
 
 (2) A szolgálati viszonyt felmentéssel meg kell szüntetni, ha
 
@@ -51,3 +51,8 @@ k) az apasági szolgálatmentesség időtartama alatt.
 (4) Az (1) és a (2) bekezdés szerinti felmentés esetén a jognyilatkozatot indokolni kell, és a szolgálati viszony az előírt felmentési idő elteltével, erre való jogosultság esetén végkielégítéssel szűnik meg.
 
 (5) Az (1)–(4) bekezdéstől eltérően a miniszter vagy – a honvédségi szervezet állománya tekintetében – a HVKF felmentési idő és indokolás nélkül megszüntetheti az állomány tagjának szolgálati viszonyát. Ebben az esetben az állomány tagja a miniszter által rendeletben meghatározott mértékű egyösszegű juttatásra jogosult.
+
+(6)[^12] A (3) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak az állomány tagjára, ha felmentésére az (1) bekezdés d) pontjában meghatározott okból kerül sor.
+
+[^11]: A 16. § (1) bekezdés d) pontja a 436/2025. (XII. 23.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^12]: A 16. § (6) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 53. § (2) bekezdése iktatta be.
