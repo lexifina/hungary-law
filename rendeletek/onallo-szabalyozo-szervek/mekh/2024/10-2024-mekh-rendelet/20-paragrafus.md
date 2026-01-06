@@ -1,6 +1,6 @@
 20. § (1) A forgalmi díjak számlázása során figyelembe veendő havi villamosenergia-mennyiséget
 
-a)[^8] legalább havi gyakoriságú leolvasás esetén, amennyiben a rendszerhasználó nem tartozik a 19. § (3a) bekezdése szerinti éves összegzés hatálya alá, a leolvasott villamos energia vételezés,
+a)[^10] legalább havi gyakoriságú leolvasás esetén, amennyiben a rendszerhasználó nem tartozik a 19. § (3a) bekezdése szerinti éves összegzés hatálya alá, a leolvasott villamos energia vételezés,
 
 b) az a) pont alá nem tartozó leolvasás esetén a legutolsó elszámoló számla, vagy a villamosenergia-ellátási szabályzatok szerint egy hónapra megállapított villamos energia vételezés
 
@@ -24,4 +24,4 @@ kell figyelembe venni.
 
 (6) Az energiaforgalom mérésének hiányában az elosztó és a rendszerhasználó az elosztói forgalmi díj alapjául szolgáló átalány villamosenergia-mennyiségben is megállapodhat.
 
-[^8]: A 20. § (1) bekezdés a) pontja a 2/2025. (IV. 10.) MEKH rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 20. § (1) bekezdés a) pontja a 2/2025. (IV. 10.) MEKH rendelet 3. §-a szerint módosított szöveg.

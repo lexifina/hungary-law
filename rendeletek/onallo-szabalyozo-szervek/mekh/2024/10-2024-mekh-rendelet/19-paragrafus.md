@@ -4,7 +4,7 @@
 
 (2) Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a nemzetközi üzemi és kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalmi díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni.
 
-(3)[^3] A (2) bekezdéstől eltérően – a Vhr. 5. § (5)–(5b) bekezdését is figyelembe véve – az elosztóhoz 2023. szeptember 13. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzatban meghatározottak szerinti üzembe helyezés esetén
+(3)[^5] A (2) bekezdéstől eltérően – a Vhr. 5. § (5)–(5b) bekezdését is figyelembe véve – az elosztóhoz 2023. szeptember 13. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzatban meghatározottak szerinti üzembe helyezés esetén
 
 a) a háztartási méretű kiserőmű üzembe helyezését,
 
@@ -14,17 +14,17 @@ c) ha a háztartási méretű kiserőmű üzembe helyezésekor a háztartási m�
 
 követő 10 éves időszak végével érintett naptári hónap utolsó napjáig a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni.
 
-(3a)[^4] A (3) bekezdés szerinti, irányonként elkülönített mennyiségeket éves szinten kell összegezni
+(3a)[^6] A (3) bekezdés szerinti, irányonként elkülönített mennyiségeket éves szinten kell összegezni
 
-a)[^5] a 2023. szeptember 13-án üzemben lévő háztartási méretű kiserőmű esetében, ha a felhasználó vonatkozásában profil elszámolást alkalmaztak, vagy
+a)[^7] a 2023. szeptember 13-án üzemben lévő háztartási méretű kiserőmű esetében, ha a felhasználó vonatkozásában profil elszámolást alkalmaztak, vagy
 
-b)[^6] az elosztóhoz 2023. szeptember 13. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzat szerinti üzembe helyezés esetén, ha az igénybejelentés időpontjában a felhasználó profil elszámolásúnak minősült.
+b)[^8] az elosztóhoz 2023. szeptember 13. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzat szerinti üzembe helyezés esetén, ha az igénybejelentés időpontjában a felhasználó profil elszámolásúnak minősült.
 
 (4) A (3) bekezdéstől eltérően a forgalmi díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell elszámolni és megfizetni,
 
 a) ha a háztartási méretű kiserőművel rendelkező felhasználó ezt kéri, vagy
 
-b)[^7] a 2023. szeptember 13. előtt létesített – az elosztói szabályzatban meghatározottak szerint üzembe helyezett – háztartási méretű kiserőmű névleges hatásos teljesítményének 2023. szeptember 13. után kezdeményezett bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében.
+b)[^9] a 2023. szeptember 13. előtt létesített – az elosztói szabályzatban meghatározottak szerint üzembe helyezett – háztartási méretű kiserőmű névleges hatásos teljesítményének 2023. szeptember 13. után kezdeményezett bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében.
 
 (5) A magánvezeték engedélyese vagy üzemeltetője által a hálózati engedélyes részére fizetendő forgalomarányos rendszerhasználati díjak elszámolásának alapját képező villamosenergia-mennyiségeket – a mérési intervallumok szerint – úgy kell megállapítani, hogy a közcélú hálózat és a magánvezeték közötti csatlakozási ponton mért, irányonként elkülönített és előjelhelyesen összegzett villamosenergia-mennyiséghez
 
@@ -36,8 +36,8 @@ b) le kell vonni belőle a magánvezetékre kapcsolódó felhasználók által v
 
 (7) Több zónaidős elosztói forgalmi díj megállapítása esetén a (2), (4) és (5) bekezdést zónaidőnként külön-külön, a (3) bekezdést az egyes zónaidők szerinti mért mennyiségek összeadását követően kell alkalmazni.
 
-[^3]: A 19. § (3) bekezdése a 2/2025. (IV. 10.) MEKH rendelet 1. §-ával megállapított, nyitó szövegrésze a 7/2025. (V. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
-[^4]: A 19. § (3a) bekezdését a 2/2025. (IV. 10.) MEKH rendelet 1. §-a iktatta be.
-[^5]: A 19. § (3a) bekezdés a) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § b) pontja szerint módosított szöveg.
-[^6]: A 19. § (3a) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
-[^7]: A 19. § (4) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § c) pontja szerint módosított szöveg.
+[^5]: A 19. § (3) bekezdése a 2/2025. (IV. 10.) MEKH rendelet 1. §-ával megállapított, nyitó szövegrésze a 7/2025. (V. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: A 19. § (3a) bekezdését a 2/2025. (IV. 10.) MEKH rendelet 1. §-a iktatta be.
+[^7]: A 19. § (3a) bekezdés a) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § b) pontja szerint módosított szöveg.
+[^8]: A 19. § (3a) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
+[^9]: A 19. § (4) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § c) pontja szerint módosított szöveg.

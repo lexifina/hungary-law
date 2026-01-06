@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-10-20-5
 | 2025-01-02 | 2024-10-20-5Z.2 | 2010. évi CXXX. törvény |
 | 2025-04-11 | 2024-10-20-5Z.5 | 2/2025. (IV. 10.) MEKH rendelet |
 | 2025-05-31 | 2024-10-20-5Z.6 | 7/2025. (V. 30.) MEKH rendelet |
+| 2026-01-06 | 2024-10-20-5Z.7 | 20/2025. (XII. 22.) MEKH rendelet |

@@ -4,7 +4,7 @@
 
 1. ideiglenes rendszerhasználat: legfeljebb 12 hónap határozott időtartamú rendszerhasználat;
 
-2. idősoros elszámolás: távlehívható fogyasztásmérő negyedórás intervallumok szerinti mérésein alapuló elszámolás;
+2.[^1] idősoros elszámolás: távlehívható fogyasztásmérő nemzetközi üzemi és kereskedelmi szabályzatban rögzített elszámolási mérési időintervallumok (a továbbiakban: negyedórás intervallumok) szerinti mérésein alapuló elszámolás;
 
 3. kisfeszültségű csatlakozás: az a közcélú hálózatra való csatlakozás, amelyiknél a csatlakozási pont 1 kV-ot meg nem haladó névleges feszültségen van, de nem minősül közép/kisfeszültségű csatlakozásnak;
 
@@ -35,3 +35,5 @@ a) nappali időszak: 6:00–17:00 óráig,
 b) csúcsidőszak: 17:00–22:00 óráig,
 
 c) völgyidőszak: 22:00–6:00 óráig.
+
+[^1]: A 2. § 2. pontja a 20/2025. (XII. 22.) MEKH rendelet 1. §-ával megállapított szöveg.

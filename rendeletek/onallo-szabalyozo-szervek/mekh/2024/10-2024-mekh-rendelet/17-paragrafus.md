@@ -1,8 +1,8 @@
 17. § (1) A lekötött teljesítmény díj fizetésének alapját – a (2), (3), (12) és (13) bekezdésben foglaltak figyelembevételével – a hálózathasználati szerződésben rögzített, a rendszerhasználó által a szerződéses évfordulók között, adott naptári hónap első napjától a szerződéses időszak végéig igényelt legmagasabb (lekötött) vételezési teljesítmény (kW) képezi. A lekötött teljesítmény után a teljesítmény díjat akkor is meg kell fizetni, ha azt a rendszerhasználó nem veszi igénybe.
 
-(2)[^1]
+(2)[^3]
 
-(3)[^2]
+(3)[^4]
 
 (4) A rendszerhasználó kezdeményezésére a lekötött teljesítmény a szerződéses évfordulók között, adott naptári hónap első napjától a szerződéses időszak végéig, a rendelkezésre álló teljesítmény mértékéig növelhető, a szerződéskötés éves fordulónapjain pedig – további egy éves szerződéses időszakra érvényesen – növelhető vagy csökkenthető, figyelembe véve a (2) és (3) bekezdésben foglaltakat is. Ha a szerződéskötés éves fordulónapján a lekötött teljesítményt nem módosítják, az legalább további egy évre érvényben marad, kivéve a szerződés megszűnésének esetét.
 
@@ -30,5 +30,5 @@ b) a meddő energia mérésének hiányában cos fi = 0,9
 
 (13) A vízügyi igazgatóságok kezelésében, továbbá a vízitársulatok kezelésében álló és helyi vízrendezési, valamint vízkár-elhárítási feladatok ellátása érdekében működtetett ár- és belvízvédelmi szivattyútelepek esetében az adott hónapra vonatkozó lekötött teljesítmény díj fizetésének alapját az adott hónapban mért legnagyobb teljesítmény-igénybevétel jelenti.
 
-[^1]: A 17. § (2) bekezdése a 39. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^2]: A 17. § (3) bekezdése a 39. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^3]: A 17. § (2) bekezdése a 39. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^4]: A 17. § (3) bekezdése a 39. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
