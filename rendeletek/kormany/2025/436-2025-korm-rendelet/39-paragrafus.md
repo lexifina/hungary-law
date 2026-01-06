@@ -1,0 +1,3 @@
+## 19. A közszolgálati személyügyi nyilvántartásra és statisztikai adatgyűjtésre, a közszolgálati alkalmazottak és a munkavállalók személyi irataira vonatkozó szabályokról, valamint a kormányzati igazgatási szervek álláshelyeinek nyilvántartásáról szóló 87/2019. (IV. 23.) Korm. rendelet módosítása
+
+39. § A közszolgálati személyügyi nyilvántartásra és statisztikai adatgyűjtésre, a közszolgálati alkalmazottak és a munkavállalók személyi irataira vonatkozó szabályokról, valamint a kormányzati igazgatási szervek álláshelyeinek nyilvántartásáról szóló 87/2019. (IV. 23.) Korm. rendelet 4. melléklete az 1. melléklet szerint módosul.

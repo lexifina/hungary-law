@@ -1,0 +1,5 @@
+## 12. A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet módosítása
+
+22. § A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként, valamint területi vízvédelmi hatóságként – országos illetékességgel – az (1) bekezdés 10. pontja szerinti hatóság jár el. Ezekben az eljárásokban – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szerinti szakhatóságok működnek közre.”

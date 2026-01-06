@@ -1,0 +1,1 @@
+36. § Hatályát veszti a nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló 418/2016. (XII. 14.) Korm. rendelet 8. § (1) bekezdése.

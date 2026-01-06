@@ -1,0 +1,1 @@
+8. § Hatályát veszti a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló 195/2009. (IX. 15.) Korm. rendelet 15. § (2) bekezdésében az „a külön jogszabályokban előírt nemzetbiztonsági ellenőrzés és a Nemzeti Biztonsági Tanúsítvány meglétén túl” szövegrész.

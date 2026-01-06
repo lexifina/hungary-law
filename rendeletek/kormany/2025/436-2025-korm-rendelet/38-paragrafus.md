@@ -1,0 +1,5 @@
+## „d) a nemzetbiztonsági szolgálatokról szóló törvény szerinti, érvényes biztonsági szakvéleménnyel, ha nemzetbiztonsági ellenőrzés alá eső személynek minősül, vagy – ha egyszerűsített nemzetbiztonsági ellenőrzés alá eső személynek minősül – érvényes tanúsítvánnyal.”
+
+38. § A szakdiplomata-álláshely létesítésére, valamint a szakdiplomata felkészítésére és szakmai irányítására vonatkozó részletes szabályokról szóló 239/2017. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdésben foglaltakon túl szakdiplomatának jelölhető az a szakmai irányító szervvel kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban vagy hivatásos szolgálati jogviszonyban álló vagy a Külszoltv. 36. § (4) bekezdés b) pontja szerinti személy is, aki megfelel az (1) bekezdés a)–c) pontjában meghatározott feltételeknek, és – ha nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső személynek minősül – a nemzetbiztonsági ellenőrzésének vagy egyszerűsített nemzetbiztonsági ellenőrzésének lefolytatását a Külszoltv. szerinti szakminiszter a jelölését megelőzően kezdeményezte.”
