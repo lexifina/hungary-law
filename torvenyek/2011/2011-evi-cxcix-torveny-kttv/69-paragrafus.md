@@ -62,6 +62,8 @@ d) kormányzati szolgálati jogviszonya a 72. vagy 72/A. § szerint alakult át;
 
 e) méltatlanság vagy bizalomvesztés címén mentették fel.
 
+f) az a)–e) pontban foglaltakon túl e törvény így rendelkezik.
+
 (10) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban bejelenteni,

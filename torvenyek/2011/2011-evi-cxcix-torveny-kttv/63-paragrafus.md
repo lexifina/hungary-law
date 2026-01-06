@@ -30,6 +30,8 @@ h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bek
 
 i) a 72/A. § (3), (4), (8) vagy (9) bekezdése szerinti ok áll fenn.
 
+j) a 39. § (4a) vagy (4b) bekezdése szerinti ok áll fenn.
+
 (2a) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt – a (2b) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti.
 
 (2b) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti és az érvénytelenség jogkövetkezményeit alkalmazza,
