@@ -1,5 +1,3 @@
-## 23. §[^7]
-
 ## 9. Az álláshely-nyilvántartásra vonatkozó szabályok
 
 24. § (1) Az álláshely-nyilvántartást a kormányzati személyügyi igazgatásra kijelölt szerv vezeti.
@@ -10,5 +8,4 @@
 
 (4)[^8]
 
-[^7]: A 23. §-t a 673/2020. (XII. 28.) Korm. rendelet 30. § e) pontja hatályon kívül helyezte.
 [^8]: A 24. § (4) bekezdése a 673/2020. (XII. 28.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.

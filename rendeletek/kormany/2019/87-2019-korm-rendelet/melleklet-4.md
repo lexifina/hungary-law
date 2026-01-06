@@ -444,7 +444,7 @@ vizsgakötelezettség előírásakor: a vizsga letételének határideje; a vizs
 
 27. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok (vagyonnyilatkozat-tétel időpontja, esedékességének időpontja)
 
-28. nemzetbiztonsági vizsgálat előírása, eredménye (vizsgálat időpontja)
+28.[^13] nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés előírása, eredménye, időpontja
 
 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.) (tárgyi ellátmány megnevezése, kiadásnak időpontja)
 
@@ -493,3 +493,5 @@ IX.
 X.
 
 1. az állami készfizető kezességvállalással összefüggő adatok (a hitelszerződést kötő pénzintézet neve, címe; az állami kezességvállalással biztosított hitel nagysága; a hitel lejártának időpontja)
+
+[^13]: A 4. melléklet IV. pont 28. alpontja a 436/2025. (XII. 23.) Korm. rendelet 39. §-ával megállapított szöveg.
