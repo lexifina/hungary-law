@@ -10,7 +10,7 @@ c) egyetértési jogot gyakorol a nemzeti rendszerek összekapcsolási megállap
 
 d) hatósági ellenőrzést hajt végre,
 
-e)[^4] ellátja az elektronikus biztonság tekintetében a nemzeti biztonsági hatóság feladatkörét Magyarország nemzetközi kötelezettségvállalásai terén,
+e)[^8] ellátja az elektronikus biztonság tekintetében a nemzeti biztonsági hatóság feladatkörét Magyarország nemzetközi kötelezettségvállalásai terén,
 
 f) szükség esetén kivizsgálja az elektronikus biztonsági eseményeket, intézkedéseket ír elő a biztonság helyreállítása érdekében és a biztonsági esemény megismétlődésének elkerülésére,
 
@@ -18,7 +18,7 @@ g) külföldi minősített elektronikus adat veszélyeztetése esetén a vonatko
 
 h) meghatározza és a minősített adatkezelést végző szervek részére elérhetővé teszi az elektronikus biztonságra vonatkozó irányelveket, követelményeket és az engedélyezés szakmai követelményrendszerét,
 
-i)[^5]
+i)[^9]
 
 (2) Az NBF a biztonsági engedélyezés feladatainak keretén belül:
 
@@ -54,13 +54,13 @@ b) meghatározza és a minősített adatkezelést végző szervek részére elé
 
 c) ellenőrzi a rendszer és működési környezete TEMPEST megfelelőségét,
 
-d)[^6] TEMPEST vizsgálatokat, méréseket végez,
+d)[^10] TEMPEST vizsgálatokat, méréseket végez,
 
-e)[^7] a TEMPEST mérések alapján zónába sorolja a rendszer környezetét,
+e)[^11] a TEMPEST mérések alapján zónába sorolja a rendszer környezetét,
 
 f) a TEMPEST biztonság veszélyeztetése esetén a rendszer használatát korlátozhatja, megtilthatja, a szerv vezetőjét a kompromittáló kisugárzás elleni védelem helyreállítása érdekében szükséges intézkedések megtételére kötelezheti, a kiadott rendszerengedélyt visszavonhatja.
 
-[^4]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 471. § a) pontja szerint módosított szöveg.
-[^5]: A 4. § (1) bekezdés i) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
-[^6]: A 4. § (4) bekezdés d) pontja a 375/2020. (VII. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
-[^7]: A 4. § (4) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 471. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés i) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^10]: A 4. § (4) bekezdés d) pontja a 375/2020. (VII. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

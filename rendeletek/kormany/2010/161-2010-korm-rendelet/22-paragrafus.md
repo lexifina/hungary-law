@@ -10,12 +10,12 @@
 
 (4) A rendszert illetéktelen hozzáférést kizáró módon kell telepíteni és üzemeltetni.
 
-(5)[^15] Ha a legfeljebb „Bizalmas!” minősítési szintű nemzeti minősített adatokat kezelő rendszer és elemei II. osztályú biztonsági területen helyezkednek el, a rendszer minősített adathordozói tekintetében biztonsági tárolónak, illetve zárnak tekinthető, ha az adathordozóhoz való hozzáférést legalább 1. kategóriájú tárolóval azonos szintű védelmet nyújtó zárható burkolattal vagy az adathordozó eltávolítását legalább 1. kategóriájú zárszerkezet alkalmazásával akadályozzák meg.
+(5)[^19] Ha a legfeljebb „Bizalmas!” minősítési szintű nemzeti minősített adatokat kezelő rendszer és elemei II. osztályú biztonsági területen helyezkednek el, a rendszer minősített adathordozói tekintetében biztonsági tárolónak, illetve zárnak tekinthető, ha az adathordozóhoz való hozzáférést legalább 1. kategóriájú tárolóval azonos szintű védelmet nyújtó zárható burkolattal vagy az adathordozó eltávolítását legalább 1. kategóriájú zárszerkezet alkalmazásával akadályozzák meg.
 
-(6)[^16] Állami szervek esetében, ha a legfeljebb „Titkos!” minősítési szintű nemzeti minősített adatokat kezelő rendszer és elemei 1. kategóriájú biztonsági tároló használatával engedélyezett II. osztályú biztonsági területen helyezkednek el, a rendszer minősített adathordozói tekintetében biztonsági tárolónak, illetve zárnak tekinthető, ha az adathordozóhoz való hozzáférést legalább 1. kategóriájú tárolóval azonos szintű védelmet nyújtó zárható burkolattal vagy az adathordozó eltávolítását legalább hagyományos zárszerkezet alkalmazásával akadályozzák meg.
+(6)[^20] Állami szervek esetében, ha a legfeljebb „Titkos!” minősítési szintű nemzeti minősített adatokat kezelő rendszer és elemei 1. kategóriájú biztonsági tároló használatával engedélyezett II. osztályú biztonsági területen helyezkednek el, a rendszer minősített adathordozói tekintetében biztonsági tárolónak, illetve zárnak tekinthető, ha az adathordozóhoz való hozzáférést legalább 1. kategóriájú tárolóval azonos szintű védelmet nyújtó zárható burkolattal vagy az adathordozó eltávolítását legalább hagyományos zárszerkezet alkalmazásával akadályozzák meg.
 
-(7)[^17] A nemzeti minősített adatot kezelő elektronikus rendszert biztonsági területen kívül, adminisztratív zónában, a biztonsági vezető által megjelölt helyszínen, kizárólag személyes felügyelet alatt lehet üzemeltetni. Nemzeti „Titkos!” vagy „Szigorúan titkos!” elektronikus rendszer esetén a rendszer elemeinek meg kell felelnie a TEMPEST követelményeknek.
+(7)[^21] A nemzeti minősített adatot kezelő elektronikus rendszert biztonsági területen kívül, adminisztratív zónában, a biztonsági vezető által megjelölt helyszínen, kizárólag személyes felügyelet alatt lehet üzemeltetni. Nemzeti „Titkos!” vagy „Szigorúan titkos!” elektronikus rendszer esetén a rendszer elemeinek meg kell felelnie a TEMPEST követelményeknek.
 
-[^15]: A 22. § (5) bekezdését a 318/2015. (X. 30.) Korm. rendelet 2. §-a iktatta be.
-[^16]: A 22. § (6) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
-[^17]: A 22. § (7) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^19]: A 22. § (5) bekezdését a 318/2015. (X. 30.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A 22. § (6) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^21]: A 22. § (7) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 11. §-a iktatta be.

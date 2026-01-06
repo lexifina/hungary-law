@@ -42,7 +42,7 @@ h) a rejtjelző eszközök biztonságával összefüggő egyéb dokumentumok,
 
 10. rejtjelfelügyelő: a biztonsági vezető felügyelete mellett a rejtjeltevékenység alkalmazási területén a rejtjeltevékenység személyi, fizikai, adminisztratív, valamint a rejtjelbiztonsági követelményeinek érvényesüléséért felelős személy,
 
-11.[^1] rejtjel-hozzáférési engedély: az állami vagy közfeladat végrehajtása érdekében a biztonsági vezető által az előírt szintű nemzetbiztonsági ellenőrzés eredményeként kockázatmentességet igazoló biztonsági szakvélemény alapján adott írásbeli felhatalmazás, amely rögzíti, hogy az engedély birtokosa milyen rejtjelanyaghoz férhet hozzá,
+11.[^1] rejtjel-hozzáférési engedély: az állami vagy közfeladat végrehajtása érdekében a biztonsági vezető által a megfelelő szintű személyi biztonsági tanúsítvány alapján adott írásbeli felhatalmazás, amely rögzíti, hogy az engedély birtokosa milyen rejtjelanyaghoz férhet hozzá,
 
 12. rejtjelszabályzat: a minősített adatot kezelő szerv vezetője által kiadott belső rendelkezés, amely a rejtjeltevékenység általános szabályozására szolgál, valamint meghatározza a rejtjelanyag szállítására és tárolására vonatkozó követelményeket,
 
@@ -68,6 +68,6 @@ h) a rejtjelző eszközök biztonságával összefüggő egyéb dokumentumok,
 
 23.[^3] külföldi rejtjelző eszköz: a NATO, az EU vagy ezek valamely tagállama által engedélyezett rejtjelző eszköz.
 
-[^1]: Az 1. § 11. pontja a 303/2024. (X. 24.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 11. pontja a 436/2025. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^2]: Az 1. § 21. pontja a 137/2025. (VI. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § 23. pontját a 303/2024. (X. 24.) Korm. rendelet 19. §-a iktatta be.

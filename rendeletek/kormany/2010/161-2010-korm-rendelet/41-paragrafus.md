@@ -8,13 +8,13 @@
 
 (3) A rejtjeltevékenységet folytató szerv rejtjeltevékenysége során csak olyan rejtjelző eszközt alkalmazhat, amelyre vonatkozóan az NBF rendszerengedélyt adott ki.
 
-(4)[^29] Nemzeti minősített adat rejtjelzésére az NBF által rendszeresített
+(4)[^33] Nemzeti minősített adat rejtjelzésére az NBF által rendszeresített
 
 a) a 44/A. § szerinti nemzeti fejlesztésű rejtjelző eszköz alkalmazható, amelynek fejlesztője esetében az NBF a rejtjelző eszközre vonatkozóan – a létrehozására vonatkozó döntéstől a tervezést, a fejlesztést, a beszerzést, a telepítést, az üzemeltetést, a továbbfejlesztést és a módosítást is érintően, a rendszer egyes elemeinek vagy egészének a kivonásáig és megsemmisítéséig – megbízhatóan meggyőződött arról, hogy nem áll fenn a bizalmasság elve sérülésének veszélye, vagy
 
 b) külföldi rejtjelző eszköz alkalmazható.
 
-(5)[^30] Külföldi rejtjelző eszköz nemzeti minősített adat rejtjelzésére történő alkalmazása esetén
+(5)[^34] Külföldi rejtjelző eszköz nemzeti minősített adat rejtjelzésére történő alkalmazása esetén
 
 a) a rejtjeltevékenységet folytató szerv beszerzi a rejtjelző eszközt és az ahhoz tartozó kulcsgyártó eszközt, és ellátja azok üzemeltetését,
 
@@ -34,8 +34,8 @@ d) a rejtjeltevékenységet folytató szerv a c) pont ca) és cb) alpontja szeri
 
 e) a rejtjeltevékenységet folytató szerv ellátja a rejtjelző eszköz telepítésével, üzembe helyezésével kapcsolatos feladatokat.
 
-(6)[^31] Az (5) bekezdés a) pontjában meghatározott, a kulcsgyártó eszköz beszerzéséhez, üzemeltetéséhez kapcsolódó feladat alól kivételt képez, ha a rejtjelző eszközhöz tartozó kulcsgyártó eszköz más rejtjeltevékenységet folytató szervnél rendelkezésre áll és e szerv az üzemeltetéssel kapcsolatos feladatok ellátását vállalja.
+(6)[^35] Az (5) bekezdés a) pontjában meghatározott, a kulcsgyártó eszköz beszerzéséhez, üzemeltetéséhez kapcsolódó feladat alól kivételt képez, ha a rejtjelző eszközhöz tartozó kulcsgyártó eszköz más rejtjeltevékenységet folytató szervnél rendelkezésre áll és e szerv az üzemeltetéssel kapcsolatos feladatok ellátását vállalja.
 
-[^29]: A 41. § (4) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^30]: A 41. § (5) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^31]: A 41. § (6) bekezdését a 303/2024. (X. 24.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^33]: A 41. § (4) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^34]: A 41. § (5) bekezdése a 303/2024. (X. 24.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^35]: A 41. § (6) bekezdését a 303/2024. (X. 24.) Korm. rendelet 23. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-51. § (1)[^56] A „Bizalmas!” és magasabb minősítési szintű külföldi minősített adatot kezelő rendszer esetén az NBF meghatározza a rendszer telepítési helyének TEMPEST zóna besorolását.
+51. § (1)[^60] A „Bizalmas!” és magasabb minősítési szintű külföldi minősített adatot kezelő rendszer esetén az NBF meghatározza a rendszer telepítési helyének TEMPEST zóna besorolását.
 
 (2) A TEMPEST zóna mérés és besorolás elvégzés érdekében a minősített adatot elektronikus rendszeren kezelő szerv az NBF részére az alábbi adatok megismerését biztosítja:
 
@@ -12,4 +12,4 @@ c) telepítési alaprajz és szöveges leírása, amely a rendszer telepítési 
 
 (4) A (3) bekezdésben foglaltakon túl az NBF által kijelölt szerv, a NATO, az EU vagy tagországaik TEMPEST hatósága által elfogadott vagy kiadott zóna besorolás további vizsgálatok nélkül is elfogadható.
 
-[^56]: Az 51. § (1) bekezdését a 318/2015. (X. 30.) Korm. rendelet 5. §-ával megállapított, a 137/2025. (VI. 16.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^60]: Az 51. § (1) bekezdését a 318/2015. (X. 30.) Korm. rendelet 5. §-ával megállapított, a 137/2025. (VI. 16.) Korm. rendelet 4. §-a szerint módosított szöveg.

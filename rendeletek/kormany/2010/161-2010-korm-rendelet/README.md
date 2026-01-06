@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-161-20-
 | 2024-10-25 | 2010-161-20-22.10 | 303/2024. (X. 24.) Korm. rendelet |
 | 2025-01-01 | 2010-161-20-22.11 | 418/2024. (XII. 23.) Korm. rendelet |
 | 2025-06-17 | 2010-161-20-22.12 | 137/2025. (VI. 16.) Korm. rendelet |
+| 2026-01-06 | 2010-161-20-22.13 | 436/2025. (XII. 23.) Korm. rendelet |

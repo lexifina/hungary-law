@@ -1,6 +1,6 @@
 ## 62. § E rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-63. §[^61] Ez a rendelet
+63. §[^65] Ez a rendelet
 
 a) az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat,
 
@@ -8,4 +8,4 @@ b) az EU-minősített adatok védelmét szolgáló biztonsági szabályokról sz
 
 végrehajtásához szükséges rendelkezéseket határoz meg.
 
-[^61]: A 63. § a 137/2025. (VI. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^65]: A 63. § a 137/2025. (VI. 16.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 19/A. [^42] Rejtjelző eszköz fejlesztése, gyártása
+## 19/A. [^46] Rejtjelző eszköz fejlesztése, gyártása
 
 44/A. § (1) Rejtjelző eszköz fejlesztését, illetve gyártását állami szerv vagy telephely biztonsági tanúsítvánnyal rendelkező, kizárólagos belföldi tulajdonban álló gazdálkodó szervezet végezheti.
 
@@ -8,4 +8,4 @@
 
 (4) A rejtjelző eszközzel kapcsolatos fejlesztési tevékenység engedélyezésére irányuló kérelemnek tartalmaznia kell a tervezett eszköz megnevezését, jellegét, a védeni tervezett adat minősítési szintjét, valamint a fejlesztés befejezésének tervezett időpontját.
 
-[^42]: A 19/A. alcímet (44/A. §) a 375/2020. (VII. 30.) Korm. rendelet 33. §-a iktatta be.
+[^46]: A 19/A. alcímet (44/A. §) a 375/2020. (VII. 30.) Korm. rendelet 33. §-a iktatta be.

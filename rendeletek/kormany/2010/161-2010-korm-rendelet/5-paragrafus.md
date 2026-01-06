@@ -1,8 +1,8 @@
-5. § (1)[^8] Magyarország nemzetközi kötelezettségvállalásainak teljesítése érdekében
+5. § (1)[^12] Magyarország nemzetközi kötelezettségvállalásainak teljesítése érdekében
 
-a)[^9] a honvédelemért felelős miniszter látja el a NATO Központi Rejtjel Elosztó Felügyelet feladatait,
+a)[^13] a honvédelemért felelős miniszter látja el a NATO Központi Rejtjel Elosztó Felügyelet feladatait,
 
-b)[^10] a külpolitikáért felelős miniszter látja el az EU Központi Rejtjel Elosztó Felügyelet feladatait.
+b)[^14] a külpolitikáért felelős miniszter látja el az EU Központi Rejtjel Elosztó Felügyelet feladatait.
 
 (2) Az (1) bekezdésben meghatározott szervek, az ott megjelölt feladatkörükben felelősek
 
@@ -20,6 +20,6 @@ f) a NATO, EU külföldi elosztó és felügyeleti szervekkel való kapcsolattar
 
 g) az igény elbírálása után a rejtjelanyagok biztosításáért.
 
-[^8]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 471. § b) pontja szerint módosított szöveg.
-[^9]: Az 5. § (1) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^10]: Az 5. § (1) bekezdés b) pontja a 323/2018. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 471. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^14]: Az 5. § (1) bekezdés b) pontja a 323/2018. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
