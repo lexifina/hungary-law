@@ -10,6 +10,8 @@ c) átszervezés következtében a foglalkoztatott munkaköre megszűnik, vagy p
 
 d) a foglalkoztatott nyugdíjasnak minősül [kivéve, ha a jogviszony a 66. § (1) bekezdés e) pontja alapján megszűnt].
 
+e) a 32. § (4a) bekezdése szerint a munkáltatói jogkör gyakorlója a szolgálati jogviszony megszüntetéséről döntött.
+
 (2) A szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
 a) a foglalkoztatott hivatalára méltatlan;
@@ -28,7 +30,7 @@ d) a 47. § (9) bekezdésében meghatározott kinevezésmódosítás esetén, il
 
 e) a Tny. 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő foglalkoztatott kérelmezi;
 
-f) a 32. § (4) bekezdése, valamint a 35. § (5) bekezdése szerinti esetben;
+f) a 32. § (4) és (4a) bekezdése, valamint a 35. § (5) bekezdése szerinti esetben;
 
 g) a foglalkoztatást kizáró ok jut a munkáltatói jogkör gyakorlója tudomására;
 

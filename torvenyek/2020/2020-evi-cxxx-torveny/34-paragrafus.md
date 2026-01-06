@@ -2,7 +2,7 @@
 
 (1) A NAV pénzügyőri állományába jelentkező (a továbbiakban: jelentkező) életvitelét a jogviszony létesítését megelőzően, továbbá a pénzügyőr, valamint a tisztjelölt életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati jogviszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
-(2) A jelentkező, valamint a pénzügyőr életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett munkaköre vagy a pénzügyőr munkaköre nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül.
+(2) A jelentkező, valamint a pénzügyőr életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett munkaköre vagy a pénzügyőr munkaköre nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül.
 
 (3) A pénzügyőr személyügyi alapnyilvántartásban szereplő személyes adatait, valamint a vele közös háztartásban élő közeli hozzátartozójának a bűnügyi nyilvántartásban kezelt adatait a kifogástalan életvitel ellenőrzését végző szerv a kifogástalan életvitel-ellenőrzés céljából megismerheti, ennek tényét előbbi esetben a pénzügyőr, utóbbi esetben a közeli hozzátartozó írásban tudomásul veszi.
 

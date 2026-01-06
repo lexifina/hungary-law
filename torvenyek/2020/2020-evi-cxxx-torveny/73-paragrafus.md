@@ -22,4 +22,4 @@ meghosszabbodik, ha azt a foglalkoztatott a felmentés közlésétől számítot
 
 (8) A kifizetett távolléti díjat visszakövetelni nem lehet, ha a foglalkoztatottat a munkavégzés alól végleg mentesítették és a távolléti díj fizetését kizáró körülmény a foglalkoztatottnak a munkavégzés alóli mentesítése után következett be.
 
-(9) A foglalkoztatottat felmentési idő nem illeti meg, ha felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (2) bekezdés a) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból kerül sor.
+(9) A foglalkoztatottat felmentési idő nem illeti meg, ha felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (1) bekezdés e) pontjában, (2) bekezdés a) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból kerül sor.

@@ -48,7 +48,7 @@ azzal, hogy a foglalkoztatott nem jogosult végkielégítésre azon időtartam v
 
 a) legkésőbb a szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül vagy szolgálati járandóságra jogosult;
 
-b) felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (2) bekezdés a), b) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból került sor.
+b) felmentésére a 36. § (3) bekezdésében, 37. § (4) bekezdésében, a 70. § (1) bekezdés e) pontjában, (2) bekezdés a), b) vagy f) pontjában, illetve (4) bekezdésében meghatározott okból került sor.
 
 (8) Ha a foglalkoztatott a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

@@ -91,23 +91,3 @@ IV.
 7. a munkaköri alkalmassági vizsgálat eredményének adatai
 
 V.
-
-1. a foglalkoztató NAV szerv neve, székhelye, statisztikai számjele
-
-2. e szervnél a szolgálati jogviszony kezdete
-
-3. foglalkoztatott jelenlegi besorolása, besorolásának időpontja
-
-4. munkakör(ök) megnevezése és a betöltés időtartama, FEOR-szám
-
-5. munkaköri leírás
-
-6. a foglalkoztatott teljesítményértékelésének adatai
-
-7. vezetői kinevezésének és megszűnésének adatai
-
-8. címadományozás, jutalmazás, kitüntetés adatai
-
-9. hatályos fegyelmi büntetés
-
-10. pályázatának adatai

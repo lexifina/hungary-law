@@ -44,6 +44,6 @@ c) a hozzátartozó személyes ápolása céljából kapott illetmény nélküli
 
 (7) Az (1) bekezdésben, valamint az (5) bekezdésben meghatározott védelem nem vonatkozik a foglalkoztatott jogviszonyának felmentéssel történő megszüntetésére, ha
 
-a) a felmentésére a 70. § (2) bekezdés a), f) pontjában, (4) bekezdésében vagy a 142. § (7) bekezdésében meghatározott okból kerül sor,
+a) a felmentésére a 70. § (1) bekezdés e) pontjában, (2) bekezdés a), f) pontjában, (4) bekezdésében vagy a 142. § (7) bekezdésében meghatározott okból kerül sor,
 
 b) a felmentést a 70. § (2) bekezdés d), e) pontjában, a 142. § (2) bekezdésében, vagy a 176. § (4) bekezdésében foglaltak szerint a foglalkoztatott kérelmezi.
