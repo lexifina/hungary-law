@@ -32,10 +32,10 @@
 
 | 16. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg. | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
 
-| 17. | Minden esetben. | A hulladékképződés megelőzését szolgáló intézkedéseket, a hulladékkezelésre vonatkozó jogszabályi követelmények teljesítését, a hulladékgazdálkodási előírások alapján a technológiából származó környezetterhelések kockázatát, a tevékenység végzése során képződő hulladék elhelyezését, a hulladék kezelésének megfelelőségét, továbbá a hulladékgazdálkodásból eredő környezeti kockázatokat, az építési vagy bontási tevékenység során az építési-bontási hulladékok kezelését, valamint a bezárt hulladéklerakók rekultivációjánál szükséges intézkedéseket. | Energiaügyi Minisztérium minisztériumi hulladékgazdálkodási hatóság[^116] |
+| 17. | Minden esetben. | A hulladékképződés megelőzését szolgáló intézkedéseket, a hulladékkezelésre vonatkozó jogszabályi követelmények teljesítését, a hulladékgazdálkodási előírások alapján a technológiából származó környezetterhelések kockázatát, a tevékenység végzése során képződő hulladék elhelyezését, a hulladék kezelésének megfelelőségét, továbbá a hulladékgazdálkodásból eredő környezeti kockázatokat, az építési vagy bontási tevékenység során az építési-bontási hulladékok kezelését, valamint a bezárt hulladéklerakók rekultivációjánál szükséges intézkedéseket. | Energiaügyi Minisztérium minisztériumi hulladékgazdálkodási hatóság[^117] |
 
 4. melléklet a 624/2022. (XII. 30.) Korm. rendelethez
 
 Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések
 
-[^116]: A 3. mellékletben foglalt táblázat C:17 mezője a 91/2025. (V. 8.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^117]: A 3. mellékletben foglalt táblázat C:17 mezője a 91/2025. (V. 8.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

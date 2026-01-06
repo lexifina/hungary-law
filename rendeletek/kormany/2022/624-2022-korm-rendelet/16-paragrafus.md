@@ -1,3 +1,5 @@
-## 8. Eljárásjogi rendelkezések
+## 8.[^34]
 
-16. § A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekkel összefüggő környezetvédelmi ügyek elintézésében csak olyan személyek vehetnek részt, akik a Nemzeti Biztonsági Felügyelet által kiállított személyi biztonsági tanúsítvánnyal rendelkeznek.
+16. §
+
+[^34]: A 8. alcímet (16. §-t) a 436/2025. (XII. 23.) Korm. rendelet 50. §-a hatályon kívül helyezte.

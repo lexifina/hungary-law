@@ -1,4 +1,4 @@
-18/A. §[^34] E rendeletnek – az egyes kormányrendeletek környezetvédelmi hatósági eljárással kapcsolatos módosításáról szóló 119/2024. (VI. 10.) Korm. rendelet (a továbbiakban: MódR.) 8. § (2) bekezdésével megállapított – 1. §-át a MódR. hatálybalépését[^35] követően indult vagy megismételt eljárásokban kell alkalmazni.
+18/A. §[^35] E rendeletnek – az egyes kormányrendeletek környezetvédelmi hatósági eljárással kapcsolatos módosításáról szóló 119/2024. (VI. 10.) Korm. rendelet (a továbbiakban: MódR.) 8. § (2) bekezdésével megállapított – 1. §-át a MódR. hatálybalépését[^36] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-[^34]: A 18/A. §-t a 119/2024. (VI. 10.) Korm. rendelet 18. §-a iktatta be, szövege e módosító rendelet 19. §-ával megállapított szöveg.
-[^35]: A hatálybalépés időpontja 2024. június 15.
+[^35]: A 18/A. §-t a 119/2024. (VI. 10.) Korm. rendelet 18. §-a iktatta be, szövege e módosító rendelet 19. §-ával megállapított szöveg.
+[^36]: A hatálybalépés időpontja 2024. június 15.
