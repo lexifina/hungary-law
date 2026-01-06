@@ -32,7 +32,7 @@ e) a szabályszegő vagy mulasztó tanúsított-e az általa okozott állapot me
 
 (4b) A (4) és (4a) bekezdés szerinti határozat, valamint az atomerőmű tervezett üzemidején túli üzemeltetéséhez, illetve a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez kiadott engedélyt tartalmazó határozat tekintetében a keresetlevél halasztó hatálya bíróság általi elrendelésének nincs helye.
 
-(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv által kiadott 17. § (2) bekezdés 1. pont b) alpontja szerinti határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt. A felelősség a nukleáris létesítmény és radioaktívhulladék-tároló telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
+(5) Az engedélyes mindaddig felelős a nukleáris létesítmény vagy a radioaktívhulladék-tárolók nukleáris biztonságáért, amíg ez a felelősség az atomenergia-felügyeleti szerv határozata alapján nem szűnt meg, vagy más engedélyesre át nem szállt.
 
 (5a) Az engedélyes felelőssége az (5) bekezdésben foglaltaktól függetlenül
 

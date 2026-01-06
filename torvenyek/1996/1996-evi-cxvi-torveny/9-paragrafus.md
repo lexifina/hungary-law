@@ -27,3 +27,5 @@ b) a radioaktívhulladék-tároló biztonsági követelményeinek teljesülésé
 Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzemi tapasztalatokat és a biztonsággal kapcsolatos új ismereteket – rendszeres időközönként teljes körűen elemeznie, értékelnie kell.
 
 (4) A nukleáris létesítmény és a radioaktívhulladék-tároló felügyeletének ellátásához az atomenergia-felügyeleti szerv közvetlen és folyamatos táv-adatszolgáltatást is igénybe vehet.
+
+(5) Az atomenergia-felügyeleti szerv feladat- és hatáskörében az e törvény végrehajtására kiadott rendeletben az atomenergia alkalmazására vonatkozó követelmények teljesítésének módszerére ajánlást tartalmazó útmutatót adhat ki. Az atomenergia-felügyeleti szerv az útmutatót a honlapján teszi közzé.

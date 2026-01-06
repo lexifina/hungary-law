@@ -26,7 +26,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 8. a nukleáris létesítmény és a radioaktívhulladék-tároló nukleárisbaleset-elhárítási intézkedési tervének az első alkalommal történő, illetve módosítását követő érvénybe léptetéséhez szükséges nukleáris biztonsági engedélyezése;
 
-9. a jogszabályban meghatározott technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, az anyagvizsgálati dokumentumoknak, elemzési eredményeknek, továbbá a biztonság szempontjából meghatározó munkakörök betöltésének jóváhagyása;
+9. a jogszabályban meghatározott technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek leírásának, az anyagvizsgálati dokumentumoknak, elemzési eredményeknek, valamint a biztonság szempontjából meghatározó munkakörök betöltésére vonatkozó szabályozó dokumentumok jóváhagyása, továbbá a biztonság szempontjából meghatározó munkakörök betöltéséhez szükséges egyetértési jog gyakorlása;
 
 10. az Időszakos Biztonsági Felülvizsgálat végrehajtása, a további üzemeltetés feltételeinek meghatározása, és a szükséges intézkedések végrehajtásának elrendelése a felülvizsgálat eredménye alapján, illetve az Időszakos Biztonsági Jelentés által, valamint az Időszakos Biztonsági Felülvizsgálat keretében azonosított eltérés jóváhagyása;
 
@@ -44,7 +44,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 17. a radioaktív anyagoknak Magyarország és az Európai Unió tagállamai, továbbá Magyarország és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
 
-18. a tervezési alapfenyegetettség megállapítása és felülvizsgálata, valamint az atomenergia alkalmazása körében a fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése és ellenőrzése;
+18. a tervezési alapfenyegetettség megállapítása és felülvizsgálata, valamint az atomenergia alkalmazása körében a fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése és ellenőrzése, a fizikai védelmi rendszer átalakításának engedélyezése;
 
 19. az atomkár-felelősségre vonatkozó biztosítási vagy más pénzügyi fedezet meglétének nyilvántartása és ellenőrzése;
 
@@ -60,11 +60,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 25. az atomenergia alkalmazása körében külföldi szakértő szakértői minőségének eseti hatósági elismerése;
 
-26. a radioaktív anyag előállításának, termelésének, feldolgozásának, kezelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezése és hatósági felügyelet alóli felszabadítása;
+26. a radioaktív anyag előállításának, termelésének, feldolgozásának, kezelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezése és hatósági felügyelet alóli felszabadítása, a radionuklidok mentességi aktivitásának és aktivitás-koncentrációjának meghatározása;
 
 27. a 26. pont alatt felsorolt tevékenységet szolgáló, nem nukleáris létesítmény, berendezés létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
 
-28. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, üzemeltetésének, átalakításának, karbantartásának engedélyezése, az üzemeltetés megszüntetéséről szóló bejelentés tudomásulvétele;
+28. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, első magyarországi üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának engedélyezése, az üzemeltetés megszüntetéséről szóló bejelentés tudomásulvétele;
 
 29. a 28. pont szerinti berendezés előállítását, üzemeltetését szolgáló nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
 

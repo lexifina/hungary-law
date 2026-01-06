@@ -6,13 +6,17 @@
 
 (3) Az atomenergia-felügyeleti szerv a bizonyítvány következő adatait tartja nyilván:
 
-a) a képzés, továbbképzés fokozatát;
+a) a vizsgázó természetes személyazonosító adatai és állampolgársága;
 
-b) a a munkavállaló természetes személyazonosító adatait és állampolgárságát;
+b) a vizsga érvényességi ideje;
 
-c) a bizonyítvány kiállításának keltét;
+c) a képzés, továbbképzés fokozata;
 
-d) a vizsgázónak a vizsgán elért eredményét.
+d) a képzés, továbbképzés szakiránya;
+
+e) a bizonyítvány kiállításának kelte; és
+
+f) a vizsgázónak a vizsgán elért eredménye.
 
 (4) Az atomenergia-felügyeleti szerv a sugárvédelmi képzettség nyilvántartásában szereplő személyes adatokat a sugárvédelmi képzettségre vonatkozó jogszabályi előírások betartásának ellenőrzése céljából használhatja fel, és azokat a bizonyítvány hatályának lejártát követő egy évig kezelheti.
 

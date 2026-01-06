@@ -1,0 +1,1 @@
+66/M. § E törvénynek az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2025. évi CXXIX. törvénnyel (a továbbiakban: Atvmód2.) módosított 2. mellékletében foglalt táblázat D:7, D:36, D:40 és D:41 mezőjét, valamint az Atvmód2.-vel megállapított 2. mellékletében foglalt táblázat 59. sorát az Atvmód2. hatálybalépését követően indult eljárásokban kell alkalmazni.

@@ -26,7 +26,7 @@ i) a szakmai tevékenységtől való eltiltása tényét, annak okát, időtarta
 
 j) nyilvántartási számát.
 
-(4) Ha a szakmagyakorlásra való alkalmasság megállapításához szükséges dokumentumokat eredetileg papír alapon állították ki, akkor a szakmagyakorlásra való alkalmasság megállapítására irányuló eljárásban e dokumentumokat papír alapon kell az atomenergia-felügyeleti szervnek benyújtani.
+(4)
 
 (5) Az (1) bekezdés szerinti nyilvántartás a (3) bekezdés d)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
 
