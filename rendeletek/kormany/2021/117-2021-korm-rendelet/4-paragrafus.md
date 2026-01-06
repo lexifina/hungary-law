@@ -2,6 +2,7 @@
 
 (2) A hatósági ellenőrzés feladatait a katonai foglalkoztatás-felügyeleti hatóság katonai foglalkoztatás-felügyeleti ellenőrei látják el. A katonai foglalkoztatás-felügyeleti ellenőr a hatósági ellenőrzést a jóváhagyott vizsgálati program alapján végzi. A helyszíni vizsgálatot legalább két katonai foglalkoztatás-felügyeleti ellenőr egyidejűleg végzi, akik a helyszíni vizsgálat megkezdésekor az ellenőrzési jogosultságukat igazolják.
 
-(3) A Katonai Nemzetbiztonsági Szolgálatot (a továbbiakban: KNBSZ) érintő hatósági ellenőrzést olyan katonai foglalkoztatás-felügyeleti ellenőr végezhet, akinek a nemzetbiztonsági ellenőrzését elvégezték, és ennek során nem állapítottak meg nemzetbiztonsági kockázatot.
+(3)[^3]
 
 [^2]: A 4. § (1) bekezdése a 385/2022. (X. 13.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 4. § (3) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 43. §-a hatályon kívül helyezte.

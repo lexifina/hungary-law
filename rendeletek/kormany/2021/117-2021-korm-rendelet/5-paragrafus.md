@@ -30,4 +30,6 @@ h) a hatósági ellenőrzés megkezdésének és befejezésének tervezett időp
 
 i) a katonai foglalkoztatás-felügyeleti ellenőr részletes feladatait.
 
-(3) A KNBSZ-nél tervezett hatósági ellenőrzés esetén az ellenőrzési terv és a vizsgálati program jóváhagyását megelőzően a katonai foglalkoztatás-felügyeleti hatóság előzetesen egyezteti a KNBSZ-szel az (1) bekezdés b) és c) pontjában és a (2) bekezdés e), g) és h) pontjában foglaltakat.
+(3)[^4] A Katonai Nemzetbiztonsági Szolgálatnál (a továbbiakban: KNBSZ) tervezett hatósági ellenőrzés esetén az ellenőrzési terv és a vizsgálati program jóváhagyását megelőzően a katonai foglalkoztatás-felügyeleti hatóság előzetesen egyezteti a KNBSZ-szel az (1) bekezdés b) és c) pontjában és a (2) bekezdés e), g) és h) pontjában foglaltakat.
+
+[^4]: Az 5. § (3) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 42. §-a szerint módosított szöveg.
