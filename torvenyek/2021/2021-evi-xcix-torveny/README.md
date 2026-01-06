@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-99-00-00
 | 2024-12-06 | 2024. évi LVI. törvény | 2021-99-00-00.11 |
 | 2025-08-19 | 2025. évi L. törvény | 2021-99-00-00.12 |
 | 2025-12-23 | 2025. évi CXX. törvény | 2021-99-00-00.13 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 2021-99-00-00.14 |
