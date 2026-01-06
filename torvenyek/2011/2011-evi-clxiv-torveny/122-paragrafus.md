@@ -20,7 +20,7 @@ b) az a) pontban meghatározott személyeknek a szabad mozgás és tartózkodás
 
 ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel és legalább alapfokú végzettséggel rendelkezik.
 
-(4) Nemzetbiztonsági ellenőrzés alá eső ügyészségi munkakört csak magyar állampolgár tölthet be.
+(4) Nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső ügyészségi munkakört csak magyar állampolgár tölthet be.
 
 (5) Nem nevezhető ki tisztviselőnek, írnoknak, fizikai alkalmazottnak az a személy, aki
 

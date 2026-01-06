@@ -112,9 +112,9 @@ A személyi nyilvántartás adatköre
 
 9. Az ügyészségi alkalmazott
 
-9.1. nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
+9.1. nemzetbiztonsági ellenőrzési vagy egyszerűsített nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
 
-9.2. utolsó nemzetbiztonsági ellenőrzésének időpontja;
+9.2. utolsó nemzetbiztonsági ellenőrzésének vagy utolsó egyszerűsített nemzetbiztonsági ellenőrzésének időpontja;
 
 10. Az ügyészségi alkalmazott
 
