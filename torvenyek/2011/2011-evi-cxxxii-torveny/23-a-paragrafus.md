@@ -4,7 +4,7 @@ a) meghatározott nyelv meghatározott típusú és szintű tudása,
 
 b) a magyarországi lakóhely,
 
-c) jogszabályban meghatározott esetben nyilatkozat, amelyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok megkezdéséhez szükséges nemzetbiztonsági ellenőrzést, illetve kifogástalan életvitelre vonatkozó ellenőrzést az illetékes szervek elvégezzék,
+c) jogszabályban meghatározott esetben nyilatkozat, amelyben a jelentkező hozzájárul ahhoz, hogy a tanulmányok megkezdéséhez szükséges nemzetbiztonsági ellenőrzést vagy egyszerűsített nemzetbiztonsági ellenőrzést, illetve kifogástalan életvitelre vonatkozó ellenőrzést az illetékes szervek elvégezzék,
 
 d) jogszabályban meghatározott esetben érvényes, kockázati tényezőt nem tartalmazó nemzetbiztonsági ellenőrzöttség,
 
