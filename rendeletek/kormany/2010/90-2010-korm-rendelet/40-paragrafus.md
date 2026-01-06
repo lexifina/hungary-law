@@ -1,4 +1,4 @@
-40. § (1)[^130] A minősítő a minősítéssel egyidejűleg a minősített adat különleges kezeléséről is rendelkezhet és a minősített adat hordozóján – ha ezt az adathordozó jellege kizárja, akkor külön kísérőlapon vagy elektronikus adatállományban – valamint annak csomagolásán a következő különleges kezelési utasításokat alkalmazhatja:
+40. § (1)[^136] A minősítő a minősítéssel egyidejűleg a minősített adat különleges kezeléséről is rendelkezhet és a minősített adat hordozóján – ha ezt az adathordozó jellege kizárja, akkor külön kísérőlapon vagy elektronikus adatállományban – valamint annak csomagolásán a következő különleges kezelési utasításokat alkalmazhatja:
 
 a) „Saját kezű felbontásra!”,
 
@@ -22,7 +22,7 @@ h) más, a minősített adat sajátosságától függő különleges kezelési u
 
 (4) A „Saját kezű felbontásra” különleges kezelési utasítással ellátott küldeményt a felbontásra jogosult személy a felhasználást követően lezárva és a lezárás helyén a minősített adatot kezelő szerv hivatalos bélyegzőjével ellátva, dokumentált módon adja át a titkos ügykezelőnek tárolás vagy más címzetthez való továbbítás céljából. A titkos ügykezelővel az iktatáshoz szükséges adatokat közli.
 
-(5)[^131] Az alapvető jogok biztosáról szóló törvényben nevesített adatfajták esetében az adathordozón a „Különösen fontos!” különleges kezelési utasítás szerepel.
+(5)[^137] Az alapvető jogok biztosáról szóló törvényben nevesített adatfajták esetében az adathordozón a „Különösen fontos!” különleges kezelési utasítás szerepel.
 
-[^130]: A 40. § (1) bekezdés nyitó szövegrésze a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^131]: A 40. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^136]: A 40. § (1) bekezdés nyitó szövegrésze a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^137]: A 40. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 23. §-ával megállapított szöveg.

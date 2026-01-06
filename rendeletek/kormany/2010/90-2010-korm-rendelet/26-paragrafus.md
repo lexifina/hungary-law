@@ -1,6 +1,6 @@
 ## 17. Beléptető rendszer és a látogatók ellenőrzése
 
-26. § (1)[^101] A biztonsági terület határán, valamint a 36. §–ban meghatározott Nyilvántartó és a Kezelőpont helyiségébe történő be- és kilépésre beléptető rendszer alkalmazásával kerül sor.
+26. § (1)[^103] A biztonsági terület határán, valamint a 36. §–ban meghatározott Nyilvántartó és a Kezelőpont helyiségébe történő be- és kilépésre beléptető rendszer alkalmazásával kerül sor.
 
 (2) A beléptető rendszer 4. kategóriájú, ha teljesen automatikus, elektronikus kártyával vagy más, ezzel egyenértékű eszközzel és PIN kód vagy biometrikus azonosító használatával működik. Az áthaladás mechanikus sorompó vagy őrség által ellenőrzött, mely egyszerre egy személy áthaladását teszi lehetővé. A ki- és belépések regisztrálása elektronikusan történik.
 
@@ -14,4 +14,4 @@
 
 (6) Amennyiben a biztonsági területre érkező látogató biztonsági vezetője írásban igazolja, hogy a látogató személyi biztonsági tanúsítvánnyal rendelkezik, a fogadó szerv biztonsági vezetője engedélyével, azonosító kártya viselése mellett önállóan, kíséret nélkül mozoghat a biztonsági területen.
 
-[^101]: A 26. § (1) bekezdése a 242/2021. (V. 12.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^103]: A 26. § (1) bekezdése a 242/2021. (V. 12.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

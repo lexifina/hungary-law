@@ -1,4 +1,4 @@
-## 63. §[^215] Ez a rendelet
+## 63. §[^221] Ez a rendelet
 
 1. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat,
 
@@ -6,4 +6,4 @@
 
 végrehajtásához szükséges rendelkezéseket határoz meg.
 
-[^215]: A 63. § a 441/2016. (XII. 16.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^221]: A 63. § a 441/2016. (XII. 16.) Korm. rendelet 26. §-ával megállapított szöveg.

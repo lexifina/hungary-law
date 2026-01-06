@@ -1,5 +1,5 @@
-## 16.[^100]
+## 16.[^102]
 
 25. §
 
-[^100]: A 16. alcímet (25. §) a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^102]: A 16. alcímet (25. §) a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés i) pontja hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 20. § (1) A II. osztályú biztonsági terület a biztonsági védettség szintje alapján kategóriába sorolt.
 
-(2)[^91] 4. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
+(2)[^93] 4. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
 
 a) a biztonsági területet határoló falazat, födém és padozat legalább 15 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel rendelkezik, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a 19. § (2) bekezdés c) pontjában meghatározott rácsszerkezettel rendelkezik,
 
@@ -10,7 +10,7 @@ b) az ablakokat – a föld felszínétől számított 6 méteres, valamint az �
 
 c) a nyitható rácsszerkezet számkombinációs zárral, a biztonsági területet határoló falazat felületén lévő biztonsági ajtó legalább 15 perces áttörésgátlással rendelkezik.
 
-(3)[^92] 3. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
+(3)[^94] 3. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
 
 a) a biztonsági területet határoló falazat, födém és padozat legalább 6 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel rendelkezik, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a 19. § (2) bekezdés b) pontjában meghatározott rácsszerkezettel rendelkezik,
 
@@ -18,7 +18,7 @@ b) az ablakokat – a föld felszínétől számított 6 méteres, valamint az �
 
 c) a nyitható rácsszerkezet számkombinációs zárral, a biztonsági területet határoló falazat felületén lévő biztonsági ajtó legalább 10 perces áttörésgátlással rendelkezik.
 
-(4)[^93] 2. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
+(4)[^95] 2. kategóriájú a helyszín, ha a II. osztályú biztonsági terület helyszínén
 
 a) a biztonsági területet határoló falazat, födém és padozat legalább 6 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel rendelkezik, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a 19. § (2) bekezdés a) pontjában meghatározott rácsszerkezettel rendelkezik,
 
@@ -40,7 +40,7 @@ c) a (4) bekezdésben szereplő rácsszerkezettel egyenértékű az a biztonság
 
 áttörésbiztos fokozattal rendelkezik.
 
-(7)[^94] A biztonsági területet határoló falazat
+(7)[^96] A biztonsági területet határoló falazat
 
 a) a (4) bekezdésben szereplő rácsszerkezettel egyenértékű, ha legalább 5 perces áttörésgátlással vagy legalább P5A dobásálló fokozattal,
 
@@ -50,7 +50,7 @@ c) a (2) bekezdésben szereplő rácsszerkezettel egyenértékű, ha legalább 1
 
 rendelkezik.
 
-[^91]: A 20. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^92]: A 20. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^93]: A 20. § (4) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^94]: A 20. § (7) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^93]: A 20. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^94]: A 20. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^95]: A 20. § (4) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^96]: A 20. § (7) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 14. § (2) bekezdése iktatta be.
