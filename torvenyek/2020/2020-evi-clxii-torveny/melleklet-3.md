@@ -124,7 +124,7 @@ Az adatgyűjtő modulba feltöltendő adatkörök a Hszt. hatálya alatt álló 
 
 6.17. alkalmassági vizsgálat (típusa, időpontja, minősítése)
 
-6.18. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+6.18. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
 
 6.19. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
 

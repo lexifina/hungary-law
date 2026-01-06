@@ -108,7 +108,7 @@ Az adatgyűjtő modulba feltöltendő adatkörök a Kit. hatálya alatt álló p
 
 6.12. alkalmassági vizsgálat (típusa, időpontja, minősítése)
 
-6.13. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+6.13. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
 
 6.14. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
 

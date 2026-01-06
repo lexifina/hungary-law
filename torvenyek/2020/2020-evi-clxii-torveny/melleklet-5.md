@@ -118,7 +118,7 @@ Az adatgyűjtő modulba feltöltendő adatkörök az Nsztv. pénzügyőri, pénz
 
 6.15. alkalmassági vizsgálat (típusa, időpontja, minősítése)
 
-6.16. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+6.16. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
 
 6.17. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
 
