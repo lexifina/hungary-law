@@ -4,4 +4,4 @@
 
 (3) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény alapján meghatározott munkakörök esetében a kinevezés feltétele a vagyonnyilatkozat-tételi kötelezettség teljesítése.
 
-(4) Ha a munkakör nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül, a kinevezés feltétele a nemzetbiztonsági ellenőrzéshez való hozzájárulás.
+(4) Ha a munkakör nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörnek minősül, a kinevezés feltétele a nemzetbiztonsági ellenőrzéshez, egyszerűsített nemzetbiztonsági ellenőrzéshez való hozzájárulás.

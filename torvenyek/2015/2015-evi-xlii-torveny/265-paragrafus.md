@@ -10,6 +10,6 @@
 
 (4) A szolgálati nyugdíjas rendfokozatban kettő alkalommal előléptethető vagy kinevezhető, ha a rendvédelmi szerv célja érdekében kifejtett kiemelkedő tevékenységével arra érdemesült.
 
-(5) A (3) bekezdés szerinti lakásbérleti jog nem illeti meg a szolgálati nyugdíjast, ha a szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg.
+(5) A (3) bekezdés szerinti lakásbérleti jog nem illeti meg a szolgálati nyugdíjast, ha a szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) és h) pontja alapján szűnt meg.
 
 (6) A szolgálati nyugdíjas és közeli hozzátartozója a XXII. Fejezet rendelkezései szerint jogosult szociális gondoskodásra és kegyeleti ellátásra.

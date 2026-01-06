@@ -12,7 +12,7 @@
 
 a) a hivatásos állomány 77. § (1) bekezdés a) pontja szerinti rendelkezési állományban lévő tagja esetében a fizetési várakozási időbe akkor számít be, ha a szolgálatteljesítés során a fizetési fokozatban előresoroláshoz szükséges egyéb feltételeket teljesíti,
 
-b) a hivatásos állomány 77. § (1) bekezdés b) vagy h)–k) pontja szerinti rendelkezési állományban lévő tagja esetében a fizetési várakozási időbe akkor számít be, ha a 77. § (6) bekezdése alapján szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró gondoskodott,
+b) a hivatásos állomány 77. § (1) bekezdés b) vagy h)–l) pontja szerinti rendelkezési állományban lévő tagja esetében a fizetési várakozási időbe akkor számít be, ha a 77. § (6) bekezdése alapján szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró gondoskodott,
 
 c) a hivatásos állomány 77. § (1) bekezdés c)–g) pontja szerinti rendelkezési állományban lévő tagja esetében a fizetési várakozási időbe nem számít bele,
 

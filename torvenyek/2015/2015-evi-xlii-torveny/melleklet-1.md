@@ -122,7 +122,7 @@ e) a szolgálati beosztáshoz rendszeresített rendfokozat,
 
 f) az előírt iskolai végzettség, képzettségi követelmény,
 
-g) a szolgálati beosztás ellátásához előírt egyéb feltétel (vagyonnyilatkozat, nemzetbiztonsági ellenőrzés),
+g) a szolgálati beosztás ellátásához előírt egyéb feltétel (vagyonnyilatkozat, nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés),
 
 h) a szolgálati beosztás betöltésének kezdete és vége,
 

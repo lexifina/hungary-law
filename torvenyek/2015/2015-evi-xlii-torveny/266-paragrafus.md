@@ -6,7 +6,7 @@
 
 (4) Az egyenruha viselésére és a rendfokozatra méltatlan az,
 
-a) akinek szolgálati viszonyát a 80. § (1) bekezdés f) vagy g) pontja, a 80. § (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szüntették meg,
+a) akinek szolgálati viszonyát a 80. § (1) bekezdés f) vagy g) pontja, a 80. § (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) és h) pontja alapján szüntették meg,
 
 b) aki nyugállományba helyezését követően egyenruhában nyilvános helyen, mások előtt megbotránkozást keltő magatartást tanúsít,
 

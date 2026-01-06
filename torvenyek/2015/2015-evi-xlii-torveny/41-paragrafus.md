@@ -28,6 +28,6 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 
-g) aki korábban már állt szolgálati viszonyban és szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a szolgálati viszony megszűnését, továbbá – ha az később telik le – a büntetőjogi jogkövetkezmények megszűnését követő öt évig.
+g) aki korábban már állt szolgálati viszonyban és szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, vagy a 86. § (2) bekezdés b)–d) és h) pontja alapján szűnt meg, a szolgálati viszony megszűnését, továbbá – ha az később telik le – a büntetőjogi jogkövetkezmények megszűnését követő öt évig.
 
 (2) Az (1) bekezdés c) pont cc)–cg) alpontjában és az (1) bekezdés e) pontjában foglalt kizáró októl az állományilletékes parancsnok eltekinthet, ha a mentesítés már bekövetkezett.

@@ -18,7 +18,7 @@ h) a 145. § (1) bekezdése szerinti pótszabadság (a továbbiakban: apasági s
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
 
-a) a 86. § (2) bekezdés b) vagy c) pontja alapján alkalmatlanná vált,
+a) a 86. § (2) bekezdés b), c) vagy h) pontja alapján alkalmatlanná vált,
 
 b) a 86. § (2) bekezdés d) pontja alapján méltatlanná vált,
 

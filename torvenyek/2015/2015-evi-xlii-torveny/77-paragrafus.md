@@ -24,11 +24,13 @@ j) akinek a szolgálati viszonyát a (4) bekezdés alapján felmentéssel meg ke
 
 k) akit a szolgálati beosztásából a nemzetbiztonsági ellenőrzés során megállapított nemzetbiztonsági kockázat miatt fel kellett menteni, de az 54. § (4) bekezdése szerinti szolgálati beosztás felajánlására nincs lehetőség, az 54. § (4) bekezdésében foglaltaknak megfelelő szolgálati beosztás felajánlásáig, de legfeljebb egy évig.
 
+l) az, akit a szolgálati beosztásából az egyszerűsített nemzetbiztonsági ellenőrzés során felmerült, a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ miatt felmentettek, de az 54/B. § (2) bekezdése szerinti szolgálati beosztás felajánlására nincs lehetőség, az 54/B. § (2) bekezdésében foglaltaknak megfelelő szolgálati beosztás felajánlásáig, de legfeljebb egy évig.
+
 (2) Az
 
 a) (1) bekezdés a) pontja alá tartozók jogaira és kötelezettségeire a 62–69. § rendelkezései irányadók,
 
-b) (1) bekezdés b), e), g), h), i), j) és k) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel,
+b) (1) bekezdés b), e), g), h), i), j), k) és l) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel,
 
 c) (1) bekezdés c) és d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, valamint a tanulmányi szerződés határozza meg,
 

@@ -12,13 +12,15 @@ a) egészségi állapota alapján a munkakör ellátására alkalmatlanná vált
 
 b) a feladata ellátására alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
 
-c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső igazgatási jogviszony fenntartását jóváhagyta,
+c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső igazgatási jogviszony fenntartását – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta,
 
 d) a vezetői kinevezés visszavonását követően munkakör részére nem biztosítható vagy a felajánlott munkakört nem fogadja el,
 
 e) a más szervhez kirendelés megszűnése után részére a végzettségének, képzettségének megfelelő munkakör nem biztosítható vagy a részére felajánlott alacsonyabb munkakört nem fogadja el.
 
 f) hivatása gyakorlására érdemtelen.
+
+g) nemzetbiztonsági szempontból alkalmatlanná vált, mert az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, a munkáltatói jogkört gyakorló mérlegelés alapján nem tartotta őt az egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörben és a számára felajánlott, a végzettségének és képzettségének megfelelő – egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső – más munkakört nem fogadta el.
 
 (3) A rendvédelmi alkalmazott igazgatási jogviszonyát kérelmére felmentéssel meg kell szüntetni, ha legkésőbb az igazgatási jogviszony megszűnésének napjával rendelkezik a Tny. 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 

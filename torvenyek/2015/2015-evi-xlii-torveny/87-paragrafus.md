@@ -22,7 +22,7 @@ meghosszabbodik. E tekintetben a hivatásos szolgálati időt kell figyelembe ve
 
 a) a 86. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált,
 
-b) a 86. § (2) bekezdés c) pontjában meghatározott okból a hivatásos szolgálatra nemzetbiztonsági szempontból alkalmatlanná vált, valamint
+b) a 86. § (2) bekezdés c) vagy h) pontjában meghatározott okból a hivatásos szolgálatra nemzetbiztonsági szempontból alkalmatlanná vált, valamint
 
 c) a 86. § (2) bekezdés d) pontjában meghatározott okból a hivatásos szolgálatra méltatlanná vált
 

@@ -28,7 +28,7 @@ a) nyugdíjasnak minősül,
 
 b) felmentését maga kérte.
 
-c) a 288/F. § (2) bekezdés c) pontja alapján alkalmatlanná vált, vagy
+c) a 288/F. § (2) bekezdés c) vagy g) pontja alapján alkalmatlanná vált, vagy
 
 d) a 288/F. § (2) bekezdés f) pontja alapján érdemtelen.
 

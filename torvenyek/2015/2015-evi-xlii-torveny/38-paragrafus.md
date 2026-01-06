@@ -10,7 +10,7 @@ c) megfelel a szolgálati viszony megszűnése előtt betöltött utolsó szolg�
 
 d) a szolgálati viszony megszűnésekor az ötvenötödik életévét még nem töltötte be, és
 
-e) szolgálati viszonya nem a 80. § (1) bekezdés a), f), g) pontjában, a 80. § (2) bekezdés b), c) pontjában vagy a 86. § (2) bekezdés a)–d) pontjában meghatározott okból szűnt meg.
+e) szolgálati viszonya nem a 80. § (1) bekezdés a), f), g) pontjában, a 80. § (2) bekezdés b), c) pontjában vagy a 86. § (2) bekezdés a)–d) és h) pontjában meghatározott okból szűnt meg.
 
 (3) A tartalékos-nyilvántartásba vételt a rendvédelmi szerv és a hivatásos állomány volt tagja is kezdeményezheti. A nyilvántartásba vételhez szükséges a hivatásos állomány volt tagjának hozzájárulása.
 

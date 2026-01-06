@@ -2,11 +2,13 @@
 
 42. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény tanulója, valamint a rendvédelmi tisztjelölt életvitelét a tanulói, valamint a hallgatói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja, a tanuló, valamint a rendvédelmi tisztjelölt életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
+(1a) A szolgálati viszony fennállása alatt az egyszerűsített nemzetbiztonsági ellenőrzés kezdeményezésével egyidejűleg a kifogástalan életvitel soron kívüli ellenőrzésére is intézkedni lehet.
+
 (2) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett szolgálati beosztása vagy a hivatásos állomány tagjának szolgálati beosztása nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásnak minősül. Ha a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot állapítottak meg
 
-a) a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő tagjával szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, intézkedni kell a hivatásos állomány tagja életvitelének soron kívüli ellenőrzésére;
+a) a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő tagjával szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását az Nbtv. szerint arra feljogosított személy nem hagyta jóvá, intézkedni kell a hivatásos állomány tagja életvitelének soron kívüli ellenőrzésére;
 
-b) a hivatásos állományba jelentkezővel szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, de a rendvédelmi szerv a jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati beosztás felajánlását tervezi, intézkedni kell a kifogástalan életvitel-ellenőrzés lefolytatására.
+b) a hivatásos állományba jelentkezővel szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését az Nbtv. szerint arra feljogosított személy nem hagyta jóvá, de a rendvédelmi szerv a jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati beosztás felajánlását tervezi, intézkedni kell a kifogástalan életvitel-ellenőrzés lefolytatására.
 
 (2a) A hivatásos állomány tagjának 1. mellékletben meghatározott személyes és bűnügyi adatait, valamint a közeli hozzátartozójának a bűnügyi nyilvántartásban kezelt adatait a kifogástalan életvitel ellenőrzését végző szerv a kifogástalan életvitel ellenőrzés céljából megismerheti, ennek tényét előbbi esetben a hivatásos állomány tagja vagy a hivatásos állományba jelentkező, utóbbi esetben a közeli hozzátartozó írásban tudomásul veszi.
 
@@ -40,7 +42,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését
 
-a) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
+a) a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség esetében az Alkotmányvédelmi Hivatal,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 

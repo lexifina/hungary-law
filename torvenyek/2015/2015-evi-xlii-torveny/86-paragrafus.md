@@ -18,7 +18,7 @@ ab) szolgálati beosztásának ellátására alkalmatlanná vált
 
 b) a hivatásos szolgálatra alkalmatlanná vált, mert nem felel meg a kifogástalan életvitel követelményének,
 
-c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
+c) nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg – kivéve, ha az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását, az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével, jóváhagyta –, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, és
 
 ca) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54. vagy 54/A. §-ban foglaltak szerint felajánlott szolgálati beosztást nem fogadta el, vagy
 
@@ -31,6 +31,12 @@ e) a vezetői kinevezés visszavonását követően az 59. § (4) bekezdése sze
 f) a 77. § (4) vagy (5) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő szolgálati beosztás nem biztosítható,
 
 g) az 51. § (2) vagy (3) bekezdésében meghatározott szervhez vezénylés, valamint külföldre vezénylés megszűnése után részére a 64. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető, vagy a részére a 64. § (3) bekezdése alapján felajánlott alacsonyabb szolgálati beosztást nem fogadja el.
+
+h) nemzetbiztonsági szempontból alkalmatlanná vált, mert az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta, az állományilletékes parancsnok mérlegelése alapján nem tartotta őt az egyszerűsített nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásban, és
+
+ha) a hivatásos állomány tagja a részére az eredeti szolgálati beosztásból való felmentését követően vagy a rendelkezési állomány ideje alatt az 54/B. § (2) bekezdése szerint felajánlott szolgálati beosztást nem fogadta el, vagy
+
+hb) a rendelkezési állomány ideje úgy telik el, hogy részére az 54/B. § (2) bekezdésében foglaltaknak megfelelő, felajánlható szolgálati beosztás nem volt.
 
 (3) A hivatásos állomány nő tagjának szolgálati viszonyát kérelmére felmentéssel meg kell szüntetni, ha legkésőbb a szolgálati viszony megszűnésének napjával rendelkezik a Tny. 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 

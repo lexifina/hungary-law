@@ -1,4 +1,4 @@
-173. § (1) Ha a hivatásos állomány tagjának szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés a), b) vagy h) pontja, 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
+173. § (1) Ha a hivatásos állomány tagjának szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés a), b) vagy h) pontja, 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) és h) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
 (2) Az állományilletékes parancsnok a szolgálati viszony (1) bekezdés szerinti megszűnése esetén erről nyolc napon belül értesíti a hivatásos állomány tagja által a 172. § (5) bekezdése alapján bejelentett hitelintézetet.
 

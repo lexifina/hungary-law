@@ -4,7 +4,7 @@ a) tagjával szemben a nemzetbiztonsági ellenőrzés során nemzetbiztonsági k
 
 b) tagja a 33. § (6) bekezdése szerint megtett hozzájáruló nyilatkozatát visszavonta,
 
-és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásból azonnali hatállyal fel kell menteni.
+és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását az Nbtv. szerint arra feljogosított személy nem hagyta jóvá, a hivatásos állomány tagját a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásból azonnali hatállyal fel kell menteni.
 
 (2) A szolgálati beosztásból történő felmentéssel egyidejűleg intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzésére. A szolgálati beosztásból történő felmentés időpontjától a hivatásos állomány tagjának szolgálati viszonya szünetel.
 
