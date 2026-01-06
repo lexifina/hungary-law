@@ -28,7 +28,7 @@ k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegel�
 
 (4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) és k) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
-(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – a telephely biztonsági tanúsítvány és az egyszerűsített telephely biztonsági tanúsítvány kiadása kivételével – térítésmentesek.
+(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – jogszabály eltérő rendelkezése hiányában – térítésmentesek.
 
 (6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 

@@ -1,0 +1,9 @@
+76/H. § (1) A 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá vonható személyek keretszámának 69. § (5) bekezdése szerinti megállapítását követően a foglalkoztató tájékoztatja a nemzetbiztonsági ellenőrzés lefolytatására jogosult nemzetbiztonsági szolgálatot, arról, hogy a Módtv4. hatálybalépését megelőzően nemzetbiztonsági ellenőrzésre kötelezett személyek közül mely személy rendelkezik érvényes, kockázatmentes biztonsági szakvéleménnyel úgy, hogy a Módtv4. hatálybalépését követően hatályos 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső személynek minősül. Ezen személyeket a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat felviszi a 69. § (7) bekezdése szerinti nyilvántartásba.
+
+(2) Az (1) bekezdés szerinti tájékoztatást megelőzően nem kezdeményezhető nemzetbiztonsági ellenőrzés a 74. § i) pont ia) alpontja alapján.
+
+(3) Az (1) bekezdés szerinti személyeket be kell számítani a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter által megállapított keretszámba, nemzetbiztonsági ellenőrzés csak a fennmaradó keretszám terhére kezdeményezhető.
+
+(4) A Módtv4. hatálybalépését megelőzően nemzetbiztonsági ellenőrzésre kötelezett érvényes, kockázatmentes biztonsági szakvéleménnyel rendelkező azon személyek esetében, akik a Módtv4. hatálybalépését követően az (1) bekezdés szerinti tájékoztatás vagy a 74. § i) pont ib)–iq) alpontja alapján nem minősülnek nemzetbiztonsági ellenőrzés alá eső személynek, – az (1) bekezdés szerinti tájékoztatással egyidejűleg – a személyi biztonsági tanúsítvány érvényét veszti.
+
+(5) A foglalkoztató az (1) bekezdés szerinti tájékoztatástól számított 8 napon belül tájékoztatja a Nemzeti Biztonsági Felügyeletet azon személyekről, akik részére a Nemzeti Biztonsági Felügyelet személyi biztonsági tanúsítványt állított ki, azonban a (4) bekezdés alapján a Módtv4. hatálybalépésétől a személyi biztonsági tanúsítványuk érvényét veszti.

@@ -2,7 +2,7 @@
 
 BIZTONSÁGI KÉRDŐÍV
 
-nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhez
+nemzetbiztonsági ellenőrzés/egyszerűsített nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhez
 
 |
 
@@ -1226,7 +1226,7 @@ XIII. BIZTONSÁGI NYILATKOZAT
 
 Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
 
-Hozzájárulok ahhoz, hogy a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés keretében személyemet érintően adatot gyűjtsön és a biztonsági feltételek meglétét a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőzően, valamint felülvizsgálati eljárás keretében a jogviszony fennállásának tartama alatt ellenőrizze. Tudomásul veszem, hogy amennyiben az adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat személyemet érintően titkos információgyűjtést is folytathat.
+Hozzájárulok ahhoz, hogy a nemzetbiztonsági ellenőrzést/egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés/egyszerűsített nemzetbiztonsági ellenőrzés keretében személyemet érintően adatot gyűjtsön és a biztonsági feltételek meglétét a nemzetbiztonsági ellenőrzés/egyszerűsített nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőzően, valamint felülvizsgálati eljárás keretében a jogviszony fennállásának tartama alatt ellenőrizze. Tudomásul veszem, hogy amennyiben az adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést/egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat személyemet érintően titkos információgyűjtést is folytathat.
 
 A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény vagy szabálysértés elkövetésével vádolni.
 
@@ -1236,7 +1236,7 @@ aláírás, cím
 
 XIV. Házastárs, bejegyzett élettárs, élettárs, közös háztartásban élő nagykorú hozzátartozó nyilatkozata
 
-Tudomásul veszem, hogy házastársam, élettársam, velem közös háztartásban élő nagykorú hozzátartozóm nemzetbiztonsági ellenőrzése – beleértve az adatváltozással kapcsolatos ellenőrzést is – személyemet is érintheti; ennek keretén belül, ha a szükséges adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat titkos információgyűjtést is folytathat.
+Tudomásul veszem, hogy házastársam, élettársam, velem közös háztartásban élő nagykorú hozzátartozóm nemzetbiztonsági ellenőrzése/egyszerűsített nemzetbiztonsági ellenőrzése – beleértve az adatváltozással kapcsolatos ellenőrzést is – személyemet is érintheti; ennek keretén belül, ha a szükséges adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést/egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat titkos információgyűjtést is folytathat.
 
 Kelt, ......................., 201......
 

@@ -39,3 +39,5 @@ a) a saját állománya tekintetében,
 b) a Nemzeti Információs Központba vezényelt állomány tekintetében, valamint
 
 c) azon személyek tekintetében, akiknek szolgálatteljesítési helyeként a Nemzeti Információs Központot jelölték ki.
+
+(7a) A Nemzeti Információs Központ ellátja az objektumai műveleti védelmének feladatait.

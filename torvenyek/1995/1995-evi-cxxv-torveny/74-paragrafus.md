@@ -14,6 +14,8 @@ ad) az ország az alapvető emberi jogok gyakorlását biztosító törvényes r
 
 ae) a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
 
+af) a kibertérből érkező fenyegetések és támadások észlelése, az azokkal szembeni védelem és a kibertérből érkező támadás megszakítása;
+
 b) állami szerv: a minisztériumok, a kormányzati igazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
 
 c) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
@@ -24,59 +26,45 @@ e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott,
 
 f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
 
-g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági alkalmazotti és a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
+g) minősített adatkezelési statisztikai adatok: a minősített adatot kezelő szervnél a 69. § (4) bekezdése szerinti javaslat benyújtását megelőző 3 évben érvényes biztonsági szakvéleménnyel rendelkező személyek közül a ténylegesen „Bizalmas!” vagy annál magasabb szintű minősített adathoz hozzáférő felhasználók száma évenkénti bontásban;
 
-h)
+h) minősített adatok iratforgalmi statisztikája: a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló kormányrendelet alapján, a minősített adatot kezelő szervnél a 69. § (4) bekezdése szerinti javaslat benyújtását megelőző 3 évben, minősítési szintenkénti bontásban elkészített nemzeti minősített adatok, a NATO és az EU minősített adatok iratforgalmának kimutatása;
 
 i) nemzetbiztonsági ellenőrzés alá eső személy:
 
-ia) a külképviselet-vezető;
+ia) a minősített adat védelméről szóló törvény alapján „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adat felhasználását magában foglaló munkakört betöltő személy;
 
-ib) a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
+ib) a nemzetbiztonsági szolgálatokat – akár átruházott hatáskörben – irányító államtitkár vagy a miniszterelnök nemzetbiztonsági főtanácsadója szervezeti egységeinek munkakörét betöltő személy;
 
-ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
+ic) a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
 
-id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
+id) a közigazgatási államtitkár, a helyettes államtitkár;
 
-ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
+ie) a külképviselet-vezető;
 
-if) a Sándor-palota hivatali szervezetének vezetője;
+if) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
 
-ig) a Honvéd Vezérkar főnöke és helyettese;
+ig) az Országgyűlés Hivatalának főigazgatója;
 
-ih) a rendvédelmi szerv országos parancsnoka és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője;
+ih) a Sándor-palota hivatali szervezetének vezetője;
 
-ii) a tábornok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezett;
+ii) a Honvéd Vezérkar főnöke és helyettese;
 
-ij) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója, felügyelő bizottságának tagja;
+ij) a rendvédelmi szerv országos parancsnoka és helyettese, a rendvédelmi szerv országos főigazgatója és helyettese, a nemzetbiztonsági szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány, a határrendészeti kirendeltség vezetője, az Országgyűlési Őrség parancsnoka és helyettese;
 
-ik) a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
+ik) a nemzetbiztonsági szolgálat személyi állománya, valamint a nemzetbiztonsági szolgálattal polgári jogi szerződést kötő, azt személyesen teljesítő valamennyi személy, ha a szerződés befolyástól mentes teljesítéséhez fokozott nemzetbiztonsági érdek fűződik, vagy a személyesen teljesítő személy fokozottan ki van téve befolyásolási törekvéseknek;
 
-il) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottságába és a honvédelemmel foglalkozó állandó bizottságába, illetve – amennyiben feladata ellátásához „bizalmas” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, illetve eseti bizottságba jelölt személy, illetve tag;
+il) a terrorizmust elhárító szerv, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
 
-im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottsága, a honvédelemmel foglalkozó állandó bizottsága, valamint – amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottság, illetve eseti bizottság eljárásában közreműködő szakértő;
+im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottságába, a külügyekkel foglalkozó állandó bizottságába és a honvédelemmel foglalkozó állandó bizottságába, illetve – amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, illetve eseti bizottságba jelölt személy, illetve tag, valamint az ilyen bizottságok eljárásában közreműködő szakértő;
 
-in) aki a minősített adat védelméről szóló törvényben meghatározott minősített adatot kezelő szervvel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszonyban áll és e jogviszonyával összefüggésben fokozottan ki van téve jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek;
+in) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
 
-io) aki foglalkoztatási jogviszony vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszony alapján a minősített adat védelméről szóló törvény szerinti „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos” minősítésű adat megismerésére vagy felhasználására jogosult;
+io) az 55. §-ban meghatározott kijelölt ügyész;
 
-ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adatot szükséges felhasználnia;
+ip) a telephely biztonsági tanúsítvány kiadására irányuló eljárást kezdeményező vagy telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet ügyvezetését ellátó valamennyi személy, a cégvezető, a gazdálkodó szervezet legalább 5%-ot meghaladó vagyoni hozzájárulással rendelkező tagja, részvényese, alapítvány esetén az alapítói jogokat gyakorló természetes személy, a kijelölésre kerülő biztonsági vezető, valamint a titkos ügykezelő, a rendszerbiztonsági felügyelő, a rendszeradminisztrátor, továbbá a minősített szerződés előkészítésében és végrehajtásában érintett valamennyi személy;
 
-ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
-
-is) az 55. §-ban meghatározott kijelölt ügyész;
-
-it) azon alapítvány, közalapítvány vezető tisztségviselője, vezető állású munkavállalója, felügyelőbizottságának tagja, amely felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja;
-
-iu) az Országgyűlési Őrség személyi állománya;
-
-iv) a Nemzeti Emlékezet Bizottsága tagja;
-
-iw) a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetekkel, kritikus infrastruktúrákkal, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos közigazgatási hatósági eljárásban a hatóságok és az ágazati szakhatóságok részéről eljáró személy;
-
-ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.
-
-iy) az Országos Atomenergia Hivatal foglalkoztatottja;
+iq) az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárást kezdeményező vagy egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet ügyvezetését ellátó valamennyi személy, a cégvezető, a gazdálkodó szervezet legalább 5%-ot meghaladó vagyoni hozzájárulással rendelkező tagja, részvényese, alapítvány esetén az alapítói jogokat gyakorló természetes személy, a kijelölésre kerülő biztonsági vezető, valamint a minősített szerződés előkészítésében és végrehajtásában érintett valamennyi személy;
 
 j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 
@@ -97,3 +85,9 @@ q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az éri
 r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
 
 t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet.
+
+u) foglalkoztatotti létszám: az állami szervek és szervezetek esetében a költségvetési engedélyezett létszám, gazdálkodó szervezeteknél az előző évi átlagos statisztikai létszám;
+
+v) állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet: az a gazdasági társaság, amelyben a magyar állam, költségvetési szerv vagy közalapítvány külön-külön vagy együttesen számítva többségi befolyással rendelkezik;
+
+w) többségi befolyás: olyan kapcsolat, amelynek révén a befolyással rendelkező egy jogi személyben a szavazatok több mint ötven százalékával rendelkezik.

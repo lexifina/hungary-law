@@ -5,3 +5,5 @@
 a) nem alkalmas a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony törvényes, illetéktelen befolyástól mentes ellátására, vagy ha
 
 b) személyével szemben olyan körülmény áll fenn, amely sérti vagy veszélyezteti a minősített adat védelméhez fűződő érdeket.
+
+(3) A nemzetbiztonsági ellenőrzés kizárólag 18. életévét betöltött személlyel szemben kezdeményezhető.

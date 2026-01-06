@@ -1,0 +1,5 @@
+76/I. § (1) Az egyszerűsített nemzetbiztonsági ellenőrzés alá vonható személyek keretszámának a 72/F. § (6) bekezdése szerinti megállapítását követően a foglalkoztató tájékoztatja az egyszerűsített nemzetbiztonsági ellenőrzés lefolytatására jogosult nemzetbiztonsági szolgálatot, arról, hogy az egyszerűsített nemzetbiztonsági ellenőrzésre kötelezett személyek közül mely személy rendelkezik érvényes, kockázatmentes biztonsági szakvéleménnyel úgy, hogy a Módtv4. hatálybalépését követően nem minősül nemzetbiztonsági ellenőrzés alá eső személynek. Ezen személyeket az egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat felviszi a 72/F. § (8) bekezdése szerinti nyilvántartásba.
+
+(2) Az (1) bekezdés szerinti tájékoztatást megelőzően nem kezdeményezhető egyszerűsített nemzetbiztonsági ellenőrzés.
+
+(3) Az (1) bekezdés szerinti személyeket be kell számítani az egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter által megállapított keretszámba, új egyszerűsített nemzetbiztonsági ellenőrzés csak a fennmaradó keretszám terhére kezdeményezhető.

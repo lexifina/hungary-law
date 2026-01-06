@@ -4,7 +4,7 @@
 
 (3)
 
-(4) A Bizottság tagjának jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést az Alkotmányvédelmi Hivatal végzi, a 68. § (5) bekezdésében foglaltak szerint.
+(4) A Bizottság tagjának jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést az Alkotmányvédelmi Hivatal végzi.
 
 (5) Kockázati tényező felmerülése esetén az Alkotmányvédelmi Hivatal főigazgatója tájékoztatja az érintett képviselőt és a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert.
 

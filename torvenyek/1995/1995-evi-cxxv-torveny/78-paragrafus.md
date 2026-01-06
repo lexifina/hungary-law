@@ -8,17 +8,15 @@ c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 
 d)
 
-e) a vegyi eszköz és az elektromos sokkoló eszköz viselésével, használatával és tárolásával kapcsolatos részletes szabályokat.
+e) a vegyi eszköz és az elektromos sokkoló eszköz rendszeresítésével, viselésével, használatával és tárolásával kapcsolatos részletes szabályokat.
 
-(1a) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó szervek esetében, ha a nemzetbiztonsági ellenőrzés lefolytatása
+(1a) Felhatalmazást kapnak
 
-a) az Alkotmányvédelmi Hivatal vagy a Nemzetbiztonsági Szakszolgálat hatáskörébe tartozik, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
+a) a miniszterek, hogy az irányításuk, felügyeletük vagy vezetésük alá tartozó minősített adatot kezelő szervek esetében rendeletben állapítsák meg az egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkaköröket,
 
-b) az Információs Hivatal hatáskörébe tartozik, a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+b) a 72/F. § (2) bekezdése szerinti miniszterek, hogy azon alapítvány vagy közalapítvány esetében, amely felett az alapítói jogokat a Kormány tagja, vagy a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja rendeletben egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörré minősítsék a vezető tisztségviselői tisztséget vagy a vezető állású munkavállaló munkakörét, valamint
 
-c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelemért felelős miniszter
-
-egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
+c) a 72/F. § (3) bekezdés a)–d) pontja szerinti miniszterek, hogy az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet esetében rendeletben egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörré minősítsék a vezető tisztségviselői tisztséget vagy a vezető állású munkavállaló munkakörét.
 
 (1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza
 

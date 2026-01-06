@@ -2,23 +2,23 @@
 
 72/B. § (1) A nemzetbiztonsági szolgálat felülvizsgálati eljárás keretében vizsgálhatja
 
-a) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyának fennállása alatt,
+a) az érvényes biztonsági szakvéleménnyel rendelkező személyt a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakör betöltése alatt,
 
-b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba történő jelölését megelőzően vagy
+b) az érvényes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló munkakörbe történő jelölését megelőzően, vagy
 
-c) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személyt, ha a 71. § (2) és (3) bekezdése szerint a jogviszony létrehozását, illetve fenntartását jóváhagyták.
+c) a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakört betöltő személyt, ha a 71. § (2) és (3) bekezdése szerint a munkakör betöltését jóváhagyták.
 
 (2) Felülvizsgálati eljárás akkor folytatható le, ha
 
-a) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy jogviszonyának tartalma, így a munkakör ellátásával kapcsolatos feladatok, jogok és kötelezettségek, a munkavégzési körülmények jellege lényegesen megváltozik vagy a megváltozott munkakör befolyástól mentes ellátásához fokozott nemzetbiztonsági érdek fűződik, továbbá amennyiben a megváltozott tartalmú munkakört betöltő személy fokozottabban ki van téve a befolyásolási törekvéseknek,
+a) a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakört betöltő személy jogviszonyának tartalma, így a munkakör ellátásával kapcsolatos feladatok, jogok és kötelezettségek, a munkavégzési körülmények jellege lényegesen megváltozik, és a megváltozott munkakör befolyástól mentes ellátásához fokozott nemzetbiztonsági érdek fűződik, vagy a megváltozott tartalmú munkakört betöltő személy fokozottabban ki van téve a befolyásolási törekvéseknek,
 
-b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba jelölik,
+b) az érvényes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló munkakörbe jelölik,
 
-c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy ezt kéri,
+c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakört betöltő személy ezt kéri,
 
-d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
+d) a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakört betöltő személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
 
-e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult az alábbiakról szerez tudomást:
+e) a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakört betöltő személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult az alábbiakról szerez tudomást:
 
 ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
 
@@ -34,40 +34,40 @@ ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek has
 
 eg) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója szervezett bűnözői körökkel, ellenérdekelt titkosszolgálathoz kötődő személlyel való kapcsolattartása,
 
-eh) az ellenőrzött életvitelében, körülményeiben bekövetkező olyan változás, amely alkalmas az ellenőrzött befolyásolására, zsarolhatóságára,
+eh) az ellenőrzött személy életvitelében, körülményeiben bekövetkező olyan változás, amely alkalmas az ellenőrzött személy befolyásolására, zsarolhatóvá válására,
 
-ei) az ellenőrzött hivatali helyzetével való visszaélése,
+ei) az ellenőrzött személy hivatali helyzetével való visszaélése,
 
-ej) az ellenőrzött szélsőséges politikai vagy vallási jellegű szervezetekkel, csoportokkal való kapcsolattartása, ilyen szervezetekhez, csoportokhoz való tartozása, illetve ezek anyagi jellegű támogatása.
+ej) az ellenőrzött személy szélsőséges politikai vagy vallási jellegű szervezetekkel, csoportokkal való kapcsolattartása, ilyen szervezetekhez, csoportokhoz való tartozása, illetve ezek anyagi jellegű támogatása.
 
-(2a) Ha a (2) bekezdés e) pontjában meghatározott nemzetbiztonsági kockázatra utaló körülményről a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója szerez tudomást, arról értesítheti a kezdeményezésre jogosultat.
+(3) Ha a (2) bekezdés e) pontjában meghatározott nemzetbiztonsági kockázatra utaló körülményről a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója szerez tudomást, arról értesítheti a kezdeményezésre jogosultat.
 
-(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
+(4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) vagy e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésében, vagy a 71/A. § (3) bekezdésében foglaltak szerint biztonsági kérdőívet tölt ki.
 
-(4) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
+(5) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
 
 a) a kezdeményezésre jogosult kezdeményezése alapján elrendeli,
 
-b) a (1) bekezdés c) pontjában, (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
+b) az (1) bekezdés c) pontjában, (2) bekezdés a) b), vagy d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
 
 c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak szerint dönt a felülvizsgálati eljárás elrendeléséről.
 
-(5) A (2) bekezdés d) és e) pontja alapján elrendelt felülvizsgálati eljárásról az ellenőrzött személyt kizárólag a felülvizsgálati eljárás befejezését követően kell tájékoztatni.
+(6) A (2) bekezdés d) vagy e) pontja alapján elrendelt felülvizsgálati eljárásról az ellenőrzött személyt kizárólag a felülvizsgálati eljárás befejezését követően kell tájékoztatni.
 
-(6) A felülvizsgálati eljárást az elrendeléstől számított 60 napon belül kell lefolytatni, amely határidő egy esetben 30 nappal meghosszabbítható. A felülvizsgálati eljárásra a 71/B. § (2)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(7) A felülvizsgálati eljárást az elrendeléstől számított 60 napon belül kell lefolytatni, amely határidő egy esetben 30 nappal meghosszabbítható. A felülvizsgálati eljárásra a 71/B. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.
 
-(7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
+(8) A felülvizsgálati eljárás alapján – ha nemzetbiztonsági kockázat megállapítására nem került sor – a nemzetbiztonsági szolgálat biztonsági szakvéleményt, vagy – ha nemzetbiztonsági kockázat került megállapításra – a 71/C. § (2) bekezdése szerinti tájékoztatást állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
 
-(8) Az (1) bekezdés a) és c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
+(9) Az (1) bekezdés a) vagy c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakör betöltését haladéktalanul meg kell szüntetni, kivéve, ha – a 74. § i) pont ia) alpontja szerinti munkakör kivételével – a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a munkakör betöltését jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső munkakör betöltésének megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
 
-a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezése vagy
+a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe helyezése, vagy
 
-b) foglalkoztatási jogviszonyának megszüntetése
+b) amennyiben az a) pont szerinti más munkakörbe helyezés nem hajtható végre, a foglalkoztatási jogviszonyának megszüntetése
 
 iránt intézkedik.
 
-(8a) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső jogviszony nem hozható létre, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását jóváhagyta.
+(10) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső munkakör nem tölthető be, kivéve, ha – a 74. § i) pont ia) alpontja szerinti munkakör kivételével – a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület azt jóváhagyta.
 
-(9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
+(11) A felülvizsgálati eljárás eredményeként kiadott biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
 
-(10) A felülvizsgálati eljárás nem folytatható le a 71/A. § (5) bekezdésben foglaltak szerint kezdeményezett nemzetbiztonsági ellenőrzés időtartam alatt.
+(12) A felülvizsgálati eljárás nem folytatható le a 71/A. § (8) bekezdésében foglaltak szerint kezdeményezett nemzetbiztonsági ellenőrzés időtartama alatt.

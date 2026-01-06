@@ -6,11 +6,15 @@ b) a rejtjeltevékenység felügyelete és irányítása során kiadott dokument
 
 c) a nemzetbiztonsági védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve tisztség megszűnésétől számított 20 évig;
 
-d) a nemzetbiztonsági ellenőrzési feladatok ellátása során keletkezett adatokat a biztonsági szakvélemény érvényességének végétől számított 20 évig;
+d) a nemzetbiztonsági ellenőrzési feladatok ellátása során keletkezett adatokat a nemzetbiztonsági ellenőrzés elrendelésétől számított 25 évig;
 
 e) a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban kezelt járművek hatósági jelzésére vonatkozó és képi adatait 10 évig.
 
-f) az a)–e) pontban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
+f) az egyszerűsített nemzetbiztonsági ellenőrzési feladatok ellátása során keletkezett adatokat az egyszerűsített nemzetbiztonsági ellenőrzés elrendelésétől számított 23 évig;
+
+g) a személyiadat- és lakcímnyilvántartásban tárolt arcképmásokat, a központi idegenrendészeti nyilvántartásban tárolt arcképmásokat, a menekültügyi nyilvántartásban tárolt arcképmásokat, az útiokmány-nyilvántartásban tárolt arcképmásokat, valamint a bűnügyi nyilvántartási rendszer részét képező személyazonosító adatok és fényképek nyilvántartásában tárolt fényképek közül a szemből készített arcképmásokat 30 napig;
+
+h) az a)–g) pontban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
 
 (2) A nemzetbiztonsági szolgálatok által kezelt személyes adatot haladéktalanul törölni kell, ha
 

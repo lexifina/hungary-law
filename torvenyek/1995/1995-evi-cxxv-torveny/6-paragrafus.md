@@ -50,7 +50,7 @@ p) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe t
 
 q) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
 
-r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve nemzetbiztonsági ellenőrzésének feladatait;
+r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, nemzetbiztonsági ellenőrzésének, illetve egyszerűsített nemzetbiztonsági ellenőrzésének feladatait;
 
 s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat;
 

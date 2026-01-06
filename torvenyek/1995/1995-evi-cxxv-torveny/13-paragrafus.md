@@ -16,7 +16,7 @@ e) meghatározza az adatkezelés belső eljárási szabályait;
 
 f) gondoskodik a szervezeti és működési szabályzat, valamint egyéb belső rendelkezések elkészítéséről, azok összhangjának megteremtéséről és érvényesítéséről;
 
-g) javaslatot tesz a miniszternek a főigazgató-helyettes kinevezésére és felmentésére, illetve a tábornoki és ezredesi kinevezésekre;
+g) javaslatot tesz a miniszternek a tábornoki és ezredesi kinevezésekre;
 
 h) jóváhagyásra felterjeszti a tábornoki rendfokozattal rendszeresített beosztásokba történő kinevezést és felmentést;
 

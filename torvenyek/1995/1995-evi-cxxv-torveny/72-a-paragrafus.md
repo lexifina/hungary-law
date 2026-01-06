@@ -1,6 +1,6 @@
 ## A nemzetbiztonsági ellenőrzés megszüntetése
 
-72/A. § (1) Ha a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonya megszűnt, a kezdeményező, annak bekövetkezésétől vagy a tudomására jutástól számított 8 napon belül írásban értesíti a nemzetbiztonsági szolgálat főigazgatóját.
+72/A. § (1)
 
 (2) A nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója a nemzetbiztonsági ellenőrzést megszünteti, ha
 

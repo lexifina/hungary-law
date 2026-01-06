@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2025-04-01 | 2024. évi LXXI. törvény | 1995-125-00-00.88 |
 | 2025-06-15 | 2025. évi XXXV. törvény | 1995-125-00-00.89 |
 | 2025-10-12 | 2019. évi XCVI. törvény | 1995-125-00-00.90 |
+| 2026-01-06 | 2025. évi CXXVII. törvény | 1995-125-00-00.91 |
