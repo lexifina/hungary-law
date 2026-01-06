@@ -34,4 +34,4 @@ időtartama alatt.
 
 (7) Az (1) és (5) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 107. § (2) bekezdés e) vagy g) pontjában foglaltak szerint a kormánytisztviselő kérelmezi.
 
-(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentése esetén.
+(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, a 107. § (1) bekezdés f) vagy h) pontja, valamint a 107. § (2) bekezdés f) pontja alapján történt felmentése esetén.

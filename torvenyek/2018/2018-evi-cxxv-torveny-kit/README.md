@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-125-00-00
 | 2025-07-20 | 2025. évi L. törvény | 2018-125-00-00.62 |
 | 2025-10-28 | 2024. évi XCI. törvény | 2018-125-00-00.64 |
 | 2026-01-01 | 2025. évi CXXI. törvény | 2018-125-00-00.63 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 2018-125-00-00.65 |

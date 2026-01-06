@@ -68,19 +68,29 @@ d) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvá
 
 e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását jóváhagyta.
+(6) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső kormányzati szolgálati jogviszony nem létesíthető, illetve tartható fenn azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a kormányzati szolgálati jogviszony létesítését, illetve fenntartását – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (7) Ha a kormánytisztviselő nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, illetőleg ha a jogviszony létrehozására (6) bekezdés szerint előzetes engedéllyel került sor és
 
 a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá, vagy
 
-b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át, vagy
+b) a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre nem helyezte át, vagy
 
-c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre, beosztásba nem helyezte át,
+c) felülvizsgálati eljárás során kockázatot állapítottak meg és a kormányzati szolgálati jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, illetve a munkáltatói jogkör gyakorlója, amennyiben ennek jogszabályi lehetősége fennáll – mérlegelési jogkörében eljárva – más, nemzetbiztonsági ellenőrzés alá nem eső álláshelyre nem helyezte át,
 
 a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
-(8) A kormányzati szolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+(7a) Ha a kormánytisztviselő egyszerűsített nemzetbiztonsági ellenőrzés alá eső személy vagy a kormányzati szolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé és
+
+a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
+
+b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy
+
+c) az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltatói jogkör gyakorlója a kormánytisztviselőt más, egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső álláshelyre helyezheti, vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső álláshelyen foglalkoztathatja tovább, vagy a kormányzati szolgálati jogviszonyt azonnali hatállyal megszüntetheti.
+
+(8) A kormányzati szolgálati jogviszonynak a (7) és (7a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
 (9) Olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott kormánytisztviselő szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatainak törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti.
 

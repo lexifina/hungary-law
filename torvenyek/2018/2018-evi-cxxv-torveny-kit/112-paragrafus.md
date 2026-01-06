@@ -66,6 +66,8 @@ b) a 107. § (2) bekezdés a) pontja szerinti érdemtelenség, a 107. § (2) bek
 
 c) a kormánytisztviselőt a 107. § (1) bekezdés f) pontja alapján mentették fel.
 
+d) az a)–c) pontban foglaltakon túl e törvény így rendelkezik.
+
 (11) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít, végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét számításba kell venni.
 
 (12) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnését vagy megszüntetését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy az e törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít,

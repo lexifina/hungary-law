@@ -16,7 +16,7 @@ f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve a
 
 g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 
-h)
+h) a 82. § (7a) bekezdése szerint a munkáltatói jogkör gyakorlója a kormányzati szolgálati jogviszony megszüntetéséről döntött.
 
 (1a) Az (1) bekezdés f) pontja szerinti esetben
 
