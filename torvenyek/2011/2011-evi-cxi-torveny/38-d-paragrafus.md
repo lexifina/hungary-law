@@ -1,1 +1,1 @@
-38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai – ha az minősített adat kezelésével jár együtt – nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
