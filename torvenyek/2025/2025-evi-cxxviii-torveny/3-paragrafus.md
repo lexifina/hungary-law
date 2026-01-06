@@ -1,5 +1,1 @@
-3. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény a következő 8/E. §-sal egészül ki:
-
-„8/E. § (1) Az ETIAS nemzeti egység a 8/A. § (8) bekezdésében meghatározott feladatkörében végrehajtja az (EU) 2019/817 európai parlamenti és tanácsi rendelet szerinti esetekben az ETIAS nemzeti egység számára meghatározott feladatokat. Ezzel összefüggésben adatokat kérhet – az adatkérés céljának megjelölésével – a tagállami illetékes hatóságoktól, valamint e törvény alapján a 30/A. § szerinti együttműködő szervtől, továbbá az általa kezelt adatot az adat kezelésére feljogosított, feladat- és hatáskörénél fogva érintett tagállami illetékes hatóságnak és a 30/A. § szerinti együttműködő szervnek a hatáskörébe tartozó intézkedés megtétele érdekében továbbítja.
-
-(2) Az ETIAS nemzeti egység a 8/A. § (8) bekezdésében meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.”
+### 3. §
