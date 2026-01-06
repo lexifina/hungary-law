@@ -4,6 +4,8 @@
 
 (2) A postai szolgáltató alkalmazottainak bevonása esetén a postai szolgáltató kötelezettsége olyan technológiai, szervezeti megoldás alkalmazása, amely postai tevékenység végrehajtásával leplezi a titkos információgyűjtés alkalmazásának támogatását.
 
-(3) A titkos információgyűjtéssel összefüggő tevékenység végzésében – amennyiben az szükségszerűen együtt jár minősített adatok megismerésével – a postai szolgáltatónak csak azok az alkalmazottai vehetnek részt, akik a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott, a minősítésnek megfelelő szintű nemzetbiztonsági ellenőrzésen megfeleltek, betekintési jogosultsággal rendelkeznek és titoktartási nyilatkozatot tettek.
+(3)[^9]
 
 (4) A postai szolgáltató az igényelt szolgáltatás teljesítésébe bevont alkalmazottai részére olyan feladatkört és jogosultságot köteles biztosítani, amely lehetővé teszi e tevékenység titkos – a titkos információgyűjtésre felhatalmazott szervezet törvényes igényeinek megfelelő –, késedelem nélküli ellátását.
+
+[^9]: A 11. § (3) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
