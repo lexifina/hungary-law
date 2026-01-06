@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2024-03-01 | 2023. évi CIX. törvény | 2009-155-00-00.42 |
 | 2024-03-09 | 2024. évi II. törvény | 2009-155-00-00.44 |
 | 2025-01-01 | 2024. évi LXIX. törvény | 2009-155-00-00.45 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 2009-155-00-00.46 |

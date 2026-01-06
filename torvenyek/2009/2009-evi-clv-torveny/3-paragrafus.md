@@ -46,6 +46,6 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 
 17. egyszerűsített telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek nem megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
 
-18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendelet alapján nemzetbiztonsági ellenőrzésre kötelezett személyek, valamint a minősített adatot felhasználó személyek nemzetbiztonsági ellenőrzése.
+18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 74. § i) pont ip) vagy iq) alpontja alapján nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzése.
 
 19. minősített szerződés: minősített adat keletkeztetését, felhasználását, valamint átadását igénylő vagy minősített adatokat tartalmazó szerződés.
