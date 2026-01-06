@@ -1,1 +1,3 @@
-21. § A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekkel összefüggő természetvédelmi ügyek elintézésében csak olyan személyek vehetnek részt, akik a Nemzeti Biztonsági Felügyelet által kiállított személyi biztonsági tanúsítvánnyal rendelkeznek.
+21. §[^9]
+
+[^9]: A 21. §-t a 436/2025. (XII. 23.) Korm. rendelet 51. §-a hatályon kívül helyezte.
