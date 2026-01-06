@@ -4,7 +4,7 @@ a) aki a munkakörhöz megállapított képesítési követelményeknek megfelel
 
 b) aki a poligráfos vizsgálaton való részvételt vállalja,
 
-c) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta, valamint
+c) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvéleménnyel rendelkezik, vagy akivel szemben ugyan nemzetbiztonsági kockázat került megállapításra, de az Nbtv. szerint arra feljogosított személy – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – a nemzetbiztonsági ellenőrzés alá eső munkakör betöltését jóváhagyta, valamint
 
 d) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását.
 

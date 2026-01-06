@@ -18,7 +18,7 @@ eb) részére a polgári nemzetbiztonsági szolgálatnál megfelelő szolgálati
 
 (2) A szolgálati viszonyt felmentéssel meg kell szüntetni, ha
 
-a) a nemzetbiztonsági állomány tagja nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek nem felel meg – kivéve, ha az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását jóváhagyta –,
+a) a nemzetbiztonsági állomány tagja nemzetbiztonsági szempontból alkalmatlanná vált, mert a nemzetbiztonsági ellenőrzése nemzetbiztonsági kockázatot állapított meg – kivéve, ha az Nbtv. szerint arra feljogosított személy, az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével a nemzetbiztonsági ellenőrzés alá eső munkakör fenntartását jóváhagyta –,
 
 b) a nemzetbiztonsági állomány tagja a hivatása gyakorlására érdemtelen,
 

@@ -14,7 +14,7 @@ c) aki rendelkezik a tervezett szolgálati beosztás besorolási osztálya szeri
 
 d) aki a nemzetbiztonsági szolgálatra és a tervezett szolgálati beosztására egészségi és pszichológiai szempontból alkalmas,
 
-e) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését jóváhagyta,
+e) aki a nemzetbiztonsági ellenőrzés során kiállított biztonsági szakvélemény szerint a biztonsági feltételeknek megfelel, vagy, ha a biztonsági feltételeknek nem felel meg, de az Nbtv. szerint arra feljogosított személy – az Nbtv. 74. § i) pont ia) alpontja szerinti munkakör kivételével – a nemzetbiztonsági ellenőrzés alá eső munkakör létesítését jóváhagyta,
 
 f) aki a poligráfos vizsgálaton való részvételt vállalta,
 
