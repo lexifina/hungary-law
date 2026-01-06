@@ -1,0 +1,3 @@
+22. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 29. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) Ha az igénylés a minősített adat védelméről szóló törvény szerinti nemzeti minősített adatra irányul, és annak minősítője nem az adatkezelő, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.”

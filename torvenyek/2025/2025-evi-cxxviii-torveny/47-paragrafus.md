@@ -1,0 +1,3 @@
+47. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az előzetes minősítés és a beszerzési eljáráshoz kötődő minősítés elvégzéséért, valamint a jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével, felhasználásával kapcsolatos szabályokat.”
