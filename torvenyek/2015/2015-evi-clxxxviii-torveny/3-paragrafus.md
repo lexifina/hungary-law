@@ -20,7 +20,7 @@ d) a személyazonosság igazolására alkalmas hatósági igazolvány kiadásár
 
 e) a nemzetbiztonsági szolgálatok, illetve a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének támogatása,
 
-f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
+f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
 
 g) törvényben meghatározott személyvédelmi feladatok ellátása,
 

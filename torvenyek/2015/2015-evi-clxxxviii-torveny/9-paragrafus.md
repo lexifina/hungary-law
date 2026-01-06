@@ -26,7 +26,7 @@ b) a titkos információgyűjtés folytatására, valamint a leplezett eszközö
 
 támogatása során a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
-(7) A 3. § (3) bekezdés f) pontjában meghatározott célból a nemzetbiztonsági szolgálatok jogosultak a nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági, bűnmegelőzési ellenőrzési és az objektumok műveleti védelme céljából a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
+(7) A 3. § (3) bekezdés f) pontjában meghatározott célból a nemzetbiztonsági szolgálatok jogosultak a nemzetbiztonsági ellenőrzés, az egyszerűsített nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági, bűnmegelőzési ellenőrzési és az objektumok műveleti védelme céljából a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
 (8) A 3. § (3) bekezdés g) pontjában meghatározott célból jogosult
 
