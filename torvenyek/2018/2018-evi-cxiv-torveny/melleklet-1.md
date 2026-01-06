@@ -68,7 +68,7 @@
 
 ## 5.3. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
 
-## 5.4. nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
+## 5.4. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
 
 ## 5.5. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok.
 

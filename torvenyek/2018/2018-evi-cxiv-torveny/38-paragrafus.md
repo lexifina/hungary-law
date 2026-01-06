@@ -18,4 +18,4 @@ meghosszabbodik.
 
 (3) A honvédelmi szervezet legalább a felmentési idő felére köteles a honvédelmi alkalmazottat mentesíteni a munkavégzés alól. A munkavégzés alól a honvédelmi alkalmazottat – a mentesítési idő legalább felének megfelelő időtartamban – a kérelmének megfelelő időben és részletekben kell felmenteni.
 
-(4) Nem illeti meg felmentési idő a honvédelmi alkalmazottat, ha a felmentésére a 12. § (9) bekezdése alapján került sor.
+(4) Nem illeti meg felmentési idő a honvédelmi alkalmazottat, ha a felmentésére a 12. § (9) vagy (10) bekezdése alapján került sor.

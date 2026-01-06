@@ -58,7 +58,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) A (4)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a honvédelmi szervezet a honvédelmi alkalmazotti jogviszony létesítéséről meghozott döntés időpontjáig vagy – honvédelmi alkalmazotti jogviszony létesítése esetén – a honvédelmi alkalmazotti jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(8) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső honvédelmi alkalmazotti jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a jogviszony létesítését jóváhagyta.
+(8) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső honvédelmi alkalmazotti jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a jogviszony létesítését – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (9) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
 
@@ -67,3 +67,11 @@ a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
 b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, vagy a munkáltatói jogkör gyakorlója mérlegelése alapján részére más – nemzetbiztonsági ellenőrzés alá nem eső – munkakör nem ajánlható fel,
 
 a honvédelmi alkalmazotti jogviszonyt azonnali hatállyal meg kell szüntetni.
+
+(10) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+
+b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltatói jogkör gyakorlója mérlegelése alapján részére más – egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső – munkakör ajánlható fel, vagy a honvédelmi alkalmazotti jogviszony indoklás nélkül, azonnali hatállyal megszüntethető. Ha a honvédelmi alkalmazott a felajánlott munkakört nem fogadja el, a honvédelmi alkalmazotti jogviszonyt azonnali hatállyal meg kell szüntetni.

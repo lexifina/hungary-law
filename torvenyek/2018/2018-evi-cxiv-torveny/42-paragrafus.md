@@ -12,7 +12,7 @@ d) a (3) bekezdés szerint szűnik meg.
 
 a) legkésőbb a honvédelmi alkalmazotti jogviszony megszűnésének időpontjában nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont],
 
-b) felmentésére a 12. § (9) bekezdése vagy 30. § (7) bekezdése alapján kerül sor,
+b) felmentésére a 12. § (9) vagy (10) bekezdése vagy 30. § (7) bekezdése alapján kerül sor,
 
 c) honvédelmi alkalmazotti jogviszonya a 22. § (7) bekezdése vagy a 25. § (9) bekezdése szerint alakult át.
 

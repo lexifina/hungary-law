@@ -46,11 +46,13 @@ fb) a 27. § (2) bekezdése szerint,
 
 fc) az 50. § (4) bekezdése szerint, vagy
 
-fd) a (3) bekezdés szerint, valamint
+fd) a (3) bekezdés szerint,
 
 g) rendkívüli felmentéssel,
 
-h) fegyelmi eljárásban kiszabott hivatalvesztés büntetéssel, azonnali hatállyal.
+h) fegyelmi eljárásban kiszabott hivatalvesztés büntetéssel, azonnali hatállyal, valamint
+
+i) a 12. § (10) bekezdése szerinti esetben.
 
 (3) A honvédelmi szervezet köteles a honvédelmi alkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha
 
