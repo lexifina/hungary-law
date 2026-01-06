@@ -1,0 +1,1 @@
+34. § Hatályát veszti az európai uniós ügyekért felelős miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső munkakörök meghatározásáról szóló 1/2023. (IX. 14.) EUM rendelet.

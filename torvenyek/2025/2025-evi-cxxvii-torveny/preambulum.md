@@ -1,0 +1,11 @@
+[1] A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosításának célja a nemzetbiztonsági ellenőrzés rendszerének átalakítása.
+
+[2] A nemzetbiztonsági ellenőrzés rendszere átalakításának alapelve, hogy – a nemzetbiztonsági ellenőrzés alá eső bírók kivételével – kizárólag a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben kerülnek meghatározásra a nemzetbiztonsági ellenőrzés alá eső munkakörök, figyelemmel arra, hogy ez egyben a nemzetbiztonsági szolgálat nemzetbiztonsági tevékenységét is érinti, amelyet az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatos törvény határozhat meg.
+
+[3] A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása következtében nemzetbiztonsági ellenőrzést a minősített adatot kezelő személyek, valamint a jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek fokozottan kitett, kiemelt munkakört betöltő személyek esetében kell lefolytatni. Emellett a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szabályrendszerébe bevezetésre kerül egy új jogintézmény, az egyszerűsített nemzetbiztonsági ellenőrzés, amelyet a jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek ugyan nem fokozott mértékben, de kitett, szenzitív munkaköröket betöltő személyek esetében lehet lefolytatni. Az egyszerűsített nemzetbiztonsági ellenőrzés is kötődik annyiban a minősített adatkezeléshez, hogy – a törvényben meghatározott kivétellel – csak a minősített adatot kezelő szerveknél lehet egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkaköröket meghatározni.
+
+[4] Fontos változás szintén, hogy amennyiben a nemzetbiztonsági ellenőrzés eredménye alapján nemzetbiztonsági kockázat nem merül fel, biztonsági szakvélemény kerül kiállításra, azonban – a módosítás alapján –, ha nemzetbiztonsági kockázat merül fel, akkor biztonsági szakvéleményt nem állít ki a nemzetbiztonsági szolgálat, ehelyett tájékoztatja a kezdeményezőt nemzetbiztonsági kockázat felmerüléséről és emiatt a biztonsági szakvélemény kiállításának hiányáról.
+
+[5] A szabályozás részletesen tartalmazza az egyszerűsített nemzetbiztonsági ellenőrzés lefolytatásával kapcsolatos eljárási szabályokat is.
+
+[6] E célokra tekintettel az Országgyűlés a következő törvényt alkotja:
