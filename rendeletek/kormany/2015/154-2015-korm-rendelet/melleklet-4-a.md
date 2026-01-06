@@ -84,7 +84,7 @@
 
 ## e) a 21. sorban meghatározottaktól eltérően a más szervhez vezénylés.
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^81]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^82]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -160,4 +160,4 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 IV. A 32/I. § (2) bekezdése és a 32/J. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^81]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^82]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
