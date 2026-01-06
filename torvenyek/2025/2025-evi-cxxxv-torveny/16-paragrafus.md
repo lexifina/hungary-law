@@ -28,7 +28,7 @@
 
 14. 29. § (5) bekezdésében az „öt” szövegrész helyébe az „5” szöveg,
 
-15. 30. § (6) bekezdés b) pontjában a „cégbíróságnál” szövegrész helyébe a „bíróságnál” szöveg,
+15.
 
 16. 33. § (3) bekezdésében a „kilencven” szövegrészek helyébe a „90” szöveg,
 
