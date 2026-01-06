@@ -8,7 +8,7 @@ c) az Okos Város Központi Platform Települési Térinformatikai Platformjána
 
 d) az állami adóhatóság
 
-e)[^79] a Központi Statisztikai Hivatal
+e)[^80] a Központi Statisztikai Hivatal
 
 számára.
 
@@ -16,4 +16,4 @@ számára.
 
 (3) A központi címregiszter működtetéséért felelős szerv az egyetemes postai szolgáltató számára a címkezelési eljárással kapcsolatos feladatainak ellátása érdekében a központi címregiszterben szereplő címeket megismerhetővé teszi. A közreműködő szervek az átadott adatokra vonatkozóan önálló adatszolgáltatást és önálló adattovábbítást nem teljesíthetnek.
 
-[^79]: A 127. § (1) bekezdés e) pontját a 164/2025. (VI. 23.) Korm. rendelet 43. §-a iktatta be.
+[^80]: A 127. § (1) bekezdés e) pontját a 164/2025. (VI. 23.) Korm. rendelet 43. §-a iktatta be.

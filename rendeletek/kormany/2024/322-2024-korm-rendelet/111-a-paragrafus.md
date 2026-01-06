@@ -1,6 +1,6 @@
 ## XV/A. Fejezet
 
-## AZ INTEROPERÁBILIS EURÓPÁRÓL SZÓLÓ RENDELET[^76]
+## AZ INTEROPERÁBILIS EURÓPÁRÓL SZÓLÓ RENDELET[^77]
 
 111/A. § (1) Amennyiben a Dáptv. 8. § 33a. pontja szerinti hazai közszférabeli szervezet (a továbbiakban: közszférabeli szervezet) csatlakozik vagy a részvételével létrejön interoperabilitási szabályozói tesztkörnyezet, arról köteles elektronikus úton értesíteni a (2) bekezdés szerinti egyéb nemzeti hatóságokat.
 
@@ -10,4 +10,4 @@
 
 (4) Amennyiben az (1) bekezdés szerinti hazai csatlakozott közszférabeli szervezettel rendelkező, vagy hazai részvétellel létrejött, vagy hazai részvétellel működő interoperabilitási szabályozói tesztkörnyezet résztvevői köre, célrendszere megváltozik, vagy az interoperabilitási szabályozói tesztkörnyezeten belül új projekt indul, arról a tesztkörnyezet hazai résztvevője köteles értesíteni a (2) bekezdésben megjelölt egyéb nemzeti hatóságokat.
 
-[^76]: A XV/A. Fejezetet (111/A–111/B. §-t) a 483/2025. (XII. 31.) Korm. rendelet 30. §-a iktatta be.
+[^77]: A XV/A. Fejezetet (111/A–111/B. §-t) a 483/2025. (XII. 31.) Korm. rendelet 30. §-a iktatta be.
