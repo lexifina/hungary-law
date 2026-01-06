@@ -12,9 +12,9 @@ ca) elektronikus ügyintézési szolgáltatások nyújtására felhasználható,
 
 cb) elektronikus időbélyegzőkkel kapcsolatos szolgáltatások nyújtása, valamint azonosítási célú tanúsítvány szolgáltatás a digitális szolgáltatást biztosító szervezetek, valamint az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára,
 
-cc) elektronikus aláírással, elektronikus bélyegzővel kapcsolatos szolgáltatások nyújtása, valamint az ilyen szolgáltatásokhoz kapcsolódó tanúsítványok létrehozása külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek, titkos információgyűjtés folytatásában, leplezett eszközök alkalmazásában, valamint ezek engedélyezésében részt vevő szervek részére,
+cc) elektronikus aláírással, elektronikus bélyegzővel kapcsolatos szolgáltatások nyújtása, valamint az ilyen szolgáltatásokhoz kapcsolódó tanúsítványok létrehozása külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső személyek, titkos információgyűjtés folytatásában, leplezett eszközök alkalmazásában, valamint ezek engedélyezésében részt vevő szervek részére,
 
-cd) titkosítási célú tanúsítványok kibocsátása a digitális szolgáltatást biztosító szervezetek, az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára, külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek részére,
+cd) titkosítási célú tanúsítványok kibocsátása a digitális szolgáltatást biztosító szervezetek, az e törvény szerinti szabályozott elektronikus ügyintézési szolgáltatók és központi elektronikus ügyintézési szolgáltatók általi felhasználás céljára, külön jogszabályban meghatározott védelem alá eső tisztséget betöltő, valamint nemzetbiztonsági ellenőrzés alá eső személyek részére,
 
 ce) a ca)–cd) alpontok szerint kibocsátott tanúsítványok érvényességének igazolása azonnali tanúsítványállapot-igazoló szolgáltatással,
 
