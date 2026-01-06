@@ -14,7 +14,7 @@ d) meghatározza és elérhetővé teszi a felhasználó szervezet számára a k
 
 e) együttműködik a felhasználó szervezettel, ennek keretében
 
-ea) a központi szolgáltatást vagy a támogató rendszert érintő előre tervezett eseményekről legalább öt nappal az esemény előtt értesíti,
+ea) a központi szolgáltatást vagy a támogató rendszert érintő előre tervezett eseményekről legalább 5 nappal az esemény előtt értesíti,
 
 eb) soron kívül tájékoztatja a központi szolgáltatást vagy a támogató rendszert érintő kiberbiztonsági incidensekről,
 

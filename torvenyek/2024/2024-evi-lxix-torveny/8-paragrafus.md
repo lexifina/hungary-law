@@ -4,13 +4,13 @@
 
 (3) Az együttműködés során a szervezet vezetője
 
-a) gondoskodik a jogszabályban és a hatóság honlapján meghatározottak szerint az adatoknak, dokumentumoknak, valamint ezek változásainak, a változást követő tizenöt napon belül a kiberbiztonsági hatóság részére – nyilvántartásba vétel céljából – történő megküldéséről, valamint
+a) gondoskodik a jogszabályban és a hatóság honlapján meghatározottak szerint az adatoknak, dokumentumoknak, valamint ezek változásainak, a változást követő 14 napon belül a kiberbiztonsági hatóság részére – nyilvántartásba vétel céljából – történő megküldéséről, valamint
 
 b) biztosítja az ellenőrzés lefolytatásához szükséges feltételeket.
 
 (4) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
 
-a) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére a 28. § (1) bekezdés 1. pont a)–e) és j) alpontjában meghatározott adatokat,
+a) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére a 28. § (1) bekezdés 1. pont a)–e) és j) alpontjában meghatározott adatokat, nyilvántartásba vétel céljából,
 
 b) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére az elektronikus információs rendszer biztonságáért felelős személy adatait,
 
@@ -28,10 +28,16 @@ f) 180 napon belül a 6. § szerinti kockázatmenedzsment keretrendszer létreho
 
 a) új szervezet esetében a szervezet létesítésének,
 
-b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben foglalt, a középvállalkozásokra vonatkozó méretkorlátok elérése esetében a bekövetkezést követő év első,
+b) az 1. § (1) bekezdés b) vagy d) pontja szerinti esetben
+
+ba) az e törvény hatálya alá kerülésre okot adó feltétel bekövetkezését követő év első, vagy
+
+bb) ha a szervezet a ba) alpont szerinti napot megelőzően benyújtott nyilvántartásba vételi kérelmében ezt kéri, a szervezet nyilvántartásba vételéről szóló döntés véglegessé válásának,
 
 c) a hatály alá kerülést eredményező jogállást megalapozó jogi aktus hatálybalépésének
 
 napja.
+
+(6a) Ha az 1. § (1) bekezdés b) vagy d) pontja szerinti szervezet esetében az e törvény hatálya alá kerülésre okot adó 1. § (1) bekezdés b) pont ba) vagy bb) alpontja, illetve 1. § (1) bekezdés d) pont da) vagy db) alpontja szerinti feltétel megszűnik, az e törvény hatálya alól történő kikerülés időpontja a feltétel megszűnését követő második év vége.
 
 (7) A szervezet a kiberbiztonsági információk megosztása érdekében az informatikáért felelős miniszter rendeletében meghatározott együttműködések megvalósítása céljából – a honvédelmi célú elektronikus információs rendszerekre vonatkozó információk kivételével – kiberbiztonsági információmegosztási megállapodásokat köthet. A szervezet kiberbiztonsági információmegosztási megállapodás megkötéséről, ilyen megállapodásban való részvételéről vagy annak felmondásáról tájékoztatja a kiberbiztonsági hatóságot.

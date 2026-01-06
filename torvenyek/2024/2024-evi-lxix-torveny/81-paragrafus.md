@@ -36,7 +36,7 @@ j) a 24. § (9) bekezdése szerinti adatszolgáltatást teljesítő élelmiszerl
 
 4. a 11. § (1) bekezdése szerinti megállapodás minimális tartalmi elemeit;
 
-5. az elektronikus információs rendszer biztonságáért felelős személy részletes feladat- és hatáskörét, az elektronikus információs rendszer biztonságáért felelős személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét;
+5. az elektronikus információs rendszer biztonságáért felelős személy részletes feladat- és hatáskörét, az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét;
 
 6. az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet elektronikus információs rendszerei fejlesztése során alkalmazandó részletes szabályokat;
 

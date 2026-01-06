@@ -24,9 +24,9 @@ d) az audit eredményét tartalmazó dokumentumot.
 
 (5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően, ha a (3) bekezdés szerinti nyilvántartásba történő felvételről az SZTFH a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg a kérelmében megjelölt tevékenység megkezdésének, illetve folytatásának joga, és az általános közigazgatási rendtartásról szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
-(6) Ha az auditor auditori tevékenységet már nem végez, akkor a (4) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
+(6) Ha az auditor auditori tevékenységet már nem végez, akkor a (4) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő 5 év elteltével köteles a nyilvántartásból törölni.
 
-(7) Ha a (4) bekezdés szerinti adatok változását az auditor bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+(7) Ha a (4) bekezdés szerinti adatok változását az auditor bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő 5 év elteltével a nyilvántartásból törli.
 
 (8) A (4) bekezdés szerinti adatok kezelésének célja az auditorokra vonatkozó információk naprakészen tartása, valamint az SZTFH ellenőrzési tevékenységének ellátása.
 

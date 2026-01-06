@@ -24,8 +24,8 @@ c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem 
 
 (4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés b) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(5) Ha a (3) bekezdés szerinti nyilvántartásban szereplő szervezet poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet vagy tanúsító tevékenységet már nem végez, akkor a (3) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
+(5) Ha a (3) bekezdés szerinti nyilvántartásban szereplő szervezet poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet vagy tanúsító tevékenységet már nem végez, akkor a (3) bekezdés szerinti adatokat az SZTFH a tevékenység befejezésének bejelentését követő 5 év elteltével köteles a nyilvántartásból törölni.
 
-(6) Ha a (3) bekezdés szerinti adatok változását a poszt-kvantumtitkosítás alkalmazás nyújtására jogosult szervezet vagy a tanúsító szervezet bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.
+(6) Ha a (3) bekezdés szerinti adatok változását a poszt-kvantumtitkosítás alkalmazás nyújtására jogosult szervezet vagy a tanúsító szervezet bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot az SZTFH az adat változása bejegyzését követő 5 év elteltével a nyilvántartásból törli.
 
 (7) A (3) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a kiberbiztonsági hatóságok, valamint a kiberbiztonsági incidenskezelő központok részére végezhető.

@@ -14,7 +14,7 @@ e) a d) pont szerinti ellenőrzés során feltárt hiányosságok pótlására, 
 
 f) együttműködik a felhasználó szervezettel, ennek keretében
 
-fa) a felhasználó szervezetet a központi rendszert érintő előre tervezett eseményekről legalább öt nappal az esemény előtt értesíti,
+fa) a felhasználó szervezetet a központi rendszert érintő előre tervezett eseményekről legalább 5 nappal az esemény előtt értesíti,
 
 fb) soron kívül tájékoztatja a központi rendszert érintő kiberbiztonsági incidensekről,
 

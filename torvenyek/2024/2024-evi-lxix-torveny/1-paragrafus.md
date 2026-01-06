@@ -12,11 +12,15 @@ b) a többségi állami befolyás alatt álló azon gazdálkodó szervezetekre, 
 
 ba) összes foglalkoztatotti létszáma eléri vagy meghaladja az 50 főt, vagy
 
-bb) éves nettó árbevétele és mérlegfőösszege meghaladja a 10 millió eurónak megfelelő forintösszeget,
+bb) éves nettó árbevétele vagy éves költségvetési bevételi előirányzata meghaladja a 10 millió eurónak megfelelő forintösszeget, és – a számvitelről szóló 2000. évi C. törvény 8. § (2) bekezdése szerinti beszámoló készítésére köteles szervezet esetében – mérlegfőösszege meghaladja a 10 millió eurónak megfelelő forintösszeget,
 
 c) a 23. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági hatóság (a továbbiakban: nemzeti kiberbiztonsági hatóság), vagy a 23. § (2) bekezdése szerinti honvédelmi kiberbiztonsági hatóság (a továbbiakban: honvédelmi kiberbiztonsági hatóság) által a (6) bekezdés szerint alapvető vagy fontos szervezetként azonosított, az a), b) és d)–f) pont, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó szervezetekre,
 
-d) azokra a 2. és 3. melléklet szerinti szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket, és nem tartoznak az a) pont hatálya alá,
+d) azokra a 2. és 3. melléklet szerinti szervezetekre, amelyek nem tartoznak az a) pont hatálya alá és a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek, valamint azokra a 2. és 3. melléklet szerinti szervezetekre, amelyek nem tartoznak az a) pont hatálya alá, és amelyek vonatkozásában legalább az egyik feltétel teljesül a következők közül:
+
+da) összes foglalkoztatotti létszáma eléri vagy meghaladja az 50 főt, vagy
+
+db) éves nettó árbevétele vagy éves költségvetési bevételi előirányzata meghaladja a 10 millió eurónak megfelelő forintösszeget, és – a számvitelről szóló 2000. évi C. törvény 8. § (2) bekezdése szerinti beszámoló készítésére köteles szervezet esetében – mérlegfőösszege meghaladja a 10 millió eurónak megfelelő forintösszeget,
 
 e) méretüktől függetlenül, az a) pont hatálya alá nem tartozó, a 2. és 3. melléklet szerinti szervezetekre, ha a szervezet
 
@@ -31,6 +35,8 @@ ed) legfelső szintű doménnév-nyilvántartó vagy
 ee) doménnév-regisztrációt végző szolgáltató, valamint
 
 f) a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságokra.
+
+(1a) Az (1) bekezdésben euróban meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank által közzétett, a szervezet üzleti évének lezárásakor vagy – költségvetési szerv esetében – a költségvetési év zárásakor érvényes hivatalos devizaárfolyamot kell alkalmazni. Újonnan alapított szervezet esetén a tárgyévet megelőző év utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 (2) A kritikus szervezetek ellenálló képességéről szóló törvény (a továbbiakban: Kszetv.) alapján kijelölt kritikus szervezetek és kritikus infrastruktúrák (a továbbiakban együtt: kritikus szervezet), valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény (a továbbiakban: Vbö.) alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezetek és infrastruktúrák (a továbbiakban együtt: az ország védelme és biztonsága szempontjából jelentős szervezet) vonatkozásában a szervezetnek az (1) bekezdés szerinti minősülése az irányadó e törvény rendelkezéseinek az alkalmazása során, kivéve, ha a kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozik.
 
@@ -82,7 +88,7 @@ d) a 3. melléklet szerinti szervezet, amely a (4) bekezdés b)–e) pontja alap
 
 7. legalább 20000 személynek nyújt a 2. és 3. mellékletben foglalt ágazatok szerinti, vagy az állam működéséhez szükséges szolgáltatásokat;
 
-8. legalább öt, e törvény hatálya alá tartozó szervezetnek nyújt szolgáltatásokat;
+8. legalább 5, e törvény hatálya alá tartozó szervezetnek nyújt szolgáltatásokat;
 
 9. többségi állami befolyás alatt áll;
 

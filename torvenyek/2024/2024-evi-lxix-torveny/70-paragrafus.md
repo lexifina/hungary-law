@@ -36,13 +36,13 @@ c) az SZTFH elnökének rendeletében előírt további, személyes adatnak nem 
 
 (8) Ha az 1. § (1) bekezdés a)–c) pontja szerinti szervezet a kiberbiztonsági incidens kezelését nem maga végzi, a (4) bekezdés szerinti nyilvántartásban szereplő gazdálkodó szervezetek közül választ vagy megkeresi az ágazaton belüli kiberbiztonsági incidenskezelő központot vagy a nemzeti kiberbiztonsági incidenskezelő központot a kiberbiztonsági incidens kezelése érdekében.
 
-(9) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében a (3) bekezdés b) pontja szerinti gazdálkodó szervezet nevében és alkalmazásában kizárólag olyan személy végezheti az incidenskezelést, akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
+(9)
 
 (10) A nemzeti kiberbiztonsági incidenskezelő központ az érintett kiberbiztonsági incidens kezelését a rendelkezésére álló erőforrások függvényében, a veszélyeztetettség mértékének mérlegelésével látja el.
 
 (11) Az érintett kiberbiztonsági incidens kezelését a nemzeti kiberbiztonsági incidenskezelő központ végzi el, ha a Kszetv. szerinti kritikus szervezet elektronikus információs rendszere, vagy a Vbö. alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezetek tekintetében nincs a kiberbiztonsági incidenskezelés elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdálkodó szervezet vagy nem rendelkezik elegendő kapacitással.
 
-(12) A polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a kiberbiztonsági incidens kezelését kizárólag a nemzeti kiberbiztonsági incidenskezelő központ olyan munkatársa végezheti, akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
+(12)
 
 (13) A nemzeti kiberbiztonsági incidenskezelő központ a tudomására jutott kiberbiztonsági incidensekről tájékoztathatja a 73. § (3) bekezdés szerinti Operatív Törzs vezetőjét, ha a kiberbiztonsági incidens az Operatív Törzs más tagja által képviselt szervezetet is érinti.
 

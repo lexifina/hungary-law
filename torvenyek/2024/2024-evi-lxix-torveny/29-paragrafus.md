@@ -44,4 +44,4 @@ d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek 
 
 (4) Az SZTFH közvetlen hozzáférést biztosít a nemzeti kiberbiztonsági hatóság, valamint a nemzeti kiberbiztonsági incidenskezelő központ részére a szervezetnek az SZTFH által kezelt nyilvántartási adataihoz.
 
-(5) Ha az (1) bekezdés a) pontja szerinti nyilvántartásban szereplő szervezet bejelenti, hogy már nem minősül az 1. § (1) bekezdés b), d) vagy e) pontja szerinti szervezetnek, akkor az (1) bekezdés a) pontja szerinti adatokat az SZTFH a bejelentést követő öt év elteltével köteles a nyilvántartásból törölni.
+(5) Ha az (1) bekezdés a) pontja szerinti nyilvántartásban szereplő szervezet bejelenti, hogy már nem minősül az 1. § (1) bekezdés b), d) vagy e) pontja szerinti szervezetnek, akkor az (1) bekezdés a) pontja szerinti adatokat az SZTFH a bejelentést követő 5 év elteltével köteles a nyilvántartásból törölni.

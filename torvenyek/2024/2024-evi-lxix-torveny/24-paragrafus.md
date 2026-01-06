@@ -82,4 +82,4 @@ b) a kijelölt képviselővel egyik európai uniós tagállamban sem rendelkező
 
 (8) A kiberbiztonsági hatóság jogszabályban meghatározott feladatai ellátása érdekében jogosult kockázatelemzés alapján rangsorolni a felügyeleti feladatok végrehajtását.
 
-(9) A Kormány rendeletében meghatározott élelmiszerlánc-felügyeleti szervek minden év február 1. napjáig tájékoztatják az SZTFH-t – a 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről, székhelyéről és adószámáról.
+(9) A Kormány rendeletében meghatározott élelmiszerlánc-felügyeleti szervek minden év február 1. napjáig tájékoztatják az SZTFH-t és a nemzeti kiberbiztonsági hatóságot – a 23. § (1) bekezdése szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről, székhelyéről és adószámáról.

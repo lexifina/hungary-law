@@ -14,7 +14,7 @@ c) a telephely biztonsági tanúsítvánnyal, továbbá a feladat ellátásához
 
 (2) A sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet részéről kizárólag olyan személy végezheti a vizsgálatot,
 
-a) akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg,
+a)
 
 b) aki rendelkezik a sérülékenységvizsgálat lefolytatásához szükséges szakértelemmel,
 
@@ -22,7 +22,7 @@ c) aki a sérülékenységvizsgálati szakterületen legalább kétéves szakmai
 
 d) aki szerepel a sérülékenységvizsgálat lefolytatására jogosult személyek SZTFH által vezetett nyilvántartásában.
 
-(3) Az (1) bekezdés c) pontja szerinti nyilvántartásba vétel feltétele, hogy a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet legalább két fő, (2) bekezdés szerinti szakértőt foglalkoztasson. Az (1) bekezdés c) pontja és a (2) bekezdés d) pontja szerinti nyilvántartásba vétel részletes szabályait, a tevékenység végzéséhez szükséges infrastrukturális feltételeket és szakértelmet az SZTFH elnöke által – az informatikáért felelős miniszter véleményének kikérésével – kiadott rendelet határozza meg.
+(3) Az (1) bekezdés c) pontja szerinti nyilvántartásba vétel feltétele, hogy a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet legalább 2 fő, (2) bekezdés szerinti szakértőt foglalkoztasson. Az (1) bekezdés c) pontja és a (2) bekezdés d) pontja szerinti nyilvántartásba vétel részletes szabályait, a tevékenység végzéséhez szükséges infrastrukturális feltételeket és szakértelmet az SZTFH elnöke által – az informatikáért felelős miniszter véleményének kikérésével – kiadott rendelet határozza meg.
 
 (4) Az (1) és (2) bekezdés szerinti nyilvántartásba történő felvételi eljárás során az SZTFH a feladat ellátásához szükséges szakértelem és infrastrukturális feltételek teljesülésének megállapítása érdekében bevonja a sérülékenységvizsgálat végzésére jogosult állami szervet.
 

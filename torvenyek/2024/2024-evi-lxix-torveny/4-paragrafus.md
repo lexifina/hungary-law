@@ -76,6 +76,8 @@ c) az a) és b) alpontban szereplő elemek által működésük, használatuk, v
 
 31. felhőszolgáltató: felhőalapú számítástechnikai szolgáltatást nyújtó szervezet;
 
+31a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti fogalom;
+
 32. gyártó: az IKT-termék gyártója, IKT-szolgáltatás nyújtója, valamint IKT-folyamat gyártója vagy nyújtója;
 
 33. használatbavétel: az elektronikus információs rendszer adatokkal való feltöltése és rendeltetésszerű használatának megkezdése;
@@ -160,7 +162,7 @@ bc) jelentős vagyoni vagy nem vagyoni kár okozásával más természetes vagy 
 
 64. legfelső szintű doménnév-nyilvántartó: olyan szervezet, amelyre egy meghatározott legfelső szintű domént bíztak és amely felelős egyrészt a legfelső szintű domén kezeléséért – ideértve a legfelső szintű domén alatti doménnevek nyilvántartásba vételét –, másrészt a legfelső szintű domén technikai üzemeltetéséért, amely magában foglalja a névszervereinek üzemeltetését, adatbázisainak karbantartását és a legfelső szintű doménzónafájlok elosztását a névszerverek között, függetlenül attól, hogy ezeknek az üzemeltetési tevékenységeknek bármelyikét maga a szervezet végzi vagy azokat kiszervezi, kivéve azokat az eseteket, amikor a legfelső szintű doménneveket a nyilvántartó kizárólag saját használatra veszi igénybe;
 
-65. megfelelőségértékelés: az az értékelési eljárás, amely bizonyítja, hogy egy IKT-termékkel, IKT-folyamattal, IKT-szolgáltatással kapcsolatos, meghatározott követelmények teljesültek;
+65. megfelelőségértékelés: – a IX/A. Fejezet kivételével – az az értékelési eljárás, amely bizonyítja, hogy egy IKT-termékkel, IKT-folyamattal, IKT-szolgáltatással kapcsolatos, meghatározott követelmények teljesültek;
 
 66. megfelelőségértékelő szervezet: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
 
@@ -233,6 +235,14 @@ b) automatizált és kézi vizsgálatok útján kerülnek feltárásra a webes a
 c) a vezeték nélküli hozzáférési és kapcsolódási pontok keresése, feltérképezése, titkosítási eljárások elemzése, titkosítási kulcsok visszafejthetőségének ellenőrzése célszoftverek és kézi vizsgálat útján történik;
 
 96. továbbfejlesztés: az érintett, már működő elektronikus információs rendszer olyan mértékű fejlesztése, amely funkcionalitásának érdemi megváltozásával jár, vagy védelmének elvárt erősségére hatással van;
+
+96a. többségi állami befolyás alatt álló gazdálkodó szervezet:
+
+a) a magyar államnak a Polgári Törvénykönyvről szóló törvényben meghatározott többségi befolyása, vagy
+
+b) a Kormány, annak tagja, az Országgyűlés elnöke közvetlen, vagy az általa irányított költségvetési szerven keresztül gyakorolt rendelkezési, irányítási, felügyeleti joga
+
+alatt álló gazdálkodó szervezet;
 
 97. üzemeltetési kiberbiztonsági incidens: olyan kiberbiztonsági incidens, amely az elektronikus információs rendszereken tárolt, továbbított vagy kezelt adatok vagy az e rendszerek által kínált, vagy azokon keresztül elérhető szolgáltatások rendelkezésre állását nem szándékoltan csökkenti vagy megszünteti;
 

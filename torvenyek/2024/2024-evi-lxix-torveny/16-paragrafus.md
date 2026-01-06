@@ -6,7 +6,7 @@
 
 a) a nyilvántartásba vételét követő 120 napon belül a kiberbiztonsági audit elvégzésére a 21. § (3) bekezdése szerinti nyilvántartásban szereplő auditorral megállapodást kötni, és
 
-b) a kiberbiztonsági auditot első alkalommal a nyilvántartásba vételét követő két éven belül elvégeztetni.
+b) a kiberbiztonsági auditot első alkalommal a nyilvántartásba vételét követő 2 éven belül elvégeztetni.
 
 (3) A honvédelmi célú elektronikus információs rendszerek tekintetében kiberbiztonsági audit nem végezhető.
 

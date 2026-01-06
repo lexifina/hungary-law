@@ -1,6 +1,6 @@
 78. § (1) A kiberbiztonsági hatóság, a sérülékenységvizsgálat végzésére jogosult szerv vagy gazdálkodó szervezet, valamint a kiberbiztonsági incidenskezelő központ munkatársait a megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely
 
-a) a foglalkoztatásra irányuló jogviszony megszűnését követő öt évig,
+a) a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig,
 
 b) minősített adatok tekintetében azok érvényességi idejének végéig,
 

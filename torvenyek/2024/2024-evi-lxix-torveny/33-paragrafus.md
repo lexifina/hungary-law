@@ -4,7 +4,7 @@
 
 (2) A honvédelmi kiberbiztonsági hatóság rendeli el az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak, amely honvédelmi érdeket sért vagy veszélyeztet, vagy honvédelmi célú elektronikus információs rendszer biztonságára fenyegetést jelent.
 
-(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a kiberbiztonsági hatóság azonnal végrehajthatónak nyilvánított határozatában rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a kiberbiztonsági hatóság legfeljebb kilencven napra rendeli el, amely időtartam indokolt esetben további kilencven nappal meghosszabbítható.
+(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a kiberbiztonsági hatóság azonnal végrehajthatónak nyilvánított határozatában rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a kiberbiztonsági hatóság legfeljebb 90 napra rendeli el, amely időtartam indokolt esetben további 90 nappal meghosszabbítható.
 
 (4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a kiberbiztonsági hatóság hirdetményi úton közli, valamint megküldi a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: NMHH).
 

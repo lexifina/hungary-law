@@ -46,8 +46,8 @@ d) ha a szervezeten belül került kijelölésre, a szakmai ismereteinek fenntar
 
 (13) A nemzeti kiberbiztonsági hatóság nyilvántartást vezet az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas személyekről.
 
-(14) Az elektronikus információs rendszer biztonságáért felelős személyek nyilvántartásának célja, hogy a nyilvántartásban szereplő személyek közül a szervezetek a feladat ellátására alkalmas elektronikus információs rendszer biztonságáért felelős személyt választhassanak.
+(14) Az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas személyek nyilvántartásának célja, hogy a nyilvántartásban szereplő személyek közül a szervezetek a feladat ellátására alkalmas elektronikus információs rendszer biztonságáért felelős személyt választhassanak.
 
-(15) Az elektronikus információs rendszer biztonságáért felelős személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét kormányrendelet határozza meg.
+(15) Az elektronikus információs rendszer biztonságáért felelős személy feladatainak ellátására alkalmas személyek nyilvántartásába kerülés, illetve az onnan való törlés rendjét kormányrendelet határozza meg.
 
 (16) A nemzeti kiberbiztonsági hatóság vizsgálhatja, hogy az elektronikus információs rendszer biztonságáért felelős személy megfelel-e a (3) bekezdés a) pontjában meghatározott büntetlen előéletre irányuló követelménynek. Ennek megállapítása érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből.
