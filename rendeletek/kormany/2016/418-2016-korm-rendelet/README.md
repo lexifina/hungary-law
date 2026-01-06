@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-418-20-
 | 2018-01-01 | 2016-418-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2016-418-20-22.5 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2021-05-21 | 2016-418-20-22.6 | 259/2021. (V. 20.) Korm. rendelet |
+| 2026-01-06 | 2016-418-20-22.7 | 436/2025. (XII. 23.) Korm. rendelet |

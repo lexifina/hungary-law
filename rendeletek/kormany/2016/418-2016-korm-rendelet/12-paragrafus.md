@@ -1,5 +1,3 @@
-## 11. § A nemzetbiztonsági szolgálatok személyi állományának nemzetbiztonsági ellenőrzése vonatkozásában az elektronikus keretprogramra vonatkozó rendelkezések alkalmazásakor, a honlapon a nemzetbiztonsági szolgálat zárt és védett számítógépes intranethálózatát is érteni kell.
-
 ## 4. A biztonsági kérdőív papíralapú kitöltése
 
 12. § (1) A kötelezettnek a biztonsági kérdőív papíralapú kitöltésekor az adatokat elsősorban gépelve, ennek feltételei hiányában nyomtatott betűkkel, olvashatóan kell megadnia, és a biztonsági kérdőív minden oldalát aláírásával kell ellátnia.

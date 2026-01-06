@@ -1,9 +1,13 @@
 ## 1. Általános rendelkezések
 
-## 1. § E rendelet szerint kell eljárni
+1. §[^1] E rendelet szerint kell eljárni a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott
 
-a) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott nemzetbiztonsági ellenőrzés lefolytatása,
+a) nemzetbiztonsági ellenőrzés lefolytatása során,
 
-b) – ha az Nbtv. szerinti felülvizsgálati eljárás során biztonsági kérdőívet kell kitölteni – az Nbtv. szerinti felülvizsgálati eljárás lefolytatása [a továbbiakban az a) és b) pont együtt: nemzetbiztonsági ellenőrzés] és
+b) felülvizsgálati eljárás lefolytatása során, ha a nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során biztonsági kérdőívet kell kitölteni,
 
-c) az a) pontban meghatározott nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettség teljesítése
+c) egyszerűsített nemzetbiztonsági ellenőrzés során és
+
+d) nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettség teljesítése során.
+
+[^1]: Az 1. § a 436/2025. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
