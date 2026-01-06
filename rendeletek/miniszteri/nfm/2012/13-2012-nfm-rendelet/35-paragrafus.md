@@ -1,5 +1,9 @@
-35. § (1) E rendelet hatálybalépése előtt, a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet szerinti D1, D2, E1 vagy E2 kategóriákban kiadott, e rendelet hatálybalépésekor érvényes üzemképesség tanúsító megbízások továbbra is érvényesek. Ilyen megbízás esetében a légiközlekedési hatóság teljesítettnek fogadja el az adott kategóriára e rendeletben előírt alapképzettségi és tapasztalati követelményeket. Az ilyen megbízás az adott kategórián belül új komponensre az e rendelet szerinti speciális képzési követelmények teljesítését követően kiterjeszthető.
+35. §[^55] A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet, valamint a légijárművek és légijármű komponensek karbantartásának személyi jogosításairól és képzési követelményeiről szóló 13/2012. (III. 6.) NFM rendelet módosításáról szóló 42/2025. (XII. 22.) ÉKM rendelet (a továbbiakban: Módr.) hatálybalépésekor hatályos,
 
-(2) Új kategóriában megbízás csak e rendelet szerinti követelmények teljesítése esetén adható ki.
+a) a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet alapján D1 és D2 kategóriákban kiadott üzemképesség tanúsító megbízások, valamint
 
-(3) A hatóság kérelemre teljes felmentést ad az adott kategóriára vonatkozó alapképzettségi követelmények alól azoknak, akik rendelkeztek a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet szerint D1, D2, E1 vagy E2 kategóriákban kiadott üzemképesség tanúsító megbízással.
+b) az e rendelet alapján a Módr. hatálybalépését megelőzően kiadott tanúsítói megbízások
+
+a Módr. hatálybalépését követő 1 évig hatályosak.
+
+[^55]: A 35. § a 42/2025. (XII. 22.) ÉKM rendelet 10. §-ával megállapított szöveg.

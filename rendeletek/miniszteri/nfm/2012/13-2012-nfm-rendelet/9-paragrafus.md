@@ -1,3 +1,3 @@
-9. §[^14]
+9. §[^17]
 
-[^14]: A 8–10. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § b) pontja hatályon kívül helyezte.
+[^17]: A 8–10. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § b) pontja hatályon kívül helyezte.

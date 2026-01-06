@@ -1,10 +1,10 @@
 ## 24. Jóváhagyott alapismereti vizsga
 
-30. § (1) A légiközlekedési hatóság arra az alapismereti vizsgára adhat ki jóváhagyást, amely vizsgakérdései megfelelnek
+30. §[^50] (1) A légiközlekedési hatóság arra az alapismereti vizsgára adhat ki jóváhagyást, amely vizsgakérdései megfelelnek
 
 a) a 3. mellékletben meghatározott valamely modulnak, és
 
-b) a B-SLA vagy B-BL kategóriájú szakszolgálati engedélyre vagy D1, D2, E1 vagy E2 kategóriájó üzemképesség tanúsításra a 3. mellékletben meghatározott ismereti szintnek.
+b) a B–SLA vagy B–BL kategóriájú szakszolgálati engedélyre vonatkozó ismereti szintnek.
 
 (2) Az alapismereti vizsgák formája írásbeli, három válaszlehetőségből egy helyes választ tartalmazó feleletválasztásos teszt. A sikeres vizsgához a kérdések legalább 75%-át helyesen kell megválaszolni. A vizsga értékelésekor a kérdéseket azonos pontszámmal kell figyelembe venni.
 
@@ -17,3 +17,5 @@ b) a B-SLA vagy B-BL kategóriájú szakszolgálati engedélyre vagy D1, D2, E1 
 (6) Egy vizsgán vizsgáztató személyenként legfeljebb 14 fő vizsgázó vehet részt, és a vizsgát úgy kell lebonyolítani, hogy a vizsga résztvevői egymást ne zavarhassák és ne segíthessék.
 
 (7) Az alapvizsga jóváhagyásához a kérelmezőnek rendelkeznie kell az (1)–(3) bekezdésben foglalt követelményeket biztosító vizsgakérdés adatbázissal.
+
+[^50]: A 30. § a 42/2025. (XII. 22.) ÉKM rendelet 9. §-ával megállapított szöveg.

@@ -4,6 +4,6 @@
 
 ## 26. A felmentés iránti kérelem
 
-32. §[^38]
+32. §[^53]
 
-[^38]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § g) pontja hatályon kívül helyezte.
+[^53]: A 32. §-t az 55/2017. (XII. 27.) NFM rendelet 62. § g) pontja hatályon kívül helyezte.
