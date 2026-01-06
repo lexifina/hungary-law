@@ -6,9 +6,9 @@ b) miniszter kinevezési, valamint munkáltatói jogkörébe tartozó hivatásos
 
 c) a Hszt. 51. § (2)–(4) bekezdése szerint a rendvédelmi feladatokat ellátó szerven kívül szolgálatot teljesítők esetén, ha a hivatásos szolgálati viszonnyal kapcsolatos munkáltatói jogok nem miniszteri hatáskörbe tartoznak, az érintett szerv vezetőjének megkeresése,
 
-d)[^3] a rendvédelmi oktatási intézménybe jelentkező, valamint az ott tanuló esetében a rendvédelmi oktatási intézmény vezetőjének megkeresése,
+d)[^4] a rendvédelmi oktatási intézménybe jelentkező, valamint az ott tanuló esetében a rendvédelmi oktatási intézmény vezetőjének megkeresése,
 
-e)[^4] a rendvédelmi tisztjelölti állományba jelentkező, illetve a rendvédelmi tisztjelölt esetében a tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka megkeresése
+e)[^5] a rendvédelmi tisztjelölti állományba jelentkező, illetve a rendvédelmi tisztjelölt esetében a tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka megkeresése
 
 alapján végzi.
 
@@ -38,7 +38,7 @@ cb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredm
 
 cc) által, a hivatásos állományba jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, ha az rendelkezésre áll;
 
-d)[^5] a rendvédelmi tisztjelölt, valamint a rendvédelmi oktatási intézmény tanulója
+d)[^6] a rendvédelmi tisztjelölt, valamint a rendvédelmi oktatási intézmény tanulója
 
 da) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
 
@@ -52,6 +52,9 @@ db) által, a rendvédelmi oktatási intézménybe jelentkezéskor kitöltött �
 
 (7) A Hszt. 54. § (1) bekezdésében meghatározott esetben a kifogástalan életvitel soron kívüli ellenőrzése érdekében a jogosult a hivatásos állomány tagjának szolgálati beosztásból történő felmentése napján megkeresi a kijelölt szervet. A kifogástalan életvitel ellenőrzését ebben az esetben az elrendeléstől számított 15 napon belül kell befejezni, amely határidőt az elrendelő indokolt esetben egy alkalommal 15 nappal meghosszabbíthatja.
 
-[^3]: A 2. § (1) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés e) pontját az 569/2022. (XII. 23.) Korm. rendelet 46. § (2) bekezdése iktatta be.
-[^5]: A 2. § (3) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg.
+(8)[^7] Ha az állományilletékes parancsnok a Hszt. 54/B. § (1) bekezdésében meghatározott döntésével egyidejűleg a Hszt. 42. § (1) bekezdése alapján a kifogástalan életvitel soron kívüli ellenőrzését kezdeményezi, akkor a kifogástalan életvitel ellenőrzését az elrendeléstől számított 15 napon belül kell lefolytatni, amely határidőt az elrendelő indokolt esetben egy alkalommal 15 nappal meghosszabbíthatja.
+
+[^4]: A 2. § (1) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontját az 569/2022. (XII. 23.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^6]: A 2. § (3) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (8) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 46. §-a iktatta be.

@@ -1,4 +1,4 @@
-6/A. §[^10] (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott kifogástalan életvitel ellenőrzésére a 2–4. §-t a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+6/A. §[^12] (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott kifogástalan életvitel ellenőrzésére a 2–4. §-t a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A kifogástalan életvitel ellenőrzését a kijelölt szerv pályázó esetén a kinevezési, megbízási jogkör gyakorlója, foglalkoztatott esetén a munkáltatói jogkör gyakorlójának megkeresése alapján végzi.
 
@@ -28,4 +28,4 @@ b) a foglalkoztatott foglalkoztatási jogviszonya megszűnik, vagy
 
 c) a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta.
 
-[^10]: A 6/A. §-t a 193/2024. (VII. 8.) Korm. rendelet 8. §-a iktatta be.
+[^12]: A 6/A. §-t a 193/2024. (VII. 8.) Korm. rendelet 8. §-a iktatta be.

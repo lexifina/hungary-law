@@ -1,4 +1,4 @@
-5/A. §[^9] (1) Az iskolaőrök esetében a 2–4. §-ban foglalt rendelkezéseket a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
+5/A. §[^11] (1) Az iskolaőrök esetében a 2–4. §-ban foglalt rendelkezéseket a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az iskolaőr kifogástalan életvitel ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi.
 
@@ -14,4 +14,4 @@ c) a kezdeményezésére jogosult a kérelmét visszavonta.
 
 (5) Az iskolaőr esetében a 2. § (3) bekezdés b) és d) pontja, a 2. § (7) bekezdése, valamint a 3. § (2) bekezdése nem alkalmazható.
 
-[^9]: Az 5/A. §-t a 479/2024. (XII. 31.) Korm. rendelet 70. §-a iktatta be.
+[^11]: Az 5/A. §-t a 479/2024. (XII. 31.) Korm. rendelet 70. §-a iktatta be.
