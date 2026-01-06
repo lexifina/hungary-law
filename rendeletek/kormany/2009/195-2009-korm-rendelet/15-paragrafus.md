@@ -1,10 +1,10 @@
 ## Működési feltételek
 
-15. § (1)[^20] A katonai építésfelügyeleti hatósághoz tartozó – kormánytisztviselői, hivatásos és szerződéses katonai – létszámot úgy kell meghatározni, hogy a hatósági tevékenység folyamatos végzése biztosított legyen.
+15. § (1)[^21] A katonai építésfelügyeleti hatósághoz tartozó – kormánytisztviselői, hivatásos és szerződéses katonai – létszámot úgy kell meghatározni, hogy a hatósági tevékenység folyamatos végzése biztosított legyen.
 
-(2) A katonai építésfelügyeleti ellenőrzési tevékenységet, az építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó építésfelügyelő foglalkoztatási feltétele a külön jogszabályokban előírt nemzetbiztonsági ellenőrzés és a Nemzeti Biztonsági Tanúsítvány meglétén túl
+(2)[^22] A katonai építésfelügyeleti ellenőrzési tevékenységet, az építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó építésfelügyelő foglalkoztatási feltétele
 
-a)[^21] kormánytisztviselő esetén az építésügyi hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben foglalt alkalmazási feltételek teljesítése,
+a)[^23] kormánytisztviselő esetén az építésügyi hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben foglalt alkalmazási feltételek teljesítése,
 
 b) hivatásos és szerződéses állományú katona esetén
 
@@ -36,5 +36,6 @@ j) katonai elhelyezési vagy ingatlankezelési
 
 tevékenység folytatásának időtartamát kell figyelembe venni.
 
-[^20]: A 15. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (3) bekezdése szerint módosított szöveg.
-[^21]: A 15. § (2) bekezdés a) pontja a 290/2011. (XII. 22.) Korm. rendelet 89. § (4) bekezdése, a 285/2024. (IX. 30.) Korm. rendelet 57. §-a szerint módosított szöveg.
+[^21]: A 15. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 15. § (2) bekezdés nyitó szövegrésze a 436/2025. (XII. 23.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^23]: A 15. § (2) bekezdés a) pontja a 290/2011. (XII. 22.) Korm. rendelet 89. § (4) bekezdése, a 285/2024. (IX. 30.) Korm. rendelet 57. §-a szerint módosított szöveg.
