@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-34-00-00
 | 2024-10-01 | 2023. évi C. törvény | 2013-34-00-00.23 |
 | 2024-11-01 | 2024. évi XVII. törvény | 2013-34-00-00.24 |
 | 2025-01-01 | 2024. évi LI. törvény | 2013-34-00-00.25 |
+| 2026-01-06 | 2025. évi CXXVIII. törvény | 2013-34-00-00.26 |
