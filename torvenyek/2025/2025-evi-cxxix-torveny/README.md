@@ -1,0 +1,7 @@
+# 2025. évi CXXIX. törvény az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-129-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2026-01-06 | 2025. évi CXXIX. törvény | 2025-129-00-00.0 (közlönyállapot) |
