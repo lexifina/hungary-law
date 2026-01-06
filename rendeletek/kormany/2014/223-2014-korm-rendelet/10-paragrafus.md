@@ -42,17 +42,11 @@
 
 (5)[^37] A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény alapján megvalósuló vízilétesítmények és vízimunkák engedélyezése esetén vízügyi hatóságként az (1) bekezdés 10. pontja szerinti szerv jár el.
 
-(6)[^38] A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként, valamint területi vízvédelmi hatóságként – országos illetékességgel – az (1) bekezdés 10. pontja szerinti hatóság jár el.
+(6)[^38] A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként, valamint területi vízvédelmi hatóságként – országos illetékességgel – az (1) bekezdés 10. pontja szerinti hatóság jár el. Ezekben az eljárásokban – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szerinti szakhatóságok működnek közre.
 
-Ezekben az eljárásokban
+(7)[^39] Több vízügyi hatóság illetékességi területén elhelyezkedő regionális víziközmű-rendszer esetén az üzemeltetési követelmények teljesítésének ellenőrzését (hatósági ellenőrzés) a víziközmű-szolgáltató székhelye szerint illetékes vízügyi hatóság végzi. A hatósági ellenőrzés alapján induló hatósági engedélyezésre, engedély-módosításra az általános illetékességi szabályok irányadóak.
 
-a) csak olyan ügyintéző vehet részt, aki a biztonsági vezető által a nemzeti minősített adatra kiállított személyi biztonsági tanúsítvánnyal vagy a külföldi minősített adatra a Nemzeti Biztonsági Felügyelet által kiállított személyi biztonsági tanúsítvánnyal rendelkezik,
-
-b)[^39] – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szerinti szakhatóságok működnek közre.
-
-(7)[^40] Több vízügyi hatóság illetékességi területén elhelyezkedő regionális víziközmű-rendszer esetén az üzemeltetési követelmények teljesítésének ellenőrzését (hatósági ellenőrzés) a víziközmű-szolgáltató székhelye szerint illetékes vízügyi hatóság végzi. A hatósági ellenőrzés alapján induló hatósági engedélyezésre, engedély-módosításra az általános illetékességi szabályok irányadóak.
-
-(8)[^41] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
+(8)[^40] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
 
 [^19]: A 10. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja, az 511/2020. (XI. 20.) Korm. rendelet 1. § (4) bekezdés a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 128. § a) pontja szerint módosított szöveg.
 [^20]: A 10. § (1) bekezdés 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
@@ -73,7 +67,6 @@ b)[^39] – e rendeletben meghatározottaktól eltérően, érintettségük eset
 [^35]: A 10. § (3b) bekezdését a 35/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^36]: A 10. § (4) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 128. § d) pontja hatályon kívül helyezte.
 [^37]: A 10. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 128. § e) pontja szerint módosított szöveg.
-[^38]: A 10. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 278. § (1) bekezdése iktatta be, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 128. § e) pontja szerint módosított szöveg.
-[^39]: A 10. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 504. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^40]: A 10. § (7) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (3) bekezdése iktatta be.
-[^41]: A 10. § (8) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (3) bekezdése iktatta be.
+[^38]: A 10. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 278. § (1) bekezdése iktatta be, szövege a 436/2025. (XII. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^39]: A 10. § (7) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (3) bekezdése iktatta be.
+[^40]: A 10. § (8) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (3) bekezdése iktatta be.

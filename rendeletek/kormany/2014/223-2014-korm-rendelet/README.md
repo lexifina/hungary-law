@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-223-20-
 | 2024-10-01 | 2014-223-20-22.25 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2024-12-10 | 2014-223-20-22.26 | 383/2024. (XII. 9.) Korm. rendelet |
 | 2025-08-07 | 2014-223-20-22.27 | 511/2020. (XI. 20.) Korm. rendelet |
+| 2026-01-06 | 2014-223-20-22.28 | 379/2016. (XII. 2.) Korm. rendelet |
