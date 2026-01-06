@@ -162,7 +162,7 @@ A személyügyi nyilvántartásban kezelt személyes adatok
 
 11.3. a bejelentéshez kötött egyéb, szolgálati viszonyon kívüli tevékenységre vonatkozó adatok,
 
-12. a nemzetbiztonsági ellenőrzésre vonatkozó adatok,
+12. a nemzetbiztonsági ellenőrzésre vagy egyszerűsített nemzetbiztonsági ellenőrzésre vonatkozó adatok,
 
 13. a vagyonnyilatkozat-tételi kötelezettséggel kapcsolatos adatok,
 
