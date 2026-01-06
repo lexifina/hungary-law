@@ -44,7 +44,7 @@ b) végzi a Végrehajtási Rendelet 36a. cikk (2) bekezdése szerinti ellenőrz�
 
 c) kidolgozza a Végrehajtási Rendelet 3. cikk (8) bekezdés b) pontja szerinti kilépési tervet.
 
-(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezetek elektronikus információs rendszerei kiberbiztonsági felügyeletét.
+(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezetek elektronikus információs rendszerei kiberbiztonsági felügyeletét. A Hatóság látja el az (EU) 2024/2847 európai parlamenti és tanácsi rendelet előírásai tekintetében a bejelentő hatósági és piacfelügyeleti hatósági feladatokat.
 
 (7) A Hatóság látja el a hulladékról szóló 2012. évi CLXXXV. törvény 92/H. § (2) és (5) bekezdésében meghatározott hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat.
 
