@@ -1,6 +1,6 @@
 ## Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató
 
-2. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^63]
+2. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^64]
 
 Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató szövege:
 
@@ -12,4 +12,4 @@ További információ a Nemzeti Média- és Hírközlési Hatóság honlapján:
 
 https://nmhh.hu/veglegestorles”
 
-[^63]: A 2. mellékletet a 93/2024. (IV. 23.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^64]: A 2. mellékletet a 93/2024. (IV. 23.) Korm. rendelet 34. § (2) bekezdése iktatta be.

@@ -10,7 +10,7 @@ b) minimum két műszaki informatikai mérnök felsőfokú végzettséggel és l
 
 c) rendelkezik legalább tíz teljes munkaidőben foglalkoztatott munkavállalóval;
 
-d) tagjai (részvényesei) és munkavállalói közül legalább öten rendelkeznek személyi biztonsági tanúsítvánnyal;
+d)[^38]
 
 e) minimum 100 000 000 forintos határig kiterjedő szakmai felelősségbiztosítással rendelkezik;
 
@@ -18,7 +18,7 @@ f) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatik
 
 g) a tanúsító szervezet és a vizsgáló laboratórium rendelkezik informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett – bármilyen ágazatból származó – legalább 3 referenciával;
 
-h)[^38] a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint a tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal, és tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 57. § (2) bekezdés d) pontja szerinti nyilvántartásban.
+h)[^39] a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie, valamint a tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal, és tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 57. § (2) bekezdés d) pontja szerinti nyilvántartásban.
 
 (3) Az informatikai rendszer megfelel a rendszerelemek zártságával, az informatikai rendszerhez történő jogosulatlan hozzáférés és észrevétlen módosítás megakadályozásával kapcsolatos, valamint az általános információbiztonsági zártsági követelményeknek, ha
 
@@ -56,9 +56,10 @@ p) a rendszer és az üzemeltetési szabályzatok gondoskodnak a rendszer és a 
 
 q) megfelelő szintű fizikailag védett környezetet biztosítanak a rendszer számára;
 
-r)[^39] a szervezet detektálja és kezeli az egyes kiberbiztonsági incidenseket;
+r)[^40] a szervezet detektálja és kezeli az egyes kiberbiztonsági incidenseket;
 
 s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
 
-[^38]: A 11. § (2) bekezdés h) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
-[^39]: A 11. § (3) bekezdés r) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § b) pontja szerint módosított szöveg.
+[^38]: A 11. § (2) bekezdés d) pontját a 436/2025. (XII. 23.) Korm. rendelet 41. §-a hatályon kívül helyezte.
+[^39]: A 11. § (2) bekezdés h) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § (3) bekezdés r) pontja a 418/2024. (XII. 23.) Korm. rendelet 141. § b) pontja szerint módosított szöveg.
