@@ -30,7 +30,7 @@ dd) az eljáró szabálysértési hatóság,
 
 de) a nemperes eljárást lefolytató közjegyző,
 
-e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi fegyveres erő, nemzetközi katonai parancsnokság vagy azok állománya tagjának nemzetbiztonsági ellenőrzése vagy védelme biztosítása céljából az eljáró nemzetbiztonsági szolgálat,
+e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi fegyveres erő, nemzetközi katonai parancsnokság vagy azok állománya tagjának nemzetbiztonsági ellenőrzése, egyszerűsített nemzetbiztonsági ellenőrzése vagy védelme biztosítása céljából az eljáró nemzetbiztonsági szolgálat,
 
 f) a 4. § (3) bekezdés a), b), c) és f) pontjában és a 4. § (4) bekezdés a)–d) pontjában foglalt adatokról a katasztrófák elleni védekezés tervezésének és végrehajtásának elősegítése érdekében a katasztrófavédelemmel kapcsolatos ügyekben eljáró központi hatóság,
 
