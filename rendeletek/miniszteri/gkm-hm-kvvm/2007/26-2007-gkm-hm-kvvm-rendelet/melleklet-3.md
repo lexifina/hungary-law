@@ -200,7 +200,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^130]
+együttes rendelethez[^131]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -308,4 +308,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 23. | LHR41 | Várpalota 2 km sugarú kör a 471115N 0181304E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. A védett és fokozottan védett természeti értékek megőrzése céljából a légijárműveknek a légteret annak nyugati oldalán kell kerülniük. |
 
-[^130]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 3. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 2. §-a, a 37/2024. (XI. 11.) ÉKM rendelet 3. § (3) bekezdése szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^131]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 3. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 2. §-a, a 37/2024. (XI. 11.) ÉKM rendelet 3. § (3) bekezdése szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]

@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2024-10-03 | 2007-26-20-0L.42 | 21/2024. (VII. 31.) ÉKM rendelet |
 | 2024-12-15 | 2007-26-20-0L.43 | 21/2024. (VII. 31.) ÉKM rendelet |
 | 2024-12-26 | 2007-26-20-0L.45 | 37/2024. (XI. 11.) ÉKM rendelet |
+| 2026-01-06 | 2007-26-20-0L.46 | 16/2024. (VII. 2.) ÉKM rendelet |
