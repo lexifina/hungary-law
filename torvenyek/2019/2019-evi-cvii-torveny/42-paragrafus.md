@@ -34,4 +34,4 @@ időtartama alatt.
 
 (7) Az (1) bekezdésében meghatározott védelem nem vonatkozik a köztisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 29. § (7) bekezdésében vagy a 84. § (6) bekezdésében foglaltak szerint a köztisztviselő kérelmezi.
 
-(8) Felmentési védelem nem illeti meg a köztisztviselőt a 39. § (3) bekezdés a) pontja szerinti érdemtelenség és a 39. § (4) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentés esetén.
+(8) Felmentési védelem nem illeti meg a köztisztviselőt a 39. § (2) bekezdés f) pontja szerinti felmentés, a 39. § (3) bekezdés a) pontja szerinti érdemtelenség, a 39. § (3) bekezdés d) pontja szerinti felmentés és a 39. § (4) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentés esetén.

@@ -24,6 +24,8 @@ d) a köztisztviselő nyugdíjasnak minősül [kivéve, ha a jogviszony a 38. §
 
 e) a különleges jogállású szerv a feladatok hatékonyabb biztosítása érdekében a köztisztviselő álláshelyére másik köztisztviselőt alkalmaz.
 
+f) a 24. § (7a) bekezdése szerint a munkáltató a közszolgálati jogviszony megszüntetéséről döntött.
+
 (3) A közszolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
 a) a köztisztviselő a hivatása gyakorlására érdemtelen,

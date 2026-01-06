@@ -40,7 +40,7 @@ c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabads�
 
 a) aki nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
 
-b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy, szerv vagy testület a közszolgálati jogviszony létesítését jóváhagyta.
+b) akinek nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha törvény szerint arra feljogosított személy, szerv vagy testület a közszolgálati jogviszony létesítését – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – jóváhagyta.
 
 (6) Ha a nemzetbiztonsági ellenőrzés alá eső közszolgálati jogviszonyba jelölt személy
 
@@ -54,11 +54,21 @@ a különleges jogállású szerv – mérlegelése alapján – a közszolgála
 
 a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
 
-b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a közszolgálati jogviszony fenntartását törvény alapján arra feljogosított személy, szerv vagy testület nem hagyta jóvá,
+b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a közszolgálati jogviszony fenntartását törvény alapján arra feljogosított személy, szerv vagy testület – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont ia) alpontja szerinti munkakör kivételével – nem hagyta jóvá,
 
-a munkáltató – mérlegelése alapján – a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik nemzetbiztonsági ellenőrzés alá. Felajánlható álláshely hiányában, vagy ha a közszolgálati jogviszonyt létesíteni szándékozó személy a felajánlott álláshelyet nem fogadja el, a közszolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
+a munkáltató – mérlegelése alapján – a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik nemzetbiztonsági ellenőrzés alá. Felajánlható álláshely hiányában, vagy ha a köztisztviselő a felajánlott álláshelyet nem fogadja el, a közszolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
-(8) A közszolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
+(7a) Ha a köztisztviselő egyszerűsített nemzetbiztonsági ellenőrzés alá eső személy vagy a közszolgálati jogviszonya fennállása alatt válik egyszerűsített nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+a) az egyszerűsített nemzetbiztonsági ellenőrzéséhez nem járul hozzá,
+
+b) az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, vagy
+
+c) az egyszerűsített nemzetbiztonsági ellenőrzés felülvizsgálati eljárása során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel,
+
+a munkáltató a köztisztviselő részére más olyan álláshelyet ajánlhat fel, amelyhez tartozó feladat alapján nem esik egyszerűsített nemzetbiztonsági ellenőrzés alá, vagy az egyszerűsített nemzetbiztonsági ellenőrzés alá eső álláshelyen foglalkoztathatja tovább, vagy a közszolgálati jogviszonyt azonnali hatállyal megszüntetheti.
+
+(8) A közszolgálati jogviszonynak a (7) vagy (7a) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
 
 (9) Ha törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását az arra törvényben kijelölt szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 

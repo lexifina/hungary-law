@@ -138,7 +138,7 @@
 
 ## 24. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok
 
-## 25. nemzetbiztonsági vizsgálat előírása, eredménye
+## 25. nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés előírása, eredménye
 
 ## 26. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
 

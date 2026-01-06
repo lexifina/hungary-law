@@ -62,6 +62,8 @@ d) érdemtelenség jogcímén mentették fel,
 
 e) a foglalkoztatást kizáró ok miatt mentették fel.
 
+f) az a)–e) pontban foglaltakon túl e törvény így rendelkezik.
+
 (10) Ha a köztisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban bejelenteni,
