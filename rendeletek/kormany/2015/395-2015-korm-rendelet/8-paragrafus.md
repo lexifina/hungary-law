@@ -2,9 +2,9 @@
 
 8. § (1) A felsőoktatási intézményben az 1. melléklet szerinti, az oktatói, kutatói munkát segítő és egyéb munkakörök létesíthetők. Ezen foglalkoztatottak fizetési osztályba sorolását az 1. melléklet határozza meg.
 
-(2)[^2] A felsőoktatási intézmény a szervezeti és működési szabályzatában az (1) bekezdésben foglaltakon túl meghatározhat további, az oktatói és kutatói munkát vagy a hallgatókat segítő és egyéb munkaköröket is.
+(2)[^3] A felsőoktatási intézmény a szervezeti és működési szabályzatában az (1) bekezdésben foglaltakon túl meghatározhat további, az oktatói és kutatói munkát vagy a hallgatókat segítő és egyéb munkaköröket is.
 
-(3)[^3] Ügyvivő-szakértő munkakörbe kell besorolni azt a felsőfokú végzettséggel és szakképzettséggel rendelkező, önálló tevékenységet, szakértői munkát végző közalkalmazottat (különösen a kancellárt, a kamarai jogtanácsost, az ügyvédi kamarai nyilvántartásba vett jogi előadót, a jogászt, a közgazdászt, a felsőfokú végzettséggel rendelkező tanügy-igazgatási munkatársat), továbbá a felsőoktatási intézmény funkcionális egységének vezetőjét és helyettesét, aki nem vesz részt az oktatásban.
+(3)[^4] Ügyvivő-szakértő munkakörbe kell besorolni azt a felsőfokú végzettséggel és szakképzettséggel rendelkező, önálló tevékenységet, szakértői munkát végző közalkalmazottat (különösen a kancellárt, a kamarai jogtanácsost, az ügyvédi kamarai nyilvántartásba vett jogi előadót, a jogászt, a közgazdászt, a felsőfokú végzettséggel rendelkező tanügy-igazgatási munkatársat), továbbá a felsőoktatási intézmény funkcionális egységének vezetőjét és helyettesét, aki nem vesz részt az oktatásban.
 
 (4) Tanszéki mérnök munkakörbe kell besorolni azt a felsőfokú végzettséggel és természettudományi vagy mérnöki szakirányú szakképzettséggel rendelkező közalkalmazottat, aki az oktatást közvetlenül segítő tevékenységet folytat, és részt vesz annak feltételei megteremtésében, fejlesztésében.
 
@@ -16,5 +16,5 @@
 
 (8) Klinikai állatorvos munkakörbe kell besorolni azt a közalkalmazottat, aki mesterfokozattal és állatorvos szakképzettséggel rendelkezik, és a felsőoktatási intézmény képzési feladatához kapcsolódóan állatorvosi feladatokat lát el.
 
-[^2]: A 8. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 44. §-a szerint módosított szöveg.
-[^3]: A 8. § (3) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 66. §-a szerint módosított szöveg.
+[^3]: A 8. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^4]: A 8. § (3) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 66. §-a szerint módosított szöveg.
