@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-92-20-2
 | 2021-12-21 | 2010-92-20-22.18 | 697/2021. (XII. 13.) Korm. rendelet |
 | 2024-07-08 | 2010-92-20-22.19 | 177/2024. (VII. 7.) Korm. rendelet |
 | 2024-10-25 | 2010-92-20-22.20 | 303/2024. (X. 24.) Korm. rendelet |
+| 2026-01-06 | 2010-92-20-22.21 | 436/2025. (XII. 23.) Korm. rendelet |

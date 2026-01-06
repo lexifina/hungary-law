@@ -1,4 +1,4 @@
-## 17. §[^120] Ez a rendelet
+## 17. §[^123] Ez a rendelet
 
 1. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat,
 
@@ -6,4 +6,4 @@
 
 végrehajtásához szükséges rendelkezéseket határoz meg.
 
-[^120]: A 17. § a 441/2016. (XII. 16.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^123]: A 17. § a 441/2016. (XII. 16.) Korm. rendelet 38. §-ával megállapított szöveg.
