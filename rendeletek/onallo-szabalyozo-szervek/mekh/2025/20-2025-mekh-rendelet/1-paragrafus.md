@@ -6,6 +6,6 @@
 
 ## [4] A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdés 1. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A villamos energia rendszerhasználati díjak és külön díjak alkalmazási szabályairól szóló 10/2024. (XI. 14.) MEKH rendelet (a továbbiakban: Rendelet) 2. § 2. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
