@@ -1,5 +1,1 @@
-## „g) nemzetbiztonsági szempontból alkalmatlanná vált, mert az egyszerűsített nemzetbiztonsági ellenőrzése során a foglalkoztatást nemzetbiztonsági szempontból befolyásoló információ merült fel, a munkáltatói jogkört gyakorló mérlegelés alapján nem tartotta őt az egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörben és a számára felajánlott, a végzettségének és képzettségének megfelelő – egyszerűsített nemzetbiztonsági ellenőrzés alá nem eső – más munkakört nem fogadta el.”
-
-40. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 330. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 42. § (1a) bekezdésében foglaltaktól eltérően az Országgyűlési Őrséghez jelentkező, valamint az Országgyűlési Őrség hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező tervezett szolgálati beosztása vagy a hivatásos állomány tagjának szolgálati beosztása egyszerűsített nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásnak minősül.”
+### 40. §

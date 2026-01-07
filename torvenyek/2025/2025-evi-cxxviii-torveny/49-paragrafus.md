@@ -1,1 +1,1 @@
-49. § Hatályát veszti a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 36. § (3) bekezdésében az „A szakdiplomata-álláshely betöltésére jelöltnek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését a szakminisztérium vezetője kezdeményezheti.” szövegrész.
+### 49. §
