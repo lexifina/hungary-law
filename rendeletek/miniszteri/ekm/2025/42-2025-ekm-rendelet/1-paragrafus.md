@@ -8,10 +8,6 @@
 
 ## 1. A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet módosítása
 
-1. § A magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet
+1. §[^2]
 
-a) 12. § (3a) bekezdésében a „hatóság” szövegrész helyébe a „légiközlekedési hatóság” szöveg,
-
-b) 12. § (3c) bekezdés b) pontjában az „ismeretekből” szövegrész helyébe az „ismeretekből a légiközlekedési vizsgaközpontnál” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

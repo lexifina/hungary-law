@@ -1,5 +1,3 @@
-13. § Hatályát veszti a 13/2012. (III. 6.) NFM rendelet
+13. §[^14]
 
-a) 2. § 2. pontja,
-
-b) 2. § 4. pontja.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

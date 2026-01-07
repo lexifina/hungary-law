@@ -1,1 +1,3 @@
-11. § A 13/2012. (III. 6.) NFM rendelet 3. melléklete helyébe az 1. melléklet lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
