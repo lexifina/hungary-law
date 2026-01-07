@@ -14,4 +14,6 @@
 
 2. energiapiaci szereplő: az a jogi személy vagy természetes személy, aki a Hivatal által kiadott, villamosenergia- vagy földgázipari engedélyköteles tevékenység végzésére vonatkozó, hatályos engedéllyel rendelkezik, vagy akit a Hivatal aggregátorként, energiaközösségként, elektromobilitás szolgáltatóként nyilvántartásba vett;
 
-3. résztvevő: az a természetes vagy jogi személy, aki az energiapiaci szereplőn és az innovátoron kívül az energetikai szabályozási tesztkörnyezetben önként részt vesz.
+3.[^1] résztvevő: az, aki az energiapiaci szereplőn és az innovátoron kívül az energetikai szabályozási tesztkörnyezetben önként részt vesz.
+
+[^1]: Az 1. § 3. pontja a 21/2025. (XII. 22.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.

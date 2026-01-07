@@ -14,7 +14,7 @@
 
 6. az ESZT-ben végrehajtandó tevékenységek részletes leírását,
 
-7. technológiai, üzleti, szabályozási szempontból az ESZT-ben végrehajtandó tevékenység várható eredményeit és eredményességi kritériumait részeredményekre bontva,
+7.[^6] technológiai, üzleti, szabályozási szempontból az ESZT-ben végrehajtandó tevékenység várható eredményeit és eredményességi kritériumait részcélokra és azokhoz tartozó teljesítési kritériumokra bontva,
 
 8. az elvégzendő tesztek ütemezését,
 
@@ -32,4 +32,13 @@
 
 15. a kérelmező hozzájáruló nyilatkozatát ahhoz, hogy a Hivatal az innovációs teljesítményt az ESZT lezárását követően a nyilvánosság számára elérhetővé teszi, amennyiben a jogszabályok azt nem zárják ki,
 
-16. az ESZT lezárását követő záródokumentum Hivatalhoz történő benyújtásának javasolt határidejét, amely határidő nem lehet hosszabb, mint az ESZT lezárását követő 60 nap.
+16.[^7] annak a földrajzi területnek a leírását, amely területre a kérelmező az ESZT-ben való részvétel engedélyezését kéri,
+
+17.[^8] a kilépési tervet az ESZT lehetséges kimeneteire, beleértve a felelősségi viszonyok, fogyasztóvédelmi és egyéb jogi kötelezettségek rendezésének módját, az ESZT lezárását követően a kilépéskor hatályos szabályozásnak való megfelelés biztosításának és igazolásának rendjét,
+
+18.[^9] a kérelmező nyilatkozatát a szellemi tulajdonjogi kérdések és az innovációs teljesítmény ESZT keretében történő teszteléséhez szükséges egyéb jogok, jogosultságok rendezettségéről.
+
+[^6]: Az 5. § 7. pontja a 21/2025. (XII. 22.) MEKH rendelet 7. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § 16. pontja a 21/2025. (XII. 22.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 5. § 17. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.
+[^9]: Az 5. § 18. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.

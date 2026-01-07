@@ -1,6 +1,6 @@
 7. § Az ESZT nem engedélyezhető olyan innovációs teljesítményre, amely
 
-a) veszélyezteti az életet, a testi épséget, az egészséget, a környezetet, az ellátásbiztonságot vagy a fogyasztói jogok érvényesülését,
+a)[^11] nyilvánvalóan veszélyezteti az életet, a testi épséget, az egészséget, a környezetet, vagy veszélyezteti az ellátásbiztonságot vagy a fogyasztói jogok érvényesülését,
 
 b) veszélyezteti a Hivatal feladatainak ellátását,
 
@@ -15,3 +15,5 @@ f) jogszabályban vagy hatósági határozatban meghatározott díj, hatósági 
 g) a Hivatal általi finanszírozásra irányul, vagy
 
 h) a Hivatal az ESZT jogosultságot a 13. § (3) bekezdése, 14. § (2) bekezdése vagy 14. § (3) bekezdése alapján korábban megszüntette.
+
+[^11]: A 7. § a) pontja a 21/2025. (XII. 22.) MEKH rendelet 7. § c) pontja szerint módosított szöveg.
