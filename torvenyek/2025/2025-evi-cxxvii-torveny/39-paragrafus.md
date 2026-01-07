@@ -1,1 +1,1 @@
-39. § Hatályát veszti a közigazgatási és területfejlesztési miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső munkakörök meghatározásáról szóló 1/2025. (I. 31.) KTM rendelet.
+### 39. §

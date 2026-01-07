@@ -1,1 +1,1 @@
-31. § Hatályát veszti a honvédelmi miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 9/2020. (VI. 10.) HM rendelet.
+### 31. §
