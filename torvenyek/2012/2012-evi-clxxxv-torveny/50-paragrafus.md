@@ -27,3 +27,5 @@ szerinti felosztást tartalmazza.
 (6) A kötelezett a Hivatal számára biztosítja, hogy a Hivatal a kötelezett (3) bekezdés szerinti tevékenységével kapcsolatos pénzügyi-számviteli kimutatásaiba, valamint az azokhoz kapcsolódó bizonylatokba betekinthessen és az azokkal összefüggő információkat – ideértve az üzleti titkot is – megismerhesse.
 
 (7) A számviteli szétválasztásra vonatkozó részletszabályokat az e törvény végrehajtására kiadott kormányrendelet tartalmazza.
+
+(8) A számviteli szétválasztási kötelezettségre vonatkozó – e törvény, valamint az e törvény végrehajtására kiadott kormányrendelet szerinti – rendelkezések betartását a Hivatal ellenőrizheti. Ha a kötelezett a számviteli szétválasztási kötelezettségét a Hivatal felhívása ellenére nem vagy nem megfelelően teljesíti, a Hivatal bírságot szabhat ki.
