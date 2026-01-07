@@ -1,3 +1,3 @@
-28. § A nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló 418/2016. (XII. 14.) Korm. rendelet 2. § f) és g) pontja helyébe a következő rendelkezések lépnek:
+28. §[^29]
 
-(E rendelet alkalmazásában)
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

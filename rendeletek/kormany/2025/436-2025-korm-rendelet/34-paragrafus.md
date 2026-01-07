@@ -1,3 +1,3 @@
-34. § A nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló 418/2016. (XII. 14.) Korm. rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+34. §[^35]
 
-„(1) A változás-bejelentési kötelezettséget az adatlap kitöltésével kell teljesíteni. Az adatlap változás-bejelentési űrlapon tölthető ki, elektronikus keretprogram használatával vagy az Nbtv. 71/A. § (3) bekezdése szerinti esetben papír alapon.”
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

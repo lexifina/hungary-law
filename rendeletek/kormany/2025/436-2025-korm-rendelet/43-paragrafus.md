@@ -1,1 +1,3 @@
-43. § Hatályát veszti a honvédelmi foglalkoztatók tekintetében a különös hatáskörű foglalkoztatás-felügyeleti hatóság kijelöléséről és a hatóság eljárására vonatkozó részletes szabályokról szóló 117/2021. (III. 10.) Korm. rendelet 4. § (3) bekezdése.
+43. §[^44]
+
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

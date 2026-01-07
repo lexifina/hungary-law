@@ -1,1 +1,3 @@
-47. § A kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról szóló 194/2022. (V. 27.) Korm. rendelet 1. § b) pontjában a „szolgálatok és a Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „szolgálatok, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség” szöveg lép.
+47. §[^48]
+
+[^48]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
