@@ -1,0 +1,1 @@
+A budapesti egyházi fejlesztések megvalósításának támogatásáról szóló 1479/2025. (XI. 21.) Korm. határozat 1. pont b) alpontjában a „vízszigetelési munkálatai” szövegrész helyébe az „energetikai fejlesztései” szöveg lép.
