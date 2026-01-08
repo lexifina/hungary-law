@@ -1,0 +1,1 @@
+6. § Az élelmiszerlánc-felügyeleti szerv értesíti a vízügyi hatóságot, ha a vízjogi engedély talajvédelmi vagy egyéb követelményeket tartalmaz, és az eljárás során tudomására jutott adatok alapján feltételezi, hogy azok betartása elmaradt.

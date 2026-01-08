@@ -1,0 +1,1 @@
+19. § A rizsteleppé minősítés visszavonása iránti kérelem az 1. §-ban meghatározott módon nyújtható be, azzal, hogy nem kell alkalmazni a kérelem adattartalmára és formanyomtatványon való benyújtására vonatkozó rendelkezést.

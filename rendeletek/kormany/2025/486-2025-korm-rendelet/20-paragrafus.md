@@ -1,0 +1,1 @@
+20. § Ha a Fétv. 76/H. § (2) bekezdése szerint az élelmiszerlánc-felügyeleti szerv a rizsteleppé minősítés visszavonásáról dönt, a határozatot közli a rizstelep használójával és a 12. §-ban meghatározott személyekkel.

@@ -1,0 +1,1 @@
+10. § A rizsteleppé minősítés iránti kérelemnek helyt adó döntés rendelkező részének tartalmaznia kell az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 59. § (1) bekezdésének megfelelő, az azonos rizstelephez tartozó valamennyi helyrajzi számra kiterjedő felhívást.

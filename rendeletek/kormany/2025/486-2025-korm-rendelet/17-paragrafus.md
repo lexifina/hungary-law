@@ -1,0 +1,1 @@
+17. § A rizstelep méretének növelése iránti kérelemhez csatolni kell az érintett földrészlet tulajdonosának vagy haszonélvezőjének és a rizstelep használójának szerződését, amely megfelel az egységes földhasználati szerződés jogszabályi feltételeinek.
