@@ -4,7 +4,7 @@ A Kormány
 
 a) a Budapest-Erzsébetváros Árpád-házi Szent Erzsébet Plébánia orgonájának felújítása,
 
-b) a Budapesti Görögkatolikus Parókia Istenszülő Oltalmáról elnevezett görögkatolikus templom vízszigetelési munkálatai, valamint
+b)[^1] a Budapesti Görögkatolikus Parókia Istenszülő Oltalmáról elnevezett görögkatolikus templom energetikai fejlesztései, valamint
 
 c) a Budapest-Fasori Evangélikus Egyházközség Damjanich u. 28/B. épület veszélyt elhárító munkálatai, a víz- és az elektromos hálózat fejlesztése;
 
@@ -19,3 +19,5 @@ c) a Budapest-Fasori Evangélikus Egyházközség Damjanich u. 28/B. épület ve
 | Felelős: | a miniszterelnök általános helyettese |
 
 | Határidő: | a 2. pont szerinti forrás rendelkezésre állását követően azonnal |
+
+[^1]: Az 1. pont b) alpontja az 1002/2026. (I. 8.) Korm. határozat szerint módosított szöveg.
