@@ -1,4 +1,4 @@
-1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^88]
+1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^89]
 
 A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés adattartalma
 
@@ -104,4 +104,4 @@ I. A kereskedő és az üzlet adatai
 
 II. Keltezés, a kérelmező (bejelentő) aláírása (bélyegzője).
 
-[^88]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja, az 501/2021. (VIII. 18.) Korm. rendelet 4. §-a, a 239/2022. (VI. 30.) Korm. rendelet 8. §-a, a 484/2024. (XII. 31.) Korm. rendelet 6. § (1) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 103. § c) és d) pontja, a 395/2025. (XII. 16.) Korm. rendelet 8. § a) és b) pontja szerint módosított szöveg. [A 395/2025. (XII. 16.) Korm. rendelet 8. § a) pontja által elrendelt módosítás, amely szerint az 1. melléklet B) rész 5.1. alpontjában az „ideje” szövegrész helyébe az „ideje, ha az üzlet a hét valamely napján az általános nyitvatartási időn túl is nyitva tart” szöveg lép, nem vezethető át.]
+[^89]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja, az 501/2021. (VIII. 18.) Korm. rendelet 4. §-a, a 239/2022. (VI. 30.) Korm. rendelet 8. §-a, a 484/2024. (XII. 31.) Korm. rendelet 6. § (1) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 103. § c) és d) pontja, a 395/2025. (XII. 16.) Korm. rendelet 8. § a) és b) pontja szerint módosított szöveg. [A 395/2025. (XII. 16.) Korm. rendelet 8. § a) pontja által elrendelt módosítás, amely szerint az 1. melléklet B) rész 5.1. alpontjában az „ideje” szövegrész helyébe az „ideje, ha az üzlet a hét valamely napján az általános nyitvatartási időn túl is nyitva tart” szöveg lép, nem vezethető át.]

@@ -6,9 +6,9 @@ b) gyógyszer, gyógyszernek nem minősülő gyógyhatású anyag vagy készítm
 
 c) élelmiszer (ideértve a gombát is), a zöldség és a gyümölcs kivételével,
 
-d)[^52] élő állat, növényi szaporítóanyag,
+d)[^53] élő állat, növényi szaporítóanyag,
 
-e)[^53] az Országos Tűzvédelmi Szabályzat szerint fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag,
+e)[^54] az Országos Tűzvédelmi Szabályzat szerint fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag,
 
 f) veszélyes hulladék, veszélyes komponenseket tartalmazó maradvány és leválasztott anyag,
 
@@ -22,5 +22,5 @@ i) olyan egyéb termék, amelynek forgalmazását külön jogszabály előzetes 
 
 (3) A fogyasztót a lakásán, munkahelyén, átmeneti tartózkodási helyén felkereső személy köteles személyazonosságát, és ha nem a saját nevében jár el, képviseleti jogosultságát a fogyasztónak igazolni.
 
-[^52]: A 18. § (1) bekezdés d) pontja a 41/2010. (II. 26.) Korm. rendelet 21. § (4) bekezdésével megállapított szöveg.
-[^53]: A 18. § (1) bekezdés e) pontja a 300/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 6/2020. (I. 31.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^53]: A 18. § (1) bekezdés d) pontja a 41/2010. (II. 26.) Korm. rendelet 21. § (4) bekezdésével megállapított szöveg.
+[^54]: A 18. § (1) bekezdés e) pontja a 300/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 6/2020. (I. 31.) Korm. rendelet 5. §-a szerint módosított szöveg.

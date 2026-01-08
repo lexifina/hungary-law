@@ -1,6 +1,6 @@
-14. § (1)[^47] Mozgóbolt útján élő állat, nemesfémből készült ékszer, díszműáru és egyéb tárgy nem forgalmazható.
+14. § (1)[^48] Mozgóbolt útján élő állat, nemesfémből készült ékszer, díszműáru és egyéb tárgy nem forgalmazható.
 
-(2)[^48] Mozgóbolt útján kereskedelmi tevékenység a termékre vonatkozó jogszabály által előírt feltételek teljesítése mellett, valamint a kereskedő nevének és székhelyének a mozgóboltként üzemeltetett járművön, jól látható módon történő feltüntetésével végezhető.
+(2)[^49] Mozgóbolt útján kereskedelmi tevékenység a termékre vonatkozó jogszabály által előírt feltételek teljesítése mellett, valamint a kereskedő nevének és székhelyének a mozgóboltként üzemeltetett járművön, jól látható módon történő feltüntetésével végezhető.
 
-[^47]: A 14. § (1) bekezdése a 41/2010. (II. 26.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^48]: A 14. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^48]: A 14. § (1) bekezdése a 41/2010. (II. 26.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^49]: A 14. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^103]
+4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^104]
 
 Vendéglátóhely üzlettípusok és azok jellemzői
 
@@ -14,7 +14,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket helyben készítik, főzőkonyhával rendelkezik. |
 
-2. Büfé[^104]
+2. Büfé[^105]
 
 | Fő terméktípusa: | Melegétel/hidegétel |
 
@@ -50,7 +50,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-5.[^105] Alkoholos italokra specializálódott vendéglátóhely (bár, kocsma, borozó)
+5.[^106] Alkoholos italokra specializálódott vendéglátóhely (bár, kocsma, borozó)
 
 | Fő terméktípusa: | Szeszes és alkoholmentes ital |
 
@@ -62,7 +62,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-6.[^106] Zenés-táncos vendéglátóhely
+6.[^107] Zenés-táncos vendéglátóhely
 
 | Fő terméktípusa: | Szeszes és alkoholmentes ital |
 
@@ -134,7 +134,7 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-[^103]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^104]: A 4. melléklet 2. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^105]: A 4. melléklet 5. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^106]: A 4. melléklet 6. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^104]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^105]: A 4. melléklet 2. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^106]: A 4. melléklet 5. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^107]: A 4. melléklet 6. pontjában foglalt táblázat a 415/2025. (XII. 23.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
