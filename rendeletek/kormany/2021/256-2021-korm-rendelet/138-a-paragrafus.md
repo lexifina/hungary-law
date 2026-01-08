@@ -1,4 +1,4 @@
-## 41/A. [^214] A kedvezményezett KKV státuszának változása
+## 41/A. [^215] A kedvezményezett KKV státuszának változása
 
 138/A. § (1) Ha a kedvezményezett KKV státusza a támogatási döntés után, de a fenntartási időszak vége előtt egyesülés (beolvadás, összeolvadás), szétválás (kiválás, különválás) vagy tulajdonosi körében bekövetkezett egyéb változás folytán változik, és a kedvezményezett a felhívás feltételeinek
 
@@ -10,4 +10,7 @@ b) már nem felel meg, az irányító hatóság a támogatási döntést visszav
 
 (3) Az (1) és (2) bekezdés alkalmazása szempontjából a kapcsolódó és partnervállalkozásokat és az azokat érintő, a kedvezményezett KKV státuszára kiható változásokat is figyelembe kell venni.
 
-[^214]: A 41/A. alcímet (138/A. §) a 156/2022. (IV. 19.) Korm. rendelet 22. §-a iktatta be.
+(4)[^216] Az (1)–(3) bekezdést a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 5. § (3) bekezdésével összhangban kell alkalmazni.
+
+[^215]: A 41/A. alcímet (138/A. §) a 156/2022. (IV. 19.) Korm. rendelet 22. §-a iktatta be.
+[^216]: A 138/A. § (4) bekezdését a 484/2025. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
