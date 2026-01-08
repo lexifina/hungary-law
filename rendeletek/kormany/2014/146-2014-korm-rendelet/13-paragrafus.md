@@ -18,15 +18,16 @@ a) a berendezésekre vonatkozó jogszabály- és szabványváltozások,
 
 b) a konstrukció, az üzemvitel, a karbantartás, a műszaki biztonságtechnikai ellenőrzés korszerű ismeretanyaga.
 
-(9) A továbbképzés időtartama naptári évenként legalább 16 óra.
+(9)[^48] A továbbképzés időtartama ötévenként legalább 24 óra.
 
 (10) Az összeférhetetlenségre vonatkozó szabályokat alkalmazni kell a nyilvántartott szervezet ellenőre és az ellenőr – Polgári Törvénykönyv szerinti – közeli hozzátartozója berendezésekkel kapcsolatos további tevékenysége tekintetében.
 
-(11)[^48] A felvonó- és mozgólépcső ellenőr képesítéssel rendelkezők továbbképzése esetében a teljes képzési idő legalább 8 óra, amit egyben (egy időben) szükséges oktatni.
+(11)[^49] A felvonó- és mozgólépcső ellenőr képesítéssel rendelkezők továbbképzése esetében a teljes képzési idő legalább 8 óra, amit egyben (egy időben) szükséges oktatni.
 
 [^43]: A 13. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 227. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^44]: A 13. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 226. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^45]: A 13. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 227. § d) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^46]: A 13. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés d) és i) pontja szerint módosított szöveg.
 [^47]: A 13. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 497. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^48]: A 13. § (11) bekezdését a 447/2021. (VII. 26.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^48]: A 13. § (9) bekezdése a 480/2025. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^49]: A 13. § (11) bekezdését a 447/2021. (VII. 26.) Korm. rendelet 5. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 19. §[^77] A képzett vagy betanított felvonóvezető kötelezettségei:
+## 19. §[^78] A képzett vagy betanított felvonóvezető kötelezettségei:
 
 a) a felvonó szabályszerű vezetése,
 
@@ -8,4 +8,4 @@ c) annak megakadályozása, hogy a felvonót arra jogosulatlan személyek vezess
 
 d) az üzemeltető és a tulajdonos haladéktalan értesítése – a gépkönyvbe tett bejegyzés útján is – a biztonsági berendezések vagy egyéb szerkezetek látható vagy észlelt rendellenességéről, hibájáról.
 
-[^77]: A 19. § a 280/2015. (IX. 22.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^78]: A 19. § a 280/2015. (IX. 22.) Korm. rendelet 10. §-ával megállapított szöveg.

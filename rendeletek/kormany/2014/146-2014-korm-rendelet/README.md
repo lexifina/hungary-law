@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-146-20-
 | 2024-10-01 | 2014-146-20-22.18 | 70/2015. (III. 30.) Korm. rendelet |
 | 2026-01-01 | 2014-146-20-22.19 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-01-06 | 2014-146-20-22.20 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-01-08 | 2014-146-20-22.22 | 480/2025. (XII. 31.) Korm. rendelet |

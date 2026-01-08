@@ -1,8 +1,8 @@
-2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^100]
+2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^102]
 
 I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
-Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, átalakításának műszaki-biztonsági dokumentációjához az alábbi dokumentumokat kell csatolni a kérelem, bejelentés részeként:[^101]
+Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, átalakításának műszaki-biztonsági dokumentációjához az alábbi dokumentumokat kell csatolni a kérelem, bejelentés részeként:[^103]
 
 1. Felvonók esetében:
 
@@ -22,7 +22,7 @@ I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
 1.8. a felvonó által kiszolgált és elfoglalt helyiségek tűzveszélyességi osztályba sorolását.
 
-1.9.[^102] meglévő épületben létesülő felvonó esetében tartószerkezeti tervezési szakterületi jogosultsággal rendelkező tervező részéről nyilatkozatot arról, hogy az épületre átadódó erőhatások megfelelők, amennyiben épületstatikai, állékonysági hatást is vizsgálni kell.
+1.9.[^104] meglévő épületben létesülő felvonó esetében tartószerkezeti tervezési szakterületi jogosultsággal rendelkező tervező részéről nyilatkozatot arról, hogy az épületre átadódó erőhatások megfelelők, amennyiben épületstatikai, állékonysági hatást is vizsgálni kell.
 
 2. Mozgólépcső, valamint mozgójárda esetében:
 
@@ -34,7 +34,7 @@ I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
 2.4. a forgalomszámítást (valamennyi személyszállító berendezés figyelembevételével).
 
-3.[^103] A 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, a tervezési jogosultság számát, az elérhetőségét és a tervező sajátkezű aláírását, továbbá – a felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés esetén – az alkalmazott eltérés megfelelőségét és egyenértékűségét igazoló tanúsítvány megjelölését tartalmazó aláírólapot.
+3.[^105] A 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, a tervezési jogosultság számát, az elérhetőségét és a tervező sajátkezű aláírását, továbbá – a felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés esetén – az alkalmazott eltérés megfelelőségét és egyenértékűségét igazoló tanúsítvány megjelölését tartalmazó aláírólapot.
 
 II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
@@ -50,9 +50,11 @@ II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
 5. a használatbavételi alkalmassági nyilatkozatot.
 
+6.[^106] Megvalósulási dokumentáció, amely tartalmazza a 24/A. § (1) bekezdésében meghatározott nyilatkozatot az eltérésekről és az eltérések okairól, valamint a megvalósult állapotot ábrázoló – szakáganként szaktervezők által készített – műszaki dokumentációt, ha a kivitelezési munkát a záradékolt műszaki dokumentációtól, a kivitelezési dokumentációtól vagy a végleges építési vagy létesítési engedélytől eltérően végezték, de az eltérés nem minősül építési engedélyhez kötött építési tevékenységnek.
+
 III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
-1.[^104] Amennyiben a felvonó bontásánál épületstatikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
+1.[^107] Amennyiben a felvonó bontásánál épületstatikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
 
 2. Az 1. pontban meghatározott esetektől eltérő esetben a berendezések megszüntetési dokumentációjához az alábbi terveket kell csatolni a kérelem, bejelentés részeként:
 
@@ -62,8 +64,9 @@ III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
 2.3. A bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását.
 
-[^100]: A 2. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^101]: A 2. melléklet I. fejezet nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^102]: A 2. melléklet I. pont 1. alpont 1.9. pontját az 564/2023. (XII. 14.) Korm. rendelet 4. §-a iktatta be.
-[^103]: A 2. melléklet I. fejezet 3. pontja a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^104]: A 2. melléklet III. pont 1. alpontja a 285/2024. (IX. 30.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
+[^102]: A 2. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^103]: A 2. melléklet I. fejezet nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^104]: A 2. melléklet I. pont 1. alpont 1.9. pontját az 564/2023. (XII. 14.) Korm. rendelet 4. §-a iktatta be.
+[^105]: A 2. melléklet I. fejezet 3. pontja a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^106]: A 2. melléklet II. pont 6. alpontját a 480/2025. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^107]: A 2. melléklet III. pont 1. alpontja a 285/2024. (IX. 30.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
