@@ -1,4 +1,4 @@
-5. §[^22] A Kkt. 20. § (1) bekezdés d) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 4. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, menetíró szerelőműhely üzemeltetője, a tevékenységet végző személy, aki
+5. §[^23] A Kkt. 20. § (1) bekezdés d) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 4. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, menetíró szerelőműhely üzemeltetője, a tevékenységet végző személy, aki
 
 a) a 4. § c) pontjában meghatározott rendeletben,
 
@@ -14,4 +14,4 @@ f) egyrészről az Európai Unió és az Európai Atomenergia-közösség, és m
 
 meghatározott, a menetíró készülékre, a tachográf-korongra, a digitális tachográf kártyákra és az ezek használatára vonatkozó rendelkezést megsérti.
 
-[^22]: Az 5. § a 272/2025. (VIII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^23]: Az 5. § a 272/2025. (VIII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.

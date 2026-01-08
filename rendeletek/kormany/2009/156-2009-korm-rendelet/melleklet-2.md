@@ -110,6 +110,6 @@
 
 | 55 | a 2. § o) pontjában meghatározott Megállapodás szerinti érvényes engedély hiteles másolata vagy kivonata nélkül végzett nemzetközi árufuvarozás | RSJ | 940 000 |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^98]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
 
-[^98]: A 2. mellékletet a 272/2025. (VIII. 18.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^99]: A 2. mellékletet a 272/2025. (VIII. 18.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

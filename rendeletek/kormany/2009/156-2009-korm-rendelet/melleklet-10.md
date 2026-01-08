@@ -4,6 +4,6 @@
 
 | 2 | kombinált árufuvarozáshoz kapcsolódó engedélymentesség és kedvezmény igénybevétele esetén a kombinált árufuvarozás végzését igazoló okmányok hiánya | NSJ | 310 000 |
 
-10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^107]
+10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^108]
 
-[^107]: A 10. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § j) pontjával megállapított szöveg.
+[^108]: A 10. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § j) pontjával megállapított szöveg.

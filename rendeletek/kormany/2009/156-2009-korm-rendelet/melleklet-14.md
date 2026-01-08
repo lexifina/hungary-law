@@ -18,7 +18,7 @@
 
 | 9 | Az 511/2017. (XII. 29.) Korm. rendeletben és az ER.-ben meghatározott jármű-honosítási eljárás alkalmazása során üzemképtelen jármű vagy az ER. 5. számú mellékletében meghatározott veszélyes „A” típusú hibával rendelkező, valamint az emissziómérés során a járműgyártó által meghatározott határértékeket túllépő jármű megfelelőnek minősítése | RSJ | járművenként 350 000 |
 
-14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^131]
+14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^132]
 
 |  | A | B | C | D | E | F |
 
@@ -42,4 +42,4 @@
 
 | 10 | a járműbe szerelt fedélzeti diagnosztikai rendszer működését befolyásolták | RSJ | 60 000 | 80 000 | 1 000 000 | 1 000 000 |
 
-[^131]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 13. § k) pontjával megállapított szöveg.
+[^132]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 13. § k) pontjával megállapított szöveg.

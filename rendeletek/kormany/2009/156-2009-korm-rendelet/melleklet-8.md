@@ -6,6 +6,6 @@
 
 | 3 | bérelt (használatba vett) jármű esetén a bérleti (használatba adási) szerződés hiánya (kivéve, ha a forgalmi engedélyben üzembentartóként bejegyzett) vagy a gépjárművezető foglalkoztatására vonatkozó igazolás hiánya, amennyiben a járművet nem a bérlő (használatba vevő) vezeti | NSJ | 160 000 |
 
-8. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^105]
+8. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^106]
 
-[^105]: A 8. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § h) pontjával megállapított szöveg.
+[^106]: A 8. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § h) pontjával megállapított szöveg.

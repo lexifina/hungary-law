@@ -1,4 +1,4 @@
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^103]
 
 1. I. kockázati kategóriába tartozó cselekmény vagy mulasztás
 
@@ -202,4 +202,4 @@
 
 | 19 | a járművezetőnek nincs érvényes vizsgaigazolása | SJ | 60 000 | szállító (fuvarozó), járművezető |
 
-[^102]: Az 5. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § e) pontjával megállapított szöveg.
+[^103]: Az 5. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § e) pontjával megállapított szöveg.

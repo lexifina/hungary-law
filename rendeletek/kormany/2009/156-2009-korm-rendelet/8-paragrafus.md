@@ -1,3 +1,9 @@
-8. §[^36] A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan a 7. mellékletben meghatározott összegű bírságot köteles fizetni az a szállító, gépjárművezető, aki vagy ami a KR. 34. §-ában foglalt rendelkezést megsérti.
+8. §[^37] A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 7. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, aki vagy ami
 
-[^36]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított, a 280/2013. (VII. 24.) Korm. rendelet 3. § (1) bekezdés b) pontja, a 272/2025. (VIII. 18.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+a) a KR. 34. §-ában vagy
+
+b) a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának szabályairól szóló 31/2025. (IX. 25.) ÉKM rendeletben
+
+meghatározott, a bérelt járművel végzett szállításra vonatkozó rendelkezéseket megsérti.
+
+[^37]: A 8. § a 433/2025. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

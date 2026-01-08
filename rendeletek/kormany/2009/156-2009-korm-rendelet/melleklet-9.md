@@ -120,6 +120,6 @@
 
 | 60 | a közúti ellenőrzésben való közreműködés megtagadása, közúti ellenőrzés akadályozása |  | RSJ | 1 250 000 |
 
-9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^106]
+9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^107]
 
-[^106]: A 9. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § i) pontjával megállapított szöveg.
+[^107]: A 9. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § i) pontjával megállapított szöveg.

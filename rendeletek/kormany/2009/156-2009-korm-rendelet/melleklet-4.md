@@ -1,4 +1,4 @@
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^101]
 
 1. G – Menetíró készülék beépítése
 
@@ -156,4 +156,4 @@
 
 | 12 | M11 – olyan, csalásra alkalmas berendezés birtoklása vagy használata, amely képes a sebességkorlátozó készülék adatainak meghamisítására vagy csalásra alkalmas sebességkorlátozó készülék birtoklása vagy használata | RSJ | 1 250 000 |
 
-[^100]: A 4. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § c) pontjával megállapított szöveg.
+[^101]: A 4. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § c) pontjával megállapított szöveg.

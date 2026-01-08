@@ -1,4 +1,4 @@
-7. §[^35] A Kkt. 20. § (1) bekezdés f) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 6. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, aki vagy ami
+7. §[^36] A Kkt. 20. § (1) bekezdés f) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 6. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, aki vagy ami
 
 a) a gyorsan romló élelmiszerek nemzetközi szállításáról és az ilyen szállításhoz használt különleges szállítóeszközökről szóló, Genfben, 1970. szeptember 1. napján kelt Európai Megállapodás kihirdetéséről szóló 25/1989. (III. 17.) MT rendeletben,
 
@@ -6,4 +6,4 @@ b) az állatoknak a szállítás és a kapcsolódó műveletek közbeni védelm�
 
 meghatározott, a gyorsan romló élelmiszerek vagy az élő állatok szállítására vonatkozó rendelkezést megsérti.
 
-[^35]: A 7. § nyitó szövegrésze a 272/2025. (VIII. 18.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^36]: A 7. § nyitó szövegrésze a 272/2025. (VIII. 18.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
