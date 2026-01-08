@@ -1,4 +1,4 @@
-106/A. §[^739] (1) Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a XXII. Fejezet rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+106/A. §[^740] (1) Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a XXII. Fejezet rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol a XXII. Fejezet
 
@@ -6,19 +6,19 @@ a) szabálytalansági gyanút vagy szabálytalansági döntést említ, azon kö
 
 b) szabálytalansági eljárást említ, azon közbeszerzési-jogi szempontú ellenőrzést,
 
-c)[^740] irányító hatóságot vagy közreműködő szervezetet említ, azon az NFK-t
+c)[^741] irányító hatóságot vagy közreműködő szervezetet említ, azon az NFK-t
 
 kell érteni.
 
-(3)[^741] A jogorvoslati kérelmet a közbeszerzési záró tanúsítvány kézhezvételétől számított öt munkanapon belül kell benyújtani az NFK-nál az indokok megjelölésével.
+(3)[^742] A jogorvoslati kérelmet a közbeszerzési záró tanúsítvány kézhezvételétől számított öt munkanapon belül kell benyújtani az NFK-nál az indokok megjelölésével.
 
-(4)[^742] Az NFK a jogorvoslati kérelem beérkezését követő öt munkanapon belül a jogorvoslati kérelemben foglaltakkal való
+(4)[^743] Az NFK a jogorvoslati kérelem beérkezését követő öt munkanapon belül a jogorvoslati kérelemben foglaltakkal való
 
 a) egyetértése esetén a közbeszerzési záró tanúsítványt módosítja,
 
 b) egyet nem értése esetén a jogorvoslati kérelmet az ellenőrzés dokumentumaival és a jogorvoslati kérelem tárgyában kialakított álláspontjával együtt megküldi a Belső Ellenőrzési és Integritási Igazgatóság részére.
 
-(5)[^743] Az NFK haladéktalanul tájékoztatja a kedvezményezettet és az irányító hatóságot a (4) bekezdés szerinti döntéséről.
+(5)[^744] Az NFK haladéktalanul tájékoztatja a kedvezményezettet és az irányító hatóságot a (4) bekezdés szerinti döntéséről.
 
 (6) A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelemről – az annak kézhezvételétől számított – tíz munkanapon belül dönt.
 
@@ -32,8 +32,8 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 166. § (1)–(3) bekezdését, a 169. §-t, a 172. § (1), (6) és (7) bekezdését, valamint a 173. § (1) és (2) bekezdését nem kell alkalmazni.
 
-[^739]: A 106/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
-[^740]: A 106/A. § (2) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 109. pontja szerint módosított szöveg.
-[^741]: A 106/A. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 110. pontja szerint módosított szöveg.
-[^742]: A 106/A. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 111. pontja szerint módosított szöveg.
-[^743]: A 106/A. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 112. pontja szerint módosított szöveg.
+[^740]: A 106/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
+[^741]: A 106/A. § (2) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 109. pontja szerint módosított szöveg.
+[^742]: A 106/A. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 110. pontja szerint módosított szöveg.
+[^743]: A 106/A. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 111. pontja szerint módosított szöveg.
+[^744]: A 106/A. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 112. pontja szerint módosított szöveg.

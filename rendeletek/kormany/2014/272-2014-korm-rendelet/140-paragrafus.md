@@ -5,5 +5,3 @@
 a) projekt mérföldkövei teljesítésének kötelezettsége,
 
 b) pénzügyi vonatkozású szerződésmódosítási okok,
-
-c) kifizetés igénylés, előlegigénylés benyújtására vonatkozó korlátok,

@@ -76,6 +76,8 @@ bd) hitelintézet vagy pénzügyi vállalkozás által nyújtható kedvezményes
 
 (1j)[^617] Nem minősül költségnövekménynek, ha a többlettámogatás a projekt műszaki-szakmai tartalmának bővítését szolgálja.
 
+(1k)[^618] Az (1) bekezdés c) pontját kell alkalmazni a közfeladatot ellátó civil szervezet esetén is, ha a civil szervezet által ellátott közfeladattal összefüggő projekt megvalósítása során merült fel a költségnövekmény.
+
 (2) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 61. cikke szerinti, a befejezést követően nettó bevételt termelő projektek esetén az (1) bekezdésben foglaltakon túlmenően a módosításnak meg kell felelni a következő feltételeknek is:
 
 a) a módosítás eredményeként a közgazdasági költség-haszon elemzés mutatóinak továbbra is meg kell felelniük a támogathatósági feltételeknek,
@@ -107,3 +109,4 @@ b) ha a megvalósíthatósági tanulmányban kiválasztott változattól eltér�
 [^615]: A 87. § (1h) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^616]: A 87. § (1i) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 139/2021. (III. 23.) Korm. rendelet 3. § c) pontja, a 195/2023. (V. 22.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^617]: A 87. § (1j) bekezdését a 195/2023. (V. 22.) Korm. rendelet 6. §-a iktatta be.
+[^618]: A 87. § (1k) bekezdését a 484/2025. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

@@ -1,6 +1,6 @@
-100/A. §[^695] (1)[^696] Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó, a támogatási szerződésnek megfelelő módosítására a 100. § (1) és (3) bekezdését nem kell alkalmazni. A kedvezményezett a szerződésmódosításról 15 napon belül tájékoztatja az irányító hatóságot az alátámasztó dokumentumok megküldésével.
+100/A. §[^696] (1)[^697] Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó, a támogatási szerződésnek megfelelő módosítására a 100. § (1) és (3) bekezdését nem kell alkalmazni. A kedvezményezett a szerződésmódosításról 15 napon belül tájékoztatja az irányító hatóságot az alátámasztó dokumentumok megküldésével.
 
 (2) Az (1) bekezdés szerinti szerződésmódosítás esetén a szerződésmódosítással érintett támogatási összeg – a 100. § (5) bekezdéstől eltérően – folyósítható.
 
-[^695]: A 100/A. §-t a 387/2017. (XII. 12.) Korm. rendelet 5. §-a iktatta be.
-[^696]: A 100/A. § (1) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^696]: A 100/A. §-t a 387/2017. (XII. 12.) Korm. rendelet 5. §-a iktatta be.
+[^697]: A 100/A. § (1) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
