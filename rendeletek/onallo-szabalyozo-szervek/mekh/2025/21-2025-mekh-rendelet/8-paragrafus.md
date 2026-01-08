@@ -1,5 +1,3 @@
-8. § Hatályát veszti az R.
+8. §[^9]
 
-a) 1. § 3. pontjában az „a természetes vagy jogi személy” szövegrész,
-
-b) 16. § (1) bekezdésében az „a záródokumentum benyújtásakor, illetve”, valamint a „záródokumentumban vagy” szövegrész.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

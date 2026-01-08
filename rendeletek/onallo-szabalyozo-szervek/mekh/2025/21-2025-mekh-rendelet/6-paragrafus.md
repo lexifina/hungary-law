@@ -1,3 +1,3 @@
-6. § Az R. 16. §-a a következő (3) bekezdéssel egészül ki:
+6. §[^7]
 
-„(3) Ha az engedélyezési eljárás során már benyújtott dokumentum tartalmában nem történt változás, az (1) bekezdés szerinti kérelemben az innovátor annak változatlanságáról nyilatkozik.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § Az R. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) Az innovációs teljesítmény ESZT keretein belüli működtetésének felhagyására vonatkozó kérelemnek tartalmaznia kell a felhagyás indokát, valamint a kilépési tervben meghatározott intézkedések végrehajtásának igazolását.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

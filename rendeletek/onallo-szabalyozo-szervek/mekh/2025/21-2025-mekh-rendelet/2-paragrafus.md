@@ -1,3 +1,3 @@
-2. § Az R. 5. § 16. pontja helyébe a következő rendelkezés lép és a § a következő 17–18. ponttal egészül ki:
+2. §[^3]
 
-(A kérelemnek tartalmaznia kell)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
