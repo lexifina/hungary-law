@@ -1,0 +1,1 @@
+26. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet 1. mellékletében foglalt táblázat D:7 mezőjében az „ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság,” szövegrész.

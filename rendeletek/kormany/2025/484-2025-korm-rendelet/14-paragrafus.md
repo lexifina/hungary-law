@@ -1,0 +1,11 @@
+## „c) záró kifizetési kérelem esetén annak beérkezésétől számított hatvan napon belül”
+
+## (fizeti ki a támogatást.)
+
+14. § A 256/2021. (V. 18.) Korm. rendelet a következő 346/A. §-sal egészül ki:
+
+„346/A. § Ha az irányító hatóság a 318. § (1) bekezdés c) pontja szerinti határidőt elmulasztja, a fenntartási időszakba a 318. § (1) bekezdés c) pontja szerinti határidő utolsó napja és a projektmegvalósítás irányító hatóság általi befejezése közötti időtartamot bele kell számítani, feltéve, hogy
+
+a) az utolsó, a kedvezményezett részére kifizetéssel járó kifizetési kérelem elbírálása már megtörtént, és
+
+b) a kedvezményezett erre az időszakra a 83. alcím szerinti kötelezettségét teljesíti.”
