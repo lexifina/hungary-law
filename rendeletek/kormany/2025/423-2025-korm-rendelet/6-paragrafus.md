@@ -1,1 +1,3 @@
-6. § A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 2. § a) pontjában az „a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.)” szövegrész helyébe az „a Kertv.” szöveg lép.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
