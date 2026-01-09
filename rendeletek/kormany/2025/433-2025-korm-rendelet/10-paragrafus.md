@@ -1,5 +1,5 @@
-## 7.[^8]
+## 7.[^10]
 
 10. §
 
-[^8]: A 7. alcím a 12. § (3) bekezdése alapján 2026. január 23-án lép hatályba.
+[^10]: A 7. alcím a 12. § (3) bekezdése alapján 2026. január 23-án lép hatályba.
