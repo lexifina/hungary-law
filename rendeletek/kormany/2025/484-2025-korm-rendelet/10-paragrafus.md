@@ -1,3 +1,3 @@
-10. § A 256/2021. (V. 18.) Korm. rendelet 256. §-a a következő (3) bekezdéssel egészül ki:
+10. §[^11]
 
-„(3) Az irányító hatóság a (2) bekezdés szerinti szankció alkalmazásától a felhívásban eltekinthet.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+5. §[^6]
 
-a) 256.2. pontja,
-
-b) 318.3. pontja.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

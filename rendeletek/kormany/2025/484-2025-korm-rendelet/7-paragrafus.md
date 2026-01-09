@@ -1,3 +1,3 @@
-7. § A 256/2021. (V. 18.) Korm. rendelet 168. §-a a következő (1a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(1a) Az (1) bekezdést kell alkalmazni a közfeladatot ellátó civil szervezet esetén is, ha a civil szervezet által ellátott közfeladattal összefüggő projekt megvalósítása során merült fel a költségnövekmény.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

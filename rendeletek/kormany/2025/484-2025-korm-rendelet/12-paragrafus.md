@@ -1,3 +1,3 @@
-12. § A 256/2021. (V. 18.) Korm. rendelet 297. §-a a következő (5) bekezdéssel egészül ki:
+12. §[^13]
 
-„(5) A (4) bekezdéstől eltérően az irányító hatóság egy alkalommal hívhatja fel a kedvezményezettet a záró beszámoló ismételt benyújtására.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

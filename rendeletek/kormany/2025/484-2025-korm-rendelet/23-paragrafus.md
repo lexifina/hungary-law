@@ -1,5 +1,5 @@
 ## 3. A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet módosítása
 
-23. § A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet [a továbbiakban: 373/2022. (IX. 30.) Korm. rendelet] 140. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+23. §[^24]
 
-(A szokásos piaci ár meghatározható különösen)
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-25. § A 373/2022. (IX. 30.) Korm. rendelet 140. § (2a) bekezdésében az „online árajánlatával” szövegrész helyébe az „indikatív vagy online ajánlatával” szöveg lép.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

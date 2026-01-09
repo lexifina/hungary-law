@@ -1,3 +1,3 @@
-18. § A 256/2021. (V. 18.) Korm. rendelet 111. alcíme a következő 444/A. §-sal egészül ki:
+18. §[^19]
 
-„444/A. § A helyszíni ellenőr a jogviszonya létesítésével egyidejűleg vagy e tevékenysége megkezdését megelőzően titoktartási nyilatkozatot tesz.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

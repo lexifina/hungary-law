@@ -1,3 +1,3 @@
-15. § A 256/2021. (V. 18.) Korm. rendelet 421. § g) pontja helyébe a következő rendelkezés lép, és a § a következő h) ponttal egészül ki:
+15. §[^16]
 
-(Nem kell kamatot fizetni)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
