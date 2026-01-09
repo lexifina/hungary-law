@@ -4,8 +4,6 @@
 
 ## [3] A Kormány a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet [a továbbiakban: 146/2014. (V. 5.) Korm. rendelet] 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(1) Ha a felvonó vagy a mozgólépcső létesítéséhez, áthelyezéséhez, átalakításához, használatbavételéhez vagy bontásához építésügyi hatósági engedélyhez kötött építési, bontási tevékenység végzése is szükséges, – az (5) bekezdésben foglalt kivétellel – a létesítést, az áthelyezést, az átalakítást, a használatbavételt, a bontást érintő engedélyt és az építésügyi hatósági engedélyt együttes kérelemben az általános vagy a sajátos építésügyi hatóságtól kell kérni. Az építésügyi hatósági engedélyezési eljárásban műszaki biztonsági szakkérdésként vizsgálni kell a felvonó, mozgólépcső vagy mozgójárda létesítésével, áthelyezésével, átalakításával, használatbavételével vagy bontásával összefüggésben az e rendeletben meghatározott műszaki biztonsági követelményeknek való megfelelést.
-
-(2) Ha a berendezés létesítése építési engedélyhez kötött építési tevékenységgel nem jár együtt, – az (5) bekezdésben foglalt kivétellel – a létesítést, a használatbavételt, a veszélytelenítés utáni ismételt üzemeltetést, az áthelyezést, a berendezés e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó átalakítását – ideértve az új épület, épületrész kivitelezése közben a berendezés műszaki adatainak megváltoztatását – a Hatóság engedélyezi műszaki biztonsági hatósági eljárásban. Az üzemeltetőnek a kérelemhez – annak tárgyától függően – a 2. melléklet I. vagy II. Fejezetében meghatározott dokumentációt kell csatolnia.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

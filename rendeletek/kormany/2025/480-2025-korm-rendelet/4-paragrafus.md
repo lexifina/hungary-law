@@ -1,1 +1,3 @@
-4. § A 146/2014. (V. 5.) Korm. rendelet 13. § (9) bekezdésében a „naptári évenként legalább 16 óra” szövegrész helyébe az „ötévenként legalább 24 óra” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
