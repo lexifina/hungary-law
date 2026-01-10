@@ -44,6 +44,8 @@
 
 21. a hatósági ellenőrzés részletes szabályait.
 
+22. a közérdekű kivágás elrendelésével és elvégzésével kapcsolatos részletes végrehajtási szabályokat.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 1. a szőlő termőhelyi katasztert vezető szervet,
