@@ -26,7 +26,7 @@
 
 13.
 
-14.
+14. 24. § (1) bekezdés g) pontjában a „8/B. § (2) bekezdésében” szövegrész helyébe a „10. § (2b) bekezdésében és 14. § (1b) bekezdésében” szöveg,
 
 15.
 
