@@ -38,7 +38,7 @@ eb) a határozatban megállapított határidő eltelte után teszi termelésre a
 
 f) a termőföldet engedély nélkül hasznosítja más célra;
 
-g) a 8/B. § (2) bekezdésében meghatározott bejelentési kötelezettségét elmulasztja.
+g) a 10. § (2b) bekezdésében és 14. § (1b) bekezdésében meghatározott bejelentési kötelezettségét elmulasztja.
 
 h) az ingatlanügyi hatóság felhívására a 14. § (3a) bekezdésében meghatározott nyilatkozatot határidőben nem nyújtja be.
 
