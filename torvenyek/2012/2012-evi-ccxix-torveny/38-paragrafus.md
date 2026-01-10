@@ -25,3 +25,5 @@ i) kiállításokat, borversenyeket, konferenciákat szervez.
 (3) A Hegyközségek Nemzeti Tanácsa jogszabályban foglalt feladatai ellátása érdekében informatikai rendszert működtet, melynek során jogosult a hegyközségi tagok és az adatszolgáltatásra kötelezettek személyes adatainak kezelésére. Az adatokhoz a hegybírók, a főtitkár, valamint a közigazgatási hatósági ügyben eljáró tisztségviselő számára a hozzáférést biztosítani kell.
 
 (4) A Hegyközségek Nemzeti Tanácsa az általa kezelt adatokból jogszabályban meghatározott tartalommal és módon köteles adatot szolgáltatni – ideértve a hegyközségi tagok és az adatszolgáltatásra kötelezettek személyes adatait is – a borászati hatóságnak.
+
+(5) A Hegyközségek Nemzeti Tanácsa alapot hoz létre a Btv. 5. §-ában meghatározott szőlőültetvények kivágásának, valamint a 40. § (2) bekezdés l) pontjában meghatározott feladat elvégzésének finanszírozására. Ezen alap bevételeiről és kiadásairól a Hegyközségek Nemzeti Tanácsának főtitkára éves beszámolót készít, amelyet a tárgyévet követő második hónap 15. napjáig megküld a miniszter részére.

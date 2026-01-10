@@ -6,7 +6,7 @@ a) az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelm
 
 b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegyközségi hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
 
-c) a földterület szőlő termőhelyi kataszterből történő törléséhez való hegyközségi hozzájárulás megadására vonatkozó szabályokat, ha a hegyközség el kíván térni a Btv. 2. § (4a) bekezdésében meghatározott feltételektől.
+c) a földterület szőlő termőhelyi kataszterből történő törléséhez való hegyközségi hozzájárulás megadására vonatkozó szabályokat, ha a hegyközség el kíván térni a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.) 2. § (4a) bekezdésében meghatározott feltételektől.
 
 (2a) A rendtartás (2) bekezdés szerinti előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 

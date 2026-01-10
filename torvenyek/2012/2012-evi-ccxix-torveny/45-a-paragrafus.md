@@ -16,7 +16,7 @@ ae) adóazonosító jelét vagy adószámát,
 
 af) ügyfél-azonosító számát;
 
-ag) az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti információs rendszer (a továbbiakban: FELIR) azonosító számát;
+ag) az Éltv. szerinti élelmiszerlánc-felügyeleti információs rendszer (a továbbiakban: FELIR) azonosító számát;
 
 b) jogi személy tagja, valamint a jogszabály alapján adatszolgáltatásra kötelezett jogi személyek
 
