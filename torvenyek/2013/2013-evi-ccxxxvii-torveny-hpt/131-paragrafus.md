@@ -20,6 +20,12 @@ d) szavazati jogának gyakorlását a Felügyelet – a bejelentést megelőző 
 
 e) természetes személy esetén a 137. § (4) bekezdésében foglalt kizáró ok áll fenn.
 
+(2a) Az (1) bekezdés d) pontjának alkalmazásakor
+
+a) a Pmt.-ben meghatározott felügyeletet ellátó szervként a Felügyelet harminc munkanapon belül értékeli a szándékolt részesedésszerzést, és
+
+b) a Felügyelet abban az esetben is elutasítja az engedély iránti kérelmet, ha a részesedést szerezni kívánó személy olyan harmadik országban található, amely a Pmt. alkalmazásában stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország vagy olyan harmadik országban, amely uniós korlátozó intézkedések hatálya alatt áll, és a Felügyelet megítélése szerint ez befolyásolja a részesedést szerezni kívánó személy azon képességét, hogy rendelkezzen a pénzmosás és terrorizmusfinanszírozás elleni rendszer követelményeinek való megfeleléshez szükséges gyakorlatokkal és eljárásokkal.
+
 (3) Ha a befolyásoló részesedés engedélyezésének megtagadására okot adó körülmény nem áll fenn, de a természetes személy mint kérelmező ellen a 137. § (6) bekezdésében meghatározott büntetőeljárás van folyamatban, a Felügyelet az engedélyt a tag szavazati jogának a büntetőeljárás befejezéséig történő felfüggesztésével adja meg.
 
 (4) Az (1)–(2) bekezdésben meghatározott tény vagy körülmény ellenőrzése érdekében a Felügyelet bármelyik érdekelt féltől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.

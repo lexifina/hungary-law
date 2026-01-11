@@ -29,3 +29,5 @@ c) az 575/2013/EU rendelet 19. cikke alapján mentesített hitelintézettől, p�
 (11) Az összevont alapú felügyelet alá tartozó hitelintézet és a pénzügyi holding társaság haladéktalanul bejelenti az 575/2013/EU rendeletben, valamint a (7) bekezdésben meghatározott szoros kapcsolat létrejöttét, módosulását vagy megszűnését.
 
 (12) A (11) bekezdés szerinti bejelentési kötelezettségnek a magyarországi bejegyzésű hitelintézet külföldi pénzügyi holding társaság anyavállalata az összevont alapú felügyelet alá tartozó hitelintézetén keresztül is eleget tehet.
+
+(13) A Felügyelet az összevont alapú felügyelésben érintett felügyeleti hatóságokkal együttesen dönthet úgy, hogy az összevont alapú felügyeletért felelős illetékes hatóság az olyan hitelintézet és befektetési vállalkozás felügyeleti hatósága legyen, amelyre az összevont alapú felügyelet kiterjed és az adott tagállambeli relatív súlya magas.

@@ -8,11 +8,11 @@ b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértel
 
 c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 
-d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
+d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve az ESG-kockázatokat is,
 
-e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
+e) a jogszabályoknak megfelelő belső kontroll mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
 
-f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-okban meghatározott elveknek megfelelő, nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
+f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-ban meghatározott elveknek megfelelő, valamint a hitelintézetek ESG-kockázatokra vonatkozó kockázatvállalási hajlandóságát is figyelembe vevő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 
 g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
@@ -25,5 +25,7 @@ a) a különböző hitelezési kockázatokat hordozó portfóliókat és kitetts
 b) a hitelportfóliót az ügyfélköre és az átfogó stratégiája figyelembe vételével megosztja (diverzifikálja), valamint
 
 c) az értékpapírok vagy értékpapírosítási pozíciók hitelkockázatának, és a portfoliószintű hitelkockázatnak a mérésére hatékony és megbízható belső módszerekkel rendelkezik azzal, hogy a belső módszer esetében nem alkalmazhatja kizárólagosan a külső hitelminősítő által kiadott hitelminősítést.
+
+(3a) A hitelintézet előzetes értékelést végez az általa vállalandó, kriptoeszközökkel szembeni kitettségekről, valamint a partnerkockázat és a piaci kockázat kezelésére vonatkozó megfelelő folyamatok és eljárások megfelelőségéről. A hitelintézet az előzetes értékeléseit megküldi a Felügyelet részére.
 
 (4) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.

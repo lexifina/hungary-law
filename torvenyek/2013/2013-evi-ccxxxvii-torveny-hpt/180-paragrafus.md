@@ -1,1 +1,3 @@
-### 180. §
+180. § (1) A Felügyelet felülvizsgálja, értékeli és figyelemmel kíséri a hitelintézet ESG-stratégiákkal és -kockázatkezeléssel kapcsolatos gyakorlatának alakulását, ideértve a 109. § (2a) bekezdésével összhangban elkészítendő azon terveket, amelyek a rövid, közép- és hosszú távon felmerülő ESG-kockázatok felügyeletét és kezelését célzó, számszerűsíthető célértékeket és folyamatokat is magukban foglalnak. Az értékelés figyelembe veszi a hitelintézet fenntarthatósággal kapcsolatos termékkínálatát, az átállásfinanszírozási politikáikat, a kapcsolódó hitelnyújtási politikákat, valamint az ESG-célértékeket és -korlátokat.
+
+(2) Az értékelés tekintetében a Felügyelet adott esetben együttműködhet az éghajlatváltozással kapcsolatos fellépésért és a környezetvédelmi felügyeletért felelős hatóságokkal, szervekkel.

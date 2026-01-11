@@ -20,10 +20,10 @@ g) a hitelintézet ügyvezetőjének kiválasztására és kinevezésére vonatk
 
 h) a vezető testületi döntések befolyásolástól való mentességének rendszeres felülvizsgálása.
 
-(4) A jelölések során törekedni kell arra, hogy az irányítási jogkörrel rendelkező vezető testületben minél szélesebb szakismerettel rendelkező tagok vegyenek részt, és ennek előmozdítására a hitelintézet belső politikát dolgoz ki.
+(4) A jelölések során törekedni kell arra, hogy a vezető testületben minél több szaktudás és képesség egyesüljön, valamint a vezető testületben arányosan előmozdítsák a sokszínűséget és a nemek egyensúlyát és ezért a vezető testület vonatkozásában a hitelintézet sokszínűséget előmozdító belső politikát dolgoz ki.
 
 (5) A hitelintézet közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
 
-(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a hitelintézetek gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
+(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a hitelintézetek gyakorlatáról, amelyeket megküld az EBH számára.
 
 (7) A jelölő bizottság számára a hitelintézet biztosítja a (3) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.

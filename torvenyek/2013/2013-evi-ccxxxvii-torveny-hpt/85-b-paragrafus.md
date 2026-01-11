@@ -6,6 +6,8 @@
 
 (3) A tőke ajánlást hitelintézet-specifikusan kell meghatározni. Az ajánlásban meghatározott tőkemennyiség csak akkor fedezheti a felügyeleti felülvizsgálat és értékelés alapján előírt többlettőke-követelmény által már fedezett kockázatot, ha a kockázat olyan elemére vonatkozik, amelyet az előírt többlettőke-követelmény összege nem fedez.
 
+(3a) Ha a hitelintézetre kötelezővé válik a tőke-küszöbérték alkalmazása, akkor a Felügyelet felülvizsgálhatja a hitelintézetnek adott tőke ajánlását annak biztosítása érdekében, hogy a kalibrációja továbbra is megfelelő legyen.
+
 (4) A túlzott tőkeáttételi kockázattól eltérő kockázat kezelése céljából megállapított tőke ajánlásnak való megfelelés érdekében felhasznált szavatoló tőke nem használható fel
 
 a) az 575/2013/EU rendelet 92. cikk (1) bekezdés a), b) és c) pontjában meghatározott tőke követelménynek,
@@ -25,3 +27,5 @@ b) a felügyeleti felülvizsgálat és értékelés alapján megállapított, a 
 c) az 575/2013/EU rendelet 92. cikk (1a) bekezdése szerinti tőkeáttételi mutató puffer-követelménynek
 
 való megfelelés céljára.
+
+(6) Ha a hitelintézet teljesíti az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Része, az (EU) 2017/2402 rendelet 2. fejezete, a felügyeleti felülvizsgálat és értékelés alapján megállapítandó többlettőke-követelményre vonatkozó rendelkezéseket, valamint adott esetben a kombinált pufferkövetelményt vagy az 575/2013/EU rendelet 92. cikk (1a) bekezdése értelmében előírt szavatoló tőke összeget meghaladó követelményt, akkor nem kötelező alkalmazni a 94. és a 96/A. §-ban meghatározott korlátozásokat.

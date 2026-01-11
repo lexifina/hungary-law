@@ -20,7 +20,11 @@
 
 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 
-7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
+7. belső módszerek: az 575/2013/EU rendelet 143. cikk (1) bekezdésében említett belső minősítésen alapuló módszer, a 221. cikkében említett belső modellen alapuló módszer, a 283. cikkében említett belső modell módszer, a 325az. cikkében említett alternatív belső modellen alapuló módszer, valamint a 265. cikk (2) bekezdésében említett belső értékelési módszer;
+
+7a. belsőkontroll-funkciók: kockázatkezelési, megfelelőség-ellenőrzési és belső ellenőrzési funkciók;
+
+7b. belsőkontroll-funkciók vezetői: a hitelintézet belsőkontroll-funkcióknak napi szintű tényleges irányításáért felelős, a hierarchia legmagasabb szintjén álló személyek;
 
 8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;
 
@@ -36,7 +40,9 @@
 
 13. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
 
-14. egyéb rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek felszámolása vagy nem prudens működése több EGT-állam tekintetében vagy EGT-állami szinten rendszerkockázathoz vezethet;
+13a. ESG-kockázat: az 575/2013/EU rendeletben környezeti, társadalmi és irányítási kockázatként meghatározott fogalom;
+
+14. egyéb rendszerszinten jelentős intézmény: olyan rendszerszinten jelentős hitelintézet, illetve EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság, EU-szintű vegyes pénzügyi holding társaság, tagállami anyavállalat, tagállami pénzügyi holding társaság, tagállami vegyes pénzügyi holding társaság által vezetett csoport, amelynek felszámolása vagy nem prudens működése több EGT-állam tekintetében vagy EGT-állami szinten rendszerkockázathoz vezethet;
 
 15. egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer követelmény: a Magyarországon vagy más EGT-államban jelentős kockázatot hordozó hitelintézet csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény;
 
@@ -68,9 +74,13 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 23. értékpapírosítási pozíció: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+23a. felső vezetés: vezetői feladatot ellátó természetes személyek, akik közvetlenül elszámoltathatók a vezető testület előtt, de annak nem tagjai, és amelynek irányítása alatt felelősek a hitelintézet mindennapi vezetéséért;
+
 24. felügyeleti hatóság: a külföldi pénzügyi intézmény tevékenységi felügyeletét ellátó külföldi szervezet;
 
 25. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi;
+
+25a. figyelembe vehető tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 26. fizetési művelet, fizetési számla és pénzforgalmi szolgáltató: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési művelet, fizetési számla és pénzforgalmi szolgáltató;
 
@@ -88,7 +98,11 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 31. főiroda: az a hely, ahol a pénzügyi intézmény, illetve a közvetítő főtevékenységét végzi, és ahol a központi döntéshozatal történik;
 
-32. globálisan rendszerszinten jelentős hitelintézet: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+32. globálisan rendszerszinten jelentős intézmény:
+
+a) az EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat által vezetett csoport, vagy
+
+b) olyan hitelintézet, amely nem leányvállalata valamely EU-szintű anyavállalatnak, EU-szintű pénzügyi holding társaságnak vagy EU-szintű vegyes pénzügyi holding társaság anyavállalatnak;
 
 33. globálisan rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelmény: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő intézmények csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény;
 
@@ -142,7 +156,7 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 45. intézményspecifikus anticiklikus tőkepuffer-követelmény: a hitelintézeti tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény;
 
-46. irányítási jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult;
+46. irányítási jogkörrel rendelkező vezető testület: az intézmény irányításával kapcsolatos feladatkörében eljáró, az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult, és amely az üzleti tevékenységet ténylegesen irányító személyeket foglalja magában;
 
 47. javadalmazás: a hitelintézet által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás;
 
@@ -162,6 +176,8 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 53. kereskedési könyv: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
 
+53a. kényszerítő bírság: időszakos pénzbeli kényszerítő intézkedés, amelynek célja az e törvényben, az 575/2013/EU rendeletben, vagy a Felügyelet által hozott határozatban foglaltak megsértésének megszüntetése, valamint a természetes vagy jogi személyek arra való kötelezése, hogy újra megfeleljenek a megsértett rendelkezéseknek vagy határozatoknak;
+
 54. készpénzátutalás: fizetési számla megnyitása nélkül a fizető fél által befizetett pénz utalása a kedvezményezett vagy a kedvezményezett megbízásából eljáró pénzforgalmi szolgáltató részére abból a célból, hogy a pénz a kedvezményezett részére kifizetésre kerüljön;
 
 55. készpénz-helyettesítő fizetési eszköz:
@@ -180,7 +196,11 @@ b) a fizető félnek az 55. pont c) alpontja szerinti készpénz-helyettesítő 
 
 57. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a készpénz-helyettesítő fizetési eszköz kibocsátására, kezelésére és használatára vonatkozó jogszabályok alapján nyújtott, vagy az ügyféllel, valamint az eladóval vagy a szolgáltatóval kötött szerződésben a kibocsátó által elvállalt szolgáltatások összessége, ide nem értve a készpénz-helyettesítő fizetési eszközzel kapcsolatos szolgáltatásnak a készpénz-helyettesítő fizetési eszköz használatával összefüggő elszámolás forgalom lebonyolítását;
 
+57a. kiemelt funkciót betöltő személyek: azon személyek, akik jelentős befolyással rendelkeznek valamely hitelintézet irányítása felett, de nem tagjai a vezető testületnek, ideértve a belsőkontroll-funkciók vezetőit és a pénzügyi vezetőt is, amennyiben e vezetők nem tagjai a vezető testületnek;
+
 58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel köt szerződést;
+
+58a. klímasemlegesség: a klímasemlegesség elérését célzó keret létrehozásáról és a 401/2009/EK rendelet, valamint az (EU) 2018/1999 rendelet módosításáról (európai klímarendelet) szóló, 2021. június 30-i (EU) 2021/1119 európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdésében meghatározott azon általános célkitűzés, amely a klímasemlegesség 2050-ig való elérésére irányul;
 
 59. kockázat, vagy kockázatvállalás:
 
@@ -224,6 +244,8 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 68a. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
 
+68b. kriptoeszköz: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott olyan kriptoeszköz, amely nem központi banki digitális fizetőeszköz;
+
 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
 
 70. külföldi hitelintézet: az a hitelintézet, amelynek székhelye Magyarországon kívül van;
@@ -254,13 +276,15 @@ b) amelynek igazolt célja az a) pontban meghatározott célokra nyújtott kölc
 
 81. mérlegfőösszeg: a számviteli jogszabályok által ilyenként meghatározott összeg;
 
-82. modellkockázat: a belső modellek téves kidolgozása, megvalósítása vagy használata miatti téves eredménynek a döntés során való felhasználásából fakadó potenciális veszteség;
+82. modellkockázat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 83. működési kockázat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 83a. nemek szempontjából semleges javadalmazási politika: a férfiak és a nők egyenlő vagy egyenlő értékű munkáért járó egyenlő díjazásának elvén alapuló javadalmazási politika;
 
 83b. nem EU-beli globálisan rendszerszinten jelentős intézmény: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
+83c. nagy méretű intézmény: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 84. nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszer feltételei alapján nyújtott felhalmozott juttatást;
 
@@ -314,6 +338,8 @@ e) jelzáloghitel közvetítői tevékenység: az a), b) vagy d) pontban foglalt
 
 91. pénzügyi ügynöki tevékenység bankközi piacon: bankközi piaci résztvevők közötti forint-, illetve devizahitel- és betétügylet, deviza-adásvétel közvetítése annak érdekében, hogy a hitelintézetek, továbbá más bankközi piaci résztvevők az erre irányuló jogügyleteket egymással közvetlenül megkössék;
 
+91a. pénzügyi vezető: a hitelintézet pénzügyi forrásainak kezeléséért, pénzügyi tervezéséért és pénzügyi jelentéstételért általánosan felelős személy;
+
 92. pénzváltási tevékenység: külföldi fizetőeszközök adásvétele a törvényes fizetési eszköz ellenében, valamint külföldi fizetési eszközök adásvétele külföldi fizetési eszközök ellenében. Nem minősül pénzváltási tevékenységnek a pénzforgalmi szolgáltatáshoz kapcsolódó pénznemek pénzforgalmi szolgáltató által történő átváltása, a külföldi pénznemre szóló, forgalomban lévő vagy forgalomban lévőre még átcserélhető pénzérmék és bankjegyek numizmatikai célú forgalmazása, valamint belkereskedelemben az áruval, vagy szolgáltatással kapcsolatos ügyletekre vonatkozó fizetések teljesítése;
 
 93. referencia-kamatláb: bármilyen alkalmazandó kamat számításának alapjául szolgáló, a nyilvánosság számára hozzáférhető mindenkori kamatláb, amelynek mértékére a hitelezőnek nincs ráhatása;
@@ -349,6 +375,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 102. széfszolgáltatás: az ügyféllel kötött megállapodás alapján, az ügyfél számára – állandóan őrzött – helyiségben széf rendelkezésre bocsátása, melybe értékeit az ügyfél maga helyezi el és veszi ki;
 
 103. személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság;
+
+103a. szolgáltatások ügyfelek részére történő ajánlása: a pénzügyi intézménnyel szerződéses kapcsolatban álló vállalkozás pénzügyi, befektetési és biztosítási szolgáltatásnak nem minősülő szolgáltatásnak a pénzügyi intézmény ügyfelei részére történő – az ügyfelek érdekeinek elsődlegességét figyelembe vevő és a pénzügyi intézmény hosszú távú prudens működését nem befolyásoló – ajánlása, amely során a pénzügyi intézmény az ügyfelek adatait hozzájárulásuk esetén a vállalkozás részére átadja, de a vállalkozást az ügyfelek felé nem képviseli, az ügyfelektől a vállalkozást megillető pénzt nem vesz át;
 
 104. szoros kapcsolat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 

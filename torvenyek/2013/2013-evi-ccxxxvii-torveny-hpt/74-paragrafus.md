@@ -8,7 +8,7 @@ ba) banki, befektetési termékértékesítői szakképesítéssel,
 
 bb) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
 
-bc) tőzsdei szakvizsgával,
+bc) tőzsdei szakvizsgával (kivéve jelzáloghitel közvetítés esetén),
 
 bd) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
 

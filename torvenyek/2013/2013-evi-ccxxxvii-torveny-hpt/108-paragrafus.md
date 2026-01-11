@@ -1,4 +1,4 @@
-108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére és az összeférhetetlenség megelőzésére vonatkozó szabályzatokat, valamint a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és politikákat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
+108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja és legalább kétévente felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére és az összeférhetetlenség megelőzésére vonatkozó szabályzatokat, valamint azon kockázatok vállalására, kezelésére, nyomon követésére és mérséklésére szolgáló stratégiákat és politikát, amely kockázatoknak a hitelintézet ki van vagy ki lehet téve, beleértve a hitelintézet működési keretét jelentő makrogazdasági környezetből – a gazdasági cikluson belüli aktuális szakaszból – fakadó kockázatokat, továbbá a környezeti, társadalmi és irányítási tényezők (a továbbiakban: ESG-tényezők) aktuális, valamint rövid, közép- és hosszú távú hatásaiból fakadó kockázatokat is.
 
 (2) Az irányítási jogkörrel rendelkező vezető testület felelős az (1) bekezdésben meghatározott stratégiák és szabályzatok végrehajtásáért.
 
@@ -14,13 +14,13 @@ b) az adatszolgáltatásért, a nyilvánosságra hozatalért és a kommunikáci�
 
 a) azon kockázat kezelésére, amelynél az általa alkalmazott, elismert hitelkockázat-mérséklési technikák a vártnál kevésbé hatékonynak bizonyulnak,
 
-b) az ügyféllel, a kapcsolatban álló ügyfelek csoportjával, a partnerrel (ideértve a központi szerződő felet is), az ugyanazon gazdasági ágazatbeli, régióbeli vagy ugyanazon tevékenységet folytató partnerekkel, ügyfelekkel szembeni kitettségekből, a hitelkockázat-mérséklés alkalmazásából származó kockázati koncentráció kezelésére,
+b) az ügyféllel, a kapcsolatban álló ügyfelek csoportjával, a partnerrel (ideértve a központi szerződő felet is), az ugyanazon gazdasági ágazatbeli, régióbeli vagy ugyanazon tevékenységet folytató partnerekkel, ügyfelekkel szembeni kitettségekből, a hitelkockázat-mérséklés alkalmazásából és különösen a közvetett nagymértékű kockázatvállalásból – például egyetlen biztosítéknyújtóból – származó kockázati koncentráció kezelésére azzal, hogy az azonosítható kibocsátó nélküli kriptoeszközöknél a koncentrációs kockázatot a hasonló jellemzőkkel bíró kriptoeszközökkel szembeni kitettség formájában veszi figyelembe,
 
 c) a piaci kockázatok valamennyi lényeges forrásának és hatásának mérésére és kezelésére, és a rövid pozíció hosszú pozíciót megelőző esedékességéből fakadó likviditási hiány kockázatának kezelésére,
 
 d) a nem kereskedési tevékenységet érintő, esetleges kamatváltozásokból származó kockázatok értékelésére, mérésére és kezelésére,
 
-e) működési kockázatok – ideértve a modellkockázatot és a kiszervezésből eredő kockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
+e) működési kockázatok – ideértve a kiszervezésből, valamint a kriptoeszközöknek vagy kriptoeszköz szolgáltatóknak való közvetlen vagy közvetett kitettségekből eredő kockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
 
 f) az egyes üzletágakhoz, devizanemekhez és a csoporthoz tartozó jogi személyekhez igazítva a likviditási kockázata megfelelő – akár egy napon belüli – időtávokon történő azonosítására, mérésére, kezelésére és nyomon követésére, ideértve a likviditási költség-, nyereség- és kockázat-allokációs eljárásokat is,
 

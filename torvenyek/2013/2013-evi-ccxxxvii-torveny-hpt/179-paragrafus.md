@@ -22,7 +22,7 @@ a) visszavonja a belső módszer alkalmazására vonatkozó engedélyt,
 
 b) korlátozza az engedélyt azokra a területekre, amelyeknél megfelel a követelményeknek vagy meghatározott határidőn belül újra megfelel a követelményeknek.
 
-(7) Ha a piaci kockázat esetén a hitelintézet által alkalmazott belső modell alkalmazásakor a túllépések száma jelzi, hogy a belső modell nem vagy már nem kellőképpen pontos, akkor a Felügyelet
+(7) Ha a piaci kockázat esetén a hitelintézet által alkalmazott belső modell alkalmazásakor az 575/2013/EU rendelet 366. cikkében említett több túllépés jelzi, hogy a belső modell nem vagy már nem kellően pontos, akkor a Felügyelet
 
 a) visszavonja a belső modell alkalmazására vonatkozó engedélyt, vagy
 

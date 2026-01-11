@@ -1,6 +1,6 @@
 96/A. § (1) Ha a hitelintézet nem teljesíti a tőkeáttételi mutató pufferkövetelményt, akkor a hitelintézet korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
 
-(2) A tőkeáttételi mutató pufferköveteményt teljesítő hitelintézet az elsődleges alapvető tőkéhez kapcsolódóan nem hajthat végre olyan mértékű kifizetést, amelynek eredményeképpen az elsődleges alapvető tőkéje olyan alacsony szintre csökkenne, hogy nem teljesítené már a kombinált pufferkövetelmény mértékét.
+(2) A tőkeáttételi mutató pufferkövetelményt teljesítő hitelintézet az alapvető tőkéhez kapcsolódóan nem hajthat végre olyan mértékű kifizetést, amelynek eredményeképpen az alapvető tőkéje olyan alacsony szintre csökkenne, hogy nem teljesítené már a tőkeáttételi mutató pufferkövetelmény mértékét.
 
 (3) A hitelintézet akkor korlátozza a kifizetéseit, ha a kifizetés a hitelintézet
 
@@ -37,3 +37,5 @@ e) az 575/2013/EU rendelet 26. cikk (1) bekezdés b)–e) pontja szerinti tétel
 (8) A maximálisan kifizethető összeg meghatározásához a hitelintézet meghatározza az elsődleges alapvető tőkeként nem kimutatott évközi és évvégi nyereség összegét, amelyet csökkent az esetlegesen felosztott nyereséggel, illetve a (4) bekezdésben meghatározott intézkedésekből eredő kifizetésekkel, és kivonja belőle a nyereség visszatartása miatt fizetendő adót.
 
 (9) E fejezet vonatkozásában a hitelintézet akkor nem teljesíti a tőkeáttételi mutató pufferkövetelményt, ha nem rendelkezik megfelelő összegű és minőségű szavatoló tőkével ahhoz, hogy egyidejűleg eleget tegyen a tőkeáttételi mutató pufferkövetelménynek, az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pont és (1a) bekezdés szerinti követelménynek, valamint a 186. § szerinti túlzott tőkeáttétel kockázatától eltérő kockázatok kezelését célzó kiegészítő követelménynek.
+
+(10) A (2) és (3) bekezdés alkalmazásában a (4) bekezdés szerinti kifizetések minősülnek alapvető tőkéhez kapcsolódó kifizetésnek.

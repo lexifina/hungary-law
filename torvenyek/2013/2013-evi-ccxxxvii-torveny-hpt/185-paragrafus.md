@@ -28,6 +28,8 @@ g) kötelezheti a hitelintézetet az irányítási rendszerére, vállalatirány
 
 h) kötelezheti a hitelintézetet a jogszabályban meghatározott nyilvánosságrahozatali követelményen túlmutató nyilvánosságrahozatali előírások teljesítésére.
 
+i) a befolyásoló részesedéssel rendelkező tulajdonos számára előírja a megfelelő szavazati jog gyakorlásának felfüggesztését vagy a leadott szavazatok semmissé nyilvánítását, ha a tulajdonos a Felügyelet engedélye nélkül vagy a Felügyelet engedély megadásának megtagadása ellenére megszerezte a befolyásoló részesedést.
+
 (2) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan veszélyezteti – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
 a) előírhatja
@@ -35,6 +37,10 @@ a) előírhatja
 aa) a szavatoló tőke követelmények tekintetében egyedi értékvesztés képzési vagy céltartalék képzési eljárások alkalmazását, vagy egyes eszközök kezelésének módját,
 
 ab) a pénzügyi intézmény szolgáltatásaiban és rendszereiben rejlő kockázat csökkentését, ideértve a kiszervezett tevékenységhez kapcsolódó kockázatokat is;
+
+ac) az intézmény számára, hogy csökkentse az ESG-tényezőkből rövid, közép- és hosszú távon megvalósuló kockázatot, ideértve az alkalmazkodás folyamatából, a releváns uniós, tagállami és harmadik országbeli jogi és szabályozási célkitűzésekkel összefüggő átállási tendenciákból eredő kockázatokat, valamint az ESG kezelésére készített üzleti terv, stratégia és kockázatkezelés kiigazításából fakadó célok, intézkedések és fellépések miatt fennálló kockázatokat,
+
+ad) az intézmény számára, hogy stressz-tesztet vagy forgatókönyv-elemzést végezzen a kriptoeszközökkel szembeni kitettségekből és a kriptoeszköz-szolgáltatások nyújtásából eredő kockázatok értékelése céljából,
 
 b) kötelezheti a pénzügyi intézményt
 

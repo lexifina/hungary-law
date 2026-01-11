@@ -1,0 +1,1 @@
+100/C. § A 15/A. § hatálya alá tartozó hitelintézet, pénzügyi holding társaság és vegyes pénzügyi holding társaság írásban az elidegenítést megelőzően előzetesen az érintett részesedés nagyságát is feltüntetve bejelenti a Felügyeletnek, ha közvetlenül vagy közvetve a 100. § (2) bekezdése szerinti jelentős részesedést kíván elidegeníteni.

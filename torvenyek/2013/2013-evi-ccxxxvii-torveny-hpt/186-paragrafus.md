@@ -42,6 +42,8 @@ a) legalább háromnegyedének alapvető tőkével kell eleget tenni,
 
 b) a) pont szerinti alapvető tőkéjének legalább háromnegyedének elsődleges alapvető tőkéből kell állnia.
 
+(9a) A (9) bekezdés a) pontjától eltérően a túlzott tőkeáttételi kockázatoktól eltérő kockázatok kezelése céljából előírt többlettőke-követelmény egészének alapvető tőkével kell eleget tenni.
+
 (10) Ha a Felügyelet szükségesnek tartja, akkor az adott hitelintézet konkrét helyzetének figyelembevételével kötelezheti a hitelintézetet, hogy a többlettőke-követelményt a (9) bekezdésben meghatározott aránynál nagyobb arányban teljesítse alapvető tőkével vagy elsődleges alapvető tőkével.
 
 (11) A Felügyelet által a túlzott tőkeáttételi kockázattól eltérő kockázatok kezelése céljából előírt többlettőke-követelménynek való megfelelés céljára felhasznált szavatoló tőke nem használható fel a következőknek való megfelelés céljára:
@@ -59,6 +61,18 @@ a) az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontjában meghatározott s
 b) az 575/2013/EU rendelet 92. cikk (1a) bekezdése szerinti tőkeáttételi mutató puffer-követelmény, és
 
 c) a tőke ajánlás teljesítésére, amennyiben az ajánlás a túlzott tőkeáttételi kockázat kezelésére vonatkozik.
+
+(12a) Ha a hitelintézetre kötelezővé válik az 575/2013/EU rendelet 92. cikk (3) bekezdésében meghatározott tőke-küszöbérték alkalmazása, akkor
+
+a) a Felügyelet által a túlzott tőkeáttétel kockázatától eltérő kockázatok kezelésére előírt többlettőke összege nem növekedhet abból adódóan, hogy a hitelintézetre kötelezővé válik a tőke-küszöbérték alkalmazása,
+
+b) a Felügyelet haladéktalanul, de minden esetben legkésőbb a következő felügyeleti felülvizsgálat és értékelés végéig felülvizsgálja az előírt többlettőkét, és csökkenti azt minden olyan elemmel, amelyek által azokat a kockázatokat, amelyeket már teljes mértékben fedez a tőke-küszöbérték alkalmazása, kétszeresen vennének figyelembe és
+
+c) a b) pont szerinti felülvizsgálatot követően az a) pont nem alkalmazható.
+
+(12b) E törvény alkalmazásában a tőke-küszöbérték alkalmazását a hitelintézetre kötelezőnek tekinteni, ha a hitelintézetnek az 575/2013/EU rendelet 92. cikk (3) bekezdés első albekezdése szerint kiszámított teljes kockázati kitettség értéke meghaladja az 575/2013/EU rendelet 92. cikk (4) bekezdésének megfelelően kiszámított (a tőke-küszöbérték alkalmazása nélküli) teljes kockázati kitettség értékét.
+
+(12c) A (3) bekezdés alkalmazása céljából mindaddig, amíg a hitelintézetre nézve a tőke-küszöbérték alkalmazása kötelező, a Felügyelet nem írhat elő olyan többlettőke-követelményt, amely kétszeresen venné figyelembe azokat a kockázatokat, amelyeket már teljes mértékben fedez a kötelező tőke-küszöbérték alkalmazása.
 
 (13) A Felügyelet a többlettőke-követelmény előírására vonatkozó határozatában részletes indokolást ad, ismertetve legalább az e §-ban meghatározottak teljes körű értékelését. Az (1) bekezdés e) pontjának megállapítása esetén az indokolásban a Felügyelet nyilatkozik arról, hogy a tőke ajánlásban megállapítottak teljesítése a továbbiakban miért nem tekinthető elegendőnek.
 

@@ -16,7 +16,7 @@ cc) szakirányú felsőfokú végzettséggel és vállalkozásnál vagy a közig
 
 cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési vállalkozásnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
-(2) Az (1) bekezdés szerinti pályázathoz csatolni kell a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
+(2) Az (1) bekezdés szerinti kérelemhez a hitelintézet csatolja a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
 (3) Az (1) bekezdés c) pont ca)–cc) alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki
 

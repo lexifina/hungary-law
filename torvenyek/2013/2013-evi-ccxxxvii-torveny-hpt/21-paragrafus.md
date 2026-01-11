@@ -4,7 +4,7 @@
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
-(3) Független közvetítő, valamint jelzáloghitel közvetítői tevékenységet végző függő közvetítő – ide nem értve a hitelintézetet – csak olyan jogi személy, egyéni cég és egyéni vállalkozó lehet,
+(3) Független közvetítő, valamint jelzáloghitel közvetítői tevékenységet végző függő közvetítő – ide nem értve a hitelintézetet és a biztosítási tevékenységről szóló törvény szerinti biztosítót – csak olyan jogi személy, egyéni cég és egyéni vállalkozó lehet,
 
 a) akinek vezető állású személye – ideértve az egyéni vállalkozót is –
 

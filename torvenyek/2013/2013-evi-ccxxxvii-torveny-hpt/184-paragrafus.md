@@ -1,4 +1,4 @@
-184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő, pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
+184. § (1) A Felügyelet mérlegeli az intézkedés szükségességét, ha a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő, pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, felső vezetése, kiemelt funkciót betöltő személye vagy tulajdonosa, továbbá azon alkalmazottja, akinek szakmai tevékenysége lényeges hatást gyakorol az intézmény kockázati profiljára megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait, vagy tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen ha
 
 a) döntési, eljárási szabályzatai nem felelnek meg az előírásoknak, vagy a működés során ezeket nem tartja be,
 
@@ -26,6 +26,16 @@ l) a 31/A. §-t megsértve nem rendelkezik a külön jóváhagyással,
 
 m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 181. § vagy 186. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 
+n) a tulajdonos a Felügyelet engedélye nélkül vagy a Felügyelet engedély megadásának megtagadása ellenére hajtotta végre a 28/B. § szerinti egyesülést vagy szétválást,
+
+o) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti a 15/A. §-ban foglalt kötelezettséget,
+
+p) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat a 100. §-t megsértve elmulasztja a részesedésszerzés bejelentését,
+
+q) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat elmulasztja e törvény 100/C. §-ában meghatározott bejelentési kötelezettségét,
+
+r) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti e törvény 102/A. §-a szerinti kötelezettségét.
+
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
 a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
@@ -50,6 +60,18 @@ j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalma
 
 k) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
 
+l) ha a hitelintézet nem teljesíti
+
+la) az 575/2013/EU rendelet második részében meghatározott, a szavatoló tőkéhez kapcsolódóan a tőkeösszetételre, feltételekre, kiigazításokra és levonásokra vonatkozó követelményeket,
+
+lb) az 575/2013/EU rendelet negyedik részében meghatározott, az ügyfelekkel vagy egymással kapcsolatban álló ügyfelek csoportjával szembeni nagykockázat vállalásokra vonatkozó követelményeket,
+
+lc) a tőkeáttételi mutató kiszámítására vonatkozó követelményeket, ideértve az 575/2013/EU rendelet hetedik részében meghatározott eltérések alkalmazását is,
+
+ld) a kockázattal súlyozott kitettségérték vagy a szavatoló tőke kiszámítására vonatkozó követelményeket, vagy nem rendelkezik az 575/2013/EU rendelet harmadik rész II–VI. címében meghatározott irányítási intézkedésekkel,
+
+le) az 575/2013/EU rendelet hatodik rész I. és IV. címében, valamint az (EU) 2015/61 felhatalmazáson alapuló rendeletben a likviditásfedezeti ráta vagy a nettó stabil forrásellátottsági ráta kiszámítására vonatkozóan meghatározott követelményeket.
+
 (3) A Felügyelet e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb előírásainak súlyos megsértése esetén megteszi a szükséges intézkedéseket, vagy kivételes intézkedéseket, ha a pénzügyi intézmény,
 
 a) szavatoló tőkéje nem éri el hitelintézet esetében a 79. § (2) bekezdésben rögzített tőkekövetelmény nyolcvan százalékát,
@@ -58,7 +80,7 @@ b) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőké
 
 c) nem tesz eleget céltartalék-képzési, illetve értékvesztés elszámolási kötelezettségének, vagy nem rendelkezik elégséges céltartalékkal, illetve elszámolt értékvesztéssel, azaz mérlegen kívüli tételeit és eszközeit nem megfelelően értékelte és emiatt az el nem számolt céltartalékképzés, illetve értékvesztés összegével csökkentett szavatoló tőke következtében, ha szavatoló tőkéje nem éri el a 79. § (2) bekezdésben rögzített tőkekövetelmény nyolcvan százalékát,
 
-d) az azonnali fizetőképesség vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírások be nem tartásával a hitelintézet likviditásának fenntartását súlyosan veszélyezteti,
+d) az azonnali fizetőképesség vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírások be nem tartásával a hitelintézet likviditásának fenntartását súlyosan veszélyezteti, az 575/2013/EU rendelet 413. vagy 428b. cikkét megsértve nem biztosít nettó stabil forrásellátottsági rátát, vagy az 575/2013/EU rendelet 412. cikkét megsértve ismételten és tartósan megszegi a likvid eszközök tartására vonatkozó követelményt,
 
 e) a kockázatvállalásra vonatkozó szabályokat rendszeresen vagy jelentős mértékben megsérti, és ezzel a hitelintézet likviditását, fizetőképességét (szolvenciáját) vagy jövedelemtermelő képességét súlyosan veszélyezteti,
 
@@ -80,7 +102,11 @@ m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézk
 
 n) tevékenységi (működési) engedélye a Szhitv. alapján visszavonásra kerül.
 
+(3a) A Felügyelet megteszi a szükséges intézkedéseket, kivételes intézkedéseket, ha az intézmény vagy a természetes személy ismételten nem tesz eleget a Felügyelet e törvény vagy az 575/2013/EU rendelettel összhangban hozott határozatának.
+
 (4) A Felügyelet megteszi a szükséges intézkedéseket, kivételes intézkedéseket, ha bizonyíthatóan fennáll annak veszélye, hogy a hitelintézet az elkövetkező tizenkét hónapban nem fog megfelelni az e törvényben, valamint a prudens működésre vonatkozó jogszabályokban foglalt követelményeknek.
+
+(4a) A Felügyelet kötelezheti a hitelintézetet leányvállalatának vagy fióktelepének tevékenységét korlátozó kockázatcsökkentő intézkedések végrehajtására, ide értve a betétgyűjtést korlátozó intézkedéseket és a működés részben vagy egészben történő megszüntetését is, ha a leányvállalat vagy a fióktelep működése olyan túlzott kockázatot jelent a hitelintézet számára, amelynek alapján fennáll a veszélye annak, hogy a hitelintézet az elkövetkező 12 hónapban nem fog megfelelni az e törvényben, valamint a prudens működésre vonatkozó jogszabályokban foglalt követelményeknek.
 
 (5) A Felügyeletnek a (3) bekezdésen kívül akkor is meg kell tennie a szükséges intézkedéseket vagy kivételes intézkedéseket, ha
 
@@ -90,14 +116,16 @@ b) a külföldi hitelintézet, valamint bármely államban működő fióktelepe
 
 (6) A Felügyelet intézkedést tehet továbbá, ha a harmadik országbeli hitelintézet székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben olyan ok miatt alkalmazott intézkedést, szankciót, amely a fióktelep biztonságos működését érinti.
 
-(7) A Felügyeletnek, akkor is meg kell tennie a szükséges intézkedéseket, kivételes intézkedéseket, ha a 177. § szerinti felügyeleti felülvizsgálat és értékelés alapján a hitelintézet
+(7) A Felügyeletnek akkor is meg kell tennie a szükséges intézkedéseket, kivételes intézkedéseket, ha a 177. § szerinti felügyeleti felülvizsgálat és értékelés alapján a hitelintézet
 
-a) szavatoló tőkéje nem biztosítja a kockázatok fedezetét és megbízható kezelését, vagy
+a) szavatoló tőkéje nem biztosítja a kockázatok fedezetét és megbízható kezelését,
 
-b) irányítási rendszere, vállalatirányítási rendszere és kockázatkezelése, belső tőkemegfelelés értékelési folyamata, nagykockázatainak kezelése nem felel meg az e törvényben, valamint a prudens működésre vonatkozó jogszabályban meghatározott követelményeknek.
+b) irányítási rendszere, vállalatirányítási rendszere és kockázatkezelése, belső tőkemegfelelés értékelési folyamata, nagykockázatainak kezelése nem felel meg az e törvényben, valamint a prudens működésre vonatkozó jogszabályban meghatározott követelményeknek, vagy
+
+c) nem felel meg a javadalmazási követelményeknek, illetve nem rendelkezik nemek szempontjából semleges javadalmazási politikával.
 
 (8) Ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet a vele szemben alkalmazandó kivételes intézkedés előtt – a (9) bekezdésben meghatározott kivétellel – előzetesen egyeztet azon EGT-állam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre a hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
 
 (9) A kivételes intézkedésről szóló határozat meghozatala előtt a Felügyelet nem köteles egyeztetni a másik EGT-állam illetékes felügyeleti hatóságával, ha az egyeztetéshez szükséges időtartam veszélyezteti a határozat végrehajthatóságát. Ebben az esetben a határozat meghozataláról a Felügyelet a másik EGT-állam illetékes felügyeleti hatóságát haladéktalanul tájékoztatja.
 
-(10) Ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság már nem teljesíti a jóváhagyás 31/A. §-ban meghatározott feltételeit, akkor a Felügyelet minden szükséges intézkedést, kivételes intézkedést meghoz annak érdekében, hogy biztosítani lehessen vagy helyre lehessen állítani az összevont alapú felügyelet folyamatosságát és integritását, valamint az e törvényben és az 575/2013/EU rendeletben megállapított követelményeknek való összevont alapon történő megfelelést. A vegyes pénzügyi holding társasággal szembeni intézkedés meghatározásakor figyelembe kell venni különösen azt, hogy az intézkedés milyen hatást gyakorol az érintett pénzügyi konglomerátumra.
+(10) Ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság nem teljesíti vagy már nem teljesíti a jóváhagyás 31/A. §-ban meghatározott feltételeit, akkor a Felügyelet minden szükséges intézkedést, kivételes intézkedést meghoz annak érdekében, hogy biztosítani lehessen vagy helyre lehessen állítani az összevont alapú felügyelet folyamatosságát és integritását, valamint az e törvényben és az 575/2013/EU rendeletben megállapított követelményeknek való összevont alapon történő megfelelést. A vegyes pénzügyi holding társasággal szembeni intézkedés meghatározásakor figyelembe kell venni különösen azt, hogy az intézkedés milyen hatást gyakorol az érintett pénzügyi konglomerátumra.

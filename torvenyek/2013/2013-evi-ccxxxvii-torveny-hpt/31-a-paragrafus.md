@@ -12,7 +12,7 @@ ac) a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság á
 
 b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport szervezeti felépítése nem hátráltatja, illetve egyéb módon nem akadályozza a leány- vagy anyavállalatok egyedi, összevont vagy adott esetben szubkonszolidált alapon teljesítendő kötelezettségeinek hatékony felügyeletét,
 
-c) teljesülnek a befolyásoló részesedés megszerzésének engedélyezési feltételei.
+c) a hitelintézet részvényeinek a tulajdonosaira és a tagjaira teljesülnek a befolyásoló részesedés megszerzésének engedélyezési feltételei.
 
 (2) Az (1) bekezdés b) pontjának alkalmazásában különösen az alábbiakat kell figyelembe venni:
 

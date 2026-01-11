@@ -2,6 +2,8 @@
 
 (2) A felügyeleti jogkörrel rendelkező vezető testület legalább három, legfeljebb kilenc tagból álló testület, amelynek tagjai a dolgozói képviseletet ellátó személyek kivételével a pénzügyi intézménnyel nem állhatnak munkaviszonyban.
 
+(2a) A felügyeleti jogkörrel rendelkező vezető testület elnöke nem töltheti be egyidejűleg ugyanazon intézményen belül a vezérigazgatói funkciót.
+
 (3) A felügyeleti jogkörrel rendelkező vezető testület feladata különösen:
 
 a) gondoskodás arról, hogy a pénzügyi intézmény rendelkezzen átfogó és az eredményes működésre alkalmas ellenőrzési rendszerrel,

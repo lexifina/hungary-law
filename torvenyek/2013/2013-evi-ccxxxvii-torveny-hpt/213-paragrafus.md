@@ -6,7 +6,7 @@ b)
 
 c) a helyi önkormányzat,
 
-d) a biztosító, a viszontbiztosító, az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár,
+d) a biztosító, a viszontbiztosító, az önkéntes kölcsönös biztosító pénztár, a foglalkoztatói-, valamint a magánnyugdíjpénztár,
 
 e) a befektetési alap, a befektetési alapkezelő,
 
@@ -20,7 +20,7 @@ i) az MNB,
 
 j) a befektetési vállalkozás, a tőzsdetag, az árutőzsdei szolgáltató,
 
-k) a kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befektetővédelmi alap, illetve a Pénztárak Garancia Alapja,
+k) a kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befektetővédelmi alap, a Pénztárak Garancia Alapja és a Kártalanítási Alap,
 
 l)
 

@@ -41,3 +41,5 @@ d) a támogatás nyújtásáért fizetendő ellenérték meghatározásakor figy
 e) a támogatás nyújtásáért fizetendő ellenérték számítási elveibe nem tartozik bele az a kötelezettség, hogy figyelembe vegyék a csoporton kívüli eseményeknek a piaci árakra gyakorolt várható ideiglenes hatását.
 
 (8) A csoportszintű pénzügyi támogatási megállapodás megkötésének feltétele, hogy az szerződés időpontjában a megállapodó felek egyike sincs abban a helyzetben, hogy vele szemben az illetékes felügyeleti hatóság intézkedést, kivételes intézkedést alkalmazzon.
+
+(9) Az (1) bekezdés szerinti szervezet közzéteszi, hogy kötött-e csoportszintű pénzügyi támogatási megállapodást, valamint bármely ilyen megállapodás általános feltételeit és a megállapodásban részes felek nevét, továbbá legalább évente aktualizálja ezen információkat.

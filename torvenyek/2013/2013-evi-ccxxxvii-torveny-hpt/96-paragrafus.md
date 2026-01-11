@@ -16,7 +16,7 @@ e) a kombinált pufferkövetelmény vagy adott esetben a tőkeáttételi mutató
 
 vonatkozó információkat.
 
-(4) A Felügyelet jóváhagyja a hitelintézet tőkefenntartási tervét, ha úgy ítéli meg, hogy a terv végrehajtásával a hitelintézet teljesíteni tudja a kombinált pufferkövetelményeket a Felügyelet által meghatározott határidőn belül.
+(4) A Felügyelet jóváhagyja a hitelintézet tőkefenntartási tervét, ha úgy ítéli meg, hogy a terv végrehajtásával a hitelintézet teljesíteni tudja a kombinált pufferkövetelményeket – figyelemmel a (3) bekezdés e) pontjára is – a Felügyelet által meghatározott határidőn belül.
 
 (5) Ha a Felügyelet nem hagyja jóvá a hitelintézet tőkefenntartási tervét, akkor
 

@@ -12,6 +12,6 @@ b) eléri a nyugdíjazását, akkor a hitelintézet a munkaviszony megszűnése 
 
 (5) A 118. § (11) és (12) bekezdése, valamint a (4) bekezdés nem alkalmazandó
 
-a) az olyan hitelintézetre, amely nem minősül az 575/2013/EU rendelet 4. cikk (1) bekezdés 146. pontjában meghatározott nagy méretű hitelintézetnek, és az egyedi alapon számított, előző négy év végi mérlegfőösszegének átlaga nem haladja meg az ezerötszáz-milliárd forintot,
+a) az olyan hitelintézetre, amely nem minősül nagy méretű intézménynek, és az egyedi alapon számított, előző négy év végi mérlegfőösszegének átlaga nem haladja meg az ezerötszáz-milliárd forintot,
 
 b) arra a munkavállalóra, akinek az éves teljesítményjavadalmazása nem haladja meg a tizenhétmillió-ötszázezer forintot, és a teljesítményjavadalmazás a munkavállaló teljes éves javadalmazásának legfeljebb az egyharmada.

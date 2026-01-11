@@ -2,7 +2,7 @@
 
 290. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
-a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, illetve kiegészítő pénzügyi szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
+a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdés a), d) és f) pontjában meghatározott szolgáltatások végzésére, illetve kiegészítő pénzügyi szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 
 b) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
@@ -80,7 +80,7 @@ l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és 
 
 m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
 
-n)
+n) 129. cikk (3) bekezdésének megfelelően az ingatlanok értékének megállapítása céljából alkalmazandó értékelés elveit.
 
 o)
 

@@ -1,6 +1,6 @@
 175. § (1) Ha a magyarországi székhelyű hitelintézet tagállami hitelintézet anyavállalat vagy EU-szintű hitelintézet anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el.
 
-(2) Ha a magyarországi székhelyű hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el. Ha a Felügyelet látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot és a vegyes pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi EGT-állam illetékes felügyeleti hatóságát.
+(2) Ha a magyarországi székhelyű hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el.
 
 (3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
 

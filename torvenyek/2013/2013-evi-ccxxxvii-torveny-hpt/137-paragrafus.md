@@ -2,7 +2,7 @@
 
 (2) Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
-(3) A Felügyelet a természetes személy megválasztására, vagy kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4) és (5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll vagy ügyvezető esetén, ha a javasolt személy a 155. §-ban foglalt feltételeknek nem felel meg.
+(3) A Felügyelet a természetes személy megválasztására, vagy kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4) és (5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, a kinevezésre vagy megválasztásra javasolt személy nem felel meg a 137/A. § szerinti alkalmassági követelményeknek vagy ügyvezető esetén, ha a javasolt személy a 155. §-ban foglalt feltételeknek nem felel meg.
 
 (4) Pénzügyi intézménynél és vegyes pénzügyi holding társaságnál nem lehet vezető állású személy az, aki
 
@@ -21,6 +21,10 @@ c) büntetett előéletű;
 d) nem rendelkezik jó üzleti hírnévvel.
 
 e) közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
+
+(4a) A pénzügyi intézmény és vegyes pénzügyi holding társaság vezető állású személye, ha nem rendelkezik a 15/A. § szerinti jóváhagyással, akkor is megfelel a (4) bekezdésben meghatározott feltételeknek.
+
+(4b) A pénzügyi intézmény és vegyes pénzügyi holding társaság vezető állású személye alkalmasságának biztosításáért a pénzügyi intézmény és vegyes pénzügyi holding társaság felelős.
 
 (5) Hitelintézetnél nem lehet vezető állású személy – a felügyeleti jogkörrel rendelkező vezető testület tagja kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 

@@ -14,9 +14,9 @@ e) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kéz
 
 f) pénzügyi vállalkozás esetén annak igazolását, hogy rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint a 20. § (2) bekezdés d)–f), h), k) és q) pontjában foglaltakat,
 
-g) az összevont alapú, vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, vagy a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, és kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja,
+g) amennyiben az alapítandó hitelintézet az alapítással összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá kerül, a csoport szerkezetének, az információátadás rendjének bemutatását és a csoport irányítójának nyilatkozatát arról, hogy a csoport szerkezete lehetővé teszi a hatékony felügyelet gyakorlását, az illetékes hatóságok közötti hatékony információcserét és az azok közötti hatáskörmegosztás meghatározását,
 
-h) az összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez és továbbításához, valamint
+h) amennyiben az alapítandó hitelintézet az alapítással összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá kerül, az alapítandó hitelintézettel szoros kapcsolatba kerülő természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez és továbbításához, valamint
 
 i) nyilatkozatát arról, hogy a pénzügyi intézmény irányítása a Magyarországon létesítendő főirodában történik.
 
@@ -60,7 +60,7 @@ e) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a fel
 
 a) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot magába foglaló csoport szervezeti felépítését, feltüntetve a leányvállalatokat, anyavállalatokat, valamint a csoportba tartozó összes szervezet által folytatott tevékenységek típusát és helyét,
 
-b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot ténylegesen irányító legalább két személy kinevezéséről, megválasztásáról szóló igazolást,
+b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot ténylegesen irányító legalább két személy kinevezéséről, megválasztásáról szóló igazolást, valamint alkalmasságuk igazolását,
 
 c) a (2) bekezdésben foglaltakat, ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság hitelintézet leányvállalattal rendelkezik,
 
@@ -68,6 +68,6 @@ d) a csoport belső szervezeti felépítését és a feladatok csoporton belüli
 
 e) minden olyan információt, amely a 15/A. §-ban és 31/A. §-ban meghatározott értékeléshez szükséges.
 
-(5b) Ha a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság 15/A. § szerinti jóváhagyására a befolyásoló részesedése megszerzésének engedélyezésével egyidejűleg kerül sor, a Felügyelet egyeztet a csoporthoz tartozó vállalkozások illetékes felügyeleti hatóságaival. Ha a befolyásoló részesedés megszerzését a Felügyelet engedélyezi, a befolyásoló részesedés megszerzésének engedélyezésére vonatkozó értékelését húsz munkanapot meghaladó időtartamra felfüggeszti, mindaddig, amíg a 173/A. §-ban meghatározott eljárás le nem zárul.
+(5b) Ha a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ezen alcím szerinti engedélyezés, valamint a 15/A. § és 100. § szerinti jóváhagyására a befolyásoló részesedése megszerzésének engedélyezésével egyidejűleg kerül sor, a Felügyelet egyeztet a csoporthoz tartozó vállalkozások illetékes felügyeleti hatóságaival. Ha a befolyásoló részesedés megszerzését a Felügyelet engedélyezi, a befolyásoló részesedés megszerzésének engedélyezésére vonatkozó értékelését e § szerinti és a 173/A. §-ban meghatározott eljárás lezárultáig felfüggeszti.
 
 (6) Alapítási engedély alapján a hitelintézet a banküzem létesítésével kapcsolatos tevékenységet végezhet.

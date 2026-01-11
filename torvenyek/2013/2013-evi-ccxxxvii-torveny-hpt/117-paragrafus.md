@@ -8,7 +8,7 @@
 
 a) a vezető állású személyek,
 
-b) az ellenőrzési feladatokért és a lényeges szervezeti egységekért vezetői felelősséggel tartozó munkavállalók,
+b) a belsőkontroll-funkcióért és a lényeges szervezeti egységekért vezetői felelősséggel tartozó munkavállalók,
 
 c) a megelőző évben jelentős mértékű javadalmazásra jogosult munkavállalók, ha teljesülnek a következő feltételek:
 

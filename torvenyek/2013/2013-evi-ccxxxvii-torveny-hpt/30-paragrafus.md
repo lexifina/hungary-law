@@ -8,7 +8,7 @@ c) devizakülföldi, és nincs kézbesítési megbízottja, vagy
 
 d) a hitelintézettel szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé az összevont alapú felügyeleti feladatok ellátását,
 
-e) tevékenységével kapcsolatosan feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt tevékenység növelheti ennek kockázatát.
+e) tevékenységével, a szándékolt befolyásoló részesedés szerzésével kapcsolatosan észszerűen feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy, hogy a szándékolt tevékenység növelheti ennek kockázatát.
 
 (2) A Felügyelet a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 18. § (1) bekezdésében, vagy a 19. §-ban felsorolt feltételek valamelyike nem teljesül.
 

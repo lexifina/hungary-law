@@ -12,8 +12,10 @@ b) az irányítási jogkörrel rendelkező vezető testület támogatása a kock
 
 c) az ügyfélnek nyújtott pénzügyi vagy kiegészítő pénzügyi szolgáltatáshoz kapcsolódó árazási elvek és a hitelintézet üzleti modellje, valamint kockázatvállalási stratégiája közötti összhang vizsgálata, továbbá
 
-d) a javadalmazási politika vizsgálata abból a szempontból, hogy a kialakított javadalmazási rendszer ösztönző elemei figyelembe vegyék a hitelintézet kockázatait, tőke- és likviditási helyzetét, és a bevételek valószínűségét és ütemezését.
+d) a javadalmazási politika vizsgálata abból a szempontból, hogy a kialakított javadalmazási rendszer ösztönző elemei figyelembe vegyék a hitelintézet kockázatait – ideértve az ESG-tényezők hatásaiból fakadókat is –, tőke- és likviditási helyzetét, és a bevételek valószínűségét és ütemezését.
 
 (5) Ha a kockázatvállalási-kockázatkezelési bizottság a (4) bekezdés c) pontjában meghatározott feladatának ellátása során úgy ítéli meg, hogy az árazási elvek nem tükrözik megfelelően az üzleti modell és a kockázatvállalási stratégia szerinti kockázatokat, akkor az árazási elvek módosítására tervet készít, amelyet benyújt az irányítási jogkörrel rendelkező vezető testület számára.
 
 (6) A kockázatvállalási-kockázatkezelési bizottság és a felügyeleti jogkörrel rendelkező vezető testület számára feladataik ellátása során a hitelintézet hozzáférést biztosít a kockázati ellenőrzés funkcióhoz és külső szakértők véleményéhez.
+
+(7) A kockázatvállalási-kockázatkezelési bizottság és a felügyeleti jogkörrel rendelkező vezető testület meghatározza a kockázatra vonatkozó általa igényelt információ jellegét, mennyiségét, formátumát és közlésének gyakoriságát.
