@@ -36,6 +36,8 @@ p) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 20
 
 q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
 
+r) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló, 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény
 
 a) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet

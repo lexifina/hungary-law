@@ -24,6 +24,6 @@ h) a vezető testületi döntések befolyásolástól való mentességének rend
 
 (5) A befektetési vállalkozás közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
 
-(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
+(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az EBH számára.
 
 (7) A jelölőbizottság számára a befektetési vállalkozás biztosítja a (3) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.

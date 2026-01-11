@@ -17,3 +17,9 @@ b) az anyavállalataik között egynél több olyan befektetési holding társas
 (6) A (4) és (5) bekezdés alapján kötött megállapodásnak az összevont alapú felügyeleti célok elérése érdekében biztosítania kell a megfelelő információáramlást és a felügyeleti hatóságok között szükséges együttműködést.
 
 (7) Ha az összevont alapú felügyeletet nem az anyavállalatnak minősülő pénzügyi intézmény felügyeleti hatósága látja el, az anyavállalat felügyeleti hatósága az összevont alapú felügyelet érdekében szükséges információkat az összevont alapú felügyeletet ellátó felügyeleti hatóság számára megadja.
+
+(8) Ha egy magyarországi székhelyű befektetési vállalkozás és egy más EGT-állam befektetési vállalkozása ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, akkor az összevont alapú felügyeletet a Felügyelet látja el, ha nincs a csoportban hitelintézet és a magyarországi székhellyel rendelkező befektetési vállalkozás a legnagyobb mérlegfőösszeggel rendelkező befektetési vállalkozás a csoportban.
+
+(9) Ha egy csoport esetében az 575/2013/EU rendelet 18. cikk (3) vagy (6) bekezdése alapján történik a konszolidáció, akkor az összevont alapú felügyeletet a Felügyelet látja el, ha nincs a csoportban hitelintézet, és a legnagyobb mérlegfőösszegű befektetési vállalkozás magyarországi székhelyű.
+
+(10) Ha a csoportban több azonos tagállamban székhellyel rendelkező befektetési vállalkozás is van, és a csoportban nincs hitelintézet, akkor a Felügyelet abban az esetben látja el az összevont alapú felügyeleti feladatot, ha a magyarországi székhelyű befektetési vállalkozás mérlegfőösszegének az összege a legmagasabb az egy tagállamban lévő befektetési vállalkozások mérlegfőösszegeinek az összegei közül.
