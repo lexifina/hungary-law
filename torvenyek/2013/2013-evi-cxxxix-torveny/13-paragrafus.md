@@ -46,7 +46,11 @@ c) az MNB elnöke által kijelölt vezetők,
 
 (8) A Pénzügyi Stabilitási Tanács ülésén a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter képviselője, valamint az MNB elnöke által felkért külső meghívottak tárgyalási joggal vesznek részt.
 
-(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke, az elnök akadályoztatása esetén az (5) bekezdés b) pontja szerinti alelnökök közül a Pénzügyi Stabilitási Tanács ügyrendjében kijelölt alelnök írja alá.
+(9) A Pénzügyi Stabilitási Tanács határozatképes, ha szavazásra jogosult tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő szavazásra jogosult tagjainak egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke, az elnök akadályoztatása esetén az (5) bekezdés b) pontja szerinti alelnökök közül a Pénzügyi Stabilitási Tanács ügyrendjében kijelölt alelnök írja alá.
+
+(9a) A 4. § (9) bekezdésében meghatározott feladatkörökkel kapcsolatos döntéshozatal során a kizárólag a 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök, az MNB elnöke által kijelölt azon vezető, amely ezen alelnök alá tartozik (a továbbiakban együtt: felügyeleti vezető), valamint az MNB elnöke rendelkezik szavazati joggal.
+
+(9b) A felügyeleti vezető kinevezése nem lehet tizennégy évnél hosszabb, továbbá kinevezésükre objektív és átlátható nyilvános kritériumok alapján kerülhet sor, valamint elbocsáthatók, amennyiben már nem felelnek meg a kinevezés kritériumainak. Az elbocsátás okait nyilvánosságra szükséges hozni, kivéve, ha az érintett felügyeleti vezető kifogást emel a nyilvánosságra hozatallal szemben.
 
 (10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.
 

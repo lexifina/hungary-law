@@ -1,4 +1,4 @@
-93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása esetén az MNB
+93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása, illetve a 90. § (1) bekezdés f) pontjában foglaltak esetén az MNB
 
 a) megtiltja a tevékenység végzését,
 
@@ -22,7 +22,7 @@ c) az a)–b) pontban foglalt esetekben piacfelügyeleti bírságot szab ki.
 
 (5) Piacfelügyeleti eljárás során
 
-a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
+a) az engedély nélkül vagy bejelentés hiányában végzett, illetve a 90. § (1) bekezdés f) pontjában meghatározott tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 
 b) a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 

@@ -20,7 +20,7 @@ a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 
 b) jogszabálysértés megállapítása esetén további három hónap a hatósági eljárás lefolytatására.
 
-(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1)–(2a) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
+(3) Az MNB – az ok és a cél megjelölésével megküldött – felhívására a 39. § (1) és (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy vagy szervezet köteles az általa kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
 a) iratot, elektronikus módon rögzített adatot, jelet, rögzített telefonbeszélgetést bemutatni,
 

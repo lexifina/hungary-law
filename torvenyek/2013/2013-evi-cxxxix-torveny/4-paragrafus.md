@@ -36,6 +36,8 @@ céljából.
 
 (13) Az (1)–(7) bekezdésben meghatározott feladatok az MNB alapvető feladatai.
 
-(14) Az MNB alapvető feladatai közé nem tartozó feladatok az MNB egyéb feladatai, amelyeket – jogszabályban meghatározottak szerint – csak elsődleges célja és alapvető feladatai teljesítésének veszélyeztetése nélkül folytathat.
+(14) Az MNB alapvető feladatai közé nem tartozó feladatok az MNB egyéb feladatai, amelyeket – jogszabályban meghatározottak szerint – csak elsődleges célja és alapvető feladatai teljesítésének veszélyeztetése nélkül folytathat azzal, hogy ez nem akadályozhatja az 1. § (3) bekezdésében és a (9) bekezdésben meghatározott feladatok ellátását.
 
 (15) A (8) bekezdésben meghatározott feladatkör ellátásánál gondoskodni kell a szanálási feladatok ellátásáért felelős szervezeti egységnek az MNB más feladatait ellátó szervezeti egységétől való működési függetlenségről, ideértve azt is, hogy ezen feladatkört kizárólag az MNB elnökének vagy bármelyik alelnökének közvetlen alárendeltségében és irányításában lehet ellátni.
+
+(16) Az MNB a pénzügyi közvetítőrendszer felügyeletének ellátása tekintetében nyilvánosságra hozza a világos, egyértelmű és jól körülhatárolt működési és stratégiai célkitűzéseit, figyelemmel a beszámolási kötelezettségeire is.

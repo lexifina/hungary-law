@@ -1,6 +1,6 @@
 75. § (1) Ha az MNB a 62. § (2) bekezdése szerinti ellenőrzés végén vagy az általa hivatalosan ismert tények alapján megállapítja a 62. § (1) bekezdésében meghatározott jogszabályok vagy az MNB hatósági határozatában, illetve a 49/D. § (1) bekezdése szerinti végzésében meghatározott kötelezettség megszegését, elkerülését, elmulasztását, késedelmes vagy hiányos teljesítését, – ha törvény eltérően nem rendelkezik –
 
-a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot szab ki, vagy
+a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy, szervezet esetén a 39. §-ban meghatározott, az adott tevékenységre vonatkozó jogszabály szerinti intézkedést, kivételes intézkedést alkalmazza, illetve bírságot, kényszerítő bírságot szab ki, vagy
 
 b) az a) pont hatálya alá nem tartozó személlyel, szervezettel szemben a következő intézkedéseket alkalmazza:
 

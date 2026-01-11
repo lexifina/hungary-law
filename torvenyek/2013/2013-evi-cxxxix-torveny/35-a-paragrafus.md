@@ -1,6 +1,6 @@
 ## 23/A. Rendszerszintű vagy makroprudenciális kockázatot csökkentő intézkedések
 
-35/A. § (1) Ha a rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor a globálisan rendszerszinten jelentős intézményekre és egyéb rendszerszinten jelentős intézményekre vonatkozó tőkepufferkövetelmény és az anticiklikus tőkepufferkövetelmény által nem kezelt kockázatokra a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg.
+35/A. § (1) Ha a rendszerszintű vagy makroprudenciális kockázatok, többek között az éghajlatváltozásból származó makroprudenciális és rendszerkockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése, a pénzügyi rendszerek zavarának kockázatából fakadó, a pénzügyi rendszerre és a reálgazdaságra ható súlyos és kedvezőtlen befolyás indokolja, akkor az 575/2013/EU rendeletben nem kezelt, valamint a globálisan rendszerszinten jelentős intézményekre és egyéb rendszerszinten jelentős intézményekre vonatkozó tőkepufferkövetelmény és az anticiklikus tőkepufferkövetelmény által nem kezelt kockázatokra, a pénzügyi szektor egy vagy több intézményére a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg kitettségekre, intézményekre, intézmények csoportjára.
 
 (2) A 141/A. §-ban meghatározott tájékoztatás magában foglalja:
 
@@ -16,7 +16,7 @@ e) ha a rendszerkockázati tőkepufferráta az összes kitettségre vonatkozik, 
 
 (3) Amennyiben a rendszerkockázati tőkepufferráta megállapításáról szóló döntés a korábban megállapított tőkepufferrátához képest csökkenést jelent vagy nem jelent változást, az MNB-nek csak a 141/A. § szerinti tájékoztatást kell megtennie.
 
-(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (2) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
+(4) Ha az MNB három százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban harminc nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő kivéve, ha azt egy másik EGT-tagállam által előírt rendszerkockázati tőkepufferrátának a (9) bekezdés szerinti elismerésével került megállapításra.
 
 (5) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
 
@@ -28,6 +28,10 @@ e) ha a rendszerkockázati tőkepufferráta az összes kitettségre vonatkozik, 
 
 (9) A (6) bekezdésben meghatározott esetben, amennyiben másik EGT-államban székhellyel rendelkező anyavállalat hitelintézet leányvállalata érintett, a MNB az Európai Bizottsággal egyidejűleg az ügyben érintett többi illetékes felügyeleti hatóságot is értesíti, egyeztet velük. Ha a többi érintett illetékes felügyeleti hatóság és az MNB nem ért egyet az Európai Bizottságnak megküldött javaslat tekintetében, vagy a javaslatnak az Európai Bizottság felé megküldését követő egy hónapon belül az Európai Rendszerkockázati Testület a rendszerkockázati tőkepuffer alkalmazását illetően ellenvéleményt fejez ki, akkor az MNB az Európai Bankhatósággal egyeztetést kezdeményez, amely egyeztetés során az Európai Bankhatóság részéről rögzítésre kerülő vélemény az MNB-re nézve nem kötelező.
 
-(10) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát mérlegelve a kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében.
+(10) Az MNB elismerheti a másik EGT-államban megállapított rendszerkockázati tőkepufferrátát mérlegelve a 141/A. § a) pontja alapján kapott információkat, és előírhatja a Magyarországon székhellyel rendelkező hitelintézetek és befektetési vállalkozások számára annak alkalmazását az adott EGT-államban lévő kitettségeik tekintetében azzal, hogy
+
+a) ez a rendszerkockázati tőkepufferráta hozzáadódhat az e § szerint alkalmazott rátához, ha eltérő kockázatokra vonatkozik,
+
+b) a magasabb rendszerkockázati tőkepufferráta alkalmazandó, ha azonos kockázatokra vonatkozik.
 
 (11) Az MNB kérheti az Európai Rendszerkockázati Testületet, hogy adjon ki ajánlást egy vagy több EGT-állam vonatkozásában az MNB által meghatározott rendszerkockázati tőkepuffer elismerésének érdekében.
