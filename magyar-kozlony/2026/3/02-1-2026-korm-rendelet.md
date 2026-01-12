@@ -1,0 +1,33 @@
+# A Kormány 1/2026. (I. 12.) Korm. rendelete
+
+Magyar Közlöny 2026. évi 3. szám, 2026. január 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bOLSz2CzWBBDB3j5APhk695aade162cd3/dokumentumok/5004c9ad14147a21f5ee96ee978c0a8efb5e4dcb/letoltes)
+
+---
+
+A Kormány 1/2026. (I. 12.) Korm. rendelete
+a kábítószer előállításának, használatának, terjesztésének, népszerűsítésének tilalmával összefüggő
+veszélyhelyzeti szabályokról
+[1] A rendelet célja a kábítószer és az illegális tudatmódosító szerek használatának, terjesztésének és népszerűsítésének teljes
+felszámolása.
+[2] A Kormány az Alaptörvény 53. cikk (1) bekezdés b) pontjában meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, valamint
+a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek
+elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 2. § (1a) bekezdésére, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban:
+veszélyhelyzet) ideje alatt a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés
+szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/A. §-át az e rendeletben
+foglalt eltérésekkel kell alkalmazni.
+2. §
+A veszélyhelyzet ideje alatt a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni
+fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/A. § (2) és
+(3) bekezdésében foglaltak nem alkalmazandók.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
