@@ -1,5 +1,5 @@
 ## 8. A hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet módosítása
 
-11. §[^10]
+11. §[^8]
 
-[^10]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

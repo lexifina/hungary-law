@@ -1,3 +1,7 @@
-15. §[^14]
+15. § A pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról szóló 32/2017. (XII. 27.) IM rendelet
 
-[^14]: A 15. § a 22. § (3) bekezdése alapján 2026. január 13-án lép hatályba.
+a) 5. § (1) bekezdésében az „eljárásban kirendelt” szövegrész helyébe az „eljárásban, továbbá a közjegyzői nemperes eljárásban kirendelt” szöveg,
+
+b) 5. § (2) bekezdésében az „a pert” szövegrész helyébe az „az eljárást” szöveg
+
+lép.
