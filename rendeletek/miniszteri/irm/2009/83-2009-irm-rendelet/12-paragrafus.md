@@ -6,4 +6,6 @@ b) a Kjnp. 36/E. § (4) bekezdés d) pontjában foglalt tényre
 
 vonatkozó adatokat automatikusan átvezesse az élettársi nyilvántartásban.
 
-(2) Az országos kamara az (1) bekezdésben foglalt adatokat online adatigénylés útján szerzi be a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervtől. Az országos kamara és a polgárok személyi adatainak és lakcímének nyilvántartását vezető szerv együttműködési megállapodásban rögzíti a rendszeres adatigénylés teljesítésének rendjét és technikai szabályait.
+(2)[^1] Az országos kamara az (1) bekezdésben foglalt adatokat online adatigénylés útján szerzi be a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől.
+
+[^1]: A 12. § (2) bekezdése a 14/2025. (XI. 13.) IM rendelet 7. §-ával megállapított szöveg.

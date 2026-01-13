@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-83-20-1
 | 2010-01-02 | 2009-83-20-1U.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-02-14 | 2009-83-20-1U.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-02-15 | 2009-83-20-1U.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-01-13 | 2009-83-20-1U.5 | 14/2025. (XI. 13.) IM rendelet |

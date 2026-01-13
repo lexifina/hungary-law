@@ -1,3 +1,3 @@
-## 19–20. §[^3]
+21. §[^6]
 
-[^3]: A 19–20. §-t a 22. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 21. §-t a 22. § (2) bekezdése hatályon kívül helyezte.
