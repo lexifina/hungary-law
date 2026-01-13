@@ -1,4 +1,4 @@
-## 4/A.[^24] A kirendelt védő díja a büntetőeljárás vádemelésig terjedő szakaszában megállapodás esetén
+## 4/A.[^26] A kirendelt védő díja a büntetőeljárás vádemelésig terjedő szakaszában megállapodás esetén
 
 9/C. § (1) Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 194/B. §-a szerinti közfeladat-ellátás esetére megkötött megállapodás (a továbbiakban: megállapodás) alapján a büntetőeljárás vádelemeléséig terjedő szakaszában a kirendelt védőt a Magyar Ügyvédi Kamara szabályzatában (a továbbiakban: kamarai szabályzat) meghatározott kirendelt védői óradíj, valamint kamarai szabályzatban meghatározott díjazás illeti meg.
 
@@ -8,4 +8,4 @@
 
 (4) A büntetőeljárás vádemelésig terjedő szakaszában a kirendelt védő óradíjára, tevékenységéért járó díjazására, költségtérítésére továbbá a kifizetés és előlegezés eljárásrendjére e rendelet rendelkezéseit a megállapodás fennállása alatt nem kell alkalmazni.
 
-[^24]: A 4/A. alcímet (9/C. §-t) a 4/2025. (IV. 30.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^26]: A 4/A. alcímet (9/C. §-t) a 4/2025. (IV. 30.) IM rendelet 1. § (5) bekezdése iktatta be.
