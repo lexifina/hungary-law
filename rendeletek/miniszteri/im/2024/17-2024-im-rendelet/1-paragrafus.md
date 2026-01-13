@@ -23,3 +23,7 @@
 1. § (1) E rendelet szerint kell felszámítani és megállapítani a polgári és közigazgatási bírósági eljárásban, továbbá a jogegységi panasz eljárásban a felet, a beavatkozót és az érdekeltet (a továbbiakban együtt: fél) képviselő – ügyvédi tevékenységet gyakorló – egyéni ügyvéd, európai közösségi jogász, ügyvédi iroda (a továbbiakban együtt: ügyvéd) és kamarai jogtanácsos munkadíját és készkiadását, beleértve a helyettesítésre jogosultak eljárását is.
 
 (2) E rendeletet akkor kell alkalmazni a pártfogó ügyvéd és az ügygondnok díjának és költségének megállapítására, ha jogszabály így rendelkezik.
+
+(3)[^1] E rendeletet kell alkalmazni az ügygondnok díjának és költségének megállapítására közjegyzői nemperes eljárásban történő kirendelése esetén, ha jogszabály eltérően nem rendelkezik.
+
+[^1]: Az 1. § (3) bekezdését a 14/2025. (XI. 13.) IM rendelet 21. §-a iktatta be.
