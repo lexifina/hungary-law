@@ -32,7 +32,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 1.5.8. telefonszám
 
-1.5.9. faxszám
+1.5.9.[^25]
 
 1.5.10. elektronikus levelezési cím
 
@@ -50,7 +50,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 1.9.3. nyilvántartási szám, nyilvántartást vezető szerv elnevezése
 
-1.10. képviselő esetében
+1.10.[^27] képviselő esetében
 
 1.10.1. név
 
@@ -58,9 +58,9 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 1.10.3. telefonszám
 
-1.10.4. faxszám
+1.10.4. képviselet típusa
 
-1.10.5. képviselet típusa
+1.10.5. adószám, ha azzal rendelkezik
 
 1.10.5.1. a kitöltést segítő kódtár.
 
@@ -92,11 +92,11 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 2.4.8. telefonszám
 
-2.4.9. faxszám
+2.4.9.[^28]
 
 2.4.10. elektronikus levelezési cím
 
-2.4.11.[^27] egyéni vállalkozó esetén adószám
+2.4.11.[^29] egyéni vállalkozó esetén adószám
 
 2.5. fizetési számlaszám, számlát vezető pénzforgalmi szolgáltató elnevezése
 
@@ -112,11 +112,11 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 2.7.1. név
 
-2.7.2.[^28] kézbesítési cím
+2.7.2.[^30] kézbesítési cím
 
 2.7.3. telefonszám
 
-2.7.4. faxszám
+2.7.4.[^31]
 
 2.7.5. elektronikus levelezési cím
 
@@ -126,9 +126,11 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 2.7.7. meghatalmazott esetén nyilatkozat a képviseleti jogosultságról.
 
+2.7.8.[^32] adószám, ha azzal rendelkezik
+
 3. Biztosítási intézkedés elrendelése iránti határozott kérelem.
 
-4.[^29] A biztosítandó pénzköveteléssel kapcsolatos adatok
+4.[^33] A biztosítandó pénzköveteléssel kapcsolatos adatok
 
 4.1. a kibocsátott fizetési meghagyás ügyszáma és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 189. §-a szerinti esetben a kibocsátott végrehajtási lap ügyszáma
 
@@ -186,7 +188,12 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 7.5. arról szóló tájékoztatás, hogy a követelés későbbi kielégítésének veszélyeztetettségét valószínűsítő dokumentumok hiteles másolata – ha ilyen dokumentumok rendelkezésre állnak – papír alapon küldhető meg az eljáró közjegyzőnek.
 
+[^25]: A 2. melléklet 1.5.9. pontját a 14/2025. (XI. 13.) IM rendelet 10. § a) pontja hatályon kívül helyezte.
 [^26]: A 2. melléklet 1.8. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^27]: A 2. melléklet 2.4.11. pontját a 13/2023. (IX. 21.) IM rendelet 9. § (2) bekezdése iktatta be.
-[^28]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^29]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^27]: A 2. melléklet 1. pont 1.10. alpontja a 14/2025. (XI. 13.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^28]: A 2. melléklet 2.4.9. pontját a 14/2025. (XI. 13.) IM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^29]: A 2. melléklet 2.4.11. pontját a 13/2023. (IX. 21.) IM rendelet 9. § (2) bekezdése iktatta be.
+[^30]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet 2.7.4. pontját a 14/2025. (XI. 13.) IM rendelet 10. § c) pontja hatályon kívül helyezte.
+[^32]: A 2. melléklet 2.7. pont 2.7.8. pontját a 14/2025. (XI. 13.) IM rendelet 9. § (2) bekezdése iktatta be.
+[^33]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.

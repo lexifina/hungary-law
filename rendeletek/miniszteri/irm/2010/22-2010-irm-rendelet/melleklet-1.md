@@ -20,7 +20,7 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 
 1.6. több jogosult esetén annak jelölése, ha az 1. rendű jogosult nem képviselheti a többi jogosultat
 
-1.7.[^8] képviselő esetében neve, kézbesítési címe
+1.7.[^8] képviselő esetében neve, kézbesítési címe, továbbá – ha azzal rendelkezik – adószáma
 
 1.7.1. képviselet típusa
 
@@ -28,25 +28,25 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 
 1.7.2. meghatalmazott esetén nyilatkozat a képviseleti jogosultságról
 
-1.7.3.[^9] meghatalmazott esetén a meghatalmazott neve, kézbesítési címe, telefonszáma és elektronikus levélcíme
+1.7.3. meghatalmazott esetén a meghatalmazott neve, kézbesítési címe, telefonszáma és elektronikus levélcíme, továbbá – ha azzal rendelkezik – adószáma
 
-1.8.[^10] természetes személy jogosult esetén születési hely és idő, anyja neve
+1.8.[^9] természetes személy jogosult esetén születési hely és idő, anyja neve
 
 2. Fizetési meghagyás kibocsátása iránti határozott kérelem.
 
-2.1.[^11] Nyilatkozat arról, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt más közjegyző vagy bíróság előtt eljárás nincs folyamatban vagy jogerős fizetési meghagyás vagy ítélet nem született.
+2.1.[^10] Nyilatkozat arról, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt más közjegyző vagy bíróság előtt eljárás nincs folyamatban vagy jogerős fizetési meghagyás vagy ítélet nem született.
 
-3.[^12] A kötelezettel kapcsolatos kötelező adatok:
+3.[^11] A kötelezettel kapcsolatos kötelező adatok:
 
 3.1. név (elnevezés)
 
-3.2.[^13] kézbesítési cím
+3.2.[^12] kézbesítési cím
 
 3.3. kötelezett személyének típusa
 
 3.3.1. a kitöltést segítő kódtár
 
-3.4.[^14] Annak jelzése, ha a kötelezettek egyetemlegesen vagy mögöttesen felelősek.
+3.4.[^13] Annak jelzése, ha a kötelezettek egyetemlegesen vagy mögöttesen felelősek.
 
 3.5. nem egyetemleges kötelezettek esetén az egyes kötelezetteket a főkövetelésből terhelő összeg
 
@@ -54,11 +54,11 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 
 3.5.1.1. a kitöltést segítő kódtár
 
-3.6.[^15] törvényes képviselő által képviselt kötelezett esetén a képviselő neve, kézbesítési címe
+3.6.[^14] törvényes képviselő által képviselt kötelezett esetén a képviselő neve, kézbesítési címe, továbbá – ha azzal rendelkezik – adószáma
 
-3.7.[^16] adószámmal rendelkező nem természetes személy és egyéni vállalkozó esetén adószám
+3.7.[^15] adószámmal rendelkező nem természetes személy és egyéni vállalkozó esetén adószám
 
-4.[^17] A követeléssel kapcsolatos kötelező adatok:
+4.[^16] A követeléssel kapcsolatos kötelező adatok:
 
 4.1. a követelés alapjául szolgáló jogviszony
 
@@ -68,29 +68,29 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 
 4.2.1. a kitöltést segítő kódtár
 
-4.3.[^18] a követelés beazonosításához szükséges adatok
+4.3.[^17] a követelés beazonosításához szükséges adatok
 
 4.4. a követelés alapjául szolgáló jogviszony létrejöttének és a követelés lejártának időpontja
 
-4.5.[^19] a főkövetelés (ideértve az önálló járulékokat is) összege
+4.5.[^18] a főkövetelés (ideértve az önálló járulékokat is) összege
 
 4.6. a főkövetelés pénzneme
 
 4.6.1. a kitöltést segítő kódtár
 
-4.7.[^20] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
+4.7.[^19] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
 
-4.7.1.[^21] tőkeösszeg, ha a főkövetelésnél kevesebb
+4.7.1.[^20] tőkeösszeg, ha a főkövetelésnél kevesebb
 
 4.7.2. kamattípus (jogcím)
 
 4.7.2.1. a kitöltést segítő kódtár
 
-4.7.3.[^22] kamatperiódus (a kamat jellege)
+4.7.3.[^21] kamatperiódus (a kamat jellege)
 
 4.7.3.1. a kitöltést segítő kódtár
 
-4.7.4.[^23] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
+4.7.4.[^22] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
 
 4.7.5. kamattal érintett időszak.
 
@@ -104,9 +104,9 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 
 6.1. természetes személy kötelezett születési helye és ideje, anyja neve, adóazonosító jele, személyi azonosítója
 
-6.2.[^24] jogi személy, jogi személyiség nélküli, jogalanyisággal rendelkező szervezet kötelezett nyilvántartási száma (cégjegyzékszáma)
+6.2.[^23] jogi személy, jogi személyiség nélküli, jogalanyisággal rendelkező szervezet kötelezett nyilvántartási száma (cégjegyzékszáma)
 
-6.3.[^25]
+6.3.[^24]
 
 7. Perré alakulás esetére a perben illetékes bíróság megjelölése azon adatokkal együtt, amelyekből a bíróság hatásköre és illetékessége megállapítható.
 
@@ -137,21 +137,20 @@ A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának 
 [^5]: Az 1. melléklet 1. pont 1.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet 1.3. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. melléklet 1.3.1. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 1. melléklet 1. pont 1.7. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^9]: Az 1. melléklet 1. pont 1.7. pont 1.7.3. alpontját a 20/2017. (XII. 21.) IM rendelet 31. § (1) bekezdése iktatta be.
-[^10]: Az 1. melléklet 1. pont 1.8. alpontját a 20/2017. (XII. 21.) IM rendelet 31. § (1) bekezdése iktatta be.
-[^11]: Az 1. melléklet 2. pont 2.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (2) bekezdése iktatta be.
-[^12]: Az 1. melléklet 3. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^13]: Az 1. melléklet 3. pont 3.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet 3. pont 3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^15]: Az 1. melléklet 3. pont 3.6. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a iktatta be.
-[^16]: Az 1. melléklet 3.7. pontját a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdése iktatta be.
-[^17]: Az 1. melléklet 4. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 4. pont 4.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^19]: Az 1. melléklet 4. pont 4.5. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^20]: Az 1. melléklet 4. pont 4.7. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^21]: Az 1. melléklet 4. pont 4.7. alpont 4.7.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^22]: Az 1. melléklet 4. pont 4.7. alpont 4.7.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet 4. pont 4.7. alpont 4.7.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^24]: Az 1. melléklet 6.2. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^25]: Az 1. melléklet 6. pont 6.3. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a hatályon kívül helyezte.
+[^8]: Az 1. melléklet 1. pont 1.7. alpontja a 14/2025. (XI. 13.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. melléklet 1. pont 1.8. alpontját a 20/2017. (XII. 21.) IM rendelet 31. § (1) bekezdése iktatta be.
+[^10]: Az 1. melléklet 2. pont 2.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (2) bekezdése iktatta be.
+[^11]: Az 1. melléklet 3. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet 3. pont 3.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 3. pont 3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. melléklet 3. pont 3.6. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a iktatta be, szövege a 14/2025. (XI. 13.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet 3.7. pontját a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdése iktatta be.
+[^16]: Az 1. melléklet 4. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 4. pont 4.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 4. pont 4.5. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet 4. pont 4.7. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^20]: Az 1. melléklet 4. pont 4.7. alpont 4.7.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^21]: Az 1. melléklet 4. pont 4.7. alpont 4.7.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet 4. pont 4.7. alpont 4.7.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 6.2. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^24]: Az 1. melléklet 6. pont 6.3. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a hatályon kívül helyezte.

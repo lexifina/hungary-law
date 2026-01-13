@@ -1,4 +1,4 @@
-4. melléklet a 22/2010. (V. 7.) IRM rendelethez[^43]
+4. melléklet a 22/2010. (V. 7.) IRM rendelethez[^52]
 
 A fizetési meghagyásos eljárásban, a fizetési meghagyás végrehajtásának elrendelésére, valamint a fizetési meghagyást követő biztosítási intézkedés elrendelése során előterjesztendő egyéb kérelmek benyújtásához alkalmazandó elektronikus űrlap adattartalma
 
@@ -48,4 +48,4 @@ A fizetési meghagyásos eljárásban, a fizetési meghagyás végrehajtásának
 
 6.2. az űrlap kitöltésének módja
 
-[^43]: A 4. melléklet a 13/2023. (IX. 21.) IM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^52]: A 4. melléklet a 13/2023. (IX. 21.) IM rendelet 9. § (4) bekezdésével megállapított szöveg.
