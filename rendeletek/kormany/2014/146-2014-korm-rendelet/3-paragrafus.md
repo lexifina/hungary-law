@@ -6,7 +6,7 @@
 
 (3)[^17] A létesítési engedély – a (2) bekezdésben meghatározott esetben – a véglegessé válásának napjától számított négy év elteltével hatályát veszti, kivéve, ha a létesítési tevékenységet ez idő alatt megkezdték, és a létesítés megkezdésétől számított hat éven belül a berendezés üzembe helyezésének feltételeit megteremtették. A létesítési engedély időbeli hatálya nem hosszabbítható meg.
 
-(4)[^18] Ha a (2) bekezdésben meghatározott tevékenység a kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemlék építményben valósul meg, az engedélyezési eljárásban a Hatóság vizsgálja, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+(4)[^18] Ha a (2) bekezdésben meghatározott tevékenység a műemléki nyilvántartásban szereplő nemzeti emléknek minősülő műemlék építményben valósul meg, az engedélyezési eljárásban a Hatóság vizsgálja, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
 (5)[^19] Nem szükséges az (1) és a (2) bekezdésben meghatározottak szerint hatósági engedélyt kérni kisteherfelvonó, a 0,15 m/s-nál nem nagyobb névleges sebességű, 3 méternél nem nagyobb emelőmagasságú, személyszállításra is szolgáló felvonó (emelő), valamint egylakásos lakóépületben felvonó létesítése, áthelyezése, e rendeletben felsorolt főbb műszaki adatainak megváltoztatásával járó átalakítása, használatbavétele, veszélytelenítés utáni ismételt üzemeltetése és bontása (megszüntetése) esetében.
 
@@ -27,7 +27,7 @@ b) megállapítja, hogy a berendezés nem felel meg az e rendeletben – és a 2
 [^15]: A 3. § (1) bekezdése a 480/2025. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^16]: A 3. § (2) bekezdése a 480/2025. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 3. § (3) bekezdése a 37/2021. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^18]: A 3. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^18]: A 3. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 36. §-a, a 449/2025. (XII. 29.) Korm. rendelet 79. §-a szerint módosított szöveg.
 [^19]: A 3. § (5) bekezdése az 564/2023. (XII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^20]: A 3. § (6) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^21]: A 3. § (7) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
