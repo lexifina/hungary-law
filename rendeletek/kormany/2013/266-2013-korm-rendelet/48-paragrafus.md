@@ -1,3 +1,3 @@
-48. §[^225]
+48. §[^250] Az építészeti-műszaki dokumentációnak a tűzvédelmi szakkérdések vizsgálatához szükséges dokumentációját, valamint a kivitelezési dokumentáció tűzvédelmi munkarészét – a 15. § (1) bekezdésétől eltérően, építészeti-műszaki tervezési jogosultság hiányában is – elkészítheti a tűzvédelmi szakértői tevékenység szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szakértők névjegyzékébe bejegyzett tűzvédelmi szakértő e névjegyzékből való törlése időpontjáig, feltéve, hogy rendelkezik a 15/F. § szerinti felelősségbiztosítással és teljesíti a 34. § (3) bekezdés b) pontja szerinti szakmai továbbképzést.
 
-[^225]: A 48. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 10. pontja újból hatályon kívül helyezte.
+[^250]: A 48. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 10. pontja hatályon kívül helyezte, újonnan a 448/2025. (XII. 29.) Korm. rendelet 30. §-a iktatta be.

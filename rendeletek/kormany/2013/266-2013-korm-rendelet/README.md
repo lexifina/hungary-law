@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-266-20-
 | 2025-07-01 | 2013-266-20-22.32 | 618/2021. (XI. 8.) Korm. rendelet |
 | 2025-08-28 | 2013-266-20-22.33 | 284/2025. (VIII. 25.) Korm. rendelet |
 | 2026-01-01 | 2013-266-20-22.35 | 342/2025. (X. 31.) Korm. rendelet |
+| 2026-01-14 | 2013-266-20-22.36 | 448/2025. (XII. 29.) Korm. rendelet |

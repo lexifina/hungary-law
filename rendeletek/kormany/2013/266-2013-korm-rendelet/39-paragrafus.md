@@ -6,7 +6,7 @@
 
 (4) A vizsga általános része (szakmagyakorlók közös ismeretanyagát képező ismeretek) az alábbi ismeretkörből áll:
 
-a) az építésügyi jogi környezet általános felépítése (jogszabályi hierarchia), ezen belül az Étv. alapismerete, a kapcsolódó végrehajtási területekből különösen
+a)[^180] az építésügyi jogi környezet általános felépítése (jogszabályi hierarchia), ezen belül a Méptv. alapismerete, a kapcsolódó végrehajtási területekből különösen
 
 aa) a településrendezési szabályok, követelmények,
 
@@ -22,7 +22,7 @@ af) a szakmagyakorlókkal szemben szabálytalanságok esetén alkalmazható jogk
 
 ag) a hatósági engedélyek megszerzéséhez, az egyszerű bejelentés megtételéhez szükséges szabályok,
 
-ah)[^161] a települési zöldinfrastruktúrára, a zöldfelületi tanúsítványra és a zöld védjegyre vonatkozó szabályok,
+ah)[^181] a települési zöldinfrastruktúrára, a zöldfelületi tanúsítványra és a zöld védjegyre vonatkozó szabályok,
 
 b) a kötelmi jogon belül a szerződésekre vonatkozó általános szabályok (tartalmi és formai követelmények, érvényesség),
 
@@ -44,17 +44,17 @@ ba) szabályok (feladat, felelősség, összeférhetetlenség, szerződés tarta
 
 bb) vonatkozó szabványok,
 
-bc)[^162] az építési-bontási hulladék kezelése,
+bc)[^182] az építési-bontási hulladék kezelése,
 
 bd) szakterületi igény szerinti mértékben a településrendezési követelmények,
 
 be) a tevékenység végzésével összefüggő egyéb kapcsolódó szakmai területek,
 
-bf)[^163] az építészeti-műszaki dokumentáció és a kivitelezési dokumentáció tartalmi követelményei,
+bf)[^183] az építészeti-műszaki dokumentáció és a kivitelezési dokumentáció tartalmi követelményei,
 
 c) a településtervezési szakterületen a b) pont bc) és bf) alpontjában felsoroltak helyett a szakterületnek megfelelő településrendezési követelmények ismerete.
 
-d)[^164] a magasépítési szakterület műemléki részszakterületén műemlékekkel kapcsolatos emelt szintű ismeretek, ha a szakmagyakorló nem rendelkezik okleveles építészmérnök szakképzettséggel vagy műemlékvédelmi szakmérnöki képesítéssel.
+d)[^184] a magasépítési szakterület műemléki részszakterületén műemlékekkel kapcsolatos emelt szintű ismeretek, ha a szakmagyakorló nem rendelkezik okleveles építészmérnök szakképzettséggel vagy műemlékvédelmi szakmérnöki képesítéssel.
 
 (6) A vizsga szakterületi része az energetikai tanúsítói jogosultság esetén az alábbi ismeretkörökből áll:
 
@@ -76,7 +76,7 @@ h) az energetikai minőség szerinti osztályok, az osztályba sorolás szabály
 
 i) a tanúsítás dokumentálása.
 
-(6a)[^165] Az
+(6a)[^185] Az
 
 a) építészeti-műszaki dokumentációban foglalt, az Épelj. 1. melléklet 3.1.3.3. pontja szerinti, valamint
 
@@ -84,7 +84,7 @@ b) a kivitelezési dokumentációban foglalt, az Épkiv. 1. melléklet 3. rész 
 
 számítást az végezheti, aki az e rendeletben meghatározott feltételeken felül a jogosultsági vizsga szakterületi részének a (6) bekezdésben meghatározott ismeretköreiből sikeres vizsgát tett.
 
-(6b)[^166] A (6a) bekezdésben foglalt feltételeknek megfelelő szakmagyakorlót a névjegyzéket vezető szerv bejegyzi az energetikai tanúsítók névjegyzékébe.
+(6b)[^186] A (6a) bekezdésben foglalt feltételeknek megfelelő szakmagyakorlót a névjegyzéket vezető szerv bejegyzi az energetikai tanúsítók névjegyzékébe.
 
 (7) A vizsga időtartama legfeljebb 120 perc.
 
@@ -96,9 +96,10 @@ számítást az végezheti, aki az e rendeletben meghatározott feltételeken fe
 
 (11) A vizsgaszervező a vizsga eredményét a vizsgát követő legfeljebb 5 napon belül megküldi a szakmagyakorlónak, a letételét igazolja, külön kérelem nélkül gondoskodik az elektronikus nyilvántartásba történő bejegyzéséről.
 
-[^161]: A 39. § (4) bekezdés a) pont ah) alpontját a 286/2024. (IX. 30.) Korm. rendelet 64. § (1) bekezdése iktatta be.
-[^162]: A 39. § (5) bekezdés b) pont bc) alpontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 34. pontja szerint módosított szöveg.
-[^163]: A 39. § (5) bekezdés b) pont bf) alpontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 35. pontja szerint módosított szöveg.
-[^164]: A 39. § (5) bekezdés d) pontját a 229/2023. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
-[^165]: A 39. § (6a) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 64. § (2) bekezdése iktatta be.
-[^166]: A 39. § (6b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 64. § (2) bekezdése iktatta be.
+[^180]: A 39. § (4) bekezdés a) pont nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 33. § 18. pontja szerint módosított szöveg.
+[^181]: A 39. § (4) bekezdés a) pont ah) alpontját a 286/2024. (IX. 30.) Korm. rendelet 64. § (1) bekezdése iktatta be.
+[^182]: A 39. § (5) bekezdés b) pont bc) alpontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 34. pontja szerint módosított szöveg.
+[^183]: A 39. § (5) bekezdés b) pont bf) alpontja a 286/2024. (IX. 30.) Korm. rendelet 69. § 35. pontja szerint módosított szöveg.
+[^184]: A 39. § (5) bekezdés d) pontját a 229/2023. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
+[^185]: A 39. § (6a) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 64. § (2) bekezdése iktatta be.
+[^186]: A 39. § (6b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 64. § (2) bekezdése iktatta be.

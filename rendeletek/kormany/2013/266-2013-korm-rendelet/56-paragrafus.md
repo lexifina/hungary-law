@@ -1,4 +1,4 @@
-56. §[^235] (1) Akik e rendeletnek az egyes építésügyi tárgyú kormányrendeleteknek a magyar építészetről szóló 2023. évi C. törvény hatálybalépésével összefüggő módosításáról szóló 286/2024. (IX. 30.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépéséig[^236] a Módr2.-vel megállapított 39. § (6a) bekezdésében foglalt számítást végezni jogosultak, azt a 39. § (6a) bekezdésében megjelölt vizsga nélkül 2025. január 1-jéig végezhetik.
+56. §[^260] (1) Akik e rendeletnek az egyes építésügyi tárgyú kormányrendeleteknek a magyar építészetről szóló 2023. évi C. törvény hatálybalépésével összefüggő módosításáról szóló 286/2024. (IX. 30.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépéséig[^261] a Módr2.-vel megállapított 39. § (6a) bekezdésében foglalt számítást végezni jogosultak, azt a 39. § (6a) bekezdésében megjelölt vizsga nélkül 2025. január 1-jéig végezhetik.
 
 (2) Kötelező tervezői művezetést az e rendelet hatálybalépését követően megkötött tervezési szerződéssel érintett építőipari kivitelezési tevékenység vonatkozásában kell végezni.
 
@@ -14,7 +14,16 @@
 
 (8) Az a középfokú végzettségű, aki e rendelkezés hatálybalépését megelőzően szerzett kamarai tagság nélküli szakmagyakorlási jogosultságot, e jogosultsághoz kötött tevékenységét e rendelkezés hatálybalépését követően is jogszerűen végezheti.
 
-(9) A (8) bekezdés szerinti szakmagyakorlóval szemben etikai-fegyelmi eljárás a Méptv. 43. § (3) bekezdése szerint folytatható.
+(9)[^262] A (8) bekezdés szerinti szakmagyakorló esetében
 
-[^235]: Az 56. §-t a 286/2024. (IX. 30.) Korm. rendelet 67. §-a iktatta be.
-[^236]: A hatálybalépés időpontja 2024. október 1.
+a) a szakmagyakorlási tevékenység folytatásának feltétele továbbképzési időszakonként a 34. § (3) bekezdése szerinti továbbképzés teljesítése, az adategyeztetési kötelezettség teljesítése és az éves nyilvántartási díj befizetése,
+
+b) a területi kamara titkára vele szemben a 44. § (1) bekezdés a), b) és d) pontjában, (3) bekezdésében, (4) bekezdés a), b), és d)–f) pontjában, (5) bekezdés a)–d), f), g) és j) pontjában, valamint a 45. §-ban foglalt szankciókat alkalmazza,
+
+c) vele szemben etikai-fegyelmi eljárás a Méptv. 43. § (3) bekezdése szerint folytatható, és
+
+d) az a) pont szerinti díjfizetési kötelezettség elmulasztása esetén a területi kamara titkára a díj megfizetéséig megtiltja a szakmagyakorlási tevékenység folytatását.
+
+[^260]: Az 56. §-t a 286/2024. (IX. 30.) Korm. rendelet 67. §-a iktatta be.
+[^261]: A hatálybalépés időpontja 2024. október 1.
+[^262]: Az 56. § (9) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.

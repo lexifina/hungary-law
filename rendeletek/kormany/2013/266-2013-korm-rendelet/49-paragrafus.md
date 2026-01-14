@@ -1,3 +1,3 @@
-49. §[^226]
+49. §[^251]
 
-[^226]: A 49. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 10. pontja újból hatályon kívül helyezte.
+[^251]: A 49. §-t a 286/2024. (IX. 30.) Korm. rendelet 70. § 10. pontja újból hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 23/A. §[^112] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
+## 23/A. §[^127] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
 
-23/B. §[^113] (1) A zöldfelületi tanúsító a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben foglalt feladatokat látja el.
+23/B. §[^128] (1) A zöldfelületi tanúsító a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben foglalt feladatokat látja el.
 
 (2) A zöldfelületi tanúsítvány hitelesítése az OÉNY működését elősegítő elektronikus alkalmazás segítségével történik.
 
@@ -16,7 +16,7 @@ b) a valós állapotnak megfelelő tartalomért,
 
 c) a hiteles zöldfelületi tanúsítvány kiállításához szükséges adatoknak az OÉNY-be való feltöltéséért.
 
-(6) A zöldfelületi tanúsító zöldfelületi tanúsítói szerződést köt a tanúsítványt készíttető megbízóval, valamint nem visszterhes rendszerhasználati szerződést köt a Zöldfelületi Tanúsítvány Nonprofit Korlátolt Felelősségű Társasággal a térinformatikai adatokhoz való hozzáférés és a rendszerhasználat tárgyában. Mindkét szerződést írásban kell megkötni. A szerződések kötelező tartalmi eleme
+(6)[^129] A zöldfelületi tanúsító zöldfelületi tanúsítói szerződést köt a tanúsítványt készíttető megbízóval, valamint nem visszterhes rendszerhasználati szerződést köt a Magyar Kertörökség Alapítvánnyal a térinformatikai adatokhoz való hozzáférés és a rendszerhasználat tárgyában. Mindkét szerződést írásban kell megkötni. A szerződések kötelező tartalmi eleme
 
 a) a szerződés tárgyában megjelölve a vállalt tevékenység, szolgáltatás és az ingatlan helyrajzi száma, pontos megnevezése,
 
@@ -28,7 +28,7 @@ c) a zöldfelületi tanúsítói szerződés esetében a tanúsítás díja mell
 
 (8) A Magyar Építész Kamara a (7) bekezdésben foglalt ellenőrzésen kívül bármely más zöldfelületi tanúsítványt is ellenőrizhet.
 
-(9) A Magyar Építész Kamara a jogszabályi rendelkezések megsértésével kiállított zöldfelületi tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.
+(9)[^130] A Magyar Építész Kamara főtitkára a jogszabályi rendelkezések megsértésével kiállított zöldfelületi tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.
 
 (10) A Magyar Építész Kamara által működtetett független ellenőrzési rendszer keretében a tanúsítványok ellenőrzésében nem vehet részt az a személy,
 
@@ -44,5 +44,7 @@ d) akitől nem várható el az ügy tárgyilagos megítélése.
 
 (12) A kizárás tárgyában a Magyar Építész Kamara elnöke dönt, szükség esetén más ellenőrző személyt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ellenőrző személy járt el. A kizárás tárgyában hozott elnöki döntést az érintett felekkel közölni kell.
 
-[^112]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^113]: A 23/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 61. §-a iktatta be.
+[^127]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^128]: A 23/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 61. §-a iktatta be.
+[^129]: A 23/B. § (6) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 33. § 16. pontja szerint módosított szöveg.
+[^130]: A 23/B. § (9) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 33. § 17. pontja szerint módosított szöveg.
