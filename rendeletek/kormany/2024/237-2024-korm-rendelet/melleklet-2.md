@@ -2,9 +2,9 @@
 
 A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek kredittartalmának megállapítása
 
-I. Ha az építésügyi hatósági feladat ellátásához a kormánytisztviselő szakképzettségét igazoló oklevélből a szakirányú kredittartalom, illetve az 1. melléklet szerinti szakképzettség nem állapítható meg, akkor a kormánytisztviselőnek a szakképzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a II. pont 1–4. alpontjában foglalt táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
+## I. Ha az építésügyi hatósági feladat ellátásához a kormánytisztviselő szakképzettségét igazoló oklevélből a szakirányú kredittartalom, illetve az 1. melléklet szerinti szakképzettség nem állapítható meg, akkor a kormánytisztviselőnek a szakképzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a II. pont 1–4. alpontjában foglalt táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
 
-II. Az építésügyi hatósági feladat ellátásához szükséges képesítési követelmény kredittartalma
+## II. Az építésügyi hatósági feladat ellátásához szükséges képesítési követelmény kredittartalma
 
 1. Természettudományos alapismeretek
 

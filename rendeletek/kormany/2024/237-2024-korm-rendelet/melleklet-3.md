@@ -2,7 +2,7 @@
 
 Az építésügyi hatósági feladat ellátásához biztosítandó eszközök
 
-I. Konfiguráció munkaállomásonként
+## I. Konfiguráció munkaállomásonként
 
 ## Minimum Intel i5 14. generációs vagy ezzel egyenértékű, legalább 6 processzormaggal rendelkező, processzormagonként legalább 2.5 GHz órajelű processzor, minimum 32 GB RAM, 512 GB SSD; legalább 8 GB GDDR6 memória méretű dedikált videókártya, 2 db, minimum 24”-os színes LED monitor, billentyűzet, optikai vagy lézeres egér, pdf-szerkesztő és -olvasó, elektronikus jogtár, 64 Bites Operációs rendszer
 

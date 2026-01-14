@@ -20,10 +20,16 @@ h) településtervezési,
 
 i) településrendezési szakértői,
 
-j) energetikai tanúsítói vagy
+j)[^2] energetikai tanúsítói,
 
-k) zöldfelületi tanúsítói
+k)[^3] zöldfelületi tanúsítói vagy
+
+l)[^4] műemlékvédelmi szakértői
 
 tevékenység olyan építménnyel, telekkel összefüggésben, amely annak az építésügyi hatóságnak az illetékességi területén található, ahol a kormánytisztviselő építésügyi hatósági feladatot lát el.
 
 (2) Az építésügyi hatósági feladatot ellátó kormánytisztviselő – ideértve az építésügyi hatósági feladatot ellátó osztály vagy főosztály vezetőjét is – nem lehet a Magyar Építész Kamara vagy a Magyar Mérnöki Kamara tisztségviselője, bizottságának elnöke, szakmai tagozatának, szakmai kollégiumának vezetője, az építésügyi hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint az építésügyi hatóság illetékességi területén nem láthat el önkormányzati vagy állami főépítészi feladatot.
+
+[^2]: A 10. § (1) bekezdés j) pontja a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdésével megállapított szöveg.
+[^3]: A 10. § (1) bekezdés k) pontja a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdésével megállapított szöveg.
+[^4]: A 10. § (1) bekezdés l) pontját a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdése iktatta be.
