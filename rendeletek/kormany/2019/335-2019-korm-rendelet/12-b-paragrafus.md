@@ -6,7 +6,7 @@ a) a tervezett beavatkozás kiemelkedő egyetemes értékre gyakorolt hatása a 
 
 b) a hatások elkerüléséhez, csökkentéséhez vagy ellensúlyozásához szükséges intézkedések köre a rendelkezésre álló adatok alapján nem határozható meg, és
 
-c) a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 87. § (3) bekezdése szerinti véleménykérésre került sor, és a miniszter a véleményében hatásvizsgálati dokumentáció elkészítését javasolta.
+c)[^17]
 
 (2) A hatásvizsgálati dokumentációt az engedély iránti kérelmet benyújtónak 30 napon belül kell elkészíttetni és a hatóság részére megküldeni.
 
@@ -15,3 +15,4 @@ c) a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2
 (4) Ha a hatásvizsgálati dokumentáció hiányos, a hatóság a miniszter véleményében foglaltak figyelembevételével 15 napon belül 10 napos határidő tűzésével hiánypótlásra hívja fel a kérelmezőt.
 
 [^16]: A 3/A. alcímet (12/B–12/F. §) a 793/2021. (XII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^17]: A 12/B. § (1) bekezdés c) pontját a 449/2025. (XII. 29.) Korm. rendelet 86. §-a hatályon kívül helyezte.

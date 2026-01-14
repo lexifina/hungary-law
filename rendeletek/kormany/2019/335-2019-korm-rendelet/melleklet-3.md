@@ -4,7 +4,7 @@
 
 ## 1. a Részes Állam neve,
 
-## 2. az állam, a régió és a vármegye neve,[^32]
+## 2. az állam, a régió és a vármegye neve,[^33]
 
 ## 3. a felterjesztett helyszín neve,
 
@@ -26,11 +26,11 @@
 
 ## a) a felterjesztő ország neve (és a Részes Állam neve, amennyiben ez eltér),
 
-## b) az állam, a régió és a vármegye neve,[^33]
+## b) az állam, a régió és a vármegye neve,[^34]
 
 ## c) a felterjesztett helyszín neve,
 
-## d) a felterjesztett helyszín földrajzi koordinátáinak megjelölése [sorozatjelölés esetén a helyszín részeit sorszám szerint táblázatban kell felsorolni (név, vármegye vagy kerület, a középpont koordinátái, a felterjesztett terület alapterülete (hektár), a védőövezet alapterülete (hektár), a térkép száma)],[^34]
+## d) a felterjesztett helyszín földrajzi koordinátáinak megjelölése [sorozatjelölés esetén a helyszín részeit sorszám szerint táblázatban kell felsorolni (név, vármegye vagy kerület, a középpont koordinátái, a felterjesztett terület alapterülete (hektár), a védőövezet alapterülete (hektár), a térkép száma)],[^35]
 
 ## e) a felterjesztett helyszín és a hozzá tartozó védőövezet határait ábrázoló térképek,
 
@@ -146,6 +146,6 @@ A kezelési terv részletes tartalmi követelményei
 
 7. Világörökségi terület kezelésének szabályai
 
-[^32]: A 2. melléklet I. pont 2. alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
-[^33]: A 2. melléklet II. pont 1. alpont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
-[^34]: A 2. melléklet II. pont 1. alpont d) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet I. pont 2. alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet II. pont 1. alpont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet II. pont 1. alpont d) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
