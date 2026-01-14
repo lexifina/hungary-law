@@ -15,3 +15,7 @@
 7. tagállam: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben tagállamként meghatározott állam;
 
 8. tagállami állampolgár: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben tagállami állampolgárként és tagállam állampolgárával azonos megítélés alá eső személyként meghatározott személy.
+
+9.[^1] tervezési alaptérkép: az építőipari tervezések egységes geometriai alapjait biztosító, a hatályos ingatlan-nyilvántartási térképi adatbázis kötelező felhasználásával készített digitális térképi ábrázolás.
+
+[^1]: A 2. § 9. pontját a 448/2025. (XII. 29.) Korm. rendelet 35. §-a iktatta be.
