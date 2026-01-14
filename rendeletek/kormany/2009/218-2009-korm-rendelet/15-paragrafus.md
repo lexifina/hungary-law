@@ -1,3 +1,3 @@
-15. §[^80]
+15. §[^83]
 
-[^80]: A 15. §-t a 121/2019. (V. 27.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
+[^83]: A 15. §-t a 121/2019. (V. 27.) Korm. rendelet 19. § d) pontja hatályon kívül helyezte.
