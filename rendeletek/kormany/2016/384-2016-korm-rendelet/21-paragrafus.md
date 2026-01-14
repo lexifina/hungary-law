@@ -62,7 +62,7 @@ készíthet.
 
 (9)[^39] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja.
 
-(10)[^40] Azokra az ingatlanokra, amelyek a kisajátítási hatóság határozata alapján a kisajátítást kérő tulajdonába kerülnek és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni.
+(10)[^40] Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni, és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
 
 (11)[^41]
 
@@ -75,5 +75,5 @@ készíthet.
 [^37]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
 [^38]: A 21. § (7) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (3) bekezdésével megállapított szöveg.
 [^39]: A 21. § (9) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
-[^40]: A 21. § (10) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
+[^40]: A 21. § (10) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
 [^41]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, a 179/2023. (V. 15.) Korm. rendelet 179. § 13. pontja hatályon kívül helyezte.
