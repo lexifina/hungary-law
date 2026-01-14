@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-339-20-
 | 2023-06-09 | 2020-339-20-22.7 | 228/2023. (VI. 8.) Korm. rendelet |
 | 2024-07-01 | 2020-339-20-22.8 | 160/2024. (VI. 28.) Korm. rendelet |
 | 2024-10-01 | 2020-339-20-22.9 | 257/2024. (VIII. 29.) Korm. rendelet |
+| 2026-01-14 | 2020-339-20-22.10 | 123/2021. (III. 10.) Korm. rendelet |
