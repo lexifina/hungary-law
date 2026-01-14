@@ -8,7 +8,7 @@ c) a szerződő felek közötti kapcsolattartók nevét, beosztását, munkahely
 
 d) a megelőző feltárás 32. §-ban foglaltak alapján meghatározott költségei folyósításának módját és ütemezését,
 
-e)[^169] a megelőző feltárás terepi munkarészének időtartamát, befejezésének időpontját,
+e)[^163] a megelőző feltárás terepi munkarészének időtartamát, befejezésének időpontját,
 
 f) a különleges munkavégzési körülmények esetére vonatkozó rendelkezéseket,
 
@@ -18,7 +18,7 @@ h) a régészeti feladatellátás megkezdését biztosító előleg esetén a fe
 
 i) a tételes költségelszámolás módját és határidejét.
 
-(2)[^170] Ha az örökségvédelmi hatóság a beruházás engedélyezése során előírta a megelőző feltárás módját, a szerződésben az előírtaktól eltérni csak az örökségvédelmi hatóság hozzájárulásával lehet.
+(2)[^164] Ha az örökségvédelmi hatóság a beruházás engedélyezése során előírta a megelőző feltárás módját, a szerződésben az előírtaktól eltérni csak az örökségvédelmi hatóság hozzájárulásával lehet.
 
-[^169]: A 33. § (1) bekezdés e) pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 63. pontja szerint módosított szöveg.
-[^170]: A 33. § (2) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^163]: A 33. § (1) bekezdés e) pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 63. pontja szerint módosított szöveg.
+[^164]: A 33. § (2) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 12. §-ával megállapított szöveg.

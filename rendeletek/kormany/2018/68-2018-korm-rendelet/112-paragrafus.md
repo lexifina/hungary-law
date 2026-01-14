@@ -6,6 +6,6 @@ b) a cselekmény elkövetésének vagy az eltűnésnek az idejét és helyét,
 
 c) az eljáró szerv nevét és ügyszámát.
 
-(2)[^451]
+(2)[^323]
 
-[^451]: A 112. § (2) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 38. § 20. pontja hatályon kívül helyezte.
+[^323]: A 112. § (2) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 38. § 20. pontja hatályon kívül helyezte.

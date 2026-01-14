@@ -1,4 +1,4 @@
-26. §[^150] (1) A Kötv. 20. §-a szerinti régészeti terepmunkáról jelentést kell készíteni, amely tartalmazza
+26. §[^143] (1) A Kötv. 20. §-a szerinti régészeti terepmunkáról jelentést kell készíteni, amely tartalmazza
 
 a) a 2. mellékletben meghatározott tartalmú lelőhely-bejelentő adatlapot,
 
@@ -24,7 +24,7 @@ f) az alkalmazott módszereket, továbbá
 
 g) az előkerült leletek összefoglaló ismertetését.
 
-(4) A jelentés egy példányát a régészeti terepmunka befejezését követő harminc napon belül meg kell küldeni a nyilvántartást vezető hatóságnak, illetve az illetékes örökségvédelmi hatóságnak az Örökségvédelmi Nyilvántartási Rendszeren (a továbbiakban: ÖVNYR) keresztül.
+(4)[^144] A jelentés egy példányát a régészeti terepmunka befejezését követő harminc napon belül meg kell küldeni a nyilvántartást vezető hatóságnak az Örökségvédelmi Nyilvántartási Rendszeren (a továbbiakban: ÖVNYR) keresztül.
 
 (5) A jelentés további egy-egy példányát a régészeti terepmunka befejezését követő harminc napon belül elektronikus úton meg kell küldeni
 
@@ -36,4 +36,5 @@ c) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepm
 
 d) a területi természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a régészeti terepmunka országos jelentőségű védett természeti területen történt.
 
-[^150]: A 26. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^143]: A 26. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^144]: A 26. § (4) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 85. § 36. pontja szerint módosított szöveg.

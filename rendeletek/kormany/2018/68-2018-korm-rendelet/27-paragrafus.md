@@ -1,4 +1,4 @@
-27. §[^151] (1) A régészeti terepmunka dokumentáció tartalmazza
+27. §[^145] (1) A régészeti terepmunka dokumentáció tartalmazza
 
 a) a feltárási naplót,
 
@@ -32,4 +32,4 @@ d) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepm
 
 (7) A régészeti terepmunkát végző intézmény a régészeti terepmunka dokumentáció egy példányát köteles adattárában digitálisan és papír alapon tárolni és megőrizni.
 
-[^151]: A 27. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^145]: A 27. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.

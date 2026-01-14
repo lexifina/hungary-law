@@ -6,7 +6,7 @@
 
 ## 93. § A kulturális javak hatósága ellátja
 
-1.[^429] a kulturális javak vonatkozásában a Kötv.-ben meghatározott hatósági feladatokat, amelyek különösen
+1.[^300] a kulturális javak vonatkozásában a Kötv.-ben meghatározott hatósági feladatokat, amelyek különösen
 
 1.1. a kulturális javak védetté nyilvánítása és védettségének megszüntetése a Kötv. 47–50. §-a alapján,
 
@@ -38,9 +38,9 @@
 
 1.15. örökségvédelmi bírság kiszabása a Kötv. 82. §-a alapján,
 
-1.16.[^430] hatósági döntés a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján,
+1.16.[^301] hatósági döntés a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján,
 
-1.17.[^431] az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 8. § (4) bekezdésében és 25. § (5) bekezdésében foglalt feladatok,
+1.17.[^302] az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 8. § (4) bekezdésében és 25. § (5) bekezdésében foglalt feladatok,
 
 2. a lopott vagy jogellenesen külföldre vitt kulturális javak nemzetközi visszaadásáról szóló, Rómában, 1995. év június hó 24. napján aláírt UNIDROIT Egyezmény kihirdetéséről szóló 2001. évi XXVIII. törvény 3. §-a szerinti megbízott illetékes hatósági feladatokat,
 
@@ -56,16 +56,16 @@
 
 8. a bírósági végrehajtásról szóló 1994. évi LIII. törvény 102. §-a szerinti feladatokat,
 
-9.[^432] a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. §-ában foglalt feladatokat,
+9.[^303] a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. §-ában foglalt feladatokat,
 
 10. a kulturális javak fegyveres összeütközés esetén való védelme tárgyában Hágában, 1954. évi május hó 14. napján kelt nemzetközi egyezmény, valamint az ahhoz csatolt jegyzőkönyv (a kulturális javak háború idején megszállott területről való kivitelének tilalma tárgyában) kihirdetéséről szóló 1957. évi 14. törvényerejű rendelet, valamint a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény Második Kiegészítő Jegyzőkönyvének kihirdetéséről és a Büntető Törvénykönyvről szóló 1978. évi IV. törvény módosításáról szóló 2006. évi XXIX. törvény végrehajtásából eredő, kulturális javakkal kapcsolatos hatósági és központi hivatali feladatokat más érintett szervekkel együttműködésben,
 
 11. a hatósági letétről, valamint a közigazgatási hatósági eljárás során zár alá vett vagy lefoglalt dolgok tárolásáról és értékesítéséről szóló 18/2017. (XII. 15.) IM rendeletben foglalt feladatokat,
 
-12.[^433] a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendeletben az illetékes hatóság feladatait.
+12.[^304] a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendeletben az illetékes hatóság feladatait.
 
-[^429]: A 93. § 1. pontja a 142/2025. (VI. 19.) Korm. rendelet 38. § 18. pontja szerint módosított szöveg.
-[^430]: A 93. § 1.16. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
-[^431]: A 93. § 1.17. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
-[^432]: A 93. § 9. pontja a 142/2025. (VI. 19.) Korm. rendelet 38. § 19. pontja szerint módosított szöveg.
-[^433]: A 93. § 12. pontját a 367/2020. (VII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^300]: A 93. § 1. pontja a 142/2025. (VI. 19.) Korm. rendelet 38. § 18. pontja szerint módosított szöveg.
+[^301]: A 93. § 1.16. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
+[^302]: A 93. § 1.17. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
+[^303]: A 93. § 9. pontja a 142/2025. (VI. 19.) Korm. rendelet 38. § 19. pontja szerint módosított szöveg.
+[^304]: A 93. § 12. pontját a 367/2020. (VII. 28.) Korm. rendelet 4. §-a iktatta be.

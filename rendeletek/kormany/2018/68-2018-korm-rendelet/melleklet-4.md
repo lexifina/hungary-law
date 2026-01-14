@@ -1,6 +1,6 @@
-4. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^478]
+4. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^347]
 
-Hadtörténeti örökség ingatlan elemét bejelentő adatlap adattartalma
+## Hadtörténeti örökség ingatlan elemét bejelentő adatlap adattartalma
 
 1. Hadtörténeti örökség ingatlan elemének megnevezése
 
@@ -30,4 +30,4 @@ Hadtörténeti örökség ingatlan elemét bejelentő adatlap adattartalma
 
 11. Képmelléket
 
-[^478]: A 4. mellékletet a 677/2020. (XII. 28.) Korm. rendelet 84. § 32. pontja hatályon kívül helyezte, újonnan a 142/2025. (VI. 19.) Korm. rendelet 36. § (3) bekezdése iktatta be.
+[^347]: A 4. mellékletet a 677/2020. (XII. 28.) Korm. rendelet 84. § 32. pontja hatályon kívül helyezte, újonnan a 142/2025. (VI. 19.) Korm. rendelet 36. § (3) bekezdése iktatta be.
