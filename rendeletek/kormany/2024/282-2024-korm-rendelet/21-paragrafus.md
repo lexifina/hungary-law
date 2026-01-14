@@ -28,7 +28,7 @@ d) a favizsgáló és faápoló szakmérnök vagy
 
 e) az erdőmérnök.
 
-(6) A szakértői vélemény kiváltható a település főtájépítészének vagy főkertészének állásfoglalásával.
+(6)[^27] A szakértői vélemény kiváltható a település főtájépítészének, főkertészének vagy zöldfelületekért felelős szervezeti egység vezetőjének állásfoglalásával.
 
 (7) A szakértői véleménynek ki kell terjednie a fa kiemelt szakmai, tudományos, település- és kultúrtörténeti szerepének vizsgálatára, valamint a fakivágás javasolt időszakára is.
 
@@ -38,7 +38,7 @@ e) az erdőmérnök.
 
 (10) A hatóság a fás szárú növény kivágása iránti kérelmet elutasítja, ha
 
-a) a kérelmező a fás szárú növény pótlásáról hiánypótlási felhívás ellenére sem nyilatkozott,
+a)[^28] a kérelmező a fás szárú növény 23. § (1) bekezdése szerinti pótlásáról hiánypótlási felhívás ellenére sem nyilatkozott,
 
 b) a fás szárú növény áttelepítése szakmai és településrendezési szempontból célszerű és gazdaságosan kivitelezhető,
 
@@ -47,3 +47,6 @@ c) az a település szempontjából településképi, természetvédelmi vagy k�
 d) a szakértői vélemény vagy a főtájépítészi, főkertészi állásfoglalás szerint a fakivágás indoka nem felel meg az (1) bekezdésben foglaltaknak.
 
 (11) A település szempontjából kiemelt szakmai, tudományos, település- és kultúrtörténeti értéket képviselő fás szárú növény kivágásának kérelmezése esetén a hatóság az eljárás megindításáról szóló értesítést öt napon belül hirdetményi úton, valamint – ha a település ilyennel rendelkezik – a település hivatalos honlapján is közzéteszi a környezet védelmének általános szabályairól szóló törvényben meghatározott ügyféli jogok biztosítása céljából.
+
+[^27]: A 21. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 108. § 13. pontja szerint módosított szöveg.
+[^28]: A 21. § (10) bekezdés a) pontja a 448/2025. (XII. 29.) Korm. rendelet 108. § 14. pontja szerint módosított szöveg.

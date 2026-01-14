@@ -1,10 +1,6 @@
 ## 11. A közhasználatú területen lévő fás szárú növények telepítésére, fenntartására és védelmére vonatkozó különös szabályok
 
-17. § (1) A közhasználatú területen telepítendő fának megfelelő életteret kell biztosítani. Ennek érdekében
-
-a) a fa ültetőgödrének minimális mérete a földlabda átmérőjének kétszerese,
-
-b) az ültetőgödör méretének meghatározásakor az ültetendő fafaj 20 éves korára kifejlődő gyökérzóna kiterjedésének méretét kell figyelembe venni.
+17. § (1)[^25] A közhasználatú területen telepítendő fának megfelelő életteret kell biztosítani. Ennek érdekében az ültetőgödör méretének meghatározásakor az ültetendő fafaj 20 éves korára kifejlődő gyökérzóna kiterjedésének méretét kell figyelembe venni azzal, hogy az nem lehet kevesebb a földlabda átmérőjének kétszeresénél.
 
 (2) Az (1) bekezdés szerinti telepítendő fák esetén megfelelő fahelyet kell biztosítani. Ennek érdekében
 
@@ -33,3 +29,5 @@ b) az újonnan telepített fák öntözhetőségének lehetőségét úgy kell k
 c) a fát a telepítést követő 3–5 évben – a fa fajának és fajtájának megfelelően – rendszeresen kell öntözni.
 
 (6) A közhasználatú területen a fás szárú növény telepítése nem történhet a 2. mellékletben felsorolt fajok egyedeivel.
+
+[^25]: A 17. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 99. §-ával megállapított szöveg.

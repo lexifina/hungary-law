@@ -2,43 +2,53 @@
 
 |  | A | B |
 
-|  | Tudományos név | Magyar név |
+| 1. | Tudományos név | Magyar név |
 
-| 1. | Acacia saligna (Acacia cyanophylla) | fűzlevelű akácia |
+| 2. | Acacia dealbata | ezüst akácia |
 
-| 2. | Acer negundo | zöld juhar |
+| 3. | Acacia saligna (Acacia cyanophylla) | fűzlevelű akácia |
 
-| 3. | Ailanthus altissima | mirigyes bálványfa* |
+| 4. | Acer negundo | zöld juhar |
 
-| 4. | Amorpha fruticosa | gyalogakác |
+| 5. | Ailanthus altissima | mirigyes bálványfa* |
 
-| 5. | Celastrus orbiculatus | keleti fafojtó |
+| 6. | Amelancier x spicata | fürtös fanyarka |
 
-| 6. | Celtis occidentalis | nyugati ostorfa |
+| 7. | Amorpha fruticosa | gyalogakác |
 
-| 7. | Elaeagnus angustifolia | keskenylevelű ezüstfa |
+| 8. | Celastrus orbiculatus | keleti fafojtó |
 
-| 8. | Fraxinus pennsylvanica | amerikai kőris* |
+| 9. | Celtis occidentalis | nyugati ostorfa |
 
-| 9. | Paulownia elongata | smaragdfa |
+| 10. | Elaeagnus angustifolia | keskenylevelű ezüstfa |
 
-| 10. | Paulownia tomentosa | illatos császárfa |
+| 11. | Fallopia baldschuanica (Polygonum baldschuanicum) | tatáriszalag |
 
-| 11. | Prosopis juliflora | meszkitefa |
+| 12. | Fraxinus pennsylvanica | amerikai kőris* |
 
-| 12. | Prunus serotina | kései meggy |
+| 13. | Lycium ferocissimum | afrikai boksztövis |
 
-| 13. | Ptelea trifoliata | hármaslevelű alásfa |
+| 14. | Neltuma chilensis (Prosopis chilensis) | chilei mézgafa |
 
-| 14. | Rhus typhina | torzsás ecetfa |
+| 15. | Paulownia elongata | smaragdfa |
 
-| 15. | Symphoricarpos albus | fehér hóbogyó |
+| 16. | Paulownia tomentosa | illatos császárfa |
 
-| 16. | Symphoricarpos albus var. laevigatus | nyugati hóbogyó |
+| 17. | Prosopis juliflora | meszkitefa |
 
-| 17. | Symphoricarpos x chenaultii | kislevelű hóbogyó |
+| 18. | Prunus serotina | kései meggy |
 
-| 18. | Triadica sebifera (Sapium sebiferum) | kínai faggyúfa |
+| 19. | Ptelea trifoliata | hármaslevelű alásfa |
+
+| 20. | Rhus typhina | torzsás ecetfa |
+
+| 21. | Symphoricarpos albus | fehér hóbogyó |
+
+| 22. | Symphoricarpos albus var. laevigatus | nyugati hóbogyó |
+
+| 23. | Symphoricarpos x chenaultii | kislevelű hóbogyó |
+
+| 24. | Triadica sebifera (Sapium sebiferum) | kínai faggyúfa |
 
 3. melléklet a 282/2024. (IX. 30.) Korm. rendelethez
 

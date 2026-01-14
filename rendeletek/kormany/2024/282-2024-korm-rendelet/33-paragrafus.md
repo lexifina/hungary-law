@@ -1,6 +1,10 @@
 33. § (1) A zöldfelületi tanúsító tevékenysége elvégzéséért díjra jogosult, amelyet a tanúsítás elkészítésére fordított idő alapján úgy kell megállapítani, hogy a tanúsítás díja megkezdett óránként a havi minimálbér 5%-át nem haladhatja meg. Ezen igényt – díjjegyzékkel alátámasztva – a szerződéskötéskor és a tanúsítás elkészítésekor, átadásakor érvényesíteni kell.
 
-(2) A zöldfelületi tanúsítás elszámolható időigénye legfeljebb 16 munkaóra.
+(2)[^49] A zöldfelületi tanúsítás elszámolható időigénye
+
+a) 7500 m2-t nem meghaladó teleknagyság esetében legfeljebb 16 munkaóra,
+
+a) 7500 m2-t meghaladó teleknagyság esetében legfeljebb 32 munkaóra.
 
 (3) A díjjegyzékben részletezni kell a tanúsítási tevékenységre fordított időt és az óradíjat, a felmerült költséget és az ezeket terhelő általános forgalmi adó összegét.
 
@@ -11,3 +15,5 @@
 (6) A zöldfelületi tanúsító a tanúsítási tevékenység során köteles költségkímélő megoldásokat alkalmazni.
 
 (7) Az (1)–(6) bekezdés szerinti díjat és egyéb költségeket a tanúsítás folyamatának 32. § (4) bekezdése szerinti lezárását követően kell megfizetni.
+
+[^49]: A 33. § (2) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 104. §-ával megállapított szöveg.

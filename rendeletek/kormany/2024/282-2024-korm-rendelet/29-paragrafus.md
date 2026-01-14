@@ -28,7 +28,7 @@ ae) a telek biológiailag aktív és inaktív felületeinek arányát,
 
 af) a telek zöldtérfogatát,
 
-ag) a telek teljes értékű zöldfelületeinek alapterületi arányát,
+ag)[^40] a telek – a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerinti – teljes értékű zöldfelületeinek alapterületi arányát,
 
 ah) a telek nem teljes értékű zöldfelületeinek alapterületi arányát,
 
@@ -38,7 +38,7 @@ c) a zöldfelület-minősítési kategóriát és a CO2 megkötését,
 
 d) a tanúsító adatait,
 
-e) a zöldfelületi tanúsítvány kiállításának időpontját és a 35. § (1) bekezdése szerinti lejárati idejét,
+e)[^41] a zöldfelületi tanúsítvány kiállításának időpontját és a 35. § (1) bekezdése szerinti érvényességi határidejét,
 
 f) a zöldfelületi tanúsítvány azonosító kódját és
 
@@ -52,4 +52,8 @@ g) a zöldfelületi tanúsítványnak az Országos Építésügyi Nyilvántartá
 
 (6) Az (1) bekezdés e) pontjában meghatározott fotódokumentációnak legalább 5, különböző nézetből készített képet kell tartalmaznia.
 
-(7) Építéshez kapcsolódó tanúsítás esetén a zöldfelületi tanúsítvány „Összefoglaló lap” elnevezésű lapjához az építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció zöldtérfogatot igazoló számítását csatolni kell.
+(7)[^42]
+
+[^40]: A 29. § (2) bekezdés a) pont ag) alpontja a 448/2025. (XII. 29.) Korm. rendelet 108. § 24. pontja szerint módosított szöveg.
+[^41]: A 29. § (2) bekezdés e) pontja a 448/2025. (XII. 29.) Korm. rendelet 108. § 25. pontja szerint módosított szöveg.
+[^42]: A 29. § (7) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 109. § c) pontja hatályon kívül helyezte.

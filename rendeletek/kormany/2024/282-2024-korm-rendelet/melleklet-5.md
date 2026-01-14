@@ -1,70 +1,84 @@
-| JOGSZABÁLYI MEGFELELÉS | Településtervnek, zöldfelületre vonatkozó országos előírásoknak való megfelelés | telek paraméterei alapján a megfelelést állapítja meg (a zöldfelületi arány nagyobb-e, mint a kötelező legkisebbik arány előírás, telken található fák darabszáma nagyobb-e, mint az előírásban foglalt fa darabszám minimum, ha beültetési kötelezettség, előírás vonatkozik a telekre, azt teljesíti-e) | igen/nem adat |
+|  | A | B | C | D |
 
-| Biológiai aktivitás értéknek való megfelelés | a telek biológiai aktivitásértékét, előírásoknak való megfelelését állapítja meg | igen/nem adat |
+| 1. | JOGSZABÁLYI MEGFELELÉS | Településtervnek, zöldfelületre vonatkozó országos előírásoknak való megfelelés | a telek paraméterei alapján a megfelelést állapítja meg (a zöldfelületi arány nagyobb-e, mint a kötelező legkisebbik arány előírás, telken található fák darabszáma nagyobb-e, mint az előírásban foglalt fa darabszám minimum, ha beültetési kötelezettség, előírás vonatkozik a telekre, azt teljesíti-e) | igen/nem adat |
 
-| Véderdő szegély | TAK-TKR, HÉSZ-ban jelölt védőterület vagy védősáv a védelmi célnak megfelelő kialakítású, szintezettségű, szélességű, összetételű | igen/nem adat |
+| 2. |  | Biológiai aktivitás értéknek való megfelelés | a telek biológiai aktivitásértékét, előírásoknak való megfelelését állapítja meg | igen/nem adat |
 
-| MENNYISÉGI INDEX | Az ingatlan összesített adatai | helyrajzi szám / telek méret | hrsz., m2 adat |
+| 3. |  | Véderdő szegély | TAK-TKR, HÉSZ-ben jelölt védőterület vagy védősáv a védelmi célnak megfelelő kialakítású, szintezettségű, szélességű, összetételű | igen/nem adat |
 
-| Zöldfelület összterülete | telken található összes zöldfelület összege | m2 adat |
+| 4. | MENNYISÉGI INDEX | Az ingatlan összesített adatai | helyrajzi szám / telek méret | hrsz., m2 adat |
 
-| Zöldfelület magassága | a telken található életképes, fotoszintetizáló növényzet terepszinttől becsült magassági értéke | m adat |
+| 5. |  | Zöldfelület összterülete | a telken található összes zöldfelület összege | m2 adat |
 
-| Fa darabszám | telken található összes fa darabszáma | db adat |
+| 6. |  | Zöldfelület magassága | a telken található életképes, fotoszintetizáló növényzet terepszinttől becsült magassági értéke | m adat |
 
-| Zöldtérfogat | telken található össznövényzet térfogat adata | m3 adat |
+| 7. |  | Fa darabszám | a telken található összes fa darabszáma | db adat |
 
-| Fa lombtérfogat | telken található fák össztérfogat adata | m3 adat |
+| 8. |  | Zöldtérfogat | a telken található össznövényzet térfogat adata | m3 adat |
 
-| Zöldfelületi arány | Az ingatlan területén az átlagosan egy négyzetméterre jutó zöldfelületet jelenti. | m2/m2 adat |
+| 9. |  | Fa lombtérfogat | a telken található fák össztérfogat adata | m3 adat |
 
-| Zöldtérfogat arány | Az egy négyzetméterre jutó zöldtérfogatot jelenti. | m3/m2 adat |
+| 10. |  | Zöldfelületi arány | az ingatlan területén az átlagosan egy négyzetméterre jutó zöldfelületet jelenti | m2/m2 adat |
 
-| Lombtérfogat arány | Az egy négyzetméterre jutó lombtérfogatot jelenti. | m3/m2 adat |
+| 11. |  | Zöldtérfogat arány | az egy négyzetméterre jutó zöldtérfogatot jelenti | m3/m2 adat |
 
-| Fedettség | fák által fedett terület és teljes telek terület hányadosa | % adat |
+| 12. |  | Lombtérfogat arány | az egy négyzetméterre jutó lombtérfogatot jelenti | m3/m2 adat |
 
-| Nyílt talajfelszín | növényzettel nem fedett talajfelszín területe | m2 adat |
+| 13. |  | Fedettség | a fák által fedett terület és teljes telek terület hányadosa | % adat |
 
-| MINŐSÉGI INDEX | Biodiverzitás | telken található, nem adventív növényfajok számadatából adódó pontszám | >100 faj = +50 pont 60–100 faj = +25 pont 30–59 faj = 0 pont 10–29 faj = –25 pont 0–9 faj = –50 pont |
+| 14. |  | Nyílt talajfelszín | a növényzettel nem fedett talajfelszín területe | m2 adat |
 
-| Invazív fajok | telken található inváziós fajokkal fertőzött területek arányából adódó pontszám | 0% = 0 pont 1–5% = –15 pont 5–20% = –30 pont 20–50% = –45 pont >50% = –60 pont |
+| 15. | MINŐSÉGI INDEX | Biodiverzitás | a telken található, nem adventív növényfajok számadatából adódó pontszám | >100 faj = +50 pont 60–100 faj = +25 pont 30–59 faj = 0 pont 10–29 faj = –25 pont 0–9 faj = –50 pont |
 
-| Élőhelyteremtés | élőhelytípusok darabszámából adódó pontszám (madárodúk, gyíkvárak, rovarhotelek, sünlakok, állatvilág számára táplálékot nyújtó vad gyümölcstermő növények, itatóhelyek, búvóhelyek stb.) | >4 elem = +25 pont 4 féle elem = +15 pont 1–3 féle elem = 0 pont 0 elem = –25 pont |
+| 16. |  | Invazív fajok | a telken található inváziós fajokkal fertőzött területek arányából adódó pontszám | 0% = 0 pont 1–5% = –15 pont 5–20% = –30 pont 20–50% = –45 pont >50% = –60 pont |
 
-| Védett növények | védett növény jelenlétéből adódó pontszám | igen = +25 pont nem = 0 pont |
+| 17. |  | Élőhelyteremtés | az élőhelytípusok darabszámából adódó pontszám (madárodúk, gyíkvárak, rovarhotelek, sünlakok, állatvilág számára táplálékot nyújtó vad gyümölcstermő növények, itatóhelyek, búvóhelyek stb.) | >4 elem = +25 pont 4 féle elem = +15 pont 1–3 féle elem = 0 pont 0 elem = –25 pont |
 
-| Egynyári dísznövény | egynyári dísznövénykiültetés jelenlétéből adódó pontszám | <10 m2 = 0 pont ≥10 m2 = -25 pont |
+| 18. |  | Védett növények | a védett növény jelenlétéből adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| Csapadékvízgazdálkodási index | telken található-e csapadékvíz hasznosítást elősegítő elem (250 m2-t elérő, meghaladó zöldtető, esőkert, záportározó, csapadékvízről történő öntözés) | igen = +25 pont nem = 0 pont |
+| 19. |  | Egynyári dísznövény | az egynyári dísznövénykiültetés jelenlétéből adódó pontszám | <100 m2 = 0 pont ≥100 m2 = –15 pont |
 
-| Zöldhomlokzat, zöldfal, zöldtető | a legfeljebb 15% lejtésű épülettető legalább 50%-a zöldfelületként kialakított, és/vagy legalább 100 m2 felületű zöldhomlokzat vagy zöldfal jelenlétéből adódó pontszám | igen = +25 pont nem = 0 pont |
+| 20. |  | Csapadékvíz- gazdálkodási index | nincs csapadékvíz hasznosítás, a telekre érkező vizek nem hasznosulnak a telken belül: | igen = –25 pont |
 
-| Hősziget hatást erősítő tényezők | hősziget hatású felületek jelenétéből adódó pontszám | nem = 0 pont igen = –25 pont |
+| zöldfelületen elszikkadnak az oda érkező csapadékvizek, tisztítás nélkül van a zöldfelületekre vezetve az utakra, parkolóra érkező csapadékvíz: | igen = –12 pont |
 
-| FUNKCIONÁLIS INDEX | Szociális és közösségi ültetvény | 250 m2-t meghaladó közösségi vagy szociális célú ültetvény jelenétéből adódó pontszám | igen = +25 pont nem = 0 pont |
+| zöldfelületen elszikkadnak az oda érkező csapadékvizek, de az egyéb felületekre érkező vizek nincsenek helyben kezelve: | igen = 0 pont |
 
-| Látogathatóság, közösségi célú zöldfelülethasználat | a telken található zöldfelület min 10%-a közhasználat céljára átadott | igen = +25 pont nem = 0 pont |
+| zöldfelületen elszikkadnak az oda érkező csapadékvizek, lejtős telken a zöldfelületeken csapadékvíz szikkasztást elősegítő elemek vannak, és a gyalogos felületekre érkező vizek zöldfelületre vannak vezetve/telken belül biztosított a megtartásuk: | igen = +12 pont |
 
-| FENNTARTÁSI INDEX | Fenntartási kézikönyv | Zöldfelületfenntartási kézikönyv meglétéből adódó pontszám | igen = +25 pont nem = 0 pont |
+| zöldfelületen elszikkadnak az oda érkező csapadékvizek, tetőre érkező csapadékvíz gyűjtése, telken belüli hasznosítása (szürkevízként, öntözésre): | igen: +12 pont |
 
-| Zöldfelületek mulcsozottsága | Évelő- és cserjefelület és faállomány aljnövényzet mulcsozottságából adódó pontszám | igen = +25 pont nem = 0 pont |
+| zöldfelületen elszikkadnak az oda érkező csapadékvizek, a tetőfelületekre és az utakra hulló csapadékvizek tisztítást követően zöldfelületre vannak vezetve/telken belül biztosított a hasznosításuk (szikkasztás, öntözés): | igen = +25 pont |
 
-| Komposztálás és zöldhulladék kezelése | zöldhulladék helyben kezeléséből adódó pontszám | igen = +25 pont nem = 0 pont |
+| 21. |  | Zöldhomlokzat, zöldfal, zöldtető | a legfeljebb 15% lejtésű épülettető legalább 50%-a zöldfelületként kialakított, illetve legalább 100 m2 felületű zöldhomlokzat vagy zöldfal jelenlétéből adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| Talajtömörödöttség | talaj tömörödöttségéből adódó pontszám | nem tömörödött = 0 pont közepesen töpörödött = –12 pont nagyon tömörödött = –25 pont |
+| 22. |  | Hősziget hatást erősítő tényezők | hősziget hatású felületek jelenétéből adódó pontszám | nem = 0 pont igen = –25 pont |
 
-| TERÜLETI INDEX | Természetvédelmi érintettségű terület | a telek természetvédelmi érintettségéből adódó tényező | az invazív fajokkal fertőzöttség súlyozottan számítódik (pontszám +50%-kal módosul) |
+| 23. | FUNKCIONÁLIS INDEX | Szociális és közösségi ültetvény | 250 m2-t meghaladó közösségi vagy szociális célú ültetvény jelenétéből adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| Örökségvédelmi érintettségű terület | a telek örökségvédelmi érintettségéből adódó tényező | az invazív fajok jegyzékéből kihagyhatók a történeti értékű növényállomány fajai |
+| 24. |  | Látogathatóság, közösségi célú zöldfelülethasználat | a telken található zöldfelület min. 10%-a közhasználat céljára átadott | igen = +25 pont nem = 0 pont |
 
-| Agrárterület szomszédságában elhelyezkedő terület | agrárterülettel határos telekhatár mentén védőfásítás meglétéből adódó pontszám | nem = 0 pont igen = –25 pont |
+| 25. | FENNTARTÁSI INDEX | Fenntartási kézikönyv | zöldfelület-fenntartási kézikönyv meglétéből adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| Vízfolyás melletti 50 m-es sávban elhelyezkedő terület | telek vízfolyás menti elhelyezkedéséből adódó tényező | az invazív fajokkal fertőzöttség súlyozottan számítódik (pontszám +50%-kal módosul) |
+| 26. |  | Zöldfelületek mulcsozottsága | évelő- és cserjefelület és faállomány aljnövényzet mulcsozottságából adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| ÉRTÉK INDEX | Zöldfelület CO2 megkötő képessége | a zöldfelület CO2 megkötése egy év alatt | kg/év adat |
+| 27. |  | Komposztálás és zöldhulladék kezelése | a zöldhulladék helyben kezeléséből adódó pontszám | igen = +25 pont nem = 0 pont |
 
-| Zöldvagyon értékszámítás | a telken található növényzet értéke, telekre vetített értéke | Ft, Ft/telek m2 |
+| 28. |  | Talajtömörödöttség | a talaj tömörödöttségéből adódó pontszám | nem tömörödött = 0 pont közepesen tömörödött = –12 pont nagyon tömörödött = –25 pont |
+
+| 29. |  | Nyílt talajfelszín | a nyílt talajfelszín meglétéből adódó pontszám | igen = –25 pont nem = 0 pont |
+
+| 30. | TERÜLETI INDEX | Természetvédelmi érintettségű terület | a telek természetvédelmi érintettségéből adódó tényező | az invazív fajokkal fertőzöttség súlyozottan számítódik (pontszám +50%-kal módosul) |
+
+| 31. |  | Örökségvédelmi érintettségű terület | a telek örökségvédelmi érintettségéből adódó tényező | az invazív fajok jegyzékéből kihagyhatók a történeti értékű növényállomány fajai |
+
+| 32. |  | Agrárterület szomszédságában elhelyezkedő terület | az agrárterülettel határos telekhatár mentén védőfásítás meglétéből adódó pontszám | igen = 0 pont nem = –25 pont |
+
+| 33. |  | Vízfolyás melletti 50 m-es sávban elhelyezkedő terület | a telek vízfolyás menti elhelyezkedéséből adódó tényező | az invazív fajokkal fertőzöttség súlyozottan számítódik (pontszám +50%-kal módosul) |
+
+| 34. | ÉRTÉK INDEX | Zöldfelület CO2 megkötő képessége | a zöldfelület CO2 megkötése egy év alatt | kg/év adat |
+
+| 35. |  | Zöldvagyon értékszámítás | a telken található növényzet értéke, telekre vetített értéke | Ft, Ft/telek m2 |
 
 5. melléklet a 282/2024. (IX. 30.) Korm. rendelethez
 

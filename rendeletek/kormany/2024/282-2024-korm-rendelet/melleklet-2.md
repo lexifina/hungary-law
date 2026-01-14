@@ -1,17 +1,17 @@
-|  | A | B |
+## a. HLomb = Hfa – Htörzs
 
-| 1. | 1 lombköbméter | 10–12 cm törzskörméretű fa |
+## lombkorona magasság = fa teljes magassága – fa törzsmagassága
 
-| 2. | 1 lombköbméter | 4 m2 természetes gyeptársulás |
+## b. Lombkorona zöldtérfogatának számítása:
 
-| 3. | 1 lombköbméter | 4 m2 évelő |
+## (4 * π * (HLomb /2) * (DLomb / 2) * (DLomb / 2))
 
-| 4. | 1 lombköbméter | 5 m2 egynyári virágágy |
+## —————————————————————————— = Vlomb
 
-| 5. | 1 lombköbméter | 3 m2 cserje |
+## 3
 
-| 6. | 1 lombköbméter | 15 m2 pázsit |
-
-2. melléklet a 282/2024. (IX. 30.) Korm. rendelethez
+2. melléklet a 282/2024. (IX. 30.) Korm. rendelethez[^59]
 
 Inváziós fajú fás szárú növények
+
+[^59]: A 2. melléklet a 448/2025. (XII. 29.) Korm. rendelet 107. § (2) bekezdésével megállapított szöveg.
