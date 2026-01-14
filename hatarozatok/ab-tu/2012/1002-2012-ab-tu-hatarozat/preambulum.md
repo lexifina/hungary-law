@@ -1,1 +1,0 @@
-Az Alkotmánybíróság az Alkotmánybíróságról szóló 2011. évi CLI. törvény 44. §-a és az Alkotmánybíróság Ügyrendjéről szóló 1/2012. (I. 3.) Tü. határozat 56. § (7) bekezdése alapján – tekintettel a jogalkotásról szóló 2010. évi CXXX. törvény 28/A–28/C. §-ára is – az Alkotmánybíróság döntései megjelölésének és közzétételének egyes szabályait az alábbiakban állapítja meg:
