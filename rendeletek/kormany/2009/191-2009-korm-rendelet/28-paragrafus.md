@@ -1,6 +1,6 @@
 ## Felmérési napló
 
-28. § (1) Az építési-szerelési munka mennyiségének folyamatos ellenőrzése céljából – az építési napló mellékleteként – a kivitelező a 3. melléklet szerinti tartalommal felmérési naplót vezet, ha az építtetővel kötött szerződésben a felmérést tekintik az elvégzett munkák mennyiségének elszámolási alapjául.
+28. § (1)[^312] Az építési-szerelési munka mennyiségének folyamatos ellenőrzése céljából – az építési napló mellékleteként – a fővállalkozó kivitelező a 3. melléklet szerinti tartalommal felmérési naplót vezet, ha az építtetővel kötött kivitelezési szerződésben a felmérést tekintik az elvégzett munkák mennyiségének elszámolási alapjául.
 
 (2) Nem kell felmérési naplót vezetni, ha
 
@@ -10,6 +10,7 @@ b) a felmérési napló a kivitelezési dokumentáció idom- és méretjegyzék�
 
 c) a felmérési adatokat a szintezési jegyzőkönyv, a keresztszelvényrajzok és a tömegszámítások tartalmazzák.
 
-(3)[^284]
+(3)[^313]
 
-[^284]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 22. pontja hatályon kívül helyezte.
+[^312]: A 28. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 18. § 7. és 34. pontja szerint módosított szöveg.
+[^313]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, a 286/2024. (IX. 30.) Korm. rendelet 47. § 22. pontja hatályon kívül helyezte.

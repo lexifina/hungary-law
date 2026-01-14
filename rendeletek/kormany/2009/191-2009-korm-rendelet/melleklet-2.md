@@ -230,9 +230,9 @@
 
 ## Részletes, minden szakágra kiterjedő árazatlan tételes költségvetés-kiírás, mennyiségi kimutatással.
 
-## 8. Építésszervezési munkarész
+## 8.[^423] Építésszervezési munkarész
 
-## A kivitelező által készített munkarész a tervezett építmény építőipari kivitelezési feladatainak megszervezéséhez szükséges részletezettségben tartalmazza:
+## A vállalkozó kivitelező által készített munkarész a tervezett építmény építőipari kivitelezési feladatainak megszervezéséhez szükséges részletezettségben tartalmazza:
 
 ## a) az egyesített közmű, genplan tervet, az építmények és a közművek összefüggéseinek áttekintését szolgáló elrendezési és időbeli fázisterveit,
 
@@ -260,6 +260,7 @@
 
 ## anyagjelölésekkel, konszignációval.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^384]
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^424]
 
-[^384]: A 2. mellékletet a 286/2024. (IX. 30.) Korm. rendelet 47. § 31. pontja hatályon kívül helyezte.
+[^423]: Az 1. melléklet II. rész 8. pontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 42. pontja szerint módosított szöveg.
+[^424]: A 2. mellékletet a 286/2024. (IX. 30.) Korm. rendelet 47. § 31. pontja hatályon kívül helyezte.

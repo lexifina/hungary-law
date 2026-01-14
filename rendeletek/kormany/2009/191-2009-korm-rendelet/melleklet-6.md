@@ -1,3 +1,3 @@
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^387]
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^427]
 
-[^387]: A 6. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 93. § t) pontja hatályon kívül helyezte.
+[^427]: A 6. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 93. § t) pontja hatályon kívül helyezte.

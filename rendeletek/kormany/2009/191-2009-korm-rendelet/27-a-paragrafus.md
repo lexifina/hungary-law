@@ -1,4 +1,4 @@
-27/A. §[^282] (1) Az e-főnapló és az e-alnapló az alábbiakból áll:
+27/A. §[^302] (1) Az e-főnapló és az e-alnapló az alábbiakból áll:
 
 a) címoldal, amely tartalmazza az építmény megnevezése és címe mellett, az e-főnapló és e-alnapló készenlétbe helyezésének és lezárásának keltét,
 
@@ -18,9 +18,9 @@ bf) az építési műszaki ellenőr nevét, címét, elérhetőségét, névjegy
 
 bg) a vállalkozó kivitelező nevét, megnevezését, címét, székhelyét vagy telephelyét, a vállalkozói engedély vagy cégbírósági bejegyzés számát, a vállalkozó kivitelezők nyilvántartása szerinti számát, naplóbejegyzésre jogosult képviselőjének nevét, valamint a felelős műszaki vezető nevét, címét, elérhetőségét, névjegyzéki jelölését és szakágát,
 
-bh) az alvállalkozó kivitelező nevét, megnevezését, címét, székhelyét vagy telephelyét, a vállalkozói engedély vagy cégbírósági bejegyzés számát, a vállalkozói kivitelezők nyilvántartása szerinti számát, naplóbejegyzésre jogosult képviselőjének nevét, a munkanem megnevezését, az építési munkaterület átadásának időpontját és annak szerződés szerinti határidejét, a felelős műszaki vezető nevét, címét, elérhetőségét, névjegyzéki jelölését és szakágát,
+bh)[^303] az alvállalkozó kivitelező nevét, megnevezését, címét, székhelyét vagy telephelyét, a vállalkozói engedély vagy cégbírósági bejegyzés számát, a vállalkozói kivitelezők nyilvántartása szerinti számát, naplóbejegyzésre jogosult képviselőjének nevét, a munkanem megnevezését, az építési munkaterület átadásának időpontját és annak kivitelezési szerződés szerinti határidejét, a felelős műszaki vezető nevét, címét, elérhetőségét, névjegyzéki jelölését és szakágát,
 
-bi) az alvállalkozó kivitelező döntését arról, hogy az e-alnaplót önállóan vezeti vagy a megrendelő vállalkozó kivitelező az e-alnapló vezetését a szerződésben átvállalta, amely esetben a megrendelő vállalkozó kivitelező naplóbejegyzésre jogosult képviselőjének nevét,
+bi)[^304] az alvállalkozó kivitelező döntését arról, hogy az e-alnaplót önállóan vezeti vagy a megrendelő vállalkozó kivitelező az e-alnapló vezetését a kivitelezési szerződésben átvállalta, amely esetben a megrendelő vállalkozó kivitelező naplóbejegyzésre jogosult képviselőjének nevét,
 
 bj) építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő nevét, megnevezését, címét, székhelyét, képviseletében eljáró személy nevét, elérhetőségét,
 
@@ -52,7 +52,7 @@ de) az eltakart munkarészekkel kapcsolatos adatokról, megrendelői észrevéte
 
 df) az építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység esetén az alapozás elkészültéről,
 
-dg) a műszakilag és az elszámolás szempontjából fontos tényekről, különösen a felek közléseit és kifogásait a tervekkel, a költségvetéssel, valamint ezek módosításával, továbbá a kivitelezéssel kapcsolatban,
+dg)[^305] a műszakilag és az elszámolás szempontjából fontos tényekről, különösen a felek közléseit és kifogásait a tervekkel, a költségvetéssel, valamint ezek módosításával, továbbá az építőipari kivitelezési tevékenységgel kapcsolatban,
 
 dh) többletmunka, pótmunka szükségességéről,
 
@@ -62,7 +62,7 @@ dj) az anyagok, készszerkezetek, szerkezetrészek, próbatestek vizsgálatáró
 
 dk) a naplómellékletek feltöltéséről,
 
-dl) az építőipari kivitelezési tevékenység közben keletkezett károk felvételéről a megrendelővel, az alvállalkozókkal,
+dl)[^306] az építőipari kivitelezési tevékenység közben keletkezett károk felvételéről a megrendelővel, az alvállalkozó kivitelezőkkel,
 
 dm) a speciális munkák adatairól, ha azokról nincs külön e-főnapló vagy e-alnapló,
 
@@ -78,9 +78,13 @@ dr) a kivitelezési dokumentációtól való eltérés részletes és egyértelm
 
 ds) az építészeti-műszaki dokumentációtól való eltéréshez szükséges építész tervezői nyilatkozat elmaradásáról,
 
-dt) a területi építész kamara nyilatkozatának feltöltéséről és
+dt)[^307] a területi építész kamara nyilatkozatának feltöltéséről,
 
-du) egyéb bejegyzésekről,
+du)[^308] a „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorló nyilatkozatának elmaradásáról,
+
+dv)[^309] az építésügyi hatóság értesítése helyszíni szemle, hatósági ellenőrzés időpontjáról, és
+
+dw)[^310] egyéb bejegyzésekről.
 
 e) az építész tervezői nyilatkozata, amely tartalmazza
 
@@ -112,4 +116,12 @@ gf) a 14. § szerinti nyilatkozatot.
 
 (3) Az e-főnapló és e-alnapló nyilvántartási oldalait a napló megnyitásakor kell kitölteni. A még nem ismert adatokat azok tudomásra jutásakor kell rögzíteni.
 
-[^282]: A 27/A. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^302]: A 27/A. §-t a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^303]: A 27/A. § (1) bekezdés b) pont bh) alpontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^304]: A 27/A. § (1) bekezdés b) pont bi) alpontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
+[^305]: A 27/A. § (1) bekezdés d) pont dg) alpontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 32. pontja szerint módosított szöveg.
+[^306]: A 27/A. § (1) bekezdés d) pont dl) alpontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 33. pontja szerint módosított szöveg.
+[^307]: A 27/A. § (1) bekezdés d) pont dt) alpontja a 448/2025. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^308]: A 27/A. § (1) bekezdés d) pont du) alpontja a 448/2025. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^309]: A 27/A. § (1) bekezdés d) pont dv) alpontját a 448/2025. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^310]: A 27/A. § (1) bekezdés d) pont dw) alpontját a 448/2025. (XII. 29.) Korm. rendelet 14. §-a iktatta be.

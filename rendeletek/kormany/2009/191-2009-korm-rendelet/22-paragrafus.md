@@ -2,7 +2,7 @@
 
 ## A KIVITELEZÉSI DOKUMENTÁCIÓ
 
-22. §[^240] (1) Kivitelezési dokumentáció alapján végezhető
+22. §[^251] (1) Kivitelezési dokumentáció alapján végezhető
 
 a) az építésügyi hatósági engedélyhez vagy az egyszerű bejelentéshez kötött építési tevékenység,
 
@@ -48,13 +48,13 @@ e) építésének és beépítésének technológiai feltételeit, valamint
 
 f) költségeinek meghatározásához szükséges adatokat.
 
-(4)[^241] A kivitelezési dokumentációt – egyszerű bejelentéshez kötött építési tevékenység esetében a (2) bekezdésben foglaltakra figyelemmel – az 1. melléklet szerint kell elkészíteni.
+(4)[^252] A kivitelezési dokumentációt – egyszerű bejelentéshez kötött építési tevékenység esetében a (2) bekezdésben foglaltakra figyelemmel – az 1. melléklet szerint kell elkészíteni.
 
 (5) A kivitelezési dokumentációnak a (4) bekezdésben meghatározottakon túl tartalmaznia kell
 
 a) a nemzeti emléknek minősülő műemlék építmény esetén a jogszabályban vagy hatósági döntésben előírt meghatározott tartalmú dokumentációt,
 
-b) a 22. § (1) bekezdés c) pontja szerinti építési tevékenység esetén az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet 11. § (2) bekezdése szerinti munkatervet,
+b)[^253] a 22. § (1) bekezdés c) pontja szerinti építési tevékenység esetén az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló miniszteri rendelet szerinti munkatervet,
 
 c) ha az építőipari kivitelezési tevékenység során a légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (1) bekezdésében meghatározott repülőtér vonatkozási pontjától számított
 
@@ -66,5 +66,6 @@ daru vagy a ca) és cb) alpontban foglaltakon kívüli esetben 60 méternél mag
 
 (6) A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyhez tartozó záradékolt vagy az egyszerű bejelentés építészeti-műszaki dokumentációban foglaltaktól kivéve, ha maga az eltérés nem építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység.
 
-[^240]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^241]: A 22. § (4) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^251]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^252]: A 22. § (4) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^253]: A 22. § (5) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
