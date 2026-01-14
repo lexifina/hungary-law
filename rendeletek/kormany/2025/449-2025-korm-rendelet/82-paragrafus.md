@@ -1,0 +1,1 @@
+82. § A kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet 3. § 8. pontjában az „a kulturális örökség védelmével” szövegrész helyébe az „a műemlékvédelemmel” szöveg lép.

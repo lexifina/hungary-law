@@ -1,0 +1,3 @@
+23. § (1) A műemlék alkotórésze, tartozéka, beépített berendezési tárgya, növényzete és kerti építménye – a kivitelezési, restaurálási munkák miatt szükséges ideiglenes eltávolítás kivételével – csak különösen indokolt esetben távolítható el vagy helyezhető át, az így eltávolított alkotórész, tartozék, berendezés helyben, a műemlék ingatlanán történő biztonságos megőrzését, vagy múzeumi elhelyezését kell előnyben részesíteni.
+
+(2) A nevesített műemléki értéket, illetve képző- és iparművészeti értéket képviselő alkotórész, tartozék, beépített berendezési tárgy (1) bekezdés szerinti eltávolítása, áthelyezése csak szakértői jogosultsággal rendelkező restaurátor közreműködésével, az általa készített terv alapján, a tevékenység dokumentálása mellett végezhető.

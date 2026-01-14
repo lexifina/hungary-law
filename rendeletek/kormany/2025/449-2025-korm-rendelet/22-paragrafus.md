@@ -1,0 +1,7 @@
+22. § (1) A műszaki, gazdaságossági és funkcionális szempontból egyenértékű beavatkozások közül előnyben kell részesíteni a műemléki értékek fennmaradását, érvényesülését szolgáló és visszafordítható megoldásokat, valamint a műemléki érték helyrehozhatatlan sérülése esetén szükségessé váló rekonstrukciókor a műemléki érték építési korszakának megfelelő, magas szakmai igényességű megoldásokat.
+
+(2) A műemlék jókarbantartása keretében a védett érték fizikai sérülésével, roncsolásával vagy megjelenésének megváltoztatásával nem járó tevékenység végezhető. A műemlék jókarbantartása körébe nem tartozik bele a restaurálási tevékenység.
+
+(3) A műemléki helyreállítás vagy felújítás, restaurálás, jókarbantartás, üzemeltetés keretében, valamint a jókarbantartási munkák elvégzését segítő szerkezeti, műszaki megoldások alkalmazása során előnyben kell részesíteni a vezeték nélküli műszaki megoldásokat, egyéb szerelvények rejtett elhelyezését, amely nem eredményezheti a műemléki értékleltárba felvett elemek sérülését, megjelenésük hátrányos megváltozását, érvényesülésük csökkenését. A közmű-infrastruktúra kiépítése, felújítása esetén előnyben kell részesíteni a vezeték nélküli műszaki megoldásokat.
+
+(4) A műemléket érintő állagmegóvási beavatkozások során – amennyiben más megoldás nem lehetséges – ideiglenes jelleggel a védett érték érvényesülésének csökkenése elfogadható, azonban az nem járhat a védett érték műemléki értékleltárba felvett elemeinek sérülésével, megjelenésének öt éven túl tartó hátrányos megváltozásával.

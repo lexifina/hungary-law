@@ -1,0 +1,5 @@
+69. § (1) Az Szja tv. 1. számú melléklet 7.48. pontjában meghatározott adómentesség érvényesítése érdekében a műemlékvédelmi előírásoknak megfelelően felújítás, műemléki helyreállítás igazolására a hatóság a jogosult kérelmére hatósági bizonyítványt ad ki. A hatósági bizonyítvány kiállítását megelőző eljárásra a 68. § (2)–(8) és (10) bekezdésében foglaltakat kell megfelelően alkalmazni, azzal az eltéréssel, hogy az építőipari kivitelezési tevékenységről szóló kormányrendelet szerinti szervizkönyv nem alkalmas a munkák igazolására.
+
+(2) Az (1) bekezdés szerinti hatósági bizonyítvány tartalmazza az ingatlan tulajdonosának nevét és adóazonosító számát, valamint az ingatlan helyrajzi számát, védettségét, valamint az adómentességet magalapozó tevékenység leírását.
+
+(3) Műemlék esetén a megfizetett visszterhes vagyonátruházási és öröklési illeték visszatérítéséhez szükséges tények igazolása céljából a műemléki nyilvántartási hatóság az általa igazolható tények, körülmények tekintetében a jogosult kérelmére hatósági bizonyítványt ad ki.

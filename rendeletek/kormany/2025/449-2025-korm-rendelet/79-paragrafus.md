@@ -1,0 +1,1 @@
+79. § A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet 3. § (4) bekezdésében a „kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemlék” szövegrész helyébe a „műemléki nyilvántartásban szereplő nemzeti emléknek minősülő műemlék” szöveg lép.

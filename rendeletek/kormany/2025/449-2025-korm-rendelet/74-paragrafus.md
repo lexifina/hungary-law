@@ -1,0 +1,1 @@
+74. § Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 8. § (4) bekezdésében és 25. § (5) bekezdésében a „Műemlék” szövegrész helyébe a „Nemzeti emléknek minősülő műemlék” szöveg lép.

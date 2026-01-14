@@ -1,0 +1,5 @@
+25. § (1) Műemléképület homlokzatán a műemléki értékleltárban szereplő, valamint a műemléki területen a védettséget megalapozó értéket jelentő nyílászáró anyagában megőrzendő. Amennyiben ez a nyílászáró állapota miatt nem lehetséges, akkor a hatóság által meghatározott nyílászáró minta alapján, az eredeti forma és anyaghasználat szerinti nyílászárók helyezhetők el.
+
+(2) Műemlékhez történő hozzáépítés, ráépítés, vagy műemlék telkén új építmény, építményrész építése a műemléki érték fennmaradását, érvényesülését, hitelességét, kortörténeti jellegét nem sértheti.
+
+(3) A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.
