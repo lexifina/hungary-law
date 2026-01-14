@@ -4,7 +4,7 @@
 
 (2) A kézikönyv készítése és módosítása során a (3)–(8) bekezdést kell alkalmazni.
 
-(3)[^60] A KNEB írásban kérelmet küld a TTr. 10. mellékletében szereplő azon államigazgatási és adatszolgáltató szerveknek, amelyek adatszolgáltatása szükséges a kézikönyv kidolgozásához vagy módosításához.
+(3)[^61] A KNEB írásban kérelmet küld a TTr. 10. mellékletében szereplő azon államigazgatási és adatszolgáltató szerveknek, amelyek adatszolgáltatása szükséges a kézikönyv kidolgozásához vagy módosításához.
 
 (4) A kérelem átvételétől számított 10 napon belül az államigazgatási szerv teljesíti az adatszolgáltatási témakörben adatszolgáltatási kötelezettségét, és felhasználásra biztosítja a kézikönyv készítéséhez vagy módosításához szükséges adatokat.
 
@@ -24,9 +24,9 @@ ba) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit
 
 bb) az állami főépítészi hatáskörében eljáró Budapest Főváros Kormányhivatalának, és
 
-bc)[^61]
+bc)[^62]
 
 c) elérhetővé teszi hitelesített kép formátumban, az elfogadásról szóló jegyzőkönyvvel együtt a b) pont szerinti szerveknek.
 
-[^60]: A 28. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^61]: A 28. § (8) bekezdés b) pont bc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^61]: A 28. § (3) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^62]: A 28. § (8) bekezdés b) pont bc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

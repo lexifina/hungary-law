@@ -1,4 +1,4 @@
-17. § (1)[^48] A kiemelt nemzeti emlékhely területén – az (5) bekezdésben foglaltak kivételével – nem helyezhető el reklám, reklámeszköz.
+17. § (1)[^49] A kiemelt nemzeti emlékhely területén – az (5) bekezdésben foglaltak kivételével – nem helyezhető el reklám, reklámeszköz.
 
 (2) A kiemelt településkép-védelmi környezetben reklám, reklámhordozó kizárólag utcabútoron helyezhető el az Rr. rendelkezéseivel összhangban, a (4) bekezdésben foglaltak szerint.
 
@@ -20,4 +20,4 @@ b) az építési tevékenység idejére építési reklámháló kihelyezése
 
 (6) Az (5) bekezdés b) pontja szerinti építési reklámhálón kizárólag a megépíteni tervezett homlokzat látványterve jeleníthető meg.
 
-[^48]: A 17. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^49]: A 17. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.

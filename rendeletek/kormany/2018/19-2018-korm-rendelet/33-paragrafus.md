@@ -1,4 +1,4 @@
-33. § (1)[^74] A véleményezési eljárás lefolytatásához a kérelmező a véleményezendő építészeti-műszaki dokumentációt és a kérelmet az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszeren keresztül nyújtja be.
+33. § (1)[^75] A véleményezési eljárás lefolytatásához a kérelmező a véleményezendő építészeti-műszaki dokumentációt és a kérelmet az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszeren keresztül nyújtja be.
 
 (2) A kérelemnek tartalmaznia kell a kérelmező nevét és címét, valamint a tervezett és véleményeztetni kért építési tevékenység helyét, az érintett telek helyrajzi számát. A kérelemhez a (3) bekezdés szerinti építészeti-műszaki dokumentációt kell mellékelni.
 
@@ -12,21 +12,21 @@ c) a rendeltetés meghatározását, valamint
 
 d) az egyedi településképi követelményeknek való megfelelésről szóló rövid műszaki leírást.
 
-(3a)[^75] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a hatóság legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
+(3a)[^76] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a hatóság legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
 
 (4) A hatóság a kérelem beérkezését követően 5 napon belül kikéri
 
-a)[^76] a KNEB nyilatkozatát, és egyidejűleg hozzáférést biztosít a KNEB számára az (1)–(3) bekezdésben megjelölt dokumentumokhoz, továbbá
+a)[^77] a KNEB nyilatkozatát, és egyidejűleg hozzáférést biztosít a KNEB számára az (1)–(3) bekezdésben megjelölt dokumentumokhoz, továbbá
 
-b)[^77] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerint az Országos Építészeti Tervtanács feladatkörébe tartozó esetekben és ha a KNEB előzetesen vagy nyilatkozatában kikéri az Országos Építészeti Tervtanács véleményét.
+b)[^78] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerint az Országos Építészeti Tervtanács feladatkörébe tartozó esetekben és ha a KNEB előzetesen vagy nyilatkozatában kikéri az Országos Építészeti Tervtanács véleményét.
 
 (5) A (4) bekezdés b) pontja esetében
 
-a)[^78] a KNEB e rendeletben meghatározott feladatai ellátásával megbízott szakmai vezetője részt vesz az Országos Építészeti Tervtanács ülésén,
+a)[^79] a KNEB e rendeletben meghatározott feladatai ellátásával megbízott szakmai vezetője részt vesz az Országos Építészeti Tervtanács ülésén,
 
-b)[^79] az Országos Építészeti Tervtanács véleményét a hatóság felhívásának beérkezésétől számított 21 napon belül megküldi a hatóságnak és a KNEB-nek.
+b)[^80] az Országos Építészeti Tervtanács véleményét a hatóság felhívásának beérkezésétől számított 21 napon belül megküldi a hatóságnak és a KNEB-nek.
 
-(6)[^80] A KNEB a nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon – a KNEB hiánypótlási felhívása esetén 110 napon – belül adja ki. Az Országos Építészeti Tervtanács feladatkörébe nem tartozó egyéb esetben a KNEB a véleményezés során a (4) bekezdés b) pont szerint kikérheti az Országos Építészeti Tervtanács véleményét.
+(6)[^81] A KNEB a nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon – a KNEB hiánypótlási felhívása esetén 110 napon – belül adja ki. Az Országos Építészeti Tervtanács feladatkörébe nem tartozó egyéb esetben a KNEB a véleményezés során a (4) bekezdés b) pont szerint kikérheti az Országos Építészeti Tervtanács véleményét.
 
 (7) A KNEB a nyilatkozat kialakítása során
 
@@ -36,11 +36,11 @@ b) vonatkozó egyedi településképi követelmény hiányában vizsgálja az é
 
 c) figyelembe veszi
 
-ca)[^81] az Országos Építészeti Tervtanács (5) és (6) bekezdés szerinti véleményét és
+ca)[^82] az Országos Építészeti Tervtanács (5) és (6) bekezdés szerinti véleményét és
 
 cb) a szakmai konzultáción felvett jegyzőkönyvben foglaltakat.
 
-(7a)[^82] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a KNEB legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
+(7a)[^83] Ha a kérelem nem felel meg a (2) és (3) bekezdésben foglaltaknak, a KNEB legfeljebb 15 napos határidő biztosításával egy ízben hiánypótlásra hívja fel a kérelmezőt.
 
 (8) A KNEB nyilatkozatában
 
@@ -62,20 +62,20 @@ b) a tervezett építési tevékenység rövid leírását, helyét, címét és
 
 c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolását.
 
-(11)[^83] A hatóság a KNEB nyilatkozatának beérkezésétől számított 10 napon – hiánypótlási felhívás esetében 30 napon – belül, amennyiben a KNEB határidőn belül nem nyilatkozik, a kérelem beérkezésétől számított 115 napon – hiánypótlási felhívás esetében 135 napon – belül megküldi véleményét a kérelmezőnek, továbbá a véleményét elektronikus formában feltölti az elektronikus tárhelyre.
+(11)[^84] A hatóság a KNEB nyilatkozatának beérkezésétől számított 10 napon – hiánypótlási felhívás esetében 30 napon – belül, amennyiben a KNEB határidőn belül nem nyilatkozik, a kérelem beérkezésétől számított 115 napon – hiánypótlási felhívás esetében 135 napon – belül megküldi véleményét a kérelmezőnek, továbbá a véleményét elektronikus formában feltölti az elektronikus tárhelyre.
 
 (12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-(13)[^84] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(13)[^85] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^74]: A 33. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
-[^75]: A 33. § (3a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^76]: A 33. § (4) bekezdés a) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^77]: A 33. § (4) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és d) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
-[^78]: A 33. § (5) bekezdés a) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^79]: A 33. § (5) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^80]: A 33. § (6) bekezdése a 284/2024. (IX. 30.) Korm. rendelet 5. § d) és e) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
-[^81]: A 33. § (7) bekezdés c) pont ca) alpontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^82]: A 33. § (7a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^83]: A 33. § (11) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 18. és 19. pontja szerint módosított szöveg.
-[^84]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^75]: A 33. § (1) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^76]: A 33. § (3a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^77]: A 33. § (4) bekezdés a) pontja a 424/2024. (XII. 23.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^78]: A 33. § (4) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és d) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
+[^79]: A 33. § (5) bekezdés a) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^80]: A 33. § (5) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^81]: A 33. § (6) bekezdése a 284/2024. (IX. 30.) Korm. rendelet 5. § d) és e) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
+[^82]: A 33. § (7) bekezdés c) pont ca) alpontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^83]: A 33. § (7a) bekezdését a 424/2024. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^84]: A 33. § (11) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 13. § 18. és 19. pontja szerint módosított szöveg.
+[^85]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.

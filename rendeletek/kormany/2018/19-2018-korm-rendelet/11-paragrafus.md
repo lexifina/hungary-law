@@ -1,4 +1,4 @@
-11. § (1)[^30] Fennálló közterületről látható épülethomlokzat
+11. § (1)[^31] Fennálló közterületről látható épülethomlokzat
 
 a) eredeti homlokzati eleme nem bontható el, kivéve, ha műszaki állapota a fenntartást és a megújítást nem teszi lehetővé, vagy az aránytalan anyagi terhet jelent, ebben az esetben az eredeti homlokzati elem alakhű felmérése nyomán eredeti anyagából újragyártott homlokzati elemmel pótolható,
 
@@ -8,9 +8,9 @@ c) kő vagy műkő homlokzatburkolati anyaga kizárólag abban az esetben festhe
 
 d) kőporos vakolati rendszere – az eredeti kivételével – nem tartható fenn, nem újítható fel.
 
-(2)[^31] Új, közterületről látható épülethomlokzat képzése során kőporos vakolati rendszer nem alkalmazható.
+(2)[^32] Új, közterületről látható épülethomlokzat képzése során kőporos vakolati rendszer nem alkalmazható.
 
-(3)[^32] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat teljes felülete az épület eredeti színével, színezési rendszerével, illetve az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban színezhető
+(3)[^33] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat teljes felülete az épület eredeti színével, színezési rendszerével, illetve az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban színezhető
 
 a) az épület homlokzat restaurátori szakvéleményben megállapított eredeti színével és színezési rendszerével megegyező, illetve ahhoz közel álló, vagy indokolt esetben, a KNEB hozzájárulásával ettől eltérő, de a szomszédos épületekhez illeszkedő színezés alkalmazásával, és
 
@@ -18,13 +18,13 @@ b) az utcasorban közvetlenül szomszédos telken lévő épületeket, és az ez
 
 (4) Ha az eredeti színezés nem állapítható meg és az épület az 1896. évet megelőzően épült, a (3) bekezdés rendelkezéseit kell alkalmazni azzal, hogy az épületen kizárólag egy homlokzati szín alkalmazható.
 
-(5)[^33] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat és tűzfal részleges színezése a (3) bekezdés szerinti színnel, kizárólag földszinti üzletportál cseréje, átalakítása, homlokzatrész erős rongálódása, szerelési munka vagy graffiti eltávolítás miatt indokolt homlokzatjavítás, vagy életveszély elhárítás érdekében történhet.
+(5)[^34] Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat és tűzfal részleges színezése a (3) bekezdés szerinti színnel, kizárólag földszinti üzletportál cseréje, átalakítása, homlokzatrész erős rongálódása, szerelési munka vagy graffiti eltávolítás miatt indokolt homlokzatjavítás, vagy életveszély elhárítás érdekében történhet.
 
-(6)[^34] Új, közterületről látható épülethomlokzat az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban, az utcasorban közvetlenül szomszédos telken lévő épületeket és az e telkekhez kapcsolódó további egy-egy épületet ábrázoló három változatot bemutató színterv alapján színezhető.
+(6)[^35] Új, közterületről látható épülethomlokzat az épülethez közvetlenül kapcsolódó épületek fennálló színezésével összhangban, az utcasorban közvetlenül szomszédos telken lévő épületeket és az e telkekhez kapcsolódó további egy-egy épületet ábrázoló három változatot bemutató színterv alapján színezhető.
 
-(7)[^35] A közterületről látható homlokzatot érintő építési tevékenység során az épület veszélyeztetett homlokzati sávját anti-graffiti bevonattal kell ellátni.
+(7)[^36] A közterületről látható homlokzatot érintő építési tevékenység során az épület veszélyeztetett homlokzati sávját anti-graffiti bevonattal kell ellátni.
 
-(8)[^36] Fennálló, eredeti állapot szerinti, közterületről látható homlokzattagolás, homlokzati díszítőelem, díszítőrendszer, részletképzés, nyílászáró rendszer nem változtatható meg, kivéve, ha az eltérés a földszinten üzletportál létesítése érdekében indokolt. Teljes homlokzatfelületet érintő építési tevékenység az eredeti állapot rekonstrukciójával építéstörténeti dokumentáció alapján végezhető.
+(8)[^37] Fennálló, eredeti állapot szerinti, közterületről látható homlokzattagolás, homlokzati díszítőelem, díszítőrendszer, részletképzés, nyílászáró rendszer nem változtatható meg, kivéve, ha az eltérés a földszinten üzletportál létesítése érdekében indokolt. Teljes homlokzatfelületet érintő építési tevékenység az eredeti állapot rekonstrukciójával építéstörténeti dokumentáció alapján végezhető.
 
 (9) Az épület fennálló eredeti vagy mintadarabként megjelölt – közterületre nyíló és közterületről látható – homlokzati elemei a (8) bekezdésben meghatározott kivétellel nem bonthatók el, felújítással vagy rekonstrukcióval tarthatók fenn. Fennálló, az eredetitől eltérő és mintadarabnak nem minősülő homlokzati elem kizárólag eredeti vagy mintadarabként megjelölt homlokzati elemre cserélhető, azzal, hogy
 
@@ -38,7 +38,7 @@ d) egyedi nyílászáró-megújítás, -csere, -rekonstrukció esetén a fennál
 
 e) zajvédelem vagy hőszigetelés céljából kettő- vagy többrétegű üvegezés a külső megjelenés sérelme nélkül építhető be a külső vagy a belső szárnyba.
 
-(10)[^37] Egyéb műszaki berendezés, egyéb berendezés, szerelvény nem tartható fenn vagy helyezhető el, ha az a közterületről látható homlokzat, illetve a (8) bekezdésben meghatározott, fennálló építészeti részletek, díszítőrendszer megjelenését, látványát sérti, vagy ellehetetleníti a fennálló eredeti díszítőrendszer rekonstrukcióját.
+(10)[^38] Egyéb műszaki berendezés, egyéb berendezés, szerelvény nem tartható fenn vagy helyezhető el, ha az a közterületről látható homlokzat, illetve a (8) bekezdésben meghatározott, fennálló építészeti részletek, díszítőrendszer megjelenését, látványát sérti, vagy ellehetetleníti a fennálló eredeti díszítőrendszer rekonstrukcióját.
 
 (11) A homlokzaton
 
@@ -46,13 +46,13 @@ a) tartó-, kábel-, antennaszerkezet – a troli, villamos felsővezeték tart�
 
 b) vezeték homlokzati felületen látható módon, kábelcsatornában vagy a vezetéket takaró szerkezetben nem szerelhető,
 
-c)[^38] közterületről látható módon homlokzati égéstermék kivezető, parabola vagy egyéb antenna, napkollektor, légkondicionáló berendezés a d) pont figyelembevételével, egyéb berendezés, valamint egyéb műszaki berendezés – az e) pontban foglaltak kivételével – nem helyezhető el,
+c)[^39] közterületről látható módon homlokzati égéstermék kivezető, parabola vagy egyéb antenna, napkollektor, légkondicionáló berendezés a d) pont figyelembevételével, egyéb berendezés, valamint egyéb műszaki berendezés – az e) pontban foglaltak kivételével – nem helyezhető el,
 
-d)[^39] légkondicionáló berendezés kifolyója a homlokzatra, másik rendeltetési egységre vagy kiszolgáló rendeltetésű területre, közterületre vagy egyéb szomszédos telekre nem vezethető,
+d)[^40] légkondicionáló berendezés kifolyója a homlokzatra, másik rendeltetési egységre vagy kiszolgáló rendeltetésű területre, közterületre vagy egyéb szomszédos telekre nem vezethető,
 
-e)[^40] közterületről látható módon önálló szerkezetben nem helyezhető el
+e)[^41] közterületről látható módon önálló szerkezetben nem helyezhető el
 
-ea)[^41] árusító berendezés, a parkoló és közlekedési jegyárusító automata,
+ea)[^42] árusító berendezés, a parkoló és közlekedési jegyárusító automata,
 
 eb) bankautomata berendezés, postaláda, biztonsági kamera,
 
@@ -88,25 +88,25 @@ ba) anyaghasználata az épület korához illeszkedően fa vagy fém lehet, elap
 
 bb) színezése a homlokzati színnel összhangban történhet.
 
-(17)[^42] Üzletportál üvegfelületének átlátszóságát – jogszabály eltérő rendelkezésének hiányában – fenn kell tartani. Üvegfelületként homokfúvott vagy matt, illetve egyéb okból nem átlátszó üveg nem alkalmazható, üvegfelület nem átlátszó anyaggal, így különösen fóliával, papírral, műanyaggal, festéssel vagy más dekorációs felülettel nem takarható, kivéve, ha ahhoz a KNEB közhasznú tevékenység bemutatása érdekében – a meghatározott módon történő elhelyezéshez – határozott időtartamra nyilatkozatában hozzájárul.
+(17)[^43] Üzletportál üvegfelületének átlátszóságát – jogszabály eltérő rendelkezésének hiányában – fenn kell tartani. Üvegfelületként homokfúvott vagy matt, illetve egyéb okból nem átlátszó üveg nem alkalmazható, üvegfelület nem átlátszó anyaggal, így különösen fóliával, papírral, műanyaggal, festéssel vagy más dekorációs felülettel nem takarható, kivéve, ha ahhoz a KNEB közhasznú tevékenység bemutatása érdekében – a meghatározott módon történő elhelyezéshez – határozott időtartamra nyilatkozatában hozzájárul.
 
 (18) Üzletportál az e rendeletben és a kézikönyvben foglalt részletes településképi követelmények, illetve ajánlások alapján helyezhető el, építhető, alakítható át.
 
-(19)[^43] Új kirakatszekrény közterületről látható homlokzaton nem helyezhető el. A kirakatszekrény elbontásával egy időben az érintett homlokzati falfelület anyaga, színezése, díszítése helyreállítandó.
+(19)[^44] Új kirakatszekrény közterületről látható homlokzaton nem helyezhető el. A kirakatszekrény elbontásával egy időben az érintett homlokzati falfelület anyaga, színezése, díszítése helyreállítandó.
 
 (20) Falra vagy fal elé szerelt kirakatszekrény fenntartható, ha mérete és szerkezeti kialakítása illeszkedik az épület homlokzatképzéséhez, és annak eredeti vagy felújított díszítőelemeit, részletképzését, mintázott falfestését, falfestményeit, művészi felületképzését nem takarja el.
 
-[^30]: A 11. § (1) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
-[^31]: A 11. § (2) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^32]: A 11. § (3) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^33]: A 11. § (5) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^34]: A 11. § (6) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^35]: A 11. § (7) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^36]: A 11. § (8) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^37]: A 11. § (10) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
-[^38]: A 11. § (11) bekezdés c) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § i) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
-[^39]: A 11. § (11) bekezdés d) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § j) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 8. pontja, a 424/2024. (XII. 23.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
-[^40]: [A 11. § (11) bekezdés e) pontban a 424/2024. (XII. 23.) Korm. rendelet 13. § 9. pontja által elrendelt módosítás, amely szerint a „helyezhető el,” szövegrész helyébe a „helyezhető el, kivéve homlokzati sík mögött vagy az udvari homlokzaton rejtett kivitelben,” szöveg lép, nem vezethető át.]
-[^41]: A 11. § (11) bekezdés e) pont ea) alpontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
-[^42]: A 11. § (17) bekezdése a 197/2020. (V. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^43]: A 11. § (19) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^31]: A 11. § (1) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
+[^32]: A 11. § (2) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^33]: A 11. § (3) bekezdés nyitó szövegrésze a 145/2018. (VIII. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^34]: A 11. § (5) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^35]: A 11. § (6) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^36]: A 11. § (7) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^37]: A 11. § (8) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^38]: A 11. § (10) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^39]: A 11. § (11) bekezdés c) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § i) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
+[^40]: A 11. § (11) bekezdés d) pontja a 145/2018. (VIII. 13.) Korm. rendelet 4. § j) pontja, a 424/2024. (XII. 23.) Korm. rendelet 13. § 8. pontja, a 424/2024. (XII. 23.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^41]: [A 11. § (11) bekezdés e) pontban a 424/2024. (XII. 23.) Korm. rendelet 13. § 9. pontja által elrendelt módosítás, amely szerint a „helyezhető el,” szövegrész helyébe a „helyezhető el, kivéve homlokzati sík mögött vagy az udvari homlokzaton rejtett kivitelben,” szöveg lép, nem vezethető át.]
+[^42]: A 11. § (11) bekezdés e) pont ea) alpontja a 424/2024. (XII. 23.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^43]: A 11. § (17) bekezdése a 197/2020. (V. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^44]: A 11. § (19) bekezdése a 145/2018. (VIII. 13.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
