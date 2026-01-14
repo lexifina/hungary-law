@@ -1,3 +1,1 @@
-20. §[^18]
-
-[^18]: A 20. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+20. § A 218/2009. (X. 6.) Korm. rendelet 12. melléklete az 1. melléklet szerint módosul.

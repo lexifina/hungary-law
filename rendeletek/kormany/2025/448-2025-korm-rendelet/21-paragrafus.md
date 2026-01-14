@@ -1,31 +1,23 @@
 21. § A 218/2009. (X. 6.) Korm. rendelet
 
-a)[^19]
+a)[^4]
 
-b)[^20]
+b) 11. § e) pontjában az „a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 9. § (2) bekezdése” szövegrész helyébe az „a területfejlesztésről szóló 2023. évi CII. törvény 24. § (1) bekezdés a) pontja” szöveg,
 
-c)[^21]
+c) 11/A. § (1) bekezdésében és 11/B. § (1) bekezdésében az „a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése” szövegrész helyébe az „a területfejlesztésről szóló 2023. évi CII. törvény 30. § (8) bekezdése” szöveg,
 
-d)[^22]
+d) 21/B. § (1) bekezdés nyitó szövegrészében az „a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény” szövegrész helyébe az „a területfejlesztésről szóló 2023. évi CII. törvény” szöveg,
 
-e)[^23]
+e) 21/B. § (1) bekezdés a) pontjában a „23/C. § (3) bekezdése” szövegrész helyébe a „30. § (3) bekezdése” szöveg,
 
-f)[^24]
+f) 21/B. § (1) bekezdés b) pontjában a „23/C. § (4) bekezdése” szövegrész helyébe a „30. § (4) bekezdése” szöveg,
 
-g)[^25]
+g) 12. mellékletében foglalt táblázat C:2 és C:3 mezőjében a „településazonosító” szövegrész helyébe a „településnév, településazonosító” szöveg,
 
-h)[^26]
+h) 12. mellékletében foglalt táblázat C:4 mezőjében a „rendeltetés” szövegrész helyébe a „településnév, településazonosító, rendeltetés” szöveg,
 
-i)[^27]
+i) 12. mellékletében foglalt táblázat D:7 mezőjében az „RGB” szövegrész helyébe az „RGB és CIR” szöveg
 
 lép.
 
-[^19]: A 21. § a) pontja a 114. § (5) bekezdése alapján 2027. július 1-jén lép hatályba.
-[^20]: A 21. § b) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^21]: A 21. § c) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^22]: A 21. § d) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^23]: A 21. § e) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^24]: A 21. § f) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^25]: A 21. § g) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^26]: A 21. § h) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^27]: A 21. § i) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[^4]: A 21. § a) pontja a 114. § (5) bekezdése alapján 2027. július 1-jén lép hatályba.

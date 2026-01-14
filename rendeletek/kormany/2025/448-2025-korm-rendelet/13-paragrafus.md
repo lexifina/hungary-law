@@ -1,9 +1,10 @@
-13. § (1)[^9]
+13. § (1)[^2]
 
-(2)[^10]
+(2) A 191/2009. (IX. 15.) Korm. rendelet 27. §-a a következő (4a) bekezdéssel egészül ki:
 
-(3)[^11]
+„(4a) Az e-főnapló és az e-alnapló mellékletében rögzített kivitelezési szerződésben a kivitelezői teljesítés, részteljesítés ellenértékét az érdekelt szerződéses felek, a beruházáslebonyolító, az építési műszaki ellenőr, a Nemzeti Adó- és Vámhivatal, valamint az építtetői fedezetkezelői eljárásban feljogosítottak tekinthetik meg.”
 
-[^9]: A 13. § (1) bekezdése a 114. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
-[^10]: A 13. § (2) bekezdése a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^11]: A 13. § (3) bekezdése a 114. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
+(3)[^3]
+
+[^2]: A 13. § (1) bekezdése a 114. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^3]: A 13. § (3) bekezdése a 114. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.

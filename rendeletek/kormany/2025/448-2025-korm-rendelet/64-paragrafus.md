@@ -1,3 +1,3 @@
-64. §[^48]
+64. § A TÉKA 36. §-a a következő (8) bekezdéssel egészül ki:
 
-[^48]: A 64. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+„(8) Új tanya létesítése esetén az (1) bekezdés d) pontja szerinti feltüntetést követően és az (1) bekezdés e) pontja szerinti jogi jelleg bejegyzést megelőzően kell teljesíteni az (1) bekezdés b) és c) pontjában foglalt követelményeket.”

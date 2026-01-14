@@ -1,3 +1,3 @@
-85. §[^70]
+85. § A 281/2024. (IX. 30.) Korm. rendelet 51. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^70]: A 85. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+„(1a) Az építésügyi hatóság a 11. § (1) bekezdésében meghatározott eljárás megindulásáról szóló értesítést mellőzi.”

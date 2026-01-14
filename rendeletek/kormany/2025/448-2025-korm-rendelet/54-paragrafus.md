@@ -1,1 +1,1 @@
-54. §
+54. § Hatályát veszti a 419/2021. (VII. 15.) Korm. rendeletnek a Magyarország versenyképességének javítása érdekében egyes kormányrendeletek módosításáról szóló 155/2025. (VI. 23.) Korm. rendelet 23. § (2) bekezdésével megállapított 78/D. §-a.

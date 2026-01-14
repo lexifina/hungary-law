@@ -1,3 +1,3 @@
-65. §[^49]
+65. § A TÉKA 37. §-a a következő (7) bekezdéssel egészül ki:
 
-[^49]: A 65. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+„(7) A helyi építési szabályzatban a vízgazdálkodási területek sajátos használatuk szerint a (2) bekezdés alapján külön övezetekbe is sorolhatóak.”

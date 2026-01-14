@@ -1,3 +1,3 @@
-9. §[^5]
+9. § A 191/2009. (IX. 15.) Korm. rendelet 12. § (4) bekezdése a következő g) ponttal egészül ki:
 
-[^5]: A 9. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+[A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata]

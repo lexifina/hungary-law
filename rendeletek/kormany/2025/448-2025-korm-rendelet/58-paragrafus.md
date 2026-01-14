@@ -1,3 +1,11 @@
-58. §[^42]
+58. § (1) A TÉKA 10. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^42]: Az 58. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+(A szintterület számítása során az épület bruttó alapterületébe nem kell beszámítani)
+
+## „b) a loggia,”
+
+## (bruttó alapterületét.)
+
+(2) A TÉKA 10. § (1) bekezdése a következő k) ponttal egészül ki:
+
+(A szintterület számítása során az épület bruttó alapterületébe nem kell beszámítani)

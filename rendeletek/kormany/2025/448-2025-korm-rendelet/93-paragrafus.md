@@ -1,23 +1,18 @@
 93. § Hatályát veszti a 281/2024. (IX. 30.) Korm. rendelet
 
-a)[^123]
+a) 7. § (4) bekezdése,
 
-b)[^124]
+b) 12. § (1) bekezdésében, 36. § (1) bekezdésében, 37. § (1) bekezdés nyitó szövegrészében a „szakhatósági közreműködés vagy” szövegrész,
 
-c)[^125]
+c) 15. § (9) bekezdése,
 
-d)[^126]
+d) 17. § b) pontjában a „kizárólag külső alaprajzi méretet érintő,” szövegrész,
 
-e)[^127]
+e) 35. § (4) bekezdés c) pontjában, 36. § (2) bekezdés k) pontjában, 37. § (3) bekezdés h) pontjában a „szakhatóság bevonása vagy” szövegrész,
 
-f)[^128]
+f)[^11]
 
-g)[^129]
+g)[^12]
 
-[^123]: A 93. § a) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^124]: A 93. § b) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^125]: A 93. § c) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^126]: A 93. § d) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^127]: A 93. § e) pontja a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
-[^128]: A 93. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^129]: A 93. § g) pontja a 114. § (3) bekezdése alapján 2026. február 27-én lép hatályba.
+[^11]: A 93. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 93. § g) pontja a 114. § (3) bekezdése alapján 2026. február 27-én lép hatályba.

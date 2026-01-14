@@ -1,3 +1,3 @@
-11. §[^7]
+11. § A 191/2009. (IX. 15.) Korm. rendelet 24/B. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 11. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+„(6) Az OÉNY üzemeltetője határidő tűzésével felszólítja az építtetőt az évente esedékes rendszerhasználati díj megfizetésére az e-építési napló megnyitásának évfordulója előtt 15 nappal azzal, hogy az építtetőnek az évente esedékes rendszerhasználati díjat legkésőbb az évfordulóig meg kell fizetnie. A határidő eredménytelen elteltével az OÉNY üzemeltetője az e-építési naplót elérhetetlenné teszi. Amennyiben az építtető utóbb eleget tesz fizetési kötelezettségének, az OÉNY üzemeltetője az e-építési naplót haladéktalanul elérhetővé teszi.”

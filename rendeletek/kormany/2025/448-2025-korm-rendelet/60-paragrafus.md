@@ -1,3 +1,3 @@
-60. §[^44]
+60. § A TÉKA 20. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^44]: A 60. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+„(4) Az intézményi vegyes területen elhelyezésre kerülő épületekben a lakórendeltetések összes hasznos alapterülete nem haladhatja meg az 50 százalékot, kivéve, ha állami főépítészi eltérés alapján a helyi építési szabályzat másként rendelkezik.”

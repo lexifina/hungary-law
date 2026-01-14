@@ -1,3 +1,3 @@
-82. §[^67]
+82. § A 281/2024. (IX. 30.) Korm. rendelet 37. § (3) bekezdése a következő n) ponttal egészül ki:
 
-[^67]: A 82. § a 114. § (2) bekezdése alapján 2026. január 14-én lép hatályba.
+(Az építésügyi hatóság a használatbavételi engedély megadását, a használatbavétel tudomásul vételét megtagadja, ha)

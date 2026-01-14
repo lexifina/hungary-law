@@ -1,1 +1,3 @@
-49. §
+49. § A 419/2021. (VII. 15.) Korm. rendelet 78. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) E rendelet alapján elfogadott fővárosi rendezési szabályzat hatálybalépését követően, a kerületi építési szabályzat 2027. június 30-ig történő módosításakor a kerületi önkormányzat külön döntésével rendelkezhet arról, hogy amennyiben a módosítás a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet alapján készült településszerkezeti tervnek és fővárosi rendezési szabályzatnak már nem feleltethető meg, de e rendelet alapján készült fővárosi rendezési szabályzatnak és a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendeletnek megfeleltethető, akkor ez utóbbiaknak történő megfelelést igazolja a módosító dokumentáció részét képező alátámasztó javaslatban.”

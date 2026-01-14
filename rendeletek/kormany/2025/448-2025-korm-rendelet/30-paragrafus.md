@@ -1,1 +1,3 @@
-30. §
+30. § A 266/2013. (VII. 11.) Korm. rendelet a következő 48. §-sal egészül ki:
+
+„48. § Az építészeti-műszaki dokumentációnak a tűzvédelmi szakkérdések vizsgálatához szükséges dokumentációját, valamint a kivitelezési dokumentáció tűzvédelmi munkarészét – a 15. § (1) bekezdésétől eltérően, építészeti-műszaki tervezési jogosultság hiányában is – elkészítheti a tűzvédelmi szakértői tevékenység szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szakértők névjegyzékébe bejegyzett tűzvédelmi szakértő e névjegyzékből való törlése időpontjáig, feltéve, hogy rendelkezik a 15/F. § szerinti felelősségbiztosítással és teljesíti a 34. § (3) bekezdés b) pontja szerinti szakmai továbbképzést.”
