@@ -1,7 +1,5 @@
 ## 7. A fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendelet módosítása
 
-9. § (1) A fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendelet 1. melléklete az 1. melléklet szerint módosul.
+9. §[^10]
 
-(2) A fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendelet 2. melléklete a 2. melléklet szerint módosul.
-
-(3) A fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendelet 3. melléklete a 3. melléklet szerint módosul.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
