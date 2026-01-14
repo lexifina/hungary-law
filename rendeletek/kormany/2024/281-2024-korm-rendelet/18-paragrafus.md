@@ -12,9 +12,9 @@ a) az 1. melléklet 1–3. pontjában meghatározott tartalmú építészeti-mű
 
 b) a településképi szakmai konzultációról készített jegyzőkönyvet, ha azt a települési önkormányzat rendeletében kötelezővé tette,
 
-c) a 419/2021. (VII. 15.) Korm. rendeletben meghatározott esetekben a tervezett építési tevékenységet tudomásulvételre javasoló településképi véleményt, vagy az állami főépítész, területi építészeti tervtanács településképi vélemény elleni kifogás tárgyában hozott véleményét, valamint
+c)[^23] a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendeletben [a továbbiakban: 419/2021. (VII. 15.) Korm. rendelet] meghatározott esetekben a tervezett építési tevékenységet tudomásulvételre javasoló településképi véleményt, vagy az állami főépítész, területi építészeti tervtanács településképi vélemény elleni kifogás tárgyában hozott véleményét, valamint
 
-d) a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet és a helyi építési szabályzat beépítési szabályaira vonatkozó előírásaitól történő egyedi eltérés esetén az eltérést engedélyező, az építészeti és településrendezési tervtanácsokról szóló kormányrendeletben meghatározott tervtanácsi véleményt.
+d)[^24] a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet és a helyi építési szabályzat beépítési szabályaira vonatkozó előírásaitól történő egyedi eltérés esetén az eltérést engedélyező, az építészeti és településrendezési tervtanácsokról szóló kormányrendeletben meghatározott tervtanácsi véleményt vagy az építési tevékenységgel érintett telek fekvése szerint illetékes állami főépítész véleményét.
 
 (3) Az egyszerű bejelentési eljárásban az építésügyi hatóság vizsgálja, hogy
 
@@ -36,15 +36,19 @@ f) az egyszerű bejelentés (2) bekezdésben előírt mellékletei rendelkezésr
 
 g) a tervezőként megjelölt személy – ideértve a társtervezőt, szakági tervezőt is –, vállalkozás jogosult-e a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre, összeférhetetlenség vele szemben nem áll-e fenn.
 
+(3a)[^25] A 16. § (1) bekezdés e) pontja alapján tett egyszerű bejelentés vizsgálata során az építésügyi hatóság a (3) bekezdés szerinti vizsgálatot kizárólag az eltérés tekintetében végzi.
+
 (4) Az építésügyi hatóság tizenöt napon belül az egyszerű bejelentés tudomásulvételét megtagadja és az építési tevékenység megkezdését, végzését megtiltja, ha
 
 a) az egyszerű bejelentéshez a (2) bekezdésben meghatározott mellékleteket nem vagy hiányosan csatolták,
 
-b) a tervező vagy a vállalkozás nem rendelkezik jogosultsággal a tervezett építési tevékenységre vonatkozó építészeti-műszaki dokumentáció elkészítésére, vele szemben összeférhetetlenség áll fenn, vagy nem rendelkezett felelősségbiztosítással a tervezési tevékenység időtartama alatt.
+b)[^26] a tervező vagy a vállalkozás nem rendelkezik jogosultsággal a tervezett építési tevékenységre vonatkozó építészeti-műszaki dokumentáció elkészítésére, vagy vele szemben összeférhetetlenség áll fenn.
 
-c) a tervezett építési tevékenységgel kapcsolatban a (3) bekezdésben előírt feltételek nem teljesülnek, vagy
+c)[^27] a tervezett építési tevékenységgel kapcsolatban a (3) bekezdésben előírt feltételek nem teljesülnek,
 
-d) a településképi vélemény elleni kifogás tárgyában hozott véleményében a tervezett építési tevékenység építészeti-műszaki dokumentációját az állami főépítész vagy az építészeti tervtanács tudomásulvételre nem javasolta.
+d)[^28] a településképi vélemény elleni kifogás tárgyában hozott véleményében a tervezett építési tevékenység építészeti-műszaki dokumentációját az állami főépítész vagy az építészeti tervtanács tudomásulvételre nem javasolta, vagy
+
+e)[^29] az építési tevékenységet az egyszerű bejelentés tudomásulvétele nélkül kezdték meg.
 
 (5) Az egyszerű bejelentés alapján végezhető építési tevékenység megkezdését, folytatását megtiltó határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza
 
@@ -65,3 +69,11 @@ c) az állami főépítésszel vagy a területi építészeti tervtanáccsal, ha
 d) a területi szakmai kamarával, ha az építési tevékenység megkezdését vagy folytatását az építésügyi hatóság azért tiltja meg, mert a tervező nem rendelkezik megfelelő jogosultsággal.
 
 (7) Az egyszerű bejelentés tudomásulvétele nélkül megkezdett építési tevékenység az építésügyi hatóság végleges fennmaradási és továbbépítési engedélye alapján folytatható.
+
+[^23]: A 18. § (2) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 10. pontja szerint módosított szöveg.
+[^24]: A 18. § (2) bekezdés d) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 11. pontja szerint módosított szöveg.
+[^25]: A 18. § (3a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 79. § (1) bekezdése iktatta be.
+[^26]: A 18. § (4) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 12. pontja szerint módosított szöveg.
+[^27]: A 18. § (4) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 13. pontja szerint módosított szöveg.
+[^28]: A 18. § (4) bekezdés d) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 14. pontja szerint módosított szöveg.
+[^29]: A 18. § (4) bekezdés e) pontját a 448/2025. (XII. 29.) Korm. rendelet 79. § (2) bekezdése iktatta be.

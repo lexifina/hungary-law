@@ -6,7 +6,7 @@
 
 (4) A telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély véglegessé válása után kérhető, az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor az építési naplóban igazolni köteles.
 
-(5) A telepítési engedély iránti kérelem tárgyában hozott, iratazonosítóval ellátott végzést az értesítettek körének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
+(5)[^33] A telepítési engedély iránti kérelem tárgyában hozott, iratazonosítóval ellátott végzést az értesítendők nevének és elérhetőségének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
 
 a) azzal, akinek az építési tevékenységgel érintett telekre, építményre vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, és ügyféli jogállással nem rendelkezik,
 
@@ -15,3 +15,5 @@ b) az építési tevékenység helye szerinti települési önkormányzat polgá
 c) az állami főépítésszel, az országos vagy a területi építészeti tervtanáccsal, ha az eljárást megelőzően véleményt adott,
 
 d) a területi szakmai kamarával, ha az építési engedély iránti kérelmet az építésügyi hatóság azért utasítja el, mert a tervező nem rendelkezik megfelelő jogosultsággal.
+
+[^33]: A 33. § (5) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 16. pontja szerint módosított szöveg.

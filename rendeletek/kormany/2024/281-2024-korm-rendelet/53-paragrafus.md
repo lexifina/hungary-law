@@ -1,6 +1,6 @@
 ## 38. Az építésügyi hatósági ellenőrzés
 
-53. § (1) Az építésügyi hatóság az építőipari kivitelezési tevékenység felügyelete érdekében hatósági ellenőrzést végez. A hatósági ellenőrzést hivatalból, vagy az építőipari kivitelezési tevékenységet végző kérelmére folytatja le.
+53. § (1)[^67] Az építésügyi hatóság az építőipari kivitelezési tevékenység felügyelete érdekében hatósági ellenőrzést végez. A hatósági ellenőrzést hivatalból, vagy az építőipari kivitelezési tevékenység vonatkozásában a kivitelező kérelmére folytatja le.
 
 (2) Az építésügyi hatóság a hatósági ellenőrzés során vizsgálja,
 
@@ -10,7 +10,7 @@ b) hogy az építési folyamat résztvevői közül a kivitelezési dokumentáci
 
 c) a kivitelezési dokumentáció meglétét és tartalmát,
 
-d)[^3] az elektronikus építési napló meglétét, elérhetőségét, vezetését és annak tartalmát,
+d)[^68] az elektronikus építési napló meglétét, elérhetőségét, vezetését és annak tartalmát,
 
 e) hogy az építőipari kivitelezési tevékenységet
 
@@ -22,6 +22,8 @@ ec) az építésügyi hatóság tiltása ellenére végzik-e,
 
 f) a jogszerűtlenül megkezdett és végzett építési tevékenységeket, valamint
 
-g) a rendeltetési egységek számának és rendeltetésének megváltoztatása kivételével a szakszerűtlenül megkezdett és végzett építési tevékenységeket.
+g)[^69] a rendeltetési egységek számának és rendeltetésének megváltoztatása, valamint a településképi követelmények kivételével a szakszerűtlenül megkezdett és végzett építési tevékenységeket.
 
-[^3]: Az 53. § (2) bekezdés d) pontja a 485/2024. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^67]: Az 53. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 92. § 33. pontja szerint módosított szöveg.
+[^68]: Az 53. § (2) bekezdés d) pontja a 485/2024. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^69]: Az 53. § (2) bekezdés g) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 34. pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 a) az ÉTDR eljárás- és iratazonosítót,
 
-b) az építési engedély számát, keltét,
+b)[^45] az építési engedély számát, keltét, vagy az egyszerű bejelentés benyújtásának, tudomásulvételének időpontját,,
 
-c) az építési tevékenység rövid leírását, az építmény rendeltetését, hasznos alapterületét, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként,
+c)[^46] az építési tevékenység rövid leírását, az építmény rendeltetését, hasznos alapterületét, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként, valamint az épületben kialakított gépjármű-álláshelyek számát
 
 d) lakást tartalmazó épület esetén azt az információt, hogy a felépített lakások hasznos alapterülete eléri-e a településrendezési tervben meghatározott maximális beépíthetőség 10%-át,
 
@@ -19,3 +19,6 @@ a) az építtető az építési, illetve bontási tevékenység befejezését k�
 b) az Épkiv.-ben meghatározott esetben szervizkönyvet kell vezetni.
 
 (3) A használatbavételi engedély határozatlan ideig hatályos.
+
+[^45]: A 38. § (1) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 20. pontja szerint módosított szöveg.
+[^46]: A 38. § (1) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 21. pontja szerint módosított szöveg.

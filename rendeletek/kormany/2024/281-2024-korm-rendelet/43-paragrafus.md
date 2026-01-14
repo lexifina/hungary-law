@@ -12,4 +12,6 @@ b) a jogszerűtlen építmény, építményrész, építési munka készültség
 
 (4) Ha az építtető vagy a tulajdonos az építmény, építményrész fennmaradásának engedélyezésére irányuló kérelmet hiányosan nyújtotta be és a hiánypótlási felhívásnak a megadott határidőben nem tett eleget, az építésügyi hatóság a fennmaradási engedély iránti kérelmet elutasítja és elrendeli a jogszerűtlenül megépített építmény, építményrész bontását, a jogszerűtlen építési tevékenység előtti állapot visszaállítását.
 
-(5) A fennmaradási engedélyben elrendelt szabályossá tételi vagy bontási kötelezettség teljesítésének határideje a döntés véglegessé válásától számított legfeljebb száznyolcvan nap, amely határidő a kötelezett határidő lejárta előtti kérelmére indokolt esetben egy alkalommal kilencven nappal meghosszabbítható.
+(5)[^55] A fennmaradási engedélyben vagy a (4) bekezdés szerinti határozatban elrendelt szabályossá tételi vagy bontási kötelezettség teljesítésének határideje a döntés véglegessé válásától számított legfeljebb száznyolcvan nap, amely határidő a kötelezett határidő lejárta előtti kérelmére indokolt esetben egy alkalommal kilencven nappal meghosszabbítható.
+
+[^55]: A 43. § (5) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 92. § 25. pontja szerint módosított szöveg.

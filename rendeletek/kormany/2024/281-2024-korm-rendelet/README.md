@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-281-20-
 | 2025-08-28 | 2024-281-20-22.7 | 284/2025. (VIII. 25.) Korm. rendelet |
 | 2025-10-01 | 2024-281-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-01-01 | 2024-281-20-22.8 | 395/2025. (XII. 16.) Korm. rendelet |
+| 2026-01-14 | 2024-281-20-22.9 | 448/2025. (XII. 29.) Korm. rendelet |

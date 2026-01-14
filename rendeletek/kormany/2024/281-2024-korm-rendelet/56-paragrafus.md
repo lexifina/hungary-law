@@ -16,7 +16,7 @@ f) a jogszabállyal kötelezően előírt építtetői fedezetkezelő közreműk
 
 g) az építtetői fedezetkezelő megkeresése alapján fedezet hiányában vagy
 
-h) a rendeltetési egységek számának és rendeltetésének megváltoztatása kivételével szakszerűtlenül
+h)[^72] a rendeltetési egységek számának és rendeltetésének megváltoztatása, valamint a településképi követelmények kivételével szakszerűtlenül
 
 végzik.
 
@@ -33,3 +33,5 @@ végzik.
 (7) Az építésügyi hatóság a (4) bekezdés szerinti tiltás esetén a szabálytalanság megállapításától számított nyolc napon belül határozatban elrendeli a szabálytalan állapot megszüntetését, a szükséges építési tevékenység elvégzését és a határozat azonnali végrehajtását. Az építőipari kivitelezési tevékenységet folytatni csak a szabálytalan állapot megszüntetése után lehet.
 
 (8) A (2) bekezdés szerinti döntés, valamint a (7) bekezdés szerinti határozat végrehajtásának teljesítését az építésügyi hatóság a helyszínen ellenőrzi.
+
+[^72]: Az 56. § (1) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 34. pontja szerint módosított szöveg.

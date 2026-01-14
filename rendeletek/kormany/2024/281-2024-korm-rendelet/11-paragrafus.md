@@ -18,9 +18,11 @@ f) a tájékoztatást a kapcsolattartás lehetséges formáiról, a kapcsolattar
 
 g) a tájékoztatást arról, hogy az Ákr. és a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti esetekben a döntés hirdetmény útján történő közlését vagy a döntés közhírré tételét alkalmazza,
 
-h) a tájékoztatást az ügyre vonatkozó minden egyéb lényeges információról, a szakhatósági megkeresés szükségességéről, annak ügyintézési idejéről, valamint
+h)[^6] a tájékoztatást az ügyre vonatkozó minden egyéb lényeges információról, a szakhatósági megkeresés szükségességéről, annak ügyintézési idejéről,
 
-i) egyszerű bejelentés esetén az ügyfél nyilatkozattételi lehetőségéről és annak határidejéről.
+i)[^7] egyszerű bejelentés esetén tájékoztatást az ügyfél nyilatkozattételi lehetőségéről és annak határidejéről, valamint
+
+j)[^8] a 19. § (2) bekezdés e) pontja szerinti esetben műemléki környezetet, műemléki jelentőségű területet vagy műemlék történeti tájat érintő egyszerű bejelentés esetén az örökségvédelmi bejelentési kötelezettségről szóló tájékoztatást.
 
 (3) Az építésügyi hatóság az eljárásában az ügyfelek és az értesítendők adatait
 
@@ -33,3 +35,7 @@ c) a cégnyilvántartásból vagy
 d) az elektronikus elérhetőségi adatok tekintetében az ügyintézési rendelkezési nyilvántartásból
 
 elektronikus úton, közvetlen lekérdezéssel, a vonatkozó jogszabályok szerint szerzi be.
+
+[^6]: A 11. § (2) bekezdés h) pontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (4) bekezdése szerint módosított szöveg.
+[^7]: A 11. § (2) bekezdés i) pontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^8]: A 11. § (2) bekezdés j) pontját a 449/2025. (XII. 29.) Korm. rendelet 92. § (2) bekezdése iktatta be.

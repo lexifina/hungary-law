@@ -12,17 +12,19 @@ c) az építtető adatait,
 
 d) az építési tevékenységgel érintett telek címét, helyrajzi számát,
 
-e) az építési tevékenység rövid leírását, az építmény rendeltetését, hasznos alapterületét, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként, valamint
+e)[^51] az építési tevékenység rövid leírását, az építmény rendeltetését, hasznos alapterületét, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként,
 
-f) lakást tartalmazó épület esetén azt az információt, hogy a felépített lakások hasznos alapterülete eléri-e a településrendezési tervben meghatározott maximális beépíthetőség 10%-át.
+f)[^52] lakást tartalmazó épület esetén azt az információt, hogy a felépített lakások hasznos alapterülete eléri-e a településrendezési tervben meghatározott maximális beépíthetőség 10%-át, valamint
 
-(4) Az építésügyi hatóság a használatbavétel tudomásulvételéről tájékoztatja
+g)[^53] a tudomásulvétel időpontját.
 
-a) az építtetőt,
+(4)[^54] Az építésügyi hatóság a használatbavétel tudomásulvételéről szóló értesítést megküldi
 
-b) a települési önkormányzati adóhatóságot és
+a) az építtetőnek,
 
-c) az ingatlanügyi hatóságot.
+b) a települési önkormányzati adóhatóságnak és
+
+c) az ingatlanügyi hatóságnak.
 
 (5) A használatbavétel tudomásulvételének megtagadásáról szóló határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza
 
@@ -43,3 +45,8 @@ c) határidő kitűzésével a kötelezést, amely a rendeltetésszerű és bizt
 d) a határidőben történő teljesítés elmulasztásának jogkövetkezményét.
 
 (7) Az (5) és (6) bekezdés szerinti határozat szóban nem közölhető.
+
+[^51]: A 40. § (3) bekezdés e) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 23. pontja szerint módosított szöveg.
+[^52]: A 40. § (3) bekezdés f) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 24. pontja szerint módosított szöveg.
+[^53]: A 40. § (3) bekezdés g) pontját a 448/2025. (XII. 29.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^54]: A 40. § (4) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.

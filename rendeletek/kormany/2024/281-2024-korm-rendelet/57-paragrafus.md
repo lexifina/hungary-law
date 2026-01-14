@@ -14,10 +14,12 @@ b) mellékleteinek felsorolását, ideértve az építészeti-műszaki dokument�
 
 c) benyújtása elmulasztásának jogkövetkezményeit.
 
-(6) Ha az építtető vagy a tulajdonos az építésügyi hatósághoz a fennmaradási engedély iránti kérelmét a megszabott határidőben nem nyújtja be, az építésügyi hatóság a szabálytalan állapot megszüntetése érdekében az építtetőt vagy a tulajdonost a szabálytalan építmény, építményrész bontására, átalakítására, vagy az építési engedélyhez, egyszerű bejelentéshez tartozó építészeti-műszaki dokumentációnak megfelelő kialakításra kötelezi az elmulasztott határidőtől számított tizenöt napon belül.
+(6)[^73] Ha az építtető vagy a tulajdonos az építésügyi hatósághoz a fennmaradási engedély iránti kérelmét a megszabott határidőben nem nyújtja be, az építésügyi hatóság a szabálytalan állapot megszüntetése érdekében az építtetőt vagy a tulajdonost a szabálytalan építmény, építményrész bontására, átalakítására, vagy az építési engedélyhez, egyszerű bejelentéshez tartozó építészeti-műszaki dokumentációnak megfelelő kialakításra kötelezi az elmulasztott határidőtől számított harminc napon belül.
 
 (7) A (3) és (6) bekezdés szerinti bontási, átalakítási kötelezettség teljesítésének határideje a döntés véglegessé válásától számított legfeljebb száznyolcvan nap lehet, amelyet az építésügyi hatóság a kötelezett határidő lejárta előtt benyújtott kérelmére indokolt esetben egy alkalommal, legfeljebb kilencven nappal meghosszabbít.
 
 (8) Ha a bontási tevékenységet jogszerűtlenül végezték vagy végzik – kivéve, ha bontási engedély iránti kérelmet nyújtottak be –, a szabálytalanság megállapításától számított tizenöt napon belül a részleges vagy teljes épületbontást határozattal, építésügyi bírság megállapítása mellett az építésügyi hatóság tudomásul veszi. Ha az épület méreteiről az építtető vagy a tulajdonos adatot nem szolgáltat, akkor az építésügyi hatóság a rendelkezésére álló adatok alapján állapítja meg az építmény méreteit.
 
 (9) A részleges bontás tudomásulvételéről szóló határozat tartalmazza azt a tájékoztatást, hogy a további bontási tevékenység csak bontási engedéllyel végezhető.
+
+[^73]: Az 57. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 92. § 35. pontja szerint módosított szöveg.
