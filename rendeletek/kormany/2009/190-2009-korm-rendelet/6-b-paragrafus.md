@@ -12,7 +12,8 @@ d) véleményezi a Balaton vízparti területeit érintő településtervet, ill
 
 e) közreműködik a főépítészi továbbképzések lebonyolításában, és
 
-f) érvényesíti a településtervezési szabályzatban foglalt követelményeket.
+f)[^50] érvényesíti a településtervezési szabályzatban foglalt követelményeket, valamint elősegíti a területrendezési és településrendezési tervek összhangjának kialakítását.
 
 [^48]: Az „A Balatoni főépítész feladatai” alcím címét a 285/2024. (IX. 30.) Korm. rendelet 40. §-a iktatta be.
 [^49]: A 6/B. §-t a 62/2014. (III. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^50]: A 6/B. § f) pontja a 448/2025. (XII. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

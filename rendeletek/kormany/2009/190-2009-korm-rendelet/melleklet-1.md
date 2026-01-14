@@ -1,4 +1,4 @@
-1. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^93]
+1. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^103]
 
 ## A főépítészi vizsga témakörei
 
@@ -14,23 +14,23 @@
 
 1.5. Településrendezés: a településrendezés célja, az országos településrendezési és építési követelmények tartalma és érvényesítése; a településrendezési tervek és a helyi építési szabályzatok tartalma és elkészítésének rendje; a településrendezési feladatok megvalósítását biztosító sajátos jogintézmények; a tervtanácsok feladata, összetétele, működése; a nemzetgazdasági szempontból kiemelt beruházások, települési beruházások főépítészi közreműködése
 
-1.6.[^94] Településkép-védelem: a településképi követelmények, a településképi arculati kézikönyv és a településképi rendelet tartalma és elkészítésének folyamata; önkormányzati településkép-érvényesítési eszközök; kiemelt nemzeti emlékhelyek; a települési zöldinfrastruktúra védelme, településképi elemei
+1.6.[^104] Településkép-védelem: a településképi követelmények, a településképi arculati kézikönyv és a településképi rendelet tartalma és elkészítésének folyamata; önkormányzati településkép-érvényesítési eszközök; kiemelt nemzeti emlékhelyek; a települési zöldinfrastruktúra védelme, településképi elemei
 
-1.7.[^95] Építésügyi igazgatás: építésügyi hatósági intézményrendszer rövid bemutatása; építészeti-műszaki dokumentáció véleményezése; az Építésügyi és örökségvédelmi hatósági engedélyezési eljárások elektronikus lefolytatását Támogató Dokumentációs Rendszer, valamint az Országos Építésügyi Nyilvántartás működése; a nemzeti építészetpolitika céljainak ismerete
+1.7.[^105] Építésügyi igazgatás: építésügyi hatósági intézményrendszer rövid bemutatása; építészeti-műszaki dokumentáció véleményezése; az Építésügyi és örökségvédelmi hatósági engedélyezési eljárások elektronikus lefolytatását Támogató Dokumentációs Rendszer, valamint az Országos Építésügyi Nyilvántartás működése; a nemzeti építészetpolitika céljainak ismerete
 
 1.8. Kulturális örökségvédelem: műemlékvédelmi alapfogalmak, az egyedi műemlékek típusai, műemléki területek (egyedi és területi védelem); a műemlékek védelme az engedélyezési és bejelentési eljárás keretében; a tervtanácsok feladatai a műemlékek és műemléki területek védelme érdekében; helyi értékvédelem és települési értékleltár
 
 1.9. Világörökség-védelem: világörökség fogalma és hazánk világörökségi területei; a világörökségek védelme az engedélyezési eljárások keretében; a világörökségi kezelési terv tartalma; a tervtanácsok világörökségi feladatai
 
-1.10.[^96] Természet- és tájvédelem, települési infrastruktúra: a természetvédelem alapfogalmainak ismerete; a Nemzeti Tájstratégia célrendszere, az építmények tájba illesztésének követelménye, a zöldinfrastruktúra fogalmi köre, hálózatának tervezésének kérdésköre; a tájépítészeti alkotások fogalma, sajátosságai és építményekhez való viszonya; a zöldfelületi tanúsítás és a zöld védjegy
+1.10.[^106] Természet- és tájvédelem, települési infrastruktúra: a természetvédelem alapfogalmainak ismerete; a Nemzeti Tájstratégia célrendszere, az építmények tájba illesztésének követelménye, a zöldinfrastruktúra fogalmi köre, hálózatának tervezésének kérdésköre; a tájépítészeti alkotások fogalma, sajátosságai és építményekhez való viszonya; a zöldfelületi tanúsítás és a zöld védjegy
 
 1.11. Tervtanácsok feladatai, típusai; műemlékvédelem; helyi értékvédelem; örökségvédelmi hatástanulmányok, értékvédelmi terv, települési értékleltár
 
 1.12. A főépítész kommunikációs lehetőségei, területei
 
-1.13.[^97]
+1.13.[^107]
 
-2.[^98] Az állami főépítészi szóbeli vizsga témakörei (összesen hármat kell kiválasztani)
+2.[^108] Az állami főépítészi szóbeli vizsga témakörei (összesen hármat kell kiválasztani)
 
 2.1. Helyi építési szabályzat módosításának záró véleményezése (kötelező)
 
@@ -48,7 +48,7 @@
 
 2.3.5. Területfelhasználási engedély összeállítása területrendezési hatósági eljárásban
 
-3.[^99] Az önkormányzati főépítészi szóbeli vizsga témakörei (összesen kettőt kell kiválasztani)
+3.[^109] Az önkormányzati főépítészi szóbeli vizsga témakörei (összesen kettőt kell kiválasztani)
 
 3.1. Településtervezőnek vagy településmérnök végzettségű vizsgázónak: egy épületterv településképi véleményezése
 
@@ -86,10 +86,10 @@
 
 3.3.15. Építészeti pályázat kiírásának indokolása polgármester vagy képviselő-testület felé
 
-[^93]: Az eredeti melléket megjelölése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése alapján 1. mellékletre változott. Az 1. melléklet a 241/2021. (V. 12.) Korm. rendelet 6. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 102. § a) pontja szerint módosított szöveg.
-[^94]: Az 1. melléklet 1. pont 1.6. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
-[^95]: Az 1. melléklet 1. pont 1.7. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § b) pontja és 52. § g) pontja szerint módosított szöveg.
-[^96]: Az 1. melléklet 1. pont 1.10. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § c) pontja szerint módosított szöveg.
-[^97]: Az 1. melléklet 1. pont 1.13. alpontját a 285/2024. (IX. 30.) Korm. rendelet 52. § h) pontja hatályon kívül helyezte.
-[^98]: Az 1. melléklet 2. pontja a 285/2024. (IX. 30.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^99]: Az 1. melléklet 3. pontját a 285/2024. (IX. 30.) Korm. rendelet 50. §-a iktatta be.
+[^103]: Az eredeti melléket megjelölése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése alapján 1. mellékletre változott. Az 1. melléklet a 241/2021. (V. 12.) Korm. rendelet 6. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 102. § a) pontja szerint módosított szöveg.
+[^104]: Az 1. melléklet 1. pont 1.6. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
+[^105]: Az 1. melléklet 1. pont 1.7. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § b) pontja és 52. § g) pontja szerint módosított szöveg.
+[^106]: Az 1. melléklet 1. pont 1.10. alpontja a 285/2024. (IX. 30.) Korm. rendelet 51. § c) pontja szerint módosított szöveg.
+[^107]: Az 1. melléklet 1. pont 1.13. alpontját a 285/2024. (IX. 30.) Korm. rendelet 52. § h) pontja hatályon kívül helyezte.
+[^108]: Az 1. melléklet 2. pontja a 285/2024. (IX. 30.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^109]: Az 1. melléklet 3. pontját a 285/2024. (IX. 30.) Korm. rendelet 50. §-a iktatta be.
