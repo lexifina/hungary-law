@@ -2,7 +2,7 @@
 
 59. § (1) Az új építmények, önálló rendeltetési egységek, építési telkek rendeltetésszerű használatához – az (5) és (6) bekezdés szerinti eltérő szabályok alkalmazhatósága mellett – legalább a 4. melléklet szerinti gépjármű elhelyezési lehetőséget kell biztosítani.
 
-(2) Meglévő építmények bővítése, átalakítása, rendeltetésük módosítása esetében – a 4. melléklet 3. pontja kivételével – csak a bővítésből, az átalakításból, az új rendeltetésből vagy a rendeltetési egységek számának változásából eredő többlet gépjármű elhelyezéséről kell gondoskodni, a meglévők megtartása mellett. Műemlék – ideértve a helyi emléket is – bővítéssel nem járó átalakítása, rendeltetésmódosítása esetében – a 4. melléklet 3. pontja kivételével – nem kell többlet gépjármű elhelyezési lehetőségét biztosítani.
+(2)[^99] Meglévő építmények bővítése, átalakítása, rendeltetésük módosítása esetében – a 4. melléklet 3. pontja kivételével – csak a bővítésből, az átalakításból, az új rendeltetésből vagy a rendeltetési egységek számának változásából eredő többlet gépjármű elhelyezéséről kell gondoskodni, a meglévők megtartása mellett. Műemlék – ideértve a helyi emléket is – bővítéssel nem járó átalakítása, rendeltetésmódosítása esetében nem kell többlet gépjármű elhelyezési lehetőségét biztosítani azzal, hogy a 4. melléklet 3. pontja szerinti esetben a helyi építési szabályzat eltérően rendelkezhet.
 
 (3) Nem kell gépjármű elhelyezési lehetőséget biztosítani
 
@@ -14,9 +14,9 @@ c) a közforgalmú személyközlekedés állomásának utasforgalmat szolgáló 
 
 d) a vendéglátó önálló rendeltetési egység közterületi terasza esetén.
 
-(4) A gépjárműveket telken belül, elsődlegesen épületben vagy terepszint alatti építményben kell elhelyezni. Ha az adottságok szükségessé teszik, és azt a helyi építési szabályzat megengedi, – a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározottak szerint – a gépjármű várakozóhelyek a 4. melléklet 3. pontja kivételével a telekhatártól mért, legfeljebb 500 méteren belüli más telken parkolóban, parkolóházban, illetve a közforgalom céljára átadott magánút egy részének felhasználásával is kialakíthatók. Parkolóház esetén a mozgásukban korlátozottak részére kialakított várakozóhelyeknek akadálymentes elérési útvonalon elérhetőnek kell lenniük.
+(4)[^100] A gépjárműveket telken belül, elsődlegesen épületben vagy terepszint alatti építményben kell elhelyezni. Ha az adottságok szükségessé teszik, és azt a helyi építési szabályzat megengedi, – a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározottak szerint – a gépjármű várakozóhelyek a telekhatártól mért, legfeljebb 500 méteren belüli más telken parkolóban, parkolóházban, illetve a közforgalom céljára átadott magánút egy részének felhasználásával is kialakíthatók. Parkolóház esetén a mozgásukban korlátozottak részére kialakított várakozóhelyeknek akadálymentes elérési útvonalon elérhetőnek kell lenniük.
 
-(4a)[^17] A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben elsődlegesen felszíni várakozóhelyek alakítandók ki.
+(4a)[^101] A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben elsődlegesen felszíni várakozóhelyek alakítandók ki.
 
 (5) A helyi építési szabályzat a 4. és az 5. mellékletben meghatározott gépjármű, kerékpár és motorkerékpár várakozóhelyek számára vonatkozó előírásoktól – a 4. melléklet 3. pontja kivételével – eltérhet, ha
 
@@ -48,4 +48,6 @@ várakozóhely létesítendő.
 
 (11) A személygépjármű álláshelyek kialakítása során a 2. melléklet 11–13. ábráját figyelembe kell venni.
 
-[^17]: Az 59. § (4a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 30. §-a iktatta be.
+[^99]: Az 59. § (2) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 52. pontja szerint módosított szöveg.
+[^100]: Az 59. § (4) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 77. § c) pontja szerint módosított szöveg.
+[^101]: Az 59. § (4a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 30. §-a iktatta be.

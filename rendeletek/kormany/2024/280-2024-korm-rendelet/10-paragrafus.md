@@ -2,7 +2,7 @@
 
 a) a rendeltetési egységenként egy darab, legfeljebb 6 m2 alapterületű erkély,
 
-b) rendeltetési egységenként egy darab, legfeljebb 6 m2 hasznos alapterületű loggia,
+b)[^41] a loggia,
 
 c) a függőfolyosó, az oldalról nyitott emeleti folyosó,
 
@@ -20,6 +20,8 @@ i) az árkád,
 
 j) az 1,90 méternél kisebb belmagasságú helyiség vagy helyiségrész
 
+k)[^42] az épület homlokzati síkján belül lévő, két oldalról falakkal, alulról és felülről födémekkel határolt, helyiséghez közvetlenül csatlakozó külső tartózkodó tér
+
 bruttó alapterületét.
 
 (2) A szintterület számítása során a lépcsőház alapterületét szintenként be kell számítani az épület bruttó alapterületébe.
@@ -31,3 +33,6 @@ bruttó alapterületét.
 (5) A fedett terasz beszámít a telek beépítettségébe. Az a fedett terasz, amelynek teljes területe felett erkély van, nem minősül fedett terasznak, és nem számít bele a telek beépítettségébe.
 
 (6) Ha a fővárosi rendezési szabályzat a szintterületi átlagérték számításáról külön rendelkezik, a kerületi építési szabályzat a szintterületi mutatót ezzel összhangban állapítja meg.
+
+[^41]: A 10. § (1) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^42]: A 10. § (1) bekezdés k) pontját a 448/2025. (XII. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.

@@ -43,3 +43,7 @@ b) a tanya területe legalább 60 százalékának a fekvése szerinti általáno
 (6) A tanya területén – a (3) és az (5) bekezdés szerinti követelmények betartása mellett – vendéglátó rendeltetést tartalmazó épület is elhelyezhető.
 
 (7) E rendelkezés hatálybalépését követően új tanyát nem lehet létesíteni az országos jelentőségű védett természeti területen.
+
+(8)[^65] Új tanya létesítése esetén az (1) bekezdés d) pontja szerinti feltüntetést követően és az (1) bekezdés e) pontja szerinti jogi jelleg bejegyzést megelőzően kell teljesíteni az (1) bekezdés b) és c) pontjában foglalt követelményeket.
+
+[^65]: A 36. § (8) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 64. §-a iktatta be.

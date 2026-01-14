@@ -52,13 +52,13 @@
 
 25. előlépcső: az épület körüli járdáról, vagy a rendezett csatlakozó terepszintről induló, az építmény bejáratához csatlakozó olyan szabadlépcső, mely az épület egy szintmagasságánál kevesebbet hidal át;
 
-26. előtető: az épület bejáratának homlokzatához csatlakozó, felülről zárt, három oldalról nyitott építmény, amelynek tartószerkezete függesztett, konzolos vagy oszlopokkal alátámasztott;
+26.[^6] előtető: az épület homlokzatához csatlakozó, felülről zárt tetőszerkezet, amely függesztett vagy konzolos, és a csapadék és a napfény elleni védelmet szolgálja;
 
 27. emeletráépítés: meglévő építmény függőleges irányú bővítése egy vagy több emelet szint létesítése érdekében;
 
 28. eresz: a tető legalsó, a homlokzati falsíkon túlnyúló, ereszcsatornával együttes része;
 
-29. erkély: az épület homlokzati síkjától kinyúló, konzolos, függesztett vagy pontszerűen alátámasztott kialakítású külső – legfeljebb egy oldalról zárt – tartózkodó tér;
+29.[^7] erkély: az épület homlokzati síkjától kinyúló, konzolos, függesztett vagy pontszerűen alátámasztott kialakítású külső – legfeljebb két oldalról zárt – tartózkodó tér;
 
 30. építési határvonal: az építési telek és telek előkertjének mélységét, oldalkertjének szélességét és hátsókertjének mélységét meghatározó, az építési telek és telek építési helyének megállapítására szolgáló elméleti vonal;
 
@@ -70,19 +70,19 @@
 
 34. építészeti érték: az épített környezet minden olyan tárgyi és szellemi – építészettörténeti, építőművészeti, műszaki-tudományos – építészeti, tájépítészeti minőséggel rendelkező alkotásokban megjelenő értéke, amelyben a mindenkori társadalom – ezen belül a helyi közösségek – identitása és alkotóképessége fejeződik ki;
 
-35. építményszint: az építmény mindazon használati szintje, amelyen helyiség van, ide nem értve a padlást, valamint azt a tetőszintet, amelyen a felvonógépházon, gépészeti berendezéseket tartalmazó, zöldtető fenntartásához kapcsolódó, huzamosabb tartózkodásra nem szolgáló helyiségen vagy a lépcsőház felső szintjén kívül más helyiség nincs;
+35.[^8] építményszint: az építmény mindazon használati szintje, amelyen helyiség vagy fedett, oldalirányban nyitott tér van, ide nem értve a padlást, valamint azt a tetőszintet, amelyen a felvonógépházon, gépészeti berendezéseket tartalmazó, zöldtető fenntartásához kapcsolódó, huzamosabb tartózkodásra nem szolgáló helyiségen vagy a lépcsőház felső szintjén kívül más helyiség nincs;
 
 36. épülethézag: zártsorú beépítési mód esetében az építési helyen belül, a telek oldalhatára mentén a közterület felé eső, a zárt térfalat megszakító, a terepszint felett nem, a terepszint alatt beépíthető terület;
 
 37. épületköz: zártsorú beépítési mód esetében az építési helyen belül, a közterület felé eső zárt térfalat az átlátás, átszellőzés vagy átközlekedés érdekében megszakító, a terepszint felett nem vagy csak a helyi építési szabályzatban meghatározott módon, a terepszint alatt teljes egészében beépíthető terület egy telken, vagy telekhatáron csatlakozó két szomszédos telken;
 
-38. épület legmagasabb pontja: az épületnek
+38.[^9] épület legmagasabb pontja: az épületnek
 
 a) a műszakilag indokolt rendezett terephez, lejtős terepen a lejtőoldali legalacsonyabb műszakilag indokolt rendezett terephez vagy
 
 b) valamely domborzati vagy építészeti magas ponthoz
 
-viszonyított legfelső pontja, amelynek meghatározásánál az épület tetőzetén elhelyezett antennát, kéményt és villámhárítót figyelmen kívül kell hagyni;
+viszonyított legfelső pontja, amelynek meghatározásánál az épület tetőzetén elhelyezett antennát, kéményt, villámhárítót, napelemet és lépcsőház tetőkijáratát figyelmen kívül kell hagyni;
 
 39. fényszennyezés: olyan mesterséges zavaró fény, ami a horizont fölé vagy nem kizárólag a megvilágítandó felületre és annak irányába, illetve nem a megfelelő időszakban, színhatással világít, ezzel káprázást, az égbolt mesterséges fénylését vagy káros élettani és környezeti hatást okoz, beleértve az élővilágra gyakorolt negatív hatásokat is;
 
@@ -90,7 +90,7 @@ viszonyított legfelső pontja, amelynek meghatározásánál az épület tetőz
 
 41. főépület: az építési övezetben, övezetben elhelyezhető rendeltetést, vagy rendeltetéseket magában foglaló épület, épületek;
 
-42. földszint: olyan építményszint, amelynek padlószintje legfeljebb 20 százalékában és legfeljebb 0,70 méterrel kerül a csatlakozó rendezett terepszint alá;
+42.[^10] földszint: olyan építményszint, amelynek padlószintje legfeljebb 20 százalékában és legfeljebb 0,70 méterrel kerül a csatlakozó rendezett terepszint alá, és ezen padlószint nem kerül a csatlakozó rendezett terepszintnél 1,80 méternél magasabbra;
 
 43. függönyfal: az építmény tartószerkezeteihez rögzített, azok előtt folytonosan kialakított önhordó térelhatároló falszerkezet;
 
@@ -136,11 +136,13 @@ d) a rendeltetésszerű és biztonságos használathoz szükséges közműcsatla
 
 60. járófelület: emberi tartózkodás vagy közlekedés céljára alkalmas felület;
 
+60a.[^11] jellemző homlokzati sík: az építmény nézőpont felé eső azon külső felületeinek összessége, amelyek legalább az adott homlokzatot tekintve a legnagyobb mértékben azonos síkban vannak, azzal, hogy íves homlokzatfelület esetén az 52. pont szerinti homlokzat a jellemző homlokzati sík;
+
 61. kereskedelmi, szolgáltató rendeltetés: olyan rendeltetés, amely anyagi és szellemi termékek, szolgáltatások értékesítésének, tárolásának biztosítására szolgál, ideértve az üzemanyagtöltő állomást is;
 
 62. kerítés: a telek területét a közterülettől, a telek közhasználat céljára átadott területétől, illetve a szomszédos telkek területétől vagy a telek különböző rendeltetésű vagy használatú részeit térben elválasztó, lehatároló építmény;
 
-63. kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és tárolásra – ide nem értve a gépjárműtárolót – szolgáló építmény;
+63.[^12] kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és kerti eszközök tárolására szolgáló építmény, valamint a rendeltetéstől függetlenül telkenként egy, legfeljebb 20 m2 vízszintes vetületű, minden oldalról nyitott kerti tető, amelynek a legmagasabb pontja legfeljebb 3,00 méter, ide nem értve a gépjárműtárolót;
 
 64. két szintes növényállomány: a talajfelszínt egyszerre gyep- és cserjeszinttel, cserje- és lombkoronaszinttel vagy egyszerre gyep- és lombkoronaszinttel fedő növényzet;
 
@@ -182,13 +184,13 @@ d) a rendeltetésszerű és biztonságos használathoz szükséges közműcsatla
 
 83. kulturális rendeltetés: olyan rendeltetés, amely kiállítás, előadás, rendezvény szervezése és tartása, ismeretterjesztés, művelődés, egyéb szórakoztatás biztosítására szolgál, ideértve a cirkuszi előadás állandó helyszínen történő biztosítását;
 
-84. lakótelep: beépítési terv és egységes építészeti koncepció alapján, egyidejűleg vagy 10 év alatt megépült olyan többlakásos lakóépületek csoportja, amely a szükséges közlekedési-, közmű- és humán infrastruktúrával és jellemzően közhasználatú zöldfelülettel együtt valósult meg;
+84.[^13] lakótelep: meglévő, vagy beépítési terv és egységes építészeti koncepció alapján, egyidejűleg vagy 10 év alatt megépült vagy megépülő olyan többlakásos lakóépületek csoportja, amely a szükséges közlekedési-, közmű- és humán infrastruktúrával és jellemzően közhasználatú zöldfelülettel együtt valósult meg vagy fog megvalósulni;
 
 85. lapostető: olyan tető, amelynek lejtése legfeljebb 5 fok;
 
-86. légakna: közel azonos légszennyezettségű helyiségek közvetlen természetes szellőzésére szolgáló, határfalakkal határolt, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó, oldalán nyitott tér;
+86.[^14] légakna: közel azonos légszennyezettségű helyiségek közvetlen természetes szellőzésére szolgáló, határfalakkal határolt és felülről nyitott tér, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó, oldalán nyitott tér;
 
-87. légudvar: helyiségek közvetlen természetes szellőzésére és megvilágítására szolgáló, épületszárnyakkal, határfalakkal körülhatárolt belső udvar, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó, oldalán nyitott tér;
+87.[^15] légudvar: helyiségek közvetlen természetes szellőzésére és megvilágítására szolgáló, épületszárnyakkal, határfalakkal körülhatárolt és felülről nyitott belső udvar, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó, oldalán nyitott tér;
 
 88. lépcsőkar szabad szélessége: a lépcsőkorlátok, vagy a lépcsőkorlát és a fal között mért legkisebb vízszintes távolság, amelyet a lépcsőfelvonó csukott szerkezeti mérete nem csökkenthet;
 
@@ -200,7 +202,7 @@ d) a rendeltetésszerű és biztonságos használathoz szükséges közműcsatla
 
 92. megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontja szerinti megújuló energiaforrás;
 
-93. megújuló energiaforrás műtárgya: olyan helyhez kötött berendezés, amely megújuló energiaforrásból villamos energia termelését szolgálja;
+93.[^16] megújuló energiaforrás műtárgya: olyan helyhez kötött berendezés, amely megújuló energiaforrásból villamos energia termelését és tárolását szolgálja;
 
 94. melléképítmény: a telek és a telken álló főépület, főépületek rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény, különösen:
 
@@ -226,11 +228,11 @@ j) építménynek minősülő antennatartó szerkezet, zászlótartó oszlop,
 
 k) szolgáltató automata;
 
-l)[^1] sprinkler tartály és gépház,
+l)[^17] sprinkler tartály és gépház,
 
-m)[^2] csapadékvíz-tároló,
+m)[^18] csapadékvíz-tároló,
 
-n)[^3] oltóvíztároló;
+n)[^19] oltóvíztároló;
 
 95. melléképület: a fő rendeltetési egységet kiszolgáló, egyéb kiegészítő helyiséget tartalmazó önálló épület, amely nem minősül melléképítménynek, továbbá nem gazdasági tevékenység folytatását szolgálja, és a főépülettel együtt vagy annak felépítését követően valósul meg;
 
@@ -268,7 +270,7 @@ n)[^3] oltóvíztároló;
 
 112. önálló parkolóterület: nem közlekedési területbe tartozó, egy helyrajzi számon nyilvántartott telken kialakított járművek tárolására, vagy tartós várakozására szolgáló terület;
 
-113. önálló rendeltetési egység: meghatározott rendeltetés céljára önmagában alkalmas helyiség vagy helyiségcsoport, amelynek a szabadból vagy az épületen belüli közös közlekedőből nyíló önálló bejárata van;
+113.[^20] önálló rendeltetési egység: meghatározott rendeltetés céljára önmagában alkalmas helyiség vagy helyiségcsoport, amelynek a szabadból vagy az épületen belüli közös közlekedőből nyíló önálló bejárata van, továbbá saját közüzemi fogyasztásmérővel rendelkezik;
 
 114. összes hasznos alapterület: az összes építményszint hasznos alapterülete;
 
@@ -276,7 +278,7 @@ n)[^3] oltóvíztároló;
 
 116. övezet: a beépítésre nem szánt területeken belül a területrészek sajátos építési használatnak megfelelő besorolás;
 
-117. padlószint: födémszerkezetek vagy talajon fekvő aljzatszerkezetek járófelülete;
+117.[^21] padlószint: födémszerkezetek vagy talajon fekvő aljzatszerkezetek járófelülete, ide nem értve az épület körüli járdát;
 
 118. parapetmagasság: a padlószint és az ablaknyílás könyöklője közötti távolság;
 
@@ -286,7 +288,7 @@ n)[^3] oltóvíztároló;
 
 a) magastetős épület, vagy épületrész esetében az épület jellemző homlokzati síkja és a tetősík metszésvonala,
 
-b) lapostetős épület, vagy épületrész esetében az épület jellemző homlokzati síkja és a zárófödém felső síkjának metszésvonala
+b)[^22] nem magastetős épület, vagy épületrész esetében az épület jellemző homlokzati síkja és a zárófödém legfelső pontjára illesztett vízszintes magassági sík metszésvonala
 
 között függőlegesen mért távolság;
 
@@ -316,7 +318,7 @@ között függőlegesen mért távolság;
 
 133. szabad méret: a helyiség azon alaprajzi mérete, amelybe épületszerkezet, beépített berendezés, vezeték vagy más szerkezet nem állhat be;
 
-134.[^4] szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó, a szabályozási terven meghatározott tervezett közterületi telekhatár, amely egyben övezethatár is;
+134.[^23] szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó, a szabályozási terven meghatározott tervezett közterületi telekhatár, amely egyben övezethatár is;
 
 135. szállás jellegű rendeltetés: olyan rendeltetés, amely üzleti jellegű, nem életvitelszerű huzamos éjszakai ott-tartózkodás, pihenés biztosítására és az ezzel közvetlenül összefüggő kényelmi és ellátási szolgáltatás nyújtására szolgál;
 
@@ -352,11 +354,11 @@ bc) előtető, eresz és függőfolyosó – az épület tömegétől kiálló r
 
 bd) a terepcsatlakozástól legalább 2,00 méterrel magasabban lévő erkély – az épület tömegétől kiálló részeinek – az épülettől számított 2,00 méteres sávba eső vízszintes vetületét,
 
-c) lakóterületen egy, legfeljebb 20 m2 vízszintes vetületű, minden oldalról nyitott kerti tetőt, amelynek a legmagasabb pontja legfeljebb 3,00 méter,
+c)[^24] lakóterületen egy, legfeljebb 20 m2 vízszintes vetületű, minden oldalról nyitott kerti tetőt, amelynek a legmagasabb pontja legfeljebb 3,00 méter, továbbá a gépjármű-lift és a napelemes kocsibeálló területét,
 
 d) azt a fedett teraszt, amelynek teljes területe felett erkély van;
 
-146. telek beépített területe terepszint alatt: a telken található terepszint alatti építmények, építményrészek bruttó alapterületének összessége;
+146.[^25] telek beépített területe terepszint alatt: a telken található terepszint alatti építmények, valamint az épületek terepszint alá nyúló építményrészeinek bruttó alapterületének összessége;
 
 147. telek homlokvonala: a teleknek a közterülettel vagy az ingatlan-nyilvántartásban magánútként nyilvántartott telekkel közös határvonala;
 
@@ -388,6 +390,8 @@ d) azt a fedett teraszt, amelynek teljes területe felett erkély van;
 
 161. természetes építőanyagok: olyan természetes alapanyagokból – különösen föld, sár, agyag, vályog, szalma, kender, nád, gyékény, fa, terméskő vagy cellulóz – készülő építési termékek, amelyek az alapanyagból építőanyaggá alakítási, gyártási folyamat során minimális felhasznált energiával, kémiai átalakítás nélkül készülnek, és amelyeknek a teljes életciklusra vizsgált környezetterhelési hatása a gyártás, használat, elbomlás, újra felhasználás során elhanyagolható;
 
+161a.[^26] terepszint alatti beépítettség megengedett mértéke: a telek terepszint alatt beépített területének a telek teljes – nyúlványos telek esetében a teleknyúlvány területével csökkentett – területéhez viszonyított megengedett mértéke;
+
 162. terepszint alatti építmény: olyan, szerkezetileg önálló építmény, amely földdel fedve is – a bejárat felőli oldal kivételével – legfeljebb 1,00 méterrel emelkedik ki a környező (szomszédos) és a csatlakozó terepszintből, legfeljebb bejárati vagy tereplejtő felőli homlokzatfelülete van, és legfeljebb a tereplejtő felőli és az olyan oldalhomlokzati felületrésze kerül a terepszint fölé, amelyhez a terepbevágásban közvetlenül kerti szabadlépcső vagy lejtő csatlakozik;
 
 163. tetőfelépítmény: a tető felső síkja fölé emelkedő, az épület rendeltetésszerű használatát biztosító épületrész, azzal, hogy
@@ -406,7 +410,7 @@ b) a kémény, az antenna, villámhárító és a tetősíkban fekvő ablak nem 
 
 168. tömegtartózkodásra szolgáló helyiség: egyidejűleg 300 főnél nagyobb befogadóképességű helyiség;
 
-169. tulajdonosi lakás: az üzemeltető vagy a tulajdonos számára a tartós, életvitelszerű lakhatást biztosító épületrész;
+169.[^27] tulajdonosi lakás: az üzemeltető vagy a tulajdonos számára a tartós, életvitelszerű lakhatást biztosító rendeltetési egység;
 
 170. tűzfal: a vonatkozó műszaki követelménynek megfelelő tűzállósági határértékű, A1 tűzvédelmi osztályú térelhatároló folytonos függőleges falszerkezet, amelyet úgy kell kialakítani, hogy az általa elválasztott tűzszakaszok vagy építmények egyikének állékonyságvesztése, illetve az ebből adódó oldalirányú erőhatás esetén is megőrizze tűzterjedést gátló képességeit;
 
@@ -414,7 +418,7 @@ b) a kémény, az antenna, villámhárító és a tetősíkban fekvő ablak nem 
 
 172. utcai párkánymagasság vonala: az utcai légtérarány meghatározására szolgáló vízszintes vonal, melynél az épület egyes pontjainak párkánymagassága csak a helyi építési szabályzatban a homlokzatszélesség arányában meghatározottak szerint lehet magasabb;
 
-173. úszótelek: a Méptv. szerinti tömbtelken álló, külön tulajdonú épületek részére kialakított telek;
+173.[^28] úszótelek: a Méptv. szerinti tömbtelken álló, külön tulajdonú épületek részére kialakított telek, amely teljesíti az egyes földügyi eljárások részletes szabályairól szóló kormányrendeletben meghatározott követelményeket;
 
 174. üdülő rendeltetés: olyan rendeltetés, amely az időszakos pihenés, a nem életvitelszerű ott-tartózkodás biztosítására szolgál;
 
@@ -424,7 +428,7 @@ b) a kémény, az antenna, villámhárító és a tetősíkban fekvő ablak nem 
 
 177. vendéglátó rendeltetés: olyan rendeltetés, amely ételek, italok helyben fogyasztását és ezzel összefüggő szórakoztatás vagy más szolgáltatás nyújtás lehetőségét biztosítja;
 
-178. vetített alapvonal: a beépítési magasság megállapításánál alkalmazott, az épület jellemző homlokzati síkjának és a műszakilag indokolt rendezett terep legalacsonyabb metszéspontján felvett vízszintes vonal;
+178.[^29] vetített alapvonal: a beépítési magasság megállapításánál alkalmazott, az épület jellemző homlokzati síkjainak és a műszakilag indokolt rendezett terepnek metszéspontján felvett vonal vízszintes vetülete;
 
 179. vezetékrendszer: egy vagy több, sodronyokból, kábelekből, sínekből, és azok szerelvényeiből – ideértve az optikai kábeleket is – álló villamos- vagy információtechnikai vezeték, ezek rögzítésére szolgáló eszközök, valamint ezek mechanikai védelmének együttese;
 
@@ -432,11 +436,35 @@ b) a kémény, az antenna, villámhárító és a tetősíkban fekvő ablak nem 
 
 181. zárófödém: beépített tetőtér vagy padlástér nélkül kialakított építmény, építményrész, épület, valamint terepszint alatti építmény, építményrész, épület legfelső használati szintjét lefedő födém;
 
+181a.[^30] zárványtelek: építési telkek vagy telkek által körbezárt, közterületi kapcsolattal és magánút kapcsolattal sem rendelkező telek;
+
 182. zöldfal: építményhez rögzített, mesterségesen létrehozott vagy homlokzatra futtatott jellemzően sík, növényzettel fedett felület, tartó- és futtatószerkezetével, ültetőközeggel együtt;
 
-183. zöldtető: mélygarázs, épület, egyéb építmény épített födémszerkezetén mesterségesen létrehozott, jellemzően sík, növényzettel fedett felület, a legfelső szigetelőréteg fölött kialakított egyéb technikai rétegekkel és ültetőközeggel együtt.
+183.[^31] zöldtető: építmény, építményrész épített födémszerkezetén mesterségesen létrehozott, jellemzően sík, növényzettel fedett felület, a legfelső szigetelőréteg fölött kialakított egyéb technikai rétegekkel és ültetőközeggel együtt.
 
-[^1]: Az 5. § 94. pont l) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
-[^2]: Az 5. § 94. pont m) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
-[^3]: Az 5. § 94. pont n) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
-[^4]: Az 5. § 134. pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^6]: Az 5. § 26. pontja a 448/2025. (XII. 29.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § 29. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 6. pontja szerint módosított szöveg.
+[^8]: Az 5. § 35. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 7. pontja szerint módosított szöveg.
+[^9]: Az 5. § 38. pont záró szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 76. § 8. pontja szerint módosított szöveg.
+[^10]: Az 5. § 42. pontja a 448/2025. (XII. 29.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § 60a. pontját a 448/2025. (XII. 29.) Korm. rendelet 55. § (3) bekezdése iktatta be.
+[^12]: Az 5. § 63. pontja a 448/2025. (XII. 29.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^13]: Az 5. § 84. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 9. pontja szerint módosított szöveg.
+[^14]: Az 5. § 86. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 10. pontja szerint módosított szöveg.
+[^15]: Az 5. § 87. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 11. pontja szerint módosított szöveg.
+[^16]: Az 5. § 93. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 12. pontja szerint módosított szöveg.
+[^17]: Az 5. § 94. pont l) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^18]: Az 5. § 94. pont m) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^19]: Az 5. § 94. pont n) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^20]: Az 5. § 113. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 13. pontja szerint módosított szöveg.
+[^21]: Az 5. § 117. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 14. pontja szerint módosított szöveg.
+[^22]: Az 5. § 120. pont b) alpontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 15. pontja szerint módosított szöveg.
+[^23]: Az 5. § 134. pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^24]: Az 5. § 145. pont c) alpontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 16. pontja szerint módosított szöveg.
+[^25]: Az 5. § 146. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 17. pontja szerint módosított szöveg.
+[^26]: Az 5. § 161a. pontját a 448/2025. (XII. 29.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^27]: Az 5. § 169. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 18. pontja szerint módosított szöveg.
+[^28]: Az 5. § 173. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 19. pontja szerint módosított szöveg.
+[^29]: Az 5. § 178. pontja a 448/2025. (XII. 29.) Korm. rendelet 55. § (6) bekezdésével megállapított szöveg.
+[^30]: Az 5. § 181a. pontját a 448/2025. (XII. 29.) Korm. rendelet 55. § (7) bekezdése iktatta be.
+[^31]: Az 5. § 183. pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 20. pontja szerint módosított szöveg.

@@ -24,10 +24,13 @@ g) kerékpárút esetén 3,00 méter,
 
 h) gyalogút esetén 3,00 méter.
 
-(3) A (2) bekezdés a)–e) pontja szerinti közúti közlekedési terület biztosításakor az ott meghatározott területszélességnél kevesebb is megállapítható, ha az adott közút az irányelvek szerinti műszaki paraméterek betartásával biztonságosan kialakítható.
+(3)[^52] A (2) bekezdés a)–e) pontja szerinti közúti közlekedési terület biztosításakor az ott meghatározott területszélességnél kevesebb is megállapítható, ha az adott közút az irányelvek szerinti műszaki paraméterek és az útügyi műszaki előírások betartásával biztonságosan kialakítható.
 
-(4) A közlekedési terület méretén belül kell biztosítani a zöldfelületet, a gyalogosközlekedést, valamint a közművek elhelyezését.
+(4)[^53] A közlekedési terület méretén belül kell biztosítani a zöldfelületet, a gyalogosközlekedést, valamint a közművek elhelyezését és szükség esetén a csapadékvíz nyílt árokban való elvezetését.
 
 (5) A (2) bekezdés a)–c) pontja szerinti közúti közlekedési területen a közlekedést kiszolgáló épület, valamint a területet igénybe vevők ellátását szolgáló iroda, kereskedelmi, szolgáltató, vendéglátó, raktár- és szállásjellegű épület helyezhető el, azzal, hogy lakás – egy szolgálati lakás kivételével – nem helyezhető el.
 
 (6) A (2) bekezdés d), e), g) és h) pontja szerinti közlekedési területen kereskedelmi, szolgáltató, vendéglátó épület a helyi építési szabályzatban meghatározottak szerint helyezhető el.
+
+[^52]: A 28. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 32. pontja szerint módosított szöveg.
+[^53]: A 28. § (4) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 33. pontja szerint módosított szöveg.

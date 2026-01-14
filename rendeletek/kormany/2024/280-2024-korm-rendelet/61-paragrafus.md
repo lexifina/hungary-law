@@ -24,6 +24,13 @@ b) a tulajdonát képező ingatlan előtti járda hiányában a kerítéstől m�
 
 c) ha az a) pont szerinti járda mellett közterületi zöldsáv is található, annak fenntartásáról és gondozásáról az útszegélyig.
 
+(9a)[^107] Úszótelek esetében a (9) bekezdés szerinti kötelezettség a tulajdonost az úszótelek telekhatáráig terheli.
+
 (10) A (8) és (9) bekezdésben foglaltak elmulasztása esetén a Méptv. 100. §-ában foglaltak szerint kell eljárni.
 
 (11) Élősövény létesítése esetén azt a tulajdonosnak a telekhatáron belül kell létesítenie és fenntartania úgy, hogy az élősövény ne nyúljon túl a telekhatáron.
+
+(12)[^108] Az élősövény létesítése nem minősül építési tevékenységnek.
+
+[^107]: A 61. § (9a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 71. § (1) bekezdése iktatta be.
+[^108]: A 61. § (12) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.

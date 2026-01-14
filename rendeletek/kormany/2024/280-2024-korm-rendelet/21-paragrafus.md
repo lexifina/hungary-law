@@ -1,6 +1,6 @@
 ## 20. Kereskedelmi, szolgáltató gazdasági terület
 
-21. § (1)[^5] A kereskedelmi, szolgáltató gazdasági terület a környezetre jelentős kedvezőtlen hatást nem gyakorló gazdasági, kereskedelmi, szolgáltató és raktár rendeltetésű építmények elhelyezésére szolgál.
+21. § (1)[^50] A kereskedelmi, szolgáltató gazdasági terület a környezetre jelentős kedvezőtlen hatást nem gyakorló gazdasági, kereskedelmi, szolgáltató és raktár rendeltetésű építmények elhelyezésére szolgál.
 
 (2) A kereskedelmi, szolgáltató gazdasági területen elhelyezhető épület önállóan vagy vegyesen:
 
@@ -8,7 +8,7 @@ a) a környezetre jelentős kedvezőtlen hatást nem gyakorló kereskedelmi, szo
 
 b) iroda,
 
-c) a gazdasági területhez kapcsolódó diák- és munkásszállás,
+c)[^51] a gazdasági területhez kapcsolódó diák- és munkásszállás, kapcsolódó egyéb szállás,
 
 d) a területen dolgozók ellátását szolgáló óvoda, bölcsőde, egészségügyi,
 
@@ -26,4 +26,5 @@ rendeltetést tartalmazhat.
 
 (6) A kereskedelmi, szolgáltató gazdasági területen, a 15–18. § szerinti lakóterületek határától számított 200 méteren belül nem helyezhető el hulladékgyűjtő udvar.
 
-[^5]: A 21. § (1) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^50]: A 21. § (1) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^51]: A 21. § (2) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 31. pontja szerint módosított szöveg.

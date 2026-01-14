@@ -18,20 +18,22 @@ c) a kutatást és az ismeretterjesztést szolgáló műtárgyak,
 
 d) a nyilvános illemhelyek,
 
-e) hulladék gyűjtőedények,
+e)[^68] hulladékgyűjtő edények,
 
 f) a szélerőmű, szélerőmű park kivételével, az (5) bekezdésben foglaltak betartása mellett a megújuló energiaforrás műtárgya, amely használata során az építési övezetben, övezetben az elhelyezhető rendeltetéseknek megfelelő használatot nem korlátozza vagy attól nem igényel védelmet.
 
 (4) Valamennyi építési övezetben, illetve övezetben elhelyezhető – e rendelet járművek elhelyezésére vonatkozó szabályainak egyidejű alkalmazásával – a főépülettel együtt vagy annak felépítését követően a gépjárműtároló, ide nem értve a parkolóházat.
 
-(5) Megújuló energiaforrás műtárgya – a háztartási méretű kiserőmű kivételével – erdőterületen, mezőgazdasági területen és természetközeli területen nem helyezhető el, azonban az e rendelkezés hatálybalépése előtt ilyen övezetekben
+(5)[^69] Megújuló energiaforrás műtárgya – a háztartási méretű kiserőmű kivételével és a 42. §-ban foglalt eltérésekkel – erdőterületen, mezőgazdasági területen és természetközeli területen nem helyezhető el, azonban az e rendelkezés hatálybalépése előtt ilyen övezetekben
 
 a) jogszerűen elhelyezett megújuló energiaforrás műtárgya fennmaradhat, és
 
 b) erőművi és hálózati végleges engedéllyel rendelkező megújuló energiaforrás műtárgya elhelyezhető.
 
-(6)[^7] A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – az általános településrendezési követelményekre, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők. Az így elhelyezett építmény rendeltetése – a telek e rendeletben, továbbá a helyi építési szabályzatban meghatározott megengedett beépített területére és beépítési magasságára, az építési helyre, a telek zöldfelületének legkisebb mértékére és a szintterületi mutatóra vonatkozó előírásokra tekintet nélkül – megváltoztatható.
+(6)[^70] A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – az általános településrendezési követelményekre, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők. Az így elhelyezett építmény rendeltetése – a telek e rendeletben, továbbá a helyi építési szabályzatban meghatározott megengedett beépített területére és beépítési magasságára, az építési helyre, a telek zöldfelületének legkisebb mértékére és a szintterületi mutatóra vonatkozó előírásokra tekintet nélkül – megváltoztatható.
 
 (7) E fejezet alkalmazásában – ha e rendelet másként nem rendelkezik – telek alatt az építési telket is érteni kell.
 
-[^7]: A 40. § (6) bekezdése a 332/2025. (X. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 40. § (3) bekezdés e) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 39. pontja szerint módosított szöveg.
+[^69]: A 40. § (5) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 76. § 40. pontja szerint módosított szöveg.
+[^70]: A 40. § (6) bekezdése a 332/2025. (X. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

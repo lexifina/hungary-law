@@ -1,6 +1,6 @@
 ## 42. Napelemek és napkollektorok elhelyezésének sajátos szabályai
 
-43. § (1) Az épület tetőfelületén a napelemet és napkollektort szabályos geometriájú rendben kell elhelyezni olyan módon, hogy azok a tetőfelületről nem lóghatnak ki.
+43. § (1)[^73] Településképi követelményként az épület közterületről látható tetőfelületén a napelemet és napkollektort szabályos geometriájú rendben kell elhelyezni olyan módon, hogy azok a tetőfelületről nem lóghatnak ki.
 
 (2) Épület homlokzatán csak a homlokzati architektúrába integráltan – ide nem értve a (3) bekezdés szerinti eseteket – helyezhető el napelem.
 
@@ -16,6 +16,7 @@
 
 a) tetőfelületeken zöldtető kialakításával biztosított vegyes rendszerben is történhet és
 
-b)[^10] talajszinten csak közterületről nem látható módon lehetséges.
+b)[^74] talajszinten csak közterületről nem látható módon lehetséges.
 
-[^10]: A 43. § (7) bekezdés b) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^73]: A 43. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 41. pontja szerint módosított szöveg.
+[^74]: A 43. § (7) bekezdés b) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.

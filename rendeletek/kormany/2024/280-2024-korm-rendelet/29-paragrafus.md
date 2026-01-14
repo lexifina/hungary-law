@@ -26,10 +26,16 @@ b) kerékpárút és gyalogút hálózati szerep esetén legalább 3 méter.
 
 (9) Magánutat megszüntetni csak akkor lehet, ha az arról kiszolgált építési telek vagy telek más módon megközelíthető vagy kiszolgálható.
 
-(10) Magánúton épület nem helyezhető el.
+(10)[^54] Magánúton épület nem helyezhető el, a magánút terepszint alatt beépíthető, valamint a terepszinten kialakított magánút födémmel lefedhető, ha a felette lévő terület – a közforgalom elől elzárt magánút kivételével – közhasználat számára megnyitott.
 
 (11) A magánúttal feltárt területen belül a közműhálózati csatlakozást a közterület és a magánút határánál kell kiépíteni.
 
-(12) Ha a telek vagy építési telek feltárását biztosító magánút terepszint alatt kerül kialakításra, és a terepszint feletti terület közhasználat számára megnyitott, akkor a terepszint alatti út közforgalom elől elzárható magánút.
+(12)[^55] Ha a telek vagy építési telek feltárását biztosító magánút a terepszint felett a (10) bekezdés szerint lefedésre kerül, vagy terepszint alatt kerül kialakításra, és a terepszint feletti terület közhasználat számára megnyitott, akkor a terepszint alatti út közforgalom elől elzárható magánút.
 
 (13) E § rendelkezéseit a közforgalom elől elzárt és a közforgalom elől el nem zárt magánutakra is alkalmazni kell.
+
+(14)[^56] A helyi építési szabályzatban az egyéb közlekedési területek sajátos használatuk szerint az (1) bekezdés alapján külön övezetekbe is sorolhatóak.
+
+[^54]: A 29. § (10) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^55]: A 29. § (12) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 34. pontja szerint módosított szöveg.
+[^56]: A 29. § (14) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 61. § (2) bekezdése iktatta be.

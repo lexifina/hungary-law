@@ -73,3 +73,7 @@ Az egyéb felületek beszámítása a telekre előírt zöldfelületbe
 | 5. | Üvegház és fóliasátor az 5. § 145. pont a) alpontja szerint | 30% |
 
 | 6. | Zöldfal a 49. § (6) bekezdése szerint | 15% |
+
+| 7.[^148] | Kinyúló épületrész alatti zöldfelület | 30% |
+
+[^148]: A 3. melléklet 2. pontjában foglalt táblázat 7. sorát a 448/2025. (XII. 29.) Korm. rendelet 75. §-a iktatta be.

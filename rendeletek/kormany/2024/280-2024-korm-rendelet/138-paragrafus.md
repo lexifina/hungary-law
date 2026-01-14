@@ -1,13 +1,13 @@
-138. §[^37] E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 284/2025. (VIII. 25.) Korm. rendelettel (a továbbiakban: Mód. Kr.1.) megállapított
+138. §[^139] E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 284/2025. (VIII. 25.) Korm. rendelettel (a továbbiakban: Mód. Kr.1.) megállapított
 
-a) 5. § 94. pontját, 21. § (1) bekezdését, 34. § (7a) bekezdését, 43. § (7) bekezdés b) pontját, 44. § (4) bekezdését, 47. § (5) és (9) bekezdését, 59. § (4a) bekezdését, 60. § (5) bekezdését, 67. § (1) bekezdését, valamint 4. melléklet I. pont 1. és 14. alpontját a Mód. Kr.1. hatálybalépésekor[^38] folyamatban lévő településterv készítésénél és módosításánál,
+a) 5. § 94. pontját, 21. § (1) bekezdését, 34. § (7a) bekezdését, 43. § (7) bekezdés b) pontját, 44. § (4) bekezdését, 47. § (5) és (9) bekezdését, 59. § (4a) bekezdését, 60. § (5) bekezdését, 67. § (1) bekezdését, valamint 4. melléklet I. pont 1. és 14. alpontját a Mód. Kr.1. hatálybalépésekor[^140] folyamatban lévő településterv készítésénél és módosításánál,
 
-b) 135. § (5) és (6) bekezdését a Mód. Kr.1. hatálybalépésekor[^39] folyamatban lévő településrendezési eszköz módosításánál, illetve településterv készítésénél és módosításánál, továbbá
+b) 135. § (5) és (6) bekezdését a Mód. Kr.1. hatálybalépésekor[^141] folyamatban lévő településrendezési eszköz módosításánál, illetve településterv készítésénél és módosításánál, továbbá
 
 c) 136. § (2) bekezdését és 137/A. §-át a folyamatban lévő ügyekben és cselekmények során
 
 is alkalmazni kell.
 
-[^37]: A 138. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 284/2025. (VIII. 25.) Korm. rendelet 35. §-a iktatta be.
-[^38]: A hatálybalépés időpontja 2025. augusztus 28.
-[^39]: A hatálybalépés időpontja 2025. augusztus 28.
+[^139]: A 138. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 284/2025. (VIII. 25.) Korm. rendelet 35. §-a iktatta be.
+[^140]: A hatálybalépés időpontja 2025. augusztus 28.
+[^141]: A hatálybalépés időpontja 2025. augusztus 28.

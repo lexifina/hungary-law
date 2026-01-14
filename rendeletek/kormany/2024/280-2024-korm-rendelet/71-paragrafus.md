@@ -8,7 +8,7 @@
 
 a) ne akadályozza a szomszédos ingatlanok és építmények, önálló rendeltetési egységek rendeltetésszerű és biztonságos használhatóságát, karbantartását,
 
-b) méreteivel, elhelyezésével, építészeti kialakításával illeszkedjen a környezet és a környező beépítés adottságaihoz,
+b)[^111] méreteivel, elhelyezésével, építészeti kialakításával illeszkedjen a környezet és a környező meglévő, vagy átalakuló területen a tervezett beépítés adottságaihoz,
 
 c) ne korlátozza a szomszédos telkek beépítését,
 
@@ -55,3 +55,5 @@ a) feleljenek meg a tervezett vagy becsült élettartamuk alatt – a rendeltet�
 b) nyújtsanak védelmet a várható hatások okozta ártalmak ellen az építmény rendeltetésszerű használata során, valamint
 
 c) feleljenek meg és álljanak ellen a várható mértékű terheléseknek, hatásoknak.
+
+[^111]: A 71. § (1) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 53. pontja szerint módosított szöveg.
