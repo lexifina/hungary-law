@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-439-20-
 | 2021-01-01 | 2013-439-20-22.12 | 69/2018. (IV. 9.) Korm. rendelet |
 | 2024-07-01 | 2013-439-20-22.13 | 38/2015. (III. 11.) Korm. rendelet |
 | 2025-01-01 | 2013-439-20-22.14 | 331/2024. (XI. 14.) Korm. rendelet |
+| 2026-01-14 | 2013-439-20-22.15 | 62/2014. (III. 6.) Korm. rendelet |

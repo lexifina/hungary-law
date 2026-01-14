@@ -1,10 +1,10 @@
-## 8/B. §[^68] A szakértő felelőssége kiterjed az általa elvégzett beavatkozásra, az általa irányított egyéb képzettségű szakember és a felügyelete alatt működő gyakornok tevékenységére, valamint a kulturális örökségvédelem szempontjainak érvényesítésére.
+## 8/B. §[^61] A szakértő felelőssége kiterjed az általa elvégzett beavatkozásra, az általa irányított egyéb képzettségű szakember és a felügyelete alatt működő gyakornok tevékenységére, valamint a kulturális örökségvédelem szempontjainak érvényesítésére.
 
-8/C. §[^69] (1) A műemlékvédelem terén 2014. január 19. előtt megszerzett, legalább 10 év szakirányú szakmai gyakorlat
+8/C. §[^62] (1) A műemlékvédelem terén 2014. január 19. előtt megszerzett, legalább 10 év szakirányú szakmai gyakorlat
 
 a) műemléki érték dokumentálása,
 
-b) műemléki épületkutatás,
+b)[^63] műemléki falkutatás,
 
 c) történeti kertek
 
@@ -24,5 +24,6 @@ a) a szakmai gyakorlat igazolása mellett az 5. § (1) bekezdése alapján bejel
 
 b) a Magyar Mérnöki Kamaránál aktív tagi státusszal rendelkezik és a bejelentéséhez mellékeli a faanyagvédelmi szakértői jogosultságának igazolását.
 
-[^68]: A 8/B. §-t a 62/2014. (III. 6.) Korm. rendelet 53. §-a iktatta be, szövege a 323/2016. (X. 27.) Korm. rendelet 15. § 17. pontja szerint módosított szöveg.
-[^69]: A 8/C. §-t a 323/2016. (X. 27.) Korm. rendelet 9. §-a iktatta be.
+[^61]: A 8/B. §-t a 62/2014. (III. 6.) Korm. rendelet 53. §-a iktatta be, szövege a 323/2016. (X. 27.) Korm. rendelet 15. § 17. pontja szerint módosított szöveg.
+[^62]: A 8/C. §-t a 323/2016. (X. 27.) Korm. rendelet 9. §-a iktatta be.
+[^63]: A 8/C. § (1) bekezdés b) pontja a 449/2025. (XII. 29.) Korm. rendelet 78. § (3) bekezdés a) pontja szerint módosított szöveg.

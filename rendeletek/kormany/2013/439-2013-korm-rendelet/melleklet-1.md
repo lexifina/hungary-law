@@ -1,4 +1,4 @@
-1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^102]
+1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^96]
 
 1. Régészeti területre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
@@ -68,7 +68,7 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 | 17. | okleveles művészettörténész vagy okleveles régész végzettség esetén műemlékvédelmi szakmérnöki képesítés | 5 pont |
 
-3. Műemléki területen műemléki épületkutatás szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
+3. Műemléki területen műemléki falkutatás szakterületre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
 A 7. pont tekintetében a tevékenység legfeljebb 10 pontig vehető figyelembe.
 
@@ -76,19 +76,19 @@ A 7. pont tekintetében a tevékenység legfeljebb 10 pontig vehető figyelembe.
 
 | 1. | Tevékenység | Pontszám |
 
-| 2. | 1 db 1850 előtti műemléki védelem alatt álló építmény teljes körű, önálló épületkutatása | 7 pont |
+| 2. | 1 db 1850 előtti műemléki védelem alatt álló építmény teljes körű, önálló falkutatása | 7 pont |
 
-| 3. | 1 db 1850 előtti műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő, önálló épületkutatása | 5 pont |
+| 3. | 1 db 1850 előtti műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő, önálló falkutatása | 5 pont |
 
-| 4. | 1 db 1850 utáni műemléki védelem alatt álló építmény teljes körű, önálló épületkutatása | 5 pont |
+| 4. | 1 db 1850 utáni műemléki védelem alatt álló építmény teljes körű, önálló falkutatása | 5 pont |
 
-| 5. | 1 db 1850 utáni műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő, önálló épületkutatása | 4 pont |
+| 5. | 1 db 1850 utáni műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő, önálló falkutatása | 4 pont |
 
-| 6. | 1 db műemléki védelem alatt álló építmény teljes körű épületkutatásában való részvétel munkatársként | 2 pont |
+| 6. | 1 db műemléki védelem alatt álló építmény teljes körű falkutatásában való részvétel munkatársként | 2 pont |
 
-| 7. | 1 db műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő épületkutatásában való részvétel munkatársként | 2 pont |
+| 7. | 1 db műemléki védelem alatt álló építmény tervezett tevékenységéhez kötődő falkutatásában való részvétel munkatársként | 2 pont |
 
-| 8. | tudományos fokozat megszerzése műemléki épületkutatás tárgyú doktori értekezéssel | 5 pont |
+| 8. | tudományos fokozat megszerzése műemléki falkutatás tárgyú doktori értekezéssel | 5 pont |
 
 | 9. | okleveles művészettörténész vagy okleveles régész végzettség esetén műemlékvédelmi szakmérnöki képesítés | 5 pont |
 
@@ -156,7 +156,7 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 | 4. | tartószerkezet rekonstrukciós szakmérnöki képesítés | 5 pont |
 
-| 5. | műemlékvédelmi szakmérnöki képesítés | 5 pont |
+| 5. | műemlékvédelmi vagy történeti épületdiagnosztikai szakmérnöki képesítés | 5 pont |
 
 | 6. | tudományos fokozat megszerzése műemléki épületdiagnosztika tárgyú doktori értekezéssel | 5 pont |
 
@@ -182,4 +182,4 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 | 9. | tudományos fokozat megszerzése orgonatörténeti tárgyú doktori értekezéssel | 5 pont |
 
-[^102]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított, a 323/2016. (X. 27.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^96]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított, a 323/2016. (X. 27.) Korm. rendelet 14. §-a, a 449/2025. (XII. 29.) Korm. rendelet 78. § (3) bekezdés a), b), d) és e) pontja szerint módosított szöveg.

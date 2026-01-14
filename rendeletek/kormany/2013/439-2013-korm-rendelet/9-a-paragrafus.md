@@ -1,3 +1,3 @@
-9/A. §[^74]
+9/A. §[^68]
 
-[^74]: A 9/A. §-t a 38/2015. (III. 11.) Korm. rendelet 23. § (16) bekezdése iktatta be, hatályon kívül helyezte a 323/2016. (X. 27.) Korm. rendelet 16. § d) pontja.
+[^68]: A 9/A. §-t a 38/2015. (III. 11.) Korm. rendelet 23. § (16) bekezdése iktatta be, hatályon kívül helyezte a 323/2016. (X. 27.) Korm. rendelet 16. § d) pontja.

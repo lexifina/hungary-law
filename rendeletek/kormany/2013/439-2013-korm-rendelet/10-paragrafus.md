@@ -1,4 +1,4 @@
-10. § (1)[^75] A miniszter nyilvántartást vezet a szakértői tevékenységet folytató személyekről.
+10. § (1)[^69] A miniszter nyilvántartást vezet a szakértői tevékenységet folytató személyekről.
 
 (2) Az (1) bekezdés szerinti nyilvántartás a Szolg. törvény 27. § (2) bekezdésében foglaltakon felül a következő adatokat tartalmazza:
 
@@ -12,7 +12,7 @@ d) az adatváltozás bejelentésének időpontját,
 
 e) a 12. § (1) bekezdés szerinti intézkedést és annak időbeli hatályát.
 
-(3)[^76] A miniszter a szakértői nyilvántartást a szakértői tevékenység végzésére vonatkozó jogosultság igazolásához szükséges mértékben elektronikus úton hozzáférhetővé teszi.
+(3)[^70] A miniszter a szakértői nyilvántartást a szakértői tevékenység végzésére vonatkozó jogosultság igazolásához szükséges mértékben elektronikus úton hozzáférhetővé teszi.
 
-[^75]: A 10. § (1) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés d) pontja szerint módosított szöveg.
-[^76]: A 10. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés e) pontja szerint módosított szöveg.
+[^69]: A 10. § (1) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés d) pontja szerint módosított szöveg.
+[^70]: A 10. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés e) pontja szerint módosított szöveg.

@@ -1,22 +1,22 @@
-12. § (1)[^81] A miniszter a Szolg. törvény 25. §-a szerint jár el, ha valamely személy vagy szervezet szakértői jogosultsághoz kötött tevékenységet nyilvántartásba vétel nélkül ténylegesen folytat, ideértve azt az esetet is, ha a szolgáltató a bejelentés előírt adataiban bekövetkezett változás bejelentését elmulasztotta.
+12. § (1)[^75] A miniszter a Szolg. törvény 25. §-a szerint jár el, ha valamely személy vagy szervezet szakértői jogosultsághoz kötött tevékenységet nyilvántartásba vétel nélkül ténylegesen folytat, ideértve azt az esetet is, ha a szolgáltató a bejelentés előírt adataiban bekövetkezett változás bejelentését elmulasztotta.
 
-(2)[^82] A miniszter az (1) bekezdés szerinti intézkedését a nyilvántartásba bejegyzi.
+(2)[^76] A miniszter az (1) bekezdés szerinti intézkedését a nyilvántartásba bejegyzi.
 
-(3)[^83] A miniszter eltiltja a tevékenység folytatásától és ezzel egyidejűleg a nyilvántartásból törli azt, aki
+(3)[^77] A miniszter eltiltja a tevékenység folytatásától és ezzel egyidejűleg a nyilvántartásból törli azt, aki
 
 a) a bejelentésben valótlan adatot közölt az e rendeletben meghatározott feltételek fennállása tekintetében, és ezt bármely hatáskörrel rendelkező hatóság által végzett ellenőrzés igazolja, vagy
 
 b) az e rendeletben meghatározott feltételekkel már nem rendelkezik.
 
-(4)[^84] Ha a cég a szakértői nyilvántartásban szereplő munkavállalójának vagy személyesen közreműködő tagjának átmeneti hiányára tekintettel bejelenti a miniszternek a szakértői tevékenysége felfüggesztését, a miniszter a felfüggesztés tényét rögzíti a nyilvántartásban. Ha a felfüggesztést követő egy éven belül a cég – a 9. § megfelelő alkalmazásával – nem igazolja a szakértői nyilvántartásban szereplő munkavállalója vagy személyesen közreműködő tagja jogosultságát, a miniszter a (3) bekezdés b) pontja szerint jár el.
+(4)[^78] Ha a cég a szakértői nyilvántartásban szereplő munkavállalójának vagy személyesen közreműködő tagjának átmeneti hiányára tekintettel bejelenti a miniszternek a szakértői tevékenysége felfüggesztését, a miniszter a felfüggesztés tényét rögzíti a nyilvántartásban. Ha a felfüggesztést követő egy éven belül a cég – a 9. § megfelelő alkalmazásával – nem igazolja a szakértői nyilvántartásban szereplő munkavállalója vagy személyesen közreműködő tagja jogosultságát, a miniszter a (3) bekezdés b) pontja szerint jár el.
 
-(5)[^85] A miniszter eltiltja a tevékenység Magyarországon történő folytatásától azt a nem EGT-állambeli szakértőt, akinek megfelelőségét az adott állam örökségvédelmi intézménye nem igazolja.
+(5)[^79] A miniszter eltiltja a tevékenység Magyarországon történő folytatásától azt a nem EGT-állambeli szakértőt, akinek megfelelőségét az adott állam örökségvédelmi intézménye nem igazolja.
 
-(6)[^86] A nyilvántartás vezető miniszter az (1) és a (3)–(5) bekezdésben foglalt intézkedésekről az igazságügyi szakértői névjegyzéket vezető hatóságot haladéktalanul, de legfeljebb az intézkedésének nyilvántartásba történő bejegyzésétől számított 3 munkanapon belül tájékoztatja, amennyiben az érintett szakértő az igazságügyi szakértői nyilvántartásban is szerepel.
+(6)[^80] A nyilvántartás vezető miniszter az (1) és a (3)–(5) bekezdésben foglalt intézkedésekről az igazságügyi szakértői névjegyzéket vezető hatóságot haladéktalanul, de legfeljebb az intézkedésének nyilvántartásba történő bejegyzésétől számított 3 munkanapon belül tájékoztatja, amennyiben az érintett szakértő az igazságügyi szakértői nyilvántartásban is szerepel.
 
-[^81]: A 12. § (1) bekezdése a 323/2016. (X. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^82]: A 12. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés g) pontja szerint módosított szöveg.
-[^83]: A 12. § (3) bekezdés nyitó szövegrésze a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés h) pontja szerint módosított szöveg.
-[^84]: A 12. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés i) pontja szerint módosított szöveg.
-[^85]: A 12. § (5) bekezdését a 323/2016. (X. 27.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^86]: A 12. § (6) bekezdését a 331/2024. (XI. 14.) Korm. rendelet 11. §-a iktatta be.
+[^75]: A 12. § (1) bekezdése a 323/2016. (X. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^76]: A 12. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés g) pontja szerint módosított szöveg.
+[^77]: A 12. § (3) bekezdés nyitó szövegrésze a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés h) pontja szerint módosított szöveg.
+[^78]: A 12. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (21) bekezdés i) pontja szerint módosított szöveg.
+[^79]: A 12. § (5) bekezdését a 323/2016. (X. 27.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^80]: A 12. § (6) bekezdését a 331/2024. (XI. 14.) Korm. rendelet 11. §-a iktatta be.
