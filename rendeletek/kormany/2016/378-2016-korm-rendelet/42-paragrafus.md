@@ -20,7 +20,7 @@ b) a Baranya Megyei Kormányhivatal által Tolna megyei illetékességgel ellát
 
 c) a Győr-Moson-Sopron Megyei Kormányhivatal által Vas megyei illetékességgel ellátott mérésügyi, valamint műszaki biztonsági feladat- és hatáskörök, továbbá az azokhoz kapcsolódó jogviszonyok tekintetében a Vas Megyei Kormányhivatal;
 
-d)[^36] a Győr-Moson-Sopron Megyei Kormányhivatal által Zala megyei illetékességgel ellátott mérésügyi, valamint műszaki biztonsági feladat- és hatáskörök, továbbá az azokhoz kapcsolódó jogviszonyok tekintetében a Zala Megyei Kormányhivatal;
+d)[^39] a Győr-Moson-Sopron Megyei Kormányhivatal által Zala megyei illetékességgel ellátott mérésügyi, valamint műszaki biztonsági feladat- és hatáskörök, továbbá az azokhoz kapcsolódó jogviszonyok tekintetében a Zala Megyei Kormányhivatal;
 
 e) a Hajdú-Bihar Megyei Kormányhivatal által Jász-Nagykun-Szolnok megyei illetékességgel ellátott mérésügyi, valamint műszaki biztonsági feladat- és hatáskörök, továbbá az azokhoz kapcsolódó jogviszonyok tekintetében a Jász-Nagykun-Szolnok Megyei Kormányhivatal
 
@@ -28,4 +28,4 @@ a közfeladat átvevője 2017. január 1-jétől.
 
 (8) Az (1)–(7) bekezdés szerinti feladatátvételre a 2–5. §-t megfelelően alkalmazni kell.
 
-[^36]: A 42. § (7) bekezdés d) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^39]: A 42. § (7) bekezdés d) pontja a 473/2016. (XII. 27.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
