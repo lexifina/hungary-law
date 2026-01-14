@@ -4,7 +4,7 @@
 
 (3) Központi költségvetési szervvel az irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértésével köthető vagyonkezelési szerződés.
 
-(4)[^132] Műemlék, védett kulturális javak, továbbá a védetté nyilvánított régészeti lelőhelyként, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan vagyonkezelésbe adásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
+(4)[^132] Nemzeti emléknek minősülő műemlék, védett kulturális javak, továbbá a védetté nyilvánított régészeti lelőhelyként, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan vagyonkezelésbe adásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges.
 
 (5)[^133]
 
@@ -14,7 +14,7 @@
 
 [^130]: A 8. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^131]: A 8. § (2) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^132]: A 8. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 396. §-ával megállapított szöveg.
+[^132]: A 8. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 396. §-ával megállapított, a 449/2025. (XII. 29.) Korm. rendelet 74. §-a szerint módosított szöveg.
 [^133]: A 8. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
 [^134]: A 8. § (6) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
 [^135]: A 8. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 26. § g) pontja, a 244/2015. (IX. 8.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
