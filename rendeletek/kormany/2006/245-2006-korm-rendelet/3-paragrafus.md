@@ -36,13 +36,14 @@ h) egyszerű bejelentés nélkül vagy a bejelentéstől eltérően végzett ép
 
 (6) A jogszerűtlenül végzett bontást követően új építmény jogszerűtlen építése esetén a bírságot a bontásra és az építésre külön ki kell szabni.
 
-(7) A fizetendő bírság összege az (1) bekezdés szerint megállapított bírságérték
+(7)[^7] A fizetendő bírság összege az (1) bekezdés szerint megállapított bírságérték
 
 a) másfélszerese, ha kiszabására olyan személlyel vagy szervezettel szemben kerül sor, akit 3 éven belül egy alkalommal,
 
 b) kétszerese, ha kiszabására olyan személlyel vagy szervezettel szemben kerül sor, akit 3 éven belül legalább két alkalommal
 
-jogszerűtlen építési tevékenység végzése miatt végleges döntéssel építésügyi bírsággal sújtottak.
+jogszerűtlen építési tevékenység végzése miatt végleges döntéssel bírsággal sújtottak.
 
 [^5]: A 3. § a 286/2024. (IX. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^6]: A 3. § (2) bekezdés c) pontját a 286/2024. (IX. 30.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 3. § (7) bekezdés záró szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

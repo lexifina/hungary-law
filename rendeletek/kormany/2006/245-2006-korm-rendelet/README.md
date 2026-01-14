@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-245-20-
 | 2023-09-01 | 2006-245-20-22.23 | 385/2023. (VIII. 14.) Korm. rendelet |
 | 2024-10-01 | 2006-245-20-22.24 | 286/2024. (IX. 30.) Korm. rendelet |
 | 2024-11-29 | 2006-245-20-22.25 | 286/2024. (IX. 30.) Korm. rendelet |
+| 2026-01-14 | 2006-245-20-22.26 | 448/2025. (XII. 29.) Korm. rendelet |

@@ -1,4 +1,4 @@
-3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^27]
+3. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^31]
 
 1. A számított építményérték meghatározása
 
@@ -32,4 +32,4 @@
 
 4. A 3. pont szerinti bírság összeget – ismételt szabálytalanság esetén – a 3. § (7) bekezdése szerinti mértékben kell növelni.
 
-[^27]: A 3. melléklet a 286/2024. (IX. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet a 286/2024. (IX. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## A bírság mértéke és számítása jogosulatlanul vagy szakszerűtlenül folytatott tevékenység esetén[^7]
+## A bírság mértéke és számítása jogosulatlanul vagy szakszerűtlenül folytatott tevékenység esetén[^8]
 
 3/A. § (1) A bírságot a 4. mellékletben foglalt táblázat szerint kell megállapítani.
 
@@ -30,4 +30,7 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (6) Ha az építési folyamat résztvevője többfajta építési tevékenység végzése során több jogsértő cselekményt is megvalósít, a bírságot vele szemben az (5) bekezdés figyelembevételével, tevékenységenként kell kiszabni.
 
-[^7]: Az „A bírság mértéke és számítása jogosulatlanul vagy szakszerűtlenül folytatott tevékenység esetén” alcímet (3/A. §-t) a 286/2024. (IX. 30.) Korm. rendelet 4. §-a iktatta be.
+(7)[^9] A fővállalkozó kivitelezővel, ha több különböző fővállalkozó kivitelező van, a megrendelő vállalkozó kivitelezővel, az alvállalkozó kivitelezővel, valamint e kivitelezők felelős műszaki vezetőivel szemben a bírság megállapításakor a számított építményérték helyett a vonatkozó kivitelezési szerződésben rögzített bruttó szerződéses összeggel megegyező számított építményértékhez tartozó bírságösszeget kell figyelembe venni, ha a számított építményérték magasabb a kivitelezési szerződésben rögzített bruttó szerződéses összegnél.
+
+[^8]: Az „A bírság mértéke és számítása jogosulatlanul vagy szakszerűtlenül folytatott tevékenység esetén” alcímet (3/A. §-t) a 286/2024. (IX. 30.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 3/A. § (7) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

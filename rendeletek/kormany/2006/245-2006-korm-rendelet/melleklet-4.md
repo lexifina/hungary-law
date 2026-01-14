@@ -1,4 +1,4 @@
-4. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^28]
+4. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^32]
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -6,7 +6,7 @@
 
 | 2. | Építtető | Tervező | Tervezői művezető | Építési műszaki ellenőr | Fővállalkozó kivitelező | Megrendelő vállalkozó kivitelező | Alvállalkozó kivitelező | Felelős műszaki vezető |
 
-| 3. | Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése | 0–100 |  |  |  | 150 | 300 |  |  | 500 |
+| 3. | Az állékonyságot, az életet veszélyeztető állapot előidézése[^33] | 0–100 |  |  |  | 150 | 300 |  |  | 500 |
 
 | 100 felett–500 | 500 | 1 000 | 2 000 |
 
@@ -148,4 +148,5 @@
 
 | 27. | Beruházáslebonyolító kötelező alkalmazásának hiánya | – | 2 000 |  |  |  |  |  |  |  |
 
-[^28]: A 4. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 286/2024. (IX. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^32]: A 4. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 286/2024. (IX. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^33]: A 4. mellékletben foglalt táblázat A:3 mezője a 448/2025. (XII. 29.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
