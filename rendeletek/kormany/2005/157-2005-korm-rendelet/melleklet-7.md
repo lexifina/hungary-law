@@ -39,4 +39,4 @@
 7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^194]
 
 [^193]: A Vhr. 6. mellékletében foglalt táblázat 3.1. pontja a 471/2024. (XII. 30.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^194]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a, a 258/2024. (VIII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^194]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a, a 258/2024. (VIII. 29.) Korm. rendelet 3. §-a, a 449/2025. (XII. 29.) Korm. rendelet 72. §-a szerint módosított szöveg.
