@@ -1,0 +1,1 @@
+25. § A választási iroda az igénylését követően haladéktalanul, de legkorábban 2026. február 21-én átadja az igénylő vagy a jelöltként indulni szándékozó választópolgár részére az általa igényelt mennyiségű ajánlóívet. [Ve. 120. § (2) bekezdés, 121. § (2) bekezdés]

@@ -1,0 +1,1 @@
+39. § Az a választópolgár, aki a Ve. 277. § (1) bekezdése szerint megküldött szavazási levélcsomagot 2026. április 5-éig nem kapja meg, bármely külképviseleten vagy országgyűlési egyéni választókerületi választási irodában személyesen kérheti a szavazási levélcsomag pótlását. [Ve. 277. § (4) bekezdés]

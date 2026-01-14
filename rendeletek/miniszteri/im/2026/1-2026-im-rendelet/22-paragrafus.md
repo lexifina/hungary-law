@@ -1,0 +1,1 @@
+22. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékének azon választópolgárokat tartalmazó részét, akik a szavazási levélcsomag személyes átvételét kérték, legkésőbb 2026. március 27-étől kezdődően teszi hozzáférhetővé az illetékes választási iroda részére. [Ve. 267/A. §, 277. § (2) bekezdés]

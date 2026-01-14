@@ -1,0 +1,1 @@
+40. § Az országgyűlési egyéni választókerületi választási bizottság 2026. április 4-ig jelöli ki a külképviseleteken leadott szavazatok, valamint az átjelentkezéssel szavazó választópolgárok által leadott szavazatok megszámlálására illetékes, az országgyűlési egyéni választókerület székhely településén működő szavazatszámláló bizottságot. [Ve. 292. § (1) bekezdés]

@@ -1,0 +1,1 @@
+15. § Ha az átjelentkezéssel szavazásra kijelölt szavazókörben a névjegyzékben szereplő választópolgárok száma meghaladja az ezerötszázat, a helyi választási iroda vezetője legkésőbb 2026. április 7-én dönthet úgy, hogy a szavazóköri névjegyzéket több részre osztja. [Ve. 257/A. § (1) bekezdés]

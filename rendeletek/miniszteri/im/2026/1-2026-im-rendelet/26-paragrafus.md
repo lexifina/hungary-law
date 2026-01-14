@@ -1,0 +1,1 @@
+26. § A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor a 2026. február 21-én a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgárokat kell figyelembe venni. [Ve. 255. § (2) bekezdés]

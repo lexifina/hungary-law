@@ -1,0 +1,1 @@
+11. § A helyi választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki 2026. február 4-ét követően kerül a település szavazóköri névjegyzékébe. [Ve. 116. § (1) bekezdés]

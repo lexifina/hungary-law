@@ -1,0 +1,5 @@
+12. § (1) Az értesítő, valamint a szavazóköri névjegyzék tartalmazza a választópolgár nemzetiségének megjelölését, ha a választópolgár legkésőbb 2026. április 2-án 16.00 óráig benyújtott kérelme alapján az országgyűlési képviselők választásának névjegyzékére is kiterjedő hatállyal szerepel nemzetiségi választópolgárként a központi névjegyzékben. [Ve. 11. § (2) bekezdés, 248. §]
+
+(2) A szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell, ha legkésőbb 2026. április 9-én 16.00 óráig beérkezett kérelme alapján a választópolgár nemzetiséghez tartozását a Nemzeti Választási Iroda törli a központi névjegyzékből, vagy a Nemzeti Választási Iroda úgy módosítja a választópolgár adatait a központi névjegyzékben, hogy nemzetiségi választópolgárként történt névjegyzékbe vételének hatálya az országgyűlési képviselők választásának névjegyzékére nem terjed ki. [Ve. 249. § (1) bekezdés]
+
+(3) A (2) bekezdés szerinti, 2026. április 9-én 16.00 óráig benyújtott kérelmet azonnal, de legfeljebb egy órán belül kell elbírálni. [Ve. 249. § (2) bekezdés]

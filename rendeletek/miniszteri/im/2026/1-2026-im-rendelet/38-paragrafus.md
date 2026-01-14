@@ -1,0 +1,1 @@
+38. § A Nemzeti Választási Iroda elnöke a Ve. 277. § (2) bekezdése szerint a szavazási levélcsomag személyes átvételét úgy állapítja meg, hogy arra 2026. március 28. napjától munkanapokon legalább 9 és 16 óra között lehetőség legyen. [Ve. 277. § (3) bekezdés]
