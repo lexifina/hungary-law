@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-345-20-
 | 2011-01-01 | 2008-345-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2018-01-01 | 2008-345-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2023-09-01 | 2008-345-20-22.5 | 393/2023. (VIII. 14.) Korm. rendelet |
+| 2026-01-14 | 2008-345-20-22.6 | 450/2025. (XII. 29.) Korm. rendelet |
