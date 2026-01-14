@@ -4,15 +4,15 @@
 
 (2) A honvédelemmel és a rendészettel kapcsolatban művelés alól kivett terület:
 
-a)[^3] a honvédelmi, nemzetbiztonsági és rendvédelmi célra állandóan igénybe vett terület;
+a)[^4] a honvédelmi, nemzetbiztonsági és rendvédelmi célra állandóan igénybe vett terület;
 
 b) az a terület, amelynek gazdasági felhasználását nemzetközi megállapodás korlátozza;
 
 c) az a terület, amelynek gazdasági felhasználását honvédelmi, rendészeti szempontból az illetékes szerv megtiltotta.
 
-(3)[^4] A művelés alól kivett területek megnevezését – a (3a)–(10) bekezdésben foglalt eltéréssel – az ingatlan-nyilvántartásért felelős miniszter által a földügyi szakigazgatás hivatalos honlapján közzétett lista tartalmazza.
+(3)[^5] A művelés alól kivett területek megnevezését – a (3a)–(10) bekezdésben foglalt eltéréssel – az ingatlan-nyilvántartásért felelős miniszter által a földügyi szakigazgatás hivatalos honlapján közzétett lista tartalmazza.
 
-(3a)[^5] A művelés alól kivett terület megnevezése a 17/A. § alapján művelés alól kivont ingatlan esetén:
+(3a)[^6] A művelés alól kivett terület megnevezése a 17/A. § alapján művelés alól kivont ingatlan esetén:
 
 a) a 17/A. § (3) bekezdésében meghatározott esetben a zárkerti művelés alól kivett terület,
 
@@ -42,6 +42,6 @@ megnevezéssel művelés alól kivett területként kell nyilvántartani.
 
 (10) Ha az ingatlan állami tulajdoni hányadot is tartalmazó közös tulajdonban vagy az állami tulajdonú ingatlan osztott vagyonkezelésben áll, a (4) bekezdés szerinti megnevezést, a (4) bekezdés a)–d) pontja szerinti szervek által vagyonkezelt hányad arányában kell nyilvántartani az azzal nem érintett ingatlanrész valós művelési ágba sorolása mellett.
 
-[^3]: A 15. § (2) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 97. §-a szerint módosított szöveg.
-[^4]: A 15. § (3) bekezdése a 332/2025. (X. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 15. § (3a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 15. § (2) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 97. §-a szerint módosított szöveg.
+[^5]: A 15. § (3) bekezdése a 332/2025. (X. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 15. § (3a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 2. §-a iktatta be.

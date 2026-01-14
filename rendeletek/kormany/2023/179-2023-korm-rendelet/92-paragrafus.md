@@ -1,6 +1,6 @@
 ## 58. Az ingatlan-nyilvántartási eljárás felfüggesztése
 
-92. §[^79] (1) Az ingatlan-nyilvántartási eljárás felfüggesztésének ténye egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára jegyezhető be.
+92. §[^80] (1) Az ingatlan-nyilvántartási eljárás felfüggesztésének ténye egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára jegyezhető be.
 
 (2) Tulajdoni hányadot vagy tulajdoni hányad eszmei hányadát érintő felfüggesztési ok esetén az eljárás felfüggesztését követően másik tulajdoni hányadot vagy tulajdoni hányad másik eszmei hányadát érintő beadvány elbírálható.
 
@@ -10,4 +10,4 @@
 
 (5) Az ingatlan-nyilvántartási eljárás felfüggesztése tényének tulajdoni lapra történő bejegyzésekor a felfüggesztett eljárás ügyszámát és a felfüggesztés időtartamát is fel kell tüntetni.
 
-[^79]: A 92. § a 38/2025. (III. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^80]: A 92. § a 38/2025. (III. 11.) Korm. rendelet 3. §-ával megállapított szöveg.

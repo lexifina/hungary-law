@@ -1,6 +1,6 @@
 ## 72. A döntés közlése
 
-138. § (1)[^121] A jogok, tények és adatok változásának bejegyzése tárgyában hozott döntést közölni kell
+138. § (1)[^123] A jogok, tények és adatok változásának bejegyzése tárgyában hozott döntést közölni kell
 
 1. azzal, akinek a javára bejegyzett jog vagy tény módosult, vagy akinek a javára bejegyzett jogot vagy tényt törölték,
 
@@ -12,13 +12,13 @@
 
 5. az Inytv. 58. § (5) bekezdése és 59. § (5) bekezdése szerinti esetekben azzal, akinek az érdekében – a bírósági elrendelés vagy hatósági felhívás teljesítése esetén – a jogot, tényt vagy adatot bejegyeznék,
 
-6.[^122] valamennyi tulajdonostárssal – állami tulajdon esetén a tulajdonosi jogokat gyakorló szervezettel –, ha tulajdoni hányadot érintő tulajdonjog-bejegyzés történik, kivéve, ha a bejegyzés végleges vagy jogerős hatósági, illetve jogerős bírósági határozaton alapul,
+6.[^124] valamennyi tulajdonostárssal – állami tulajdon esetén a tulajdonosi jogokat gyakorló szervezettel –, ha tulajdoni hányadot érintő tulajdonjog-bejegyzés történik, kivéve, ha a bejegyzés végleges vagy jogerős hatósági, illetve jogerős bírósági határozaton alapul,
 
 7. a földrészlet tulajdonosával, ha – a társasházi vagy szövetkezeti lakást ide nem értve – egyéb önálló ingatlan tulajdonjogát ruházták át,
 
 8. az egyéb önálló ingatlan tulajdonosával, ha a földrészlet tulajdonjogát ruházták át,
 
-9.[^123] bányatelek jogi jelleget érintő telekalakítás bejegyzése esetén a bányafelügyelettel,
+9.[^125] bányatelek jogi jelleget érintő telekalakítás bejegyzése esetén a bányafelügyelettel,
 
 10. ha az érdekelt kiskorú vagy gondnokság alatt áll, feltéve, hogy az erre vonatkozó utalást adatként a tulajdoni lap tartalmazza, a gyámhatósággal,
 
@@ -30,9 +30,9 @@ b) nem kötött szerzése esetén a bejegyzés alapját képező okirat másolat
 
 a mezőgazdasági igazgatási szervvel.
 
-12.[^124] a bírósági elrendelést benyújtó bírósággal és hatósági felhívást kiadó hatósággal.
+12.[^126] a bírósági elrendelést benyújtó bírósággal és hatósági felhívást kiadó hatósággal.
 
-13.[^125] mindazokkal, akiknek a bejegyzett joga vagy a javukra bejegyzett tény a módosuló vagy törlendő jogra vagy tényre vonatkozik.
+13.[^127] mindazokkal, akiknek a bejegyzett joga vagy a javukra bejegyzett tény a módosuló vagy törlendő jogra vagy tényre vonatkozik.
 
 (2) A tulajdonjog, valamint az illetékfizetési kötelezettséggel járó más vagyoni értékű jogok változásának bejegyzéséről szóló határozatot illetékkiszabás céljából meg kell küldeni az állami adóhatóságnak. A bejegyzési határozathoz mellékelni kell az illetékkiszabáshoz szükséges egyéb olyan iratokat is, amelyek az ingatlanügyi hatóság rendelkezésére állnak.
 
@@ -44,8 +44,8 @@ a) a kérelemben meg kell jelölni azt a címet, ahová a fél a döntés kézbe
 
 b) a bejegyzési kérelemhez mellékelni kell a fél magyarországi kézbesítési meghatalmazottjának nevét és lakcímét, illetve székhelyét vagy telephelyét, a kézbesítési meghatalmazott meghatalmazását, valamint a meghatalmazás elfogadását tartalmazó okiratot.
 
-[^121]: A 138. § (1) bekezdés nyitó szövegrésze a 332/2025. (X. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^122]: A 138. § (1) bekezdés 6. pontja a 332/2025. (X. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^123]: A 138. § (1) bekezdés 9. pontja a 287/2024. (IX. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^124]: A 138. § (1) bekezdés 12. pontját a 483/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
-[^125]: A 138. § (1) bekezdés 13. pontját a 332/2025. (X. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^123]: A 138. § (1) bekezdés nyitó szövegrésze a 332/2025. (X. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^124]: A 138. § (1) bekezdés 6. pontja a 332/2025. (X. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^125]: A 138. § (1) bekezdés 9. pontja a 287/2024. (IX. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^126]: A 138. § (1) bekezdés 12. pontját a 483/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^127]: A 138. § (1) bekezdés 13. pontját a 332/2025. (X. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 14/A.[^6] Zártkerti ingatlan művelés alóli kivonása
+## 14/A.[^7] Zártkerti ingatlan művelés alóli kivonása
 
 17/A. § (1) Az ingatlan-nyilvántartásban zártkertként nyilvántartott ingatlan művelés alól kivett területként történő bejegyzését lehetővé tevő önkormányzati rendeletet az ingatlan-nyilvántartásról szóló 2021. évi C. törvény (a továbbiakban: Inytv.) 72/E. § (1) bekezdése szerinti kérelemben meg kell jelölni.
 
@@ -12,4 +12,4 @@
 
 (6) Ha a 15. § (3a) bekezdés a) vagy b) pontjában meghatározottak szerint nyilvántartásba vett ingatlanra épület feltüntetése iránti kérelem kerül benyújtásra, a kérelem tartalmára és a kérelemhez csatolandó okiratokra az épület feltüntetésére vonatkozó általános szabályokat kell alkalmazni, azzal, hogy az ingatlan művelés alól kivett megnevezését a (4) bekezdés szerinti tartalommal kell nyilvántartásba venni.
 
-[^6]: A 14/A. alcímet (17/A–17/C. §-t) a 332/2025. (X. 30.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 14/A. alcímet (17/A–17/C. §-t) a 332/2025. (X. 30.) Korm. rendelet 3. §-a iktatta be.

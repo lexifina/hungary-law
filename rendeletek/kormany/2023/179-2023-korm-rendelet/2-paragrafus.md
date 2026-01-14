@@ -96,9 +96,9 @@ d) helyi jelentőségű védett természeti terület;
 
 38. az ingatlan területe felszín alatti közúttal érintett.
 
-39.[^1] fenntartható vízgazdálkodási közösség területe;
+39.[^2] fenntartható vízgazdálkodási közösség területe;
 
-40.[^2] rizstelep.
+40.[^3] rizstelep.
 
 (2) Jogi jelleget egész ingatlanra, illetve annak természetben vagy területi mértékben meghatározott részére lehet bejegyezni.
 
@@ -124,5 +124,5 @@ c) a település helyi építési szabályzata szerint a földrészlet tanya cé
 
 (7) Az (1) bekezdés 11. pontja szerinti jogi jelleg törléséhez azt szükséges igazolni, hogy a (6) bekezdés szerinti feltételek közül egy vagy több már nem áll fenn.
 
-[^1]: A 2. § (1) bekezdés 39. pontját a 287/2024. (IX. 30.) Korm. rendelet 2. §-a iktatta be.
-[^2]: A 2. § (1) bekezdés 40. pontját a 287/2024. (IX. 30.) Korm. rendelet 2. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés 39. pontját a 287/2024. (IX. 30.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § (1) bekezdés 40. pontját a 287/2024. (IX. 30.) Korm. rendelet 2. §-a iktatta be.
