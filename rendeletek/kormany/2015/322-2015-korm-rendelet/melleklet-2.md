@@ -6,7 +6,7 @@ Műemlékekkel kapcsolatos követelmények
 
 1.1. építéstörténeti tudományos dokumentáció,
 
-1.2.[^68] a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendelet szerinti állapotdokumentáció,
+1.2.[^69] a műemlékvédelemmel kapcsolatos szabályokról szóló kormányrendelet szerinti állapotdokumentáció,
 
 1.3. kutatási dokumentáció (műemléki épületkutatási dokumentációk, épületdiagnosztikai vizsgálatok).
 
@@ -22,4 +22,4 @@ Műemlékekkel kapcsolatos követelmények
 
 2.5. a kezelések várható eredményei és kockázata.
 
-[^68]: A 2. melléklet 1. pont 1.2. alpontja a 497/2016. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^69]: A 2. melléklet 1. pont 1.2. alpontja a 449/2025. (XII. 29.) Korm. rendelet 80. § (2) bekezdése szerint módosított szöveg.

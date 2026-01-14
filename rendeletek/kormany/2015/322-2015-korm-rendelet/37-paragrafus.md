@@ -1,4 +1,4 @@
-## 36/A. §[^64] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 14. § (2) bekezdését a Módr. hatálybalépésekor[^65] folyamatban lévő ügyekben is alkalmazni kell.
+## 36/A. §[^65] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 14. § (2) bekezdését a Módr. hatálybalépésekor[^66] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 37. § Ez a rendelet a Kbt.-vel együtt
 
@@ -10,5 +10,5 @@ c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatba
 
 való megfelelést szolgálja.
 
-[^64]: A 36/A. §-t a 223/2018. (XI. 29.) Korm. rendelet 10. §-a iktatta be.
-[^65]: A hatálybalépés időpontja 2018. november 30.
+[^65]: A 36/A. §-t a 223/2018. (XI. 29.) Korm. rendelet 10. §-a iktatta be.
+[^66]: A hatálybalépés időpontja 2018. november 30.
