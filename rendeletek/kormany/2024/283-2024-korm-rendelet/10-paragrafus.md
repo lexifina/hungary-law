@@ -8,4 +8,6 @@
 
 (4) A tervtanács ülésén tanácskozási joggal vehet részt a nem tagként részt vevő bíráló.
 
-(5) A kiemelten védett műemléket, védett műemléket, ezek telkét, a műemléki környezetet és a műemléki területet érintő tervtanácsi eljárásban bírálónak – a (2) bekezdésben foglaltakon túl – a beavatkozásnak megfelelő területen jogosultsággal rendelkező örökségvédelmi szakértőket vagy egyéb szakértőt vonható be.
+(5)[^5] A műemléket és a műemlék telkét a műemléki környezetet és a műemléki területet érintő tervtanácsi eljárásban bírálónak – a (2) bekezdésben foglaltakon túl – a beavatkozásnak megfelelő területen jogosultsággal rendelkező örökségvédelmi szakértőket vagy egyéb szakértőt vonható be.
+
+[^5]: A 10. § (5) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 93. § (5) bekezdése szerint módosított szöveg.

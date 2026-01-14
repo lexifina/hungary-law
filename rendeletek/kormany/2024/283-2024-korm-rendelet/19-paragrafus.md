@@ -16,6 +16,8 @@ f) kifogás elbírálása esetén.
 
 a) ha a dokumentáció kapcsán éltek a konzultáció lehetőségével,
 
-b) ha a dokumentáció elutasító tervtanácsi döntés után átdolgozva került újra benyújtásra, vagy
+b)[^9] ha a dokumentáció elutasító vagy feltétel meghatározásával megvalósításra ajánló tervtanácsi döntés után átdolgozva került újra benyújtásra, vagy
 
 c) a 25. §-ban foglalt esetben.
+
+[^9]: A 19. § (2) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 113. § b) pontja szerint módosított szöveg.

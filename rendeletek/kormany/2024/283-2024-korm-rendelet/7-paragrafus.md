@@ -27,3 +27,7 @@ c) a Méptv. 60. § (6) bekezdése szerinti személyt,
 d) védett természeti területet, Natura 2000 területet, az országos ökológiai hálózatot, a tájképvédelmi szempontból kiemelten kezelendő övezetet, a tájképvédelmi terület övezetét érintő dokumentáció esetében a természetvédelmi hatóságot vagy a természetvédelmi kezelőt, valamint
 
 e) kifogás elbírálása esetén a helyi építészeti tervtanács elnökét.
+
+(4)[^3] A területi építészeti tervtanácsnak tagja lehet nyugdíjas személy is.
+
+[^3]: A 7. § (4) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 110. §-a iktatta be.

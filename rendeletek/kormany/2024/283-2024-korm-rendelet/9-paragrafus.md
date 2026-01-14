@@ -27,3 +27,7 @@ a) ha összeférhetetlenség miatt tagként nem vehet részt, az illetékes önk
 b) a településterv tervezője, és
 
 c) védett természeti területet, Natura 2000 területet, az országos ökológiai hálózatot, a tájképvédelmi szempontból kiemelten kezelendő övezetet, a tájképvédelmi terület övezetét érintő ügyben meghívható a természetvédelmi hatóság vagy a természetvédelmi kezelő.
+
+(3)[^4] A településrendezési tervtanácsnak tagja lehet nyugdíjas személy is.
+
+[^4]: A 9. § (3) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 111. §-a iktatta be.
