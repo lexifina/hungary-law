@@ -128,7 +128,7 @@
 
 ## 6.2. Az Alkotmánybíróság Hivatalának önálló szervezeti egységei és foglalkoztatottai feladataikat a jogszabályok, különösen az Alaptörvény és az Abtv., továbbá az Ügyrend, az SZMSZ, az iratkezelési és ügyviteli szabályzat és más belső szabályzatok rendelkezései alapján, az Alkotmánybíróság elnöke irányításának megfelelően látják el.
 
-## 6.3. Az Alkotmánybíróság Hivatalában foglalkoztatottak feladatait a foglalkoztatási jogviszonyt létrehozó kinevezés és az álláshelyen ellátandó feladatok meghatározása, illetve a munkaszerződés részét képező munkaköri leírás határozza meg.
+## 6.3.[^2] Az Alkotmánybíróság Hivatalában foglalkoztatottak feladatait a foglalkoztatási jogviszonyt létrehozó közszolgálati munkaszerződés és az álláshelyen ellátandó feladatok meghatározása, illetve a munkaszerződés részét képező munkaköri leírás határozza meg.
 
 ## 6.4. Az Alkotmánybíróság elnökének írásbeli rendelkezése alapján az Alkotmánybíróság Hivatalának önálló szervezeti egységei és foglalkoztatottjai – a foglalkoztatásra irányuló jogszabályok keretei között – kötelesek olyan feladat ellátásában is közreműködni, amely az SZMSZ, az álláshelyen ellátandó feladat-meghatározás, illetve a munkaviszony esetében a munkaköri leírás alapján más szervezeti egységhez, illetve más foglalkoztatotthoz tartozik.
 
@@ -192,7 +192,7 @@
 
 ## 8.1. Az elnöki kabinet az elnök munkaszervezete, mely segíti irányítási, koordinatív, képviseleti, valamint a nemzetközi kapcsolatokkal és a nyilvánossággal összefüggő feladatainak ellátását. Az elnöki kabinetet az elnök vezeti.
 
-## 8.2.[^2] Az elnöki kabinet álláshelyei: a kabinetfőnöki, a kabinetfőnök-helyettesi, az elnöki kabineti jogász, a nemzetközi- és protokoll-ügyi és a kommunikációs vezetői álláshelyek.
+## 8.2.[^3] Az elnöki kabinet álláshelyei: a kabinetfőnöki, a kabinetfőnök-helyettesi, az elnöki kabineti jogász, a nemzetközi- és protokoll-ügyi és a kommunikációs vezetői álláshelyek.
 
 ## 8.3. Az elnöki kabinet és az elnök alkotmánybírói törzskara az elnök rendelkezésének megfelelően együttműködnek.
 
@@ -212,13 +212,13 @@
 
 ## g) az Alkotmánybíróság által alapított ösztöndíj kiírásával és elbírálásával kapcsolatos feladatok koordinálása;
 
-## h)[^3]
+## h)[^4]
 
 ## i) az elnök által eseti jelleggel maghatározott egyéb feladatok ellátása.
 
-## 8.5.[^4] A kabinetfőnök-helyettes az elnök rendelkezésének megfelelően ellátja a kabinetfőnöki álláshelyen ellátandó feladatokat.
+## 8.5.[^5] A kabinetfőnök-helyettes az elnök rendelkezésének megfelelően ellátja a kabinetfőnöki álláshelyen ellátandó feladatokat.
 
-## 8.6.[^5] A nemzetközi és protokollügyi álláshelyen ellátandó feladatok
+## 8.6.[^6] A nemzetközi és protokollügyi álláshelyen ellátandó feladatok
 
 ## a) az elnök hazai és nemzetközi vonatkozású találkozóinak előkészítése és szervezése;
 
@@ -230,7 +230,7 @@
 
 ## e) az elnök és az alkotmánybírók külföldi hivatalos és munkalátogatásainak előkészítése a gazdasági főosztállyal együttműködve.
 
-## 8.7.[^6] Az elnöki kabineti jogász álláshelyen ellátandó feladatok
+## 8.7.[^7] Az elnöki kabineti jogász álláshelyen ellátandó feladatok
 
 ## a) az elnök által meghatározottak szerint előkészítő anyagok készítése, véleményező tevékenység végzése;
 
@@ -244,9 +244,9 @@
 
 ## f) az elnök igénye szerint szakmai anyagok készítése a nemzetközi megbeszélésekhez, egyeztetésekhez és az elnök által meghatározott egyéb szakmai és operatív feladatok elvégzése.
 
-## g)[^7] az európai alkotmánybíróságok együttműködésével és a határozataik feldolgozásával kapcsolatos feladatok ellátása, ideértve különösen a határozatok figyelemmel követését, angol nyelvű fordítások és összefoglalók készítését, valamint az ezeket tartalmazó adatbázis építését és gondozását.
+## g)[^8] az európai alkotmánybíróságok együttműködésével és a határozataik feldolgozásával kapcsolatos feladatok ellátása, ideértve különösen a határozatok figyelemmel követését, angol nyelvű fordítások és összefoglalók készítését, valamint az ezeket tartalmazó adatbázis építését és gondozását.
 
-## 8.8.[^8] A kommunikációs vezetői álláshelyen ellátandó feladatokat az elnök állapítja meg.
+## 8.8.[^9] A kommunikációs vezetői álláshelyen ellátandó feladatokat az elnök állapítja meg.
 
 ## 9. A volt elnök titkársága
 
@@ -300,7 +300,7 @@
 
 ## n) a vezetése alá tartozó önálló szervezeti egység feladatkörébe tartozó iratok kiadmányozása;
 
-## o) az Alkotmánybíróság hivatalos kiadványainak, az Alkotmánybíróság honlapjának, hírlevelének és a hivatali belső tájékoztatási honlapnak a szerkesztése és kiadása;
+## o)[^10] az Alkotmánybíróság Határozatai hivatalos lapjának, egyéb hivatalos kiadványainak, az Alkotmánybíróság honlapjának, hírlevelének és a hivatali belső tájékoztatási honlapnak a szerkesztése és kiadása;
 
 ## p) részvétel az Alkotmánybíróságnak a nyilvánossággal és a kommunikációval kapcsolatos egyes feladatainak ellátásában, közreműködés az alkotmánybírósági közlemények előkészítésében és kiadásában;
 
@@ -336,7 +336,7 @@
 
 ## l) szükség esetén kiadmányozás és kisegítő protokollfeladatok ellátása;
 
-## m)[^9] a titkos ügykezelési feladatoknak a külön szabályzat előírásai szerinti ellátása, ideértve az elnök működési körében keletkezett titkos ügyiratok kezelését;
+## m)[^11] a titkos ügykezelési feladatoknak a külön szabályzat előírásai szerinti ellátása, ideértve az elnök működési körében keletkezett titkos ügyiratok kezelését;
 
 ## n) a főtitkárság személyügyi feladatainak ellátása.
 
@@ -348,7 +348,7 @@
 
 ## c) az egyesbírói végzéstervezetek előkészítése;
 
-## d) közreműködés az Alkotmánybíróság döntéseinek és a testületi ülések napirendjének a honlapon történő közzétételében;
+## d)[^12] közreműködés az Alkotmánybíróság Határozatai hivatalos lapban történő közzétételben és az Alkotmánybíróság honlapján történő hozzáférhetővé tételben (a továbbiakban: hozzáférhetővé tétel), valamint a honlap szerkesztésében és a testületi ülések napirendjének a honlapon történő közzétételében;
 
 ## e) az ügyekkel kapcsolatos kutatások végzése;
 
@@ -416,6 +416,8 @@
 
 ## l) a titkos ügykezelési feladatoknak a külön szabályzat előírásai szerinti ellátása.
 
+## m)[^13] közreműködés az Alkotmánybíróság Határozatai hivatalos lapban történő közzétételben és a hozzáférhetővé tételben.
+
 ## 10.8. A könyvtárvezetői álláshelyen ellátandó feladatok
 
 ## a) a könyvtári anyagok beszerzése, megfelelő elhelyezése, minőségének és mennyiségének megőrzése, az állomány bővítése a rendelkezésre álló anyagi eszközök észszerű felhasználásával, a teljes ülés, a bizottságok, az elnök, az alkotmánybírók, a főtitkár és a munkatársak szakmai igényei szerint;
@@ -429,6 +431,10 @@
 ## e) egy-egy határozattervezethez kapcsolódó szakirodalmi összeállítás elkészítése erre irányuló igény szerint;
 
 ## f) a külföldi szakfolyóiratok tartalomjegyzékének beszerzése és az alkotmánybírók és a munkatársak rendelkezésére bocsátása.
+
+## 10.9.[^14] Az Alkotmánybíróság Határozatai hivatalos lap Szerkesztőbizottsága
+
+## Az Alkotmánybíróság Határozatai hivatalos lap felelős szerkesztője és kiadója a főtitkár, aki a lap szerkesztésével kapcsolatos feladatokat jogosult az elnöki utasításban helyettesítésére kijelölt, főtitkársági álláshelyen foglalkoztatott munkatársra delegálni.
 
 ## 11. A gazdasági főosztály és az Alkotmánybíróság gazdasági szervezete
 
@@ -546,7 +552,7 @@
 
 ## a) az elnök és az alkotmánybírók illetménymegállapításának előkészítése a megválasztásról szóló országgyűlési határozat alapján;
 
-## b)[^10] a szolgálati elismerésre jogosító közszolgálati idő kezdő időpontjának megállapítása, a hivatal köztisztviselőinek közszolgálati jogviszonya, valamint munkavállalóinak munkaviszonya keletkezésével és megszűnésével kapcsolatos okiratok előkészítése;
+## b)[^15] a szolgálati elismerésre jogosító közszolgálati idő kezdő időpontjának megállapítása, a hivatal köztisztviselőinek közszolgálati jogviszonya, valamint munkavállalóinak munkaviszonya keletkezésével és megszűnésével kapcsolatos okiratok előkészítése;
 
 ## c) a közszolgálati jogviszony és munkaviszony létesítéséhez szükséges feltételek meglétének ellenőrzése; áthelyezés esetén az elnök utasítása alapján a szükséges intézkedések megtétele;
 
@@ -644,7 +650,7 @@
 
 ## 13. A munkáltatói jogok gyakorlása
 
-## 13.1. Az Alkotmánybíróság Hivatalánál foglalkoztatottak felett a munkáltatói jogokat az elnök gyakorolja. Az önálló szervezeti egységek munkatársai felett a kinevezés, a felmentés, a tanácsadói (főtanácsadói) cím adományozása és a fegyelmi jogkör gyakorlása kivételével az egyéb munkáltatói jogokat, átadott jogkörként, az önálló szervezeti egységek vezetői gyakorolják.
+## 13.1.[^16] Az Alkotmánybíróság Hivatalánál foglalkoztatottak felett a munkáltatói jogokat az elnök gyakorolja. Az önálló szervezeti egységek munkatársai felett a közszolgálati munkaszerződés megkötése, a felmentés, a tanácsadói (főtanácsadói) cím adományozása és a fegyelmi jogkör gyakorlása kivételével az egyéb munkáltatói jogokat, átadott jogkörként, az önálló szervezeti egységek vezetői gyakorolják.
 
 ## 13.2. Az Alkotmánybíróság elnöke indokolt esetben az átadott egyéb munkáltatói jogokat esetileg vagy általános érvénnyel visszaveheti, erről azonban legkésőbb a munkáltatói intézkedés időpontjában tájékoztatja az érintett önálló szervezeti egység vezetőjét.
 
@@ -652,7 +658,7 @@
 
 ## 14. Az Alkotmánybíróság Hivatalának munkarendje és a munkaidő
 
-## 14.1. A teljes munkaidő heti negyven óra, amelybe nem számít bele a munkaközi szünet (ebédidő). Az elnök a kinevezésben az önálló szervezeti egység egyéb munkáltatói jogokat gyakorló vezetőjének javaslatára a teljes heti munkaidőnél rövidebb heti munkaidőt is megállapíthat (részmunkaidő). A részmunkaidőben foglalkoztatottak munkarendjét az érintett önálló szervezeti egység vezetője állapítja meg.
+## 14.1.[^17] A teljes munkaidő heti negyven óra, amelybe nem számít bele a munkaközi szünet (ebédidő). Az elnök a közszolgálati munkaszerződésben az önálló szervezeti egység egyéb munkáltatói jogokat gyakorló vezetőjének javaslatára a teljes heti munkaidőnél rövidebb heti munkaidőt is megállapíthat (részmunkaidő). A részmunkaidőben foglalkoztatottak munkarendjét az érintett önálló szervezeti egység vezetője állapítja meg.
 
 ## 14.2. A hivatali munkaidő munkanapokon hétfőtől csütörtökig 8 órától 17 óráig, pénteken 8 órától 14 óráig tart. A munkavállalók esetében, ha a munkakörük ezt indokolttá teszi, az elnök ettől eltérő időpontokban is megállapíthatja a munkakezdés és a munkaidő végének az időpontját. Az érintett önálló szervezeti egység vezetője – indokolt esetben, a köztisztviselő kérelmére – engedélyezheti, hogy a köztisztviselő egyes feladatait részlegesen az Alkotmánybíróság épületén kívül végezze. Az ilyen távoli munkavégzésre azonban a Küt. 61. §-ának rendelkezéseit nem lehet alkalmazni.
 
@@ -726,9 +732,9 @@
 
 ## h) az eszközökkel, forrásokkal való hatékony, takarékos gazdálkodás, valamint a vagyonmegóvásról történő megfelelő gondoskodás ellenőrzése.
 
-## 18.3.[^11] Az Alkotmánybíróság Hivatalában a belső kontrollrendszer kialakításával és fejlesztésével kapcsolatos koordinációs feladatokat a megbízási szerződés alapján foglalkoztatott belső kontroll felelős látja el, aki közvetlenül az elnök irányítása alatt, a főtitkárral és a gazdasági főigazgatóval együttműködésben végzi tevékenységét. A belső kontrollrendszer minőségének értékelésére és az erről szóló vezetői nyilatkozat előkészítésére – az integritás tanácsadó kontrollkörnyezet kialakításával és változásaival, valamint az integrált kockázatkezelési rendszer működésével kapcsolatos adatszolgáltatása alapján – a belső kontroll felelős köteles.
+## 18.3.[^18] Az Alkotmánybíróság Hivatalában a belső kontrollrendszer kialakításával és fejlesztésével kapcsolatos koordinációs feladatokat a megbízási szerződés alapján foglalkoztatott belső kontroll felelős látja el, aki közvetlenül az elnök irányítása alatt, a főtitkárral és a gazdasági főigazgatóval együttműködésben végzi tevékenységét. A belső kontrollrendszer minőségének értékelésére és az erről szóló vezetői nyilatkozat előkészítésére – az integritás tanácsadó kontrollkörnyezet kialakításával és változásaival, valamint az integrált kockázatkezelési rendszer működésével kapcsolatos adatszolgáltatása alapján – a belső kontroll felelős köteles.
 
-## 18.3.a.[^12] Az Alkotmánybíróság Hivatalában a szervezeti integritás támogatása érdekében az elnök közvetlen irányítása alatt álló integritás tanácsadó működik. A megbízási szerződéssel foglalkoztatott szakember a szervezet működésével összefüggő integritási és korrupciós kockázatokra vonatkozó bejelentések fogadásával és kivizsgálásával kapcsolatos feladatokat lát el, valamint közreműködik az Alkotmánybíróság Hivatalának működésével kapcsolatos kockázatok felmérésében, az azok kezelésére szolgáló intézkedési terv, valamint az annak végrehajtásáról szóló jelentés elkészítésében, továbbá hivatásetikai kérdésekben tájékoztatást és tanácsot ad a Hivatal munkatársai számára. Az integritás tanácsadó emellett – a főtitkárral és a gazdasági főigazgatóval együttműködésben – a jogszabályi előírásoknak megfelelő kontrollkörnyezet és integrált kockázatkezelési rendszer kialakításával kapcsolatos koordinációs feladatokat lát el. Az integritás tanácsadó közvetlen elérhetőségeit az Alkotmánybíróság honlapján és a hivatali belső tájékoztatási honlapon közzé kell tenni. A szervezeti integritást sértő események kezelésének és bejelentésének rendjét hivatali utasításban kell szabályozni.
+## 18.3.a.[^19] Az Alkotmánybíróság Hivatalában a szervezeti integritás támogatása érdekében az elnök közvetlen irányítása alatt álló integritás tanácsadó működik. A megbízási szerződéssel foglalkoztatott szakember a szervezet működésével összefüggő integritási és korrupciós kockázatokra vonatkozó bejelentések fogadásával és kivizsgálásával kapcsolatos feladatokat lát el, valamint közreműködik az Alkotmánybíróság Hivatalának működésével kapcsolatos kockázatok felmérésében, az azok kezelésére szolgáló intézkedési terv, valamint az annak végrehajtásáról szóló jelentés elkészítésében, továbbá hivatásetikai kérdésekben tájékoztatást és tanácsot ad a Hivatal munkatársai számára. Az integritás tanácsadó emellett – a főtitkárral és a gazdasági főigazgatóval együttműködésben – a jogszabályi előírásoknak megfelelő kontrollkörnyezet és integrált kockázatkezelési rendszer kialakításával kapcsolatos koordinációs feladatokat lát el. Az integritás tanácsadó közvetlen elérhetőségeit az Alkotmánybíróság honlapján és a hivatali belső tájékoztatási honlapon közzé kell tenni. A szervezeti integritást sértő események kezelésének és bejelentésének rendjét hivatali utasításban kell szabályozni.
 
 ## 18.4. Az Alkotmánybíróság Hivatala külső ellenőrzésének szabályait az erre vonatkozó jogszabályok tartalmazzák. Az ellenőrzésére jogosult külső szervezet képviselőjének megbízólevelét az elnök veszi át. A vizsgált szervezeti egység minden munkatársa köteles az ellenőrzést végző szervezet, illetve a képviseletében eljáró személy részére a szükséges tájékoztatást megadni, jogosultság esetén a dokumentációs anyagokba történő betekintést engedélyezni, és az ellenőrzés végzéséhez a megfelelő feltételeket biztosítani. Az ellenőrzés lezárását követően a vizsgált szervezeti egység vezetője köteles érdemi intézkedéseket foganatosítani a feltárt hiányosságok megszüntetése érdekében.
 
@@ -750,23 +756,30 @@
 
 ## c) az SZMSZ-2012. 5.7. pontja alapján adományozott szakmai tanácsadói, szakmai főtanácsadói, valamint az SZMSZ-2012. 5.9. pontja alapján adományozott címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, címzetes főmunkatársi címek megszűnnek. Az ilyen címekkel rendelkező köztisztviselők esetében a Küt. 105. § (15) bekezdésének a végrehajtása során ezeknek a címeknek, illetve az azokkal járó juttatásoknak a figyelembevételével kell eljárni.
 
-## 20.2.[^13] Ez a határozat 2020. május 1-jén lép hatályba.
+## 20.2.[^20] Ez a határozat 2020. május 1-jén lép hatályba.
 
 ## 20.3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-1. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^14]
+1. számú melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^21]
 
 [^1]: Az 5.3. pont az 1002/2021. (II. 10.) AB Tü. határozat 2. pontjával megállapított szöveg.
-[^2]: A 8.2. pont az 1002/2024. (VI. 20.) AB Tü. határozat 1. pontjával megállapított szöveg.
-[^3]: A 8.4. pont h) alpontját az 1002/2024. (VI. 20.) AB Tü. határozat 5. pontja hatályon kívül helyezte.
-[^4]: Az új 8.5. pontot az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja iktatta be, egyidejűleg az eredeti 8.5. pont számozását 8.6. pontra változtatta.
-[^5]: Az eredeti 8.5. pont számozását 8.6. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
-[^6]: Az eredeti 8.6. pont számozását 8.7. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
-[^7]: A 8.6. pont g) alpontját az 1002/2021. (II. 10.) AB Tü. határozat 1. pontja iktatta be.
-[^8]: Az eredeti 8.7. pont számozását 8.8. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
-[^9]: A 10.4. pont m) alpontja az 1002/2024. (VI. 20.) AB Tü. határozat 3. pontjával megállapított szöveg.
-[^10]: A 11.12. pont b) alpontja az 1006/2023. (X. 19.) AB Tü. határozat 1. pontjával megállapított szöveg.
-[^11]: A 18.3. pont az 1006/2023. (X. 19.) AB Tü. határozat 2. pontjával megállapított szöveg.
-[^12]: A 18.3.a. pontot az 1006/2023. (X. 19.) AB Tü. határozat 3. pontja iktatta be.
-[^13]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
-[^14]: Az 1. melléklet az 1002/2024. (VI. 20.) AB Tü. határozat 4. pontjával megállapított, a Magyar Közlöny 2024. évi 68. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: A 6.3. pont a 2002/2026. (I. 14.) AB Tü. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^3]: A 8.2. pont az 1002/2024. (VI. 20.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^4]: A 8.4. pont h) alpontját az 1002/2024. (VI. 20.) AB Tü. határozat 5. pontja hatályon kívül helyezte.
+[^5]: Az új 8.5. pontot az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja iktatta be, egyidejűleg az eredeti 8.5. pont számozását 8.6. pontra változtatta.
+[^6]: Az eredeti 8.5. pont számozását 8.6. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
+[^7]: Az eredeti 8.6. pont számozását 8.7. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
+[^8]: A 8.6. pont g) alpontját az 1002/2021. (II. 10.) AB Tü. határozat 1. pontja iktatta be.
+[^9]: Az eredeti 8.7. pont számozását 8.8. pontra változtatta az 1002/2024. (VI. 20.) AB Tü. határozat 2. pontja.
+[^10]: A 10.3 pont o) alpontja a 2002/2026. (I. 14.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^11]: A 10.4. pont m) alpontja az 1002/2024. (VI. 20.) AB Tü. határozat 3. pontjával megállapított szöveg.
+[^12]: A 10.5 pont d) alpontja a 2002/2026. (I. 14.) AB Tü. határozat 2. pontjával megállapított szöveg.
+[^13]: A 10.7. pont m) alpontját a 2002/2026. (I. 14.) AB Tü. határozat 3. pontja iktatta be.
+[^14]: A 10.9. pontot a 2002/2026. (I. 14.) AB Tü. határozat 4. pontja iktatta be.
+[^15]: A 11.12. pont b) alpontja az 1006/2023. (X. 19.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^16]: A 13.1. pont a 2002/2026. (I. 14.) AB Tü. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^17]: A 14.1. pontja a 2002/2026. (I. 14.) AB Tü. határozat 5. pont c) alpontja szerint módosított szöveg.
+[^18]: A 18.3. pont az 1006/2023. (X. 19.) AB Tü. határozat 2. pontjával megállapított szöveg.
+[^19]: A 18.3.a. pontot az 1006/2023. (X. 19.) AB Tü. határozat 3. pontja iktatta be.
+[^20]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
+[^21]: Az 1. melléklet a 2002/2026. (I. 14.) AB Tü. határozat 1. melléklete alapján megállapított szöveg.

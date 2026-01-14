@@ -1,4 +1,6 @@
-2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^15]
+## AB00045.pdf
+
+2. számú melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^22]
 
 Állománytábla
 
@@ -30,7 +32,9 @@
 
 | Indítványelemzés | Indítványelemzők | 7 |
 
-| Informatika | Informatikus | 2 |
+| Alkotmánybíróság Határozatai hivatalos lap Szerkesztőbizottsága | Hivatalos lap szerkesztő | 2 |
+
+| Informatika | Informatikus | 3 |
 
 | Kezelőiroda | Kezelőirodai munkatársak (irodavezető és helyettese) | 2 |
 
@@ -58,6 +62,6 @@
 
 | Gépkocsivezetők | 17 |
 
-| Összesen |  | 142 |
+| Összesen |  | 145 |
 
-[^15]: A 2. melléklet az 1002/2024. (VI. 20.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^22]: A 2. melléklet a 2002/2026. (I. 14.) AB Tü. határozat 2. melléklete alapján megállapított szöveg.
