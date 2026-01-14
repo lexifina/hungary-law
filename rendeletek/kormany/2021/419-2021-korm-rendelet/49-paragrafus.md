@@ -1,5 +1,3 @@
-## 48. § Ha a rendeltetésváltozás megfelel az országos, valamint a helyi építési követelményeknek és az önkormányzat a településképi bejelentést tudomásul vette, az ingatlan-nyilvántartásban történő átvezetés céljából az önkormányzat kérelemre 15 napon belül hatósági bizonyítványt állít ki az építmény, valamint az építményen belüli önálló rendeltetési egység rendeltetésének módosításáról és új rendeltetéséről, valamint az építmény rendeltetési egységei számának megváltozásáról és az önálló rendeltetési egységek új számáról.
+49. §[^106] Az önkormányzat ellenőrzi a bejelentési kötelezettség teljesítését és a bejelentett tevékenység folytatását. Ha az önkormányzat az ellenőrzés során a bejelentés megtételének elmulasztását vagy azt észleli, hogy a településképi bejelentés köteles tevékenység folytatására a bejelentés elutasítása ellenére vagy a tudomásul vett bejelentéstől eltérő módon kerül sor, a Méptv. 100. § (1)–(3) bekezdése szerint jár el.
 
-49. §[^101] Az önkormányzat ellenőrzi a bejelentési kötelezettség teljesítését és a bejelentett tevékenység folytatását. Ha az önkormányzat az ellenőrzés során a bejelentés megtételének elmulasztását vagy azt észleli, hogy a településképi bejelentés köteles tevékenység folytatására a bejelentés elutasítása ellenére vagy a tudomásul vett bejelentéstől eltérő módon kerül sor, a Méptv. 100. § (1)–(3) bekezdése szerint jár el.
-
-[^101]: A 49. § a 284/2025. (VIII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^106]: A 49. § a 284/2025. (VIII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.

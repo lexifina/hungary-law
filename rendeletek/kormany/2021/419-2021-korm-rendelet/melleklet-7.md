@@ -1,4 +1,4 @@
-## 1X06237_0
+## 5X11394M.docx
 
 |  | A | B |
 
@@ -58,7 +58,7 @@
 
 | 26. | Világörökségi várományos helyszín védőövezete | M |
 
-| 27. | Műemlék | M |
+| 27. | Nemzeti emléknek minősülő műemlék | M |
 
 | 28. | Műemléki jelentőségű terület | M |
 
@@ -94,11 +94,11 @@
 
 | 44. | Tájvédelmi körzet | M |
 
-| 45. | Országos jelentőségű természetvédelmi terület (beleértve az „ex lege” védett láp és szikes tó) | M |
+| 45. | Országos jelentőségű természetvédelmi terület (beleértve az “ex lege” védett láp és szikes tó) | M |
 
-| 46. | Országos jelentőségű természeti emlék (beleértve az „ex lege” védett kunhalom, földvár, forrás, víznyelő) | M |
+| 46. | Országos jelentőségű természeti emlék (beleértve az “ex lege” védett kunhalom, földvár, forrás, víznyelő) | M |
 
-| 47. | Védett természeti érték (védett mesterséges üreg és „ex lege” védett barlang | M |
+| 47. | Védett természeti érték (védett mesterséges üreg és “ex lege” védett barlang | M |
 
 | 48. | Natura 2000 terület | M |
 
@@ -174,9 +174,9 @@
 
 | 84. | Vízbázis külső védőövezet | M |
 
-| 85. | Vízbázis hidrogeológiai „A” védőövezet | M |
+| 85. | Vízbázis hidrogeológiai “A” védőövezet | M |
 
-| 86. | Vízbázis hidrogeológiai „B” védőövezet | M |
+| 86. | Vízbázis hidrogeológiai “B” védőövezet | M |
 
 | 87. | Szennyvízátemelő | M |
 

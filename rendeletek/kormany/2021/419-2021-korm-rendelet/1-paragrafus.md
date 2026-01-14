@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya és az értelmező rendelkezések
 
-## 1. § E rendelet hatálya
+1. § E rendelet hatálya
 
 a) a településfejlesztési tervre (a továbbiakban: fejlesztési terv),
 

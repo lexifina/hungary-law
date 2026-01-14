@@ -8,7 +8,7 @@ b) elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatl
 
 c)[^15] a településképi rendelettel vagy településképi követelménnyel történő összhang megteremtése
 
-d)[^16] országos közút vagy törzshálózati vasút építése érdekében történik, és a közlekedési létesítmény a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerint környezetvédelmi engedélyt kapott.
+d)[^16] – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerint környezetvédelmi engedély birtokában – országos közút vagy törzshálózati vasút építése.
 
 érdekében történik.
 
@@ -26,6 +26,6 @@ d) az érintett terület művi értékvédelemmel és táj- vagy természetvéde
 
 [^14]: A 8. § (1) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 149. § (1) bekezdésével megállapított szöveg.
 [^15]: A 8. § (1) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 149. § (2) bekezdésével megállapított szöveg.
-[^16]: A 8. § (1) bekezdés d) pontját a 155/2025. (VI. 23.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^16]: A 8. § (1) bekezdés d) pontját a 155/2025. (VI. 23.) Korm. rendelet 23. § (1) bekezdése iktatta be, szövege a 448/2025. (XII. 29.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
 [^17]: A 8. § (2) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 188. § 2. pontja szerint módosított szöveg.
 [^18]: A 8. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 149. § (3) bekezdésével megállapított szöveg.

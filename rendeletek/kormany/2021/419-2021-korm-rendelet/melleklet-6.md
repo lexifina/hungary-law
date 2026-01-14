@@ -78,6 +78,8 @@
 
 ## 4. A sajátos jogintézményhez kapcsolódó helyi építési szabályzatban meghatározott követelmények hivatkozása
 
-6. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
+6. melléklet a 419/2021. (VII. 15.) Korm. rendelethez[^262]
 
 A SZABÁLYOZÁSI TERVBEN ALKALMAZHATÓ SZABÁLYOZÁSI ELEMEK
+
+[^262]: A 6. melléklet a 449/2025. (XII. 29.) Korm. rendelet 88. § (2) bekezdés c) pontja szerint módosított szöveg.

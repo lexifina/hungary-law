@@ -8,9 +8,11 @@ b) egyenleg fenntartásához szükséges zöldfelületi követelményeket a hely
 
 (2) A településtervezési szabályzat a biológiai aktivitásérték számítására vonatkozó műszaki elvárásokat is tartalmaz.
 
+(2a)[^35] A zöldterület beépítésre szánt területhez viszonyított százalékának megállapítása során, a zöldterület övezet mellett az erdőterület övezetét és a természetközeli terület övezetét lehet figyelembe venni.
+
 (3) Az (1) bekezdés a) pontja szerinti alátámasztó munkarész a biológiai aktivitásérték számítás során keletkezett növekmény (a továbbiakban: növekmény) mértékét is tartalmazhatja. A növekmény a teljes közigazgatási területre készülő új településterv elfogadásáig felhasználható, amennyiben a felhasználás módját az alátámasztó javaslat biológiai aktivitásérték számítási eredménye és a helyi építési szabályzat tartalmazza.
 
-(4)[^35] Az új beépítésre szánt területtel összefüggő biológiai aktivitásérték egyenleg fenntartása – ideértve a biológiai aktivitásérték pótlását – a település, fővárosban a főváros teljes közigazgatási területén történhet.
+(4)[^36] Az új beépítésre szánt területtel összefüggő biológiai aktivitásérték egyenleg fenntartása – ideértve a biológiai aktivitásérték pótlását – a település, fővárosban a főváros teljes közigazgatási területén történhet.
 
 (5) A biológiai aktivitásérték számítási eredmény tartalmazza legalább
 
@@ -22,7 +24,7 @@ c) a növekmény b) pont szerinti felhasználással csökkentett mértékét.
 
 (6) Az egyes építési övezetek, övezetek, építési telkek vagy telkek és a különböző felületminőségek biológiai aktivitásértékét az adott terület hektárban mért területnagyságának és a 9. melléklet szerinti értékmutatójának a szorzata adja.
 
-(7)[^36] Az új beépítésre szánt terület eredeti vagy módosítás előtti biológiai aktivitásértékét – a (9) bekezdésben foglalt kivétellel – a 9. melléklet 1. pontjában megadott értékmutatók alkalmazásával kell kiszámítani
+(7)[^37] Az új beépítésre szánt terület eredeti vagy módosítás előtti biológiai aktivitásértékét – a (9) bekezdésben foglalt kivétellel – a 9. melléklet 1. pontjában megadott értékmutatók alkalmazásával kell kiszámítani
 
 a) hatályos rendezési terv és településrendezési eszköz hiányában a beépített területen a kialakult állapotnak, az egyéb területen az ingatlan-nyilvántartásba bejegyzett művelési ág szerinti övezetnek,
 
@@ -32,14 +34,15 @@ c) hatályos településrendezési eszköz esetében a területfelhasználási e
 
 megfelelően.
 
-(8)[^37] A 9. melléklet 1. pontjában foglalt táblázatban az építési övezetekre megadott értékmutatók a településrendezési és építési követelményekről szóló kormányrendeletben meghatározott legkisebb vagy a 9. melléklet szerinti zöldfelületi arányokra vonatkoznak.
+(8)[^38] A 9. melléklet 1. pontjában foglalt táblázatban az építési övezetekre megadott értékmutatók a településrendezési és építési követelményekről szóló kormányrendeletben meghatározott legkisebb vagy a 9. melléklet szerinti zöldfelületi arányokra vonatkoznak.
 
 (9) A (8) bekezdésben meghatározott legkisebb zöldfelületi aránytól eltérő – kialakult, meglévő vagy újonnan szabályozott – zöldfelület esetén az egyes területek biológiai aktivitásértéke arányosan módosítható, vagy differenciált számítással az adott területen belüli különböző felületminőségekhez tartozó 9. melléklet 2. pontjában foglalt táblázatban meghatározott értékmutatók segítségével pontosítható, helyszíni vizsgálat adatai vagy az új szabályozás szerinti különböző felületek mérete alapján.
 
-(10)[^38] Ha egy terület biológiai aktivitásértéke differenciált számítással került meghatározásra, akkor e terület biológiai aktivitásértéke differenciált számítással módosítható, kivéve, ha a módosítás során a követelmény a legkisebb zöldfelületi érték legkisebb mértékének meghatározásával biztosítható.
+(10)[^39] Ha egy terület biológiai aktivitásértéke differenciált számítással került meghatározásra, akkor e terület biológiai aktivitásértéke differenciált számítással módosítható, kivéve, ha a módosítás során a követelmény a legkisebb zöldfelületi érték legkisebb mértékének meghatározásával biztosítható.
 
 [^34]: A 18. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 10. pontja szerint módosított szöveg.
-[^35]: A 18. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 11. pontja szerint módosított szöveg.
-[^36]: A 18. § (7) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^37]: A 18. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 12. pontja szerint módosított szöveg.
-[^38]: A 18. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 13. pontja szerint módosított szöveg.
+[^35]: A 18. § (2a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
+[^36]: A 18. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 11. pontja szerint módosított szöveg.
+[^37]: A 18. § (7) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^38]: A 18. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 12. pontja szerint módosított szöveg.
+[^39]: A 18. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 13. pontja szerint módosított szöveg.

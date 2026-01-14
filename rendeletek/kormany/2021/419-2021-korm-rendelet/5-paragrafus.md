@@ -1,0 +1,1 @@
+5. § A településterv, a megalapozó vizsgálat és az alátámasztó javaslat a VII. Fejezetben meghatározott adatszolgáltatás szerinti állami ingatlan-nyilvántartási térképi adatbázis felhasználásával, digitális és papíralapú dokumentálásra is alkalmas módon készül.

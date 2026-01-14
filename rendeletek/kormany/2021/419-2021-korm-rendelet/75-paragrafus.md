@@ -6,7 +6,7 @@
 
 75. § (1) A helyi partnerségi egyeztetés lefolytatása akkor kötelező, ha az önkormányzat partnerségi rendelete a partnerségi egyeztetést a településtervek, a kézikönyv vagy a településképi rendelet készítése, módosítása tekintetében előírja.
 
-(2) Az (1) bekezdés szerinti esetben, a 67. § szerinti záró szakasz kezdeményezését megelőzően, a helyi partnerségi egyeztetésen a település polgármestere
+(2)[^195] Az (1) bekezdés szerinti esetben, a 67. § szerinti záró szakasz kezdeményezését megelőzően, a személyesen vagy – a Méptv. 75. § (3a) bekezdésében foglaltakra tekintettel – elektronikus úton megtartott helyi partnerségi egyeztetésen a település polgármestere
 
 a) javaslatokat kér – a településtervezés megkezdésekor – a településterv, a kézikönyv, a településképi rendelet és azok módosítása vonatkozásában,
 
@@ -26,6 +26,7 @@ d) a helyi partnerségi egyeztetés lezárásának a módját.
 
 (4) A közös tervezésben készülő településterv, kézikönyv és településképi rendelet helyi partnerségi egyeztetését a települési önkormányzatok polgármesterei külön-külön végzik.
 
-(5)[^189] A partnerségi egyeztetés során érkezett észrevételeket az önkormányzat feltölti az E-TÉR által biztosított digitális egyeztetőfelületre.
+(5)[^196] A partnerségi egyeztetés során érkezett észrevételeket az önkormányzat feltölti az E-TÉR által biztosított digitális egyeztetőfelületre.
 
-[^189]: A 75. § (5) bekezdése a 10/2023. (I. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^195]: A 75. § (2) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 53. § i) pontja szerint módosított szöveg.
+[^196]: A 75. § (5) bekezdése a 10/2023. (I. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

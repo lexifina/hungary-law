@@ -136,9 +136,9 @@ A BIOLÓGIAI AKTIVITÁSÉRTÉK MUTATÓI
 
 | 10. | Zöldfelület termőtalajon |  |
 
-| 11. | Egyszintű (gyepszintű vagy pozsgás) növényzet | 5 |
+| 11. | Egyszintű (gyep vagy 20 db cserje/150 m2 vagy 1 db nagy lombkoronájú fa/150 m2) növényzet[^264] | 5 |
 
-| 12. | Kétszintű (gyep és 40 db cserje/150 m2 vagy gyep és 1 db nagy lombkoronájú fa/150 m2) növényzet | 6 |
+| 12. | Kétszintű gyep és 40 db cserje/150 m2, 20 db cserje/150 m2 és 1 db nagy lombkoronájú fa/150 m2, vagy gyep és 1 db nagy lombkoronájú fa/150 m2 növényzet[^265] | 6 |
 
 | 13. | Háromszintű (gyep és 40 db cserje/150 m2 és 1 db nagy lombkoronájú fa/150 m2) növényzet | 7 |
 
@@ -167,3 +167,6 @@ A BIOLÓGIAI AKTIVITÁSÉRTÉK MUTATÓI
 | 25. | Mesterséges vízfelület | 6 |
 
 | 26. | Felszíni művelésű bánya, anyagnyerőhely, rendszeresen bolygatott terület, hulladéklerakó | 0,2 |
+
+[^264]: A 9. melléklet 2. pontjában foglalt táblázat A:11 mezője a 448/2025. (XII. 29.) Korm. rendelet 53. § l) pontja szerint módosított szöveg.
+[^265]: A 9. melléklet 2. pontjában foglalt táblázat A:12 mezője a 448/2025. (XII. 29.) Korm. rendelet 53. § m) pontja szerint módosított szöveg.

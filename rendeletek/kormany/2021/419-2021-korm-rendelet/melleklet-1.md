@@ -34,7 +34,7 @@ i) Településrendezési, településszerkezeti vizsgálat
 
 j) Az épített környezet és az építészeti örökség vizsgálata
 
-k)[^224] Környezetiállapot-jellemzők, ideértve a földtani állapot jellemzőket is
+k)[^241] Környezetiállapot-jellemzők, ideértve a földtani állapot jellemzőket is
 
 l) A táji és természeti adottságok és örökség, jellemző tájkarakter, zöldinfrastruktúra-hálózat
 
@@ -44,10 +44,10 @@ n) Közművesítés, elektronikus hírközlés, csapadékvíz-gazdálkodás
 
 o) Katasztrófavédelem, a területek használatát, építési tevékenységet befolyásoló vagy korlátozó tényezők
 
-p)[^225] Légiközlekedéssel érintett település esetén a repülőtér akadálykorlátozási felületének vizsgálata a repülőtér üzemben tartójának bevonásával
+p)[^242] Légiközlekedéssel érintett település esetén a repülőtér akadálykorlátozási felületének vizsgálata a repülőtér üzemben tartójának bevonásával
 
-4.[^226] Aláíró lap, az önkormányzati főépítész, a felelős tervező és a szakági tervezők aláírásával
+4.[^243] Aláíró lap, az önkormányzati főépítész, a felelős tervező és a szakági tervezők aláírásával
 
-[^224]: Az 1. melléklet 3. pont k) alpontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdésével megállapított szöveg.
-[^225]: Az 1. melléklet 3. pont p) alpontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdése iktatta be.
-[^226]: Az 1. melléklet 4. pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdése iktatta be.
+[^241]: Az 1. melléklet 3. pont k) alpontja a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdésével megállapított szöveg.
+[^242]: Az 1. melléklet 3. pont p) alpontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdése iktatta be.
+[^243]: Az 1. melléklet 4. pontját a 285/2024. (IX. 30.) Korm. rendelet 186. § (1) bekezdése iktatta be.
