@@ -1,3 +1,3 @@
-112. § A 283/2024. (IX. 30.) Korm. rendelet a következő 38. §-sal egészül ki:
+112. §[^177]
 
-„38. § E rendeletnek az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 448/2025. (XII. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 7. § (4) bekezdését, 9. § (3) bekezdését és 19. § (3) bekezdését, valamint módosított 3. § (1) bekezdés a) pontját a Mód. Kr. 1. hatálybalépésekor folyamatban lévő tervtanácsi eljárásoknál is alkalmazni kell.”
+[^177]: A 112. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

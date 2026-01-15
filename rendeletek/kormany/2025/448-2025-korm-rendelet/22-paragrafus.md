@@ -1,11 +1,14 @@
 22. § Hatályát veszti a 218/2009. (X. 6.) Korm. rendelet
 
-a)[^5]
+a)[^32]
 
-b) 11. § nyitó szövegrészében az „és papíralapú” szövegrész,
+b)[^33]
 
-c) 11. § d) pontja,
+c)[^34]
 
-d) 12. mellékletében foglalt táblázat C:2 mezőjében a „szektoradat, tulajdonos típusa (állami/önkormányzati/magán),” szövegrész.
+d)[^35]
 
-[^5]: A 22. § a) pontja a 114. § (5) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^32]: A 22. § a) pontja a 114. § (5) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^33]: A 22. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 22. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 22. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

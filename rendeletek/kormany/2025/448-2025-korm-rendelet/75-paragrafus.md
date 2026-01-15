@@ -1,1 +1,3 @@
-75. § A TÉKA 3. melléklete a 3. melléklet szerint módosul.
+75. §[^89]
+
+[^89]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

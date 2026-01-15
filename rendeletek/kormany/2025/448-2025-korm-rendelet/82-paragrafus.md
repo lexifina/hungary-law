@@ -1,3 +1,3 @@
-82. § A 281/2024. (IX. 30.) Korm. rendelet 37. § (3) bekezdése a következő n) ponttal egészül ki:
+82. §[^96]
 
-(Az építésügyi hatóság a használatbavételi engedély megadását, a használatbavétel tudomásul vételét megtagadja, ha)
+[^96]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

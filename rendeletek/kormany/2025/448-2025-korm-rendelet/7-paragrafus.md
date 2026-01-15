@@ -1,5 +1,5 @@
 ## 3. Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet módosítása
 
-7. § Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet [a továbbiakban: 191/2009. (IX. 15.) Korm. rendelet] 3. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+7. §[^7]
 
-(A kivitelezési szerződés tartalmazza)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

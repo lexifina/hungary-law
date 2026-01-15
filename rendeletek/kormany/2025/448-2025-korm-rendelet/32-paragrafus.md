@@ -1,3 +1,3 @@
-32. § A 266/2013. (VII. 11.) Korm. rendelet a következő 57. §-sal egészül ki:
+32. §[^45]
 
-„57. § E rendeletnek az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 448/2025. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 48. §-ában meghatározott felelősségbiztosítással a tűzvédelmi szakértőnek a Módr3. hatálybalépésekor folyamatban lévő építészeti-műszaki dokumentáció és kivitelezési dokumentáció készítése, valamint a folyamatban lévő hatósági eljárások esetén legkésőbb a Módr3. hatálybalépését követő 30. naptól kell rendelkeznie, míg a szakmai továbbképzésre vonatkozó kötelezettség a Módr3. hatálybalépését követően szervezett továbbképzés tekintetében áll fenn.”
+[^45]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

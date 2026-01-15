@@ -1,3 +1,3 @@
-105. § A 282/2024. (IX. 30.) Korm. rendelet a következő 50/A. §-sal egészül ki:
+105. §[^170]
 
-„50/A. § E rendeletnek az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 448/2025. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 27. § (1a) bekezdését és módosított 21. § (6) bekezdését a Módr1. hatálybalépésekor folyamatban lévő eljárásokban és zöldfelületi tanúsításoknál is alkalmazni kell.”
+[^170]: A 105. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

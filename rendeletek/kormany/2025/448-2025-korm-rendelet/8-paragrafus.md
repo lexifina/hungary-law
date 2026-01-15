@@ -1,5 +1,3 @@
-## „a) az építtető, alvállalkozói kivitelezési szerződés esetén a megrendelő vállalkozó kivitelező nevét vagy megnevezését, címét, székhelyét vagy telephelyét, elérhetőségét, adószámát, alvállalkozói kivitelezési szerződés esetén a megrendelő vállalkozó kivitelező vállalkozó kivitelezők nyilvántartása szerinti nyilvántartási számát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét, székhelyét vagy telephelyét, elérhetőségét és elektronikus építési napló (a továbbiakban: e-építési napló) vezetés esetén az alkalmazás használatához szükséges naplóügyfél-jelét,”
+8. §[^8]
 
-8. § A 191/2009. (IX. 15.) Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az építész tervező a záradékolt építészeti-műszaki dokumentációtól való eltéréshez szükséges hozzájáruló nyilatkozatát az e-építési naplóban teszi meg, ha – az atomenergia alkalmazására szolgáló építmény kivételével – az épület, épületrész építése építési engedélyhez vagy egyszerű bejelentéshez kötött és a tervezett eltérés az épület külső megjelenését az építőanyag használatában, színezésében vagy a nyílászárók elhelyezésében megváltoztatja.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

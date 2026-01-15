@@ -1,3 +1,3 @@
-60. § A TÉKA 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+60. §[^73]
 
-„(4) Az intézményi vegyes területen elhelyezésre kerülő épületekben a lakórendeltetések összes hasznos alapterülete nem haladhatja meg az 50 százalékot, kivéve, ha állami főépítészi eltérés alapján a helyi építési szabályzat másként rendelkezik.”
+[^73]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

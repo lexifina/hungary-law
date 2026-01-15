@@ -1,13 +1,3 @@
-## A TÉKA 3. melléklet 2. pontjában foglalt táblázat a következő 7. sorral egészül ki:
+4. melléklet a 448/2025. (XII. 29.) Korm. rendelethez[^182]
 
-|  | (A | B |
-
-| 1. | Az egyéb felület jellege | Az egyéb felületek zöldfelületként beszámítható része) |
-
-## „
-
-| 7. | Kinyúló épületrész alatti zöldfelület | 30% |
-
-## ”
-
-4. melléklet a 448/2025. (XII. 29.) Korm. rendelethez
+[^182]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

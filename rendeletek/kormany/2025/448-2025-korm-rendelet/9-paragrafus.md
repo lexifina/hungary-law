@@ -1,3 +1,3 @@
-9. § A 191/2009. (IX. 15.) Korm. rendelet 12. § (4) bekezdése a következő g) ponttal egészül ki:
+9. §[^9]
 
-[A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata]
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

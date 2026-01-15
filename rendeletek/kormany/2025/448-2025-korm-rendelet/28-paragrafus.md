@@ -1,3 +1,3 @@
-28. § A 266/2013. (VII. 11.) Korm. rendelet 15/H. § (2) bekezdése helyébe a következő rendelkezés lép:
+28. §[^41]
 
-„(2) Éves nettó árbevétel vagy éves nettó jövedelem alatt a felelősségbiztosítás megkötését vagy a biztosítási évfordulót megelőző naptári év nettó árbevételének vagy jövedelmének az építészeti-műszaki tervezési tevékenységből, a tervellenőrzésből és a tervezői művezetési tevékenységből származó részét kell érteni, amelyből le kell vonni az Ábtv. hatálya alá tartozó állami építési beruházással összefüggésben végzett tervezési, tervellenőrzési és tervezői művezetési tevékenységből származó nettó árbevételt vagy jövedelmet. Ha a tervező tevékenységét ennél rövidebb ideje folytatja, rá az (1) bekezdés a) pontját kell alkalmazni.”
+[^41]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

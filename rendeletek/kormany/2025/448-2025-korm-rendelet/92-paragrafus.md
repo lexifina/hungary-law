@@ -1,93 +1,136 @@
 92. § A 281/2024. (IX. 30.) Korm. rendelet
 
-1. 5. § (4) bekezdésében a „benyújtja nyilatkozatát” szövegrész helyébe a „beérkezik a nyilatkozata” szöveg,
+1.[^108]
 
-2. 7. § (1) bekezdés h) pontjában a „kapcsolattartási módot” szövegrész helyébe a „kapcsolattartási módot, ha a kérelmező nem rendelkezik a Dáptv. 25. § (2) bekezdése szerinti hivatalos elérhetőséggel” szöveg,
+2.[^109]
 
-3. 9. § (2) bekezdésében az „azonosítással” szövegrész helyébe az „aláírással” szöveg,
+3.[^110]
 
-4. 12. § (1) bekezdésében a „bejelentési eljárás,” szövegrész helyébe a „bejelentési eljárás, a jogutódlás tudomásulvételi eljárása,” szöveg,
+4.[^111]
 
-5. 16. § (1) bekezdés e) pontjában a „bejelentett” szövegrész helyébe a „22. § (7) bekezdésében foglaltak kivételével a bejelentett” szöveg,
+5.[^112]
 
-6. 17. § g) pontjában az „ömlesztettanyag-tároló” szövegrész helyébe az „ömlesztettanyag-tároló, nem veszélyes folyadék tárolására szolgáló építmény építése, valamint e körben a késztermékként a helyszínre szállított tároló” szöveg,
+6.[^113]
 
-7. 17. § i) pontjában a „rendelkező és maximum 50 fő egyidejű tartózkodására alkalmas állvány” szövegrész helyébe a „rendelkező állvány” szöveg,
+7.[^114]
 
-8. 17. § j) pontjában a „több mint” szövegrész helyébe az „az a) pontban meghatározott méretet meghaladó, több mint” szöveg,
+8.[^115]
 
-9. 17. § k) pontjában a „nem rendelkező” szövegrész helyébe a „nem rendelkező, valamint a tízéves intézkedési határidőnél régebben jogszerűtlenül épített” szöveg,
+9.[^116]
 
-10. 18. § (2) bekezdés c) pontjában az „a 419/2021. (VII. 15.) Korm. rendeletben” szövegrész helyébe az „a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendeletben [a továbbiakban: 419/2021. (VII. 15.) Korm. rendelet]” szöveg,
+10.[^117]
 
-11. 18. § (2) bekezdés d) pontjában a „tervtanácsi véleményt” szövegrész helyébe a „tervtanácsi véleményt vagy az építési tevékenységgel érintett telek fekvése szerint illetékes állami főépítész véleményét” szöveg,
+11.[^118]
 
-12. 18. § (4) bekezdés b) pontjában az „elkészítésére, vele szemben összeférhetetlenség áll fenn, vagy nem rendelkezett felelősségbiztosítással a tervezési tevékenység időtartama alatt” szövegrész helyébe az „elkészítésére, vagy vele szemben összeférhetetlenség áll fenn” szöveg,
+12.[^119]
 
-13. 18. § (4) bekezdés c) pontjában a „nem teljesülnek, vagy” szövegrész helyébe a „nem teljesülnek,” szöveg,
+13.[^120]
 
-14. 18. § (4) bekezdés d) pontjában a „nem javasolta.” szövegrész helyébe a „nem javasolta, vagy” szöveg,
+14.[^121]
 
-15. 25. § (1) bekezdés c) pontjában az „az építésügyi hatósági eljárást megelőzően lefolytatott más hatósági eljárásokban” szövegrész helyébe az „a szakkérdés vizsgálatához tartozó szakági jogszabályokban” szöveg,
+15.[^122]
 
-16. 27. § (2) bekezdés nyitó szövegrészében, 33. § (5) bekezdés nyitó szövegrészében, 34. § (10) bekezdés nyitó szövegrészében, valamint 48. § (2) bekezdésében az „értesítettek körének” szövegrész helyébe az „értesítendők nevének és elérhetőségének” szöveg,
+16.[^123]
 
-17. 35. § (5) bekezdés b) pontjában a „nyilatkozatot” szövegrész helyébe a „nyilatkozatot, vagy nyilatkozatot arról, hogy az egységes környezethasználati engedélyezési eljárás folyamatban van” szöveg,
+17.[^124]
 
-18. 37. § (3) bekezdés l) pontjában a „követelményeknek, vagy” szövegrész helyébe a „követelményeknek,” szöveg,
+18.[^125]
 
-19. 37. § (3) bekezdés m) pontjában a „követelményeknek.” szövegrész helyébe a „követelményeknek, vagy” szöveg,
+19.[^126]
 
-20. 38. § (1) bekezdés b) pontjában a „keltét” szövegrész helyébe a „keltét, vagy az egyszerű bejelentés benyújtásának, tudomásulvételének időpontját,” szöveg,
+20.[^127]
 
-21. 38. § (1) bekezdés c) pontjában a „rendeltetési egységenként,” szövegrész helyébe a „rendeltetési egységenként, valamint az épületben kialakított gépjármű-álláshelyek számát” szöveg,
+21.[^128]
 
-22. 39. § (3) bekezdés d) pontjában a „hatósággal.” szövegrész helyébe a „hatósággal, valamint” szöveg,
+22.[^129]
 
-23. 40. § (3) bekezdés e) pontjában az „egységenként, valamint” szövegrész helyébe az „egységenként,” szöveg,
+23.[^130]
 
-24. 40. § (3) bekezdés f) pontjában a „10%-át.” szövegrész helyébe a „10%-át, valamint” szöveg,
+24.[^131]
 
-25. 43. § (5) bekezdésében az „engedélyben elrendelt” szövegrész helyébe az „engedélyben vagy a (4) bekezdés szerinti határozatban elrendelt” szöveg,
+25.[^132]
 
-26. 48. § (6) bekezdésében a „véglegessé válástól” szövegrész helyébe a „véglegessé válás időpontjának tudomásra jutásától” szöveg,
+26.[^133]
 
-27. 50. § (3) bekezdés a) pontjában „a kivitelező” szövegrész helyébe „a fővállalkozó kivitelező” szöveg,
+27.[^134]
 
-28. 51. § (1) bekezdés d) pontjában a „befejezett” szövegrész helyébe az „épített” szöveg,
+28.[^135]
 
-29. 51. § (3) bekezdés b) pont ba) alpontjában az „a rendeltetésszerű és biztonságos használatra alkalmas” szövegrész helyébe az „az állékonyságra vonatkozó előírásoknak megfelel” szöveg,
+29.[^136]
 
-30. 51. § (4) bekezdésében a „nem jogszerűen végezték” szövegrész helyébe az „– az (1) bekezdés c) pontjában foglaltak kivételével – nem jogszerűen végezték” szöveg,
+30.[^137]
 
-31. 51. § (5) bekezdés a) pontjában, valamint 1. melléklet 7.4.8. pontjában az „az általános településrendezési” szövegrész helyébe az „a településrendezési” szöveg,
+31.[^138]
 
-32. 51. § (6) bekezdésében az „az (5) bekezdés” szövegrész helyébe az „a kérelmező nem csatolja a (3) bekezdés b) pontjában előírt mellékleteket, vagy az (5) bekezdés” szöveg,
+32.[^139]
 
-33. 53. § (1) bekezdésében a „tevékenységet végző” szövegrész helyébe a „tevékenység vonatkozásában a kivitelező” szöveg,
+33.[^140]
 
-34. 53. § (2) bekezdés g) pontjában, valamint 56. § (1) bekezdés h) pontjában a „megváltoztatása kivételével” szövegrész helyébe a „megváltoztatása, valamint a településképi követelmények kivételével” szöveg,
+34.[^141]
 
-35. 57. § (6) bekezdésében a „tizenöt” szövegrész helyébe a „harminc” szöveg,
+35.[^142]
 
-36. 59. § (1) bekezdés d) pontjában a „nyilatkoztak, vagy” szövegrész helyébe a „nyilatkoztak,” szöveg,
+36.[^143]
 
-37. 59. § (1) bekezdés e) pontjában a „megtörtént.” szövegrész helyébe a „megtörtént, vagy” szöveg,
+37.[^144]
 
-38. 63. § (1) bekezdés d) pontjában a „lakóépület esetén” szövegrész helyébe a „lakóépület esetén – figyelemmel az (1a) bekezdésben foglaltakra –” szöveg,
+38.[^145]
 
-39. 1. melléklet 3.1.3.3. pontjában a „számítás” szövegrész helyébe a „számítást” szöveg,
+39.[^146]
 
-40. 1. melléklet 3.1.6. pontjában a „kormányrendeletben meghatározott esetben” szövegrész helyébe a „ha a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendelet szerint a tájépítészeti alkotás tervezési területére kötelező zöldfelületi tanúsítványt készíteni,” szöveg,
+40.[^147]
 
-41.[^10]
+41.[^148]
 
-42. 1. melléklet 3.2.1.6. pontjában a „hely ábrázolását” szövegrész helyébe a „hely és a szabályozási vonal ábrázolását” szöveg,
+42.[^149]
 
-43. 2. melléklet 6.1.1.3. pontjában az „épületszerkezetek” szövegrész helyébe az „építési termékek, épületszerkezetek” szöveg,
+43.[^150]
 
-44. 3. mellékletében foglalt táblázat A:13 mezőjében a „külterületen” szövegrész helyébe a „külterületen, különleges külterületen” szöveg
+44.[^151]
 
 lép.
 
-[^10]: A 92. § 41. pontja a 114. § (3) bekezdése alapján 2026. február 27-én lép hatályba.
+[^108]: A 92. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 92. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 92. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 92. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 92. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 92. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 92. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 92. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 92. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 92. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 92. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 92. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 92. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 92. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 92. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 92. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 92. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 92. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 92. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 92. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 92. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 92. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 92. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 92. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 92. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 92. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: A 92. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 92. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 92. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 92. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 92. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: A 92. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: A 92. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: A 92. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 92. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A 92. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 92. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: A 92. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 92. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: A 92. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^148]: A 92. § 41. pontja a 114. § (3) bekezdése alapján 2026. február 27-én lép hatályba.
+[^149]: A 92. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 92. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 92. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

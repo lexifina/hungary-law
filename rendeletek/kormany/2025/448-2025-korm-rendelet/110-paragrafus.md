@@ -1,5 +1,5 @@
 ## 14. Az építészeti és településrendezési tervtanácsokról szóló 283/2024. (IX. 30.) Korm. rendelet módosítása
 
-110. § Az építészeti és településrendezési tervtanácsokról szóló 283/2024. (IX. 30.) Korm. rendelet [a továbbiakban: 283/2024. (IX. 30.) Korm. rendelet] 7. §-a a következő (4) bekezdéssel egészül ki:
+110. §[^175]
 
-„(4) A területi építészeti tervtanácsnak tagja lehet nyugdíjas személy is.”
+[^175]: A 110. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

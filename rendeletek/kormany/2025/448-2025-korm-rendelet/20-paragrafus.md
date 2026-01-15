@@ -1,1 +1,3 @@
-20. § A 218/2009. (X. 6.) Korm. rendelet 12. melléklete az 1. melléklet szerint módosul.
+20. §[^22]
+
+[^22]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

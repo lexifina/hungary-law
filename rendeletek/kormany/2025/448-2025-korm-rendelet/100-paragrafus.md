@@ -1,3 +1,3 @@
-100. § A 282/2024. (IX. 30.) Korm. rendelet 20. §-a a következő (4) bekezdéssel egészül ki:
+100. §[^165]
 
-„(4) Fás szárú növényt a meglévő közművek sérelme nélkül úgy lehet telepíteni, hogy azt követően a meglévő közművezetékek rendeltetésszerű használata és karbantartása biztosított legyen.”
+[^165]: A 100. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

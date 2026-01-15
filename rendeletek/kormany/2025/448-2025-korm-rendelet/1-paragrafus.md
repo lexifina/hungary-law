@@ -34,6 +34,6 @@
 
 ## 1. Az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet módosítása
 
-1. § Az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet [a továbbiakban: 245/2006. (XII. 5.) Korm. rendelet] 3/A. §-a a következő (7) bekezdéssel egészül ki:
+1. §[^1]
 
-„(7) A fővállalkozó kivitelezővel, ha több különböző fővállalkozó kivitelező van, a megrendelő vállalkozó kivitelezővel, az alvállalkozó kivitelezővel, valamint e kivitelezők felelős műszaki vezetőivel szemben a bírság megállapításakor a számított építményérték helyett a vonatkozó kivitelezési szerződésben rögzített bruttó szerződéses összeggel megegyező számított építményértékhez tartozó bírságösszeget kell figyelembe venni, ha a számított építményérték magasabb a kivitelezési szerződésben rögzített bruttó szerződéses összegnél.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

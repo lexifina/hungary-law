@@ -1,3 +1,3 @@
-51. § A 419/2021. (VII. 15.) Korm. rendelet 78/G. §-a a következő c) ponttal egészül ki:
+51. §[^64]
 
-(Ez a rendelet)
+[^64]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

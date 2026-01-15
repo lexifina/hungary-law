@@ -1,7 +1,3 @@
-71. § (1) A TÉKA 61. §-a a következő (9a) bekezdéssel egészül ki:
+71. §[^85]
 
-„(9a) Úszótelek esetében a (9) bekezdés szerinti kötelezettség a tulajdonost az úszótelek telekhatáráig terheli.”
-
-(2) A TÉKA 61. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) Az élősövény létesítése nem minősül építési tevékenységnek.”
+[^85]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

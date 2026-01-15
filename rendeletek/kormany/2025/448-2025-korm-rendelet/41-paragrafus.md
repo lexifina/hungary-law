@@ -1,3 +1,3 @@
-41. § A 384/2016. (XII. 2.) Korm. rendelet 23/F. §-a a következő (4) bekezdéssel egészül ki:
+41. §[^54]
 
-„(4) A nagyvárosias lakóterület építési övezetben, valamint a gazdasági terület építési övezetekben lévő úszótelek kialakítására vonatkozó telekalakítás esetén a helyi építési szabályzatnak a telek méretére vonatkozó előírásait nem kell figyelembe venni.”
+[^54]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

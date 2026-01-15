@@ -1,3 +1,3 @@
-102. § A 282/2024. (IX. 30.) Korm. rendelet 18. alcím címe helyébe a következő alcím cím lép:
+102. §[^167]
 
-„18. A zöldfelületi tanúsítói tevékenység”
+[^167]: A 102. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

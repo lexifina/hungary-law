@@ -1,3 +1,3 @@
-73. § A TÉKA 137. §-a a következő (4) bekezdéssel egészül ki:
+73. §[^87]
 
-„(4) E rendelkezés hatálybalépése napját megelőzően kialakított nyúlványos telek esetében az építési engedély megadásának, valamint az egyszerű bejelentés tudomásulvételének nem feltétele, hogy a nyúlványos telek teljesítse a 48. § (3)–(12) bekezdésében foglalt követelményeket.”
+[^87]: A 73. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

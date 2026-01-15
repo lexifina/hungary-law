@@ -1,7 +1,3 @@
-104. § A 282/2024. (IX. 30.) Korm. rendelet 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+104. §[^169]
 
-„(2) A zöldfelületi tanúsítás elszámolható időigénye
-
-a) 7500 m2-t nem meghaladó teleknagyság esetében legfeljebb 16 munkaóra,
-
-a) 7500 m2-t meghaladó teleknagyság esetében legfeljebb 32 munkaóra.”
+[^169]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

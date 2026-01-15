@@ -1,7 +1,3 @@
-113. § A 283/2024. (IX. 30.) Korm. rendelet
+113. §[^178]
 
-a) 3. § (1) bekezdés a) pontjában a „tervtanács elnöke” szövegrész helyébe a „szavazati joggal bíró tervtanácsi elnök” szöveg,
-
-b) 19. § (2) bekezdés b) pontjában az „elutasító” szövegrész helyébe az „elutasító vagy feltétel meghatározásával megvalósításra ajánló” szöveg
-
-lép.
+[^178]: A 113. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

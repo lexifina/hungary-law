@@ -1,3 +1,3 @@
-15. § A 191/2009. (IX. 15.) Korm. rendelet 33. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+15. §[^17]
 
-(A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását, a teljesítésigazolás kiadását, továbbá a teljesítésigazolás alapján kiállított számla ellenértékének kézhezvételét követően a fővállalkozó kivitelező átadja az építtetőnek az építési munkaterületet, továbbá átadja)
+[^17]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

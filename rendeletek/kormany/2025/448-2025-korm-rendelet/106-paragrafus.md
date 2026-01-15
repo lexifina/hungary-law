@@ -1,3 +1,3 @@
-106. § A 282/2024. (IX. 30.) Korm. rendelet 50. §-a a következő (3) bekezdéssel egészül ki:
+106. §[^171]
 
-„(3) E rendelet 7–13. §-a a természet helyreállításáról és az (EU) 2022/869 rendelet módosításáról szóló, 2024. június 24-i (EU) 2024/1991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^171]: A 106. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

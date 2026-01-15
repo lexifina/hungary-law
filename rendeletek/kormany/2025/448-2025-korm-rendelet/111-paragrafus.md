@@ -1,3 +1,3 @@
-111. § A 283/2024. (IX. 30.) Korm. rendelet 9. §-a a következő (3) bekezdéssel egészül ki:
+111. §[^176]
 
-„(3) A településrendezési tervtanácsnak tagja lehet nyugdíjas személy is.”
+[^176]: A 111. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
