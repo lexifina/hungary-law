@@ -8,8 +8,12 @@
 
 ## kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet módosítása
 
-1. §
+1. § A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet
 
-[^1]: Az 1. alcím a 8. § (2) bekezdése alapján 2026. január 15-én lép hatályba.
+a) 4. § (9) bekezdésében a „30. § (7)” szövegrész helyébe a „30. § (4)” szöveg,
+
+b) 25. § (4) bekezdésében az „az első esetben” szövegrész helyébe az „a megelőzően” szöveg
+
+lép.
