@@ -50,7 +50,7 @@ az érintett ásványvagyon mennyisége után kiesett bányajáradék pótlásá
 
 (8)[^39] Az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat az (5) bekezdésben foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
 
-(9)[^40] A jogosulatlanul kitermelt ásványi nyersanyag értéket, a térítési díjat, a Bt. 30. § (7) bekezdése alapján fizetendő összeget a kitermelés szüneteltetése esetén a kieső bányajáradék pótlására előírt díjat, valamint az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat a Magyar Államkincstárnál vezetett 10032000-00003141-09050012 számú, „Bányajáradék bevételi nyilvántartási számla” elnevezésű számlára kell befizetni.
+(9)[^40] A jogosulatlanul kitermelt ásványi nyersanyag értéket, a térítési díjat, a Bt. 30. § (4) bekezdése alapján fizetendő összeget a kitermelés szüneteltetése esetén a kieső bányajáradék pótlására előírt díjat, valamint az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat a Magyar Államkincstárnál vezetett 10032000-00003141-09050012 számú, „Bányajáradék bevételi nyilvántartási számla” elnevezésű számlára kell befizetni.
 
 (10)[^41] A bányavállalkozó kérheti annak megállapítását, hogy az általa alkalmazni tervezett művelési eljárás növelt hatékonyságú. A művelési eljárás akkor tekinthető növelt hatékonyságúnak, ha rétegkezelési, kitermelés-technológiai vagy felszíni technológiai beavatkozásokkal az ipari vagyon növelésére gyakorolt hatása bizonyított. A minősítésről a bányafelügyelet dönt.
 
@@ -100,7 +100,7 @@ b) tárolónként a tulajdonba venni kívánt kitermelhető földgáz mennyiség
 [^37]: A Vhr. 4. §-a (7) bekezdésének második mondatát a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
 [^38]: A Vhr. 4. § (7) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A Vhr. 4. § (8) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^40]: A Vhr. 4. § (9) bekezdését újonnan a 70/2015. (III. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be, szövege a 825/2021. (XII. 28.) Korm. rendelet 10. § c) pontja, a 26/2022. (I. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A Vhr. 4. § (9) bekezdését újonnan a 70/2015. (III. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be, szövege a 825/2021. (XII. 28.) Korm. rendelet 10. § c) pontja, a 26/2022. (I. 28.) Korm. rendelet 2. § b) pontja, a 471/2025. (XII. 30.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^41]: A Vhr. 4. § (10) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 2. §-ával megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 1. pontja, a 825/2021. (XII. 28.) Korm. rendelet 10. § d) pontja szerint módosíott szöveg.
 [^42]: A Vhr. 4. § (10a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 63. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^43]: A Vhr. 4. § (11) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés c) pontja szerint módosított szöveg.

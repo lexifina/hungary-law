@@ -10,7 +10,7 @@ b) ötszázmillió forint.
 
 (3) A Bt. 41/A. §-a alapján kiszabott bírság összege tízmillió forintig terjedhet.
 
-(4) Ha a bírság megállapításának alapját képező jogellenes állapotot a kötelezett határidőre nem szünteti meg, vagy a jogsértést ismét elköveti, az ismételten kiszabott bírság összege nem lehet kevesebb, mint az első esetben kiszabott bírság összege.
+(4)[^144] Ha a bírság megállapításának alapját képező jogellenes állapotot a kötelezett határidőre nem szünteti meg, vagy a jogsértést ismét elköveti, az ismételten kiszabott bírság összege nem lehet kevesebb, mint a megelőzően kiszabott bírság összege.
 
 (5) A kiszabott bírságot a bányafelügyeletnek a Magyar Államkincstárnál vezetett, 10032000-00362887-00000000 számú fizetési számlájára kell befizetni a döntés véglegessé válását követő 15 napon belül.
 
@@ -18,7 +18,8 @@ b) ötszázmillió forint.
 
 (7) Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányafelügyelet megküldi az ingatlanügyi hatóságnak.
 
-(8)[^144] A bányafelügyelet törli a földtani szakértőt, a hites bányamérőt és a bányaüzemi felelős műszaki vezetőt a nyilvántartásból, ha a tevékenysége folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltotta.
+(8)[^145] A bányafelügyelet törli a földtani szakértőt, a hites bányamérőt és a bányaüzemi felelős műszaki vezetőt a nyilvántartásból, ha a tevékenysége folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltotta.
 
 [^143]: A Vhr. 25. §-a a 141/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^144]: A Vhr. 25. § (8) bekezdése a 471/2024. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^144]: A 25. § (4) bekezdése a 471/2025. (XII. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^145]: A Vhr. 25. § (8) bekezdése a 471/2024. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
