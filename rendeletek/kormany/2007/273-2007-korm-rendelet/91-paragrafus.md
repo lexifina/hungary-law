@@ -24,10 +24,13 @@ ba) az engedélyes esetén a (2) bekezdés szerinti összeg,
 
 bb) a befolyásszerző esetén százmillió forint.
 
+(2b)[^471] A 91. § (2) bekezdésében foglaltaktól eltérően, a hálózatfejlesztési tervben foglalt beruházások maradéktalan és teljes végrehajtásának elmaradása esetén a Hivatal a nem teljesített hálózatfejlesztési munkálatokkal arányos, a rendszerhasználati díjak megállapításához a Hivatal által a mulasztás megállapítását megelőző naptári év tekintetében az engedélyes indokolt költségeként elismert összeg legalább 0,5%-át elérő, de 5%-át meg nem haladó összegű bírságot szab ki.
+
 (3) A bírság ismételten is kiszabható.
 
-(4)[^471] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
+(4)[^472] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
 
 [^469]: A Vhr. 91. § (2) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^470]: A Vhr. 91. § (2a) bekezdését a 680/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^471]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^471]: A 91. § (2b) bekezdését a 470/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^472]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
