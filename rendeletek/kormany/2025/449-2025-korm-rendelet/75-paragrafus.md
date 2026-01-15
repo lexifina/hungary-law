@@ -1,1 +1,3 @@
-75. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 112/B. § (1) bekezdésében a „műemlék” szövegrész helyébe a „nemzeti emléknek minősülő műemlék” szöveg lép.
+75. §[^4]
+
+[^4]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

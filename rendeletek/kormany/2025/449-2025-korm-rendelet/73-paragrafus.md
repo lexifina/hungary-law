@@ -1,1 +1,3 @@
-73. § A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 5. számú melléklet 2. pont c) alpont ce) pontjában és 12. számú mellékletében foglalt táblázat B:5 mezőjében a „műemlékek” szövegrész helyébe a „nemzeti emléknek minősülő műemlék” szöveg lép.
+73. §[^2]
+
+[^2]: A 73. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
