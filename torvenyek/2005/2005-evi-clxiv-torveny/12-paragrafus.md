@@ -93,3 +93,5 @@ c) az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.
 d) a befektetési arannyal folytatott kereskedelmi tevékenység esetében a vásárlók könyve hitelesítésének rendjét,
 
 e) a befektetési arannyal folytatott kereskedelmi tevékenység végzéséhez szükséges képesítéseket.
+
+f) a befektetési arany kereskedelmi felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.

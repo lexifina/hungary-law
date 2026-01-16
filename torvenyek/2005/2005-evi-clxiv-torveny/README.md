@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2025-12-17 | 2025. évi XCIII. törvény | 2005-164-00-00.59 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2005-164-00-00.58 |
 | 2026-01-02 | 2025. évi XCIII. törvény | 2005-164-00-00.60 |
+| 2026-01-16 | 2025. évi XCIII. törvény | 2005-164-00-00.61 |
