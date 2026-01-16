@@ -1,4 +1,4 @@
-## 7/C.[^22] NFK kiválósági díj
+## 7/C.[^28] NFK kiválósági díj
 
 16/E. § (1) Az NFK kiválósági díj (ezen alcím alkalmazásában a továbbiakban: díj) az NFK feladat- és hatáskörével összefüggő, a fejlesztéspolitika területén végzett, példaértékű, kiemelkedő szakmai színvonalú munka, valamint az NFK fejlődésében, a változási folyamatok és a működési hatékonyság növelésének támogatásában, a szervezeti kultúra- és a közösségépítésben végzett aktív és elkötelezett tevékenység elismeréseként adományozható.
 
@@ -14,4 +14,4 @@
 
 (7) A díj átadására évente egy alkalommal kerül sor.
 
-[^22]: A 7/C. alcímet (16/E–16/F. §-t) a 7/2025. (VIII. 11.) KTM rendelet 5. §-a iktatta be.
+[^28]: A 7/C. alcímet (16/E–16/F. §-t) a 7/2025. (VIII. 11.) KTM rendelet 5. §-a iktatta be.
