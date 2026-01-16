@@ -14,13 +14,16 @@
 
 ## e) [^3] egyetért a d) alpont szerinti projektek támogatási szerződéseinek módosításával és azzal, hogy a kedvezményezett személyében történő változás legkésőbb az éves fejlesztési keretnek a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 83. § (1) bekezdése szerinti, soron következő módosításakor kerüljön átvezetésre.
 
+## f) [^4] egyetért azzal, hogy a KEHOP Plusz 1. prioritás Kohéziós Alap eredeti Operatív Programban rögzített pénzügyi kerete terhére legfeljebb annak 129,2%-áig vállalható kötelezettség.
+
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz[^4]
+1. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz[^5]
 
 A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési kerete
 
 [^1]: Az 1. pont c) alpontja az 1180/2024. (VI. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: Az 1. pont d) alpontját az 1180/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont e) alpontját az 1180/2024. (VI. 20.) Korm. határozat 3. pontja iktatta be.
-[^4]: Az 1. melléklet az 1124/2025. (IV. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 1. pont f) alpontját az 1005/2026. (I. 15.) Korm. határozat 2. pontja iktatta be.
+[^5]: Az 1. melléklet az 1124/2025. (IV. 22.) Korm. határozat 2. pontjával megállapított szöveg.
