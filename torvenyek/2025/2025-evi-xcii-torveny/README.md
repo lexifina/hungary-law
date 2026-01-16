@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-92-00-00
 | 2025-12-25 | 2010. évi CXXX. törvény | 2025-92-00-00.2 |
 | 2026-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-92-00-00.3 |
 | 2026-01-02 | 2010. évi CXXX. törvény | 2025-92-00-00.4 |
+| 2026-01-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-92-00-00.5 |
