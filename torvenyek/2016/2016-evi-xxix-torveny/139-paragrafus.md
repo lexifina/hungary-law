@@ -32,7 +32,7 @@ rendeletben határozza meg.
 
 a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe vételi eljárás során figyelembe vehető kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
 
-b) az igazságügyi szakértők szakértői munkával összefüggő rendszeres szakmai továbbképzés szervezésére, a szakmai továbbképzés lebonyolítására, és az előírt képzési kötelezettség teljesítésének kreditpontokkal történő igazolására vonatkozó szabályokat,
+b) az igazságügyi szakértők szakértői munkával összefüggő rendszeres szakmai továbbképzés szervezésére, a szakmai továbbképzés lebonyolítására, díjára, a továbbképzési program tartalma kialakításának módjára, és az előírt képzési kötelezettség teljesítésének kreditpontokkal történő igazolására vonatkozó szabályokat,
 
 c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 
@@ -42,7 +42,7 @@ e) a képzési hozzájárulás mértékét, bevallásának és megfizetésének 
 
 f) az igazságügyi szakértők jogi oktatására és vizsgájára, az oktatás és a vizsga lebonyolítására és díjára, az oktatáson való részvétel szabályaira, a vizsga alóli mentesség eseteire és igazolásának szabályaira, valamint az oktatáson való részvétel és a vizsga letételének igazolására vonatkozó szabályokat,
 
-g) az igazságügyi szakértő részére kötelező továbbképzés rendszerére, a továbbképzés teljesítésének mérési rendszerére és igazolására, a továbbképzés formáira, lebonyolításának módjára, a továbbképzési kötelezettség alóli mentesség eseteire és igazolásának szabályaira, valamint a továbbképzési program tartalma kialakításának módjára vonatkozó részletes szabályokat,
+g) az igazságügyi szakértő részére kötelező továbbképzés rendszerére, a továbbképzés teljesítésének mérési rendszerére és igazolására, a továbbképzés formáira, lebonyolításának módjára, díjára, a továbbképzési kötelezettség alóli mentesség eseteire és igazolásának szabályaira, valamint a továbbképzési program tartalma kialakításának módjára vonatkozó részletes szabályokat,
 
 h) az érintett szakterület ágazati irányításáért felelős miniszterrel egyetértésben az igazságügyi szakértői testületeket, valamint azok működésére, szervezetére és eljárására vonatkozó szabályokat,
 
