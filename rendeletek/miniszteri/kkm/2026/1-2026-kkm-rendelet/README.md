@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-1-20-6Q
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-01-16 | 2026-1-20-6Q.1 | 1/2026. (I. 15.) KKM rendelet |
+| 2026-01-17 | 2026-1-20-6Q.2 | 2010. évi CXXX. törvény |
