@@ -2,7 +2,7 @@
 
 AZ ORSZÁGOS VADGAZDÁLKODÁSI ADATTÁR ADATSZOLGÁLTATÁS DÍJAI
 
-1.[^347] Vadgazdálkodási adatok kiadása (állománybecslés, vadgazdálkodási jelentés és trófeabírálati adatok):
+1.[^346] Vadgazdálkodási adatok kiadása (állománybecslés, vadgazdálkodási jelentés és trófeabírálati adatok):
 
 – Egy évre és egy vadászterületre vonatkozó teljes körű adatkiadás: 4 000 Ft
 
@@ -10,7 +10,7 @@ AZ ORSZÁGOS VADGAZDÁLKODÁSI ADATTÁR ADATSZOLGÁLTATÁS DÍJAI
 
 – Összesítő statisztikai adatok vármegyei és vadgazdálkodási körzetre vonatkozóan: 1 300 Ft
 
-2.[^348] Térképi adatok kiadása
+2.[^347] Térképi adatok kiadása
 
 – Egy vadászterület 1:100 000 méretarányú papírtérképe: 2 500 Ft
 
@@ -38,5 +38,5 @@ AZ ORSZÁGOS VADGAZDÁLKODÁSI ADATTÁR ADATSZOLGÁLTATÁS DÍJAI
 
 Az adatszolgáltatást írásban kell kérelmezni, melyhez az esetleges díjkedvezményre való jogosultságot is igazolni szükséges.
 
-[^347]: A Vhr. 23. számú melléklet 1. pontja az 57/2023. (X. 16.) AM rendelet 28. § 38. pontja szerint módosított szöveg.
-[^348]: A Vhr. 23. számú melléklet 2. pontja az 57/2023. (X. 16.) AM rendelet 28. § 38. pontja szerint módosított szöveg.
+[^346]: A Vhr. 23. számú melléklet 1. pontja az 57/2023. (X. 16.) AM rendelet 28. § 38. pontja szerint módosított szöveg.
+[^347]: A Vhr. 23. számú melléklet 2. pontja az 57/2023. (X. 16.) AM rendelet 28. § 38. pontja szerint módosított szöveg.

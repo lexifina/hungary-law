@@ -1,4 +1,4 @@
-7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^319]
+7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^318]
 
 I. A vadállománybecslés és az éves vadgazdálkodási terv kötelező adattartalma
 
@@ -66,4 +66,4 @@ I. A vadállománybecslés és az éves vadgazdálkodási terv kötelező adatta
 
 2.7. Az igazolás kiállításának helye és dátuma
 
-[^319]: A Vhr. 7. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (5) bekezdésével megállapított szöveg.
+[^318]: A Vhr. 7. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (5) bekezdésével megállapított szöveg.

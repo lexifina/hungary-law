@@ -1,5 +1,5 @@
 ## (A Vtv. 93–94. §-aihoz)
 
-94. §[^278]
+94. §[^277]
 
-[^278]: A Vhr. 94. §-át az 59/2013. (VII. 15.) VM rendelet 8. § f) pontja hatályon kívül helyezte.
+[^277]: A Vhr. 94. §-át az 59/2013. (VII. 15.) VM rendelet 8. § f) pontja hatályon kívül helyezte.
