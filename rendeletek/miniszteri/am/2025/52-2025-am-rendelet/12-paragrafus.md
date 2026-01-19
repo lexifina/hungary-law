@@ -1,0 +1,1 @@
+12. § A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló miniszteri rendelet szerinti, átruházott jogkörben történő minősítési eljárásban, az eljáró hatóság helyszíni felügyelete mellett végzett ellenőrzésért az eljáró hatóságot az 1. melléklet 18.1.1. pontja szerinti díj illeti meg.

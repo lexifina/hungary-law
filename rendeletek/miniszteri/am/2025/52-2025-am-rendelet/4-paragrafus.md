@@ -1,0 +1,1 @@
+4. § Az (EU) 2017/625 európai parlamenti és tanácsi rendelet IV. mellékletében euróban meghatározott összegek forintra való átszámításakor a számla kiállításának napját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett két tizedes jegy pontossággal meghatározott deviza középárfolyamot kell alkalmazni.

@@ -1,0 +1,1 @@
+3. § Az 1. melléklet 8., 10., 17., 18. és 19. pontja szerinti eljárásokban az igazgatási szolgáltatási díjat – a 2. § (2) bekezdésében foglaltaktól eltérően – az eljáró hatóság döntésében meghatározott határidőn belül kell megfizetni.
