@@ -1,5 +1,0 @@
-## 4. A növényvédelmi igazgatási szolgáltatási díjakra vonatkozó külön szabályok
-
-8. § (1) A mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló 800/99/EK bizottsági rendelet, a visszatérítésben vagy egyéb támogatásban részesülő mezőgazdasági termékek kivitele során végzett ellenőrzésekről szóló 386/90/EGK tanácsi rendelet alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2002. november 26-i 2090/2002/EK bizottsági rendelet, valamint a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet alapján indult növényegészségügyi vizsgálatok esetében a vizsgálat költségei az exportőrt terhelik, amennyiben a termék a vizsgálat alapján nem felel meg az exporttámogatásban részesülés kritériumainak.
-
-(2) A nem növény-egészségügyi vizsgálatra történt mintavételhez a díjat a mintavételt kezdeményező (megrendelő) köteles megfizetni. A minta vizsgálatáért fizetendő díjat a mintavételi díj nem tartalmazza.
