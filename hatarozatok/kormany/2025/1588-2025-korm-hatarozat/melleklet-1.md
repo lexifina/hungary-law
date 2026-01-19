@@ -16,4 +16,8 @@
 
 | Határidő: | 2026. január 10. |
 
+## 4.[^1] a Kvtv. 19. §-ában, valamint 4. mellékletében foglalt táblázat 118. sorában biztosított jogkörében eljárva jóváhagyja a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím kiadási előirányzatának a 2. és a 3. pont alapján az eredeti előirányzaton és az eddig engedélyezetteken felül további 2 399 143 000 forint összeggel történő túllépését.
+
 1. melléklet az 1588/2025. (XII. 29.) Korm. határozathoz
+
+[^1]: A 4. pontot az 1007/2026. (I. 19.) Korm. határozat 2. pontja iktatta be.
