@@ -1,1 +1,3 @@
-15. § Hatályát veszti a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet 92. §-a és 25. számú melléklete.
+15. §[^1]
+
+[^1]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
