@@ -48,10 +48,8 @@
 
 ## h) a Kvtv. 19. §-ában, valamint 4. mellékletében foglalt táblázat 118. sorában biztosított jogkörében eljárva jóváhagyja a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím kiadási előirányzatának az e) alpont alapján az eredeti előirányzaton és az eddig engedélyezetteken felül további 10 533 193 285 forint összeggel történő túllépését.
 
-## 2. A fejezetek közötti előirányzat-átcsoportosításról szóló 1588/2025. (XII. 29.) Korm. határozat a következő 4. ponttal egészül ki:
-
-## (A Kormány)
-
-## „4. a Kvtv. 19. §-ában, valamint 4. mellékletében foglalt táblázat 118. sorában biztosított jogkörében eljárva jóváhagyja a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím kiadási előirányzatának a 2. és a 3. pont alapján az eredeti előirányzaton és az eddig engedélyezetteken felül további 2 399 143 000 forint összeggel történő túllépését.”
+## 2.[^1]
 
 1. melléklet az 1007/2026. (I. 19.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
