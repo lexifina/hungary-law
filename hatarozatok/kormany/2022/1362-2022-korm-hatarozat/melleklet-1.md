@@ -22,11 +22,11 @@ A Végrehajtás Operatív Program Plusz éves fejlesztési kerete
 
 | 3. | VOP Plusz-1.1.2 | Működési feltételek biztosítása a környezeti és energiahatékonysági programok irányító hatóságánál | 9,74 | kiemelt | Meghirdetve 2022. novemberben |
 
-| 4. | VOP Plusz-1.1.3 | Működési feltételek biztosítása az integrált közlekedésfejlesztési programok irányító hatóságánál | 3,11 | kiemelt | Meghirdetve 2022. novemberben |
+| 4. | VOP Plusz-1.1.3 | Működési feltételek biztosítása az integrált közlekedésfejlesztési programok irányító hatóságánál | 3,12 | kiemelt | Meghirdetve 2022. novemberben |
 
-| 5. | VOP Plusz-1.1.4 | Működési feltételek biztosítása a gazdaságfejlesztési programok irányító hatóságánál | 28,12 | kiemelt | Meghirdetve 2022. novemberben |
+| 5. | VOP Plusz-1.1.4 | Működési feltételek biztosítása a gazdaságfejlesztési programok irányító hatóságánál | 28,11 | kiemelt | Meghirdetve 2022. novemberben |
 
-| 6. | VOP Plusz-1.1.5 | Működési feltételek biztosítása a területfejlesztési operatív programok irányító hatóságánál | 6,32 | kiemelt | Meghirdetve 2022. novemberben |
+| 6. | VOP Plusz-1.1.5 | Működési feltételek biztosítása a területfejlesztési operatív programok irányító hatóságánál | 6,33 | kiemelt | Meghirdetve 2022. novemberben |
 
 | 7. | VOP Plusz-1.1.6 | Működési feltételek biztosítása a technikai segítségnyújtási programok irányító hatóságánál | 0,66 | kiemelt | Meghirdetve 2022. novemberben |
 
@@ -52,11 +52,11 @@ A Végrehajtás Operatív Program Plusz éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VOP Plusz-3.1.1 | Működési feltételek biztosítása a Központi Koordinációnál, a Belső Ellenőrzési és Integritási Igazgatóságnál és a Közbeszerzési Felügyeletért Felelős Helyettes Államtitkárságán | 15,57 | kiemelt | Meghirdetve 2022. decemberben |
+| 2. | VOP Plusz-3.1.1 | Működési feltételek biztosítása a Központi Koordinációnál – KA | 15,57 | kiemelt | Meghirdetve 2022. decemberben |
 
 | 3. | VOP Plusz-3.1.2 | Működési feltételek biztosítása a Közbeszerzési Felügyeletért Felelős Helyettes Államtitkárságán | 13,04 | kiemelt | Meghirdetve 2022. novemberben |
 
-4.[^3] Az intézményrendszer eredményes, hatékony és szabályszerű forrásfelhasználásának támogatása című 4. prioritás
+4. Az intézményrendszer eredményes, hatékony és szabályszerű forrásfelhasználásának támogatása című 4. prioritás
 
 |  | A | B | C | D | E |
 
@@ -66,15 +66,17 @@ A Végrehajtás Operatív Program Plusz éves fejlesztési kerete
 
 | 3. | VOP Plusz-4.1.2 | Állami projektértékelői és közbeszerzés műszaki-szakmai ellenőrzési feladatok támogatása | 7,39 | kiemelt | Meghirdetve 2022. novemberben |
 
-| 4. | VOP Plusz-4.1.3 | Integritás Megállapodás megvalósítása – PILOT | 0,20 | standard | 2025 |
+| 4. | VOP Plusz-4.1.3 | Integritás Megállapodás megvalósítása – PILOT | 0,20 | standard | 2026 |
 
-| 5. | VOP Plusz-4.1.4 | Integritás Megállapodások megvalósítása | 0,84 | standard | 2025 |
+| 5. | VOP Plusz-4.1.4 | Integritás Megállapodások megvalósítása | 0,84 | standard | 2026 |
 
-| 6. | VOP Plusz-4.1.5 | A monitoring bizottságokba tagot delegáló civil szervezetek ernyőszervezeti tevékenységének támogatása | 0,8 | egyszerűsített | Meghirdetve 2024. októberben |
+| 6. | VOP Plusz-4.1.5 | A monitoring bizottságokba tagot delegáló civil szervezetek ernyőszervezeti tevékenységének támogatása | 0,12 | egyszerűsített | Meghirdetve 2024. októberben |
 
-| 7. | VOP Plusz-4.2.1 | Kommunikációs tevékenységek megvalósítása | 11,90 | kiemelt | Meghirdetve 2023. augusztusban |
+| 7. | VOP Plusz-4.1.5-26 | A monitoring bizottságokba tagot delegáló civil szervezetek ernyőszervezeti tevékenységének támogatása | 0,68 | egyszerűsített | 2026 |
 
-| 8. | VOP Plusz-4.3.1 | Pályázói- és kedvezményezetti kapacitásfejlesztés feladatainak támogatása | 18,90 | kiemelt | Meghirdetve 2022. decemberben |
+| 8. | VOP Plusz-4.2.1 | Kommunikációs tevékenységek megvalósítása | 11,90 | kiemelt | Meghirdetve 2023. augusztusban |
+
+| 9. | VOP Plusz-4.3.1 | Pályázói- és kedvezményezetti kapacitásfejlesztés feladatainak támogatása | 18,90 | kiemelt | Meghirdetve 2022. decemberben |
 
 5. Az Igazságos Átmenet Alapból biztosított források eredményes, hatékony és szabályszerű felhasználásához szükséges humánkapacitás, valamint eszközrendszer biztosítása és fejlesztése című 5. prioritás
 
@@ -84,14 +86,13 @@ A Végrehajtás Operatív Program Plusz éves fejlesztési kerete
 
 | 2. | VOP Plusz-5.1.1 | Működési feltételek biztosítása a környezeti és energiahatékonysági programok irányító hatóságánál – IÁA | 0,47 | kiemelt | Meghirdetve 2022. novemberben |
 
-| 3. | VOP Plusz-5.2.1 | Értékelés, monitoring és partnerség – IÁA | 0,14 | kiemelt | 2025 |
+| 3. | VOP Plusz-5.2.1 | Értékelés, monitoring és partnerség – IÁA | 0,14 | kiemelt | 2026 |
 
-| 4. | VOP Plusz-5.2.2 | Állami projektértékelői és közbeszerzés műszaki-szakmai ellenőrzési feladatok támogatása – IÁA | 0,19 | kiemelt | 2025 |
+| 4. | VOP Plusz-5.2.2 | Állami projektértékelői és közbeszerzés műszaki-szakmai ellenőrzési feladatok támogatása – IÁA | 0,19 | kiemelt | 2026 |
 
-| 5. | VOP Plusz-5.2.3 | Kommunikációs tevékenységek megvalósítása – IÁA | 1,40 | kiemelt | 2025 |
+| 5. | VOP Plusz-5.2.3 | Kommunikációs tevékenységek megvalósítása – IÁA | 1,40 | kiemelt | 2026 |
 
-| 6. | VOP Plusz-5.2.4 | Pályázói- és kedvezményezetti kapacitásfejlesztés feladatainak támogatása – IÁA | 2,10 | kiemelt | 2025 |
+| 6. | VOP Plusz-5.2.4 | Pályázói- és kedvezményezetti kapacitásfejlesztés feladatainak támogatása – IÁA | 2,10 | kiemelt | 2026 |
 
 [^1]: Az 1. pont a) alpontja az 1164/2024. (VI. 10.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1409/2024. (XII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1. melléklet 4. pontjában foglalt táblázat az 1164/2024. (VI. 10.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1006/2026. (I. 19.) Korm. határozat 1. pontjával megállapított szöveg.
