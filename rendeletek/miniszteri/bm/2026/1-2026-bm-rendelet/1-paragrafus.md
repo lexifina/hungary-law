@@ -6,4 +6,6 @@
 
 ## [4] A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (7) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 2. és 27. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A javítóintézetek rendtartásáról szóló 1/2015. (I. 14.) EMMI rendelet 3. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
