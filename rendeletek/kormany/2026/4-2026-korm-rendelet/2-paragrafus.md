@@ -1,1 +1,3 @@
-2. § A terrorizmus elleni nemzeti listáról, valamint az azon szereplőkkel szemben alkalmazandó korlátozó intézkedésekről és ezek hatályáról szóló 456/2025. (XII. 29.) Korm. rendelet 2. melléklete a 2. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
