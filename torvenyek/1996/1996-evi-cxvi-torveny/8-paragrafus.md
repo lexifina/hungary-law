@@ -20,6 +20,8 @@ d) az egyéb bevétel.
 
 (1f) A (1a) bekezdés a)–c) pontja szerinti bevételek 30%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
 
+(1g) Az atomenergia-felügyeleti szerv alaptevékenységéhez kapcsolódóan nemzetközi szervezet részére bevételi forrásából a kiadási előirányzatai terhére hozzájárulást nyújthat, kifizetést teljesíthet.
+
 (2) Az atomenergia-felügyeleti szerv bevételét – az (1f) bekezdés kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
 (3) Az atomenergia-felügyeleti szerv évente jelentést készít az Országgyűlésnek az atomenergia hazai alkalmazásának biztonságáról, ideértve a 7. § (2) bekezdésében foglalt előkészítő tevékenységet is.

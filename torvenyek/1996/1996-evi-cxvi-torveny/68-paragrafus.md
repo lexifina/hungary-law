@@ -161,3 +161,5 @@ i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudo
 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
 
 20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
+
+21. a köztisztviselőt a készenlétért megillető készenléti pótlék mértékére vonatkozó részletes szabályokat.

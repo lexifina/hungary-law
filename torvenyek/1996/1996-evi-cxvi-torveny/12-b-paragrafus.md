@@ -64,4 +64,4 @@ ha ezeket a közigazgatási hatósági ügyeket az Ngtv. vagy a magyar építés
 
 (10) A (3) bekezdés a) pontja szerinti, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez szükséges engedélyezési eljárás ügyintézési határideje indokolt esetben 60 nappal meghosszabbítható.
 
-(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el.
+(11) Az atomenergia-felügyeleti szerv e törvény végrehajtására kiadott elnöki rendeletben meghatározott esetben soron kívül jár el. A soron kívüli eljárásért igazgatási szolgáltatási díjat kell fizetni.
