@@ -1,0 +1,3 @@
+4. § (1) Amennyiben a szakmai továbbképzésre kötelezett szakértő az igazságügyi szakértői tevékenységét szünetelteti, vagy igazságügyi szakértői kamarai tagságát felfüggesztették, a szakértőt a szünetelés, illetve a felfüggesztés időtartama alatt szakmai továbbképzési kötelezettség nem terheli.
+
+(2) Ha az (1) bekezdés szerinti szünetelés, illetve felfüggesztés időtartama az adott továbbképzési időszakban meghaladja a hat hónapot, de nem éri el az egy évet, az adott továbbképzési időszakban 36 kreditpontot kell megszereznie a szakértőnek. Ha a szünetelés, illetve a felfüggesztés időtartama eléri vagy meghaladja az egy évet, az adott képzési időszakban a megszerzendő kreditpontok száma hathavonként további 4-4 kreditponttal csökken.
