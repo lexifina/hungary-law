@@ -4,6 +4,8 @@
 
 (2) Az ajánlatkérő a külön jogszabályban meghatározott minta szerinti adatlapoknak, nyilatkozatoknak az AH-hoz való megküldésével kezdeményezi a beszerzési eljáráshoz kötődő minősítést a jegyzéken, vagy a minősített piaci szereplők jegyzékén nem szereplő alvállalkozó tekintetében.
 
+(2a) A beszerzési eljáráshoz kötődő minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.
+
 (3) A beszerzési eljáráshoz kötődő minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 a) az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatott beszerzésekben a KNBSZ, vagy

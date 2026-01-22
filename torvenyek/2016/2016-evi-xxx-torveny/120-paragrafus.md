@@ -2,6 +2,8 @@
 
 (2) A minősített piaci szereplők jegyzékére vett gazdasági szereplő az utolsó felülvizsgálat során végzett ellenőrzést követő huszonnegyedik hónap utolsó napjáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet által meghatározott nyilatkozatokat és adatlapokat ismét kitölteni, és az AH-nak megküldeni.
 
+(2a) A jegyzéken és a minősített piaci szereplők jegyzékén tartással összefüggő ellenőrzésért igazgatási szolgáltatási díjat kell fizetni.
+
 (3) Ha a gazdasági szereplő nem tesz eleget az (1), (2) és (5) bekezdésben foglalt adatszolgáltatási kötelezettségének vagy hiányosan nyújtja be az adatlapokat, nyilatkozatokat, és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított tizenöt napon belül nem tesz eleget, az AH a gazdasági szereplőt – egyidejű értesítése mellett – törli a jegyzékről vagy a minősített piaci szereplők jegyzékéről, és erről értesíti az ajánlatkérőt is.
 
 (4) Az adatszolgáltatást követő, a jegyzéken, vagy a minősített piaci szereplők jegyzékén tartáshoz szükséges ellenőrzéseket a 118. § (3) bekezdésében és a 119. § (3) bekezdésében foglaltak szerint az AH hatáskörébe utalt előzetes minősítések és beszerzési eljáráshoz kötődő minősítések esetében az AH, egyéb esetekben a KNBSZ végzi. Az ellenőrzéseket hatvan napon belül kell elvégezni, a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható.

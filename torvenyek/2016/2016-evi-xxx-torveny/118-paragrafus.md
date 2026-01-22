@@ -4,6 +4,8 @@
 
 (2) Bármely, a minősített piaci szereplők jegyzékén nem szereplő gazdasági szereplő az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerint kitöltött adatlapok, nyilatkozatok AH-nak való megküldésével kezdeményezheti az előzetes minősítés lefolytatását és a minősített piaci szereplők jegyzékére való felvételét.
 
+(2a) Az előzetes minősítés elvégzéséért igazgatási szolgáltatási díjat kell fizetni.
+
 (3) Az előzetes minősítés során a (4) bekezdésben meghatározott ellenőrzéseket
 
 a) ha a gazdasági szereplő – a főtevékenysége vagy a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) rendelkezésére álló egyéb információk alapján – előreláthatólag az Nbtv. 6. §-ában meghatározott feladatköröket érintő, valamint a honvédelemért felelős miniszter által vezetett minisztérium vagy a Magyar Honvédség által lefolytatásra kerülő beszerzési eljárásban fog részt venni, a KNBSZ,
