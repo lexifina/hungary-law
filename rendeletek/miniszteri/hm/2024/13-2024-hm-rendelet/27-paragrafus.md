@@ -18,4 +18,6 @@ g) az állományilletékes honvédelmi szervezet bélyegzőlenyomatát.
 
 (3) A tényleges szolgálatteljesítés a behívóparancson feltüntetett időponttól a tényleges szolgálatból történő elbocsátásig tart.
 
-(4) Az önkéntes tartalékos tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédelmi szervezet átadja részére a tényleges szolgálat teljesítéséről szóló igazolást, és erről tájékoztatja az önkéntes tartalékos munkáltatóját.
+(4)[^30] Az önkéntes tartalékos tényleges szolgálatból történő elbocsátásakor – az önkéntes tartalékos munkáltatójának 25. § (3) bekezdése szerinti egyeztetés alkalmával kinyilvánított, erre irányuló kérelme alapján – az állományilletékes honvédelmi szervezet átadja részére a tényleges szolgálat teljesítéséről szóló igazolást, amelyet az önkéntes tartalékos köteles átadni munkáltatójának. Az igazolás kiállítását az önkéntes tartalékos a munkáltatóra irányadó szabályok szerint saját jogon is kérelmezheti.
+
+[^30]: A 27. § (4) bekezdése az 1/2026. (I. 22.) HM rendelet 12. §-ával megállapított szöveg.

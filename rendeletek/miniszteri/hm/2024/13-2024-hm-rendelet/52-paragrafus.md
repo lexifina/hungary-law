@@ -3,3 +3,7 @@
 (2) A katona oktató esetében a napi feladatteljesítést és munkaidő-beosztást a köznevelési, illetve szakképző intézmény vezetője határozza meg az 51. § (3) bekezdése szerinti megállapodás keretei között.
 
 (3) A tanítási szünet időtartama alatt – amennyiben a köznevelési vagy a szakképző intézmény vezetője másként nem rendelkezik – a katona oktató szolgálati feladatait a döntésre jogosult elöljáró határozza meg.
+
+(4)[^54] A katona oktatóra a 35. § (3) bekezdése nem alkalmazható.
+
+[^54]: Az 52. § (4) bekezdését az 1/2026. (I. 22.) HM rendelet 24. §-a iktatta be.

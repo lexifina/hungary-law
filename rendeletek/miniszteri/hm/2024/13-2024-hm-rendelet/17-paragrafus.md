@@ -18,4 +18,9 @@ c) ha a Mészáros Lázár ösztöndíjas a tanulmányainak befejezését követ
 
 a) hivatásos vagy szerződéses szolgálati viszony létesítése esetén, az ezt megelőző napon,
 
-b) ha az önkéntes tartalékos nemzetbiztonsági ellenőrzéséről készült biztonsági szakvélemény nemzetbiztonsági kockázatot állapított meg, vagy az önkéntes tartalékos az ellenőrzéshez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg, a közlést, illetve a határidő leteltét követő ötödik munkanapon.
+b)[^17] ha az önkéntes tartalékos nemzetbiztonsági ellenőrzéséről készült biztonsági szakvélemény nemzetbiztonsági kockázatot vagy az egyszerűsített nemzetbiztonsági ellenőrzéséről készült tanúsítvány foglalkoztatást nemzetbiztonsági szempontból befolyásoló információt állapított meg, vagy az önkéntes tartalékos az ellenőrzéshez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg, a közlést, illetve a határidő leteltét követő ötödik munkanapon.
+
+(4)[^18] A Hjkr. 15. § (1) bekezdés b) pont 17. alpontjában meghatározott, a szolgálati viszony megszűnésére vonatkozó rendelkezések közül a Hjkr. 23. § (3) bekezdése nem alkalmazható az önkéntes tartalékosra.
+
+[^17]: A 17. § (3) bekezdés b) pontja az 1/2026. (I. 22.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^18]: A 17. § (4) bekezdését az 1/2026. (I. 22.) HM rendelet 7. § (2) bekezdése iktatta be.

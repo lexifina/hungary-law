@@ -4,13 +4,13 @@
 
 ## 15. Az alapilletmény
 
-38. § (1) A tényleges szolgálatot teljesítő önkéntes tartalékosnak a beosztásához rendszeresített rendfokozata alapján
+38. § (1)[^43] A tényleges szolgálatot teljesítő önkéntes tartalékosnak a beosztásához rendszeresített rendfokozata alapján
 
 a) a ténylegesen teljesített szolgálatteljesítése napjaira,
 
 b) alapszolgálatmentessége napjaira és szolgálatteljesítés alóli mentesülés idejére, valamint
 
-c) amennyiben hétköznapra esik, a tényleges szolgálatteljesítése időtartamára eső munkaszüneti napokra és május 21-ére,
+c) amennyiben nem a SZÜ rendelet 83. §-a szerinti, az önkéntes tartalékost megillető heti pihenőnapra esik, a tényleges szolgálatteljesítése időtartamára eső munkaszüneti napokra és május 21-ére
 
 az 1. mellékletben meghatározott összegű napi alapilletmény jár.
 
@@ -23,3 +23,5 @@ a) a 60 napot nem haladja meg, az (1) bekezdés szerinti napi alapilletményre n
 b) a 60 napot meghaladja, a 60 napot meghaladó időtartamra az önkéntes tartalékost a személyi jövedelemadó és a járulékok levonása után számított napi alapilletményként a személyi jövedelemadó és a járulékok levonása után számított, (1) bekezdés szerinti napi alapilletmény összegének és szolgálati járandóság huszonegyed részének különbözete illeti meg.
 
 (4) A (3) bekezdésben meghatározott 60 napba kizárólag az (1) bekezdés szerinti munkanapokat kell beszámítani.
+
+[^43]: A 38. § (1) bekezdése az 1/2026. (I. 22.) HM rendelet 19. §-ával megállapított szöveg.

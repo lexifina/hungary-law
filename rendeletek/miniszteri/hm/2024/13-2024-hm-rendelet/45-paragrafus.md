@@ -2,9 +2,9 @@
 
 (2) Nem jár rendelkezésre állási díj
 
-a) a szolgálati viszony megszűnésének hónapjára, ha az önkéntes tartalékos nem felel meg a nemzetbiztonsági ellenőrzésnek, vagy az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg és emiatt szolgálati viszonya megszűnik,
+a)[^48] a szolgálati viszony megszűnésének hónapjára a 17. § (3) bekezdés b) pontja szerinti esetben,
 
-b) szolgálathalasztás engedélyezése esetén az önkéntes tartalékos bevonulási kötelezettsége szolgálathalasztásban érintett behívásának első napjától a szolgálathalasztás időtartamának lejártát követő behívás alkalmával történő teljesítéséig,
+b)[^49] szolgálathalasztás engedélyezése esetén a szolgálathalasztással érintett hónapokra,
 
 c) a próbaidőre, ha az önkéntes tartalékos szolgálati viszonyát a honvédelmi szervezet a próbaidő alatt szünteti meg.
 
@@ -12,4 +12,8 @@ c) a próbaidőre, ha az önkéntes tartalékos szolgálati viszonyát a honvéd
 
 (4) Ha az önkéntes tartalékos szabályszerű behívása ellenére bevonulási kötelezettségének neki felróható okból nem tesz eleget, rendelkezésre állási díjra való jogosultságát a következő behívás alkalmával történő teljesítéséig elveszíti.
 
-(5) Ha az önkéntes tartalékos a 24. § (2) bekezdésében meghatározott kötelezettségét neki felróható okból nem teljesíti, a tárgyév lejártát követő hat hónap időtartamra járó rendelkezésre állási díjra való jogosultságát elveszíti.
+(5)[^50] Ha az önkéntes tartalékos a 24. § (2) bekezdésében meghatározott kötelezettségét nem teljesíti, a tárgyévet követő év első hat hónapjára járó rendelkezésre állási díjra való jogosultságát elveszíti, kivéve, ha a tárgyév során az állományilletékes honvédségi szervezet a behívásától eltekintett, vagy 7 napnál rövidebb időtartamra hívta be szolgálatteljesítésre.
+
+[^48]: A 45. § (2) bekezdés a) pontja az 1/2026. (I. 22.) HM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^49]: A 45. § (2) bekezdés b) pontja az 1/2026. (I. 22.) HM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^50]: A 45. § (5) bekezdése az 1/2026. (I. 22.) HM rendelet 22. § (3) bekezdésével megállapított szöveg.
