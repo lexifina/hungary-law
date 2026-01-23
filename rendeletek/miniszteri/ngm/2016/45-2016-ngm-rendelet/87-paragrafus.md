@@ -16,4 +16,6 @@ f) a lefoglalást elszenvedő panaszjogára való felhívást.
 
 (3) A jegyzőkönyv lefoglalást elszenvedő által történő aláírásának megtagadása a lefoglalásnak nem akadálya, de az aláírás megtagadását a jegyzőkönyvben fel kell tüntetni.
 
-(4) A jegyzőkönyv egyik példánya a hatóság, másik példánya a lefoglalást elszenvedő példánya.
+(4)[^132] A jegyzőkönyv egyik példánya a hatóság, másik példánya a lefoglalást elszenvedő példánya. Ha a jegyzőkönyv elektronikus formában készült, az állami adó- és vámhatóság azt a lefoglalást elszenvedő hivatalos elérhetőségén helyezi el. Ha a lefoglalást elszenvedő elektronikus ügyintézésre nem kötelezett és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, elektronikus kapcsolattartásra szolgáló elérhetőséggel nem rendelkezik, akkor az elektronikus jegyzőkönyv hiteles papíralapú másolatát kell a lefoglalást elszenvedő részére postai úton kézbesíteni.
+
+[^132]: A 87. § (4) bekezdése a 47/2025. (XII. 23.) NGM rendelet 1. §-ával megállapított szöveg.

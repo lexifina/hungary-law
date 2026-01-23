@@ -12,13 +12,13 @@ d) csökkentő tételként
 
 da) az állami adó- és vámhatóság által visszavett, feleslegessé vált vagy minőséghibás zárjegy darabszámát,
 
-db)[^144] a gyártás közben megsérült és tételes elszámolás mellett az állami adó- és vámhatóság felügyelete mellett megsemmisített és a 93/M. § (3) bekezdése szerint elszámolt zárjegy darabszámát,
+db)[^145] a gyártás közben megsérült és tételes elszámolás mellett az állami adó- és vámhatóság felügyelete mellett megsemmisített és a 93/M. § (3) bekezdése szerint elszámolt zárjegy darabszámát,
 
 dc) a zárjegy igénylőjének érdekkörén kívüli elháríthatatlan okból – ide nem értve a lopás esetét – használhatatlanná vált, megsemmisült zárjegy darabszámát, ha az biztonsággal megállapítható,
 
 dd) az állami adó- és vámhatóság felügyelete mellett megsemmisített, feleslegessé vált zárjegy darabszámát;
 
-de)[^145] a Jöt. 77. § (1a) bekezdése szerint eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegy sorszámát, darabszámát;
+de)[^146] a Jöt. 77. § (1a) bekezdése szerint eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegy sorszámát, darabszámát;
 
 e) a jegyzőkönyv keltének napján
 
@@ -28,12 +28,12 @@ eb) tagállamba kiszállított,
 
 ec) harmadik országba kiszállított,
 
-ed)[^146] másik saját engedélyre átadott,
+ed)[^147] másik saját engedélyre átadott,
 
 fel nem használt zárjegy mennyiségét (zárókészlet);
 
 f) az elszámolási időszakban keletkezett zárjegyhiányt.
 
-[^144]: A 93/L. § (2) bekezdés d) pont db) alpontja a 7/2020. (VII. 30.) PM rendelet 12. § 4. pontja szerint módosított szöveg.
-[^145]: A 93/L. § (2) bekezdés d) pont de) alpontját a 6/2023. (IX. 5.) PM rendelet 8. § (1) bekezdése iktatta be.
-[^146]: A 93/L. § (2) bekezdés e) pont ed) alpontja a 6/2023. (IX. 5.) PM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^145]: A 93/L. § (2) bekezdés d) pont db) alpontja a 7/2020. (VII. 30.) PM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^146]: A 93/L. § (2) bekezdés d) pont de) alpontját a 6/2023. (IX. 5.) PM rendelet 8. § (1) bekezdése iktatta be.
+[^147]: A 93/L. § (2) bekezdés e) pont ed) alpontja a 6/2023. (IX. 5.) PM rendelet 8. § (2) bekezdésével megállapított szöveg.

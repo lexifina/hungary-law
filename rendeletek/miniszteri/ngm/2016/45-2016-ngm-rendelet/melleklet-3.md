@@ -1,10 +1,10 @@
-3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^203]
+3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^204]
 
 Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
 
 ## A „*” jelzéssel ellátott adatokról kell adatszolgáltatást teljesíteni. A „**” jelzéssel ellátott adatokról abban az esetben kell adatszolgáltatást teljesíteni, ha a kiszállítás nem e-EKO-val történt.
 
-## Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vonatkozik a jelzésbeli tartalom.[^204]
+## Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vonatkozik a jelzésbeli tartalom.[^205]
 
 1. Jövedéki engedélyes engedélyszáma*
 
@@ -46,7 +46,7 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 4.6.2. Jogcím
 
-4.7.[^205] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék
+4.7.[^206] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék
 
 5. Készletcsökkenés
 
@@ -76,9 +76,9 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 5.1.4.4. dohánygyártmány esetén a jövedéki kiskereskedő működési engedélyszáma, nyilvántartásba vételi száma vagy dohány kiskereskedelmi engedélyszáma
 
-5.2.[^206] Tagállamba kiszállítás **
+5.2.[^207] Tagállamba kiszállítás **
 
-5.2.1.[^207] e-EKO vagy zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék esetén egyéb szállítási okmány
+5.2.1.[^208] e-EKO vagy zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék esetén egyéb szállítási okmány
 
 5.2.1.1. száma
 
@@ -102,7 +102,7 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 5.3. Exportra kiszállítás*
 
-5.3.1. Vámokmány
+5.3.1.[^209] Vámokmány, vagy egyéb kiszállításról szóló bizonylat
 
 5.3.1.1. száma
 
@@ -142,8 +142,9 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 6. Zárókészlet (naponta)
 
-[^203]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^204]: A 3. melléklet szövege a 26/2022. (XII. 28.) PM rendelet 12. § f) pontja szerint módosított szöveg.
-[^205]: A 3. melléklet 4.7. pontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
-[^206]: A 3. melléklet 5.2. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
-[^207]: A 3. melléklet 5.2.1. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^204]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^205]: A 3. melléklet szövege a 26/2022. (XII. 28.) PM rendelet 12. § f) pontja szerint módosított szöveg.
+[^206]: A 3. melléklet 4.7. pontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^207]: A 3. melléklet 5.2. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^208]: A 3. melléklet 5.2.1. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^209]: A 3. melléklet 5.3.1. pontja a 47/2025. (XII. 23.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
