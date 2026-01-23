@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-13-20-0
 | 2024-12-31 | 1991-13-20-06.36 | 13/2023. (IX. 21.) IM rendelet |
 | 2025-01-01 | 1991-13-20-06.37 | 29/2024. (XII. 30.) IM rendelet |
 | 2025-11-14 | 1991-13-20-06.38 | 14/2025. (XI. 13.) IM rendelet |
+| 2026-01-23 | 1991-13-20-06.39 | 2/2026. (I. 22.) IM rendelet |

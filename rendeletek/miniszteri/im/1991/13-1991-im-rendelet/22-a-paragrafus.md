@@ -1,9 +1,8 @@
-## HITELES KIADMÁNY, MÁSOLAT KÉSZÍTÉSE KÖZJEGYZŐI OKIRATRÓL, VÉGZÉSRŐL[^67]
+## FEGYELMI FELELŐSSÉG[^69]
 
-## (A Ktv. 148–157. §-ához)[^68]
+## (A Ktv. 70–110. §-ához)
 
-22/A. §[^69]
+22/A. §[^70] Az országos kamara a fegyelmi eljárást lefolytató szerv részére, annak megkeresése alapján, legfeljebb a fegyelmi eljárás jogerős befejezéséig hozzáférést biztosít az egységes ügykezelő alkalmazásnak azon székhelyen rögzített – a fegyelmi eljárás lefolytatásával összefüggő – adataihoz, amely székhelyen a fegyelmi eljárás alá vont személy működik.
 
-[^67]: A Vhr. 22/A. §-át megelőző alcímet a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be.
-[^68]: A Vhr. 22/A. §-át megelőző jogszabályi hivatkozást a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be.
-[^69]: A Vhr. 22/A. §-át a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.
+[^69]: A Vhr. 22/A. §-át megelőző alcímet a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be, a „FEGYELMI FELELŐSSÉG (A Ktv. 70–110. §-ához)” alcím címe a 2/2026. (I. 22.) IM rendelet 3. §-ával megállapított szöveg.
+[^70]: A Vhr. 22/A. §-át újonnan a 2/2026. (I. 22.) IM rendelet 4. §-a iktatta be.

@@ -34,6 +34,6 @@
 
 ## * A választ alá kell húzni.
 
-2. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^118]
+2. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^119]
 
-[^118]: A Vhr. 2–4. számú mellékletét az 55/2007. (XII. 21.) IRM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^119]: A Vhr. 2–4. számú mellékletét az 55/2007. (XII. 21.) IRM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
