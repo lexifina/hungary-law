@@ -1,6 +1,6 @@
 ## 15. A programot és a tejfogyasztást népszerűsítő kommunikáció támogatása
 
-23. §[^88] (1) Az intézményben a program népszerűsítését célzó, valamint a friss tej- és tejtermékfogyasztást ösztönző edukációs program indítható – pályázat vagy közbeszerzési eljárás kiírása útján – a programban rendelkezésre álló források terhére. Az edukációs program éves szinten a nemzeti forrás legfeljebb 3%-áig, az európai uniós forrás legfeljebb 15%-áig támogatható.
+23. §[^89] (1) Az intézményben a program népszerűsítését célzó, valamint a friss tej- és tejtermékfogyasztást ösztönző edukációs program indítható – pályázat vagy közbeszerzési eljárás kiírása útján – a programban rendelkezésre álló források terhére. Az edukációs program éves szinten a nemzeti forrás legfeljebb 3%-áig, az európai uniós forrás legfeljebb 15%-áig támogatható.
 
 (2) Az edukációs program a miniszter által közzétett pályázat vagy közbeszerzési eljárás lefolytatását követően megkötött szerződés alapján – tájékoztató kampány folytatása útján – valósítható meg.
 
@@ -20,4 +20,4 @@ d) a miniszter által kiadott – a nyertes ajánlattevő vállalásának végre
 
 egyidejű csatolásával.
 
-[^88]: A 23. § a 3/2025. (II. 27.) AM rendelet 13. §-ával megállapított szöveg.
+[^89]: A 23. § a 3/2025. (II. 27.) AM rendelet 13. §-ával megállapított szöveg.
