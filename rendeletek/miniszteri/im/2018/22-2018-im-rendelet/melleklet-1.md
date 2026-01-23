@@ -1,4 +1,4 @@
-1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^54]
+1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^57]
 
 Egyoldalú kötelezettségvállaló nyilatkozat minta a 37/B. §-hoz
 
@@ -200,7 +200,7 @@ V. Hiteles kiadmány
 
 Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a Haszonélvező / Haszonélvezők (a továbbiakban: Ügyfél) akként rendelkeznek, hogy jelen közjegyzői okiratról hiteles kiadmány, másolat és bizonyítvány az Ügyfélnek, továbbá a Hitelezőnek és a Zálogjogosultnak adható ki.
 
-[^54]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a, a 32/2022. (XII. 22.) IM rendelet 2. §-a, a 21/2023. (XII. 28.) IM rendelet 3. §-a, a 43/2024. (XII. 30.) IM rendelet 4. és 5. §-a, a 10/2025. (VIII. 28.) IM rendelet 4. §-a és 5. § o) pontja szerint módosított szöveg.
+[^57]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a, a 32/2022. (XII. 22.) IM rendelet 2. §-a, a 21/2023. (XII. 28.) IM rendelet 3. §-a, a 43/2024. (XII. 30.) IM rendelet 4. és 5. §-a, a 10/2025. (VIII. 28.) IM rendelet 4. §-a és 5. § o) pontja szerint módosított szöveg.
 [^1.]: Az okiratminta kitöltése során tartalmi változtatásnak vagy kiegészítésnek nincs helye, annak szövege csak annyiban bővíthető, amennyiben a szöveg bővítését az okiratminta pontozott vonal használatával megengedi. A / jellel jelölt vagylagosság esetén kizárólag a megfelelő fordulatot kell feltüntetni, a többi törlendő. Az okiratmintából csak azok a szövegrészek hagyhatók el, amelyek elhagyását az okiratminta megengedi.
 [^2.]: Több adós esetén többször feltüntethető.
 [^3.]: Kizárólag több jogosult félként való részvétele esetén kell feltüntetni.

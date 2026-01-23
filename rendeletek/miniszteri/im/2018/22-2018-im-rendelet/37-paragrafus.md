@@ -1,6 +1,6 @@
 ## kell fizetni a közjegyző részére, a minősített elektronikus aláírással saját nevében való eljárás céljából történő regisztráció azonban mentes a munkadíj és költségtérítés fizetése alól.
 
-37. §[^31] (1) A (2) bekezdés szerinti munkadíjat kell fizetni a közjegyző részére
+37. §[^34] (1) A (2) bekezdés szerinti munkadíjat kell fizetni a közjegyző részére
 
 a) a kamattámogatással érintett kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozatnak
 
@@ -32,4 +32,4 @@ című pályázat
 
 (2) Az (1) bekezdés szerinti közjegyzői okirat elkészítéséért fizetendő munkadíjként a 10. § szerinti munkadíj 15%-át kell felszámítani.
 
-[^31]: A 37. § a 10/2025. (VIII. 28.) IM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 37. § a 10/2025. (VIII. 28.) IM rendelet 2. §-ával megállapított szöveg.
