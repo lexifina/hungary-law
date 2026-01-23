@@ -1,0 +1,1 @@
+10. § Az R2. 43. § (1) bekezdés záró szövegrészében a „vámhatósági szolgálati” szövegrész helyébe a „vámhatósági szolgálati, valamint nemzetbiztonsági szolgálati vagy nemzetbiztonsági alkalmazotti” szöveg lép.

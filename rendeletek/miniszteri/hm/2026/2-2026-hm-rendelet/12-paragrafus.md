@@ -1,0 +1,1 @@
+12. § Az R3. 2. § 3. pontjában a „valamint a rendvédelmi szerveknél hivatásos szolgálati” szövegrész helyébe az „a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, valamint a polgári nemzetbiztonsági szolgálatoknál nemzetbiztonsági szolgálati” szöveg lép.
