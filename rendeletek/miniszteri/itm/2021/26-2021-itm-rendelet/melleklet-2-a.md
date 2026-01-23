@@ -124,7 +124,7 @@ A tranzitút-hálózat
 
 | 1 | Tranzitút megjelölése | Útvonal | Érintett út száma | Km szelvény | Szakasz típusa |
 
-| 2 | T-1 | Biatorbágy (M0) – Tatabánya – Győr Hegyeshalom, országhatár | M1 | 12–172 | gyorsforgalmi szakasz |
+| 2 | T-1 | Biatorbágy (M0) – Tatabánya – Győr Hegyeshalom, országhatár | M1 | 15–172[^15] | gyorsforgalmi szakasz |
 
 | 3 | T-15 | Levél (M1) – Rajka, országhatár | M15 | 0–15 | gyorsforgalmi szakasz |
 
@@ -198,13 +198,13 @@ A tranzitút-hálózat
 
 | 38 | 44. sz. főút | 120–143 | főúti szakasz |
 
-| 39 | T-55 | Szeged (M5) – Kisszállás (53. sz. főút) | 55. sz. főút | 8–63 | főúti szakasz |
+| 39 | T-55 | Szeged (M5) – Kisszállás (53. sz. főút) | 55. sz. főút | 8–19[^16] | főúti szakasz |
 
-| 40 | 551. sz. főút | 100–102 | lakott területtel érintett szakasz |
+| 40 | 55. sz. főút[^17] | 19–25[^18] | főúti szakasz[^19] |
 
-| 41 | 55. sz. főút | 102–114 | lakott területtel érintett szakasz |
+| 41 | 55. sz. főút | 25–29[^20] | főúti szakasz[^21] |
 
-| 42 | 55. sz. főút | 114–122 | főúti szakasz |
+| 42 | 55. sz. főút | 29–51[^22] | főúti szakasz |
 
 | 43 | T-53 | Kisszállás (55. sz. főút) – Tompa, országhatár | 53. sz. főút | 75–79 | főúti szakasz |
 
@@ -214,7 +214,7 @@ A tranzitút-hálózat
 
 | 46 | T-6 | Budapest (M6) – Érd – Dunaújváros – Ivándárda, országhatár | M6 | 14–210 | gyorsforgalmi szakasz |
 
-| 47 | T-7 | Törökbálint (M0) – Érd – Székesfehérvár – Nagykanizsa – Letenye, országhatár | M7 | 9–234 | gyorsforgalmi szakasz |
+| 47 | T-7 | Törökbálint (M0) – Érd – Székesfehérvár – Nagykanizsa – Letenye, országhatár | M7 | 15–234[^23] | gyorsforgalmi szakasz |
 
 | 48 | T-70 | Letenye (M7) – Tornyiszentmiklós, országhatár | M70 | 0–21 | gyorsforgalmi szakasz |
 
@@ -252,10 +252,20 @@ A tranzitút-hálózat
 
 | 9 | TI-SZEGED | SZEGED (Szeged-Kiskundorozsma): 5. sz. főút Szeged (M43) és Szeged (502. sz. főút) között – 502. sz. főút Szeged (5. sz. főút) és Kiskundorozsma (5408. jelű út) között – 5408. jelű összekötő út Kiskundorozsma (502. sz. főút) és Kiskundorozsma (vasútállomás) között |
 
-| 10 | TI-DEPO | DEPO (Törökbálint): 8105. jelű összekötő út Budaörs (M7) és Budaörs (81101. jelű út) között – 81101. jelű út Budaörs (8105. jelű út) és Törökbálint (DEPO) között |
+| 10 | TI-DEPO | DEPO (Törökbálint): M1 autópálya Biatorbágy (M0) és Budaörs (8105. jelű út) között – 8105. jelű út Budaörs (M1) és Törökbálint (81101. jelű út) között – 81101. jelű út Törökbálint (8105. jelű út) és Törökbálint (DEPO) között[^24] |
 
 | 11 | TI-BUD | BUD (Budapest Liszt Ferenc Nemzetközi Repülőtér): M4 autóút Üllő (M0) és a Budapest Liszt Ferenc Nemzetközi Repülőtér között |
 
 | 12 | TI-MACS | MACS (Debrecen-Macs): 33. sz. főút Debrecen-Kismacs (M35) és Macs Ipari park között – Iparterületi út |
 
 [^14]: A 2/A. mellékletet a 44/2025. (XII. 23.) ÉKM rendelet 2. §-a iktatta be.
+[^15]: A 2/A. melléklet 1. pontjában foglalt táblázat D:2 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^16]: A 2/A. melléklet 1. pontjában foglalt táblázat D:39 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 2/A. melléklet 1. pontjában foglalt táblázat C:40 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 2/A. melléklet 1. pontjában foglalt táblázat D:40 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^19]: A 2/A. melléklet 1. pontjában foglalt táblázat E:40 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^20]: A 2/A. melléklet 1. pontjában foglalt táblázat D:41 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 2/A. melléklet 1. pontjában foglalt táblázat E:41 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^22]: A 2/A. melléklet 1. pontjában foglalt táblázat D:42 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^23]: A 2/A. melléklet 1. pontjában foglalt táblázat D:47 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^24]: A 2/A. melléklet 2. pontjában foglalt táblázat B:10 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (2) bekezdése szerint módosított szöveg.
