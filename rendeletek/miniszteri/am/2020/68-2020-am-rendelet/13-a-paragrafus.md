@@ -18,7 +18,7 @@ c) a pótbefizetés összegét maradéktalanul megfizeti az (5) bekezdés szerin
 
 (5a)[^51] Ha a mezőgazdasági termelő a pótbefizetés összegét a (4) bekezdés szerinti pótbefizetési határozat ellenére nem fizeti be határidőben, a mezőgazdasági termelő tárgyévi pótbefizetési kompenzációra – az (1) bekezdés alapján – nem jogosult, és a krízisbiztosítási szerv törli a vele szemben fennálló pótbefizetési kötelezettséget.
 
-(6)[^52] A 2022. év vonatkozásában a pótbefizetés összege a 2022. évben befizetett krízisbiztosítási hozzájárulás 2,5-szerese.
+(6)[^52] A 2024. év vonatkozásában a pótbefizetés összege a 2024. évben befizetett krízisbiztosítási hozzájárulás 3,5-szerese.
 
 [^45]: Az 5/A. alcímet (13/A-13/B. §-t) a 26/2023. (VI. 30.) AM rendelet 1. §-a iktatta be.
 [^46]: A 13/A. § (1) bekezdése a 12/2025. (IV. 22.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -27,4 +27,4 @@ c) a pótbefizetés összegét maradéktalanul megfizeti az (5) bekezdés szerin
 [^49]: A 13/A. § (4) bekezdése a 12/2025. (IV. 22.) AM rendelet 14. § 17. pontja szerint módosított szöveg.
 [^50]: A 13/A. § (5) bekezdése a 12/2025. (IV. 22.) AM rendelet 14. § 18. pontja szerint módosított szöveg.
 [^51]: A 13/A. § (5a) bekezdését a 12/2025. (IV. 22.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^52]: A 13/A. § (6) bekezdése a 25/2024. (IV. 9.) AM rendelet 16. §-ával megállapított szöveg.
+[^52]: A 13/A. § (6) bekezdése a 2/2026. (I. 22.) AM rendelet 9. §-ával megállapított szöveg.
