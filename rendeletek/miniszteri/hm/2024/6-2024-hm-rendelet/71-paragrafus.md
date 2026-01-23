@@ -1,6 +1,6 @@
 ## 38. A tanulmányi szerződés
 
-71. § (1)[^3] A tanulmányi szerződésben a döntésre jogosult elöljáró vállalja, hogy a tanulmányok alatt, annak elvégzéséhez a honvédelmi szervezet támogatást nyújt, az állomány tagja pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos ideig, de legfeljebb 10 évig szolgálati viszonyát fenntartja. A tanulmányi szerződés megkötésére, módosítására, megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
+71. § (1)[^5] A tanulmányi szerződésben a döntésre jogosult elöljáró vállalja, hogy a tanulmányok alatt, annak elvégzéséhez a honvédelmi szervezet támogatást nyújt, az állomány tagja pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos ideig, de legfeljebb 10 évig szolgálati viszonyát fenntartja. A tanulmányi szerződés megkötésére, módosítására, megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
 
 (2) A tanulmányi szerződésre a 23. §-ban foglaltakat megfelelően alkalmazni kell.
 
@@ -10,4 +10,4 @@
 
 (5) Az állomány tagja – a más szervhez vezényeltek kivételével – a honvédelmi szervezeten kívüli más munkáltatóval tanulmányi szerződést csak a döntésre jogosult elöljáró előzetes engedélyével köthet.
 
-[^3]: A 71. § (1) bekezdése a Magyar Közlöny 2024. évi 72. számában megjelent helyesbítésnek megfelelő szöveg.
+[^5]: A 71. § (1) bekezdése a Magyar Közlöny 2024. évi 72. számában megjelent helyesbítésnek megfelelő szöveg.

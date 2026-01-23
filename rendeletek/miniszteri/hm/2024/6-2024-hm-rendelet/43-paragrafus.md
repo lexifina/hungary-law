@@ -1,10 +1,10 @@
-43. § (1) Kérelemre rendelkezési állományba helyezhető és rendelkezési állományba tartozik
+43. § (1)[^4] Kérelemre rendelkezési állományba helyezhető és rendelkezési állományba tartozik
 
 a) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása, álláshelye létszámcsökkentés vagy átszervezés következtében megszűnt, és további foglalkoztatására nincs lehetőség,
 
 b) a hivatásos állomány legalább 25 év szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan,
 
-a közszolgálati tisztviselőkről szóló törvény szerinti közszolgálati, az egészségügyi szolgálati, a honvédelmi alkalmazotti, a közalkalmazotti vagy a rendvédelmi igazgatási szolgálati jogviszonyba, a Nemzeti Adó- és Vámhivatalnál fennálló adó- és vámhatósági szolgálati jogviszonyba történő áthelyezéséig, illetve a Kit. szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a (2) bekezdésben meghatározott időtartamra.
+a közszolgálati tisztviselőkről szóló törvény szerinti közszolgálati, az egészségügyi szolgálati, a honvédelmi alkalmazotti, a közalkalmazotti vagy a rendvédelmi igazgatási szolgálati jogviszonyba, a Nemzeti Adó- és Vámhivatalnál fennálló adó- és vámhatósági szolgálati, valamint nemzetbiztonsági szolgálati vagy nemzetbiztonsági alkalmazotti jogviszonyba történő áthelyezéséig, illetve a Kit. szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a (2) bekezdésben meghatározott időtartamra.
 
 (2) A rendelkezési állomány időtartama a rendelkezési állományba helyezéskor elért szolgálati viszonyban töltött időnek megfelelően
 
@@ -43,3 +43,5 @@ c) a Hjkr. 15. § (2) bekezdés c) pontja szerint megszűnik, ha az állomány t
 (5) Ha az állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya (4) bekezdés b) pontja szerinti megszűnésének megállapítását, a (2) bekezdés szerinti időtartam hátralevő részére számított illetménynek megfelelő összegre, illetve a (3) bekezdés szerinti meghosszabbítás esetében az ott meghatározott összegre jogosult.
 
 (6) A Honvédség központi személyügyi szerve – a honvédelmi szervezetek vonatkozásában – folyamatosan vizsgálja az állomány (1) bekezdés szerint rendelkezési állományba tartozó tagja részére iskolai végzettsége, szakképzettsége, szakképesítése alapján honvédelmi alkalmazotti munkakör felajánlásának lehetőségét.
+
+[^4]: A 43. § (1) bekezdés záró szövegrésze a 2/2026. (I. 22.) HM rendelet 10. §-a szerint módosított szöveg.

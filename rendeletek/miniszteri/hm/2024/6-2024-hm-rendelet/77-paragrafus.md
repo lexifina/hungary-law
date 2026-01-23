@@ -18,8 +18,12 @@ be) az 1996. szeptember 1-jét megelőzően a katonai és rendvédelmi felsőokt
 
 bf) az önkéntes tartalékos szolgálati viszonynak a tényleges szolgálatteljesítés időtartamát,
 
+bg)[^6] a polgári nemzetbiztonsági szolgálatoknál fennálló nemzetbiztonsági szolgálati jogviszonyban eltöltött időt,
+
 c) a 2012. január 1-je előtt hatályos szabályok szerint kedvezményesen számított szolgálati időt.
 
 (2) Ha a hivatásos vagy szerződéses szolgálati viszony más jogviszonyból áthelyezéssel létesül, és a más jogviszonyban töltött időt a más jogviszonyra vonatkozó jogszabály szerint folyamatosnak kell tekinteni, akkor a szolgálati viszonyban töltött időbe be kell számítani az áthelyezést közvetlenül megelőző jogviszonyban töltött időt is.
 
 (3) Ha a szolgálati viszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+
+[^6]: A 77. § (1) bekezdés b) pont bg) alpontját a 2/2026. (I. 22.) HM rendelet 9. §-a iktatta be.
