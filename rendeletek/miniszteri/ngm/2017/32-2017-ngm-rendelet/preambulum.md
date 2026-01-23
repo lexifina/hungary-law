@@ -1,1 +1,0 @@
-A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (8) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
