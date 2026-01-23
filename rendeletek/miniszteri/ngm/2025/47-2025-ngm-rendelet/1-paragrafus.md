@@ -2,6 +2,6 @@
 
 ## [2] A jövedéki adóról szóló 2016. évi LXVIII. törvény 148. § (2) bekezdés d), e), g) és h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. §[^1]
+1. § A jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet [a továbbiakban: 45/2016. (XI. 29.) NGM rendelet] 87. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2026. január 23-án lép hatályba.
+„(4) A jegyzőkönyv egyik példánya a hatóság, másik példánya a lefoglalást elszenvedő példánya. Ha a jegyzőkönyv elektronikus formában készült, az állami adó- és vámhatóság azt a lefoglalást elszenvedő hivatalos elérhetőségén helyezi el. Ha a lefoglalást elszenvedő elektronikus ügyintézésre nem kötelezett és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, elektronikus kapcsolattartásra szolgáló elérhetőséggel nem rendelkezik, akkor az elektronikus jegyzőkönyv hiteles papíralapú másolatát kell a lefoglalást elszenvedő részére postai úton kézbesíteni.”

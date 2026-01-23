@@ -1,3 +1,3 @@
-2. §[^2]
+2. § (1) A 45/2016. (XI. 29.) NGM rendelet 1. melléklete az 1. melléklet szerint módosul.
 
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2026. január 23-án lép hatályba.
+(2) A 45/2016. (XI. 29.) NGM rendelet 3. melléklete a 2. melléklet szerint módosul.
