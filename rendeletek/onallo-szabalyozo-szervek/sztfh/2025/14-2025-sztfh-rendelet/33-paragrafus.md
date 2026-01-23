@@ -1,1 +1,3 @@
-33. § Az 5/2024. (VI. 14.) SZTFH rendelet 1. melléklete helyébe a 4. melléklet lép.
+33. §[^35]
+
+[^35]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
