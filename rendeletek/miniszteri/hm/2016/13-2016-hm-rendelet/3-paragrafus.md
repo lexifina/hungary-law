@@ -6,8 +6,10 @@
 
 a) az MH-nál már rendszeresített, harcászati-technikai paramétereket érintően alapvetően módosított lőfegyver,
 
-b) a rendvédelmi szervek által már rendszeresített lőfegyver,
+b)[^1] a rendvédelmi szervek vagy polgári nemzetbiztonsági szolgálatok által már rendszeresített lőfegyver,
 
 c) az Észak-atlanti Szerződés Szervezete tagállamának vagy az Európai Unió tagállamának fegyveres szerveinél rendszeresített lőfegyver.
 
 (3) Az alkalmazásbavételi határozatot a KNBSZ főigazgatójának javaslatára a honvédelemért felelős miniszter adja ki.
+
+[^1]: A 3. § (2) bekezdés b) pontja a 2/2026. (I. 22.) HM rendelet 7. §-a szerint módosított szöveg.

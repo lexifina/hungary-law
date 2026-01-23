@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-13-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-30 | 2016-13-20-15.1 | 13/2016. (VII. 22.) HM rendelet |
+| 2026-01-23 | 2016-13-20-15.2 | 2/2026. (I. 22.) HM rendelet |
