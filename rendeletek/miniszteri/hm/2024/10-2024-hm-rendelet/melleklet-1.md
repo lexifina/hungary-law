@@ -32,7 +32,7 @@ A honvédelmi egészségkárosodási ellátás megállapításhoz szükséges ad
 
 1.14. Hivatásos vagy szerződéses állományba vétel időpontja
 
-1.15. Ha a szolgálati viszony rendvédelmi feladatokat ellátó szervtől történő áthelyezéssel létesült, a hivatásos szolgálati viszony kezdetének időpontja
+1.15.[^3] Ha a szolgálati viszony rendvédelmi feladatokat ellátó szervtől vagy polgári nemzetbiztonsági szolgálattól történő áthelyezéssel létesült, a hivatásos vagy a nemzetbiztonsági szolgálati viszony kezdetének időpontja
 
 2. Nyilatkozatok
 
@@ -51,3 +51,5 @@ A honvédelmi egészségkárosodási ellátás megállapításhoz szükséges ad
 2.7. Gyermekeiről (név, születési adatok, lakcím)
 
 2.8. A további közeli hozzátartozókról (név, születési adatok, lakcím)
+
+[^3]: Az 1. melléklet 1.15. alpontja a 2/2026. (I. 22.) HM rendelet 11. §-ával megállapított szöveg.
