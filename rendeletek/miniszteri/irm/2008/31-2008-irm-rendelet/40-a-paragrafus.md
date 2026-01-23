@@ -1,6 +1,6 @@
-## Ingatlan-értékbecslői vizsgálat[^16]
+## Ingatlan-értékbecslői vizsgálat[^17]
 
-40/A. §[^17] (1) Ha a szakkérdés
+40/A. §[^18] (1) Ha a szakkérdés
 
 a) beépíthető telek,
 
@@ -12,5 +12,5 @@ c) nem lakás céljára szolgáló épülettel beépített ingatlan
 
 (2) Ha a kirendelés másként nem rendelkezik, a szakértő az ingatlan értékének megállapítása során figyelembe veszi az ingatlan környezetét, elhelyezkedését, az építmény mennyiségi, minőségi jellemzőit, az ingatlan műszaki paramétereit, korát és állapotát, és az adott ingatlantól függően az egyéb, értéket befolyásoló tényezőket.
 
-[^16]: A 40/A. §-t megelőző alcímet a 31/2012. (VI. 29.) KIM rendelet 16. § (3) bekezdése iktatta be.
-[^17]: A 40/A. §-t a 31/2012. (VI. 29.) KIM rendelet 16. § (3) bekezdése iktatta be.
+[^17]: A 40/A. §-t megelőző alcímet a 31/2012. (VI. 29.) KIM rendelet 16. § (3) bekezdése iktatta be.
+[^18]: A 40/A. §-t a 31/2012. (VI. 29.) KIM rendelet 16. § (3) bekezdése iktatta be.
