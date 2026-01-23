@@ -8,7 +8,7 @@ b) a rendvédelmi célú légiközlekedés szakszemélyzetei részére az állom
 
 szervez.
 
-(2)[^5] Az (1) bekezdés a) pontja szerinti képzés esetén a katonai szervezet állományilletékes parancsnoka az általa elkészített ütemtervet előzetesen egyezteti az oktatási intézménnyel.
+(2)[^6] Az (1) bekezdés a) pontja szerinti képzés esetén a katonai szervezet állományilletékes parancsnoka az általa elkészített ütemtervet előzetesen egyezteti az oktatási intézménnyel.
 
 (3) A szakszolgálati engedély megszerzéséhez, meghosszabbításához, kiterjesztéséhez szükséges tanfolyam elméleti és gyakorlati foglalkozásokból tevődik össze.
 
@@ -16,7 +16,7 @@ szervez.
 
 (5) A pályázót új tanfolyamra kell beiskolázni, ha a (4) bekezdésben előírt feltétel nem teljesül.
 
-(6)[^6] Veszélyhelyzet ideje alatt, valamint az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján elrendelt egészségügyi válsághelyzet ideje alatt a tanfolyam távoktatásban is megtartható.
+(6)[^7] Veszélyhelyzet ideje alatt, valamint az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján elrendelt egészségügyi válsághelyzet ideje alatt a tanfolyam távoktatásban is megtartható.
 
-[^5]: Az 5. § (2) bekezdése a 13/2005. (IV. 21.) HM rendelet 9. §-ának (2) bekezdése szerint módosított szöveg.
-[^6]: Az 5. § (6) bekezdését a 11/2021. (IV. 1.) HM rendelet 5. §-a iktatta be, szövege a 46/2023. (XII. 28.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdése a 13/2005. (IV. 21.) HM rendelet 9. §-ának (2) bekezdése szerint módosított szöveg.
+[^7]: Az 5. § (6) bekezdését a 11/2021. (IV. 1.) HM rendelet 5. §-a iktatta be, szövege a 46/2023. (XII. 28.) HM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 15. § (1) Ez a rendelet 2003. március 1-jén lép hatályba.
 
-(2)–(4)[^22]
+(2)–(4)[^25]
 
 Melléklet az 5/2003. (II. 1.) HM rendelethez
 
@@ -20,4 +20,4 @@ P. H.
 
 állományilletékes parancsnok
 
-[^22]: A 15. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 88. pontja hatályon kívül helyezte.
+[^25]: A 15. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 88. pontja hatályon kívül helyezte.
