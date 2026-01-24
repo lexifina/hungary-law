@@ -1,1 +1,3 @@
-16. § Hatályát veszti a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló 32/2017. (X. 18.) NGM rendelet.
+16. §[^1]
+
+[^1]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
