@@ -1,9 +1,3 @@
-## „a) a Hjkr. 4. § (2) bekezdése, 5. § (4) és (7) bekezdése, 9. § (1) bekezdése, 10. § (1) bekezdés c) pontja, 10. § (3) bekezdése, 11. § (5), (8) és (9) bekezdése, 13. § (2) bekezdése, 14. § (2)–(6) bekezdése, 15. § (1) bekezdés b) pont 4., 5., 15. és 16. alpontja, 15. § (2) bekezdés b), c) és e) pontja, 15. § (4), (5) és (7) bekezdése, 16–18. §-a, 19. § (1) bekezdése, 20. § (2) bekezdése, 20. § (5) bekezdés a) pontja, 20. § (6) és (7) bekezdése, 23. § (2)–(6) bekezdése, 24. § (3), (4) és (7) bekezdése, 32. § (3), (8)–(12), (14), (16)–(19), (22), (28), (30), (34), (37) és (39) bekezdése,
+2. §[^3]
 
-## b) a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet (a továbbiakban: SZÜ rendelet) 2. § (2) bekezdése, 6. § (6) bekezdése, 7. §-a, 9. § (4) bekezdése, 10. § (2) bekezdése, 11. § (1) bekezdés c) pontja, 13. §-a, 16. § (2) bekezdése, 17–19. §-a, 23. és 24. §-a, 27–29. §-a, 31–35. §-a, 39–41. §-a, 43–45. §-a, 57–63. §-a, 65. § (1) bekezdése, 66–68. §-a, 70. § (2) és (3) bekezdése, 71. §-a, 76. §-a, 89–91. §-a, 92. § (3) bekezdése, 96–98. §-a, 99–108. §-a, 109–112. §-a,”
-
-2. § Az Ötr. 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § (1) Az önkéntes tartalékos esetében a tagsági viszony létesítése, illetve fenntartása nem tiltható meg, azonban tényleges szolgálatteljesítése esetén a politikai célt szolgáló szervezetben fennálló tagsági viszonyából eredő jogait nem gyakorolhatja, illetve politikai tevékenységet nem folytathat.
-
-(2) Nem szünetel az önkéntes tartalékos szolgálati viszonya az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, a polgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételtől a választás befejezéséig vagy a jelöltségtől való visszalépéséig, megválasztása esetén a mandátuma igazolásáig.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-23. § Az Ötr. 46. § (2) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(2) A rendelkezésre állási díjat a tárgyhónapot követő második hónap ötödik napjáig kell kifizetni.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-28. § (1) Az Ötr. 1. melléklete helyébe az 1. melléklet lép.
+28. §[^29]
 
-(2) Az Ötr. 2. melléklete helyébe a 2. melléklet lép.
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

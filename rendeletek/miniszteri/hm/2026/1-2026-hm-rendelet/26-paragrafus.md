@@ -1,7 +1,3 @@
-26. § (1) Az Ötr. 61. § (3) bekezdése helyébe a következő rendelkezés lép:
+26. §[^27]
 
-„(3) Ahol a 24. § (3) bekezdése a döntésre jogosult elöljáró részére jogokat és kötelezettségeket állapít meg, ott a KNBSZ főigazgatóját kell érteni.”
-
-(2) Az Ötr. 61. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A 23/E. § (1) bekezdésében foglaltaktól eltérően a KNBSZ főigazgatója határozza meg a rendfokozati előmenetel feltételeit.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,6 +2,6 @@
 
 ## [2] A honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 30. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az önkéntes tartalékos jogállásról szóló 13/2024. (VII. 23.) HM rendelet (a továbbiakban: Ötr.) 1. § (4) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(Nem alkalmazható az önkéntes tartalékosra)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

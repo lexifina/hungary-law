@@ -1,7 +1,3 @@
-30. § Hatályát veszti az Ötr.
+30. §[^31]
 
-a) 2. § 4. pontja,
-
-b) 24. § (5) bekezdése,
-
-c) 37. § (3) és (4) bekezdése.
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

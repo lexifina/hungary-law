@@ -1,3 +1,3 @@
-24. § Az Ötr. 52. §-a a következő (4) bekezdéssel egészül ki:
+24. §[^25]
 
-„(4) A katona oktatóra a 35. § (3) bekezdése nem alkalmazható.”
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. § Az Ötr. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(2) Az egészségügyi szolgálatmentesség időtartama egy naptári évben nem haladhatja meg a harminc naptári napot. A naptári évben igénybe nem vett rész később nem igényelhető és nem váltható meg.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
