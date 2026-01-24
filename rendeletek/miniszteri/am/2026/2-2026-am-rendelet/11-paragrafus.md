@@ -1,1 +1,3 @@
-11. § A 14/2021. (III. 25.) AM rendelet 1. melléklete az 1. melléklet szerint módosul.
+11. §[^3]
+
+[^3]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

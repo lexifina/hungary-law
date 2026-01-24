@@ -1,3 +1,3 @@
-9. § A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet 13/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+9. §[^1]
 
-„(6) A 2024. év vonatkozásában a pótbefizetés összege a 2024. évben befizetett krízisbiztosítási hozzájárulás 3,5-szerese.”
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
