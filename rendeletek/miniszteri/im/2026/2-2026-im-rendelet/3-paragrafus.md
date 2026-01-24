@@ -1,1 +1,3 @@
-3. § A közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet 22. §-át követő „HITELES KIADMÁNY, MÁSOLAT KÉSZÍTÉSE KÖZJEGYZŐI OKIRATRÓL, VÉGZÉSRŐL (A Ktv. 148–157. §-ához)” alcím cím helyébe a következő alcím cím lép:
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
