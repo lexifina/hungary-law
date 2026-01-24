@@ -22,4 +22,6 @@
 
 ## 1. A meghagyással kapcsolatos követelményekről szóló 8/1994. (V. 20.) HM rendelet módosítása
 
-1. § A meghagyással kapcsolatos követelményekről szóló 8/1994. (V. 20.) HM rendelet 3. § (2) bekezdésében az „és a rendvédelmi szervek” szövegrész helyébe az „a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

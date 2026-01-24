@@ -1,3 +1,5 @@
 ## 6. A szolgálati fegyver Katonai Nemzetbiztonsági Szolgálatnál történő rendszeresítésének, viselésének rendjéről és használatának részletes szabályairól szóló 13/2016. (VII. 22.) HM rendelet módosítása
 
-7. § A szolgálati fegyver Katonai Nemzetbiztonsági Szolgálatnál történő rendszeresítésének, viselésének rendjéről és használatának részletes szabályairól szóló 13/2016. (VII. 22.) HM rendelet 3. § (2) bekezdés b) pontjában a „szervek” szövegrész helyébe a „szervek vagy polgári nemzetbiztonsági szolgálatok” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
