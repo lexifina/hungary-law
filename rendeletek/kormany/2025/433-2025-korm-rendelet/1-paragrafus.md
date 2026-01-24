@@ -22,6 +22,6 @@
 
 ## 1. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló 236/2000. (XII. 23.) Korm. rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
