@@ -1,1 +1,0 @@
-13. § A 6. alcím a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EK irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
