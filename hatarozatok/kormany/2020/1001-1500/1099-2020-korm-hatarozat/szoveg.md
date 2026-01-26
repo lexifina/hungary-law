@@ -2,9 +2,9 @@
 
 2. A Kormány
 
-a)[^1] felhívja a pénzügyminisztert és a nemzetgazdasági minisztert, hogy a turisztikai fejlesztések (szálláshelyfejlesztés), az egyes kiemelt turisztikai fejlesztések – ideértve a turisztikai térségek turisztikai fejlesztési projektjeit –, valamint a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság turizmussal és vendéglátással kapcsolatos egyes feladatainak meghatározásáról szóló 61/2017. (III. 20.) Korm. rendeletben [a továbbiakban: 61/2017. (III. 20.) Korm. rendelet] foglalt feladatok finanszírozása érdekében gondoskodjanak a 2021–2024. években összesen 305 900,0 millió forint, a 2025–2030. években összesen 305 400,0 millió forint, a 2021–2030. évek tekintetében mindösszesen 611 300,0 millió forint rendelkezésre állásáról a 2021–2030. évi központi költségvetés XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 7. Turisztikai fejlesztési feladatok alcím javára,
+a)[^1] felhívja a nemzetgazdasági minisztert, hogy a turisztikai fejlesztések (szálláshelyfejlesztés), az egyes kiemelt turisztikai fejlesztések – ideértve a turisztikai térségek turisztikai fejlesztési projektjeit –, valamint a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság turizmussal és vendéglátással kapcsolatos egyes feladatainak meghatározásáról szóló 61/2017. (III. 20.) Korm. rendeletben [a továbbiakban: 61/2017. (III. 20.) Korm. rendelet] foglalt feladatok finanszírozása érdekében gondoskodjon a 2021–2026. években összesen 457 700,0 millió forint, a 2027–2030. években összesen 431 000,0 millió forint, a 2021–2030. évek tekintetében mindösszesen 888 700,0 millió forint rendelkezésre állásáról a 2021–2030. évi központi költségvetés XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 7. Turisztikai fejlesztési feladatok alcím javára,
 
-| Felelős: | pénzügyminiszter nemzetgazdasági miniszter |
+| Felelős: | nemzetgazdasági miniszter |
 
 | Határidő: | a 2021–2030. évi központi költségvetés tervezése során |
 
@@ -14,14 +14,14 @@ Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: folyamatos
 
-c) [^2] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az a) alpontban megjelölt előirányzat terhére a 2021–2022. évek tekintetében az évenkénti kötelezettségvállalás felső korlátját 90 000,0 millió forintban állapítja meg, a 2023. év tekintetében a kötelezettségvállalás felső korlátját 80 000,0 millió forintban állapítja meg, a 2024–2026. évek tekintetében a kötelezettségvállalás felső korlátját 65 900,0 millió forintban állapítja meg, a 2027–2030. évek tekintetében az évenkénti kötelezettségvállalás felső korlátját 45 900,0 millió forintban állapítja meg.
+c) [^2] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, az a) alpontban megjelölt előirányzat terhére a 2021–2022. évek tekintetében az évenkénti kötelezettségvállalás felső korlátját 90 000,0 millió forintban állapítja meg, a 2023. év tekintetében a kötelezettségvállalás felső korlátját 80 000,0 millió forintban állapítja meg, a 2024–2026. évek tekintetében a kötelezettségvállalás felső korlátját 65 900,0 millió forintban állapítja meg, a 2027. év tekintetében 96 500,0 millió forintban állapítja meg, a 2028–2030. évek tekintetében az évenkénti kötelezettségvállalás felső korlátját 111 500,0 millió forintban állapítja meg.
 
-| Felelős: | pénzügyminiszter nemzetgazdasági miniszter |
+| Felelős: | nemzetgazdasági miniszter |
 
 | Határidő: | folyamatos |
 
 3.[^3]
 
-[^1]: A 2. pont a) alpontja az 1103/2024. (IV. 11.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 2. pont c) alpontja az 1103/2024. (IV. 11.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A 2. pont a) alpontja az 1017/2026. (I. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont c) alpontja az 1017/2026. (I. 26.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
