@@ -14,13 +14,13 @@ A Kormány
 
 5.[^2]
 
-6. felhívja az építési és közlekedési minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – pénzügyminiszter bevonásával – gondoskodjon legfeljebb 100 000 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzaton;
+6.[^3] felhívja a nemzetgazdasági minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – az építési és közlekedési miniszter bevonásával – gondoskodjon legfeljebb 45 000 000 forint rendelkezésre állásáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XLV. Állami Beruházások fejezet, 2. Közlekedési beruházások cím, 2. Állami közútfejlesztési beruházások alcím, 3. Térségi jelentőségű közúti beruházások jogcímcsoport javára;
 
-| Felelős: | építési és közlekedési miniszter pénzügyminiszter |
+| Felelős: | nemzetgazdasági miniszter építési és közlekedési miniszter |
 
-| Határidő: | a 2026. évi központi költségvetési törvény tervezése során |
+| Határidő: | a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-7.[^3] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2. pontban foglalt beruházás előkészítéséhez a 2026–2027. évekre a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját 200 000 000 forintban határozza meg;
+7.[^4] az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 106. § (7) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a 2. pontban meghatározott feladatok megvalósítása érdekében a 2026–2028. években összesen legfeljebb 200 000 000 forint összegben kötelezettséget vállaljon a központi költségvetésről szóló törvény XLV. Állami Beruházások fejezet, 2. Közlekedési beruházások cím, 2. Állami közútfejlesztési beruházások alcím, 3. Térségi jelentőségű közúti beruházások jogcímcsoporton belül az adott beruházás finanszírozását szolgáló előirányzat terhére;
 
 8. felhívja az építési és közlekedési minisztert, hogy gondoskodjon a 2. pont szerinti feladat végrehajtása érdekében a tervező kiválasztására irányuló közbeszerzési eljárás megindításáról;
 
@@ -36,15 +36,21 @@ A Kormány
 
 | Határidő: | a tervezési feladatok lezárultát követően |
 
-11.[^4] felhívja az építési és közlekedési minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – a nemzetgazdasági miniszter bevonásával – gondoskodjon legfeljebb 100 000 000 forint rendelkezésre állásáról a 2027. évi központi költségvetés XLV. Állami beruházások fejezet, Állami közútfejlesztési beruházások finanszírozását szolgáló előirányzaton.
+11.[^5] felhívja a nemzetgazdasági minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – az építési és közlekedési miniszter bevonásával – gondoskodjon legfeljebb 45 000 000 forint rendelkezésre állásáról a 2027. évi központi költségvetésről szóló törvény 1. melléklet XLV. Állami beruházások fejezet állami közútfejlesztési beruházások finanszírozását szolgáló előirányzat javára;
 
-| Felelős: | építési és közlekedési miniszter nemzetgazdasági miniszter |
+| Felelős: | nemzetgazdasági miniszter építési és közlekedési miniszter |
 
 | Határidő: | a 2027. évi központi költségvetés tervezése során |
 
-”
+12.[^6] felhívja a nemzetgazdasági minisztert, hogy a 2. pont szerinti feladat előkészítése érdekében – az építési és közlekedési miniszter bevonásával – gondoskodjon legfeljebb 110 000 000 forint rendelkezésre állásáról a 2028. évi központi költségvetésről szóló törvény 1. melléklet XLV. Állami beruházások fejezet állami közútfejlesztési beruházások finanszírozását szolgáló előirányzat javára.
+
+| Felelős: | nemzetgazdasági miniszter építési és közlekedési miniszter |
+
+| Határidő: | a 2028. évi központi költségvetés tervezése során |
 
 [^1]: A 2. pont az 1027/2025. (II. 24.) Korm. határozat 3. pontjával megállapított szöveg.
 [^2]: Az 5. pontot az 1027/2025. (II. 24.) Korm. határozat 6. pontja visszavonta.
-[^3]: A 7. pont az 1027/2025. (II. 24.) Korm. határozat 4. pontjával megállapított szöveg.
-[^4]: A 11. pontot az 1027/2025. (II. 24.) Korm. határozat 5. pontja iktatta be.
+[^3]: A 6. pont az 1015/2026. (I. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1015/2026. (I. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 11. pontot az 1027/2025. (II. 24.) Korm. határozat 5. pontja iktatta be, szövege az 1015/2026. (I. 26.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 12. pontot az 1015/2026. (I. 26.) Korm. határozat 3. pontja iktatta be.
