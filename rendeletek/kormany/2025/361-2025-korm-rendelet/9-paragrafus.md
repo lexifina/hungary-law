@@ -7,3 +7,7 @@
 (4) Az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a jogosultsági időszakba beleszámít a próbaidő időtartama annak leteltét követően, ha az Otthontámogatásra jogosult 1. § szerinti foglalkoztatása továbbra is fennáll, ideértve a 13. § (4) bekezdése szerinti jogviszonyváltást is.
 
 (5) A 4. § (1) bekezdés a) pontját a próbaidőn lévő foglalkoztatott tekintetében azzal az eltéréssel kell alkalmazni, hogy amennyiben a próbaidőn lévő foglalkoztatott a (4) bekezdés alapján 2026. január 20. napját követően válik jogosulttá, a foglalkoztatott jogvesztő határidő nélkül, a próbaidő leteltét követően bejelentheti igényét az Otthontámogatásra.
+
+(6)[^11] Ha a vezényelt határozott időre került vezénylésre, de az alapjogviszonya határozatlan idejű, akkor a határozatlan idejű jogviszonyra vonatkozóan a kérelmét a fogadó szervnél nyújthatja be.
+
+[^11]: A 9. § (6) bekezdését az 5/2026. (I. 26.) Korm. rendelet 4. §-a iktatta be.

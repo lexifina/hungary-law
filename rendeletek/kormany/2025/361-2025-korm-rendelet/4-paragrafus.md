@@ -48,7 +48,7 @@ folyósítja.
 
 (10) A magyar állam az Otthontámogatás fedezetét a Kincstár útján, közterhekkel növelten biztosítja a munkáltató részére. A Kincstár a munkáltatót megillető támogatásokat a (4) bekezdés szerinti igénybejelentésben feltöltött adatok alapján állapítja meg. A havi támogatás összegét az államháztartás központi vagy önkormányzati alrendszerébe nem tartozó jogi személy munkáltatók tekintetében a Kincstár támogatói okiratban határozza meg.
 
-(11) A nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó nemzetbiztonsági szolgálat – a KNBSZ esetében a 2. § (2) bekezdése alapján kijelölt honvédelmi szervezet –, valamint a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény hatálya alá tartozó különleges jogállású szerv az (1) bekezdés szerinti igénybejelentését
+(11)[^9] A nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó nemzetbiztonsági szolgálat – a KNBSZ esetében a 2. § (2) bekezdése alapján kijelölt honvédelmi szervezet –, valamint a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény hatálya alá tartozó különleges jogállású szerv az (4) bekezdés szerinti igénybejelentését
 
 a) az Otthontámogatásra jogosultak összevont létszámadatával és
 
@@ -56,7 +56,7 @@ b) az Otthontámogatás-igénybevételi – 5. § (1) bekezdés a) vagy b) pontj
 
 teljesíti.
 
-(11a)[^5] Ha az Otthontámogatásra jogosult 1. melléklet 1. pont 1.2.3. alpontja szerinti adóstársa a (11) bekezdés szerinti foglalkoztató foglalkoztatottja, akkor az Otthontámogatásra jogosult által az 1. melléklet szerinti kérelemben az adóstársára vonatkozóan megjelölt adatokat az adóstárs foglalkoztatójára vonatkozó adatok nélkül adja át az Otthontámogatásra jogosult foglalkoztatója részére. Az Otthontámogatásra jogosult foglalkoztatója az Otthontámogatásra jogosult adóstársának foglalkoztatójára vonatkozó adatok nélkül teljesíti adatszolgáltatását a Kincstár részére.
+(11a)[^10] Ha az Otthontámogatásra jogosult 1. melléklet 1. pont 1.2.3. alpontja szerinti adóstársa a (11) bekezdés szerinti foglalkoztató foglalkoztatottja, akkor az Otthontámogatásra jogosult által az 1. melléklet szerinti kérelemben az adóstársára vonatkozóan megjelölt adatokat az adóstárs foglalkoztatójára vonatkozó adatok nélkül adja át az Otthontámogatásra jogosult foglalkoztatója részére. Az Otthontámogatásra jogosult foglalkoztatója az Otthontámogatásra jogosult adóstársának foglalkoztatójára vonatkozó adatok nélkül teljesíti adatszolgáltatását a Kincstár részére.
 
 (12) A tárgyévben igénybe vett támogatással
 
@@ -72,4 +72,5 @@ köteles elszámolni.
 
 (15) Központi költségvetési szerv esetén a támogatás előirányzat-átcsoportosítás útján valósul meg a munkáltató számára.
 
-[^5]: A 4. § (11a) bekezdését a 440/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 4. § (11) bekezdés nyitó szövegrésze az 5/2026. (I. 26.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (11a) bekezdését a 440/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
