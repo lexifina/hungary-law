@@ -1,0 +1,1 @@
+5. § Az állami kárrendezés során kifizethető juttatás összege megegyezik a követelésnek kötbért, kamatot, késedelmi kamatot vagy a beszedéséhez kapcsolódó egyéb költséget nem tartalmazó, a BÁSZNA Gabona Zártkörűen Működő Részvénytársaság által meg nem fizetett összegével.
