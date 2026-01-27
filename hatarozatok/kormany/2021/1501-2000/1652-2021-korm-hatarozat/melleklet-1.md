@@ -2,7 +2,7 @@
 
 ## a) a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában foglalt feladatkörében eljárva elfogadja a Terület- és Településfejlesztési Operatív Program Plusz (a továbbiakban: TOP Plusz) éves fejlesztési keretét, az 1. melléklet szerint;
 
-## b)[^1] jóváhagyja a TOP_Plusz-6.1.2-21 „4 és 5 számjegyű utak fejlesztése”, a TOP_Plusz-1.3.1-21 „Fenntartható városfejlesztési stratégiák támogatása”, a TOP_Plusz-2.1.1-21 „Önkormányzati épületek energetikai korszerűsítése”, a TOP_Plusz-1.2.3-21 „Belterületi utak fejlesztése”, a TOP_Plusz-3.3.1-21 „Gyermeknevelést támogató humán infrastruktúra fejlesztése” és a TOP_Plusz-3.3.2-21 „Helyi egészségügyi és szociális infrastruktúra fejlesztése” című felhívások keretében támogatott, viszont európai uniós forrás terhére el nem számolható költségeinek – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetésének XIX. Uniós fejlesztések fejezet TOP Plusz előirányzatának hazai társfinanszírozáson felüli felhasználásával történő finanszírozását legfeljebb 41,78 milliárd forint erejéig.
+## b)[^1] jóváhagyja a TOP_Plusz-6.1.2-21 „4 és 5 számjegyű utak fejlesztése,” a TOP_Plusz-1.3.1-21 „Fenntartható városfejlesztési stratégiák támogatása”, a TOP_Plusz-2.1.1-21 „Önkormányzati épületek energetikai korszerűsítése”, a TOP_Plusz-1.2.3-21 „Belterületi utak fejlesztése”, a TOP_Plusz-3.3.1-21 „Gyermeknevelést támogató humán infrastruktúra fejlesztése”, a TOP_Plusz-3.3.2-21 „Helyi egészségügyi és szociális infrastruktúra fejlesztése”, a TOP_Plusz-1.2.1-21 „Élhető települések”, a TOP_Plusz-1.2.2-21 „Szociális városrehabilitáció (ERFA)”, a TOP_Plusz-3.1.2-21 „Szociális városrehabilitáció (ESZA+)”, a TOP_Plusz-6.1.1-21 „Helyi gazdaságfejlesztés” és a TOP_Plusz-6.1.3-21 „Helyi és térségi turizmusfejlesztés” című felhívások keretében támogatott, viszont európai uniós forrás terhére el nem számolható költségeinek – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetésének XIX. Uniós fejlesztések fejezet TOP Plusz előirányzatának hazai társfinanszírozáson felüli felhasználásával történő finanszírozását legfeljebb 65,28 milliárd forint erejéig.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -16,13 +16,13 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP_Plusz-1.1.1-25[^3] | Klímatudatosság, éghajlatváltozáshoz való alkalmazkodás | 3,05[^4] | területi | 2025. III. negyedév[^5] |
+| 2. | TOP_Plusz-1.1.1-25[^3] | Klímatudatosság, éghajlatváltozáshoz való alkalmazkodás | 2,85[^4] | területi | 2026. I. negyedév[^5] |
 
-| 3. | TOP_Plusz-1.2.1-21 | Élhető települések | 283,21[^6] | területi | Meghirdetve 2021. októberben |
+| 3. | TOP_Plusz-1.2.1-21 | Élhető települések | 289,67[^6] | területi | Meghirdetve 2021. októberben |
 
-| 4. | TOP_Plusz-1.2.2-21 | Szociális célú városrehabilitáció (ERFA) | 8,75[^7] | területi | Meghirdetve 2021. decemberben |
+| 4. | TOP_Plusz-1.2.2-21 | Szociális célú városrehabilitáció (ERFA) | 10,61[^7] | területi | Meghirdetve 2021. decemberben |
 
-| 5. | TOP_Plusz-1.2.3-21 | Belterületi utak fejlesztése | 97,94[^8] | területi | Meghirdetve 2021. decemberben |
+| 5. | TOP_Plusz-1.2.3-21 | Belterületi utak fejlesztése | 100,22[^8] | területi | Meghirdetve 2021. decemberben |
 
 | 6. | TOP_Plusz-1.2.4-25[^9] | Szegregált városi területekről integrált területekre költözés támogatása (PILOT) | 0,05 | területi | 2025. III. negyedév[^10] |
 
@@ -36,17 +36,17 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP_Plusz-2.1.1-21 | Önkormányzati épületek energetikai korszerűsítése | 138,31[^14] | területi | Meghirdetve 2021. októberben |
+| 2. | TOP_Plusz-2.1.1-21 | Önkormányzati épületek energetikai korszerűsítése | 138,51[^14] | területi | Meghirdetve 2021. októberben |
 
-| 3. | TOP_Plusz-2.1.2-21 | Fenntartható energiahatékonyság | 27,94[^15] | területi | Meghirdetve 2021. decemberben |
+| 3. | TOP_Plusz-2.1.2-21 | Fenntartható energiahatékonyság | 27,45[^15] | területi | Meghirdetve 2021. decemberben |
 
-| 4. | TOP_Plusz-2.1.3-25[^16] | Önkormányzati épületek energetikai korszerűsítése (projektkiválasztás)[^17] | 0,00[^18] | területi | 2025. III. negyedév[^19] |
+| 4. | TOP_Plusz-2.1.3-25[^16] | Önkormányzati épületek energetikai korszerűsítése (projektkiválasztás)[^17] | 0,00[^18] | területi | 2026. I. negyedév[^19] |
 
-| 5. | TOP_Plusz-2.1.4-25[^20] | Önkormányzati épületek energetikai korszerűsítése (kombinált)[^21] | 4,18[^22] | pénzügyi eszköz[^23] | 2025. IV. negyedév[^24] |
+| 5. | TOP_Plusz-2.1.4-25[^20] | Önkormányzati épületek energetikai korszerűsítése (kombinált)[^21] | 4,18[^22] | pénzügyi eszköz[^23] | 2026. I. negyedév[^24] |
 
-| 6. | TOP_Plusz-2.1.5-25[^25] | Fenntartható energiahatékonyság (projektkiválasztás) | 0,00 | területi | 2025. III. negyedév[^26] |
+| 6. | TOP_Plusz-2.1.5-25[^25] | Fenntartható energiahatékonyság (projektkiválasztás) | 0,00 | területi | 2026. I. negyedév[^26] |
 
-| 7. | TOP_Plusz-2.1.6-25[^27] | Fenntartható energiahatékonyság (kombinált) | 25,93[^28] | pénzügyi eszköz[^29] | 2025. IV. negyedév[^30] |
+| 7. | TOP_Plusz-2.1.6-25[^27] | Fenntartható energiahatékonyság (kombinált) | 26,42[^28] | pénzügyi eszköz[^29] | 2026. I. negyedév[^30] |
 
 3. Gondoskodó vármegye című 3. prioritás
 
@@ -56,17 +56,17 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 2. | TOP_Plusz-3.1.1-21 | Megyei foglalkoztatási-gazdaságfejlesztési együttműködések | 70,27[^31] | területi | Meghirdetve 2021. októberben |
 
-| 3. | TOP_Plusz-3.1.2-21 | Szociális célú város rehabilitáció (ESZA+) | 13,62[^32] | területi | Meghirdetve 2021. decemberben |
+| 3. | TOP_Plusz-3.1.2-21 | Szociális célú város rehabilitáció (ESZA+) | 14,03[^32] | területi | Meghirdetve 2021. decemberben |
 
 | 4. | TOP_Plusz-3.1.3-23 | Helyi humán fejlesztések | 73,99[^33] | területi | Meghirdetve 2023. III. negyedévben[^34] |
 
 | 5. | TOP_Plusz-3.2.1-23 | Fenntartható humán fejlesztések | 55,72 | területi | Meghirdetve 2023. III. negyedévben[^35] |
 
-| 6. | TOP_Plusz-3.3.1-21 | Gyermeknevelést támogató humán infrastruktúra fejlesztése | 81,46[^36] | területi | Meghirdetve 2021. novemberben |
+| 6. | TOP_Plusz-3.3.1-21 | Gyermeknevelést támogató humán infrastruktúra fejlesztése | 80,79[^36] | területi | Meghirdetve 2021. novemberben |
 
-| 7. | TOP_Plusz-3.3.2-21 | Helyi egészségügyi és szociális infrastruktúra fejlesztése | 64,73[^37] | területi | Meghirdetve 2021. decemberben |
+| 7. | TOP_Plusz-3.3.2-21 | Helyi egészségügyi és szociális infrastruktúra fejlesztése | 65,35[^37] | területi | Meghirdetve 2021. decemberben |
 
-| 8. | TOP_Plusz-3.3.3-23 | Köznevelési infrastruktúra fejlesztése | 75,36[^38] | területi | Meghirdetve 2023. III. negyedévben[^39] |
+| 8. | TOP_Plusz-3.3.3-23 | Köznevelési infrastruktúra fejlesztése | 75,41[^38] | területi | Meghirdetve 2023. III. negyedévben[^39] |
 
 | 9. | TOP_Plusz-3.4.1-23 | Fenntartható humán infrastruktúra | 94,16[^40] | területi | Meghirdetve 2023. augusztusban[^41] |
 
@@ -76,15 +76,15 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP Plusz-4.1.1-23 | Egészséges utcák program | 24,16 | területi | Meghirdetve 2023. IV. negyedévben[^42] |
+| 2. | TOP Plusz-4.1.1-23 | Egészséges utcák program | 29,89[^42] | területi | Meghirdetve 2023. IV. negyedévben[^43] |
 
-| 3. | TOP Plusz-4.1.2-23 | Bringasztráda program | 6,00 | területi | Meghirdetve 2023. IV. negyedévben[^43] |
+| 3. | TOP Plusz-4.1.2-23 | Bringasztráda program | 6,00 | területi | Meghirdetve 2023. IV. negyedévben[^44] |
 
-| 4. | TOP Plusz-4.1.3-23 | Komplex klímaadaptációs és közterület-megújítási program | 19,60 | területi | Meghirdetve 2023. IV. negyedévben[^44] |
+| 4. | TOP Plusz-4.1.3-23 | Komplex klímaadaptációs és közterület-megújítási program | 13,87[^45] | területi | Meghirdetve 2023. IV. negyedévben[^46] |
 
-| 5. | TOP_Plusz-4.2.1-25[^45] | Lakásügynökség – lakásállomány felújítása és bővítése | 8,50 | területi | 2025. I. negyedév[^46] |
+| 5. | TOP_Plusz-4.2.1-25[^47] | Lakásügynökség – lakásállomány felújítása és bővítése | 8,50 | területi | 2026. I. negyedév[^48] |
 
-| 6. | TOP_Plusz-4.2.2-25[^47] | Az energiaszegénység enyhítése szilárd tüzelésű háztartások átállításával fővárosi pilot projekt keretében[^48] | 1,00 | területi | 2025. I. negyedév[^49] |
+| 6. | TOP_Plusz-4.2.2-25[^49] | Az energiaszegénység enyhítése szilárd tüzelésű háztartások átállításával fővárosi pilot projekt keretében[^50] | 1,00 | területi | 2026. I. negyedév[^51] |
 
 5. Budapest humán fejlesztése 5. prioritás
 
@@ -92,15 +92,15 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP_Plusz-5.1.1-25[^50] | Fővárosi Foglalkoztatási Paktum | 2,80 | területi | 2025. I. negyedév[^51] |
+| 2. | TOP_Plusz-5.1.1-25[^52] | Fővárosi Foglalkoztatási Paktum | 2,80 | területi | 2026. I. negyedév[^53] |
 
-| 3. | TOP_Plusz-5.1.2-25[^52] | A szociális szolgáltatások kapacitásainak megerősítése | 6,90 | területi | 2025. I. negyedév[^53] |
+| 3. | TOP_Plusz-5.1.2-25[^54] | A szociális szolgáltatások kapacitásainak megerősítése | 6,90 | területi | 2026. I. negyedév[^55] |
 
-| 4. | TOP_Plusz-5.1.3-25[^54] | Lakásügynökség-modell kialakítása | 3,00 | területi | 2025. I. negyedév[^55] |
+| 4. | TOP_Plusz-5.1.3-25[^56] | Lakásügynökség-modell kialakítása | 3,00 | területi | 2026. I. negyedév[^57] |
 
-| 5. | TOP_Plusz-5.1.4-25[^56] | Lakhatási garancia program | 7,40 | területi | 2025. I. negyedév[^57] |
+| 5. | TOP_Plusz-5.1.4-25[^58] | Lakhatási garancia program | 7,40 | területi | 2026. I. negyedév[^59] |
 
-| 6. | TOP_Plusz-5.1.5-25[^58] | Komplex támogatás a szolgáltatások összekapcsolásával | 4,20 | területi | 2025. I. negyedév[^59] |
+| 6. | TOP_Plusz-5.1.5-25[^60] | Komplex támogatás a szolgáltatások összekapcsolásával | 4,20 | területi | 2026. I. negyedév[^61] |
 
 6. Versenyképes vármegye című 6. prioritás
 
@@ -108,79 +108,81 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP_Plusz-6.1.1-21 | Helyi gazdaságfejlesztés | 71,73[^60] | területi | Meghirdetve 2021. decemberben |
+| 2. | TOP_Plusz-6.1.1-21 | Helyi gazdaságfejlesztés | 77,63[^62] | területi | Meghirdetve 2021. decemberben |
 
-| 3. | TOP_Plusz-6.1.2-21 | 4–5 számjegyű utak fejlesztése | 171,11[^61] | területi | Meghirdetve 2021. októberben |
+| 3. | TOP_Plusz-6.1.2-21 | 4–5 számjegyű utak fejlesztése | 171,11[^63] | területi | Meghirdetve 2021. októberben |
 
-| 4. | TOP_Plusz-6.1.3-21 | Helyi és térségi turizmusfejlesztés | 102,84[^62] | területi | Meghirdetve 2021. decemberben |
+| 4. | TOP_Plusz-6.1.3-21 | Helyi és térségi turizmusfejlesztés | 109,63[^64] | területi | Meghirdetve 2021. decemberben |
 
-| 5. | TOP_Plusz-6.1.4-23 | Aktív turizmus fejlesztése | 63,85[^63] | területi | Meghirdetve 2023. III. negyedévben[^64] |
+| 5. | TOP_Plusz-6.1.4-23 | Aktív turizmus fejlesztése | 63,66[^65] | területi | Meghirdetve 2023. III. negyedévben[^66] |
 
-| 6. | TOP_Plusz-6.2.1-23 | Fenntartható versenyképes városfejlesztés | 83,31[^65] | területi | Meghirdetve 2023. augusztusban[^66] |
+| 6. | TOP_Plusz-6.2.1-23 | Fenntartható versenyképes városfejlesztés | 83,31[^67] | területi | Meghirdetve 2023. augusztusban[^68] |
 
-[^1]: Az 1. pont b) alpontja az 1080/2025. (III. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. pont b) alpontja az 1012/2026. (I. 26.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. melléklet az 1195/2023. (V. 15.) Korm. határozat 3. pontjával megállapított szöveg.
 [^3]: Az 1. melléklet 1. pontjában foglalt táblázat A:2 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont a) pont aa) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 1. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont aa) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 2. pontja szerint módosított szöveg.
-[^5]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ab) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 3. pontja szerint módosított szöveg.
-[^6]: Az 1. melléklet 1. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ac) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 4. pontja szerint módosított szöveg.
-[^7]: Az 1. melléklet 1. pontjában foglalt táblázat C:4 mezője az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 5. pontja szerint módosított szöveg.
-[^8]: Az 1. melléklet 1. pontjában foglalt táblázat C:5 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont a) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 6. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont aa) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 1. alpontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ab) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 2. alpontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 1. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ac) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 3. alpontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 1. pontjában foglalt táblázat C:4 mezője az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 4. alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 1. pontjában foglalt táblázat C:5 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont a) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 5. alpontja szerint módosított szöveg.
 [^9]: Az 1. melléklet 1. pontjában foglalt táblázat A:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont a) pont ae) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 7. pontja szerint módosított szöveg.
-[^10]: Az 1. melléklet 1. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ae) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 8. pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 1. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ae) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 8. pontja szerint módosított szöveg. [Az 1. melléklet 1. pontjában foglalt táblázat E:6 mezőjében az 1012/2026. (I. 26.) Korm. határozat 2. pont a) pont 6. alpontja által elrendelt módosítás, amely szerint a „2025. III negyedév” szövegrész helyébe a „2026. I. negyedév” szöveg lép, nem vezethető át.]
 [^11]: Az 1. melléklet 1. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont af) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 9. pontja szerint módosított szöveg.
 [^12]: Az 1. melléklet 1. pontjában foglalt táblázat C:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ag) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont a) alpont 10. pontja szerint módosított szöveg.
 [^13]: Az 1. melléklet 1. pontjában foglalt táblázat E:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ah) alpontjával megállapított szöveg.
-[^14]: Az 1. melléklet 2. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont ba) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 1. pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bb) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 2. pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 2. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont ba) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 1. alpontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bb) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 2. alpontja szerint módosított szöveg.
 [^16]: Az 1. melléklet 2. pontjában foglalt táblázat A:4 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont b) pont bc) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 3. pontja szerint módosított szöveg.
 [^17]: Az 1. melléklet 2. pontjában foglalt táblázat B:4 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont b) pont bd) alpontjával megállapított szöveg.
 [^18]: Az 1. melléklet 2. pontjában foglalt táblázat C:4 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont b) pont be) alpontjával megállapított szöveg.
-[^19]: Az 1. melléklet 2. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bc) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 4. pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 2. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bc) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 3. alpontja szerint módosított szöveg.
 [^20]: Az 1. melléklet 2. pontjában foglalt táblázat A:5 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont b) pont bg) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 5. pontja szerint módosított szöveg.
 [^21]: Az 1. melléklet 2. pontjában foglalt táblázat B:5 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont b) pont bh) alpontja szerint módosított szöveg.
 [^22]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bd) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 6. pontja szerint módosított szöveg.
 [^23]: Az 1. melléklet 2. pontjában foglalt táblázat D:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont be) alpontjával megállapított szöveg.
-[^24]: Az 1. melléklet 2. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bf) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 7. pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 2. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bf) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 4. alpontja szerint módosított szöveg.
 [^25]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sorát az 1440/2023. (X. 9.) Korm. határozat 2. pontja iktatta be. Az 1. melléklet 2. pontjában foglalt táblázat A:6 mezője az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 8. pontja szerint módosított szöveg.
-[^26]: Az 1. melléklet 2. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bg) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 9. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bg) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 5. alpontja szerint módosított szöveg.
 [^27]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sorát az 1440/2023. (X. 9.) Korm. határozat 2. pontja iktatta be. Az 1. melléklet 2. pontjában foglalt táblázat A:7 mezője az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 10. pontja szerint módosított szöveg.
-[^28]: Az 1. melléklet 2. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bh) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 11. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 2. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bh) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 6. alpontja szerint módosított szöveg.
 [^29]: Az 1. melléklet 2. pontjában foglalt táblázat D:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bi) alpontjával megállapított szöveg.
-[^30]: Az 1. melléklet 2. pontjában foglalt táblázat E:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bj) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont b) alpont 12. pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 2. pontjában foglalt táblázat E:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont b) pont bj) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont b) pont 7. alpontja szerint módosított szöveg.
 [^31]: Az 1. melléklet 3. pontjában foglalt táblázat C:2 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont c) pont ca) alpontjával megállapított szöveg.
-[^32]: Az 1. melléklet 3. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ca) alpontjával megállapított szöveg.
+[^32]: Az 1. melléklet 3. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ca) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont c) pont 1. alpontja szerint módosított szöveg.
 [^33]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cb) alpontjával megállapított szöveg.
 [^34]: Az 1. melléklet 3. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cc) alpontjával megállapított szöveg.
 [^35]: Az 1. melléklet 3. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cd) alpontjával megállapított szöveg.
-[^36]: Az 1. melléklet 3. pontjában foglalt táblázat C:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont b) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont c) alpont 1. pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet 3. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cf) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont c) alpont 2. pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cg) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont c) alpont 3. pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 3. pontjában foglalt táblázat C:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont b) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont c) pont 2. alpontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 3. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cf) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont c) pont 3. alpontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cg) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont c) pont 4. alpontja szerint módosított szöveg.
 [^39]: Az 1. melléklet 3. pontjában foglalt táblázat E:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ch) alpontjával megállapított szöveg.
 [^40]: Az 1. melléklet 3. pontjában foglalt táblázat C:9 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ci) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont c) alpont 4. pontja szerint módosított szöveg.
 [^41]: Az 1. melléklet 3. pontjában foglalt táblázat E:9 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont c) pont ci) alpontjával megállapított szöveg.
-[^42]: Az 1. melléklet 4. pontjában foglalt táblázat E:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont da) alpontjával megállapított szöveg.
-[^43]: Az 1. melléklet 4. pontjában foglalt táblázat E:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont db) alpontjával megállapított szöveg.
-[^44]: Az 1. melléklet 4. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont dc) alpontjával megállapított szöveg.
-[^45]: Az 1. melléklet 4. pontjában foglalt táblázat A:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont dd) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 1. pontja szerint módosított szöveg.
-[^46]: Az 1. melléklet 4. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont de) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 2. pontja szerint módosított szöveg.
-[^47]: Az 1. melléklet 4. pontjában foglalt táblázat A:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont df) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 3. pontja szerint módosított szöveg.
-[^48]: Az 1. melléklet 4. pontjában foglalt táblázat B:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont d) pontjával megállapított szöveg.
-[^49]: Az 1. melléklet 4. pontjában foglalt táblázat E:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont c) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 4. pontja szerint módosított szöveg.
-[^50]: Az 1. melléklet 5. pontjában foglalt táblázat A:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ea) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 1. pontja szerint módosított szöveg.
-[^51]: Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont d) alpontjával megállapított az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 2. pontja szerint módosított szöveg.
-[^52]: Az 1. melléklet 5. pontjában foglalt táblázat A:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ec) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 3. pontja szerint módosított szöveg.
-[^53]: Az 1. melléklet 5. pontjában foglalt táblázat E:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ed) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 4. pontja szerint módosított szöveg.
-[^54]: Az 1. melléklet 5. pontjában foglalt táblázat A:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 5. pontja szerint módosított szöveg.
-[^55]: Az 1. melléklet 5. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ef) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 6. pontja szerint módosított szöveg.
-[^56]: Az 1. melléklet 5. pontjában foglalt táblázat A:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont eg) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 7. pontja szerint módosított szöveg.
-[^57]: Az 1. melléklet 5. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont eh) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 8. pontja szerint módosított szöveg.
-[^58]: Az 1. melléklet 5. pontjában foglalt táblázat A:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ei) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 9. pontja szerint módosított szöveg.
-[^59]: Az 1. melléklet 5. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ej) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 10. pontja szerint módosított szöveg.
-[^60]: Az 1. melléklet 6. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fa) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont f) alpont 1. pontja szerint módosított szöveg.
-[^61]: Az 1. melléklet 6. pontjában foglalt táblázat C:3 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont e) pont eb) alpontjával megállapított szöveg.
-[^62]: Az 1. melléklet 6. pontjában foglalt táblázat C:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fb) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont f) alpont 2. pontja szerint módosított szöveg.
-[^63]: Az 1. melléklet 6. pontjában foglalt táblázat C:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fc) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont f) alpont 3. pontja szerint módosított szöveg.
-[^64]: Az 1. melléklet 6. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fd) alpontjával megállapított szöveg.
-[^65]: Az 1. melléklet 6. pontjában foglalt táblázat C:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fe) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont f) alpont 4. pontja szerint módosított szöveg.
-[^66]: Az 1. melléklet 6. pontjában foglalt táblázat E:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont e) pont ee) alpontjával megállapított szöveg.
+[^42]: Az 1. melléklet 4. pontjában foglalt táblázat C:2 mezője az 1012/2026. (I. 26.) Korm. határozat 2. pont d) pont 1. alpontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 4. pontjában foglalt táblázat E:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont da) alpontjával megállapított szöveg.
+[^44]: Az 1. melléklet 4. pontjában foglalt táblázat E:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont db) alpontjával megállapított szöveg.
+[^45]: Az 1. melléklet 4. pontjában foglalt táblázat C:4 mezője az 1012/2026. (I. 26.) Korm. határozat 2. pont d) pont 2. alpontja szerint módosított szöveg.
+[^46]: Az 1. melléklet 4. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont dc) alpontjával megállapított szöveg.
+[^47]: Az 1. melléklet 4. pontjában foglalt táblázat A:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont dd) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 1. pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 4. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont de) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont d) pont 3. alpontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 4. pontjában foglalt táblázat A:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont df) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont d) alpont 3. pontja szerint módosított szöveg.
+[^50]: Az 1. melléklet 4. pontjában foglalt táblázat B:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont d) pontjával megállapított szöveg.
+[^51]: Az 1. melléklet 4. pontjában foglalt táblázat E:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont c) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont d) pont 4. alpontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 5. pontjában foglalt táblázat A:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ea) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 1. pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont d) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont e) pont 1. alpontja szerint módosított szöveg.
+[^54]: Az 1. melléklet 5. pontjában foglalt táblázat A:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ec) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 3. pontja szerint módosított szöveg.
+[^55]: Az 1. melléklet 5. pontjában foglalt táblázat E:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ed) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont e) pont 2. alpontja szerint módosított szöveg.
+[^56]: Az 1. melléklet 5. pontjában foglalt táblázat A:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 5. pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet 5. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ef) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont e) pont 3. alpontja szerint módosított szöveg.
+[^58]: Az 1. melléklet 5. pontjában foglalt táblázat A:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont eg) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 7. pontja szerint módosított szöveg.
+[^59]: Az 1. melléklet 5. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont eh) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont e) pont 4. alpontja szerint módosított szöveg.
+[^60]: Az 1. melléklet 5. pontjában foglalt táblázat A:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ei) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont e) alpont 9. pontja szerint módosított szöveg.
+[^61]: Az 1. melléklet 5. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ej) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont e) pont 5. alpontja szerint módosított szöveg.
+[^62]: Az 1. melléklet 6. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fa) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont f) pont 1. alpontja szerint módosított szöveg.
+[^63]: Az 1. melléklet 6. pontjában foglalt táblázat C:3 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont e) pont eb) alpontjával megállapított szöveg.
+[^64]: Az 1. melléklet 6. pontjában foglalt táblázat C:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fb) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont f) pont 2. alpontja szerint módosított szöveg.
+[^65]: Az 1. melléklet 6. pontjában foglalt táblázat C:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fc) alpontjával megállapított, az 1012/2026. (I. 26.) Korm. határozat 2. pont f) pont 3. alpontja szerint módosított szöveg.
+[^66]: Az 1. melléklet 6. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fd) alpontjával megállapított szöveg.
+[^67]: Az 1. melléklet 6. pontjában foglalt táblázat C:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont f) pont fe) alpontjával megállapított, az 1080/2025. (III. 26.) Korm. határozat 2. pont f) alpont 4. pontja szerint módosított szöveg.
+[^68]: Az 1. melléklet 6. pontjában foglalt táblázat E:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont e) pont ee) alpontjával megállapított szöveg.

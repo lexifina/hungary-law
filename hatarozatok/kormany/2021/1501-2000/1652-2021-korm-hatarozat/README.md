@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1652-30
 | 2024-07-30 | 2021-1652-30-22.6 | 1218/2024. (VII. 29.) Korm. határozat |
 | 2024-09-27 | 2021-1652-30-22.7 | 1297/2024. (IX. 26.) Korm. határozat |
 | 2025-03-27 | 2021-1652-30-22.8 | 1218/2024. (VII. 29.) Korm. határozat |
+| 2026-01-27 | 2021-1652-30-22.9 | 1218/2024. (VII. 29.) Korm. határozat |
