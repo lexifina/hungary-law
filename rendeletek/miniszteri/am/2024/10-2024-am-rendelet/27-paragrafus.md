@@ -68,9 +68,11 @@ ag) informatikai adattároló eszköz;
 
 b) szoftverfejlesztés;
 
-c) informatikai rendszerek fejlesztése, üzembe helyezése; továbbá
+c)[^60] informatikai rendszerek fejlesztése, üzembe helyezése;
 
-d) internetes honlap készítése.
+d)[^61] internetes honlap készítése; továbbá
+
+e)[^62] az a) és c) pontban nevesített eszközökhöz kapcsolódó kiegészítők.
 
 (13) A kedvezményezett a (12) bekezdés szerinti eszközöket köteles a támogatási döntés kézhezvételét követő naptól kezdődően három éven át folyamatosan birtokában tartani és rendeltetésszerűen használni.
 
@@ -91,3 +93,7 @@ c) szolgáltatás igénybevétele esetén az első kérelemmel egyidejűleg a sz
 (18) Ha a (3) bekezdés szerinti kedvezményezett a (10) és (13) bekezdés szerinti határidőig nem tesz eleget az üzemben tartási vagy megőrzési kötelezettségének, akkor az adott kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
 (19) A (6) és (12) bekezdés szerinti, nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az elektronikus felületen keresztül – a bekövetkezését követően a kedvezményezett haladéktalanul bejelenti a Kincstár részére.
+
+[^60]: A 27. § (12) bekezdés c) pontja az 1/2026. (I. 19.) AM rendelet 17. § 42. pontja szerint módosított szöveg.
+[^61]: A 27. § (12) bekezdés d) pontja az 1/2026. (I. 19.) AM rendelet 17. § 43. pontja szerint módosított szöveg.
+[^62]: A 27. § (12) bekezdés e) pontját az 1/2026. (I. 19.) AM rendelet 11. §-a iktatta be.

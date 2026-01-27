@@ -4,7 +4,7 @@
 
 a) a szerkesztői tevékenységet végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
 
-b) a cikkírók megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
+b)[^17] a cikkíró megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
 
 c) a nyomtatvány postaköltsége,
 
@@ -18,18 +18,25 @@ g) a grafikai szerkesztést végző személy megbízási vagy vállalkozói díj
 
 h) a digitális képi anyagok beszerzésének költségei.
 
+i)[^18] szakmai lektorálást végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege.
+
 (3) A 10. § (1) bekezdés c) pontja szerinti támogatás igénylése esetén a kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
 a) a kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kedvezményezett nevére és címére kiállított számla, az ellenérték megtérítését igazoló bizonylat);
 
 b) megbízási szerződés esetén a megbízási díj kifizetési lista, valamint a megbízási díj kifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat;
 
-c) a tárgyév első kérelmével egyidejűleg, és ha a szerkesztői tevékenységet végző, a cikkíró, a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
+c)[^19] a tárgyév első kérelmével egyidejűleg, és ha a szerkesztői tevékenységet végző, a cikkíró, a nyelvi korrektor, a szakmai lektor, a nyomdai tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
 
 ca) a szerkesztői tevékenységet végző személy, a cikkíró, a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése,
 
 cb) a szerkesztői tevékenységet végző személy, a cikkíró, a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy vállalkozói igazolványának vagy egyéni vállalkozóként, egyéni cégként történő bejegyzését igazoló internetes nyilvántartás nyomtatott példánya, társas vállalkozás esetén a társasági szerződés;
 
-d) a szerkesztői tevékenységet végző személy, a cikkíró, a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy tevékenységéről szóló tárgyhavi jelentés, amely tartalmazza a tárgyhavi eredmények értékeléséről szóló beszámolót; valamint
+d)[^20] a szerkesztői tevékenységet végző személy, a cikkíró, a nyelvi korrektor, a szakmai lektor, a nyomdai tördelést, grafikai szerkesztést végző személy tevékenységéről szóló tárgyhavi jelentés, amely tartalmazza a tárgyhavi eredmények értékeléséről szóló beszámolót; valamint
 
 e) a megjelentetett kiadvány vagy annak elektronikus elérhetősége.
+
+[^17]: A 13. § (2) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 12. pontja szerint módosított szöveg.
+[^18]: A 13. § (2) bekezdés i) pontját az 1/2026. (I. 19.) AM rendelet 5. §-a iktatta be.
+[^19]: A 13. § (3) bekezdés c) pont nyitó szövegrésze az 1/2026. (I. 19.) AM rendelet 17. § 13. pontja szerint módosított szöveg.
+[^20]: A 13. § (3) bekezdés d) pontja az 1/2026. (I. 19.) AM rendelet 17. § 14. pontja szerint módosított szöveg.

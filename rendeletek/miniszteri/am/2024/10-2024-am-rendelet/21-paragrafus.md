@@ -12,7 +12,7 @@
 
 a) a bemutató méhészet telephelyén tartott gyakorlati bemutató költsége legfeljebb 150 000 forint/rendezvény, amely megbízási szerződés esetén tartalmazza a kedvezményezett által fizetendő közterheket is;
 
-b) résztvevők utazási költsége − az oda-vissza utazási költség és az utazók összlétszáma hányadosának figyelembevételével számítva − legfeljebb 6500 forint/fő összegig, ugyanazon oda-vissza utazás alatt történő, más bemutató méhészet látogatása esetén legfeljebb 9000 forint/fő összegig
+b)[^49] résztvevők utazási költsége − az oda-vissza utazási költség és az utazók összlétszáma hányadosának figyelembevételével számítva – legfeljebb 10 000 forint/fő összegig, ugyanazon oda-vissza utazás alatt történő, más bemutató méhészet látogatása esetén legfeljebb 15 000 forint/fő összegig
 
 ba) a helyi és helyközi tömegközlekedéssel történő utazás költsége,
 
@@ -28,7 +28,7 @@ b) a bemutató méhész díjazásának elszámolása esetén a rendezvény időp
 
 c) a résztvevők utazási költsége elszámolása esetén:
 
-ca) helyi és helyközi tömegközlekedés igénybevétele esetén a vonatjegy, buszjegy vagy egyéb tömegközlekedési eszközre váltott menetjegy, valamit a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat, továbbá megbízási szerződés esetén a helyi és helyközi tömegközlekedéssel történő utazásról szóló, a munkáltató felé benyújtott és a munkáltató által igazolt, cégszerű aláírással ellátott útiköltség-elszámolás,
+ca)[^50] helyi és helyközi tömegközlekedés igénybevétele esetén a vonatjegy, buszjegy vagy egyéb tömegközlekedési eszközre váltott menetjegy, valamint a kedvezményezett nevére és címére kiállított számla, az ellenérték megtérítését igazoló bizonylat, továbbá megbízási szerződés esetén a helyi és helyközi tömegközlekedéssel történő utazásról szóló, a munkáltató felé benyújtott és a munkáltató által igazolt, cégszerű aláírással ellátott útiköltség-elszámolás,
 
 cb) bérelt busszal történő utazás esetén – a program helyszínére utazók és onnan visszautazók pontos létszámát, az útvonalat és az első felszállás és az utolsó leszállás helyét tartalmazó – cégszerű aláírással ellátott menetlevél, továbbá a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat, továbbá – ha a menetlevél nem tartalmazza az utazók létszámát – utaslista;
 
@@ -43,3 +43,6 @@ g) a szervező nyilatkozata arról, hogy a részvevők nem fizettek részvételi
 h) az OMME nyilatkozata a rendezvény Stratégiai Tervbe illeszkedéséről, amennyiben a kedvezményezett az OMME tagszervezete.
 
 (7) Az OMME a bemutató méhészetekkel kötött, cégszerű aláírással ellátott együttműködési megállapodásokat az e rendelet hatálybalépését követő harminc napon belül – az elektronikus felületen keresztül – a Kincstár rendelkezésére bocsátja. Az együttműködési megállapodás módosítása vagy új bemutató méhészettel kötött megállapodás esetén az OMME az új vagy módosított együttműködési megállapodást a megállapodás megkötését követő nyolc napon belül – az elektronikus felületen keresztül – a Kincstár rendelkezésére bocsátja.
+
+[^49]: A 21. § (5) bekezdés b) pont nyitó szövegrésze az 1/2026. (I. 19.) AM rendelet 17. § 37. pontja szerint módosított szöveg.
+[^50]: A 21. § (6) bekezdés c) pont ca) alpontja az 1/2026. (I. 19.) AM rendelet 17. § 38. pontja szerint módosított szöveg.

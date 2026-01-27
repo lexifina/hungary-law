@@ -1,10 +1,10 @@
 16. § (1) A 15. § (1) bekezdés a) pontja szerinti támogatás keretében a következő költségek számolhatóak el:
 
-a) előadói díj legfeljebb 50 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, a tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^26] előadói díj legfeljebb 70 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, a tolmács díja legfeljebb 100 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b) előadó és tolmács szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény összegig;
+b)[^27] előadó és tolmács szállásköltsége legfeljebb 35 000 forint/nap/fő/rendezvény összegig;
 
-c) előadó, tolmács, valamint az OMME tagszervezete elnökének vagy megbízottjának étkezési költsége legfeljebb 5000 forint/nap/fő/rendezvény összegig;
+c)[^28] előadó, tolmács, valamint az OMME tagszervezete elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény összegig;
 
 d) előadó, tolmács utazási költsége:
 
@@ -48,7 +48,7 @@ f) hirdetési költség elszámolása esetén a hirdetés egy példánya, amely 
 
 g) rendezvényújság készítése költségének elszámolása esetén a rendezvényújság vagy elektronikus elérhetősége;
 
-h) a rendezvényen elhangzott valamennyi előadás tematikája;
+h)[^29] a rendezvényen elhangzott valamennyi szakmai előadás tematikája;
 
 i) épülethelyiség-bérlés költségeinek elszámolása esetén a kedvezményezett nevére és címére kiállított, a rendezvény dátumát is tartalmazó számla és az ellenérték megtérítését igazoló bizonylat, valamint ha a számla több programra vonatkozó bérleti díjat is tartalmaz, akkor a kedvezményezett nyilatkozata arról, hogy a bérleti díj milyen arányban oszlik meg az egyes rendezvények között;
 
@@ -59,3 +59,8 @@ k) a szervező nyilatkozata arról, hogy a látogatók nem fizettek részvételi
 l) az OMME nyilatkozata a rendezvény Stratégiai Tervbe illeszkedéséről, amennyiben a kérelmet az OMME tagszervezete nyújtja be; továbbá
 
 m) külföldi előadó esetén a repülőjegy, a turistaosztályra szóló beszállókártya vagy egyéb, utazást igazoló dokumentum, valamint a repülőjegyről és a reptéri transzferrel történő utazásról a kedvezményezett nevére és címére kiállított számla, továbbá az ellenérték megtérítését igazoló bizonylat.
+
+[^26]: A 16. § (1) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 19. pontja szerint módosított szöveg.
+[^27]: A 16. § (1) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 20. pontja szerint módosított szöveg.
+[^28]: A 16. § (1) bekezdés c) pontja az 1/2026. (I. 19.) AM rendelet 17. § 21. pontja szerint módosított szöveg.
+[^29]: A 16. § (2) bekezdés h) pontja az 1/2026. (I. 19.) AM rendelet 17. § 22. pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@ igényelhető.
 
 (6) Az (1) bekezdés a) pontja szerinti támogatás a cukor, a cukorlepény, az ipari fondant és a méhészetben használt vényköteles és nem vényköteles állatgyógyászati készítmények kijuttatásához szükséges új eszközök, valamint a méhészetben használatos gyógyhatású készítmények kijuttatásához szükséges új eszközök, illetve a kedvezményezett egészségvédelmét szolgáló új munkavédelmi légzésvédő teljes álarc, új légzésvédő kámzsa és az új légzésvédő szűrőbetét vásárlása önállóan nem támogatható, csak vényköteles vagy nem vényköteles állatgyógyászati készítmények (gyógyszer) vagy gyógyhatású készítmények együttes vásárlása esetén.
 
-(7) Az (1) bekezdés a) pontja szerinti támogatás esetén a szennyezett cukor, a sepert cukor, az izo-glukóz és a gabonakeményítőből gyártott cukor − izocukor − beszerzésének költsége nem támogatható.
+(7)[^77] Az (1) bekezdés a) pontja szerinti támogatás esetén a szennyezett cukor, a sepert cukor, az izo-glukóz és a gabonakeményítőből gyártott cukor – izocukor –, valamint invert cukor beszerzésének költsége nem támogatható.
 
 (8) Az (1) bekezdés a) pontja szerinti támogatás esetén a méhcsaládokat megtámadó kártevők és betegségek – ideértve a varroatózis – állategészségügyi kezeléséhez az alábbi, kizárólag Magyarországon megvásárolt készítmények után igényelhető támogatás:
 
@@ -28,7 +28,7 @@ a) az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet [
 
 b) a 128/2009. (X. 6.) FVM rendelet szerint nyilvántartásba vett, szabadon forgalmazható, az állatgyógyászatban használatos gyógyhatású készítmények.
 
-(9) Az (1) bekezdés a) pontja szerinti támogatás esetén a varroa atka, a nozematózis, illetve az egyéb kártevők, betegségek elleni szakszerű állategészségügyi kezeléshez méhcsaládonként – számla alapján – a 2024. pénzügyi évben legfeljebb 2800 forint, a 2025–2027. pénzügyi évben legfeljebb évi 2900 forint összegű támogatás igényelhető, amelyből a cukor, cukorlepény, ipari fondant beszerzési költségére méhcsaládonként a 2024. pénzügyi évben legfeljebb 2100 forint, a 2025–2027. pénzügyi évben legfeljebb évi 2175 forint összegű támogatás igényelhető. A cukor, cukorlepény, ipari fondant beszerzési költségére igényelt támogatás összege nem haladhatja meg
+(9)[^78] Az (1) bekezdés a) pontja szerinti támogatás esetén a varroa atka, a nozematózis, illetve az egyéb kártevők, betegségek elleni szakszerű állategészségügyi kezeléshez méhcsaládonként – számla alapján – a 2024. pénzügyi évben legfeljebb 2800 forint, a 2025. pénzügyi évben legfeljebb évi 2900 forint, a 2026–2027. pénzügyi évben legfeljebb 3200 forint összegű támogatás igényelhető, amelyből a cukor, cukorlepény, ipari fondant beszerzési költségére méhcsaládonként a 2024. pénzügyi évben legfeljebb 2100 forint, a 2025. pénzügyi évben legfeljebb 2175 forint, a 2026–2027. pénzügyi évben legfeljebb évi 2400 forint összegű támogatás igényelhető igényelhető. A cukor, cukorlepény, ipari fondant beszerzési költségére igényelt támogatás összege nem haladhatja meg
 
 a) a 128/2009. (X. 6.) FVM rendelet szerint forgalomba hozatali engedéllyel rendelkező és nyilvántartásba vett – vényköteles és nem vényköteles – állatgyógyászati készítményekhez (gyógyszer),
 
@@ -56,9 +56,9 @@ b) a cukor, cukorlepény, ipari fondant vásárlásáról kiállított számla, 
 
 (13) Egy higiénikus alj támogatásának mértéke a beszerzési ár 50%-a, de legfeljebb
 
-a) normál higiénikus alj esetén 3000 forint/darab,
+a)[^79] normál higiénikus alj esetén 5000 forint/darab,
 
-b) virágporszedős higiénikus alj esetén 4000 forint/darab.
+b)[^80] virágporszedős higiénikus alj esetén 6000 forint/darab.
 
 (14) Az (1) bekezdés b) pontja szerinti támogatásra benyújtott kérelemhez csatolni kell a higiénikus alj vásárlásáról a kedvezményezett nevére és címére kiállított számlát, valamint az ellenérték megtérítését igazoló bizonylatot, azzal, hogy a számla csak abban az esetben fogadható el, ha a termék megnevezéseként higiénikus alj vagy virágporszedős higiénikus alj van feltüntetve.
 
@@ -75,3 +75,8 @@ b) új fa kaptár, új fa keretléc, műlépvásárlás, valamint viaszcsere szo
 (18) Az (1) bekezdés c) pontja szerinti támogatásra benyújtott kérelemhez a kedvezményezettnek csatolnia kell a kedvezményezett nevére és címére kiállított számlát, valamint az ellenérték megtérítését igazoló bizonylatot.
 
 (19) Az (1) bekezdés c) pontja szerinti támogatásra méhcsaládonként – számla alapján – legfeljebb 500 forint összegű támogatás igényelhető.
+
+[^77]: A 30. § (7) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 52. pontja szerint módosított szöveg.
+[^78]: A 30. § (9) bekezdés nyitó szövegrésze az 1/2026. (I. 19.) AM rendelet 17. § 53. pontja szerint módosított szöveg.
+[^79]: A 30. § (13) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 54. pontja szerint módosított szöveg.
+[^80]: A 30. § (13) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 55. pontja szerint módosított szöveg.

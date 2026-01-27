@@ -1,10 +1,10 @@
 19. § (1) A 15. § (1) bekezdés d) pontja szerinti támogatás keretében a következő költségek számolhatóak el:
 
-a) előadó és tolmács díja, a nem OMME tag vagy nem az OMME alkalmazásában lévő (a továbbiakban: külsős) előadó és tolmács esetén az előadói díj legfeljebb 50 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, a tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^40] előadó és tolmács díja, a nem OMME tag vagy nem az OMME alkalmazásában lévő (a továbbiakban: külsős) előadó és tolmács esetén az előadói díj legfeljebb 70 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, a tolmács díja legfeljebb 100 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b) külsős előadó és tolmács szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény;
+b)[^41] külsős előadó és tolmács szállásköltsége legfeljebb 35 000 forint/nap/fő/rendezvény;
 
-c) külsős előadó és tolmács felmerült étkezési költsége legfeljebb 3000 forint/nap/fő/rendezvény;
+c)[^42] külsős előadó és tolmács felmerült étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
 
 d) külsős előadó és tolmács utazási költsége:
 
@@ -57,3 +57,7 @@ j) a szervezeti ülés szervezésével kapcsolatos bármely szolgáltatás igén
 k) a szervezeti ülésről készített összefoglaló beszámoló; továbbá
 
 l) a jelenléti ív, amely tartalmazza a szervezeti ülés helyszínét, időpontját, a résztvevők nevét, címét és aláírását.
+
+[^40]: A 19. § (1) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 31. pontja szerint módosított szöveg.
+[^41]: A 19. § (1) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 32. pontja szerint módosított szöveg.
+[^42]: A 19. § (1) bekezdés c) pontja az 1/2026. (I. 19.) AM rendelet 17. § 33. pontja szerint módosított szöveg.

@@ -12,9 +12,9 @@
 
 (6) A támogatás keretében a következő költségek számolhatók el:
 
-a) az OMME által vármegyei és fővárosi szaktanácsadók részére éves szinten meghatározott vállalkozói díj legfeljebb 980 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget; valamint
+a)[^51] a vármegyei és fővárosi szaktanácsadók, valamint a vezető szaktanácsadó OMME-vel kötött vállalkozói szerződésében meghatározott havi díja, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget;
 
-b) az OMME által a vezető szaktanácsadó részére éves szinten meghatározott vállalkozói díj legfeljebb 985 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget.
+b)[^52] a támogatás összege a vármegyei és fővárosi szaktanácsadók esetében legfeljebb 1 200 000 Ft/hó, a vezető szaktanácsadó esetében legfeljebb 1 300 000 Ft/hó.
 
 (7) A kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
@@ -29,3 +29,6 @@ b) a kérelem alapjául szolgáló költségeket igazoló bizonylatokat – kedv
 c) a méhészeti szaktanácsadók, illetve a vezető szaktanácsadó által a havi tevékenységükről készített összefoglaló jelentéseket, valamint a tárgyhavi eredmények értékeléséről szóló beszámolót; továbbá
 
 d) a fogadónapról szóló havi nyilvántartásokat.
+
+[^51]: A 22. § (6) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 9. §-ával megállapított szöveg.
+[^52]: A 22. § (6) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 9. §-ával megállapított szöveg.

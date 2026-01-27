@@ -18,13 +18,15 @@ g) a digitális képi anyagok beszerzésének költségei, továbbá
 
 h) külföldi szakmai információk közzétételének költségei.
 
-(3) A 10. § (1) bekezdés b) pontja szerinti támogatás esetén a kapcsolódó költségek méhészeti szakirodalom fordítása esetén legfeljebb 4,0 forint/karakterig támogathatóak, szóközök nélkül számolva, a célnyelvi szöveg karakterszáma alapján. Megbízás esetén ennek közterhekkel növelt összege vehető figyelembe.
+i)[^13] szakmai lektorálást végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege.
+
+(3)[^14] A 10. § (1) bekezdés b) pontja szerinti támogatás esetén a kapcsolódó költségek méhészeti szakirodalom fordítása esetén legfeljebb 5 forint/karakterig támogathatóak, szóközök nélkül számolva, a célnyelvi szöveg karakterszáma alapján. Megbízás esetén ennek közterhekkel növelt összege vehető figyelembe.
 
 (4) A 10. § (1) bekezdés b) pontja szerinti támogatás igénylése esetén a kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
 a) a kérelem alapjául szolgáló költségeket igazoló bizonylatok − a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat −, ahol a méhészeti szakirodalom fordításáról szóló számla tartalmazza az adott cikk eredeti címét, valamint a „fordítás” tevékenység megjelölést és a teljesítés igazolását, újságok előfizetése esetén a számla tartalmazza az előfizetés időszakát, valamint az újság periodicitását vagy a kedvezményezett erről szóló nyilatkozatát,
 
-b) a fordító, a szerkesztői tevékenységet végző személy, a nyelvi korrektor, a tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése, megbízási szerződés esetén a megbízási díj kifizetési lista, valamint a megbízási díj kifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
+b)[^15] a fordító, a szerkesztői tevékenységet végző személy, a szakmai lektor, a nyelvi korrektor, a tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése, megbízási szerződés esetén a megbízási díj kifizetési lista, valamint a megbízási díj kifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
 
 c) a végrehajtásról és az elszámolásról szóló beszámoló,
 
@@ -36,6 +38,11 @@ f) a kiadvány elektronikus elérhetősége.
 
 (5) A 10. § (1) bekezdés b) pontja szerinti támogatás igénylése esetén a megjelenési költségeken felül nem igényelhető támogatás olyan szakmai lap, tanulmány, statisztika és méhészeti szakirodalom beszerzésére, fordíttatására, amelyet
 
-a) a koordinátor, a koordinátori asszisztens, a kutatási asszisztens, méhészeti szaktanácsadók vagy vezető szaktanácsadók készítettek, illetve
+a)[^16] a koordinátor, a koordinátori asszisztens, méhészeti szaktanácsadók vagy vezető szaktanácsadók készítettek, illetve
 
 b) az OMME a tárgyév végéig nem tett közzé a honlapján, ágazati szaklapban vagy önálló kiadványban.
+
+[^13]: A 12. § (2) bekezdés i) pontját az 1/2026. (I. 19.) AM rendelet 4. §-a iktatta be.
+[^14]: A 12. § (3) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 9. pontja szerint módosított szöveg.
+[^15]: A 12. § (4) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 10. pontja szerint módosított szöveg.
+[^16]: A 12. § (5) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 11. pontja szerint módosított szöveg.

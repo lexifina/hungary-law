@@ -12,11 +12,11 @@ ad) repülővel, reptéri transzferrel történő utazás költsége vagy
 
 ae) a kiutazáshoz szükséges engedélyek beszerzésének költsége;
 
-b) legfeljebb hatvan fő szállásköltsége legfeljebb 60 000 forint/fő/éj összegig;
+b)[^35] legfeljebb hatvan fő szállásköltsége legfeljebb 100 000 forint/fő/éj összegig;
 
 c) legfeljebb hatvan fő regisztrációs, illetve részvételi díja;
 
-d) legfeljebb tíz fő napidíja legfeljebb 30 000 forint/fő/nap és közterhei összegig; valamint
+d)[^36] legfeljebb tíz fő napidíja legfeljebb 50 000 forint/fő/nap és közterhei összegig; valamint
 
 e) pavilonbérlés és kiállítási tér kialakításának költsége.
 
@@ -56,9 +56,9 @@ j) három vagy több fő csoportos utazása esetén a jelenléti ív, amelynek t
 
 (3) A 15. § (1) bekezdés c) pontja szerinti program megszervezése céljára nyújtott támogatás keretében a következő költségek számolhatóak el:
 
-a) előadói díj legfeljebb 50 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, külföldi előadó esetén legfeljebb 100 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^37] előadói díj legfeljebb 70 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, külföldi előadó esetén legfeljebb 100 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, tolmács díja legfeljebb 100 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b) a 15. § (1) bekezdés c) pontja szerinti programon országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 30 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
+b)[^38] a 15. § (1) bekezdés c) pontja szerinti programon országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 35 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
 
 c) a 15. § (1) bekezdés c) pontja szerinti programon országonként legfeljebb három fő előadó és további két fő tolmács utazási költsége:
 
@@ -106,7 +106,7 @@ f) hirdetési költség elszámolása esetén a hirdetés egy példánya, amely 
 
 g) rendezvényújság készítésének költsége esetén a rendezvényújság egy példánya vagy elektronikus elérhetősége;
 
-h) a rendezvényen elhangozott valamennyi előadás tematikája;
+h)[^39] a rendezvényen elhangozott valamennyi szakmai előadás tematikája;
 
 i) a kongresszusról, konferenciáról, kiállításról, szakmai tanulmányútról, nemzetközi rendezvényről szóló beszámoló;
 
@@ -115,3 +115,9 @@ j) épülethelyiség bérlése költségeinek elszámolása esetén a kedvezmén
 k) étkezési és szállásköltség elszámolása esetén a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat, valamint ha a számla nem tartalmazza, akkor a kedvezményezett nyilatkozata a szállóvendégek és az étkezést igénybe vevők nevéről; valamint
 
 l) a szervező nyilatkozata arról, hogy a látogatók nem fizettek részvételi vagy belépődíjat.
+
+[^35]: A 18. § (1) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 27. pontja szerint módosított szöveg.
+[^36]: A 18. § (1) bekezdés d) pontja az 1/2026. (I. 19.) AM rendelet 17. § 28. pontja szerint módosított szöveg.
+[^37]: A 18. § (3) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 29. pontja szerint módosított szöveg.
+[^38]: A 18. § (3) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 30. pontja szerint módosított szöveg.
+[^39]: A 18. § (4) bekezdés h) pontja az 1/2026. (I. 19.) AM rendelet 17. § 22. pontja szerint módosított szöveg.

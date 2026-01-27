@@ -8,7 +8,7 @@ b) az a) pont szerinti vizsgálat eredményének közzétételéhez
 
 vehető igénybe.
 
-(2) Az OMME az (1) bekezdés b) pontja szerinti eredményeket legkésőbb a tárgyév december 31-éig a honlapján köteles közzétenni.
+(2)[^54] Az OMME az (1) bekezdés b) pontja szerinti eredményeket legkésőbb a tárgyév december 31-éig a honlapján és egy ingyenes szakmai kiadványban köteles közzétenni.
 
 (3) Az (1) bekezdés szerinti támogatásokra pénzügyi évenként legfeljebb 138 118 eurónak megfelelő forintösszeg használható fel.
 
@@ -16,15 +16,15 @@ vehető igénybe.
 
 (5) A kérelem a tárgyévben több alkalommal is benyújtható. Ha a tárgyévben az eredmények közzétételéhez kapcsolódó számla teljesítési dátuma a tárgyévet követő évre esik, akkor ezen költség a tárgyévi monitoring vizsgálatot követő évben számolható el.
 
-(6) Az (1) bekezdés a) pontja szerinti támogatás keretében a következő költségek számolhatók el:
+(6)[^55] Az (1) bekezdés a) pontja szerinti támogatás keretében a következő költségek számolhatók el:
 
-a) fiasításos lép, viasz, műlép, méhhulla, élő méhek, méh kártevők és kórokozók, kultúrnövények, talaj- és vízminták, virágpor – ideértve a faji analízis –, kaptárból kivett nyersméz, lépesméz, cukorlepény, méhkenyér, valamint egyéb méhészeti termékek és méhtakarmányok laboratóriumi vizsgálatának költsége, a mintavételhez és vizsgálatokhoz szükséges anyagok, eszközök, kellékek beszerzésének költsége,
+a) fiasításos lép, viasz, műlép, méhhulla, élő méhek, méh kártevők – ideértve az ázsiai lódarazsat (Vespa velutina) – és kórokozók, kultúrnövények, talaj- és vízminták, virágpor – ideértve a faji analízist –, kaptárból kivett nyersméz, lépes méz, cukorlepény, méhkenyér, valamint egyéb méhészeti termékek és méhtakarmányok laboratóriumi vizsgálatának költsége,
 
-b) atkaölő szerek hatóanyag-koncentrációjának, kémiai vizsgálatának költsége,
+b) a laboratóriumi, illetve egyéb méhegészségügyi és környezetterhelési monitoring vizsgálatokhoz szükséges mintavételhez és a laboratóriumi, illetve egyéb méhegészségügyi és környezetterhelési monitoring vizsgálatokhoz, továbbá méh kártevők – ideértve az ázsiai lódarazsat (Vespa velutina) – gyérítéséhez szükséges anyagok, eszközök, kellékek, felszerelések beszerzésének költsége,
 
-c) a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálására, a szöveges beszámoló elkészítésére az OMME-val e tevékenységekre kötött vállalkozói vagy megbízási szerződések költsége, legfeljebb 800 000 forint/fő/tárgyév, megbízási szerződés esetén ennek közterhekkel növelt összege, továbbá
+c) hazai hatósági mintavételezés és hazai hatósági vizsgálat alapján készült szakvélemények készítésének költsége, továbbá
 
-d) hazai hatósági mintavételezés és hazai hatósági vizsgálat alapján készült szakvélemények készítésének költsége.
+d) a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálására, a szöveges beszámoló elkészítésére az OMME-vel kötött vállalkozói vagy megbízási szerződésben meghatározott díja, amely tartalmazza a szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget. A díjtámogatás összege legfeljebb évi 1 200 000 Ft.
 
 (7) Az (1) bekezdés a) pontja szerinti támogatás igénylése esetén a kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
@@ -42,14 +42,37 @@ a) a kérelem alapjául szolgáló költségeket igazoló bizonylatok − a kedv
 
 b) megbízási szerződés esetén a megbízási díj kifizetési lista, valamint a megbízási díj kifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
 
-c) a tárgyév első kérelmével egyidejűleg, és ha a nyelvi korrektor, a tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
+c)[^56] a tárgyév első kérelmével egyidejűleg, és ha a nyelvi korrektor, a szakmai lektor, a tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
 
-ca) a nyelvi korrektor, a tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése,
+ca)[^57] a nyelvi korrektor, a szakmai lektor, a tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése,
 
-cb) a nyelvi korrektor, a tördelést, grafikai szerkesztést végző személy vállalkozói igazolványának vagy egyéni vállalkozóként, egyéni cégként történő bejegyzését igazoló internetes nyilvántartás nyomtatott példánya, társas vállalkozás esetén a társasági szerződés,
+cb)[^58] a nyelvi korrektor, a szakmai lektor, a tördelést, grafikai szerkesztést végző személy vállalkozói igazolványának vagy egyéni vállalkozóként, egyéni cégként történő bejegyzését igazoló internetes nyilvántartás nyomtatott példánya, társas vállalkozás esetén a társasági szerződés,
 
 d) az elvégzett vizsgálatokról szóló szöveges beszámoló,
 
 e) az eredmények közzétételéről szóló tájékoztatás, továbbá
 
 f) a kapcsolódó szakmai kiadványnak az eredmények közzétételét tartalmazó elektronikus elérhetősége.
+
+(9)[^59] Az (1) bekezdés b) pontja szerinti támogatás keretében a következő költségek számolhatók el:
+
+a) a szerkesztői tevékenységet végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
+
+b) a nyomtatvány postaköltsége,
+
+c) a nyelvi korrektor megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
+
+d) nyomdaköltség,
+
+e) a nyomdai tördelést végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
+
+f) a grafikai szerkesztést végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege,
+
+g) szakmai lektorálást végző személy megbízási vagy vállalkozói díja, megbízási szerződés esetén ennek közterhekkel növelt összege.
+
+[^54]: A 24. § (2) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 40. pontja szerint módosított szöveg.
+[^55]: A 24. § (6) bekezdése az 1/2026. (I. 19.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^56]: A 24. § (8) bekezdés c) pont nyitó szövegrésze az 1/2026. (I. 19.) AM rendelet 17. § 41. pontja szerint módosított szöveg.
+[^57]: A 24. § (8) bekezdés c) pont ca) alpontja az 1/2026. (I. 19.) AM rendelet 17. § 41. pontja szerint módosított szöveg.
+[^58]: A 24. § (8) bekezdés c) pont cb) alpontja az 1/2026. (I. 19.) AM rendelet 17. § 41. pontja szerint módosított szöveg.
+[^59]: A 24. § (9) bekezdését az 1/2026. (I. 19.) AM rendelet 10. § (2) bekezdése iktatta be.

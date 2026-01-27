@@ -34,7 +34,7 @@ g) azon szakmai kiadvány vonatkozó oldalai, amelyben az eredményeket közzét
 
 h) megbízási szerződés esetén a megbízási díj kifizetési lista, valamint a megbízási díj kifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
 
-i) a tárgyév első kérelmével egyidejűleg, és ha a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
+i)[^84] a tárgyév első kérelmével egyidejűleg, és ha a nyelvi korrektor, a szakmai lektor, a nyomdai tördelést, grafikai szerkesztést végző személy személyében, továbbá a megbízási vagy vállalkozói szerződésben változás következik be:
 
 ia) a nyelvi korrektor, a nyomdai tördelést, grafikai szerkesztést végző személy cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése,
 
@@ -47,3 +47,5 @@ a) a kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kedvezm
 b) a mézpiaci mozgások összefüggései elemzéséről szóló tanulmány, továbbá
 
 c) az OMME-val – mézpiaci mozgások összefüggés-elemzésének tárgyában – kötött vállalkozói szerződés, annak írásba foglalása hiányában árajánlat és megrendelő.
+
+[^84]: A 35. § (6) bekezdés i) pont nyitó szövegrésze az 1/2026. (I. 19.) AM rendelet 17. § 13. pontja szerint módosított szöveg.

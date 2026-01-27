@@ -12,4 +12,11 @@ d) az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a kifizető ü
 
 e) az (EU) 2021/2116 európai parlamenti és tanácsi rendelet alkalmazására vonatkozó, a kifizető ügynökségekkel és más szervekkel, a pénzgazdálkodással, a záróelszámolással, az ellenőrzésekkel, a biztosítékokkal és az átláthatósággal kapcsolatos szabályok megállapításáról szóló, 2021. december 21-i (EU) 2022/128 bizottsági végrehajtási rendelet 30. cikke és 31. cikke
 
+f)[^86] az (EU) 2015/1368 végrehajtási rendeletnek a méhészeti ágazatra vonatkozó nemzeti programok kiterjesztése tekintetében történő módosításáról szóló, 2021. február 10-i (EU) 2021/166 bizottsági végrehajtási rendelet,
+
+g)[^87] a tagállamok által az 1308/2013/EU európai parlamenti és tanácsi rendelet alapján benyújtott, a méhészeti termékek termelésének és forgalmazásának javítására irányuló módosított nemzeti programok jóváhagyásáról szóló, 2021. június 9-i (EU) 2021/974 bizottsági végrehajtási határozat
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^86]: A 37. § f) pontját az 1/2026. (I. 19.) AM rendelet 16. §-a iktatta be.
+[^87]: A 37. § g) pontját az 1/2026. (I. 19.) AM rendelet 16. §-a iktatta be.

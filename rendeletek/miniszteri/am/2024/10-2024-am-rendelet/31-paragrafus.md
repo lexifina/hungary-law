@@ -22,9 +22,9 @@ vehető igénybe.
 
 (6) A méhanya támogatás mértéke
 
-a) párzott, petéző méhanyánként legfeljebb 2250 forint,
+a)[^81] párzott, petéző méhanyánként legfeljebb 2500 forint,
 
-b) párzatlan anyánként és anyabölcsőnként 1000 forint.
+b)[^82] párzatlan anyánként és anyabölcsőnként 1100 forint.
 
 (7) A kérelemhez csatolni kell az alábbi dokumentumokat:
 
@@ -33,3 +33,6 @@ a) a párzott, petéző méhanya, a párzatlan méhanya, illetve az anyabölcső
 b) a megvásárolt párzott, petéző méhanya, párzatlan méhanya, vagy anyabölcső származási bizonylata.
 
 (8) A kedvezményezett az eredeti származási bizonylatot három évig köteles megőrizni.
+
+[^81]: A 31. § (6) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 56. pontja szerint módosított szöveg.
+[^82]: A 31. § (6) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 57. pontja szerint módosított szöveg.

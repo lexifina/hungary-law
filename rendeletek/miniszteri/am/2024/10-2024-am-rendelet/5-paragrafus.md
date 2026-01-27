@@ -1,12 +1,12 @@
 5. § (1) A támogatási jogosultságot alátámasztó számlákon és egyéb bizonylatokon szereplő összegekre abban az esetben nyújtható támogatás, ha a kedvezményezett nevére és a Kincstár által vezetett Kedvezményezetti Nyilvántartási Rendszerben (a továbbiakban: KNYR) a számla teljesítésének napján nyilvántartott címére (a továbbiakban: cím) kiállított számlák vagy egyéb bizonylatok teljesítési dátuma – az adott albeavatkozásra vonatkozó, e rendeletben előírt eltérő rendelkezés hiányában – a tárgyévre esik.
 
-(2) Nem igényelhető támogatás abban az esetben, ha a kedvezményezettnek az adott számla vagy egyéb bizonylat költsége vonatkozásában az (EU) 2021/2115 európai parlamenti és tanácsi rendelet szerinti vidékfejlesztési támogatás keretében benyújtott támogatási igénye már elfogadásra került.
+(2)[^5] Nem igényelhető támogatás abban az esetben, ha a kedvezményezettnek az adott számla vagy egyéb bizonylat költsége vonatkozásában az (EU) 2021/2115 európai parlamenti és tanácsi rendelet szerinti vidékfejlesztési támogatás vagy bármilyen EMVA vagy EMGA támogatás keretében benyújtott támogatási igénye már elfogadásra került.
 
 (3) Támogatás csak olyan – kifizetési bizonylattal alátámasztott – új termékbeszerzés vagy szolgáltatás igénybevétele alapján fizethető, amelynek ellenértékét a kedvezményezett megtérítette. Ha a kifizetést átutalással teljesítik, akkor a kedvezményezett az átutalás teljesítését igazoló bizonylatot vagy bankszámlakivonatot is csatolni köteles a kérelemhez.
 
 (4) Forinttól eltérő pénznemben kiállított számla esetén a forintra történő átszámítást a Kincstár a számlán feltüntetett szolgáltatásnyújtás vagy termékértékesítés pénzügyi teljesítésének napján érvényes, az Európai Központi Bank által jegyzett forint vagy deviza átváltási árfolyam alapján végzi. Ha a forinttól eltérő pénznemben kiállított számlán teljesítési időszakot jelölnek meg, akkor a forintra történő átszámítást a Kincstár a pénzügyi teljesítési időszak első napján érvényes, az Európai Központi Bank által jegyzett forint vagy deviza átváltási árfolyamon végzi el. Ha az Európai Központi Bank nem jegyzi az adott devizaárfolyamot, akkor a Kincstár az átszámítást a Magyar Nemzeti Bank hivatalos devizaárfolyama alapulvételével végzi el a fentieknek megfelelően.
 
-(5) A 3. § (1) bekezdés a) pont ab) és ae) alpontja szerinti albeavatkozások esetén az útiköltség elszámolásához a kérelemmel benyújtandó gépjárműhasználati nyilvántartás (a továbbiakban: útnyilvántartás) tartalmazza a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 5. számú melléklet II. pont 7. alpontjában meghatározott adatokat.
+(5)[^6] A 3. § (1) bekezdés a) pont ab) és ac) alpontja szerinti albeavatkozások esetén az útiköltség elszámolásához a kérelemmel benyújtandó gépjárműhasználati nyilvántartás (a továbbiakban: útnyilvántartás) tartalmazza a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 5. számú melléklet II. pont 7. alpontjában meghatározott adatokat.
 
 (6) A 3. § (1) bekezdés a) pont ab) és ae) alpontja szerinti albeavatkozások esetén
 
@@ -60,6 +60,14 @@ c) kedvezményezett címe,
 
 d) kedvezményezett lakcíme szerinti vármegye megnevezése.
 
-(16) A 3. § (1) bekezdés a) pont ab) és ac) alpontja szerinti albeavatkozások esetén a támogatás igénybevételének feltétele a rendezvényen elhangzott előadás(ok) a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően elkészített tematikájának a kérelemhez történő csatolása.
+e)[^7] szükség esetén a kedvezményezett elérhetősége.
 
-(17) A 29. § (4) bekezdés 6. pontja szerinti eszköz esetében a támogatás igénybevételének feltétele a Kincstár honlapján közzétett közleményben meghatározott formai és tartalmi követelményeknek megfelelő műszaki dokumentáció benyújtása.
+(16)[^8] A 3. § (1) bekezdés a) pont ab) és ac) alpontja szerinti albeavatkozások esetén a támogatás igénybevételének feltétele a rendezvényen elhangzott szakmai előadás(ok) a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően elkészített tematikájának a kérelemhez történő csatolása.
+
+(17)[^9] A 28. § (4) bekezdés d) és e) pontja, továbbá a 29. § (4) bekezdés 6. pontja szerinti eszköz esetében a támogatás igénybevételének feltétele a Kincstár honlapján közzétett közleményben meghatározott formai és tartalmi követelményeknek megfelelő műszaki dokumentáció benyújtása.
+
+[^5]: Az 5. § (2) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 5. pontja szerint módosított szöveg.
+[^6]: Az 5. § (5) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 6. pontja szerint módosított szöveg.
+[^7]: Az 5. § (15) bekezdés e) pontját az 1/2026. (I. 19.) AM rendelet 1. §-a iktatta be.
+[^8]: Az 5. § (16) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 7. pontja szerint módosított szöveg.
+[^9]: Az 5. § (17) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 8. pontja szerint módosított szöveg.

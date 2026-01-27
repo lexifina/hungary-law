@@ -2,9 +2,9 @@
 
 (2) A 10. § (1) bekezdés a) pontja szerinti támogatás keretében a következő költségek számolhatóak el:
 
-a) a koordinátor vállalkozói díja legfeljebb 985 000 forint/hó, valamint
+a)[^11] a koordinátor és koordinátori asszisztens OMME-vel kötött vállalkozói szerződésében meghatározott havi díja, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget;
 
-b) a koordinátori asszisztens vállalkozói díja legfeljebb 600 000 forint/hó.
+b)[^12] a támogatás összege a koordinátor esetében legfeljebb 1 200 000 Ft/hó, a koordinátori asszisztens esetében legfeljebb 1 000 000 Ft/hó.
 
 (3) A 10. § (1) bekezdés a) pontja szerinti támogatás igénylése esetén a kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
@@ -17,3 +17,6 @@ ba) a koordinátor, koordinátori asszisztens cégszerű aláírással ellátott
 bb) a koordinátor, koordinátori asszisztens vállalkozói igazolványának vagy egyéni vállalkozóként, egyéni cégként történő bejegyzését igazoló internetes nyilvántartás nyomtatott példánya, társas vállalkozás esetén a társasági szerződés és
 
 c) a koordinátori és koordinátori asszisztens tevékenységről szóló tárgyhavi jelentés, amely tartalmazza a tárgyhavi eredmények értékeléséről szóló beszámolót.
+
+[^11]: A 11. § (2) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 11. § (2) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 3. §-ával megállapított szöveg.

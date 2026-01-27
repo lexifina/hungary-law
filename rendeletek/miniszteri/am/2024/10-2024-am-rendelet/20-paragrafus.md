@@ -1,10 +1,10 @@
-20. § (1) A 15. § (1) bekezdés e) pontja szerinti támogatás igénylése esetén támogatás a méhegészségügyi felelősök részére a méhbetegségek felismeréséhez és a védekezéshez szükséges ismeretek átadása érdekében megtartott képzések szervezésének költségeire vehető igénybe.
+20. § (1)[^43] A 15. § (1) bekezdés e) pontja szerinti támogatás a méhészek, szaktanácsadók, méhegészségügyi felelősök részére, a méhbetegségek felismeréséhez és a védekezéshez szükséges ismeretek átadása érdekében megtartott képzések szervezési költségeire vehető igénybe.
 
 (2) A 15. § (1) bekezdés e) pontja szerinti támogatás keretében a következő költségek számolhatóak el:
 
-a) az előadói díj legfeljebb 50 000 forint/előadó/rendezvény összegig, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^44] az előadói díj legfeljebb 70 000 forint/előadó/rendezvény összegig, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b) az előadó elszállásolási költsége legfeljebb 16 000 forint/nap/előadó/rendezvény, étkezési költség legfeljebb 5000 forint/nap/előadó/rendezvény mértékig;
+b)[^45] az előadó elszállásolási költsége legfeljebb 35 000 forint/nap/előadó/rendezvény, étkezési költsége legfeljebb 10 000 forint/nap/előadó/rendezvény mértékig;
 
 c) az előadó utazási költsége vonatkozásában:
 
@@ -12,7 +12,7 @@ ca) gépjármű használatának költsége vagy
 
 cb) helyi és helyközi tömegközlekedéssel történő utazás költsége;
 
-d) meghívók készítésének és sokszorosításának, valamint postázásának költsége legfeljebb 65 000 forint/rendezvény összegig;
+d)[^46] meghívók készítésének és sokszorosításának, valamint postázásának költsége legfeljebb 100 000 forint/rendezvény összegig;
 
 e) épülethelyiség bérlésének költsége; valamint
 
@@ -34,7 +34,7 @@ d) a képzés szervezésével kapcsolatos bármely szolgáltatás igénybevétel
 
 e) meghívók készítése, sokszorosítása, valamint a postaköltség elszámolása esetén a kiküldött meghívó egy példánya, amely tartalmazza a képzés dátumát, időpontját és helyszínét, az előadó nevét, az előadás témáját, valamint ha az adott meghívón több képzés időpontja is szerepel, akkor a kedvezményezett nyilatkozata arról, hogy a meghívó készítésével, sokszorosításával, valamint a postázásával kapcsolatban felmerült költségek milyen arányban oszlanak meg a képzések között;
 
-f) a képzés alkalmával elhangzott valamennyi előadás tematikája;
+f)[^47] a képzés alkalmával elhangzott valamennyi szakmai előadás tematikája;
 
 g) épülethelyiség-bérlés költségeinek elszámolása esetén a kedvezményezett nevére és címére kiállított, a rendezvény dátumát tartalmazó számla és az ellenérték megtérítését igazoló bizonylat, ha a számla több rendezvényre vonatkozó bérleti díjat is tartalmaz, akkor a kedvezményezett nyilatkozata arról, hogy a bérleti díj milyen arányban oszlik meg az egyes rendezvények között;
 
@@ -45,3 +45,9 @@ i) jelenléti ív, amely tartalmazza az előadók nevét, az előadás(ok) cím�
 j) a kedvezményezett nyilatkozata arról, hogy a méhegészségügyi felelősök nem fizettek részvételi vagy belépődíjat; továbbá
 
 k) az OMME nyilatkozata a képzés Stratégiai Tervbe illeszkedéséről, ha a kedvezményezett az OMME tagszervezete.
+
+[^43]: A 20. § (1) bekezdése az 1/2026. (I. 19.) AM rendelet 7. §-ával megállapított szöveg.
+[^44]: A 20. § (2) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 34. pontja szerint módosított szöveg.
+[^45]: A 20. § (2) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 35. pontja szerint módosított szöveg.
+[^46]: A 20. § (2) bekezdés d) pontja az 1/2026. (I. 19.) AM rendelet 17. § 36. pontja szerint módosított szöveg.
+[^47]: A 20. § (3) bekezdés f) pontja az 1/2026. (I. 19.) AM rendelet 17. § 22. pontja szerint módosított szöveg.

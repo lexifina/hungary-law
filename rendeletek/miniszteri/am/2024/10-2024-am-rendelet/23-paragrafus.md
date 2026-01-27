@@ -22,6 +22,8 @@ a) a megfigyelőkkel cégszerű aláírással kötött együttműködési megál
 
 b) a cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, ha a végrehajtás szolgáltatás igénybevételével történik, valamint a cégszerű aláírással ellátott teljesítési igazolás, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
-c) a kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat), az elvégzett munka típusát tartalmazó útnyilvántartás, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat, továbbá
+c)[^53] a kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kedvezményezett nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat), valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat, továbbá
 
 d) az elvégzett munkáról szóló beszámoló.
+
+[^53]: A 23. § (6) bekezdés c) pontja az 1/2026. (I. 19.) AM rendelet 17. § 39. pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A kérelmet a kedvezményezett a Kincstárhoz nyújtja be az erre a célra kialakított elektronikus felületen, támogatási célonként külön-külön, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(3) A kérelemre indult eljárás során minden dokumentumot, így az előzetes programbejelentést, a hiánypótláshoz kapcsolódó dokumentumokat és – a közigazgatási per, valamint felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (e bekezdés alkalmazásában a továbbiakban együtt: irat) az elektronikus felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott irat a döntés meghozatala során nem vehető figyelembe.
+(3)[^2] A kérelemre indult eljárás során minden dokumentumot, így az előzetes programbejelentést, a hiánypótláshoz kapcsolódó dokumentumokat és a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (e bekezdés alkalmazásában a továbbiakban együtt: irat) az elektronikus felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott irat a döntés meghozatala során nem vehető figyelembe.
 
 (4) A kérelmet az e rendelet hatálybalépését követő ötödik naptól lehet benyújtani a Kincstárhoz a (2) bekezdésben meghatározottak szerint, az (5) és (6) bekezdés szerinti jogvesztő határidőkre figyelemmel.
 
@@ -34,8 +34,12 @@ g) a 30. § (1) bekezdés c) pontja szerinti támogatás esetében a kérelem az
 
 (10) Hiányosan vagy hibásan benyújtott kérelem esetén az elbírálás sorrendjét a maradéktalanul teljesített hiánypótlás beérkezésének napja határozza meg.
 
-(11) Az elbírálási sorrendben hiánypótlás esetén a kérelem beérkezési napjának a határidőben teljesített hiánypótlás beérkezésének napját, ennek elmaradása esetén a hiánypótlási határidő utolsó napját követő nyolcadik napot kell tekinteni.
+(11)[^3] Az elbírálási sorrendben hiánypótlás, adategyeztetés, egyeztetés esetén a kérelem beérkezési napjának a határidőben teljesített hiánypótlás, adategyeztetés, egyeztetés beérkezésének napját, ennek elmaradása esetén a hiánypótlási, adategyeztetési, egyeztetési határidő utolsó napját követő nyolcadik napot kell tekinteni.
 
-(12) Az 5. § (9) bekezdése szerinti keretátcsoportosítás után, az adott albeavatkozásra meghatározott támogatási keret kimerülését követően beérkezett kérelmek visszautasításáról a Kincstár dönt. Ha az 5. § (9) bekezdése szerinti keretátcsoportosítás engedélyezését követően rendelkezésre álló forrás figyelembevételével a 30. § (1) bekezdés a) és c) pontja szerinti támogatások, továbbá a 3. § (1) bekezdés b) pont be) alpontja szerinti albeavatkozás esetén a jóváhagyható támogatási igény meghaladja az elkülönített keretösszeget, akkor az egyes kérelmek alapján jóváhagyható támogatási összegeket arányosan csökkenteni kell. A támogatási összegek arányos csökkentéséről a Kincstár dönt.
+(12)[^4] Az 5. § (9) bekezdése szerinti keretátcsoportosítás után, az adott albeavatkozásra meghatározott támogatási keret kimerülését követően beérkezett kérelmek visszautasításáról a Kincstár dönt. Ha az 5. § (9) bekezdése szerinti keretátcsoportosítás elvégzését követően rendelkezésre álló forrás figyelembevételével a 30. § (1) bekezdés a) és c) pontja szerinti támogatások, továbbá a 3. § (1) bekezdés b) pont be) alpontja szerinti albeavatkozás esetén a jóváhagyható támogatási igény meghaladja az elkülönített keretösszeget, akkor az egyes kérelmek alapján jóváhagyható támogatási összegeket arányosan csökkenteni kell. A támogatási összegek arányos csökkentéséről a Kincstár dönt.
 
 (13) A forráskimerülést az Agrárminisztérium közleményben teszi közzé.
+
+[^2]: A 4. § (3) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 2. pontja szerint módosított szöveg.
+[^3]: A 4. § (11) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 3. pontja szerint módosított szöveg.
+[^4]: A 4. § (12) bekezdése az 1/2026. (I. 19.) AM rendelet 17. § 4. pontja szerint módosított szöveg.

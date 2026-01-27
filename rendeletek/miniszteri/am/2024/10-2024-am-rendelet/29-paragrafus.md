@@ -26,7 +26,7 @@ b) a KöHÉM rendelet 2. § (9) bekezdés h) pontja szerinti pótkocsi (O2 kateg
 
 7. benzines, elektromos vagy akkumulátoros szívó-fúvó gép,
 
-8. benzinmotoros fűkasza, bozótvágó,
+8.[^73] legalább 0,9 kW maximális teljesítménnyel rendelkező benzinmotoros fűkasza, bozótvágó,
 
 9. aggregátor vagy robbanómotorral meghajtott áramfejlesztő,
 
@@ -68,15 +68,15 @@ rendelkező kedvezményezett igényelheti.
 
 (8) A támogatás mértéke a beszerzési ár 50%-a
 
-a) a (4) bekezdés 1. pont a) alpontja szerinti eszközbeszerzés esetén legfeljebb 200 000 forint,
+a)[^74] a (4) bekezdés 1. pont a) alpontja szerinti eszközbeszerzés esetén legfeljebb 300 000 forint,
 
-b) a (4) bekezdés 1. pont b) alpontja, valamint 3. és 6. pontja szerinti eszközbeszerzés esetén legfeljebb 600 000 forint,
+b)[^75] a (4) bekezdés 1. pont b) alpontja, valamint 3. és 6. pontja szerinti eszközbeszerzés esetén legfeljebb 1 000 000 forint,
 
 c) a (4) bekezdés 2., 4. és 5. pontja szerinti eszközbeszerzés esetén legfeljebb 1 000 000 forint,
 
 d) a legfeljebb 3 kW maximális elektromos teljesítményű aggregátor vagy robbanómotorral meghajtott áramfejlesztő, valamint a (4) bekezdés 7., 11–13., 15. és 17–18. pontja szerinti eszköz beszerzése esetén legfeljebb 65 000 forint, továbbá
 
-e) a 3 kW feletti maximális elektromos teljesítményű aggregátor vagy robbanómotorral meghajtott áramfejlesztő, valamint a (4) bekezdés 8., 10., 14. és 16. pontja szerinti eszköz beszerzése esetén legfeljebb 130 000 forint.
+e)[^76] a 3 kW feletti maximális elektromos teljesítményű aggregátor vagy robbanómotorral meghajtott áramfejlesztő, valamint a (4) bekezdés 8., 10., 14. és 16. pontja szerinti eszköz beszerzése esetén legfeljebb 200 000 forint.
 
 (9) A kérelemhez a kedvezményezettnek csatolnia kell az alábbi dokumentumokat:
 
@@ -97,3 +97,8 @@ c) a (4) bekezdés 6. pontja szerinti eszköz beszerzése esetén a műszaki dok
 (12) Ha a kedvezményezett a (11) bekezdésben meghatározott időtartamig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
 (13) A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az elektronikus felületen keresztül – a bekövetkezését követően a kedvezményezett haladéktalanul bejelenti a Kincstár részére.
+
+[^73]: A 29. § (4) bekezdés 8. pontja az 1/2026. (I. 19.) AM rendelet 13. §-ával megállapított szöveg.
+[^74]: A 29. § (8) bekezdés a) pontja az 1/2026. (I. 19.) AM rendelet 17. § 49. pontja szerint módosított szöveg.
+[^75]: A 29. § (8) bekezdés b) pontja az 1/2026. (I. 19.) AM rendelet 17. § 50. pontja szerint módosított szöveg.
+[^76]: A 29. § (8) bekezdés e) pontja az 1/2026. (I. 19.) AM rendelet 17. § 51. pontja szerint módosított szöveg.

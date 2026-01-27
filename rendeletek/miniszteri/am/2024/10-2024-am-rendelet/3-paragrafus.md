@@ -6,7 +6,7 @@ a) az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 55. cikk (1) beke
 
 aa) méhészeti képzés országos koordinálása, valamint méhészeti ismeretek gyűjtése és terjesztése,
 
-ab) regionális rendezvény, szervezeti ülés szervezése, kongresszus, nemzetközi rendezvény, konferencia, kiállítás, szakmai tanulmányút szervezése és az azokon való részvétel, méhbetegségek felismeréséhez és a védekezéshez szükséges ismeretek átadása érdekében megtartott képzések, valamint elméleti ismeretterjesztés,
+ab)[^1] regionális rendezvény, szervezeti ülés szervezése, kongresszus, nemzetközi rendezvény, konferencia, kiállítás, szakmai tanulmányút szervezése és az azokon való részvétel, méhbetegségek felismeréséhez és a védekezéshez szükséges ismeretek átadása érdekében megtartott képzések, méhkártevők elleni védekezéssel kapcsolatos képzés szervezése és az azokon való részvétel, valamint elméleti ismeretterjesztés,
 
 ac) bemutató méhészetek látogatása,
 
@@ -37,3 +37,5 @@ cb) méhészeti promóció, kommunikáció és marketing támogatása, illetve
 cc) méhészeti piacmonitoring támogatása.
 
 (2) Az (1) bekezdés szerinti beavatkozásokat 2024. január 1. és 2027. december 31. közötti időszakban kell végrehajtani.
+
+[^1]: A 3. § (1) bekezdés a) pont ab) alpontja az 1/2026. (I. 19.) AM rendelet 17. § 1. pontja szerint módosított szöveg.
