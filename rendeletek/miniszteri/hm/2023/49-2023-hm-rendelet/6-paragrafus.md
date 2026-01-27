@@ -1,4 +1,4 @@
-6. §[^7] (1) Nem ítélhető meg létesítménytámogatás és képzési támogatás
+6. §[^8] (1) Nem ítélhető meg létesítménytámogatás és képzési támogatás
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget,
 
@@ -14,4 +14,4 @@ f) a 651/2014/EU bizottsági rendelet 1. cikk (3) bekezdés a)–d) pontjában m
 
 (2) Nem nyújtható csekély összegű támogatás az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott tevékenységet folytató vállalkozások számára és célokra, figyelemmel az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltakra is.
 
-[^7]: A 6. § a 4/2025. (V. 29.) HM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § a 4/2025. (V. 29.) HM rendelet 2. §-ával megállapított szöveg.

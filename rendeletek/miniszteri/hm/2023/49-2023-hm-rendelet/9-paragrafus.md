@@ -1,4 +1,4 @@
-## 5.[^10] Az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás
+## 5.[^11] Az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás
 
 9. § (1) Csekély összegű (de minimis) támogatás az (EU) 2023/2831 bizottsági rendelet alapján nyújtható.
 
@@ -12,4 +12,4 @@
 
 (6) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-[^10]: Az 5. alcím (9. §) a 4/2025. (V. 29.) HM rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 5. alcím (9. §) a 4/2025. (V. 29.) HM rendelet 5. §-ával megállapított szöveg.

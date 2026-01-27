@@ -34,16 +34,19 @@
 
 16. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
+16a.[^3] részfeladat: a sportcélú fejezeti kezelésű előirányzatok olyan szintű szakmai és költségvetési meghatározása, amely lehetővé teszi a tervezést, gazdálkodást, előirányzat-kezelést és beszámolást külön költségvetési egységként nyilvántartani, elszámolni.
+
 17. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
 18. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
 19. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-20.[^3]
+20.[^4]
 
 (2) Az (1) bekezdés 9. pontja szerinti ellenszolgáltatást úgy kell megállapítani, hogy az ellenszolgáltatás meghaladja a részvételi költségeket, és elérje a sportoló jövedelmének legalább 50%-át, függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
 
 [^1]: A 2. § (1) bekezdés 3. pontja a 4/2025. (V. 29.) HM rendelet 9. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 5. pontja a 4/2025. (V. 29.) HM rendelet 9. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés 20. pontját a 4/2025. (V. 29.) HM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 16a. pontját a 3/2026. (I. 26.) HM rendelet 1. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés 20. pontját a 4/2025. (V. 29.) HM rendelet 10. § a) pontja hatályon kívül helyezte.

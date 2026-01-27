@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-49-20-1
 | 2024-01-02 | 2023-49-20-15.3 | 2010. évi CXXX. törvény |
 | 2025-05-30 | 2023-49-20-15.4 | 4/2025. (V. 29.) HM rendelet |
 | 2025-11-05 | 2023-49-20-15.5 | 13/2025. (XI. 4.) HM rendelet |
+| 2026-01-27 | 2023-49-20-15.6 | 3/2026. (I. 26.) HM rendelet |
