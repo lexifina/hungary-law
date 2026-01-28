@@ -1,3 +1,3 @@
-11. § A 10/2024. (III. 25.) AM rendelet 27. § (12) bekezdése a következő e) ponttal egészül ki:
+11. §[^12]
 
-[Az (1) bekezdés b) pontja szerinti támogatás keretében a következő költségek számolhatók el:]
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

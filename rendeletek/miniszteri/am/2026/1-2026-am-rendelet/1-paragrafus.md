@@ -2,6 +2,6 @@
 
 ## [2] A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 1. és 2. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A méhészeti ágazatban a központi költségvetés, valamint az Európai Mezőgazdasági Garanciaalap társfinanszírozásában megvalósuló támogatások 2024–2027. évi igénybevételének szabályairól szóló 10/2024. (III. 25.) AM rendelet [a továbbiakban: 10/2024. (III. 25.) AM rendelet] 5. § (15) bekezdése a következő e) ponttal egészül ki:
+1. §[^2]
 
-[A szakmaközi szervezet (Országos Magyar Méhészeti Egyesület) (a továbbiakban: OMME) az elektronikus felületen keresztül igazolja a Kincstár részére a kedvezményezettnek a kérelem benyújtásának évére vonatkozó OMME-tagsági, -tagszervezeti viszonyát. Az igazolás kiállítása érdekében a Kincstár átadja az OMME-nak a kérelmet benyújtó kedvezményezett alábbi adatait:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

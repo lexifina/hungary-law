@@ -1,3 +1,3 @@
-9. § A 10/2024. (III. 25.) AM rendelet 22. § (6) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+9. §[^10]
 
-(A támogatás keretében a következő költségek számolhatók el:)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

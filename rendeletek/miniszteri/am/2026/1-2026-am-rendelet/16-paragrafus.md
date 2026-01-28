@@ -1,3 +1,3 @@
-16. § A 10/2024. (III. 25.) AM rendelet 37. §-a a következő f) és g) ponttal egészül ki:
+16. §[^17]
 
-(Ez a rendelet)
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
