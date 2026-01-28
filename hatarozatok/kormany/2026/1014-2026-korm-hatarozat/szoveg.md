@@ -1,27 +1,11 @@
-1. Az Európai Határregisztrációs Rendszer, valamint az Európai Utasinformációs és Engedélyezési Rendszer fejlesztéséhez szükséges kormányzati intézkedéseket koordináló munkacsoport létrehozásáról szóló 1538/2018. (X. 30.) Korm. határozat (a továbbiakban: 1538/2018. Korm. határozat) 2. pontja a következő g) és h) alponttal egészül ki:
+1.[^2]
 
-(A Munkacsoport feladata)
+2.[^3]
 
-„g) az adatoknak a rendőrségi együttműködés céljából történő automatizált kereséséről és cseréjéről, valamint a 2008/615/IB és a 2008/616/IB tanácsi határozat, továbbá az (EU) 2018/1726, az (EU) 2019/817 és az (EU) 2019/818 európai parlamenti és tanácsi rendelet módosításáról (Prüm II rendelet) szóló, 2024. március 13-i (EU) 2024/982 európai parlamenti és tanácsi rendeletben szereplő követelmények nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
-
-h) az előzetes utasinformációk gyűjtéséről és átadásáról szóló uniós jogi aktusokban szereplő követelmények nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása.”
-
-2. Az 1538/2018. Korm. határozat 5. pontja helyébe a következő rendelkezés lép:
-
-„5. A Munkacsoport tagja
-
-a) az igazságügyi miniszter,
-
-b) a külgazdasági és külügyminiszter,
-
-c) a nemzetgazdasági miniszter,
-
-d) a Miniszterelnöki Kabinetirodát vezető miniszter,
-
-e) az energiaügyi miniszter,
-
-f) a miniszterelnök nemzetbiztonsági főtanácsadója.”
-
-3. Az 1538/2018. Korm. határozat 2. pont f) alpontjában az „összehangolása.” szövegrész helyébe az „összehangolása,” szöveg lép.
+3.[^4]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
