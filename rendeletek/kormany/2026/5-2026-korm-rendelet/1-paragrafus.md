@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Otthontámogatásról szóló 361/2025. (XI. 25.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) Otthontámogatásra jogosult továbbá
-
-a) a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 34. § (1) bekezdése szerinti önkormányzati tűzoltóságnál foglalkoztatott tűzoltó, valamint
-
-b) az országgyűlési képviselő és a nemzetiségi szószóló által az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 112. § (4) bekezdése szerint munkaviszonyban foglalkoztatott személy.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
