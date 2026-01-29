@@ -1,0 +1,1 @@
+3. § Ha az ügyfél által megfizetett összeg meghaladja az 1. mellékletben meghatározott díj összegét, az AH a 2. § (4) bekezdése szerinti banki átutalásról szóló igazolás AH-hoz beérkezését követő 30 napon belül a túlfizetést visszatéríti.
