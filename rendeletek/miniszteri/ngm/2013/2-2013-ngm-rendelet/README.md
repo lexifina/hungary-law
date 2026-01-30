@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2-20-2X
 | 2018-01-01 | 2013-2-20-2X.5 | 51/2017. (XII. 29.) NGM rendelet |
 | 2021-10-17 | 2013-2-20-2X.6 | 49/2021. (X. 1.) ITM rendelet |
 | 2025-01-15 | 2013-2-20-2X.7 | 57/2024. (XII. 31.) NGM rendelet |
+| 2026-01-30 | 2013-2-20-2X.8 | 2/2026. (I. 15.) NGM rendelet |

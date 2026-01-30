@@ -1,9 +1,5 @@
-## 9. A biztonsági övezet terjedelmére az előírt tilalmakra és korlátozásokra vonatkozó előírások alól
+## 9.[^36]
 
-## eltérés engedélyeztetése
+17. §
 
-17. § (1)[^10] Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendeletben meghatározott, a VET. hatálya alá tartozó építményeket engedélyező építésügyi hatóság a villamos berendezés és biztonsági övezetének megóvása mellett, biztonságtechnikailag egyenértékű műszaki megoldás esetében a biztonsági övezet terjedelmére, valamint az előírt tilalmakra és korlátozásokra vonatkozó előírások alól a villamos berendezés üzemeltetőjének kérelmére eltérést engedélyezhet, és ennek feltételeit meghatározhatja.
-
-(2) Az üzemben tartó biztonságtechnikailag egyenértékű műszaki megoldást igazoló szakértői véleményt köteles az (1) bekezdés szerinti kéreleméhez csatolni.
-
-[^10]: A 17. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 26. §-a szerint módosított szöveg.
+[^36]: A 9. alcímet (17. §-t) a 2/2026. (I. 15.) NGM rendelet 13. § b) pontja hatályon kívül helyezte.

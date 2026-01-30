@@ -12,7 +12,7 @@ bc) üzemzavar elhárítását, karbantartását akadályozza, veszélyezteti va
 
 (2) A biztonsági övezetben csak a vezeték üzemben tartójának előzetes hozzájárulásával végezhetőek az alábbi tevékenységek:
 
-a) fokozottan tűz- és robbanásveszélyes anyagok tárolása,
+a)[^19] fokozottan tűz- vagy robbanásveszélyes anyagok tárolása,
 
 b) a robbantás,
 
@@ -29,3 +29,5 @@ g) fúróberendezés, pneumatikus munkagépek, földgyaluk üzemeltetése,
 h) a talajba beágyazott műtárgy, oszlop, vízóraakna gépalap, daruval, vontatóval vagy más géppel, eszközzel – a műtárgy kézi erővel végzett körülásása nélküli – kiszakítása,
 
 i) a földben elhelyezett vezeték földművén, töltésén a vezeték üzemben tartójának hozzájárulása nélkül mindennemű munkavégzés, ami a földmű, töltés megbontásával jár.
+
+[^19]: A 11. § (2) bekezdés a) pontja a 2/2026. (I. 15.) NGM rendelet 12. § e) pontja szerint módosított szöveg.
