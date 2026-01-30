@@ -1,0 +1,1 @@
+21. § Ez a rendelet az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i (EU) 2015/2447 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
