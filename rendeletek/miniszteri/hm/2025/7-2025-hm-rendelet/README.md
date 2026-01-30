@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-7-20-15
 | --- | --- | --- |
 | 2025-08-12 | 2025-7-20-15.1 | 7/2025. (VIII. 11.) HM rendelet |
 | 2025-08-13 | 2025-7-20-15.2 | 2010. évi CXXX. törvény |
+| 2026-01-30 | 2025-7-20-15.3 | 4/2026. (I. 29.) HM rendelet |
