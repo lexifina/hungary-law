@@ -1,19 +1,18 @@
 8. § A Korm. rendelet
 
-a)[^8]
+a)[^4]
 
-b)[^9]
+b)[^5]
 
-c)[^10]
+c)[^6]
 
-d)[^11]
+d)[^7]
 
-e)[^12]
+e) 12. §-ában a „7. § (2) bekezdésében és (5) bekezdésében” szövegrész helyébe a „7. § (3) bekezdésében és (7) bekezdésében” szöveg
 
 lép.
 
-[^8]: A 8. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 8. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 8. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 8. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 8. § e) pontja a 10. § (2) bekezdése alapján 2026. január 30-án lép hatályba.
+[^4]: A 8. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
