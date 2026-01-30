@@ -1,4 +1,4 @@
-2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^72]
+2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^69]
 
 ## Az adózó a Tao. törvény 22/B. § (1) bekezdés l) pontja szerinti beruházás tervezett kezdőnapja előtt nyilatkozik a következő adatokról:
 
@@ -54,4 +54,4 @@ j. annak bemutatása, hogy az adókedvezmény nem idéz elő kohézióellenes ha
 
 2.4. jogszabályok által előírt nyilatkozatok.
 
-[^72]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte, újonnan a 622/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 459/2025. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^69]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte, újonnan a 622/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 459/2025. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

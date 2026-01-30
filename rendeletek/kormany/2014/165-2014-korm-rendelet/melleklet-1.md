@@ -1,4 +1,4 @@
-1. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^71]
+1. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^68]
 
 ## Az adózó a Tao. törvény 22/B. § (1) bekezdés a)–j) pontja szerinti beruházás tervezett kezdőnapja előtt nyilatkozik a következő adatokról:
 
@@ -52,4 +52,4 @@ e. ugyanazon vármegyében a bejelentéssel vagy kérelemmel érintett beruház�
 
 2.9. az adókedvezmény igénybevételének tervezett ütemezése.
 
-[^71]: Az 1. melléklet a 459/2025. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^68]: Az 1. melléklet a 459/2025. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

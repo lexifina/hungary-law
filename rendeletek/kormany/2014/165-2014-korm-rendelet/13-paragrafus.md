@@ -1,1 +1,0 @@
-## 12. § A 7. § (2) bekezdésében és (5) bekezdésében foglaltakat az N 651/2006 számú Állami Támogatás – Magyarország támogatási programra tekintettel benyújtott bejelentés és kérelem vonatkozásában is alkalmazni kell.

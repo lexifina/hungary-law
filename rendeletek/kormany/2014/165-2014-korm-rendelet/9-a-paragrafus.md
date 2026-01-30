@@ -1,4 +1,4 @@
-## 9/A.[^61] A tiszta technológiák gyártási kapacitásának biztosítását szolgáló beruházás esetén igénybe vehető fejlesztési adókedvezményre vonatkozó különös szabályok
+## 9/A.[^56] A tiszta technológiák gyártási kapacitásának biztosítását szolgáló beruházás esetén igénybe vehető fejlesztési adókedvezményre vonatkozó különös szabályok
 
 9/A. § (1) A Tao. törvény 22/B. § (1) bekezdés l) pontja szerinti beruházás esetén e rendeletet a (2)–(14) bekezdés szerinti eltérésekkel kell alkalmazni.
 
@@ -56,4 +56,4 @@ b) azt a minimális összeget, amely a tiszta technológiát támogató fejleszt
 
 (14) Az adópolitikáért felelős miniszter az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére adatszolgáltatást teljesít, ha az adózó által a Tao. törvény 22/B. § (1) bekezdés l) pontja szerinti beruházáshoz igényelt adókedvezmény összege a jelenértéken 100 000 eurónak megfelelő forintösszeget meghaladja.
 
-[^61]: A 9/A. alcímet (9/A. §-t) a 459/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^56]: A 9/A. alcímet (9/A. §-t) a 459/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

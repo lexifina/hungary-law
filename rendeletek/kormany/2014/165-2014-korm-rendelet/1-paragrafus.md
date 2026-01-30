@@ -86,6 +86,8 @@ gd) azt az adózó nem az eszközei között tartja nyilván vagy nem a beruház
 
 h)[^18] a Tao. törvény 22/B. § (1) bekezdés g) pontja szerinti beruházás esetén a (2) bekezdés b) pontja alapján meghatározott személyi jellegű ráfordításnak az adózó adóévi számított átlagos állományi létszámának a tényleges adóévi átlagos állományi létszámot meghaladó részére arányosan számított összege, ahol az adóévi számított átlagos állományi létszámot a beruházás megkezdését megelőző adóévi átlagos állományi létszámnak és az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók átlagos állományi létszámának az összegeként kell meghatározni.
 
+i)[^19] azon eszközök bekerülési értéke, amelyek, a Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint a 35. ágazathoz kapcsolódó energiatermelést, energiaszolgáltatást szolgálják.
+
 [^1]: Az 1. § (1) bekezdés 1. pontja a 395/2017. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 1a. pontját a 395/2017. (XII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § (1) bekezdés 2. pontja a 622/2023. (XII. 22.) Korm. rendelet 5. § a) pontja, a 459/2025. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
@@ -104,3 +106,4 @@ h)[^18] a Tao. törvény 22/B. § (1) bekezdés g) pontja szerinti beruházás e
 [^16]: Az 1. § (2) bekezdés b) pontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 4. pontja, a 110/2022. (III. 21.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^17]: Az 1. § (3) bekezdés g) pont gb) alpontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
 [^18]: Az 1. § (3) bekezdés h) pontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 7. pontja, a 110/2022. (III. 21.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. § (3) bekezdés i) pontját a 459/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.

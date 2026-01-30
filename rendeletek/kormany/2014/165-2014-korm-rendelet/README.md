@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-165-20-
 | 2023-01-01 | 2014-165-20-22.9 | 110/2022. (III. 21.) Korm. rendelet |
 | 2023-12-23 | 2014-165-20-22.10 | 622/2023. (XII. 22.) Korm. rendelet |
 | 2026-01-01 | 2014-165-20-22.11 | 459/2025. (XII. 30.) Korm. rendelet |
+| 2026-01-30 | 2014-165-20-22.12 | 459/2025. (XII. 30.) Korm. rendelet |
