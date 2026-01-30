@@ -1,6 +1,6 @@
 ## Millió forint
 
-| Megnevezés | 2026. évi előirányzat |
+|  | Megnevezés | 2026. évi előirányzat |
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
@@ -15,6 +15,8 @@
 | Eseti ellátás díjazása | 649,3 |
 
 | Ügyeleti szolgálat | 34 060,8 |
+
+| Krónikus betegségmenedzsment program | 0,0 |
 
 | 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 296 534,0 |
 
@@ -48,7 +50,7 @@
 
 | 4. | Otthoni szakápolás | 12 980,8 |
 
-| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 12 852,3 |
+| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 13 348,7 |
 
 | 6. | Művesekezelés | 38 771,1 |
 
@@ -66,9 +68,11 @@
 
 | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
 
-| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 58 130,0 |
+| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 6 500,0 |
 
-| 7. | Célelőirányzatok összesen | 974 641,9 |
+| Működési támogatás | 80 000,0 |
+
+| 7. | Célelőirányzatok összesen | 1 003 011,9 |
 
 | 8. | Mentés | 45 781,5 |
 
@@ -76,35 +80,35 @@
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 221 118,0 |
+|  | 1. Járóbeteg-szakellátás | 237 118,0 |
 
-|  | Járóbeteg-szakellátás fedezete | 213 618,0 |
+| Járóbeteg-szakellátás fedezete | 213 618,0 |
 
-| Képalkotó diagnosztikai várólista csökkentő program | 7 500,0 |
+| Képalkotó diagnosztikai várólista csökkentő program | 23 500,0 |
 
-| Népegészségügy fejlesztése | 2 717,5 |
+| 2. Népegészségügy fejlesztése | 2 717,5 |
 
-| Többletkapacitás befogadás fedezete | 4 000,0 |
+| 3. Többletkapacitás befogadás fedezete | 4 000,0 |
 
-| Működési költségelőleg | 2 000,0 |
+| 4. Működési költségelőleg | 2 000,0 |
 
-| Molekuláris diagnosztikai (PCR) ellátás | 10 802,1 |
+| 5. Molekuláris diagnosztikai (PCR) ellátás | 10 802,1 |
 
-| Fekvőbeteg-szakellátás | 762 602,0 |
+| 6. Fekvőbeteg-szakellátás | 762 602,0 |
 
-|  | aktív fekvőbeteg-szakellátás | 661 709,7 |
+| aktív fekvőbeteg-szakellátás | 661 709,7 |
 
 | krónikus fekvőbeteg-szakellátás | 93 686,6 |
 
 | fogvatartottak egészségügyi ellátása | 1 927,6 |
 
-| várólista csökkentés | 5 000,0 |
+| várólista csökkentés | 5 278,1 |
 
-| Extrafinanszírozás | 1 000,0 |
+| 7. Extrafinanszírozás | 1 000,0 |
 
-| Speciális finanszírozású szakellátás | 74 382,8 |
+| 8. Speciális finanszírozású szakellátás | 74 382,8 |
 
-| 10. | Összevont szakellátás összesen | 1 078 622,4 |
+| 10. | Összevont szakellátás összesen | 1 094 622,4 |
 
 | 12. | Gyógyító-megelőző ellátás céltartalék | 7 460,1 |
 
@@ -112,7 +116,7 @@
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 195 000,0 |
 
-| ÖSSZESEN | 2 886 835,2 |
+| ÖSSZESEN | 2 931 701,6 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^661]
 
