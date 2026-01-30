@@ -4,9 +4,9 @@ A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és m�
 
 1. A szakkíséretre vonatkozó személyi feltételek
 
-1.1.[^106] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
+1.1.[^121] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
 
-1.2.[^107] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
+1.2.[^122] Szakkísérői képesítést az a „B” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
 
 1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
 
@@ -26,9 +26,9 @@ A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és m�
 
 2.1. Kísérő jármű, amely alkalmas a 2.3. pontban foglalt berendezés előírt módon történő üzemeltetésére, és amelynek szerkezeti magassága legalább 1800 mm.
 
-2.2. 2 db jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
+2.2.[^123] 2 db, minden irányból jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
 
-2.3. Külön jogszabályban meghatározott: „előzni tilos” és „tehergépkocsival előzni tilos” jelzőtáblák jelzését a mögöttes forgalom, valamint „egyéb veszély” jelzőtábla jelzését a szembejövő és a mögöttes forgalom számára mutató, változtatható jelzésképű, legkevesebb 1250×1050 mm méretű, piros-fehér sávozású, lehajtható kivitelű berendezés, amely a kísérő jármű tetején van elhelyezve.
+2.3.[^124] A közúti közlekedés szabályairól szóló rendeletben meghatározott „előzni tilos” és „tehergépkocsival előzni tilos” jelzőtáblák jelzését a mögöttes forgalom, valamint „egyéb veszély” jelzőtábla jelzését a szembejövő és a mögöttes forgalom számára mutató, változtatható jelzésképű, piros-fehér sávozású, lehajtható kivitelű berendezés, amely a kísérő jármű tetején van elhelyezve.
 
 2.4. A kísérő jármű hátsó homlokfelülete piros-fehér sávozású, fényvisszaverésre alkalmas felülettel legyen megjelölve, amely homlokfelületen legyen kialakítva egy rögzítési pont a mögöttes forgalom számára szolgáló tájékoztatást adó jelzés rögzítésére.
 
@@ -46,15 +46,15 @@ A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és m�
 
 2.11. Legkevesebb 2 db, legalább 400×400 mm méretű, piros-fehér csíkos tábla vagy piros zászló.
 
-2.12. Legalább 50 m hosszúságú mérőszalag.
+2.12.[^125] Legalább 50 m hosszúságot egyben mérő távolságmérő.
 
-2.13. A rakomány és az út feletti akadály magasságának ellenőrzésére alkalmas teleszkópos magasságmérő rúd.
+2.13.[^126] A rakomány és az út feletti akadály magasságának ellenőrzésére alkalmas teleszkópos magasságmérő rúd vagy lézeres távolságmérő.
 
 2.14. Munkavégzés helyét megvilágító lámpa.
 
 2.15. Forgalomkorlátozást biztosító eszközök:
 
-2.15.1. terelőkúp, legkevesebb 4 db,
+2.15.1.[^127] terelőkúp, legkevesebb 4 db, minimum 45 cm magasak, körben minimum 10 cm vastag fényvisszavető fóliával,
 
 2.15.2. kihelyezhető, villogó, borostyánsárga fényt adó lámpa, legkevesebb 2 db,
 
@@ -70,7 +70,7 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 
 4. Az egyéb kíséret ellátásához előírt tárgyi feltételek
 
-4.1. Legalább 1 db jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
+4.1.[^128] Legalább 1 db, minden irányból jól látható módon elhelyezett, figyelmeztető jelzést adó berendezés.
 
 4.2. A kísérő jármű hátsó homlokfelülete piros-fehér sávozású, fényvisszaverésre alkalmas felülettel legyen megjelölve, amely homlokfelületen legyen kialakítva egy rögzítési pont a mögöttes forgalom számára szolgáló tájékoztatást adó jelzés rögzítésére.
 
@@ -82,13 +82,13 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 
 4.6. Jelzőőri jeladásra alkalmas jelzőtárcsa (fényvisszavető fóliával vagy fénykibocsátó eszközzel ellátva).
 
-4.7. Legkevesebb 2 db, legalább 400×400 mm méretű, piros-fehér csíkos tábla vagy piros zászló.
+4.7.[^129] Legkevesebb 2 db, legalább 400×400 mm méretű, piros-fehér fényvisszaverő felületű csíkos tábla vagy piros zászló.
 
-4.8. Legalább 50 m hosszúságú mérőszalag.
+4.8.[^130] Legalább 50 m hosszúságot egyben mérő távolságmérő.
 
 4.9. Forgalomkorlátozást biztosító eszközök:
 
-4.9.1. terelőkúp, legkevesebb 4 db,
+4.9.1.[^131] terelőkúp, legkevesebb 4 db, minimum 45 cm magas, körben minimum 10 cm vastag fényvisszavető fóliával,
 
 4.9.2. jelzőszalag.
 
@@ -96,5 +96,14 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 
 4.11. A hajtott kerekekre felszerelhető hólánc.
 
-[^106]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
-[^107]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.
+[^121]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
+[^122]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított, az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^123]: A 4. melléklet 2.2. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^124]: A 4. melléklet 2.3. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^125]: A 4. melléklet 2.12. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^126]: A 4. melléklet 2.13. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^127]: A 4. melléklet 2.15.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^128]: A 4. melléklet 4.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^129]: A 4. melléklet 4.7. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdése szerint módosított szöveg.
+[^130]: A 4. melléklet 4.8. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^131]: A 4. melléklet 4.9.1. pontja az 50/2025. (XII. 30.) ÉKM rendelet 17. § (4) bekezdésével megállapított szöveg.

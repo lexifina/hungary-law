@@ -1,0 +1,3 @@
+21/A. §[^94] A közúti közlekedésről szóló 1988. évi I. törvény 21/K. §-ában meghatározott Nemzeti Tengelysúlymérő Rendszer elemeként működő, továbbá a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére szolgáló „Közúti ellenőrzés” és alatta „Traffic Control” közúti jelzőtáblával megjelölt mérőpontokon a járművezető köteles a terelő- vagy záróvonalakkal határolt forgalmi sáv közepén, a forgalmi viszonyoknak megfelelő egyenletes sebességgel, a közúti közlekedés szabályairól szóló jogszabályban előírt követési távolság betartásával áthaladni.
+
+[^94]: A 21/A. §-t az 50/2025. (XII. 30.) ÉKM rendelet 13. §-a iktatta be.

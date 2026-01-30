@@ -22,7 +22,7 @@ bb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek e
 
 a 11,5 tonnát,
 
-c) tengelycsoport-terhelés vonatkozásában
+c)[^3] tengelycsoport-terhelés vonatkozásában
 
 ca) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,00 méter, de 1,30 méternél kisebb, a 16,0 tonnát,
 
@@ -30,13 +30,13 @@ cb) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek e
 
 cc) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága 1,30 méternél kisebb, a 22,0 tonnát,
 
-cd) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 24,0 tonnát, valamint
+cd) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek távolsága az egyik esetében 1,3 méternél kisebb, a másik esetében pedig 1,30 méternél nagyobb és 1,8 méternél kisebb, a 21 tonnát,
 
-ce) háromnál több, páratlan számú tengelyből álló tengelycsoportban elhelyezkedő, a (4) bekezdés b) pontja szerint képzett, három tengelyből álló tengelycsoport esetén 28,5 tonnát
+ce) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 24,0 tonnát,
 
-meghaladja.
+cf) háromnál több, páratlan számú tengelyből álló tengelycsoportban elhelyezkedő, a (4) bekezdés b) pontja szerint képzett, három tengelyből álló tengelycsoport esetén a 28,5 tonnát
 
-(1a)[^3] E rendelet alkalmazásában túlméretes járműnek minősül az a jármű, vagy járműszerelvény, amely mérete vonatkozásában:
+(1a)[^4] E rendelet alkalmazásában túlméretes járműnek minősül az a jármű, vagy járműszerelvény, amely mérete vonatkozásában:
 
 a) a 4,00 méter magasságot,
 
@@ -54,7 +54,7 @@ meghaladja.
 
 (2) A megengedett legnagyobb tengelyterhelést meghaladó járműnek minősül a jármű abban az esetben is, ha a tengelycsoportba tartozó bármely tengely terhelése meghaladja a 11,5 tonnát.
 
-(3)[^4] A jármű az eltérés mértéke szerint lehet
+(3)[^5] A jármű az eltérés mértéke szerint lehet
 
 a) kis mértékben
 
@@ -84,6 +84,10 @@ kell képezni.
 
 (5) Az (1) és a (4) bekezdésben foglaltak alkalmazásakor a járműnek kizárólag azt a tengelyét kell tengelyként számításba venni, amelynek kerekei a mérés időpontjában az úttesttel érintkeznek.
 
+(6)[^6] A gumibetéttel ellátott vagy gumiszőnyegek leterítésével közlekedő lánctalpas jármű – kivéve a 8. § (1) bekezdés c) pontja szerinti jármű – tengely-, tengelycsoport-terhelésének meghatározásánál a futógörgőkre eső terhelést – az össztömeg egyenletes elosztásával – és azok egymástól való távolságát kell figyelembe venni.
+
 [^2]: A 2. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^4]: A 2. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja az 50/2025. (XII. 30.) ÉKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (6) bekezdését az 50/2025. (XII. 30.) ÉKM rendelet 2. § (2) bekezdése iktatta be.

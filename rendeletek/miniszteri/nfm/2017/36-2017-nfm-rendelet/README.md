@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-2
 | 2022-11-01 | 2017-36-20-2W.14 | 1/2022. (VI. 24.) TIM rendelet |
 | 2024-01-03 | 2017-36-20-2W.15 | 44/2023. (XII. 29.) ÉKM rendelet |
 | 2025-04-28 | 2017-36-20-2W.16 | 6/2025. (II. 27.) ÉKM rendelet |
+| 2026-01-30 | 2017-36-20-2W.17 | 50/2025. (XII. 30.) ÉKM rendelet |

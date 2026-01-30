@@ -1,20 +1,68 @@
 |  | A | B |
 
-| 1. | Az eljárás | Eljárási díj (Ft) |
+| 1 | Az eljárás megnevezése | Az eljárás díja (minden új eljárás esetén, Ft összegben) |
 
-| 2. | Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (elektronikus úton, ügyintéző közreműködése nélkül): – az össztömeg vonatkozásában 20% – a tengelyterhelés vonatkozásában 5% – a tengelycsoport-terhelés vonatkozásában 5% – a magasság vonatkozásában 10% – a szélesség vonatkozásában 20% – a hosszúság vonatkozásában 20% | 6000 |
+| 2 | Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (elektronikus úton, ügyintéző közreműködése nélkül) | 7 000 |
 
-| 3. | Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (személyesen, ügyintéző közreműködésével): – az össztömeg vonatkozásában 20% – a tengelyterhelés vonatkozásában 5% – a tengelycsoport-terhelés vonatkozásában 5% – a magasság vonatkozásában 10% – a szélesség vonatkozásában 20% – a hosszúság vonatkozásában 20% | 10 000 |
+| 3 | az össztömeg vonatkozásában 20% |
 
-| 4. | Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt: – az össztömeg vonatkozásában 100% – a tengelyterhelés vonatkozásában 10% – a tengelycsoport-terhelés vonatkozásában 10% – a magasság vonatkozásában 20% – a szélesség vonatkozásában 70% – a hosszúság vonatkozásában 80% | 12 000 |
+| 4 | a tengelyterhelés vonatkozásában 5% |
 
-| 5. | Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt: – az össztömeg vonatkozásában 150% – a tengelyterhelés vonatkozásában 20% – a tengelycsoport-terhelés vonatkozásában 20% – a magasság vonatkozásában 30% – a szélesség vonatkozásában 100% – a hosszúság vonatkozásában 100% | 15 000 |
+| 5 | a tengelycsoport-terhelés vonatkozásában 30% |
 
-| 6. | Egyedi elbírálás alapján megadott hozzájárulás esetében a 4. sorban szereplő össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések esetén vagy afölött | 30 000 |
+| 6 | a magasság vonatkozásában 5% |
 
-| 7. | Az úthálózat-hozzáférési hozzájárulás esetében | 45 000 |
+| 7 | a szélesség vonatkozásában 20% |
 
-2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^104]
+| 8 | a hosszúság vonatkozásában 20% |
+
+| 9 | Egyszerűsített eljárás keretében megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt (személyesen, ügyintéző közreműködésével) | 13 000 |
+
+| 10 | az össztömeg vonatkozásában 20% |
+
+| 11 | a tengelyterhelés vonatkozásában 5% |
+
+| 12 | a tengelycsoport-terhelés vonatkozásában 30% |
+
+| 13 | a magasság vonatkozásában 12,5% |
+
+| 14 | a szélesség vonatkozásában 35% |
+
+| 15 | a hosszúság vonatkozásában 57% |
+
+| 16 | Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt | 15 600 |
+
+| 17 | az össztömeg vonatkozásában 100% |
+
+| 18 | a tengelyterhelés vonatkozásában 10% |
+
+| 19 | a tengelycsoport-terhelés vonatkozásában 50% |
+
+| 20 | a magasság vonatkozásában 20% |
+
+| 21 | a szélesség vonatkozásában 70% |
+
+| 22 | a hosszúság vonatkozásában 80% |
+
+| 23 | Egyedi elbírálás alapján megadott hozzájárulás esetében az alábbi össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések alatt | 19 500 |
+
+| 24 | az össztömeg vonatkozásában 150% |
+
+| 25 | a tengelyterhelés vonatkozásában 20% |
+
+| 26 | a tengelycsoport-terhelés vonatkozásában 60% |
+
+| 27 | a magasság vonatkozásában 25% |
+
+| 28 | a szélesség vonatkozásában 100% |
+
+| 29 | a hosszúság vonatkozásában 100% |
+
+| 30 | Egyedi elbírálás alapján megadott hozzájárulás esetében a 23–29. sorban szereplő össztömeg, tengelyterhelés, tengelycsoport-terhelés és mérettúllépések esetén vagy afölött | 39 000 |
+
+| 31 | Az úthálózat-hozzáférési hozzájárulás esetében | 58 500 |
+
+2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^119]
 
 A túlsúlydíj, illetve túlméretdíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén
 
@@ -22,54 +70,54 @@ A túlsúlydíj, illetve túlméretdíj mértéke az egyedi elbírálás alapjá
 
 |  | A | B | C | D | E |
 
-| 1. | A megengedett értéktől történő eltérés mértéke [%] | … < 5% (Ft/km) | 5% ≤ … < 10% (Ft/km) | 10% ≤ … < 20% (Ft/km) | 20% ≤ … < 30% (Ft/km) |
+| 1 | A megengedett értéktől történő eltérés mértéke [%] | … < 5% (Ft/km) | 5% ≤ … < 10% (Ft/km) | 10% ≤ … < 20% (Ft/km) | 20% ≤ … < 30% (Ft/km) |
 
-| 2. | Össztömeg (t) | 100 | 140 | 200 | 230 |
+| 2 | Össztömeg (t) | 130 | 182 | 260 | 299 |
 
-| 3. | Tengelyterhelés (t) | 60 | 130 | 380 | 760 |
+| 3 | Tengelyterhelés (t) | 78 | 169 | 494 | 988 |
 
-| 4. | Tengelycsoport (t) | 100 | 190 | 440 | 830 |
+| 4 | Tengelycsoport (t) | 130 | 247 | 572 | 1079 |
 
-| 5. | Magasság (m) | 4 | 6 | 8 | 10 |
+| 5 | Magasság (m) | 6 | 8 | 10 | 13 |
 
-| 6. | Szélesség (m) | 4 | 6 | 8 | 10 |
+| 6 | Szélesség (m) | 6 | 8 | 10 | 13 |
 
-| 7. | Hosszúság (m) | 4 | 6 | 8 | 10 |
+| 7 | Hosszúság (m) | 6 | 8 | 10 | 13 |
 
 2. táblázat: 30% ≤ … < 70% között
 
 |  | A | B | C | D | E |
 
-| 1. | A megengedett értéktől történő eltérés mértéke [%] | 30% ≤ … < 40% (Ft/km) | 40% ≤ … < 50% (Ft/km) | 50% ≤ … < 60% (Ft/km) | 60% ≤ … < 70% (Ft/km) |
+| 1 | A megengedett értéktől történő eltérés mértéke [%] | 30% ≤ … < 40% (Ft/km) | 40% ≤ … < 50% (Ft/km) | 50% ≤ … < 60% (Ft/km) | 60% ≤ … < 70% (Ft/km) |
 
-| 2. | Össztömeg (t) | 250 | 280 | 380 | 440 |
+| 2 | Össztömeg (t) | 325 | 364 | 494 | 572 |
 
-| 3. | Tengelyterhelés (t) | 1520 | 2030 | 2790 | 3050 |
+| 3 | Tengelyterhelés (t) | 1976 | 2639 | 3627 | 3965 |
 
-| 4. | Tengelycsoport (t) | 1210 | 1900 | 2160 | 2410 |
+| 4 | Tengelycsoport (t) | 1573 | 2470 | 2808 | 3133 |
 
-| 5. | Magasság (m) | 14 | 18 | 20 | 25 |
+| 5 | Magasság (m) | 18 | 23 | 26 | 33 |
 
-| 6. | Szélesség (m) | 14 | 18 | 20 | 25 |
+| 6 | Szélesség (m) | 18 | 23 | 26 | 33 |
 
-| 7. | Hosszúság (m) | 14 | 18 | 20 | 25 |
+| 7 | Hosszúság (m) | 18 | 23 | 26 | 33 |
 
 3. táblázat: 70% ≤ … < 100% között, valamint 100% ≤ … (10%-onként)
 
 |  | A | B | C | D | E |
 
-| 1. | A megengedett értéktől történő eltérés mértéke [%] | 70% ≤ … < 80% (Ft/km) | 80% ≤ … < 90% (Ft/km) | 90% ≤ … < 100% (Ft/km) | megelőző határ ≤ … < +10% (Ft/km) |
+| 1 | A megengedett értéktől történő eltérés mértéke [%] | 70% ≤ … < 80% (Ft/km) | 80% ≤ … < 90% (Ft/km) | 90% ≤ … < 100% (Ft/km) | megelőző határ ≤ … < +10% (Ft/km) |
 
-| 2. | Össztömeg (t) | 570 | 630 | 890 | 250 |
+| 2 | Össztömeg (t) | 741 | 819 | 1157 | 325 |
 
-| 3. | Tengelyterhelés (t) | 3300 | 3560 | 3810 | 250 |
+| 3 | Tengelyterhelés (t) | 4290 | 4628 | 4953 | 325 |
 
-| 4. | Tengelycsoport (t) | 2670 | 2920 | 3175 | 250 |
+| 4 | Tengelycsoport (t) | 3471 | 3796 | 4128 | 325 |
 
-| 5. | Magasság (m) | 30 | 35 | 40 | 20 |
+| 5 | Magasság (m) | 39 | 42 | 52 | 26 |
 
-| 6. | Szélesség (m) | 30 | 35 | 40 | 20 |
+| 6 | Szélesség (m) | 39 | 42 | 52 | 26 |
 
-| 7. | Hosszúság (m) | 30 | 35 | 40 | 20 |
+| 7 | Hosszúság (m) | 39 | 42 | 52 | 26 |
 
-[^104]: A 2. melléklet a 28. § (3) bekezdésével megállapított szöveg.
+[^119]: A 2. melléklet az 50/2025. (XII. 30.) ÉKM rendelet 17. § (2) bekezdésével megállapított szöveg.

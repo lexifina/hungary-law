@@ -1,38 +1,38 @@
 ## 10. Módosító rendelkezések
 
-28. § (1)[^87]
+28. § (1)[^102]
 
-(2)[^88]
+(2)[^103]
 
-(3)[^89]
+(3)[^104]
 
-(4)[^90]
+(4)[^105]
 
-(5)[^91]
+(5)[^106]
 
-(6)[^92]
+(6)[^107]
 
-(7)[^93]
+(7)[^108]
 
-(8)[^94]
+(8)[^109]
 
-(9)[^95]
+(9)[^110]
 
-(10)[^96]
+(10)[^111]
 
-(11)[^97]
+(11)[^112]
 
-(12)[^98]
+(12)[^113]
 
-[^87]: A 28. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^88]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^89]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^90]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^91]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^92]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^93]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^94]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^95]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^96]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^97]: A 28. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^98]: A 28. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 28. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^103]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 28. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^107]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^108]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 28. § (7)–(10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 28. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^113]: A 28. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

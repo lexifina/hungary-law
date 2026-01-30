@@ -1,10 +1,10 @@
 ## 6. Egyszerűsített eljárásban megadott hozzájárulás
 
-16. § (1)[^68] Egyszerűsített eljárás – az (1a) bekezdésben meghatározott kivétellel – csak a 3. § (3) bekezdésében megadott értékeknél kisebb eltérés esetén alkalmazható.
+16. § (1)[^78] Egyszerűsített eljárás – az (1a) bekezdésben meghatározott kivétellel – csak a 3. § (3) bekezdésében megadott értékeknél kisebb eltérés esetén alkalmazható.
 
-(1a)[^69] Egyszerűsített eljárás alkalmazható az (1) bekezdésben megadott értékeken felül legfeljebb
+(1a)[^79] Egyszerűsített eljárás alkalmazható az (1) bekezdésben megadott értékeken felül legfeljebb
 
-a) a magasság vonatkozásában 4,50 méter magasságig
+a)[^80] a magasság vonatkozásában 4,30 méter magasságig
 
 b) a szélesség vonatkozásában 3,50 méter szélességig, valamint
 
@@ -32,5 +32,6 @@ igényelhető.
 
 (3) A (2) bekezdés szerint igényelt hozzájárulás a kérelem benyújtását követően azonnal létrejön.
 
-[^68]: A 16. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^69]: A 16. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 11. § (2) bekezdése iktatta be.
+[^78]: A 16. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^79]: A 16. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 11. § (2) bekezdése iktatta be.
+[^80]: A 16. § (1a) bekezdés a) pontja az 50/2025. (XII. 30.) ÉKM rendelet 16. § d) pontja szerint módosított szöveg.
