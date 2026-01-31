@@ -44,9 +44,11 @@ ec) tartalmazza a legjellemzőbb tevékenység vagy munkaterület ellátásához
 
 ed) a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetenciákkal a tevékenység, munkaterületi feladat elvégezhető vagy magasabb szinten gyakorolható,
 
-ee)[^1] a legjellemzőbb tevékenység vagy munkaterület leírása egyértelműen meghatározott és a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetencia a tevékenység végzéséhez vagy a munkaterületen szükséges, valamint
+ee)[^4] a legjellemzőbb tevékenység vagy munkaterület leírása egyértelműen meghatározott és a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetencia a tevékenység végzéséhez vagy a munkaterületen szükséges, valamint
 
 ef) bemutatásra kerül, hogy a tervezett képzésre mely társadalmi-gazdasági területeken van szükség.
+
+f)[^5] a felnőttképzésről szóló 2013. évi LXXVII. törvény 2/A. § (4) bekezdése alá tartozó szakképesítésre felkészítő szakmai képzések esetén a programkövetelmény tartalmazza a személyi és tárgyi feltételek megléte igazolásának módját.
 
 (2) A szakmai képzés megkezdéséhez szükséges bemeneti feltételek megfelelőek, ha
 
@@ -68,6 +70,8 @@ c) az egészségügyi alkalmassági követelményt – a tevékenység végzése
 
 d) a gyakorlati idő és más feltétel előírását a megszerezhető kompetencia indokolja.
 
-(3) A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak több mint harminc százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
+(3)[^6] A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak vagy bármely szakképesítésre felkészítő szakmai képzés programkövetelményében meghatározott kompetenciáinak több mint harminc százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
 
-[^1]: A 2. § (1) bekezdés e) pont ee) alpontja a 29/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés e) pont ee) alpontja a 29/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés f) pontját az 1/2026. (I. 30.) KIM rendelet 3. §-a iktatta be.
+[^6]: A 2. § (3) bekezdése az 1/2026. (I. 30.) KIM rendelet 6. § c) pontja szerint módosított szöveg.
