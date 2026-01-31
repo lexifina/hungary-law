@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 8. § (2) bekezdése alapján 2026. január 31-én lép hatályba.
+6. § Az R. 1a. melléklete a 2. melléklet szerint módosul.

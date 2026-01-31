@@ -1,3 +1,3 @@
-4. §[^4]
+4. § Az R. a következő 19. §-sal egészül ki:
 
-[^4]: A 4. § a 8. § (2) bekezdése alapján 2026. január 31-én lép hatályba.
+„19. § E rendelet Módr10.-zel megállapított 1a. mellékletében foglalt táblázat 3. sorát a 2026. január 31-én folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
