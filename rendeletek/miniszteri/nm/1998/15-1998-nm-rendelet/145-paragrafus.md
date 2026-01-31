@@ -78,7 +78,7 @@ c) egy gyermek vagy testvérek, valamint testvérek esetén hány gyermek
 
 (10)[^578] A szakszolgálat a gyámhivatalnak a Gyer. 41. § (1a) bekezdése szerinti megkeresése alapján megvizsgálja az örökbe fogadni szándékozó házastárs vagy rokon alkalmasságát, és örökbefogadás előtti tanácsadást nyújt számára. Az erről szóló véleményét, az örökbefogadásra vonatkozó javaslatát és az örökbefogadás előtti tanácsadáson való részvételről szóló igazolást a szakszolgálat megküldi a gyámhivatalnak.
 
-(11)[^579] A szakszolgálat az örökbefogadásra való alkalmassági vizsgálat folyamatának rögzítését a kérelem benyújtását követő ötödik napon a GYVR örökbefogadási alrendszerében elkezdi, és folyamatában végzi az örökbefogadói alkalmasságról szóló határozat véglegessé válásáig.
+(11)[^579] A szakszolgálat az örökbefogadásra való alkalmassági vizsgálat folyamatának rögzítését a kérelem benyújtásakor, de legkésőbb két munkanapon belül a GYVR örökbefogadási alrendszerében elkezdi, és folyamatában végzi az örökbefogadói alkalmasságról szóló határozat véglegessé válásáig.
 
 [^559]: Az „Az örökbe fogadható gyermekek adatainak a GYVR-ben való rögzítése, valamint az örökbe fogadni szándékozó személyek alkalmassági vizsgálatával, örökbefogadásra történő felkészítésével kapcsolatos feladatok” alcím címe a 34/2020. (X. 2.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^560]: A 145. § (1) bekezdése a 34/2020. (X. 2.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.
@@ -100,4 +100,4 @@ c) egy gyermek vagy testvérek, valamint testvérek esetén hány gyermek
 [^576]: A 145. § (9) bekezdését a 26/2013. (III. 29.) EMMI rendelet 25. § (3) bekezdése iktatta be.
 [^577]: A 145. § (9) bekezdés b) pontja a 19/2014. (III. 13.) EMMI rendelet 24. § (4) bekezdésével megállapított szöveg.
 [^578]: A 145. § (10) bekezdését a 26/2013. (III. 29.) EMMI rendelet 25. § (3) bekezdése iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 24. § (5) bekezdésével megállapított szöveg.
-[^579]: A 145. § (11) bekezdését a 34/2020. (X. 2.) EMMI rendelet 5. § (3) bekezdése iktatta be, szövege a 26/2025. (XII. 30.) KIM rendelet 3. §-ával megállapított szöveg.
+[^579]: A 145. § (11) bekezdését a 34/2020. (X. 2.) EMMI rendelet 5. § (3) bekezdése iktatta be, szövege az 1/2026. (I. 30.) KIM rendelet 1. §-ával megállapított szöveg.
