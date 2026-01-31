@@ -18,7 +18,7 @@ a) Megnevezés
 
 b) Azonosító
 
-4.[^4] A mikrotanúsítvány adatai
+4.[^5] A mikrotanúsítvány adatai
 
 a) A mikrotanúsítvány (szakképzési tankönyv vagy annak fejezete) megnevezése, szakképzési tankönyv megnevezése és nyilvántartásba vételi száma
 
@@ -56,4 +56,4 @@ b) Típusa
 
 c) Kibocsátásának helye és időpontja
 
-[^4]: Az 1. melléklet 4. pontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. melléklet 4. pontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
