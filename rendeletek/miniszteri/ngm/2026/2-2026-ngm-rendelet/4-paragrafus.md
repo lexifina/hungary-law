@@ -1,3 +1,3 @@
-4. § A Rendelet 5. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő e) ponttal egészül ki:
+4. §[^5]
 
-(Az üzemben tartó a hozzájáruló nyilatkozat kiadását abban az esetben tagadhatja meg, ha)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

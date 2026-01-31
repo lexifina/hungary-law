@@ -1,5 +1,3 @@
-13. § Hatályát veszti a Rendelet
+13. §[^14]
 
-a) 12. § h) pontja,
-
-b) 9. alcíme.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. § A Rendelet 13. § (3) bekezdése a következő i) ponttal egészül ki:
+9. §[^10]
 
-(A biztonsági övezetben csak a villamos berendezés üzemben tartójának előzetes hozzájárulásával végezhetőek az alábbi tevékenységek:)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

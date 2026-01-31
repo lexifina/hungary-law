@@ -1,7 +1,3 @@
-## „d) az üzemben tartó megállapítja, hogy az esetleges veszélyhelyzetet más eszközzel nem lehet elkerülni, megszüntetni, vagy
+5. §[^6]
 
-## e) az igénylés tartalmilag nem felel meg az e rendeletben foglaltaknak.”
-
-5. § A Rendelet a következő 5/A. §-sal egészül ki:
-
-„5/A. § E rendelet hatálya alá tartozó építmények és berendezések biztonsági övezetei átfedhetik egymást.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
