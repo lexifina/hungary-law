@@ -1,1 +1,3 @@
-22. § Hatályát veszti a vámjogi szakértői hatósági képzésről és hatósági vizsgáról szóló 40/2016. (XI. 17.) NGM rendelet.
+22. §[^1]
+
+[^1]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
