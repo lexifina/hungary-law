@@ -2,16 +2,16 @@
 
 (2) A 16. § (1) bekezdés a) pontja szerinti fizetési művelet esetében a fizető fél pénzforgalmi szolgáltatója biztosítja, hogy a fizetési művelet összege a kedvezményezett pénzforgalmi szolgáltatójának a számláján legkésőbb a fizetési megbízás 7. § szerinti átvételét és a teljesítéshez vagy részteljesítéshez szükséges fedezet fizető fél fizetési számláján történő rendelkezésre állását követő négy órán belül jóváírásra kerüljön, ha
 
-a)[^33] a fizetési megbízás átutalás teljesítésére szól, ide nem értve az azonnali átutalást, a hatósági átutalást és az átutalási végzés alapján történő átutalást, és
+a)[^36] a fizetési megbízás átutalás teljesítésére szól, ide nem értve az azonnali átutalást, a hatósági átutalást és az átutalási végzés alapján történő átutalást, és
 
-ba)[^34] a fizetési megbízást a fizető fél nem papír alapon nyújtja be, vagy
+ba)[^37] a fizetési megbízást a fizető fél nem papír alapon nyújtja be, vagy
 
-bb)[^35] a papír alapon benyújtott rendszeres átutalási megbízás ismételten, az első terhelési napot követően kerül teljesítésre.
+bb)[^38] a papír alapon benyújtott rendszeres átutalási megbízás ismételten, az első terhelési napot követően kerül teljesítésre.
 
 (3) Azonnali átutalási megbízás esetében a fizető fél pénzforgalmi szolgáltatója biztosítja, hogy legkésőbb a fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül a fizetési művelet összege a kedvezményezett pénzforgalmi szolgáltatójának a számláján jóváírásra kerüljön.
 
 (4) A közvetítő pénzforgalmi szolgáltató az azonnali átutalás teljesítéséből rá háruló feladatokat oly módon teljesíti, hogy az biztosítsa a (3) bekezdés szerinti teljesítési határidő betartását.
 
-[^33]: A 17. § (2) bekezdés a) pontja a 61. § 3. pontja szerint módosított szöveg.
-[^34]: A 17. § (2) bekezdés a) pont ba) alpontja az 57/2022. (XII. 22.) MNB rendelet 4. §-ával megállapított szöveg. [A módosító rendelkezés a 17. § (2) bekezdés b) pontját szabályozta újra ba) alpontként.]
-[^35]: A 17. § (2) bekezdés a) pont bb) alpontját az 57/2022. (XII. 22.) MNB rendelet 4. §-a iktatta be.
+[^36]: A 17. § (2) bekezdés a) pontja a 61. § 3. pontja szerint módosított szöveg.
+[^37]: A 17. § (2) bekezdés a) pont ba) alpontja az 57/2022. (XII. 22.) MNB rendelet 4. §-ával megállapított szöveg. [A módosító rendelkezés a 17. § (2) bekezdés b) pontját szabályozta újra ba) alpontként.]
+[^38]: A 17. § (2) bekezdés a) pont bb) alpontját az 57/2022. (XII. 22.) MNB rendelet 4. §-a iktatta be.

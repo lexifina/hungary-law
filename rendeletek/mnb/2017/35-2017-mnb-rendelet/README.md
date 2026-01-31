@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2
 | 2024-09-01 | 2017-35-20-2C.18 | 65/2023. (XII. 15.) MNB rendelet |
 | 2025-07-01 | 2017-35-20-2C.19 | 15/2025. (VI. 16.) MNB rendelet |
 | 2025-10-01 | 2017-35-20-2C.21 | 15/2025. (VI. 16.) MNB rendelet |
+| 2026-01-31 | 2017-35-20-2C.22 | 15/2025. (VI. 16.) MNB rendelet |

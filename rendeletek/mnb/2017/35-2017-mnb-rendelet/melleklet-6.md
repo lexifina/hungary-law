@@ -1,4 +1,4 @@
-6. melléklet a 35/2017. (XII. 14.) MNB rendelethez[^89]
+6. melléklet a 35/2017. (XII. 14.) MNB rendelethez[^92]
 
 Az azonnali átutalási megbízás benyújtásához alkalmazható egységes adatbeviteli megoldások technikai jellemzői
 
@@ -20,4 +20,4 @@ c) egységes erőforrás-helymeghatározó (a továbbiakban: URL) használatáva
 
 4. A 3. pontban meghatározott hitelesítő kód mellett az azonnali átutalási megbízás benyújtásához alkalmazható egységes adatbeviteli megoldások alkalmazása során az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszer üzemeltetője által meghatározott technikai jellemzőket és adatmezőket kötelező használni.
 
-[^89]: A 6. mellékletet a 65/2023. (XII. 15.) MNB rendelet 12. § (4) bekezdése iktatta be.
+[^92]: A 6. mellékletet a 65/2023. (XII. 15.) MNB rendelet 12. § (4) bekezdése iktatta be.
