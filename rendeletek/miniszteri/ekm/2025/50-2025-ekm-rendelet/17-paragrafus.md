@@ -1,7 +1,3 @@
-17. § (1) Az R. 1. melléklete helyébe az 1. melléklet lép.
+17. §[^18]
 
-(2) Az R. 2. melléklete helyébe a 2. melléklet lép.
-
-(3) Az R. 3. melléklete helyébe a 3. melléklet lép.
-
-(4) Az R. 4. melléklete a 4. melléklet szerint módosul.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

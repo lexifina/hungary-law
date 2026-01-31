@@ -1,3 +1,3 @@
-4. § Az R 7. §-a a következő 4a. ponttal egészül ki:
+4. §[^5]
 
-(E rendelet alkalmazásában:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

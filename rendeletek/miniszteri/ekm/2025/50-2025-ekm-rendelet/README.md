@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-50-20-8
 | 2026-01-04 | 2025-50-20-8X.1 | 50/2025. (XII. 30.) ÉKM rendelet |
 | 2026-01-05 | 2025-50-20-8X.2 | 2010. évi CXXX. törvény |
 | 2026-01-30 | 2025-50-20-8X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-01-31 | 2025-50-20-8X.4 | 2010. évi CXXX. törvény |

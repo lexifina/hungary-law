@@ -1,3 +1,3 @@
-13. § Az R. a következő 21/A. §-sal egészül ki:
+13. §[^14]
 
-„21/A. § A közúti közlekedésről szóló 1988. évi I. törvény 21/K. §-ában meghatározott Nemzeti Tengelysúlymérő Rendszer elemeként működő, továbbá a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére szolgáló „Közúti ellenőrzés” és alatta „Traffic Control” közúti jelzőtáblával megjelölt mérőpontokon a járművezető köteles a terelő- vagy záróvonalakkal határolt forgalmi sáv közepén, a forgalmi viszonyoknak megfelelő egyenletes sebességgel, a közúti közlekedés szabályairól szóló jogszabályban előírt követési távolság betartásával áthaladni.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

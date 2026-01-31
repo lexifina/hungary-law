@@ -1,3 +1,3 @@
-7. § Az R. 10. §-a a következő (13) bekezdéssel egészül ki:
+7. §[^8]
 
-„(13) Az eljárási díj összege a hozzájárulást kiadó szervezetet illeti meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
