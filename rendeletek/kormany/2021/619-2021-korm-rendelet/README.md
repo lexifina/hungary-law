@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-619-20-
 | 2025-11-14 | 2021-619-20-22.15 | 357/2025. (XI. 13.) Korm. rendelet |
 | 2025-12-02 | 2021-619-20-22.16 | 376/2025. (XII. 1.) Korm. rendelet |
 | 2025-12-23 | 2021-619-20-22.17 | 413/2025. (XII. 22.) Korm. rendelet |
+| 2026-01-31 | 2021-619-20-22.14 | 334/2025. (X. 30.) Korm. rendelet |
