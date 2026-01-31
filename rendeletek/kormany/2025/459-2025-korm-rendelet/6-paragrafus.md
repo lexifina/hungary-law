@@ -1,5 +1,3 @@
-6. § A Korm. rendelet a következő 16. §-sal egészül ki:
+6. §[^7]
 
-„16. § A fejlesztési adókedvezményről szóló 165/2014. (VII. 17.) Korm. rendelet módosításáról szóló
-
-459/2025. (XII. 30.) Korm. rendelettel megállapított 7. §-át a 2014. július 1-jét követően benyújtott bejelentések kapcsán első alkalommal a 2025. adóévről szóló éves társasági adóbevallásban kell alkalmazni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
