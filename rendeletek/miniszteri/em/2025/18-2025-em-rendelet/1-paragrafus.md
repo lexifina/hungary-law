@@ -8,4 +8,7 @@
 
 (3) Az egyes építési kulcstermékek elérhetőségét az energiapolitikáért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
+(4)[^2] Az 1. melléklet II. rész 1. és 2. pontjában szereplő intézkedések lakóépületen történő megvalósítása esetén a fővállalkozó kivitelező az intézkedés befejezésének dátumával egyidejűleg az általános politikai koordinációért felelős miniszter által a Kormány honlapján közzétett arculati kézikönyvben meghatározott formai követelményeket, arculati elemeket tartalmazó támogatói táblát helyez ki saját költségén az intézkedéssel érintett ingatlan nyilvánosság számára jól látható részén.
+
 [^1]: Az 1. § a 41/2025. (XII. 30.) EM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdését a 3/2026. (I. 30.) EM rendelet 1. §-a iktatta be.

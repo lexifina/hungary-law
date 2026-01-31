@@ -1,6 +1,6 @@
 ## 5X11451.pdf
 
-2. melléklet a 18/2025. (VII. 31.) EM rendelethez[^4]
+2. melléklet a 18/2025. (VII. 31.) EM rendelethez[^6]
 
 Építési kulcstermékek köre
 
@@ -14,4 +14,4 @@
 
 | 4 | Szekunder oldali fűtés rekonstrukció | Szekunder oldali fűtés rekonstrukció (2.11.) | • radiátorok |
 
-[^4]: A 2. mellékletet a 41/2025. (XII. 30.) EM rendelet 3. § (2) bekezdése iktatta be.
+[^6]: A 2. mellékletet a 41/2025. (XII. 30.) EM rendelet 3. § (2) bekezdése iktatta be.
