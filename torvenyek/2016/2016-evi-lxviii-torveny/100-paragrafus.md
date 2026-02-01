@@ -28,6 +28,8 @@ alapulvételével kell meghatározni.
 
 (8) A 39. § megsértése esetén a jövedéki bírság mértéke kilogrammonként 100 ezer forint.
 
+(8a) A 39. § szerint be nem jelentett földterületen termesztett, lábon álló dohánynövények után a jövedéki bírság mértéke megkezdett 10 négyzetméterenként 30 ezer forint, a fél hektárt meghaladó területre megkezdett fél hektáronként 15 millió forint.
+
 (9) Cukorcefre adóraktáron kívüli előállítása, birtoklása esetén a jövedéki bírság mértéke kilogrammonként 3 ezer forint, de legalább 100 ezer forint. Ezen alcím alkalmazásában cukorcefre alatt olyan, erjesztéssel jövedéki termék előállítására alkalmas anyagot kell érteni, amelynek szénhidrát tartalma 50%-ot meghaladó mértékben hozzáadott cukor- vagy keményítőtartalmú, mezőgazdasági eredetű termékből származik. Nem minősül cukorcefrének az olyan anyag, amely a terméket birtokló személy által a szakmai szabályok alapján engedéllyel vagy engedély nélkül jogszerűen, alapanyagként vagy gyártásközi termékként felhasználható termékelőállításhoz.
 
 (10) A gyorsított eljárás során a magyar nyelvet nem beszélő külföldi állampolgár esetében a tolmács alkalmazása mellőzhető, ha az érintett az állami adó- és vámhatóság vezetője által tájékoztatásban kiadott, a gyorsított eljárás folyamatáról szóló idegen nyelvű tájékoztató átvételét követően, írásban lemond a tolmács igénybevételéről.

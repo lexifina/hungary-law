@@ -18,7 +18,11 @@ f) az a gazdálkodó, aki regisztrációra kötelezettől – kivéve az e pont 
 
 g) az a gazdálkodó, aki szárított dohány vagy fermentált dohány felhasználásával gazdasági tevékenység keretében nem dohánygyártmányt állít elő.
 
-(3) A (2) bekezdés a) pontja alá tartozó termelőként az állami adó- és vámhatóság azt regisztrálja, aki a dohánynövény termesztést hatályos, írásbeli termelési és értékesítési szerződés alapján végzi, továbbá a megtermelt dohányt a végrehajtási rendeletben meghatározott módon tárolja. Az állami adó- és vámhatóság a termelőt a szerződés hatályvesztésekor törli a nyilvántartásából.
+(3) A (2) bekezdés a), b), e) és f) pontja szerinti regisztrációra kötelezett esetében a nyilvántartásba vétel feltétele a megtermelt, belföldre behozott, vásárolt dohány e fejezet végrehajtásáról szóló kormányrendeletben meghatározott módon történő tárolási feltételeinek biztosítása, valamint a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezett esetében a dohánynövény termesztésének hatályos, írásbeli termelési és értékesítési szerződés alapján történő végzése.
+
+(3a) Az (1) bekezdés szerinti nyilvántartásba vétel iránti kérelem a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezett esetében tartalmazza a dohánynövény termesztésére használt földterület települését, helyrajzi számát, helyrajzi számonkénti területét és ebből a dohánytermesztésre használt terület nagyságát hektárban.
+
+(3b) Az állami adó- és vámhatóság a (2) bekezdés a) és b) pontja szerinti regisztrációra kötelezettet a szerződés hatályvesztésekor törli a nyilvántartásából.
 
 (4) A (2) bekezdés c) és d) pontja alá tartozónak minősül
 
