@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-44-20-2
 | --- | --- | --- |
 | 2025-01-01 | 2024-44-20-2X.1 | 44/2024. (XII. 9.) NGM rendelet |
 | 2025-01-02 | 2024-44-20-2X.2 | 2010. évi CXXX. törvény |
+| 2026-02-01 | 2024-44-20-2X.3 | 5/2026. (I. 30.) NGM rendelet |
