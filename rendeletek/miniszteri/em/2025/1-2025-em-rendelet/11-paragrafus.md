@@ -4,7 +4,7 @@
 
 ## 7. A felkészítő képzés
 
-11. § (1) Az a természetes személy, aki nem rendelkezik az adott képesítési kategória vonatkozásában a megfelelő szakmai előképzettséggel, a klímagáz képzést megelőzően felkészítő képzésen köteles részt venni.
+11. § (1)[^15] Az a természetes személy, aki nem rendelkezik az adott képesítési kategória vonatkozásában a klímagáz képzés elvégzésére közvetlenül jogosító, 2. melléklet szerinti szakmai előképzettséggel, a klímagáz képzést megelőzően felkészítő képzésen köteles részt venni. A 2. mellékletben foglalt táblázat C oszlopa tartalmazza képesítési kategória megjelölésével azokat a szakmai előképzettségeket, amelyeknek megléte esetén a felkészítő tanfolyam sikeres elvégzését követően el lehet végezni a megjelölt képesítési kategória szerinti klímagáz képzést.
 
 (2) A felkészítő képzés
 
@@ -14,7 +14,7 @@ b) felkészítő vizsgából
 
 áll.
 
-(3) A felkészítő tanfolyamot úgy kell megtartani, hogy az azon való részvétel a klímagáz tanfolyam elvégzéséhez szükséges szakmai elméleti és gyakorlati tudást megalapozza. A felkészítő tanfolyam biztosítja a résztvevők számára különösen az adott képesítési kategóriába tartozó alkalmazások felépítéséről, jellemzőiről, valamint a működésükkel és szerviztechnológiájukkal, szivárgásvizsgálatukkal kapcsolatos legfontosabb tudnivalókról, a hűtőközegek szakszerű és környezetbarát kezeléséről szóló ismeretek megszerzését. A felkészítő tanfolyamok követelményrendszerét úgy kell meghatározni, hogy az a HR szektor és MR szektor képesítési kategóriákon belüli átjárhatóságot biztosítsa.
+(3)[^16] A felkészítő tanfolyamot úgy kell megtartani, hogy az azon való részvétel a klímagáz tanfolyam elvégzéséhez szükséges szakmai elméleti és gyakorlati tudást megalapozza. A felkészítő tanfolyam biztosítja a résztvevők számára különösen az adott képesítési kategóriába tartozó berendezések felépítéséről, jellemzőiről, valamint a működésükkel és szerviztechnológiájukkal, szivárgásvizsgálatukkal kapcsolatos legfontosabb tudnivalókról, a hűtőközegek szakszerű és környezetbarát kezeléséről szóló ismeretek megszerzését. A felkészítő tanfolyamok követelményrendszerét úgy kell meghatározni, hogy az a HR szektor és MR szektor képesítési kategóriákon belüli átjárhatóságot biztosítsa.
 
 (4) A felkészítő képzés lezárásaként a jelentkezőnek a legalább két vizsgabiztosból álló vizsgabizottság előtt felkészítő vizsgát kell tennie, amely elméleti és gyakorlati vizsgát jelent a vizsgaszabályzatban rögzítettek szerint.
 
@@ -45,3 +45,6 @@ c) azon képesítési kategóriát, amely képesítés megszerzéséhez az okira
 d) a kiállítás dátumát.
 
 (8) A sikertelen felkészítő vizsgáról a vizsgabizottság két példányban vizsgalapot állít ki, amelynek egy példányát a vizsgázónak kell átadni, egy példányát a képző szerv őrzi meg. Sikertelen felkészítő vizsga esetén a vizsgázó a javítóvizsga díjának befizetését követően javítóvizsga keretében újabb vizsgát tehet. Ha a második javítóvizsga sikertelen, a vizsgázó újabb vizsgára csak a felkészítő tanfolyam ismételt elvégzését követően bocsátható a felkészítő tanfolyam díjának ismételt és igazolt megfizetését követően.
+
+[^15]: A 11. § (1) bekezdése a 2/2026. (I. 30.) EM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 11. § (3) bekezdése a 2/2026. (I. 30.) EM rendelet 14. § 12. pontja szerint módosított szöveg.

@@ -6,12 +6,16 @@
 
 (3) A Hatóság által a természetes személyeknek a Korm. rendelet 1. melléklete szerinti kategóriákban kiadott képesítési tanúsítvány megfelel:
 
-a) a 306/2008/EK bizottsági rendelet 3. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
+a)[^5] az (EU) 2025/623 bizottsági végrehajtási rendelet 3. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
 
-b) a 307/2008/EK bizottsági rendelet 3. cikke szerinti, személyek számára kiadott képzési igazolásnak,
+b)[^6] az (EU) 2025/1893 bizottsági végrehajtási rendelet 3. cikke szerinti, személyek számára kiadott képzési igazolásnak,
 
-c) a 2015/2066 bizottsági végrehajtási rendelet 3. cikke szerinti, természetes személyek számára kiadott képesítési igazolásnak, valamint
+c)[^7] az (EU) 2025/627 bizottsági végrehajtási rendelet 2. cikke szerinti, természetes személyek számára kiadott képesítési igazolásnak, valamint
 
 d) a 2024/2215 bizottsági végrehajtási rendelet 4. cikke szerinti, természetes személyek számára kiadott képesítési igazolásnak.
 
 (4) Az a természetes személy, aki nem az e rendeletben meghatározott képzési rendszerben szerezte meg a klímagázt tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére jogosító képesítési tanúsítványt, köteles a Hatóság számára a Korm. rendelet 34. § (6) bekezdésében meghatározottak szerint benyújtani a más uniós tagállamban szerzett képesítetti minőségét tanúsító okirat másolatát 8 nappal a tevékenysége megkezdése előtt.
+
+[^5]: A 3. § (3) bekezdés a) pontja a 2/2026. (I. 30.) EM rendelet 14. § 4. pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdés b) pontja a 2/2026. (I. 30.) EM rendelet 14. § 5. pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdés c) pontja a 2/2026. (I. 30.) EM rendelet 14. § 6. pontja szerint módosított szöveg.

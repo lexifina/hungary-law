@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-8Y
 | --- | --- | --- |
 | 2025-03-01 | 2025-1-20-8Y.1 | 1/2025. (I. 13.) EM rendelet |
 | 2025-03-02 | 2025-1-20-8Y.2 | 2010. évi CXXX. törvény |
+| 2026-02-01 | 2025-1-20-8Y.3 | 2/2026. (I. 30.) EM rendelet |

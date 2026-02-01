@@ -4,6 +4,8 @@
 
 (3) A befizetett képzési díjakról a Hatóság elektronikus számlát állít ki és küld meg az Adatbázison keresztül a befizetőnek.
 
-(4) A képzési díjat a díjbekérőben foglalt teljesítési határidőig kell a Hatóság részére megfizetni.
+(4)[^20] A képzési díjat a díjbekérő kiküldését követő 30 napon belül kell a Hatóság részére megfizetni.
 
 (5) A képzési díjfizetési kötelezettség teljesítéséről a Hatóság az Adatbázisban nyilvántartást vezet. A képzési díjak nyilvántartására és elszámolására – az (1) bekezdésben foglaltak figyelembevétele mellett – az államháztartás számviteléről szóló jogszabályok előírásait kell alkalmazni.
+
+[^20]: A 15. § (4) bekezdése a 2/2026. (I. 30.) EM rendelet 14. § 15. pontja szerint módosított szöveg.

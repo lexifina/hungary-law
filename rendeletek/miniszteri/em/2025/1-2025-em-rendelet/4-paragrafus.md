@@ -18,6 +18,8 @@ e) oktatói képzésből
 
 áll.
 
-(2) Az (1) bekezdés a)–c) pontjában foglalt képzések iskolarendszeren kívüli, térítésköteles hatósági képzések.
+(2)[^8] Az (1) bekezdés a)–d) pontjában foglalt képzések iskolarendszeren kívüli, térítésköteles hatósági képzések.
 
 (3) Az (1) bekezdés a)–d) pontjában meghatározott képzések esetén a felnőttképzésről szóló 2013. évi LXXVII. törvény szerinti bejelentési és adatszolgáltatási kötelezettség teljesítéséről a Hatóság gondoskodik.
+
+[^8]: A 4. § (2) bekezdése a 2/2026. (I. 30.) EM rendelet 14. § 7. pontja szerint módosított szöveg.

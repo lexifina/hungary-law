@@ -16,4 +16,6 @@ minősítéssel értékeli.
 
 (6) A vizsga lezárását követően a vizsgaelnök szóban tájékoztatja a vizsgázókat az elért eredményekről. Az eredményeket a vizsgaelnök rögzíti az Adatbázisban. Sikeres vizsga esetén a kiállított képesítési tanúsítványt az érintett vizsgázó a vizsga lezárását követően elektronikus formában töltheti le az Adatbázisból.
 
-(7) A nem felelt meg minősítésű részvizsga esetében a vizsgázó a javító vizsgadíj befizetését követően javítóvizsga keretében új részvizsgát tehet. Ha a második javítóvizsga sikertelen, a vizsgázó új klímagáz záróvizsgára csak a megszerezni kívánt képesítési kategóriára vonatkozó klímagáz tanfolyam díjának ismételt és igazolt megfizetését, valamint a tanfolyam ismételt elvégzését követően bocsátható.
+(7)[^19] A nem felelt meg minősítésű részvizsga esetében a vizsgázó az 1. melléklet 3. pontjában foglalt táblázat 12. sora szerinti javítóvizsgadíj befizetését követően javítóvizsga keretében új részvizsgát tehet. Ha a második javítóvizsga sikertelen, a vizsgázó új klímagáz záróvizsgára csak a megszerezni kívánt képesítési kategóriára vonatkozó klímagáz tanfolyam díjának ismételt és igazolt megfizetését, valamint a tanfolyam ismételt elvégzését követően bocsátható.
+
+[^19]: A 14. § (7) bekezdése a 2/2026. (I. 30.) EM rendelet 14. § 14. pontja szerint módosított szöveg.

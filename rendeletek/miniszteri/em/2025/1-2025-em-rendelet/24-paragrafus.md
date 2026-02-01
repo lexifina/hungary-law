@@ -14,4 +14,6 @@ b) vizsgából
 
 (3) Az elméleti konzultáció és a vizsga személyesen, illetve a Hatóság által egyedileg meghatározott esetekben az elméleti konzultáció távoktatás formájában, a vizsga távoktatás formájában vagy elektronikus formában teljesíthető.
 
-(4) Átképzést a Hatóság, az e rendelet hatálybalépésekor hatályos képzési megállapodással rendelkező képző szerv vagy szakmai továbbképző szerv tarthat.
+(4)[^35] Átképzést a Hatóság, az e rendelet hatálybalépésekor hatályos képzési megállapodással rendelkező képző szerv és az átképző szerv tarthat.
+
+[^35]: A 24. § (4) bekezdése a 2/2026. (I. 30.) EM rendelet 14. § 20. pontja szerint módosított szöveg.
