@@ -1,6 +1,6 @@
 47/C. § (1) A bírság összege
 
-a) az Szt. hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében
+a) az Szt. hatálya alá tartozó vagy külföldi, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében
 
 aa) 1 millió forinttól a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 650 millió forintig,
 
@@ -45,6 +45,8 @@ b) a 6/K. § (3) bekezdése szerinti tájékoztatási kötelezettség megsérté
 c) a 6/K. § (4) bekezdése szerinti, a fogyasztóvédelmi hatóság felé fennálló tájékoztatási kötelezettség megsértése esetén, az érintett termékenként 1 000 000 forint
 
 bírságot szabhat ki.
+
+(1d) A külföldi vállalkozás esetén az éves nettó árbevétel a pénzügyi kimutatások készítésének alapját képező pénzügyi beszámolási keret által meghatározott vagy annak értelmében vett, szokásos tevékenység árbevétele vagy az ennek megfelelő bevétel.
 
 (2) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 

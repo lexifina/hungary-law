@@ -60,6 +60,8 @@ c) a belső piacon belül a vevő állampolgársága, lakóhelye vagy leteleped�
 
 26. közszolgáltatás: törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott víziközmű-szolgáltatás, távhőszolgáltatás, hulladékgazdálkodási közszolgáltatási résztevékenység, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatás, elektronikus hírközlési szolgáltatás, egyetemes postai szolgáltatás, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatás, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatás,
 
+26a. külföldi vállalkozás: a külföldi székhelyű vállalkozás vagy annak magyarországi kereskedelmi képviselete;
+
 27. online adásvételi vagy online szolgáltatási szerződés: olyan adásvételi vagy szolgáltatási szerződés, amelynek értelmében a vállalkozás vagy annak közvetítője egy honlapon vagy egyéb elektronikus eszközön keresztül kínál megvételre valamilyen árut vagy kínál igénybevételre valamilyen szolgáltatást, és a fogyasztó az adott honlapon vagy egyéb elektronikus eszközön keresztül rendeli meg az árut vagy szolgáltatást,
 
 28. online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
