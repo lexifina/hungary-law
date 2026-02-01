@@ -25,3 +25,21 @@ a) a gyermekvédelmi gyámja a Bv. tv.-ben foglalt keretek között kapcsolatot 
 b) a gondozási helye előzetes egyeztetés alapján fogadja a szabadsága időtartama alatt.
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
+
+(8) A javítóintézetben
+
+a) a javítóintézet rendjének fenntartásában, valamint a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv, továbbá
+
+b) a javítóintézet rendjének fenntartásában, a javítóintézeti rendész feladatkörében eljárva – a büntetés-végrehajtási szervezet hivatásos állományú tagja szolgálatellátása útján – a büntetés-végrehajtási intézet
+
+közreműködhet.
+
+(9) A (8) bekezdés szerinti esetben
+
+a) a szolgálatellátás nem irányulhat a javítóintézet rendjének fenntartásával, illetve – a (8) bekezdés a) pontja szerinti esetben – a bűncselekmények elkövetésének a megelőzésével össze nem függő tevékenységre, és
+
+b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv, illetve – a (8) bekezdés b) pontja szerinti esetben – a büntetés-végrehajtási intézet és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
+
+(10) A javítóintézetben a javítóintézet rendjének fenntartása érdekében működő biztonsági rendszert a büntetés-végrehajtás országos parancsokának az egyetértésével kell kialakítani.
+
+(11) A javítóintézet biztonsági rendszerét a büntetés-végrehajtás országos parancsnoka ellenőrizheti.
