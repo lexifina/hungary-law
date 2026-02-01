@@ -16,6 +16,8 @@ g) a bölcsődei ellátást nyújtó intézmény, szolgáltató más szolgáltat
 
 h) a bölcsődei ellátást nyújtó intézménynek, szolgáltatónak az alapellátáson túli, a családi nevelést támogató szolgáltatásai nyújtására vonatkozó elveket.
 
+i)[^144] a bölcsődei ellátást nyújtó intézmény, szolgáltató gyermek-elsősegélynyújtással kapcsolatos belső eljárásrendjére vonatkozó keretszabályokat.
+
 (2) A Bölcsődei nevelés-gondozás országos alapprogramja alapján a bölcsődei ellátást biztosító intézmény, szolgáltató helyi szakmai programot készít.
 
 (3) A bölcsődei ellátáshoz szükséges, kötelezően biztosítandó eszközök és felszerelések jegyzékét (a továbbiakban: felszerelési jegyzék) a 11. melléklet tartalmazza.
@@ -39,3 +41,4 @@ ba) a bölcsődében és a mini bölcsődében az étkeztetést a közétkeztet�
 bb) a saját otthonban nyújtott családi bölcsődei szolgáltatás keretében biztosított étkeztetés családi étkeztetésnek minősül.
 
 [^143]: A 41. § (1) bekezdése a 6/2020. (III. 6.) EMMI rendelet 3. §-ával megállapított, nyitó szövegrésze az 1/2022. (IX. 1.) KIM rendelet 1. §-a szerint módosított szöveg.
+[^144]: A 41. § (1) bekezdés i) pontját a 26/2025. (XII. 30.) KIM rendelet 1. §-a iktatta be.

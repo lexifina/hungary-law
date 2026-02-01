@@ -1,6 +1,6 @@
-## Az ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúakkal, valamint a menekültként elismert, nevelésbe vett gyermekekkel kapcsolatos feladatellátás[^546]
+## Az ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúakkal, valamint a menekültként elismert, nevelésbe vett gyermekekkel kapcsolatos feladatellátás[^547]
 
-## 142/A. §[^547] A 136/A–142. §-ban foglalt feladatokat
+## 142/A. §[^548] A 136/A–142. §-ban foglalt feladatokat
 
 a) az engedélyes címe szerint illetékes szakszolgálat látja el a menekült státuszt nem kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorú;
 
@@ -12,5 +12,5 @@ bb) a menekültként elismert, nevelésbe vett gyermek és az utógondozói ell�
 
 tekintetében.
 
-[^546]: A 142/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 3. §-a iktatta be.
-[^547]: A 142/A. §-t a 46/2015. (X. 12.) EMMI rendelet 3. §-a iktatta be.
+[^547]: A 142/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 3. §-a iktatta be.
+[^548]: A 142/A. §-t a 46/2015. (X. 12.) EMMI rendelet 3. §-a iktatta be.

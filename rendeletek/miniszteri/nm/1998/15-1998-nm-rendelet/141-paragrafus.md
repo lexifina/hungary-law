@@ -1,20 +1,20 @@
-141. § (1)[^539] Az egyéni elhelyezési tervben meg kell jelölni azt a személyt, akinek a gondozásába kerül a gyermek a nevelésbe vétel megszüntetését követően.
+141. § (1)[^540] Az egyéni elhelyezési tervben meg kell jelölni azt a személyt, akinek a gondozásába kerül a gyermek a nevelésbe vétel megszüntetését követően.
 
-(2)[^540] Az egyéni elhelyezési tervben meg kell határozni a nevelésbe vétel megszüntetéséhez szükséges feltételeket és azok megvalósításának határidejét. A felülvizsgálat során meg kell vizsgálni a feltételek teljesülését.
+(2)[^541] Az egyéni elhelyezési tervben meg kell határozni a nevelésbe vétel megszüntetéséhez szükséges feltételeket és azok megvalósításának határidejét. A felülvizsgálat során meg kell vizsgálni a feltételek teljesülését.
 
 (3) A tervben meg kell határozni
 
-a)[^541] a gondozott gyermek és a kapcsolattartásra jogosult szülő vagy más hozzátartozó kapcsolattartására vonatkozó elvárásokat és a kapcsolattartást segítő szolgáltatásokat,
+a)[^542] a gondozott gyermek és a kapcsolattartásra jogosult szülő vagy más hozzátartozó kapcsolattartására vonatkozó elvárásokat és a kapcsolattartást segítő szolgáltatásokat,
 
-b)[^542] azokat a feltételeket, melyeket a szülőnek biztosítani kell a nevelésbe vétel megszüntetéséhez (pl. megfelelő lakás, a megfelelő lakberendezés, a rendszeres jövedelem, az alkoholfüggőség, drogfüggőség rendeződése, az antiszociális magatartás megszüntetése stb.),
+b)[^543] azokat a feltételeket, melyeket a szülőnek biztosítani kell a nevelésbe vétel megszüntetéséhez (pl. megfelelő lakás, a megfelelő lakberendezés, a rendszeres jövedelem, az alkoholfüggőség, drogfüggőség rendeződése, az antiszociális magatartás megszüntetése stb.),
 
-c)[^543] azokat a feltételeket, melyeket a gondozott gyermeknek teljesítenie kell a nevelésbe vétel megszüntetéséhez (pl. szüleihez vagy másokhoz fűződő személyes viszonyának megváltoztatása, az alkoholfüggőség vagy más kóros szenvedély rendeződése, az antiszociális magatartásának megszüntetéséhez stb.).
+c)[^544] azokat a feltételeket, melyeket a gondozott gyermeknek teljesítenie kell a nevelésbe vétel megszüntetéséhez (pl. szüleihez vagy másokhoz fűződő személyes viszonyának megváltoztatása, az alkoholfüggőség vagy más kóros szenvedély rendeződése, az antiszociális magatartásának megszüntetéséhez stb.).
 
-(4)[^544]
+(4)[^545]
 
-[^539]: A 141. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
-[^540]: A 141. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
-[^541]: A 141. § (3) bekezdés a) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 22. pontja szerint módosított szöveg.
-[^542]: A 141. § (3) bekezdés b) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 23. pontja szerint módosított szöveg.
-[^543]: A 141. § (3) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 23. pontja szerint módosított szöveg.
-[^544]: A 141. § (4) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § h) pontja hatályon kívül helyezte.
+[^540]: A 141. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^541]: A 141. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^542]: A 141. § (3) bekezdés a) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 22. pontja szerint módosított szöveg.
+[^543]: A 141. § (3) bekezdés b) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 23. pontja szerint módosított szöveg.
+[^544]: A 141. § (3) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 23. pontja szerint módosított szöveg.
+[^545]: A 141. § (4) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § h) pontja hatályon kívül helyezte.

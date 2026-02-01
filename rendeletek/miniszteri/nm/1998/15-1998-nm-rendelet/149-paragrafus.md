@@ -1,8 +1,8 @@
-## A titkolt terhességből származó gyermek iratainak kezelése[^628]
+## A titkolt terhességből származó gyermek iratainak kezelése[^629]
 
-149. §[^629] (1) A fővárosi területi gyermekvédelmi szakszolgálat átveszi és megőrzi a terhességét eltitkoló válsághelyzetben lévő anya gyermekének iratait, ha a gyámhivatal a gyermek lakóhelyeként a Gyer. 64/A. §-a alapján a fővárosi területi gyermekvédelmi szakszolgálat székhelyét állapította meg.
+149. §[^630] (1) A fővárosi területi gyermekvédelmi szakszolgálat átveszi és megőrzi a terhességét eltitkoló válsághelyzetben lévő anya gyermekének iratait, ha a gyámhivatal a gyermek lakóhelyeként a Gyer. 64/A. §-a alapján a fővárosi területi gyermekvédelmi szakszolgálat székhelyét állapította meg.
 
 (2) A fővárosi területi gyermekvédelmi szakszolgálat a gyámhivatal határozata alapján kiadja a terhességét eltitkoló válsághelyzetben lévő anya gyermekének iratait a határozatban megjelölt személy számára.
 
-[^628]: A 149. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 36. § i) pontja hatályon kívül helyezte, újonnan a 19/2014. (III. 13.) EMMI rendelet 32. §-a iktatta be.
-[^629]: A 149. §-t a 26/2013. (III. 29.) EMMI rendelet 36. § i) pontja hatályon kívül helyezte, újonnan a 19/2014. (III. 13.) EMMI rendelet 32. §-a iktatta be.
+[^629]: A 149. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 36. § i) pontja hatályon kívül helyezte, újonnan a 19/2014. (III. 13.) EMMI rendelet 32. §-a iktatta be.
+[^630]: A 149. §-t a 26/2013. (III. 29.) EMMI rendelet 36. § i) pontja hatályon kívül helyezte, újonnan a 19/2014. (III. 13.) EMMI rendelet 32. §-a iktatta be.
