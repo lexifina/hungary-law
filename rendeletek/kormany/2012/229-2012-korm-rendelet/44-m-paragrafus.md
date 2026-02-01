@@ -6,14 +6,20 @@ b) nem tankerületi központ fenntartásában működő iskola esetén az iskola
 
 között jön létre.
 
-(2) Az iskola a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket a Könyvtárellátótól szerzi be.
+(2)[^287] Az iskola a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket a (3) bekezdés szerinti közreműködőtől a Könyvtárellátó bevonásával szerzi be, amelyről a Könyvtárellátó és a közreműködő külön megállapodást köt.
 
-(3) A Könyvtárellátó a Magyar Vakok és Gyengénlátók Országos Szövetsége vagy a Vakok Óvodája, Általános Iskolája, Szakiskolája, Készségfejlesztő Iskolája, Egységes Gyógypedagógiai Módszertani Intézménye, Kollégiuma és Gyermekotthona (a továbbiakban együtt: közreműködők) bevonásával biztosítja a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket.
+(3)[^288] A Könyvtárellátó a Magyar Vakok és Gyengénlátók Országos Szövetsége (a továbbiakban: közreműködő) bevonásával biztosítja a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket.
 
-(4) A közreműködők a kiadó által átadott taneszközt a vak vagy gyengénlátó tanuló részére átalakítják.
+(4)[^289] A közreműködő a kiadó által átadott tankönyveket a vak vagy gyengénlátó tanuló részére átalakítja.
 
-(5) A közreműködők kizárólag az előállítással összefüggő költségeik – általános forgalmi adóval megnövelt – összegének a megtérítésére tarthatnak igényt a Könyvtárellátóval szemben, az általuk a Könyvtárellátón keresztül megküldött tankönyvekért.
+(5)[^290]
 
-(6) A kiadó jogosult ellenőrizni, hogy az (5) bekezdés alapján megküldött tankönyvet kizárólag a vak és gyengénlátó tanulók iskolai tankönyvellátására – beleértve az iskolai könyvtári ellátást is – használták-e fel.
+(6)[^291] A kiadó jogosult ellenőrizni, hogy a közreműködő a tankönyvet kizárólag a vak és gyengénlátó tanulók iskolai tankönyvellátására – beleértve az iskolai könyvtári ellátást is – használta-e fel.
 
 (7) A tanuló részére, ha sajátos nevelési igénye vagy egészségi állapota indokolja, a kiadó a tankönyvjegyzéken szereplő tankönyv digitális változatát biztosítja.
+
+[^287]: A 44/M. § (2) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^288]: A 44/M. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^289]: A 44/M. § (4) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^290]: A 44/M. § (5) bekezdését a 454/2025. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^291]: A 44/M. § (6) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
