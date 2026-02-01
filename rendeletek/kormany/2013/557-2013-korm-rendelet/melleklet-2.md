@@ -62,7 +62,9 @@
 
 ## 5. Földterület/Telephely használati jogcíme:
 
-## III. A dohány típusa(i) (szárított és/vagy fermentált):
+## 6. A dohánytermesztésre használt földterület nagysága (hektár, két tizedesjegy pontossággal):
+
+## III. A dohány típusa(i) és altípusa(i), szárított és/vagy fermentált volta
 
 ## IV. A bejelentő adóazonosító jele:
 
@@ -74,7 +76,7 @@
 
 ## 3. szerződés megkötésének ideje:
 
-2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^4]
+2. melléklet az 557/2013. (XII. 31.) Korm. rendelethez[^6]
 
 IGAZOLÁS
 
@@ -104,4 +106,4 @@ VI. Külföldi partner neve:
 
 Kelt: ………………………………
 
-[^4]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése, a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet a 21/2014. (II. 3.) Korm. rendelet 2. § (2) bekezdése, a 419/2016. (XII. 14.) Korm. rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
