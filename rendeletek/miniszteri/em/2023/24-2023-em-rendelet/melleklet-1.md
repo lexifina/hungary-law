@@ -1,4 +1,4 @@
-1. melléklet a 24/2023. (XII. 13.) EM rendelethez[^11]
+1. melléklet a 24/2023. (XII. 13.) EM rendelethez[^9]
 
 Az Alapba történő befizetési kötelezettség és az Alapból járó ellentételezés mértéke
 
@@ -8,17 +8,13 @@ Az Alapba történő befizetési kötelezettség és az Alapból járó ellenté
 
 | 1 | Víziközmű-szolgáltató megnevezése | Negyedéves befizetési kötelezettség mértéke (ezer Ft) |
 
-| 2 | Aqua Szolgáltató Kft. | 29 678 |
+| 2 | Fővárosi Csatornázási Művek Zártkörűen Működő Részvénytársaság | 2 851 843 |
 
-| 3 | Debreceni Vízmű Zrt. | 338 939 |
+| 3 | Fővárosi Vízművek Zártkörűen Működő Részvénytársaság | 251 106 |
 
-| 4 | Fővárosi Csatornázási Művek Zrt. | 3 591 731 |
+| 4 | Pápai Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 15 418 |
 
-| 5 | Fővárosi Vízművek Zrt. | 113 972 |
-
-| 6 | Pápai Víz- és Csatornamű Zrt. | 86 047 |
-
-| 7 | Szegedi Vízmű Zrt. | 442 167 |
+| 5 | Szegedi Vízmű Zártkörűen Működő Részvénytársaság | 810 591 |
 
 2. Az Alapból ellentételezésre jogosult víziközmű-szolgáltató és az ellentételezés mértéke
 
@@ -26,62 +22,64 @@ Az Alapba történő befizetési kötelezettség és az Alapból járó ellenté
 
 | 1 | Víziközmű-szolgáltató megnevezése | Negyedéves ellentételezési jogosultság mértéke (ezer Ft) |
 
-| 2 | ALFÖLDVÍZ Regionális Víziközmű-szolgáltató Zrt. | 4 463 567 |
+| 2 | ALFÖLDVÍZ Regionális Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság | 3 435 354 |
 
-| 3 | BÁCSVÍZ Víz- és Csatornaszolgáltató Zrt. | 459 325 |
+| 3 | Aqua Szolgáltató Korlátolt Felelősségű Társaság | 83 065 |
 
-| 4 | BAJAVÍZ Baja és Térsége Víz- és Csatornamű Kft. | 374 024 |
+| 4 | BÁCSVÍZ Víz- és Csatornaszolgáltató Zártkörűen Működő Részvénytársaság | 771 171 |
 
-| 5 | BAKONYKARSZT Víz- és Csatornamű Zrt. | 679 801 |
+| 5 | BAJAVÍZ Baja és Térsége Víz- és Csatornamű Korlátolt Felelősségű Társaság | 285 881 |
 
-| 6 | BARANYA-VÍZ Víziközmű Szolgáltató Zrt. | 450 974 |
+| 6 | BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 1 576 288 |
 
-| 7 | BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zrt. | 689 680 |
+| 7 | BARANYA-VÍZ Víziközmű Szolgáltató Zártkörűen Működő Részvénytársaság | 508 805 |
 
-| 8 | DAKÖV Dabas és Környéke Vízügyi Kft. | 1 004 695 |
+| 8 | BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zártkörűen Működő Részvénytársaság | 825 575 |
 
-| 9 | Dél-Pest Megyei Víziközmű Szolgáltató Zrt. | 617 640 |
+| 9 | DAKÖV Dabas és Környéke Vízügyi Korlátolt Felelősségű Társaság | 1 211 947 |
 
-| 10 | Délzalai Víz- és Csatornamű Zrt. | 379 416 |
+| 10 | Debreceni Vízmű Zártkörűen Működő Részvénytársaság | 120 452 |
 
-| 11 | DMRV Duna Menti Regionális Vízmű Zrt. | 2 764 476 |
+| 11 | Dél-Pest Megyei Víziközmű Szolgáltató Zártkörűen Működő Részvénytársaság | 1 194 117 |
 
-| 12 | Dunántúli Regionális Vízmű Zrt. | 4 592 199 |
+| 12 | Délzalai Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 491 079 |
 
-| 13 | Érd és Térsége Csatorna-szolgáltató Kft. | 216 746 |
+| 13 | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság | 4 319 331 |
 
-| 14 | Érd és Térsége Regionális Víziközmű Kft. | 173 862 |
+| 14 | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 3 297 915 |
 
-| 15 | E.R.Ö.V. Egyesült Regionális Önkormányzati Víziközmű Zrt. | 11 657 |
+| 15 | Érd és Térsége Csatorna-szolgáltató Korlátolt Felelősségű Társaság | 169 490 |
 
-| 16 | ÉRV. Északmagyarországi Regionális Vízművek Zrt. | 4 266 030 |
+| 16 | Érd és Térsége Regionális Víziközmű Korlátolt Felelősségű Társaság | 511 882 |
 
-| 17 | Északdunántúli Vízmű Zrt. | 984 478 |
+| 17 | E.R.Ö.V. Egyesült Regionális Önkormányzati Víziközmű Zártkörűen Működő Részvénytársaság | 112 177 |
 
-| 18 | Észak-zalai Víz- és Csatornamű Zrt. | 790 050 |
+| 18 | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság | 4 326 866 |
 
-| 19 | FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zrt. | 762 143 |
+| 19 | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság | 615 654 |
 
-| 20 | Heves Megyei Vízmű Zrt. | 419 664 |
+| 20 | Észak-zalai Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 929 599 |
 
-| 21 | KAVÍZ Kaposvári Víz- és Csatornamű Kft. | 223 433 |
+| 21 | FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 722 760 |
 
-| 22 | Kiskunsági Víziközmű-szolgáltató Kft. | 630 012 |
+| 22 | Heves Megyei Vízmű Zártkörűen Működő Részvénytársaság | 914 764 |
 
-| 23 | Mezőföldi Regionális Víziközmű Kft. | 862 922 |
+| 23 | KAVÍZ Kaposvári Víz- és Csatornamű Korlátolt Felelősségű Társaság | 110 719 |
 
-| 24 | MIVÍZ Miskolci Vízmű Kft. | 171 241 |
+| 24 | Kiskunsági Víziközmű-szolgáltató Kft. | 593 789 |
 
-| 25 | NYÍRSÉGVÍZ Nyíregyháza és Térsége Víz- és Csatornamű Zrt. | 468 719 |
+| 25 | Mezőföldi Regionális Víziközmű Korlátolt Felelősségű Társaság | 802 376 |
 
-| 26 | PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zrt. | 893 145 |
+| 26 | NYÍRSÉGVÍZ Nyíregyháza és Térsége Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 525 466 |
 
-| 27 | Soproni Vízmű Zrt. | 143 350 |
+| 27 | PANNON-VÍZ Regionális Önkormányzati Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság | 757 498 |
 
-| 28 | TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zrt. | 224 596 |
+| 28 | Soproni Vízmű Zártkörűen Működő Részvénytársaság | 63 478 |
 
-| 29 | Tiszamenti Regionális Vízművek Zrt. | 4 694 653 |
+| 29 | TETTYE FORRÁSHÁZ Pécsi Városi Víziközmű Üzemeltetési Zártkörűen Működő Részvénytársaság | 126 070 |
 
-| 30 | VASIVÍZ Vas megyei Víz- és Csatornamű Zrt. | 691 885 |
+| 30 | Tiszamenti Regionális Vízművek Zártkörűen Működő Részvénytársaság | 5 901 065 |
 
-[^11]: Az 1. melléklet a 43/2024. (XII. 30.) EM rendelet 5. § (1) bekezdésével megállapított szöveg.
+| 31 | VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 1 058 306 |
+
+[^9]: Az 1. melléklet az 1/2026. (I. 19.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
