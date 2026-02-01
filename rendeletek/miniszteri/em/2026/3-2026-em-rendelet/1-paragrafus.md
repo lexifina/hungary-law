@@ -2,6 +2,6 @@
 
 ## [2] Az energiahatékonyságról szóló 2015. évi LVII. törvény 45. § i) pontjában kapott felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró Miniszterelnöki Kabinetirodát vezető miniszterrel egyetértésben –, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az energiahatékonyságról szóló 2015. évi LVII. törvény Energiahatékonysági Kötelezettségi Rendszerrel összefüggő egyes rendelkezéseinek végrehajtásáról szóló 18/2025. (VII. 31.) EM rendelet [a továbbiakban: 18/2025. (VII. 31.) EM rendelet] 1. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) Az 1. melléklet II. rész 1. és 2. pontjában szereplő intézkedések lakóépületen történő megvalósítása esetén a fővállalkozó kivitelező az intézkedés befejezésének dátumával egyidejűleg az általános politikai koordinációért felelős miniszter által a Kormány honlapján közzétett arculati kézikönyvben meghatározott formai követelményeket, arculati elemeket tartalmazó támogatói táblát helyez ki saját költségén az intézkedéssel érintett ingatlan nyilvánosság számára jól látható részén.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
