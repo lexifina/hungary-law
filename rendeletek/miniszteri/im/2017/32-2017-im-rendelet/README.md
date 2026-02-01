@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-32-20-0
 | 2025-05-01 | 2017-32-20-06.9 | 4/2025. (IV. 30.) IM rendelet |
 | 2026-01-13 | 2017-32-20-06.10 | 14/2025. (XI. 13.) IM rendelet |
 | 2026-01-23 | 2017-32-20-06.11 | 2/2026. (I. 22.) IM rendelet |
+| 2026-02-01 | 2017-32-20-06.12 | 3/2026. (I. 30.) IM rendelet |
