@@ -1,0 +1,5 @@
+3. § Az R. a következő 14. és 15. §-sal egészül ki:
+
+„14. § E rendelet 24. mellékletének a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyakról szóló előírása tekintetében történő módosításáról szóló 28/2025. (VII. 7.) AM rendelettel megállapított rendelkezései tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+15. § E rendelet 1. § (3) bekezdés g) pontja, 2. § (26) bekezdése, valamint 43. melléklete MódR15.-tel megállapított rendelkezései tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
