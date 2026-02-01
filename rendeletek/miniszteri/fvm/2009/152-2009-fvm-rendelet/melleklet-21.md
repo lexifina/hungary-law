@@ -1,4 +1,4 @@
-21. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^102]
+21. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^107]
 
 A Magyar Élelmiszerkönyv 1-3-2001/113 számú előírása az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém termékekről
 
@@ -50,24 +50,4 @@ A termékek megnevezései, meghatározásai és jellemzői
 
 1.1.2.5. 80 g passiógyümölcs esetében.
 
-1.2. Az „extradzsem” cukor, egy- vagy többféle sűrítetlen gyümölcspulp és víz megfelelően zselés állományú keveréke. A csipkebogyó, a mag nélküli málna, a fekete szeder, a fekete ribiszke, az áfonya és a piros ribiszke extradzsem előállítható az adott gyümölcsből készített sűrítetlen püréből is.
-
-1.2.1. A citrus extradzsem előállítható egész, csíkozott, illetve szeletelt gyümölcsből is.
-
-1.2.2. Alma, körte, nem magvaváló szilva, sárgadinnye, görögdinnye, szőlő, sütőtök, uborka és paradicsom más gyümölccsel keverve nem használható extradzsem előállításához.
-
-1.2.3. 1000 g késztermék gyümölcspulptartalma nem lehet kevesebb, mint:
-
-1.2.3.1. 500 g általános szabályként,
-
-1.2.3.2. 450 g piros ribiszke, madárberkenye, homoktövis, fekete ribiszke, csipkebogyó és birsalma esetében,
-
-1.2.3.3. 280 g gyömbér esetében,
-
-1.2.3.4. 290 g kasualma esetében,
-
-1.2.3.5. 100 g passiógyümölcs esetében.
-
-1.3. A „zselé” cukor, egy- vagy többféle gyümölcs levének, illetve vizes kivonatának megfelelően zselés keveréke.
-
-[^102]: A 21. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege az 51/2025. (XII. 16.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^107]: A 21. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege az 51/2025. (XII. 16.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -166,6 +166,6 @@
 
 | 3. | igazoltan trópusi eredetű mézek és trópusi mézet tartalmazó keverékek esetén, a keverés arányában | legfeljebb 80 mg/kg |
 
-11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^83]
+11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^88]
 
-[^83]: A 11. melléklet az 51/2025. (XII. 16.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^88]: A 11. melléklet az 51/2025. (XII. 16.) AM rendelet 3. § (2) bekezdésével megállapított szöveg. [A 28/2025. (VII. 7.) AM rendelet 3. § a) pontjával elrendelt módosítás, amely szerint a 11. melléklet B rész II. Fejezet 3. pont k) alpontjában az „az élelmiszerekkel érintkezésbe kerülő anyagokról és tárgyakról szóló 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1935/2004/EK európai parlamenti és tanácsi rendelet)” szöveg lép, nem vezethető át.] [A 28/2025. (VII. 7.) AM rendelet 3. § b) pontjával elrendelt módosítás, amely szerint a 11. melléklet B rész II. Fejezet 3. pont l) alpontjában az „az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK rendeletnek” szövegrész helyébe az „az 1935/2004/EK európai parlamenti és tanácsi rendeletnek” szöveg lép, nem vezethető át.]
