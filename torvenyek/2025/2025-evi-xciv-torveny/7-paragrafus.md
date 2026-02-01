@@ -6,7 +6,7 @@
 
 3.
 
-4.
+4. 47/C. § (1) bekezdés a) pontjában a „tartozó,” szövegrész helyébe a „tartozó vagy külföldi,” szöveg,
 
 5.
 
