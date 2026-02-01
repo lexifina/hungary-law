@@ -1,3 +1,3 @@
-3. § Az 1/2023. (II. 28.) KIM rendelet 2. § (1) bekezdése a következő f) ponttal egészül ki:
+3. §[^4]
 
-(A felnőttképzésért felelős miniszter a programkövetelményt nyilvántartásba veszi, ha)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

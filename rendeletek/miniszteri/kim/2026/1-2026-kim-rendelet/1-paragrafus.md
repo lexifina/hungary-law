@@ -12,6 +12,6 @@
 
 ## 1. A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosítása
 
-1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 145. § (11) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(11) A szakszolgálat az örökbefogadásra való alkalmassági vizsgálat folyamatának rögzítését a kérelem benyújtásakor, de legkésőbb két munkanapon belül a GYVR örökbefogadási alrendszerében elkezdi, és folyamatában végzi az örökbefogadói alkalmasságról szóló határozat véglegessé válásáig.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
