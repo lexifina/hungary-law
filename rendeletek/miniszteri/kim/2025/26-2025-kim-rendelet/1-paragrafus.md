@@ -10,6 +10,6 @@
 
 ## a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 5. és 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. §[^1]
+1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: Nmr.) 41. § (1) bekezdése a következő i) ponttal egészül ki:
 
-[^1]: Az 1. § a 9. § (2) bekezdése alapján 2026. február 1-jén lép hatályba.
+(A bölcsődei ellátás keretén belül a nevelés és a gondozás a gyermek- és ifjúságpolitikáért felelős miniszter által jóváhagyott, a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium és a bölcsődei módszertani szervezet honlapján közzétett Bölcsődei nevelés-gondozás országos alapprogramja alapján folyik. A Bölcsődei nevelés-gondozás országos alapprogramja tartalmazza:)

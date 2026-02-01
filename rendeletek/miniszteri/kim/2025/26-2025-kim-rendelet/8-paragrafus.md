@@ -1,3 +1,3 @@
-8. §[^15]
+8. §[^14]
 
-[^15]: A 8. § a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^14]: A 8. § a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
