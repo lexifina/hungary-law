@@ -12,7 +12,7 @@ c) az (5) bekezdés alapján a klímagázt tartalmazó tartályt a tartály tart
 
 (3) A (6) bekezdés szerinti telepítési hatósági címkével történő ellátás feltétele, hogy a 8. § (4) bekezdése szerint regisztrációköteles alkalmazást az üzemeltető regisztrálja, és az alkalmazás műszaki adatait a képesített vállalkozás rögzítse az adatbázisban.
 
-(4) A képesített vállalkozás jól látható helyen a (6) bekezdés szerinti telepítési hatósági címkével ellátja
+(4)[^11] Az üzemeltető gondoskodik arról, hogy a képesített vállalkozás jól látható helyen a (6) bekezdés szerinti telepítési hatósági címkével ellássa
 
 a) a forgalomba helyezett, újonnan telepített alkalmazásokat telepítéskor, de legkésőbb a beüzemeléskor,
 
@@ -35,3 +35,5 @@ e) azt a tényt, hogy szivárgásészlelő rendszer felszerelésre került-e,
 f) azt, hogy a klímagázt tartalmazó alkalmazás hermetikusan zárt-e, valamint
 
 g) elektromos kapcsolóberendezés esetén arra vonatkozó adatot, hogy az igazolt szivárgás mértéke a gyártó műszaki leírásában foglaltak szerint évente kevesebb-e, mint 0,1%, továbbá, hogy az elektromos kapcsolóberendezés a nyomást vagy sűrűséget ellenőrző eszközzel van-e felszerelve.
+
+[^11]: A 16. § (4) bekezdés nyitó szövegrésze a 490/2025. (XII. 31.) Korm. rendelet 8. § 11. pontja szerint módosított szöveg.

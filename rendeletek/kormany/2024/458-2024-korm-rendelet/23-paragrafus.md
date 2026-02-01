@@ -2,4 +2,6 @@
 
 23. § (1) A klímagázok klímavédelmi szempontból biztonságos felhasználása és kezelése érdekében a 2. melléklet szerint kell eljárni.
 
-(2) A klímagázt tartalmazó tűzoltó-technikai termékek, valamint a klímagázt tartalmazó beépített tűzvédelmi berendezések és tűzoltó készülékek töltetét érintő javítás, a töltet kezelése csak a 3. mellékletben meghatározott zárt technológiával végezhető.
+(2)[^15]
+
+[^15]: A 23. § (2) bekezdését a 490/2025. (XII. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.

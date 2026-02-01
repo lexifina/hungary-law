@@ -22,7 +22,7 @@ A klímavédelmi bírság mértéke
 
 1.7. Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 10. cikke, valamint az 1. melléklet szerint megkövetelt képesítés hiányában végzett tevékenység esetén 100 000 forinttól 5 000 000 forintig terjed.
 
-1.8. Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 11. cikk (1)–(3) bekezdésében és a 17. §-ban rögzített, a forgalomba hozatalra vonatkozó korlátozások és tilalmak, valamint a nem utántölthető tartályok tárolására és szállítására vonatkozó előírások megszegése esetén termékenként és alkalmazásonként 100 000 forinttól 10 000 000 forintig terjed.
+1.8.[^42] Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 11. cikk (1)–(3) bekezdésében és a 17. §-ban rögzített, a forgalomba hozatalra vonatkozó korlátozások és tilalmak, valamint a nem utántölthető tartályokra vonatkozó előírások megszegése esetén termékenként és alkalmazásonként 100 000 forinttól 10 000 000 forintig terjed.
 
 1.9. Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 11. cikk (4) bekezdése szerint nyilatkozat kiállításának elmulasztása esetén 50 000 forint.
 
@@ -101,3 +101,5 @@ A klímavédelmi bírság mértéke
 4.6. A 23. §-ban meghatározottak megszegése esetén 100 000 forinttól 500 000 forintig terjed.
 
 4.7. A 27. § (1) bekezdés a)–d) és f)–h) pontjában foglaltak megszegése esetén 100 000 forinttól 1 000 000 forintig terjed.
+
+[^42]: A 4. melléklet 1. pont 1.8. alpontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 25. pontja szerint módosított szöveg.

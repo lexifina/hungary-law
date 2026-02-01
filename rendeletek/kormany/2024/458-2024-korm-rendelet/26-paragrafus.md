@@ -1,6 +1,6 @@
 ## 13. A vállalkozások klímagázokkal kapcsolatos egyéb adatszolgáltatási és jelentéstételi kötelezettsége
 
-26. § (1) Az üzemeltető a 24. §-ban rögzített tevékenység végzése esetében nyilvántartási kötelezettségét a Hatóság adatbázisába való üzemeltetői és hűtőköri regisztrációval, valamint a hűtőkörhöz képesített vállalkozás hozzárendelésével teljesíti. Az üzemeltető ellenőrzi a fenti dokumentumok vezetését.
+26. § (1)[^16] Az üzemeltető a 24. §-ban rögzített tevékenység végzése esetében nyilvántartási kötelezettségét a Hatóság adatbázisába való üzemeltetői és hűtőköri regisztrációval, valamint a hűtőkörhöz képesített vállalkozás hozzárendelésével teljesíti. Az üzemeltető ellenőrzi a (2) bekezdés szerinti elektronikus jegyzőkönyv adatbázisban való rögzítését.
 
 (2) A képesített vállalkozás képesített alkalmazottja az adatbázisban az elektronikus jegyzőkönyv kitöltésével rögzíti az üzemeltető alkalmazásán végzett vagy azt érintő, képesítést igénylő tevékenységet. A tevékenység akkor minősül elvégzettnek, amikor az elektronikus jegyzőkönyvet az adatbázisban rögzítik.
 
@@ -17,3 +17,5 @@
 (8) A vállalkozások az (EU) 2024/573 európai parlamenti és tanácsi rendelet 7. cikk (5) bekezdésében meghatározott adattartalommal nyilvántartást vezetnek. A vállalkozások kötelesek az általuk vezetett nyilvántartást kérésre a Hatóság rendelkezésére bocsátani. Ezen kötelezettség teljesítése nem mentesíti a vállalkozásokat a (4) bekezdésben meghatározott kötelezettségük alól.
 
 (9) A vállalkozások az (EU) 2024/590 európai parlamenti és tanácsi rendelet 8. cikk (3) és (4) bekezdésében és a 15. cikk (6) bekezdésében meghatározott adattartalommal nyilvántartást vezetnek. A vállalkozások kötelesek az általuk vezetett nyilvántartást kérésre a Hatóság rendelkezésére bocsátani. Ezen kötelezettség teljesítése nem mentesíti a vállalkozásokat a (4) bekezdésben meghatározott kötelezettségük alól.
+
+[^16]: A 26. § (1) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 12. pontja szerint módosított szöveg.

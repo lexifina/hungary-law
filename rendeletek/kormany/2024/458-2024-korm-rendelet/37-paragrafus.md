@@ -1,6 +1,6 @@
 37. § (1) A Klímagáz tv. 1. melléklet 3–5. pontjában meghatározott klímagázokat tartalmazó vagy azzal működtetett alkalmazások üzemeltetői és tulajdonosai az e rendelet hatálybalépését követően, de legkésőbb 2025. április 30. napjáig teljesítik regisztrációs kötelezettségüket.
 
-(2) A fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet végrehajtására kiadott, a képesítési és képzési programokra vonatkozó minimumkövetelményeket megállapító európai uniós jogi normák alapján kiadott, és e rendelet hatálybalépése napján érvényes képesítési és képzési igazolások azok érvényességi idejének lejárati dátumáig, de legalább az e rendelet hatálybalépését követő 1 évig továbbra is érvényesek, és érvényességük legfeljebb 2029. március 12. napjáig tarthat.
+(2)[^31] A fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet végrehajtására kiadott, a képesítési és képzési programokra vonatkozó minimumkövetelményeket megállapító európai uniós jogi normák alapján kiadott, és e rendelet hatálybalépése napján érvényes képesítési és képzési igazolások azok érvényességi idejének lejárati dátumáig, de legalább 2027. december 31. napjáig továbbra is érvényesek, és érvényességük legfeljebb 2029. március 12. napjáig tarthat.
 
 (3) Az a képesített személy, aki az e rendelet hatálybalépése napján érvényes H–I. és M–I. képesítési kategóriával is rendelkezik, a képesítési kategóriák érvényességi ideje alatt kérheti a Hatóságtól az e rendelet szerinti M–I. kategória megadását.
 
@@ -19,3 +19,12 @@ c) HR–IV. képesítési kategória helyett az e rendelet szerinti Szivárgásv
 d) MR–I. és MR–II. képesítési kategóriák helyett az e rendelet szerinti MR kategória
 
 kerül bejegyzésre a Hatóság által az Adatbázisba.
+
+(7)[^32] A 27. § (2) bekezdés szerinti jelentést először 2026. március 31. napjáig szükséges teljesíteni.
+
+(8)[^33] E rendeletnek a klímagázokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 458/2024. (XII. 30.) Korm. rendelet módosításáról szóló 490/2025. (XII. 31.) Korm. rendelettel (a továbbiakban: Mód. Kr.) módosított 32. §-át a Mód. Kr. hatálybalépésekor[^34] folyamatban lévő, a hatálybalépését követően indított és a megismételt eljárásokban is alkalmazni kell.
+
+[^31]: A 37. § (2) bekezdése a 490/2025. (XII. 31.) Korm. rendelet 8. § 23. pontja szerint módosított szöveg.
+[^32]: A 37. § (7) bekezdését a 490/2025. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^33]: A 37. § (8) bekezdését a 490/2025. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2026. február 1.

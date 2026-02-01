@@ -4,17 +4,17 @@
 
 (2) A Hatóság feladatai a klímagázokat tartalmazó vagy azzal működtetett alkalmazások tekintetében:
 
-a) a klímagázt tartalmazó vagy azzal működtetett, meglévő és újonnan telepített alkalmazások, rendszerek, készülékek, körök azonosító kódrendszerének létrehozása, kezelése, ezek adatait és a nyilvántartásba vételt igazoló magyar nyelvű címke elektronikus kiadása;
+a)[^1] a klímagázt tartalmazó vagy azzal működtetett, meglévő és újonnan telepített alkalmazások, rendszerek, készülékek, körök azonosító kódrendszerének létrehozása, kezelése, ezek adatait és a nyilvántartásba vételt igazoló magyar nyelvű címke elektronikus kiadása, felügyelete, ellenőrzése;
 
 b) a klímagázt tartalmazó vagy azzal működtetett termékekre és berendezésekre vonatkozó címkézési és forgalomba-hozatali követelmények ellenőrzése, a 3. § (2)–(4) és (6)–(10) bekezdésében foglaltak kivételével;
 
 c) az (EU) 2024/573 európai parlamenti és tanácsi rendelet szerinti mentességi kérelmek befogadása, a tagállami kérelem benyújtása az Európai Bizottság felé, valamint az ezzel kapcsolatos feladatok végrehajtása;
 
-d) a klímagázt tartalmazó vagy azzal működtetett, meglévő és újonnan telepített alkalmazások, rendszerek, készülékek nyilvántartására, címkézésére, kötelező szivárgásvizsgálatának elvégzésére és igazolására, hűtőköri beavatkozásokra vonatkozó adatbázis és monitoring-rendszer létrehozása és kezelése;
+d)[^2] a klímagázt tartalmazó vagy azzal működtetett, meglévő és újonnan telepített alkalmazások, rendszerek, készülékek nyilvántartására, címkézésére, kötelező szivárgásvizsgálatának elvégzésére és igazolására, hűtőköri beavatkozásokra vonatkozó adatbázis és monitoring-rendszer létrehozása és kezelése, ezen tevékenységek felügyelete, ellenőrzése;
 
-e) a klímagázokra vonatkozó típusonként, fajtánként és a felhasználás jellege szerinti nyilvántartást biztosító adatbázis és monitoring-rendszer létrehozása és kezelése;
+e)[^3] a klímagázokra vonatkozó típusonként, fajtánként és a felhasználás jellege szerinti nyilvántartást biztosító adatbázis és monitoring-rendszer létrehozása és kezelése, felügyelete, ellenőrzése;
 
-f) a klímagázt tartalmazó és ezzel előtöltött berendezések hazai kül- és belkereskedelmében, forgalomba helyezésében, ártalmatlanításában közreműködő csak regisztrációra kötelezett vállalkozások és az ilyen termék fogalomba hozatalának nyilvántartását biztosító adatbázis és monitoring-rendszer létrehozása és kezelése;
+f)[^4] a klímagázt tartalmazó és ezzel előtöltött berendezések hazai kül- és belkereskedelmében, forgalomba helyezésében, ártalmatlanításában közreműködő csak regisztrációra kötelezett vállalkozások és az ilyen termék fogalomba hozatalának nyilvántartását biztosító adatbázis és monitoring-rendszer létrehozása és kezelése, ezen tevékenységek felügyelete, ellenőrzése;
 
 g) az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) 7. §-ában meghatározott jelentéstételi kötelezettség teljesítéséhez szükséges, a Hatóság által nyilvántartott adatok megküldése a miniszter számára;
 
@@ -27,3 +27,8 @@ j) a tevékenységek végzésével kapcsolatos tájékoztatások, útmutatások 
 k) a Klímagáz tv. 11. §-a szerinti adatszolgáltatással és kezeléssel kapcsolatos eljárások, a nyilvántartás vezetése;
 
 l) a klímagázokkal végzett tevékenységek kapcsán felmerült hatósági feladat a Klímagáz tv., e rendelet, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásainak érvényesítése érdekében.
+
+[^1]: A 4. § (2) bekezdés a) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
+[^2]: A 4. § (2) bekezdés d) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdés e) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés f) pontja a 490/2025. (XII. 31.) Korm. rendelet 8. § 4. pontja szerint módosított szöveg.
