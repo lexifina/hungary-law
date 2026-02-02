@@ -1,3 +1,3 @@
-6. §[^12]
+6. §[^13]
 
-[^12]: A 6. § a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^13]: A 6. § a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
