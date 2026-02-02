@@ -4,6 +4,6 @@
 
 ## [3] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 5. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 3/2026. (I. 30.) AM rendelet 5. §-a alapján nem lép hatályba.
+[^2]: Az 1. § a 3/2026. (I. 30.) AM rendelet 5. §-a alapján nem lép hatályba.
