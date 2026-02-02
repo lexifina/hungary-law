@@ -1,4 +1,4 @@
-1. melléklet a 10/2023. (VI. 30.) MEKH rendelethez[^14]
+1. melléklet a 10/2023. (VI. 30.) MEKH rendelethez[^23]
 
 A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének gyakorisága, teljesítésének határideje és az adatszolgáltatással érintett időpont vagy időszak
 
@@ -12,14 +12,18 @@ A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének g
 
 | 4. | Az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatos hulladékgazdálkodási, műszaki, gazdasági és termékmennyiségre vonatkozó adatok. | Évenkénti | június 30. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
 
-| 5. | Az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködéssel kapcsolatos hulladékgazdálkodási és gazdasági adatok. | Évenkénti | június 30. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
+| 5. | Az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatos hulladékgazdálkodási, műszaki, gazdasági és termékmennyiségre vonatkozó adatok. | Négyévenkénti | március 31. | Az adatszolgáltatás teljesítési határidejét megelőző második és harmadik naptári év |
 
-| 6. | A köztisztasági feladatellátással kapcsolatos naturális és gazdasági adatok. | Évenkénti | június 15. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
+| 6. | Az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködéssel kapcsolatos hulladékgazdálkodási és gazdasági adatok. | Évenkénti | június 30. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
 
-| 7. | A hulladékgazdálkodási eszközzel kapcsolatos, a telephely meghatározására szolgáló azonosító adatok, a telephelyhez köthető hulladékgazdálkodási eszköz beazonosítására szolgáló adatok, a hulladékgazdálkodási tevékenység célját szolgáló eszközhöz köthető tulajdonosok beazonosításához szükséges adatok. | Évenkénti | november 30. | Az adatszolgáltatás teljesítési határideje szerinti naptári év |
+| 7. | A köztisztasági feladatellátással kapcsolatos naturális és gazdasági adatok. | Évenkénti | június 15. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
 
-| 8. | A hulladékgazdálkodási eszközzel végzett hulladékgazdálkodási tevékenységgel kapcsolatos naturális adatok. | Évenkénti | február 20. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
+| 8. | A hulladékgazdálkodási eszközzel kapcsolatos, a telephely meghatározására szolgáló azonosító adatok, a telephelyhez köthető hulladékgazdálkodási eszköz beazonosítására szolgáló adatok, a hulladékgazdálkodási tevékenység célját szolgáló eszközhöz köthető tulajdonosok beazonosításához szükséges adatok. | Évenkénti | január 31. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év december 31. napja |
 
-| 9. | A hulladékgazdálkodási eszközzel kapcsolatos műszaki, gazdasági adatok és vagyonadatok. | Évenkénti | február 20. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év december 31. napja |
+| 9. | A hulladékgazdálkodási eszközzel végzett hulladékgazdálkodási tevékenységgel kapcsolatos naturális adatok. | Évenkénti | január 31. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év |
 
-[^14]: Az 1. melléklet a 6/2024. (VIII. 29.) MEKH rendelet 7. §-ával megállapított szöveg.
+| 10. | A hulladékgazdálkodási eszközzel kapcsolatos műszaki, gazdasági adatok és vagyonadatok. | Évenkénti | március 31. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év december 31. napja |
+
+| 11. | A hulladékgazdálkodási eszközzel kapcsolatos műszaki, gazdasági adatok és vagyonadatok. | Évenkénti | március 31. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év december 31. napja |
+
+[^23]: Az 1. melléklet az 1/2026. (I. 30.) MEKH rendelet 6. §-ával megállapított szöveg.

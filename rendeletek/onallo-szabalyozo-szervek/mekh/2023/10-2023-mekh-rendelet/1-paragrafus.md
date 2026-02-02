@@ -26,13 +26,14 @@ bb) a koncesszori alvállalkozó, valamint
 
 bc) a települési önkormányzat,
 
-c) c) pontja alapján az országban működő hulladékgazdálkodási eszköz és létesítmény (a továbbiakban együtt: hulladékgazdálkodási eszköz)
+c)[^3] c) pontja alapján az országban működő, a Ht. 47/D. § (1) bekezdésének hatálya alá tartozó hulladékgazdálkodási eszköz és létesítmény (a továbbiakban együtt: hulladékgazdálkodási eszköz)
 
 ca) használója és
 
 cb) tulajdonosa
 
-[a 4. § tekintetében a továbbiakban az a)–c) pontban foglaltak együtt: adatszolgáltató] rendszeres adatszolgáltatást teljesít a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
+rendszeres adatszolgáltatást teljesít a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
 
 [^1]: Az 1. § (2) bekezdés záró szövegrésze a 6/2025. (V. 21.) MEKH rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 6/2024. (VIII. 29.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés c) pont nyitó szövegrésze az 1/2026. (I. 30.) MEKH rendelet 7. § a) pontja, záró szövegrésze az 1/2026. (I. 30.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.
