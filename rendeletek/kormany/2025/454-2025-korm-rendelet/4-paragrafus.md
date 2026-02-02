@@ -1,3 +1,3 @@
-4. § Az R1. 44/M. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(2) Az iskola a vak vagy gyengénlátó tanuló részére a speciális tankönyveket, taneszközöket a (3) bekezdés szerinti közreműködőtől a Könyvtárellátó bevonásával szerzi be, amelyről a Könyvtárellátó és a közreműködő külön megállapodást köt.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

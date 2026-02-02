@@ -1,5 +1,5 @@
 ## 6. A pedagógus-továbbképzés rendszeréről szóló 419/2024. (XII. 23.) Korm. rendelet módosítása
 
-11. §[^8]
+11. §[^12]
 
-[^8]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
