@@ -1,3 +1,3 @@
-6. § A 458/2024. (XII. 30.) Korm. rendelet 38. § c)–f) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(Ez a rendelet)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

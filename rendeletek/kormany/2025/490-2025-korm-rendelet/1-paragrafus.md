@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a környezetvédelem általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 5. pontjában és a klímagázokról szóló 2024. évi LXXXVII. törvény 18. § (1) bekezdés a), b), d), e) és i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A klímagázokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 458/2024. (XII. 30.) Korm. rendelet [a továbbiakban: 458/2024. (XII. 30.) Korm. rendelet] 17. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3) és (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2) Az (EU) 2024/573 európai parlamenti és tanácsi rendelet 11. cikk (3) bekezdésében meghatározottak szerint nem utántölthető tartályt csak későbbi ártalmatlanítás céljából szabad tárolni vagy szállítani. Ebben az esetben a 16. § (5) bekezdésében meghatározottakon felül az ártalmatlanítás céljából történő tárolás vagy szállítás tényét, a birtokbavétel időpontját a képesített vállalkozás köteles a nem utántölthető tartályon az adatbázisból generált címkével feltüntetni. A tévesen generált címkét a generálástól számított 8 napon belül a képesített vállalkozás köteles törölni az adatbázisból.
-
-(3) A képesített vállalkozásnak gondoskodnia kell a nem utántölthető tartály ártalmatlanításra történő átadásáról, annak a birtokba vételétől számított egy éven belül. Az ártalmatlanításra átadásról szóló dokumentumot 5 évig meg kell őrizni, kérésre a Hatóság rendelkezésére kell bocsátani.
-
-(4) A (2) bekezdés szerinti címke hiányában, vagy amennyiben a címkén nincs feltüntetve a nem utántölthető tartály birtokbavételének időpontja, ellenkező bizonyításáig a birtokbavétel időpontját egy éven túli időpontnak kell tekinteni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
