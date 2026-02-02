@@ -1,3 +1,3 @@
-3. § Az 1/2025. (I. 13.) EM rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) Az a természetes személy, aki nem rendelkezik az adott képesítési kategória vonatkozásában a klímagáz képzés elvégzésére közvetlenül jogosító, 2. melléklet szerinti szakmai előképzettséggel, a klímagáz képzést megelőzően felkészítő képzésen köteles részt venni. A 2. mellékletben foglalt táblázat C oszlopa tartalmazza képesítési kategória megjelölésével azokat a szakmai előképzettségeket, amelyeknek megléte esetén a felkészítő tanfolyam sikeres elvégzését követően el lehet végezni a megjelölt képesítési kategória szerinti klímagáz képzést.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-15. § Hatályát veszti az 1/2025. (I. 13.) EM rendelet 9. § (1) bekezdésében az „a választott képző szervet és” szövegrész.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

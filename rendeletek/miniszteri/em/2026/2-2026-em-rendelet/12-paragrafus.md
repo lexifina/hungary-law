@@ -1,3 +1,3 @@
-12. § Az 1/2025. (I. 13.) EM rendelet 35. §-a a következő g)–i) ponttal egészül ki:
+12. §[^13]
 
-(Ez a rendelet)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

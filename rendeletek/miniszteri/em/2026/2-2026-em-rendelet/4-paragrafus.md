@@ -1,3 +1,3 @@
-4. § Az 1/2025. (I. 13.) EM rendelet 12. §-a a következő (6) bekezdéssel egészül ki:
+4. §[^5]
 
-„(6) A klímagáz képzés és a klímagáz záróvizsga személyesen – illetve a Hatóság által egyedileg meghatározott, engedélyezett esetekben a klímagáz képzés és a klímagáz záróvizsga részben vagy egészben távoktatás formájában – teljesíthető.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

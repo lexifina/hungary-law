@@ -6,6 +6,6 @@
 
 ## [4] A klímagázokról szóló 2024. évi LXXXVII. törvény 18. § (2) bekezdés b)–d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A klímagázokkal kapcsolatos tevékenységeket végzők képesítésére vonatkozó szabályokról szóló 1/2025. (I. 13.) EM rendelet [a továbbiakban: 1/2025. (I. 13.) EM rendelet] 2. §-a a következő 1a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
