@@ -1,0 +1,262 @@
+# A Kormány 12/2026. (II. 3.) Korm. rendelete
+
+Magyar Közlöny 2026. évi 13. szám, 2026. február 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7v2lQI12G1U3B6SbK1S769727374c5af0/dokumentumok/76bb9943d4e44ea9cf00eb25595637e06307b494/letoltes)
+
+---
+
+A Kormány 12/2026. (II. 3.) Korm. rendelete
+a januári rezsistopról
+[1] 2026 januárjában a másfél évtizede nem látott rendkívüli hideg időjárás jelentősen megemelte a családok fűtési
+igényét. A családok többsége kénytelen volt jóval többet fűteni a megszokottnál, és ez váratlanul magas rezsiszámlákat
+eredményezett volna. A Kormány célja, hogy megvédje a magyar családokat. Ezért a Kormány januári rezsistopot
+vezet be, ezzel átvállalva minden magyar családtól a januári rendkívüli hideg időjárás okozta többletfűtés költségeit.
+Ez 55 milliárd forint támogatást jelent a magyar lakosságnak. Fűtési módtól és számlázási módtól függően eltérő technikai
+megoldásokkal, de minden magyar család számára biztosítjuk a januári rezsistopot, amely egyszeri 30%-os kedvezményt
+jelent a gázzal, a távhővel és az árammal fűtők számára.
+[2] A Kormány az Alaptörvény 53. cikk (1) bekezdés b) pontjában meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, valamint
+a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek
+elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 2. § (1a) bekezdésére, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Általános rendelkezések
+1. §
+[Veszélyhelyzeti eltérések deklarálása]
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a személyi
+jövedelemadóról szóló 1995. évi CXVII. törvényt (a továbbiakban: Szja tv.), a Magyarország gazdasági stabilitásáról
+szóló 2011. évi CXCIV. törvényt (a továbbiakban: GST tv.), a távhőszolgáltatásról szóló 2005. évi XVIII. törvényt,
+a villamos energiáról szóló 2007. évi LXXXVI. törvényt (a továbbiakban: Vet.), a földgázellátásról szóló 2008. évi
+XL. törvényt (a továbbiakban: Get.), a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvényt
+(a továbbiakban: Távhő törvény), a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvényt (a továbbiakban:
+Rezsitörvény), a távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön
+kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendeletet
+(a továbbiakban: Árrendelet) az ezen rendeletben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+2. A földgázfogyasztás után járó kedvezményről
+2. §
+[A kedvezményre jogosultak köre]
+(1) Az egyetemes szolgáltató által a Get. 3. § 47. pontja szerinti fogyasztó – ideértve a Get. 32. § (1a) bekezdése
+szerint lakossági fogyasztónak minősülő fogyasztókat – (ezen alcím alkalmazásában a továbbiakban: lakossági
+fogyasztó) számára 2026. január 1. és 31. között értékesített földgáz tekintetében – a Rezsitörvényben biztosított
+kedvezményen felül – a 3. §-ban meghatározott mennyiségi kedvezményt (ezen alcím alkalmazásában
+a továbbiakban: mennyiségi kedvezmény) érvényesít az egyetemes szolgáltató.
+(2) Nem jogosult földgáz mennyiségi kedvezményre a gázmérővel nem rendelkező, a földgázpiaci egyetemes
+szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.)
+NFM rendelet (a továbbiakban: ESZ rendelet) 2. melléklete szerint a lakás típusa és a beépített gázfogyasztó
+készülékek alapján meghatározott mennyiség után átalánydíjat fizető fogyasztó.
+(3) E rendelet hatálybalépése napján a Get. 3. § 13. pontja szerinti előre fizető mérőn keresztül vételező lakossági
+fogyasztó a 3. § (7) bekezdése szerinti támogatásra jogosult.
+
+3. §
+[A kedvezmény biztosításának módja]
+(1) Ha a diktáláson alapuló számlázási módot használó lakossági fogyasztó a 2026. január 1. és 31. közötti földgáz
+fogyasztásáról egy vagy több havi elszámoló számlát kap, részére a számlában az egyetemes szolgáltató
+a 2026. január 1. és 31. közötti földgáz fogyasztásáról – az 1. melléklet 1. pontja szerinti módszerrel – a 2026. januári
+fogyasztás 30%-os mennyiségi mértékének megfelelő összegű mennyiségi kedvezményt biztosít.
+(2) Ha az egyenletes mennyiségen vagy hőmérsékletfüggő mennyiségen alapuló részszámlás lakossági fogyasztó
+a 2026. január 1. és 2026. január 31. közötti földgáz fogyasztásáról egy vagy több részszámlát kap (a továbbiakban:
+részszámlás lakossági fogyasztó), akkor részére az egyetemes szolgáltató a 2026. évi elszámoló számlában
+az 1. melléklet szerinti kiszámított mennyiségnek megfelelő összegű mennyiségi kedvezményt biztosít.
+(3) Ha a lakossági fogyasztó földgáz fogyasztása tekintetében az ESZ rendelet 10. § (1) bekezdése szerinti
+kedvezményes lakossági sávhatárt illetve – jogosultságának megfelelően – a nagycsaládosokat megillető földgáz
+árkedvezményről szóló 494/2017. (XII. 29.) Korm. rendelet 3. § (1) bekezdésében meghatározott addicionális
+mennyiséggel növelt sávhatárt (a továbbiakban együtt: sávhatár) a 2025. évben kiállított éves leolvasást követő
+elszámoló számlájában szereplő mennyiség egy évre vetített értéke nem haladta meg, akkor az egyetemes
+szolgáltató a 2026. évi éves leolvasást követő elszámoló számlában sem állapíthat meg – függetlenül az 1. melléklet
+szerint megállapított mennyiségnek megfelelő mennyiségi kedvezmény mértékétől – a sávhatár szerinti
+mennyiséghez tartozó ellenértéknél magasabb összegű fizetési kötelezettséget, ezáltal a lakossági fogyasztónak
+biztosított kedvezmény mértéke a sávhatár feletti fogyasztásának mértékéig nő.
+(4) Ha a mennyiségi kedvezménynek megfelelő összegű kedvezmény értéke magasabb, mint a kedvezményt
+tartalmazó első számla bruttó számlaértéke, úgy a fennmaradó mennyiségi kedvezmény összege a következő
+kibocsátott számlák fizetendő összegét csökkenti.
+(5) Az egyetemes szolgáltató az éves leolvasás alapján kiállított elszámoló számlát legkésőbb 2026. május 16-tól
+kezdődően küldi ki a lakossági fogyasztó részére.
+(6) Azoknál a részszámlás lakossági fogyasztóknál, akiknél az éves leolvasásuk alapján 2026. május 16-a előtt esedékes
+az éves elszámoló számla kibocsátása, az egyetemes szolgáltató a kibocsátás eredeti esedékességét követően
+kiállításra kerülő első részszámlában érvényesíti a kedvezményt.
+(7) Az egyetemes szolgáltató az előre fizető mérővel rendelkező lakossági fogyasztó egyetemes szolgáltatónál
+nyilvántartott szerződéses folyószámla egyenlegén a lakossági fogyasztó részére legkésőbb 2026. március 31-éig
+egyszeri 7000 forint összeget támogatásként jóváír.
+(8) A lakossági fogyasztónak minősülő társasház, lakásszövetkezet esetében mérési pontonként – felhasználási
+helyenként – a sávhatárt és a kedvezmény mértékét a lakóépületben műszakilag megosztott, önálló lakások
+számának szorzata alapján kell meghatározni.
+4. §
+[Fogyasztók tájékoztatása]
+(1) A 3. § szerinti mennyiségi kedvezményről az egyetemes szolgáltató 2026. február 15-ig általános írásos tájékoztatást
+küld a lakossági fogyasztó részére. Írásos tájékoztatásnak minősül az egyetemes szolgáltató és a lakossági fogyasztó
+közötti megállapodásnak megfelelő, általuk rendszeresen használt elektronikus út is.
+(2) A lakossági fogyasztó 2026. április 30-ig jogosult a földgáz mennyiségi kedvezménye helyett a 3. alcím szerinti
+villamos energia mennyiségi kedvezményt igényelni.
+3. Villamos energia kedvezményről
+5. §
+[A kedvezményre jogosultak köre]
+(1) A Vet. 3. § 42. pontja szerinti lakossági fogyasztó – ideértve a Vet. 50. § (4) bekezdése szerint lakossági fogyasztónak
+minősülő felhasználókat – (ezen alcím alkalmazásában a továbbiakban: lakossági fogyasztó) által az egyetemes
+szolgáltatás keretében 2026. január 1. és 31. között vételezett villamos energia mennyisége tekintetében
+– a Rezsitörvényben biztosított kedvezményen felül – a 6. § (1) bekezdésében meghatározott villamos energia
+mennyiségi kedvezményt (ezen alcím alkalmazásában a továbbiakban: mennyiségi kedvezmény) nyújt
+az egyetemes szolgáltató.
+(2) A villamos energiát e rendelet hatálybalépése napján előre fizető mérőn keresztül vételező lakossági fogyasztó a 6. §
+(2) bekezdése szerinti támogatásra jogosult.
+(3) Nem jogosult villamos energia mennyiségi kedvezményre a lakossági fogyasztó, ha az adott felhasználási hely
+tekintetében a 2. alcím szerinti kedvezményben részesül.
+
+6. §
+[A kedvezmény biztosításának módja]
+(1) Az egyetemes szolgáltató a lakossági fogyasztó javára a 7. § (2) bekezdése szerinti nyilatkozat alapján a nyilatkozat
+feldolgozását követő első számlában, de legkésőbb a 2026. május 16-át követően kiállított első elszámoló
+számlában a 2026. január 1. és 2026. január 31. között vételezett villamos energia tekintetében – a 2. melléklet
+alapján kiszámított – mennyiségi kedvezményt érvényesít.
+(2) Az egyetemes szolgáltató az előre fizető mérővel rendelkező lakossági fogyasztó egyetemes szolgáltató által
+vezetett szerződéses folyószámla egyenlegén legkésőbb 2026. március 31-ig egyszeri 7000 forint összeget
+támogatásként jóváír.
+7. §
+[Fogyasztók tájékoztatása]
+(1) A mennyiségi kedvezményről és a (2) bekezdés szerinti nyilatkozat módjáról az egyetemes szolgáltató
+2026. február 15-ig általános írásos tájékoztatást küld a lakossági fogyasztó részére. Írásos tájékoztatásnak minősül
+az egyetemes szolgáltató és a lakossági fogyasztó közötti megállapodásnak megfelelő, általuk rendszeresen
+használt elektronikus út is.
+(2) A lakossági fogyasztó 2026. április 30-ig, az (1) bekezdés szerinti írásbeli tájékoztatásban megjelölt módon jogosult
+a villamos energia mennyiségi kedvezményt igényelni, ha a 2. alcím szerinti kedvezményt nem veszi igénybe.
+(3) A mennyiségi kedvezményt a lakossági fogyasztó az e rendelet hatálybalépésének időpontjában hatályban
+lévő villamosenergia-vásárlási szerződésében megjelölt egy felhasználási helyen – több mérési pont esetén is –
+csak egy mérési pont tekintetében igényelheti. Ha a lakossági fogyasztó az egyetemes szolgáltató felé írásban
+2026. április 30-ig nem nyilatkozik, a mennyiségi támogatásra való jogosultsága megszűnik.
+4. Távhő kedvezményről
+8. §
+[A kedvezményre jogosultak köre és a kedvezmény biztosításának módja]
+A távhőszolgáltató a lakossági felhasználó és a lakossági díjfizető részére – a Rezsitörvényben biztosított
+kedvezményen felül – a 2026. január hónapra eső hőfelhasználásért az Árrendelet 3. § (2) bekezdése szerint
+megállapított szolgáltatási díj alapdíj nélküli részének 30%-kal csökkentett értékéről állít ki számlát legkésőbb
+a 2026. tavasszal induló elszámolás során.
+9. §
+[A felhasználó tájékoztatása]
+A távhőszolgáltató a 8. § alapján megállapított árkedvezményről 2026. február 20. napjáig tájékoztatja a lakossági
+felhasználót és a lakossági díjfizetőt. Írásos tájékoztatásnak minősül a távhőszolgáltató és a lakossági felhasználó
+vagy a lakossági díjfizető közötti megállapodásnak megfelelő, általuk rendszeresen használt elektronikus út is.
+5. A kedvezményekkel kapcsolatos közös szabályok
+10. §
+[A személyi jövedelemadó eltérő alkalmazása]
+Az Szja tv. 1. számú mellékletének rendelkezéseitől eltérően egyéb indokkal adómentes az e rendelet alapján
+biztosított mennyiségi kedvezmény vagy támogatás összege.
+11. §
+[A kedvezmény nyilvántartása]
+A 2. és 3. alcím szerinti egyetemes szolgáltató a lakossági fogyasztóknak nyújtott mennyiségi kedvezményt
+támogatásként tartja nyilván, és így tünteti fel a lakossági fogyasztó számára kibocsátott számlán.
+12. §
+[Ellentételezés]
+(1) Az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi
+szolgáltatásról szóló 236/2025. (VII. 31.) Korm. rendelet [a továbbiakban: 236/2025. (VII. 31.) Korm. rendelet] 1. §
+(1) bekezdés a) pontja szerint a rezsivédelmi szolgáltatás végzésére kijelölt engedélyes részére a 2. alcím szerinti,
+ténylegesen érvényesített mennyiségi kedvezmény alapú kedvezmény biztosításával járó bevételkiesést és
+az egyéb igazolt költségeket, ideértve különösen a 3. § (7) bekezdése szerinti támogatást, az energiapolitikáért
+felelős miniszter elkülönített költségvetési forrásból ellentételezi. Az ellentételezés a földgáz egyetemes szolgáltató
+költségnövekedésének és bevételkiesésének kezelésére használható fel.
+(2) A 236/2025. (VII. 31.) Korm. rendelet 1. § (1) bekezdés b) pontja szerint a rezsivédelmi szolgáltatás végzésére
+kijelölt engedélyes részére a 3. alcím szerinti, ténylegesen érvényesített mennyiségi kedvezmény biztosításával
+
+járó bevételkiesést és az egyéb igazolt költségeket, ideértve különösen a 6. § (2) bekezdése szerinti támogatást,
+az energiapolitikáért felelős miniszter elkülönített költségvetési forrásból ellentételezi. Az ellentételezés a villamos
+energia egyetemes szolgáltató költségnövekedésének és bevételkiesésének kezelésére használandó fel.
+(3) Az Árrendelet alapján történő kifizetések biztosítása érdekében a 8. § szerinti kedvezmény pozitív
+ellenértékét az energiapolitikáért felelős miniszter elkülönített költségvetési forrásból megtéríti a villamos
+energiáról szóló törvény szerinti átviteli rendszerirányító részére. A megtérített összeg a távhőszolgáltató
+költségnövekedésének és bevételkiesésének kezelésére használható fel.
+(4) Az e § szerinti ellentételezésre vonatkozó eljárási szabályokat kormányrendelet határozza meg.
+13. §
+[A jogosultság ellenőrzése]
+Az egyetemes szolgáltató a 2. és 3. alcím tekintetében a jogosultsági feltételek meglétét ellenőrizni jogosult.
+6. Az energiaellátók különadó kötelezettségéről
+14. §
+[Az energiaellátók különadójának beszedése]
+(1) A Távhő törvény által előírt adókötelezettségen túl a Távhő törvény szerint a 2026-ban kezdődő adóév első napján
+az energiaellátók jövedelemadója alanyának minősülő, a Távhő törvény 10. § 1. pont 1.1–1.6. alpontja és
+1.8. alpontja szerinti adózó a 2026-ban kezdődő adóévre a (2)–(8) bekezdésben foglaltak szerinti különadó önadózás
+útján történő megállapítására, bevallására és fizetésére kötelezett.
+(2) A különadó alapja az energiaellátók jövedelemadója alkalmazásában jövedelemadó-köteles tevékenységek
+2024. adóévi éves beszámolóban kimutatott árbevétele.
+(3) A különadó mértéke a (2) bekezdés szerinti adóalap 0,5 százaléka, azzal, hogy az e § alapján fizetendő különadó
+összege nem haladhatja meg a Távhő törvény 6. §-a szerint megállapított 2024. adóévi jövedelemadó-alap
+50 százalékát.
+(4) Amennyiben az (1) bekezdés szerinti adóalany a 2024–2026. adóévekben átalakulással, egyesüléssel vagy
+szétválással érintett, akkor a (2) bekezdés szerinti adóalapot a jogelőd(ök), illetve a jogutód(ok) adatainak
+figyelembevételével állapítja meg.
+(5) Az (1) bekezdés szerinti adózó a különadót a 2026-ban kezdődő adóév harmadik hónapjának utolsó napjáig külön
+nyomtatványon megállapítja és megfizeti.
+(6) A megszűnő vagy a különadó hatálya alól bármely egyéb okból a 2026-ban kezdődő adóév harmadik hónapjának
+utolsó napjáig kikerülő, (1) bekezdés szerinti adóalany az e § szerinti kötelezettségét a megszűnését vagy
+a különadó hatálya alól történő kikerülését követő 30. napig teljesíti, ha az annak teljesítésére előírt határidő
+korábban nem telt le.
+(7) Az e § szerinti különadó adónak minősül. Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról
+szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
+(8) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevételét képezi.
+15. §
+[GST tv.-től való eltérés]
+A 14. § szerinti különadóra a GST tv. 32. §-át nem kell alkalmazni.
+7. Záró rendelkezések
+16. §
+[Hatálybalépés]
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 12/2026. (II. 3.) Korm. rendelethez
+1. A 3. § (1) bekezdése szerinti elszámoló számlák esetén a 2026. januári fogyasztás kiszámítása az egyetemes
+szolgáltató e rendelet hatálybalépésének napján érvényes üzletszabályzata szerinti termikus fogyasztás számítási
+módszer alkalmazásával történik.
+2. A 3. § (2) bekezdése szerinti részszámlák esetén a mennyiségi kedvezmény kiszámítása az alábbi képlet szerint
+történik:
+a) 2025. évi éves leolvasást követő elszámoló számlával rendelkező részszámlás lakossági földgázfogyasztó
+esetén:
+mennyiségi kedvezmény (MJ) = X (2025. évi elszámoló számlán szereplő éves mennyiség) * 0,194281
+[a januári hónapra vonatkozó, a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról
+szóló 19/2009. (I. 30.) Korm. rendelet 13. számú melléklete szerinti jelleggörbe (a továbbiakban: jelleggörbe)
+szerinti mennyiség] * 1,3 (30%-os átlagos földgáz-felhasználási többlet mennyiség) * 0,3 (a 30%-os
+kedvezmény);
+A mennyiségi kedvezmény kiszámításához az egyetemes szolgáltató a 2025. évi éves leolvasást követő
+elszámoló számlát csak abban az esetben veszi figyelembe, amennyiben annak elszámolási időszaka
+egyéves időtartamot tartalmaz. Egyéves időtartamnak minősül a 2024. év adott naptári hónapjában
+kezdődő és a 2025. évnek a 2024. év adott naptári hónapjával megegyező hónapban végződő időszaka.
+Egyéves elszámolási időszakkal nem rendelkező elszámoló számla hiányában a mennyiségi kedvezmény
+meghatározása a b) alpontban részletezett módszerrel történik. (Az időszak kezdő és záró időpontjától
+számított legfeljebb 10 naptári napos eltérés nem érinti az időtartam egyéves időszaknak történő
+minősítését.)
+b) 2025. évi éves leolvasást követő elszámoló számlával nem rendelkező részszámlás lakossági földgázfogyasztó
+esetén:
+mennyiségi kedvezmény (MJ) = X (2026. február 1-jén az egyetemes szolgáltató által nyilvántartott várható
+éves fogyasztása) * 0,194281 (a januári hónapra vonatkozó jelleggörbe szerinti mennyiség) * 1,3 (30%-os
+átlagos földgáz-felhasználási többlet mennyiség) * 0,3 (a 30%-os kedvezmény).
+c) Ha a 2025. évi éves leolvasást követő elszámoló számla 0 MJ mennyiségű fogyasztást tartalmazott
+– jellemzően az üres lakás beállítással rendelkező lakossági fogyasztó esetén –, de a 2026. évi éves leolvasás
+alapján a lakossági fogyasztó már fogyasztott földgázt, akkor az egyetemes szolgáltató – a jelleggörbe
+alkalmazásával – a 2026. évi éves elszámoló számla 2026. január 1. és 2026. január 31. közötti fogyasztás
+30%-os mennyiségi mértékének megfelelő összegű mennyiségi kedvezményt biztosít.
+2. melléklet a 12/2026. (II. 3.) Korm. rendelethez
+1. A 6. § (1) bekezdése szerinti villamos energia mennyiségi kedvezmény (kWh) kiszámítása az alábbi képlet szerint
+történik:
+a) Ha a 2026. januári tényfogyasztás meghatározásához rendelkezésre állnak havi mérőállás adatok, akkor ezen
+mérőállás adatok alapján számítandó a 2026 januárjára időarányosan meghatározott mennyiség 30%-ának
+megfelelő mértékű villamosenergia-mennyiség.
+b) Az a) alpont hiányában a 2025. évi éves leolvasást követő elszámoló számlával rendelkező lakossági fogyasztó
+esetén:
+mennyiségi kedvezmény (kWh) = X (2025. évi elszámoló számlán szereplő éves mennyiség)
+* 1/12 (egy hónapra jutó mennyiség) * 1,3 (30%-os átlagos villamosenergia-felhasználási többlet mennyiség)
+* 0,3 (a 30%-os kedvezmény);
+A mennyiségi kedvezmény kiszámításához az egyetemes szolgáltató a 2025. évi éves leolvasást követő
+elszámoló számlát csak abban az esetben veszi figyelembe, ha annak elszámolási időszaka egyéves
+időtartamot tartalmaz. Egyéves időtartamnak minősül a 2024. év adott naptári hónapjában kezdődő és
+a 2025. évnek a 2024. év adott naptári hónapjával megegyező hónapban végződő időszaka. Egyéves
+elszámolási időszakkal nem rendelkező elszámoló számla hiányában a mennyiségi kedvezmény
+meghatározása a c) alpontban részletezett módszerrel történik. (Az időszak kezdő és záró időpontjától
+
+számított legfeljebb 10 naptári napos eltérés nem érinti az időtartam egyéves időszaknak történő
+minősítését.)
+c) Az a) és a b) alpont hiányában:
+mennyiségi kedvezmény (kWh) = X (2026. február 1-jén az egyetemes szolgáltató által nyilvántartott
+mértékadó éves fogyasztás) * 1/12 (egy hónapra jutó mennyiség) * 1,3 (30%-os átlagos villamosenergia-
+felhasználási többlet mennyiség) * 0,3 (a 30%-os kedvezmény).
+d) Ha a 2025. évi éves leolvasást követő elszámoló számla 0 kWh mennyiségű fogyasztást tartalmazott
+– jellemzően az üres lakás beállítással rendelkező lakossági fogyasztó esetén –, de a 2026. évi éves leolvasás
+alapján a lakossági fogyasztó már fogyasztott villamos energiát, akkor az egyetemes szolgáltató a 2026. évi
+éves elszámoló számla – 1/12 (egy hónapra jutó mennyiség) elve alapján – 2026. január 1. és 2026. január 31.
+közötti fogyasztás 30%-os mennyiségi mértékének megfelelő összegű kedvezményt biztosít.
