@@ -40,7 +40,7 @@ A Kormány az iváncsai ipari-innovációs fejlesztési terület kialakításáv
 
 | Határidő: | azonnal |
 
-5.[^11] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az 1. pont szerinti közúti és vasúti fejlesztési feladatok megvalósítása érdekében 78 092 250 000 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
+5.[^11] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az 1. pont szerinti közúti és vasúti fejlesztési feladatok megvalósítása érdekében 62 592 250 000 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
 
 a) a közúti fejlesztési feladatokra a Kvtv2022. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára 900 450 000 forint,
 
@@ -56,13 +56,13 @@ f) a vasúti fejlesztési feladatokra a 2025. évi központi költségvetés Ál
 
 g) a vasúti fejlesztési feladatokra a 2026. évi központi költségvetés Állami beruházások fejezet, Állami vasútfejlesztési beruházásokat szolgáló előirányzat javára 5 500 000 000 forint,
 
-h)[^12] a közúti fejlesztési feladatokra a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára 1 000 000 000 forint,
+h)[^12] a közúti fejlesztési feladatokra a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára 685 600 000 forint,
 
-i)[^13] a közúti fejlesztési feladatokra a 2026. évi központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat javára 16 500 000 000 forint,
+i)[^13] a közúti fejlesztési feladatokra a 2026. évi központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 2. Állami közútfejlesztési beruházások alcím, 3. Térségi jelentőségű közúti beruházások jogcímcsoport javára 1 000 000 000 forint,
 
 j) a közúti fejlesztési feladatokra a 2027. évi központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat javára 10 000 000 000 forint,
 
-k)[^14] a közúti fejlesztési feladatokra a 2028. évi központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat javára 9 400 000 000 forint;
+k)[^14] a közúti fejlesztési feladatokra a 2028. évi központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat javára 9 714 400 000 forint;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
@@ -94,9 +94,9 @@ k)[^14] a közúti fejlesztési feladatokra a 2028. évi központi költségvet�
 [^8]: Az 1. pont 1.14. alpontját az 1190/2024. (VI. 28.) Korm. határozat 3. pont b) alpontja iktatta be.
 [^9]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^10]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^11]: Az 5. pont az 1190/2024. (VI. 28.) Korm. határozat 3. pont c) alpontjával megállapított szöveg.
-[^12]: Az 5. pont h) alpontja az 1054/2025. (III. 11.) Korm. határozat 8. pontjával megállapított szöveg.
-[^13]: Az 5. pont i) alpontja az 1054/2025. (III. 11.) Korm. határozat 8. pontjával megállapított szöveg.
-[^14]: Az 5. pont k) alpontja az 1054/2025. (III. 11.) Korm. határozat 9. pontjával megállapított szöveg.
+[^11]: Az 5. pont az 1190/2024. (VI. 28.) Korm. határozat 3. pont c) alpontjával megállapított, nyitó szövegrésze az 1022/2026. (II. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^12]: Az 5. pont h) alpontja az 1022/2026. (II. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^13]: Az 5. pont i) alpontja az 1022/2026. (II. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^14]: Az 5. pont k) alpontja az 1022/2026. (II. 3.) Korm. határozat 2. pontjával megállapított szöveg.
 [^15]: A 7. pontot az 1468/2023. (X. 30.) Korm. határozat 6. pont a) alpontja visszavonta.
 [^16]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1190/2024. (VI. 28.) Korm. határozat 3. pont d) alpontja iktatta be.
