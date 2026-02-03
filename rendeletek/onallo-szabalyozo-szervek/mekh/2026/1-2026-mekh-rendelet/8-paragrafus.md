@@ -1,5 +1,3 @@
-8. § Hatályát veszti a 10/2023. (VI. 30.) MEKH rendelet
+8. §[^9]
 
-a) 1. § (2) bekezdésében az „[a 4. § tekintetében a továbbiakban az a)–c) pontban foglaltak együtt: adatszolgáltató]” szövegrész,
-
-b) 10. § (3) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

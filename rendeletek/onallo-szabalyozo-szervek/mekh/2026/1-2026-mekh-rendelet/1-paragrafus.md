@@ -4,6 +4,6 @@
 
 ## [3] A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3a) bekezdés f) pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A hulladékról szóló 2012. évi CLXXXV. törvény szerint a Magyar Energetikai és Közmű-szabályozási Hivatal részére teljesítendő rendszeres adatszolgáltatási kötelezettségről szóló 10/2023. (VI. 30.) MEKH rendelet [a továbbiakban: 10/2023. (VI. 30.) MEKH rendelet] 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az 1. § (2) bekezdés a) pontja szerinti adatszolgáltató az adatszolgáltatással érintett időszakra vonatkozóan adatszolgáltatás teljesítésére köteles, ha B3 alkategóriájú hulladéklerakó vagy a Ht. 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetéséhez az adatszolgáltatással érintett időszakban hulladékgazdálkodási engedéllyel vagy egységes környezethasználati engedéllyel rendelkezett.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
