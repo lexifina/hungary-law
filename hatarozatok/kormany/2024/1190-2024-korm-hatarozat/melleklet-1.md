@@ -26,8 +26,6 @@
 
 1. melléklet az 1190/2024. (VI. 28.) Korm. határozathoz
 
-A kötelezettségvállalás mértéke az egyes közúti infrastruktúra-fejlesztések megvalósításához szükséges intézkedések módosítása kapcsán:
-
 [^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
