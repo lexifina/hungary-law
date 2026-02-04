@@ -1,0 +1,1 @@
+2. § A Kormány megállapítja, hogy a BÁSZNA Gabona Zártkörűen Működő Részvénytársaság – mint stratégiailag kiemelt jelentőségű felszámolási eljárásban érintett gazdálkodó szervezet – vonatkozásában a Cstv. 65–67. §-át alkalmazni kell.
