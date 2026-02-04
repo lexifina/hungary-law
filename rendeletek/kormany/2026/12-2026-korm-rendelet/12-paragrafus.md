@@ -1,0 +1,9 @@
+12. § [Ellentételezés]
+
+(1) Az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 236/2025. (VII. 31.) Korm. rendelet [a továbbiakban: 236/2025. (VII. 31.) Korm. rendelet] 1. § (1) bekezdés a) pontja szerint a rezsivédelmi szolgáltatás végzésére kijelölt engedélyes részére a 2. alcím szerinti, ténylegesen érvényesített mennyiségi kedvezmény alapú kedvezmény biztosításával járó bevételkiesést és az egyéb igazolt költségeket, ideértve különösen a 3. § (7) bekezdése szerinti támogatást, az energiapolitikáért felelős miniszter elkülönített költségvetési forrásból ellentételezi. Az ellentételezés a földgáz egyetemes szolgáltató költségnövekedésének és bevételkiesésének kezelésére használható fel.
+
+(2) A 236/2025. (VII. 31.) Korm. rendelet 1. § (1) bekezdés b) pontja szerint a rezsivédelmi szolgáltatás végzésére kijelölt engedélyes részére a 3. alcím szerinti, ténylegesen érvényesített mennyiségi kedvezmény biztosításával járó bevételkiesést és az egyéb igazolt költségeket, ideértve különösen a 6. § (2) bekezdése szerinti támogatást, az energiapolitikáért felelős miniszter elkülönített költségvetési forrásból ellentételezi. Az ellentételezés a villamos energia egyetemes szolgáltató költségnövekedésének és bevételkiesésének kezelésére használandó fel.
+
+(3) Az Árrendelet alapján történő kifizetések biztosítása érdekében a 8. § szerinti kedvezmény pozitív ellenértékét az energiapolitikáért felelős miniszter elkülönített költségvetési forrásból megtéríti a villamos energiáról szóló törvény szerinti átviteli rendszerirányító részére. A megtérített összeg a távhőszolgáltató költségnövekedésének és bevételkiesésének kezelésére használható fel.
+
+(4) Az e § szerinti ellentételezésre vonatkozó eljárási szabályokat kormányrendelet határozza meg.
