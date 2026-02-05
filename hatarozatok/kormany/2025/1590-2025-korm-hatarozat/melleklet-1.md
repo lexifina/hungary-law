@@ -1,4 +1,4 @@
-## 1. támogatja a Budapest Főváros X. kerület Kőbányai Önkormányzat (a továbbiakban: Önkormányzat) részéről a Budapest X. kerület, belterület 42137/69 helyrajzi számú ingatlan 5230/14292 tulajdoni hányadának megszerzését;
+## 1.[^1] támogatja a Budapest Főváros X. kerület Kőbányai Önkormányzat (a továbbiakban: Önkormányzat) részéről a Budapest X. kerület, belterület 42137/69 helyrajzi számú ingatlan 2798/14292 tulajdoni hányadának megszerzését;
 
 ## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet, IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 22. Budapest Főváros X. kerület Kőbányai Önkormányzat ingatlan vásárlásának támogatása címmel történő kiegészítését;
 
@@ -27,3 +27,5 @@
 1. melléklet az 1590/2025. (XII. 29.) Korm. határozathoz
 
 5X11446.pdf
+
+[^1]: Az 1. pont az 1028/2026. (II. 5.) Korm. határozat szerint módosított szöveg.
