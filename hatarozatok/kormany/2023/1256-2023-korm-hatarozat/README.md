@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1256-30
 | 2024-03-21 | 2023-1256-30-22.5 | 1067/2024. (III. 21.) Korm. határozat |
 | 2024-04-03 | 2023-1256-30-22.6 | 1496/2023. (XI. 15.) Korm. határozat |
 | 2024-09-19 | 2023-1256-30-22.7 | 2010. évi CXXX. törvény |
+| 2026-02-05 | 2023-1256-30-22.8 | 1032/2026. (II. 5.) Korm. határozat |
