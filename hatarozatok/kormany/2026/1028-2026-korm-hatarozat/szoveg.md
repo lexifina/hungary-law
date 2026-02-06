@@ -1,1 +1,0 @@
-A Budapest Főváros X. kerület Kőbányai Önkormányzat támogatásáról szóló 1590/2025. (XII. 29.) Korm. határozat 1. pontjában az „5230/14292 tulajdoni hányadának” szövegrész helyébe a „2798/14292 tulajdoni hányadának” szöveg lép.
