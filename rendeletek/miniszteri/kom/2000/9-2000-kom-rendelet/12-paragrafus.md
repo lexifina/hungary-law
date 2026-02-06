@@ -10,11 +10,11 @@
 
 (6) A Magyar Honvédség tényleges katonai állományú tagját a legközelebbi helyőrség-parancsnokságra kell előállítani. Ha az távolabb van, mint a legközelebbi rendőri szerv, a rendőri szervhez kell az előállítást foganatosítani, és erről értesíteni kell a helyőrség parancsnokát vagy ügyeletesét.
 
-(7) A rendvédelmi szerv tagját az illetékes rendvédelmi szervhez kell előállítani. Erről az illetékes szerv parancsnokát (az ügyeletes tisztet) értesíteni kell.
+(7)[^31] A rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat tagját az illetékes rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz kell előállítani. Erről az illetékes szerv parancsnokát (az ügyeletes tisztet) értesíteni kell.
 
-(8)[^31] A Magyar Honvédség tényleges állományú tagját is a rendőri szervhez kell előállítani, ha az arra okot adó cselekményét polgári személlyel vagy rendvédelmi szerv tagjával közösen követte el.
+(8)[^32] A Magyar Honvédség tényleges állományú tagját is a rendőri szervhez kell előállítani, ha az arra okot adó cselekményét polgári személlyel vagy rendvédelmi szerv tagjával közösen követte el.
 
-(9)[^32] Ha az előállítandó személy a jogszerű intézkedésnek ellenszegül, vagy az intézkedő személy ellen támadást intéz és a birtokában fegyver vagy élet kioltására, illetve személyi sérülés okozására alkalmas eszköz (a továbbiakban együtt e bekezdés alkalmazásában: fegyver) van, a biztonsági intézkedések megtétele mellett fel kell szólítani fegyvere átadására. Amennyiben az előállítandó személy a fegyverét önként nem adja át, azt el kell venni. Az állami természetvédelmi őr a fegyver elrejtésének gyanúja esetén a ruházatot, a csomagot és a járművet átvizsgálja.
+(9)[^33] Ha az előállítandó személy a jogszerű intézkedésnek ellenszegül, vagy az intézkedő személy ellen támadást intéz és a birtokában fegyver vagy élet kioltására, illetve személyi sérülés okozására alkalmas eszköz (a továbbiakban együtt e bekezdés alkalmazásában: fegyver) van, a biztonsági intézkedések megtétele mellett fel kell szólítani fegyvere átadására. Amennyiben az előállítandó személy a fegyverét önként nem adja át, azt el kell venni. Az állami természetvédelmi őr a fegyver elrejtésének gyanúja esetén a ruházatot, a csomagot és a járművet átvizsgálja.
 
 (10) A személyes szabadságot korlátozó intézkedésekre és kényszerítő eszközökre a külön jogszabályban előírtakat az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
@@ -22,5 +22,6 @@
 [^28]: A 12. § (2) bekezdése a 41/2006. (X. 6.) KvVM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^29]: A 12. § (4) bekezdését a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
 [^30]: A 12. § (5) bekezdését a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
-[^31]: A 12. § (8) bekezdése a 41/2006. (X. 6.) KvVM rendelet 11. § (5) bekezdésével megállapított szöveg.
-[^32]: A 12. § (9) bekezdése a 41/2006. (X. 6.) KvVM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^31]: A 12. § (7) bekezdése a 4/2026. (II. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^32]: A 12. § (8) bekezdése a 41/2006. (X. 6.) KvVM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^33]: A 12. § (9) bekezdése a 41/2006. (X. 6.) KvVM rendelet 11. § (5) bekezdésével megállapított szöveg.

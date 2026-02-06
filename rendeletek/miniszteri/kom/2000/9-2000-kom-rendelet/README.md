@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-66
 | 2013-06-04 | 2000-9-20-66.6 | 45/2013. (VI. 3.) VM rendelet |
 | 2014-11-04 | 2000-9-20-66.7 | 17/2014. (X. 27.) FM rendelet |
 | 2019-04-06 | 2000-9-20-66.8 | 13/2019. (IV. 5.) AM rendelet |
+| 2026-02-06 | 2000-9-20-66.9 | 4/2026. (II. 5.) AM rendelet |

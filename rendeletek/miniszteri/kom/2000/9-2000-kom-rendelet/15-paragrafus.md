@@ -1,3 +1,3 @@
-## 14. §[^37]
+15. §[^39]
 
-[^37]: A 14. §-t a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
+[^39]: A 15. §-t a 45/2013. (VI. 3.) VM rendelet 3. § (7) bekezdése hatályon kívül helyezte.
