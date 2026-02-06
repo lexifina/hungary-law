@@ -1,0 +1,3 @@
+8/A. §[^32] Új szélerőmű vagy szélerőmű park, meglévő szélerőmű magasságának növelése vagy meglévő szélerőmű park bővítése – a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelettől eltérően – engedélyezhető, ha azok létesítése és működése honvédelmi és katonai képességcsökkenést nem okoz, vagy létesítésük során olyan műszaki megoldás alkalmazására kerül sor, amely biztosítja a Magyar Honvédség által üzemeltetett radarok zavartalan, rendeltetésszerű működését. Ha a műszaki feltételek még nem teljesülnek, akkor az üzembe helyezés és a használatbavétel időpontjáig teljesítendő kötelezésként kell azokat előírni.
+
+[^32]: A 8/A. §-t a 17/2026. (II. 5.) Korm. rendelet 1. §-a iktatta be.

@@ -1,8 +1,8 @@
-10. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^193]
+10. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^195]
 
 A VET 123. § (2) bekezdésében foglaltak szerint vezetékjog létrejöttének megállapításához szükséges adatok
 
-Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza, amennyiben azok az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott közműegyeztető rendszerben nem szerepelnek:
+## Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza, amennyiben azok az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott közműegyeztető rendszerben nem szerepelnek:
 
 1. a villamosenergia-ipari építmény megnevezése;
 
@@ -32,4 +32,4 @@ e) tartószerkezeten elhelyezett átalakító- vagy kapcsolóberendezés típusa
 
 A vezetékjog bejegyzéséhez szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendelet szerint kell elkészíteni.
 
-[^193]: A 10. mellékletet a 385/2024. (XII. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^195]: A 10. mellékletet a 385/2024. (XII. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-26. §[^101]
+26. §[^102]
 
-[^101]: A 26. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^102]: A 26. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
