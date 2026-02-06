@@ -1,1 +1,0 @@
-A Kormány visszavonja a makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat 1. pont h) alpontját.
