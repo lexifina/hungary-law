@@ -116,7 +116,7 @@
 
 | 58. | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 32047 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Kereskedelmi-szolgáltató funkciókkal együttesen kialakított lakóterületi fejlesztés | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 32047 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 59. | Budapest XVIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 151818/1 és 151818/2 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Közösségi és kereskedelmi-szolgáltató funkciókkal egybekötött vegyes lakóterület ütemezett kialakítására irányuló fejlesztés | Budapest XVIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 151818/1 és 151818/2 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
+| 59. | Budapest XVIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 151818/2 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Közösségi és kereskedelmi-szolgáltató funkciókkal egybekötött vegyes lakóterület ütemezett kialakítására irányuló fejlesztés | Budapest XVIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 151818/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
 | 60. | Debrecen Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0493/97, 0493/98, 0493/99, 0493/100, 0493/101, 0493/102, 0493/103 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Kereskedelmi-szolgáltató funkciókat is tartalmazó, ütemezett lakóterület kialakítására irányuló fejlesztés | Debrecen Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0493/97, 0493/98, 0493/99, 0493/100, 0493/101, 0493/102, 0493/103 helyrajzi számú ingatlanok | Hajdú-Bihar Vármegye Kormányhivatalát vezető főispán |
 
@@ -138,8 +138,8 @@
 
 | 69. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Szolgáltató és kereskedelmi funkciókat is tartalmazó lakóterület kialakítására irányuló fejlesztés | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^60]
+1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^62]
 
 Rozsdaövezeti akcióterületek lehatárolása és a rozsdaövezeti akcióterületen megvalósuló beruházások
 
-[^60]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
+[^62]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
