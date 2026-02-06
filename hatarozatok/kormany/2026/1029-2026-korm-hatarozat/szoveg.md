@@ -54,4 +54,6 @@ l) felhívja az építési és közlekedési minisztert, hogy készítsen előte
 
 m) tudomásul veszi, hogy az a), az e) és a h) alpontokban szereplő beszerzésekhez, valamint az a), az e), a h) és a k) alpontokban szereplő eszközök fenntartásához kapcsolódó indokolt költségek költségcsökkenéssel és bevétellel nem fedezett része a vasúti személyszállítási költségtérítési rendszerben többlet költségtérítési igényt keletkeztethet.
 
-2. A Kormány visszavonja a vasúti személyszállítás járműállományának korszerűsítésével összefüggő feladatokról szóló 1435/2022. (IX. 7.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
