@@ -1,0 +1,3 @@
+2. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet a következő 41/G. §-sal egészül ki:
+
+„41/G. § E rendeletnek a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet módosításáról szóló 17/2026. (II. 5.) Korm. rendelettel (a továbbiakban: Mód. Kr7.) megállapított 8/A. §-át a Mód. Kr7. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
