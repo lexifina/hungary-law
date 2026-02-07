@@ -4,6 +4,6 @@
 
 ## [3] A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 26. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Természetvédelmi Őrszolgálat Szolgálati Szabályzatáról szóló 9/2000. (V. 19.) KöM rendelet 12. § (7) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(7) A rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat tagját az illetékes rendvédelmi szervhez vagy polgári nemzetbiztonsági szolgálathoz kell előállítani. Erről az illetékes szerv parancsnokát (az ügyeletes tisztet) értesíteni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
