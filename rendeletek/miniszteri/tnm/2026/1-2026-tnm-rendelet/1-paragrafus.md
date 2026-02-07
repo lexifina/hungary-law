@@ -4,6 +4,6 @@
 
 ## [3] A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 156. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 48. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Nemzetiségi Tanulmányi Ösztöndíjról szóló 4/2019. (VI. 13.) TNM rendelet (a továbbiakban: R.) a következő 7. §-sal egészül ki:
+1. §[^2]
 
-„7. § E rendeletnek a Nemzetiségi Tanulmányi Ösztöndíjról szóló 4/2019. (VI. 13.) TNM rendelet módosításáról szóló 1/2026. (II. 5.) TNM rendelettel módosított 1. § (4) bekezdését 2026. február 1-jétől kell alkalmazni a pályázatot 2024. és 2025. évben elnyert tanulók részére történő folyósításokra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
