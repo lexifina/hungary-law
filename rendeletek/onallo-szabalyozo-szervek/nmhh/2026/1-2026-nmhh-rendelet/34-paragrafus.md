@@ -1,0 +1,9 @@
+34. § (1) Ez a rendelet az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének való megfelelést szolgálja.
+
+(2) Ez a rendelet
+
+a) a kis területi lefedésű, vezeték nélküli hozzáférési pontok jellemzőinek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló (EU) 2018/1972 európai parlamenti és tanácsi irányelv 57. cikkének (2) bekezdése szerinti meghatározásáról szóló, 2020. július 20-i (EU) 2020/1070 bizottsági végrehajtási rendelet, és
+
+b) a gigabites elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről, az (EU) 2015/2120 rendelet módosításáról, és a 2014/61/EU irányelv hatályon kívül helyezéséről (a gigabites infrastruktúráról szóló rendelet) szóló, 2024. április 29-i (EU) 2024/1309 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
