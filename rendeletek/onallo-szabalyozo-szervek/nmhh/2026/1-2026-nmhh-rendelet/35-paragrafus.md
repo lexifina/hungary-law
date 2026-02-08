@@ -1,1 +1,3 @@
-35. § Hatályát veszti az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 20/2020. (XII. 18.) NMHH rendelet.
+35. §[^1]
+
+[^1]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
