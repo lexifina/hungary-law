@@ -1,0 +1,1 @@
+3. § Az e rendeletben meghatározott díjak tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében foglaltakat a díjfizetési kötelezettségre alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon igazgatási szolgáltatási díjat kell érteni.
