@@ -1,0 +1,1 @@
+2. § A 282/2007. (X. 26.) Korm. rendelet 2. melléklet 12. pontjában az „NSZKK” szövegrész helyébe a „Magyarország egész területén, országos illetékességgel: NSZKK, Nemzeti Adó- és Vámhivatal által felderített esetekben: Nemzeti Adó- és Vámhivatal Szakértői Intézete” szöveg lép.
