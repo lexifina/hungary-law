@@ -2,4 +2,7 @@
 
 (2) A 4. § (3) bekezdése a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 8. cikk (1) bekezdésének és 28. cikkének való megfelelést szolgálja.
 
+(3)[^29] Ez a rendelet a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 [^28]: A 18. § a 762/2021. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^29]: A 18. § (3) bekezdését a 388/2025. (XII. 10.) Korm. rendelet 4. §-a iktatta be.
