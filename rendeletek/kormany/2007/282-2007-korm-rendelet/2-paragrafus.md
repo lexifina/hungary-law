@@ -4,7 +4,7 @@
 
 (3) A 2. számú melléklet 1. pont a) alpontja szerinti szakkérdésben kizárólag az eljárásra jogosult egyetemi intézet vagy intézmény két olyan szakértője járhat el, akik közül az egyik igazságügyi orvostan szakterületen, a másik igazságügyi orvostan vagy patológia szakterületen szerepel a névjegyzékben.
 
-(4)[^3]
+(4)[^3] A 2. számú melléklet 12. pontja szerinti szakkérdésben a Nemzeti Adó- és Vámhivatal Szakértői Intézete kizárólag a Nemzeti Adó- és Vámhivatal által felderített esetekben adhat szakvéleményt.
 
 [^2]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 575. §-a, a 221/2014. (IX. 4.) Korm. rendelet 404. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (4) bekezdését a 273/2010. (XII. 9.) Korm. rendelet 139. § (5) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § (4) bekezdését a 273/2010. (XII. 9.) Korm. rendelet 139. § (5) bekezdése hatályon kívül helyezte, újonnan a 388/2025. (XII. 10.) Korm. rendelet 1. §-a iktatta be.

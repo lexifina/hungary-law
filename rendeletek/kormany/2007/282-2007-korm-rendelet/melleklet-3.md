@@ -52,7 +52,7 @@
 
 | 11. | Ujjnyom-tenyérnyom vizsgálata (daktiloszkópia) | NSZKK |
 
-| 12. | Kábítószer szubsztancia alapú vizsgálata | NSZKK |
+| 12. | Kábítószer szubsztancia alapú vizsgálata | Magyarország egész területén, országos illetékességgel: NSZKK, Nemzeti Adó- és Vámhivatal által felderített esetekben: Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
 3. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^10]
 
