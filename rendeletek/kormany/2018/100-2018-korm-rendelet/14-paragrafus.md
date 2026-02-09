@@ -10,8 +10,12 @@
 
 (4) Az ügyészséggel folytatott elektronikus kapcsolattartás esetén az ügyiratok papíralapú részéről mellőzhető a papíralapú másolati ügyiratpéldány készítése, ha a papíralapú ügyiratokról elektronikus másolat készült.
 
+(4a)[^7] A nyomozó hatóság az ügyészség felé történő beszámolási kötelezettségének teljesítése során az ügyiratokat az ügyészség eltérő rendelkezése hiányában bemutathatja úgy is, hogy az ügyészség számára elektronikus hozzáférést biztosít az elektronikus ügyiratkezelő rendszerében levő elektronikus ügyiratokhoz, feltéve, hogy ezzel az ügyiratok teljes körű megismerése biztosítható.
+
 (5) Amennyiben a papíralapú ügyiratok elektronikus formában vagy elektronikus másolatként is rendelkezésre állnak, ezek, valamint az elektronikus okiratok felhasználásával – a 12. § megfelelő alkalmazásával – az ügyiratok egységes elektronikus példányát (a továbbiakban: egységes elektronikus ügyirat) kell elkészíteni.
 
 (6) A nyomozó hatóság biztosítja, hogy az egységes elektronikus ügyirat tartalmazza az adathordozón rendelkezésre álló ügyiratokat is. A jogszabályban meghatározott központi tárhelyen tárolt ügyiratok nem képezik az egységes elektronikus ügyirat részét, a központi tárhelyen tárolt ügyiratokat az ügyiratjegyzéken kell feltüntetni, és biztosítani kell az azokhoz történő megfelelő hozzáférést.
 
 (7) Az egységes elektronikus ügyirathoz ügyiratjegyzéket kell készíteni. Az ügyiratjegyzék készítése mellőzhető, ha annak elkészítését az eljárás időszerűségének biztosítása nem teszi lehetővé.
+
+[^7]: A 14. § (4a) bekezdését a 388/2025. (XII. 10.) Korm. rendelet 7. §-a iktatta be.

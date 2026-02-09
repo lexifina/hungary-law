@@ -4,4 +4,6 @@
 
 (3) A korábbi gyanúsítás módosítása vagy újabb bűncselekmény megalapozott gyanújának közlése esetén a gyanúsítottat figyelmeztetni kell, hogy a gyanúsítás módosításával vagy az újabb gyanúsítással szemben panasszal élhet.
 
-(4) A nyomozó hatóság a gyanúsítás módosítása vagy újabb bűncselekmény megalapozott gyanújának közlése esetén – az ügyészség eltérő rendelkezése hiányában – az eljárás ügyiratait a Be. 390. §-a szerint megküldi az ügyészségnek.
+(4)[^56] A nyomozó hatóság a gyanúsítás módosítása vagy újabb bűncselekmény megalapozott gyanújának közlése esetén – az ügyészség eltérő rendelkezése hiányában – az eljárás ügyiratait a Be. 390. § (1) bekezdése szerint megküldi az ügyészségnek. A nyomozó hatóság ebben az esetben az ügyészség eltérő rendelkezése hiányában kizárólag azokat az ügyiratokat küldi meg az ügyészségnek, amelyeknek a megküldésére korábban nem került sor.
+
+[^56]: A 145. § (4) bekezdése a 388/2025. (XII. 10.) Korm. rendelet 20. §-ával megállapított szöveg.

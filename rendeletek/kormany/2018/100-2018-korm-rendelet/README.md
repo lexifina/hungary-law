@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-100-20-
 | 2023-01-01 | 2018-100-20-22.6 | 635/2022. (XII. 30.) Korm. rendelet |
 | 2024-03-01 | 2018-100-20-22.7 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-11-26 | 2018-100-20-22.8 | 357/2024. (XI. 25.) Korm. rendelet |
+| 2026-02-09 | 2018-100-20-22.9 | 388/2025. (XII. 10.) Korm. rendelet |

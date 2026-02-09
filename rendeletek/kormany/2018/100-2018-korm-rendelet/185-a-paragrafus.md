@@ -1,4 +1,4 @@
-## 92/A.[^64] Eljárás közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény esetén
+## 92/A.[^85] Eljárás közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény esetén
 
 185/A. § (1) A Be. CV/A. Fejezete szerinti eljárásban e rendelet rendelkezéseit ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -8,4 +8,4 @@
 
 (4) Ha a határozat ellen panaszt is bejelentettek, a nyomozó hatóság a panasz elbírálására vonatkozó általános szabályok szerint a panaszt a felülbírálati indítvánnyal együtt vagy azt követően az ügyészséghez terjeszti fel.
 
-[^64]: A 92/A. alcímet (185/A-185/D. §-t) az 556/2022. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 92/A. alcímet (185/A-185/D. §-t) az 556/2022. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
