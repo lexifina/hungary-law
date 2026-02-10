@@ -1,7 +1,3 @@
-8. § A Nyer. 20. § (2) bekezdés d) pont dc) alpontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Az előterjesztés tartalmazza
-
-mindazon körülményeket, amelyek ismerete a javasolt eljárási cselekmény elvégzéséhez vagy határozat meghozatalához szükséges, különösen)
-
-„dc) a büntetőeljárásban részt vevő, az eljárási cselekménnyel vagy határozattal érintett személy személyazonosításra alkalmas adatait, továbbá az eljárási cselekmény telekommunikációs jelenlét vagy egyszerűsített telekommunikációs jelenlét útján történő lefolytatására vonatkozó lehetőségeit, valamint az ezekhez való hozzájárulását,”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

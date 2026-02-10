@@ -1,7 +1,3 @@
-13. § A Nyer. 33. alcíme a következő 56/A. §-sal egészül ki:
+13. §[^14]
 
-„56/A. § (1) A nyomozó hatóság az adatkérés Be. 262/A. §-a szerinti ügyészségi engedélyezésére vonatkozó indítványt engedélyezésre alkalmas módon készíti elő.
-
-(2) A Be. 262/A. §-a szerinti adatkérés esetén az adatszolgáltatásra vonatkozó kérelemben a nyomozó hatóság tájékoztatja a szolgáltatót, hogy az ügyészségnek a külön engedélye nélkül is köteles az általa kezelt adatokra vonatkozó adatkérést teljesíteni.
-
-(3) Az adatkérés vagy adatkérések teljesítését követően a nyomozó hatóság az adatkérés céljával össze nem függő és az engedély kereteit túllépő adatokat haladéktalanul törli, majd a Be. 262/A. § (3) bekezdésében meghatározott vizsgálat céljából előterjesztést tesz az ügyészség részére.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

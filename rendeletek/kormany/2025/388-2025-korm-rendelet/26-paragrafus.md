@@ -1,7 +1,3 @@
-26. § A Nyer.
+26. §[^27]
 
-a) 63. § (3) bekezdés záró szövegrészében a „feljegyzést” szövegrész helyébe az „– indokolt esetben – feljegyzést” szöveg,
-
-b) 84. § (4) bekezdésében a „feljegyzés” szövegrész helyébe a „jegyzőkönyvet vagy feljegyzést” szöveg
-
-lép.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

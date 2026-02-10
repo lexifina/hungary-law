@@ -1,3 +1,3 @@
-14. § A Nyer. 83. §-a helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„83. § Ha az ittas vagy bódult állapotban lévő, a büntetőeljárásban részt vevő személy alkohol, illetve kábító hatású anyag fogyasztásának megállapítása céljából szakértői vizsgálat indokolt, az ehhez szükséges minta biztosítását – vér-, illetve vizeletminta vételét – a nyomozó hatóság szemle elrendelésével végzi, amely során szaktanácsadót kell igénybe venni. Vizeletminta önkéntes adása esetén a szemle tartása és a szaktanácsadó közreműködése akkor mellőzhető, ha kizárólag kábítószer vagy kizárólag kábító hatású anyag vizeletben való jelenlétét szükséges megállapítani, de a kábítószer vagy kizárólag kábító hatású anyag koncentrációjának megállapítása nem szükséges.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

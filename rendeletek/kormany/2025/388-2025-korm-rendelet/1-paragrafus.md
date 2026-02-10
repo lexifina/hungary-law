@@ -34,6 +34,6 @@
 
 ## 1. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet módosítása
 
-1. § A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet [a továbbiakban: 282/2007. (X. 26.) Korm. rendelet] 2. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A 2. számú melléklet 12. pontja szerinti szakkérdésben a Nemzeti Adó- és Vámhivatal Szakértői Intézete kizárólag a Nemzeti Adó- és Vámhivatal által felderített esetekben adhat szakvéleményt.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 362/2016. (XI. 29.) Korm. rendelet
+5. §[^6]
 
-a) 14/A. §-a és
-
-b) 1. melléklete.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
