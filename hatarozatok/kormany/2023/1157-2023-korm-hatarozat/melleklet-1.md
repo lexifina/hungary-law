@@ -14,10 +14,12 @@
 
 | Határidő: | 2023. július 1. |
 
-1. melléklet az 1157/2023. (IV. 27.) Korm. határozathoz
+1. melléklet az 1157/2023. (IV. 27.) Korm. határozathoz[^1]
 
 | Sor- szám | A | B | C | D | E | F | G | H | I | J |
 
-| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Támogatást igénylő neve Koordinátor Kedvezményezett /Kedvezményezett | Társkedvezményezett | Projektjavaslat költsége (nettó, forint) | Projektjavaslat összköltsége (bruttó, forint) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás összege (nettó, forint) | Hazai költségvetési támogatás összege (forint) | Saját erő (forint) | Projektjavaslat rövid bemutatása |
+| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Koordinátor Kedvezményezett | Társkedvezményezett | CEF projekt költsége (nettó, Ft) | CEF projekt összköltsége (bruttó, Ft) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás összege (nettó, Ft) | CEF projekthez kapcsolódó hazai költségvetési támogatás összege (nettó, Ft) | Kiegészítő feladatok hazai költségvetési támogatása (nettó, Ft) | Projektjavaslat rövid bemutatása |
 
-| 2. | Európai Hálózatfinanszírozási Eszköz | Zalaszentiváni deltavágány kiépítése | Építési és Közlekedési Minisztérium | Győr–Sopron– Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (GYSEV Zrt.) | 12 100 000 000 | 12 100 000 000 | 5 650 000 000 | 6 450 000 000 | 0 | A 17. sz. és a 25. sz. vasútvonalat összekötő deltavágány megvalósításával új nyomvonalon, mintegy 1500 méter hosszban, 225 kN tengelyterhelésre alkalmas, 60 km/h-val járható, egyvágányú villamosított fővonali vasúti pálya létesül. A 17. sz. vonal mentén új megállóhely létesül Szentivánvölgy néven. A megállóhely 160 m hosszú, sk + 55 cm magas peronja a 17. sz. vonalon a pálya bal oldalán kerül elhelyezésre. |
+| 2. | Európai Hálózatfinanszírozási Eszköz | Zalaszentiváni deltavágány kiépítése | Építési és Közlekedési Minisztérium | Győr–Sopron–Ebenfurti Vasúti Zártkörűen Működő Részvénytársaság (GYSEV Zrt.) | 12 647 796 261 | 12 647 796 261 | 3 941 485 340 | 7 806 310 921 | 900 000 000 | A 17. sz. és a 25. sz. vasútvonalat összekötő deltavágány megvalósításával új nyomvonalon, mintegy 1500 méter hosszban, 225 kN tengelyterhelésre alkalmas, 60 km/h-val járható, egyvágányú villamosított fővonali vasúti pálya létesül. A deltavágány 25. sz. vasútvonalhoz csatlakozó kitérőkörzetének bővítésével, ahhoz csatlakozva épül meg a Zalaegerszeg térségében tervezett új intermodális konténerterminál északkeleti irányú vasúti bekötése. |
+
+[^1]: Az 1. melléklet az 1038/2026. (II. 12.) Korm. határozat 2. pontjával megállapított szöveg.
