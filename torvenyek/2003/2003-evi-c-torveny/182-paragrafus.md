@@ -20,7 +20,13 @@ h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési sz
 
 i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
-(2) Felhatalmazást kap a Kormány arra, hogy a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány arra, hogy
+
+a) a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket,
+
+b) a 99/A. § (1) és (2) bekezdése szerinti épülettípusokra, épületkategóriákra, műszaki előírásokra vonatkozó szabályokat
+
+rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 

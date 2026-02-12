@@ -86,3 +86,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2025-06-28 | 2022. évi XVII. törvény | 2003-100-00-00.86 |
 | 2025-12-14 | 2025. évi LXXXVII. törvény | 2003-100-00-00.105 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2003-100-00-00.104 |
+| 2026-02-12 | 2025. évi LXXXVII. törvény | 2003-100-00-00.106 |
