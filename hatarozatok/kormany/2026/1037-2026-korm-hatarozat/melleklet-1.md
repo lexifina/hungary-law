@@ -12,18 +12,9 @@
 
 | Határidő: | azonnal |
 
-## 2. Az 1458/2022. (IX. 23.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
-1. melléklet az 1037/2026. (II. 12.) Korm. határozathoz
+1. melléklet az 1037/2026. (II. 12.) Korm. határozathoz[^2]
 
-Az 1458/2022. (IX. 23.) Korm. határozat 1. mellékletében foglalt táblázat 1. sora helyébe a következő sor lép:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-|  | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Koordinátor kedvezményezett | Társkedvezményezett | Projekt költsége (nettó, forint) | Projekt összköltsége (bruttó, forint) | Európai Hálózat-finanszírozási Eszköz terhére biztosítandó támogatás összege (nettó, forint) | Hazai költségvetési támogatás tervezett összege (nettó, forint) | Saját erő (forint) | Projekt rövid tartalma] |
-
-„
-
-| 1. | Európai Hálózatfinanszírozási Eszköz | Nyugat-magyarországi TEN-T vasútállomások alkalmassá tétele polgári és katonai kettős felhasználásra | Építési és Közlekedési Minisztérium | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság és MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság | 2 916 772 603 | 2 925 461 203 | 1 041 992 842 | 1 883 468 361 | 0 | Az előkészítési projekt célja, hogy az országos vasúthálózat dunántúli, TEN-T törzshálózaton lévő 12 állomásának infrastruktúrája megfeleljen az Európai Unió és a NATO által elvárt szintű katonai mobilitási feltételeknek, lehetővé téve a katonai egységek és eszközök szabad mozgását Európán belül, és egyúttal ugyanaz az infrastruktúra polgári célokat is szolgáljon. Helyszínek: Almásfüzitő, Komárom, Nagyszentjános, Hegyeshalom, Várpalota, Hajmáskér, Veszprém, Boba, Murakeresztúr, Sárbogárd, Dombóvár, Kiskorpád. |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
