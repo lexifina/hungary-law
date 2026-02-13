@@ -50,7 +50,7 @@ Egyházi fenntartó tulajdonába kerülő ingatlanok jegyzéke
 
 | 13. | 5530 Vésztő, Kinizsi utca 22. Vésztő, belterület 2653 hrsz. | Békési Református Egyházmegye 5537 Zsadány, Béke utca 54. |
 
-| 14. | 2300 Ráckeve, Kazinczy utca 21–23. Ráckeve, belterület 2788 hrsz. | Katolikus Szeretetszolgálat 1238 Budapest, Grassalkovich utca 38. |
+| 14.[^1] | 2300 Ráckeve, Kazinczy utca 21–23. Ráckeve, belterület 2788 hrsz. | Katolikus Szeretetszolgálat 1146 Budapest, Ajtósi Dürer sor 27/A. 5. |
 
 | 15. | 9825 Oszkó, Petőfi utca 1. Oszkó, belterület 457/1 hrsz. | Magyarországi Evangélikus Egyház 1085 Budapest VIII., Üllői út 24. |
 
@@ -89,3 +89,5 @@ Egyházi fenntartó tulajdonába kerülő ingatlanok jegyzéke
 | 32. | 9761 Táplánszentkereszt, Táncsics Mihály utca 22/A. Táplánszentkereszt, belterület 348/10 hrsz. | Szombathelyi Egyházmegye 9700 Szombathely, Berzsenyi Dániel tér 3. |
 
 | 33. | „címképzés alatt” Táplánszentkereszt, belterület 454 hrsz. | Szombathelyi Egyházmegye 9700 Szombathely, Berzsenyi Dániel tér 3. |
+
+[^1]: Az 1. mellékletben foglalt táblázat 14. sora az 1033/2026. (II. 12.) Korm. határozat 1. pontjával megállapított szöveg.
