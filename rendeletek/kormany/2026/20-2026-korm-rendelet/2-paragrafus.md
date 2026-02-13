@@ -1,0 +1,1 @@
+2. § A Kvtv. 2. melléklet 3.4. pontjától eltérően az Önkormányzati hivatali működés támogatása jogcímen kapott tárgyévi támogatás előző évi támogatáshoz képesti növekményét a városi jogállású, 30 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
