@@ -36,8 +36,12 @@
 
 ## kötelezettséget vállaljon.
 
-## 2. A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2022. évi CEF2 Katonai mobilitás második pályázati kiírása keretében támogatott CEF projekt hazai társfinanszírozásának biztosításáról szóló 1157/2023. (IV. 27.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a Zalaegerszeg–Zalaszentiván térségben megvalósuló konténerterminál közúti és vasúti bekötés előkészítésének módosításáról szóló 1599/2022. (XII. 1.) Korm. határozatot.
+## 3.[^2]
 
-1. melléklet az 1038/2026. (II. 12.) Korm. határozathoz
+1. melléklet az 1038/2026. (II. 12.) Korm. határozathoz[^3]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
