@@ -174,7 +174,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.7.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-2.7.5. A díjazott kisplasztikát és adományozást igazoló oklevelet kap. A kisplasztika forgatható, polírozott sárgaréz talpon álló, bronzból készült, átmérője 90 mm, magassága 130 mm, mélysége 55 mm. A kisplasztika Rácz Edit szobrászművész alkotása, kétoldalas, az egyik oldalán jelenet, a másik oldalán a „GÉRECZ ATTILA-DÍJ” felirat, valamint a díjazott neve található.
+2.7.5.[^5] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szanyi Péter szobrászművész alkotása, egyoldalas, és Gérecz Attila domború arcképét ábrázolja „GÉRECZ ATTILA-DÍJ” felirat kíséretében.
 
 2.7.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
@@ -264,7 +264,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.14. Máté Péter-díj
 
-2.14.1. A díj kiemelkedő könnyűzenei, dzsesszzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
+2.14.1.[^6] A díj kiemelkedő könnyűzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
 
 2.14.2. A díj átadására március 15-e alkalmából kerül sor.
 
@@ -534,6 +534,20 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 2.31.10. A díj posztumusz is adományozható, amely esetben a díj és a díjjal járó járadék átvételére az elhunyt díjazott házastársa, annak hiányában a miniszter döntése szerinti leszármazója jogosult.
 
+2.32.[^7] Szakcsi Lakatos Béla-díj
+
+2.32.1. A díj kiemelkedő jazz előadó-művészeti tevékenység elismerésére adományozható természetes személyek részére.
+
+2.32.2. A díj átadására március 15-e alkalmából kerül sor.
+
+2.32.3. A díjból évente legfeljebb kettő adományozható.
+
+2.32.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
+
+2.32.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Tóth Dávid Tamás szobrászművész alkotása, egyoldalas, Szakcsi Lakatos Béla domború arcképét ábrázolja, és azon a „SZAKCSI LAKATOS BÉLA-DÍJ” felirat látható.
+
+2.32.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke a központi költségvetésről szóló törvényben meghatározott köztisztviselői illetményalap harmincszorosának megfelelő összeg.
+
 3. Felsőoktatási ágazat
 
 3.1. Eötvös József-díj (felsőoktatási tagozat)
@@ -655,3 +669,7 @@ a) az a legalább 25 éven keresztül végzett, példamutató oktatási tevéken
 b) adományozására a szakképzési tanítási év utolsó tanítási napján kerülhet sor, valamint
 
 c) évente adományozható:
+
+[^5]: Az 1. melléklet 2. pont 2.7. alpont 2.7.5. pontja a 2/2026. (II. 12.) KIM rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 2. pont 2.14. alpont 2.14.1. pontja a 2/2026. (II. 12.) KIM rendelet 4. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 2. pont 2.32. alpontját a 2/2026. (II. 12.) KIM rendelet 3. §-a iktatta be.

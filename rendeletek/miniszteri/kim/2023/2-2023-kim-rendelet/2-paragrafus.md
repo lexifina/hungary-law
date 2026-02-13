@@ -56,6 +56,8 @@
 
 21. Sára Sándor-díj.
 
+22.[^1] Szakcsi Lakatos Béla-díj.
+
 (3) A miniszter által adományozható művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díj a kulturális ágazatban a következő:
 
 1. Bánffy Miklós-díj.
@@ -109,3 +111,5 @@
 1. Szakképzésért Apáczai Csere János-díj,
 
 2. Oktatói Szolgálati Emlékérem (szakképzési tagozat).
+
+[^1]: A 2. § (2) bekezdés 22. pontját a 2/2026. (II. 12.) KIM rendelet 1. §-a iktatta be.

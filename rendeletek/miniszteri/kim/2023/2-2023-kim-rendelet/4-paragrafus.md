@@ -1,8 +1,8 @@
 4. § (1) Díj adományozását – e rendelet eltérő rendelkezése hiányában – az adományozási alkalmat legalább 3 naptári hónappal megelőzően, a jelölt életútjának, illetve tevékenységének rövid ismertetését tartalmazó indokolással, a (2) bekezdésben foglalt kivétellel bárki – különösen szakmai szervezet vagy korábbi díjazott – kezdeményezheti a miniszternél a minisztérium honlapján közzétett formanyomtatványon. Díj adományozását önmaga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója számára – e rendelet eltérő rendelkezése hiányában – senki nem kezdeményezheti.
 
-(2)[^1] Az Ipar 4.0 szakmai érem adományozását az Ipar 4.0 Nemzeti Technológiai Platform Szövetség elnöke kezdeményezheti.
+(2)[^2] Az Ipar 4.0 szakmai érem adományozását az Ipar 4.0 Nemzeti Technológiai Platform Szövetség elnöke kezdeményezheti.
 
-(2a)[^2] A Társadalmi Innovációs Díj esetében a díjazottakra a beérkezett kezdeményezések alapján a miniszter által felkért személyekből álló bizottság tesz javaslatot.
+(2a)[^3] A Társadalmi Innovációs Díj esetében a díjazottakra a beérkezett kezdeményezések alapján a miniszter által felkért személyekből álló bizottság tesz javaslatot.
 
 (3) A Balázs Béla-díj esetében az (1) bekezdés szerinti kezdeményezés mellékleteként a jelölt szakmai portfólióját audiovizuális tartalom lejátszására alkalmas adathordozón is be kell nyújtani.
 
@@ -16,5 +16,5 @@
 
 (8) A díj adományozására irányuló döntés-előkészítési eljárásra a miniszter normatív utasításban részletes szabályokat állapít meg.
 
-[^1]: A 4. § (2) bekezdése a 7/2025. (VII. 7.) KIM rendelet 3. §-a szerint módosított szöveg.
-[^2]: A 4. § (2a) bekezdését a 7/2025. (VII. 7.) KIM rendelet 1. §-a iktatta be.
+[^2]: A 4. § (2) bekezdése a 7/2025. (VII. 7.) KIM rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 4. § (2a) bekezdését a 7/2025. (VII. 7.) KIM rendelet 1. §-a iktatta be.
