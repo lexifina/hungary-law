@@ -50,21 +50,24 @@ A Magyarország területére történő behozatal vonatkozásában bejelentésk�
 
 | 23. | 2204 | Bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust (kivéve a szőlőlevet) és kivéve a 2209 vtsz alá tartozó borecetet |
 
-| 24.[^1] | 04011010 | Tej, tejszín nem sűrítve, nem édesítve, max. 1% zsírtartalommal, max. 2 literes kiszerelésben. |
+| 24.[^2] | 04011010 | Tej, tejszín nem sűrítve, nem édesítve, max. 1% zsírtartalommal, max. 2 literes kiszerelésben. |
 
-| 25.[^2] | 04012011 | Tej, tejszín nem sűrítve, nem édesítve, 1,1–3% zsírtartalommal, max. 2 literes kiszerelésben. |
+| 25.[^3] | 04012011 | Tej, tejszín nem sűrítve, nem édesítve, 1,1–3% zsírtartalommal, max. 2 literes kiszerelésben. |
 
-| 26.[^3] | 04012091 | Tej, tejszín nem sűrítve, nem édesítve, 3,1–6% zsírtartalommal, max. 2 literes kiszerelésben. |
+| 26.[^4] | 04012091 | Tej, tejszín nem sűrítve, nem édesítve, 3,1–6% zsírtartalommal, max. 2 literes kiszerelésben. |
 
-| 27.[^4] | 04069078 | Gouda sajt (legfeljebb 40% zsírtartalommal, és több mint 47%, de legfeljebb 72% víztartalommal) (kivéve friss sajt, a reszelt vagy őrölt sajt, az ömlesztett sajt és a kék erezetű sajt) |
+| 27.[^5] | 04069078 | Gouda sajt (legfeljebb 40% zsírtartalommal, és több mint 47%, de legfeljebb 72% víztartalommal) (kivéve friss sajt, a reszelt vagy őrölt sajt, az ömlesztett sajt és a kék erezetű sajt) |
 
-| 28.[^5] | 04069023 | Edam sajt (kivéve friss sajt, a reszelt vagy őrölt sajt, az ömlesztett sajt és a kék erezetű sajt) |
+| 28.[^6] | 04069023 | Edam sajt (kivéve friss sajt, a reszelt vagy őrölt sajt, az ömlesztett sajt és a kék erezetű sajt) |
 
-| 29.[^6] | 04051011 | Természetes vaj max. 85% zsírtartalommal, max. 1 kg kiszerelésben |
+| 29.[^7] | 04051011 | Természetes vaj max. 85% zsírtartalommal, max. 1 kg kiszerelésben |
 
-[^1]: Az 1. mellékletben foglalt táblázat 24. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. mellékletben foglalt táblázat 25. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. mellékletben foglalt táblázat 26. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. mellékletben foglalt táblázat 27. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. mellékletben foglalt táblázat 28. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 1. mellékletben foglalt táblázat 29. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+| 30.[^8] | 17019910 | Fehér cukor |
+
+[^2]: Az 1. mellékletben foglalt táblázat 24. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. mellékletben foglalt táblázat 25. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. mellékletben foglalt táblázat 26. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. mellékletben foglalt táblázat 27. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. mellékletben foglalt táblázat 28. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. mellékletben foglalt táblázat 29. sorát a 367/2025. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. mellékletben foglalt táblázat 30. sorát a 23/2026. (II. 12.) Korm. rendelet 1. §-a iktatta be.
