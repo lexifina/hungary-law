@@ -48,6 +48,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A címrendi kiegészítésről és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1007/2026. (I. 19.) Korm. határozat 2. mellékletében foglalt táblázat 300657 ÁHT-T azonosítójú sor, D (Alcím) oszlopban a „45” szövegrész helyébe a „34” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1036/2026. (II. 12.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
