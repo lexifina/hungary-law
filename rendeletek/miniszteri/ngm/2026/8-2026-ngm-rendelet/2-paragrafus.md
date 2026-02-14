@@ -1,0 +1,1 @@
+2. § A 44/2024. (XII. 9.) NGM rendelet 2. § (3b) bekezdésében az „1. pontja szerinti – étteremként” szövegrész helyébe az „1. pontja szerinti étteremként és 3. pontja szerinti cukrászdaként –” szöveg lép.
