@@ -6,7 +6,7 @@
 
 (3a)[^2] A felszolgálási díj mértéke – a (4) bekezdésben meghatározott kivétellel – legfeljebb a díj alapjának 15 százaléka.
 
-(3b)[^3] A helyi kereskedelmi hatóság által – a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 4. számú melléklet 1. pontja szerinti – étteremként nyilvántartásba vett vendéglátó üzlet üzemeltetője (az a személy, aki a felszolgálási díj alkalmazásáról egyébként dönteni jogosult) saját döntése alapján a tevékenységéből származó (3) bekezdés szerinti alapok tárgyhavi összegének legfeljebb 20 százalékát felszolgálási díjnak minősítheti akkor is, ha az a (6) bekezdéstől eltérően a kiállított bizonylaton (számla, nyugta) nincs feltüntetve, de az alap után felszolgálási díj felszámítására jogosult lenne.
+(3b)[^3] A helyi kereskedelmi hatóság által – a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 4. számú melléklet 1. pontja szerinti étteremként és 3. pontja szerinti cukrászdaként – nyilvántartásba vett vendéglátó üzlet üzemeltetője (az a személy, aki a felszolgálási díj alkalmazásáról egyébként dönteni jogosult) saját döntése alapján a tevékenységéből származó (3) bekezdés szerinti alapok tárgyhavi összegének legfeljebb 20 százalékát felszolgálási díjnak minősítheti akkor is, ha az a (6) bekezdéstől eltérően a kiállított bizonylaton (számla, nyugta) nincs feltüntetve, de az alap után felszolgálási díj felszámítására jogosult lenne.
 
 (3c)[^4] A (3b) bekezdés szerint felszolgálási díjnak minősített összeg és a (6) bekezdés szerint a bizonylatokon feltüntetendő felszolgálási díj összegek együttesen sem haladhatják meg a (3b) bekezdés szerinti értékhatárt.
 
@@ -24,7 +24,7 @@
 
 [^1]: A 2. § (3) bekezdése az 5/2026. (I. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (3a) bekezdését az 5/2026. (I. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.
-[^3]: A 2. § (3b) bekezdését az 5/2026. (I. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § (3b) bekezdését az 5/2026. (I. 30.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege a 8/2026. (II. 13.) NGM rendelet 2. §-a szerint módosított szöveg.
 [^4]: A 2. § (3c) bekezdését az 5/2026. (I. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^5]: A 2. § (3d) bekezdését az 5/2026. (I. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^6]: A 2. § (6) bekezdése az 5/2026. (I. 30.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
