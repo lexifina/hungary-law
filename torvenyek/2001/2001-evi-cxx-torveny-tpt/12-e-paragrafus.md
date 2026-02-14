@@ -1,0 +1,3 @@
+12/E. § (1) A kötvényjogosult a 12/C. § (3) bekezdés a) pontja szerinti döntéshozatalra összehívott kötvényesi gyűlésen kötvényesi jogait személyes részvétel helyett elektronikus hírközlő eszköz útján is gyakorolhatja.
+
+(2) A kibocsátó a 12/C. § (3) bekezdés a) pontja szerinti döntéshozatalra összehívott kötvényesi gyűlésen köteles biztosítani az igénybe vehető elektronikus hírközlő eszközök alkalmazása során a kötvényjogosultak azonosítását, továbbá a kötvényjogosultak és a kibocsátó közötti kölcsönös és korlátozásmentes kommunikációt. A kibocsátó a meghívóban tájékoztatja a kötvényjogosultakat az igénybe vehető elektronikus hírközlő eszközök alkalmazásának feltételeiről és módjáról.

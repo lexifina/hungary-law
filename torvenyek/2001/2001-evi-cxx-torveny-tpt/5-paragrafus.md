@@ -340,7 +340,7 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 126. tőzsdei termék: a tőzsdén forgalmazott pénzügyi eszköz, deviza és áru,
 
-127. tulajdonosi megfeleltetés: a központi értéktár által az értékpapírszámla-vezetők közreműködésével végzett, a dematerializált részvény tulajdonosának azonosítását szolgáló eljárás,
+127. tulajdonosi megfeleltetés: a központi értéktár által az értékpapírszámla-vezetők közreműködésével végzett, a dematerializált értékpapír jogosultjának azonosítását szolgáló eljárás,
 
 128. ügyfél: az a személy, aki e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 
@@ -349,6 +349,8 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, korlátozott rendeltetésű számla, amely kizárólag a számlavezető által nyújtott befektetési szolgáltatás, kiegészítő szolgáltatás, illetve árutőzsdei szolgáltatás során igénybe vett szolgáltatásokhoz kapcsolódó tranzakciók lebonyolítására szolgál,
 
 130a. ügyletrészsorozat: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 6. pontjában meghatározott fogalom,
+
+130b. vállalati kötvény: hitelintézetnek, pénzügyi vállalkozásnak, befektetési vállalkozásnak, kollektív befektetési forma kezelőjének, ezen intézmények magyarországi székhellyel rendelkező fióktelepének nem minősülő jogi személyiséggel rendelkező gazdálkodó szervezet, illetve jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe által kibocsátott, dematerializált formában előállított kötvény,
 
 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 

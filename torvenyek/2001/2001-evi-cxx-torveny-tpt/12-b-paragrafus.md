@@ -18,15 +18,17 @@ f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfi
 
 g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat,
 
-h) egyoldalú jognyilatkozattal történő kezességvállalás esetén a kezességvállaló jognyilatkozatát és aláírását,
+h)
 
 i) a kötvény kiállításának helyét és napját,
 
 j) a kibocsátó aláírását.
 
-(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés h) és j) pontjában meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
+(2a) Ha a vállalati kötvény kibocsátója e törvény által lehetővé tett esetben el kíván térni e törvénynek a kötvényesi gyűlésre vonatkozó szabályaitól, akkor az eltérésre érvényesen a kötvényben kerülhet sor.
 
-(4) A dematerializált kötvények esetében a kötvénytulajdonos azonosító adatait a 7. § (3) bekezdésének megfelelően az értékpapírszámla tartalmazza. Az azonosító adatok körét a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény tartalmazza.
+(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés j) pontjában és a (9) bekezdésben meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
+
+(4) A dematerializált kötvények esetében a kötvényjogosult azonosító adatait a 7. § (3) bekezdésének megfelelően az értékpapírszámla tartalmazza. Az azonosító adatok körét a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény tartalmazza.
 
 (5) A nyomdai úton előállított kötvénynek a (2) bekezdésben foglaltakon kívül tartalmaznia kell az első tulajdonos azonosító adatait.
 
@@ -52,4 +54,6 @@ e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi szem
 
 f) törvényben vagy kormányrendeletben erre feljogosított szervezet.
 
-(9) A kötvényben a kibocsátójáért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, annak érvényesítésére a kötvény mindenkori jogosultja jogosult.
+(9) A kötvényben foglalt kötelezettségek teljesítéséért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, amennyiben a kötvény tartalmazza a kezességvállaló nyilatkozatát és aláírását. Ebben az esetben a kezesség érvényesítésére a kötvény mindenkori jogosultja jogosult.
+
+(10) Ha a kötvényben foglalt kötelezettség teljesítését garancia biztosítja, és a garantőr arra vállalt kötelezettséget, hogy a garanciavállaló nyilatkozatban meghatározott feltételek teljesülése esetén a kötvény mindenkori jogosultjának fizet, a garancia tényét a kötvényen fel kell tüntetni. Ebben az esetben a garancia érvényesítésére a kötvény mindenkori jogosultja jogosult.
