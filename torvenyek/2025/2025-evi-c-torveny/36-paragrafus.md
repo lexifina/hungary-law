@@ -1,8 +1,8 @@
 36. § A Tpt.
 
-a)
+a) 12/B. § (3) bekezdésében a „(2) bekezdés h) és j) pontjában” szövegrész helyébe a „(2) bekezdés j) pontjában és a (9) bekezdésben” szöveg,
 
-b)
+b) 12/B. § (4) bekezdésében a „kötvénytulajdonos” szövegrész helyébe a „kötvényjogosult” szöveg,
 
 c)
 
