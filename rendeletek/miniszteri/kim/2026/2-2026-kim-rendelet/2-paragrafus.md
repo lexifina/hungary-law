@@ -1,5 +1,3 @@
-## „22. Szakcsi Lakatos Béla-díj.”
+2. §[^3]
 
-2. § Az R. a következő 14. §-sal egészül ki:
-
-„14. § A Szakcsi Lakatos Béla-díj adományozását első alkalommal 2026. február 20-áig lehet kezdeményezni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

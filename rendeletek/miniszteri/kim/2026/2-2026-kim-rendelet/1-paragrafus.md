@@ -6,6 +6,6 @@
 
 ## [4] A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A kultúráért és innovációért felelős miniszter által adományozható elismerésekről szóló 2/2023. (III. 8.) KIM rendelet (a továbbiakban: R.) 2. § (2) bekezdése a következő 22. ponttal egészül ki:
+1. §[^2]
 
-(A miniszter által adományozható művészeti díjak a kulturális ágazatban a következők:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-2-20-8O
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-02-13 | 2026-2-20-8O.1 | 2/2026. (II. 12.) KIM rendelet |
+| 2026-02-14 | 2026-2-20-8O.2 | 2010. évi CXXX. törvény |
