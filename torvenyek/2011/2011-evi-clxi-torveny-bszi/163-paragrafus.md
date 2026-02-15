@@ -18,6 +18,8 @@ b) a házassági perben, az apaság és származás megállapítása iránti per
 
 c) a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény alapján indult büntetőeljárásban hozott határozat nem tehető közzé, ha ahhoz a sértett – a bíróság a hozzájárulás megadására irányuló felhívására – nem járult hozzá.
 
+(2a) Ha a (2) bekezdés b) és c) pontjában meghatározott esetben a határozatot a Kúria hozta, a Bírósági Határozatok Gyűjteményében közzé kell tenni a határozat számát és a jogértelmezést tartalmazó elvi tartalmat.
+
 (3) A közzétett bírósági határozathoz kapcsolva, azzal egyidejűleg közzé kell tenni mindazon bírósági és más hatósági vagy egyéb szerv által hozott határozatnak az OBH elnöke által meghatározott eljárásban a bíróság által anonimizált digitális másolatát is, amelyet a közzétett bírósági határozattal felülbíráltak vagy felülvizsgáltak.
 
 (4) A közbeszerzési eljárások bírósági felülvizsgálata során hozott határozatok közzétételére a közbeszerzésekről szóló törvény rendelkezéseit kell alkalmazni.

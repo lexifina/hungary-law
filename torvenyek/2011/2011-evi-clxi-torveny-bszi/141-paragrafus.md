@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben nem említett bírósági vezetőt a határozott idő letelte után a korábbi bírósági bírói állásának megfelelő beosztásba kell helyezni.
 
-(3) Ha a bírósági vezető tisztsége a határozott idő letelte előtt szűnik meg, őt pályázat kiírása nélkül lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírósági bírói beosztásba kell helyezni.
+(3) Ha a bírósági vezető tisztsége a határozott idő letelte előtt szűnik meg, őt pályázat kiírása nélkül, lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírósági bírói beosztásba kell helyezni.

@@ -16,4 +16,4 @@ g) dönt a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsé
 
 h) eljár a hatáskörébe tartozó egyéb ügyekben.
 
-(2) A Kúrián ítélkező, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi panasz tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
+(2) A Kúrián ítélkező, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
