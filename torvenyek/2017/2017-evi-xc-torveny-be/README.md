@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 2017-90-00-00.40 |
 | 2026-01-01 | 2025. évi XLIX. törvény | 2017-90-00-00.38 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2017-90-00-00.42 |
+| 2026-02-15 | 2025. évi XCII. törvény | 2017-90-00-00.41 |
