@@ -24,7 +24,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (4) A nem ingatlan-nyilvántartási döntés felülvizsgálata iránt indult közigazgatási perben eljáró bíróság az ingatlan-nyilvántartásba bejegyzett jogot, tényt vagy adatot érintő perben – az iratoknak a bírósághoz érkezésétől számított tizenöt napon belül – hivatalból, előzetesen végrehajtható végzésével elrendeli az ingatlant érintő közigazgatási per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
-(5) A perbejegyzés alapjául szolgáló végzés ellen külön fellebbezésnek van helye.
+(5) A perbejegyzést elrendelő és a perbejegyzés iránti kérelmet elutasító végzés ellen fellebbezésnek van helye.
 
 (6) A perbejegyzés alapjául szolgáló végzés hatályon kívül helyezéséről vagy megváltoztatásáról és a perbejegyzés mellőzéséről szóló jogerős végzést a bíróság haladéktalanul, de legfeljebb nyolc napon belül megküldi az ingatlanügyi hatóságnak a bejegyzés törlése céljából.
 
