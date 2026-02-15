@@ -25,3 +25,13 @@
 (7) Ha felszámolási eljárásban bejelentett hitelezői követelés zár alá vételére került sor, majd ezt követően a hitelezői igényre nem pénzösszegben kifejezett vagyonelkobzást rendelnek el, és a felszámolási eljárás alatt, vagy annak befejezésekor a vagyonfelosztás során a zár alá vétel tárgya helyébe meghatározott vagyontárgy vagy annak egy része lépett, az állami adó- és vámhatóság a vagyonelemet annak az adósnak adja vissza, akivel szemben a hitelezői követelés érvényesítésre került. Amennyiben az adós jogutód nélkül megszűnt, az állami adó- és vámhatóság vagyonrendezési eljárást kezdeményez.
 
 (8) Ha a pénzösszegben kifejezett vagyonelkobzás, vagy a jogi személlyel szemben kiszabott pénzbírság alacsonyabb összegre vonatkozik, mint az ezek biztosítása érdekében elrendelt zár alá vétel, az állami adó- és vámhatóság a különbözetként fennmaradó vagyonra a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után a cégbíróságnál vagyonrendezési eljárást kezdeményez.
+
+(9) A 29. § (1) bekezdés 6., 10., 11., 16., 17. pontja szerinti követelések végrehajtására irányuló eljárásokban az állami adó- és vámhatóság kezdeményezi a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt. Az állami adó- és vámhatóság a vagyonelvonásra irányuló eljárást kezdeményező iratában tételesen felsorolja a végrehajtás alá vont, még nem értékesített vagyontárgyakat.
+
+(10) A vagyonelvonásra irányuló eljárás eredményéről a megkeresett törvényszék, illetve amennyiben a kezdeményezés alapján nem tartja indokoltnak az eljárás megindítását, az ügyészség értesíti a kezdeményező állami adó- és vámhatóságot.
+
+(11) Az állami adó- és vámhatóság a (9) bekezdés szerinti esetben az eredeti adóssal szemben folytatott végrehajtást megszünteti, ha
+
+a) a vagyonelvonásra irányuló eljárásban hozott, új kötelezettet megállapító bírósági határozat végrehajtására a törvényszék megkereste, vagy
+
+b) a vagyonelvonásra irányuló eljárás új kötelezettet megállapító bírósági határozat meghozatala nélkül fejeződik be.

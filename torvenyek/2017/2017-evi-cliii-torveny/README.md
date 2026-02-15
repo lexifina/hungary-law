@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-153-00-00
 | 2025-03-01 | 2024. évi LXIV. törvény | 2017-153-00-00.35 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2017-153-00-00.36 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2017-153-00-00.39 |
+| 2026-02-15 | 2025. évi XCII. törvény | 2017-153-00-00.38 |
