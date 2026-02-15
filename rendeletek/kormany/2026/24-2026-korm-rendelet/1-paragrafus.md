@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, valamint az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az éttermek versenyképességének javítását szolgáló intézkedésekről szóló 10/2026. (I. 30.) Korm. rendelet [a továbbiakban: 10/2026. (I. 30.) Korm. rendelet] 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre tekintettel a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) és a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) egyes meghatározott juttatásokra vonatkozó szabályait, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Katv.) 20. § (2) bekezdés a) pontját és az egyes adótörvények és más kapcsolódó törvények, továbbá a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény 261. §-át az e rendeletben foglalt eltérésekkel kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
