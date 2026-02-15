@@ -1,3 +1,1 @@
-66. § A Pft. 39. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pénzforgalmi szolgáltató a keretszerződésben fenntarthatja magának a jogot a készpénz-helyettesítő fizetési eszköz letiltására, továbbá a fizetési megbízás visszautasítására a készpénz-helyettesítő fizetési eszköz jogosulatlan vagy csalárd módon történő használatának gyanúja esetén, vagy a készpénz-helyettesítő fizetési eszköz biztonsága érdekében, illetve, ha a pénzforgalmi szolgáltató műveletkockázat-elemzése alapján csalás gyanúja merül fel. Nem felel a pénzforgalmi szolgáltató az abból eredő károkért, hogy a pénzforgalmi szolgáltató objektív módon igazolható csalásgyanú esetén utasítja vissza a fizetési megbízást vagy tiltja le a készpénz-helyettesítő fizetési eszközt.”
+### 66. §
