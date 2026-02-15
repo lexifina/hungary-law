@@ -6,7 +6,7 @@ a) független (nem alárendelt) az ömlesztőhegesztést végző szervezeti egys
 
 b) rendelkezik az ömlesztőhegesztési tevékenység jellege szerinti ismereteket igazoló szakirányú képesítéssel, és
 
-c)[^1]
+c)[^4]
 
 (2) A hegesztőanyagok minőségét legalább az MSZ EN 10204 [Fémtermékek. A vizsgálati bizonylatok típusai] szabvány szerinti 2.2. típusú bizonylattal vagy azzal műszaki biztonsági szempontból egyenértékű módszer alkalmazásával kell igazolni.
 
@@ -16,4 +16,4 @@ c)[^1]
 
 (5) A gazdálkodó szervezetnek rendelkeznie kell az általa végzett tevékenység tekintetében kijelölt és bejelentett megfelelőségértékelő szervezet vagy akkreditált szervezet által tanúsított vagy jóváhagyott hegesztéstechnológiával.
 
-[^1]: A 4. § (2) bekezdés c) pontját a 34/2021. (VII. 26.) ITM rendelet 12. § d) pontja hatályon kívül helyezte.
+[^4]: A 4. § (2) bekezdés c) pontját a 34/2021. (VII. 26.) ITM rendelet 12. § d) pontja hatályon kívül helyezte.
