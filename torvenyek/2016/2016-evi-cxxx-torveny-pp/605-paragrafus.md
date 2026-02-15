@@ -2,7 +2,7 @@
 
 (1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon.
 
-(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtás az (1) bekezdés szerinti elektronikus út vállalásának minősül.
+(2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtása az (1) bekezdés szerinti elektronikus út vállalásának minősül.
 
 (3) Az (1) bekezdés szerinti elektronikus út választása esetén az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a fél, illetve képviselője köteles a bírósággal a kapcsolatot elektronikus úton tartani és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére, kivéve a tárgyaláson csatolt vagy kézbesíthető iratot, illetve határozatot.
 

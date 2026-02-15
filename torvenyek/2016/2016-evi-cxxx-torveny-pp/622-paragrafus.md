@@ -4,9 +4,9 @@
 
 ## 159. Az elektronikus hírközlő hálózat igénybevételének elrendelése és az elektronikus hírközlő hálózat útján történő meghallgatás helye
 
-### 622. § [Az elektronikus hírközlő hálózat útján történő meghallgatás elrendelése]
+### 622. § [Az elektronikus hírközlő hálózat igénybevételének elrendelése]
 
-(1) A bíróság a fél indítványára vagy hivatalból végzéssel elrendelheti, hogy a fél és más perbeli személy, a tanú, valamint a szakértő meghallgatására, továbbá – ha az ellen a szemletárgy birtokosa nem tiltakozik – a szemle lefolytatására elektronikus hírközlő hálózat útján kerüljön sor, ha
+(1) A bíróság indítványra vagy hivatalból végzéssel elrendelheti, hogy a tárgyaláson és a személyes meghallgatáson lefolytatásra kerülő eljárási cselekményen a fél és más perbeli személy, azok képviselője, a tanú, valamint a szakértő jelenléte elektronikus hírközlő hálózat útján kerüljön biztosításra, továbbá – ha az ellen a szemletárgy birtokosa nem tiltakozik – a szemle lefolytatására elektronikus hírközlő hálózat útján kerüljön sor (a továbbiakban együtt: elektronikus hírközlő hálózat útján történő meghallgatás), ha
 
 a) az célszerűnek látszik, különösen, ha az az eljárás lefolytatását meggyorsítja,
 

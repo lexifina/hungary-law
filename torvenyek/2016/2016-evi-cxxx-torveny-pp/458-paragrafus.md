@@ -6,4 +6,4 @@
 
 (3) Nincs helye az eljárás szünetelésének a 121. § (1) bekezdés b) pontja szerinti esetben.
 
-(4) A házassági bontóperben az eljárás felek megegyezése alapján történő szünetelésére háromnál több alkalommal is sor kerülhet.
+(4)
