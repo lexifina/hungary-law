@@ -6,19 +6,23 @@
 
 a) a legfőbb ügyész helyettes;
 
-b) a legfőbb ügyészségi főosztályvezető ügyész;
+b) a főtitkár;
 
-c) a legfőbb ügyészségi főosztályvezető helyettes ügyész;
+c) a főtitkár-helyettes;
 
-d) a legfőbb ügyészségi osztályvezető ügyész;
+d) a legfőbb ügyészségi főosztályvezető ügyész;
 
-e) a fellebbviteli főügyész;
+e) a legfőbb ügyészségi főosztályvezető-helyettes ügyész;
 
-f) a fellebbviteli főügyészhelyettes;
+f) a legfőbb ügyészségi osztályvezető ügyész;
 
-g) a főügyész;
+g) a fellebbviteli főügyész;
 
-h) a főügyészhelyettes.
+h) a fellebbviteli főügyészhelyettes;
+
+i) a főügyész;
+
+j) a főügyészhelyettes.
 
 (3) Vezető állású ügyész:
 

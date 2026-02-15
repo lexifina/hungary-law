@@ -8,7 +8,7 @@ c) szociális, temetési segély;
 
 d) családalapítási támogatás;
 
-e) letelepedési segély;
+e)
 
 f) illetményelőleg;
 
@@ -16,11 +16,11 @@ g) az önkéntes kiegészítő pénztári tagság támogatása;
 
 h) az ügyészségi szolgálati viszonyban töltött idő anyagi elismerése;
 
-i) hosszú ügyészségi szolgálati viszony esetén megtakarítás jellegű életbiztosítás kötése;
+i)
 
 j) a helyi munkába járás támogatása;
 
-k) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi vásárlás támogatása.
+k)
 
 (2) A nyugállományú ügyész pénzbeli és természetbeni támogatásban részesíthető.
 

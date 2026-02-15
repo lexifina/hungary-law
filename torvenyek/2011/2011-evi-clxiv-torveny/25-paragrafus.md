@@ -1,4 +1,4 @@
-## 9. A vezetői kinevezés visszavonása
+## 9. A vezetői kinevezés visszavonása, megszűnése
 
 25. § (1) A legfőbb ügyész kinevezési jogkörébe tartozó vezetői kinevezés határozatlan időre szól, és az indokolás nélkül bármikor visszavonható. A vezetői kinevezés visszavonása előtt ki kell kérni az ügyészi tanács véleményét.
 

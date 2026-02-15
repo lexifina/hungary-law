@@ -2,7 +2,7 @@
 
 a) az eljárás alá vont ügyészségi alkalmazottat az első meghallgatásakor ki kell oktatni az eljárással kapcsolatos jogaira;
 
-b) a 96. § (2) bekezdésében foglaltakon túl a fegyelmi büntetés hatálya alatt álló tisztviselő, írnok magasabb fizetési osztályba nem sorolható és a fegyelmi büntetés hatálya miatt elmaradt magasabb fizetési osztályba történő besorolása a mentesülés vagy mentesítés időpontjában esedékes, az előresorolás időpontját – a fegyelmi büntetés hatálya miatti szünetelés figyelmen kívül hagyásával – az eredeti időponttól számítva kell megállapítani;
+b)
 
 c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki, tisztviselő, írnok, fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az illetmény öt százalékáig terjedhet;
 

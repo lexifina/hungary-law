@@ -14,7 +14,7 @@ ae) ügyészségi-főtanácsos III.,
 
 b) vezető.
 
-(2) A Legfőbb Ügyészségen foglalkoztatott tisztviselők, írnokok és fizikai alkalmazottak tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
+(2) A Legfőbb Ügyészségen és az OKRI-nál foglalkoztatott tisztviselők, írnokok és fizikai alkalmazottak tekintetében az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
 a) ügyintéző, ezen belül:
 

@@ -1,4 +1,4 @@
-57. § (1) A munkáltatói jogkör gyakorlója a szokásos szolgálati hely szerinti településen kívüli munkavégzésre kötelezheti az ügyészt (kiküldetés). Ennek feltétele, hogy az ügyész a kiküldetés időtartama alatt is a munkáltató irányítása és utasítása alapján végezze a munkát. A kiküldetésnél az ügyész méltányos érdekeit figyelembe kell venni.
+57. § (1) A munkáltatói jogkör gyakorlója a szolgálati hely szerinti településen kívüli munkavégzésre kötelezheti az ügyészt (kiküldetés). Ennek feltétele, hogy az ügyész a kiküldetés időtartama alatt is a munkáltató irányítása és utasítása alapján végezze a munkát. A kiküldetésnél az ügyész méltányos érdekeit figyelembe kell venni.
 
 (2) A kiküldetés alapján történő munkavégzés időtartama nem haladhatja meg – a munkáltatói jogkör gyakorlója és az ügyész eltérő megállapodása hiányában – naptári évenként a negyvennégy munkanapot, az ügyészségi nyomozás központi és területi szervezeti egységében szolgálatot teljesítő ügyész esetében pedig a százhúsz munkanapot. Ha a kiküldetés a négy órát meghaladja, azt egy munkanapként kell számításba venni.
 

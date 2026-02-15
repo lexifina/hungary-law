@@ -16,7 +16,7 @@ f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, 
 
 g) összeférhetetlenségének megállapításával;
 
-h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
+h) hivatalvesztés fegyelmi büntetést kiszabó jogerős vagy azonnal végrehajtható fegyelmi határozattal;
 
 i) a bíróságnak vele szemben szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 

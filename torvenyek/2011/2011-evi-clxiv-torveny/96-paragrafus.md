@@ -10,7 +10,7 @@ c) magasabb fizetési fokozatba nem sorolható,
 
 d) az e törvényben meghatározott címet nem szerzi meg, illetve az részére nem adományozható.
 
-(3) Az (1) bekezdésben meghatározott időtartam elteltével a fegyelmi büntetést minden nyilvántartásból törölni kell.
+(3) Az (1) bekezdésben meghatározott időtartam elteltével a fegyelmi büntetést a személyi nyilvántartásból törölni kell.
 
 (4) A fegyelmi büntetés hatálya alól az arra érdemes ügyészt kérelmére a fegyelmi büntetés kiszabására jogosult fegyelmi jogkört gyakorló személy mentesítheti, ha a büntetés időbeli hatályának fele eltelt, feltéve, hogy az ügyész újabb fegyelmi büntetésben nem részesült.
 

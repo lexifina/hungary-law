@@ -14,6 +14,8 @@ jogosult.
 
 (5) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos havi illetményre és más javadalmazásra jogosult.
 
+(5a) A főtitkár a Kúria főtitkárával, a főtitkár-helyettes a Kúria főtitkár-helyettesével azonos havi illetményre és más javadalmazásra jogosult.
+
 (6) A legfőbb ügyészségi főosztályvezető ügyész és a legfőbb ügyészségi főosztályvezető helyettes ügyész a Kúria kollégiumvezetőjével és a Kúria kollégiumvezető-helyettesével azonos havi illetményre jogosult.
 
 (7) A legfőbb ügyészségi osztályvezető ügyész a Kúria tanácselnökével azonos havi illetményre jogosult.

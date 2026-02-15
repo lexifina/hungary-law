@@ -1,4 +1,4 @@
-68. § (1) A legfőbb ügyészségi ügyész kivételével az ügyész idegennyelv-ismereti pótlékra jogosult, ha munkakörében az idegen nyelvet a munkáltatói jogkör gyakorlójának rendelkezése szerint használja, és az adott nyelvből állami nyelvvizsga tételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
+68. § (1) A munkáltatói jogkör gyakorlója a legfőbb ügyészségi ügyész kivételével az ügyész részére idegennyelv-ismereti pótlékot állapíthat meg, ha munkakörében az idegen nyelvet a munkáltatói jogkör gyakorlójának rendelkezése szerint használja, és az adott nyelvből állami nyelvvizsga tételét igazoló bizonyítvánnyal vagy azzal egyenértékű igazolással rendelkezik.
 
 (2) A pótlék minden idegen nyelv után külön-külön jár.
 

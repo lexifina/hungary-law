@@ -1,15 +1,1 @@
-165. § (1) Az ügyészségi alkalmazott e törvény hatályba lépésétől számított harminc napon belül kérheti a jubileumi jutalomra való jogosultság szempontjából figyelembe vett szolgálati viszonyban töltött idejének újbóli megállapítását. A kérelemhez az ügyészségi alkalmazottnak csatolni kell a szolgálati viszonyban töltött idő megállapításához beszámítani kért jogviszonyok fennállását igazoló okiratokat.
-
-(2) A munkáltatói jogkör gyakorlója köteles a kérelemről a benyújtástól számított harminc napon belül dönteni, megalapozottság esetén a szolgálati viszonyban töltött időt megfelelően módosítani, és erről az ügyészségi alkalmazottat értesíteni.
-
-(3) Ha az e törvény hatályba lépésekor ügyészségi szolgálati viszonyban álló ügyészségi alkalmazott
-
-a) a (2) bekezdésben foglaltak szerint e törvény hatályba lépése előtt jubileumi jutalomra lett volna jogosult, és
-
-b) a jubileum időpontjában ügyészségi szolgálati viszonyban állt, továbbá
-
-c) részére a jubileumi jutalmat – bármely jogviszonyt tekintve – nem folyósították, azt számára e törvény hatályba lépését követő három hónapon belül kell kifizetni.
-
-(4) Ha az ügyészségi alkalmazott a (3) bekezdés alapján több jubileumi jutalomra is jogosulttá válik, úgy részére a legmagasabb összegűt kell kifizetni.
-
-(5) Ha az ügyészségi alkalmazott a (3)–(4) bekezdés alapján jubileumi jutalomra jogosult, az azzal járó összegből le kell vonni a hatálybalépés előtt kifizetett jubileumi jutalom összegét, ha ez utóbbira a jogosultság – az újból elismert szolgálati viszonyban töltött idő alapján – nem állapítható meg.
+165. § A 154. § (3) bekezdésének a magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel elfogadott módosításának hatálybalépésekor ügyészségi szolgálati viszonyban lévő ügyészségi alkalmazott esetében a jubileumi jutalomra jogosító idők számítása során – a 154. § (5) bekezdésére is figyelemmel – az ügyészségi szolgálati viszonyban töltött idő számításánál – a 154. § (1) bekezdésében foglaltakon kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, költségvetési intézménynél köznevelési foglalkoztatotti jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni, valamint ügyészségi szolgálati viszonyban töltött időnek tekintendő az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.

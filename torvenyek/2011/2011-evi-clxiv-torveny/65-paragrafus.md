@@ -1,4 +1,4 @@
-65. § (1) A 2. mellékletben meghatározott vezetői tisztséget betöltő ügyészt, a legfőbb ügyészségi ügyész kivételével havonta vezetői pótlék illeti meg.
+65. § (1) A 2. mellékletben meghatározott vezetői tisztséget kinevezéssel vagy megbízással betöltő ügyészt, a legfőbb ügyészségi ügyész kivételével havonta vezetői pótlék illeti meg.
 
 (2) A vezetői pótlékot – a 2. mellékletben meghatározottak szerint – az illetményalap százalékában kell megállapítani.
 

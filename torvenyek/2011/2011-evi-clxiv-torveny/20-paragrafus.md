@@ -16,4 +16,4 @@ véleményét a pályázóról.
 
 (4) Ha nincs alkalmas pályázó, új pályázatot kell kiírni.
 
-(5) Az új pályázat eredménytelensége esetén a vezetői munkakör megbízás útján tölthető be. A megbízás legfeljebb egy évre szólhat.
+(5)

@@ -18,7 +18,7 @@ f) rendkívüli lemondásával;
 
 g) összeférhetetlenségének megállapításával;
 
-h) elbocsátás fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
+h) elbocsátás fegyelmi büntetést kiszabó jogerős vagy azonnal végrehajtható fegyelmi határozattal;
 
 i) a bíróságnak vele szemben végrehajtandó szabadságvesztést kiszabó jogerős ítéletével, továbbá ha büntetőeljárás során kényszergyógykezelését rendelték el;
 

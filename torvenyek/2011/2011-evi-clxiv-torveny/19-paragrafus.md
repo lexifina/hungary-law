@@ -6,4 +6,4 @@
 
 (4) Az elkésett pályázat érdemben nem bírálható el. A hiányos pályázat benyújtóját pedig rövid határidő tűzésével fel kell hívni a hiány pótlására. Ennek elmulasztása esetén a pályázat érdemben nem bírálható el.
 
-(5) A pályázat elbírálásáig, illetve eredményes pályázat esetén az azt követő kinevezésig a legfőbb ügyész megbízást adhat a betöltetlen vezetői munkakör ellátására.
+(5)
