@@ -2,6 +2,6 @@
 
 ## EGYEDI ESETEKRE VONATKOZÓ SZABÁLYOK
 
-136. §[^59]
+136. §[^61]
 
-[^59]: A 136. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.
+[^61]: A 136. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.

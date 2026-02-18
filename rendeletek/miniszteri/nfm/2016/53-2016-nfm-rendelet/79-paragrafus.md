@@ -1,3 +1,3 @@
-79. §[^39]
+79. §[^41]
 
-[^39]: A 77–79. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § m) pontja hatályon kívül helyezte.
+[^41]: A 77–79. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § m) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-15. §[^15]
+15. §[^17]
 
-[^15]: A 13–16. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.
+[^17]: A 13–16. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.

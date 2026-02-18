@@ -4,7 +4,7 @@
 
 ## 6. A szakszolgálati engedélyek típusai és a betétlap
 
-## 8. §[^8] E rendelet alapján – az adott légijármű kategóriájának vagy a végezni kívánt tevékenységnek megfelelően – a következő szakszolgálati engedélyek léteznek:
+## 8. §[^10] E rendelet alapján – az adott légijármű kategóriájának vagy a végezni kívánt tevékenységnek megfelelően – a következő szakszolgálati engedélyek léteznek:
 
 a) ultralight repülőgép pilóta szakszolgálati engedély,
 
@@ -18,4 +18,4 @@ e) fedélzeti navigátor szakszolgálati engedély és
 
 f) repülésüzemi tiszt szakszolgálati engedély.
 
-[^8]: A 8. § az 55/2017. (XII. 27.) NFM rendelet 97. §-ával megállapított szöveg.
+[^10]: A 8. § az 55/2017. (XII. 27.) NFM rendelet 97. §-ával megállapított szöveg.

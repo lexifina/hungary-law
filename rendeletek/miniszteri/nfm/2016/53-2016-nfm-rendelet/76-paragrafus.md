@@ -1,4 +1,4 @@
-76. § (1)[^36]
+76. § (1)[^38]
 
 (2) A mezőgazdasági jogosítás megszerzésére irányuló gyakorlati képzés során a növendéknek kétkormányos oktatásban kell részesülnie a kérelmezett mezőgazdasági jogosításnak megfelelő légijárművön.
 
@@ -8,4 +8,4 @@
 
 (5) A mezőgazdasági jogosítás megszerzésére irányuló jártassági vizsgán a növendéknek bizonyítania kell, hogy képes mezőgazdasági repüléseket végrehajtani a kérelmezett mezőgazdasági jogosításnak megfelelő légijárművön. A jártassági vizsgának tartalmaznia kell legalább a 6. mellékletben meghatározott elemeket.
 
-[^36]: A 76. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § l) pontja hatályon kívül helyezte.
+[^38]: A 76. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § l) pontja hatályon kívül helyezte.

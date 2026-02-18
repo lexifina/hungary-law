@@ -1,5 +1,5 @@
-9. § (1)[^9] Az 1178/2011/EU bizottsági rendelet szerint kiadott magánpilóta, kereskedelmi pilóta, légitársasági pilóta, könnyű légijárműre érvényes pilóta szakszolgálati engedély, az (EU) 2018/1976 bizottsági végrehajtási rendelet szerint kiadott vitorlázó repülőgép pilóta szakszolgálati engedély és az (EU) 2018/395 bizottsági rendelet szerint kiadott ballon pilóta szakszolgálati engedély, továbbá a kapcsolódó jogosítások és tanúsítások engedélyese jogosult az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó repülőgépen, helikopteren, helyből felszálló repülőgépen, vitorlázó repülőgépen, segédmotoros vitorlázó repülőgépen, ballonon és léghajón a szakszolgálati engedély, jogosítás vagy tanúsítás által biztosított jogosultságoknak megfelelő tevékenységet végezni.
+9. § (1)[^11]
 
 (2) A repülőgép, helikopter, helyből felszálló repülőgép és léghajó vezetésére jogosító magánpilóta, kereskedelmi pilóta és légitársasági pilóta szakszolgálati engedélyek esetében az 1178/2011/EU bizottsági rendelet alapján kiadott szakszolgálati engedéllyel, jogosítással vagy tanúsítással meg nem szerezhető jogosultságok a légiközlekedési hatóság által az 1178/2011/EU bizottsági rendelet szerint kiadott szakszolgálati engedélyhez kiadott betétlappal és az arra bejegyzett jogosítással gyakorolhatók.
 
-[^9]: A 9. § (1) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 28. §-ával megállapított szöveg.
+[^11]: A 9. § (1) bekezdését a 35/2025. (XII. 19.) ÉKM rendelet 13. §-a hatályon kívül helyezte.

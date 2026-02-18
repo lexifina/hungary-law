@@ -16,7 +16,7 @@ Az e rendelet alapján kiadott szakszolgálati engedélyek és betétlapok álta
 
 2. A légiközlekedési hatóság által e rendelet szerint kiadott szakszolgálati engedélyek kötelező tartalmi elemei
 
-2.1.[^69] Állandó adatpontok
+2.1.[^72] Állandó adatpontok
 
 I Kiállító állam (State of issue)
 
@@ -50,7 +50,7 @@ XIV A légiközlekedési hatóság által megkövetelt bármely további részle
 
 3. A légiközlekedési hatóság által e rendelet szerint kiadott betétlapok kötelező tartalmi elemei
 
-3.1.[^70] Állandó adatpontok
+3.1.[^73] Állandó adatpontok
 
 I Kiállító állam (State of issue)
 
@@ -82,5 +82,5 @@ XIII Megjegyzések (Remarks)
 
 XIV A légiközlekedési hatóság által megkövetelt bármely további részlet
 
-[^69]: A 7. melléklet 2.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § a) pontja szerint módosított szöveg.
-[^70]: A 7. melléklet 3.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § b) pontja szerint módosított szöveg.
+[^72]: A 7. melléklet 2.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § a) pontja szerint módosított szöveg.
+[^73]: A 7. melléklet 3.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § b) pontja szerint módosított szöveg.
