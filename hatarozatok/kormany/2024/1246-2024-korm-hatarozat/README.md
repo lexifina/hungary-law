@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1246-30
 | --- | --- | --- |
 | 2024-08-08 | 2024-1246-30-22.1 | 1246/2024. (VIII. 8.) Korm. határozat |
 | 2024-08-22 | 2024-1246-30-22.2 | 1260/2024. (VIII. 22.) Korm. határozat |
+| 2026-02-19 | 2024-1246-30-22.3 | 1050/2026. (II. 19.) Korm. határozat |
