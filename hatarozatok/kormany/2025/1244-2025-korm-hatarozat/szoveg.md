@@ -8,10 +8,13 @@ A Kormány
 
 | Határidő: | 2025. november 30. |
 
-3. egyetért azzal, hogy – a Program hatékony szakmai megvalósítása érdekében – az adatok gyűjtésével kapcsolatos tevékenységek koordinálásában a Pannon Egyetem, az adattovábbításokban pedig további közreműködők is részt vegyenek;
+3.[^1] egyetért azzal, hogy – a Program hatékony szakmai megvalósítása érdekében – az adatok gyűjtésével kapcsolatos tevékenységek koordinálásában a közigazgatási és területfejlesztési miniszter által kijelölt szervezet, az adattovábbításokban pedig további közreműködők is részt vegyenek;
 
-4. felhívja a közigazgatási és területfejlesztési minisztert, hogy – a 3. pont végrehajtása érdekében – dolgozza ki az adatkezelés és -felhasználás jogszabályi kereteit.
+4.[^2] felhívja a közigazgatási és területfejlesztési minisztert, hogy – a 3. pont végrehajtása érdekében – dolgozza ki az adatkezelés és -felhasználás jogszabályi kereteit.
 
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
-| Határidő: | az e kormányhatározat közzétételét követő 180 napon belül |
+| Határidő: | 2026. szeptember 30. |
+
+[^1]: A 3. pont az 1051/2026. (II. 19.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1051/2026. (II. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
