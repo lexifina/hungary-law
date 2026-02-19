@@ -1,3 +1,3 @@
-12. § Az 53/2016. (XII. 16.) NFM rendelet 147. §-a a következő d) ponttal egészül ki:
+12. §[^13]
 
-(Ez a rendelet a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

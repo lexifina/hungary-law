@@ -1,5 +1,5 @@
 ## 5. A Nemzeti Hozzáférési Pontról és a közúti közlekedési információs szolgáltatásokról szóló 27/2019. (VIII. 26.) ITM rendelet módosítása
 
-14. §[^11]
+14. §[^15]
 
-[^11]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
