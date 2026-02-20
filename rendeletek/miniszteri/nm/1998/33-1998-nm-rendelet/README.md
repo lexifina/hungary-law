@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-33-20-3
 | 2025-01-01 | 1998-33-20-3D.35 | 3/2010. (VII. 30.) NGM rendelet |
 | 2025-06-27 | 1998-33-20-3D.37 | 20/2025. (VI. 26.) BM rendelet |
 | 2026-01-01 | 1998-33-20-3D.36 | 16/2025. (V. 29.) BM rendelet |
+| 2026-02-20 | 1998-33-20-3D.38 | 13/2014. (III. 14.) NGM rendelet |

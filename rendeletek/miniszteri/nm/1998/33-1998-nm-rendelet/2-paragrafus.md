@@ -50,7 +50,7 @@ e) a túlnyomásos munkahelyeken dolgozók
 
 f)[^10] az egészségügyi tevékenységet folytatók,
 
-g)[^11] a polgári nemzetbiztonsági szolgálatok kivételével a rendvédelmi szervek hivatásos, szerződéses határvadász jogviszonyban álló és igazságügyi alkalmazotti állománya, valamint a hivatásos, a szerződéses határvadász jogviszonyba és igazságügyi alkalmazotti állományba pályázók,
+g)[^11] a rendvédelmi szervek hivatásos, szerződéses határvadász jogviszonyban álló és igazságügyi alkalmazotti állománya, valamint a hivatásos, a szerződéses határvadász jogviszonyba és igazságügyi alkalmazotti állományba pályázók,
 
 h)[^12] az Országgyűlési Őrség hivatásos állománya, valamint a hivatásos állományba pályázók,
 
@@ -71,7 +71,7 @@ munkaköri alkalmasságának orvosi vizsgálatánál és véleményezésénél.
 [^8]: A 2. § (1) bekezdése a 20/2025. (VI. 26.) BM rendelet 1. §-ával megállapított szöveg.
 [^9]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (2) bekezdésének f) pontját a 18/2007. (V. 10.) SZMM rendelet 10. § (3) bekezdése iktatta be.
-[^11]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2023. (XII. 12.) BM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2023. (XII. 12.) BM rendelet 37. § (1) bekezdésével megállapított, a 2/2026. (II. 19.) BM rendelet 3. §-a szerint módosított szöveg.
 [^12]: A 2. § (2) bekezdés h) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^13]: A 2. § (2) bekezdés i) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^14]: A 2. § (2) bekezdés j) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
