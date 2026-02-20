@@ -1,4 +1,4 @@
-## 11/A. [^176] A szolgálati viszonyra vonatkozó tájékoztatás
+## 11/A. [^179] A szolgálati viszonyra vonatkozó tájékoztatás
 
 53/A. § (1) A munkáltatói jogkör gyakorlója a Hszt. 45. § (4) bekezdése szerinti tájékoztatási kötelezettséget a hivatásos állomány tagja felé a (2) bekezdés szerinti rendben teljesíti.
 
@@ -42,4 +42,4 @@ e) a szociális biztonsággal kapcsolatos, a munkáltató által biztosított sz
 
 (6) A (2) bekezdés e) pontjában és az (5) bekezdés c) és e) pontjában foglalt tájékoztatás megadható az ezekre a pontokra irányadó jogszabályi rendelkezésre történő hivatkozással.
 
-[^176]: A 11/A. alcímet (53/A–53/D. §) a 4/2022. (III. 25.) BM rendelet 7. §-a iktatta be.
+[^179]: A 11/A. alcímet (53/A–53/D. §) a 4/2022. (III. 25.) BM rendelet 7. §-a iktatta be.

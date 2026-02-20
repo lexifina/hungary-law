@@ -1,8 +1,8 @@
 57. § (1) Azokat a szolgálati beosztásokat, amelyekben idegen nyelv használata szükséges, valamint amelyekben az idegen nyelv tudása a szolgálati beosztással járó feladat, a 3. melléklet tartalmazza.
 
-(2)[^193] Az őrszolgálati, a folyamatos ügyeleti és a készenléti jellegű szolgálati beosztásokat a 3/A. melléklet tartalmazza.
+(2)[^196] Az őrszolgálati, a folyamatos ügyeleti és a készenléti jellegű szolgálati beosztásokat a 3/A. melléklet tartalmazza.
 
-(3)–(4)[^194]
+(3)–(4)[^197]
 
-[^193]: Az 57. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 10. §-ával megállapított szöveg.
-[^194]: Az 57. § (3)–(4) bekezdését a 9/2018. (IV. 25.) BM rendelet 19. § c) pontja hatályon kívül helyezte.
+[^196]: Az 57. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 10. §-ával megállapított szöveg.
+[^197]: Az 57. § (3)–(4) bekezdését a 9/2018. (IV. 25.) BM rendelet 19. § c) pontja hatályon kívül helyezte.

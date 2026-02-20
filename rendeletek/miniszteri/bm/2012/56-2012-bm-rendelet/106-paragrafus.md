@@ -4,16 +4,16 @@
 
 (3) Szabálysértés elbírálásánál elsősorban pénzbírság fenyítést kell kiszabni. A pénzbírság mértékének meghatározásakor a helyi szabálysértési hatóság hasonló cselekményekre irányadó gyakorlatát kell alapul venni. Ettől enyhébb fenyítést kiszabni csak akkor lehet, ha azt a szabálysértés csekély súlya vagy egyéb, a szabálysértéssel összefüggő méltányolható körülmény indokolja. Súlyosabbat pedig akkor, ha a szabálysértő magatartás egyben olyan szolgálati kötelezettségszegésnek is minősül, amely a súlyosabb fenyítés kiszabását indokolja vagy a 99. §-ban meghatározottak teszik szükségessé.
 
-(3a)[^293] Ha a fegyelmi jogkörben elbírálható szabálysértésre kormányrendelet által meghatározott kötelező mértékű pénzbírság alkalmazását határozták meg és a hivatásos állományú a fegyelmi eljárás elrendelése előtt a szabálysértés elkövetését elismerte, a fegyelmi eljárásban a helyszíni bírságnak megfelelő mértékű pénzbírság fenyítést kell kiszabni.
+(3a)[^298] Ha a fegyelmi jogkörben elbírálható szabálysértésre kormányrendelet által meghatározott kötelező mértékű pénzbírság alkalmazását határozták meg és a hivatásos állományú a fegyelmi eljárás elrendelése előtt a szabálysértés elkövetését elismerte, a fegyelmi eljárásban a helyszíni bírságnak megfelelő mértékű pénzbírság fenyítést kell kiszabni.
 
 (4) Elkobzás vagy más intézkedés kezdeményezéséről az érdemi határozatban kell rendelkezni. Ugyancsak az érdemi határozatban kell rendelkezni a közlekedési büntetőpont rendszer alkalmazásáról is.
 
 (5) A fenyítettnek a fenyítés jogerőre emelkedésétől számított 30 napon belül benyújtott írásbeli kérelmére az Országgyűlési Őrség parancsnoka külön határozatban engedélyezheti a pénzbírság legfeljebb hathavi részletben történő befizetését vagy a befizetés legfeljebb három hónappal történő elhalasztását. A kérelem elbírálásáról szóló határozat ellen panasz előterjesztésének nincs helye.
 
-(6)[^294] A pénzbírságot az Országgyűlési Őrség Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára kell befizetni. Az Országgyűlési Őrség pénzügyi feladatokat ellátó szervezeti elemét a jogerős határozat rendelkező részének, illetve a részletfizetést vagy halasztott befizetést engedélyező határozatának megküldésével kell tájékoztatni, aki intézkedik a követelés nyilvántartásba vételéről.
+(6)[^299] A pénzbírságot az Országgyűlési Őrség Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára kell befizetni. Az Országgyűlési Őrség pénzügyi feladatokat ellátó szervezeti elemét a jogerős határozat rendelkező részének, illetve a részletfizetést vagy halasztott befizetést engedélyező határozatának megküldésével kell tájékoztatni, aki intézkedik a követelés nyilvántartásba vételéről.
 
-(7)[^295] Ha a kötelezett a befizetést a határozat jogerőre emelkedését követő 30 napon belül vagy az engedélyezett halasztás határnapjáig nem teljesítette, az Országgyűlési Őrség pénzügyi feladatokat ellátó szervezeti eleme erről értesíti az Országgyűlési Őrség parancsnokát, aki elrendeli a meg nem fizetett pénzbírság levonását a hivatásos állomány tagjának illetményéből. Meg kell vonni a részletfizetést attól, aki a befizetési kötelezettségének a részlet esedékességétől számított 15 napon belül nem tesz eleget.
+(7)[^300] Ha a kötelezett a befizetést a határozat jogerőre emelkedését követő 30 napon belül vagy az engedélyezett halasztás határnapjáig nem teljesítette, az Országgyűlési Őrség pénzügyi feladatokat ellátó szervezeti eleme erről értesíti az Országgyűlési Őrség parancsnokát, aki elrendeli a meg nem fizetett pénzbírság levonását a hivatásos állomány tagjának illetményéből. Meg kell vonni a részletfizetést attól, aki a befizetési kötelezettségének a részlet esedékességétől számított 15 napon belül nem tesz eleget.
 
-[^293]: A 106. § (3a) bekezdését a 36/2015. (VI. 16.) BM rendelet 7. §-a iktatta be.
-[^294]: A 106. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 30. §-ával megállapított szöveg.
-[^295]: A 106. § (7) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 40. pontja szerint módosított szöveg.
+[^298]: A 106. § (3a) bekezdését a 36/2015. (VI. 16.) BM rendelet 7. §-a iktatta be.
+[^299]: A 106. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 30. §-ával megállapított szöveg.
+[^300]: A 106. § (7) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 40. pontja szerint módosított szöveg.

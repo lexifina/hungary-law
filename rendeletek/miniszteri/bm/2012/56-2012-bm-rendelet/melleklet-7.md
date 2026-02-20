@@ -40,7 +40,7 @@
 
 | 20. | IV. | beosztott tűzoltó |
 
-7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^433]
+7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^438]
 
 A Szolgálati Jel leírása
 
@@ -48,7 +48,7 @@ A Szolgálati Jel leírása
 
 2. A Szolgálati Jel szalagja parlamenti bordó színű, közepén egy 16×8 milliméteres, ezüstözött, Országházat mintázó díszítéssel.
 
-3.[^434]
+3.[^439]
 
-[^433]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.
-[^434]: A 7. melléklet 3. pontját a 60/2024. (XII. 23.) BM rendelet 40. § 22. pontja hatályon kívül helyezte.
+[^438]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.
+[^439]: A 7. melléklet 3. pontját a 60/2024. (XII. 23.) BM rendelet 40. § 22. pontja hatályon kívül helyezte.

@@ -1,21 +1,21 @@
-159. §[^373]
+159. §[^378]
 
-a)–i) [^374]
+a)–i) [^379]
 
-j) [^375]
+j) [^380]
 
-k) [^376]
+k) [^381]
 
-l) [^377]
+l) [^382]
 
-m)–p) [^378]
+m)–p) [^383]
 
-q) [^379]
+q) [^384]
 
-[^373]: A 159. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^374]: A 159. § a)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^375]: A 159. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^376]: A 159. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^377]: A 159. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^378]: A 159. § m)–p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^379]: A 159. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^378]: A 159. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^379]: A 159. § a)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^380]: A 159. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^381]: A 159. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^382]: A 159. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^383]: A 159. § m)–p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^384]: A 159. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

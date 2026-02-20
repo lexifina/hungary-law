@@ -1,4 +1,4 @@
-63. §[^211] (1) A humánigazgatási szakszolgálat
+63. §[^214] (1) A humánigazgatási szakszolgálat
 
 a) a szolgálati igazolványt a szolgálati viszony megszűnése vagy megszüntetése esetén legkésőbb a szolgálati viszony utolsó napján bevonja,
 
@@ -22,4 +22,4 @@ tagjának ideiglenesen bevont szolgálati igazolványát a humánigazgatási sza
 
 (4) A hivatásos állomány azon tagját, akinek a szolgálati viszonya nyugállományba helyezésével szűnik meg, a szolgálati igazolvány bevonásával egyidejűleg a humánigazgatási szakszolgálat nyugdíjas igazolvánnyal látja el.
 
-[^211]: A 63. § a 60/2024. (XII. 23.) BM rendelet 27. §-ával megállapított szöveg.
+[^214]: A 63. § a 60/2024. (XII. 23.) BM rendelet 27. §-ával megállapított szöveg.

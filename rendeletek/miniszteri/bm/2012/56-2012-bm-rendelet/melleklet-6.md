@@ -12,15 +12,15 @@
 
 | 6. | biztonsági gépkocsivezető | + | + | + | + | + |
 
-| 7. | objektumőr I.[^427] |  | + |  |  |  |
+| 7. | objektumőr I.[^432] |  | + |  |  |  |
 
-| 8.[^428] | objektumőr II. |  | + |  |  |  |
+| 8.[^433] | objektumőr II. |  | + |  |  |  |
 
-| 9.[^429] | objektumőr III. |  | + |  |  |  |
+| 9.[^434] | objektumőr III. |  | + |  |  |  |
 
-| 10.[^430] | járőr |  | + |  |  |  |
+| 10.[^435] | járőr |  | + |  |  |  |
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^431]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^436]
 
 Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
@@ -30,13 +30,13 @@ Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvény�
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^432]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^437]
 
 A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából az Országgyűlési Őrség alapfeladatába tartozó szolgálati beosztások
 
-[^427]: Az 5. mellékletben foglalt táblázat A:7 mezője az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^428]: Az 5. mellékletben foglalt táblázat 8. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
-[^429]: Az 5. mellékletben foglalt táblázat 9. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
-[^430]: Az 5. mellékletben foglalt táblázat 10. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
-[^431]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^432]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+[^432]: Az 5. mellékletben foglalt táblázat A:7 mezője az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^433]: Az 5. mellékletben foglalt táblázat 8. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
+[^434]: Az 5. mellékletben foglalt táblázat 9. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
+[^435]: Az 5. mellékletben foglalt táblázat 10. sorát az 54/2025. (XII. 22.) BM rendelet 6. § (4) bekezdése iktatta be.
+[^436]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^437]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.

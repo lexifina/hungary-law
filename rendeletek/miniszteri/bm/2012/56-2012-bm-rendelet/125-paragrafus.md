@@ -1,3 +1,3 @@
-125. §[^347]
+125. §[^352]
 
-[^347]: A 125. §-t a 23/2013. (VI. 11.) BM rendelet 33. §-a hatályon kívül helyezte.
+[^352]: A 125. §-t a 23/2013. (VI. 11.) BM rendelet 33. §-a hatályon kívül helyezte.

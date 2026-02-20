@@ -1,8 +1,8 @@
-3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^418]
+3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^423]
 
 Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
 
-1.[^419] Őrszolgálati szolgálati beosztások
+1.[^424] Őrszolgálati szolgálati beosztások
 
 1.1. Az Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály Országház Biztonsági Osztályon, valamint az Irodaház Biztonsági Osztályon betöltött következő szolgálati beosztások:
 
@@ -30,7 +30,7 @@ Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Ügy
 
 2.3. ügyeletes.
 
-2.4.[^420] osztályvezető-helyettes.
+2.4.[^425] osztályvezető-helyettes.
 
 3. Készenléti jellegű szolgálati beosztások
 
@@ -44,9 +44,9 @@ Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Ügy
 
 3.1.4. szolgálatparancsok-helyettes.
 
-3.2.[^421] A Személyvédelmi Igazgatóság valamennyi szolgálati beosztása, az igazgató, a főosztályvezető és az osztályvezető szolgálati beosztás kivételével.
+3.2.[^426] A Személyvédelmi Igazgatóság valamennyi szolgálati beosztása, az igazgató, a főosztályvezető és az osztályvezető szolgálati beosztás kivételével.
 
-[^418]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be, szövege a 3/2022. (III. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^419]: A 3/A. melléklet 1. pontja az 54/2025. (XII. 22.) BM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^420]: A 3/A. melléklet 2.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdése iktatta be.
-[^421]: A 3/A. melléklet 3.2. pontja a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^423]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be, szövege a 3/2022. (III. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^424]: A 3/A. melléklet 1. pontja az 54/2025. (XII. 22.) BM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^425]: A 3/A. melléklet 2.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdése iktatta be.
+[^426]: A 3/A. melléklet 3.2. pontja a 60/2024. (XII. 23.) BM rendelet 38. § (3) bekezdésével megállapított szöveg.
