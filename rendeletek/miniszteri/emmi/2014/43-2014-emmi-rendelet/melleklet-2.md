@@ -296,11 +296,7 @@ A résztervekre vonatkozó részletes előírások
 
 7.3.14. az óvóhely használatára, kialakítására vonatkozó szabályokat.
 
-7.4. A honvédelmi intézkedési terv részeként ki kell térni a következőkre:
-
-7.4.1. a szakszemélyzet elosztása során a hadkötelesek közül csak a meghagyási jegyzékben szereplő és a hadkiegészítő parancsnokság által visszaigazolt személyekkel lehet számolni,
-
-7.4.2.[^45] a honvédelmi és rendvédelmi szervek sérültjei ellátását és a hadkiegészítő parancsnoksággal és rendőrkapitánysággal való kapcsolattartást is tervezni kell.
+7.4.[^45]
 
 7.5. Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Szállítási terv.
 
@@ -469,7 +465,7 @@ A résztervekre vonatkozó részletes előírások
 [^42]: A 2. melléklet 6.1.3. pontja a 41/2022. (XII. 9.) BM rendelet 21. § k) pontja szerint módosított szöveg.
 [^43]: A 2. melléklet 7.2. pontja a 45/2022. (XII. 20.) BM rendelet 79. § b) pontja szerint módosított szöveg.
 [^44]: A 2. melléklet 7.3.10. pontja a 45/2022. (XII. 20.) BM rendelet 79. § b) pontja szerint módosított szöveg.
-[^45]: A 2. melléklet 7.4.2. pontja a 41/2022. (XII. 9.) BM rendelet 22. §-a szerint módosított szöveg.
+[^45]: A 2. melléklet 7.4. pontját a 2/2026. (II. 19.) BM rendelet 20. §-a hatályon kívül helyezte.
 [^46]: A 2. melléklet 8.2.4. pontja a 45/2022. (XII. 20.) BM rendelet 79. § b) pontja szerint módosított szöveg.
 [^47]: A 2. melléklet 9.2.2. pontja a 45/2022. (XII. 20.) BM rendelet 79. § b) pontja szerint módosított szöveg.
 [^48]: A 2. melléklet 10.1. pont 10.1.4. alpontja a 41/2022. (XII. 9.) BM rendelet 20. §-ával megállapított szöveg.

@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-43-20-5
 | 2021-11-18 | 2014-43-20-5H.17 | 49/2021. (XI. 15.) EMMI rendelet |
 | 2022-12-10 | 2014-43-20-5H.18 | 41/2022. (XII. 9.) BM rendelet |
 | 2023-01-01 | 2014-43-20-5H.19 | 45/2022. (XII. 20.) BM rendelet |
+| 2026-02-20 | 2014-43-20-5H.20 | 2/2026. (II. 19.) BM rendelet |
