@@ -1,4 +1,4 @@
-## 64/A. §[^135] Ha a határforgalom ellenőrzése során felmerül, hogy az Európai Határregisztrációs Rendszerben szereplő adatokat kiegészíteni, helyesbíteni vagy törölni kell, az Európai Határregisztrációs Rendszer nemzeti központi hozzáférési pontjának értesítésére vonatkozó kötelezettségnek haladéktalanul kell eleget tenni.
+## 64/A. §[^137] Ha a határforgalom ellenőrzése során felmerül, hogy az Európai Határregisztrációs Rendszerben szereplő adatokat kiegészíteni, helyesbíteni vagy törölni kell, az Európai Határregisztrációs Rendszer nemzeti központi hozzáférési pontjának értesítésére vonatkozó kötelezettségnek haladéktalanul kell eleget tenni.
 
 ## 50. Mélységi ellenőrzés
 
@@ -6,4 +6,4 @@
 
 (2) A mélységi ellenőrzés nem irányulhat a határforgalom ellenőrzésére.
 
-[^135]: A 64/A. §-t a 46/2021. (XII. 22.) BM rendelet 4. §-a iktatta be.
+[^137]: A 64/A. §-t a 46/2021. (XII. 22.) BM rendelet 4. §-a iktatta be.
