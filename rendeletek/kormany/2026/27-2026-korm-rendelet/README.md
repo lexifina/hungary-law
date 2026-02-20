@@ -1,0 +1,9 @@
+# 27/2026. (II. 19.) Korm. rendelet
+
+az állami támogatásokkal és az alapszámlával összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-27-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-02-20 | 2026-27-20-22.1 | 27/2026. (II. 19.) Korm. rendelet |
