@@ -46,6 +46,6 @@
 
 | 23. | bakancs | 1 | 4 |
 
-4. melléklet a 64/2012. (XII. 12.) BM rendelethez[^135]
+4. melléklet a 64/2012. (XII. 12.) BM rendelethez[^136]
 
-[^135]: A 4. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (3) bekezdése iktatta be, a 60/2024. (XII. 23.) BM rendelet 75. § 18. pontja hatályon kívül helyezte.
+[^136]: A 4. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (3) bekezdése iktatta be, a 60/2024. (XII. 23.) BM rendelet 75. § 18. pontja hatályon kívül helyezte.

@@ -1,8 +1,8 @@
 ## 6. Az alapfelszerelés és az alapfelszerelés-kiegészítés általános szabályai
 
-19. § (1)[^56]
+19. § (1)[^57]
 
-(2)[^57] Az új felszerelők az 1. melléklet szerint meghatározott mennyiségű ruházati termékre és felszerelési cikkre jogosultak természetbeni alapfelszerelési ellátmányként.
+(2)[^58] Az új felszerelők az 1. melléklet szerint meghatározott mennyiségű ruházati termékre és felszerelési cikkre jogosultak természetbeni alapfelszerelési ellátmányként.
 
 (3) Az igényjogosultak alapellátási normába való besorolása a szolgálati beosztás alapján történik. A ruházati normába történő besorolásról mindig az érvényes állománytáblázat alapján kell határozni. Eltérő beosztásban történő foglalkoztatás esetében a ruházati normába történő besorolásról az Országgyűlési Őrség parancsnoka határoz. A ruházati normába történő besorolásról, átsorolásról, átminősítésről az Országgyűlési Őrség parancsnoka állományparancsban intézkedik.
 
@@ -12,8 +12,8 @@
 
 (6) Az alapfelszerelés kiadásának terhelési időpontja az igényjogosultság kezdeti hónapjának első napja.
 
-(7)[^58] Teljes alapfelszerelésre a hivatásos állomány szolgálati viszonyt újonnan létesítő tagja, valamint a más rendvédelmi feladatokat ellátó szervtől áthelyezett tagja jogosult.
+(7)[^59] Teljes alapfelszerelésre a hivatásos állomány szolgálati viszonyt újonnan létesítő tagja, valamint a más rendvédelmi feladatokat ellátó szervtől vagy polgári nemzetbiztonsági szolgálattól áthelyezett tagja jogosult.
 
-[^56]: A 19. § (1) bekezdését a 60/2024. (XII. 23.) BM rendelet 75. § 13. pontja hatályon kívül helyezte.
-[^57]: A 19. § (2) bekezdése a 60/2024. (XII. 23.) BM rendelet 53. §-ával megállapított szöveg.
-[^58]: A 19. § (7) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.
+[^57]: A 19. § (1) bekezdését a 60/2024. (XII. 23.) BM rendelet 75. § 13. pontja hatályon kívül helyezte.
+[^58]: A 19. § (2) bekezdése a 60/2024. (XII. 23.) BM rendelet 53. §-ával megállapított szöveg.
+[^59]: A 19. § (7) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja, a 2/2026. (II. 19.) BM rendelet 13. § a) pontja szerint módosított szöveg.

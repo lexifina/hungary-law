@@ -1,6 +1,6 @@
-## 4. §[^14] A szolgálati elöljáró felelős a szolgálatban lévő, valamint a közös rendezvényen részt vevő egyenruha-viselésre jogosultak egységes öltözködéséért. Az egyenruházati termékek és felszerelési cikkek összetételét a szolgálati követelményekre, a rendezvények jellegére, a viselési alkalomra, továbbá az aktuális évszakra tekintettel kell meghatározni.
+## 4. §[^15] A szolgálati elöljáró felelős a szolgálatban lévő, valamint a közös rendezvényen részt vevő egyenruha-viselésre jogosultak egységes öltözködéséért. Az egyenruházati termékek és felszerelési cikkek összetételét a szolgálati követelményekre, a rendezvények jellegére, a viselési alkalomra, továbbá az aktuális évszakra tekintettel kell meghatározni.
 
-5. § (1)[^15] Nem kell egyenruházatot beszerezni a hivatásos állomány
+5. § (1)[^16] Nem kell egyenruházatot beszerezni a hivatásos állomány
 
 a) egyenruha-viselésre nem kötelezett tagja,
 
@@ -24,8 +24,8 @@ részére.
 
 (2) Az (1) bekezdésben meghatározott személyt nem érheti hátrányos jogkövetkezmény azért, mert egyenruházatot nem visel.
 
-(3)[^16]
+(3)[^17]
 
-[^14]: A 4. § a 9/2018. (IV. 25.) BM rendelet 32. § c) pontja szerint módosított szöveg.
-[^15]: Az 5. § (1) bekezdése a 60/2024. (XII. 23.) BM rendelet 43. §-ával megállapított szöveg.
-[^16]: Az 5. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 75. § 2. pontja hatályon kívül helyezte.
+[^15]: A 4. § a 9/2018. (IV. 25.) BM rendelet 32. § c) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdése a 60/2024. (XII. 23.) BM rendelet 43. §-ával megállapított szöveg.
+[^17]: Az 5. § (3) bekezdését a 60/2024. (XII. 23.) BM rendelet 75. § 2. pontja hatályon kívül helyezte.

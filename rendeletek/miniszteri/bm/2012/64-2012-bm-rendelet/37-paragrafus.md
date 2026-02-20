@@ -1,10 +1,10 @@
 ## 15. Az igényjogosultság megszűnésekor követendő eljárás
 
-37. § (1)[^101] Az igényjogosult a használatára kiadott valamennyi egyéni védőfelszerelést és ruházati egységfelszerelést, valamint a viselési idő 50%-ánál rövidebb ideig használt munkaruházatot vagy ellenértékét – a (3) és (4) bekezdésben meghatározott kivételekkel –
+37. § (1)[^102] Az igényjogosult a használatára kiadott valamennyi egyéni védőfelszerelést és ruházati egységfelszerelést, valamint a viselési idő 50%-ánál rövidebb ideig használt munkaruházatot vagy ellenértékét – a (3) és (4) bekezdésben meghatározott kivételekkel –
 
 a) a szolgálati viszonya megszűnésekor,
 
-b)[^102] más rendvédelmi feladatokat ellátó szervhez történő áthelyezésekor, vagy 3 hónapot meghaladó vezénylésekor,
+b)[^103] más rendvédelmi feladatokat ellátó szervhez vagy polgári nemzetbiztonsági szolgálathoz történő áthelyezésekor, vagy 3 hónapot meghaladó vezénylésekor,
 
 c) 3 hónapnál hosszabb ideig tartó illetmény nélküli szabadság megkezdésekor, valamint
 
@@ -18,5 +18,5 @@ köteles visszaszolgáltatni.
 
 (4) Az elhalálozott használatában volt egyéni védőfelszerelést be kell vonni. Hiánya esetén jegyzőkönyvet kell felvenni, amely kimondja az Országgyűlési Őrség kárviselését. Az elhalálozott munkaruházatát térítésmentesen a közeli hozzátartozó tulajdonába kell adni, ha közeli hozzátartozó nincs, akkor a munkaruházatot be kell vonni.
 
-[^101]: A 37. § (1) bekezdés nyitó szövegrésze a 60/2024. (XII. 23.) BM rendelet 74. § 13. pontja szerint módosított szöveg.
-[^102]: A 37. § (1) bekezdés b) pontja a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.
+[^102]: A 37. § (1) bekezdés nyitó szövegrésze a 60/2024. (XII. 23.) BM rendelet 74. § 13. pontja szerint módosított szöveg.
+[^103]: A 37. § (1) bekezdés b) pontja a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja, a 2/2026. (II. 19.) BM rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^133]
+1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^134]
 
 1. Ruházati alapellátási normák
 
@@ -196,4 +196,4 @@
 
 3.3. ***: a létesítménybiztosítási feladatokat – a híradó és biztonságtechnikai feladatok kivételével – ellátó igényjogosultak részére kiadandó
 
-[^133]: Az 1. melléklet a 60/2024. (XII. 23.) BM rendelet 73. § (1) bekezdésével megállapított szöveg.
+[^134]: Az 1. melléklet a 60/2024. (XII. 23.) BM rendelet 73. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-49. § (1)[^127] A hivatásos állományból nyugállományba helyezett személyek egyenruha-viselésének jogosultságáról a nyugállományba helyezési állományparancs intézkedik. A nyugállományba helyezett társasági és társasági köznapi egyenruházat viselésére jogosult.
+49. § (1)[^128] A hivatásos állományból nyugállományba helyezett személyek egyenruha-viselésének jogosultságáról a nyugállományba helyezési állományparancs intézkedik. A nyugállományba helyezett társasági és társasági köznapi egyenruházat viselésére jogosult.
 
 (2) A társasági egyenruhát az öltözködési előírások figyelembevételével kell viselni.
 
@@ -6,4 +6,4 @@
 
 (4) A hivatásos állományból nyugállományba helyezett külföldi tartózkodása folyamán az egyenruházati terméket és felszerelési cikket az Országgyűlési Őrség parancsnokának jóváhagyásával viselheti.
 
-[^127]: A 49. § (1) bekezdése a 60/2024. (XII. 23.) BM rendelet 74. § 20. pontja szerint módosított szöveg.
+[^128]: A 49. § (1) bekezdése a 60/2024. (XII. 23.) BM rendelet 74. § 20. pontja szerint módosított szöveg.

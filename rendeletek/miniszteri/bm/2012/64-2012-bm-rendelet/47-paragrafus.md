@@ -1,6 +1,6 @@
 ## 46. § A szolgálati elöljáró felelős beosztottai öltözködéséért. A szolgálati elöljáró ellenőrzi, hogy beosztottai ruházata megfelel-e az adott szolgálati követelményeknek. A szolgálati elöljáró köteles megkövetelni, hogy a ruházat mindig jó állapotú, tiszta legyen.
 
-47. §[^122] (1) A kitüntetési szalagsáv elhelyezése a bal oldalon lévő zsebtakaró felett közvetlenül, annak szélével párhuzamosan megengedett úgy, hogy a szalagsáv és a zseb középvonala egybeessen.
+47. §[^123] (1) A kitüntetési szalagsáv elhelyezése a bal oldalon lévő zsebtakaró felett közvetlenül, annak szélével párhuzamosan megengedett úgy, hogy a szalagsáv és a zseb középvonala egybeessen.
 
 (2) A köztársasági elnök, a Kormány, az Országgyűlés elnöke, továbbá a jogszabályban feljogosított más szerv által alapított kitüntetéseket – az egyes kitüntetések viselésére kiadott szabályozókban meghatározottaknak megfelelően – a bal oldalon lévő zsebtakaró felett elhelyezve kell viselni, annak középvonalába rendezve.
 
@@ -26,4 +26,4 @@ e) ha egy sorban több kitüntetés elhelyezésére kerül sor, a 2 cm távolsá
 
 (8) Az igényjogosult a hímzett névkitűző elhelyezését biztosító tépőzárral ellátott termékeken hímzett névkitűzőt visel.
 
-[^122]: A 47. § a 60/2024. (XII. 23.) BM rendelet 71. §-ával megállapított szöveg.
+[^123]: A 47. § a 60/2024. (XII. 23.) BM rendelet 71. §-ával megállapított szöveg.
