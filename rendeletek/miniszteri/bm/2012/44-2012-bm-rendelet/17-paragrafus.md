@@ -32,7 +32,7 @@ e) szolgálati jogviszonya létszámcsökkentés miatt szűnt meg,
 
 f)[^83] szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichológiai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
 
-g)[^84] más szervhez vezénylése megszűnik, vagy más okból belügyi szervhez, a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szervhez vagy az Országgyűlési Őrséghez kerül át,
+g)[^84] más szervhez vezénylése megszűnik, vagy más okból belügyi szervhez, a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szervhez, polgári nemzetbiztonsági szolgálathoz vagy az Országgyűlési Őrséghez kerül át,
 
 h)[^85] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a Hszt. 59. § (2) bekezdése szerinti munkakört nem tud felajánlani, vagy 59. § (2) bekezdése szerinti munkakört nem tud felajánlani,
 
@@ -52,7 +52,7 @@ számított, a Ptk. 6:48. § (1) bekezdése szerinti kamattal növelten köteles
 
 [^82]: A 17. § (1) bekezdés g) pontja az 1/2018. (I. 18.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^83]: A 17. § (3) bekezdés f) pontja a 20/2021. (VII. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^84]: A 17. § (3) bekezdés g) pontja a 85/2023. (XII. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^84]: A 17. § (3) bekezdés g) pontja a 85/2023. (XII. 28.) BM rendelet 3. §-ával megállapított, a 2/2026. (II. 19.) BM rendelet 8. §-a szerint módosított szöveg.
 [^85]: A 17. § (3) bekezdés h) pontja a 37/2015. (VI. 16.) BM rendelet 63. §-a, a 85/2023. (XII. 28.) BM rendelet 4. §-a szerint módosított szöveg.
 [^86]: A 17. § (3) bekezdés i) pontját az 1/2018. (I. 18.) BM rendelet 9. § (2) bekezdése iktatta be.
 [^87]: A 17. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
