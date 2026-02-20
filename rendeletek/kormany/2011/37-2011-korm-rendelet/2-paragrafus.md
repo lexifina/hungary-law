@@ -88,7 +88,7 @@ c) olyan előny, amely befolyásolja bármely más vállalkozás képességét a
 
 10c.[^30] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek az 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
 
-10d.[^31] mezőgazdasági csekély összegű ágazati korlát: az egy termékágazat részére bármely három pénzügyi évet felölelő időszakban egyedi támogatásként vagy támogatási programból nyújtott támogatási intézkedések teljes halmozott összege, amely nem haladhatja meg az 1408/2013/EU bizottsági rendelet II. mellékletében Magyarország számára meghatározott összeg 50%-át,
+10d.[^31]
 
 10e.[^32] mezőgazdasági termékek feldolgozása: a mezőgazdasági termékeken végzett minden olyan művelet, amelynél a művelet eredményeként létrejött termékek szintén mezőgazdasági termékeknek minősülnek, kivéve a gazdaságon belüli olyan tevékenységeket, amelyekkel az állati vagy növényi mezőgazdasági termékeket az első alkalommal való értékesítésre készítik elő,
 
@@ -130,7 +130,7 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 
 20.[^42] visszafizettetési kamatláb: a 794/2004/EK bizottsági rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb,
 
-21.[^43] termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat.
+21.[^43]
 
 22.[^44] uniós joggal összhangban levő támogatási intézkedés: a létező támogatás, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program vagy ad hoc támogatás,
 
@@ -163,7 +163,7 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^28]: A 2. § 10a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^29]: A 2. § 10b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
 [^30]: A 2. § 10c. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^31]: A 2. § 10d. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^31]: A 2. § 10d. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 25/2026. (II. 19.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^32]: A 2. § 10e. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^33]: A 2. § 10f. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^34]: A 2. § 10g. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
@@ -175,6 +175,6 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^40]: A 2. § 19a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be.
 [^41]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
 [^42]: A 2. § 20. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^43]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^43]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 25/2026. (II. 19.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^44]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
 [^45]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.

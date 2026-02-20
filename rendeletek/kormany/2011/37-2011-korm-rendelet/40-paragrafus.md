@@ -1,3 +1,3 @@
-40. §[^235]
+40. §[^243]
 
-[^235]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^243]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

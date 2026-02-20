@@ -1,4 +1,4 @@
-18/B. §[^166] (1) A 18/A. § (1) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
+18/B. §[^168] (1) A 18/A. § (1) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
 
 a) a bejelentéssel egyidejűleg az 5. melléklet szerinti adatlapot,
 
@@ -36,4 +36,4 @@ a) biztosítja, hogy a támogatási intézkedés (1)–(4) bekezdésben említet
 
 b) közzéteszi az 1370/2007/EU európai parlamenti és tanácsi rendelet 7. cikk (3) bekezdésében foglalt információkat a miniszter egyidejű tájékoztatása mellett.
 
-[^166]: A 18/B. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^168]: A 18/B. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 4.[^94] A tagállami hatáskörben nyújtható támogatási tervezetekkel kapcsolatos eljárás
 
-11. § (1)[^95] Ha a miniszter megállapítja, hogy a bejelentett támogatási tervezet a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, a csoportmentességi rendeletek, az 1370/2007/EK európai parlamenti és tanácsi rendelet vagy a 2012/21/EU bizottsági határozat hatálya alá tartozik és a feltételeinek megfelel, állásfoglalást ad ki, amelyet a bejelentés megtételétől számított harminc napon belül megküld a támogatást nyújtónak.
+11. § (1)[^95] Ha a miniszter megállapítja, hogy a bejelentett támogatási tervezet a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, a csoportmentességi rendeletek, az 1370/2007/EK európai parlamenti és tanácsi rendelet, az (EU) 2025/2630 bizottsági határozat vagy a 2012/21/EU bizottsági határozat hatálya alá tartozik és a feltételeinek megfelel, állásfoglalást ad ki, amelyet a bejelentés megtételétől számított harminc napon belül megküld a támogatást nyújtónak.
 
 (2)[^96] Ha a támogatási tervezet csekély összegű támogatásnak minősül, a miniszter állásfoglalásában felhívja a támogatást nyújtót, hogy – a 4. §-ban foglaltakon túl – a csekély összegű támogatásokra vonatkozó bizottsági rendeletek szerinti, a kedvezményezettet terhelő speciális nyilvántartási és adatszolgáltatási kötelezettségről is tájékoztassa a kedvezményezettet.
 
@@ -22,7 +22,7 @@ b)[^101] a Kincstár az általa működtetett kincstári monitoring rendszer ala
 
 a) a kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások vonatkozásában
 
-aa) az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében, az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdésében, a 717/2014/EU bizottsági rendelet 3. cikk (2a) bekezdésében, és az (EU) 2023/2831 bizottsági rendelet 3. cikk (2) bekezdésében meghatározott összegek külön-külön ne kerüljenek túllépésre,
+aa)[^104] az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében, az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésében, a 717/2014/EU bizottsági rendelet 3. cikk (2a) bekezdésében, és az (EU) 2023/2831 bizottsági rendelet 3. cikk (2) bekezdésében meghatározott összegek külön-külön ne kerüljenek túllépésre,
 
 ab) az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet alapján nyújtott csekély összegű támogatás a 717/2014/EU bizottsági rendelet 3. cikk (2a) bekezdésében rögzített felső határig halmozható,
 
@@ -32,12 +32,12 @@ ad) az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, 
 
 b) a mezőgazdasági, valamint a halászati csekély összegű támogatások halmozott összegei ne haladják meg a tárgyévben és az azt megelőző két naptári év tekintetében az 1408/2013/EU bizottsági rendelet II. mellékletében, illetve a 717/2014/EU bizottsági rendelet mellékletében Magyarország számára meghatározott összegeket.
 
-(9)[^104] Az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, a 717/2014/EU bizottsági rendelet és az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó agrár- és vidékfejlesztési állami támogatások esetében a támogatást nyújtó a támogatás megalapozása érdekében, annak odaítélése előtt elektronikus úton megkeresi a kifizető ügynökséget, amely az (5) bekezdés szerinti nyilvántartása alapján a támogatást nyújtó szerv számára elektronikus úton adatot szolgáltat.
+(9)[^105] Az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, a 717/2014/EU bizottsági rendelet és az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó agrár- és vidékfejlesztési állami támogatások esetében a támogatást nyújtó a támogatás megalapozása érdekében, annak odaítélése előtt elektronikus úton megkeresi a kifizető ügynökséget, amely az (5) bekezdés szerinti nyilvántartása alapján a támogatást nyújtó szerv számára elektronikus úton adatot szolgáltat.
 
-(10)[^105] Ha a támogatást nyújtó szerv a kifizető ügynökség által rendelkezésre bocsátott, (5) bekezdésben meghatározott nyilvántartási rendszer szerinti adatok alapján észleli, hogy az adott kedvezményezett vonatkozásában a (8) bekezdésben meghatározott feltételek a nyújtani tervezett agrár- és vidékfejlesztési állami támogatások vonatkozásában nem teljesülnek, úgy a támogatást nyújtó szerv megtagadja a tervezett támogatás nyújtását.
+(10)[^106] Ha a támogatást nyújtó szerv a kifizető ügynökség által rendelkezésre bocsátott, (5) bekezdésben meghatározott nyilvántartási rendszer szerinti adatok alapján észleli, hogy az adott kedvezményezett vonatkozásában a (8) bekezdésben meghatározott feltételek a nyújtani tervezett agrár- és vidékfejlesztési állami támogatások vonatkozásában nem teljesülnek, úgy a támogatást nyújtó szerv megtagadja a tervezett támogatás nyújtását.
 
 [^94]: A 4. alcím címe a 82/2024. (IV. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^95]: A 11. § (1) bekezdés a 381/2012. (XII. 19.) Korm. rendelet 12. § b) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 82/2024. (IV. 11.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^95]: A 11. § (1) bekezdése a 381/2012. (XII. 19.) Korm. rendelet 12. § b) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 82/2024. (IV. 11.) Korm. rendelet 9. § 3. pontja, a 25/2026. (II. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^96]: A 11. § (2) bekezdés a 381/2012. (XII. 19.) Korm. rendelet 12. § c) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^97]: A 11. § (3) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
 [^98]: A 11. § (5) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 639/2023. (XII. 28.) Korm. rendelet 4. §-ával megállapított, a 82/2024. (IV. 11.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
@@ -46,5 +46,6 @@ b) a mezőgazdasági, valamint a halászati csekély összegű támogatások hal
 [^101]: A 11. § (6) bekezdés b) pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 13. pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés e) pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés f) pontja, a 662/2020. (XII. 24.) Korm. rendelet 2. § b) pontja, a 82/2024. (IV. 11.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
 [^102]: A 11. § (7) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 82/2024. (IV. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^103]: A 11. § (8) bekezdése a 82/2024. (IV. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^104]: A 11. § (9) bekezdése a 82/2024. (IV. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^105]: A 11. § (10) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 554. § e) pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés e) pontja, a 49/2019. (III. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^104]: A 11. § (8) bekezdés a) pont aa) alpontja a 25/2026. (II. 19.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^105]: A 11. § (9) bekezdése a 82/2024. (IV. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^106]: A 11. § (10) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 554. § e) pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés e) pontja, a 49/2019. (III. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
