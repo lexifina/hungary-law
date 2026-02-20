@@ -10,11 +10,11 @@ kerül sor.
 
 (2) Az alkalmasságvizsgálattal érintett személy a hivatalból indított eljárás esetén az elsőfokú döntés kézhezvételét követő nyolc napon belül írásban észrevétellel élhet.
 
-(3)[^32] Az alkalmasságvizsgálattal érintett személy az elsőfokú döntés ellen írásban, a fellebbezés indokainak megjelölésével a döntés kézhezvételét követő tizenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén nyolc napon belül – fellebbezést nyújthat be az első fokon eljárt alkalmasságvizsgálatot végző személy döntése ellen, az alkalmasságvizsgálat elrendelését előkészítő személyügyi szervhez.
+(3)[^33] Az alkalmasságvizsgálattal érintett személy az elsőfokú döntés ellen írásban, a fellebbezés indokainak megjelölésével a döntés kézhezvételét követő tizenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén nyolc napon belül – fellebbezést nyújthat be az első fokon eljárt alkalmasságvizsgálatot végző személy döntése ellen, az alkalmasságvizsgálat elrendelését előkészítő személyügyi szervhez.
 
-(4)[^33] Az alkalmasságvizsgálat elrendelését előkészítő személyügyi szerv a rendelkezésre álló iratokat, valamint a (3) bekezdés szerinti esetben a fellebbezést az elsőfokú vizsgálat során keletkezett leletekkel, dokumentumokkal és az alkalmassági minősítést tartalmazó értesítéssel együtt haladéktalanul megküldi a másodfokú eljárást megállapodás alapján végző általános rendőrségi feladatok ellátására létrehozott szervnek.
+(4)[^34] Az alkalmasságvizsgálat elrendelését előkészítő személyügyi szerv a rendelkezésre álló iratokat, valamint a (3) bekezdés szerinti esetben a fellebbezést az elsőfokú vizsgálat során keletkezett leletekkel, dokumentumokkal és az alkalmassági minősítést tartalmazó értesítéssel együtt haladéktalanul megküldi a másodfokú eljárást megállapodás alapján végző általános rendőrségi feladatok ellátására létrehozott szervnek.
 
 (5) A fellebbezés benyújtását követő vagy hivatalból indított másodfokú eljárás esetén az elsőfokú döntés meghozatalát követő negyvenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén harminc napon belül – a másodfokon eljáró személy a minősítésről dönt.
 
-[^32]: A 84. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 106. §-ával megállapított szöveg.
-[^33]: A 84. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 106. §-ával megállapított szöveg.
+[^33]: A 84. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 106. §-ával megállapított szöveg.
+[^34]: A 84. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 106. §-ával megállapított szöveg.

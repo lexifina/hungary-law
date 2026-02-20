@@ -18,7 +18,7 @@
 
 8. felülvizsgáló egység: a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet [a továbbiakban: 2/2021. (I. 14.) BM rendelet] szerint meghatározott szervezeti elem,
 
-9.[^1] felülvizsgáló egység vezető főorvosa: a 2/2021. (I. 14.) BM rendeletben meghatározottak szerint a felülvizsgáló egység vezetője,
+9.[^2] felülvizsgáló egység vezető főorvosa: a 2/2021. (I. 14.) BM rendeletben meghatározottak szerint a felülvizsgáló egység vezetője,
 
 10. felülvizsgálati eljárás: az Országgyűlési Őrség hivatásos állományának egészségi alkalmasságvizsgálata során másodfokon született „Alkalmatlan” minősítés esetén az egészségi alkalmasság megítélésére irányuló eljárás,
 
@@ -78,4 +78,4 @@ kijelölt személy,
 
 30. támogató szerepkör: az Országgyűlési Őrségnek az alapfeladatába nem tartozó adminisztratív, valamint az Országgyűlési Őrség operatív működését elősegítő feladatok ellátására rendszeresített szolgálati beosztás, amelyet hivatali munkarendben, nagyrészt belső térben, képernyő előtt, ülőmunkával kell ellátni, és amely jellemzően szellemi munka, amelyhez kapcsolódó felelősség döntési kényszerrel, figyelmi terheléssel jár.
 
-[^1]: [A 2. § 9. pontjában a 60/2024. (XII. 23.) BM rendelet 109. § 1. pontja által elrendelt módosítás, amely szerint a „felülvizsgálati egység vezetője” szövegrész helyébe a „rendvédelmi tisztifőorvos” szöveg lép, nem vezethető át.]
+[^2]: [A 2. § 9. pontjában a 60/2024. (XII. 23.) BM rendelet 109. § 1. pontja által elrendelt módosítás, amely szerint a „felülvizsgálati egység vezetője” szövegrész helyébe a „rendvédelmi tisztifőorvos” szöveg lép, nem vezethető át.]

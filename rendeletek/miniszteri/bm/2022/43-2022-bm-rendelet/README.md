@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-43-20-0
 | 2025-01-01 | 2022-43-20-0A.6 | 60/2024. (XII. 23.) BM rendelet |
 | 2025-09-01 | 2022-43-20-0A.8 | 35/2025. (VIII. 28.) BM rendelet |
 | 2026-01-01 | 2022-43-20-0A.7 | 60/2024. (XII. 23.) BM rendelet |
+| 2026-02-20 | 2022-43-20-0A.9 | 2026. évi XLVI. törvény |

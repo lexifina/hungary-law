@@ -1,3 +1,3 @@
-121. §[^55]
+121. §[^56]
 
-[^55]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

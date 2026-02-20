@@ -28,6 +28,6 @@ g) a képernyős eszköz használatára vonatkozó információt,
 
 h) az alkalmasságvizsgálat elrendelésének tényét, valamint
 
-i)[^6] az elrendelő Országgyűlési Őrség parancsnokának nevét, bélyegzőjének lenyomatát és aláírását.
+i)[^7] az elrendelő Országgyűlési Őrség parancsnokának nevét, bélyegzőjének lenyomatát és aláírását.
 
-[^6]: A 18. § (3) bekezdés i) pontja a 60/2024. (XII. 23.) BM rendelet 109. § 5. pontja szerint módosított szöveg.
+[^7]: A 18. § (3) bekezdés i) pontja a 60/2024. (XII. 23.) BM rendelet 109. § 5. pontja szerint módosított szöveg.

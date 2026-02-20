@@ -1,3 +1,3 @@
-132. §[^66]
+132. §[^67]
 
-[^66]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

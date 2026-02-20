@@ -18,6 +18,6 @@ e) lőfegyver használatára került sor, illetve a hivatásos állomány tagja 
 
 (4) A gondozáson való megjelenéseket dokumentálni kell. A feljegyzésben fel kell tüntetni a gondozásba vétel szakmai indokait, a gondozott megjelenésének időpontját, a főbb problémaköröket és megállapodásokat, a gondozás hatására bekövetkezett változásokat.
 
-(5)[^39] Ha a pszichológiai gondozásra a (2) bekezdés d) pontja alapján került sor, a gondozási folyamat lezárását követően a rendvédelmi alapellátó pszichológus feljegyzést készít, mellyel a gondozás befejezésének tényéről tájékoztatja a rendvédelmi alapellátó orvost.
+(5)[^40] Ha a pszichológiai gondozásra a (2) bekezdés d) pontja alapján került sor, a gondozási folyamat lezárását követően a rendvédelmi alapellátó pszichológus feljegyzést készít, mellyel a gondozás befejezésének tényéről tájékoztatja a rendvédelmi alapellátó orvost.
 
-[^39]: A 98. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 108. §-ával megállapított szöveg.
+[^40]: A 98. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 108. §-ával megállapított szöveg.
