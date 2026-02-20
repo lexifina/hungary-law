@@ -112,7 +112,7 @@
 
 | év, hó, nap | óra | perc |
 
-## 13. számú függelék[^86]
+## 13. számú függelék[^87]
 
 ## IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTÉRIUM
 
@@ -464,7 +464,7 @@
 
 ## A nyilvántartó több éven keresztül is felhasználható, ezért az előző évi eredményeket év végén le kell zárni. A nyilvántartót kék, ellenőrző és ismétlő foglalkozásokat piros tintával kell vezetni.
 
-## 15/m) számú függelék[^87]
+## 15/m) számú függelék[^88]
 
 ## AZ ŐRSZOLGÁLATI OKMÁNYOK ÉS NYILVÁNTARTÁSOK LEÍRÁSA
 
@@ -586,13 +586,13 @@ Függelék: statisztika
 
 aláírás
 
-17. számú függelék[^88]
+17. számú függelék[^89]
 
 A FEGYVERES BIZTONSÁGI ŐR SZOLGÁLATI IGAZOLVÁNYA
 
 | A fegyveres biztonsági őr igazolványának felépítése, megjelenése: Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, zöld színű címsorban sötétzöld felirattal ellátott, holografikus biztonsági elemet tartalmazó, többrétegű műanyag kártyaigazolvány. Az igazolvány előoldalának adattartalma: – FBŐ címer, – a „FEGYVERES BIZTONSÁGI ŐRSÉG” felirat, – arckép, – név, beosztás, – a „SZOLGÁLATBAN FEGYVERVISELÉSRE ÉS INTÉZKEDÉSRE JOGOSULT” felirat. Az igazolvány hátoldalának adattartalma: – a „VISSZAVONÁSIG ÉRVÉNYES!” felirat, – „MUNKÁLTATÓ”, „KÓD”, „P.H.” felirat, aláírás, – „SORSZÁM” felirat (alatta az igazolvány sorszáma), – „RENDŐRHATÓSÁG”, „KÓD”, „P.H” felirat, aláírás, – a „KITÖLTÉS DÁTUMA” felirat. |
 
-17/a) függelék[^89]
+17/a) függelék[^90]
 
 18. számú függelék
 
@@ -606,7 +606,7 @@ A pajzs alján aranyszínű téglalap, mely szalagmintában folytatódik. A 22 X
 
 A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
 
-[^86]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
-[^87]: A melléklet 15/m) számú függeléke az 59/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
-[^88]: A melléklet 17. számú függeléke az 50/2012. (X. 11.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^89]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
+[^87]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^88]: A melléklet 15/m) számú függeléke az 59/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^89]: A melléklet 17. számú függeléke az 50/2012. (X. 11.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^90]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
