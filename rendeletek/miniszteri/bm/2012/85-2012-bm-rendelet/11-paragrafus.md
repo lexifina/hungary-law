@@ -1,8 +1,5 @@
-## 10. §[^27] A hivatásos állomány más rendvédelmi feladatokat ellátó szervtől áthelyezett tagja jogosult az áthelyezést megelőzően a korábbi rendvédelmi feladatokat ellátó szervet irányító miniszter által adományozott cím viselésére – a cím előtt álló, a korábbi rendvédelmi feladatokat ellátó szervre utaló megjelölés kivételével –, valamint az azzal együtt járó címpótlékra.
-
-11. §[^28] (1) Az éjszakai szolgálatteljesítésről teljesített óránként nyilvántartást kell vezetni és azt a tárgyhónapot követő hónap 5-éig összesítve a gazdasági szerv részére meg kell küldeni.
+11. §[^31] (1) Az éjszakai szolgálatteljesítésről teljesített óránként nyilvántartást kell vezetni és azt a tárgyhónapot követő hónap 5-éig összesítve a gazdasági szerv részére meg kell küldeni.
 
 (2) Az éjszakai pótlékot a tárgyhónapot követő hónapra esedékes illetménnyel együtt kell folyósítani.
 
-[^27]: A 10. § a 35/2015. (VI. 16.) BM rendelet 8. § c) pontja szerint módosított szöveg.
-[^28]: A 11. § a 35/2015. (VI. 16.) BM rendelet 3. §-ával megállapított szöveg.
+[^31]: A 11. § a 35/2015. (VI. 16.) BM rendelet 3. §-ával megállapított szöveg.

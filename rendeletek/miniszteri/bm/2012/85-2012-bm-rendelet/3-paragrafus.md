@@ -1,4 +1,4 @@
-3. §[^4] (1) Ha a hivatásos állomány tagja a Hszt. 51. § (2) bekezdése szerinti szervnél vezényléssel lát el szolgálatot, a vezénylésről szóló munkáltatói intézkedésben rendelkezni kell arról, hogy a vezényeltet megillető illetmény
+3. §[^6] (1) Ha a hivatásos állomány tagja a Hszt. 51. § (2) bekezdése szerinti szervnél vezényléssel lát el szolgálatot, a vezénylésről szóló munkáltatói intézkedésben rendelkezni kell arról, hogy a vezényeltet megillető illetmény
 
 a) teljes egészében a fogadó szerv költségvetését terheli,
 
@@ -12,4 +12,4 @@ a) a vezénylés a vezénylés helye szerinti szerv rendszeresített létszámá
 
 b) az illetmény fedezetét külső forrásból biztosítják.
 
-[^4]: A 3. § a 34/2024. (VIII. 8.) BM rendelet 15. §-ával megállapított szöveg.
+[^6]: A 3. § a 34/2024. (VIII. 8.) BM rendelet 15. §-ával megállapított szöveg.

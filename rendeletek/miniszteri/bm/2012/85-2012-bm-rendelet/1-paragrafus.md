@@ -1,4 +1,4 @@
-## 1. [^1] Az illetmény és egyéb juttatások megállapítása, folyósítása
+## 1. [^2] Az illetmény és egyéb juttatások megállapítása, folyósítása
 
 1. § (1) Az Országgyűlési Őrség hivatásos állománya tagjának (a továbbiakban: hivatásos állomány tagja) illetményét hivatásos állományba vételkor vagy a szolgálati beosztás változásakor, továbbá fizetési fokozatban előresorolásakor, szolgálati idő pótlékra jogosultság változásakor, rendszeres pótlékra jogosultság keletkezésekor vagy megszűnésekor, valamint a rendvédelmi illetményalap változásakor, az esedékesség napjával állományparancsban vagy határozatban (a továbbiakban együtt: munkáltatói intézkedés) meg kell állapítani.
 
@@ -12,10 +12,10 @@
 
 (6) Ha a hivatásos állomány tagjának megállapított illetménye nem éri el a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 154. § (3) bekezdés szerinti garantált bérminimum összegét, azt a jogszabályban meghatározott mértékig ki kell egészíteni. A kiegészítést külön illetményelemként kell a munkáltatói intézkedésben feltüntetni és a kerekítést csak ezt követően lehet elvégezni.
 
-(7)[^2]
+(7)[^3]
 
-(8)[^3]
+(8)[^4]
 
-[^1]: A 2. alcím (1–7. §) a 35/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (7) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
-[^3]: Az 1. § (8) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. alcím (1–7. §) a 35/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (7) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (8) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
