@@ -4,4 +4,6 @@
 
 | Határidő: | azonnal |
 
-2. A Kormány visszavonja a Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2023. évi CEF2 harmadik körös pályázati kiírása keretében támogatott CEF projektek hazai társfinanszírozásának biztosításáról szóló 1321/2024. (X. 24.) Korm. határozat 1. mellékletében foglalt táblázat 3. sorát.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
