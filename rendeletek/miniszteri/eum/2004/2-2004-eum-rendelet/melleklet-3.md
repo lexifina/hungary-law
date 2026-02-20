@@ -36,7 +36,7 @@
 
 | E1 | egyéb szolgáltatás | bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátás |  |
 
-| E2 | egyéb szolgáltatás | fegyveres és rendvédelmi szervek egészségügyi ellátása (dolgozók és fogvatartottak alapellátása) |  |
+| E2 | egyéb szolgáltatás | fegyveres és rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok egészségügyi ellátása (dolgozók és fogvatartottak alapellátása) |  |
 
 | E3 | egyéb szolgáltatás | önálló „megelőző egészségügyi ellátások” |  |
 
