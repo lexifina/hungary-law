@@ -20,6 +20,6 @@ c) a település veszélyeztető tényezőiről, a felkészülési-megelőzési 
 
 (5) Azokon a településeken, ahol a nemzeti-etnikai kisebbség lélekszáma az összlakosság 5%-át eléri, vagy amely település idegenforgalmi központ, az aktív lakosságtájékoztatási formában kiadott, vagy megjelentetett tájékoztató kiadvány riasztási jelzéseket és követendő magatartási szabályokat tartalmazó részét a kisebbség nyelvén és az idegenforgalomra jellemző világnyelven is meg kell jelentetni.
 
-(6)[^56] A hátrányos helyzetűek, fogyatékossággal élők lakosságfelkészítését a számukra alkalmas segédletek kidolgozásával és kiadásával kell biztosítani.
+(6)[^57] A hátrányos helyzetűek, fogyatékossággal élők lakosságfelkészítését a számukra alkalmas segédletek kidolgozásával és kiadásával kell biztosítani.
 
-[^56]: A 69. § (6) bekezdése a 31/2025. (VII. 31.) BM rendelet 6. §-a szerint módosított szöveg.
+[^57]: A 69. § (6) bekezdése a 31/2025. (VII. 31.) BM rendelet 6. §-a szerint módosított szöveg.

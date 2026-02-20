@@ -6,7 +6,7 @@
 
 (3) A felkészítés tartalma különösen:
 
-a) a közigazgatási- és rendvédelmi szervek, valamint a társadalmi szervezetek területi szintű együttes tevékenysége,
+a)[^47] a közigazgatási- és rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint a társadalmi szervezetek területi szintű együttes tevékenysége,
 
 b) a lakosság és a védekezésben érintett szervezetek riasztása,
 
@@ -21,3 +21,4 @@ f) a távolsági védelem ismeretei.
 [^44]: A 29. alcím címe a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja szerint módosított szöveg.
 [^45]: Az 57. § (1) bekezdése a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja szerint módosított szöveg.
 [^46]: Az 57. § (2) bekezdése a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja szerint módosított szöveg.
+[^47]: Az 57. § (3) bekezdés a) pontja a 2/2026. (II. 19.) BM rendelet 7. §-a szerint módosított szöveg.
