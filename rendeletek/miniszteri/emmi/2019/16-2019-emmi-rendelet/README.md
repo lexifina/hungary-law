@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-16-20-5
 | 2023-01-01 | 2019-16-20-5H.6 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-08-11 | 2019-16-20-5H.7 | 28/2023. (VIII. 10.) BM rendelet |
 | 2025-01-01 | 2019-16-20-5H.8 | 58/2024. (XII. 23.) BM rendelet |
+| 2026-02-20 | 2019-16-20-5H.9 | 2/2026. (II. 19.) BM rendelet |
