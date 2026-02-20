@@ -42,7 +42,7 @@ A vármegyei (fővárosi) rendőr-főkapitányságok hatáskörébe tartozó bű
 
 3. Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
 
-3.1.[^32] Btk. 176. § (2)–(4) bekezdés – Bűnszövetségben, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva, vagy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, jelentős mennyiségű kábítószerre elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+3.1.[^32] Btk. 176. § (2)–(4) bekezdés – Bűnszövetségben, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva, vagy a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, jelentős mennyiségű kábítószerre elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 3.2. Btk. 177. § (1) bekezdés b) pont, valamint (2)–(3) bekezdés – Tizennyolcadik életévet betöltött személy által tizennyolcadik életévét be nem töltött személy felhasználásával elkövetett kábítószer forgalomba hozatala vagy azzal való kereskedés, jelentős mennyiségű kábítószerre elkövetett, bűnszövetségben elkövetett, hivatalos vagy közfeladatot ellátó személyként e minőséget felhasználva elkövetett kábítószer-kereskedelem bűntette; illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatatásával megvalósított kábítószer-kereskedelem bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -362,7 +362,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény.
 [^29]: A hatálybalépés időpontja 2021. augusztus 24.
 [^30]: Az 1. melléklet címe az 50/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
 [^31]: Az 1. melléklet 1. pont 1.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^32]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja, a 2/2026. (II. 19.) BM rendelet 19. § a) pontja szerint módosított szöveg.
 [^33]: Az 1. melléklet 3. pont 3.9. alpontja a 32/2019. (VII. 31.) BM rendelet 3. §-ával megállapított szöveg.
 [^34]: Az 1. melléklet 3. pont 3.10. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
 [^35]: Az 1. melléklet 3. pont 3.11. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
