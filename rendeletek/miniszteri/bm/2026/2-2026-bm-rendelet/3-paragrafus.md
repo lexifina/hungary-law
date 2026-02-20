@@ -1,0 +1,3 @@
+## 2. A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet módosítása
+
+3. § Hatályát veszti a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 2. § (2) bekezdés g) pontjában az „a polgári nemzetbiztonsági szolgálatok kivételével” szövegrész.

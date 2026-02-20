@@ -1,0 +1,1 @@
+17. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 55. §-ában a „más rendvédelmi feladatokat ellátó szervhez kerül áthelyezésre” szövegrész helyébe a „más rendvédelmi feladatokat ellátó szervhez vagy polgári nemzetbiztonsági szolgálathoz kerül áthelyezésre” szöveg lép.
