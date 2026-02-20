@@ -1,3 +1,3 @@
-3/B. §[^32] A beruházás tekintetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdését.
+3/B. §[^39] A beruházás tekintetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdését.
 
-[^32]: A 3/B. §-t a 42/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be, szövege a 305/2024. (X. 24.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^39]: A 3/B. §-t a 42/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be, szövege a 305/2024. (X. 24.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

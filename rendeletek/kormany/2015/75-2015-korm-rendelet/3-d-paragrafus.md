@@ -1,4 +1,4 @@
-3/D. §[^34] A 2. mellékletben szereplő helyrajzi számú földrészleteken, valamint az ezen földrészletekből a telekalakítási eljárások végleges befejezését követően kialakított földrészleteken az alábbi tevékenységek nem végezhetők:
+3/D. §[^41] A 2. mellékletben szereplő helyrajzi számú földrészleteken, valamint az ezen földrészletekből a telekalakítási eljárások végleges befejezését követően kialakított földrészleteken az alábbi tevékenységek nem végezhetők:
 
 a) szénhidrogének előállítása, beleértve a szerves oldószerek előállítását,
 
@@ -18,4 +18,4 @@ h) elektrografit termelése égetéssel vagy grafitizációval,
 
 i) üveg- és üvegszálgyártás, kerámiatermék-gyártás.
 
-[^34]: A 3/D. §-t a 283/2025. (VIII. 25.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A 3/D. §-t a 283/2025. (VIII. 25.) Korm. rendelet 2. §-a iktatta be.

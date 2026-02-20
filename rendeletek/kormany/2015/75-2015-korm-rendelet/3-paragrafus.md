@@ -1,8 +1,8 @@
-3. §[^4] (1)[^5] A beruházással érintett, 2. mellékletben felsorolt földrészletekből telekalakítási eljárással kialakított, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0495/249, 0495/250, 0495/267 és 0503/42 helyrajzi számú ingatlanok, a 2. melléklet 1. pontjában felsorolt, Debrecen megyei jogú város belterületén fekvő, az ingatlan-nyilvántartás szerinti 4562/41 helyrajzi számú ingatlan, valamint a 3., 4., 5., 6. és 7. mellékletben felsorolt, az egységes országos vetületi rendszer (a továbbiakban: EOV) szerinti koordináták által határolt területek, továbbá a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0493/96 helyrajzi számú ingatlan esetében a beépítés szabályait és egyedi építési követelményeit a (2)–(12a) és (14)–(25) bekezdés állapítja meg, azzal, hogy
+3. §[^4] (1)[^5] A beruházással érintett, 2. mellékletben felsorolt földrészletekből telekalakítási eljárással kialakított, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31, 0495/249, 0495/250, 0495/267 és 0503/42 helyrajzi számú ingatlanok, a 2. melléklet 1. pontjában felsorolt, Debrecen megyei jogú város belterületén fekvő, az ingatlan-nyilvántartás szerinti 4562/41 helyrajzi számú ingatlan, valamint a 3–8. mellékletben felsorolt, az egységes országos vetületi rendszer (a továbbiakban: EOV) szerinti koordináták által határolt területek, továbbá a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0493/96 helyrajzi számú ingatlan esetében a beépítés szabályait és egyedi építési követelményeit a (2)–(12a) és (14)–(27) bekezdés állapítja meg, azzal, hogy
 
-a) a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK), illetve a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2)–(12a) és a (14)–(25) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a) a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK), illetve a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2)–(12a) és a (14)–(27) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(12a) és (14)–(25) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(12a) és (14)–(27) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben felsorolt földrészletekből telekalakítási eljárással kialakított, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0495/249 helyrajzi számú földrészleten a közlekedéshez és közműelhelyezéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, azzal a sajátos beépítési szabály és egyedi építési követelmény alkalmazásával, miszerint a kialakítható telek legkisebb területe 3000 m2.
 
@@ -60,7 +60,7 @@ f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,
 
 g)[^13] a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete, illetve a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 50%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése, illetve a TÉKA 59. § (4) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, és autóbusz-várakozóhelyet nem kell biztosítani.
 
-h)[^14] a telken és az azon megvalósuló építményeken megújuló villamos energiát termelő erőmű és megújuló energiaforrás műtárgyai – kivéve szélerőmű, szélerőműpark – teljesítménykorlátozás nélkül, területnagyságtól függetlenül elhelyezhetőek, azzal, hogy az e) pont szerinti feltétel maradéktalanul betartásra kerül, és az ingatlanra vonatkozó fásítási kötelezettség teljesítése és az igénybe vett zöldfelületek növényzeti borítottsága kialakítása esetén, azok zöldfelületbe való beszámíthatósága 100%,
+h)[^14] a telken és az azon megvalósuló építményeken megújuló villamos energiát termelő erőmű és megújuló energiaforrás műtárgyai – kivéve szélerőmű, szélerőműpark – teljesítménykorlátozás nélkül, területnagyságtól függetlenül elhelyezhetőek, azzal, hogy az e) pont szerinti feltétel teljesíthető oly módon, hogy a megújuló energiaforrás műtárgyai alatt teljes értékű zöldfelület kerül kialakításra, mely esetben az 100%-ban beszámítható a telek zöldfelületébe, továbbá az építési telkek beépítettségével, beépítettségének növelésével egyidejűleg a telepített lombos fák számának el kell érnie az építési övezeti előírások szerint számított zöldfelület minden 150 m2-e után legalább 1 db-ot,
 
 i)[^15] ha a hatályos területrendezési tervek az a)–h) pont szerinti sajátos beépítési szabályok, egyedi építési követelmények és építési övezetek alkalmazása tekintetében ellentétes vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a területrendezési tervet nem lehet alkalmazni.
 
@@ -82,7 +82,7 @@ g)[^16] a parkolóhelyek kialakításánál az építmények és önálló rende
 
 h)[^17] az ivóvízellátás, a csapadékvíz-elvezetés és -kezelés, az elektromos áramellátás és gázellátás biztosítása a közüzemi közműhálózat kialakításáig és üzembe helyezéséig a vonatkozó hatósági előírások megtartásával egyedi módon, műszakilag megfelelő helyettesítő berendezéssel pótolható, a szennyvíz időszakos tárolása egyedi, zárt szennyvíztároló műtárggyal is történhet.
 
-(7) A 3. melléklet 1. és 2. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területekre vonatkozóan, valamint a 2. mellékletben felsorolt földrészletekből telekalakítási eljárással kialakított, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0495/250 és 0495/267 helyrajzi számú földrészletekre vonatkozóan alkalmazandó sajátos beépítési szabályok és egyedi építési követelmények szerint előírt zöldfelület legkisebb mértékének kialakítása és a hatályos településrendezési tervben meghatározott fásítási kötelezettség megvalósítása az építési telkek tervezett teljes beépítettségéhez viszonyítottan, azzal arányosan és ütemezetten is megvalósítható az építési beruházással érintett területeken telekalakítással kialakuló vagy már kialakított egyes építési telkeken belül.
+(7)[^18] A 3. melléklet 1. és 2. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területekre vonatkozóan, valamint a 2. mellékletben felsorolt földrészletekből telekalakítási eljárással kialakított, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31, 0495/250 és 0495/267 helyrajzi számú földrészletekre vonatkozóan alkalmazandó sajátos beépítési szabályok és egyedi építési követelmények szerint előírt zöldfelület legkisebb mértékének kialakítása és a hatályos településrendezési tervben meghatározott fásítási kötelezettség megvalósítása az építési telkek tervezett teljes beépítettségéhez viszonyítottan, azzal arányosan és ütemezetten is megvalósítható az építési beruházással érintett területeken telekalakítással kialakuló vagy már kialakított egyes építési telkeken belül.
 
 (8) A 3. melléklet 3. és 4. pontjában, valamint a 4. melléklet 4. pontjában foglalt táblázatokban felsorolt EOV koordináták által határolt területeken közműelhelyezéshez kapcsolódó építmények, közműpótló műtárgyak, valamint ezek kiszolgáló építményei helyezhetőek el. Az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetközi Repülőtér üzemeltetése során alkalmazandó mindenkori akadálykorlátozási felületrendszerben foglalt maximális magassági értéket.
 
@@ -114,25 +114,43 @@ e) a zöldfelület legkisebb mértéke 20%.
 
 (12) A 4. melléklet 3. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területek közlekedési és közműelhelyezésre szolgáló területnek minősülnek, amelyeken a közlekedéshez és közműelhelyezéshez kapcsolódó építmények, valamint ezek kiszolgáló építményei helyezhetők el. Az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetközi Repülőtér üzemeltetése során alkalmazandó mindenkori akadálykorlátozási felületrendszerben foglalt maximális magassági értéket.
 
-(12a)[^18] Az 5. mellékletben felsorolt EOV koordináták által határolt területek vízgazdálkodási területnek minősülnek, amelyeken vonalas közmű- és közlekedési létesítmények, árvízvédelmi, vízgazdálkodási, vízkárelhárítási műtárgyak, építmények, közhasználatú, szabadidő-eltöltést, pihenést, testedzést szolgáló építmények és természetvédelemmel kapcsolatos építmények helyezhetők el. A területeken épület nem helyezhető el, a területeket – közműudvarok által igénybe vett területek kivételével – közhasználat elől elzárni, lekeríteni nem lehet.
+(12a)[^19] Az 5. mellékletben felsorolt EOV koordináták által határolt területek vízgazdálkodási területnek minősülnek, amelyeken vonalas közmű- és közlekedési létesítmények, árvízvédelmi, vízgazdálkodási, vízkárelhárítási műtárgyak, építmények, közhasználatú, szabadidő-eltöltést, pihenést, testedzést szolgáló építmények és természetvédelemmel kapcsolatos építmények helyezhetők el. A területeken épület nem helyezhető el, a területeket – közműudvarok által igénybe vett területek kivételével – közhasználat elől elzárni, lekeríteni nem lehet.
 
 (13) A beruházással érintett, 3. és 4. mellékletben felsorolt EOV koordináták által határolt területek esetében az építési engedély iránti kérelemhez mellékelni kell az EOV koordináták által lehatárolt területről készített kitűzési vázrajzot, melyről leolvasható az EOV koordináták által lehatárolt földrészlet területi nagysága és a földrészlet határára vonatkozóan a határvonalak hossza és elhelyezkedése. Az építésügyi hatóság az építési engedélyezési eljárás során a telek beépítési követelményeit az EOV koordináták által lehatárolt terület tekintetében érvényesíti, ellenőrzi.
 
 (14) A Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0493/96 helyrajzi számú ingatlanon munkásszállás rendeltetést tartalmazó épület is elhelyezhető.
 
-(15)[^19] A Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0495/250, 0495/267 és 0237/405 helyrajzi számú ingatlanok területén az ott megvalósuló beruházások során létrejövő épületek (a továbbiakban: fő rendeltetés szerinti épületek) használatbavételéig, továbbá a 3. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen létrejövő fő rendeltetés szerinti épületek használatbavételéig az ezek kivitelezését kiszolgáló, Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0503/42 helyrajzi számú ingatlan területén a kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, de a TÉKA 127. §-ában foglaltaknak megfelelő, szállás jellegű épület (a továbbiakban: ideiglenes szállás jellegű épület) létesítése megengedett, azzal, hogy ahhoz nem kötelező személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell az ideiglenes szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról, továbbá
+(15)[^20] A kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, a TÉKA 127. §-ában foglaltaknak megfelelő szállás jellegű épület (a továbbiakban: ideiglenes szállás jellegű épület) létesíthető:
 
-a) a fő rendeltetés szerinti épületek használatbavételére irányuló kérelem benyújtásától számított 90 napon belül az ingatlanokon létesített valamennyi ideiglenes szállás jellegű épületet el kell bontani, és
+a) a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31, 0495/250, 0495/267 és 0237/405 helyrajzi számú ingatlanok területén az ott megvalósuló beruházások,
 
-b) ha az építtetők a fő rendeltetés szerinti épületek kapacitásbővítésére jogosító véglegessé vált építési engedélyeivel is rendelkeznek, akkor az ideiglenes szállás jellegű épület elbontására irányuló, a) pont szerinti határidőt a későbbi időpontban benyújtott használatbavételi engedély iránti kérelemtől kell számítani.
+b) a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0503/42 ingatlan területén a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31, 0495/250, 0495/267 és 0237/405 helyrajzi számú ingatlanokon, valamint a 3. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen megvalósuló beruházások,
 
-(16)[^20] A 6. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen
+c) a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31 helyrajzi számú ingatlan területén
+
+ca) a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0495/267 helyrajzi számú ingatlan területén megvalósuló beruházás,
+
+cb) a 3. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen megvalósuló beruházás
+
+fő rendeltetés szerinti épületeinek használatbavételéig.
+
+(15a)[^21] Az ideiglenes szállás jellegű épületek létesítése során
+
+a) személygépkocsi-várakozóhelyeket és kerékpártárolót nem kötelező biztosítani,
+
+b) gondoskodni kell az ideiglenes szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.
+
+(15b)[^22] Az ideiglenes szállás jellegű épületet azon beruházás fő rendeltetés szerinti épületeinek használatbavételére irányuló kérelem benyújtásától számított 90 napon belül kell elbontani, amelynek ideiglenes szállás létesítésére vonatkozó igényét biztosítja.
+
+(15c)[^23] Amennyiben a Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31, 0495/250, 0495/267 és 0237/405 helyrajzi számú ingatlanokon, valamint a 3. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen megvalósuló beruházások kapacitásbővítésre jogosító, további fő rendeltetés szerinti épületek megvalósítása érdekében véglegessé vált építési engedéllyel rendelkeznek, akkor az ideiglenes szállás jellegű épületek elbontására irányuló, (15b) bekezdés szerinti határidőt ezen épületek használatbavételére irányuló kérelem előterjesztésétől kell számítani.
+
+(16)[^24] A 6. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen
 
 a) a kialakítható telek legkisebb területe 20 000 m2,
 
 b) a fő rendeltetések homlokzati tájolását az országos főúthálózat elemei felé szükséges kialakítani.
 
-(17)[^21] A 6. melléklet 2. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület ipari tevékenységhez köthető általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(17)[^25] A 6. melléklet 2. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület ipari tevékenységhez köthető általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telek beépítési módja szabadon álló,
 
@@ -146,7 +164,7 @@ e) a zöldfelület legkisebb mértéke 20%,
 
 f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
 
-(18)[^22] A 6. melléklet 3. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület ipari tevékenységhez köthető általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(18)[^26] A 6. melléklet 3. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület ipari tevékenységhez köthető általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telek beépítési módja szabadon álló,
 
@@ -160,11 +178,11 @@ e) a zöldfelület legkisebb mértéke 20%,
 
 f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
 
-(19)[^23] A 6. melléklet 3. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen belüli telekalakítás megengedett, azzal, hogy a telekalakítással érintett helyrajzi számú ingatlanok telekalakítást követően visszamaradó telekrészei esetében a helyi építési szabályzat szerinti övezetekhez és építési övezethez tartozó kialakítható telek legkisebb területére vonatkozó értéket nem kell figyelembe venni.
+(19)[^27] A 6. melléklet 3. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen belüli telekalakítás megengedett, azzal, hogy a telekalakítással érintett helyrajzi számú ingatlanok telekalakítást követően visszamaradó telekrészei esetében a helyi építési szabályzat szerinti övezetekhez és építési övezethez tartozó kialakítható telek legkisebb területére vonatkozó értéket nem kell figyelembe venni.
 
-(20)[^24] A 6. melléklet 4. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen közlekedéshez és közműelhelyezéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, azzal a sajátos beépítési szabály és egyedi építési követelmény alkalmazásával, miszerint az EOV koordináták által határolt területen belül kialakítható telek legkisebb területe 600 m2.
+(20)[^28] A 6. melléklet 4. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területen közlekedéshez és közműelhelyezéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, azzal a sajátos beépítési szabály és egyedi építési követelmény alkalmazásával, miszerint az EOV koordináták által határolt területen belül kialakítható telek legkisebb területe 600 m2.
 
-(21)[^25] A 6. melléklet 5. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, igazgatási épületek, logisztikai és irodaépületek, közlekedéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(21)[^29] A 6. melléklet 5. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület általános gazdasági terület, amelyen ipari tevékenységhez kapcsolódó épületek, igazgatási épületek, logisztikai és irodaépületek, közlekedéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs, kereskedelmi és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telek beépítési módja szabadon álló,
 
@@ -178,9 +196,9 @@ e) a zöldfelület legkisebb mértéke 20%,
 
 f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
 
-(22)[^26] A 6. melléklet 6. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület tekintetében a (21) bekezdésben foglalt sajátos beépítési szabályokat és egyedi építési követelményeket kell alkalmazni, azzal, hogy a területen közlekedéssel kapcsolatos és közmű építmények kivételével egyéb építmény nem helyezhető el.
+(22)[^30] A 6. melléklet 6. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület tekintetében a (21) bekezdésben foglalt sajátos beépítési szabályokat és egyedi építési követelményeket kell alkalmazni, azzal, hogy a területen közlekedéssel kapcsolatos és közmű építmények kivételével egyéb építmény nem helyezhető el.
 
-(23)[^27] A 6. melléklet 7. és 8. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területeken
+(23)[^31] A 6. melléklet 7. és 8. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területeken
 
 a) közlekedéshez és közműelhelyezéshez kapcsolódó építmények, közművek és közműpótló műtárgyak, hírközlési rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el,
 
@@ -188,7 +206,7 @@ b) az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetköz
 
 c) belüli telekalakítás megengedett, azzal, hogy a telekalakítással érintett helyrajzi számú ingatlanok telekalakítást követően visszamaradó telekrészei esetében a kialakítható telek legkisebb területe 3000 m2.
 
-(24)[^28] A 6. melléklet 9. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület a települési és ipari hulladékok gyűjtését, tárolását, kezelését, hasznosítását szolgáló és e tevékenységekhez kötődő, rendeltetésszerű használatot és működést elősegítő, azt kiegészítő rendeltetéseket tartalmazó építmények, az ezekhez kötődő energiaszolgáltatási tevékenységgel közvetlenül összefüggő rendeltetéseket tartalmazó építmények, továbbá városgazdálkodási és üzemeltetési rendeltetést tartalmazó építmények elhelyezésére szolgáló terület, melyen a fenti rendeltetések szerinti építmények, valamint a megújuló energiaforrások hasznosításának sajátos építményfajtái és e funkcióhoz és rendeltetéshez közvetlenül kapcsolódó, azt kiszolgáló és attól elválaszthatatlan rendeltetések építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(24)[^32] A 6. melléklet 9. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület a települési és ipari hulladékok gyűjtését, tárolását, kezelését, hasznosítását szolgáló és e tevékenységekhez kötődő, rendeltetésszerű használatot és működést elősegítő, azt kiegészítő rendeltetéseket tartalmazó építmények, az ezekhez kötődő energiaszolgáltatási tevékenységgel közvetlenül összefüggő rendeltetéseket tartalmazó építmények, továbbá városgazdálkodási és üzemeltetési rendeltetést tartalmazó építmények elhelyezésére szolgáló terület, melyen a fenti rendeltetések szerinti építmények, valamint a megújuló energiaforrások hasznosításának sajátos építményfajtái és e funkcióhoz és rendeltetéshez közvetlenül kapcsolódó, azt kiszolgáló és attól elválaszthatatlan rendeltetések építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telek beépítési módja szabadon álló,
 
@@ -208,10 +226,44 @@ h) a területen belüli telekalakítás megengedett, azzal, hogy a telekalakít�
 
 i) a területen megvalósuló rendeltetések esetében területrendezési hatósági eljárást nem szükséges lefolytatni, térségi területfelhasználási engedélyt nem szükséges beszerezni. A megvalósított építmények települési helyi építési szabályzattal és Vármegyei Területrendezési Tervvel való összhangja módosítás és elembeillesztés hiányában is biztosított.
 
-(25)[^29] A 7. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület közlekedési és közműelhelyezésre szolgáló területnek minősül, amelyen a közlekedéshez és közműelhelyezéshez kapcsolódó építmények, valamint ezek kiszolgáló építményei helyezhetők el, azzal, hogy a kialakítható telek legkisebb területe 30 000 m2, és az EOV koordináták által határolt terület határvonala egyben kötelező telekhatárként kezelendő. Az épületmagasság megengedett legnagyobb mértéke legfeljebb 15 méter, azzal, hogy az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetközi Repülőtér üzemeltetése során alkalmazandó mindenkori akadálykorlátozási felületrendszerben foglalt maximális magassági értéket. Az épületmagasság megengedett legnagyobb mértéke tekintetében e két feltételnek együttesen kell megfelelni.
+(25)[^33] A 7. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület közlekedési és közműelhelyezésre szolgáló területnek minősül, amelyen a közlekedéshez és közműelhelyezéshez kapcsolódó építmények, valamint ezek kiszolgáló építményei helyezhetők el, azzal, hogy a kialakítható telek legkisebb területe 30 000 m2, és az EOV koordináták által határolt terület határvonala egyben kötelező telekhatárként kezelendő. Az épületmagasság megengedett legnagyobb mértéke legfeljebb 15 méter, azzal, hogy az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetközi Repülőtér üzemeltetése során alkalmazandó mindenkori akadálykorlátozási felületrendszerben foglalt maximális magassági értéket. Az épületmagasság megengedett legnagyobb mértéke tekintetében e két feltételnek együttesen kell megfelelni.
+
+(26)[^34] A 8. melléklet 1. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt terület ipari tevékenységhez köthető általános gazdasági terület, amelyen az ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telek beépítési módja szabadon álló,
+
+b) a kialakítható telek legkisebb területe 10 000 m2,
+
+c) a beépítettség legnagyobb megengedett mértéke 60%,
+
+d) az épületmagasság megengedett legnagyobb mértéke legfeljebb 25 méter,
+
+e) a zöldfelület legkisebb mértéke 20%,
+
+f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
+
+(27)[^35] A Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0489/31 helyrajzi számú ingatlan ipari tevékenységhez köthető általános gazdasági terület, amelyen az ipari tevékenységhez kapcsolódó épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telek beépítési módja szabadon álló,
+
+b) a kialakítható telek legkisebb területe 720 000 m2,
+
+c) a beépítettség legnagyobb megengedett mértéke 60%,
+
+d) az épületmagasság megengedett legnagyobb mértéke legfeljebb 25 méter, azzal, hogy az építmények legmagasabb pontja nem haladhatja meg a Debreceni Nemzetközi Repülőtér üzemeltetése során alkalmazandó mindenkori akadálykorlátozási felületrendszerben foglalt maximális magassági értéket,
+
+e) a zöldfelület legkisebb mértéke 20%,
+
+f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2,
+
+g) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete, illetve a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 50%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése, illetve a TÉKA 59. § (4) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, és autóbusz-várakozóhelyet nem kell biztosítani,
+
+h) a telken és az azon megvalósuló építményeken megújuló villamos energiát termelő erőmű és megújuló energiaforrás műtárgyai – kivéve szélerőmű, szélerőműpark – teljesítménykorlátozás nélkül, területnagyságtól függetlenül elhelyezhetőek, azzal, hogy az e) pont szerinti feltétel teljesíthető oly módon, hogy a megújuló energiaforrás műtárgyai alatt teljes értékű zöldfelület kerül kialakításra, mely esetben az 100%-ban beszámítható a telek zöldfelületébe, továbbá az építési telkek beépítettségével, beépítettségének növelésével egyidejűleg a telepített lombos fák számának el kell érnie az építési övezeti előírások szerint számított zöldfelület minden 150 m2-e után legalább 1 db-ot,
+
+i) ha a hatályos területrendezési tervek az a)–h) pont szerinti sajátos beépítési szabályok, egyedi építési követelmények és építési övezetek alkalmazása tekintetében ellentétes vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a területrendezési tervet nem lehet alkalmazni.
 
 [^4]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 186. § b) pontja hatályon kívül helyezte, újonnan a 660/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 63/2023. (II. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 3. § (1) bekezdése a 283/2025. (VIII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 29/2026. (II. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (3) bekezdés g) pontja a 178/2025. (VI. 30.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
 [^7]: A 3. § (4) bekezdés g) pontja a 178/2025. (VI. 30.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.
 [^8]: A 3. § (4) bekezdés h) pontját az 517/2023. (XI. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 283/2025. (VIII. 25.) Korm. rendelet 5. §-a hatályon kívül helyezte.
@@ -220,19 +272,25 @@ i) a területen megvalósuló rendeltetések esetében területrendezési hatós
 [^11]: A 3. § (5) bekezdés b) pontja a 283/2025. (VIII. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^12]: A 3. § (5) bekezdés e) pontja a 283/2025. (VIII. 25.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^13]: A 3. § (5) bekezdés g) pontja a 178/2025. (VI. 30.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
-[^14]: A 3. § (5) bekezdés h) pontját a 283/2025. (VIII. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^14]: A 3. § (5) bekezdés h) pontját a 283/2025. (VIII. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 29/2026. (II. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^15]: A 3. § (5) bekezdés i) pontját a 283/2025. (VIII. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^16]: A 3. § (6) bekezdés g) pontja a 178/2025. (VI. 30.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
 [^17]: A 3. § (6) bekezdés h) pontját a 16/2024. (II. 8.) Korm. rendelet 1. §-a iktatta be.
-[^18]: A 3. § (12a) bekezdését az 517/2023. (XI. 22.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^19]: A 3. § (15) bekezdése a 283/2025. (VIII. 25.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^20]: A 3. § (16) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^21]: A 3. § (17) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^22]: A 3. § (18) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^23]: A 3. § (19) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^24]: A 3. § (20) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^25]: A 3. § (21) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^26]: A 3. § (22) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^27]: A 3. § (23) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^28]: A 3. § (24) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^29]: A 3. § (25) bekezdését a 283/2025. (VIII. 25.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^18]: A 3. § (7) bekezdése a 29/2026. (II. 19.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^19]: A 3. § (12a) bekezdését az 517/2023. (XI. 22.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^20]: A 3. § (15) bekezdése a 29/2026. (II. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^21]: A 3. § (15a) bekezdését a 29/2026. (II. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: A 3. § (15b) bekezdését a 29/2026. (II. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^23]: A 3. § (15c) bekezdését a 29/2026. (II. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^24]: A 3. § (16) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^25]: A 3. § (17) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^26]: A 3. § (18) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^27]: A 3. § (19) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^28]: A 3. § (20) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^29]: A 3. § (21) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^30]: A 3. § (22) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^31]: A 3. § (23) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^32]: A 3. § (24) bekezdését a 305/2024. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A 3. § (25) bekezdését a 283/2025. (VIII. 25.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^34]: A 3. § (26) bekezdését a 29/2026. (II. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^35]: A 3. § (27) bekezdését a 29/2026. (II. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
