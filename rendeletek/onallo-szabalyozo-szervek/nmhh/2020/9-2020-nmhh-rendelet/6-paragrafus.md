@@ -4,11 +4,11 @@
 
 6. § (1) Az adatszolgáltató – az Elnök erre irányuló külön felhívása vagy döntése nélkül – minden naptári év március 31. napjáig köteles megküldeni az Elnöknek az adatszolgáltatás időpontját megelőző, valamint az adatszolgáltatás benyújtásának naptári évére vonatkozó, (2) és (3) bekezdés szerinti adatokat. A meglévő hálózatra vonatkozó adatokat az adatszolgáltatás időpontját megelőző naptári év utolsó napján fennálló állapotnak megfelelően, a tervezett hálózatra vonatkozó adatokat az adatszolgáltatás naptári évének utolsó napjára tervezett állapot szerint kell benyújtani.
 
-(2)[^2] Az adatszolgáltató a szélessávú szolgáltatás nyújtására alkalmas hálózatra vonatkozóan a (6) bekezdés szerinti elektronikus űrlapon szereplő bontásban az alábbi adatokat köteles benyújtani:
+(2)[^7] Az adatszolgáltató a szélessávú szolgáltatás nyújtására alkalmas hálózatra vonatkozóan a (6) bekezdés szerinti elektronikus űrlapon szereplő bontásban az alábbi adatokat köteles benyújtani:
 
 a) mobil rádiótelefon-hálózat esetén területi egységenként
 
-aa) az alkalmazott technológiát,
+aa)[^8] a technológiát,
 
 ab) a hálózati lefedettséget,
 
@@ -22,7 +22,7 @@ ba) a címhely lefedettségét: vezetékes hálózat esetén jelölve, hogy a c�
 
 bb) az átviteli közeget,
 
-bc) az alkalmazott technológiát,
+bc)[^9] a technológiát,
 
 bd) a címhely típusát az előfizetés jellegének megfelelően,
 
@@ -30,28 +30,30 @@ be) a címhelyen aktivált szolgáltatással rendelkező előfizetői hozzáfér
 
 bf) az átviteli sebességet.
 
-(3)[^3] Az adatszolgáltató az adatszolgáltatás benyújtásának naptári évében tervezett építési tevékenységgel összefüggésben a (2) bekezdésben foglaltakon túl a (6) bekezdés szerinti elektronikus űrlapnak megfelelően köteles adatszolgáltatásában
+(3)[^10] Az adatszolgáltató az adatszolgáltatás benyújtásának naptári évében tervezett hálózattal összefüggésben a (2) bekezdés a) pont aa), ac) és ad) alpontjában, b) pont bb) és bc) alpontjában meghatározott adatokat a (6) bekezdés szerinti elektronikus űrlapon szereplő bontásban köteles adatszolgáltatásában benyújtani.
 
-a)[^4] benyújtani a tervezett építési tevékenységre vonatkozó információt és
+(4)[^11]
 
-b) nyilatkozni arról, hogy a tervezett építési tevékenység építési engedélyezésére vonatkozó kérelmet a Hatósághoz már benyújtották-e, vagy az engedélyhez nem kötött építési tevékenységet a Hatósághoz bejelentették-e az adatszolgáltatást megelőzően.
-
-(4) Ha az építési engedélyezésre vonatkozó kérelmet már benyújtották a Hatósághoz, vagy az engedélyhez nem kötött építési tevékenységet a Hatósághoz bejelentették az adatszolgáltatást megelőzően, akkor az adatszolgáltató az adott hatósági ügyiratszám feltüntetése mellett köteles utalni erre a tényre.
-
-(5) Ha a tervezett építési tevékenység az időszakos adatszolgáltatás határidejét követően merül fel, az adatszolgáltató az adatszolgáltatás naptári évére tervezett építési tevékenységet a (2) és (3) bekezdésben foglalt adatok megadásával köteles bejelenteni az Elnök részére. Ha a bejelentésben foglalt adatok érintik a jegyzékben szereplő adatokat, akkor az Elnök módosítja a jegyzéket a tervezett építési tevékenység adatai alapján.
+(5)[^12]
 
 (6) Az Elnök a (2) és (3) bekezdés szerinti adatszolgáltatásra elektronikus űrlapot rendszeresít, amelyet az adatszolgáltatási kötelezettség teljesítésére meghatározott határidő kezdete előtt legalább 60 nappal közzétesz a Hatóság internetes honlapján. Az adatszolgáltató az e § szerinti adatszolgáltatási kötelezettségét elektronikus űrlap kitöltésével köteles teljesíteni. A Hatóság az adatszolgáltatás teljesítéséhez szükséges pontos meghatározásokat, részletes műszaki paramétereket és az elektronikus űrlaphoz benyújtandó dokumentumok listáját közzéteszi a honlapján.
 
-(7) Ha az adatszolgáltató a (3) vagy (5) bekezdés szerinti adatszolgáltatásában vagy a 4. § (2) és (3) bekezdése szerinti hirdetmény alapján úgy nyilatkozott, hogy az építési engedélyezésre irányuló kérelmet vagy engedélyhez nem kötött építési tevékenység esetén a bejelentést az adatszolgáltatást megelőzően nem nyújtották be a Hatósághoz, és erre az adatszolgáltatást vagy a bejelentést követő 6. hónap utolsó napjával sem kerül sor, az Elnök módosítja a jegyzéket, és az adatszolgáltatással érintett területet ellátatlan területként tünteti fel a jegyzékben.
+(7)[^13] Ha az adatszolgáltatónak a (3) bekezdés szerint benyújtott, a tervezett hálózatra vonatkozó adatai a soron következő (1) és (2) bekezdés szerinti adatszolgáltatásban nem jelennek meg a meglévő hálózatra vonatkozó adatok között, akkor az Elnök szükség szerint módosítja a jegyzéket.
 
-(8) Ha az adatszolgáltató a (3) vagy (5) bekezdés szerinti adatszolgáltatásában vagy a 4. § (2) és (3) bekezdése szerinti hirdetmény alapján úgy nyilatkozott, hogy az építési engedélyezésre irányuló kérelmet vagy engedélyhez nem kötött építési tevékenység esetén a bejelentést az adatszolgáltatást megelőzően benyújtották a Hatósághoz, de az építési tevékenységet az adatszolgáltató az adatszolgáltatást vagy a bejelentést követő 6. hónap utolsó napjával sem kezdte meg, az Elnök módosítja a jegyzéket, és az adatszolgáltatással érintett területet ellátatlan területként tünteti fel a jegyzékben.
+(8)[^14] Ha az adatszolgáltató a 4. § (2) és (3) bekezdése szerinti hirdetmény alapján valamely területre tervezett építési tevékenységet jelentett be, és – a hirdetményben a vállalásokra meghatározott időtartam lejártát követő – az (1) és (2) bekezdés szerinti első adatszolgáltatásában az adott terület vonatkozásában nem jelenik meg az építési tevékenységhez köthető adat a meglévő hálózatra vonatkozó adatok között, akkor az Elnök szükség szerint módosítja a jegyzéket.
 
 (9) Az adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
 
 (10) Az e rendelet szerinti adatszolgáltatási kötelezettség teljesítését az Elnök általános hatósági felügyeleti eljárás keretében ellenőrzi.
 
-(11) Ha az Elnök a (10) bekezdés szerinti felügyeleti eljárásban a 4. § (2) és (3) bekezdése szerinti bejelentés tartalmának megfelelőségével összefüggésben jogsértést állapít meg, akkor az Eht. szerinti jogkövetkezményeket csak akkor alkalmazhatja, ha megállapítja, hogy az adatszolgáltató a bejelentésében tudatosan vagy súlyos gondatlanságból nyújtott be megtévesztő, téves vagy hiányos adatokat. A jogkövetkezmény alkalmazásánál az Eht. 49. § (2) bekezdése szerinti szempontokon túl figyelembe kell venni azt is, hogy az adatszolgáltató megvalósította-e a tervezett építési tevékenységet, illetve a kiépítési tervei megváltoztatását objektív módon indokolta-e.
+(11)[^15] Ha az Elnök az általános hatósági felügyeleti eljárásban a 4. § (2) és (3) bekezdése szerinti bejelentés tartalmának megfelelőségével összefüggésben jogsértést állapít meg, akkor az Eht. szerinti jogkövetkezményeket csak akkor alkalmazhatja, ha megállapítja, hogy az adatszolgáltató a bejelentésében tudatosan vagy súlyos gondatlanságból nyújtott be megtévesztő, téves vagy hiányos adatokat. A jogkövetkezmény alkalmazásánál az Eht. 49. § (2) bekezdése szerinti szempontokon túl figyelembe kell venni azt is, hogy az adatszolgáltató megvalósította-e a tervezett építési tevékenységet, illetve a kiépítési tervei megváltoztatását objektív módon indokolta-e.
 
-[^2]: A 6. § (2) bekezdése a 2/2023. (II. 27.) NMHH rendelet 2. §-ával megállapított szöveg.
-[^3]: A 6. § (3) bekezdés nyitó szövegrésze a 2/2023. (II. 27.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
-[^4]: A 6. § (3) bekezdés a) pontja a 2/2023. (II. 27.) NMHH rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdése a 2/2023. (II. 27.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdés a) pont aa) alpontja a 2/2026. (II. 12.) NMHH rendelet 3. § 2. pontja szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdés b) pont bc) alpontja a 2/2026. (II. 12.) NMHH rendelet 3. § 3. pontja szerint módosított szöveg.
+[^10]: A 6. § (3) bekezdése a 2/2026. (II. 12.) NMHH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 6. § (4) bekezdését a 2/2026. (II. 12.) NMHH rendelet 4. §-a hatályon kívül helyezte.
+[^12]: A 6. § (5) bekezdését a 2/2026. (II. 12.) NMHH rendelet 4. §-a hatályon kívül helyezte.
+[^13]: A 6. § (7) bekezdése a 2/2026. (II. 12.) NMHH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: A 6. § (8) bekezdése a 2/2026. (II. 12.) NMHH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (11) bekezdése a 2/2026. (II. 12.) NMHH rendelet 3. § 4. pontja szerint módosított szöveg.
