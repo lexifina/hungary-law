@@ -8,7 +8,7 @@ b) a lőfegyverhasználat okát,
 
 c) a megelőző intézkedéseket,
 
-d)[^56] milyen sérülés történt, sor került-e elsősegélynyújtásra, orvosi ellátásra, hol tartózkodik a sérült, történt-e haláleset,
+d)[^57] milyen sérülés történt, sor került-e elsősegélynyújtásra, orvosi ellátásra, hol tartózkodik a sérült, történt-e haláleset,
 
 e) milyen kárt okozott a lövés, ki a károsult, az országgyűlési őr, valamint a károsult mit tett a kár enyhítésére,
 
@@ -38,14 +38,14 @@ b) a lövést kiváltó körülményeket, figyelmeztető lövésnél az alkalmaz
 
 c) a lövés irányát és következményét,
 
-d)[^57] ha a lövés halált, sérülést vagy kárt okozott, annak leírását,
+d)[^58] ha a lövés halált, sérülést vagy kárt okozott, annak leírását,
 
 e) a lövést követően tett intézkedéseit, valamint
 
 f) a helyszínre, a tanúkra, és az egyéb körülményekre vonatkozó adatokat.
 
-(7)[^58] Ha a (6) bekezdés szerinti lövés halált, sérülést vagy kárt okozott, a lőfegyverhasználatra vonatkozó rendelkezések szerint kell a vizsgálatot lefolytatni.
+(7)[^59] Ha a (6) bekezdés szerinti lövés halált, sérülést vagy kárt okozott, a lőfegyverhasználatra vonatkozó rendelkezések szerint kell a vizsgálatot lefolytatni.
 
-[^56]: A 39. § (2) bekezdés d) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 15. pontja szerint módosított szöveg.
-[^57]: A 39. § (6) bekezdés d) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 16. pontja szerint módosított szöveg.
-[^58]: A 39. § (7) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 16. pontja szerint módosított szöveg.
+[^57]: A 39. § (2) bekezdés d) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 15. pontja szerint módosított szöveg.
+[^58]: A 39. § (6) bekezdés d) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 16. pontja szerint módosított szöveg.
+[^59]: A 39. § (7) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 16. pontja szerint módosított szöveg.

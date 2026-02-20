@@ -10,7 +10,7 @@
 
 (2) A kényszerítő eszköz alkalmazásáról készített jelentés tartalmazza:
 
-a)[^46] az alkalmazás alapjául szolgáló magatartás eseményhű bemutatása mellett annak leírását, hol, mikor, kivel szemben, mennyi ideig, milyen kényszerítő eszköz alkalmazására került sor és ennek mi volt az indoka,
+a)[^47] az alkalmazás alapjául szolgáló magatartás eseményhű bemutatása mellett annak leírását, hol, mikor, kivel szemben, mennyi ideig, milyen kényszerítő eszköz alkalmazására került sor és ennek mi volt az indoka,
 
 b) a jogellenes magatartás abbahagyására történt-e felszólítás, ha nem, ennek mi volt az oka,
 
@@ -38,7 +38,7 @@ c) ha az intézkedés alá vont, valamint az eseménynél jelen levő személy a
 
 (5) A szolgálati elöljáró a megállapításait írásban rögzíti, amelyben állást foglal a szakszerűség, szükségesség, jogszerűség, arányosság követelményének megtartásáról. Ha megállapítása szerint a kényszerítő eszközök alkalmazására jogszabálysértő módon került sor, – ha annak jogszabályi feltételei fennállnak – az intézkedő országgyűlési őr ellen kártérítési, fegyelmi, vagy fegyelmi és büntetőeljárást kezdeményez.
 
-(6)[^47] Ha a kényszerítő eszköz alkalmazását követően az országgyűlési őr az elfogott személyt előállítás céljából a rendőrségnek átadta, az Országgyűlési Őrség a személyi szabadságot korlátozó intézkedésről szóló írásos jelentés másolatát a rendőrség előállítást végrehajtó szervezeti egységének az intézkedés foganatosítását követően haladéktalanul, de legkésőbb az azt követő napon megküldi.
+(6)[^48] Ha a kényszerítő eszköz alkalmazását követően az országgyűlési őr az elfogott személyt előállítás céljából a rendőrségnek átadta, az Országgyűlési Őrség a személyi szabadságot korlátozó intézkedésről szóló írásos jelentés másolatát a rendőrség előállítást végrehajtó szervezeti egységének az intézkedés foganatosítását követően haladéktalanul, de legkésőbb az azt követő napon megküldi.
 
-[^46]: A 27. § (2) bekezdés a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 10. pontja szerint módosított szöveg.
-[^47]: A 27. § (6) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § d) pontja szerint módosított szöveg.
+[^47]: A 27. § (2) bekezdés a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 10. pontja szerint módosított szöveg.
+[^48]: A 27. § (6) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § d) pontja szerint módosított szöveg.

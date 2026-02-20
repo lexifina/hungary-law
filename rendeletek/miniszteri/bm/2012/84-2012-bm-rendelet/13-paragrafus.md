@@ -1,4 +1,4 @@
-## 12. §[^25] Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr értesíti az elfogás helye szerint illetékes rendőri szerv tevékenység-irányítási központját.
+## 12. §[^26] Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr értesíti az elfogás helye szerint illetékes rendőri szerv tevékenység-irányítási központját.
 
 ## 7. Biztonsági intézkedések
 
@@ -16,7 +16,7 @@ e) intézkedik a bűncselekmények megelőzésére és a veszélyhelyzettel öss
 
 f) tájékoztatást ad a szolgálati elöljáró utasítása szerint, valamint
 
-g)[^26] intézkedik a közrendet zavaró cselekmények megszüntetésére, az illetéktelenek távoltartására, a közúti forgalom esetleges elterelésére, szükség esetén a személyek elszállíttatására, az állatok elterelésére.
+g)[^27] intézkedik a közrendet zavaró cselekmények megszüntetésére, az illetéktelenek távoltartására, a közúti forgalom esetleges elterelésére, szükség esetén a személyek elszállíttatására, az állatok elterelésére.
 
 (2) Biztonsági intézkedés keretében terület lezárására kell intézkedni
 
@@ -30,8 +30,8 @@ d) súlyos fertőző betegség, talált sugárzó anyag, robbanóanyag, robbant�
 
 e) terrortámadás veszélye vagy terrorcselekmény esetén.
 
-(3)[^27] Az Rtv. 37. § (3) bekezdésében meghatározott, az intézkedéssel érintett személy állapotára tekintettel igényelt, a rend fenntartására irányuló tevékenységnek az általános rendőrségi feladatok ellátására létrehozott szerv általi végrehajtását az ügyeletes az intézkedés helye szerint illetékes rendőri szerv tevékenység-irányítási központjának értesítése útján köteles kezdeményezni.
+(3)[^28] Az Rtv. 37. § (3) bekezdésében meghatározott, az intézkedéssel érintett személy állapotára tekintettel igényelt, a rend fenntartására irányuló tevékenységnek az általános rendőrségi feladatok ellátására létrehozott szerv általi végrehajtását az ügyeletes az intézkedés helye szerint illetékes rendőri szerv tevékenység-irányítási központjának értesítése útján köteles kezdeményezni.
 
-[^25]: A 12. § a 19/2020. (VI. 30.) BM rendelet 6. § a) pontja szerint módosított szöveg.
-[^26]: A 13. § (1) bekezdés g) pontja a 35/2025. (VIII. 28.) BM rendelet 27. §-a szerint módosított szöveg.
-[^27]: A 13. § (3) bekezdését a 35/2025. (VIII. 28.) BM rendelet 26. §-a iktatta be.
+[^26]: A 12. § a 19/2020. (VI. 30.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^27]: A 13. § (1) bekezdés g) pontja a 35/2025. (VIII. 28.) BM rendelet 27. §-a szerint módosított szöveg.
+[^28]: A 13. § (3) bekezdését a 35/2025. (VIII. 28.) BM rendelet 26. §-a iktatta be.

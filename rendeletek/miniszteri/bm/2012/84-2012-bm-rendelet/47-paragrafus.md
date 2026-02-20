@@ -1,6 +1,6 @@
-47. §[^80] Az Országgyűlési Őrség a tűzbiztonsági és tűzoltási tevékenysége során
+47. §[^81] Az Országgyűlési Őrség a tűzbiztonsági és tűzoltási tevékenysége során
 
-a)[^81] az általa észlelt segélykérést az ügyeleti szolgálat közreműködésével továbbítja a hivatásos katasztrófavédelmi szervhez,
+a)[^82] az általa észlelt segélykérést az ügyeleti szolgálat közreműködésével továbbítja a hivatásos katasztrófavédelmi szervhez,
 
 b) a hivatásos katasztrófavédelmi szerv helyszínre érkezéséig minden tőle elvárhatót megtesz a tűz továbbterjedésének megakadályozására, a tűz oltására, a sérült vagy egyébként veszélyben lévő személyek részére történő segítségnyújtásra, a balesetek megelőzésére,
 
@@ -8,5 +8,5 @@ c) az eseményt észlelőket a helyszínen maradásra, a helyszínen tartózkod�
 
 d) a hivatásos katasztrófavédelmi szerv helyszínre érkezését követően a tűz oltásában, továbbá a műszaki mentésben a tűzoltásvezető intézkedésének megfelelően működik közre.
 
-[^80]: A 47. § nyitó szövegrésze a 34/2024. (VIII. 8.) BM rendelet 13. § 13. pontja szerint módosított szöveg.
-[^81]: A 47. § a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 20. pontja szerint módosított szöveg.
+[^81]: A 47. § nyitó szövegrésze a 34/2024. (VIII. 8.) BM rendelet 13. § 13. pontja szerint módosított szöveg.
+[^82]: A 47. § a) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 20. pontja szerint módosított szöveg.
