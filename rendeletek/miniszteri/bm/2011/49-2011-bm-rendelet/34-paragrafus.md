@@ -10,13 +10,13 @@ c) a polgári védelmi szervezet alkalmazása során a jogszabályokban előírt
 
 (2) A beosztott köteles
 
-a)[^9] feladat ellátására fizikailag, pszichológiailag alkalmas állapotban, az előírásoknak megfelelő tiszta és ápolt öltözetben megjelenni,
+a)[^13] feladat ellátására fizikailag, pszichológiailag alkalmas állapotban, az előírásoknak megfelelő tiszta és ápolt öltözetben megjelenni,
 
 b) a polgári védelmi feladat végrehajtása érdekében a jogszabályban és az elöljáró utasításaiban foglalt feladatokat végrehajtani,
 
 c) jelenteni, ha a feladat végrehajtásával összefüggésben ajándékot ajánlanak fel és visszautasítani azt,
 
-d)[^10] a polgári védelmi szervezetek alkalmazása idején a Kat. 72. § (5) bekezdésében meghatározott igazolványt magánál tartani,
+d)[^14] a polgári védelmi szervezetek alkalmazása idején a Kat. 72. § (5) bekezdésében meghatározott igazolványt magánál tartani,
 
 e) a feladat ellátása során a polgári védelmi tevékenységhez kapcsolódó védőfelszereléseket és a munkaeszközöket rendeltetésszerűen használni,
 
@@ -26,5 +26,5 @@ g) a polgári védelmi feladatok végrehajtására vonatkozó információkat a 
 
 h) jelenteni a közvetlen elöljárónak az utasítás végrehajtását, az akadályozó körülményeket, valamint ha más elöljárótól utasítást kapott vagy az ellenőrizte tevékenységét.
 
-[^9]: A 34. § (2) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 5. §-a szerint módosított szöveg.
-[^10]: A 34. § (2) bekezdés d) pontja a 14/2017. (VI. 20.) BM rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 34. § (2) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 5. §-a szerint módosított szöveg.
+[^14]: A 34. § (2) bekezdés d) pontja a 14/2017. (VI. 20.) BM rendelet 2. §-a szerint módosított szöveg.
