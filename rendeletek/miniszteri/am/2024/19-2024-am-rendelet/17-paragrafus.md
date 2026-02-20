@@ -4,7 +4,7 @@
 
 ## 12. Közös szabályok
 
-17. § (1)[^11] Termeléshez kötött közvetlen támogatás az alábbi intézkedésekre vehető igénybe
+17. § (1)[^13] Termeléshez kötött közvetlen támogatás az alábbi intézkedésekre vehető igénybe
 
 a) rizstermesztés támogatása,
 
@@ -38,4 +38,4 @@ e) az (1) bekezdés b), e) és f) pontja szerinti támogatásokat kivéve a mez�
 
 (3) Az (1) bekezdés szerinti támogatások esetében, ha a támogatható terület (2) bekezdés c) és d) pontjában meghatározott nagysága több bejelentett tábla alapján kerül meghatározásra, akkor a táblák támogatható területének el kell érnie a 0,25 hektárt.
 
-[^11]: A 17. § (1) bekezdés nyitó szövegrésze az 5/2025. (IV. 3.) AM rendelet 59. § d) pontja szerint módosított szöveg.
+[^13]: A 17. § (1) bekezdés nyitó szövegrésze az 5/2025. (IV. 3.) AM rendelet 59. § d) pontja szerint módosított szöveg.

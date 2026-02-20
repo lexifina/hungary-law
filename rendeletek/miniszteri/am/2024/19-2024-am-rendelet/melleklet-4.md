@@ -1,6 +1,6 @@
 |  | A | B | C | D | E | F | G | H | I | J |
 
-| 1. | Megnevezés magyarul | Megnevezés latinul | Szántóföldi termesztés esetén | Hajtatás esetén | A növény a virágzás kezdetéig megőrizendő (igen/nem)[^29] |
+| 1. | Megnevezés magyarul | Megnevezés latinul | Szántóföldi termesztés esetén | Hajtatás esetén | A növény a virágzás kezdetéig megőrizendő (igen/nem)[^31] |
 
 | 2. | Minimum vetőmag db/hektár | Ezermag- tömeg- gramm | Minimum hagyma, fokhagymagerezd db/hektár | Minimum dugvány vagy tősarj db/hektár | Minimum palánta db/hektár | Minimum gumó kg/hektár | Minimum palánta db/hektár |
 
@@ -112,4 +112,4 @@
 
 A gyümölcsök jegyzéke, valamint minimális hektáronkénti tőszámának és az ültetvény maximális életkorának értéke
 
-[^29]: A vetőmag-minősítésnél a zöldbabra vonatkozó szaporítóanyag-előírásoknak kell megfelelni.
+[^31]: A vetőmag-minősítésnél a zöldbabra vonatkozó szaporítóanyag-előírásoknak kell megfelelni.
