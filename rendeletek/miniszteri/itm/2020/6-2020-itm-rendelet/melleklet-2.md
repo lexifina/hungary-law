@@ -1,3 +1,3 @@
-2. melléklet a 6/2020. (II. 7.) ITM rendelethez[^25]
+2. melléklet a 6/2020. (II. 7.) ITM rendelethez[^24]
 
-[^25]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
