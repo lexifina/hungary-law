@@ -46,4 +46,4 @@ e) a jogszabály által közigazgatási cselekmény megvalósítására feljogos
 
 4. megelőző eljárás: a jogvita tárgyává tett közigazgatási cselekmény megvalósítására folytatott közigazgatási hatósági vagy jogorvoslati eljárás.
 
-(8)
+(8) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyával kapcsolatos jogvita közszolgálati jogvitának minősül.
