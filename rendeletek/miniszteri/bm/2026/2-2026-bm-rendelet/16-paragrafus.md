@@ -1,3 +1,3 @@
-16. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet a következő 10/A. §-sal egészül ki:
+16. §[^17]
 
-„10/A. § A hivatásos állomány polgári nemzetbiztonsági szolgálattól áthelyezett tagja jogosult a részére az áthelyezést megelőzően a Hszt. alapján a polgári nemzetbiztonsági szolgálatot irányító miniszter által adományozott, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény 234. § (12) bekezdésében foglaltak alapján 2025. március 1-jét követően továbbviselt tanácsosi vagy főtanácsosi cím viselésére – a cím előtt álló, a polgári nemzetbiztonsági szolgálatra utaló megjelölés kivételével –, valamint a Hszt. 180. § (2) bekezdése alapján azzal együtt járó címpótlékra.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

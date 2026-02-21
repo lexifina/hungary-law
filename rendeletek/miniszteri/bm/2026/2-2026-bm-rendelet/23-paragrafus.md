@@ -1,1 +1,3 @@
-23. § Az egészségügyi szolgáltatók szakfelügyeletéről szóló 16/2019. (VII. 30.) EMMI rendelet 4. § (10) bekezdésében az „egészségügyi szolgáltatók” szövegrész helyébe az „egészségügyi szolgáltatók és az egészségügyi szolgáltatás nyújtásával kapcsolatosan a polgári nemzetbiztonsági szolgálat” szöveg lép.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

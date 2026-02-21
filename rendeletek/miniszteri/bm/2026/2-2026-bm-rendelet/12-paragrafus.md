@@ -1,5 +1,3 @@
-12. § Hatályát veszti az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet
+12. §[^13]
 
-a) 25. §-a és
-
-b) 65/E. § (4) bekezdése.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

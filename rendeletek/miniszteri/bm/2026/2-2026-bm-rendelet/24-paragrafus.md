@@ -1,3 +1,5 @@
 ## 17. Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet módosítása
 
-24. § Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 44. § (1) bekezdés b) pontjában az „állományából vagy” szövegrész helyébe az „állományából, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági szolgálati jogviszonyból vagy” szöveg lép.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
