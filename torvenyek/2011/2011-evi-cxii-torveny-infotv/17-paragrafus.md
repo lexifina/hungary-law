@@ -18,6 +18,8 @@ g) profilalkotás alkalmazásának esetén annak tényét és
 
 h) az érintett személyes adatainak kezelésével összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és az azok kezelésére tett intézkedéseket.
 
+(2a) Ha az érintett személyes adata a minősített adat védelméről szóló törvény szerinti nemzeti minősítésű személyes adatnak minősül, és annak minősítője nem az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam a 15. § (1) bekezdés b) pontja szerinti határidőbe nem számít bele.
+
 (3) Az érintett hozzáféréshez való jogának érvényesítését az adatkezelő az elérni kívánt céllal arányosan korlátozhatja vagy megtagadhatja, ha ezen intézkedés elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
 
 (4) A (3) bekezdésben foglaltak szerinti intézkedés alkalmazása esetén az adatkezelő írásban, haladéktalanul tájékoztatja az érintettet
