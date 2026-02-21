@@ -4,7 +4,7 @@
 
 a) olyan bűncselekmény bizonyítására kívánják felhasználni, amely miatt e törvény szerint bírói engedélyhez kötött leplezett eszközök alkalmazásának helye lehet,
 
-b) a titkos információgyűjtést folytató szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül kezdeményezte a büntetőeljárás megindítását.
+b) a titkos információgyűjtést folytató szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően harminc napon belül kezdeményezte a büntetőeljárás megindítását.
 
 (2) Ha a titkos információgyűjtést nem maga a titkos információgyűjtést végző szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
 

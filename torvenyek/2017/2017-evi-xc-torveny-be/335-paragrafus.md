@@ -4,7 +4,7 @@
 
 335. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus hírközlő hálózat útján közzétett adat feletti rendelkezési jog ideiglenes korlátozása és az adathoz való hozzáférés ideiglenes megakadályozása.
 
-(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét akkor lehet elrendelni, ha az eljárás olyan közvádra üldözendő bűncselekmény miatt folyik, amellyel kapcsolatban elektronikus adat végleges hozzáférhetetlenné tételének van helye, és az a bűncselekmény megszakítása érdekében szükséges.
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét akkor lehet elrendelni, ha az eljárás olyan bűncselekmény miatt folyik, amellyel kapcsolatban elektronikus adat végleges hozzáférhetetlenné tételének van helye, és az a bűncselekmény megszakítása érdekében szükséges.
 
 (3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a bíróság, az ügyészség vagy a nyomozó hatóság rendeli el.
 

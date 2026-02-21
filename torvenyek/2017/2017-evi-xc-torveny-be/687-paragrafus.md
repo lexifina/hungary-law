@@ -4,10 +4,10 @@
 
 (2) Ha a fiatalkorúval szemben öt évnél súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban nyomozás, annak határideje a gyanúsítotti kihallgatástól számított két éven túl nem hosszabbítható meg.
 
-(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (5) bekezdésben meghatározott esetben
+(3) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, akkor az ügyben az (1) és (2) bekezdésben meghatározott határidőt a 351. § (6) bekezdésében meghatározott feltételek valamelyikének fennállása esetén
 
-a) az ügyész legfeljebb hat hónappal,
+a) az ügyészség legfeljebb hat hónappal,
 
-b) a felettes ügyész további hat hónappal
+b) a felettes ügyészség további hat hónappal
 
 meghosszabbíthatja.

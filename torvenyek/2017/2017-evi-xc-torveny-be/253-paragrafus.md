@@ -2,7 +2,7 @@
 
 a) az eszköz alkalmazásának e törvényben meghatározott egyéb feltételei fennállnak,
 
-b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően nyolc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról, illetve a már folyamatban lévő büntetőeljárásban való felhasználásáról rendelkezik, illetve azt kezdeményezi, és
+b) a leplezett eszközök alkalmazására feljogosított szerv a büntetőeljárásban felhasználni kívánt adat megszerzését követően harminc napon belül az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az előkészítő eljárás vagy a nyomozás megindításáról, illetve a már folyamatban lévő büntetőeljárásban való felhasználásáról rendelkezik, illetve azt kezdeményezi, és
 
 c) a bíróság a (4) bekezdés alapján engedélyezi az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában a leplezett eszköz alkalmazása eredményének a felhasználását.
 

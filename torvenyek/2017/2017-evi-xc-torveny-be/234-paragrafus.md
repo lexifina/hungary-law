@@ -4,7 +4,7 @@
 
 a) az üzletszerűen vagy bűnszövetségben elkövetett bűncselekmény,
 
-b) a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
+b) a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
 
 c) a szexuális visszaélés, a kerítés, a prostitúció elősegítése, a kitartottság, a gyermekprostitúció kihasználása, a gyermekpornográfia,
 
@@ -18,6 +18,6 @@ g) a választás, népszavazás és európai polgári kezdeményezés rendje ell
 
 h) a bennfentes kereskedelem és a tiltott piacbefolyásolás.
 
-(3) Bírói engedélyhez kötött leplezett eszközök a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
+(3) Bírói engedélyhez kötött leplezett eszközök a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, valamint a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
 
 (4) Ha a Btk. a bűncselekmény előkészületét büntetni rendeli, a bírói engedélyhez kötött leplezett eszközök az (1)–(3) bekezdésben meghatározott bűncselekmények előkészülete miatt indult büntetőeljárásban is alkalmazhatók.

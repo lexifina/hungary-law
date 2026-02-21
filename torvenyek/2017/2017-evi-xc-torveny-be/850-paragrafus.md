@@ -8,4 +8,6 @@ b) polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilv
 
 c) központi idegenrendészeti nyilvántartás.
 
+d) fogvatartottak nyilvántartása.
+
 (3) A kártalanítási eljárásban a büntetőügyben eljárt bíróság feladatait bírósági titkár is elláthatja.

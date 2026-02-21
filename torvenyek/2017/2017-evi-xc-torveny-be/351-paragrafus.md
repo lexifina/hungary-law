@@ -14,9 +14,9 @@ c) a nyolc évig terjedő vagy ennél súlyosabb szabadságvesztéssel bünteten
 
 (4) A Btk. 91. § (3) bekezdése estén a nyomozás (3) bekezdés szerinti határidejét a Btk. 91. § (1) bekezdése alapján felemelt büntetési tétel szerint kell megállapítani.
 
-(5) A nyomozás (3) bekezdés szerinti határidejét az ügyész legfeljebb hat hónappal meghosszabbíthatja.
+(5) A nyomozás (3) bekezdés szerinti határidejét az ügyészség legfeljebb hat hónappal meghosszabbíthatja.
 
-(6) A nyomozás (5) bekezdés szerint meghosszabbított határidejét a felettes ügyész legfeljebb egy évvel meghosszabbíthatja, ha az eljárás elhúzódását az eredményezte, hogy
+(6) A nyomozás (5) bekezdés szerint meghosszabbított határidejét a felettes ügyészség legfeljebb egy évvel meghosszabbíthatja, ha az eljárás elhúzódását az eredményezte, hogy
 
 a) külföldi állam területét érintő eljárási cselekmény elvégzésére került sor,
 
@@ -30,6 +30,6 @@ e) gyanúsított megszökött vagy elrejtőzött,
 
 f) a gyanúsított által a nyomozás ügyiratainak teljes körű megismerését követően előterjesztett indítvány végrehajtása érdekében szükséges, és ahhoz a gyanúsított hozzájárul.
 
-(7) Több bűncselekmény miatt vagy több gyanúsított ellen folyamatban lévő eljárásban az (5) bekezdés alkalmazására akkor kerülhet sor, ha a gyanúsított vagy a cselekmény vonatkozásában az eljárás elkülönítésének nincs helye, vagy az az eljárás eredményes lefolytatását veszélyeztetné.
+(7) A nyomozási határidő számítását több gyanúsított esetén minden gyanúsított tekintetében önállóan kell elvégezni. A nyomozás (3) bekezdés szerinti határidejét a gyanúsítottal a gyanúsításban közölt legsúlyosabb bűncselekmény büntetési tételének figyelembe vételével kell kiszámítani.
 
 (8) A (6) bekezdés nem alkalmazható, ha a gyanúsított egy évet meghaladó letartóztatásban van.

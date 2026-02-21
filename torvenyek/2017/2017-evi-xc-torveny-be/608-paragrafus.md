@@ -6,7 +6,7 @@ b) az ítélet meghozatalában a törvény szerint kizárt bíró vett részt,
 
 c) a bíróság a hatáskörét túllépte, katonai büntetőeljárásra vagy más bíróság kizárólagos illetékességébe tartozó ügyet bírált el,
 
-d) a tárgyalást olyan személy távollétében tartották meg, akinek a jelenléte a törvény értelmében kötelező,
+d) a bíróság eljárási cselekményét olyan személy távollétében tartották meg, akinek a jelenléte a törvény értelmében kötelező,
 
 e) a bíróság a 492. § (1) bekezdés c)–d) és i) pontjában, valamint a (2) bekezdésében vagy az 567. § (1) bekezdés a)–b) és g) pontjában, valamint (2) bekezdésében meghatározott valamely ok törvénysértő megállapítása miatt az eljárást megszüntette,
 

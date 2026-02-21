@@ -8,6 +8,6 @@
 
 (5) Ha a kártalanítást a 845. § (2) bekezdés a), b) vagy d) pontjában, illetve (3) bekezdésében meghatározott ok miatt igénylik, nem jár kártalanítás, ha utóbb rendkívüli jogorvoslat során olyan jogerős ügydöntő határozatot hoznak a terhelttel szemben, amely miatt a kártalanítás a 845. §-ban vagy a 846. §-ban meghatározottak szerint nem jár.
 
-(6) Az (1)–(5) bekezdésben meghatározott esetben a már kifizetett kártalanítást az állam visszaköveteli.
+(6) Az (1)–(5) bekezdésben meghatározott esetben a már kifizetett kártalanítást az állam visszaköveteli. Az állam képviseletében az igazságügyért felelős miniszter jár el.
 
 (7) A (2)–(4) bekezdésben meghatározott esetekben a végrehajtandó szabadságvesztés vagy a kiszabott büntetés tekintetében kártalanításnak a 844. § vagy a 845. § alapján helye lehet. Ilyen esetben, ha kártalanítást kell fizetni, a korábban kifizetett kártalanítási összeget be kell számítani.

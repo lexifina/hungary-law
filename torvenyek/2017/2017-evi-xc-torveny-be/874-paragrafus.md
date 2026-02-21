@@ -2,13 +2,15 @@
 
 (2) Ha a korábbi jogszabály alapján sor került a gyanúsított kihallgatására, a nyomozás korábbi jogszabály szerint meghatározott vagy meghosszabbított határidejének lejártakor kell a nyomozás ügyiratainak ügyészség részére történő bemutatásáról intézkedni.
 
-(2a) A 2025. szeptember 1. napján folyamatban levő büntetőeljárásban a nyomozási határidőket a korábbi jogszabály szerint kell számolni.
+(2a) A 2025. szeptember 1. napját megelőzően indult büntetőeljárásban a nyomozási határidőket a korábbi jogszabály szerint kell számolni.
 
 (2b) A (2a) bekezdésben meghatározott határidő lejártát követően,
 
-a) ha az ügyészség 2025. szeptember 1. napját megelőzően nem hosszabbította meg a nyomozás határidejét, akkor a 351. § (4) és (6) bekezdésének az alkalmazásának van helye,
+a) ha az ügyészség 2025. szeptember 1. napját megelőzően nem hosszabbította meg a nyomozás határidejét, akkor a 351. § (5) bekezdésének az alkalmazásának van helye,
 
-b) ha az ügyészség 2025. szeptember 1. napját megelőzően már meghosszabbította a nyomozás határidejét akkor a 351. § (5) és (7) bekezdésének az alkalmazásának van helye.
+b) ha az ügyészség 2025. szeptember 1. napját megelőzően már meghosszabbította a nyomozás határidejét akkor a 351. § (6) és (8) bekezdésének az alkalmazásának van helye.
+
+(2c) Több terhelt esetén, ha a felnőtt korú terhelt ügyének a fiatalkorú ügyétől való elkülönítése kizárt, a 2025. szeptember 1. napját megelőzően indult büntetőeljárásban a 687. § (3) bekezdés alkalmazásának van helye.
 
 (3) E törvénynek a magánindítvány előterjesztésének határidejére vonatkozó szabályát e törvény hatálybalépését követően elkövetett bűncselekmények esetében kell alkalmazni.
 
