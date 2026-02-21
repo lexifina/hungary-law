@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 19. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„19. § Az 1370/2007/EK európai parlamenti és tanácsi rendelet, a 2012/21/EU bizottsági határozat és az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatások esetében a támogatási tervezetek bejelentésére és a miniszter ezzel kapcsolatos eljárására a 7–13. § rendelkezéseit az ezen alcímben meghatározott kiegészítésekkel kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

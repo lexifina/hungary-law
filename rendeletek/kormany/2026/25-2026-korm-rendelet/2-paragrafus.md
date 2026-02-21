@@ -1,7 +1,3 @@
-2. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 20. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) A 2012/21/EU bizottsági határozat és az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatások esetében a támogatási tervezetnek – a 3. § (1) bekezdésében meghatározottakon túl – kifejezett hivatkozást kell tartalmaznia a 2012/21/EU bizottsági határozatra vagy az (EU) 2025/2630 bizottsági határozatra, és tartalmaznia kell a 2012/21/EU bizottsági határozat 4. cikkében vagy az (EU) 2025/2630 bizottsági határozat 4. cikkében meghatározott tartalmi elemeket is.
-
-(2) Ha a támogatási tervezet alapján nyújtandó állami támogatás a 2012/21/EU bizottsági határozat és az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatásnak minősül, a támogatást nyújtó köteles a kedvezményezettet tájékoztatni, hogy a 2012/21/EU bizottsági határozat 5. cikk (9) bekezdése szerinti speciális elszámolás-vezetési kötelezettség és a 2012/21/EU bizottsági határozat 7. és 8. cikkében meghatározott nyilvántartási és adatszolgáltatási kötelezettség vagy az (EU) 2025/2630 bizottsági határozat 5. cikk (5) bekezdése szerinti speciális elszámolás-vezetési kötelezettség is terheli a kedvezményezettet.
-
-(3) A 2012/21/EU bizottsági határozat vagy az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatás esetén a támogatást nyújtó gondoskodik arról, hogy a közszolgáltatásért járó ellentételezés ne haladja meg a 2012/21/EU bizottsági határozat 5. cikkében vagy az (EU) 2025/2630 bizottsági határozat 5. cikkében meghatározott mértéket.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

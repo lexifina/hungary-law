@@ -1,3 +1,3 @@
-3. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 25. §-a a következő (2b) bekezdéssel egészül ki:
+3. §[^4]
 
-„(2b) Az (1)–(2a) bekezdés alkalmazása során a maximális támogatási intenzitás nem haladhatja meg a 75%-ot.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
