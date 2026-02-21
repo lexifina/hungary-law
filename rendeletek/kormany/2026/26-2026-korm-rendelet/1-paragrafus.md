@@ -12,6 +12,6 @@
 
 ## 1. A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosítása
 
-1. § A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet a következő 68. §-sal egészül ki:
+1. §[^1]
 
-„68. § A 12. § (4) bekezdésétől eltérően az a jelentkező, aki Romániában a 2026. évben érettségizik, a 2026. évi általános felvételi eljárásban az érettségi bizonyítványra vonatkozó hiánypótlását 2026. július 16-áig teheti meg.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
