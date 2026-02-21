@@ -1,6 +1,6 @@
 2. § (1)
 
-(2) Az 1. § (1) bekezdése szerinti iratokban található minősített adatok közül, a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) rendelkezései szerinti felülvizsgálat során annak a minősített adatnak a minősítése tartható fenn, amely
+(2) Az 1. § (1) bekezdése szerinti iratokban található minősített adatokat a minősített adat védelméről szóló 2009. évi CLV. törvényben (a továbbiakban: Mavtv.) meghatározottakon túl legalább ötévente felül kell vizsgálni. A felülvizsgálat során annak a minősített adatnak a minősítése tartható fenn, amely
 
 a) olyan személyre vonatkozik, aki 1990. február 14-e után a nemzetbiztonsági szolgálatok állományába tartozott, vagy azokkal titkosan együttműködött,
 
