@@ -16,6 +16,6 @@
 
 ## 1. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
 
-1. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 122/A. § (1) bekezdése a következő f) ponttal egészül ki:
+1. §[^1]
 
-(A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
