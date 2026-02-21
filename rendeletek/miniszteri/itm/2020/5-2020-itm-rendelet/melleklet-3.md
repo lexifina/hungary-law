@@ -1,4 +1,4 @@
-3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^25]
+3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^21]
 
 A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei
 
@@ -122,4 +122,4 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 |  | 4. | mhv. | munkahét végén |
 
-[^25]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a, a 41/2025. (XII. 19.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
+[^21]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a szerint módosított szöveg.
