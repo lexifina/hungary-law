@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 3. § (7) bekezdésében a „0495/250” szövegrész helyébe a „0489/31, 0495/250” szöveg,
-
-b) 3/A. § (1) bekezdésében a „0495/249” szövegrész helyébe a „0489/31, 0495/249” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
