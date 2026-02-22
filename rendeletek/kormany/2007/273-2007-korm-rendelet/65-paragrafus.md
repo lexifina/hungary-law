@@ -1,11 +1,11 @@
-## Erőmű névleges teljesítőképességének növelésére vonatkozó engedély[^406]
+## Erőmű névleges teljesítőképességének növelésére vonatkozó engedély[^409]
 
-65. §[^407] (1)[^408] Erőmű névleges teljesítőképessége növelésének minősül a működési engedélyben meghatározott erőművi névleges teljesítőképesség vagy a kiserőmű névleges teljesítőképességének átalakítással, javítással történő növelése, ha bármelyik meglévő berendezés (erőműegység vagy turbógépcsoport) vagy azok együttes névleges teljesítőképességének növekménye meghaladja a működési engedélyben meghatározott névleges teljesítőképesség 10%-át, vagy kiserőmű esetében annak névleges teljesítőképessége a növeléssel együtt eléri vagy meghaladja az 50 MW-ot.
+65. §[^410] (1)[^411] Erőmű névleges teljesítőképessége növelésének minősül a működési engedélyben meghatározott erőművi névleges teljesítőképesség vagy a kiserőmű névleges teljesítőképességének átalakítással, javítással történő növelése, ha bármelyik meglévő berendezés (erőműegység vagy turbógépcsoport) vagy azok együttes névleges teljesítőképességének növekménye meghaladja a működési engedélyben meghatározott névleges teljesítőképesség 10%-át, vagy kiserőmű esetében annak névleges teljesítőképessége a növeléssel együtt eléri vagy meghaladja az 50 MW-ot.
 
 (2) Az erőmű névleges teljesítőképességének növelésére vonatkozó engedély iránti kérelemhez az 5. számú mellékletben meghatározott iratokat és adatokat kell benyújtani.
 
 (3) A névleges teljesítőképesség növelés megvalósulása után az engedélyes a próbaüzem záró jegyzőkönyvének keltét követő 30 napon belül köteles kérelmezni a működési engedélye módosítását, vagy kiserőmű esetében a villamosenergia-termelésre vonatkozó működési engedély kiadását.
 
-[^406]: A Vhr. 65. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^407]: A Vhr. 65. §-a a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^408]: [A 65. § (1) bekezdésben a 466/2024. (XII. 30.) Korm. rendelet 33. § i) pontja által elrendelt módosítás, amely szerint a „10%” szövegrész helyébe a „15%” szöveg lép, nem vezethető át.]
+[^409]: A Vhr. 65. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^410]: A Vhr. 65. §-a a 378/2011. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^411]: [A 65. § (1) bekezdésben a 466/2024. (XII. 30.) Korm. rendelet 33. § i) pontja által elrendelt módosítás, amely szerint a „10%” szövegrész helyébe a „15%” szöveg lép, nem vezethető át.]

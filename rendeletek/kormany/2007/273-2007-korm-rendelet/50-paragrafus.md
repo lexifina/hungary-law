@@ -1,4 +1,4 @@
-50. §[^365] (1) Az elosztók az elosztói szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából szabályzati bizottságot hoznak létre és működtetnek.
+50. §[^368] (1) Az elosztók az elosztói szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából szabályzati bizottságot hoznak létre és működtetnek.
 
 (2) Az elosztók – a szabályzati bizottság bevonásával – kötelesek olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változás kihirdetését követő 90 napon belül a szükséges módosítások az elosztói szabályzatba átvezetésre, és a Hivatalhoz jóváhagyás céljából benyújtásra kerüljenek.
 
@@ -8,7 +8,7 @@ a) az érintett engedélyesi körök, és
 
 b) a nem engedélyköteles kiserőművek üzemeltetői, valamint a felhasználók reprezentatív érdekképviseleti szervezetei
 
-c)[^366] a miniszter
+c)[^369] a miniszter
 
 az általuk kijelölt képviselőik útján vesznek részt szavazati joggal.
 
@@ -24,5 +24,5 @@ az általuk kijelölt képviselőik útján vesznek részt szavazati joggal.
 
 (9) A szabályzati bizottság összehívását bármely érintett – képviselőjén keresztül – kezdeményezheti az elosztóknál.
 
-[^365]: A Vhr. 50. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^366]: A Vhr. 50. § (3) bekezdés c) pontját a 233/2025. (VII. 31.) Korm. rendelet 4. §-a iktatta be.
+[^368]: A Vhr. 50. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^369]: A Vhr. 50. § (3) bekezdés c) pontját a 233/2025. (VII. 31.) Korm. rendelet 4. §-a iktatta be.

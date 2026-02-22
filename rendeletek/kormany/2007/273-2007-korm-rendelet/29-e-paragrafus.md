@@ -1,4 +1,4 @@
-29/E. §[^268] (1) A VET 63/B. §-a, valamint e rendelet 29/E–29/H. §-a és 128/B. §-a alkalmazásában minimális szolgáltatás:
+29/E. §[^271] (1) A VET 63/B. §-a, valamint e rendelet 29/E–29/H. §-a és 128/B. §-a alkalmazásában minimális szolgáltatás:
 
 a) a társasház személyfelvonóinak működőképességéhez szükséges villamosenergia-ellátás és
 
@@ -14,15 +14,15 @@ biztosítása.
 
 a) a VET 63/B. § (2) bekezdés a) pontja szerinti társasház esetében
 
-aa)[^269] a társasházban lakó fogyatékossággal élő fogyasztó arra vonatkozó nyilatkozatával, amely szerint a védendő fogyasztók nyilvántartásában szerepel, vagy
+aa)[^272] a társasházban lakó fogyatékossággal élő fogyasztó arra vonatkozó nyilatkozatával, amely szerint a védendő fogyasztók nyilvántartásában szerepel, vagy
 
-ab)[^270] a társasházban lakó fogyatékossággal élő fogyasztó a 33. § (1) bekezdés b) pont ba) alpontja, bb) alpontja vagy bc) alpontja szerinti határozattal vagy igazolással,
+ab)[^273] a társasházban lakó fogyatékossággal élő fogyasztó a 33. § (1) bekezdés b) pont ba) alpontja, bb) alpontja vagy bc) alpontja szerinti határozattal vagy igazolással,
 
 b) a VET 63/B. § (2) bekezdés b) pontja szerinti társasház esetében a fizetési meghagyásos eljárás megindítását tanúsító dokumentummal.
 
-(5)[^271] A VET 63/B. § (2) bekezdés a) pontja szerinti esetben a minimális szolgáltatást egyidejűleg csak egy társasház veheti igénybe ugyanarra a fogyatékossággal élő fogyasztóra tekintettel.
+(5)[^274] A VET 63/B. § (2) bekezdés a) pontja szerinti esetben a minimális szolgáltatást egyidejűleg csak egy társasház veheti igénybe ugyanarra a fogyatékossággal élő fogyasztóra tekintettel.
 
-[^268]: A Vhr. 29/E. §-át a 119/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
-[^269]: A Vhr. 29/E. § (4) bekezdés a) pont aa) alpontja a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^270]: A Vhr. 29/E. § (4) bekezdés a) pont ab) alpontja a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^271]: A Vhr. 29/E. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^271]: A Vhr. 29/E. §-át a 119/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^272]: A Vhr. 29/E. § (4) bekezdés a) pont aa) alpontja a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^273]: A Vhr. 29/E. § (4) bekezdés a) pont ab) alpontja a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^274]: A Vhr. 29/E. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

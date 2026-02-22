@@ -1,4 +1,4 @@
-## Diszkontált rendszerhasználati díjvisszatérítés[^325]
+## Diszkontált rendszerhasználati díjvisszatérítés[^328]
 
 39/D. § (1) A VET 66/B. § (9) bekezdés a) pontja esetén az elosztó elszámolást segítő távlehívható fogyasztásmérőt (a továbbiakban: elszámolást segítő fogyasztásmérő) szerel fel a közcélú elosztó hálózat és az összekötő berendezés csatlakozási pontja mögé.
 
@@ -12,4 +12,4 @@
 
 (6) Az elosztó által a társasház részére kifizetett diszkontált rendszerhasználati díjvisszatérítés végső jogosultját a VET 66/B. § (9) bekezdése szerinti megállapodás rögzíti.
 
-[^325]: A Vhr. „Diszkontált rendszerhasználati díjvisszatérítés” alcímét (39/D. §-t) a 280/2025. (VIII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^328]: A Vhr. „Diszkontált rendszerhasználati díjvisszatérítés” alcímét (39/D. §-t) a 280/2025. (VIII. 21.) Korm. rendelet 8. §-a iktatta be.

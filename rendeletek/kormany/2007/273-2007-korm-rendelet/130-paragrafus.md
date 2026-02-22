@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^584]
+## Az Európai Unió jogának való megfelelés[^587]
 
-130. §[^585] (1) E rendelet
+130. §[^588] (1) E rendelet
 
 a) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i 2019/944/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -16,9 +16,9 @@ f) 24. számú melléklet 30. sora a kőolaj beszerzési költségeivel és a k�
 
 g) 24. számú melléklet 34. sora a szénhidrogének kutatására, feltárására és kitermelésére vonatkozó engedélyek megadásának és felhasználásának feltételeiről szóló, 1994. május 30-i 94/22/EK európai parlamenti és tanácsi irányelv 8. cikk (1) bekezdésének
 
-h)[^586] az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló 2023/2413 irányelvnek
+h)[^589] az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló 2023/2413 irányelvnek
 
-i)[^587] az (EU) 2018/2001 és az (EU) 2019/944 irányelvnek az uniós villamosenergia-piac szerkezetének javítása tekintetében történő módosításáról szóló, 2024. június 13-i (EU) 2024/1711 európai parlamenti és tanácsi irányelvnek
+i)[^590] az (EU) 2018/2001 és az (EU) 2019/944 irányelvnek az uniós villamosenergia-piac szerkezetének javítása tekintetében történő módosításáról szóló, 2024. június 13-i (EU) 2024/1711 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -34,7 +34,7 @@ d) 24. számú melléklet 19. sora a földgáz- és villamosenergia-árakra vona
 
 e) 24. számú melléklet 31. sora a kőolaj importja és szállítása közösségi nyilvántartásának bevezetéséről szóló, 1995. december 20-i 2964/95/EK európai tanácsi rendelet
 
-f)[^588] az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló (EU) 2024/1106 2024. április 11-i európai parlamenti és tanácsi rendelet
+f)[^591] az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló (EU) 2024/1106 2024. április 11-i európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -48,8 +48,8 @@ c) a versenyképtelen szénbányák bezárását elősegítő állami támogatá
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^584]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^585]: A Vhr. 130. §-a a 620/2022. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^586]: A Vhr. 130. § (1) bekezdés h) pontját a 466/2024. (XII. 30.) Korm. rendelet 31. § (1) bekezdése iktatta be, szövege a 280/2025. (VIII. 21.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^587]: A Vhr. 130. § (1) bekezdés i) pontját a 280/2025. (VIII. 21.) Korm. rendelet 12. §-a iktatta be.
-[^588]: A Vhr. 130. § (2) bekezdés f) pontját a 466/2024. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^587]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^588]: A Vhr. 130. §-a a 620/2022. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^589]: A Vhr. 130. § (1) bekezdés h) pontját a 466/2024. (XII. 30.) Korm. rendelet 31. § (1) bekezdése iktatta be, szövege a 280/2025. (VIII. 21.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^590]: A Vhr. 130. § (1) bekezdés i) pontját a 280/2025. (VIII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^591]: A Vhr. 130. § (2) bekezdés f) pontját a 466/2024. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.

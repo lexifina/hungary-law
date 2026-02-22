@@ -1,6 +1,6 @@
-## A könnyített térségek kijelölése[^500]
+## A könnyített térségek kijelölése[^503]
 
-103/B. § (1)[^501] Könnyített térség azon járás közigazgatási területén jelölhető ki, ahol
+103/B. § (1)[^504] Könnyített térség azon járás közigazgatási területén jelölhető ki, ahol
 
 a) naperőművek létesítése vagy bővítése esetén a globálsugárzás átlagos évi összege a járásra vetítve meghaladja a 4900 MJ/m2-t, vagy
 
@@ -10,5 +10,5 @@ b) szélerőművek létesítése vagy bővítése esetén a szélerőművek tele
 
 (3) A könnyített térség területén az időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyezési eljárásában az eljáró hatóság ügyintézési határideje legfeljebb 50 nap.
 
-[^500]: Az „A könnyített térségek kijelölése” alcímet (103/B. §-t) a 650/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^501]: A Vhr. 103/B. § (1) bekezdése a 398/2025. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^503]: Az „A könnyített térségek kijelölése” alcímet (103/B. §-t) a 650/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^504]: A Vhr. 103/B. § (1) bekezdése a 398/2025. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
