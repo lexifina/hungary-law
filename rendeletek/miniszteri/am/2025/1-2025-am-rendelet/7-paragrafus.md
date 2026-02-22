@@ -1,8 +1,8 @@
 7. § (1) A támogatási kérelemhez mellékelni kell
 
-a) az egyes akciók költségtervét alátámasztó, legalább három egymástól és a támogatást igénylőtől különböző, független ajánlattevőtől származó, azonos vagy hasonló paraméterekkel rendelkező, összehasonlítható, a támogatási kérelem benyújtásakor érvényes árajánlatot, annak igazolása érdekében, hogy az akciók megvalósításának költsége nem haladja meg a szokásos piaci árat;
+a)[^4] az egyes akciók költségtervét alátámasztó, legalább három, egymástól és a támogatást igénylőtől független ajánlattevőtől származó, azonos vagy összehasonlítható paraméterekkel rendelkező eszközre, szolgáltatásra vonatkozó, a támogatási kérelem benyújtásakor érvényes, az NKÜ honlapján közzétett, az 54/2023. (IX. 13.) AM rendelet 3. mellékletében meghatározott adattartalmú árajánlatot, és az ahhoz tartozó árajánlatbekérőt annak igazolása érdekében, hogy az akciók megvalósításának költsége nem haladja meg a szokásos piaci árat;
 
-b) a támogatást igénylő – támogatási kérelemben megjelölt önrésze legalább ötödének összegét tartalmazó – bankszámlájának kivonatát, amely nem lehet régebbi a támogatási kérelem benyújtási napját megelőző 15 napnál;
+b)[^5] a támogatást igénylő – támogatási kérelemben megjelölt önrésze legalább ötödének összegét tartalmazó – bankszámlájának kivonatát vagy banki igazolását, amely nem lehet régebbi a támogatási kérelem benyújtási napját megelőző 15 napnál;
 
 c) a 6. § (2) bekezdés d) pont dg) alpontjának igazolására az érintett támogatási döntés számát;
 
@@ -45,3 +45,9 @@ k) a 4. § (1) bekezdés b) pont bb) alpontja esetében a megbízási szerződé
 (3) Ha az (1) bekezdés a) pontja szerinti három árajánlat nem szerezhető be, akkor az ajánlattevő nyilatkozatának ki kell terjednie arra, hogy az árajánlattal érintett termék vagy szolgáltatás más forgalmazótól azért nem szerezhető be, mert annak kizárólagos forgalmazására az árajánlatot kiadó kizárólagosan jogosult, és az árajánlatban szereplő termék vagy szolgáltatás igénybevétele nélkül az adott akció nem lenne megvalósítható.
 
 (4) Ha a támogatást igénylő vállalja a program hatásait és eredményességét értékelő hatástanulmány elkészítését, akkor a támogatást igénylőnek az (1) bekezdés d) pontjához kapcsolódóan a kérelemhez csatolnia kell a támogatást igénylőtől, valamint a program végrehajtásában díjazás ellenében közreműködőtől független szervezet bemutatását.
+
+(5)[^6] A 4. § (1) bekezdés a) pont aa) és ab) alpontja szerinti támogatási kérelmet benyújtónak a támogatási kérelemhez nem kell mellékelnie a 7. § (1) bekezdés e) és i) pontjában meghatározott dokumentumot.
+
+[^4]: A 7. § (1) bekezdés a) pontja az 5/2026. (II. 19.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^5]: A 7. § (1) bekezdés b) pontja az 5/2026. (II. 19.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (5) bekezdését az 5/2026. (II. 19.) AM rendelet 11. § (2) bekezdése iktatta be.

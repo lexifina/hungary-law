@@ -1,4 +1,4 @@
-16/A. §[^3] E rendeletnek az agrártárgyú rendeletek adminisztrációs terheket csökkentő módosításáról szóló 57/2025. (XII. 22.) AM rendelettel [a továbbiakban: 57/2025. (XII. 22.) AM rendelet] megállapított 9. § (3) bekezdését és 11. § (1) bekezdés m) pontját az 57/2025. (XII. 22.) AM rendelet hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+16/A. §[^17] E rendeletnek az agrártárgyú rendeletek adminisztrációs terheket csökkentő módosításáról szóló 57/2025. (XII. 22.) AM rendelettel [a továbbiakban: 57/2025. (XII. 22.) AM rendelet] megállapított 9. § (3) bekezdését és 11. § (1) bekezdés m) pontját az 57/2025. (XII. 22.) AM rendelet hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^3]: A 16/A. §-t az 57/2025. (XII. 22.) AM rendelet 6. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2025. december 23.
+[^17]: A 16/A. §-t az 57/2025. (XII. 22.) AM rendelet 6. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2025. december 23.

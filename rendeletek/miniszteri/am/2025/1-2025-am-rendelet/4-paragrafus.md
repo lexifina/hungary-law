@@ -6,7 +6,7 @@ a) a 2. § (1) bekezdés a) pontja szerinti belpiaci borágazati promócióra
 
 aa) a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT),
 
-ab) a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 1. § 12. pontja szerinti földrajzi árujelzőt kezelő hegyközségi szervezet (a továbbiakban: földrajzi árujelzőt kezelő hegyközségi szervezet),
+ab)[^2] a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 1. § 12. pontja szerinti földrajzi árujelzőt kezelő hegyközségi szervezet (a továbbiakban: földrajzi árujelzőt kezelő hegyközségi szervezet), valamint a földrajzi árujelzőt kezelő hegyközségi szervezet 100%-os tulajdonában álló gazdasági társaság,
 
 ac) a hegyközségekről szóló 2012. évi CCXIX. törvény 4. § b) pontja szerinti borászati termelő (a továbbiakban: borászati termelő),
 
@@ -29,3 +29,5 @@ bb) az általuk megbízott természetes személy, jogi személy vagy jogi szemé
 (3) A támogatást igénylőnek – társulás esetén a társulás valamennyi résztvevőjének – legkésőbb a támogatási kérelem benyújtásának időpontjában szerepelnie kell a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdése szerinti nyilvántartásban.
 
 (4) A meghatalmazott útján történő eljárásra a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet [a továbbiakban: 54/2023. (IX. 13.) AM rendelet] képviseletre – kivéve a kamarai meghatalmazást – vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+[^2]: A 4. § (1) bekezdés a) pont ab) alpontja az 5/2026. (II. 19.) AM rendelet 9. §-ával megállapított szöveg.

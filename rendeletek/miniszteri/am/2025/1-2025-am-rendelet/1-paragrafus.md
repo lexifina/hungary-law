@@ -8,7 +8,7 @@
 
 ## [5] A támogatási kérelmek pontozása során figyelemmel kell lenni a programok költséghatékonyságára, valamint arra, hogy az üzenetek összhangban legyenek a földrajzi árujelzők kollektív jellegével.
 
-## [6] A nemzeti bormarketing program koherenciájának biztosítása érdekében előnyben részesülnek azok a kérelmek, amelyek összhangban állnak a nemzeti borpromóciós programmal, továbbá amelyek a magyar bor arculati kézikönyv arculati elemeit használják.
+## [6][^1] A nemzeti bormarketing program koherenciájának biztosítása érdekében előnyben részesülnek azok a kérelmek, amelyek összhangban állnak a nemzeti borpromóciós tervvel, továbbá amelyek a magyar bor arculati kézikönyv arculati elemeit használják.
 
 ## [7] A szőlőtermelők kérésére és érdekében kerül módosításra a szőlőültetvények szerkezetátalakításához és átállításához igényelhető támogatásról szóló 152/2023. (XII. 21.) AM rendelet.
 
@@ -39,3 +39,5 @@ történik;
 a) a társulásban való részvételre együttes nyilatkozatot tesznek, amelyben megjelölik a támogatást igénylő személyét, valamint
 
 b) jogosultak az agrártámogatási jogviszonyban elszámolható költségnek minősülő bizonylat kiállítására.
+
+[^1]: A [6] preambulumbekezdés az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.

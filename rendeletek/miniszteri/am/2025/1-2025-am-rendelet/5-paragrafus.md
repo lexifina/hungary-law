@@ -20,4 +20,12 @@ akciót kell tartalmaznia.
 
 (7) Az (5) bekezdés szerinti akció eredményeként elkészült közösségi arculati alapelem és annak szerzői jogai vonatkozásában a támogatást igénylő nyilatkozik, hogy azt az érintett földrajzi árujelzőt kezelő hegyközségi szervezet részére az e tevékenységet tartalmazó akció kifizetését követő 30 napon belül átadja.
 
-(8) A legfeljebb 12 hónapos megvalósítási időszakot tartalmazó program esetén a program kizárólag a 2. § (1) bekezdés b) pont ba) és bb) alpontja szerinti tevékenység megvalósításához kapcsolódó beutaztatásra, kiadvány, honlap elkészítésére, rendezvényen történő részvételre, valamint nyomtatott vagy elektronikus médiafelületen történő reklámtevékenységre irányulhat.
+(8)[^3] A legfeljebb 12 hónapos megvalósítási időszakot tartalmazó külpiaci borágazati promóciós program esetén a program kizárólag
+
+a) a 2. § (1) bekezdés b) pont ba) és bb) alpontja szerinti tevékenység megvalósítására és a hozzá kapcsolódó beutaztatásra, kiadvány, honlap elkészítésére, rendezvényen történő részvételre és nyomtatott vagy elektronikus médiafelületen történő reklámtevékenységre, valamint
+
+b) közösségi arculati alapelem elkészítésére
+
+irányulhat.
+
+[^3]: Az 5. § (8) bekezdése az 5/2026. (II. 19.) AM rendelet 10. §-ával megállapított szöveg.

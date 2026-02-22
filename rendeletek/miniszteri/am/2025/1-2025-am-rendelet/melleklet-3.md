@@ -8,7 +8,7 @@
 
 | 4. | Az érintett földrajzi árujelzőt kezelő hegyközségi szervezet a támogatási kérelemnek benyújtója vagy a támogatási kérelmet benyújtó társulásnak tagja |  | 5 |
 
-| 5. | A támogatási kérelemben foglalt program összhangja a nemzeti borpromóciós programmal | A program, valamint a benne bemutatott akciók tartalmának összhangja, kapcsolódási pontja a nemzeti borpromóciós programmal | 10 |
+| 5. | A támogatási kérelemben foglalt program összhangja a nemzeti borpromóciós tervvel[^22] | A program, valamint a benne bemutatott akciók tartalmának összhangja, kapcsolódási pontja a nemzeti borpromóciós tervvel[^23] | 10 |
 
 | 6. | A magyar bor arculati kézikönyv arculati elemeinek használatára vonatkozó nyilatkozat |  | 25 |
 
@@ -20,6 +20,8 @@
 
 | 10. | ÖSSZESEN |  | 100 |
 
-3. melléklet az 1/2025. (II. 11.) AM rendelethez[^7]
+3. melléklet az 1/2025. (II. 11.) AM rendelethez[^24]
 
-[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 2. mellékletben foglalt táblázat A:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^23]: A 2. mellékletben foglalt táblázat B:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^24]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
