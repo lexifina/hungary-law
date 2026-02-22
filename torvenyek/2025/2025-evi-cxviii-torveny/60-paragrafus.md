@@ -22,6 +22,6 @@
 
 11.
 
-12. 335. § (2) bekezdésében a „közvádra üldözendő” szövegrész,
+12.
 
-13. 845/A. § (2) bekezdésében a „szükség esetén” szövegrész.
+13.
