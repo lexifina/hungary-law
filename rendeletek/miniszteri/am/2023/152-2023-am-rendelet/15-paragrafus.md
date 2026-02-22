@@ -8,8 +8,8 @@ b) a telepítéshez felhasználni kívánt szaporítóanyag fajtája vagy típus
 
 c) a kialakítani kívánt művelésmód vagy
 
-d)[^21] az alkalmazott sor- és tőtávolság, olyan módon, hogy a változtatásból eredő hektáronkénti tőszám változása a támogatási okiratban szereplő, az 5. melléklet 1. pontjában foglalt táblázat C:3 mezőjében, 2. pontjában foglalt táblázat C:7 vagy C:8 mezőjében meghatározott pontértékek változását eredményezi.
+d)[^22] az alkalmazott sor- és tőtávolság, olyan módon, hogy a változtatásból eredő hektáronkénti tőszám változása a támogatási okiratban szereplő, az 5. melléklet 1. pontjában foglalt táblázat C:3 mezőjében, 2. pontjában foglalt táblázat C:7 vagy C:8 mezőjében meghatározott pontértékek változását eredményezi.
 
 (2) Az NKÜ az (1) bekezdésben meghatározottak szerinti módosítási kérelem alapján a támogatási okirat módosításával újra megállapítja az igényelhető támogatás maximális összegét, amely nem haladhatja meg a módosítást megelőzően jóváhagyott támogatási kérelem alapján megállapított támogatás összegét. A támogatási okirat módosítása esetén a 14. § (3) bekezdése alapján elért pontszám értéke nem csökkenhet a 14. § (5) bekezdése szerinti minimális pontszám alá.
 
-[^21]: A 15. § (1) bekezdés d) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés e) pontja szerint módosított szöveg.
+[^22]: A 15. § (1) bekezdés d) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés e) pontja szerint módosított szöveg.

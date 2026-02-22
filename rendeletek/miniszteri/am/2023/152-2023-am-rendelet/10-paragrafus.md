@@ -1,10 +1,10 @@
 ## 6. Jogosultsági feltételek és kiválasztási szempontok
 
-10. § (1)[^7] Támogatás fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése intézkedés keretében olyan területre igényelhető,
+10. § (1)[^8] Támogatás fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése intézkedés keretében olyan területre igényelhető,
 
 a) amelynek telepítését a támogatási kérelem benyújtását követően kezdik meg,
 
-b)[^8]
+b)[^9]
 
 c) amelyre vonatkozóan a kérelmező rendelkezik újratelepítési engedéllyel,
 
@@ -12,7 +12,7 @@ d) amelynek támogatható területnagysága eléri az 1. mellékletben meghatár
 
 e) amelyen az intézkedés végrehajtását követően a hektáronkénti tőszám eléri vagy meghaladja a 3500 tövet.
 
-(1a)[^9] Támogatás fajtaváltás és ültetvény áttelepítése intézkedés keretében olyan területre igényelhető, amely a támogatási kérelem benyújtását megelőző tíz borpiaci éven belül a 2. § a) vagy b) pontja szerinti támogatásban nem részesült.
+(1a)[^10] Támogatás fajtaváltás és ültetvény áttelepítése intézkedés keretében olyan területre igényelhető, amely a támogatási kérelem benyújtását megelőző tíz borpiaci éven belül a 2. § a) vagy b) pontja szerinti támogatásban nem részesült.
 
 (2) Támogatás termesztéstechnológiai módszerek javítása intézkedés keretében olyan területre igényelhető,
 
@@ -40,9 +40,9 @@ végrehajtott intézkedés során a tőszámnöveléssel telepített és a póto
 
 (6) A kiválasztási szempontrendszert az 5. melléklet tartalmazza.
 
-(7)[^10] A 2. § c) pontja szerinti újratelepítésre ugyanazon a földterületen támogatás akkor igényelhető, ha a kérelmező igazolja, hogy a növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást a kivágást elrendelő hatósági döntés szerint végrehajtotta, és a kivágás időpontjától számított három év eltelt. Nem igényelhető támogatás a Btv. 5. § (3) és (4) bekezdése alapján a szőlőültetvény rendeltetésszerű művelésének elmaradása miatt a hatóság által elrendelt kivágás alapján történő újratelepítés szándéka esetén.
+(7)[^11] A 2. § c) pontja szerinti újratelepítésre ugyanazon a földterületen támogatás akkor igényelhető, ha a kérelmező igazolja, hogy a növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást a kivágást elrendelő hatósági döntés szerint végrehajtotta. Nem igényelhető támogatás a Btv. 5. § (3) és (4) bekezdése alapján a szőlőültetvény rendeltetésszerű művelésének elmaradása miatt a hatóság által elrendelt kivágás alapján történő újratelepítés szándéka esetén.
 
-[^7]: A 10. § (1) bekezdés nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés b) pontja szerint módosított szöveg.
-[^8]: A 10. § (1) bekezdés b) pontját az 1/2025. (II. 11.) AM rendelet 19. § a) pontja hatályon kívül helyezte.
-[^9]: A 10. § (1a) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (4) bekezdése iktatta be.
-[^10]: A 10. § (7) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (5) bekezdése iktatta be.
+[^8]: A 10. § (1) bekezdés nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 10. § (1) bekezdés b) pontját az 1/2025. (II. 11.) AM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^10]: A 10. § (1a) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (4) bekezdése iktatta be.
+[^11]: A 10. § (7) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (5) bekezdése iktatta be, szövege az 5/2026. (II. 19.) AM rendelet 5. §-a szerint módosított szöveg.
