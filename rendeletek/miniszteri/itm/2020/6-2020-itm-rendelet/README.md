@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-6-20-7Q
 | 2025-01-18 | 2020-6-20-7Q.10 | 69/2023. (XII. 28.) GFM rendelet |
 | 2025-01-19 | 2020-6-20-7Q.11 | 2010: CXXX. törvény |
 | 2026-02-21 | 2020-6-20-7Q.12 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-02-22 | 2020-6-20-7Q.13 | 2010: CXXX. törvény |
