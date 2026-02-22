@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 16. § (2) bekezdése alapján 2026. február 22-én lép hatályba.
+2. § A 74/2013. (VIII. 30.) VM rendelet 14. §-ában a „VM rendelet” szövegrész helyébe a „VM rendelet [a továbbiakban: 39/2011. (V. 18.) VM rendelet]” szöveg lép.

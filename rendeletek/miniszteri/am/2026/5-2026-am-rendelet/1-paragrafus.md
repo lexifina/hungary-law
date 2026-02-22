@@ -18,6 +18,6 @@
 
 ## 1. Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet módosítása
 
-1. §[^1]
+1. § Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet [a továbbiakban: 74/2013. (VIII. 30.) VM rendelet] a következő 14/A. §-sal egészül ki:
 
-[^1]: Az 1. § a 16. § (2) bekezdése alapján 2026. február 22-én lép hatályba.
+„14/A. § A 14. § szerinti szerződés esetén a 39/2011. (V. 18.) VM rendelet 2. § (8i) bekezdése szerinti kamat- és kezelési költségtámogatás, kezességi díjtámogatás, valamint a szerződéshez kapcsolódó egyéb költségek költségtámogatásának igénybevételére a 39/2011. (V. 18.) VM rendelet 7. § (1) és (1d) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy a döntést a Magyar Államkincstár a közléssel egyidejűleg elektronikus úton megküldi a lebonyolítóként eljáró Élelmiszerlánc-biztonsági Centrum Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉLBC) részére. Az ÉLBC a támogatást a kártalanítási előirányzat terhére folyósítja a kártalanításra jogosult részére.”

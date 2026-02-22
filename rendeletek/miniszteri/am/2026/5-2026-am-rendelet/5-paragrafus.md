@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 16. § (2) bekezdése alapján 2026. február 22-én lép hatályba.
+5. § Hatályát veszti a 152/2023. (XII. 21.) AM rendelet 10. § (7) bekezdésében az „ , és a kivágás időpontjától számított három év eltelt” szövegrész.
