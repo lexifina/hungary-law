@@ -26,6 +26,8 @@ gd) több bejelentett üzemeltetési hely esetén a helyszíni ellenőrzésről 
 
 (1a)[^24] A 2. § (2) bekezdés e) pontja szerinti intézkedés esetében támogatás igénybevételére az (1) bekezdés b), f) és g) pontja szerinti feltételeket teljesítő szőlőtermelő vagy szőlőtermelők által alkotott konzorcium jogosult.
 
+(1b)[^25] Nem nyújthat be támogatási kérelmet az, akinek a 2. § (2) bekezdése szerinti bármely intézkedésben való jogosulatlan részvételét az NKÜ a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 37. §-a alapján végleges döntésével megállapította, a döntés véglegessé válásától számított 3 évig.
+
 (2) A Nébih a támogatási kérelem és a kifizetési kérelem benyújtási időszakának utolsó napjáig megküldi az NKÜ részére az (1) bekezdés d) és e) pontja szerinti borászati üzemek listáját, a borászati üzem helyrajzi számának és az üzemengedély számának feltüntetésével.
 
 (3) A támogatás igénybevételére jogosult az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 40. cikk (3) bekezdés c) pontja alapján
@@ -36,15 +38,16 @@ b) szőlőtermesztést is végző
 
 szőlészeti és borászati oktatási intézmény.
 
-(4)[^25] A támogatási kérelmet benyújtó konzorcium tagjai polgári jogi társasági szerződéssel (a továbbiakban: konzorciumi szerződés) arra vállalnak kötelezettséget, hogy a műveletet a támogatási kérelemben meghatározott módon közösen megvalósítják, és eleget tesznek a 10. és 11. §-ban meghatározott fenntartási időszakhoz kapcsolódó követelményeknek.
+(4)[^26] A támogatási kérelmet benyújtó konzorcium tagjai polgári jogi társasági szerződéssel (a továbbiakban: konzorciumi szerződés) arra vállalnak kötelezettséget, hogy a műveletet a támogatási kérelemben meghatározott módon közösen megvalósítják, és eleget tesznek a 10. és 11. §-ban meghatározott fenntartási időszakhoz kapcsolódó követelményeknek.
 
-(5)[^26] A konzorcium NKÜ előtt történő ügyeinek vitelére és képviseletére a konzorcium tagjai a konzorciumi szerződésben kijelölt egyetlen tagot jogosítanak fel.
+(5)[^27] A konzorcium NKÜ előtt történő ügyeinek vitelére és képviseletére a konzorcium tagjai a konzorciumi szerződésben kijelölt egyetlen tagot jogosítanak fel.
 
-(6)[^27] A konzorciumi tagoknak a támogatási döntésben foglaltak megszegéséért való felelősségét a konzorciumi szerződésben részletezni kell.
+(6)[^28] A konzorciumi tagoknak a támogatási döntésben foglaltak megszegéséért való felelősségét a konzorciumi szerződésben részletezni kell.
 
 [^22]: A 4. § (1) bekezdés nyitó szövegrésze a 38/2025. (VIII. 13.) AM rendelet 13. § 7. pontja szerint módosított szöveg.
 [^23]: A 4. § (1) bekezdés g) pont gb) alpontja a 38/2025. (VIII. 13.) AM rendelet 13. § 8. pontja szerint módosított szöveg.
 [^24]: A 4. § (1a) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (1) bekezdése iktatta be.
-[^25]: A 4. § (4) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
-[^26]: A 4. § (5) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
-[^27]: A 4. § (6) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^25]: A 4. § (1b) bekezdését az 5/2026. (II. 19.) AM rendelet 6. §-a iktatta be.
+[^26]: A 4. § (4) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^27]: A 4. § (5) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^28]: A 4. § (6) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
