@@ -1,0 +1,3 @@
+14/A. §[^66] A 14. § szerinti szerződés esetén a 39/2011. (V. 18.) VM rendelet 2. § (8i) bekezdése szerinti kamat- és kezelési költségtámogatás, kezességi díjtámogatás, valamint a szerződéshez kapcsolódó egyéb költségek költségtámogatásának igénybevételére a 39/2011. (V. 18.) VM rendelet 7. § (1) és (1d) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy a döntést a Magyar Államkincstár a közléssel egyidejűleg elektronikus úton megküldi a lebonyolítóként eljáró Élelmiszerlánc-biztonsági Centrum Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉLBC) részére. Az ÉLBC a támogatást a kártalanítási előirányzat terhére folyósítja a kártalanításra jogosult részére.
+
+[^66]: A 14/A. §-t az 5/2026. (II. 19.) AM rendelet 1. §-a iktatta be.
