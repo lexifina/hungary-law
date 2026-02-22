@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-44-20-8
 | 2013-08-01 | 2006-44-20-82.3 | 70/2013. (VII. 31.) VM rendelet |
 | 2015-06-06 | 2006-44-20-82.4 | 29/2015. (VI. 5.) FM rendelet |
 | 2023-01-01 | 2006-44-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
+| 2026-02-22 | 2006-44-20-82.6 | 2/2026. (II. 19.) KTM rendelet |

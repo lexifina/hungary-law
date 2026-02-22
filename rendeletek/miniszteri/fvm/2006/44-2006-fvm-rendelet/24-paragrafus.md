@@ -10,6 +10,6 @@ esetén szabad.
 
 (2) Átszámozást a helyrajziszámozás általános előírásai szerint kell végezni.
 
-(3)[^6] Az átszámozáshoz az illetékes kormányhivatalnak az ingatlan-nyilvántartásért felelős miniszter előzetes engedélyét meg kell kérnie.
+(3)[^8] Az átszámozáshoz az illetékes kormányhivatalnak az ingatlan-nyilvántartásért felelős miniszter előzetes engedélyét meg kell kérnie.
 
-[^6]: A 24. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 24. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 5. § c) pontja szerint módosított szöveg.
