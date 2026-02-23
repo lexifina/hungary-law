@@ -1,1 +1,3 @@
-4. § A 152/2023. (XII. 21.) AM rendelet 11. § (1) bekezdés a) pontjában a „Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény (a továbbiakban: KAP tv.)” szövegrész helyébe a „KAP tv.” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

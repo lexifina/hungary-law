@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 152/2023. (XII. 21.) AM rendelet 10. § (7) bekezdésében az „ , és a kivágás időpontjától számított három év eltelt” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
