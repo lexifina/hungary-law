@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-2-20-9D
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-02-22 | 2026-2-20-9D.1 | 2/2026. (II. 19.) KTM rendelet |
+| 2026-02-23 | 2026-2-20-9D.2 | 2010. évi CXXX. törvény |

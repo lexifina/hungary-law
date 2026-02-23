@@ -6,10 +6,6 @@
 
 ## 1. Az önálló ingatlanok helyrajziszámozásáról és az alrészletek megjelöléséről szóló 44/2006. (VI. 13.) FVM rendelet módosítása
 
-1. § Az önálló ingatlanok helyrajziszámozásáról és az alrészletek megjelöléséről szóló 44/2006. (VI. 13.) FVM rendelet
+1. §[^1]
 
-a) 6. § (1) bekezdésében a „18” szövegrész helyébe a „19” szöveg,
-
-b) 6. § (2) bekezdésében az „Egy épületen belül a lakások helyrajziszámozását 1-től 999-ig lehet végezni (pl. 128265/2858/BA/118)” szövegrész helyébe az „Egy épületen belül az egyéb önálló ingatlanok helyrajziszámozását 1-től 9999-ig lehet végezni (pl. 128265/2858/BA/1111)” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
