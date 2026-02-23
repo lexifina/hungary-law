@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 33. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 5. § (5d) bekezdése a következő d) ponttal egészül ki:
+1. §[^2]
 
-[Nem minősül a háztartási méretű kiserőmű üzemeltetője mint felhasználó és az őt ellátó villamosenergia-kereskedő között fennálló szerződés olyan módosításának, amely az (5c) bekezdés szerinti elszámolás alkalmazását alapozná meg az (5) bekezdésben meghatározott időszak letelte előtt, ha]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
