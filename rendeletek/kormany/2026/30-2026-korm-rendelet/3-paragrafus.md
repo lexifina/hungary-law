@@ -1,0 +1,1 @@
+3. § A Magyar Honvédség a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés e) és l) pontja alapján ellátja a 2. § (1) bekezdés szerinti koordinációs testület által védelemre kijelölt energetikai létesítmények és energiahálózati elemek őrzésével és védelmével kapcsolatos feladatokat.
