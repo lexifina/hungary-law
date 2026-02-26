@@ -1,6 +1,6 @@
 15. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-I.[^664] A járműkísérő lap tartalmi elemei
+I.[^670] A járműkísérő lap tartalmi elemei
 
 H
 
@@ -96,34 +96,4 @@ Kódszámok:
 
 1: ráfutófékes
 
-2: átmenőfékkel
-
-3: nyeregterhelés
-
-** A gépjárművek környezetvédelmi osztályba sorolását a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklet II. pontja alapján kell elvégezni.
-
-*** Sebességváltóra vonatkozó adatok
-
-0: mechanikus
-
-1: félautomata
-
-2: automata
-
-3: szekvenciális
-
-a járműkísérő lap kiállításának helye és ideje, a kiállító aláírása, a bélyegzőlenyomat helye
-
-(A) rendszám
-
-(B) a jármű első nyilvántartásba vételének időpontja
-
-(C.1.) személyi adatok
-
-(C.1.1.) családi név vagy cégnév
-
-(C.1.2.) utóneve
-
-(C.1.3) címe
-
-[^664]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^670]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.

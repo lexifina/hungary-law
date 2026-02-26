@@ -1,4 +1,4 @@
-49. § (1)[^264] A közlekedési igazgatási hatóság visszautasítja a jármű forgalomba helyezése iránti kérelmet, valamint a törzskönyv és a forgalmi engedély kiadását, ha a jármű tulajdonjogát és származását hitelt érdemlően nem igazolják. Ha a járművet ennek ellenére forgalomba helyezték, a közlekedési igazgatási hatóság a jármű forgalomban való további részvételét megtiltja és a forgalmi engedélyt, valamint a törzskönyvet bevonja.
+49. § (1)[^264] A közlekedési igazgatási hatóság visszautasítja a jármű forgalomba helyezése iránti kérelmet, valamint a törzskönyv és a forgalmi engedély kiadását, ha a jármű tulajdonjogát, származását és a forgalomba helyezés e rendeletben meghatározott feltételét hitelt érdemlően nem igazolják. Ha a jármű forgalomba helyezésére úgy került sor, hogy a tulajdonjogát, a származását vagy a forgalomba helyezés e rendeletben meghatározott feltételét nem igazolták, a közlekedési igazgatási hatóság a jármű forgalomban való további részvételét megtiltja, és a forgalmi engedélyt, valamint a törzskönyvet bevonja.
 
 (2)[^265] Bűncselekményre utaló körülmények esetében a közlekedési igazgatási hatóság a törzskönyv és a forgalmi engedély kiadását visszautasító határozatot közli a kérelmező lakcíme szerint illetékes rendőrkapitánysággal.
 
@@ -6,6 +6,6 @@
 
 (4)[^266] A jármű üzemben tartói joga a törzskönyv kiadására irányuló kérelem visszautasítása esetén is átruházható.
 
-[^264]: A 49. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 20. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^264]: A 49. § (1) bekezdése a 369/2025. (XI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^265]: A 49. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^266]: A 49. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

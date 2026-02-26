@@ -20,7 +20,7 @@
 
 ## A 63/A. § (2) bekezdés 12. pontja alapján kiadott I betűjelű ideiglenes rendszámtábla alapszíne fehér, karakterei és a keret színe piros, az I betűjelet követő címer után három számjegyet, kötőjelet és a fogyásnak megfelelő kiadási sorrendben SP, SO, SR, ST betűjelet tartalmaz. A számjegyek 001–999-ig terjednek.
 
-14/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^663]
+14/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^669]
 
 Az 53. § (2) bekezdés c) pontja szerinti ideiglenes rendszámtáblák ábrái
 
@@ -32,4 +32,4 @@ Az 53. § (2) bekezdés c) pontja szerinti ideiglenes rendszámtáblák ábrái
 
 4. ábra: a 14/A. melléklet B. pontja szerinti I betűjelű ideiglenes rendszámtábla
 
-[^663]: A 14/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
+[^669]: A 14/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.

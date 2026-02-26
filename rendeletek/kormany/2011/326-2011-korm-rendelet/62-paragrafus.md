@@ -4,5 +4,8 @@
 
 (2)[^336] Az RA kezdő betűjelű rendőrségi rendszámtábla olyan szolgálati járműre szerelhető fel, amelynek külső kialakítása e szolgálati jelleget tükrözi.
 
+(3)[^337] A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépjármű esetén az (1) bekezdés szerinti rendszámtábla karaktereinek megtartása mellett, világoszöld alapszínű rendszámtáblára cserélhető.
+
 [^335]: A 62. § (1) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^336]: A 62. § (2) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^337]: A 62. § (3) bekezdését a 369/2025. (XI. 28.) Korm. rendelet 5. §-a iktatta be.
