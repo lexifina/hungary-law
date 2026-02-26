@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-301-20-
 | 2022-01-01 | 2009-301-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2025-09-01 | 2009-301-20-22.14 | 155/2025. (VI. 23.) Korm. rendelet |
 | 2026-01-01 | 2009-301-20-22.15 | 342/2025. (X. 31.) Korm. rendelet |
+| 2026-02-26 | 2009-301-20-22.16 | 369/2025. (XI. 28.) Korm. rendelet |
