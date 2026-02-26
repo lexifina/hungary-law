@@ -1,5 +1,5 @@
 ## 3. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-3. §[^3]
+3. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet [a továbbiakban: 326/2011. (XII. 28.) Korm. rendelet] 49. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 15. § (2) bekezdése alapján 2026. február 26-án lép hatályba.
+„(1) A közlekedési igazgatási hatóság visszautasítja a jármű forgalomba helyezése iránti kérelmet, valamint a törzskönyv és a forgalmi engedély kiadását, ha a jármű tulajdonjogát, származását és a forgalomba helyezés e rendeletben meghatározott feltételét hitelt érdemlően nem igazolják. Ha a jármű forgalomba helyezésére úgy került sor, hogy a tulajdonjogát, a származását vagy a forgalomba helyezés e rendeletben meghatározott feltételét nem igazolták, a közlekedési igazgatási hatóság a jármű forgalomban való további részvételét megtiltja, és a forgalmi engedélyt, valamint a törzskönyvet bevonja.”

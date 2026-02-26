@@ -1,3 +1,3 @@
-5. §[^5]
+5. § A 326/2011. (XII. 28.) Korm. rendelet 62. §-a a következő (3) bekezdéssel egészül ki:
 
-[^5]: Az 5. § a 15. § (2) bekezdése alapján 2026. február 26-án lép hatályba.
+„(3) A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépjármű esetén az (1) bekezdés szerinti rendszámtábla karaktereinek megtartása mellett, világoszöld alapszínű rendszámtáblára cserélhető.”

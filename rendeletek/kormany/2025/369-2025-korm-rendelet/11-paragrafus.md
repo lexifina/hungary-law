@@ -1,3 +1,1 @@
-11. §[^14]
-
-[^14]: A 11. § a 15. § (2) bekezdése alapján 2026. február 26-án lép hatályba.
+11. § A 326/2011. (XII. 28.) Korm. rendelet 13/A. melléklete a 2. melléklet szerint módosul.

@@ -1,3 +1,3 @@
-7. §[^8]
+7. § A 326/2011. (XII. 28.) Korm. rendelet 101. § (1) bekezdése a következő m) ponttal egészül ki:
 
-[^8]: A 7. § a 15. § (2) bekezdése alapján 2026. február 26-án lép hatályba.
+[A közlekedési igazgatási hatóság – a kivonási okot észlelő hatóság értesítése alapján – a jármű forgalomból történő kivonását hivatalból rendeli el a 96. § (1) bekezdésében, valamint a 97. § (1) bekezdés e) pontjában meghatározott esetekben, továbbá, ha]

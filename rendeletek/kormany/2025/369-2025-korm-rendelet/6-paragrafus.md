@@ -1,6 +1,9 @@
-6. § (1)[^6]
+6. § (1) A 326/2011. (XII. 28.) Korm. rendelet 97. § (1) bekezdése a következő f) ponttal egészül ki:
 
-(2)[^7]
+(Az ellenőrző hatósági személy a hatósági engedélyt és jelzést a helyszínen elveszi, ha)
 
-[^6]: A 6. § (1) bekezdése a 15. § (2) bekezdése alapján 2026. február 26-án lép hatályba.
-[^7]: A 6. § (2) bekezdése a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.
+## „f) a járműre rögzített vagy mozgatható üzemmódú megkülönböztető jelzést adó készüléket jogszerűtlenül szereltek vagy helyeztek fel.”
+
+(2)[^3]
+
+[^3]: A 6. § (2) bekezdése a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.
