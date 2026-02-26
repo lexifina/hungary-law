@@ -1,0 +1,35 @@
+|  | A | B | C | D | E | F | G | H |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Megítélt támogatás (forint) | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
+
+| 2. | TOP_PLUSZ-1.2.1- 21-BA1-2022-00005 | Ha Rendezvénytér, akkor család, élmény, kikapcsolódás! | Villány Város Önkormányzata (konzorciumvezető) Baranya Vármegyei Önkormányzati Hivatal | 299 363 528 | 299 363 528 | 177 016 668 | 476 380 196 | A projekt során a Rendezvénytér meglévő játszótere kerül kibővítésre egy nagyobb korosztály számára alkalmas új játszóeszközzel, és helyet kap még egy kávézóépület mosdókkal és terasszal. |
+
+| 3. | TOP_PLUSZ-1.2.1-21- HB1-2022-00016 | Kulturális infrastruktúra fejlesztése Létavértesen | Létavértes Városi Önkormányzat | 200 300 000 | 200 300 000 | 75 583 363 | 275 883 363 | A projekt keretében Létavértes településen található Művelődési ház korszerűsítése és átépítése valósul meg, az épület tetőfelületére 17 kWp teljesítményű napelemrendszer, háztartási kiserőmű telepítése tervezett. |
+
+| 4. | TOP_PLUSZ-1.2.1-21- HB1-2022-00048 | Gázláng Pálya zöld infrastrukturális fejlesztése Hajdúszoboszlón | Hajdúszoboszló Város Önkormányzata | 499 802 513 | 499 802 513 | 125 480 907 | 625 283 420 | A fejlesztés célja, hogy az egykoron közkedvelt gázláng sporttelep visszakapja egykori fényét, egy modern, sportolásra és rekreációra alkalmas multifunkciós közösségi térré váljon. |
+
+| 5. | TOP_PLUSZ-1.2.1-21- KO1-2022-00001 | Lábatlan város csapadékvíz-elvezetésének fejlesztése | Lábatlan Város Önkormányzata (konzorciumvezető) Komárom-Esztergom Megyei Területfejlesztési Korlátolt Felelősségű Társaság | 160 000 000 | 160 000 000 | 77 208 279 | 237 208 279 | A projekt során Lábatlan csapadékvíz elvezető rendszerének 2 helyszínen: a Cementgyári lakótelepen, valamint a Damjanich utcán való rekonstrukciója valósul meg. |
+
+| 6. | TOP_PLUSZ-1.2.1-21- KO1-2022-00021 | Kecskéd község művelődési házának korszerűsítése | Kecskéd Község Önkormányzata (konzorciumvezető) Komárom-Esztergom Megyei Területfejlesztési Korlátolt Felelősségű Társaság | 179 998 557 | 179 998 557 | 70 150 053 | 250 148 610 | A projekt keretében Kecskéd Művelődési Ház épülete, valamint az épületben megtalálható színház és könyvtár helyiségek kerülnek korszerűsítésre. |
+
+| 7. | TOP_PLUSZ-1.2.1-21- KO1-2022-00024 | Zöld szabadidőpark fejlesztése Ászáron | Ászár Község Önkormányzat (konzorciumvezető) Komárom-Esztergom Megyei Területfejlesztési Korlátolt Felelősségű Társaság | 139 887 204 | 139 887 204 | 52 349 382 | 192 236 586 | A projekt során új szabadidőpark jön létre, melynek szolgáltatásai: kult-domb (egyben nézőtér is), szánkódomb, okospad, tanösvény, piknik-tér, szabadtéri színpad, mese tanösvény, esőkert, sétány, futóút, tűzrakó. |
+
+| 8. | TOP_PLUSZ-1.2.1-21- KO1-2022-00025 | Közösségi ház kialakítása Mocsán | Mocsa Község Önkormányzata | 200 090 000 | 200 090 000 | 89 688 580 | 289 778 580 | A projekt során az önkormányzat a tulajdonában lévő, jelenleg nem használt épület átalakításával, felújításával a régi faluközpontban egy integrált közösségi épületet hoz létre, ahol helyet kap a könyvtár, valamint a népdalkör, a nyugdíjasklub foglalkozásai, táncfoglalkozások, baba-mama klub. |
+
+| 9. | TOP_PLUSZ-1.2.1-21- KO1-2022-00027 | Szomód Község közösségi célú fejlesztése | Szomód Község Önkormányzata | 200 078 765 | 200 078 765 | 89 434 213 | 289 512 978 | A projekt során a település művelődési házának energetikai felújítása, a nézőtéri és színpadi terület és az azok megközelítéséhez szükséges útvonalak padlószerkezetei és burkolatai, valamint falburkolatainak korszerűsítése valósul meg. |
+
+| 10. | TOP_PLUSZ-2.1.1-21- SB1-2022-00057 | Energetikai korszerűsítés Laskodon | Laskod Község Önkormányzata | 31 620 000 | 31 620 000 | 22 750 250 | 54 370 250 | A projekt során a Laskod Polgármesteri Hivatal és Művelődési ház épületének energetikai fejlesztése valósul meg napelem-telepítés, az épület külső hő- és hangszigetelése és nyílászáró csere révén. |
+
+| 11. | TOP_PLUSZ-3.3.1-21- BK1-2022-00027 | Kunadacsi Igazgyöngy Óvoda Infrastrukturális fejlesztése | Kunadacs Község Önkormányzata (konzorciumvezető) BKMFÜ Bács-Kiskun Megyei Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 80 750 000 | 80 750 000 | 87 480 001 | 168 230 001 | A projekt során a Kunadacsi Igazgyöngy Óvoda 1 db 20 férőhelyes csoportszoba bővítése valósul meg. |
+
+| 12. | TOP_PLUSZ-3.3.1-21- HB1-2022-00009 | A hajdúszoboszlói Lurkó Óvoda korszerűsítése | Hajdúszoboszló Város Önkormányzata | 300 000 000 | 300 000 000 | 172 806 110 | 472 806 110 | A projekt keretében a Lurkó Óvoda épületének felújítása, akadálymentesítése, új parkolók kialakítása és a játszóudvar megújítása valósul meg. |
+
+| 13. | TOP_PLUSZ-3.3.1-21- JN1-2022-00005 | Óvoda bővítése Alattyánon | Alattyán Község Önkormányzata | 110 037 730 | 109 584 584 | 76 597 390 | 186 181 974 | A projekt célja az Alattyáni Óvoda férőhelybővítése ingatlanfelújítás keretében. Az óvoda esetében legalább egy új, 20 fő befogadásra alkalmas csoportszobával történő férőhelybővítés valósul meg, valamint eszközbeszerzés és parkolók kialakítása. |
+
+| 14. | TOP_PLUSZ-3.3.2-21- SO1-2022-00009 | Orvosi rendelők felújítása Balatonberényben és Vörsön | Balatonberény Község Önkormányzata (konzorciumvezető) Vörs Község Önkormányzata Somogy Vármegyei Önkormányzat | 180 000 000 | 180 000 000 | 64 225 323 | 244 225 323 | A projekt célja a Balatonberény, Béke utca 2., hrsz. 36/2. szám alatti, a háziorvosi szolgálatnak, a védőnői szolgálatnak, az orvosi lakásnak helyet adó épület átalakítása, korszerűsítése, bővítése, akadálymentesítése és a meglévő eszközpark fejlesztése, valamint a vörsi háziorvosi szolgálatnak és a felújítást követően a védőnői szolgálatnak is helyet adó orvosi rendelő épületének belső felújítása, átalakítása, korszerűsítése, akadálymentesítése. |
+
+| 15. | TOP_PLUSZ-6.1.3-21- PT1-2022-00010 | Szokolya Zöld Szíve – Természetközeli élménytér létrehozása | Szokolya Község Önkormányzata | 301 832 805 | 369 604 066 | 56 235 843 | 425 839 909 | A projekt során három fejlesztés valósul meg, Solymász múzeum és kapcsolódó terek kialakítása, Élménypark kialakítása a település központjában, több helyszínen parkolók létrehozása. |
+
+| 16. | TOP_PLUSZ-6.1.3-21- VE1-2022-00047 | Szigliget turisztikai attrakciófejlesztése | Szigliget Község Önkormányzata | 598 989 531 | 598 989 531 | 199 763 045 | 798 752 576 | A projekt keretében egy hét állomásból álló történelmi tanösvény kerül kialakításra a településen tájékoztató táblák, térképek kihelyezésével, illetve aminek részeként az Avasi templomrom romkonzerválása, Látogatóközpont építése, kilátópont létesítése, Paál József kiállítótér fejlesztése is megtörténik. Ezenfelül a projekt részeként strandfejlesztés is megvalósul a parkoló felújításával, a strand egyes épületeire történő napelemes rendszer telepítésével, illetve kerékpáros fejlesztés részeként mintegy 3,5 km hosszú kerékpáros létesítmény kerül kialakításra. |
+
+2. melléklet az 1062/2026. (II. 26.) Korm. határozathoz
