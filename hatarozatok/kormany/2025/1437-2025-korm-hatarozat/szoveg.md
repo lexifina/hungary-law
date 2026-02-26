@@ -1,6 +1,6 @@
 A Kormány az Úszó Nemzet Programmal összehangolt, a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program III. ütemében javasolt tanuszoda-fejlesztések előkészítéséhez szükséges további intézkedésekről szóló 1681/2021. (IX. 29.) Korm. határozatban foglaltak érdekében
 
-1. egyetért a vasvári tanuszoda előkészítésével (a továbbiakban: Beruházás);
+1.[^1] egyetért a vasvári tanuszoda előkészítésével és megvalósításával (a továbbiakban: Beruházás);
 
 2. egyetért azzal, hogy a Beruházás előkészítője és megvalósítója az Építési és Közlekedési Minisztérium (a továbbiakban: minisztérium) legyen;
 
@@ -9,3 +9,5 @@ A Kormány az Úszó Nemzet Programmal összehangolt, a Nemzeti Köznevelési In
 | Felelős: | építési és közlekedési miniszter honvédelmi miniszter |
 
 | Határidő: | a feltételes eljárások lefolytatását követően |
+
+[^1]: Az 1. pont az 1056/2026. (II. 26.) Korm. határozat szövegével megállapított szöveg.
