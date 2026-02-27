@@ -24,7 +24,7 @@ d) a szintek akusztikus jelzését és tapintással olvasható szintszámozást,
 
 (7) A járó- és fekvőbetegek gyógykezelésére és ápolására, valamint idősek gondozására szolgáló építményeket hordágy, betegágy szállítására is alkalmas felvonóval kell tervezni és megvalósítani, az (1) bekezdés követelményének megfelelően.
 
-(8)[^121]
+(8)[^122]
 
 (9) Építményszintek közötti rendszeres teherszállítás céljára teherfelvonót vagy személyszállításra is alkalmas teherfelvonót kell létesíteni.
 
@@ -32,7 +32,7 @@ d) a szintek akusztikus jelzését és tapintással olvasható szintszámozást,
 
 (11) Többlakásos lakóépület felvonóját úgy kell létesíteni, hogy az alkalmas legyen akadálymentes használatra.
 
-(12)[^122]
+(12)[^123]
 
-[^121]: A 110. § (8) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 77. § d) pontja hatályon kívül helyezte.
-[^122]: A 110. § (12) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 77. § d) pontja hatályon kívül helyezte.
+[^122]: A 110. § (8) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 77. § d) pontja hatályon kívül helyezte.
+[^123]: A 110. § (12) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 77. § d) pontja hatályon kívül helyezte.

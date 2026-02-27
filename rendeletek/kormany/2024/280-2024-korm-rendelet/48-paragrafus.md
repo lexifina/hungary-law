@@ -14,7 +14,7 @@
 
 (7) A nyúlvány szélessége – a nyúlvány teljes hosszában – 3,00 méternél keskenyebb és 6,00 méternél szélesebb nem lehet.
 
-(8)[^89] A nyúlvány 50 méternél hosszabb nem lehet, kivéve, ha a helyi építési szabályzat a zárványtelek megközelítése érdekében másként rendelkezik.
+(8)[^90] A nyúlvány 50 méternél hosszabb nem lehet, kivéve, ha a helyi építési szabályzat a zárványtelek megközelítése érdekében másként rendelkezik.
 
 (9) A teleknyúlvány tengelye törtvonalú is lehet, ha a terepviszonyok ezt indokolják, ugyanakkor a (7) és (8) bekezdésben foglaltak ebben az esetben is irányadóak.
 
@@ -24,4 +24,4 @@
 
 (12) A nyúlványos telek kialakítása során a 2. melléklet 9. ábráját figyelembe kell venni.
 
-[^89]: A 48. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 46. pontja szerint módosított szöveg.
+[^90]: A 48. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 46. pontja szerint módosított szöveg.

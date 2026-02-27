@@ -2,7 +2,7 @@
 
 a) a csatlakozó terepszinttől mért 2,50 méter magasságig
 
-aa)[^98] a határvonaltól mért 0,50 méter széles biztonsági sávban elhelyezett szerkezeti elem – ideértve az előlépcső, kirakat, levélgyűjtőszekrény, ablakrács, reklámhordozó, világítótest, falra kihajtva rögzített nyílószárny, szolgáltató automata –, amely a közlekedők által könnyen észlelhető és kialakítása baleseti veszélyt nem jelent, továbbá, ha az 0,40 méter magasság felett kerül elhelyezésre, annak a biztonsági sávra eső vetülete legalább 0,10 méter magas vagy 0,60 méter széles, a környező járófelület felületképzésétől, lábbal tapinthatóan, jelentősen eltérő burkolatú jelzősávval körül van véve,
+aa)[^99] a határvonaltól mért 0,50 méter széles biztonsági sávban elhelyezett szerkezeti elem – ideértve az előlépcső, kirakat, levélgyűjtőszekrény, ablakrács, reklámhordozó, világítótest, falra kihajtva rögzített nyílószárny, szolgáltató automata –, amely a közlekedők által könnyen észlelhető és kialakítása baleseti veszélyt nem jelent, továbbá, ha az 0,40 méter magasság felett kerül elhelyezésre, annak a biztonsági sávra eső vetülete legalább 0,10 méter magas vagy 0,60 méter széles, a környező járófelület felületképzésétől, lábbal tapinthatóan, jelentősen eltérő burkolatú jelzősávval körül van véve,
 
 ab) a közterületi járda gyalogossávjába nyílószárny, kirakat,
 
@@ -22,4 +22,4 @@ c) a terepszinttől mért 3,00 méter és a közúti űrszelvény-magasság (4,7
 
 (7) Az építmény közterületen történő elhelyezése során a 2. melléklet 10. ábráját figyelembe kell venni.
 
-[^98]: Az 57. § (1) bekezdés a) pont aa) alpontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 51. pontja szerint módosított szöveg.
+[^99]: Az 57. § (1) bekezdés a) pont aa) alpontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 51. pontja szerint módosított szöveg.

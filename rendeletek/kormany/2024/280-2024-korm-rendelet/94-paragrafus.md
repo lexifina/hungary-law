@@ -1,4 +1,4 @@
-94. § (1)[^116] Légakna a 13,65 méter és annál magasabban lévő legfelső építményszinttel rendelkező építményben nem létesíthető, kivéve, ha a szomszédos meglévő épület légaknájához szükséges csatlakozni.
+94. § (1)[^117] Légakna a 13,65 méter és annál magasabban lévő legfelső építményszinttel rendelkező építményben nem létesíthető, kivéve, ha a szomszédos meglévő épület légaknájához szükséges csatlakozni.
 
 (2) A légakna alapterülete legalább 0,96 m2, alaprajzi legkisebb mérete legalább 0,80 méter, alaprajzi méreteinek aránya 1:1 és 1:1,5 közötti kell, hogy legyen. A légakna legkisebb keresztmetszete a szellőzés biztosítása érdekében utólagosan csak akkor csökkenthető, ha a légakna legkisebb mérete továbbra is biztosított marad.
 
@@ -22,4 +22,4 @@ b) gazdasági tevékenység céljára szolgáló bűzös, gőzös üzemű helyis
 
 (10) A szomszédos telekkel közös határvonalon álló tűzfalban kiképzett légaknára kizárólag nem huzamos tartózkodás célját szolgáló és nem tűzveszélyes anyag tárolására igénybe vett helyiségek szellőzői vagy a helyiség alapterület legfeljebb 1/10 részének megfelelő nyílófelületű szellőzőablakai nyithatók, a szellőzésre vonatkozó általános előírások megtartásával és legalább 1,80 méteres mellvédmagassággal.
 
-[^116]: A 94. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 56. pontja szerint módosított szöveg.
+[^117]: A 94. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 56. pontja szerint módosított szöveg.

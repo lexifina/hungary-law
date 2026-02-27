@@ -8,6 +8,6 @@
 
 (2) Az építmény rendeltetésszerű használatából eredő hatások nem okozhatják az élettartam, a teherhordó képesség, a hang- vagy hőszigetelő képesség csökkenését a tartószerkezetekben.
 
-(3)[^113] Faanyagú, valamint vályog tartószerkezeten – az építmény alapozásának, lábazatának kivételével – annak szellőzését gátló bevonat, burkolat nem alkalmazható.
+(3)[^114] Faanyagú, valamint vályog tartószerkezeten – az építmény alapozásának, lábazatának kivételével – annak szellőzését gátló bevonat, burkolat nem alkalmazható.
 
-[^113]: A 81. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 55. pontja szerint módosított szöveg.
+[^114]: A 81. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 55. pontja szerint módosított szöveg.

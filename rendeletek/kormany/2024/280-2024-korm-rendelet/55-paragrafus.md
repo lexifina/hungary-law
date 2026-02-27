@@ -34,8 +34,8 @@ a) gyorsforgalmi út esetében 100-100 méter széles területen,
 
 b) főút esetében 50-50 méter széles területen.
 
-(10)[^97] Országos törzshálózati vasúti pálya szélső vágányától számított 50-50 méter, valamint egyéb környezeti hatásvizsgálathoz kötött vasúti üzemi létesítmény esetében 100-100 méter távolságon belül építmény csak az ágazati jogszabályokban foglalt követelmények szerint helyezhető el, kivéve a kialakult beépítéssel rendelkező területeket.
+(10)[^98] Országos törzshálózati vasúti pálya szélső vágányától számított 50-50 méter, valamint egyéb környezeti hatásvizsgálathoz kötött vasúti üzemi létesítmény esetében 100-100 méter távolságon belül építmény csak az ágazati jogszabályokban foglalt követelmények szerint helyezhető el, kivéve a kialakult beépítéssel rendelkező területeket.
 
 (11) Katasztrófaveszélynek, katasztrófa kockázatnak kitett területen beépítésre szánt területet kijelölni, illetve épületet elhelyezni csak a település katasztrófavédelmi besorolásának és a veszélyeztető hatásnak a figyelembevételével lehet.
 
-[^97]: Az 55. § (10) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 50. pontja szerint módosított szöveg.
+[^98]: Az 55. § (10) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 76. § 50. pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ c) az a) és b) pontban foglaltak hiányában 5,00 méter.
 
 (3) Az oldalkert legkisebb szélessége
 
-a)[^82] szabadon álló és ikresen csatlakozó beépítési mód esetén az adott építési övezetre meghatározott legnagyobb párkánymagasság fele,
+a)[^83] szabadon álló és ikresen csatlakozó beépítési mód esetén az adott építési övezetre meghatározott legnagyobb párkánymagasság fele,
 
 b) az oldalhatáron álló beépítési mód esetén
 
@@ -34,4 +34,4 @@ c) az a) és b) pontban foglaltak hiányában az épület hátsókertre néző p
 
 (6) Az építési hely meghatározásánál a 2. melléklet 5–8. ábráját kell figyelembe venni.
 
-[^82]: A 46. § (3) bekezdés a) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 45. pontja szerint módosított szöveg.
+[^83]: A 46. § (3) bekezdés a) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 45. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A telken a fákat úgy kell telepíteni, hogy azok biztosítsák az épület nyári árnyékolását.
 
-(3)[^90] A telken a fákat úgy kell telepíteni, hogy gyökérzetükkel és ágrendszerükkel ne károsítsák a telek és a szomszédos telkek építményeit. Ennek érdekében a telepített fa épülettől és az ingatlan kerítésétől való távolsága – ide nem értve a közterületi határvonalon álló kerítést –
+(3)[^91] A telken a fákat úgy kell telepíteni, hogy gyökérzetükkel és ágrendszerükkel ne károsítsák a telek és a szomszédos telkek építményeit. Ennek érdekében a telepített fa épülettől és az ingatlan kerítésétől való távolsága – ide nem értve a közterületi határvonalon álló kerítést –
 
 a) nagy lombkoronájú fa és nagy méretű örökzöld esetén legalább 3,00 méter,
 
@@ -12,4 +12,4 @@ c) kis lombkoronájú fa és kis méretű örökzöld esetén legalább 1,00 mé
 
 (4) A 60. § (1) és (2) bekezdésében előírt fásítási követelmények teljesítése beleszámít a telek zöldfelületi ellátottságára vonatkozó 49. §-ban és az e §-ban szereplő követelmények teljesítésébe.
 
-[^90]: Az 50. § (3) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 76. § 47. pontja szerint módosított szöveg.
+[^91]: Az 50. § (3) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 76. § 47. pontja szerint módosított szöveg.

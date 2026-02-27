@@ -24,7 +24,7 @@ c) az oldalhatárra kiépített lakóépület esetében a szomszéd ingatlanra l
 
 azzal, hogy az érintett telkek beépítettsége ennek megfelelően eltérhet az építési övezetre, övezetre előírt megengedett legnagyobb beépítettség mértékétől, az utólagos hőszigetelés és az ehhez kapcsolódó homlokzatburkolás által elfoglalt terület mértékével.
 
-(3)[^83] Építési határvonalon kívülre eső épületrész – az (1) bekezdésben meghatározottakon túl –
+(3)[^84] Építési határvonalon kívülre eső épületrész – az (1) bekezdésben meghatározottakon túl –
 
 a) az előkert fölé a rendezett tereptől legalább 2,10 méter magasságban – legfeljebb 1,00 méteres benyúlással – a legalább 5,00 méteres előkert méret,
 
@@ -38,7 +38,7 @@ esetében létesíthető, ha a helyi építési szabályzat megengedi és az ál
 
 (4) A (3) bekezdés a), c) és d) pontja szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 1/2-e lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,00 méter távolságra lehet.
 
-(5)[^84] Az elő- és oldalkertben nem helyezhető el:
+(5)[^85] Az elő- és oldalkertben nem helyezhető el:
 
 a) növénytermesztés céljára szolgáló üvegház és fóliasátor,
 
@@ -48,13 +48,13 @@ c) háztartási célú kemence, húsfüstölő,
 
 d) állatkifutó,
 
-e)[^85]
+e)[^86]
 
 f) siló, fedetlen kialakítású ömlesztettanyag-, folyadék- vagy gáztároló, kivéve a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, és
 
 g) nem ideiglenes jellegű medence, kivéve a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben.
 
-(5a)[^86] A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben épületgépészeti berendezést korlátozás nélkül, egyéb építési övezetben, övezetben közterületről látható homlokzaton, valamint közterületről láthatóan a közterület és az épület között csak takartan, a településképi követelményeknek megfelelően lehet elhelyezni.
+(5a)[^87] A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben épületgépészeti berendezést korlátozás nélkül, egyéb építési övezetben, övezetben közterületről látható homlokzaton, valamint közterületről láthatóan a közterület és az épület között csak takartan, a településképi követelményeknek megfelelően lehet elhelyezni.
 
 (6) A hátsókertben – a szükséges védőtávolságok megtartásával – valamennyi melléképítmény, továbbá kerti és nyári konyha, személygépjármű-, kerékpár- és motorkerékpár-tároló, szauna, kerti szerszámtároló és tűzifatároló épület elhelyezhető. Üvegházat és fóliasátrat a teleknek a szomszédos telekkel közös határától legalább 1,50 méter távolságra szabad elhelyezni.
 
@@ -66,9 +66,9 @@ b) a megújuló energiaforrás műtárgyai és épületgépészeti berendezés �
 
 ha az elhelyezése szerinti telek és a szomszédos telek rendeltetésszerű használatát nem zavarják.
 
-(8)[^87] Ha a helyi építési szabályzat másként nem rendelkezik, terepszint alatt gépjárműtároló, valamint önálló és épülethez kapcsolódó pince az építési helyen kívül is elhelyezhető, azzal, hogy az a közvetlenül szomszédos telkek rendeltetésszerű használatát nem korlátozhatja. Gépjármű-lift az előkertben elhelyezhető, és nem számít bele a telek terepszint feletti és terepszint alatti beépítettségébe.
+(8)[^88] Ha a helyi építési szabályzat másként nem rendelkezik, terepszint alatt gépjárműtároló, valamint önálló és épülethez kapcsolódó pince az építési helyen kívül is elhelyezhető, azzal, hogy az a közvetlenül szomszédos telkek rendeltetésszerű használatát nem korlátozhatja. Gépjármű-lift az előkertben elhelyezhető, és nem számít bele a telek terepszint feletti és terepszint alatti beépítettségébe.
 
-(9)[^88] Ha a helyi építési szabályzat másként nem rendelkezik, a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, az elő-, oldal- és hátsókertben elhelyezhető
+(9)[^89] Ha a helyi építési szabályzat másként nem rendelkezik, a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, az elő-, oldal- és hátsókertben elhelyezhető
 
 a) portaépület legfeljebb 50 m2-es beépítési mértékig,
 
@@ -84,9 +84,9 @@ f) oltóvíztároló,
 
 g) aggregátor.
 
-[^83]: A 47. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^84]: A 47. § (5) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^85]: A 47. § (5) bekezdés e) pontját a 448/2025. (XII. 29.) Korm. rendelet 77. § b) pontja hatályon kívül helyezte.
-[^86]: A 47. § (5a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 68. § (2) bekezdése iktatta be.
-[^87]: A 47. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
-[^88]: A 47. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^84]: A 47. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^85]: A 47. § (5) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^86]: A 47. § (5) bekezdés e) pontját a 448/2025. (XII. 29.) Korm. rendelet 77. § b) pontja hatályon kívül helyezte.
+[^87]: A 47. § (5a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^88]: A 47. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
+[^89]: A 47. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 28. § (2) bekezdése iktatta be.

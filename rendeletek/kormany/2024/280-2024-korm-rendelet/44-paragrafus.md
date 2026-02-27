@@ -28,8 +28,11 @@ d) a Méptv. 196. § (3) bekezdésében foglaltak teljesülnek.
 
 (5)[^79] Ha településrendezési szerződés másként nem rendelkezik, a (4) bekezdés c) pontja szerinti esetben a kiszolgáló út céljára szolgáló területrész az építési telek telekméretébe nem számítható be.
 
+(6)[^80] Az építési hely az egyéb célú földmérési és térképészeti tevékenységgel összefüggő szakmagyakorlás részletes szabályairól szóló kormányrendeletben meghatározott tervezési alaptérkép alapján határozható meg. Ha a térképi és a természetbeni állapot között az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben megállapított hibahatárt meghaladó eltérés van, az építési hely megállapításánál, – a zártsorú beépítési módú telek és az ikres beépítési módú teleknek az ikresen csatlakozó szomszédos telekkel közös oldalhatára kivételével – a térképi és a természetbeni telekhatár közül azt a telekhatárt vagy telekhatárszakaszt kell figyelembe venni, amely az építési tevékenységgel érintett telekből kisebb méretet határol le.
+
 [^75]: A 44. § (1) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 42. pontja szerint módosított szöveg.
 [^76]: A 44. § (1) bekezdés d) pontja a 448/2025. (XII. 29.) Korm. rendelet 76. § 43. pontja szerint módosított szöveg.
 [^77]: A 44. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.
 [^78]: A 44. § (4) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 27. §-a iktatta be, szövege a 448/2025. (XII. 29.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^79]: A 44. § (5) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 66. § (1) bekezdése iktatta be.
+[^80]: A 44. § (6) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 66. § (2) bekezdése iktatta be.

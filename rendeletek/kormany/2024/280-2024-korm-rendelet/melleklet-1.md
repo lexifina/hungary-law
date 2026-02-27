@@ -10,7 +10,7 @@ Beépítési határértékek
 
 | 2. | Megengedett legnagyobb beépítettség (%) | Megengedett legnagyobb párkánymagasság (m) | Legkisebb zöldfelület (%) |
 
-| 3.[^147] | nagyvárosias lakóterület | 80 |  | 15 |
+| 3.[^148] | nagyvárosias lakóterület | 80 |  | 15 |
 
 | 4. | kisvárosias lakóterület | 60 | 12,5 | 25 |
 
@@ -74,4 +74,4 @@ Beépítési határértékek
 
 | 17. | különleges beépítésre nem szánt terület | 10 |  | 50 |
 
-[^147]: Az 1. melléklet 1. pontjában foglalt táblázat 3. sora a 448/2025. (XII. 29.) Korm. rendelet 77. § e) pontja szerint módosított szöveg.
+[^148]: Az 1. melléklet 1. pontjában foglalt táblázat 3. sora a 448/2025. (XII. 29.) Korm. rendelet 77. § e) pontja szerint módosított szöveg.
