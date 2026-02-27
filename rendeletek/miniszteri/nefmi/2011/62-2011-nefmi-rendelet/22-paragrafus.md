@@ -2,6 +2,6 @@
 
 (2) A fenntartó a finanszírozási szerződést 90 napos felmondási idővel indokolás nélkül felmondhatja.
 
-(3)[^59] Ha a fenntartó több ellátási területre vonatkozóan is jogosult támogatásra, és valamely ellátási területre vagy területekre vonatkozó támogatási jogviszonyt meg kívánja szüntetni, akkor a fenntartó írásbeli kérésére a módszertani központ a finanszírozási szerződést 90 napon belül módosítja. Ha a szerződés módosítása a fenntartó érdekkörében felmerült ok miatt 90 napon belül nem történik meg, a módszertani központ a határidő letelte után a finanszírozási szerződést felmondja.
+(3)[^61] Ha a fenntartó több ellátási területre vonatkozóan is jogosult támogatásra, és valamely ellátási területre vagy területekre vonatkozó támogatási jogviszonyt meg kívánja szüntetni, akkor a fenntartó írásbeli kérésére a módszertani központ a finanszírozási szerződést 90 napon belül módosítja. Ha a szerződés módosítása a fenntartó érdekkörében felmerült ok miatt 90 napon belül nem történik meg, a módszertani központ a határidő letelte után a finanszírozási szerződést felmondja.
 
-[^59]: A 22. § (3) bekezdését a 17/2021. (V. 18.) EMMI rendelet 10. §-a iktatta be.
+[^61]: A 22. § (3) bekezdését a 17/2021. (V. 18.) EMMI rendelet 10. §-a iktatta be.

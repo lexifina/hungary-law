@@ -1,0 +1,3 @@
+25. §[^76] Az alaptámogatást a módszertani központ megvalósítási szakaszonként legfeljebb két részletben, támogatási előlegként folyósítja a fenntartónak a pályázati kiírásban rögzített feltételek szerint. Az első részletet a finanszírozási szerződés vagy a finanszírozási szerződés megvalósítási szakaszok közötti módosításának aláírását követő 30 napon belül, a fennmaradó összeget második részletként a tárgyévet követő év február 28-áig kell folyósítani.
+
+[^76]: A 25. § a 17/2021. (V. 18.) EMMI rendelet 13. §-ával megállapított, a 3/2026. (II. 26.) BM rendelet 8. §-a szerint módosított szöveg.
