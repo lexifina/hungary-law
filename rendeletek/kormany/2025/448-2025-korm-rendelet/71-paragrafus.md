@@ -1,3 +1,3 @@
-71. §[^85]
+71. §[^84]
 
-[^85]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

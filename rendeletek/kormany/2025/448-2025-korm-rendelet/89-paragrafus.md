@@ -1,3 +1,3 @@
-89. §[^103]
+89. §[^102]
 
-[^103]: A 89. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 89. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

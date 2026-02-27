@@ -1,3 +1,3 @@
-104. §[^169]
+104. §[^165]
 
-[^169]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

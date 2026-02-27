@@ -1,3 +1,3 @@
-101. §[^166]
+101. §[^162]
 
-[^166]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^162]: A 101. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-113. §[^178]
+113. §[^174]
 
-[^178]: A 113. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: A 113. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-95. §[^160]
+95. §[^156]
 
-[^160]: A 95. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: A 95. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

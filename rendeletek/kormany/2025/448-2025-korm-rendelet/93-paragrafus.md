@@ -1,23 +1,22 @@
 93. § Hatályát veszti a 281/2024. (IX. 30.) Korm. rendelet
 
-a)[^152]
+a)[^149]
 
-b)[^153]
+b)[^150]
 
-c)[^154]
+c)[^151]
 
-d)[^155]
+d)[^152]
 
-e)[^156]
+e)[^153]
 
-f)[^157]
+f)[^154]
 
-g)[^158]
+g) 1. melléklet 2.3. pontja.
 
-[^152]: A 93. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^153]: A 93. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^154]: A 93. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^155]: A 93. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^156]: A 93. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^157]: A 93. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^158]: A 93. § g) pontja a 114. § (3) bekezdése alapján 2026. február 27-én lép hatályba.
+[^149]: A 93. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 93. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 93. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^152]: A 93. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: A 93. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^154]: A 93. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-82. §[^96]
+82. §[^95]
 
-[^96]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
