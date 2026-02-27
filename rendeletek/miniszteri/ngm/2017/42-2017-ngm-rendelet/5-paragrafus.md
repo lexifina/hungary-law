@@ -1,6 +1,11 @@
-## 4. §[^3] Az 1. mellékletben meghatározott tevékenység végzésére irányuló szándékot a 2. mellékletben meghatározott adattartalmú, a Magyar Mérnöki Kamara (a továbbiakban: MMK) által rendszeresített nyomtatvánnyal kell bejelenteni. A bejelentéshez eredetiben be kell mutatni, vagy másolatban mellékelni kell az 1. mellékletben meghatározott képesítés és gyakorlati idő meglétét igazoló okiratokat. Amennyiben a bejelentés a végzettség, illetve képesítés megszerzésétől számított öt év után történik, a bejelentéshez a továbbképzési kötelezettség teljesítését igazoló okiratokat is be kell mutatni, vagy másolatban mellékelni kell.
+5. §[^7] (1) A 4. §-ban foglalt bejelentést követően, amennyiben a gázszerelő a feltételeknek megfelel, az MMK a gázszerelőt határozatlan időre nyilvántartásba veszi.
 
-5. §[^4]
+(2) Az MMK által kiállított hatósági igazolvány öt évig érvényes. Új tevékenység vagy adatváltozás bejegyzése esetén az MMK az igazolvány lejáratának napját a korábban bejegyzett tevékenység lejárati napjához igazodóan állapítja meg.
 
-[^3]: A 4. § a 22/2020. (VI. 29.) ITM rendelet 27. § a) pontja szerint módosított szöveg.
-[^4]: Az 5. §-t a 12/2021. (III. 5.) ITM rendelet 25. §-a hatályon kívül helyezte.
+(3) Amennyiben a gázszerelő a 2. § (2) bekezdése értelmében mentesül a továbbképzési kötelezettség alól, úgy a bejegyzett tevékenység végzésének lejárati napját a területi kamara nyilvántartásába bejegyzett tervezői vagy szakértői jogosultság lejáratával összhangban kell meghatározni.
+
+(4) Amennyiben a (3) bekezdés szerinti tervezői vagy szakértői jogosultság lejárt, és annak meghosszabbítását 60 napon belül a területi kamara nem jegyezte be, az MMK törli a gázszerelőt a nyilvántartásból.
+
+(5) Az MMK a gázszerelő nyilvántartásból való törlését követő tizenöt napon belül intézkedik a gázszerelői igazolvány bevonása iránt.
+
+[^7]: Az 5. §-t a 12/2021. (III. 5.) ITM rendelet 25. §-a hatályon kívül helyezte, újonnan a 10/2026. (II. 19.) NGM rendelet 3. §-a iktatta be.

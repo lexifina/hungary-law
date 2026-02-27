@@ -2,6 +2,8 @@
 
 (2) A gázfogyasztó készülék garanciális üzembe helyezésére és garanciális időn belüli javítására az 1. mellékletben megjelölt képesítéssel, végzettséggel rendelkező gázszerelő jogosult, figyelemmel a készülék gyártójának vagy forgalmazójának vonatkozó előírásaira.
 
-(3) A csatlakozó- és fogyasztói vezeték létesítésére az 1. mellékletben megjelölt képesítéssel, végzettséggel és az alkalmazott technológiához a Hegesztési Biztonsági Szabályzat kiadásáról szóló miniszteri rendeletben előírt feltételeknek megfelelő gázszerelő jogosult.
+(3)[^8]
 
 (4) A telephelyi vezetékkel kapcsolatos gázszerelői tevékenységre vonatkozó jogosultságok tekintetében a földgázellátásról szóló 2008. évi XL. törvény 21. § (1) bekezdése értelmében a csatlakozóvezetékekre és a felhasználói berendezésekre vonatkozó rendelkezések megfelelően alkalmazandók.
+
+[^8]: A 6. § (3) bekezdését a 10/2026. (II. 19.) NGM rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-42-20-2
 | 2021-03-06 | 2017-42-20-2X.6 | 12/2021. (III. 5.) ITM rendelet |
 | 2021-09-01 | 2017-42-20-2X.7 | 34/2021. (VII. 26.) ITM rendelet |
 | 2024-01-29 | 2017-42-20-2X.8 | 79/2023. (XII. 29.) GFM rendelet |
+| 2026-02-27 | 2017-42-20-2X.9 | 10/2026. (II. 19.) NGM rendelet |
