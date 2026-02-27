@@ -1,0 +1,1 @@
+4. § Az R2. 6/a. számú melléklet I. pont 6. alpont b) pontjában és II. pont 3. alpont b) pontjában a „címpéldánya” szövegrész helyébe a „címpéldánya, ha az a cégnyilvántartásban nem szerepel” szöveg lép.
