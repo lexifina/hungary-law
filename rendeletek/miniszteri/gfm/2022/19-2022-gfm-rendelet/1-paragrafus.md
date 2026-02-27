@@ -1,3 +1,0 @@
-1. §[^2] A Beruházásfejlesztési Magántőkealap (nyilvántartási szám: MNB 6122-203; székhely: 1072 Budapest, Rákóczi út 42.) tekintetében a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti befektetési alapkezelési tevékenységet kizárólagos joggal ellátó szervezetként a FOCUS VENTURES Befektetési Alapkezelő Zártkörűen Működő Részvénytársaságot (cégjegyzékszám: 01-10-049495; székhely: 1027 Budapest, Kapás utca 6–12.) jelölöm ki.
-
-[^2]: Az 1. § a 10/2024. (IV. 3.) NGM rendelet 1. §-a szerint módosított szöveg.
