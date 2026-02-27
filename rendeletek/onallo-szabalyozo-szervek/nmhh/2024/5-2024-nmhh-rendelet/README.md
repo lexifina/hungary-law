@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-5-20-3H
 | --- | --- | --- |
 | 2024-05-01 | 2024-5-20-3H.1 | 5/2024. (IV. 23.) NMHH rendelet |
 | 2024-05-02 | 2024-5-20-3H.2 | 2010. évi CXXX. törvény |
+| 2026-02-27 | 2024-5-20-3H.5 | 3/2026. (II. 12.) NMHH rendelet |
