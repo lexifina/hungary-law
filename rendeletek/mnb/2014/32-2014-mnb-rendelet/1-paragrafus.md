@@ -8,7 +8,7 @@ b)[^2] a természetes személynek nyújtott pénzügyi lízingre azzal, hogy aho
 
 a) az értékpapír vagy betét teljes fedezete mellett nyújtott hitelre,
 
-b)[^4] az olyan, ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetése az ügyfél halálát, illetve a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően esedékes,
+b)[^4] az olyan jelzáloghitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetése az ügyfél halálát, illetve a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően esedékes,
 
 c)[^5] a vállalkozó természetes személynek nyújtott hitelre, ha a vállalkozó természetes személy – amennyiben jogszabály meghatároz az adott tevékenység végzése vonatkozásában igazolási módot, úgy ilyen módon – igazolja e minőségét, valamint nyilatkozatával azt, hogy a hitelt vállalkozói tevékenysége során, azzal összefüggő célra fogja igénybe venni,
 
@@ -56,7 +56,7 @@ k)[^13] a kizárólag a futamidő meghosszabbítására irányuló hitelszerződ
 
 l)[^14]
 
-m)[^15] az ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelszerződés módosításakor, ha ezáltal a hiteltartozás összege nem növekszik, és a módosítás eredményeképp
+m)[^15] a jelzáloghitel-szerződés módosításakor, ha ezáltal a hiteltartozás összege nem növekszik, és a módosítás eredményeképp
 
 ma) a hitel a futamidő végéig rögzített hitelkamattal rendelkező hitel lesz,
 
@@ -109,7 +109,7 @@ b) a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori �
 [^1]: Az 1. § (1) bekezdés a) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 8/2016. (IV. 6.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdés b) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés b) pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § c) pontja, a 3/2026. (II. 26.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés c) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (2) bekezdés d) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (3) bekezdés a) pontja a 8/2016. (IV. 6.) MNB rendelet 1. § (2) bekezdésével megállapított, az 51/2021. (XI. 16.) MNB rendelet 4. § a) pontja, a 28/2025. (IX. 1.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
@@ -120,7 +120,7 @@ b) a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori �
 [^12]: Az 1. § (3) bekezdés j) pont ja) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. § (3) bekezdés k) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
 [^14]: Az 1. § (3) bekezdés l) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be, a 20/2023. (V. 11.) MNB rendelet 3. § a) pontja hatályon kívül helyezte.
-[^15]: Az 1. § (3) bekezdés m) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (3) bekezdés m) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (2) bekezdése iktatta be, nyitó szövegrésze a 3/2026. (II. 26.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
 [^16]: Az 1. § (3) bekezdés n) pontját az 51/2021. (XI. 16.) MNB rendelet 1. § (2) bekezdése iktatta be.
 [^17]: Az 1. § (4) bekezdés nyitó szövegrésze a 8/2016. (IV. 6.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
 [^18]: Az 1. § (4) bekezdés a) pontja a 29/2018. (VIII. 21.) MNB rendelet 7. § b) pontja szerint módosított szöveg.

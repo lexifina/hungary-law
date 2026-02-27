@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-32-20-2
 | 2025-09-02 | 2014-32-20-2C.11 | 64/2023. (XII. 15.) MNB rendelet |
 | 2025-12-01 | 2014-32-20-2C.12 | 64/2023. (XII. 15.) MNB rendelet |
 | 2026-01-01 | 2014-32-20-2C.13 | 28/2025. (IX. 1.) MNB rendelet |
+| 2026-02-27 | 2014-32-20-2C.14 | 29/2018. (VIII. 21.) MNB rendelet |

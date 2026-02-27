@@ -42,6 +42,8 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 
 11. ingatlan forgalmi értéke: a hitelbiztosítéki érték megállapítása során a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet 2. § (2) bekezdés a) vagy b) pontja, illetve a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet 3. § (2) bekezdés a) pontja szerinti értékeléssel meghatározott érték;
 
+11a.[^26] jelzáloghitel: a Hpt.-ben meghatározott fogalom;
+
 12. kitettség: a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben meghatározott fogalom;
 
 13. közeli hozzátartozó: a Polgári Törvénykönyvről szóló törvényben meghatározott fogalom;
@@ -67,3 +69,4 @@ b) olyan lakást érint, ahol a felújítás a hitelkérelem benyújtásakor ér
 [^23]: A 2. § a 49/2024. (XI. 11.) MNB rendelet 1. §-ával megállapított szöveg.
 [^24]: A 2. § 10. pont a) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § c) pontja szerint módosított szöveg.
 [^25]: A 2. § 10. pont b) alpontja a 28/2025. (IX. 1.) MNB rendelet 2. § d) pontja szerint módosított szöveg.
+[^26]: A 2. § 11a. pontját a 3/2026. (II. 26.) MNB rendelet 1. §-a iktatta be.
