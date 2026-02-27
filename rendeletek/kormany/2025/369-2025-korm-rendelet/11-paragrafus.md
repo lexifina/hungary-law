@@ -1,1 +1,3 @@
-11. § A 326/2011. (XII. 28.) Korm. rendelet 13/A. melléklete a 2. melléklet szerint módosul.
+11. §[^14]
+
+[^14]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

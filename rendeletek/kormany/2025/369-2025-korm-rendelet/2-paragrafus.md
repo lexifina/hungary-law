@@ -1,3 +1,5 @@
 ## 2. Az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló 301/2009. (XII. 22.) Korm. rendelet módosítása
 
-2. § Az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló 301/2009. (XII. 22.) Korm. rendelet 4. melléklete helyébe az 1. melléklet lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

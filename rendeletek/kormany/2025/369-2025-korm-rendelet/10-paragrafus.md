@@ -1,11 +1,6 @@
-10. § (1) A 326/2011. (XII. 28.) Korm. rendelet
+10. § (1)[^12]
 
-a) 101. § (1) bekezdés nyitó szövegrészében az „e) pontjában” szövegrész helyébe az „e) és f) pontjában” szöveg,
+(2)[^13]
 
-b) 108. § (1) bekezdés nyitó szövegrészében az „e) pontja” szövegrész helyébe az „e) és f) pontja” szöveg
-
-lép.
-
-(2)[^6]
-
-[^6]: A 10. § (2) bekezdése a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.
+[^12]: A 10. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § (2) bekezdése a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.

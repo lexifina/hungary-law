@@ -1,3 +1,3 @@
-9. §[^5]
+9. §[^11]
 
-[^5]: A 9. § a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.
+[^11]: A 9. § a 15. § (3) bekezdése alapján 2026. november 30-án lép hatályba.
