@@ -24,6 +24,10 @@ g)[^23] az 1925/2006/EK európai parlamenti és tanácsi rendelet II. melléklet
 
 h)[^24] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt kalcidiol-monohidrát tekintetében történő módosításáról szóló, 2025. február 21-i (EU) 2025/352 bizottsági rendelet
 
+i)[^25] az 1925/2006/EK európai parlamenti és tanácsi rendelet II. mellékletének és a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az élelmiszerekhez folsavforrásként hozzáadott és az étrend-kiegészítők előállításához folátforrásként használt L-5-metiltetrahidrofolsav mononátriumsója tekintetében történő módosításáról szóló, 2025. november 5-i (EU) 2025/2224 bizottsági rendelet és
+
+j)[^26] a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az étrend-kiegészítők előállításához magnéziumforrásként használt magnézium L-treonát tekintetében történő módosításáról szóló, 2025. november 5-i (EU) 2025/2225 bizottsági rendelet
+
 [^16]: A 14. § (2) bekezdését újonnan a 34/2021. (VIII. 6.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^17]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
 [^18]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -33,3 +37,5 @@ h)[^24] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-ki
 [^22]: A 14. § (7) bekezdés f) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
 [^23]: A 14. § (7) bekezdés g) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
 [^24]: A 14. § (7) bekezdés h) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^25]: A 14. § (7) bekezdés i) pontját a 3/2026. (II. 26.) BM rendelet 5. §-a iktatta be.
+[^26]: A 14. § (7) bekezdés j) pontját a 3/2026. (II. 26.) BM rendelet 5. §-a iktatta be.
