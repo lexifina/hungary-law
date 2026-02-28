@@ -176,7 +176,9 @@ b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. �
 
 c) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által foglalkoztatott magánszemély (a továbbiakban: nemzetközi sportszövetség munkavállalója).
 
-(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
+d) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett sportfióktelep (a továbbiakban: sportfióktelep) által foglalkoztatott, továbbá a sportfióktelep által kifizetett jövedelem vonatkozásában a sportfióktelephez a külföldi nemzetközi sportszervezettől kiküldött, kirendelt magánszemély (a továbbiakban együtt: sportfióktelep munkavállalója).
+
+(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség, a sportfióktelep munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
 
 (4) A (2) bekezdésben említett összeghatár
 
@@ -190,7 +192,7 @@ d) az a)–b) pontban említett összeghatár helyett
 
 da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
 
-db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség munkavállalója
+db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség, a sportfióktelep munkavállalója
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
