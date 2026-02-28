@@ -261,5 +261,3 @@
 ## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
 
 ## 6. Rehabilitációs hozzájárulás
-
-## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.

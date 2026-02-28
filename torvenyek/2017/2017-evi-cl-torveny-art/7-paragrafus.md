@@ -60,7 +60,7 @@ f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 17b. e-pénztárgép: az Áfa tv. szerinti e-pénztárgép,
 
-18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep,
+18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep és a sportról szóló törvény szerinti sportfióktelep,
 
 19. föld: a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású föld,
 
