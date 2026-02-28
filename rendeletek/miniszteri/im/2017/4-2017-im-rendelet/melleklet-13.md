@@ -402,21 +402,21 @@
 
 ## Név: [^379] ..................................................................................................................................
 
-## együttesen jogosultak az egyesület törvényes képviseletére.
+## együttesen jogosultak az alapítvány törvényes képviseletére.[^380]
 
 ## b) Név: ..........................................................................................................................
 
 ## és
 
-## Név:[^380] ..................................................................................................................................
+## Név:[^381] ..................................................................................................................................
 
-## együttesen jogosultak az egyesület törvényes képviseletére.
+## együttesen jogosultak az alapítvány törvényes képviseletére.[^382]
 
 ## 7. A kuratóriumi tagság megszűnésére vonatkozó szabályok
 
 ## 7.1. Megszűnik a kuratóriumi tagság:
 
-## 7.1.1.[^381] a megbízás időtartamának lejártával;
+## 7.1.1.[^383] a megbízás időtartamának lejártával;
 
 ## 7.1.2. visszahívással;
 
@@ -444,7 +444,7 @@
 
 ## 9. A kuratóriumi tagsági díjazás szabályai
 
-## 9.1. A kuratórium tagjai[^382]
+## 9.1. A kuratórium tagjai[^384]
 
 ## a) díjazásban nem részesülnek, készkiadásaik, költségeik megtérítésére igényt nem tarthatnak.
 
@@ -452,15 +452,15 @@
 
 ## c) díjazásban részesülnek, igazolt készkiadásaik, költségeik megtérítésére igényt tarthatnak.
 
-## 9.2.[^383] A kuratóriumi tagok díjazásának, igazolt készkiadásaik és költségeik megtérítésének szabályait a kuratórium állapítja meg azzal, hogy az alapító[^384]
+## 9.2.[^385] A kuratóriumi tagok díjazásának, igazolt készkiadásaik és költségeik megtérítésének szabályait a kuratórium állapítja meg azzal, hogy az alapító[^386]
 
 ## a) a tiszteletdíj, az igazolt készkiadás és költségek megtérítése tekintetében kikötést nem tesz.
 
-## b)[^385] a tiszteletdíj legmagasabb összegére vonatkozóan az alábbi kikötést teszi:
+## b)[^387] a tiszteletdíj legmagasabb összegére vonatkozóan az alábbi kikötést teszi:
 
 ## ………………………………………………………………………………………………………….
 
-## c)[^386] az igazolt készkiadás és költségek megtérítése tekintetében az alábbi kikötést teszi:
+## c)[^388] az igazolt készkiadás és költségek megtérítése tekintetében az alábbi kikötést teszi:
 
 ## …………………………………………………………………………………………………………..
 
@@ -494,13 +494,13 @@
 
 ## 11. A kuratórium működése
 
-## 11.1.[^387]A kuratórium ülésezési rendjére és döntéshozatalára
+## 11.1.[^389]A kuratórium ülésezési rendjére és döntéshozatalára
 
 ## a) az általa elfogadott ügyrend irányadó.
 
 ## b) az alapító okirat rendelkezései irányadóak.
 
-## 11.2.[^388] A kuratórium szükség szerint, de évente legalább egy alkalommal ülést tart, amelyet az elnök hív össze. Az ülést az elnök legalább 15 nappal az ülés időpontja előtt kiküldött meghívóval, elsődlegesen az alapítvány székhelyére hívja össze.
+## 11.2.[^390] A kuratórium szükség szerint, de évente legalább egy alkalommal ülést tart, amelyet az elnök hív össze. Az ülést az elnök legalább 15 nappal az ülés időpontja előtt kiküldött meghívóval, elsődlegesen az alapítvány székhelyére hívja össze.
 
 ## Bármely kuratóriumi tag kérheti kuratóriumi ülés összehívását a cél és az ok megjelölésével. Ilyen kérelem esetén a kuratórium elnöke köteles a kérelem beérkezésétől számított nyolc napon belül intézkedni az ülés összehívásáról. Ha ennek a kötelezettségének a kuratórium elnöke nem tesz eleget, a kuratórium ülését a kérelmet előterjesztő tag is összehívhatja.
 
@@ -512,7 +512,7 @@
 
 ## A kuratórium határozatképes, ha ülésén a szavazati jogában nem korlátozott kuratóriumi tagok több mint a fele, de legalább két tag jelen van. Két kuratóriumi tag jelenléte esetén kizárólag egyhangúlag hozható határozat.
 
-## A kuratórium ülése[^389]
+## A kuratórium ülése[^391]
 
 ## a) nem nyilvános.
 
@@ -524,57 +524,41 @@
 
 ## X. Az alapítói jogok gyakorlása az alapító kiesése esetén
 
-## 1.[^390] Ha az alapító meghalt, jogutód nélkül megszűnt, vagy más okból az alapítói jogait véglegesen nem gyakorolja,
+## 1.[^392] Ha az alapító meghalt, jogutód nélkül megszűnt, vagy más okból az alapítói jogait véglegesen nem gyakorolja,
 
-## a)[^391] az alapító által az alapítói jogok gyakorlására kijelölt személy:
+## a)[^393] az alapító által az alapítói jogok gyakorlására kijelölt személy:
 
 ## Név: .............................................................................................................................................
 
-## Lakóhely:[^392] .....................................................................................................................................
+## Lakóhely:[^394] .....................................................................................................................................
 
-## Székhely:[^393] ......................................................................................................................................
+## Székhely:[^395] ......................................................................................................................................
 
-## Cégjegyzékszám, nyilvántartási szám:[^394] ………………………………………………………………
+## Cégjegyzékszám, nyilvántartási szám:[^396] ………………………………………………………………
 
-## Képviselő neve, képviseleti minőségének megjelölése:[^395]
+## Képviselő neve, képviseleti minőségének megjelölése:[^397]
 
 ## .......................................................................................................................................................
 
-## Képviselő lakóhelye vagy székhelye:[^396] ………………………………………………………………
+## Képviselő lakóhelye vagy székhelye:[^398] ………………………………………………………………
 
 ## b) az alapító az alapító okiratban nem jelöl ki az alapítói jogok gyakorlására jogosult személyt.
 
-## 2.[^397] Ha az alapító meghalt, jogutód nélkül megszűnt, vagy más okból az alapítói jogait véglegesen nem gyakorolja, és az alapító az alapító okiratban alapítói jogok gyakorlására jogosult személyt nem jelölt ki, az alapítói jogok gyakorlására a Ptk. rendelkezéseit kell alkalmazni.
+## 2.[^399] Ha az alapító meghalt, jogutód nélkül megszűnt, vagy más okból az alapítói jogait véglegesen nem gyakorolja, és az alapító az alapító okiratban alapítói jogok gyakorlására jogosult személyt nem jelölt ki, az alapítói jogok gyakorlására a Ptk. rendelkezéseit kell alkalmazni.
 
 ## XI. Felügyelőbizottság
 
-## 1.[^398] Az alapítványnál felügyelőbizottság létrehozására
+## 1.[^400] Az alapítványnál felügyelőbizottság létrehozására
 
 ## a) sor kerül.
 
 ## b) nem kerül sor.
 
-## 2.[^399] A felügyelőbizottság tagjai:
+## 2.[^401] A felügyelőbizottság tagjai:
 
 ## Név: ..............................................................................................................................
 
 ## Lakóhely: .........................................................................................................................
-
-## A megbízatás[^400]
-
-## a) határozott időre
-
-## b) határozatlan időre
-
-## szól.
-
-## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap
-
-## A megbízatás lejárta:[^401] ……….……év ……………... hó …… nap
-
-## Név: ...............................................................................................................................
-
-## Lakóhely: ..........................................................................................................................
 
 ## A megbízatás[^402]
 
@@ -588,11 +572,11 @@
 
 ## A megbízatás lejárta:[^403] ……….……év ……………... hó …… nap
 
-## Név:[^404] .............................................................................................................................
+## Név: ...............................................................................................................................
 
-## Lakóhely: ............................................................................................................................
+## Lakóhely: ..........................................................................................................................
 
-## A megbízatás[^405]
+## A megbízatás[^404]
 
 ## a) határozott időre
 
@@ -602,7 +586,23 @@
 
 ## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap
 
-## A megbízatás lejárta:[^406] ……….……év ……………... hó …… nap
+## A megbízatás lejárta:[^405] ……….……év ……………... hó …… nap
+
+## Név:[^406] .............................................................................................................................
+
+## Lakóhely: ............................................................................................................................
+
+## A megbízatás[^407]
+
+## a) határozott időre
+
+## b) határozatlan időre
+
+## szól.
+
+## A megbízatás kezdő időpontja: ……….……év ……………... hó …… nap
+
+## A megbízatás lejárta:[^408] ……….……év ……………... hó …… nap
 
 ## XII. Záró rendelkezések
 
@@ -610,21 +610,21 @@
 
 ## 1.1. Az alapítvánnyal kapcsolatos jognyilatkozatot – ha a Ptk.-ból más nem következik – írásban lehet megtenni, és igazolható módon lehet közölni. Ezt a rendelkezést alkalmazni kell az alapítvány szerve vagy az alapító határozatára, valamint jognyilatkozatnak és határozatnak a címzettel való közlésére.
 
-## 1.2.[^407] Az írásbeli nyilatkozat közlése történhet az írásba foglalt nyilatkozat
+## 1.2.[^409] Az írásbeli nyilatkozat közlése történhet az írásba foglalt nyilatkozat
 
 ## a) postai úton történő elküldésével.
 
 ## b) elektronikus levélben történő elküldésével.
 
-## c)[^408] érintett által vagy képviselője által történő személyes átvételével.
+## c)[^410] érintett által vagy képviselője által történő személyes átvételével.
 
 ## 1.3. Igazolható módon történő közlés
 
-## 1.3.1.[^409] Az írásbeli nyilatkozat postai úton történő elküldése esetén igazolható módon történő közlésnek minősül a küldemény ajánlottan vagy tértivevénnyel történő továbbítása. Ha az írásbeli jognyilatkozatot postán küldik el, azt az ellenkező bizonyításáig a tértivevényen feltüntetett átvételi időpontban, ajánlott küldemény esetén a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni.
+## 1.3.1.[^411] Az írásbeli nyilatkozat postai úton történő elküldése esetén igazolható módon történő közlésnek minősül a küldemény ajánlottan vagy tértivevénnyel történő továbbítása. Ha az írásbeli jognyilatkozatot postán küldik el, azt az ellenkező bizonyításáig a tértivevényen feltüntetett átvételi időpontban, ajánlott küldemény esetén a feladástól számított ötödik munkanapon a belföldi címzetthez megérkezettnek kell tekinteni.
 
-## 1.3.2.[^410] Az írásbeli nyilatkozat elektronikus levélben történő elküldése esetén igazolható módon történő közlésnek minősül az elektronikus levél kézbesítés eredményének visszaigazolása iránti kérelemmel történő továbbítása. Ha az írásbeli jognyilatkozatot elektronikus levél útján küldik el, azt az ellenkező bizonyításáig az a kézbesítés eredményéről érkező elektronikus visszaigazoláson feltüntetett átvételi időpontban a címzetthez megérkezettnek kell tekinteni.
+## 1.3.2.[^412] Az írásbeli nyilatkozat elektronikus levélben történő elküldése esetén igazolható módon történő közlésnek minősül az elektronikus levél kézbesítés eredményének visszaigazolása iránti kérelemmel történő továbbítása. Ha az írásbeli jognyilatkozatot elektronikus levél útján küldik el, azt az ellenkező bizonyításáig az a kézbesítés eredményéről érkező elektronikus visszaigazoláson feltüntetett átvételi időpontban a címzetthez megérkezettnek kell tekinteni.
 
-## 1.3.3.[^411] Az írásbeli nyilatkozatnak az érintett által vagy képviselője által történő személyes átvétele esetén igazolható módon történő közlésnek minősül, ha az érintett személy vagy képviselője a jognyilatkozat másodpéldányán aláírásával és az átvétel időpontjának megjelölésével elismeri az átvétel tényét.
+## 1.3.3.[^413] Az írásbeli nyilatkozatnak az érintett által vagy képviselője által történő személyes átvétele esetén igazolható módon történő közlésnek minősül, ha az érintett személy vagy képviselője a jognyilatkozat másodpéldányán aláírásával és az átvétel időpontjának megjelölésével elismeri az átvétel tényét.
 
 ## 2. Az alapító okiratban nem szabályozott kérdésekre a Polgári Törvénykönyvről szóló 2013. évi V. törvény és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény rendelkezései az irányadóak.
 
@@ -632,9 +632,9 @@
 
 ## ……………………………………………………………………………….
 
-## aláírás[^412]
+## aláírás[^414]
 
-## Előttünk, mint tanúk előtt:[^413]
+## Előttünk, mint tanúk előtt:[^415]
 
 ## Tanú neve: Tanú neve:
 
@@ -644,7 +644,7 @@
 
 ## Aláírása: Aláírása:
 
-## Ellenjegyezte:[^414]
+## Ellenjegyezte:[^416]
 
 13. melléklet a 4/2017. (IV. 3.) IM rendelethez
 
@@ -652,7 +652,7 @@
 
 ## Alapítvány
 
-## Nyilatkozat[^415]
+## Nyilatkozat[^417]
 
 ## (Vezető tisztségviselő)
 
@@ -660,15 +660,15 @@
 
 Név: ...........................................................................................................................
 
-Lakóhely:[^416]...........................................................................................................................
+Lakóhely:[^418]...........................................................................................................................
 
-Anyja születési neve:[^417]………………………………………………………………………
+Anyja születési neve:[^419]………………………………………………………………………
 
-Cégjegyzékszám (nyilvántartási szám):[^418] ......................................................................
+Cégjegyzékszám (nyilvántartási szám):[^420] ......................................................................
 
-Székhely[^419]: .........................................................................................................................
+Székhely[^421]: .........................................................................................................................
 
-Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^420]
+Jogi személy vezető tisztségviselő nevében vezető tisztségviselői feladatok ellátásra kijelölt természetes személy[^422]
 
 neve:…………………………………………………………………………………………
 
@@ -694,7 +694,7 @@ A Büntető Törvénykönyvről szóló 2012. évi C. törvény 61. § (2) bekez
 
 Nem vagyok az alapítvány kedvezményezettje vagy annak közeli hozzátartozója.
 
-Kijelentem, hogy[^421]
+Kijelentem, hogy[^423]
 
 a) az alapítvány alapítója vagyok.
 
@@ -708,9 +708,9 @@ Kelt: ………………………………….., ………… év …………. 
 
 ……………………………………………………………
 
-aláírás[^422]
+aláírás[^424]
 
-Előttünk, mint tanúk előtt:[^423]
+Előttünk, mint tanúk előtt:[^425]
 
 Tanú neve: Tanú neve:
 
@@ -720,7 +720,7 @@ Személyi igazolvány száma: Személyi igazolvány száma:
 
 Aláírása: Aláírása:
 
-Ellenjegyezte:[^424]
+Ellenjegyezte:[^426]
 
 [^305]: Csak egy lehetőség választható.
 [^306]: Az alapító okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott alapítvány esetében nem volt szükség.
@@ -797,48 +797,50 @@ Ellenjegyezte:[^424]
 [^377]: Szükség esetén kitöltendő.
 [^378]: Szükség esetén bővíthető.
 [^379]: Szükség esetén bővíthető.
-[^380]: Szükség esetén bővíthető.
-[^381]: Kötelezően alkalmazandó, amennyiben a kuratóriumi tag megbízatása határozott időre szól.
-[^382]: Csak egy lehetőség választható.
-[^383]: IX.9.1. b) vagy c) pont választása esetén kötelezően alkalmazandó.
+[^380]: A 12. melléklet 6.4.2. pont a) alpontja a 18/2025. (XII. 29.) IM rendelet 2. §-a szerint módosított szöveg.
+[^381]: Szükség esetén bővíthető.
+[^382]: A 12. melléklet 6.4.2. pont b) alpontja a 18/2025. (XII. 29.) IM rendelet 2. §-a szerint módosított szöveg.
+[^383]: Kötelezően alkalmazandó, amennyiben a kuratóriumi tag megbízatása határozott időre szól.
 [^384]: Csak egy lehetőség választható.
-[^385]: IX.9.1. c) pont választása esetén kitölthető. IX.9.1. a) pont választása esetén nem lehet kitölteni.
-[^386]: IX.9.1. b) vagy c) pont választása esetén kitölthető. IX.9.1. a) pont választása esetén nem lehet kitölteni.
-[^387]: Csak egy lehetőség választható.
-[^388]: IX.11.1. b) pont választása esetén kötelezően alkalmazandó.
+[^385]: IX.9.1. b) vagy c) pont választása esetén kötelezően alkalmazandó.
+[^386]: Csak egy lehetőség választható.
+[^387]: IX.9.1. c) pont választása esetén kitölthető. IX.9.1. a) pont választása esetén nem lehet kitölteni.
+[^388]: IX.9.1. b) vagy c) pont választása esetén kitölthető. IX.9.1. a) pont választása esetén nem lehet kitölteni.
 [^389]: Csak egy lehetőség választható.
-[^390]: Csak egy lehetőség választható.
-[^391]: Választása esetén kitöltendő.
-[^392]: Természetes személy esetén kell kitölteni.
-[^393]: Jogi személy esetén kell kitölteni.
-[^394]: Jogi személy esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
-[^395]: Jogi személy esetén kell kitölteni. Több képviselő esetén bővíthető.
-[^396]: Több képviselő esetén bővíthető.
-[^397]: X.1. b) pont választása esetén kötelezően alkalmazandó.
-[^398]: Csak egy lehetőség választható.
-[^399]: XI.1. a) pont választása esetén kitöltése kötelező.
+[^390]: IX.11.1. b) pont választása esetén kötelezően alkalmazandó.
+[^391]: Csak egy lehetőség választható.
+[^392]: Csak egy lehetőség választható.
+[^393]: Választása esetén kitöltendő.
+[^394]: Természetes személy esetén kell kitölteni.
+[^395]: Jogi személy esetén kell kitölteni.
+[^396]: Jogi személy esetén kell kitölteni. Cégjegyzékszám, egyéb nyilvántartási szám.
+[^397]: Jogi személy esetén kell kitölteni. Több képviselő esetén bővíthető.
+[^398]: Több képviselő esetén bővíthető.
+[^399]: X.1. b) pont választása esetén kötelezően alkalmazandó.
 [^400]: Csak egy lehetőség választható.
-[^401]: Az a) pont választása esetén kitöltendő.
+[^401]: XI.1. a) pont választása esetén kitöltése kötelező.
 [^402]: Csak egy lehetőség választható.
 [^403]: Az a) pont választása esetén kitöltendő.
-[^404]: Háromnál több tagú felügyelőbizottság esetén bővíthető.
-[^405]: Csak egy lehetőség választható.
-[^406]: Az a) pont választása esetén kitöltendő.
-[^407]: Több lehetőség választható azzal, hogy a c) pont önmagában nem választható.
-[^408]: Önmagában nem választható. Választása esetén XII. 1.2. a) és b) pontok közül legalább az egyiket meg kell jelölni.
-[^409]: XII.1.2. a) pont választása esetén kötelezően alkalmazandó.
-[^410]: XII.1.2. b) pont választása esetén kötelezően alkalmazandó.
-[^411]: XII.1.2. c) pont választása esetén kötelezően alkalmazandó.
-[^412]: Alapító vagy alapítók aláírása. Szükség esetén bővíthető.
-[^413]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
-[^414]: Szükség esetén kitöltendő.
-[^415]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott alapítvány esetében nem volt szükség.
-[^416]: Természetes személy esetén kell kitölteni.
-[^417]: Természetes személy esetén kell kitölteni.
-[^418]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
-[^419]: Jogi személy esetén kell kitölteni.
-[^420]: Jogi személy esetén kell kitölteni.
-[^421]: Csak egy lehetőség választható.
-[^422]: A nyilatkozatot tevő természetes személy, vagy jogi személy képviselőjének aláírása.
-[^423]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
-[^424]: Szükség esetén kitöltendő.
+[^404]: Csak egy lehetőség választható.
+[^405]: Az a) pont választása esetén kitöltendő.
+[^406]: Háromnál több tagú felügyelőbizottság esetén bővíthető.
+[^407]: Csak egy lehetőség választható.
+[^408]: Az a) pont választása esetén kitöltendő.
+[^409]: Több lehetőség választható azzal, hogy a c) pont önmagában nem választható.
+[^410]: Önmagában nem választható. Választása esetén XII. 1.2. a) és b) pontok közül legalább az egyiket meg kell jelölni.
+[^411]: XII.1.2. a) pont választása esetén kötelezően alkalmazandó.
+[^412]: XII.1.2. b) pont választása esetén kötelezően alkalmazandó.
+[^413]: XII.1.2. c) pont választása esetén kötelezően alkalmazandó.
+[^414]: Alapító vagy alapítók aláírása. Szükség esetén bővíthető.
+[^415]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
+[^416]: Szükség esetén kitöltendő.
+[^417]: A mintaokirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a mintaokirat azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a mintaokirat részét képezik, ha ezen részek kitöltésére az adott alapítvány esetében nem volt szükség.
+[^418]: Természetes személy esetén kell kitölteni.
+[^419]: Természetes személy esetén kell kitölteni.
+[^420]: Jogi személy esetén kell kitölteni. Cégjegyzékszám vagy egyéb nyilvántartási szám.
+[^421]: Jogi személy esetén kell kitölteni.
+[^422]: Jogi személy esetén kell kitölteni.
+[^423]: Csak egy lehetőség választható.
+[^424]: A nyilatkozatot tevő természetes személy, vagy jogi személy képviselőjének aláírása.
+[^425]: Kitöltendő az aláírás valódiságának tanúk általi igazolása esetén.
+[^426]: Szükség esetén kitöltendő.

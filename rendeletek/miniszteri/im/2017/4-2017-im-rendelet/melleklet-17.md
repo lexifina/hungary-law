@@ -1,4 +1,4 @@
-17. melléklet a 4/2017. (IV. 3.) IM rendelethez[^458]
+17. melléklet a 4/2017. (IV. 3.) IM rendelethez[^460]
 
 Az ingatlan-nyilvántartásba bejegyzett jog vagy tény keletkezését, változását vagy megszűnését érintő kérelem melléklete
 
@@ -58,4 +58,4 @@ III. Minden esetben kötelező: A jogi képviselő vagy jogi képviselő nélkü
 
 3. nem áll fenn harmadik személy joga, ami a fentiekben megjelölt ingatlanra vonatkozó jogváltozásnak akadálya, illetőleg ilyen ingatlanon fennálló, harmadik személyt megillető jog esetében a harmadik személy jogosult a szükséges nyilatkozatot megadta és azt tartalmazó okirat(ok) csatolásra került(ek) jelen adatlap mellékleteként.
 
-[^458]: A 17. mellékletet a 27/2024. (XII. 30.) IM rendelet 9. § (2) bekezdése iktatta be.
+[^460]: A 17. mellékletet a 27/2024. (XII. 30.) IM rendelet 9. § (2) bekezdése iktatta be.
