@@ -1,3 +1,3 @@
-111. §[^172]
+111. §[^124]
 
-[^172]: A 111. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 111. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

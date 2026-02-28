@@ -1,3 +1,3 @@
-107. §[^168]
+107. §[^120]
 
-[^168]: A 107. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 107. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
