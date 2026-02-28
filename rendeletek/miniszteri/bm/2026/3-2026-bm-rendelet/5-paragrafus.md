@@ -1,5 +1,5 @@
 ## 3. Az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet módosítása
 
-5. § Az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: R3.) 14. § (7) bekezdése a következő i) és j) ponttal egészül ki:
+5. §[^4]
 
-(Ez a rendelet)
+[^4]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

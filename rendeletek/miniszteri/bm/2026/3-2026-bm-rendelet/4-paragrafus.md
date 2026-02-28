@@ -1,1 +1,3 @@
-4. § Az R2. 6/a. számú melléklet I. pont 6. alpont b) pontjában és II. pont 3. alpont b) pontjában a „címpéldánya” szövegrész helyébe a „címpéldánya, ha az a cégnyilvántartásban nem szerepel” szöveg lép.
+4. §[^3]
+
+[^3]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

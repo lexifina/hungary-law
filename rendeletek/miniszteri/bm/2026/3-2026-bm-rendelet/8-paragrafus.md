@@ -1,1 +1,3 @@
-8. § Az R4. 25. §-ában az „április 10-éig” szövegrész helyébe a „február 28-áig” szöveg lép.
+8. §[^7]
+
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
