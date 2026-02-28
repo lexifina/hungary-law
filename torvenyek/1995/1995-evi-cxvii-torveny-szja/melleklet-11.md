@@ -659,5 +659,3 @@ amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
 11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
 
 12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja. Zárt végű lízingbe vett vagy részletre vétellel megszerzett gépjármű esetében a tulajdonjog az ügyletre vonatkozó lízingszerződéssel, kölcsönszerződéssel igazolható.
-
-13.
