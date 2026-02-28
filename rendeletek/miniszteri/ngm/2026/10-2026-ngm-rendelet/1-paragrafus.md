@@ -4,6 +4,6 @@
 
 ## [3] A földgázellátásról szóló 2008. évi XL. törvény 133. § (2) bekezdés 2. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeiről, az e tevékenységek bejelentésének és nyilvántartásának rendjéről, valamint az e tevékenységekre vonatkozó kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekről szóló 42/2017. (XII. 11.) NGM rendelet (a továbbiakban: R.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Mentesül minden bejegyzett tevékenység tekintetében az (1) bekezdés szerinti továbbképzési kötelezettség teljesítése alól az a gázszerelő, aki az 1. mellékletben foglalt táblázat 8. és 10. sorában meghatározott szakértői vagy tervezői jogosultsággal rendelkezik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
