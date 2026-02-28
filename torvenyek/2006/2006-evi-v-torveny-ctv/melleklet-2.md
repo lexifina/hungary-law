@@ -124,6 +124,8 @@
 
 ## d) a külföldi vállalkozás megszűnése közzétételét igazoló lappéldány kivonata;
 
+## e) sportfióktelep alapításakor a sportról szóló 2004. évi I. törvény 18/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat;
+
 ## 7. külföldiek közvetlen kereskedelmi képviselete esetén
 
 ## a) a képviseletet létesítő, valamint annak képviselőjét kijelölő határozat és annak hiteles magyar nyelvű fordítása,

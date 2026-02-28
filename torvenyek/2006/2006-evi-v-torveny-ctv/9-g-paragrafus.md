@@ -22,10 +22,6 @@ szükséges, az eljáró jogi képviselő megkövetelheti a cégalapításhoz ka
 
 (4) Az Európai Unió tagállamának állampolgára vagy az Európai Unió tagállamában bejegyzett jogi személy vagy egyéb szervezet által alapított korlátolt felelősségű társaság, valamint az Európai Unió tagállamában bejegyzett társaság által alapított külföldi vállalkozás magyarországi fióktelepe kérheti az e törvény szerinti, az online alapított cég bejegyzésére vonatkozó rendelkezések alkalmazását akkor is, ha az (1) bekezdés a) és b) pontja szerinti feltétel kizárólag a (3) bekezdés alkalmazása miatt nem teljesült.
 
-## II. Fejezet
+10. CÍM
 
-## A CÉGNYILVÁNTARTÁS NYILVÁNOSSÁGA ÉS KÖZHITELESSÉGE
-
-1. CÍM
-
-A nyilvánosság
+SPORTFIÓKTELEP

@@ -120,11 +120,11 @@
 
 ## dc) a vezető tisztségviselő nyilatkozata a várható költségekről, és azon kedvezményekről, amelyeket a társaság a működési forma változására tekintettel biztosít;
 
-## 3. külföldi vállalkozás magyarországi fióktelepe esetén
+## 3. külföldi vállalkozás magyarországi fióktelepe (sportfióktelep) esetén
 
-## a) a külföldi vállalkozás létesítő okirata, illetve annak a változásokkal egységes szerkezetbe foglalt szövege,
+## a) a külföldi vállalkozás – sportfióktelep esetén az alapító nemzetközi sportszervezet – létesítő okirata, illetve annak a változásokkal egységes szerkezetbe foglalt szövege,
 
-## b) a külföldi vállalkozás joga szerinti kereskedelmi nyilvántartásba történt felvételét igazoló okirat, valamint ennek hiteles magyar nyelvű fordítása;
+## b) a külföldi vállalkozás joga szerinti kereskedelmi nyilvántartásba – sportfióktelep esetén az alapító nemzetközi sportszervezet joga szerinti nyilvántartásba – történt felvételét igazoló okirat, valamint ennek hiteles magyar nyelvű fordítása;
 
 ## 4. külföldiek közvetlen kereskedelmi képviselete esetén
 

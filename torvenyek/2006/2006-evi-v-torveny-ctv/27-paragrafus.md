@@ -100,6 +100,16 @@ d) ha a külföldi vállalkozás az Európai Unió más tagállamában bejegyzet
 
 (8a) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül kapott értesítés alapján hivatalból jegyzi be az EUID-val rendelkező külföldi vállalkozás magyarországi fióktelepe cégjegyzékében a külföldi vállalkozás cégjegyzékben nyilvántartott adatainak változását, továbbá a céginformációs szolgálat informatikai rendszere segítségével gondoskodik a külföldi vállalkozás számviteli beszámolójának közzétételéről.
 
+(8b) Sportfióktelep esetében a (8) bekezdéstől eltérően:
+
+a) a nemzetközi sportszervezet nevét, szervezeti formáját, nyilvántartási számát és székhelyét,
+
+b) a nemzetközi sportszervezet nyilvántartását vezető bíróság, illetve hatóság megnevezését és székhelyét,
+
+c) a nemzetközi sportszervezet képviseletére jogosult személy vagy szerv nevét, természetes személy esetén lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját,
+
+d) azt a tényt, hogy a cég a sportról szóló 2004. évi I. törvény szerint alapított sportfióktelep.
+
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
 a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyilvántartási számát) és székhelyét,
