@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2025-09-01 | 2025. évi LIV. törvény | 2000-100-00-00.84 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2000-100-00-00.86 |
 | 2026-01-01 | 2025. évi LIV. törvény | 2000-100-00-00.85 |
+| 2026-02-28 | 2025. évi CXXXVI. törvény | 2000-100-00-00.87 |

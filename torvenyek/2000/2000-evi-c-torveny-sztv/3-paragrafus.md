@@ -40,9 +40,11 @@ n) az önkéntes nyugdíjpénztár,
 
 o) az önkéntes kölcsönös egészség- és önsegélyező pénztár,
 
-p) a közraktár, valamint
+p) a sportról szóló törvény szerinti sportfióktelep,
 
-q) a külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet.
+q) a közraktár, valamint
+
+r) jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet.
 
 (2) E törvény alkalmazásában
 
