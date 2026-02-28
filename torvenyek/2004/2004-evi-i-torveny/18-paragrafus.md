@@ -1,6 +1,6 @@
 ## A sportvállalkozás
 
-18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló törvény alapján a cégjegyzékbe bejegyzett tevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
+18. § (1) Sportvállalkozásnak minősül az a gazdasági társaság, amelynek a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján a cégjegyzékbe bejegyzett tevékenysége sporttevékenység, továbbá a gazdasági társaság célja sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése egy vagy több sportágban.
 
 (2) Sportvállalkozás korlátolt felelősségű társasági, illetve részvénytársasági formában alapítható, illetve működhet a gazdasági társaságokról szóló törvény szabályai szerint.
 

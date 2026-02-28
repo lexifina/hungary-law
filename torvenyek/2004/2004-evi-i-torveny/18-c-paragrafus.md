@@ -1,0 +1,1 @@
+18/C. § A sportfióktelep gazdálkodására és könyvvezetésére a Civil tv. V. és VI. Fejezetét kell – az e törvényben foglalt eltérésekkel – alkalmazni azzal, hogy a számvitelről szóló törvény szerinti beszámolót a Ctv. 18. és 19. §-a szerint kell letétbe helyezni és közzétenni.

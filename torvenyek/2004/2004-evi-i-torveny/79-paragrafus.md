@@ -38,7 +38,7 @@ bm)
 
 bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
 
-bo)
+bo) a 18/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját,
 
 bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
 
