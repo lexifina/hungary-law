@@ -396,6 +396,6 @@
 
 ## Okirati ellenjegyzés / közjegyzői okirat elemei
 
-5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^86]
+5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^85]
 
-[^86]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^85]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.

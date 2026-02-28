@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2025-01-15 | 2006-21-20-06.42 | 27/2024. (XII. 30.) IM rendelet |
 | 2025-03-01 | 2006-21-20-06.40 | 12/2014. (II. 28.) KIM rendelet |
 | 2026-01-01 | 2006-21-20-06.44 | 27/2024. (XII. 30.) IM rendelet |
+| 2026-02-28 | 2006-21-20-06.43 | 21/2018. (VII. 4.) IM rendelet |

@@ -44,46 +44,46 @@
 
 ## b) Az egyes cégformák kódszámai (a cégjegyzékszám harmadik és negyedik száma):
 
-| 01 | Vállalat |
+## 01 Vállalat
 
-| 02 | Szövetkezet |
+## 02 Szövetkezet
 
-| 03 | Közkereseti társaság |
+## 03 Közkereseti társaság
 
-| 06 | Betéti társaság |
+## 06 Betéti társaság
 
-| 07 | Egyesülés |
+## 07 Egyesülés
 
-| 08 | Közös vállalat |
+## 08 Közös vállalat
 
-| 09 | Korlátolt felelősségű társaság |
+## 09 Korlátolt felelősségű társaság
 
-| 10 | Részvénytársaság |
+## 10 Részvénytársaság
 
-| 11 | Egyéni cég |
+## 11 Egyéni cég
 
-| 12 | Külföldiek magyarországi közvetlen kereskedelmi képviselete |
+## 12 Külföldiek magyarországi közvetlen kereskedelmi képviselete
 
-| 14 | Közhasznú társaság |
+## 14 Közhasznú társaság
 
-| 15 | Erdőbirtokossági társulat |
+## 15 Erdőbirtokossági társulat
 
-| 16 | Vízgazdálkodási társulat (Víziközmű társulat) |
+## 16 Vízgazdálkodási társulat (Víziközmű társulat)
 
-| 17 | Külföldi vállalkozás magyarországi fióktelepe |
+## 17 Külföldi vállalkozás magyarországi fióktelepe / Sportfióktelep
 
-| 18 | Végrehajtói iroda |
+## 18 Végrehajtói iroda
 
-| 19 | Európai gazdasági egyesülés |
+## 19 Európai gazdasági egyesülés
 
-| 20 | Európai részvénytársaság |
+## 20 Európai részvénytársaság
 
-| 21 | Közjegyzői iroda |
+## 21 Közjegyzői iroda
 
-| 22 | Külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye |
+## 22 Külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye
 
-| 23 | Európai szövetkezet |
+## 23 Európai szövetkezet
 
-3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^84]
+3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^83]
 
-[^84]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^83]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.
