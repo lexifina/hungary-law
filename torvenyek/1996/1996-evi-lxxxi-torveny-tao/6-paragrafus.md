@@ -30,7 +30,7 @@ f) megszűnése napján, ha az adózó végelszámolási vagy felszámolási elj
 
 (3e) A csoporttag jogutódja a csoportos társasági adóalany tagjaként alakul meg, kivéve, ha már megalakulásakor sem felel meg a tagságra előírt összes feltételnek.
 
-(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
+(4) Az alapítvány, a közalapítvány, az egyesület, a sportfióktelep, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
 (4a)
 

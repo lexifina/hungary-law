@@ -36,7 +36,7 @@ m) a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény sz
 
 a) belföldi telephelyen végez vállalkozási tevékenységet, feltéve, hogy az üzletvezetésének helyére tekintettel nem tekinthető belföldi illetőségű adózónak (a továbbiakban: külföldi vállalkozó);
 
-b)
+b) belföldön sportfióktelepen keresztül végez tevékenységet;
 
 c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenítése vagy kivonása révén szerez jövedelmet (a továbbiakban: ingatlannal rendelkező társaság tagja).
 

@@ -55,3 +55,5 @@ d) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestül
 (10a) A (8), a (9) és a (10) bekezdés hatálya alá tartozó adózó az adóalap megállapítása során figyelmen kívül hagyja a (2) bekezdés d) és f) pontja, a (3) bekezdés b) pont bb) alpontja, a (3) bekezdés c) és d) pontja szerinti rendelkezéseket.
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(9) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
+
+(12) A sportfióktelep az adóalapot e § egyesületre vonatkozó rendelkezéseinek alkalmazásával állapítja meg.

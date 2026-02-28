@@ -17,7 +17,3 @@ A lakásszövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzé
 C)
 
 D)
-
-A közhasznú szervezetként besorolt felsőoktatási intézmény által végzett kedvezményezett tevékenységek
-
-A közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:

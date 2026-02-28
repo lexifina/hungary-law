@@ -449,3 +449,5 @@ j) az a)–g) pont szerinti különbség csak akkor tekinthető ugyanazon tény�
 59. hibrid gazdálkodó szervezet: olyan szervezet vagy struktúra, amely egy adott adójogrendszer értelmében adózó gazdálkodó szervezetnek minősül, és amelynek jövedelmét vagy költségeit, ráfordításait egy másik adójogrendszer egy vagy több másik személy jövedelmeként vagy költségeiként, ráfordításaiként kezeli;
 
 60. önálló adóalanyként figyelembe nem vett állandó telephely: olyan tevékenység, amelyet annak az államnak az adójogrendszere szerint, ahol az adózó belföldi illetőségűnek minősül, úgy vesznek figyelembe, mint amely külföldi állandó telephelyet keletkeztet, de az érintett külföldi adójogrendszer szabályai értelmében nem minősül állandó telephelynek.
+
+61. sportfióktelep: a sportról szóló törvényben ekként meghatározott szervezet.
