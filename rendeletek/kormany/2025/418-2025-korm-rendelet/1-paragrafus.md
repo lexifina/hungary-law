@@ -26,6 +26,14 @@
 
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet [a továbbiakban: 217/1997. (XII. 1.) Korm. rendelet] a „Különleges helyzetből adódó eltérő rendelkezések” alcímet megelőzően a következő 5/J. §-sal egészül ki:
 
-[^1]: Az 1. § a 18. § (3) bekezdése alapján 2026. március 1-jén lép hatályba.
+„5/J. § (1) Az EESZT működtetője
+
+a) a digitális időpontfoglalási rendszerben lefoglalt időpontot legkésőbb 48 órával megelőzően, vagy
+
+b) ha az időpontfoglalás és az ellátás időpontja között 48 óránál kevesebb van, akkor az időpontfoglalást követő 12 órán belül
+
+értesíti a beteget az általa megadott elérhetőségen – SMS vagy e-mail útján – az ellátás időpontjáról és helyéről.
+
+(2) Az (1) bekezdés szerinti értesítésben fel kell hívni a beteg figyelmét arra, hogy ha nem tudja igénybe venni a lefoglalt időpontban az ellátást, milyen módon mondhatja azt le.”
