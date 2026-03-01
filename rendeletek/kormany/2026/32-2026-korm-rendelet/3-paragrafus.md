@@ -1,0 +1,13 @@
+3. § (1) A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési alapismereteket és elsősegélynyújtási ismereteket a nemzeti köznevelésről szóló törvény (a továbbiakban: Nkt.) – szakképző intézménnyel fennálló tanulói jogviszony esetén a szakképzésről szóló törvény (a továbbiakban: Szkt.) –, valamint a Kkt. középiskolai tanulóira vonatkozó szabályai szerint szerzi meg.
+
+(2) Ha a jogosult nem áll középiskolával vagy szakképző intézménnyel tanulói jogviszonyban, az Nkt.-ben, az Szkt.-ben, a Kkt.-ben és a Kkt. végrehajtására kiadott rendeletben meghatározott szabályokat a (3)–(7) bekezdésben foglalt kiegészítésekkel kell alkalmazni.
+
+(3) A jogosultat – a fenntartó útján benyújtott kérelmére – a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges (1) bekezdés szerinti ismeretek elsajátítása érdekében a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF) az Szkt. szerinti tanulmányi rendszerben (a továbbiakban: tanulmányi rendszer) rögzíti, e tevékenysége során az SZGYF-re a szakképző intézményekre, a jogosultra a tanulókra vonatkozó, az Szkt.-ben rögzített szabályokat kell alkalmazni.
+
+(4) A jogosult számára az (1) bekezdés szerinti ismeretek elsajátítását a tanulmányi rendszeren keresztül az SZGYF biztosítja, a jogosultat az (1) bekezdés szerinti ismeretekből az SZGYF vizsgáztatja. Az SZGYF-et e feladata ellátása során szakképző intézménynek, a jogosultat a képzés és vizsga tekintetben az SZGYF tanulójának kell tekinteni, azzal, hogy a képzés lebonyolításában tárgyi és személyi feltétel biztosítására az (5) bekezdés szerinti intézmények bevonhatók, valamint a vizsga lebonyolítása során az SZGYF a (6) bekezdés szerinti középiskolát bevonja.
+
+(5) A jogosult számára személyes felkészülést a jogosult kérésére a Klebelsberg Központ (a továbbiakban: KK) által – az SZGYF-fel történt előzetes egyeztetés alapján – kijelölt középiskola biztosítja. A személyes felkészülést a KK-val erről megállapodott szakképző intézmény is biztosíthatja (a továbbiakban együtt: kijelölt középiskola).
+
+(6) A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési alapismeretekből a vizsgát helyileg a kijelölt középiskolában teszi le.
+
+(7) A jogosult a „B” kategóriába” sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési elsősegélynyújtási ismereteket a tanulmányi rendszerben, a középiskolásokra vonatkozó szabályok szerint tartott gyakorlati képzésen szerzi meg, azzal az eltéréssel, hogy a jogosult a vizsgát a tanulmányi rendszerben, helyileg a kijelölt középiskolában teszi le.

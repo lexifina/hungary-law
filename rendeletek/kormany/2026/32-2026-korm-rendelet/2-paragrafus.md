@@ -1,0 +1,1 @@
+2. § A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges orvosi alkalmassági vizsgálat tekintetében a közúti közlekedésről szóló törvény (a továbbiakban: Kkt.) szerinti középiskolás járművezetőnek minősül.
