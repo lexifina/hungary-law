@@ -1,0 +1,11 @@
+26. § (1) Az Üttv. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ügyvéd a letétet a letét céljától eltérően nem használhatja, azt nem hasznosíthatja, továbbá azt más személy birtokába vagy őrizetébe e törvény eltérő rendelkezése hiányában nem adhatja.”
+
+(2) Az Üttv. 48. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Nem minősül a letét céljától eltérő hasznosításnak, ha az ügyvéd a letéti szerződés rendelkezése alapján a letett összegből a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott állampapírt (a továbbiakban: állampapír) vásárol, és azt veszi letétbe, feltéve, hogy a letéti szerződés teljesítését ez nem veszélyezteti és jogosult kifejezetten hozzájárul. Az állampapír-vásárlással és -visszaváltással kapcsolatos költségek a letéti szerződés eltérő rendelkezése hiányában a letevőt terhelik, a letett összeg terhére e költségek nem számolhatók el. Az állampapír vásárlásához az állampapír típusa, illetve besorolása megjelölésével a letevő írásban járul hozzá.”
+
+(3) Az Üttv. 48. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A letéti szerződésben a felek abban is megállapodhatnak, hogy az ügyvéd a pénzletétet az ügyfél megbízásából letétkezelés céljára szolgáló betétszámláján helyezi el, és azt lekötheti. Az ügyvédi letét betétszámlán való kezelésének kockázatairól, az Országos Betétbiztosítási Alap által nyújtott biztosításról és a kártalanítás összeghatáráról szóló tájékoztatást és az ügyfél, valamint a jogosult kifejezett hozzájáruló nyilatkozatát a letéti szerződés tartalmazza.”

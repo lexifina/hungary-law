@@ -1,0 +1,1 @@
+3. § A Ctv. 2. számú melléklet II. pont 1. alpont a) pont ab) alpontjában a „határozattal, árveréssel történő megszerzése” szövegrész helyébe a „határozattal, nem végrehajtási árveréssel történő árverési megszerzése” szöveg lép.
