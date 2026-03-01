@@ -8,7 +8,7 @@ b) a kötelezett helyzetéből vagy a kötelezettség természetéből fakadó, 
 
 (2) Ha a jogosult nem tesz eleget az (1) bekezdés szerinti kötelezettségének, a kezes határidő nélkül jogosult a szerződéstől elállni.
 
-(3) Ha a fogyasztó a kötelezettnek a jogosulttal szemben fennálló valamennyi kötelezettségéért vagy meghatározott jogviszony alapján fennálló valamennyi kötelezettségéért vállalt kezességet, a kezesség akkor érvényes, ha a szerződésben meghatározták azt a legmagasabb összeget, amelynek erejéig a kezes felel a jogosult tartozásáért.
+(3) Ha a fogyasztó a kötelezettnek a jogosulttal szemben fennálló valamennyi kötelezettségéért vagy meghatározott jogviszony alapján fennálló valamennyi kötelezettségéért vállalt kezességet, a kezesség akkor érvényes, ha a szerződésben meghatározták azt a legmagasabb összeget, amelynek erejéig a kezes felel a kötelezett tartozásáért.
 
 (4)
 

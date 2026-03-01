@@ -11,3 +11,5 @@ b) akit az örökhagyó az öröklésből kizárt vagy kitagadott;
 c) aki lemondott az öröklésről;
 
 d) aki az örökséget visszautasította.
+
+e) aki az örökséget jogszabály rendelkezése folytán nem szerezheti meg.

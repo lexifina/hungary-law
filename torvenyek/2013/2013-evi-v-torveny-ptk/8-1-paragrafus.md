@@ -18,7 +18,7 @@
 
 4. vállalkozás: a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljáró személy;
 
-5. vagyontárgy: a dolog, a jog, a követelés;
+5. vagyontárgy: a dolog, a jog, a követelés, valamint a jogi személyben fennálló vagyoni részesedés;
 
 6. bank: a betétgyűjtésre és fizetési számla vezetésére jogosult személy;
 

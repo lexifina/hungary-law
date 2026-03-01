@@ -10,4 +10,4 @@ c) a sajátkezűleg írt vagy más által írt végrendeletet aláírja, és ak�
 
 (2) A több különálló lapból álló sajátkezűleg írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el.
 
-(3) A több különálló lapból álló más által írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el, továbbá ha minden lapját a végrendelkező és mindkét tanú aláírta.
+(3) A több különálló lapból álló, más által írt írásbeli magánvégrendelet akkor érvényes, ha minden lapját folyamatos sorszámozással látták el, továbbá, ha minden lapját a végrendelkező és – ha a végrendelet érvényességéhez tanúk alkalmazása szükséges – mindkét tanú aláírta.

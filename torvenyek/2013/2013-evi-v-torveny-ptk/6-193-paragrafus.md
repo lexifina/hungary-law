@@ -11,3 +11,5 @@
 (3) Az engedményezéssel az engedményesre szállnak át a követelés teljesítését elősegítő és annak érvényesítéséhez kapcsolódó jogok, a követelés biztosítékai, valamint a kamatkövetelés is. Az engedményes követelheti a zálogtárgy birtokának átruházását, illetve a rá átszálló jelzálogjognak a javára való bejegyzéséhez szükséges jognyilatkozatok kiadását.
 
 (4) Ha az engedményezett követelés esedékessége a jogosult jognyilatkozatától vagy egyéb általa teljesítendő feltételtől függ, az engedményes megteheti e jognyilatkozatot vagy teljesítheti az esedékesség bekövetkezéséhez szükséges feltételt.
+
+(5) Az engedményezett követelés alapjául szolgáló szerződés érvénytelensége esetén az engedményest megilletik azok a jogok, amelyeket az érvénytelenség jogkövetkezményeinek alkalmazása során az engedményezett követelés tekintetében engedményezés hiányában az engedményező érvényesíthetne a kötelezettel szemben.

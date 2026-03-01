@@ -10,8 +10,12 @@
 
 (5) A legfőbb szerv eltérő határozata hiányában a veszteség pótlásához nem szükséges pótbefizetéseket a visszafizetés időpontjában a társasággal tagsági jogviszonyban álló tagok részére vissza kell fizetni. A visszafizetésre a vagyoni hozzájárulások teljes befizetése után kerülhet sor.
 
+(5a) A társaság jogutód nélküli megszűnése esetén a hitelezők kielégítése után fennmaradó vagyonból először a pótbefizetéseket kell visszatéríteni, csak ezt követően kerülhet sor a tagi részesedések arányában a fennmaradt vagyon tagok közötti felosztására.
+
 (6) Korlátolt felelősségű társaság esetén a saját üzletrészre, zártkörűen működő részvénytársaság esetén a saját részvényre jutó pótbefizetést nem kell visszafizetni.
 
 (7) Egyszemélyes korlátolt felelősségű társaság és egyszemélyes részvénytársaság esetén a pótbefizetés előírásához létesítő okiratba foglalt rendelkezésre nincs szükség. A pótbefizetés feltételeit az alapítónak vagy az egyedüli tagnak a határozatában kell megállapítania.
 
 (8) A nyilvánosan működő részvénytársaság alapszabálya pótbefizetésről nem rendelkezhet. Az alapszabály ettől eltérő rendelkezése semmis.
+
+(9) Zártkörűen működő részvénytársaságnál a pótbefizetés (1)–(2) bekezdésben foglalt előírásához és annak feltételei meghatározásához valamennyi részvényes egyhangú szavazatával meghozott határozatra van szükség. E rendelkezéstől való eltérés semmis.

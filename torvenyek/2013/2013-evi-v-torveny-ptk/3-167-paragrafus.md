@@ -14,4 +14,4 @@
 
 (7) A társasági szerződésben az üzletrész pénzszolgáltatás ellenében, kívülálló személyre történő átruházása érvényesen nem zárható ki.
 
-(8) Az üzletrész végrehajtási eljárás keretében történő értékesítése során az üzletrész másokat megelőző megszerzésére irányuló jog – (2) bekezdés szerinti – jogosultja e jogát jogszabályban meghatározott eljárás szabályai szerint gyakorolhatja.
+(8)

@@ -4,6 +4,6 @@
 
 (2) Közkereseti társaság, betéti társaság és egyéni cég nem lehet gazdasági társaság korlátlanul felelős tagja.
 
-(3) Nyilvánosan működő részvénytársaság kivételével nem lehet gazdasági társaság tagja, aki eltiltás hatálya alatt áll.
+(3) Nyilvánosan működő részvénytársaság kivételével nem szerezhet gazdasági társaságban többségi befolyást, nem válhat gazdasági társaság korlátlanul felelős tagjává, aki eltiltás hatálya alatt áll.
 
 (4) A részvénytársaság tagjai a részvényesek.

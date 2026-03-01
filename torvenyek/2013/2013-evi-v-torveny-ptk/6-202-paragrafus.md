@@ -4,7 +4,7 @@
 
 ### 6:202. § [Jogátruházás]
 
-(1) A jogosult jogát másra átruházhatja, kivéve, ha jogszabály a jog forgalomképességét kizárja vagy a forgalomképtelenség a jog természetéből egyértelműen következik.
+(1) A jogosult jogát másra átruházhatja, ha ezt jogszabály lehetővé teszi vagy egyébként a jog forgalomképessége annak természetéből következik.
 
 (2) Ha e törvény eltérően nem rendelkezik, a jog átruházással való megszerzéséhez az átruházásra irányuló szerződés vagy más jogcím és a jogátruházás szükséges. A jogátruházás az átruházó és az új jogosult szerződése, amellyel az új jogosult az átruházó helyébe lép.
 
