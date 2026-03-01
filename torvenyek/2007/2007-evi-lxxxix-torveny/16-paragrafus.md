@@ -24,11 +24,15 @@ g) a határvízen történő közlekedés engedélyezésének szabályait,
 
 h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.
 
+i) az előzetes időpontfoglaló rendszer működtetése körében kijelölt határátkelőhelyeket, járműkategóriákat, az előzetes időpontfoglaló rendszer használatának szabályait, és a rendőrségnek az előzetes időpontfoglaló rendszerrel összefüggő feladatait,
+
+j) az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj beszedésére, valamint az előzetes időpontfoglaló rendszer működéséhez kapcsolódó ügyfélszolgálati tevékenység ellátására kijelölt közreműködőt, továbbá a közreműködői feladatok ellátása és finanszírozása érdekében szerződéskötésre feljogosított szervezetet.
+
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
 
-(7)
+(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy az előzetes időpontfoglaló rendszer használatáért fizetendő igazgatási szolgáltatási díj mértékét és beszedésének szabályait – a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
 
