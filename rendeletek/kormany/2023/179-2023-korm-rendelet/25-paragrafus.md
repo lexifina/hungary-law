@@ -4,7 +4,7 @@
 
 2. megállapodáson és bírósági határozaton alapuló földhasználati jog;
 
-3.[^26] haszonélvezeti jog, túlélő házastárs haszonélvezeti joga és özvegyi jog;
+3.[^27] haszonélvezeti jog, túlélő házastárs haszonélvezeti joga és özvegyi jog;
 
 4. használat joga;
 
@@ -18,7 +18,7 @@ b) földminősítési mintaterek elhelyezését biztosító használati jog,
 
 c) államhatárjelek elhelyezését biztosító használati jog,
 
-d)[^27] gázipari sajátos építmények elhelyezését, illetve üzemeltetését biztosító vezetékjog és használati jog,
+d)[^28] gázipari sajátos építmények elhelyezését, illetve üzemeltetését biztosító vezetékjog és használati jog,
 
 e) vezetékjog,
 
@@ -26,7 +26,7 @@ f) vízvezetési szolgalmi jog,
 
 g) vízhasználati szolgalmi jog,
 
-h)[^28] bányászati célú szolgalom,
+h)[^29] bányászati célú szolgalom,
 
 i) vasúti használati jog,
 
@@ -40,7 +40,7 @@ m) villamosenergia-ipari építmény céljára szolgáló vezetékszolgalom,
 
 n) villamosenergia-ipari építmény céljára szolgáló használati szolgalom;
 
-o)[^29] öntözési szolgalom;
+o)[^30] öntözési szolgalom;
 
 7. jelzálogjog, önálló zálogjog, átalakításos önálló zálogjog;
 
@@ -70,9 +70,11 @@ o)[^29] öntözési szolgalom;
 
 20. közös tulajdon használatára vonatkozó jog.
 
-21.[^30] építményi jog;
+21.[^31] építményi jog;
 
-22.[^31] jogszabályon alapuló használati jog.
+22.[^32] jogszabályon alapuló használati jog.
+
+23.[^33] társasházi építményi jog.
 
 (2) A tulajdoni lap III. része tartalmazza az ingatlanhoz vagy a bejegyzett jogokhoz, valamint annak jogosultjaihoz kapcsolódó következő tényeket:
 
@@ -96,13 +98,13 @@ b) végelszámolás;
 
 6. telekalakítási eljárás megindítása;
 
-7.[^32] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
+7.[^34] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
 
-7a.[^33] részarány-földtulajdon helyének meghatározására irányuló eljárás megindítása;
+7a.[^35] részarány-földtulajdon helyének meghatározására irányuló eljárás megindítása;
 
 8. felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindítása;
 
-9.[^34]
+9.[^36]
 
 10. az ingatlanügyi hatóság döntése elleni
 
@@ -176,7 +178,7 @@ b) helyrehozatali kötelezettség,
 
 c) beültetési kötelezettség;
 
-d)[^35] leállási kötelezettség;
+d)[^37] leállási kötelezettség;
 
 24. önkormányzati hatósági szerződésen alapuló településrendezési kötelezettség;
 
@@ -212,7 +214,7 @@ g) építmény, építményrész felülvizsgálatára, felújítására, átalak
 
 33. zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására;
 
-34.[^36] jelzálogjog, önálló zálogjog, alzálogjog ranghelyének előzetes biztosítása;
+34.[^38] jelzálogjog, önálló zálogjog, alzálogjog ranghelyének előzetes biztosítása;
 
 35. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról;
 
@@ -220,7 +222,7 @@ g) építmény, építményrész felülvizsgálatára, felújítására, átalak
 
 37. a társasházakról szóló törvény alapján
 
-a)[^37]
+a)[^39]
 
 b) közös képviselői tisztség keletkezése,
 
@@ -252,7 +254,7 @@ e) szervezeti-működési szabályzat benyújtása;
 
 48. biztonsági övezet fennállása;
 
-49.[^38] kutatási védőidom fennállása;
+49.[^40] kutatási védőidom fennállása;
 
 50. teljes eljárásban történő elbírálás;
 
@@ -262,11 +264,11 @@ e) szervezeti-működési szabályzat benyújtása;
 
 53. a közös tulajdon rendezésének kötelezettsége.
 
-54.[^39] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
+54.[^41] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
 
-55.[^40] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
+55.[^42] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
 
-56.[^41] változtatási tilalom.
+56.[^43] változtatási tilalom.
 
 (3) A tulajdoni lap III. része tartalmazza az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, tényekhez, valamint azok jogosultjaihoz kapcsolódó következő adatokat:
 
@@ -290,22 +292,23 @@ e) szervezeti-működési szabályzat benyújtása;
 
 (4) A tulajdoni lap III. része a jogosultként bejegyzett – az SZL-ben szereplő – természetes személy természetes személyazonosító adatait és lakcímét az SZL-ből, a jogosultként bejegyzett cég (3) bekezdés 4. pontja szerinti adatait az OCCR-ből átvett adatként tartalmazza.
 
-(5)[^42] A tulajdoni lap III. része tartalmazza természetes személyek esetén a benyújtáskori természetes személyazonosító adatokat és lakcímadatot, cégek esetében a benyújtáskori nevet, székhelyadatot, nyilvántartást vezető szervet és cégjegyzékszámot.
+(5)[^44] A tulajdoni lap III. része tartalmazza természetes személyek esetén a benyújtáskori természetes személyazonosító adatokat és lakcímadatot, cégek esetében a benyújtáskori nevet, székhelyadatot, nyilvántartást vezető szervet és cégjegyzékszámot.
 
-[^26]: A 25. § (1) bekezdés 3. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^27]: A 25. § (1) bekezdés 6. pont d) alpontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^28]: A 25. § (1) bekezdés 6. pont h) alpontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^29]: A 25. § (1) bekezdés 6. pont o) alpontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^30]: A 25. § (1) bekezdés 21. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^31]: A 25. § (1) bekezdés 22. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^32]: A 25. § (2) bekezdés 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^33]: A 25. § (2) bekezdés 7a. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (6) bekezdése iktatta be.
-[^34]: A 25. § (2) bekezdés 9. pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
-[^35]: A 25. § (2) bekezdés 23. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (7) bekezdése iktatta be.
-[^36]: A 25. § (2) bekezdés 34. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
-[^37]: A 25. § (2) bekezdés 37. pont a) alpontját a 153/2025. (VI. 19.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
-[^38]: A 25. § (2) bekezdés 49. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^39]: A 25. § (2) bekezdés 54. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^40]: A 25. § (2) bekezdés 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^41]: A 25. § (2) bekezdés 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^42]: A 25. § (5) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
+[^27]: A 25. § (1) bekezdés 3. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^28]: A 25. § (1) bekezdés 6. pont d) alpontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^29]: A 25. § (1) bekezdés 6. pont h) alpontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^30]: A 25. § (1) bekezdés 6. pont o) alpontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^31]: A 25. § (1) bekezdés 21. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^32]: A 25. § (1) bekezdés 22. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^33]: A 25. § (1) bekezdés 23. pontját a 485/2025. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^34]: A 25. § (2) bekezdés 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^35]: A 25. § (2) bekezdés 7a. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^36]: A 25. § (2) bekezdés 9. pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
+[^37]: A 25. § (2) bekezdés 23. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (7) bekezdése iktatta be.
+[^38]: A 25. § (2) bekezdés 34. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
+[^39]: A 25. § (2) bekezdés 37. pont a) alpontját a 153/2025. (VI. 19.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
+[^40]: A 25. § (2) bekezdés 49. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^41]: A 25. § (2) bekezdés 54. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^42]: A 25. § (2) bekezdés 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^43]: A 25. § (2) bekezdés 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^44]: A 25. § (5) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.

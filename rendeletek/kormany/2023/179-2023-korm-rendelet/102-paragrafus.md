@@ -1,8 +1,8 @@
-102. §[^81] (1) Az ingatlan-nyilvántartásban az építési engedélyhez vagy egyszerű bejelentéshez kötött építmény építését, bővítését végleges használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, a használatbavétel tudomásulvételéről szóló végzés vagy az építésügyi hatóság használatbavétel tudomásulvételéről szóló értesítése alapján lehet bejegyezni.
+102. §[^85] (1) Az ingatlan-nyilvántartásban az építési engedélyhez vagy egyszerű bejelentéshez kötött építmény építését, bővítését végleges használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, a használatbavétel tudomásulvételéről szóló végzés vagy az építésügyi hatóság használatbavétel tudomásulvételéről szóló értesítése alapján lehet bejegyezni.
 
 (2) Építmény bontását a bontás elvégzéséről szóló, az építésügyi hatóság által hozott végzés vagy kiállított hatósági bizonyítvány alapján lehet az ingatlan-nyilvántartásba bejegyezni.
 
-(3)[^82] Nemzeti emléknek minősülő műemléken és telkén, valamint műemléki területen a műemlékvédelemmel kapcsolatos szabályokról szóló kormányrendelet szerint az örökségvédelmi hatósági eljáráshoz kötött építést, bővítést, nemzeti emléknek minősülő műemléket érintő rendeltetésmódosítást az örökségvédelmi hatóság által kiállított hatósági bizonyítvány alapján lehet az ingatlan-nyilvántartásba bejegyezni.
+(3)[^86] Nemzeti emléknek minősülő műemléken és telkén, valamint műemléki területen a műemlékvédelemmel kapcsolatos szabályokról szóló kormányrendelet szerint az örökségvédelmi hatósági eljáráshoz kötött építést, bővítést, nemzeti emléknek minősülő műemléket érintő rendeltetésmódosítást az örökségvédelmi hatóság által kiállított hatósági bizonyítvány alapján lehet az ingatlan-nyilvántartásba bejegyezni.
 
 (4) Az építési engedélyhez vagy egyszerű bejelentéshez nem kötött építmény építését, bővítését az építésügyi hatóság által kiállított hatósági bizonyítvány alapján lehet az ingatlan-nyilvántartásba bejegyezni.
 
@@ -16,5 +16,5 @@
 
 (9) Az e § (1)–(6) bekezdése szerinti hatósági döntésnek a kiállító hatóságtól történő beszerzéséről, amennyiben azt az ügyfél a kérelméhez nem csatolta, az ingatlanügyi hatóság gondoskodik.
 
-[^81]: A 102. § a 483/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^82]: A 102. § (3) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 89. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^85]: A 102. § a 483/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^86]: A 102. § (3) bekezdése a 449/2025. (XII. 29.) Korm. rendelet 89. § (2) bekezdés a) pontja szerint módosított szöveg.

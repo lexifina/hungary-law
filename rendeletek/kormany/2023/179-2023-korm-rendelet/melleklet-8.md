@@ -1,4 +1,4 @@
-8. melléklet a 179/2023. (V. 15.) Korm. rendelethez[^153]
+8. melléklet a 179/2023. (V. 15.) Korm. rendelethez[^162]
 
 Papíralapon vagy hivatali kapun keresztül elektronikusan előterjesztett – jogok és tények változásának bejegyzése iránti – kérelem benyújtásához szükséges formanyomtatvány adattartalma
 
@@ -60,4 +60,4 @@ Papíralapon vagy hivatali kapun keresztül elektronikusan előterjesztett – j
 
 2.8. a kérelmező vagy képviselő aláírása.
 
-[^153]: A 8. mellékletet a 483/2024. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^162]: A 8. mellékletet a 483/2024. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

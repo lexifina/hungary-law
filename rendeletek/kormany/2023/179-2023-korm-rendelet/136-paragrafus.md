@@ -50,11 +50,11 @@ iránt benyújtott kérelem esetében.
 
 9. a 2. § (1) bekezdés 13–20. pontja szerinti jogi jelleg.
 
-10.[^120] a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás.
+10.[^127] a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás.
 
 (4) Nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának, ha a beadvány olyan ingatlanra vonatkozik, amellyel kapcsolatban az Ákr. 42. §-a szerinti eljárás van folyamatban.
 
-(5)[^121] Bírósági elrendelés kivételével nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának, ha a beadvány tartalmaz olyan változást, amelyet az iktatást megelőző időponttal kell bejegyezni.
+(5)[^128] Bírósági elrendelés kivételével nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának, ha a beadvány tartalmaz olyan változást, amelyet az iktatást megelőző időponttal kell bejegyezni.
 
 (6) Nincs helye a beadvány automatikus döntéshozatallal történő elbírálásának kettő vagy több kérelem, bírósági elrendelés vagy hatósági felhívás egyidejű érkezése esetén.
 
@@ -114,5 +114,5 @@ bejegyzésére irányul, és az ingatlan mező-, erdőgazdasági hasznosítású
 
 (11) Nincs helye automatikus döntéshozatalnak, ha a beadvány benyújtásakor az ingatlan tulajdoni lapján széljegy található.
 
-[^120]: A 136. § (3) bekezdés 10. pontját a 287/2024. (IX. 30.) Korm. rendelet 18. §-a iktatta be.
-[^121]: A 136. § (5) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
+[^127]: A 136. § (3) bekezdés 10. pontját a 287/2024. (IX. 30.) Korm. rendelet 18. §-a iktatta be.
+[^128]: A 136. § (5) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.

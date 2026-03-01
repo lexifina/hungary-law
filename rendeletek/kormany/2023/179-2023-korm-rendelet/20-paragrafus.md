@@ -88,9 +88,12 @@ o)[^13] öntözési szolgalom;
 
 26.[^15] jogszabályon alapuló használati jog.
 
+27.[^16] társasházi építményi jog.
+
 [^10]: A 20. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
 [^11]: A 20. § 10. pont d) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^12]: A 20. § 10. pont h) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^13]: A 20. § 10. pont o) alpontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^14]: A 20. § 25. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^15]: A 20. § 26. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^16]: A 20. § 27. pontját a 485/2025. (XII. 31.) Korm. rendelet 2. §-a iktatta be.

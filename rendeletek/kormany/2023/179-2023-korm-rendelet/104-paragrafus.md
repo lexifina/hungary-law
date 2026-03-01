@@ -16,9 +16,9 @@ ae) az egyes tulajdonostársak kizárólagos tulajdonába kerülő lakások, ill
 
 af) a közös tulajdonban lévő részekből az egyes tulajdonostársakat megillető tulajdoni hányadot;
 
-b)[^83]
+b)[^87]
 
-(3)[^84] Az alapító okirat tartalmazhatja az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársaknak a társasházakról szóló 2003. évi CXXXIII. törvény
+(3)[^88] Az alapító okirat tartalmazhatja az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársaknak a társasházakról szóló 2003. évi CXXXIII. törvény
 
 a) 10. § (2) bekezdésén alapuló – a közös tulajdon elidegenítéséről szóló –, valamint
 
@@ -32,5 +32,5 @@ közgyűlési határozata szerinti módosítását.
 
 (6) Társasházban építés útján keletkezett új társasházi lakás, illetve nem lakás céljára szolgáló önálló rendeltetési egység vagy helyiség bejegyzésére irányuló kérelemhez az alapító okirat módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a közös tulajdonban álló épületrészekből keletkezett új társasházi lakás, illetve nem lakás céljára szolgáló önálló rendeltetési egység vagy helyiség nyilvántartásba vételét kérik.
 
-[^83]: A 104. § (2) bekezdés b) pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § e) pontja hatályon kívül helyezte.
-[^84]: A 104. § (3) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^87]: A 104. § (2) bekezdés b) pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § e) pontja hatályon kívül helyezte.
+[^88]: A 104. § (3) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

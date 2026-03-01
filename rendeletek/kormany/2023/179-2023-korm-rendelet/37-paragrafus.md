@@ -1,6 +1,6 @@
 ## 23. A tulajdonilap-másolat tartalma
 
-37. § (1)[^45] A (3) bekezdésben, valamint a 38. §-ban foglalt eltéréssel a 23. §-ban, a 24. § (1) és (2) bekezdésében, a 25. § (1)–(4) bekezdésében és a 26. § (1) bekezdésében foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
+37. § (1)[^47] A (3) bekezdésben, valamint a 38. §-ban foglalt eltéréssel a 23. §-ban, a 24. § (1) és (2) bekezdésében, a 25. § (1)–(4) bekezdésében és a 26. § (1) bekezdésében foglaltakon kívül a tulajdonilap-másolat az alábbiakat tartalmazza:
 
 a) papíralapú tulajdonilap-másolat esetén:
 
@@ -34,13 +34,13 @@ c) elektronikus formátumban, gépi interfészen keresztül szolgáltatott tulaj
 
 (2) Ügyleti tulajdonilap-másolat kizárólag elektronikus dokumentumként szolgáltatható az ingatlan-nyilvántartási beadványt benyújtó jogi képviselő, bíróság és hatóság részére a beadvány benyújtásra történő előkészítése során.
 
-(3)[^46] Ha az SZL, illetve az OCCR és az ingatlan-nyilvántartás közötti adatkapcsolat akadályozott, a tulajdonilap-másolat az SZL hatálya alá tartozó természetes személy, illetve a cég 24. § (3) bekezdése és 25. § (5) bekezdése szerinti adatait tartalmazza, azzal, hogy a szemle tulajdonilap-másolaton és a teljes tulajdonilap-másolaton a természetes személy természetes személyazonosító adatai közül kizárólag a családi és utónév, a születési név, a születési év, valamint az anyja születési neve jeleníthető meg.
+(3)[^48] Ha az SZL, illetve az OCCR és az ingatlan-nyilvántartás közötti adatkapcsolat akadályozott, a tulajdonilap-másolat az SZL hatálya alá tartozó természetes személy, illetve a cég 24. § (3) bekezdése és 25. § (5) bekezdése szerinti adatait tartalmazza, azzal, hogy a szemle tulajdonilap-másolaton és a teljes tulajdonilap-másolaton a természetes személy természetes személyazonosító adatai közül kizárólag a családi és utónév, a születési név, a születési év, valamint az anyja születési neve jeleníthető meg.
 
-(4)[^47] Az (1) bekezdés c) pontja szerinti tulajdonilap-másolat titkosított és védett csatornán keresztül, a lekérdező egyedi azonosítását követően szolgáltatható. Tartalma az adattovábbítást megelőző napig megegyezik az ingatlan-nyilvántartásban szereplő adatokkal.
+(4)[^49] Az (1) bekezdés c) pontja szerinti tulajdonilap-másolat titkosított és védett csatornán keresztül, a lekérdező egyedi azonosítását követően szolgáltatható. Tartalma az adattovábbítást megelőző napig megegyezik az ingatlan-nyilvántartásban szereplő adatokkal.
 
-(5)[^48] Az (1) bekezdés c) pontja szerinti tulajdonilap-másolat időbélyegző és záradék nélkül hiteles.
+(5)[^50] Az (1) bekezdés c) pontja szerinti tulajdonilap-másolat időbélyegző és záradék nélkül hiteles.
 
-[^45]: A 37. § (1) bekezdése a 485/2025. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^46]: A 37. § (3) bekezdése a 38/2025. (III. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^47]: A 37. § (4) bekezdését a 485/2025. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^48]: A 37. § (5) bekezdését a 485/2025. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^47]: A 37. § (1) bekezdése a 485/2025. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^48]: A 37. § (3) bekezdése a 38/2025. (III. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^49]: A 37. § (4) bekezdését a 485/2025. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^50]: A 37. § (5) bekezdését a 485/2025. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
