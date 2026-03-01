@@ -240,7 +240,7 @@ A tranzitút-hálózat
 
 | 3 | TI-CSEPEL | CSEPEL (Budapest, Csepel-Szabadkikötő): II. Rákóczi Ferenc út (M0) – Betű utca/Posztógyár utca – Teller Ede út – Weiss Manfréd út (OKK) |
 
-| 4 | TI-BAJA | BAJA: Kisszállás – Baja, Bajcsy-Zsilinszky utca 55. sz. főút (Baja) és Baja (OKK) között – 55. sz. főút Bajcsy-Zsilinszky utca és 51. sz. főút között – 551. sz. főút 51. sz. főút és 511. sz. főút között – 511. sz. főút 551. sz. főút és 55. sz. főút között – 55. sz. főút 551. sz. főút és 53. sz. főút között |
+| 4[^24] |  |  |
 
 | 5 | TI-GÖNYŰ | GÖNYŰ: 1. sz. főút Győrszentiván (813. sz. főút) és Gönyű (OKK) között |
 
@@ -252,7 +252,7 @@ A tranzitút-hálózat
 
 | 9 | TI-SZEGED | SZEGED (Szeged-Kiskundorozsma): 5. sz. főút Szeged (M43) és Szeged (502. sz. főút) között – 502. sz. főút Szeged (5. sz. főút) és Kiskundorozsma (5408. jelű út) között – 5408. jelű összekötő út Kiskundorozsma (502. sz. főút) és Kiskundorozsma (vasútállomás) között |
 
-| 10 | TI-DEPO | DEPO (Törökbálint): M1 autópálya Biatorbágy (M0) és Budaörs (8105. jelű út) között – 8105. jelű út Budaörs (M1) és Törökbálint (81101. jelű út) között – 81101. jelű út Törökbálint (8105. jelű út) és Törökbálint (DEPO) között[^24] |
+| 10 | TI-DEPO | DEPO (Törökbálint): M1 autópálya Biatorbágy (M0) és Budaörs (8105. jelű út) között – 8105. jelű út Budaörs (M1) és Törökbálint (81101. jelű út) között – 81101. jelű út Törökbálint (8105. jelű út) és Törökbálint (DEPO) között[^25] |
 
 | 11 | TI-BUD | BUD (Budapest Liszt Ferenc Nemzetközi Repülőtér): M4 autóút Üllő (M0) és a Budapest Liszt Ferenc Nemzetközi Repülőtér között |
 
@@ -268,4 +268,5 @@ A tranzitút-hálózat
 [^21]: A 2/A. melléklet 1. pontjában foglalt táblázat E:41 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^22]: A 2/A. melléklet 1. pontjában foglalt táblázat D:42 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^23]: A 2/A. melléklet 1. pontjában foglalt táblázat D:47 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^24]: A 2/A. melléklet 2. pontjában foglalt táblázat B:10 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 2/A. melléklet 2. pontjában foglalt táblázat 4. sorát a 2/2026. (II. 26.) ÉKM rendelet 1. §-a hatályon kívül helyezte.
+[^25]: A 2/A. melléklet 2. pontjában foglalt táblázat B:10 mezője az 1/2026. (I. 22.) ÉKM rendelet 1. § (2) bekezdése szerint módosított szöveg.
