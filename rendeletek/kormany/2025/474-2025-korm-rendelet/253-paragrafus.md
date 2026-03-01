@@ -1,0 +1,1 @@
+253. § Ha a monitoring és információs rendszerben rögzítendő adatok vonatkozásában hiányosság vagy a rögzített adatok vonatkozásában hiba állapítható meg, az adat rögzítéséért felelős személy haladéktalanul pótolja vagy javítja az adatokat.

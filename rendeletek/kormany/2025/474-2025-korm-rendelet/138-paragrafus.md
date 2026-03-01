@@ -1,0 +1,1 @@
+138. § Az időközi kifizetési kérelem vonatkozásában a hiánypótlási felhívást az időközi kifizetési kérelem beérkezésétől számított harminc napon belül, legfeljebb tizenöt napos határidő kitűzésével kell megküldeni a kedvezményezett részére.

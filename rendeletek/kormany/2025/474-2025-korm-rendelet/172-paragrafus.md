@@ -1,0 +1,1 @@
+172. § A kedvezményezett az ellenőrzésre benyújtott dokumentumokkal együtt megküldi a Kbt. 19. §-a szerinti, részekre bontás tilalmára vonatkozó szabályoknak való megfelelés vizsgálatára vonatkozó nyilatkozatát, valamint ennek alátámasztására a vizsgált eljárások listáját.

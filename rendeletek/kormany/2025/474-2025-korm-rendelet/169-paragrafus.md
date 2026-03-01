@@ -1,0 +1,1 @@
+169. § A kedvezményezett az e fejezet szerinti ellenőrzést nem kezdeményezi azon, közbeszerzéssel beszerzett költségtétel vonatkozásában, amelynek az elszámolása egyszerűsített elszámolás alkalmazásával történik.

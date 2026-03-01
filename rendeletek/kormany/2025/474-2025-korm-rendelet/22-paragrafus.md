@@ -1,0 +1,1 @@
+22. § Az e rendelet hatálya alá tartozó szervek a támogatást igénylő vagy a kedvezményezett által benyújtott bármely dokumentum nyilvánvaló hibáját a dokumentummal kapcsolatos eljárás során kijavíthatják, amelyről a támogatást igénylőt vagy a kedvezményezettet értesítik.

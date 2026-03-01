@@ -1,0 +1,1 @@
+255. § Ha a monitoring és információs rendszer a kedvezményezett hiánypótlási kötelezettsége teljesítését nem biztosítja, az irányító hatóság a hiánypótlásra nyitva álló határidőt legfeljebb öt nappal meghosszabbítja.

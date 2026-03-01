@@ -1,0 +1,1 @@
+41. § Ha e rendelet szerint a küldeményt postai úton kell megküldeni, akkor a küldeményt tértivevénnyel – ha ennek a postai szolgáltatásokról szóló törvényben meghatározott feltételei teljesülnek, akkor hivatalos iratként – kell feladni, és átvételének napján kell kézbesítettnek tekinteni.

@@ -1,0 +1,1 @@
+170. § Eredménytelen közbeszerzési eljárás esetén az e fejezet szerinti ellenőrzést akkor kell kezdeményezni, ha az ellenőrzés egy későbbi közbeszerzési eljárás jogalapja megfelelőségének megállapítása céljából szükséges.

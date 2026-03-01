@@ -1,0 +1,1 @@
+64. § Az irányító hatóság a pályázati felhívásban rögzített szakasz zárását – de legkésőbb az adott szakaszban beérkezett támogatási kérelmek jogosultsági ellenőrzését – követően bocsátja tartalmi értékelésre a támogatási kérelmeket és az egy szakaszban beérkezett támogatási kérelmekről az értékelés során elért pontszám sorrendjében hoz támogatási döntést.

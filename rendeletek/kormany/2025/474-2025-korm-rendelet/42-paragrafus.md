@@ -1,0 +1,1 @@
+42. § Az irányító hatóság a részére postai úton szabályosan benyújtott dokumentum megőrzéséről és nyilvántartásáról öt évig gondoskodik, valamint e dokumentumról digitális másolatot készít, és azt rögzíti a monitoring és információs rendszerben.

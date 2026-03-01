@@ -1,0 +1,1 @@
+232. § Ha a támogatás visszafizetését megállapító döntés visszavonását megelőzően a kedvezményezett a visszafizetési kötelezettségét részben vagy hiánytalanul teljesítette, az irányító hatóság a befolyt összeget visszafizeti a kedvezményezett részére.

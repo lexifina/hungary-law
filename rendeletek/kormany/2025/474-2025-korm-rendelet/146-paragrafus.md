@@ -1,0 +1,1 @@
+146. § Ha a kifizetési kérelemmel összefüggésben benyújtott kifogás tárgyában a záró kifizetési kérelemben jóváhagyott támogatás kifizetését követően helyt adó döntést hoznak, az irányító hatóság tájékoztatja a kedvezményezettet a kifogás jóváhagyását követő öt napon belül a pótlólagos kifizetés összegéről.

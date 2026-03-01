@@ -1,0 +1,1 @@
+258. § Az NCC-HU a tagságot kérelmező, vagy a kompetenciaközösségi tag által benyújtott bármely dokumentum nyilvánvaló hibáját a dokumentummal kapcsolatos eljárás során kijavíthatja, amelyről az érintettet értesíti.

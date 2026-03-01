@@ -1,0 +1,1 @@
+136. § Az irányító hatóság a kifizetési kérelmet és az alátámasztó dokumentumokat a vonatkozó jogszabályokban, a pályázati felhívásban és a támogatói okiratban foglalt elszámolhatósági szabályok szerint, ellenőrzőlista alapján teljeskörűen ellenőrzi.

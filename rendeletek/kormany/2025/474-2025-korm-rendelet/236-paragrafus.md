@@ -1,0 +1,1 @@
+236. § Az irányító hatóság rendkívüli helyszíni ellenőrzést rendelhet el, ha a projektmegvalósítás során felmerült információk ezt indokolják. Az irányító hatóság mellőzheti a rendkívüli helyszíni ellenőrzésről történő értesítést, ha az az ellenőrzés eredményességét veszélyeztetné.

@@ -1,0 +1,3 @@
+37. § (1) Az elektronikus alkalmazásban használt elektronikus aláírás a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősül, kiváltja az ahhoz fűződő joghatásokat és bírósági eljárásban bizonyítékként elfogadható.
+
+(2) A monitoring és információs rendszerben meghozott automatizált egyedi döntésről szóló elektronikus tájékoztatás hiteles kiadmánynak minősül, ha azon a kiadmányozó szervezet neve és az automatizált döntéshozatal ténye egyértelműen feltüntetésre kerül.
