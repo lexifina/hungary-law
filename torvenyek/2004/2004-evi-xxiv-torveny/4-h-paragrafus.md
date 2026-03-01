@@ -1,6 +1,6 @@
-## A LŐFEGYVER, ILLETVE A LŐSZER MEGSEMMISÍTÉSÉNEK SZABÁLYAI
+## A LŐFEGYVER, A LŐFEGYVERDARAB, ILLETVE A LŐSZER MEGSEMMISÍTÉSÉNEK SZABÁLYAI
 
-4/H. § (1) A lőfegyver, illetve a lőszer – miniszteri rendeletben meghatározottak szerint – a rendőrség erről szóló döntése alapján semmisíthető meg, kizárólag abban az esetben, ha
+4/H. § (1) A lőfegyver, a tűzfegyver fődarab (lőfegyverdarab), illetve a lőszer – miniszteri rendeletben meghatározottak szerint – a rendőrség erről szóló döntése alapján semmisíthető meg, kizárólag abban az esetben, ha
 
 a) a megsemmisítéshez a tulajdonos hozzájárult,
 

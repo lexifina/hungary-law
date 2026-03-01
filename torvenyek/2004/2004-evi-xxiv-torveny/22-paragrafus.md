@@ -16,9 +16,9 @@ d) a 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati
 
 a) a lőfegyver, lőszer hatósági tárolásának, leadásának, értékesítésének, valamint megsemmisítésének a részletes szabályait, továbbá a lőfegyverek központi nyilvántartásába történő elektronikus adattovábbítás technikai feltételeit,
 
-b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
+b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat,
 
-c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét;
+c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 
@@ -30,7 +30,7 @@ b) a polgári célú pirotechnikai tevékenység feltételeként előírt képes
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben:
 
-a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
+a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait, valamint a moduláris tűzfegyver, a moduláris tűzfegyver fődarabja műszaki követelményeit;
 
 b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 

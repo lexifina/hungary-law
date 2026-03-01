@@ -32,13 +32,13 @@
 
 16. lőfegyver: a tűzfegyver, valamint az a légfegyver, amelyből 7,5 joule-nál nagyobb csőtorkolati energiájú, szilárd anyagú lövedék lőhető ki;
 
-17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
+17. lőfegyverjavítás: a moduláris tűzfegyver összeállítását és szétbontását ide nem értve a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
 
 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab-, lőszer-, illetve lőszerelem-gyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
 
 19. forgalmazás: lőfegyver, – a lőszer ideiglenes átvétele, valamint a lőszer továbbadása kivételével – lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 
-20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
+20. lőfegyver- és lőszerkészítés (gyártás): a moduláris tűzfegyver összeállítását és szétbontását ide nem értve lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 
 21. lőfegyvertartás: a birtoklás, a viselés és a tárolás;
 
@@ -58,7 +58,7 @@
 
 29. tűzfegyver: az 1. mellékletben meghatározott
 
-a) „A” vagy „B” kategóriába tartozó olyan – vagy olyanná átalakítható – kézifegyver, amelynek csövéből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, ideértve a szilárd anyagú lövedék gyúlékony hajtóanyag segítségével történő kilövésére átalakítható fegyvert is, kivéve, ha
+a) „A” vagy „B” kategóriába tartozó olyan – vagy olyanná átalakítható – kézifegyver, amelynek csövéből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, ideértve az összeállított moduláris tűzfegyvert, valamint a szilárd anyagú lövedék gyúlékony hajtóanyag segítségével történő kilövésére átalakítható fegyvert is, kivéve, ha
 
 aa) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy
 
@@ -131,3 +131,9 @@ cc) megfelel a 2. mellékletben meghatározott követelményeknek;
 53. lőszer ideiglenes átvétele: az átadás és az átengedés esetét ide nem értve a lőszernek közvetlenül a tartására jogosulttól a továbbadás céljából megvalósuló, ellenérték nélküli megszerzése;
 
 54. lőszer továbbadása: az átadás és az átengedés esetét ide nem értve az ideiglenes átvétel keretében megszerzett lőszernek közvetlenül a tartására jogosult részére történő, ellenérték nélküli rendelkezésre bocsátása.
+
+55. moduláris tűzfegyver: a rendészetért felelős miniszter rendeletében meghatározott műszaki követelményeknek megfelelő tűzfegyver;
+
+56. moduláris tűzfegyver fődarabja: a rendészetért felelős miniszter rendeletében meghatározott műszaki követelményeknek megfelelő tűzfegyver fődarab (lőfegyverdarab);
+
+57. moduláris tűzfegyver összeállítása és szétbontása: a moduláris tűzfegyver házilag történő összeállítására, illetve a moduláris tűzfegyvert alkotó tűzfegyver fődarabok (lőfegyverdarabok) házilag történő elkülönítésére irányuló olyan tevékenység, amelynek az eredményeként a moduláris tűzfegyvernek a kizárólag az 1. melléklet szerinti valamely kategóriára, illetve alkategóriára jellemző tulajdonsága nem változik a kizárólag az 1. melléklet szerinti valamely másik kategóriára, illetve alkategóriára jellemző tulajdonságra.

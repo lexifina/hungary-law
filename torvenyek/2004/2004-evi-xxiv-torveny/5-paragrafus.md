@@ -40,7 +40,7 @@ ad) a nyilvántartásba vett
 
 8. lőfegyver műszaki érvényességének időtartama,
 
-ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma, valamint – ha a tűzfegyver fődarab tűzfegyverbe került beépítésre, – a tűzfegyver ad) alpontban meghatározott adatai,
+ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma, valamint – ha a tűzfegyver fődarab tűzfegyverbe került beépítésre vagy moduláris tűzfegyver fődarabja, – a tűzfegyver ad) alpontban meghatározott adatai,
 
 af) a lőszer azonosítását lehetővé tevő adatok,
 
