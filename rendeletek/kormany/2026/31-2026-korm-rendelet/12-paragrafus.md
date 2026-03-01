@@ -1,0 +1,3 @@
+12. § (1) A kijelölt állami szerv az állami foglalkoztatásra jogosulttal létesített foglalkoztatási jogviszony létrejöttéről, annak időpontjáról, jellegéről, valamint – határozott idejű jogviszony esetén – időtartamáról a foglalkoztatási jogviszony létesítésétől számított 5 napon belül írásban tájékoztatja az állami foglalkoztatási szervet.
+
+(2) A kijelölt állami szerv az állami foglalkoztatásra jogosulttal létrejött foglalkoztatási jogviszony megszűnését vagy megszüntetését (a továbbiakban együtt: megszűnés) a megszűnés napját követő 5 napon belül írásban bejelenti az állami foglalkoztatási szervnek. A bejelentés a foglalkoztatási jogviszony megszűnésének időpontját, okát és módját, valamint a jogviszony keretében eltöltött időtartamot tartalmazza.

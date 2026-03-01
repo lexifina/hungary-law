@@ -1,0 +1,3 @@
+13. § (1) Az állami foglalkoztatásra jogosult a foglalkoztatási jogviszony megszűnését követően az állami foglakoztatási kötelezettség időtartama alatt az állami foglalkoztatás folytatása iránti igényt nyújthat be az állami foglalkoztatási szervhez.
+
+(2) Az állami foglalkoztatási szerv az állami foglalkoztatás folytatása iránti igény elbírálása során – ha a 7. § (1) és (2) bekezdése szerinti felmérés időpontja egy évnél régebbi – a felmérést újra elvégzi, ellenkező esetben a rendelkezésre álló felmérési eredményeket alapul véve bírálja el az igényt. Az állami foglalkoztatási szerv egyebekben a 7–10. § szerint jár el.

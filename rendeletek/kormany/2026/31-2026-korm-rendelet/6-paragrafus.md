@@ -1,0 +1,3 @@
+6. § (1) Az állami foglalkoztatási szerv az 5. § szerint benyújtott foglalkoztatási igény alapján megindítja a közvetítési folyamatot. Az állami foglalkoztatásra jogosult a közvetítési folyamat során köteles együttműködni az állami foglalkoztatási szervvel.
+
+(2) Az állami foglalkoztatási szerv az állami foglalkoztatásra jogosultat a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 54. § (11) bekezdésében és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló 100/2021. (II. 27.) Korm. rendelet [a továbbiakban: 100/2021. (II. 27.) Korm. rendelet] 3. §-ában foglaltak alapján nyilvántartásába veszi. A nyilvántartás az Flt. 57/A. §-ában foglalt adatokat tartalmazza.

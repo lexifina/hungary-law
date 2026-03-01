@@ -1,0 +1,3 @@
+10. § (1) Ha az állami foglalkoztatásra jogosult a 7. § (3) bekezdése szerinti tájékoztatásban megjelölt álláshelyek közül egyet sem jelöl meg, kérésére a közvetítési folyamatot ismételten le kell folytatni.
+
+(2) Ha az állami foglalkoztatásra jogosult a foglalkoztatási jogviszony létesítését megelőzően az állami foglalkoztatási szervhez írásban benyújtott nyilatkozatában kijelenti, hogy a kijelölt állami szervnél történő foglalkoztatást nem kívánja igénybe venni, vagy a foglalkoztatási igényétől eláll, az állami foglalkoztatási szerv a közvetítési folyamatot megszünteti, és erről írásban tájékoztatja az állami foglalkoztatásra jogosultat, a kormányzati személyügyi igazgatás központi feladatait ellátó szervet, valamint a kijelölt állami szervet.
