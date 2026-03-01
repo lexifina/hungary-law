@@ -1,6 +1,6 @@
-25. § (1)[^113] E rendelet eltérő rendelkezése hiányában önvédelmi célra rövid lőfegyver és lőszer tartása annak engedélyezhető, aki bizonyítja, hogy élete, testi épsége – tűzfegyverrel elhárítható veszélyhelyzet fennállása miatt – fokozott védelmet igényel.
+25. § (1)[^118] E rendelet eltérő rendelkezése hiányában önvédelmi célra rövid lőfegyver és lőszer tartása annak engedélyezhető, aki bizonyítja, hogy élete, testi épsége – tűzfegyverrel elhárítható veszélyhelyzet fennállása miatt – fokozott védelmet igényel.
 
-(2)[^114] Önvédelmi célra legfeljebb két darab rövid lőfegyver tartása engedélyezhető.
+(2)[^119] Önvédelmi célra legfeljebb két darab rövid lőfegyver tartása engedélyezhető.
 
-[^113]: A 25. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^114]: A 25. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 7. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^118]: A 25. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^119]: A 25. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 7. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 6. pontja szerint módosított szöveg.

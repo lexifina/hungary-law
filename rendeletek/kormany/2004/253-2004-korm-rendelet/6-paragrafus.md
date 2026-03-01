@@ -1,6 +1,6 @@
-## A fegyver gyártására, forgalmazására, átalakítására, javítására, hatástalanítására, kiállítására vonatkozó szabályok[^36]
+## A fegyver gyártására, forgalmazására, átalakítására, javítására, hatástalanítására, kiállítására vonatkozó szabályok[^37]
 
-6. § (1)[^37] Ha e rendelet vagy más jogszabály eltérő követelményt nem támaszt, fegyver csak akkor hozható kereskedelmi forgalomba, ha
+6. § (1)[^38] Ha e rendelet vagy más jogszabály eltérő követelményt nem támaszt, fegyver csak akkor hozható kereskedelmi forgalomba, ha
 
 a) egyedi azonosításra alkalmas gyártási (azonosítási) számmal látták el,
 
@@ -10,7 +10,7 @@ c) – az Ftv. 2. § 29. pont d) alpontja szerinti tűzfegyverek kivételével �
 
 d) – az Ftv. 2. § 29. pont d) alpontja szerinti tűzfegyverek esetében – rendelkezik a Bizottsági Rendelet III. Melléklete szerinti tanúsítvánnyal.
 
-(1a)[^38] A gyártás során a tűzfegyvert olyan jelöléssel kell ellátni, amely – jogszabály eltérő rendelkezésének hiányában –
+(1a)[^39] A gyártás során a tűzfegyvert olyan jelöléssel kell ellátni, amely – jogszabály eltérő rendelkezésének hiányában –
 
 a) tartalmazza
 
@@ -28,9 +28,9 @@ vonatkozó utalást, továbbá
 
 b) megfelel a 21. számú mellékletben meghatározott követelményeknek.
 
-(1b)[^39] Jogszabály eltérő rendelkezésének hiányában az (1a) bekezdés szerinti jelölést a működőképes tűzfegyver olyan fődarabján kell elhelyezni, amelynek megsemmisülése a tűzfegyvert használhatatlanná teszi. A gyártás országára utaló jelölésként a gyártó nevének vagy márkajelének feltüntetése kizárólag abban az esetben fogadható el, ha a gyártás országa ennek alapján kétséget kizáróan megállapítható.
+(1b)[^40] Jogszabály eltérő rendelkezésének hiányában az (1a) bekezdés szerinti jelölést a működőképes tűzfegyver olyan fődarabján kell elhelyezni, amelynek megsemmisülése a tűzfegyvert használhatatlanná teszi. A gyártás országára utaló jelölésként a gyártó nevének vagy márkajelének feltüntetése kizárólag abban az esetben fogadható el, ha a gyártás országa ennek alapján kétséget kizáróan megállapítható.
 
-(1c)[^40] A gyártás során a tűzfegyver fődarabot – jogszabály eltérő rendelkezésének hiányában – olyan jelöléssel kell ellátni, amely megfelel
+(1c)[^41] A gyártás során a tűzfegyver fődarabot – jogszabály eltérő rendelkezésének hiányában – olyan jelöléssel kell ellátni, amely megfelel
 
 a) az (1a) bekezdés a) pontjában, valamint
 
@@ -38,9 +38,9 @@ b) a 21. számú mellékletben
 
 meghatározott követelményeknek.
 
-(1d)[^41] Ha az (1c) bekezdés a) pontjában meghatározott követelményeknek megfelelő jelölésnek a tűzfegyver fődarabon történő elhelyezése a tűzfegyver fődarab mérete miatt nem lehetséges, a tűzfegyver fődarabot a gyártás során kizárólag az egyedi azonosításra alkalmas – a 21. számú mellékletben meghatározott követelményeknek megfelelő – gyártási (azonosítási) számmal kell ellátni.
+(1d)[^42] Ha az (1c) bekezdés a) pontjában meghatározott követelményeknek megfelelő jelölésnek a tűzfegyver fődarabon történő elhelyezése a tűzfegyver fődarab mérete miatt nem lehetséges, a tűzfegyver fődarabot a gyártás során kizárólag az egyedi azonosításra alkalmas – a 21. számú mellékletben meghatározott követelményeknek megfelelő – gyártási (azonosítási) számmal kell ellátni.
 
-(2)[^42] Jogszabály eltérő rendelkezésének hiányában nem hozható kereskedelmi forgalomba a 2023. január 1. napját megelőzően kereskedelmi forgalomba nem került
+(2)[^43] Jogszabály eltérő rendelkezésének hiányában nem hozható kereskedelmi forgalomba a 2023. január 1. napját megelőzően kereskedelmi forgalomba nem került
 
 a) tűzfegyver, ha nem rendelkezik az (1a) bekezdésben,
 
@@ -52,25 +52,25 @@ bb) – az ott meghatározott feltételek fennállása esetén – az (1d) bekez
 
 meghatározott követelményeknek megfelelő jelöléssel.
 
-(3)[^43] Az egyedi vizsgálat elvégzéséről tanúsítvánnyal rendelkező lőfegyver kivételével működőképes lőfegyver csak a fegyverek és lőszerek vizsgálatára kijelölt szervezet szemlézéséről kiadott tanúsítvány birtokában forgalmazható.
+(3)[^44] Az egyedi vizsgálat elvégzéséről tanúsítvánnyal rendelkező lőfegyver kivételével működőképes lőfegyver csak a fegyverek és lőszerek vizsgálatára kijelölt szervezet szemlézéséről kiadott tanúsítvány birtokában forgalmazható.
 
-(4)[^44] Fegyverek egyedi vagy típusjóváhagyó vizsgálatára és tanúsítására nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
+(4)[^45] Fegyverek egyedi vagy típusjóváhagyó vizsgálatára és tanúsítására nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
 
-(5)[^45] Hatástalanított lőfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy hatástalanításának a módja megfelel a jogszabályban meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
+(5)[^46] Hatástalanított lőfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy hatástalanításának a módja megfelel a jogszabályban meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
 
-(5a)[^46] Színházi tűzfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy kialakításának a módja megfelel a 22. számú mellékletben meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
+(5a)[^47] Színházi tűzfegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy kialakításának a módja megfelel a 22. számú mellékletben meghatározott követelményeknek, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
 
-(6)[^47] Gáz- és riasztófegyver abban az esetben hozható be az ország területére, illetve hozható kereskedelmi forgalomba, ha nem tartalmaz lőfegyverdarabot, valamint alkalmatlan szilárd lövedék kilövésére.
+(6)[^48] Gáz- és riasztófegyver abban az esetben hozható be az ország területére, illetve hozható kereskedelmi forgalomba, ha nem tartalmaz lőfegyverdarabot, valamint alkalmatlan szilárd lövedék kilövésére.
 
-[^36]: A 6. §-t megelőző alcím címe a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^37]: A 6. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^38]: A 6. § (1a) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^39]: A 6. § (1b) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^40]: A 6. § (1c) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^41]: A 6. § (1d) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^42]: A 6. § (2) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^43]: A 6. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^44]: A 6. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be.
-[^45]: A 6. § (5) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^46]: A 6. § (5a) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (5) bekezdése iktatta be.
-[^47]: A 6. § (6) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be.
+[^37]: A 6. §-t megelőző alcím címe a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^38]: A 6. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^39]: A 6. § (1a) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^40]: A 6. § (1b) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^41]: A 6. § (1c) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^42]: A 6. § (1d) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^43]: A 6. § (2) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^44]: A 6. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^45]: A 6. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be.
+[^46]: A 6. § (5) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^47]: A 6. § (5a) bekezdését a 326/2020. (VII. 1.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^48]: A 6. § (6) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be.
