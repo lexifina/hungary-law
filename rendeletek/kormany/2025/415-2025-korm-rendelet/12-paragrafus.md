@@ -1,3 +1,3 @@
-12. §[^8]
+12. §[^7]
 
-[^8]: A 12. § a 17. § (3) bekezdése alapján 2026. június 19-én lép hatályba.
+[^7]: A 12. § a 17. § (3) bekezdése alapján 2026. június 19-én lép hatályba.
