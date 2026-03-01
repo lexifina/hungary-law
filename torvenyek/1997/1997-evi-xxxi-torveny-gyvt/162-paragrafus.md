@@ -66,6 +66,10 @@ zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett ors
 
 (1c) Felhatalmazást kap a Kormány, hogy az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait rendeletben állapítsa meg.
 
+(1d) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 95/A. § szerinti foglalkoztatás biztosítására vonatkozó részletszabályokat, valamint a gyermekvédelmi gondoskodásból nagykorúság miatt kikerült vagy utógondozói ellátásban részesülő fiatal felnőttek foglalkoztatását koordináló szerv kijelölését.
+
+(1e) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt által állami támogatás igénybevételével megszerezhető közúti jármű vezetői engedély kategóriáját, valamint az annak megszerzéséhez nyújtott támogatásra való jogosultság és a támogatás megállapítására, folyósítására és elszámolására vonatkozó részletes szabályokat.
+
 (1f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézménynél, szolgáltatónál foglalkoztatott személyek tekintetében a Kjt. illetményrendszerétől való eltérés és ennek végrehajtásának szabályait;
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza

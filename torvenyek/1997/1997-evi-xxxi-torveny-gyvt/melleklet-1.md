@@ -147,23 +147,3 @@ A kifogástalan életvitel ellenőrzése során kezelt személyes és bűnügyi 
 ## IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai
 
 ## 1. a jogviszony alatt megállapított illetmények, kifizetések adatai,
-
-## 2. jubileumi jutalomra vonatkozó adatok,
-
-## 3. lakhatási támogatásokra vonatkozó adatok,
-
-## 4. az aktuális tanulmányi szerződésre, tanulmányi támogatásra vonatkozó adatok,
-
-## 5. szociális vagy temetési segélyezésre, támogatásra vonatkozó adatok.
-
-## X. Fegyelmi, szabálysértési, kártérítési és személyiségi jogsértéssel összefüggő adatok
-
-## 1. folyamatban levő fegyelmi eljárások adatai,
-
-## 2. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
-
-## 3. folyamatban levő szabálysértési eljárás, valamint korábbi szabálysértésben a bíróság jogerős vagy véglegessé vált határozatának, valamint a szabálysértési hatóság további jogorvoslattal nem támadható határozatának adatai,
-
-## 4. kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
-
-## 5. a személyiségi jogsértés miatt alkalmazott szankciók, a sérelemdíj mértéke, a teljesítésre vonatkozó adatok.

@@ -8,6 +8,8 @@ b) a családi környezetébe történő visszahelyezését előkészítő, csal�
 
 c) a családjába történő visszailleszkedéshez, önálló életének megkezdéséhez szükséges utógondozást.
 
+d) támogatást a munkaerőpiaci esélyeinek növelése érdekében a gyermekvédelmi gondoskodásban élő gyermekek közúti jármű vezetői engedélyének megszerzéséhez biztosított támogatást szabályozó kormányrendeletben meghatározott kategóriás vezetői engedély megszerzéséhez, ha az ahhoz szükséges, jogszabályban meghatározott feltételeknek a gyermek egyébként megfelel.
+
 (2) Az otthont nyújtó ellátás keretében
 
 a) különleges ellátást kell biztosítani
