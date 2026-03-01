@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-177-00-00
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2013-177-00-00.19 |
 | 2025-01-16 | 2024. évi LVI. törvény | 2013-177-00-00.24 |
 | 2025-08-19 | 2025. évi XLIX. törvény | 2013-177-00-00.25 |
+| 2026-03-01 | 2025. évi CXVII. törvény | 2013-177-00-00.27 |
