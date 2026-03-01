@@ -2,7 +2,7 @@
 
 (2) A telefonközpont-működtető a 20/B. § (4) bekezdése szerinti feladata ellátása érdekében – az (5) bekezdésben foglalt kivétellel – az időpontfoglalás rögzítésének idejéig kezeli
 
-a) a biztosított természetes személyazonosító adatait,
+a) a biztosított természetes személyazonosító adatait, a biztosított vagy képviselője által megadott telefonos vagy e-mail elérhetőségét,
 
 b) a biztosított TAJ-számát,
 

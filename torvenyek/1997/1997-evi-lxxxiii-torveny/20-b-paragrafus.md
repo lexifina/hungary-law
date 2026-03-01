@@ -6,4 +6,6 @@
 
 (4) A (3) bekezdés szerinti cél érdekében a telefonközpont-működtető a biztosított vagy képviselője által megadott természetes személyazonosító adatok és TAJ-szám alapján a biztosított számára a digitális időpontfoglalási rendszerben a biztosított által megjelölt – digitális időpontfoglalási rendszert használó – járóbeteg-szakellátást nyújtó szolgáltatónál járóbeteg-szakellátási időpontot foglal, módosít vagy töröl.
 
+(4a) A (4) bekezdés szerinti időpontfoglalás során a biztosított vagy képviselője megadhatja a biztosított telefonos vagy e-mail elérhetőségét, amelyet a telefonközpont-működtető rögzít a digitális időpontfoglaló rendszerben.
+
 (5) Az egységes telefonos időpontfoglalási központ igénybevételének részletes szabályait a Kormány rendeletben határozza meg.
