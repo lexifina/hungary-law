@@ -24,7 +24,7 @@ j) az illetékes járási hivatal felhívását a közgyógyellátási igazolvá
 
 k)[^969] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
 
-(2) Ha a nevelésbe vétel a gyermek nagykorúvá válása miatt szűnik meg, a gyámhivatal a 143. § szerint jár el.
+(2)[^970] Ha a nevelésbe vétel a gyermek nagykorúvá válása miatt szűnik meg, a gyámhivatal a 143. § szerint jár el, és határozatában rögzíti a fiatal felnőtt Gyvt. 95/A. § (1) bekezdése szerinti állami foglalkoztatásra való jogosultságának tényét.
 
 (3) Ha a gyámhivatal a nagykorúvá válással egyidejűleg a cselekvőképességet érintő gondnokság alá helyezendő személy részére vagyonkezelői joggal felruházott gondnokot rendel, vagy vagyonára zárlatot rendel el, a gyermekvédelmi gyámot végszámadásának a gyámhivatalhoz történő benyújtására kötelezi.
 
@@ -35,3 +35,4 @@ k)[^969] megelőző pártfogás alatt álló gyermek esetén – az ok megjelöl
 [^967]: A 110. § (1) bekezdés d) pontja a 448/2016. (XII. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^968]: A 110. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
 [^969]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^970]: A 110. § (2) bekezdése a 31/2026. (II. 26.) Korm. rendelet 18. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (1) bekezdését.
