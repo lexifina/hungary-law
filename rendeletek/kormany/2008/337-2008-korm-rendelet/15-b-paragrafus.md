@@ -1,6 +1,6 @@
-## Kapacitások visszavonása[^247]
+## Kapacitások visszavonása[^248]
 
-15/B. §[^248] (1)[^249] Az országos tisztifőorvos a következő szempontokat veszi figyelembe a Tv. 11/B. § (3) bekezdésében meghatározott döntéshez:
+15/B. §[^249] (1)[^250] Az országos tisztifőorvos a következő szempontokat veszi figyelembe a Tv. 11/B. § (3) bekezdésében meghatározott döntéshez:
 
 a) a befogadott kapacitás révén a szolgáltatáshoz való hozzáférés lehetősége – az ellátási terület megállapítását követően – nem változik vagy javul,
 
@@ -8,23 +8,23 @@ b) a befogadott kapacitást ellátó szolgáltatónál a tárgyi-személyi felt�
 
 c) a befogadott kapacitást végző szolgáltató által nyújtott szakmák köre, beavatkozások jellege, progresszivitási szintje és így a szolgáltatás minősége magasabb szintű.
 
-(2)[^250] Az (1) bekezdésben foglaltak megállapítása érdekében az országos tisztifőorvos szükség esetén helyszíni ellenőrzést végezhet.
+(2)[^251] Az (1) bekezdésben foglaltak megállapítása érdekében az országos tisztifőorvos szükség esetén helyszíni ellenőrzést végezhet.
 
-(3)[^251] A Tv. 11/B. § (3) bekezdése szerinti esetben a kapacitás visszavonás teljesítése érdekében a NEAK a többletkapacitás-befogadási eljárás során, a TBB felé történő javaslattételt megelőzően megkeresi az országos tisztifőorvost. A NEAK a megkeresésében megjelölheti azt az egészségügyi szolgáltatót, amely kapacitásának a visszavonását javasolja.
+(3)[^252] A Tv. 11/B. § (3) bekezdése szerinti esetben a kapacitás visszavonás teljesítése érdekében a NEAK a többletkapacitás-befogadási eljárás során, a TBB felé történő javaslattételt megelőzően megkeresi az országos tisztifőorvost. A NEAK a megkeresésében megjelölheti azt az egészségügyi szolgáltatót, amely kapacitásának a visszavonását javasolja.
 
-(4)[^252] Ha az országos tisztifőorvos – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy rendelkezésre áll az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás, erről tájékoztatja a NEAK-ot.
+(4)[^253] Ha az országos tisztifőorvos – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy rendelkezésre áll az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás, erről tájékoztatja a NEAK-ot.
 
-(5)[^253] Ha az országos tisztifőorvos – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy nem áll rendelkezésre az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás és a Tv. 11/B. § (3) bekezdése szerinti visszavonás indokolt, az országos tisztifőorvos rendelkezik a kapacitás visszavonásáról.
+(5)[^254] Ha az országos tisztifőorvos – a (3) bekezdés szerinti megkeresés alapján – megállapítja, hogy nem áll rendelkezésre az adott többletkapacitás befogadásához szükséges tartalék- vagy egyéb kapacitás és a Tv. 11/B. § (3) bekezdése szerinti visszavonás indokolt, az országos tisztifőorvos rendelkezik a kapacitás visszavonásáról.
 
-(6)[^254] Az országos tisztifőorvos a döntés meghozatalától számított 5 napon belül tájékoztatja a NEAK-ot a kapacitásnak a Tv. 11/B. § (1) és (3) bekezdése szerinti visszavonásáról. A NEAK gondoskodik az egészségügyi szolgáltató finanszírozási szerződésének az országos tisztifőorvos döntése miatt szükséges módosításáról vagy felmondásáról, azzal, hogy a szerződésmódosítás hatálybalépésének vagy megszűnésének időpontja megegyezik a kapacitás visszavonásáról szóló határozat hatálybalépésének időpontjával.
+(6)[^255] Az országos tisztifőorvos a döntés meghozatalától számított 5 napon belül tájékoztatja a NEAK-ot a kapacitásnak a Tv. 11/B. § (1) és (3) bekezdése szerinti visszavonásáról. A NEAK gondoskodik az egészségügyi szolgáltató finanszírozási szerződésének az országos tisztifőorvos döntése miatt szükséges módosításáról vagy felmondásáról, azzal, hogy a szerződésmódosítás hatálybalépésének vagy megszűnésének időpontja megegyezik a kapacitás visszavonásáról szóló határozat hatálybalépésének időpontjával.
 
 (7) Ha a Tv. 11/B. § (1) vagy (3) bekezdése alapján hozott határozat olyan kapacitás visszavonásáról rendelkezik, amelyhez kapcsolódó ellátás elszámolására az egészségügyért felelős miniszter rendeletében megnevezett egészségügyi szolgáltatók jogosultak, a finanszírozási szerződés (6) bekezdés szerinti módosulását, illetve megszűnését követően végzett ellátások elszámolására az érintett szolgáltató nem jogosult.
 
-[^247]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^248]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^249]: A 15/B. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^250]: A 15/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^251]: A 15/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3., 5. és 8. pontja szerint módosított szöveg.
-[^252]: A 15/B. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 4. és 6. pontja szerint módosított szöveg.
-[^253]: A 15/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^254]: A 15/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3–4. és 6. pontja szerint módosított szöveg.
+[^248]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^249]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^250]: A 15/B. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^251]: A 15/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^252]: A 15/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3., 5. és 8. pontja szerint módosított szöveg.
+[^253]: A 15/B. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 4. és 6. pontja szerint módosított szöveg.
+[^254]: A 15/B. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^255]: A 15/B. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 3–4. és 6. pontja szerint módosított szöveg.
