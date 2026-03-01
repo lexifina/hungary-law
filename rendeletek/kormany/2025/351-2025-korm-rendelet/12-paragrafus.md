@@ -1,5 +1,5 @@
-## 3.[^12]
+## 3. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet módosítása
 
-12. §
+12. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet 13. §-a a következő (4b) bekezdéssel egészül ki:
 
-[^12]: A 3. alcím a 20. § (3) bekezdése alapján 2026. március 1-jén lép hatályba.
+„(4b) A (4) bekezdés d) pontja, valamint a (4a) bekezdés szerinti esetekben az Egészségügyi Szakmai Kollégium a szakmailag érintett tagozatok véleményét az erre irányuló kérelem Kollégiumhoz beérkezését követő 45 napon belül megküldi a kérelmező részére. Amennyiben a szakmailag érintett tagozat 45 napon belül nem állítja ki az érdemi véleményt, a többletkapacitás befogadása iránti kérelem – a (4) bekezdés d) pontjában és a (4a) bekezdésben foglaltaktól eltérően – benyújtható a NEAK-hoz az előírt határidő eredménytelen elteltének igazolása mellett. A NEAK a hiányzó tagozati véleményről a rendelkezésre álló dokumentumok megküldésével a kérelem kézhezvételétől számított 5 napon belül értesíti az egészségügyért felelős minisztert, aki az értesítés kézhezvételétől számított 10 napon belül intézkedik az Egészségügyi Szakmai Kollégium érintett tagozatainak megkeresése iránt az érdemi szakmai vélemény beszerzése érdekében, a megkeresés kézhezvételétől számított 15 napos válaszadási határidő kitűzése mellett. Az egészségügyért felelős miniszter a szakmailag érintett tagozatok beérkezett szakmai véleményét azok beérkezését követő 5 napon belül elektronikus úton továbbítja a NEAK részére.”
