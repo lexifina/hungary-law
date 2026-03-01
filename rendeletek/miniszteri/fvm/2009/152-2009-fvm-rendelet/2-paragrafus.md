@@ -54,6 +54,8 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (26)[^60] A 43. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet és a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő kerámiatárgyakról szóló előírása tekintetében történő módosításáról szóló 28/2025. (VII. 7.) AM rendelet módosításáról szóló 3/2026. (I. 30.) AM rendelettel (a továbbiakban: MódR15.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR15. hatálybalépésének[^61] napját megelőző napon hatályos előírásoknak megfelelő termékek a MódR15. hatálybalépésének napjától számított 18. hónap utolsó napjáig előállíthatók, forgalomba hozhatók és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.
 
+(27)[^62] A 18. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet kávéról, pótkávéról és azok keverékeiről, a kávé- és cikóriakivonatokról, valamint egyéb kávé- és pótkávékészítményekről szóló előírása tekintetében történő módosításáról szóló 6/2026. (II. 26.) AM rendelettel (a továbbiakban: MódR16.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR16. hatálybalépésének[^63] napját megelőző napon hatályos előírásoknak megfelelő 18. melléklet szerinti termékek a MódR16. hatálybalépésének napjától számított 24. hónap utolsó napjáig előállíthatók, forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.
+
 [^24]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^26]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -92,3 +94,5 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^59]: A hatálybalépés időpontja 2026. január 1.
 [^60]: A 2. § (26) bekezdését a 3/2026. (I. 30.) AM rendelet 2. §-a iktatta be.
 [^61]: A hatálybalépés időpontja 2026. február 1.
+[^62]: A 2. § (27) bekezdését a 6/2026. (II. 26.) AM rendelet 1. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2026. március 1.

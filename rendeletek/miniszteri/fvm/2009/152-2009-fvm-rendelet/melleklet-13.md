@@ -1406,6 +1406,6 @@
 
 | 25. | Pulykabőr | 36,5 | 12,3 | 6,6 | 53,6 |
 
-13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^90]
+13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^93]
 
-[^90]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 4. §-ával megállapított szöveg.
+[^93]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 4. §-ával megállapított szöveg.
