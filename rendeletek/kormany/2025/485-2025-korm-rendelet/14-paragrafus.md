@@ -1,13 +1,11 @@
 14. § Az Inyvhr.
 
-a)[^14]
+a)[^7]
 
-b)[^15]
+b) 107. § (2) bekezdés g) pontjában a „működtetési jog és” szövegrész helyébe a „működtetési jog,” szöveg,
 
-c)[^16]
+c) 107. § (2) bekezdés h) pontjában a „vevői jog” szövegrész helyébe a „vevői jog és” szöveg
 
 lép.
 
-[^14]: A 14. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 14. § b) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
-[^16]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[^7]: A 14. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

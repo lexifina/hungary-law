@@ -1,3 +1,3 @@
-8. §[^8]
+8. § Az Inyvhr. 107. § (2) bekezdése a következő i) ponttal egészül ki:
 
-[^8]: A 8. § a 15. § (2) bekezdése alapján 2026. március 1-jén lép hatályba.
+[Az (1) bekezdésben foglaltaktól eltérően]
