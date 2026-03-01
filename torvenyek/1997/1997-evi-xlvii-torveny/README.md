@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2025-07-20 | 2025. évi L. törvény | 1997-47-00-00.78 |
 | 2025-09-01 | 2025. évi LXVII. törvény | 1997-47-00-00.81 |
 | 2026-01-01 | 2025. évi LXVII. törvény | 1997-47-00-00.72 |
+| 2026-03-01 | 2025. évi XCIII. törvény | 1997-47-00-00.82 |
