@@ -8,6 +8,6 @@
 
 ## 1. A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosítása
 
-1. § (1) A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet (a továbbiakban: Cvhr.) 1. számú melléklete az 1. melléklet szerint módosul.
+1. §[^2]
 
-(2) A Cvhr. 2. számú melléklete a 2. melléklet szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
