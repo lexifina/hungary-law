@@ -6,7 +6,9 @@
 
 (3)
 
-(4)
+(4) Az Inytv. 16. alcíme a következő 34/A. §-sal egészül ki:
+
+„34/A. § A társasházi építményi jog jogosultjának halála esetén a társasházi építményi jog az adásvételi szerződés megszűnéséből eredő, a társasházi építményi jog kötelezettjével szembeni követelés jogosultja által kiállított törlési engedély alapján törölhető az ingatlan-nyilvántartásból, feltéve, hogy a társasházi építményi jog a társasházakról szóló 2003. évi CXXXIII. törvény 11/A. § (7) bekezdése szerint szűnt meg.”
 
 (5)
 
@@ -18,4 +20,4 @@
 
 (9)
 
-(10)
+(10) Az Inytv. 1. melléklete a 3. melléklet szerint módosul.
