@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-151-20-
 | 2024-05-08 | 2003-151-20-22.15 | 270/2020. (VI. 12.) Korm. rendelet |
 | 2024-07-01 | 2003-151-20-22.16 | 93/2024. (IV. 23.) Korm. rendelet |
 | 2025-01-01 | 2003-151-20-22.17 | 416/2024. (XII. 20.) Korm. rendelet |
+| 2026-03-01 | 2003-151-20-22.18 | 415/2025. (XII. 23.) Korm. rendelet |
