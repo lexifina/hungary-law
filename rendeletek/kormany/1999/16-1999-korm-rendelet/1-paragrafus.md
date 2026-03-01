@@ -8,7 +8,7 @@ c)[^4] a nem közterületen tartott gyűlés vagy rendezvény közrendvédelmi b
 
 d) a nem közterületnek minősülő helyek, objektumok biztosítása, tűzszerészeti átvizsgálása;
 
-e)[^5] a lőfegyver, lőszer vagy lőszerelem rendőrség által történő tárolása, illetve a rendőrségnél rendszeresített lőfegyver, lőszer szakképzési célú igénybevételével kapcsolatos képzési, illetve fegyverzetkezelési feladatok ellátása;
+e)[^5] a lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer vagy lőszerelem rendőrség által történő tárolása, illetve a rendőrségnél rendszeresített lőfegyver, lőszer szakképzési célú igénybevételével kapcsolatos képzési, illetve fegyverzetkezelési feladatok ellátása;
 
 f)[^6] a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételek alapján sportrendezvények biztosítása;
 
@@ -22,7 +22,7 @@ i)[^9] veszélyes vagy más, kiemelt védelmet igénylő különleges szállítm
 [^2]: Az 1. § a) pontja a 177/2019. (VII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § b) pontja a 177/2019. (VII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § c) pontja a 177/2019. (VII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^5]: Az 1. § e) pontját a 67/2010. (III. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 283/2022. (VIII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § e) pontját a 67/2010. (III. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 457/2025. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § f) pontját a 162/2011. (VIII. 18.) Korm. rendelet 15. a iktatta be.
 [^7]: Az 1. § g) pontját a 409/2012. (XII. 28.) Korm. rendelet 37. §-a iktatta be, szövege a 373/2025. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: Az 1. § h) pontját a 209/2014. (VIII. 26.) Korm. rendelet 1. §-a iktatta be.
