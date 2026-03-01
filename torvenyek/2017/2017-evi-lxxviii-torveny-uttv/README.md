@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2025-09-01 | 2025. évi LVI. törvény | 2017-78-00-00.46 |
 | 2025-12-24 | 2025. évi XCII. törvény | 2017-78-00-00.47 |
 | 2026-01-01 | 2025. évi XXIII. törvény | 2017-78-00-00.45 |
+| 2026-03-01 | 2025. évi CXVII. törvény | 2017-78-00-00.48 |

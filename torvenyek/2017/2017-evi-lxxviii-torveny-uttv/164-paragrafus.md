@@ -6,7 +6,7 @@
 
 a) elfogadja a területi kamara alapszabályát,
 
-b) megválasztja, beszámoltatja és visszahívhatja a területi kamara elnökét, a területi elnökséget, a bizottságokat, a bizottság tisztségviselőit és tagjait,
+b) e törvény eltérő rendelkezése hiányában beszámoltatja és visszahívhatja a területi kamara elnökét, a területi elnökséget, a bizottságokat, a bizottság tisztségviselőit és tagjait,
 
 c) megválasztja és visszahívhatja a Magyar Ügyvédi Kamarába küldött tagokat,
 

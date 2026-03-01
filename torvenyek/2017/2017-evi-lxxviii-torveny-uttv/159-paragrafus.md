@@ -1,8 +1,8 @@
 ## 70. Az elnökség
 
-159. § (1) Az elnökség az elnökből, az elnökhelyettesekből, a főtitkárból, illetve titkárból, a területi ügyvédi kamarák elnökeiből, továbbá a küldöttgyűlés által választott elnökségi tagokból áll. A választott ügyvéd tagok száma – az Alapszabály eltérő rendelkezése hiányában – tíz fő.
+159. § (1) Az elnökség az elnökből, a főtitkárból, az Alapszabályban meghatározott számú elnökhelyettesekből és titkárokból, a területi ügyvédi kamarák elnökeiből, továbbá a küldöttgyűlés által választott elnökségi tagokból áll. A választott ügyvéd tagok száma – az Alapszabály eltérő rendelkezése hiányában – tíz fő.
 
-(2) A Magyar Ügyvédi Kamara elnökségének az általános választás kiírásának napján fennálló létszámarányuknak megfelelő számú legalább egy legfeljebb három tagja kamarai jogtanácsos, valamint legalább egy legfeljebb három tagja alkalmazott ügyvéd. E tagok közül a kamarai jogtanácsosok országos tagozatának az elnöke a Magyar Ügyvédi Kamara egyik elnökhelyettese.
+(2) A Magyar Ügyvédi Kamara elnökségének az országos általános választás évének első napján fennálló létszámarányuknak megfelelő számú legalább egy, legfeljebb három tagja kamarai jogtanácsos, valamint legalább egy, legfeljebb három tagja alkalmazott ügyvéd. E tagok közé az ezer főnél nagyobb taglétszámú területi kamara kamarai jogtanácsos elnökhelyettesét kell a Magyar Ügyvédi Kamara elnökségébe delegálni. A kamarai jogtanácsosok országos tagozatának elnöke a Magyar Ügyvédi Kamara elnökségének tagja és a Magyar Ügyvédi Kamara egyik elnökhelyettese.
 
 (3) Az elnökség ülésén a Magyar Ügyvédi Kamara fegyelmi bizottságának az elnöke, valamint az országos fegyelmi főbiztos tanácskozási joggal vesz részt.
 
@@ -16,7 +16,7 @@ c) eljár kamarai hatósági ügyekben,
 
 d) kezdeményezheti az összeférhetetlenség megállapítását,
 
-e)
+e) megválasztja a Magyar Ügyvédi Kamara választási szerveit,
 
 f)
 

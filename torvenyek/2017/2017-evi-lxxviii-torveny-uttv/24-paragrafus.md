@@ -32,6 +32,8 @@ o) a békéltető testületi tevékenység.
 
 p) a hitelgondozási szolgáltatói tevékenység.
 
+q) a Magyarország kiberbiztonságáról szóló törvény szerinti, az elektronikus információs rendszer biztonságáért felelős személy feladatának ellátása.
+
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 
 (3) Az ügyvédi tevékenység gyakorlója az oktatói, tudományos és művészeti tevékenységet – ideértve az ilyen tevékenységet alaptevékenységként folytató szervezetben betöltött tisztségviselői és vezetői megbízatást is – munkaviszonyban, közalkalmazotti jogviszonyban, köznevelési foglalkoztatotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati viszonyban, nemzetbiztonsági szolgálati jogviszonyban is elláthatja.

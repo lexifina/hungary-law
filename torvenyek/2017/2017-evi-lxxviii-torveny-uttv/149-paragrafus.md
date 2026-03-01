@@ -12,7 +12,7 @@ e) az ügyvédi esküt határidőben nem tette le,
 
 f) a kamarai szabályzatban előírt továbbképzési kötelezettségének nem tesz eleget, vagy
 
-g) adószámát véglegesen törölték.
+g) adószámmal nem rendelkezik vagy adószámát véglegesen törölték.
 
 (1a) A területi kamara megszünteti a kamarai tagságot, ha ezt a kamarai tag lemondás útján kéri és igazolja az 54. § (1) bekezdése szerinti feltételek teljesítését.
 

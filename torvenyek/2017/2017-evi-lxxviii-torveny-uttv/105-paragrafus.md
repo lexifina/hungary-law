@@ -28,7 +28,7 @@ d) az ügyfél részére iratok kiadására,
 
 e) fegyelmi és etikai eljárás kivételével a munkáltató képviseletében az ügyvédi kamara előtti eljárásra,
 
-f) papíralapú okiratról oldalhű elektronikus másolatot készítésére,
+f) papíralapú okiratról oldalhű elektronikus másolat, elektronikus okiratról az elektronikus okirat képi megjelenésének megfelelő papíralapú másolat készítésére,
 
 g) az ügyvédi tevékenység gyakorlója által elektronikusan aláírt dokumentum elektronikus úton történő továbbítására, valamint
 

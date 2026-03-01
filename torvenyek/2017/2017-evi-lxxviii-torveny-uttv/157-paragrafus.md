@@ -4,15 +4,13 @@
 
 a) a területi kamarák elnökei,
 
-b) a területi kamarák által küldött egy-egy tag,
+b) a területi kamarák taglétszámának a tagok összlétszámhoz viszonyított arányában a területi kamarák közgyűlése által a Magyar Ügyvédi Kamara küldöttgyűlésébe választott küldöttek, azzal, hogy minden területi kamara legalább egy küldött választására jogosult,
 
-c) a területi kamarák taglétszámának az ügyvédek összlétszámához viszonyított arányában a területi kamarák közgyűlése által a Magyar Ügyvédi Kamara küldöttgyűlésébe választott küldöttek,
-
-d) a Magyar Ügyvédi Kamara elnökségébe a 159. § (2) bekezdése alapján delegált kamarai jogtanácsos és alkalmazott ügyvéd tagok.
+c) a Magyar Ügyvédi Kamara elnökségébe a 159. § (2) bekezdése alapján delegált kamarai jogtanácsos és alkalmazott ügyvéd tagok.
 
 (2) A küldöttgyűlés
 
-a) megválasztja, beszámoltatja és visszahívhatja az elnököt, az elnökséget, a bizottságokat és tagjaikat,
+a) e törvény eltérő rendelkezése hiányában megválasztja, beszámoltatja és visszahívhatja az elnököt, az elnökséget, a bizottságokat és tagjaikat,
 
 b) elfogadja a költségvetést és a költségvetési beszámolót,
 

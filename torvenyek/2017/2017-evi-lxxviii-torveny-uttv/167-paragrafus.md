@@ -28,9 +28,11 @@ d) kezdeményezheti az összeférhetetlenség megállapítását,
 
 e) elbírálja a területi kamara elnökének a határozata elleni fellebbezést,
 
-f) dönt a területi kamara tisztségviselőinek díjazásáról, valamint
+f) dönt a területi kamara tisztségviselőinek díjazásáról,
 
-g) elvégzi a közgyűlés és a területi kamara alapszabálya által meghatározott egyéb feladatokat.
+g) megválasztja a területi kamara választási szerveit, valamint
+
+h) ellátja a közgyűlés és a területi kamara alapszabálya által meghatározott egyéb feladatokat.
 
 (6) A területi elnökség nem hatósági határozata ellen a területi kamara tagja, valamint akinek az jogát vagy jogos érdekét közvetlenül érinti a határozat közlésétől számított tizenöt napon belül – jogszabály, a területi kamara alapszabálya vagy a Magyar Ügyvédi Kamara szabályzatának megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
 

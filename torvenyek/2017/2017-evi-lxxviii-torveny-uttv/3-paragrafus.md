@@ -28,6 +28,10 @@ m) közvetítői eljárásban és büntetőügyekben folytatott közvetítői te
 
 n) adatvédelmi tisztviselői tevékenység.
 
+o) jogi oktatói tevékenység,
+
+p) az ügyvédi tevékenység vagy az ügyvédi tevékenység gyakorlása keretében kiegészítő jelleggel folytatható tevékenység végzését támogató jogi informatikai rendszer fejlesztése, értékesítése vagy szolgáltatásként történő nyújtása.
+
 (2) Az (1) bekezdésben meghatározott tevékenységeket az ügyvédi tevékenység gyakorlója e minőségében, de az adott tevékenységre irányadó jogszabályokban meghatározottak szerint folytathatja.
 
 (3) Az (1) bekezdés i)–k) pontjában meghatározott kiegészítő tevékenység és a 2. § szerinti ügyvédi tevékenység ugyanazon ügyfél számára egyidejűleg nem végezhető, kivéve, ha a megbízott ügyvédi iroda, a megbízást az ügyvédi iroda különböző tagjai látják el, és az ügyfél ehhez írásban kifejezetten hozzájárul.

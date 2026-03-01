@@ -1,6 +1,6 @@
 154. § (1) A tisztségviselő megbízatása megszűnik
 
-a) az új tisztségviselők általános választásának a napján,
+a) az országos, illetve területi általános választások napján, küldöttek esetén az alakuló küldöttgyűlés napján,
 
 b) a halála napján,
 
