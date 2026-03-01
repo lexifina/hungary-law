@@ -1,0 +1,3 @@
+16/B. § (1) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervező a szakértői névjegyzékbe vétel tényét és az igazságügyi szakértő státuszát a szakértői névjegyzékbe történő automatikus információátadás útján, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) XIII. Fejezete szerinti módon ellenőrzi.
+
+(2) A 15. § (1) bekezdése és 16. § (1) bekezdése szerinti képzés-, illetve vizsgaszervezőnél az igazságügyi szakértőkkel kapcsolatos képzési feladatának teljesítése során keletkezett, az igazságügyi szakértőnek az 1. melléklet 1.26–1.27. pontjai szerinti adatait a névjegyzéket vezető hatóság átveszi.
