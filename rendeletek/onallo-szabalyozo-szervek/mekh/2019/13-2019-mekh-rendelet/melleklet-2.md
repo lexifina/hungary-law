@@ -12,7 +12,7 @@
 
 | 5. | Ágazati műszaki alapadatok | Havi | a tárgyhónapot követő második hónap 10. napja |
 
-2. melléklet a 13/2019. (X. 4.) MEKH rendelethez[^4]
+2. melléklet a 13/2019. (X. 4.) MEKH rendelethez[^6]
 
 Nyilatkozat a díjelőkészítést megalapozó gazdasági adatszolgáltatás keretében bemutatott adatok teljeskörűségéről
 
@@ -26,4 +26,4 @@ Kelt: ........................................., 20.............................
 
 Nyilatkozatot tevő elektronikus aláírása
 
-[^4]: A 2. mellékletet a 3/2025. (V. 12.) MEKH rendelet 3. § (2) bekezdése iktatta be.
+[^6]: A 2. mellékletet a 3/2025. (V. 12.) MEKH rendelet 3. § (2) bekezdése iktatta be.
