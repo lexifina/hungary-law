@@ -52,7 +52,7 @@
 
 ## aa)
 
-## ab) az üzletrész bírósági határozattal, árveréssel történő megszerzése esetén az erre vonatkozó okirat,
+## ab) az üzletrész bírósági határozattal, nem végrehajtási árveréssel történő árverési megszerzése esetén az erre vonatkozó okirat,
 
 ## ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag üzletrészének átruházásához,
 
