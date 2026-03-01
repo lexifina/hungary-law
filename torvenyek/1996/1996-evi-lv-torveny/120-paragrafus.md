@@ -1,0 +1,1 @@
+120. § E törvénynek az agrárminiszter feladatkörét érintő törvények módosításáról szóló 2025. évi XCVII. törvénnyel megállapított 29/A. § (8)–(10) bekezdését a 2026. március 1-jén folyamatban lévő eljárásokban is alkalmazni kell.

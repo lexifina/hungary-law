@@ -37,3 +37,9 @@ e) a mezőgazdasági kultúra védelme más vadkárelhárítási módszerrel nem
 (6) A vadászterületen engedély nélkül létesített vagy fenntartott tartós telepítésű kerítés esetén a vadászati hatóság figyelmezteti a föld használóját vagy az engedélyest és határidő megjelölésével felszólítja a (4) bekezdés szerinti engedély iránti kérelem benyújtására. Ha a tartós telepítésű kerítés megfelel az (5) és (5a) bekezdésben foglalt feltételeknek, a vadászati hatóság engedélyezi a tartós telepítésű kerítés fennmaradását. A kerítés fennmaradásának engedélyezése nem mentesíti a kerítés létesítőjét az engedély nélküli kerítés létesítése miatti felelőssége alól.
 
 (7) Ha a föld használója vagy az engedélyes határidőben nem tesz eleget a (6) bekezdés szerinti felszólításnak, a vadászati hatóság a tartós telepítésű kerítés felszámolása tekintetében az (5d) bekezdésben foglaltak szerint jár el.
+
+(8) Az (5) bekezdésben foglaltakat nem kell alkalmazni az állattartó telephez tartozó, vadászterületen létesítendő, legelő művelési ágú ingatlan (a továbbiakban: állattartó telephez tartozó legelő) tartós telepítésű kerítéssel történő bekerítése esetén. Állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés engedélyezéséről a vadászati hatóság dönt.
+
+(9) A (8) bekezdés alkalmazásában állattartó telepnek minősül bármely olyan, a Tenyészet Információs Rendszerben nyilvántartott tartási hely, ahol közvetlenül az állatok elhelyezésére, védelmére szolgáló épületeken kívül az állattartás egyéb létesítményei is megtalálhatók.
+
+(10) Az (5a) és (5c)–(7) bekezdésben foglaltakat állattartó telephez tartozó legelőn létesítendő tartós telepítésű kerítés esetén is alkalmazni kell.
