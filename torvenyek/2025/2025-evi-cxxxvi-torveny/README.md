@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-136-00-00
 | 2026-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-136-00-00.1 |
 | 2026-01-02 | 2010. évi CXXX. törvény | 2025-136-00-00.2 |
 | 2026-02-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-136-00-00.3 |
+| 2026-03-01 | 2010. évi CXXX. törvény | 2025-136-00-00.4 |
