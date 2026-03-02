@@ -1,3 +1,3 @@
-10. § Az Inyvhr. 153. §-a a következő c) ponttal egészül ki:
+10. §[^11]
 
-(Hivatalból be kell jegyezni)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

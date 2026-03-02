@@ -1,3 +1,3 @@
-8. § Az Inyvhr. 107. § (2) bekezdése a következő i) ponttal egészül ki:
+8. §[^9]
 
-[Az (1) bekezdésben foglaltaktól eltérően]
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
