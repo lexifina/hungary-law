@@ -2,20 +2,6 @@
 
 ## [2] A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (4) bekezdés 2. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § (1) A víziközmű-szolgáltatók és ellátásért felelősök adatszolgáltatási kötelezettségéről szóló 13/2019. (X. 4.) MEKH rendelet [a továbbiakban: 13/2019. (X. 4.) MEKH rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az adatszolgáltató
-
-a) az e rendeletben előírt adatszolgáltatási kötelezettségét
-
-aa) az 1. melléklet 2. és 3. pontja szerinti adatok vonatkozásában a Hivatal honlapján közzétett formanyomtatvány alkalmazásával és
-
-ab) az 1. melléklet 4. és 5. pontja szerinti adatok vonatkozásában a Hivatal honlapján közzétett elérési útvonalon keresztül elérhető Közműinformációs Adattár adatgyűjtő alrendszer útján, valamint
-
-b) a Vksztv. 5/D. § (2) bekezdésében, 18. § (5) bekezdésében és 61/B. § (8) bekezdésében előírt rendszeres adatszolgáltatási kötelezettségét a Hivatal honlapján közzétett formanyomtatvány alkalmazásával,
-
-elektronikus úton teljesíti.”
-
-(2) A 13/2019. (X. 4.) MEKH rendelet 3. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A (2) bekezdés a) pont ab) alpontja szerinti esetben a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 19. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az adatszolgáltatási kötelezettségét – az adatszolgáltató választása szerint – a Dáptv. 39. § (2) bekezdés e) pontja szerinti Központi Azonosítási Ügynök szolgáltatáson keresztül történő azonosítással vagy a Hivatal által megküldött felhasználói névvel történő azonosítással teljesíti.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
