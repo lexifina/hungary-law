@@ -6,6 +6,6 @@
 
 ## [4] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 5. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: R.) 2. §-a a következő (27) bekezdéssel egészül ki:
+1. §[^2]
 
-„(27) A 18. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet kávéról, pótkávéról és azok keverékeiről, a kávé- és cikóriakivonatokról, valamint egyéb kávé- és pótkávékészítményekről szóló előírása tekintetében történő módosításáról szóló 6/2026. (II. 26.) AM rendelettel (a továbbiakban: MódR16.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR16. hatálybalépésének napját megelőző napon hatályos előírásoknak megfelelő 18. melléklet szerinti termékek a MódR16. hatálybalépésének napjától számított 24. hónap utolsó napjáig előállíthatók, forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
