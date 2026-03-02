@@ -1,3 +1,3 @@
-6. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 34. § (1) bekezdése a következő f) ponttal egészül ki:
+6. §[^7]
 
-(A lőfegyver tartására jogosító engedély, valamint az ennek meglétét igazoló hatósági igazolvány tartalmazza)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

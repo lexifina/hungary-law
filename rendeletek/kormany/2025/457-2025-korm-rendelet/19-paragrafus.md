@@ -1,5 +1,3 @@
-19. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+19. §[^20]
 
-a) 21. § (1) bekezdésében a „ , lőfegyverdarab” szövegrész,
-
-b) 48. § (2) bekezdés a) pontjában a „valamint” szövegrész.
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

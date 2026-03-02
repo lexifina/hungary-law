@@ -1,5 +1,3 @@
-1. melléklet a 457/2025. (XII. 29.) Korm. rendelethez
+1. melléklet a 457/2025. (XII. 29.) Korm. rendelethez[^21]
 
-„13. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
-
-5X11439.pdf”
+[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a 41. §-át követően a következő alcím címmel és 41/A. §-sal egészül ki:
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

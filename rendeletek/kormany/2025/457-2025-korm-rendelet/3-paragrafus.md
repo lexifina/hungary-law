@@ -1,3 +1,3 @@
-3. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 15. §-a a következő (2b) bekezdéssel egészül ki:
+3. §[^4]
 
-„(2b) A tűzfegyver fődarab (lőfegyverdarab) kizárólag a tartására jogosultnak vagy – az Ftv. 3. § (2c) bekezdése szerinti esetben – annak az engedélyesnek értékesíthető, akinek a lőfegyvertartási engedélyébe a moduláris tűzfegyvert bejegyezték.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
