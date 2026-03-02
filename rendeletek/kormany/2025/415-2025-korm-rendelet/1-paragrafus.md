@@ -20,16 +20,6 @@
 
 ## 1. Az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló 151/2003. (IX. 22.) Korm. rendelet módosítása
 
-1. § (1) Az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló 151/2003. (IX. 22.) Korm. rendelet [a továbbiakban: 151/2003. (IX. 22.) Korm. rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) E rendelet szabályait
-
-a) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti fogyasztó vagy
-
-b) a szakmája, önálló foglalkozása vagy üzleti tevékenysége körén kívül eljáró mikro-, kis- és középvállalkozás
-
-[az a) és b) pont a továbbiakban együtt: fogyasztó] és vállalkozás közötti szerződés keretében eladott, a kötelező jótállás alá tartozó tartós fogyasztási cikkek termékcsoportjainak megnevezéséről szóló miniszteri rendeletben felsorolt új tartós fogyasztási cikkekre (a továbbiakban: fogyasztási cikk) vonatkozó jótállási kötelezettségre kell alkalmazni.”
-
-(2) A 151/2003. (IX. 22.) Korm. rendelet 1. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A mikro-, kis- és középvállalkozás szakmája, önálló foglalkozása vagy üzleti tevékenysége körén kívül jár el, ha a fogyasztási cikket a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység keretében vásárolja meg, tekintet nélkül a fogyasztási cikk gazdasági tevékenységi körben való elszámolására.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

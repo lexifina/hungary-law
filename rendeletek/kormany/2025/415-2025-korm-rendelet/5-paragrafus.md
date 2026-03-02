@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 151/2003. (IX. 22.) Korm. rendelet 3. § (3) bekezdés g) pontjában a „valamint” szövegrész.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
