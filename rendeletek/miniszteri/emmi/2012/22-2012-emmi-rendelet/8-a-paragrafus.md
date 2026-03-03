@@ -30,4 +30,7 @@ f) egyéb, a szakorvosjelölt élethelyzetében adódó méltányolható körül
 
 (10) Az (1) bekezdésben meghatározott gyakorlat a szakorvosjelölt támogatott szakképzési időtartamába beszámít.
 
+(11)[^43] Mentesül az (1) bekezdés szerinti gyakorlat teljesítése alól az a szakorvosjelölt, aki az egyes miniszteri rendeleteknek az egészségügyi ágazati képzésekkel összefüggő és költségvetési előirányzatok felhasználását érintő módosításáról szóló 9/2025. (III. 24.) BM rendelet hatálybalépését követően újabb elsőként megszerezhető alap szakképesítést kíván szerezni, vagy újabb alap szakképzésben vesz részt.
+
 [^42]: A 8/A. §-t a 9/2025. (III. 24.) BM rendelet 6. §-a iktatta be.
+[^43]: A 8/A. § (11) bekezdését az 5/2026. (III. 2.) BM rendelet 6. §-a iktatta be.
