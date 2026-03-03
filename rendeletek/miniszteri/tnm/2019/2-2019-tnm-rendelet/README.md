@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-2-20-6F
 | 2024-07-30 | 2019-2-20-6F.14 | 5/2024. (VII. 29.) TNM rendelet |
 | 2025-03-18 | 2019-2-20-6F.15 | 1/2025. (III. 17.) TNM rendelet |
 | 2026-01-01 | 2019-2-20-6F.16 | 2/2025. (XII. 30.) TNM rendelet |
+| 2026-03-03 | 2019-2-20-6F.17 | 2/2025. (XII. 30.) TNM rendelet |
