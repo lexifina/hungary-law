@@ -1,0 +1,1 @@
+2. melléklet az 5/2026. (III. 2.) BM rendelethez
