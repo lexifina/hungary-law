@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-23-20-5
 | 2025-04-05 | 2012-23-20-5H.20 | 10/2025. (IV. 4.) BM rendelet |
 | 2025-05-05 | 2012-23-20-5H.21 | 10/2025. (IV. 4.) BM rendelet |
 | 2025-08-03 | 2012-23-20-5H.22 | 31/2025. (VII. 31.) BM rendelet |
+| 2026-03-03 | 2012-23-20-5H.23 | 5/2026. (III. 2.) BM rendelet |

@@ -56,14 +56,22 @@
 
 | 28. | Pajzsmirigy ultrahang | beavatkozási | 12 hónap |
 
-1a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^58]
+| 29. | Klinikai pszichoonkológia | specializációs | 20 hónap |
 
-Szakpszichológusi licencek listája
+| 30. | Integratív Medicina | interdiszciplináris | 24 hónap |
+
+1a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^61]
+
+## Szakpszichológusi licencek listája
 
 |  | A | B | C |
 
 | 1. | Licenc megnevezése | Licenc típusa | Képzési idő |
 
-| 2. | Reproduktív pszichológiai szaktanácsadó | specializációs | 12 hónap |
+| 2.[^62] | Klinikai reproduktív pszichológiai szaktanácsadó | specializációs | 12 hónap |
 
-[^58]: Az 1a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (2) bekezdése iktatta be.
+| 3.[^63] | Klinikai pszichoonkológia | specializációs | 20 hónap |
+
+[^61]: Az 1a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^62]: Az 1a. mellékletben foglalt táblázat 2. sora az 5/2026. (III. 2.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^63]: Az 1a. mellékletben foglalt táblázat 3. sorát az 5/2026. (III. 2.) BM rendelet 13. § (2) bekezdése iktatta be.
