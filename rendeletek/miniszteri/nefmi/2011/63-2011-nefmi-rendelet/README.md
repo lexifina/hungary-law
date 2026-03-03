@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-63-20-2
 | 2024-03-01 | 2011-63-20-2V.13 | 7/2024. (II. 12.) BM rendelet |
 | 2025-04-05 | 2011-63-20-2V.14 | 10/2025. (IV. 4.) BM rendelet |
 | 2025-08-14 | 2011-63-20-2V.15 | 32/2025. (VIII. 11.) BM rendelet |
+| 2026-03-03 | 2011-63-20-2V.16 | 5/2026. (III. 2.) BM rendelet |

@@ -6,11 +6,11 @@
 
 (3) A továbbképzési pontok számításánál egy évnél rövidebb gyakorlati idő is figyelembe vehető, amennyiben a továbbképzésre kötelezett a (2) bekezdés szerinti módon igazolja, hogy legalább két egymást követő hónapon át hazai vagy külföldi egészségügyi szolgáltatónál a szakképesítése (szakképesítései) szerinti szakterületnek megfelelő munkakörben végzett egészségügyi tevékenységet. Az így teljesített gyakorlati idő értéke kéthavonként 3 pont.
 
-(4)[^34]
+(4)[^35]
 
-(5)[^35] Aki a továbbképzési időszak alatt az (1) és a (3) bekezdés szerinti módon a szükséges 60 pontot nem szerezte meg, a gyakorlati rész teljesítését 1–3 hónapig tartó, felügyelet mellett végzett kiegészítő gyakorlati továbbképzéssel pótolhatja. Az így teljesített gyakorlati idő értéke havonta 20 pont.
+(5)[^36] Aki a továbbképzési időszak alatt az (1) és a (3) bekezdés szerinti módon a szükséges 60 pontot nem szerezte meg, a gyakorlati rész teljesítését 1–3 hónapig tartó, felügyelet mellett végzett kiegészítő gyakorlati továbbképzéssel pótolhatja. Az így teljesített gyakorlati idő értéke havonta 20 pont.
 
 (6) Az Eütv. 110. § (3) bekezdése szerinti felügyeletet ellátó személy e tevékenységéért havonta 5 szabadon választható elméleti továbbképzési pontra jogosult. A felügyelet mellett végzett kiegészítő gyakorlati továbbképzés felügyeletéért legfeljebb két fő jogosult a meghatározott elméleti továbbképzési pontra.
 
-[^34]: A 10. § (4) bekezdését a 2/2013. (I. 2.) EMMI rendelet 26. § b) pontja hatályon kívül helyezte.
-[^35]: A 10. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 25. § d) pontja szerint módosított szöveg.
+[^35]: A 10. § (4) bekezdését a 2/2013. (I. 2.) EMMI rendelet 26. § b) pontja hatályon kívül helyezte.
+[^36]: A 10. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 25. § d) pontja szerint módosított szöveg.
