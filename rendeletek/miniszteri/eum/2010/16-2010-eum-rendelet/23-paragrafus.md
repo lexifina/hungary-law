@@ -12,7 +12,10 @@
 
 (7) A 9/B. §-ban foglalt vezető rezidenseket az OKFŐ első alkalommal legkésőbb a BM rendelet hatálybalépését követő kilencvenedik napig választja meg.
 
+(8)[^145] Az egyes miniszteri rendeleteknek az egészségügyi ágazati képzésekkel összefüggő és költségvetési előirányzatok felhasználását érintő módosításáról szóló 9/2025. (III. 24.) BM rendelettel (a továbbiakban: MódR.), valamint az egészségügyi ágazati szakmai képzésekkel összefüggő miniszteri rendeletek módosításáról szóló 5/2026. (III. 2.) BM rendelettel (a továbbiakban: MódR1.) módosított képzési követelmények tekintetében nem szükséges új akkreditációs eljárás lefolytatása azon képzési elemekre, amelyekre a képzőhely az adott szakképesítés vonatkozásában a MódR., valamint a MódR1. hatálybalépését megelőzően akkreditációval rendelkezett, amíg azok érvényessége fennáll.
+
 [^141]: A 23. § a 6/2021. (II. 9.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^142]: A 23. § (4) bekezdését a 28/2022. (VIII. 25.) BM rendelet 14. §-a iktatta be.
 [^143]: A 23. § (5) bekezdését a 28/2022. (VIII. 25.) BM rendelet 14. §-a iktatta be.
 [^144]: A 23. § (6) bekezdését a 28/2022. (VIII. 25.) BM rendelet 14. §-a iktatta be.
+[^145]: A 23. § (8) bekezdését az 5/2026. (III. 2.) BM rendelet 3. §-a iktatta be.
