@@ -1,7 +1,3 @@
-13. § (1) A 23/2012. (IX. 14.) EMMI rendelet 1. melléklete a 7. melléklet szerint módosul.
+13. §[^11]
 
-(2) A 23/2012. (IX. 14.) EMMI rendelet 1a. melléklete a 8. melléklet szerint módosul.
-
-(3) A 23/2012. (IX. 14.) EMMI rendelet 2. melléklete a 9. melléklet szerint módosul.
-
-(4) A 23/2012. (IX. 14.) EMMI rendelet 2a. melléklete a 10. melléklet szerint módosul.
+[^11]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

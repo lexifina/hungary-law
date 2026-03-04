@@ -1,3 +1,3 @@
-## „a) a szakképesítésével összefüggő további, emelt szintű vagy felsőfokú egészségügyi szakképesítést szerez,”
+5. §[^3]
 
-5. § A 63/2011. (XI. 29.) NEFMI rendelet 1. melléklete a 2. melléklet szerint módosul.
+[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

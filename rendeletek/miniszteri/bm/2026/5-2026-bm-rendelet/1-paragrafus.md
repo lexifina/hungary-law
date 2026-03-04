@@ -12,8 +12,8 @@
 
 ## a következőket rendelem el:
 
-## 1.[^1]
+## 1. Az egészségügyi tevékenység végzéséhez szükséges oklevelek elismeréséről, továbbá az oklevelek külföldi elismertetéséhez szükséges hatósági bizonyítványok kiadásának egyes eljárási szabályairól szóló 30/2008. (VII. 25.) EüM rendelet módosítása
 
-1. §
+1. § Az egészségügyi tevékenység végzéséhez szükséges oklevelek elismeréséről, továbbá az oklevelek külföldi elismertetéséhez szükséges hatósági bizonyítványok kiadásának egyes eljárási szabályairól szóló 30/2008. (VII. 25.) EüM rendelet [a továbbiakban: 30/2008. (VII. 25.) EüM rendelet] 15. §-a a következő (6) bekezdéssel egészül ki:
 
-[^1]: Az 1. alcím a 15. § (2) bekezdése alapján 2026. március 4-én lép hatályba.
+„(6) Ez a rendelet a 2005/36/EK európai parlamenti és tanácsi irányelvnek az általános ápolói, a fogorvosi és a gyógyszerészi szakmák képzési minimumkövetelményei tekintetében történő módosításáról szóló, 2024. március 4-i (EU) 2024/782 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.”

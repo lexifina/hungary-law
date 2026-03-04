@@ -1,5 +1,5 @@
 ## 3. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet módosítása
 
-4. § Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet [a továbbiakban: 63/2011. (XI. 29.) NEFMI rendelet] 9. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^2]
 
-(Teljesítettnek minősül a továbbképzési időszak elméleti része annak, aki a továbbképzési időszakon belül)
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-16. §[^2]
-
-[^2]: A 16. § a 15. § (2) bekezdése alapján 2026. március 4-én lép hatályba.
+16. § Ez a rendelet a 2005/36/EK európai parlamenti és tanácsi irányelvnek az általános ápolói, a fogorvosi és a gyógyszerészi szakmák képzési minimumkövetelményei tekintetében történő módosításáról szóló, 2024. március 4-i (EU) 2024/782 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
