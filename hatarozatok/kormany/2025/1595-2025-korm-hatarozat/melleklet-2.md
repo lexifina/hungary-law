@@ -805,37 +805,3 @@
 | 402 | Zsana | 8 134 463 | a) alapinfrastruktúra fenntartása, illetve fejlesztése b) közszolgáltatások nyújtása c) településüzemeltetés |
 
 2. melléklet az 1595/2025. (XII. 31.) Korm. határozathoz
-
-| Sorszám | Önkormányzat |
-
-| 1 | Debrecen |
-
-| 2 | Eger |
-
-| 3 | Esztergom |
-
-| 4 | Győr |
-
-| 5 | Kaposvár |
-
-| 6 | Kecskemét |
-
-| 7 | Miskolc |
-
-| 8 | Nagykanizsa |
-
-| 9 | Nyíregyháza |
-
-| 10 | Sopron |
-
-| 11 | Szeged |
-
-| 12 | Székesfehérvár |
-
-| 13 | Szolnok |
-
-| 14 | Szombathely |
-
-| 15 | Tatabánya |
-
-| 16 | Veszprém |
