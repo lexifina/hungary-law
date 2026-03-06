@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-303-20-
 | 2023-12-29 | 2011-303-20-22.13 | 660/2023. (XII. 28.) Korm. rendelet |
 | 2024-12-17 | 2011-303-20-22.14 | 396/2024. (XII. 16.) Korm. rendelet |
 | 2025-12-17 | 2011-303-20-22.15 | 397/2025. (XII. 16.) Korm. rendelet |
+| 2026-03-06 | 2011-303-20-22.16 | 47/2026. (III. 5.) Korm. rendelet |
