@@ -8,23 +8,23 @@
 
 a) vásárlásánál a kölcsönszerződés megkötésének időpontjától,
 
-b)[^48] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítésénél – ideértve a lakás megvásárlásával egybekötött bővítést is – a használatbavételi engedély véglegessé válásának napjától,
+b)[^50] építési engedélyhez vagy egyszerű bejelentéshez kötött bővítésénél – ideértve a lakás megvásárlásával egybekötött bővítést is – a használatbavételi engedély véglegessé válásának napjától,
 
-c)[^49]
+c)[^51]
 
-d)[^50] építésénél a használatbavételi engedély véglegessé válása napjától
+d)[^52] építésénél a használatbavételi engedély véglegessé válása napjától
 
 kell számítani.
 
-(4)[^51] A (3) bekezdés szerinti okiratot a házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavételi engedély kiadását követő 45 napon belül köteles a hitelintézet részére bemutatni.
+(4)[^53] A (3) bekezdés szerinti okiratot a házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavételi engedély kiadását követő 45 napon belül köteles a hitelintézet részére bemutatni.
 
 (5) Ha a házaspár a (3) bekezdés szerinti dokumentumokra vonatkozó bemutatási kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, a kamattámogatás összegét az igénybevétel napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten köteles a hitelintézeten keresztül a Kincstár részére visszafizetni, és a kamattámogatás a felszólításban megjelölt határidő lejártát követő naptól a jövőre nézve megszűnik.
 
 (6) A gyermekvállalás teljesítésére vonatkozó határidő a várandósság orvosilag megállapított tényére tekintettel a várandósság végéig meghosszabbodik, ha a házaspár a várandósságnak a gyermekvállalási határidő lejártát megelőzően fennálló tényét orvosi bizonyítvánnyal a vállalási határidő lejártát követő 90. napig a hitelintézetnek igazolja.
 
-(7)[^52] Ha a házaspár a közös gyermekvállalást közös örökbefogadással kívánja teljesíteni, és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejártát követő 90 napon belül bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a házaspárt és a kormányhivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
+(7)[^54] Ha a házaspár a közös gyermekvállalást közös örökbefogadással kívánja teljesíteni, és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejártát követő 90 napon belül bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a házaspárt és a kormányhivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
 
-(8)[^53] A gyermekvállalás teljesítése a támogatott személyek által közösen örökbefogadott gyermek is.
+(8)[^55] A gyermekvállalás teljesítése a támogatott személyek által közösen örökbefogadott gyermek is.
 
 (9) A gyermekvállalás teljesítését örökbefogadás esetén az örökbefogadó és az örökbefogadott személyes adatait, az örökbefogadás időpontját, a döntést hozó hatóság megnevezését tartalmazó, a támogatott személyek büntetőjogi felelőssége tudatában tett teljes bizonyító erejű magánokiratba foglalt nyilatkozattal kell igazolni.
 
@@ -32,9 +32,9 @@ kell számítani.
 
 (11) A Kincstár a (2) bekezdésben meghatározott, a gyermekvállalás teljesítésére vonatkozó határidő alatt, illetve annak leteltét követő 6 hónapon belül adategyeztetésre hívhatja fel a házaspárt.
 
-[^48]: A 19. § (3) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § f) pontja és 199. § 11. pontja szerint módosított szöveg.
-[^49]: A 19. § (3) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 12. pontja hatályon kívül helyezte.
-[^50]: A 19. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 13. pontja szerint módosított szöveg.
-[^51]: A 19. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § g) pontja szerint módosított szöveg.
-[^52]: A 19. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 14. pontja szerint módosított szöveg.
-[^53]: A 19. § (8) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 15. pontja szerint módosított szöveg.
+[^50]: A 19. § (3) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 198. § f) pontja és 199. § 11. pontja szerint módosított szöveg.
+[^51]: A 19. § (3) bekezdés c) pontját a 285/2024. (IX. 30.) Korm. rendelet 199. § 12. pontja hatályon kívül helyezte.
+[^52]: A 19. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 13. pontja szerint módosított szöveg.
+[^53]: A 19. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § g) pontja szerint módosított szöveg.
+[^54]: A 19. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 14. pontja szerint módosított szöveg.
+[^55]: A 19. § (8) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 15. pontja szerint módosított szöveg.

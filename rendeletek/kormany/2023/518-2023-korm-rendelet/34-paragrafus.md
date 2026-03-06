@@ -22,13 +22,13 @@ c) lakást a legalább többségi tulajdonukban álló legfeljebb két gazdaság
 
 (4) Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
 
-(5)[^81] Nem minősül az (1) bekezdés c) pontjában foglalt lakáshasználat átengedés tilalma megsértésének az, ha
+(5)[^86] Nem minősül az (1) bekezdés c) pontjában foglalt lakáshasználat átengedés tilalma megsértésének az, ha
 
 a) a 17. § (1) bekezdés h) pontja szerinti esetben a lakás használatát ingyenesen a támogatott személy közeli hozzátartozója részére engedik át, vagy
 
 b) a lakásban ingyenesen a támogatott személy hozzátartozója is lakóhelyet vagy tartózkodási helyet létesít.
 
-(6)[^82] Az (1) bekezdés b) pontja szerinti esetben, ha olyan kiskorú gyermek lakóhelye szűnt meg a kölcsönnel érintett lakásban, akire tekintettel a támogatott személy a kölcsönt igénybe vette, akkor az igénybe vett kamattámogatás összegét az annál figyelembe vett nagykorú gyermekek és a kölcsönnel érintett lakásban továbbra is életvitelszerűen bent lakó kiskorú gyermekek után – a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint – járó kölcsön összegéhez kapcsolódó kamattámogatás összegével csökkentve kell visszafizetni.
+(6)[^87] Az (1) bekezdés b) pontja szerinti esetben, ha olyan kiskorú gyermek lakóhelye szűnt meg a kölcsönnel érintett lakásban, akire tekintettel a támogatott személy a kölcsönt igénybe vette, akkor az igénybe vett kamattámogatás összegét az annál figyelembe vett nagykorú gyermekek és a kölcsönnel érintett lakásban továbbra is életvitelszerűen bent lakó kiskorú gyermekek után – a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint – járó kölcsön összegéhez kapcsolódó kamattámogatás összegével csökkentve kell visszafizetni.
 
-[^81]: A 34. § (5) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^82]: A 34. § (6) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 40. §-a iktatta be.
+[^86]: A 34. § (5) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^87]: A 34. § (6) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 40. §-a iktatta be.
