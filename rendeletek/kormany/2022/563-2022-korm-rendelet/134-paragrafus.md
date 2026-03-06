@@ -4,15 +4,15 @@ a) alapkutatás esetén az elszámolható költségek 100%-át,
 
 b) ipari kutatás esetén az elszámolható költségek 50%-át,
 
-c)[^230] kísérleti fejlesztés esetén az elszámolható költségek 25%-át,
+c)[^256] kísérleti fejlesztés esetén az elszámolható költségek 25%-át,
 
 d) megvalósíthatósági tanulmány esetén az elszámolható költségek 50%-át.
 
-(2)[^231] A támogatási intenzitást külön kell megállapítani az egyes kedvezményezettekre, ideértve az (5) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti együttműködési projektben részt vevőket is.
+(2)[^257] A támogatási intenzitást külön kell megállapítani az egyes kedvezményezettekre, ideértve az (5) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti együttműködési projektben részt vevőket is.
 
-(3)[^232] Ipari kutatás, kísérleti fejlesztés és megvalósíthatósági tanulmány esetén az (1) bekezdés szerinti támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
+(3)[^258] Ipari kutatás, kísérleti fejlesztés és megvalósíthatósági tanulmány esetén az (1) bekezdés szerinti támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-(4)[^233] Ipari kutatás és kísérleti fejlesztés esetén az (1) bekezdés szerinti támogatási intenzitás a (6) bekezdésben foglaltak szerint
+(4)[^259] Ipari kutatás és kísérleti fejlesztés esetén az (1) bekezdés szerinti támogatási intenzitás a (6) bekezdésben foglaltak szerint
 
 a) kis- és középvállalkozás esetén a (3) bekezdésben foglalt mértéken felül,
 
@@ -20,9 +20,9 @@ b) nagyvállalkozás esetén
 
 növelhető oly módon, hogy a (6) bekezdés a) és b) pontja együttesen nem alkalmazható.
 
-(5)[^234] A támogatási intenzitás a (4) bekezdésben foglaltak alkalmazása esetén nem haladhatja meg az elszámolható költségek 80%-át.
+(5)[^260] A támogatási intenzitás a (4) bekezdésben foglaltak alkalmazása esetén nem haladhatja meg az elszámolható költségek 80%-át.
 
-(6)[^235] Ipari kutatás és kísérleti fejlesztés esetén a támogatási intenzitás
+(6)[^261] Ipari kutatás és kísérleti fejlesztés esetén a támogatási intenzitás
 
 a) 15 százalékponttal növelhető, ha
 
@@ -42,9 +42,9 @@ bb) a projekt legalább két – nagyvállalkozás esetén három – tagállamb
 
 bc) az a) pont ac) vagy ad) alpontja szerinti feltétel teljesül, azzal, hogy az ac) alpont esetén az eredmények széles körű terjesztésének legalább három tagállamban vagy az EGT-megállapodásban szerződő fél területén kell megvalósulnia.
 
-[^230]: A 134. § (1) bekezdés c) pontja az 50/2024. (III. 4.) Korm. rendelet 40. § 4. pontja szerint módosított szöveg.
-[^231]: A 134. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^232]: A 134. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^233]: A 134. § (4) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^234]: A 134. § (5) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^235]: A 134. § (6) bekezdését az 50/2024. (III. 4.) Korm. rendelet 16. §-a iktatta be.
+[^256]: A 134. § (1) bekezdés c) pontja az 50/2024. (III. 4.) Korm. rendelet 40. § 4. pontja szerint módosított szöveg.
+[^257]: A 134. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^258]: A 134. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^259]: A 134. § (4) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^260]: A 134. § (5) bekezdése az 50/2024. (III. 4.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^261]: A 134. § (6) bekezdését az 50/2024. (III. 4.) Korm. rendelet 16. §-a iktatta be.

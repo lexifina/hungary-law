@@ -1,4 +1,4 @@
-153. §[^280] (1) A támogatás keretében a teljes beruházási költség számolható el, és a támogatás nem függhet a termelés eredményétől.
+153. §[^311] (1) A támogatás keretében a teljes beruházási költség számolható el, és a támogatás nem függhet a termelés eredményétől.
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
@@ -18,4 +18,4 @@ c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítá
 
 d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg.
 
-[^280]: A 153. § az 50/2024. (III. 4.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^311]: A 153. § az 50/2024. (III. 4.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ b) az Atr. 25. § (1) bekezdése szerinti területen megvalósuló beruházás e
 
 növelhető.
 
-(3) A támogatás az elszámolható költségek 100%-áig nyújtható, ha a támogatást olyan, a 2. § (2) bekezdés 119. pontja szerinti versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
+(3)[^303] A támogatás a beruházási költségek 100%-áig nyújtható, ha a támogatást olyan, a 2. § (2) bekezdés 119. pontja szerinti versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
 
 a) az eljárást objektív, világos, átlátható és megkülönböztetésmentes, a tényleges verseny lehetővé tétele érdekében előzetesen meghatározott és az ajánlatok benyújtásának határideje előtt legalább 6 héttel közzétett kritériumok alapján dolgozzák ki,
 
@@ -19,3 +19,5 @@ c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítá
 d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a projektnek a támogatási intézkedés környezetvédelmi célkitűzéseihez való hozzájárulása – így különösen a megtakarított energia vagy a megnövelt energiahatékonyság egy egysége után igényelt támogatás – alapján határozzák meg.
 
 (4) A 148. § (8) bekezdése szerinti esetben az (1)–(2) bekezdésben meghatározott támogatási intenzitások és bónuszok 50%-kal csökkennek.
+
+[^303]: A 148/A. § (3) bekezdés nyitó szövegrésze a 42/2026. (III. 5.) Korm. rendelet 18. § 12. pontja szerint módosított szöveg.

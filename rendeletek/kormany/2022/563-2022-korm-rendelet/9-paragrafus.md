@@ -12,4 +12,6 @@ d) benyújtja a hitelesített visszatérítési kérelmeket a svájci hatóságo
 
 e) nyilvántartást vezet a svájci hatóságok részére benyújtott visszatérítési kérelmekről, és
 
-f) a programszámlára érkező hozzájárulás összegét a költségvetés közvetlen bevételei és kiadásai fejezetébe utalja a Nemzeti Irányító Hatóság által meghatározott ütemezésben.
+f)[^136] a programszámlára érkező hozzájárulás összegét a költségvetés közvetlen bevételei és kiadásai fejezetébe utalja.
+
+[^136]: A 9. § f) pontja a 42/2026. (III. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

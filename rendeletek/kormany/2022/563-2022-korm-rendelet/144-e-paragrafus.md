@@ -1,4 +1,4 @@
-144/E. §[^266] (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 40%-át.
+144/E. §[^293] (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 40%-át.
 
 (2) Az (1) bekezdéstől eltérően a támogatási intenzitás nem haladhatja meg
 
@@ -28,4 +28,4 @@ d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a vers
 
 (6) A 144/D. § (1) bekezdése szerinti esetben az (1)–(3) bekezdésben meghatározott támogatási intenzitások és bónuszok 50%-kal csökkennek.
 
-[^266]: A 144/E. §-t az 50/2024. (III. 4.) Korm. rendelet 23. §-a iktatta be.
+[^293]: A 144/E. §-t az 50/2024. (III. 4.) Korm. rendelet 23. §-a iktatta be.

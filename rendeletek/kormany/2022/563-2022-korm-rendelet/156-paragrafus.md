@@ -1,6 +1,6 @@
 ## 66. Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás
 
-156. §[^283] (1) Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiahatékony vagy azzá váló távfűtési, illetve távhűtési rendszerek – ideértve a hő- vagy hűtőenergia-termelő létesítményeket, az elosztóhálózatokat és a hőenergia-tárolást is –kiépítéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
+156. §[^314] (1) Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiahatékony vagy azzá váló távfűtési, illetve távhűtési rendszerek – ideértve a hő- vagy hűtőenergia-termelő létesítményeket, az elosztóhálózatokat és a hőenergia-tárolást is –kiépítéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
 (2) Amennyiben a távfűtési, illetve távhűtési rendszer az elosztóhálózat támogatott munkálatainak eredményeképpen még nem válik teljes mértékben energiahatékonnyá, annak elérése érdekében a támogatásban részesülő hő- vagy hűtőenergia-termelő létesítményekre irányuló további korszerűsítéseket kell elvégezni, amelyeket az elosztóhálózaton végzett támogatott munkálatok megkezdésétől számított 3 éven belül meg kell kezdeni.
 
@@ -30,4 +30,4 @@ b) a korszerűsítés nem eredményezi a fosszilis tüzelőanyagokból származ�
 
 (7) A (3) bekezdés c) pontja kivételével nem nyújtható támogatás fosszilis tüzelőanyaggal működő termelő létesítmény kiépítéséhez vagy korszerűsítéséhez.
 
-[^283]: A 156. § az 50/2024. (III. 4.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^314]: A 156. § az 50/2024. (III. 4.) Korm. rendelet 28. §-ával megállapított szöveg.

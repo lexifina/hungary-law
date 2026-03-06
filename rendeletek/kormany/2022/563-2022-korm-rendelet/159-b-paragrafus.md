@@ -1,4 +1,4 @@
-159/B. §[^296] (1) A támogatás keretében a támogatott beruházás teljes költségének és a támogatás hiányában megvalósítandó – egy kevésbé környezetbarát projektet vagy tevékenységet célzó – alternatív forgatókönyv költségeinek különbsége számolható el.
+159/B. §[^327] (1) A támogatás keretében a támogatott beruházás teljes költségének és a támogatás hiányában megvalósítandó – egy kevésbé környezetbarát projektet vagy tevékenységet célzó – alternatív forgatókönyv költségeinek különbsége számolható el.
 
 (2) Az (1) bekezdés alkalmazásában alternatív forgatókönyv
 
@@ -20,7 +20,7 @@ b) hitelesnek kell lennie a piaci körülmények, az ösztönzők és jogszabál
 
 (4) Az (1) bekezdésben foglaltaktól eltérően a teljes beruházási költség elszámolható, amennyiben
 
-a) a beruházás egy, már létező létesítmény kiegészítő alkotóelemének telepítéséből áll, amelynek esetében nem azonosítható alternatív forgatókönyv, vagy
+a)[^328] a beruházás egy, már létező létesítmény kiegészítő alkotóelemének telepítéséből áll, amelynek esetében nem azonosítható kevésbé környezetbarát alternatív forgatókönyv, vagy
 
 b) a támogatást igénylő bizonyítja, hogy támogatás hiányában nem kerülne sor beruházásra.
 
@@ -34,4 +34,5 @@ b) az Atr. 25. § (1) bekezdése szerinti területen megvalósuló beruházás e
 
 növelhető.
 
-[^296]: A 159/B. §-t az 50/2024. (III. 4.) Korm. rendelet 30. §-a iktatta be.
+[^327]: A 159/B. §-t az 50/2024. (III. 4.) Korm. rendelet 30. §-a iktatta be.
+[^328]: A 159/B. § (4) bekezdés a) pontja a 42/2026. (III. 5.) Korm. rendelet 18. § 13. pontja szerint módosított szöveg.

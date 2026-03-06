@@ -1,4 +1,4 @@
-## 61/B.[^270] Tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatás
+## 61/B.[^298] Tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatás
 
 146/F. § (1) A tiszta üzemű vagy kibocsátásmentes járművek beszerzéséhez, valamint járművek utólagos átalakításához beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
@@ -24,4 +24,4 @@ c) a jármű tiszta üzemű vagy kibocsátásmentes jármű minősítését lehe
 
 (5) A (2) bekezdés b) pontja szerinti esetben a lízing költségei nem foglalják magukban a jármű üzemeltetésével kapcsolatban felmerülő működési költségeket – ideértve az energiaköltségeket, biztosítási költségeket és karbantartási költségeket –, függetlenül attól, hogy azok részét képezik-e a lízingszerződésnek.
 
-[^270]: A 61/B. alcímet (146/F–146/G. §-t) az 50/2024. (III. 4.) Korm. rendelet 24. §-a iktatta be.
+[^298]: A 61/B. alcímet (146/F–146/G. §-t) az 50/2024. (III. 4.) Korm. rendelet 24. §-a iktatta be.

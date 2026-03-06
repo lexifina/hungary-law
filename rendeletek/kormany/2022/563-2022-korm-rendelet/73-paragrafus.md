@@ -6,6 +6,9 @@
 
 (4) A hitelesítést végző szerv, illetve a támogató hozzáférést biztosít az igazoló hatóság által írásban felhatalmazott személyek részére az elektronikus és papír alapon rendelkezésre álló, az igazoláshoz kapcsolódó dokumentumokhoz és adatokhoz.
 
-(5) Az igazoló hatóság a visszatérítési kérelmet ellenőrzés után, szeptember 30-ig, illetve március 31-ig benyújtja a svájci hatóságok részére.
+(5)[^163] Az igazoló hatóság a visszatérítési kérelmet ellenőrzés után, szeptember 30-ig, illetve március 31-ig benyújtja a svájci hatóságok részére. A benyújtási határidő a svájci hatóságok előzetes írásbeli jóváhagyása esetén meghosszabbítható.
 
-(6) Az igazoló hatóság a záró elszámolási időszakot lefedő visszatérítési kérelmet a záró elszámolási időszakot követő 6 hónapon belül nyújtja be a svájci hatóságok részére.
+(6)[^164] Az igazoló hatóság a záró elszámolási időszakot lefedő visszatérítési kérelmet a záró elszámolási időszakot követő 9 hónapon belül nyújtja be a svájci hatóságok részére.
+
+[^163]: A 73. § (5) bekezdése a 42/2026. (III. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^164]: A 73. § (6) bekezdése a 42/2026. (III. 5.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.

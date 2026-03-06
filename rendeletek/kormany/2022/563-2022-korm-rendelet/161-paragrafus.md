@@ -1,4 +1,4 @@
-## 69.[^304] A környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás
+## 69.[^336] A környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás
 
 161. § (1) A környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a 651/2014/EU bizottsági rendelet 7. szakasza szerint támogatható beruházásokhoz közvetlenül kapcsolódó tanulmányhoz vagy tanácsadási szolgáltatáshoz – ideértve az energetikai auditot is – nyújtható.
 
@@ -20,4 +20,4 @@ a) középvállalkozás részére készített tanulmány és nyújtott tanácsad
 
 b) kisvállalkozás részére készített tanulmány és nyújtott tanácsadási szolgáltatás esetén 20 százalékponttal növelhető.
 
-[^304]: A 69. alcím (161. §) az 50/2024. (III. 4.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^336]: A 69. alcím (161. §) az 50/2024. (III. 4.) Korm. rendelet 33. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 63.[^272] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 63.[^300] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 148. § (1) Az épületek energiahatékonyságának kivételével energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiamegtakarítást eredményező beruházáshoz nyújtható.
 
@@ -16,7 +16,7 @@ c) a már elfogadott és hatályos uniós szabványnak való megfelelés érdek�
 
 a) olyan kevésbé energiahatékony beruházás valósulna meg, amely az adott ágazat vagy az érintett tevékenység esetében megfelel a szokásos kereskedelmi gyakorlatnak, az elszámolható költségek a támogatott beruházás költségeinek és a kevésbé energiahatékony beruházás költségeinek a különbözete,
 
-b) ugyanazon beruházás későbbi időpontban valósulna meg, az elszámolható költségek a támogatásban részesülő beruházás költségeinek és a későbbi beruházás nettó jelenértéken számított költségeinek különbözete arra az időpontra diszkontálva, amikor a támogatott beruházás megvalósul,
+b)[^301] ugyanazon beruházás későbbi időpontban valósulna meg, az elszámolható költségek a támogatásban részesülő beruházás költségeinek és ugyanannak a beruházásnak a későbbi időpontban felmerülő nettó jelenértéken számított költségeinek különbözete arra az időpontra diszkontálva, amikor a támogatott beruházás megvalósul,
 
 c) a meglévő berendezések és felszerelések további üzemben tartása valósulna meg, az elszámolható költségek a támogatásban részesülő beruházás költségeinek és a meglévő létesítmények és berendezések karbantartására, javítására és korszerűsítésére irányuló beruházások nettó jelenértékének különbözete arra az időpontra diszkontálva, amikor a támogatott beruházás megvalósul,
 
@@ -30,10 +30,12 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátáskeresked
 
 (6) A (4) bekezdés d) pontja szerinti esetben a lízing költségei nem foglalják magukban a felszerelés vagy berendezés üzemeltetésével kapcsolatos költségeket – különösen az üzemanyagköltségeket, biztosítás, karbantartás, egyéb fogyóeszközök költségeit –, függetlenül attól, hogy azok részét képezik-e a lízingszerződésnek.
 
-(7) A (4)–(6) bekezdéstől eltérően a teljes beruházási költség elszámolható, amennyiben a támogatott beruházás egyértelműen beazonosítható, kizárólag az energiahatékonyság növelésére irányul és nincs olyan kevésbé energiahatékony beruházás, amely támogatás hiányában megvalósulna.
+(7)[^302] A (4)–(6) bekezdéstől eltérően a magasabb energiahatékonysági szint eléréséhez szükséges teljes beruházási költség elszámolható, amennyiben a támogatott beruházás egyértelműen beazonosítható, kizárólag az energiahatékonyság növelésére irányul és nincs olyan kevésbé energiahatékony beruházás, amely támogatás hiányában megvalósulna.
 
 (8) A (4) bekezdés a)–d) pontjától eltérően az elszámolható költségek alternatív forgatókönyv és a 2. § (2) bekezdés 119. pontja szerinti versenyeztetéses ajánlattételi eljárás nélkül is meghatározhatóak, amely esetben a magasabb szintű energiahatékonyság eléréséhez közvetlenül kapcsolódó beruházási költségek számolhatók el.
 
 (9) A (4)–(8) bekezdés esetén nem számolhatók el a magasabb szintű energiahatékonyság eléréséhez közvetlenül nem kapcsolódó költségek.
 
-[^272]: A 63. alcím (148–148/A. §) az 50/2024. (III. 4.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^300]: A 63. alcím (148–148/A. §) az 50/2024. (III. 4.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^301]: A 148. § (4) bekezdés b) pontja a 42/2026. (III. 5.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
+[^302]: A 148. § (7) bekezdése a 42/2026. (III. 5.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.

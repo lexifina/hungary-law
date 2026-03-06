@@ -2,19 +2,19 @@
 
 11. § A közreműködő szervezet
 
-1. ellátja azokat a Nemzeti Irányító Hatóság és a program operátor által átruházott feladatokat,
+1.[^137] ellátja a Nemzeti Irányító Hatóság és a program operátor által átruházott feladatokat,
 
 2. közreműködik a pályáztatás lebonyolításában,
 
 3. közreműködik a támogatáselőkészítési alap kezelésében,
 
-4. ügyfélszolgálatot működtet,
+4.[^138] gondoskodik a pályázók és a kedvezményezettek tájékoztatásáról és megkereséseik kezeléséről,
 
 5. előkészíti a támogatási szerződéseket,
 
 6. közreműködik a támogatási szerződések módosításában,
 
-7.[^134] kockázatelemzés alapján éves helyszíni ellenőrzési tervet készít, és annak megfelelően lefolytatja a helyszíni ellenőrzéseket,
+7.[^139] kockázatelemzés alapján éves helyszíni ellenőrzési tervet készít, és annak megfelelően lefolytatja a helyszíni ellenőrzéseket,
 
 8. tájékoztatást nyújt a kedvezményezetteknek a támogatási intézkedések lebonyolítására vonatkozó szabályokról,
 
@@ -42,4 +42,6 @@
 
 20. közreműködik a támogatási intézkedésekre vonatkozó fenntartási feladatok ellátásában.
 
-[^134]: A 11. § 7. pontja a 346/2023. (VII. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^137]: A 11. § 1. pontja a 42/2026. (III. 5.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^138]: A 11. § 4. pontja a 42/2026. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^139]: A 11. § 7. pontja a 346/2023. (VII. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

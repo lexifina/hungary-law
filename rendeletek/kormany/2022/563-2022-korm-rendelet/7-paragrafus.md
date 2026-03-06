@@ -1,8 +1,8 @@
 ## 6. Az államháztartásért felelős miniszter feladata
 
-7. § (1)[^131] Az államháztartásért felelős miniszter feladata az együttműködési program végrehajtásával összefüggésben a támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja, valamint az igazoló hatóság feladatellátásának biztosítása.
+7. § (1)[^133] Az államháztartásért felelős miniszter feladata az együttműködési program végrehajtásával összefüggésben a támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja, valamint az igazoló hatóság feladatellátásának biztosítása.
 
-(2)[^132]
+(2)[^134]
 
-[^131]: A 7. § (1) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^132]: A 7. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^133]: A 7. § (1) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^134]: A 7. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.

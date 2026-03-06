@@ -1,4 +1,4 @@
-## 71.[^306] Helyi infrastruktúrára irányuló támogatás
+## 71.[^338] Helyi infrastruktúrára irányuló támogatás
 
 164. § (1) Helyi infrastruktúrára irányuló támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
@@ -10,6 +10,7 @@ b) dedikált infrastruktúra fejlesztéséhez.
 
 (3) A támogatás nyújtásának feltétele, hogy a megvalósuló infrastruktúrát nyílt, átlátható és megkülönböztetésmentes alapon kell a felhasználók rendelkezésére bocsátani. Az infrastruktúra használata vagy eladása során a szokásos piaci árat kell fizetni.
 
-(4) Az infrastruktúra működtetését koncesszióba adni, vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetésmentes módon, a vonatkozó közbeszerzési jogszabályok betartásával lehet.
+(4)[^339] Az infrastruktúra működtetését koncesszióba adni, vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetésmentes módon, a gazdaságilag legelőnyösebb ajánlat alapján, a vonatkozó koncessziós és közbeszerzési jogszabályok betartásával lehet.
 
-[^306]: A 71. alcím (164–165. §) az 50/2024. (III. 4.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^338]: A 71. alcím (164–165. §) az 50/2024. (III. 4.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^339]: A 164. § (4) bekezdése a 42/2026. (III. 5.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.

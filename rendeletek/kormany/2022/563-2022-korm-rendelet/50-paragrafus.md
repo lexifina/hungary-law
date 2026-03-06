@@ -1,3 +1,5 @@
-50. § (1) A svájci hatóságok által Magyarországnak történő záró visszatérítést követő 6 hónapon belül, de legkésőbb a kiadásoknak a Keretmegállapodás 4. cikk (3) bekezdésében meghatározott elszámolhatósági időszakát követő 6 hónapon belül a Nemzeti Irányító Hatóság benyújtja a záró programjelentést a svájci hatóságok részére.
+50. § (1)[^151] A záró auditjelentés benyújtásától számított két hónapon belül, de legkésőbb 2030. december 3-ig a Nemzeti Irányító Hatóság benyújtja a záró programjelentést a svájci hatóságok részére.
 
 (2) A záró programjelentés a svájci hatóságok által meghatározott mintát követi.
+
+[^151]: Az 50. § (1) bekezdése a 42/2026. (III. 5.) Korm. rendelet 3. §-ával megállapított szöveg.

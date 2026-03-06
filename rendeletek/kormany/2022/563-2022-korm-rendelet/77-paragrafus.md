@@ -14,4 +14,6 @@ c) az irányítási és ellenőrzési rendszer meglétére, megfelelőségére �
 
 (4) Az (1) bekezdés b) pontja értelmében a jelentett kiadásokat reprezentatív minta alapján és általános szabályként statisztikai mintavételi módszer alkalmazásával kell ellenőrizni.
 
-(5) Az audit hatóság az ellenőrzést statisztikai mintavétel alapján végzi, de indokolt esetben nem statisztikai mintavételi módszert is alkalmazhat.
+(5)[^165] Az audit hatóság az ellenőrzést statisztikai mintavétel alapján végzi, de indokolt esetben nem statisztikai mintavételi módszert is alkalmazhat. Statisztikai mintavételezés esetén az igazoló hatóság az audit hatóság kérését követő 10 munkanapon belül megküldi az audit hatóság részére az érintett elszámolhatósági időszakban a kifizetések alapját jelentő alapsokaságot.
+
+[^165]: A 77. § (5) bekezdése a 42/2026. (III. 5.) Korm. rendelet 8. §-ával megállapított szöveg.

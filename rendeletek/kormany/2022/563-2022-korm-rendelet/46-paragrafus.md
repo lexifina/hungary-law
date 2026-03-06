@@ -2,4 +2,6 @@
 
 (2) A 44. § (2)–(6) bekezdésének rendelkezéseit megfelelően alkalmazni kell a zárójelentésre.
 
-(3) A zárójelentéseket legkésőbb 6 hónappal a támogatási intézkedés befejezését követően kell benyújtani az illetékes svájci hatóság részére.
+(3)[^150] A zárójelentéseket legkésőbb 9 hónappal a támogatási intézkedés befejezését követően kell benyújtani az illetékes svájci hatóság részére.
+
+[^150]: A 46. § (3) bekezdése a 42/2026. (III. 5.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.

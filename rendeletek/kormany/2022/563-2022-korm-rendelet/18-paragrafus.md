@@ -1,6 +1,6 @@
 18. § (1) A pályázati felhívást a Nemzeti Irányító Hatóság a tanácsadó bizottság javaslatai alapján dolgozza ki a svájci hatóságokkal, az ágazati minisztériumokkal és a közreműködő szervezettel együttműködésben.
 
-(2)[^136] A Nemzeti Irányító Hatóság a pályázati felhívás tervezetét előzetes állami támogatási szempontú vizsgálatra az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére megküldi.
+(2)[^142] A Nemzeti Irányító Hatóság a pályázati felhívás tervezetét előzetes állami támogatási szempontú vizsgálatra az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére megküldi.
 
 (3) A Nemzeti Irányító Hatóság tájékoztatja a pályázati felhívás közzététele előtt legalább 10 munkanappal a svájci hatóságokat a közzététel napjáról és megküldi a végleges pályázati felhívást.
 
@@ -48,4 +48,4 @@
 
 (7) A pályázatot angol nyelven kell benyújtani.
 
-[^136]: A 18. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^142]: A 18. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.

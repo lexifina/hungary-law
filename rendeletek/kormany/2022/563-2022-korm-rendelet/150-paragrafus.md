@@ -1,3 +1,3 @@
-150. §[^274]
+150. §[^305]
 
-[^274]: A 150. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 16. pontja hatályon kívül helyezte.
+[^305]: A 150. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 16. pontja hatályon kívül helyezte.

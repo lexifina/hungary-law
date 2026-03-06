@@ -1,4 +1,4 @@
-172. §[^320] (1) A 168. § (3) bekezdésében foglalt feltételeket nem teljesítő kis- és középvállalkozások részére a (2)–(4) bekezdés szerinti feltételekkel nyújtható kockázatfinanszírozási célú befektetés, amennyiben a 168–171. §-ban foglalt feltételek – a 168. § (3) bekezdése, a 169. § (2) és (6) bekezdése, a 170. § (7) bekezdése, illetve a 170. § (10) bekezdése kivételével – teljesülnek.
+172. §[^355] (1) A 168. § (3) bekezdésében foglalt feltételeket nem teljesítő kis- és középvállalkozások részére a (2)–(4) bekezdés szerinti feltételekkel nyújtható kockázatfinanszírozási célú befektetés, amennyiben a 168–171. §-ban foglalt feltételek – a 168. § (3) bekezdése, a 169. § (2) és (6) bekezdése, a 170. § (7) bekezdése, illetve a 170. § (10) bekezdése kivételével – teljesülnek.
 
 (2) Az (1) bekezdés szerinti kkv-k szintjén a kockázatfinanszírozási célú befektetésnek teljesítenie kell az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló (EU) 2023/2831 bizottsági rendeletben, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 1408/2013/EU bizottsági rendeletben vagy az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 717/2014/EU bizottsági rendeletben foglalt feltételeket.
 
@@ -18,4 +18,4 @@ e) az (EU) 2021/1060 rendelet vagy az (EU) 2021/2115 európai parlamenti és tan
 
 vonatkozásában 30%-ra csökken.
 
-[^320]: A 172. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^355]: A 172. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.

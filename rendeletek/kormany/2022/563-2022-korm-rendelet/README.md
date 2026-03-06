@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-563-20-
 | 2023-07-28 | 2022-563-20-22.2 | 346/2023. (VII. 27.) Korm. rendelet |
 | 2024-03-05 | 2022-563-20-22.3 | 50/2024. (III. 4.) Korm. rendelet |
 | 2024-08-01 | 2022-563-20-22.4 | 218/2024. (VII. 31.) Korm. rendelet |
+| 2026-03-06 | 2022-563-20-22.5 | 42/2026. (III. 5.) Korm. rendelet |

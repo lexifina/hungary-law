@@ -1,4 +1,4 @@
-## 61/A.[^269] Elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
+## 61/A.[^296] Elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
 
 146/A. § (1) Az elektromos- vagy hidrogéntöltő infrastruktúrához beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) olyan infrastruktúra építéséhez, telepítéséhez, korszerűsítéséhez vagy bővítéséhez nyújtható, amely
 
@@ -14,4 +14,4 @@ lát el villamos energiával vagy hidrogénnel.
 
 (3) Nem nyújtható támogatás a kikötői elektromos- és hidrogéntöltő infrastruktúrára irányuló beruházásokhoz.
 
-[^269]: A 61/A. alcímet (146/A–146/E. §-t) az 50/2024. (III. 4.) Korm. rendelet 24. §-a iktatta be.
+[^296]: A 61/A. alcímet (146/A–146/E. §-t) az 50/2024. (III. 4.) Korm. rendelet 24. §-a iktatta be.

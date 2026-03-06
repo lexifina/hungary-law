@@ -1,4 +1,4 @@
-170. §[^318] (1) A pénzügyi közvetítőknek nyújtott, a 168. § (2) bekezdés a) pontja szerinti hozzájárulás
+170. §[^353] (1) A pénzügyi közvetítőknek nyújtott, a 168. § (2) bekezdés a) pontja szerinti hozzájárulás
 
 a) a támogatható vállalkozásokba közvetlenül vagy közvetetten befektetést szolgáló sajáttőke-befektetés, illetve kvázisajáttőke-befektetés vagy tőkejuttatás,
 
@@ -44,4 +44,4 @@ vonatkozásában a (7) bekezdés b) pontja esetében 20%-ra, a (7) bekezdés c) 
 
 (10) Amennyiben a befektetést a 168. § (3) bekezdésében és a 169. § (6) bekezdésében említettek szerint különböző fejlődési szakaszokban tartó támogatható vállalkozásoknak pénzügyi közvetítőn keresztül nyújtják, a pénzügyi közvetítőnek olyan magánbefektetői részvételi arányt kell elérnie, amely legalább az alapul szolgáló portfólióban lévő egyes befektetések volumenén alapuló súlyozott átlagnak felel meg, és a minimális részvételi arányoknak a (7) és (9) bekezdésben említett befektetésekre való alkalmazásából adódik, kivéve, ha a független magánbefektetők számára előírt részvétel a támogatható vállalkozások szintjén teljesül.
 
-[^318]: A 170. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^353]: A 170. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.

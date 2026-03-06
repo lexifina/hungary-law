@@ -1,4 +1,4 @@
-## 63/A.[^275] Épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 63/A.[^306] Épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 150/A. § (1) Az épület-energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) épületek energiahatékonyságát növelő beruházáshoz, felújításhoz nyújtható, ideértve az épületen belül található fűtő- vagy hűtőberendezések energiahatékonyságának javítását is.
 
@@ -42,4 +42,4 @@ c) új épületek esetén legalább 10%-os javulását eredményezi a közel nul
 
 (7) Az (5) bekezdés b) pontja alapján nyújtott támogatások összege nem haladhatja meg az Atr. 2. § 23. pontja szerinti támogatási program energiahatékonysági intézkedésekre vonatkozó költségvetésének 30%-át.
 
-[^275]: A 63/A. alcímet (150/A–150/C. §-t) az 50/2024. (III. 4.) Korm. rendelet 26. §-a iktatta be.
+[^306]: A 63/A. alcímet (150/A–150/C. §-t) az 50/2024. (III. 4.) Korm. rendelet 26. §-a iktatta be.

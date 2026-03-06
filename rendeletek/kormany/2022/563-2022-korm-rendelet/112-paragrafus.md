@@ -1,12 +1,12 @@
-112. § (1)[^156] Nem ítélhető meg támogatás
+112. § (1)[^179] Nem ítélhető meg támogatás
 
 a) – a 72. alcím szerinti támogatás kivételével – azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére kötelező, Magyarországnak címzett határozata alapján fennálló visszafizetési kötelezettségének,
 
 b) – a 72. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére.
 
-(2)[^157]
+(2)[^180]
 
-(3)[^158] Nem ítélhető meg támogatás
+(3)[^181] Nem ítélhető meg támogatás
 
 a) – az 52–53., 55., 58–60. és 74. alcím szerinti támogatás kivételével – amely az Atr. 2. § 6c. pontja szerinti halászati állami támogatásnak minősül,
 
@@ -28,6 +28,6 @@ g) – a 72. alcím szerinti támogatás kivételével – a versenyképtelen sz
 
 h) a 72. alcím szerinti támogatás kivételével – atomenergia-termeléshez.
 
-[^156]: A 112. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^157]: A 112. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § l) pontja hatályon kívül helyezte.
-[^158]: A 112. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^179]: A 112. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^180]: A 112. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § l) pontja hatályon kívül helyezte.
+[^181]: A 112. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

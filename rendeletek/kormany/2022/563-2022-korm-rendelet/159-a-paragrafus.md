@@ -1,4 +1,4 @@
-159/A. §[^295] (1) Nem nyújtható támogatás
+159/A. §[^326] (1) Nem nyújtható támogatás
 
 a) energiát termelő hulladékártalmatlanítási és hulladékhasznosítási műveletekhez,
 
@@ -16,4 +16,4 @@ e) ha az hulladék keletkezését vagy a fokozott erőforrás-felhasználást ö
 
 (2) Az (1) bekezdés c) pontjától eltérően a már elfogadott, de még nem hatályos uniós szabványoknak való megfelelés érdekében végrehajtott beruházás akkor támogatható, ha a beruházást a szabvány hatálybalépése előtt legalább 18 hónappal végrehajtották és befejezték.
 
-[^295]: A 159/A. §-t az 50/2024. (III. 4.) Korm. rendelet 30. §-a iktatta be.
+[^326]: A 159/A. §-t az 50/2024. (III. 4.) Korm. rendelet 30. §-a iktatta be.

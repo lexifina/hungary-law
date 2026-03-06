@@ -8,8 +8,10 @@ c) a karbantartásra megfelelő forrás elkülönítését.
 
 (2) Eltérő megállapodás hiányában a támogatási szerződés rendelkezik arról, hogy a fenntartási időszak alatt a megszerzett, épített, felújított vagy korszerűsített épületek elidegenítési, rendelkezési és terhelési tilalom alá esnek.
 
-(3) A támogatási intézkedés időtartama alatt a hozzájárulás keretében beszerzett vagyontárgyaknak korlátozások nélkül a támogatási intézkedés hatálya alatt állnak, és a svájci hatóságok előzetes írásbeli jóváhagyása nélkül nem használhatóak más célra.
+(3)[^176] A támogatási intézkedés időtartama alatt a hozzájárulás keretében beszerzett vagyontárgyak korlátozások nélkül a támogatási intézkedés hatálya alatt állnak, és a svájci hatóságok előzetes írásbeli jóváhagyása nélkül nem használhatóak más célra.
 
 (4) A hozzájárulásból finanszírozott vagyontárgyak tulajdonjogával és használatával kapcsolatos jogokat és kötelezettségeket a támogatási megállapodás rögzíti vagy a Nemzeti Irányító Hatóság és a svájci hatóságok döntenek ezekről a támogatási intézkedés befejezésének időpontjában. A kedvezményezett javasolhatja a vagyontárgyak tulajdonjogának harmadik félre történő átruházását. A Nemzeti Irányító Hatóságnak és a svájci hatóságoknak írásban kell jóváhagyniuk a tulajdonjogok átruházását. Annak a szervezetnek, amelyre a kedvezményezett átruházza a tulajdonjogot, kötelezettséget kell vállalnia az (1) bekezdésben meghatározott fenntartási kötelezettségek teljesítésére.
 
 (5) A hozzájárulás támogatásával végzett tevékenységek eredményeként keletkezett tulajdonjogot – az immateriális javak tulajdonjogát, kapcsolódó jogokat és jogosultságokat is ideértve – a támogatási megállapodás határozza meg.
+
+[^176]: A 102. § (3) bekezdése a 42/2026. (III. 5.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.

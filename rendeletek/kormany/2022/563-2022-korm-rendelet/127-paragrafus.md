@@ -1,6 +1,6 @@
 ## 52. Az induló vállalkozásnak nyújtott támogatás
 
-127. §[^217] (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában: kedvezményezett) részére nyújtható, amely
+127. §[^242] (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában: kedvezményezett) részére nyújtható, amely
 
 a) legfeljebb öt éve került bejegyzésre,
 
@@ -18,6 +18,7 @@ eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétő
 
 (2) Azon kedvezményezett esetében, amelyet nem kell bejegyezni, az (1) bekezdés a) pontja és az e) pont eb) alpontja szerinti ötéves támogathatósági időszak kezdete az az időpont, amikor a vállalkozás megkezdi gazdasági tevékenységét, vagy amikor gazdasági tevékenysége alapján adóztathatóvá válik, attól függően, hogy melyik a korábbi időpont.
 
-(3) Ezen alcím keretében támogatás pénzügyi közvetítőn keresztül nem nyújtható.
+(3)[^243] Ha a támogatás nyújtása pénzügyi közvetítőn keresztül történik, a pénzügyi közvetítő vonatkozásában a 171. §-ban előírt feltételeket kell alkalmazni.
 
-[^217]: A 127. § az 50/2024. (III. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^242]: A 127. § az 50/2024. (III. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^243]: A 127. § (3) bekezdése a 42/2026. (III. 5.) Korm. rendelet 11. §-ával megállapított szöveg.

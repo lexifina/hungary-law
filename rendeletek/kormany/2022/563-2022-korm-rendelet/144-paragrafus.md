@@ -1,6 +1,6 @@
-## 61.[^260] Dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás
+## 61.[^287] Dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás
 
-144. §[^261] (1) A dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás, beleértve az üvegházhatású gázok kibocsátásának csökkentését és megszüntetését célzó támogatást is (ezen alcím alkalmazásában a továbbiakban: támogatás), akkor nyújtható, ha az nem tartozik a 651/2014/EU bizottsági rendelet 36a–36b. és 38–48. cikke hatálya alá.
+144. §[^288] (1) A dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás, beleértve az üvegházhatású gázok kibocsátásának csökkentését és megszüntetését célzó támogatást is (ezen alcím alkalmazásában a továbbiakban: támogatás), akkor nyújtható, ha az nem tartozik a 651/2014/EU bizottsági rendelet 36a–36b. és 38–48. cikke hatálya alá.
 
 (2) Nem nyújtható támogatás a fosszilis üzemanyagot – a földgázt is beleértve – felhasználó berendezésekbe, gépekbe és ipari termelési létesítményekbe történő beruházásokra.
 
@@ -32,5 +32,5 @@ a) a szén-dioxid-leválasztás, illetve -szállítás – beleértve a teljes s
 
 b) a beruházás nettó jelenértéke a projekt teljes élettartama alatt negatív, amelynek kiszámítása során a szén-dioxid kibocsátás fel nem merült költségeit is figyelembe kell venni.
 
-[^260]: A 61. alcím címe az 50/2024. (III. 4.) Korm. rendelet 39. § 33. pontja szerint módosított szöveg.
-[^261]: A 144. § az 50/2024. (III. 4.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^287]: A 61. alcím címe az 50/2024. (III. 4.) Korm. rendelet 39. § 33. pontja szerint módosított szöveg.
+[^288]: A 144. § az 50/2024. (III. 4.) Korm. rendelet 22. §-ával megállapított szöveg.
