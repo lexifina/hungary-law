@@ -6,7 +6,7 @@
 
 (4) A fegyelmi tanács a következő határozatokat hozhatja:
 
-a)[^63] a fegyelmi eljárást a 113. § (2) bekezdésében foglalt esetekben megszünteti,
+a)[^65] a fegyelmi eljárást a 113. § (2) bekezdésében foglalt esetekben megszünteti,
 
 b) a fegyelmi felelősséget megállapítja, és fegyelmi büntetést szab ki.
 
@@ -20,4 +20,4 @@ a) az eljárás alá vont köznevelési foglalkoztatotti jogviszonyban állónak
 
 b) ha a fegyelmi eljárás a Kar kezdeményezésére indult, a Kar elnökének.
 
-[^63]: A 115. § (4) bekezdés a) pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^65]: A 115. § (4) bekezdés a) pontja a 201/2024. (VII. 29.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.

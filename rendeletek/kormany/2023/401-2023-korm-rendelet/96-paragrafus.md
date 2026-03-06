@@ -14,6 +14,9 @@ b) a munkába járás költségtérítése a munkába járással kapcsolatos uta
 
 c)[^61] a közforgalmú személyszállítási utazási kedvezmény a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerint
 
+d)[^62] az 51/A. alcím szerint kiegészítő juttatás
+
 illeti meg.
 
 [^61]: A 96. § (2) bekezdés c) pontja a 38/2024. (II. 29.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
+[^62]: A 96. § (2) bekezdés d) pontját a 36/2026. (III. 5.) Korm. rendelet 7. §-a iktatta be.

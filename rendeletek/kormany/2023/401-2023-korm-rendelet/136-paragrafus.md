@@ -1,5 +1,5 @@
 ## 60. Hatályon kívül helyező rendelkezések
 
-136. §[^72]
+136. §[^76]
 
-[^72]: A 136. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 136. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

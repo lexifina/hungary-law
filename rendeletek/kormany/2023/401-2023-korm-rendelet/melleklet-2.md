@@ -10,19 +10,19 @@
 
 | 4. | intézményegység-vezető | szervezeti és szakmai tekintetben önálló intézményegységenként | 1 |
 
-| 5. | igazgatóhelyettes[^73] | 50 gyermek-, tanulólétszám alatt | 0 |
+| 5. | igazgatóhelyettes[^77] | 50 gyermek-, tanulólétszám alatt | 0 |
 
-| 6. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^74] | 50–250 tanulólétszám esetén | 1 |
+| 6. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^78] | 50–250 tanulólétszám esetén | 1 |
 
-| 7. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^75] | 251–750 tanulólétszám esetén | 2 |
+| 7. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^79] | 251–750 tanulólétszám esetén | 2 |
 
-| 8. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^76] | 750-nél több tanulólétszám esetén | 3 |
+| 8. | igazgatóhelyettes óvoda kivételével nevelési-oktatási intézményben[^80] | 750-nél több tanulólétszám esetén | 3 |
 
-| 9. | igazgatóhelyettes óvodában[^77] | 50–200 gyermeklétszám esetén | 1 |
+| 9. | igazgatóhelyettes óvodában[^81] | 50–200 gyermeklétszám esetén | 1 |
 
-| 10. | igazgatóhelyettes óvodában[^78] | 201–500 gyermeklétszám esetén | 2 |
+| 10. | igazgatóhelyettes óvodában[^82] | 201–500 gyermeklétszám esetén | 2 |
 
-| 11. | igazgatóhelyettes óvodában[^79] | 500-nál több gyermeklétszám esetén | 3 |
+| 11. | igazgatóhelyettes óvodában[^83] | 500-nál több gyermeklétszám esetén | 3 |
 
 | 12. | tagintézmény-, intézmény-egységvezető-helyettes óvoda kivételével nevelési-oktatási intézményben | intézményegységenként, tagintézményenként 250 tanulólétszám alatt | 0 |
 
@@ -106,10 +106,10 @@
 
 A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak végzettségi és szakképzettségi követelményei
 
-[^73]: Az 1. mellékletben foglalt táblázat A:5 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^74]: Az 1. mellékletben foglalt táblázat A:6 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^75]: Az 1. mellékletben foglalt táblázat A:7 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^76]: Az 1. mellékletben foglalt táblázat A:8 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^77]: Az 1. mellékletben foglalt táblázat A:9 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^78]: Az 1. mellékletben foglalt táblázat A:10 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^79]: Az 1. mellékletben foglalt táblázat A:11 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^77]: Az 1. mellékletben foglalt táblázat A:5 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^78]: Az 1. mellékletben foglalt táblázat A:6 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^79]: Az 1. mellékletben foglalt táblázat A:7 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^80]: Az 1. mellékletben foglalt táblázat A:8 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^81]: Az 1. mellékletben foglalt táblázat A:9 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^82]: Az 1. mellékletben foglalt táblázat A:10 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^83]: Az 1. mellékletben foglalt táblázat A:11 mezője a 454/2025. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
