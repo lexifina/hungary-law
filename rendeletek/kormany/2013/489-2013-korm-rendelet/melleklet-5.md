@@ -90,8 +90,8 @@
 
 | 45. | 9. melléklet 5.1. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 1 083 000 forint/Gyerekház |
 
-5. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^107]
+5. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^108]
 
 A 2023. évi bérkompenzáció fajlagos összegei
 
-[^107]: Az 5. mellékletet a 74/2023. (III. 10.) Korm. rendelet 2. §-a iktatta be.
+[^108]: Az 5. mellékletet a 74/2023. (III. 10.) Korm. rendelet 2. §-a iktatta be.

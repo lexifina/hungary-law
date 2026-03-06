@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2025-11-01 | 2013-489-20-22.39 | 330/2025. (X. 30.) Korm. rendelet |
 | 2026-01-01 | 2013-489-20-22.38 | 427/2025. (XII. 23.) Korm. rendelet |
 | 2026-02-20 | 2013-489-20-22.40 | 27/2026. (II. 19.) Korm. rendelet |
+| 2026-03-06 | 2013-489-20-22.41 | 36/2026. (III. 5.) Korm. rendelet |

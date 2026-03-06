@@ -22,7 +22,7 @@
 
 | 11. | 10 gyermek | 14 882 375 |
 
-7. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^115]
+7. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^116]
 
 A 2026. évi minimálbér és garantált bérminimum emeléssel, továbbá az egyéb bérintézkedéssel összefüggő kiegészítő támogatás fajlagos összegei
 
@@ -106,4 +106,4 @@ A 2026. évi minimálbér és garantált bérminimum emeléssel, továbbá az eg
 
 | 39 | 8. melléklet 5. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 906 000 forint/Gyerekház |
 
-[^115]: A 7. mellékletet a 27/2026. (II. 19.) Korm. rendelet 4. §-a iktatta be.
+[^116]: A 7. mellékletet a 27/2026. (II. 19.) Korm. rendelet 4. §-a iktatta be.
