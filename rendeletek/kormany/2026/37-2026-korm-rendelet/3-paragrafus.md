@@ -1,0 +1,1 @@
+3. § A bérgarancia-támogatás 2. § szerinti igénylésére az állami felszámoló abban az esetben is jogosult, ha az adós felszámolását a bíróság elrendelte, és az adós vagyonában az adós a Btv. 1. § (2) bekezdés d) pont da) alpontja szerinti munkavállalói bértartozásának fedezete nem áll rendelkezésre.
