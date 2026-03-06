@@ -1,4 +1,4 @@
-28/C. §[^19] (1) A 28. § (1) bekezdés c) pontja szerinti támogatást az 5. mellékletben meghatározottak szerint kell felosztani.
+28/C. §[^25] (1) A 28. § (1) bekezdés c) pontja szerinti támogatást az 5. mellékletben meghatározottak szerint kell felosztani.
 
 (2) A 28. § (1) bekezdés c) pontja szerinti támogatást negyedévente négy egyenlő részletben, minden negyedév második hónapjának 15-éig, az első negyedévben legkésőbb március 31-éig támogatási előlegként kell kifizetni.
 
@@ -16,4 +16,4 @@ c) a 28. § (1) bekezdés c) pont cc) alpontja szerinti támogatásra vonatkozó
 
 szerinti adattartalommal elkészített beszámolóval számol el.
 
-[^19]: A 28/C. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 28/C. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.

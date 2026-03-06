@@ -1,4 +1,4 @@
-28/D. §[^20] (1) A 28. § (1) bekezdés d) pontja szerinti támogatást – a tárgyév február 28-áig benyújtott kérelem alapján – a támogatás éve június 30-áig támogatási előlegként kell kifizetni.
+28/D. §[^26] (1) A 28. § (1) bekezdés d) pontja szerinti támogatást – a tárgyév február 28-áig benyújtott kérelem alapján – a támogatás éve június 30-áig támogatási előlegként kell kifizetni.
 
 (2) A 28. § (1) bekezdés d) pontja szerinti támogatást a külhoni egyházi jogi személy vagy egyházi szervezet, illetve a bevett egyház vagy annak belső egyházi jogi személye (1) bekezdés szerinti kérelme alapján egyedi döntés alapján kell biztosítani.
 
@@ -20,4 +20,4 @@ szerinti adattartalommal elkészített beszámolójával számol el.
 
 (5) A beszámolóban foglaltak alátámasztására a támogató mintavételszerűen a támogatásban részesülő egyházi személyek részére történő kifizetésekhez kapcsolódó dokumentumok benyújtását is előírhatja.
 
-[^20]: A 28/D. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 28/D. §-t az 516/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
