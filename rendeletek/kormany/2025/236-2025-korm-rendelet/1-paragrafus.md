@@ -2,11 +2,11 @@
 
 ## [2] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 6. pontjában és a földgázellátásról szóló 2008. évi XL. törvény 132. § 13. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1)[^1] A Kormány a rezsivédelmi szolgáltatás biztosítása céljából a 2026. december 31. napjáig terjedő időszakra
+1. § (1)[^1] A Kormány a rezsivédelmi szolgáltatás biztosítása céljából
 
-a) az egyetemes földgázszolgáltatásban a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaságot (a továbbiakban: földgázszolgáltató),
+a) a 2027. szeptember 30. napjáig terjedő időszakra az egyetemes földgázszolgáltatásban a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaságot (a továbbiakban: földgázszolgáltató),
 
-b) az egyetemes villamosenergia-szolgáltatásban az ország teljes területére hatályos engedéllyel rendelkező egyetemes villamosenergia-szolgáltatót (a továbbiakban: villamosenergia-szolgáltató)
+b) a 2027. december 31. napjáig terjedő időszakra az egyetemes villamosenergia-szolgáltatásban az ország teljes területére hatályos engedéllyel rendelkező egyetemes villamosenergia-szolgáltatót (a továbbiakban: villamosenergia-szolgáltató)
 
 jelöli ki.
 
@@ -22,4 +22,4 @@ c) az ellentételezés kifizetésének részletes szabályait.
 
 (4) A rezsivédelmi szerződést a felek minden év szeptember 30. napjáig felülvizsgálják, és annak módosítása esetén a módosított rezsivédelmi szerződést a villamosenergia-szolgáltató, valamint a földgázszolgáltató tájékoztatás céljából október 1. napjáig megküldi a Hivatal részére.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 328/2025. (X. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 44/2026. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
