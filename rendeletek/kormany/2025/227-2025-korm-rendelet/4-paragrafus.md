@@ -30,23 +30,33 @@ b) egyszerű bejelentéssel épülő új otthon építéséhez,
 
 ba) a 2024. október 1-je előtt tett egyszerű bejelentés esetén az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszer által előállított igazoló dokumentum,
 
-bb) a 2024. október 30-át követően tett egyszerű bejelentés esetén az egyszerű bejelentés tudomásulvételéről szóló értesítés
+bb)[^13] a 2024. szeptember 30-át követően tett egyszerű bejelentés esetén az egyszerű bejelentés tudomásulvételéről szóló értesítés
 
 birtokában, azzal, hogy e rendelet alkalmazásában a b) pont szerinti dokumentumok is építési engedélynek tekintendőek.
 
-(7a)[^13] A kölcsön olyan új otthon vásárlásához vehető igénybe, amelyet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet vagy befektetési alap (a továbbiakban együtt: gazdálkodó szervezet) természetes személy részére való értékesítés céljára épít vagy építtet, és amelyet első ízben, természetes személy részére értékesítenek.
+(7a)[^14] A kölcsön olyan új otthon vásárlásához vehető igénybe, amelyet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet vagy befektetési alap (a továbbiakban együtt: gazdálkodó szervezet) természetes személy részére való értékesítés céljára épít vagy építtet, és amelyet első ízben, természetes személy részére értékesítenek.
 
-(8)[^14] A kölcsön abban az esetben igényelhető, ha az otthon – az ingatlan-értékbecslési szakvélemény alapján – a lakhatási igények kielégítésére alkalmas. E követelményt a hitelintézet helyszíni szemle keretében, szemrevételezéssel vizsgálja. Ha a helyszíni szemle során a hitelintézet megállapítja, hogy az otthon a lakhatási igények kielégítésére nem alkalmas, az igénylő a hitelintézet részére építésügyi műszaki szakértői szakvéleménnyel igazolhatja az otthon lakhatási igények kielégítésére való alkalmasságát. A lakhatási igények kielégítésére való alkalmasságot igazoló építésügyi műszaki szakértői szakvélemény megléte esetén a lakhatási igények kielégítésére való alkalmatlanságra hivatkozással a hitelintézet nem utasíthatja el a kölcsönkérelmet.
+(8)[^15] A kölcsön abban az esetben igényelhető, ha az otthon – az ingatlan-értékbecslési szakvélemény alapján – a lakhatási igények kielégítésére alkalmas. E követelményt a hitelintézet a kölcsönkérelem elbírálása során – vagy a (9) bekezdés és a 19. § (2) bekezdése esetén az ezen bekezdésekben megjelölt időpontban – helyszíni szemle keretében, szemrevételezéssel vizsgálja. Ha a helyszíni szemle során a hitelintézet megállapítja, hogy az otthon a lakhatási igények kielégítésére nem alkalmas, az igénylő a hitelintézet részére építésügyi műszaki szakértői szakvéleménnyel igazolhatja az otthon lakhatási igények kielégítésére való alkalmasságát. A lakhatási igények kielégítésére való alkalmasságot igazoló építésügyi műszaki szakértői szakvélemény megléte esetén a lakhatási igények kielégítésére való alkalmatlanságra hivatkozással a hitelintézet nem utasíthatja el a kölcsönkérelmet.
 
-(9)[^15] Új építésű otthon vásárlása esetén az otthon lakhatási igények kielégítésére alkalmas állapotát ingatlan-értékbecslési szakvélemény alapján – a (13) bekezdésben foglaltak figyelembevételével – a hitelintézet a kölcsön folyósítását megelőzően ellenőrzi.
+(9)[^16] Új építésű otthon vásárlása esetén a hitelintézet az otthon lakhatási igények kielégítésére alkalmas állapotát ingatlan-értékbecslési szakvélemény alapján – a (9a) bekezdésben foglaltak figyelembevételével –
+
+a) a 19. § (1) bekezdés a) pontja szerinti esetben a kölcsön folyósítását megelőzően,
+
+b) a 19. § (1) bekezdés b) pont ba) alpontja szerinti esetben a kölcsön utolsó részletének folyósítását megelőzően,
+
+c) a 19. § (1) bekezdés b) pont bb) alpontja szerinti esetben a használatbavételi engedély benyújtását követően
+
+ellenőrzi.
+
+(9a)[^17] A (8) bekezdés szerinti ingatlan-értékbecslési szakvélemény akkor fogadható el, ha a kölcsönkérelem benyújtását megelőző 90. napnál nem régebben készült, ide nem értve a (9) bekezdésben foglalt eseteket, amelyeknél kizárólag a kölcsönkérelem benyújtását követően, a (9) bekezdés szerinti időpontban készült ingatlan-értékbecslési szakvélemény fogadható el.
 
 (10) A kölcsön hitelcélja nem lehet olyan otthonban való tulajdonszerzés, amelyet haszonélvezet terhel.
 
 (11) A kölcsön hitelcélja nem lehet lakóingatlan résztulajdonának megszerzése.
 
-(11a)[^16] A (11) bekezdés nem alkalmazandó házastársak közös igénylése esetén akkor, ha az adásvétel vagy építés eredményeként, valamint a (11b) bekezdés b) pontjának értelmében a házastársak együtt kizárólagos tulajdonosai lesznek az otthonnak.
+(11a)[^18] A (11) bekezdés nem alkalmazandó házastársak közös igénylése esetén akkor, ha az adásvétel vagy építés eredményeként, valamint a (11b) bekezdés b) pontjának értelmében a házastársak együtt kizárólagos tulajdonosai lesznek az otthonnak.
 
-(11b)[^17] A (11) bekezdés alkalmazásában nem minősül résztulajdon megszerzésének, ha
+(11b)[^19] A (11) bekezdés alkalmazásában nem minősül résztulajdon megszerzésének, ha
 
 a) az igénylő a több önálló otthonból álló, osztatlan közös tulajdonú ingatlan esetén a hitelcél szerinti otthont jelentő ingatlanban való tulajdonszerzéssel az ingatlanrész kizárólagos használatára jogosulttá válik, vagy
 
@@ -54,11 +64,11 @@ b) az igénylő egy lakóingatlanban öröklés útján már tulajdoni hányadda
 
 (12) A kölcsön igénybevételének feltétele, hogy az eladó vagy az építési tevékenységet végző az igénylőnek nem közeli hozzátartozója vagy élettársa, valamint ha az eladó vagy az építési munkálatokat végző gazdálkodó szervezet, abban az igénylő nem rendelkezik tagsággal vagy részesedéssel, továbbá a gazdálkodó szervezet tulajdonosa az igénylőnek nem közeli hozzátartozója vagy élettársa.
 
-(13) Az e § szerinti ingatlan-értékbecslési szakvélemény nem lehet régebbi a kölcsönkérelem benyújtását megelőző 90 napnál.
+(13)[^20]
 
-(14)[^18] A (3) bekezdés b) pontjában meghatározott esetben az igénylő köteles a bontás tényét az építésügyi hatóság által kiállított, a lakóépület elbontásáról szóló hatósági bizonyítvánnyal igazolni.
+(14)[^21] A (3) bekezdés b) pontjában meghatározott esetben az igénylő köteles a bontás tényét az építésügyi hatóság által kiállított, a lakóépület elbontásáról szóló hatósági bizonyítvánnyal igazolni.
 
-(15)[^19] A (3) és (4) bekezdésben foglaltakról az igénylő a társadalompolitika összehangolásáért felelős miniszter által a Kormány honlapján közzétett nyilatkozatminta szerint nyilatkozik.
+(15)[^22] A (3) és (4) bekezdésben foglaltakról az igénylő a társadalompolitika összehangolásáért felelős miniszter által a Kormány honlapján közzétett nyilatkozatminta szerint nyilatkozik.
 
 [^6]: A 4. § (3) bekezdés a) pontja a 332/2025. (X. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^7]: A 4. § (3) bekezdés b) pontja a 332/2025. (X. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
@@ -67,10 +77,13 @@ b) az igénylő egy lakóingatlanban öröklés útján már tulajdoni hányadda
 [^10]: A 4. § (5) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 349/2025. (XI. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (5a) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 349/2025. (XI. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § (7) bekezdése a 332/2025. (X. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^13]: A 4. § (7a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^14]: A 4. § (8) bekezdése a 332/2025. (X. 30.) Korm. rendelet 14. § a) pontja, a 332/2025. (X. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^15]: A 4. § (9) bekezdése a 332/2025. (X. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^16]: A 4. § (11a) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 349/2025. (XI. 12.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^17]: A 4. § (11b) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 349/2025. (XI. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^18]: A 4. § (14) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (4) bekezdése iktatta be.
-[^19]: A 4. § (15) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^13]: A 4. § (7) bekezdés b) pont bb) alpontja a 40/2026. (III. 5.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (7a) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^15]: A 4. § (8) bekezdése a 332/2025. (X. 30.) Korm. rendelet 14. § a) és b) pontja, a 40/2026. (III. 5.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § (9) bekezdése a 40/2026. (III. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^17]: A 4. § (9a) bekezdését a 40/2026. (III. 5.) Korm. rendelet 11. §-a iktatta be.
+[^18]: A 4. § (11a) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 349/2025. (XI. 12.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^19]: A 4. § (11b) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 349/2025. (XI. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^20]: A 4. § (13) bekezdését a 40/2026. (III. 5.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^21]: A 4. § (14) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^22]: A 4. § (15) bekezdését a 332/2025. (X. 30.) Korm. rendelet 9. § (4) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-22. § (1)[^35] Ha az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kölcsön igénybevételével érintett
+22. § (1)[^56] Ha az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kölcsön igénybevételével érintett
 
 a) otthont lebontják – kivéve, ha a bontás természeti katasztrófa miatt vált szükségessé – vagy elidegenítik,
 
@@ -16,4 +16,4 @@ a kamattámogatás az a)–c) pont szerinti esetek bekövetkezésének napjátó
 
 (4) A (3) bekezdés szerinti visszafizetés megtörténte esetén a kormányhivatal intézkedik az igénybe vett kamattámogatás összege visszafizetését biztosító jelzálogjog, valamint elidegenítési és terhelési tilalom törlése iránt, továbbá a visszafizetési kötelezettség alá nem eső kamattámogatás összegének megfelelő, az államot megillető jelzálogjog, illetve az azt biztosító elidegenítési és terhelési tilalom a kölcsönnel érintett ingatlanra történő bejegyeztetése iránt.
 
-[^35]: A 22. § (1) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^56]: A 22. § (1) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.

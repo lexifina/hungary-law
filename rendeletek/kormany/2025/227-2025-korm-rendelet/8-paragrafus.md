@@ -4,7 +4,7 @@ a) az igénylő büntetlen előéletű;
 
 b) az igénylőknek nincs az állami adóhatóságnál nyilvántartott, az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdése szerinti összeget meghaladó köztartozása, és a köztartozás-mentességről vagy a fennálló köztartozása e pont szerinti mértéket meg nem haladó összege tényéről – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adatbázisban – büntetőjogi felelőssége tudatában teljes bizonyító erejű magánokiratban nyilatkozik; ha a nyilatkozattól eltérően a hitelintézet megállapítja, hogy az igénylőnek van a kérelem benyújtása és elbírálása napján is fennálló, az e pont szerinti mértéket meghaladó köztartozása, akkor a kérelem hiánypótlása keretében 14 napos határidő tűzésével – amely a 14. § (3) bekezdése szerinti elbírálási határidőbe nem számít be – hiánypótlás keretében felhívja az igénylőt arra, hogy köztartozását a felhívás kézhezvételétől számított 14 napon belül fizesse meg, és annak igazolását követően válhat a kölcsönre jogosulttá, azonban ha az időszak eredménytelenül telik el, akkor a kérelmet a hitelintézet elutasítja;
 
-c)[^21] az igénylő 30 napnál nem régebbi okirattal igazolja, hogy a kölcsön iránti kérelem benyújtásának időpontjában a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) vagy d)–k) pontja szerint biztosított – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt – a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, a 7. § a) pontja szerinti igénylőként Magyarországon valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet számára – vagy az Európai Unió intézménye számára az Európai Gazdasági Térségről szóló megállapodásban részes állam területén – folytatott keresőtevékenysége alapján e másik állam vagy a nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozik, vagy a nemzeti köznevelésről szóló törvény hatálya alá tartozó középfokú nevelési-oktatási intézményben, a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben vagy a szakképzésről szóló törvény hatálya alá tartozó szakképző intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és legalább 2 éve folyamatosan
+c)[^24] az igénylő 30 napnál nem régebbi okirattal igazolja, hogy a kölcsön iránti kérelem benyújtásának időpontjában a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) vagy d)–k) pontja szerint biztosított – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt – a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, a 7. § a) pontja szerinti igénylőként Magyarországon valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet számára – vagy az Európai Unió intézménye számára az Európai Gazdasági Térségről szóló megállapodásban részes állam területén – folytatott keresőtevékenysége alapján e másik állam vagy a nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozik, vagy a nemzeti köznevelésről szóló törvény hatálya alá tartozó középfokú nevelési-oktatási intézményben, a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben vagy a szakképzésről szóló törvény hatálya alá tartozó szakképző intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és legalább 2 éve folyamatosan
 
 ca) a Tbj. 6. §-a alapján biztosított,
 
@@ -22,7 +22,7 @@ azzal, hogy a kétéves jogosultsági időszak számítása során a különböz
 
 a) benyújtja
 
-aa) az ingatlan-nyilvántartási hatóság által érkeztetett adásvételi szerződést, vagy
+aa)[^25] az ingatlan-nyilvántartási hatósághoz benyújtott adásvételi szerződést és a széljegyzett tulajdonjog- vagy vevői jog bejegyzési kérelem vagy a bejegyzett társasházi építményi jog bejegyzésére irányuló ingatlan-nyilvántartási kérelem és mellékletei másolatát – a másolatoknak a benyújtott eredeti változatokkal való azonosságáról szóló igénylői nyilatkozattal együtt – vagy
 
 ab) az építési engedélyt és
 
@@ -50,27 +50,29 @@ cb) arról, hogy az eladó vagy az építési tevékenységet végző az igényl
 
 cc) arról, hogy a több önálló otthonból álló, osztatlan közös tulajdon esetén a kölcsönnel érintett otthonra vonatkozóan a támogatott személynek kizárólagos használati joga áll fenn,
 
-cd)[^22] a 4. § (3) és (4) bekezdésében foglaltakról a kormányzati portálról letölthető nyilatkozat szerinti tartalommal –, hogy, amelyet a hitelintézet saját költségén ellenőrizhet, és ehhez az igénylő hozzájárul;
+cd)[^26] a 4. § (3) és (4) bekezdésében foglaltakról a kormányzati portálról letölthető nyilatkozat szerinti tartalommal –, hogy, amelyet a hitelintézet saját költségén ellenőrizhet, és ehhez az igénylő hozzájárul;
 
 d) hozzájárul a központi hitelinformációs rendszerben szereplő adatainak a hitelintézet általi lekérdezéséhez;
 
 e) vállalja, hogy
 
-ea) otthon vásárlása esetén a vételárat, otthoncsere esetén a vételár-különbözetet választása szerint készpénzben is teljesítheti, azzal, hogy a kölcsönt képező vételárrészletet a támogatott személy helyett a hitelintézet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és az alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett kölcsöntartozást nyilvántartó technikai számlára teljesíti,
+ea)[^27] otthon vásárlása esetén – az ef) alpont szerinti eset kivételével – a vételárat, otthoncsere esetén a vételár-különbözetet választása szerint készpénzben is teljesítheti, azzal, hogy a kölcsönt képező vételárrészletet a támogatott személy helyett a hitelintézet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és az alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett kölcsöntartozást nyilvántartó technikai számlára teljesíti,
 
-eb) új otthon vásárlása esetén legkésőbb a kölcsön folyósításáig az adásvételi szerződésben szereplő, telekárat is tartalmazó vételárról az igénylő nevére szóló, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított számlákat, egyszerűsített számlákat (a továbbiakban együtt: számla) a hitelintézet részére bemutatja,
+eb)[^28] új otthon vásárlása esetén legkésőbb a kölcsön – vagy a 19. § (1) bekezdés b) pontja szerinti részfolyósítás esetén az adott részlet – folyósításáig az adásvételi szerződésben szereplő, telekárat is tartalmazó vételárról az igénylő nevére szóló, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított számlákat, egyszerűsített számlákat (a továbbiakban együtt: számla) – továbbá a 19. § (1) bekezdés b) pontja szerinti részfolyósítás esetén az adott részletre vonatkozó előlegszámlát annak folyósítását követően, de legkésőbb a következő részlet folyósításáig – a hitelintézet részére bemutatja,
 
 ec) otthon építése esetén a készültségi fokkal arányos folyósítást megelőzően a hitelintézet részére bemutatja az adott készültségi foknak megfelelő, a hitelintézet által elfogadott költségvetésben szereplő bekerülési költség legalább 70 százalékáról az igénylő személy nevére kiállított számlákat,
 
 ed) otthon építése esetén az igénylő a használatbavételi engedéllyel még nem rendelkező otthon tulajdonjogának a használatbavételi engedély megszerzése előtt történő átruházása kapcsán a készültségi fokkal arányos folyósítást megelőzően a hitelintézet részére bemutatja a szerződéssel, bírósági, illetve hatósági határozattal, árverési jegyzőkönyvvel vagy számlával igazolt vagy ennek hiányában a hitelintézet által megállapított telekárral csökkentett ellenérték 70 százaléka erejéig az előző építtető nevére vagy – amennyiben az előző építtető gazdálkodó szervezet – a gazdálkodó szervezet által a teljes vételárról kiállított számlákat,
 
-ee) építés esetén az új otthonra vonatkozó használatbavételi engedélyt az utolsó kölcsönrész folyósításáig bemutatja a hitelintézet részére;
+ee)[^29] építés, valamint a 19. § (1) bekezdés b) pont ba) alpontja szerinti új otthon vásárlása esetén az új otthonra vonatkozó használatbavételi engedélyt az utolsó kölcsönrész folyósításáig bemutatja a hitelintézet részére;
+
+ef)[^30] az ea) alponttól eltérően a 19. § (1) bekezdés b) pont ba) alpontja szerinti otthon vásárlása esetén a vételárat – valamint annak a kölcsönt képező részét is a támogatott személy helyett a hitelintézet – az eladó által megjelölt, a kölcsönnel érintett lakást magában foglaló épület építéséhez felvett 19. § (1) bekezdés b) pont ba) alpontja szerinti bankkölcsönhöz (a továbbiakban: projekthitel) kapcsolódó, pénzügyi intézmény által vezetett, óvadéki célú, a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és az alkalmazási körébe tartozó számlára teljesíti;
 
 f) nyilatkozik annak tudomásulvételéről, hogy
 
 fa) a hitelintézet kizárólag olyan számlát fogad el, amelynek kibocsátója a számlabenyújtás időpontjában az állami adóhatóság nyilvántartásában működő adóalanyként szerepel, vagy ennek hiányában az állami adóhatóság a működő adóalanyiságot a számlakibocsátó tekintetében a számlakiállítás időpontjára vonatkozóan igazolja,
 
-fb)[^23] a kölcsönkérelem benyújtásának időpontjában építési engedéllyel rendelkező, de használatbavételi engedéllyel még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új otthon vásárlása esetében a kölcsön teljes összege a használatbavételi engedély bemutatását megelőzően is folyósítható, azzal, hogy ebben az esetben a kamattámogatási időszak a vásárolt új otthon használatbavételi engedélyének hitelintézet részére való bemutatását követő napon kezdődik;
+fb)[^31] a kölcsönkérelem benyújtásának időpontjában építési engedéllyel rendelkező, de használatbavételi engedéllyel még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új otthon vásárlása esetében a kölcsön teljes összege a használatbavételi engedély bemutatását megelőzően is folyósítható, azzal, hogy a 19. § (1) bekezdés b) pont bb) alpontja szerinti esetben a kamattámogatási időszak a vásárolt új otthon használatbavételi engedélyének hitelintézet részére való bemutatását követő napon kezdődik, ha – a 4. § (8)–(9a) bekezdése alkalmazásával – az otthon a műszaki állapotára tekintettel a lakhatási igények kielégítésére alkalmas;
 
 g) hozzájárul ahhoz, hogy az állami adóhatóság, a kormányhivatal és a hitelintézet a dokumentumok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a hitelprogram elemei igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – az otthonban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a kormányhivatal hatáskörébe tartozik, a kormányhivatalt hivatalból értesítse, és
 
@@ -102,9 +104,14 @@ cb) vásárlásánál a lakóépületre jutó vételárhányadot.
 
 (7) Az (1) bekezdés c) pontjától eltérően a kölcsön igénylésére jogosult az a személy is, aki az az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efotv.) alapján egyszerűsített módon létesíthető munkaviszonyban munkát végez, és 30 napnál nem régebbi okirattal igazolja, hogy a kölcsön iránti kérelem benyújtásának időpontját megelőző 2 éven belül legalább 200 nap Efotv. szerinti biztosítotti jogviszonnyal rendelkezik.
 
-(8)[^24] Az (1) bekezdés c) pontjában foglaltakat nem kell alkalmazni, ha az igénylő a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül, vagy ha a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 5. § (1) bekezdés 11. pontja szerinti megváltozott munkaképességű személynek minősül.
+(8)[^32] Az (1) bekezdés c) pontjában foglaltakat nem kell alkalmazni, ha az igénylő a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül, vagy ha a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 5. § (1) bekezdés 11. pontja szerinti megváltozott munkaképességű személynek minősül.
 
-[^21]: A 8. § (1) bekezdés c) pontja a 332/2025. (X. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^22]: A 8. § (2) bekezdés c) pont cd) alpontja a 332/2025. (X. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
-[^23]: A 8. § (2) bekezdés f) pont fb) alpontja a 332/2025. (X. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^24]: A 8. § (8) bekezdését a 332/2025. (X. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^24]: A 8. § (1) bekezdés c) pontja a 332/2025. (X. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^25]: A 8. § (2) bekezdés a) pont aa) alpontja a 40/2026. (III. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^26]: A 8. § (2) bekezdés c) pont cd) alpontja a 332/2025. (X. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^27]: A 8. § (2) bekezdés e) pont ea) alpontja a 40/2026. (III. 5.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^28]: A 8. § (2) bekezdés e) pont eb) alpontja a 40/2026. (III. 5.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^29]: A 8. § (2) bekezdés e) pont ee) alpontja a 40/2026. (III. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^30]: A 8. § (2) bekezdés e) pont ef) alpontját a 40/2026. (III. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^31]: A 8. § (2) bekezdés f) pont fb) alpontja a 40/2026. (III. 5.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^32]: A 8. § (8) bekezdését a 332/2025. (X. 30.) Korm. rendelet 10. § (3) bekezdése iktatta be.

@@ -25,3 +25,7 @@ feltünteti, hogy a hirdetés vagy reklám tárgyát képező otthon megfelel az
 (9) A kölcsönre vonatkozó, (7) bekezdés szerinti reklámok, hirdetések részletes szabályait, valamint a (8) bekezdés szerinti arculati logóra vonatkozó részletszabályokat az általános politikai koordinációért felelős miniszter állapítja meg.
 
 (10) A (8) bekezdés szerinti online platform szolgáltató, valamint gazdálkodó szervezet nem felel azokért a károkért, amelyek abból erednek, hogy az eladó valótlan tájékoztatása folytán a reklám vagy hirdetés szerinti otthon nem felel meg az e rendeletben megjelölt, az otthonra vonatkozó peremfeltételeknek.
+
+(11)[^39] A hitelintézet a jogosultsági feltételek fennállásának vizsgálata érdekében az e rendelet szerinti kölcsön és kamattámogatás korábbi igénybevételét a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján vizsgálja.
+
+[^39]: A 12. § (11) bekezdését a 40/2026. (III. 5.) Korm. rendelet 14. §-a iktatta be.
