@@ -8,7 +8,7 @@
 
 (4) A kérelem benyújtásakor csatolni kell a sportakadémia képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát, az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát.
 
-(5)[^1] A sportakadémia előfinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
+(5)[^2] A sportakadémia előfinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
 
 a) 4. § (2) bekezdés b)–f) pontjában foglaltaknak megfelel,
 
@@ -18,7 +18,7 @@ c) 4. § (2) bekezdés b)–f) pontjában előírt kötelezettségeket teljesít
 
 azzal, hogy a szükséges dokumentumok meglétét a jóváhagyást végző szervezet a sportfejlesztési program jóváhagyása során ellenőrzi.
 
-(6)[^2] A sportakadémia utófinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
+(6)[^3] A sportakadémia utófinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
 
 a) 4. § (2) bekezdés b), c), e) és f) pontjában foglaltaknak megfelel,
 
@@ -30,5 +30,5 @@ d) amennyiben a kérelem építési beruházásra irányul, úgy rendelkezik az 
 
 azzal, hogy a szükséges dokumentumok meglétét a jóváhagyást végző szervezet a sportfejlesztési program jóváhagyása során ellenőrzi.
 
-[^1]: A 3. § (5) bekezdése a 322/2025. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 3. § (6) bekezdését a 322/2025. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 3. § (5) bekezdése a 322/2025. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (6) bekezdését a 322/2025. (X. 20.) Korm. rendelet 1. §-a iktatta be.
