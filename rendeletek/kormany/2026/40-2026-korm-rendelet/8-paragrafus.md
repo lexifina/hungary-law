@@ -1,0 +1,3 @@
+8. § Az R2. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kölcsön kamatainak megfizetéséhez az állam nevében a Kincstár a hitelintézet e rendelet szerinti közreműködésével a kölcsön futamidejére – a futamidő első évére, illetve az első gyermek születését vagy örökbefogadását követően igénybe vett törlesztésszüneteltetés időtartamára a (4) bekezdés szerint, illetve a 31. § (1) bekezdés b) pont bb) alpontja szerinti esetben a kölcsön futamidején belül a 15. § (5) bekezdés d) pont dg) alpontja szerint a kamattámogatási időszak kezdete feltételeinek teljesítését követően –, de legfeljebb 25 évre kamattámogatást nyújt, amely meghosszabbodik az igénybe vett törlesztésszüneteltetés esetén a 44. § (5) bekezdése szerinti futamidő-hosszabbodás időtartamával.”
