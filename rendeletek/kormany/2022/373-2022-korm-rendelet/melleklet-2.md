@@ -12,7 +12,7 @@
 
 | 6. | V. Fenntartható zöld közlekedés | NFK | Építési és Közlekedési Minisztérium | Energiaügyi Minisztérium, NFK |
 
-| 7. | VI. Energetika (zöld átállás) | NFK | Energiaügyi Minisztérium | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK, Energiaügyi Minisztérium[^489] |
+| 7. | VI. Energetika (zöld átállás) | NFK | Energiaügyi Minisztérium | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK, Energiaügyi Minisztérium[^490] |
 
 | 8. | VII. Átállás a körforgásos gazdaságra | NFK | Energiaügyi Minisztérium | NFK |
 
@@ -22,7 +22,7 @@
 
 | 11. | Magyarország REPowerEU terve | NFK | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Energiaügyi Minisztérium, NFK |
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^490]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^491]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -146,7 +146,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^491] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
+8.4.[^492] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -154,6 +154,6 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^489]: Az 1. mellékletben foglalt táblázat D:7 mezője a 484/2025. (XII. 31.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^490]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
-[^491]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
+[^490]: Az 1. mellékletben foglalt táblázat D:7 mezője a 484/2025. (XII. 31.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^491]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^492]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.

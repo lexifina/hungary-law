@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-373-20-
 | 2025-09-01 | 2022-373-20-22.26 | 202/2025. (VII. 16.) Korm. rendelet |
 | 2026-01-01 | 2022-373-20-22.27 | 384/2025. (XII. 8.) Korm. rendelet |
 | 2026-01-08 | 2022-373-20-22.28 | 484/2025. (XII. 31.) Korm. rendelet |
+| 2026-03-06 | 2022-373-20-22.29 | 48/2026. (III. 5.) Korm. rendelet |
