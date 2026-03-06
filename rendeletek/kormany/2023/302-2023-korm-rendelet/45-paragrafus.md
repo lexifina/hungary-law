@@ -12,7 +12,7 @@ ab) új lakás vásárlása esetén 40 000 forint,
 
 ac) a 23. § szerinti igénybevétel esetén 10 000 forint,
 
-b)[^165] adó-visszatérítési támogatás összege után
+b)[^167] adó-visszatérítési támogatás összege után
 
 ba) használt lakás esetén, vagy új lakás építése esetén 80 000 forint,
 
@@ -34,11 +34,11 @@ egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi o
 
 (9) Ha a Kincstár a hitelintézet ellenőrzése során a hitelintézet terhére jogosulatlan támogatáslehívást állapít meg, a hitelintézet azt a Kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelt összegben köteles a Kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni.
 
-(10)[^166] A Kincstár az (5) bekezdés és a 47. § (1) bekezdése szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
+(10)[^168] A Kincstár az (5) bekezdés és a 47. § (1) bekezdése szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
 
 (11) Ha a Kincstár az (5) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^165]: A 45. § (2) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 56. pontja szerint módosított szöveg.
-[^166]: A 45. § (10) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 57. pontja szerint módosított szöveg.
+[^167]: A 45. § (2) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 56. pontja szerint módosított szöveg.
+[^168]: A 45. § (10) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 57. pontja szerint módosított szöveg.
