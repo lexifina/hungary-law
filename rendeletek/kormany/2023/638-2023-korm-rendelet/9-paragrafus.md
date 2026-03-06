@@ -86,8 +86,8 @@
 
 42. közszolgáltatásért járó ellentételezésként,
 
-43.[^6]
+43.[^6] az Európai Bizottság előzetes jóváhagyó határozata alapján a közös európai érdeket szolgáló fontos projektek végrehajtását előmozdítani hivatott állami támogatások belső piaccal való összeegyeztethetőségének elemzési kritériumairól szóló bizottsági közlemény (2021/C 528/02) szerinti támogatásként
 
 nyújtható.
 
-[^6]: A 9. § 43. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § d) pontja hatályon kívül helyezte.
+[^6]: A 9. § 43. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § d) pontja hatályon kívül helyezte, újonnan a 48/2026. (III. 5.) Korm. rendelet 2. §-a iktatta be.

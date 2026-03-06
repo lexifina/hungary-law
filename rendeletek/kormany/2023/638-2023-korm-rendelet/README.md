@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-638-20-
 | 2024-08-01 | 2023-638-20-22.4 | 218/2024. (VII. 31.) Korm. rendelet |
 | 2025-03-14 | 2023-638-20-22.5 | 37/2025. (III. 11.) Korm. rendelet |
 | 2025-07-19 | 2023-638-20-22.6 | 202/2025. (VII. 16.) Korm. rendelet |
+| 2026-03-06 | 2023-638-20-22.7 | 48/2026. (III. 5.) Korm. rendelet |
