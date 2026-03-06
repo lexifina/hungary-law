@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^41]
+1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^42]
 
 1. táblázat
 
@@ -140,4 +140,4 @@ A fenntartási, karbantartási munkák ajánlott költségnormái
 
 | 4.3. |  | töltéskorona- és burkolat-karbantartás, Ft/m2 |  |  |
 
-[^41]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
