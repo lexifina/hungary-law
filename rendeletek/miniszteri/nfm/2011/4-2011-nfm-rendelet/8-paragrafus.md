@@ -14,10 +14,12 @@ kerül beszerzésre.
 
 (4) Az ellentételezés kiszámítása során a (3) bekezdés szerinti mennyiségen belül
 
-a) az az éven túli villamosenergia-beszerzéssel beszerzett villamos energia vehető figyelembe az adott ügylet tényleges elszámolási árán elszámolva, amelynek beszerzése a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló törvény szerinti – Magyarországon engedéllyel rendelkező – szabályozott piacon, határidős ügyletek megkötésével történik,
+a)[^24] az az éven túli villamosenergia-beszerzéssel beszerzett villamos energia vehető figyelembe az adott ügylet tényleges elszámolási árán elszámolva, amelynek beszerzése a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló törvény szerinti szabályozott piacon, határidős ügyletek megkötésével történik,
 
 b) az éven belüli villamosenergia-beszerzéssel érintett villamos energia a) pont szerint nem fedezett része vagy többlete a szervezett villamosenergia-piacon határidős, másnapi vagy napon belüli termékek vásárlásával vagy értékesítésével, a szervezett villamosenergia-piac elszámolási módja szerinti időegységre vonatkozó elszámoló árakon elszámolva kerül figyelembevételre.
 
-(5) Az ellentételezés kiszámítása során a (4) bekezdés szerinti villamosenergia-vásárláshoz vagy értékesítéshez kapcsolódó devizafedezeti ügyletek figyelembevétele a villamosenergia-szolgáltató által adott tranzakcióhoz kapcsolódóan realizált árfolyamon történik.
+(5)[^25] Az ellentételezés kiszámítása a (4) bekezdés szerinti villamosenergia-vásárláshoz vagy -értékesítéshez kapcsolódó devizafedezeti ügyletek figyelembevételével történik.
 
 [^23]: Az 5. alcím (8–8/E. §) a 20/2025. (VII. 31.) EM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 8. § (4) bekezdés a) pontja a 6/2026. (III. 5.) EM rendelet 2. §-a szerint módosított szöveg.
+[^25]: A 8. § (5) bekezdése a 6/2026. (III. 5.) EM rendelet 1. §-ával megállapított szöveg.
