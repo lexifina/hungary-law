@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (10) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A sportakadémiák látvány-csapatsport támogatásáról szóló 214/2025. (VII. 22.) Korm. rendelet (a továbbiakban: R.) 1. alcíme a következő 2/A. §-sal egészül ki:
+1. §[^2]
 
-„2/A. § A 9. § alapján továbbadott támogatás esetében a végső kedvezményezett a Tao. törvény 22/C. § (5) bekezdés j) és k) pontjában meghatározott feltételek vonatkozásában támogatás igénybevételére jogosult szervezetnek minősül.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
