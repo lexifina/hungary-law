@@ -1,5 +1,3 @@
-## „43. támogatáselőkészítési alap: az együttműködési program keretében a második körös pályázatok előkészítéséhez, valamint a program operátoroknál és a projektgazdáknál a programok és projektek előkészítésével kapcsolatban felmerülő menedzsmentköltségekhez nyújtott pénzügyi forrás,”
+2. §[^3]
 
-2. § Az 563/2022. (XII. 23.) Korm. rendelet 11. § 4. pontja helyébe a következő rendelkezés lép:
-
-(A közreműködő szervezet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

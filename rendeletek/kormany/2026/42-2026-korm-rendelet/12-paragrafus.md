@@ -1,3 +1,3 @@
-12. § Az 563/2022. (XII. 23.) Korm. rendelet 139. § (1) bekezdése a következő c) ponttal egészül ki:
+12. §[^13]
 
-[Az eljárási innováció és szervezési innováció támogatása (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható]
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

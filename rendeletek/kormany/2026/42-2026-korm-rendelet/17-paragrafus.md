@@ -1,3 +1,3 @@
-17. § Az 563/2022. (XII. 23.) Korm. rendelet 174. § c) pontja helyébe a következő rendelkezés lép:
+17. §[^18]
 
-(E rendelet)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

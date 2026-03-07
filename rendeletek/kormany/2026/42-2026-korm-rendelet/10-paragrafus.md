@@ -1,3 +1,3 @@
-10. § Az 563/2022. (XII. 23.) Korm. rendelet 122. §-a a következő (2a) bekezdéssel egészül ki:
+10. §[^11]
 
-„(2a) Az (EU) 2024/795 európai parlamenti és tanácsi rendelet hatálya alá tartozó beruházás esetén a támogatási intenzitás – a (2) bekezdésben meghatározott mértéken felül – tíz százalékponttal növelhető.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

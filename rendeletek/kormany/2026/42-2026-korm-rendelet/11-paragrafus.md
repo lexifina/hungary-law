@@ -1,3 +1,3 @@
-11. § Az 563/2022. (XII. 23.) Korm. rendelet 127. § (3) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(3) Ha a támogatás nyújtása pénzügyi közvetítőn keresztül történik, a pénzügyi közvetítő vonatkozásában a 171. §-ban előírt feltételeket kell alkalmazni.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § Az 563/2022. (XII. 23.) Korm. rendelet 70. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(2) A követelés kis összegű, ha annak összege a Magyarország központi költségvetéséről szóló törvényben meghatározott értékhatárt nem éri el.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

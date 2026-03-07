@@ -1,3 +1,3 @@
-5. § Az 563/2022. (XII. 23.) Korm. rendelet 65. §-a a következő (2a) bekezdéssel egészül ki:
+5. §[^6]
 
-„(2a) Ha a támogatási szerződés az (1) bekezdés szerint szűnik meg, és a kedvezményezett a támogatásból részben vagy egészben nem a támogatási cél megvalósítására használta fel az előleget, a kedvezményezett az így jogosulatlanul igénybe vett támogatás összegét a Ptk. 6:47. §-a szerinti – a jegybanki alapkamat mértékével egyező – ügyleti kamattal növelten köteles visszafizetni. A kedvezményezett a kamatfizetési kötelezettség alól csak az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 8. §-a szerint meghatározott esetkörben mentesülhet.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

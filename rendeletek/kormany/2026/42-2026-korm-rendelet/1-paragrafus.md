@@ -4,12 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A Svájci–Magyar Együttműködési Program II. időszak végrehajtási rendjéről szóló 563/2022. (XII. 23.) Korm. rendelet [a továbbiakban: 563/2022. (XII. 23.) Korm. rendelet] 2. § (1) bekezdés 16. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
-
-## „16. kifizetési kérelem: az előrehaladási jelentés részét képező, a kedvezményezett által benyújtott, ki nem fizetett, támogatásra jogosult költségeket tartalmazó pénzügyi beszámoló,”
-
-(2) Az 563/2022. (XII. 23.) Korm. rendelet 2. § (1) bekezdés 43. pontja helyébe a következő rendelkezés lép:
-
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
