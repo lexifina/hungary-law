@@ -8,6 +8,6 @@
 
 ## 1. A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet módosítása
 
-1. § A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet (a továbbiakban: R1.) 15. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A családi otthonteremtési kedvezmény igénybevételének feltétele, hogy)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

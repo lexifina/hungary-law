@@ -1,3 +1,3 @@
-9. § Az R2. 39. § (1) bekezdése a következő d) ponttal egészül ki:
+9. §[^10]
 
-(Lakás építése vagy bővítése esetén a hitelintézet felmondja a kölcsönszerződést, ha)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

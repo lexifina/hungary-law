@@ -1,5 +1,3 @@
-19. § Hatályát veszti az R3.
+19. §[^20]
 
-a) 4. § (13) bekezdése és
-
-b) 19. § (2) bekezdés a) pontjában a „– kivéve a 8. § (2) bekezdés f) pont fb) alpontja szerinti esetben –” szövegrész.
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

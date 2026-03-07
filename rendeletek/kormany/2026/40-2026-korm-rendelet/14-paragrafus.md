@@ -1,3 +1,3 @@
-14. § Az R3. 12. §-a a következő (11) bekezdéssel egészül ki:
+14. §[^15]
 
-„(11) A hitelintézet a jogosultsági feltételek fennállásának vizsgálata érdekében az e rendelet szerinti kölcsön és kamattámogatás korábbi igénybevételét a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján vizsgálja.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

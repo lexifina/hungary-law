@@ -1,3 +1,3 @@
-15. § Az R3. 16. § (1) bekezdése a következő 6a. ponttal egészül ki:
+15. §[^16]
 
-(A kölcsönre való jogosultság feltételeinek meglétét az igénylő a következők szerint igazolja:)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

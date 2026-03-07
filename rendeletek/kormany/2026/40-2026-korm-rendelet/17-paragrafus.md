@@ -1,5 +1,3 @@
-17. § Az R3. 21. §-a a következő (2a) bekezdéssel egészül ki, és a § (3) bekezdése helyébe a következő rendelkezés lép:
+17. §[^18]
 
-„(2a) Otthon vásárlása esetén megszűnik a kamattámogatás a 19. § (1) bekezdés b) pont ba) alpontja szerinti esetben, ha a támogatott személy az építési munkák elvégzését a kölcsönszerződésben meghatározott határidőn, de legfeljebb a kölcsön első részletének folyósításától számított 3 éven belül – vagy ha a támogatott személyek e határidő meghosszabbítása iránt a kormányhivatal részére indokolással alátámasztott kérelmet nyújtanak be a határidő lejártát megelőzően, akkor a kormányhivatal által megállapított további legfeljebb 1 éven belül – használatbavételi engedéllyel a hitelintézet részére nem igazolja.
-
-(3) A (2), illetve (2a) bekezdésben meghatározott esetekben a már igénybe vett kamattámogatás tekintetében az igénybevétele napjától számítva a kamattámogatás megszűnésének következményeit kell alkalmazni, azzal, hogy a (2a) bekezdés szerinti esetben – az (1) bekezdés a) pontjától eltérően – a már igénybe vett kamattámogatást az igénybevétele napjától számított, a jegybanki alapkamat mértékével megegyező kamattal növelten kell visszafizetni.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
