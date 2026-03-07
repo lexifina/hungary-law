@@ -1,3 +1,5 @@
 ## 2. A villamosenergia-ellátás folyamatos biztosítása érdekében szükséges rendszerbiztonsági szolgáltató kijelöléséről szóló 237/2025. (VII. 31.) Korm. rendelet módosítása
 
-2. § A villamosenergia-ellátás folyamatos biztosítása érdekében szükséges rendszerbiztonsági szolgáltató kijelöléséről szóló 237/2025. (VII. 31.) Korm. rendelet 1. §-ában a „2026.” szövegrész helyébe a „2027.” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
