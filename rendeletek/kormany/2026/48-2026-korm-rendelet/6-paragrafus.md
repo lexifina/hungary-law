@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 638/2023. (XII. 28.) Korm. rendelet 128. § (2) bekezdésében az „a) pontja” szövegrész.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
