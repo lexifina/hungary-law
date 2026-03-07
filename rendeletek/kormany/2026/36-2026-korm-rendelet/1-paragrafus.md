@@ -28,10 +28,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet
+1. §[^1]
 
-a) 9/A. § (1) bekezdésében a „valamint 95/B. §-ában” szövegrész helyébe a „95/B. §-ában, 96. § (2) bekezdés d) pontjában, valamint 51/A. alcímében” szöveg,
-
-b) 9/A. § (2) bekezdés nyitó szövegrészében a „valamint 95/B. §-ának” szövegrész helyébe a „95/B. §-ának, 96. § (2) bekezdés d) pontjának, valamint 51/A. alcímének” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
