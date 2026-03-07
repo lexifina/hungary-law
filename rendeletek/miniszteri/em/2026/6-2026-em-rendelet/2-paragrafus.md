@@ -1,1 +1,3 @@
-2. § A villamos energia egyetemes szolgáltatás árképzéséről szóló 4/2011. (I. 31.) NFM rendelet 8. § (4) bekezdés a) pontjában a „– Magyarországon engedéllyel rendelkező – szabályozott” szövegrész helyébe a „szabályozott” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
