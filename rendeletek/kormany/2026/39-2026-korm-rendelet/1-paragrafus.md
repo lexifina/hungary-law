@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 53. cikk (1) bekezdés b) pontjában meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, valamint a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 2. § (1a) bekezdésére, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A ragadós száj- és körömfájás sújtotta gazdálkodók pénzügyi helyzetének stabilizálását szolgáló átmeneti rendelkezésekről szóló 68/2025. (IV. 4.) Korm. rendelet
+1. §[^2]
 
-a) 3. § (3) bekezdésében a „2026. április 30. napjáig” szövegrész helyébe a „2027. június 30. napjáig” szöveg,
-
-b) 3. § (6) bekezdésében a „2026. április 30-ig” szövegrész helyébe a „2027. június 30-ig” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
