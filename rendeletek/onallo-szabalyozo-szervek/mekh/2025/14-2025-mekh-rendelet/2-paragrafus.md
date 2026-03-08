@@ -29,3 +29,7 @@ j) üzembe helyezés előtt álló csatlakozási pont esetén a hálózati csatl
 k) folyamatban lévő csatlakozási eljárás szerinti csatlakozási díj várható mértéke ezer forintban meghatározva,
 
 l) a Hivatal által kiadott működési engedély száma, amely az 1. §-ban meghatározott berendezés műszaki adatait és az engedélyes elektronikus elérhetőségét tartalmazza.
+
+(3)[^1] A (2) bekezdés szerinti adatokon felül az adatszolgáltatás során a mérési pont azonosítóra vonatkozó adatot is szolgáltatni kell.
+
+[^1]: A 2. § (3) bekezdését a 4/2026. (III. 5.) MEKH rendelet 19. §-a iktatta be.
