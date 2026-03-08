@@ -2,7 +2,7 @@
 
 ÚJ PSZICHOAKTÍV ANYAGOK JEGYZÉKE
 
-Új pszichoaktív anyagok a következő szerkezeti leírásoknak megfelelő vegyületek, ha azok az 1. és 2. melléklet szerinti jegyzékeken nem szerepelnek:
+## Új pszichoaktív anyagok a következő szerkezeti leírásoknak megfelelő vegyületek, ha azok az 1. és 2. melléklet szerinti jegyzékeken nem szerepelnek:
 
 1. Azok
 
@@ -150,7 +150,7 @@
 
 6. Az 1–5. pontban foglaltakon túlmenően továbbá
 
-6.1.[^8] a következő vegyületek:
+6.1.[^22] a következő vegyületek:
 
 |  | A | B | C | D |
 
@@ -506,7 +506,7 @@
 
 | 176 | 4-methylpentan-2-amine (DMBA) | 4-methylpentan-2-amine | C6H15N | UNBMPKNTYKDYCG-UHFFFAOYSA-N |
 
-| 177 | Modafinil sulphone | 2-[(diphenylmethyl)sulfonyl]acetamide | C15H15NO3S | ZESNOWZYHYRSRY-UHFFFAOYSA-N |
+| 177[^23] |  |  |  |  |
 
 | 178 | N-methyl aminorex derivative | 3-methyl-5-phenyl-oxazolidin-2-imine | C10H12N2O | PINRUEQFGKWBTO-UHFFFAOYSA-N |
 
@@ -518,7 +518,7 @@
 
 | 182 | Epirocaine | 2-methyl-2-(propylamino)propyl benzoate | C14H21NO2 | VXJABHHJLXLNMP-UHFFFAOYSA-N |
 
-| 183 | Modafinil | 2-[(diphenylmethyl)sulfinyl]acetamide | C15H15NO2S | YFGHCGITMMYXAQ-UHFFFAOYSA-N |
+| 183[^24] |  |  |  |  |
 
 | 184 | Iso-phenmetrazine | 5-methyl-2-phenylmorpholine | C11H15NO | LQHGEOIBMBXJGV-UHFFFAOYSA-N |
 
@@ -806,194 +806,217 @@
 
 | 326 | 4F-MBZP | 1-[(4-fluorophenyl)methyl]-4-methylpiperazine | C₁₂H₁₇FN₂ | KFMDNJJTGINMCS-UHFFFAOYSA-N |
 
-| 327[^9] | ADMB-3TMS-PRINACA | N-(1-amino-3,3-dimethyl- 1-oxobutan-2-yl)-1-(3-(trimethylsilyl)propyl)-1H-indazole-3-carboxamide | C₂₀H₃₂N₄O₂Si | LJKMOYFTWIBFJI-UHFFFAOYSA-N |
+| 327[^25] | ADMB-3TMS-PRINACA | N-(1-amino-3,3-dimethyl- 1-oxobutan-2-yl)-1-(3-(trimethylsilyl)propyl)-1H-indazole-3-carboxamide | C₂₀H₃₂N₄O₂Si | LJKMOYFTWIBFJI-UHFFFAOYSA-N |
 
-| 328[^10] | N-cyclohexyl butylone | 1-(1,3-benzodioxol-5-yl)- 2-(cyclohexylamino)butan-1-one | C₁₇H₂₃NO₃ | JUIRPSMGWVYMJT-UHFFFAOYSA-N |
+| 328[^26] | N-cyclohexyl butylone | 1-(1,3-benzodioxol-5-yl)- 2-(cyclohexylamino)butan-1-one | C₁₇H₂₃NO₃ | JUIRPSMGWVYMJT-UHFFFAOYSA-N |
 
-| 329[^11] | 2’-Fluoro-2-fluoro-3-methylfentanyl | N-(1-(2-fluorophenethyl)- 3-methylpiperidin-4-yl)-N-(2-fluorophenyl)propionamide | C₂₃H₂₈F₂N₂O | ZHMCEQBHANQWEW-UHFFFAOYSA-N |
+| 329[^27] | 2’-Fluoro-2-fluoro-3-methylfentanyl | N-(1-(2-fluorophenethyl)- 3-methylpiperidin-4-yl)-N-(2-fluorophenyl)propionamide | C₂₃H₂₈F₂N₂O | ZHMCEQBHANQWEW-UHFFFAOYSA-N |
 
-| 330[^12] | Etomethazene | 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl- 5-methyl-1H-benzimidazole-1-ethanamine | C₂₃H₃₁N₃O | ZARKNPABJGEAOQ-UHFFFAOYSA-N |
+| 330[^28] | Etomethazene | 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl- 5-methyl-1H-benzimidazole-1-ethanamine | C₂₃H₃₁N₃O | ZARKNPABJGEAOQ-UHFFFAOYSA-N |
 
-| 331[^13] | Ethyleneoxynitazene | 2-{2-[(2,3-dihydro-1-benzofuran-5-yl)methyl]-5-nitro-1H-benzimidazol-1-yl}- N,N-diethylethan-1-amine | C₂₂H₂₆N₄O₃ | IPSJQZUMCSELFZ-UHFFFAOYSA-N |
+| 331[^29] | Ethyleneoxynitazene | 2-{2-[(2,3-dihydro-1-benzofuran-5-yl)methyl]-5-nitro-1H-benzimidazol-1-yl}- N,N-diethylethan-1-amine | C₂₂H₂₆N₄O₃ | IPSJQZUMCSELFZ-UHFFFAOYSA-N |
 
-| 332[^14] | iso-3-MMC | 1-(methylamino)-1-(3-methylphenyl)propan-2-one | C₁₁H₁₅NO | QXBFBMKWNOHDFB-UHFFFAOYSA-N |
+| 332[^30] | iso-3-MMC | 1-(methylamino)-1-(3-methylphenyl)propan-2-one | C₁₁H₁₅NO | QXBFBMKWNOHDFB-UHFFFAOYSA-N |
 
-| 333[^15] | 1cP-Al-LAD | 4-(cyclopropanecarbonyl)-N,N-diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₆H₃₁N₃O₂ | VSABTUDYQCMWKE-UHFFFAOYSA-N |
+| 333[^31] | 1cP-Al-LAD | 4-(cyclopropanecarbonyl)-N,N-diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₆H₃₁N₃O₂ | VSABTUDYQCMWKE-UHFFFAOYSA-N |
 
-| 334[^16] | CUMYL-3TMS-PRINACA | N-(2-phenylpropan- 2-yl)-1-(3-(trimethylsilyl)propyl)-1H-indazole-3-carboxamide | C₂₃H₃₁N₃OSi | BFLYAEBVCZMSPK-UHFFFAOYSA-N |
+| 334[^32] | CUMYL-3TMS-PRINACA | N-(2-phenylpropan- 2-yl)-1-(3-(trimethylsilyl)propyl)-1H-indazole-3-carboxamide | C₂₃H₃₁N₃OSi | BFLYAEBVCZMSPK-UHFFFAOYSA-N |
 
-| 335[^17] | NMDMSB | 1-Naphthyl 4-methyl-3-(dimethylsulfamoyl)-benzoate | C₂₀H₁₉NO₄S | PNUYASIDNIWYQI-UHFFFAOYSA-N |
+| 335[^33] | NMDMSB | 1-Naphthyl 4-methyl-3-(dimethylsulfamoyl)-benzoate | C₂₀H₁₉NO₄S | PNUYASIDNIWYQI-UHFFFAOYSA-N |
 
-| 336[^18] | tetrahydrocannabidiol (H4-CBD) | 2-(2-isopropyl-5-methylcyclohexyl)- 5-pentylbenzene-1,3-diol | C₂₁H₃₄O₂ | LXIXAVCVBZBXIY-UHFFFAOYSA-N |
+| 336[^34] | tetrahydrocannabidiol (H4-CBD) | 2-(2-isopropyl-5-methylcyclohexyl)- 5-pentylbenzene-1,3-diol | C₂₁H₃₄O₂ | LXIXAVCVBZBXIY-UHFFFAOYSA-N |
 
-| 337[^19] | tetrahydrocannabiphorol (THCP) | 3-Heptyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₄O₂ | OJTMRZHYTZMJKX-UHFFFAOYSA-N |
+| 337[^35] | tetrahydrocannabiphorol (THCP) | 3-Heptyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₄O₂ | OJTMRZHYTZMJKX-UHFFFAOYSA-N |
 
-| 338[^20] | 4’-chloro deschloroalprazolam | 6-(4-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine | C₁₇H₂₃NO₃ | QZQFCOLCRXZSIK-UHFFFAOYSA-N |
+| 338[^36] | 4’-chloro deschloroalprazolam | 6-(4-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine | C₁₇H₂₃NO₃ | QZQFCOLCRXZSIK-UHFFFAOYSA-N |
 
-| 339[^21] | protonitazepyne | 5-nitro-2-[(4-propoxyphenyl)methyl]-1- (2-pyrrolidin-1-ylethyl)benzimidazole | C₂₃H₂₈N₄O₃ | KCRWXNIIXGBPID-UHFFFAOYSA-N |
+| 339[^37] | protonitazepyne | 5-nitro-2-[(4-propoxyphenyl)methyl]-1- (2-pyrrolidin-1-ylethyl)benzimidazole | C₂₃H₂₈N₄O₃ | KCRWXNIIXGBPID-UHFFFAOYSA-N |
 
-| 340[^22] | 1T-LSD | N,N-Diethyl-7-methyl- 4-(thiophene-2-carbonyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₅H₂₇N₃O₂S | UKYJDWQKFQDRRX-UHFFFAOYSA-N |
+| 340[^38] | 1T-LSD | N,N-Diethyl-7-methyl- 4-(thiophene-2-carbonyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₅H₂₇N₃O₂S | UKYJDWQKFQDRRX-UHFFFAOYSA-N |
 
-| 341[^23] | A-PBITMO | (Adamantan-1-yl)(3-pentyl-2-thioxo-2,3-dihydro-1H-benzo[d]imidazol-1-yl)methanone | C₂₃H₃₀N₂OS | VUROLZZLDVMOQX-UHFFFAOYSA-N |
+| 341[^39] | A-PBITMO | (Adamantan-1-yl)(3-pentyl-2-thioxo-2,3-dihydro-1H-benzo[d]imidazol-1-yl)methanone | C₂₃H₃₀N₂OS | VUROLZZLDVMOQX-UHFFFAOYSA-N |
 
-| 342[^24] | hexahydrocannabihexol (HHCH) | 3-Hexyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | C₂₂H₃₄O₂ | OKXUDFJPZMVBEH-UHFFFAOYSA-N |
+| 342[^40] | hexahydrocannabihexol (HHCH) | 3-Hexyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | C₂₂H₃₄O₂ | OKXUDFJPZMVBEH-UHFFFAOYSA-N |
 
-| 343[^25] | metonitazepyne | 2-(4-methoxybenzyl)-5-nitro-1- (2-(pyrrolidin-1-yl)ethyl)-1H-benzo[d]imidazole | C₂₁H₂₄N₄O₃ | JTTDZHBAEQTIPA-UHFFFAOYSA-N |
+| 343[^41] | metonitazepyne | 2-(4-methoxybenzyl)-5-nitro-1- (2-(pyrrolidin-1-yl)ethyl)-1H-benzo[d]imidazole | C₂₁H₂₄N₄O₃ | JTTDZHBAEQTIPA-UHFFFAOYSA-N |
 
-| 344[^26] | N-desethyl Etonitazene | 2-[2-[(4-ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N-ethyl-ethanamine | C₂₀H₂₄N₄O₃ | RESPFUMJVJRUMB-UHFFFAOYSA-N |
+| 344[^42] | N-desethyl Etonitazene | 2-[2-[(4-ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N-ethyl-ethanamine | C₂₀H₂₄N₄O₃ | RESPFUMJVJRUMB-UHFFFAOYSA-N |
 
-| 345[^27] | N-desethyl Isotonitazene | N-ethyl-2-[2-[(4-isopropoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]ethanamine | C₂₁H₂₆N₄O₃ | HHBRZWRJZICFRP-UHFFFAOYSA-N |
+| 345[^43] | N-desethyl Isotonitazene | N-ethyl-2-[2-[(4-isopropoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]ethanamine | C₂₁H₂₆N₄O₃ | HHBRZWRJZICFRP-UHFFFAOYSA-N |
 
-| 346[^28] | tetrahydrocannabutol (THCB) | 3-butyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₀H₂₈O₂ | QHCQSGYWGBDSIY-UHFFFAOYSA-N |
+| 346[^44] | tetrahydrocannabutol (THCB) | 3-butyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₀H₂₈O₂ | QHCQSGYWGBDSIY-UHFFFAOYSA-N |
 
-| 347[^29] | delta-8-THCP | 3-heptyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₄O₂ | RGXKCMQANRHRCO-UHFFFAOYSA-N |
+| 347[^45] | delta-8-THCP | 3-heptyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₄O₂ | RGXKCMQANRHRCO-UHFFFAOYSA-N |
 
-| 348[^30] | 3-Me-PCE | N-ethyl-1-(3-methylphenyl)cyclohexan-1-amine | C₁₅H₂₃N | USOQORZXGGZQGO-UHFFFAOYSA-N |
+| 348[^46] | 3-Me-PCE | N-ethyl-1-(3-methylphenyl)cyclohexan-1-amine | C₁₅H₂₃N | USOQORZXGGZQGO-UHFFFAOYSA-N |
 
-| 349[^31] | delta-8-THCH | 3-hexyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₂H₃₂O₂ | ZHYPKENABBMAAN-UHFFFAOYSA-N |
+| 349[^47] | delta-8-THCH | 3-hexyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₂H₃₂O₂ | ZHYPKENABBMAAN-UHFFFAOYSA-N |
 
-| 350[^32] | delta-9-THCH | 3-hexyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₂H₃₂O₂ | DMJVNNFBMZZLFB-UHFFFAOYSA-N |
+| 350[^48] | delta-9-THCH | 3-hexyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₂H₃₂O₂ | DMJVNNFBMZZLFB-UHFFFAOYSA-N |
 
-| 351[^33] | 9-Hydroxyhexahydrocannabinol (9-OH-HHC) | 6,6,9-Trimethyl-3-pentyl-6a,7,8,9,10, 10a-hexahydro-6H-benzo[c]chromene-1,9-diol | C₂₁H₃₂O₃ | KSGRDIFQZVURIF-UHFFFAOYSA-N |
+| 351[^49] | 9-Hydroxyhexahydrocannabinol (9-OH-HHC) | 6,6,9-Trimethyl-3-pentyl-6a,7,8,9,10, 10a-hexahydro-6H-benzo[c]chromene-1,9-diol | C₂₁H₃₂O₃ | KSGRDIFQZVURIF-UHFFFAOYSA-N |
 
-| 352[^34] | N,N-dimethyl etonitazene | 2-[2-[(4-Ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N,N-dimethyl-ethanamine | C₂₀H₂₄N₄O₃ | MYLQWWDDZNZULX-UHFFFAOYSA-N |
+| 352[^50] | N,N-dimethyl etonitazene | 2-[2-[(4-Ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N,N-dimethyl-ethanamine | C₂₀H₂₄N₄O₃ | MYLQWWDDZNZULX-UHFFFAOYSA-N |
 
-| 353[^35] | fluetonitazene | N,N-diethyl-2-[2-[[4-(2-fluoroethoxy)phenyl]methyl]-5-nitro-benzimidazol-1-yl]ethanamine | C₂₂H₂₇FN₄O₃ | XCWWXPKOMYPTRP-UHFFFAOYSA-N |
+| 353[^51] | fluetonitazene | N,N-diethyl-2-[2-[[4-(2-fluoroethoxy)phenyl]methyl]-5-nitro-benzimidazol-1-yl]ethanamine | C₂₂H₂₇FN₄O₃ | XCWWXPKOMYPTRP-UHFFFAOYSA-N |
 
-| 354[^36] | 6-methyl desnitroetonitazene | 2-[(4-Ethoxyphenyl)methyl]-N,N-diethyl- 6-methyl-1H-benzimidazole-1-ethanamine | C₂₃H₃₁N₃O | UIADNYOPHBSCNQ-UHFFFAOYSA-N |
+| 354[^52] | 6-methyl desnitroetonitazene | 2-[(4-Ethoxyphenyl)methyl]-N,N-diethyl- 6-methyl-1H-benzimidazole-1-ethanamine | C₂₃H₃₁N₃O | UIADNYOPHBSCNQ-UHFFFAOYSA-N |
 
-| 355[^37] | 3,4-methylenedioxyphenmetrazine | 2-(1,3-benzodioxol-5-yl)-3-methylmorpholine | C₁₂H₁₅NO₃ | JMABLCPXWZOLCW-UHFFFAOYSA-N |
+| 355[^53] | 3,4-methylenedioxyphenmetrazine | 2-(1,3-benzodioxol-5-yl)-3-methylmorpholine | C₁₂H₁₅NO₃ | JMABLCPXWZOLCW-UHFFFAOYSA-N |
 
-| 356[^38] | delta-8-THC-C8 | 3-octyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₄H₃₆O₂ | RSHHRAXMOZULOO-UHFFFAOYSA-N |
+| 356[^54] | delta-8-THC-C8 | 3-octyl-6a,7,10,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₄H₃₆O₂ | RSHHRAXMOZULOO-UHFFFAOYSA-N |
 
-| 357[^39] | delta-9-THC-C8 | 3-octyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₄H₃₆O₂ | SFWRRSGOJSILSQ-UHFFFAOYSA-N |
+| 357[^55] | delta-9-THC-C8 | 3-octyl-6a,7,8,10a-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₄H₃₆O₂ | SFWRRSGOJSILSQ-UHFFFAOYSA-N |
 
-| 358[^40] | N-desethyl protonitazene | N-ethyl-2-{5-nitro-2-[(4-propoxyphenyl)methyl]-1H-1,3-benzimidazol-1-yl}ethan-1-amine | C₂₁H₂₆N₄O₃ | NPHUSRHIDKYNDO-UHFFFAOYSA-N |
+| 358[^56] | N-desethyl protonitazene | N-ethyl-2-{5-nitro-2-[(4-propoxyphenyl)methyl]-1H-1,3-benzimidazol-1-yl}ethan-1-amine | C₂₁H₂₆N₄O₃ | NPHUSRHIDKYNDO-UHFFFAOYSA-N |
 
-| 359[^41] | delta-8-THC-O-acetate | [6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-yl] acetate | C23H32O3 | WPRGTCVOBXQUHO-UHFFFAOYSA-N |
+| 359[^57] | delta-8-THC-O-acetate | [6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-yl] acetate | C23H32O3 | WPRGTCVOBXQUHO-UHFFFAOYSA-N |
 
-| 360[^42] | delta-8-THCB-O-acetate | 3-butyl-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₂H₃₀O₃ | YERDNYZDJIXHPC-UHFFFAOYSA-N |
+| 360[^58] | delta-8-THCB-O-acetate | 3-butyl-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₂H₃₀O₃ | YERDNYZDJIXHPC-UHFFFAOYSA-N |
 
-| 361[^43] | delta-8-THCM | 1-methoxy-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran | C₂₂H₃₂O₂ | GRLARWXSTOXAGR-UHFFFAOYSA-N |
+| 361[^59] | delta-8-THCM | 1-methoxy-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran | C₂₂H₃₂O₂ | GRLARWXSTOXAGR-UHFFFAOYSA-N |
 
-| 362[^44] | delta-9-THCP-O-acetate | 3-heptyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₅H₃₆O₃ | OXMUZNKOOOITQD-UHFFFAOYSA-N |
+| 362[^60] | delta-9-THCP-O-acetate | 3-heptyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₅H₃₆O₃ | OXMUZNKOOOITQD-UHFFFAOYSA-N |
 
-| 363[^45] | clonazafone desglycyl | 2-amino-N-[2-(2-chlorobenzoyl)-4-nitrophenyl]acetamide | C₁₅H₁₂ClN₃O₄ | VDWHFAAXPZFFEI-UHFFFAOYSA-N |
+| 363[^61] | clonazafone desglycyl | 2-amino-N-[2-(2-chlorobenzoyl)-4-nitrophenyl]acetamide | C₁₅H₁₂ClN₃O₄ | VDWHFAAXPZFFEI-UHFFFAOYSA-N |
 
-| 364[^46] | diclazafone desglycyl | 2-amino-N-[4-chloro-2-(2-chlorobenzoyl)phenyl]acetamide | C₁₅H₁₂Cl₂N₂O₂ | YGKSPOBIXHTPMV-UHFFFAOYSA-N |
+| 364[^62] | diclazafone desglycyl | 2-amino-N-[4-chloro-2-(2-chlorobenzoyl)phenyl]acetamide | C₁₅H₁₂Cl₂N₂O₂ | YGKSPOBIXHTPMV-UHFFFAOYSA-N |
 
-| 365[^47] | fluetonitazepyne | 2-{[4-(2-fluoroethoxy)phenyl]methyl}-5-nitro-1-[2-(pyrrolidin-1-yl)ethyl]-1H-1,3-benzimidazole | C₂₂H₂₅FN₄O₃ | TYLHUWCBBIQCEH-UHFFFAOYSA-N |
+| 365[^63] | fluetonitazepyne | 2-{[4-(2-fluoroethoxy)phenyl]methyl}-5-nitro-1-[2-(pyrrolidin-1-yl)ethyl]-1H-1,3-benzimidazole | C₂₂H₂₅FN₄O₃ | TYLHUWCBBIQCEH-UHFFFAOYSA-N |
 
-| 366[^48] | αMPip-isohexanophenone | 4-methyl-2-(4-methylpiperidin-1-yl)-1-phenylpentan-1-one | C₁₈H₂₇NO | WXKSTWPTXPVNJC-UHFFFAOYSA-N |
+| 366[^64] | αMPip-isohexanophenone | 4-methyl-2-(4-methylpiperidin-1-yl)-1-phenylpentan-1-one | C₁₈H₂₇NO | WXKSTWPTXPVNJC-UHFFFAOYSA-N |
 
-| 367[^49] |  |  |  |  |
+| 367[^65] |  |  |  |  |
 
-| 368[^50] | delta-9-THC-methylcarbonate | methyl 6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl carbonate | C₂₃H₃₂O₄ | OCIMDWOTFKKSJV-UHFFFAOYSA-N |
+| 368[^66] | delta-9-THC-methylcarbonate | methyl 6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl carbonate | C₂₃H₃₂O₄ | OCIMDWOTFKKSJV-UHFFFAOYSA-N |
 
-| 369[^51] | 10-OH-HHC | 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | C₂₁H₃₂O₃ | SUVXTOCRTNYFMQ-UHFFFAOYSA-N |
+| 369[^67] | 10-OH-HHC | 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | C₂₁H₃₂O₃ | SUVXTOCRTNYFMQ-UHFFFAOYSA-N |
 
-| 370[^52] | 10-OH-HHC-P | 3-heptyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | C₂₃H₃₆O₃ | SSVKYSSTQAHKGU-UHFFFAOYSA-N |
+| 370[^68] | 10-OH-HHC-P | 3-heptyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | C₂₃H₃₆O₃ | SSVKYSSTQAHKGU-UHFFFAOYSA-N |
 
-| 371[^53] | Ro 07-3953 | 7-chloro-5-(2,6-difluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one | C₁₅H₉ClF₂N₂O | WENMWXYJTWETRE-UHFFFAOYSA-N |
+| 371[^69] | Ro 07-3953 | 7-chloro-5-(2,6-difluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one | C₁₅H₉ClF₂N₂O | WENMWXYJTWETRE-UHFFFAOYSA-N |
 
-| 372[^54] | 1P-AL-LAD | N,N-diethyl-4-propionyl-7-(prop-2-enyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₅H₃₁N₃O₂ | GAGOTJNMWJYWMB-UHFFFAOYSA-N |
+| 372[^70] | 1P-AL-LAD | N,N-diethyl-4-propionyl-7-(prop-2-enyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₅H₃₁N₃O₂ | GAGOTJNMWJYWMB-UHFFFAOYSA-N |
 
-| 373[^55] | desnitroclonitazene | 2-{2-[(4-chlorophenyl)methyl]-1H-1,3-benzimidazol-1-yl}-N,N-diethylethan-1-amine | C₂₀H₂₄ClN₃ | BNCZGFWEXSROSK-UHFFFAOYSA-N |
+| 373[^71] | desnitroclonitazene | 2-{2-[(4-chlorophenyl)methyl]-1H-1,3-benzimidazol-1-yl}-N,N-diethylethan-1-amine | C₂₀H₂₄ClN₃ | BNCZGFWEXSROSK-UHFFFAOYSA-N |
 
-| 374[^56] | cyclorphine | 3-(3-{1-[1-(4-chlorophenyl)ethyl]piperidin-4-yl}-2-oxo-2,3-dihydro-1H-1,3-benzimidazol-1-yl)propanenitrile | C₂₃H₂₅ClN₄O | SWWAVNFEFVMDAG-UHFFFAOYSA-N |
+| 374[^72] | cyclorphine | 3-(3-{1-[1-(4-chlorophenyl)ethyl]piperidin-4-yl}-2-oxo-2,3-dihydro-1H-1,3-benzimidazol-1-yl)propanenitrile | C₂₃H₂₅ClN₄O | SWWAVNFEFVMDAG-UHFFFAOYSA-N |
 
-| 375[^57] | homomazindol | 6-(4-chlorophenyl)-2,3,4,6-tetrahydropyrimido[2,1-a]isoindol-6-ol | C₁₇H₁₅ClN₂O | ZGLAJTSGABGHND-UHFFFAOYSA-N |
+| 375[^73] | homomazindol | 6-(4-chlorophenyl)-2,3,4,6-tetrahydropyrimido[2,1-a]isoindol-6-ol | C₁₇H₁₅ClN₂O | ZGLAJTSGABGHND-UHFFFAOYSA-N |
 
-| 376[^58] | 3,4-EtPV | 1-(bicyclo[4.2.0]octa-1,3,5-trien-4-yl)-2-(pyrrolidin-1-yl)pentan-1-one | C₁₇H₂₃NO | GJPHTMBPBAUZGR-UHFFFAOYSA-N |
+| 376[^74] | 3,4-EtPV | 1-(bicyclo[4.2.0]octa-1,3,5-trien-4-yl)-2-(pyrrolidin-1-yl)pentan-1-one | C₁₇H₂₃NO | GJPHTMBPBAUZGR-UHFFFAOYSA-N |
 
-| 377[^59] | 3,4-EtMC | 1-(bicyclo[4.2.0]octa-1,3,5-trien-3-yl)-2-(methylamino)propan-1-one | C₁₂H₁₅NO | ZFSFMWWBRVNZDW-UHFFFAOYSA-N |
+| 377[^75] | 3,4-EtMC | 1-(bicyclo[4.2.0]octa-1,3,5-trien-3-yl)-2-(methylamino)propan-1-one | C₁₂H₁₅NO | ZFSFMWWBRVNZDW-UHFFFAOYSA-N |
 
-| 378[^60] | 4’-Ph-PVP (4-Ph-alfa-PVP) | 1-([1,1’-biphenyl]-4-yl)-2-(pyrrolidin-1-yl)pentan-1-one | C₂₁H₂₅NO | AWGOLIBTTUDPBS-UHFFFAOYSA-N |
+| 378[^76] | 4’-Ph-PVP (4-Ph-alfa-PVP) | 1-([1,1’-biphenyl]-4-yl)-2-(pyrrolidin-1-yl)pentan-1-one | C₂₁H₂₅NO | AWGOLIBTTUDPBS-UHFFFAOYSA-N |
 
-| 379[^61] | O-2172 | methyl cyclopentyl(3,4-dichlorophenyl)acetate | C₁₄H₁₆Cl₂O₂ | NEHPFNBRZYFWFN-UHFFFAOYSA-N |
+| 379[^77] | O-2172 | methyl cyclopentyl(3,4-dichlorophenyl)acetate | C₁₄H₁₆Cl₂O₂ | NEHPFNBRZYFWFN-UHFFFAOYSA-N |
 
-| 380[^62] | spirochlorphine | 8-[1-(4-chlorophenyl)ethyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one | C₂₁H₂₄ClN₃O | KFEYPBZJPJJRFX-UHFFFAOYSA-N |
+| 380[^78] | spirochlorphine | 8-[1-(4-chlorophenyl)ethyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one | C₂₁H₂₄ClN₃O | KFEYPBZJPJJRFX-UHFFFAOYSA-N |
 
-| 381[^63] | 5,6-dichloro desmethylchlorphine | 5,6-dichloro-1-{1-[(4-chlorophenyl)methyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-one | C₁₉H₁₈Cl₃N₃O | LAGUDYUGRSQDKS-UHFFFAOYSA-N |
+| 381[^79] | 5,6-dichloro desmethylchlorphine | 5,6-dichloro-1-{1-[(4-chlorophenyl)methyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-one | C₁₉H₁₈Cl₃N₃O | LAGUDYUGRSQDKS-UHFFFAOYSA-N |
 
-| 382[^64] | methiodone | 4-(ethanesulfonyl)-N,N-dimethyl-4,4-diphenylbutan-2-amine | C₂₀H₂₇NO₂S | NLPGJSPLDNDKKZ-UHFFFAOYSA-N |
+| 382[^80] | methiodone | 4-(ethanesulfonyl)-N,N-dimethyl-4,4-diphenylbutan-2-amine | C₂₀H₂₇NO₂S | NLPGJSPLDNDKKZ-UHFFFAOYSA-N |
 
-| 383[^65] | HHC-C9 | 3-nonyl-6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₅H₄₀O₂ | IEJDLTWSCOMFKC-UHFFFAOYSA-N |
+| 383[^81] | HHC-C9 | 3-nonyl-6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C₂₅H₄₀O₂ | IEJDLTWSCOMFKC-UHFFFAOYSA-N |
 
-| 384[^66] | rilmazolam | 8-chloro-6-(2-chlorophenyl)-N,N-dimethyl-4H-[1,2,4]triazolo[1,5-a][1,4]benzodiazepine-2-carboxamide | C₁₉H₁₅Cl₂N₅O | YMJXPUGNWIWFJI-UHFFFAOYSA-N |
+| 384[^82] | rilmazolam | 8-chloro-6-(2-chlorophenyl)-N,N-dimethyl-4H-[1,2,4]triazolo[1,5-a][1,4]benzodiazepine-2-carboxamide | C₁₉H₁₅Cl₂N₅O | YMJXPUGNWIWFJI-UHFFFAOYSA-N |
 
-| 385[^67] | HHCH-O-acetate | 3-hexyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₄H₃₆O₃ | FRFPIJRMJKJOOI-UHFFFAOYSA-N |
+| 385[^83] | HHCH-O-acetate | 3-hexyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C₂₄H₃₆O₃ | FRFPIJRMJKJOOI-UHFFFAOYSA-N |
 
-| 386[^68] | 1’-ethyl-HHC | 3-(heptan-3-yl)-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₆O₂ | JVRSGUMXFHIUFK-UHFFFAOYSA-N |
+| 386[^84] | 1’-ethyl-HHC | 3-(heptan-3-yl)-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₃H₃₆O₂ | JVRSGUMXFHIUFK-UHFFFAOYSA-N |
 
-| 387[^69] | delta-9-THCP-O-butanoate | 3-heptyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl butanoate | C₂₇H₄₀O₃ | GKILHIZIJTXLBF-UHFFFAOYSA-N |
+| 387[^85] | delta-9-THCP-O-butanoate | 3-heptyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl butanoate | C₂₇H₄₀O₃ | GKILHIZIJTXLBF-UHFFFAOYSA-N |
+
+| 388[^86] | HHC-C8 | 3-octyl-6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C24H38O2 | JOHFVFHLPAPLSA-UHFFFAOYSA-N |
+
+| 389[^87] | 2-Br-HHC-O-acetate | 2-bromo-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-yl acetate | C23H33BrO3 | CISPFEQXHGXYRW-UHFFFAOYSA-N |
+
+| 390[^88] | mephenaqualone | 8-methoxy-3-(2-methylphenyl)-2-phenylquinazolin-4(3H)-one | C22H18N2O2 | BWXQPJORBOGKST-UHFFFAOYSA-N |
+
+| 391[^89] | ethylbromazolam | 8-bromo-1-ethyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine | C18H15BrN4 | DKTGBMWWLATMHK-UHFFFAOYSA-N |
+
+| 392[^90] | CL-218,872 | 3-methyl-6-[3-(trifluoromethyl)phenyl][1,2,4]triazolo[4,3-b]pyridazine | C13H9F3N4 | GUOQUXNJZHGPQF-UHFFFAOYSA-N |
+
+| 393[^91] | N-pyrrolidino ethylene isotonitazene | 5-nitro-2-(2-{4-[(propan-2-yl)oxy]phenyl}ethyl)-1-[2-(pyrrolidin-1-yl)ethyl]-1H-1,3-benzimidazole | C24H30N4O3 | BCRJRRWYLQWRPJ-UHFFFAOYSA-N |
+
+| 394[^92] | clonazafone | 2-amino-N-{2-[2-(2-chlorobenzoyl)-4-nitroanilino]-2-oxoethyl}acetamide | C17H15ClN4O5 | CDNZKQZDZGOQET-UHFFFAOYSA-N |
 
 6.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek,
 
 6.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve a 6.2. pontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-7.[^70] A jegyzékbe sorolás szempontjából a 6.1. pontban foglalt táblázat A és B oszlopában található adatok irányadóak, a C és D oszlop adatai a vegyületek számítógépes kereshetőségét biztosítják.
+7.[^93] A jegyzékbe sorolás szempontjából a 6.1. pontban foglalt táblázat A és B oszlopában található adatok irányadóak, a C és D oszlop adatai a vegyületek számítógépes kereshetőségét biztosítják.
 
-[^8]: A 3. melléklet 6. pont 6.1. alpontja a 31/2023. (VIII. 22.) BM rendelet 4. §-ával megállapított, a 43/2023. (X. 12.) BM rendelet 1. §-a szerint módosított szöveg.
-[^9]: A 3. melléklet 6.1. pontjában foglalt táblázat 327. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^10]: A 3. melléklet 6.1. pontjában foglalt táblázat 328. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 3. melléklet 6.1. pontjában foglalt táblázat 329. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^12]: A 3. melléklet 6.1. pontjában foglalt táblázat 330. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^13]: A 3. melléklet 6.1. pontjában foglalt táblázat 331. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^14]: A 3. melléklet 6.1. pontjában foglalt táblázat 332. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^15]: A 3. melléklet 6.1. pontjában foglalt táblázat 333. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^16]: A 3. melléklet 6.1. pontjában foglalt táblázat 334. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 3. melléklet 6.1. pontjában foglalt táblázat 335. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^18]: A 3. melléklet 6.1. pontjában foglalt táblázat 336. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^19]: A 3. melléklet 6.1. pontjában foglalt táblázat 337. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^20]: A 3. melléklet 6.1. pontjában foglalt táblázat 338. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^21]: A 3. melléklet 6.1. pontjában foglalt táblázat 339. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^22]: A 3. melléklet 6.1. pontjában foglalt táblázat 340. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
-[^23]: A 3. melléklet 6.1. pontjában foglalt táblázat 341. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^24]: A 3. melléklet 6.1. pontjában foglalt táblázat 342. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^25]: A 3. melléklet 6.1. pontjában foglalt táblázat 343. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^26]: A 3. melléklet 6.1. pontjában foglalt táblázat 344. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^27]: A 3. melléklet 6.1. pontjában foglalt táblázat 345. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^28]: A 3. melléklet 6.1. pontjában foglalt táblázat 346. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^29]: A 3. melléklet 6.1. pontjában foglalt táblázat 347. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^30]: A 3. melléklet 6.1. pontjában foglalt táblázat 348. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^31]: A 3. melléklet 6.1. pontjában foglalt táblázat 349. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^32]: A 3. melléklet 6.1. pontjában foglalt táblázat 350. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^33]: A 3. melléklet 6.1. pontjában foglalt táblázat 351. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^34]: A 3. melléklet 6.1. pontjában foglalt táblázat 352. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^35]: A 3. melléklet 6.1. pontjában foglalt táblázat 353. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^36]: A 3. melléklet 6.1. pontjában foglalt táblázat 354. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^37]: A 3. melléklet 6.1. pontjában foglalt táblázat 355. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^38]: A 3. melléklet 6.1. pontjában foglalt táblázat 356. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^39]: A 3. melléklet 6.1. pontjában foglalt táblázat 357. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
-[^40]: A 3. melléklet 6.1. pontjában foglalt táblázat 358. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^41]: A 3. melléklet 6.1. pontjában foglalt táblázat 359. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^42]: A 3. melléklet 6.1. pontjában foglalt táblázat 360. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^43]: A 3. melléklet 6.1. pontjában foglalt táblázat 361. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^44]: A 3. melléklet 6.1. pontjában foglalt táblázat 362. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^45]: A 3. melléklet 6.1. pontjában foglalt táblázat 363. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^46]: A 3. melléklet 6.1. pontjában foglalt táblázat 364. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^47]: A 3. melléklet 6.1. pontjában foglalt táblázat 365. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^48]: A 3. melléklet 6.1. pontjában foglalt táblázat 366. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^49]: A 3. melléklet 6.1. pontjában foglalt táblázat 367. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be, a 44/2025. (XI. 4.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^50]: A 3. melléklet 6.1. pontjában foglalt táblázat 368. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^51]: A 3. melléklet 6.1. pontjában foglalt táblázat 369. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^52]: A 3. melléklet 6.1. pontjában foglalt táblázat 370. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^53]: A 3. melléklet 6.1. pontjában foglalt táblázat 371. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^54]: A 3. melléklet 6.1. pontjában foglalt táblázat 372. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^55]: A 3. melléklet 6.1. pontjában foglalt táblázat 373. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^56]: A 3. melléklet 6.1. pontjában foglalt táblázat 374. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^57]: A 3. melléklet 6.1. pontjában foglalt táblázat 375. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^58]: A 3. melléklet 6.1. pontjában foglalt táblázat 376. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^59]: A 3. melléklet 6.1. pontjában foglalt táblázat 377. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
-[^60]: A 3. melléklet 6.1. pontjában foglalt táblázat 378. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^61]: A 3. melléklet 6.1. pontjában foglalt táblázat 379. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^62]: A 3. melléklet 6.1. pontjában foglalt táblázat 380. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^63]: A 3. melléklet 6.1. pontjában foglalt táblázat 381. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^64]: A 3. melléklet 6.1. pontjában foglalt táblázat 382. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^65]: A 3. melléklet 6.1. pontjában foglalt táblázat 383. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^66]: A 3. melléklet 6.1. pontjában foglalt táblázat 384. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^67]: A 3. melléklet 6.1. pontjában foglalt táblázat 385. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^68]: A 3. melléklet 6.1. pontjában foglalt táblázat 386. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^69]: A 3. melléklet 6.1. pontjában foglalt táblázat 387. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^70]: A 3. melléklet 7. pontját a 31/2023. (VIII. 22.) BM rendelet 4. §-a iktatta be.
+[^22]: A 3. melléklet 6. pont 6.1. alpontja a 31/2023. (VIII. 22.) BM rendelet 4. §-ával megállapított, a 43/2023. (X. 12.) BM rendelet 1. §-a szerint módosított szöveg.
+[^23]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 177. sorát a 4/2026. (II. 26.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^24]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 183. sorát a 4/2026. (II. 26.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^25]: A 3. melléklet 6.1. pontjában foglalt táblázat 327. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^26]: A 3. melléklet 6.1. pontjában foglalt táblázat 328. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^27]: A 3. melléklet 6.1. pontjában foglalt táblázat 329. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^28]: A 3. melléklet 6.1. pontjában foglalt táblázat 330. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^29]: A 3. melléklet 6.1. pontjában foglalt táblázat 331. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^30]: A 3. melléklet 6.1. pontjában foglalt táblázat 332. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^31]: A 3. melléklet 6.1. pontjában foglalt táblázat 333. sora az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^32]: A 3. melléklet 6.1. pontjában foglalt táblázat 334. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^33]: A 3. melléklet 6.1. pontjában foglalt táblázat 335. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^34]: A 3. melléklet 6.1. pontjában foglalt táblázat 336. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^35]: A 3. melléklet 6.1. pontjában foglalt táblázat 337. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^36]: A 3. melléklet 6.1. pontjában foglalt táblázat 338. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^37]: A 3. melléklet 6.1. pontjában foglalt táblázat 339. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^38]: A 3. melléklet 6.1. pontjában foglalt táblázat 340. sorát a 24/2024. (V. 21.) BM rendelet 1. §-a iktatta be, szövege az 56/2024. (XII. 11.) BM rendelet 1. §-ával megállapított szöveg.
+[^39]: A 3. melléklet 6.1. pontjában foglalt táblázat 341. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^40]: A 3. melléklet 6.1. pontjában foglalt táblázat 342. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^41]: A 3. melléklet 6.1. pontjában foglalt táblázat 343. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^42]: A 3. melléklet 6.1. pontjában foglalt táblázat 344. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^43]: A 3. melléklet 6.1. pontjában foglalt táblázat 345. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^44]: A 3. melléklet 6.1. pontjában foglalt táblázat 346. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^45]: A 3. melléklet 6.1. pontjában foglalt táblázat 347. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^46]: A 3. melléklet 6.1. pontjában foglalt táblázat 348. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^47]: A 3. melléklet 6.1. pontjában foglalt táblázat 349. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^48]: A 3. melléklet 6.1. pontjában foglalt táblázat 350. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^49]: A 3. melléklet 6.1. pontjában foglalt táblázat 351. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^50]: A 3. melléklet 6.1. pontjában foglalt táblázat 352. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^51]: A 3. melléklet 6.1. pontjában foglalt táblázat 353. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^52]: A 3. melléklet 6.1. pontjában foglalt táblázat 354. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^53]: A 3. melléklet 6.1. pontjában foglalt táblázat 355. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^54]: A 3. melléklet 6.1. pontjában foglalt táblázat 356. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^55]: A 3. melléklet 6.1. pontjában foglalt táblázat 357. sorát az 56/2024. (XII. 11.) BM rendelet 1. §-a iktatta be.
+[^56]: A 3. melléklet 6.1. pontjában foglalt táblázat 358. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^57]: A 3. melléklet 6.1. pontjában foglalt táblázat 359. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^58]: A 3. melléklet 6.1. pontjában foglalt táblázat 360. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^59]: A 3. melléklet 6.1. pontjában foglalt táblázat 361. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^60]: A 3. melléklet 6.1. pontjában foglalt táblázat 362. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^61]: A 3. melléklet 6.1. pontjában foglalt táblázat 363. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^62]: A 3. melléklet 6.1. pontjában foglalt táblázat 364. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^63]: A 3. melléklet 6.1. pontjában foglalt táblázat 365. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^64]: A 3. melléklet 6.1. pontjában foglalt táblázat 366. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^65]: A 3. melléklet 6.1. pontjában foglalt táblázat 367. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be, a 44/2025. (XI. 4.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^66]: A 3. melléklet 6.1. pontjában foglalt táblázat 368. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^67]: A 3. melléklet 6.1. pontjában foglalt táblázat 369. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^68]: A 3. melléklet 6.1. pontjában foglalt táblázat 370. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^69]: A 3. melléklet 6.1. pontjában foglalt táblázat 371. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^70]: A 3. melléklet 6.1. pontjában foglalt táblázat 372. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^71]: A 3. melléklet 6.1. pontjában foglalt táblázat 373. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^72]: A 3. melléklet 6.1. pontjában foglalt táblázat 374. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^73]: A 3. melléklet 6.1. pontjában foglalt táblázat 375. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^74]: A 3. melléklet 6.1. pontjában foglalt táblázat 376. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^75]: A 3. melléklet 6.1. pontjában foglalt táblázat 377. sorát a 30/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^76]: A 3. melléklet 6.1. pontjában foglalt táblázat 378. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^77]: A 3. melléklet 6.1. pontjában foglalt táblázat 379. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^78]: A 3. melléklet 6.1. pontjában foglalt táblázat 380. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^79]: A 3. melléklet 6.1. pontjában foglalt táblázat 381. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^80]: A 3. melléklet 6.1. pontjában foglalt táblázat 382. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^81]: A 3. melléklet 6.1. pontjában foglalt táblázat 383. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^82]: A 3. melléklet 6.1. pontjában foglalt táblázat 384. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^83]: A 3. melléklet 6.1. pontjában foglalt táblázat 385. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^84]: A 3. melléklet 6.1. pontjában foglalt táblázat 386. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^85]: A 3. melléklet 6.1. pontjában foglalt táblázat 387. sorát a 44/2025. (XI. 4.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^86]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 388. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^87]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 389. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^88]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 390. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^89]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 391. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^90]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 392. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^91]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 393. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^92]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 394. sorát a 4/2026. (II. 26.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^93]: A 3. melléklet 7. pontját a 31/2023. (VIII. 22.) BM rendelet 4. §-a iktatta be.

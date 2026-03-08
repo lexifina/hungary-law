@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-78-20-0
 | 2024-12-14 | 2022-78-20-0A.6 | 56/2024. (XII. 11.) BM rendelet |
 | 2025-07-27 | 2022-78-20-0A.7 | 30/2025. (VII. 24.) BM rendelet |
 | 2025-11-07 | 2022-78-20-0A.8 | 44/2025. (XI. 4.) BM rendelet |
+| 2026-03-08 | 2022-78-20-0A.9 | 4/2026. (II. 26.) BM rendelet |
