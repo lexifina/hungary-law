@@ -1,6 +1,0 @@
-10. § (1)[^12]
-
-(2)[^13]
-
-[^12]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 10. § (2) bekezdése a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.
