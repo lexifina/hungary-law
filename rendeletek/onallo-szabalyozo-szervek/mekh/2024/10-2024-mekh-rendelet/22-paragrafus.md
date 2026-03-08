@@ -2,7 +2,7 @@
 
 a) a 19. § (3) bekezdése szerinti esetet, amikor az elosztó a nettó (szaldós) vételezési mennyiséget a csúcsidőszaki forgalmi díjjal számolja el, illetve
 
-b) a VET 66/B. § (9) bekezdés b) pontja szerinti esetet, amikor az (5) és (6) bekezdés szerinti villamosenergia-mennyiségek jelentik a zónaidők szerinti díjfizetés alapját.
+b)[^12] a VET 66/B. § (9) bekezdés b) pontja szerinti esetet, amikor a (6) és (7) bekezdés szerinti villamosenergia-mennyiségek jelentik a zónaidők szerinti díjfizetés alapját.
 
 (2) A VET 66/B. § (9) bekezdés a) pontja szerinti esethez kapcsolódó forgalomarányos diszkontált rendszerhasználati díjvisszatérítést a Vhr. 39/D. § (3) és (4) bekezdése alapján negyedórás intervallumok szerint meghatározott villamosenergia-mennyiségnek és a forgalomarányos diszkontált rendszerhasználati díjvisszatérítési mérték szorzatának az elszámolási időszakra összegzett értéke alapján kell elszámolni, figyelembe véve a (3)–(5) bekezdésben foglaltakat is.
 
@@ -23,3 +23,4 @@ b) az összekötő berendezésre tápláló rendszerhasználóra nem osztható v
 c) a felhasználóra osztott villamosenergia-mennyiséggel csökkentett mért villamosenergia-mennyiség figyelembe veendő számértéke az adott negyedórás intervallumban nem lehet nullánál kisebb.
 
 [^11]: A 22. § a 20/2025. (XII. 22.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^12]: A 22. § (1) bekezdés b) pontja a 4/2026. (III. 5.) MEKH rendelet 12. §-a szerint módosított szöveg.

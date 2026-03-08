@@ -24,7 +24,7 @@ b)[^8] az elosztóhoz 2023. szeptember 13. napjáig igazolt módon beérkezett, 
 
 a) ha a háztartási méretű kiserőművel rendelkező felhasználó ezt kéri, vagy
 
-b)[^9] a 2023. szeptember 13. előtt létesített – az elosztói szabályzatban meghatározottak szerint üzembe helyezett – háztartási méretű kiserőmű névleges hatásos teljesítményének 2023. szeptember 13. után kezdeményezett bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében.
+b)[^9] a háztartási méretű kiserőmű névleges hatásos teljesítményének a (3a) bekezdés b) pont alá nem tartozó bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében, kivéve ha a Kormány határozatával a 2025. évben megteremtett és a 2026. évre meghirdetett Otthoni Energiatároló Program keretében megvalósuló villamosenergia-tároló létesítése miatt az inverter cseréje válik szükségessé, és az új inverter névleges teljesítménye legfeljebb 1 kW-tal haladja meg a korábbi – több inverter esetén a korábbi összegzett – inverter teljesítményét, azzal, hogy a teljesítménykorlát figyelembevételével magasabb fázisszámú inverter is felszerelhető.
 
 (5) A magánvezeték engedélyese vagy üzemeltetője által a hálózati engedélyes részére fizetendő forgalomarányos rendszerhasználati díjak elszámolásának alapját képező villamosenergia-mennyiségeket – a mérési intervallumok szerint – úgy kell megállapítani, hogy a közcélú hálózat és a magánvezeték közötti csatlakozási ponton mért, irányonként elkülönített és előjelhelyesen összegzett villamosenergia-mennyiséghez
 
@@ -40,4 +40,4 @@ b) le kell vonni belőle a magánvezetékre kapcsolódó felhasználók által v
 [^6]: A 19. § (3a) bekezdését a 2/2025. (IV. 10.) MEKH rendelet 1. §-a iktatta be.
 [^7]: A 19. § (3a) bekezdés a) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § b) pontja szerint módosított szöveg.
 [^8]: A 19. § (3a) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
-[^9]: A 19. § (4) bekezdés b) pontja a 7/2025. (V. 30.) MEKH rendelet 2. § c) pontja szerint módosított szöveg.
+[^9]: A 19. § (4) bekezdés b) pontja a 4/2026. (III. 5.) MEKH rendelet 11. §-ával megállapított szöveg.
