@@ -2,7 +2,7 @@
 
 5. § A kérelemnek tartalmaznia kell
 
-1. az innovációs teljesítmény részletes leírását, beleértve – amennyiben értelmezhető – a technológia részletes funkcionális és biztonsági specifikációját,
+1.[^9] az innovációs teljesítmény részletes leírását, beleértve – amennyiben értelmezhető – a technológia részletes funkcionális és biztonsági specifikációját, valamint a technológiai fejlettségi szintet és annak igazolását,
 
 2. a kérelmező nyilatkozatát az innovációs teljesítmény élesüzemi, valós üzleti környezetben történő tesztre való alkalmasságáról,
 
@@ -14,7 +14,7 @@
 
 6. az ESZT-ben végrehajtandó tevékenységek részletes leírását,
 
-7.[^6] technológiai, üzleti, szabályozási szempontból az ESZT-ben végrehajtandó tevékenység várható eredményeit és eredményességi kritériumait részcélokra és azokhoz tartozó teljesítési kritériumokra bontva,
+7.[^10] technológiai, üzleti, szabályozási szempontból az ESZT-ben végrehajtandó tevékenység várható eredményeit és eredményességi kritériumait részcélokra és azokhoz tartozó teljesítési kritériumokra bontva,
 
 8. az elvégzendő tesztek ütemezését,
 
@@ -32,13 +32,14 @@
 
 15. a kérelmező hozzájáruló nyilatkozatát ahhoz, hogy a Hivatal az innovációs teljesítményt az ESZT lezárását követően a nyilvánosság számára elérhetővé teszi, amennyiben a jogszabályok azt nem zárják ki,
 
-16.[^7] annak a földrajzi területnek a leírását, amely területre a kérelmező az ESZT-ben való részvétel engedélyezését kéri,
+16.[^11] annak a földrajzi területnek a leírását, amely területre a kérelmező az ESZT-ben való részvétel engedélyezését kéri,
 
-17.[^8] a kilépési tervet az ESZT lehetséges kimeneteire, beleértve a felelősségi viszonyok, fogyasztóvédelmi és egyéb jogi kötelezettségek rendezésének módját, az ESZT lezárását követően a kilépéskor hatályos szabályozásnak való megfelelés biztosításának és igazolásának rendjét,
+17.[^12] a kilépési tervet az ESZT lehetséges kimeneteire, beleértve a felelősségi viszonyok, fogyasztóvédelmi és egyéb jogi kötelezettségek rendezésének módját, az ESZT lezárását követően a kilépéskor hatályos szabályozásnak való megfelelés biztosításának és igazolásának rendjét,
 
-18.[^9] a kérelmező nyilatkozatát a szellemi tulajdonjogi kérdések és az innovációs teljesítmény ESZT keretében történő teszteléséhez szükséges egyéb jogok, jogosultságok rendezettségéről.
+18.[^13] a kérelmező nyilatkozatát a szellemi tulajdonjogi kérdések és az innovációs teljesítmény ESZT keretében történő teszteléséhez szükséges egyéb jogok, jogosultságok rendezettségéről.
 
-[^6]: Az 5. § 7. pontja a 21/2025. (XII. 22.) MEKH rendelet 7. § b) pontja szerint módosított szöveg.
-[^7]: Az 5. § 16. pontja a 21/2025. (XII. 22.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^8]: Az 5. § 17. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.
-[^9]: Az 5. § 18. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.
+[^9]: Az 5. § 1. pontja a 4/2026. (III. 5.) MEKH rendelet 14. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § 7. pontja a 21/2025. (XII. 22.) MEKH rendelet 7. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § 16. pontja a 21/2025. (XII. 22.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 5. § 17. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.
+[^13]: Az 5. § 18. pontját a 21/2025. (XII. 22.) MEKH rendelet 2. §-a iktatta be.

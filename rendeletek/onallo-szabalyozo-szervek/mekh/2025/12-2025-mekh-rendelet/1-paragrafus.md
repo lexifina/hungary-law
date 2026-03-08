@@ -16,4 +16,7 @@
 
 3.[^1] résztvevő: az, aki az energiapiaci szereplőn és az innovátoron kívül az energetikai szabályozási tesztkörnyezetben önként részt vesz.
 
+4.[^2] TRL-skála: a technológiai jellegű innovációs teljesítmény műszaki érettségének meghatározására szolgáló, nemzetközileg alkalmazott, kilencfokozatú besorolási rendszer.
+
 [^1]: Az 1. § 3. pontja a 21/2025. (XII. 22.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 4. pontját a 4/2026. (III. 5.) MEKH rendelet 13. §-a iktatta be.
