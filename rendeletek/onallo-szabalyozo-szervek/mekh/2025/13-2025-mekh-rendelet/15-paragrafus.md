@@ -6,6 +6,6 @@
 
 (2) Az 5. § (5) bekezdés a) pontja és a 16. § (2) bekezdése 2026. január 1-jén lép hatályba.
 
-(3)[^1]
+(3)[^4]
 
-[^1]: A 15. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

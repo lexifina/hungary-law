@@ -6,15 +6,17 @@
 
 2. befogadó hálózati engedélyes: az a hálózati engedélyes, akinek a hálózatához az adott csatlakozást igénylő csatlakozik;
 
-3. csatlakozást igénylő: a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vhr.) 2. számú melléklete szerint igénybejelentést benyújtó,
+3.[^1] csatlakozást igénylő: a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vhr.) 2. számú melléklete szerint igénybejelentést benyújtó,
 
-a) a közcélú hálózatra vonatkozó új csatlakozást igénylő, leendő rendszerhasználó (a továbbiakban: új csatlakozást igénylő) vagy
+a) a közcélú hálózatra vonatkozó új csatlakozást igénylő, leendő rendszerhasználó (a továbbiakban: új csatlakozást igénylő),
 
-b) a közcélú hálózaton már rendelkezésére álló teljesítményen felül többletteljesítményt igénylő rendszerhasználó (a továbbiakban: többletteljesítményt igénylő);
+b) a közcélú hálózaton már rendelkezésére álló teljesítményen felül többletteljesítményt igénylő rendszerhasználó (a továbbiakban: többletteljesítményt igénylő), vagy
+
+c) a rugalmas hálózati csatlakozási szerződéssel rendelkező rendszerhasználó, aki a meglévő csatlakozási teljesítménye rendelkezésre állásának növelését kezdeményezi;
 
 4. egyéb érintett hálózati engedélyes: a befogadó hálózati engedélyesen kívüli azon hálózati engedélyes, akinek a hálózatán az adott csatlakozási igény kielégítése érdekében beruházást kell végezni;
 
-5. elosztói tápponti körzet: az elosztóhálózat azon összefüggő, nagyfeszültségű hálózati elemeket tartalmazó része, melyet
+5.[^2] elosztói tápponti körzet: az elosztóhálózat azon összefüggő, nagyfeszültségű hálózati elemeket tartalmazó része, melyet
 
 a) átviteli alállomások,
 
@@ -24,7 +26,7 @@ c) átviteli nagyfeszültségű hálózattal megtáplált elosztói kapcsolóál
 
 d) az üzemi szabályzat szerinti normál kapcsolási állapothoz tartozó bontási pontok
 
-határolnak;
+határolnak, beleértve az átviteli alállomásokban az elosztóhálózati csatlakozást lehetővé tevő fogadó mezőket;
 
 6. ideiglenes csatlakozást kérő: az a leendő rendszerhasználó, aki ideiglenes csatlakozás megvalósítására határozott idejű, legfeljebb 12 hónapos időtartamra vonatkozó hálózathasználati szerződést kíván kötni;
 
@@ -57,3 +59,6 @@ található;
 16. névleges áramerősség: az az áramerősség, amellyel az olvadóbiztosító kiolvadás nélkül, a túláram-korlátozóval rendelkező megszakító leoldás nélkül tartósan terhelhető;
 
 17. teljesítményarány: a betáplálásra vagy vételezésre igényelt, csatlakozási pontokon egyidejűleg igénybe vehető csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos, két tizedesjegyre kerekített aránya.
+
+[^1]: A 2. § 3. pontja a 4/2026. (III. 5.) MEKH rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 5. pontja a 4/2026. (III. 5.) MEKH rendelet 16. § (2) bekezdésével megállapított szöveg.
