@@ -1,3 +1,3 @@
-9. melléklet a 4/2026. (III. 5.) MEKH rendelethez[^11]
+9. melléklet a 4/2026. (III. 5.) MEKH rendelethez[^24]
 
-[^11]: A 9. melléklet a 24. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^24]: A 9. melléklet a 24. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.

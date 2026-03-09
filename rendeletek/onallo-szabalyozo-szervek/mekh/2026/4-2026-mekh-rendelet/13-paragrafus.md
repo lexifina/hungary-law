@@ -1,5 +1,5 @@
 ## 4. Az energetikai szabályozási tesztkörnyezetről szóló 12/2025. (VII. 17.) MEKH rendelet módosítása
 
-13. § Az energetikai szabályozási tesztkörnyezetről szóló 12/2025. (VII. 17.) MEKH rendelet [a továbbiakban: 12/2025. (VII. 17.) MEKH rendelet] 1. §-a a következő 4. ponttal egészül ki:
+13. §[^5]
 
-(E rendelet alkalmazásában)
+[^5]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

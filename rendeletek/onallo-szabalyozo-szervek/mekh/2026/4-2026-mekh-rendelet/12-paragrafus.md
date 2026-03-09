@@ -1,3 +1,3 @@
-## „b) a háztartási méretű kiserőmű névleges hatásos teljesítményének a (3a) bekezdés b) pont alá nem tartozó bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében, kivéve ha a Kormány határozatával a 2025. évben megteremtett és a 2026. évre meghirdetett Otthoni Energiatároló Program keretében megvalósuló villamosenergia-tároló létesítése miatt az inverter cseréje válik szükségessé, és az új inverter névleges teljesítménye legfeljebb 1 kW-tal haladja meg a korábbi – több inverter esetén a korábbi összegzett – inverter teljesítményét, azzal, hogy a teljesítménykorlát figyelembevételével magasabb fázisszámú inverter is felszerelhető.”
+12. §[^4]
 
-12. § A villamos energia rendszerhasználati díjak és külön díjak alkalmazási szabályairól szóló 10/2024. (XI. 14.) MEKH rendelet 22. § (1) bekezdés b) pontjában az „az (5) és (6) bekezdés szerinti” szövegrész helyébe az „a (6) és (7) bekezdés szerinti” szöveg lép.
+[^4]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

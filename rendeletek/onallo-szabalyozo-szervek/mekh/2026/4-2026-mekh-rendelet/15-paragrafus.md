@@ -1,1 +1,3 @@
-15. § Hatályát veszti a 12/2025. (VII. 17.) MEKH rendelet 3. § (1) bekezdésében az „a vonatkozó jogszabályok értelmében” szövegrész.
+15. §[^7]
+
+[^7]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

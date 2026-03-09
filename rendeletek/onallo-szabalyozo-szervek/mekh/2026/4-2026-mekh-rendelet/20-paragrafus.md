@@ -1,11 +1,3 @@
-20. § A 14/2025. (IX. 3.) MEKH rendelet 3. §-a helyébe a következő rendelkezés lép:
+20. §[^12]
 
-„3. § (1) A 2. § (2) bekezdés a)–k) pontja és (3) bekezdése szerinti adatok Hivatal részére történő adatszolgáltatását
-
-a) az átviteli rendszerirányítói engedélyes az 1. mellékletben foglalt táblázat 2. sora szerint, valamint
-
-b) a villamosenergia-elosztói engedélyes az 1. mellékletben foglalt táblázat 3. sora szerint,
-
-az Energiainformációs Adattár adatgyűjtő alrendszer útján köteles teljesíteni.
-
-(2) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 19. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az adatszolgáltatási kötelezettségét – az adatszolgáltató választása szerint – a Dáptv. 39. § (2) bekezdés e) pontja szerinti Központi Azonosítási Ügynök szolgáltatáson keresztül történő azonosítással vagy a Hivatal által megküldött felhasználói névvel történő azonosítással teljesíti.”
+[^12]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
