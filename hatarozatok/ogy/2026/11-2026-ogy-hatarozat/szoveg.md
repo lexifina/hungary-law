@@ -1,0 +1,1 @@
+Az Országgyűlés Varga Zoltán országgyűlési képviselő mentelmi jogát a Nyíregyházi Törvényszék 2025.El.I.I.70/2. számú átiratával érintett, a Nyíregyházi Járásbíróságon 18.Bpk.1666/2025. számon indult ügyben nem függeszti fel.
