@@ -1,0 +1,1 @@
+4. § A Kt. 9. § (3) bekezdés b) pontjától eltérően a Szövetség 2026. december 31-éig legalább 60 napi nettó importnak megfelelő készletmennyiségre pótolja vissza – az államháztartásért felelős miniszter és az energiapolitikáért felelős miniszter együttes jóváhagyásával – a készleteit a visszapótláskor érvényes piaci áron.
