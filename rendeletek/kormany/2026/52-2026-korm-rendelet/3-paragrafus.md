@@ -15,3 +15,7 @@
 (8) A felszabadított készletből vásárolt üzemanyagot a tag kizárólag a magyarországi töltőállomás-hálózatában, illetve viszonteladó partnerei részére értékesítheti tovább Magyarország határain belül, töltőállomáson történő kiskereskedelmi értékesítés céljából.
 
 (9) Tag viszonteladó partner részére történő értékesítés esetén 95-ös kísérleti oktánszámú motorbenzin esetén legfeljebb nettó 286 Ft/liter és B7 dízelgázolaj esetén nettó 315 Ft/liter árat alkalmazhat.
+
+(10)[^2] A Büat. 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni az e § alapján felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
+
+[^2]: A 3. § (10) bekezdését az 53/2026. (III. 10.) Korm. rendelet 5. §-a iktatta be.
