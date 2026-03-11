@@ -10,4 +10,6 @@
 
 (5) Az üzemanyagtöltő állomás az üzemeltető szokásos nyitvatartási ideje szerinti nyitvatartási idejénél rövidebb nyitvatartási időt nem alkalmazhat. Amennyiben az üzemanyagtöltő állomás szokásos nyitvatartási ideje nem állapítható meg, úgy az engedély szerinti nyitvatartási időt kell figyelembe venni.
 
-(6) Az üzemanyagtöltő állomás üzemeltetője a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet szerinti motorkerékpár, quad, segédmotoros kerékpár, motoros tricikli és mopedautó, továbbá a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet szerinti személygépkocsi, 7,5 tonnát meg nem haladó megengedett legnagyobb össztömegű tehergépkocsi, traktor és mezőgazdasági erőgép töltését köteles biztosítani.
+(6)[^4] Az üzemanyagtöltő állomás üzemeltetője a védett árra jogosult gépjárművének töltését köteles biztosítani.
+
+[^4]: A 7. § (6) bekezdése az 53/2026. (III. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
