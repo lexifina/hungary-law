@@ -2,6 +2,6 @@
 
 (2) A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 151. §-a tekintetében a roma nemzetiség vonatkozásában a nemzetiségpolitikáért felelős miniszter (a továbbiakban: miniszter) által nyújtott ösztöndíj forrása a XIV. Belügyminisztérium fejezetben lévő Roma Tanulmányi Ösztöndíjak biztosításához szükséges fejezeti kezelésű előirányzat.
 
-(3)[^1] Az ösztöndíj mértéke tanulónként havonta negyvenezer forint, mely összeg a megállapítását követő szeptember 1. napját követő két tanítási évben a tanítási év végéig kerül folyósításra.
+(3)[^1] Az ösztöndíj mértéke tanulónként havonta ötvenezer forint, mely összeg a megállapítását követő szeptember 1. napját követő két tanítási évben a tanítási év végéig kerül folyósításra.
 
-[^1]: Az 1. § (3) bekezdése a 26/2025. (VII. 17.) BM rendelet 5. §-ával megállapított szöveg.
+[^1]: Az 1. § (3) bekezdése a 26/2025. (VII. 17.) BM rendelet 5. §-ával megállapított, a 7/2026. (III. 10.) BM rendelet 2. §-a szerint módosított szöveg.
