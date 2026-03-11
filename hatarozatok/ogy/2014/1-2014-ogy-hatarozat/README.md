@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-30-41
 | 2014-02-08 | 2014-1-30-41.3 | 6/2014. (II. 7.) OGY határozat |
 | 2020-05-06 | 2014-1-30-41.4 | 13/2020. (V. 5.) OGY határozat |
 | 2024-11-28 | 2014-1-30-41.5 | 24/2024. (XI. 27.) OGY határozat |
+| 2026-03-11 | 2014-1-30-41.6 | 13/2026. (III. 10.) OGY határozat |

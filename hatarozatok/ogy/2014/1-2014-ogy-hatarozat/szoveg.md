@@ -120,7 +120,7 @@ e) területi integráció, térségi és helyi fejlesztések a helyi gazdaság b
 
 a) az ország 19 megyei önkormányzata és Budapest Főváros Önkormányzata, mint területi önkormányzat a Koncepcióban megfogalmazott célok, mint kötelező keretek következetes figyelembevétele mellett jelölték ki a fejlesztési terveikben, programjaikban saját céljaikat, illetve határozták meg prioritásaikat és intézkedéseiket,
 
-b)[^6] a vármegyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátása érdekében kiemelt térségként nevesíti a Balaton Kiemelt Üdülőkörzetet, a Budapesti Agglomerációt, a Tokaj Borvidéket, a Közép-Duna Menti Kiemelt Térséget és a Tisza-tó Kiemelt Térséget.
+b)[^6] a vármegyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátása érdekében kiemelt térségként nevesíti a Balaton Kiemelt Üdülőkörzetet, a Budapesti Agglomerációt, a Tokaj Borvidéket, a Közép-Duna Menti Kiemelt Térséget, a Tisza-tó Kiemelt Térséget és a Szigetköz Kiemelt Térséget.
 
 8. Az Országgyűlés felkéri a Kormányt, hogy kísérje figyelemmel a Koncepcióban meghatározott célok és prioritások megvalósulásának folyamatát és háromévente adjon tájékoztatást megvalósításáról és szükség esetén kezdeményezze felülvizsgálatát.
 
@@ -134,5 +134,5 @@ Melléklet az 1/2014. (I. 3.) OGY határozathoz
 [^3]: A 3. pont b) pont bh) alpontja a 6/2014. (II. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 3. pont c) pontja a 6/2014. (II. 7.) OGY határozat 2. pontjával megállapított szöveg.
 [^5]: A 7. pont a 6/2014. (II. 7.) OGY határozat 3. pontjával megállapított szöveg.
-[^6]: A 7. pont b) alpontja a 24/2024. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 7. pont b) alpontja a 13/2026. (III. 10.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
