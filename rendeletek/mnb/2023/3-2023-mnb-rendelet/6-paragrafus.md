@@ -1,3 +1,0 @@
-6. § (1) A felügyeleti díj fizetésére kötelezett – a (2) bekezdésben foglalt kivétellel – a felügyeleti változó díj bevallását elektronikus úton, legalább fokozott biztonságú elektronikus aláíró tanúsítvánnyal hitelesítve, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerének „Adatszolgáltatás” megnevezésű szolgáltatásán keresztül nyújtja be az MNB-nek.
-
-(2) Ha a felügyeleti díj fizetésre kötelezett átmenetileg nem rendelkezik hozzáféréssel az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszeréhez, akkor a felügyeleti változó díj bevallását papír alapon is benyújthatja.

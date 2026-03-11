@@ -1,1 +1,0 @@
-3. § A felügyeleti díj fizetésére kötelezett a felügyeleti változó díj bevallását törvény eltérő rendelkezése hiányában az 1. melléklet II. pontjában előírt tartalommal és formában, a 2. mellékletben meghatározott kitöltési előírások szerint teljesíti.
