@@ -1,0 +1,94 @@
+# A Kormány 1083/2026. (III. 12.) Korm. határozata
+
+Magyar Közlöny 2026. évi 27. szám, 2026. március 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pXLO4NCyUv8X0bJBhhYR69a892eae395d/dokumentumok/27b592d74058eaf25d9957661960424300256d43/letoltes)
+
+---
+
+A Kormány 1083/2026. (III. 12.) Korm. határozata
+az ideiglenes védelemre jogosult tanulók fejlesztéséről, neveléséről-oktatásáról szóló program
+folytatásához szükséges forrásbiztosításról
+A Kormány
+1. egyetért a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 37/T. §
+(1) bekezdésében, valamint a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet
+341/A. §-ában meghatározott feltételeknek megfelelő tanulók fejlesztésének, nevelésének-oktatásának folytatása
+érdekében a köznevelési intézmények, valamint a szakképző intézmények fenntartói részére szükséges forrás
+biztosításával;
+2. egyetért azzal, hogy az 1. pontban foglalt cél megvalósítása érdekében az alapellátáson felüli feladatellátás
+fedezetére szolgáló kiegészítő támogatásként havonta a tanulók havi átlaglétszáma alapján 130 000 forint/fő/hó
+fajlagos összeg kerüljön megállapításra 2026. január 1-jétől, amely abban az esetben illeti meg a fenntartót,
+ha a tanuló számára az adott hónapban az alapellátáson felüli heti öt óra egyéni felkészítést biztosította;
+3. felhívja a belügyminisztert, hogy az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.)
+33. § (4b) bekezdése szerint a tankerületi központok által fenntartott köznevelési intézmények esetében
+a Klebelsberg Központ által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok alapján
+tárgyhó 5. napjáig kezdeményezze a nemzetgazdasági miniszternél a 2. pontban foglalt fajlagos összeggel
+számított forrás átcsoportosításának engedélyezését a Magyarország 2026. évi központi költségvetéséről szóló
+2025. évi LXIX. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű
+előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési
+támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 15. Klebelsberg Központ cím
+javára;
+Felelős: belügyminiszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+4. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a kultúráért és innovációért felelős miniszter
+bevonásával – a szakképzésért felelős miniszter által alapított szakképzési centrumok részeként működő szakképző
+intézmények esetében a Kulturális és Innovációs Minisztérium által összesített, oktatási nyilvántartásokkal
+egyeztetett igénylési adatok alapján tárgyhó 5. napjáig kezdeményezze a nemzetgazdasági miniszternél
+a 2. pontban foglalt fajlagos összeggel számított forrás átcsoportosítását a Kvtv. 1. melléklet XIV. Belügyminisztérium
+fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú
+humánszolgáltatás és működési támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs
+Minisztérium fejezet, 6. Szakképzési Centrumok cím javára;
+Felelős: kultúráért és innovációért felelős miniszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+5. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a kultúráért és innovációért felelős miniszter
+bevonásával – az állami fenntartású felsőoktatási intézmények köznevelési és szakképző intézményei esetében
+– a 8. pontban foglalt kivétellel – a Kulturális és Innovációs Minisztérium által összesített, oktatási nyilvántartásokkal
+egyeztetett igénylési adatok alapján tárgyhó 5. napjáig kezdeményezze a nemzetgazdasági miniszternél
+a 2. pontban foglalt fajlagos összeggel számított forrás átcsoportosítását a Kvtv. 1. melléklet XIV. Belügyminisztérium
+fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú
+humánszolgáltatás és működési támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs
+Minisztérium fejezet, 7. Egyetemek, főiskolák cím javára;
+Felelős: belügyminiszter
+kultúráért és innovációért felelős miniszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során
+6. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a kultúráért és innovációért felelős miniszter
+bevonásával – az egyházi fenntartású felsőoktatási intézmények, valamint a közfeladatot ellátó közérdekű
+vagyonkezelő alapítvány által fenntartott felsőoktatási intézmények köznevelési és szakképző intézményei esetében
+a Kulturális és Innovációs Minisztérium által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok
+alapján tárgyhó 5. napjáig kezdeményezze a nemzetgazdasági miniszternél a 2. pontban foglalt fajlagos összeggel
+
+számított forrás átcsoportosítását a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű
+előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési
+támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti
+kezelésű előirányzatok cím, 12. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása
+jogcímcsoport javára;
+Felelős: belügyminiszter
+kultúráért és innovációért felelős miniszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során
+7. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – az agrárminiszter bevonásával –
+az Agrárminisztérium által fenntartott köznevelési és szakképző intézmények esetében az Agrárminisztérium által
+összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok alapján tárgyhó 5. napjáig kezdeményezze
+a nemzetgazdasági miniszternél a 2. pontban foglalt fajlagos összeggel számított forrás átcsoportosítását
+a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Köznevelési
+feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési támogatás jogcímcsoport terhére,
+a Kvtv. 1. melléklet XII. Agrárminisztérium fejezet, 6. Mezőgazdasági középfokú szakoktatás intézményei cím javára;
+Felelős: belügyminiszter
+agrárminiszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+8. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a Miniszterelnökséget vezető miniszter
+bevonásával – a Nemzeti Közszolgálati Egyetem által fenntartott köznevelési és szakképző intézmények esetében
+a Nemzeti Közszolgálati Egyetem által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok
+alapján, a Miniszterelnökséget vezető miniszter egyidejű tájékoztatásával, tárgyhó 5. napjáig kezdeményezze
+a nemzetgazdasági miniszternél a 2. pontban foglalt fajlagos összeggel számított forrás átcsoportosítását
+a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Köznevelési
+feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési támogatás jogcímcsoport terhére,
+a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 14. Nemzeti Közszolgálati Egyetem cím javára.
+Felelős: belügyminiszter
+Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+ Orbán Viktor s. k.,
+ miniszterelnök
