@@ -1,1 +1,3 @@
-6. § Az R2. 1. §-ában az „(a továbbiakban: Kt.), valamint” szövegrész helyébe az „(a továbbiakban: Kt.), a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény (a továbbiakban: Büat.), valamint” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

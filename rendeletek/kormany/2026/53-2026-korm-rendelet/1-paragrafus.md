@@ -4,6 +4,6 @@
 
 ## 1. A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet módosítása
 
-1. § A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet (a továbbiakban: R1.) 2. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) E rendelet hatálya nem terjed ki az olyan, kizárólag automata kútból álló üzemanyagtöltő állomásokra, ahol a védett áras termékre való jogosultság ember általi személyes ellenőrzése nem biztosított.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
