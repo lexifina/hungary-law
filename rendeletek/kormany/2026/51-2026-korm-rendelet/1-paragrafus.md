@@ -7,3 +7,7 @@
 a) az MSZ-EN 228 jelű szabványban meghatározott ESZ-95-ös minőségi fokozatú benzin után, amely nem teljesíti az ESZ-98-as fokozat minőségi követelményi szintjét, a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 110. § (1) bekezdés a) pont aa) alpontjától és (4) bekezdés a) pontjától eltérően 139 550 Ft / ezer liter,
 
 b) az MSZ-EN 590 jelű szabványban meghatározott 2710 20 11 KN-kódú gázolaj után, a Jöt. 110. § (1) bekezdés c) pont ca) alpontjától és (4) bekezdés a) pontjától eltérően 128 280 Ft / ezer liter.
+
+c)[^2] a Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék készletéből felszabadított 2710 19 44 KN-kódú gázolaj után, a Jöt. 110. § (1) bekezdés c) pont ca) alpontjától és (4) bekezdés a) pontjától eltérően 128 280 Ft / ezer liter.
+
+[^2]: Az 1. § c) pontját az 58/2026. (III. 12.) Korm. rendelet 6. §-a iktatta be.
