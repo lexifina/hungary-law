@@ -1,4 +1,4 @@
-4/O. §[^69] (1) A 2. mellékletben foglalt táblázat 144. sora szerinti beruházással érintett ingatlanokon és az abból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+4/O. §[^72] (1) A 2. mellékletben foglalt táblázat 144. sora szerinti beruházással érintett ingatlanokon és az abból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -38,4 +38,4 @@ a) a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-vára
 
 b) a TÉKA 5. melléklete szerint meghatározott számú kerékpár legalább 60%-ának elhelyezését kell biztosítani.
 
-[^69]: A 4/O. §-t a 444/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^72]: A 4/O. §-t a 444/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

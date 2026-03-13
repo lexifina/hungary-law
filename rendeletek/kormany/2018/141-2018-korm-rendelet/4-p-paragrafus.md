@@ -1,4 +1,4 @@
-4/P. §[^70] (1) A 2. mellékletben foglalt táblázat 146. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+4/P. §[^73] (1) A 2. mellékletben foglalt táblázat 146. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -10,4 +10,4 @@ a) az elő-, oldal- és hátsókertben közmű-becsatlakozási műtárgy, közm�
 
 b) az épületmagasság a telepítendő technológia vagy technológiai szempontból szükséges építményrészek esetében legfeljebb 20,0 méterig növelhető.
 
-[^70]: A 4/P. §-t a 446/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^73]: A 4/P. §-t a 446/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-5/F. §[^88] (1) A 2. mellékletben foglalt táblázat B:95 mezőjében megjelölt ingatlanra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/F. §[^91] (1) A 2. mellékletben foglalt táblázat B:95 mezőjében megjelölt ingatlanra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -24,7 +24,7 @@ b) személygépkocsi-várakozóhelyet nem kell biztosítani,
 
 c) autóbusz-várakozóhelyet nem kell biztosítani.
 
-(4)[^89] A 2. mellékletben foglalt táblázat 95. sora szerinti beruházás esetében a Kormány az 1. melléklet 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
+(4)[^92] A 2. mellékletben foglalt táblázat 95. sora szerinti beruházás esetében a Kormány az 1. melléklet 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
 
-[^88]: Az 5/F. §-t a 152/2022. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
-[^89]: Az 5/F. § (4) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 222. § a) pontja szerint módosított szöveg.
+[^91]: Az 5/F. §-t a 152/2022. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
+[^92]: Az 5/F. § (4) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 222. § a) pontja szerint módosított szöveg.

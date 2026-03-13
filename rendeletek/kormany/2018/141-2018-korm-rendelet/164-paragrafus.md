@@ -1,4 +1,4 @@
-164. §[^585] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 220/2025. (VII. 24.) Korm. rendelettel (a továbbiakban: Módr156.) megállapított 4/J. §-át, valamint módosított 2. mellékletében foglalt táblázat 113. sorát a Módr156. hatálybalépésekor[^586] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+164. §[^588] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 220/2025. (VII. 24.) Korm. rendelettel (a továbbiakban: Módr156.) megállapított 4/J. §-át, valamint módosított 2. mellékletében foglalt táblázat 113. sorát a Módr156. hatálybalépésekor[^589] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^585]: A 164. §-t a 220/2025. (VII. 24.) Korm. rendelet 2. §-a iktatta be.
-[^586]: A hatálybalépés időpontja 2025. július 25.
+[^588]: A 164. §-t a 220/2025. (VII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^589]: A hatálybalépés időpontja 2025. július 25.
