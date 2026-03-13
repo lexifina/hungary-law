@@ -10,6 +10,6 @@
 
 (5) Az üzemanyagtöltő állomás az üzemeltető szokásos nyitvatartási ideje szerinti nyitvatartási idejénél rövidebb nyitvatartási időt nem alkalmazhat. Amennyiben az üzemanyagtöltő állomás szokásos nyitvatartási ideje nem állapítható meg, úgy az engedély szerinti nyitvatartási időt kell figyelembe venni.
 
-(6)[^4] Az üzemanyagtöltő állomás üzemeltetője a védett árra jogosult gépjárművének töltését köteles biztosítani.
+(6)[^6] Az üzemanyagtöltő állomás üzemeltetője a védett árra jogosult gépjárművének töltését köteles biztosítani.
 
-[^4]: A 7. § (6) bekezdése az 53/2026. (III. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^6]: A 7. § (6) bekezdése az 53/2026. (III. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
