@@ -1,22 +1,1834 @@
-## Nemzetgazdasági szempontból kiemelt jelentőségű projektek
+|  | A | B | C | D | E | F |
 
-|  | A | B | C | D |
+| 1. | Sorszám | Név | Pontsorszám | EOV Y | EOV X | Település |
 
-| 1. | A projekt elnevezése | A projekttel érintett települések | A projekt tartalma | Koordinációra kijelölt főispán |
+| 2. | 1 | KM-1 | 1 | 855507 | 305378 | Kemecse |
 
-| 2. | A Kiskunsági főcsatorna és a Duna-völgyi főcsatorna vízkészlet növelése | Alsónémedi, Akasztó, Apaj, Bugyi, Császártöltés, Dabas, Dömsöd, Dunapataj, Dunatetétlen, Dunavecse, Fülöpszállás, Hajós, Harta, Homokmégy, Kecel, Kiskőrös, Kiskunlacháza, Kunpeszér, Kunszentmiklós, Öregcsertő, Solt, Soltszentimre, Szabadszállás, Szakmár, Szalkszentmárton, Tass | A projekt egyrészt 51 km hosszúságú nyíltfelszínű csatorna rekonstrukciójára, valamint vízkormányzást biztosító műtárgyak és szivattyútelepek felújítására irányul. A projekt másrészt a Kiskunsági-főcsatorna, a Duna-völgyi-főcsatorna és az ahhoz tartozó főművi csatornák mederrendezésére szolgál (összesen 229 km hosszúságban). | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 3. | 2 | 855587 | 305347 | Kemecse |
 
-| 3. | Északi regionális vízpótlás és vízvisszatartás | Alsónémedi, Abony, Albertirsa, Bugyi, Cegléd, Ceglédbercel, Csemő, Csévharaszt, Csongrád, Dabas, Dánszentmiklós, Dunaharaszti, Gátér, Hernád, Inárcs, Jászkarajenő, Kakucs, Kecskemét, Kiskunfélegyháza, Kocsér, Kőröstetétlen, Kunpeszér, Lajosmizse, Lakitelek, Mikebuda, Nagykőrös, Nagyrév, Nyárlőrinc, Nyársapát, Ócsa, Örkény, Pusztavacs, Szentkirály, Táborfalva, Taksony, Tatárszentgyörgy, Tiszaalpár, Tiszajenő, Tiszakécske, Tiszavárkony, Tószeg, Törtel, Újhartyán, Újlengyel | A projekt a Homokhátság északi gerincének vízpótlását szolgálja, a Duna–Tisza-csatorna rekonstrukciójával és kapacitása bővítésével, víztározó és vízellátó gerinc építésével, Dunaharasztinál új vízszintszabályozó komplex műtárgy létesítésével. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 4. | 3 | 855559 | 305276 | Kemecse |
 
-| 4. | Keleti vízpótlás és vízvisszatartás | Lakitelek, Nyárlőrinc, Szentkirály, Tiszaalpár, Tiszasas, Tiszaug | A projekt a Tisza vízkészletének felvezetésével a Homokhátság keleti részének vízpótlását szolgálja. Lakitelek és Szentkirály vízellátásához egy új tiszai vízkivétel létesül 2,0 m3/s vízhozammal. Továbbá kapacitásbővítéssel átépül a lakiteleki öntözőcsatorna. Tiszaalpár és Nyárlőrinc vízellátása érdekében átépül az egykori tiszaalpári vízellátó rendszer, amelynek keretében létesül egy új tiszai vízkivételi szivattyútelep 2,6 m3/s vízhozammal. Megvalósul a holtágrendszer (Szikrai-Holt-Tisza-összekötő csatorna – Alpári-Holt-Tisza) mederkotrása 3,2 km hosszúságban, valamint 160 ha területű tározó is létesül. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 5. | 4 | 855479 | 305308 | Kemecse |
 
-| 5. | Kígyós rendszer vízpótlása | Bócsa, Bácsalmás, Bácsbokod, Bácsborsód, Bácsszőlős, Borota, Császártöltés, Csávoly, Érsekhalma, Fajsz, Felsőszentiván, Hajós, Jánoshalma, Kaskantyú, Katymár, Kéleshalom, Kiskunhalas, Kunfehértó, Madaras, Mátételke, Mélykút, Miske, Pirtó, Rém, Soltvadkert, Tataháza, Tázlár | A projekt a Büdös-tói-csatorna és a csatlakozó csatornák felülvizsgálatára és rekonstrukciójára irányul (16,8 km hosszúságban). Ezen kívül a projektben a Kígyós-vízrendszer (Felső-Bácska) vízellátásának fejlesztése is megvalósul. A dunai vízkivételhez kapcsolódó fejlesztés az aszály okozta károkat mérsékli. A projektben új tározók is létesülnek 113 ha területtel és 2,3 millió m3 kapacitással. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 6. | 2 | KM-14 | 1 | 856831 | 290801 | Nyíregyháza |
 
-| 6. | Déli regionális vízpótlás | Ásotthalom, Baks, Balástya, Balotaszállás, Bócsa, Bordány, Bugac, Bugacpusztaháza, Csanytelek, Csengele, Csólyospálos, Domaszék, Forráskút, Harkakötöny, Jászszentlászló, Kelebia, Kiskunhalas, Kiskunmajsa, Kistelek, Kisszállás, Kömpöc, Kunfehértó, Mórahalom, Pálmonostora, Petőfiszállás, Pirtó, Pusztamérges, Röszke, Ruzsa, Szank, Szatymaz, Tázlár, Tömörkény, Üllés, Zákányszék, Zsana, Zsombó | A projekt a meglévő vízhálózat vízkormányzási feltételeinek javítása mellett megteremti Kiskunmajsa és Kistelek térségében a vízvisszatartás lehetőségét, 21 új, összesen 1850 ha, 28,0 millió m3 kapacitású puffertározó és 18 ökológiai tározó létesítésével. E tározókból valósulna meg Bács-Kiskun vármegye és Csongrád-Csanád vármegye mély fekvésű területeinek vízellátása. A hiányzó vízkészletet a tervezett dunai vízkivétel biztosítja. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 7. | 2 | 856921 | 290789 | Nyíregyháza |
 
-| 7. | Közép-homokhátsági szikes tavak vízpótlása | Ágasegyháza, Csengőd, Fülöpháza, Fülöpszállás, Izsák, Kunadacs, Orgovány, Páhi, Soltszentimre, Szabadszállás | A projekt a Közép-Homokhátság területén az élővilág megőrzését és természetes élőhelyek kiterjesztését szolgálja, vízvisszatartással és vízpótlással a Duna-völgyi-főcsatornából. A vízkivétel érdekében a DVCS-n Fülöpszállás térségében egy új duzzasztómű létesül. A szikes tavak a meglévő felszíni csatornahálózaton keresztül, illetve közvetlenül az újonnan létesítendő nyomócsőről táplálhatók. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 8. | 3 | 856908 | 290687 | Nyíregyháza |
 
-| 8. | Új dunai fővízkivételi szivattyútelep létesítése a déli területek vízpótlásához | Fajsz, Császártöltés, Hajós, Kéleshalom, Kiskunhalas, Kunfehértó, Miske | A projekt új dunai vízkivételi mű kialakítását célozza Fajsz településen. A Duna vize a vízkivételi helytől új létesítésű nyomóvezetéken és nyomócsövön át jut el a célterületekre. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+| 9. | 4 | 856818 | 290698 | Nyíregyháza |
+
+| 10. | 3 | KM-15 | 1 | 856827 | 289791 | Nyíregyháza |
+
+| 11. | 2 | 856900 | 289803 | Nyíregyháza |
+
+| 12. | 3 | 856914 | 289726 | Nyíregyháza |
+
+| 13. | 4 | 856841 | 289714 | Nyíregyháza |
+
+| 14. | 4 | KM-16 | 1 | 857683 | 284254 | Nagykálló |
+
+| 15. | 2 | 857733 | 284254 | Nagykálló |
+
+| 16. | 3 | 857733 | 284199 | Nagykálló |
+
+| 17. | 4 | 857683 | 284199 | Nagykálló |
+
+| 18. | 5 | KM-17 | 1 | 857653 | 283220 | Nagykálló |
+
+| 19. | 2 | 857729 | 283212 | Nagykálló |
+
+| 20. | 3 | 857722 | 283149 | Nagykálló |
+
+| 21. | 4 | 857646 | 283157 | Nagykálló |
+
+| 22. | 6 | KM-18 | 1 | 857653 | 282820 | Nagykálló |
+
+| 23. | 2 | 857710 | 282826 | Nagykálló |
+
+| 24. | 3 | 857716 | 282764 | Nagykálló |
+
+| 25. | 4 | 857660 | 282758 | Nagykálló |
+
+| 26. | 7 | KM-19 | 1 | 857761 | 282272 | Nagykálló |
+
+| 27. | 2 | 857829 | 282293 | Nagykálló |
+
+| 28. | 3 | 857854 | 282212 | Nagykálló |
+
+| 29. | 4 | 857785 | 282191 | Nagykálló |
+
+| 30. | 8 | KM-2 | 1 | 856054 | 302196 | Nyírtura |
+
+| 31. | 2 | 856193 | 302153 | Nyírtura |
+
+| 32. | 3 | 856153 | 302032 | Nyírtura |
+
+| 33. | 4 | 856013 | 302075 | Nyírtura |
+
+| 34. | 9 | KM-20 | 1 | 857437 | 281124 | Nagykálló |
+
+| 35. | 2 | 857513 | 281100 | Nagykálló |
+
+| 36. | 3 | 857490 | 281029 | Nagykálló |
+
+| 37. | 4 | 857414 | 281053 | Nagykálló |
+
+| 38. | 10 | KM-22 | 1 | 857305 | 274795 | Balkány |
+
+| 39. | 2 | 857343 | 274852 | Balkány |
+
+| 40. | 3 | 857407 | 274811 | Balkány |
+
+| 41. | 4 | 857370 | 274753 | Balkány |
+
+| 42. | 11 | KM-23 | 1 | 857789 | 274543 | Balkány |
+
+| 43. | 2 | 857826 | 274601 | Balkány |
+
+| 44. | 3 | 857890 | 274560 | Balkány |
+
+| 45. | 4 | 857853 | 274502 | Balkány |
+
+| 46. | 12 | KM-24 | 1 | 858161 | 274135 | Balkány |
+
+| 47. | 2 | 858247 | 274162 | Balkány |
+
+| 48. | 3 | 858273 | 274082 | Balkány |
+
+| 49. | 4 | 858187 | 274055 | Balkány |
+
+| 50. | 13 | KM-25 | 1 | 858253 | 273509 | Balkány |
+
+| 51. | 2 | 858302 | 273509 | Balkány |
+
+| 52. | 3 | 858302 | 273450 | Balkány |
+
+| 53. | 4 | 858253 | 273450 | Balkány |
+
+| 54. | 14 | KM-3 | 1 | 856185 | 299963 | Nyírtura |
+
+| 55. | 2 | 856313 | 299992 | Nyírtura |
+
+| 56. | 3 | 856340 | 299876 | Nyírtura |
+
+| 57. | 4 | 856212 | 299847 | Nyírtura |
+
+| 58. | 15 | KM-35 | 1 | 856010 | 296073 | Nyíregyháza |
+
+| 59. | 2 | 856033 | 296079 | Nyíregyháza |
+
+| 60. | 3 | 856040 | 296052 | Nyíregyháza |
+
+| 61. | 4 | 856018 | 296045 | Nyíregyháza |
+
+| 62. | 16 | KM-36 | 1 | 856192 | 295029 | Nyíregyháza |
+
+| 63. | 2 | 856259 | 295041 | Nyíregyháza |
+
+| 64. | 3 | 856270 | 294983 | Nyíregyháza |
+
+| 65. | 4 | 856202 | 294971 | Nyíregyháza |
+
+| 66. | 17 | KM-4 | 1 | 856746 | 292760 | Nyíregyháza |
+
+| 67. | 2 | 856847 | 292717 | Nyíregyháza |
+
+| 68. | 3 | 856809 | 292626 | Nyíregyháza |
+
+| 69. | 4 | 856709 | 292668 | Nyíregyháza |
+
+| 70. | 18 | KM-5 | 1 | 857366 | 291755 | Nyíregyháza |
+
+| 71. | 2 | 857448 | 291774 | Nyíregyháza |
+
+| 72. | 3 | 857460 | 291723 | Nyíregyháza |
+
+| 73. | 4 | 857378 | 291705 | Nyíregyháza |
+
+| 74. | 19 | KM-53 | 1 | 857860 | 293322 | Nyíregyháza |
+
+| 75. | 2 | 857918 | 293322 | Nyíregyháza |
+
+| 76. | 3 | 857918 | 293261 | Nyíregyháza |
+
+| 77. | 4 | 857860 | 293261 | Nyíregyháza |
+
+| 78. | 20 | KM-54 | 1 | 857828 | 292743 | Nyíregyháza |
+
+| 79. | 2 | 857912 | 292743 | Nyíregyháza |
+
+| 80. | 3 | 857912 | 292659 | Nyíregyháza |
+
+| 81. | 4 | 857828 | 292659 | Nyíregyháza |
+
+| 82. | 21 | KM-55 | 1 | 854736 | 299383 | Nyírpazony |
+
+| 83. | 2 | 854798 | 299361 | Nyírpazony |
+
+| 84. | 3 | 854778 | 299303 | Nyírpazony |
+
+| 85. | 4 | 854716 | 299325 | Nyírpazony |
+
+| 86. | 22 | KM-6 | 1 | 857978 | 290752 | Nyíregyháza |
+
+| 87. | 2 | 858058 | 290776 | Nyíregyháza |
+
+| 88. | 3 | 858082 | 290695 | Nyíregyháza |
+
+| 89. | 4 | 858001 | 290671 | Nyíregyháza |
+
+| 90. | 23 | M-06 | 1 | 864888 | 300912 | Nyírtét |
+
+| 91. | 2 | 864971 | 300927 | Nyírtét |
+
+| 92. | 3 | 864995 | 300823 | Nyírtét |
+
+| 93. | 4 | 864912 | 300809 | Nyírtét |
+
+| 94. | 24 | M-09 | 1 | 863608 | 304359 | Székely |
+
+| 95. | 2 | 863732 | 304298 | Székely |
+
+| 96. | 3 | 863671 | 304173 | Székely |
+
+| 97. | 4 | 863547 | 304234 | Székely |
+
+| 98. | 25 | M-1 | 1 | 848749 | 299704 | Nyíregyháza |
+
+| 99. | 2 | 848819 | 299711 | Nyíregyháza |
+
+| 100. | 3 | 848825 | 299658 | Nyíregyháza |
+
+| 101. | 4 | 848755 | 299651 | Nyíregyháza |
+
+| 102. | 26 | M-11 | 1 | 863790 | 302980 | Nyírtét |
+
+| 103. | 2 | 863908 | 303005 | Nyírtét |
+
+| 104. | 3 | 863933 | 302886 | Nyírtét |
+
+| 105. | 4 | 863815 | 302861 | Székely |
+
+| 106. | 27 | M-12 | 1 | 864204 | 301917 | Nyírtét |
+
+| 107. | 2 | 864362 | 301968 | Nyírtét |
+
+| 108. | 3 | 864414 | 301806 | Nyírtét |
+
+| 109. | 4 | 864257 | 301755 | Nyírtét |
+
+| 110. | 28 | M-13 | 1 | 864683 | 301075 | Nyírtét |
+
+| 111. | 2 | 864747 | 301178 | Nyírtét |
+
+| 112. | 3 | 864873 | 301094 | Nyírtét |
+
+| 113. | 4 | 864809 | 300991 | Nyírtét |
+
+| 114. | 29 | M-17 | 1 | 863476 | 309072 | Demecser |
+
+| 115. | 2 | 863614 | 309072 | Demecser |
+
+| 116. | 3 | 863614 | 308933 | Demecser |
+
+| 117. | 4 | 863476 | 308933 | Demecser |
+
+| 118. | 30 | M-18 | 1 | 863502 | 307123 | Nyírbogdány |
+
+| 119. | 2 | 863584 | 307154 | Nyírbogdány |
+
+| 120. | 3 | 863615 | 307074 | Nyírbogdány |
+
+| 121. | 4 | 863533 | 307042 | Nyírbogdány |
+
+| 122. | 31 | M-19 | 1 | 863827 | 306190 | Nyírbogdány |
+
+| 123. | 2 | 863920 | 306190 | Nyírbogdány |
+
+| 124. | 3 | 863920 | 306074 | Nyírbogdány |
+
+| 125. | 4 | 863827 | 306074 | Nyírbogdány |
+
+| 126. | 32 | M-2 | 1 | 849762 | 288201 | Nyíregyháza |
+
+| 127. | 2 | 849863 | 288184 | Nyíregyháza |
+
+| 128. | 3 | 849845 | 288083 | Nyíregyháza |
+
+| 129. | 4 | 849744 | 288101 | Nyíregyháza |
+
+| 130. | 33 | M-20 | 1 | 863904 | 305485 | Székely |
+
+| 131. | 2 | 864009 | 305523 | Székely |
+
+| 132. | 3 | 864046 | 305421 | Székely |
+
+| 133. | 4 | 863941 | 305382 | Székely |
+
+| 134. | 34 | M-27 | 1 | 865992 | 299255 | Nyíribrony |
+
+| 135. | 2 | 866081 | 299318 | Nyíribrony |
+
+| 136. | 3 | 866147 | 299224 | Nyíribrony |
+
+| 137. | 4 | 866057 | 299161 | Nyíribrony |
+
+| 138. | 35 | M-3 | 1 | 848948 | 286605 | Nyíregyháza |
+
+| 139. | 2 | 849017 | 286590 | Nyíregyháza |
+
+| 140. | 3 | 849013 | 286509 | Nyíregyháza |
+
+| 141. | 4 | 848927 | 286527 | Nyíregyháza |
+
+| 142. | 36 | M-6 | 1 | 846250 | 303606 | Kótaj |
+
+| 143. | 2 | 846349 | 303606 | Kótaj |
+
+| 144. | 3 | 846349 | 303510 | Kótaj |
+
+| 145. | 4 | 846250 | 303510 | Kótaj |
+
+| 146. | 37 | M-7 | 1 | 845627 | 294206 | Nyíregyháza |
+
+| 147. | 2 | 845681 | 294193 | Nyíregyháza |
+
+| 148. | 3 | 845669 | 294143 | Nyíregyháza |
+
+| 149. | 4 | 845616 | 294155 | Nyíregyháza |
+
+| 150. | 38 | ML-1 | 1 | 842306 | 308999 | Buj |
+
+| 151. | 2 | 842408 | 309071 | Buj |
+
+| 152. | 3 | 842567 | 308874 | Buj |
+
+| 153. | 4 | 842471 | 308795 | Buj |
+
+| 154. | 39 | ML-2 | 1 | 861423 | 309933 | Kék |
+
+| 155. | 2 | 861512 | 309962 | Kék |
+
+| 156. | 3 | 861527 | 309915 | Kék |
+
+| 157. | 4 | 861438 | 309886 | Kék |
+
+| 158. | 40 | ML-3 | 1 | 866472 | 310378 | Berkesz |
+
+| 159. | 2 | 866552 | 310416 | Berkesz |
+
+| 160. | 3 | 866581 | 310356 | Berkesz |
+
+| 161. | 4 | 866499 | 310321 | Berkesz |
+
+| 162. | 41 | MV-1 | 1 | 868387 | 310818 | Berkesz |
+
+| 163. | 2 | 868484 | 310841 | Berkesz |
+
+| 164. | 3 | 868506 | 310745 | Berkesz |
+
+| 165. | 4 | 868409 | 310722 | Berkesz |
+
+| 166. | 42 | MV-2 | 1 | 870938 | 307512 | Laskod |
+
+| 167. | 2 | 871034 | 307472 | Laskod |
+
+| 168. | 3 | 870991 | 307369 | Laskod |
+
+| 169. | 4 | 870896 | 307408 | Laskod |
+
+| 170. | 43 | MV-3 | 1 | 871338 | 306349 | Laskod |
+
+| 171. | 2 | 871402 | 306433 | Laskod |
+
+| 172. | 3 | 871492 | 306365 | Laskod |
+
+| 173. | 4 | 871428 | 306281 | Laskod |
+
+| 174. | 44 | MV-4 | 1 | 872026 | 305245 | Laskod |
+
+| 175. | 2 | 872137 | 305282 | Laskod |
+
+| 176. | 3 | 872172 | 305180 | Laskod |
+
+| 177. | 4 | 872061 | 305142 | Laskod |
+
+| 178. | 45 | OROS-ÚRBÉRES TÁROZÓ | 1 | 857155 | 296778 | Nyíregyháza |
+
+| 179. | 2 | 857051 | 296892 | Nyíregyháza |
+
+| 180. | 3 | 857111 | 296978 | Nyíregyháza |
+
+| 181. | 4 | 857114 | 297062 | Nyíregyháza |
+
+| 182. | 5 | 856992 | 297193 | Nyíregyháza |
+
+| 183. | 6 | 856992 | 297240 | Nyíregyháza |
+
+| 184. | 7 | 857105 | 297338 | Nyíregyháza |
+
+| 185. | 8 | 857205 | 297366 | Nyíregyháza |
+
+| 186. | 9 | 857219 | 297368 | Nyíregyháza |
+
+| 187. | 10 | 857237 | 297371 | Nyíregyháza |
+
+| 188. | 11 | 857305 | 297176 | Nyíregyháza |
+
+| 189. | 12 | 857332 | 297140 | Nyíregyháza |
+
+| 190. | 13 | 857361 | 297105 | Nyíregyháza |
+
+| 191. | 14 | 857363 | 297103 | Nyíregyháza |
+
+| 192. | 15 | 857435 | 297031 | Nyíregyháza |
+
+| 193. | 16 | 857506 | 296978 | Nyíregyháza |
+
+| 194. | 17 | 857552 | 296948 | Nyíregyháza |
+
+| 195. | 18 | 857736 | 296844 | Nyíregyháza |
+
+| 196. | 19 | 857769 | 296823 | Nyíregyháza |
+
+| 197. | 20 | 857792 | 296808 | Nyíregyháza |
+
+| 198. | 21 | 857898 | 296739 | Nyíregyháza |
+
+| 199. | 22 | 857952 | 296689 | Nyíregyháza |
+
+| 200. | 23 | 858015 | 296618 | Nyíregyháza |
+
+| 201. | 24 | 858063 | 296566 | Nyíregyháza |
+
+| 202. | 25 | 858066 | 296563 | Nyíregyháza |
+
+| 203. | 26 | 858107 | 296555 | Nyíregyháza |
+
+| 204. | 27 | 858175 | 296554 | Nyíregyháza |
+
+| 205. | 28 | 858166 | 296516 | Nyíregyháza |
+
+| 206. | 29 | 858166 | 296509 | Nyíregyháza |
+
+| 207. | 30 | 858167 | 296503 | Nyíregyháza |
+
+| 208. | 31 | 858171 | 296463 | Nyíregyháza |
+
+| 209. | 32 | 858176 | 296420 | Nyíregyháza |
+
+| 210. | 33 | 858197 | 296342 | Nyíregyháza |
+
+| 211. | 34 | 858197 | 296299 | Nyíregyháza |
+
+| 212. | 35 | 858160 | 296170 | Nyíregyháza |
+
+| 213. | 36 | 858147 | 296128 | Nyíregyháza |
+
+| 214. | 37 | 858144 | 296128 | Nyíregyháza |
+
+| 215. | 38 | 858062 | 295934 | Nyíregyháza |
+
+| 216. | 39 | 857954 | 295803 | Nyíregyháza |
+
+| 217. | 40 | 857988 | 295656 | Nyíregyháza |
+
+| 218. | 41 | 857982 | 295575 | Nyíregyháza |
+
+| 219. | 42 | 857959 | 295538 | Nyíregyháza |
+
+| 220. | 43 | 857925 | 295509 | Nyíregyháza |
+
+| 221. | 44 | 857915 | 295487 | Nyíregyháza |
+
+| 222. | 45 | 857917 | 295316 | Nyíregyháza |
+
+| 223. | 46 | 857940 | 295220 | Nyíregyháza |
+
+| 224. | 47 | 857924 | 294903 | Nyíregyháza |
+
+| 225. | 48 | 857874 | 294906 | Nyíregyháza |
+
+| 226. | 49 | 857879 | 294804 | Nyíregyháza |
+
+| 227. | 50 | 857851 | 294721 | Nyíregyháza |
+
+| 228. | 51 | 857786 | 294674 | Nyíregyháza |
+
+| 229. | 52 | 857728 | 294663 | Nyíregyháza |
+
+| 230. | 53 | 857727 | 294645 | Nyíregyháza |
+
+| 231. | 54 | 857725 | 294623 | Nyíregyháza |
+
+| 232. | 55 | 857723 | 294586 | Nyíregyháza |
+
+| 233. | 56 | 857720 | 294548 | Nyíregyháza |
+
+| 234. | 57 | 857717 | 294501 | Nyíregyháza |
+
+| 235. | 58 | 857713 | 294435 | Nyíregyháza |
+
+| 236. | 59 | 857707 | 294341 | Nyíregyháza |
+
+| 237. | 60 | 857703 | 294279 | Nyíregyháza |
+
+| 238. | 61 | 857678 | 294282 | Nyíregyháza |
+
+| 239. | 62 | 857666 | 294282 | Nyíregyháza |
+
+| 240. | 63 | 857618 | 294285 | Nyíregyháza |
+
+| 241. | 64 | 857555 | 294289 | Nyíregyháza |
+
+| 242. | 65 | 857545 | 294287 | Nyíregyháza |
+
+| 243. | 66 | 857503 | 294290 | Nyíregyháza |
+
+| 244. | 67 | 857503 | 294400 | Nyíregyháza |
+
+| 245. | 68 | 857509 | 294458 | Nyíregyháza |
+
+| 246. | 69 | 857528 | 294509 | Nyíregyháza |
+
+| 247. | 70 | 857642 | 294694 | Nyíregyháza |
+
+| 248. | 71 | 857625 | 294727 | Nyíregyháza |
+
+| 249. | 72 | 857592 | 294794 | Nyíregyháza |
+
+| 250. | 73 | 857572 | 294832 | Nyíregyháza |
+
+| 251. | 74 | 857566 | 294867 | Nyíregyháza |
+
+| 252. | 75 | 857564 | 294900 | Nyíregyháza |
+
+| 253. | 76 | 857572 | 294938 | Nyíregyháza |
+
+| 254. | 77 | 857593 | 295034 | Nyíregyháza |
+
+| 255. | 78 | 857461 | 295044 | Nyíregyháza |
+
+| 256. | 79 | 857381 | 294994 | Nyíregyháza |
+
+| 257. | 80 | 857300 | 295000 | Nyíregyháza |
+
+| 258. | 81 | 857242 | 294946 | Nyíregyháza |
+
+| 259. | 82 | 857114 | 294961 | Nyíregyháza |
+
+| 260. | 83 | 857092 | 294966 | Nyíregyháza |
+
+| 261. | 84 | 857059 | 294971 | Nyíregyháza |
+
+| 262. | 85 | 856996 | 294979 | Nyíregyháza |
+
+| 263. | 86 | 856932 | 294987 | Nyíregyháza |
+
+| 264. | 87 | 856899 | 294991 | Nyíregyháza |
+
+| 265. | 88 | 856842 | 294998 | Nyíregyháza |
+
+| 266. | 89 | 856785 | 295005 | Nyíregyháza |
+
+| 267. | 90 | 856749 | 295022 | Nyíregyháza |
+
+| 268. | 91 | 856735 | 295044 | Nyíregyháza |
+
+| 269. | 92 | 856742 | 295122 | Nyíregyháza |
+
+| 270. | 93 | 856743 | 295131 | Nyíregyháza |
+
+| 271. | 94 | 856746 | 295158 | Nyíregyháza |
+
+| 272. | 95 | 856749 | 295192 | Nyíregyháza |
+
+| 273. | 96 | 856749 | 295193 | Nyíregyháza |
+
+| 274. | 97 | 856751 | 295209 | Nyíregyháza |
+
+| 275. | 98 | 856751 | 295211 | Nyíregyháza |
+
+| 276. | 99 | 856755 | 295249 | Nyíregyháza |
+
+| 277. | 100 | 856759 | 295297 | Nyíregyháza |
+
+| 278. | 101 | 856762 | 295324 | Nyíregyháza |
+
+| 279. | 102 | 856763 | 295334 | Nyíregyháza |
+
+| 280. | 103 | 856769 | 295396 | Nyíregyháza |
+
+| 281. | 104 | 856773 | 295436 | Nyíregyháza |
+
+| 282. | 105 | 856842 | 295433 | Nyíregyháza |
+
+| 283. | 106 | 856899 | 295430 | Nyíregyháza |
+
+| 284. | 107 | 856946 | 295561 | Nyíregyháza |
+
+| 285. | 108 | 856976 | 295568 | Nyíregyháza |
+
+| 286. | 109 | 857106 | 295565 | Nyíregyháza |
+
+| 287. | 110 | 857124 | 295592 | Nyíregyháza |
+
+| 288. | 111 | 857163 | 295748 | Nyíregyháza |
+
+| 289. | 112 | 857302 | 295784 | Nyíregyháza |
+
+| 290. | 113 | 857302 | 295790 | Nyíregyháza |
+
+| 291. | 114 | 857305 | 295873 | Nyíregyháza |
+
+| 292. | 115 | 857345 | 295871 | Nyíregyháza |
+
+| 293. | 116 | 857400 | 296018 | Nyíregyháza |
+
+| 294. | 117 | 857370 | 296154 | Nyíregyháza |
+
+| 295. | 118 | 857370 | 296162 | Nyíregyháza |
+
+| 296. | 119 | 857370 | 296177 | Nyíregyháza |
+
+| 297. | 120 | 857370 | 296183 | Nyíregyháza |
+
+| 298. | 121 | 857370 | 296194 | Nyíregyháza |
+
+| 299. | 122 | 857370 | 296232 | Nyíregyháza |
+
+| 300. | 123 | 857370 | 296253 | Nyíregyháza |
+
+| 301. | 124 | 857370 | 296259 | Nyíregyháza |
+
+| 302. | 125 | 857330 | 296409 | Nyíregyháza |
+
+| 303. | 126 | 857336 | 296481 | Nyíregyháza |
+
+| 304. | 127 | 857367 | 296688 | Nyíregyháza |
+
+| 305. | 128 | 857358 | 296728 | Nyíregyháza |
+
+| 306. | 129 | 857342 | 296772 | Nyíregyháza |
+
+| 307. | 130 | 857311 | 296796 | Nyíregyháza |
+
+| 308. | 131 | 857304 | 296800 | Nyíregyháza |
+
+| 309. | 132 | 857305 | 296790 | Nyíregyháza |
+
+| 310. | 133 | 857247 | 296827 | Nyíregyháza |
+
+| 311. | 134 | 857233 | 296815 | Nyíregyháza |
+
+| 312. | 135 | 857173 | 296760 | Nyíregyháza |
+
+| 313. | 136 | 857783 | 296814 | Nyíregyháza |
+
+| 314. | 137 | 857798 | 297113 | Nyíregyháza |
+
+| 315. | 138 | 857803 | 297205 | Nyíregyháza |
+
+| 316. | 139 | 857782 | 297208 | Nyírtura |
+
+| 317. | 140 | 857767 | 297305 | Nyírtura |
+
+| 318. | 141 | 857729 | 297304 | Nyírtura |
+
+| 319. | 142 | 857722 | 297319 | Nyírtura |
+
+| 320. | 143 | 857718 | 297332 | Nyírtura |
+
+| 321. | 144 | 857714 | 297373 | Nyírtura |
+
+| 322. | 145 | 857709 | 297383 | Nyíregyháza |
+
+| 323. | 146 | 857707 | 297392 | Nyíregyháza |
+
+| 324. | 147 | 857628 | 297381 | Nyíregyháza |
+
+| 325. | 148 | 857596 | 297470 | Nyíregyháza |
+
+| 326. | 149 | 857601 | 297470 | Nyírtura |
+
+| 327. | 150 | 857619 | 297470 | Nyírtura |
+
+| 328. | 151 | 857576 | 297698 | Nyírtura |
+
+| 329. | 152 | 857535 | 297700 | Nyírtura |
+
+| 330. | 153 | 857495 | 297693 | Nyírtura |
+
+| 331. | 154 | 857429 | 297467 | Nyírtura |
+
+| 332. | 155 | 857390 | 297370 | Nyírtura |
+
+| 333. | 156 | 857379 | 297325 | Nyírtura |
+
+| 334. | 157 | 857362 | 297236 | Nyírtura |
+
+| 335. | 158 | 857361 | 297230 | Nyírtura |
+
+| 336. | 159 | 857364 | 297170 | Nyírtura |
+
+| 337. | 160 | 857353 | 297115 | Nyírtura |
+
+| 338. | 161 | 857075 | 294969 | Nyírtura |
+
+| 339. | 162 | 857067 | 294842 | Nyírtura |
+
+| 340. | 163 | 857066 | 294827 | Nyírtura |
+
+| 341. | 164 | 857062 | 294763 | Nyírtura |
+
+| 342. | 165 | 857060 | 294728 | Nyírtura |
+
+| 343. | 166 | 857275 | 294721 | Nyírtura |
+
+| 344. | 167 | 857277 | 294763 | Nyírtura |
+
+| 345. | 168 | 857279 | 294796 | Nyírtura |
+
+| 346. | 169 | 857281 | 294826 | Nyírtura |
+
+| 347. | 170 | 857285 | 294891 | Nyírtura |
+
+| 348. | 171 | 857286 | 294909 | Nyírtura |
+
+| 349. | 172 | 857286 | 294913 | Nyírtura |
+
+| 350. | 173 | 857287 | 294931 | Nyírtura |
+
+| 351. | 174 | 857289 | 294956 | Nyírtura |
+
+| 352. | 175 | 857291 | 294992 | Nyírtura |
+
+| 353. | 46 | T-09-007 | 1 | 845583 | 292651 | Nyíregyháza |
+
+| 354. | 2 | 845644 | 292683 | Nyíregyháza |
+
+| 355. | 3 | 845672 | 292629 | Nyíregyháza |
+
+| 356. | 4 | 845610 | 292598 | Nyíregyháza |
+
+| 357. | 47 | T-3_004 | 1 | 876784 | 303263 | Nyírjákó |
+
+| 358. | 2 | 876836 | 303296 | Nyírjákó |
+
+| 359. | 3 | 876893 | 303209 | Nyírjákó |
+
+| 360. | 4 | 876841 | 303175 | Nyírjákó |
+
+| 361. | 48 | T-3_008/1 | 1 | 867549 | 309001 | Berkesz |
+
+| 362. | 2 | 867716 | 309045 | Berkesz |
+
+| 363. | 3 | 867751 | 308910 | Berkesz |
+
+| 364. | 4 | 867584 | 308866 | Berkesz |
+
+| 365. | 49 | T-3_008/2 | 1 | 867351 | 310641 | Berkesz |
+
+| 366. | 2 | 867430 | 310656 | Berkesz |
+
+| 367. | 3 | 867449 | 310559 | Berkesz |
+
+| 368. | 4 | 867370 | 310543 | Berkesz |
+
+| 369. | 50 | T-3_008/3 | 1 | 867263 | 310649 | Berkesz |
+
+| 370. | 2 | 867344 | 310649 | Berkesz |
+
+| 371. | 3 | 867344 | 310551 | Berkesz |
+
+| 372. | 4 | 867263 | 310551 | Berkesz |
+
+| 373. | 51 | T-3_014 | 1 | 882249 | 296396 | Őr |
+
+| 374. | 2 | 882357 | 296396 | Őr |
+
+| 375. | 3 | 882357 | 296293 | Őr |
+
+| 376. | 4 | 882249 | 296293 | Őr |
+
+| 377. | 52 | T-3_021 | 1 | 881066 | 288953 | Nyírderzs |
+
+| 378. | 2 | 881142 | 289016 | Nyírderzs |
+
+| 379. | 3 | 881197 | 288950 | Nyírderzs |
+
+| 380. | 4 | 881121 | 288887 | Nyírderzs |
+
+| 381. | 53 | T-3_024 | 1 | 875508 | 308529 | Petneháza |
+
+| 382. | 2 | 875551 | 308568 | Petneháza |
+
+| 383. | 3 | 875596 | 308517 | Petneháza |
+
+| 384. | 4 | 875553 | 308477 | Petneháza |
+
+| 385. | 54 | T-3_029 | 1 | 871662 | 305436 | Laskod |
+
+| 386. | 2 | 871752 | 305449 | Laskod |
+
+| 387. | 3 | 871765 | 305358 | Laskod |
+
+| 388. | 4 | 871676 | 305345 | Laskod |
+
+| 389. | 55 | T-3_033 | 1 | 875519 | 307503 | Petneháza |
+
+| 390. | 2 | 875637 | 307486 | Petneháza |
+
+| 391. | 3 | 875622 | 307380 | Petneháza |
+
+| 392. | 4 | 875504 | 307397 | Petneháza |
+
+| 393. | 56 | T-3_039 | 1 | 877107 | 295438 | Ófehértó |
+
+| 394. | 2 | 877212 | 295479 | Ófehértó |
+
+| 395. | 3 | 877251 | 295375 | Ófehértó |
+
+| 396. | 4 | 877147 | 295335 | Ófehértó |
+
+| 397. | 57 | T-3_041 | 1 | 873715 | 302706 | Nyírkércs |
+
+| 398. | 2 | 873817 | 302744 | Nyírkércs |
+
+| 399. | 3 | 873855 | 302645 | Nyírkércs |
+
+| 400. | 4 | 873752 | 302606 | Nyírkércs |
+
+| 401. | 58 | T-3_043 | 1 | 875199 | 300110 | Baktalórántháza |
+
+| 402. | 2 | 875244 | 300095 | Baktalórántháza |
+
+| 403. | 3 | 875226 | 300047 | Baktalórántháza |
+
+| 404. | 4 | 875181 | 300063 | Baktalórántháza |
+
+| 405. | 59 | T-3_053 | 1 | 869707 | 306308 | Ramocsaháza |
+
+| 406. | 2 | 869801 | 306308 | Ramocsaháza |
+
+| 407. | 3 | 869801 | 306209 | Ramocsaháza |
+
+| 408. | 4 | 869707 | 306209 | Ramocsaháza |
+
+| 409. | 60 | T-4_002 | 1 | 864820 | 304834 | Székely |
+
+| 410. | 2 | 864906 | 304865 | Székely |
+
+| 411. | 3 | 864936 | 304782 | Székely |
+
+| 412. | 4 | 864851 | 304750 | Székely |
+
+| 413. | 61 | T-4_003 | 1 | 865521 | 304362 | Székely |
+
+| 414. | 2 | 865605 | 304428 | Székely |
+
+| 415. | 3 | 865674 | 304340 | Székely |
+
+| 416. | 4 | 865590 | 304274 | Székely |
+
+| 417. | 62 | T-4_008 | 1 | 868695 | 301113 | Nyíribrony |
+
+| 418. | 2 | 868976 | 301278 | Nyíribrony |
+
+| 419. | 3 | 869141 | 300995 | Nyírkércs |
+
+| 420. | 4 | 868860 | 300831 | Nyírkércs |
+
+| 421. | 63 | T-4_017/2 | 1 | 875400 | 276828 | Nyírbogát |
+
+| 422. | 2 | 875447 | 276828 | Nyírbogát |
+
+| 423. | 3 | 875447 | 276782 | Nyírbogát |
+
+| 424. | 4 | 875400 | 276782 | Nyírbogát |
+
+| 425. | 64 | T-4_021 | 1 | 864690 | 297735 | Nyírtét |
+
+| 426. | 2 | 864701 | 297657 | Nyírtét |
+
+| 427. | 3 | 864625 | 297646 | Nyírtét |
+
+| 428. | 4 | 864613 | 297724 | Nyírtét |
+
+| 429. | 65 | T-4_026 | 1 | 864132 | 309105 | Demecser |
+
+| 430. | 2 | 864173 | 309120 | Demecser |
+
+| 431. | 3 | 864188 | 309080 | Demecser |
+
+| 432. | 4 | 864147 | 309065 | Demecser |
+
+| 433. | 66 | T-4_029 | 1 | 865956 | 299232 | Nyíribrony |
+
+| 434. | 2 | 866015 | 299147 | Nyírtét |
+
+| 435. | 3 | 865927 | 299086 | Nyírtét |
+
+| 436. | 4 | 865868 | 299171 | Nyírtét |
+
+| 437. | 67 | T-4_032 | 1 | 866078 | 294883 | Apagy |
+
+| 438. | 2 | 866110 | 294883 | Apagy |
+
+| 439. | 3 | 866110 | 294850 | Apagy |
+
+| 440. | 4 | 866078 | 294850 | Apagy |
+
+| 441. | 68 | T-4_035 | 1 | 876380 | 287856 | Nyírgyulaj |
+
+| 442. | 2 | 876401 | 287821 | Nyírgyulaj |
+
+| 443. | 3 | 876369 | 287802 | Nyírgyulaj |
+
+| 444. | 4 | 876349 | 287837 | Nyírgyulaj |
+
+| 445. | 69 | T-4_036 | 1 | 876908 | 287348 | Nyírgyulaj |
+
+| 446. | 2 | 876948 | 287370 | Nyírgyulaj |
+
+| 447. | 3 | 876969 | 287331 | Nyírgyulaj |
+
+| 448. | 4 | 876929 | 287310 | Nyírgyulaj |
+
+| 449. | 70 | T-4_042 | 1 | 865461 | 297300 | Apagy |
+
+| 450. | 2 | 865508 | 297324 | Apagy |
+
+| 451. | 3 | 865540 | 297264 | Apagy |
+
+| 452. | 4 | 865494 | 297240 | Apagy |
+
+| 453. | 71 | T-4_059/2 | 1 | 865550 | 308869 | Demecser |
+
+| 454. | 2 | 865621 | 308891 | Demecser |
+
+| 455. | 3 | 865642 | 308823 | Demecser |
+
+| 456. | 4 | 865571 | 308801 | Demecser |
+
+| 457. | 72 | T-4_069 | 1 | 870401 | 284789 | Pócspetri |
+
+| 458. | 2 | 870441 | 284802 | Pócspetri |
+
+| 459. | 3 | 870453 | 284764 | Pócspetri |
+
+| 460. | 4 | 870412 | 284751 | Pócspetri |
+
+| 461. | 73 | T-4_072 | 1 | 872135 | 281733 | Kisléta |
+
+| 462. | 2 | 872215 | 281786 | Kisléta |
+
+| 463. | 3 | 872267 | 281715 | Kisléta |
+
+| 464. | 4 | 872187 | 281661 | Máriapócs |
+
+| 465. | 74 | T-4_074 | 1 | 872367 | 280568 | Kisléta |
+
+| 466. | 2 | 872449 | 280576 | Kisléta |
+
+| 467. | 3 | 872456 | 280494 | Kisléta |
+
+| 468. | 4 | 872374 | 280486 | Kisléta |
+
+| 469. | 75 | T-4_080 | 1 | 869391 | 283795 | Pócspetri |
+
+| 470. | 2 | 869459 | 283803 | Pócspetri |
+
+| 471. | 3 | 869464 | 283754 | Pócspetri |
+
+| 472. | 4 | 869396 | 283746 | Pócspetri |
+
+| 473. | 76 | T-4_081 | 1 | 869280 | 282834 | Pócspetri |
+
+| 474. | 2 | 869305 | 282815 | Pócspetri |
+
+| 475. | 3 | 869284 | 282786 | Pócspetri |
+
+| 476. | 4 | 869258 | 282805 | Pócspetri |
+
+| 477. | 77 | T-4_085 | 1 | 865412 | 299861 | Nyírtét |
+
+| 478. | 2 | 865503 | 299846 | Nyírtét |
+
+| 479. | 3 | 865491 | 299792 | Nyírtét |
+
+| 480. | 4 | 865401 | 299808 | Nyírtét |
+
+| 481. | 78 | T-4_092 | 1 | 872679 | 287012 | Máriapócs |
+
+| 482. | 2 | 872725 | 287037 | Máriapócs |
+
+| 483. | 3 | 872751 | 286990 | Máriapócs |
+
+| 484. | 4 | 872705 | 286964 | Máriapócs |
+
+| 485. | 79 | T-4_093 | 1 | 873746 | 284725 | Máriapócs |
+
+| 486. | 2 | 873760 | 284774 | Máriapócs |
+
+| 487. | 3 | 873812 | 284758 | Máriapócs |
+
+| 488. | 4 | 873798 | 284709 | Máriapócs |
+
+| 489. | 80 | T-4_095 | 1 | 875436 | 280636 | Nyírbogát |
+
+| 490. | 2 | 875481 | 280655 | Nyírbogát |
+
+| 491. | 3 | 875501 | 280606 | Nyírbogát |
+
+| 492. | 4 | 875456 | 280588 | Nyírbogát |
+
+| 493. | 81 | T-4_101 | 1 | 865173 | 299258 | Nyírtét |
+
+| 494. | 2 | 865201 | 299286 | Nyírtét |
+
+| 495. | 3 | 865231 | 299256 | Nyírtét |
+
+| 496. | 4 | 865204 | 299229 | Nyírtét |
+
+| 497. | 82 | T-4_109 | 1 | 865980 | 310010 | Berkesz |
+
+| 498. | 2 | 866115 | 310146 | Berkesz |
+
+| 499. | 3 | 866206 | 310056 | Berkesz |
+
+| 500. | 4 | 866071 | 309921 | Demecser |
+
+| 501. | 83 | T-4_110 | 1 | 863443 | 310195 | Demecser |
+
+| 502. | 2 | 863609 | 310195 | Demecser |
+
+| 503. | 3 | 863609 | 310043 | Demecser |
+
+| 504. | 4 | 863443 | 310043 | Demecser |
+
+| 505. | 84 | T-4_111 | 1 | 863031 | 307628 | Nyírbogdány |
+
+| 506. | 2 | 863151 | 307628 | Nyírbogdány |
+
+| 507. | 3 | 863151 | 307514 | Nyírbogdány |
+
+| 508. | 4 | 863031 | 307514 | Nyírbogdány |
+
+| 509. | 85 | T-4_115 | 1 | 868155 | 292571 | Magy |
+
+| 510. | 2 | 868225 | 292571 | Magy |
+
+| 511. | 3 | 868225 | 292511 | Magy |
+
+| 512. | 4 | 868155 | 292511 | Magy |
+
+| 513. | 86 | T-5_001 | 1 | 860261 | 307404 | Nyírbogdány |
+
+| 514. | 2 | 860335 | 307446 | Nyírbogdány |
+
+| 515. | 3 | 860458 | 307212 | Nyírbogdány |
+
+| 516. | 4 | 860374 | 307167 | Nyírbogdány |
+
+| 517. | 87 | T-5_002 | 1 | 859904 | 305047 | Nyírbogdány |
+
+| 518. | 2 | 860078 | 305157 | Nyírbogdány |
+
+| 519. | 3 | 860148 | 305049 | Nyírbogdány |
+
+| 520. | 4 | 859975 | 304939 | Nyírbogdány |
+
+| 521. | 88 | T-5_003 | 1 | 860735 | 304595 | Nyírbogdány |
+
+| 522. | 2 | 860847 | 304595 | Nyírbogdány |
+
+| 523. | 3 | 860847 | 304475 | Nyírbogdány |
+
+| 524. | 4 | 860735 | 304475 | Nyírbogdány |
+
+| 525. | 89 | T-5_008 | 1 | 859945 | 307865 | Nyírbogdány |
+
+| 526. | 2 | 859994 | 307922 | Nyírbogdány |
+
+| 527. | 3 | 860074 | 307854 | Nyírbogdány |
+
+| 528. | 4 | 860025 | 307797 | Nyírbogdány |
+
+| 529. | 90 | T-6_004 | 1 | 857016 | 306885 | Kemecse |
+
+| 530. | 2 | 857304 | 306925 | Kemecse |
+
+| 531. | 3 | 857347 | 306615 | Kemecse |
+
+| 532. | 4 | 857059 | 306575 | Kemecse |
+
+| 533. | 91 | T-6_029 | 1 | 861036 | 300398 | Sényő |
+
+| 534. | 2 | 861391 | 300682 | Sényő |
+
+| 535. | 3 | 861438 | 300642 | Sényő |
+
+| 536. | 4 | 861094 | 300334 | Sényő |
+
+| 537. | 92 | T-6_030 | 1 | 862055 | 300638 | Sényő |
+
+| 538. | 2 | 862209 | 300525 | Sényő |
+
+| 539. | 3 | 862056 | 300394 | Sényő |
+
+| 540. | 4 | 861891 | 300533 | Sényő |
+
+| 541. | 93 | T-6_037 | 1 | 862733 | 295520 | Apagy |
+
+| 542. | 2 | 862808 | 295545 | Apagy |
+
+| 543. | 3 | 862840 | 295454 | Apagy |
+
+| 544. | 4 | 862766 | 295429 | Apagy |
+
+| 545. | 94 | T-6_038 | 1 | 857084 | 307827 | Kemecse |
+
+| 546. | 2 | 857251 | 307910 | Kemecse |
+
+| 547. | 3 | 857368 | 307701 | Kemecse |
+
+| 548. | 4 | 857201 | 307617 | Kemecse |
+
+| 549. | 95 | T-6_041 | 1 | 862885 | 291402 | Napkor |
+
+| 550. | 2 | 862953 | 291357 | Napkor |
+
+| 551. | 3 | 862925 | 291302 | Napkor |
+
+| 552. | 4 | 862857 | 291347 | Napkor |
+
+| 553. | 96 | T-7_002 | 1 | 857162 | 288661 | Nyíregyháza |
+
+| 554. | 2 | 857228 | 288661 | Nyíregyháza |
+
+| 555. | 3 | 857228 | 288589 | Nyíregyháza |
+
+| 556. | 4 | 857162 | 288589 | Nyíregyháza |
+
+| 557. | 97 | T-7_003 | 1 | 856320 | 281377 | Nagykálló |
+
+| 558. | 2 | 856368 | 281377 | Nagykálló |
+
+| 559. | 3 | 856368 | 281340 | Nagykálló |
+
+| 560. | 4 | 856320 | 281340 | Nagykálló |
+
+| 561. | 98 | T-7_004 | 1 | 858549 | 275722 | Balkány |
+
+| 562. | 2 | 858588 | 275722 | Balkány |
+
+| 563. | 3 | 858588 | 275683 | Balkány |
+
+| 564. | 4 | 858549 | 275683 | Balkány |
+
+| 565. | 99 | T-7_005 | 1 | 856318 | 280768 | Nagykálló |
+
+| 566. | 2 | 856360 | 280794 | Nagykálló |
+
+| 567. | 3 | 856384 | 280751 | Nagykálló |
+
+| 568. | 4 | 856342 | 280726 | Nagykálló |
+
+| 569. | 100 | T-7_009 | 1 | 860314 | 275323 | Balkány |
+
+| 570. | 2 | 860339 | 275308 | Balkány |
+
+| 571. | 3 | 860321 | 275279 | Balkány |
+
+| 572. | 4 | 860296 | 275294 | Balkány |
+
+| 573. | 101 | T-7_014 | 1 | 865577 | 287209 | Kállósemjén |
+
+| 574. | 2 | 865633 | 287190 | Kállósemjén |
+
+| 575. | 3 | 865610 | 287119 | Kállósemjén |
+
+| 576. | 4 | 865554 | 287138 | Kállósemjén |
+
+| 577. | 102 | T-7_015 | 1 | 866136 | 286211 | Kállósemjén |
+
+| 578. | 2 | 866188 | 286198 | Kállósemjén |
+
+| 579. | 3 | 866174 | 286142 | Kállósemjén |
+
+| 580. | 4 | 866121 | 286156 | Kállósemjén |
+
+| 581. | 103 | T-7_016 | 1 | 863657 | 283523 | Kállósemjén |
+
+| 582. | 2 | 863745 | 283525 | Kállósemjén |
+
+| 583. | 3 | 863746 | 283430 | Kállósemjén |
+
+| 584. | 4 | 863656 | 283430 | Kállósemjén |
+
+| 585. | 104 | T-7_019 | 1 | 869003 | 273198 | Nyírgelse |
+
+| 586. | 2 | 869058 | 273198 | Nyírgelse |
+
+| 587. | 3 | 869058 | 273135 | Nyírgelse |
+
+| 588. | 4 | 869003 | 273135 | Nyírgelse |
+
+| 589. | 105 | T-7_021/1 | 1 | 854820 | 292440 | Nyíregyháza |
+
+| 590. | 2 | 854879 | 292433 | Nyíregyháza |
+
+| 591. | 3 | 854871 | 292376 | Nyíregyháza |
+
+| 592. | 4 | 854813 | 292384 | Nyíregyháza |
+
+| 593. | 106 | T-7_021/2 | 1 | 854779 | 291737 | Nyíregyháza |
+
+| 594. | 2 | 854829 | 291734 | Nyíregyháza |
+
+| 595. | 3 | 854826 | 291682 | Nyíregyháza |
+
+| 596. | 4 | 854776 | 291685 | Nyíregyháza |
+
+| 597. | 107 | T-7_024 | 1 | 860163 | 281047 | Biri |
+
+| 598. | 2 | 860192 | 281072 | Biri |
+
+| 599. | 3 | 860224 | 281038 | Biri |
+
+| 600. | 4 | 860195 | 281013 | Biri |
+
+| 601. | 108 | T-7_026 | 1 | 861714 | 278542 | Biri |
+
+| 602. | 2 | 861797 | 278533 | Biri |
+
+| 603. | 3 | 861785 | 278441 | Biri |
+
+| 604. | 4 | 861702 | 278450 | Biri |
+
+| 605. | 109 | T-7_030 | 1 | 866769 | 271457 | Nyírmihálydi |
+
+| 606. | 2 | 866865 | 271425 | Nyírmihálydi |
+
+| 607. | 3 | 866832 | 271328 | Nyírmihálydi |
+
+| 608. | 4 | 866736 | 271360 | Nyírmihálydi |
+
+| 609. | 110 | T-7_032 | 1 | 864741 | 275979 | Szakoly |
+
+| 610. | 2 | 864810 | 275921 | Szakoly |
+
+| 611. | 3 | 864748 | 275850 | Szakoly |
+
+| 612. | 4 | 864679 | 275908 | Szakoly |
+
+| 613. | 111 | T-7_033 | 1 | 863153 | 275620 | Szakoly |
+
+| 614. | 2 | 863232 | 275595 | Szakoly |
+
+| 615. | 3 | 863203 | 275506 | Szakoly |
+
+| 616. | 4 | 863124 | 275531 | Szakoly |
+
+| 617. | 112 | T-7_034 | 1 | 865534 | 271939 | Szakoly |
+
+| 618. | 2 | 865597 | 271943 | Szakoly |
+
+| 619. | 3 | 865597 | 271885 | Szakoly |
+
+| 620. | 4 | 865544 | 271877 | Szakoly |
+
+| 621. | 113 | T-7_036 | 1 | 862639 | 279019 | Balkány |
+
+| 622. | 2 | 862668 | 279053 | Balkány |
+
+| 623. | 3 | 862706 | 279022 | Balkány |
+
+| 624. | 4 | 862677 | 278988 | Balkány |
+
+| 625. | 114 | T-7_037 | 1 | 859100 | 297106 | Nyírtura |
+
+| 626. | 2 | 859144 | 297070 | Nyírtura |
+
+| 627. | 3 | 859103 | 297015 | Nyírtura |
+
+| 628. | 4 | 859058 | 297051 | Nyírtura |
+
+| 629. | 115 | T-7_038 | 1 | 859737 | 295123 | Napkor |
+
+| 630. | 2 | 859784 | 295089 | Napkor |
+
+| 631. | 3 | 859726 | 295020 | Napkor |
+
+| 632. | 4 | 859679 | 295054 | Napkor |
+
+| 633. | 116 | T-7_041 | 1 | 854084 | 296386 | Nyírpazony |
+
+| 634. | 2 | 854136 | 296337 | Nyírpazony |
+
+| 635. | 3 | 854086 | 296284 | Nyírpazony |
+
+| 636. | 4 | 854034 | 296333 | Nyírpazony |
+
+| 637. | 117 | T-7_044 | 1 | 867708 | 279596 | Kállósemjén |
+
+| 638. | 2 | 867789 | 279611 | Kállósemjén |
+
+| 639. | 3 | 867808 | 279518 | Kállósemjén |
+
+| 640. | 4 | 867727 | 279503 | Kállósemjén |
+
+| 641. | 118 | T-7_049 | 1 | 859794 | 270843 | Balkány |
+
+| 642. | 2 | 859854 | 270844 | Balkány |
+
+| 643. | 3 | 859854 | 270801 | Balkány |
+
+| 644. | 4 | 859794 | 270800 | Balkány |
+
+| 645. | 119 | T-7_050 | 1 | 857167 | 297375 | Nyírtura |
+
+| 646. | 2 | 857224 | 297405 | Nyírtura |
+
+| 647. | 3 | 857243 | 297370 | Nyírtura |
+
+| 648. | 4 | 857186 | 297341 | Nyírtura |
+
+| 649. | 120 | T-8_001 | 1 | 853360 | 304463 | Kemecse |
+
+| 650. | 2 | 853485 | 304560 | Kemecse |
+
+| 651. | 3 | 853649 | 304338 | Kemecse |
+
+| 652. | 4 | 853516 | 304232 | Kemecse |
+
+| 653. | 121 | T-8_004 | 1 | 852260 | 300230 | Nyíregyháza |
+
+| 654. | 2 | 852357 | 300242 | Nyíregyháza |
+
+| 655. | 3 | 852367 | 300146 | Nyíregyháza |
+
+| 656. | 4 | 852269 | 300134 | Nyíregyháza |
+
+| 657. | 122 | T-8_011 | 1 | 848453 | 285458 | Nyíregyháza |
+
+| 658. | 2 | 848530 | 285450 | Nyíregyháza |
+
+| 659. | 3 | 848522 | 285382 | Nyíregyháza |
+
+| 660. | 4 | 848445 | 285391 | Nyíregyháza |
+
+| 661. | 123 | T-8_012 | 1 | 849241 | 284840 | Nyíregyháza |
+
+| 662. | 2 | 849303 | 284827 | Nyíregyháza |
+
+| 663. | 3 | 849291 | 284779 | Nyíregyháza |
+
+| 664. | 4 | 849231 | 284792 | Nyíregyháza |
+
+| 665. | 124 | T-8_016 | 1 | 848793 | 276542 | Újfehértó |
+
+| 666. | 2 | 848826 | 276552 | Újfehértó |
+
+| 667. | 3 | 848840 | 276513 | Újfehértó |
+
+| 668. | 4 | 848810 | 276505 | Újfehértó |
+
+| 669. | 125 | T-8_017 | 1 | 848254 | 272306 | Újfehértó |
+
+| 670. | 2 | 848296 | 272327 | Újfehértó |
+
+| 671. | 3 | 848319 | 272279 | Újfehértó |
+
+| 672. | 4 | 848277 | 272257 | Újfehértó |
+
+| 673. | 126 | T-8_021 | 1 | 846187 | 273072 | Újfehértó |
+
+| 674. | 2 | 846234 | 273041 | Újfehértó |
+
+| 675. | 3 | 846199 | 272990 | Újfehértó |
+
+| 676. | 4 | 846153 | 273022 | Újfehértó |
+
+| 677. | 127 | T-8_023 | 1 | 846095 | 266041 | Téglás |
+
+| 678. | 2 | 846172 | 266040 | Téglás |
+
+| 679. | 3 | 846172 | 265978 | Téglás |
+
+| 680. | 4 | 846095 | 265979 | Téglás |
+
+| 681. | 128 | T-8_025 | 1 | 851702 | 277949 | Érpatak |
+
+| 682. | 2 | 851749 | 277929 | Érpatak |
+
+| 683. | 3 | 851728 | 277879 | Érpatak |
+
+| 684. | 4 | 851681 | 277899 | Érpatak |
+
+| 685. | 129 | T-8_027 | 1 | 850821 | 272994 | Újfehértó |
+
+| 686. | 2 | 850864 | 272994 | Újfehértó |
+
+| 687. | 3 | 850864 | 272946 | Újfehértó |
+
+| 688. | 4 | 850821 | 272945 | Újfehértó |
+
+| 689. | 130 | T-8_030 | 1 | 851720 | 267580 | Bököny |
+
+| 690. | 2 | 851869 | 267580 | Bököny |
+
+| 691. | 3 | 851871 | 267447 | Bököny |
+
+| 692. | 4 | 851722 | 267447 | Bököny |
+
+| 693. | 131 | T-8_032 | 1 | 850196 | 274241 | Újfehértó |
+
+| 694. | 2 | 850231 | 274186 | Újfehértó |
+
+| 695. | 3 | 850177 | 274152 | Újfehértó |
+
+| 696. | 4 | 850143 | 274207 | Újfehértó |
+
+| 697. | 132 | T-8_032-1 | 1 | 848651 | 274848 | Újfehértó |
+
+| 698. | 2 | 848697 | 274865 | Újfehértó |
+
+| 699. | 3 | 848712 | 274823 | Újfehértó |
+
+| 700. | 4 | 848667 | 274806 | Újfehértó |
+
+| 701. | 133 | T-8_034 | 1 | 850462 | 271661 | Bököny |
+
+| 702. | 2 | 850489 | 271643 | Bököny |
+
+| 703. | 3 | 850473 | 271618 | Bököny |
+
+| 704. | 4 | 850451 | 271642 | Bököny |
+
+| 705. | 134 | T-8_035 | 1 | 850167 | 272483 | Újfehértó |
+
+| 706. | 2 | 850234 | 272531 | Újfehértó |
+
+| 707. | 3 | 850277 | 272471 | Újfehértó |
+
+| 708. | 4 | 850210 | 272422 | Újfehértó |
+
+| 709. | 135 | T-8_039 | 1 | 852179 | 274425 | Bököny |
+
+| 710. | 2 | 852215 | 274434 | Bököny |
+
+| 711. | 3 | 852225 | 274393 | Bököny |
+
+| 712. | 4 | 852189 | 274385 | Bököny |
+
+| 713. | 136 | T-8_040 | 1 | 853418 | 272926 | Geszteréd |
+
+| 714. | 2 | 853462 | 272936 | Geszteréd |
+
+| 715. | 3 | 853471 | 272891 | Geszteréd |
+
+| 716. | 4 | 853427 | 272881 | Geszteréd |
+
+| 717. | 137 | T-8_041 | 1 | 853552 | 275544 | Geszteréd |
+
+| 718. | 2 | 853619 | 275538 | Geszteréd |
+
+| 719. | 3 | 853612 | 275462 | Geszteréd |
+
+| 720. | 4 | 853544 | 275468 | Geszteréd |
+
+| 721. | 138 | T-8_044 | 1 | 856727 | 271992 | Geszteréd |
+
+| 722. | 2 | 856782 | 272008 | Geszteréd |
+
+| 723. | 3 | 856794 | 271966 | Geszteréd |
+
+| 724. | 4 | 856739 | 271949 | Geszteréd |
+
+| 725. | 139 | T-8_046 | 1 | 855472 | 272295 | Geszteréd |
+
+| 726. | 2 | 855514 | 272319 | Geszteréd |
+
+| 727. | 3 | 855535 | 272281 | Geszteréd |
+
+| 728. | 4 | 855493 | 272257 | Geszteréd |
+
+| 729. | 140 | T-9_001 | 1 | 846971 | 306030 | Ibrány |
+
+| 730. | 2 | 847183 | 305960 | Ibrány |
+
+| 731. | 3 | 847087 | 305808 | Ibrány |
+
+| 732. | 4 | 846904 | 305925 | Ibrány |
+
+| 733. | 141 | T-9_003 | 1 | 845799 | 300274 | Nyíregyháza |
+
+| 734. | 2 | 845863 | 300260 | Nyíregyháza |
+
+| 735. | 3 | 845848 | 300196 | Nyíregyháza |
+
+| 736. | 4 | 845784 | 300211 | Nyírtelek |
+
+| 737. | 142 | T-9_004 | 1 | 845700 | 298572 | Nyíregyháza |
+
+| 738. | 2 | 845742 | 298563 | Nyíregyháza |
+
+| 739. | 3 | 845730 | 298511 | Nyíregyháza |
+
+| 740. | 4 | 845688 | 298521 | Nyíregyháza |
+
+| 741. | 143 | T-9_009 | 1 | 844568 | 291186 | Nyíregyháza |
+
+| 742. | 2 | 844615 | 291186 | Nyíregyháza |
+
+| 743. | 3 | 844615 | 291134 | Nyíregyháza |
+
+| 744. | 4 | 844568 | 291134 | Nyíregyháza |
+
+| 745. | 144 | T-9_011 | 1 | 841742 | 288743 | Nyíregyháza |
+
+| 746. | 2 | 841791 | 288768 | Nyíregyháza |
+
+| 747. | 3 | 841821 | 288711 | Nyíregyháza |
+
+| 748. | 4 | 841768 | 288718 | Nyíregyháza |
+
+| 749. | 145 | T-9_012 | 1 | 842634 | 287959 | Nyíregyháza |
+
+| 750. | 2 | 842677 | 287959 | Nyíregyháza |
+
+| 751. | 3 | 842677 | 287916 | Nyíregyháza |
+
+| 752. | 4 | 842634 | 287916 | Nyíregyháza |
+
+| 753. | 146 | T-9_014 | 1 | 843539 | 288002 | Nyíregyháza |
+
+| 754. | 2 | 843600 | 287991 | Nyíregyháza |
+
+| 755. | 3 | 843587 | 287918 | Nyíregyháza |
+
+| 756. | 4 | 843526 | 287929 | Nyíregyháza |
+
+| 757. | 147 | T-9_015 | 1 | 843358 | 286760 | Nyíregyháza |
+
+| 758. | 2 | 843392 | 286768 | Nyíregyháza |
+
+| 759. | 3 | 843403 | 286728 | Nyíregyháza |
+
+| 760. | 4 | 843353 | 286714 | Nyíregyháza |
+
+| 761. | 148 | T-9_016 | 1 | 843673 | 285921 | Nyíregyháza |
+
+| 762. | 2 | 843701 | 285910 | Nyíregyháza |
+
+| 763. | 3 | 843686 | 285875 | Nyíregyháza |
+
+| 764. | 4 | 843658 | 285886 | Nyíregyháza |
+
+| 765. | 149 | T-9_017 | 1 | 843752 | 284704 | Kálmánháza |
+
+| 766. | 2 | 843798 | 284678 | Kálmánháza |
+
+| 767. | 3 | 843772 | 284631 | Kálmánháza |
+
+| 768. | 4 | 843726 | 284658 | Kálmánháza |
+
+| 769. | 150 | ÉN-19 | 1 | 846293 | 274924 | Újfehértó |
+
+| 770. | 2 | 846392 | 274996 | Újfehértó |
+
+| 771. | 3 | 846453 | 274912 | Újfehértó |
+
+| 772. | 4 | 846354 | 274840 | Újfehértó |
+
+| 773. | 151 | V-3 | 1 | 862539 | 296161 | Apagy |
+
+| 774. | 2 | 862317 | 297113 | Apagy |
+
+| 775. | 3 | 862368 | 297133 | Apagy |
+
+| 776. | 4 | 862606 | 296169 | Apagy |
+
+| 777. | 152 | V-6 | 1 | 859799 | 296972 | Sényő |
+
+| 778. | 2 | 859928 | 297025 | Sényő |
+
+| 779. | 3 | 859966 | 296933 | Sényő |
+
+| 780. | 4 | 859839 | 296883 | Sényő |
+
+| 781. | 153 | Oros-Úrbéres tározó ökológiai célú terület (észak) | 1 | 857538 | 294292 | Nyíregyháza |
+
+| 782. | 2 | 857553 | 294290 | Nyíregyháza |
+
+| 783. | 3 | 857553 | 294290 | Nyíregyháza |
+
+| 784. | 4 | 857555 | 294199 | Nyíregyháza |
+
+| 785. | 5 | 857558 | 294125 | Nyíregyháza |
+
+| 786. | 6 | 857558 | 294037 | Nyíregyháza |
+
+| 787. | 7 | 857558 | 294000 | Nyíregyháza |
+
+| 788. | 8 | 857559 | 293954 | Nyírtura |
+
+| 789. | 9 | 857560 | 293926 | Nyírtura |
+
+| 790. | 10 | 857564 | 293854 | Nyírtura |
+
+| 791. | 11 | 857566 | 293817 | Nyírtura |
+
+| 792. | 12 | 857566 | 293807 | Nyírtura |
+
+| 793. | 13 | 857570 | 293772 | Nyírtura |
+
+| 794. | 14 | 857572 | 293755 | Nyírtura |
+
+| 795. | 15 | 857579 | 293703 | Nyírtura |
+
+| 796. | 16 | 857582 | 293679 | Nyírtura |
+
+| 797. | 17 | 857585 | 293666 | Nyírtura |
+
+| 798. | 18 | 857612 | 293636 | Nyírtura |
+
+| 799. | 19 | 857634 | 293613 | Nyírtura |
+
+| 800. | 20 | 857700 | 293542 | Nyírtura |
+
+| 801. | 21 | 857772 | 293465 | Nyírtura |
+
+| 802. | 22 | 857835 | 293395 | Nyírtura |
+
+| 803. | 23 | 857847 | 293382 | Nyírtura |
+
+| 804. | 24 | 857832 | 293385 | Nyírtura |
+
+| 805. | 25 | 857824 | 293386 | Nyírtura |
+
+| 806. | 26 | 857824 | 293386 | Nyírtura |
+
+| 807. | 27 | 857572 | 293660 | Nyírtura |
+
+| 808. | 28 | 857562 | 293727 | Nyírtura |
+
+| 809. | 29 | 857554 | 293780 | Nyírtura |
+
+| 810. | 30 | 857548 | 293883 | Nyírtura |
+
+| 811. | 31 | 857543 | 294157 | Nyírtura |
+
+| 812. | 154 | Oros-Úrbéres tározó ökológiai célú terület (dél) | 1 | 857899 | 292874 | Nyíregyháza |
+
+| 813. | 2 | 857890 | 292872 | Nyíregyháza |
+
+| 814. | 3 | 857892 | 292919 | Nyíregyháza |
+
+| 815. | 4 | 857894 | 292964 | Nyíregyháza |
+
+| 816. | 5 | 857895 | 293025 | Nyíregyháza |
+
+| 817. | 6 | 857888 | 293094 | Nyíregyháza |
+
+| 818. | 7 | 857885 | 293187 | Nyíregyháza |
+
+| 819. | 8 | 857885 | 293227 | Nyíregyháza |
+
+| 820. | 9 | 857882 | 293318 | Nyíregyháza |
+
+| 821. | 10 | 857852 | 293358 | Nyíregyháza |
+
+| 822. | 11 | 857853 | 293357 | Nyíregyháza |
+
+| 823. | 12 | 857858 | 293358 | Nyíregyháza |
+
+| 824. | 13 | 857864 | 293357 | Nyíregyháza |
+
+| 825. | 14 | 857868 | 293357 | Nyíregyháza |
+
+| 826. | 15 | 857894 | 293326 | Nyíregyháza |
+
+| 827. | 16 | 857896 | 293314 | Nyíregyháza |
+
+| 828. | 17 | 857896 | 293234 | Nyíregyháza |
+
+| 829. | 18 | 857906 | 293004 | Nyíregyháza |
+
+| 830. | 19 | 857908 | 292958 | Nyíregyháza |
+
+| 831. | 20 | 857903 | 292895 | Nyíregyháza |
+
+| 832. | 21 | 857900 | 292878 | Nyíregyháza |
+
+| 833. | 155 | Oros-Úrbéres tározó tápcsatorna | 1 | 857884 | 292796 | Nyíregyháza |
+
+| 834. | 2 | 857885 | 292830 | Nyíregyháza |
+
+| 835. | 3 | 857892 | 292829 | Nyíregyháza |
+
+| 836. | 4 | 857893 | 292839 | Nyíregyháza |
+
+| 837. | 5 | 857896 | 292838 | Nyíregyháza |
+
+| 838. | 6 | 857899 | 292835 | Nyíregyháza |
+
+| 839. | 7 | 857898 | 292799 | Nyíregyháza |
+
+| 840. | 8 | 857894 | 292771 | Nyíregyháza |
+
+| 841. | 9 | 857890 | 292752 | Nyíregyháza |
+
+| 842. | 10 | 857871 | 292715 | Nyíregyháza |
+
+| 843. | 11 | 857868 | 292704 | Nyíregyháza |
+
+| 844. | 12 | 857883 | 292699 | Nyíregyháza |
+
+| 845. | 13 | 857875 | 292561 | Nyíregyháza |
+
+| 846. | 14 | 857854 | 292257 | Nyíregyháza |
+
+| 847. | 15 | 857842 | 292057 | Nyíregyháza |
+
+| 848. | 16 | 857833 | 291923 | Nyíregyháza |
+
+| 849. | 17 | 857826 | 291773 | Nyíregyháza |
+
+| 850. | 18 | 857809 | 291768 | Nyíregyháza |
+
+| 851. | 19 | 857779 | 291768 | Nyíregyháza |
+
+| 852. | 20 | 857737 | 291763 | Nyíregyháza |
+
+| 853. | 21 | 857435 | 291705 | Nyíregyháza |
+
+| 854. | 22 | 857432 | 291712 | Nyíregyháza |
+
+| 855. | 23 | 857430 | 291717 | Nyíregyháza |
+
+| 856. | 24 | 857436 | 291718 | Nyíregyháza |
+
+| 857. | 25 | 857644 | 291758 | Nyíregyháza |
+
+| 858. | 26 | 857735 | 291775 | Nyíregyháza |
+
+| 859. | 27 | 857811 | 291786 | Nyíregyháza |
+
+| 860. | 28 | 857828 | 292058 | Nyíregyháza |
+
+| 861. | 29 | 857852 | 292447 | Nyíregyháza |
+
+| 862. | 30 | 857868 | 292687 | Nyíregyháza |
+
+| 863. | 31 | 857845 | 292697 | Nyíregyháza |
+
+| 864. | 32 | 857859 | 292712 | Nyíregyháza |
+
+| 865. | 33 | 857858 | 292716 | Nyíregyháza |
+
+| 866. | 34 | 857878 | 292759 | Nyíregyháza |
+
+| 867. | 35 | 857880 | 292778 | Nyíregyháza |
+
+| 868. | 1 | 857429 | 297467 | Nyíregyháza |
+
+| 869. | 2 | 857390 | 297370 | Nyíregyháza |
+
+| 870. | 3 | 857379 | 297325 | Nyíregyháza |
+
+| 871. | 4 | 857362 | 297236 | Nyíregyháza |
+
+| 872. | 5 | 857361 | 297230 | Nyíregyháza |
+
+| 873. | 6 | 857364 | 297170 | Nyíregyháza |
+
+| 874. | 7 | 857348 | 297090 | Nyíregyháza |
+
+| 875. | 8 | 857422 | 297015 | Nyíregyháza |
+
+| 876. | 9 | 857495 | 296961 | Nyíregyháza |
+
+| 877. | 10 | 857541 | 296931 | Nyíregyháza |
+
+| 878. | 11 | 857725 | 296827 | Nyíregyháza |
+
+| 879. | 12 | 857782 | 296791 | Nyíregyháza |
+
+| 880. | 13 | 857782 | 296795 | Nyíregyháza |
+
+| 881. | 14 | 857798 | 297113 | Nyíregyháza |
+
+| 882. | 15 | 857803 | 297205 | Nyíregyháza |
+
+| 883. | 16 | 857782 | 297208 | Nyíregyháza |
+
+| 884. | 17 | 857767 | 297305 | Nyíregyháza |
+
+| 885. | 18 | 857729 | 297304 | Nyíregyháza |
+
+| 886. | 19 | 857722 | 297319 | Nyíregyháza |
+
+| 887. | 20 | 857718 | 297332 | Nyíregyháza |
+
+| 888. | 21 | 857714 | 297373 | Nyíregyháza |
+
+| 889. | 22 | 857709 | 297383 | Nyíregyháza |
+
+| 890. | 23 | 857707 | 297392 | Nyíregyháza |
+
+| 891. | 24 | 857628 | 297381 | Nyíregyháza |
+
+| 892. | 25 | 857596 | 297470 | Nyíregyháza |
+
+| 893. | 26 | 857601 | 297470 | Nyíregyháza |
+
+| 894. | 27 | 857619 | 297470 | Nyíregyháza |
+
+| 895. | 28 | 857576 | 297698 | Nyíregyháza |
+
+| 896. | 29 | 857535 | 297700 | Nyíregyháza |
+
+| 897. | 30 | 857495 | 297693 | Nyíregyháza |
+
+| 898. | 1 | 857076 | 294989 | Nyíregyháza |
+
+| 899. | 2 | 857067 | 294842 | Nyíregyháza |
+
+| 900. | 3 | 857066 | 294827 | Nyíregyháza |
+
+| 901. | 4 | 857062 | 294763 | Nyíregyháza |
+
+| 902. | 5 | 857060 | 294728 | Nyíregyháza |
+
+| 903. | 6 | 857275 | 294721 | Nyíregyháza |
+
+| 904. | 7 | 857277 | 294763 | Nyíregyháza |
+
+| 905. | 8 | 857279 | 294796 | Nyíregyháza |
+
+| 906. | 9 | 857281 | 294826 | Nyíregyháza |
+
+| 907. | 10 | 857285 | 294891 | Nyíregyháza |
+
+| 908. | 11 | 857286 | 294909 | Nyíregyháza |
+
+| 909. | 12 | 857286 | 294913 | Nyíregyháza |
+
+| 910. | 13 | 857287 | 294931 | Nyíregyháza |
+
+| 911. | 14 | 857289 | 294956 | Nyíregyháza |
+
+| 912. | 15 | 857293 | 295021 | Nyíregyháza |
+
+| 913. | 16 | 857235 | 294967 | Nyíregyháza |
+
+| 914. | 17 | 857117 | 294980 | Nyíregyháza |
+
+| 915. | 18 | 857096 | 294986 | Nyíregyháza |
 
 2. melléklet a 309/2017. (X. 27.) Korm. rendelethez
 
