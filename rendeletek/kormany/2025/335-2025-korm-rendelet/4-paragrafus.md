@@ -6,6 +6,6 @@ b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a be
 
 (2) A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában a parkolóhelyek kialakításánál a kereskedelmi rendeltetési egységek rendeltetésszerű használatához a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhelyből legalább 12 személygépkocsi-várakozóhely elhelyezését kell biztosítani.
 
-(3)[^16] A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában 167 kerékpár várakozóhely elhelyezését kell biztosítani.
+(3)[^25] A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában 167 kerékpár várakozóhely elhelyezését kell biztosítani.
 
-[^16]: A 4. § (3) bekezdését a 428/2025. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^25]: A 4. § (3) bekezdését a 428/2025. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
