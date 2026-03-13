@@ -22,4 +22,6 @@ b) a 2028. évben 5 388 405 559 forint;
 
 7. az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 106. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2027–2028. években a Beruházás megvalósítása érdekében az adott évi központi költségvetésről szóló törvény Állami beruházások fejezet, Magasépítési beruházások cím, Egyedi magasépítési beruházások alcímen belül az adott beruházás finanszírozását szolgáló előirányzat terhére vállalható éven túli kötelezettségvállalás felső korlátját 13 581 629 700 forintban határozza meg;
 
-8. visszavonja az egyes egyházi fejlesztésekről szóló 1329/2024. (XI. 6.) Korm. határozatot.
+8.[^1]
+
+[^1]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
