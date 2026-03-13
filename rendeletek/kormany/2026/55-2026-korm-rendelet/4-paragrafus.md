@@ -1,0 +1,1 @@
+4. § Az R. 1. § (1a) bekezdés a) pontjában az „1a. mellékletben meghatározott településeken megvalósuló” szövegrész helyébe az „1a. mellékletben meghatározott településeken, valamint az 1b. melléklet által meghatározott területeken megvalósuló” szöveg lép.
