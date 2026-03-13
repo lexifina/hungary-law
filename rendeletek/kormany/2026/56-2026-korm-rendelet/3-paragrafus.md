@@ -1,0 +1,1 @@
+3. § A 141/2018. (VII. 27.) Korm. rendelet 2. mellékletében foglalt táblázat B:143 mezőjében a „018/23 és 024/23 helyrajzi számú ingatlanok” szövegrész helyébe a „018/23, 024/23, 02/1, 018/24, 018/38, 020 és 4045/1 helyrajzi számú ingatlanok” szöveg lép.
