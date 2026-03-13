@@ -1,4 +1,4 @@
-4/B. § (1) Az előirányzat felhasználásával kapcsolatos közreműködő szervezeti feladatokat a hitelesítési tevékenységre kijelölt szervezet látja el, különösen
+4/B. § (1)[^34] A nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet látja el az előirányzat felhasználásával kapcsolatos alábbi feladatokat, különösen
 
 a) a programok hazai megvalósításának előkészítésével és koordinációjával,
 
@@ -28,6 +28,9 @@ kapcsolatos feladatokat.
 
 (2) A 4/A. § (1) bekezdése szerinti költségvetési fejezetet irányító szerv vezetője az előirányzat kezelésére pénzforgalmi lebonyolítási számlát nyit a Kincstárnál.
 
-(3) A 4/A. § (1) bekezdése szerinti költségvetési fejezetet irányító szerv vezetője a (2) bekezdés szerinti pénzforgalmi lebonyolítási számlára rendelkezési jogot biztosít a közreműködő szervezet részére.
+(3)[^35] A 4/A. § (1) bekezdése szerinti költségvetési fejezetet irányító szerv vezetője a (2) bekezdés szerinti pénzforgalmi lebonyolítási számlára rendelkezési jogot biztosít a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet részére.
 
 (4) A pénzforgalmi lebonyolítási számla vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
+
+[^34]: A 4/B. § (1) bekezdés nyitó szövegrésze a 45/2026. (III. 5.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
+[^35]: A 4/B. § (3) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 4. pontja szerint módosított szöveg.

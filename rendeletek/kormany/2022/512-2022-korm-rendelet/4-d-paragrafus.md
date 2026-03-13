@@ -2,9 +2,9 @@
 
 (2) A hazai társfinanszírozás összege euróban kerül meghatározásra és kifizetésre a hazai partner euróban vezetett számlájára.
 
-(3) Megelőlegezés esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai partnereivel a programszintű támogatási döntést követően, a közreműködő szervezet értesítésének kézhezvételétől számított kilencven napon belül benyújtott támogatási kérelem alapján – az uniós támogatási szerződés hatálybalépését követően – megkötött támogatási szerződés alapján nyújtható.
+(3)[^36] Megelőlegezés esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai partnereivel a programszintű támogatási döntést követően, a nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet értesítésének kézhezvételétől számított kilencven napon belül benyújtott támogatási kérelem alapján – az uniós támogatási szerződés hatálybalépését követően – megkötött támogatási szerződés alapján nyújtható.
 
-(4) A megelőlegezés összege forintban kerül meghatározásra és kifizetésre a hazai partner részére. A megelőlegezés forintban meghatározott összegét az adott évi központi költségvetés tervezése során az államháztartásért felelős miniszter által megállapított tervezési árfolyam alkalmazásával határozzák meg.
+(4)[^37] A megelőlegezés összege forintban kerül meghatározásra és kifizetésre a hazai partner részére. A megelőlegezés forintban meghatározott összegét a Magyar Nemzeti Bank által, adott év első munkanapjára megállapított árfolyamának alkalmazásával határozzák meg.
 
 (5) Ha a megelőlegezés összege az érintett projektrész uniós költségvetésének módosítása okán csökkentésre vagy növelésre kerül, a megelőlegezési szerződés módosított összege az eredeti szerződésben alkalmazott árfolyamon kerül forintosításra.
 
@@ -19,3 +19,6 @@ a) egyösszegű kifizetéssel vagy
 b) részletekben történő kifizetés esetén időarányosan vagy teljesítésarányosan
 
 biztosítható.
+
+[^36]: A 4/D. § (3) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 4. pontja szerint módosított szöveg.
+[^37]: A 4/D. § (4) bekezdése a 45/2026. (III. 5.) Korm. rendelet 6. § 5. pontja szerint módosított szöveg.
