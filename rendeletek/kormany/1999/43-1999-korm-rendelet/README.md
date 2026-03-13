@@ -161,3 +161,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2025-12-24 | 1999-43-20-22.235 | 418/2025. (XII. 23.) Korm. rendelet |
 | 2026-01-01 | 1999-43-20-22.233 | 351/2025. (XI. 12.) Korm. rendelet |
 | 2026-01-30 | 1999-43-20-22.236 | 7/2008. (I. 23.) Korm. rendelet |
+| 2026-03-13 | 1999-43-20-22.237 | 7/2008. (I. 23.) Korm. rendelet |

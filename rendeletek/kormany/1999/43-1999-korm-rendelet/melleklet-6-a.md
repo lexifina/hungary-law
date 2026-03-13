@@ -1,6 +1,6 @@
 ## Millió forint
 
-|  | Megnevezés | 2026. évi előirányzat |
+| Megnevezés | 2026. évi előirányzat |
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
@@ -20,7 +20,7 @@
 
 | 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 296 534,0 |
 
-|  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
+| Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
 |  | Iskolaegészségügyi ellátás | 2 317,1 |
 
@@ -36,7 +36,7 @@
 
 | 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 27 283,3 |
 
-|  | Fogászati ellátás |  |
+| Fogászati ellátás |  |
 
 |  | Praxisfinanszírozás | 37 789,2 |
 
@@ -54,7 +54,7 @@
 
 | 6. | Művesekezelés | 38 771,1 |
 
-|  | Célelőirányzatok |  |
+| Célelőirányzatok |  |
 
 |  | Méltányossági alapon történő térítések | 6 833,4 |
 
@@ -78,25 +78,25 @@
 
 | 9. | Laboratóriumi ellátás | 30 295,6 |
 
-|  | Összevont szakellátás |  |
+| Összevont szakellátás |  |
 
-|  | 1. Járóbeteg-szakellátás | 237 118,0 |
+|  | Járóbeteg-szakellátás | 237 118,0 |
 
 | Járóbeteg-szakellátás fedezete | 213 618,0 |
 
 | Képalkotó diagnosztikai várólista csökkentő program | 23 500,0 |
 
-| 2. Népegészségügy fejlesztése | 2 717,5 |
+| Népegészségügy fejlesztése | 2 717,5 |
 
-| 3. Többletkapacitás befogadás fedezete | 4 000,0 |
+| Többletkapacitás befogadás fedezete | 4 000,0 |
 
-| 4. Működési költségelőleg | 2 000,0 |
+| Működési költségelőleg | 2 000,0 |
 
-| 5. Molekuláris diagnosztikai (PCR) ellátás | 10 802,1 |
+| Molekuláris diagnosztikai (PCR) ellátás | 10 802,1 |
 
-| 6. Fekvőbeteg-szakellátás | 762 602,0 |
+| Fekvőbeteg-szakellátás | 764 202,0 |
 
-| aktív fekvőbeteg-szakellátás | 661 709,7 |
+| aktív fekvőbeteg-szakellátás | 663 309,7 |
 
 | krónikus fekvőbeteg-szakellátás | 93 686,6 |
 
@@ -104,11 +104,11 @@
 
 | várólista csökkentés | 5 278,1 |
 
-| 7. Extrafinanszírozás | 1 000,0 |
+| Extrafinanszírozás | 1 000,0 |
 
-| 8. Speciális finanszírozású szakellátás | 74 382,8 |
+| Speciális finanszírozású szakellátás | 74 382,8 |
 
-| 10. | Összevont szakellátás összesen | 1 094 622,4 |
+| 10. | Összevont szakellátás összesen | 1 096 222,4 |
 
 | 12. | Gyógyító-megelőző ellátás céltartalék | 7 460,1 |
 
@@ -116,7 +116,7 @@
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 195 000,0 |
 
-| ÖSSZESEN | 2 931 701,6 |
+| ÖSSZESEN | 2 933 301,6 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^661]
 
