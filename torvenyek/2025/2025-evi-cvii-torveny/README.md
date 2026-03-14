@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-107-00-00
 | --- | --- | --- |
 | 2025-12-22 | 2025. évi CVII. törvény | 2025-107-00-00.0 (közlönyállapot) |
 | 2025-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-107-00-00.1 |
+| 2026-03-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-107-00-00.2 |
