@@ -1,0 +1,3 @@
+[1] Magyarország Kormánya külpolitikájának alapvető célja, hogy a magyar érdekek nemzetközi fórumokon és a kétoldalú kapcsolatokban történő következetes képviseletével elősegítse az ország nemzetközi súlyának növekedését. Ehhez igazodóan Magyarország és a Szaúd-Arábiai Királyság erősíteni kívánja a két ország közötti politikai, gazdasági és kulturális kapcsolatokat, amelynek eszköze a két ország egyes hivatalos útlevéllel rendelkező állampolgárai számára biztosított vízummentesség biztosítása.
+
+[2] A fenti célok végrehajtása érdekében, a nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvényre figyelemmel az Országgyűlés a következő törvényt alkotja:

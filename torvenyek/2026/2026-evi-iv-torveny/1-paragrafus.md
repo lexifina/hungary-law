@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szaúd-Arábiai Királyság Kormánya között a diplomata-, különleges, külügyi szolgálati és szolgálati útlevéllel rendelkezők kölcsönös vízummentességéről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
