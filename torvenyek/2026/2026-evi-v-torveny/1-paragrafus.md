@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről az Üzbég Köztársaság közötti Megerősített Partnerségi és Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
