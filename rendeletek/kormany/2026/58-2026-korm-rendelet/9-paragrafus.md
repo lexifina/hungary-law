@@ -1,1 +1,3 @@
-9. § Az R2. 9. §-ában az „5. §” szövegrész helyébe az „5. § és 5/A. §” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

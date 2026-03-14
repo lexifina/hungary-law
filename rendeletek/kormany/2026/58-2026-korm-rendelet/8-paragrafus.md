@@ -1,3 +1,3 @@
-8. § Az R2. 3. § (8) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(8) A felszabadított készletből vásárolt üzemanyagot a tag kizárólag a magyarországi töltőállomás-hálózatában, viszonteladó partnerei, magyarországi telephelyi fogadóhely részére értékesítheti vagy szállíthatja ki, Magyarország határain belüli, töltőállomáson történő kiskereskedelmi tovább értékesítés vagy végfelhasználás céljából.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

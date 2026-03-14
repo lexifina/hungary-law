@@ -4,6 +4,6 @@
 
 ## 1. A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet módosítása
 
-1. § A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) E rendelet alkalmazásában a jármű üzemanyagtankja az, ami a jármű része, tartósan be van építve, a motor üzemanyagellátását szolgálja, és a biztonsági és műszaki előírásoknak megfelel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
