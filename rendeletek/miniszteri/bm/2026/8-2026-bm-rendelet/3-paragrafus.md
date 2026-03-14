@@ -1,1 +1,3 @@
-3. § Az R. 16. számú mellékletében foglalt táblázat végjegyzetében az „Egészségközpont Kft.” szövegrész helyébe az „Egészségközpont Zrt.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
