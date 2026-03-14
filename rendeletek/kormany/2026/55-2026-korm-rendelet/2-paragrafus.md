@@ -1,3 +1,3 @@
-2. § Az R. a következő 6. §-sal egészül ki:
+2. §[^3]
 
-„6. § E rendeletnek az egyes vízgazdálkodási és kármentesítési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 309/2017. (X. 27.) Korm. rendelet módosításáról szóló 55/2026. (III. 12.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 1. § (1a) bekezdését, továbbá a Módr3.-mal megállapított 3/C. § (1a) és (3a) bekezdését, 1a. mellékletében foglalt táblázat 9. sorát, valamint 1b. mellékletét a Módr3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

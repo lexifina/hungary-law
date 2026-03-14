@@ -1,1 +1,3 @@
-4. § Az R. 1. § (1a) bekezdés a) pontjában az „1a. mellékletben meghatározott településeken megvalósuló” szövegrész helyébe az „1a. mellékletben meghatározott településeken, valamint az 1b. melléklet által meghatározott területeken megvalósuló” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
