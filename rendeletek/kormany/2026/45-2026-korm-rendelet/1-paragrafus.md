@@ -10,12 +10,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A 2021–2027 programozási időszakban az európai területi együttműködési célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok végrehajtásáról szóló 512/2022. (XII. 13.) Korm. rendelet [a továbbiakban: 512/2022. (XII. 13.) Korm. rendelet] 2. § (1) bekezdése a következő 30a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
-
-## „30a. nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet: az 1. § (1) bekezdés a), b) és e) pontja szerinti programok esetében a 4/B. § (1) bekezdésében meghatározott nemzeti szintű végrehajtási feladatok ellátásában részt vevő szervezet,”
-
-(2) Az 512/2022. (XII. 13.) Korm. rendelet 2. § (1) bekezdése a következő 32a. ponttal egészül ki:
-
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
