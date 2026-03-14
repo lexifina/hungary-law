@@ -12,4 +12,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 37/L. § (2) bekezdésében az „illetve az esélyteremtési illetményrészben részesülő pedagógusokkal kapcsolatban” szövegrész helyébe az „illetve az esélyteremtési illetményrészben részesülő pedagógusokkal, segítőkkel kapcsolatban” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
