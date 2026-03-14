@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-68-00-00
 | --- | --- | --- |
 | 2023-11-01 | 2023. évi LXVIII. törvény | 2023-68-00-00.0 (közlönyállapot) |
 | 2023-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-68-00-00.1 |
+| 2026-03-14 | 2025. évi CVII. törvény | 2023-68-00-00.2 |
