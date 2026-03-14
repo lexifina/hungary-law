@@ -1,0 +1,1 @@
+7. § Ez a rendelet a kézműves és ipari termékek földrajzi jelzéseinek oltalmáról, valamint az (EU) 2017/1001 és az (EU) 2019/1753 rendelet módosításáról szóló, 2023. október 18-i (EU) 2023/2411 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

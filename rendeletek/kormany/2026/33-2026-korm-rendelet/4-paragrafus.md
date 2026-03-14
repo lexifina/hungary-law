@@ -1,0 +1,5 @@
+## 4. Jogkövetkezmények és szankciók
+
+4. § (1) Ha az ellenőrzést végző hatóság megállapítja, hogy a földrajzi jelzéssel ellátott termék nem felel meg a termékleírásban foglaltaknak, a termékleírásban foglaltaktól való olyan eltérés esetén, amely a termék jellemzőit annak lényeges tulajdonságait tekintve nem változtatja meg, felszólítja az előállítót a hiányosságok orvoslására, és arra, hogy az ennek érdekében megtett intézkedésről tizenöt napon belül adjon tájékoztatást.
+
+(2) A Vt. 116/Y. § (3) bekezdés b) pontja alapján hozott tiltó határozatban meghatározott tilalom lejártát megelőző huszonegy napon belül az ellenőrzést végző hatóság az előállító székhelyén vagy telephelyén ellenőrzi, hogy a földrajzi jelzéssel ellátott termék megfelel-e a termékleírásban foglaltaknak. A földrajzi jelzés újbóli használatát az előállító csak akkor kezdheti meg, ha a tilalom lejártának napját megelőző ellenőrzés során az ellenőrzést végző hatóság megállapítja, hogy a földrajzi jelzéssel ellátott termék a termékleírásban foglaltaknak megfelel.
