@@ -1,0 +1,3 @@
+[1] A világ az utóbbi években egymást követő súlyos kihívásokkal nézett szembe. Európában évek óta háború pusztít és az európai politikai vezetők hibás döntései miatt Európa újra egy nagy háború szélére sodródott. Magyarországon az átalakuló világ egyre nehezebb kihívásai ellenére is fenn kell tartani a békét és biztonságot. Az Amerikai Egyesült Államok elnöke felkérte Magyarország miniszterelnökét, hogy csatlakozzon a Béketanácshoz, amelynek célja a jelenlegi háborús konfliktusok lezárása és újak kialakulásának megakadályozása, ami egyezik a magyar nemzeti érdekkel. A jogalkotó célja a Béketanács Alapokmányának hazai jogrendbe történő átvétele.
+
+[2] A törvény a hazai jogrendbe való átvétellel elismeri a Béketanács Alapokmány kötelező hatályát.
