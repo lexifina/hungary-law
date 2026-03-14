@@ -16,10 +16,6 @@
 
 ## 1. Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosítása
 
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet [a továbbiakban: 141/2018. (VII. 27.) Korm. rendelet] 4/N. §-a a következő (5)–(7) bekezdéssel egészül ki:
+1. §[^1]
 
-„(5) A 2. mellékletben foglalt táblázat 143. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:143 mezőjében megjelölt ingatlanok esetében a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
-
-(6) Az (5) bekezdés szerinti tereprendezés és mélyalapozás építészeti-műszaki dokumentációjának az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet 1. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
-
-(7) Az (5) bekezdés szerint engedélyezett ütemre külön használatbavételi eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építményre vonatkozó használatbavételi eljárásban kell igazolni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

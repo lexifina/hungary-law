@@ -1,22 +1,25 @@
 11. § A 335/2025. (X. 30.) Korm. rendelet
 
-a) 1. § (6) bekezdésében a „8–11. sora” szövegrész helyébe a „8–11. sora, valamint 16. és 17. sora” szöveg,
+a)[^13]
 
-b) 1. § (7) és (10) bekezdésében a „12. sora” szövegrész helyébe a „12. és 20. sora” szöveg,
+b)[^14]
 
-c) 1. § (9) bekezdésében a „12. sora” szövegrész helyébe a „12. és 20. sora” szöveg,
+c)[^15]
 
-d)[^5]
+d)[^16]
 
-e)[^6]
+e)[^17]
 
-f)[^7]
+f)[^18]
 
-g)[^8]
+g)[^19]
 
 lép.
 
-[^5]: A 11. § d) pontja a 12. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^6]: A 11. § e) pontja a 12. § (3) bekezdése alapján 2027. szeptember 1-jén lép hatályba.
-[^7]: A 11. § f) pontja a 12. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^8]: A 11. § g) pontja a 12. § (3) bekezdése alapján 2027. szeptember 1-jén lép hatályba.
+[^13]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § d) pontja a 12. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^17]: A 11. § e) pontja a 12. § (3) bekezdése alapján 2027. szeptember 1-jén lép hatályba.
+[^18]: A 11. § f) pontja a 12. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^19]: A 11. § g) pontja a 12. § (3) bekezdése alapján 2027. szeptember 1-jén lép hatályba.
