@@ -66,7 +66,7 @@
 
 | 33. | Fotóanyaggyártás. Lakk- és festékgyártás. Növényvédőszer-gyártás. Kozmetikumok előállítása | Vegyész technikus Vegyipari rendszerüzemeltető szaktechnikus | nem végezhető | Vegyipari technikus | elfogadható |
 
-| 34. | Gázüzemű emelőtargonca, rakodógép, mezőgazdasági és erdészeti traktor, közúti járműnek nem minősülő kerekes jármű gáz-üzemanyag-ellátó berendezésének beszerelése, beszabályozása, hibás berendezés javítása | Gépjárműmechatronikai technikus | nem végezhető | Gázautószerelő | elfogadható |
+| 34. | Gázüzemű emelőtargonca, rakodógép, mezőgazdasági és erdészeti traktor, közúti járműnek nem minősülő kerekes jármű gáz-üzemanyag-ellátó berendezésének beszerelése, beszabályozása, hibás berendezés javítása | Gépjárműmechatronikai technikus Gázüzemű munkagépek üzemanyagellátó berendezéseinek karbantartója, javítója[^11] | nem végezhető | Gázautószerelő | elfogadható |
 
 | 35. | Gumigyártás, gumifeldolgozás | Gumiipari technikus Gumikeverék-készítő Ipari gumitermék-előállító Formacikk-gyártó | végezhető | Abroncsgyártó Formacikk-gyártó Gumiipari technikus Ipari gumitermék előállító | elfogadható |
 
@@ -134,7 +134,7 @@
 
 | 67. | Mobil és beépített bútorok, mozgó alkatrészek, falburkolatok, válaszfalak, nyílászáró szerkezetek szerelése, javítása, cseréje | Asztalos (Asztalosipari szerelő, Famegmunkáló) Bútorműves, műbútorasztalos | végezhető | Asztalos Műbútorasztalos Asztalosipari szerelő | elfogadható |
 
-| 68. | Motorkerékpár, -alkatrész javítása | Gépjármű-mechatronikai technikus Gépjármű mechatronikus | nem végezhető | Motorkerékpár-szerelő | elfogadható |
+| 68.[^12] |  |  |  |  |  |
 
 | 69. | Mozgólépcsők, mozgójárdák műszaki biztonságtechnikai ellenőrzése | Felvonó- és mozgólépcső ellenőr (jogszabály alapján szervezett képzés) | nem végezhető | Mozgólépcső ellenőr | nem fogadható el |
 
@@ -150,7 +150,7 @@
 
 | 75. | Műszerek, műszerjellegű gépek mechanikus egységeinek szét- és összeszerelése, a berendezések karbantartása, javítása, finommechanikai alkatrészek megmunkálása | Finommechanikai műszerész Automatikai technikus | végezhető | Elektromechanikai műszerész Mechanikai műszerész | elfogadható |
 
-| 76. | Feszültség alatti munkavégzés nagy-, közép- és kisfeszültségű villamos berendezéseken, mérő-vezérlő és szabályozó berendezéseken | A képesítéssel megszerezhető kompetenciáktól függően: Nagyfeszültségű FAM szerelő Középfeszültségű FAM hálózati szerelő távolból végzett technológiával Középfeszültségű FAM hálózati szerelő kombinált technológiával Kisfeszültségű szakszolgálati FAM szerelő Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő Kisfeszültségű mérőhelyi FAM szerelő Kisfeszültségű FAM kábelszerelő Kisfeszültségű szabadvezeték hálózati FAM szerelő | nem végezhető | A képesítéssel megszerzett kompetenciáktól függően: Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő Középfeszültségű FAM szerelő Kisfeszültségű FAM kábelszerelő Kisfeszültségű szabadvezeték hálózati FAM szerelő Szakszolgálati FAM szerelő | nem fogadható el |
+| 76.[^13] | Feszültség alatti munkavégzés nagy-, közép- és kisfeszültségű villamos berendezéseken, mérő-vezérlő és szabályozó berendezéseken | A képesítéssel megszerezhető kompetenciáktól függően: Nagyfeszültségű FAM szerelő Középfeszültségű FAM szerelő távolból végzett technológiával Középfeszültségű FAM szerelő kombinált technológiával Középfeszültségű FAM szerelő állomás takarítás Kisfeszültségű szakszolgálati FAM szerelő Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő Kisfeszültségű felhasználói berendezés FAM szerelő Kisfeszültségű mérőhelyi FAM szerelő Kisfeszültségű FAM kábelszerelő Kisfeszültségű szabadvezeték hálózati FAM szerelő Megújuló és egyéb primer energiaforrású kiserőmű FAM szerelő | nem végezhető | A képesítéssel megszerzett kompetenciáktól függően: Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő Kisfeszültségű FAM szerelő Középfeszültségű FAM szerelő Kisfeszültségű FAM kábelszerelő Kisfeszültségű szabadvezeték hálózati FAM szerelő Szakszolgálati FAM szerelő | nem fogadható el |
 
 | 77. | Nyomástartó berendezés és egyszerű nyomástartó edény vizsgálata | Nyomástartó berendezés vizsgáló (jogszabály alapján szervezett képzés) | nem végezhető | Nyomástartó berendezés vizsgáló | elfogadható |
 
@@ -202,6 +202,9 @@
 
 | 101. | Villamos gépek és készülékek karbantartása, üzemeltetése, telepítése kisfeszültségű hálózaton, fázisonként 63 A névleges áramig | Villanyszerelő (Villamosipari előkészítő) Erősáramú elektrotechnikus Járműipari karbantartó technikus Ipari szerviztechnikus Háztartási gép szerviz-szaktechnikus Ipari villamos gép és készülék üzemeltető | végezhető | Elektromos gép- és készülékszerelő Járműipari karbantartó technikus Automatikai berendezés karbantartó | elfogadható |
 
-2. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^11]
+2. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^14]
 
-[^11]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. mellékletben foglalt táblázat B:34 mezője a 6/2026. (II. 12.) NGM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat 68. sorát a 6/2026. (II. 12.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^13]: Az 1. mellékletben foglalt táblázat 76. sora a 6/2026. (II. 12.) NGM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^12]
+3. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^15]
 
-[^12]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
