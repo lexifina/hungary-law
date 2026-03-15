@@ -6,4 +6,4 @@ Az önálló bírósági végrehajtói állások száma
 
 [^43]: A 19. §-t a 21/2021. (XII. 15.) SZTFH rendelet 3. §-a iktatta be.
 [^44]: A hatálybalépés időpontja 2021. december 16.
-[^45]: Az 1. melléklet a 21/2021. (XII. 15.) SZTFH rendelet 4. §-a, a 9/2024. (VIII. 8.) SZTFH rendelet 4. § (1)-(4) bekezdése, a 4/2025. (IV. 17.) SZTFH rendelet 3. § (1)-(4) bekezdése és 4. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet a 21/2021. (XII. 15.) SZTFH rendelet 4. §-a, a 9/2024. (VIII. 8.) SZTFH rendelet 4. § (1)-(4) bekezdése, a 4/2025. (IV. 17.) SZTFH rendelet 3. § (1)-(4) bekezdése és 4. § (5) bekezdés b) pontja, a 14/2025. (XII. 22.) SZTFH rendelet 5. § (1) bekezdése és 6. § (1) bekezdés b) pontja szerint módosított szöveg.

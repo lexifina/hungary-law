@@ -1,4 +1,4 @@
-## Országosan: 219
+## Országosan: 218
 
 ## I.
 
@@ -18,21 +18,19 @@
 
 | Összesen: | 36 |
 
-## II.
-
-## Pécsi Törvényszék
+## II. Pécsi Törvényszék
 
 | Komlói Járásbíróság | 2 |
 
 | Mohácsi Járásbíróság | 1 |
 
-| Pécsi Járásbíróság | 5 |
+| Pécsi Járásbíróság | 4 |
 
 | Siklósi Járásbíróság | 1 |
 
 | Szigetvári Járásbíróság | 1 |
 
-| Összesen: | 10 |
+| Összesen: | 9 |
 
 ## III.
 
