@@ -1,0 +1,3 @@
+3. § (1) Az engedélyes által fizetendő felügyeleti díj összegének ellenőrizhetősége érdekében a Kertv. 9/D. § (2) bekezdése alapján az engedélyes köteles az SZTFH számára minden év július 15-ig – az SZTFH erre irányuló külön felhívása vagy döntése nélkül – nyilatkozatával adatot szolgáltatni a tárgyévi tevékenységéből származó éves árbevételének összegéről.
+
+(2) Az engedélyes az (1) bekezdés szerinti nyilatkozattételi kötelezettségét az SZTFH által e célra rendszeresített formanyomtatványon teljesíti. A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását az engedélyes az SZTFH-hoz előterjesztett kérelemben kezdeményezheti.

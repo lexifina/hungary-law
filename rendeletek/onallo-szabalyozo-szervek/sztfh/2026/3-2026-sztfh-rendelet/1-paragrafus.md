@@ -1,0 +1,13 @@
+## [1] A befektetési arannyal folytatott kereskedelem szabályozott rendszerének biztonságos, átlátható és értékálló működése érdekében a kereskedelemről szóló 2005. évi CLXIV. törvény 9/B. § (1) bekezdése alapján a Szabályozott Tevékenységek Felügyeleti Hatósága felügyeletet gyakorol a befektetési arannyal folytatott kereskedelmi tevékenység felett. Ezen feladatkörében a Szabályozott Tevékenységek Felügyeleti Hatósága megteszi a szükséges intézkedéseket a befektetési arannyal történő kereskedelmi tevékenység végzésére engedéllyel rendelkező jogi személy kötelezettségei megsértésének felderítése, megszüntetése és megelőzése érdekében, valamint eljár a befektetési arannyal folytatott kereskedelmi tevékenységet engedély nélkül végzőkkel szemben. E rendelet célja a befektetési arannyal folytatott kereskedelem felügyeleti tevékenységért fizetendő felügyeleti díj mértékének és megfizetésére vonatkozó rendelkezések megállapítása.
+
+## [2] A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (8) bekezdés f) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § n) pontjában és 13/A. § 5. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § (1) A kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 9/A. § (1) bekezdése szerinti befektetési arannyal folytatott kereskedelmi tevékenységgel (a továbbiakban: tevékenység) kapcsolatos felügyeleti díj (a továbbiakban: felügyeleti díj) éves mértéke a tevékenység folytatására engedéllyel rendelkező (a továbbiakban: engedélyes) belföldön nyújtott tevékenységéből származó, a (3) bekezdés szerinti időpontot megelőző utolsó, a számvitelről szóló törvény alapján közzétett beszámolóval lezárt üzleti éve (a továbbiakban: tárgyév) árbevételének egy ezreléke, de legalább 2 millió forint és legfeljebb 15 millió forint.
+
+(2) Az (1) bekezdés szerinti árbevétel hiányában a tárgyévi felügyeleti díj mértéke az utolsó olyan üzleti év árbevételének egy ezreléke, amelyben az engedélyesnek a tevékenységéből árbevétele származott, de legalább 2 millió forint és legfeljebb 15 millió forint.
+
+(3) Az engedélyes a felügyeleti díjat a tárgyévet követő év július 15. napjáig fizeti meg.
+
+(4) A felügyeleti díj számítása, megfizetése, nyilvántartása és elszámolása – az általános kerekítési szabályok alkalmazásával – 1000 forintra kerekítve történik.
+
+(5) Ha a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) a tárgyévben az engedélyes engedélyét a Kertv. 9/B. § (6) vagy (8) bekezdése alapján visszavonja, az engedélyes a díjfizetési kötelezettségét a (3) bekezdés szerinti határidőben, az (1) és (2) bekezdésben foglaltak szerint teljesíti.
