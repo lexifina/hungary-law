@@ -1,5 +1,5 @@
 ## 4. A felszámolók névjegyzékéről szóló 14/2021. (X. 29.) SZTFH rendelet módosítása
 
-7. §[^9]
+7. §[^7]
 
-[^9]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
