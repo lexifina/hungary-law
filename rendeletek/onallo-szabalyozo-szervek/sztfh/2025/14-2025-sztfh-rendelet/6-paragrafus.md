@@ -1,11 +1,6 @@
-6. § (1) A 6/2021. (X. 29.) SZTFH rendelet
+6. § (1)[^7]
 
-a) 1. § (1) bekezdésében a „219” szövegrész helyébe a „218” szöveg,
+(2)[^8]
 
-b) 1. mellékletében az „Országosan: 219” szövegrész helyébe az „Országosan: 218” szöveg
-
-lép.
-
-(2)[^6]
-
-[^6]: A 6. § (2) bekezdése a 34. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^7]: A 6. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (2) bekezdése a 34. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
