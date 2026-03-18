@@ -2,7 +2,7 @@
 
 ## 19. A Kockázatelemzési és Kezelési Rendszer
 
-29. §[^42] (1) A bv. szervezet az elítélt visszaesési és fogvatartási kockázatainak felmérésére, annak mérséklése, illetve a sikeres társadalmi reintegráció elősegítése érdekében a Bv. tv. 82. § 3. pontjában meghatározott Kockázatelemzési és Kezelési Rendszert (a továbbiakban: KEK rendszer) alakít ki és működtet.
+29. §[^48] (1) A bv. szervezet az elítélt visszaesési és fogvatartási kockázatainak felmérésére, annak mérséklése, illetve a sikeres társadalmi reintegráció elősegítése érdekében a Bv. tv. 82. § 3. pontjában meghatározott Kockázatelemzési és Kezelési Rendszert (a továbbiakban: KEK rendszer) alakít ki és működtet.
 
 (2) A KEK rendszer elemei:
 
@@ -16,4 +16,4 @@ c) a fogvatartási és visszaesési kockázatok csökkentésére irányuló és 
 
 (4) A kockázatkezelés olyan büntetés-végrehajtási szakmai tevékenység, amely során a kockázatelemzési vizsgálat alapján – figyelembe véve az elítélt reintegrációs szükségleteit és társadalmi helyzetét, valamint a végrehajtás rendjét és a fogvatartás biztonságát veszélyeztető kockázati tényezőket – az egyéniesített fogvatartási programtervben foglaltak teljesítését biztosítják és nyomon követik. A kockázatkezelés a szabadságvesztés teljes tartamára kiterjed, annak egyes elemei az elítélt teljesítményétől és eredményeitől függően módosulhatnak.
 
-[^42]: A 29. § az 1/2024. (II. 29.) IM rendelet 10. §-ával megállapított szöveg.
+[^48]: A 29. § az 1/2024. (II. 29.) IM rendelet 10. §-ával megállapított szöveg.

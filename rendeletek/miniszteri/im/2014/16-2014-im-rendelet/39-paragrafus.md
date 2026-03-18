@@ -1,4 +1,4 @@
-39. §[^59] (1) A BFB a hathavonkénti összesítés során megállapítja a megszerezhető hat kreditpontból megadott kreditpontok, illetve a megszerzett plusz kreditpontok és a fegyelmi fenyítés miatt levonandó kreditpontok különbözeteként az elítélt által ténylegesen megszerzett vagy elveszített kreditpontok számát, amely értékkel az elítélt által az adott szabadságvesztés végrehajtása alatt addig az időpontig megszerzett kreditpontjainak a száma nő vagy csökken.
+39. §[^74] (1) A BFB a hathavonkénti összesítés során megállapítja a megszerezhető hat kreditpontból megadott kreditpontok, illetve a megszerzett plusz kreditpontok és a fegyelmi fenyítés miatt levonandó kreditpontok különbözeteként az elítélt által ténylegesen megszerzett vagy elveszített kreditpontok számát, amely értékkel az elítélt által az adott szabadságvesztés végrehajtása alatt addig az időpontig megszerzett kreditpontjainak a száma nő vagy csökken.
 
 (2) Ha az adott összesítési időszakban az elítélt kreditpontot veszített, azt a már megszerzett kreditpontjaiból kell levonni. Ha a levonás eredményeképpen a kreditpontok száma nulla pont alá csökken, és az elítéltnek
 
@@ -26,4 +26,4 @@ c) azt, hogy sor került-e kreditpontlevonás felfüggesztésére, és ha igen, 
 
 (6) A Bv. tv. 99. § (9) bekezdése szerinti feltételek vizsgálata során az (1) bekezdés szerinti összesítés alapján megállapított ténylegesen megszerzett kreditpont értéket kell figyelembe venni.
 
-[^59]: A 39. § az 1/2024. (II. 29.) IM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^74]: A 39. § az 1/2024. (II. 29.) IM rendelet 14. § (2) bekezdésével megállapított szöveg.

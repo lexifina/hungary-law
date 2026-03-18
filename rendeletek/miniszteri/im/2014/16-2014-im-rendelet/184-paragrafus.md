@@ -1,4 +1,4 @@
-184. § (1)[^273] A letartóztatottat megőrzésre kell befogadni, ha
+184. § (1)[^306] A letartóztatottat megőrzésre kell befogadni, ha
 
 a) egészségügyi okból,
 
@@ -18,4 +18,4 @@ más bv. intézetbe történő szállítása szükséges.
 
 (2) A megőrzés időtartama alatt az általános rezsimszabályokat kell alkalmazni, kivéve, ha azt a fogvatartás biztonsága érdekében módosítani szükséges.
 
-[^273]: A 184. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 19. § 52. pontja szerint módosított szöveg.
+[^306]: A 184. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 19. § 52. pontja szerint módosított szöveg.

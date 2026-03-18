@@ -2,7 +2,7 @@
 
 (2) Ha az elítélt a befogadásakor bejelenti, hogy
 
-a)[^30] kiskorú gyermeke felügyelet nélkül maradt, a bv. intézet hivatali időben a kiskorú gyermek lakó- vagy tartózkodási helye szerint illetékes fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhatóság), hivatali időn kívül a rendőrséget,
+a)[^34] kiskorú gyermeke felügyelet nélkül maradt, a bv. intézet hivatali időben a kiskorú gyermek lakó- vagy tartózkodási helye szerint illetékes fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhatóság), hivatali időn kívül a rendőrséget,
 
 b) a vele egy háztartásban élő, önmaga ellátására képtelen hozzátartozója vagy az általa gondozott más személy felügyelet nélkül maradt, a bv. intézet hivatali időben a hozzátartozó, illetve a gondozott személy lakó- vagy tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét, hivatali időn kívül a rendőrséget
 
@@ -12,4 +12,4 @@ haladéktalanul értesíti.
 
 (4) Az elítéltet a megtett intézkedésekről a bv. intézet három munkanapon belül tájékoztatja.
 
-[^30]: A 22. § (2) bekezdés a) pontja 8/2015. (IV. 14.) IM rendelet 24. § b) pontja, a 35/2022. (XII. 27.) IM rendelet 3. § d) pontja szerint módosított szöveg.
+[^34]: A 22. § (2) bekezdés a) pontja 8/2015. (IV. 14.) IM rendelet 24. § b) pontja, a 35/2022. (XII. 27.) IM rendelet 3. § d) pontja szerint módosított szöveg.

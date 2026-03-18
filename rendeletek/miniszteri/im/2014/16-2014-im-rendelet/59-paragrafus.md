@@ -4,6 +4,6 @@
 
 (2) A motozásnál technikai eszköz és szolgálati kutya is igénybe vehető.
 
-(3)[^75] Az altesten lévő testnyílások szemrevételezését is csak orvos vagy egészségügyi szakszemélyzet végezheti.
+(3)[^91] Az altesten lévő testnyílások szemrevételezését is csak orvos vagy egészségügyi szakszemélyzet végezheti.
 
-[^75]: Az 59. § (3) bekezdését a 22/2017. (XII. 22.) IM rendelet 40. §-a iktatta be.
+[^91]: Az 59. § (3) bekezdését a 22/2017. (XII. 22.) IM rendelet 40. §-a iktatta be.

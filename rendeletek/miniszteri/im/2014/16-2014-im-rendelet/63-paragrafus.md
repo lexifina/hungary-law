@@ -1,9 +1,9 @@
 ## 35. Az átmeneti részleg
 
-63. § (1)[^77] Az átmeneti részlegbe helyezés feltételeit az elítélt várható szabadulása előtt egy évvel meg kell vizsgálni. A döntés megalapozása érdekében a bv. intézet beszerezheti, az elítélt vagy védője által benyújtott kérelem esetén beszerzi az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentést. A bv. intézet parancsnoka az átmeneti részlegre helyezésről szóló határozatban az áthelyezés időpontjáról is rendelkezik.
+63. § (1)[^93] Az átmeneti részlegbe helyezés feltételeit az elítélt várható szabadulása előtt egy évvel meg kell vizsgálni. A döntés megalapozása érdekében a bv. intézet beszerezheti, az elítélt vagy védője által benyújtott kérelem esetén beszerzi az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentést. A bv. intézet parancsnoka az átmeneti részlegre helyezésről szóló határozatban az áthelyezés időpontjáról is rendelkezik.
 
 (2) Az elítélt a személyes szükségletre fordítható összeget vagy annak egy részét készpénzben is megkaphatja.
 
 (3) Az átmeneti részlegbe helyezésről a bv. intézet székhelye szerint illetékes büntetés-végrehajtási pártfogó felügyelőt értesíteni kell.
 
-[^77]: A 63. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 87. §-ával megállapított, az 1/2024. (II. 29.) IM rendelet 31. § 2. pontja szerint módosított szöveg.
+[^93]: A 63. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 87. §-ával megállapított, az 1/2024. (II. 29.) IM rendelet 31. § 2. pontja szerint módosított szöveg.

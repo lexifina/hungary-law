@@ -1,6 +1,6 @@
-## 20/C.[^60] A kategóriaváltás szabályai
+## 20/C.[^75] A kategóriaváltás szabályai
 
-40. §[^61] (1) Az elítélt első alkalommal akkor sorolható kedvezőbb kategóriába, ha
+40. §[^76] (1) Az elítélt első alkalommal akkor sorolható kedvezőbb kategóriába, ha
 
 a) megszerezte a kategória-előresoroláshoz – ideértve a Bv. tv. 99. § (10) bekezdésében meghatározott esetet is – szükséges kreditpontokat,
 
@@ -38,5 +38,5 @@ b) a Bv. tv. 99. § (10) bekezdése alapján a BFB az elítélt kategória-előr
 
 (10) A BFB a Bv. tv. 100. § (4) bekezdése alapján lefolytatott vizsgálat eredményeként is dönthet az elítélt kategória-előresorolásáról vagy -visszasorolása törléséről.
 
-[^60]: A 20/C. alcím címét az 1/2024. (II. 29.) IM rendelet 15. § (1) bekezdése iktatta be.
-[^61]: A 40. § az 1/2024. (II. 29.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^75]: A 20/C. alcím címét az 1/2024. (II. 29.) IM rendelet 15. § (1) bekezdése iktatta be.
+[^76]: A 40. § az 1/2024. (II. 29.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.

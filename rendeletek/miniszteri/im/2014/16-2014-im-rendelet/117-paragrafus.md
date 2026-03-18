@@ -10,9 +10,9 @@
 
 (6) Ha az alapfokú oktatásban részt vevő elítélt tudásszintje a bizonyítványában feltüntetettekhez képest nagyfokú lemaradást mutat, az elítélt részére a felzárkóztatást biztosítani kell.
 
-(7)[^155] Az I. és a II. kategóriába sorolt elítélt a bv. intézet parancsnokának engedélyével kivételesen a bv. intézeten kívül is folytathat tanulmányokat és leteheti a szükséges vizsgákat.
+(7)[^185] Az I. és a II. kategóriába sorolt elítélt a bv. intézet parancsnokának engedélyével kivételesen a bv. intézeten kívül is folytathat tanulmányokat és leteheti a szükséges vizsgákat.
 
-(8)[^156] A hosszúidős speciális részlegen és a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegén elhelyezett elítélt, az oktatásban egyéni tanulóként vehet részt.
+(8)[^186] A hosszúidős speciális részlegen és a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegén elhelyezett elítélt, az oktatásban egyéni tanulóként vehet részt.
 
-[^155]: A 117. § (7) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 18. pontja szerint módosított szöveg.
-[^156]: A 117. § (8) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 19. pontja szerint módosított szöveg.
+[^185]: A 117. § (7) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 18. pontja szerint módosított szöveg.
+[^186]: A 117. § (8) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 19. pontja szerint módosított szöveg.

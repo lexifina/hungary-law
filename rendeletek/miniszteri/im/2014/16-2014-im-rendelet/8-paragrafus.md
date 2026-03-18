@@ -8,4 +8,6 @@ a) a megpanaszolt döntést a panaszban foglaltaknak megfelelően kijavítja, ki
 
 b) a panaszt a Bv. tv. 21. § (7) bekezdése alapján érdemi vizsgálat nélkül elutasítja.
 
-(4) Ha az (1) bekezdés szerinti döntés vagy intézkedés a bv. intézet parancsnokának vagy a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP) kijelölt szervezeti egysége vezetőjének jogkörébe tartozik, a panaszt az országos parancsnokhoz a beérkezéstől számított nyolc napon belül kell felterjeszteni a (2) és (3) bekezdésben meghatározottak figyelembevételével.
+(4)[^12] Ha az (1) bekezdés szerinti döntés vagy intézkedés a bv. intézet parancsnokának vagy az agglomerációs központ vezetőjének a jogkörébe tartozik, a panaszt az agglomerációs központ vezetőjéhez, illetve az országos parancsnokhoz a beérkezéstől számított nyolc napon belül kell felterjeszteni a (2) és a (3) bekezdésben meghatározottak figyelembevételével.
+
+[^12]: A 8. § (4) bekezdése a 4/2026. (III. 10.) IM rendelet 44. §-ával megállapított szöveg.

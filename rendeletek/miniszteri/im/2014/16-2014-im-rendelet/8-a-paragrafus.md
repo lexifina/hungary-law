@@ -1,4 +1,4 @@
-8/A. §[^9] (1) A Bv. tv. 140. § (2) bekezdése szerinti formanyomtatványt a bv. szerv biztosítja az elítélt és az egyéb jogcímen fogvatartott részére.
+8/A. §[^13] (1) A Bv. tv. 140. § (2) bekezdése szerinti formanyomtatványt a bv. szerv biztosítja az elítélt és az egyéb jogcímen fogvatartott részére.
 
 (2) A bv. szerv a kérelem, illetve a panasz tárgyához, illetve a benyújtására jogosult személyéhez igazodóan eltérő adattartalmú formanyomtatványokat rendszeresíthet.
 
@@ -10,4 +10,4 @@
 
 (6) A rendszeresített formanyomtatványokat a bv. intézet honlapján letölthető formátumban meg kell jeleníteni.
 
-[^9]: A 8/A. §-t az 1/2023. (I. 12.) IM rendelet 6. §-a iktatta be.
+[^13]: A 8/A. §-t az 1/2023. (I. 12.) IM rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 24.[^67] Az egyedi biztonsági előírás
+## 24.[^82] Az egyedi biztonsági előírás
 
 50. § (1) A Bv. tv. 98. § (4) bekezdésében meghatározott feladatok biztonságos végrehajtása érdekében minden elítélt esetében
 
@@ -12,4 +12,4 @@ fel kell mérni a végrehajtás rendjét és a fogvatartás biztonságát veszé
 
 (3) Az egyedi biztonsági előírást a biztonsági szakterület vezetője készíti elő, és a parancsnok hagyja jóvá. A hathavonta esedékes felülvizsgálatot a biztonsági szakterület vezetője végzi el, és ennek során a biztonsági előírás fenntartásáról, megváltoztatásáról vagy megszüntetéséről dönt, azzal, hogy a megszüntetéshez a parancsnok jóváhagyása szükséges.
 
-[^67]: A 24. alcím (50. §) az 1/2024. (II. 29.) IM rendelet 19. §-ával megállapított szöveg.
+[^82]: A 24. alcím (50. §) az 1/2024. (II. 29.) IM rendelet 19. §-ával megállapított szöveg.

@@ -1,0 +1,3 @@
+136/J. § (1) A 136/E. § (1) és (2) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az elítélt feltételes szabadságra bocsátásának elbírálására irányuló előterjesztést az otthonápolási őrizet végrehajtására kijelölt ingatlan, illetve civil vagy egyházi fenntartású intézmény helye szerint illetékes bv. intézet teszi meg az illetékes büntetés-végrehajtási bírónak.
+
+(2) Ha a büntetés-végrehajtási bíró elektronikus távfelügyeleti eszköz alkalmazását rendelte el, az otthonápolási őrizet megszűnése esetén a bv. intézet felhívja az otthonápolási őrizet ellenőrzésében közreműködő büntetés-végrehajtási pártfogó felügyelőt, hogy az elítéltet keresse fel az elektronikus távfelügyeleti eszköz eltávolítása és átvétele céljából.

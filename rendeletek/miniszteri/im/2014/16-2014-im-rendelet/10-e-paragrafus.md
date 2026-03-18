@@ -1,4 +1,4 @@
-10/E. §[^12] (1) A Bv. tv. 133. § (4a) bekezdésének alkalmazása szempontjából különös méltánylást érdemlő körülménynek minősül, ha a kifizetés
+10/E. §[^16] (1) A Bv. tv. 133. § (4a) bekezdésének alkalmazása szempontjából különös méltánylást érdemlő körülménynek minősül, ha a kifizetés
 
 a) az elítélt vagy hozzátartozója életének, egészségének megőrzése,
 
@@ -10,4 +10,4 @@ miatt felmerülő kiadások érdekében szükséges.
 
 (2) A Bv. tv. 133. § (4a) bekezdésének alkalmazásával jár el a bv. intézet parancsnoka, ha az elítélt a kifizetés iránti kérelmet a vele szemben kiszabott pénzbüntetés vagy szabálysértési pénzbírság megfizetése érdekében nyújtja be.
 
-[^12]: A 10/E. § a 12/2022. (IV. 26.) IM rendelet 41. §-ával megállapított szöveg.
+[^16]: A 10/E. § a 12/2022. (IV. 26.) IM rendelet 41. §-ával megállapított szöveg.

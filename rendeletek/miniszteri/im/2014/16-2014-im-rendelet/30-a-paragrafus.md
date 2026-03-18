@@ -1,4 +1,4 @@
-30/A. §[^45] (1) A kockázatelemzési vizsgálat eredménye alapján a kezdeti kategóriabesorolás meghatározása – ide nem értve a Bv. tv. 97. § (3) bekezdés a) pontját – az alábbi szempontok figyelembevételével egyéniesített módon történik:
+30/A. §[^51] (1) A kockázatelemzési vizsgálat eredménye alapján a kezdeti kategóriabesorolás meghatározása – ide nem értve a Bv. tv. 97. § (3) bekezdés a) pontját – az alábbi szempontok figyelembevételével egyéniesített módon történik:
 
 a) a Bv. tv. 97. § (3) bekezdés c) pontja esetén az elítélt a II. kategóriába, a Bv. tv. 97. § (3) bekezdés e) pontja esetén a III. kategóriába sorolható, ha a kockázatelemzési vizsgálat nem tár fel ennek ellentmondó körülményt, a számára felkínált reintegrációs célú programok, oktatási, munkáltatási lehetőségek kapcsán együttműködő volt, a letartóztatása alatt enyhe vagy általános rezsimbe volt sorolva, illetve a letartóztatása alatt kapott jutalmazások, illetve fenyítések arányát is figyelembe véve várhatóan együttműködő magatartást fog tanúsítani,
 
@@ -40,4 +40,4 @@ alapján a kockázatelemzési vizsgálata ezt megalapozza.
 
 (4) A kategóriabesorolás meghatározásakor a KKMI és az agglomerációs szervezeti egysége, illetve a BFB az egyes szempontokat külön-külön és összességükben is értékeli, továbbá az (1) bekezdés c) vagy d) pontjában, valamint a (3) bekezdésben meghatározott valamely körülmény megállapítása nem zárja ki azt, hogy az elítélt javára hozza meg döntését.
 
-[^45]: A 30/A. §-t az 1/2024. (II. 29.) IM rendelet 11. § (3) bekezdése iktatta be.
+[^51]: A 30/A. §-t az 1/2024. (II. 29.) IM rendelet 11. § (3) bekezdése iktatta be.

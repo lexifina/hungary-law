@@ -1,4 +1,4 @@
-## 6/B. [^16] A Védelmi Program hatálya alatt álló vagy sürgősségi intézkedéssel érintett személlyel kapcsolatos rendelkezések
+## 6/B. [^20] A Védelmi Program hatálya alatt álló vagy sürgősségi intézkedéssel érintett személlyel kapcsolatos rendelkezések
 
 11/B. § (1) Ha az elítélt vagy az egyéb jogcímen fogvatartott a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény szerinti Védelmi Program hatálya alatt álló vagy sürgősséggel elrendelt különleges óvintézkedéssel érintett személy (a továbbiakban együtt: védett személy)
 
@@ -14,7 +14,7 @@ a bv. szerv a Tanúvédelmi Szolgálat útján továbbítja.
 
 (3) A védett személy kapcsolattartására vonatkozó kérelemről a bv. intézet a Tanúvédelmi Szolgálatot értesíti.
 
-(4)[^17] A bv. intézet a védett személy szabadulásának esedékessége előtt harminc nappal értesíti a Tanúvédelmi Szolgálatot.
+(4)[^21] A bv. intézet a védett személy szabadulásának esedékessége előtt harminc nappal értesíti a Tanúvédelmi Szolgálatot.
 
-[^16]: A 6/B. alcímet (11/B. §) a 14/2018. (VI. 15.) IM rendelet 12. §-a iktatta be.
-[^17]: A 11/B. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 75. §-a iktatta be.
+[^20]: A 6/B. alcímet (11/B. §) a 14/2018. (VI. 15.) IM rendelet 12. §-a iktatta be.
+[^21]: A 11/B. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 75. §-a iktatta be.

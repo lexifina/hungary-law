@@ -1,4 +1,4 @@
-7. melléklet a 16/2014. (XII. 19.) IM rendelethez[^347]
+7. melléklet a 16/2014. (XII. 19.) IM rendelethez[^384]
 
 Letéti pénzzel nem rendelkező elítélt részére a bv. intézet által biztosított alapvető tisztálkodási és felszerelési cikkek
 
@@ -16,4 +16,4 @@ Letéti pénzzel nem rendelkező elítélt részére a bv. intézet által bizto
 
 7. sampon.
 
-[^347]: A 7. melléklet címe a 22/2017. (XII. 22.) IM rendelet 45. § c) pontja szerint módosított szöveg.
+[^384]: A 7. melléklet címe a 22/2017. (XII. 22.) IM rendelet 45. § c) pontja szerint módosított szöveg.

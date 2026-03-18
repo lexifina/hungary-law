@@ -28,13 +28,13 @@ h) az utazást nem vállalja, vagy alapos okkal feltehető, hogy a jelentkezési
 
 i) a (2) bekezdés szerinti aláírást megtagadja,
 
-j)[^20] a bíróság vagy az ügyészség a szabadságvesztés ideiglenes foganatba vételét rendelte el.
+j)[^24] a bíróság vagy az ügyészség a szabadságvesztés ideiglenes foganatba vételét rendelte el.
 
-(5)[^21] Ha az elítélt a felhívásban megjelölt határnap elmulasztását követően önként jelentkezik a végrehajtásra, a bv. intézet
+(5)[^25] Ha az elítélt a felhívásban megjelölt határnap elmulasztását követően önként jelentkezik a végrehajtásra, a bv. intézet
 
 a) szükség szerint intézkedik a BVOP-nál az elővezetés, illetve a bv. bírónál az elfogatóparancs visszavonása érdekében, továbbá
 
 b) ha az elítélt nincs kizárva a feltételes szabadság kedvezményéből és nem nyújtott be igazolási kérelmet vagy azt a bv. intézet parancsnoka határozattal elutasította, a Bv. tv. 87. § (1) bekezdése alapján a feltételes szabadság kizárására előterjesztést tesz a bv. bírónak. Az előterjesztéshez csatolni kell a szabadságvesztés megkezdésére szóló felhívás kézbesítését igazoló tértivevényt vagy annak elektronikus másolatát, elektronikus kézbesítés esetén az elektronikus kézbesítésről szóló igazolást, valamint, ha az elítélt nyújtott be igazolási kérelmet, a kérelmet és az annak elutasításáról hozott határozatot.
 
-[^20]: A 14. § (4) bekezdés j) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.
-[^21]: A 14. § (5) bekezdését a 20/2020. (XII. 30.) IM rendelet 76. §-a iktatta be.
+[^24]: A 14. § (4) bekezdés j) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.
+[^25]: A 14. § (5) bekezdését a 20/2020. (XII. 30.) IM rendelet 76. §-a iktatta be.

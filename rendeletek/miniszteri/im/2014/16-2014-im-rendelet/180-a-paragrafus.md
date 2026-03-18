@@ -1,5 +1,5 @@
-180/A. §[^257] (1) A Bv. tv. 289. § d) pontjában meghatározott ok fennállása esetén a bv. intézet előterjesztést tesz a bv. bírónak a közérdekű munka végrehajthatósága megszűnésének megállapítása iránt.
+180/A. §[^290] (1) A Bv. tv. 289. § d) pontjában meghatározott ok fennállása esetén a bv. intézet előterjesztést tesz a bv. bírónak a közérdekű munka végrehajthatósága megszűnésének megállapítása iránt.
 
 (2) A Bv. tv. 293/A. § (1) bekezdésében meghatározott ok fennállása esetén a bv. intézet előterjesztést tesz a bv. bírónak a pénzbüntetés végrehajthatósága megszűnésének megállapítása iránt.
 
-[^257]: Az 180/A. §-t a 14/2018. (VI. 15.) IM rendelet 16. §-a iktatta be.
+[^290]: Az 180/A. §-t a 14/2018. (VI. 15.) IM rendelet 16. §-a iktatta be.

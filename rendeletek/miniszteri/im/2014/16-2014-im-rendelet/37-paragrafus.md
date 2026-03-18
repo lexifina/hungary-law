@@ -1,4 +1,4 @@
-37. §[^56] (1) Ha az elítélt több szabadságvesztést folyamatosan tölt, akkor valamennyi szabadságvesztés tartamát, illetve még végrehajtásra váró tartamát össze kell adni, és aszerint kell kiszámítani
+37. §[^71] (1) Ha az elítélt több szabadságvesztést folyamatosan tölt, akkor valamennyi szabadságvesztés tartamát, illetve még végrehajtásra váró tartamát össze kell adni, és aszerint kell kiszámítani
 
 a) a 36. § (1) bekezdése alkalmazásával a megszerezhető kreditpontok számát,
 
@@ -32,4 +32,4 @@ b) a szabadságvesztés tartamának vagy össztartamának csökkenése esetén a
 
 (8) Azonnali visszasorolás esetén a Bv. tv. 95. § (9) bekezdése alapján kell kiszámolni az egy vagy két kategória-előresoroláshoz szükséges kreditpontok számát.
 
-[^56]: A 37. § az 1/2024. (II. 29.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^71]: A 37. § az 1/2024. (II. 29.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.

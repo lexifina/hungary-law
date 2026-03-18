@@ -1,6 +1,6 @@
 ## 77. A szükségleti cikkek vásárlása
 
-133. § (1)[^169] Az elítélt a Bv. tv. 134. § szerinti levonásokat követően fennmaradó munkadíjából és a szabadon felhasználható letéti pénzéből – a bv. intézet parancsnoka által meghatározott időben és módon – az alapmunkadíj ötszörösének megfelelő összegnek a kategóriabesorolása szerinti mértékéig vásárolhat szükségleti cikket.
+133. § (1)[^199] Az elítélt a Bv. tv. 134. §-a szerinti levonásokat követően fennmaradó munkadíjából és a szabadon felhasználható letéti pénzéből havonta az alapmunkadíj háromszorosának megfelelő összegnek a kategória-besorolása szerinti mértékéig vásárolhat szükségleti cikket.
 
 (2) A szükségleti cikkek vásárlása esetében az elítéltnek előnyben kell részesíteni a tisztasági és tisztító szereinek megvásárlását.
 
@@ -8,4 +8,4 @@
 
 (4) Az elítélt a szükségleti cikkek vásárlására meghatározott összegen felül – a letéti pénze terhére, ha a bv. szerv felé nincs fennálló tartozása – engedéllyel megvásárolhatja a bv. intézetben magánál tartható tárgyakat, hozzátartozójának ajándékot vásárolhat, szabadulása előtt a polgári ruházatát kiegészítheti.
 
-[^169]: A 133. § (1) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 21. pontja szerint módosított szöveg.
+[^199]: A 133. § (1) bekezdése a 4/2026. (III. 10.) IM rendelet 51. §-ával megállapított szöveg.

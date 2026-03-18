@@ -1,4 +1,4 @@
-## 210. §[^341] E rendelet
+## 210. §[^377] E rendelet
 
 a) 11/A. §-a és 146/A. §-a a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 6. cikk (5) bekezdésének és 19. cikkének,
 
@@ -6,4 +6,4 @@ b) 203. §-a a büntetőeljárás során gyanúsított vagy vádlott gyermekek r
 
 való megfelelést szolgálja.
 
-[^341]: A 210. §-t a 31/2015. (X. 30.) IM rendelet 6. §-a iktatta be, szövege a 24/2019. (VIII. 2.) IM rendelet 2. §-ával megállapított szöveg.
+[^377]: A 210. §-t a 31/2015. (X. 30.) IM rendelet 6. §-a iktatta be, szövege a 24/2019. (VIII. 2.) IM rendelet 2. §-ával megállapított szöveg.

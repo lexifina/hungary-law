@@ -1,6 +1,6 @@
-## 19/A.[^43] A kockázatelemzési vizsgálat és a kategóriabesorolás szempontrendszere
+## 19/A.[^49] A kockázatelemzési vizsgálat és a kategóriabesorolás szempontrendszere
 
-30. §[^44] (1) A kockázatelemzési vizsgálat során a Bv. tv. 92. § (2) bekezdésének alkalmazásában kiemelt jelentőségű körülmények különösen a következők:
+30. §[^50] (1) A kockázatelemzési vizsgálat során a Bv. tv. 92. § (2) bekezdésének alkalmazásában kiemelt jelentőségű körülmények különösen a következők:
 
 a) az elítélt által elkövetett bűncselekmény jellemzői közül az, hogy az ítélet alapjául szolgáló bűncselekmény – több szabadságvesztés folyamatos végrehajtása esetén a még végrehajtásra váró ítélettel elbírált bűncselekmény is – személy elleni erőszakos vagy kiemelt tárgyi súlyú-e, a visszaesői minőség, a bűnszervezetben vagy bűnszövetségben való elkövetés, korábbi elítélések során az elítélt hasonló cselekményeket követett-e el,
 
@@ -52,5 +52,5 @@ d) egészségügyi vizsgálati módszerek.
 
 (9) A Bv. tv. 14. § (3) bekezdésének alkalmazásával foganatba vett újabb szabadságvesztés esetén a kockázatelemzési vizsgálat ideje alatt, valamint a Bv. tv. 96. § (1) bekezdés l) pontja és 97/A. § (4) vagy (5) bekezdése alapján lefolytatott újabb kockázatelemzési vizsgálat ideje alatt a BFB ilyen irányú döntése alapján az elítélt megtartja a kategóriabesorolását, ennek hiányában a végrehajtás rendjére a Bv. tv. 92. § (5) bekezdését kell alkalmazni.
 
-[^43]: A 19/A. alcím címét az 1/2024. (II. 29.) IM rendelet 11. § (1) bekezdése iktatta be.
-[^44]: A 30. § az 1/2024. (II. 29.) IM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^49]: A 19/A. alcím címét az 1/2024. (II. 29.) IM rendelet 11. § (1) bekezdése iktatta be.
+[^50]: A 30. § az 1/2024. (II. 29.) IM rendelet 11. § (2) bekezdésével megállapított szöveg.

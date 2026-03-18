@@ -1,6 +1,6 @@
-## 20/B.[^57] A kreditpontszerzés feltételei, a kreditpontok összesítése és annak felülvizsgálata
+## 20/B.[^72] A kreditpontszerzés feltételei, a kreditpontok összesítése és annak felülvizsgálata
 
-38. §[^58] (1) Az elítélt
+38. §[^73] (1) Az elítélt
 
 a) a kezdeti kategóriabesoroláskor – ideértve a Bv. tv. 14. § (3) bekezdésének alkalmazásával foganatba vett szabadságvesztés kezdeti kategóriabesorolását, abban az esetben is, ha a Bv. tv. 97. § (6) bekezdése alapján fenntartották a kategóriabesorolását –,
 
@@ -60,5 +60,5 @@ b) megállapítja, hogy az elítélt az összesítési időszak alatt hány plus
 
 c) kapott-e fegyelmit az elítélt, és ha igen, a fegyelmi fenyítések alapján hány kreditpontot kell levonni, illetve hogy a levonás felfüggesztéséről volt-e döntés.
 
-[^57]: A 20/B. alcím címét az 1/2024. (II. 29.) IM rendelet 14. § (1) bekezdése iktatta be.
-[^58]: A 38. § az 1/2024. (II. 29.) IM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^72]: A 20/B. alcím címét az 1/2024. (II. 29.) IM rendelet 14. § (1) bekezdése iktatta be.
+[^73]: A 38. § az 1/2024. (II. 29.) IM rendelet 14. § (2) bekezdésével megállapított szöveg.

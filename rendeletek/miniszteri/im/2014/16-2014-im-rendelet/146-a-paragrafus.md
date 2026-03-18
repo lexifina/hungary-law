@@ -1,6 +1,6 @@
 ## 146. § Ha az elítélt a rendszeres pénzellátásainak a bv. intézetbe történő folyósítását kérte és erről a szabadulásakor nem rendelkezett, akkor azt a szabadulását követően az általa megadott szabadulási címre kell továbbítani.
 
-146/A. §[^226] (1)[^227] A bv. intézet a Bv. tv. 13. § (3) bekezdése szerinti tájékoztatásában közli a BVOP-val a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy (a továbbiakban: értesítendő személy) nevét, az általa megadott lakcímet vagy értesítési címet a kérelem azonosítására szolgáló egyéb adatokat, továbbá az értesítés alapjául szolgáló ügyben érintett elítélt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját.
+146/A. §[^259] (1)[^260] A bv. intézet a Bv. tv. 13. § (3) bekezdése szerinti tájékoztatásában közli a BVOP-val a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy (a továbbiakban: értesítendő személy) nevét, az általa megadott lakcímet vagy értesítési címet a kérelem azonosítására szolgáló egyéb adatokat, továbbá az értesítés alapjául szolgáló ügyben érintett elítélt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját.
 
 (2) Az értesítendő személynek szóló, a Bv. tv. 13. § (3) bekezdése szerinti értesítésben csak az értesítés alapjául szolgáló ügyben érintett elítélt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját lehet közölni. Az értesítés semmilyen módon nem utalhat a fogvatartás helye szerinti bv. intézetre.
 
@@ -10,5 +10,5 @@ a) erről értesíti az elítélt által megjelölt, a szabadulását követő t
 
 b) – ha ennek feltételei fennállnak – az elítélt személyi védelme elrendelését kezdeményezi.
 
-[^226]: A 146/A. §-t a 31/2015. (X. 30.) IM rendelet 4. §-a iktatta be.
-[^227]: A 146/A. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 43. pontja, a 20/2020. (XII. 30.) IM rendelet 104. § 17. pontja szerint módosított szöveg.
+[^259]: A 146/A. §-t a 31/2015. (X. 30.) IM rendelet 4. §-a iktatta be.
+[^260]: A 146/A. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 43. pontja, a 20/2020. (XII. 30.) IM rendelet 104. § 17. pontja szerint módosított szöveg.

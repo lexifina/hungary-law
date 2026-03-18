@@ -1,6 +1,6 @@
-## 20/D.[^62] A kategória és kreditrendszer alkalmazása szempontjából jelentős adatok rögzítése a fogvatartotti nyilvántartásban
+## 20/D.[^77] A kategória és kreditrendszer alkalmazása szempontjából jelentős adatok rögzítése a fogvatartotti nyilvántartásban
 
-41. §[^63] (1) A kategória és kreditrendszer adatainak a nyilvántartása a fogvatartotti nyilvántartás része és az elítéltre vonatkozóan – a Bv. tv. 100. § (2) bekezdésében foglaltak figyelembevételével – a következő adatokat tartalmazza:
+41. §[^78] (1) A kategória és kreditrendszer adatainak a nyilvántartása a fogvatartotti nyilvántartás része és az elítéltre vonatkozóan – a Bv. tv. 100. § (2) bekezdésében foglaltak figyelembevételével – a következő adatokat tartalmazza:
 
 a) az elítélt kockázatelemzését, és ha készült, a kockázatértékelési jelentést,
 
@@ -14,5 +14,5 @@ e) annak tényét, ha a BFB az összesítés felülvizsgálata vagy a büntetés
 
 f) annak tényét, ha a végrehajtás alatt Bv. tv. 14. § (3) bekezdése alapján történő foganatba vétel vagy a Bv. tv. 93. § (3) bekezdése alapján újabb kezdeti kategóriabesorolásra került sor, vagy a 97. § (3) bekezdése alapján a kategória- előresorolás ütemezését újra kellett számítani az időpont megjelölésével úgy, hogy az addigi kreditpontszerzés és kreditpontlevonás is nyomon követhető maradjon.
 
-[^62]: A 20/D. alcím címét az 1/2024. (II. 29.) IM rendelet 16. § (1) bekezdése iktatta be.
-[^63]: A 41. § az 1/2024. (II. 29.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^77]: A 20/D. alcím címét az 1/2024. (II. 29.) IM rendelet 16. § (1) bekezdése iktatta be.
+[^78]: A 41. § az 1/2024. (II. 29.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.

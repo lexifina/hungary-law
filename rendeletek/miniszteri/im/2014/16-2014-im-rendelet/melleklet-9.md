@@ -46,7 +46,7 @@
 
 |  | .............................................................. aláírás |
 
-9. melléklet a 16/2014. (XII. 19.) IM rendelethez[^349]
+9. melléklet a 16/2014. (XII. 19.) IM rendelethez[^386]
 
 Az elítélt által térítési díj ellenében igénybe vehető többletszolgáltatások
 
@@ -60,4 +60,4 @@ Az elítélt által térítési díj ellenében igénybe vehető többletszolgá
 
 5. nyomtatás.
 
-[^349]: A 9. mellékletet az 1/2023. (I. 12.) IM rendelet 18. §-a iktatta be.
+[^386]: A 9. mellékletet az 1/2023. (I. 12.) IM rendelet 18. §-a iktatta be.

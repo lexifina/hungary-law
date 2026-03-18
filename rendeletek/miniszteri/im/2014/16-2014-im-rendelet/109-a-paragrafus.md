@@ -1,4 +1,4 @@
-## 66/A.[^146] A reintegrációs eltávozás
+## 66/A.[^176] A reintegrációs eltávozás
 
 109/A. § (1) A bv. intézet az elítélt befogadásakor megvizsgálja, hogy az elítélt a Bv. tv. 187/A. § (1) bekezdésében foglalt feltételeknek megfelel-e, és vele szemben nem állnak-e fenn a 187/C. § (1) bekezdésében meghatározott kizáró okok. Ha az elítélt a reintegrációs eltávozásra jogosult, annak legkorábbi időpontját a fogvatartási nyilvántartásban rögzíteni kell.
 
@@ -16,4 +16,4 @@
 
 (8) Az elítélt a visszatérést követően a reintegrációs célú tevékenységéről köteles beszámolni a reintegrációs tiszt részére, amit a fogvatartotti nyilvántartásban rögzíteni kell.
 
-[^146]: A 66/A. alcímet (109/A. §-t) az 1/2023. (I. 12.) IM rendelet 12. §-a iktatta be.
+[^176]: A 66/A. alcímet (109/A. §-t) az 1/2023. (I. 12.) IM rendelet 12. §-a iktatta be.

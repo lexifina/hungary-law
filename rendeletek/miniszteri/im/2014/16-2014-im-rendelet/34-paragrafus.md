@@ -1,4 +1,4 @@
-34. §[^52] (1) Az V. kategóriába sorolt elítélt
+34. §[^61] (1) Az V. kategóriába sorolt elítélt
 
 a) kapcsolattartójával hetente húsz perc időtartamban telefonálhat,
 
@@ -24,7 +24,7 @@ k) sport vagy kulturális programon a parancsnok engedélyével vehet részt,
 
 l) birtokában tartható tárgyak köre kizárólag az 1. mellékletben meghatározottakra – ide nem értve a külön engedéllyel tartható tárgyakat – terjedhet ki, továbbá a birtokában tartható tárgyak mennyisége csökkenthető,
 
-m) személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 60%-os mértékig költheti el.
+m)[^62] személyes szükségleteire havonta fordítható összeget – a jogszabályban meghatározott levonásokat követően – 60%-os mértékig költheti el.
 
 (2) A IV. kategóriába sorolt elítélt
 
@@ -50,7 +50,7 @@ j) közösségi helyiségek használatára a parancsnok engedélyével jogosult,
 
 k) birtokában tartható tárgyak köre kizárólag az 1. mellékletben meghatározottakra – kivételesen a külön engedéllyel tartható tárgyakra – terjedhet ki,
 
-l) személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig költheti el.
+l)[^63] személyes szükségleteire havonta fordítható összeget – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig költheti el.
 
 (3) A III. kategóriába sorolt elítélt
 
@@ -78,7 +78,7 @@ k) közösségi helyiségek használatára a parancsnok engedélyével jogosult,
 
 l) birtokában tartható tárgyak köre az 1. mellékletben meghatározottakra terjedhet ki, azzal, hogy a parancsnok engedélyéhez kötött tárgyakat is tarthat magánál,
 
-m) személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 80%-os mértékig költheti el.
+m)[^64] személyes szükségleteire havonta fordítható összeget – a jogszabályban meghatározott levonásokat követően – 80%-os mértékig költheti el.
 
 (4) A II. kategóriába sorolt elítélt
 
@@ -106,7 +106,7 @@ k) többletszolgáltatásokat térítés ellenében vehet igénybe, a kondicion�
 
 l) 1. melléklet szerinti birtokában tartható tárgyak köre nem korlátozott,
 
-m) személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig költheti el.
+m)[^65] személyes szükségleteire havonta fordítható összeget – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig költheti el.
 
 (5) Az I. kategóriába sorolt elítélt
 
@@ -134,6 +134,14 @@ k) többletszolgáltatásokat térítés ellenében vehet igénybe, a kondicion�
 
 l) 1. melléklet szerinti birtokában tartható tárgyak köre nem korlátozott,
 
-m) személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig költheti el.
+m)[^66] személyes szükségleteire havonta fordítható összeget – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig költheti el.
 
-[^52]: A 34. § az 1/2024. (II. 29.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
+(6)[^67] Az 1. melléklet szerint külön engedéllyel tartható tárgyak abban az esetben is csak engedéllyel tarthatók, ha a kategória-besorolás szerint az elítélt birtokában tartható tárgyak köre nem korlátozott. Az elítélt birtokában tartható tárgyak körének a kategória-besorolás szerinti korlátozása nem vonatkozik a büntetés-végrehajtási orvos (a továbbiakban: bv. orvos) által engedélyezett gyógyszerekre, gyógyászati vagy orvosi segédeszközökre, vitaminokra és tápszerekre.
+
+[^61]: A 34. § az 1/2024. (II. 29.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^62]: A 34. § (1) bekezdés m) pontja a 4/2026. (III. 10.) IM rendelet 55. § a) pontja szerint módosított szöveg.
+[^63]: A 34. § (2) bekezdés l) pontja a 4/2026. (III. 10.) IM rendelet 55. § a) pontja szerint módosított szöveg.
+[^64]: A 34. § (3) bekezdés m) pontja a 4/2026. (III. 10.) IM rendelet 55. § a) pontja szerint módosított szöveg.
+[^65]: A 34. § (4) bekezdés m) pontja a 4/2026. (III. 10.) IM rendelet 55. § a) pontja szerint módosított szöveg.
+[^66]: A 34. § (5) bekezdés m) pontja a 4/2026. (III. 10.) IM rendelet 55. § a) pontja szerint módosított szöveg.
+[^67]: A 34. § (6) bekezdését a 4/2026. (III. 10.) IM rendelet 47. §-a iktatta be.
