@@ -1,17 +1,11 @@
-42. § (1) Ha az elítélt a szabályszerűen kézbesített felhívás ellenére sem jelent meg a bv. intézetben, a bv. bíró három napon belül intézkedik az elítélt elővezetése iránt a Bv. tv. 86. § (4) bekezdésében meghatározott bv. intézetbe, és az intézkedéséről a bv. intézetet is értesíti.
+42. §[^34] (1) Ha a bv. bíró az elzárás végrehajtását kizáró okot állapít meg, vagy az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján kitöltötte az elzárást, a bv. bíró az értesítőlapra bírói rendelvényt nem vezet, a felhívás érdekében nem intézkedik.
 
-(2) A bv. tisztviselő az elővezetés elrendeléséről oly módon értesíti a bv. intézetet, hogy a behívott elítéltekről szóló következő jegyzékbe az elítéltet újból bevezeti, feltüntetve az elővezetés határnapját.
+(2) A bv. bíró az elzárás végrehajtását kizáró ok megállapításáról az elévülés bekövetkezése esetén a Bv. tv. 70. § (1) bekezdése szerinti eljárásban határoz, az elzárás végrehajthatóságának a Bv. tv. 278. § a), illetve b) pontjában meghatározott okból való megszűnése esetén határozatot hoz. A bv. bíró a végrehajtást kizáró ok megállapításáról szóló határozatát megküldi az elsőfokon eljárt bíróságnak.
 
-(3) Ha az elővezetés nem vezetett eredményre vagy az elzárás megkezdésére szóló felhívás az elítéltnek azért nem volt kézbesíthető, mert az elítélt
+(3) Ha a bv. bíró az elzárás végrehajtását kizáró okot a bírói rendelvény kiadását követően állapítja meg, a (2) bekezdésben foglaltak szerint jár el, azzal, hogy a határozatát soron kívül megküldi
 
-a) a megjelölt címen ismeretlen, vagy onnan ismeretlen helyre távozott,
+a) a BVOP-nak,
 
-b) a megadott kézbesítési címén vagy biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségén nem elérhető, illetve az megszűnt,
+b) az elzárás foganatba vétele esetén az elzárást foganatosító bv. intézetnek, és azonnal intézkedik az elítélt szabadon bocsátása iránt.
 
-a bv. bíró a továbbiakban a Bv. tv. 19. §-a szerint jár el.
-
-(4)[^25] A bv. bíró az elfogatóparancsban úgy rendelkezik, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő, és erről egyidejűleg értesíti a bv. csoport székhelyén működő vármegyei (fővárosi) bv. intézetet.
-
-(5) A bv. bíró legalább háromhavonta ellenőrzi az elfogatóparancsok elektronikus nyilvántartásának szabályszerű vezetését, és azt, hogy az elfogatóparancs kibocsátását, illetve visszavonását átvezették-e.
-
-[^25]: A 42. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 10. pontja szerint módosított szöveg.
+[^34]: A 42. § a 4/2026. (III. 10.) IM rendelet 61. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-30. § (1) Ha az elítélt a szabályszerűen kézbesített felhívás ellenére nem jelent meg a bv. intézetben, erről a bv. intézet soron kívül értesíti a BVOP-t az elítélt elővezetése, szükség szerint elfogatóparancs kibocsátásának kezdeményezése céljából.
+30. § (1)[^25]
 
-(2) A BVOP az elővezetés elrendeléséről értesíti a bv. intézetet és a bv. csoportot, feltüntetve az elővezetés határnapját.
+(2)[^26]
 
-(3) A bv. intézet az elítélt elővezetésének eredményéről azonnal értesíti a BVOP-t.
+(3)[^27]
 
 (4) Ha a szabadságvesztés megkezdésére szóló felhívás az elítéltnek azért nem volt kézbesíthető, mert a kézbesítő jelentése szerint az elítélt
 
@@ -25,3 +25,7 @@ c) megállapítható, hogy az elítélt a szabadságvesztés végrehajtásának 
 (7) A bv. bíró az elfogatóparancsban rendelkezik arról, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő. Az elfogatóparancs kibocsátásáról a bv. csoport három napon belül értesíti a BVOP-t.
 
 (8) A bv. bíró legalább háromhavonta ellenőrzi az elfogatóparancsok nyilvántartásának szabályszerű vezetését, valamint az elfogatóparancs kibocsátásának, illetve visszavonásának átvezetését.
+
+[^25]: A 30. § (1) bekezdését a 4/2026. (III. 10.) IM rendelet 71. § c) pontja hatályon kívül helyezte.
+[^26]: A 30. § (2) bekezdését a 4/2026. (III. 10.) IM rendelet 71. § c) pontja hatályon kívül helyezte.
+[^27]: A 30. § (3) bekezdését a 4/2026. (III. 10.) IM rendelet 71. § c) pontja hatályon kívül helyezte.

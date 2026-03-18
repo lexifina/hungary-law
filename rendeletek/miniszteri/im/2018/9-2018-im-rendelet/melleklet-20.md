@@ -1,3 +1,3 @@
-20. melléklet a 9/2018. (VI. 11.) IM rendelethez[^124]
+20. melléklet a 9/2018. (VI. 11.) IM rendelethez[^143]
 
-[^124]: A 20. mellékletet a 20/2020. (XII. 30.) IM rendelet 130. § g) pontja hatályon kívül helyezte.
+[^143]: A 20. mellékletet a 20/2020. (XII. 30.) IM rendelet 130. § g) pontja hatályon kívül helyezte.

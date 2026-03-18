@@ -1,4 +1,4 @@
-19. melléklet a 9/2018. (VI. 11.) IM rendelethez[^123]
+19. melléklet a 9/2018. (VI. 11.) IM rendelethez[^142]
 
 RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -54,7 +54,7 @@ RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1.9. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.10. biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség (a büntetőeljárásban a terhelt által választott elektronikus kapcsolattartás esetén)
+1.10. elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 2. A rendbírságot kiszabó bíróság/ügyészség adatai
 
@@ -94,4 +94,4 @@ RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 9.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bv. bírói tisztség megjelölése
 
-[^123]: A 19. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (3) bekezdése szerint módosított szöveg.
+[^142]: A 19. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (3) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § g) pontja szerint módosított szöveg.

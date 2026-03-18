@@ -8,4 +8,6 @@
 
 (5) Ha a terhelt az értesítőlap kiállítását megelőzően kegyelemben részesült, a végrehajtás érdekében a kegyelmi határozatban foglaltak szerint kell intézkedni.
 
-(6) Ha a büntetés vagy az intézkedés végrehajtása iránti intézkedések során a bv. csoport az elítélt haláláról értesül, beszerzi a halotti anyakönyvi kivonatot, és a bv. bíró a halál tényéről értesíti a végrehajtásért felelős szervet, továbbá intézkedik a körözés, illetve az elfogatóparancs visszavonása érdekében.
+(6)[^13] Ha a büntetés vagy az intézkedés végrehajtása iránti intézkedések során a bv. csoport az elítélt haláláról értesül, annak tényét az iratokban a személyiadat- és lakcímnyilvántartásból történő lekérdezés útján, vagy ha az rendelkezésre áll, a halotti anyakönyvi kivonattal igazolja. A bv. bíró a halál tényéről értesíti a végrehajtásért felelős szervet, továbbá intézkedik a körözés, illetve az elfogatóparancs visszavonása érdekében.
+
+[^13]: A 10. § (6) bekezdése a 4/2026. (III. 10.) IM rendelet 60. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet a 9/2018. (VI. 11.) IM rendelethez[^121]
+3. melléklet a 9/2018. (VI. 11.) IM rendelethez[^137]
 
 ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -58,7 +58,7 @@ ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1.11. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.12. biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség (a büntetőeljárásban a terhelt által választott elektronikus kapcsolattartás esetén)
+1.12. elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 1.13. Nem magyar állampolgár esetén a személyazonosító okmány típusa és az okmány száma
 
@@ -190,4 +190,4 @@ ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 15.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése.
 
-[^121]: A 3. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (2) bekezdése szerint módosított szöveg.
+[^137]: A 3. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (2) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § c) pontja szerint módosított szöveg.

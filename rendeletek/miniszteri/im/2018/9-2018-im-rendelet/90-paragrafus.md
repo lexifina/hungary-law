@@ -12,17 +12,19 @@ határozatát az illetékes GH-nak kell megküldeni.
 
 (2) Az (1) bekezdés szerinti esetben a GH eljárására az 51–52. §-ban, továbbá – a (3) bekezdésben meghatározott kivétellel – az 53. § (2) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-(3) Ha a kötelezett a rendbírságot a felhívásban megjelölt határidőben nem fizette meg, és a rendbírság szabadságvesztésre átváltoztatásának van helye, a GH értesíti a rendbírságot kiszabó határozatot meghozó bíróságot az átváltoztatás érdekében.
+(3)[^80] Ha a kötelezett a rendbírságot a felhívásban megjelölt határidőben nem fizette meg, és a rendbírság elzárásra átváltoztatásának van helye, a GH értesíti a rendbírságot kiszabó határozatot meghozó bíróságot az átváltoztatás érdekében.
 
-(4) A bíróság a rendbírságot helyettesítő elzárásról a 19. melléklet szerinti adattartalommal értesítőlapot állít ki, és azt az átváltoztató végzés egy kiadmányával a bv. csoportnak, az átváltoztató végzés egy kiadmányát a GH-nak küldi meg. A bv. csoport a továbbiakban a 41–43. § megfelelő alkalmazásával jár el.
+(4)[^81]
 
 (5) Ha a rendbírságot a Be. 127. § (5) bekezdése alapján az ügyészség vagy a nyomozó hatóság szabta ki, annak megfizetésére a kötelezettet az önkéntes teljesítésre utalva hívja fel. Ha a kötelezett a rendbírságot a felhívásban megjelölt határidőben nem fizette meg, és a Be. 128. § (2) bekezdése alapján elzárásra átváltoztatásnak van helye, az ügyészség, illetve a nyomozó hatóság indítványozza a bíróságnál a rendbírság elzárásra történő átváltoztatását. Ha a bíróság a rendbírság elzárásra történő átváltoztatásáról határoz, a továbbiakban a (4) bekezdés szerint jár el.
 
-(6)[^68]
+(6)[^82]
 
 (7) Ha a rendbírságot annak elzárásra történő átváltoztatását követően fizetik meg, a bíróság, illetve a bv. intézet az 54. § megfelelő alkalmazásával jár el.
 
-(8)[^69] A közjegyző az általa kiszabott pénzbírságnak a székhelye szerint illetékes törvényszék bevételi számlája javára történő megfizetésére a kötelezettet önkéntes teljesítésre utalva – a pénzbírságot kiszabó határozat ügyszámára hivatkozással – hívja fel. Ha a kötelezett a pénzbírság megfizetését a megjelölt határidő lejártától számított harminc napon belül a közjegyzőnél nem igazolta, a közjegyző a végrehajtható határozat egy kiadmányát megküldi annak a GH-nak, amelynek a területén a székhelye található. A GH a behajtás érdekében 4. § (3) bekezdése szerint jár el.
+(8)[^83] A közjegyző az általa kiszabott pénzbírságnak a székhelye szerint illetékes törvényszék bevételi számlája javára történő megfizetésére a kötelezettet önkéntes teljesítésre utalva – a pénzbírságot kiszabó határozat ügyszámára hivatkozással – hívja fel. Ha a kötelezett a pénzbírság megfizetését a megjelölt határidő lejártától számított harminc napon belül a közjegyzőnél nem igazolta, a közjegyző a végrehajtható határozat egy kiadmányát megküldi annak a GH-nak, amelynek a területén a székhelye található. A GH a behajtás érdekében 4. § (3) bekezdése szerint jár el.
 
-[^68]: A 90. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § c) pontja hatályon kívül helyezte.
-[^69]: A 90. § (8) bekezdése a 20/2020. (XII. 30.) IM rendelet 119. §-ával megállapított szöveg.
+[^80]: A 90. § (3) bekezdése a 4/2026. (III. 10.) IM rendelet 70. § d) pontja szerint módosított szöveg.
+[^81]: A 90. § (4) bekezdését a 4/2026. (III. 10.) IM rendelet 71. § d) pontja hatályon kívül helyezte.
+[^82]: A 90. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § c) pontja hatályon kívül helyezte.
+[^83]: A 90. § (8) bekezdése a 20/2020. (XII. 30.) IM rendelet 119. §-ával megállapított szöveg.

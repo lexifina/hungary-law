@@ -38,7 +38,7 @@
 
 ## tisztviselő – írnok
 
-32. melléklet a 9/2018. (VI. 11.) IM rendelethez[^127]
+32. melléklet a 9/2018. (VI. 11.) IM rendelethez[^149]
 
 JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
@@ -46,7 +46,7 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 ## Büntetés-végrehajtás Országos Parancsnoksága
 
-## A Büntetés-végrehajtás Országos Parancsnoksága felhívja ............................................................................................ elítéltet (aki .........................-n ........... évi ................ hó ...... napján született, anyja neve: .................................................), hogy a(z) .................................................................................................. Járásbíróság/Törvényszék ...................../20...../................... számú ítéletével, a(z) ....................................................................... Törvényszék/Ítélőtábla mint másodfokú bíróság, és az Ítélőtábla/Kúria a(z) ............................/20............./............. számú határozatával ..................................................... miatt jogerősen kiszabott ..................................................... szabadságvesztésének megkezdése végett
+## A Büntetés-végrehajtás Országos Parancsnoksága felhívja ............................................................................................ elítéltet (aki .........................-n ........... évi ................ hó ...... napján született, anyja neve: .................................................), hogy a(z) .................................................................................................. Járásbíróság/Törvényszék ...................../20...../................... számú ítéletével, a(z) ....................................................................... Törvényszék/Ítélőtábla mint másodfokú bíróság, és az Ítélőtábla/Kúria a(z) ............................/20............./............. számú határozatával ..................................................... miatt jogerősen kiszabott ..................................................... szabadságvesztésének megkezdése és a kockázatelemzési vizsgálaton történő megjelenés végett
 
 ## a(z) .............................................................. Büntetés-végrehajtási Intézetben – Országos Büntetés-végrehajtási Intézetben – Fegyház és Börtönben (........................................... település ................................ utca ............... szám)
 
@@ -92,4 +92,4 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 8. Felhívom a figyelmét, hogy a szabadságvesztés büntetés megkezdésével összefüggésben előterjesztett halasztás iránti kérelemnek, illetve az ilyen kérelmet elutasító végzés ellen bejelentett fellebbezésnek nincs halasztó hatálya. Jogerős halasztást engedélyező határozat meghozataláig a felhívásban megjelölt időpontban és helyen meg kell jelennie.
 
-[^127]: A 32. melléklet a 15/2023. (X. 24.) IM rendelet 8. § a) pontjával megállapított szöveg.
+[^149]: A 32. melléklet a 15/2023. (X. 24.) IM rendelet 8. § a) pontjával megállapított, a 4/2026. (III. 10.) IM rendelet 70. § c) pontja szerint módosított szöveg.

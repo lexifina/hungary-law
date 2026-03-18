@@ -8,6 +8,8 @@ a) a bírói rendelvénnyel ellátott értesítőlapokat és a határozatokat me
 
 b) ellátja a szabadságvesztés végrehajtásával kapcsolatos ügyviteli feladatokat,
 
-c) ellátja a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztésre, az elzárásra és a rendbírságot helyettesítő elzárásra ítéltnek a bv. intézetbe utalásával, valamint ezekkel kapcsolatos egyéb ügyviteli feladatokat,
+c)[^1] ellátja a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztésre és a rendbírságot helyettesítő elzárásra ítéltnek a bv. intézetbe utalásával, valamint ezekkel kapcsolatos egyéb ügyviteli feladatokat,
 
 d) elkészíti az érdemi intézkedések tervezetét.
+
+[^1]: A 3. § (3) bekezdés c) pontja a 4/2026. (III. 10.) IM rendelet 71. § a) pontja szerint módosított szöveg.

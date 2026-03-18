@@ -1,13 +1,15 @@
-43. § (1) Ha a bv. bíró az elzárás végrehajtását kizáró okot állapít meg, vagy az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján kitöltötte az elzárást, a bv. bíró az értesítőlapra bíró rendelvényt nem vezet, a felhívás érdekében nem intézkedik.
+43. §[^35] (1) Ha a bíróság a bírói rendelvénnyel ellátott értesítőlapot az elítélttel szemben elrendelt letartóztatást, más ügyben kiszabott szabadságvesztést foganatosító bv. intézetnek küldte meg, a bv. bíró – az elzárás végrehajthatósága megszűnésének a Bv. tv. 278. § c) pontjában meghatározott feltétele bekövetkeztének várható időpontjára figyelemmel – az iratokat határidős nyilvántartásba teszi.
 
-(2) A bv. bíró az elzárás végrehajtását kizáró ok megállapításáról az elévülés bekövetkezése esetén a Bv. tv. 70. § (1) bekezdés szerinti eljárásban határoz, az elzárás végrehajthatóságának a Bv. tv. 278. § a), illetve b) pontjában meghatározott okból való megszűnése esetén határozatot hoz. A bv. bíró a végrehajtást kizáró ok megállapításáról szóló határozatát megküldi az elsőfokon eljárt bíróságnak.
+(2) Ha a bíróság a bírói rendelvénnyel ellátott értesítőlapot a BVOP-nak megküldte, és az elítélt javítóintézeti nevelés hatálya alatt áll, a bv. bíró az iratokat – az ideiglenes elbocsátás esedékességére figyelemmel – határidős nyilvántartásba teszi.
 
-(3) Ha a bv. csoport az elítélt haláláról értesül, beszerzi a halotti anyakönyvi kivonatot, és ha a felhívást már kiadta, a bv. bíró a halál tényéről értesíti a 41. § (4) bekezdése szerinti bv. intézetet, szükség esetén intézkedik a körözés, illetve az elfogatóparancs visszavonása érdekében.
+(3) Ha ideiglenes elbocsátásra nem került sor, a bv. bíró az iratokat – a javítóintézetből való elbocsátás, illetve ha ez előbb következne be, az elzárás végrehajthatósága megszűnésének a Bv. tv. 278. § c) pontjában meghatározott feltétele bekövetkeztének várható időpontjára figyelemmel – határidős nyilvántartásba teszi.
 
-(4) Ha a bv. bíró az elzárás végrehajtását kizáró okot a bírói rendelvény kiadását követően állapítja meg, az (1) bekezdésben foglaltak szerint jár el azzal, hogy az elzárás végrehajthatóságának a Bv. tv. 278. § c) pontjában meghatározott okból való megszűnését határozattal állapítja meg.
+(4) Ha az elítélttel szemben letartóztatást, szabadságvesztést vagy más ügyben kiszabott elzárást vesznek foganatba, a bv. bíró – feltéve, hogy az elzárás végrehajtásának nincs akadálya – az elzárásról kiállított értesítőlapra bírói rendelvényt vezet. Az értesítőlapot, a határozatkiadmányokat és az egyéb iratokat a bv. bíró az elítéltet fogva tartó bv. intézetnek küldi meg.
 
-(5) A bv. bíró a (4) bekezdés szerinti határozatát megküldi
+(5) Ha a felhívással érintett elzárás végrehajtásának megkezdése előtt az elítélttel szemben javítóintézetben foganatosított letartóztatást vagy javítóintézeti nevelést vesznek foganatba, a bv. bíró – ha az elzárás végrehajtásának nincs akadálya – az elzárásról kiállított értesítőlapra bírói rendelvényt vezet, és azt a határozatkiadmányokkal és egyéb ügyiratokkal együtt megküldi a BVOP-nak.
 
-a) az elzárás foganatba vétele esetén, az elzárást foganatosító bv. intézetnek, és azonnal intézkedik az elítélt szabadon bocsátása iránt, egyéb esetben annak a bv. intézetnek, amelynek az értesítőlapot megküldték,
+(6) Az (5) bekezdésben meghatározott esetben a bv. bíró az értesítőlap „Megjegyzés” rovatában feltünteti, hogy a bíróság a javítóintézetet felhívta arra, hogy a letartóztatás megszűnését vagy megszüntetését, a javítóintézetből való elbocsátást követő nappal, illetve ideiglenes elbocsátás esedékességével a javítóintézet székhelye szerint illetékes rendőrség útján intézkedjen az elítéltnek a javítóintézet székhelye szerinti bv. intézetbe való átszállítása iránt.
 
-b) az elsőfokon eljárt bíróságnak.
+(7) A bv. bíró a javítóintézet igazgatóját a 40. § (4) és (5) bekezdésének a megfelelő alkalmazásával hívja fel intézkedésre, és a felhívást az elzárás végrehajtására kiállított értesítőlap másolatával a letartóztatást vagy javítóintézeti nevelést foganatosító javítóintézetnek küldi meg.
+
+[^35]: A 43. § a 4/2026. (III. 10.) IM rendelet 61. §-ával megállapított szöveg.

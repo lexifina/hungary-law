@@ -1,6 +1,6 @@
 ## Az elítélt felhívása a szabadságvesztés megkezdésére.
 
-33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^128]
+33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^150]
 
 JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
@@ -8,7 +8,7 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 ## Büntetés-végrehajtás Országos Parancsnoksága
 
-## A Büntetés-végrehajtás Országos Parancsnoksága felhívja ............................................................................... elítéltet (született: ........................, anyja neve: ..............................................), hogy a(z) ...................................................................................... Járásbíróság/Törvényszék .................................................. számú ítéletével, a(z) ................................................ Törvényszék/Ítélőtábla ....................................... számú határozatával, valamint a(z) ................................. Ítélőtábla/Kúria .............................. számú határozatával ................................ miatt jogerősen kiszabott ............................... szabadságvesztésének megkezdése végett gyermekével együtt a(z) ...................................................... Büntetés-végrehajtási Intézetben (......................................... település .................................... utca ......... szám)
+## A Büntetés-végrehajtás Országos Parancsnoksága felhívja ............................................................................... elítéltet (született: ........................, anyja neve: ..............................................), hogy a(z) ...................................................................................... Járásbíróság/Törvényszék .................................................. számú ítéletével, a(z) ................................................ Törvényszék/Ítélőtábla ....................................... számú határozatával, valamint a(z) ................................. Ítélőtábla/Kúria .............................. számú határozatával ................................ miatt jogerősen kiszabott ............................... szabadságvesztésének megkezdése és a kockázatelemzési vizsgálaton történő megjelenés végett gyermekével együtt a(z) ...................................................... Büntetés-végrehajtási Intézetben (......................................... település .................................... utca ......... szám)
 
 ## 20... évi ...... hó ...... napján ...... órakor jelentkezzék.
 
@@ -36,18 +36,4 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 3. Hozza magával a személyi igazolványát, útlevelét, az adóigazolványát, a taj-számát tartalmazó hatósági bizonyítványát és a nyugdíjfolyósítási törzsszámát, közgyógyellátási igazolványát, továbbá a rendelkezésére álló iskolai végzettséget igazoló okmányainak másolatait, valamint a kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatáson való részvételről szóló nyomozó hatósági tanúsítványt, az ügyészségi határozatot, a bírósági végzést, valamint a gyermek születési anyakönyvi kivonatát, az egészségügyi kiskönyvét, a szülést követően kiadott kórházi zárójelentését, továbbá a gyermek egyéb egészségügyi iratait.
 
-4. A személyes használatára a következőket hozhatja magával: egynapi hideg élelem, eldobható, egyszer használatos borotva, fogápoló szerek, mosdószappan és egészségügyi papír, készpénz, papír, írószer, hozzátartozójának küldhető felbélyegzett boríték, vallásgyakorlathoz szükséges kegytárgyak, elemmel működtethető zsebrádió, fülhallgató, orvosa által igazoltan engedélyezett gyógyszerek kizárólag eredeti csomagolásban. A magánál nem tartható tárgyakat a büntetés-végrehajtási intézet vagy az elítélt letétjébe helyezi, vagy az elítélt költségére a megjelölt személynek elküldi, vagy jegyzőkönyv egyidejű felvétele mellett megsemmisíti. Együttes elhelyezés esetén a büntetés-végrehajtási intézet a gyermek részére teljes körű ellátást biztosít. A gyermek után járó családi pótlék felhasználható része a gyermek ellátására vagy ellátásának kiegészítésére fordítható.
-
-5. Tájékoztatom, hogy a büntetés-végrehajtási intézet anya-gyermek részlegén elhelyezett gyermek tekintetében az Ön szülői felügyeleti joga szünetel. Kivételt képez és egyúttal kötelezettségként jelenik meg az Ön számára a gyermekkel kapcsolatos gondozási és nevelési jog gyakorlása. Felhívom figyelmét, hogy ha az együttes elhelyezés során a gyermeket elhanyagolja, bántalmazza, fejlődését bármely módon veszélyezteti, az együttes elhelyezés megszüntetésére kerül sor.
-
-6. Gondoskodjon kiskorú gyermeke vagy az Ön által gondozott más személy elhelyezéséről, felügyeletéről, továbbá vagyonának, ingatlanának biztonságba helyezéséről. Ha nem sikerül az elhelyezésről, felügyeletről gondoskodni, és így kiskorú gyermeke vagy más, Ön által gondozott személy a szabadságvesztés végrehajtása alatt felügyelet nélkül maradna, ezt a körülményt a jelen felhívásra hivatkozva – a felügyelet nélkül maradó személy nevének, korának, lakó- vagy tartózkodási helyének megjelölésével – minél előbb jelentse a Büntetés-végrehajtás Országos Parancsnokságának.
-
-7. A Magyarországon élő elítélt köteles a lakóhelye vagy a tartózkodási helye címében (a továbbiakban: lakcím) bekövetkező változást a változás bekövetkeztétől számított három munkanapon belül a végrehajtásáért felelős szervnek, ha ez nem ismert, az érdemi határozatot hozó, elsőfokú bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
-
-## A kötelezettség elmulasztása miatt a büntetés-végrehajtási bíró hivatalból vagy a végrehajtásért felelős szerv kezdeményezésére rendbírságot szab ki.
-
-## A rendbírság kiszabására a Be. 127. § (1)–(4) bekezdését kell alkalmazni.
-
-8. Felhívom a figyelmét, hogy a szabadságvesztés büntetés megkezdésével összefüggésben előterjesztett halasztás iránti kérelemnek, illetve az ilyen kérelmet elutasító végzés ellen bejelentett fellebbezésnek nincs halasztó hatálya. Jogerős halasztást engedélyező határozat meghozataláig a felhívásban megjelölt időpontban és helyen meg kell jelennie.
-
-[^128]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított szöveg.
+[^150]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított, a 4/2026. (III. 10.) IM rendelet 70. § c) pontja szerint módosított szöveg.

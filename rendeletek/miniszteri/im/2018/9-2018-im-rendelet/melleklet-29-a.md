@@ -58,6 +58,6 @@
 
 ## terhelt/tanú/sértett
 
-29/A. melléklet a 9/2018. (VI. 11.) IM rendelethez[^126]
+29/A. melléklet a 9/2018. (VI. 11.) IM rendelethez[^148]
 
-[^126]: A 29/A. mellékletet a 12/2022. (IV. 26.) IM rendelet 59. § (4) bekezdése iktatta be.
+[^148]: A 29/A. mellékletet a 12/2022. (IV. 26.) IM rendelet 59. § (4) bekezdése iktatta be.

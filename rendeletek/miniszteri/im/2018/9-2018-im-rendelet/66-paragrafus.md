@@ -1,4 +1,4 @@
-## 66. §[^48] Ha a bíróság a pártfogó felügyelet alatt álló személlyel szemben
+## 66. §[^59] Ha a bíróság a pártfogó felügyelet alatt álló személlyel szemben
 
 a) a próbaidő tartamát meghosszabbítja, a határozat véglegessé válási záradékkal ellátott,
 
@@ -6,4 +6,4 @@ b) a Be. 841. § (1) bekezdésében meghatározottak szerint büntetést szab ki
 
 kiadmányát annak a pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak küldi meg, amely a pártfogó felügyeletet végrehajtja.
 
-[^48]: A 66. § záró szövegrésze a 35/2022. (XII. 27.) IM rendelet 5. § 22. pontja szerint módosított szöveg.
+[^59]: A 66. § záró szövegrésze a 35/2022. (XII. 27.) IM rendelet 5. § 22. pontja szerint módosított szöveg.

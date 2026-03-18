@@ -54,7 +54,7 @@ KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP AD
 
 1.9. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.10. biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség (a büntetőeljárásban a terhelt által választott elektronikus kapcsolattartás esetén)
+1.10.[^144] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 2. A közérdekű munka szabadságvesztésre átváltoztatása tárgyában eljáró ügyészség/ bíróság adatai
 
@@ -82,7 +82,7 @@ KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP AD
 
 4. Végrehajtásra vonatkozó adatok
 
-4.1.[^125] A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal előírási tételszáma
+4.1.[^145] A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal előírási tételszáma
 
 4.2. A tényleges munkavégzéssel ledolgozott közérdekű munka (óra, számmal és betűvel)
 
@@ -98,4 +98,5 @@ KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP AD
 
 7.3. Keltezés, aláírás és az értesítőlapot kiállító bv. bírói tisztség megjelölése
 
-[^125]: A 24. melléklet 4. pont 4.1. alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 34. pontja szerint módosított szöveg.
+[^144]: A 24. melléklet 1. pont 1.10. alpontja a 4/2026. (III. 10.) IM rendelet 69. § h) pontjával megállapított szöveg.
+[^145]: A 24. melléklet 4. pont 4.1. alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 34. pontja szerint módosított szöveg.

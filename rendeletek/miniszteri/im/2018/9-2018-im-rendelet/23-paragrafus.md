@@ -8,6 +8,6 @@
 
 (3) Ha a megfelelő orvosi dokumentumok rendelkezésre állnak a nyilatkozathoz, a BVOP írásban tájékoztatja megállapításairól a tanács elnökét, ellenkező esetben a nyilatkozat megtételének akadályát közli.
 
-(4)[^17] A Bv. tv. 39. § (9) bekezdésében meghatározott esetben a bíróság a halasztás iránti kérelmet, mint félbeszakítás iránti kérelmet továbbítja a BVOP-nak, és erről az elbírálás mellőzéséről történő értesítésben tájékoztatja az elítéltet.
+(4)[^20] A Bv. tv. 39. § (9) bekezdésében meghatározott esetben a bíróság a halasztás iránti kérelmet, mint félbeszakítás iránti kérelmet továbbítja a BVOP-nak, és erről az elbírálás mellőzéséről történő értesítésben tájékoztatja az elítéltet.
 
-[^17]: A 23. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 108. §-a iktatta be.
+[^20]: A 23. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 108. §-a iktatta be.

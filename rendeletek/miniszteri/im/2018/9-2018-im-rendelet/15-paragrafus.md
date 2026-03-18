@@ -14,9 +14,9 @@ b) a Bv. tv. 34. § (4) bekezdése szerinti esetben a bv. csoportnál.
 
 a) az elítéltet a Btk. 92–92/B. §-a szerinti beszámítást megalapozó kényszerintézkedésből, szabálysértési elzárásból, szabadságvesztésből, elzárásból szabadító bv. intézetnek,
 
-b)[^15] letartóztatás javítóintézetben történő foganatosítása vagy javítóintézeti nevelés beszámítása esetén a javítóintézet székhelye szerint illetékes vármegyei (fővárosi) bv. intézetnek,
+b)[^18] letartóztatás javítóintézetben történő foganatosítása vagy javítóintézeti nevelés beszámítása esetén a javítóintézet székhelye szerint illetékes vármegyei (fővárosi) bv. intézetnek,
 
-c)[^16] a Btk. 92. §-ában meghatározott beszámítást megalapozó bűnügyi felügyelet esetén a bűnügyi felügyelet céljára kijelölt lakás helye szerint illetékes bv. csoport területén lévő vármegyei (fővárosi) bv. intézetnek
+c)[^19] a Btk. 92. §-ában meghatározott beszámítást megalapozó bűnügyi felügyelet esetén a bűnügyi felügyelet céljára kijelölt lakás helye szerint illetékes bv. csoport területén lévő vármegyei (fővárosi) bv. intézetnek
 
 küldi meg.
 
@@ -26,5 +26,5 @@ küldi meg.
 
 (5) A bíróság az összbüntetésként megállapított szabadságvesztés végrehajtása érdekében a 2. melléklet szerinti adattartalommal kiállított értesítőlap és a jogerősítési záradékkal ellátott ügydöntő határozat, vagy ha az írásba foglalásra később kerül sor, az ügydöntő határozat jogerősítési záradékkal ellátott rendelkező része kiadmányának a megküldésével intézkedik a bv. csoportnál.
 
-[^15]: A 15. § (2) bekezdés b) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 2. pontja szerint módosított szöveg.
-[^16]: A 15. § (2) bekezdés c) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 3. pontja szerint módosított szöveg.
+[^18]: A 15. § (2) bekezdés b) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 2. pontja szerint módosított szöveg.
+[^19]: A 15. § (2) bekezdés c) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 3. pontja szerint módosított szöveg.

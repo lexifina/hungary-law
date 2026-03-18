@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben meghatározott esetben a bv. bíró – a szabadságvesztés tartamának és megkezdése várható időpontjának közlésével – megkeresi
 
-a)[^19] a kiskorú gyermek lakó- vagy tartózkodási helye szerint illetékes fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát a kiskorú gyermek ideiglenes hatályú elhelyezése, illetve
+a)[^28] a kiskorú gyermek lakó- vagy tartózkodási helye szerint illetékes fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát a kiskorú gyermek ideiglenes hatályú elhelyezése, illetve
 
 b) a felügyelet nélkül maradó más személy lakó- vagy tartózkodási helye szerint illetékes önkormányzatot a szükséges intézkedés megtétele
 
@@ -14,4 +14,4 @@ b) a felügyelet nélkül maradó más személy lakó- vagy tartózkodási helye
 
 (4) A bv. bíró az intézkedéseiről az elítéltet három napon belül tájékoztatja.
 
-[^19]: A 33. § (2) bekezdés a) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 4. pontja szerint módosított szöveg.
+[^28]: A 33. § (2) bekezdés a) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 4. pontja szerint módosított szöveg.

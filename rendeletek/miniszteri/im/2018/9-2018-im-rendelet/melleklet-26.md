@@ -54,7 +54,7 @@ PÉNZBÜNTETÉS SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATT
 
 1.9. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.10. biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség (a büntetőeljárásban a terhelt által választott elektronikus kapcsolattartás esetén)
+1.10.[^147] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 2. A pénzbüntetés szabadságvesztésre átváltoztatása tárgyában eljáró bíróság adatai
 
@@ -95,3 +95,5 @@ PÉNZBÜNTETÉS SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATT
 7.2. Az időközben teljesített befizetésre tekintettel a szabadságvesztés módosult végrehajtandó tartama (nap, számmal és betűvel)
 
 7.3. Keltezés, aláírás és az értesítőlapot kiállító bv. bírói tisztség megjelölése
+
+[^147]: A 26. melléklet 1. pont 1.10. alpontja a 4/2026. (III. 10.) IM rendelet 69. § j) pontjával megállapított szöveg.

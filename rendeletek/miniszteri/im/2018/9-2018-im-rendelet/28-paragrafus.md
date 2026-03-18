@@ -6,4 +6,6 @@
 
 (4) A felhívás megtörténtét követően a BVOP a gyűjtőjegyzék megküldésével három napon belül tájékoztatja az elsőfokú bíróság székhelye szerint illetékes bv. csoportot a felhívás tényéről, a szabadságvesztés megkezdésére előírt napról és a végrehajtás megkezdésére kijelölt bv. intézetről.
 
-(5) A BVOP a 36. melléklet szerinti jegyzékkel értesíti a végrehajtásra kijelölt bv. intézetet az adott időszakra felhívott elítéltekről, ez alapján a bv. intézet a közölt adatokat saját nyilvántartásába átvezeti.
+(5)[^24]
+
+[^24]: A 28. § (5) bekezdését a 4/2026. (III. 10.) IM rendelet 71. § b) pontja hatályon kívül helyezte.

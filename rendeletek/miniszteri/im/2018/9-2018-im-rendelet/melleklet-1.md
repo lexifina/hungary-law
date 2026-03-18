@@ -1,4 +1,4 @@
-1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^120]
+1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^135]
 
 SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -58,7 +58,7 @@ SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 1.11. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.12. biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség (a büntetőeljárásban a terhelt által választott elektronikus kapcsolattartás esetén)
+1.12. elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 1.13. Nem magyar anyanyelvű állampolgárra vonatkozó külön adatok
 
@@ -226,4 +226,4 @@ SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
 
-[^120]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése szerint módosított szöveg.
+[^135]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § a) pontja szerint módosított szöveg.
