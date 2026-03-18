@@ -2,7 +2,7 @@
 
 9. § (1) A bv. intézet parancsnoka biztosítja, hogy a börtönlelkészi szolgálatot nem végző vallási közösségek tekintetében is érvényesülhessen az elítéltek és az egyéb jogcímen fogvatartottak vallásgyakorláshoz való joga.
 
-(2)[^6] Az (1) bekezdésben meghatározottak megvalósulása érdekében a rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész
+(2)[^7] Az (1) bekezdésben meghatározottak megvalósulása érdekében a rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész
 
 a) az elítélt vagy az egyéb jogcímen fogvatartott, illetve a vallási közösség ilyen irányú kezdeményezését jelzi a bv. intézet parancsnokának,
 
@@ -14,4 +14,4 @@ c) koordinációs feladatokat lát el a vallási szertartás és egyéni lelki g
 
 (4) A vallási közösség vallásos irodalmat és vallási kegytárgyakat bocsáthat az elítéltek és az egyéb jogcímen fogvatartottak rendelkezésére.
 
-[^6]: A 9. § (2) bekezdés nyitó szövegrésze a 4/2021. (VII. 29.) IM rendelet 2. § c) pontja szerint módosított szöveg.
+[^7]: A 9. § (2) bekezdés nyitó szövegrésze a 4/2021. (VII. 29.) IM rendelet 2. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 5. [^5] A rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész
+## 5. [^6] A rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész
 
 8. § (1) A bv. intézettel rendvédelmi igazgatási szolgálati jogviszonyban álló rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész teljes vagy részmunkaidőben foglalkoztatható.
 
@@ -18,4 +18,4 @@ b) koordinációs feladatokat lát el a vallási szertartás és az egyéni lelk
 
 c) a feladatellátáshoz szükséges információkat kölcsönösen közvetíti a bv. intézet parancsnokának és a más börtönlelkészi szolgálati ághoz tartozó egyházi jogi személynek, börtönlelkésznek, kisegítő börtönlelkésznek, illetve börtönmissziós munkatársnak.
 
-[^5]: Az 5. alcím (8. §) a 4/2021. (VII. 29.) IM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 5. alcím (8. §) a 4/2021. (VII. 29.) IM rendelet 1. §-ával megállapított szöveg.
