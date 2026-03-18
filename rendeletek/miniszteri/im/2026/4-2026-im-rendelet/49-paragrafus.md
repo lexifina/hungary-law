@@ -1,0 +1,5 @@
+49. § A 16/2014. (XII. 19.) IM rendelet 53. alcíme a következő 87/A. §-sal egészül ki:
+
+„87/A. § (1) Ha az elítéltet több egymást követő napra személyes megjelenéssel idézik, és az előállítás végrehajtása érdekében rendőrségi fogdán kerül elhelyezésre, a birtokában tartható tárgyak közül magával viheti a büntetőeljárás ügyiratait, továbbá az eljárási cselekményre való felkészüléshez szükséges egyéb iratokat, tisztasági felszerelését, váltó ruházatát, a bv. orvos által engedélyezett gyógyászati vagy orvosi segédeszközt, valamint élelmiszert, dohányterméket és a bv. orvos által engedélyezett gyógyszert, vitamint és tápszert olyan mennyiségben, amely a távollét idejére biztosítja szükségleteit.
+
+(2) A kiadás ideje alatt az elítélt részére a védővel és államának konzuli tisztségviselőjével mind a személyes, mind a telefonon történő kapcsolattartást biztosítani kell, azzal, hogy a védővel való személyes kapcsolattartás során az elítélt a büntetőeljárás ügyiratait és a feljegyzéseit előzetes kérelem nélkül magánál tarthatja.”
