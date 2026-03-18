@@ -7,3 +7,7 @@
 (3) Ha a vádemelés előtt a (2) bekezdés szerinti indítványt az ügyészség vagy a nyomozó hatóság útján terjesztik elő, az ügyészség az indítványt a magatartási szabályok megtartásának feltételeivel kapcsolatos álláspontjának kifejtésével is továbbíthatja a bírósághoz. Az ügyészség a magatartási szabályok megtartásának feltételeivel kapcsolatos álláspontjának kialakításához a nyomozó hatóságot, illetve a terhelt tartózkodására alkalmas lakás vagy egyéb helyiség fekvésének helye szerint illetékes rendőrkapitányságot is igénybe veheti.
 
 (4) Ha a bűnügyi felügyelet, illetve a távoltartás részleges feloldására az ügyészség jogosult, az (1) bekezdésben meghatározott feltételek ellenőrzése az ügyészség feladata. Az ügyészség az ellenőrzéshez a nyomozó hatóságot, illetve a terhelt tartózkodására alkalmas lakás vagy egyéb helyiség fekvésének helye szerint illetékes rendőrkapitányságot is igénybe veheti.
+
+(5)[^1] Az internet elérésével végezhető tevékenységtől való tartózkodás vagy az ilyen tevékenység korlátozásának (a továbbiakban: internetes külön magatartási szabály) indítványozása esetén azt kell vizsgálni, hogy – különösen a rendelkezésre álló technikai eszközökre, valamint a terhelt ellenőrzésben való együttműködési készségére tekintettel – hatékonyan megvalósítható-e az internetes tevékenység ellenőrzése. Az ellenőrzés igénybe vehető eszközeit illetően az 5. § (1) bekezdése szerinti rendőrkapitányság is megkereshető.
+
+[^1]: Az 1. § (5) bekezdését a 4/2026. (III. 10.) IM rendelet 75. §-a iktatta be.

@@ -17,3 +17,7 @@ f) a mozgását nyomon követő technikai eszközt eltávolította-e vagy műkö
 (3) Ha a rendőrség általános rendőri feladatok ellátására kijelölt szerve a magatartási szabályok megszegése miatt az Rtv. 33. § (1) bekezdés d) pontja alapján a terheltet elfogja és előállítja, a terhelt őrizetének elrendeléséről a büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság dönt.
 
 (4) A bűnügyi felügyelet, illetve a távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése során törekedni kell arra, hogy az ellenőrzés a szükséges mértéken túl ne zavarja a terhelt, illetve a távoltartással érintett személy magánéletét, valamint biztosítani kell, hogy az ellenőrzés során a terhelt és a távoltartással érintett személy magánéletének körülményei szükségtelenül ne kerüljenek nyilvánosságra.
+
+(5)[^8] Ha az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányság megállapítja, hogy a 8. § (1a) bekezdés a) pontja szerinti ellenőrzés technikai feltételei nem állnak fenn, erről haladéktalanul tájékoztatja a büntetőeljárást folytató bíróságot, ügyészséget vagy nyomozó hatóságot.
+
+[^8]: A 9. § (5) bekezdését a 4/2026. (III. 10.) IM rendelet 78. §-a iktatta be.
