@@ -8,6 +8,6 @@ b) a vizsgálat eredményét tartalmazó összefoglaló jelentést készít.
 
 (3) Tárgy vagy személy felismerésre bemutatása során az elektronikus megfigyelési eszközzel rögzített kép vagy hangfelvétel is bemutatható.
 
-(4)[^10] Szemle keretei között a tiltott tárgyként elvett információs rendszer, illetve adathordozó átvizsgálására is sor kerülhet.
+(4)[^11] Szemle keretei között a tiltott tárgyként elvett információs rendszer, illetve adathordozó átvizsgálására is sor kerülhet.
 
-[^10]: A 14. § (4) bekezdését az 1/2024. (II. 29.) IM rendelet 4. §-a iktatta be.
+[^11]: A 14. § (4) bekezdését az 1/2024. (II. 29.) IM rendelet 4. §-a iktatta be.

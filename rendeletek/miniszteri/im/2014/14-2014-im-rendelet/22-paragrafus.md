@@ -4,7 +4,7 @@
 
 (2) A fegyelmi tárgyaláson a vizsgáló ismerteti az eljárás alapjául szolgáló cselekményt és a vizsgálat eredményét, a beszerzett bizonyítékokat – kivéve a zártan kezelt adatokat –. Ezt követően a fegyelmi jogkör gyakorlója meghallgatja az eljárás alá vont fogvatartott védekezését. Az eljárás alá vont fogvatartott vagy védője indítványára a fogvatartott reintegrációs tisztjét is meg kell hallgatni.
 
-(3)[^13] A fegyelmi tárgyalás alapján a fegyelmi jogkör gyakorlója – ha nem a 18. § (1) bekezdés a)–c) pontjában foglaltak szerint határoz – fegyelmi fenyítést vagy a Bv. tv. 168. § (5) bekezdése alapján fenyítéseket együttesen szab ki, magánelzárás kiszabásakor a kreditpontlevonás mértékét is meghatározza. A fegyelmi jogkör gyakorlója a Bv. tv. 99. § (6) bekezdése alapján a kisebb vagy közepes súlyú fegyelemsértés esetén a kreditpontlevonás végrehajtásának felfüggesztéséről dönthet.
+(3)[^16] A fegyelmi tárgyalás alapján a fegyelmi jogkör gyakorlója – ha nem a 18. § (1) bekezdés a)–c) pontjában foglaltak szerint határoz – fegyelmi fenyítést vagy a Bv. tv. 168. § (5) bekezdése alapján fenyítéseket együttesen szab ki, magánelzárás kiszabásakor a kreditpontlevonás mértékét is meghatározza. A fegyelmi jogkör gyakorlója a Bv. tv. 99. § (6) bekezdése alapján a kisebb vagy közepes súlyú fegyelemsértés esetén a kreditpontlevonás végrehajtásának felfüggesztéséről dönthet.
 
 (4) A fegyelmi fenyítés kiszabását tartalmazó határozatot az eljárás alá vont fogvatartott előtt szóban ki kell hirdetni, meg kell indokolni, majd részére a határozat egy példányát át kell adni.
 
@@ -16,4 +16,4 @@
 
 (8) A külön íven megszövegezett határozat a rendelkező részben a felmerült költségeket és annak viselését is tartalmazza.
 
-[^13]: A 22. § (3) bekezdése az 1/2024. (II. 29.) IM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 22. § (3) bekezdése az 1/2024. (II. 29.) IM rendelet 5. §-ával megállapított szöveg.

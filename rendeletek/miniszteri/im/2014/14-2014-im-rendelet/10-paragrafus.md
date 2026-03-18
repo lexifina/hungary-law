@@ -12,6 +12,6 @@ d) a fegyelmi eljárás elrendelését megtagadja.
 
 (2) Az első fokú fegyelmi eljárást – a 18. § (1) bekezdésének a) és b) pontjában meghatározott kivétellel – az elrendeléstől számított húsz napon belül, a fegyelmi felelősség tárgyában hozott érdemi határozattal kell befejezni.
 
-(3)[^6] Az elsőfokú fegyelmi eljárást soron kívül kell lefolytatni, ha a büntetés-végrehajtási bíró döntése alapján a fogvatartott feltételes szabadságra bocsátása vagy reintegrációs őrizetbe helyezése esedékes.
+(3)[^7] Az elsőfokú fegyelmi eljárást soron kívül kell lefolytatni, ha a büntetés-végrehajtási bíró döntése alapján a fogvatartott feltételes szabadságra bocsátása vagy reintegrációs őrizetbe helyezése esedékes.
 
-[^6]: A 10. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 63. §-a iktatta be.
+[^7]: A 10. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 63. §-a iktatta be.

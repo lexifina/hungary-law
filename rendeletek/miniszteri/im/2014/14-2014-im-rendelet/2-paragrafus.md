@@ -16,7 +16,7 @@ f) az életét vagy a testi épségét sértő vagy veszélyeztető olyan magata
 
 g) olyan tárgyat tart magánál, amely jogszabály rendelkezése, valamint a házirend alapján nem lehet birtokában,
 
-h) kábítószert, új pszichoaktív anyagot vagy más pszichoaktív szert (a továbbiakban együtt: pszichoaktív szer) állít elő, engedély nélkül tart vagy fogyaszt,
+h)[^3] a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) szerinti kábítószert vagy tiltott tudatmódosító szert (a továbbiakban együtt: pszichoaktív szer) állít elő, engedély nélkül tart vagy fogyaszt,
 
 i) az élelem átvételét vagy elfogyasztását feltételhez köti.
 
@@ -29,3 +29,4 @@ b) az eredmény bekövetkezését önként elhárította.
 (4) Ha a (2) bekezdés szerinti cselekmény önmagában is fegyelemsértésnek minősül, a fegyelmi eljárást meg kell indítani.
 
 [^2]: A 2. § (2) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 10. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés h) pontja a 4/2026. (III. 10.) IM rendelet 40. § a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 4. A fegyelmi eljárás általános szabályai
 
-8. § (1)[^4] A bv. intézet a fogvatartott fegyelmi felelősségét az e rendeletben meghatározott eljárás során hozott – a Bv. tv. 22. §-a szerinti – határozattal állapítja meg. A fegyelmi határozat rendelkező része a döntésre vonatkozóan tartalmazza
+8. § (1)[^5] A bv. intézet a fogvatartott fegyelmi felelősségét az e rendeletben meghatározott eljárás során hozott – a Bv. tv. 22. §-a szerinti – határozattal állapítja meg. A fegyelmi határozat rendelkező része a döntésre vonatkozóan tartalmazza
 
 a) a megállapított fegyelemsértés megnevezését,
 
@@ -18,4 +18,4 @@ d) az arról való rendelkezést, ha a kreditpontlevonás végrehajtása felfüg
 
 (5) Ha a fogvatartott szállítás közben követ el fegyelemsértést, a fegyelmi eljárást abban a bv. intézetben kell lefolytatni, amelyik a szállítást végezte.
 
-[^4]: A 8. § (1) bekezdése az 1/2024. (II. 29.) IM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 8. § (1) bekezdése az 1/2024. (II. 29.) IM rendelet 3. §-ával megállapított szöveg.
