@@ -10,4 +10,10 @@
 
 (5) Ha jogszabály másként nem rendelkezik, a fogvatartott a letétjével szabadon rendelkezik. A fogvatartott rendelkező nyilatkozatát írásban teheti meg.
 
+(6)[^7] A fogvatartott kérelmére a fogvatartást foganatosító szerv vezetője engedélyezheti a visszaadni rendelt bűnjelnek a letétbe helyezését, vagy pénz esetén a letéti számlára történő átutalását. Ez esetben a fogvatartottnak előzetesen írásban nyilatkoznia kell arról, hogy a bűnjelnek a postai úton vagy más logisztikai szolgáltatás útján történő kézbesítését kéri, és vállalja az ezzel kapcsolatos költségek megfizetését.
+
+(7)[^8] Az engedélyezés tárgyában meghozott döntésről a bv. intézet tájékoztatja a bűnjelkezelőt, és engedélyezés esetén továbbítja részére a fogvatartott írásbeli nyilatkozatát, továbbá pénz átutalása esetére megjelöli az erre szolgáló számlaszámot.
+
 [^6]: A 3. § (2) bekezdése a 12/2022. (IV. 26.) IM rendelet 39. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdését a 4/2026. (III. 10.) IM rendelet 41. §-a iktatta be.
+[^8]: A 3. § (7) bekezdését a 4/2026. (III. 10.) IM rendelet 41. §-a iktatta be.

@@ -1,4 +1,4 @@
-17. §[^27] (1) Ha a szabaduló fogvatartott által át nem vett letéti tárgy
+17. §[^29] (1) Ha a szabaduló fogvatartott által át nem vett letéti tárgy
 
 a) letéti pénz, a bv. intézet – az át nem vett letéti pénz terhére – postai úton megküldi a szabaduló fogvatartott bv. intézet által nyilvántartott lakcímére,
 
@@ -28,4 +28,4 @@ a) a bv. intézet az okiratokat a bv. intézet székhelye szerinti jegyzőnek k�
 
 b) a letéti pénzt és a tárgy értékesítéséből befolyt ellenértéket a bv. intézet előirányzat-felhasználási keretszámlájára kell utalni.
 
-[^27]: A 17. § a 12/2022. (IV. 26.) IM rendelet 37. §-ával megállapított szöveg.
+[^29]: A 17. § a 12/2022. (IV. 26.) IM rendelet 37. §-ával megállapított szöveg.

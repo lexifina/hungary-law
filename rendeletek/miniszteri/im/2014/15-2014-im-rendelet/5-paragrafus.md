@@ -6,9 +6,9 @@
 
 (3) A fogvatartott részére postai úton érkező pénzküldemények esetében az átvett postautalványokat és azok értékét a bv. intézet erre kijelölt személyi állományi tagja a letét pénztárba bevételezi és arról bevételi pénztárbizonylatot állít ki.
 
-(4)[^7] A fogvatartott részére postai vagy banki úton beérkezett pénz csak abban az esetben könyvelhető egyéni számlalapjára, ha a küldő vagy az átutalási megbízást adó a fogvatartott kapcsolattartója, vele hivatalos minőségben kapcsolattartó vagy a fogvatartott nyilatkozata szerint pénzküldemény küldésére jogosult, illetve ha az az állam által kártérítés vagy kártalanítás címén kifizetett pénz. Egyéb esetben a pénzösszeget a feladó részére vissza kell küldeni.
+(4)[^9] A fogvatartott részére postai vagy banki úton beérkezett pénz csak abban az esetben könyvelhető egyéni számlalapjára, ha a küldő vagy az átutalási megbízást adó a fogvatartott kapcsolattartója, vele hivatalos minőségben kapcsolattartó pénzküldemény küldésére jogosult, illetve ha az az állam által kártérítés vagy kártalanítás címén kifizetett pénz. Egyéb esetben a pénzösszeget a feladó részére vissza kell küldeni.
 
-(5)[^8]
+(5)[^10]
 
-[^7]: Az 5. § (4) bekezdése a 18/2020. (XII. 29.) IM rendelet 2. §-ával megállapított szöveg.
-[^8]: Az 5. § (5) bekezdését a 12/2022. (IV. 26.) IM rendelet 40. §-a hatályon kívül helyezte.
+[^9]: Az 5. § (4) bekezdése a 18/2020. (XII. 29.) IM rendelet 2. §-ával megállapított, a 4/2026. (III. 10.) IM rendelet 42. §-a szerint módosított szöveg.
+[^10]: Az 5. § (5) bekezdését a 12/2022. (IV. 26.) IM rendelet 40. §-a hatályon kívül helyezte.
