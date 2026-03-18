@@ -1,4 +1,4 @@
-## 67/B. §[^231] Ha a fizetésre használt elektronikus adat lefoglalását a 67. § (5) bekezdésében meghatározott módon hajtják végre, és annak a bírósági bűnjelkezelő rendelkezésére bocsátása szükséges, azt az ügyészség vagy a nyomozó hatóság a bírósági bűnjelkezelő e célból rendszeresített számláján történő jóváírással teljesíti.
+## 67/B. §[^245] Ha a fizetésre használt elektronikus adat lefoglalását a 67. § (5) bekezdésében meghatározott módon hajtják végre, és annak a bírósági bűnjelkezelő rendelkezésére bocsátása szükséges, azt az ügyészség vagy a nyomozó hatóság a bírósági bűnjelkezelő e célból rendszeresített számláján történő jóváírással teljesíti.
 
 ## Értékpapír, pénzhelyettesítő fizetési eszköz,
 
@@ -6,9 +6,9 @@
 
 ## valamint államkölcsön-kötvény
 
-68. § (1)[^232] Ha a hatóság értékpapírt vagy pénzhelyettesítő fizetési eszközt foglal le, a kibocsátó, illetve kiállító szervet haladéktalanul értesíti. Értékpapír lefoglalása esetében a hatóság csak a fizikai megőrzésért felelős. Dematerializált értékpapír lefoglalásáról a hatóság értesíti a számlavezetőt, aki az értékpapírt zárolt értékpapír-alszámlán helyezi el. A számlavezető által kiadott számlakivonatot a hatóság megküldi a bűnjelkezelőnek, aki azt a bűnjel-ügyiratok között kezeli.
+68. § (1)[^246] Ha a hatóság értékpapírt vagy pénzhelyettesítő fizetési eszközt foglal le, a kibocsátó, illetve kiállító szervet haladéktalanul értesíti. Értékpapír lefoglalása esetében a hatóság csak a fizikai megőrzésért felelős. Dematerializált értékpapír lefoglalásáról a hatóság értesíti a számlavezetőt, aki az értékpapírt zárolt értékpapír-alszámlán helyezi el. A számlavezető által kiadott számlakivonatot a hatóság megküldi a bűnjelkezelőnek, aki azt a bűnjel-ügyiratok között kezeli.
 
 (2) Az értékpapír hozama, illetőleg az abban foglalt követelés esedékessé válása esetében a hatóság – ha ezt a lefoglalásról szóló határozatában nem tette meg – külön határozattal feljogosítja a bűnjelkezelőt, hogy a rendelkezésre álló összeget felvegye és azt bűnjelkezelői pénzletétként kezelje.
 
-[^231]: A 67/B. §-t a 17/2018. (VI. 27.) IM rendelet 37. §-a iktatta be.
-[^232]: A 68. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 34. §-ával megállapított szöveg.
+[^245]: A 67/B. §-t a 17/2018. (VI. 27.) IM rendelet 37. §-a iktatta be.
+[^246]: A 68. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 34. §-ával megállapított szöveg.

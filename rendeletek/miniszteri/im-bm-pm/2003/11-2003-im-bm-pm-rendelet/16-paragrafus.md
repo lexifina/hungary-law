@@ -1,5 +1,5 @@
 ## A számítógépes nyilvántartás
 
-16. §[^94]
+16. §[^97]
 
-[^94]: A 16. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 5. pontja hatályon kívül helyezte.
+[^97]: A 16. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 5. pontja hatályon kívül helyezte.

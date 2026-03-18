@@ -1,9 +1,9 @@
-33. §[^142] (1) Ha a nyomozó hatóság, vagy az ügyészség további jogorvoslattal nem támadható határozatával a lefoglalt dolog értékesítéséről határoz, és a lefoglalt dolog megváltásának egyéb feltételei fennállnak, fel kell hívni az érintettet, hogy a lefoglalt dolog megváltását indítványozhatja.
+33. §[^146] (1) Ha a nyomozó hatóság, vagy az ügyészség további jogorvoslattal nem támadható határozatával a lefoglalt dolog értékesítéséről határoz, és a lefoglalt dolog megváltásának egyéb feltételei fennállnak, fel kell hívni az érintettet, hogy a lefoglalt dolog megváltását indítványozhatja.
 
-(2)[^143] Ha az érintett a lefoglalt dolog megváltására 15 napon belül nem tesz indítványt, vagy az indítványt az ügyészség vagy a nyomozó hatóság elutasítja, az ügyészség vagy a nyomozó hatóság az 57–61. § megfelelő alkalmazásával értékesíti a lefoglalt dolgot.
+(2)[^147] Ha az érintett a lefoglalt dolog megváltására 15 napon belül nem tesz indítványt, vagy az indítványt az ügyészség vagy a nyomozó hatóság elutasítja, az ügyészség vagy a nyomozó hatóság az 57–61. § megfelelő alkalmazásával értékesíti a lefoglalt dolgot.
 
-(3)[^144] A hatóság az átvételi elismervényt a bűnjelkezelőhöz továbbítja, aki annak alapján a bűnjel kiadását a KBR-ben rögzíti.
+(3)[^148] A hatóság az átvételi elismervényt a bűnjelkezelőhöz továbbítja, aki annak alapján a bűnjel kiadását a KBR-ben rögzíti.
 
-[^142]: A 33. § a 17/2018. (VI. 27.) IM rendelet 28. §-ával megállapított szöveg.
-[^143]: A 33. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 22. §-ával megállapított szöveg.
-[^144]: A 33. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 39. § 20. pontja szerint módosított szöveg.
+[^146]: A 33. § a 17/2018. (VI. 27.) IM rendelet 28. §-ával megállapított szöveg.
+[^147]: A 33. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 22. §-ával megállapított szöveg.
+[^148]: A 33. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 39. § 20. pontja szerint módosított szöveg.

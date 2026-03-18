@@ -1,7 +1,11 @@
-46. §[^177] (1)[^178] Ha a jogosult a bűnjelet a bűnjelkezelő felhívásában megállapított határidő alatt nem vette át, e tényről a bűnjelkezelő haladéktalanul értesíti a hatóságot. Az értékesítés, illetőleg a megsemmisítés elrendelése iránt a BGH, illetőleg a nyomozó hatóság vezetője vagy az ügyészség a bűnjelkezelőtől kapott értesítés kézhezvételétől számított harminc napon belül írásban intézkedik.
+46. §[^190] (1) Ha a jogosult felhívása nem vezetett eredményre, és a bűnjel az új Be. 321. § (5b) bekezdése alapján nem kerülhet az állam tulajdonába, azonban három hónap eltelt attól az időponttól számítva, hogy a hatóság tájékoztatta a bűnjelkezelőt a lefoglalás megszüntetéséről, akkor a bűnjelkezelő megkeresi a kiadásról rendelkező hatóságot, hogy döntsön a bűnjel értékesítéséről vagy megsemmisítéséről.
 
-(2)[^179]
+(2) Az értékesítésre a bűnjel előzetes értékesítésére vonatkozó szabályokat kell alkalmazni.
 
-[^177]: A 46. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 14. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^178]: A 46. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 30. pontja szerint módosított szöveg.
-[^179]: A 46. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 15. pontja hatályon kívül helyezte.
+(3) Az értékesítés során befolyt ellenértéket a bűnjelkezelő letéti számlájára kell befizetni.
+
+(4) A jogosult az ellenértékre a polgári jog szabályai szerinti általános elévülési időn belül tarthat igényt.
+
+(5) Az értékesítés megtörténtét, a letéti számlára befolyt ellenérték összegét és a bevételezési adatokat a KBR-ben rögzíteni kell.
+
+[^190]: A 46. § a 4/2026. (III. 10.) IM rendelet 8. §-ával megállapított szöveg.

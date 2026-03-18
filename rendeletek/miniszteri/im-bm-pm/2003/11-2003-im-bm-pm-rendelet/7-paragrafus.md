@@ -4,7 +4,7 @@
 
 (2) A hatóság a bűnjel csomagolására jellegének megfelelő olyan anyagot vagy tárgyat használ, amely azt a károsodástól megóvja, és egyben megakadályozza, hogy az mérgezést, fertőzést, környezetszennyezést vagy -károsodást okozzon. A csomagot vagy a tárolóeszközt úgy zárja le, hogy a csomagolóanyag vagy a zár sérülése nélkül a bűnjelhez ne lehessen hozzáférni.
 
-(3)[^50] A hatóság a (4) bekezdésben felsorolt adatok feltüntetésével az egyedi bűnjelszámot vagy az azt rögzítő vonalkódot (a továbbiakban együtt: bűnjel azonosító megjelölés) tartalmazó bűnjelcímkét helyez el az olyan bűnjelen vagy bűnjeltárgyon, amelyet a bizonyítás vagy az azonosítás érdekében egyedileg meg kell különböztetni, továbbá amelynek becsomagolása nem vagy csak aránytalanul nehezen kivitelezhető, illetve egyéb okból szükségtelen.
+(3)[^50] A hatóság a (4) bekezdésben felsorolt adatok feltüntetésével az egyedi bűnjelszámot és az azt rögzítő vonalkódot (a továbbiakban együtt: bűnjel azonosító megjelölés) tartalmazó bűnjelcímkét helyez el az olyan bűnjelen vagy bűnjeltárgyon, amelyet a bizonyítás vagy az azonosítás érdekében egyedileg meg kell különböztetni, továbbá amelynek becsomagolása nem vagy csak aránytalanul nehezen kivitelezhető, illetve egyéb okból szükségtelen.
 
 (4)[^51] A hatóság a bűnjelcsomag burkolatán, illetve a (3) bekezdésben említett esetben a bűnjelcímkén a bűnjel azonosító megjelölés feltüntetése mellett feljegyzi a csomag tartalmát, illetve a bűnjel megnevezését, a lefoglalás helyét és idejét, az eljáró hatóság megnevezését és ügyszámát. A feljegyzést a hatóság képviselője aláírja.
 
@@ -27,7 +27,7 @@
 (8)[^60] A bűnjelnek az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelésébe adása esetén a bűnjel csomagolása és a bűnjel azonosító megjelölés elhelyezése kivételes esetben akkor mellőzhető, ha arra a bűnjel állagára tekintettel nincs lehetőség.
 
 [^49]: A 7. § (1) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 6. pontja szerint módosított szöveg.
-[^50]: A 7. § (3) bekezdése a 17/2014. (XII. 19.) IM rendelet 6. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 39. § 7. pontja szerint módosított szöveg.
+[^50]: A 7. § (3) bekezdése a 17/2014. (XII. 19.) IM rendelet 6. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 39. § 7. pontja, a 4/2026. (III. 10.) IM rendelet 16. § a) pontja szerint módosított szöveg.
 [^51]: A 7. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^52]: A 7. § (4a) bekezdését a 20/2020. (XII. 30.) IM rendelet 6. § (2) bekezdése iktatta be.
 [^53]: A 7. § (4b) bekezdését a 20/2020. (XII. 30.) IM rendelet 6. § (2) bekezdése iktatta be.

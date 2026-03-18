@@ -1,3 +1,3 @@
-98. §[^302]
+98. §[^318]
 
-[^302]: A 98. §-t és az azt megelőző alcímet a 35/2013. (XII. 23.) KIM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^318]: A 98. §-t és az azt megelőző alcímet a 35/2013. (XII. 23.) KIM rendelet 12. § b) pontja hatályon kívül helyezte.

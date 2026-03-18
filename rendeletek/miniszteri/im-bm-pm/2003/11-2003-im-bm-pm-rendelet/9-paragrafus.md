@@ -20,7 +20,13 @@ b) a bűnjel értékesítésére vagy megváltására nem került sor, és
 
 c) az nem veszélyezteti a bizonyítás, az elkobzás, illetve a vagyonelkobzás eredményességét.
 
-(6)[^69] Az (5) bekezdésben meghatározott esetben a bűnjel egyes szervek őrizetébe és kezelésébe adására vonatkozó szabályokat kell megfelelően alkalmazni, azzal, hogy a bűnjelkezelő az őrzésért, illetve a kezelésért díjazást nem fizet, a felmerülő őrzési, kezelési díj, illetve költség nem bűnügyi költség.
+(5a)[^69] A hatóság a bűnjelet indítványra törvényben meghatározott bűnmegelőzési, bűnüldözési feladat ellátása érdekében, a feladat teljesítéséhez szükséges ideig nyomozó hatóság, előkészítő eljárást folytató szerv és polgári nemzetbiztonsági szolgálat őrzésébe és kezelésébe is adhatja, ha
+
+a) az (5) bekezdés a)–c) pontjában meghatározott feltételek fennállnak, és
+
+b) a bűnjel birtoklása nem ütközik jogszabályba.
+
+(6)[^70] Az (5) és (5a) bekezdésben meghatározott esetben a bűnjel egyes szervek őrizetébe és kezelésébe adására vonatkozó szabályokat kell megfelelően alkalmazni, azzal, hogy a bűnjelkezelő az őrzésért, illetve a kezelésért díjazást nem fizet, a felmerülő őrzési, kezelési díj, illetve költség nem bűnügyi költség.
 
 [^63]: A 9. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 40. § 2. pontja szerint módosított szöveg.
 [^64]: A 9. § (3) bekezdése a 17/2014. (XII. 19.) IM rendelet 8. §-ával megállapított, a 17/2018. (VI. 27.) IM rendelet 44. § 5. és 9. pontja, a 20/2020. (XII. 30.) IM rendelet 39. § 8. pontja szerint módosított szöveg.
@@ -28,4 +34,5 @@ c) az nem veszélyezteti a bizonyítás, az elkobzás, illetve a vagyonelkobzás
 [^66]: A 9. § (4) bekezdés a) pontja a 20/2020. (XII. 30.) IM rendelet 39. § 9. pontja szerint módosított szöveg.
 [^67]: A 9. § (4a) bekezdését a 20/2020. (XII. 30.) IM rendelet 7. §-a iktatta be.
 [^68]: A 9. § (5) bekezdését a 11/2019. (IV. 5.) IM rendelet 3. §-a iktatta be.
-[^69]: A 9. § (6) bekezdését a 11/2019. (IV. 5.) IM rendelet 3. §-a iktatta be.
+[^69]: A 9. § (5a) bekezdését a 4/2026. (III. 10.) IM rendelet 1. §-a iktatta be.
+[^70]: A 9. § (6) bekezdését a 11/2019. (IV. 5.) IM rendelet 3. §-a iktatta be, szövege a 4/2026. (III. 10.) IM rendelet 16. § b) pontja szerint módosított szöveg.

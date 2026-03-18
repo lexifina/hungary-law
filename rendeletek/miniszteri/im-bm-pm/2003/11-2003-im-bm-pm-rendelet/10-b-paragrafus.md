@@ -1,4 +1,4 @@
-10/B. §[^83] (1) A bűnjel adatait a KBR-ben a hatóság rögzíti
+10/B. §[^86] (1) A bűnjel adatait a KBR-ben a hatóság rögzíti
 
 a) a bűnjel bűnjelkezelői tárgyletétbe helyezéséig,
 
@@ -16,4 +16,4 @@ c) az érintett őrizetében hagyása vagy egyes szervek őrizetébe és kezelé
 
 (6) Ha a bűnjel 19. §-ban meghatározott átadás-átvételét követően a KBR adatainak kiegészítése, pontosítása szükséges, a bűnjelkezelő a hatóságot megkeresheti a KBR adatainak kitöltéséhez szükséges ügyiratok és bűnjel-ügyirat rendelkezésre bocsátása, illetve felvilágosítás kérése érdekében.
 
-[^83]: A 10/B. §-t a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.
+[^86]: A 10/B. §-t a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.

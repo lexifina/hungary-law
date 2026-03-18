@@ -1,6 +1,6 @@
 ## Elektronikus adat
 
-67. §[^228] (1) Az elektronikus adat lefoglalását másolat készítésével kell végrehajtani, ha
+67. §[^242] (1) Az elektronikus adat lefoglalását másolat készítésével kell végrehajtani, ha
 
 a) ha a lefoglalt dolog érintett őrizetében hagyásának feltételei fennállnak, és
 
@@ -24,4 +24,4 @@ b) az adat elkobzás alá esik, és az elektronikus adat ideiglenes hozzáférhe
 
 (6) Az új Be. 315. § (2) bekezdésében meghatározott művelet elvégzése végrehajtható olyan művelettel is, amely alapján a fizetésre használt elektronikus adat értéke a bűnjelkezelő e célból rendszeresített számláján kerül jóváírásra.
 
-[^228]: A 67. § a 17/2018. (VI. 27.) IM rendelet 36. §-ával megállapított szöveg.
+[^242]: A 67. § a 17/2018. (VI. 27.) IM rendelet 36. §-ával megállapított szöveg.

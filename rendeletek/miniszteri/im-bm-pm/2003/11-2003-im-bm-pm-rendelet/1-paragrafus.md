@@ -30,7 +30,7 @@ a saját segédanyagainak és eszközeinek a felhasználásával hozott létre, 
 
 (1d)[^7] Ha jogszabály eltérően nem rendelkezik, a bűnjelet három munkanapon belül tárgyletétbe kell helyezni. A tárgyletétet a hatóság bűnjelkezelője kezeli.
 
-(2)[^8] A hatóság a bűnjelként lefoglalt okmányt – a 88. §-ban megjelöltek kivételével – az ügyiratok között kezeli.
+(2)[^8]
 
 (2a)[^9] A bűnjelet a lefoglalását vagy létrehozását követően haladéktalanul egyedi bűnjelszámmal kell ellátni.
 
@@ -55,7 +55,7 @@ b) törvényes fizetőeszközre át nem váltható bankjegy és érme: az átvá
 [^5]: Az 1. § (1b) bekezdés b) pontja a 20/2020. (XII. 30.) IM rendelet 39. § 1. pontja szerint módosított szöveg.
 [^6]: Az 1. § (1c) bekezdését a 11/2019. (IV. 5.) IM rendelet 2. § (2) bekezdése iktatta be.
 [^7]: Az 1. § (1d) bekezdését a 11/2019. (IV. 5.) IM rendelet 2. § (2) bekezdése iktatta be.
-[^8]: Az 1. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 2. pontja szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdését a 4/2026. (III. 10.) IM rendelet 17. § a) pontja hatályon kívül helyezte.
 [^9]: Az 1. § (2a) bekezdését a 20/2020. (XII. 30.) IM rendelet 2. § (2) bekezdése iktatta be.
 [^10]: Az 1. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (3a) bekezdését a 15/2023. (X. 24.) IM rendelet 1. § (1) bekezdése iktatta be.
