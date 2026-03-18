@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet 2018. július 1-jén lép hatályba.
 
-## 7. §[^2] Ez a rendelet
+## 7. §[^3] Ez a rendelet
 
 a) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 23. cikkének és 24. cikk (1) bekezdés a) pontjának,
 
@@ -8,4 +8,4 @@ b) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére n
 
 való megfelelést szolgálja.
 
-[^2]: A 7. § a 24/2019. (VIII. 2.) IM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 7. § a 24/2019. (VIII. 2.) IM rendelet 3. §-ával megállapított szöveg.
