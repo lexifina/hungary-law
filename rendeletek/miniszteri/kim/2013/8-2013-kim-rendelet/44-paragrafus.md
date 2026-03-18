@@ -1,8 +1,8 @@
-## 43. §[^177] A pártfogó felügyelő a 38. § (1) bekezdés c) pontjában meghatározott esetekben a bv. bíró határozatának, illetve a bv. intézet vagy a javítóintézet értesítésének kézhezvételét követően, a 42. § (1) bekezdés b) pontja szerinti felhívást a bv. intézeten vagy a javítóintézeten keresztül továbbítja a pártfogolt számára.
+## 43. §[^189] A pártfogó felügyelő a 38. § (1) bekezdés c) pontjában meghatározott esetekben a bv. bíró határozatának, illetve a bv. intézet vagy a javítóintézet értesítésének kézhezvételét követően, a 42. § (1) bekezdés b) pontja szerinti felhívást a bv. intézeten vagy a javítóintézeten keresztül továbbítja a pártfogolt számára.
 
 ## 21. Az egyéni pártfogó felügyelői terv elkészítése
 
-44. § (1)[^178] A pártfogó felügyelő a pártfogó felügyeletet – a Bv. tv. 317. § (5) bekezdésében meghatározott kivétellel – egyéni pártfogó felügyelői terv (a továbbiakban: terv) alapján hajtja végre.
+44. § (1)[^190] A pártfogó felügyelő a pártfogó felügyeletet – a Bv. tv. 317. § (5) bekezdésében meghatározott kivétellel – egyéni pártfogó felügyelői terv (a továbbiakban: terv) alapján hajtja végre.
 
 (2) A pártfogó felügyelő a pártfogolt tájékoztatását követő harminc napon belül készíti el a tervet.
 
@@ -14,10 +14,10 @@ b) a pártfogó felügyelő feladatait,
 
 c) azoknak az intézményeknek, személyeknek a megnevezését, akiknek a segítségét a terv megvalósításához célszerű igénybe venni.
 
-d)[^179] a Btk. 69. § (2) bekezdés d) pontja alapján megállapított pártfogó felügyelet végrehajtása során a jelentkezési kötelezettség gyakoriságának meghatározását és a pártfogolt, a sértett vagy a külön magatartási szabállyal érintett más személy lakcíme vagy tényleges tartózkodási helye szerinti család- és gyermekjóléti szolgálattal, család- és gyermekjóléti központtal, a kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalával való együttműködés módját.
+d)[^191] a Btk. 69. § (2) bekezdés d) pontja alapján megállapított pártfogó felügyelet végrehajtása során a jelentkezési kötelezettség gyakoriságának meghatározását és a pártfogolt, a sértett vagy a külön magatartási szabállyal érintett más személy lakcíme vagy tényleges tartózkodási helye szerinti család- és gyermekjóléti szolgálattal, család- és gyermekjóléti központtal, a kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalával való együttműködés módját.
 
 (4) A pártfogó felügyelet végrehajtását követően a pártfogó felügyelő a tervben foglaltak megvalósulásáról rövid összegzést készít.
 
-[^177]: A 43. § a 19/2014. (XII. 22.) IM rendelet 34. § 24. pontja, a 20/2020. (XII. 30.) IM rendelet 57. § 14. pontja, a 12/2022. (IV. 26.) IM rendelet 28. § 17. pontja szerint módosított szöveg.
-[^178]: A 44. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 15. pontja szerint módosított szöveg.
-[^179]: A 44. § (3) bekezdés d) pontját a 12/2022. (IV. 26.) IM rendelet 24. §-a iktatta be.
+[^189]: A 43. § a 19/2014. (XII. 22.) IM rendelet 34. § 24. pontja, a 20/2020. (XII. 30.) IM rendelet 57. § 14. pontja, a 12/2022. (IV. 26.) IM rendelet 28. § 17. pontja szerint módosított szöveg.
+[^190]: A 44. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 15. pontja szerint módosított szöveg.
+[^191]: A 44. § (3) bekezdés d) pontját a 12/2022. (IV. 26.) IM rendelet 24. §-a iktatta be.

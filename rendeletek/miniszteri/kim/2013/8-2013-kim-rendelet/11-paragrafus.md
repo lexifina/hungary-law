@@ -1,6 +1,6 @@
 ## 3. A közvetítői eljárásra utalást megelőző pártfogó felügyelői vélemény elkészítése
 
-11. § (1)[^23] Ha az ügyészség az ügy közvetítői eljárásra utalására vonatkozó döntésének a meghozatala előtt pártfogó felügyelői vélemény beszerzését rendeli el, a 7–10. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a pártfogó felügyelő a szakmai ténymegállapítások keretében elsősorban az alábbiakat mutatja be:
+11. § (1)[^26] Ha az ügyészség az ügy közvetítői eljárásra utalására vonatkozó döntésének a meghozatala előtt pártfogó felügyelői vélemény beszerzését rendeli el, a 7–10. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a pártfogó felügyelő a szakmai ténymegállapítások keretében elsősorban az alábbiakat mutatja be:
 
 a) a terhelt vállalja-e és képes-e a sértettnek (a közvetítői eljárás során tisztázandó módon és mértékben) a bűncselekménnyel okozott sérelmet jóvátenni,
 
@@ -14,4 +14,4 @@ d) a terhelt és a sértett kész-e együttműködni a közvetítői tevékenys�
 
 (3) A közvetítői eljárásra utalást megelőző pártfogó felügyelői vélemény elkészítése során a közvetlen lakókörnyezet megtekintésétől el lehet tekinteni, de a terhelt, a sértett, illetve cselekvőképtelen sértett esetében törvényes képviselőjének meghallgatása nem mellőzhető.
 
-[^23]: A 11. § (1) bekezdés nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 8. pontja szerint módosított szöveg.
+[^26]: A 11. § (1) bekezdés nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 8. pontja szerint módosított szöveg.

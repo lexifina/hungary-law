@@ -1,4 +1,4 @@
-62/G. §[^256] (1) A BVOP és a bv. intézet a pártfogó felügyelet alatt álló és az utógondozott társadalomba történő sikeres visszailleszkedésének elősegítésére közösségi foglalkoztatót működtethet.
+62/G. §[^285] (1) A BVOP és a bv. intézet a pártfogó felügyelet alatt álló és az utógondozott társadalomba történő sikeres visszailleszkedésének elősegítésére közösségi foglalkoztatót működtethet.
 
 (2) A BVOP a reintegrációs őrizetben lévő, a feltételes szabadságra bocsátott és az utógondozott elítélt (a továbbiakban együtt: programba bevont személy) társadalomba történő sikeres visszailleszkedésének elősegítésére félutas ház programot működtethet.
 
@@ -20,4 +20,4 @@ c) a házirend szabályainak súlyos vagy sorozatos megsértése esetén a progr
 
 (8) A félutas ház programban részt vevők visszailleszkedésének elősegítését és a házirendben rögzített szabályok megtartásának ellenőrzését a félutas ház elhelyezkedése szerint illetékes bv. intézet vezetője által kijelölt koordinátor végzi, együttműködve a reintegrációs őrizet és a pártfogó felügyelet végrehajtására, valamint az utógondozás ellátására kijelölt büntetés-végrehajtási pártfogó felügyelővel.
 
-[^256]: A 62/G. §-a a 12/2022. (IV. 26.) IM rendelet 26. §-ával megállapított szöveg.
+[^285]: A 62/G. §-a a 12/2022. (IV. 26.) IM rendelet 26. §-ával megállapított szöveg.

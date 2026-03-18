@@ -1,4 +1,4 @@
-10. §[^22] (1) A pártfogó felügyelői vélemény IV. része tartalmazza a kirendelő által feltett kérdésekre adandó válaszokat, így különösen a pártfogó felügyelőnek a szakmai ténymegállapításokból levont következtetéseit arra vonatkozóan, hogy
+10. §[^23] (1) A pártfogó felügyelői vélemény IV. része tartalmazza a kirendelő által feltett kérdésekre adandó válaszokat, így különösen a pártfogó felügyelőnek a szakmai ténymegállapításokból levont következtetéseit arra vonatkozóan, hogy
 
 a) a pártfogó felügyelet, a bíróság vagy az ügyészség által kilátásba helyezett egyedi, illetve külön magatartási szabály vagy kötelezettség előírása a terhelt esetében megfelelően szolgálja-e az egyéni bűnmegelőzési célokat,
 
@@ -10,18 +10,24 @@ c) szükséges-e a bűnismétlési kockázatok csökkentéséhez esetlegesen val
 
 a) bűnelkövetői viselkedés korrekciójára, szociális, illetve életvezetési készségek fejlesztésére irányuló csoportos vagy egyéni foglalkozáson vagy
 
-b) közösségi jóvátételi, a sérelem okozását tudatosító, illetve helyreállító programban (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák alkalmazása)
+b)[^24] helyreállító szemléletű eljárásban, illetve közösségi jóvátételi programban
 
 való részvételét.
 
 (3) A pártfogó felügyelő a terhelt adottságainak megfelelő ellátási és intézményi lehetőségek figyelembevételével teszi meg a javaslatát az egyedi, illetve külön magatartási szabályok és kötelezettségek, egyéb szükséges beavatkozások alkalmazására, bemutatva azoknak a bűnismétlési kockázatokat enyhítő hatását.
 
-(4) A pártfogó felügyelői véleményhez mellékelni kell a terhelt nyilatkozatát arról, hogy
+(4)[^25] A pártfogó felügyelői véleményhez mellékelni kell a terhelt nyilatkozatát arról, hogy
 
-a) vállalja-e, képes-e a kilátásba helyezett magatartási szabály, kötelezettség teljesítésére, vagy
+a) vállalja-e, illetve képes-e a kilátásba helyezett magatartási szabály, kötelezettség teljesítésére, amelyhez a terhelt vállalása esetén mellékelni kell a sértett nyilatkozatát arról, hogy
+
+aa) a részére adandó jóvátételhez hozzájárul-e,
+
+ab) a helyreállító szemléletű eljárásban részt kíván-e venni, vagy
 
 b) közvetítői eljárás lefolytatását indítványozza, amely esetben mellékelni kell a sértett nyilatkozatát arra vonatkozóan, hogy hozzájárul-e a közvetítői eljárás lefolytatásához.
 
 (5) A pártfogó felügyelői vélemény IV. része a feltárt adatokon és következtetéseken alapuló összegző véleményt is tartalmazza.
 
-[^22]: A 10. § a 12/2022. (IV. 26.) IM rendelet 11. §-ával megállapított szöveg.
+[^23]: A 10. § a 12/2022. (IV. 26.) IM rendelet 11. §-ával megállapított szöveg.
+[^24]: A 10. § (2) bekezdés b) pontja a 4/2026. (III. 10.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^25]: A 10. § (4) bekezdése a 4/2026. (III. 10.) IM rendelet 19. § (2) bekezdésével megállapított szöveg.

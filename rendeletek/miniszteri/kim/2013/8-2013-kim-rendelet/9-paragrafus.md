@@ -1,4 +1,4 @@
-9. §[^21] (1) A pártfogó felügyelői vélemény III. része a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 203. § (1) bekezdésében foglaltaknak megfelelően a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
+9. §[^22] (1) A pártfogó felügyelői vélemény III. része a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 203. § (1) bekezdésében foglaltaknak megfelelően a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
 
 a) a családi körülményeire,
 
@@ -22,4 +22,4 @@ vonatkozóan.
 
 (3) A szakmai ténymegállapítások körében a pártfogó felügyelő a terhelt személyére és viselkedésére, életviszonyaira és életvitelére vonatkozó tényezők alapján feltárja a bűnismétlési kockázatokat, valamint a terhelt szükségleteit.
 
-[^21]: A 9. § a 12/2022. (IV. 26.) IM rendelet 10. §-ával megállapított szöveg.
+[^22]: A 9. § a 12/2022. (IV. 26.) IM rendelet 10. §-ával megállapított szöveg.

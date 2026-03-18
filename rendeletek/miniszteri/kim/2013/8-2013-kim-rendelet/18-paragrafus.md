@@ -1,4 +1,4 @@
-## 7. [^45] A kegyelmi kérelem, a bűnügyi költség és a rendbírság mérséklése vagy elengedése ügyében készített részleges környezettanulmány külön szabályai
+## 7. [^49] A kegyelmi kérelem, a bűnügyi költség és a rendbírság mérséklése vagy elengedése ügyében készített részleges környezettanulmány külön szabályai
 
 18. § (1) A kegyelmi kérelem ügyében készítendő környezettanulmány esetén a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a részleges környezettanulmány nem tartalmazza a IV–VI. részt, továbbá ebben az esetben a pártfogó felügyelő kockázatértékelést nem végez. A pártfogó felügyelő a szakmai ténymegállapítások körében bemutatja, hogy a kegyelmi kérelemben foglaltak mennyiben felelnek meg a valóságnak, a kirendelő határozott irányú kérdése hiányában különösen a következők bemutatására irányul
 
@@ -16,4 +16,4 @@ bd) az elítélt életviszonyaira és életvitelére a cselekmény elkövetések
 
 (2) A bűnügyi költség és a rendbírság mérséklése vagy elengedése ügyében készítendő környezettanulmány esetén a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a részleges környezettanulmány nem tartalmazza a IV–VI. részt, továbbá a pártfogó felügyelő a szakmai ténymegállapítások keretében elsősorban a terhelt és a fizetésre kötelezett személyi és családi körülményeit, továbbá vagyoni és jövedelmi helyzetét feltáró körülményeket mutatja be. Ebben az esetben a pártfogó felügyelő kockázatértékelést nem végez.
 
-[^45]: A 7. alcím (18. §) a 12/2022. (IV. 26.) IM rendelet 13. §-ával megállapított szöveg.
+[^49]: A 7. alcím (18. §) a 12/2022. (IV. 26.) IM rendelet 13. §-ával megállapított szöveg.
