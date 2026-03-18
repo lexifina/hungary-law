@@ -2,7 +2,7 @@
 
 (2) A fogvatartott csak a bv. orvos egyedi megítélésén alapuló, írásos engedélye alapján tarthat magánál gyógyszert.
 
-(3) Gyógyszertartási engedély csak különösen indokolt esetben adható azon gyógyszerekre, amelyek visszaélésre adhatnak lehetőséget, így különösen az altató- és nyugtató hatású gyógyszerekre.
+(3)[^17] Gyógyszertartási engedély nem adható azon gyógyszerekre, amelyek visszaélésre adhatnak lehetőséget, így különösen az altató- és nyugtató hatású gyógyszerekre.
 
 (4) Fogvatartott gyógyszert nem kezelhet és nem oszthat.
 
@@ -11,3 +11,5 @@
 (6) Gyermeknek gyógyszert kizárólag orvosi rendelkezés alapján a csecsemőgondozó adhat be.
 
 (7) A bv. intézetbe bejuttatott és a bv. orvos által nem engedélyezett gyógyszert – a fogvatartott kérelmére és költségére az általa megjelölt kapcsolattartójának – vissza kell küldeni. Ha a fogvatartott a visszaküldést nem kéri, a gyógyszert meg kell semmisíteni. A megsemmisítés tényét jegyzőkönyvben kell rögzíteni.
+
+[^17]: A 17. § (3) bekezdése a 4/2026. (III. 10.) IM rendelet 38. § g) pontja szerint módosított szöveg.
