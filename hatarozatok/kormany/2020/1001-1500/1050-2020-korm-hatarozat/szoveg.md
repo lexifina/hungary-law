@@ -50,7 +50,7 @@ pénzügyminiszter
 
 Határidő: azonnal
 
-4a.[^9] egyetért azzal, hogy a 2. pont a) és b) alpontja szerinti fejlesztés megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön Komárom Város Önkormányzatával, az ÉDV Zrt.-vel és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel, azzal, hogy a támogatás felhasználásának határideje 2025. december 31. napja;
+4a.[^9] egyetért azzal, hogy a 2. pont a) és b) alpontja szerinti fejlesztés megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön Komárom Város Önkormányzatával, az ÉDV Zrt.-vel és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel, azzal, hogy a támogatás felhasználásának határideje 2027. január 31. napja;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -80,7 +80,7 @@ Határidő: a 2. pont a) és b) alpontja szerinti fejlesztések megvalósítás�
 [^6]: A 3b. pontot az 1080/2021. (II. 27.) Korm. határozat 2. pontja iktatta be.
 [^7]: A 3c. pontot az 1080/2021. (II. 27.) Korm. határozat 2. pontja iktatta be.
 [^8]: A 3d. pontot az 1159/2024. (VI. 10.) Korm. határozat 2. pontja iktatta be.
-[^9]: A 4a. pontot az 1356/2020. (VI. 30.) Korm. határozat 3. pontja iktatta be, szövege az 1080/2021. (II. 27.) Korm. határozat 1. pontjával megállapított, az 1159/2024. (VI. 10.) Korm. határozat 3. pont c) alpontja, az 1027/2025. (II. 24.) Korm. határozat 1. pont b) alpontja, az 1258/2025. (VII. 17.) Korm. határozat b) pontja szerint módosított szöveg.
+[^9]: A 4a. pontot az 1356/2020. (VI. 30.) Korm. határozat 3. pontja iktatta be, szövege az 1080/2021. (II. 27.) Korm. határozat 1. pontjával megállapított, az 1159/2024. (VI. 10.) Korm. határozat 3. pont c) alpontja, az 1027/2025. (II. 24.) Korm. határozat 1. pont b) alpontja, az 1098/2026. (III. 19.) Korm. határozat szerint módosított szöveg.
 [^10]: A 6. pont az 1356/2020. (VI. 30.) Korm. határozat 4. pontjával megállapított, az 1821/2020. (XI. 18.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^11]: A 7. pont az 1356/2020. (VI. 30.) Korm. határozat 5. pontjával megállapított szöveg.
 [^12]: A 8. pontot az 1356/2020. (VI. 30.) Korm. határozat 6. pontja iktatta be.
