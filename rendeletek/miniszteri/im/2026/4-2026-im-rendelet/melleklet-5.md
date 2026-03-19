@@ -1,5 +1,3 @@
-## A 9/2018. (VI. 11.) IM rendelet 2. melléklet 1. pont 1.12. alpontja helyébe a következő alpont lép:
+5. melléklet a 4/2026. (III. 10.) IM rendelethez[^84]
 
-## „1.12. elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt”
-
-5. melléklet a 4/2026. (III. 10.) IM rendelethez
+[^84]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

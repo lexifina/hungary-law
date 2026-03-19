@@ -1,3 +1,3 @@
-33. § (1) A 8/2013. (VI. 29.) KIM rendelet 1. melléklete helyébe az 1. melléklet lép.
+33. §[^33]
 
-(2) A 8/2013. (VI. 29.) KIM rendelet 2. melléklete helyébe a 2. melléklet lép.
+[^33]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,23 +1,3 @@
-## „1. melléklet a 8/2013. (VI. 29.) KIM rendelethez
+2. melléklet a 4/2026. (III. 10.) IM rendelethez[^81]
 
-## A KÖZVETÍTŐI ELJÁRÁS KERETÉBEN LÉTREJÖTT MEGÁLLAPODÁS TELJESÍTÉSÉNEK BEJELENTÉSE
-
-## Alulírott, ………………………………………………………………………………… (családi és utónév) terhelt (aki ……………………………….-n ……… év …………………… hó …… napján született, anyja születési neve: ………………………………………………….) bejelentem, hogy a(z) ………………………………………………. Ügyészség ………………………………… ügyszámon elrendelt közvetítői eljárásban létrejött megállapodásban foglaltakat teljesítettem.
-
-## Ha a büntetőeljárás bírósági szakban van, az eljáró bíróság megnevezése: ……………………..………………………. Bíróság
-
-## és ügyszáma: ……………………………….
-
-## Ennek igazolására az alábbi melléklete(ke)t csatolom.
-
-## ………………………………
-
-## ………………………………
-
-## ……………………………… (keltezés)
-
-## …………………………………………………
-
-## a terhelt aláírása”
-
-2. melléklet a 4/2026. (III. 10.) IM rendelethez
+[^81]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

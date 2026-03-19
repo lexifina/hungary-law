@@ -1,3 +1,3 @@
-23. § A 8/2013. (VI. 29.) KIM rendelet 24. §-a a következő (2a) bekezdéssel egészül ki:
+23. §[^23]
 
-„(2a) Ha a hivatalos iratban szereplő adatok az elítélt életvitelszerű tartózkodását nem erősítik meg, az iratok áttétele előtt a pártfogó felügyelő intézkedik a lakcímadat ellenőrzéséről.”
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

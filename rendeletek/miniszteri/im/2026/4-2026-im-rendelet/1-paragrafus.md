@@ -32,10 +32,6 @@
 
 ## 1. A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet módosítása
 
-1. § A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet [a továbbiakban: 11/2003. (V. 8.) IM–BM–PM együttes rendelet] 9. §-a a következő (5a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(5a) A hatóság a bűnjelet indítványra törvényben meghatározott bűnmegelőzési, bűnüldözési feladat ellátása érdekében, a feladat teljesítéséhez szükséges ideig nyomozó hatóság, előkészítő eljárást folytató szerv és polgári nemzetbiztonsági szolgálat őrzésébe és kezelésébe is adhatja, ha
-
-a) az (5) bekezdés a)–c) pontjában meghatározott feltételek fennállnak, és
-
-b) a bűnjel birtoklása nem ütközik jogszabályba.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

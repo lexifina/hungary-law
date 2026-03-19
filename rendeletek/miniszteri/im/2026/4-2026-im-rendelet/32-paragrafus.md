@@ -1,3 +1,3 @@
-32. § A 8/2013. (VI. 29.) KIM rendelet a következő 66. §-sal egészül ki:
+32. §[^32]
 
-„66. § E rendelet a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

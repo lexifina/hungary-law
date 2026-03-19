@@ -1,1 +1,3 @@
-80. § Hatályát veszti a 15/2018. (VI. 15.) IM rendelet 2. § (1) bekezdés b) pontjában az „illetve” szövegrész.
+80. §[^79]
+
+[^79]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-24. § A 8/2013. (VI. 29.) KIM rendelet 25. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+24. §[^24]
 
-(Ha a pártfogó felügyelő azt észleli, hogy)
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

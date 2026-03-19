@@ -1,1 +1,3 @@
-56. § Hatályát veszti a 16/2014. (XII. 19.) IM rendelet 52. § (3) bekezdése.
+56. §[^56]
+
+[^56]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

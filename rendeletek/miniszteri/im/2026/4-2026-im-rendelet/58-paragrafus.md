@@ -1,1 +1,3 @@
-58. § A 8/2017. (VI. 13.) IM rendelet 10. § (5) bekezdésében a „rezsimkategóriák” szövegrész helyébe a „kategória szabályok” szöveg lép.
+58. §[^58]
+
+[^58]: Az 58. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

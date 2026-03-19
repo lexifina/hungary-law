@@ -1,3 +1,3 @@
-62. § A 9/2018. (VI. 11.) IM rendelet III. Fejezete a 43. §-t követően a következő alcím címmel egészül ki:
+62. §[^62]
 
-„18/A. Intézkedés a rendbírság helyébe lépő elzárás végrehajtására”
+[^62]: A 62. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

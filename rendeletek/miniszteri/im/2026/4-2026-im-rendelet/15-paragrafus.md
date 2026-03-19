@@ -1,1 +1,3 @@
-15. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet a következő alcímmel egészül ki:
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
