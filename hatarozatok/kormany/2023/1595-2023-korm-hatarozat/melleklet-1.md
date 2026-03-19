@@ -110,31 +110,33 @@
 
 ## b) [^22] a 2025. évben Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 5 369 219 600 forint,
 
-## c) a 2026. évben a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény (a továbbiakban: Kvtv2026.) 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 39. Térségi fejlesztési feladatok alcím, 1. Víziközművekkel és vízgazdálkodással összefüggő térségi fejlesztések jogcímcsoport javára 14 463 788 616 forint, az Energiaügyi Minisztérium meglévő forrásainak terhére,
+## c) [^23] a 2026. évben a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím, 1. Víziközművekkel és vízgazdálkodással összefüggő térségi fejlesztések jogcím javára 7 661 732 328 forint,
 
-## d) a 2027. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Víziközművekkel és vízgazdálkodással összefüggő térségi fejlesztéseket finanszírozó előirányzat javára 8 717 485 828 forint;
+## d) [^24] a 2027. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatok finanszírozását szolgáló előirányzata javára 13 582 810 604 forint,
+
+## e) [^25] a 2028. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatok finanszírozását szolgáló előirányzata javára 1 936 731 512 forint;
 
 | Felelős: | nemzetgazdasági miniszter energiaügyi miniszter külgazdasági és külügyminiszter befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos |
 
-| Határidő: | az a) és a b) alpont tekintetében a felmerülés ütemében a c) alpont tekintetében a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) alpont tekintetében az adott évi központi költségvetés tervezésekor |
+| Határidő: | az a) és a b) pont tekintetében a felmerülés ütemében a c) pont tekintetében a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) és az e) pont tekintetében az adott évi központi költségvetés tervezésekor |
 
-## 2.10. [^23] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva, az 1. pont 1.1. alpont b) pont ba) alpontjában szereplő fejlesztés kiviteli tervvel bezárólag történő tervezési feladatai ellátása érdekében a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére vállalható kötelezettségek felső korlátját 349 790 126 forint összegben határozza meg;
+## 2.10. [^26] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva, az 1. pont 1.1. alpont b) pont ba) alpontjában szereplő fejlesztés kiviteli tervvel bezárólag történő tervezési feladatai ellátása érdekében a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére vállalható kötelezettségek felső korlátját 349 790 126 forint összegben határozza meg;
 
-## 2.11. [^24] felhívja a nemzetgazdasági minisztert, hogy az építési és közlekedési miniszter, a külgazdasági és külügyminiszter, valamint a kormánybiztos kezdeményezésére, az 1. pont 1.1. alpont b) pont ba) alpontjában nevesített közútfejlesztési projekt előkészítése érdekében gondoskodjon 350 000 000 forint forrás rendelkezésre állásáról a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára;
+## 2.11. [^27] felhívja a nemzetgazdasági minisztert, hogy az építési és közlekedési miniszter, a külgazdasági és külügyminiszter, valamint a kormánybiztos kezdeményezésére, az 1. pont 1.1. alpont b) pont ba) alpontjában nevesített közútfejlesztési projekt előkészítése érdekében gondoskodjon 350 000 000 forint forrás rendelkezésre állásáról a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára;
 
 | Felelős: | nemzetgazdasági miniszter építési és közlekedési miniszter külgazdasági és külügyminiszter befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos |
 
 | Határidő: | a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-## 2.12. [^25] felhívja az építési és közlekedési minisztert, hogy gondoskodjon az 1. pont 1.1. alpont b) pont bb) alpontja szerinti feladatok ellátása 2025. évi részének finanszírozása érdekében legfeljebb 1 945 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XLV. Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzaton;
+## 2.12. [^28] felhívja az építési és közlekedési minisztert, hogy gondoskodjon az 1. pont 1.1. alpont b) pont bb) alpontja szerinti feladatok ellátása 2025. évi részének finanszírozása érdekében legfeljebb 1 945 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XLV. Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzaton;
 
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a 2025. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-## 2.13. [^26] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pont 1.1. alpont b) pont bb) alpontja szerinti feladatok ellátásával összefüggésben a 2025. évre a központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzaton vállalható kötelezettség felső korlátját 1 945 000 000 forintban határozza meg.
+## 2.13. [^29] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pont 1.1. alpont b) pont bb) alpontja szerinti feladatok ellátásával összefüggésben a 2025. évre a központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzaton vállalható kötelezettség felső korlátját 1 945 000 000 forintban határozza meg.
 
-## 2.14. [^27] felhívja a nemzetgazdasági minisztert, hogy az építési és közlekedési miniszter kezdeményezésére, az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében gondoskodjon legfeljebb 27 016 200 000 forint többletforrás biztosításáról, az alábbi ütemezés szerint:
+## 2.14. [^30] felhívja a nemzetgazdasági minisztert, hogy az építési és közlekedési miniszter kezdeményezésére, az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében gondoskodjon legfeljebb 27 016 200 000 forint többletforrás biztosításáról, az alábbi ütemezés szerint:
 
 ## a) a 2025. évben a Kvtv2025. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára 11 406 840 000 forint,
 
@@ -144,17 +146,17 @@
 
 | Határidő: | az a) pont tekintetében azonnal a b) pont tekintetében a központi költségvetés tervezése során |
 
-## 2.15. [^28] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében legfeljebb 27 000 000 000 forint összegben kötelezettséget vállaljon;
+## 2.15. [^31] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében legfeljebb 27 000 000 000 forint összegben kötelezettséget vállaljon;
 
-## 2.16. [^29] az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében a 2026. év kiadási előirányzata terhére vállalható kötelezettségek felső korlátját 15 600 000 000 forintban állapítja meg;
+## 2.16. [^32] az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pont 1.1. alpont bc) pontjában nevesített közútfejlesztési projekt megvalósítása érdekében a 2026. év kiadási előirányzata terhére vállalható kötelezettségek felső korlátját 15 600 000 000 forintban állapítja meg;
 
-## 2.17. [^30] egyetért azzal, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont bc) pontja szerinti beruházás megvalósítása érdekében legfeljebb 27 000 000 000 forint támogatási összeget tartalmazó támogatási jogviszonyt létesítsen.
+## 2.17. [^33] egyetért azzal, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont bc) pontja szerinti beruházás megvalósítása érdekében legfeljebb 27 000 000 000 forint támogatási összeget tartalmazó támogatási jogviszonyt létesítsen.
 
 ## 3. A Kormány
 
-## 3.1.[^31] egyetért azzal, hogy az 1.1–1.6. alpont szerinti beruházások és feladatok finanszírozása összesen 56 669 960 052 forint költségvetési támogatásból valósuljon meg, a következők szerint:
+## 3.1.[^34] egyetért azzal, hogy az 1.1–1.6. alpont szerinti beruházások és feladatok finanszírozása összesen 56 669 960 052 forint költségvetési támogatásból valósuljon meg, a következők szerint:
 
-## a)[^32] az Építési és Közlekedési Minisztérium által megvalósítandó, az 1.1., 1.2. és 1.5. alpontban meghatározott feladatok ellátásához 25 602 246 178 forint,
+## a)[^35] az Építési és Közlekedési Minisztérium által megvalósítandó, az 1.1., 1.2. és 1.5. alpontban meghatározott feladatok ellátásához 25 602 246 178 forint,
 
 ## b) az MVM Démász Áramhálózati Kft. (a továbbiakban: MVM Démász Kft.) által megvalósítandó, az 1.3. alpontban meghatározott feladatok ellátásához 533 400 000 forint,
 
@@ -180,51 +182,51 @@
 
 ## 3.5. felhívja az építési és közlekedési minisztert, hogy a külgazdasági és külügyminiszter bevonásával, az 1.1. alpont b)–d) pontjában és az 1.2. alpontban meghatározott feladatok elkészültét követően készítsen előterjesztést a Kormány részére a fejlesztések előkészítéséhez és megvalósításához szükséges további intézkedésekről, illetve forrásokról.
 
-## 3.6. [^33] egyetért azzal, hogy az 1. pont 1.1. alpont b) pont ba) alpontjában meghatározott feladatokat a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság végezze el;
+## 3.6. [^36] egyetért azzal, hogy az 1. pont 1.1. alpont b) pont ba) alpontjában meghatározott feladatokat a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság végezze el;
 
-## 3.7. [^34] egyetért azzal, hogy az 1. pont 1.5. alpont a) pontjában meghatározott fejlesztéssel összefüggő feladatok előkészítését és megvalósítását a Szegedi Vízmű Zártkörűen Működő Részvénytársaság végezze el;
+## 3.7. [^37] egyetért azzal, hogy az 1. pont 1.5. alpont a) pontjában meghatározott fejlesztéssel összefüggő feladatok előkészítését és megvalósítását a Szegedi Vízmű Zártkörűen Működő Részvénytársaság végezze el;
 
-## 3.8. [^35] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.1. alpont b) pont ba) alpontjában meghatározott feladat 2024. évi finanszírozása érdekében gondoskodjon a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal támogatási jogviszony létrehozásáról 349 790 126 forint összegben;
+## 3.8. [^38] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.1. alpont b) pont ba) alpontjában meghatározott feladat 2024. évi finanszírozása érdekében gondoskodjon a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal támogatási jogviszony létrehozásáról 349 790 126 forint összegben;
 
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a forrás rendelkezésre állását követő 30 napon belül |
 
-## 3.9. [^36] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.5. alpont a) pontjában meghatározott feladat 2024–2025. évi finanszírozása érdekében gondoskodjon a Szegedi Vízmű Zártkörűen Működő Részvénytársasággal támogatási jogviszony létrehozásáról 900 000 000 forint összegben;
+## 3.9. [^39] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.5. alpont a) pontjában meghatározott feladat 2024–2025. évi finanszírozása érdekében gondoskodjon a Szegedi Vízmű Zártkörűen Működő Részvénytársasággal támogatási jogviszony létrehozásáról 900 000 000 forint összegben;
 
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a forrás biztosítását követően 30 napon belül |
 
-## 3.9a. [^37] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.5. alpont a) pontjában meghatározott ideiglenes feladat többletforrás bevonása nélkül történő megvalósítása érdekében gondoskodjon a Szegedi Vízmű Zártkörűen Működő Részvénytársasággal létrehozott támogatási jogviszony módosításáról;
+## 3.9a. [^40] felhívja az építési és közlekedési minisztert, hogy az 1. pont 1.5. alpont a) pontjában meghatározott ideiglenes feladat többletforrás bevonása nélkül történő megvalósítása érdekében gondoskodjon a Szegedi Vízmű Zártkörűen Működő Részvénytársasággal létrehozott támogatási jogviszony módosításáról;
 
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | az e határozat közzétételét követő harminc napon belül |
 
-## 3.10. [^38] egyetért azzal, hogy az 1. pont 1.5. alpont a) pontjában meghatározott víziközmű-fejlesztés során, az 1. pont 1.5. alpont b) pontjában meghatározott szennyvízkezelési feladat megvalósítását követően az 1. pont. 1.5. alpont a) pontjában meghatározott fejlesztés során létrejött ideiglenes vagyonelemek elbontása után a Szegedi Vízmű Zártkörűen Működő Részvénytársaság által létrehozott víziközmű vagyonelemek – a műszaki átadás-átvételi és engedélyezési, valamint beüzemelési eljárása eredményes lezárását követően – mint be nem fejezett beruházási elemek térítésmentes vagyonátruházásként a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvényben (a továbbiakban: Vksztv.) foglaltaknak megfelelően, ingyenesen, nyilvántartási értéken történő átvezetéssel, Szeged Megyei Jogú Város Önkormányzata tulajdonába és a víziközmű üzemeltetőjének az üzemeltetésébe kerüljenek;
+## 3.10. [^41] egyetért azzal, hogy az 1. pont 1.5. alpont a) pontjában meghatározott víziközmű-fejlesztés során, az 1. pont 1.5. alpont b) pontjában meghatározott szennyvízkezelési feladat megvalósítását követően az 1. pont. 1.5. alpont a) pontjában meghatározott fejlesztés során létrejött ideiglenes vagyonelemek elbontása után a Szegedi Vízmű Zártkörűen Működő Részvénytársaság által létrehozott víziközmű vagyonelemek – a műszaki átadás-átvételi és engedélyezési, valamint beüzemelési eljárása eredményes lezárását követően – mint be nem fejezett beruházási elemek térítésmentes vagyonátruházásként a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvényben (a továbbiakban: Vksztv.) foglaltaknak megfelelően, ingyenesen, nyilvántartási értéken történő átvezetéssel, Szeged Megyei Jogú Város Önkormányzata tulajdonába és a víziközmű üzemeltetőjének az üzemeltetésébe kerüljenek;
 
-## 3.11. [^39] egyetért azzal, hogy az 1. pont 1.5. alpont b) pontjában meghatározott víziközmű-fejlesztés során az Építési és Közlekedési Minisztérium által létrehozott közmű vagyonelemeket – a műszaki átadás-átvételi és engedélyezési, valamint beüzemelési eljárása eredményes lezárását követően – mint be nem fejezett beruházási elemek térítésmentes vagyonátruházásként a Vksztv.-ben foglaltaknak megfelelően, ingyenesen, nyilvántartási értéken történő átvezetéssel, a beruházással érintett közmű tulajdonosának tulajdonába és a beruházással érintett közmű üzemeltetőjének az üzemeltetésébe kerüljenek.
+## 3.11. [^42] egyetért azzal, hogy az 1. pont 1.5. alpont b) pontjában meghatározott víziközmű-fejlesztés során az Építési és Közlekedési Minisztérium által létrehozott közmű vagyonelemeket – a műszaki átadás-átvételi és engedélyezési, valamint beüzemelési eljárása eredményes lezárását követően – mint be nem fejezett beruházási elemek térítésmentes vagyonátruházásként a Vksztv.-ben foglaltaknak megfelelően, ingyenesen, nyilvántartási értéken történő átvezetéssel, a beruházással érintett közmű tulajdonosának tulajdonába és a beruházással érintett közmű üzemeltetőjének az üzemeltetésébe kerüljenek.
 
-## 3.12. [^40] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter irányítása alá tartozó OVF az 1.6. alpontban meghatározott, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb a 3.1. alpont d) pontja szerinti összegben kötelezettséget vállaljon;
+## 3.12. [^43] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter irányítása alá tartozó OVF az 1.6. alpontban meghatározott, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb a 3.1. alpont d) pontja szerinti összegben kötelezettséget vállaljon;
 
-## 3.13. [^41] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter irányítása alá tartozó OVF az 1.6. alpontban meghatározott feladatok ellátása érdekében a 2025. évben a szabad előirányzatot meghaladó mértékben, legfeljebb 5 366 000 000 forint összegben kötelezettséget vállaljon a Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 02. Vízügyi Igazgatóságok cím terhére;
+## 3.13. [^44] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter irányítása alá tartozó OVF az 1.6. alpontban meghatározott feladatok ellátása érdekében a 2025. évben a szabad előirányzatot meghaladó mértékben, legfeljebb 5 366 000 000 forint összegben kötelezettséget vállaljon a Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 02. Vízügyi Igazgatóságok cím terhére;
 
-## 3.14. [^42] az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetésről szóló törvényben meghatározott XVII. Energiaügyi Minisztérium fejezet, Vízügyi Igazgatóságok feladat ellátását szolgáló előirányzat terhére vállalható kötelezettségek mértékét
+## 3.14. [^45] az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetésről szóló törvényben meghatározott XVII. Energiaügyi Minisztérium fejezet, Vízügyi Igazgatóságok feladat ellátását szolgáló előirányzat terhére vállalható kötelezettségek mértékét
 
-## a) a 2026. évben 14 455 115 547 forint,
+## a) a 2027. évben 13 574 665 805 forint,
 
-## b) a 2027. évben 8 712 258 473 forint
+## b) a 2028. évben 1 935 570 170 forint
 
 ## összegben állapítja meg.
 
 ## 4. A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 4. § (2) bekezdése alapján a beruházások gyors lefolytatása érdekében az 1.1–1.6. alpontban meghatározott fejlesztéseket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti a törvény alkalmazása alól.
 
-## 5.[^43] A Kormány egyetért azzal, hogy az 1. pont 1.1. alpont b) pont bb) alpontjában meghatározott feladatokat az Építési és Közlekedési Minisztérium lássa el.
+## 5.[^46] A Kormány egyetért azzal, hogy az 1. pont 1.1. alpont b) pont bb) alpontjában meghatározott feladatokat az Építési és Közlekedési Minisztérium lássa el.
 
-## 6.[^44] A Kormány egyetért azzal, hogy a 2. pont 2.9. alpontja szerinti beruházáshoz a 2026. évi költségvetési törvényben az energiaügyi miniszter irányítása alá tartozó költségvetési fejezetben biztosított forrásokból a Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat, valamint a Szeged Ipari Park közcélú infrastrukturális fejlesztésének támogatásáról és a szükséges források biztosításáról szóló 1595/2023. (XII. 21.) Korm. határozat módosításáról szóló 1267/2025. (VII. 22.) Korm. határozattal történő átütemezés okán felszabaduló összegek felhasználásához a nemzetgazdasági miniszter egyetértése szükséges.
+## 6.[^47] A Kormány egyetért azzal, hogy a 2. pont 2.9. alpontja szerinti beruházáshoz a 2026. évi költségvetési törvényben az energiaügyi miniszter irányítása alá tartozó költségvetési fejezetben biztosított forrásokból a Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat, valamint a Szeged Ipari Park közcélú infrastrukturális fejlesztésének támogatásáról és a szükséges források biztosításáról szóló 1595/2023. (XII. 21.) Korm. határozat módosításáról szóló 1267/2025. (VII. 22.) Korm. határozattal történő átütemezés okán felszabaduló összegek felhasználásához a nemzetgazdasági miniszter egyetértése szükséges.
 
-1. melléklet az 1595/2023. (XII. 21.) Korm. határozathoz[^45]
+1. melléklet az 1595/2023. (XII. 21.) Korm. határozathoz[^48]
 
 [^1]: Az 1. pont 1.1. pont b) alpontja az 1379/2024. (XII. 9.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont 1.1. pont b) alpont bc) pontját az 1050/2025. (III. 11.) Korm. határozat 1. pontja iktatta be.
@@ -248,26 +250,29 @@
 [^20]: A 2. pont 2.8b. alpontját az 1247/2024. (VIII. 8.) Korm. határozat 2. pontja iktatta be, az 1387/2024. (XII. 9.) Korm. határozat 16. pontja visszavonta.
 [^21]: A 2. pont 2.9. alpontja az 1267/2025. (VII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
 [^22]: A 2. pont 2.9. alpont b) pontja az 1571/2025. (XII. 23.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
-[^23]: A 2. pont 2.10. alpontját az 1134/2024. (V. 9.) Korm. határozat 6. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^24]: A 2. pont 2.11. alpontját az 1134/2024. (V. 9.) Korm. határozat 6. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont b) alpontja, az 1571/2025. (XII. 23.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
-[^25]: A 2. pont 2.12. pontját az 1379/2024. (XII. 9.) Korm. határozat 2. pontja iktatta be.
-[^26]: A 2. pont 2.13. pontját az 1379/2024. (XII. 9.) Korm. határozat 2. pontja iktatta be.
-[^27]: A 2. pont 2.14. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
-[^28]: A 2. pont 2.15. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
-[^29]: A 2. pont 2.16. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
-[^30]: A 2. pont 2.17. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
-[^31]: A 3. pont 3.1. alpont nyitó szövegrésze az 1134/2024. (V. 9.) Korm. határozat 8. pont b) alpontja, az 1379/2024. (XII. 9.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
-[^32]: A 3. pont 3.1. alpont a) alpontja az 1134/2024. (V. 9.) Korm. határozat 8. pont c) alpontja, az 1379/2024. (XII. 9.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
-[^33]: A 3. pont 3.6. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont e) alpontja szerint módosított szöveg.
-[^34]: A 3. pont 3.7. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be.
-[^35]: A 3. pont 3.8. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont f) alpontja szerint módosított szöveg.
-[^36]: A 3. pont 3.9. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 27. pont g) alpontja szerint módosított szöveg.
-[^37]: A 3. pont 3.9a. alpontját az 1051/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
-[^38]: A 3. pont 3.10. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1051/2025. (III. 11.) Korm. határozat 3. pontjával megállapított szöveg.
-[^39]: A 3. pont 3.11. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be.
-[^40]: A 3. pont 3.12. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be.
-[^41]: A 3. pont 3.13. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be.
-[^42]: A 3. pont 3.14. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be.
-[^43]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1379/2024. (XII. 9.) Korm. határozat 3. pontja iktatta be.
-[^44]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1267/2025. (VII. 22.) Korm. határozat 4. pontja iktatta be.
-[^45]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 2. pont 2.9. alpont c) pontja az 1099/2026. (III. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^24]: A 2. pont 2.9. alpont d) pontja az 1099/2026. (III. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^25]: A 2. pont 2.9. alpont e) pontját az 1099/2026. (III. 19.) Korm. határozat 2. pontja iktatta be.
+[^26]: A 2. pont 2.10. alpontját az 1134/2024. (V. 9.) Korm. határozat 6. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^27]: A 2. pont 2.11. alpontját az 1134/2024. (V. 9.) Korm. határozat 6. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont b) alpontja, az 1571/2025. (XII. 23.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
+[^28]: A 2. pont 2.12. pontját az 1379/2024. (XII. 9.) Korm. határozat 2. pontja iktatta be.
+[^29]: A 2. pont 2.13. pontját az 1379/2024. (XII. 9.) Korm. határozat 2. pontja iktatta be.
+[^30]: A 2. pont 2.14. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
+[^31]: A 2. pont 2.15. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
+[^32]: A 2. pont 2.16. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
+[^33]: A 2. pont 2.17. alpontját az 1050/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
+[^34]: A 3. pont 3.1. alpont nyitó szövegrésze az 1134/2024. (V. 9.) Korm. határozat 8. pont b) alpontja, az 1379/2024. (XII. 9.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^35]: A 3. pont 3.1. alpont a) alpontja az 1134/2024. (V. 9.) Korm. határozat 8. pont c) alpontja, az 1379/2024. (XII. 9.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
+[^36]: A 3. pont 3.6. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont e) alpontja szerint módosított szöveg.
+[^37]: A 3. pont 3.7. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be.
+[^38]: A 3. pont 3.8. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1379/2024. (XII. 9.) Korm. határozat 4. pont f) alpontja szerint módosított szöveg.
+[^39]: A 3. pont 3.9. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 27. pont g) alpontja szerint módosított szöveg.
+[^40]: A 3. pont 3.9a. alpontját az 1051/2025. (III. 11.) Korm. határozat 2. pontja iktatta be.
+[^41]: A 3. pont 3.10. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be, szövege az 1051/2025. (III. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^42]: A 3. pont 3.11. alpontját az 1134/2024. (V. 9.) Korm. határozat 7. pontja iktatta be.
+[^43]: A 3. pont 3.12. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be.
+[^44]: A 3. pont 3.13. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be.
+[^45]: A 3. pont 3.14. alpontját az 1267/2025. (VII. 22.) Korm. határozat 3. pontja iktatta be, szövege az 1099/2026. (III. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^46]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1379/2024. (XII. 9.) Korm. határozat 3. pontja iktatta be.
+[^47]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1267/2025. (VII. 22.) Korm. határozat 4. pontja iktatta be.
+[^48]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

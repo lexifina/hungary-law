@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1595-30
 | 2025-03-11 | 2023-1595-30-22.7 | 1050/2025. (III. 11.) Korm. határozat |
 | 2025-07-22 | 2023-1595-30-22.8 | 1267/2025. (VII. 22.) Korm. határozat |
 | 2025-12-23 | 2023-1595-30-22.9 | 1134/2024. (V. 9.) Korm. határozat |
+| 2026-03-19 | 2023-1595-30-22.10 | 1099/2026. (III. 19.) Korm. határozat |
