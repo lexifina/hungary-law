@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért Zalaegerszeg területén
 
-a) a 762. számú út Sport utca és Damjanich utca között meglévő körforgalom (Tesco-körforgalom) többsávos, jelzőlámpás körforgalmú csomóponttá alakításával,
+a)[^1] a 762. számú út Sport utca és Damjanich utca között meglévő körforgalom (Tesco-körforgalom) többsávos körforgalmú csomóponttá alakításával,
 
 b) a volt Megyei Művelődési és Ifjúsági Központ épületének bontásával és a helyén parkoló kialakításával;
 
@@ -23,3 +23,5 @@ biztosításáról a Magyarország 2026. évi központi költségvetéséről sz
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a 2. pont szerinti forrás rendelkezésre állását követően azonnal |
+
+[^1]: Az 1. pont a) alpontja az 1092/2026. (III. 19.) Korm. határozat szerint módosított szöveg.
