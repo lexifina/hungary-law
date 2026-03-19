@@ -1,0 +1,56 @@
+# A Kormány 1096/2026. (III. 19.) Korm. határozata
+
+Magyar Közlöny 2026. évi 30. szám, 2026. március 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ZqYyXHnMzrKN8JyoKj9q69b073279cfdf/dokumentumok/30022dea7975fd8bd77cf0ec1c82a99e978f306c/letoltes)
+
+---
+
+A Kormány 1096/2026. (III. 19.) Korm. határozata
+a 2026. évi Judo Grand Slam megrendezéséhez szükséges további kormányzati intézkedésekről
+A Kormány
+1. kiemelt nemzetközi sporteseménnyé nyilvánítja a 2026. évi Judo Grand Slam sporteseményt;
+2. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 7. pont 7.45. alpontja szerinti
+jogkörében eljárva, a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
+(a továbbiakban: NRÜ Zrt.) mint a 2026. évi Judo Grand Slam szervezője által a szervezésben részt vevő szervezetek
+közreműködésével biztosítható juttatások tekintetében az igénybe vehető adómentesség mértékét legfeljebb
+545 000 000 forintban határozza meg;
+3. felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az NRÜ Zrt. bevonásával gondoskodjon az autóbusz-
+forgalmi sávon a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés
+b) pont bf) alpontja alapján az autóbusz-forgalmi sáv használatára jogosult járművek kijelöléséről és részükre
+– a Magyar Judo Szövetség közreműködésével – a 2026. évi Judo Grand Slam megrendezésével kapcsolatban
+az 1. melléklet szerinti igazolás és matrica kiadásáról.
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+Határidő: 2026. szeptember 9–15. között folyamatosan
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1096/2026. (III. 19.) Korm. határozathoz
+A 2026. évi Judo Grand Slam járműveinek megjelölésére szolgáló jelzés, annak a járművön történő
+rögzítési módja, a jelzés viselésére jogosító igazolás tartalma és használatának ellenőrzése
+1. A kijelölt járművek megjelölésére szolgáló jelzést az 1. ábra tartalmazza.
+1.1. Kivitel: öntapadó matrica
+1.2. Elhelyezés: a jármű elején és a hátulján
+1.3. Ha a jármű első vagy hátsó szélvédőjén helyezik el:
+méretek: szélesség 10 cm
+ magasság 10 cm
+
+1.4. Ha a jármű egyéb részén helyezik el:
+méretek: szélesség 30 cm
+ magasság 20 cm
+1. ábra
+2. Az 1. pontban meghatározott jelzést a jármű első és hátsó részén úgy kell elhelyezni, hogy megfeleljen a közúti
+járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM
+rendelet 97. § rendelkezéseinek.
+3. Az 1. pontban meghatározott jelzés járműre történő felhelyezésére jogosító igazolás tartalma:
+„Az autóbusz-forgalmi sáv használatára jogosító igazolás”
+3.1. Járműadatok:
+a) rendszám:
+b) gyártmány:
+c) típus:
+3.2. A forgalmi engedély száma:
+3.3. Az igazolás kiállításának kelte:
+3.4. A kiállító aláírása:
+3.5. A kiállító bélyegzőjének helye:
+3.6. Az igazolás érvényessége (év, hónap, nap):
+3.7. Az 1. pontban meghatározott jelzés színes lenyomata:
+4. Az igazolás használatának ellenőrzése:
+Az igazolás és az 1. pontban meghatározott jelzés használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. §
+(2) bekezdése szerint a rendőrség ellenőrzi.
