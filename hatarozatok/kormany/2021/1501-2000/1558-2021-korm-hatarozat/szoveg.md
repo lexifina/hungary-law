@@ -42,15 +42,17 @@ a)[^7] a 2024. évben 6 755 045 502 forint rendelkezésre állásáról a Magyar
 
 b)[^8] a 2025. évben 4 991 439 036 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
 
-c)[^9] a 2026. évben 16 068 046 334 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
+c)[^9] a 2026. évben 10 047 085 075 forint rendelkezésre állásáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím, 1. Víziközművekkel és vízgazdálkodással összefüggő térségi fejlesztések jogcím javára,
 
-d) a 2027. évben 2 701 620 000 forint rendelkezésre állásáról a központi XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára;
+d)[^10] a 2027. évben 5 481 218 017 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára,
 
-| Felelős: | pénzügyminiszter energiaügyi miniszter építési és közlekedési miniszter |
+e)[^11] a 2028. évben 3 241 363 242 forint rendelkezésre állásáról a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatok finanszírozását szolgáló előirányzat javára;
 
-| Határidő: | az a) alpont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
+| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter építési és közlekedési miniszter a b)–d) alpont tekintetében energiaügyi miniszter, nemzetgazdasági miniszter |
 
-5.[^10] felhívja az energiaügyi minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon az Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság mint kedvezményezettel kötött támogatási szerződés módosításáról;
+| Határidő: | az a) alpont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) alpont tekintetében a 2025. évi központi költségvetés végrehajtása során, a felmerülés ütemében a c) alpont tekintetében a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d)–e) alpont tekintetében az adott évi központi költségvetés tervezése során |
+
+5.[^12] felhívja az energiaügyi minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon az Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság mint kedvezményezettel kötött támogatási szerződés módosításáról;
 
 | Felelős: | energiaügyi miniszter |
 
@@ -96,7 +98,7 @@ Felelős: pénzügyminisztérium nemzeti vagyon kezeléséért felelős tárca n
 
 Határidő: az előrehaladás ütemében
 
-14.[^11]
+14.[^13]
 
 [^1]: Az 1. pont e) alpontját az 1495/2022. (X. 19.) Korm. határozat 1. pontja iktatta be.
 [^2]: A 2. pont az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított, az 1418/2024. (XII. 23.) Korm. határozat 5. pontja szerint módosított szöveg.
@@ -106,6 +108,8 @@ Határidő: az előrehaladás ütemében
 [^6]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1604/2023. (XII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
 [^7]: A 4. pont a) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
 [^8]: A 4. pont b) alpontja az 1387/2024. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
-[^9]: A 4. pont c) alpontja az 1418/2024. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^10]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1418/2024. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
-[^11]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
+[^9]: A 4. pont c) alpontja az 1100/2026. (III. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^10]: A 4. pont d) alpontja az 1100/2026. (III. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^11]: A 4. pont e) alpontját az 1100/2026. (III. 19.) Korm. határozat 1. pontja iktatta be.
+[^12]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be, szövege az 1418/2024. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^13]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
