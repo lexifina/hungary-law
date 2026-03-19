@@ -1,0 +1,1 @@
+A Kormány egyetért azzal, hogy az Egészséges Budapest Programmal kapcsolatos intézkedésekről szóló 1416/2024. (XII. 20.) Korm. határozat (a továbbiakban: Korm. hat.) 1. melléklete az 1. melléklet szerint módosul.
