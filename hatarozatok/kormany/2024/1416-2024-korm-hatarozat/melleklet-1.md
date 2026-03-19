@@ -50,9 +50,9 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 
 | 8. | Nagykátai Szakorvosi Rendelőintézet | rendelőintézet felújítás | 350 000 000 |
 
-| 9. | Budapest Főváros XVI. kerületi Kertváros Önkormányzata | Hunyadvár utcai tüdőgondozó felújításának utolsó fázisa | 563 000 000 |
+| 9.[^5] | Budapest Főváros XVI. kerületi Kertváros Önkormányzata | Hunyadvár utcai tüdőgondozó felújításának utolsó fázisa és orvostechnológiai eszközök beszerzése a Jókai Mór utcai rendelő részére | 563 000 000 |
 
-| 10.[^5] |  |  |  |
+| 10.[^6] |  |  |  |
 
 | 11. | Budapest Főváros XX. kerület Pesterzsébet Önkormányzata | Felújítás és orvostechnológiai eszközök beszerzése a Jókai Mór utcai rendelőben, orvostechnológiai és informatikai eszközök beszerzése gyerekfogászatok részére | 121 500 000 |
 
@@ -64,4 +64,5 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 [^2]: A 3. pont a) alpontja az 1272/2025. (VII. 24.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. mellékletben foglalt táblázat 10. sort az 1272/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
+[^5]: Az 1. mellékletben foglalt táblázat 9. sora az 1089/2026. (III. 19.) Korm. határozat szövegével megállapított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat 10. sort az 1272/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
