@@ -1,0 +1,1 @@
+A Zalaegerszeg Megyei Jogú Város fejlesztési feladatainak támogatásáról szóló 1069/2026. (III. 5.) Korm. határozat 1. pont a) alpontjában a „többsávos, jelzőlámpás körforgalmú csomóponttá alakításával” szövegrész helyébe a „többsávos körforgalmú csomóponttá alakításával” szöveg lép.
