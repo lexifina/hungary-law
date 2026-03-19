@@ -1,0 +1,1 @@
+A komáromi ipari park víziközmű-hálózat fejlesztése érdekében szükséges intézkedésekről szóló 1050/2020. (II. 18.) Korm. határozat 4a. pontjában a „2025. december 31.” szövegrész helyébe a „2027. január 31.” szöveg lép.
