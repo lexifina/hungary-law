@@ -32,7 +32,7 @@
 
 | 6 | 2022 | LIFE – Természet és biodiverzitás | Magyar Madártani és Természetvédelmi Egyesület | 110 768 791 | 42 336 829 | 36 107 146 | 92 901 235 | – |
 
-| 7 | 2023 | Digitális Európa Program (MI EDIH) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság, Budapesti Műszaki és Gazdaságtudományi Egyetem, Eötvös Loránd Tudományegyetem Számítástechnikai és Automatizálási Kutatóintézet | – | 220 854 666 | 131 565 787 | 407 546 113 | – |
+| 7[^2] | 2023 | Digitális Európa Program (MI EDIH) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság, Budapesti Műszaki és Gazdaságtudományi Egyetem, Eötvös Loránd Tudományegyetem HUN-REN Számítástechnikai és Automatizálási Kutatóintézet | – | 220 854 666 | 131 565 787 | 407 546 113 | – |
 
 | 8 | 2023 | Digitális Európa Program (HPC EDIH) | KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. | 82 533 723 | – | – | – | – |
 
@@ -52,7 +52,7 @@
 
 | 16 | 2023 | Digitális Európa Program (POTENTIAL) | ESZFK Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Kft. | – | 73 949 848 | 45 720 301 | 25 234 044 | – |
 
-| 17 | 2023 | LIFE (Co-Clima) | Püspökszilágy Község Önkormányzata, Penc Község Önkormányzata, Klímabarát Települések Szövetsége | – | 78 640 916 | 43 338 559 | 18 038 559 | – |
+| 17[^3] | 2023 | LIFE (Co-Clima) | Püspökszilágy Község Önkormányzata, Penc Község Önkormányzata, Klímabarát Települések Szövetsége | – | 78 640 916 | 43 338 559 | 18 038 559 | 68 100 000 |
 
 | 18 | 2023 | LIFE (LOGOS 4 WATERS) | Közigazgatási és Területfejlesztési Minisztérium (konzorciumvezető) és a konzorcium tagjai | – | – | 112 819 526 | – | – |
 
@@ -64,27 +64,41 @@
 
 | 22 | 2024 | EU4HEALTH (EUNetCCC) | Országos Onkológiai Intézet, Országos Korányi Pulmonológiai Intézet | – | – | 109 000 000 | 6 000 000 | – |
 
-| 23 | 2025 | EU4HEALTH (EUCanScreen, JARED) | Országos Korányi Pulmonológiai Intézet | – | – | 74 965 985 | 47 704 573 | – |
+| 23[^4] | 2025 | EU4HEALTH (EUCanScreen, JARED, JA-SAFE) | Országos Korányi Pulmonológiai Intézet | – | – | 74 965 985 | 47 704 573 | 35 200 000 |
 
-| 24[^2] | 2025 | EURATOM, EUROfusion előkészítési és önerő támogatás | HUN-REN Energiatudományi Kutatóközpont | – | – | 40 000 000 | 110 000 000 | – |
+| 24[^5] | 2025 | EURATOM, EUROfusion előkészítési és önerő támogatás | HUN-REN Energiatudományi Kutatóközpont | – | – | 40 000 000 | 110 000 000 | – |
 
 | 25 | 2025 | Digitális Európa Program (Agrár EDIH) | Cibus Hungaricus Alapítvány (konzorciumvezető) és a konzorcium tagjai | – | – | 114 182 040 | 88 681 384 | 177 743 376 |
 
-| 26 | 2025 | Digitális Európa Program (Adat-EDIH) | Neumann Nonprofit Közhasznú Kft. (konzorciumvezető) és a konzorcium tagjai | – | – | 172 083 960 | 133 651 876 | 267 877 364 |
+| 26 | 2025 | Digitális Európa Program (Adat-EDIH) | ZONE Klaszter Nonprofit Kft. (konzorciumvezető) és a konzorcium tagjai[^6] | – | – | 172 083 960 | 133 651 876 | 267 877 364 |
 
 | 27 | 2025 | Digitális Európa Program (Digital Tech EDIH) | EIT Digital Hungary Nonprofit Kft. (konzorciumvezető) és a konzorcium tagjai | – | – | 258 125 760 | 200 477 674 | 401 815 766 |
 
 | 28 | 2025 | LIFE | Magyar Madártani és Természetvédelmi Egyesület | – | – | 73 583 504 | 30 000 000 | – |
 
-| 29 | 2025 | EDF – Európai Védelmi Alap | CyEx Kft. | – | – | 124 596 000 | 33 438 900 | – |
+| 29[^7] | 2025 | EDF – Európai Védelmi Alap | CyEx Kft. | – | – | 124 596 000 | 24 446 904 | 22 230 000 |
 
 | 30 | 2025 | Digitális Európa Program (HPC EDIH) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság (konzorciumvezető) és a konzorcium tagjai | – | – | – | 147 563 152 | 129 290 792 |
 
-| 31[^3] | 2025 | Digitális Európa Program (EuroCC-3) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. | – | – | – | 110 000 000 | 110 000 000 |
+| 31[^8] | 2025 | Digitális Európa Program (EuroCC-3) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. | – | – | – | 110 000 000 | 110 000 000 |
 
-| 32[^4] | 2025 | EU4Health, Digitális Európa program előkészítési támogatás | Semmelweis Egyetem Egészségügyi Menedzserképző Központ | – | – | – | 50 000 000 | 50 000 000 |
+| 32[^9] | 2025 | EU4Health, Digitális Európa program előkészítési támogatás | Semmelweis Egyetem Egészségügyi Menedzserképző Központ | – | – | – | 50 000 000 | 50 000 000 |
+
+| 33[^10] | 2026 | Digitális Európa Program | IdomSoft Informatikai Zrt. | – | – | – | 50 000 000 | 50 000 000 |
+
+| 34[^11] | 2026 | Európai Városfejlesztési Kezdeményezés | Székesfehérvár Megyei Jogú Város Önkormányzata | – | – | – | – | 195 000 000 |
+
+| 35[^12] | 2026 | LIFE, Digitális Európa Program, Európai Városfejlesztési Kezdeményezés, Polgárok, egyenlőség, jogok és értékek program (előkészítési- és önerő költség támogatás) | Közigazgatási és Területfejlesztési Minisztérium (konzorciumvezető) és a konzorcium tagjai | – | – | – | 395 000 000 | 375 000 000 |
 
 [^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. mellékletben foglalt táblázat 24. sora az 1511/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
-[^3]: Az 1. mellékletben foglalt táblázat 31. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
-[^4]: Az 1. mellékletben foglalt táblázat 32. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
+[^2]: Az 1. mellékletben foglalt táblázat 7. sora az 1102/2026. (III. 19.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. mellékletben foglalt táblázat 17. sora az 1102/2026. (III. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat 23. sora az 1102/2026. (III. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. mellékletben foglalt táblázat 24. sora az 1511/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat 26. sor 4. mezője az 1102/2026. (III. 19.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^7]: Az 1. mellékletben foglalt táblázat 29. sora az 1102/2026. (III. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat 31. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
+[^9]: Az 1. mellékletben foglalt táblázat 32. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
+[^10]: Az 1. mellékletben foglalt táblázat 33. sorát az 1102/2026. (III. 19.) Korm. határozat 1. pontja iktatta be.
+[^11]: Az 1. mellékletben foglalt táblázat 34. sorát az 1102/2026. (III. 19.) Korm. határozat 1. pontja iktatta be.
+[^12]: Az 1. mellékletben foglalt táblázat 35. sorát az 1102/2026. (III. 19.) Korm. határozat 1. pontja iktatta be.
