@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Kirgiz Köztársaság Miniszteri Kabinetje közötti légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
