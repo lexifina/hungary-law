@@ -1,37 +1,29 @@
-1. melléklet a 29/2023. (XII. 18.) MK rendelethez
+1. melléklet a 29/2023. (XII. 18.) MK rendelethez[^14]
 
-A polgári nemzetbiztonsági szolgálat tábornoki ruházati ellátási normája
+Az egyenruha cikkei
 
 |  | A | B | C | D |
 
-| 1 | Termék megnevezése | Menny. egység | Tábornoki alapellátási norma (férfi) | Tábornoki alapellátási norma (női) |
+| 1 | Termék megnevezése | Mennyiségegység | Női ellátási norma | Férfi ellátási norma |
 
-| 2 | Társasági tányérsapka/női kalap, szerelve | db | 1 | 1 |
+| 2 | Társasági tányérsapka / női kalap, szerelve | db | 2 | 2 |
 
-| 3 | Társasági felöltő férfi/női, szerelve | db | 1 | 1 |
+| 3 | Kabát | db | 1 | 1 |
 
-| 4 | Ballonkabát, 4/4-es | db | 1 | 1 |
+| 4 | Társasági zubbony / kosztümkabát, szerelve | db | 1 | 1 |
 
-| 5 | Társasági zubbony/kosztümkabát, szerelve | db | 2 | 2 |
+| 5 | Társasági pantalló férfi / szoknya női | db | 2 | 2 |
 
-| 6 | Társasági pantalló férfi/szoknya női | db | 2 | 2 |
+| 6 | Nyakkendő | db | 1 | 1 |
 
-| 7 | Nyaksál | db | 1 | 1 |
+| 7 | Szolgálati ing / blúz, hosszú ujjú, fehér | db | 2 | 2 |
 
-| 8 | Nyakkendő | db | 1 | 1 |
+| 8 | Váll-lap, tábornoki, szerelve | pár | 2 | 2 |
 
-| 9 | Bőrkesztyű, fekete | pár | 1 | 1 |
+| 9 | Karjelvény | db | 2 | 2 |
 
-| 10 | Társasági férfi félcipő/női cipő, fekete | pár | 1 | 1 |
+| 10 | Fém névkitűző | db | 2 | 2 |
 
-| 11 | Társasági nadrágszíj, fekete | db | 1 | – |
+| 11 | Hivatásos állománykategóriát kifejező hímzett jelvény | db | 2 | 2 |
 
-| 12 | Szolgálati ing/blúz, hosszú ujjú, fehér | db | 2 | 2 |
-
-| 13 | Váll-lap, tábornoki, szerelve | pár | 2 | 2 |
-
-| 14 | Karjelvény | db | 2 | 2 |
-
-| 15 | Fém névkitűző | db | 2 | 2 |
-
-| 16 | Hivatásos állománykategóriát kifejező hímzett jelvény | db | 2 | 2 |
+[^14]: Az 1. melléklet az 1/2026. (III. 19.) MK rendelet 11. §-ával megállapított szöveg.
