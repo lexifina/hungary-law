@@ -1,3 +1,1 @@
 1. melléklet a 2026. évi X. törvényhez
-
-MAGYARORSZÁG KORMÁNYA ÉS ÚJ-ZÉLAND KORMÁNYA KÖZÖTTI LÉGIKÖZLEKEDÉSI MEGÁLLAPODÁS
