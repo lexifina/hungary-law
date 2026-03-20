@@ -1,19 +1,6 @@
-1. A záhonyi körzetben szükséges vágányfelújításokról szóló 1045/2022. (II. 4.) Korm. határozat (a továbbiakban: Határozat) 1. pontja helyébe a következő rendelkezés lép:
+1.[^2]
 
-(A Kormány)
+2.[^3]
 
-„1. egyetért
-
-a) a Záhony széles állomáson, Záhony-Rendező állomáson, Fényeslitke Déli rendező állomáson, valamint Eperjeske-Rendező állomáson normál és széles nyomtávú vágányfejlesztésekkel, az ehhez szükséges kitérőcserékkel, a kapcsolódó biztonsági-berendezési és térvilágítási beavatkozásokkal, valamint
-
-b) a teherfuvarozás korlátozásmentes közlekedésének érdekében a vasúti transzformátor alállomások országos vasúti pályahálózaton történő fejlesztésével.”
-
-2. A Határozat a következő 5. ponttal egészül ki:
-
-(A Kormány)
-
-„5. egyetért azzal, hogy az 1. pont b) alpontjában foglalt feladatot a MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság – mint a pályaműködtetési feladatok vonatkozásában a MÁV Zrt. jogutódja – valósítsa meg a már érvényesen létrejött vállalkozási szerződésben foglalt feltételek változatlan alkalmazásával, és felhívja az építési és közlekedési minisztert, hogy annak teljesítése érdekében módosítsa a 4. pontban létrejött támogatási jogviszonyt.
-
-| Felelős: | építési és közlekedési miniszter |
-
-| Határidő: | azonnal |
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
