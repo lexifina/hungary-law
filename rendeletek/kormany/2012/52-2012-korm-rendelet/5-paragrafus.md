@@ -1,5 +1,3 @@
-## 4. § A 3. mellékletben felsorolt nem közösségi áruk tekintetében nem szükséges behozatali engedély az EGT-ről szóló megállapodásban részes EU-n kívüli államból származó, illetve ott szabad forgalomba helyezett, vagy azzal azonos tekintet alá eső eljárás alá vont áruk behozatalához.
-
 ## 3. Általános szabályok
 
 5. § (1)[^14] A kormányhivatal az engedélyek kiadásának árucsoportonként meghatározott lebonyolítási rendjéről internetes honlapján közlemény formájában tájékoztatást ad, továbbá közzéteszi az alkalmazandó űrlapokat.

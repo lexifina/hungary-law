@@ -1,4 +1,4 @@
-2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^110]
+2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^111]
 
 Áruk, amelyeknek Magyarország területéről, kereskedelmi forgalomban, nem EU tagországba, illetve az EGT-ben nem részes államba történő kiviteléhez, reexportjához engedély szükséges
 
@@ -46,4 +46,4 @@
 
 3.
 
-[^110]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^111]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

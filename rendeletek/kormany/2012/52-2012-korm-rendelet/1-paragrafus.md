@@ -1,6 +1,6 @@
 ## 1. Értelmező rendelkezések
 
-## 1. § E rendelet alkalmazásában:
+1. § E rendelet alkalmazásában:
 
 1. áru: az 1–4. mellékletben felsorolt áruk, szolgáltatások és anyagi értéket képviselő jogok;
 

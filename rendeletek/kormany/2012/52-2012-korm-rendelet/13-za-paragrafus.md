@@ -1,4 +1,4 @@
-## 6/X.[^82] Oroszországból való tőkekivonáshoz vagy oroszországi üzleti tevékenységek felszámolásához kötődő termékek importjára vagy szolgáltatás nyújtására vonatkozó tilalmak alóli mentesítést biztosító engedélyek
+## 6/X.[^83] Oroszországból való tőkekivonáshoz vagy oroszországi üzleti tevékenységek felszámolásához kötődő termékek importjára vagy szolgáltatás nyújtására vonatkozó tilalmak alóli mentesítést biztosító engedélyek
 
 13/ZA. § (1) A 833/2014/EU tanácsi rendelet 12b. cikk (2) vagy (2a) bekezdések szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani.
 
@@ -14,4 +14,4 @@ b) a 833/2014/EU tanácsi rendelet 12b. cikk (2) vagy (2a) bekezdésében foglal
 
 (5) A 833/2014/EU tanácsi rendelet 12b. cikk (3) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^82]: A 6/X. alcímet (13/ZA. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 5. §-a iktatta be.
+[^83]: A 6/X. alcímet (13/ZA. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 5. §-a iktatta be.

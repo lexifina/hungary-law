@@ -1,4 +1,4 @@
-## 6/V.[^80] A kőolajtermékek exportjára vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/V.[^81] A kőolajtermékek exportjára vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/Y. § (1) A 833/2014/EU tanácsi rendelet 3m. cikk (8) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 3m. cikk (8) bekezdésében foglalt tilalom a
 
 (5) A 833/2014/EU tanácsi rendelet 3m. cikk (8) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^80]: A 6/V. alcímet (13/Y. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 3. §-a iktatta be.
+[^81]: A 6/V. alcímet (13/Y. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 3. §-a iktatta be.

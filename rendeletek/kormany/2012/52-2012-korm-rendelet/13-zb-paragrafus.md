@@ -1,4 +1,4 @@
-## 6/Y.[^83] A szerződésekkel, ügyletekkel kapcsolatos követelések, kártérítési és egyéb hasonló jellegű követelések teljesítésével kapcsolatos mentesítést biztosító engedélyek
+## 6/Y.[^84] A szerződésekkel, ügyletekkel kapcsolatos követelések, kártérítési és egyéb hasonló jellegű követelések teljesítésével kapcsolatos mentesítést biztosító engedélyek
 
 13/ZB. § (1) A 833/2014/EU tanácsi rendelet 11. cikk (4) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani.
 
@@ -12,4 +12,4 @@ b) a 833/2014/EU tanácsi rendelet 11. cikk (1) bekezdésében foglalt tilalom a
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 11. cikk (4) bekezdésében foglalt mentesítési feltételek teljesülése esetén adható meg.
 
-[^83]: A 6/Y. alcímet (13/ZB. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 6. §-a iktatta be.
+[^84]: A 6/Y. alcímet (13/ZB. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 6. §-a iktatta be.

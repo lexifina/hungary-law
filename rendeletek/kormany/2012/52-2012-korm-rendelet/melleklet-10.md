@@ -1,4 +1,4 @@
-10. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^116]
+10. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^117]
 
 A 13/W. § (1) bekezdése szerinti igazolás
 
@@ -14,4 +14,4 @@ Based on the request submitted by ………………………… (name of the op
 
 This certification has been issued based on the report prepared using the mass balance principle and submitted by the Applicant. The Applicant is liable for validity of the content in the report under the criminal law.
 
-[^116]: A 10. mellékletet a 233/2025. (VII. 31.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^117]: A 10. mellékletet a 233/2025. (VII. 31.) Korm. rendelet 13. § (2) bekezdése iktatta be.

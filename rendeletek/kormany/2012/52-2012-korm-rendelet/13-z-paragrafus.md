@@ -1,4 +1,4 @@
-## 6/W.[^81] A cseppfolyósított földgáz importjára vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/W.[^82] A cseppfolyósított földgáz importjára vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/Z. § (1) A 833/2014/EU tanácsi rendelet 3u. cikk (5) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 3u. cikk (5) bekezdésében foglalt tilalom a
 
 (5) A 833/2014/EU tanácsi rendelet 3u. cikk (5) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^81]: A 6/W. alcímet (13/Z. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^82]: A 6/W. alcímet (13/Z. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 4. §-a iktatta be.

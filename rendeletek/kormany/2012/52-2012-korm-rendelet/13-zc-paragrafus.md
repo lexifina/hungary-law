@@ -1,4 +1,4 @@
-## 6/Z.[^84] Energiaágazatban működő szervekben új részesedés szerzésére vagy a meglévő részesedés kiterjedésére vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/Z.[^85] Energiaágazatban működő szervekben új részesedés szerzésére vagy a meglévő részesedés kiterjedésére vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/ZC. § (1) A 765/2006/EK tanácsi rendelet 1gb. cikk (2) bekezdése, valamint a 833/2014/EU rendelet 3a. cikk (3) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani.
 
@@ -16,4 +16,4 @@ c) a 765/2006/EK tanácsi rendelet 1gb. cikk (2) bekezdésében, valamint a 833/
 
 (5) A 765/2006/EK tanácsi rendelet 1gb. cikk (3) bekezdése, valamint a 833/2014/EU rendelet 3a. cikk (4) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^84]: A 6/Z. alcímet (13/ZC. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^85]: A 6/Z. alcímet (13/ZC. §-t) a 247/2025. (VIII. 5.) Korm. rendelet 7. §-a iktatta be.

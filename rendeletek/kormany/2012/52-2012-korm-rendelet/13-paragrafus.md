@@ -1,5 +1,3 @@
-## 12. § A 3. § (3) bekezdése szerinti vállalkozási szerződés teljesítésére vonatkozó vállalkozási import engedély a 8. mellékletben meghatározott űrlapon kérelmezhető.
-
 13. § (1)[^26]
 
 (2)[^27] A kormányhivatal a vállalkozási szerződések engedélyezése során vizsgálja, hogy

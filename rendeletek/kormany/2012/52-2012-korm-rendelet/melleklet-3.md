@@ -1,4 +1,4 @@
-3. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^111]
+3. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^112]
 
 Nem közösségi áruk, amelyeknek az EU-n kívüli országokból Magyarország területére, kereskedelmi forgalomban történő behozatalához engedély szükséges
 
@@ -58,4 +58,4 @@ Nem közösségi áruk, amelyeknek az EU-n kívüli országokból Magyarország 
 
 4.
 
-[^111]: A 3. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § c) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^112]: A 3. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § c) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
