@@ -10,8 +10,10 @@ a) az Információs Hivatalnál 2026. január 1-jén,
 
 b) az Alkotmányvédelmi Hivatalnál és a Nemzetbiztonsági Szakszolgálatnál 2026. április 1-jén,
 
-c) a Nemzeti Információs Központnál 2028. január 1-jén
+c)[^1] a Nemzeti Információs Központnál 2026. április 1-jén
 
 kerül bevezetésre.
 
 (5) Az e rendelet hatálybalépését követően a (2) és a (3) bekezdés alapján kiadott szolgálati igazolvány a (4) bekezdésben meghatározott időpontig érvényes.
+
+[^1]: A 19. § (4) bekezdés c) pontja az 1/2026. (III. 19.) MK rendelet 14. §-a szerint módosított szöveg.
