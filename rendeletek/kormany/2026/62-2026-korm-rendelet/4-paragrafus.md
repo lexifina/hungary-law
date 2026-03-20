@@ -1,0 +1,1 @@
+4. § A Hpt. 284. § (3) bekezdésétől eltérően a fizetési rendszert működtető pénzügyi vállalkozás a kedvezményezett pénzforgalmi szolgáltató részére a visszaélési kockázati információkat nem teszi elérhetővé.
