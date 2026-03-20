@@ -1,6 +1,6 @@
 ## I. A csapatzászló leírása
 
-## 1. A csapatzászló 120 × 140 centiméteres, fehér színű selyem, szélén nemzeti színű farkasfogazattal, közepén mindkét oldalán Magyarország 40–60 centiméter átmérőjű hímzett címerével, két külső sarkában aranyszínű bojttal. A zászlólap jobb oldalán, a címer felett a megadományozott szerv, a címer alatt az adományozó név szerepel.
+## 1.[^50] A csapatzászló 120×140 centiméteres, fehér színű selyem, szélén mindkét oldalán nemzeti színű farkasfogazattal, közepén elölnézeti oldalán Magyarország 40–60 centiméter átmérőjű hímzett címerével, hátoldalán Magyarország vagy a megadományozott szerv 40–60 centiméter átmérőjű hímzett címerével, két külső sarkában aranyszínű bojttal. A zászlólap jobb oldalán, a címer felett a megadományozott szerv, a címer alatt az adományozó név szerepel. A zászlólap széleit a hosszabb oldalon 11-11, a rövidebb oldalon 9-9, 10 centiméter alapú, 15 cm-re benyúló piros és zöld farkasfogazatból álló pártázat övezi. A farkasfogak minden oldalon piros színnel kezdődnek és végződnek, a zászlólap négy sarkában a farkasfogakat zöld színű háromszög választja el.
 
 ## 2. A zászlórúd két részből áll. Együttesen 226 centiméter hosszú, 4 centiméter átmérőjű, zöldre festett és lakkozott, henger alakú puhafa, alsó vége 35 centiméter hosszan sárgaréz foglalatba helyezve. A zászlórúd két része csavarmentes fémfoglalattal egymásba illeszthető. A zászló a rúd felső részére 3 sorban 25-25 egyenlően elosztott rézszeggel van felerősítve.
 
@@ -23,3 +23,5 @@
 ## 3. További szalagok: 16 centiméter széles kék szaténszalag, középen 20–25 centiméteres csokorba kötve, két ága 100-100 centiméter hosszúságú. A szalag ágai arannyal hímzettek, első ágán a zászlószalag elhelyezésének indoka, a második ágon pedig az adományozó neve található, alatta az adományozó szervezetének 8 centiméter átmérőjű emblémájával.
 
 7. melléklet a 2/2023. (II. 3.) MK rendelethez
+
+[^50]: A 6. melléklet I. pont 1. alpontja az 1/2026. (III. 19.) MK rendelet 7. § (6) bekezdésével megállapított szöveg.

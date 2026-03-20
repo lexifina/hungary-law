@@ -1,3 +1,3 @@
-22. §[^27]
+22. §[^31]
 
-[^27]: A 22. §-t a 12/2025. (VI. 30.) MK rendelet 8. § f) pontja hatályon kívül helyezte.
+[^31]: A 22. §-t a 12/2025. (VI. 30.) MK rendelet 8. § f) pontja hatályon kívül helyezte.

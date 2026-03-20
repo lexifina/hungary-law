@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti elismerés leírásának és viselési rendjének meghatározását a 3. melléklet tartalmazza.
 
-(3)[^13] Az (1) bekezdés szerinti elismerés átadására
+(3)[^16] Az (1) bekezdés szerinti elismerés átadására
 
 a) az állami és nemzeti ünnepek (március 15., augusztus 20. és október 23.) alkalmából,
 
@@ -14,7 +14,7 @@ c) rendkívüli, kiemelkedő szolgálatteljesítésért
 
 kerülhet sor.
 
-(4)[^14] Az (1) bekezdés szerinti elismeréssel pénzjutalom jár, amelynek bruttó összege az altiszti besorolási kategória szerinti illetménysáv alsó határának 2-szerese.
+(4)[^17] Az (1) bekezdés szerinti elismeréssel pénzjutalom jár, amelynek bruttó összege az altiszti besorolási kategória szerinti illetménysáv alsó határának 2-szerese.
 
-[^13]: A 6. § (3) bekezdését a 12/2025. (VI. 30.) MK rendelet 4. §-a iktatta be.
-[^14]: A 6. § (4) bekezdését a 12/2025. (VI. 30.) MK rendelet 4. §-a iktatta be.
+[^16]: A 6. § (3) bekezdését a 12/2025. (VI. 30.) MK rendelet 4. §-a iktatta be.
+[^17]: A 6. § (4) bekezdését a 12/2025. (VI. 30.) MK rendelet 4. §-a iktatta be.

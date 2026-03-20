@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-2-20-7G
 | 2024-06-21 | 2023-2-20-7G.4 | 21/2023. (VIII. 24.) MK rendelet |
 | 2024-07-19 | 2023-2-20-7G.5 | 24/2024. (VII. 18.) NGM rendelet |
 | 2025-07-08 | 2023-2-20-7G.6 | 12/2025. (VI. 30.) MK rendelet |
+| 2026-03-20 | 2023-2-20-7G.7 | 1/2026. (III. 19.) MK rendelet |

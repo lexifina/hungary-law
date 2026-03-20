@@ -1,5 +1,3 @@
-## A Nemzet Biztonságáért Díj turulmadarat ábrázoló kisplasztika a kiterjesztett szárnyú madár tölgyfalombbal keretezett háromszögletű, ún. lovagi pajzson áll. Csőrében Szent István-kardot tart. A madár kiterjesztett szárnyai közötti távolság 100 milliméter, magassága a pajzzsal együtt 120 milliméter. A plasztika 70 × 70 milliméter alapú, 70 milliméter magas, felső lapján 40 × 40 milliméter csonka gúla formájú márványposztamensen áll. A posztamens elő- és hátlapján fémtábla, előlapon „A NEMZET BIZTONSÁGÁÉRT” felirat, valamint tölgy- és babérágmotívum szerepel. Hátlapon az adományozásra utaló felirat. A Díj díszdobozban helyezkedik el.
-
 3. melléklet a 2/2023. (II. 3.) MK rendelethez
 
 A Nemzetbiztonság Szolgálatáért Érdemjel leírása és viselési rendje
@@ -10,6 +8,9 @@ A Nemzetbiztonság Szolgálatáért Érdemjel leírása és viselési rendje
 
 ## A hátlapon, középen, két sorban „Nemzetbiztonság Szolgálatáért Érdemjel” felirat van.
 
-2. Az érdemjel szalagja 40 milliméter széles mélyzöld selyemszalag, melynek szélén 4-4 milliméter zöld, közepén 2 milliméter szélességű piros csík helyezkedik el. A színeket 1,5 milliméter széles fehér csíkok választják el egymástól.
+2.[^45] Az érdemjel egyenruhán viselhető változata 40 milliméter szélességű, 10 milliméter magasságú mélyzöld selyemszalag, amelynek mindkét szélétől 4 milliméter távolságra 1,5 milliméteres vastagságú, párhuzamosan futó fehér sáv foglal helyet. A selyemszalag közepén 1,5 milliméter vastagságú, párhuzamosan futó fehér sávok által közrefogva 2 milliméter vastagságú piros színű sáv foglal helyet, amelyen az 1. pont második fordulata szerinti díszítés található.
 
-3. Az érdemjel szalagja egyenruhán, a szalagtartó karikán elhelyezett díszítés polgári ruhán a kitüntetés kitűzőváltozataként viselhető. A kitüntetés szalagon, a bal mellen viselendő.
+3.[^46] A polgári ruhán az érdemjelnek az 1. pont második fordulata szerinti díszítése selyemszalag nélküli kitűzőváltozata viselhető.
+
+[^45]: A 3. melléklet 2. pontja az 1/2026. (III. 19.) MK rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^46]: A 3. melléklet 3. pontja az 1/2026. (III. 19.) MK rendelet 7. § (3) bekezdésével megállapított szöveg.

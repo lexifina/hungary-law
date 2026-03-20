@@ -1,5 +1,3 @@
-## A Nemzet Biztonságáért Érem 70 milliméter átmérőjű, kör alakú, vert tombak érem arany, ezüst és bronz kivitelben. Az érem középpontjában jobb oldalra néző, kiterjesztett szárnyú turul áll, csőrében István-kardot, karmai között 4/4 osztású lovagi pajzsot és „A haza minden előtt!” feliratú szalagot tart. Az Érem alsó körívén „A NEMZET BIZTONSÁGÁÉRT” felirat található. Az Érem foglalatául egy 250 × 190 milliméter nagyságú, asztalra állítható és falra akasztható, üveglappal fedett kép szolgál. Az elismerés díszdobozban helyezkedik el.
-
 5. melléklet a 2/2023. (II. 3.) MK rendelethez
 
 A Nemzetbiztonsági Szolgálati Jel kitüntető cím leírása és viselési rendje
@@ -14,4 +12,17 @@ c) 30 év szolgálat után: leírása megfelel az a) pontban leírtakkal, azzal 
 
 d) 40 év szolgálat után: leírása megfelel a c) pontban leírtakkal, azzal a különbséggel, hogy a lapon a 40-es szám található.
 
-2. A Szolgálati Jel kitűzőjét egyenruhán a bal felső zubbonyzseb fölé úgy kell elhelyezni, hogy az alsó széle a zsebtakaró felső varrását érintse. A kitüntetést úgy kell viselni, hogy a zsebtakaró középvonalával egybeessen. A kitűző a köznapi, a szolgálati és a megengedett öltözeten is viselhető a fenti előírás szerint.
+2.[^48] A Szolgálati Jel egyenruhán viselhető változata 40 milliméter szélességű, 10 milliméter magasságú mélyzöld selyemszalag, amelynek
+
+a) 10 év szolgálat után: közepén 1 darab 4 milliméter vastagságú fehér sáv foglal helyet, a selyemszalag közepén a sávon bronz színű tombakból készült, jobb oldalra néző, kiterjesztett szárnyú turul áll, csőrében Szent István-kardot, karmai között 4/4 osztású lovagi pajzsot tart, a turul kiterjesztett szárnyai közötti távolság ~14 milliméter, magassága a pajzzsal együtt ~10 milliméter;
+
+b) 20 év szolgálat után: közepén egymástól 2 milliméter távolságra 2 darab 4 milliméter vastagságú, párhuzamosan futó fehér sáv foglal helyet, a selyemszalag közepén a sávokon ezüst színű tombakból készült, jobb oldalra néző, kiterjesztett szárnyú turul áll, csőrében Szent István-kardot, karmai között 4/4 osztású lovagi pajzsot tart, a turul kiterjesztett szárnyai közötti távolság ~14 milliméter, magassága a pajzzsal együtt ~10 milliméter;
+
+c) 30 év szolgálat után: közepén egymástól 2 milliméter távolságra 3 darab 4 milliméter vastagságú, párhuzamosan futó fehér sáv foglal helyet, a selyemszalag közepén a sávokon aranyszínű tombakból készült, jobb oldalra néző, kiterjesztett szárnyú turul áll, csőrében Szent István-kardot, karmai között 4/4 osztású lovagi pajzsot tart, a turul kiterjesztett szárnyai közötti távolság ~14 milliméter, magassága a pajzzsal együtt ~10 milliméter;
+
+d) 40 év szolgálat után: közepén egymástól 2 milliméter távolságra 4 darab 4 milliméter vastagságú, párhuzamosan futó fehér sáv foglal helyet, a selyemszalag közepén a sávokon aranyszínű tombakból készült, jobb oldalra néző, kiterjesztett szárnyú turul áll, csőrében Szent István-kardot, karmai között 4/4 osztású lovagi pajzsot tart, a turul kiterjesztett szárnyai közötti távolság ~14 milliméter, magassága a pajzzsal együtt ~10 milliméter.
+
+3.[^49] A polgári ruhán a 2. pontban meghatározott tombak érem selyemszalag nélküli kitűzőváltozata viselhető.
+
+[^48]: Az 5. melléklet 2. pontja az 1/2026. (III. 19.) MK rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^49]: Az 5. melléklet 3. pontját az 1/2026. (III. 19.) MK rendelet 7. § (5) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 8. Csapatzászló
 
-9. § (1) A csapatzászló a megadományozott polgári nemzetbiztonsági szolgálatnak a hazához és a nemzethez való, valamint a nemzetbiztonság ügye iránti hűséget kifejező jelkép, amely megtestesíti a személyi állomány elismerését az esküben vállalt kötelezettségek feltétlen teljesítésében, az önfeláldozó szolgálatában és helytállásában. A csapatzászló egyben szimbólum, amely kifejezi az elkötelezettséget és tiszteletet a magyar történelmi hagyományok iránt, valamint a haza biztonsága iránti odaadást, elhivatottságot, a közösség erejét.
+9. § (1)[^21] A csapatzászló a megadományozott polgári nemzetbiztonsági szolgálatnak a hazához és a nemzethez való, valamint a nemzetbiztonság ügye iránti hűséget kifejező jelkép, amely megtestesíti a polgári nemzetbiztonsági szolgálat személyi állománya elismerését az esküben vállalt kötelezettségek feltétlen teljesítésében, az önfeláldozó szolgálatában és helytállásában. A csapatzászló egyben szimbólum, amely kifejezi az elkötelezettséget és tiszteletet a magyar történelmi hagyományok iránt, valamint a haza biztonsága iránti odaadást, elhivatottságot, a közösség erejét.
 
 (2) Csapatzászló adományozható a polgári nemzetbiztonsági szolgálatok részére.
 
@@ -15,3 +15,5 @@
 (7) A csapatzászlót a megadományozott polgári nemzetbiztonsági szolgálat főigazgatója által meghatározott, méltó helyen kell őrizni.
 
 (8) A csapatzászló és tartozékai részletes leírását a 6. melléklet tartalmazza.
+
+[^21]: A 9. § (1) bekezdése az 1/2026. (III. 19.) MK rendelet 8. § e) pontja szerint módosított szöveg.

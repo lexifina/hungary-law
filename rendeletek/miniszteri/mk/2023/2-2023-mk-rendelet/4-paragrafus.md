@@ -2,35 +2,24 @@
 
 ## A POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOKNÁL ADOMÁNYOZHATÓ ELISMERÉSEK
 
-4. § A polgári nemzetbiztonsági szolgálatoknál adományozható egyes elismerések:
+4. §[^9] A polgári nemzetbiztonsági szolgálatoknál adományozható egyes elismerések:
 
-a) miniszteri elismerések:
+a) Nemzet Biztonságáért Díj,
 
-aa) Nemzet Biztonságáért Díj,
+b) Nemzetbiztonság Szolgálatáért Érdemjel,
 
-ab) Nemzetbiztonság Szolgálatáért Érdemjel,
+c) Nemzet Biztonságáért Érem,
 
-ac) Nemzet Biztonságáért Érem,
+d) Nemzetbiztonsági Szolgálati Jel,
 
-ad) Nemzetbiztonsági Szolgálati Jel,
+e) csapatzászló,
 
-ae) miniszteri emléktárgy,
+f) Miniszteri Elismerő Oklevél,
 
-af) Miniszteri Elismerő Oklevél,
+g) Főigazgatói Elismerő Oklevél,
 
-ag) csapatzászló,
+h) miniszteri pénzjutalom,
 
-ah)[^6]
+i) miniszteri emléktárgy.
 
-ai)[^7]
-
-aj) pénzjutalom;
-
-b)[^8]
-
-c)[^9]
-
-[^6]: A 4. § a) pont ah) alpontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
-[^7]: A 4. § a) pont ai) alpontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
-[^8]: A 4. § b) pontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
-[^9]: A 4. § c) pontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
+[^9]: A 4. § az 1/2026. (III. 19.) MK rendelet 2. §-ával megállapított szöveg.
