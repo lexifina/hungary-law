@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-18-20-7
 | 2025-04-04 | 2024-18-20-7R.3 | 5/2025. (IV. 3.) AM rendelet |
 | 2025-05-09 | 2024-18-20-7R.4 | 15/2025. (V. 8.) AM rendelet |
 | 2025-10-28 | 2024-18-20-7R.5 | 44/2025. (X. 27.) AM rendelet |
+| 2026-03-20 | 2024-18-20-7R.6 | 7/2026. (III. 19.) AM rendelet |
