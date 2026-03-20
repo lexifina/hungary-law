@@ -1,0 +1,3 @@
+## 3. A polgári nemzetbiztonsági szolgálatoknál a szolgálati igazolvány, a szolgálati jelvény és a nyugdíjas igazolvány rendszeresítésével, érvényességével és az ellátás rendjével összefüggő szabályokról szóló 8/2025. (IV. 14.) MK rendelet módosítása
+
+14. § A polgári nemzetbiztonsági szolgálatoknál a szolgálati igazolvány, a szolgálati jelvény és a nyugdíjas igazolvány rendszeresítésével, érvényességével és az ellátás rendjével összefüggő szabályokról szóló 8/2025. (IV. 14.) MK rendelet 19. § (4) bekezdés c) pontjában a „2028. január 1-jén” szövegrész helyébe a „2026. április 1-jén” szöveg lép.
