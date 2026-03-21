@@ -14,18 +14,6 @@
 
 ## 1. A Miniszterelnöki Kabinetirodát vezető miniszter által adományozható elismerésekről szóló 2/2023. (II. 3.) MK rendelet módosítása
 
-1. § (1) A Miniszterelnöki Kabinetirodát vezető miniszter által adományozható elismerésekről szóló 2/2023. (II. 3.) MK rendelet (a továbbiakban: Rendelet1) 1. §-a a következő 2a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
-
-## „2a. főigazgató: a polgári nemzetbiztonsági szolgálat főigazgatója,”
-
-(2) A Rendelet1 1. §-a a következő 5. ponttal egészül ki:
-
-(E rendelet alkalmazásában)
-
-## „5. minisztérium személyi állománya: a minisztérium kormányzati szolgálati jogviszonyban és munkaviszonyban foglalkoztatott dolgozója, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományának (a továbbiakban: nemzetbiztonsági állomány) a minisztériumba vezényelt tagja, a minisztérium tulajdonosi joggyakorlásában álló 100%-os állami tulajdonú gazdasági társaság munkavállalója és – a polgári nemzetbiztonsági szolgálatok kivételével – a miniszter irányítása alatt álló központi költségvetési szerv által foglalkoztatottak,”
-
-(3) A Rendelet1 1. §-a a következő 7. ponttal egészül ki:
-
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

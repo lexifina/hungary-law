@@ -1,3 +1,3 @@
-3. § A Rendelet1 III. Fejezete a következő 4/A. §-sal egészül ki:
+3. §[^4]
 
-„4/A. § A polgári nemzetbiztonsági szolgálat személyi állománya tagjának adományozható egyes elismerések viselésének általános szabályait az 1/A. melléklet tartalmazza.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

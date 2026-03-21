@@ -1,7 +1,3 @@
-12. § A Rendelet2
+12. §[^13]
 
-a) 15. § (2) bekezdésében és 17. § (1) bekezdésében a „tábornoki rendfokozatú” szövegrész helyébe a „főigazgató, valamint főigazgató-helyettesi szolgálati beosztást betöltő” szöveg,
-
-b) 17. § (3) bekezdésében a „ballonkabáton és felöltőn” szövegrész helyébe a „kabáton” szöveg
-
-lép.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
