@@ -1,3 +1,3 @@
-60. §[^91]
+60. §[^92]
 
-[^91]: A 60. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § g) pontja hatályon kívül helyezte.
+[^92]: A 60. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § g) pontja hatályon kívül helyezte.

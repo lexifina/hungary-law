@@ -1,4 +1,4 @@
-## 9/A.[^46] A 2014–2020 közötti kohéziós politikai operatív programok előirányzatainak felhasználási szabályai
+## 9/A.[^47] A 2014–2020 közötti kohéziós politikai operatív programok előirányzatainak felhasználási szabályai
 
 21/A. § A 2014–2020 közötti kohéziós politikai operatív programok előirányzatainak célja
 
@@ -8,4 +8,4 @@ b) polgári perben meghozott jogerős bírósági határozatban vagy polgári ne
 
 c) európai uniós forrást nyújtó szerv felé el nem számolt kiadások finanszírozása.
 
-[^46]: A 9/A. alcímet (21/A. §-t) a 455/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^47]: A 9/A. alcímet (21/A. §-t) a 455/2025. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

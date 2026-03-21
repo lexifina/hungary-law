@@ -1,3 +1,3 @@
-19. §[^43]
+19. §[^44]
 
-[^43]: A 19. §-t az 58/2025. (III. 26.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^44]: A 19. §-t az 58/2025. (III. 26.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.

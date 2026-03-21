@@ -1,4 +1,4 @@
-## 7/A.[^39] Az alapok alapját végrehajtó szervezet díjazása előirányzatok felhasználási szabályai
+## 7/A.[^40] Az alapok alapját végrehajtó szervezet díjazása előirányzatok felhasználási szabályai
 
 16/A. § (1) Az alapok alapját végrehajtó szervezet díjazása előirányzatok (ezen alcím alkalmazásában a továbbiakban: előirányzatok) az alapok alapját végrehajtó szervezetnél, valamint a pénzügyi közvetítőknél a 2014–2020 programozási időszakban kihelyezett hitelek kezelésével kapcsolatban felmerülő költségek finanszírozására szolgálnak.
 
@@ -16,4 +16,4 @@ jelenik meg.
 
 (5) Az adott évi kötelezettségvállalási összegnek megfelelő összegű, a (2) bekezdés a) pontja szerinti bevételt az alapok alapját végrehajtó szervezet utalja át az előirányzat-felhasználási keretszámlára.
 
-[^39]: A 7/A. alcímet (16/A. §-t) az 51/2024. (III. 4.) Korm. rendelet 5. §-a iktatta be.
+[^40]: A 7/A. alcímet (16/A. §-t) az 51/2024. (III. 4.) Korm. rendelet 5. §-a iktatta be.
