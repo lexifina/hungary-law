@@ -12,7 +12,7 @@ c) a végrehajtó által a 9. § (2) bekezdése szerinti esetben a fizetés azon
 
 teljesíthető.
 
-(2)[^3] Az (1) bekezdés a) pont ab) alpontja szerinti fizetési mód esetén az átutalási megbízás, illetve a készpénzátutalási megbízás közlemény rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
+(2)[^3] Az átutalási megbízás, illetve a készpénzátutalási megbízás közlemény rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát, havi utólagos fizetésre való jogosultság esetén a számla sorszámát.
 
 (3)[^4] A (11) és (12) bekezdés szerinti díjat – és amennyiben az eljáró hatóság a földmérési és térinformatikai államigazgatási szerv a (6), (7), (9), valamint a (13) bekezdés szerinti díjat – a 3. melléklet szerinti számlaszámra kell befizetni. Átutalási megbízás esetén a megjegyzés rovatban fel kell tüntetni az ügyazonosítót vagy az iktatószámot.
 
@@ -63,7 +63,7 @@ c) a (3) bekezdés szerinti díjról szóló könyvelési bizonylat vagy számla
 látja el.
 
 [^2]: A 2. § (1) bekezdése a 6/2025. (VIII. 5.) KTM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 6/2025. (VIII. 5.) KTM rendelet 6. § b) pontjával megállapított, a 6/2025. (VIII. 5.) KTM rendelet 6. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 2/2026. (II. 19.) KTM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § (3) bekezdése a 6/2025. (VIII. 5.) KTM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3a) bekezdését a 6/2025. (VIII. 5.) KTM rendelet 1. § (2) bekezdése iktatta be.
 [^6]: A 2. § (4) bekezdése a 6/2024. (VI. 28.) KTM rendelet 1. § (2) bekezdésével megállapított szöveg.

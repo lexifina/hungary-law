@@ -1,4 +1,4 @@
-1. melléklet az 1/2024. (I. 30.) KTM rendelethez[^49]
+1. melléklet az 1/2024. (I. 30.) KTM rendelethez[^59]
 
 Igazgatási szolgáltatási díjak
 
@@ -12,9 +12,9 @@ Igazgatási szolgáltatási díjak
 
 | 3. | Egyéb vízszintes és magassági alappontok adatai | 12. | pont | 1 000 |
 
-Megjegyzések:
+## Megjegyzések:
 
-A B:2 mező és a B:3 mező szerinti tételszám szerinti adatszolgáltatás esetén a természetben elpusztult és ezért fel nem használható alappont helyett igényelt azonos mennyiségű alappont adatait díjmentesen kell szolgáltatni.
+## A B:2 mező és a B:3 mező szerinti tételszám szerinti adatszolgáltatás esetén a természetben elpusztult és ezért fel nem használható alappont helyett igényelt azonos mennyiségű alappont adatait díjmentesen kell szolgáltatni.
 
 2. Másolat térképszelvényről
 
@@ -32,7 +32,7 @@ A B:2 mező és a B:3 mező szerinti tételszám szerinti adatszolgáltatás ese
 
 | 6. | EOTR szelvényezésű állami vektoros topográfiai és levezetett topográfiai térkép 1:10 000, 1:25 000, 1:100 000, 1:200 000 méretarányban | 25. | szelvény | – | 77 000 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Az 1:10 000 méretarányú, talajtérképezés megalapozásához szükséges térképészeti alapadatok adatszolgáltatási díja egységesen 800 forint/szelvény (1:10 000 méretarányú átnézeti térkép vagy földmérési topográfiai térkép tisztázati alapanyaga).
 
@@ -58,7 +58,7 @@ c) Az adatszolgáltatás papír alapon vagy digitális formában történik.
 
 | 7. | Vázrajzok, alaprajzok és egyéb munkarészek | 36. | A/4 lap | 320 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A 35. tételszám esetében a magasságot is ábrázoló térképekről készített másolat díjtételét 20%-kal növelni kell.
 
@@ -86,7 +86,7 @@ b) Az adatszolgáltatás papír alapon, digitális adathordozóra vagy elektroni
 
 | 9. |  | 42–3. | 50 ha felett – 100 ha-ig | 14 500 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Az összevont díjtételek szükség esetén a földminősítési térkép és az alappontok adatainak szolgáltatását is magukba foglalják.
 
@@ -106,7 +106,7 @@ d) Jog vagy tény ingatlan-nyilvántartási bejegyzéséhez, továbbá a termés
 
 | 3. | Mérőkamerával készített színes vagy speciális légi fénykép | 52. | db | 11 500 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Állami alapmunka végzés kivételével légi felvételről csak másolat adható ki.
 
@@ -130,7 +130,7 @@ b) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltat
 
 | 7. | Az adott területről elérhető nem a legfrissebb, de az adatszolgáltatást megelőző 10. éven belül készült, tiff formátumú, színes, terepi felbontású ortofotó, és az adatszolgáltatás legalább 10 000 km2 területről történik | 66. | km2 | 2 600 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A 63–66. sorokban szereplőktől eltérő műszaki paraméterekkel rendelkező vagy eltérő fájlformátumban szolgáltatandó, az adatbázisban szereplő adatok nem szolgáltathatóak állami alapadatként.
 
@@ -154,7 +154,7 @@ b) 0,4 m/px-nél nagyobb terepi felbontású állami alapadat ortofotók igazgat
 
 | 7. | Egyéb részletpontok koordinátái és a geokód | 74. | pont | 50 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Az ingatlan-nyilvántartás adataiban történő változást eredményező, földmérési munkák végzéséhez szükséges adatok díját a 4. táblázat alapján kell megállapítani.
 
@@ -200,7 +200,7 @@ c) A 72. tételszám szerint szolgáltatott transzformációs együtthatót az a
 
 | 17. | Ingatlan-nyilvántartási térkép külterület | 82–8. | 35 000 ha felett | 65 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Váztérkép (ami attribútumként kizárólag birtokhatárpontokat és -vonalakat, továbbá helyrajzi szám feliratot tartalmaz) szolgáltatása esetén a táblázatban szereplő díjak 80%-át kell megfizetni.
 
@@ -208,7 +208,7 @@ b) A 81–1. és 82–1. sorok esetében a területet m2 alapon kell meghatároz
 
 c) Amennyiben az adatszolgáltatás nem online szakrendszeren keresztül történik, úgy az adatszolgáltatási díj kiegészül a szolgáltatás munkadíjával, mely a 81–1.–81–4. és 82–1. sorok esetében 15%-a, míg a 81–5.–81–8. és 82–2.–82–8. sorok esetén 5%-a az adatdíjnak.
 
-d) [^50] A földmérési és térinformatikai államigazgatási szervtől 3 éven belül megvásárolt teljes adatállomány időközi változásokat tartalmazó frissítése esetén a teljes adatállomány kerül átadásra. Az egyszeri adatfrissítés díja negyedévenként a teljes területre vonatkozó adatdíj 2%-a. A c) alpont szerinti munkadíj egy éven belüli frissítés esetén kerül felszámításra, melynek alapja az adatfrissítés adatdíja.
+d) [^60] A földmérési és térinformatikai államigazgatási szervtől 3 éven belül megvásárolt teljes adatállomány időközi változásokat tartalmazó frissítése esetén a teljes adatállomány kerül átadásra. Az egyszeri adatfrissítés díja negyedévenként a teljes területre vonatkozó adatdíj 2%-a. A c) alpont szerinti munkadíj egy éven belüli frissítés esetén kerül felszámításra, melynek alapja az adatfrissítés adatdíja.
 
 9. Adatfelhasználási díj a nyilvántartási, térinformatikai és tervezési rendszerek állami alapadat tartalmáért
 
@@ -234,7 +234,7 @@ d) [^50] A földmérési és térinformatikai államigazgatási szervtől 3 éve
 
 | 10. |  | 92–4. | 24 001 km2 fölött | 16 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A táblázat díjtételeit sávosan kell alkalmazni.
 
@@ -266,7 +266,7 @@ c) Nyilvántartási, térinformatikai vagy tervezési rendszerben történő fel
 
 | 10. | 1:400 000–1:500 000 | 10–9. | Természetbeni 1 km2 | 2 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A másolatok sokszorosítását az 1:10 000 méretarányú állami topográfiai térképszelvény felhasználása esetén a térképészetért felelős miniszter engedélyezi. Az adatfelhasználás módjáról és feltételeiről a földmérési és térinformatikai államigazgatási szervvel szerződést kell kötni.
 
@@ -278,5 +278,5 @@ d) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 e) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^49]: Az 1. melléklet a 6/2024. (VI. 28.) KTM rendelet 16. §-ával megállapított szöveg.
-[^50]: Az 1. melléklet 8. pont d) alpontja a 6/2025. (VIII. 5.) KTM rendelet 5. §-ával megállapított szöveg.
+[^59]: Az 1. melléklet a 6/2024. (VI. 28.) KTM rendelet 16. §-ával megállapított szöveg.
+[^60]: Az 1. melléklet 8. pont d) alpontja a 6/2025. (VIII. 5.) KTM rendelet 5. §-ával megállapított szöveg.

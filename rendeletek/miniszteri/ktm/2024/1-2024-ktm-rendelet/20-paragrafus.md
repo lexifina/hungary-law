@@ -1,4 +1,4 @@
-## 6.[^36] Az ingatlan-nyilvántartás tartalmából történő adatszolgáltatások díjai
+## 6.[^43] Az ingatlan-nyilvántartás tartalmából történő adatszolgáltatások díjai
 
 20. § (1) A tulajdoni lapról kiállított papíralapú hiteles másolatért 10 000 forint összegű díjat kell fizetni.
 
@@ -8,6 +8,7 @@
 
 (4) Az Inytv. 86. § (1) bekezdés a) és b) pontja szerinti eljárásért 4800 forint összegű díjat kell fizetni.
 
-(5) A tulajdoni lap tartalmában történő változásokról szóló értesítés – változásfigyelő szolgáltatás – igazgatási szolgáltatási díja ingatlanonként 4000 forint évente.
+(5)[^44] A tulajdoni lap tartalmában történő változásokról szóló értesítés beállításának éves igazgatási szolgáltatási díja ingatlanonként 4000 forint évente.
 
-[^36]: A 6. alcím (20–21. §) a 6/2025. (VIII. 5.) KTM rendelet 4. §-ával megállapított szöveg.
+[^43]: A 6. alcím (20–21. §) a 6/2025. (VIII. 5.) KTM rendelet 4. §-ával megállapított szöveg.
+[^44]: A 20. § (5) bekezdése a 2/2026. (II. 19.) KTM rendelet 6. § h) pontja szerint módosított szöveg.

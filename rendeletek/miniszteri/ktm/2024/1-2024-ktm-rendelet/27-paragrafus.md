@@ -1,3 +1,3 @@
-27. §[^45]
+27. §[^55]
 
-[^45]: A 27. § a 6/2024. (VI. 28.) KTM rendelet 18. §-a alapján nem lép hatályba.
+[^55]: A 27. § a 6/2024. (VI. 28.) KTM rendelet 18. §-a alapján nem lép hatályba.
