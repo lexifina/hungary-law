@@ -12,7 +12,7 @@
 
 5. ellenőrzés: az e rendelet hatálya alá tartozó villamos berendezés állapotának megfelelőségének vizsgálatára irányuló tevékenység a berendezésre vonatkozó jogszabályok és a villamos biztonsági szempontból követelményeket tartalmazó szabványok részletezése szerint;
 
-6. épület: e rendelet alkalmazásában az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 10. pontjában meghatározott építmény;
+6.[^4] épület: a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 42. pontja szerinti fogalom;
 
 7. felhasználási hely: a Vet. 3. § 16. pontja szerinti fogalom;
 
@@ -38,13 +38,13 @@ d) olyan összekötő berendezések, amelyek az a)–c) pontok szerinti villamos
 
 14. kezelési utasítás: az üzemeltető által az üzemi személyzet részére a villamos berendezéssel kapcsolatosan kiadott utasítás;
 
-15. kommunális épület: közvetlenül a közcélú elosztóhálózatra csatlakozó villamos berendezéseket tartalmazó, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 9. pontja szerinti közhasználatú építmény;
+15.[^5] kommunális épület: a Méptv. 16. § 72. pontja szerinti fogalom;
 
 16. közeli felülvizsgálat: a robbanásveszélyes környezetben üzemelő berendezések esetén végzett olyan villamos biztonsági felülvizsgálat, amelynek módszere magában foglalja a szemrevételezés szempontjait, továbbá amely felfedi az olyan hibákat is, amelyek csak a hozzáférést elősegítő eszközök használatával észlelhetők;
 
 17. közvetlen vezeték: a Vet. 3. § 38. pontja szerinti fogalom;
 
-18. lakóépület: közvetlenül a közcélú elosztóhálózatra csatlakozó és alaprendeltetése szerint lakhatás, üdülés célját szolgáló építmény vagy lakóközösségbe szervezett, több lakásból álló egység és a hozzá tartozó, alaprendeltetéstől eltérő célra szolgáló helyiségek összessége, továbbá az előbbiek elhelyezésére szolgáló építmény vagy alkalmas telek;
+18.[^6] lakóépület: a Méptv. 16. § 76. pontja szerinti fogalom;
 
 19. magánvezeték: a Vet. 3. § 44. pontja szerinti fogalom;
 
@@ -66,7 +66,7 @@ d) olyan összekötő berendezések, amelyek az a)–c) pontok szerinti villamos
 
 28. üzemeltetési útmutató: a tervező vagy kivitelező által a villamos üzemi szabályzat kidolgozásának céljára készített műszaki összeállítás arról, hogy a tervek szerinti berendezés biztonságos kezeléséhez milyen szakképzettség, kioktatottság szükséges, továbbá milyen – a megkövetelt szakismereteken túlmenő – helyi követelményeknek kell megfelelni;
 
-29.[^4] üzemeltető: a villamos berendezés üzemeltetője, az a természetes személy vagy gazdálkodó szervezet, aki vagy amely a villamos berendezéssel rendelkezni jogosult, vagy akit a villamos berendezéssel rendelkezni jogosult annak üzemeltetésére feljogosított;
+29.[^7] üzemeltető: a villamos berendezés üzemeltetője, az a természetes személy vagy gazdálkodó szervezet, aki vagy amely a villamos berendezéssel rendelkezni jogosult, vagy akit a villamos berendezéssel rendelkezni jogosult annak üzemeltetésére feljogosított;
 
 30. üzemviteli megállapodás: két, egymással műszakilag összekapcsolható villamos hálózat különböző üzemeltetőjének egymás közti megállapodása arról, hogy saját üzemeltetésű hálózatukon hogyan és milyen feltételekkel végezhetnek olyan tevékenységet, amely a másik hálózat üzemvitelére is kihat, továbbá hogyan igényelhetik azt, hogy a kapcsolódó hálózaton a saját hálózatukra kiható tevékenységet végezzenek;
 
@@ -81,4 +81,7 @@ d) olyan összekötő berendezések, amelyek az a)–c) pontok szerinti villamos
 35. villamos üzemi szabályzat: az általános, nem egy adott berendezés egyedi körülményeire kidolgozott, magatartási és kezelési szabályok gyűjteménye.
 
 [^3]: A 2. § a 27/2020. (VII. 16.) ITM rendelet 25. §-ával megállapított szöveg.
-[^4]: A 2. § 29. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 6. pontja a 9/2026. (II. 19.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 15. pontja a 9/2026. (II. 19.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 18. pontja a 9/2026. (II. 19.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § 29. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 4. [^5] A szakági műszaki szakbizottság működése és feladatai
+## 4. [^8] A szakági műszaki szakbizottság működése és feladatai
 
 4. § (1) Az e rendelet hatálya alá tartozó villamos berendezések és védelmi rendszerek létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
 
@@ -24,4 +24,4 @@ f) a szakterületen működő egyéb, a miniszter által felkért civil szerveze
 
 (6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.
 
-[^5]: A 4. alcím (4. §) a 27/2020. (VII. 16.) ITM rendelet 26. §-ával megállapított szöveg.
+[^8]: A 4. alcím (4. §) a 27/2020. (VII. 16.) ITM rendelet 26. §-ával megállapított szöveg.
