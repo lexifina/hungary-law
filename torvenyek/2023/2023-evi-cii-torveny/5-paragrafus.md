@@ -40,6 +40,6 @@
 
 19. területi szereplő: a területfejlesztés intézményrendszerének az országos szint alatt elhelyezkedő résztvevője, amely az egyes térségek területfejlesztési feladatainak ellátásában, a tervezési, programozási, vagy végrehajtási folyamatokban döntési, javaslattevő vagy konzultációs jogkörrel vesz részt;
 
-20. területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv;
+20. területi terv: a területfejlesztési koncepció, a nagytérségi területfejlesztési stratégia, a területfejlesztési program és a területrendezési terv;
 
 21. területpolitika: az ország és az egyes térségek területi fejlődése fő irányainak, stratégiai fejlesztési céljainak és az ezek elérését segítő legfontosabb eszközöknek hosszú időtávra szóló meghatározása és érvényesítése, amelynek alapdokumentuma az Országgyűlés által elfogadott Országos Fejlesztési és Területfejlesztési Koncepció (a továbbiakban: OFTK).

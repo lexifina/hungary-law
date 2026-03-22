@@ -6,9 +6,11 @@ b) a Tokaj Borvidéken a Tokaj Borvidék Fejlesztési Tanács;
 
 c) a Közép-Duna Menti Kiemelt Térségben a Közép-Duna Menti Fejlesztési Tanács;
 
-d) a Budapesti Agglomerációban a Budapesti Agglomeráció Fejlesztési Tanács.
+d) a Budapesti Agglomerációban a Budapesti Agglomeráció Fejlesztési Tanács;
 
-e) a Tisza-tó Kiemelt Térségben a Tisza-tó Fejlesztési Tanács.
+e) a Tisza-tó Kiemelt Térségben a Tisza-tó Fejlesztési Tanács;
+
+f) a Szigetköz Kiemelt Térségben a Szigetköz Fejlesztési Tanács.
 
 (2) A Balaton Fejlesztési Tanács tagjai:
 
@@ -124,7 +126,23 @@ j) a közlekedésért felelős miniszter képviselője;
 
 k) a társadalmi felzárkózásért felelős miniszter képviselője.
 
-(6)
+(6) A Szigetköz Fejlesztési Tanács tagjai:
+
+a) a 12. § (1) bekezdése szerinti tagok;
+
+b) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés további két delegáltja;
+
+c) az európai uniós források felhasználásáért felelős miniszter képviselője;
+
+d) az aktív Magyarországért felelős miniszter képviselője;
+
+e) az állami beruházásokért felelős miniszter képviselője;
+
+f) a vízgazdálkodásért felelős miniszter képviselője;
+
+g) a vidékfejlesztésért felelős miniszter képviselője;
+
+h) a természetvédelemért felelős miniszter képviselője.
 
 (7) A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
 
