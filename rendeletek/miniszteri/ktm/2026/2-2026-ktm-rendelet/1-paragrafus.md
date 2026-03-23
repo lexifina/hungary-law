@@ -6,6 +6,6 @@
 
 ## 1. Az önálló ingatlanok helyrajziszámozásáról és az alrészletek megjelöléséről szóló 44/2006. (VI. 13.) FVM rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

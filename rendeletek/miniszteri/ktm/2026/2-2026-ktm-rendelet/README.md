@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-2-20-9D
 | 2026-02-22 | 2026-2-20-9D.1 | 2/2026. (II. 19.) KTM rendelet |
 | 2026-02-23 | 2026-2-20-9D.2 | 2010. évi CXXX. törvény |
 | 2026-03-22 | 2026-2-20-9D.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-03-23 | 2026-2-20-9D.4 | 2010. évi CXXX. törvény |
