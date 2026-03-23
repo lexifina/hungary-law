@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-9-20-2X
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-03-22 | 2026-9-20-2X.1 | 9/2026. (II. 19.) NGM rendelet |
+| 2026-03-23 | 2026-9-20-2X.2 | 2010. évi CXXX. törvény |
