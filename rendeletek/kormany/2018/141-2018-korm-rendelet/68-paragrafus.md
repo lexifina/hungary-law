@@ -1,4 +1,4 @@
-## 67. §[^396] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 466/2021. (VIII. 5.) Korm. rendelettel (a továbbiakban: Módr59.) megállapított 2. mellékletében foglalt táblázat 72. sorát a Módr59. hatálybalépésekor[^397] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 67. §[^400] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 466/2021. (VIII. 5.) Korm. rendelettel (a továbbiakban: Módr59.) megállapított 2. mellékletében foglalt táblázat 72. sorát a Módr59. hatálybalépésekor[^401] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^396]: A 67. §-t a 466/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
-[^397]: A hatálybalépés időpontja 2021. augusztus 6.
+[^400]: A 67. §-t a 466/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^401]: A hatálybalépés időpontja 2021. augusztus 6.

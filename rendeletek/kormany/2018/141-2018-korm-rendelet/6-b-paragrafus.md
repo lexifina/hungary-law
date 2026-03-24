@@ -1,8 +1,8 @@
-6/B. §[^193] (1) A 2. mellékletben foglalt táblázat B:25 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
+6/B. §[^197] (1) A 2. mellékletben foglalt táblázat B:25 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
-a)[^194] a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^198] a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b)[^195] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^199] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:25 mezőjében megjelölt telken megvalósuló beruházás esetében a kerületi építési szabályzatnak az udvarméretre vonatkozó előírásait a következő eltérésekkel kell alkalmazni:
 
@@ -22,6 +22,6 @@ c) az egymással szemközti épületszárnyak legmagasabb pontjainak átlaga
 
 (a továbbiakban: ÉLP ÁTLAGOS) vehető figyelembe akkor, ha a szomszédos épületek eltérő magasságban csatlakozó gerincmagasságát és a telekre vonatkozó ÉLP értékét a nem utcai szárnyak legmagasabb pontjai nem haladják meg, és a két szemközti szárny legmagasabb pontjainak átlaga nem haladja meg a csökkentett udvarméret 2,2-szeresét (ÉLP ÁTLAGOS = 1,5 × UM CSÖKKENTETT).
 
-[^193]: A 6/B. §-t a 253/2019. (X. 24.) Korm. rendelet 1. §-a iktatta be.
-[^194]: A 6/B. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
-[^195]: A 6/B. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.
+[^197]: A 6/B. §-t a 253/2019. (X. 24.) Korm. rendelet 1. §-a iktatta be.
+[^198]: A 6/B. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
+[^199]: A 6/B. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.
