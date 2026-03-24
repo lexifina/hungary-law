@@ -1,5 +1,5 @@
 ## 6. A jogi segítségnyújtás keretében igénybe vehető támogatások iránti kérelem tartalmára és a támogatások igénybevételére vonatkozó részletes szabályokról szóló 28/2017. (XII. 27.) IM rendelet módosítása
 
-10. §[^9]
+10. §[^7]
 
-[^9]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
