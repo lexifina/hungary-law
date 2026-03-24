@@ -1,6 +1,6 @@
 ## 65. § Gazdasági ügyben az 60. §-ban foglaltakat megfelelően alkalmazni kell.
 
-## VII/A. Fejezet[^170]
+## VII/A. Fejezet[^167]
 
 ## A TERMÉSZETES SZEMÉLYEK BÍRÓSÁGI ADÓSSÁGRENDEZÉSÉNEK ÜGYVITELE
 
@@ -40,7 +40,7 @@ o) felülvizsgálati ügy.
 
 (3) A bíróság a bírósági adósságrendezési eljárást az OBH elnöke által rendszeresített nyomtatványon rendeli el, amely tartalmazza a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.) 35. § (2) bekezdésében felsoroltakat, valamint a bírósági adósságrendezés elrendelésének joghatásaira történő figyelemfelhívást. A végzésben a bíróság felhívja a családi vagyonfelügyelőt a hitelezők bevonására az Are. tv. 39. § (1) bekezdés szerinti hirdetmény soron kívül, a Családi Csődvédelmi Szolgálat honlapján történő közzétételével és ezzel egyidejűleg az ismert hitelezők részére történő követlen megküldésével.
 
-(4)[^171] Az OBH a központi honlapon közzéteszi a (2) bekezdés szerinti eljárásokban a felek és a bíróság által kötelezően alkalmazandó, a központi honlapról letölthető, kézzel vagy számítógéppel kitölthető űrlapokat, nyomtatványokat, és tájékoztatást ad azok kitöltésének módjáról.
+(4)[^168] Az OBH a központi honlapon közzéteszi a (2) bekezdés szerinti eljárásokban a felek és a bíróság által kötelezően alkalmazandó, a központi honlapról letölthető, kézzel vagy számítógéppel kitölthető űrlapokat, nyomtatványokat, és tájékoztatást ad azok kitöltésének módjáról.
 
-[^170]: A VII/A. fejezetet (65/A. §) a 18/2015. (VIII. 28.) IM rendelet 1. §-a iktatta be.
-[^171]: A 65/A. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § g) pontja szerint módosított szöveg.
+[^167]: A VII/A. fejezetet (65/A. §) a 18/2015. (VIII. 28.) IM rendelet 1. §-a iktatta be.
+[^168]: A 65/A. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § g) pontja szerint módosított szöveg.

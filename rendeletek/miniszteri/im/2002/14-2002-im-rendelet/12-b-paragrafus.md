@@ -1,12 +1,3 @@
-12/B. §[^35] (1)[^36] A kérelmező a BETFR-en keresztül – a BETFR erre szolgáló felületén – figyelmeztetést, illetve betekintési jogosultságot kérhet. A kérelmező olyan ügyben kérhet figyelmeztetést, illetve betekintési jogosultságot, melyre az OBH által kiadott ügyfél-tájékoztató alapján jogosult. Az OBH az ügyfél-tájékoztatót a bíróságok központi internetes honlapján (a továbbiakban: központi honlap) közzéteszi. Az adott ügyben már regisztrált kérelmező a BETFR-t további ellenőrzés nélkül használhatja.
+12/B. §[^32]
 
-(2) A kérelmező egy regisztrációval egy ügyben veheti igénybe a BETFR-t.
-
-(3) A kérelmezőnek a regisztrációval érintett ügyben benyújtott kérelmében elegendő a 12/A. § (4) bekezdésében megjelölt adatok korábban történt megadásának tényére utalnia, ha az ügy elbírálására illetékes bíróságon egy másik ügyhöz kapcsolódóan BETFR regisztrációval már rendelkezik.
-
-(4) Ha a kérelem szabályszerű, a kérelmező erről értesítést kap. Az értesítést követően a kérelmező jogosult a kért tájékoztatásra, illetve betekinthet az ügy 12/C. § (1) bekezdésében meghatározott, BETFR által biztosított lajstromadataiba.
-
-(5) Ha a kérelmezőt a megadott adatok alapján nem lehet azonosítani, az elutasításról rövid üzenetet kap az ügyfélkapuján keresztül. A tájékoztatásnak tartalmaznia kell az arra való utalást, hogy csak az ügyben érintett jogosult a BETFR használatára.
-
-[^35]: A 12/B. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
-[^36]: A 12/B. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § a) pontja, a 17/2018. (VI. 27.) IM rendelet 5. § 10. pontja szerint módosított szöveg.
+[^32]: A 12/B. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be, a 2/2026. (I. 22.) IM rendelet 7. § a) pontja hatályon kívül helyezte.

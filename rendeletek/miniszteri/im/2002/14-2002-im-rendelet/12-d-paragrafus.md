@@ -1,5 +1,3 @@
-12/D. §[^38] (1) A jogosultság megszűnése esetén ezt a tényt a bíróság lajstromirodája rögzíti. Ezt követően a BETFR a betekintést már nem engedélyezi, illetve a kérelmező értesítést nem kap.
+12/D. §[^34]
 
-(2) A kérelmező a belépési felületen is jelezheti, ha a jogosultsága megszűnt, illetve ha további értesítést nem kér.
-
-[^38]: A 12/D. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
+[^34]: A 12/D. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be, a 2/2026. (I. 22.) IM rendelet 7. § a) pontja hatályon kívül helyezte.
