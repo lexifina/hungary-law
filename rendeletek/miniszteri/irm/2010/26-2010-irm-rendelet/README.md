@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-26-20-1
 | 2018-01-01 | 2010-26-20-1U.5 | 20/2017. (XII. 21.) IM rendelet |
 | 2020-01-01 | 2010-26-20-1U.6 | 30/2019. (XII. 20.) IM rendelet |
 | 2025-01-30 | 2010-26-20-1U.7 | 39/2024. (XII. 30.) IM rendelet |
+| 2026-03-24 | 2010-26-20-1U.8 | 2/2026. (I. 22.) IM rendelet |
