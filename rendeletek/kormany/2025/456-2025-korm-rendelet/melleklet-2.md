@@ -10,6 +10,9 @@ A nemzeti listán szereplő csoport, csoportosulás, illetve szervezet esetében
 
 | 3 | Hammerbande / Antifa Ost | az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény 16/B. § (5) bekezdés a)–c) pontjában meghatározott korlátozó intézkedések | a nemzeti listán való szereplés tartama alatt |
 
-| 4[^6] | Vulkán Csoport / Vulkangruppe | az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény 16/B. § (5) bekezdés a)–c) pontjában meghatározott korlátozó intézkedések | a nemzeti listán való szereplés tartama alatt |
+| 4[^7] | Vulkán Csoport / Vulkangruppe | az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény 16/B. § (5) bekezdés a)–c) pontjában meghatározott korlátozó intézkedések | a nemzeti listán való szereplés tartama alatt |
 
-[^6]: A 2. mellékletben foglalt táblázat 4. sorát a 4/2026. (I. 19.) Korm. rendelet 2. §-a iktatta be.
+| 5[^8] | Earthquake Faction / Földrengés Frakció | az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény 16/B. § (5) bekezdés a)–c) pontjában meghatározott korlátozó intézkedések | a nemzeti listán való szereplés tartama alatt |
+
+[^7]: A 2. mellékletben foglalt táblázat 4. sorát a 4/2026. (I. 19.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 2. mellékletben foglalt táblázat 5. sorát a 70/2026. (III. 23.) Korm. rendelet 2. §-a iktatta be.
