@@ -1,5 +1,3 @@
-7. § Hatályát veszti a bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet
+7. §[^8]
 
-a) „A Bírósági Elektronikus Tájékoztatási és Figyelmeztetési Rendszer” alcíme,
-
-b) 90. §-a.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
