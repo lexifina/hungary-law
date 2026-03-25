@@ -1,4 +1,4 @@
-## 50. §[^366] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 12/2021. (I. 20.) Korm. rendelettel (a továbbiakban: Módr42.) megállapított 2. mellékletben foglalt táblázat 59. sorát a Módr42. hatálybalépésekor[^367] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 50. §[^367] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 12/2021. (I. 20.) Korm. rendelettel (a továbbiakban: Módr42.) megállapított 2. mellékletben foglalt táblázat 59. sorát a Módr42. hatálybalépésekor[^368] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^366]: Az 50. §-t a 12/2021. (I. 20.) Korm. rendelet 1. §-a iktatta be.
-[^367]: A hatálybalépés időpontja 2021. január 21.
+[^367]: Az 50. §-t a 12/2021. (I. 20.) Korm. rendelet 1. §-a iktatta be.
+[^368]: A hatálybalépés időpontja 2021. január 21.

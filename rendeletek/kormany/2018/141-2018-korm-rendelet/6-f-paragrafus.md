@@ -1,8 +1,8 @@
-6/F. §[^205] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/F. §[^206] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
-a)[^206] a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^207] a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^207] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés és az egyedi építési követelmények (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^208] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés és az egyedi építési követelmények (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkeken a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai, kutatás-fejlesztési célú építmények, irodaépületek és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -22,13 +22,13 @@ f) az építési hely az érintett ingatlanok teljes területe.
 
 (4) A parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt,
 
-a)[^208] az OTÉK. 4. számú melléklete, illetve a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 30%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése, illetve a TÉKA 59. § (4) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, és
+a)[^209] az OTÉK. 4. számú melléklete, illetve a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 30%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése, illetve a TÉKA 59. § (4) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, és
 
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkeken a beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, a telekhatárokon is csatlakozhatnak egymáshoz.
 
-[^205]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
-[^206]: [A 6/F. § (1) bekezdés a) pontjában a 178/2025. (VI. 30.) Korm. rendelet 7. § 43. pontja által elrendelt módosítás, amely szerint az „az OTÉK” szövegrész helyébe az „az OTÉK, illetve a TÉKA” szöveg lép, nem vezethető át.]
-[^207]: A 6/F. § (1) bekezdés f) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § b) pontja, a 178/2025. (VI. 30.) Korm. rendelet 7. § 44. pontja szerint módosított szöveg.
-[^208]: A 6/F. § (4) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 45. pontja szerint módosított szöveg.
+[^206]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
+[^207]: [A 6/F. § (1) bekezdés a) pontjában a 178/2025. (VI. 30.) Korm. rendelet 7. § 43. pontja által elrendelt módosítás, amely szerint az „az OTÉK” szövegrész helyébe az „az OTÉK, illetve a TÉKA” szöveg lép, nem vezethető át.]
+[^208]: A 6/F. § (1) bekezdés f) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § b) pontja, a 178/2025. (VI. 30.) Korm. rendelet 7. § 44. pontja szerint módosított szöveg.
+[^209]: A 6/F. § (4) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 45. pontja szerint módosított szöveg.
