@@ -1,1 +1,3 @@
-4. § Az R. 3. § (4) bekezdésében a „49.,” szövegrész helyébe a „21., 49.,” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
