@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény 17. § (1a) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A terrorizmus elleni nemzeti listáról, valamint az azon szereplőkkel szemben alkalmazandó korlátozó intézkedésekről és ezek hatályáról szóló 456/2025. (XII. 29.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
