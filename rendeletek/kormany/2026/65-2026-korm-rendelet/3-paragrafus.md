@@ -1,5 +1,3 @@
-3. § (1) Az R. 2. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) Az R. 13. melléklete helyébe a 2. melléklet lép.
-
-(3) Az R. 16. melléklete helyébe a 3. melléklet lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
