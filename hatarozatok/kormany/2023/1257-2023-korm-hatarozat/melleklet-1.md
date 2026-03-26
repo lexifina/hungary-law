@@ -128,16 +128,30 @@
 
 ## t) [^1] egyetért azzal, hogy a d) alpont kapcsán szükséges további központi költségvetési többletforrást az építési és közlekedési miniszter biztosítja.
 
-## 2.[^2]
+## u) [^2] felhívja az építési és közlekedési minisztert, hogy – Várpalota Város Önkormányzatával kötendő támogatási jogviszony útján – gondoskodjon a Várpalota, Szent István út – Sörház utca – Tési út (8213. jelű út) által határolt területen komplex csomópont fejlesztésének teljes körű előkészítéséről;
 
-## 3.[^3]
+| Felelős: | építési és közlekedési miniszter |
 
-## 4.[^4]
+| Határidő: | a v) pont szerinti forrás rendelkezésre állását követően azonnal |
 
-1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz[^5]
+## v) [^3] felhívja a nemzetgazdasági minisztert, hogy az u) alpontban foglaltak végrehajtása érdekében gondoskodjon a 2026. évben legfeljebb 127 000 000 forint biztosításáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 3. Ipari parki és térségi infrastruktúra fejlesztési feladatok jogcímcsoport javára.
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | azonnal |
+
+## 2.[^4]
+
+## 3.[^5]
+
+## 4.[^6]
+
+1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz[^7]
 
 [^1]: Az 1. pont t) alpontját az 1291/2024. (IX. 19.) Korm. határozat 119. pontja iktatta be.
-[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont u) alpontját az 1110/2026. (III. 26.) Korm. határozat 2. pontja iktatta be.
+[^3]: Az 1. pont v) alpontját az 1110/2026. (III. 26.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
