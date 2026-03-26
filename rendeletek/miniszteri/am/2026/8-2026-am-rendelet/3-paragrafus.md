@@ -1,0 +1,1 @@
+3. § A védetté nyilvánítás és a Balaton-felvidéki Nemzeti Park bővítésének célja a Nagyberek hajdani vízi világának, táji és természeti értékeinek gazdagságát őrző tájrészleteknek a Balaton-felvidéki Nemzeti Park részeként való megóvása, fenntartása és helyreállítása.
