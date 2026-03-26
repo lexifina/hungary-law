@@ -1,3 +1,3 @@
-2. § Az R. a következő 181. §-sal egészül ki:
+2. §[^3]
 
-„181. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 66/2026. (III. 23.) Korm. rendelettel (a továbbiakban: Módr173.) megállapított 4/S. §-át, illetve 2. mellékletében foglalt táblázat 150. sorát a Módr173. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
