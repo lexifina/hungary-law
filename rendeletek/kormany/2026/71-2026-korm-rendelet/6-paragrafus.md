@@ -1,0 +1,1 @@
+6. § Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a 2. és 3. § szerinti kötelezés, a készletek létrehozásának, fenntartásának és megszüntetésének részletszabályait rendeletben állapítsa meg.
