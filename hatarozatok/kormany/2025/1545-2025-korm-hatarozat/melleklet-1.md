@@ -1,8 +1,8 @@
-## 1. felhívja az építési és közlekedési minisztert, hogy az 1. melléklet szerinti közútfelújítási feladatokat – a MÁV Személyszállítási Zártkörűen Működő Részvénytársaság és a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével – végrehajtsa;
+## 1.[^1] felhívja az építési és közlekedési minisztert, hogy az 1. melléklet szerinti közútfelújítási feladatokat – a MÁV Személyszállítási Zártkörűen Működő Részvénytársaság és a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével – végrehajtsa;
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | 2026. április 30. |
+| Határidő: | 2027. december 31. |
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az 1. pontban meghatározott feladatellátás érdekében a 2026. évben legfeljebb 51 405 000 000 forint központi költségvetési forrás biztosításáról;
 
@@ -137,3 +137,5 @@
 | 59. | 7316 j. Badacsonytomaj–Tapolca ök. út 10+500–12+500 km útszakasz felújítása | kivitelezés | Hazai forrás | MÁV Személyszállítási Zrt. | 400 000 000 Ft |
 
 | Tervezés és kivitelezés összesen: | 51 405 000 000 Ft |
+
+[^1]: Az 1. pont az 1110/2026. (III. 26.) Korm. határozat 5. pontja szerint módosított szöveg.
