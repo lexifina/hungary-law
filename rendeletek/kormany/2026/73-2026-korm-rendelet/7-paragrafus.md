@@ -1,3 +1,3 @@
-7. § Az R2. 5/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^4]
 
-„(2) Ha a Nemzeti Adó- és Vámhivatal vagy a rendőrség az (1) bekezdés szerinti tilalom megtartásának ellenőrzése során megállapítja az (1) bekezdésben foglalt tilalom megsértését, 100 000 000 forinttól 5 000 000 000 forintig, de legalább a jogellenesen kivitt készlet piaci értékének háromszorosáig terjedő bírságot szab ki. A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni. A bírságot kiszabó határozat ellen nincs helye fellebbezésnek. E bírság kiszabásának nincs helye, ha az értékesítés a nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet 2. § (1a) bekezdése szerinti üzemanyag tankba történik.”
+[^4]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
