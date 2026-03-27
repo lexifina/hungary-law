@@ -20,7 +20,7 @@
 
 | 6a.[^14] | KEHOP Plusz-2.1.21 | Felhívás az egyedi, illetve térségi rendszerek kiépítésével, a lakosság egészséges ivóvízzel való ellátásához kapcsolódó projektek megvalósítására | 0,25 | kiemelt | 2025. II. negyedév |
 
-| 7. | KEHOP Plusz-2.1.30. | Felhívás víziközmű hálózatok átalakítására, hatékonyságnövelő fejlesztésére (szakaszolt) | 34,69[^15] | kiemelt | 2023. IV. negyedév |
+| 7. | KEHOP Plusz-2.1.30. | Felhívás víziközmű hálózatok átalakítására, hatékonyságnövelő fejlesztésére (szakaszolt) | 34,89[^15] | kiemelt | 2023. IV. negyedév |
 
 | 7a.[^16] | KEHOP Plusz-2.2.1 | Zöld-kék infrastruktúra fejlesztések településeken – (ERFA) | 70,00 | egyszerűsített | 2025. III. negyedév |
 
@@ -282,7 +282,7 @@
 
 | 85. | KEHOP Plusz-2.1.30 | DMRV Zrt. kapacitásbővítő fejlesztések | Építési és Közlekedési Minisztérium és DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság konzorciuma | 10,10 | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
 
-| 86. | KEHOP Plusz-2.1.30 | Keleti Főcsatorna Felszíni Ivóvíztisztító mű – Balmazújváros-Hajdúnánás-Hajdúböszörmény távvezeték építése | Építési és Közlekedési Minisztérium és Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság konzorciuma | 6,47[^157] | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
+| 86. | KEHOP Plusz-2.1.30 | Keleti Főcsatorna Felszíni Ivóvíztisztító mű – Balmazújváros-Hajdúnánás-Hajdúböszörmény távvezeték építése | Építési és Közlekedési Minisztérium és Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság konzorciuma | 6,67[^157] | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
 
 | 87. | KEHOP Plusz-2.1.30 | „Borsod vármegyei regionális víziközmű rendszerek bővítése keretében távvezetékek építése” című projekt, az „ÉRV Zrt. Miskolc-Borsodi régió közötti kooperációs vezeték létesítése” című projekt és a „Verpelét és térsége biztonságos vízellátása című projekt | Építési és Közlekedési Minisztérium és ÉRV. Északmagyarországi Regionális Vízművek Zrt. konzorciuma | 2,32[^158] | 0,00 | 2024. I. negyedév | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
 
@@ -521,7 +521,7 @@
 [^12]: Az 1. mellékletben foglalt táblázat 5a. sorát az 1271/2025. (VII. 24.) Korm. határozat 2. pontja iktatta be.
 [^13]: Az 1. mellékletben foglalt táblázat C:6 mezője az 1348/2025. (IX. 25.) Korm. határozat 2. pont 2.2. alpontja szerint módosított szöveg.
 [^14]: Az 1. mellékletben foglalt táblázat 6a. sorát az 1271/2025. (VII. 24.) Korm. határozat 2. pontja iktatta be.
-[^15]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1348/2025. (IX. 25.) Korm. határozat 2. pont 2.3. alpontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1108/2026. (III. 26.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^16]: Az 1. mellékletben foglalt táblázat 7a. sora az 1271/2025. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
 [^17]: Az 1. mellékletben foglalt táblázat 7b. sorát az 1271/2025. (VII. 24.) Korm. határozat 2. pontja iktatta be.
 [^18]: Az 1. mellékletben foglalt táblázat C:7b mezője az 1348/2025. (IX. 25.) Korm. határozat 2. pont 2.4. alpontja szerint módosított szöveg.
@@ -664,7 +664,7 @@
 [^154]: A 2. mellékletben foglalt táblázat 83. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^155]: A 2. mellékletben foglalt táblázat 84. sorát az 1320/2024. (X. 22.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^156]: A 2. mellékletben foglalt táblázat 84a. sorát az 1271/2025. (VII. 24.) Korm. határozat 3. pontja iktatta be.
-[^157]: A 2. mellékletben foglalt táblázat D:86 mezője az 1348/2025. (IX. 25.) Korm. határozat 3. pont 3.62. alpontja szerint módosított szöveg.
+[^157]: A 2. mellékletben foglalt táblázat D:86 mezője az 1108/2026. (III. 26.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^158]: A 2. mellékletben foglalt táblázat D:87 mezője az 1413/2024. (XII. 18.) Korm. határozat 10. pont q) alpontjával megállapított szöveg.
 [^159]: A 2. mellékletben foglalt táblázat D:88 mezője az 1348/2025. (IX. 25.) Korm. határozat 3. pont 3.63. alpontja szerint módosított szöveg.
 [^160]: A 2. mellékletben foglalt táblázat B:90 mezője az 1124/2025. (IV. 22.) Korm. határozat 3. pont 3.1. pontja szerint módosított szöveg.
