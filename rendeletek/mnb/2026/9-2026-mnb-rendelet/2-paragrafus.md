@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 63% réz és 37% cink ötvözetéből készült, súlya 37 gramm, átmérője 37 mm, széle sima, két egymással szembefordított sorban az „– ISTEN AZ IGAZ ÜGYET NEM HAGYJA EL – IUSTAM CAUSAM DEUS NON DERELINQUET” és az „– ISTENNEL A HAZÁÉRT ÉS SZABADSÁGÉRT – CUM DEO PRO PATRIA ET LIBERTATE” szélfelirattal.
+
+(2) Az emlékérme előlapján II. Rákóczi Ferenc hercegi nagypecsétje viaszlenyomatának ábrázolása látható, amelyet jobbra fent és balra lent körív határol. Az előlap széle és a jobb oldali körív között, köriratban a „MAGYARORSZÁG” felirat, alatta – két-két vízszintes sorban – a „2026” verési évszám és a „BP.” verdejel, valamint a „6000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján II. Rákóczi Ferenc – Mányoki Ádám 1712-es festménye alapján készült – oldalnézeti portréjának ábrázolása látható. A portré mellett – jobb oldalon körívvel határolva –, öt sorban a „350 ÉVE SZÜLETETT II. RÁKÓCZI FERENC” felirat olvasható. A hátlap jobb oldali szélén, lent Szanyi Borbála tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
