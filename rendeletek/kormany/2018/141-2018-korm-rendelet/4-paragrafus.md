@@ -16,7 +16,7 @@
 
 (8a)[^24] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása, a vízügyi és vízvédelmi, valamint iparbiztonsági szakhatósági eljárások, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény 132/B. §-a szerinti integrált építési és környezetvédelmi engedélyezési eljárás kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
 
-(9)[^25] A 2. mellékletben foglalt táblázat 21., 115., 140. és 141. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
+(9)[^25] A 2. mellékletben foglalt táblázat 21., 115., 140., 141. és 152. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
 
 (10)[^26] A 2. mellékletben foglalt táblázat 127. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, a természetvédelmi hatósági eljárás, a vízügyi és vízvédelmi, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
 
@@ -33,7 +33,7 @@
 [^22]: A 4. § (7) bekezdését a 482/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be, szövege az 526/2023. (XII. 1.) Korm. rendelet 5. §-a, a 70/2024. (III. 28.) Korm. rendelet 6. § a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 297. §-a, a 103/2025. (V. 14.) Korm. rendelet 4. §-a, a 269/2025. (VIII. 13.) Korm. rendelet 3. §-a, a 445/2025. (XII. 29.) Korm. rendelet 5. § b) pontja, a 66/2026. (III. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^23]: A 4. § (8) bekezdését a 482/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be, szövege az 526/2023. (XII. 1.) Korm. rendelet 5. §-a, a 103/2025. (V. 14.) Korm. rendelet 4. §-a, a 269/2025. (VIII. 13.) Korm. rendelet 3. §-a, a 445/2025. (XII. 29.) Korm. rendelet 5. § c) pontja, a 66/2026. (III. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^24]: A 4. § (8a) bekezdését a 70/2024. (III. 28.) Korm. rendelet 1. §-a iktatta be.
-[^25]: A 4. § (9) bekezdését az 526/2023. (XII. 1.) Korm. rendelet 1. §-a iktatta be, szövege a 301/2025. (X. 6.) Korm. rendelet 3. §-a, a 302/2025. (X. 6.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^25]: A 4. § (9) bekezdését az 526/2023. (XII. 1.) Korm. rendelet 1. §-a iktatta be, szövege a 301/2025. (X. 6.) Korm. rendelet 3. §-a, a 302/2025. (X. 6.) Korm. rendelet 7. § e) pontja, a 74/2026. (III. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^26]: A 4. § (10) bekezdését az 555/2023. (XII. 12.) Korm. rendelet 4. §-a iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 297. §-a szerint módosított szöveg.
 [^27]: A 4. § (11) bekezdését az 555/2023. (XII. 12.) Korm. rendelet 4. §-a iktatta be.
 [^28]: A 4. § (12) bekezdését a 302/2025. (X. 6.) Korm. rendelet 3. §-a iktatta be.

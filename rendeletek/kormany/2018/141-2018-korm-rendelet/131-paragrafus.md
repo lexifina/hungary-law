@@ -1,4 +1,4 @@
-131. §[^526] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 418/2023. (VIII. 31.) Korm. rendelettel (a továbbiakban: Módr123.) megállapított 2. mellékletében foglalt táblázat 120. sorát a Módr123. hatálybalépésekor[^527] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+131. §[^527] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 418/2023. (VIII. 31.) Korm. rendelettel (a továbbiakban: Módr123.) megállapított 2. mellékletében foglalt táblázat 120. sorát a Módr123. hatálybalépésekor[^528] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^526]: A 131. §-t a 418/2023. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^527]: A hatálybalépés időpontja 2023. szeptember 1.
+[^527]: A 131. §-t a 418/2023. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^528]: A hatálybalépés időpontja 2023. szeptember 1.

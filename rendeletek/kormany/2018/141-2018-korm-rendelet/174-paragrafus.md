@@ -1,4 +1,0 @@
-174. §[^613] E rendeletnek a szegedi ipari terület fejlesztési befektetési területté nyilvánításáról, valamint az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 445/2025. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr166.) módosított 2. mellékletében foglalt táblázat 21. sorát és megállapított 145. sorát a Módr166. hatálybalépésekor[^614] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-[^613]: A 174. §-t a 445/2025. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^614]: A hatálybalépés időpontja 2025. december 30.

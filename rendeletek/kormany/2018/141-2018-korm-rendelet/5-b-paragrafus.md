@@ -1,4 +1,4 @@
-5/B. §[^80] (1) A 2. mellékletben foglalt táblázat B:77 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/B. §[^81] (1) A 2. mellékletben foglalt táblázat B:77 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -28,4 +28,4 @@ b) a zöldfelület megengedett legkisebb mértéke 40%,
 
 c) a homlokzatmagasság megengedett legnagyobb mértéke 6,5 méter.
 
-[^80]: Az 5/B. §-t a 25/2022. (I. 27.) Korm. rendelet 1. §-a iktatta be.
+[^81]: Az 5/B. §-t a 25/2022. (I. 27.) Korm. rendelet 1. §-a iktatta be.
