@@ -38,27 +38,13 @@
 
 | Határidő: | azonnal |
 
-## 2. A Várpalotai Védelmi Ipari Park Komplexum megvalósítása érdekében szükséges intézkedésekről szóló 1257/2023. (VI. 28.) Korm. határozat 1. pontja a következő u) és v) alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „u) felhívja az építési és közlekedési minisztert, hogy – Várpalota Város Önkormányzatával kötendő támogatási jogviszony útján – gondoskodjon a Várpalota, Szent István út – Sörház utca – Tési út (8213. jelű út) által határolt területen komplex csomópont fejlesztésének teljes körű előkészítéséről;
+## 4.[^3]
 
-| Felelős: | építési és közlekedési miniszter |
-
-| Határidő: | a v) pont szerinti forrás rendelkezésre állását követően azonnal |
-
-## v) felhívja a nemzetgazdasági minisztert, hogy az u) alpontban foglaltak végrehajtása érdekében gondoskodjon a 2026. évben legfeljebb 127 000 000 forint biztosításáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 3. Ipari parki és térségi infrastruktúra fejlesztési feladatok jogcímcsoport javára.
-
-| Felelős: | nemzetgazdasági miniszter |
-
-| Határidő: | azonnal |
-
-## 3. A címrendi kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározat módosításról szóló 1322/2025. (VIII. 28.) Korm. határozat 1. pont b) alpontjában a „2026. március 31.” szövegrész helyébe a „2026. március 31., a HUN-REN Magyar Kutatási Hálózat támogatása előirányzat javára biztosított 1 777 874 760 forint tekintetében 2026. december 31.” szöveg lép.
-
-## 4. A HUNGARORING versenypálya körüli út kiemelt szakaszának felújításáról szóló 1412/2025. (XI. 13.) Korm. határozat 3. pontjában a „2026. március 31.” szövegrész helyébe a „2027. december 31.” szöveg lép.
-
-## 5. A kiemelt útfelújítások támogatásáról szóló 1545/2025. (XII. 11.) Korm. határozat 1. pontjában a „2026. április 30.” szövegrész helyébe a „2027. december 31.” szöveg lép.
+## 5.[^4]
 
 ## 6. A Kormány a címrendi kiegészítésről, a Központi Maradványelszámolási Alapból történő, valamint fejezetek közötti előirányzat-átcsoportosításról, továbbá kormányhatározat végrehajtása során alkalmazandó eltérő intézkedésekről szóló 1081/2026. (III. 12.) Korm. határozat 3. mellékletében foglaltaktól eltérően úgy dönt, hogy
 
@@ -73,3 +59,8 @@
 ## átcsoportosítását rendeli el.
 
 1. melléklet az 1110/2026. (III. 26.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
