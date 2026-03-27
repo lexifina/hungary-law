@@ -16,7 +16,7 @@ d)[^32] a kultúrát és a kulturális örökség megőrzését előmozdító be
 
 e)[^33]
 
-(4)[^34] A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából az 5. és 5/B−5/E. alcím hatálya alá tartozó, elsődleges mezőgazdasági termelés támogatása, valamint a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása esetén a 10 000 eurónak megfelelő forintösszeget, egyéb tevékenység támogatása esetén a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
+(4)[^34] A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából az 5. és 5/B–5/D. alcím hatálya alá tartozó, elsődleges mezőgazdasági termelés támogatása, valamint a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása esetén a 10 000 eurónak megfelelő forintösszeget, egyéb tevékenység támogatása esetén a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 
 (5) A (4) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-ai határozzák meg.
 
@@ -39,7 +39,7 @@ lehet támogatási döntést hozni.
 [^31]: A 6. § (3) bekezdés c) pontja a 39/2023. (IX. 14.) BM rendelet 9. § e) pontja szerint módosított szöveg.
 [^32]: A 6. § (3) bekezdés d) pontja a 39/2023. (IX. 14.) BM rendelet 9. § f)-g) pontja szerint módosított szöveg.
 [^33]: A 6. § (3) bekezdés e) pontját a 49/2025. (XII. 11.) BM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^34]: A 6. § (4) bekezdése a 39/2023. (IX. 14.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^34]: A 6. § (4) bekezdése a 39/2023. (IX. 14.) BM rendelet 3. § (1) bekezdésével megállapított, a 10/2026. (III. 26.) BM rendelet 4. § b) pontja szerint módosított szöveg.
 [^35]: A 6. § (5a) bekezdését a 32/2020. (VIII. 7.) BM rendelet 3. §-a iktatta be, a 33/2022. (IX. 22.) BM rendelet 6. § 4. pontja hatályon kívül helyezte.
 [^36]: A 6. § (6) bekezdése a 39/2023. (IX. 14.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^37]: A 6. § (6) bekezdés a) pontja az 51/2024. (X. 14.) BM rendelet 7. § 3. és 5. pontja szerint módosított szöveg.

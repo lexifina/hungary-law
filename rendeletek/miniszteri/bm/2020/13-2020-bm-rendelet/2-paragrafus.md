@@ -12,7 +12,7 @@ e)[^8] 55., 56., 57., 58., 70. és 72. sora alapján a 651/2014/EU bizottsági r
 
 f)[^9]
 
-g)[^10] 50., 55., 56., 57., 58. és 72. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás,
+g)[^10] 50., 55., 56., 57., 58. és 72. sora alapján az (EU) 2025/2630 bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás,
 
 h)[^11]
 
@@ -25,5 +25,5 @@ nyújtható.
 [^7]: A 2. § d) pontja az 51/2024. (X. 14.) BM rendelet 7. § 4. pontja, a 15/2025. (V. 19.) BM rendelet 3. § 3. pontja, a 49/2025. (XII. 11.) BM rendelet 2. § d) pontja szerint módosított szöveg.
 [^8]: A 2. § e) pontja az 51/2024. (X. 14.) BM rendelet 7. § 4. pontja, a 15/2025. (V. 19.) BM rendelet 3. § 4. pontja, a 49/2025. (XII. 11.) BM rendelet 2. § e) pontja szerint módosított szöveg.
 [^9]: A 2. § f) pontját a 15/2025. (V. 19.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
-[^10]: A 2. § g) pontja a 49/2025. (XII. 11.) BM rendelet 2. § f) pontja szerint módosított szöveg.
+[^10]: A 2. § g) pontja a 49/2025. (XII. 11.) BM rendelet 2. § f) pontja, a 10/2026. (III. 26.) BM rendelet 4. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § h) pontját a 15/2025. (V. 19.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
