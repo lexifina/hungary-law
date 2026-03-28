@@ -1,3 +1,3 @@
-26. §[^135] E rendeletnek az egyes agrártámogatások igénybevételének feltételeit tartalmazó miniszteri rendeletek módosításáról szóló 44/2025. (X. 27.) AM rendelettel [a továbbiakban: 44/2025. (X. 27.) AM rendelet] megállapított 5. § (7) bekezdés a) pontját, 5. § (8) bekezdését és 12. § (5a) bekezdését a 44/2025. (X. 27.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+26. §[^141] E rendeletnek az egyes agrártámogatások igénybevételének feltételeit tartalmazó miniszteri rendeletek módosításáról szóló 44/2025. (X. 27.) AM rendelettel [a továbbiakban: 44/2025. (X. 27.) AM rendelet] megállapított 5. § (7) bekezdés a) pontját, 5. § (8) bekezdését és 12. § (5a) bekezdését a 44/2025. (X. 27.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^135]: A 26. §-t a 44/2025. (X. 27.) AM rendelet 2. §-a iktatta be.
+[^141]: A 26. §-t a 44/2025. (X. 27.) AM rendelet 2. §-a iktatta be.
