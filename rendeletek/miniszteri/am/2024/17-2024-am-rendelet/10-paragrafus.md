@@ -14,7 +14,7 @@ c) a tarló fennhagyásával annak kultúrállapotban tartása mellett
 
 (3) A (2) bekezdés a) és b) pontja szerinti talajtakarási módok a 6. melléklet szerinti növényekkel valósíthatóak meg.
 
-(4)[^20] A 7. mellékletben felsorolt növénykultúrák betakarítása után visszamaradó földterületen a (2) bekezdés c) pontja szerinti talajtakarási mód a Feltételesség rendelet 15. § (3) bekezdésének megfelelő mulcsozással teljesíthető.
+(4)[^22] A 7. mellékletben felsorolt növénykultúrák betakarítása után visszamaradó földterületen a (2) bekezdés c) pontja szerinti talajtakarási mód a Feltételesség rendelet 15. § (3) bekezdésének megfelelő mulcsozással teljesíthető.
 
 (5) A gyakorlat1-et választó mezőgazdasági termelőnek az egységes kérelem keretében a gyakorlat1-gyel érintett táblák vonatkozásában meg kell jelölnie a talajtakarás megvalósításának módját. Egy táblán egy talajtakarási mód választható.
 
@@ -36,15 +36,19 @@ b) nem a (3) bekezdés szerinti takarónövény került elvetésre;
 
 c) a mezőgazdasági termelő az Egységes kérelem rendeletben szabályozott agrotechnikai művelet bejelentésének nem, vagy nem határidőn belül tett eleget;
 
-d)[^21] a mezőgazdasági termelő nem biztosította a (2) bekezdés szerinti talajtakarási módnak megfelelően a talajtakarást a szántóterületének legalább 3%-án legalább a tárgyévet követő év február 28. napjáig;
+d)[^23] a mezőgazdasági termelő nem biztosította a talajtakarást a (2) bekezdés szerinti talajtakarási módnak megfelelően legalább a tárgyévet követő év február 28. napjáig;
 
-e)[^22] a mezőgazdasági termelő a gyakorlat3 vagy a gyakorlat3a gyakorlat keretében nem termelő területként bejelentett ökológiai másodvetéssel kívánta teljesíteni a gyakorlat1-et a táblán; vagy
+e)[^24] a mezőgazdasági termelő a gyakorlat3 vagy a gyakorlat3a gyakorlat keretében nem termelő területként bejelentett ökológiai másodvetéssel kívánta teljesíteni a gyakorlat1-et a táblán; vagy
 
-f)[^23]
+f)[^25]
 
-g) a tárgyév bármely szakaszában a terület talajtakarás nélküli parlagként volt hasznosítva.
+g)[^26] a tárgyév bármely szakaszában a terület talajtakarás nélküli pihentetett területként volt hasznosítva..
 
-[^20]: A 10. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 4. pontja szerint módosított szöveg.
-[^21]: A 10. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 5. pontja, a 41/2025. (IX. 11.) AM rendelet 18. § 4. pontja szerint módosított szöveg.
-[^22]: A 10. § (8) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 6. pontja szerint módosított szöveg.
-[^23]: A 10. § (8) bekezdés f) pontját az 5/2025. (IV. 3.) AM rendelet 49. § a) pontja hatályon kívül helyezte.
+(9)[^27] Amennyiben a (2) bekezdés szerinti talajtakarás a (8) bekezdés a)–g) pontjában szereplő bármely ok miatt nem teljesült, de annak mértéke összesen nem éri el a szántóterület 3%-át, akkor a gyakorlat1-et teljesítettnek kell tekinteni.
+
+[^22]: A 10. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 4. pontja szerint módosított szöveg.
+[^23]: A 10. § (8) bekezdés d) pontja a 9/2026. (III. 27.) AM rendelet 39. § c) pontja szerint módosított szöveg.
+[^24]: A 10. § (8) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 6. pontja szerint módosított szöveg.
+[^25]: A 10. § (8) bekezdés f) pontját az 5/2025. (IV. 3.) AM rendelet 49. § a) pontja hatályon kívül helyezte.
+[^26]: A 10. § (8) bekezdés g) pontja a 9/2026. (III. 27.) AM rendelet 39. § d) pontja szerint módosított szöveg.
+[^27]: A 10. § (9) bekezdését a 9/2026. (III. 27.) AM rendelet 27. §-a iktatta be.

@@ -10,7 +10,7 @@
 
 (5) A legeltethető állatfajok közé a szarvasmarha, a bivaly, a lófélék, a juh és a kecske tartoznak.
 
-(6)[^73]
+(6)[^88]
 
 (7) A legeltethető állategyedek és a minimális állategység megléte adminisztratív ellenőrzés keretében, a Tenyészet Információs Rendszer, az Egységes Nyilvántartási és Azonosítási Rendszer, valamint az Országos Lóinformációs Rendszer adatai alapján kerülnek ellenőrzésre.
 
@@ -22,7 +22,7 @@ a) a gyakorlat11 teljesítésébe bevont táblákat és
 
 b) a gyakorlat11 teljesítésébe bevont táblánként a legeltetés tervezett típusát, valamint a legeltetni tervezett állatfajt.
 
-(10)[^74]
+(10)[^89]
 
-[^73]: A 21. § (6) bekezdését az 58/2025. (XII. 22.) AM rendelet 7. §-a hatályon kívül helyezte.
-[^74]: A 21. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet 47. § b) pontja hatályon kívül helyezte.
+[^88]: A 21. § (6) bekezdését az 58/2025. (XII. 22.) AM rendelet 7. §-a hatályon kívül helyezte.
+[^89]: A 21. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet 47. § b) pontja hatályon kívül helyezte.

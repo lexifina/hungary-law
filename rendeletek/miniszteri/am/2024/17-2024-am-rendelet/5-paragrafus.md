@@ -4,9 +4,9 @@
 
 (2) Ha a meg nem feleléssel érintett földhasználati kategória teljes meghatározott területe a gazdaság teljes meghatározott területének
 
-a)[^12] legfeljebb 30%-át érinti, akkor a 4. § (5) bekezdése szerinti teljes támogatási összeg 35%-kal,
+a)[^14] legfeljebb 30%-át érinti, akkor a 4. § (5) bekezdése szerinti teljes támogatási összeg 35%-kal,
 
-b)[^13] legfeljebb 50%-át érinti, akkor a 4. § (5) bekezdése szerinti teljes támogatási összeg 55%-kal
+b)[^15] legfeljebb 50%-át érinti, akkor a 4. § (5) bekezdése szerinti teljes támogatási összeg 55%-kal
 
 csökkentésre kerül.
 
@@ -14,5 +14,5 @@ csökkentésre kerül.
 
 (4) A (2) és (3) bekezdés alkalmazásában a gazdaság teljes meghatározott területébe nem értendő bele a gyakorlat teljesítése alól mentesített terület abban az esetben, ha a mezőgazdasági termelő e területek vonatkozásában nem teljesíti a 2 pontot.
 
-[^12]: Az 5. § (2) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 2. pontja szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 3. pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 2. pontja szerint módosított szöveg.
+[^15]: Az 5. § (2) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 3. pontja szerint módosított szöveg.

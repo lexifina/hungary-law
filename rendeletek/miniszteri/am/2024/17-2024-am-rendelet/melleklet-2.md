@@ -128,8 +128,8 @@
 
 | 64. | Terjőke kígyószisz |
 
-2. melléklet a 17/2024. (IV. 9.) AM rendelethez[^132]
+2. melléklet a 17/2024. (IV. 9.) AM rendelethez[^160]
 
 Különleges állandó kultúrák listája
 
-[^132]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^160]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (2) bekezdésével megállapított szöveg.

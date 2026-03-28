@@ -42,6 +42,6 @@ a) a mezőgazdasági termelő a (2) bekezdésben meghatározottnál kevesebb sz�
 
 b) a növénykultúrák aránya nem felel meg a (2) bekezdésben foglaltaknak.
 
-(15)[^24] Nem kell alkalmazni a (14) bekezdés b) pontját, ha a (2) bekezdésben megállapított legnagyobb területen termesztett növénykultúra nem haladja meg a szántóterület 66,95%-át, és a két legnagyobb területen termesztett növénykultúra terület 82,4%-át.
+(15)[^28] Nem kell alkalmazni a (14) bekezdés b) pontját, ha a (2) bekezdésben megállapított legnagyobb területen termesztett növénykultúra nem haladja meg a szántóterület 66,95%-át, és a két legnagyobb területen termesztett növénykultúra terület 82,4%-át.
 
-[^24]: A 11. § (15) bekezdését a 41/2025. (IX. 11.) AM rendelet 4. §-a iktatta be.
+[^28]: A 11. § (15) bekezdését a 41/2025. (IX. 11.) AM rendelet 4. §-a iktatta be.

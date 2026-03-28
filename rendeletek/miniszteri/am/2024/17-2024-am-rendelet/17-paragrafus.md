@@ -1,8 +1,8 @@
-## 14. Talaj- és növénykondicionáló szerek, nitrogénmegkötő készítmények alkalmazása szántóterületeken
+## 14.[^70] Talaj- és növénykondicionáló szerek, nitrogénmegkötő vagy komposztkészítmények alkalmazása szántóterületeken
 
-17. § (1) A talaj- és növénykondicionáló szerek, nitrogénmegkötő készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat8) keretében a mezőgazdasági termelőnek a mezőgazdasági üzem szántóterületének legalább 50%-án talajkondicionáló, növénykondicionáló – beleértve a csávázószerként használt mikrobiológiai készítményt – vagy nitrogénmegkötő készítményt (ezen alcím alkalmazásában a továbbiakban együtt: kondicionáló) kell alkalmaznia a tárgyévben.
+17. § (1)[^71] A talaj- és növénykondicionáló szerek, nitrogénmegkötő vagy komposztkészítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat8) keretében a mezőgazdasági termelőnek a mezőgazdasági üzem szántóterületének legalább 50%-án talajkondicionáló, növénykondicionáló – beleértve a csávázószerként használt mikrobiológiai készítményt –, nitrogénmegkötő vagy komposztkészítményt (ezen alcím alkalmazásában a továbbiakban együtt: kondicionáló) kell alkalmaznia a tárgyévben.
 
-(2)[^60] A gyakorlat8 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+(2)[^72] A gyakorlat8 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (3) A gyakorlat8 teljesítése során kizárólag olyan kondicionáló kijuttatása fogadható el,
 
@@ -50,10 +50,12 @@ b) nem teljesítette a (3) bekezdésben meghatározott valamely feltételt;
 
 c) a táblán nem juttatott ki kondicionálót; vagy
 
-d)[^61] által bejelentett tábla területének több mint 15%-a nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+d)[^73] által bejelentett tábla területének több mint 15%-a nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
-(9)[^62] A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy az (1)–(7) bekezdésben foglaltaknak megfelelően kijuttatott kondicionálóval kezelt terület nem haladja meg a szántóterület 48,5%-át.
+(9)[^74] A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy az (1)–(7) bekezdésben foglaltaknak megfelelően kijuttatott kondicionálóval kezelt terület nem haladja meg a szántóterület 48,5%-át.
 
-[^60]: A 17. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^61]: A 17. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^62]: A 17. § (9) bekezdése a 41/2025. (IX. 11.) AM rendelet 6. §-ával megállapított szöveg.
+[^70]: A 14. alcím címe a 9/2026. (III. 27.) AM rendelet 39. § g) pontja szerint módosított szöveg.
+[^71]: A 17. § (1) bekezdése a 9/2026. (III. 27.) AM rendelet 30. §-ával megállapított szöveg.
+[^72]: A 17. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^73]: A 17. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^74]: A 17. § (9) bekezdése a 41/2025. (IX. 11.) AM rendelet 6. §-ával megállapított szöveg.

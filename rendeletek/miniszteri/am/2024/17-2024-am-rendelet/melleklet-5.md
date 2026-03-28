@@ -18,7 +18,7 @@
 
 | 9. | Mikrobiológiai készítmények alkalmazása szántóterületeken | 2 |
 
-| 10. | Talaj-, növénykondicionáló szerek, nitrogénmegkötő készítmények alkalmazása szántóterületeken | 1 |
+| 10.[^163] | Talaj-, növénykondicionáló szerek, nitrogénmegkötő vagy komposztkészítmények alkalmazása szántóterületeken | 1 |
 
 | 11. | Forgatás nélküli talajművelés szántóterületeken | 2 |
 
@@ -56,7 +56,7 @@
 
 | 28. | Mikrobiológiai készítmények alkalmazása egyéb állandó kultúrában | 2 |
 
-| 29. | Talaj-, növénykondicionáló szerek alkalmazása egyéb állandó kultúrában | 1 |
+| 29.[^164] | Talaj- és növénykondicionáló szerek, nitrogénmegkötő vagy komposztkészítmények alkalmazása egyéb állandó kultúrában | 1 |
 
 | 30. | 12% alatti lejtésű területeken az állandó kultúrák talajtakarása mulcsozással, egyéves sorköztakaró növények termesztésével különleges állandó kultúrában | 1 |
 
@@ -68,6 +68,8 @@
 
 | 34. | Karbamid műtrágya környezetbarát használata egyéb állandó kultúrában | 1 |
 
-5. melléklet a 17/2024. (IV. 9.) AM rendelethez[^135]
+5. melléklet a 17/2024. (IV. 9.) AM rendelethez[^165]
 
-[^135]: Az 5. mellékletet az 5/2025. (IV. 3.) AM rendelet 49. § f) pontja hatályon kívül helyezte.
+[^163]: A 4. mellékletben foglalt táblázat 10. sora a 9/2026. (III. 27.) AM rendelet 38. §-ával megállapított szöveg.
+[^164]: A 4. mellékletben foglalt táblázat 29. sora a 9/2026. (III. 27.) AM rendelet 38. §-ával megállapított szöveg.
+[^165]: Az 5. mellékletet az 5/2025. (IV. 3.) AM rendelet 49. § f) pontja hatályon kívül helyezte.
