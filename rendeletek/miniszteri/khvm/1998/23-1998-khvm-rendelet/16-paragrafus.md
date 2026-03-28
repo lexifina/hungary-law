@@ -1,4 +1,4 @@
-## 15. §[^31] A Nyilvántartásba és a vízikönyvi okirattárba történő betekintésre jogosultak körét meghatározó külön jogszabály[^32] rendelkezéseire figyelemmel, a nyilvántartást az ügyfelek mellett az tekintheti meg – vagy költségtérítés ellenében abból kivonatos másolatot, illetve elektronikus adatcsomagot igényelhet –, akinek a bejegyzett jog vagy tény (a továbbiakban együtt: adat) megismerése feladatkörének ellátásához, tevékenységének gyakorlásához szükséges, vagy a Nyilvántartás adatainak ismerete egyéb jogviszonyból eredően indokolt.
+## 15. §[^27] A Nyilvántartásba és a vízikönyvi okirattárba történő betekintésre jogosultak körét meghatározó külön jogszabály[^28] rendelkezéseire figyelemmel, a nyilvántartást az ügyfelek mellett az tekintheti meg – vagy költségtérítés ellenében abból kivonatos másolatot, illetve elektronikus adatcsomagot igényelhet –, akinek a bejegyzett jog vagy tény (a továbbiakban együtt: adat) megismerése feladatkörének ellátásához, tevékenységének gyakorlásához szükséges, vagy a Nyilvántartás adatainak ismerete egyéb jogviszonyból eredően indokolt.
 
-[^31]: A 15. § a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés e) pontja, a 43/2019. (XII. 14.) BM rendelet 1. § (8) bekezdés e) pontja szerint módosított szöveg.
-[^32]: 72/1996. (V. 22.) Korm. rendelet 22. § (3) bekezdés.
+[^27]: A 15. § a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés e) pontja, a 43/2019. (XII. 14.) BM rendelet 1. § (8) bekezdés e) pontja szerint módosított szöveg.
+[^28]: 72/1996. (V. 22.) Korm. rendelet 22. § (3) bekezdés.
