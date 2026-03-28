@@ -12,13 +12,7 @@
 
 | Határidő: | az e határozat közzétételét követő 40 napon belül |
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1527/2023. (XII. 1.) Korm. határozat
-
-## a) 1. mellékletében foglalt táblázat C:7 mezőjében a „34,69” szövegrész helyébe a „34,89” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:86 mezőjében a „6,47” szövegrész helyébe a „6,67” szöveg
-
-## lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -33,3 +27,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP_PLUSZ-2.1.30-23-2024-00003 | Keleti Főcsatorna Felszíni Ivóvíztisztító mű – Balmazújváros–Hajdúnánás–Hajdúböszörmény távvezeték építése | Építési és Közlekedési Minisztérium és Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság konzorciuma | 100,000000 | 6 468 638 669 | 0 | 25 540 128 | 1 152 503 066 | – | +197 434 861 | – | – | –197 434 861 | 100,000000 | 6 666 073 530 | 0 | 25 540 128 | 955 068 205 | 7 646 681 863 | A beruházással szembeni szakmai elvárás, hogy a projekt keretében vállalt regionális ivóvízhálózatok hidraulikai és vízminőségi szempontból kedvezőbb átalakítása, módosítása és/vagy, illetve vízbázis átalakítása, víztermelés hatékonyságának javítása maradéktalanul megvalósuljon, a beruházással elérni kívánt cél teljesülését a projekt fenntartási időszaka során megfelelő módon alátámasztva. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
