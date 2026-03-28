@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-50-20-2
 | 2026-03-10 | 2026-50-20-22.1 | 50/2026. (III. 9.) Korm. rendelet |
 | 2026-03-11 | 2026-50-20-22.2 | 53/2026. (III. 10.) Korm. rendelet |
 | 2026-03-13 | 2026-50-20-22.3 | 58/2026. (III. 12.) Korm. rendelet |
+| 2026-03-28 | 2026-50-20-22.4 | 73/2026. (III. 25.) Korm. rendelet |

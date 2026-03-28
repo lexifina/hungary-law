@@ -14,6 +14,8 @@ b) ismételt jogsértés esetén döntésével elrendelheti, hogy az üzemanyagt
 
 (5) A (2) bekezdéstől eltérően, ha az állami adó- és vámhatóság az (1) bekezdés szerinti ellenőrzése során megállapítja a 2. §, 4. § vagy 5. § szerinti kötelezettségek megsértését, 6 000 000 forinttól 15 000 000 forintig terjedő bírságot szab ki. A jogkövetkezmény azonos napon több, egymást követő ellenőrzés alkalmával is alkalmazható.
 
+(5a)[^9] A (2) bekezdéstől eltérően, ha az állami adó- és vámhatóság az (1) bekezdés szerinti ellenőrzése során megállapítja az 1. § (4) bekezdése vagy a 3. § (5) bekezdése szerinti kötelezettség megsértését, 10 000 000 forinttól 150 000 000 forintig terjedő bírságot szab ki.
+
 (6) A bírságot a bírságot kiszabó határozat véglegessé válását követő 15. napon belül kell megfizetni az állami adó- és vámhatóság hivatalos honlapján közzétett számlaszámra.
 
 (7) A bírságot kiszabó határozat ellen nincs helye fellebbezésnek.
@@ -21,3 +23,5 @@ b) ismételt jogsértés esetén döntésével elrendelheti, hogy az üzemanyagt
 (8) Az üzemanyagtöltő állomás üzemeltetője köteles a kereskedelemért felelős miniszternek haladéktalanul, de legkésőbb 24 órán belül bejelenteni, ha a (2) bekezdés b) pontja szerint tevékenysége folytatásától ideiglenesen eltiltják.
 
 (9) Az állami adó- és vámhatóság haladéktalanul értesíti a kereskedelemért felelős minisztert, ha a (2) bekezdés b) pontja szerinti jogkövetkezményt alkalmazta.
+
+[^9]: A 9. § (5a) bekezdését a 73/2026. (III. 25.) Korm. rendelet 2. §-a iktatta be.

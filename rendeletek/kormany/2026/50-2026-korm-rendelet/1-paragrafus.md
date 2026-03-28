@@ -21,3 +21,7 @@ a) az (1) bekezdés a) pontja szerinti termék esetében 595 forint literenként
 b) az (1) bekezdés b) pontja szerinti termék esetében 615 forint literenként.
 
 (3) Az (1) bekezdés szerinti termékek értékesítése során egyéb költség vagy díj nem számolható fel.
+
+(4)[^2] A Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére nem jogosult üzemanyagtöltő állomást – ide nem értve az üzemi üzemanyagtöltő állomást – működtető vállalkozás köteles a biztonsági kőolajtermék készletek veszélyhelyzeti felhasználásáról szóló 52/2026. (III. 9.) Korm. rendelet [a továbbiakban: 52/2026. (III. 9.) Korm. rendelet] szerinti védett áras termékekre vonatkozó ellátási szerződéssel rendelkezni olyan nagykereskedővel, aki a Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére jogosult.
+
+[^2]: Az 1. § (4) bekezdését a 73/2026. (III. 25.) Korm. rendelet 1. §-a iktatta be.
