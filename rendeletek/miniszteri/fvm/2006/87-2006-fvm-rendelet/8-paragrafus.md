@@ -2,7 +2,7 @@
 
 (2)[^22] Az árutermelő szőlőiskola létesítésének engedélye iránti kérelmet a kérelmező nevének és címének feltüntetésével a szaporítást megelőző évben augusztus 31-ig kell a növénytermesztési hatáskörben eljáró vármegyei kormányhivatalhoz benyújtani.
 
-(3)[^23] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kérelemhez benyújtott adatok ellenőrzése érdekében beszerzi a kérelmező gazdasági társaság cégkivonatát.
+(3)[^23] Gazdasági társaság kérelmező esetén a cégjegyzékben szereplő adatokat – a cégjegyzékszám és a kérelmező neve kivételével – a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a cégnyilvántartásból közvetlenül, elektronikus úton szerzi be.
 
 (4)[^24] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az árutermelő szőlőiskola létesítését a kérelmező részére – a kérelemben foglaltak szerint – határozatlan vagy határozott időre akkor engedélyezi, ha
 
@@ -77,7 +77,7 @@ e) a növényállomány fejlettségét, a tételek fajtatisztasági szelekciój�
 (13)[^35] A NÉBIH és a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kitermelést és osztályozást követően a szaporított prebázis, bázis és certifikált tételeket minősíti, a standard tételeket ellenőrzi. Az ellenőrzések és a minősítések eredményei alapján hozott határozat rendelkezik arról, hogy mely tételek hozhatók forgalomba, vagy milyen kategóriában engedélyezett vagy korlátozott a felhasználásuk.
 
 [^22]: A 8. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 12. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § c) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^23]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 8. § (3) bekezdése a 10/2026. (III. 27.) AM rendelet 1. §-ával megállapított szöveg.
 [^24]: A 8. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^25]: A 8. § (4) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^26]: A 8. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
