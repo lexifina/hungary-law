@@ -1,1 +1,3 @@
-3. § Az R. 4. § (9) bekezdésében a „140. és 141.” szövegrész helyébe a „140., 141. és 152.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
