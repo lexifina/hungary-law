@@ -38,7 +38,7 @@ c) a vetőmagtétel azonosító adatait tartalmazó szállítólevelet és palá
 
 d) a vetőmagtétel azonosító adatait tartalmazó minőségi bizonyítványt vagy
 
-e)[^16] a számla kiállítója által kiállított olyan cégszerűen aláírt dokumentumot, amely tartalmazza a számla számát, kiállításának dátumát, az eladó és a vevő azonosításához szükséges adatokat, valamint a számlán szereplő tételekhez kapcsolódóan a fajra, a fajtára, a mennyiségre és a tételazonosítóra vonatkozó adatokat.
+e)[^16] a számla kiállítója által kiállított olyan cégszerűen aláírt dokumentumot, amely tartalmazza a számla számát, kiállításának dátumát, az eladó és a vevő azonosításához szükséges adatokat, valamint a számlán szereplő tételekhez kapcsolódóan a fajra, a mennyiségre és a tételazonosítóra vonatkozó adatokat.
 
 (3) A 17. § (1) bekezdés a), b), c), d), g), h) és i) pontja szerinti támogatás igénybevételének feltétele az (1) és (2) bekezdésben meghatározott dokumentumok megléte. Az (1) és (2) bekezdésben foglaltak teljesülését a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
 
@@ -56,6 +56,6 @@ b) a palánták esetében a tételazonosítót.
 
 [^14]: A 18. § (1) bekezdés a) pont aa) alpontja az 5/2025. (IV. 3.) AM rendelet 59. § e) pontja szerint módosított szöveg.
 [^15]: A 18. § (1) bekezdés c) pont cc) alpontja az 5/2025. (IV. 3.) AM rendelet 59. § e) pontja szerint módosított szöveg.
-[^16]: [A 18. § (2) bekezdés e) pontban az 5/2025. (IV. 3.) AM rendelet 59. § e) pontja által elrendelt módosítás, amely szerint a „fajra, fajtára, mennyiségre” szövegrész helyébe a „fajra, mennyiségre” szöveg lép, nem vezethető át.]
+[^16]: A 18. § (2) bekezdés e) pontja a 9/2026. (III. 27.) AM rendelet 44. § a) pontja szerint módosított szöveg. [A 18. § (2) bekezdés e) pontban az 5/2025. (IV. 3.) AM rendelet 59. § e) pontja által elrendelt módosítás, amely szerint a „fajra, fajtára, mennyiségre” szövegrész helyébe a „fajra, mennyiségre” szöveg lép, nem vezethető át.]
 [^17]: A 18. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 59. § f) pontja szerint módosított szöveg.
 [^18]: A 18. § (6) bekezdés a) pontját az 5/2025. (IV. 3.) AM rendelet 60. §-a hatályon kívül helyezte.

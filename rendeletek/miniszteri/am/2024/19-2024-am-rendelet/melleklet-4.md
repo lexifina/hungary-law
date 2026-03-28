@@ -1,6 +1,6 @@
 |  | A | B | C | D | E | F | G | H | I | J |
 
-| 1. | Megnevezés magyarul | Megnevezés latinul | Szántóföldi termesztés esetén | Hajtatás esetén | A növény a virágzás kezdetéig megőrizendő (igen/nem)[^31] |
+| 1. | Megnevezés magyarul | Megnevezés latinul | Szántóföldi termesztés esetén | Hajtatás esetén | A növény a virágzás kezdetéig megőrizendő (igen/nem)[^36] |
 
 | 2. | Minimum vetőmag db/hektár | Ezermag- tömeg- gramm | Minimum hagyma, fokhagymagerezd db/hektár | Minimum dugvány vagy tősarj db/hektár | Minimum palánta db/hektár | Minimum gumó kg/hektár | Minimum palánta db/hektár |
 
@@ -78,7 +78,7 @@
 
 | 39. | Borsmustár (rukkola) | Eruca sativa | 1 875 000 | 0,8 | – | – | 850 000 | – | – | nem |
 
-| 40. | Menta | Mentha piperita | – | – | – | 55 000 | – | – | – | nem |
+| 40. | Borsmenta[^37] | Mentha piperita | – | – | – | 55 000 | – | – | – | nem |
 
 | 41. | Citromfű | Melissa officinalis | 80 000 | 0,6 | – | – | 55 000 | – | – | nem |
 
@@ -112,4 +112,5 @@
 
 A gyümölcsök jegyzéke, valamint minimális hektáronkénti tőszámának és az ültetvény maximális életkorának értéke
 
-[^31]: A vetőmag-minősítésnél a zöldbabra vonatkozó szaporítóanyag-előírásoknak kell megfelelni.
+[^36]: A vetőmag-minősítésnél a zöldbabra vonatkozó szaporítóanyag-előírásoknak kell megfelelni.
+[^37]: A 3. mellékletben foglalt táblázat A:40 mezője a 9/2026. (III. 27.) AM rendelet 43. §-ával megállapított szöveg.

@@ -22,7 +22,7 @@
 
 | 11. | Alexandriai here | Trifolium alexandrinum | 10 | – | – |
 
-| 12.[^32] | Legány-féle keverék (pannon- vagy szöszösbükköny, rozs, búza, árpa, tritikálé vagy bíborhere keverék) | Vicia pannonica / Vicia villosa + Triticum aestivum / Secale cerelace + Hordeum vulgare / × Triticosecale + Trifolium incarnatum | búza, rozs, árpa vagy tritikálé: 60, szöszösbükköny vagy pannonbükköny: 80 és bíborhere: 20 | – | – |
+| 12.[^38] | Legány-féle keverék (pannon- vagy szöszösbükköny, rozs, búza, árpa, tritikálé vagy bíborhere keverék) | Vicia pannonica / Vicia villosa + Triticum aestivum / Secale cerelace + Hordeum vulgare / × Triticosecale + Trifolium incarnatum | búza, rozs, árpa vagy tritikálé: 60, szöszösbükköny vagy pannonbükköny: 80 és bíborhere: 20 | – | – |
 
 | 13. | Borsós kukoricacsalamádé** | Pisum sativum + zea mays conv. Vulgaris | – | borsó: 600 000 kukorica: 400 000 | – |
 
@@ -78,4 +78,4 @@ Tárolási napló
 
 |  | Cégszerű aláírás |  |  |  |  |  |  |  |  |  |  |  |
 
-[^32]: A 10. mellékletben foglalt táblázat 12. sora az 5/2025. (IV. 3.) AM rendelet 58. § (3) bekezdésével megállapított szöveg.
+[^38]: A 10. mellékletben foglalt táblázat 12. sora az 5/2025. (IV. 3.) AM rendelet 58. § (3) bekezdésével megállapított szöveg.

@@ -51,3 +51,7 @@ db) a hatósági bizonyítvány kiállítását megelőző egy éven belül az a
 a) a (2) bekezdés szerinti hatósági bizonyítványban rögzített adatok alapján dönt, ha az általa lefolytatott ellenőrzések alapján a megállapított hasznosítás megegyezik a mezőgazdasági termelő által bejelentett hasznosítással, vagy
 
 b) az általa lefolytatott helyszíni vizsgálat eredménye alapján dönt, ha az általa lefolytatott ellenőrzések alapján a megállapított hasznosítás eltér a mezőgazdasági termelő által bejelentett hasznosítástól.
+
+(7)[^28] Ha a Kincstár az általa lefolytatott helyszíni vizsgálat során eltérést tapasztal a (2) bekezdés szerinti hatósági bizonyítványban rögzített adatok tekintetében, akkor erről értesíti a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt.
+
+[^28]: A 25. § (7) bekezdését a 9/2026. (III. 27.) AM rendelet 42. §-a iktatta be.

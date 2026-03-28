@@ -82,8 +82,8 @@
 
 | 41. | Zwartbonten van België / pie noire de Belgique |
 
-3. melléklet a 19/2024. (IV. 9.) AM rendelethez[^30]
+3. melléklet a 19/2024. (IV. 9.) AM rendelethez[^35]
 
 A zöldségnövények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta, hagyma, tősarj és dugvány értékei
 
-[^30]: A 3. melléklet az 5/2025. (IV. 3.) AM rendelet 58. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. melléklet az 5/2025. (IV. 3.) AM rendelet 58. § (2) bekezdésével megállapított szöveg.
