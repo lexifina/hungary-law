@@ -2,9 +2,9 @@
 
 (2) A helyszíni vizsgálatra vonatkozó bejelentés megtétele és annak megkezdése közötti időszakot a szükséges legrövidebb időtartamra kell korlátozni, amely nem haladhatja meg a tizennégy napot. Az állatalapú támogatásokat érintő helyszíni vizsgálat esetén a bejelentés az ellenőrzés megkezdésének időpontja előtt legfeljebb 5 nappal tehető meg.
 
-(3)[^60] Az előírt helyszíni vizsgálatokat az egységes kérelem beadása és a kifizetés közötti időszakon belül elosztva kell elvégezni. Az előírt minimális helyszíni vizsgálati arány legalább 50%-át kell elvégezni a birtokon tartás időszaka alatt az anyatehéntartás és anyajuhtartás támogatások esetében.
+(3)[^70] Az előírt helyszíni vizsgálatokat az egységes kérelem beadása és a kifizetés közötti időszakon belül elosztva kell elvégezni. Az előírt minimális helyszíni vizsgálati arány legalább 50%-át kell elvégezni a birtokon tartás időszaka alatt az anyatehéntartás és anyajuhtartás támogatások esetében.
 
-(3a)[^61] A (3) bekezdés szerinti vizsgálati arány teljesítése érdekében a Tkt rendelet 13. §-a szerinti támogatás esetében az ellenőrzési minta egy részét a tárgyévi egységes kérelem benyújtására nyitva álló időszak utolsó napja előtt, az 5. § (12) bekezdésében meghatározott, rendelkezésre álló adatok alapján előzetesen is ki lehet választani.
+(3a)[^71] A (3) bekezdés szerinti vizsgálati arány teljesítése érdekében a Tkt rendelet 13. §-a szerinti támogatás esetében az ellenőrzési minta egy részét a tárgyévi egységes kérelem benyújtására nyitva álló időszak utolsó napja előtt, az 5. § (12) bekezdésében meghatározott, rendelkezésre álló adatok alapján előzetesen is ki lehet választani.
 
 (4) A helyszíni vizsgálatok keretében – a területi monitoring rendszer útján ellenőrizhető feltételek kivételével – azon támogatási feltételek betartását kell ellenőrizni, amelyek a helyszínen ellenőrizhetőek, és amelyek tekintetében az adott mezőgazdasági termelőt kiválasztották.
 
@@ -18,5 +18,5 @@
 
 (9) A terhelő megállapítást tartalmazó jegyzőkönyv egy másolati példányát az ellenőr – ha az ehhez szükséges technikai feltételek adottak, és a KAP Vhr. 43. §-a szerinti papíralapú jegyzőkönyv készült – a helyszínen átadja, vagy azt a kedvezményezett részére a jegyzőkönyv lezárásától számított tizenöt napon belül megküldi. Ha a kedvezményezett kéri, a jegyzőkönyv egy másolati példányát minden esetben át kell adni vagy meg kell küldeni részére.
 
-[^60]: A 30. § (3) bekezdése a 44/2025. (X. 27.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^61]: A 30. § (3a) bekezdését a 44/2025. (X. 27.) AM rendelet 10. § (2) bekezdése iktatta be.
+[^70]: A 30. § (3) bekezdése a 44/2025. (X. 27.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^71]: A 30. § (3a) bekezdését a 44/2025. (X. 27.) AM rendelet 10. § (2) bekezdése iktatta be.

@@ -80,7 +80,7 @@ b) a tárgyévet megelőző évi egységes kérelemben a mezőgazdasági termel�
 
 28. hasznosító: az egységes kérelemben bejelentett területi elem vonatkozásában hasznosítást végző mezőgazdasági termelő;
 
-29. ideiglenes gyep: olyan gyep vagy egyéb, a herefélék (Trifolium) és a lucernafélék (Medicago) nemzetségébe tartozó fajok és ezek kizárólagos keverékei alkotta növényállományok kivételével az 1. mellékletben felsorolt fajokból álló takarmánynövény vetés nélküli vagy vetéssel történő termesztésére használt földterület, amely a telepítéstől számítva öt évnél fiatalabb, és nem az állandó gyepterület visszaállítási kötelezettség okán került telepítésre;
+29.[^4] ideiglenes gyep: olyan gyep vagy egyéb, kizárólagosan a herefélék (Trifolium) és a lucernafélék (Medicago) nemzetségébe tartozó fajok és ezek keverékei alkotta növényállományok kivételével az 1. mellékletben felsorolt fajokból álló takarmánynövény vetés nélküli vagy vetéssel történő termesztésére használt földterület, amely a telepítéstől számítva öt évnél fiatalabb, és nem az állandó gyepterület visszaállítási kötelezettség okán került telepítésre;
 
 30. kijavítás: az egységes kérelemben megadott adatokra, illetve a kötelező mellékletet képező igazoló dokumentumokra vonatkozó minden olyan adatváltozás bejelentése – a 49. pont szerinti módosítás kivételével –, amely az egységes kérelemben megadott adatok valós állapothoz igazítására irányul;
 
@@ -102,7 +102,7 @@ b) a tárgyévet megelőző évi egységes kérelemben a mezőgazdasági termel�
 
 39. magányosan álló fa: a MePAR-ban meghatározott és feltüntetett, szántóterületen található olyan egymagában álló fa, amely lombkoronájának átmérője legalább 4 méter;
 
-40. másodvetés: a tárgyévre az egységes kérelemben bejelentett főnövény betakarítása után a következő év első főnövénye vetéséig betakarított vagy zöldtrágya-növényként talajba forgatott, bedolgozott vagy a mezőgazdasági területen legalább tarlóállapotban hagyott növénykultúra, ahol mind az első főnövény lekerülését követő, mind a második főnövény vetését megelőző talajmunkákra az agronómiailag indokolt időt figyelembe kell venni, és a másodvetésnek a megelőző főnövénytől különböző növénykultúrához kell tartoznia, azzal, hogy a Brassica napus (takarmányrepce), Sinapis alba (fehérmustár), Raphanus sativus (retek) fajhoz tartozó növények egymás után még keverékben sem vethetőek;
+40.[^5] másodvetés: a tárgyévre az egységes kérelemben bejelentett főnövény betakarítása után a következő év első főnövénye vetéséig betakarított vagy zöldtrágya-növényként talajba forgatott, bedolgozott vagy a mezőgazdasági területen legalább tarlóállapotban hagyott növénykultúra, amelynek a megelőző főnövénytől különböző növénykultúrához kell tartoznia, azzal, hogy a Brassica napus (takarmányrepce), Sinapis alba (fehérmustár), Raphanus sativus (retek) fajhoz tartozó növények egymás után még keverékben sem vethetőek;
 
 41. meghatározott állat: az adott támogatásra vonatkozó miniszteri rendelet vagy pályázati felhívás szerinti feltételeknek megfelelő állat;
 
@@ -144,11 +144,11 @@ c) a 16. §-ban meghatározott minimumtevékenységek elvégzése a természetes
 
 52. nagymértékű, súlyos, maradandó fás szárú gyomosodás: a fás szárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált tábla esetében a földterületen 100 db/hektárt meghaladó mértékben található olyan fás szárú gyomnövény, amelynek lombkorona alatti területe nem tartalmaz legeltethető vegetációt, vagy a fás szárú gyomnövény eltávolítása az alapkultúra károsodása nélkül nem hajtható végre, és a terület a vegetációs idő alatt mezőgazdasági művelésre alkalmassá nem tehető;
 
-53.[^4] nem támogatható terület: a MePAR rendelet 1. § 12. pontja szerinti terület;
+53.[^6] nem támogatható terület: a MePAR rendelet 1. § 12. pontja szerinti terület;
 
-54. nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény: nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény, amely a MePAR-ban is lehatárolásra kerül;
+54.[^7] nem termelő beruházás keretében létrehozott erózióvédelmi létesítmény: nem termelő beruházás keretében létrehozott erózióvédelmi létesítmény, amely a MePAR-ban is lehatárolásra kerül;
 
-55.[^5] nem termelő terület: parlagon hagyott terület, ökológiai jelentőségű másodvetés, nitrogénmegkötő növénnyel bevetett terület;
+55.[^8] nem termelő terület: parlagon hagyott terület, ökológiai jelentőségű másodvetés, nitrogénmegkötő növénnyel bevetett terület;
 
 56. növénykultúra:
 
@@ -160,7 +160,7 @@ c) a parlagon hagyott földterület vagy
 
 d) gyep vagy egyéb takarmánynövény;
 
-56a.[^6] ökológiai célú vízpótlásra használt terület: olyan vízzel borított terület, amelyen a vízborítottságot a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet szerinti ökológiai célú vízpótlás biztosítja;
+56a.[^9] ökológiai célú vízpótlásra használt terület: olyan, ideiglenesen nem mezőgazdasági célra használt, vízzel borított mezőgazdasági terület, amelyen a vízborítottságot a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet szerinti ökológiai célú vízpótlás biztosítja;
 
 57. ökológiai határsáv: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló AM rendelet (a továbbiakban: Feltételességi rendelet) 1. § 12. pontja szerinti fogalom;
 
@@ -244,12 +244,15 @@ f) az „egyéb hasznosítás” rovatban bejelentett területi elemek;
 
 68. vízvédelmi sáv: a Feltételességi rendelet 1. § 22. pontja szerinti fogalom.
 
-69.[^7] vizenyős terület: a MEPAR rendelet 1. § 22. pontja szerint lehatárolt terület, ha a mezőgazdasági táblán található.
+69.[^10] vizenyős terület: a MEPAR rendelet 1. § 22. pontja szerint lehatárolt terület, ha a mezőgazdasági táblán található.
 
 [^1]: Az 1. § 8a. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 8b. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 16. pontja az 5/2025. (IV. 3.) AM rendelet 19. § 1. pontja szerint módosított szöveg.
-[^4]: Az 1. § 53. pontja a 33/2024. (V. 30.) AM rendelet 35. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § 55. pontja az 5/2025. (IV. 3.) AM rendelet 19. § 2. pontja szerint módosított szöveg.
-[^6]: Az 1. § 56a. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (2) bekezdése iktatta be.
-[^7]: Az 1. § 69. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^4]: Az 1. § 29. pontja a 9/2026. (III. 27.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 40. pontja a 9/2026. (III. 27.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 53. pontja a 33/2024. (V. 30.) AM rendelet 35. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 54. pontja a 9/2026. (III. 27.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 1. § 55. pontja az 5/2025. (IV. 3.) AM rendelet 19. § 2. pontja szerint módosított szöveg.
+[^9]: Az 1. § 56a. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 9/2026. (III. 27.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 1. § 69. pontját az 5/2025. (IV. 3.) AM rendelet 4. § (3) bekezdése iktatta be.
