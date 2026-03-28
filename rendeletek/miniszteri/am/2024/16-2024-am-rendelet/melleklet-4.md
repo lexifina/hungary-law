@@ -66,7 +66,7 @@
 
 | 33. | Lósóska | Önmagában is vethető vagy telepíthető takarónövénynek |
 
-| 34. | Ideiglenes gyep (kaszált) | Önmagában is vethető vagy telepíthető takarónövénynek |
+| 34.[^54] |  |  |
 
 | 35. | Zöldugar kultúra | Önmagában is vethető vagy telepíthető takarónövénynek |
 
@@ -123,3 +123,5 @@
 4. melléklet a 16/2024. (IV. 9.) AM rendelethez
 
 Vadvirágos keveréket legalább 10 százalékban alkotó vadvirág növényfajok listája
+
+[^54]: A 3. mellékletben foglalt táblázat 34. sorát a 9/2026. (III. 27.) AM rendelet 25. §-a hatályon kívül helyezte.

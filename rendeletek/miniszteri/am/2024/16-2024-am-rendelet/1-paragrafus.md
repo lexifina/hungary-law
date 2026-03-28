@@ -24,7 +24,7 @@
 
 11. nitrogénmegkötő növénnyel bevetett terület: olyan, a MePAR-ban támogathatóként megjelölt terület, amely az 1. melléklet szerinti listában felsorolt nitrogénmegkötő növény valamelyikével vagy azok keverékével vagy fajlistában szereplő nitrogénmegkötő növény és egyéb más nem nitrogénmegkötő növény keverékével van bevetve, amely keverékben a nitrogénmegkötő növény csíraszámaránya meghaladja az 50%-ot;
 
-12.[^4] ökológiai határsáv: olyan, szántó hasznosítású, legalább 100 m2 területű, táblán belül elhelyezkedő, fás vagy lágy szárú vegetációval borított, minimum három, legfeljebb húsz méter átlagos szélességgel rendelkező, jellemzően sávszerű kiterjedésű földterület, amelyet mesterséges elem legfeljebb két méter hosszan szakít meg, valamint amely a tábla művelt részével legalább harminc méter hosszan érintkezik, úgy, hogy a teljes elem kerületének kevesebb mint 30 százaléka érintkezik állandó gyepterülettel;
+12.[^4] ökológiai határsáv: olyan, legalább 100 m2 területű, táblán belül elhelyezkedő, fás vagy lágy szárú vegetációval borított, minimum három, legfeljebb húsz méter átlagos szélességgel rendelkező, jellemzően sávszerű kiterjedésű földterület, amelyet mesterséges elem legfeljebb két méter hosszan szakít meg, valamint amely a tábla művelt részével legalább harminc méter hosszan érintkezik;
 
 13. ökológiai jelentőségű másodvetés: zöldtrágya-növényként talajba forgatott vagy bedolgozott, a 2. mellékletben felsorolt legalább két növényfaj keverékeként a főnövény után vetett másodvetés;
 
@@ -55,7 +55,7 @@
 [^1]: Az 1. § 4. pontja a 33/2024. (V. 30.) AM rendelet 36. § (1) bekezdésével megállapított, az 5/2025. (IV. 3.) AM rendelet 30. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § 5. pontja az 57/2025. (XII. 22.) AM rendelet 5. §-a szerint módosított szöveg.
 [^3]: Az 1. § 8. pontját az 5/2025. (IV. 3.) AM rendelet 30. § b) pontja hatályon kívül helyezte.
-[^4]: Az 1. § 12. pontja az 5/2025. (IV. 3.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 12. pontja a 9/2026. (III. 27.) AM rendelet 16. §-ával megállapított szöveg.
 [^5]: Az 1. § 19. pontja az 5/2025. (IV. 3.) AM rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 20. pontja a 33/2024. (V. 30.) AM rendelet 39. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 25. pontja az 5/2025. (IV. 3.) AM rendelet 21. § (3) bekezdésével megállapított szöveg.

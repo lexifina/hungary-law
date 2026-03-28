@@ -8,4 +8,8 @@
 
 (4) Nem minősül a környezeti szempontból érzékeny Natura 2000 állandó gyepterület mezőgazdasági hasznosítása átalakításának, ha a természetvédelmi hatóság engedélye mellett véglegesen megszűnik annak mezőgazdasági hasznosítása és az adott terület elveszíti a Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet szerinti alaptámogatás szempontjából történő támogathatóságát.
 
+(4a)[^41] Nem minősül a gyepnemez megbontásának a természetvédelmi hatóság engedélyével történő, a gyepterület átalakításával nem járó, Közös Agrárpolitika Stratégiai Tervből finanszírozott agrárerdészeti rendszer létrehozása.
+
 (5) A (3) bekezdés szerint megállapított meg nem felelés ismétlődése a környezeti szempontból érzékeny gyep visszaállításával kerülhető el. A visszaállítási kötelezettség teljesítését a mezőgazdasági termelőnek a tárgyévet követő egységes kérelemben kell bejelentenie, megjelölve a környezeti szempontból érzékeny Natura 2000 állandó gyepterületet, amelyre teljesítette a visszaállítást.
+
+[^41]: A 37. § (4a) bekezdését a 9/2026. (III. 27.) AM rendelet 21. §-a iktatta be.

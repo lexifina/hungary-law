@@ -364,7 +364,7 @@
 
 | 182. | Meténg (egyéb) | nem |
 
-| 183. | Egyiptomi útifű (Psyllium) | nem |
+| 183.[^56] | Útifű (Plantago) | nem |
 
 | 184. | Rozmaring | nem |
 
@@ -416,13 +416,13 @@
 
 | 208. | Francia perje | nem |
 
-| 209. | Csenkeszperje | nem |
+| 209.[^57] | Csenkeszperje (Réti csenkesz x Olasz perje) | nem |
 
 | 210. | Olasz perje (szálkás perje) | nem |
 
 | 211. | Angol perje | nem |
 
-| 212. | Hibrid perje | nem |
+| 212.[^58] | Hibrid perje (Korcsvadóc) (Réti csenkesz x Angol perje) | nem |
 
 | 213. | Ligeti perje | nem |
 
@@ -456,8 +456,14 @@
 
 | 228. | Meliorációs retek | nem |
 
-6. melléklet a 16/2024. (IV. 9.) AM rendelethez[^43]
+| 229.[^59] | Szárazbab (veteménybab) | nem |
+
+6. melléklet a 16/2024. (IV. 9.) AM rendelethez[^60]
 
 A rátameghatározási segédtábla
 
-[^43]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (5) bekezdésével megállapított szöveg.
+[^56]: Az 5. mellékletben foglalt táblázat 183. sora a 9/2026. (III. 27.) AM rendelet 23. §-ával megállapított szöveg.
+[^57]: Az 5. mellékletben foglalt táblázat 209. sora a 9/2026. (III. 27.) AM rendelet 23. §-ával megállapított szöveg.
+[^58]: Az 5. mellékletben foglalt táblázat 212. sora a 9/2026. (III. 27.) AM rendelet 23. §-ával megállapított szöveg.
+[^59]: Az 5. mellékletben foglalt táblázat 229. sorát a 9/2026. (III. 27.) AM rendelet 23. §-a iktatta be.
+[^60]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (5) bekezdésével megállapított szöveg.

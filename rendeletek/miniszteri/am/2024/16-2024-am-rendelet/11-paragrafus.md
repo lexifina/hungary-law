@@ -1,6 +1,6 @@
 ## 7. Vizes élőhelyek és tőzeglápok megőrzése – HMKÁ 2. előírás
 
-11. §[^15] (1) A MePAR-ban vizes élőhelyként és tőzeglápos területként lehatárolt elem (a továbbiakban együtt: vizenyős terület) fenntartása kötelező.
+11. §[^17] (1) A MePAR-ban vizes élőhelyként és tőzeglápos területként lehatárolt elem (a továbbiakban együtt: vizenyős terület) fenntartása kötelező.
 
 (2) Vizenyős területként lehatárolt elem területén tilos
 
@@ -16,4 +16,26 @@ b) az ott található vizet és talajnedvességet levezetni.
 
 (6) Állandó gyepterületen található, vizenyős területként lehatárolt elem szántóterületté történő átalakítása tilos.
 
-[^15]: A 11. § az 5/2025. (IV. 3.) AM rendelet 24. §-ával megállapított szöveg.
+(7)[^18] Ha a mezőgazdasági termelő a tárgyévi MePAR fedvénybe vizenyős területként az előző évhez képest újonnan lehatárolásra került területen a tárgyévi egységes kérelem benyújtására nyitva álló időszak kezdetéig olyan mezőgazdasági tevékenységet végez, amellyel a HMKÁ 2. előírás megsértésre kerül, a KAP II rendelet 59. cikk (5) bekezdés c) pontjában foglaltak szerint kell eljárni.
+
+(8)[^19] A (7) bekezdés szerint kell eljárni a Közös Agrárpolitika Stratégiai Tervből finanszírozott, alább felsorolt kódszámú és megnevezésű beruházási támogatásokra vonatkozó támogatási döntés véglegessé válása és a beruházás megvalósítása között a MePAR-ban vizenyős területként lehatárolt terület változása esetén is:
+
+a) KAP-RD21-RD22-2-25 – Természetközeli és vizes élőhelyek kialakítását elősegítő beruházások és azok fenntartása,
+
+b) KAP-RD21-RD22-1-25 – Agrár-erdészeti rendszerek telepítése, ápolása és fenntartása,
+
+c) KAP-RD01a-RD12-1-24 – Kertészet – ültetvénytelepítés és gyógynövénytermesztés támogatása,
+
+d) KAP-RD01a-RD12-2-25 – Fagykárt szenvedett ültetvények cseréjének támogatása,
+
+e) KAP-RD05-RD01b-1-25 – Fiatal mezőgazdasági termelők elindulásának és beruházásainak támogatása,
+
+f) KAP-RD09a-1-24 – Mezőgazdasági kisüzemek beruházási támogatása,
+
+g) KAP-RD09a-2-26 – Mezőgazdasági kisüzemek beruházási támogatása, valamint
+
+h) KAP-RD21-RD22-1-26 – Agrár-erdészeti rendszerek telepítése, ápolása és fenntartása.
+
+[^17]: A 11. § az 5/2025. (IV. 3.) AM rendelet 24. §-ával megállapított szöveg.
+[^18]: A 11. § (7) bekezdését a 9/2026. (III. 27.) AM rendelet 19. §-a iktatta be.
+[^19]: A 11. § (8) bekezdését a 9/2026. (III. 27.) AM rendelet 19. §-a iktatta be.

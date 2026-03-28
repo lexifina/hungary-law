@@ -10,8 +10,8 @@
 
 5. az (EU) 2021/2115 európai parlamenti és tanácsi rendelettől a földterület jó mezőgazdasági és környezeti állapotára vonatkozó 8. sz. előírás (8. sz. GAEC-előírás) alkalmazása, az EMGA-hozzájárulásban részesülő kiadások támogathatósági időpontja, valamint a KAP stratégiai tervek egyes agrár-ökológiai programok módosítása céljából történő módosításának szabályai tekintetében a 2024. igénylési évre biztosított eltérésről szóló, 2024. február 12-i (EU) 2024/587 végrehajtási rendelet
 
-6.[^32] az (EU) 2021/2115 és az (EU) 2021/2116 rendeletnek a jó mezőgazdasági és környezeti állapotra vonatkozó előírások, az éghajlat-politikai, környezetvédelmi és állatjóléti rendszerek, a KAP stratégiai tervek módosítása, a KAP stratégiai tervek felülvizsgálata, valamint az ellenőrzések és szankciók alóli mentességek tekintetében történő módosításáról szóló, 2024. május 14-ei (EU) 2024/1468 európai parlamenti és tanácsi rendelet
+6.[^42] az (EU) 2021/2115 és az (EU) 2021/2116 rendeletnek a jó mezőgazdasági és környezeti állapotra vonatkozó előírások, az éghajlat-politikai, környezetvédelmi és állatjóléti rendszerek, a KAP stratégiai tervek módosítása, a KAP stratégiai tervek felülvizsgálata, valamint az ellenőrzések és szankciók alóli mentességek tekintetében történő módosításáról szóló, 2024. május 14-ei (EU) 2024/1468 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^32]: A 42. § 6. pontját a 36/2024. (VI. 28.) AM rendelet 8. §-a iktatta be.
+[^42]: A 42. § 6. pontját a 36/2024. (VI. 28.) AM rendelet 8. §-a iktatta be.

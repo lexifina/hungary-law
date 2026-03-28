@@ -36,4 +36,6 @@ b) a gazdálkodási napló tartalmával nem tudja minden kétséget kizáróan i
 
 c) gazdálkodási napló tartalmával nem tudja minden kétséget kizáróan igazolni, hogy a pihentetési időszakban betartotta a parlagon hagyott terület teljes egészén a (8) bekezdés szerinti növényvédő szer és csávázószer- mentességi előírást.
 
-(12) Az öt évnél hosszabb ideig a HMKÁ 8. előírás keretében parlagon hagyott területként elszámolt területet továbbra is szántóterületnek kell tekinteni.
+(12)[^36] Az öt évnél hosszabb ideig a HMKÁ 8. szerinti parlagon hagyott területet továbbra is szántóterületnek kell tekinteni.
+
+[^36]: A 25. § (12) bekezdése a 9/2026. (III. 27.) AM rendelet 24. § b) pontja szerint módosított szöveg.

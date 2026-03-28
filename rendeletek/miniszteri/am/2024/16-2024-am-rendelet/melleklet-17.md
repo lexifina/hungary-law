@@ -72,15 +72,15 @@
 
 | 32. | fa, bokor vagy sövény márc. 1. és aug. 31. között metszésre vagy csonkításra került | Közepes (3) | Gazdaságon belüli vagy kismértékű (1) | Hosszú távon helyrehozható (3) |
 
-| 33.[^62] | HMKÁ 9. Natura 2000 területeken állandó gyepterületek átállításának vagy felszántásának tilalma | Natura 2000 jelölésű területen a mezőgazdasági termelő feltörte, vagy más hasznosításúvá állította át a gyepterületének legalább 3%-át | Súlyos (5) | Gazdaságon kívüli vagy nagymértékű (5) | Hosszú távon helyrehozható (3) |
+| 33.[^79] | HMKÁ 9. Natura 2000 területeken állandó gyepterületek átállításának vagy felszántásának tilalma | Natura 2000 jelölésű területen a mezőgazdasági termelő feltörte, vagy más hasznosításúvá állította át a gyepterületének legalább 3%-át | Súlyos (5) | Gazdaságon kívüli vagy nagymértékű (5) | Hosszú távon helyrehozható (3) |
 
-| 34.[^63] | Natura 2000 jelölésű területen a mezőgazdasági termelő feltörte, vagy más hasznosításúvá állította át a gyepterületének kevesebb mint 3%-át | Közepes (3) | Gazdaságon belüli vagy kismértékű (1) | Rövid távon helyrehozható (1) |
+| 34.[^80] | Natura 2000 jelölésű területen a mezőgazdasági termelő feltörte, vagy más hasznosításúvá állította át a gyepterületének kevesebb mint 3%-át | Közepes (3) | Gazdaságon belüli vagy kismértékű (1) | Rövid távon helyrehozható (1) |
 
 17. melléklet a 16/2024. (IV. 9.) AM rendelethez
 
 A támogatáscsökkentés számítási alapjai
 
-1.[^64] Az egyes meg nem felelések 7–16. mellékletek szerinti értékelése alapján a következő besorolást kell elvégezni:
+1.[^81] Az egyes meg nem felelések 7–16. mellékletek szerinti értékelése alapján a következő besorolást kell elvégezni:
 
 |  | A | B | C |
 
@@ -90,7 +90,7 @@ A támogatáscsökkentés számítási alapjai
 
 | 3. | 0 | 1 | 3 | 5 | 6 | 1 | 5 | 1 | 3 | 5 |
 
-2.[^65] Az adott gondatlannak minősülő meg nem felelés esetében a támogatáscsökkentést az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, a „3” besorolási érték a súlyosságot és a tartósságot, a „6” csak a súlyosságot jelentheti.
+2.[^82] Az adott gondatlannak minősülő meg nem felelés esetében a támogatáscsökkentést az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, a „3” besorolási érték a súlyosságot és a tartósságot, a „6” csak a súlyosságot jelentheti.
 
 |  | A | B |
 
@@ -118,7 +118,7 @@ A támogatáscsökkentés számítási alapjai
 
 | 12. | 6 | 5 | 5 | 7% |
 
-3.[^66] Az adott szándékosnak minősülő meg nem felelés esetében a támogatáscsökkentést az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, a „3” besorolási érték a súlyosságot és a tartósságot, a „6” csak a súlyosságot jelentheti.
+3.[^83] Az adott szándékosnak minősülő meg nem felelés esetében a támogatáscsökkentést az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, a „3” besorolási érték a súlyosságot és a tartósságot, a „6” csak a súlyosságot jelentheti.
 
 |  | A | B |
 
@@ -144,8 +144,8 @@ A támogatáscsökkentés számítási alapjai
 
 | 11. | 6 | 5 | 5 | 100% |
 
-[^62]: A 16. mellékletben foglalt táblázat 33. sora az 57/2025. (XII. 22.) AM rendelet 4. §-ával megállapított szöveg.
-[^63]: A 16. mellékletben foglalt táblázat 34. sora az 57/2025. (XII. 22.) AM rendelet 4. §-a iktatta be.
-[^64]: A 17. melléklet 1. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
-[^65]: A 17. melléklet 2. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
-[^66]: A 17. melléklet 3. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
+[^79]: A 16. mellékletben foglalt táblázat 33. sora az 57/2025. (XII. 22.) AM rendelet 4. §-ával megállapított szöveg.
+[^80]: A 16. mellékletben foglalt táblázat 34. sora az 57/2025. (XII. 22.) AM rendelet 4. §-a iktatta be.
+[^81]: A 17. melléklet 1. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
+[^82]: A 17. melléklet 2. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
+[^83]: A 17. melléklet 3. pontja az 5/2025. (IV. 3.) AM rendelet 28. § (14) bekezdése szerint módosított szöveg.
