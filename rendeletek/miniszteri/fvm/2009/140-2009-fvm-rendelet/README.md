@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-140-20-
 | 2014-03-15 | 2009-140-20-82.5 | 22/2014. (III. 14.) VM rendelet |
 | 2017-01-01 | 2009-140-20-82.6 | 88/2016. (XII. 29.) FM rendelet |
 | 2023-01-01 | 2009-140-20-82.7 | 88/2016. (XII. 29.) FM rendelet |
+| 2026-03-28 | 2009-140-20-82.8 | 10/2026. (III. 27.) AM rendelet |

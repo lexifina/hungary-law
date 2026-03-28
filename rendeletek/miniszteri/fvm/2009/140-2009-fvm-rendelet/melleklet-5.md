@@ -72,11 +72,11 @@ d) A kérelem benyújtásának időszakában az ingatlan az üzemeltető saját 
 
 e)[^56] A hatósági szerződés megkötéséhez az alábbi dokumentumokat mellékeli (amennyiben az a Kincstárnál nem áll rendelkezésre):
 
-ea) gazdasági társaság esetében 30 napnál nem régebbi keltezésű cégkivonatot vagy annak másolatát, egyéni vállalkozók esetében a vállalkozói igazolvány másolatát;
+ea)[^57]
 
 eb) az ingatlan 30 napnál nem régebbi tulajdoni lapjának másolatát;
 
-ec)[^57] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
+ec)[^58] a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz történő bejelentkezést igazoló dokumentumot arról, hogy a raktár üzemeltetőjét élelmiszerként és takarmányként felhasználni kívánt mezőgazdasági termény tárolása céljából a 2008. évi XLVI. törvény rendelkezései szerint élelmiszeripari és takarmányipari vállalkozóként nyilvántartásba vették;
 
 ed) a részvételi kérelmet aláíró cégképviseletre jogosult személy aláírási címpéldányának másolati példányát;
 
@@ -92,7 +92,7 @@ f) Az üzemeltető vállalkozás utolsó két évre vonatkozó beszámolói alap
 
 g) Nem rendelkezik a kérelem benyújtását megelőző három naptári éven belül kötött azonnali hatályú felmondással megszüntetett intervenciós raktárszerződéssel.
 
-h)[^58] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+h)[^59] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
 
 II. Raktár túlkínálat esetén a kiválasztás során előnyt jelent, ha:
 
@@ -119,5 +119,6 @@ j) a hídmérleg a telepen belül saját tulajdonban van.
 [^54]: Az 5. számú mellékletet a 100/2011. (XI. 5.) VM rendelet 9. § (3) bekezdése iktatta be.
 [^55]: Az 5. számú melléklet I. rész c) pontja a 88/2016. (XII. 29.) FM rendelet 40. § g) pontja szerint módosított szöveg.
 [^56]: Az 5. számú melléklet I. rész e) pont nyitó szövgerésze a 88/2016. (XII. 29.) FM rendelet 40. § n) pontja szerint módosított szöveg.
-[^57]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
-[^58]: Az 5. számú melléklet I. fejezet h) pontját a 22/2014. (III. 14.) VM rendelet 72. § (1) bekezdése iktatta be.
+[^57]: Az 5. számú melléklet I. pont e) alpont ea) pontját a 10/2026. (III. 27.) AM rendelet 2. §-a hatályon kívül helyezte.
+[^58]: Az 5. melléklet I. cím e) pont ec) alpontja a 151/2012. (XII. 29.) VM rendelet 36. §-a szerint módosított szöveg.
+[^59]: Az 5. számú melléklet I. fejezet h) pontját a 22/2014. (III. 14.) VM rendelet 72. § (1) bekezdése iktatta be.
