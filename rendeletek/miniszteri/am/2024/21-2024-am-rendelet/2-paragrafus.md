@@ -28,6 +28,8 @@ ba) arról, hogy milyen gazdálkodási formában folytatja a mezőgazdasági tev
 
 bb) jogi személyként történő igénylés esetén arról, hogy az igénylő a mezőgazdasági üzem vezetője, és ezen tevékenysége során tényleges és hosszú távú ellenőrzést gyakorol.
 
+(5a)[^1] Az (5) bekezdés a) pont ac) alpontja szerinti feltétel vonatkozásában külföldi bizonyítvány esetében a bizonyítvány kiállításának dátumát kell figyelembe venni.
+
 (6) Gyakorlati tevékenység esetében a kérelembeadási időszak első napjához viszonyítva visszamenőleg számítva összesen – egybefüggően vagy több részletben, akár megszakításokkal – 730 foglalkoztatásban, teljes munkaidőben töltött napot vagy azzal legalább megegyező foglalkoztatásban töltött időt kell igazolni.
 
 (7) A teljes munkaidőtől eltérő foglalkoztatás esetében a foglalkoztatásban töltött időtartamot teljes munkaidőben történő foglalkoztatásra kell átszámítani.
@@ -44,6 +46,12 @@ b) a mezőgazdasági őstermelő élelmiszerláncról és hatósági ellenőrzé
 
 c) az igénylő nevét, születési idejét, anyja nevét, lakcímét, társadalombiztosítási azonosító jelét, munkakörét, a munkavégzés kezdeti és szükség szerint végső napját, a napi munkaórák számát, továbbá a munkavégzés helyét.
 
+(10a)[^2] Ha a (10) bekezdés szerinti igazolás kiállítására jogosult őstermelők családi gazdaságának képviselője elhunyt, akkor a kedvezményezett részére a gyakorlati időszakot
+
+a) az őstermelők családi gazdaságának az igazolás kiállításának időpontjában képviselői tisztségét betöltő személy igazolja le, vagy
+
+b) ha az a) pont szerinti személy a kedvezményezett, akkor a (10) bekezdés c) pontja szerinti nyilatkozat mellett szükséges csatolni valamennyi, a gyakorlati időszak alatt érvényes őstermelők családi gazdaságáról, illetve családi gazdaságról szóló szerződés másolatát.
+
 (11) Az igazolás akkor fogadható el, ha a kiállító az igazolt időszak teljes időtartamára vonatkozóan olyan
 
 a) gazdasági társaságnak vagy szövetkezetnek minősül, amelynek az igazolást kiállító Tevékenységek Egységes Ágazati Osztályozási Rendszere szerinti tevékenysége a 2. mellékletben, vagy
@@ -54,8 +62,10 @@ felsoroltak közé tartozik.
 
 (12) Az (5) bekezdés a) pont ac) alpontja szerinti feltételt igazoló dokumentumot csak a támogatás első alkalommal történő igénylésének évében szükséges benyújtani.
 
-(13)[^1] Ha az igénylő olyan szakmai végzettséget igazol az egységes kérelem benyújtásakor, amely nem szerepel az 1. melléklet szerinti végzettségek között, akkor az 1. melléklet szerinti valamely végzettséggel való egyenértékűségről a Nemzeti Irányító Hatóság a Kincstár megkeresésére állásfoglalást ad ki.
+(13)[^3] Ha az igénylő olyan szakmai végzettséget igazol az egységes kérelem benyújtásakor, amely nem szerepel az 1. melléklet szerinti végzettségek között, akkor az 1. melléklet szerinti valamely végzettséggel való egyenértékűségről a Nemzeti Irányító Hatóság a Kincstár megkeresésére állásfoglalást ad ki.
 
 (14) A Kincstár a (10) bekezdés szerinti igazolás adattartalmának az ellenőrzése során jogosult megkeresni a Nemzeti Egészségbiztosítási Alapkezelőt és a Nemzeti Adó- és Vámhivatalt.
 
-[^1]: A 2. § (13) bekezdése az 5/2025. (IV. 3.) AM rendelet 62. §-ával megállapított szöveg.
+[^1]: A 2. § (5a) bekezdését a 9/2026. (III. 27.) AM rendelet 45. § (1) bekezdése iktatta be.
+[^2]: A 2. § (10a) bekezdését a 9/2026. (III. 27.) AM rendelet 45. § (2) bekezdése iktatta be.
+[^3]: A 2. § (13) bekezdése az 5/2025. (IV. 3.) AM rendelet 62. §-ával megállapított szöveg.

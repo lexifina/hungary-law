@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti tevékenység megkezdése időpontjának a 2. § (5) bekezdés a) pont ab) alpontja szerinti nyilatkozat szerinti dátum vagy az alábbi időpontok közül a legkorábbi minősül:
 
-a)[^6] az önálló őstermelői tevékenység nyilvántartásba vételének dátuma, feltéve, hogy nyilvántartásba vett tevékenysége az Egységes kérelem rendelet 1. § 46. pont a) alpontja szerinti mezőgazdasági tevékenység,
+a)[^9] az önálló őstermelői tevékenység nyilvántartásba vételének dátuma, feltéve, hogy nyilvántartásba vett tevékenysége az Egységes kérelem rendelet 1. § 46. pont a) alpontja szerinti mezőgazdasági tevékenység,
 
 b) az az időpont, amikor az egyéni vállalkozóként folytatott tevékenység esetében a 3. melléklet szerinti tevékenységek egyike bejegyzésre került fő- vagy melléktevékenységként,
 
@@ -10,7 +10,7 @@ c) jogi személyek esetében a létesítő okirat elfogadásának időpontja, am
 
 d) tevékenységét őstermelők családi gazdaságának (a továbbiakban: ŐCSG) tagjaként megkezdő őstermelő esetében
 
-da)[^7] az ŐCSG képviselőjévé válás időpontja, feltéve, hogy nyilvántartásba vett tevékenysége az Egységes kérelem rendelet 1. § 46. pont a) alpontja szerinti mezőgazdasági tevékenység, vagy
+da)[^10] az ŐCSG képviselőjévé válás időpontja, feltéve, hogy nyilvántartásba vett tevékenysége az Egységes kérelem rendelet 1. § 46. pont a) alpontja szerinti mezőgazdasági tevékenység, vagy
 
 db) az az időpont, amikor az ŐCSG-ben a cselekvőképes őstermelő személyes közreműködésként, önálló gazdasági döntése alapján az ŐCSG tagjainak közreműködésével olyan mezőgazdasági tevékenység végzését kezdte meg, amelynek részben vagy egészben kockázatait viseli, hasznát élvezi, és így mezőgazdasági üzem vezetőjének tekinthető, vagy
 
@@ -24,5 +24,5 @@ e) ha mezőgazdasági tevékenység végzése tekintetében bármilyen támogat�
 
 (6) Ha a Kincstár a (2) bekezdés szerinti esetekben nem tudja minden kétséget kizáróan megállapítani a mezőgazdasági termelő mezőgazdasági tevékenysége megkezdésének időpontját, akkor a 2. § (5) bekezdés a) pont ab) alpontja szerinti nyilatkozatban foglalt időpontot kell a mezőgazdasági tevékenység megkezdésének tekinteni.
 
-[^6]: A 6. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja, az 5/2025. (IV. 3.) AM rendelet 66. § c) pontja szerint módosított szöveg.
-[^7]: A 6. § (2) bekezdés d) pont da) alpontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja, az 5/2025. (IV. 3.) AM rendelet 66. § d) pontja szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja, az 5/2025. (IV. 3.) AM rendelet 66. § c) pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdés d) pont da) alpontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja, az 5/2025. (IV. 3.) AM rendelet 66. § d) pontja szerint módosított szöveg.
