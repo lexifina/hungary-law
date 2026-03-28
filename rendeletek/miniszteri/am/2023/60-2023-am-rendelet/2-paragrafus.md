@@ -90,6 +90,8 @@ az általa üzemeltetett gazdaságban nevelt;
 
 37. sokkolóhűtő: a 2009/125/EK európai parlamenti és tanácsi irányelvnek a professzionális hűtőbútorok, sokkolóhűtők, kondenzációs egységek és technológiai hűtők környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2015. május 5-i (EU) 2015/1095 bizottsági rendelet 2. cikk (1) bekezdés b) pontja szerinti hűtőkészülék;
 
+37a.[^1] szálláshely-szolgáltató: a Kertv. 2. § 23. pontja szerinti tevékenységet végző természetes személy vagy gazdálkodó szervezet;
+
 38. számosállat-egység: az állatok leölésük során való védelméről szóló, 2009. szeptember 24-i 1099/2009/EK tanácsi rendelet (a továbbiakban: 1099/2009/EK tanácsi rendelet) 17. cikk (6) bekezdés második és harmadik albekezdésében meghatározott olyan szabványos mértékegység, amely összehasonlítás céljából lehetővé teszi a különböző kategóriákba tartozó állatfajok összevonását;
 
 39. tenyésztett vad: a 853/2004/EK európai parlamenti és tanácsi rendelet I. melléklet 1.6. pontja szerinti fogalom;
@@ -109,3 +111,5 @@ a) vendéglátó-ipari létesítmény vagy
 b) olyan kiskereskedelmi létesítmény, amelyben kizárólag a végső fogyasztónak értékesítenek állati eredetű élelmiszert;
 
 45. vizsgálatot végző személy: a vadhúsvizsgáló, a hatósági állatorvos és a jogosult állatorvos.
+
+[^1]: A 2. § 37a. pontját a 10/2026. (III. 27.) AM rendelet 9. §-a iktatta be.

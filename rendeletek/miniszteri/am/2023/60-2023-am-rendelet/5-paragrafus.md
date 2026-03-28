@@ -12,7 +12,7 @@ ad) átadóponton és
 
 ae) automatából, a baromfi és nyúlféle húsa, valamint a hal kivételével, továbbá
 
-b) kiskereskedelmi és vendéglátó-ipari létesítménynek
+b)[^2] kiskereskedelmi és vendéglátó-ipari létesítménynek, valamint szálláshely-szolgáltatónak
 
 értékesítheti.
 
@@ -52,4 +52,10 @@ b) jogi személy, a működtetésében jogszerűen személyesen közreműködő 
 
 (8) A kistermelői élelmiszereket a szállítás, tárolás és értékesítés során megfelelő hőmérsékleten, szennyeződéstől védve kell tartani.
 
-(9) Kiskereskedelmi és vendéglátó-ipari létesítmény kistermelői élelmiszert kizárólag a végső fogyasztó részére értékesíthet.
+(9)[^3] Kiskereskedelmi és vendéglátó-ipari létesítmény, valamint szálláshely-szolgáltató kistermelői élelmiszert kizárólag a végső fogyasztó részére értékesíthet.
+
+(10)[^4] Szálláshely-szolgáltató részére a kistermelő az általa előállított élelmiszert csak előrecsomagoltan értékesítheti.
+
+[^2]: Az 5. § (1) bekezdés b) pontja a 10/2026. (III. 27.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (9) bekezdése a 10/2026. (III. 27.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (10) bekezdését a 10/2026. (III. 27.) AM rendelet 10. § (2) bekezdése iktatta be.
