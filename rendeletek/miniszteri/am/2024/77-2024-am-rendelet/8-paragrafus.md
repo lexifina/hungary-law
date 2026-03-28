@@ -16,8 +16,14 @@ e) nincs lejárt köztartozása.
 
 a) a 2. § (2) bekezdés a) pontja szerinti szolgáltatásokra vonatkozó kifizetési kérelmét tárgyév január 15. napjától március 10. napjáig,
 
-b) a 2. § (2) bekezdés b) és c) pontja szerinti – a tárgyévet megelőző év július 1. napjától a tárgyév június 30. napjáig elvégzett – szolgáltatásokra vonatkozó kifizetési kérelmét a tárgyév július 1. napjától július 31. napjáig
+b)[^1] a 2. § (2) bekezdés b) és c) pontja szerinti,
+
+ba) a tárgyévet megelőző év július 1. napjától a tárgyévet megelőző év december 31. napjáig elvégzett szolgáltatásokra vonatkozó kifizetési kérelmét a tárgyév március 20. napjától április 1. napjáig,
+
+bb) a tárgyév január 1. napjától a tárgyév június 30. napjáig elvégzett szolgáltatásokra vonatkozó kifizetési kérelmét a tárgyév július 1. napjától július 31. napjáig
 
 évente egy alkalommal a Nemzeti Irányító Hatóság nevében közreműködő szervként, valamint Nemzeti Kifizető Ügynökségként eljáró Magyar Államkincstárhoz (a továbbiakban: Kincstár), a Kincstár által rendszeresített és honlapján közzétett nyomtatványon nyújthatja be.
 
 (3) A (2) bekezdésben megállapított benyújtási határidőkön túl, az adott tevékenység elvégzésének igazolása érdekében benyújtott kérelmek esetében a hatósági bizonyítvány kiadását a NÉBIH megtagadja.
+
+[^1]: A 8. § (2) bekezdés b) pontja a 11/2026. (III. 27.) AM rendelet 1. §-ával megállapított szöveg.
