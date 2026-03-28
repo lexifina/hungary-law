@@ -4,10 +4,10 @@
 
 (2) A rendelet hatálybalépésekor és azt követően a fennálló üzemeltetési szerződés mindaddig hatályban marad, amíg a vízhasználók minimum 51%-a vagy az igazgatóság kezdeményezésére kiírt pályázatot követően új üzemeltetési szerződést kötnek.
 
-(2a)[^29] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^30] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
+(2a)[^30] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^31] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
 
-(3)[^31]
+(3)[^32]
 
-[^29]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
-[^30]: A hatálybalépés időpontja 2012. december 8.
-[^31]: A 11. § (3) bekezdését a 36/2018. (XII. 21.) BM rendelet 1. § (7) bekezdés c) pontja hatályon kívül helyezte.
+[^30]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
+[^31]: A hatálybalépés időpontja 2012. december 8.
+[^32]: A 11. § (3) bekezdését a 36/2018. (XII. 21.) BM rendelet 1. § (7) bekezdés c) pontja hatályon kívül helyezte.
