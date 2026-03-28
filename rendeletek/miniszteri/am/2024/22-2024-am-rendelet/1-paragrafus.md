@@ -22,7 +22,7 @@ a) poligonokból álló térinformatikai fedvényként a földrészlethatárokat
 
 b) pontokból álló térinformatikai fedvényként a földrészletek egy belső pontját, a földrészletek helyrajzi számát, településkódját, valamint a belső pontok egységes országos vetületi rendszerű koordinátáját;
 
-8. kis vizes élőhely: az a szántó vagy gyep mezőgazdasági hasznosítású táblán található, nem termelő tájképi elem, amely
+8.[^2] kis vizes élőhely: az a mezőgazdasági hasznosítású táblán található, nem termelő vagy egyéb tájképi elem, amely
 
 a) vízborítottsággal rendelkezik, vagy vízjárta terület, vagy vízvisszatartásra használják,
 
@@ -34,9 +34,9 @@ d) üde lágyszárú növényzet, illetve part menti vegetációra jellemző nö
 
 e) minimum 5000 négyzetméter területű;
 
-9.[^2] környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 9. pontja szerinti terület;
+9.[^3] környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 9. pontja szerinti terület;
 
-10.[^3]
+10.[^4]
 
 11. nagyon nagy felbontású űrfelvétel: a földfelszínt 1,5 méter felbontásnál finomabban ábrázoló űrfelvétel;
 
@@ -50,7 +50,7 @@ c) az ingatlan-nyilvántartási jogszabályok szerinti, a honvédelemért felel�
 
 d) távvezeték tartóelemei alatti terület, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 13. § (1) bekezdés g) pontja szerinti erdészeti nyiladékok,
 
-e)[^4] szórakozási vagy szabadidős tevékenységre használt területek – különösen golfpálya, futballpálya, lovas akadálypálya, növénylabirintus, park, rendezvényközpont, szabadtéri rendezvényre szolgáló terület – valamint a kastélyparkok fás-bokros területei,
+e)[^5] szórakozási vagy szabadidős tevékenységre használt területek – különösen golfpálya, futballpálya, lovas akadálypálya, növénylabirintus, park, rendezvényközpont, szabadtéri rendezvényre szolgáló terület – valamint a kastélyparkok fás-bokros területei,
 
 f) halas- és horgásztó, lőtér, valamint ezek rendeltetésszerű használatát biztosító területek,
 
@@ -58,7 +58,7 @@ g) állandó trágyalerakók területe,
 
 h) karácsonyfa-ültetvények;
 
-i)[^5] lakóházhoz vagy gazdasági épülethez tartozó, mezőgazdasági célra nem használt udvar, kert;
+i)[^6] lakóházhoz vagy gazdasági épülethez tartozó, mezőgazdasági célra nem használt udvar, kert;
 
 13. nem termelő tájképi elem: az Egységes kérelem rendelet 5. § (2) bekezdés c) pontja szerinti tájképi elem;
 
@@ -78,7 +78,7 @@ i)[^5] lakóházhoz vagy gazdasági épülethez tartozó, mezőgazdasági célra
 
 21. védett tájképi elem: az Egységes kérelem rendelet 1. § 67. pontja szerinti tájképi elem.
 
-22.[^6] vizenyős terület: olyan HMKÁ 2. előírás keretében védett szántó vagy gyep mezőgazdasági hasznosítású területen vagy annak mentén elhelyezkedő vizes élőhely vagy átlagosnál magasabb széntartalommal rendelkező területű táblán található, amely
+22.[^7] vizenyős terület: olyan HMKÁ 2. előírás keretében védett szántó vagy gyep mezőgazdasági hasznosítású területen vagy annak mentén elhelyezkedő vizes élőhely vagy átlagosnál magasabb széntartalommal rendelkező területű táblán található, amely
 
 a) talaját tekintve jellemzően tartósan vízzel telített, vagy vízjárta, víz által meghatározott talaj vagy növénytársulás jellemzi,
 
@@ -89,8 +89,9 @@ c) minimum 1000 négyzetméter területű, és
 d) a víz meghatározta, jellemzően mezőgazdaságilag nem hasznosított földterület kerületének több mint 70%-a mezőgazdasági területtel érintkezik, vagy a leghosszabban érintkező kerületi szakasza meghaladja a nem művelt elem kerületének 50%-át.
 
 [^1]: Az 1. § 1a. pontját a 72/2024. (XII. 20.) AM rendelet 1. § (1) bekezdése iktatta be.
-[^2]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.
-[^3]: Az 1. § 10. pontját a 72/2024. (XII. 20.) AM rendelet 6. §-a hatályon kívül helyezte.
-[^4]: Az 1. § 12. pont e) alpontja a 72/2024. (XII. 20.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 12. pont i) alpontját a 72/2024. (XII. 20.) AM rendelet 1. § (3) bekezdése iktatta be.
-[^6]: Az 1. § 22. pontját a 72/2024. (XII. 20.) AM rendelet 1. § (4) bekezdése iktatta be.
+[^2]: Az 1. § 8. pontja a 9/2026. (III. 27.) AM rendelet 48. §-ával megállapított szöveg.
+[^3]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.
+[^4]: Az 1. § 10. pontját a 72/2024. (XII. 20.) AM rendelet 6. §-a hatályon kívül helyezte.
+[^5]: Az 1. § 12. pont e) alpontja a 72/2024. (XII. 20.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 12. pont i) alpontját a 72/2024. (XII. 20.) AM rendelet 1. § (3) bekezdése iktatta be.
+[^7]: Az 1. § 22. pontját a 72/2024. (XII. 20.) AM rendelet 1. § (4) bekezdése iktatta be.

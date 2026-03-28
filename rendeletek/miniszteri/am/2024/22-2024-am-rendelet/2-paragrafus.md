@@ -6,10 +6,10 @@ b) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vi
 
 meghatározott egyes intézkedésekkel összefüggő eljárások kizárólagos, országos földrajzi azonosító és térinformatikai rendszere, valamint annak adatbázisa.
 
-(2)[^7] A földterület-azonosítás hivatkozási alapja a fizikai blokk. A bejelentett táblát a fizikai blokkon belül kell meghatározni.
+(2)[^8] A földterület-azonosítás hivatkozási alapja a fizikai blokk. A bejelentett táblát a fizikai blokkon belül kell meghatározni.
 
 (3) A MePAR fizikai blokkrendszer térképi megjelenítésének képi háttere az ortofotó vagy a nagyon nagy felbontású űrfelvétel.
 
 (4) A MePAR térinformatikai rendszerének térképi alapját az Egységes Országos Vetületi Rendszerben kell elkészíteni és aktualizálni.
 
-[^7]: A 2. § (2) bekezdése a 72/2024. (XII. 20.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése a 72/2024. (XII. 20.) AM rendelet 5. § a) pontja szerint módosított szöveg.
