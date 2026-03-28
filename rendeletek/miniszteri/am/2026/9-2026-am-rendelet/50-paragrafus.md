@@ -1,0 +1,3 @@
+## 9. A Közös Agrárpolitikából és a nemzeti költségvetésből finanszírozott intézkedésekkel összefüggő elháríthatatlan külső ok (vis maior) esetén alkalmazott eljárásról szóló 23/2024. (IV. 9.) AM rendelet módosítása
+
+50. § A Közös Agrárpolitikából és a nemzeti költségvetésből finanszírozott intézkedésekkel összefüggő elháríthatatlan külső ok (vis maior) esetén alkalmazott eljárásról szóló 23/2024. (IV. 9.) AM rendelet 5. § (4) bekezdés b) pontjában a „halotti anyakönyvi kivonat vagy a hagyatékátadó végzés jogerőre emelkedésétől” szövegrész helyébe a „halotti anyakönyvi kivonat kézhezvételétől vagy a hagyatékátadó végzés jogerőre emelkedésétől” szöveg lép.
