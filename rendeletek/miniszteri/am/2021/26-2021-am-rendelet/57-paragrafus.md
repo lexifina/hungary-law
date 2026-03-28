@@ -6,11 +6,7 @@
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás tartalmazza
 
-a) nem természetes személy adatszolgáltató esetén
-
-aa) az adatszolgáltató gazdálkodó szervezet képviseletére jogosult személy(ek) eredeti aláírási címpéldányát vagy aláírási mintáját és
-
-ab) a gazdálkodó szervezet bejegyzését igazoló hatályos dokumentum másolati példányát;
+a)[^45] nem természetes személy adatszolgáltató esetén – a (2a) bekezdésben foglaltak kivételével – az adatszolgáltató gazdálkodó szervezet képviseletére jogosult személy vagy személyek eredeti aláírási címpéldányát vagy aláírásmintáját;
 
 b) természetes személy adatszolgáltató esetén
 
@@ -25,3 +21,8 @@ c) a benyújtás célját és indoklását;
 d) termelői csoporti tagság esetén a tagságot igazoló dokumentum másolati példányát; valamint
 
 e) az adatszolgáltatással érintett ültetvény használójának módosítása esetén annak igazolását, hogy az adatszolgáltató a földterület használatára jogosult.
+
+(2a)[^46] Ha az adatszolgáltató cégjegyzékben nyilvántartott cég, és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta, továbbá ezt a tényt a cégjegyzék tartalmazza, a hegybíró az iratot a cégnyilvántartásból elektronikus úton hivatalból szerzi be.
+
+[^45]: Az 57. § (2) bekezdés a) pontja a 10/2026. (III. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 57. § (2a) bekezdését a 10/2026. (III. 27.) AM rendelet 8. § (2) bekezdése iktatta be.

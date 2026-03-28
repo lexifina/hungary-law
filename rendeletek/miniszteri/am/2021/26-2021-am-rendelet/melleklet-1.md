@@ -12,7 +12,7 @@ A borrégiók és borvidékek lehatárolása
 
 1.4. Pannonhalmi borvidék: a Pannonhalma oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések összessége.
 
-1.5.[^59] Soproni borvidék: a Kőszeg oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések és a Sopron/Ödenburg oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések összessége.
+1.5.[^61] Soproni borvidék: a Kőszeg oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések és a Sopron/Ödenburg oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések összessége.
 
 2. Balaton borrégió:
 
@@ -54,9 +54,9 @@ A borrégiók és borvidékek lehatárolása
 
 5.3. Mátrai borvidék: a Mátra oltalom alatt álló eredetmegjelölés termékleírásának IV. „Körülhatárolt terület” fejezetében felsorolt települések összessége.
 
-6.[^60] Tokaji borrégió:
+6.[^62] Tokaji borrégió:
 
 6.1. Tokaji borvidék: a Btv. 17. § (1) bekezdésében felsorolt települések összessége.
 
-[^59]: Az 1. melléklet 1. pont 1.5. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^60]: Az 1. melléklet 6. pontja a 12/2024. (III. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^61]: Az 1. melléklet 1. pont 1.5. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 1. melléklet 6. pontja a 12/2024. (III. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.

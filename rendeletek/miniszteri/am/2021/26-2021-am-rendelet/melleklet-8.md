@@ -48,7 +48,7 @@
 
 | 24. | A nem borvidéki területekre érvényes pontérték | 274 |
 
-8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^61]
+8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^63]
 
 Szabályozott kifejezések listája
 
@@ -128,4 +128,4 @@ Szabályozott kifejezések listája
 
 | 21. | „újbor” (magyar) | bármelyik | bármelyik | A szüret évében palackozott bor. |
 
-[^61]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 14–18. pontja szerint módosított szöveg.
+[^63]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 14–18. pontja szerint módosított szöveg.
