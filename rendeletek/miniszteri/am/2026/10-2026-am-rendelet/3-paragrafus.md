@@ -1,5 +1,5 @@
 ## 3. A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosítása
 
-3. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 4. § (1c) bekezdése a következő l) és m) ponttal egészül ki:
+3. §[^4]
 
-[A mezőgazdasági káresemény (1) bekezdés szerinti bejelentése az alábbi adatokat tartalmazza:]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

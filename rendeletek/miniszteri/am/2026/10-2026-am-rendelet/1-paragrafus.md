@@ -18,6 +18,6 @@
 
 ## 1. A szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 87/2006. (XII. 28.) FVM rendelet módosítása
 
-1. § A szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 87/2006. (XII. 28.) FVM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) Gazdasági társaság kérelmező esetén a cégjegyzékben szereplő adatokat – a cégjegyzékszám és a kérelmező neve kivételével – a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a cégnyilvántartásból közvetlenül, elektronikus úton szerzi be.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

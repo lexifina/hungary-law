@@ -1,5 +1,5 @@
 ## 5. A kis mennyiségű, helyi és marginális élelmiszer-előállítás és -értékesítés higiéniai feltételeiről szóló 60/2023. (XI. 15.) AM rendelet módosítása
 
-9. § A kis mennyiségű, helyi és marginális élelmiszer-előállítás és -értékesítés higiéniai feltételeiről szóló 60/2023. (XI. 15.) AM rendelet [a továbbiakban: 60/2023. (XI. 15.) AM rendelet] 2. §-a a következő 37a. ponttal egészül ki:
+9. §[^10]
 
-(E rendelet alkalmazásában)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

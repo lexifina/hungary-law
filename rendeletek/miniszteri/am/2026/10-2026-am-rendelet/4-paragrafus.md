@@ -1,7 +1,3 @@
-## „l) ha rendelkezésre áll, a mezőgazdasági termelő által a károsodott kultúráról készített georeferált fotó,
+4. §[^5]
 
-## m) a vetőmag-előállítást igazoló dokumentum.”
-
-4. § A 27/2014. (XI. 25.) FM rendelet 5. § (3) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(Az agrárkár-megállapító szerv a várható hozamcsökkenés megállapítása és a mezőgazdasági káresemény igazolása során)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

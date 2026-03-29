@@ -1,7 +1,3 @@
-11. § A 60/2023. (XI. 15.) AM rendelet
+11. §[^12]
 
-a) 6. § (2) bekezdésében a „vendéglátó-ipari létesítmény” szövegrészek helyébe a „vendéglátó-ipari létesítmény, valamint a szálláshely-szolgáltató” szöveg,
-
-b) 11. § (3) bekezdésében a „vendéglátó-ipari létesítmény üzemeltetője” szövegrész helyébe a „vendéglátó-ipari létesítmény üzemeltetője, valamint a szálláshely-szolgáltató” szöveg
-
-lép.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
