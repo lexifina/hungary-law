@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 2/1997. (II. 18.) KHVM rendelet 7. § (6) bekezdésében az „az üzemeltetési, valamint” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

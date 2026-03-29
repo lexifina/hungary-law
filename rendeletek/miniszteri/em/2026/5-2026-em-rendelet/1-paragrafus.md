@@ -16,16 +16,6 @@
 
 ## 1. A mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosítása
 
-1. § A mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet [a továbbiakban: 2/1997. (II. 18.) KHVM rendelet] 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § A rendelet hatálya
-
-a) a vízügyi igazgatóság kezelésében lévő mezőgazdasági vízhasználattal is érintett állami vízfolyásokra,
-
-b) a mezőgazdasági vízszolgáltatást biztosító
-
-ba) állami tulajdonban lévő vízilétesítményekre – a koncesszió körébe tartozó vízilétesítmények kivételével – és
-
-bb) a vízgazdálkodásról szóló 1995. évi LVII. törvény 6/A. §-a szerinti nem állami tulajdonban lévő vízilétesítményekre
-
-terjed ki, amennyiben azok üzemeltetését a vízügyi igazgatóság vagy a vízügyi igazgatósággal kötött üzemeltetési szerződés alapján egyéb vízszolgáltató szervezet (a továbbiakban együtt: üzemeltető) látja el.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
