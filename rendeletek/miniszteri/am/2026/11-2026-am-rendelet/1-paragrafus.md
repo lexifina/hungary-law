@@ -4,6 +4,6 @@
 
 ## [3] A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 1. és 11. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A tenyésztésszervezési feladatok támogatása igénybevételének részletes feltételeiről szóló 77/2024. (XII. 30.) AM rendelet [a továbbiakban: 77/2024. (XII. 30.) AM rendelet] 8. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A tenyésztőszervezet a kedvezményezettek összesített igényeit tartalmazó, a NÉBIH hatósági bizonyítványával ellátott,]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
