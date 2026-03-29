@@ -1,3 +1,3 @@
-6. § A 15/2024. (IV. 9.) AM rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(3) A bejelentett területi elem területe – a 2. § (1) bekezdés a) pontja, (3) bekezdés 2. pontja, valamint (4) bekezdés 2., 4., 8. és 20. pontja szerinti támogatások, valamint a 2. § (2) bekezdés b) pontja, (3) bekezdés 3. és 5. pontja, (4) bekezdés 3., 18., 19. és 21. pontja szerinti támogatások egész erdőrészletre történő igénylése kivételével – a grafikus azonosítás alapján, négy tizedesjegy pontossággal, hektárban kerül megállapításra. A 2. § (4) bekezdés 3., 18–19. és 21. pontja szerinti támogatások egész erdőrészletre történő igénylése esetén, a területet a mezőgazdasági termelő vagy erdőgazdálkodó négy tizedesjegy pontossággal adja meg.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

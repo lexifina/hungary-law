@@ -1,3 +1,3 @@
-21. § A 16/2024. (IV. 9.) AM rendelet 37. §-a a következő (4a) bekezdéssel egészül ki:
+21. §[^22]
 
-„(4a) Nem minősül a gyepnemez megbontásának a természetvédelmi hatóság engedélyével történő, a gyepterület átalakításával nem járó, Közös Agrárpolitika Stratégiai Tervből finanszírozott agrárerdészeti rendszer létrehozása.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

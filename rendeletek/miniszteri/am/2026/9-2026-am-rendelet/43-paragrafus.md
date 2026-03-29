@@ -1,1 +1,3 @@
-43. § A 19/2024. (IV. 9.) AM rendelet 3. melléklete a 3. melléklet szerint módosul.
+43. §[^44]
+
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

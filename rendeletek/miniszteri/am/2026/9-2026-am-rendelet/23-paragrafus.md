@@ -1,1 +1,3 @@
-23. § A 16/2024. (IV. 9.) AM rendelet 5. melléklete az 1. melléklet szerint módosul.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-32. § A 17/2024. (IV. 9.) AM rendelet 28. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+32. §[^33]
 
-(A gyakorlat14-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy)
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

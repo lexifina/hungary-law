@@ -1,3 +1,3 @@
-12. § A 15/2024. (IV. 9.) AM rendelet 37. §-a a következő f) ponttal egészül ki:
+12. §[^13]
 
-(Az egységes kérelem keretében igényelhető támogatások tekintetében a támogatás csökkentését, kiigazítását és elutasítását a következő sorrendben kell kiszámítani:)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

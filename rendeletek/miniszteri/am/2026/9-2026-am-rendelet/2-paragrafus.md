@@ -1,3 +1,3 @@
-2. § Az 53/2015. (IX. 14.) FM rendelet 11. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A csekély összegű támogatás igénybevételére az a dohánytermelő jogosult, aki vagy amely)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

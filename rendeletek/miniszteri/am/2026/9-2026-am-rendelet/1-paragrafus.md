@@ -20,6 +20,6 @@
 
 ## 1. A dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló 53/2015. (IX. 14.) FM rendelet módosítása
 
-1. § A dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló 53/2015. (IX. 14.) FM rendelet [a továbbiakban: 53/2015. (IX. 14.) FM rendelet] 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Elismert élőmunka ráfordításnak, elismert tevékenységnek – a (2) bekezdésben foglaltakra is figyelemmel – az a tevékenység vehető figyelembe, amelyről a dohánytermelő a tárgyévi egységes kérelmében nyilatkozik. A dohánytermelő az ellenőrzés alkalmával köteles a vonatkozó jogszabályokban foglaltaknak megfelelően igazolni, hogy e feltételt milyen módon teljesítette.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

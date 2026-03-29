@@ -1,1 +1,3 @@
-15. § Hatályát veszti a 15/2024. (IV. 9.) AM rendelet 5. § (10) bekezdése és 13. § (4) bekezdése.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
