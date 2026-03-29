@@ -1,1 +1,3 @@
-4. § Az R. 10/A. § (1) bekezdésében az „a biztonsági kőolajtermék készletek veszélyhelyzeti felhasználásáról szóló 52/2026. (III. 9.) Korm. rendelet [a továbbiakban: 52/2026. (III. 9.) Korm. rendelet]” szövegrész helyébe az „az 52/2026. (III. 9.) Korm. rendelet” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § Az R. 10/A. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^4]
 
-„(5) Amennyiben a tag a Szövetségtől megvásárolt üzemanyagot annak telephelyéről nem tárolja ki, hanem ugyanakkora mennyiségű saját készletet saját telephelyéről értékesített, és e mennyiséget mint felszabadított készletből vásárolt üzemanyagot tartja nyilván, jelentésében a kiszállítás telephelyeként e saját telephelyét adja meg.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

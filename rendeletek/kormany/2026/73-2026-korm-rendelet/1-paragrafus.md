@@ -4,6 +4,6 @@
 
 ## 1. A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet módosítása
 
-1. § A nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló 50/2026. (III. 9.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére nem jogosult üzemanyagtöltő állomást – ide nem értve az üzemi üzemanyagtöltő állomást – működtető vállalkozás köteles a biztonsági kőolajtermék készletek veszélyhelyzeti felhasználásáról szóló 52/2026. (III. 9.) Korm. rendelet [a továbbiakban: 52/2026. (III. 9.) Korm. rendelet] szerinti védett áras termékekre vonatkozó ellátási szerződéssel rendelkezni olyan nagykereskedővel, aki a Magyar Szénhidrogén Készletező Szövetség biztonsági kőolajtermék-készletéből felszabadított termékek átvételére jogosult.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
