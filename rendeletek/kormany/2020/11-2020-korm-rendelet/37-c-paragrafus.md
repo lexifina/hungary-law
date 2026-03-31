@@ -1,4 +1,4 @@
-37/C. §[^128] E kormányrendeletnek az egyes felnőttképzéssel és szakképzéssel összefüggő kormányrendeletek módosításáról szóló 631/2022. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 22. § (3a) bekezdése szerinti rendelkezését a Módr. hatálybalépésének[^129] időpontjában folyamatban lévő képzések esetében is alkalmazni kell.
+37/C. §[^131] E kormányrendeletnek az egyes felnőttképzéssel és szakképzéssel összefüggő kormányrendeletek módosításáról szóló 631/2022. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 22. § (3a) bekezdése szerinti rendelkezését a Módr. hatálybalépésének[^132] időpontjában folyamatban lévő képzések esetében is alkalmazni kell.
 
-[^128]: A 37/C. §-t a 631/2022. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
-[^129]: A hatálybalépés időpontja 2023. január 1.
+[^131]: A 37/C. §-t a 631/2022. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^132]: A hatálybalépés időpontja 2023. január 1.
