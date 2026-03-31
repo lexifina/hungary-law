@@ -6,6 +6,6 @@
 
 (4) A szakképzésről szóló törvény szerinti ágazati készségtanács szakvéleményt adhat a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben.
 
-(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
+(5) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás esetén a törölt vagy módosított programkövetelmény alapján legkésőbb a törlés vagy módosítás napjától számított 14. naptári napig lehet szakmai képzést indítani. A programkövetelmény a felnőttképzés adatszolgáltatási rendszeréből nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
 (6) A programkövetelmény felnőttképzésért felelős miniszter által történő felülvizsgálati eljárása a felülvizsgálattal érintett programkövetelmény módosítására, törlésére vonatkozó kérelemre indult eljárást a felülvizsgálat idejére felfüggeszti.

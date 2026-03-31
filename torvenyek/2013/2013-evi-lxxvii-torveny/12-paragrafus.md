@@ -2,7 +2,7 @@
 
 12. § (1) A képzési programnak tartalmaznia kell:
 
-a) a képzés megnevezését,
+a) a képzés magyar, angol, német nyelvű megnevezését,
 
 b) a képzés során megszerezhető kompetenciát,
 
@@ -16,7 +16,7 @@ f) a képzés tananyagegységeit, azok célját, tartalmát, a tananyagegységek
 
 g) – a zárt rendszerű elektronikus távoktatás kivételével – a maximális csoportlétszámot,
 
-h) a képzésben részt vevő teljesítményét értékelő rendszernek leírását,
+h) a képzésben részt vevő teljesítményét értékelő rendszernek leírását, ha a képzés számonkérést tartalmaz, akkor a számonkérés módját, pótlás lehetőségét és annak módját, valamint a képzés befejezésének feltételét,
 
 i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló igazolás kiadásának feltételeit, valamint amennyiben a képzéshez mikrotanúsítvány kerül kiállításra, úgy a mikrotanúsítvány alapjául szolgáló szakképzési tankönyv megnevezését és nyilvántartásba vételi számát
 

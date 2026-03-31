@@ -28,9 +28,9 @@ szervez.
 
 5b. képzés formája: a képzés kontaktóra – amely lehet jelenléti vagy online kontaktóra –, távoktatás vagy zárt rendszerű elektronikus távoktatás keretében megvalósult formája,
 
-6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
+6. képzés megkezdésének időpontja: a képzés első képzési napja, azaz a képző intézmény által meghirdetett képzés első kontaktórájának időpontja, függetlenül a képzésbe való bekapcsolódás időpontjától, azzal, hogy távoktatás és zárt rendszerű elektronikus távoktatás esetén az az időpont, amikor a képző a tananyagot a képzésben részt vevő személyek részére rendelkezésre bocsátotta, és a tananyag elsajátítását a képzésben résztvevők ténylegesen megkezdhetik,
 
-6a. képzés befejezésének időpontja: a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzés elvégzése meghatározott követelményhez kötött, annak teljesítésének napja,
+6a. képzés befejezésének időpontja: ha a képzés elvégzése a képzés formájától függetlenül jogszabályban vagy a képző által a képzési programban meghatározott követelményhez kötött, annak teljesítésének napja, ennek hiányában kontaktórás képzés esetén a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag elsajátítására megállapított határidő utolsó napjának vége,
 
 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
 
