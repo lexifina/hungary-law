@@ -66,13 +66,13 @@
 
 | 33. | Hátralékok és túlfizetések | G780 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 34.[^107] | EKR költségek | G745 | Éves | Az adatokat évente, április 30-ig kell megadni. |
+| 34.[^124] | EKR költségek | G745 | Éves | Az adatokat évente, április 30-ig kell megadni. |
 
-| 35.[^108] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | G724 | Negyedéves | Az adatokat a tárgyidőszakot követő 25. napig kell megadni. |
+| 35.[^125] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | G724 | Negyedéves | Az adatokat a tárgyidőszakot követő 25. napig kell megadni. |
 
 21. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A szervezett földgázpiaci engedélyes adatszolgáltatási kötelezettsége
 
-[^107]: A 20. mellékletben foglalt táblázat 34. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (3) bekezdése iktatta be.
-[^108]: A 20. mellékletben foglalt táblázat 35. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (5) bekezdése iktatta be.
+[^124]: A 20. mellékletben foglalt táblázat 34. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (3) bekezdése iktatta be.
+[^125]: A 20. mellékletben foglalt táblázat 35. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (5) bekezdése iktatta be.

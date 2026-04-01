@@ -1,3 +1,5 @@
+## I. A földgázelosztói engedélyes adatszolgáltatási kötelezettsége
+
 |  | A | B | C | D |
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
@@ -66,9 +68,11 @@
 
 | 33. | Kikapcsolt felhasználók | G580 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25-ig kell megadni. |
 
-| 34.[^86] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
+| 34.[^96] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
 
-| 35.[^87] | Településenként átadott havi földgáz mennyiség | G517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+| 35.[^97] | Településenként átadott havi földgáz mennyiség | G517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+
+| 36.[^98] | Belső Kiválasztási Szabályzat (a továbbiakban: BKSZ) adatok | G520BKSZ | Féléves | Az adatokat a tárgyfélévet követő hónap 15. napjáig kell megadni. |
 
 ## II. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú és az „Ügyfélkapcsolati szolgáltatás-minőség minimális minőségi követelményének és elvárt színvonalának meghatározása” tárgyú határozatokkal rendelkező földgázelosztói engedélyes adatszolgáltatási kötelezettsége
 
@@ -148,15 +152,17 @@
 
 | 37. | Kikapcsolt felhasználók | G580 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25-ig kell megadni. |
 
-| 38.[^88] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
+| 38.[^99] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
 
-| 39.[^89] | Településenként átadott havi földgáz mennyiség | G517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+| 39.[^100] | Településenként átadott havi földgáz mennyiség | G517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+
+| 40.[^101] | BKSZ adatok | G520BKSZ | Féléves | Az adatokat a tárgyfélévet követő hónap 15. napjáig kell megadni. |
 
 19. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
-I. A korlátozott földgáz-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
-
-[^86]: A 18. melléklet I. pontjában foglalt táblázat 34. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.
-[^87]: A 18. melléklet I. pontjában foglalt táblázat 35. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (4) bekezdése iktatta be.
-[^88]: A 18. melléklet II. pontjában foglalt táblázat 38. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.
-[^89]: A 18. melléklet II. pontjában foglalt táblázat 39. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (4) bekezdése iktatta be.
+[^96]: A 18. melléklet I. pontjában foglalt táblázat 34. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.
+[^97]: A 18. melléklet I. pontjában foglalt táblázat 35. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (4) bekezdése iktatta be.
+[^98]: A 18. melléklet I. pontjában foglalt táblázat 36. sorát a 4/2026. (III. 5.) MEKH rendelet 8. § (6) bekezdése iktatta be.
+[^99]: A 18. melléklet II. pontjában foglalt táblázat 38. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.
+[^100]: A 18. melléklet II. pontjában foglalt táblázat 39. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (4) bekezdése iktatta be.
+[^101]: A 18. melléklet II. pontjában foglalt táblázat 40. sorát a 4/2026. (III. 5.) MEKH rendelet 8. § (6) bekezdése iktatta be.

@@ -1,3 +1,5 @@
+## I. A villamos energia elosztói engedélyes EIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
+
 |  | A | B | C | D |
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
@@ -44,7 +46,7 @@
 
 | 22. | Hőszivattyúk adatai | V526 | Éves | Az adatokat a tárgyidőszakot követő év április 30. napjáig kell megadni. |
 
-| 23. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V527 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 30-ig kell megadni.[^62] |
+| 23. | Saját tulajdonú, akkumulátor alapú energia-tárolásra vonatkozó adatok | V527 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 30-ig kell megadni.[^66] |
 
 | 24. | Elosztói üzemzavarok | V531 | Éves | Az adatokat a tárgyidőszakot követő év február 20. napjáig kell megadni. |
 
@@ -88,15 +90,15 @@
 
 | 44. | Kikapcsolt fogyasztók száma | V580 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 45.[^63] | Településenként átadott havi villamosenergia mennyiség | V517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+| 45.[^67] | Településenként átadott havi villamosenergia mennyiség | V517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
-| 46.[^64] | Elosztóhálózatra csatlakozott háztartási méretű kiserőművek és kereskedelmi partnereik | V537A | Havi | Az adatokat a tárgyidőszakot követő második hónap 10. napjáig kell megadni. |
+| 46.[^68] | Elosztóhálózatra csatlakozott háztartási méretű kiserőművek és kereskedelmi partnereik | V537A | Havi | Az adatokat a tárgyidőszakot követő második hónap 10. napjáig kell megadni. |
 
-| 47.[^65] | Elosztóhálózatról lecsatlakozott háztartási méretű kiserőművek adatai | V537B | Havi | Az adatokat a tárgyidőszakot követő második hónap 10. napjáig kell megadni. |
+| 47.[^69] | Elosztóhálózatról lecsatlakozott háztartási méretű kiserőművek adatai | V537B | Havi | Az adatokat a tárgyidőszakot követő második hónap 10. napjáig kell megadni. |
 
-| 48.[^66] | A VET 39/G. § szerinti termelői vezetékekről tájékoztatás | V519 | Negyedéves | Az adatokat a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
+| 48.[^70] | A VET 39/G. § szerinti termelői vezetékekről tájékoztatás | V519 | Negyedéves | Az adatokat a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
 
-| 49.[^67] | Elosztóhálózatra csatlakozott kiserőművek rendelkezésre álló betáplálási teljesítményt meghaladó betáplálási adatai | V536 | Féléves | Az adatokat évente kétszer (június 30. és december 31. napokon érvényes állapotra vonatkozóan), a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
+| 49.[^71] | Elosztóhálózatra csatlakozott kiserőművek rendelkezésre álló betáplálási teljesítményt meghaladó betáplálási adatai | V536 | Féléves | Az adatokat évente kétszer (június 30. és december 31. napokon érvényes állapotra vonatkozóan), a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
 
 ## II. A villamos energia elosztói engedélyes HVIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
 
@@ -136,12 +138,9 @@
 
 7. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
-I. A korlátozott villamosenergia-kereskedelmi működési engedélyes, illetve az üzletszabályzat-mentesítésről szóló határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége[^68]
-
-[^62]: A 6. melléklet I. pontjában foglalt táblázat D:23 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 2. pontja szerint módosított szöveg.
-[^63]: A 6. melléklet I. pontjában foglalt táblázat 45. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (3) bekezdése iktatta be.
-[^64]: A 6. melléklet I. pontjában foglalt táblázat 46. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
-[^65]: A 6. melléklet I. pontjában foglalt táblázat 47. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
-[^66]: A 6. melléklet I. pontjában foglalt táblázat 48. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
-[^67]: A 6. melléklet I. pontjában foglalt táblázat 49. sorát a 17/2025. (XI. 13.) MEKH rendelet 5. § (2) bekezdése iktatta be.
-[^68]: A 7. melléklet I. pontja a 17/2025. (XI. 13.) MEKH rendelet 6. § 5. pontja szerint módosított szöveg.
+[^66]: A 6. melléklet I. pontjában foglalt táblázat D:23 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 2. pontja szerint módosított szöveg.
+[^67]: A 6. melléklet I. pontjában foglalt táblázat 45. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (3) bekezdése iktatta be.
+[^68]: A 6. melléklet I. pontjában foglalt táblázat 46. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
+[^69]: A 6. melléklet I. pontjában foglalt táblázat 47. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
+[^70]: A 6. melléklet I. pontjában foglalt táblázat 48. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (3) bekezdése iktatta be.
+[^71]: A 6. melléklet I. pontjában foglalt táblázat 49. sorát a 17/2025. (XI. 13.) MEKH rendelet 5. § (2) bekezdése iktatta be.

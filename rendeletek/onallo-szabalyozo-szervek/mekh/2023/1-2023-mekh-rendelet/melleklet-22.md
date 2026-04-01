@@ -24,10 +24,8 @@
 
 | 11. | MA_GASTRADE_TRADE | G871 | Napi | Az adatokat naponta, a gáznapot követő 2. naptári napig kell megadni. |
 
-| 12.[^109] | Szervezett piaci tagok nyilvántartása | G874 | Havi | Az adatokat havonta, minden hónap 6. napjáig szükséges aktualizálni. |
+| 12.[^126] | Szervezett piaci tagok nyilvántartása | G874 | Havi | Az adatokat havonta, minden hónap 6. napjáig szükséges aktualizálni. |
 
 22. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
-I. A nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és nem időjárásfüggő (biomassza kivételével) megújuló energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
-
-[^109]: A 21. mellékletben foglalt táblázat 12. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (4) bekezdése iktatta be.
+[^126]: A 21. mellékletben foglalt táblázat 12. sorát a 11/2024. (XI. 21.) MEKH rendelet 5. § (4) bekezdése iktatta be.

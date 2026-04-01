@@ -4,8 +4,8 @@
 
 | 2. | RIR ajánlatok indokolt költsége | V1386G | Havi | Az adatokat a tárgyidőszakot követő hónap 7. napjáig kell megadni. |
 
-25. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^136]
+25. melléklet az 1/2023. (IV. 5.) MEKH rendelethez[^165]
 
 Az adatszolgáltatók elektronikus levelezési kapcsolattartása
 
-[^136]: A 25. mellékletet a 11/2024. (XI. 21.) MEKH rendelet 5. § (5) bekezdése iktatta be.
+[^165]: A 25. mellékletet a 11/2024. (XI. 21.) MEKH rendelet 5. § (5) bekezdése iktatta be.

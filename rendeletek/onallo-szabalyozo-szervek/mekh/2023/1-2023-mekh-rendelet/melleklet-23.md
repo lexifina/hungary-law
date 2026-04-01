@@ -1,3 +1,5 @@
+## I. A nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és nem időjárásfüggő (biomassza kivételével) megújuló energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
+
 |  | A | B | C | D |
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
@@ -18,7 +20,7 @@
 
 | 9. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 10.[^110] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 10.[^127] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## II. A földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -42,13 +44,13 @@
 
 | 9. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 10. | Termelői Gázszerződések | T228a | Éves | A tárgyév július 5. napja. |
+| 10.[^128] | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) felsorolása | T229p | Éves | Az adatokat tárgyév április 15. napjáig kell megadni. |
 
-| 11. | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) felsorolása | T228p | Éves | A tárgyév április 30. napja. |
+| 11.[^129] | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) részletei | T229t | Éves | Az adatokat tárgyév május 15. napjáig kell megadni. |
 
-| 12. | Földgázszerződés-kötés részletei | T228s | Éves | A tárgyév június 5. napja. |
+| 12.[^130] | Termelői gázszerződések | T229a | Éves | Az adatokat tárgyév június 15. napjáig kell megadni. |
 
-| 13.[^111] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 13.[^131] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## III. A biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -74,7 +76,7 @@
 
 | 10. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 11.[^112] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 11.[^132] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## IV. Az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli létesítmények részére térítésmentesen kiosztásra került kibocsátási egységekkel összefüggésben földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -100,19 +102,23 @@
 
 | 10. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 11. | Termelői Gázszerződések | T228a | Éves | A tárgyév július 5. napja. |
+| 11.[^133] | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) felsorolása | T229p | Éves | Az adatokat tárgyév április 15. napjáig kell megadni. |
 
-| 12. | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) felsorolása | T228p | Éves | A tárgyév április 30. napja. |
+| 12.[^134] | Távhőtermelésben érintett földgáz átadási pontok (POD-ok) részletei | T229t | Éves | Az adatokat tárgyév május 15. napjáig kell megadni. |
 
-| 13. | Földgázszerződés-kötés részletei | T228s | Éves | A tárgyév június 5. napja. |
+| 13.[^135] | Termelői gázszerződések | T229a | Éves | Az adatokat tárgyév június 15. napjáig kell megadni. |
 
-| 14.[^113] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 14.[^136] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 23. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
-I. A távhőszolgáltatói működési engedélyes adatszolgáltatási kötelezettsége
-
-[^110]: A 22. melléklet I. pontjában foglalt táblázat 10. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^111]: A 22. melléklet II. pontjában foglalt táblázat 13. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^112]: A 22. melléklet III. pontjában foglalt táblázat 11. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^113]: A 22. melléklet IV. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^127]: A 22. melléklet I. pontjában foglalt táblázat 10. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^128]: A 22. melléklet II. pontjában foglalt táblázat 10. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^129]: A 22. melléklet II. pontjában foglalt táblázat 11. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^130]: A 22. melléklet II. pontjában foglalt táblázat 12. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^131]: A 22. melléklet II. pontjában foglalt táblázat 13. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^132]: A 22. melléklet III. pontjában foglalt táblázat 11. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^133]: A 22. melléklet IV. pontjában foglalt táblázat 11. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^134]: A 22. melléklet IV. pontjában foglalt táblázat 12. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^135]: A 22. melléklet IV. pontjában foglalt táblázat 13. sora a 4/2026. (III. 5.) MEKH rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^136]: A 22. melléklet IV. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.

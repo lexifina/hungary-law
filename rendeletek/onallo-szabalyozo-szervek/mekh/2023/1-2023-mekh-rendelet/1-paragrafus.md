@@ -18,7 +18,7 @@ g) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: G
 
 h)[^3] a GET 127. § s) pontja szerinti PB-gáz forgalmazóra, a PB-gáz kiskereskedőre, a mintaprojektet végző társaságra, a hazai termelésű földgázt termelőre, valamint a megújuló gázok származásának igazolásáról szóló kormányrendelet (a továbbiakban: Mgszr.) szerinti termelőre,
 
-i)[^4] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § 3. pontja szerinti engedélyesre, valamint
+i)[^4] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § 3. pontja szerinti engedélyesre, valamint a Tszt. 4. § (2) bekezdése szerinti értékesítőre, illetve
 
 j) az a)–i) pontban meghatározottak jogutódjára, felszámolójára és végelszámolójára
 
@@ -27,4 +27,4 @@ j) az a)–i) pontban meghatározottak jogutódjára, felszámolójára és vég
 [^1]: Az 1. § a) pontja a 11/2024. (XI. 21.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja a 2/2024. (III. 12.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § h) pontja a 11/2024. (XI. 21.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § i) pontja a 8/2025. (VI. 4.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § i) pontja a 4/2026. (III. 5.) MEKH rendelet 3. §-ával megállapított szöveg.

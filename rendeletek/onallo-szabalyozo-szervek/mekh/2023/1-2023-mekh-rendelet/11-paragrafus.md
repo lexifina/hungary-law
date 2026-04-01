@@ -1,4 +1,4 @@
-11. §[^23] A GET és az Mgszr. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:
+11. §[^25] A GET és az Mgszr. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:
 
 1. vezetékes PB-gáz szolgáltatói engedélyes a 15. melléklet,
 
@@ -24,9 +24,9 @@
 
 12. szervezett földgázpiaci engedélyes a 21. melléklet
 
-13.[^24] az Mgszr. szerinti termelő a 26. melléklet
+13.[^26] az Mgszr. szerinti termelő a 26. melléklet
 
 alapján.
 
-[^23]: A 11. § nyitó szövegrésze a 11/2024. (XI. 21.) MEKH rendelet 6. § 1. pontja szerint módosított szöveg.
-[^24]: A 11. § 13. pontját a 11/2024. (XI. 21.) MEKH rendelet 4. §-a iktatta be.
+[^25]: A 11. § nyitó szövegrésze a 11/2024. (XI. 21.) MEKH rendelet 6. § 1. pontja szerint módosított szöveg.
+[^26]: A 11. § 13. pontját a 11/2024. (XI. 21.) MEKH rendelet 4. §-a iktatta be.
