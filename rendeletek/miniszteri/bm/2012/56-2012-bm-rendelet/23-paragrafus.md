@@ -1,3 +1,3 @@
-23. §[^80]
+23. §[^81]
 
-[^80]: A 23. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 7. pontja hatályon kívül helyezte.
+[^81]: A 23. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 7. pontja hatályon kívül helyezte.

@@ -1,16 +1,16 @@
-108/B. §[^305] (1) A névjegyzékre vételre a hivatásos állomány tagjának
+108/B. §[^306] (1) A névjegyzékre vételre a hivatásos állomány tagjának
 
 a) önkéntes jelentkezése, vagy
 
-b)[^306] – a hivatásos állomány tagjának beleegyezése esetén – a szolgálati elöljáró általi jelölése
+b)[^307] – a hivatásos állomány tagjának beleegyezése esetén – a szolgálati elöljáró általi jelölése
 
 alapján kerülhet sor.
 
 (2) A hivatásos állomány más szervnél szolgálatot teljesítő tagja annak a szervnek a névjegyzékére történő felvételre jelentkezhet vagy jelölhető, ahonnan őt szolgálatteljesítésre vezényelték vagy átrendelték.
 
-(3)[^307] A névjegyzékre történő felvételre a humánigazgatási szakszolgálatnál benyújtott jelentkezési lappal lehet jelentkezni. A humánigazgatási szakszolgálat a jelentkezési lapot az írásba foglalt indokolt véleményével kiegészítve – a kérelem beérkezését követő három napon belül szolgálati úton – az Országgyűlési Őrség parancsnokához terjeszti fel.
+(3)[^308] A névjegyzékre történő felvételre a humánigazgatási szakszolgálatnál benyújtott jelentkezési lappal lehet jelentkezni. A humánigazgatási szakszolgálat a jelentkezési lapot az írásba foglalt indokolt véleményével kiegészítve – a kérelem beérkezését követő három napon belül szolgálati úton – az Országgyűlési Őrség parancsnokához terjeszti fel.
 
-(4)[^308] Ha a szolgálati elöljáró tesz javaslatot a jelölésre, a jelentkezési laphoz és az írásba foglalt indokolt véleményhez a javasolt személynek a jelölés elfogadásáról szóló nyilatkozatát is csatolni kell.
+(4)[^309] Ha a szolgálati elöljáró tesz javaslatot a jelölésre, a jelentkezési laphoz és az írásba foglalt indokolt véleményhez a javasolt személynek a jelölés elfogadásáról szóló nyilatkozatát is csatolni kell.
 
 (5) A Becsületbíróság munkájában történő közreműködésre való méltatlanság miatt a névjegyzékre nem vehető fel az a személy, aki
 
@@ -18,7 +18,7 @@ a) ellen büntetőeljárás, fegyelmi eljárás vagy méltatlansági eljárás f
 
 b) büntetőeljárásban vagy szabálysértési eljárásban jogerősen kiszabott büntetés, illetve fegyelmi eljárásban kiszabott fenyítés hatálya alatt áll.
 
-[^305]: A 108/B. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
-[^306]: A 108/B. § (1) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 42. pontja szerint módosított szöveg.
-[^307]: A 108/B. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 33. §-ával megállapított szöveg.
-[^308]: A 108/B. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 42. pontja szerint módosított szöveg.
+[^306]: A 108/B. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^307]: A 108/B. § (1) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 42. pontja szerint módosított szöveg.
+[^308]: A 108/B. § (3) bekezdése a 60/2024. (XII. 23.) BM rendelet 33. §-ával megállapított szöveg.
+[^309]: A 108/B. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 42. pontja szerint módosított szöveg.

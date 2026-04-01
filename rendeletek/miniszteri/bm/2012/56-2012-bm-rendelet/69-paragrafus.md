@@ -1,18 +1,18 @@
-69. § (1)[^238] Pénzjutalomban kell részesíteni a hivatásos állomány tagját, ha az Országgyűlési Őrségnél legalább tíz év szolgálati idővel rendelkezik, valamint minden további, az Országgyűlési Őrségnél eltöltött öt szolgálati év után. A szolgálati évek számítása szempontjából figyelembe kell venni az Országgyűlési Őrségnél más foglalkoztatási jogviszonyban töltött időt, valamint a más rendvédelmi szervnél vagy polgári nemzetbiztonsági szolgálatnál bármely foglalkoztatási jogviszonyban töltött időt.
+69. § (1)[^239] Pénzjutalomban kell részesíteni a hivatásos állomány tagját, ha az Országgyűlési Őrségnél legalább tíz év szolgálati idővel rendelkezik, valamint minden további, az Országgyűlési Őrségnél eltöltött öt szolgálati év után. A szolgálati évek számítása szempontjából figyelembe kell venni az Országgyűlési Őrségnél más foglalkoztatási jogviszonyban töltött időt, valamint a más rendvédelmi szervnél vagy polgári nemzetbiztonsági szolgálatnál bármely foglalkoztatási jogviszonyban töltött időt.
 
-(1a)[^239] Az (1) bekezdés szerinti szolgálati évek számításakor figyelembe kell venni azt az időt is, amelyet a hivatásos állomány tagja korábban a belügyminiszter irányítása vagy vezetése alatt álló
+(1a)[^240] Az (1) bekezdés szerinti szolgálati évek számításakor figyelembe kell venni azt az időt is, amelyet a hivatásos állomány tagja korábban a belügyminiszter irányítása vagy vezetése alatt álló
 
-a)[^240] nem rendvédelmi szervnél,
+a)[^241] nem rendvédelmi szervnél,
 
 b) szerv jogelőd szerveinél
 
 foglalkoztatási jogviszonyban töltött. A szolgálati évek tartama közül a kedvezőbbet kell figyelembe venni.
 
-(2)[^241] A jutalom összege az (1) bekezdés szerinti első esedékességkor a 68. § (2) bekezdése alapján kifizethető legalacsonyabb jutalom összegével azonos, amely a további ötévenként a rendvédelmi illetményalap 15%-ának száz forintra kerekített összegével emelkedik.
+(2)[^242] A jutalom összege az (1) bekezdés szerinti első esedékességkor a 68. § (2) bekezdése alapján kifizethető legalacsonyabb jutalom összegével azonos, amely a további ötévenként a rendvédelmi illetményalap 15%-ának száz forintra kerekített összegével emelkedik.
 
 (3) Az (1) bekezdésben meghatározott jutalom adományozásánál
 
-a)[^242] a foglalkoztatási jogviszonyban történt megszakítás esetén valamennyi, az (1) bekezdésben meghatározott szervnél korábban foglalkoztatási jogviszonyban eltöltött időt, valamint a Hszt. 42. § (2) bekezdése és 43. §-a szerint más szervnél töltött szolgálati időt össze kell számítani,
+a)[^243] a foglalkoztatási jogviszonyban történt megszakítás esetén valamennyi, az (1) bekezdésben meghatározott szervnél korábban foglalkoztatási jogviszonyban eltöltött időt, valamint a Hszt. 42. § (2) bekezdése és 43. §-a szerint más szervnél töltött szolgálati időt össze kell számítani,
 
 b) folyamatos szolgálati időként kell figyelembe venni az illetmény nélküli szabadság teljes időtartamát, amennyiben az évente a 30 napot nem haladta meg, vagy gyermek gondozása céljából került engedélyezésére, továbbá a más okból engedélyezett illetmény nélküli szabadságból legfeljebb egy évet, ha az a szolgálati viszonyba egyébként is beszámít,
 
@@ -20,9 +20,9 @@ c) akinek a korábbi foglalkoztatási jogviszonya nyugállományba helyezéssel 
 
 (4) Rész-szolgálatteljesítési időben történő ismételt foglalkoztatás esetén ez az elismerés nem alkalmazható.
 
-(5)[^243] Nyugállományba helyezés esetén, amennyiben az (1) bekezdés szerinti jutalom az azt követő egy éven belül esedékes lenne, azt a nyugállományba helyezéskor a szolgálati viszony utolsó napján vagy az azt megelőző munkanapon át kell adni.
+(5)[^244] Nyugállományba helyezés esetén, amennyiben az (1) bekezdés szerinti jutalom az azt követő egy éven belül esedékes lenne, azt a nyugállományba helyezéskor a szolgálati viszony utolsó napján vagy az azt megelőző munkanapon át kell adni.
 
-(6)[^244] Az (1a) bekezdés b) pontja alkalmazásában jogelőd szervnek kell tekinteni
+(6)[^245] Az (1a) bekezdés b) pontja alkalmazásában jogelőd szervnek kell tekinteni
 
 a) az igazságügyi és rendészeti miniszter,
 
@@ -36,10 +36,10 @@ e) a regionális fejlesztésért és felzárkóztatásért felelős tárca nélk
 
 irányítása vagy felügyelete alatt álló szerveket, valamint a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszteri irányítást segítő szervezetet.
 
-[^238]: A 69. § (1) bekezdése a 2/2026. (II. 19.) BM rendelet 10. §-ával megállapított szöveg.
-[^239]: A 69. § (1a) bekezdését a 9/2018. (IV. 25.) BM rendelet 12. § (1) bekezdése iktatta be.
-[^240]: A 69. § (1a) bekezdés a) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 34. pontja szerint módosított szöveg.
-[^241]: A 69. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^242]: A 69. § (3) bekezdés a) pontja a 9/2018. (IV. 25.) BM rendelet 18. § i) pontja szerint módosított szöveg. [A 69. § (3) bekezdés a) pontjának a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 4. pontjával elrendelt módosítása, amely szerint a „42. § (2) bekezdése és a 43. §” szövegrész helyébe az „51. § (2)–(4) bekezdése, vagy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 42. § (2) bekezdése” szöveg lép, nem vezethető át.]
-[^243]: A 69. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 35. pontja szerint módosított szöveg.
-[^244]: A 69. § (6) bekezdését a 9/2018. (IV. 25.) BM rendelet 12. § (2) bekezdése iktatta be.
+[^239]: A 69. § (1) bekezdése a 2/2026. (II. 19.) BM rendelet 10. §-ával megállapított szöveg.
+[^240]: A 69. § (1a) bekezdését a 9/2018. (IV. 25.) BM rendelet 12. § (1) bekezdése iktatta be.
+[^241]: A 69. § (1a) bekezdés a) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 34. pontja szerint módosított szöveg.
+[^242]: A 69. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^243]: A 69. § (3) bekezdés a) pontja a 9/2018. (IV. 25.) BM rendelet 18. § i) pontja szerint módosított szöveg. [A 69. § (3) bekezdés a) pontjának a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 4. pontjával elrendelt módosítása, amely szerint a „42. § (2) bekezdése és a 43. §” szövegrész helyébe az „51. § (2)–(4) bekezdése, vagy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 42. § (2) bekezdése” szöveg lép, nem vezethető át.]
+[^244]: A 69. § (5) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 35. pontja szerint módosított szöveg.
+[^245]: A 69. § (6) bekezdését a 9/2018. (IV. 25.) BM rendelet 12. § (2) bekezdése iktatta be.

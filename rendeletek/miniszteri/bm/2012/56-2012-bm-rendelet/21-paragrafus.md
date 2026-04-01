@@ -1,4 +1,4 @@
-21. §[^78] A Hszt. 86. § (2) bekezdés a) pontjában meghatározott esetek közül
+21. §[^79] A Hszt. 86. § (2) bekezdés a) pontjában meghatározott esetek közül
 
 a) a minősítés alapján történő felmentésre a minősítésre jogosult szolgálati elöljáró tesz javaslatot,
 
@@ -8,4 +8,4 @@ c) a pszichológiai állapot alapján történő felmentésre a pszichológiai h
 
 d) a fizikai állapot alapján történő felmentésre a fizikai háromfős bizottság döntése alapján kerülhet sor.
 
-[^78]: A 21. § a 60/2024. (XII. 23.) BM rendelet 14. §-ával megállapított szöveg.
+[^79]: A 21. § a 60/2024. (XII. 23.) BM rendelet 14. §-ával megállapított szöveg.

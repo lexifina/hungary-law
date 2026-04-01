@@ -2,9 +2,9 @@
 
 (2) Nem lehet a hivatásos állomány tagját elismerésben részesíteni – a szolgálati viszony után járó elismerés kivételével –, ha az elöljáró parancsnoknak tudomása van arról, hogy a hivatásos állomány tagja
 
-a)[^230] ellen fegyelmi, méltatlansági vagy büntetőeljárás – ide nem értve a magánvádas eljárást vagy azt a pótmagánvádas eljárást, amelyet munkáltatói intézkedéssel összefüggésben indítottak meg – van folyamatban,
+a)[^231] ellen fegyelmi, méltatlansági vagy büntetőeljárás – ide nem értve a magánvádas eljárást vagy azt a pótmagánvádas eljárást, amelyet munkáltatói intézkedéssel összefüggésben indítottak meg – van folyamatban,
 
-b)[^231] fegyelmi fenyítés hatálya alatt áll,
+b)[^232] fegyelmi fenyítés hatálya alatt áll,
 
 c) ellen a bíróság felfüggesztett szabadságvesztés büntetést szabott ki, a próbaidő eredményes leteltéig,
 
@@ -16,5 +16,5 @@ d) ellen a bíróság pénzbüntetést szabott ki, legalább 6 hónapig, vagy ha
 
 (5) Az Országgyűlési Őrség hivatásos állományának tagja köteles az Országgyűlési Őrség parancsnokának bejelenteni a nem az Országgyűlés elnökétől vagy az Országgyűlési Őrség parancsnokától kapott elismerést. Nemzetközi szervezettől, külföldi állami szervtől származó elismerés, vagy miniszter által alapított kitüntető cím vagy díj viselését az Országgyűlési Őrség parancsnoka engedélyezi.
 
-[^230]: A 67. § (2) bekezdés a) pontja az 54/2025. (XII. 22.) BM rendelet 4. §-ával megállapított szöveg.
-[^231]: A 67. § (2) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 32. pontja szerint módosított szöveg.
+[^231]: A 67. § (2) bekezdés a) pontja az 54/2025. (XII. 22.) BM rendelet 4. §-ával megállapított szöveg.
+[^232]: A 67. § (2) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 32. pontja szerint módosított szöveg.

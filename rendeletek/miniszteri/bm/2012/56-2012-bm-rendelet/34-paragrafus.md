@@ -1,8 +1,8 @@
 ## 8. A szolgálati viszony tartalma
 
-34. § (1)[^113] A szolgálati viszony létesítésekor, valamint új szolgálati beosztásba helyezés esetén az első szolgálatteljesítés megkezdésekor (a továbbiakban: első szolgálatteljesítés) a hivatásos állomány tagjának át kell adni a szolgálati beosztásra meghatározott munkaköri leírást, melyet az érintettnek alá kell írnia.
+34. § (1)[^114] A szolgálati viszony létesítésekor, valamint új szolgálati beosztásba helyezés esetén az első szolgálatteljesítés megkezdésekor (a továbbiakban: első szolgálatteljesítés) a hivatásos állomány tagjának át kell adni a szolgálati beosztásra meghatározott munkaköri leírást, melyet az érintettnek alá kell írnia.
 
-(2)[^114] Az első szolgálatteljesítés megkezdésekor a hivatásos állomány tagjával ismertetni kell a tevékenységére vonatkozó munkarendet, a szolgálati és pihenőidő biztosításának, a hivatásos állomány tagját terhelő kártérítési felelősség rendjének szabályait, továbbá ki kell oktatni az adott szolgálati helyre vonatkozó munkavédelmi, tűzvédelmi és egyéb biztonsági rendszabályokról, melynek megtörténtét írásban dokumentálni kell.
+(2)[^115] Az első szolgálatteljesítés megkezdésekor a hivatásos állomány tagjával ismertetni kell a tevékenységére vonatkozó munkarendet, a szolgálati és pihenőidő biztosításának, a hivatásos állomány tagját terhelő kártérítési felelősség rendjének szabályait, továbbá ki kell oktatni az adott szolgálati helyre vonatkozó munkavédelmi, tűzvédelmi és egyéb biztonsági rendszabályokról, melynek megtörténtét írásban dokumentálni kell.
 
-[^113]: A 34. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 41. pontja szerint módosított szöveg.
-[^114]: A 34. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^114]: A 34. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 41. pontja szerint módosított szöveg.
+[^115]: A 34. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 19. § b) pontja szerint módosított szöveg.

@@ -4,18 +4,18 @@
 
 a) az Országgyűlési Őrség parancsnokának, mint az eljárás elrendelőjének nevét, beosztását,
 
-b)[^328] az eljáró személy vagy bizottság tagjainak nevét,
+b)[^329] az eljáró személy vagy bizottság tagjainak nevét,
 
 c) a jegyzőkönyv készítésének helyét és idejét,
 
-d)[^329] a meghallgatott személy természetes személyazonosító adatait, beosztását és lakcímét,
+d)[^330] a meghallgatott személy természetes személyazonosító adatait, beosztását és lakcímét,
 
 e) a káresemény leírását,
 
 f) az ügyre vonatkozó lényeges nyilatkozatokat, valamint
 
-g)[^330] a meghallgatott személy, az eljáró személy vagy bizottság tagjainak és a jegyzőkönyvvezető aláírását.
+g)[^331] a meghallgatott személy, az eljáró személy vagy bizottság tagjainak és a jegyzőkönyvvezető aláírását.
 
-[^328]: A 113. § (2) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 35. §-ával megállapított szöveg.
-[^329]: A 113. § (2) bekezdés d) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 45. pontja szerint módosított szöveg.
-[^330]: A 113. § (2) bekezdés g) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 46. pontja szerint módosított szöveg.
+[^329]: A 113. § (2) bekezdés b) pontja a 60/2024. (XII. 23.) BM rendelet 35. §-ával megállapított szöveg.
+[^330]: A 113. § (2) bekezdés d) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 45. pontja szerint módosított szöveg.
+[^331]: A 113. § (2) bekezdés g) pontja a 60/2024. (XII. 23.) BM rendelet 39. § 46. pontja szerint módosított szöveg.

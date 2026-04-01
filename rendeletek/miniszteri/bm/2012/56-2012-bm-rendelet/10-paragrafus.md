@@ -1,3 +1,3 @@
-10. §[^44]
+10. §[^45]
 
-[^44]: A 10. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 1. pontja hatályon kívül helyezte.
+[^45]: A 10. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 1. pontja hatályon kívül helyezte.

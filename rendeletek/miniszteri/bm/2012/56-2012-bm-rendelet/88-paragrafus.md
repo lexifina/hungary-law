@@ -4,6 +4,6 @@
 
 (3) A fegyelmi eljárás lefolytatásához az Országgyűlés elnöke irányítása alá tartozó szervek vezetői és munkatársai kötelesek a szükséges információkat megadni, iratokat – a minősített adat védelmére vonatkozó szabályok szerint – átadni, a kért vizsgálatokat elvégezni.
 
-(4)[^280] Ha a bizonyításhoz más szervnél vagy bíróságnál keletkezett iratok beszerzése szükséges, az erről szóló megkeresésben a fegyelmi jogkör gyakorlójának meg kell jelölnie az eljárás alá vont személyt, a kért irat vagy bizonyíték összefüggését a fegyelmi eljárás tényállásával, illetve a vétkesség megállapításával.
+(4)[^281] Ha a bizonyításhoz más szervnél vagy bíróságnál keletkezett iratok beszerzése szükséges, az erről szóló megkeresésben a fegyelmi jogkör gyakorlójának meg kell jelölnie az eljárás alá vont személyt, a kért irat vagy bizonyíték összefüggését a fegyelmi eljárás tényállásával, illetve a vétkesség megállapításával.
 
-[^280]: A 88. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 39. pontja szerint módosított szöveg.
+[^281]: A 88. § (4) bekezdése a 60/2024. (XII. 23.) BM rendelet 39. § 39. pontja szerint módosított szöveg.
