@@ -1,4 +1,4 @@
-5/C. §[^26] (1) A 2. mellékletben foglalt táblázat 61. sora szerinti beruházással érintett, Sukoró külterület 021/5, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/9, 022/10, 022/11, 022/13, 022/14, 023, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2 helyrajzi számú ingatlanokon különleges beépítésre szánt területen megvalósuló szabadidő központ rendeltetésszerű használathoz szükséges építmény, konferencia, oktatási, művelődési, kulturális, közösségi szórakoztató, rekreációs, szolgáltató, sport, szállás rendeltetést tartalmazó épületek és építmények, továbbá azok kiszolgáló-építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+5/C. §[^27] (1) A 2. mellékletben foglalt táblázat 61. sora szerinti beruházással érintett, Sukoró külterület 021/5, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/9, 022/10, 022/11, 022/13, 022/14, 023, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2 helyrajzi számú ingatlanokon különleges beépítésre szánt területen megvalósuló szabadidő központ rendeltetésszerű használathoz szükséges építmény, konferencia, oktatási, művelődési, kulturális, közösségi szórakoztató, rekreációs, szolgáltató, sport, szállás rendeltetést tartalmazó épületek és építmények, továbbá azok kiszolgáló-építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -50,4 +50,4 @@ c) az ingatlan teljes területe építési helynek minősül, valamint
 
 d) a zöldfelület megengedett legkisebb mértéke 70%.
 
-[^26]: Az 5/C. §-t a 493/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^27]: Az 5/C. §-t a 493/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

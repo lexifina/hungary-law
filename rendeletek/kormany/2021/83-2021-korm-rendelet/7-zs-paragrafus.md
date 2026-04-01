@@ -1,4 +1,4 @@
-7/ZS. §[^96] (1) A 2. mellékletben foglalt táblázat 98. sora szerinti beruházással érintett ingatlanon a sajátos településrendezési és építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+7/ZS. §[^98] (1) A 2. mellékletben foglalt táblázat 98. sora szerinti beruházással érintett ingatlanon a sajátos településrendezési és építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -30,4 +30,4 @@ k) az építmények és önálló rendeltetési egységek rendeltetésszerű has
 
 (3) A Beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
-[^96]: A 7/ZS. §-t a 429/2023. (IX. 14.) Korm. rendelet 12. §-a iktatta be.
+[^98]: A 7/ZS. §-t a 429/2023. (IX. 14.) Korm. rendelet 12. §-a iktatta be.

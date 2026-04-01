@@ -1,4 +1,4 @@
-5/F. §[^29] (1) A 2. mellékletben foglalt táblázat 108. sora szerinti beruházással érintett ingatlanon a sajátos településrendezési és építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/F. §[^30] (1) A 2. mellékletben foglalt táblázat 108. sora szerinti beruházással érintett ingatlanon a sajátos településrendezési és építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv, az OTÉK, illetve TÉKA előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -14,4 +14,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a be
 
 (6) A 2. mellékletben foglalt táblázat 108. sora szerinti beruházás tekintetében településképi bejelentési eljárásnak nincs helye, és településképi véleményezési eljárást nem kell lefolytatni.
 
-[^29]: Az 5/F. §-t a 477/2025. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^30]: Az 5/F. §-t a 477/2025. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

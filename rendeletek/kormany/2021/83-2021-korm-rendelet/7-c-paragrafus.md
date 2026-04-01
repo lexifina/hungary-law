@@ -1,4 +1,4 @@
-7/C. §[^69] (1) A 2. mellékletben foglalt táblázat 99. sora szerinti beruházással érintett ingatlanok telkére rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató, kereskedelmi szállásszolgáltató és azokat kiegészítő egyéb rendeltetésű építmények, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetőek el, a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/C. §[^71] (1) A 2. mellékletben foglalt táblázat 99. sora szerinti beruházással érintett ingatlanok telkére rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató, kereskedelmi szállásszolgáltató és azokat kiegészítő egyéb rendeltetésű építmények, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetőek el, a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési terv vagy az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -30,4 +30,4 @@ k) a telken, illetve az abból telekalakítással létrejövő telkeken közhasz
 
 l) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 60%-ának elhelyezését kell biztosítani, azzal, hogy az OTÉK 42. § (11) bekezdése ezen követelmények érvényesítése esetében is alkalmazható, továbbá mélygarázst, valamint autóbusz-várakozóhelyet nem kell biztosítani.
 
-[^69]: A 7/C. §-t a 495/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^71]: A 7/C. §-t a 495/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.

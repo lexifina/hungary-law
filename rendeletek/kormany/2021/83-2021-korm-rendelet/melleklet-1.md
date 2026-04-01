@@ -42,27 +42,27 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 20. területrendezési hatósági eljárások,
 
-21.[^235] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+21.[^237] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
-22.[^236] földvédelmi hatósági eljárások,
+22.[^238] földvédelmi hatósági eljárások,
 
-23.[^237] erdészeti hatósági eljárások,
+23.[^239] erdészeti hatósági eljárások,
 
-24.[^238] bányahatósági engedélyezési eljárások,
+24.[^240] bányahatósági engedélyezési eljárások,
 
-25.[^239] hulladékgazdálkodási hatósági eljárás,
+25.[^241] hulladékgazdálkodási hatósági eljárás,
 
-26.[^240] villamosenergia-ipari tevékenységek végzéséhez szükséges engedélyezési eljárások,
+26.[^242] villamosenergia-ipari tevékenységek végzéséhez szükséges engedélyezési eljárások,
 
-27.[^241] azok az 1–26. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+27.[^243] azok az 1–26. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-28.[^242] az 1–27. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+28.[^244] az 1–27. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^235]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 329. §-a szerint módosított szöveg.
-[^236]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^237]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^238]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^239]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^240]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^241]: Az 1. melléklet 27. pontját a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontja iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^242]: Az 1. melléklet 28. pontját a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontja iktatta be.
+[^237]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 329. §-a szerint módosított szöveg.
+[^238]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^239]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^240]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^241]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^242]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^243]: Az 1. melléklet 27. pontját a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontja iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^244]: Az 1. melléklet 28. pontját a 301/2022. (VIII. 9.) Korm. rendelet 3. § a) pontja iktatta be.

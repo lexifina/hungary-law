@@ -1,4 +1,4 @@
-6/D. §[^34] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+6/D. §[^36] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -12,4 +12,4 @@ b) a zöldfelület megengedett legkisebb mértéke 30%,
 
 c) az oldalkert legkisebb szélessége 6,5-6,5 méter, az előkert legkisebb mérete 10 méter.
 
-[^34]: A 6/D. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 6/D. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 (2) A Beruházásokkal összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
 
-(2a)[^22] A (2) bekezdéstől eltérően a 2. mellékletben foglalt táblázat 106. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő minden érintett szakhatóság esetében egységesen nyolc nap.
+(2a)[^22] A (2) bekezdéstől eltérően a 2. mellékletben foglalt táblázat 106. és 109. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő minden érintett szakhatóság esetében egységesen nyolc nap.
 
 [^21]: A 4. § (1a) bekezdését a 131/2022. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
-[^22]: A 4. § (2a) bekezdését a 279/2025. (VIII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 4. § (2a) bekezdését a 279/2025. (VIII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 68/2026. (III. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

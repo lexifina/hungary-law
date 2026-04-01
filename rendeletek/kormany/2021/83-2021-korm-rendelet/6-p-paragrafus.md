@@ -1,4 +1,4 @@
-6/P. §[^51] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+6/P. §[^53] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -26,4 +26,4 @@ i) a párkánymagasság megengedett legnagyobb mértéke 23 méter,
 
 j) a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározottakkal ellentétben 70 darab személygépkocsi elhelyezését kell biztosítani.
 
-[^51]: A 6/P. §-t a 145/2022. (IV. 7.) Korm. rendelet 4. §-a iktatta be.
+[^53]: A 6/P. §-t a 145/2022. (IV. 7.) Korm. rendelet 4. §-a iktatta be.

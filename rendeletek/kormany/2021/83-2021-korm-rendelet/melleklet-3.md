@@ -216,6 +216,8 @@
 
 | 108. | A Hajós Alfréd és Széchy Tamás Sportuszoda fejlesztése | Budapest 23801 és 23800/7 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^244]
+| 109. | Kutatási Komplexum kialakításához kapcsolódó építési beruházás | Budapest XI. kerület belterület 4082/73 helyrajzi szám, továbbá a 4082/72 és a 4082/73 helyrajzi számú ingatlanokon felvonulási építmény kerül elhelyezésre | Budapest Főváros Kormányhivatalát vezető főispán |
 
-[^244]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja, a 475/2025. (XII. 31.) Korm. rendelet 3. §-a, a 477/2025. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^246]
+
+[^246]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja, a 475/2025. (XII. 31.) Korm. rendelet 3. §-a, a 477/2025. (XII. 31.) Korm. rendelet 4. §-a, a 68/2026. (III. 23.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
