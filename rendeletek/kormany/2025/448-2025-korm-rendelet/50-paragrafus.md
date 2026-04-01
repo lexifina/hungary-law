@@ -1,3 +1,3 @@
-50. §[^63]
+50. §[^60]
 
-[^63]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-97. §[^110]
+97. §[^107]
 
-[^110]: A 97. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 97. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

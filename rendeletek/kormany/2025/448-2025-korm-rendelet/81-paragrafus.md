@@ -1,3 +1,3 @@
-81. §[^94]
+81. §[^91]
 
-[^94]: A 81. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 81. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

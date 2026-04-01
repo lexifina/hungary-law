@@ -1,3 +1,3 @@
-75. §[^88]
+75. §[^85]
 
-[^88]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

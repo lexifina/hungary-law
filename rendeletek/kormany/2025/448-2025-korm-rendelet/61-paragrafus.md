@@ -1,3 +1,3 @@
-61. §[^74]
+61. §[^71]
 
-[^74]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

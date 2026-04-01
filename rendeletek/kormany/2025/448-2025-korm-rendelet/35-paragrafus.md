@@ -1,5 +1,5 @@
 ## 7. Az egyéb célú földmérési és térképészeti tevékenységgel összefüggő szakmagyakorlás részletes szabályairól szóló 327/2015. (XI. 10.) Korm. rendelet módosítása
 
-35. §[^48]
+35. §[^45]
 
-[^48]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

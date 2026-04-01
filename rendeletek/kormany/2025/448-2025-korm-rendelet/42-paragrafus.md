@@ -1,3 +1,3 @@
-42. §[^55]
+42. §[^52]
 
-[^55]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

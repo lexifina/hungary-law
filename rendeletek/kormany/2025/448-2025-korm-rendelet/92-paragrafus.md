@@ -1,3 +1,3 @@
-92. §[^105]
+92. §[^102]
 
-[^105]: A 92. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 92. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
