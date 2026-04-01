@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-8-20-06
 | 2022-04-27 | 2014-8-20-06.7 | 12/2022. (IV. 26.) IM rendelet |
 | 2023-01-01 | 2014-8-20-06.8 | 28/2016. (XII. 27.) IM rendelet |
 | 2026-03-18 | 2014-8-20-06.9 | 4/2026. (III. 10.) IM rendelet |
+| 2026-04-01 | 2014-8-20-06.10 | 2010: CXXX. törvény |
