@@ -2,7 +2,6 @@
 
 5. § (1)[^5]
 
-(2)[^6]
+(2) A 6/2021. (X. 29.) SZTFH rendelet 1. melléklete a 2. melléklet szerint módosul.
 
 [^5]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. § (2) bekezdése a 34. § (4) bekezdése alapján 2026. április 1-jén lép hatályba.
