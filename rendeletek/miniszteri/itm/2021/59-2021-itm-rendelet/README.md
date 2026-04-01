@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-59-20-7
 | 2021-12-17 | 2021-59-20-7Q.2 | 2010: CXXX. törvény |
 | 2022-07-01 | 2021-59-20-7Q.3 | 5/2022. (VI. 30.) TIM rendelet |
 | 2022-07-28 | 2021-59-20-7Q.4 | 8/2022. (VII. 27.) TIM rendelet |
+| 2026-04-01 | 2021-59-20-7Q.5 | 8/2022. (VII. 27.) TIM rendelet |
