@@ -8,4 +8,6 @@ b) felhívja az építési és közlekedési minisztert, hogy gondoskodjon a Kor
 
 | Határidő: | 2027. december 31. |
 
-2. A Kormány visszavonja a Korm. határozat 1. mellékletében foglalt táblázat „Összeg (bruttó Ft)” oszlopát, valamint „Tervezés és kivitelezés összesen:” sorát.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
