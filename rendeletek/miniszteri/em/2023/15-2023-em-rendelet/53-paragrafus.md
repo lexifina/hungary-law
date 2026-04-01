@@ -1,4 +1,4 @@
-## 25.[^142] Erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatás
+## 25.[^144] Erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatás
 
 53. § (1) Az erőforrás-hatékonyságra és körforgásos gazdaságra való átállásra irányuló beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2)–(5) bekezdés szerinti beruházásokhoz nyújtható.
 
@@ -26,4 +26,4 @@ a) a felhasznált erőforrások magukban foglalnak minden felhasznált nyersanya
 
 b) a felhasznált erőforrások nettó csökkenését a támogatási intézkedés végrehajtása előtti és utáni fogyasztás mérése vagy becslése alapján kell meghatározni, figyelemmel az erőforrás felhasználását befolyásoló külső körülmények alapján történő kiigazításra is.
 
-[^142]: A 25. alcím (53–53/B. §) a 9/2024. (V. 23.) EM rendelet 12. §-ával megállapított szöveg.
+[^144]: A 25. alcím (53–53/B. §) a 9/2024. (V. 23.) EM rendelet 12. §-ával megállapított szöveg.

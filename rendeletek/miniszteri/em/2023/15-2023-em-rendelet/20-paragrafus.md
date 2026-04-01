@@ -1,4 +1,4 @@
-## 10.[^113] Dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás
+## 10.[^115] Dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás
 
 20. § (1) A dekarbonizációt is magában foglaló környezetvédelmi beruházási támogatás – beleértve az üvegházhatású gázok kibocsátásának csökkentését és megszüntetését célzó támogatást is – (ezen alcím alkalmazásában a továbbiakban: támogatás) akkor nyújtható, ha az nem tartozik a 11–15., 25., 27. és 28. alcím, továbbá a 651/2014/EU bizottsági rendelet 38b., 39. és 43–45. cikkének hatálya alá.
 
@@ -32,4 +32,4 @@ a) a szén-dioxid-leválasztás, illetve -szállítás – beleértve a teljes s
 
 b) a beruházás nettó jelenértéke a projekt teljes élettartama alatt negatív, amelynek kiszámítása során a szén-dioxid-kibocsátás fel nem merült költségeit is figyelembe kell venni.
 
-[^113]: A 10. alcím (20–23/B. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^115]: A 10. alcím (20–23/B. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

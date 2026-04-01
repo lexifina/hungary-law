@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-15-20-8
 | 2025-12-20 | 2023-15-20-8Y.5 | 34/2025. (XII. 19.) EM rendelet |
 | 2026-01-01 | 2023-15-20-8Y.6 | 34/2025. (XII. 19.) EM rendelet |
 | 2026-01-10 | 2023-15-20-8Y.7 | 34/2025. (XII. 19.) EM rendelet |
+| 2026-04-01 | 2023-15-20-8Y.8 | 8/2026. (III. 31.) EM rendelet |

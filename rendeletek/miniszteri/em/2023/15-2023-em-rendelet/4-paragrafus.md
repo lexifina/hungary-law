@@ -10,7 +10,7 @@
 
 2. 27–32. sora alapján az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
 
-3. 6., 7., 9–11., 13. és 27–32. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
+3.[^71] 6., 7., 9–11., 13., 26–31. sora alapján az (EU) 2025/2630 bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
 
 4. 6., 7., 9–11., 13., 14., 21. és 27–32. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális beruházási támogatás;
 
@@ -60,6 +60,20 @@
 
 nyújtható.
 
-(2) Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat 12., 14., 16., 18., 20. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás nyújtható.
+(2)[^72] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
+
+a) 12., 14., 16., 18., 20., 23. sora alapján az (EU) 2025/2630 bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
+
+b) 5. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
+
+c) 5. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás;
+
+d) 5. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+
+e) 5. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
+
+nyújtható.
 
 [^70]: A 4. § a 34/2025. (XII. 19.) EM rendelet 1. §-ával megállapított szöveg.
+[^71]: A 4. § (1) bekezdés 3. pontja a 8/2026. (III. 31.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^72]: A 4. § (2) bekezdése a 8/2026. (III. 31.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.

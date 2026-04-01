@@ -1,4 +1,4 @@
-## 14.[^117] Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás
+## 14.[^119] Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás
 
 31. § (1) Az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiahatékony vagy azzá váló távfűtési, illetve távhűtési rendszerek – ideértve a hő- vagy hűtőenergia-termelő létesítményeket, az elosztóhálózatokat és a hőenergia-tárolást is – kiépítéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
@@ -30,4 +30,4 @@ b) a korszerűsítés nem eredményezi a fosszilis tüzelőanyagokból származ�
 
 (7) A (3) bekezdés c) pontja kivételével nem nyújtható támogatás fosszilis tüzelőanyaggal működő termelő létesítmény kiépítéséhez vagy korszerűsítéséhez.
 
-[^117]: A 14. alcím (31–32. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^119]: A 14. alcím (31–32. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

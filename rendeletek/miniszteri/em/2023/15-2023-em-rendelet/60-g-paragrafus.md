@@ -1,4 +1,4 @@
-## 29.[^146] Helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
+## 29.[^148] Helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
 
 60/G. § (1) A helyhez között széles sávú infrastruktúra kiépítéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azokon a területeken nyújtható, ahol
 
@@ -26,4 +26,4 @@ kell elvégezni.
 
 (8) Az (5) bekezdésben foglalt eredmények ellenőrzésére a 651/2014/EU bizottsági rendelet 52. cikk (5) bekezdés b) pontja szerinti hatóság nyilvános konzultációt folytat le, amelynek keretében nyilvánosan elérhető honlapon közzéteszi a tervezett állami intézkedést és a (4) bekezdés szerinti földrajzi felmérés részletes adatait. A 651/2014/EU bizottsági rendelet 52. cikk (5) bekezdés b) pontja szerinti hatóság a közzétételtől számított legalább 30 napig tartó konzultáció keretében biztosítja, hogy a tervezett állami intézkedést az érdekelt felek észrevételezzék, és információt adhassanak az (1) bekezdés szerinti letöltési sebességgel bíró már meglévő vagy a releváns időtávban hitelt érdemlően kiépíteni tervezett hálózataikról.
 
-[^146]: A 29. alcímet (60/G–60/L. §-t) a 10/2025. (IV. 3.) EM rendelet 8. §-a iktatta be.
+[^148]: A 29. alcímet (60/G–60/L. §-t) a 10/2025. (IV. 3.) EM rendelet 8. §-a iktatta be.

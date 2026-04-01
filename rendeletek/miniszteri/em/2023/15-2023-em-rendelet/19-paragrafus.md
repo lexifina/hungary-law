@@ -1,4 +1,4 @@
-## 9.[^112] Az eljárási innováció és szervezési innováció támogatása
+## 9.[^114] Az eljárási innováció és szervezési innováció támogatása
 
 19. § (1) Az eljárási innováció és szervezési innováció támogatása (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -14,4 +14,4 @@ d) a további általános és egyéb működési költség, ideértve az anyagok
 
 (3) Nagyvállalkozásnak akkor nyújtható támogatás, ha az a támogatott tevékenység során hatékony együttműködést folytat kis- és középvállalkozással, és ha az együttműködő kis- és középvállalkozás viseli az összes elszámolható költség legalább 30%-át.
 
-[^112]: A 9. alcím (19. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^114]: A 9. alcím (19. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

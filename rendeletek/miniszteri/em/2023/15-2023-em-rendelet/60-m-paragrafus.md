@@ -1,4 +1,4 @@
-## 30.[^147] A csekély összegű közszolgáltatási támogatás
+## 30.[^149] A csekély összegű közszolgáltatási támogatás
 
 60/M. § (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a hétszázötvenezer eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -12,4 +12,4 @@
 
 (6) A támogatás halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-[^147]: A 30. alcímet (60/M. §-t) a 10/2025. (IV. 3.) EM rendelet 8. §-a iktatta be.
+[^149]: A 30. alcímet (60/M. §-t) a 10/2025. (IV. 3.) EM rendelet 8. §-a iktatta be.

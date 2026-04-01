@@ -1,4 +1,4 @@
-## 5.[^108] Az induló vállalkozásnak nyújtott támogatás
+## 5.[^110] Az induló vállalkozásnak nyújtott támogatás
 
 9. § (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
 
@@ -20,4 +20,4 @@ eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétő
 
 (3) Ezen alcím keretében támogatás pénzügyi közvetítőn keresztül nem nyújtható.
 
-[^108]: Az 5. alcím (9–13. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
+[^110]: Az 5. alcím (9–13. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.
