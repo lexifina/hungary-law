@@ -20,7 +20,7 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^49]
+3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^51]
 
 Szakértői nyilvántartás tartalma
 
@@ -34,4 +34,7 @@ Szakértői nyilvántartás tartalma
 
 5. a megbízás egyedi azonosítója.
 
-[^49]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.
+6.[^52] építész tűzvédelmi szakértő esetén a felelősségbiztosítási kötvény száma.
+
+[^51]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.
+[^52]: A 3. melléklet 6. pontját a 11/2026. (III. 31.) BM rendelet 2. §-a iktatta be.

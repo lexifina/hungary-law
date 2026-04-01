@@ -20,8 +20,8 @@
 
 | 4. Tűzvizsgálat | a) Tűzvizsgálati szakértő |
 
-2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^48]
+2. melléklet a 47/2011. (XII. 15.) BM rendelethez[^50]
 
 A tűzvédelmi szakértői tevékenység bejelentése
 
-[^48]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.
+[^50]: A 2. mellékletet a 75/2015. (XII. 22.) BM rendelet 3. § (15) bekezdése iktatta be.
