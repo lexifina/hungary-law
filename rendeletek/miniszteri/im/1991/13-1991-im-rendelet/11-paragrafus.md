@@ -1,5 +1,5 @@
 ## (A Ktv. 27. §-ához)
 
-11. §[^53]
+11. §[^59]
 
-[^53]: A Vhr. 11. §-át a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^59]: A Vhr. 11. §-át a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^123]
+6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^129]
 
 Közjegyző okirat-szerkesztési eljárására irányuló kérelem
 
@@ -70,4 +70,4 @@ Aláírás
 
 ** A választ jelölje X-szel.
 
-[^123]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be, szövege a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^129]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be, szövege a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés e) pontja szerint módosított szöveg.

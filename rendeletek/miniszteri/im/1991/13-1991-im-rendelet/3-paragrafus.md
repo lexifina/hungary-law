@@ -44,7 +44,7 @@ h) a közjegyzői tevékenység megkezdésével járó kiadások fedezésére, v
 
 (5)[^16] Ha a pályázó a pályáztató területi elnökségnél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
-(6)[^17] Ha a közjegyzői álláshelyre más kamara illetékességi területén működő közjegyző vagy közjegyzőhelyettes nyújt be pályázatot, a pályáztató területi elnökség az illetékes területi kamara elnökségének a pályázóra vonatkozó írásbeli véleményét beszerzi.
+(6)[^17] Ha a közjegyzői álláshelyre más kamara illetékességi területén működő közjegyző vagy közjegyzőhelyettes nyújt be pályázatot, a pályáztató területi elnökség az illetékes területi kamara elnökségének a pályázóra vonatkozó írásbeli véleményét beszerzi. Az illetékes területi kamara elnöksége írásbeli véleményét a megkeresés beérkezésétől számított 8 napon belül köteles megküldeni a pályáztató területi elnökség részére.
 
 (7)[^18] A közjegyző és a közjegyzőhelyettes pályázónak nem kell igazolnia olyan adatot, tényt, amelyet a közjegyzők, illetve a közjegyzőhelyettesek névjegyzéke tartalmaz, erre a pályázatban hivatkozni kell. Ha a közjegyző, illetve a közjegyzőhelyettes pályázó nem a pályáztató területi elnökség által vezetett névjegyzékbe van bejegyezve, a pályáztató területi elnökség megkeresi a névjegyzéket vezető területi elnökséget az adatok szolgáltatása, illetve a tények igazolása céljából.
 
@@ -59,5 +59,5 @@ h) a közjegyzői tevékenység megkezdésével járó kiadások fedezésére, v
 [^14]: A Vhr. 3. § (4a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, a 29/2024. (XII. 30.) IM rendelet 3. § a) pontja hatályon kívül helyezte.
 [^15]: A Vhr. 3. § (4b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, szövege a 29/2024. (XII. 30.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^16]: A Vhr. 3. § (5) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^17]: A Vhr. 3. § (6) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^17]: A Vhr. 3. § (6) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés c) pontja, az 5/2026. (III. 31.) IM rendelet 9. §-a szerint módosított szöveg.
 [^18]: A Vhr. 3. § (7) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (6) bekezdése iktatta be.

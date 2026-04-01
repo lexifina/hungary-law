@@ -1,6 +1,6 @@
-## Közjegyzői ügyek nyilvántartása[^91]
+## Közjegyzői ügyek nyilvántartása[^97]
 
-28. §[^92]
+28. §[^98]
 
-[^91]: A Vhr. 28. §-át megelőző alcím a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg.
-[^92]: A Vhr. 28. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^97]: A Vhr. 28. §-át megelőző alcím a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg.
+[^98]: A Vhr. 28. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-21. §[^65]
+21. §[^71]
 
-[^65]: A Vhr. 21. §-át a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^71]: A Vhr. 21. §-át a 10/2019. (IV. 5.) IM rendelet 1. § (3) bekezdés d) pontja hatályon kívül helyezte.
