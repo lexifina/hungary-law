@@ -1,1 +1,1 @@
-6. §
+6. § Az alapszámlához való hozzáférésről, az alapszámla jellemzőiről és díjazásáról szóló 262/2016. (VIII. 31.) Korm. rendelet 4. § (1) bekezdés a) pontjában az „az egyszázötvenezer forintot” szövegrész helyébe az „a háromszázezer forintot” szöveg lép.
