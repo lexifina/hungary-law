@@ -1,3 +1,3 @@
-57. §[^163]
+57. §[^165]
 
-[^163]: Az 57. §-t a 18/2021. (XII. 23.) IM rendelet 6. § o) pontja hatályon kívül helyezte.
+[^165]: Az 57. §-t a 18/2021. (XII. 23.) IM rendelet 6. § o) pontja hatályon kívül helyezte.

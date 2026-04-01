@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | 2023-01-01 | 2002-1-20-06.33 | 5/2016. (III. 8.) IM rendelet |
 | 2025-03-01 | 2002-1-20-06.34 | 31/2024. (XII. 30.) IM rendelet |
 | 2026-01-23 | 2002-1-20-06.35 | 40/2011. (XII. 30.) KIM rendelet |
+| 2026-04-01 | 2002-1-20-06.36 | 5/2026. (III. 31.) IM rendelet |

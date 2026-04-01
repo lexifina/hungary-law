@@ -2,8 +2,8 @@
 
 (2) A végrehajtó pénzkezelésére, továbbá nyilvántartási, elszámolási és számlaadási kötelezettségére a számviteli törvényben, valamint az adó- és társadalombiztosítási jogszabályokban megállapított rendelkezéseket is alkalmazni kell.
 
-(3)[^153]
+(3)[^155]
 
 (4) A BGH az eljárása során e rendeletet, a bírósági ügyviteli rendelkezéseket, továbbá a gazdasági, pénzügyi és számviteli feladatok ellátására vonatkozó más szabályokat alkalmazza.
 
-[^153]: Az 52. § (3) bekezdését a 18/2021. (XII. 23.) IM rendelet 6. § n) pontja hatályon kívül helyezte.
+[^155]: Az 52. § (3) bekezdését a 18/2021. (XII. 23.) IM rendelet 6. § n) pontja hatályon kívül helyezte.

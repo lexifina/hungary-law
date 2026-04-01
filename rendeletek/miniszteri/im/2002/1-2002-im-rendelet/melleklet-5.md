@@ -1,4 +1,4 @@
-5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^209]
+5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^212]
 
 A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
@@ -128,7 +128,7 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 1.7.3.9. faxszám
 
-1.8.[^210] adós törvényes képviselőjének, illetve az állam, mint adós esetén a képviseletet ellátó szerv adatai
+1.8.[^213] adós törvényes képviselőjének, illetve az állam, mint adós esetén a képviseletet ellátó szerv adatai
 
 1.8.1. név
 
@@ -152,11 +152,11 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 1.8.2.9. faxszám
 
-1.8.2.10.[^211] elektronikus levélcím
+1.8.2.10.[^214] elektronikus levélcím
 
-1.8.3.[^212] a képviselet típusa.
+1.8.3.[^215] a képviselet típusa.
 
-1.9.[^213] adós meghatalmazott képviselőjének adatai
+1.9.[^216] adós meghatalmazott képviselőjének adatai
 
 1.9.1. név
 
@@ -272,7 +272,7 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 2.6.3. elektronikus levélcím
 
-2.7.[^214] végrehajtást kérő törvényes képviselőjének, illetve az állam, mint végrehajtást kérő esetén a képviseletet ellátó szerv adatai
+2.7.[^217] végrehajtást kérő törvényes képviselőjének, illetve az állam, mint végrehajtást kérő esetén a képviseletet ellátó szerv adatai
 
 2.7.1. név
 
@@ -296,7 +296,7 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 2.7.2.9. faxszám
 
-2.7.2.10.[^215] elektronikus levélcím
+2.7.2.10.[^218] elektronikus levélcím
 
 2.7.3. a törvényes képviselet típusa
 
@@ -364,7 +364,7 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 3.5. a határozat jogerőre emelkedésének napja
 
-3.5.1.[^216] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
+3.5.1.[^219] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 3.6. annak jelölése, ha a határozat (egyezség) előzetesen végrehajtható-e
 
@@ -506,11 +506,11 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 8. Nyilatkozat arról, hogy a végrehajtást kérő
 
-8.1.[^217] kéri-e, hogy a végrehajtó a végrehajtható okiratot személyesen kézbesítse az adósnak
+8.1.[^220] kéri-e, hogy a végrehajtó a végrehajtható okiratot személyesen kézbesítse az adósnak
 
 8.2. a foglalásnál és más végrehajtási eljárási cselekmény foganatosításánál részt kíván-e venni.
 
-9.[^218] Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
+9.[^221] Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
 
 9.1. tárgyi költségmentesség
 
@@ -530,7 +530,7 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 9.9. pártfogó ügyvédi díj előlegezése vagy megfizetése alóli mentesség a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2018. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján
 
-10.[^219] Nyilatkozat arról, hogy az adóst milyen költségkedvezmény illet meg:
+10.[^222] Nyilatkozat arról, hogy az adóst milyen költségkedvezmény illet meg:
 
 10.1. tárgyi költségmentesség
 
@@ -568,19 +568,19 @@ A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat 
 
 12.2. a végrehajtás megszüntetés, korlátozása iránti per indításának feltételei
 
-12.3.[^220] a kézbesítési kifogás előterjesztésének lehetősége és módja
+12.3.[^223] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 12.4. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-12.5.[^221] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
+12.5.[^224] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 12.6. a végrehajtható okirat kiállításával szembeni jogorvoslat és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
-12.7.[^222] a nyomtatvány 1.8. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
+12.7.[^225] a nyomtatvány 1.8. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
 
 12.8. az adós kötelezően kitöltendő adatai.
 
-12.8.1.[^223] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, szervezet nyilvántartási száma, cég esetén cégjegyzékszám;
+12.8.1.[^226] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, szervezet nyilvántartási száma, cég esetén cégjegyzékszám;
 
 Legalább egyet meg kell adni továbbá a következő adatok közül: lakóhely vagy székhely/telephely, munkahely, végrehajtás alá vonható egyéb vagyontárgy helye.
 
@@ -614,18 +614,18 @@ A végrehajtás eredményességének elősegítése érdekében szükséges az a
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^209]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
-[^210]: Az 5. számú melléklet 1.8. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^211]: Az 5. számú melléklet 1.8. pont 1.8.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
-[^212]: Az 5. számú melléklet 1.8.3. alpontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^213]: Az 5. számú melléklet 1.9. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
-[^214]: Az 5. számú melléklet 2.7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^215]: Az 5. számú melléklet 2.7. pont 2.7.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
-[^216]: Az 5. számú melléklet 3.5. pont 3.5.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
-[^217]: Az 5. számú melléklet 8.1. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése szerint módosított szöveg.
-[^218]: Az 5. számú melléklet 9. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^219]: Az 5. számú melléklet 10. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^220]: Az 5. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
-[^221]: Az 5. számú melléklet 12.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése szerint módosított szöveg.
-[^222]: Az 5. számú melléklet 12.7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^223]: Az 5. számú melléklet 12.8. pont 12.8.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
+[^212]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^213]: Az 5. számú melléklet 1.8. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^214]: Az 5. számú melléklet 1.8. pont 1.8.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
+[^215]: Az 5. számú melléklet 1.8.3. alpontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^216]: Az 5. számú melléklet 1.9. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
+[^217]: Az 5. számú melléklet 2.7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^218]: Az 5. számú melléklet 2.7. pont 2.7.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
+[^219]: Az 5. számú melléklet 3.5. pont 3.5.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.
+[^220]: Az 5. számú melléklet 8.1. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése szerint módosított szöveg.
+[^221]: Az 5. számú melléklet 9. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^222]: Az 5. számú melléklet 10. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^223]: Az 5. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
+[^224]: Az 5. számú melléklet 12.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése szerint módosított szöveg.
+[^225]: Az 5. számú melléklet 12.7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^226]: Az 5. számú melléklet 12.8. pont 12.8.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (3) bekezdése iktatta be.

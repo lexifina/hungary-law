@@ -1,15 +1,15 @@
-## 41. §[^117] A végrehajtó köteles biztosítani, hogy a felügyelő szerv megbizonyosodhasson a végrehajtó bélyegzőjének, szárazbélyegzőjének és elektronikus aláírás-létrehozó eszközének biztonságos őrzéséről, azok jogszerű használatáról, továbbá jogszerű használatának védelméről.
+## 41. §[^119] A végrehajtó köteles biztosítani, hogy a felügyelő szerv megbizonyosodhasson a végrehajtó bélyegzőjének, szárazbélyegzőjének és elektronikus aláírás-létrehozó eszközének biztonságos őrzéséről, azok jogszerű használatáról, továbbá jogszerű használatának védelméről.
 
 ## Iroda
 
 42. § (1) A végrehajtó a hivatalos tevékenységét – a helyszíni eljárási cselekmények kivételével – az irodájában végzi, a végrehajtási ügyek iratait és e rendeletben szabályozott nyilvántartásokat a titoktartási kötelezettség megtartásával az irodájában köteles tartani. A titoktartási kötelezettség alóli felmentést a felügyelő szerv adja meg.
 
-(2)[^118]
+(2)[^120]
 
 (3) Az irodát úgy kell kialakítani, hogy a felek fogadására is alkalmas legyen.
 
-(4)[^119] Az önálló bírósági végrehajtó a székhelyén külön irodát tarthat fenn a végrehajtói kézbesítési ügyek intézésére (a továbbiakban: kézbesítési iroda). A kézbesítési irodára az irodára vonatkozó szabályokat kell alkalmazni; a kézbesítési iroda – függetlenül az iroda fenntartásának módjától – másik önálló bírósági végrehajtóval közösen is működtethető.
+(4)[^121] Az önálló bírósági végrehajtó a székhelyén külön irodát tarthat fenn a végrehajtói kézbesítési ügyek intézésére (a továbbiakban: kézbesítési iroda). A kézbesítési irodára az irodára vonatkozó szabályokat kell alkalmazni; a kézbesítési iroda – függetlenül az iroda fenntartásának módjától – másik önálló bírósági végrehajtóval közösen is működtethető.
 
-[^117]: A 41. § a 20/2014. (XII. 23.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^118]: A 42. § (2) bekezdését a 18/2021. (XII. 23.) IM rendelet 6. § i) pontja hatályon kívül helyezte.
-[^119]: A 42. § (4) bekezdését a 27/2004. (VIII. 26.) IM rendelet 1. § (11) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^119]: A 41. § a 20/2014. (XII. 23.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^120]: A 42. § (2) bekezdését a 18/2021. (XII. 23.) IM rendelet 6. § i) pontja hatályon kívül helyezte.
+[^121]: A 42. § (4) bekezdését a 27/2004. (VIII. 26.) IM rendelet 1. § (11) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
