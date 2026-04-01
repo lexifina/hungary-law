@@ -1,4 +1,4 @@
-## Országosan: 218
+## Országosan: 217
 
 ## I.
 
@@ -74,9 +74,7 @@
 
 | Összesen: | 8 |
 
-## V.
-
-## Miskolci Törvényszék
+## V. Miskolci Törvényszék
 
 | Encsi Járásbíróság | 1 |
 
@@ -84,7 +82,7 @@
 
 | Mezőkövesdi Járásbíróság | 1 |
 
-| Miskolci Járásbíróság | 7 |
+| Miskolci Járásbíróság | 6 |
 
 | Ózdi Járásbíróság | 2 |
 
@@ -96,7 +94,7 @@
 
 | Tiszaújvárosi Járásbíróság | 1 |
 
-| Összesen: | 18 |
+| Összesen: | 17 |
 
 ## VI.
 
