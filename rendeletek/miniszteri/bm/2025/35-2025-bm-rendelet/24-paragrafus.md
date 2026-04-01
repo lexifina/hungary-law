@@ -1,3 +1,1 @@
-24. §[^2]
-
-[^2]: A 24. § a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
+24. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 4. melléklete az 1. melléklet szerint módosul.
