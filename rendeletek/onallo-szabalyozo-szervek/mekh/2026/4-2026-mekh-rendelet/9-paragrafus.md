@@ -1,1 +1,1 @@
-9. §
+9. § Az 1/2023. (IV. 5.) MEKH rendelet 3. § (1) bekezdésében az „az adatszolgáltató nem nyújt be a Hivatalhoz” szövegrész helyébe az „az adatszolgáltató nem nyújt be a Magyar Energetikai és Közmű-szabályozási Hivatalhoz (a továbbiakban: Hivatal)” szöveg lép.
