@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-22-20-0
 | 2025-01-30 | 2018-22-20-06.12 | 43/2024. (XII. 30.) IM rendelet |
 | 2025-09-01 | 2018-22-20-06.13 | 10/2025. (VIII. 28.) IM rendelet |
 | 2026-01-23 | 2018-22-20-06.14 | 2/2026. (I. 22.) IM rendelet |
+| 2026-04-01 | 2018-22-20-06.15 | 2/2026. (I. 22.) IM rendelet |
