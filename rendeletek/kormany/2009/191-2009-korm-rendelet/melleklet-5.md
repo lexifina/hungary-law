@@ -1,4 +1,4 @@
-5. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^426]
+5. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^429]
 
 Az építési tevékenység során ténylegesen képződött hulladékról készítendő építési-bontási hulladék nyilvántartó lap tartalma
 
@@ -14,4 +14,4 @@ Az építési tevékenység során ténylegesen képződött hulladékról kész
 
 6. A hulladékkezelő létesítmény neve, címe, KÜJ, KTJ száma
 
-[^426]: Az 5. melléklet a 286/2024. (IX. 30.) Korm. rendelet 45. § b) pontjával megállapított szöveg.
+[^429]: Az 5. melléklet a 286/2024. (IX. 30.) Korm. rendelet 45. § b) pontjával megállapított szöveg.

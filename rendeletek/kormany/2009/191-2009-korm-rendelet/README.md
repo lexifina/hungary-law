@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2025-08-28 | 2009-191-20-22.46 | 284/2025. (VIII. 25.) Korm. rendelet |
 | 2025-11-29 | 2009-191-20-22.47 | 374/2025. (XI. 28.) Korm. rendelet |
 | 2026-01-14 | 2009-191-20-22.48 | 448/2025. (XII. 29.) Korm. rendelet |
+| 2026-04-01 | 2009-191-20-22.49 | 448/2025. (XII. 29.) Korm. rendelet |
