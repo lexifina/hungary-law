@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-23-20-0
 | 2025-06-11 | 2002-23-20-0B.34 | 17/2025. (VI. 4.) BM rendelet |
 | 2025-06-29 | 2002-23-20-0B.33 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2025-10-01 | 2002-23-20-0B.35 | 41/2025. (IX. 29.) BM rendelet |
+| 2026-04-02 | 2002-23-20-0B.36 | 1/2007. (I. 24.) EüM rendelet |

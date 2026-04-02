@@ -4,7 +4,9 @@
 
 | 2. | Semmelweis Egyetem és intézményei | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
 
-| 3. | Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság |
+| 3. | A rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság |
+
+| 3a. | Magyar Honvédség egészségügyi intézményei | Magyar Honvédség Egészségügyi Központ Regionális, Intézményi Kutatásetikai Bizottság |
 
 | 4. | Budapesti székhelyű országos intézetek | Országos Onkológiai Intézet Regionális, Intézményi Tudományos és Kutatásetikai Bizottság |
 
@@ -26,8 +28,8 @@
 
 | 13. | Győr-Moson-Sopron, Komárom-Esztergom és Fejér vármegye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság |
 
-2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^111]
+2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^112]
 
 Bejelentés beavatkozással nem járó vizsgálathoz
 
-[^111]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése, a 3/2014. (I. 16.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^112]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése, a 3/2014. (I. 16.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.

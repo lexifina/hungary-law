@@ -8,7 +8,9 @@
 
 | 3. | Semmelweis Egyetem és intézményei | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
 
-| 4. | Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00290469 |
+| 4. | A rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Észak-Pesti Centrum Kórház – Honvédkórház Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00290469 |
+
+| 4a. | Magyar Honvédség egészségügyi intézményei | Magyar Honvédség Egészségügyi Központ Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00005620-06010028 |
 
 | 5. | Budapesti székhelyű országos intézetek | Országos Onkológiai Intézet Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-01490538- 00000000 |
 
@@ -34,6 +36,6 @@
 
 | 16. | Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^113]
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^114]
 
-[^113]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.
+[^114]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.
