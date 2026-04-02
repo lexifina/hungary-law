@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-80-20-2
 | 2025-10-01 | 2025-80-20-22.1 | 80/2025. (IV. 17.) Korm. rendelet |
 | 2025-10-02 | 2025-80-20-22.2 | 2010. évi CXXX. törvény |
 | 2026-04-01 | 2025-80-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-04-02 | 2025-80-20-22.4 | 2010. évi CXXX. törvény |
