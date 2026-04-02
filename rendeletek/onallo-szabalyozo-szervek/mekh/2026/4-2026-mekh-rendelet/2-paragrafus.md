@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 17/2020. (XII. 21.) MEKH rendelet 3/A. § (3) bekezdésében az „ , és ahhoz nem társul az adott évre előírt kötelezettség teljesítésén felüli energiamegtakarításhoz tartozó, élettartam lejártától függetlenül a következő évre vonatkozó egyszeres vagy többszörös elszámolhatósági kedvezmény” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

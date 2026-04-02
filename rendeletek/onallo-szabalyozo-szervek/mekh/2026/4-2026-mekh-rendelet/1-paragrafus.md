@@ -20,14 +20,6 @@
 
 ## 1. A végfelhasználási energiamegtakarítással kapcsolatos adatszolgáltatásról szóló 17/2020. (XII. 21.) MEKH rendelet módosítása
 
-1. § A végfelhasználási energiamegtakarítással kapcsolatos adatszolgáltatásról szóló 17/2020. (XII. 21.) MEKH rendelet [a továbbiakban: 17/2020. (XII. 21.) MEKH rendelet]
+1. §[^2]
 
-a) 2/A. § c) pontjában az „a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény (a továbbiakban: MEKH tv.) 5/K. § (3) bekezdése” szövegrész helyébe az „az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 15/A. § (4c) bekezdése” szöveg,
-
-b) 3. § (1) bekezdésében az „az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.)” szövegrész helyébe az „az Ehat.” szöveg,
-
-c) 3. § (2) bekezdésében a „változás MEKH tv. 5/K. § (2) bekezdése” szövegrész helyébe a „változás Ehat. 15/A. § (4b) bekezdése” szöveg,
-
-d) 5/A. §-ában az „az EKR adatgyűjtő rendszerben közzétett űrlap” szövegrész helyébe a „ , valamint az ügyletkötő piac minden kereskedési napján az EKR adatgyűjtő rendszer” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
