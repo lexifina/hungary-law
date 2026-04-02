@@ -28,6 +28,8 @@ Ajándékozás jogcímén átadásra kerülő ingóságok jegyzéke
 
 | Sorszám | Megajándékozott szervezet neve | Ingóság megnevezése és mennyisége | Segítendő feladat/cél | Az ingóság egyedi azonosító adatai |
 
-| 1. | Jövő Nemzedék Földje Alapítvány | Slaska / New Kyrgyz (1 db) | a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság működési feltételeinek biztosítása és bővítése, továbbá más minta- és tangazdaságok fejlődésének előmozdítása | 417 189200767, Khan Turu |
+| 1. | Jövő Nemzedék Földje Alapítvány | Slaska / New Kyrgyz (1 db) | a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság működési feltételeinek biztosítása és bővítése, továbbá más minta- és tangazdaságok fejlődésének előmozdítása | KGZ 0723 S, 981100004818055, Khan toru[^1] |
 
 | 2. | Kassai Lovasíjász Iskola Kassai Kánság | favázra épített nemezsátor (1 db) | hagyományőrző, kulturális és közösségépítő feladatok |  |
+
+[^1]: Az 1. mellékletben foglalt táblázat E:1 mezője az 1123/2026. (IV. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
