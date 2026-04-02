@@ -58,21 +58,21 @@
 
 ## 8. a Vtv. 36. § (2) bekezdés c) pontja alapján, a Vtv. 36. § (3) bekezdésében meghatározott jogkörében eljárva úgy határoz, hogy a 2. melléklet szerinti, állami vagyonba tartozó üzletrész (a továbbiakban: Üzletrész) ingyenesen, nyilvántartási értéken történő átvezetéssel az ott megjelölt helyi önkormányzat (a továbbiakban: a 2. melléklet szerinti Önkormányzat) tulajdonába kerül, az ott meghatározott, általa átvállalt állami feladatok ellátásának elősegítése érdekében;
 
-## 9. felhívja a nemzetgazdasági minisztert, hogy az MNV Zrt. útján intézkedjen az Üzletrész ingyenes tulajdonba adásáról szóló szerződés (a továbbiakban: Üzletrész Átruházási Szerződés) előkészítéséről és megkötéséről, azzal, hogy az Üzletrész Átruházási Szerződés – a társasági részesedések átruházására vonatkozó általános jogszabályi követelményeken túl – tartalmazza az alábbiakat:
+## 9.[^1] felhívja a belügyminisztert, hogy az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) útján intézkedjen az Üzletrész ingyenes tulajdonba adásáról szóló szerződés (a továbbiakban: Üzletrész Átruházási Szerződés) előkészítéséről és megkötéséről, azzal, hogy az Üzletrész Átruházási Szerződés – a társasági részesedések átruházására vonatkozó általános jogszabályi követelményeken túl – tartalmazza az alábbiakat:
 
 ## a) az Üzletrészt a 2. melléklet szerinti Önkormányzat a 2. mellékletben megjelölt feladatok ellátásának megfelelően köteles hasznosítani az Üzletrész Átruházási Szerződés megkötésétől számított 15 évig,
 
-## b) a 2. melléklet szerinti Önkormányzat vállalja, hogy a Gönc és Térsége Egészségéért Egészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Társaság) a juttatási célnak megfelelően működteti, a részesedés értékét megóvja, a részesedést – az Üzletrész Átruházási Szerződés hatálybalépését követő 15 éven belül – nem idegeníti el, nem szünteti meg, azt kizárólag az MNV Zrt. előzetes jóváhagyásával terhelheti meg,
+## b) a 2. melléklet szerinti Önkormányzat vállalja, hogy a Gönc és Térsége Egészségéért Egészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Társaság) a juttatási célnak megfelelően működteti, a részesedés értékét megóvja, a részesedést – az Üzletrész Átruházási Szerződés hatálybalépését követő 15 éven belül – nem idegeníti el, nem szünteti meg, azt kizárólag az OKFŐ előzetes jóváhagyásával terhelheti meg,
 
 ## c) a 2. melléklet szerinti Önkormányzat vállalja, hogy az Nvtv. 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási kötelezettségének – az Üzletrész Átruházási Szerződés hatálybalépését követő évtől kezdődően – minden év december 31. napjáig írásban tesz eleget,
 
-## d) ha a 2. melléklet szerinti Önkormányzat az a) alpontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az MNV Zrt. elállhat a szerződéstől, azzal, hogy amennyiben az MNV Zrt. az elállási jogát gyakorolja, a kedvezményezett az állammal szemben megtérítési igénnyel vagy egyéb követeléssel nem élhet, köteles ugyanakkor az Üzletrész értékében bekövetkezett csökkenés összegét az MNV Zrt.-nek megfizetni, amennyiben az érték csökkenése a felhasználási célnak nem megfelelő hasznosításra vezethető vissza,
+## d) ha a 2. melléklet szerinti Önkormányzat az a) alpontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az OKFŐ elállhat a szerződéstől, azzal, hogy amennyiben az OKFŐ az elállási jogát gyakorolja, a kedvezményezett az állammal szemben megtérítési igénnyel vagy egyéb követeléssel nem élhet, köteles ugyanakkor az Üzletrész értékében bekövetkezett csökkenés összegét az OKFŐ-nek megfizetni, amennyiben az érték csökkenése a felhasználási célnak nem megfelelő hasznosításra vezethető vissza,
 
-## e) amennyiben a 2. melléklet szerinti Önkormányzat a c) alpontban foglalt beszámolási kötelezettségének nem tesz eleget, az Üzletrésznek az Üzletrész Átruházási Szerződésben rögzített bruttó forgalmi értékének 5 százalékát mint késedelmi kötbért köteles az MNV Zrt. erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
+## e) amennyiben a 2. melléklet szerinti Önkormányzat a c) alpontban foglalt beszámolási kötelezettségének nem tesz eleget, az Üzletrésznek az Üzletrész Átruházási Szerződésben rögzített bruttó forgalmi értékének 5 százalékát mint késedelmi kötbért köteles az OKFŐ erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
 
-## f) az Üzletrész tekintetében az állam kizárólag jogszavatosságot vállal, ezen túlmenően az állam és az MNV Zrt. a felelősségét az Üzletrész és a Társaság vonatkozásában kizárja, az Önkormányzat az Üzletrésszel és a Társasággal kapcsolatban egyéb igényt nem érvényesíthet az állammal és az MNV Zrt.-vel szemben;
+## f) az Üzletrész tekintetében az állam kizárólag jogszavatosságot vállal, ezen túlmenően az állam és az OKFŐ a felelősségét az Üzletrész és a Társaság vonatkozásában kizárja, az Önkormányzat az Üzletrésszel és a Társasággal kapcsolatban egyéb igényt nem érvényesíthet az állammal és az OKFŐ-vel szemben;
 
-| Felelős: | nemzetgazdasági miniszter |
+| Felelős: | belügyminiszter |
 
 | Határidő: | az e határozat közzétételét követő hat hónapon belül |
 
@@ -201,3 +201,5 @@
 1. melléklet az 1381/2025. (X. 20.) Korm. határozathoz
 
 Helyi önkormányzat tulajdonába kerülő ingatlanok jegyzéke
+
+[^1]: A 9. pont az 1123/2026. (IV. 2.) Korm. határozat 2. pontjával megállapított szöveg.
