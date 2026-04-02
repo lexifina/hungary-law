@@ -1,5 +1,3 @@
-2. § Hatályát veszti az R.
+2. §[^3]
 
-a) 4/A. §-a,
-
-b) 6. §-a.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
