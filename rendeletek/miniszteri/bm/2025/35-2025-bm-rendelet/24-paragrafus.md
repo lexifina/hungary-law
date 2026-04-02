@@ -1,1 +1,3 @@
-24. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 4. melléklete az 1. melléklet szerint módosul.
+24. §[^3]
+
+[^3]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
