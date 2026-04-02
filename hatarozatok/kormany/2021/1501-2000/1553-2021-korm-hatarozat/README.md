@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1553-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-05 | 2021-1553-30-22.1 | 1553/2021. (VIII. 5.) Korm. határozat |
+| 2026-04-02 | 2021-1553-30-22.2 | 1120/2026. (IV. 2.) Korm. határozat |
