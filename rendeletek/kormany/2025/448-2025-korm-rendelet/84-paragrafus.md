@@ -1,3 +1,3 @@
-84. §[^94]
+84. §[^95]
 
-[^94]: A 84. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 84. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

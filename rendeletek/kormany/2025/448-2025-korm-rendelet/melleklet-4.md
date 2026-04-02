@@ -1,3 +1,3 @@
-4. melléklet a 448/2025. (XII. 29.) Korm. rendelethez[^127]
+4. melléklet a 448/2025. (XII. 29.) Korm. rendelethez[^128]
 
-[^127]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

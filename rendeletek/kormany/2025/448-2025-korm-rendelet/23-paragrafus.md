@@ -1,5 +1,5 @@
 ## 5. Az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló 313/2012. (XI. 8.) Korm. rendelet módosítása
 
-23. §[^33]
+23. §[^34]
 
-[^33]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
