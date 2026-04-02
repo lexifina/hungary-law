@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-5-20-2K
 | 2020-11-30 | 2010-5-20-2K.10 | 7/2016. (II. 22.) NGM rendelet |
 | 2023-09-30 | 2010-5-20-2K.11 | 22/2023. (VIII. 30.) GFM rendelet |
 | 2025-01-30 | 2010-5-20-2K.12 | 54/2024. (XII. 30.) NGM rendelet |
+| 2026-04-02 | 2010-5-20-2K.13 | 54/2024. (XII. 30.) NGM rendelet |

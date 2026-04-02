@@ -1,12 +1,12 @@
 ## A kijelölési eljárásért fizetendő igazgatási szolgáltatási díj megfizetésére és a felhasználására vonatkozó szabályok
 
-10. § (1)[^9] Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület nem tartozik harmonizációs uniós jogi aktus hatálya alá, – a 2. mellékletben meghatározott – jogszabályonként
+10. § (1)[^9] Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület nem tartozik harmonizációs uniós jogi aktus hatálya alá, jogszabályonként
 
 a) 90 000 forint, valamint annyiszor 10 000 forint, ahány megfelelőségértékelési eljárást vagy megfelelőségértékelési tevékenységet, és annyiszor 6500 forint, ahány terméket foglal magában a kérelmezett megfelelőségértékelési terület,
 
 b) egy adott jogszabály vonatkozásában már kijelölt szervezet esetében 36 000 forint, valamint annyiszor 10 000 forint, ahány további megfelelőségértékelési eljárást vagy megfelelőségértékelési tevékenységet, és annyiszor 6500 forint, ahány további terméket foglal magában a kérelmezett megfelelőségértékelési terület.
 
-(2)[^10] Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület harmonizációs uniós jogi aktus hatálya alá tartozik, – a 2. mellékletben meghatározott – jogszabályonként
+(2)[^10] Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület harmonizációs uniós jogi aktus hatálya alá tartozik, jogszabályonként
 
 a) 100 000 forint, valamint annyiszor 10 000 forint, ahány megfelelőségértékelési eljárást vagy megfelelőségértékelési tevékenységet, és annyiszor 6500 forint, ahány terméket foglal magában a kérelmezett megfelelőségértékelési terület,
 
@@ -28,8 +28,8 @@ c)[^13]
 
 kell alkalmazni.
 
-[^9]: A 10. § (1) bekezdése az 54/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
-[^10]: A 10. § (2) bekezdése az 54/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 10. § (1) bekezdése az 54/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított, nyitó szövegrésze a 13/2026. (III. 2.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 10. § (2) bekezdése az 54/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított, nyitó szövegrésze a 13/2026. (III. 2.) NGM rendelet 1. §-a szerint módosított szöveg.
 [^11]: A 10. § (3) bekezdése az 54/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
 [^12]: A 10. § (4) bekezdése a 14/2018. (IX. 4.) ITM rendelet 4. § (1) bekezdésével megállapított, a 22/2023. (VIII. 30.) GFM rendelet 1. § b) pontja szerint módosított szöveg.
 [^13]: A 10. § (6) bekezdés c) pontját a 62/2016. (XII. 29.) NGM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
