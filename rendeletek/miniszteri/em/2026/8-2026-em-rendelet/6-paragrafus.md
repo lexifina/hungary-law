@@ -1,1 +1,3 @@
-6. § A Rendelet 5. § (1) bekezdésében a „rendelet és a 2012/21/EU bizottsági határozat” szövegrész helyébe a „rendelet, az (EU) 2025/2630 bizottsági határozat” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
