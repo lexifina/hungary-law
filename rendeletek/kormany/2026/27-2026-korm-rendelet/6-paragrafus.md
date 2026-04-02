@@ -1,1 +1,3 @@
-6. § Az alapszámlához való hozzáférésről, az alapszámla jellemzőiről és díjazásáról szóló 262/2016. (VIII. 31.) Korm. rendelet 4. § (1) bekezdés a) pontjában az „az egyszázötvenezer forintot” szövegrész helyébe az „a háromszázezer forintot” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
