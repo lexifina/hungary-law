@@ -132,12 +132,15 @@
 
 | 25. | Győr Megyei Jogú Város Önkormányzata | Győr belterület 2907/4 hrsz. 1/1 | sport, ifjúsági ügyek / sportcélú fejlesztés, elsősorban labdarúgás sportág infrastrukturális feltételeinek biztosítása célra | kivett sporttelep | 72238 |
 
-| 26. | Tolna Város Önkormányzata | Mözs külterület 0163/26 hrsz. 1/1 | helyi környezet- és természetvédelem, vízgazdálkodás és vízkárelhárítás/szikkasztóárok fenntartása, gondozása, karbantartása | kivett árok | 166 |
+| 26.[^1] |  |  |  |  |  |
 
-| 27. | Tolna Város Önkormányzata | Mözs külterület 0163/28 hrsz. 1/1 | helyi környezet- és természetvédelem, vízgazdálkodás és vízkárelhárítás /szikkasztóárok fenntartása, gondozása, karbantartása | kivett árok | 582 |
+| 27.[^2] |  |  |  |  |  |
 
 | 28. | Oroszlány Város Önkormányzata | Oroszlány belterület 911/4 hrsz. 1/1 | településüzemeltetés / közterület, közpark kialakítása | kivett közterület | 6191 |
 
 | 29. | Sukoró Község Önkormányzata | Sukoró belterület 794 hrsz. 1/1 | helyi adóval, gazdaságszervezéssel és a turizmussal kapcsolatos feladatok, valamint sport, ifjúsági ügyek / turistaház építése és üzemeltetése | kivett oktatási intézmény és udvar | 2346 |
 
 | 30. | Szügy Község Önkormányzata | Szügy belterület 17/23 hrsz. 1/1 | településüzemeltetés / helyi közutak és tartozékainak kialakítása és fenntartása | kivett saját használatú út | 3950 |
+
+[^1]: Az 1. mellékletben foglalt táblázat 26. sorát az 1123/2026. (IV. 2.) Korm. határozat 4. pontja visszavonta.
+[^2]: Az 1. mellékletben foglalt táblázat 27. sorát az 1123/2026. (IV. 2.) Korm. határozat 4. pontja visszavonta.
