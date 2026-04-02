@@ -1,1 +1,3 @@
-9. § A közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet 3. § (6) bekezdésében a „beszerzi.” szövegrész helyébe a „beszerzi. Az illetékes területi kamara elnöksége írásbeli véleményét a megkeresés beérkezésétől számított 8 napon belül köteles megküldeni a pályáztató területi elnökség részére.” szöveg lép.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

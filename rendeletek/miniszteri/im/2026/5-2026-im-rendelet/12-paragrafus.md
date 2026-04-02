@@ -1,7 +1,3 @@
-12. § A bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet
+12. §[^12]
 
-a) 29/A. § (2) bekezdésében a „négy” szövegrész helyébe a „két” szöveg,
-
-b) 29/A. § (5) bekezdésében a „négy” szövegrész helyébe a „két” szöveg
-
-lép.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
