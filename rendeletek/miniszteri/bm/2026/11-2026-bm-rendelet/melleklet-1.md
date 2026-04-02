@@ -1,7 +1,3 @@
-1. melléklet a 11/2026. (III. 31.) BM rendelethez
+1. melléklet a 11/2026. (III. 31.) BM rendelethez[^4]
 
-A tűzvédelmi szakértői tevékenység szabályairól szóló 47/2011. (XII. 15.) BM rendelet 3. melléklete a következő 6. ponttal egészül ki:
-
-(Szakértői nyilvántartás tartalma)
-
-„6. építész tűzvédelmi szakértő esetén a felelősségbiztosítási kötvény száma.”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
