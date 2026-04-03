@@ -12,11 +12,11 @@
 
 (7) A Kt. 9. § (6) bekezdésétől eltérően a felszabadított készlet jövedéki adó, általános forgalmi adó és Kt. szerinti tagi hozzájárulás nélküli értékesítési ára 95-ös kísérleti oktánszámú motorbenzin esetén nettó 251 Ft/liter és dízelgázolaj esetén nettó 280 Ft/liter.
 
-(8)[^3] A felszabadított készletből vásárolt üzemanyagot a tag kizárólag a magyarországi töltőállomás-hálózatában, viszonteladó partnerei, magyarországi telephelyi fogadóhely részére értékesítheti vagy szállíthatja ki, Magyarország határain belüli, töltőállomáson történő kiskereskedelmi tovább értékesítés vagy végfelhasználás céljából.
+(8)[^4] A felszabadított készletből vásárolt üzemanyagot a tag kizárólag a magyarországi töltőállomás-hálózatában, viszonteladó partnerei, magyarországi telephelyi fogadóhely részére értékesítheti vagy szállíthatja ki, Magyarország határain belüli, töltőállomáson történő kiskereskedelmi tovább értékesítés vagy végfelhasználás céljából.
 
 (9) Tag viszonteladó partner részére történő értékesítés esetén 95-ös kísérleti oktánszámú motorbenzin esetén legfeljebb nettó 286 Ft/liter és B7 dízelgázolaj esetén nettó 315 Ft/liter árat alkalmazhat.
 
-(10)[^4] A Büat. 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni az e § alapján felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
+(10)[^5] A Büat. 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni az e § alapján felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
 
-[^3]: A 3. § (8) bekezdése az 58/2026. (III. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^4]: A 3. § (10) bekezdését az 53/2026. (III. 10.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A 3. § (8) bekezdése az 58/2026. (III. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: A 3. § (10) bekezdését az 53/2026. (III. 10.) Korm. rendelet 5. §-a iktatta be.

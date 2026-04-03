@@ -1,4 +1,4 @@
-4. §[^5] (1) A Kt. 9. § (3) bekezdés b) pontjától eltérően a Szövetség a készleteinek visszapótlását, az ellátásbiztonság érdekében haladéktalanul megkezdi, készleteit folyamatosan visszapótolja úgy, hogy havonta legalább az előző hónapban a készletéből védett áras termékként értékesített motorbenzin mennyiségnek és motorikus gázolaj mennyiségeknek megfelelő készletbeszerzés megtörténjen.
+4. §[^6] (1) A Kt. 9. § (3) bekezdés b) pontjától eltérően a Szövetség a készleteinek visszapótlását, az ellátásbiztonság érdekében haladéktalanul megkezdi, készleteit folyamatosan visszapótolja úgy, hogy havonta legalább az előző hónapban a készletéből védett áras termékként értékesített motorbenzin mennyiségnek és motorikus gázolaj mennyiségeknek megfelelő készletbeszerzés megtörténjen.
 
 (2) A visszapótlás során a piaci ár alkalmazandó.
 
@@ -30,4 +30,4 @@ a) a Magyar Nemzeti Bank hivatalos, tárgyhavi átlagos amerikai dollár árfoly
 
 b) sűrűségkorrekciós elszámolás alkalmazásával kell literre vetíteni, ahol a referenciasűrűség 15°C-on 0,755 g/cm3 a motorbenzin, illetve 0,845 g/cm3 a motorikus gázolaj esetében.
 
-[^5]: A 4. § a 73/2026. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^6]: A 4. § a 73/2026. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
