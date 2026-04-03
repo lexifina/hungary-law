@@ -4,31 +4,31 @@
 
 | 2. | Keretösszeg, euró | Fajlagos minimum, euró | Fajlagos maximum, euró |
 
-| 3. | Anyatehéntartás | 31 518 906,34 | 111,96 | 174,94 |
+| 3. | Anyatehéntartás | 32 961 453,62 | 111,96 | 174,94 |
 
-| 4. | Hízottbika | 3 233 415,75 | 40,76 | 65,22 |
+| 4. | Hízottbika | 3 465 214,30 | 40,76 | 65,22 |
 
-| 5. | Tejhasznú tehéntartás | 68 072 684,91 | 237,74 | 396,24 |
+| 5. | Tejhasznú tehéntartás | 67 903 483,15 | 237,74 | 396,24 |
 
-| 6. | Anyajuhtartás | 23 180 401,84 | 24,16 | 35,53 |
+| 6. | Anyajuhtartás | 22 885 535,81 | 24,16 | 35,53 |
 
-| 7. | Cukorrépa termesztés | 7 915 693,20 | 424,52 | 881,70 |
+| 7. | Cukorrépa termesztés | 7 897 652,81 | 424,52 | 881,70 |
 
-| 8. | Rizstermesztés | 1 979 171,48 | 582,75 | 874,13 |
+| 8. | Rizstermesztés | 1 976 606,85 | 582,75 | 874,13 |
 
-| 9. | Ipari zöldségnövény termesztés | 15 619 889,00 | 260,44 | 390,66 |
+| 9. | Ipari zöldségnövény termesztés | 15 608 199,61 | 260,44 | 390,66 |
 
-| 10. | Zöldségnövény termesztés | 6 455 314,80 | 180,92 | 289,48 |
+| 10. | Zöldségnövény termesztés | 6 552 536,59 | 180,92 | 289,48 |
 
-| 11. | Ipari olajnövény termesztés | 740 499,63 | 76,71 | 142,47 |
+| 11. | Ipari olajnövény termesztés | 741 081,59 | 76,71 | 142,47 |
 
-| 12. | Extenzív gyümölcstermesztés | 5 583 331,33 | 143,54 | 191,39 |
+| 12. | Extenzív gyümölcstermesztés | 5 576 422,59 | 143,54 | 191,39 |
 
-| 13. | Intenzív gyümölcstermesztés | 6 653 919,68 | 280,11 | 429,50 |
+| 13. | Intenzív gyümölcstermesztés | 6 644 000,47 | 280,11 | 429,50 |
 
-| 14. | Szemes fehérjetakarmány-növény termesztés | 19 942 772,76 | 163,01 | 302,73 |
+| 14. | Szemes fehérjetakarmány-növény termesztés | 19 838 862,77 | 163,01 | 302,73 |
 
-| 15. | Szálas fehérjetakarmány-növény termesztés | 10 206 487,86 | 44,92 | 77 |
+| 15. | Szálas fehérjetakarmány-növény termesztés | 10 059 315,34 | 44,92 | 77 |
 
 2. melléklet a 19/2024. (IV. 9.) AM rendelethez
 

@@ -2,4 +2,4 @@
 
 Az egyes termeléshez kötött közvetlen támogatásokra vonatkozó 2024. évi támogatási keretösszegek és fajlagos minimum és maximum értékek (euró)
 
-[^34]: Az 1. melléklet az 58/2025. (XII. 22.) AM rendelet 8. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet a 12/2026. (IV. 2.) AM rendelet 5. §-ával megállapított szöveg.
