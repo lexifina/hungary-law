@@ -1,0 +1,1 @@
+2. § Az igazolványt a foglalkoztatott kizárólag a hatósági eljárás és a hatósági ellenőrzés (a továbbiakban együtt: hatósági eljárás) során, a hatósági feladatok ellátására való jogosultságának igazolására használhatja fel.

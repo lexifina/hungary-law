@@ -1,0 +1,3 @@
+6. § (1) A bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló 1/2023. (I. 31.) SZTFH rendelet alapján kibocsátott szolgálati igazolványok (a továbbiakban: régi igazolvány) az érvényességi idejük lejártáig érvényesek. A régi igazolványok használatára és bevonására e rendeletet kell alkalmazni.
+
+(2) A Hatóság az 1. melléklet 1. pont 1.2., 1.4., 1.7. és 1.8. alpontja szerinti igazolványokat az e rendelet hatálybalépésekor a Hatóságnál foglalkoztatott személyek részére első alkalommal legkésőbb 2026. szeptember 1-jéig bocsátja ki.
