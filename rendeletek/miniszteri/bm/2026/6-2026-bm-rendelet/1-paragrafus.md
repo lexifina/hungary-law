@@ -6,6 +6,6 @@
 
 ## a következőket rendelem el:
 
-1. § (1) Az emberen végzett orvostudományi kutatásokról szóló 23/2002. (V. 9.) EüM rendelet (a továbbiakban: R.) 1. számú melléklete az 1. melléklet szerint módosul.
+1. §[^2]
 
-(2) Az R. 3. számú melléklete a 2. melléklet szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
