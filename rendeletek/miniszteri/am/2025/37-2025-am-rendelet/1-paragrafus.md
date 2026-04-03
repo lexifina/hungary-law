@@ -19,3 +19,7 @@
 4. kártalanítási előirányzat: a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. cím, 6. Állat-, növény- és GMO-kártalanítás alcím;
 
 5. kártalanítási rendelet: az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet.
+
+6.[^1] takarmány-vállalkozás: az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 36. § (1) bekezdése szerint engedélyezett vagy 36. § (2) bekezdése szerint nyilvántartásba vett takarmány-előállító és -forgalmazó tevékenységet folytató, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozás, amelynek székhelye, telephelye vagy fióktelepe a Magyarország területén 2025. március 6. és június 6. között lezajlott ragadós száj- és körömfájás állatbetegség időtartama alatt, ezen állatbetegség miatt elrendelt védő- vagy megfigyelési körzetben helyezkedett el.
+
+[^1]: Az 1. § 6. pontját a 13/2026. (IV. 2.) AM rendelet 1. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 2. § (1) Az állattartó e § alapján vissza nem térítendő támogatást vehet igénybe az 1. mellékletből választható támogatható tevékenységek közül az állategészségügyi hatóság által az érintett telep betelepítésének feltételeként előírt járványvédelmi fejlesztéséhez.
 
-(2)[^1] A támogatás mértéke legfeljebb százmillió forint.
+(2)[^2] A támogatás mértéke legfeljebb százmillió forint.
 
 (3) A támogatás kérelemre nyújtható. A támogatási kérelem egyidejűleg kifizetési kérelemnek is minősül.
 
@@ -54,4 +54,4 @@ g) az állatbetegséggel összefüggésben az RSZKF rendelet 12. § (1) bekezdé
 
 (12) A támogatási feltételek teljesülését a Kincstár ellenőrzi.
 
-[^1]: A 2. § (2) bekezdése az 57/2025. (XII. 22.) AM rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése az 57/2025. (XII. 22.) AM rendelet 9. §-a szerint módosított szöveg.
