@@ -82,32 +82,16 @@
 
 | Határidő: | az e határozat közzétételét követő hat hónapon belül |
 
-## 2. Az egyes állami vagyonelemek ingyenes tulajdonba adásáról szóló 1381/2025. (X. 20.) Korm. határozat 9. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „9. felhívja a belügyminisztert, hogy az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) útján intézkedjen az Üzletrész ingyenes tulajdonba adásáról szóló szerződés (a továbbiakban: Üzletrész Átruházási Szerződés) előkészítéséről és megkötéséről, azzal, hogy az Üzletrész Átruházási Szerződés – a társasági részesedések átruházására vonatkozó általános jogszabályi követelményeken túl – tartalmazza az alábbiakat:
-
-## a) az Üzletrészt a 2. melléklet szerinti Önkormányzat a 2. mellékletben megjelölt feladatok ellátásának megfelelően köteles hasznosítani az Üzletrész Átruházási Szerződés megkötésétől számított 15 évig,
-
-## b) a 2. melléklet szerinti Önkormányzat vállalja, hogy a Gönc és Térsége Egészségéért Egészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Társaság) a juttatási célnak megfelelően működteti, a részesedés értékét megóvja, a részesedést – az Üzletrész Átruházási Szerződés hatálybalépését követő 15 éven belül – nem idegeníti el, nem szünteti meg, azt kizárólag az OKFŐ előzetes jóváhagyásával terhelheti meg,
-
-## c) a 2. melléklet szerinti Önkormányzat vállalja, hogy az Nvtv. 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási kötelezettségének – az Üzletrész Átruházási Szerződés hatálybalépését követő évtől kezdődően – minden év december 31. napjáig írásban tesz eleget,
-
-## d) ha a 2. melléklet szerinti Önkormányzat az a) alpontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az OKFŐ elállhat a szerződéstől, azzal, hogy amennyiben az OKFŐ az elállási jogát gyakorolja, a kedvezményezett az állammal szemben megtérítési igénnyel vagy egyéb követeléssel nem élhet, köteles ugyanakkor az Üzletrész értékében bekövetkezett csökkenés összegét az OKFŐ-nek megfizetni, amennyiben az érték csökkenése a felhasználási célnak nem megfelelő hasznosításra vezethető vissza,
-
-## e) amennyiben a 2. melléklet szerinti Önkormányzat a c) alpontban foglalt beszámolási kötelezettségének nem tesz eleget, az Üzletrésznek az Üzletrész Átruházási Szerződésben rögzített bruttó forgalmi értékének 5 százalékát mint késedelmi kötbért köteles az OKFŐ erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
-
-## f) az Üzletrész tekintetében az állam kizárólag jogszavatosságot vállal, ezen túlmenően az állam és az OKFŐ a felelősségét az Üzletrész és a Társaság vonatkozásában kizárja, az Önkormányzat az Üzletrésszel és a Társasággal kapcsolatban egyéb igényt nem érvényesíthet az állammal és az OKFŐ-vel szemben;
-
-| Felelős: | belügyminiszter |
-
-| Határidő: | az e határozat közzétételét követő hat hónapon belül |
-
-## 3. Az állami tulajdonú vagyonelemek ingyenes átadásáról szóló 1444/2024. (XII. 30.) Korm. határozat 1. mellékletében foglalt táblázat E:1 mezőjében a „417 189200767, Khan Turu” szövegrész helyébe a „KGZ 0723 S, 981100004818055, Khan toru” szöveg lép.
-
-## 4. A Kormány visszavonja az egyes állami vagyontárgyak ingyenes tulajdonba adásáról szóló 1628/2019. (XI. 8.) Korm. határozat 1. melléklet 26. és 27. pontját.
+## 4.[^3]
 
 1. melléklet az 1123/2026. (IV. 2.) Korm. határozathoz
 
 Önkormányzati tulajdonba kerülő ingatlanok és ingatlanhányadok jegyzéke
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
