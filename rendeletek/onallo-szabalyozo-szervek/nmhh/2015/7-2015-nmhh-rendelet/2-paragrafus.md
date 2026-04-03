@@ -584,21 +584,23 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 233b.[^114] RMR-készülék: RMR-hálózat vezérlése alatt álló mobil rádióberendezés;
 
+233c.[^115] RMR rendszer: a GSM-R rendszer és a technológiai fejlődésben azt követő vasúti digitális rádiótávközlő utódrendszerek összefoglaló megnevezése;
+
 234. RR: a Nemzetközi Távközlési Egyesület külön jogszabállyal kihirdetett Alapokmánya és Egyezménye kiegészítését képező igazgatási szabályzat;
 
-234a.[^115] sávátrendezés: rádióspektrum-használati jogosult felhasználói blokkja vagy annak része elhelyezkedésének módosítása az adott frekvenciasávon belül;
+234a.[^116] sávátrendezés: rádióspektrum-használati jogosult felhasználói blokkja vagy annak része elhelyezkedésének módosítása az adott frekvenciasávon belül;
 
 235. sávon kívüli adás: a szükséges sávszélességen kívül, de annak közvetlen közelében lévő frekvencián vagy frekvenciákon történő, a moduláció folyamatából adódó adás, a mellékhullám-sugárzások kivételével;
 
 236. sávon kívüli tartomány: egy adásnál közvetlenül a szükséges sávszélességen kívül eső, de a mellékhullám-tartományt nem tartalmazó frekvenciatartomány, ahol a sávon kívüli adások rendszerint túlsúlyban vannak; az eredetük alapján definiált sávon kívüli adások a sávon kívüli tartományban és kisebb mértékben a mellékhullám-tartományban fordulnak elő; a mellékhullám-sugárzások is előfordulhatnak a sávon kívüli tartományban, valamint a mellékhullám-tartományban;
 
-237.[^116] SNG: olyan nem koordinált földi állomás, amely geostacionárius keringési pályán lévő műhold felé irányuló rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átvitelt valósít meg;
+237.[^117] SNG: olyan nem koordinált földi állomás, amely geostacionárius keringési pályán lévő műhold felé irányuló rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átvitelt valósít meg;
 
-237a.[^117]
+237a.[^118]
 
-238.[^118] SRD: olyan, kis távolság áthidalására szolgáló, kis teljesítményű, adásra vagy vételre alkalmas rádióberendezés, amellyel egy- vagy kétirányú információátvitel valósítható meg;
+238.[^119] SRD: olyan, kis távolság áthidalására szolgáló, kis teljesítményű, adásra vagy vételre alkalmas rádióberendezés, amellyel egy- vagy kétirányú információátvitel valósítható meg;
 
-239.[^119] SRR: olyan rádióberendezés, amely közúti járművekre kifejlesztett radarfunkciót lát el az összeütközések hatásainak csökkentése érdekében, továbbá közlekedésbiztonsági alkalmazások számára;
+239.[^120] SRR: olyan rádióberendezés, amely közúti járművekre kifejlesztett radarfunkciót lát el az összeütközések hatásainak csökkentése érdekében, továbbá közlekedésbiztonsági alkalmazások számára;
 
 240. SSR: kérdezőket és válaszjeladókat használó, légtérellenőrzés célját szolgáló másodlagos radar;
 
@@ -606,11 +608,11 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 242. szélesebb sávú rendszer: 25 kHz-nél nagyobb csatornaosztást használó rádiótávközlő rendszer vagy az olyan technológiát használó rádiótávközlő rendszer, amely 25 kHz-nél nagyobb csatornaosztást is tud támogatni;
 
-243.[^120] szélessávú adatátviteli alkalmazás: a rádióspektrumhoz való hozzáféréshez szélessávú modulációs technikát alkalmazó rádióalkalmazás, amelynek jellemző felhasználási területe a WAS/RLAN rendszer és az adathálózatokban használt szélessávú SRD;
+243.[^121] szélessávú adatátviteli alkalmazás: a rádióspektrumhoz való hozzáféréshez szélessávú modulációs technikát alkalmazó rádióalkalmazás, amelynek jellemző felhasználási területe a WAS/RLAN rendszer és az adathálózatokban használt szélessávú SRD;
 
-243a.[^121] személygépkocsi: a KRESZ 1. számú függelék II. d) pontjában meghatározott fogalom;
+243a.[^122] személygépkocsi: a KRESZ 1. számú függelék II. d) pontjában meghatározott fogalom;
 
-244.[^122] személyhívó rendszer: rádiótávközlő rendszer, amely meghatározott, címzett üzenetek közvetítését teszi lehetővé, változó helyű rádióspektrum-használók számára;
+244.[^123] személyhívó rendszer: rádiótávközlő rendszer, amely meghatározott, címzett üzenetek közvetítését teszi lehetővé, változó helyű rádióspektrum-használók számára;
 
 245. szerencsétlenségek helyét jelző műholdas rádióbója: a műholdas mozgószolgálat olyan földi állomása, amelynek adásai megkönnyítik a kutatási és mentési műveleteket;
 
@@ -620,45 +622,45 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 248. szimplex üzemmód: olyan üzemmód, amelynél az átvitel a távközlési csatornán irányonként váltakozva lehetséges, esetenként kézi vezérlés segítségével;
 
-249.[^123] szociális segélykérő rendszer: olyan rádiótávközlő rendszer, amely bajba jutott – jellemzően idős vagy fogyatékkal élő – személyek számára egy adott területen belül megbízható kommunikációt biztosít segélykérő jelzésük leadásához;
+249.[^124] szociális segélykérő rendszer: olyan rádiótávközlő rendszer, amely bajba jutott – jellemzően idős vagy fogyatékkal élő – személyek számára egy adott területen belül megbízható kommunikációt biztosít segélykérő jelzésük leadásához;
 
 250. szükséges sávszélesség: egy adott adásmódra vonatkozóan az a frekvenciasáv-szélesség, amely éppen elegendő az információ adott feltételeknek megfelelő sebességű és minőségű továbbítására;
 
-251.[^124] távirányító alkalmazás: olyan távirányításra szolgáló rádióalkalmazás, amely különböző szerkezetek folyamatos, egyirányú vezérlését teszi lehetővé;
+251.[^125] távirányító alkalmazás: olyan távirányításra szolgáló rádióalkalmazás, amely különböző szerkezetek folyamatos, egyirányú vezérlését teszi lehetővé;
 
 252. távközlés: jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény vezetéken, rádión, optikai vagy más elektromágneses rendszeren való mindennemű továbbítása, adása vagy vétele;
 
-253.[^125] távmérés: a távközlés használata méréseknek a mérőműszertől bizonyos távolságra történő automatikus jelzése vagy rögzítése céljából;
+253.[^126] távmérés: a távközlés használata méréseknek a mérőműszertől bizonyos távolságra történő automatikus jelzése vagy rögzítése céljából;
 
-253a.[^126] távmérő és távvezérlő rendszer: olyan rendszer, beleértve a földi, légi és vízi személyzet nélküli rendszereket is, amelyen belül rádiófrekvenciás csatornák állnak rendelkezésre távmérésre, távvezérlésre és kétirányú információtovábbításra;
+253a.[^127] távmérő és távvezérlő rendszer: olyan rendszer, beleértve a földi, légi és vízi személyzet nélküli rendszereket is, amelyen belül rádiófrekvenciás csatornák állnak rendelkezésre távmérésre, távvezérlésre és kétirányú információtovábbításra;
 
 254. távoli űr: az űr azon része, amelynek a Földtől mért távolsága nagyobb vagy egyenlő 2Ű106 kilométernél;
 
-255.[^127] távvezérlés: a távközlés használata egy berendezés működésének bizonyos távolságból történő beindítására, megváltoztatására vagy beszüntetésére szolgáló jelek továbbítása céljából;
+255.[^128] távvezérlés: a távközlés használata egy berendezés működésének bizonyos távolságból történő beindítására, megváltoztatására vagy beszüntetésére szolgáló jelek továbbítása céljából;
 
-255a.[^128] telepítés: rádiórendszer kiépítése, üzemeltetésre alkalmas állapotba hozatala rádiófrekvenciás jelek adását, illetve vételét megvalósító üzemmódban, üzemben tartás vagy kísérleti üzemeltetés nélkül;
+255a.[^129] telepítés: rádiórendszer kiépítése, üzemeltetésre alkalmas állapotba hozatala rádiófrekvenciás jelek adását, illetve vételét megvalósító üzemmódban, üzemben tartás vagy kísérleti üzemeltetés nélkül;
 
-256.[^129] tengeri mozgószolgálat: parti állomások és hajóállomások között, vagy hajóállomások között, vagy a hozzájuk rendelt fedélzeti távközlő állomások között létrehozott mozgószolgálat; mentőjármű állomások és a szerencsétlenségek helyét jelző rádióbója állomások is részt vehetnek e szolgálatban;
+256.[^130] tengeri mozgószolgálat: parti állomások és hajóállomások között, vagy hajóállomások között, vagy a hozzájuk rendelt fedélzeti távközlő állomások között létrehozott mozgószolgálat; mentőjármű állomások és a szerencsétlenségek helyét jelző rádióbója állomások is részt vehetnek e szolgálatban;
 
 257. tengeri rádiónavigáció szolgálat: hajózási célokra és a hajók üzemeltetésének biztonságára használt rádiónavigáció szolgálat;
 
-258.[^130] TLPR: egy valamilyen anyag tárolására szolgáló tartályban lévő anyag szintjének meghatározására használt speciális rádiómeghatározó alkalmazás, amelyet fémből vagy vasbetonból készült tartályba vagy azzal összemérhető rádiófrekvenciás csillapítási tulajdonsággal rendelkező anyagból készült hasonló létesítménybe telepítenek;
+258.[^131] TLPR: egy valamilyen anyag tárolására szolgáló tartályban lévő anyag szintjének meghatározására használt speciális rádiómeghatározó alkalmazás, amelyet fémből vagy vasbetonból készült tartályba vagy azzal összemérhető rádiófrekvenciás csillapítási tulajdonsággal rendelkező anyagból készült hasonló létesítménybe telepítenek;
 
-258a.[^131] további alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott további alapvető követelmény;
+258a.[^132] további alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott további alapvető követelmény;
 
-259.[^132] több-műholdas összeköttetés: rádió-összeköttetés egy adó földi állomás és egy vevő földi állomás között legalább két műhold segítségével, közbeiktatott földi állomás nélkül; egy több-műholdas összeköttetés egy felmenő irányú összeköttetésből, egy vagy több műholdak közötti összeköttetésből és egy lemenő irányú összeköttetésből áll;
+259.[^133] több-műholdas összeköttetés: rádió-összeköttetés egy adó földi állomás és egy vevő földi állomás között legalább két műhold segítségével, közbeiktatott földi állomás nélkül; egy több-műholdas összeköttetés egy felmenő irányú összeköttetésből, egy vagy több műholdak közötti összeköttetésből és egy lemenő irányú összeköttetésből áll;
 
 260. troposzferikus szóródás: terjedési mód, amelynél a rádióhullámok a troposzféra fizikai tulajdonságaiban jelentkező szabálytalanságok vagy diszkontinuitások következtében szóródnak;
 
 261. TRP: a tér minden irányába kisugárzott teljesítmény integrálja, amely az antenna által ténylegesen kisugárzott teljesítmény nagyságát határozza meg;
 
-262.[^133] TTT alkalmazás: (a vonatkozó műszaki korlátozások függvényében közúti, vasúti, vízi vagy légi) közlekedésben, forgalomirányításban, navigációban, mobilitáskezelésben és ITS-ben használt olyan rádiótávközlő rendszerrel megvalósított rádióalkalmazás, amely jellemzően különböző szállítási módok közötti kapcsolódási pontok, járművek közötti (különösen személygépkocsi–személygépkocsi) összeköttetés, járművek és rögzített pontok közötti (különösen személygépkocsi–infrastruktúra) összeköttetés, valamint a rádióspektrum-használókkal folytatott kétirányú összeköttetés céljára szolgál;
+262.[^134] TTT alkalmazás: (a vonatkozó műszaki korlátozások függvényében közúti, vasúti, vízi vagy légi) közlekedésben, forgalomirányításban, navigációban, mobilitáskezelésben és ITS-ben használt olyan rádiótávközlő rendszerrel megvalósított rádióalkalmazás, amely jellemzően különböző szállítási módok közötti kapcsolódási pontok, járművek közötti (különösen személygépkocsi–személygépkocsi) összeköttetés, járművek és rögzített pontok közötti (különösen személygépkocsi–infrastruktúra) összeköttetés, valamint a rádióspektrum-használókkal folytatott kétirányú összeköttetés céljára szolgál;
 
-262a.[^134] ULP-WMCE: orvos-beteg találkozáskor orvosiadat-gyűjtésre szolgáló rádióalkalmazás, amely használatának célja az emberi emésztőszerveket ábrázoló képek alkotása;
+262a.[^135] ULP-WMCE: orvos-beteg találkozáskor orvosiadat-gyűjtésre szolgáló rádióalkalmazás, amely használatának célja az emberi emésztőszerveket ábrázoló képek alkotása;
 
-263.[^135] UMTS rendszer: a nemzeti szabványokban, különösen az MSZ EN 301 908-1, az MSZ EN 301 908-2, az MSZ EN 301 908-3 és az MSZ EN 301 908-11 szabványban meghatározott elektronikus hírközlő hálózat;
+263.[^136] UMTS rendszer: a nemzeti szabványokban, különösen az MSZ EN 301 908-1, az MSZ EN 301 908-2, az MSZ EN 301 908-3 és az MSZ EN 301 908-11 szabványban meghatározott elektronikus hírközlő hálózat;
 
-264.[^136] UTC: az RR 655. (Rev.WRC-23) Határozatban leírt, másodpercen (SI) alapuló időskála;
+264.[^137] UTC: az RR 655. (Rev.WRC-23) Határozatban leírt, másodpercen (SI) alapuló időskála;
 
 265. UWB alkalmazás: UWB technológiát használó berendezésekkel megvalósított alkalmazás;
 
@@ -672,39 +674,39 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 270. űrjármű: ember által készített jármű, amelynek az a rendeltetése, hogy a Föld légkörének központi részén kívülre menjen;
 
-271.[^137] űrkutatási szolgálat: olyan rádiótávközlési szolgálat, amelynél űrjárműveket vagy más űrbeli tárgyakat használnak tudományos vagy műszaki kutatás céljaira;
+271.[^138] űrkutatási szolgálat: olyan rádiótávközlési szolgálat, amelynél űrjárműveket vagy más űrbeli tárgyakat használnak tudományos vagy műszaki kutatás céljaira;
 
-272.[^138] űrtávközlés: minden olyan rádiótávközlés, amelyet egy vagy több űrállomás, egy vagy több reflektáló műhold vagy más űrbeli tárgy használatával valósítanak meg;
+272.[^139] űrtávközlés: minden olyan rádiótávközlés, amelyet egy vagy több űrállomás, egy vagy több reflektáló műhold vagy más űrbeli tárgy használatával valósítanak meg;
 
 273. űrtávközlési rendszer: együttműködő földi állomások vagy űrállomások meghatározott célú űrtávközlésre szolgáló csoportja;
 
 274. űrtávmérés: olyan távmérés, amelyet az űrjárműben végzett mérések eredményeinek űrállomásról történő továbbítása céljára használnak, ideértve az űrjármű működésére vonatkozó mérési eredményeket is;
 
-275.[^139] űrtávvezérlés: a rádiótávközlés használata olyan rádiójelek űrállomásra történő továbbítása céljából, amelyek beindítják, megváltoztatják vagy beszüntetik az űrállomáshoz tartozó űrbeli tárgyon, illetve magán az űrállomáson elhelyezett berendezések működését;
+275.[^140] űrtávvezérlés: a rádiótávközlés használata olyan rádiójelek űrállomásra történő továbbítása céljából, amelyek beindítják, megváltoztatják vagy beszüntetik az űrállomáshoz tartozó űrbeli tárgyon, illetve magán az űrállomáson elhelyezett berendezések működését;
 
-276.[^140] üzemben tartás: a telepítés befejezésétől az üzemeltetés végleges megszüntetéséig tartó folyamat, beleértve a fenntartási – karbantartási, javítási – tevékenységeket és az üzemeltetés szüneteltetését is;
+276.[^141] üzemben tartás: a telepítés befejezésétől az üzemeltetés végleges megszüntetéséig tartó folyamat, beleértve a fenntartási – karbantartási, javítási – tevékenységeket és az üzemeltetés szüneteltetését is;
 
 277. változó telephelyű állomás: olyan állomás, amely helyváltoztatásra alkalmas, de csak telepített helyzetben üzemelhet;
 
-277a.[^141] városi vasúti ITS: a közúti és a gyalogos forgalomtól elkülönített városi vagy elővárosi vasútvonalakon alkalmazott ITS, amelyet állandó jelleggel legalább egy ellenőrző és irányító rendszer irányít;
+277a.[^142] városi vasúti ITS: a közúti és a gyalogos forgalomtól elkülönített városi vagy elővárosi vasútvonalakon alkalmazott ITS, amelyet állandó jelleggel legalább egy ellenőrző és irányító rendszer irányít;
 
-278.[^142] vasúti jármű: a vasúti közlekedés statisztikájáról szóló, 2018. április 18-i (EU) 2018/643 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 4. pontjában meghatározott fogalom;
+278.[^143] vasúti jármű: a vasúti közlekedés statisztikájáról szóló, 2018. április 18-i (EU) 2018/643 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 4. pontjában meghatározott fogalom;
 
-278a.[^143] VDES: a tengeri mozgószolgálat részére kifejlesztett VHF-sávú, földfelszíni és műholdas komponensből álló, az ITU-R M.2092 Ajánlásban meghatározott többfunkciós digitális adatátviteli távközlő rendszer;
+278a.[^144] VDES: a tengeri mozgószolgálat részére kifejlesztett VHF-sávú, földfelszíni és műholdas komponensből álló, az ITU-R M.2092 Ajánlásban meghatározott többfunkciós digitális adatátviteli távközlő rendszer;
 
-278b.[^144] védősávi IoT-alkalmazás: a vezetéknélküli szélessávú elektronikus hírközlési szolgáltatások nyújtására használt névleges csatornán belül, annak szélén – a csatornán belüli erőforrások által nem használt részen – megvalósított IoT-alkalmazás;
+278b.[^145] védősávi IoT-alkalmazás: a vezetéknélküli szélessávú elektronikus hírközlési szolgáltatások nyújtására használt névleges csatornán belül, annak szélén – a csatornán belüli erőforrások által nem használt részen – megvalósított IoT-alkalmazás;
 
 279. végfelhasználói állomás: olyan felhasználói állomás, amely az elektronikus átvitel végpontját képezi;
 
-280.[^145] versenyeztetési eljárás: rádióspektrum-használati jogosultság elosztására irányuló árverési vagy pályázati eljárás;
+280.[^146] versenyeztetési eljárás: rádióspektrum-használati jogosultság elosztására irányuló árverési vagy pályázati eljárás;
 
-281.[^146]
+281.[^147]
 
-282.[^147]
+282.[^148]
 
-282a.[^148] videoátviteli PMSE alkalmazás: a műsorgyártáshoz és különleges eseményekhez használt zsinórnélküli kamerák, valamint hordozható és mobil vezetéknélküli videoátviteli összeköttetések;
+282a.[^149] videoátviteli PMSE alkalmazás: a műsorgyártáshoz és különleges eseményekhez használt zsinórnélküli kamerák, valamint hordozható és mobil vezetéknélküli videoátviteli összeköttetések;
 
-283.[^149] vivőteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés moduláció nélküli esetben egy rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
+283.[^150] vivőteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés moduláció nélküli esetben egy rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
 
 284. vonatkoztatási frekvencia: olyan frekvencia, amelynek állandó és pontosan meghatározott helyzete van a kijelölt frekvenciához viszonyítva; ennek a frekvenciának a kijelölt frekvenciához viszonyított eltérése ugyanolyan abszolút értékű és előjelű, mint a jellemző frekvenciának az adás által elfoglalt frekvenciasáv közepéhez viszonyított eltérése;
 
@@ -712,13 +714,13 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 286. WAS: szélessávú rádiótávközlő rendszer, amely tekintet nélkül a hálózat topológiájára, vezetéknélküli hozzáférést biztosít nyilvános és magáncélú alkalmazások számára;
 
-287.[^150] WiMAX rendszer: az állandóhelyű szolgálatban olyan pont-többpont rendszer, valamint a mozgószolgálatban olyan mozgó rádiótávközlő rendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek;
+287.[^151] WiMAX rendszer: az állandóhelyű szolgálatban olyan pont-többpont rendszer, valamint a mozgószolgálatban olyan mozgó rádiótávközlő rendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek;
 
-287a.[^151] zárt NMR alkalmazás: az NMR képalkotó rendszereket és a mágneses rezonanciás tomográfiás rendszereket magában nem foglaló olyan rádióalkalmazás, amely esetében az NMR-technikák az NMR-érzékelő házán belül elhelyezett vizsgált anyag vagy tárgy NMR-gerjesztését és mágnesestérerősség-válaszát alkalmazzák ahhoz, hogy anyagtulajdonságokra vonatkozó információkat nyerjenek az atomok izotópjainak rezonanciafrekvenciás válaszai alapján;
+287a.[^152] zárt NMR alkalmazás: az NMR képalkotó rendszereket és a mágneses rezonanciás tomográfiás rendszereket magában nem foglaló olyan rádióalkalmazás, amely esetében az NMR-technikák az NMR-érzékelő házán belül elhelyezett vizsgált anyag vagy tárgy NMR-gerjesztését és mágnesestérerősség-válaszát alkalmazzák ahhoz, hogy anyagtulajdonságokra vonatkozó információkat nyerjenek az atomok izotópjainak rezonanciafrekvenciás válaszai alapján;
 
 288. zavarás: adás, sugárzás vagy indukció, illetve ezek valamely kombinációja következtében fellépő nem kívánt energiának egy rádiótávközlő rendszerben a vételre gyakorolt hatása, amely az átvitel minőségének olyan romlásában, az információ olyan torzulásában vagy veszteségében jelentkezik, ami elkerülhető lett volna ezen nem kívánt energia megjelenése nélkül.
 
-(2)[^152] Az e rendeletben alkalmazott egyéb rádióspektrum-gazdálkodási fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerint kell értelmezni.
+(2)[^153] Az e rendeletben alkalmazott egyéb rádióspektrum-gazdálkodási fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerint kell értelmezni.
 
 [^6]: A 2. § (1) bekezdés 1–3. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés 1–3. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
@@ -829,41 +831,42 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 [^112]: A 2. § (1) bekezdés 232. pontját a 3/2026. (II. 12.) NMHH rendelet 6. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^113]: A 2. § (1) bekezdés 233a. pontját a 7/2022. (IX. 22.) NMHH rendelet 3. § (1) bekezdése iktatta be.
 [^114]: A 2. § (1) bekezdés 233b. pontját a 7/2022. (IX. 22.) NMHH rendelet 3. § (1) bekezdése iktatta be.
-[^115]: A 2. § (1) bekezdés 234a. pontját a 2/2019. (III. 22.) NMHH rendelet 7. § (6) bekezdése iktatta be, szövege a 7/2022. (IX. 22.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^116]: A 2. § (1) bekezdés 237. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^117]: A 2. § (1) bekezdés 237a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (3) bekezdése iktatta be, a 18/2020. (XII. 17.) NMHH rendelet 7. § 1. pontja hatályon kívül helyezte.
-[^118]: A 2. § (1) bekezdés 238. pontja a 3/2020. (X. 5.) NMHH rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^119]: A 2. § (1) bekezdés 239. pontja a 6/2019. (XII. 23.) NMHH rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^120]: A 2. § (1) bekezdés 243. pontja az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja, a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
-[^121]: A 2. § (1) bekezdés 243a. pontját a 6/2019. (XII. 23.) NMHH rendelet 1. § (5) bekezdése iktatta be.
-[^122]: A 2. § (1) bekezdés 244. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^123]: A 2. § (1) bekezdés 249. pontja a 3/2026. (II. 12.) NMHH rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^124]: A 2. § (1) bekezdés 251. pontja a 3/2020. (X. 5.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^125]: A 2. § (1) bekezdés 253. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 17. pontja szerint módosított szöveg.
-[^126]: A 2. § (1) bekezdés 253a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (11) bekezdése iktatta be.
-[^127]: A 2. § (1) bekezdés 255. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 17. pontja szerint módosított szöveg.
-[^128]: A 2. § (1) bekezdés 255a. pontját a 18/2020. (XII. 17.) NMHH rendelet 2. § (8) bekezdése iktatta be.
-[^129]: A 2. § (1) bekezdés 256. pontja az 1/2022. (IV. 6.) NMHH rendelet 7. § a) pontja szerint módosított szöveg.
-[^130]: A 2. § (1) bekezdés 258. pontja a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
-[^131]: A 2. § (1) bekezdés 258a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (4) bekezdése iktatta be.
-[^132]: A 2. § (1) bekezdés 259. pontja az 1/2022. (IV. 6.) NMHH rendelet 6. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
-[^133]: A 2. § (1) bekezdés 262. pontja a 6/2019. (XII. 23.) NMHH rendelet 4. § (1) bekezdés d) pontja, a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 18. pontja szerint módosított szöveg.
-[^134]: A 2. § (1) bekezdés 262a. pontját a 3/2020. (X. 5.) NMHH rendelet 1. § (7) bekezdése iktatta be, szövege a 18/2020. (XII. 17.) NMHH rendelet 6. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^135]: A 2. § (1) bekezdés 263. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított szöveg.
-[^136]: A 2. § (1) bekezdés 264. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított, a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ad) alpontja szerint módosított szöveg.
-[^137]: A 2. § (1) bekezdés 271. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 20. pontja szerint módosított szöveg.
-[^138]: A 2. § (1) bekezdés 272. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 21. pontja szerint módosított szöveg.
-[^139]: A 2. § (1) bekezdés 275. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 22. pontja szerint módosított szöveg.
-[^140]: A 2. § (1) bekezdés 276. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 23. pontja szerint módosított szöveg.
-[^141]: A 2. § (1) bekezdés 277a. pontját a 18/2020. (XII. 17.) NMHH rendelet 2. § (9) bekezdése iktatta be.
-[^142]: A 2. § (1) bekezdés 278. pontja a 6/2019. (XII. 23.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^143]: A 2. § (1) bekezdés 278a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (13) bekezdése iktatta be, szövege a 3/2020. (X. 5.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^144]: A 2. § (1) bekezdés 278b. pontját a 3/2020. (X. 5.) NMHH rendelet 1. § (8) bekezdése iktatta be.
-[^145]: A 2. § (1) bekezdés 280. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 24. pontja szerint módosított szöveg.
-[^146]: A 2. § (1) bekezdés 281. pontját a 3/2026. (II. 12.) NMHH rendelet 6. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^147]: A 2. § (1) bekezdés 282. pontját a 3/2026. (II. 12.) NMHH rendelet 6. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^148]: A 2. § (1) bekezdés 282a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (4) bekezdése iktatta be, szövege az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
-[^149]: A 2. § (1) bekezdés 283. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^150]: A 2. § (1) bekezdés 287. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (14) bekezdésével megállapított szöveg.
-[^151]: A 2. § (1) bekezdés 287a. pontját a 7/2022. (IX. 22.) NMHH rendelet 3. § (3) bekezdése iktatta be.
-[^152]: A 2. § (2) bekezdése a 18/2020. (XII. 17.) NMHH redelet 6. § (3) bekezdés 1. pontja szerint módosított szöveg.
+[^115]: A 2. § (1) bekezdés 233c. pontját a 6/2026. (III. 19.) NMHH rendelet 1. §-a iktatta be.
+[^116]: A 2. § (1) bekezdés 234a. pontját a 2/2019. (III. 22.) NMHH rendelet 7. § (6) bekezdése iktatta be, szövege a 7/2022. (IX. 22.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^117]: A 2. § (1) bekezdés 237. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^118]: A 2. § (1) bekezdés 237a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (3) bekezdése iktatta be, a 18/2020. (XII. 17.) NMHH rendelet 7. § 1. pontja hatályon kívül helyezte.
+[^119]: A 2. § (1) bekezdés 238. pontja a 3/2020. (X. 5.) NMHH rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^120]: A 2. § (1) bekezdés 239. pontja a 6/2019. (XII. 23.) NMHH rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^121]: A 2. § (1) bekezdés 243. pontja az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja, a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^122]: A 2. § (1) bekezdés 243a. pontját a 6/2019. (XII. 23.) NMHH rendelet 1. § (5) bekezdése iktatta be.
+[^123]: A 2. § (1) bekezdés 244. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^124]: A 2. § (1) bekezdés 249. pontja a 3/2026. (II. 12.) NMHH rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^125]: A 2. § (1) bekezdés 251. pontja a 3/2020. (X. 5.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^126]: A 2. § (1) bekezdés 253. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 17. pontja szerint módosított szöveg.
+[^127]: A 2. § (1) bekezdés 253a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (11) bekezdése iktatta be.
+[^128]: A 2. § (1) bekezdés 255. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 17. pontja szerint módosított szöveg.
+[^129]: A 2. § (1) bekezdés 255a. pontját a 18/2020. (XII. 17.) NMHH rendelet 2. § (8) bekezdése iktatta be.
+[^130]: A 2. § (1) bekezdés 256. pontja az 1/2022. (IV. 6.) NMHH rendelet 7. § a) pontja szerint módosított szöveg.
+[^131]: A 2. § (1) bekezdés 258. pontja a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^132]: A 2. § (1) bekezdés 258a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (4) bekezdése iktatta be.
+[^133]: A 2. § (1) bekezdés 259. pontja az 1/2022. (IV. 6.) NMHH rendelet 6. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^134]: A 2. § (1) bekezdés 262. pontja a 6/2019. (XII. 23.) NMHH rendelet 4. § (1) bekezdés d) pontja, a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 18. pontja szerint módosított szöveg.
+[^135]: A 2. § (1) bekezdés 262a. pontját a 3/2020. (X. 5.) NMHH rendelet 1. § (7) bekezdése iktatta be, szövege a 18/2020. (XII. 17.) NMHH rendelet 6. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^136]: A 2. § (1) bekezdés 263. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^137]: A 2. § (1) bekezdés 264. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított, a 3/2026. (II. 12.) NMHH rendelet 5. § (1) bekezdés a) pont ad) alpontja szerint módosított szöveg.
+[^138]: A 2. § (1) bekezdés 271. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 20. pontja szerint módosított szöveg.
+[^139]: A 2. § (1) bekezdés 272. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 21. pontja szerint módosított szöveg.
+[^140]: A 2. § (1) bekezdés 275. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 22. pontja szerint módosított szöveg.
+[^141]: A 2. § (1) bekezdés 276. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 23. pontja szerint módosított szöveg.
+[^142]: A 2. § (1) bekezdés 277a. pontját a 18/2020. (XII. 17.) NMHH rendelet 2. § (9) bekezdése iktatta be.
+[^143]: A 2. § (1) bekezdés 278. pontja a 6/2019. (XII. 23.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^144]: A 2. § (1) bekezdés 278a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (13) bekezdése iktatta be, szövege a 3/2020. (X. 5.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^145]: A 2. § (1) bekezdés 278b. pontját a 3/2020. (X. 5.) NMHH rendelet 1. § (8) bekezdése iktatta be.
+[^146]: A 2. § (1) bekezdés 280. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 24. pontja szerint módosított szöveg.
+[^147]: A 2. § (1) bekezdés 281. pontját a 3/2026. (II. 12.) NMHH rendelet 6. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^148]: A 2. § (1) bekezdés 282. pontját a 3/2026. (II. 12.) NMHH rendelet 6. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^149]: A 2. § (1) bekezdés 282a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (4) bekezdése iktatta be, szövege az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^150]: A 2. § (1) bekezdés 283. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^151]: A 2. § (1) bekezdés 287. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^152]: A 2. § (1) bekezdés 287a. pontját a 7/2022. (IX. 22.) NMHH rendelet 3. § (3) bekezdése iktatta be.
+[^153]: A 2. § (2) bekezdése a 18/2020. (XII. 17.) NMHH redelet 6. § (3) bekezdés 1. pontja szerint módosított szöveg.
