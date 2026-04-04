@@ -1,1 +1,3 @@
-7. § Hatályát veszti a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló 1/2023. (I. 31.) SZTFH rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
