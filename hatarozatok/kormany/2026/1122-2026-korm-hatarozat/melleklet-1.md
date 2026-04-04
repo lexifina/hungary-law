@@ -10,7 +10,7 @@
 
 | Határidő: | 2026. augusztus 31. |
 
-## 2. Az Integrált Közlekedésfejlesztési Operatív Program Plusz kiemelt projektjeinek megállapításáról szóló 1042/2024. (III. 4.) Korm. határozat 1. mellékletében foglalt táblázat D:4 mezőjében a „7,0” szövegrész helyébe a „10,19” szöveg lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -23,3 +23,5 @@
 | 2 | Projekt Integrált Közlekedésfejlesztési Operatív Program Plusz keretében finanszírozandó támogatásának összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) | Projekt IKOP Plusz szakaszának összköltsége (forint) | Projekt IKOP Plusz keretében finanszírozandó támogatásának összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) | Projekt IKOP Plusz szakaszának összköltsége (forint) |
 
 | 3 | IKOP_PLUSZ- 1.1.0-23-2024- 00009 | Gödöllői HÉV (H8) és Csömöri HÉV (H9) vonalszakaszok korszerűsítés előkészítése – szakaszolt | Építési és Közlekedési Minisztérium | 100% | 6 716 956 644 | 1 813 578 294 | 8 530 534 938 | 100% | 10 181 388 433 | 2 748 974 877 | 12 930 363 310 | A projektjavaslat szerepel az Integrált Közlekedésfejlesztési Operatív Program Plusz kiemelt projektjeinek megállapításáról szóló 1042/2024. (III. 4.) Korm. határozatban. A Gödöllői HÉV (H8) és Csömöri HÉV (H9) vonalszakaszok korszerűsítés előkészítése az IKOP-3.1.0-15-2021-00023 azonosító számú projekt keretében elkezdődött. A projekt összköltsége az IKOP PLUSZ keretében jóváhagyott támogatási és egyéb támogatási összegeken felül tartalmazza az IKOP szakasz költségeit (bruttó 383 541 065 Ft) mint nem támogatható tevékenységet, ezt a táblázat külön nem tartalmazza. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
