@@ -22,7 +22,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 7 | AKRILAMID | 79-06-1 | 0,1 |  |  |  | b, k(1B) | EU6 | T |
 
-| 8 | AKRILNITRIL | 107-13-1 | 4,3 |  |  |  | b, k(1B) |  | R |
+| 8 | AKRILNITRIL | 107-13-1 | 1 | 0,45 | 4 | 1,8 | b, k(1B), sz (bőr) | EU9 | R |
 
 | 9 | AKRILSAV (propénsav) | 79-10-7 | 29 | 10 | 59* | 20* | m | EU4 | N |
 
@@ -762,4 +762,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^19]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(3) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^19]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(4) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
