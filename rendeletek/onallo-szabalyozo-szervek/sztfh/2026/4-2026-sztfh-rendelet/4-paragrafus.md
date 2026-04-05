@@ -1,0 +1,3 @@
+## 3. A belső ellenőrző és információs rendszer működtetése
+
+4. § Az ügyfél-azonosítási kötelezettség végrehajtása érdekében a Pmt. 14. § (4) bekezdése értelmében a háromszázezer forintot elérő vagy meghaladó összegű, valamint az ügyfél-átvilágítási kötelezettség végrehajtása érdekében a négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor rögzített adatok kezelése során úgy kell eljárni, hogy azok a további azonosítás során a szolgáltató ügyfél-átvilágításban közreműködő vezető tisztségviselője, foglalkoztatottja (a továbbiakban együtt: foglalkoztatott) részére elérhetőek legyenek.
