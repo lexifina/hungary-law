@@ -70,7 +70,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 31 | BENZOIL-KLORID | 98-88-4 | 2,8 | 0,5 |  |  | i |  | N |
 
-| 32 | BENZOL | 71-43-2 | 1,65 | 0,5 |  |  | k(1A), b, i, BEM | EU6 | T |
+| 32 | BENZOL | 71-43-2 | 0,66 | 0,2 |  |  | k(1A), b, i, BEM | EU9 | T |
 
 | 33 | BENZO[a]PIRÉN | 50-32-8 | 0,002 |  |  |  | k(1B) |  | T |
 
@@ -762,4 +762,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^19]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(4) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^19]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(5) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
