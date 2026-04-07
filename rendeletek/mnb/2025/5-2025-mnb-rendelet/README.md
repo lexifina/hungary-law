@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-5-20-2C
 | 2025-04-22 | 2025-5-20-2C.1 | 5/2025. (IV. 17.) MNB rendelet |
 | 2025-04-23 | 2025-5-20-2C.2 | 2010. évi CXXX. törvény |
 | 2025-09-01 | 2025-5-20-2C.3 | 26/2025. (VIII. 7.) MNB rendelet |
+| 2026-04-07 | 2025-5-20-2C.4 | 10/2026. (III. 31.) MNB rendelet |

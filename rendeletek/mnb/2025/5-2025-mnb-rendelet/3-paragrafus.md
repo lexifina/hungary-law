@@ -22,7 +22,7 @@ j) a szanálhatóság értékelésére irányuló eljárás szanálhatóság jel
 
 k) a jogsértés folytatásától való eltiltás, a vezetői állású személyek legfeljebb hat hónapig terjedő felfüggesztése, pénzbírság kiszabása, valamint a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény megsértése esetén, egyes nyereségkifizetések megtiltása szankció alkalmazása,
 
-l) az engedélyezési eljárás során az engedélyezés tárgyában hozott érdemi döntés,
+l)[^10] az engedélyezési eljárás során az engedélyezés tárgyában hozott érdemi döntés, ide nem értve a (2) bekezdés o) pontja szerinti döntést,
 
 m) a szanálási hatósági feladatok ellátásához szükséges, a (2) bekezdésben nem nevesített döntések.
 
@@ -55,3 +55,8 @@ l) az információkérésre, iratbetekintésre irányuló kérelem tárgyában h
 m) az értékelés elvégzésének tűrésére és az értékelésben való közreműködésre kötelezésre irányuló döntés,
 
 n) a szanálhatósági akadály kiküszöbölésére irányuló felhívás.
+
+o)[^11] a leírható, illetve átalakítható kötelezettségek, valamint kötelezettséginstrumentumok csökkentésének engedélyezése tárgyában hozott döntés, amennyiben az intézmény által egyidejűleg előterjesztett kérelmekben szereplő, a csökkentéssel érintett kötelezettségállomány együttes összege nem haladja meg a szavatolótőke és a leírható, illetve átalakítható kötelezettségállomány 10%-át.
+
+[^10]: A 3. § (1) bekezdés l) pontja a 10/2026. (III. 31.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdés o) pontját a 10/2026. (III. 31.) MNB rendelet 2. § (2) bekezdése iktatta be.
