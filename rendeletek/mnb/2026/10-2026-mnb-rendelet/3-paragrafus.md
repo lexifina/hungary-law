@@ -1,3 +1,3 @@
-## „o) a leírható, illetve átalakítható kötelezettségek, valamint kötelezettséginstrumentumok csökkentésének engedélyezése tárgyában hozott döntés, amennyiben az intézmény által egyidejűleg előterjesztett kérelmekben szereplő, a csökkentéssel érintett kötelezettségállomány együttes összege nem haladja meg a szavatolótőke és a leírható, illetve átalakítható kötelezettségállomány 10%-át.”
+3. §[^4]
 
-3. § Hatályát veszti a Rendelet 2. § (1) bekezdés b) pontja.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
