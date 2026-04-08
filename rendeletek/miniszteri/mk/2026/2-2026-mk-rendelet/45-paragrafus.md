@@ -1,0 +1,1 @@
+45. § A bérlő a közös költség felújítási alap nélkül számított összegét, valamint a külön szolgáltatásokért, így különösen a vízellátás és csatornahasználat biztosításáért, a felvonó használatának biztosításért, a központi fűtés és melegvíz- ellátásért, egyéb szolgáltatások biztosításáért a szolgáltatást nyújtó által meghatározott díjat megfizeti.

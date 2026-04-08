@@ -1,0 +1,1 @@
+38. § A 35. § (2) bekezdése szerint értékesítésre kerülő lakás vevőjét a 37. §, az üres, valamint a harmadik személy részére lakottan értékesítésre kerülő lakás vevőjét a 35–37. § szerinti kedvezmények nem illetik meg.

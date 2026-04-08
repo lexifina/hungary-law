@@ -1,0 +1,1 @@
+15. § A nemzetbiztonsági állomány tagja részére a polgári nemzetbiztonsági szolgálat ismételt munkáltatói kölcsönt – a 6. § (1) bekezdés e) pontjában foglalt célra nyújtott munkáltatói kölcsön kivételével – az előző munkáltatói kölcsönből még fennálló tartozás teljes visszafizetését követően nyújthat.

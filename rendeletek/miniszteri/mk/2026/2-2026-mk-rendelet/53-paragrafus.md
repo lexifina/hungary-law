@@ -1,0 +1,3 @@
+53. § (1) A nemzetbiztonsági állomány e rendelet hatálybalépését megelőzően munkáltatói kölcsönben részesített tagja a kölcsöntartozását a megállapodásban foglalt eredeti feltételek mellett köteles visszafizetni, a törlesztési idő lejárta előtti visszafizetés esetére vonatkozó kedvezményre azonban e rendelet szabályait kell alkalmazni.
+
+(2) Az e rendelet hatálybalépését megelőzően hatályos jogszabályok alapján folyósított, a szolgálati viszony megszüntetése következtében felmondással érintett, de még folyamatban lévő munkáltatói kölcsön esetében e rendelet visszafizetésre vonatkozó szabályait kell alkalmazni.
