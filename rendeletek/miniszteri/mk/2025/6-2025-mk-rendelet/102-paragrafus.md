@@ -10,4 +10,6 @@ d) a természetbeni juttatás vonatkozásában a 15. § (2) és (3) bekezdése,
 
 e) a vezetői juttatásokra vonatkozó 17–20. § és
 
-f) a vezetői munkáltatói kölcsönre vonatkozó 65. §.
+f)[^25]
+
+[^25]: A 102. § f) pontját a 2/2026. (III. 31.) MK rendelet 56. § g) pontja hatályon kívül helyezte.

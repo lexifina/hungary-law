@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában
 
-1. akadálymentesítés: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 72. § (5) bekezdés d) pontjában meghatározott tevékenység,
+1.[^1]
 
 2. belföldi szolgálati kiküldetés: a nemzetbiztonsági állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a nemzetbiztonsági állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helyének közigazgatási határán kívül teljesíti,
 
@@ -18,21 +18,21 @@
 
 8. hivatali lakás: vezetői juttatásként biztosított, legalább az együtt lakó személyek számának megfelelő számú lakószobával rendelkező szolgálati lakás, valamint a lakáshasználathoz kapcsolódó garázs vagy gépjárműbeálló,
 
-9. kölcsönszerződés: a nemzetbiztonsági állomány tagjának a munkáltatói kölcsönt folyósító pénzügyi intézménnyel a munkáltatói kölcsön visszafizetése és a kölcsönszámla vezetése céljából kötött szerződése,
+9.[^2]
 
 10. közeli hozzátartozó: a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény (a továbbiakban: Pnbjt.) 6. § 12. pontja szerinti közeli hozzátartozó,
 
-11. lakás: az Szja tv. 3. § 73. pontja szerinti építmény,
+11.[^3] lakás: az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró építmény, valamint az építési engedély szerint lakóház céljára létesülő építmény, ha készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lévő lakóház,
 
-12. lakásbővítés: az Szja tv. 72. § (5) bekezdés b) pontjában meghatározott tevékenység,
+12.[^4]
 
-13. lakásépítés: a nemzetbiztonsági állomány tagjának tulajdonába kerülő, az alapozási munkáktól kezdődően teljes egészében újonnan épített, valamint emeletráépítéssel vagy tetőtér-beépítéssel, lakás műszaki megosztásával, valamint nem lakás céljára szolgáló helyiségek átalakításával megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység létrehozása, amely elkészültét követően használatbavételi vagy fennmaradási engedély köteles,
+13.[^5]
 
-14. lakáskorszerűsítés: az Szja tv. 72. § (5) bekezdés c) pontjában meghatározott tevékenység,
+14.[^6]
 
-15. lakásügyi szerv: a főigazgató által közjogi szervezetszabályozó eszközben kijelölt, a lakásgazdálkodási feladatokat ellátó szervezeti egység vagy szervezeti elem,
+15.[^7]
 
-16. lakhatási krízishelyzet: a személyi vagy pénzügyi helyzetben bekövetkezett olyan változás, amelynek eredményeképpen valakinek a lakhatása átmenetileg nem megoldott, és azt önerőből megoldani sem képes,
+16.[^8]
 
 17. lakószoba: az Ltv. 91/A. § 8. pontja szerinti lakóhelyiség,
 
@@ -40,7 +40,7 @@
 
 19. polgári nemzetbiztonsági szolgálat: az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Információs Központ,
 
-20. szállóférőhely: a rendvédelmi szerv rendelkezése alatt álló azon lakásnak nem minősülő épület, épületrész, amelynek használóját a polgári nemzetbiztonsági szolgálat a rendvédelmi szervvel kötött megállapodás alapján jogosult kijelölni,
+20.[^9]
 
 21. szolgálati lakás:
 
@@ -52,8 +52,15 @@ c) a polgári nemzetbiztonsági szolgálatot megillető bérlőkijelölési vagy
 
 d) a polgári nemzetbiztonsági szolgálat által albérletbe adható lakás.
 
-(2) E rendelet alkalmazásában a nemzetbiztonsági szolgálati jogviszony (a továbbiakban: szolgálati viszony) megszüntetése a nemzetbiztonsági állomány tagja részéről akkor felróható, ha
+(2)[^10]
 
-a) a szolgálati viszony megszüntetésére fegyelmi eljárás eredményeként, érdemtelenség, végrehajtandó szabadságvesztés büntetés kiszabása, a szolgálati viszonyról való lemondás, nemzetbiztonsági alkalmatlanság vagy szolgálatra való alkalmatlanság – ide nem értve az egészségi és pszichológiai alkalmatlanság esetét – miatt kerül sor,
-
-b) a szolgálati viszony közös megegyezéssel történő megszüntetését a nemzetbiztonsági állomány tagja kezdeményezi, kivéve, ha erre nyugállomány igénybevétele miatt kerül sor.
+[^1]: A 2. § (1) bekezdés 1. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés 9. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 11. pontja a 2/2026. (III. 31.) MK rendelet 54. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 12. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 13. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 14. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 15. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 16. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés 20. pontját a 2/2026. (III. 31.) MK rendelet 56. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (2) bekezdését a 2/2026. (III. 31.) MK rendelet 56. § b) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## V. Fejezet
+## V. Fejezet[^22]
 
-## A LAKÁSCÉLÚ MUNKÁLTATÓI KÖLCSÖN
+45. §
 
-45. § E fejezet alkalmazásában megállapodás: a nemzetbiztonsági állomány tagjának a munkáltatói kölcsön feltételeiről és visszafizetéséről a polgári nemzetbiztonsági szolgálattal kötött szerződése.
+[^22]: Az V. Fejezetet (45–65. §-t) a 2/2026. (III. 31.) MK rendelet 56. § f) pontja hatályon kívül helyezte.
