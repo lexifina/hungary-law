@@ -1,3 +1,3 @@
-54. § A 6/2025. (III. 31.) MK rendelet 2. § (1) bekezdés 11. pontja helyébe a következő rendelkezés lép:
+54. §[^1]
 
-(E rendelet alkalmazásában)
+[^1]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
