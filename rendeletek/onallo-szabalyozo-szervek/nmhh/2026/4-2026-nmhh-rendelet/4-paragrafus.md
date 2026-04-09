@@ -1,0 +1,1 @@
+4. § Az Elnök a Döntéseket az (EU) 2022/2065 európai parlamenti és tanácsi rendelet 85. cikke alapján erre a célra kialakított információmegosztási rendszerbe történő megküldés érdekében adatbázisba rendezi.
