@@ -1,4 +1,4 @@
-## 10. §[^288] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2018. (IX. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6/A. §-át a Módr2. hatálybalépésekor[^289] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^289] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2018. (IX. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6/A. §-át a Módr2. hatálybalépésekor[^290] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^288]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 174/2018. (IX. 26.) Korm. rendelet 5. §-a iktatta be.
-[^289]: A hatálybalépés időpontja 2018. szeptember 27.
+[^289]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 174/2018. (IX. 26.) Korm. rendelet 5. §-a iktatta be.
+[^290]: A hatálybalépés időpontja 2018. szeptember 27.
