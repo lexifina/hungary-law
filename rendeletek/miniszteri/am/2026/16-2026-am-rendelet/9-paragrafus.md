@@ -1,0 +1,1 @@
+9. § A 41/2008. (IV. 3.) FVM rendelet 4. § (2) bekezdésében a „forrás legfeljebb 40 millió forint” szövegrész helyébe a „keretösszeget az agrárpolitikáért felelős miniszter közleményben határozza meg” szöveg lép.

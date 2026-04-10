@@ -1,0 +1,1 @@
+35. § A 11/2019. (IV. 1.) AM rendelet 4. § (1) bekezdésében a „10,886 milliárd forint” szövegrész helyébe a „10,886 milliárd forint, a 2026/2027. támogatási évben legfeljebb 10,000 milliárd forint” szöveg lép.
