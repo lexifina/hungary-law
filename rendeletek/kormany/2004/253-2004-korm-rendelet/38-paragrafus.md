@@ -2,7 +2,7 @@
 
 38. § (1)[^204] A lőfegyvert, gáz- és riasztófegyvert tartó személy
 
-a)[^205] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön – az (1a)–(1b) bekezdésben meghatározott kivétellel, illetve jogszabály eltérő rendelkezésének hiányában – működőképes hosszú lőfegyverét csak ürítve, tokban – moduláris tűzfegyver esetében szétbontva –, működőképes rövid lőfegyverét, gáz- és riasztófegyverét üres tárral – kivéve, ha a tár kiürítését a gáz- és riasztófegyver adott típusának gyártási sajátosságai nem teszik lehetővé –, a fegyver és a lőszer (töltény) elkülönített csomagolásával, zárt dobozban vagy egyéb zárt tárolóeszközben szállíthatja, amelynek során köteles megtenni minden szükséges intézkedést annak érdekében, hogy a lőfegyverhez, a gáz- és riasztófegyverhez, illetve a lőszerhez illetéktelen személy ne férhessen hozzá;
+a)[^205] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön – az (1a)–(1b) bekezdésben meghatározott kivétellel, illetve jogszabály eltérő rendelkezésének hiányában – működőképes hosszú lőfegyverét csak ürítve, tokban, működőképes rövid lőfegyverét, gáz- és riasztófegyverét üres tárral – kivéve, ha a tár kiürítését a gáz- és riasztófegyver adott típusának gyártási sajátosságai nem teszik lehetővé –, a fegyver és a lőszer (töltény) elkülönített csomagolásával, zárt dobozban vagy egyéb zárt tárolóeszközben szállíthatja, amelynek során köteles megtenni minden szükséges intézkedést annak érdekében, hogy a lőfegyverhez, a gáz- és riasztófegyverhez, illetve a lőszerhez illetéktelen személy ne férhessen hozzá;
 
 b)[^206] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön önvédelemre engedélyezett rövid lőfegyverét, személy- és vagyonvédelemre engedélyezett lőfegyverét, viselési engedély esetén gáz- és riasztófegyverét betárazva, a véletlen elsülés ellen biztosítva, – a személy- és vagyonvédelemre engedélyezett lőfegyver kivételével – rejtve viselheti;
 
@@ -32,9 +32,9 @@ l)[^215] munkavégzési célú lőfegyverét, a lőfegyver tartásához szüksé
 
 m)[^216] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedély birtokában jogosult a forgalmazótól vagy hatályos lőfegyvertartási engedéllyel rendelkezőtől egyedi jóváhagyást igénylő lőfegyvert vásárolni.
 
-(1a)[^217] A hivatásos vadász feladatának ellátása során szolgálati vadász- és maroklőfegyverét a működési területén belül – a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével – ürítetlen állapotban, illetve a tokban történő tartást mellőzve – moduláris tűzfegyver esetében összeállítva – szállíthatja.
+(1a)[^217] A hivatásos vadász feladatának ellátása során szolgálati vadász- és maroklőfegyverét a működési területén belül – a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével – ürítetlen állapotban, illetve a tokban történő tartást mellőzve szállíthatja.
 
-(1b)[^218] A vadászat során a vadászlőfegyver tartására jogosult vadászlőfegyverét kizárólag a vadászterületen belül – a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével – ürítve, a tokban történő tartást mellőzve – moduláris tűzfegyver esetében összeállítva – szállíthatja.
+(1b)[^218] A vadászat során a vadászlőfegyver tartására jogosult vadászlőfegyverét kizárólag a vadászterületen belül – a település közigazgatási belterületén, valamint a közforgalmú közlekedési eszközön történő szállítás kivételével – ürítve, a tokban történő tartást mellőzve szállíthatja.
 
 (2) Szervezet esetén az (1) bekezdés f)–l) pontjában foglaltak végrehajtásáért a szervezet vezetője felelős.
 
@@ -47,7 +47,7 @@ m)[^216] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott eng
 (6)[^222] Az elveszett vagy eltulajdonított, egyedi jóváhagyást igénylő lőfegyver, tűzfegyver fődarab (lőfegyverdarab), illetve tartási engedély körözését az engedély kiadására feladat- és hatáskörrel rendelkező rendőri szerv rendeli el.
 
 [^204]: A 38. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^205]: A 38. § (1) bekezdés a) pontja a 371/2016. (XI. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 18. pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^205]: A 38. § (1) bekezdés a) pontja a 371/2016. (XI. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 18. pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 6. pontja, a 83/2026. (IV. 9.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^206]: A 38. § (1) bekezdés b) pontja a 288/2025. (VIII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^207]: A 38. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (3) bekezdésével megállapított, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 19. pontja szerint módosított szöveg.
 [^208]: A 38. § (1) bekezdés d) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 20. pontja szerint módosított szöveg.
@@ -59,8 +59,8 @@ m)[^216] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott eng
 [^214]: A 38. § (1) bekezdés k) pontja a 371/2016. (XI. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított, az 57/2019. (III. 18.) Korm. rendelet 4. § b) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 23. pontja szerint módosított szöveg.
 [^215]: A 38. § (1) bekezdés l) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^216]: A 38. § (1) bekezdés m) pontja a 247/2009. (XI.10.) Korm. rendelet 21. § (6) bekezdésével megállapított, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 17. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^217]: A 38. § (1a) bekezdését a 39/2012. (III. 12.) Korm. rendelet 18. § (2) bekezdése iktatta be, szövege a 457/2025. (XII. 29.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
-[^218]: A 38. § (1b) bekezdését a 39/2012. (III. 12.) Korm. rendelet 18. § (2) bekezdése iktatta be, szövege a 226/2012. (VIII. 23.) Korm. rendelet 2. § (2) bekezdés b) pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
+[^217]: A 38. § (1a) bekezdését a 39/2012. (III. 12.) Korm. rendelet 18. § (2) bekezdése iktatta be, szövege a 457/2025. (XII. 29.) Korm. rendelet 18. § 7. pontja, a 83/2026. (IV. 9.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^218]: A 38. § (1b) bekezdését a 39/2012. (III. 12.) Korm. rendelet 18. § (2) bekezdése iktatta be, szövege a 226/2012. (VIII. 23.) Korm. rendelet 2. § (2) bekezdés b) pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 7. pontja, a 83/2026. (IV. 9.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^219]: A 38. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
 [^220]: A 38. § (4) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 25. pontja szerint módosított szöveg.
 [^221]: A 38. § (5) bekezdése a 457/2025. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

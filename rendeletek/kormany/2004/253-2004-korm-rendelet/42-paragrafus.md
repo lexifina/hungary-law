@@ -2,7 +2,7 @@
 
 42. §[^234] (1) E rendelet eltérő rendelkezése hiányában
 
-a)[^235] a működőképes lőfegyvert a tartására jogosult személy által állandóan lakott vagy rendszeresen, illetve alkalmanként visszatérő módon látogatott lakásban – szervezet esetén őrzött, vagy riasztó berendezéssel védett épületben – ürített állapotban – moduláris tűzfegyver esetében szétbontva –, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott szekrényben, illetéktelen személyektől elzárva kell tárolni,
+a)[^235] a működőképes lőfegyvert a tartására jogosult személy által állandóan lakott vagy rendszeresen, illetve alkalmanként visszatérő módon látogatott lakásban – szervezet esetén őrzött, vagy riasztó berendezéssel védett épületben – ürített állapotban, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott szekrényben, illetéktelen személyektől elzárva kell tárolni,
 
 b)[^236] működőképes rövid lőfegyvert, tűzfegyver fődarabot (lőfegyverdarabot) az a) pontban meghatározott egyéb feltételek betartása mellett, falhoz, padlóhoz vagy szekrényhez rögzített, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott dobozban is lehet tárolni,
 
@@ -35,7 +35,7 @@ c)[^243] a jogszerűen tartott maroklőfegyverek számának a négyszázszorosá
 (3)[^247] A lőfegyver és a hozzá tartozó lőszer a tartásukra jogosult személy folyamatos jelenléte esetén elzárás, illetve elkülönítés nélkül is tárolható, aminek során a tartásra jogosult személy köteles megtenni az illetéktelen hozzáférés megelőzése, illetve megakadályozása érdekében az adott helyzetben szükséges intézkedéseket.
 
 [^234]: A 42. § a 39/2012. (III. 12.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^235]: A 42. § (1) bekezdés a) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 34. pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 9. pontja szerint módosított szöveg.
+[^235]: A 42. § (1) bekezdés a) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 34. pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 9. pontja, a 83/2026. (IV. 9.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^236]: A 42. § (1) bekezdés b) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 35. pontja, a 457/2025. (XII. 29.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
 [^237]: A 42. § (1) bekezdés c) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 36. pontja szerint módosított szöveg.
 [^238]: A 42. § (2) bekezdés b) pontja a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 37. pontja, a 280/2023. (VI. 29.) Korm. rendelet 9. § f) pontja, a 295/2024. (X. 9.) Korm. rendelet 8. §-a szerint módosított szöveg.
