@@ -18,7 +18,7 @@ e)[^27] az európai uniós versenyjogi értelemben vett állami támogatásokkal
 
 (3)[^28] A (2) bekezdés a)–c) pontjában megjelölt, a támogatási kérelemhez csatolandó dokumentumok közül – a tenyészanyákra vonatkozó dokumentumok kivételével – kizárólag a tárgyévet megelőző év október 1-je és a támogatási kérelem benyújtása közötti időpontban kiállítottak fogadhatók el.
 
-(4)[^29] A Kincstár a jogos igényeket összesíti. Ha az összes megállapított jogos támogatási igény meghaladja a 4. § (3) bekezdésben foglalt keretösszeget, akkor minden jogos támogatási igényt arányosan csökkenteni kell.
+(4)[^29] A Kincstár a jogos igényeket összesíti. Ha az összes megállapított jogos támogatási igény meghaladja a 4. § (3b) bekezdésében hivatkozott miniszteri közleményben meghatározott keretösszeget, akkor minden jogos támogatási igényt arányosan csökkenteni kell.
 
 (5)[^30] Amennyiben a kérelem nem felel meg az e rendeletben, valamint az egyéb jogszabályokban előírt feltételeknek, vagy más okból kiegészítésre vagy javításra szorul, a Kincstár az ügyfelet a hiányok megjelölése mellett tizenöt napos határidő kitűzésével, a hibák kijavítására, illetve pótlására szólítja fel.
 
@@ -33,7 +33,7 @@ e)[^27] az európai uniós versenyjogi értelemben vett állami támogatásokkal
 [^26]: Az 5. § (2) bekezdés c) pontja a 18/2014. (X. 29.) FM rendelet 10. § e) pontja szerint módosított szöveg.
 [^27]: Az 5. § (2) bekezdés e) pontját a 18/2014. (X. 29.) FM rendelet 7. § (1) bekezdése iktatta be.
 [^28]: Az 5. § (3) bekezdése a 109/2011. (XI. 21.) VM rendelet 2. §-ával megállapított szöveg.
-[^29]: Az 5. § (4) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 32. § b) pontja szerint módosított szöveg.
+[^29]: Az 5. § (4) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 32. § b) pontja, a 16/2026. (IV. 9.) AM rendelet 12. §-a szerint módosított szöveg.
 [^30]: Az 5. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 32. § c) pontja szerint módosított szöveg.
 [^31]: Az 5. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 32. § b) pontja szerint módosított szöveg.
 [^32]: Az 5. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 32. § c) pontja szerint módosított szöveg.
