@@ -1,4 +1,4 @@
-7/A. §[^38] (1) A növényvédelmi hatóság a kifizetési kérelmet nyilvántartásba veszi, és a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságát – a készenléti tervben foglalt intézkedéseket és termelői kötelezettségeket is alapul véve – megvizsgálja, majd annak teljessége esetén azt záradékkal látja el. A záradék tartalmazza
+7/A. §[^37] (1) A növényvédelmi hatóság a kifizetési kérelmet nyilvántartásba veszi, és a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságát – a készenléti tervben foglalt intézkedéseket és termelői kötelezettségeket is alapul véve – megvizsgálja, majd annak teljessége esetén azt záradékkal látja el. A záradék tartalmazza
 
 a) a növényvédelmi hatóság állásfoglalását a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságáról a növényvédőszer megnevezésének és mennyiségének megjelölésével,
 
@@ -16,7 +16,7 @@ c) csemegeszőlő termelése esetén a szőlőültetvény adatairól, valamint a
 
 (6) Hiányosan benyújtott kifizetési kérelem esetén a Kincstár részére megküldött hiánypótlást követően a Kincstár – legfeljebb tizenöt napos határidő tűzésével – megküldi a kifizetési kérelmet a növényvédelmi hatóság részére annak (1)–(4) bekezdés szerinti záradékolása érdekében. Ha a növényvédelmi hatóság által kiállított záradék alapján a támogatási igény részben vagy teljes egészében nem megalapozott, akkor a Kincstár a kifizetési kérelmet részben vagy teljes egészében elutasítja.
 
-(7) Ha a tárgyévre vonatkozóan benyújtott kifizetési kérelmekben foglalt jogos igény meghaladja a 3. § (1) bekezdése szerinti keretösszeget, akkor a keretösszeg kifizetési kérelmekben foglalt jogos igényre történő felosztása a támogatási célok alábbi sorrendjében történik:
+(7)[^38] Ha a tárgyévre vonatkozóan benyújtott kifizetési kérelmekben foglalt jogos igény meghaladja a 3. § (1) bekezdésében hivatkozott miniszteri közleményben meghatározott keretösszeget, akkor a keretösszeg kifizetési kérelmekben foglalt jogos igényre történő felosztása a támogatási célok alábbi sorrendjében történik:
 
 a) szőlő szaporítóanyag termelés,
 
@@ -24,6 +24,8 @@ b) az a) pont szerinti eset kivételével a növényegészségügyi felszámolá
 
 c) az a) pont szerinti eset kivételével a növényegészségügyi megelőzés.
 
-(8) A (7) bekezdés alkalmazásában a tárgyévben a szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés részére a (7) bekezdés c) pontja szerinti célra vonatkozó kifizetési kérelmekben foglalt jogos igény alapján legfeljebb a 3. § (1) bekezdése szerinti keretösszeg és a (7) bekezdés a) és b) pontja szerinti támogatási célokra vonatkozó kifizetési kérelmekben foglalt jogos igény különbözete erejéig nyújtható támogatás, amelynek összege a túllépés mértékével arányosan csökken.
+(8)[^39] A (7) bekezdés alkalmazásában a tárgyévben a szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés részére a (7) bekezdés c) pontja szerinti célra vonatkozó kifizetési kérelmekben foglalt jogos igény alapján legfeljebb a 3. § (1) bekezdésében hivatkozott miniszteri közleményben meghatározott keretösszeg és a (7) bekezdés a) és b) pontja szerinti támogatási célokra vonatkozó kifizetési kérelmekben foglalt jogos igény különbözete erejéig nyújtható támogatás, amelynek összege a túllépés mértékével arányosan csökken.
 
-[^38]: A 7/A. §-t a 42/2020. (VIII. 19.) AM rendelet 11. §-a iktatta be.
+[^37]: A 7/A. §-t a 42/2020. (VIII. 19.) AM rendelet 11. §-a iktatta be.
+[^38]: A 7/A. § (7) bekezdés nyitó szövegrésze a 16/2026. (IV. 9.) AM rendelet 23. § a) pontja szerint módosított szöveg.
+[^39]: A 7/A. § (8) bekezdése a 16/2026. (IV. 9.) AM rendelet 23. § b) pontja szerint módosított szöveg.

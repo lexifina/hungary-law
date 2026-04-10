@@ -14,8 +14,8 @@
 
 | 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag | legfeljebb 12 000 forint |
 
-1b. melléklet a 9/2016. (II. 15.) FM rendelethez[^49]
+1b. melléklet a 9/2016. (II. 15.) FM rendelethez[^50]
 
 Támogatás összege és mértéke körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi felszámolás esetén
 
-[^49]: Az 1b. melléklet a 35/2018. (XII. 6.) AM rendelet 27. § (2) bekezdésével megállapított, a 42/2020. (VIII. 19.) AM rendelet 14. § b) pontja szerint módosított szöveg.
+[^50]: Az 1b. melléklet a 35/2018. (XII. 6.) AM rendelet 27. § (2) bekezdésével megállapított, a 42/2020. (VIII. 19.) AM rendelet 14. § b) pontja szerint módosított szöveg.

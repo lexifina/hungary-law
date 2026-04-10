@@ -1,6 +1,6 @@
-## 6. [^36] A kifizetési kérelem benyújtása
+## 6. [^35] A kifizetési kérelem benyújtása
 
-7. §[^37] (1) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez a szőlőtermelő a (2) bekezdésben foglalt adatot tartalmazó kérelmet, az igénylésre felhatalmazott termelői szerveződés a (3) bekezdésben foglalt adatot tartalmazó kérelmet a szőlő tárgyévi növényegészségügyi megelőzési, illetve növényegészségügyi felszámolási célú növényvédőszeres kezelését követően, de legkésőbb tárgyév augusztus 15-éig nyújthatja be. A kérelem benyújtására elektronikus úton – a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az E-ügyintézési törvényben foglaltaknak megfelelően, a Kincstárhoz az elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint kerülhet sor. A Kincstár a kifizetési kérelmeket a hiánytalan beérkezést követő tizenöt napon belül továbbítja a növényvédelmi hatóság részére a 7/A. § (1)–(4) bekezdésében foglaltak céljából.
+7. §[^36] (1) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez a szőlőtermelő a (2) bekezdésben foglalt adatot tartalmazó kérelmet, az igénylésre felhatalmazott termelői szerveződés a (3) bekezdésben foglalt adatot tartalmazó kérelmet a szőlő tárgyévi növényegészségügyi megelőzési, illetve növényegészségügyi felszámolási célú növényvédőszeres kezelését követően, de legkésőbb tárgyév augusztus 15-éig nyújthatja be. A kérelem benyújtására elektronikus úton – a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az E-ügyintézési törvényben foglaltaknak megfelelően, a Kincstárhoz az elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint kerülhet sor. A Kincstár a kifizetési kérelmeket a hiánytalan beérkezést követő tizenöt napon belül továbbítja a növényvédelmi hatóság részére a 7/A. § (1)–(4) bekezdésében foglaltak céljából.
 
 (2) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez a szőlőtermelő kérelme az alábbi adatokat tartalmazza:
 
@@ -82,5 +82,5 @@ f) ha a szőlőtermelő vagy a termelői szerveződésben tagsággal rendelkező
 
 (6) A szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés a tárgyévben egy kifizetési kérelmet nyújthat be. Ugyanazon kifizetési kérelemben együttesen igényelhető a növényegészségügyi megelőzés és a növényegészségügyi felszámolás támogatása.
 
-[^36]: A 6. alcím címe a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^37]: A 7. § a 42/2020. (VIII. 19.) AM rendelet 10. §-ával megállapított szöveg.
+[^35]: A 6. alcím címe a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
+[^36]: A 7. § a 42/2020. (VIII. 19.) AM rendelet 10. §-ával megállapított szöveg.
