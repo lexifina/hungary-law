@@ -1,6 +1,6 @@
 ## A támogatás forrása és kifizetése
 
-8. § (1)[^18] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
+8. § (1)[^18] A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Kiemelt ágazati támogatások” jogcímén elkülönített keretösszeg.
 
 (2)[^19] A tárgyévben rendelkezésre álló támogatási keret összege 4500 millió forint, amelynek terhére a tárgyévet megelőző évben elvégzett, de ki nem fizetett szolgáltatások után járó jogos igények és a tárgyévben elvégzett szolgáltatások támogatása teljesíthető.
 
@@ -14,7 +14,7 @@
 
 (7)[^24]
 
-[^18]: A 8. § (1) bekezdése a 6/2017. (II. 13.) FM rendelet 11. §-ával megállapított, az 52/2019. (XI. 14.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdése a 16/2026. (IV. 9.) AM rendelet 10. §-ával megállapított szöveg.
 [^19]: A 8. § (2) bekezdése a 35/2018. (XII. 6.) AM rendelet 8. §-ával megállapított, a 61/2024. (XII. 20.) AM rendelet 2. §-a szerint módosított szöveg.
 [^20]: A 8. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. A 8. § (3) bekezdése a 24/2010. (X. 20.) VM rendelet 2. § (2) bekezdése, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
 [^21]: A 8. § (2) bekezdése számozását (4) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése, szövege a 75/2012. (VII. 25.) VM rendelet 3. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
