@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2024-12-21 | 2007-148-20-82.55 | 60/2024. (XII. 20.) AM rendelet |
 | 2025-04-11 | 2007-148-20-82.56 | 7/2025. (IV. 10.) AM rendelet |
 | 2025-12-20 | 2007-148-20-82.57 | 7/2025. (IV. 10.) AM rendelet |
+| 2026-04-10 | 2007-148-20-82.58 | 16/2026. (IV. 9.) AM rendelet |

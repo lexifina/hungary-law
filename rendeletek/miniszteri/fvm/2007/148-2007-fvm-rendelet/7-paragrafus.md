@@ -28,6 +28,12 @@
 
 (2k)[^89] A (2i) és (2j) bekezdés szerinti keretösszegek terhére a 2025. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.
 
+(2l)[^90] A támogatás keretösszege a 2026. évben a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 1. Nemzeti agrártámogatások jogcímcsoport, 1. Kiemelt ágazati támogatások jogcímen elkülönített 12 600 millió forint, amelyből 2400 millió forintot a baromfiágazatban, 8800 millió forintot az egyéb állattenyésztési ágazatban, 1400 millió forintot a vemhes üszők állat-egészségügyi szolgáltatására, gyógykezelésére és immunizálására kell felhasználni, azzal, hogy a C001 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 5500 millió forint fizethető ki. A C001 technikai kódú állat-egészségügyi szolgáltatásokra rendelkezésre álló támogatási keret kimerülése esetén a baromfi-, az egyéb állattenyésztési ágazatra vagy a vemhes üszőkre megállapított szabad támogatási keret terhére támogatási összeg nem csoportosítható át. Ha a baromfiágazatban vagy az egyéb állattenyésztési ágazatban megállapított támogatás mértéke meghaladja az adott ágazatra a 2026. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2026. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények az e bekezdésben meghatározott más ágazatokban felhasználható keretek terhére is teljesíthetőek.
+
+(2m)[^91] A (2l) bekezdésben foglaltakon túl a C002 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 100 millió forint használható fel.
+
+(2n)[^92] A (2l) és (2m) bekezdés szerinti keretösszegek terhére a 2025. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.
+
 (3) Az adott évre meghatározott keretek 50%-os kihasználtságáról és minden további 10%-os mértékű felhasználásáról a Kincstár köteles a minisztert és a NÉBIH elnökét is tájékoztatni. A miniszter a keretek várható kimerüléséről közleményt ad ki.
 
 [^76]: A 6/C. §-t a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 8. § j) pontja, a 6/2017. (II. 13.) FM rendelet 8. § f) pontja szerint módosított szöveg.
@@ -44,3 +50,6 @@
 [^87]: A 7. § (2i) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be, szövege az 53/2025. (XII. 19.) AM rendelet 2. §-a szerint módosított szöveg.
 [^88]: A 7. § (2j) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.
 [^89]: A 7. § (2k) bekezdését a 7/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.
+[^90]: A 7. § (2l) bekezdését a 16/2026. (IV. 9.) AM rendelet 5. §-a iktatta be.
+[^91]: A 7. § (2m) bekezdését a 16/2026. (IV. 9.) AM rendelet 5. §-a iktatta be.
+[^92]: A 7. § (2n) bekezdését a 16/2026. (IV. 9.) AM rendelet 5. §-a iktatta be.

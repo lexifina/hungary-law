@@ -1,3 +1,3 @@
-1. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^127]
+1. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^132]
 
-[^127]: Az 1. számú melléklet a 159/2022. (XII. 27.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^132]: Az 1. számú melléklet a 159/2022. (XII. 27.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.

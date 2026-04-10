@@ -14,7 +14,7 @@
 
 ## 3.2. ügyfél-azonosító,
 
-## 3.3.[^149] jogosultságát megállapító járási hivatal döntésének száma,
+## 3.3.[^154] jogosultságát megállapító járási hivatal döntésének száma,
 
 ## 3.4. az elvégzett szolgáltatás 1. számú melléklet szerinti technikai kódja,
 
@@ -24,7 +24,7 @@
 
 ## 3.8. a számlán feltüntetett támogatható nettó költség,
 
-## 3.9.[^150] a vállalkozás minősítése (mikro, kis, közép).
+## 3.9.[^155] a vállalkozás minősítése (mikro, kis, közép).
 
 ## 4. Igényelt támogatás összege forintban
 
@@ -36,19 +36,19 @@
 
 ## 7.1. Számla másolatok.
 
-## 7.2.[^151] Sertés állatfaj (tenyészkoca) kivételével az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez baromfi állatfaj esetében az 5. számú melléklet, szarvasmarha állatfaj esetében a 6. számú melléklet szerinti adattartalmú, a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyilatkozatot kell csatolnia.
+## 7.2.[^156] Sertés állatfaj (tenyészkoca) kivételével az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez baromfi állatfaj esetében az 5. számú melléklet, szarvasmarha állatfaj esetében a 6. számú melléklet szerinti adattartalmú, a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyilatkozatot kell csatolnia.
 
-## 7.3.[^152] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, a Kincstár által rendszeresített és honlapján közzétett nyilatkozat.
+## 7.3.[^157] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, a Kincstár által rendszeresített és honlapján közzétett nyilatkozat.
 
-## 7.4.[^153] Nyúl állatfaj esetén C001 technikai kód alapján történő igényléshez a Traces bizonyítvány vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolata.
+## 7.4.[^158] Nyúl állatfaj esetén C001 technikai kód alapján történő igényléshez a Traces bizonyítvány vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolata.
 
-## 7.5.[^154] Vemhes üsző esetén C001 technikai kód alapján történő igényléskor a szolgáltató állatorvos által kiállított igazolás eredeti példánya.
+## 7.5.[^159] Vemhes üsző esetén C001 technikai kód alapján történő igényléskor a szolgáltató állatorvos által kiállított igazolás eredeti példánya.
 
-## 8.[^155] A vármegyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
+## 8.[^160] A vármegyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
 
-## 9.[^156] Keltezés, a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatal főállatorvosának (cégszerű) aláírása.
+## 9.[^161] Keltezés, a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatal főállatorvosának (cégszerű) aláírása.
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^157]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^162]
 
 Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
 
@@ -70,20 +70,20 @@ Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével
 
 5.2. arról, hogy a kedvezményezett fenti tenyészetkódú telepén lévő tenyészállatok száma megegyezik a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik,
 
-5.3.[^158] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént.
+5.3.[^163] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént.
 
-5.4.[^159] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás elvégzése során milyen állatgyógyászati termékeket használtak fel (állatgyógyászati készítmény és a hatóanyag megnevezése).
+5.4.[^164] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás elvégzése során milyen állatgyógyászati termékeket használtak fel (állatgyógyászati készítmény és a hatóanyag megnevezése).
 
 6. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^149]: A 3. számú melléklet 3. pont 3.3. alpontja a 6/2017. (II. 13.) FM rendelet 8. § d) pontja, a 30/2018. (X. 11.) AM rendelet 2. § f) pontja szerint módosított szöveg.
-[^150]: A 3. számú melléklet 3. pont 3.9. alpontját a 30/2018. (X. 11.) AM rendelet 1. §-a iktatta be.
-[^151]: A 3. számú melléklet 7.2. pontja a 78/2016. (XII. 12.) FM rendelet 8. § e) pontja szerint módosított szöveg.
-[^152]: A 3. számú melléklet 7.3. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
-[^153]: A 3. számú melléklet 7. pont 7.4. alpontját az 51/2016. (VII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
-[^154]: A 3. számú melléklet 7.5. pontját a 78/2016. (XII. 12.) FM rendelet 7. § (1) bekezdése iktatta be.
-[^155]: A 3. számú melléklet 8. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
-[^156]: A 3. számú melléklet 9. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
-[^157]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
-[^158]: A 4. számú melléklet 5. pont 5.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § a) pontja szerint módosított szöveg.
-[^159]: A 4. melléklet 5. pont 5.4. alpontját a 159/2022. (XII. 27.) AM rendelet 7. § (3) bekezdése iktatta be.
+[^154]: A 3. számú melléklet 3. pont 3.3. alpontja a 6/2017. (II. 13.) FM rendelet 8. § d) pontja, a 30/2018. (X. 11.) AM rendelet 2. § f) pontja szerint módosított szöveg.
+[^155]: A 3. számú melléklet 3. pont 3.9. alpontját a 30/2018. (X. 11.) AM rendelet 1. §-a iktatta be.
+[^156]: A 3. számú melléklet 7.2. pontja a 78/2016. (XII. 12.) FM rendelet 8. § e) pontja szerint módosított szöveg.
+[^157]: A 3. számú melléklet 7.3. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
+[^158]: A 3. számú melléklet 7. pont 7.4. alpontját az 51/2016. (VII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^159]: A 3. számú melléklet 7.5. pontját a 78/2016. (XII. 12.) FM rendelet 7. § (1) bekezdése iktatta be.
+[^160]: A 3. számú melléklet 8. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^161]: A 3. számú melléklet 9. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^162]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
+[^163]: A 4. számú melléklet 5. pont 5.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^164]: A 4. melléklet 5. pont 5.4. alpontját a 159/2022. (XII. 27.) AM rendelet 7. § (3) bekezdése iktatta be.
