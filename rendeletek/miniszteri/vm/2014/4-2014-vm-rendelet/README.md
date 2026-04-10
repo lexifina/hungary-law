@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-2Y
 | 2023-07-21 | 2014-4-20-2Y.20 | 35/2018. (XII. 6.) AM rendelet |
 | 2024-03-26 | 2014-4-20-2Y.21 | 35/2018. (XII. 6.) AM rendelet |
 | 2025-04-11 | 2014-4-20-2Y.22 | 7/2025. (IV. 10.) AM rendelet |
+| 2026-04-10 | 2014-4-20-2Y.23 | 16/2026. (IV. 9.) AM rendelet |
