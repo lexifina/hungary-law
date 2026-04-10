@@ -1,8 +1,5 @@
 ## 3. A támogatás forrása, keretösszege
 
-3. § (1)[^6]
+3. §[^6] A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Egyéb mezőgazdasági támogatások” jogcímén elkülönített keretösszeg, amelyet az agrárpolitikáért felelős miniszter közleményben határoz meg.
 
-(2)[^7] E rendelet alapján a tárgyévben nyújtható támogatás keretösszege legfeljebb 923 millió forint.
-
-[^6]: A 3. § (1) bekezdését a 66/2019. (XII. 30.) AM rendelet 13. §-a hatályon kívül helyezte.
-[^7]: A 3. § (2) bekezdése az 53/2025. (XII. 19.) AM rendelet 9. §-a szerint módosított szöveg.
+[^6]: A 3. § a 16/2026. (IV. 9.) AM rendelet 40. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-4/A. §[^12] (1) A kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon három egymást követő év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelemmel az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésére is.
+4/A. §[^11] (1) A kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon három egymást követő év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelemmel az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésére is.
 
 (2) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon kérelmező részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
@@ -6,4 +6,4 @@
 
 (4) A mezőgazdasági csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet]szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
 
-[^12]: A 4/A. §-t a 7/2025. (IV. 10.) AM rendelet 60. §-a iktatta be.
+[^11]: A 4/A. §-t a 7/2025. (IV. 10.) AM rendelet 60. §-a iktatta be.
