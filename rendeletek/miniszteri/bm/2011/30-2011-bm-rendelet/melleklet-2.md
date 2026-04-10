@@ -56,7 +56,7 @@
 
 | ..................................................... |
 
-2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^195]
+2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^196]
 
 1X05065_0
 
@@ -114,4 +114,4 @@
 
 | Az ideiglenes őri feladatok átadás-átvétele szigorú számadásos tevékenység! |
 
-[^195]: A 2. melléklet a 16/2021. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^196]: A 2. melléklet a 16/2021. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.

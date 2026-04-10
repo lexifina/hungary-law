@@ -10,11 +10,11 @@ b) megerősített a kísérés módja, ha a kísért személy szökésétől vag
 
 (3) A légijárművön történő kísérést kivéve mindig a megerősített kísérési módot kell alkalmazni, ha a kísérés belföldről külföldre vagy külföldről belföldre irányul.
 
-(4)[^141] A kísérésre vonatkozó utasítást a fogvatartás elrendelésére jogosult vezető adja. Ha a belföldről külföldre irányuló, vagy a külföldről belföldre történő kísérésre vonatkozó utasítás végrehajtásához külföldi állami szervekkel való kapcsolatfelvétel szükséges, akkor a végrehajtás módját a rendőrség nemzetközi bűnügyi együttműködési központja vezetőjével kell egyeztetni.
+(4)[^142] A kísérésre vonatkozó utasítást a fogvatartás elrendelésére jogosult vezető adja. Ha a belföldről külföldre irányuló, vagy a külföldről belföldre történő kísérésre vonatkozó utasítás végrehajtásához külföldi állami szervekkel való kapcsolatfelvétel szükséges, akkor a végrehajtás módját a rendőrség nemzetközi bűnügyi együttműködési központja vezetőjével kell egyeztetni.
 
 (5) A kísért személy figyelmét fel kell hívni a kísérés alatt tanúsítandó magatartásra, figyelmeztetni kell, hogy szökés, támadás vagy a kísérő őrnek való ellenszegülés esetén kényszerítő eszköz alkalmazására kerül sor. Ha a kísért személy veszélyessége ezt indokolja, a kísért személyt meg kell bilincselni. Ha a kísérő őr a kísérés biztonságát veszélyeztető körülményt észlel, haladéktalanul a legközelebbi általános rendőrségi feladatok ellátására létrehozott szervhez fordul.
 
-(6)[^142] A kísérés során a kijelölt útvonaltól csak abban az esetben lehet eltérni, ha az eredeti útvonalon történő haladás a biztonságos kísérést veszélyezteti. Ha a kísért személy megszökött, elfogására azonnal meg kell tenni a szükséges intézkedéseket. Ha az elfogásra tett haladéktalan intézkedés nem vezetett eredményre, azonnal jelentést kell tenni a rendőrség ügyeletesénél.
+(6)[^143] A kísérés során a kijelölt útvonaltól csak abban az esetben lehet eltérni, ha az eredeti útvonalon történő haladás a biztonságos kísérést veszélyezteti. Ha a kísért személy megszökött, elfogására azonnal meg kell tenni a szükséges intézkedéseket. Ha az elfogásra tett haladéktalan intézkedés nem vezetett eredményre, azonnal jelentést kell tenni a rendőrség ügyeletesénél.
 
-[^141]: A 76. § (4) bekezdése a 19/2025. (VI. 13.) BM rendelet 3. §-a szerint módosított szöveg.
-[^142]: A 76. § (6) bekezdése az 50/2016. (XII. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.
+[^142]: A 76. § (4) bekezdése a 19/2025. (VI. 13.) BM rendelet 3. §-a szerint módosított szöveg.
+[^143]: A 76. § (6) bekezdése az 50/2016. (XII. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 71/A. [^166] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
+## 71/A. [^167] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
 
-97/A. § (1)[^167] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a rendőri szerv szolgálati lőfegyvereinek és lőszereinek szolgálati célból történő külföldre vitelét – beleértve a más rendvédelmi szervtől vagy polgári nemzetbiztonsági szolgálattól vezényeltek személyi felszerelését képező lőfegyvernek és lőszernek a külföldre vitelét is – (a továbbiakban: kivitel)
+97/A. § (1)[^168] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a rendőri szerv szolgálati lőfegyvereinek és lőszereinek szolgálati célból történő külföldre vitelét – beleértve a más rendvédelmi szervtől vagy polgári nemzetbiztonsági szolgálattól vezényeltek személyi felszerelését képező lőfegyvernek és lőszernek a külföldre vitelét is – (a továbbiakban: kivitel)
 
 a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 
@@ -10,7 +10,7 @@ c) a Terrorelhárítási Központ
 
 vezetője írásban engedélyezi.
 
-(1a)[^168] Az (1) bekezdés szerinti engedélyt a kivitellel érintett rendőri szerv vezetője adja ki.
+(1a)[^169] Az (1) bekezdés szerinti engedélyt a kivitellel érintett rendőri szerv vezetője adja ki.
 
 (2) A kísérő okmányként felhasználható engedélynek magyar és angol nyelven tartalmaznia kell
 
@@ -38,6 +38,6 @@ b) a kivitel és a visszahozatal időpontját, továbbá
 
 c) a kiszállított, illetve a visszaszállított szolgálati lőfegyverek, lőszerek közt mutatkozó esetleges hiányokat vagy eltéréseket, valamint ezek okairól készült jelentést.
 
-[^166]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.
-[^167]: A 97/A. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 1. § (1) bekezdésével megállapított, a 2/2026. (II. 19.) BM rendelet 5. § i) pontja szerint módosított szöveg.
-[^168]: A 97/A. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^167]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.
+[^168]: A 97/A. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 1. § (1) bekezdésével megállapított, a 2/2026. (II. 19.) BM rendelet 5. § i) pontja szerint módosított szöveg.
+[^169]: A 97/A. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
