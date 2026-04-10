@@ -1,18 +1,18 @@
 ## Kérelem adattartalma a termeltetői bejegyzésre
 
-## I.[^35] Azonosító adatok:
+## I.[^36] Azonosító adatok:
 
 ## Az ügyfél adószáma, adóazonosító jele, ügyfél-azonosítója.
 
 ## II. A termeltetői bejegyzést kérelmező nyilatkozatai:
 
-## 1.1.[^36] A termeltető büntetőjogi felelőssége tudatában kijelenti, hogy
+## 1.1.[^37] A termeltető büntetőjogi felelőssége tudatában kijelenti, hogy
 
 ## a) kereskedelmi tevékenységet, állati termékfeldolgozói tevékenységet végez, illetve termelői csoportként működik, és
 
 ## b) a termeltetői tevékenység végzéséhez szükséges személyi és tárgyi feltételekkel rendelkezik;
 
-## 1.2.[^37] Az alábbiakról történő tájékoztatás:
+## 1.2.[^38] Az alábbiakról történő tájékoztatás:
 
 ## a) a termeltetői tevékenység és a finanszírozási háttér leírása,
 
@@ -22,7 +22,7 @@
 
 ## 2. A termeltető tudomásul veszi, hogy
 
-## a)[^38] a támogatási feltételek megszegése vagy részleges teljesítése, továbbá a támogatás rendeltetéstől eltérő felhasználása esetén a jogosulatlanul igénybe vett támogatást a Magyar Államkincstár határozata alapján a határozatban meghatározott módon, az ott megadott számlára kamattal növelten kell visszafizetnie;
+## a)[^39] a támogatási feltételek megszegése vagy részleges teljesítése, továbbá a támogatás rendeltetéstől eltérő felhasználása esetén a jogosulatlanul igénybe vett támogatást a Magyar Államkincstár határozata alapján a határozatban meghatározott módon, az ott megadott számlára kamattal növelten kell visszafizetnie;
 
 ## b) a termeltetési tevékenysége kapcsán kapott támogatások rendeltetésszerű felhasználásának ellenőrzését lehetővé teszi, és az ellenőrzéshez szükséges adatokat rendelkezésre bocsátja.
 
@@ -30,7 +30,7 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^39]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^40]
 
 Támogatási kérelem adattartalma
 
@@ -108,8 +108,8 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen;
 
 8. Keltezés és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
 
-[^35]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
-[^36]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.1. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
-[^37]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.2. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
-[^38]: Az 1. számú melléklet II. rész 2. pont a) alpontja a 88/2016. (XII. 29.) FM rendelet 28. § f) pontja szerint módosított szöveg.
-[^39]: A 2. számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított, a 4/2016. (I. 20.) FM rendelet 10. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 28. § e) pontja, a 33/2024. (V. 30.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^36]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^37]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.1. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
+[^38]: Az 1. számú melléklet II. fejezet 1. pontja helyébe az 1.2. pont lépett a 4/2016. (I. 20.) FM rendelet 10. § a) pontja alapján.
+[^39]: Az 1. számú melléklet II. rész 2. pont a) alpontja a 88/2016. (XII. 29.) FM rendelet 28. § f) pontja szerint módosított szöveg.
+[^40]: A 2. számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított, a 4/2016. (I. 20.) FM rendelet 10. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 28. § e) pontja, a 33/2024. (V. 30.) AM rendelet 3. § b) pontja szerint módosított szöveg.
