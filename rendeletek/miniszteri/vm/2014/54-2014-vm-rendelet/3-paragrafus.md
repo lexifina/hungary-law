@@ -1,9 +1,7 @@
 ## 3. A támogatás forrása
 
-3. §[^14] (1)[^15] A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
+3. §[^14] (1) A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Egyéb mezőgazdasági támogatások” jogcímén elkülönített keretösszeg.
 
-(2)[^16] A tárgyévben rendelkezésre álló forrás legfeljebb 200 millió forint.
+(2) A támogatás éves keretösszegét az agrárpolitikáért felelős miniszter közleményben határozza meg.
 
-[^14]: A 3. § a 6/2017. (II. 13.) FM rendeet 23. §-ával megállapított szöveg.
-[^15]: A 3. § (1) bekezdése a 35/2018. (XII. 6.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^16]: A 3. § (2) bekezdése a 35/2018. (XII. 6.) AM rendelet 18. § (2) bekezdésével megállapított, a 65/2020. (XII. 17.) AM rendelet 4. §-a, az 50/2021. (XII. 29.) AM rendelet 14. § a) pontja, a 17/2022. (VI. 30.) AM rendelet 16. § b) pontja, a 39/2023. (VII. 20.) AM rendelet 2. §-a, a 11/2024. (III. 25.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § a 16/2026. (IV. 9.) AM rendelet 19. §-ával megállapított szöveg.
