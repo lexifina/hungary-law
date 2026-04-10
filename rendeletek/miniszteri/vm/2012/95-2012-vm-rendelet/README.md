@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2021-07-10 | 2012-95-20-2Y.14 | 24/2021. (VII. 7.) AM rendelet |
 | 2023-11-24 | 2012-95-20-2Y.15 | 9/2018. (IV. 3.) FM rendelet |
 | 2024-10-25 | 2012-95-20-2Y.16 | 53/2024. (X. 24.) AM rendelet |
+| 2026-04-10 | 2012-95-20-2Y.17 | 16/2026. (IV. 9.) AM rendelet |
