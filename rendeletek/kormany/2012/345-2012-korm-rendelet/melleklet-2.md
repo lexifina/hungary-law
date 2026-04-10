@@ -10,7 +10,7 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített kö
 
 4. vízjogi engedélyezésére irányuló hatósági eljárások,
 
-4a.[^77] tűzvédelmi hatósági eljárások,
+4a.[^78] tűzvédelmi hatósági eljárások,
 
 5. szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások,
 
@@ -42,10 +42,11 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített kö
 
 19. örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
 
-20. területrendezési hatósági eljárások,
+20.[^79] településrendezési, területrendezési hatósági eljárások,
 
 21. azok a további hatósági engedélyezési eljárások, melyek az 1. mellékletben meghatározott beruházások megvalósításához és használatbavételéhez (forgalomba helyezéséhez, üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^77]: A 2. melléklet 4a. pontját a 271/2016. (IX. 1.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^78]: A 2. melléklet 4a. pontját a 271/2016. (IX. 1.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^79]: A 2. melléklet 20. pontja a 81/2026. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
