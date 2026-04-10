@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2019-09-22 | 2012-66-20-2Y.9 | 43/2019. (IX. 20.) AM rendelet |
 | 2022-12-28 | 2012-66-20-2Y.10 | 43/2019. (IX. 20.) AM rendelet |
 | 2024-05-31 | 2012-66-20-2Y.11 | 33/2024. (V. 30.) AM rendelet |
+| 2026-04-10 | 2012-66-20-2Y.12 | 16/2026. (IV. 9.) AM rendelet |
