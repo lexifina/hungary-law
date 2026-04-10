@@ -1,8 +1,8 @@
 ## A támogatás forrása és mértéke
 
-4. § (1)[^10] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 1. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg.
+4. § (1)[^10] A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Kiemelt ágazati támogatások” jogcímén elkülönített keretösszeg.
 
-(2)[^11] Az éves támogatási keret legfeljebb 120 millió Ft. Az adott naptári évben rendelkezésre álló támogatási keret terhére a megelőző évről áthúzódó kifizetések és az adott naptári évben elvégzett szolgáltatások támogatása teljesíthető.
+(2)[^11] Az éves támogatási keretösszeget az agrárpolitikáért felelős miniszter közleményben határozza meg. Az adott naptári évben rendelkezésre álló támogatási keret terhére a megelőző évről áthúzódó kifizetések és az adott naptári évben elvégzett szolgáltatások támogatása teljesíthető.
 
 (3)[^12]
 
@@ -18,8 +18,8 @@ b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsola
 
 (7)[^16] Az (5) bekezdés szerint meghatározott támogatás mértéke esetében a 100 százalék nem léphető túl az ugyanazon elszámolható költségek tekintetében nyújtott bármely egyéb – állami vagy uniós társfinanszírozású – támogatási összeg és biztosítói kifizetés figyelembevételével sem.
 
-[^10]: A 4. § (1) bekezdése a 29/2023. (VII. 14.) AM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 4. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított, a 158/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 29/2023. (VII. 14.) AM rendelet 2. §-ával megállapított, a 16/2026. (IV. 9.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított, a 16/2026. (IV. 9.) AM rendelet 4. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a.
 [^13]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 16. § a) pontja, a 101/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^14]: A 4. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
