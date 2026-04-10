@@ -1,4 +1,4 @@
-1. melléklet a 24/2023. (XII. 13.) EM rendelethez[^9]
+1. melléklet a 24/2023. (XII. 13.) EM rendelethez[^11]
 
 Az Alapba történő befizetési kötelezettség és az Alapból járó ellentételezés mértéke
 
@@ -82,4 +82,4 @@ Az Alapba történő befizetési kötelezettség és az Alapból járó ellenté
 
 | 31 | VASIVÍZ Vas megyei Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 1 058 306 |
 
-[^9]: Az 1. melléklet az 1/2026. (I. 19.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. melléklet az 1/2026. (I. 19.) EM rendelet 3. § (1) bekezdésével megállapított szöveg.

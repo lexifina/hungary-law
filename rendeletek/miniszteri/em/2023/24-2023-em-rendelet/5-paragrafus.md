@@ -12,6 +12,8 @@ b) 70 százaléka használható fel, amennyiben a 2025. évi tervszerű megelőz
 
 (5) Víziközmű-működtető eszköz fenntartására a 2. melléklet terhére 200 millió forint, de legfeljebb a 2. melléklet szerinti összeg 30 százaléka használható fel.
 
+(5a)[^6] Amennyiben a korábban szabályszerűen kialakított vízmérő akna műszaki átalakítása nem a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 68. § (7) bekezdésében foglaltak, valamint nem a felhasználónak felróható szabálytalan átalakítás miatt szükséges, és azt a víziközmű-szolgáltató végzi, annak költsége a 2. melléklet szerinti összeg terhére elszámolható.
+
 (6) A 2. mellékletben meghatározott összeg személyi használatú gépjármű beszerzésre nem fordítható.
 
 (7) A 2. melléklet szerinti összeg esetében a rendelkezésre álló, az (1) bekezdés szerinti feladat ellátásához előzetesen lekötött, valamint a tárgyévben az elkülönített összeg terhére már felhasznált forrásokat együttesen kell figyelembe venni.
@@ -25,3 +27,4 @@ b) 70 százaléka használható fel, amennyiben a 2025. évi tervszerű megelőz
 (11) A Hivatal a víziközmű-szolgáltató e §-ban foglalt kötelezettségeit a Vksztv. 2/b. alcímében foglaltak szerint ellenőrzi.
 
 [^5]: Az 5. § az 1/2026. (I. 19.) EM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 5. § (5a) bekezdését a 10/2026. (IV. 9.) EM rendelet 1. §-a iktatta be.
