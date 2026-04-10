@@ -6,9 +6,9 @@
 
 (4) A kifizetési kérelemhez csatolni kell
 
-a)[^28] a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel biztosításáról és
+a)[^29] a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel biztosításáról és
 
-b)[^29] az alom kezelésének, valamint beszerzésének költségeiről kiállított számlát, amelynek kiállítási időpontja a támogatási évet megelőző év június 1. napjától kezdődő időpont lehet, vagy saját előállítású alom felhasználása esetén az igénylő nyilatkozatát a saját előállítású alom használatáról és az alom mozgatására (be- és kivételezésre) vonatkozó belső bizonylatokat.
+b)[^30] az alom kezelésének, valamint beszerzésének költségeiről kiállított számlát, amelynek kiállítási időpontja a támogatási évet megelőző év június 1. napjától kezdődő időpont lehet, vagy saját előállítású alom felhasználása esetén az igénylő nyilatkozatát a saját előállítású alom használatáról és az alom mozgatására (be- és kivételezésre) vonatkozó belső bizonylatokat.
 
-[^28]: A 12. § (4) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
-[^29]: A 12. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § h) pontja szerint módosított szöveg.
+[^29]: A 12. § (4) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
+[^30]: A 12. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § h) pontja szerint módosított szöveg.

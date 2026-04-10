@@ -1,4 +1,4 @@
-## 20. §[^66] A 14. § (1) bekezdése szerinti tevékenységek támogatására 2021. április 1-jétől a 18/2021. (IV. 14.) AM rendelet hatálybalépése[^67] napjáig benyújtott kérelem átmeneti támogatás iránti kérelemnek minősül.
+## 20. §[^63] A 14. § (1) bekezdése szerinti tevékenységek támogatására 2021. április 1-jétől a 18/2021. (IV. 14.) AM rendelet hatálybalépése[^64] napjáig benyújtott kérelem átmeneti támogatás iránti kérelemnek minősül.
 
-[^66]: A 20. §-t a 18/2021. (IV. 14.) AM rendelet 20. §-a iktatta be.
-[^67]: A hatálybalépés időpontja 2021. április 15.
+[^63]: A 20. §-t a 18/2021. (IV. 14.) AM rendelet 20. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2021. április 15.

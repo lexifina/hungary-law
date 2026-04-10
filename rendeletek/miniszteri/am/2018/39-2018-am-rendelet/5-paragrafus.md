@@ -14,6 +14,6 @@ e) a megfelelő mikroklíma
 
 biztosítására.
 
-(2)[^4] E rendelet alapján támogatás adott támogatási évre vonatkozóan legfeljebb 7 milliárd forint összegig állapítható meg.
+(2)[^5] E rendelet alapján támogatás adott támogatási évre vonatkozóan legfeljebb 7 milliárd forint összegig állapítható meg.
 
-[^4]: Az 5. § (2) bekezdése a 29/2021. (VIII. 31.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdése a 29/2021. (VIII. 31.) AM rendelet 5. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,6 @@
-## 3. § A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
+## 4. §[^3] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
 
-## 4. §[^2] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
-
-a)[^3] a Tv. 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a Tv. 28. § (3a) bekezdésének megfelelően a támogatási kérelem, a kifizetési kérelem vagy a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben kérelemre nyilvántartásba vett ügyfélként szerepel,
+a)[^4] a Tv. 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a Tv. 28. § (3a) bekezdésének megfelelően a támogatási kérelem, a kifizetési kérelem vagy a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben kérelemre nyilvántartásba vett ügyfélként szerepel,
 
 b) a támogatási kérelem benyújtásának időpontjában
 
@@ -34,5 +32,5 @@ l) az 5. § (1) bekezdése és a 14. § (1) bekezdése szerinti kötelezettségv
 
 m) a b)–l) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
 
-[^2]: A 4. § nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 28. §-a szerint módosított szöveg.
-[^3]: A 4. § a) pontja a 22/2023. (V. 9.) AM rendelet 21. §-ával megállapított szöveg.
+[^3]: A 4. § nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 28. §-a szerint módosított szöveg.
+[^4]: A 4. § a) pontja a 22/2023. (V. 9.) AM rendelet 21. §-ával megállapított szöveg.
