@@ -6,4 +6,4 @@
 
 11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^114]
 
-[^114]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 375/2025. (XI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^114]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 76/2026. (III. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
