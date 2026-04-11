@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-236-20-
 | 2021-05-21 | 2000-236-20-22.18 | 259/2021. (V. 20.) Korm. rendelet |
 | 2023-01-01 | 2000-236-20-22.19 | 385/2007. (XII. 23.) Korm. rendelet |
 | 2026-01-01 | 2000-236-20-22.20 | 99/2011. (VI. 29.) Korm. rendelet |
+| 2026-04-11 | 2000-236-20-22.21 | 99/2011. (VI. 29.) Korm. rendelet |
