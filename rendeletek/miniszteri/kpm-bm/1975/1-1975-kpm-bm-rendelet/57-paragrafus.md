@@ -12,8 +12,8 @@
 
 (6) A vontatórudat, illetőleg a vontatókötelet a járműveken úgy kell rögzíteni, hogy az le ne szakadhasson. A vontatórúdnak, illetőleg a vontatókötélnek olyan hosszúnak kell lennie, hogy a két jármű kanyarodás közben össze ne érhessen; nem lehet azonban hosszabb, mint a vontatott jármű. Ha a vontatórúd, illetőleg a vontatókötél három méternél hosszabb, azt feltűnő módon (pl. zászlóval, lámpával) meg kell jelölni.
 
-(7)[^365] Olyan járművet, amelynek üzemi fékberendezése romlott el, vagy amelynek megengedett legnagyobb össztömege a 3500 kilogrammot meghaladja, csak – a húzó- és nyomóerők felvételére egyaránt alkalmas – merev vontatórúddal szabad vontatni.
+(7)[^366] Olyan járművet, amelynek üzemi fékberendezése romlott el, vagy amelynek megengedett legnagyobb össztömege a 3500 kilogrammot meghaladja, csak – a húzó- és nyomóerők felvételére egyaránt alkalmas – merev vontatórúddal szabad vontatni.
 
 (8) A vontatott jármű féklámpáját és irányjelző berendezését – kivéve ha a járművet emelve vontatják – működtetni kell, továbbá – éjszaka és korlátozott látási viszonyok között – a vontatott járművet is ki kell világítani.
 
-[^365]: Az 57. § (7) bekezdése a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (2) bekezdése szerint módosított szöveg.
+[^366]: Az 57. § (7) bekezdése a 2/1984. (I. 29.) KM–BM együttes rendelet 39. § (2) bekezdése szerint módosított szöveg.
