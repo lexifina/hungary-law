@@ -2,8 +2,6 @@
 
 ## [2] A Kormány a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
+1. §[^2]
 
-a) 38. § (1) bekezdés a) pontjában és 42. § (1) bekezdés a) pontjában a „– moduláris tűzfegyver esetében szétbontva –” szövegrész,
-
-b) 38. § (1a) és (1b) bekezdésében a „– moduláris tűzfegyver esetében összeállítva –” szövegrész.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
