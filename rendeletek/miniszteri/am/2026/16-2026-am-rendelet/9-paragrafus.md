@@ -1,1 +1,3 @@
-9. § A 41/2008. (IV. 3.) FVM rendelet 4. § (2) bekezdésében a „forrás legfeljebb 40 millió forint” szövegrész helyébe a „keretösszeget az agrárpolitikáért felelős miniszter közleményben határozza meg” szöveg lép.
+9. §[^7]
+
+[^7]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

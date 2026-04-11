@@ -1,3 +1,5 @@
 ## 22. A tenyészkoca tartása után igénybe vehető mezőgazdasági csekély összegű támogatás feltételeiről szóló 54/2025. (XII.19.) AM rendelet módosítása
 
-45. § A tenyészkoca tartása után igénybe vehető mezőgazdasági csekély összegű támogatás feltételeiről szóló 54/2025. (XII.19.) AM rendelet 3. § (1) bekezdésében a „2. Kiemelt támogatás” szövegrész helyébe az „1. Kiemelt ágazati támogatások” szöveg lép.
+45. §[^43]
+
+[^43]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

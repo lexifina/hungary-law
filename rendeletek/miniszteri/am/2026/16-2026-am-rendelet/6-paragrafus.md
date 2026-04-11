@@ -1,3 +1,3 @@
-6. § A 148/2007. (XII. 8.) FVM rendelet a következő 29. §-sal egészül ki:
+6. §[^4]
 
-„29. § E rendeletnek az agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 16/2026. (IV. 9.) AM rendelettel [a továbbiakban: 16/2026. (IV. 9.) AM rendelet] megállapított 7. § (2l)–(2n) bekezdését és 1. számú mellékletét a 16/2026. (IV. 9.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^4]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

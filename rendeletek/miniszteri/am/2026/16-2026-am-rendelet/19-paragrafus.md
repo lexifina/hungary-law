@@ -1,7 +1,5 @@
 ## 12. A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet módosítása
 
-19. § A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet 3. §-a helyébe a következő rendelkezés lép:
+19. §[^17]
 
-„3. § (1) A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Egyéb mezőgazdasági támogatások” jogcímén elkülönített keretösszeg.
-
-(2) A támogatás éves keretösszegét az agrárpolitikáért felelős miniszter közleményben határozza meg.”
+[^17]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

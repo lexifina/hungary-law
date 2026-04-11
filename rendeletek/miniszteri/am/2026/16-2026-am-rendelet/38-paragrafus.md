@@ -1,5 +1,5 @@
 ## 19. A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet módosítása
 
-38. § A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet [a továbbiakban: 29/2019. (VI. 20.) AM rendelet] 3. §-a helyébe a következő rendelkezés lép:
+38. §[^36]
 
-„3. § A támogatás forrása a Magyarország központi költségvetéséről szóló törvényben meghatározott „Nemzeti agrártámogatások” jogcímcsoport „Egyéb mezőgazdasági támogatások” jogcímén elkülönített keretösszeg, amelyet az agrárpolitikáért felelős miniszter közleményben határoz meg.”
+[^36]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

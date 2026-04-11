@@ -1,3 +1,3 @@
-28. § A 39/2018. (XII. 13.) AM rendelet 15. §-a a következő (2a) bekezdéssel egészül ki:
+28. §[^26]
 
-„(2a) A 2025. támogatási év IV. tárgynegyedéve vonatkozásában a mezőgazdasági csekély összegű támogatás mértéke – a (2) bekezdésében meghatározottaktól eltérően – állategységenként háromezer-háromszázhatvanhárom forint.”
+[^26]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

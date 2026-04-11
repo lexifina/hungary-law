@@ -1,1 +1,3 @@
-32. § Hatályát veszti a 39/2018. (XII. 13.) AM rendelet 3b. alcíme.
+32. §[^30]
+
+[^30]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

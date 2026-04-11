@@ -1,1 +1,3 @@
-37. § A 20/2019. (V. 27.) AM rendelet 5. § (4) bekezdésében az „(1) bekezdés szerinti” szövegrész helyébe az „(1) bekezdés szerinti miniszteri közleményben meghatározott” szöveg lép.
+37. §[^35]
+
+[^35]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

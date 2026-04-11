@@ -1,1 +1,3 @@
-7. § A 148/2007. (XII. 8.) FVM rendelet 1. számú melléklete a 2. melléklet szerint módosul.
+7. §[^5]
+
+[^5]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

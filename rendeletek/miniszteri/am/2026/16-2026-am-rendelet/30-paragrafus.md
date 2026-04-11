@@ -1,3 +1,3 @@
-30. § A 39/2018. (XII. 13.) AM rendelet a következő 27. §-sal egészül ki:
+30. §[^28]
 
-„27. § E rendeletnek az agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 16/2026. (IV. 9.) AM rendelettel megállapított 14. § (7) és (7b) bekezdését, 15. § (2) és (2a) bekezdését, 16. § (2) és (2a) bekezdését, valamint 16/A. §-át a 2026. január 1. és 31. között benyújtott kérelmekre kell alkalmazni.”
+[^28]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

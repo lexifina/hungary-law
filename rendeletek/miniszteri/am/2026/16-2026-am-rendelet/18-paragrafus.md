@@ -1,1 +1,3 @@
-18. § A 37/2014. (IV. 4.) VM rendelet 6. § (5) bekezdésében a „foglalt” szövegrész helyébe a „hivatkozott miniszteri közleményben meghatározott” szöveg lép.
+18. §[^16]
+
+[^16]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

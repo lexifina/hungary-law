@@ -1,3 +1,3 @@
-27. § A 39/2018. (XII. 13.) AM rendelet 14. §-a a következő (7b) bekezdéssel egészül ki:
+27. §[^25]
 
-„(7b) A (7) bekezdésben foglaltaktól eltérően, mezőgazdasági csekély összegű támogatás a 2025. támogatási évben legfeljebb 4,7 milliárd forint összegig állapítható meg.”
+[^25]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-25. § A 74/2016. (XI. 29.) FM rendelet 6. § (2) bekezdésében a „3. §-ban meghatározott” szövegrész helyébe a „3. § (2) bekezdése szerinti miniszteri közleményben meghatározott” szöveg lép.
+25. §[^23]
+
+[^23]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

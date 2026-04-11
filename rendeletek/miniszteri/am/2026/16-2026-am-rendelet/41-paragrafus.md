@@ -1,1 +1,3 @@
-41. § A 41/2019. (VIII. 30.) AM rendelet 6. § (3) bekezdésében a „3. § (2) bekezdése szerinti” szövegrész helyébe a „3. § szerinti miniszteri közleményben meghatározott” szöveg lép.
+41. §[^39]
+
+[^39]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

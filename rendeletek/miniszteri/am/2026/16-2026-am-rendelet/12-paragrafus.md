@@ -1,1 +1,3 @@
-12. § A 64/2008. (V. 14.) FVM rendelet 5. § (4) bekezdésében a „4. § (3) bekezdésben foglalt keretösszeget” szövegrész helyébe a „4. § (3b) bekezdésében hivatkozott miniszteri közleményben meghatározott keretösszeget” szöveg lép.
+12. §[^10]
+
+[^10]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
