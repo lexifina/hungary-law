@@ -14,8 +14,6 @@
 
 ## 1. A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet módosítása
 
-1. § A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) 48. § (14) bekezdése helyébe a következő rendelkezés lép, és a § a következő (14a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(14) A nehéz tehergépkocsik e rendelet eltérő rendelkezése hiányában lakott területen kívül csak autópályán, autóúton és főútvonalon közlekedhetnek.
-
-(14a) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 3/A. § (1) bekezdése szerinti nehéz tehergépkocsi, amennyiben a Kkt. 3/A. § (2) bekezdése szerint magyarországi célállomással nem rendelkezik, a Kkt. eltérő rendelkezése hiányában kizárólag a tranzitút-hálózatot használhatja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

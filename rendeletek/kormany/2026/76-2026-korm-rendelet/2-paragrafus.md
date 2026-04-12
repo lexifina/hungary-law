@@ -1,1 +1,3 @@
-2. § A KRESZ 48. § (15) bekezdés nyitó szövegrészében és (16) bekezdésében a „(14) bekezdésben” szövegrész helyébe a „(14) és (14a) bekezdésben” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
