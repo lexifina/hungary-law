@@ -4,6 +4,6 @@
 
 (2) A közjegyzőnek kérelemre biztosítania kell, hogy az elektronikus levéltárban elhelyezett iratokat az arra jogosultak megismerhessék és arról hiteles kiadmányt, másolatot kaphassanak.
 
-(3)[^37] A MOKK az elektronikus levéltár informatikai rendszerének (a továbbiakban: informatikai rendszer) üzemeltetésére a Dáptv. szerinti minősített archiválási szolgáltatót (a továbbiakban: üzemeltető) bízhat meg.
+(3)[^41] A MOKK az elektronikus levéltár informatikai rendszerének (a továbbiakban: informatikai rendszer) üzemeltetésére a Dáptv. szerinti minősített archiválási szolgáltatót (a továbbiakban: üzemeltető) bízhat meg.
 
-[^37]: A 47. § (3) bekezdése az 50/2024. (XII. 31.) IM rendelet 4. § d) pontja szerint módosított szöveg.
+[^41]: A 47. § (3) bekezdése az 50/2024. (XII. 31.) IM rendelet 4. § d) pontja szerint módosított szöveg.

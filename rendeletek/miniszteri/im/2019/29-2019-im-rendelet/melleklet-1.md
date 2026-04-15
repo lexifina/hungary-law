@@ -38,7 +38,7 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Záradéki tanúsítványok készítése során közreműködés megtagadása: |  |
 
-3.[^75] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek és az európai fizetési meghagyásos ügyek
+3.[^80] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek és az európai fizetési meghagyásos ügyek
 
 3.1. Hagyatéki ügy
 
@@ -162,7 +162,7 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
 
-5.[^76] Európai fizetési meghagyásos ügyek
+5.[^81] Európai fizetési meghagyásos ügyek
 
 | Érkezett |  |
 
@@ -180,5 +180,5 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 | 5 éven túli |  |
 
-[^75]: Az 1. melléklet 3. pontja a 14/2025. (XI. 13.) IM rendelet 18. §-ával megállapított szöveg.
-[^76]: Az 1. melléklet 5. pontját a 14/2025. (XI. 13.) IM rendelet 18. §-a iktatta be.
+[^80]: Az 1. melléklet 3. pontja a 14/2025. (XI. 13.) IM rendelet 18. §-ával megállapított szöveg.
+[^81]: Az 1. melléklet 5. pontját a 14/2025. (XI. 13.) IM rendelet 18. §-a iktatta be.

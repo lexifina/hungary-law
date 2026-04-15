@@ -1,5 +1,3 @@
-## 66. § Váltóóvás tanúsítása esetén az óvatolásról kiállított záradéki tanúsítványt a „K” ügykategóriában az óvás felvételéről készített jegyzőkönyvi tanúsítvány ügyszáma alatt, utóiratként, a soron következő sorszámon kell nyilvántartásba venni.
-
 ## 41. Okirat és információhordozó megőrzése
 
 67. § (1) Papíralapú okirat megőrzése iránti eljárás esetén a 16. § (2) bekezdésének rendelkezéseit az őrzésre átvett okirat tekintetében nem kell alkalmazni.

@@ -2,7 +2,7 @@
 
 a) „K” ügykategória: a közjegyzői ügyleti okirat szerkesztésére irányuló eljárás és a Kjtv. 141–145. §-ai és 146/A. §-a szerinti jegyzőkönyvi ténytanúsítási eljárások, valamint az okirat, illetve információhordozó megőrzése iránti eljárás,
 
-b)[^9] „Z” ügykategória: a Kjtv. 137–140. §-ai, 146–146/B. §-a, kivéve az a) pont hatálya alá tartozó jegyzőkönyvi ténytanúsítási eljárásokat, valamint a hitelbiztosítéki nyilatkozat Hbnytv. 8. §-a szerinti rögzítése tekintetében a Kjtv. 144. §-a szerinti záradéki ténytanúsítási eljárások,
+b)[^12] „Z” ügykategória: a Kjtv. 137–140. §-ai, 146–146/B. §-a, kivéve az a) pont hatálya alá tartozó jegyzőkönyvi ténytanúsítási eljárásokat, valamint a hitelbiztosítéki nyilatkozat Hbnytv. 8. §-a szerinti rögzítése tekintetében a Kjtv. 144. §-a szerinti záradéki ténytanúsítási eljárások,
 
 c) „N” ügykategória: az a) és b) pont kivételével a közjegyzői nemperes eljárások,
 
@@ -16,4 +16,4 @@ d) „E” ügykategória: az a)–c) pontok szerint ügykategóriába be nem so
 
 (5) A „Z” ügykategóriába tartozó ügyben ugyanannak a félnek egyidejűleg azonos tartalmú okirat záradékolása során azonos tartalommal kiállított záradéki tanúsítványokat azonos ügyszámon kell nyilvántartásba venni. Minden egyéb esetben az egyes hitelesítéseket külön ügyszámon kell nyilvántartásba venni.
 
-[^9]: A 20. § (1) bekezdés b) pontja a 13/2023. (IX. 21.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 20. § (1) bekezdés b) pontja a 13/2023. (IX. 21.) IM rendelet 28. § (1) bekezdése szerint módosított szöveg.

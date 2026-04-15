@@ -16,6 +16,6 @@ bb) nemperes eljárásban hozott, archiválási kötelezettség alá eső elektr
 
 (2) A külön-külön közjegyzői okiratba foglalt jogügyleteket, jognyilatkozatokat külön, közjegyzői okiratonként kell archiválni, a közjegyzői ügyleti okiratba foglalt jogügylet joghatásának kiváltásához szükséges egyéb nyilatkozat (ide nem értve a jogügyletet biztosító mellékkötelezettséget) kivételével.
 
-(3)[^36] A közjegyzői okiratot annak keltétől, a nemperes ügyben hozott archiválási kötelezettség alá tartozó határozatot jogerőre emelkedésétől számított 15 munkanapon belül kell archiválni.
+(3)[^40] A közjegyzői okiratot annak keltétől, a nemperes ügyben hozott archiválási kötelezettség alá tartozó határozatot jogerőre emelkedésétől számított 15 munkanapon belül kell archiválni.
 
-[^36]: A 46. § (3) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § e) pontja szerint módosított szöveg.
+[^40]: A 46. § (3) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § e) pontja szerint módosított szöveg.

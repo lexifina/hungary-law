@@ -2,13 +2,13 @@
 
 38. § (1) Ha jogszabály eltérően nem rendelkezik, az irat kézbesítése postai vagy elektronikus úton, illetve – a közjegyző illetékességi területén – személyesen történik. A személyes kézbesítést az ügyintéző végezheti. Szükség esetén a postai küldeményt az ügyintéző nem egyetemes postai szolgáltató útján is kézbesítheti.
 
-(2)[^26] Az ügyintéző az olyan iratot, amelynek átvételéhez joghatás fűződik, vagy amely átvételének igazolására szükség van, továbbá más hatósághoz intézett megkeresését vagy válasziratát a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint küldi meg elektronikusan, vagy a hivatalos iratok kézbesítésére vonatkozó jogszabály szerint postai úton kézbesíti; személyes kézbesítés esetén az átvevő az átvétel tényét az átvett irat megjelölésével és keltezéssel ellátott aláírásával igazolja.
+(2)[^30] Az ügyintéző az olyan iratot, amelynek átvételéhez joghatás fűződik, vagy amely átvételének igazolására szükség van, továbbá más hatósághoz intézett megkeresését vagy válasziratát a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint küldi meg elektronikusan, vagy a hivatalos iratok kézbesítésére vonatkozó jogszabály szerint postai úton kézbesíti; személyes kézbesítés esetén az átvevő az átvétel tényét az átvett irat megjelölésével és keltezéssel ellátott aláírásával igazolja.
 
-(2a)[^27] Az iratnak a közjegyző hivatali helyiségében jelen lévő címzett részére való átadása esetén a címzett a papíralapú irat átvételét átadóíven vagy aláírást rögzítő technikai eszközzel igazolja, amelyen nyilatkozhat a fellebbezési jogáról történő lemondásról is. Az átadóívet, illetve az aláírást rögzítő technikai eszközzel rögzített adatot az ügyintéző rögzíti az ügy digitális aktájában.
+(2a)[^31] Az iratnak a közjegyző hivatali helyiségében jelen lévő címzett részére való átadása esetén a címzett a papíralapú irat átvételét átadóíven vagy aláírást rögzítő technikai eszközzel igazolja, amelyen nyilatkozhat a fellebbezési jogáról történő lemondásról is. Az átadóívet, illetve az aláírást rögzítő technikai eszközzel rögzített adatot az ügyintéző rögzíti az ügy digitális aktájában.
 
 (3) Tértivevényes kézbesítés esetén az A/2. jelzésű értesítés alkalmazandó. Ha az ügyintéző megítélése szerint az iratot kizárólag a címzett saját kezéhez lehet kézbesíteni, az A/6. jelzésű értesítést kell használni.
 
-(4)[^28] A külföldön kézbesítendő irat külföldre továbbítása iránt a közjegyző, illetve a közjegyzőhelyettes teszi meg a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény 73. § (1)–(3) bekezdése vagy a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i 2020/1784/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti vagy az irat külföldre történő postai kézbesítése iránti intézkedéseket.
+(4)[^32] A külföldön kézbesítendő irat külföldre továbbítása iránt a közjegyző, illetve a közjegyzőhelyettes teszi meg a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény 73. § (1)–(3) bekezdése vagy a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i 2020/1784/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti vagy az irat külföldre történő postai kézbesítése iránti intézkedéseket.
 
 (5) A fogvatartott személy részére a bv. intézet parancsnoka útján kell kézbesíteni az iratot.
 
@@ -18,6 +18,6 @@
 
 (8) Ha az ügyintéző az iratot a Kjnp. 15/B. §-a szerint kézbesíti, a tértivevényt a MOKK rögzíti a KÜR-ben.
 
-[^26]: A 38. § (2) bekezdése az 50/2024. (XII. 31.) IM rendelet 4. § c) pontja szerint módosított szöveg.
-[^27]: A 38. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 5. §-a iktatta be.
-[^28]: A 38. § (4) bekezdése a 13/2023. (IX. 21.) IM rendelet 28. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^30]: A 38. § (2) bekezdése az 50/2024. (XII. 31.) IM rendelet 4. § c) pontja szerint módosított szöveg.
+[^31]: A 38. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 5. §-a iktatta be.
+[^32]: A 38. § (4) bekezdése a 13/2023. (IX. 21.) IM rendelet 28. § (2) bekezdés a) pontja szerint módosított szöveg.

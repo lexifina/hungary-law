@@ -1,4 +1,4 @@
-24. § (1)[^10] Az „N” és „E” ügykategóriába tartozó ügy azon papíralapú iratát, amelyet a 16. § (3) bekezdése alapján nem kell beszkennelni, iratborítóban kell tárolni, és ennek tényét, valamint az irat fellelhetőségi helyét a KÜR-ben fel kell tüntetni. Az iratborítóban tárolt iratokat évszám szerinti bontásban, ügyszám szerint rendezve kell kezelni.
+24. § (1)[^13] Az „N” és „E” ügykategóriába tartozó ügy azon papíralapú iratát, amelyet a 16. § (3) bekezdése alapján nem kell beszkennelni, iratborítóban kell tárolni, és ennek tényét, valamint az irat fellelhetőségi helyét a KÜR-ben fel kell tüntetni. Az iratborítóban tárolt iratokat évszám szerinti bontásban, ügyszám szerint rendezve kell kezelni.
 
 (2) Az „N” és „E” ügykategóriába tartozó ügy azon papíralapú iratát, amely a KÜR-ben a 16. § (2) bekezdése szerint rögzítésre került, valamint a „K” és „Z” ügykategóriába tartozó ügy papíralapú iratát iratborító használata nélkül lehet tárolni.
 
@@ -28,4 +28,4 @@ d) az összefüggő ügy számát.
 
 (7) A KÜR-ben rögzített irat bírósághoz való felterjesztése vagy más hatóságnak való megküldése esetén a (2) bekezdés szerinti iratról nem kell másolatot készíteni és pótborítóba helyezni.
 
-[^10]: A 24. § (1) bekezdése az 1/2021. (III. 12.) IM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 24. § (1) bekezdése az 1/2021. (III. 12.) IM rendelet 1. §-ával megállapított szöveg.

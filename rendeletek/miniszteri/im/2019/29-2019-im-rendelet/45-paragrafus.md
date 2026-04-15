@@ -1,6 +1,6 @@
 ## 31. Az archiválandó iratok
 
-45. § (1)[^33] A Kjtv. 166/A. § (1) bekezdése alapján archiválni kell
+45. § (1)[^37] A Kjtv. 166/A. § (1) bekezdése alapján archiválni kell
 
 a) a papíralapú és elektronikus közjegyzői ügyleti okiratot, valamint az azzal összefüggő egyéb jognyilatkozatot (pl. bejegyzési engedély) tartalmazó közjegyzői okiratot,
 
@@ -38,12 +38,12 @@ i) az a)–h) pont szerinti közjegyzői okiratokkal és határozatokkal érinte
 
 (2) Az (1) bekezdés e) pontja szerinti határozatok archiválását a MOKK az e célra rendszeresített informatikai alkalmazás segítésével végzi.
 
-(3)[^34] Ha az archivált közjegyzői okirat végzéssel kijavításra, továbbá ha az archivált határozat végzéssel kijavításra vagy kiegészítésre kerül, a kijavító, illetve a kiegészítő végzést, valamint a kijavítással egységes szerkezetbe foglalt elektronikus hiteles kiadmányt is archiválni kell.
+(3)[^38] Ha az archivált közjegyzői okirat végzéssel kijavításra, továbbá ha az archivált határozat végzéssel kijavításra vagy kiegészítésre kerül, a kijavító, illetve a kiegészítő végzést, valamint a kijavítással egységes szerkezetbe foglalt elektronikus hiteles kiadmányt is archiválni kell.
 
 (4) Nem kell archiválni a záradéki tanúsítványt és a záradéki tanúsítvánnyal ellátott okiratot.
 
-(5)[^35] Az archiválási kötelezettség alá nem tartozó, nemperes eljárásban hozott jogerős határozatot – a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) alapján kiállított végrehajtási lap és végrehajtási záradék, valamint a fizetési meghagyásos eljárás során hozott határozatok kivételével –, a záradéki tanúsítványt, illetve a záradéki tanúsítvánnyal ellátott okiratot a közjegyző a fél kérelmére archiválhatja. Ebben az esetben a költségjegyzéket is archiválni kell.
+(5)[^39] Az archiválási kötelezettség alá nem tartozó, nemperes eljárásban hozott jogerős határozatot – a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) alapján kiállított végrehajtási lap és végrehajtási záradék, valamint a fizetési meghagyásos eljárás során hozott határozatok kivételével –, a záradéki tanúsítványt, illetve a záradéki tanúsítvánnyal ellátott okiratot a közjegyző a fél kérelmére archiválhatja. Ebben az esetben a költségjegyzéket is archiválni kell.
 
-[^33]: A 45. § (1) bekezdése a 14/2025. (XI. 13.) IM rendelet 16. §-ával megállapított szöveg.
-[^34]: A 45. § (3) bekezdése a 13/2023. (IX. 21.) IM rendelet 19. §-ával megállapított szöveg.
-[^35]: A 45. § (5) bekezdése a 13/2023. (IX. 21.) IM rendelet 20. §-ával megállapított szöveg.
+[^37]: A 45. § (1) bekezdése a 14/2025. (XI. 13.) IM rendelet 16. §-ával megállapított szöveg.
+[^38]: A 45. § (3) bekezdése a 13/2023. (IX. 21.) IM rendelet 19. §-ával megállapított szöveg.
+[^39]: A 45. § (5) bekezdése a 13/2023. (IX. 21.) IM rendelet 20. §-ával megállapított szöveg.
