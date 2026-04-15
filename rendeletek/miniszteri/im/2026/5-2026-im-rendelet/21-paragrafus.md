@@ -1,1 +1,1 @@
-21. §
+21. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 5. § (3) bekezdésében a „Kjtv. 122. §-a és” szövegrész helyébe a „Kjtv. 122. §-a,” szöveg és a „bekezdése szerinti” szövegrész helyébe a „bekezdése és 36/I. § (2) bekezdése szerinti” szöveg lép.

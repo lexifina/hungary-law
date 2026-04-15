@@ -1,5 +1,5 @@
-## 6.[^17]
+## 6. A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet módosítása
 
-17. §
+17. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 5. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^17]: A 6. alcím a 22. § (2) bekezdése alapján 2026. április 15-én lép hatályba.
+„(3a) A központi kormányzati szolgáltatás busz szolgáltatás biztosítása során a MOKK adatfeldolgozóként jár el.”
