@@ -50,4 +50,6 @@
 
 24. a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 
+26. a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.

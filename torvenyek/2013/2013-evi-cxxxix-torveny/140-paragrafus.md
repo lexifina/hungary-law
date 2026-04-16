@@ -16,7 +16,7 @@ ae) az Európai Bankbizottsággal,
 
 af) másik tagállamok felügyeleti hatóságaival,
 
-ag) a tagállami központi bankokkal, a Központi Bankok Európai Rendszerével és az Európai Központi Bankkal mint monetáris hatóságokkal,
+ag) a tagállami központi bankokkal, a Központi Bankok Európai Rendszerével – ideértve a részére szolgáltatott adatokat is – és az Európai Központi Bankkal mint monetáris hatóságokkal,
 
 ah) a fizetési és elszámolási rendszerek felügyeletére hatáskörrel rendelkező állami hatóságokkal,
 
@@ -76,7 +76,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 1.5. azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést,
 
-1.6.
+1.6. negyedévente a Kbftv. 8. §-a és 11. §-a alapján hozott engedélyről és az abban bekövetkezett változásokról,
 
 1.7. a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
 
