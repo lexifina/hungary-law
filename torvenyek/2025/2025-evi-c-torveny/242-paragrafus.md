@@ -1,1 +1,3 @@
-### 242. §
+242. § A Kbftv. 187. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Felügyelet biztosítja, hogy az általa felügyelt valamennyi ABAK-ra vonatkozó, a 11. § és az adatszolgáltatásra vonatkozó MNB-rendelet alapján összegyűjtött információt, a 182. § szerinti eljáráson keresztül az érintett EGT-államok felügyeleti hatóságai, az EÉPH, az EBH, az EBFH és az ERKT rendelkezésére bocsátja. Ezenkívül az említett eljáráson keresztül – valamint más, közvetlenül érintett EGT-államok felügyeleti hatóságainak kétoldalú jelleggel is – késedelem nélkül információt szolgáltat, ha a felügyelete alá tartozó valamely ABAK, vagy az érintett ABAK kezelésében lévő ABA potenciálisan jelentős partnerkockázatot jelenthet más EGT-államok valamely hitelintézetére vagy egyéb, rendszerszintű jelentőséggel bíró intézményeire nézve, vagy egy másik tagállamban a pénzügyi rendszer stabilitására.”

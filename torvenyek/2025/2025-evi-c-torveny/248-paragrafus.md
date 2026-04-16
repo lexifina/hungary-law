@@ -1,10 +1,10 @@
 248. § Hatályát veszti a Kbftv.
 
-a)
+a) 6. § (5) bekezdése,
 
-b)
+b) 7. § (6) bekezdése,
 
-c)
+c) 8. § (1) bekezdés a) pontjában az „amely a szervezeti felépítését, valamint a 2. melléklet szerinti működési szabályzatát tartalmazza” szövegrész,
 
 d)
 
@@ -12,6 +12,6 @@ e)
 
 f)
 
-g)
+g) 114. §-a,
 
 h)
