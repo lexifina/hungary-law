@@ -24,11 +24,19 @@ a) a Felügyelet, és ha a nem uniós ABA kollektív befektetési értékpapírj
 
 b) a letétkezelőre olyan, az ABAK-rendelet 84. cikkében meghatározott prudenciális szabályozás – ideértve a minimális tőkekövetelményeket – és felügyelet vonatkozik, amely egyenértékű az uniós joggal, és amelyet ténylegesen végre is hajtanak;
 
-c) a letétkezelő letelepedése szerinti harmadik ország nem szerepel a Pénzügyi Akciócsoporttal (a továbbiakban: FATF) nem együttműködő országok és területek listáján;
+c) a letétkezelő letelepedése szerinti harmadik ország a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) alkalmazásában nem tekintendő stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országnak;
 
-d) a Felügyelet a letétkezelő letelepedése szerinti harmadik országgal olyan megállapodást kötött, amely teljes mértékben megfelel a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) jövedelem- és vagyonadóztatási modellegyezményének 26. cikkében meghatározott szabályoknak, és biztosítja az adóügyi információk tényleges cseréjét, beleértve adott esetben a többoldalú adómegállapodásokkal kapcsolatosakat is;
+d) a Felügyelet a letétkezelő letelepedése szerinti harmadik országgal olyan megállapodást kötött, amely teljes mértékben megfelel a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) jövedelem- és vagyonadóztatási modellegyezményének 26. cikkében meghatározott szabályoknak, és biztosítja az adóügyi információk tényleges cseréjét, beleértve adott esetben a többoldalú adómegállapodásokkal kapcsolatosakat is, és e harmadik országot az adózási szempontból nem együttműködő államok listájának közzétételéről szóló 19/2020. (XII. 30.) PM rendelet (a továbbiakban: 19/2020. PM rendelet) nem említi.
 
 e) a letétkezelő a (14)–(16) bekezdéssel összhangban szerződésben előírt felelősséggel tartozik az ABA-nak, vagy az ABA befektetőinek, és kifejezetten vállalja a (11) bekezdés betartását.
+
+(6a) A (6) bekezdéstől eltérve, a (6) bekezdés c) és d) pontjában foglalt feltételek a letétkezelő kijelölésének időpontjában alkalmazandók. Azonban, ha egy letétkezelő letelepedése szerinti harmadik országot
+
+a) a Pmt. alkalmazásában stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országnak tekintenek a (6) bekezdés c) pontjában említettek szerint, vagy
+
+b) a 19/2020. PM rendelet említi,
+
+akkor a letétkezelő kijelölésének időpontját követően, megfelelő időtartamon belül új letétkezelő kerül kijelölésre a befektetők érdekeinek figyelembevételével. Ezen időtartam nem haladhatja meg a két évet.
 
 (7) A letétkezelő gondoskodik az ABA pénzmozgásainak megfelelő nyomon követéséről és arról, hogy az ABA kollektív befektetési értékpapírjainak jegyzése során a befektetők által vagy nevükben történt befizetések beérkezzenek. A letétkezelő biztosítja, hogy az ABA készpénzállománya a Bszt. 57. §-ában megállapított elvekkel összhangban, az ABA, vagy az ABA nevében eljáró ABAK nevére nyitott, a Bszt. 60. § (1) bekezdés a)–c) pontjában meghatározott intézménynél, vagy a 2006/73/EK irányelv 18. cikk (1) bekezdés a)–c) pontjában meghatározott intézménnyel megegyező természetű, az uniós joggal egyenértékű prudenciális szabályozás és felügyelet alá eső intézménynél vezetett számlán legyen könyvelve. A letétkezelő ezen előírások teljesítése során az ABAK-rendelet 85–87. cikkében meghatározott rendelkezések figyelembe vételével jár el.
 
@@ -60,7 +68,7 @@ a) a letétkezelő a feladatokat nem azzal a céllal szervezi ki, hogy elkerülj
 
 b) a letétkezelő bizonyítani tudja, hogy a kiszervezésnek objektív oka van;
 
-c) a letétkezelő – az ABAK-rendelet 98. cikkében meghatározott rendelkezések figyelembevételével – a megfelelő szakértelemmel, körültekintéssel és gondossággal választja ki a harmadik felet, akire feladatai egy részét kiszervezi, és megfelelő szakértelemmel, körültekintéssel és gondossággal ellenőrzi és felügyeli a harmadik felet, valamint a feladatok ellátása érdekében a harmadik fél által tett lépéseket;
+c) a letétkezelő – az ABAK-rendelet 98. cikkében meghatározott rendelkezések figyelembevételével – megfelelő szakértelemmel, körültekintéssel és gondossággal választja ki a harmadik felet, akire feladatai egy részét kiszervezi, kivéve, ha a harmadik fél befektető központi értéktárként eljáró központi értéktár, és megfelelő szakértelemmel, körültekintéssel és gondossággal ellenőrzi és felügyeli a harmadik felet, valamint a feladatok ellátása érdekében a harmadik fél által tett lépéseket;
 
 d) a letétkezelő biztosítja, hogy a harmadik fél folyamatosan megfelel az alábbi feltételeknek a kiszervezett feladatok teljesítése során:
 
@@ -81,6 +89,8 @@ a) az ABA befektetőit megfelelően tájékoztatják a harmadik ország joga ál
 b) az ABA utasítja a letétkezelőt, hogy a pénzügyi eszközök megőrzését szervezze ki egy ilyen helyi intézményre.
 
 (13) A (12) bekezdésben előírt követelmények teljesítése mellett a harmadik fél is kiszervezheti a rá kiszervezett feladatokat. Ebben az esetben a (16) bekezdést értelemszerűen kell alkalmazni az érintett felekre.
+
+(13a) A befektető központi értéktár által történő szolgáltatásnyújtás – ellentétben a kibocsátó központi értéktárként eljáró központi értéktár általi szolgáltatásnyújtással – letétkezelő általi letéti őrzési funkció kiszervezésének tekintendő.
 
 (14) A letétkezelő felelős az ABA vagy az ABA befektetői felé a (8) bekezdés a) pontja értelmében letétbe helyezett pénzügyi eszközöknek a letétkezelő, vagy a letétkezeléssel megbízott harmadik fél általi – az ABAK-rendelet 100. cikkében meghatározott esetekben megvalósuló – elvesztéséért. A letétben őrzött pénzügyi eszközök elvesztése esetén a letétkezelő indokolatlan késedelem nélkül ugyanolyan típusú pénzügyi eszközöket vagy az eszközöknek megfelelő pénzösszeget bocsát az ABA vagy az ABA nevében eljáró ABAK rendelkezésére. A letétkezelőt nem lehet felelősségre vonni abban az esetben, ha – az ABAK-rendelet 101. cikkében meghatározottaknak megfelelően – bizonyítani tudja, hogy az eszközök elvesztése olyan, érdemleges befolyásán túlmenő külső esemény miatt következett be, amely minden ésszerű erőfeszítés ellenére is elkerülhetetlen lett volna.
 
@@ -108,4 +118,6 @@ e) a letétkezelő és a harmadik fél közötti, írásba foglalt szerződés k
 
 (18) A letétkezelő ABA befektetőivel szembeni felelőssége közvetlenül vagy az ABAK-on keresztül közvetve is érvényesíthető.
 
-(19) A letétkezelő a Felügyelet kérésére rendelkezésére bocsát minden, a feladatai ellátása során szerzett információt, amelyekre az ABA vagy az ABAK felügyeleti hatóságainak szüksége lehet. A Felügyelet a kapott információkat haladéktalanul megosztja az ABA vagy az ABAK felügyeleti hatóságaival.
+(19) A letétkezelő a Felügyelet, az ABA, illetve az ABAK felügyeli hatóságának kérésére a rendelkezésére bocsát minden, a feladatai ellátása során szerzett információt.
+
+(20) Amennyiben a Felügyelet a letétkezelő felügyeleti hatóságaként nem az ABA vagy az ABAK felügyeleti hatósága, haladéktalanul megoszt az ABA és az ABAK felügyeleti hatóságával minden, felügyeleti szempontból releváns információt. Amennyiben a Felügyelet az ABA vagy az ABAK felügyeleti hatósága, haladéktalanul megoszt a letétkezelő felügyeleti hatóságával minden felügyeleti szempontból releváns információt.

@@ -1,4 +1,4 @@
-19. § (1) A befektetési alapkezelő ügyvezetését – a 2. § (2) bekezdés szerinti ABAK kivételével – legalább két természetes személy, munkaviszony keretében köteles ellátni. A vezető állású személyek között legalább két olyan személynek kell lennie, aki a devizajogszabályok alapján devizabelföldinek minősül, és – legalább egy éve – állandó belföldi lakóhellyel rendelkezik.
+19. § (1) A befektetési alapkezelő ügyvezetését – a 2. § (2) bekezdés szerinti ABAK kivételével – legalább két olyan természetes személy, munkaviszony keretében teljes munkaidőben látja el, akinek lakóhelye EGT-államban található. A vezető állású személyek között legalább két olyan személy van, aki a devizajogszabályok alapján devizabelföldinek minősül, és – legalább egy éve – belföldi lakóhellyel rendelkezik.
 
 (2) Befektetési alapkezelőnél vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
@@ -6,7 +6,7 @@ a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntet
 
 b) felsőfokú végzettséggel rendelkezik;
 
-c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik és
+c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik, amely nyilatkozata által kiterjed ÁÉKBV esetén kezelt alap típusára, illetve ABA esetén a kezelt alap által követett befektetési stratégiákra, és
 
 d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és ÁÉKBV-alapkezelő esetén a 27. §-ban, ABAK esetében a 34. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
 

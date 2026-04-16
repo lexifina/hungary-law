@@ -2,7 +2,7 @@
 
 11. § (1) A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –
 
-a) az ABAK létesítő okiratát, annak igazolását, hogy főirodája és a létesítő okirat szerinti székhelye egyaránt Magyarországon van, a végezni kívánt tevékenység megnevezését, valamint a 2. melléklet szerinti működési szabályzatát;
+a) az ABAK nevét, nyilvántartási számát, létesítő okiratát, annak igazolását, hogy főirodája és a létesítő okirat szerinti székhelye egyaránt Magyarországon van, a végezni kívánt tevékenység megnevezését, valamint a 2. melléklet szerinti működési szabályzatát;
 
 b) a 16. § (1) bekezdésében meghatározott mértékű induló tőke befizetését igazoló dokumentumot, valamint az induló tőke befizetéséhez szükséges összeg törvényes eredetének igazolását;
 

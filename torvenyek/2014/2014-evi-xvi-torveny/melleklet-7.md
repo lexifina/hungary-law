@@ -82,6 +82,12 @@
 
 ## c) az ABA aktuális kockázati profilja és az ABAK által e kockázatok kezelése érdekében alkalmazott kockázatkezelési rendszerek.
 
+## d) a kihelyezett kölcsön portfóliójának összetétele;
+
+## e) közvetlenül vagy közvetve a befektetők által viselt valamennyi díj, költség és kiadás, adott évre vonatkozóan;
+
+## f) az ABAK által vagy nevében az ABA befektetéseivel kapcsolatban igénybe vett bármely anyavállalat, leányvállalat vagy különleges célú gazdasági egység, adott évre vonatkozóan.
+
 ## XI. A tőkeáttételt alkalmazó uniós ABA-t kezelő, vagy a tőkeáttételt alkalmazó ABA-t az EGT-államokban forgalmazó ABAK által az ABA nevében alkalmazható tőkeáttétel mértékében bekövetkező változások, valamint a biztosíték vagy a tőkeáttételi megállapodás értelmében nyújtott garanciák újbóli felhasználási joga, és az adott ABA által alkalmazott tőkeáttétel teljes összege.
 
 ## XII. Az ÁÉKBV-alapkezelő

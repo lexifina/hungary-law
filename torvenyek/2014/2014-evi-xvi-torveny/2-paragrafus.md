@@ -24,11 +24,11 @@ ab) nem haladja meg összesen az 500 millió euró küszöbértéket, amennyiben
 
 b) az ABAK nem döntött úgy, hogy e törvény egészének aláveti magát.
 
-(3) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai kockázatitőke-alapokról szóló 345/2013/EU rendeletének figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében EuVECA megnevezést használó alapokat kezel és forgalmaz.
+(3) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai kockázatitőke-alapokról szóló 345/2013/EU rendeletének (a továbbiakban: 345/2013/EU rendelet) figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében EuVECA megnevezést használó alapokat kezel és forgalmaz.
 
 (3a) A (2) és (3) bekezdésben foglaltaktól eltérően ABAK EuVECA megnevezést használó alapokat kezelhet és forgalmazhat abban az esetben is, ha e törvény ABAK-ra előírt rendelkezései mellett az (EU) 2017/1991 európai parlamenti és tanácsi rendelet 1. cikk 1. pontjában előírt rendelkezéseknek felel meg.
 
-(4) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében ESZVA megnevezést használó alapokat kezel és forgalmaz.
+(4) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének (a továbbiakban: 346/2013/EU rendelet) figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében ESZVA megnevezést használó alapokat kezel és forgalmaz.
 
 (4a) A (2) és (4) bekezdésben foglaltaktól eltérően ABAK ESZVA megnevezést használó alapokat kezelhet és forgalmazhat abban az esetben is, ha e törvény ABAK-ra előírt rendelkezései mellett az (EU) 2017/1991 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában előírt rendelkezéseknek felel meg.
 

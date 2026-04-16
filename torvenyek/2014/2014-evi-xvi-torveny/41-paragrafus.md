@@ -2,7 +2,7 @@
 
 41. § (1) Az ABAK tevékenységének hatékonyabb ellátása érdekében feladatának ellátására harmadik személyt vehet igénybe.
 
-(1a) Az ABAK a kiszervezés során e §-ban, valamint az ABAK-rendelet 75. cikkében foglalt általános elvek figyelembevételével jár el azzal, hogy a kiszervezésre vonatkozó megállapodás hatálybalépése előtt értesítenie kell a Felügyeletet.
+(1a) Az ABAK a 7. § (1)–(3) bekezdésében foglalt tevékenységek kiszervezése során az e §-ban, valamint az ABAK-rendelet 75. cikkében foglalt általános elvek figyelembevételével jár el azzal, hogy a kiszervezésre vonatkozó megállapodás hatálybalépése előtt értesíteni kell a Felügyeletet.
 
 (2) A kiszervezés esetén az alábbi feltételeknek kell teljesülnie:
 
@@ -16,7 +16,7 @@ d) amennyiben a kiszervezés a 7. § (1) bekezdés a) és b) pontjában foglalt 
 
 e) az ABAK-rendelet 79. cikkével összhangban eljárva a kiszervezés nem akadályozhatja az ABAK felett gyakorolt felügyelet hatékonyságát és különösen nem akadályozhatja az ABAK-ot abban, hogy a befektetők érdekeiben járjon el és a befektetők érdekeinek megfelelően lássa el az ABA kezelését;
 
-f) az ABAK-nak tudnia kell bizonyítani, hogy a megbízott fél megfelelő képzettséggel és képességekkel rendelkezik a szóban forgó feladatok ellátásához, hogy kellő körültekintéssel választották ki, és hogy az ABAK helyzeténél fogva képes mindenkor ténylegesen ellenőrizni a kiszervezett tevékenységet, további utasításokat adni a megbízott félnek, valamint azonnali hatállyal visszavonni a kiszervezést, amennyiben ez szolgálja a befektetők érdekeit.
+f) az ABAK bizonyítja, hogy a megbízott fél megfelelő képzettséggel és képességekkel rendelkezik a szóban forgó feladatok ellátásához és tevékenységek végzéséhez, hogy kellő körültekintéssel választották ki, és hogy az ABAK helyzeténél fogva képes mindenkor ténylegesen ellenőrizni a kiszervezett tevékenységet, további utasításokat adni a megbízott félnek, valamint azonnali hatállyal visszavonni a kiszervezést, amennyiben ez szolgálja a befektetők érdekeit.
 
 (3) Az ABAK folyamatosan felügyeli az egyes megbízott felek által nyújtott szolgáltatásokat.
 
@@ -28,9 +28,11 @@ b) más olyan egységre, amelynek érdekei az ABAK vagy annak befektetői érdek
 
 (5) A (4) bekezdés b) pontjának alkalmazása során az ABAK-rendelet 80. cikkének megfelelően kell eljárni.
 
-(6) Az ABAK az ABA és annak befektetői iránti felelősségét nem befolyásolja az, hogy egyes funkciókat harmadik félnek szervezett ki, illetve hogy a harmadik fél esetleg további kiszervezést hajtott végre. Az ABAK nem szervezheti ki funkcióit olyan mértékben, hogy lényegileg már ne legyen az ABA kezelőjének tekinthető és hogy postafiókcéggé váljon. E bekezdés alkalmazása során az ABAK-rendelet 82. cikkének megfelelően kell eljárni.
+(6) Az ABAK ügyfelei iránti, valamint az ABA és annak befektetői iránti felelősségét nem befolyásolja az, hogy egyes funkciókat vagy tevékenységeket harmadik félnek szervezett ki, illetve hogy a harmadik fél esetleg további kiszervezést hajtott végre. Az ABAK nem szervezheti ki funkcióit vagy tevékenységeit olyan mértékben, hogy lényegileg már ne legyen az ABA kezelőjének vagy a 7. § (3) bekezdésében meghatározott tevékenységek nyújtójának tekinthető és hogy postafiókcéggé váljon. E bekezdés alkalmazása során az ABAK-rendelet 82. cikkének megfelelően kell eljárni.
 
-(7) A harmadik személy a kiszervezett funkciók további kiszervezését az alábbi feltételek teljesülése esetén teheti meg:
+(6a) Az ABAK gondoskodik a 7. § (1)–(3) bekezdésében említett tevékenységek ellátásának megfelelőségéről kiszervezés esetén is, függetlenül a harmadik fél vagy annak további megbízottjai szabályozási státuszától vagy letelepedésének helyétől.
+
+(7) A harmadik személy a kiszervezett funkciók és tevékenységek további kiszervezését az alábbi feltételek teljesülése esetén teheti meg:
 
 a) az ABAK előzetesen hozzájárul a további kiszervezéshez;
 
@@ -42,11 +44,15 @@ c) a (2) és (3) bekezdésben említett feltételek teljesülnek, azzal, hogy a 
 
 (9) A 7. § (1) bekezdés a) és b) pontjában foglalt tevékenységek további kiszervezésére is a (4) és (5) bekezdésben megfogalmazott korlátok alkalmazandók
 
-(10) Amennyiben a további kiszervezésben funkciót teljesítő fél további kiszervezést hajt végre, értelemszerűen a (7) bekezdésben említett feltételek alkalmazandók.
+(10) Amennyiben a további kiszervezésben funkciót teljesítő vagy tevékenységet végző fél további kiszervezést hajt végre, értelemszerűen a (7) bekezdésben említett feltételek alkalmazandók.
 
 (11) Nem minősül kiszervezésnek
 
-a) a forgalmazó igénybevétele a kollektív befektetési értékpapírok forgalomba hozatalához, illetve a folyamatos forgalmazáshoz,
+a) saját nevében eljáró forgalmazó igénybevétele a felek közötti forgalmazási megállapodástól függetlenül
+
+aa) a kollektív befektetési értékpapírok forgalomba hozatalához, illetve a folyamatos forgalmazáshoz vagy
+
+ab) a biztosítási törvény szerinti biztosítási alapú befektetési termék értékesítéséhez,
 
 b) a befektetési alapkezeléshez szorosan nem kapcsolódó tevékenységek, így különösen jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, az ABAK helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá
 

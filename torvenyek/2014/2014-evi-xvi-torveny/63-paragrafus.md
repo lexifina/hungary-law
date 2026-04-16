@@ -8,7 +8,7 @@ a) a letétkezelő a feladatokat nem azzal a céllal szervezi ki, hogy elkerülj
 
 b) a letétkezelő bizonyítani tudja, hogy a kiszervezésnek objektív oka van;
 
-c) a letétkezelő a megfelelő szakértelemmel, körültekintéssel és gondossággal választja ki a harmadik felet, akire feladatai egy részét kiszervezi, és megfelelő szakértelemmel, körültekintéssel és gondossággal ellenőrzi és felügyeli a harmadik felet, valamint a feladatok ellátása érdekében a harmadik fél által tett lépéseket;
+c) a letétkezelő a megfelelő szakértelemmel, körültekintéssel és gondossággal választja ki a harmadik felet, akire feladatai egy részét kiszervezi, kivéve, ha a harmadik fél befektető központi értéktárként eljáró központi értéktár és megfelelő szakértelemmel, körültekintéssel és gondossággal ellenőrzi és felügyeli a harmadik felet, valamint a feladatok ellátása érdekében a harmadik fél által tett lépéseket;
 
 d) a letétkezelő biztosítja, hogy a harmadik fél folyamatosan megfelel az alábbi feltételeknek a kiszervezett feladatok teljesítése során:
 
@@ -21,6 +21,8 @@ dc) a harmadik fél elkülöníti a letétkezelő ügyfeleinek eszközeit saját
 dd) a harmadik fél minden szükséges lépést megtesz annak biztosítására, hogy a harmadik fél fizetésképtelensége esetén az ÁÉKBV-nek a harmadik fél letéti őrzésében lévő eszközeit ne lehessen a harmadik fél hitelezői között felosztani vagy azok javára értékesíteni és
 
 de) a harmadik fél eleget tesz a 62. § (1), (7), (11) és (12) bekezdésben említett kötelezettségeknek és tilalmaknak.
+
+(3a) A befektető központi értéktár által történő szolgáltatásnyújtás – ellentétben a kibocsátó központi értéktárként eljáró központi értéktár általi szolgáltatásnyújtással – letétkezelő általi letéti őrzési funkció kiszervezésének minősül.
 
 (4) Amennyiben harmadik ország joga előírja, hogy bizonyos pénzügyi eszközöket helyi intézménynél helyezzenek letétbe, és a (3) bekezdés d) pont db) alpontban előírt feltételeknek megfelelő intézmény nincs az országban, a letétkezelő csak a harmadik ország joga által előírt mértékben és csak addig szervezheti ki feladatait egy ilyen helyi intézményre, amíg nincsenek a kiszervezési feltételeknek előírt helyi intézmények, és megfelelnek az alábbi feltételeknek:
 

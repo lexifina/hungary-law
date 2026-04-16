@@ -4,4 +4,6 @@ a) a befektetési alapkezelő nem tesz eleget tájékoztatási kötelezettségé
 
 b) a befektetési alap működésének törvényben előírt feltételei nem biztosítottak.
 
-(2) A Felügyelet a befektetési alapkezelő intézkedésének hiányában felfüggesztheti a befektetési jegyek folyamatos forgalmazását a 114. § (1) bekezdésében meghatározott esetekben, valamint a befektetési jegyek visszaváltását a 114. § (2) bekezdésében meghatározott esetben.
+(2) A Felügyelet a befektetési alapkezelő szükségszerű intézkedésének hiányában felfüggesztheti a befektetési jegyek folyamatos forgalmazását.
+
+(3) A Felügyelet – kivételes esetben, a befektetési alapkezelővel való egyeztetést követően – előírhatja a 4. § (1) bekezdés 69a. pont a) alpontja szerinti likviditáskezelési eszköz alkalmazását, illetve alkalmazásának megszüntetését, amennyiben a befektetővédelemre, vagy pénzügyi stabilitásra vonatkozóan olyan kockázatok állnak fenn, amelyek ezt szükségessé teszik.

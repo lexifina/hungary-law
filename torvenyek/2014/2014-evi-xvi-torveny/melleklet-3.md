@@ -134,7 +134,7 @@ IV. A kockázatok
 
 26. A kockázati tényezők, valamint annak bemutatása, hogy az ABAK hogyan felel meg a 16.§ (5) bekezdésben előírt feltételeknek
 
-26.1. Az ABA likviditási kockázatának kezelése, visszaváltási jogok és a befektetőkkel kötött visszaváltási megállapodások leírása, utalva arra, hogy ABA esetében az éves és féléves jelentés tartalmazza a 6. melléklet X. pontjának megfelelő információkat
+26.1. Az ABA likviditási kockázatának kezelése, visszaváltási jogok és a befektetőkkel kötött visszaváltási megállapodások leírása, utalva arra, hogy ABA esetében az éves és féléves jelentés tartalmazza a 6. melléklet X. pontjának megfelelő információkat, valamint ideértve a 36. § (7) bekezdésével összhangban kiválasztott likviditáskezelési eszközök igénybevétele lehetőségének leírását, és az ilyen likviditáskezelési eszközök használatának feltételeit
 
 V. Az eszközök értékelése
 
@@ -174,6 +174,8 @@ VIII. Díjak és költségek
 
 36.3. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által egyéb felek, harmadik személyek részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
 
+36.4. az ABA működésével kapcsolatban az ABAK által viselt azon díjak, költségek és kiadások jegyzéke, amelyeket közvetlenül vagy közvetve az ABA-hoz kell rendelni
+
 37. A befektetési alapot és a befektetőket terhelő egyéb lehetséges költségek vagy díjak (ez utóbbiak legmagasabb összege), kivéve a 36. pontban említett költségeket
 
 38. Ha a befektetési alap eszközeinek legalább 20 százalékát más kollektív befektetési formákba fekteti, a befektetési célként szereplő egyéb kollektív befektetési formákat terhelő alapkezelési díjak legmagasabb mértéke
@@ -199,6 +201,8 @@ IX. A befektetési jegyek folyamatos forgalmazása
 42.2. A visszaváltási megbízásokra vonatkozó forgalmazás-elszámolási nap
 
 42.3. A visszaváltási megbízásokra vonatkozó forgalmazás-teljesítési nap
+
+42.4. A befektetési jegy visszaváltására vonatkozó eljárások és feltételek, valamint azon körülmények, amelyek fennállása esetén a jegyzés és visszaváltás felfüggeszthető, vagy más likviditáskezelési eszközök alkalmazhatók
 
 43. A befektetési jegyek folyamatos forgalmazásának részletszabályai
 
@@ -426,7 +430,7 @@ VII. A kockázatok
 
 37.4. Amennyiben a befektetési alap – a Felügyelet engedélye alapján – eszközeinek akár 100 százalékát fektetheti olyan, különböző átruházható értékpapírokba és pénzpiaci eszközökbe, amelyeket valamely EGT-állam, annak önkormányzata, harmadik ország, illetve olyan nemzetközi szervezet bocsátott ki, amelynek egy vagy több EGT-állam is tagja, az erre vonatkozó figyelemfelhívás
 
-37.5. Az ABA likviditási kockázatának kezelése, visszaváltási jogok és a befektetőkkel kötött visszaváltási megállapodások leírása
+37.5. Az ABA likviditási kockázatának kezelése, visszaváltási jogok és a befektetőkkel kötött visszaváltási megállapodások leírása, ideértve a 36. § (7) bekezdésével összhangban kiválasztott likviditáskezelési eszközök igénybevétele lehetőségének leírását, és az ilyen likviditáskezelési eszközök használatának feltételeit
 
 38. Az adott tárgykörre vonatkozó egyéb információ
 
@@ -467,6 +471,8 @@ XI. Díjak és költségek
 48.2. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által a letétkezelő részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
 
 48.3. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által egyéb felek, harmadik személyek részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+48.4. az ABA működésével kapcsolatban az ABAK által viselt azon díjak, költségek és kiadások jegyzéke, amelyeket közvetlenül vagy közvetve az ABA-hoz kell rendelni
 
 49. A befektetési alapot és a befektetőket terhelő egyéb lehetséges költségek vagy díjak (ez utóbbiak legmagasabb összege), kivéve a 48. pontban említett költségeket
 

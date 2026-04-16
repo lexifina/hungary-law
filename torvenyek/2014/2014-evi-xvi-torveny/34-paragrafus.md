@@ -18,6 +18,12 @@ között létrejött érdekellentét nyomán az ABAK által kezelt kollektív be
 
 (3) Amennyiben az ABAK által az összeférhetetlenség azonosítása, megelőzése, kezelése és figyelemmel kísérése céljából létrehozott szervezeti megoldások nem elégségesek annak ésszerű mértékű bizonyossággal történő biztosítására, hogy kizárható legyen a befektetők érdeksérelmének kockázata, az ABAK egyértelműen a befektetők tudomására hozza az összeférhetetlenség általános jellegét vagy forrásait még azelőtt, hogy a befektetésre, illetve további befektetésre részükről sor kerülne, és megfelelő üzletpolitikákat és eljárásokat dolgoz ki ilyen vonatkozásban.
 
+(3a) Ha az ABAK harmadik fél kezdeményezésére kezel vagy kíván kezelni ABA-t, ideértve a kiszervezést és azt az esetet, amikor az ABAK a harmadik fél nevét használja, részletes tájékoztatást nyújt a Felügyeletnek az (1)–(3) bekezdés szerinti feltételek teljesüléséről, amely kiterjed:
+
+a) az összeférhetetlenség megelőzése érdekében tett lépésekre, és
+
+b) az összeférhetetlenség azonosítására, kezelésére és monitorozására vonatkozó eljárásokra.
+
 (4) Ha az ABAK az ABA nevében prime bróker szolgáltatásait veszi igénybe, a feltételeket írásba foglalt szerződésben kell meghatározni. Rendelkezni kell különösen az ABA eszközeinek lehetséges átruházásáról és ismételt felhasználásáról, és ennek összhangban kell lennie az ABA kezelési szabályzatával. A szerződésnek rendelkeznie kell arról, hogy a letétkezelőt értesítsék a szerződés megkötéséről.
 
 (5) Az ABAK-nak kellő szakértelemmel és gondossággal kell eljárnia a szerződtetendő prime bróker kiválasztásakor és kinevezésekor.

@@ -22,6 +22,8 @@ i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irány
 
 j) az Európai Parlament és a Tanács (EU) 2022/2556 irányelve (2022. december 14.) a pénzügyi ágazat digitális működési rezilienciája tekintetében a 2009/65/EK, a 2009/138/EK. a 2011/61/EU, a 2013/36/EU, a 2014/59/EU, a 201465/EU, az (EU) 2015/2366 és az (EU) 2016/2341 irányelv módosításáról
 
+k) Az Európai Parlament és a Tanács (EU) 2024/927 irányelve (2024. március 13.) a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról.
+
 (2) E törvény
 
 a) a Bizottság 2010. július 1-jei, a 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló, 583/2010/EU rendeletének,

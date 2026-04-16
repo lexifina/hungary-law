@@ -49,3 +49,9 @@ a) tisztességesen, a kezelésében levő kollektív befektetési formák érdek
 b) igyekezzen kerülni az érdekellentéteket, illetve amennyiben ez nem lehetséges, gondoskodjon az általa kezelt kollektív befektetési formák, illetve egyéb ügyfelei szempontjából tisztességes megoldások alkalmazásáról.
 
 (8) Az ÁÉKBV-alapkezelő a portfóliókezelési tevékenysége során – ha az ügyfél kifejezetten eltérően nem rendelkezik – az ügyfél javára kezelt portfólió terhére nem szerezhet saját maga által kezelt kollektív befektetési forma által kibocsátott kollektív befektetési értékpapírt.
+
+(9) Ha az ÁÉKBV-alapkezelő harmadik fél kezdeményezésére kezel vagy kíván kezelni ÁÉKBV-t, ideértve a kiszervezést és azt az esetet, amikor az ÁÉKBV alapkezelő a harmadik fél nevét használja, részletes tájékoztatást nyújt a Felügyeletnek a (7) bekezdés b) pontja szerinti feltétel teljesüléséről, amely kiterjed:
+
+a) az összeférhetetlenség megelőzése érdekében tett lépésekre, és
+
+b) az összeférhetetlenség azonosítására, kezelésére és monitorozására vonatkozó eljárásokra.

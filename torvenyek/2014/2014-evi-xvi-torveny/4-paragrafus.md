@@ -10,6 +10,8 @@ a) az az EGT-állam, amelyben az ABA engedéllyel rendelkezik, vagy be van jegye
 
 b) ha az ABA-t egyik EGT-államban sem engedélyezték vagy jegyezték be, az az EGT-állam, amelyben az ABA székhelye vagy főirodája található;
 
+3a. ABA tőkéje: az ABA részére lekötött összesített tőkehozzájárulások és le nem hívott tőke, amelyek közvetlenül vagy közvetve a befektetők által viselt díjak, költségek és kiadások levonása után befektethető összegek alapján kerülnek kiszámításra;
+
 4. ABAK fogadó tagállama:
 
 a) az az ABAK letelepedés szerinti tagállamától különböző EGT-állam, amelyben egy uniós ABAK uniós ABA-t kezel;
@@ -69,6 +71,8 @@ b) olyan nyilvános nyílt végű kollektív befektetési forma, amely az ÁÉKB
 23. befektetési vállalkozás: a Bszt.-ben ilyenként meghatározott szervezet;
 
 24. befektető: a kollektív befektetési értékpapír tulajdonosa;
+
+24a. befektető központi értéktár: a Bizottság a 909/2014/EU európai parlamenti és tanácsi rendeletnek a központi értéktárakra vonatkozó engedélyezési, felügyeleti és működési követelményekről szóló szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, 2016. november 11-i (EU) 2017/392 felhatalmazáson alapuló rendeletében meghatározott fogalom;
 
 25. cél-ABA: bármely olyan ABA, amelybe egy gyűjtő-ABA a rá vonatkozó definícióban meghatározottak szerint befektet, vagy amelyben kitettséggel rendelkezik;
 
@@ -142,6 +146,18 @@ c) eszközeinek legalább 85%-os kitettsége van egy cél-ABA-ban;
 
 50. hitel: a hitelszerződés, illetve az ez alapján kötött kölcsönszerződés, valamint a halasztott pénzügyi teljesítés, ide nem értve a forgalmazó által biztosított, legfeljebb 15 napos halasztott pénzügyi teljesítést;
 
+50a. kölcsönnyújtás:
+
+a) közvetlenül az ABA, mint eredeti kölcsönnyújtó általi kölcsönnyújtás, vagy
+
+b) közvetve harmadik félen vagy különleges célú gazdasági egységen keresztül, az ABA nevében történő kölcsönnyújtás, ha a kölcsönnel szembeni kitettségének létrejöttét megelőzően az ABA vagy ABAK részt vesz a kölcsön strukturálásában vagy jellemzőinek meghatározásában vagy előzetes megállapodásban;
+
+50b. kölcsönnyújtó ABA: olyan ABA,
+
+a) amelynek befektetési stratégiája elsősorban kölcsönök nyújtása, vagy
+
+b) amely nettó eszközértékének legalább 50%-át teszi ki a kölcsönök névértéke;
+
 51. holdingtársaság: egy vagy több társaságban részesedéssel rendelkező olyan gazdasági társaság, amelynek gazdasági célja egy üzleti stratégia vagy stratégiák leányvállalatain, kapcsolt vállalkozásain vagy részvételén keresztül történő végrehajtása hosszú távú értékük növelése céljából, és
 
 a) amely saját számlára működik és részvényeit az Európai Unió valamely szabályozott piacára bevezették, vagy
@@ -164,6 +180,8 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 56. kibocsátó: a Tpt.-ben meghatározott fogalom;
 
+56a. kibocsátó központi értéktár: a Bizottság a 909/2014/EU európai parlamenti és tanácsi rendeletnek a központi értéktárakra vonatkozó engedélyezési, felügyeleti és működési követelményekről szóló szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, 2016. november 11-i (EU) 2017/392 felhatalmazáson alapuló rendeletében meghatározott fogalom;
+
 57. kibocsátási program: a Tpt.-ben meghatározott fogalom;
 
 58. kiemelt befektetői információ: az ÁÉKBV-ről és az egyéb nyilvános nyílt végű befektetési alapról készített, a befektetőknek adandó legfontosabb információkat tartalmazó rövid dokumentum;
@@ -179,6 +197,8 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 63. kollektív portfóliókezelés: a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása;
 
 63a. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] meghatározott fogalom,
+
+63b. központi értéktár: az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom;
 
 64. különleges célú gazdasági egység: a Hpt.-ben meghatározott fogalom;
 
@@ -215,6 +235,26 @@ bb) a Bszt. 5. § (2) bekezdésének b) pontjában meghatározott letétkezelés
 bc) egyéb intézmény, amelyre prudenciális szabályozás vonatkozik, és folyamatos felügyelet alatt áll, továbbá amely 2011. július 21-én az ÁÉKBV-irányelv 23. cikke (3) bekezdésének tagállami jogrendszerbe történő átvétele alapján letétkezelési tevékenység folytatására jogosult;
 
 69. likvid eszköz: a pénz, a hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, nyilvános árjegyzéssel rendelkező állampapír, a felmondhatóságában nem korlátozott betét, továbbá az átruházhatóságában nem korlátozott, nyilvános árjegyzéssel rendelkező, legfeljebb egyéves hátralévő futamidejű, nyilvánosan forgalomba hozott hitelviszonyt megtestesítő értékpapír;
+
+69a. likviditáskezelési eszköz:
+
+a) jegyzés és visszaváltás felfüggesztése: az alap befektetési jegyeinek jegyzése, visszaváltása ideiglenesen nem engedélyezett;
+
+b) visszaváltási korlát: a befektetési jegy tulajdonosok által gyakorolható visszaváltási jog átmeneti és részleges korlátozása, amelynek eredményeként a befektető kizárólag befektetési jegyeinek meghatározott részét válthatja vissza;
+
+c) visszaváltási idő meghosszabbítása: a befektetési jegyek tulajdonosai által kezdeményezett visszaváltáskor az alapkezelő számára rendelkezésre álló visszaváltási idő meghosszabbítása;
+
+d) visszaváltási díj alkalmazása: a likviditási költségeket figyelembe vevő, előre meghatározott tartományon belüli díj felszámítása, amelyet a befektetési jegyek tulajdonosai a befektetési jegyek visszaváltásakor fizetnek az alapnak, hogy az alapban maradó befektetési jegy tulajdonosai ne kerüljenek méltánytalanul hátrányos helyzetbe;
+
+e) ingaárazás (swing pricing): olyan előre meghatározott mechanizmus, amellyel egy befektetési alap befektetési jegyeinek nettó eszközértékét a likviditás költségét tükröző tényező [ingaárazási tényező (swing factor)] alkalmazásával igazítják ki;
+
+f) kettős árazás: előre meghatározott mechanizmus, amely során az alap befektetési jegyeinek jegyzési és visszaváltási ára az egy befektetési jegyre jutó nettó eszközérték a likviditási költségeket tükröző tényezővel korrigált értéke;
+
+g) felhígulás elleni védelem díjának alkalmazása (anti-dilution levy): a befektetési jegy tulajdonosa által az alapnak fizetett díj a befektetési jegyek jegyzése vagy visszaváltása során, kompenzálva az alapot az ügylet méretéből adódó likviditási költségekért, hogy más befektetési jegy tulajdonos ne kerüljön méltánytalanul hátrányos helyzetbe;
+
+h) természetbeni visszaváltás: az alap tulajdonában lévő eszközök készpénz helyett történő átruházása a befektetési jegy tulajdonosok visszaváltási kérelmének teljesítése érdekében; illetve
+
+i) elkülönítetteszköz-számla alkalmazása (side pockets): az elkülönített eszközszámlákra, olyan eszközöknek az alap egyéb eszközeitől elkülönített eszközszámlákra történő elhelyezése, amely eszközök gazdasági vagy jogi jellemzői jelentősen megváltoztak vagy kivételes körülmények miatt bizonytalanná váltak, figyelemmel a 128. §-ban foglaltakra;
 
 70. magántőkealap: olyan zártvégű ABA, amelyet vállalatok, vállalatrészek megszerzésének finanszírozása (ideértve az akvizíciót is) céljából hoztak létre, kollektív befektetési értékpapírjait zártkörűen kizárólag szakmai befektetők részére hozzák forgalomba, és amely nem tőkeáttétellel finanszírozott, valamint az eredeti befektetés időpontját követő öt éven belül nem gyakorolhatók visszaváltási jogok;
 
@@ -262,11 +302,7 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 88. szabályozott piac: a Tpt.-ben meghatározott fogalom;
 
-89. szakmai befektető: olyan befektető, aki
-
-a) a Bszt. szerint szakmai ügyfélnek minősül vagy kérés esetén szakmai ügyfélként kezelhető vagy
-
-b) legalább százezer euró vagy annak megfelelő értékű kollektív befektetési értékpapírba történő befektetésre vállal kötelezettséget;
+89. szakmai befektető: olyan befektető, aki a Bszt. szerint szakmai ügyfélnek minősül vagy kérés esetén szakmai ügyfélként kezelhető;
 
 90. származtatott ügylet: a Tpt.-ben meghatározott fogalom;
 
@@ -282,9 +318,15 @@ b) két vagy több személy között fennálló kapcsolat, amennyiben ezen szem�
 
 94. tőkeáttétel: minden olyan módszer, amellyel az ABAK növeli a kezelésében lévő ABA kitettségét (készpénz vagy értékpapír kölcsönvétele, származtatott pozíciókba ágyazott vagy más áttétel útján). Az ABA tőkeáttételét az ABAK-rendelet 6–11. cikkének megfelelően kell kiszámítani;
 
+94a. tőkeáttétellel finanszírozott ABA: olyan ABA, amelyeknek kitettségét az azt kezelő ABAK növeli, akár készpénz vagy értékpapírok kölcsönzése, akár származtatott pozíciókba ágyazott tőkeáttétel útján, vagy bármely más módon;
+
 95. tőkenövekmény: az egy jegyre jutó nettó eszközérték és a befektetési jegy névértéke közötti különbség, amennyiben az pozitív;
 
 96. tőzsdén nem jegyzett társaság: olyan társaság, amelynek létesítő okirat szerinti székhelye az Európai Unióban van, és nincs bevezetve a Tpt. által meghatározott szabályozott piacra;
+
+96a. tőzsdén kereskedett alap: a Bszt-ben meghatározott fogalom.
+
+96b. tulajdonosi kölcsön: az ABA által egy olyan vállalkozásnak adott kölcsön, amelyben közvetve vagy közvetlenül a tőke vagy a szavazati jogok legalább 5%-ával rendelkezik, és amely kölcsön nem ruházható át harmadik személynek az ABA által ugyanabban a vállalkozásban tartott tőkeinstrumentumoktól függetlenül;
 
 97. uniós ABA:
 

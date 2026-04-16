@@ -29,3 +29,5 @@ Az alapkezelő működési szabályzatának kötelező tartalmi elemei
 13. Az alkalmazottakra vonatkozó szakmai képzési követelmények.
 
 14. A titoktartás szabályai.
+
+15. A pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i, (EU) 2019/2088 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése, 6. cikk (1) bekezdés a) pontja és 13. cikke szerinti kötelezettségek teljesítésének szabályai, és az ehhez igénybevett humán és technikai erőforrások részletezése.

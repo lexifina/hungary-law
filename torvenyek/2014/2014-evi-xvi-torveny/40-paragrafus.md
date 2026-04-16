@@ -4,9 +4,9 @@
 
 a) nem akadályozhatja a befektetési alapkezelő felett gyakorolt felügyelet hatékonyságát,
 
-b) nem akadályozhatja a befektetési alapkezelőt abban, hogy a befektetők érdekében járjon el és a befektetési alapkezelési tevékenységet a befektetők érdekeinek megfelelően lássa el,
+b) nem akadályozhatja a befektetési alapkezelőt abban, hogy a befektetői és ügyfelei érdekeit legjobban szolgáló módon járjon el,
 
-c) nem befolyásolhatja a befektetési alapkezelő e törvényben foglalt kötelezettségeinek teljesítését,
+c) nem befolyásolhatja a befektetési alapkezelő e törvényben foglalt kötelezettségeit és objektíven igazolható,
 
 d) nem érintheti a befektetési alapkezelő és a letétkezelő felelősségét, és
 
@@ -15,6 +15,10 @@ e) nem akadályozhatja a befektetési alapkezelő
 ea) utasítási és ellenőrzési jogának gyakorlását a kiszervezett tevékenységet végző tevékenysége vonatkozásában, valamint
 
 eb) kiszervezésre irányuló szerződés azonnali felmondására irányuló jogát a kiszervezésre irányuló szerződésben foglaltak megsértése esetén.
+
+(2a) Az ÁÉKBV-alapkezelő nem szervezheti ki tevékenységeit olyan mértékben, hogy lényegileg már ne legyen az ÁÉKBV kezelőjének vagy a 6. § (2) bekezdésében meghatározott tevékenységek nyújtójának tekinthető és hogy postafiókcéggé váljon.
+
+(2b) Az ÁÉKBV-alapkezelő gondoskodik a 6. §-ban említett tevékenységek ellátásának megfelelőségéről kiszervezés esetén is, függetlenül a szerződő fél vagy annak további megbízottjai szabályozási státuszától vagy letelepedésének helyétől.
 
 (3) Amennyiben a kiszervezésre irányuló szerződés a kezelt vagyon befektetésével kapcsolatos tevékenység végzésére vonatkozik, a kiszervezésre irányuló szerződés csak olyan szerződő féllel köthető meg, amely rendelkezik befektetési alapkezelési vagy portfóliókezelési tevékenység végzésére jogosító engedéllyel, és prudenciális felügyelet hatálya alatt áll.
 
@@ -28,11 +32,15 @@ b) a kiszervezett tevékenységére nézve a felügyeleti hatósága és a Felü
 
 (6) A Felügyelet naprakészen közzéteszi a honlapján azon harmadik országok listáját, amelyek megfelelnek az (5) bekezdésben foglalt feltételeknek.
 
-(7) Az ÁÉKBV-alapkezelő kiszervezésre irányuló szerződést a megkötéstől számított 5 napon belül megküldi a Felügyeletnek.
+(7) Az ÁÉKBV-alapkezelő a kiszervezésre irányuló szerződést annak hatálybelépése előtt megküldi a Felügyeletnek.
 
 (8) Nem minősül kiszervezésnek
 
-a) a forgalmazó igénybevétele a kollektív befektetési értékpapírok forgalomba hozatalához, illetve a folyamatos forgalmazáshoz,
+a) saját nevében eljáró forgalmazó igénybevétele a felek közötti forgalmazási megállapodástól függetlenül
+
+aa) a kollektív befektetési értékpapírok forgalomba hozatalához, illetve a folyamatos forgalmazáshoz vagy
+
+ab) a biztosítási törvény szerinti biztosítási alapú befektetési termék értékesítéséhez,
 
 b) a befektetési alapkezeléshez szorosan nem kapcsolódó tevékenység, így különösen jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, az ÁÉKBV-alapkezelő helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá
 
