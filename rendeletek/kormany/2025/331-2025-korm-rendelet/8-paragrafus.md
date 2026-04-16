@@ -1,3 +1,3 @@
-8. §[^7]
+8. § A 78/2014. Korm. rendelet 52. §-a a következő c) ponttal egészül ki:
 
-[^7]: A 8. § a 11. § (4) bekezdése alapján 2026. április 16-án lép hatályba.
+(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)

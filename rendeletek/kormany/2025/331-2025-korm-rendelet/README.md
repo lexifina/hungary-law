@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-331-20-
 | 2025-12-30 | 2025-331-20-22.4 | 2010. évi CXXX. törvény |
 | 2026-01-01 | 2025-331-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-01-02 | 2025-331-20-22.6 | 2010. évi CXXX. törvény |
+| 2026-04-16 | 2025-331-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
