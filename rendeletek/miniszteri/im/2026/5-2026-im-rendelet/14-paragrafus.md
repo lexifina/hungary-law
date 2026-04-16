@@ -1,5 +1,5 @@
 ## 5. A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet módosítása
 
-14. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 37/B. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+14. §[^14]
 
-[A 37. §-ban foglaltak alkalmazásának együttes feltétele a 37. § (1) bekezdés a) pontja esetén, hogy]
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
