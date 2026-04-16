@@ -14,6 +14,6 @@ a) a befektetési alap tájékoztatójában ismertetni kell – a kezelési díj
 
 b) a befektetési alap éves jelentésében közzé kell tenni továbbá – a befektetési alapnak felszámított kezelési díj mértéke mellett – a tényleges befektetésként szereplő más befektetési alapokat, egyéb kollektív befektetési formákat terhelő befektetési alapkezelési díjak mértékét.
 
-(5)[^22] A befektetési alap nevében szerepeltetni kell az „alapba fektető alap” vagy „alapok alapja” elnevezést, ha a befektetési alap befektetési politikája szerint eszközeinek több mint 80 százalékát fekteti vagy fektetheti befektetési jegyekbe vagy egyéb kollektív befektetési forma által kibocsátott értékpapírokba.
+(5)[^23] A befektetési alap nevében szerepeltetni kell az „alapba fektető alap” vagy „alapok alapja” elnevezést, ha a befektetési alap befektetési politikája szerint eszközeinek több mint 80 százalékát fekteti vagy fektetheti befektetési jegyekbe vagy egyéb kollektív befektetési forma által kibocsátott értékpapírokba.
 
-[^22]: [A 21. § (5) bekezdésében az 55/2024. (III. 7.) Korm. rendelet 9. § e) pontja által elrendelt módosítás, amely szerint az „eszközeinek több mint 80%-át fekteti” szövegrész helyébe az „eszközeinek legalább 85%-át fekteti” szöveg lép, nem vezethető át.]
+[^23]: [A 21. § (5) bekezdésében az 55/2024. (III. 7.) Korm. rendelet 9. § e) pontja által elrendelt módosítás, amely szerint az „eszközeinek több mint 80%-át fekteti” szövegrész helyébe az „eszközeinek legalább 85%-át fekteti” szöveg lép, nem vezethető át.]

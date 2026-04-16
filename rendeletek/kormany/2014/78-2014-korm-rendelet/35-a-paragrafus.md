@@ -1,6 +1,6 @@
-## 35. §[^25] A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak. A 15. § (1) bekezdésétől eltérően a zártkörű értékpapír befektetési alapok (ABA-k) kötvényt bocsáthatnak ki.
+## 35. §[^26] A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak. A 15. § (1) bekezdésétől eltérően a zártkörű értékpapír befektetési alapok (ABA-k) kötvényt bocsáthatnak ki.
 
-## V/A. Fejezet[^26]
+## V/A. Fejezet[^27]
 
 ## A KOCKÁZATI TŐKEALAPOK ÉS MAGÁNTŐKEALAPOK BEFEKTETÉSI SZABÁLYAI
 
@@ -8,11 +8,11 @@
 
 (2) Az (1) bekezdés szerinti ellenőrzött vállalkozás alatt a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 136. pontjában meghatározott ellenőrzött vállalkozást kell érteni.
 
-(3)[^27] A magántőkealap esetében, amennyiben a befektetők egyhangú hozzájárulásukat adják egy adott vállalkozásba, illetve a vállalkozás által ellenőrzött más vállalkozásba történő, a magántőkealap jegyzett tőkéjének (1) bekezdésben meghatározott mértékét meghaladó összegű befektetésre, illetve e mérték feletti pénzkölcsön nyújtásra, a magántőkealap mentesül az (1) bekezdés szerinti korlátozás alól. A hozzájárulást a befektetők közokiratba vagy teljes bizonyító erejű magánokiratba foglalt kockázatfeltáró nyilatkozatban adják meg. A kockázatfeltáró nyilatkozat tervezetét annak tervezett keltezését legalább 7 nappal megelőzően – annak teljes terjedelmű felolvasása mellett – kell a befektetők részére átadni. A kockázatfeltáró nyilatkozat nem vonható vissza.
+(3)[^28] A magántőkealap esetében, amennyiben a befektetők egyhangú hozzájárulásukat adják egy adott vállalkozásba, illetve a vállalkozás által ellenőrzött más vállalkozásba történő, a magántőkealap jegyzett tőkéjének (1) bekezdésben meghatározott mértékét meghaladó összegű befektetésre, illetve e mérték feletti pénzkölcsön nyújtásra, a magántőkealap mentesül az (1) bekezdés szerinti korlátozás alól. A hozzájárulást a befektetők közokiratba vagy teljes bizonyító erejű magánokiratba foglalt kockázatfeltáró nyilatkozatban adják meg. A kockázatfeltáró nyilatkozat tervezetét annak tervezett keltezését legalább 7 nappal megelőzően – annak teljes terjedelmű felolvasása mellett – kell a befektetők részére átadni. A kockázatfeltáró nyilatkozat nem vonható vissza.
 
-(4)[^28] Az (1) bekezdés szerinti korlátozás alóli mentesítés tényét, a (3) bekezdés szerinti befektetői hozzájárulások beszerzését követő 15 napon belül a magántőkealap kezelési szabályzatában rögzíteni kell, illetve ezzel egyidejűleg azt a Felügyeletnek be kell jelenteni.
+(4)[^29] Az (1) bekezdés szerinti korlátozás alóli mentesítés tényét, a (3) bekezdés szerinti befektetői hozzájárulások beszerzését követő 15 napon belül a magántőkealap kezelési szabályzatában rögzíteni kell, illetve ezzel egyidejűleg azt a Felügyeletnek be kell jelenteni.
 
-[^25]: A 35. § a 389/2021. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^26]: A V/A. Fejezetet (35/A. §) a 315/2014. (XII. 12.) Korm. rendelet 5. §-a iktatta be.
-[^27]: A 35/A. § (3) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 10. §-a iktatta be.
-[^28]: A 35/A. § (4) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 10. §-a iktatta be.
+[^26]: A 35. § a 389/2021. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A V/A. Fejezetet (35/A. §) a 315/2014. (XII. 12.) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 35/A. § (3) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 10. §-a iktatta be.
+[^29]: A 35/A. § (4) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 10. §-a iktatta be.
