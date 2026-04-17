@@ -1,3 +1,3 @@
-8. § A 78/2014. Korm. rendelet 52. §-a a következő c) ponttal egészül ki:
+8. §[^7]
 
-(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

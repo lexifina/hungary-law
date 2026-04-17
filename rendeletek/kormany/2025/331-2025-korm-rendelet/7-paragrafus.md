@@ -1,3 +1,3 @@
-7. § A 78/2014. Korm. rendelet 27. §-a helyébe a következő rendelkezés lép:
+7. §[^6]
 
-„27. § A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak. A 15. § (1) bekezdésétől eltérően az ÁÉKBV-nek nem minősülő nyilvános értékpapír befektetési alapok (ABA-k) kötvényt bocsáthatnak ki. A 15. § (2) bekezdésétől eltérően az ABA pénzkölcsönt nyújthat.”
+[^6]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
