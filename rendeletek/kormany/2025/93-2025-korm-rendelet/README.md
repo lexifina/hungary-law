@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-93-20-2
 | 2025-08-26 | 2025-93-20-22.2 | 281/2025. (VIII. 25.) Korm. rendelet |
 | 2025-11-14 | 2025-93-20-22.3 | 281/2025. (VIII. 25.) Korm. rendelet |
 | 2026-02-13 | 2025-93-20-22.4 | 19/2026. (II. 12.) Korm. rendelet |
+| 2026-04-18 | 2025-93-20-22.5 | 84/2026. (IV. 17.) Korm. rendelet |

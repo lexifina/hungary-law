@@ -1,3 +1,3 @@
-7. §[^3] Ez a rendelet 2026. május 31-én hatályát veszti.
+7. §[^3]
 
-[^3]: A 7. § a 19/2026. (II. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 7. §-t a 84/2026. (IV. 17.) Korm. rendelet 3. §-a hatályon kívül helyezte.
