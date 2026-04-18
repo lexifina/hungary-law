@@ -1,3 +1,3 @@
-9. §[^3] Ez a rendelet 2026. május 31-én hatályát veszti.
+9. §[^3]
 
-[^3]: A 9. § a 19/2026. (II. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 9. §-t a 84/2026. (IV. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
