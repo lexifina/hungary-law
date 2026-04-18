@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-782-20-
 | 2024-12-03 | 2021-782-20-22.11 | 374/2024. (XII. 2.) Korm. rendelet |
 | 2025-06-27 | 2021-782-20-22.12 | 374/2024. (XII. 2.) Korm. rendelet |
 | 2025-11-27 | 2021-782-20-22.13 | 374/2024. (XII. 2.) Korm. rendelet |
+| 2026-04-18 | 2021-782-20-22.14 | 2021. évi I. törvény |

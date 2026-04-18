@@ -1,1 +1,4 @@
-## 2. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdése szerinti törvények hatálya alá tartozó, 1. § szerinti szerződéssel rendelkező hitelnyújtó pénzügyi intézmény a kamatkockázatra vonatkozóan 2022. január 31-ig tájékoztatást nyújt a fogyasztó részére, illetve ajánlatot tesz a szerződésmódosításra a változó kamatozású jelzáloghitelek kamatkockázatáról, valamint az annak kezeléséről való tájékoztatás elősegítéséről szóló 9/2019. (IV. 15.) MNB ajánlásban foglaltak figyelembevételével.
+3. §[^5] Felhatalmazást kap a miniszterelnök kabinetfőnöke, hogy a Kormány általános politikai koordinációjáért való felelőssége keretében a hitelező által alkalmazandó, az 1. § (4) és (4a) bekezdése szerinti tájékoztatás tartalmát rendeletben határozza meg.[^6]
+
+[^5]: A 3. § a 49/2022. (II. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^6]: Lásd az 1/2022. (I. 3.) MK rendeletet.

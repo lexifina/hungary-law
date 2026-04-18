@@ -1,4 +1,4 @@
-1. § (1)[^2] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 17/D. § (1) bekezdésétől eltérően a referencia-kamatlábhoz kötött jelzáloghitel-szerződés (a továbbiakban: szerződés) esetén 2022. január 1-jétől 2026. június 30-ig
+1. § (1)[^2] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 17/D. § (1) bekezdésétől eltérően a referencia-kamatlábhoz kötött jelzáloghitel-szerződés (a továbbiakban: szerződés) esetén 2022. január 1-jétől
 
 a) az e rendelet hatálybalépését követő szerződés szerinti fordulónaptól érvényes referencia-kamatlábat úgy kell megállapítani, hogy a referencia-kamatláb mértéke,
 
@@ -28,6 +28,6 @@ tájékoztatja a lízingbe vevőt.
 
 (5)[^4] Az e §-ban foglaltakat a lakáscélú állami támogatásnak minősülő, fogyasztóknak nyújtott kamattámogatott jelzáloghitel-szerződésekre, a fogyasztónak nyújtott lakáscélú pénzügyi lízingszerződésekre és 2022. november 1-től a legfeljebb 5 éves kamatperiódusokban rögzített hitelkamattal nyújtott nem kamattámogatott jelzáloghitel-szerződésekre is alkalmazni kell.
 
-[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 374/2024. (XII. 2.) Korm. rendelet 1. §-a, a 170/2025. (VI. 26.) Korm. rendelet 1. §-a, a 364/2025. (XI. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 374/2024. (XII. 2.) Korm. rendelet 1. §-a, a 170/2025. (VI. 26.) Korm. rendelet 1. §-a, a 364/2025. (XI. 26.) Korm. rendelet 1. §-a, a 84/2026. (IV. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^3]: Az 1. § (4a) bekezdését a 49/2022. (II. 18.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (5) bekezdése a 390/2022. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
