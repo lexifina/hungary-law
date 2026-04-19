@@ -1,3 +1,3 @@
-3. melléklet a 12/2026. (IV. 17.) BM rendelethez[^9]
+3. melléklet a 12/2026. (IV. 17.) BM rendelethez[^10]
 
-[^9]: A 3. melléklet a 8. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
+[^10]: A 3. melléklet a 8. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
