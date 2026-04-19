@@ -18,6 +18,10 @@ e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény te
 
 f) bejelentés-tudomásulvételi és az eltérésbejelentés-tudomásulvételi eljárásban az engedélyes.
 
+g) kis moduláris reaktor létesítmény létesítési és üzembehelyezési programja jóváhagyása iránti eljárásban a létesítési és üzembehelyezési program benyújtására és végrehajtására jogosult,
+
+h) kis moduláris reaktor létesítmény típusengedélyezési eljárásban az engedélykérelem benyújtására jogosult.
+
 (1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
 
 (1b) Ha az eljárás több mint ötven ügyfelet érint, vagy az eljárásban a (4) bekezdés alapján közmeghallgatásra kerül sor, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – az atomenergia-felügyeleti szerv a kérelmezővel elektronikus, az egyéb ügyféllel hirdetményi úton tart kapcsolatot.
@@ -32,7 +36,9 @@ f) bejelentés-tudomásulvételi és az eltérésbejelentés-tudomásulvételi e
 
 a) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetén a nukleáris létesítmény tervezett telephelyének határától számított száz méteres,
 
-b) az a) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+b) az a) pontban meghatározott nukleáris létesítmények és a kis moduláris reaktor létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+
+c) kis moduláris reaktor létesítmény esetén a kis moduláris reaktor létesítményekről szóló elnöki rendeletben meghatározott követelmények szerint az atomenergia-felügyeleti szerv által meghatározott távolság, de legalább a kis moduláris reaktor létesítmény tervezett telephelyének határától számított ötven méteres
 
 távolságon belüli terület.
 
@@ -40,7 +46,9 @@ távolságon belüli terület.
 
 a) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetén a nukleáris létesítmény tervezett telephelyének határától számított száz méteres,
 
-b) az a) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+b) az a) pontban meghatározott nukleáris létesítmények és a kis moduláris reaktor létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres
+
+c) kis moduláris reaktor létesítmény esetén a nukleáris létesítmény és a radioaktívhulladék-tároló biztonsági övezetéről szóló kormányrendeletben meghatározott követelmények szerint az atomenergia-felügyeleti szerv által meghatározott távolság, de legalább a kis moduláris reaktor létesítmény tervezett telephelyének határától számított ötven méteres
 
 távolságon belüli terület.
 

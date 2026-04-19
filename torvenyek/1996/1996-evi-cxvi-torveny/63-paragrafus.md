@@ -1,6 +1,6 @@
 63. § (1) Az atomerőmű a radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának – beleértve a tároló leszerelését is –, és a nukleárisüzemanyag-ciklus lezárásának, továbbá az atomerőmű leszerelésének, valamint az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatás költségeit a Központi Nukleáris Pénzügyi Alapba történő befizetés útján köteles biztosítani. Az adott évre megállapított összeg arányos részét közvetlenül a Központi Nukleáris Pénzügyi Alap kincstárnál vezetett számlájára havonta, a hónap 15. napjáig kell befizetni.
 
-(2) Atomerőmű esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
+(2) Atomerőmű – kis moduláris reaktor létesítmény kivételével – esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze:
 
 a) az atomerőmű teljes üzemideje alatt és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
 
@@ -14,7 +14,21 @@ e) az atomerőmű tervezett üzemidőn túli üzemeltetést követő további ü
 
 együtt járó költségeket.
 
-(2a) Az atomerőmű befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+(2a) Az atomerőmű – kis moduláris reaktor létesítmény kivételével – befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+
+(2b) A kis moduláris reaktor létesítmény esetében a befizetés mértékét úgy kell megállapítani, hogy az teljes mértékben fedezze a típusengedélyben meghatározott tervezési élettartam figyelembevételével
+
+a) a típusengedélyben meghatározott tervezési élettartam és az üzemeltetés ideje alatt, az időszakos biztonsági felülvizsgálatok figyelembevételével és a leszereléskor keletkező radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és a nukleárisüzemanyag-ciklus lezárásával,
+
+b) az első előzetes leszerelési terv költsége kivételével valamennyi, a kis moduláris reaktor létesítmény, továbbá a kiégett üzemanyag átmeneti tárolója leszerelésével, valamint
+
+c) a 10/A. § (2) bekezdése szerint a társulásnak nyújtott támogatással
+
+együtt járó költségeket.
+
+(2c) A kis moduláris reaktor létesítmény befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2b) bekezdés szerinti költségek jelenértékével.
+
+(2d) A kis moduláris reaktor létesítmény befizetéseit az időszakos biztonsági felülvizsgálatok lezárultát követően – beleértve, ha a létesítmény leszerelésére a típusengedélyben foglalt tervezési élettartamon belül kerül sor – felül kell vizsgálni az (1) bekezdésben foglaltak teljesülése érdekében, és a szükséges befizetéseket a következő évi központi költségvetésről szóló törvényben meghatározottak szerint teljesíteni kell.
 
 (3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
 

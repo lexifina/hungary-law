@@ -2,7 +2,7 @@
 
 a) a kormányzat hatékony jogi szabályozást készít elő, valamint független, az atomenergia békés célú felhasználását felügyelő szervet vagy szerveket hoz létre és tart fenn;
 
-b) mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek az alapvető biztonsági célkitűzés iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn;
+b) mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékenységet végző szervezetek az alapvető biztonsági célkitűzés iránt elkötelezett vezetést és hatékony irányítási rendszert hoznak létre és tartanak fenn, ideértve a biztonsági kultúra fejlesztését is;
 
 c) a biztonságért való elsődleges felelősség azt a személyt vagy szervezetet terheli, aki, vagy amely a sugárzásból eredő kockázat növekedését okozó létesítmény vagy tevékenység engedélyese;
 

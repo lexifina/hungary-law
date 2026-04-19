@@ -44,9 +44,9 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 17. radioaktív hulladék átmeneti tárolója: a 7. pont b) alpontja szerinti létesítmények kivételével a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
 
-18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamos energiát termel;
+18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamosenergiát, illetve hőenergiát termel;
 
-19. atomfűtőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával hőt szolgáltat;
+19.
 
 20. rendkívüli esemény: az atomenergia alkalmazását szolgáló létesítményben, berendezésben, vagy radioaktív (nukleáris) anyaggal végzett tevékenység során – bármilyen okból – bekövetkező olyan esemény, amely a biztonságot kedvezőtlenül befolyásolhatja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezi vagy eredményezheti;
 
@@ -108,7 +108,7 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 
 45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
-46. nukleáris létesítmény és radioaktívhulladék-tároló létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény telephelye vizsgálatának és értékelésének, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez, valamint a radioaktívhulladék-tároló telephelye vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív intézményes és passzív intézményes ellenőrzéséhez szükséges engedély;
+46. nukleáris létesítmény és radioaktívhulladék-tároló létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény telephelye vizsgálatának és értékelésének, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, a tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez, megszüntetéséhez, valamint a radioaktívhulladék-tároló telephelye vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív intézményes és passzív intézményes ellenőrzéséhez, továbbá a kis moduláris reaktor létesítmény típusa alkalmasságának megállapításához szükséges engedély;
 
 47. felszín alatti kutatólaboratórium: kutatólétesítmény, a nagy aktivitású radioaktív hulladék végleges elhelyezését előkészítő tevékenység részeként a felszín alatt tetszőleges mélységben és geometriával kialakított földalatti térség és az ott működtetett kísérleti, kutató-fejlesztő és megfigyelő berendezések együttese, amelynek rendeltetése a földtani környezet és azon belül a befogadó kőzet részletes megismerése, a végleges elhelyezés műszaki megoldásainak optimalizálása, a földtani (természetes) és műszaki (épített) gátrendszer kölcsönhatásainak vizsgálata, és mindezek bemutatása a nyilvánosság számára;
 
@@ -127,3 +127,7 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 54. eltérő fűtőelemköteg: az atomerőmű hatályos engedélyeiben meghatározottól eltérő fűtőelemköteg.
 
 55. jogszabály alapján feljogosított független ellenőrző szervezet: a 16/D. § szerint nyilvántartásba vett szervezet.
+
+56. kis moduláris reaktorblokk: fejlett 3.+ vagy 4. generációs standardizált kialakítású energetikai – hő-, illetve villamosenergia-termelési céllal létesítendő vagy üzemeltetett – vagy ipari célú nukleáris reaktoregység, amely részben vagy egészben előregyártott és -szerelt modulokból áll, és amely a nukleáris biztonság garantálására kidolgozott stratégiák és műszaki megoldások szempontjából logikailag elkülöníthető egységet képez;
+
+57. kis moduláris reaktor létesítmény: olyan atomerőmű, amely egy vagy több, akár különböző életciklusszakaszokban lévő, de azonos telephelyen elhelyezkedő, és azonos típusú kis moduláris reaktorblokkal vagy reaktormodullal rendelkezik.

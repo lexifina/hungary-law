@@ -70,7 +70,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (12) Felhatalmazást kap az elnök, hogy rendeletben állapítsa meg:
 
-1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat;
+1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, kérelemre indult eljárások, valamint a szakmai konzultáció és az előzetes vélemény tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat;
 
 2. a 18/D. § szerinti szakmagyakorlásra alkalmasság igazolásának és a nyilvántartásba vétel részletes szabályait, továbbá a nyilvántartás adattartalmát;
 
@@ -138,7 +138,7 @@ g) a nukleáris létesítményekkel összefüggő építmények körét, a nukle
 
 h) a létesítés alatt álló nukleáris létesítmény engedélymódosításának eljárási szabályait;
 
-i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek körét.
+i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek, illetve a kis moduláris reaktor létesítmény rendszerei és rendszerelemei körét;
 
 10. a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedélymódosításának eljárási szabályait.
 
@@ -150,7 +150,7 @@ i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudo
 
 14. az atomenergia-felügyeleti szerv által a 11/A. § (3a) bekezdése szerint lefolytatott eljárásban az angol nyelven benyújtandó műszaki dokumentációk körét;
 
-15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és az előzetes típusengedélyezési eljárással kapcsolatos részletes szabályokat;
+15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és a típusengedélyezési eljárással kapcsolatos részletes szabályokat;
 
 16. az atomenergia-felügyeleti szerv elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettesét;
 
@@ -163,3 +163,13 @@ i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudo
 20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
 
 21. a köztisztviselőt a készenlétért megillető készenléti pótlék mértékére vonatkozó részletes szabályokat.
+
+22. a szakmai konzultáció és az előzetes vélemény részletes szabályait;
+
+23. a kis moduláris reaktor létesítmény tekintetében
+
+a) a létesítményszintű típusengedélyezésre vonatkozó követelményeket,
+
+b) a létesítményszintű típusengedély iránti eljárás részletes szabályait,
+
+c) a létesítési és üzembehelyezési programra és annak végrehajtására vonatkozó követelményeket.

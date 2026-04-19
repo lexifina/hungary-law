@@ -1,4 +1,4 @@
-14. § (1) Az atomenergia-felügyeleti szerv jogszabályban meghatározott esetekben és feltételek szerint az engedélyes kérelmére összevont engedélyt, előzetes típusengedélyt, valamint atomerőmű esetén az eltérő fűtőelemkötegek alkalmazását célzó átalakításhoz előzetes elvi átalakítási engedélyt, vagy átalakítási engedélyt adhat ki.
+14. § (1) Az atomenergia-felügyeleti szerv jogszabályban meghatározott esetekben és feltételek szerint kérelemre összevont engedélyt, típusengedélyt, valamint atomerőmű esetén az eltérő fűtőelemkötegek alkalmazását célzó átalakításhoz előzetes elvi átalakítási engedélyt, vagy átalakítási engedélyt adhat ki.
 
 (1a) Engedély határozott vagy határozatlan időre, valamint feltételhez kötötten adható. A határozott időre adott engedély időbeli hatálya – ha jogszabály eltérően nem rendelkezik – kérelemre meghosszabbítható.
 

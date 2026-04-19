@@ -4,7 +4,7 @@
 
 (2) Az atomenergia-felügyeleti szerv hatáskörébe tartozik:
 
-1. a nukleáris létesítmény
+1. a nukleáris létesítmény – kivéve a kis moduláris reaktor létesítményt –
 
 a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
 
@@ -12,15 +12,27 @@ b) létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhe
 
 szükséges nukleáris biztonsági engedélyezés;
 
+1a. a kis moduláris reaktor létesítmény
+
+a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
+
+b) létesítményszintű típusengedélyéhez, létesítéséhez, üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez, leszereléséhez,
+
+c) üzemeltetési időszakában történő átalakításához – ideértve az eltérő üzemanyag alkalmazásának bevezetését is –
+
+szükséges nukleáris biztonsági engedélyezés és ellenőrzés;
+
+1b. a kis moduláris reaktor létesítmény létesítési és üzembehelyezési programjának jóváhagyása és ellenőrzése;
+
 2. a nukleáris létesítmény és a radioaktívhulladék-tároló ellenőrzése, valamint a nukleáris létesítmény és radioaktívhulladék-tároló nukleáris biztonságának értékelése, elemzése;
 
 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
 
-4. a nukleáris létesítmény rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
+4. a nukleáris létesítmény – kivéve a kis moduláris reaktor létesítményt – rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 
 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
 
-6. a nukleáris létesítmény és a radioaktívhulladék-tároló rendszerének, rendszerelemének az engedélyes szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
+6. a nukleáris létesítmény és a radioaktívhulladék-tároló engedélyese szervezeti felépítésének, irányítási rendszerének, műszaki és szabályozó dokumentumai átalakításának engedélyezése és ellenőrzése;
 
 7. az atomerőmű blokkjainak főjavítását követő újraindításához szükséges nukleáris biztonsági engedélyezés;
 
@@ -120,11 +132,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12., 15. és 47. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
+(7) A (2) bekezdés 1., 1a., 3–10., 12., 15. és 47. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást, valamint a kis moduláris reaktor létesítmény típusengedélyezési eljárását kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese elnöki rendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 
-(8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. R.-ben vagy TBSZ. R.-ben meghatározott követelményeknek.
+(8a) A létesítés alatt álló nukleáris létesítmény vagy radioaktívhulladék-tároló hatósági engedélyeit az atomenergia-felügyeleti szerv módosíthatja, amennyiben a módosítási kérelem tartalma megfelel az NBSZ. R.-ben, a TBSZ. R.-ben vagy a kis moduláris reaktor létesítményekről szóló elnöki rendeletben meghatározott követelményeknek.
 
 (9) A nukleáris létesítménnyel, a radioaktívhulladék-tárolóval, valamint azok építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 
