@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-31-20-6
 | 2008-05-16 | 1997-31-20-6D.2 | 31/1997. (IX. 23.) KTM rendelet |
 | 2013-09-05 | 1997-31-20-6D.3 | 73/2013. (VIII. 28.) VM rendelet |
 | 2025-04-16 | 1997-31-20-6D.4 | 73/2013. (VIII. 28.) VM rendelet |
+| 2026-04-24 | 1997-31-20-6D.5 | 14/2026. (IV. 9.) AM rendelet |

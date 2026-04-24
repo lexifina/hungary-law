@@ -1,6 +1,6 @@
 ## Aszófő
 
-## 033/f, 034, 036/1/a–b, 037–038, 039-ből 1 A, F, TI erdőrészletek, 077/1–2, 079, 080, 081/9
+## 033/f, 034, 036/1/a–b, 037–038, 039-ből az 1E, 1F, 1G, 1I erdőrészletekre eső 5,8942 ha kiterjedésű területrész, 077/1–2, 079, 080, 081/9
 
 ## Badacsonytomaj
 
@@ -12,7 +12,7 @@
 
 ## Balatonederics
 
-## 036-ból 4/,E, 5/F–G erdőrészletek
+## 036/5-ből a 10E, 10F, 10G erdőrészletek, 036/6
 
 ## Balatongyörök
 
@@ -24,7 +24,7 @@
 
 ## Balatonmagyaród
 
-## 04, 073/3, 073/7/a–c, 073/10/a–h, 073/11–16
+## 04, 022, 073/3, 073/7, 073/10−14, 073/16, 073/18−26
 
 ## Balatonszentgyörgy
 
@@ -36,7 +36,7 @@
 
 ## Esztergályhorváti
 
-## 0115/3–4, 0251,
+## 0115/3–4, 0239/1, 0239/2, 0251
 
 ## Főnyed
 
@@ -44,7 +44,7 @@
 
 ## Garabonc
 
-## 048/5, 048/9, 048/12, 048/13/a–b, 048/15, 048/16/a–d
+## 048/4, 048/5, 048/9, 048/12, 048/13, 048/15−21
 
 ## Gyulakeszi
 
@@ -72,7 +72,7 @@
 
 ## Keszthely
 
-## 0399/7/a–h
+## 0373/2, 0374/10, 0374/11, 0380, 0399/7, 0399/8
 
 ## Kisapáti
 
@@ -96,15 +96,15 @@
 
 ## Nagyrada
 
-## 08/2/a–g, 08/6/a–h, 08/7–8, 08/9/a–j, 08/10, 08/11/a–c[^6]
+## 08/2/a–g, 08/6/a–h, 08/7–8, 08/9/a–j, 08/10, 08/11/a–c[^8]
 
 ## Nemesgulács
 
-## 022, 023, 025, 027/2–4, 037
+## 022/1−3, 025, 037
 
 ## Örvényes
 
-## 075/3, 076/7, 077-ből az E557053, N174798; E557477, N174760 EOV koordináták által kijelölt vonaltól ÉK-re elhelyezkedő 12,86 hektár kiterjedésű területrész
+## 075/3, 076/7, 076/10, 077-ből az E557053, N174798; E557477, N174760 EOV koordináták által kijelölt vonaltól ÉK-re elhelyezkedő 12,86 hektár kiterjedésű területrész
 
 ## Pécsely
 
@@ -120,7 +120,7 @@
 
 ## Sármellék
 
-## 039/1–5
+## 039/1–5 Sávoly 058/2, 072, 0125
 
 ## Szentbékkálla
 
@@ -132,7 +132,7 @@
 
 ## Tapolca
 
-## 027, 027/a–b, 0584, 6564–6570[^7]
+## 027, 027/a–b, 0584, 6564–6570[^9]
 
 ## Tihany
 
@@ -140,7 +140,7 @@
 
 ## Vászoly
 
-## 055/1/a–c, 079/2, 082
+## 055/1/a–c, 079/2, 082 Vörs 058/1, 058/2, 067, 081, 084, 092/1
 
 ## Zalakomár
 
@@ -214,5 +214,5 @@ A Balaton-felvidéki Nemzeti Parkhoz csatolt védett természeti területek jegy
 
 (Nemesvita Települési Önkormányzat Képviselő-testülete 5/1996. (VII. 4.) számú rendelete Nemesvita Települési Önkormányzat Közigazgatási területén lévő műemlékek és természeti értékek védelméről.]
 
-[^6]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
-[^7]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
+[^8]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
+[^9]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.

@@ -144,7 +144,7 @@
 
 ## Vindornyalak
 
-## 010/2, 010/3/a–b, 010/4–7, 09, 011, 013, 014, 015/1, 015/2/a–d, 016, 017/1, 017/2/a–b, 018–020, 021/2–5, 024/4, 026, 027/a–c, 029/5–30, 031/3–4, 035/1, 035/2/a–b
+## 010/2, 010/3/a–b, 010/4–7, 09, 011, 013, 014, 015/1, 015/2/a–d, 016, 017/1, 017/2/a–b, 018–020, 021/2–5, 024/4, 026, 027/a–c, 029/4–30, 031/3–4, 035/1, 035/2/a–b
 
 ## Vindornyaszőlős
 
@@ -158,10 +158,10 @@
 
 ## 017/4, 0156/1–0174/11, 552/1–2, 2301–2429
 
-2. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez[^3]
+2. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez[^4]
 
 A Balaton-felvidéki Nemzeti Park ingatlan-nyilvántartási helyrajzi számai
 
 II. A korábban védetté nyilvánított területek
 
-[^3]: A 2. számú melléklet a 73/2013. (VIII. 28.) VM rendelet 2. § (1) bekezdése, a 8/2025. (IV. 15.) AM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. számú melléklet a 73/2013. (VIII. 28.) VM rendelet 2. § (1) bekezdése, a 8/2025. (IV. 15.) AM rendelet 2. §-a, a 14/2026. (IV. 9.) AM rendelet 9. § (2) bekezdés a)–j) pontja szerint módosított szöveg.
