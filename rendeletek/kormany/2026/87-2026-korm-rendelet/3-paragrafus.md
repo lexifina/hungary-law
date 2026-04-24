@@ -1,0 +1,1 @@
+3. § Az Rtv. 11. § (1) bekezdésétől eltérően az Rtv. 3. § (3) és (4) bekezdését, az Rtv. 7. § (4), (5) és (7) bekezdését, valamint az Rtv. 7/B–7/E. §-át a 2026. június 30. napját követő adókötelezettségre sem kell alkalmazni.
