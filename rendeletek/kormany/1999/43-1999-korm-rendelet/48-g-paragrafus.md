@@ -1,3 +1,3 @@
-48/G. §[^545]
+48/G. §[^546]
 
-[^545]: A 48/G. §-t a 287/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja.
+[^546]: A 48/G. §-t a 287/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja.

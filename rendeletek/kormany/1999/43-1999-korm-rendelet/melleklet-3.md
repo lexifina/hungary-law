@@ -1,4 +1,4 @@
-## A)[^655]
+## A)[^657]
 
 ## VÁLTOZÁSJELENTÉS A BEJELENTKEZETT BIZTOSÍTOTTAK NYILVÁNTARTÁSÁRÓL
 
@@ -50,17 +50,17 @@
 
 |  | szolgáltató (működtető) | háziorvos |
 
-## B)[^656]
+## B)[^658]
 
-3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^657]
+3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^659]
 
 Degresszió alkalmazása a teljesítménydíj-fizetés alapjául szolgáló pontszám megállapításánál
 
-A)[^658] Háziorvosi ellátás
+A)[^660] Háziorvosi ellátás
 
 Amennyiben a tárgyhónapban készített összesítő jelentés szerinti biztosítottak utáni korcsoportonkénti pontszám összege a 2400 (vegyes praxisnál a 2600) pontot meghaladja, a díjfizetés alapjául szolgáló pontszámot az alábbi képlet, illetve táblázat alapján kell meghatározni:
 
-[^655]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
-[^656]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
-[^657]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
-[^658]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^657]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
+[^658]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
+[^659]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
+[^660]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
