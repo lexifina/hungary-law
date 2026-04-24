@@ -1,0 +1,1 @@
+10. § A Balaton-felvidéki Nemzeti Park bővítéséről szóló 8/2026. (III. 23.) AM rendelet [a továbbiakban: 8/2026. (III. 23.) AM rendelet] 5. §-ában a „4. melléklet” szövegrész helyébe a „Balaton-felvidéki Nemzeti Park bővítéséről és természetvédelmi tárgyú miniszteri rendeletek módosításáról szóló 14/2026. (IV. 9.) AM rendelet 5. melléklete” szöveg lép.

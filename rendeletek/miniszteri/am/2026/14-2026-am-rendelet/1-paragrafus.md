@@ -1,0 +1,11 @@
+## [1] Nemzeti parkjaink rendeltetése Magyarország jellegzetes, természeti adottságaiban lényegesen meg nem változtatott területein a különleges jelentőségű, természetes növény- és állattani, földtani, víztani, táji, továbbá a kultúrtörténeti értékek védelme, a biológiai sokféleség fenntartása és a természeti rendszerek működésének biztosítása, valamint az oktatás, a tudományos kutatás és a felüdülés elősegítése.
+
+## [2] Az Alaptörvény P) cikk (1) bekezdése szerint a természeti erőforrások, így a termőföld, az erdők és a vízkészlet, a biológiai sokféleség, különösen a honos növény- és állatfajok, valamint a kulturális értékek a nemzet közös örökségét képezik, amelynek védelme, fenntartása és a jövő nemzedékek számára való megőrzése az állam és mindenki kötelessége.
+
+## [3] E kötelesség teljesítésének elősegítése érdekében kerül sor a Balaton-felvidéki Nemzeti Park bővítésére és a meglévő nemzeti parki területeket érintő, a jogbiztonságot szolgáló technikai jellegű korrekciókra.
+
+## [4] A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 3., 8. és 13. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 5. és 9. pontjában meghatározott feladatkörömben eljárva − a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 7. pontjában meghatározott feladatkörében eljáró építési és közlekedési miniszterrel egyetértésben − a következőket rendelem el:
+
+1. § (1) A Balaton-felvidéki Nemzeti Park létesítéséről szóló 31/1997. (IX. 23.) KTM rendelettel létesített Balaton-felvidéki Nemzeti Parkhoz (a továbbiakban: Balaton-felvidéki Nemzeti Park) csatolom az Országos Természetvédelmi Hivatal elnökének 12/1977. OTvH határozatával védetté nyilvánított és a Nagybereki Fehér-víz természetvédelmi terület védettségének fenntartásáról szóló 111/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű, 1579,32 hektár kiterjedésű Nagybereki Fehér-víz természetvédelmi terület elnevezésű országos jelentőségű védett természeti területet.
+
+(2) A Balaton-felvidéki Nemzeti Parkhoz csatolt, (1) bekezdés szerinti országos jelentőségű védett természeti terület „Nagybereki Fehér-víz természetvédelmi terület” elnevezését megszüntetem.
