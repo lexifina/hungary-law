@@ -1,0 +1,1 @@
+2. § Az R. 13. § (6) bekezdésében a „jogviszonya az Otthontámogatásra jogosult halála miatt szűnik meg” szövegrész helyébe a „jogviszonyának megszűnésére vagy megszüntetésére az (1)–(3) bekezdésben foglaltaktól eltérő módon kerül sor” szöveg lép.
