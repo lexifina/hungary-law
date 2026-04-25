@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R. 13. § (1) bekezdésében a „ , vagy az Otthontámogatásra jogosult kezdeményezésére az Otthontámogatásra jogosult és a munkáltató közös megegyezéssel” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
