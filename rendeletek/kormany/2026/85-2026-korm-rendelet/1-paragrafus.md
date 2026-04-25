@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 22. § (2) bekezdése a következő e) ponttal egészül ki:
+1. §[^1]
 
-(A finanszírozóval területi ellátási kötelezettségen kívüli közfeladat ellátására kötött szerződés alapján a fogászati ellátást nyújtó szolgálat működtetésének finanszírozására:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
