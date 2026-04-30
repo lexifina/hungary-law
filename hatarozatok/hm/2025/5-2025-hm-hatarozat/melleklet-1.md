@@ -12,7 +12,7 @@
 
 |  | A gyakorlat megnevezése | A gyakorlat jellege | A gyakorlat tervezett helye (ország) | A gyakorlat tervezett időpontja (negyedév) | Külföldi helyszín esetén MH létszám (fő) legfeljebb | Magyarországi helyszín esetén résztvevő külföldi fegyveres erő létszáma (fő) legfeljebb | Magyarországi áthaladás esetén áthaladó külföldi fegyveres erő létszáma (fő) legfeljebb |
 
-| 1. | AGILE COMBAT EMPLOYMENT | légierő/harcászati szintű gyakorlat/LIVEX/ AIREX | Németország, Csehország | II–IV. | 50 | 50 | 50 |
+| 1.[^1] | AGILE COMBAT EMPLOYMENT | légierő/harcászati szintű gyakorlat/LIVEX/AIREX | Németország, Csehország, Magyarország | II–IV. | 50 | 80 | 50 |
 
 | 2. | ALLIED REACTION FORCE (ARF) CBRN felkészítés | CBRN felkészítés | Németország, NATO- és EU-tagállamok | I–IV. | 30 |  |  |
 
@@ -78,7 +78,7 @@
 
 | 33. | STEADFAST INTEREST | NATO HUMINT gyakorlat | Románia, Lengyelország, Románia, Spanyolország | I–IV. | 50 |  |  |
 
-| 34. | TACTICAL LEADERSHIP PROGRAM (TLP26) harcászati szintű nemzetközi repülő képzés | légierő/harcászati szintű gyakorlat/LIVEX/ AIREX/CAX/CPX | Spanyolország | I–IV. | 50 |  |  |
+| 34. | TACTICAL LEADERSHIP PROGRAM (TLP26) harcászati szintű nemzetközi repülő képzés | légierő/harcászati szintű gyakorlat/LIVEX/ AIREX/CAX/CPX | Spanyolország | I–IV. | 250[^2] |  |  |
 
 | 35. | Technical Interoperability Exercise | NATO drónelhárító ezközökkel végrehajtott gyakorlat | NATO-tagállamok | III–IV. | 15 | 15 | 10 |
 
@@ -93,6 +93,12 @@
 | 40. | VALIANT LYNX | DEPLOYEX | Spanyolország | II–IV. | 60 |  |  |
 
 | 41. | VIGOROUS WARRIOR | Egészségügyi – LIVEX | Észtország | II–III. | 80 |  |  |
+
+| 42.[^3] | LOGICAL DECISION | légierő harcászati gyakorlat | Magyarország, Szlovákia | II–IV. | 120 | 100 |  |
+
+| 43.[^4] | BIO SHIELD | CBRN gyakorlat | Németország | III–IV. | 30 |  |  |
+
+| 44.[^5] | SABER STRIKE | többnemzeti harcászati gyakorlat | Finnország | II. | 100 |  |  |
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések, amelyek külföldi fegyveres erők átvonulásával is járhatnak
 
@@ -126,7 +132,7 @@
 
 | 13. | BLACK SWAN | CPX, többnemzeti terepen végrehajtott gyakorlat, SOFEX | Magyarország | III–IV. | 350 | 100 |  |
 
-| 14. | BLUE HORIZON | légierő/harcászati szintű gyakorlat/CAX/CPX | Magyarország | III–IV. |  | 40 |  |
+| 14.[^6] | BLUE HORIZON | légierő/harcászati szintű gyakorlat/ CAX/CPX | Magyarország, Németország | III–IV. | 50 | 40 |  |
 
 | 15. | BOLD QUEST, (DACAS) JTAC gyakorlat | légierő/harcászati szintű gyakorlat/LIVEX/ AIREX | NATO- és EU-tagállamok, USA, Ausztrália | II–IV. | 15 |  |  |
 
@@ -168,7 +174,7 @@
 
 | 34. | GOLDEN SERVE | harcászati, valós erőkkel, terepen végrehajtott gyakorlat | Németország | I–IV. | 60 |  |  |
 
-| 35. | Hegyi vadász gyakorlat | különleges műveleti gyakorlat | NATO- és EU-tagállamok | I–IV. | 80 |  |  |
+| 35. | Hegyi vadász gyakorlat | különleges műveleti gyakorlat | NATO- és EU-tagállamok | I–IV. | 80 | 100[^7] |  |
 
 | 36. | Horvát–Szlovák–Magyar KM búvár kiképzés | búvár kiképzés | Horvátország, Szlovákia, Magyarország | III–IV. | 30 | 30 |  |
 
@@ -254,7 +260,7 @@
 
 | 77. | TRIGLAV STAR | többnemzeti terepen végrehajtott gyakorlat | Szlovénia | III. | 80 |  |  |
 
-| 78. | TROJAN FOOTPRINT | többnemzeti terepen végrehajtott gyakorlat | Magyarország | II. |  | 100 |  |
+| 78. | TROJAN FOOTPRINT | többnemzeti terepen végrehajtott gyakorlat | Magyarország | II. |  | 200[^8] |  |
 
 | 79. | Tűzszerész felkészítés | tűzszerész felkészítés | NATO- és EU-tagállamok | I–IV. | 80 |  |  |
 
@@ -271,6 +277,26 @@
 | 85. | WARPAINT RIDE | harcászati gyakorlat | Magyarország, USA | I–IV. | 50 | 1500 |  |
 
 | 86. | WISE FORESIGHT román–magyar békefenntartó zászlóalj gyakorlata | harcászati gyakorlat | Magyarország és Románia | III–IV. | 300 | 100 |  |
+
+| 87.[^9] | NORTHERN STAR | többnemzeti harcászati gyakorlat | Finnország | II. | 100 |  |  |
+
+| 88.[^10] | Francia–magyar cserekiképzés | különleges műveleti kiképzés | Franciaország, Magyarország | II–IV. | 120 | 120 |  |
+
+| 89.[^11] | EAGLE EYE | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
+
+| 90.[^12] | APOLLO 26-I. | többnemzeti harcászati gyakorlat | Olaszország | III–IV. | 300 |  |  |
+
+| 91.[^13] | Német–magyar harckocsizó kiképzés | harcászati kiképzés | Németország | III. | 150 |  |  |
+
+| 92.[^14] | RELIABLE LION | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
+
+| 93.[^15] | Leopard 2A7HU tesztlövészet | éleslőszerrel végrehajtott harckocsi tesztlövészet | Németország | IV. | 40 |  |  |
+
+| 94.[^16] | AFTC MUNSTER | többnemzeti harckocsizó harcászati gyakorlat | Németország | III. | 40 |  |  |
+
+| 95.[^17] | INTERNATIONAL HELLENIC TANK CHALLENGE | többnemzeti harckocsizó verseny | Görögország | IV. | 40 |  |  |
+
+| 96.[^18] | TITAN SKY | többnemzeti felderítő gyakorlat | Portugália | II. | 15 |  |  |
 
 3. További gyakorlatokkal és kiképzésekkel kapcsolatos áthaladások
 
@@ -295,3 +321,22 @@
 | 9. | Allied Reaction Force (ARF) és NATO Readiness Initiative (NRI) áthaladási gyakorlatok | I–IV. | 2500 |
 
 | 10. | Combined Joint Chemical, Biological, Radiological and Nuclear Defence Task Force (CJ–CBRND–TF) áthaladási gyakorlatok | I–IV. | 2500 |
+
+[^1]: Az 1. melléklet 1. pontjában foglalt táblázat 1. sora az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat E:34 mezője az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat 42. sorát az 1/2026. (IV. 30.) HM határozat iktatta be.
+[^4]: Az 1. melléklet 1. pontjában foglalt táblázat 43. sorát az 1/2026. (IV. 30.) HM határozat iktatta be.
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat 44. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^6]: Az 1. melléklet 2. pontjában foglalt táblázat 14. sora az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat F:35 mezője az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat F:78 mezője a 2/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^9]: Az 1. melléklet 2. pontjában foglalt táblázat 87. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^10]: Az 1. melléklet 2. pontjában foglalt táblázat 88. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^11]: Az 1. melléklet 2. pontjában foglalt táblázat 89. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^12]: Az 1. melléklet 2. pontjában foglalt táblázat 90. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^13]: Az 1. melléklet 2. pontjában foglalt táblázat 91. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^14]: Az 1. melléklet 2. pontjában foglalt táblázat 92. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat 93. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^16]: Az 1. melléklet 2. pontjában foglalt táblázat 94. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^17]: Az 1. melléklet 2. pontjában foglalt táblázat 95. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^18]: Az 1. melléklet 2. pontjában foglalt táblázat 96. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
