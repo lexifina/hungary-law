@@ -6,7 +6,7 @@
 
 (3)[^89] A viszonylati jegy egy útra, megszakítás nélkül, a megváltáskor megadott járműparaméterek vonatkozásában keletkeztet úthasználati jogosultságot. A viszonylati jegy nem ruházható át, a benne foglalt megváltáskor megadott útvonal és járműparaméterek nem változtathatóak meg.
 
-(4)[^90] A viszonylati jegy a megváltásának időpontjától 120 percig érvényes.
+(4)[^90] A viszonylati jegy a megváltásának időpontjától 300 percig érvényes.
 
 (5)[^91] A viszonylati jegy nem váltható vissza.
 
@@ -14,6 +14,6 @@
 
 [^88]: A 24. § (2) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^89]: A 24. § (3) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^90]: A 24. § (4) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^90]: A 24. § (4) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 77/2026. (III. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^91]: A 24. § (5) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^92]: A 24. § (6) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
