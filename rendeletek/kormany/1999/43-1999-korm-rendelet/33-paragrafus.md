@@ -56,6 +56,8 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 
 (19) A főváros közigazgatási területére belépő és a főváros közigazgatási területéről kiinduló szállítások esetén a (13) bekezdés a) pontja szerint meghatározott távolság – ha az kevesebb, mint 80 km – 1,4-es korrekciós szorzóval kerül kiszámításra.
 
+(19a)[^408] A (19) bekezdésben foglalt kivétellel a (13) bekezdés a) pontjában meghatározott távolság, valamint a (13) bekezdés b) pontjában meghatározott távolság 1,13 korrekciós szorzóval kerül kiszámításra.
+
 (20) Szolgáltatónként, egy aktív gépjármű teljesítményeként havonta legfeljebb átlag 7000 hasznos kilométer, és többlet-férőhelyenként legfeljebb 1400 többletkilométer számolható el. A többletférőhely a gépjármű összes férőhelyeinek – ideértve a gépjárművezető férőhelyét is – kettővel csökkentett száma lehet.
 
 (21) A betegszállítás megrendelője a betegszállítás nem teljesítését, illetve olyan késedelmes teljesítését, mely a beteg állapotának olyan mértékű rosszabbodásához vezetett, hogy ennek következtében a betegszállítás már mentési feladatnak minősült, haladéktalanul köteles írásban jelenteni a NEAK-nak.
@@ -73,3 +75,4 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 [^405]: A 33. § (9) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^406]: A 33. § (12) bekezdés b) pontja a 172/2025. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^407]: A 33. § (18) bekezdése a 172/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^408]: A 33. § (19a) bekezdését a 85/2026. (IV. 23.) Korm. rendelet 2. §-a iktatta be.

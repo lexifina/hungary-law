@@ -8,7 +8,7 @@ b)[^328] 10 és 20 százalék között 20 százalékos
 
 alapdíjjal számolja el.
 
-(1b)[^329] Ha a szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátási teljesítménye – ide nem értve a 27. § (8) bekezdése szerint elszámolt teljesítményt – meghaladja az (1) bekezdés szerint elszámolt teljesítményt, a finanszírozó legfeljebb 4 százalék többletteljesítményt az alapdíj 25 százalékával számol el.
+(1b)[^329] Ha a szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátási teljesítménye – ide nem értve a 27. § (8) bekezdése szerint elszámolt teljesítményt – meghaladja az (1) bekezdés szerint elszámolt teljesítményt, a finanszírozó legfeljebb 10 százalék többletteljesítményt az alapdíj 30 százalékával számol el.
 
 (1c)[^330]
 
@@ -29,7 +29,7 @@ alapdíjjal számolja el.
 [^326]: A 28. § (1a) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, nyitó szövegrésze a 697/2020. (XII. 29.) Korm. rendelet 27. § g) pontja, a 293/2024. (X. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^327]: A 28. § (1a) bekezdés a) pontja az 519/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^328]: A 28. § (1a) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 29. § a) pontja hatályon kívül helyezte, újonnan az 519/2013. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
-[^329]: A 28. § (1b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 277/2021. V. 26.) Korm. rendelet 10. §-ával megállapított, a 293/2024. (X. 9.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^329]: A 28. § (1b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 10. §-ával megállapított, a 293/2024. (X. 9.) Korm. rendelet 3. § c) pontja, a 85/2026. (IV. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^330]: A 28. § (1c) bekezdését a 124/2015. (V. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § b) pontja.
 [^331]: A 28. § (1d) bekezdését a 124/2015. (V. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § b) pontja.
 [^332]: A 28. § (1e) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § b) pontja.

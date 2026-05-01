@@ -1,4 +1,4 @@
-48/D. §[^543] (1) A CKF2 program egy bevonási és egy követési, valamint egy kiértékelési időszakot foglal magában. A bevonási időszak 2024. november 15-től 2025. október 31-ig tart, amely időszak alatt bármikor bevonásra kerülhet a beteg a jelentett esemény függvényében. A követési időszak 2025. november 1-től 2026. október 31-ig tart, amely időszak során a bevont betegek ellátásának monitorozása és szükség szerinti kezelése történik. A kiértékelési időszak 2026. november 1-től 2026. december 31-ig tart, amely időszak alatt a projekt eredményességének értékelése történik.
+48/D. §[^544] (1) A CKF2 program egy bevonási és egy követési, valamint egy kiértékelési időszakot foglal magában. A bevonási időszak 2024. november 15-től 2025. október 31-ig tart, amely időszak alatt bármikor bevonásra kerülhet a beteg a jelentett esemény függvényében. A követési időszak 2025. november 1-től 2026. október 31-ig tart, amely időszak során a bevont betegek ellátásának monitorozása és szükség szerinti kezelése történik. A kiértékelési időszak 2026. november 1-től 2026. december 31-ig tart, amely időszak alatt a projekt eredményességének értékelése történik.
 
 (2) A CKF2 programban a bevonás időszakában a NEAK a 40. számú melléklet szerinti tüdőgondozókból, pulmonológiai szakrendelésekről és aktív tüdőosztályokról beérkező finanszírozási jelentések alapján kiválogatja a COPD fődiagnózissal (BNO J43–44) jelentett eseteket, és ezeket a betegeket lakóhelyük alapján a területi ellátási kötelezettséggel bíró tüdőgondozóhoz rendeli. A CKF2 programba – szakmai szempontok figyelembevételével – valamennyi ily módon kiválogatott beteg bevonásra kerül.
 
@@ -18,4 +18,4 @@
 
 (10) A CKF2 program lezárulta után a beteg záró kontrolljáról és értékeléséről a program szakmai vezetője szakmai összefoglalót küld a finanszírozó számára a kiértékelési időszakot követő második hónap 30. napjáig.
 
-[^543]: A 48/D. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 311/2024. (XI. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^544]: A 48/D. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 311/2024. (XI. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
