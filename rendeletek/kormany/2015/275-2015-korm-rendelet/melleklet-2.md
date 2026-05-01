@@ -36,7 +36,7 @@
 
 | 18. | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult | jogosult |
 
-2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^50]
+2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^52]
 
 Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket megillető juttatások
 
@@ -68,4 +68,4 @@ Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket me
 
 (X. 2.) Korm. rendelet szerinti ellátotti körbe tartozik a munkáltató szerv.
 
-[^50]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja, az 57/2024. (III. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^52]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja, az 57/2024. (III. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.

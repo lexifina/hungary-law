@@ -1,3 +1,3 @@
-15. §[^46]
+15. §[^48]
 
-[^46]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 6. § (5) bekezdése újból hatályon kívül helyezte.
+[^48]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 6. § (5) bekezdése újból hatályon kívül helyezte.
