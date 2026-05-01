@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-145-00-00
 | 2021-01-02 | 2010. évi CXXX. törvény | 2020-145-00-00.2 |
 | 2021-01-03 | 2010. évi CXXX. törvény | 2020-145-00-00.3 |
 | 2025-09-01 | 2025. évi LVI. törvény | 2020-145-00-00.4 |
+| 2026-05-01 | 2025. évi CXXIII. törvény | 2020-145-00-00.5 |
