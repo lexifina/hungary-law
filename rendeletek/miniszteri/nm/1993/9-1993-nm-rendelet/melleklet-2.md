@@ -14,6 +14,12 @@
 
 ## 06005 vedolizumab
 
+## 06084 upadacitinib
+
+## 06083 rizankizumab
+
+## 06074 guszelkumab
+
 ## 1/a2.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -27,6 +33,12 @@
 ## 06056 ustekinumab
 
 ## 06005vedolizumab
+
+## 06084 upadacitinib
+
+## 06083 rizankizumab
+
+## 06074 guszelkumab
 
 ## 1/b1.
 
@@ -66,6 +78,16 @@
 
 ## 06096 ozanimod
 
+## 06100 filgotinib
+
+## 06084 upadacitinib
+
+## 06101 mirikizumab
+
+## 06083 rizankizumab
+
+## 06074 guszelkumab
+
 ## 3.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -81,6 +103,10 @@
 ## 06070 tofacitinib
 
 ## 06084 upadacitinib
+
+## 06095 bimekizumab
+
+## 06068 ixekizumab
 
 ## 4.
 
@@ -104,6 +130,8 @@
 
 ## 06083 rizankizumab
 
+## 06095 bimekizumab
+
 ## 5.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -126,6 +154,8 @@
 
 ## 06095 bimekizumab
 
+## 06111 deukravacitinib
+
 ## 5/a1.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -140,6 +170,8 @@
 
 ## 06097 abrocitinib
 
+## 06126 dupilumab
+
 ## 5/a2.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -149,6 +181,38 @@
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06084 upadacitinib
+
+## 06126 dupilumab
+
+## 5/a3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Közepesen súlyos, illetve súlyos (EASI ≥21,1 vagy IGA ≥3 és DLQI >10) atópiás dermatitisz kezelésére olyan 6 hónapos és betöltött 12 éves kor közötti gyermekeknél, akiket szisztémás kezelésre jelöltek.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06126 dupilumab
+
+## 5/b.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Olyan primér, kétoldali, diffúz orrpolippal járó CRS-szes (CRSwNP) betegek részére, aki korábban legalább egyszer endoszkópos orr- és melléküregműtéten (ESS) átestek (kivétel, ha a műtét kontraindikált), valamint legalább fél éve alkalmaznak naponkénti orrirrigációt sóoldattal és intranazális kortikoszteroidot, valamint az alábbi öt feltétel közül legalább háromnak megfelelnek:
+
+## 1. Szisztémás szteroidigény áll fenn (>2x/év vagy három hónapos kisdózisú szteroidot kap, vagy a szisztémás szteroid kontraindikált);
+
+## 2. A Sino-Nasal Outcome Test-22 (SNOT22) több, mint 40 pontot értek el;
+
+## 3. Szaglásteszttel igazolt hyposmia/anosmia, és a szaglásscore ≥ 2 (három pontos skálán);
+
+## 4. Fennálló asthma bronchiale (folyamatos inhalatív szteroidigény);
+
+## 5. Igazolt 2-es típusú gyulladás (eozinofil sejtszám szérumban ≥150 vagy szövetben/kenetben ≥ 10/látómező vagy szérum össz-IgE ≥ 100 IU/ml vagy asthma bronchiale és NERD együttes fennállása).
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06126 dupilumab
 
 ## 6/a1.
 
@@ -173,6 +237,8 @@
 ## 06084 upadacitinib
 
 ## 06058 rituximab
+
+## 06100 filgotinib
 
 ## 6/a2.
 
@@ -207,6 +273,16 @@
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06058 rituximab
+
+## 6/e.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Kiegészítő kezelésként a közepesen súlyos vagy súlyos, a standard terápia ellenére aktív, autoantitest-pozitív szisztémás lupus erythematosusban (SLE) szenvedő betegek kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06122 anifrolumab
 
 ## 7/a. pont
 
@@ -306,17 +382,21 @@
 
 ## 06062 obinutuzumab
 
-## 7/b9. pont
+## 7/b9.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## 17p delécióval vagy TP53 mutációval rendelkező, vagy IGVH mutációval nem rendelkező allogén transzplantációra alkalmatlan krónikus lymphoid leukemiaban szenvedő betegek esetén, valamint azon betegek részére, akiknél legalább két immunokemoterápiás kezelést követően a relapszus vagy progresszió 12 hónapon belül következik be.
+## Krónikus lymphocytás leukaemia (CLL) kezelésére felnőtt betegeknél, a 2/C. § (2) bekezdés szerinti intézményi kvóta kiközlésekor meghatározott finanszírozási rendelkezés szerint.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06028 ibrutinib
 
+## 06078 venetoklax
+
 ## 06088 akalabrutinib
+
+## 06112 zanubrutinib
 
 ## 7/b10. pont
 
@@ -327,6 +407,8 @@
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06028 ibrutinib
+
+## 06123 pirtobrutinib
 
 ## 7/b11. pont
 
@@ -340,37 +422,9 @@
 
 ## 06063 brentuximab vedotin
 
-## 7/b12. pont
+## 7/b12.
 
-## TÁMOGATOTT INDIKÁCIÓK:
-
-## Olyan 17p delécióval vagy TP53 mutációval nem rendelkező krónikus lymphoid leukémiában (CLL) szenvedő betegek esetén, akiknél egy kezelési ciklust követően relapszus vagy progresszió következik be.
-
-## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
-
-## 06028 ibrutinib
-
-## 06088 akalabrutinib
-
-## 7/b13. pont
-
-## TÁMOGATOTT INDIKÁCIÓK:
-
-## - Rituximabbal kombinálva olyan krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére, akik korábban már legalább egy kezelésben részesültek.
-
-## - Monoterápiaként krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére
-
-## ● akik 17p deléciót vagy TP53 mutációt hordozók, és akiknél a B-sejt receptor jelút gátlás nem alkalmazható, vagy az eredménytelen volt; vagy
-
-## ● akik 17p deléciót vagy TP53 mutációt nem hordozók és akiknél az immuno-kemoterápia és a B-sejt receptor jelút gátlás is eredménytelen volt.
-
-## A kezelés a betegség progressziójáig, vagy addig folytatható, ameddig a beteg a kezelést tolerálja.
-
-## - Obinutuzumabbal kombinálva, korábban nem kezelt krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére.
-
-## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
-
-## 06078 venetoklax
+## 7/b13.
 
 ## 7/b14. pont
 
@@ -414,6 +468,26 @@
 
 ## 06078 venetoklax
 
+## 7/b18.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Philadelphia-kromoszóma-negatív, CD19-pozitív, éretlen B-sejtes ALL-ben szenvedő, olyan 1 hónaposnál idősebb betegek monoterápiában alkalmazott kezelésére, akiknél a kemoterápiás kezelés után legalább 10-4 szintű maradék reziduális betegség (MRD) áll fenn, vagy a kemoterápiás kezelésre intoleránsak.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06106 blinatumomab
+
+## 7/b19.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Monoterápiában Waldenström-féle makroglobulinaemiában (WM) szenvedő, legalább egy korábbi kezelésen átesett felnőtt betegek kezelésére, vagy kemo-immunterápiára alkalmatlan betegek első vonalbeli kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06112 zanubrutinib
+
 ## 7/d1.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -444,6 +518,8 @@
 
 ## 06022 afatinib
 
+## 06049 osimertinib
+
 ## 8/a6. pont
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -469,6 +545,8 @@
 ## 06025 pembrolizumab
 
 ## 06018 ipilimumab
+
+## 06119 tiszlelizumab
 
 ## 8/a8.
 
@@ -516,6 +594,8 @@
 
 ## 06025 pembrolizumab
 
+## 06119 tiszlelizumab
+
 ## 8/a12.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -527,6 +607,30 @@
 ## 06019 dabrafenib
 
 ## 06007 trametinib
+
+## 8/a13.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Etopoziddal és platina alapú kemoterápiával kombinálva elsővonalbeli kezelésként felnőtteknél kiterjedt stádiumú kissejtes tüdőrák (ES-SCLC – extensive-stage small cell lung cancer) kezelésére, a finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06002 atezolizumab
+
+## 06048 durvalumab
+
+## 06118 szerplulimab
+
+## 8/a14.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Platinaalapú kemoterápiával kombinálva, olyan reszekálható, nem kissejtes tüdőcarcinomában szenvedő felnőtt betegek neoadjuváns kezelésére, akiknél magas a kiújulás kockázata, és akiknél a daganat ≥ 1%-ban mutat PD-L1 expressziót.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
 
 ## 8/b.
 
@@ -568,29 +672,31 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## HER2 génamplifikációt mutató metasztatikus emlőcarcinoma kezelésére, amennyiben antraciklin, taxán és metasztatikus kezelésben alkalmazott trastuzumab kezelés után progresszió lép fel. A kezelés progresszióig folytatható.
-
-## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
-
-## 06061 lapatinib
-
-## 06009 trastuzumab emtanzine
-
-## 8/c4.
-
-## TÁMOGATOTT INDIKÁCIÓK:
-
-## Trasztuzumabbal és docetaxellel kombinálva olyan HER2-pozitív metasztatikus vagy lokálisan kiújuló, inoperábilis emlőkarcinómában szenvedő felnőtt betegek kezelésére, akik metasztatikus betegségük kezelésére korábban még nem részesültek HER2-ellenes kezelésben vagy kemoterápiában
+## HER2 génamplifikációt vagy expressziót mutató emlőcarcinoma kezelésére, a finanszírozási eljárásrend szerint.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06008 pertuzumab
 
+## 06010 trastuzumab
+
+## 06061 lapatinib
+
+## 06009 trastuzumab emtanzine
+
+## 06102 trasztuzumab deruxtekán
+
+## 06109 tukatinib
+
+## 06810 pertuzumab és trastuzumab
+
+## 8/c4.
+
 ## 8/c5.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Kemoterápiával kombinációban olyan lokálisan kiújuló, nem reszekábilis, vagy metasztatizáló, tripla negatív emlőrákban szenvedő felnőttek kezelésére, akiknél a daganat CPS ≥10 pontszám mellett expresszál PD-L1-et, és akik a nem reszekábilis vagy metasztatikus betegség kezelésére korábban nem kaptak kemoterápiás kezelést.
+## Tripla negatív emlőkarcinómában szenvedő felnőttek kezelésére a finanszírozási eljárásrend alapján.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -679,6 +785,26 @@
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06024 nivolumab
+
+## 8/d7.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Platina- és fluoropirimidintartalmú kemoterápiával kombinációban olyan lokálisan előrehaladott nem reszekábilis vagy metasztatizáló nyelőcső-carcinomában szenvedő felnőttek első vonalbeli kezelésére, akiknél a daganat CPS ≥ 10 pontszám mellett expresszál PD-L1-et.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06025 pembrolizumab
+
+## 8/d8.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Platinaalapú kemoterápiával kombinálva olyan nem reszekálható, lokálisan előrehaladott vagy metasztatizáló laphámsejtes nyelőcső-carcinomában szenvedő felnőtt betegek első vonalbeli kezelésére, akiknél a tumor a PD-L1-et TAP pontszám ≥5% értékkel expresszálja, vagy monoterápiában alkalmazva korábbi platinaalapú kemoterápiát követően.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06119 tiszlelizumab
 
 ## 8/e2.1.
 
@@ -841,6 +967,28 @@
 ## sb) Transzamináz több, mint a normál felső határ ötszöröse
 
 ## sc) Bilirubin több, mint a normál felső határ másfélszerese
+
+## 8/e2.4.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Monoterápiában a mismatch repair deficiens (dMMR) vagy magas mikroszatellita-instabilitású (MSI-H), metasztatikus colorectalis carcinomában szenvedő felnőtt betegek első vonalbeli kezelése, a finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06025 pembrolizumab
+
+## 8/e2.5.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Kombinációban a mismatch repair deficiens (dMMR) vagy magas mikroszatellita-instabilitású (MSI-H), nem reszekábilis vagy metasztatikus colorectalis carcinomában szenvedő felnőtt betegek első vonalbeli kezelésére a finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## 06018 ipilimumab
 
 ## 8/e3.1.
 
@@ -1024,17 +1172,39 @@
 
 ## 06024 nivolumab
 
+## 8/f2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Fluoropirimidin- és platinatartalmú kemoterápiával vagy trasztuzumab-, fluoropirimidin- és platinatartalmú kemoterápiával kombinációban olyan lokálisan előrehaladott nem reszekábilis vagy metasztatizáló, a gyomor vagy a gastrooesophagealis junctio területén kialakult adenocarcinomában szenvedő felnőttek első vonalbeli kezelésére, akiknél a daganat CPS ≥ 1 pontszám mellett expresszál PD-L1-et, a finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06025 pembrolizumab
+
+## 8/f3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Platina- és fluoropirimidin-alapú kemoterápiával kombinálva olyan HER-2 negatív, lokálisan előrehaladott, nem reszekálható vagy metasztatizáló gyomor- vagy gyomor-nyelőcső átmenet (G/GEJ) adenocarcinomában szenvedő felnőtt betegek első vonalbeli kezelésére, akiknél a tumor a PD-L1-et tumorterület pozitivitás (TAP) pontszám ≥5% értékkel expresszálja.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06119 tiszlelizumab
+
 ## 8/g.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Előrehaladott vesesejtes carcinoma kezelésére felnőtteknél, a finanszírozási eljárásrendben foglaltaknak megfelelően.
+## Vesesejtes carcinómában szenvedő felnőttek kezelésére a finanszírozási eljárásrend alapján.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06024 nivolumab
 
 ## 06018 ipilimumab
+
+## 06025 pembrolizumab
 
 ## 8/h pont
 
@@ -1056,11 +1226,21 @@
 
 ## 06093 avelumab
 
-## 8/j.
+## 8/i2.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Előrehaladott (FIGO III. és IV. stádium), BRCA1/2-mutációt hordozó (csíravonal és/vagy szomatikus), vagy újonnan diagnosztizált HRD pozitív, high grade epithelialis ovarium, petevezeték vagy primer peritonealis carcinomában szenvedő, felnőtt betegek fenntartó kezelésére, akik aplatina-alapú kemoterápia befejezése után reagálnak a terápiára (teljes vagy részleges remisszió).
+## Ciszplatinnal és gemcitabinnal kombinációban alkalmazva nem reszekábilis vagy metasztatikus urotheliális carcinoma elsővonalbeli kezelésére felnőtt betegeknél. A nivolumab-kezelés a betegség progressziójáig, elfogadhatatlan toxicitásig, illetve az első dózistól számított legfeljebb 24 hónapig adandó, a finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## 8/j1.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Előrehaladott (FIGO III. és IV. stádium), BRCA1/2-mutációt hordozó (csíravonal és/vagy szomatikus), vagy újonnan diagnosztizált HRD pozitív, high grade epithelialis ovarium, petevezeték vagy primer peritonealis carcinomában szenvedő, felnőtt betegek fenntartó kezelésére, akik a platina-alapú kemoterápia befejezése után reagálnak a terápiára (teljes vagy részleges remisszió).
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -1069,6 +1249,16 @@
 ## 06036 bevacizumab
 
 ## 06094 niraparib
+
+## 8/j2.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Bevacizumabbal vagy anélkül adva, kemoterápiával kombinálva olyan perzisztens, kiújuló vagy metasztatizáló cervix carcinomában szenvedő felnőttek kezelésére, akiknél a daganat CPS ≥ 1 pontszám mellett expresszál PD-L1-et.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06025 pembrolizumab
 
 ## 8/k.
 
@@ -1093,6 +1283,8 @@
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06042 alteplase
+
+## 06124 tenekteplase
 
 ## 9/b.
 
@@ -1142,6 +1334,10 @@
 
 ## 06032 agalsidase alfa
 
+## 06103 migalastat hydrochloride
+
+## 06120 pegunigalsidase- alfa
+
 ## 12.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -1184,7 +1380,13 @@
 
 ## 06007 trametinib
 
-## 14/a pont
+## 06104 nivolumab és relatlimab
+
+## 06105 encorafenib
+
+## 06110 binimetinib
+
+## 14/a1.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
@@ -1200,6 +1402,14 @@
 
 ## 06007 trametinib
 
+## 14/a2.
+
+## Monoterápiában a IIB vagy IIC stádiumú melanomában szenvedő, teljes tumor-reszekción átesett felnőttek adjuváns kezelésére.
+
+## 06024 nivolumab
+
+## 06025 pembrolizumab
+
 ## 15/b. pont
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -1210,8 +1420,32 @@
 
 ## 06017 rádium-223-diklorid
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^137]
+## 16.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## 5q spinalis muscularis atrophiában (SMA) szenvedő betegek kezelésére, a Ritka Betegségek Tanácsadó Testületének véleménye alapján a 2/C. § (2) bekezdés szerinti intézményi kvóta kiközlésekor meghatározott finanszírozási rendelkezés szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06108 onaszemnogen abeparvovek
+
+## 06107 nusinerszen
+
+## 06121 riszdiplám
+
+## 17.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Hemopoetikusőssejt-transzplantációban (HSCT) vagy szolidszerv-transzplantációban (SOT) részesült felnőttek citomegalovírus (CMV)-fertőzésének kezelésére, amely egy vagy több korábbi terápiára – beleértve a ganciklovir-, valganciklovir-, cidofovir- vagy foszkarnet-terápiát – refrakternek bizonyult (rezisztenciával vagy anélkül).
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06125 maribavir
+
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^142]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^137]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30.) EMMI rendelet 1. § (1)–(2) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a, az 51/2021. (XII. 10.) EMMI rendelet 1. §-a, az 58/2021. (XII. 27.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (3) bekezdése, a 32/2022. (IX. 22.) BM rendelet 2. § (2) bekezdése, a 33/2023. (VIII. 24.) BM rendelet 1. §-a, a 34/2023. (VIII. 24.) BM rendelet 2. § (1) bekezdése, a 70/2023. (XII. 23.) BM rendelet 1. § (1) bekezdése, a 41/2024. (IX. 5.) BM rendelet 1. § (2) bekezdése, az 55/2024. (XII. 11.) BM rendelet 3. § (2) bekezdése, a 10/2025. (IV. 4.) BM rendelet 2. § (2) bekezdése, 3. § a) pontja és 5. § b)–d) pontja, a 28/2025. (VII. 24.) BM rendelet 1. § (1) bekezdése, a 33/2025. (VIII. 13.) BM rendelet 2. §-a, a 46/2025. (XI. 28.) BM rendelet 2. §-a, a 47/2025. (XII. 3.) BM rendelet 2. §-a, a 48/2025. (XII. 8.) BM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^142]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30.) EMMI rendelet 1. § (1)–(2) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a, az 51/2021. (XII. 10.) EMMI rendelet 1. §-a, az 58/2021. (XII. 27.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (3) bekezdése, a 32/2022. (IX. 22.) BM rendelet 2. § (2) bekezdése, a 33/2023. (VIII. 24.) BM rendelet 1. §-a, a 34/2023. (VIII. 24.) BM rendelet 2. § (1) bekezdése, a 70/2023. (XII. 23.) BM rendelet 1. § (1) bekezdése, a 41/2024. (IX. 5.) BM rendelet 1. § (2) bekezdése, az 55/2024. (XII. 11.) BM rendelet 3. § (2) bekezdése, a 10/2025. (IV. 4.) BM rendelet 2. § (2) bekezdése, 3. § a) pontja és 5. § b)–d) pontja, a 28/2025. (VII. 24.) BM rendelet 1. § (1) bekezdése, a 33/2025. (VIII. 13.) BM rendelet 2. §-a, a 46/2025. (XI. 28.) BM rendelet 2. §-a, a 47/2025. (XII. 3.) BM rendelet 2. §-a, a 48/2025. (XII. 8.) BM rendelet 1. § (2) bekezdése, a 13/2026. (IV. 23.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.

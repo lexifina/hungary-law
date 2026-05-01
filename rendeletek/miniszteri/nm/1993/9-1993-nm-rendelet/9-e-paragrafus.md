@@ -1,4 +1,4 @@
-9/E. §[^86] (1) A rehabilitáció kezdő időpontja az adott szolgáltatónál végzett rehabilitációs ellátási program szerinti nappali ellátáshoz tartozó első rehabilitációs ellátási esemény első kezelési napja.
+9/E. §[^88] (1) A rehabilitáció kezdő időpontja az adott szolgáltatónál végzett rehabilitációs ellátási program szerinti nappali ellátáshoz tartozó első rehabilitációs ellátási esemény első kezelési napja.
 
 (2) A rehabilitációs ellátási program szerinti nappali ellátás időtartama a rehabilitáció kezdő napja és a rehabilitáció befejezésének utolsó napja között eltelt valamennyi hivatalos munkarend szerinti munkanap.
 
@@ -12,4 +12,4 @@
 
 (7) A maximális kezelési napok száma a NEPCs-re meghatározott felső határnapon belül elvégezhető kezelési napok maximális száma.
 
-[^86]: A 9/E. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
+[^88]: A 9/E. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
