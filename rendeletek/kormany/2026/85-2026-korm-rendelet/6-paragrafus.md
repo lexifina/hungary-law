@@ -1,3 +1,1 @@
-6. §[^10]
-
-[^10]: A 6. § a 7. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
+6. § A Kr. 28. § (1b) bekezdésében a „legfeljebb 4 százalék többletteljesítményt az alapdíj 25 százalékával” szövegrész helyébe a „legfeljebb 10 százalék többletteljesítményt az alapdíj 30 százalékával” szöveg lép.
