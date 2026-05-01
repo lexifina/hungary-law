@@ -1,3 +1,7 @@
-4. §[^4]
+4. § Hatályát veszti az R1. 1/A. számú melléklet
 
-[^4]: A 4. § a 8. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
+a) 7/b12. pontja,
+
+b) 7/b13. pontja,
+
+c) 8/c4. pontja.

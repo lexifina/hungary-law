@@ -12,6 +12,8 @@
 
 ## 1. Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet módosítása
 
-1. §[^1]
+1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) 2/B. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
 
-[^1]: Az 1. § a 8. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
+„(3a) Ha új tételes elszámolás alá eső hatóanyag vagy korábban már tételes elszámolás alá eső hatóanyag új vagy módosított indikációja kerül kihirdetésre, ezek vonatkozásában az elszámolásra jogosult intézetek körét a NEAK az (1) bekezdés szerinti közleményben teszi közzé. Az elszámolásra jogosult intézet a hatóanyag tételes elszámolás keretében történő alkalmazhatóságától jogosult az elszámolásra.
+
+(3b) A NEAK a (3a) bekezdés szerinti intézményi kör megállapítása érdekében az új tételes elszámolás alá eső hatóanyag vagy korábban már tételes elszámolás alá eső hatóanyag új vagy módosított indikációjának kihirdetését követően kérelmében továbbítja az egészségbiztosításért felelős miniszter részére a befogadási eljárás során az egészségügyi szakmai kollégium által javasolt elszámolásra jogosult intézetek körét. Az egészségbiztosításért felelős miniszter a kérelem kézhezvételét követő 15 napon belül értesíti a NEAK-ot az intézményi körre vonatkozó döntéséről, amelyet a NEAK 15 napon belül közleményében közzétesz.”

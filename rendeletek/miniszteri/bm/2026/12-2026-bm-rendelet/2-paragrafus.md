@@ -1,3 +1,3 @@
-2. §[^2]
+2. § Az R1. a következő 38. §-sal egészül ki:
 
-[^2]: A 2. § a 8. § (2) bekezdése alapján 2026. május 1-jén lép hatályba.
+„38. § Az egyes gyógyszerek társadalombiztosítási támogatásáról szóló 12/2026. (IV. 17.) BM rendelettel (a továbbiakban: Módr7.) módosított 1/A. számú melléklet rendelkezéseit azon hatóanyagok vonatkozásában, amelyek a Módr7.-tel módosított 1/A. számú melléklet hatálybalépése előtt nem tartoztak a tételes elszámolás alá eső hatóanyagok körébe, az érintett hatóanyag természetben történő biztosítása érdekében lefolytatott eredményes közbeszerzési eljárás eredményeként megkötésre kerülő szerződés hatálybalépésétől, de legkésőbb a Módr7.-tel módosított 1/A. számú melléklet hatálybalépését követő negyedik hónap első napjától kell alkalmazni.”
