@@ -1,0 +1,1 @@
+9. § Az e rendelet hatálybalépését megelőzően megkötött, 4. § (1) bekezdése szerinti szerződéseket 2026. május 15-ig a szolgáltatók kötelesek felülvizsgálni és módosítani az e rendeletnek való megfelelés érdekében, azzal az eltéréssel, hogy az e rendelet hatálybalépésétől a 3. § (1) bekezdésében foglalt kényelmi díjat nem lehet felszámolni a végfelhasználó számára.
