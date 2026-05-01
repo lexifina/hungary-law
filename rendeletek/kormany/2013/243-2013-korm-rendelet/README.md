@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-243-20-
 | 2015-01-01 | 2013-243-20-22.2 | 361/2014. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2013-243-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2021-01-01 | 2013-243-20-22.4 | 665/2020. (XII. 28.) Korm. rendelet |
+| 2026-05-01 | 2013-243-20-22.5 | 77/2026. (III. 27.) Korm. rendelet |

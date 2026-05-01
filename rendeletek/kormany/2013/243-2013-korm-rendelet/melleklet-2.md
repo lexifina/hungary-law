@@ -1,9 +1,3 @@
-## Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti mezőgazdasági tevékenységek
+2. melléklet a 243/2013. (VI. 30.) Korm. rendelethez[^9]
 
-## 011101 Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése m.n.s.
-
-## 011201 Rizstermesztés
-
-## 011301 Zöldségféle, dinnye, gyökér-, gumósnövény termesztése m.n.s.
-
-2. melléklet a 243/2013. (VI. 30.) Korm. rendelethez
+[^9]: A 2. mellékletet a 77/2026. (III. 27.) Korm. rendelet 6. §-a hatályon kívül helyezte.
