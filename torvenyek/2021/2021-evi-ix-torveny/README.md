@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-9-00-00
 | 2025-06-27 | 2025. évi LII. törvény | 2021-9-00-00.20 |
 | 2025-09-26 | 2025. évi LIII. törvény | 2021-9-00-00.22 |
 | 2025-12-17 | 2025. évi XCV. törvény | 2021-9-00-00.23 |
+| 2026-05-01 | 2025. évi XCV. törvény | 2021-9-00-00.27 |

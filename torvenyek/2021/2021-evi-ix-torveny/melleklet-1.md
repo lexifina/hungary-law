@@ -98,11 +98,11 @@ c) tehetséggondozó programok működésének támogatása,
 
 1. feltörekvő és már ma is világhírű hazai és külföldi kutatók Magyarországra vonzása és hosszútávú beágyazása a hazai egyetemi-kutatóintézeti ökoszisztémába, megtartva nemzetközi kapcsolatrendszerüket és intézményi kapcsolódásaikat;
 
-2. az élettelen és élő természettudományok, különösen a matematikai, fizikai és informatikai területek tehetségeinek beazonosítása és tehetséggondozásuk a hazai és nemzetközi versenyekre való felkészítéstől kezdve,
+2. az élettelen és élő természettudományok, különösen a matematikai, fizikai és informatikai területek tehetségeinek beazonosítása és tehetséggondozásuk a hazai és nemzetközi versenyekre való felkészítéstől kezdve, a kutatási és innovatív vállalkozói pályára való felkészítésen át, a doktori fokozat megszerzésén túli mentorálásig;
 
-a kutatási és innovatív vállalkozói pályára való felkészítésen át, a doktori fokozat megszerzésén túli mentorálásig;
+3. a tudásközpontokban születő tudományos eredmények innovatív magyar technológiai kisvállalatok keretében történő piacra vitelének elősegítése,
 
-3. a tudásközpontokban születő tudományos eredmények innovatív magyar technológiai kisvállalatok keretében történő piacra vitelének elősegítése.
+4. a betegségek megelőzését segítő – kiemelten lézeres egészségügyi adatelemzésen és mesterséges intelligencián alapuló – technológiákhoz kapcsolódó kutatások végzése, valamint az ehhez szükséges humánbiológiai minták gyűjtéséhez és tárolásához szükséges biobanki környezet kialakítása és működtetése.
 
 |
 
@@ -514,7 +514,7 @@ a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, t
 
 b) rászorultsági alapú támogatás biztosítása,
 
-4. a betegségek megelőzését segítő – kiemelten lézeres egészségügyi adatelemzésen és mesterséges intelligencián alapuló – technológiákhoz kapcsolódó kutatások végzése, valamint az ehhez szükséges humánbiológiai minták gyűjtéséhez és tárolásához szükséges biobanki környezet kialakítása és működtetése
+c) tehetséggondozó programok működésének támogatása.
 
 |
 
