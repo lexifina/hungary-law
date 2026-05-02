@@ -1,1 +1,1 @@
-19. § Az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló 2020. évi CXLV. törvény 9. § (2) bekezdésében a „(3)–(5) bekezdésben” szövegrész helyébe a „(3)–(10) bekezdésben” szöveg lép.
+### 19. §
