@@ -8,6 +8,6 @@
 
 ## 1. Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet módosítása
 
-1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) a következő 38. §-sal egészül ki:
+1. §[^2]
 
-„38. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet és a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosításáról szóló 13/2026. (IV. 23.) BM rendelettel megállapított 2., 3. és 15. számú mellékletben foglaltakat a 2026. március havi teljesítmények elszámolásától kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
