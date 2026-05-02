@@ -1,1 +1,3 @@
-4. § A 243/2013. (VI. 30.) Korm. rendelet 3. melléklete helyébe az 1. melléklet lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

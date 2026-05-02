@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 243/2013. (VI. 30.) Korm. rendelet 1. és 2. melléklete.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
