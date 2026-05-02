@@ -1,7 +1,3 @@
-4. § Hatályát veszti az R1. 1/A. számú melléklet
+4. §[^5]
 
-a) 7/b12. pontja,
-
-b) 7/b13. pontja,
-
-c) 8/c4. pontja.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
