@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-85-20-2
 | 2026-04-24 | 2026-85-20-22.1 | 85/2026. (IV. 23.) Korm. rendelet |
 | 2026-04-25 | 2026-85-20-22.2 | 2010. évi CXXX. törvény |
 | 2026-05-01 | 2026-85-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-05-02 | 2026-85-20-22.4 | 2010. évi CXXX. törvény |

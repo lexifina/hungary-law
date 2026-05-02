@@ -1,1 +1,3 @@
-6. § A Kr. 28. § (1b) bekezdésében a „legfeljebb 4 százalék többletteljesítményt az alapdíj 25 százalékával” szövegrész helyébe a „legfeljebb 10 százalék többletteljesítményt az alapdíj 30 százalékával” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
