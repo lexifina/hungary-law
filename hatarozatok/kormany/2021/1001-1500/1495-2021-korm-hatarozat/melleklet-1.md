@@ -33,4 +33,4 @@
 [^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
 [^2]: A 6. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 7. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
-[^4]: Az 1. melléklet az 1610/2023. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet az 1610/2023. (XII. 23.) Korm. határozat 1. pontjával megállapított, az 1135/2026. (V. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
