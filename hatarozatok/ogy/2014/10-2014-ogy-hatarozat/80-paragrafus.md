@@ -8,15 +8,15 @@
 
 ## 56. A határozati javaslat tárgyalása
 
-80. § (1)[^180] A határozati javaslat tárgyalására a 31–58. §-t, a 60–72. §-t az ezen alcímben foglalt eltérésekkel kell megfelelően alkalmazni.
+80. § (1)[^183] A határozati javaslat tárgyalására a 31–58. §-t, a 60–72. §-t az ezen alcímben foglalt eltérésekkel kell megfelelően alkalmazni.
 
 (2) Az Országgyűlés határozatait a házelnök és a soros jegyzők írják alá.
 
 (3) A zárt ülésen hozott határozat közzétételéről az Országgyűlés esetenként, vita nélkül dönt.
 
-(4)[^181] Az Országgyűlés vita nélkül elrendelheti egyedi határozatának hivatalos lapban való közzétételét.
+(4)[^184] Az Országgyűlés vita nélkül elrendelheti egyedi határozatának hivatalos lapban való közzétételét.
 
 (5) A határozat hivatalos lapban való közzétételéről a házelnök gondoskodik.
 
-[^180]: A 80. § (1) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 14. pontja szerint módosított szöveg.
-[^181]: A 80. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 41. §-ával megállapított szöveg.
+[^183]: A 80. § (1) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 14. pontja szerint módosított szöveg.
+[^184]: A 80. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 41. §-ával megállapított szöveg.

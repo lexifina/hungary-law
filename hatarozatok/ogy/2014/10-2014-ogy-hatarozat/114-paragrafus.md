@@ -6,6 +6,6 @@
 
 (3) A bizottság a hozzászólások időtartamát képviselőcsoportonként, illetve bizottsági tagonként azonos időtartamra korlátozhatja.
 
-(4)[^220] Ha a bizottsági tagok legalább egyötöde írásban bizottsági meghallgatást kezdeményez, a bizottság a meghallgatás megtartásáról és annak tervezett időpontjáról a kezdeményezést követő harminc napon belül előzetesen állást foglal. A határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
+(4)[^223] Ha a bizottsági tagok legalább egyötöde írásban bizottsági meghallgatást kezdeményez, a bizottság a meghallgatás megtartásáról és annak tervezett időpontjáról a kezdeményezést követő harminc napon belül előzetesen állást foglal. A határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
 
-[^220]: A 114. §. (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 54. §-ával megállapított szöveg.
+[^223]: A 114. §. (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 54. §-ával megállapított szöveg.

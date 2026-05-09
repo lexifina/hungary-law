@@ -1,12 +1,12 @@
 126. § (1) A képviselőcsoport vezetőjének 125. § (2) bekezdése szerinti bejelentése alapján azonnali kérdést első körben az ellenzéki képviselőcsoportok a létszámuk csökkenő sorrendjében, míg az ezt követő körökben valamennyi képviselőcsoport ugyanilyen sorrendben tehet fel. A (3) bekezdésben meghatározott rendelkezéseket minden olyan kérdés tekintetében alkalmazni kell, amelynek feltétele a napirendben az azonnali kérdések órájára megállapított időtartamon belül megkezdődött.
 
-(2)[^232] Amennyiben
+(2)[^235] Amennyiben
 
 a) a képviselőcsoport vezetője által előzetesen leadott sorrendben kérdést feltenni kívánó képviselő nincs jelen az ülésteremben vagy a kérdés feltevésétől visszalépett,
 
 b) az előzetesen jelzett azonnali kérdés azért nem hangzik el, mert a kérdést feltenni kívánó képviselő a helyettes kijelölése ellenére személyes válaszadást kér, vagy
 
-c)[^233] az azonnali kérdés más okból nem hangzik el,
+c)[^236] az azonnali kérdés más okból nem hangzik el,
 
 akkor az ülést vezető elnök a szót ugyanazon képviselőcsoport soron következő, kérdést feltenni kívánó képviselőjének adja meg.
 
@@ -16,5 +16,5 @@ akkor az ülést vezető elnök a szót ugyanazon képviselőcsoport soron köve
 
 (5) Ügyrendi javaslat, valamint – ha azt az ülést vezető elnök indokoltnak ítéli – személyes érintettség miatti felszólalás az azonnali kérdések napirendi pontjának tárgyalása után hangozhat el.
 
-[^232]: A 126. § (2) bekezdése az 54/2019. (XII. 17.) OGY határozat 61. §-ával megállapított szöveg.
-[^233]: A 126. § (2) bekezdés c) pontja a 27/2024. (XII. 20.) OGY határozat 14. § g) pontja szerint módosított szöveg.
+[^235]: A 126. § (2) bekezdése az 54/2019. (XII. 17.) OGY határozat 61. §-ával megállapított szöveg.
+[^236]: A 126. § (2) bekezdés c) pontja a 27/2024. (XII. 20.) OGY határozat 14. § g) pontja szerint módosított szöveg.

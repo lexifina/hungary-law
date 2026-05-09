@@ -6,11 +6,11 @@
 
 (3) Az elhalasztott zárószavazás megtartására legkorábban az összegző módosító javaslatról vagy a második összegző módosító javaslatról történő szavazást követő hét első munkanapján kerülhet sor.
 
-(4)[^122] Ha az Országgyűlés a zárószavazást elhalasztotta, akkor a zárószavazás elhalasztását kezdeményező a zárószavazás ülésnapjának megjelölésével indítványozhatja, hogy a zárószavazás megtartására – a (3) bekezdés szerinti határidőre is figyelemmel – azon az ülésen kerüljön sor, amelyen a zárószavazás elhalasztása megtörtént. Erről az Országgyűlés – a javaslattevő legfeljebb kétperces időtartamban előadott indokainak meghallgatása után – vita nélkül, kézfelemeléssel határoz. Az elfogadott napirend az Országgyűlés döntésének megfelelően módosul. A napirend módosult részét az ülést vezető elnök ismerteti és kezdeményezi a 15. § (2) bekezdése szerint szükséges intézkedéseket.
+(4)[^125] Ha az Országgyűlés a zárószavazást elhalasztotta, akkor a zárószavazás elhalasztását kezdeményező a zárószavazás ülésnapjának megjelölésével indítványozhatja, hogy a zárószavazás megtartására – a (3) bekezdés szerinti határidőre is figyelemmel – azon az ülésen kerüljön sor, amelyen a zárószavazás elhalasztása megtörtént. Erről az Országgyűlés – a javaslattevő legfeljebb kétperces időtartamban előadott indokainak meghallgatása után – vita nélkül, kézfelemeléssel határoz. Az elfogadott napirend az Országgyűlés döntésének megfelelően módosul. A napirend módosult részét az ülést vezető elnök ismerteti és kezdeményezi a 15. § (2) bekezdése szerint szükséges intézkedéseket.
 
 (5) Amennyiben a részletesvita-szakaszban nem érkezett a törvényjavaslathoz részletes vitát lezáró bizottsági módosító javaslat, vagy a törvényalkotási bizottság a törvényjavaslat tárgyalását összegző módosító javaslat benyújtása nélkül fejezte be, az elhalasztott zárószavazás megtartására legkorábban az annak elrendelését követő hét első munkanapján kerülhet sor.
 
-(6)[^123] A zárószavazás elhalasztására egy döntési javaslatnál – az 56. § (4) bekezdésében foglalt kivétellel – legfeljebb egy alkalommal kerülhet sor.
+(6)[^126] A zárószavazás elhalasztására egy döntési javaslatnál – az 56. § (4) bekezdésében foglalt kivétellel – legfeljebb egy alkalommal kerülhet sor.
 
-[^122]: Az 51. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 6. pontja szerint módosított szöveg.
-[^123]: Az 51. § (6) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 7. pontja szerint módosított szöveg.
+[^125]: Az 51. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 6. pontja szerint módosított szöveg.
+[^126]: Az 51. § (6) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 7. pontja szerint módosított szöveg.

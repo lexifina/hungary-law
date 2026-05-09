@@ -10,10 +10,10 @@
 
 a) amelyet nem az (1)–(3) bekezdés szerint nyújtottak be, vagy
 
-b)[^224] amelynek elhangzása esetén az Országgyűlésről szóló törvény 46/B. § (1) bekezdése vagy 46/D. §-a szerinti intézkedésnek lenne helye.
+b)[^227] amelynek elhangzása esetén az Országgyűlésről szóló törvény 46/B. § (1) bekezdése vagy 46/D. §-a szerinti intézkedésnek lenne helye.
 
 Erről a benyújtó képviselőt és az Országgyűlést haladéktalanul tájékoztatja.
 
 (5) A 16. § (1) és (3) bekezdését nem kell alkalmazni a rendkívüli ülésszak vagy rendkívüli ülés alatt benyújtott interpellációra és kérdésre.
 
-[^224]: A 121. §. (4) bekezdés b) pontja az 54/2019. (XII. 17.) OGY határozat 57. §-ával megállapított szöveg.
+[^227]: A 121. §. (4) bekezdés b) pontja az 54/2019. (XII. 17.) OGY határozat 57. §-ával megállapított szöveg.

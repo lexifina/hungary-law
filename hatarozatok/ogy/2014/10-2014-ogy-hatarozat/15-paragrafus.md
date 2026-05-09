@@ -6,9 +6,9 @@
 
 (3) A szavazások várható időpontját – az előre nem tervezhető szavazások kivételével – a napirendi javaslatban fel kell tüntetni.
 
-(4)[^26] Legkésőbb az ülés megnyitását megelőzően egy órával a Kormány, a képviselőcsoport vezetője vagy öt független képviselő indokolással ellátott írásbeli javaslatot nyújthat be a házelnöknek a napirendi javaslat módosítására. A javaslat csak a 44–46., valamint az 57. alcím szerinti eljárások esetében irányulhat a napirendi javaslat kiegészítésére.
+(4)[^29] Legkésőbb az ülés megnyitását megelőzően egy órával a Kormány, a képviselőcsoport vezetője vagy öt független képviselő indokolással ellátott írásbeli javaslatot nyújthat be a házelnöknek a napirendi javaslat módosítására. A javaslat csak a 44–46., valamint az 57. alcím szerinti eljárások esetében irányulhat a napirendi javaslat kiegészítésére.
 
-(4a)[^27] A házelnök visszautasítja azt a (4) bekezdés szerinti javaslatot,
+(4a)[^30] A házelnök visszautasítja azt a (4) bekezdés szerinti javaslatot,
 
 a) amelyet nem a (4) bekezdésnek megfelelően nyújtottak be,
 
@@ -18,18 +18,18 @@ c) amely a napirendi javaslat egészének elhagyására irányul vagy annak olya
 
 d) amely az Országgyűlés tekintélyét sérti.
 
-(4b)[^28] A visszautasított javaslat benyújtója – a (6) bekezdés szerinti határozathozatalok megkezdéséig – kérheti az Országgyűléstől a (4a) bekezdés alapján hozott döntés hatályon kívül helyezését. Erről az Országgyűlés vita nélkül, kézfelemeléssel határoz.
+(4b)[^31] A visszautasított javaslat benyújtója – a (6) bekezdés szerinti határozathozatalok megkezdéséig – kérheti az Országgyűléstől a (4a) bekezdés alapján hozott döntés hatályon kívül helyezését. Erről az Országgyűlés vita nélkül, kézfelemeléssel határoz.
 
 (5) A Házbizottság javaslatára az Országgyűlés a napirend elfogadásával több, egymással összefüggő – a 27. § (1) bekezdés a) és b) pontjában meghatározott – önálló indítvány együttes tárgyalásáról is határozhat.
 
 (6) A napirendi javaslat megváltoztatására tett javaslatról és a napirendi javaslatról az Országgyűlés vita nélkül, kézfelemeléssel határoz. Elfogadott napirend hiányában a napirendi javaslat egyetlen pontja sem tárgyalható.
 
-(6a)[^29] Az Országgyűlés nem határoz a napirendi javaslat kiegészítésére tett javaslatról, ha az tárgysorozatban nem lévő indítvány napirendre vételére irányul.
+(6a)[^32] Az Országgyűlés nem határoz a napirendi javaslat kiegészítésére tett javaslatról, ha az tárgysorozatban nem lévő indítvány napirendre vételére irányul.
 
-(7)[^30] Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.
+(7)[^33] Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.
 
-[^26]: A 15. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 3. pontja szerint módosított szöveg.
-[^27]: A 15. § (4a) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
-[^28]: A 15. § (4b) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
-[^29]: A 15. § (6a) bekezdését a 27/2024. (XII. 20.) OGY határozat 1. §-a iktatta be.
-[^30]: A 15. § (7) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (2) bekezdése iktatta be.
+[^29]: A 15. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 3. pontja szerint módosított szöveg.
+[^30]: A 15. § (4a) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
+[^31]: A 15. § (4b) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (1) bekezdése iktatta be.
+[^32]: A 15. § (6a) bekezdését a 27/2024. (XII. 20.) OGY határozat 1. §-a iktatta be.
+[^33]: A 15. § (7) bekezdését az 54/2019. (XII. 17.) OGY határozat 7. § (2) bekezdése iktatta be.

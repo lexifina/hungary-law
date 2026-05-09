@@ -16,7 +16,7 @@ d) a zárószavazás időpontjáról.
 
 (5) Kivételes eljárásban a törvényjavaslat részletes vitáját a törvényalkotási bizottság folytatja le a 44. § (1) és (3)–(4) bekezdése alkalmazásával.
 
-(5a)[^154] Ha az Országgyűlés a törvényjavaslat kivételes eljárásban történő tárgyalását rendelte el, a törvényjavaslat részletes vitájának lefolytatása érdekében a törvényalkotási bizottság az Országgyűlés ülésének időtartama alatt, valamint az ülés heti első ülésnapján az ülésnap megnyitása előtt is ülést tarthat.
+(5a)[^157] Ha az Országgyűlés a törvényjavaslat kivételes eljárásban történő tárgyalását rendelte el, a törvényjavaslat részletes vitájának lefolytatása érdekében a törvényalkotási bizottság az Országgyűlés ülésének időtartama alatt, valamint az ülés heti első ülésnapján az ülésnap megnyitása előtt is ülést tarthat.
 
 (6) A törvényalkotási bizottság a benyújtott módosító javaslatokat értékeli, és azokról állást foglal a 45. § (2) bekezdése alkalmazásával.
 
@@ -32,11 +32,11 @@ c) további módosításra irányuló szándékot fogalmaz meg.
 
 (9) A részletes vitát a törvényalkotási bizottság lezárja, ezt követően összegző jelentést nyújt be, amelyben tájékoztatást ad a részletes vita lezárásának tényéről, valamint a 44. § (1) és (3) bekezdése szerinti megállapításairól. Ha a törvényalkotási bizottság összegző módosító javaslatot fogadott el, azt az összegző jelentéssel egyidejűleg benyújtja. Ezt követően a törvényalkotási bizottság további összegző módosító javaslatot nem nyújthat be.
 
-(9a)[^155] Ha a törvényalkotási bizottság kisebbségben maradt tagjai bejelentik, hogy kisebbségi véleményt terjesztenek elő, a kisebbségi előadót legkésőbb annak az ülésnapnak a megnyitása előtt egy órával kell megjelölni, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat összevont vitája szerepel.
+(9a)[^158] Ha a törvényalkotási bizottság kisebbségben maradt tagjai bejelentik, hogy kisebbségi véleményt terjesztenek elő, a kisebbségi előadót legkésőbb annak az ülésnapnak a megnyitása előtt egy órával kell megjelölni, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat összevont vitája szerepel.
 
 (10) Ha a törvényalkotási bizottság túlterjeszkedő módosító javaslat benyújtására irányuló szándékot is megfogalmaz, illetve ilyen módosító javaslatot támogat vagy fenntart, akkor azt az összegző módosító javaslattól elkülönítve, azzal azonos időpontban nyújtja be.
 
 (11) A törvényalkotási bizottság legkésőbb annak az ülésnapnak a megnyitása előtt egy órával nyújthatja be összegző jelentését és összegző módosító javaslatát, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat összevont vitája szerepel.
 
-[^154]: A 62. § (5a) bekezdését az 54/2019. (XII. 17.) OGY határozat 32. § (1) bekezdése iktatta be.
-[^155]: A 62. § (9a) bekezdését az 54/2019. (XII. 17.) OGY határozat 32. § (2) bekezdése iktatta be.
+[^157]: A 62. § (5a) bekezdését az 54/2019. (XII. 17.) OGY határozat 32. § (1) bekezdése iktatta be.
+[^158]: A 62. § (9a) bekezdését az 54/2019. (XII. 17.) OGY határozat 32. § (2) bekezdése iktatta be.

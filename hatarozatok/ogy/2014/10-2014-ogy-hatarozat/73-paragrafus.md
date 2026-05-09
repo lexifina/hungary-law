@@ -4,20 +4,20 @@
 
 (2) Az egyeztetési eljárásra irányuló kezdeményezésről az Országgyűlés a törvényjavaslat zárószavazását megelőzően vita nélkül határoz. A határozathozatal előtt a kezdeményező és – ha nem a Kormány a kezdeményező – a Kormány képviselője legfeljebb öt-ötperces időtartamban felszólalhat.
 
-(3)[^166] Az egyeztetési eljárásra irányuló kezdeményezésről szóló határozathozatalt követően a házelnök a határozathozatal eredményéről tájékoztatja a Kormányt, és a kezdeményezés elfogadása esetén az egységes javaslatot, a második egységes javaslatot, az átdolgozott egységes javaslatot, az átdolgozott második egységes javaslatot, az egyszerű többséget igénylő egységes javaslatot – elfogadott összegző módosító javaslat vagy második összegző módosító javaslat hiányában a törvényjavaslatot – megküldi a Kormánynak az egyeztetési eljárás lefolytatása érdekében.
+(3)[^169] Az egyeztetési eljárásra irányuló kezdeményezésről szóló határozathozatalt követően a házelnök a határozathozatal eredményéről tájékoztatja a Kormányt, és a kezdeményezés elfogadása esetén az egységes javaslatot, a második egységes javaslatot, az átdolgozott egységes javaslatot, az átdolgozott második egységes javaslatot, az egyszerű többséget igénylő egységes javaslatot – elfogadott összegző módosító javaslat vagy második összegző módosító javaslat hiányában a törvényjavaslatot – megküldi a Kormánynak az egyeztetési eljárás lefolytatása érdekében.
 
 (4) Az előterjesztő
 
 a) a (3) bekezdés szerinti indítványok zárószavazás előtti módosító javaslattal módosított szövegét,
 
-b)[^167] ha az Országgyűlés az összegző módosító javaslat valamely pontját nem fogadta el, a törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegét, vagy
+b)[^170] ha az Országgyűlés az összegző módosító javaslat valamely pontját nem fogadta el, a törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegét, vagy
 
-c)[^168] ha az Országgyűlés a második összegző módosító javaslat valamely pontját nem fogadta el, a törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított szövegét
+c)[^171] ha az Országgyűlés a második összegző módosító javaslat valamely pontját nem fogadta el, a törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított szövegét
 
 három napon belül nyújtja be, azt a házelnök továbbítja a Kormánynak az egyeztetési eljárás lefolytatása érdekében.
 
 (5) Az egyeztetési eljárásra irányuló kezdeményezés elfogadását követően módosító javaslat csak a 74. §-ban meghatározottak szerint nyújtható be.
 
-[^166]: A 73. § (3) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 13. pontja szerint módosított szöveg.
-[^167]: A 73. § (4) bekezdés b) pontja az 54/2019. (XII. 17.) OGY határozat 78. § e) pontja szerint módosított szöveg.
-[^168]: A 73. § (4) bekezdés c) pontja az 54/2019. (XII. 17.) OGY határozat 78. § i) pontja szerint módosított szöveg.
+[^169]: A 73. § (3) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 13. pontja szerint módosított szöveg.
+[^170]: A 73. § (4) bekezdés b) pontja az 54/2019. (XII. 17.) OGY határozat 78. § e) pontja szerint módosított szöveg.
+[^171]: A 73. § (4) bekezdés c) pontja az 54/2019. (XII. 17.) OGY határozat 78. § i) pontja szerint módosított szöveg.

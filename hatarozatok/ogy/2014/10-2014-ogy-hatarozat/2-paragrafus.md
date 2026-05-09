@@ -1,6 +1,6 @@
-2. §[^3] (1) A képviselő csak egy képviselőcsoportnak lehet tagja.
+2. §[^4] (1) A képviselő csak egy képviselőcsoportnak lehet tagja.
 
-(2) Képviselőcsoportot alkothat az ugyanazon párthoz tartozó legalább három képviselő akkor is, ha mandátumukat ugyanazon önálló országos pártlistáról szerezték.
+(2)[^5]
 
 (3) A képviselő a képviselőcsoportból kiléphet. A képviselőcsoport a tagját kizárhatja.
 
@@ -10,4 +10,5 @@
 
 (6) A képviselők előző általános választásán közös országos listát állító és mandátumot szerző pártokhoz tartozó képviselőkből álló képviselőcsoport tagja bármely, a közös országos listán szereplő párthoz tartozó képviselőkből alakult képviselőcsoporthoz csatlakozhat, ha csatlakozását a képviselőcsoport elfogadta. A csatlakozással a képviselő korábbi képviselőcsoport-tagsága megszűnik.
 
-[^3]: A 2. § a 36/2022. (VII. 22.) OGY határozat 1. §-ával megállapított szöveg.
+[^4]: A 2. § a 36/2022. (VII. 22.) OGY határozat 1. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § a) pontja hatályon kívül helyezte.

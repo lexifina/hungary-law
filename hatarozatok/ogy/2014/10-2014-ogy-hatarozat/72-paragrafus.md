@@ -1,4 +1,4 @@
-72. §[^165] (1) A túlterjeszkedő módosító javaslatot benyújtó bizottság javaslatára a 70. § (3)–(8) bekezdését, a törvényalkotási bizottság javaslatára a 71. § (3)–(8) bekezdését nem kell alkalmazni, ha ahhoz az Országgyűlés a (3) bekezdés szerint hozzájárul.
+72. §[^168] (1) A túlterjeszkedő módosító javaslatot benyújtó bizottság javaslatára a 70. § (3)–(8) bekezdését, a törvényalkotási bizottság javaslatára a 71. § (3)–(8) bekezdését nem kell alkalmazni, ha ahhoz az Országgyűlés a (3) bekezdés szerint hozzájárul.
 
 (2) Ha a törvényalkotási bizottság az (1) bekezdés szerinti javaslatot nyújt be, a 46. § (10)–(12) bekezdését azzal az eltéréssel kell alkalmazni, hogy az előterjesztő által megküldött egységes javaslattervezet, továbbá a törvényalkotási bizottság elnöke által benyújtott egységes javaslat a túlterjeszkedő módosító javaslat szövegét is tartalmazza.
 
@@ -18,4 +18,4 @@
 
 (10) A zárószavazás elhalasztására az 51. § (1), (2), (4) és (6) bekezdését kell alkalmazni azzal, hogy az elhalasztott zárószavazás megtartására legkorábban az annak elrendelését követő hét első munkanapján kerülhet sor.
 
-[^165]: A 72. § az 54/2019. (XII. 17.) OGY határozat 37. §-ával megállapított szöveg.
+[^168]: A 72. § az 54/2019. (XII. 17.) OGY határozat 37. §-ával megállapított szöveg.

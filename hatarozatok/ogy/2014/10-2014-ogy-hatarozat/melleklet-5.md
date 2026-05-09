@@ -20,7 +20,7 @@
 
 ## ”
 
-5. melléklet a 10/2014. (II. 24.) OGY határozathoz[^305]
+5. melléklet a 10/2014. (II. 24.) OGY határozathoz[^308]
 
 AZ ORSZÁGGYŰLÉS ÉS AZ ORSZÁGGYŰLÉSI BIZOTTSÁGOK ÜLÉSEIRŐL VALÓ TÁVOLMARADÁS BEJELENTÉSÉNEK, IGAZOLÁSÁNAK ELJÁRÁSI RENDJE
 
@@ -66,7 +66,7 @@ AZ ORSZÁGGYŰLÉS ÉS AZ ORSZÁGGYŰLÉSI BIZOTTSÁGOK ÜLÉSEIRŐL VALÓ TÁVO
 
 4.4. Az eljárás vagy – jogorvoslati kérelem előterjesztése esetén – a jogorvoslati eljárás befejezését követően a tiszteletdíj csökkentéséről – a képviselő egyidejű értesítésével – a főigazgató gondoskodik.
 
-4.5.[^306] E pont rendelkezéseit a nemzetiségi szószólóra is megfelelően alkalmazni kell.
+4.5.[^309] E pont rendelkezéseit a nemzetiségi szószólóra is megfelelően alkalmazni kell.
 
 5. Az Országgyűlésről szóló törvény 107. § (4) bekezdésének végrehajtási szabályai
 
@@ -75,5 +75,5 @@ AZ ORSZÁGGYŰLÉS ÉS AZ ORSZÁGGYŰLÉSI BIZOTTSÁGOK ÜLÉSEIRŐL VALÓ TÁVO
 5.2. A bizottsági ülésről való távolmaradás igazolására a 3.2–3.7. pontot kell alkalmazni azzal, hogy tárgyhó alatt a rendes ülésszak utolsó hónapját kell érteni.
 
 [^3.]: A határozatot az Országgyűlés a 20.... ................................-i ülésnapján fogadta el.
-[^305]: Az 5. mellékletet az 54/2019. (XII. 17.) OGY határozat 76. § (4) bekezdése iktatta be.
-[^306]: Az 5. melléklet 4. pont 4.5. alpontja a 36/2022. (VII. 22.) OGY határozat 28. § 27. pontja szerint módosított szöveg.
+[^308]: Az 5. mellékletet az 54/2019. (XII. 17.) OGY határozat 76. § (4) bekezdése iktatta be.
+[^309]: Az 5. melléklet 4. pont 4.5. alpontja a 36/2022. (VII. 22.) OGY határozat 28. § 27. pontja szerint módosított szöveg.

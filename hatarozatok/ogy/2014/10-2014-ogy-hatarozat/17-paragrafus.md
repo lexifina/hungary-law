@@ -12,6 +12,6 @@
 
 (4) A házelnök az alelnökök véleményének kikérésével határozza meg, hogy az alelnökök mikor és milyen sorrendben vezetik az Országgyűlés ülését.
 
-(5)[^31]
+(5)[^34]
 
-[^31]: A 17. § (5) bekezdését a 27/2024. (XII. 20.) OGY határozat 14. § a) pontja hatályon kívül helyezte.
+[^34]: A 17. § (5) bekezdését a 27/2024. (XII. 20.) OGY határozat 14. § a) pontja hatályon kívül helyezte.

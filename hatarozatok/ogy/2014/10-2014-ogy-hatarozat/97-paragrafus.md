@@ -6,6 +6,6 @@
 
 (4) Az (1) bekezdés szerinti és a Gst. 25. § (5) bekezdése szerinti módosító javaslat vitájára és döntéshozatalára az 54. §-t és az 55. §-t kell alkalmazni azzal, hogy a zárószavazás előtti módosító javaslaton a Gst. 25. § (5) bekezdése szerinti módosító javaslatot is érteni kell. Az 53. §-t a módosító javaslatok tárgyalására nem kell alkalmazni.
 
-(5)[^211] A Költségvetési Tanács elnökét meg kell hívni az Országgyűlés azon ülésére, amelyen a (4) bekezdés szerinti módosító javaslatok vitájára és döntéshozatalára kerül sor. A Költségvetési Tanács elnöke az előterjesztői zárszót megelőzően felszólalhat. E felszólalás napirendben meghatározott időtartama nem lehet kevesebb tíz percnél.
+(5)[^214] A Költségvetési Tanács elnökét meg kell hívni az Országgyűlés azon ülésére, amelyen a (4) bekezdés szerinti módosító javaslatok vitájára és döntéshozatalára kerül sor. A Költségvetési Tanács elnöke az előterjesztői zárszót megelőzően felszólalhat. E felszólalás napirendben meghatározott időtartama nem lehet kevesebb tíz percnél.
 
-[^211]: A 97. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 50. §-ával megállapított szöveg.
+[^214]: A 97. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 50. §-ával megállapított szöveg.
