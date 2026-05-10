@@ -832,10 +832,6 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7. Hatályát veszti
+7.[^2]
 
-a) az Országgyűlés bizottságainak létrehozásáról, tagjainak és tisztségviselőinek megválasztásáról szóló 11/2022. (V. 2.) OGY határozat;
-
-b) az Állami Számvevőszék elnökét jelölő eseti bizottság létrehozásáról szóló 23/2022. (VI. 20.) OGY határozat;
-
-c) az Állami Számvevőszék elnökét jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 26/2022. (VI. 22.) OGY határozat.
+[^2]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
