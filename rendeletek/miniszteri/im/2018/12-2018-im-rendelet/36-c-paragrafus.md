@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^41]
+## IV/A. Fejezet[^43]
 
 ## Az anonimizált határozat közzétételére vonatkozó szabályok
 
@@ -12,4 +12,4 @@
 
 (5) Az anonimizált határozat és az anonimizált ügyiratjegyzék közzétételével kapcsolatos költség nem bűnügyi költség, azt az anonimizált határozatot hozó ügyészség vagy nyomozó hatóság költségvetésének terhére kell elszámolni.
 
-[^41]: Az IV/A. Fejezetet (36/C. §-t) a 31/2022. (XII. 22.) IM rendelet 1. §-a iktatta be.
+[^43]: Az IV/A. Fejezetet (36/C. §-t) a 31/2022. (XII. 22.) IM rendelet 1. §-a iktatta be.

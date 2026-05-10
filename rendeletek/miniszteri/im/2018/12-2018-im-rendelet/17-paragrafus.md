@@ -6,6 +6,6 @@
 
 (3) Az ügyirat megismerésnek valamely módja nem akadálya annak, hogy az arra jogosult azzal egyidejűleg vagy az eljárás későbbi szakaszában más módon is megismerje az ügyiratot.
 
-(4)[^31] Ha a bíróság, az ügyészség vagy a nyomozó hatóság valamely megismerési módot törvényben meghatározott okból korlátozná, előtte a megismerésre jogosulttal egyeztethet arról, ha a megismerés más módon biztosítható.
+(4)[^32] Ha a bíróság, az ügyészség vagy a nyomozó hatóság valamely megismerési módot törvényben meghatározott okból korlátozná, előtte a megismerésre jogosulttal egyeztethet arról, ha a megismerés más módon biztosítható.
 
-[^31]: A 17. § (4) bekezdését a 11/2019. (IV. 5.) IM rendelet 16. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 134. §-ával megállapított szöveg.
+[^32]: A 17. § (4) bekezdését a 11/2019. (IV. 5.) IM rendelet 16. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 134. §-ával megállapított szöveg.

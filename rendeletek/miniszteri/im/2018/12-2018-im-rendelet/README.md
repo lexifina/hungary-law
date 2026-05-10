@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-12-20-0
 | 2022-04-27 | 2018-12-20-06.6 | 12/2022. (IV. 26.) IM rendelet |
 | 2023-01-01 | 2018-12-20-06.7 | 31/2022. (XII. 22.) IM rendelet |
 | 2023-12-24 | 2018-12-20-06.8 | 15/2023. (X. 24.) IM rendelet |
+| 2026-05-10 | 2018-12-20-06.9 | 4/2026. (III. 10.) IM rendelet |

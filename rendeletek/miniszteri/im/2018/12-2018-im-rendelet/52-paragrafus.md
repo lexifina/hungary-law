@@ -1,6 +1,6 @@
 ## 27. A telekommunikációs eszköz útján közvetített felvétel rögzítése
 
-52. § (1)[^59] A telekommunikációs eszköz használata esetén a (4) bekezdésben meghatározott kivétellel
+52. § (1)[^61] A telekommunikációs eszköz használata esetén a (4) bekezdésben meghatározott kivétellel
 
 a) legalább a 46. § (1) bekezdése, valamint a 47. § (1) bekezdése szerinti kamerák által továbbított kép- és hangfelvételt, vagy
 
@@ -12,7 +12,7 @@ kell rögzíteni.
 
 (3) Ha a telekommunikációs eszköz használata során a különleges bánásmódot igénylő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságainak torzítására került sor, lehetőség szerint a torzított felvételt is rögzíteni kell.
 
-(4)[^60] Ha a telekommunikációs eszköz használata során a fedett nyomozó, illetve a titkosan együttműködő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságainak torzítására került sor, sem az (1) bekezdésben meghatározott felvételt, sem a torzított felvételt nem lehet rögzíteni.
+(4)[^62] Ha a telekommunikációs eszköz használata során a fedett nyomozó, illetve a titkosan együttműködő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságainak torzítására került sor, sem az (1) bekezdésben meghatározott felvételt, sem a torzított felvételt nem lehet rögzíteni.
 
-[^59]: Az 52. § (1) bekezdés nyitó szövegrésze a 20/2020. (XII. 30.) IM rendelet 143. § h) pontjával megállapított szöveg.
-[^60]: Az 52. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 141. §-a iktatta be.
+[^61]: Az 52. § (1) bekezdés nyitó szövegrésze a 20/2020. (XII. 30.) IM rendelet 143. § h) pontjával megállapított szöveg.
+[^62]: Az 52. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 141. §-a iktatta be.

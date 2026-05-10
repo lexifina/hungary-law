@@ -8,7 +8,7 @@ c) az ügyirat megnevezését,
 
 d) az ügyirat kezdő és befejező oldalszámát, felvétel esetén a kezdő és befejező órát és percet,
 
-e)[^32]
+e)[^33]
 
 f) ha a megismerés biztosítása során rendkívüli esemény történt, valamint
 
@@ -18,4 +18,4 @@ g) a megismerés biztosításának időpontját, illetve tartamát.
 
 (3) Az (1) bekezdés szerinti nyilvántartást, illetve a megismerés megtörténtének igazolására alkalmas, (2) bekezdés szerinti iratokat az ügyiratok között kell kezelni.
 
-[^32]: A 19. § (1) bekezdés e) pontját a 12/2022. (IV. 26.) IM rendelet 66. §-a hatályon kívül helyezte.
+[^33]: A 19. § (1) bekezdés e) pontját a 12/2022. (IV. 26.) IM rendelet 66. §-a hatályon kívül helyezte.

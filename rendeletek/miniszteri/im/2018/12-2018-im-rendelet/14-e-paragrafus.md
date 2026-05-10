@@ -1,4 +1,4 @@
-## II/A. Fejezet[^29]
+## II/A. Fejezet[^30]
 
 ## NYELVHASZNÁLAT AZ ELJÁRÁSI CSELEKMÉNYEN JELENLÉTRE JOGOSULTAK ESETÉN
 
@@ -22,4 +22,4 @@ b) a tolmácsolási feladatokat ellátó segítő igénybevétele határozat meg
 
 c) a tolmácsolási feladatokat ellátó segítő megjelenésével összefüggő költségeket – a Be. 145. § (1) bekezdés d) pontjában meghatározott eset kivételével – az eljárási cselekményről értesített személy viseli.
 
-[^29]: A II/A. Fejezetet (14/E. §-t) a 15/2023. (X. 24.) IM rendelet 10. §-a iktatta be.
+[^30]: A II/A. Fejezetet (14/E. §-t) a 15/2023. (X. 24.) IM rendelet 10. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 (2) A tértivevényen minden esetben meg kell jelölni, hogy sikertelen kézbesítési kísérlet esetén milyen jelzésű értesítést kell a címzett részére hátrahagyni.
 
-(3)[^33] A büntetőeljárásban – a (4), (5) és (6) bekezdésben foglalt kivétellel − az A/3. jelzésű értesítést kell használni.
+(3)[^34] A büntetőeljárásban – a (4), (5) és (6) bekezdésben foglalt kivétellel − az A/3. jelzésű értesítést kell használni.
 
 (4) A büntetőeljárásban A/4. jelzésű értesítést kell használni
 
@@ -26,9 +26,10 @@ h) a sértettnek a pótmagánvádlóként való fellépését megalapozó határ
 
 i) ha azt a bíróság, ügyészség vagy a nyomozó hatóság szükségesnek tartja.
 
-(5) A büntetőeljárásban A/5. jelzésű értesítést kell alkalmazni a Be. 740. §-a alapján hozott büntetővégzés kézbesítésekor.
+(5)[^35] A büntetőeljárásban A/5. jelzésű értesítést kell alkalmazni a Be. 51/A. § (2) bekezdés b) pontja alapján hozott határozat, valamint a Be. 740. §-a alapján hozott büntetővégzés kézbesítésekor.
 
-(6)[^34] Hivatalos irat kézbesítése érdekében előterjesztett eljárási jogsegély keretében történt kézbesítéskor az A/7. és az A/7/2. jelzésű értesítést kell használni.
+(6)[^36] Hivatalos irat kézbesítése érdekében előterjesztett eljárási jogsegély keretében történt kézbesítéskor az A/7. és az A/7/2. jelzésű értesítést kell használni.
 
-[^33]: A 30. § (3) bekezdése a 15/2023. (X. 24.) IM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^34]: A 30. § (6) bekezdését a 15/2023. (X. 24.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^34]: A 30. § (3) bekezdése a 15/2023. (X. 24.) IM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^35]: A 30. § (5) bekezdése a 4/2026. (III. 10.) IM rendelet 73. § b) pontja szerint módosított szöveg.
+[^36]: A 30. § (6) bekezdését a 15/2023. (X. 24.) IM rendelet 11. § (2) bekezdése iktatta be.
