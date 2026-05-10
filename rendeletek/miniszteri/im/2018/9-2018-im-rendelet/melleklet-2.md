@@ -58,7 +58,7 @@
 
 1.11. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.12.[^136] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
+1.12.[^138] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 1.13. Nem magyar állampolgár esetén a büntetőeljárásban általa használt nyelv
 
@@ -142,4 +142,4 @@
 
 13.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése.
 
-[^136]: A 2. melléklet 1. pont 1.12. alpontja a 4/2026. (III. 10.) IM rendelet 69. § b) pontjával megállapított szöveg.
+[^138]: A 2. melléklet 1. pont 1.12. alpontja a 4/2026. (III. 10.) IM rendelet 69. § b) pontjával megállapított szöveg.

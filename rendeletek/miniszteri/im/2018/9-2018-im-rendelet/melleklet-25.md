@@ -54,7 +54,7 @@ PÉNZBÜNTETÉS HELYÉBE LÉPŐ KÖZÉRDEKŰMUNKÁRÓL ÉRTESÍTŐLAP ADATTARTAL
 
 1.9. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.10.[^146] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
+1.10.[^148] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 2. A pénzbüntetés közérdekű munkára átváltoztatása tárgyában eljáró bíróság adatai
 
@@ -90,4 +90,4 @@ PÉNZBÜNTETÉS HELYÉBE LÉPŐ KÖZÉRDEKŰMUNKÁRÓL ÉRTESÍTŐLAP ADATTARTAL
 
 7. Keltezés, aláírás és az értesítőlapot kiállító bv. bírói/önálló bírósági titkári tisztség megjelölése
 
-[^146]: A 25. melléklet 1. pont 1.10. alpontja a 4/2026. (III. 10.) IM rendelet 69. § i) pontjával megállapított szöveg.
+[^148]: A 25. melléklet 1. pont 1.10. alpontja a 4/2026. (III. 10.) IM rendelet 69. § i) pontjával megállapított szöveg.

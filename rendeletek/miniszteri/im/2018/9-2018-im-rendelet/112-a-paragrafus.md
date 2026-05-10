@@ -1,4 +1,4 @@
-## 57/A.[^96] A tárhelyszolgáltatás felfüggesztése
+## 57/A.[^97] A tárhelyszolgáltatás felfüggesztése
 
 112/A. § (1) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a Be. 338/A. § (2) bekezdése alapján kötelezi az ott meghatározott tárhelyszolgáltatót a szolgáltatás felfüggesztésre (a továbbiakban: tárhelyszolgáltató), akkor a határozatában
 
@@ -20,4 +20,4 @@ határozza meg.
 
 (7) Ha a büntetőeljárás befejezésekor a tárhelyszolgáltatás megszüntetésének elrendelésére nem kerül sor, a bíróság, az ügyészség vagy a nyomozó hatóság az eljárás befejezéséről hozott határozatában rendelkezik a szolgáltatás visszaállításáról, egyebekben a (4) bekezdés megfelelő alkalmazásával jár el.
 
-[^96]: Az 57/A. alcímet (112/A. §-t) a 4/2026. (III. 10.) IM rendelet 66. §-a iktatta be.
+[^97]: Az 57/A. alcímet (112/A. §-t) a 4/2026. (III. 10.) IM rendelet 66. §-a iktatta be.

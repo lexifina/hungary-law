@@ -2,11 +2,11 @@
 
 134. § (1) A feltételes szabadság megszüntetésének szabályait a javítóintézetből való ideiglenes elbocsátásra a következő eltérésekkel kell megfelelően alkalmazni.
 
-(2)[^116] A bv. bíró a meghallgatásról a fiatalkorú pártfogó felügyeletét ellátó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalt is értesíti.
+(2)[^118] A bv. bíró a meghallgatásról a fiatalkorú pártfogó felügyeletét ellátó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalt is értesíti.
 
 (3) Ha a határozat meghozatalának időpontjáig a fiatalkorú a huszonegyedik életévét betöltötte, a bv. bíró az eljárást megszünteti.
 
-(4)[^117] A bv. bíró a határozatát a fiatalkorú pártfogó felügyeletét ellátó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak és annak az intézetnek küldi meg, ahol a javítóintézeti nevelést végrehajtják.
+(4)[^119] A bv. bíró a határozatát a fiatalkorú pártfogó felügyeletét ellátó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak és annak az intézetnek küldi meg, ahol a javítóintézeti nevelést végrehajtják.
 
-[^116]: A 134. § (2) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 30. pontja szerint módosított szöveg.
-[^117]: A 134. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 31. pontja szerint módosított szöveg.
+[^118]: A 134. § (2) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 30. pontja szerint módosított szöveg.
+[^119]: A 134. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 31. pontja szerint módosított szöveg.

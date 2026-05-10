@@ -1,4 +1,4 @@
-3. melléklet a 9/2018. (VI. 11.) IM rendelethez[^137]
+3. melléklet a 9/2018. (VI. 11.) IM rendelethez[^139]
 
 ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -190,4 +190,4 @@ ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 15.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése.
 
-[^137]: A 3. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (2) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § c) pontja szerint módosított szöveg.
+[^139]: A 3. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (2) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § c) pontja szerint módosított szöveg.

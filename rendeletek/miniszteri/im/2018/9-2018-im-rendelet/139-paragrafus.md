@@ -1,8 +1,8 @@
-## 138. §[^122] Ha a miniszter a Bv. tv. 45. § (8) bekezdése alapján a szabadlábon lévő elítéltnek a Büntetés-végrehajtás Egészségügyi Központban, illetve az IMEI-ben történő szakorvosi vizsgálatát rendelte el, a miniszter erről írásban értesíti a Büntetés-végrehajtás Egészségügyi Központot vagy az IMEI-t.
+## 138. §[^124] Ha a miniszter a Bv. tv. 45. § (8) bekezdése alapján a szabadlábon lévő elítéltnek a Büntetés-végrehajtás Egészségügyi Központban, illetve az IMEI-ben történő szakorvosi vizsgálatát rendelte el, a miniszter erről írásban értesíti a Büntetés-végrehajtás Egészségügyi Központot vagy az IMEI-t.
 
 139. § (1) A kegyelmi döntésről szóló határozatot és a kegyelmi eljárás befejezéséről szóló tájékoztatást a miniszter az ügyben elsőfokon eljárt bíróságnak átirattal küldi meg, amelyben értesíti a bíróságot arról, ha
 
-a)[^123] a Bv. tv. 46. § (9) bekezdése alapján a szabadítás érdekében intézkedett,
+a)[^125] a Bv. tv. 46. § (9) bekezdése alapján a szabadítás érdekében intézkedett,
 
 b) a szabadságvesztés elhalasztása vagy félbeszakítása esetén a BVOP részére a kegyelmi határozatot vagy a kegyelmi eljárás befejezéséről szóló tájékoztatást megküldte.
 
@@ -14,8 +14,8 @@ b) a szabadságvesztés elhalasztása vagy félbeszakítása esetén a BVOP rés
 
 (5) Ha az elítélt büntetésének vagy javítóintézeti nevelésének végrehajtását a kegyelmi döntés meghozataláig elhalasztották vagy félbeszakították, és az elítélt nem részesült kegyelemben, az elsőfokon eljárt bíróság az általános szabályok szerint intézkedik a végrehajtás foganatosítása érdekében.
 
-(6)[^124] Ha a kegyelem a GH 4. § (1) bekezdésében meghatározott feladatkörébe tartozó büntetést vagy intézkedést érint annak mérséklése vagy elengedése okán, az elsőfokú bíróság a kegyelmi határozat másolatát megküldi annak a GH-nak, amely a végrehajtás iránt intézkedett. Ha a GH a behajtás iránt a 4. § (3) bekezdés szerinti megkereséssel már intézkedett, a továbbiakban a 4. § (6) bekezdése szerint jár el.
+(6)[^126] Ha a kegyelem a GH 4. § (1) bekezdésében meghatározott feladatkörébe tartozó büntetést vagy intézkedést érint annak mérséklése vagy elengedése okán, az elsőfokú bíróság a kegyelmi határozat másolatát megküldi annak a GH-nak, amely a végrehajtás iránt intézkedett. Ha a GH a behajtás iránt a 4. § (3) bekezdés szerinti megkereséssel már intézkedett, a továbbiakban a 4. § (6) bekezdése szerint jár el.
 
-[^122]: A 138. § a 14/2020. (X. 30.) IM rendelet 5. §-a szerint módosított szöveg.
-[^123]: A 139. § (1) bekezdés a) pontja a 20/2020. (XII. 30.) IM rendelet 129. § g) pontja szerint módosított szöveg.
-[^124]: A 139. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 128. §-a iktatta be.
+[^124]: A 138. § a 14/2020. (X. 30.) IM rendelet 5. §-a szerint módosított szöveg.
+[^125]: A 139. § (1) bekezdés a) pontja a 20/2020. (XII. 30.) IM rendelet 129. § g) pontja szerint módosított szöveg.
+[^126]: A 139. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 128. §-a iktatta be.

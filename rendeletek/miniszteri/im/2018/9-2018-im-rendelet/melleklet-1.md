@@ -1,4 +1,4 @@
-1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^135]
+1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^137]
 
 SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -226,4 +226,4 @@ SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
 
-[^135]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § a) pontja szerint módosított szöveg.
+[^137]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése, a 4/2026. (III. 10.) IM rendelet 69. § a) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 49. A letartóztatás
 
-95. § (1)[^87] A bíróság a terhelt letartóztatásának elrendeléséről, meghosszabbításáról, fenntartásáról vagy megszüntetéséről szóló határozata meghozatalával, illetve a letartóztatásnak a vádemelés utáni megszűnésével egyidejűleg – a megjegyzés rovatban az ok megjelölésével – a vádemelés előtt a 21. melléklet, a vádemelés után a 22. melléklet szerinti adattartalommal kiállított értesítőlappal intézkedik a végrehajtás iránt.
+95. § (1)[^88] A bíróság a terhelt letartóztatásának elrendeléséről, meghosszabbításáról, fenntartásáról vagy megszüntetéséről szóló határozata meghozatalával, illetve a letartóztatásnak a vádemelés utáni megszűnésével egyidejűleg – a megjegyzés rovatban az ok megjelölésével – a vádemelés előtt a 21. melléklet, a vádemelés után a 22. melléklet szerinti adattartalommal kiállított értesítőlappal intézkedik a végrehajtás iránt.
 
 (2) Ha bíróság a letartóztatás megszüntetéséről határozott, az (1) bekezdés szerinti értesítőlapnak kizárólag
 
@@ -26,4 +26,4 @@ kell tartalmaznia.
 
 (6) A bíróság, ha olyan terhelt letartóztatását rendeli el, aki – akár az adott, akár más büntetőügyben elrendelt – a Be. 281. § (2) bekezdés a)–c) pontja szerinti bűnügyi felügyelet hatálya alatt áll, a határozatát a kijelölt lakás, egyéb helyiség, intézmény helye szerint illetékes rendőrkapitányságnak, illetve annak a rendőrkapitányságnak is megküldi, ahol a terheltnek meghatározott időközönként és módon jelentkeznie kell.
 
-[^87]: A 95. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 129. § e) pontja szerint módosított szöveg.
+[^88]: A 95. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 129. § e) pontja szerint módosított szöveg.

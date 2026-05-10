@@ -58,7 +58,7 @@ PÉNZBÜNTETÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 1.11. kézbesítési cím (ha a büntetőeljárásban a terhelt részére a hivatalos ügyirat kézbesítése ide történt)
 
-1.12.[^139] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
+1.12.[^141] elektronikus kapcsolattartásra szolgáló elérhetőség vagy annak rögzítése, hogy a büntetőeljárásban a terhelttel a kapcsolattartás papír alapon történt
 
 2. Az ügydöntő határozat és az eljáró bíróság adatai
 
@@ -142,4 +142,4 @@ PÉNZBÜNTETÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 11. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bírósági titkári tisztség megjelölése
 
-[^139]: Az 5. melléklet 1. pont 1.12. alpontja a 4/2026. (III. 10.) IM rendelet 69. § e) pontjával megállapított szöveg.
+[^141]: Az 5. melléklet 1. pont 1.12. alpontja a 4/2026. (III. 10.) IM rendelet 69. § e) pontjával megállapított szöveg.

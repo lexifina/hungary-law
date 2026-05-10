@@ -4,11 +4,11 @@
 
 137. § (1) Ha a bíróságnál előterjesztett kegyelmi kérelem tartalma nem egyértelmű, a bíróság annak tisztázása érdekében – a szükséges felvilágosítást megadva – a kérelmezőt nyilatkozattételre hívja fel.
 
-(2)[^118] Ha a bíróság
+(2)[^120] Ha a bíróság
 
 a) környezettanulmány beszerzését rendeli el
 
-aa)[^119] a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalt,
+aa)[^121] a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalt,
 
 ab) szabadságvesztést vagy elzárást töltő elítélt kegyelmi kérelme esetén a végrehajtást foganatosító bv. intézet szerint illetékes büntetés-végrehajtási pártfogó felügyelőt,
 
@@ -18,11 +18,11 @@ b) eljárási kegyelem esetén a terhelt életvitelével összefüggő nyilváno
 
 keresi meg.
 
-(2a)[^120] Környezettanulmány beszerzésének elrendelése esetén a bíróság a megkeresésben megjelöli, hogy a kegyelmi kérelem mire irányul, továbbá kérdést tehet fel arra vonatkozóan, hogy a kegyelmi kérelemben hivatkozott valamely tény vagy körülmény megfelel-e a valóságnak.
+(2a)[^122] Környezettanulmány beszerzésének elrendelése esetén a bíróság a megkeresésben kérdést tehet fel arra vonatkozóan, hogy a kegyelmi kérelemben hivatkozott valamely tény vagy körülmény megfelel-e a valóságnak. A bíróság a megkereséshez a kegyelmi kérelmet mellékeli.
 
 (3) A bíróság adatszolgáltatást kérhet
 
-a)[^121] a közérdekű munka mérséklése vagy elengedése esetén a fennálló részéről a végrehajtásért felelős pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivataltól a közérdekű munka,
+a)[^123] a közérdekű munka mérséklése vagy elengedése esetén a fennálló részéről a végrehajtásért felelős pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivataltól a közérdekű munka,
 
 b) a pénzbüntetés mérséklése vagy elengedése esetén a GH-tól a pénzbüntetés
 
@@ -44,7 +44,7 @@ a 39. melléklet szerinti kegyelmi felterjesztőlappal a Be. 859. § (4) bekezd�
 
 (7) Eljárási kegyelemi kérelem esetén a bíróság az ügydöntő határozat meghozataláról a rendelkező rész megküldésével három napon belül értesíti a minisztert. Az ügydöntő határozat jogerőre emelkedése esetén a bíróság nyilatkoztatja a terheltet vagy az egyéb kérelmezőt a kegyelmi kérelem fenntartásáról, illetve módosításáról, ez utóbbi esetben a végrehajtási kegyelmi kérelem megjelölésére hívja fel.
 
-[^118]: A 137. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 127. §-ával megállapított szöveg.
-[^119]: A 137. § (2) bekezdés a) pont aa) alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 32. pontja szerint módosított szöveg.
-[^120]: A 137. § (2a) bekezdését a 12/2022. (IV. 26.) IM rendelet 58. §-a iktatta be.
-[^121]: A 137. § (3) bekezdés a) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 33. pontja szerint módosított szöveg.
+[^120]: A 137. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 127. §-ával megállapított szöveg.
+[^121]: A 137. § (2) bekezdés a) pont aa) alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 32. pontja szerint módosított szöveg.
+[^122]: A 137. § (2a) bekezdését a 12/2022. (IV. 26.) IM rendelet 58. §-a iktatta be, szövege a 4/2026. (III. 10.) IM rendelet 68. §-ával megállapított szöveg.
+[^123]: A 137. § (3) bekezdés a) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 33. pontja szerint módosított szöveg.

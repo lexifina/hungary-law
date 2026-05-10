@@ -1,6 +1,6 @@
 ## Az elítélt felhívása a szabadságvesztés megkezdésére.
 
-33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^150]
+33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^152]
 
 JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
@@ -34,6 +34,4 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 2. A szabadságvesztés megkezdésére nem jelenhet meg ittas vagy bódult állapotban.
 
-3. Hozza magával a személyi igazolványát, útlevelét, az adóigazolványát, a taj-számát tartalmazó hatósági bizonyítványát és a nyugdíjfolyósítási törzsszámát, közgyógyellátási igazolványát, továbbá a rendelkezésére álló iskolai végzettséget igazoló okmányainak másolatait, valamint a kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatáson való részvételről szóló nyomozó hatósági tanúsítványt, az ügyészségi határozatot, a bírósági végzést, valamint a gyermek születési anyakönyvi kivonatát, az egészségügyi kiskönyvét, a szülést követően kiadott kórházi zárójelentését, továbbá a gyermek egyéb egészségügyi iratait.
-
-[^150]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított, a 4/2026. (III. 10.) IM rendelet 70. § c) pontja szerint módosított szöveg.
+[^152]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított, a 4/2026. (III. 10.) IM rendelet 70. § c) pontja szerint módosított szöveg.
