@@ -18,8 +18,12 @@ Dr. Rák Richárd (TISZA)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3. Hatályát veszti az Országgyűlés alelnökeinek, a törvényalkotásért felelős alelnökének, valamint jegyzőinek megválasztásáról szóló 9/2022. (V. 2.) OGY határozat.
+3.[^2]
 
-4. Hatályát veszti az Országgyűlés háznagyának megválasztásáról szóló 10/2022. (V. 2.) OGY határozat.
+4.[^3]
 
-5. Hatályát veszti az Országgyűlés törvényalkotásért felelős alelnökének megválasztásáról szóló 35/2025. (VI. 11.) OGY határozat.
+5.[^4]
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
