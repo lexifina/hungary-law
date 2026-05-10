@@ -6,4 +6,6 @@ az Országgyűlés elnökévé megválasztja.
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3. Hatályát veszti az Országgyűlés elnökének megválasztásáról szóló 8/2022. (V. 2.) OGY határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
