@@ -1,3 +1,3 @@
-9. melléklet a 4/2026. (III. 10.) IM rendelethez[^84]
+9. melléklet a 4/2026. (III. 10.) IM rendelethez[^89]
 
-[^84]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

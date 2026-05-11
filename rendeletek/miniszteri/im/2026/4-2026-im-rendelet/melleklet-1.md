@@ -1,3 +1,3 @@
-1. melléklet a 4/2026. (III. 10.) IM rendelethez[^76]
+1. melléklet a 4/2026. (III. 10.) IM rendelethez[^81]
 
-[^76]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
