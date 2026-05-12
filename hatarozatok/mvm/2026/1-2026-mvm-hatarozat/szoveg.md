@@ -1,0 +1,3 @@
+A jogalkotásról szóló 2010. évi CXXX. törvény 11. §-a és a Magyarország minisztériumainak felsorolásáról szóló 2026. évi XIII. törvény 5. § (2) bekezdése alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 4. pontjában meghatározott feladatkörömben eljárva a következő határozatot hozom:
+
+Megállapítom, hogy a Magyarország minisztériumainak felsorolásáról szóló 2026. évi XIII. törvény (a továbbiakban: törvény) 5. § (1) bekezdése szerinti feltétel bekövetkezésének napja, erre tekintettel a törvény hatálybalépésének naptári napja 2026. május 13., azaz kettőezerhuszonhat május tizenharmadik napja.
