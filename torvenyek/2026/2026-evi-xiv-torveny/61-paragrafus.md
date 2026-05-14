@@ -1,0 +1,3 @@
+61. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/U. §-sal egészül ki:
+
+„111/U. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2026. évi XIV. törvénnyel (a továbbiakban: Módtv7.) megállapított 51. § (6) bekezdését a Módtv7. hatálybalépését megelőzően az egyházi jogi személy részére fejlesztési, beruházási céllal rendelkezésre bocsátott költségvetési támogatásból származó, átmenetileg szabad pénzeszközök esetében is alkalmazni kell.”

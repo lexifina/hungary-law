@@ -1,0 +1,1 @@
+15. § A Btv. 7. § (1) bekezdését a 14. § szerint igényelt támogatás vonatkozásában azzal az eltéréssel kell alkalmazni, hogy a támogatási igény meghatározása során jogosultanként legfeljebb a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének harmincszorosa vehető figyelembe.

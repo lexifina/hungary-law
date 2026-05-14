@@ -1,0 +1,3 @@
+## 5. A Bérgarancia Alapból történő támogatás-lehívással kapcsolatos átmeneti szabályok
+
+14. § A Bérgarancia Alapról szóló 1994. évi LXVI. törvény (a továbbiakban: Btv.) szerinti bérgarancia-eljárást alkalmazni kell a 2025. április 4. napján vagy azt megelőzően a ragadós száj- és körömfájás elleni védekezésről szóló miniszteri rendelet alapján elrendelt – a gazdaságban lévő valamennyi fogékony állat helyszínen történő leölésére irányuló – intézkedéssel érintett, a ragadós száj- és körömfájás elleni védekezésről szóló miniszteri rendelet szerinti gazdaságban foglalkoztatott munkavállalóval szemben fennálló kiegyenlítetlen bértartozásra.

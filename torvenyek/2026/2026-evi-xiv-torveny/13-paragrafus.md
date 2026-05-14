@@ -1,0 +1,1 @@
+13. § Ezen alcím rendelkezéseit a ragadós száj- és körömfájás sújtotta gazdálkodók pénzügyi helyzetének stabilizálását szolgáló átmeneti rendelkezésekről szóló 68/2025. (IV. 4.) Korm. rendelet kihirdetése napján fennállt szerződések alapján ezen időpontban már folyósított kölcsönökre és pénzügyi lízingre kell alkalmazni.

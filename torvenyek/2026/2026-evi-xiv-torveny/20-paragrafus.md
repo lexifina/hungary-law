@@ -1,0 +1,3 @@
+## 7. A vagyonfelügyelő és az ideiglenes vagyonfelügyelő kirendelése, valamint a Bérgarancia Alapból történő támogatás-lehívással összefüggő átmeneti szabályok
+
+20. § Ha az adóssal szemben előterjesztett felszámolási kérelmet a bíróság nem utasítja vissza, és a felszámolási kérelemhez csatolt, az adós utolsó közzétett beszámolója szerinti üzleti évben az adós által foglalkoztatott munkavállalók éves átlagos statisztikai állományi létszáma meghaladja az 500 főt, és a hitelező kezdeményezte ideiglenes vagyonfelügyelő kirendelését, abban az esetben a bíróság a kérelem beérkezésétől számított 3 napon belül kijelöli az ideiglenes vagyonfelügyelőt.

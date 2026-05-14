@@ -1,0 +1,1 @@
+67. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 9. § (3) bekezdés a) pontjában az „és mennyiségét” szövegrész helyébe a „ , mennyiségét, valamint értékesítési- és – összhangban az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezéseivel – kereskedelmi árát” szöveg lép.
