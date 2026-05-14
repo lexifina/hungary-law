@@ -1,1 +1,0 @@
-3. § A beutalással érintett önkormányzat és költségvetési szerve belföldi hitelintézetnél vezetett számlája tekintetében a fizetési számlát vezető hitelintézet köteles a 2025. május 31-ei megállapodás szerinti, számlavezetéshez közvetlenül és közvetetten kapcsolódó díjakat alkalmazni, valamint új díjakat nem állapíthat meg.
