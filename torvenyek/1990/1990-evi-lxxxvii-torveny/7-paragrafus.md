@@ -1,6 +1,6 @@
 ## Hatósági ármegállapítás
 
-7. § (1) A mellékletben felsorolt termékekre, szolgáltatásokra (a továbbiakban együtt: termék) az ott feltüntetett miniszter, illetve a helyi önkormányzat (a továbbiakban együtt: a hatósági ár megállapítója) legmagasabb árat vagy legalacsonyabb árat (a továbbiakban együtt: hatósági ár) állapít meg.
+7. § (1) Az 1. mellékletben felsorolt termékekre, szolgáltatásokra (a továbbiakban együtt: termék) az ott feltüntetett miniszter, illetve a helyi önkormányzat (a továbbiakban együtt: a hatósági ár megállapítója) legmagasabb árat vagy legalacsonyabb árat (a továbbiakban együtt: hatósági ár) állapít meg.
 
 (2) A termék hatósági árát az államháztartásért felelős miniszterrel egyetértésben kell megállapítani, ha az árat a miniszter állapítja meg, vagy az árat a központi költségvetés támogatja.
 
@@ -8,4 +8,4 @@
 
 (4)
 
-(5) E törvény melléklete „I. Legmagasabb ár” pontjának „B) Szolgáltatások” alpontjában 40.30.90.0 SZTJ szám alatt szereplő „Távhőszolgáltatás csatlakozási díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
+(5) A 40.30.90.0 SZTJ szám alatt szereplő „Távhőszolgáltatás csatlakozási díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
