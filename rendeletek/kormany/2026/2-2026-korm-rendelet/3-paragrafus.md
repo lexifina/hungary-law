@@ -1,1 +1,0 @@
-3. § A veszélyhelyzet ideje alatt a magyar állam vagy a magyar állam 100%-os tulajdonában álló gazdasági társaság a tulajdonában álló tűzifát és a tűzifaigények biztosításához szükséges egyéb faanyagot (például gally) – az operatív törzs kezdeményezése alapján – birtokátruházási jegyzőkönyv felvétele mellett ingyenesen átruházhatja.
