@@ -760,6 +760,8 @@ az adóévben legfeljebb – az a), b) és c) pont szerinti juttatási körben k
 
 ## 8.46. a reprezentáció és az üzleti ajándék, ha azt a kifizető – feladat- és hatáskörét tekintve közfeladat ellátása során – a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról szóló kormányrendelet szerinti kiemelt sportesemény, nemzeti rendezvény megrendezése keretében biztosítja.
 
+## 8.47. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából a jövedéki adóról szóló 2016. évi LXVIII. évi törvény 3. § (1) bekezdés 4. pontjában meghatározott adóraktárban előállított és onnan közvetlenül vásárolt, pálinkazárjeggyel ellátott alkoholtermék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.
+
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
 9.1. Utalvány, készpénz-helyettesítő fizetési eszköz e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e melléklet szerinti nem pénzben adott juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, továbbá ha az utalvány – a magánszemélynek ki nem osztott (nem juttatott) utalványok visszaváltása kivételével – nem visszaváltható, és egyebekben a juttatás körülményei megfelelnek az adómentességre vonatkozó rendelkezésben foglalt feltételeknek.
