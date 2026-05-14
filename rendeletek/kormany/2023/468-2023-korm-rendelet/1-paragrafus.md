@@ -1,1 +1,0 @@
-1. § A Nemzeti Földalapba tartozó földrészletek árverés útján történt értékesítése során a vételárat pénzügyi intézménytől kapott kölcsön igénybevételével teljesítő vevő teljesítése szerződésszerűnek minősül, és a késedelmes fizetéshez fűződő jogkövetkezményeket nem lehet alkalmazni, ha a teljes vételár 2023. november 15-ig maradéktalanul megfizetésre kerül.
