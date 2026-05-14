@@ -1,1 +1,0 @@
-4. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, azzal, hogy az e rendelet hatálybalépését megelőzően – az Otthontámogatás végrehajtás alá vonása érdekében – tett intézkedéseket is hatálytalannak kell tekinteni, a végrehajtás alá vont összeg az adós részére visszajár.
