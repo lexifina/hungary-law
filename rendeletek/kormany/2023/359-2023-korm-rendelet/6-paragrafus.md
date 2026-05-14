@@ -1,3 +1,0 @@
-6. § (1) Az Alapkezelő vagy jogelődje által a helyi nemzetiségi önkormányzat részére központi kezelésű előirányzat terhére 2018. december 31. napjáig nyújtott, 5 000 000 forint támogatási összeget meg nem haladó működési vagy feladatalapú költségvetési támogatásból (a továbbiakban: nemzetiségi támogatás) megvalósuló támogatott tevékenységet az Ávr. 102/B. § (2) bekezdésében meghatározottaktól eltérően lezártnak kell tekinteni.
-
-(2) Az a helyi nemzetiségi önkormányzat, amely 2019. január 1-je és 2022. december 31-e között nemzetiségi támogatásban részesült, a 2. § szerinti egyszerűsített elszámolással élhet legkésőbb 2024. december 31. napjáig, ha a támogatási szerződés vagy támogatói okirat ennél hosszabb határidőt nem állapít meg.

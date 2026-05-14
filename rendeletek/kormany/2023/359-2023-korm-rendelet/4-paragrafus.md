@@ -1,1 +1,0 @@
-4. § Az Emberi Erőforrás Támogatáskezelőtől átvett fejezeti kezelésű előirányzatok terhére az Alapkezelő vagy jogelődje által 2018. december 31. napjáig nyújtott, 5 000 000 forint támogatási összeget meg nem haladó költségvetési támogatásból megvalósuló támogatott tevékenységet az Ávr. 102/B. § (2) bekezdésében meghatározottaktól eltérően lezártnak kell tekinteni.
