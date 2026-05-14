@@ -1,5 +1,0 @@
-3. § (1) Az Útdíjtv. 9. §-ától eltérően az útdíjköteles gépjármű üzembentartója (a továbbiakban: üzembentartó) a székhelye vagy lakóhelye szerinti települési önkormányzat jegyzőjétől (a továbbiakban: jegyző) kérelmezheti az 1. mellékletben meghatározott termék (a továbbiakban: termék) szállítására vonatkozóan, az 1. mellékletben meghatározott viszonylatban érintett útdíjköteles elemi útszakaszokra vonatkozó, az 1. mellékletben meghatározott időtartamban érvényes, díjmentes viszonylati jegy kiváltására jogosító hatósági bizonyítvány (a továbbiakban: hatósági bizonyítvány) kiállítását.
-
-(2) A hatósági bizonyítvány alapján az egyetemes útdíjszolgáltató a hatósági bizonyítványban megjelölt útdíjköteles elemi útszakaszokra, a hatósági bizonyítványban meghatározott időtartamban érvényes, díjmentes viszonylati jegyet (a továbbiakban: viszonylati jegy) állít ki az üzembentartó részére.
-
-(3) A viszonylati jegy alapján kizárólag a kérelemben megjelölt termékek kizárólagos szállítása esetén áll fenn úthasználati jogosultság.
