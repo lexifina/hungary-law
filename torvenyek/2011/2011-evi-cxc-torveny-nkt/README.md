@@ -92,3 +92,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2025-09-01 | 2024. évi LXXVII. törvény | 2011-190-00-00.82 |
 | 2025-12-23 | 2025. évi CXIX. törvény | 2011-190-00-00.87 |
 | 2026-01-01 | 2025. évi CXIX. törvény | 2011-190-00-00.86 |
+| 2026-05-14 | 2026. évi XIV. törvény | 2011-190-00-00.88 |
