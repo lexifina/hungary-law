@@ -1,5 +1,0 @@
-1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az 1. mellékletben meghatározott mezőgazdasági termék (a továbbiakban együtt: bejelentésköteles termék) Magyarország területére történő behozatalát (vetőmag kivételével) a 2. §-ban foglaltak szerint előzetesen be kell jelenteni (a továbbiakban: bejelentés) a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH).
-
-(2) A bejelentésköteles termék Magyarország területén tranzitforgalom keretében történő átszállítását nem kell előzetesen bejelenteni.
-
-(3) E rendelet nem vonatkozik az Uniós Vámkódex létrehozásáról szóló 952/2013 EU rendelet 201. cikk (1) bekezdésében hivatkozott magáncélú felhasználásra vagy fogyasztásra szánt árukra, amennyiben a termékbehozatal mennyisége az adott bejelentésköteles termék tekintetében nem éri el a 25 kg vagy a 25 liter mennyiséget.
