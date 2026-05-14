@@ -1,7 +1,0 @@
-## [1] Tekintettel arra, hogy az évek óta zajló orosz–ukrán konfliktus negatív hatást gyakorol a hazai gazdaságra, szükséges intézkedéseket tenni annak érdekében, hogy a sportegyesületek terhei ne emelkedjenek.
-
-## [2] A fentiekre tekintettel a rendelet célja, hogy a háború okozta nehézségek enyhítése érdekében segítséget nyújtson a sportegyesületek részére, és a 2026. évben is mentesüljenek a vagyonkezelési díjfizetési kötelezettség alól.
-
-## [3] A Kormány az Alaptörvény 53. cikk (1) bekezdés b) pontjában meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, valamint a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 2. § (1a) bekezdésére, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
-
-1. § Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a sportról szóló 2004. évi I. törvény 76/B. § (2) és (3) bekezdésétől eltérően a vagyonkezelőt 2026. január 1. napjától 2026. december 31. napjáig vagyonkezelési díjfizetési kötelezettség nem terheli.
