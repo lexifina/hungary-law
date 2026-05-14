@@ -1,4 +1,0 @@
-5/C. §[^13] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet egyes rendelkezéseinek veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 445/2022. (XI. 7.) Korm. rendelet módosításáról szóló 443/2024. (XII. 23.) Korm. rendelettel [a továbbiakban: 443/2024. (XII. 23.) Korm. rendelet] megállapított 3/D. §-át a 443/2024. (XII. 23.) Korm. rendelet hatálybalépését[^14] követően benyújtott támogatási kérelmekre kell alkalmazni.
-
-[^13]: Az 5/C. §-t a 443/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2025. január 1.
