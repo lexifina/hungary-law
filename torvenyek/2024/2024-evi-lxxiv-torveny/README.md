@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-74-00-00
 | 2025-08-02 | 2010. évi CXXX. törvény | 2024-74-00-00.18 |
 | 2026-01-01 | 2025. évi XXI. törvény | 2024-74-00-00.19 |
 | 2026-01-02 | 2010. évi CXXX. törvény | 2024-74-00-00.20 |
+| 2026-05-14 | 2026. évi XIV. törvény | 2024-74-00-00.28 |
