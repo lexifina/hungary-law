@@ -1,1 +1,0 @@
-9. § Ha a 3. § alapján elrendelik a befolyás alatt álló gazdálkodó szervezet felszámolását, a bíróság haladéktalanul intézkedik – e rendeletre történő hivatkozással – az elsőfokú végzés Cégközlönyben történő közzétételéről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
