@@ -1,1 +1,0 @@
-2. § A Kvtv. 52. § (1) bekezdésétől eltérően a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (3) bekezdés a) pontja szerinti felső határ a 2024. évben 4 300 000,0 millió forint.
