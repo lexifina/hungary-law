@@ -12,6 +12,6 @@ b) a 13/V. § (3) bekezdése szerinti nyilvántartást saját tevékenysége von
 
 (5) Az (1) bekezdés rendelkezéseinek választása esetén az 13/W. § (3) és (4) bekezdésében foglaltak alkalmazásakor a Jogutód vonatkozásában az átalakulás, egyesülés vagy szétválás évében más tagállamba vagy harmadik országba átadott, szállított, vagy más tagállam vagy harmadik ország vásárlói számára értékesített kőolajtermék összmennyiséget a (2) bekezdés szerinti közös tömegmérleg alapján kell megállapítani.
 
-(6)[^80] Az (1) bekezdés rendelkezéseinek választása esetén a Jogelőd és a Jogutód az átalakulás, egyesülés vagy szétválás hatályosulását követő 30 napon belül nyilatkoznak a választásról az állami adó- és vámhatóság felé, megjelölve, hogy a (3) bekezdés szerinti jelentést melyik személy nyújtja be.
+(6)[^81] Az (1) bekezdés rendelkezéseinek választása esetén a Jogelőd és a Jogutód az átalakulás, egyesülés vagy szétválás hatályosulását követő 30 napon belül nyilatkoznak a választásról az állami adó- és vámhatóság felé, megjelölve, hogy a (3) bekezdés szerinti jelentést melyik személy nyújtja be.
 
-[^80]: A 13/X. § (6) bekezdése a 60/2026. (III. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^81]: A 13/X. § (6) bekezdése a 60/2026. (III. 19.) Korm. rendelet 1. §-ával megállapított szöveg.

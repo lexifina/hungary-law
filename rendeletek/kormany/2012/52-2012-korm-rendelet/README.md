@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-52-20-2
 | 2025-08-01 | 2012-52-20-22.18 | 233/2025. (VII. 31.) Korm. rendelet |
 | 2025-08-06 | 2012-52-20-22.19 | 247/2025. (VIII. 5.) Korm. rendelet |
 | 2026-03-20 | 2012-52-20-22.21 | 60/2026. (III. 19.) Korm. rendelet |
+| 2026-05-14 | 2012-52-20-22.20 | 247/2025. (VIII. 5.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 6/U.[^79] Kőolajtermékekre vonatkozó különös szabályok
+## 6/U.[^80] Kőolajtermékekre vonatkozó különös szabályok
 
 13/U. § (1) Az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 3m. cikk (8) bekezdés harmadik albekezdése szerinti tilalomnak (a továbbiakban: tilalom) történő megfelelés érdekében a kőolajtermék-előállító, a kőolajtermék-kereskedő a naptári évben kőolajterméket más tagállamba vagy harmadik országba – ide nem értve az Ukrajnába, valamint 2025. február 24-ét követően Szlovákiába szállított, átadott, értékesített mennyiséget – nem adhat át, nem szállíthat és más tagállam vagy harmadik ország vásárlója számára nem értékesíthet azt meghaladó mennyiségben, mint amilyen mennyiséget a naptári évben a (4) bekezdés szerinti tömegmérlegrendszerben nem az Oroszországi Föderációból 2022. június 3-át követően az Európai Unió területére szállított nyersolajból előállított kőolajtermékként tart nyilván.
 
@@ -32,4 +32,4 @@ alkalmazásával és a kőolajtermékek nyitókészletének figyelembevételéve
 
 (8) A (6) bekezdés b) pontja szerinti esetben a naptári évben nem az Oroszországi Föderációból származó, 2022. június 3-át követően az Európai Unió területén szabad forgalomba bocsátott nyersolajból előállított kőolajtermék mennyiségének meghatározása során a Magyarország területén kívül beszerzett és továbbértékesített kőolajtermék mennyiségét figyelmen kívül kell hagyni.
 
-[^79]: A 6/U. alcímet (13/U–13/X. §-t) a 233/2025. (VII. 31.) Korm. rendelet 12. §-a iktatta be.
+[^80]: A 6/U. alcímet (13/U–13/X. §-t) a 233/2025. (VII. 31.) Korm. rendelet 12. §-a iktatta be.

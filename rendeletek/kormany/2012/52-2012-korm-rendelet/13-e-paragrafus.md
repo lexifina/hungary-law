@@ -1,6 +1,6 @@
 ## 6/E.[^41] A 100 000 euró feletti betétek befogadásának tilalma alól mentesítést biztosító engedélyek
 
-13/E. § (1) A 833/2014/EU tanácsi rendelet 5c. (1) bekezdése vagy 5d. cikk (1) bekezdése vagy a 765/2006/EK tanácsi rendelet 1v. cikk (1) bekezdése vagy 1w. cikk (1) bekezdése szerinti engedély kiadása iránti kérelmet – az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU tanácsi rendelet, valamint a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló 765/2006/EK tanácsi rendelet alapján kiadható diplomáciai mentességi igazolás kiállításával kapcsolatos eljárási szabályokról szóló 358/2022. (IX. 19.) Korm. rendelet szerinti diplomáciai mentességi igazolás kiállítására vonatkozó kérelem kivételével – a kormányhivatalhoz kell benyújtani. A kérelmet a fizetési számlát vezető pénzügyi intézmény nyújthatja be a számla tulajdonosa vagy az azzal rendelkezésre jogosult kezdeményezésére.
+13/E. § (1)[^42] A 833/2014/EU tanácsi rendelet 5c. (1) bekezdése vagy 5d. cikk (1) bekezdése vagy a 765/2006/EK tanácsi rendelet 1v. cikk (1) bekezdése vagy 1w. cikk (1) bekezdése szerinti engedély kiadása iránti kérelmet – az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU tanácsi rendelet, valamint a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló 765/2006/EK tanácsi rendelet alapján kiadható diplomáciai mentességi igazolás kiállítására vonatkozó kérelem kivételével – a kormányhivatalhoz kell benyújtani. A kérelmet a fizetési számlát vezető pénzügyi intézmény nyújthatja be a számla tulajdonosa vagy az azzal rendelkezésre jogosult kezdeményezésére.
 
 (2) A kérelemben meg kell jelölni
 
@@ -22,11 +22,12 @@ e) a 833/2014/EU tanácsi rendelet 5b. cikkében vagy a 765/2006/EK tanácsi ren
 
 (6) Ha a mentességi igazolás kiállítását követően a kérelmező pénzügyi intézmény tudomására jut, hogy a mentesítési feltételek nem teljesülnek, a kérelmező pénzügyi intézmény erről a tényről haladéktalanul értesíti a hatóságot, aki haladéktalanul intézkedik a mentességi igazolás visszavonásáról.
 
-(7)[^42] A 833/2014/EU tanácsi rendelet 5c. cikk (2) bekezdése vagy 5d. cikk (2) bekezdése és a 6a. cikk (1) bekezdése vagy 765/2006/EK tanácsi rendelet 1v. cikk (2) bekezdése vagy 1w. cikk (2) bekezdése szerinti tájékoztatási kötelezettséget a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter teljesíti.
+(7)[^43] A 833/2014/EU tanácsi rendelet 5c. cikk (2) bekezdése vagy 5d. cikk (2) bekezdése és a 6a. cikk (1) bekezdése vagy 765/2006/EK tanácsi rendelet 1v. cikk (2) bekezdése vagy 1w. cikk (2) bekezdése szerinti tájékoztatási kötelezettséget a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter teljesíti.
 
 (8) A hitelintézetek a 833/2014/EU tanácsi rendelet 5g. cikke szerinti vagy a 765/2006/EK tanácsi rendelet 1z. cikke szerinti bejelentési kötelezettséget a kormányhivatal felé teljesítik.
 
 (9) A kormányhivatal a (8) bekezdés végrehajtása során birtokába jutott adatokat az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény rendelkezéseinek megfelelően kezeli.
 
 [^41]: A 6/E. alcímet (13/E. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
-[^42]: A 13/E. § (7) bekezdése a 240/2024. (VIII. 8.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^42]: A 13/E. § (1) bekezdése a 247/2025. (VIII. 5.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^43]: A 13/E. § (7) bekezdése a 240/2024. (VIII. 8.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

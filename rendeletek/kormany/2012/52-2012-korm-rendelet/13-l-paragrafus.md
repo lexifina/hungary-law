@@ -1,4 +1,4 @@
-## 6/L.[^65] Az orosz állami ellenőrzés alatt álló vagy orosz állami tulajdonú szervekben vezető tisztség betöltésére vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/L.[^66] Az orosz állami ellenőrzés alatt álló vagy orosz állami tulajdonú szervekben vezető tisztség betöltésére vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/L. § (1) A 833/2014/EU tanácsi rendelet 5aa. cikk (1c)–(1e) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a vezető tisztség viselésére kijelölt vagy pályázó természetes személy nyújthatja be.
 
@@ -24,4 +24,4 @@ g) a 833/2014/EU tanácsi rendelet 5aa. cikkében foglalt tilalom alól adható 
 
 (5) A 833/2014/EU tanácsi rendelet 5aa. cikk (5) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^65]: A 6/L. alcímet (13/L. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^66]: A 6/L. alcímet (13/L. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
