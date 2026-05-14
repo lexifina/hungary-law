@@ -1,1 +1,0 @@
-2. § A pénzforgalmi szolgáltató a veszélyhelyzet megszűnését követő 15 napon belül tájékoztatja a kártyabirtokost arról, hogy a veszélyhelyzet megszűnését követő 61. naptól kezdve milyen mértékű díjat számít fel a Széchenyi Pihenő Kártya juttatásként átutalt, fel nem használt pénzeszközre.
