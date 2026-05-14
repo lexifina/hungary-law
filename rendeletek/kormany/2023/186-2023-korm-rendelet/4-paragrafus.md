@@ -1,1 +1,0 @@
-4. § Az R4. szerinti értékesítés során az R2. 4. §-a szerinti továbbműködéshez szükséges finanszírozást nyújtó a nyilvántartásba vett követelése erejéig az adóssal szemben olyan követelését is beszámíthatja, amely még nem vált esedékessé, illetve amelynek tekintetében a felszámolás kezdő időpontját követően került sor engedményezésre.
