@@ -1,0 +1,1 @@
+74. § A miniszter a víziközmű-szolgáltatásért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.

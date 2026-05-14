@@ -1,0 +1,1 @@
+206. § A Magyarország minisztériumainak felsorolásáról szóló 2026. évi XIII. törvény 2. § (6) és (7) bekezdésében meghatározott minisztériumoknak a Magyarország minisztériumainak felsorolásáról szóló 2026. évi XIII. törvény 4. § (3) bekezdése szerinti megszűnésének időpontja 2026. június 15. napja.

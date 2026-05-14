@@ -1,0 +1,1 @@
+205. § A Kormány tagjainak a feladat- és hatáskörök tekintetében a Kit. 20. § (5) bekezdése alapján bekövetkező jogutódlása esetében a jogelőd és a jogutód között létrejött átadás-átvételi megállapodásban meghatározottak szerint a jogutód költségvetését érintő kifizetéseket a jogelőd teljesíti. A jogutódlásra egyebekben a 203. § (2) és (3) bekezdését alkalmazni kell.

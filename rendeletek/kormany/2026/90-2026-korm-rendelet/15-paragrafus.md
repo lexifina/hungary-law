@@ -1,0 +1,1 @@
+15. § A miniszter a kormánybiztosok tevékenységének összehangolásáért való felelőssége körében a kormánybiztosok feladatkörébe eső feladatok teljesüléséről – elsődlegesen a kormánybiztosok beszámolói alapján – tájékoztatja a miniszterelnököt.

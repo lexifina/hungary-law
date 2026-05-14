@@ -1,0 +1,1 @@
+63. § A miniszter az állatkertre, valamint az ahhoz kapcsolódó hatósági feladatokra vonatkozó szabályok előkészítése, továbbá az állatok védelme és kímélete, valamint az ahhoz kapcsolódó hatósági feladatok tekintetében a Kormány élelmiszerlánc-felügyeletért felelős tagja.

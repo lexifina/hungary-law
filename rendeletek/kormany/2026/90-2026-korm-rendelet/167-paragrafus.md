@@ -1,0 +1,1 @@
+167. § A miniszter az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásért való felelőssége keretében ellátja a nyertes pályázati program megvalósításának koordinálásával és az Európa Kulturális Fővárosa pályázatokkal kapcsolatos feladatokat.

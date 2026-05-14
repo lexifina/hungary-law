@@ -1,0 +1,1 @@
+175. § A miniszter a 171. § (2) bekezdés b)–d) pontjában, (3) bekezdésében, a 172. § a) pontjában és b) pont ba) alpontjában, a 173. § c)–d) és f)–k) pontjában és a 174. §-ban foglalt, a felelősségébe tartozó feladatait a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság bevonásával látja el.

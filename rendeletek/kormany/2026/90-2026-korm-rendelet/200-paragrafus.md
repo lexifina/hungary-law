@@ -1,0 +1,1 @@
+200. § A miniszterelnök nemzetbiztonsági főtanácsadója ügydöntő jogkörrel gyakorolja a Kormány részére a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 69. § (1) bekezdésében, valamint a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 88. § (8) bekezdésében meghatározott hatáskört.
