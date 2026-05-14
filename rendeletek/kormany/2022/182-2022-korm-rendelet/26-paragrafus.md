@@ -1,1 +1,0 @@
-26. § A miniszter a minősített adatok védelmének szakmai felügyeletéért való felelőssége keretében előkészíti a minősített adat védelmére, a minősített adat védelmének hatósági felügyeletére, a minősített adatok kezelésének hatósági engedélyezésére és felügyeletére, valamint a nemzeti iparbiztonsági hatósági feladatok ellátására vonatkozó jogszabályokat.

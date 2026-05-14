@@ -1,1 +1,0 @@
-146. § A miniszter üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért való felelőssége keretében ellátja a keresztény vallásuk miatt üldözöttek megsegítése, valamint a Hungary Helps Program keretében egyéb humanitárius cél érdekében végzett kutatási elemző, koordinációs és nemzetközi humanitárius feladatokat.
