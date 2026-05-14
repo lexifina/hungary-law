@@ -63,3 +63,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2025-12-20 | 2025. évi LXXXIII. törvény | 2016-68-00-00.58 |
 | 2026-01-01 | 2025. évi LXXXIII. törvény | 2016-68-00-00.56 |
 | 2026-02-01 | 2025. évi LIV. törvény | 2016-68-00-00.54 |
+| 2026-05-14 | 2026. évi XIV. törvény | 2016-68-00-00.60 |
