@@ -1,3 +1,0 @@
-5. § (1) Az adós a fizetési moratórium 4. § (4) bekezdése szerinti időtartama alatt bármikor dönthet úgy, hogy él a fizetési moratóriummal.
-
-(2) A fizetési moratórium esetén a teljesítést a szerződésnek a fizetési moratórium elrendelése előtt hatályos rendelkezései szerint kell jóváírni.
