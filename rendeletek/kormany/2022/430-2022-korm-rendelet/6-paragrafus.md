@@ -1,1 +1,0 @@
-6. § Az 5. § rendelkezéseit 2023. január 1. napjától alkalmazni kell az olyan, már létrejött szerződések vonatkozásában kezdeményezett szerződésmódosításokra is, amelyek esetén a szerződésmódosítás eredményeként a szerződésben rögzített ellenérték egy naptári évre eső része a bruttó húszmillió forintos értékhatárt eléri.
