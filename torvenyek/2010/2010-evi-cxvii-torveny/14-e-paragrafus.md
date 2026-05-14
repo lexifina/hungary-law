@@ -1,0 +1,1 @@
+14/E. § Az 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni a felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
