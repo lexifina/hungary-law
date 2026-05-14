@@ -1,1 +1,0 @@
-11. § A részvételi jelentkezést és az ajánlatot kizárólag a felszámoló által a részvételi felhívásban, illetve az ajánlattételi felhívásban meghatározott módon lehet benyújtani a felszámolóhoz. A felszámolóhoz beérkezett részvételi jelentkezés és ajánlat nem vonható vissza.
