@@ -1,3 +1,0 @@
-8. § (1) A felszámolás kezdő időpontjától számított 60 napon belül az ideiglenes vagyonfelügyelő, illetve a felszámoló megvizsgálja a befolyás alatt álló gazdálkodó szervezet fizetőképességét.
-
-(2) Az ideiglenes vagyonfelügyelő, illetve a felszámoló az (1) bekezdés szerinti vizsgálat alapján 3 munkanapon belül értesíti a bíróságot a befolyás alatt álló gazdálkodó szervezetek nevéről, székhelyéről, cégjegyzékszámáról és adószámáról. A bíróság haladéktalanul intézkedik – e rendeletre történő hivatkozással – a felszámolói értesítés Cégközlönyben történő közzétételéről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel, 0 órakor kerül sor.

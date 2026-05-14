@@ -1,9 +1,0 @@
-# 21/2023. (I. 30.) Korm. rendelet
-
-a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a bírósági végrehajtásról szóló 1994. évi LIII. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény veszélyhelyzet ideje alatt való eltérő alkalmazásáról, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási eljárások veszélyhelyzet ideje alatti részletszabályairól
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-21-20-22
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2023-01-31 | 2023-21-20-22.1 | 21/2023. (I. 30.) Korm. rendelet |
