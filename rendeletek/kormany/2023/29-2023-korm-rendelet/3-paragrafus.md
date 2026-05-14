@@ -1,1 +1,0 @@
-3. § Az egyes közigazgatási hatósági eljárásokkal összefüggő szabályok megállapításáról szóló 566/2022. (XII. 23.) Korm. rendelet 1. §-át az e rendelet hatálybalépését megelőzően előterjesztett kérelemre, az annak alapján meghozott döntésre és az azzal szembeni jogorvoslatra, valamint a döntés joghatásaira alkalmazni kell.
