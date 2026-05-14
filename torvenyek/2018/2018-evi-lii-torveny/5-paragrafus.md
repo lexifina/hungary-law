@@ -83,3 +83,5 @@ b) az Szja tv. szerint egyéb jövedelemnek minősülő jövedelmet és
 c) az 1. § (4) bekezdés c) pontja szerinti jövedelmet
 
 nem terheli adófizetési kötelezettség.
+
+(7) Nem terheli adófizetési kötelezettség az Szja tv. 70. § (4a) bekezdése szerint megállapított jövedelmet.
