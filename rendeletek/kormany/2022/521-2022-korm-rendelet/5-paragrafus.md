@@ -1,1 +1,0 @@
-5. § A Cstv. 24/A. §-át a 4. § (1) bekezdése szerint kirendelt ideiglenes vagyonfelügyelő esetén azzal az eltéréssel kell alkalmazni, hogy az ideiglenes vagyonfelügyelőt megilletik mindazok a jogok, amelyek a felszámolót megilletik.
