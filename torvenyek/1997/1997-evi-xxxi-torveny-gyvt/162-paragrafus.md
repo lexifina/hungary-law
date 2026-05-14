@@ -94,7 +94,7 @@ i) a hivatásos gondnoki feladatot ellátók képesítési előírásait,
 
 j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
-k) a gyermekvédelmi szakellátásban és a javítóintézetben foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
+k) a gyermekvédelmi szakellátásban foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
 
 l) a 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülményeket,
 
@@ -105,6 +105,8 @@ n)
 o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 
 p)
+
+(2a) Felhatalmazást kap a miniszter, hogy a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben határozza meg a javítóintézetben a nevelési tevékenység keretében foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, valamint a képzés- és a vizsgaszervezésre vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza
 

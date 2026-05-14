@@ -1,6 +1,6 @@
 ## A javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezése
 
-66/P. § (1) A fiatalkorú kérelmére a javítóintézet igazgatója akkor is engedélyezheti a javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezését, ha a fiatalkorú saját gyermeke ideiglenes hatállyal elhelyezett vagy nevelésbe vett, feltéve, hogy
+66/P. § (1) A fiatalkorú kérelmére a javítóintézet vezetője akkor is engedélyezheti a javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezését, ha a fiatalkorú saját gyermeke ideiglenes hatállyal elhelyezett vagy nevelésbe vett, feltéve, hogy
 
 a) a javítóintézetbe kerülés előtt is a fiatalkorú gondozta, nevelte a gyermekét,
 

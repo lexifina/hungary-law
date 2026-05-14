@@ -26,20 +26,14 @@ b) a gondozási helye előzetes egyeztetés alapján fogadja a szabadsága időt
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
 
-(8) A javítóintézetben
-
-a) a javítóintézet rendjének fenntartásában, valamint a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv, továbbá
-
-b) a javítóintézet rendjének fenntartásában, a javítóintézeti rendész feladatkörében eljárva – a büntetés-végrehajtási szervezet hivatásos állományú tagja szolgálatellátása útján – a büntetés-végrehajtási intézet
-
-közreműködhet.
+(8) A javítóintézetben a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
 
 (9) A (8) bekezdés szerinti esetben
 
-a) a szolgálatellátás nem irányulhat a javítóintézet rendjének fenntartásával, illetve – a (8) bekezdés a) pontja szerinti esetben – a bűncselekmények elkövetésének a megelőzésével össze nem függő tevékenységre, és
+a) a szolgálatellátás nem irányulhat a (8) bekezdésben meghatározott feladatok ellátásával össze nem függő tevékenységre, és
 
-b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv, illetve – a (8) bekezdés b) pontja szerinti esetben – a büntetés-végrehajtási intézet és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
+b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
 
-(10) A javítóintézetben a javítóintézet rendjének fenntartása érdekében működő biztonsági rendszert a büntetés-végrehajtás országos parancsokának az egyetértésével kell kialakítani.
+(10) Az általános rendőrségi feladatok ellátására létrehozott szerv a javítóintézetben folyamatos bűnmegelőzési célú rendőri felügyeletet biztosít, amelynek keretében rendszeres bűnmegelőzési tájékoztatást tart a javítóintézet, valamint a javítóintézetben neveltek számára létrehozott köznevelési intézmény dolgozói számára a javítóintézeti ellátottakkal szemben alkalmazható intézkedésekről és a velük való jogszerű bánásmódról.
 
-(11) A javítóintézet biztonsági rendszerét a büntetés-végrehajtás országos parancsnoka ellenőrizheti.
+(11) A (10) bekezdés szerinti tevékenység keretében biztosítani kell, hogy a javítóintézeti ellátottak a rendőrnek – a javítóintézet alkalmazottainak jelenléte, tudomása vagy jóváhagyása nélkül – zavartalanul beszámolhassanak az őket ért jogsértésekről.

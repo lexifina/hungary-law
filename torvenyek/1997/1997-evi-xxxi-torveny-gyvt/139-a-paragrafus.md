@@ -1,8 +1,8 @@
-139/A. § (1) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúról és a vele együttesen elhelyezett gyermekről – az ellátásuk, gondozásuk és nevelésük biztosítása céljából – a 135. § (2) bekezdés d) pontja szerinti adatokat – a Bv. tv. 347. § (3) bekezdés a) pontjával összhangban – a javítóintézeti informatikai rendszerben kezeli.
+139/A. § (1) A javítóintézet a javítóintézetben ellátott fiatalkorúról és a vele együttesen elhelyezett gyermekről – az ellátásuk, gondozásuk és nevelésük biztosítása céljából – a 135. § (2) bekezdés d) pontja szerinti adatokat – a Bv. tv. 347. § (3) bekezdés a) pontjával összhangban – a javítóintézeti informatikai rendszerben kezeli.
 
 (2) Az (1) bekezdés szerinti nyilvántartás nem minősül hatósági nyilvántartásnak.
 
-(3) Az (1) bekezdés szerinti javítóintézeti informatikai rendszer adataiból a javítóintézet igazgatója adatot szolgáltat
+(3) Az (1) bekezdés szerinti javítóintézeti informatikai rendszer adataiból a javítóintézet adatot szolgáltat
 
 a) a fiatalkorú pártfogó felügyelőjének,
 

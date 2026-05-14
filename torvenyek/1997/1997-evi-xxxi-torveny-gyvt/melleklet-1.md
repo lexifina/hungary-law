@@ -147,3 +147,11 @@ A kifogástalan életvitel ellenőrzése során kezelt személyes és bűnügyi 
 ## IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai
 
 ## 1. a jogviszony alatt megállapított illetmények, kifizetések adatai,
+
+## 2. jubileumi jutalomra vonatkozó adatok,
+
+## 3. lakhatási támogatásokra vonatkozó adatok,
+
+## 4. az aktuális tanulmányi szerződésre, tanulmányi támogatásra vonatkozó adatok,
+
+## 5. szociális vagy temetési segélyezésre, támogatásra vonatkozó adatok.

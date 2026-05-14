@@ -2,7 +2,7 @@
 
 66/N. § (1) A javítóintézet szervezeti felépítését és működési rendjét a szervezeti és működési szabályzat határozza meg.
 
-(2) A javítóintézet igazgatója a javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozóan – a Bv. tv.-ben foglaltak szerint – házirendet készít, amelyet a büntetés-végrehajtás országos parancsnokának jóvá kell hagynia.
+(2) A javítóintézetben ellátott fiatalkorúak, valamint a javítóintézet utógondozó részlegén ellátottak jogaira és kötelezettségeire, továbbá a javítóintézet belső életének rendjére vonatkozó rendelkezéseket a házirend rögzíti.
 
 (3) Az utógondozó részleg működését a szervezeti és működési szabályzat mellékletét képező utógondozási szabályzat és a részleg házirendje szabályozza.
 
