@@ -1,1 +1,0 @@
-2. § Mentes a végrehajtás alól a sportról szóló 2004. évi I. törvény 15. § (1) bekezdése szerinti sportszervezet részére nyújtott, működési célú állami támogatás (a továbbiakban: állami támogatás) teljes összege.
