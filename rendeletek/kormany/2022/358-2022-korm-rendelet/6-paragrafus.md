@@ -1,3 +1,0 @@
-6. § (1) Ha a mentességi igazolás kiállítását követően a kérelmező pénzügyi intézmény tudomására jut, hogy a mentesítési feltételek nem teljesülnek – különös tekintettel arra az esetre, ha a kérelemben megjelölt számlán rendelkezésre álló pénzeszköz nem a kérelemben megjelölt kezdeményező által megtett nyilatkozatban foglalt hivatalos célt szolgálja –, a kérelmező pénzügyi intézmény erről a tényről haladéktalanul értesíti a hatóságot, aki haladéktalanul intézkedik a mentességi igazolás visszavonásáról.
-
-(2) A hatóság az (1) bekezdésben meghatározott döntését a kérelmező pénzügyi intézmény részére történő megküldéssel egyidejűleg megküldi a kezdeményező, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az MNB részére.
