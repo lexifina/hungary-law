@@ -254,11 +254,11 @@ A-D = a kiegészítés mértékének számításakor alkalmazandó 2.2.2.1. pont
 
 3.3. A támogatás fajlagos összege:
 
-a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
+a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, nem városi jogállású támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
 
-b) a legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
+b) a legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
 
-3.4. A legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
 
 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 

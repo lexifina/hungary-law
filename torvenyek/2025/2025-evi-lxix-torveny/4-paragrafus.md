@@ -34,7 +34,7 @@ g) a hallgatói igényekhez igazodóan a Klebelsberg Képzési Ösztöndíj Prog
 
 (8) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Védelmi tartalék cím biztosít fedezetet a védelmi kiadások növekedéséből levezethető általános vagy védelemspecifikus rugalmassági mozgástér felhasználásakor teljesített kiadásokra.
 
-(9) A (8) bekezdés szerinti tartalékról a Kormány az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválása esetén az uniós szabályokból fakadó általános vagy védelemspecifikus rugalmassági mozgástér mértékéig átcsoportosíthat.
+(9) A (8) bekezdés szerinti tartalékról a Kormány az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválása esetén az uniós szabályokból fakadó általános vagy védelemspecifikus rugalmassági mozgástér mértékéig – legfeljebb összesen 860 milliárd forint összegben – átcsoportosíthat.
 
 (10) A (9) bekezdés szerinti átcsoportosítás csak akkor hajtható végre, ha
 
