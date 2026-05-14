@@ -1,1 +1,0 @@
-4. § Az állami felszámoló a 3. § alapján elrendelt felszámolási eljárásban az egyben, önállóan működőképes egységként történő értékesítésre alkalmas vagyonrész leválasztását a 3. § (9) bekezdése szerinti elrendeléstől, a leválasztott rész korai értékesítési mechanizmus keretében történő értékesítését a felszámolás kezdő időpontjától megkezdheti.
