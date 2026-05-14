@@ -83,3 +83,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2025-12-24 | 2025. évi CXXXIV. törvény | 2012-100-00-00.79 |
 | 2026-01-01 | 2025. évi XLIX. törvény | 2012-100-00-00.74 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2012-100-00-00.77 |
+| 2026-05-14 | 2026. évi XIV. törvény | 2012-100-00-00.80 |
