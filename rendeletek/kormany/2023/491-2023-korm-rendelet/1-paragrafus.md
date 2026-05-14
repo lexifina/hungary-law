@@ -1,7 +1,0 @@
-1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre való tekintettel, e rendelet erejénél fogva, e rendelet hatálybalépését követő 23. napon megszűnnek a Modern Városok Program 1. mellékletben felsorolt projektjeinek előkészítésére vagy megvalósítására irányuló hazai forrásból biztosított támogatási jogviszonyok.
-
-(2) Az (1) bekezdés szerinti támogatási jogviszony szerinti kedvezményezettek az e rendelet hatálybalépését követő 30. napig elszámolnak egymással.
-
-(3) Az (1) bekezdés szerinti támogatási jogviszony keretében biztosított és az e rendelet hatálybalépésének napjáig fel nem használt központi költségvetési forrás összegét a kedvezményezett ügyleti és késedelmi kamatmentesen – a (2) bekezdés szerinti elszámolásra tekintet nélkül – legkésőbb a támogatási jogviszony megszűnésének napját követő nyolcadik napon visszafizeti a központi költségvetés javára, a Magyar Államkincstárnál vezetett, 10032000-01200021-09060025 számú, „Beruházásokkal kapcsolatos visszafizetések” elnevezésű fizetési számlára.
-
-(4) A (2) bekezdés szerinti elszámolás alapján a támogatónak visszafizetendő összeget közvetlenül a (3) bekezdés szerinti fizetési számlára fizeti vissza a kedvezményezett.
