@@ -1,3 +1,0 @@
-1. § (1) Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 13/2020. (XII. 23.) PM rendelet [a továbbiakban: 13/2020. (XII. 23.) PM rendelet] szerinti bejelentési kötelezettség fennáll az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működésével összefüggésben a kockázatos termékek meghatározásáról szóló 51/2014. (XII. 31.) NGM rendeletben felsorolt termékeken kívül az 1. mellékletben meghatározott termékekre vonatkozóan is, a 13/2020. (XII. 23.) PM rendeletben foglaltak szerint.
-
-(2) Az 1. mellékletben felsorolt termékekre nem kell alkalmazni a 13/2020. (XII. 23.) PM rendelet szerinti biztosítéknyújtási kötelezettséget.
