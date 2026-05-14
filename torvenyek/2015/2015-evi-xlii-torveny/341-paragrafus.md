@@ -4,7 +4,7 @@
 
 2. megállapítsa
 
-a) a rendvédelmi szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
+a) a rendvédelmi szervnél vagy a rendvédelmi szerv által irányított szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
 
 b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényléssel betölthető szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket, valamint a vezényléssel betölthető szolgálati beosztások számát,
 
