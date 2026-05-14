@@ -1,1 +1,0 @@
-5. § E rendelet alapján az ügyfélszolgálati tevékenység végzésére irányuló szerződés határozott időtartamra köthető, amely időtartama nem lehet hosszabb, mint a veszélyhelyzet megszűnését követő 12 hónap.

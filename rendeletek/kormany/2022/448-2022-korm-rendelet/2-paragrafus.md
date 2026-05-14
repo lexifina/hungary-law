@@ -1,5 +1,0 @@
-2. § (1) A Vet. 94. § (3) bekezdésében és a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 84/B. § (1) bekezdésében foglaltaktól eltérően az ügyfélszolgálati tevékenység kiszervezése esetén az egyetemes szolgáltató előzetesen tájékoztatja a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: Hivatal).
-
-(2) A Vet. 94. § (5) bekezdésében foglaltaktól eltérően az ügyfélszolgálati tevékenység végzéséhez szükséges alapvető eszközökkel való rendelkezés egyetemes szolgáltató esetében sem igényel előzetes hozzájáruló határozatot.
-
-(3) A Vet. Vhr. 87. § (1) és (2) bekezdésében foglaltaktól eltérően, ha a közreműködő az engedélyes olyan kapcsolt vállalkozása, amely ügyfélszolgálati tevékenységet végez, az ügyfélszolgálati tevékenység végzésére más vállalkozást is feljogosíthat, és a közreműködő az ügyfélszolgálati tevékenység végzéséhez az engedélyes kapcsolt vállalkozását alvállalkozóként bevonhatja.
