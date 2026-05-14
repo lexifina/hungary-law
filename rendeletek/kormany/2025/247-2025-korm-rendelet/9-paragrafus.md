@@ -48,6 +48,6 @@
 
 ## (19) A hatóság a (17) és (18) bekezdésben meghatározott döntését a kérelmező pénzügyi intézmény részére történő megküldéssel egyidejűleg megküldi a kezdeményező, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az MNB részére.”
 
-9. §[^9]
+9. §[^8]
 
-[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
