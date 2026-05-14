@@ -1,1 +1,0 @@
-2. § E rendelet rendelkezéseit az egyházi jogi személy részére az e rendelet hatálybalépését megelőzően fejlesztési, beruházási céllal rendelkezésre bocsátott költségvetési támogatásból származó, átmenetileg szabad pénzeszközök esetében is alkalmazni kell.
