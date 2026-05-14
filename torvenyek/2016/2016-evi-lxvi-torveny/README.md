@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-66-00-00
 | 2020-01-01 | 2019. évi LXXIII. törvény | 2016-66-00-00.18 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2016-66-00-00.19 |
 | 2024-01-01 | 2023. évi CIX. törvény | 2016-66-00-00.22 |
+| 2026-05-14 | 2026. évi XIV. törvény | 2016-66-00-00.23 |
