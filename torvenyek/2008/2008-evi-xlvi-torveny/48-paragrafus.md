@@ -33,3 +33,5 @@ l) állami és közérdekű védekezést rendelhet el.
 (2) A zárlati és a vizsgálatköteles nem zárlati károsítóval fertőzött területet, növényt, növényi terméket és az azt tartalmazó szállítmányt, raktárt, eszközt növény-egészségügyi zárlat alá kell helyezni, illetőleg behozatalnál a szállítmányt vissza kell utasítani attól függetlenül, hogy az rendelkezik növény-egészségügyi bizonyítvánnyal.
 
 (3) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában fel nem sorolt egyéb károsítóval erős mértékben fertőzött növény behozatalánál a szállítmányra e törvényben, e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában foglaltak szerint növényvédelmi korlátozást rendelhet el, illetve a szállítmányt visszautasíthatja.
+
+(4) Növénybetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében az élelmiszerlánc-felügyeleti szerv természetes személyt, jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet aktív közreműködésre kötelezhet.
