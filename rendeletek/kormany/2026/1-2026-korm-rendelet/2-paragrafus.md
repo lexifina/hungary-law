@@ -1,1 +1,0 @@
-2. § A veszélyhelyzet ideje alatt a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/A. § (2) és (3) bekezdésében foglaltak nem alkalmazandók.
