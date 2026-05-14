@@ -1,1 +1,0 @@
-5. § Ez a rendelet az (EU) 2022/1273 tanácsi rendelettel módosított, az Ukrajna területi integritását, szuverenitását és függetlenségét aláásó vagy fenyegető intézkedések miatti korlátozó intézkedésekről szóló, 2014. március 17-i 269/2014/EU tanácsi rendelet 6b. cikk (2a) és (2b) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
