@@ -1,1 +1,0 @@
-3. § Amennyiben a fogyasztók érdekeinek védelme érdekében szükséges, az általános politikai koordinációért felelős miniszter meghatározhatja a kereskedő által közzéteendő, meghatározott tartalmú és formájú tájékoztatást.

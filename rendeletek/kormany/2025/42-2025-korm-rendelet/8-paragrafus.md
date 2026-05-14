@@ -1,1 +1,0 @@
-8. § A 2. § (1) és (2) bekezdését, valamint az árrés tekintetében a 2. § (6) bekezdését az e rendelet hatálybalépését követő ötödik munkanaptól kell alkalmazni az e rendelet hatálybalépése napján a fogyasztók számára értékesítésre kínált nem egalizált termékek esetén.
