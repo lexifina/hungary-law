@@ -1,1 +1,0 @@
-3. § A Kttv. 254/B. §-a szerinti, a 2025. évi évközi illetményemelés végrehajtását segítő intézkedések a vármegyei önkormányzatokat a 2025. évben megillető kiegészítő támogatás felhasználása esetében is alkalmazhatóak.
