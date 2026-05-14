@@ -8,6 +8,6 @@
 
 (4) A látogatás félbeszakítható, ha a fiatalkorú vagy látogatója a látogatás rendjét megsérti, és a szabálysértő viselkedéssel figyelmeztetés ellenére sem hagy fel. A látogatást félbe kell szakítani, ha a fiatalkorú vagy látogatója magatartása az intézet biztonságát közvetlenül sérti, vagy veszélyezteti.
 
-(5) Az igazgató indokolt esetben rendkívüli látogatást is engedélyezhet.
+(5) A javítóintézeti parancsnok indokolt esetben rendkívüli látogatást is engedélyezhet.
 
 (6) Jogi személyiséggel rendelkező vallási közösség, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.

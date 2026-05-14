@@ -4,13 +4,13 @@
 
 a) a családjukba nem térhetnek vissza, továbbá az elbocsátás idejére nem sikerült számukra lakhatási lehetőséget és megélhetési feltételeket teremteni,
 
-b) a megkezdett tanulmányaikat a javítóintézeti oktatás, képzés keretein belül szeretnék befejezni
+b) a megkezdett tanulmányaikat a javítóintézeti oktatás, képzés keretein belül szeretnék befejezni,
 
 a javítóintézet utógondozó részleget működtet.
 
-(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára az igazgató dönt.
+(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára a nevelési vezető dönt.
 
-(3) Az elhelyezést az igazgató megszünteti
+(3) Az elhelyezést a nevelési vezető megszünteti
 
 a) a fiatalkorú kérelmére,
 

@@ -6,7 +6,7 @@
 
 a) nevelői dicséret,
 
-b) igazgatói dicséret,
+b) parancsnoki dicséret,
 
 c) tárgyjutalom,
 
@@ -22,4 +22,4 @@ h) szabadság engedélyezése.
 
 (3) A jutalom kimenő havonta egyszer legfeljebb tizenkét óra időtartamban, a jutalom eltávozás évente két alkalommal legfeljebb öt napra, a jutalom szabadság évente egy alkalommal legfeljebb tíz napra adható. A jutalom kimenő, eltávozás és szabadság a kapcsolattartásként engedélyezett kimenő, eltávozás és szabadság tartamán felül adható, és az a javítóintézeti nevelés tartamába beszámít.
 
-(4) A (2) bekezdés b)–h) pontjában megjelölt jutalmazási forma alkalmazására az igazgató jogosult.
+(4) A (2) bekezdés b)–h) pontjában megjelölt jutalmazási forma alkalmazására a nevelési vezető jogosult.

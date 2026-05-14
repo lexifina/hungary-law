@@ -1,3 +1,5 @@
+## A közérdekű munka kötelező átváltoztatása szabadságvesztésre
+
 65. § (1) A büntetés-végrehajtási bíró hivatalból vagy az ügyészség indítványára a Btk. 49. §-ában meghatározott feltételek fennállása esetén – az iratok alapján – a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre változtatja át.
 
 (2) A bűnügyi költséget az állam viseli.

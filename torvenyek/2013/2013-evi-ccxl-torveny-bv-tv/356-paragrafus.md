@@ -4,7 +4,7 @@
 
 a) az intézkedés végrehajtásának rendjét, az intézet házirendjét, biztonsági és higiéniai követelményeit megtartani,
 
-b) javítóintézetben az igazgató által kijelölt csoportban nevelkedni,
+b) javítóintézetben a nevelési vezető által kijelölt csoportban nevelkedni,
 
 c) a javítóintézet elhagyásához engedélyt kérni,
 

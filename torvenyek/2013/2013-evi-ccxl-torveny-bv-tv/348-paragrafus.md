@@ -4,4 +4,4 @@
 
 (2) A fiatalkorúak életkoruk, továbbá egészségügyi és nevelési szempontok szerint csoportosíthatók.
 
-(3) A tizenhatodik életévüket be nem töltött és a tizenhatodik életévüket betöltött javítóintézeti nevelteket a javítóintézetben külön lakóegységben kell elhelyezni, kivéve ha a fiatalkorú érdekében az igazgató ettől eltérően rendelkezik.
+(3) A tizenhatodik életévüket be nem töltött és a tizenhatodik életévüket betöltött javítóintézeti nevelteket a javítóintézetben külön lakóegységben kell elhelyezni, kivéve ha a fiatalkorú érdekében a nevelési vezető ettől eltérően rendelkezik.
