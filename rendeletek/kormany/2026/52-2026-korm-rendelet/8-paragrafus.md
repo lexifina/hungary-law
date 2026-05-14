@@ -1,1 +1,0 @@
-8. § A felszabadított készlet csak a nemzetközi energiabiztonsági válsághelyzetre tekintettel a magyarországi üzemanyagellátás védelméről szóló kormányrendelet szerinti védett áras üzemanyagként értékesíthető.
