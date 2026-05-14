@@ -1,5 +1,0 @@
-2. § (1) A Btv. 7. § (1) bekezdését az R. 4. §-a alapján elrendelt felszámolási eljárással összefüggésben igényelt támogatás vonatkozásában azzal az eltéréssel kell alkalmazni, hogy a támogatási igény meghatározása során egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének harmincszorosa vehető figyelembe.
-
-(2) A Btv. 7. § (3) bekezdése az R. 4. §-a alapján elrendelt felszámolási eljárással összefüggésben igényelt támogatás vonatkozásában nem alkalmazandó.
-
-(3) A Btv. 11. § (3) bekezdését az R. 4. §-a alapján elrendelt felszámolási eljárással összefüggésben igényelt támogatás vonatkozásában azzal az eltéréssel kell alkalmazni, hogy a támogatási igény meghatározása során egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének tizenkétszerese vehető figyelembe.
