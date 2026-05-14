@@ -1,1 +1,1 @@
-### 12. §
+12. § A távhőszolgáltató a lakossági felhasználó és a lakossági díjfizető részére – a 3. §-ban biztosított kedvezményen felül – a 2026. január hónapra eső hőfelhasználásért a távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló miniszteri rendelet (a továbbiakban: Árrendelet) szerint megállapított szolgáltatási díj alapdíj nélküli részének 30%-kal csökkentett értékéről állít ki számlát legkésőbb a 2026. tavasszal induló elszámolás során.
