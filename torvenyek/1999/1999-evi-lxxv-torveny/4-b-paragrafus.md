@@ -1,1 +1,1 @@
-### 4/B. §
+4/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség) a büntetőeljárás befejezéséig, de legfeljebb három havi időtartamra az üzletet ideiglenesen bezárathatja, ha megállapítja, hogy olyan, a 4/A. § a)–d) pontja szerinti bűncselekmény elkövetése miatt indult büntetőeljárás, amelyet az üzlet területén követtek el, feltéve, hogy a büntetőeljárás megindítására nem az üzlet működési engedélyének a jogosultja vagy a vendéglátóhely működéséért felelős személy adatszolgáltatása alapján került sor.
