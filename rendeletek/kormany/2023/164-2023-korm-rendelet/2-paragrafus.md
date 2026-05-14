@@ -1,1 +1,0 @@
-2. § Az Országgyűlés Hivatala a Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozattal összefüggő beruházások, fejlesztések megvalósítására a 2024–2027. évekre 112 405 500 000 forint összegben vállalhat kötelezettséget.
