@@ -1,1 +1,0 @@
-3. § Az Fhtv. 17/A. § (5) bekezdésétől eltérően az Fhtv. 17/A. § (1) bekezdés alkalmazásában a teljes hiteldíj mutató meghatározásakor figyelembe kell venni a jelzáloghitel fedezetéül szolgáló ingatlanra vonatkozó vagyonbiztosítás díját.
