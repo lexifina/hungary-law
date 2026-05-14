@@ -1,7 +1,0 @@
-2. § (1) Az Nvtv. 7/A. §-ában foglaltaktól eltérően a Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: állami felszámoló) tekintetében – kizárólag az állami felszámolónak az ISD DUNAFERR Dunai Vasmű Zártkörűen Működő Részvénytársaság „felszámolás alatt”, a Duna Furnace Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint a Dunarolling Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt” felszámolási eljárásának stratégiailag kiemelt jelentőségű felszámolási eljárássá minősítéséről szóló 326/2025. (X. 20.) Korm. rendelet (a továbbiakban: Kiemelő R.) szerinti felszámolási eljárásokkal kapcsolatos tevékenységével összefüggésben – az államot megillető tulajdonosi jogokat és kötelezettségeket a magyar acélipar megmentéséért felelős kormánybiztos (a továbbiakban: kormánybiztos) gyakorolja.
-
-(2) A Kiemelő R. szerinti felszámolási eljárásokkal összefüggésben, az állami felszámoló a kormánybiztossal együttműködésben végzi tevékenységét.
-
-(3) A Kiemelő R. szerinti felszámolási eljárásban a vagyonelemek felszámoló általi értékesítése esetén a kormánybiztos – a Polgári Törvénykönyv 3:405. § (2) bekezdésétől eltérően – jogosult a Magyar Állam nevében vételi ajánlatot tenni, és az R. 2. § (1) bekezdése szerinti beszámítási jogot gyakorolni.
-
-(4) A (3) bekezdés szerinti esetben a beszámítandó állami követeléseket – az R. 2. § (2) bekezdésétől eltérően – számvitelileg a Miniszterelnöki Kabinetirodának kell átadni.
