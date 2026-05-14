@@ -42,7 +42,7 @@ bc) az e § szerinti különadót.
 
 a) a 2025-ben kezdődő adóévben a (2) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 7 százalék, az e feletti összegre 18 százalék,
 
-b) a 2026-ban kezdődő adóévben a (3) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 8 százalék, az e feletti összegre 20 százalék.
+b) a 2026-ban kezdődő adóévben a (3) bekezdés szerinti adóalap 20 milliárd forintot meg nem haladó része után 10 százalék, az e feletti összegre 30 százalék.
 
 (5) A hitelintézet, a pénzügyi vállalkozás a 2025. adóévre vonatkozó különadót 2025. június 10-ig külön nyomtatványon megállapítja, és az adókötelezettséget 2025. június 10-ig és 2025. december 10-ig két egyenlő részletben megfizeti.
 
@@ -64,7 +64,7 @@ b) a 2026-ban kezdődő adóévben a (3) bekezdés szerinti adóalap 20 milliár
 
 (14) A (13) bekezdés alkalmazásában állampapír alatt a 2030. január 1-jét követően lejáró Magyar Államkötvény elnevezésű, forintban denominált, aukció keretében forgalomba hozott állampapírokat kell érteni, azzal, hogy a Tpt. szerint meghatározott fordított repóügyletek, értékpapírkölcsön ügyletek, és az (EU) 2015/2365 rendelet 3. cikk 8. pontjában meghatározott vétel-eladás (buy-sell back) ügyletek keretében megszerzett állampapírok nem tartoznak e rendelkezés hatálya alá.
 
-(15) A (13) bekezdés alapján alkalmazható csökkentés összege a (14) bekezdés szerinti állampapír állomány névérték-növekményének 10 százaléka, de legfeljebb az e § szerinti különadó (14) bekezdés alapján alkalmazható csökkentés figyelembevétele nélkül számított, adóévre fizetendő összegének 50 százaléka, figyelemmel a (16) bekezdésre. Az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
+(15) A (13) bekezdés alapján alkalmazható csökkentés összege a (14) bekezdés szerinti állampapír állomány névérték-növekményének 10 százaléka, de legfeljebb az e § szerinti különadó (14) bekezdés alapján alkalmazható csökkentés figyelembevétele nélkül számított, adóévre fizetendő összegének 30 százaléka, figyelemmel a (16) bekezdésre, azzal, hogy az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
 
 (16) A (13)–(15) bekezdés alkalmazása során a (14) bekezdés szerinti állampapír állomány névérték-növekménye legfeljebb azon összegben vehető figyelembe, amilyen összegben a hitelintézet, a pénzügyi vállalkozás a tulajdonában lévő valamennyi forintban denominált állampapírnak – ideértve a (14) bekezdés szerinti állampapírt és a (14) bekezdés szerinti állampapíron kívüli, magyar állam által nem a lakosság részére kibocsátott állampapírt, de ide nem értve a Tpt. szerint meghatározott fordított repóügyletek, értékpapírkölcsön ügyletek, és az (EU) 2015/2365 rendelet 3. cikk 8. pontjában meghatározott vétel-eladás (buy-sell back) ügyletek keretében megszerzett állampapírt – a 2024. szeptember 1-je és 2024. november 30-a és a 2025. szeptember 1-je és 2025. november 30-a közötti időszakra vonatkozó napi átlagos állománya közül a legmagasabb értékhez viszonyítottan a 2026. január 1-je és 2026. november 30-a közötti időszakra vonatkozó napi átlagos állománya növekszik. Az állampapírok e bekezdés szerinti napi átlagos állományának kiszámításához az állampapírok névértékét kell figyelembe venni.
 
