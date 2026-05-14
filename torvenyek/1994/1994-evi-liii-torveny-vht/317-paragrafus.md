@@ -11,19 +11,3 @@ c) a kölcsönös elismerés elvének a vagyonelkobzást elrendelő határozatok
 d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
 
 e) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.
-
-(2) E törvény
-
-a) 13. §-ának (3) bekezdése, 16. §-ának j) pontja, 31/C. §-a, 37/B. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
-
-b) 16. §-ának f) pontja az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendelet, a közösségi formatervezési mintákról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, valamint a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet,
-
-c) 16. §-ának g) pontja, 23/B. §-ának (2) bekezdése, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
-
-d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
-
-e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-
-f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
