@@ -1,3 +1,0 @@
-2. §[^2] Az R1. 1. § (1) bekezdése szerinti szerződés tervezetét a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter részére úgy kell megküldeni, hogy az tartalmazza a szerződés teljesítésébe bevont vagy bevonandó valamennyi alvállalkozó, közreműködő, teljesítési segéd személyét és a beazonosításukhoz szükséges adatokat, valamint a szerződés teljesítésében való részvételük arányát, tervezett arányát, azzal, hogy alvállalkozók, közreműködők, teljesítési segédek összesen legfeljebb huszonöt százalékos mértékben vehetők igénybe a szerződés teljesítéséhez.
-
-[^2]: A 2. § a 600/2023. (XII. 22.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

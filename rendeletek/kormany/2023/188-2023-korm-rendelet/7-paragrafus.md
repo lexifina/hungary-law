@@ -1,3 +1,0 @@
-7. § (1) Az 1. alcím, valamint a 4. § rendelkezéseit az e rendelet hatálybalépését követően előkészített szerződéstervezetekre kell alkalmazni.
-
-(2) Az e rendelet hatálybalépéséig az R1. alapján már jóváhagyott szerződések esetén a közigazgatás-fejlesztésért felelős miniszter részére tájékoztatásul meg kell küldeni valamennyi, 2023. január 1-jei vagy azt követő hatálybalépési időponttal megkötött szerződés teljesítésébe bevont vagy bevonandó valamennyi alvállalkozó, közreműködő, teljesítési segéd személyére, illetve azok beazonosítására, valamint a szerződés teljesítésében való részvételük arányára, tervezett arányára vonatkozó adatokat legkésőbb az e rendelet hatálybalépését követő 15. napig.
