@@ -1,0 +1,5 @@
+52/D. § (1) A Nemzeti Adó- és Vámhivatal ellenőrzi az 52/A. § szerinti kötelezettségek megtartását. Ha a Nemzeti Adó- és Vámhivatal ellenőrzése során megállapítja a kötelezettségek megsértését, 6 000 000 forinttól 15 000 000 forintig terjedő bírságot szab ki. A jogkövetkezmény azonos napon több, egymást követő ellenőrzés alkalmával is alkalmazható.
+
+(2) Ha a Nemzeti Adó- és Vámhivatal vagy a rendőrség az 52/B. § szerinti tilalom megtartásának ellenőrzése során megállapítja a tilalom megsértését, 100 000 000 forinttól 5 000 000 000 forintig, de legalább a jogellenesen kivitt készlet piaci értékének háromszorosáig terjedő bírságot szab ki. A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni. E bírság kiszabásának nincs helye, ha az értékesítés az üzemanyagtöltő állomáson töltött jármű üzemanyag tankjába történik.
+
+(3) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerinti bírság kiszabásától ellátásbiztonsági okból eltekinthet, ha a kötelezettségszegés a hatósági áras üzemanyagként történő értékesítési kötelezettség megszegésével összefüggésben történt.

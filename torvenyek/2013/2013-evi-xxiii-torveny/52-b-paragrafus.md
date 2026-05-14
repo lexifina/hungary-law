@@ -1,0 +1,1 @@
+52/B. § Az 52/A. § szerint felszabadított készletre jogosult tag és annak viszonteladója a felszabadított készletet az ország területéről nem viheti ki, és nem értékesítheti olyan módon, amely annak Magyarország területéről történő kivitelét eredményezi.

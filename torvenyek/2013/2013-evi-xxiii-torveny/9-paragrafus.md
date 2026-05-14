@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti rendeletben meg kell határozni:
 
-a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét,
+a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését, mennyiségét, valamint értékesítési- és – összhangban az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezéseivel – kereskedelmi árát,
 
 b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét.
 
@@ -24,7 +24,7 @@ e) a kőolajfinomítóval rendelkező gazdálkodó szervezetek részére előír
 
 (5) A (2) bekezdés alapján felhasználásra engedélyezett készleteket – a rendeletben előírt módon és feltételek szerint – a Szövetség értékesíti.
 
-(6) A kőolajat és a kőolajtermékeket olyan áron kell értékesíteni, hogy az fedezetet nyújtson a készlet visszapótlásának várható költségeire.
+(6)
 
 (7) A miniszter a biztonsági kőolajkészletből történő felhasználás előírása esetén haladéktalanul tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság) és a Nemzetközi Energia Programról szóló, Párizsban, 1974. november 18-án kelt Egyezmény és annak Jegyzőkönyvei, valamint a Gazdasági Együttműködési és Fejlesztési Szervezetnek a Nemzetközi Energia Ügynökséget létrehozó C(74)203 (végső) határozatának kihirdetéséről szóló 1999. évi XXXIX. törvénynek (a továbbiakban: 1999. évi XXXIX. törvény) megfelelően a Nemzetközi Energia Ügynökséget
 
