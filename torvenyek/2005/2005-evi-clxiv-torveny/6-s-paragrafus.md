@@ -1,0 +1,1 @@
+6/S. § Ha a fogyasztók érdekeinek védelme érdekében szükséges, az általános politikai koordinációért felelős miniszter (ezen alcím vonatkozásában a továbbiakban: miniszter) meghatározhatja a kereskedő által közzéteendő, meghatározott tartalmú és formájú tájékoztatást.

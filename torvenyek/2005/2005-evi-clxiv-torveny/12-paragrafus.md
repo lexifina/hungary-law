@@ -62,6 +62,12 @@ d)–f)
 
 rendeletben állapítsa meg.
 
+(4a) Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy
+
+a) – ha a fogyasztók érdekeinek védelme érdekében szükséges – a 6/N. § szerinti tájékoztatás formáját és tartalmát rendeletben megállapíthassa;
+
+b) – ha a fogyasztók érdekeinek védelme érdekében szükséges − a 6/S. § szerinti tájékoztatás formáját és tartalmát rendeletben megállapíthassa.
+
 (5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
 
 (5a) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy
