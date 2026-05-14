@@ -1,6 +1,6 @@
-146/G. § (1) Vezetékes PB-gáz szolgáltatást 2012. december 1-jét követően megkezdő vezetékes PB-gáz szolgáltató esetében a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, vezetékes PB-gáz szolgáltatók által 2012. december 1-jén alkalmazott árak 2012. évben értékesített mennyiség szerint súlyozott átlagának 90 %-át.
+146/G. § (1) A 146/E. § és a 146/F. §-ban előírt tárolási kötelezettség ellenőrzését – beleértve az annak végrehajtására való felkészülést is – a Hivatal végzi, és azok megsértése esetén a 119. §-ban előírt jogkövetkezményeket alkalmazza azzal, hogy figyelmeztetésnek nincs helye.
 
-(2)
+(2) A 146/E. § és a 146/F. §-ban foglaltak végrehajtásának ellenőrzése érdekében bekért adatok, információk nem vagy késedelmes benyújtása esetén a Hivatal eljárási bírságot szab ki.
 
 (3)
 

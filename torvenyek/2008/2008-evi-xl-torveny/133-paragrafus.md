@@ -1,6 +1,6 @@
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-1.
+1. a 146/E. § és a 146/F. § szerinti készletek létrehozásának, valamint a 146/E. § szerinti készletek fenntartásának és megszüntetésének részletszabályait;
 
 2. a kedvezményes lakossági sávhatárt a 35. § (2) bekezdést kivéve, a kedvezményes mikrovállalkozói sávhatárt, a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig az egyetemes szolgáltatáshoz kapcsolódóan az árakat, a kedvezményes lakossági sávhatárra és többletmennyiségre vonatkozó egyedi szabályokat, az áralkalmazási feltételeket, az árszabályozás kereteit, a 107. § (4) bekezdés alapján meghatározott kedvezményes lakossági sávhatár jogszerű igénybevételének ellenőrzési folyamatát, jogosulatlanul igénybevétel esetén alkalmazandó jogkövetkezményeket;
 
