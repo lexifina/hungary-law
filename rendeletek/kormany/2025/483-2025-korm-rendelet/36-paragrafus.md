@@ -1,3 +1,1 @@
-36. §[^36]
-
-[^36]: A 36. § a 44. § (2) bekezdése alapján 2026. május 15-én lép hatályba.
+36. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 127. § (1) bekezdés nyitó szövegrészében a „cím” szövegrész helyébe a „címadat” szöveg lép.
