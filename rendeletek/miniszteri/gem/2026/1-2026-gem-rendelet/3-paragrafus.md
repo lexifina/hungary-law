@@ -1,0 +1,1 @@
+3. § A Szövetség a felszabadított készleteinek visszapótlását az ellátásbiztonság érdekében haladéktalanul megkezdi, készleteit folyamatosan visszapótolja legkésőbb 2027. június 30-ig. A Szövetség a felszabadított készletei értékesítéséből származó bevételeit a felszabadított készletek visszapótlására fordítja.
