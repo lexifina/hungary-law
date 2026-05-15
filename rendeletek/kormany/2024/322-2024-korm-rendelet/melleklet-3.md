@@ -2,7 +2,7 @@
 
 A PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésének szabályai
 
-1.[^106] A kijelölt szolgáltató e mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott, a 91. § (1) bekezdése szerinti szervezeteknek.
+1.[^108] A kijelölt szolgáltató e mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott, a 91. § (1) bekezdése szerinti szervezeteknek.
 
 1.1. Csatlakozási díj: a kijelölt szolgáltató csatlakozásonként csatlakozási díjat számol fel a szolgáltatáshoz való csatlakozást követően.
 
@@ -10,9 +10,9 @@ A PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésén
 
 1.3. Tranzakciós díj: a kijelölt szolgáltató tranzakciós díjat számol fel az adott szolgáltatás igénybevételi tranzakció száma és a tranzakció egységdíjának szorzata alapján azon szolgáltatás esetében, ahol az igénybevétel tranzakcióalapú és mérhető. A tranzakciós díj havi díjban megállapított tranzakciószám felett fizetendő.
 
-2.[^107]
+2.[^109]
 
 3. A díjak összegét és megfizetésének módját a kijelölt szolgáltató a honlapján közzéteszi.
 
-[^106]: A 3. melléklet 1. pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 32. pontja szerint módosított szöveg.
-[^107]: A 3. melléklet 2. pontját a 483/2025. (XII. 31.) Korm. rendelet 37. §-a hatályon kívül helyezte.
+[^108]: A 3. melléklet 1. pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 32. pontja szerint módosított szöveg.
+[^109]: A 3. melléklet 2. pontját a 483/2025. (XII. 31.) Korm. rendelet 37. §-a hatályon kívül helyezte.

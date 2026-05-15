@@ -1,4 +1,4 @@
-127. § (1) A központi címregiszterben nyilvántartott cím annak megismerése és kezelése céljából – a (3) bekezdésben foglaltak kivételével – automatikus adatátvétellel továbbítható
+127. § (1)[^80] A központi címregiszterben nyilvántartott címadat annak megismerése és kezelése céljából – a (3) bekezdésben foglaltak kivételével – automatikus adatátvétellel továbbítható
 
 a) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, valamint az ingatlanügyi hatóság mint címadatot tartalmazó állami és önkormányzati nyilvántartást vezető szervek,
 
@@ -8,7 +8,7 @@ c) az Okos Város Központi Platform Települési Térinformatikai Platformjána
 
 d) az állami adóhatóság
 
-e)[^80] a Központi Statisztikai Hivatal
+e)[^81] a Központi Statisztikai Hivatal
 
 számára.
 
@@ -16,4 +16,8 @@ számára.
 
 (3) A központi címregiszter működtetéséért felelős szerv az egyetemes postai szolgáltató számára a címkezelési eljárással kapcsolatos feladatainak ellátása érdekében a központi címregiszterben szereplő címeket megismerhetővé teszi. A közreműködő szervek az átadott adatokra vonatkozóan önálló adatszolgáltatást és önálló adattovábbítást nem teljesíthetnek.
 
-[^80]: A 127. § (1) bekezdés e) pontját a 164/2025. (VI. 23.) Korm. rendelet 43. §-a iktatta be.
+(4)[^82] A központi címregiszterben nyilvántartott címadat és változása annak megismerése céljából automatikus adatátvétellel továbbítható a digitális szolgáltatás nyújtására kötelezett szerv és a digitális szolgáltatás biztosítására kötelezett szervezet részére.
+
+[^80]: A 127. § (1) bekezdés nyitó szövegrésze a 483/2025. (XII. 31.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^81]: A 127. § (1) bekezdés e) pontját a 164/2025. (VI. 23.) Korm. rendelet 43. §-a iktatta be.
+[^82]: A 127. § (4) bekezdését a 483/2025. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
