@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) és j) pontja, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 13. § (1) bekezdése alapján – a külgazdasági és külügyminiszter előterjesztésére – Fülöp Viktor Géza részére rendkívüli és meghatalmazott nagyköveti rangot adományozok, és megbízom Magyarország pretoriai nagykövetségének a vezetésével, valamint Magyarországnak a Szváziföldi Királyságban, a Namíbiai Köztársaságban, a Zimbabwei Köztársaságban, a Lesothói Királyságban, a Botswanai Köztársaságban, a Zambiai Köztársaságban, a Mauritiusi Köztársaságban, a Madagaszkári Köztársaságban és a Malawi Köztársaságban való képviseletével.
+
+SP ügyszám: SP/3769-2/2025
