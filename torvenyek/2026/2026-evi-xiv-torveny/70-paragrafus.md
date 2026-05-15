@@ -1,1 +1,1 @@
-70. § A rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 1. § (5) bekezdésében a „rendeletben meghatározott” szövegrész helyébe a „rendeletben (a továbbiakban: ESZ rendelet) meghatározott” szöveg lép.
+### 70. §

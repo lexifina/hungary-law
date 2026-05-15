@@ -1,1 +1,1 @@
-89. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 2. pont a) alpontjában a „szervnél rendszeresített” szövegrész helyébe a „szervnél vagy a rendvédelmi szerv által irányított szervnél rendszeresített” szöveg lép.
+### 89. §

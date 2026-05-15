@@ -1,1 +1,1 @@
-101. § A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 4. § (9) bekezdésében a „mértékéig átcsoportosíthat.” szövegrész helyébe a „mértékéig – legfeljebb összesen 860 milliárd forint összegben – átcsoportosíthat.” szöveg lép.
+### 101. §

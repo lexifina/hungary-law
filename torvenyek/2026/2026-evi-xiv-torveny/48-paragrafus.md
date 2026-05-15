@@ -1,3 +1,1 @@
-48. § A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény I/A. Fejezete a következő 4/B. §-sal egészül ki:
-
-„4/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség) a büntetőeljárás befejezéséig, de legfeljebb három havi időtartamra az üzletet ideiglenesen bezárathatja, ha megállapítja, hogy olyan, a 4/A. § a)–d) pontja szerinti bűncselekmény elkövetése miatt indult büntetőeljárás, amelyet az üzlet területén követtek el, feltéve, hogy a büntetőeljárás megindítására nem az üzlet működési engedélyének a jogosultja vagy a vendéglátóhely működéséért felelős személy adatszolgáltatása alapján került sor.”
+### 48. §
