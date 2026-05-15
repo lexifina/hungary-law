@@ -1,1 +1,3 @@
-13. § Hatályát veszti az 52/2012. (III. 28.) Korm. rendelet 13/E. § (1) bekezdésében a „kiállításával kapcsolatos eljárási szabályokról szóló 358/2022. (IX. 19.) Korm. rendelet szerinti diplomáciai mentességi igazolás” szövegrész.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
