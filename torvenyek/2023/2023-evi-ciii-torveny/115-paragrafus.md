@@ -10,6 +10,8 @@
 
 5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
 
+6. az adópolitikáért felelős miniszterrel egyetértésben a címadatoknak a digitális szolgáltatás nyújtására kötelezett szerv és a digitális szolgáltatás biztosítására kötelezett szervezet általi, központi címregiszterből történő megismeréséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
+
 (2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg
 
 a) a szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági követelményeit, továbbá a követelményeknek való megfelelés igazolásának módját,
