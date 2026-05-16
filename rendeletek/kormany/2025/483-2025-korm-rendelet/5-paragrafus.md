@@ -1,5 +1,5 @@
 ## 2. A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosítása
 
-5. §[^5]
+5. §[^6]
 
-[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
