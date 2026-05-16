@@ -1,0 +1,1 @@
+A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 228. § (2) bekezdés b) pontja alapján – a Miniszterelnöki Kabinetirodát vezető miniszter javaslatára – dr. Havasi Bertalant, a Miniszterelnöki Kabinetiroda helyettes államtitkárát e tisztségéből – azonnali hatállyal – felmentem.
