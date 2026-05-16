@@ -1,0 +1,5 @@
+8. § (1) A Wekerle Sándor Kárpát-medencei Gazdasági Díjjal az adományozást igazoló okirat, emlékszobor, valamint emlékérem jár.
+
+(2) A Wekerle Sándor Kárpát-medencei Gazdasági Díjjal járó emlékszobor – amely Nagy Benedek szobrászművész alkotása – Wekerle Sándor halálának 90. évfordulója alkalmából Móron felállított köztéri szobor bronzötvözetű, kicsinyített mása.
+
+(3) A Wekerle Sándor Kárpát-medencei Gazdasági Díjjal járó, bronzpatinázott kivitelű, rézötvözetű emlékérem 90% réz és 10% cink ötvözetéből készült, súlya 335 gramm, átmérője 100 mm, széle sima. Az emlékérem előlapján, a középmezőben Wekerle Sándor portréjának ábrázolása látható, jobb oldalon, a portré ábrázolásába ágyazva az emlékérmet tervező Pelcz Balázs mesterjegyével. A portré ábrázolásától jobbra, az alapsíktól kissé megemelt, téglalap formájú felületen a díj átadásának évszáma olvasható. Az emlékérem szélén, felső köriratban a „KÁRPÁT-MEDENCEI GAZDASÁGI DÍJ”, alsó köriratban a „WEKERLE SÁNDOR” felirat olvasható. Az emlékérem hátlapján a Buda Palota épülete Várfok utcára néző homlokzatrészletének ábrázolása látható, lent, az ábrázolásba ágyazva a „BP.” verdejel található.
