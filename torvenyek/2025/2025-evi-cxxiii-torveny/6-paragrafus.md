@@ -4,4 +4,4 @@ a)
 
 b)
 
-c)
+c) 52/J. § (3) bekezdése.
