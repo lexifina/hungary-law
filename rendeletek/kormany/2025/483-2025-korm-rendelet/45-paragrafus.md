@@ -1,5 +1,0 @@
-45. § (1) Ez a rendelet a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének a végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(2) Ez a rendelet a közszféra Unión belüli magas szintű interoperabilitását biztosító intézkedések meghatározásáról (az interoperábilis Európáról szóló rendelet) szóló, 2024. március 13-i 2024/903 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(3) Ez a rendelet az (EU) 2024/903 európai parlamenti és tanácsi rendeletnek az interoperabilitási szabályozói tesztkörnyezetek létrehozása és működése tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2025. július 17-i (EU) 2025/1420 bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
