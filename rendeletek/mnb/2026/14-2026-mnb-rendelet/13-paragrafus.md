@@ -1,1 +1,3 @@
-13. § Hatályát veszti a Magyar Nemzeti Bank elnöke által adományozható díjakról szóló 27/2013. (XII. 10.) MNB rendelet.
+13. §[^1]
+
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
