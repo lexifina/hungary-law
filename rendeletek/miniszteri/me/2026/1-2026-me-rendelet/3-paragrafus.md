@@ -1,1 +1,3 @@
-3. § Hatályát veszti a miniszterelnök-helyettes kijelöléséről szóló 1/2022. (VI. 4.) ME rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
