@@ -1,0 +1,1 @@
+A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 228. § (2) bekezdés b) pontja alapján – a közlekedési és beruházási miniszter javaslatára – dr. Bartal Tamás Lajost, a Közlekedési és Beruházási Minisztérium helyettes államtitkárát e tisztségéből – azonnali hatállyal – felmentem.
