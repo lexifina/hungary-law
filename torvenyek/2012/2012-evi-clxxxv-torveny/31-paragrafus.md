@@ -34,7 +34,7 @@ bg) ha az átvétel az állami hulladékgazdálkodási közfeladaton kívüli, d
 
 útján gondoskodik.
 
-(3) A hulladékbirtokos a Magyarország területére behozott hulladék kezeléséről az 1013/2006/EK európai parlamenti és tanácsi rendelettel összhangban az országhatárt átlépő hulladékszállításról szóló kormányrendeletben meghatározott módon, a szállítmányt kísérő okmányokban foglaltaktól függően a (2) bekezdés a) vagy b) pontja szerint gondoskodik. A (2) bekezdés a) pontja szerinti átadás esetén a hulladékbirtokos az 53/E. § (5) bekezdése szerinti ellenérték megfizetésére köteles.
+(3) A hulladékbirtokos a Magyarország területére behozott hulladék kezeléséről az (EU) 2024/1157 európai parlamenti és tanácsi rendelettel összhangban az országhatárt átlépő hulladékszállításról szóló kormányrendeletben meghatározott módon, a szállítmányt kísérő okmányokban foglaltaktól függően a (2) bekezdés a) vagy b) pontja szerint gondoskodik. A (2) bekezdés a) pontja szerinti átadás esetén a hulladékbirtokos az 53/E. § (5) bekezdése szerinti ellenérték megfizetésére köteles.
 
 (4) A hulladékbirtokos által a (2) bekezdés a) pontja szerint átadott hulladék az átvétellel az állam, vagy ha az állami hulladékgazdálkodási közfeladatot az állam a koncesszornak átengedte, a koncessziós társaság tulajdonába kerül. Az állam tulajdonába kerülő hulladék tekintetében a tulajdonosi jogokat az állam által a 32/A. § (4e) bekezdésében foglalt feladatok ellátására létrehozott koordináló szerv gyakorolja.
 

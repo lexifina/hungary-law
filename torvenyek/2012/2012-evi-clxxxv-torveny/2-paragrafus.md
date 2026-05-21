@@ -192,7 +192,7 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (5) A közvetítő szervezetre vonatkozó speciális szabályokat kormányrendelet, illetve miniszteri rendelet határozza meg.
 
-(6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1013/2006/EK európai parlamenti és tanácsi rendelet) szerinti szállítás fogalmat kell alkalmazni.
+(6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására az (EU) 2024/1157 európai parlamenti és tanácsi rendelet szerinti szállítás fogalmat kell alkalmazni.
 
 (7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
 

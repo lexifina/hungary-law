@@ -34,7 +34,7 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-a) az 1013/2006/EK európai parlamenti és tanácsi rendelet,
+a) a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1157 európai parlamenti és tanácsi rendelet,
 
 b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
 

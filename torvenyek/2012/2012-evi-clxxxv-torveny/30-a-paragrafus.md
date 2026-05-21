@@ -22,7 +22,7 @@ b) az a) pontban meghatározott földrajzi területen a hulladékgyűjtő rendsz
 
 c) rendelkezik a kiterjesztett gyártói felelősségi kötelezettségek teljesítéséhez szükséges pénzügyi eszközökkel, vagy pénzügyi és szervezési eszközökkel;
 
-d) rendelkezik belső, független auditor által auditált önellenőrzési rendszerrel a pénzügyi gazdálkodás – beleértve a (3) bekezdés a) és b) pontjában foglaltakat –, valamint az (1) bekezdés c) pontjának megfelelően gyűjtött adatok és az 1013/2006/EK európai parlamenti és tanácsi rendeletben foglalt hulladékszállítási követelményeknek való megfelelés ellenőrizhetősége érdekében; és
+d) rendelkezik belső, független auditor által auditált önellenőrzési rendszerrel a pénzügyi gazdálkodás – beleértve a (3) bekezdés a) és b) pontjában foglaltakat –, valamint az (1) bekezdés c) pontjának megfelelően gyűjtött adatok és az (EU) 2024/1157 európai parlamenti és tanácsi rendeletben foglalt hulladékszállítási követelményeknek való megfelelés ellenőrizhetősége érdekében; és
 
 e) a nyilvánosság számára hozzáférhetővé teszi a hulladékgazdálkodási célértékek elérésére vonatkozó információkat, valamint a kiterjesztett gyártói felelősségi kötelezettségek kollektív teljesítése esetén a következő adatokat:
 
