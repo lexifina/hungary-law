@@ -34,7 +34,7 @@ A környezetvédelmi biztosítás meghatározásának módja a Ht. 71. § (1) be
 
 | 7. | Veszélyes hulladékok ártalmatlanítása (a hulladéklerakók kivételével) | 5 |
 
-| 8.[^6] | Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet szerinti kiterjesztett gyártói felelősség teljesítése | 3,5 |
+| 8.[^9] | Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet szerinti kiterjesztett gyártói felelősség teljesítése | 3,5 |
 
 3. A T területi szorzó meghatározásának módja:
 
@@ -44,4 +44,4 @@ A környezetvédelmi biztosítás meghatározásának módja a Ht. 71. § (1) be
 
 3.3. T=1; minden más esetben.
 
-[^6]: A 2. melléklet 2. pontjában foglalt táblázat 8. sorát a 203/2025. (VII. 17.) Korm. rendelet 37. § (2) bekezdése iktatta be.
+[^9]: A 2. melléklet 2. pontjában foglalt táblázat 8. sorát a 203/2025. (VII. 17.) Korm. rendelet 37. § (2) bekezdése iktatta be.
