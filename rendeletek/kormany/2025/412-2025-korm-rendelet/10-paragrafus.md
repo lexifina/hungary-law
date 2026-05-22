@@ -1,1 +1,3 @@
-10. § A 442/2012. (XII. 29.) Korm. rendelet 4. melléklet 7. pontjában az „a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1013/2006/EK rendelet) foglalt előírásoknak megfelelően bizonyítani tudja, hogy a hulladék szállítása megfelel az 1013/2006/EK rendelet követelményeinek” szövegrész helyébe az „a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-ei (EU) 2024/1157 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2024/1157 rendelet] foglalt előírásoknak megfelelően bizonyítani tudja, hogy a hulladék szállítása megfelel az (EU) 2024/1157 rendelet követelményeinek” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
