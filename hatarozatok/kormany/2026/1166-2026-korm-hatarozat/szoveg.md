@@ -4,4 +4,6 @@ A Kormány
 
 2. felhívja a külügyminisztert, hogy a Nemzetközi Büntetőbíróság Statútumának és a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló, New Yorkban, 2002. szeptember 10-én elfogadott Megállapodás felmondásának visszavonásához szükséges jognyilatkozatokat tegye meg;
 
-3. visszavonja a Nemzetközi Büntetőbíróság Statútumának és a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló, New Yorkban, 2002. szeptember 10-én elfogadott Megállapodás felmondására való felhatalmazásról szóló 1090/2025. (IV. 3.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
