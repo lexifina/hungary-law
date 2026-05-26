@@ -40,7 +40,7 @@ Rózsahegyi Áron (TISZA)
 
 Varga Balázs (TISZA)
 
-Molnárné dr. Lezsák Anna (Fidesz)
+Radics Béla (Fidesz)[^2]
 
 Dr. Vitányi István József (Fidesz)
 
@@ -66,7 +66,7 @@ Dr. Szabó Alexandra (TISZA)
 
 Horváth László (Fidesz)
 
-Kovács Sándor (Fidesz)
+Dr. Vitányi István József (Fidesz)[^3]
 
 Takács Péter (Fidesz) 2026. május 13-tól
 
@@ -376,7 +376,7 @@ Czirbus Gábor (Fidesz)
 
 Dr. Hankó Balázs (Fidesz) 2026. május 13-tól
 
-Radics Béla (Fidesz)
+Molnárné dr. Lezsák Anna (Fidesz)[^4]
 
 p) Pénzügyi és Költségvetési Bizottság (13 fő)
 
@@ -832,6 +832,9 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^2]
+7.[^5]
 
-[^2]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
