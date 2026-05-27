@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján, körvonallal határolt középmezőben Magyarország címerének ábrázolása látható. Az előlap szélén, sugár irányban rovátkolt felületű körgyűrűben, köriratban, fent a „MAGYARORSZÁG” felirat, lent az „5000” értékjelzés és a „FORINT” felirat, bal oldalon a „BP.” verdejel, jobb oldalon a „2026” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, körvonallal határolt középmezőben a Kárpát-medence domborzati térképének – Magyarországot határvonalakkal jelölő – stilizált ábrázolása látható, az emlékérmét tervező Bitó Balázs térképábrázolásba illesztett mesterjegyével. A térképen ponttal jelölt 11 kamarai alapítóváros közül három mellett a város alapításkori neve – „SOPRON”, „PEST-BUDA” és „DEBRECEN” – olvasható. A hátlap szélén, sugár irányban rovátkolt felületű körgyűrűben, köriratban, fent a „MAGYAR KERESKEDELMI ÉS IPARKAMARA”, lent az „ALAPÍTVA 1850” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
