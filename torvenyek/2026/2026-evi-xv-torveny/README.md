@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2026-15-00-00
 | --- | --- | --- |
 | 2026-05-29 | 2026. évi XV. törvény | 2026-15-00-00.0 (közlönyállapot) |
 | 2026-05-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2026-15-00-00.1 |
+| 2026-05-30 | 2010. évi CXXX. törvény | 2026-15-00-00.2 |
