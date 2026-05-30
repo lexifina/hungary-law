@@ -1,11 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 3. § (1) bekezdésében az „a mobil internet-hozzáférési” szövegrész helyébe az „az internet-hozzáférési” szöveg,
-
-b) 3. § (1) bekezdésében a „megvalósítása során” szövegrész helyébe a „használata esetén” szöveg,
-
-c) 3. alcím címében a „mobil internet-hozzáférési szolgáltatás esetében” szövegrész helyébe az „és e szolgáltatás nyújtásának megkezdése” szöveg,
-
-d) 4. § (1) bekezdésében a „biztonságos” szövegrész helyébe a „kiskorú felhasználóra tekintettel nyújtott biztonságos” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
