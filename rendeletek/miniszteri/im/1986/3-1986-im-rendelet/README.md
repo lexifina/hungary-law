@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1986-3-20-06
 | 2022-03-03 | 1986-3-20-06.26 | 4/2022. (II. 1.) IM rendelet |
 | 2023-01-01 | 1986-3-20-06.27 | 4/2022. (II. 1.) IM rendelet |
 | 2025-01-01 | 1986-3-20-06.28 | 24/2024. (XII. 18.) IM rendelet |
+| 2026-05-31 | 1986-3-20-06.29 | 24/2024. (XII. 18.) IM rendelet |

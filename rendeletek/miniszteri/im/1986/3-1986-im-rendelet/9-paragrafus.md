@@ -16,7 +16,7 @@
 
 (8) Költségelőleg esetén a bíróság – ha a szakértő számla kiállítására köteles, az előleg számlájával együtt – a BGH-nak a kérelemben foglaltaknak megfelelő összegre vonatkozó kifizetésre történő felhívást küld, amely intézkedik a kifizetés iránt.
 
-(9)[^48] A bíróság a szakértői díjról szóló véglegessé vált vagy jogerős határozatot, illetve utalványt – kifizetés céljából – a díjjegyzék egy példányával együtt 5 napon belül megküldi az illetékes BGH-nak, illetve a szakértőnek. A szakértő a számlát, illetve részszámlát a határozat és utalvány megküldését követően nyújthatja be. A BGH a megállapított szakértői díjat (költségelőleg fizetése esetén a szakértői díj kifizetett költségelőleggel csökkentett összegét) a számla – illetve a részszámla – benyújtásától számított 5 napon belül kiutalja. Ha a szakértő a díjat 30 napon belül nem veszi át, részére azt postán kell megküldeni, a postaköltségek levonásával.
+(9)[^48] A bíróság a szakértői díjról szóló véglegessé vált vagy jogerős határozatot, illetve utalványt – kifizetés céljából – a díjjegyzék egy példányával együtt 5 napon belül megküldi az illetékes BGH-nak, illetve a szakértőnek. A szakértő a számlát, illetve részszámlát a határozat és utalvány megküldését követően nyújthatja be. A BGH a megállapított szakértői díjat (költségelőleg fizetése esetén a szakértői díj kifizetett költségelőleggel csökkentett összegét) a számla – illetve a részszámla – benyújtásától számított 5 napon belül kiutalja.
 
 (9a)[^49] Ha a szakértőt bíróság rendeli ki, számla kibocsátására köteles szakértő a számlát a kirendelő bíróság székhelye szerinti törvényszék nevére és címére állítja ki, függetlenül attól, hogy a szakértői költséget az állam vagy a fél előlegezte.
 
@@ -27,6 +27,6 @@
 [^45]: A 9. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 2. § f) pontja, a 17/2018. (VI. 27.) IM rendelet 3. § a) pontja szerint módosított szöveg.
 [^46]: A 9. § (4) bekezdése a 13/2015. (VII. 27.) IM rendelet 4. §-a szerint módosított szöveg.
 [^47]: A 9. § (5) bekezdése a 20/2017. (XII. 21.) IM rendelet 2. § (1) bekezdés g) pontja és a 2. § (2) bekezdés a) pontja, a 17/2018. (VI. 27.) IM rendelet 3. § a) pontja szerint módosított szöveg.
-[^48]: A 9. § (9) bekezdése a 24/2024. (XII. 18.) IM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^48]: A 9. § (9) bekezdése a 24/2024. (XII. 18.) IM rendelet 1. § (4) bekezdésével megállapított, az 5/2026. (III. 31.) IM rendelet 1. §-a szerint módosított szöveg.
 [^49]: A 9. § (9a) bekezdését a 13/2015. (VII. 27.) IM rendelet 1. §-a iktatta be.
 [^50]: A 9. § (10) bekezdése a 17/2018. (VI. 27.) IM rendelet 2. § h) pontja és 3. § b) pontja szerint módosított szöveg.
