@@ -28,8 +28,6 @@
 
 ## a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-## 1.[^1]
+## 1. Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet módosítása
 
-1. §
-
-[^1]: Az 1. alcím a 22. § (3) bekezdése alapján 2026. május 31-én lép hatályba.
+1. § Hatályát veszti az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet 9. § (9) bekezdésében a „Ha a szakértő a díjat 30 napon belül nem veszi át, részére azt postán kell megküldeni, a postaköltségek levonásával.” szövegrész.
