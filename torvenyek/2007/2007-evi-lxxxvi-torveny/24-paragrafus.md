@@ -23,3 +23,5 @@ e) olyan adat- és információcsere-folyamatokat működtetni, amelyek biztosí
 (7) A hálózati engedélyes a (6) bekezdésben foglaltak végrehajtása érdekében az energetikai adatszolgáltató platform működtetőjével a Vhr.-ben meghatározottak szerint szolgáltatási szerződést köt.
 
 (8) A hálózati engedélyes a Vhr.-ben foglaltakkal összhangban együttműködik az energetikai adatszolgáltató platformot működtető engedélyessel az (EU) 2023/1162 bizottsági végrehajtási rendelet 10. cikk b) pontja szerinti, az adatokhoz való hozzáférésre vonatkozó eljárások részletes leírását és magyarázatát tartalmazó jelentésre vonatkozó javaslatnak a miniszter részére történő kidolgozásában.
+
+(9) A hálózati engedélyes az adatokhoz való megkülönböztetésmentes hozzáférés feltételeinek teljesítése ellenőrzésére független adathozzáférési tisztviselőt alkalmaz. Az adathozzáférési tisztviselő feladatainak részletes szabályait a Vhr. állapítja meg.
