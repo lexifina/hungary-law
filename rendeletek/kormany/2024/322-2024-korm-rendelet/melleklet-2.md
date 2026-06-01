@@ -1,6 +1,6 @@
 2. melléklet a 322/2024. (XI. 6.) Korm. rendelethez
 
-KKSZB útján automatikus információátadási szolgáltatás nyújtására köteles nyilvántartások[^107]
+KKSZB útján automatikus információátadási szolgáltatás nyújtására köteles nyilvántartások[^108]
 
 1. a központi címregiszter
 
@@ -90,4 +90,4 @@ KKSZB útján automatikus információátadási szolgáltatás nyújtására kö
 
 44. a digitális állampolgárság nyilvántartás
 
-[^107]: A 2. melléklet címe a 164/2025. (VI. 23.) Korm. rendelet 48. § 31. pontja szerint módosított szöveg.
+[^108]: A 2. melléklet címe a 164/2025. (VI. 23.) Korm. rendelet 48. § 31. pontja szerint módosított szöveg.

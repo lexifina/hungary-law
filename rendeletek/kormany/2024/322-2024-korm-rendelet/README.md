@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-322-20-
 | 2026-01-01 | 2024-322-20-22.14 | 483/2025. (XII. 31.) Korm. rendelet |
 | 2026-01-06 | 2024-322-20-22.13 | 436/2025. (XII. 23.) Korm. rendelet |
 | 2026-05-15 | 2024-322-20-22.15 | 483/2025. (XII. 31.) Korm. rendelet |
+| 2026-06-01 | 2024-322-20-22.12 | 365/2025. (XI. 28.) Korm. rendelet |

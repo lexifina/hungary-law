@@ -38,16 +38,16 @@ b) természetes személyazonosító adatok
 
 alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.
 
-(7)[^50] Az összerendelési nyilvántartásból a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére az általa nyújtott szolgáltatáshoz az általa kezelt
+(7)[^51] Az összerendelési nyilvántartásból a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére az általa nyújtott szolgáltatáshoz az általa kezelt
 
-a)[^51] digitális állampolgár azonosító alapján természetes személyazonosító adatok vagy okmányazonosító szolgáltathatók,
+a)[^52] digitális állampolgár azonosító alapján természetes személyazonosító adatok vagy okmányazonosító szolgáltathatók,
 
 b) természetes személyazonosító adatok alapján digitális állampolgár azonosító szolgáltatható
 
 az érintett nyilvántartásokat kezelő szervek bevonásával.
 
-(8)[^52] Az összerendelési nyilvántartásból az eAzonosítás keretszolgáltatás nyújtásához a digitális állampolgárság szolgáltató részére az általa kezelt digitális állampolgár azonosító alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.
+(8)[^53] Az összerendelési nyilvántartásból az eAzonosítás keretszolgáltatás nyújtásához a digitális állampolgárság szolgáltató részére az általa kezelt digitális állampolgár azonosító alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.
 
-[^50]: A 74. § (7) bekezdés nyitó szövegrésze a 164/2025. (VI. 23.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
-[^51]: A 74. § (7) bekezdés a) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 19. pontja szerint módosított szöveg.
-[^52]: A 74. § (8) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 35. §-a iktatta be.
+[^51]: A 74. § (7) bekezdés nyitó szövegrésze a 164/2025. (VI. 23.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
+[^52]: A 74. § (7) bekezdés a) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 19. pontja szerint módosított szöveg.
+[^53]: A 74. § (8) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 35. §-a iktatta be.

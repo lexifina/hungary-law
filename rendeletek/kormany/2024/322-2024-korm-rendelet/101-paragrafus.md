@@ -6,10 +6,10 @@
 
 (2) Kiadmányozásra feljogosított személy e minőségében olyan elektronikus aláírást használhat, amelynél a hozzá tartozó hitelesítési rend szerepel a bizalmi felügyelet által vezetett nyilvántartásban.
 
-(3)[^75] Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot jogszabályban meghatározott védelem alá eső tisztséget, valamint nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakört betöltő személyek csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
+(3)[^76] Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot jogszabályban meghatározott védelem alá eső tisztséget, valamint nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakört betöltő személyek csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
 
 (4) A digitális szolgáltatást biztosító szervezet a tájékoztatási kötelezettségének teljesítésekor a 100. § (5) bekezdés b) pontja szerinti adatokon túl külön közzéteszi az adott személynek a digitális szolgáltatást biztosító szervezet nevében elektronikus aláírással történő kiadmányozásra való jogosultságát.
 
 (5) A (4) bekezdés, valamint a 100. § (5) bekezdés c) pontja szerinti információkat a tanúsítvány visszavonásától vagy érvényességének lejártától számított 10 évig kell a honlapon hozzáférhetővé tenni.
 
-[^75]: A 101. § (3) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^76]: A 101. § (3) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 56. §-ával megállapított szöveg.

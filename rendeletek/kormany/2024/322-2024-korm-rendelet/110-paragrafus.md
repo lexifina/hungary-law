@@ -10,6 +10,6 @@ b) az SDG-OOTS végrehajtási rendelet 3. cikk (1) és (2) bekezdése szerinti f
 
 (4) A SZÜF szolgáltató a (2) bekezdésben meghatározott feladatai keretében ellátja az SDG-OOTS végrehajtási rendelet 5. szakasz 17. cikke szerinti naplózási, valamint az SDG-OOTS végrehajtási rendelet 3. és 4. szakasza szerinti szolgáltatási feladatokat.
 
-(5)[^76] A SZÜF szolgáltató a (2) bekezdés a) pontjában meghatározott feladatai keretében biztosítja és ellátja az SDG-OOTS végrehajtási rendelet 15. és 16. cikkben foglaltakat. A SZÜF szolgáltató e bekezdése szerinti feladatkörében az SDG-OOTS végrehajtási rendelet szerinti igazolásszolgáltató nevében eljárva hitelesített igazolást állít ki. Az e bekezdés alapján kiállított igazolás közokirat.
+(5)[^77] A SZÜF szolgáltató a (2) bekezdés a) pontjában meghatározott feladatai keretében biztosítja és ellátja az SDG-OOTS végrehajtási rendelet 15. és 16. cikkben foglaltakat. A SZÜF szolgáltató e bekezdése szerinti feladatkörében az SDG-OOTS végrehajtási rendelet szerinti igazolásszolgáltató nevében eljárva hitelesített igazolást állít ki. Az e bekezdés alapján kiállított igazolás közokirat.
 
-[^76]: A 110. § (5) bekezdését a 483/2025. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^77]: A 110. § (5) bekezdését a 483/2025. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 42/A.[^49] Felhasználó dokumentumhoz rendelése szolgáltatás
+## 42/A.[^50] Felhasználó dokumentumhoz rendelése szolgáltatás
 
 72/A. § (1) A felhasználó dokumentumhoz rendelése szolgáltatás központi elektronikus ügyintézési szolgáltatás, amelynek keretében a digitális állam megvalósításához kapcsolódó egyes szervezetek kijelöléséről szóló 320/2024. (XI. 6.) Korm. rendelet 6. § 19. pontja szerint kijelölt szolgáltató (ezen alcím alkalmazásában a továbbiakban: szolgáltató) által a 39. § (1) bekezdésében foglalt szolgáltatás igénybevételével azonosított felhasználó dokumentumhoz rendeléséről kiállított igazolást elektronikus dokumentumba vagy az elektronikus dokumentumhoz kapcsolt záradékba foglalja, és azt – a dokumentumba foglalt nyilatkozattal együtt – minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel és minősített időbélyegzővel hitelesíti.
 
@@ -14,4 +14,4 @@ b) a nyilatkozat további azonosító adatait.
 
 (5) Hiteles az elektronikus dokumentum, ha az aláíró azt a felhasználó dokumentumhoz rendelése szolgáltatással hitelesítette.
 
-[^49]: A 42/A. alcímet (72/A–72/B. §-t) a 230/2025. (VII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^50]: A 42/A. alcímet (72/A–72/B. §-t) a 230/2025. (VII. 31.) Korm. rendelet 9. §-a iktatta be.
