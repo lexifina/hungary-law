@@ -1,9 +1,12 @@
-8. § (1)[^6]
+8. § (1) A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 2. § 1. pontja helyébe a következő rendelkezés lép:
 
-(2)[^7]
+(E rendelet alkalmazásában)
 
-(3)[^8]
+## „1. analitikai központ: a Dáptv. 71. §-a szerinti, az eredmények folyamatos figyelemmel kísérését az elektronikus felületek felhasználói élmény útjának egységes módszertan alapján történő mérése, elemzése, felhasználása és publikálása útján támogató, a Kormány által rendeletben meghatározott szolgáltatástervezési központ által a digitális állampolgárság szolgáltató bevonásával működtetett rendszer;”
 
-[^6]: A 8. § (1) bekezdése a 2. § (3) bekezdése alapján 2026. június 1-jén lép hatályba.
-[^7]: A 8. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^6]
+
+(3)[^7]
+
+[^6]: A 8. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
