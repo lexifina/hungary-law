@@ -30,4 +30,6 @@
 
 ## 1. Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet módosítása
 
-1. § Hatályát veszti az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet 9. § (9) bekezdésében a „Ha a szakértő a díjat 30 napon belül nem veszi át, részére azt postán kell megküldeni, a postaköltségek levonásával.” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
