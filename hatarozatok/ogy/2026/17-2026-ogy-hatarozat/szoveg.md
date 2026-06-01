@@ -200,7 +200,7 @@ Dr. Miskolczi Orsolya (TISZA)
 
 Dr. Simon Krisztián Márk (TISZA)
 
-Dr. Stumpf Péter (TISZA)
+Melléthei-Barna Márton (TISZA)[^4]
 
 Tóth Norbert (TISZA)
 
@@ -242,7 +242,7 @@ A bizottság feladatköre: külpolitika.
 
 Tagok:
 
-Berki Ákos (TISZA)
+Kulcsár Krisztián (TISZA)[^5]
 
 Hajdu Márton (TISZA)
 
@@ -340,13 +340,13 @@ Pásztor Anett (TISZA)
 
 Dr. Sopov Ildikó Éva (TISZA)
 
-Dr. Stumpf Péter (TISZA)
+Bakos Csaba Attila (TISZA)[^6]
 
 Tóth Tamás (TISZA)
 
 Tóthmajor Balázs (TISZA)
 
-Velkey György László (TISZA)
+Czakó Czirbus Pál (TISZA)[^7]
 
 Dr. Hegedűs Barbara (Fidesz)
 
@@ -364,7 +364,7 @@ Dr. Bugya László (TISZA)
 
 Csák László (TISZA)
 
-Kapronczai Balázs (TISZA)
+Rápli Róbert (TISZA)[^8]
 
 Dr. Kincse Csongor (TISZA)
 
@@ -376,7 +376,7 @@ Czirbus Gábor (Fidesz)
 
 Dr. Hankó Balázs (Fidesz) 2026. május 13-tól
 
-Molnárné dr. Lezsák Anna (Fidesz)[^4]
+Molnárné dr. Lezsák Anna (Fidesz)[^9]
 
 p) Pénzügyi és Költségvetési Bizottság (13 fő)
 
@@ -384,7 +384,7 @@ A bizottság feladatköre: költségvetés, államháztartás, számvevőszéki 
 
 Tagok:
 
-Boda Nikoletta (TISZA)
+Dr. Sárosi József (TISZA)[^10]
 
 Borsós Gabriella (TISZA)
 
@@ -492,11 +492,11 @@ Tagok:
 
 Dr. Bilisics Zita (TISZA)
 
-Dr. Bódis Péter (TISZA)
+Berki Ákos (TISZA)[^11]
 
 Dr. Bóka Zsolt (TISZA)
 
-Dr. Bögi Viktória (TISZA)
+Melléthei-Barna Márton (TISZA)[^12]
 
 Dr. Czipa András (TISZA)
 
@@ -630,7 +630,7 @@ Alelnök:
 
 Diószegi Judit (TISZA)
 
-Halmai Ferenc (TISZA)
+Borics Mihály (TISZA)[^13]
 
 Dr. Takács Árpád (Fidesz)
 
@@ -648,7 +648,7 @@ Dr. Kiss Máté Zsolt (TISZA)
 
 Dr. Miskolczi Orsolya (TISZA)
 
-Dr. Stumpf Péter (TISZA)
+Melléthei-Barna Márton (TISZA)[^14]
 
 Tuzson Bence (Fidesz) 2026. május 13-tól
 
@@ -746,7 +746,7 @@ Bencsik János (Fidesz)
 
 Alelnök:
 
-Boda Nikoletta (TISZA)
+Dr. Sárosi József (TISZA)[^15]
 
 Dr. Dicső Viktória (TISZA)
 
@@ -806,7 +806,7 @@ Dr. Bilisics Zita (TISZA)
 
 Dr. Bóka Zsolt (TISZA)
 
-Dr. Bögi Viktória (TISZA)
+Melléthei-Barna Márton (TISZA)[^16]
 
 Dr. Simon Krisztián Márk (TISZA)
 
@@ -832,9 +832,21 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^5]
+7.[^17]
 
 [^2]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^7]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^8]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^9]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^10]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
+[^12]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
+[^13]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^14]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^15]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^16]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^17]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
