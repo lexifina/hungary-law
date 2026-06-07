@@ -1,3 +1,3 @@
-2. § Az R. 2. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„2. § Az 1. melléklet szerinti harmadik országok körét a Kormány szükség esetén felülvizsgálhatja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

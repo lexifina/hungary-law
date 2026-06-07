@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-92-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-06-06 | 2026-92-20-22.1 | 92/2026. (VI. 5.) Korm. rendelet |
+| 2026-06-07 | 2026-92-20-22.2 | 2010. évi CXXX. törvény |
