@@ -2,7 +2,7 @@
 
 dr. Bartus Éva Magdolnát,
 
-dr. Csiki Melindát és
+dr. Csiki Melindát[^1] és
 
 dr. Pecsenye Mátét
 
@@ -19,3 +19,5 @@ dr. Fuglinszky Rékát
 2023. június 15. napjától határozatlan időtartamra bíróvá kinevezem.
 
 KEH ügyszám: KEH/3777-2/2023.
+
+[^1]: A 124/2026. (VI. 8.) KE határozat alapján a köztársasági elnök dr. Csiki Melinda bírói kinevezését a 2026. június 15. napjától 2029. június 14. napjáig terjedő időtartamra meghosszabbította.
