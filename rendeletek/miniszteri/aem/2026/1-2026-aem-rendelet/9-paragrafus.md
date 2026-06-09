@@ -1,0 +1,1 @@
+9. § Ez a rendelet a magyarországi juh- és sertéshúságazatot érintő rendkívüli támogatási intézkedésekről szóló, 2026. március 10-i (EU) 2026/530 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
