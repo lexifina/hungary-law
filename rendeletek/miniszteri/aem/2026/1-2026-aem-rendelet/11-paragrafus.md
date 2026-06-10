@@ -1,1 +1,3 @@
-11. § Hatályát veszti a Magyar Díszkertészek Szakmaközi Szervezeténél működő Közösségi Marketing és Innovációs Alapba történő befizetésről szóló piacszervezési intézkedés kiterjesztéséről szóló 29/2024. (IV. 30.) AM rendelet, azzal, hogy a 2026. évre vonatkozóan a Közösségi Marketing és Innovációs Alapba teljesített befizetések visszafizetésre kerülnek.
+11. §[^2]
+
+[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
