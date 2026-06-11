@@ -20,20 +20,23 @@ A kérelemre induló eljárások azonosítására szolgáló kódok
 
 | 8. | a Kiberbiztonsági tv. 43. § (2) bekezdése szerinti megfelelőségi nyilatkozat tanúsítási nyilvántartásba vételére irányuló eljárás[^11] | SZTFH-403 |
 
-| 9. | auditor szervezet felügyeleti nyilvántartásba történő felvételére irányuló eljárás „alap” biztonsági osztály esetén | SZTFH-410/1/1 |
+| 9. | auditor szervezet felügyeleti nyilvántartásba történő felvételére irányuló eljárás[^12] | SZTFH-410/1/1 |
 
-| 10. | auditor szervezet felügyeleti nyilvántartásba történő felvételére irányuló eljárás „jelentős” biztonsági osztály esetén | SZTFH-410/1/2 |
+| 10.[^13] |  |  |
 
-| 11. | auditor szervezet felügyeleti nyilvántartásba történő felvételére irányuló eljárás „magas” biztonsági osztály esetén | SZTFH-410/1/3 |
+| 11.[^14] |  |  |
 
 | 12. | auditor adatváltozásának felügyeleti nyilvántartásba történő bejegyzésére irányuló eljárás | SZTFH-410/2 |
 
-| 13.[^12] | sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet nyilvántartásba vételére irányuló eljárás | SZTFH-430/1 |
+| 13.[^15] | sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet nyilvántartásba vételére irányuló eljárás | SZTFH-430/1 |
 
-| 14.[^13] | sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet adatváltozás-bejegyzésére irányuló eljárás | SZTFH-430/2 |
+| 14.[^16] | sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet adatváltozás-bejegyzésére irányuló eljárás | SZTFH-430/2 |
 
 [^9]: Az 1. melléklet a 7/2024. (VI. 24.) SZTFH rendelet 8. §-ával megállapított szöveg.
 [^10]: Az 1. mellékletben foglalt táblázat A:7 mezője a 4/2025. (IV. 17.) SZTFH rendelet 31. § b) pontja szerint módosított szöveg.
 [^11]: Az 1. mellékletben foglalt táblázat A:8 mezője a 4/2025. (IV. 17.) SZTFH rendelet 31. § c) pontja szerint módosított szöveg.
-[^12]: Az 1. mellékletben foglalt táblázat 13. sorát az 5/2025. (VI. 20.) SZTFH rendelet 7. §-a iktatta be.
-[^13]: Az 1. mellékletben foglalt táblázat 14. sorát az 5/2025. (VI. 20.) SZTFH rendelet 7. §-a iktatta be.
+[^12]: Az 1. mellékletben foglalt táblázat A:9 mezője a 6/2026. (VI. 8.) SZTFH rendelet 2. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. mellékletben foglalt táblázat 10. sorát a 6/2026. (VI. 8.) SZTFH rendelet 2. § b) pontja hatályon kívül helyezte.
+[^14]: Az 1. mellékletben foglalt táblázat 11. sorát a 6/2026. (VI. 8.) SZTFH rendelet 2. § b) pontja hatályon kívül helyezte.
+[^15]: Az 1. mellékletben foglalt táblázat 13. sorát az 5/2025. (VI. 20.) SZTFH rendelet 7. §-a iktatta be.
+[^16]: Az 1. mellékletben foglalt táblázat 14. sorát az 5/2025. (VI. 20.) SZTFH rendelet 7. §-a iktatta be.

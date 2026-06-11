@@ -14,13 +14,7 @@ c) „magas” megbízhatósági szint esetén 620 000 Ft.
 
 (5)[^4] A Kiberbiztonsági tv. 43. § (2) bekezdése szerinti megfelelőségi nyilatkozat tanúsítási nyilvántartásba vételére irányuló eljárás igazgatási szolgáltatási díja 120 000 Ft.
 
-(6)[^5] A Hatóság – mint a Kiberbiztonsági tv. 23. § (1) bekezdés b) pontja alapján kijelölt hatóság – eljárásában az auditoroknak a Kiberbiztonsági tv. 21. § (3) bekezdése szerinti nyilvántartásba (a továbbiakban: felügyeleti nyilvántartás) vételére irányuló eljárás igazgatási szolgáltatási díja
-
-a) „alap” biztonsági osztály esetén 390 000 Ft,
-
-b) „jelentős” biztonsági osztály esetén 540 000 Ft,
-
-c) „magas” biztonsági osztály esetén 620 000 Ft.
+(6)[^5] A Hatóság – mint a Kiberbiztonsági tv. 23. § (1) bekezdés b) pontja alapján kijelölt hatóság – eljárásában az auditoroknak a Kiberbiztonsági tv. 21. § (3) bekezdése szerinti nyilvántartásba (a továbbiakban: felügyeleti nyilvántartás) vételére irányuló eljárás igazgatási szolgáltatási díja 390 000 Ft.
 
 (7) A felügyeleti nyilvántartásba felvett auditor adatváltozásának bejegyzésére irányuló eljárás igazgatási szolgáltatási díja 60 000 Ft.
 
@@ -32,6 +26,6 @@ c) „magas” biztonsági osztály esetén 620 000 Ft.
 [^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 31. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 31. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 31. § c) pontja szerint módosított szöveg.
-[^5]: Az 1. § (6) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 31. § d) pontja szerint módosított szöveg.
+[^5]: Az 1. § (6) bekezdése a 6/2026. (VI. 8.) SZTFH rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (8) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
 [^7]: Az 1. § (9) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
