@@ -1,3 +1,3 @@
-1. melléklet a 7/2024. (VI. 24.) SZTFH rendelethez[^13]
+1. melléklet a 7/2024. (VI. 24.) SZTFH rendelethez[^23]
 
-[^13]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

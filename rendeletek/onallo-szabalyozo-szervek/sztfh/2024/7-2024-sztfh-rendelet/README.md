@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-7-20-8K
 | 2024-07-25 | 2024-7-20-8K.1 | 7/2024. (VI. 24.) SZTFH rendelet |
 | 2024-07-26 | 2024-7-20-8K.2 | 2010. évi CXXX. törvény |
 | 2025-04-18 | 2024-7-20-8K.3 | 4/2025. (IV. 17.) SZTFH rendelet |
+| 2026-06-11 | 2024-7-20-8K.4 | 6/2026. (VI. 8.) SZTFH rendelet |
