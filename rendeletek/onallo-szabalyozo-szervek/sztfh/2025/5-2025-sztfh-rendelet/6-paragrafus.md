@@ -1,3 +1,3 @@
-6. §[^4]
+6. §[^21] E rendeletnek az egyes kiberbiztonsági tárgyú rendeletek módosításáról szóló 6/2026. (VI. 8.) SZTFH rendelettel (a továbbiakban: Módr.) módosított 2. § (2) bekezdését, 3. § (3), (3a) és (5) bekezdését a Módr. hatálybalépésekor folyamatban lévő nyilvántartásba vételi eljárásokban is alkalmazni kell, azzal, hogy a kiberbiztonsági hatóság a kérelem elbírálása során figyelmen kívül hagyja azt, hogy a kérelmező milyen biztonsági osztályba sorolt elektronikus információs rendszerekre kíván sérülékenységvizsgálatot végezni.
 
-[^4]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 6/2026. (VI. 8.) SZTFH rendelet 11. §-a iktatta be.
