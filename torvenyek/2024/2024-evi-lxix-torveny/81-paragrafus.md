@@ -124,6 +124,10 @@ m) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a
 
 n) a kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett, 1. § (1) bekezdés d) és e) pontja szerinti szervezeteket.
 
+o) a megfelelőségértékelő szervezetek 80/C. § (1) bekezdés b) pontja szerinti nyilvántartásba vételének feltételeire, valamint az (EU) 2024/2847 európai parlamenti és tanácsi rendelet 39. cikk (2)–(12) bekezdése szerinti egyes követelmények teljesítésére vonatkozó részletes szabályokat, ezek igazolásának módját, továbbá a nyilvántartásba vételi eljárás rendjét és a nyilvántartás törvényben nem szabályozott személyes adatnak nem minősülő adattartalmát,
+
+p) a 80/F. § (1) bekezdése szerinti jelentés tartalmi követelményeit, benyújtásának idejét és módját.
+
 (7) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
 
 a) a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetek és személyek nyilvántartásba vételének részletes szabályait, a tevékenység végzéséhez szükséges infrastrukturális feltételeket és szakértelmet, valamint

@@ -1,0 +1,11 @@
+80/D. § (1) Az (EU) 2024/2847 európai parlamenti és tanácsi rendelet 39. cikke szerinti összeférhetetlenségi követelmények megsértését bárki bejelentheti az SZTFH-nak.
+
+(2) Az (1) bekezdés szerinti bejelentést az SZTFH kivizsgálja. Ha a bejelentés megalapozott, továbbá ha az összeférhetetlenséget saját hatáskörben maga észleli, az SZTFH haladéktalanul értesíti a bejelentett szervezetet, amely az értesítés kézhezvételét követően haladéktalanul köteles felfüggeszteni az összeférhetetlenséggel érintett tevékenységet.
+
+(3) Ha a bejelentett szervezet az összeférhetetlenség fennállását maga észleli, az észlelést követően haladéktalanul köteles azt bejelenteni az SZTFH-nak és felfüggeszteni az összeférhetetlenséggel érintett tevékenységet.
+
+(4) A bejelentett szervezet köteles tájékoztatni az SZTFH-t az összeférhetetlenség megszüntetésére tett vagy tervezett intézkedéseiről a (2) bekezdés szerinti esetben az SZTFH értesítésének kézhezvételétől számított, a (3) bekezdés szerinti esetben pedig a saját bejelentésétől számított huszonegy napon belül.
+
+(5) Az SZTFH az összeférhetetlenség megszüntetésére tett intézkedésekről szóló tájékoztatás kézhezvételétől számított nyolc napon belül dönt az intézkedések megfelelőségéről. Ha az összeférhetetlenség megszüntetése biztosított, a bejelentett szervezet az SZTFH döntése alapján a tevékenységet folytathatja, ellenkező esetben az SZTFH megszüntethető összeférhetetlenség esetén az (EU) 2024/2847 európai parlamenti és tanácsi rendelet 43. cikke szerinti bejelentést felfüggeszti, a meg nem szüntethető összeférhetetlenség esetén visszavonja.
+
+(6) Az SZTFH az összeférhetetlenségi követelmények megsértésével végzett megfelelőségértékelési tevékenységek eredményének, továbbá az így kiadott tanúsítványok visszavonására kötelezi a kijelölt szervezetet. Nem kell alkalmazni ezt a rendelkezést, ha az összeférhetetlenség a megfelelőségértékelési tevékenységet elvégző munkavállaló vagy a bejelentett szervezettel munkavégzésre irányuló egyéb jogviszonyban álló személy vonatkozásában állt fenn, azonban a bejelentett szervezet más, összeférhetetlenséggel nem érintett munkavállalója vagy vele munkavégzésre irányuló egyéb jogviszonyban álló ilyen személy által harminc napon belül elvégzett megfelelőségértékelés azonos eredményre vezetett.
