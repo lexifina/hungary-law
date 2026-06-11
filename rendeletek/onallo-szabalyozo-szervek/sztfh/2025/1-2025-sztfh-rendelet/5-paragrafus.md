@@ -2,7 +2,7 @@
 
 a) a kiberbiztonsági audit lefolytatásában részt vevő személyek megnevezését,
 
-b) „jelentős” vagy „magas” biztonsági osztályba sorolt elektronikus információs rendszerre kiterjedő audit esetén a közreműködő vizsgáló laboratóriumot és a vizsgáló laboratórium által a kiberbiztonsági audit során elvégzendő tevékenységek körét,
+b)[^3]
 
 c) a szervezet által átadott, a 4. melléklet szerinti eltérések és helyettesítő védelmi intézkedések nyilvántartását,
 
@@ -37,3 +37,5 @@ c) az auditigazolás kiállításának dátumát,
 d) a vizsgált elektronikus információs rendszerek számát,
 
 e) a szervezet ellenálló-képességi indexének az 5. melléklet 2.3.2. pontjában foglalt táblázat C oszlopa szerinti szövegszerű értékelését.
+
+[^3]: Az 5. § (1) bekezdés b) pontját a 6/2026. (VI. 8.) SZTFH rendelet 8. § b) pontja hatályon kívül helyezte.

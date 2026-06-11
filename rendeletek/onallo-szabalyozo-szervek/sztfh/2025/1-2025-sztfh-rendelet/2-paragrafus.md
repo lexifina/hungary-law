@@ -1,12 +1,4 @@
-2. § (1) A kiberbiztonsági auditot
-
-a) „alap” biztonsági osztályba sorolt elektronikus információs rendszer esetén „alap”, „jelentős” vagy „magas” biztonsági osztályra,
-
-b) „jelentős” biztonsági osztályba sorolt elektronikus információs rendszer esetén „jelentős” vagy „magas” biztonsági osztályra,
-
-c) „magas” biztonsági osztályba sorolt elektronikus információs rendszer esetén „magas” biztonsági osztályra
-
-nyilvántartásba vett auditor végezheti.
+2. § (1)[^1]
 
 (2) A kiberbiztonsági audit során az MKr. szerinti védelmi intézkedések vizsgálatának módszereként
 
@@ -20,4 +12,7 @@ d) a Kiberbiztonsági tv. 22. § (1) bekezdése szerinti vizsgálati tevékenys�
 
 alkalmazhatóak.
 
-(3) A kiberbiztonsági auditban közreműködő vizsgáló laboratórium jogosult a (2) bekezdésben felsorolt vizsgálati módszereket alkalmazni.
+(3)[^2]
+
+[^1]: A 2. § (1) bekezdését a 6/2026. (VI. 8.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (3) bekezdését a 6/2026. (VI. 8.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.

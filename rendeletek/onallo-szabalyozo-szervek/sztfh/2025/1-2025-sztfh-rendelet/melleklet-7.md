@@ -1581,3 +1581,219 @@ Az MKr. szerinti követelménycsoportok értékelése
 | 53. | K03.013_O.3.13.1.(b) | az információbiztonsági képzési tevékenységeket, beleértve a biztonsági tudatosságra vonatkozó képzéseket és a konkrét szerepkörökön alapuló biztonsági képzéseket nyomon követik |
 
 | 54. | K03.013_O.3.13.2 | az egyéni képzésről készült dokumentumokat a K03.013_P[1] által meghatározott időtartamig megőrzik |
+
+4. Naplózás és elszámoltathatóság
+
+|  | A | B | C |
+
+| 1. | MKr. 2. melléklete szerinti követelménycsoport | Hivatkozási kód | Elemi intézkedés |
+
+| 2. | 4.1. Szabályzat és eljárásrendek | K04.001_P[1] | meghatározottak azok a személyek vagy szerepkörök, akikkel a naplózásra és elszámoltathatóságra vonatkozó szabályzatot meg kell ismertetni |
+
+| 3. | K04.001_P[2] | meghatározottak azok a személyek vagy szerepkörök, akikkel a naplózási és elszámoltathatósági eljárásokat meg kell ismertetni |
+
+| 4. | K04.001_P[3] | a következő PARAMÉTER-ÉRTÉKEK közül egy vagy több került kiválasztásra: {szervezeti szint; küldetés/üzleti folyamat-szint; rendszerszint} |
+
+| 5. | K04.001_P[4] | a naplózásra és elszámoltathatóságra vonatkozó szabályzat és eljárások irányítására egy meghatározott személy kijelölésre került |
+
+| 6. | K04.001_P[5] | a naplózási és elszámoltathatósági szabályzat felülvizsgálatának és frissítésének gyakorisága meghatározásra került |
+
+| 7. | K04.001_P[6] | meghatározták azokat az eseményeket, amelyek a naplózási és elszámoltathatósági szabályzat felülvizsgálatát és aktualizálását teszik szükségessé |
+
+| 8. | K04.001_P[7] | meghatározták a naplózási és elszámoltathatósági eljárások felülvizsgálatának és frissítésének gyakoriságát |
+
+| 9. | K04.001_P[8] | meghatározták azokat az eseményeket, amelyek miatt a naplózási és elszámoltathatósági eljárásokat felül kell vizsgálni és aktualizálni kell |
+
+| 10. | K04.001_O_4.1.1.(a) | naplózási és elszámoltathatósági szabályzatot dolgoztak ki és dokumentáltak |
+
+| 11. | K04.001_O_4.1.1.(b) | a naplózási és elszámoltathatósági szabályzatot megismertetették a K04.001_P[1] által meghatározott személyekkel vagy szerepkörökkel |
+
+| 12. | K04.001_O_4.1.1.(c) | a naplózási és elszámoltathatósági szabályzat és a kapcsolódó hozzáférés-ellenőrzések végrehajtását elősegítő naplózási és elszámoltathatósági eljárások kidolgozásra és dokumentálásra kerültek |
+
+| 13. | K04.001_O_4.1.1.(d) | a naplózási és elszámoltathatósági eljárásokat megismertették a K04.001_P[2] által meghatározott személyekkel vagy szerepkörökkel |
+
+| 14. | K04.001_O_4.1.2 | a K04.001_P[4] által meghatározott személy a naplózási és elszámoltathatósági szabályzat és eljárások kidolgozásának, dokumentálásának, kiadásának és megismertetésének irányítását ellátja |
+
+| 15. | K04.001_O_4.1.3.(a) | a naplózási és elszámoltathatósági szabályzatot felülvizsgálják és frissítik a K04.001_P[5] által meghatározott gyakorisággal |
+
+| 16. | K04.001_O_4.1.3.(b) | a naplózási és elszámoltathatósági szabályzatot felülvizsgálják és frissítik a K04.001_P[6] által meghatározott eseményeket követően |
+
+| 17. | K04.001_O_4.1.3.(c) | a naplózási és elszámoltathatósági eljárásokat felülvizsgálják és frissítik a K04.001_P[7] által meghatározott gyakorisággal |
+
+| 18. | K04.001_O_4.1.3.(d) | a naplózási és elszámoltathatósági eljárásokat felülvizsgálják és frissítik a K04.001_P[8] által meghatározott eseményeket követően |
+
+| 19. | K04.001_O_4.1.1.1.1.(a) | a naplózási és elszámoltathatósági szabályzat célja meghatározásra került a K04.001_P[3] által meghatározottak szerint |
+
+| 20. | K04.001_O_4.1.1.1.1.(b) | a naplózási és elszámoltathatósági szabályzat hatóköre meghatározásra került a K04.001_P[3] által meghatározottak szerint |
+
+| 21. | K04.001_O_4.1.1.1.1.(c) | a naplózási és elszámoltathatósági szabályzathoz kapcsolódó szerepkörök meghatározásra kerültek a K04.001_P[3] által meghatározottak szerint |
+
+| 22. | K04.001_O_4.1.1.1.1.(d) | a naplózási és elszámoltathatósági szabályzathoz kapcsolódó felelősségek meghatározásra kerültek a K04.001_P[03] által meghatározottak szerint |
+
+| 23. | K04.001_O_4.1.1.1.1.(e) | a naplózási és elszámoltathatósági szabályzathoz kapcsolódó vezetői elkötelezettség meghatározásra kerültek a K04.001_P[3] által meghatározottak szerint |
+
+| 24. | K04.001_O_4.1.1.1.1.(f) | a naplózási és elszámoltathatósági szabályzathoz kapcsolódó szervezeti egységek közötti együttműködés meghatározásra került a K04.001_P[3] által meghatározottak szerint |
+
+| 25. | K04.001_O_4.1.1.1.1.(g) | a naplózási és elszámoltathatósági szabályzathoz kapcsolódó megfelelőségi kritériumok meghatározásra kerültek a K04.001_P[3] által meghatározottak szerint |
+
+| 26. | K04.001_O_4.1.1.1.2. | a K04.001_P[3] által meghatározott naplózási és elszámoltathatósági szabályzat összhangban van a vonatkozó jogszabályokkal, irányelvekkel, szabályozásokkal, szabványokkal és ajánlásokkal |
+
+| 27. | 4.2. Naplózható események | K04.002_P[1] | meghatározásra kerültek azok az eseménytípusok, amelyek az EIR-ek által általánosságban naplózandóak |
+
+| 28. | K04.002_P[2] | az EIR-en belül naplózandó eseménytípusok a K04.002_P[1]-ben meghatározott események közül meghatározásra kerültek |
+
+| 29. | K04.002_P[3] | az egyes meghatározott eseménytípusok elvárt naplózási gyakorisága, illetve az azt szükségessé tevő események meghatározásra kerültek |
+
+| 30. | K04.002_P[4] | a naplózásra kiválasztott eseménytípusok felülvizsgálatának és frissítésének gyakorisága meghatározott |
+
+| 31. | K04.002_O.4.2.1 | a K04.002_P[2] által meghatározott eseménytípusok naplózására az EIR-ek felkészítése megtörtént |
+
+| 32. | K04.002_O.4.2.2 | az eseménynaplózási elvárásokat összehangolják más, a naplózási információkat igénylő szervezeti egységekkel |
+
+| 33. | K04.002_O.4.2.3.(a) | a K04.002_P[2] által meghatározott rendszeren belüli eseménytípusok – azaz a K04.002_P[1] alcsoportja – naplózása megtörténik |
+
+| 34. | K04.002_O.4.2.3.(b) | a K04.002_P[2] által meghatározott rendszeren belüli eseménytípusok naplózásra kerülnek a K04.002_P[3] szerint |
+
+| 35. | K04.002_O.4.2.4 | a naplózásra kiválasztott eseménytípusok a biztonsági események utólagos kivizsgálásának támogatására való alkalmassága indoklással ellátott |
+
+| 36. | K04.002_O.4.2.5 | a naplózásra kiválasztott eseménytípusok felülvizsgálata és frissítése a K04.002_P[4] által meghatározott gyakorisággal megtörténik |
+
+| 37. | 4.3. Naplóbejegyzések tartalma | K04.003_O.4.3.1 | a naplóbejegyzések tartalmazzák azokat az információkat, amelyekből megállapítható, hogy milyen típusú esemény történt |
+
+| 38. | K04.003_O.4.3.2 | a naplóbejegyzések tartalmazzák azokat az információkat, amelyekből megállapítható, hogy mikor történt az esemény |
+
+| 39. | K04.003_O.4.3.3 | a naplóbejegyzések tartalmazzák azokat az információkat, amelyekből megállapítható, hogy hol történt az esemény |
+
+| 40. | K04.003_O.4.3.4 | a naplóbejegyzések olyan információkat tartalmaznak, amelyekből megállapítható az esemény forrása |
+
+| 41. | K04.003_O.4.3.5 | a naplóbejegyzések olyan információkat tartalmaznak, amelyekből megállapítható az esemény kimenetele |
+
+| 42. | K04.003_O.4.3.6 | a naplóbejegyzések olyan információkat tartalmaznak, amelyekből megállapíthatóak az eseményhez kapcsolódó személyek, alanyok, illetve tárgyak vagy objektumok |
+
+| 43. | 4.4. Naplóbejegyzések tartalma – Kiegészítő naplóinformációk | K04.004_P[1] | a naplóbejegyzésekben feltüntetendő további információk meghatározásra kerültek |
+
+| 44. | K04.004_O.4.4 | a naplóbejegyzések a K04.004_P[1] által meghatározott kiegészítő információkat tartalmazzák |
+
+| 45. | 4.5. Naplózás tárkapacitása | K04.005_P[1] | a naplóbejegyzések megőrzési követelményei meghatározásra kerülnek |
+
+| 46. | K04.005_O.4.5 | a K04.005_P[1] által meghatározott megőrzési követelményeknek megfelelő tárkapacitás biztosított |
+
+| 47. | 4.7. Naplózási hiba kezelése | K04.007_P[1] | a naplózási folyamat hibajelzéseit fogadó személyek vagy szerepkörök meghatározásra kerültek |
+
+| 48. | K04.007_P[2] | a naplózási folyamat hibajelzései kapcsán előírt értesítési idő meghatározásra került |
+
+| 49. | K04.007_P[3] | az audit naplózási folyamat hibája esetén további végrehajtandó intézkedések meghatározásra kerültek |
+
+| 50. | K04.007_O.4.7.1 | a K04.007_P[1] által meghatározott személyek vagy szerepkörök riasztást kapnak, ha a K04.007_P[2] által meghatározott időtartamot követően, ha a naplózási folyamat meghibásodik |
+
+| 51. | K04.007_O.4.7.2 | a 04.007_P[3] által meghatározott további intézkedések végrehajtása megtörténik a naplózási folyamat hibája esetén |
+
+| 52. | 4.8. Naplózási hiba kezelése – Tárhelykapacitás figyelmeztetés | K04.008_P[1] | meghatározásra kerültek azon személyek, szerepkörök, illetve helyszínek, akiket figyelmeztetni kell, ha a kiosztott naplózási tárhely eléri a tárhely maximális naplótárolási kapacitásának bizonyos százalékát |
+
+| 53. | K04.008_P[2] | meghatározott az az időtartam, amelyet követően a K04.008_P[1] szerinti entitások értesítése meg kell, hogy történjen |
+
+| 54. | K04.008_P[3] | a naplózási tárhely maximális tárhely kapacitásának százalékos értéke meghatározásra került |
+
+| 55. | K04.008_O.4.8 | a K04.008_P[1] által meghatározott személyek, szerepkörök, illetve helyszínek figyelmeztetést kapnak a K04.008_P[2] által meghatározott időn belül, amikor a kiosztott naplózási tárhely kapacitása eléri a K04.008_P[3] által meghatározott százalékos értéket |
+
+| 56. | 4.9. Naplózási hiba kezelése – Valós idejű riasztások | K04.009_P[1] | a K04.009_P[3] által meghatározott audit hibaesemények bekövetkezésekor valós idejű riasztási idő meghatározásra került |
+
+| 57. | K04.009_P[2] | a K04.009_P[3] által meghatározott audit hibaesemények bekövetkezésekor valós időben riasztandó személyek, szerepkörök, illetve helyszínek meghatározásra kerültek |
+
+| 58. | K04.009_P[3] | a valós idejű riasztást igénylő auditnaplózási hibaesemények meghatározásra kerültek |
+
+| 59. | K04.009_O.4.9 | az EIR a K04.009_P[1] által meghatározott valós idejű riasztási időn belül riasztást küld a K04.009_P[2] által meghatározott személyeknek, szerepköröknek, illetve helyszíneknek, amikor a K04.009_P[3] által meghatározott valós idejű riasztást igénylő auditnaplózási hibaesemények következnek be |
+
+| 60. | 4.13. Naplóbejegyzések felülvizsgálata, elemzése és jelentéstétel | K04.013_P[1] | meghatározásra került a rendszer naplóbejegyzései felülvizsgálatának és elemzésének gyakorisága |
+
+| 61. | K04.013_P[2] | a nem megfelelő vagy szokatlan tevékenység meghatározásra került |
+
+| 62. | K04.013_P[3] | meghatározásra kerültek azon személyek vagy szerepkörök, amelyek felé a rendszer naplóbejegyzéseinek felülvizsgálatából és elemzéséből származó megállapítások, jelentések megküldésre kerülnek |
+
+| 63. | K04.013_O.4.13.1 | a rendszer naplóbejegyzéseit felülvizsgálják és elemzik a K04.013_P[1] által meghatározott gyakorisággal a K04.013_P[2]-ben meghatározott tevékenységre utaló jelek és e tevékenységek lehetséges hatásai szempontjából |
+
+| 64. | K04.013_O.4.13.2 | a felülvizsgálat megállapításait a K04.013_P[3] által meghatározott személyeknek vagy szerepköröknek jelentik |
+
+| 65. | K04.013_O.4.13.3 | az audit naplóbejegyzések felülvizsgálatának, elemzésének és jelentésének szintjét a rendszeren belül kiigazítják, ha a bűnüldözési információk, hírszerzési információk vagy más hiteles információforrások alapján változás áll be a kockázatban |
+
+| 66. | 4.14. Naplóbejegyzések felülvizsgálata, elemzése és jelentéstétel – Automatizált folyamatintegráció | K04.014_P[1] | a naplóbejegyzések felülvizsgálatának, elemzésének és jelentési folyamatainak integrálására használt automatizált mechanizmusok meghatározásra kerültek |
+
+| 67. | K04.014_O.4.14 | a naplóbejegyzések felülvizsgálata, elemzése és a jelentéstételi folyamatai a K04.014_P[1] által meghatározott automatizált mechanizmusok segítségével történnek |
+
+| 68. | 4.15. Naplóbejegyzések felülvizsgálata, elemzése és jelentéstétel – Naplózási tárhelyek összekapcsolása | K04.015_O.4.15 | a különböző tárhelyeken található naplóbejegyzések elemzése és korrelálása megtörtént az egész szervezetre kiterjedő helyzetfelismerés érdekében |
+
+| 69. | 4.17. Naplóbejegyzések felülvizsgálata, elemzése és jelentéstétel – Felügyeleti képességek integrálása | K04.017_P[1] | a következő PARAMÉTER-ÉRTÉKEK közül egy vagy több került kiválasztásra: {sérülékenységvizsgálat során keletkezett információk, teljesítményadatok; rendszerfelügyeleti információk, a K04.017_P[2] által meghatározott egyéb forrásokból begyűjtött adatok/információk} |
+
+| 70. | K04.017_P[2] | az egyéb forrásokból begyűjtött, elemezendő adatok, illetve információk meghatározásra kerültek |
+
+| 71. | K04.017_O.4.17 | a naplóbejegyzések elemzése integrálódik a K04.017_P[1] által meghatározott értékek elemzése céljából |
+
+| 72. | 4.18. Naplóbejegyzések felülvizsgálata, elemzése és jelentéstétel – Összevetés a fizikai felügyelettel | K04.018_O.4.18 | a naplóbejegyzésekből származó információk összevetésre kerülnek a fizikai hozzáférés ellenőrzéséből származó információkkal |
+
+| 73. | 4.22. Naplóbejegyzések csökkentése és jelentéskészítés | K04.022_O.4.22.1 | a szervezet olyan naplóbejegyzés csökkentési és jelentéskészítési képességet alkalmaz, amely támogatja a naplóbejegyzések igény szerinti felülvizsgálatát, elemzését és a jelentéstételi követelményeket, valamint a biztonsági események utólagos kivizsgálását |
+
+| 74. | K04.022_O.4.22.2 | a szervezet olyan naplóbejegyzés csökkentési és jelentéskészítési lehetőséget alkalmaz, amely nem változtatja meg a naplóbejegyzések eredeti tartalmát vagy időbeli sorrendjét |
+
+| 75. | 4.23. Naplóbejegyzések csökkentése és jelentéskészítés – Automatikus feldolgozás | K04.023_P[1] | meghatározottak a naplóbejegyzéseken belüli, feldolgozható, rendezhető vagy kereshető mezők |
+
+| 76. | K04.023_O.4.23.1.(a) | a K04.023_P[1] által meghatározott adatmezők feldolgozhatósága biztosított |
+
+| 77. | K04.023_O.4.23.1.(b) | a K04.023_P[1] által meghatározott adatmezők rendezhetősége biztosított |
+
+| 78. | K04.023_O.4.23.1.(c) | a K04.023_P[1] által meghatározott adatmezők kereshetősége biztosított |
+
+| 79. | 4.24. Időbélyegek | K04.024_P[1] | meghatározott a naplóbejegyzések esetében alkalmazandó időbélyegek elvárt pontossága |
+
+| 80. | K04.024_O.4.24.1 | a naplóbejegyzések időbélyegzőinek létrehozására belső rendszerórák szolgálnak |
+
+| 81. | K04.024_O.4.24.2 | a K04.024_P[1] által meghatározott időmérési pontosságnak megfelelő, a koordinált világidőhöz képest helyi időeltolódást az időbélyeg részeként tartalmazó időbélyegekkel keletkeznek a naplóbejegyzések |
+
+| 82. | 4.25. Naplóinformációk védelme | K04.025_P[1] | a naplóbejegyzések jogosulatlan hozzáférésének, módosításának vagy törlésének észlelésekor riasztandó személyek vagy szerepkörök meghatározásra kerültek |
+
+| 83. | K04.025_O.4.25.1 | a naplóbejegyzések és a naplókezelő eszközök védettek a jogosulatlan hozzáféréstől, módosítástól és törléstől |
+
+| 84. | K04.025_O.4.25.2 | a K04.025_P[1] által meghatározott személyek vagy szerepkörök riasztást kapnak az naplózási információk jogosulatlan hozzáférésének, módosításának vagy törlésének észlelésekor |
+
+| 85. | 4.27. A naplóinformációk védelme – Tárolás fizikailag különálló rendszereken vagy rendszerelemeken | K04.027_P[1] | a naplóbejegyzések olyan tárhelyen történő tárolásának gyakorisága meghatározott, amely a naplóbejegyzés keletkezési helyétől fizikailag elkülönült rendszer vagy rendszerelem része |
+
+| 86. | K04.027_O.4.27 | a K04.027_P[1] által meghatározott gyakoriságú naplóbejegyzéseket olyan adattárban tárolják, amely az ellenőrzött rendszertől vagy rendszerelemtől fizikailag eltérő rendszer vagy rendszerelem része |
+
+| 87. | 4.28. A naplóinformációk védelme – Kriptográfiai védelem | K04.028_O.4.28 | a naplóbejegyzések és a naplókezelő eszközök integritásának védelmét szolgáló kriptográfiai mechanizmusok bevezetésre kerültek |
+
+| 88. | 4.29. A naplóinformációk védelme – Privilegizált felhasználók hozzáférése | K04.029_P[1] | meghatározásra került a privilegizált felhasználók vagy szerepkörök azon részhalmaza, amelyek jogosultak hozzáférni a naplózási funkciók kezeléséhez |
+
+| 89. | K04.029_O.4.29 | a naplózási funkciók kezelése csak a K04.029_P[1] által meghatározott privilegizált felhasználók vagy szerepkörök alcsoportja számára engedélyezett |
+
+| 90. | 4.33. Letagadhatatlanság | K04.033_P[1] | a letagadhatatlanság követelménye alá tartozó tevékenységek meghatározásra kerülnek |
+
+| 91. | K04.033_O.4.33 | a szervezet megcáfolhatatlan bizonyítékot szolgáltat arra, ha egy személy (vagy egy személy nevében eljáró folyamat) a K04.033_P[1] által meghatározott tevékenységeket hajtott végre |
+
+| 92. | 4.38. A naplóbejegyzések megőrzése | K04.038_P[1] | meghatározzák a naplóbejegyzések megőrzésének időtartamát, amely összhangban van a jogszabályi és a szervezeten belüli információmegőrzési követelményekkel |
+
+| 93. | K04.038_O.4.38 | a naplóbejegyzéseket a K04.038_P[1] által meghatározott időtartamig megőrzik |
+
+| 94. | 4.40. Naplóbejegyzések létrehozása | K04.040_P[1] | biztosítottak olyan rendszerkomponensek, amelyek az eseménytípusokra vonatkozó naplóbejegyzések létrehozására alkalmasak a K04.002_P[1] által meghatározottak szerint |
+
+| 95. | K04.040_P[2] | a rendszer komponensei által naplózandó eseménytípusok kiválasztására jogosult személyek vagy szerepkörök meghatározásra kerültek |
+
+| 96. | K04.040_O.4.40.1 | a K04.002_P[1] által meghatározott, a rendszer által naplózható események esetén a K04.040_P[1] által meghatározott rendszerkomponensek naplóbejegyzés generálási képességet biztosítanak |
+
+| 97. | K04.040_O.4.40.2 | a K04.040_P[2] által meghatározott személyek vagy a szerepkörök kiválaszthatják azokat az eseménytípusokat, amelyeket a rendszer egyes összetevői naplóznak |
+
+| 98. | K04.040_O.4.40.3 | a K04.002_P[1] által meghatározott eseményekre vonatkozó, a 4.3. Naplóbejegyzések tartalma pontban meghatározott naplóbejegyzések keletkeznek |
+
+| 99. | 4.41. Naplóbejegyzések létrehozása – Az egész rendszerre kiterjedő és időbeli naplózási nyomvonal | K04.041_P[1] | meghatározottak azok a rendszerelemek, amelyekből a naplóbejegyzéseket, melyekből rendszerszintű naplót kell elállítani |
+
+| 100. | K04.041_P[2] | a rendszerszintű naplóegyes bejegyzéseinek időbélyegei közötti kapcsolatra vonatkozó tűrésszintet meghatározott |
+
+| 101. | K04.041_O.4.41 | a K04.041_P[1] által meghatározott rendszerelemekből származó naplóbejegyzéseket az egész rendszerre kiterjedően állítják össze, amelyek a K04.041_P[2] által meghatározott tűréshatáron belül időben összekapcsoltak |
+
+| 102. | 4.43. Naplóbejegyzések létrehozása – Felhatalmazott személyek változtatásai | K04.043_P[1] | a rendszerelemek naplózásának módosítására jogosult személyek vagy szerepkörök meghatározásra kerültek |
+
+| 103. | K04.043_P[2] | meghatározták azokat a rendszerelemeket, amelyeken naplózást kell végezni |
+
+| 104. | K04.043_P[3] | meghatározottak azok a választható eseménykritériumok, amelyekkel a változásnaplózást végre kell hajtani |
+
+| 105. | K04.043_P[4] | meghatározottak azok az időbeli küszöbértékek, amelyeken belül a naplózási műveleteket meg kell változtatni |
+
+| 106. | K04.043_O.4.43 | a K04.043_P[1] által meghatározott személyek vagy szerepkörök számára biztosított a K04.043_P[2] által meghatározott rendszerelemeken a K04.043_P[3] által meghatározott választható eseménykritériumok alapján a K04.043_P[4] által meghatározott időtartamon belül végrehajtandó naplózás megváltoztatásának lehetősége |
