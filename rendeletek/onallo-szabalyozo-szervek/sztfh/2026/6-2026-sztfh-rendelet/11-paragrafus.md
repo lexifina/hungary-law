@@ -1,5 +1,3 @@
-11. § Az 5/2025. (VI. 20.) SZTFH rendelet a következő 6. és 7. §-sal egészül ki:
+11. §[^12]
 
-„6. § E rendeletnek az egyes kiberbiztonsági tárgyú rendeletek módosításáról szóló 6/2026. (VI. 8.) SZTFH rendelettel (a továbbiakban: Módr.) módosított 2. § (2) bekezdését, 3. § (3), (3a) és (5) bekezdését a Módr. hatálybalépésekor folyamatban lévő nyilvántartásba vételi eljárásokban is alkalmazni kell, azzal, hogy a kiberbiztonsági hatóság a kérelem elbírálása során figyelmen kívül hagyja azt, hogy a kérelmező milyen biztonsági osztályba sorolt elektronikus információs rendszerekre kíván sérülékenységvizsgálatot végezni.
-
-7. § Ez a rendelet az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelv 21. cikk (2) bekezdésének való megfelelést szolgálja.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

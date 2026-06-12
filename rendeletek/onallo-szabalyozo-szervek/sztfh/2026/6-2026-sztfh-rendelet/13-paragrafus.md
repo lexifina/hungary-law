@@ -1,5 +1,3 @@
-13. § Hatályát veszti az 5/2025. (VI. 20.) SZTFH rendelet
+13. §[^14]
 
-a) 2. § (2) bekezdés d) pontja,
-
-b) 3. § (3) bekezdés b) és h) pontja.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

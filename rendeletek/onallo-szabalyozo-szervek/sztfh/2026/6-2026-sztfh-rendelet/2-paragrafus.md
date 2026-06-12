@@ -1,5 +1,3 @@
-2. § Hatályát veszti a 15/2023. (VII. 31.) SZTFH rendelet
+2. §[^3]
 
-a) 1. mellékletében foglalt táblázat A:9 mezőjében az „ „alap” biztonsági osztály esetén” szövegrész,
-
-b) 1. mellékletében foglalt táblázat 10. és 11. sora.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,5 @@
 ## 3. A kiberbiztonsági audit lefolytatásának rendjéről és a kiberbiztonsági audit legmagasabb díjáról szóló 1/2025. (I. 31.) SZTFH rendelet módosítása
 
-8. § Hatályát veszti a kiberbiztonsági audit lefolytatásának rendjéről és a kiberbiztonsági audit legmagasabb díjáról szóló 1/2025. (I. 31.) SZTFH rendelet
+8. §[^9]
 
-a) 2. § (1) és (3) bekezdése,
-
-b) 5. § (1) bekezdés b) pontja.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

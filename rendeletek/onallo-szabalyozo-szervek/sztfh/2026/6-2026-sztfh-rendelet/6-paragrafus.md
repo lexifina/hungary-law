@@ -1,1 +1,3 @@
-6. § A 7/2024. (VI. 24.) SZTFH rendelet 2. § (10) bekezdésében az „af) alpontja, a (2) bekezdés b) pontja” szövegrész helyébe az „af) alpontja” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

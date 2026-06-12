@@ -16,6 +16,6 @@
 
 ## 1. A Szabályozott Tevékenységek Felügyeleti Hatósága kiberbiztonsági feladataival összefüggő eljárásainak igazgatási szolgáltatási díjairól szóló 15/2023. (VII. 31.) SZTFH rendelet módosítása
 
-1. § A Szabályozott Tevékenységek Felügyeleti Hatósága kiberbiztonsági feladataival összefüggő eljárásainak igazgatási szolgáltatási díjairól szóló 15/2023. (VII. 31.) SZTFH rendelet [a továbbiakban: 15/2023. (VII. 31.) SZTFH rendelet] 1. § (6) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(6) A Hatóság – mint a Kiberbiztonsági tv. 23. § (1) bekezdés b) pontja alapján kijelölt hatóság – eljárásában az auditoroknak a Kiberbiztonsági tv. 21. § (3) bekezdése szerinti nyilvántartásba (a továbbiakban: felügyeleti nyilvántartás) vételére irányuló eljárás igazgatási szolgáltatási díja 390 000 Ft.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
