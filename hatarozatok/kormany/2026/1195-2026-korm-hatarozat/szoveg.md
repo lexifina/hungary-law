@@ -1,3 +1,5 @@
-1. Hatályát veszti a Nemzeti Hitvallás középületekben történő kihelyezéséről szóló 1543/2021. (VIII. 4.) Korm. határozat.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
