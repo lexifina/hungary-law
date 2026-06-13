@@ -18,7 +18,7 @@ I. Illetménytábla a minisztériumok részére
 
 | 6. | főosztályvezető | 800 000 Ft | 2 000 000 Ft |
 
-| 7. | helyettes államtitkár | 1 300 000 Ft | 2 100 000 Ft |
+| 7. | helyettes államtitkár | 1 300 000 Ft | 2 500 000 Ft[^3] |
 
 | 8. | közigazgatási államtitkár | 1 500 000 Ft | 2 500 000 Ft |
 
@@ -41,3 +41,5 @@ II. Illetménytábla a kormányzati főhivatalok, központi hivatalok, valamint 
 | 6. | osztályvezető | 400 000 Ft | 1 450 000 Ft |
 
 | 7. | főosztályvezető | 550 000 Ft | 2 000 000 Ft |
+
+[^3]: Az 1. melléklet I. pontjában foglalt táblázat C:7 mezője a 93/2026. (VI. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
