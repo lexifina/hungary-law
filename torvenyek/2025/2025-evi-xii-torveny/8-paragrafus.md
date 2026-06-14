@@ -1,4 +1,4 @@
-8. § (1) A hitelgondozónál nem lehet vezető állású személy az, aki
+8. § (1) A hitelgondozónál nem lehet vezető állású személy, felügyelő bizottsági tag az, aki
 
 a) súlyosan vagy rendszeresen megsértette e törvény vagy más, a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság végleges határozata vagy a bíróság jogerős ítélete öt évnél nem régebben megállapította,
 
