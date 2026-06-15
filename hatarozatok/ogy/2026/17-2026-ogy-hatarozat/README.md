@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-17-30-4
 | 2026-05-10 | 2026-17-30-41.2 | 2010. évi CXXX. törvény |
 | 2026-05-26 | 2026-17-30-41.3 | 24/2026. (V. 27.) OGY határozat |
 | 2026-06-01 | 2026-17-30-41.4 | 26/2026. (VI. 1.) OGY határozat |
+| 2026-06-15 | 2026-17-30-41.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
