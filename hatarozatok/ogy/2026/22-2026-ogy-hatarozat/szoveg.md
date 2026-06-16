@@ -34,7 +34,7 @@ Kereszténydemokrata Néppárt 1 fő,
 
 Mi Hazánk 1 fő.
 
-7. A Bizottság elnökére a TISZA képviselőcsoportja, egy-egy alelnökére a Fidesz – Magyar Polgári Szövetség és a Mi Hazánk képviselőcsoportja tesz javaslatot.
+7.[^2] A Bizottság elnökére a Mi Hazánk képviselőcsoportja, egy-egy alelnökére a TISZA és a Fidesz – Magyar Polgári Szövetség képviselőcsoportja tesz javaslatot.
 
 8. A Bizottság tagja a Bizottság döntése alapján jogosult a Bizottság feladatának ellátásához szükséges minősített adat megismerésére. „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot a Bizottság tagja csak nemzetbiztonsági ellenőrzést követően ismerhet meg.
 
@@ -49,3 +49,5 @@ Mi Hazánk 1 fő.
 13. A Bizottság megbízatása a jelentése elfogadásáról vagy elutasításáról szóló országgyűlési határozat meghozataláig, illetve a jelentés benyújtására nyitva álló határidő eredménytelen elteltéig tart.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 7. pont a 32/2026. (VI. 15.) OGY határozat 1. pontjával megállapított szöveg.
