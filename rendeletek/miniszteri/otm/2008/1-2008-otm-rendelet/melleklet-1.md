@@ -1,5 +1,7 @@
 ## való megfelelést szolgálja.
 
-1. melléklet az 1/2008. (I. 11.) ÖTM rendelethez[^13]
+1. melléklet az 1/2008. (I. 11.) ÖTM rendelethez[^14]
 
-[^13]: Az 1. melléklet a 61/2013. (X. 28.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+A minimális képzési követelmények összehangolása alapján elismert építészmérnöki oklevelek
+
+[^14]: Az 1. melléklet az 1/2026. (VI. 9.) KBM rendelet 2. §-ával megállapított szöveg.

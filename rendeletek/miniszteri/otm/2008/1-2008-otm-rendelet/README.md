@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-1-20-1V
 | 2013-11-05 | 2008-1-20-1V.5 | 61/2013. (X. 28.) BM rendelet |
 | 2016-01-01 | 2008-1-20-1V.6 | 54/2015. (XII. 8.) MvM rendelet |
 | 2019-12-24 | 2008-1-20-1V.7 | 21/2019. (XII. 23.) MvM rendelet |
+| 2026-06-17 | 2008-1-20-1V.8 | 1/2026. (VI. 9.) KBM rendelet |
