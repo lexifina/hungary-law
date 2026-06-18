@@ -2,6 +2,6 @@
 
 ## [2] A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 106. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az Európai Közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő okleveles építészmérnöki oklevelek megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 1/2008. (I. 11.) ÖTM rendelet 5. §-a a következő d) ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
