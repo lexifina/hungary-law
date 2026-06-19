@@ -38,7 +38,7 @@
 
 18.
 
-19. Sztv.: a szövetkezetekről szóló 2006. évi X. törvény,
+19.
 
 20. Tétv.: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény,
 
