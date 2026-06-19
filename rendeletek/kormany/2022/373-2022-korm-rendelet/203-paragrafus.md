@@ -12,15 +12,15 @@ b) szabálytalanság nem történt.
 
 (5) A nemzeti hatóság a szabálytalanság tényét a végső kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált.
 
-(5a)[^349] Az (5) bekezdéstől eltérően a végső kedvezményezettel szemben nem kell szabálytalansági eljárást indítani, ha a központi beszerző szerv által kötött keretmegállapodás vagy dinamikus beszerzési rendszer alapján megvalósított közbeszerzési eljárás eredményeként kötött szerződés végrehajtása során keletkezett elszámoló bizonylat a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárásra visszavezethető okból szabálytalannak minősül.
+(5a)[^360] Az (5) bekezdéstől eltérően a végső kedvezményezettel szemben nem kell szabálytalansági eljárást indítani, ha a központi beszerző szerv által kötött keretmegállapodás vagy dinamikus beszerzési rendszer alapján megvalósított közbeszerzési eljárás eredményeként kötött szerződés végrehajtása során keletkezett elszámoló bizonylat a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárásra visszavezethető okból szabálytalannak minősül.
 
-(5b)[^350] Az (5a) bekezdés szerinti bizonylaton szereplő, el nem számolható költség mértékét a nemzeti hatóság határozza meg.
+(5b)[^361] Az (5a) bekezdés szerinti bizonylaton szereplő, el nem számolható költség mértékét a nemzeti hatóság határozza meg.
 
-(5c)[^351] A nemzeti hatóság az (5b) bekezdés szerinti döntéséről haladéktalanul tájékoztatja az államháztartásért felelős minisztert.
+(5c)[^362] A nemzeti hatóság az (5b) bekezdés szerinti döntéséről haladéktalanul tájékoztatja az államháztartásért felelős minisztert.
 
-(5d)[^352] Az (5a) bekezdés szerint el nem számolható összeg a támogatási szerződés vagy okirat egyoldalú, a nemzeti hatóság általi módosítását követően a Magyarország központi költségvetéséről szóló törvény XIX. Uniós fejlesztések költségvetési fejezet hazai forrása terhére számolható el.
+(5d)[^363] Az (5a) bekezdés szerint el nem számolható összeg a támogatási szerződés vagy okirat egyoldalú, a nemzeti hatóság általi módosítását követően a Magyarország központi költségvetéséről szóló törvény XIX. Uniós fejlesztések költségvetési fejezet hazai forrása terhére számolható el.
 
-(5e)[^353] Az (5a) és (5d) bekezdés a központosított közbeszerzési rendszerbe önként csatlakozó végső kedvezményezett esetén akkor alkalmazható, ha a végső kedvezményezett a központi beszerző szerv bevonásával a megrendelést megelőzően igazolni tudja, hogy a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárás lefolytatása megfelelő volt.
+(5e)[^364] Az (5a) és (5d) bekezdés a központosított közbeszerzési rendszerbe önként csatlakozó végső kedvezményezett esetén akkor alkalmazható, ha a végső kedvezményezett a központi beszerző szerv bevonásával a megrendelést megelőzően igazolni tudja, hogy a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárás lefolytatása megfelelő volt.
 
 (6) Szabálytalanság megállapítása esetén a nemzeti hatóság
 
@@ -30,11 +30,11 @@ b) a támogatási szerződéstől eláll, illetve
 
 c) uniós jogi aktusban meghatározott egyéb jogkövetkezményt, különösen uniós vagy hazai támogatási rendszerből való kizárást alkalmaz.
 
-(7)[^354] A (6) bekezdés c) pontja szerinti kizárásról a nemzeti hatóság javaslata alapján az NFK dönt.
+(7)[^365] A (6) bekezdés c) pontja szerinti kizárásról a nemzeti hatóság javaslata alapján az NFK dönt.
 
-[^349]: A 203. § (5a) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
-[^350]: A 203. § (5b) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
-[^351]: A 203. § (5c) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
-[^352]: A 203. § (5d) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
-[^353]: A 203. § (5e) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
-[^354]: A 203. § (7) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 112. pontja szerint módosított szöveg.
+[^360]: A 203. § (5a) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
+[^361]: A 203. § (5b) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
+[^362]: A 203. § (5c) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
+[^363]: A 203. § (5d) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
+[^364]: A 203. § (5e) bekezdését a 49/2024. (III. 4.) Korm. rendelet 7. §-a iktatta be.
+[^365]: A 203. § (7) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 112. pontja szerint módosított szöveg.

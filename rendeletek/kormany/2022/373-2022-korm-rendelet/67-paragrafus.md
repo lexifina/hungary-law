@@ -4,6 +4,6 @@
 
 (2) A felhívás nem minősül az Ávr. 45. § (1) bekezdése szerinti kötelezettségvállalásnak.
 
-(3)[^121]
+(3)[^130]
 
-[^121]: A 67. § (3) bekezdését a 441/2024. (XII. 23.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^130]: A 67. § (3) bekezdését a 441/2024. (XII. 23.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

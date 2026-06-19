@@ -1,6 +1,6 @@
-## 5.[^18] A Nemzeti Fejlesztési Központ feladatai
+## 5.[^21] A Nemzeti Fejlesztési Központ feladatai
 
-5. §[^19] A Nemzeti Fejlesztési Központ (a továbbiakban: NFK)
+5. §[^22] A Nemzeti Fejlesztési Központ (a továbbiakban: NFK)
 
 1. felel a HET végrehajtását szabályozó jogszabályok előkészítéséért, és az egyéb közvetlen európai uniós források felhasználásához szükséges jogszabályok, közjogi szervezetszabályozó eszközök előkészítésének koordinációjáért,
 
@@ -16,17 +16,17 @@
 
 7. gondoskodik az Európai Bizottsággal a HET támogatásra vonatkozó támogatási megállapodás, valamint – az államháztartásért felelős miniszter előzetes hozzájárulásával – a hiteltámogatásra vonatkozóan hitelszerződés megkötéséről,
 
-7a.[^20] aláírja az Európai Bizottsággal a HET végrehajtására kötött operatív megállapodást,
+7a.[^23] aláírja az Európai Bizottsággal a HET végrehajtására kötött operatív megállapodást,
 
 8. koordinálja a HET végrehajtásához kapcsolódó állami támogatások versenyszempontú ellenőrzését, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
 9. felügyeli a HET végrehajtását, ennek keretében folyamatosan figyelemmel kíséri a megvalósítási folyamatokat, nyomon követi a HET végrehajtására javasolt intézkedések megvalósulását és azokról a Kormányt tájékoztatja,
 
-10.[^21] biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció eredményes megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
+10.[^24] biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció eredményes megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
 
 11. gondoskodik az európai uniós forrásokból megvalósuló fejlesztéspolitikai programokból támogatásban részesített projektek forrásai 51. alcím szerinti technikai – a HET végrehajtása céljából történő – átforgatásáról, az érintett projektek megfelelő szakmai-tartalmi átdolgozásáról, a HET intézkedési lista módosításáról, és azokat jóváhagyás érdekében a Kormány elé terjeszti,
 
-12.[^22] gondoskodik a HET végrehajtását érintő eredményes csalás elleni és antikorrupciós politika kidolgozásáról, és felügyeletet gyakorol annak eredményes végrehajtása felett,
+12.[^25] gondoskodik a HET végrehajtását érintő eredményes csalás elleni és antikorrupciós politika kidolgozásáról, és felügyeletet gyakorol annak eredményes végrehajtása felett,
 
 13. működteti a belső és közérdekű bejelentési rendszert (www.anti-lop.hu),
 
@@ -42,23 +42,23 @@
 
 19. biztosítja a forrást a HET végrehajtáshoz szükséges források fejezeti kezelésű előirányzat-felhasználási keretszámlán,
 
-20.[^23]
+20.[^26]
 
-21.[^24] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
+21.[^27] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
 
-22.[^25] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+22.[^28] koordinálja az ARACHNE+ kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE+ kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
-23.[^26] gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről, pénzügyi eszközök és egyszerűsített elszámolás alkalmazása esetén az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti tartalommal,
+23.[^29] gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE+ kockázatértékelő eszköz részére kéthavonta történő megküldéséről, pénzügyi eszközök és egyszerűsített elszámolás alkalmazása esetén az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti tartalommal,
 
-24.[^27] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
+24.[^30] biztosítja az ARACHNE+ kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
 
-[^18]: Az 5. alcím címe a 218/2024. (VII. 31.) Korm. rendelet 78. §-ával megállapított szöveg.
-[^19]: Az 5. § nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
-[^20]: Az 5. § 7a. pontját a 213/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^21]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
-[^22]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^23]: Az 5. § 20. pontját a 123/2023. (IV. 12.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
-[^24]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
-[^25]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
-[^26]: Az 5. § 23. pontja a 213/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^27]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.
+[^21]: Az 5. alcím címe a 218/2024. (VII. 31.) Korm. rendelet 78. §-ával megállapított szöveg.
+[^22]: Az 5. § nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
+[^23]: Az 5. § 7a. pontját a 213/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^24]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^25]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^26]: Az 5. § 20. pontját a 123/2023. (IV. 12.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
+[^27]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
+[^28]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja, a 94/2026. (VI. 18.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^29]: Az 5. § 23. pontja a 213/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított, a 94/2026. (VI. 18.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^30]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja, a 94/2026. (VI. 18.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

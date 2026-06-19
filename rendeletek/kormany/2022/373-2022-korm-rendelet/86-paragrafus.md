@@ -8,11 +8,11 @@ c) eléri a támogatási döntésben meghatározott támogatási összeg 30%-át
 
 (2) A nemzeti hatóság a költségnövekmény támogatására irányuló igény benyújtását követően jogosult kezdeményezni az igazságügyi szakértő megbízását.
 
-(2a)[^137] Ha a költségnövekmény jogszabályban meghatározott építőanyag vagy termék árának emelkedésével függ össze, amelynek alátámasztását a jogszabály szerint kérelmezték, akkor a költségnövekmény piaci árnak megfelelése szempontjából az építésgazdaságért felelős miniszter szakvéleménye irányadó.
+(2a)[^146] Ha a költségnövekmény jogszabályban meghatározott építőanyag vagy termék árának emelkedésével függ össze, amelynek alátámasztását a jogszabály szerint kérelmezték, akkor a költségnövekmény piaci árnak megfelelése szempontjából az építésgazdaságért felelős miniszter szakvéleménye irányadó.
 
-(3)[^138] A Kormány az (1)–(2a) bekezdésben szerinti szabályoktól egyedi döntéssel eltérhet.
+(3)[^147] A Kormány az (1)–(2a) bekezdésben szerinti szabályoktól egyedi döntéssel eltérhet.
 
 (4) Nem minősül költségnövekménynek, ha a többlettámogatás a szakpolitikai felelős által kezdeményezett és a HET intézkedési lista módosítása során elfogadott műszaki-szakmai tartalombővítés végrehajtását szolgálja.
 
-[^137]: A 86. § (2a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^138]: A 86. § (3) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 12. pontja szerint módosított szöveg.
+[^146]: A 86. § (2a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^147]: A 86. § (3) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 12. pontja szerint módosított szöveg.

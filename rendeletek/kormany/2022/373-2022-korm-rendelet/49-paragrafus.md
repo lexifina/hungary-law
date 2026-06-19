@@ -6,6 +6,6 @@
 
 (3) Ha a határidő kezdőnapja nem munkanap, a határidő a következő munkanapon kezdődik. Ha a határidő utolsó napja nem munkanap, a határidő a következő munkanapon jár le.
 
-(4)[^114] Az e rendelet szerinti napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.
+(4)[^123] Az e rendelet szerinti napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.
 
-[^114]: A 49. § (4) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^123]: A 49. § (4) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 19. §-a iktatta be.

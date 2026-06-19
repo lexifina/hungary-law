@@ -1,6 +1,6 @@
 ## 57. A jogorvoslati döntés
 
-217. § (1)[^374] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati eljárást követően
+217. § (1)[^385] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati eljárást követően
 
 a) a szabálytalansági döntést helybenhagyja,
 
@@ -8,7 +8,7 @@ b) a szabálytalansági döntést megsemmisíti, vagy
 
 c) a szabálytalansági döntést megsemmisíti, és kezdeményezi a nemzeti hatóságnál új szabálytalansági eljárás lefolytatását.
 
-(2)[^375] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati döntést megindokolja.
+(2)[^386] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati döntést megindokolja.
 
 (3) Az (1) bekezdés c) pontja szerinti döntésre akkor kerülhet sor, ha
 
@@ -20,14 +20,14 @@ c) a jogorvoslati eljárás alatt új tény merült fel, vagy
 
 d) a tényállás további tisztázása szükséges, de arra a jogorvoslati kérelem kiegészítése keretében nincs lehetőség.
 
-(4)[^376] Ha a Belső Ellenőrzési és Integritási Igazgatóság a szabálytalansági döntésben foglaltakhoz képest új szabálytalansági gyanút állapít meg, új szabálytalansági eljárás lefolytatását kezdeményezi a nemzeti hatóságnál.
+(4)[^387] Ha a Belső Ellenőrzési és Integritási Igazgatóság a szabálytalansági döntésben foglaltakhoz képest új szabálytalansági gyanút állapít meg, új szabálytalansági eljárás lefolytatását kezdeményezi a nemzeti hatóságnál.
 
-(5)[^377] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati döntésről haladéktalanul tájékoztatja a végső kedvezményezettet és a nemzeti hatóságot.
+(5)[^388] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati döntésről haladéktalanul tájékoztatja a végső kedvezményezettet és a nemzeti hatóságot.
 
-(6)[^378] Az (1) bekezdés c) pontja és a (4) bekezdés szerinti esetben a nemzeti hatóság a Belső Ellenőrzési és Integritási Igazgatóság döntése kézhezvételétől számított két napon belül elrendeli az új szabálytalansági eljárás lefolytatását.
+(6)[^389] Az (1) bekezdés c) pontja és a (4) bekezdés szerinti esetben a nemzeti hatóság a Belső Ellenőrzési és Integritási Igazgatóság döntése kézhezvételétől számított két napon belül elrendeli az új szabálytalansági eljárás lefolytatását.
 
-[^374]: A 217. § (1) bekezdés nyitó szövegrésze a 123/2023. (IV. 12.) Korm. rendelet 29. § 23. pontja szerint módosított szöveg.
-[^375]: A 217. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 24. pontja szerint módosított szöveg.
-[^376]: A 217. § (4) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 25. pontja szerint módosított szöveg.
-[^377]: A 217. § (5) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 26. pontja szerint módosított szöveg.
-[^378]: A 217. § (6) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 27. pontja szerint módosított szöveg.
+[^385]: A 217. § (1) bekezdés nyitó szövegrésze a 123/2023. (IV. 12.) Korm. rendelet 29. § 23. pontja szerint módosított szöveg.
+[^386]: A 217. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 24. pontja szerint módosított szöveg.
+[^387]: A 217. § (4) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 25. pontja szerint módosított szöveg.
+[^388]: A 217. § (5) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 26. pontja szerint módosított szöveg.
+[^389]: A 217. § (6) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 27. pontja szerint módosított szöveg.

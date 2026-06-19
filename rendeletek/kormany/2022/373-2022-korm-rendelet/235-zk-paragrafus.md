@@ -1,0 +1,1 @@
+235/ZK. § A nemzeti hatóság a támogatási keretrendszert végrehajtó szerv részére a végrehajtási megállapodás szerinti végrehajtási díjat a támogatási keretrendszer keretében a végső kedvezményezettekkel történt szerződéskötést követően, a végrehajtási megállapodásban foglaltak szerint hét napon belül átutalja a támogatási keretrendszert végrehajtó szerv pénzforgalmi számlájára.

@@ -28,7 +28,7 @@ bk) az egyenlő bánásmód és a megkülönböztetésmentesség előmozdítása
 
 bl) átláthatóság,
 
-bm)[^68] korrupció megelőzése, illetve leküzdése,
+bm)[^76] korrupció megelőzése, illetve leküzdése,
 
 c) a Monitoring Bizottság civil társadalmat képviselő tagjai nyílt, átlátható és megkülönböztetéstől mentes kiválasztási eljárás keretében, a szakértelemmel és érdemekkel kapcsolatos objektív kritériumok alapján kerülnek kiválasztásra.
 
@@ -38,11 +38,11 @@ a) az ernyőszervezetek felkérésével szélesítse a bevont civil társadalmi 
 
 b) a civil társadalmi szervezetek meghívásával lehetőséget biztosítson széles körű nyilvános vitára.
 
-(2a)[^69] A monitoring bizottság munkájában a pénzügyi eszközt végrehajtó szerv képviselője megfigyelőként vesz részt.
+(2a)[^77] A monitoring bizottság munkájában a pénzügyi eszközt végrehajtó szerv képviselője megfigyelőként vesz részt.
 
 (3) A Monitoring Bizottság évente legalább kétszer ülésezik, és megkap minden, a HET-ben szereplő intézkedések végrehajtásával kapcsolatos lényeges információt.
 
 (4) A Monitoring Bizottság 15. § (2) bekezdés d) pontja szerinti ajánlásai megvalósításának nyomon követéséről a nemzeti hatóság a Monitoring Bizottság ülésein beszámol.
 
-[^68]: A 16. § (1) bekezdés b) pont bm) alpontja a 463/2022. (XI. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^69]: A 16. § (2a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^76]: A 16. § (1) bekezdés b) pont bm) alpontja a 463/2022. (XI. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^77]: A 16. § (2a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 10. §-a iktatta be.

@@ -1,18 +1,18 @@
-123. § (1)[^240] Az NFK a közbeszerzési dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését.
+123. § (1)[^250] Az NFK a közbeszerzési dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését.
 
-(2)[^241] Ha az (1) bekezdés szerinti dokumentumok hiányosak, hibásak vagy a dokumentumok módosítása közbeszerzési elszámolhatósági szempontból szükséges, az NFK három munkanapos határidő kitűzésével hiánypótlásra hívja fel a végső kedvezményezettet.
+(2)[^251] Ha az (1) bekezdés szerinti dokumentumok hiányosak, hibásak vagy a dokumentumok módosítása közbeszerzési elszámolhatósági szempontból szükséges, az NFK három munkanapos határidő kitűzésével hiánypótlásra hívja fel a végső kedvezményezettet.
 
-(3)[^242] A végső kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi az NFK részére.
+(3)[^252] A végső kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi az NFK részére.
 
-(4)[^243] Az NFK az (1) bekezdés szerinti határidőben a végső kedvezményezett részére a szállítói szerződés módosítása ellenőrzéséről tanúsítványt állít ki. Az NFK támogató vagy feltétellel támogató tartalmú tanúsítványa kiállításának feltétele a nemzeti hatóság támogató vagy részben támogató tartalmú nyilatkozatának rendelkezésre állása.
+(4)[^253] Az NFK az (1) bekezdés szerinti határidőben a végső kedvezményezett részére a szállítói szerződés módosítása ellenőrzéséről tanúsítványt állít ki. Az NFK támogató vagy feltétellel támogató tartalmú tanúsítványa kiállításának feltétele a nemzeti hatóság támogató vagy részben támogató tartalmú nyilatkozatának rendelkezésre állása.
 
-(5)[^244]
+(5)[^254]
 
-(6)[^245] A végső kedvezményezett a szállítói szerződés módosítását az aláírását követő három munkanapon belül megküldi a nemzeti hatóság és az NFK részére.
+(6)[^255] A végső kedvezményezett a szállítói szerződés módosítását az aláírását követő három munkanapon belül megküldi a nemzeti hatóság és az NFK részére.
 
-[^240]: A 123. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 77. pontja szerint módosított szöveg.
-[^241]: A 123. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 78. pontja szerint módosított szöveg.
-[^242]: A 123. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 79. pontja szerint módosított szöveg.
-[^243]: A 123. § (4) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^244]: A 123. § (5) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 53. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^245]: A 123. § (6) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 36. pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 82. pontja szerint módosított szöveg.
+[^250]: A 123. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 77. pontja szerint módosított szöveg.
+[^251]: A 123. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 78. pontja szerint módosított szöveg.
+[^252]: A 123. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 79. pontja szerint módosított szöveg.
+[^253]: A 123. § (4) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^254]: A 123. § (5) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 53. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^255]: A 123. § (6) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 36. pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 82. pontja szerint módosított szöveg.

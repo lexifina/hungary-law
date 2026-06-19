@@ -2,7 +2,7 @@
 
 a) a projekt támogatási szerződésnek megfelelő fizikai és pénzügyi előrehaladását és azok összhangját,
 
-b)[^323] azt, hogy a projekt megvalósítását és a kifizetési igénylést alátámasztó dokumentum eredeti példánya vagy annak jogszabályban előírt módon előállított hiteles másolata rendelkezésre áll,
+b)[^333] azt, hogy a projekt megvalósítását és a kifizetési igénylést alátámasztó dokumentum eredeti példánya vagy annak jogszabályban előírt módon előállított hiteles másolata rendelkezésre áll,
 
 c) a kifizetés igényléshez benyújtott összesítőkhöz kapcsolódó elszámoló bizonylatokat,
 
@@ -22,16 +22,16 @@ j) a projekt szintű elkülönített számviteli nyilvántartás vezetését,
 
 k) a projektben vállalt műszaki szakmai tartalom teljesülését,
 
-l)[^324] a kettős finanszírozás elkerülésére, az összeférhetetlenségre, valamint a csalás és a korrupció tilalmára vonatkozó előírások teljesülését.
+l)[^334] a kettős finanszírozás elkerülésére, az összeférhetetlenségre, valamint a csalás és a korrupció tilalmára vonatkozó előírások teljesülését.
 
 (2) Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, a nemzeti hatóság által előzetesen jóváhagyott módszertan szerint.
 
 (3) A folyamatba épített ellenőrzéseket megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(3a)[^325] A helyszíni ellenőrök és az ellenőrzött képviseletére feljogosított személy a jegyzőkönyvet aláírják. A technikai feltételek rendelkezésre állása esetén a helyszíni ellenőrök és az ellenőrzött képviseletére feljogosított személyek a jegyzőkönyvet elektronikus úton is hitelesíthetik.
+(3a)[^335] A helyszíni ellenőrök és az ellenőrzött képviseletére feljogosított személy a jegyzőkönyvet aláírják. A technikai feltételek rendelkezésre állása esetén a helyszíni ellenőrök és az ellenőrzött képviseletére feljogosított személyek a jegyzőkönyvet elektronikus úton is hitelesíthetik.
 
 (4) A nemzeti hatóság az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet, továbbá az intézkedési tervek teljesüléséről szóló végső kedvezményezetti tájékoztatót rögzíti a monitoring és információs rendszerben.
 
-[^323]: A 187. § (1) bekezdés b) pontja a 213/2024. (VII. 29.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^324]: A 187. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 29. pontja szerint módosított szöveg.
-[^325]: A 187. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^333]: A 187. § (1) bekezdés b) pontja a 213/2024. (VII. 29.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^334]: A 187. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 29. pontja szerint módosított szöveg.
+[^335]: A 187. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 32. § (2) bekezdése iktatta be.

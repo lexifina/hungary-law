@@ -1,5 +1,5 @@
-## 6.[^30]
+## 6.[^33]
 
 7. §
 
-[^30]: A 6. alcímet (7. §-t) a 615/2022. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^33]: A 6. alcímet (7. §-t) a 615/2022. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
