@@ -68,7 +68,7 @@ c)[^179] az európai uniós támogatásokkal kapcsolatos büntető feljelentése
 
 d)[^180] részt vesz az NFK által szervezett csalás és korrupció elleni képzéseken,
 
-e)[^181] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
+e)[^181] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE+ kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
 
 23.[^182] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikk (5) bekezdés a) és b) pontjában szereplő vezetői nyilatkozatot és éves összefoglalót,
 
@@ -110,7 +110,7 @@ e)[^181] a támogatási döntés előkészítése és meghozatala során a támo
 [^178]: A 20. § 22. pont b) alpontja a 374/2022. (IX. 30.) Korm. rendelet 12. § (1) bekezdése, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 33. pontja szerint módosított szöveg.
 [^179]: A 20. § 22. pont c) alpontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 34. pontja szerint módosított szöveg.
 [^180]: A 20. § 22. pont d) alpontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 35. pontja szerint módosított szöveg.
-[^181]: A 20. § 22. pont e) alpontját a 374/2022. (IX. 30.) Korm. rendelet 4. §-a iktatta be.
+[^181]: A 20. § 22. pont e) alpontját a 374/2022. (IX. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
 [^182]: A 20. § 23. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 34. pontja szerint módosított szöveg.
 [^183]: A 20. § 24. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
 [^184]: A 20. § 25. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 35. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 8. pontja szerint módosított szöveg.
