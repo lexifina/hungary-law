@@ -52,4 +52,6 @@
 
 26. a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek
 
+28. a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.

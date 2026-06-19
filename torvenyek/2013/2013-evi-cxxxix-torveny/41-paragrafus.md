@@ -4,7 +4,7 @@ a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv h
 
 b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 1993. április 5-i 93/13/EGK tanácsi irányelvet,
 
-c) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról szóló, 2002. szeptember 23-i 2002/65/EK európai parlamenti és tanácsi irányelvet,
+c) a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvet,
 
 d) az általa felügyelt tevékenységekkel összefüggő kereskedelmi gyakorlatok tekintetében a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvet, valamint
 

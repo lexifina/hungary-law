@@ -22,7 +22,7 @@ h) a Tpt.,
 
 i) a biztosítókról és a biztosítási tevékenységről szóló törvény,
 
-j) a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
+j) a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
 
 k) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény (a továbbiakban: Fnytv.),
 
