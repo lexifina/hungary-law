@@ -34,6 +34,6 @@
 
 ## aláírás
 
-2a. melléklet 4/2011. (I. 28.) Korm. rendelethez[^632]
+2a. melléklet 4/2011. (I. 28.) Korm. rendelethez[^634]
 
-[^632]: A 2a. mellékletet a 25/2012. (II. 29.) Korm. rendelet 59. §-a iktatta be.
+[^634]: A 2a. mellékletet a 25/2012. (II. 29.) Korm. rendelet 59. §-a iktatta be.

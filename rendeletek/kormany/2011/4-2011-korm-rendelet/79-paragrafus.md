@@ -1,25 +1,25 @@
 ## 32. Fenntartás, monitoring
 
-79. § (1)[^410] E rendelet eljárási cselekményeinek hatékony és szabályszerű végrehajtásához szükséges – különösen a költségvetések nyilvántartása, a finanszírozás, a költségigazolás, az ellenőrzések, a nyomon követés, a szabálytalanságok kezelése, a követeléskezelés, a számvitel adatcsoportokba tartozó – adatokat az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló kormányrendelet szerint meghatározott módon és határidőben a monitoring és információs rendszerben kell rögzíteni.
+79. § (1)[^412] E rendelet eljárási cselekményeinek hatékony és szabályszerű végrehajtásához szükséges – különösen a költségvetések nyilvántartása, a finanszírozás, a költségigazolás, az ellenőrzések, a nyomon követés, a szabálytalanságok kezelése, a követeléskezelés, a számvitel adatcsoportokba tartozó – adatokat a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló kormányrendelet szerint meghatározott módon és határidőben a monitoring és információs rendszerben kell rögzíteni.
 
-(2)[^411] Ha a monitoring és információs rendszer egyes feladatok ellátását nem biztosítja, a projektek végrehajtásával összefüggően a monitoring és információs rendszerben el nem végezhető feladatok és kifizetések rendezésének dokumentálását az egységes működési kézikönyvben meghatározott módon kell a lebonyolításban érintett szervezeteknek biztosítaniuk és utólagosan, haladéktalanul gondoskodniuk kell az adatok monitoring és információs rendszerben való teljes körű rögzítéséről.
+(2)[^413] Ha a monitoring és információs rendszer egyes feladatok ellátását nem biztosítja, a projektek végrehajtásával összefüggően a monitoring és információs rendszerben el nem végezhető feladatok és kifizetések rendezésének dokumentálását az egységes működési kézikönyvben meghatározott módon kell a lebonyolításban érintett szervezeteknek biztosítaniuk és utólagosan, haladéktalanul gondoskodniuk kell az adatok monitoring és információs rendszerben való teljes körű rögzítéséről.
 
-(3)[^412] Ha a monitoring és információs rendszer nem biztosítja az adott átutalási megbízás rögzítését, az egységes működési kézikönyvben meghatározott módon az átutalási megbízás kiállítása a monitoring és információs rendszeren kívül, elektronikus utalás nélkül is rendezhető. Ebben az esetben a lebonyolításban érintett szervezeteknek biztosítaniuk kell a monitoring és információs rendszeren kívüli utalás dokumentálásának alátámasztását.
+(3)[^414] Ha a monitoring és információs rendszer nem biztosítja az adott átutalási megbízás rögzítését, az egységes működési kézikönyvben meghatározott módon az átutalási megbízás kiállítása a monitoring és információs rendszeren kívül, elektronikus utalás nélkül is rendezhető. Ebben az esetben a lebonyolításban érintett szervezeteknek biztosítaniuk kell a monitoring és információs rendszeren kívüli utalás dokumentálásának alátámasztását.
 
-(4)[^413] Az Európai Unióval történő elszámolások benyújtása a monitoring és információs rendszerben teljes körűen rögzített adatok alapján, kizárólag a monitoring és információs rendszerben elkészített dokumentumokkal történhet.
+(4)[^415] Az Európai Unióval történő elszámolások benyújtása a monitoring és információs rendszerben teljes körűen rögzített adatok alapján, kizárólag a monitoring és információs rendszerben elkészített dokumentumokkal történhet.
 
-(4a)[^414] Az Európai Bizottság és az illetékes szervek felé történő bármely adatszolgáltatás – ha a kért adat a monitoring és információs rendszerben rögzítésre került – kizárólag a monitoring és információs rendszerben rögzített adatok alapján történhet.
+(4a)[^416] Az Európai Bizottság és az illetékes szervek felé történő bármely adatszolgáltatás – ha a kért adat a monitoring és információs rendszerben rögzítésre került – kizárólag a monitoring és információs rendszerben rögzített adatok alapján történhet.
 
 (5) A (2) és (3) bekezdésben meghatározott, a feladatok papír alapon történő elvégzésének kötelezettsége vonatkozik az értesítési és tájékoztatási kötelezettségekre is.
 
-(6)[^415] A monitoring és információs rendszerben rögzített adatokat a monitoring és információs rendszer üzemeltetője hetente – az adatok ellenőrzése után – leválogatja és továbbítja a kincstár által működtetett monitoring rendszerhez.
+(6)[^417] A monitoring és információs rendszerben rögzített adatokat a monitoring és információs rendszer üzemeltetője hetente – az adatok ellenőrzése után – leválogatja és továbbítja a kincstár által működtetett monitoring rendszerhez.
 
-(7)[^416] A monitoring és információs rendszer üzemeltetője a rendelkezésére bocsátott köztartozási adatoknak a részére történő átadását követő 1 napon belül feldolgozza a köztartozási adatokat a monitoring és információs rendszerben.
+(7)[^418] A monitoring és információs rendszer üzemeltetője a rendelkezésére bocsátott köztartozási adatoknak a részére történő átadását követő 1 napon belül feldolgozza a köztartozási adatokat a monitoring és információs rendszerben.
 
-[^410]: A 79. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 148. pontja szerint módosított szöveg.
-[^411]: A 79. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^412]: A 79. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 149. pontja szerint módosított szöveg.
-[^413]: A 79. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 150. pontja szerint módosított szöveg.
-[^414]: A 79. § (4a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 44. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 151. pontja szerint módosított szöveg.
-[^415]: A 79. § (6) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 152. pontja szerint módosított szöveg.
-[^416]: A 79. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 153. pontja szerint módosított szöveg.
+[^412]: A 79. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 148. pontja, a 94/2026. (VI. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^413]: A 79. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^414]: A 79. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 149. pontja szerint módosított szöveg.
+[^415]: A 79. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 150. pontja szerint módosított szöveg.
+[^416]: A 79. § (4a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 44. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 151. pontja szerint módosított szöveg.
+[^417]: A 79. § (6) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 152. pontja szerint módosított szöveg.
+[^418]: A 79. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 153. pontja szerint módosított szöveg.

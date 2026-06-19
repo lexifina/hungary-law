@@ -1,8 +1,8 @@
-13. § (1)[^90] A lebonyolításban érintett szervezet vezetője a 2. melléklet szerint nyilatkozik az általa működtetett irányítási és kontrollrendszerek megfelelő és megbízható működéséről.
+13. § (1)[^92] A lebonyolításban érintett szervezet vezetője a 2. melléklet szerint nyilatkozik az általa működtetett irányítási és kontrollrendszerek megfelelő és megbízható működéséről.
 
 (2) Ha az (1) bekezdésben meghatározott szervezetnél év közben változás történik a szervezet vezetője személyében, vagy ha a szervezet átalakul vagy megszűnik, a távozó vezető, illetve az átalakuló vagy a megszűnő szervezet vezetője köteles a nyilatkozatot az addig eltelt időszak vonatkozásában kitölteni, és az új vezetőnek, illetve a jogutód szerv vezetőjének átadni, aki köteles azt a saját nyilatkozatához mellékelni.
 
-(3)[^91] A közreműködő szervezet vezetője a tárgyévre vonatkozó nyilatkozatot a következő év február 28-áig megküldi az irányító hatóság és az NFK részére. Az irányító hatóság a közreműködő szervezet vezetőjének nyilatkozatát és a saját működésére vonatkozó nyilatkozatot a tárgyévet követő év április 30-áig megküldi az államháztartásért felelős miniszter részére.
+(3)[^93] A közreműködő szervezet vezetője a tárgyévre vonatkozó nyilatkozatot a következő év február 28-áig megküldi az irányító hatóság és az NFK részére. Az irányító hatóság a közreműködő szervezet vezetőjének nyilatkozatát és a saját működésére vonatkozó nyilatkozatot a tárgyévet követő év április 30-áig megküldi az államháztartásért felelős miniszter részére.
 
-[^90]: A 13. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 7. pontja szerint módosított szöveg.
-[^91]: A 13. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
+[^92]: A 13. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 7. pontja szerint módosított szöveg.
+[^93]: A 13. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.

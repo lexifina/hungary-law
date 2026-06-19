@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2024-01-01 | 2011-4-20-22.49 | 548/2013. (XII. 30.) Korm. rendelet |
 | 2024-08-01 | 2011-4-20-22.50 | 218/2024. (VII. 31.) Korm. rendelet |
 | 2025-01-01 | 2011-4-20-22.51 | 25/2012. (II. 29.) Korm. rendelet |
+| 2026-06-19 | 2011-4-20-22.52 | 94/2026. (VI. 18.) Korm. rendelet |

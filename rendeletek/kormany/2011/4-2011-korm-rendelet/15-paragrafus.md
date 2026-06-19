@@ -1,5 +1,5 @@
-## 11.[^101]
+## 11.[^103]
 
 15. §
 
-[^101]: A 11. alcímet az 548/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.
+[^103]: A 11. alcímet az 548/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.

@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^633]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^635]
 
 Az irányító hatóság és a közreműködő szervezet kijelölése
 
@@ -20,9 +20,9 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 1. | Operatív program | Prioritás | Intézkedés | Az irányító hatósági feladatokat ellátó szervezet | Közreműködő szervezet |
 
-| 2. | Államreform Operatív Program | Miniszterelnöki Kabinetiroda | – |
+| 2. | Államreform Operatív Program | NFK[^636] | – |
 
-| 3. | Elektronikus Közigazgatás Operatív Program | Miniszterelnöki Kabinetiroda | – |
+| 3. | Elektronikus Közigazgatás Operatív Program | NFK[^637] | – |
 
 | 4. | Gazdaságfejlesztési Operatív Program | NFK | – |
 
@@ -124,4 +124,6 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 53. | Végrehajtás Operatív Program | NFK | – |
 
-[^633]: A 3. melléklet a 218/2024. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^635]: A 3. melléklet a 218/2024. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^636]: A 3. mellékletben foglalt táblázat D:2 mezője a 94/2026. (VI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^637]: A 3. mellékletben foglalt táblázat D:3 mezője a 94/2026. (VI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

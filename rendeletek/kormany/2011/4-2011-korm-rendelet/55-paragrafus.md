@@ -1,6 +1,6 @@
 ## 27. Támogatás kifizetése
 
-55. § (1)[^317] A támogatás igénybevételére irányuló kifizetési igénylés – a támogatási előleget, a szállítói előleget kivéve – az időszakos vagy a záró beszámolóval együttesen nyújtható be. Támogatás kizárólag az irányító hatóság vagy az általa kijelölt közreműködő szervezet által jóváhagyott beszámolóval elszámolható, valós költségek vonatkozásában folyósítható. A beszámoló információkat tartalmaz a támogatott projekt eredményességéről és hatékonyságáról, így különösen
+55. § (1)[^319] A támogatás igénybevételére irányuló kifizetési igénylés – a támogatási előleget, a szállítói előleget kivéve – az időszakos vagy a záró beszámolóval együttesen nyújtható be. Támogatás kizárólag az irányító hatóság vagy az általa kijelölt közreműködő szervezet által jóváhagyott beszámolóval elszámolható, valós költségek vonatkozásában folyósítható. A beszámoló információkat tartalmaz a támogatott projekt eredményességéről és hatékonyságáról, így különösen
 
 a) a célokhoz mért előrehaladásról, ideértve a számszerűsített célok mutatóit, továbbá – megfelelő indokolással és a célok aktualizálásával – a céloktól való jelentős eltérésekről,
 
@@ -16,13 +16,13 @@ a) az eredeti számlák hitelesített másolatát,
 
 b) a számlák – a szállító részére történő közvetlen kifizetés esetén a számla támogatáson felüli összege – kifizetését igazoló, az elszámolást alátámasztó dokumentumok másolatát, és
 
-c)[^318] az NFK által meghatározott formátumú összesítőt.
+c)[^320] az NFK által meghatározott formátumú összesítőt.
 
-(4)[^319] A kedvezményezett a kifizetési igénylésben nyilatkozik arról, hogy a benyújtott kifizetési igényléshez kapcsolódó elszámolások alapbizonylatai valós és elszámolható költségeken alapulnak és a támogatott projekt kapcsán merültek fel. A hitelesítés módját az NFK határozza meg.
+(4)[^321] A kedvezményezett a kifizetési igénylésben nyilatkozik arról, hogy a benyújtott kifizetési igényléshez kapcsolódó elszámolások alapbizonylatai valós és elszámolható költségeken alapulnak és a támogatott projekt kapcsán merültek fel. A hitelesítés módját az NFK határozza meg.
 
-(5)[^320]
+(5)[^322]
 
-[^317]: Az 55. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 36. §-ával megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 12. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 97. pontja és a 44. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^318]: Az 55. § (3) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 7. § 58. pontja szerint módosított szöveg.
-[^319]: Az 55. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 7. § 59. pontja szerint módosított szöveg.
-[^320]: Az 55. § (5) bekezdését a 69/2015. (III. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^319]: Az 55. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 36. §-ával megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 12. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 97. pontja és a 44. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^320]: Az 55. § (3) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 7. § 58. pontja szerint módosított szöveg.
+[^321]: Az 55. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 7. § 59. pontja szerint módosított szöveg.
+[^322]: Az 55. § (5) bekezdését a 69/2015. (III. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.

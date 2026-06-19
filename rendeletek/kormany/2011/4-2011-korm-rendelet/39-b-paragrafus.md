@@ -1,14 +1,14 @@
-39/B. §[^258] (1)[^259] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a közreműködő szervezetnél nyújtja be a monitoring és információs rendszeren keresztül.
+39/B. §[^260] (1)[^261] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a közreműködő szervezetnél nyújtja be a monitoring és információs rendszeren keresztül.
 
 (2) A közreműködő szervezet a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül megküldi a támogathatósági, elszámolhatósági, valamint műszaki szempontú észrevételeit a támogatást igénylő, illetve a kedvezményezett részére.
 
 (3) A támogatást igénylő, illetve a kedvezményezett a támogathatósági, elszámolhatósági, valamint műszaki szempontú észrevételek alapján módosított közbeszerzési dokumentumokat – a támogathatósági, elszámolhatósági, valamint műszaki szempontú észrevételekben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolással együtt – a támogathatósági, elszámolhatósági, valamint műszaki szempontú észrevételek közlésétől számított 5 napon belül a közreműködő szervezet részére megküldi.
 
-(4)[^260] A közreműködő szervezet (3) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő 5 napon belül megküldi a támogatást igénylőnek, illetve a kedvezményezettnek a támogathatósági, elszámolhatósági, valamint műszaki szempontú ellenőrzésről szóló nyilatkozatát, és erről tájékoztatja az NFK-t.
+(4)[^262] A közreműködő szervezet (3) bekezdés szerinti módosított közbeszerzési dokumentumok beérkezését követő 5 napon belül megküldi a támogatást igénylőnek, illetve a kedvezményezettnek a támogathatósági, elszámolhatósági, valamint műszaki szempontú ellenőrzésről szóló nyilatkozatát, és erről tájékoztatja az NFK-t.
 
-(5)[^261] A támogatást igénylő, illetve a kedvezményezett a (4) bekezdés szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a közbeszerzési dokumentumok NFK általi ellenőrzését. A támogatást igénylő, illetve a kedvezményezett a monitoring és információs rendszerben nem rögzített közbeszerzési dokumentumokat haladéktalanul továbbítja az NFK részére.
+(5)[^263] A támogatást igénylő, illetve a kedvezményezett a (4) bekezdés szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a közbeszerzési dokumentumok NFK általi ellenőrzését. A támogatást igénylő, illetve a kedvezményezett a monitoring és információs rendszerben nem rögzített közbeszerzési dokumentumokat haladéktalanul továbbítja az NFK részére.
 
-[^258]: A 39/B. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 176/2012. (VII. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^259]: A 39/B. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 21. §-ával megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 57. pontja szerint módosított szöveg.
-[^260]: A 39/B. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 7. § 33. pontja szerint módosított szöveg.
-[^261]: A 39/B. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 18. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 34. pontja szerint módosított szöveg.
+[^260]: A 39/B. §-t a 25/2012. (II. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 176/2012. (VII. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^261]: A 39/B. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 21. §-ával megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 57. pontja szerint módosított szöveg.
+[^262]: A 39/B. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 7. § 33. pontja szerint módosított szöveg.
+[^263]: A 39/B. § (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 18. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 34. pontja szerint módosított szöveg.

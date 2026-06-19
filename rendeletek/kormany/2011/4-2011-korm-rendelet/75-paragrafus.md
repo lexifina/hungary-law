@@ -12,18 +12,18 @@ c) – szállítói finanszírozás esetén – a kedvezményezett vagy a támog
 
 d) a teljesítés igazolását és megalapozottságát,
 
-e)[^392] a kedvezményezett köztartozás-mentességét a monitoring és információs rendszeren keresztül,
+e)[^394] a kedvezményezett köztartozás-mentességét a monitoring és információs rendszeren keresztül,
 
 f) a kettős finanszírozás elkerülésére vonatkozó előírások teljesülését,
 
-g)[^393] azt, hogy a benyújtott számlán szereplő teljesítés összhangban van-e a közbeszerzésre vonatkozó uniós és nemzeti előírásokkal, és
+g)[^395] azt, hogy a benyújtott számlán szereplő teljesítés összhangban van-e a közbeszerzésre vonatkozó uniós és nemzeti előírásokkal, és
 
 h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költségek forrását, ha a projekt fedezete kizárólag központi költségvetési forrásból került megelőlegezésre.
 
-(4)[^394] Ha a kedvezményezett központi költségvetési szerv, az irányító hatóság eltekinthet a dokumentum alapú ellenőrzés teljes körű lefolytatásától, ha a kedvezményezett utalványozási szabályzata valamennyi kifizetés esetében tartalmazza a tárgyi és időbeli elszámolhatósági szabályok, továbbá a (3) bekezdésben meghatározott megfelelőség ellenőrzését. A kedvezményezettnek biztosítania kell a kifizetés előtti ellenőrzés funkcionális függetlenségét.
+(4)[^396] Ha a kedvezményezett központi költségvetési szerv, az irányító hatóság eltekinthet a dokumentum alapú ellenőrzés teljes körű lefolytatásától, ha a kedvezményezett utalványozási szabályzata valamennyi kifizetés esetében tartalmazza a tárgyi és időbeli elszámolhatósági szabályok, továbbá a (3) bekezdésben meghatározott megfelelőség ellenőrzését. A kedvezményezettnek biztosítania kell a kifizetés előtti ellenőrzés funkcionális függetlenségét.
 
 (5) A tájékoztatással és a nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a környezeti fenntarthatóság és az esélyegyenlőség érvényesítését folyamatosan, de legkésőbb a záró kifizetési igénylés jóváhagyásáig ellenőrizni kell.
 
-[^392]: A 75. § (3) bekezdés e) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 138. pontja szerint módosított szöveg.
-[^393]: A 75. § (3) bekezdés g) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
-[^394]: A 75. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 139. pontja szerint módosított szöveg.
+[^394]: A 75. § (3) bekezdés e) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 138. pontja szerint módosított szöveg.
+[^395]: A 75. § (3) bekezdés g) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^396]: A 75. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 139. pontja szerint módosított szöveg.
