@@ -1,1 +1,0 @@
-4. § Ez a rendelet a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2024. március 5-i (EU) 2024/1395 felhatalmazáson alapuló bizottsági határozat melléklet 7. pontjának való megfelelést szolgálja.
