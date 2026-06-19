@@ -54,6 +54,8 @@
 
 | 21.[^2] | Operation Biloxi keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | Operation Biloxi műveletben részt vevő országok | Románia |
 
+| 22.[^3] | OP REASSURANCE MCM Black Sea keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | OP REASSURANCE MCM Black Sea műveletben részt vevő országok | Románia, Bulgária, Törökország |
+
 2. Magyarországon települő nemzetközi katonai szervezetekkel kapcsolatos csapatmozgások
 
 |  | A | B | C | D | E |
@@ -70,3 +72,4 @@
 
 [^1]: Az 1. melléklet 1. pontjában foglalt táblázat 20. sorát az 1374/2025. (X. 17.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. melléklet 1. pontjában foglalt táblázat 21. sorát az 1374/2025. (X. 17.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat 22. sorát az 1205/2026. (VI. 18.) Korm. határozat 1. pontja iktatta be.
