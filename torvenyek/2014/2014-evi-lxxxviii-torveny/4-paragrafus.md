@@ -324,7 +324,7 @@ c) fedezet viszontbiztosító általi nyújtása foglalkoztatói nyugdíjszolgá
 
 120. külső hitelminősítő intézet: a Hpt.-ben meghatározott fogalom;
 
-121. tartós adathordozó: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés e) pontjában meghatározott fogalom, azzal, hogy a tárolt adatoknak változatlan formában többszörözhetőknek is kell lenniük;
+121. tartós adathordozó: a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvényben meghatározott fogalom azzal, hogy a tárolt adatok változatlan formában többszörözhetőek;
 
 122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege;
 

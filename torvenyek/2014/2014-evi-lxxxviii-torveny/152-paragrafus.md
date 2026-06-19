@@ -40,7 +40,7 @@ a) azt személyesen az ügyfélnek címezzék, vagy
 
 b) az ügyfelet elektronikus úton értesítsék a honlap címéről és a tájékoztatásnak a honlapon belüli elérhetőségéről; a tájékoztatás a honlapon az igényérvényesítési határidő lejártáig elérhető maradjon, valamint a (3a) bekezdés szerinti feltételek is fennálljanak.
 
-(3c) Telefonon történő értékesítés esetében az (1) bekezdés szerinti tájékoztatásnak (a biztosítási termékismertetőt is beleértve) összhangban kell lennie a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvénnyel és a vonatkozó uniós szabályokkal. Mindezeken túlmenően az e § szerinti tájékoztatást a biztosítási szerződés megkötése után haladéktalanul meg kell adni az ügyfél részére, az ügyfél által választott módon, amely független az előzetes tájékoztatás választott módjától.
+(3c) Hívás útján történő értékesítés esetében az (1) bekezdés szerinti tájékoztatás – a biztosítási termékismertetőt is beleértve – összhangban van a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvénnyel és a vonatkozó uniós szabályokkal.
 
 (4) A (2) bekezdésben meghatározott kötelezettség megsértése az e törvényben meghatározott jogkövetkezményeket vonja maga után, és nem érinti az általános szerződési feltételek vagy azok egyes kikötései – a Ptk.-ban meghatározottak szerinti – szerződéses tartalommá válását.
 
