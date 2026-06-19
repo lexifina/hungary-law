@@ -1,4 +1,4 @@
-57/B. §[^84] A Rászoruló Személyeket Támogató OP (RSZTOP) előirányzata (XIX. fejezet, 2. cím, 18. alcím, 7. jogcímcsoport) vonatkozásában
+57/B. §[^88] A Rászoruló Személyeket Támogató OP (RSZTOP) előirányzata (XIX. fejezet, 2. cím, 18. alcím, 7. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: az OP IH vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kije
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
 
-[^84]: Az 57/B. §-t a 455/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^88]: Az 57/B. §-t a 455/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

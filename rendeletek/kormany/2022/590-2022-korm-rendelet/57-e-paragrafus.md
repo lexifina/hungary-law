@@ -1,4 +1,4 @@
-57/E. §[^87] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat (XIX. fejezet, 2. cím, 21. alcím, 1. jogcímcsoport) vonatkozásában
+57/E. §[^91] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat (XIX. fejezet, 2. cím, 21. alcím, 1. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás kivételével projektrész végrehajtása esetén a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás kivételével projektrész végrehajtása esetén a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy.
 
-[^87]: Az 57/E. §-t a 455/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^91]: Az 57/E. §-t a 455/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

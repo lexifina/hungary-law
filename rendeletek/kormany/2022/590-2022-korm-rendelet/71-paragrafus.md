@@ -1,3 +1,3 @@
-71. §[^102]
+71. §[^107]
 
-[^102]: A 71. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § l) pontja hatályon kívül helyezte.
+[^107]: A 71. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § l) pontja hatályon kívül helyezte.

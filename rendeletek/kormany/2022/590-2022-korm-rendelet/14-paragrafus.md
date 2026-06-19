@@ -6,9 +6,9 @@ a) szabálytalanságból, jogosulatlan forrásfelhasználásból adódó európa
 
 b) a követelések behajtása érdekében felmerülő költségek finanszírozására,
 
-c)[^31] ha a kedvezményezettnek vagy közvetítőnek fel nem róható okból valamely, a korábbiakban európai uniós forrásból finanszírozott támogatási vagy közvetítői szerződés részben vagy egészben nem finanszírozható európai uniós forrásból, de a szerződésben foglaltak megvalósításához nemzeti érdek fűződik,
+c)[^34] ha a kedvezményezettnek vagy közvetítőnek fel nem róható okból valamely, a korábbiakban európai uniós forrásból finanszírozott támogatási vagy közvetítői szerződés részben vagy egészben nem finanszírozható európai uniós forrásból, de a szerződésben foglaltak megvalósításához nemzeti érdek fűződik,
 
-d)[^32]
+d)[^35]
 
 e) szabálytalanságból, jogosulatlan forrásfelhasználásból adódó, a kedvezményezettet terhelő visszafizetési kötelezettség esetén a visszaköveteléssel érintett európai uniós forrásból finanszírozott költségvetési támogatás összege és a visszakövetelt összeg után fizetendő kamat megfizetésére, ha a projekt megvalósításához nemzeti érdek fűződik,
 
@@ -18,14 +18,14 @@ g) a közlekedési tárgyú projekteket megvalósító, 100%-ban állami tulajdo
 
 h) ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikkével összhangban nyújtható állami támogatásnak minősül.
 
-(2)[^33] Nem finanszírozható az előirányzat terhére az (1) bekezdés c) és e) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami vagy önkormányzati tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
+(2)[^36] Nem finanszírozható az előirányzat terhére az (1) bekezdés c) és e) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami vagy önkormányzati tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
 
-(3)[^34] Nem finanszírozható az előirányzat terhére az (1) bekezdés e) pontja szerinti, szabálytalanságból eredő igény a szállítói szerződés nem szerződésszerű teljesítése következtében keletkezett el nem számolható költség esetén, ha a kedvezményezett hitelt érdemlően nem igazolta a szerződésszegésből fakadó jogainak érvényesítését.
+(3)[^37] Nem finanszírozható az előirányzat terhére az (1) bekezdés e) pontja szerinti, szabálytalanságból eredő igény a szállítói szerződés nem szerződésszerű teljesítése következtében keletkezett el nem számolható költség esetén, ha a kedvezményezett hitelt érdemlően nem igazolta a szerződésszegésből fakadó jogainak érvényesítését.
 
-(4)[^35] A 256/2021. (V. 18.) Korm. rendelet 530/K. §-a szerint újraértékelt, hazai finanszírozásúvá vált projekteket az (1) bekezdés alkalmazásában részben európai uniós forrásból finanszírozott projekteknek kell tekinteni.
+(4)[^38] A 256/2021. (V. 18.) Korm. rendelet 530/K. §-a szerint újraértékelt, hazai finanszírozásúvá vált projekteket az (1) bekezdés alkalmazásában részben európai uniós forrásból finanszírozott projekteknek kell tekinteni.
 
-[^31]: A 14. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 57. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^32]: A 14. § (1) bekezdés d) pontját az 51/2024. (III. 4.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^33]: A 14. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^34]: A 14. § (3) bekezdését az 58/2025. (III. 26.) Korm. rendelet 4. §-a iktatta be.
-[^35]: A 14. § (4) bekezdését a 217/2025. (VII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A 14. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 57. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^35]: A 14. § (1) bekezdés d) pontját az 51/2024. (III. 4.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^36]: A 14. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^37]: A 14. § (3) bekezdését az 58/2025. (III. 26.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 14. § (4) bekezdését a 217/2025. (VII. 22.) Korm. rendelet 2. §-a iktatta be.

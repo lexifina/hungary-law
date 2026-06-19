@@ -1,3 +1,3 @@
-61. §[^93]
+61. §[^98]
 
-[^93]: A 61. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § h) pontja hatályon kívül helyezte.
+[^98]: A 61. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § h) pontja hatályon kívül helyezte.

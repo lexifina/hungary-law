@@ -54,9 +54,13 @@
 
 25a.[^12] szállítói szerződés: a kedvezményezett és a szállító között létrejött, a projekt megvalósítása érdekében kötött szerződés, közbeszerzés esetén a közbeszerzési eljárás eredményeként kötött szerződés, keretmegállapodás alkalmazása esetén az ajánlatkérő általi közvetlen megrendelés, továbbá a visszaigazolt írásbeli megrendelés,
 
+25b.[^13] támogatási keretrendszer: a 373/2022. (IX. 30.) Korm. rendelet 2. § 17b. pontja szerinti, a Helyreállítási és Ellenállóképességi Tervben (a továbbiakban: HET) szereplő támogatási program,
+
+25c.[^14] támogatási keretrendszert végrehajtó szerv: a 373/2022. (IX. 30.) Korm. rendelet 12/E. § (2) bekezdése szerinti szerv,
+
 26. támogató: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (3) bekezdése szerinti személy,
 
-27.[^13] technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 121/2021. (III. 10.) Korm. rendeletben, és a 272/2014. (XI. 5.) Korm. rendeletben meghatározott forrás,
+27.[^15] technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 121/2021. (III. 10.) Korm. rendeletben, és a 272/2014. (XI. 5.) Korm. rendeletben meghatározott forrás,
 
 28. technikai támogatás: a Svájci–Magyar Együttműködési Program II. időszak tekintetében az 563/2022. (XII. 23.) Korm. rendelet 2. § (1) bekezdés 49. pontjában meghatározott forrás,
 
@@ -74,4 +78,6 @@
 [^10]: A 3. § 22. pontját az 58/2025. (III. 26.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
 [^11]: A 3. § 25. pontja a 339/2023. (VII. 25.) Korm. rendelet 45. § (2) bekezdésével megállapított , az 51/2024. (III. 4.) Korm. rendelet 15. § a) pontja, az 58/2025. (III. 26.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § 25a. pontját az 58/2025. (III. 26.) Korm. rendelet 2. §-a iktatta be.
-[^13]: A 3. § 27. pontja a 346/2023. (VII. 27.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^13]: A 3. § 25b. pontját a 94/2026. (VI. 18.) Korm. rendelet 20. §-a iktatta be.
+[^14]: A 3. § 25c. pontját a 94/2026. (VI. 18.) Korm. rendelet 20. §-a iktatta be.
+[^15]: A 3. § 27. pontja a 346/2023. (VII. 27.) Korm. rendelet 18. §-a szerint módosított szöveg.
