@@ -1,1 +1,0 @@
-8/A. § A 6–8. §-ban foglaltak helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 21. §-ában foglaltak szerint kell eljárni, ha a fogyasztónak nyújtott hitelszerződéstől történő elállásra kerül sor.
