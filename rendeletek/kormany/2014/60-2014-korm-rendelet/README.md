@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-60-20-2
 | 2024-01-01 | 2014-60-20-22.20 | 562/2021. (X. 1.) Korm. rendelet |
 | 2024-08-01 | 2014-60-20-22.21 | 218/2024. (VII. 31.) Korm. rendelet |
 | 2025-01-01 | 2014-60-20-22.22 | 562/2021. (X. 1.) Korm. rendelet |
+| 2026-06-19 | 2014-60-20-22.23 | 94/2026. (VI. 18.) Korm. rendelet |
