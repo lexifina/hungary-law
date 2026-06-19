@@ -1,0 +1,1 @@
+21. § Ez a törvény a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

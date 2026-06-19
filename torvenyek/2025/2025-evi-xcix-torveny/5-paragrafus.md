@@ -1,0 +1,1 @@
+5. § Ha a fogyasztó fogyatékossággal élő személy – ideértve a látássérült fogyasztót is –, kérésére a 3. és 4. § szerinti tájékoztatást a részére megfelelő és hozzáférhető formátumban kell rendelkezésre bocsátani.
