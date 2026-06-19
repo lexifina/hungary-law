@@ -2,7 +2,7 @@
 
 (2) Ha a területi kiválasztási eljárásrenddel érintett felhívásra nem kizárólag a területi szereplő vagy az általa vezetett konzorcium nyújthat be támogatási kérelmet, a standard kiválasztási eljárásrendre vonatkozó szabályokat kell alkalmazni.
 
-(3)[^153] Ha a területi kiválasztási eljárásrenddel érintett felhívás fenntartható városfejlesztési eszköz megvalósítására irányul és arra a területi szereplő integrált területi programjában kijelölt város, várostérség települése vagy többségi tulajdonukban álló gazdasági társaság nyújthat be támogatási kérelmet, – a 76. § (1) bekezdése kivételével – a kiemelt kiválasztási eljárásrendre vonatkozó szabályokat kell alkalmazni.
+(3)[^157] Ha a területi kiválasztási eljárásrenddel érintett felhívás fenntartható városfejlesztési eszköz megvalósítására irányul és arra a területi szereplő integrált területi programjában kijelölt város, várostérség települése vagy többségi tulajdonukban álló gazdasági társaság nyújthat be támogatási kérelmet, – a 76. § (1) bekezdése kivételével – a kiemelt kiválasztási eljárásrendre vonatkozó szabályokat kell alkalmazni.
 
 (4) Ha a területi kiválasztási eljárásrenddel érintett felhívás fenntartható városfejlesztési eszköz megvalósítására irányul és arra a (3) bekezdésben meg nem határozott támogatást igénylő nyújthat be támogatási kérelmet, a standard kiválasztási eljárásra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy
 
@@ -10,4 +10,4 @@ a) döntés-előkészítő bizottságot nem kell összehívni,
 
 b) a benyújtott támogatási kérelmeket az irányító hatóság felkérésére a területi szereplő integrált területi programjában kijelölt város, várostérség a felhívásban meghatározott területi értékelési szempontok alapján értékeli.
 
-[^153]: A 75. § (3) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^157]: A 75. § (3) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

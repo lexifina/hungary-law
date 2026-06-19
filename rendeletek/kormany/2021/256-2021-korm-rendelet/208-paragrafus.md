@@ -4,21 +4,21 @@
 
 (2) Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor vagy más dinamikus beszerzési rendszer esetén a támogathatósági és elszámolhatósági ellenőrzés nem végezhető el, az (1) bekezdés szerinti szabályokat azzal az eltéréssel kell alkalmazni, hogy az irányító hatóság a közbeszerzési dokumentumokat csak műszaki szempontból ellenőrzi.
 
-(3)[^359] A (2) bekezdés szerinti irányító hatósági ellenőrzést a dinamikus beszerzési rendszer fő tárgyának megfelelő irányító hatóság végzi el. Ha a dinamikus beszerzési rendszer tárgya több tárgyat is magában foglal, a dinamikus beszerzési rendszer fő tárgyát a legmagasabb értékű tárgy jelenti. Ha a dinamikus beszerzési rendszer fő tárgyának megfelelő irányító hatóság nem állapítható meg egyértelműen, akkor az eljáró irányító hatóságot az NFK jelöli ki.
+(3)[^368] A (2) bekezdés szerinti irányító hatósági ellenőrzést a dinamikus beszerzési rendszer fő tárgyának megfelelő irányító hatóság végzi el. Ha a dinamikus beszerzési rendszer tárgya több tárgyat is magában foglal, a dinamikus beszerzési rendszer fő tárgyát a legmagasabb értékű tárgy jelenti. Ha a dinamikus beszerzési rendszer fő tárgyának megfelelő irányító hatóság nem állapítható meg egyértelműen, akkor az eljáró irányító hatóságot az NFK jelöli ki.
 
-(4)[^360] A dinamikus beszerzési rendszer alapján megkötött szállítói szerződések ellenőrzése vonatkozásában a kedvezményezett az irányító hatóság, majd az NFK utóellenőrzését kezdeményezi a 209. § és 210. § szerint.
+(4)[^369] A dinamikus beszerzési rendszer alapján megkötött szállítói szerződések ellenőrzése vonatkozásában a kedvezményezett az irányító hatóság, majd az NFK utóellenőrzését kezdeményezi a 209. § és 210. § szerint.
 
-(5)[^361] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett az NFK utóellenőrzését kezdeményezi.
+(5)[^370] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett az NFK utóellenőrzését kezdeményezi.
 
-(6)[^362] A részvételi jelentkezések utóellenőrzése során – a (7) és (8) bekezdésben foglalt eltérésekkel – a 210. § (2)–(6) bekezdése és a 211. § megfelelően alkalmazandó.
+(6)[^371] A részvételi jelentkezések utóellenőrzése során – a (7) és (8) bekezdésben foglalt eltérésekkel – a 210. § (2)–(6) bekezdése és a 211. § megfelelően alkalmazandó.
 
-(7)[^363] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot az NFK részére.
+(7)[^372] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot az NFK részére.
 
-(8)[^364] Az NFK a (7) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
+(8)[^373] Az NFK a (7) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
 
-[^359]: A 208. § (3) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 8. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 140. pontja, a 384/2025. (XII. 8.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^360]: A 208. § (4) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 33. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 141. pontja szerint módosított szöveg.
-[^361]: A 208. § (5) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 142. pontja szerint módosított szöveg.
-[^362]: A 208. § (6) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^363]: A 208. § (7) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 143. pontja szerint módosított szöveg.
-[^364]: A 208. § (8) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 144. pontja szerint módosított szöveg.
+[^368]: A 208. § (3) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 8. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 140. pontja, a 384/2025. (XII. 8.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^369]: A 208. § (4) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 33. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 141. pontja szerint módosított szöveg.
+[^370]: A 208. § (5) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 142. pontja szerint módosított szöveg.
+[^371]: A 208. § (6) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^372]: A 208. § (7) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 143. pontja szerint módosított szöveg.
+[^373]: A 208. § (8) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 144. pontja szerint módosított szöveg.

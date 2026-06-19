@@ -10,21 +10,22 @@ c) a kiemelt projektek tekintetében nyomon követi a projektszinten rögzített
 
 d) együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
 
-e)[^69] a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztésért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését,
+e)[^70] a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztésért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését,
 
 f) az irányító hatósággal egyeztetve gondoskodik a korábbi programozási időszakok releváns értékelései hasznosításáról,
 
-g) az éves fejlesztési keret alapját jelentő szakmai koncepciót és a felhívások szakmai koncepcióját megküldi véleményezésre a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos részére.
+g)[^71]
 
-h)[^70] a „Fogyatékossággal élő személyek jogairól szóló ENSZ Egyezmény (CRPD) végrehajtása és alkalmazása a 2010/48/EK tanácsi határozattal összhangban” megnevezésű horizontális feljogosító feltétel követelményeivel összhangban felhasználja a fogyatékosságokhoz kapcsolódó, a Központi Statisztikai Hivatal által közölt statisztikai adatokat.
+h)[^72] a „Fogyatékossággal élő személyek jogairól szóló ENSZ Egyezmény (CRPD) végrehajtása és alkalmazása a 2010/48/EK tanácsi határozattal összhangban” megnevezésű horizontális feljogosító feltétel követelményeivel összhangban felhasználja a fogyatékosságokhoz kapcsolódó, a Központi Statisztikai Hivatal által közölt statisztikai adatokat.
 
-(1a)[^71] Az (1) bekezdés a), b) és g) pontját technikai segítségnyújtás esetén nem kell alkalmazni.
+(1a)[^73] Az (1) bekezdés a), b) és g) pontját technikai segítségnyújtás esetén nem kell alkalmazni.
 
-(2)[^72] Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha az irányító hatóság és a szakpolitikai felelős ugyanabban a szervezetben került kijelölésre.
+(2)[^74] Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha az irányító hatóság és a szakpolitikai felelős ugyanabban a szervezetben került kijelölésre.
 
 (3) Ha egy prioritáson belül konstrukciófelelős kerül kijelölésre, a szakpolitikai felelős együttműködik a konstrukciófelelőssel az e rendeletben meghatározott, az adott felhívást érintő feladatok végrehajtása során.
 
-[^69]: A 26. § (1) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^70]: A 26. § (1) bekezdés h) pontját a 195/2023. (V. 22.) Korm. rendelet 29. §-a iktatta be.
-[^71]: A 26. § (1a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 19. §-a iktatta be.
-[^72]: A 26. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^70]: A 26. § (1) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^71]: A 26. § (1) bekezdés g) pontját a 94/2026. (VI. 18.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^72]: A 26. § (1) bekezdés h) pontját a 195/2023. (V. 22.) Korm. rendelet 29. §-a iktatta be.
+[^73]: A 26. § (1a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 19. §-a iktatta be.
+[^74]: A 26. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 45. §-ával megállapított szöveg.

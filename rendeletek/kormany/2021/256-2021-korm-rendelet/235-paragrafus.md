@@ -1,22 +1,22 @@
-235. § (1)[^395] A projekt keretében valós költség alapon
+235. § (1)[^404] A projekt keretében valós költség alapon
 
-a)[^396] projekt-előkészítésre, tervezésre az Európai Unióval elszámolható összköltség legfeljebb 7%-a,
+a)[^405] projekt-előkészítésre, tervezésre az Európai Unióval elszámolható összköltség legfeljebb 7%-a,
 
-b)[^397] közbeszerzési eljárások lefolytatására az Európai Unióval elszámolható összköltség legfeljebb 1%-a,
+b)[^406] közbeszerzési eljárások lefolytatására az Európai Unióval elszámolható összköltség legfeljebb 1%-a,
 
-c)[^398] ingatlanvásárlásra az Európai Unióval elszámolható összköltség legfeljebb 2%-a, kölcsön formájában nyújtott pénzügyi eszköz esetén legfeljebb 10%-a,
+c)[^407] ingatlanvásárlásra az Európai Unióval elszámolható összköltség legfeljebb 2%-a, kölcsön formájában nyújtott pénzügyi eszköz esetén legfeljebb 10%-a,
 
-d)[^399] terület-előkészítésre az Európai Unióval elszámolható összköltség legfeljebb 2%-a,
+d)[^408] terület-előkészítésre az Európai Unióval elszámolható összköltség legfeljebb 2%-a,
 
-e)[^400] műszaki ellenőri szolgáltatásra az Európai Unióval elszámolható összköltség legfeljebb 1%-a,
+e)[^409] műszaki ellenőri szolgáltatásra az Európai Unióval elszámolható összköltség legfeljebb 1%-a,
 
-f)[^401] projektmenedzsmentre az Európai Unióval elszámolható összköltség legfeljebb 2,5%-a,
+f)[^410] projektmenedzsmentre az Európai Unióval elszámolható összköltség legfeljebb 2,5%-a,
 
-g)[^402] tájékoztatásra, a nyilvánosság biztosítására az Európai Unióval elszámolható összköltség legfeljebb 0,5%-a,
+g)[^411] tájékoztatásra, a nyilvánosság biztosítására az Európai Unióval elszámolható összköltség legfeljebb 0,5%-a,
 
-h)[^403] könyvvizsgálatra az Európai Unióval elszámolható összköltség legfeljebb 0,5%-a,
+h)[^412] könyvvizsgálatra az Európai Unióval elszámolható összköltség legfeljebb 0,5%-a,
 
-i)[^404] általános költségekre az Európai Unióval elszámolható összköltség legfeljebb 2%-a
+i)[^413] általános költségekre az Európai Unióval elszámolható összköltség legfeljebb 2%-a
 
 számolható el.
 
@@ -24,20 +24,20 @@ számolható el.
 
 (3) Az irányító hatóság az (1) bekezdés szerinti százalékos mértékeket szűkítheti a felhívás céljának figyelembevételével.
 
-(4)[^405] Az (1) bekezdés szerinti százalékos mérték a projektmegvalósítás irányító hatóság általi befejezésekor – a műszaki-szakmai tartalom csökkenésével nem járó – projektszintű megtakarítás eredményeként átléphető, azzal, hogy az egyes költségtípusokra megállapított összeg nem növekedhet. Közösségi jogszabályban vagy az (1) bekezdésben nem szabályozott százalékos mérték túllépését az irányító hatóság engedélyezi.
+(4)[^414] Az (1) bekezdés szerinti százalékos mérték a projektmegvalósítás irányító hatóság általi befejezésekor – a műszaki-szakmai tartalom csökkenésével nem járó – projektszintű megtakarítás eredményeként átléphető, azzal, hogy az egyes költségtípusokra megállapított összeg nem növekedhet. Közösségi jogszabályban vagy az (1) bekezdésben nem szabályozott százalékos mérték túllépését az irányító hatóság engedélyezi.
 
 (5) Ha a projekt fő célja az (1) bekezdés szerinti költségtípusok valamelyikének elszámolása, az adott költségtípus elszámolhatósága vonatkozásában megállapított százalékos korlátot nem kell alkalmazni.
 
 (6) Tőkebefektetés esetén a céltársaságba befektetett összegre az (1) és (2) bekezdés szerinti százalékos korlátokat nem kell alkalmazni.
 
-[^395]: A 235. § (1) bekezdés nyitó szövegrésze az 562/2021. (X. 1.) Korm. rendelet 36. § 18. pontja szerint módosított szöveg.
-[^396]: A 235. § (1) bekezdés a) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^397]: A 235. § (1) bekezdés b) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^398]: A 235. § (1) bekezdés c) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^399]: A 235. § (1) bekezdés d) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^400]: A 235. § (1) bekezdés e) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^401]: A 235. § (1) bekezdés f) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^402]: A 235. § (1) bekezdés g) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^403]: A 235. § (1) bekezdés h) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^404]: A 235. § (1) bekezdés i) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 15. pontja, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^405]: A 235. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^404]: A 235. § (1) bekezdés nyitó szövegrésze az 562/2021. (X. 1.) Korm. rendelet 36. § 18. pontja szerint módosított szöveg.
+[^405]: A 235. § (1) bekezdés a) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^406]: A 235. § (1) bekezdés b) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^407]: A 235. § (1) bekezdés c) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^408]: A 235. § (1) bekezdés d) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^409]: A 235. § (1) bekezdés e) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^410]: A 235. § (1) bekezdés f) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^411]: A 235. § (1) bekezdés g) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^412]: A 235. § (1) bekezdés h) pontja a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^413]: A 235. § (1) bekezdés i) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 15. pontja, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^414]: A 235. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 16. pontja szerint módosított szöveg.

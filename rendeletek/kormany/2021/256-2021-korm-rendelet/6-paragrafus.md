@@ -14,10 +14,11 @@ bb) az irányító hatóságok végrehajtási tevékenysége egységességét,
 
 bc) a horizontális elvek és politikák érvényesítését,
 
-bd) az energiapolitikáért felelős miniszterrel együttműködve a klímaváltozás hatásaihoz való alkalmazkodás, valamint a klímaváltozás hatásai mérséklésének érvényesítését,
+bd)[^12] a klímapolitika tekintetében az energiapolitikáért felelős miniszterrel együttműködve a klímaváltozás hatásaihoz való alkalmazkodás, valamint a klímaváltozás hatásai mérséklésének érvényesítését,
 
 be) a programok összehangolt, a Partnerségi Megállapodásnak megfelelő végrehajtását.
 
 [^9]: Az 5. alcím címe a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^10]: A 6. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 3. pontja, a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 1. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^11]: A 6. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 2. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdés b) pont bd) alpontja a 94/2026. (VI. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

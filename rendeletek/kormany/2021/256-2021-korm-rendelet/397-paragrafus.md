@@ -4,7 +4,7 @@
 
 (2) Szabálytalanság megállapítása esetén az irányító hatóság
 
-a)[^568] a projekt Európai Unióval elszámolható összköltségét és a támogatást arányosan csökkentheti, a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezheti a kedvezményezettet, valamint – szükség esetén – további intézkedést rendelhet el,
+a)[^577] a projekt Európai Unióval elszámolható összköltségét és a támogatást arányosan csökkentheti, a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezheti a kedvezményezettet, valamint – szükség esetén – további intézkedést rendelhet el,
 
 b) a támogatási szerződéstől elállhat,
 
@@ -16,9 +16,9 @@ d) uniós jogi aktusban meghatározott egyéb jogkövetkezményt alkalmazhat.
 
 (4) Ha a pénzügyi korrekció mértékét nem lehet számszerűsíteni, aránytalan lenne a szabálytalansággal érintett kiadás egészének visszavonása vagy az félrevezető eredményt adna, átalánykorrekciót kell alkalmazni. Az átalánykorrekció mértékét a szabálytalanság súlya és pénzügyi következménye alapján kell meghatározni.
 
-(4a)[^569] Ha egyszerűsített elszámolás esetén a szabálytalanságot a számított költséggel érintett tevékenységgel kapcsolatban állapították meg, az átalánykorrekciót az átalányszámítás alapját képező költségre és a számított költségre is alkalmazni kell.
+(4a)[^578] Ha egyszerűsített elszámolás esetén a szabálytalanságot a számított költséggel érintett tevékenységgel kapcsolatban állapították meg, az átalánykorrekciót az átalányszámítás alapját képező költségre és a számított költségre is alkalmazni kell.
 
 (5) Az irányító hatóság a támogatási jogviszonyt érintő intézkedést rendelhet el, ha szabálytalanság nem kerül megállapításra, de jogsértő helyzet megszüntetése szükséges.
 
-[^568]: A 397. § (2) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 60. §-ával megállapított, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
-[^569]: A 397. § (4a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 62. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 183. pontja szerint módosított szöveg.
+[^577]: A 397. § (2) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 60. §-ával megállapított, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^578]: A 397. § (4a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 62. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 183. pontja szerint módosított szöveg.

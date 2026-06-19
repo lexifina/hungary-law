@@ -24,6 +24,6 @@ g) a fenntartható városfejlesztés városi szintű forráskeretét, tematikus 
 
 (5) A területi szereplő az integrált területi program módosítását évente két alkalommal, április 30-ig és december 31-ig kezdeményezheti.
 
-(6)[^144] Az irányító hatóság soron kívül felhívhatja a területi szereplőt az integrált területi program módosítására, ha a program módosítása érinti a (4) bekezdés c)–g) pontja szerinti adatokat.
+(6)[^148] Az irányító hatóság soron kívül felhívhatja a területi szereplőt az integrált területi program módosítására, ha a program módosítása érinti a (4) bekezdés c)–g) pontja szerinti adatokat.
 
-[^144]: A 68. § (6) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^148]: A 68. § (6) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

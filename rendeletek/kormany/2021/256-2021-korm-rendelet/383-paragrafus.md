@@ -8,6 +8,6 @@
 
 (2) A szabálytalansági eljárást az irányító hatóság folytatja le.
 
-(3)[^557] Az irányító hatóság a szabálytalansági eljárást az érintett projekt célja megvalósulására és – a fenntartási időszak alatt – a 349. §-ra figyelemmel folytatja le.
+(3)[^566] Az irányító hatóság a szabálytalansági eljárást az érintett projekt célja megvalósulására és – a fenntartási időszak alatt – a 349. §-ra figyelemmel folytatja le.
 
-[^557]: A 383. § (3) bekezdése a 484/2025. (XII. 31.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
+[^566]: A 383. § (3) bekezdése a 484/2025. (XII. 31.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.

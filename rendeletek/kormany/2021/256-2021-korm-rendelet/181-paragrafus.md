@@ -1,3 +1,3 @@
-181. §[^263]
+181. §[^272]
 
-[^263]: A 181. §-t a 202/2025. (VII. 16.) Korm. rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^272]: A 181. §-t a 202/2025. (VII. 16.) Korm. rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.

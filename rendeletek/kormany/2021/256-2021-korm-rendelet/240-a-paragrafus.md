@@ -1,28 +1,28 @@
-## 59/A.[^413] A költségfüggetlen finanszírozás
+## 59/A.[^422] A költségfüggetlen finanszírozás
 
-240/A. §[^414] (1) A költségfüggetlen finanszírozás során a projekt megvalósítása és finanszírozása mérföldkövenként történik.
+240/A. §[^423] (1) A költségfüggetlen finanszírozás során a projekt megvalósítása és finanszírozása mérföldkövenként történik.
 
-(2)[^415] A kedvezményezett előleg igénylésére irányuló kérelemmel mérföldkövenként előleget igényelhet. Az előleg mértéke az adott mérföldkőre jutó támogatás összegének legfeljebb 25%-a.
+(2)[^424] A kedvezményezett előleg igénylésére irányuló kérelemmel mérföldkövenként előleget igényelhet. Az előleg mértéke az adott mérföldkőre jutó támogatás összegének legfeljebb 25%-a.
 
-(3)[^416] Az irányító hatóság az államháztartásért felelős miniszter egyetértésével a (2) bekezdés szerinti százalékos mértéket megemelheti, ha a kedvezményezett a magasabb mértékű előleg szükségességét megalapozottan indokolja, az előleg kifizetése ütemezését alátámasztó likviditási tervet készít, valamint az európai uniós forrásból nyújtott költségvetési támogatás kezelésére a kincstárnál külön fizetési számlával rendelkezik.
+(3)[^425] Az irányító hatóság az államháztartásért felelős miniszter egyetértésével a (2) bekezdés szerinti százalékos mértéket megemelheti, ha a kedvezményezett a magasabb mértékű előleg szükségességét megalapozottan indokolja, az előleg kifizetése ütemezését alátámasztó likviditási tervet készít, valamint az európai uniós forrásból nyújtott költségvetési támogatás kezelésére a kincstárnál külön fizetési számlával rendelkezik.
 
-(3a)[^417] Ha az előleg igénylésére irányuló kérelem hiányos vagy hibás, a hiánypótlás vonatkozásában a 244. § (2) bekezdését kell alkalmazni.
+(3a)[^426] Ha az előleg igénylésére irányuló kérelem hiányos vagy hibás, a hiánypótlás vonatkozásában a 244. § (2) bekezdését kell alkalmazni.
 
 (4) A kedvezményezett a felhívás által előírt eredmény vagy feltétel teljesítését a felhívás által előírt beszámolóval és az ahhoz tartozó alátámasztó dokumentummal (ezen alcím alkalmazásában a továbbiakban együtt: beszámoló) támasztja alá.
 
-(5)[^418] Az irányító hatóság a beszámoló ellenőrzése során a felhívás által előírt eredmény vagy feltétel teljesítését a 69. alcím szerint vizsgálja. A költségfüggetlen finanszírozás esetén a 156. §-t és a 160. §-t nem kell alkalmazni.
+(5)[^427] Az irányító hatóság a beszámoló ellenőrzése során a felhívás által előírt eredmény vagy feltétel teljesítését a 69. alcím szerint vizsgálja. A költségfüggetlen finanszírozás esetén a 156. §-t és a 160. §-t nem kell alkalmazni.
 
-(6)[^419] A program eltérő rendelkezése hiányában az irányító hatóság az adott mérföldkőre jutó támogatást nem hagyja jóvá, ha a beszámoló a felhívás által előírt eredmény vagy feltétel teljesítését nem támasztja alá. Az irányító hatóság az adott mérföldkőre jutó kifizethető támogatást az adott mérföldkőre kifizetett előleg figyelembevételével állapítja meg.
+(6)[^428] A program eltérő rendelkezése hiányában az irányító hatóság az adott mérföldkőre jutó támogatást nem hagyja jóvá, ha a beszámoló a felhívás által előírt eredmény vagy feltétel teljesítését nem támasztja alá. Az irányító hatóság az adott mérföldkőre jutó kifizethető támogatást az adott mérföldkőre kifizetett előleg figyelembevételével állapítja meg.
 
 (7) A beszámoló benyújtásának elmulasztása vagy elutasítása esetén az irányító hatóság az adott mérföldkőre jutó támogatást nem fizeti ki, a kedvezményezett a folyósított előleget a 427. § (2) bekezdése szerint visszafizeti.
 
-(8)[^420] A költségfüggetlen finanszírozás esetén a 87. § (3) és (3a) bekezdését nem kell alkalmazni.
+(8)[^429] A költségfüggetlen finanszírozás esetén a 87. § (3) és (3a) bekezdését nem kell alkalmazni.
 
-[^413]: Az 59/A. alcímet (240/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 51. §-a iktatta be.
-[^414]: A 240/A. § a 416/2023. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^415]: A 240/A. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 162. pontja szerint módosított szöveg.
-[^416]: A 240/A. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 163. pontja szerint módosított szöveg.
-[^417]: A 240/A. § (3a) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 57. §-a iktatta be.
-[^418]: A 240/A. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 164. pontja szerint módosított szöveg.
-[^419]: A 240/A. § (6) bekezdése a 48/2024. (III. 4.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^420]: A 240/A. § (8) bekezdését a 48/2024. (III. 4.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^422]: Az 59/A. alcímet (240/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 51. §-a iktatta be.
+[^423]: A 240/A. § a 416/2023. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^424]: A 240/A. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 162. pontja szerint módosított szöveg.
+[^425]: A 240/A. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 163. pontja szerint módosított szöveg.
+[^426]: A 240/A. § (3a) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 57. §-a iktatta be.
+[^427]: A 240/A. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 164. pontja szerint módosított szöveg.
+[^428]: A 240/A. § (6) bekezdése a 48/2024. (III. 4.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^429]: A 240/A. § (8) bekezdését a 48/2024. (III. 4.) Korm. rendelet 15. § (2) bekezdése iktatta be.
