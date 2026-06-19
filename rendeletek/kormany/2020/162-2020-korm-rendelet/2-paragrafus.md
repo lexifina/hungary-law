@@ -12,13 +12,13 @@ e)[^11] e feladata megvalósítása vonatkozásában az a szervezet, amely kieme
 
 f)[^12] az a)–e) pontba nem tartozó olyan szervezet, amely javára a kommunikációs beszerzési eljárást vagy a szervezetfejlesztési beszerzési eljárást az a)–d) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése folytán vagy jogszabályon alapuló megállapodás értelmében,
 
-g)[^13] az a)–d) pontba nem tartozó olyan szervezet, amely
+g)[^13] az a)–d) pontba nem tartozó olyan szervezet, amelynek
 
 ga) az e rendelet szerinti központosított közbeszerzési vagy beszerzési rendszerhez való vagy
 
 gb) valamely, e rendelet szerinti egy vagy több kommunikációs beszerzés vagy szervezetfejlesztési beszerzés vonatkozásában a
 
-csatlakozást önként vállalja (a továbbiakban együttesen: önkéntes csatlakozó).
+csatlakozását a Hivatal jóváhagyta (a továbbiakban együttesen: önkéntes csatlakozó).
 
 (2)[^14] A központosított közbeszerzési és beszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–f) pontja szerinti érintett szervezetek ellátását. A Hivatal az önkéntesen csatlakozni kívánó szervezet központosított közbeszerzési és beszerzési rendszerbe való belépését megtagadhatja, vagy feltételhez kötheti.
 
@@ -28,6 +28,6 @@ csatlakozást önként vállalja (a továbbiakban együttesen: önkéntes csatla
 [^10]: A 2. § (1) bekezdés c) pontja a 644/2023. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: A 2. § (1) bekezdés e) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (1) bekezdés f) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^13]: A 2. § (1) bekezdés g) pontja a 41/2021. (II. 2.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés g) pontja a 95/2026. (VI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^14]: A 2. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 4. pontja, a 41/2021. (II. 2.) Korm. rendelet 8. § (4) bekezdése szerint módosított szöveg.
 [^15]: A 2. § (3) bekezdése a 41/2021. (II. 2.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -16,8 +16,8 @@
 
 | 8. | Rendezvényszervezéshez kapcsolódó feladat | Eseti vagy rendszeres, előre meghatározott célból (így különösen társadalmi, tudományos, szakmai, kulturális, sport) adott helyen és időben tartott, vagy online megvalósuló esemény (a továbbiakban: rendezvény) tervezése, előkészítése, koordinációja és megvalósítása során felmerülő feladat, így különösen: – rendezvénykoncepció kialakítása, – rendezvénykoordináció, – helyszínbérlés, – rendezvénytechnika (hang-, világítás-, színpad-, video- és vizuáltechnika, televízió- és biztonságtechnika) és a hozzá kapcsolódó háttérszolgáltatás, – rendezvénytechnikai eszközök szolgáltatása, – catering-szolgáltatás, – kiegészítő programelem és előadó biztosítása, – szállásbiztosítás, – rendezvényhez kapcsolódó szállítás, utaztatás, – egyéb, a rendezvény megvalósításához szorosan kapcsolódó szakember, eszköz és szolgáltatás nyújtása. |
 
-2. melléklet a 162/2020. (IV. 30.) Korm. rendelethez[^97]
+2. melléklet a 162/2020. (IV. 30.) Korm. rendelethez[^102]
 
 Szervezetfejlesztési feladatok
 
-[^97]: A 2. mellékletet az 590/2020. (XII. 17.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 611/2022. (XII. 28.) Korm. rendelet 8. § b) pontjával megállapított szöveg.
+[^102]: A 2. mellékletet az 590/2020. (XII. 17.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 611/2022. (XII. 28.) Korm. rendelet 8. § b) pontjával megállapított szöveg.

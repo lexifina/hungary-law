@@ -24,7 +24,7 @@ k)[^29] megvizsgálja az e rendelet 1. § (2) bekezdés 6., 7., 10. és 16. pont
 
 l)[^30] az érintett szervezetek jogalkalmazásának elősegítése érdekében elvi jelentőségű jogértelmezési kérdésekben állásfoglalásokat ad ki.
 
-(2)[^31] A Hivatal jogosult az érintett szervezetek kommunikációs beszerzési eljárásaiban és szervezetfejlesztési beszerzési eljárásaiban az érintett szervezetek mellett ajánlatkérőként, illetve megrendelőként fellépni, amennyiben a beszerzés tárgya ezt indokolja vagy kormányzati szempontból kiemelt beszerzés, illetve ha e § (1) bekezdés a) vagy b) pontjában meghatározott jogkör gyakorlásához szükséges.
+(2)[^31]
 
 (3)[^32] A Hivatal e rendeletben foglalt eljárása, egyedi döntése és ellenőrzése nem minősül az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti hatósági eljárásnak, döntésnek és ellenőrzésnek.
 
@@ -45,7 +45,7 @@ l)[^30] az érintett szervezetek jogalkalmazásának elősegítése érdekében 
 [^28]: Az 5. § (1) bekezdés j) pontja a 611/2022. (XII. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^29]: Az 5. § (1) bekezdés k) pontját a 611/2022. (XII. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^30]: Az 5. § (1) bekezdés l) pontját a 611/2022. (XII. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^31]: Az 5. § (2) bekezdése a 611/2022. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (2) bekezdését a 95/2026. (VI. 18.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^32]: Az 5. § (3) bekezdése a 611/2022. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^33]: Az 5. § (4) bekezdése a 611/2022. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^34]: Az 5. § (5) bekezdését a 611/2022. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
