@@ -1,0 +1,5 @@
+## 2. A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet módosítása
+
+3. § A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ezt a rendeletet kell alkalmazni a Nemzeti Fejlesztési Központ (a továbbiakban: NFK) által a www.palyazat.gov.hu oldalon közlemény formájában közzétett költségvetési előirányzatokból származó forrásokból projektek – ideértve a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendelet szerinti támogatási keretrendszerben végrehajtott projekteket is – megvalósításához nyújtott támogatásokkal és az azokból finanszírozott fejlesztésekkel kapcsolatos adatok nyilvántartására, a nyilvántartások összekapcsolására, a nyilvántartáshoz történő csatlakozásra, valamint a nyilvántartások használatára.”
