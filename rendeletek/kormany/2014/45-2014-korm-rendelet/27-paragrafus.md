@@ -6,7 +6,7 @@ aa) a vállalkozás a 11. § (1) bekezdésének i) vagy k) pontjában előírt t
 
 ab) a fogyasztó nem kérte a 13. § és a 19. § szerint a szolgáltatás teljesítésének megkezdését a 20. § (2) bekezdésében meghatározott határidő lejárta előtt;
 
-b)[^70] a nem tárgyi adathordozón nyújtott digitális tartalom szolgáltatásának teljes vagy részleges költségeit, ha
+b)[^74] a nem tárgyi adathordozón nyújtott digitális tartalom szolgáltatásának teljes vagy részleges költségeit, ha
 
 ba) a fogyasztó nem adta kifejezett, előzetes beleegyezését ahhoz, hogy a teljesítés a 20. § (2) bekezdésében meghatározott határidő lejárta előtt megkezdődjön,
 
@@ -14,4 +14,4 @@ bb) a fogyasztó a ba) pont szerinti beleegyezése megadásával egyidejűleg ne
 
 bc) a vállalkozás elmulasztotta megadni a 12. § (2) bekezdésében vagy a 18. §-ban előírt visszaigazolást.
 
-[^70]: A 27. § b) pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 31. pontja szerint módosított szöveg.
+[^74]: A 27. § b) pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 31. pontja szerint módosított szöveg.
