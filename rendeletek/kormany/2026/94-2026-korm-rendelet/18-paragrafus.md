@@ -1,1 +1,3 @@
-18. § A 373/2022. (IX. 30.) Korm. rendelet 1. melléklete helyébe a 4. melléklet lép.
+18. §[^19]
+
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

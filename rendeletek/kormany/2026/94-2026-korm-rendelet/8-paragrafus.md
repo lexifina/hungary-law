@@ -1,1 +1,3 @@
-8. § A 256/2021. (V. 18.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

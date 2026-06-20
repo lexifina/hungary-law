@@ -1,11 +1,3 @@
-## „
+4. melléklet a 94/2026. (VI. 18.) Korm. rendelethez[^29]
 
-|  | (A) | (B) |
-
-| (1.) | (Program) | (Az irányító hatósági feladatokat ellátó szervezet) |
-
-| (4.) | (Magyar Halgazdálkodási Operatív Program Plusz) | Agrár- és Élelmiszergazdaságért Felelős Minisztérium |
-
-## ”
-
-4. melléklet a 94/2026. (VI. 18.) Korm. rendelethez
+[^29]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

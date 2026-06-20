@@ -1,1 +1,3 @@
-23. § Az 590/2022. (XII. 28.) Korm. rendelet 1. melléklete az 5. melléklet szerint módosul.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
