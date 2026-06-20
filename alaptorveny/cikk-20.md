@@ -18,6 +18,8 @@ f) összeférhetetlenség kimondásával;
 
 g) ha a megválasztásához szükséges feltételek már nem állnak fenn.
 
+h) ha a miniszterelnöki megbízatást összesen legalább nyolc évig betöltötte.
+
 (3) A miniszter megbízatása megszűnik
 
 a) a miniszterelnök megbízatásának megszűnésével;

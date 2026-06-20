@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00
 | 2025-03-01 | Magyarország Alaptörvényének nyolcadik módosítása | 2011-4301-02-00.22 |
 | 2025-04-15 | Magyarország Alaptörvényének negyedik módosítása | 2011-4301-02-00.24 |
 | 2026-01-01 | Magyarország Alaptörvényének nyolcadik módosítása | 2011-4301-02-00.23 |
+| 2026-06-20 | Magyarország Alaptörvényének negyedik módosítása | 2011-4301-02-00.25 |

@@ -204,4 +204,10 @@ A 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszo
 
 Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) bekezdésében meghatározott legalacsonyabb életkor követelményét a már kinevezett bírókra nem kell alkalmazni.
 
-## * Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
+33.
+
+Az Alaptörvény tizenhatodik módosításának hatálybalépésekor működő közfeladatot ellátó közérdekű vagyonkezelő alapítvány (a továbbiakban: alapítvány) részére az állam által alapítóként, csatlakozóként vagy más jogcímen juttatott vagyon, illetve e vagyon hozama, valamint a mindezek helyébe lépett vagyon az alapítvány megszűnésekor ingyenesen az államra, mint általános jogutódra száll, továbbá megszűnik az állami tulajdonban álló vagyontárgy tekintetében a vagyonkezelői jog, illetve a közfeladathoz rendelt vagyonkezelői jog. Az alapítvány alapítói jogait az állam gyakorolja. Az alapítói jogok gyakorlója az alapítványt megszüntetheti. Az alapítvány működésének, megszüntetésének, közfeladatai és egyéb feladatai ellátásának szabályait törvény határozza meg.
+
+## *
+
+Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.

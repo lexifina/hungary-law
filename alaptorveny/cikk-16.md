@@ -4,7 +4,7 @@
 
 (2) A miniszterelnök rendeletben a miniszterek közül egy vagy több miniszterelnök-helyettest jelöl ki.
 
-(3) A miniszterelnököt az Országgyűlés a köztársasági elnök javaslatára választja meg.
+(3) A miniszterelnököt az Országgyűlés a köztársasági elnök javaslatára választja meg. Nem választható meg miniszterelnöknek az, aki összesen – megszakításokkal együtt – már legalább nyolc évig miniszterelnöki megbízatást töltött be. E nyolcéves időtartam számításakor az 1990. május 2. vagy azután betöltött miniszterelnöki megbízatást kell figyelembe venni.
 
 (4) A miniszterelnök megválasztásához az országgyűlési képviselők több mint a felének szavazata szükséges. A miniszterelnök a megválasztásával hivatalba lép.
 
