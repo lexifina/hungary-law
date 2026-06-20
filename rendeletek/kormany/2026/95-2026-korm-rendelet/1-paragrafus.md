@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 5. és 7. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet [a továbbiakban: 162/2020. (IV. 30.) Korm. rendelet] 2. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A kommunikációs beszerzés, a szervezetfejlesztési beszerzés és a szponzoráció megvalósítása során e rendelet előírásai szerint köteles eljárni)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

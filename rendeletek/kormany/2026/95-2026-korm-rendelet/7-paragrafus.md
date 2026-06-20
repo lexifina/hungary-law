@@ -1,9 +1,3 @@
-7. § Hatályát veszti a 162/2020. (IV. 30.) Korm. rendelet
+7. §[^8]
 
-a) 5. § (2) bekezdése,
-
-b) 9. § (3) bekezdésében a „11. § (12) bekezdése és a” szövegrész,
-
-c) 11. § (10)–(16) bekezdése,
-
-d) 13. § (6) bekezdés j) pontja.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
