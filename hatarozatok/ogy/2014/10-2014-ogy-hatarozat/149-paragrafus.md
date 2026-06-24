@@ -2,7 +2,7 @@
 
 ## AZ ÖSSZEFÉRHETETLENSÉGI ÜGYEK INTÉZÉSE
 
-149. §[^271] (1) A képviselők összeférhetetlenségi ügyeinek intézése során a határozati házszabályi rendelkezéseket a (2)–(5) bekezdésben, valamint a 151. és a 152. §-ban foglalt eltérésekkel kell alkalmazni.
+149. §[^273] (1) A képviselők összeférhetetlenségi ügyeinek intézése során a határozati házszabályi rendelkezéseket a (2)–(5) bekezdésben, valamint a 151. és a 152. §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A házelnök a képviselői összeférhetetlenségre vonatkozó bejelentést haladéktalanul megküldi a Mentelmi Bizottság elnökének, és erről az érintett képviselőt tájékoztatja.
 
@@ -16,4 +16,4 @@ a) a képviselő a felhívástól számított öt napon belül nem jelentette be
 
 b) az érintett képviselőtől kapott válasz alapján az összeférhetetlenség fennálltát nem lehet a (4) bekezdés szerint megítélni, vagy a Mentelmi Bizottság kifogást emelt.
 
-[^271]: A 149. § a 27/2024. (XII. 20.) OGY határozat 8. §-ával megállapított szöveg.
+[^273]: A 149. § a 27/2024. (XII. 20.) OGY határozat 8. §-ával megállapított szöveg.

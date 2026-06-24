@@ -1,6 +1,6 @@
 ## 94. A szubszidiaritás elvének érvényesítése
 
-142. §[^258] (1) Az európai uniós ügyekkel foglalkozó bizottság az Európai Unióról szóló szerződéshez (a továbbiakban: EUSz), az Európai Unió működéséről szóló szerződéshez (a továbbiakban: EUMSz) és az Európai Atomenergia-közösség létrehozásáról szóló szerződéshez csatolt 2. jegyzőkönyvben (a továbbiakban: Jegyzőkönyv) meghatározottak szerint megvizsgálhatja az európai uniós jogalkotási aktusok tervezetei esetében a szubszidiaritás elvének érvényesülését.
+142. §[^260] (1) Az európai uniós ügyekkel foglalkozó bizottság az Európai Unióról szóló szerződéshez (a továbbiakban: EUSz), az Európai Unió működéséről szóló szerződéshez (a továbbiakban: EUMSz) és az Európai Atomenergia-közösség létrehozásáról szóló szerződéshez csatolt 2. jegyzőkönyvben (a továbbiakban: Jegyzőkönyv) meghatározottak szerint megvizsgálhatja az európai uniós jogalkotási aktusok tervezetei esetében a szubszidiaritás elvének érvényesülését.
 
 (2) Ha az európai uniós ügyekkel foglalkozó bizottság álláspontja szerint az európai uniós jogalkotási aktus tervezete sérti a szubszidiaritás elvét, a Jegyzőkönyv szerinti indokolt vélemény elfogadása feltételeinek fennállásáról jelentést, valamint a jelentés elfogadására vonatkozó határozati javaslatot nyújt be.
 
@@ -18,4 +18,4 @@ d) az Országgyűlés a jelentésről a határozati javaslat elfogadásával dö
 
 (5) A jelentés elfogadását követően az indokolt véleményt a házelnök haladéktalanul továbbítja az Európai Parlament, az Európai Unió Tanácsa és az Európai Bizottság elnökének, és egyidejűleg erről a Kormányt is tájékoztatja.
 
-[^258]: A 142. § az 54/2019. (XII. 17.) OGY határozat 67. §-ával megállapított szöveg.
+[^260]: A 142. § az 54/2019. (XII. 17.) OGY határozat 67. §-ával megállapított szöveg.

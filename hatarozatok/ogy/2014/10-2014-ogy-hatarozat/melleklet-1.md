@@ -1,4 +1,4 @@
-1. melléklet a 10/2014. (II. 24.) OGY határozathoz[^296]
+1. melléklet a 10/2014. (II. 24.) OGY határozathoz[^298]
 
 A titkos szavazás lebonyolításának rendjéről
 
@@ -90,4 +90,4 @@ Függelék
 
 SZAVAZÓLAPMINTA
 
-[^296]: Az 1. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (1) bekezdése, a 36/2022. (VII. 22.) OGY határozat 28. § 29. pontja szerint módosított szöveg.
+[^298]: Az 1. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (1) bekezdése, a 36/2022. (VII. 22.) OGY határozat 28. § 29. pontja szerint módosított szöveg.

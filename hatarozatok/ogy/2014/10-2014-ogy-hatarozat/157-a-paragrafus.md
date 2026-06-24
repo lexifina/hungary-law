@@ -1,4 +1,4 @@
-157/A. §[^286] (1) Ha a részletesvita-szakasz az előző ciklusban nem zárult le, de valamennyi képviselői módosító javaslatról legalább egy állandó bizottság állást foglalt, a részletesvita-szakasz – a Kormány 157. § (4) bekezdése szerinti nyilatkozatával – lezártnak minősül.
+157/A. §[^288] (1) Ha a részletesvita-szakasz az előző ciklusban nem zárult le, de valamennyi képviselői módosító javaslatról legalább egy állandó bizottság állást foglalt, a részletesvita-szakasz – a Kormány 157. § (4) bekezdése szerinti nyilatkozatával – lezártnak minősül.
 
 (2) Ha van olyan képviselői módosító javaslat, amelyről az előző ciklusban a tárgyaló állandó bizottságok egyike sem foglalt állást, annak megtárgyalására a házelnök egy állandó bizottságot jelöl ki.
 
@@ -14,4 +14,4 @@
 
 (8) Ha az előző ciklusban a törvényalkotási bizottság a 46. § (3) bekezdése alapján a törvényjavaslatot nem tárgyalta, az (5) bekezdés szerinti kérelmet egyúttal a törvényalkotási bizottság eljárása kezdeményezésének kell tekinteni.
 
-[^286]: A 157/A. §-t az 54/2019. (XII. 17.) OGY határozat 73. §-a iktatta be.
+[^288]: A 157/A. §-t az 54/2019. (XII. 17.) OGY határozat 73. §-a iktatta be.

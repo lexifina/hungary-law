@@ -1,5 +1,5 @@
 ## 104. Hatályon kívül helyező rendelkezések
 
-162. §[^295]
+162. §[^297]
 
-[^295]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^297]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -18,8 +18,8 @@
 
 (9) Az európai uniós ügyekkel foglalkozó bizottság állásfoglalása a jegyzőkönyvbe foglalt elnöki összefoglaló, amelyet a bizottság elnöke a bizottsági ülést követő huszonnégy órán belül írásban megküld a házelnöknek és a Kormánynak.
 
-(10)[^257] A Kormány által az Országgyűlésről szóló törvény szerint adott, az Európai Unió kormányzati részvétellel működő intézményeinek döntése utáni írásbeli, valamint szóbeli tájékoztatással összefüggésben az európai uniós ügyekkel foglalkozó bizottság jár el. A bizottság az Országgyűlésről szóló törvény által meghatározott esetben dönt az indokolás elfogadásáról.
+(10)[^259] A Kormány által az Országgyűlésről szóló törvény szerint adott, az Európai Unió kormányzati részvétellel működő intézményeinek döntése utáni írásbeli, valamint szóbeli tájékoztatással összefüggésben az európai uniós ügyekkel foglalkozó bizottság jár el. A bizottság az Országgyűlésről szóló törvény által meghatározott esetben dönt az indokolás elfogadásáról.
 
 (11) Az európai uniós tervezetre vonatkozó egyeztetési eljárás lezárására irányuló országgyűlési döntést az európai uniós ügyekkel foglalkozó bizottság hozza meg.
 
-[^257]: A 140. § (10) bekezdése az 54/2019. (XII. 17.) OGY határozat 78. § m) pontja szerint módosított szöveg.
+[^259]: A 140. § (10) bekezdése az 54/2019. (XII. 17.) OGY határozat 78. § m) pontja szerint módosított szöveg.
