@@ -28,9 +28,19 @@
 
 | Határidő: | azonnal |
 
-1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^4]
+## 8.[^4] jóváhagyja a Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó támogatási keretrendszerben végrehajtandó, 4. melléklet szerinti intézkedési listát,
+
+## 9.[^5] felhívja a vidék- és településfejlesztési minisztert, hogy gondoskodjon a 8. pont szerinti intézkedések végrehajtásának megkezdéséről.
+
+| Felelős: | vidék- és településfejlesztési miniszter |
+
+| Határidő: | azonnal |
+
+1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^6]
 
 [^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
 [^2]: A 6. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 7. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
-[^4]: Az 1. melléklet az 1610/2023. (XII. 23.) Korm. határozat 1. pontjával megállapított, az 1135/2026. (V. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^4]: A 8. pontot az 1206/2026. (VI. 24.) Korm. határozat 1. pontja iktatta be.
+[^5]: A 9. pontot az 1206/2026. (VI. 24.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 1. melléklet az 1610/2023. (XII. 23.) Korm. határozat 1. pontjával megállapított, az 1135/2026. (V. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
