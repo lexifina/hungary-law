@@ -2,11 +2,21 @@
 
 109. § (1) A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény vagy jogszabály alapján személygépkocsit használ.
 
-(2) Az üzemanyagkártya feltöltése havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
+(2) Az üzemanyagkártya feltöltése havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási alapnorma-átalány vehető figyelembe.
+
+(2a) A (2) bekezdés szerinti felhasználható havi összeg kiszámításához
+
+a) a benzin-hibrid, valamint a plug-in hibrid hajtású személygépkocsi esetében a benzinüzemű,
+
+b) a gázolaj-hibrid hajtású személygépkocsi esetében a gázolajüzemű,
+
+c) a teljesen elektromos személygépkocsi esetén a 2000 cm3 hengerűrtartalmú, benzinüzemű
+
+személygépkocsira vonatkozó üzemanyag-fogyasztási alapnorma-átalányt kell figyelembe venni.
 
 (3) A (2) bekezdésben meghatározott összeg havonta – ha a képviselőnek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhelye
 
-a) Budapesten van – 2500 km-re,
+a) Budapesten van – 0 km-re,
 
 b) Budapesttől 1 és 100 km között van – 4000 km-re,
 
@@ -36,9 +46,19 @@ emelkedik.
 
 (5) A (3) bekezdés szerinti besorolásnál a Budapest és a számítás alapjául szolgáló település közötti – autópálya, illetve autóút, ennek hiányában egyéb főközlekedési útvonal igénybevételével számított – legrövidebb közúti távolságot kell figyelembe venni.
 
-(6) Az üzemanyagkártya felhasználható a közutak használatáért fizetendő használati díj, útdíj, valamint az üzemanyagtöltő állomáson az autó karbantartását biztosító szolgáltatás ellenértékének kiegyenlítésére is.
+(6) Az üzemanyagkártya a kibocsátója szerinti üzemanyagtöltő-állomáson üzemanyag-, illetve áramtöltésen túl felhasználható a közutak használatáért fizetendő útdíj, valamint az autó karbantartását biztosító szolgáltatás ellenértékének kiegyenlítésére is.
 
-(7) A képviselő az üzemanyagkártyával felhasználható összeg (keret) erejéig jogosult a teljesen elektromos meghajtású gépjármű töltésére fordított, valamint a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy – számlával igazolt – költségeinek megtérítésére is. Ha a képviselő az üzemanyagkártyára való jogosultságáról lemond, az e bekezdés szerinti költségtérítés összege nem haladhatja meg az (1)–(5) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
+(6a) A Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel nem rendelkező képviselő a (2)–(4) bekezdés figyelembevételével megállapított havi összeg erejéig számla ellenében
+
+a) abban az esetben is jogosult az áramtöltés költségének megtérítésére, ha teljesen elektromos meghajtású gépjárművének töltését nem az üzemanyagkártya kibocsátója szerinti üzemanyagtöltő-állomáson végzi,
+
+b) a (6) bekezdésben foglaltakon túl jogosult a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy költségeinek megtérítésére is.
+
+(7) Ha az üzemanyagkártya használatára jogosult, Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel nem rendelkező képviselő az üzemanyagkártyát nem veszi igénybe, a (6a) bekezdés b) pontja szerinti közösségi közlekedésre felhasználható havi összeg megállapításához a (3) és a (4) bekezdésben foglaltakat, valamint a (2a) bekezdés c) pontja szerinti alapnorma-átalányt kell figyelembe venni. A felhasznált összeg képviselő részére történő megtérítése számla ellenében történik.
+
+(7a) A (3) bekezdés a) pontjától eltérően a Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel rendelkező nemzetiségi képviselő és nemzetiségi szószóló havonta 2500 km-re elegendő üzemanyag ellenértékének megfelelő összeg felhasználására jogosult, és ennek terhére igénybe veheti a (6a) bekezdés szerinti költségek megtérítését is.
+
+(7b) A (7) bekezdésben foglaltakat a Budapesten a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhellyel rendelkező nemzetiségi képviselőre és nemzetiségi szószólóra is alkalmazni kell.
 
 (8) Az alelnök és – a 113. § (1) és (1a) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
 
