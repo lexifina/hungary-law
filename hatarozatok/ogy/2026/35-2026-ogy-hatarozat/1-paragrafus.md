@@ -1,3 +1,3 @@
-1. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat (a továbbiakban: HHSZ) 60. § (5) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(5) Sürgős tárgyalás elrendelésére félévente legfeljebb tizenöt alkalommal kerülhet sor.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

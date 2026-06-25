@@ -1,3 +1,3 @@
-2. § A HHSZ 61. § (5) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(5) Kivételes eljárás elrendelésére félévente legfeljebb tíz alkalommal kerülhet sor.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
