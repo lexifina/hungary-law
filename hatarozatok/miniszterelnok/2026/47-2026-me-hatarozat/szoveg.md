@@ -10,4 +10,6 @@ a) Czunyiné dr. Bertalan Juditot, a Terület- és Településfejlesztési Opera
 
 b) Dr. Szabó Mátyást, a VTM vidék- és területfejlesztési államtitkárát a Terület- és Településfejlesztési Operatív Program Plusz monitoring bizottsága elnökévé – 2026. június 25-i hatállyal – kinevezem.
 
-3. A Terület- és Településfejlesztési Operatív Program monitoring bizottsága, valamint a Terület- és Településfejlesztési Operatív Program Plusz monitoring bizottsága elnökének felmentéséről, továbbá e monitoring bizottságok elnökének kinevezéséről szóló 25/2025. (IV. 7.) ME határozatot visszavonom.
+3.[^2]
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
