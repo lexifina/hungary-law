@@ -8,6 +8,7 @@ földrajzi terület szerinti bontásban szolgáltasson adatot.
 
 (2) Ha az (1) bekezdés alapján szolgáltatott adat módosul, azt az adatszolgáltató a változás bekövetkeztétől számított harminc napon belül bejelenti a Hivatalnak.
 
-(3) Az (1) bekezdés a) és b) pontja szerinti adatokat a Hivatal az adatszolgáltatási, illetve a változás-bejelentési kötelezettség teljesítésétől számított nyolc napon belül nyilvántartásba veszi, és erről értesíti az adatszolgáltatót.
+(3)[^8] Az (1) bekezdés a) és b) pontja szerinti adatokat a Hivatal az adatszolgáltatási, illetve a változás-bejelentési kötelezettség teljesítését követően nyilvántartásba veszi, és erről értesíti az adatszolgáltatót.
 
 [^7]: A 8. § (1) bekezdés b) pontja a 4/2023. (IX. 14.) NMHH rendelet 4. § 2. pontja szerint módosított szöveg.
+[^8]: A 8. § (3) bekezdése a 8/2026. (V. 26.) NMHH rendelet 4. §-a szerint módosított szöveg.

@@ -1,20 +1,13 @@
-9. § (1)[^8] Az adatszolgáltató a meglévő – illetve a változás-bejelentéssel aktualizált meglévő – vezetékes és vezeték nélküli elektronikus hírközlő hálózatára vonatkozó részletes adatokat a Hatóság honlapján közzétett, az egységes hírközlési objektummodell aktuális követelményeinek megfelelő tartalommal és szerkezetben, az 1. mellékletben meghatározott adatszolgáltatási időszak alatt megküldi a Hivatalnak elektronikus úton, a Hatóság elektronikus ügyintézési felületén keresztül.
+9. §[^9] (1) Az adatszolgáltató a (2) és (3) bekezdés szerinti módon megküldi a meglévő vezetékes és vezeték nélküli elektronikus hírközlő hálózatára vonatkozó adatokat a Hatóság honlapján közzétett, az egységes hírközlési objektummodell aktuális követelményeinek megfelelő tartalommal és szerkezetben.
 
-(1a)[^9] A Hatóság az 1. mellékletben foglalt táblázat A oszlopa szerinti adatszolgáltatási időszak meghatározásáról és a honlapján való közzétételéről az adatszolgáltatási időszak adott évét megelőző év szeptember 30. napjáig gondoskodik.
+(2) Az (1) bekezdés szerinti adatokat az adatszolgáltató az 1. mellékletben foglalt táblázat szerinti négyéves adatszolgáltatási időszak ütemezésének megfelelően küldi meg a Hatóság elektronikus ügyintézési felületén keresztül. Az adatszolgáltató az 1. mellékletben foglalt táblázat A oszlopában meghatározott adatszolgáltatási évben legalább az 1. mellékletben foglalt táblázat B oszlopában – az adott év tekintetében – meghatározott adatokat nyújtja be.
 
-(2) Az (1) bekezdés szerint szolgáltatott adatokat a Hivatal a közléstől számított nyolc napon belül nyilvántartásba veszi, és erről értesíti az adatszolgáltatót.
+(3) A tárgyévi adatszolgáltatási időszakban későbbi adatszolgáltatási évre meghatározott adatok is benyújthatók, ezen adatokat a későbbi adatszolgáltatási évben nem kell ismételten megküldeni.
 
-(3)[^10] Az adatszolgáltató az 1. mellékletben foglalt táblázat A oszlopa szerinti adatszolgáltatási időszak alatt a 8. § alapján szolgáltatandó adatok közül az adott naptári évre (a továbbiakban: tárgyév) vonatkozó – százalékos arányban kifejezett –, kötelezően elérendő adatszolgáltatási szintet
+(4) A Hatóság az 1. mellékletben foglalt táblázat A oszlopa szerinti adatszolgáltatási időszak kezdetét és végét az adatszolgáltatási időszak kezdete előtt 120 nappal közzéteszi a honlapján.
 
-a) az 1. mellékletben foglalt táblázat B oszlopa alapján, a 8. § (1) bekezdés a) pontja szerinti adatok tekintetében, valamint
+(5) A Hatóság hatósági szerződésben területi alapú adatszolgáltatási ütemezésben is megállapodhat az adatszolgáltatóval, ha az adatszolgáltató elektronikus hírközlési hálózati nyilvántartásainak sajátosságai ezt indokolják.
 
-b) az 1. mellékletben foglalt táblázat C oszlopa alapján, a 8. § (1) bekezdés b) pontja szerinti adatok vonatkozásában
+(6) Az adatszolgáltatás során benyújtott adatokat a Hivatal nyilvántartásba veszi, és erről értesíti az adatszolgáltatót.
 
-külön teljesíti.
-
-(4)[^11] Az adatszolgáltatási szint teljesítését a Hivatal évente hatósági ellenőrzés keretében vizsgálja a (3) bekezdés szerint tárgyév december 31. napjáig megküldött adatmennyiség és a tárgyév december 31. napján aktuális, a 8. § alapján szolgáltatott adatok alapján. A vizsgálat eredményét, a teljesített éves adatszolgáltatási szint mértékét a Hivatal közli az adatszolgáltatóval.
-
-[^8]: A 9. § (1) bekezdése a 4/2023. (IX. 14.) NMHH rendelet 4. § 3. pont a) alpontja szerint módosított szöveg.
-[^9]: A 9. § (1a) bekezdését a 10/2024. (X. 3.) NMHH rendelet 1. §-a iktatta be.
-[^10]: A 9. § (3) bekezdése az 1/2023. (I. 4.) NMHH rendelet 2. §-ával megállapított, nyitó szövegrésze a 4/2023. (IX. 14.) NMHH rendelet 4. § 3. pont a) alpontja szerint módosított szöveg.
-[^11]: A 9. § (4) bekezdése az 1/2023. (I. 4.) NMHH rendelet 5. § a) pontja, a 4/2023. (IX. 14.) NMHH rendelet 4. § 3. pont b) alpontja szerint módosított szöveg.
+[^9]: A 9. § a 8/2026. (V. 26.) NMHH rendelet 1. §-ával megállapított szöveg.

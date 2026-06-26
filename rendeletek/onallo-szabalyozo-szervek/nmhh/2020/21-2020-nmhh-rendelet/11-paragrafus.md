@@ -1,19 +1,7 @@
 ## 10. § Az adatszolgáltatási, illetve változás-bejelentési kötelezettség teljesítése során az adatszolgáltató mellékelten megküldi az adatszolgáltatás, illetve a változás-bejelentés teljességére vonatkozó nyilatkozatát.
 
-## 4. Az adatszolgáltatáshoz kapcsolódó felügyeleti díj visszatérítés
+## 4.[^10]
 
-11. § (1)[^12] Ha az adatszolgáltató az 1. mellékletben foglalt táblázat A oszlopában meghatározott adatszolgáltatási időszak végére az 1. mellékletben foglalt táblázat B oszlopában meghatározott, kötelezően elérendő adatszolgáltatási szintet meghaladóan teljesíti a meglévő – illetve a változás-bejelentéssel aktualizált meglévő – vezetékes elektronikus hírközlő hálózatára vonatkozó részletes adatokat, az adatszolgáltatási időszak tekintetében felügyeleti díj visszatérítésre jogosult. Az adatszolgáltató a felügyeleti díj visszatérítés iránti kérelmét a tárgyévet követő év március 31. napjáig elektronikus úton, a Hatóság elektronikus ügyintézési felületén keresztül nyújthatja be a Hivatalhoz.
+11. §
 
-(2) A felügyeleti díj visszatérítés módját meghatározó számítási képletet a 2. melléklet tartalmazza.
-
-(3)[^13] A felügyeleti díj visszatérítés mértéke éves szinten nem haladhatja meg az adatszolgáltató felügyeleti díj visszatérítési kérelemmel érintett felügyeleti díjának 42 százalékát. A díjvisszatérítés maximális mértékére akkor jogosult az adatszolgáltató, ha a tárgyév december 31. napján az 1. mellékletben foglalt táblázat B oszlopában meghatározott, kötelezően elérendő adatszolgáltatási szintet – a 8. § alapján szolgáltatott adat 20 százalékát, az 1. mellékletben foglalt táblázat B oszlopának 5. sora tekintetében 5 százalékát – elérő mértékben túlteljesíti. Felügyeleti díj visszatérítésre csak az 1. mellékletben meghatározott időszakban szolgáltatott adatokkal összefüggésben kerülhet sor.
-
-(4)[^14] A Hatóság a felügyeleti díj visszatérítést a tárgyévben – az (5) bekezdés szerinti esetben a tárgyévet követő évben – teljesített felügyeleti díj legfeljebb 42 százalékának mértékéig a tárgyévet követő év június 30-ig – az (5) bekezdés szerinti esetben a tárgyévet követő második év június 30-ig – egy összegben fizeti meg az adatszolgáltató részére. Felügyeleti díj visszatérítés csak azon adatszolgáltató részére teljesíthető, amely a tárgyévi – az (5) bekezdés szerinti esetben a tárgyévet követő évi – fizetési kötelezettségének az előírt fizetési határidők betartásával eleget tett.
-
-(5) Az az adatszolgáltató, amely a tárgyévben kezdte meg elektronikus hírközlési szolgáltatás nyújtását, felügyeleti díj visszatérítés iránti kérelmét a tárgyévet követő második év március 31. napjáig nyújthatja be a Hivatalhoz.
-
-(6) Ha a Hivatal az Eht. szerinti általános hatósági felügyeleti eljárása keretében lefolytatott ellenőrzés során megállapítja, hogy az adatszolgáltató az adatszolgáltatási kötelezettségét nem megfelelően teljesítette, és ennek következtében jogosulatlanul élt a felügyeleti díj visszatérítésével, az adatszolgáltató a Hatóság által visszatérített összegnek az érintett időszakra eső jegybanki alapkamat hatszorosával megegyező késedelmi pótlékkal növelt összegét köteles a Hatóság részére megfizetni.
-
-[^12]: A 11. § (1) bekezdése az 1/2023. (I. 4.) NMHH rendelet 5. § b) pont ba) és bb) alpontja, a 4/2023. (IX. 14.) NMHH rendelet 4. § 4. pontja szerint módosított szöveg.
-[^13]: A 11. § (3) bekezdése az 1/2023. (I. 4.) NMHH rendelet 3. §-ával megállapított, a 4/2023. (IX. 14.) NMHH rendelet 4. § 5. pont a) és b) alpontja szerint módosított szöveg.
-[^14]: A 11. § (4) bekezdése a 10/2024. (X. 3.) NMHH rendelet 3. § 3. pontja szerint módosított szöveg.
+[^10]: A 4. alcímet (11. §-t) a 8/2026. (V. 26.) NMHH rendelet 5. § (1) bekezdése hatályon kívül helyezte.
