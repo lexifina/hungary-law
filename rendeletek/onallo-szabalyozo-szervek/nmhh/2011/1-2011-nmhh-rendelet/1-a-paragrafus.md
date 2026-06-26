@@ -1,8 +1,8 @@
-1/A. §[^9] (1) E rendelet alkalmazásában:
+1/A. §[^7] (1) E rendelet alkalmazásában:
 
 1. állomás: valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából üzemeltetett egy darab adó- vagy vevőberendezés, vagy egy darab adó- és vevőberendezés a tartozékokkal (antenna) együtt;
 
-2.[^10] átlagos effektív antennamagasság: a tervezés eredményeként meghatározott és a frekvenciakijelölésben vagy a rádióengedélyben feltüntetett effektív antennamagasságok számtani átlaga;
+2.[^8] átlagos effektív antennamagasság: a tervezés eredményeként meghatározott és a frekvenciakijelölésben vagy a rádióengedélyben feltüntetett effektív antennamagasságok számtani átlaga;
 
 3. átlagos effektív kisugárzott teljesítmény: a tervezés eredményeként meghatározott és a frekvenciakijelölésben vagy a rádióengedélyben feltüntetett, vízszintes síkban megadott effektív kisugárzott teljesítmények számtani átlaga;
 
@@ -26,15 +26,15 @@ c) 960 MHz < F esetén 18 km,
 
 9. frekvenciablokk: csatornák összefüggő tartománya vagy egy adott frekvenciasávon belül elkülönített részsáv;
 
-10.[^11] rendszeres rádióspektrumdíj: a rádióspektrum-használati jogért – beleértve a versenyeztetési eljárás eredményeként megállapított jogosultságon alapuló jogot – fizetendő díjak összefoglaló elnevezése, amelybe beletartozik a rádióspektrum-lekötési díj, a rádióspektrum-használati díj és a sávdíj;
+10.[^9] rendszeres rádióspektrumdíj: a rádióspektrum-használati jogért – beleértve a versenyeztetési eljárás eredményeként megállapított jogosultságon alapuló jogot – fizetendő díjak összefoglaló elnevezése, amelybe beletartozik a rádióspektrum-lekötési díj, a rádióspektrum-használati díj és a sávdíj;
 
-11.[^12] rádióspektrum-használat: rádióengedélyben meghatározott frekvencia vagy frekvenciablokk igénybevétele hálózat vagy állomás üzemben tartása céljából;
+11.[^10] rádióspektrum-használat: rádióengedélyben meghatározott frekvencia vagy frekvenciablokk igénybevétele hálózat vagy állomás üzemben tartása céljából;
 
-12.[^13] rádióspektrum-használati díj: frekvencia vagy frekvenciablokk használatáért megállapított – meghatározott gyakorisággal, ismétlődően fizetendő – díj;
+12.[^11] rádióspektrum-használati díj: frekvencia vagy frekvenciablokk használatáért megállapított – meghatározott gyakorisággal, ismétlődően fizetendő – díj;
 
-13.[^14] rádióspektrum-lekötés: frekvenciakijelöléssel frekvencia vagy frekvenciablokk biztosítása hálózat vagy állomás telepítése céljából;
+13.[^12] rádióspektrum-lekötés: frekvenciakijelöléssel frekvencia vagy frekvenciablokk biztosítása hálózat vagy állomás telepítése céljából;
 
-14.[^15] rádióspektrum-lekötési díj: a rádióspektrum-lekötésért megállapított díj;
+14.[^13] rádióspektrum-lekötési díj: a rádióspektrum-lekötésért megállapított díj;
 
 15. HUB űrtávközlési állomás: a műholdas állandóhelyű szolgálatban működő földi állomás, amely a VSAT állomásokból kiépült űrtávközlő hálózat információvezérlő állomásaként működik;
 
@@ -62,19 +62,19 @@ b) back-to-back: rádiójelek vételére és eltérő irányú továbbsugárzás
 
 25. telepítési jellemzők: a földrajzi koordináta, a telephely tengerszint feletti magassága és az antenna súlypontjának földfelszín feletti magassága;
 
-26.[^16] területre szóló frekvenciakijelölés: a hatóság által kiadott frekvenciakijelölés, amely telepítési jellemzők nélkül meghatározza egy állomás vagy hálózat frekvenciáit vagy frekvenciablokkját, rögzítve a rádióspektrum használatának feltételeit egy adott földrajzi területre;
+26.[^14] területre szóló frekvenciakijelölés: a hatóság által kiadott frekvenciakijelölés, amely telepítési jellemzők nélkül meghatározza egy állomás vagy hálózat frekvenciáit vagy frekvenciablokkját, rögzítve a rádióspektrum használatának feltételeit egy adott földrajzi területre;
 
-27.[^17] új generációs mobilrádiótelefon-hálózat: olyan mobilrádiótelefon-hálózat, amely többféle felhasználói eset rugalmas kezelésére alkalmas, a rendelkezésre álló sávszélességtől, az alkalmazott hálózati architektúrától és a paraméterek megválasztásától függően lehetővé teheti – többek között – 20 Gbit/s letöltési és 10 Gbit/s feltöltési irányú adatsebesség elérését, 1 ms késleltetésű, nagy megbízhatóságú összeköttetések megvalósítását vagy gépek közötti kommunikáción alapuló alkalmazások esetén négyzetkilométerenként 1 millió eszköz egyidejű csatlakozását.
+27.[^15] új generációs mobilrádiótelefon-hálózat: olyan mobilrádiótelefon-hálózat, amely többféle felhasználói eset rugalmas kezelésére alkalmas, a rendelkezésre álló sávszélességtől, az alkalmazott hálózati architektúrától és a paraméterek megválasztásától függően lehetővé teheti – többek között – 20 Gbit/s letöltési és 10 Gbit/s feltöltési irányú adatsebesség elérését, 1 ms késleltetésű, nagy megbízhatóságú összeköttetések megvalósítását vagy gépek közötti kommunikáción alapuló alkalmazások esetén négyzetkilométerenként 1 millió eszköz egyidejű csatlakozását.
 
-(2)[^18] Az e rendeletben alkalmazott egyéb rádióspektrum-gazdálkodási fogalmakat az elektronikus hírközlésről szóló törvény, a polgári frekvenciagazdálkodás egyes hatósági eljárásairól szóló NMHH rendelet és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) szerint kell értelmezni.
+(2)[^16] Az e rendeletben alkalmazott egyéb rádióspektrum-gazdálkodási fogalmakat az elektronikus hírközlésről szóló törvény, a polgári frekvenciagazdálkodás egyes hatósági eljárásairól szóló NMHH rendelet és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) szerint kell értelmezni.
 
-[^9]: Az 1/A. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
-[^10]: Az 1/A. § (1) bekezdés 2. pontja a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.
-[^11]: Az 1/A. § (1) bekezdés 10. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^12]: Az 1/A. § (1) bekezdés 11. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^13]: Az 1/A. § (1) bekezdés 12. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^14]: Az 1/A. § (1) bekezdés 13. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^15]: Az 1/A. § (1) bekezdés 14. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^16]: Az 1/A. § (1) bekezdés 26. pontja a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.
-[^17]: Az 1/A. § (1) bekezdés 27. pontját a 2/2019. (III. 22.) NMHH rendelet 1. §-a iktatta be.
-[^18]: Az 1/A. § (2) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.
+[^7]: Az 1/A. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
+[^8]: Az 1/A. § (1) bekezdés 2. pontja a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.
+[^9]: Az 1/A. § (1) bekezdés 10. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1/A. § (1) bekezdés 11. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^11]: Az 1/A. § (1) bekezdés 12. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1/A. § (1) bekezdés 13. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^13]: Az 1/A. § (1) bekezdés 14. pontja a 12/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1/A. § (1) bekezdés 26. pontja a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.
+[^15]: Az 1/A. § (1) bekezdés 27. pontját a 2/2019. (III. 22.) NMHH rendelet 1. §-a iktatta be.
+[^16]: Az 1/A. § (2) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 13. § 2. pontja szerint módosított szöveg.

@@ -26,21 +26,25 @@
 
 ## 2.2. A 2.1. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^99]
+8. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^104]
 
 ## Műholdas szolgálatok rádióspektrum-használati díjai
 
-1. A 18. §-ban felsorolt földi állomások 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai (Ft/kHz/hó)
+1.[^105] A 18. §-ban felsorolt földi állomások 1 kHz sávszélességre vonatkoztatott rádióspektrum-használati egységdíjai (Ft/kHz/hó)
 
 |  | A | B |
 
 | 1 | Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
 
-| 2 | 960 MHz < F ≤10 GHz | 0,5 |
+| 2 | F ≤ 960 MHz | 1 |
 
-| 3 | 10 GHz < F ≤15,4 GHz | 0,25 |
+| 3 | 960 MHz < F ≤ 10 GHz | 0,5 |
 
-| 4 | F > 15,4 GHz | 0,13 |
+| 4 | 10 GHz < F ≤ 15,4 GHz | 0,25 |
+
+| 5 | 15,4 GHz < F ≤ 31 GHz | 0,13 |
+
+| 6 | F > 31 GHz | 0,06 |
 
 2. A 18. §-ban felsorolt földi állomások rádióspektrum-használati díjának megállapítási módja
 
@@ -48,4 +52,5 @@
 
 2.2. a 2.1. pont alatti rádióspektrum-használati egységdíjat az állomásra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-[^99]: A 8. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § e) pontjával megállapított szöveg.
+[^104]: A 8. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § e) pontjával megállapított szöveg.
+[^105]: A 8. számú melléklet 1. pontja a 7/2026. (V. 26.) NMHH rendelet 9. § (1) bekezdésével megállapított szöveg.

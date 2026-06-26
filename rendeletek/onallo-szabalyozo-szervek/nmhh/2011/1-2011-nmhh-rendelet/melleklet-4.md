@@ -1,4 +1,4 @@
-4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^95]
+4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^100]
 
 ## Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok rádióspektrum-használati díjai
 
@@ -218,4 +218,4 @@
 
 10.6. A helyhez kötött és az állandóhelyű állomások átlagos effektív antennamagasságának kiszámításánál az effektív antennamagasság legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.
 
-[^95]: A 4. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § d) pontjával megállapított szöveg.
+[^100]: A 4. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § d) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-2. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^93]
+2. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^98]
 
 ## Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai rádióspektrum-használati díjai
 
@@ -132,4 +132,4 @@
 
 7.2. Középhullámú (KH) és rövidhullámú (RH) rádió-műsorszóró állomások esetében az engedélyezett maximális adóteljesítménynek (Pa) megfelelő rádióspektrum-használati díjat (Ft/állomás/hó) kell kiválasztani az 5. és a 6. pontban foglalt táblázatok közül.
 
-[^93]: A 2. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § b) pontjával megállapított szöveg.
+[^98]: A 2. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § b) pontjával megállapított szöveg.

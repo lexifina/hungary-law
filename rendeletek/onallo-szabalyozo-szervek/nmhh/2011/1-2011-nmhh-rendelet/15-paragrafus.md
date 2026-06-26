@@ -1,16 +1,16 @@
-## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak rádióspektrumdíja[^49]
+## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak rádióspektrumdíja[^50]
 
-15. §[^50] (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
+15. §[^51] (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
 
 (2) A pont-pont rendszerű hálózatok esetében a jogosított által fizetendő rádióspektrum-lekötési díj állomásonként a 3. számú melléklet 2. pontjában foglalt táblázat alapján megállapított díj 50%-a.
 
-(3) A pont-többpont rendszerű hálózatok rádióspektrum-használati díját csillagponti állomásonként és frekvenciánként a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint kell fizetni.
+(3)[^52] A pont-többpont rendszerű hálózatok rádióspektrum-használati díját csillagponti állomásonként és frekvenciánként a 4. számú melléklet 3–8. pontjában foglalt táblázatok szerint kell fizetni.
 
 (4) A jogosított a hálózat állomásai és berendezései után – azok kategóriájától függően – az 5. számú melléklet 1. pontjában foglalt táblázat szerinti rádióspektrum-használati díjat fizeti.
 
-(5) A jogosított rádióspektrum-használati díjként a 4. számú melléklet 3–9. pontjában foglalt táblázatok és az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított rádióspektrumdíjak összegét fizeti.
+(5)[^53] A jogosított rádióspektrum-használati díjként a 4. számú melléklet 3–8. pontjában foglalt táblázatok és az 5. számú melléklet 1. pontjában foglalt táblázat alapján megállapított rádióspektrumdíjak összegét fizeti.
 
-(6) Pont-pont rendszerű hálózat esetében az állandóhelyű állomások után fizetendő rádióspektrum-használati díj állomásonként a 4. számú melléklet 3–9. pontjában foglalt táblázatok alapján megállapított díj 50%-a.
+(6)[^54] Pont-pont rendszerű hálózat esetében az állandóhelyű állomások után fizetendő rádióspektrum-használati díj állomásonként a 4. számú melléklet 3–8. pontjában foglalt táblázatok alapján megállapított díj 50%-a.
 
 (7) Pont-többpont rendszer esetében minden Budapest környezetébe eső
 
@@ -22,7 +22,11 @@ b) nem csillagponti állomás után a (4) bekezdés
 
 (8) Pont-pont rendszer esetében – ha az összeköttetés legalább egyik pontja Budapest környezetében van – az összeköttetés mindkét pontján lévő állomásra a (2), (4) és (6) bekezdés szerinti díj kétszeresét kell fizetni.
 
-(9) Pont-többpont rendszerű hálózatban megosztott rádióspektrum-használat esetében a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint megállapított díj 50%-a a rádióspektrum-használati díj.
+(9)[^55] Pont-többpont rendszerű hálózatban megosztott rádióspektrum-használat esetében a 4. számú melléklet 3–8. pontjában foglalt táblázatok szerint megállapított díj 50%-a a rádióspektrum-használati díj.
 
-[^49]: A 15. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
-[^50]: A 15. § a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^50]: A 15. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^51]: A 15. § a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^52]: A 15. § (3) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § d) pont da) alpontja szerint módosított szöveg.
+[^53]: A 15. § (5) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § d) pont db) alpontja szerint módosított szöveg.
+[^54]: A 15. § (6) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § d) pont dc) alpontja szerint módosított szöveg.
+[^55]: A 15. § (9) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § d) pont dd) alpontja szerint módosított szöveg.

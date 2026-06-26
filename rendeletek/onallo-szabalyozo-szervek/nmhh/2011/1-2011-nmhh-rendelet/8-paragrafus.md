@@ -1,10 +1,10 @@
 ## A mozgószolgálatok rádióspektrumdíja
 
-## Területre szóló, telephely nélküli frekvenciakijelölésű, saját igény kielégítésére szolgáló földi, belvízi és légi mozgószolgálati hálózatok, állomások rádióspektrumdíja[^37]
+## Területre szóló, telephely nélküli frekvenciakijelölésű, saját igény kielégítésére szolgáló földi, belvízi és légi mozgószolgálati hálózatok, állomások rádióspektrumdíja[^36]
 
-8. §[^38] (1) A területre szóló, telephely nélküli frekvenciakijelölésű földi, belvízi és légi mozgószolgálati hálózatok rádióspektrum-lekötési díját – a kizárólag mozgóállomásokat tartalmazó hálózatokat kivéve – a 3. számú melléklet 1. pontjában foglalt táblázat alapján kell megállapítani.
+8. §[^37] (1) A területre szóló, telephely nélküli frekvenciakijelölésű földi, belvízi és légi mozgószolgálati hálózatok rádióspektrum-lekötési díját – a kizárólag mozgóállomásokat tartalmazó hálózatokat kivéve – a 3. számú melléklet 1. pontjában foglalt táblázat alapján kell megállapítani.
 
-(2) A helyhez kötött állomást tartalmazó hálózatok számára engedélyezett frekvenciák vagy frekvenciablokk rádióspektrum-használati díját a 4. számú melléklet 1. pontjában foglalt táblázat alapján kell megállapítani.
+(2)[^38] A területre szóló, helyhez kötött állomást tartalmazó hálózatok számára engedélyezett frekvenciák vagy frekvenciablokk rádióspektrum-használati díját a 4. számú melléklet 1. pontjában foglalt táblázat alapján kell megállapítani.
 
 (3) A hálózat állomásai és berendezései után – azok kategóriájától függően – a 4. számú melléklet 2. pontjában foglalt táblázat szerint kell a rádióspektrum-használati díjat megállapítani.
 
@@ -14,5 +14,6 @@
 
 (6) Ha az eljáró hatóság engedélye olyan területre vonatkozik, amely 4000 km2-nél kisebb, és részben vagy egészben Budapest környezetében van, – a kizárólag mozgóállomásokat tartalmazó hálózatok kivételével – a rádióspektrum-lekötés és -használat díjának mértéke a 3. számú melléklet 1. pontjában foglalt táblázat, illetve a 4. számú melléklet 1. és 2. pontjában foglalt táblázatok alapján megállapított díj kétszerese.
 
-[^37]: A 8. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
-[^38]: A 8. § a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^36]: A 8. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^37]: A 8. § a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^38]: A 8. § (2) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § b) pontja szerint módosított szöveg.
