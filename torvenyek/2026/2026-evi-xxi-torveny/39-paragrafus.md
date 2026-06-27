@@ -1,1 +1,1 @@
-39. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény „A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok” alcím címe helyébe a következő rendelkezés lép:
+### 39. §
