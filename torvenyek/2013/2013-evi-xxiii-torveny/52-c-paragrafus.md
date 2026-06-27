@@ -1,1 +1,1 @@
-52/C. § A 9. § (3) bekezdés b) pontjától eltérően a Szövetség az 52/A. § szerint felszabadított készleteinek visszapótlását, az ellátásbiztonság érdekében haladéktalanul megkezdi, készleteit folyamatosan visszapótolja.
+### 52/C. §

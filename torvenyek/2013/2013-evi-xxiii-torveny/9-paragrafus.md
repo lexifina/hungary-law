@@ -6,7 +6,7 @@
 
 a) a felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését, mennyiségét, valamint értékesítési- és – összhangban az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezéseivel – kereskedelmi árát,
 
-b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét.
+b) a felhasznált készletek visszapótlásának határidejét, termékek szerinti összetételét, eljárási rendjét,
 
 c) a kritikus szervezetek ellenálló képességéről szóló törvény, továbbá a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti alapvető szolgáltatásokat és a hozzájuk tartozó felhasználásra engedélyezett kőolaj, kőolajtermék megnevezését és mennyiségét, ha az ellátás zavara, az ellátási válsághelyzet, az ellátási nehézség hatással lehet kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet működésére.
 
@@ -20,7 +20,11 @@ c) az ország működését biztosító felhasználók részére a felszabadíto
 
 d) fogyasztást korlátozó intézkedéseket rendelhet el,
 
-e) a kőolajfinomítóval rendelkező gazdálkodó szervezetek részére előírhatja a felhasználásra felszabadított készlet bérfeldolgozásának legkisebb hozamát és ütemezését.
+e) a kőolajfinomítóval rendelkező gazdálkodó szervezetek részére előírhatja a felhasználásra felszabadított készlet bérfeldolgozásának legkisebb hozamát és ütemezését,
+
+f) meghatározhatja a felszabadított, de a Szövetség tulajdonában maradt készletek újraelosztását, annak eljárási szabályait,
+
+g) meghatározhatja a visszapótlás során alkalmazható legmagasabb árat.
 
 (5) A (2) bekezdés alapján felhasználásra engedélyezett készleteket – a rendeletben előírt módon és feltételek szerint – a Szövetség értékesíti.
 
