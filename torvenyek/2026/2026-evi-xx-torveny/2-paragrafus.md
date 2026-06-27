@@ -1,5 +1,1 @@
-2. § A közúti közlekedésről szóló 1988. évi I. törvény 46/G. §-a helyébe a következő rendelkezés lép:
-
-„46/G. § (1) E törvénynek a gyűlöletkeltésre alkalmas politikai reklámok visszaszorításáról, a gazdasági reklámok településképi illeszkedésének biztosításáról, valamint egyes beruházási szabályok módosításáról szóló 2026. évi XX. törvénnyel megállapított 12. § (3b) és (3e) bekezdése szerinti tilalommal érintett reklámtáblát, reklámhordozót, egyéb reklámcélú berendezést és tájékozódást segítő jelzést megjelenítő reklámcélú eszközt 2026. december 31-ig el kell távolítani.
-
-(2) A 12. § (3a), (3b) és (3e) bekezdése szerinti tilalommal, továbbá az (1) bekezdés szerinti kötelezettséggel összefüggésben az államot, a helyi önkormányzatot, illetve a közút kezelőjét kártalanítási kötelezettség nem terheli.”
+### 2. §
