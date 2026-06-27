@@ -1,1 +1,3 @@
-### 23. §
+23. § (1) A biztonsági kőolajtermék készletek veszélyhelyzeti felhasználásáról szóló 52/2026. (III. 9.) Korm. rendelet szerint felszabadított motorbenzin és motorikus gázolaj készletből származó üzemanyag felhasználására és a felszabadításhoz kapcsolódó eljárásokra a felszabadítás és az eljárások megkezdésekor hatályos jogszabályokat kell alkalmazni.
+
+(2) A biztonsági kőolajtermék készletek felhasználásáról szóló 1/2026. (V. 14.) GEM rendelet (a továbbiakban: GEM rendelet) szerint felszabadított motorbenzin és motorikus gázolaj készletből származó üzemanyagra az e törvény a GEM rendelet hatálybalépésekor hatályos rendelkezéseit kell alkalmazni.
