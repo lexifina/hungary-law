@@ -1,3 +1,3 @@
-9. § (1) Az R. 8. számú melléklete az 1. melléklet szerint módosul.
+9. §[^9]
 
-(2) Az R. 9. számú melléklete a 2. melléklet szerint módosul.
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
