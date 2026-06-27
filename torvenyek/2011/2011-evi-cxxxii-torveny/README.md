@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2025-06-22 | 2025. évi LI. törvény | 2011-132-00-00.44 |
 | 2025-12-23 | 2025. évi CXXI. törvény | 2011-132-00-00.45 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2011-132-00-00.46 |
+| 2026-06-27 | 2026. évi XX. törvény | 2011-132-00-00.47 |
