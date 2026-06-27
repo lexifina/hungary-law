@@ -14,12 +14,13 @@ f) a földminősítési mintatér helyének EOV koordinátái;
 
 g) annak megjelölése, ha megszüntetésre került az adott földminősítési mintatér; és
 
-h) a g) pontban megjelölt esetben az új földminősítési mintatér kijelölésének helyéül szolgáló földrészlet a) pont szerinti adatai.
+h)[^4] a g) pontban megjelölt esetben az új földminősítési mintatér kijelölésének helyéül szolgáló földrészlet a) és f) pont szerinti adatai.
 
 (2) A mintatérjegyzék az (1) bekezdésben foglaltakon túl tartalmaz jegyzet rovatot is, melyben az (1) bekezdésben fel nem sorolt, de a földminősítési mintatér szempontjából fontos információ rögzíthető.
 
 (3) A mintatérjegyzék elektronikusan is vezethető azzal, hogy az (1) és (2) bekezdésben felsorolt adatok változásainak a mintatérjegyzékben nyomon követhetőnek kell lennie.
 
-(4)[^4]
+(4)[^5]
 
-[^4]: A 10. § (4) bekezdését a 63/2020. (XII. 16.) AM rendelet 12. §-a hatályon kívül helyezte.
+[^4]: A 10. § (1) bekezdés h) pontja a 3/2026. (VI. 26.) AÉM rendelet 4. § b) pontja szerint módosított szöveg.
+[^5]: A 10. § (4) bekezdését a 63/2020. (XII. 16.) AM rendelet 12. §-a hatályon kívül helyezte.

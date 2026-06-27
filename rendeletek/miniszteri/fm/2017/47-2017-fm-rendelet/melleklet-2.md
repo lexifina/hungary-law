@@ -420,7 +420,7 @@
 
 | 211 | Zirci | második |
 
-2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^19]
+2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^21]
 
 A települések becslőjárások, illetve osztályozási vidékek szerinti besorolása
 
@@ -3618,4 +3618,272 @@ A települések becslőjárások, illetve osztályozási vidékek szerinti besor
 
 | 77. | Vértestolna | 182 |
 
-[^19]: A 2. melléklet a 6/2024. (II. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+12. Nógrád vármegye
+
+|  | A | B |
+
+| 1. | Település | Becslőjárás |
+
+| 2. | Alsópetény | 007 |
+
+| 3. | Alsótold | 171 |
+
+| 4. | Balassagyarmat | 008 |
+
+| 5. | Bánk | 006 |
+
+| 6. | Bárna | 040 |
+
+| 7. | Bátonyterenye | 039 |
+
+| 8. | Becske | 171 |
+
+| 9. | Bercel | 170 |
+
+| 10. | Berkenye | 006 |
+
+| 11. | Bér | 170 |
+
+| 12. | Bokor | 171 |
+
+| 13. | Borsosberény | 006 |
+
+| 14. | Buják | 170 |
+
+| 15. | Cered | 040 |
+
+| 16. | Cserháthaláp | 007 |
+
+| 17. | Cserhátsurány | 007 |
+
+| 18. | Cserhátszentiván | 171 |
+
+| 19. | Csesztve | 008 |
+
+| 20. | Csécse | 170 |
+
+| 21. | Csitár | 007 |
+
+| 22. | Debercsény | 007 |
+
+| 23. | Dejtár | 006 |
+
+| 24. | Diósjenő | 006 |
+
+| 25. | Dorogháza | 129 |
+
+| 26. | Drégelypalánk | 006 |
+
+| 27. | Ecseg | 170 |
+
+| 28. | Egyházasdengeleg | 169 |
+
+| 29. | Egyházasgerge | 039 |
+
+| 30. | Endrefalva | 038 |
+
+| 31. | Erdőkürt | 170 |
+
+| 32. | Erdőtarcsa | 169 |
+
+| 33. | Etes | 039 |
+
+| 34. | Érsekvadkert | 006 |
+
+| 35. | Felsőpetény | 007 |
+
+| 36. | Felsőtold | 171 |
+
+| 37. | Galgaguta | 170 |
+
+| 38. | Garáb | 171 |
+
+| 39. | Herencsény | 007 |
+
+| 40. | Héhalom | 169 |
+
+| 41. | Hollókő | 039 |
+
+| 42. | Hont | 006 |
+
+| 43. | Horpács | 006 |
+
+| 44. | Hugyag | 007 |
+
+| 45. | Iliny | 007 |
+
+| 46. | Ipolyszög | 008 |
+
+| 47. | Ipolytarnóc | 038 |
+
+| 48. | Ipolyvece | 006 |
+
+| 49. | Jobbágyi | 169 |
+
+| 50. | Karancsalja | 039 |
+
+| 51. | Karancsberény | 039 |
+
+| 52. | Karancskeszi | 039 |
+
+| 53. | Karancslapujtő | 039 |
+
+| 54. | Karancsság | 039 |
+
+| 55. | Kazár | 040 |
+
+| 56. | Kálló | 170 |
+
+| 57. | Keszeg | 007 |
+
+| 58. | Kétbodony | 007 |
+
+| 59. | Kisbágyon | 169 |
+
+| 60. | Kisbárkány | 039 |
+
+| 61. | Kisecset | 007 |
+
+| 62. | Kishartyán | 039 |
+
+| 63. | Kozárd | 171 |
+
+| 64. | Kutasó | 171 |
+
+| 65. | Legénd | 007 |
+
+| 66. | Litke | 038 |
+
+| 67. | Lucfalva | 039 |
+
+| 68. | Ludányhalászi | 038 |
+
+| 69. | Magyargéc | 039 |
+
+| 70. | Magyarnándor | 007 |
+
+| 71. | Márkháza | 039 |
+
+| 72. | Mátramindszent | 128 |
+
+| 73. | Mátranovák | 040 |
+
+| 74. | Mátraszele | 040 |
+
+| 75. | Mátraszőlős | 171 |
+
+| 76. | Mátraterenye | 040 |
+
+| 77. | Mátraverebély | 039 |
+
+| 78. | Mihálygerge | 039 |
+
+| 79. | Mohora | 007 |
+
+| 80. | Nagybárkány | 039 |
+
+| 81. | Nagykeresztúr | 039 |
+
+| 82. | Nagylóc | 039 |
+
+| 83. | Nagyoroszi | 006 |
+
+| 84. | Nemti | 040 |
+
+| 85. | Nézsa | 006 |
+
+| 86. | Nógrád | 006 |
+
+| 87. | Nógrádkövesd | 170 |
+
+| 88. | Nógrádmarcal | 007 |
+
+| 89. | Nógrádmegyer | 039 |
+
+| 90. | Nógrádsáp | 006 |
+
+| 91. | Nógrádsipek | 039 |
+
+| 92. | Nógrádszakál | 038 |
+
+| 93. | Nőtincs | 006 |
+
+| 94. | Őrhalom | 007 |
+
+| 95. | Ősagárd | 007 |
+
+| 96. | Palotás | 169 |
+
+| 97. | Patak | 006 |
+
+| 98. | Patvarc | 008 |
+
+| 99. | Pásztó | 044 |
+
+| 100. | Piliny | 039 |
+
+| 101. | Pusztaberki | 006 |
+
+| 102. | Rákóczibánya | 039 |
+
+| 103. | Rétság | 006 |
+
+| 104. | Rimóc | 039 |
+
+| 105. | Romhány | 006 |
+
+| 106. | Salgótarján | 039 |
+
+| 107. | Ságújfalu | 039 |
+
+| 108. | Sámsonháza | 039 |
+
+| 109. | Somoskőújfalu | 039 |
+
+| 110. | Sóshartyán | 039 |
+
+| 111. | Szalmatercs | 039 |
+
+| 112. | Szanda | 171 |
+
+| 113. | Szarvasgede | 169 |
+
+| 114. | Szátok | 006 |
+
+| 115. | Szendehely | 006 |
+
+| 116. | Szente | 007 |
+
+| 117. | Szécsénke | 007 |
+
+| 118. | Szécsény | 038 |
+
+| 119. | Szécsényfelfalu | 039 |
+
+| 120. | Szilaspogony | 040 |
+
+| 121. | Szirák | 170 |
+
+| 122. | Szuha | 128 |
+
+| 123. | Szurdokpüspöki | 044 |
+
+| 124. | Szügy | 008 |
+
+| 125. | Tar | 044 |
+
+| 126. | Tereske | 006 |
+
+| 127. | Terény | 171 |
+
+| 128. | Tolmács | 006 |
+
+| 129. | Vanyarc | 170 |
+
+| 130. | Varsány | 038 |
+
+| 131. | Vizslás | 040 |
+
+| 132. | Zabar | 040 |
+
+[^21]: A 2. melléklet a 6/2024. (II. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.

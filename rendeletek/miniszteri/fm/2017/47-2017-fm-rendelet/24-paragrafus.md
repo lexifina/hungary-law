@@ -1,3 +1,3 @@
-24. §[^16]
+24. §[^18] Az erdő művelési ágú földrészleteken kijelölt községi és járási mintaterek helyett 2026. december 31. napjáig fásított területeken új községi és járási mintatereket kell kijelölni. A kijelölés során az erdő művelési ágra vonatkozó, adott községi vagy járási mintaterek mintatérleírásait kell alapul venni, és a mintatérleírásokat megfelelően módosítani kell. Amennyiben nincs az adott fásított terület minőségi osztályának megfelelő erdő művelési ágra vonatkozó községi vagy járási mintatér, új mintatérleírást kell készíteni.
 
-[^16]: A 23–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 3/2026. (VI. 26.) AÉM rendelet 2. §-a iktatta be.
