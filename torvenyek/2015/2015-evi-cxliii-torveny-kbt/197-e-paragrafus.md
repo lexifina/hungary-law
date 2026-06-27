@@ -1,4 +1,4 @@
-197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. június 30. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+197/E. § (1) A Beruházási törvénnyel megállapított 197/D. §-t 2026. december 31. napjáig a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Kormányrendeletben meghatározott közbeszerzésre kötelezett szerv árubeszerzés vagy szolgáltatás megrendelése esetén e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos szabályai alapján a közbeszerzési eljárásaiba felelős akkreditált közbeszerzési szaktanácsadót bevonhat. Ezekben az esetekben a felelős akkreditált közbeszerzési szaktanácsadó e törvény Beruházási törvény által módosított rendelkezéseinek hatályba lépését megelőző napon hatályos rendelkezései alapján jár el.
 
