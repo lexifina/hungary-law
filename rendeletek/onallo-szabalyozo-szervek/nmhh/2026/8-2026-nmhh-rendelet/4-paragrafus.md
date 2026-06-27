@@ -1,1 +1,3 @@
-4. § Az R. 8. § (3) bekezdésében a „teljesítésétől számított nyolc napon belül” szövegrész helyébe a „teljesítését követően” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
