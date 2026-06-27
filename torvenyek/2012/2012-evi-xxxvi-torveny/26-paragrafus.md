@@ -1,4 +1,4 @@
-26. § (1) A vizsgálóbizottság tevékenységéről jelentést készít.
+26. § (1) A vizsgálóbizottság a vizsgálat lezárását követően jelentést készít, amely tartalmazza a feltárt tényeket, a levont következtetéseket és a szükségesnek tartott intézkedésekre vonatkozó javaslatokat. A vizsgálóbizottság bármely tagja jogosult különvélemény vagy kisebbségi vélemény csatolására, amely a jelentés elválaszthatatlan részét képezi.
 
 (2) A jelentés tartalmazza
 
