@@ -1,0 +1,1 @@
+8. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 9. § (3) bekezdés b) pontjában az „összetételét.” szövegrész helyébe az „összetételét, eljárási rendjét,” szöveg lép.
