@@ -1,5 +1,1 @@
-7. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § (1) A 9. § (3) bekezdés c) pontja és a 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készletfelszabadítást megelőző naptári évben a havi tagi hozzájárulás nyilatkozataikban összesen bevallott, a 4. mellékletben foglalt táblázat A oszlopában meghatározott kőolajtermék-kategóriák (2) bekezdés szerint korrigált bruttó forgalma arányában az adott kőolajtermék-kategóriában elővásárlási jog illeti meg.
-
-(2) Ha az adóraktári engedéllyel rendelkező tag (1) bekezdés szerinti nyilatkozataiban olyan mennyiség szerepel, amely másik tag tulajdonában állt közvetlenül a szabad forgalomba bocsátást megelőzően, úgy e mennyiséget az (1) bekezdés szerinti arány megállapításakor e másik tag forgalmaként kell figyelembe venni.”
+### 7. §
