@@ -1,3 +1,3 @@
-2. § A 47/2017. (IX. 29.) FM rendelet a következő 24. §-sal egészül ki:
+2. §[^2]
 
-„24. § Az erdő művelési ágú földrészleteken kijelölt községi és járási mintaterek helyett 2026. december 31. napjáig fásított területeken új községi és járási mintatereket kell kijelölni. A kijelölés során az erdő művelési ágra vonatkozó, adott községi vagy járási mintaterek mintatérleírásait kell alapul venni, és a mintatérleírásokat megfelelően módosítani kell. Amennyiben nincs az adott fásított terület minőségi osztályának megfelelő erdő művelési ágra vonatkozó községi vagy járási mintatér, új mintatérleírást kell készíteni.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

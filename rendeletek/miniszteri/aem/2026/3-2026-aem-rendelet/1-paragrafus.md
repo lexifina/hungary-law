@@ -2,6 +2,6 @@
 
 ## [2] A termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 25. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A földminősítés részletes szabályairól szóló 47/2017. (IX. 29.) FM rendelet [a továbbiakban: 47/2017. (IX. 29.) FM rendelet] 20. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3a) A (3) bekezdés b) pontja szerinti igazolványképet az igénylőlap benyújtásával egyidejűleg elektronikus úton is meg kell küldeni a földmérési és térinformatikai államigazgatási szerv részére.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
