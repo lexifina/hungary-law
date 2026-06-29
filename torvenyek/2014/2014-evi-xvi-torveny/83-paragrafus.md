@@ -6,7 +6,7 @@
 
 (3) Az egyesülés értéknapján meg kell állapítani az egyesülésben részt vevő kockázati, illetve magántőkealapok egy befektetési jegyre jutó nettó eszközértékét.
 
-(3a) Az egyesülés napja a kezelési szabályzat ezirányú – a 73. § (3) bekezdése szerinti – módosítása hatálybalépésének napja.
+(3a)
 
 (4) Az egyesülés során a (2) bekezdésben megjelölt tájékoztatóban meg kell jelölni a jogutód kockázati, illetve magántőkealapot. A jogutód kockázati illetve magántőkealap befektetési jegyeket bocsát ki, amelyeket – az érvényes, egy jegyre jutó nettó eszközértékeknek megfelelő átváltási arányban – az egyesülésben részt vevő kockázati, illetve magántőkealap befektetési jegy tulajdonosai szerzik meg.
 

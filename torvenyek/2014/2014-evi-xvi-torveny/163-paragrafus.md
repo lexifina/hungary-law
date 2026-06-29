@@ -1,12 +1,12 @@
 ## 65. A Felügyelet eljárása
 
-163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a kezelési szabályzat jóváhagyásának időtartama 5 munkanap azzal, hogy ha a Felügyelet 30 napon belül nem nyilatkozik, akkor az egyetértést megadottnak kell tekinteni.
+163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
 
 (2) Befektetési alap nyilvántartásba vételére irányuló eljárás esetén a Felügyelet eljárásának időtartama 10 munkanap, befektetési alap nyilvántartásból törlésére irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
 
 (3) Befektetési alapok egyesülése, szétválása kezelésének átadása esetén a Felügyelet az egyesülés, szétválás, kezelésátadás jóváhagyásáról vagy a kérelem elutasításáról 20 munkanapon belül dönt.
 
-(4) Zártkörű befektetési alap alapkezelőjének minősített befolyásszerzése esetén az engedélykérelem benyújtását követően a Felügyelet eljárásának időtartama 10 munkanap.
+(4)
 
 (5) Engedélyezésre irányuló kérelem, illetve megszűnéssel kapcsolatos hatósági eljárás esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
 

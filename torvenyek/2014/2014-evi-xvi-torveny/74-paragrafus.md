@@ -4,13 +4,13 @@
 
 74. § (1) A befektetési alapkezelő az általa kezelt nyilvános befektetési alapok kezelését a Felügyelet előzetes engedélye alapján más, az adott befektetési alap kezelésére engedéllyel rendelkező befektetési alapkezelőre átruházhatja.
 
-(2) Az (1) bekezdéstől eltérően a befektetési alapkezelő a zártkörű befektetési alapok kezelését a Felügyelet előzetes engedélye alapján és a befektetési jegy tulajdonosok 75%-ának jóváhagyó nyilatkozata birtokában átruházhatja.
+(2) Az (1) bekezdéstől eltérően a befektetési alapkezelő a zártkörű befektetési alapok kezelését a Felügyelet előzetes engedélye nélkül a befektetési jegy tulajdonosok 60%-ának jóváhagyó nyilatkozata birtokában átruházhatja.
 
 (3) A befektetési alapkezelő befektetési alapok kezelésével kapcsolatos kötelezettségei átruházására a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni, azzal, hogy a befektetési alap Ptk. 6:203. § (1) bekezdése szerinti jognyilatkozatát
 
 a) az (1) bekezdésben meghatározott esetben a Felügyelet engedélye,
 
-b) a (2) bekezdésben meghatározott esetben a befektetési jegy tulajdonosok 75%-ának jóváhagyó nyilatkozata
+b) a (2) bekezdésben meghatározott esetben a befektetési jegy tulajdonosok 60%-ának jóváhagyó nyilatkozata
 
 pótolja.
 
@@ -22,7 +22,7 @@ b) az (5) bekezdésben foglaltakról, valamint
 
 c) az átvevő befektetési alapkezelő elérhetőségéről és a befektetési jegyek forgalmazásával kapcsolatos információk hozzáférési helyéről.
 
-(4a) Zártkörű befektetési alap kezelésének átadása esetén a (4) bekezdés szerinti tájékoztatási kötelezettségének az átadó befektetési alapkezelő a kezelési szabályzat ez irányú módosításának a 73. § (3) bekezdése szerinti benyújtása napjával tesz eleget, az átruházásról rendelkező szerződés a módosított kezelési szabályzattal egyidejűleg lép hatályba.
+(4a)
 
 (5) Az átruházásról rendelkező szerződés hatálybalépésével az átadó befektetési alapkezelő által kezelt és átruházásra került befektetési alapok kezelése az átvevő befektetési alapkezelőhöz kerül.
 

@@ -32,4 +32,4 @@ f) a harmonizáció alapján ÁÉKBV-ként vagy ABA-ként (harmonizáció típus
 
 (10) A kockázati tőkealapok és a magántőkealapok kivételével a befektetési alapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
 
-(11) A kockázati tőkealapok és a magántőkealapok befektetési alapkezelőjének a minősített befolyást elérő tulajdonosában bekövetkező változáshoz a Felügyelet engedélye szükséges.
+(11)
