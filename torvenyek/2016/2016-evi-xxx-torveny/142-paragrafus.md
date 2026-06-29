@@ -31,3 +31,5 @@ c) az e törvény szerinti eljárás mellőzésével történő beszerzés eset�
 (7) A (3)–(6) bekezdés szerinti határidők elmulasztása jogvesztéssel jár.
 
 (8) A kérelem benyújtása előtt az (1) bekezdés szerinti kérelmező köteles erről – az általa feltételezett jogsértés megjelölésével – a kérelem benyújtásával megegyező módon az ajánlatkérőt, illetve a beszerzőt értesíteni.
+
+(9) A (2) bekezdésben foglaltakon kívül, kérelmet nyújthat be az Integritás Hatóság. Ebben az esetben az Integritás Hatóságra a kérelmezőre vonatkozó szabályokat kell alkalmazni, azzal a különbséggel, hogy az eljárásban a (3)–(4) és (7) bekezdés, a 144–146. §, a 147. § (2) bekezdés b) pontja és (3)–(4) bekezdése nem alkalmazandó. Az Integritás Hatóság a Kbt. 152. § (2) és (2a) bekezdésében meghatározott határidőn belül nyújthat be kérelmet. A jogsértés megtörténtének időpontja tekintetében a (6) bekezdést alkalmazni kell. A 143. § (1) bekezdés c) pontja azzal az eltéréssel alkalmazandó, hogy a jogsértésről való tudomásszerzés időpontját akkor kell megjelölni, ha az a 174. § (5) bekezdése szerint releváns.

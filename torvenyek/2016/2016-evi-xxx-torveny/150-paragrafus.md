@@ -10,6 +10,8 @@ b) megsemmisíti az ajánlatkérő jogellenesen meghozott döntését, ideértve
 
 c) felszólítja a beszerzési eljárás ajánlatkérőjét, hogy az eljárásba a kérelmezőt vonja be.
 
+(2a) Ha a Közbeszerzési Döntőbizottság eljárását az Integritás Hatóság kérelmezi, – az Integritás Hatóság erre vonatkozó indítványa esetén – a Közbeszerzési Döntőbizottság elrendeli a beszerzési eljárás felfüggesztését.
+
 (3) A beszerzési eljárás felfüggesztése a felhívásban előírt és folyamatban lévő határidőket a felfüggesztés időtartamával meghosszabbítja.
 
 (4) Ha halasztást nem tűrő kiemelkedően fontos érdek vagy közérdek, így különösen a honvédelmi vagy nemzetbiztonsági érdek védelme indokolja, a Közbeszerzési Döntőbizottság az ajánlatkérő kérelmére végzéssel engedélyezheti a szerződés megkötését, ha annak előnyei meghaladják a szerződéskötéssel járó hátrányokat. A kérelemben a halasztást nem tűrő kiemelkedően fontos érdeket vagy közérdeket így különösen a honvédelmi vagy nemzetbiztonsági érdeket meg kell jelölni, valamint a kérelem benyújtásával egyidejűleg a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani a kérelem benyújtását megalapozó indok igazolására szolgáló dokumentumokat. A Közbeszerzési Döntőbizottság a kérelemről annak beérkezésétől számított öt napon belül dönt, a végzés ellen jogorvoslatnak nincs helye.

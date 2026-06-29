@@ -8,7 +8,7 @@
 
 3. valamely nemzetközi szervezet sajátos eljárási szabályainak hatálya alá tartozó, a szervezet saját céljai érdekében történő beszerzésre, továbbá arra a beszerzésre, amelyet a szervezet sajátos eljárási szabályaival összhangban Magyarország folytat le,
 
-4. a 61–63. alcím kivételével, az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott,
+4. a 61–63. alcím kivételével, az Európai Unió Működéséről szóló Szerződés (a továbbiakban: EUMSZ) 346. cikke alapján történő azon beszerzésekre, amelyek esetében ezen törvény szabályainak alkalmazása olyan információk átadására kötelezné a tagállamot, amelyek felfedése ellentétes a tagállam biztonságához fűződő alapvető érdekeivel, és amelyek megrendelésére vonatkozó ajánlatkérői döntést az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján jóváhagyott,
 
 5. a hírszerző és elhárító tevékenységek céljából lefolytatott beszerzésekre,
 

@@ -18,7 +18,9 @@ d) a hiányzó védelmi vagy biztonsági beszerzési dokumentumok az ügyfél ny
 
 (3) A Közbeszerzési Döntőbizottság illetékessége az ország egész területére kiterjed.
 
-(4) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését.
+(4) A Közbeszerzési Döntőbizottságot az e törvény hatálya alóli kivételek alkalmazásának jogszerűségére vonatkozó jogorvoslat során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata.
+
+(4a) Az Integritás Hatóságot a jogszabályban meghatározott feladatkörében folytatott, az e törvény hatálya alóli kivételek alkalmazásának jogszerűségére vonatkozó vizsgálata és a jogorvoslati kérelem benyújtása során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata.
 
 (5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
 
