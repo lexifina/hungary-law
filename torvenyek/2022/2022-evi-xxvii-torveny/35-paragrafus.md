@@ -2,6 +2,6 @@
 
 35. § (1) A Hatóság elnökét és elnökhelyetteseit az Állami Számvevőszék elnöke javaslatára a köztársasági elnök hat évre nevezi ki. Az elnök és az elnökhelyettes ismételten nem nevezhető ki.
 
-(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül teszi meg.
+(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül, az Alkalmassági Bizottság által a jelöltek sorrendjére vonatkozó megállapításra figyelemmel, a névsor kézhezvételét követő 5 napon belül teszi meg. Az Alkalmassági Bizottság által megállapított sorrendtől az Állami Számvevőszék elnöke kivételesen, indokolt esetben térhet el, és az eltérés indokait az (1) bekezdés szerinti javaslatban be kell mutatni.
 
 (3) A Hatóság elnöke és elnökhelyettesei tevékenységüket közszolgálati jogviszony keretében látják el, jogviszonyukra az e törvényben foglalt eltérésekkel a Küt. rendelkezéseit kell alkalmazni.

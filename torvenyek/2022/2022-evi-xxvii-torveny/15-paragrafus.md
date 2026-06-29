@@ -25,3 +25,5 @@ d) az ajánlás indokait és kapcsolódását a Hatóság feladatköréhez.
 (3) Ha az e § szerinti ajánlással érintett ajánlatkérő nem a Hatóság által kiadott ajánlás szerint jár el, köteles ez irányú döntését írásban részletesen megindokolni, és az indokolást a Hatóság részére megküldeni.
 
 (4) Az ajánlatkérő – a Hatóság ajánlásával összefüggő – jogsértése esetén a Hatóság a feladat- és hatáskörrel rendelkező szerv vagy bíróság eljárását kezdeményezheti, így különösen közbeszerzési jogsértés esetén a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását. Az alkalmazandó eljárási szabályokkal összhangban, a Hatóság ideiglenes intézkedés meghozását indítványozhatja.
+
+(5) Ha a Közbeszerzési Döntőbizottság az ügyintézési határidőn belül eljárási kötelességének nem tesz eleget, a Hatóság a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezései szerint mulasztási pert indíthat.

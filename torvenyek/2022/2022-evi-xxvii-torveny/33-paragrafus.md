@@ -9,3 +9,5 @@ c) gyakorolja a Küt.-ben vagy más törvényben a hivatali szervezet vezetője 
 d) a Hatóság költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal.
 
 (2) A Hatóság elnöke az (1) bekezdés szerinti hatásköröket önállóan gyakorolja.
+
+(3) A Hatóság elnöke jogviszonyának megszűnése estén az új elnök kinevezéséig a Hatóság elnökének feladat- és hatásköreit a Hatóság Igazgatósága által kijelölt elnökhelyettes gyakorolja. A Hatóság Igazgatósága az elnökhelyettes kijelölésére vonatkozó döntést testületként, az összes tag több mint felének szavazatával hozza meg.

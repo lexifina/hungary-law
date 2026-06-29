@@ -22,8 +22,8 @@ b) a kinevezése feltételei már nem állnak fent.
 
 (5) Az Állami Számvevőszék elnöke a (4) bekezdés szerinti keresetlevelet a Hatóság elnöke, illetve elnökhelyettese részére egyidejűleg megküldi.
 
-(6) A bíróság a (4) bekezdés szerinti perben a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a Hatóság elnöke, illetve elnökhelyettese ellen kell megindítani, és a perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a keresetről harminc napon belül dönt.
+(6) A bíróság a (4) bekezdés szerinti perben a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a Hatóság elnöke, illetve elnökhelyettese ellen kell megindítani, és a perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a keresetről hatvan napon belül dönt.
 
-(7) Ha a bíróság azt állapítja meg, hogy az Állami Számvevőszék elnökének a (4) bekezdés szerinti keresete megalapozott, a bíróság határozatában megszünteti a Hatóság elnöke, illetve elnökhelyettese jogviszonyát. A bíróság ítéletével szemben fellebbezésnek van helye.
+(7) Ha a bíróság azt állapítja meg, hogy az Állami Számvevőszék elnökének a (4) bekezdés szerinti keresete megalapozott, a bíróság határozatában megszünteti a Hatóság elnöke, illetve elnökhelyettese jogviszonyát. A bíróság ítéletével szemben halasztó hatályú fellebbezésnek van helye.
 
 (8)
