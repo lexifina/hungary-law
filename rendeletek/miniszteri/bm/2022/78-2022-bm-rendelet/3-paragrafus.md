@@ -12,7 +12,9 @@ e) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” 
 
 f) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását a metil-3,3-dimetil-2-{[1-(pent-4-én-1-il)–1H-indazol-3-karbonil]amino}butanoát (MDMB-4en-PINACA) és a metil-2-{[1-(4-fluorbutil)–1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát (4F-MDMB-BICA) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2021. március 12-i (EU) 2021/802 felhatalmazáson alapuló bizottsági irányelvnek,
 
-g) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2022. március 18-i (EU) 2022/1326 felhatalmazáson alapuló bizottsági irányelvnek
+g)[^1] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2022. március 18-i (EU) 2022/1326 felhatalmazáson alapuló bizottsági irányelvnek,
+
+h)[^2] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2025. október 14-i (EU) 2025/2062 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -29,3 +31,6 @@ d) a 4-metil-5-(4-metil-fenil)-4,5-dihidrooxazol-2-amin (4,4’-DMAR) és az 1-c
 e) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopropil-fentanil) és a 2-me-toxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid (metoxiacetil-fentanil) új pszichoaktív anyagok ellenőrzési intézkedéseknek való alávetéséről szóló, 2018. szeptember 28-i (EU) 2018/1463 tanácsi végrehajtási határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^1]: A 3. § (1) bekezdés g) pontja az 1/2026. (VI. 19.) EÜM rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés h) pontját az 1/2026. (VI. 19.) EÜM rendelet 1. §-a iktatta be.

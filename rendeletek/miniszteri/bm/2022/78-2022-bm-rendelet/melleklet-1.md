@@ -1,4 +1,4 @@
-1. melléklet a 78/2022. (XII. 28.) BM rendelethez[^5]
+1. melléklet a 78/2022. (XII. 28.) BM rendelethez[^7]
 
 KÁBÍTÓSZEREK JEGYZÉKEI
 
@@ -84,7 +84,7 @@ KÁBÍTÓSZEREK JEGYZÉKEI
 
 | 37 | Crotonylfentanyl (krotonilfentanil) |  | (E)-N-(1-phenethylpiperidin-4-yl)-N-phenylbut-2-enamide | C23H28N2O | VDYXGPCGBKLRDA-XNWCZRBMSA-N |
 
-| 38 | Cyclopropylfentanyl (ciklopropilfentanil)[^6] |  | N-phenyl-N-[1-(2-phenylethyl)piperidin-4- yl]cyclopropanecarboxamide | C23H28N2O | OIQSKDSKROTEMN-UHFFFAOYSA-N |
+| 38 | Cyclopropylfentanyl (ciklopropilfentanil)[^8] |  | N-phenyl-N-[1-(2-phenylethyl)piperidin-4- yl]cyclopropanecarboxamide | C23H28N2O | OIQSKDSKROTEMN-UHFFFAOYSA-N |
 
 | 39 | Desomorphine* (dezomorfin) |  | dihydrodeoxymorphine | C17H21NO2 | LNNWVNGFPYWNQE-GMIGKAJZSA-N |
 
@@ -350,5 +350,5 @@ amennyiben ezen készítmények egy vagy több komponenst tartalmaznak és a ká
 
 3.9. A jelen jegyzékben szereplő bármelyik előirattal megegyező gyógyszerek és ezek keverékei bármely olyan anyaggal, amely nem tartalmaz kábítószert.
 
-[^5]: Az 1. melléklet a 31/2023. (VIII. 22.) BM rendelet 2. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 31/2023. (VIII. 22.) BM rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § a) pontja szerint módosított szöveg.

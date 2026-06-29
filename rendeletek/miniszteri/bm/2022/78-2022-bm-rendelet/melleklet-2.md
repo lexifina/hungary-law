@@ -1,4 +1,4 @@
-2. melléklet a 78/2022. (XII. 28.) BM rendelethez[^7]
+2. melléklet a 78/2022. (XII. 28.) BM rendelethez[^9]
 
 PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
@@ -20,11 +20,11 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 5 | 2-aminoindane*** (2-aminoindán) |  | 2,3-dihydro-1H-inden-2-amine | C9H11N | LMHHFZAXSANGGM-UHFFFAOYSA-N |
 
-| 6 | 2C-IEU |  | 2,5-dimethoxy-4-iodophenethylamineEU ; 4-Iod-2,5-dimethoxyphenethylazan°°[^8] | C10H14INO2 | PQHQBRJAAZQXHL-UHFFFAOYSA-N |
+| 6 | 2C-IEU |  | 2,5-dimethoxy-4-iodophenethylamineEU ; 4-Iod-2,5-dimethoxyphenethylazan°°[^10] | C10H14INO2 | PQHQBRJAAZQXHL-UHFFFAOYSA-N |
 
-| 7 | 2C-T-2EU |  | 2,5-dimethoxy-4-ethylthiophenethylamineEU; 4-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°°[^9] | C12H19NO2S | HCWQGDLBIKOJPM-UHFFFAOYSA-N |
+| 7 | 2C-T-2EU |  | 2,5-dimethoxy-4-ethylthiophenethylamineEU; 4-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°°[^11] | C12H19NO2S | HCWQGDLBIKOJPM-UHFFFAOYSA-N |
 
-| 8 | 2C-T-7EU |  | 2,5-dimetoxi-4-(n)-propil-tio-fenetil-aminEU; 2,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°°[^10] | C13H21NO2S | OLEVEPDJOFPJTF-UHFFFAOYSA-N |
+| 8 | 2C-T-7EU |  | 2,5-dimetoxi-4-(n)-propil-tio-fenetil-aminEU; 2,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°°[^12] | C13H21NO2S | OLEVEPDJOFPJTF-UHFFFAOYSA-N |
 
 | 9 | 2-DPMP*** (dezoxipipradrol) | Desoxypipradrol | 2-(diphenylmethyl)piperidine | C18H21N | RWTNXJXZVGHMGI-UHFFFAOYSA-N |
 
@@ -84,7 +84,7 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 37 | Brolamfetamine (brolamfetamin) | DOB | (±)-4-bromo-2,5-dimethoxy-α-methylphenethylamine | C11H16BrNO2 | FXMWUTGUCAKGQL-UHFFFAOYSA-N |
 
-| 38 | BZPEU[^11] | N-Benzylpiperazine | 1-benzilpiperazinEU; 1-benzil-1,4-diaza-ciklohexán; N-benzilpiperazin[^12] | C11H16N2 | IQXXEPZFOOTTBA-UHFFFAOYSA-N |
+| 38 | BZPEU[^13] | N-Benzylpiperazine | 1-benzilpiperazinEU; 1-benzil-1,4-diaza-ciklohexán; N-benzilpiperazin[^14] | C11H16N2 | IQXXEPZFOOTTBA-UHFFFAOYSA-N |
 
 | 39 | β-Me-PEA*** |  | 2-phenylpropan-1-amine | C9H13N | AXORVIZLPOGIRG-UHFFFAOYSA-N |
 
@@ -110,7 +110,7 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 50 | DMA |  | (±)-2,5-dimethoxy-α-methylphenethylamine | C11H17NO2 | LATVFYDIBMDBSY-UHFFFAOYSA-N |
 
-| 51 | DMAA (1,3-DMAA)***[^13] |  | 4-methylhexan-2-amine | C7H17N | YAHRDLICUYEDAU-UHFFFAOYSA-N |
+| 51 | DMAA (1,3-DMAA)***[^15] |  | 4-methylhexan-2-amine | C7H17N | YAHRDLICUYEDAU-UHFFFAOYSA-N |
 
 | 52 | DMHP |  | 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C25H38O2 | QBEFIFWEOSUTKV-UHFFFAOYSA-N |
 
@@ -216,7 +216,7 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 103 | PMA |  | 1-(4-methoxyphenyl)propan-2-amine | C10H15NO | NEGYEDYHPHMHGK-UHFFFAOYSA-N |
 
-| 104 | PMMAEU (parametoxi-metilamfetamin) | para-methoxymethylamphetamine | paramethoxymethylamphetamineEU; N-methyl-1-(4-methoxyphenyl)-2-aminopropane vagy p-methoxy-N,α-dimethylphenethylamine vagy 1-(4-methoxyphenyl)-N-methylpropan-2-amine[^14] | C11H17NO | UGFMBZYKVQSQFX-UHFFFAOYSA-N |
+| 104 | PMMAEU (parametoxi-metilamfetamin) | para-methoxymethylamphetamine | paramethoxymethylamphetamineEU; N-methyl-1-(4-methoxyphenyl)-2-aminopropane vagy p-methoxy-N,α-dimethylphenethylamine vagy 1-(4-methoxyphenyl)-N-methylpropan-2-amine[^16] | C11H17NO | UGFMBZYKVQSQFX-UHFFFAOYSA-N |
 
 | 105 | Psilocine (pszilocin) | Psilotsin | 3-[2-(dimethylamino)ethyl]indol-4-ol | C12H16N2O | SPCIYGNTAMCTRO-UHFFFAOYSA-N |
 
@@ -248,11 +248,17 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 114 | TMA (trimetoxiamfetamin) |  | (±)-3,4,5-trimethoxy-α-methylphenethylamine | C12H19NO3 | WGTASENVNYJZBK-UHFFFAOYSA-N |
 
-| 115 | TMA-2EU (2,4,5- trimetoxiamfetamin) |  | 2,4,5-trimethoxyamphetamineEU; 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan°°[^15] | C12H19NO3 | TVSIMAWGATVNGK-UHFFFAOYSA-N |
+| 115 | TMA-2EU (2,4,5- trimetoxiamfetamin) |  | 2,4,5-trimethoxyamphetamineEU; 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan°°[^17] | C12H19NO3 | TVSIMAWGATVNGK-UHFFFAOYSA-N |
 
-| 116 | 3-methylmethcathinone, 3-MMCEU[^16] |  | 2-(methylamino)-1-(3-methylphenyl)propan-1-oneEU[^17] | C11H15NO | QDNXSIYWHYGMCD-UHFFFAOYSA-N |
+| 116 | 3-methylmethcathinone, 3-MMCEU[^18] |  | 2-(methylamino)-1-(3-methylphenyl)propan-1-oneEU[^19] | C11H15NO | QDNXSIYWHYGMCD-UHFFFAOYSA-N |
 
-| 117 | 3-chloromethcathinone, 3-CMCEU[^18] |  | 1-(3-chlorophenyl)-2-(methylamino)propan-1-oneEU[^19] | C10H12ClNO | VOEFELLSAAJCHJ-UHFFFAOYSA-N |
+| 117 | 3-chloromethcathinone, 3-CMCEU[^20] |  | 1-(3-chlorophenyl)-2-(methylamino)propan-1-oneEU[^21] | C10H12ClNO | VOEFELLSAAJCHJ-UHFFFAOYSA-N |
+
+| 118[^22] | 2-MMCEU | 2-Methylmethcathinone | 2-(methylamino)-1-(2-methylphenyl)propan-1-oneEU | C₁₁H₁₅NO | PRGXFAWAMOFULD-UHFFFAOYSA-N |
+
+| 119[^23] | 4-BMCEU | 4-bromomethcathinone, Brephedrone | 1-(4-bromophenyl)-2-(methylamino)propan-1-oneEU | C₁₀H₁₂BrNO | OOJXMFNDUXHDOV-UHFFFAOYSA-N |
+
+| 120[^24] | NEP (N-etil-norpentedron)EU | N-ethylnorpentedrone | 2-(ethylamino)-1-phenylpentan-1-oneEU | C₁₃H₁₉NO | QQAHEGDXEXIQPR-UHFFFAOYSA-N |
 
 1.2. Ezeken felül a fenti anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá, továbbá ezek sói, beleértve sztereoizomerjeik sóit, amennyiben ilyen sók léteznek.
 
@@ -372,9 +378,9 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 49 | Zipeprol (zipeprol) |  | α-(α-methoxybenzyl)-4-(β-methoxyphenethyl)-1-piperazineethanol | C23H32N2O3 | VSTNNAYSCJQCQI-UHFFFAOYSA-N |
 
-| 50[^20] | Modafinil sulphone*** |  | 2-[(diphenylmethyl)sulfonyl]acetamide | C15H15NO3S | ZESNOWZYHYRSRY-UHFFFAOYSA-N |
+| 50[^25] | Modafinil sulphone*** |  | 2-[(diphenylmethyl)sulfonyl]acetamide | C15H15NO3S | ZESNOWZYHYRSRY-UHFFFAOYSA-N |
 
-| 51[^21] | Modafinil*** |  | 2-[(diphenylmethyl)sulfinyl]acetamide | C15H15NO2S | YFGHCGITMMYXAQ-UHFFFAOYSA-N |
+| 51[^26] | Modafinil*** |  | 2-[(diphenylmethyl)sulfinyl]acetamide | C15H15NO2S | YFGHCGITMMYXAQ-UHFFFAOYSA-N |
 
 2.2. Ezeken felül a fenti anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezett kivételes rendelkezés alá, továbbá ezek sói, amennyiben ilyen sók léteznek.
 
@@ -558,18 +564,21 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 4.3. Jelen P4 jegyzék a Pszichotróp Egyezmény aktualizált IV. listája alapján készült.
 
-[^7]: A 2. melléklet a 31/2023. (VIII. 22.) BM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:6 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
-[^9]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:7 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
-[^10]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:8 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
-[^11]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § c) pontja szerint módosított szöveg.
-[^12]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § c) pontja szerint módosított szöveg.
-[^13]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:51 mezője a 44/2025. (XI. 4.) BM rendelet 1. § (1) bekezdésével megállapított, a 4/2026. (II. 26.) BM rendelet 2. § d) pontja szerint módosított szöveg.
-[^14]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:104 mezője a 4/2026. (II. 26.) BM rendelet 2. § e) pontja szerint módosított szöveg.
-[^15]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:115 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
-[^16]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:116 mezője a 4/2026. (II. 26.) BM rendelet 2. § f) pontja szerint módosított szöveg.
-[^17]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:116 mezője a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^18]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:117 mezője a 4/2026. (II. 26.) BM rendelet 2. § g) pontja szerint módosított szöveg.
-[^19]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:117 mezője a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^20]: A 2. melléklet 2. pont 2.1. alpontjában foglalt táblázat 50. sorát a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdése iktatta be.
-[^21]: A 2. melléklet 2. pont 2.1. alpontjában foglalt táblázat 51. sorát a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^9]: A 2. melléklet a 31/2023. (VIII. 22.) BM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:6 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:7 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:8 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § c) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:38 mezője a 4/2026. (II. 26.) BM rendelet 2. § c) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:51 mezője a 44/2025. (XI. 4.) BM rendelet 1. § (1) bekezdésével megállapított, a 4/2026. (II. 26.) BM rendelet 2. § d) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:104 mezője a 4/2026. (II. 26.) BM rendelet 2. § e) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:115 mezője a 4/2026. (II. 26.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:116 mezője a 4/2026. (II. 26.) BM rendelet 2. § f) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:116 mezője a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat A:117 mezője a 4/2026. (II. 26.) BM rendelet 2. § g) pontja szerint módosított szöveg.
+[^21]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat C:117 mezője a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^22]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat 118. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (1) bekezdése iktatta be.
+[^23]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat 119. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (1) bekezdése iktatta be.
+[^24]: A 2. melléklet 1. pont 1.1. alpontjában foglalt táblázat 120. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (1) bekezdése iktatta be.
+[^25]: A 2. melléklet 2. pont 2.1. alpontjában foglalt táblázat 50. sorát a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^26]: A 2. melléklet 2. pont 2.1. alpontjában foglalt táblázat 51. sorát a 4/2026. (II. 26.) BM rendelet 1. § (1) bekezdése iktatta be.
