@@ -1,0 +1,7 @@
+34/A. § (1) A Nemzeti Választási Bizottság választott tagja a vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
+
+(2) Összeférhetetlenség miatt megszűnik a Nemzeti Választási Bizottság választott tagjának a megbízatása, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
+
+(3) A Nemzeti Választási Bizottság választott tagja megbízatásának a megszűnését a (2) bekezdésben meghatározott esetben az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának javaslatára az Országgyűlés köteles megállapítani. Az eljárásra az országgyűlési képviselők összeférhetetlenségi eljárására vonatkozó szabályokat kell alkalmazni.
+
+(4) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerinti feladatkörében eljáró Integritás Hatóság vagyonnyilatkozati eljárásában hozott jelentése azt állapítja meg, hogy a Nemzeti Választási Bizottság választott tagja a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a (3) bekezdés szerinti eljárást az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága köteles megindítani.
