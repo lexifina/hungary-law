@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-241-00-00
 | 2024-03-01 | 2023. évi CIX. törvény | 2013-241-00-00.12 |
 | 2025-01-01 | 2024. évi LXXV. törvény | 2013-241-00-00.13 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2013-241-00-00.14 |
+| 2026-06-29 | 2026. évi XVIII. törvény | 2013-241-00-00.15 |
