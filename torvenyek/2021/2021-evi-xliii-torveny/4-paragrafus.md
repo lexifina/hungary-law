@@ -34,4 +34,6 @@ gf) érdekeltségének a Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja 
 
 h) a tényleges tulajdonosi adat TT indexe.
 
+(1a) Zártkörű befektetési alap adatszolgáltató esetén az (1) bekezdés g) pont gf) alpontja szerinti érdekeltség jellegének és mértékének meghatározása során az alapkezelő feltünteti a befektetési jegy arányát.
+
 (2) A tényleges tulajdonosi nyilvántartás az (1) bekezdésben meghatározott adatok tekintetében nem minősül közhiteles hatósági nyilvántartásnak.

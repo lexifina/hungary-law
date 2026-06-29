@@ -8,6 +8,6 @@ b) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára
 
 c) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
 
-d) a pénzügyi rendszer pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzése érdekében a tagállamok által létrehozandó mechanizmusokról, az (EU) 2019/1937 irányelv módosításáról, és az (EU) 2015/849 irányelv módosításáról és hatályon kívül helyezéséről szóló, 2024. május 31-i (EU) 2024/1640 európai parlamenti és tanácsi irányelv 74. cikkének
+d) a pénzügyi rendszer pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzése érdekében a tagállamok által létrehozandó mechanizmusokról, az (EU) 2019/1937 irányelv módosításáról, és az (EU) 2015/849 irányelv módosításáról és hatályon kívül helyezéséről szóló, 2024. május 31-i (EU) 2024/1640 európai parlamenti és tanácsi irányelv 12. és 74. cikkének
 
 való megfelelést szolgálja.
