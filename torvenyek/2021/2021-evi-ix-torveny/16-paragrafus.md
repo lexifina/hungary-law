@@ -8,6 +8,6 @@
 
 (3) A közfeladat-ellátás hosszú távú, kiszámítható biztosításához fűződő közérdekre figyelemmel a közfeladat az alapítványtól el nem vonható, és annak ellátásával az alapítvány nem hagyhat fel.
 
-(4) Új közfeladatot megállapítani, a közfeladatot módosítani vagy közfeladat ellátásáról lemondani sarkalatos törvény felhatalmazása alapján az alapító okirat módosításával lehet.
+(4) Új közfeladatot megállapítani, a közfeladatot módosítani vagy közfeladat ellátásáról lemondani törvény felhatalmazása alapján az alapító okirat módosításával lehet.
 
 (5) A közfeladat (4) bekezdés szerinti módosulása esetén az 1. mellékletben meghatározott közfeladat ellátásához rendelt vagyon tulajdonjogát a vagyon juttatója részére csak ellenérték fejében lehet átruházni.

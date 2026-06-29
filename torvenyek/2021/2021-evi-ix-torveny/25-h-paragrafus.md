@@ -1,0 +1,13 @@
+## 16. Az állam általi feladatátvétel szabályai
+
+25/H. § (1) Ha a nem felsőoktatási alapítvány feladatát, egyes feladatait központi költségvetési szerv veszi át, a feladat átvételének időpontja 2026. augusztus 31. Az átvevő költségvetési szerv a nem felsőoktatási alapítvány mindazon vagyoni és személyes jogainak, továbbá kötelezettségeinek jogutódjává válik, amelyeket költségvetési szerv megszerezhet, illetve amely költségvetési szervet terhelhet. A költségvetési szerv által meg nem szerezhető jogok és kötelezettségek jogutódja az állam. Az állam tulajdonába kerülő vagyon tekintetében a vagyonkezelői jog e törvény erejénél fogva ingyenesen az átvevő költségvetési szervet illeti meg.
+
+(2) Az (1) bekezdés szerinti jogutódlás a nem felsőoktatási alapítvánnyal szemben fennálló követeléseket nem teszi lejárttá, és a jogutódlásra hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(3) Azon jogviszony, amelynek kizárólagos jogosultjává az átvevő költségvetési szerv és kizárólagos kötelezettjévé az állam válik, a feladat átvételének napján e törvény erejénél fogva megszűnik.
+
+(4) A folyamatban lévő eljárásokban a nem felsőoktatási alapítvány helyébe a költségvetési szerv lép. A feladat átvételekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint polgári peres és nemperes eljárásokban a nem felsőoktatási alapítvány jogutódjának az átvevő költségvetési szerv tekintendő, és ezen eljárásokban hozott határozatban megállapított kötelezettség vagy jogosultság az átvevő költségvetési szervet, illetve az államot terheli vagy illeti meg. Az elszámolási biztos gondoskodik arról, hogy a fél személyében történő változás a feladat átvételekor folyamatban lévő eljárásokban bejelentésre kerüljön.
+
+(5) A feladat ellátásával összefüggő hatósági engedélyek jogosultjának a feladat átvételének időpontjától az átvevő költségvetési szerv tekintendő. A hatósági engedélyek ennek megfelelő módosítását az átvevő költségvetési szerv a feladat átvételét követően haladéktalanul kezdeményezi.
+
+(6) A 25/F. § szerinti jegyzőkönyv aláírásának napjától a nem felsőoktatási alapítvány pénzforgalmi és egyéb számlái felett rendelkezési joggal az elszámolási biztos rendelkezik. Az elszámolási biztos a feladat átvételét megelőzően – ha a számla feletti rendelkezési jog megszerzésére később kerül sor, a rendelkezési jog megszerzését követő munkanapon – átutalja a nem felsőoktatási alapítvány valamennyi pénzforgalmi számláján lévő pénzeszközét az átvevő költségvetési szerv fizetési számlájára, valamint a készpénzállományát átadja az átvevő költségvetési szerv részére.

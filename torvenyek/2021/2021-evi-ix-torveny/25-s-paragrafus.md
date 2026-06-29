@@ -1,0 +1,1 @@
+25/S. § Az elszámolási eljárás befejezésének napján folyamatban lévő bírósági és hatósági, peres és nemperes eljárásokban, valamint a 2026. október 31-ig le nem zárható jogviszonyokban az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. jár el.

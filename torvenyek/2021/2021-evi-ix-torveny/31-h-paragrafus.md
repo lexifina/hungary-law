@@ -1,0 +1,1 @@
+31/H. § A Módtv3.-mal megállapított 22. § (4a) bekezdésben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 12. § (7) bekezdésére vonatkozó rendelkezésének a felsőoktatási intézmény legkésőbb 2026. október 31. napjáig biztosítja a megfelelést.

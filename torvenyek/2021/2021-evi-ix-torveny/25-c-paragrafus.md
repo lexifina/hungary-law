@@ -1,0 +1,33 @@
+## 13. A nem felsőoktatási alapítvány államháztartáson kívüli alapító általi továbbműködtetése
+
+25/C. § (1) Ha a nem felsőoktatási alapítványban nem állami alapító vagy nem állami csatlakozó (e fejezet alkalmazásában a továbbiakban együtt: államháztartáson kívüli alapító) is van, és a nem felsőoktatási alapítvány alapító okirata szerint a nem felsőoktatási alapítvány közérdekű cél ellátását is biztosítja, az alapítói jogok gyakorlója a 25/A. § (1) bekezdése szerinti kormányhatározat meghozatalát követő három napon belül írásban felhívja ezen személyeket, hogy a felhívás kézhezvételétől számított három munkanapos jogvesztő határidőn belül nyilatkozzanak arról, hogy a nem felsőoktatási alapítvány alapító okiratában meghatározott, a kormányhatározat alapján állami feladatátvétellel nem érintett, a közfeladaton túli közérdekű cél, más célok megvalósítására a nem felsőoktatási alapítványt a Vatv. szabályai szerinti közérdekű vagyonkezelő alapítványként vagy a Ptk. szerinti alapítványként tovább kívánják-e működtetni.
+
+(2) Ha az államháztartáson kívüli alapító, több államháztartáson kívüli alapító esetén egyetlen államháztartáson kívüli alapító sem kívánja a nem felsőoktatási alapítványt ezen alcím szerint tovább működtetni, ideértve azt is, ha határidőben az arra jogosult nem nyilatkozik, a nem felsőoktatási alapítvány nyilvántartásból való törlésére és vagyoni viszonyainak lezárására e fejezet szerint kerül sor.
+
+(3) Ha az államháztartáson kívüli alapító, több államháztartáson kívüli alapító esetén legalább egy államháztartáson kívüli alapító a nem felsőoktatási alapítvány ezen alcím szerinti továbbműködtetési szándékáról határidőben nyilatkozik, a nem felsőoktatási alapítvány közérdekű vagyonkezelő alapítványként vagy Ptk. szerinti alapítványként – változásbejegyzési kérelem alapján – a nyilvántartásba való bejegyzésének akkor van helye, ha
+
+a) az államháztartáson kívüli alapító változásbejegyzési kérelmét legkésőbb 2026. augusztus 30. napján éjfélig – a választott továbbműködési formától függően – a Vatv. vagy a Ptk. rendelkezéseinek megfelelően módosított alapítói okirattal és jogszabályban előírt mellékletekkel a bírósághoz benyújtja, és
+
+b) az a) pont szerinti változásbejegyzési kérelemhez csatolja a 25/G. § szerinti megállapodásra tekintettel – az alapítói jogok gyakorlójának a nem felsőoktatási alapítvány megszüntetésére vonatkozó döntésének visszavonása alapján – a Kormány határozatát a 25/A. § (2) bekezdése szerinti határozat 25/A. § (2) bekezdés a) pontjára vonatkozó döntés visszavonásáról.
+
+(4) A (3) bekezdés szerinti esetben a nem felsőoktatási alapítvány létesítő okiratának módosítását az államháztartáson kívüli alapítónak változásbejegyzési kérelemben kell bejelentenie a bíróságnak. A változásbejegyzési kérelem késedelmes benyújtása esetén a Cnytv. 37. § (2) bekezdés nem alkalmazható.
+
+(5) Az alapító okirat módosítása során a választott alapítványi formára a Vatv.-ben vagy a Ptk.-ban előírt rendelkezéseket az e fejezetben foglalt eltérésekkel kell alkalmazni. Ha a választott alapítványi formára irányadó jogszabály vagyoni hozzájárulás teljesítésének határidejét a nyilvántartásba vételi kérelem benyújtásához vagy nyilvántartásba vételhez (létesítéshez) köti, nyilvántartásba vételi kérelmen e fejezet szerinti változásbejegyzési kérelmet, nyilvántartásba vételen a választott alapítványi formának az e fejezet szerinti változásbejegyzési kérelmen alapuló bejegyzését kell érteni. Az alapító okirat módosítása során
+
+a) az állami szerepvállalásra vonatkozó rendelkezéseket el kell hagyni,
+
+b) a továbbműködő alapítvány célja a Ptk. 3:393. § (1) bekezdésben foglalt feltételek fennállása hiányában is érvényesen módosítható,
+
+c) a továbbműködő alapítvány vagyonának az Alaptörvény tizenhatodik módosításával az államra visszaszálló vagyon mértékével történő csökkentése tekintetében a Ptk. 3:384. § (2) bekezdése nem alkalmazható, az alapító okirat e tekintetben történő módosítása a Ptk. 3:393. § (2) bekezdésével szemben, érvényes,
+
+d) a továbbműködő alapítvány államháztartáson kívüli alapítója által juttatott vagyonaként csak olyan vagyon határozható meg, mely a 25/G. § szerinti megállapodás alapján nem vitás, valamint
+
+e) a továbbműködő alapítvány névváltoztatásra nem köteles.
+
+(6) A változásbejegyzési eljárásban a bíróság az alapító okirat és mellékletei tekintetében azt is vizsgálja, hogy azok megfelelnek-e a választott alapítványi formára előírt jogszabályokban, valamint e fejezetben foglalt rendelkezéseknek. A változásbejegyzési eljárásban a jogi képviselet kötelező, ha a választott alapítványi forma nyilvántartásba vételi eljárásában is kötelező. A bíróság a változásbejegyzési kérelmet akkor is elutasítja, ha az alapító okirat vagy annak mellékletei nem felelnek meg az e fejezetben foglalt feltételeknek.
+
+(7) Ha a bíróság a változásbejegyzési kérelemnek helyt ad, a változásbejegyzési kérelemnek megfelelő adatokat jegyzi be a nyilvántartásba azzal, hogy a közfeladatot ellátó közérdekű vagyonkezelő alapítványra utaló nyilvántartási adatot hivatalból törli. A közérdekű vagyonkezelő alapítvány vagy a Ptk. szerinti alapítvány a nem felsőoktatási alapítvány mindazon vagyoni, szerződéses és egyéb jogainak, továbbá kötelezettségeinek jogutódjává válik, amelyek a nem felsőoktatási alapítványt az alapító okiratában meghatározott közfeladatokon túli közérdekű cél teljesítéséhez, más célok teljesítéséhez, illetve feladatellátáshoz kapcsolódóan megillették vagy terhelték.
+
+(8) Az alapítói jogok gyakorlója az (1) bekezdésben meghatározott nyilatkozattételi határidő lejártát követő munkanapon tájékoztatja a nem felsőoktatási alapítványt nyilvántartó bíróságot az államháztartáson kívüli alapító nyilatkozatában foglalt szándékáról, vagy arról, hogy az államháztartáson kívüli alapító nem nyilatkozott.
+
+(9) Ha a változásbejegyzési kérelmet a bíróság jogerősen visszautasítja vagy elutasítja, illetve a Cnytv. 29. § (3) bekezdése szerinti határidő eredménytelenül eltelik, a jogerőre emelkedést, illetve a Cnytv. 29. § (3) bekezdése szerinti határidő utolsó napját követő napon a bíróság a közfeladatot ellátó közérdekű vagyonkezelő alapítványra utaló nyilvántartási adatot hivatalból törli a nem felsőoktatási alapítvány nyilvántartási adatai közül. Az adattörlésre vonatkozó jogerős határozat – külön eljárás lefolytatása nélkül – egyben a nem felsőoktatási alapítvány jogutód nélküli megszűnését eredményező, a Ptk. 3:403. § (1) bekezdés b) pontja szerinti ok bekövetkezte bíróság általi megállapításának minősül, és a bíróság elrendeli a nem felsőoktatási alapítványnak az Ectv. 9/J. §-a szerinti kényszer-végelszámolását.

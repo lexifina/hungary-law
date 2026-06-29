@@ -1,4 +1,4 @@
-32. § (1) E törvény az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+32. § (1)
 
 (2) E törvény 12. § (2) bekezdése és a 13. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 

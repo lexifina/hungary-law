@@ -1,0 +1,1 @@
+25/O. § A Kormány elrendelheti, hogy a nem felsőoktatási alapítvány vagyoni eszközeit vagy azok meghatározott részét az elszámolási biztos piaci forgalomban értékesítse. A Kormány dönt a nem felsőoktatási alapítvány vagyoni részesedésével működő jogalanyok, illetve a részvételével működő jogi személyek sorsáról.
