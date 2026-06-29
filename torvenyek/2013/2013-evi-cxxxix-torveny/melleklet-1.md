@@ -113,7 +113,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 10. a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
 
 10.1. az általuk tett nyilvános vételi ajánlat jóváhagyására,
-
-10.2. az általuk tett és módosított nyilvános vételi ajánlat jóváhagyására,
-
-11. a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.
