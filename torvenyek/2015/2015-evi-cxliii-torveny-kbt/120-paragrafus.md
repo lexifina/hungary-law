@@ -11,3 +11,13 @@ b) a koncesszió tárgyára vonatkozó műszaki leírást;
 c) az ajánlat és a részvételi jelentkezés elkészítésével kapcsolatban a gazdasági szereplők részére szükséges információkról szóló tájékoztatást, valamint az ajánlat és részvételi jelentkezés részeként benyújtandó igazolások, nyilatkozatok jegyzékét. Az ajánlatkérő koncessziós beszerzési eljárásban is előírhatja az egységes európai közbeszerzési dokumentum mintájának használatát, az általa adott esetben rendelkezésre bocsátott további igazolás- és nyilatkozatminták ajánlottak lehetnek. Amennyiben a nyilatkozatminták az EKR-ben elektronikus űrlapként a nyilatkozat megtételének nyelvén rendelkezésre állnak, a nyilatkozatot az elektronikus űrlap kitöltése útján kell az ajánlat vagy részvételi jelentkezés részeként megtenni.
 
 (3) A közbeszerzési dokumentumokat ajánlatonként vagy részvételi jelentkezésenként legalább egy ajánlattevőnek, részvételre jelentkezőnek vagy az ajánlatban, illetve részvételi jelentkezésben megnevezett alvállalkozónak elektronikus úton el kell érnie.
+
+(4) Az ajánlatkérő köteles az eljárás előkészítése során írásban dokumentálni és az eljárás megindításakor a közbeszerzési dokumentumokban közzétenni:
+
+a) az előzetes piacfelmérés, valamint – amennyiben arra sor került – az előzetes piaci konzultáció eredményeit,
+
+b) a kockázatok felmérésére vonatkozó értékelését, amelynek alapján teljesül a szerződés koncesszióként történő minősítéséhez szükséges, a 8. § (7) bekezdése szerinti kockázatvállalás,
+
+c) a koncessziós jogosult befektetésének megtérülésére vonatkozó számításokat, amelyek alátámasztják, hogy a koncesszió tervezett időtartama nem haladja meg a 133. § (2) bekezdésének megfelelő időtartamot, és
+
+d) a verseny biztosítása érdekében megtett intézkedéseit.

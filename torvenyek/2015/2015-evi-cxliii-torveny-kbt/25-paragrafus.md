@@ -16,7 +16,7 @@
 
 a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
 
-b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
+b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője, alkalmazottja vagy Pmt. szerinti tényleges tulajdonosa; vagy
 
 c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
 
@@ -40,7 +40,7 @@ h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvéde
 
 i) a Magyar Nemzeti Bank elnöke
 
-tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
+tulajdonában, vagy az a)–i) pont szerinti személy hozzátartozója tulajdonában álló szervezet.
 
 (7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
 

@@ -2,7 +2,7 @@
 
 9. § (1) E törvényt nem kell alkalmazni
 
-a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott,
+a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyta,
 
 b) az a) pont alá nem tartozó
 
@@ -10,7 +10,7 @@ ba) azon beszerzésekre, amelyek esetében a közbeszerzési szabályok alkalmaz
 
 bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárás alóli mentesüléshez képest kisebb beavatkozással járó intézkedésekkel nem garantálhatóak,
 
-és amelyek megrendelésére az Országgyűlés illetékes bizottsága jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott;
+és amelyek megrendelésére vonatkozó ajánlatkérői döntést az Országgyűlés illetékes bizottsága jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében jóváhagyott;
 
 c) nemzetközi megállapodásban vagy nemzetközi egyezményben meghatározott külön eljárás szerint történő beszerzésre, ha az Európai Unión kívüli állammal az Európai Unió Működéséről szóló Szerződésnek (a továbbiakban: EUMSZ) megfelelően kötött nemzetközi megállapodás vagy nemzetközi egyezmény projekt közös megvalósításával vagy hasznosításával összefüggő beszerzésre vonatkozik, azzal, hogy a nemzetközi megállapodás vagy nemzetközi egyezmény megkötéséről az Európai Bizottságot tájékoztatni kell;
 
@@ -90,14 +90,6 @@ d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározá
 
 (10) Az (1) bekezdés b) pontja szerinti beszerzés során az ajánlatkérő jogosult a bűnügyi személyes adatok kezelésére.
 
-(11) Az (1) bekezdés b) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését az 5. § (1) bekezdés a)–e) pontjában és (2) bekezdésében meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
+(11)
 
-(12) A (11) bekezdés alapján az (1) bekezdés b) pontjában meghatározott
-
-a) beszerzéssel összefüggésben feladat- és hatáskörében eljáró szerv határozatának,
-
-b) beszerzési eljárás nyertes ajánlattevője személyének, valamint
-
-c) beszerzésre vonatkozó szerződések megnevezésének, tárgyának, értékének, időtartamának, a szerződő felek nevének
-
-megismerése nem korlátozható.
+(12)

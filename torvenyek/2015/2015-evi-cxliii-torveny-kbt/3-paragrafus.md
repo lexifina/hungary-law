@@ -34,6 +34,8 @@ c) építési beruházás esetén az építőanyag-eladót;
 
 10. gazdasági szereplő: bármely természetes személy, jogi személy, egyéni cég vagy személyes joga szerint jogképes szervezet, vagy ilyen személyek vagy szervezetek csoportja, aki, illetve amely a piacon építési beruházások kivitelezését, áruk szállítását vagy szolgáltatások nyújtását kínálja;
 
+10a. Átlátható gazdasági szereplő: Az a gazdasági szereplő, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 3. § 38. pont a)–b), d), e) vagy g) alpontja szerinti tényleges tulajdonosa az ajánlatkérő által megismerhető és amely tulajdonosi és irányítási viszonyait az ajánlatkérő számára feltárja;
+
 11. hátrányos helyzetű munkavállaló: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott fogalom;
 
 12. innováció: olyan új vagy jelentős mértékben továbbfejlesztett termék, szolgáltatás vagy folyamat – beleértve többek között a termelési, építési, illetve konstrukciós folyamatokat – új marketingmódszer, vagy új szervezési mód megvalósítása az üzletvitel, a munkaszervezés vagy a külső kapcsolatok terén, amelynek célja különösen valamely tevékenység hatékonyságának javítása, kedvező társadalmi és környezeti hatások elérése;

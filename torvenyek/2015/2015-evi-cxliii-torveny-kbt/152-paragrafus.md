@@ -28,7 +28,7 @@ m) a közbeszerzésekért felelős miniszter;
 
 n) az európai uniós források felhasználásáért felelős miniszter.
 
-o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.
+o) az Integritás Hatóság.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti szervezet vagy személy
 

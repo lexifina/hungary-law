@@ -22,7 +22,9 @@ d) a hiányzó közbeszerzési dokumentumok az ügyfél nyilatkozatával nem pó
 
 (5) A Közbeszerzési Döntőbizottság illetékessége az ország egész területére kiterjed.
 
-(6) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését. Törvény ilyen tartalmú rendelkezése esetén a Közbeszerzési Döntőbizottság hatáskörébe tartozhat a védelmi és biztonsági tárgyú, továbbá a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzésre, beszerzési eljárásra vonatkozó jogszabályok megsértése miatt indult eljárás lefolytatása.
+(6) A Közbeszerzési Döntőbizottságot az e törvény hatálya alóli kivételek alkalmazásának közbeszerzési jogszerűségére vonatkozó jogorvoslat során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata. Törvény ilyen tartalmú rendelkezése esetén a Közbeszerzési Döntőbizottság hatáskörébe tartozhat a védelmi és biztonsági tárgyú, továbbá a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzésre, beszerzési eljárásra vonatkozó jogszabályok megsértése miatt indult eljárás lefolytatása.
+
+(6a) A 152. § (1) bekezdése szerinti szervezetet vagy személyt a jogszabályban meghatározott feladatkörében folytatott, az e törvény hatálya alóli kivételek alkalmazásának jogszerűségére vonatkozó vizsgálata és a jogorvoslat kezdeményezése során nem köti az Országgyűlés illetékes bizottságának a kivétel alkalmazására irányuló ajánlatkérői döntést jóváhagyó határozata.
 
 (7) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban az állami közbeszerzési szaktanácsadói, kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
 

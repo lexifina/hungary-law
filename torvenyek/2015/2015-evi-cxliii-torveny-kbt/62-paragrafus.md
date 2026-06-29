@@ -58,7 +58,7 @@ k) tekintetében a következő feltételek valamelyike megvalósul:
 
 ka) nem az Európai Unió, az Európai Gazdasági Térség vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, a Kereskedelmi Világszervezet közbeszerzési megállapodásban részes államban vagy az EUMSZ 198. cikkében említett tengerentúli országok és területek bármelyikében vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, vagy amellyel az Európai Uniónak kétoldalú megállapodása van a közbeszerzés terén,
 
-kb) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b), d), e) vagy g) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
+kb) nem minősül átlátható gazdasági szereplőnek, vagy
 
 kc) a gazdasági szereplőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy személyes joga szerint jogképes szervezet, amelynek tekintetében a kb) alpont szerinti feltétel fennáll;
 

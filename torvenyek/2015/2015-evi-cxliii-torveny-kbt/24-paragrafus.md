@@ -2,7 +2,7 @@
 
 (2) Ha a beszerzés különböző elemei objektíve nem szétválaszthatóak, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére
 
-a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt felmentés rendelkezésre állása esetén – nem kell alkalmazni;
+a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt jóváhagyás rendelkezésre állása esetén – nem kell alkalmazni;
 
 b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvényt kell alkalmazni.
 
@@ -12,7 +12,7 @@ c) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet
 
 (4) Ha az ajánlatkérő objektíve szétválasztható elemekből álló beszerzésre egy szerződést köt
 
-a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt felmentés rendelkezésre állása esetén – nem kell alkalmazni, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt;
+a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt jóváhagyás rendelkezésre állása esetén – nem kell alkalmazni, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt;
 
 b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvényt kell alkalmazni, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt.
 

@@ -72,10 +72,14 @@ d) az e törvénybe ütköző magatartásnak az adott közbeszerzés vonatkozás
 
 e) a jogsértés megtörténte és a jogorvoslati eljárás megindítása között eltelt hosszú időtartamot,
 
-f) támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat
+f) támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat,
+
+g) az ajánlatkérővel szerződő gazdasági szereplő jogsértésért való felelősségének megállapítása esetén a gazdasági szereplőnek a jogsértés kapcsán kifejtett magatartását
 
 figyelembe veszi. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
 
 (12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat véglegességének időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
 
 (13) Ha a Közbeszerzési Döntőbizottság e § szerinti határozatában megállapítja a közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó jogszabályok megsértését, az ajánlatkérőként, illetve az ajánlattevőként szerződő fél – a Közbeszerzési Döntőbizottság határozatának kézbesítésétől számított harminc napon belül – elállhat az érintett közbeszerzési eljárás alapján megkötött szerződéstől, feltéve, hogy a jogsértés befolyásolta a közbeszerzési eljárást lezáró döntést.
+
+(14) A Közbeszerzési Döntőbizottság közleményt ad ki az általa alkalmazott, bírságok kiszabásával kapcsolatos elvekről. A közlemény – a jogsértések egyedi körülményeinek mérlegelése lehetőségének biztosítása mellett – tartalmazza a tipikus jogsértéstípusok esetén irányadónak tartott bírságmértékek tartományát.
