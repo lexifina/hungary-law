@@ -1,1 +1,1 @@
-39. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 203. § (1) bekezdésében a „mind a bírói, mind a hozzátartozói vagyonnyilatkozatba az e fejezet szerinti ellenőrzési eljárás esetén” szövegrész helyébe a „mind a bírói, mind a hozzátartozói vagyonnyilatkozatba az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság, továbbá az e fejezet szerinti ellenőrzési eljárás esetén” szöveg lép.
+### 39. §

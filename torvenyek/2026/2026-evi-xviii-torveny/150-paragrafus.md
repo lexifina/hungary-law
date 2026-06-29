@@ -1,5 +1,3 @@
 ## 41. Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény módosítása
 
-150. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § A Hatóság minden olyan esetben fellép, ahol a Hatóság álláspontja szerint valamely, az európai uniós források felhasználása vagy annak ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet, ideértve a szerződéskötőt is, nem tette meg a szükséges lépéseket olyan csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság megelőzésére, felderítésére és kijavítására, amely érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodását vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül. A Hatóság hatáskörrel rendelkezik különösen az Európai Uniótól részben vagy egészben pénzügyi támogatásban részesülő tervezett, folyamatban lévő vagy korábbi intézkedések, eljárások vagy projektek tekintetében. A Hatóság hatásköre valamely intézkedés, eljárás vagy projekt európai uniós finanszírozásból való kivonása esetén is fennmarad.”
+### 150. §

@@ -1,9 +1,1 @@
-109. § A büntetőeljárásról szóló 2017. évi XC. törvény 817/G. § (3) bekezdése helyébe a következő rendelkezés lép, valamint a § a következő (3a)–(3c) bekezdéssel egészül ki:
-
-„(3) A nyomozás megindulása vagy az eljárás folytatása esetén az ügyészség vagy a nyomozó hatóság a bírósági határozat indokolásában meghatározottak alapulvételével, felderítetlenség esetén az ott meghatározott hiányosságok kiküszöbölésével folytatja az eljárást. Az eljárás újabb megszüntetésére nem kerülhet sor, ha felderítetlenség esetén a bírósági határozatban szereplő hiányosságok kiküszöbölésére nem került sor, kivéve, ha arra az ügyészségen vagy a nyomozó hatóságon kívül álló okból nem volt lehetőség.
-
-(3a) A (3) bekezdésben meghatározott esetben a nyomozó hatóság a nyomozás megindulásától vagy az eljárás folytatásától számított két hónapon belül – valamint azt követően kéthavonta – bemutatja az ügyészségnek a nyomozás ügyiratait, egyidejűleg beszámol a nyomozás állásáról. Az ügyészség a felülbírálati indítványt elbíráló bíróságnak továbbítja a nyomozó hatóság beszámolóját, a nyomozás ügyiratait, valamint a (4) bekezdés a) pontjában meghatározott jogköre gyakorlásával összefüggésben, a nyomozó hatóság beszámolójával kapcsolatban keletkezett ügyiratokat.
-
-(3b) Az ügyészségi nyomozás során a (3a) bekezdést azzal kell alkalmazni, hogy az ügyészség a felettes ügyészségnek számol be a nyomozás állásáról, és az ott meghatározott ügyiratokat a felettes ügyészség küldi meg a felülbírálati indítványt elbíráló bíróságnak.
-
-(3c) Ha a felülbírálati indítványt elbíráló bíróság az ügyiratok bemutatása alapján megállapítja, hogy a nyomozást nyilvánvalóan nem a (3) bekezdésben meghatározott rendelkezéseknek megfelelően folytatják le, akkor a szükséges intézkedések megtétele érdekében az ügyészség vezetőjéhez fordul. A következő beszámolóban a felülbírálati indítványt elbíráló bíróságot tájékoztatni kell a jelzése alapján megtett intézkedésekről is.”
+### 109. §

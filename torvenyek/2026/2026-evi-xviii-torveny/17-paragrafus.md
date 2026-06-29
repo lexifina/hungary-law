@@ -1,3 +1,1 @@
-17. § Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 14. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében az Állami Számvevőszék alelnöke vagyonnyilatkozata kapcsán a (8) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az Állami Számvevőszék elnöke a jelentés megállapításainak figyelembevételével az Állami Számvevőszék alelnökének a 20. § (2) bekezdése szerint megállapított illetményét a 21. § szerint – egy év határozott időtartamban legfeljebb 10%-kal – csökkentett mértékben állapítja meg.”
+### 17. §
