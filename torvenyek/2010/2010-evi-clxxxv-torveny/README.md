@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2025-01-01 | 2024. évi LXXVIII. törvény | 2010-185-00-00.55 |
 | 2025-04-25 | 2025. évi V. törvény | 2010-185-00-00.56 |
 | 2026-06-27 | 2026. évi XXI. törvény | 2010-185-00-00.57 |
+| 2026-06-29 | 2026. évi XVIII. törvény | 2010-185-00-00.59 |
