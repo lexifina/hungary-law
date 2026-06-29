@@ -32,6 +32,8 @@ h) bírósági végrehajtó,
 
 i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés vagy egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
 
+j) az Országos Bírósági Hivatal igazságügyi alkalmazott elnökhelyettese.
+
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
 a) a Magyar Fejlesztési Bank Rt. vezérigazgatója, igazgatóságának, felügyelőbizottságának elnöke és tagja,
