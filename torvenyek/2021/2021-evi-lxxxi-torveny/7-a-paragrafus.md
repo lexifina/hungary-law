@@ -1,1 +1,0 @@
-7/A. § Ha az Alapítvány a 2/A. § (1) bekezdése alapján a nevének megváltoztatásáról dönt, akkor a módosított névvel működő Alapítvány jár el az Alapítvány céljainak teljesítéséért, illetve látja el az e törvényben vagy más törvényben az Alapítvány számára meghatározott közfeladatokat.

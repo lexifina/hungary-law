@@ -1,5 +1,0 @@
-4. § (1) A vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény 3. § (6) bekezdése szerinti vagyonnövelés – ideértve az annak felhasználása körében harmadik személy javára teljesített kifizetést, illetve juttatást is – nem minősül törvény szerinti támogatásnak.
-
-(2) Az (1) bekezdés szerinti vagyonjuttatás tekintetében az alapító okiratot az alapítói jogok gyakorlására kijelölt kuratórium módosítja.
-
-(3) Az Alapítványra nem kell alkalmazni a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:379. § (1) és (2) bekezdésében, továbbá az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 2. § 7. pontjában, 17. § (1) bekezdésében és 23. §-ában foglalt rendelkezéseket. Az Alapítvány céljainak, közérdekű tevékenységének megvalósítását szolgáló gazdasági tevékenységet végez, így különösen az alapító által rendelt, az Alapítványhoz csatlakozók által juttatott, valamint az egyéb forrásból származó vagyont kezeli, azzal a felelős gazdálkodás követelményének sérelme nélkül szabadon gazdálkodhat.

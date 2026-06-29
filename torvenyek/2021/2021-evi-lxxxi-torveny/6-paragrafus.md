@@ -1,1 +1,0 @@
-6. § A 2. § (1) bekezdésében meghatározott célok ellátását szolgáló, az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
