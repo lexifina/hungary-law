@@ -1,3 +1,0 @@
-3. § (1) Az ingyenes tulajdonba adás során átadásra kerülő ingóságokról jegyzőkönyvet kell felvenni, amelyet a tulajdonosi joggyakorló mint átadó és az átvevő Alapítvány képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értékkel.
-
-(2) Az ingyenes tulajdonba adás során a vagyonelemek átadására per-, teher- és igénymentesen kerül sor, ide nem értve a hatályban lévő bérleti szerződéseket, valamint az érintett ingatlanokon esetlegesen fennálló, az ingatlan-nyilvántartásba bejegyzett vezeték-, szolgalmi és használati jogokat.
