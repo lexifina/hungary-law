@@ -1,1 +1,0 @@
-A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatása, az ilyen tevékenységet ellátó intézmények kiszámítható működtetése, valamint a kultúrstratégiai támogatások kedvezményezettjeinek tervezhető jövője érdekében az Országgyűlés a következő törvényt alkotja:
