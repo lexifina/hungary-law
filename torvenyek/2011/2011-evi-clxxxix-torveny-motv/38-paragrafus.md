@@ -2,7 +2,7 @@
 
 38. § (1) Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
 
-a)
+a) aki a vagyonnyilatkozat-tételi kötelezettségét elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt,
 
 b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;
 
@@ -16,7 +16,7 @@ f) aki a vele szemben megindított bírósági eljárást lezáró jogerős bír
 
 g) aki a 36. §-ban szabályozott összeférhetetlenségi okot nem hozza a képviselő-testület tudomására.
 
-(2) Az önkormányzati képviselő köteles az (1) bekezdés a)–g) pontjában foglaltakról, a jogerős ítélet kézhezvételétől vagy az (1) bekezdés d) és e) pontjában foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet és a kormányhivatalt.
+(2) Az önkormányzati képviselő köteles az (1) bekezdés b)–g) pontjában foglaltakról, a jogerős ítélet kézhezvételétől vagy az (1) bekezdés d) és e) pontjában foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet és a kormányhivatalt.
 
 (3) A büntetőeljárásról szóló törvényben foglaltakra figyelemmel az eljáró bíróság az önkormányzati képviselő bűnösségét megállapító jogerős ítélet meghozataláról haladéktalanul tájékoztatja a képviselő-testületet és a kormányhivatalt.
 
