@@ -8,7 +8,7 @@ c) az a)–b) pont alá tartozó személy közeli hozzátartozója,
 
 d) az a)–c) pontban megjelölt személy tulajdonában álló gazdasági társaság,
 
-e) olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja,
+e) olyan gazdasági társaság, szövetkezet, egyesülés, kamara, civil szervezet, vagyonkezelő alapítvány, közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagy egyházi jogi személy, illetve ezek által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy vagy önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az adott jogi személy felelős személye a pályázat vagy támogatás odaítéléséről szóló döntést megelőző két évben az a)–c) pont alá tartozó személynek minősült,
 
 f) az az egyesület vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező azon szervezeti egysége, valamint az egyházi jogi személy,
 

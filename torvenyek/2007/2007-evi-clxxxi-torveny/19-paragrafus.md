@@ -19,3 +19,5 @@ gb) a rendelkező nyilatkozat évét megelőző öt évben nem állított pártt
 (6) E törvény 6. § (1) bekezdés f) pont fa)–fb) alpontjaiban, illetve az Szjftv. 4. § (2) bekezdés g) pont ga)–gb) alpontjaiban meghatározott időtartamba nem számítható bele az e törvény hatálybalépése előtti időszak.
 
 (7) E törvény 6. §-át a Nemzeti Kulturális Alapból nyújtott támogatások tekintetében a 2008. december 31-ét követően kiírt pályázatokra kell alkalmazni.
+
+(8) E törvénynek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően indult támogatásokra, pályázatokra kell alkalmazni.
