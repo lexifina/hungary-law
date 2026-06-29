@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-131-00-00
 | 2022-10-26 | 2022. évi XXX. törvény | 2010-131-00-00.6 |
 | 2022-11-24 | 2022. évi XLIV. törvény | 2010-131-00-00.7 |
 | 2025-08-19 | 2025. évi LXV. törvény | 2010-131-00-00.8 |
+| 2026-06-29 | 2026. évi XVIII. törvény | 2010-131-00-00.9 |

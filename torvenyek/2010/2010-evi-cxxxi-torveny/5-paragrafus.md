@@ -28,12 +28,12 @@ d) az európai uniós, illetve nemzetközi forrásokból nyújtott támogatások
 
 e) a nemzetközi szerződés kihirdetéséről,
 
-f) a szervezet és intézmény alapításáról, valamint
+f) a szervezet és intézmény alapításáról
 
-g) az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. § (3) bekezdése és 46. § (3) bekezdése szerinti utónévjegyzékről
+g)
 
 szóló jogszabályok tervezeteit.
 
-(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
+(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
 
 (5)
