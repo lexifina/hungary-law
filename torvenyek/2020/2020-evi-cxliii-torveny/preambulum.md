@@ -1,1 +1,0 @@
-A magyar köznevelési intézményrendszer megerősítése és környezetének szélesítése, valamint a nevelési-oktatási tevékenységet folytató pedagógusok és a nevelésben-oktatásban részt vevők támogatása érdekében az Országgyűlés a következő törvényt alkotja:
