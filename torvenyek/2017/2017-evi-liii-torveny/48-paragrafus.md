@@ -1,4 +1,4 @@
-48. § (1) A pénzügyi információs egység az operatív elemzése eredményét kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése céljából továbbíthatja:
+48. § (1) A pénzügyi információs egység az operatív elemzése eredményét kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése, továbbá az európai uniós költségvetési források felhasználása ellenőrzésének az elősegítése céljából továbbíthatja:
 
 a) a nyomozó hatóság;
 

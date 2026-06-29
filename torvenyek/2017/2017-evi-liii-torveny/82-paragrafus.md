@@ -14,6 +14,8 @@ e) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK 
 
 f) a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
 
+g) a pénzügyi rendszer pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzése érdekében a tagállamok által létrehozandó mechanizmusokról, az (EU) 2019/1937 irányelv módosításáról, és az (EU) 2015/849 irányelv módosításáról és hatályon kívül helyezéséről szóló, 2024. május 31-i (EU) 2024/1640 európai parlamenti és tanácsi irányelv 10. cikkének
+
 való megfelelést szolgálja.
 
 (2) E törvény

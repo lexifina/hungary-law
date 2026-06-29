@@ -1,5 +1,7 @@
 46. § (1) A pénzügyi információs egység operatív elemzése keretében központi államigazgatási szerv hatáskörébe tartozó eljárás lefolytatására tehet javaslatot az eljárás megindításához, lefolytatásához szükséges és az eljárást lefolytató szerv által kezelhető adatok megküldésével. Az eljárás lefolytatása céljából megkeresett központi államigazgatási szerv a megküldött információk felhasználásának eredményéről, illetve – ha a javasolt eljárás lefolytatására sor került – az eljárás jogerős befejezését követően az eljárás eredményéről haladéktalanul tájékoztatja a pénzügyi információs egységet.
 
+(1a) A pénzügyi információs egység operatív elemzése keretében az Integritás Hatóság hatáskörébe tartozó eljárás lefolytatására tehet javaslatot az eljárás megindításához, lefolytatásához szükséges vagy azt elősegítő és az Integritás Hatóság által kezelhető adatok megküldésével.
+
 (2) A pénzügyi információs egység operatív elemzése keretében tájékoztatást küldhet az 5. §-ban meghatározott felügyeletet ellátó szerv vagy a cégbíróság hatáskörébe tartozó eljárás lefolytatásához. A felügyeletet ellátó szerv vagy a cégbíróság a tájékoztatás pénzügyi információs egység általi elküldésével jogosultságot szerez a tájékoztatásban szereplő adat, titok megismerésére.
 
 (3) Az 5. §-ban meghatározott felügyeletet ellátó szerv, illetve a cégbíróság a tájékoztatásban megküldött információk felhasználásának eredményéről a tárgyévet követő év március 31. napjáig tájékoztatja a pénzügyi információs egységet.

@@ -166,7 +166,7 @@ c) az 1. § (1) bekezdés k) pontjában meghatározott szolgáltató vonatkozás
 
 38. tényleges tulajdonos:
 
-a) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben közvetlenül vagy – a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) 8:2. § (4) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, vagy egyéb módon tényleges irányítást, ellenőrzést gyakorol a jogi személy vagy jogi személyiséggel nem rendelkező szervezet felett, ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
+a) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben (e pont alkalmazásában együtt: szervezet) közvetlenül vagy – a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) 8:2. § (4) bekezdésében meghatározott módon – közvetve a szavazati jogok vagy a tulajdoni hányad legalább huszonöt százalékával rendelkezik, vagy egyéb módon tényleges irányítást, ellenőrzést gyakorol a szervezet felett – ideértve különösen, ha a Ptk. 3:230. § (2) bekezdés c)–d) pontja szerinti elsőbbségi jogok közül legalább egyet megtestesítő részvényfajtával rendelkezik, vagy a tagsági jogviszonyára tekintettel a szervezet vagyonából vagy eredményéből legalább huszonöt százalékot elérő mértékű kifizetésben részesülhet, vagy az elmúlt öt üzleti év bármelyikében összesen legalább ekkora mértékű kifizetés került a számára előírásra –, ha a szervezet nem a szabályozott piacon jegyzett társaság, amelyre a közösségi jogi szabályozással vagy azzal egyenértékű nemzetközi előírásokkal összhangban lévő közzétételi követelmények vonatkoznak,
 
 b) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 8:2. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
 
@@ -196,15 +196,7 @@ ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes s
 
 f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
 
-g) zártkörű befektetési alap esetében
-
-ga) az a természetes személy, aki egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja,
-
-gb) olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén, amely a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja, e befektető a) vagy b) pont szerinti tényleges tulajdonosa,
-
-gc) az a természetes személy, aki az általa egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen birtokolt befektetési jegyek alapján jogosult a zártkörű befektetési alap kezelési szabályzata meghatározott feltételeinek módosításának jóváhagyására vagy az alapkezelés átruházásának jóváhagyására; továbbá ilyen jogosultsággal egyedül rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet befektető esetén e befektető a) vagy b) pont szerinti tényleges tulajdonosa, valamint
-
-gd) az a természetes személy, aki egyéb módon tényleges irányítást, ellenőrzést gyakorol a zártkörű befektetési alap felett
+g) a 48. pont szerinti zártkörű befektetési alap tényleges tulajdonosa;
 
 38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
 
@@ -267,3 +259,21 @@ c) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozás
 46. vagyon forrásának igazolása: az ügyfél hárommillió forintot meghaladó értékű vagyoni eszközeinek – beleértve a materiális vagy immateriális javakat – forrását bemutató ügyfél-nyilatkozat;
 
 47. virtuális fizetőeszköz: digitális értékmegjelenítés, amelyet nem központi bank vagy közigazgatási szerv bocsát ki, illetve garantál; nem rendelkezik törvényes fizetőeszköz jogi státuszával; elektronikusan tárolható, csereértékként elfogadott, így különösen elektronikusan átadható, illetve elektronikus kereskedésre alkalmas.
+
+48. zártkörű befektetési alap tényleges tulajdonosa:
+
+a) az a természetes személy, aki egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja,
+
+b) olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén, amely a befektetési alapban kibocsátott befektetési jegyek legalább 25%-át tulajdonolja, e befektető 38. pont a) vagy b) pont szerinti tényleges tulajdonosa,
+
+c) az a természetes személy, aki az általa egyedül vagy a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozójával együttesen birtokolt befektetési jegyek alapján jogosult a zártkörű befektetési alap kezelési szabályzata meghatározott feltételeinek módosításának jóváhagyására vagy az alapkezelés átruházásának jóváhagyására; továbbá ilyen jogosultsággal egyedül rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet befektető esetén e befektető 38. pont a) vagy b) pont szerinti tényleges tulajdonosa,
+
+d) az a természetes személy, aki egyéb módon tényleges irányítást, ellenőrzést vagy azzal gazdaságilag egyenértékű befolyást gyakorol a zártkörű befektetési alap felett, így különösen:
+
+da) az a természetes személy, aki a zártkörű befektetési alap kezelési szabályzata alapján – akár közvetlenül, akár közvetve – jogosult a zártkörű befektetési alap befektetési politikájának, befektetési döntéseinek, eszközallokációjának vagy kockázatkezelési rendszerének meghatározó befolyásolására, függetlenül attól, hogy befektetési jeggyel rendelkezik-e; e rendelkezés alkalmazásában meghatározó befolyásnak minősül különösen az, ha a természetes személy az alapkezelő befektetési döntéshozatali folyamatában szavazati- vagy vétójoggal rendelkezik, vagy ha az alapkezelő – a befektetési alap kezelési szabályzata alapján – rendszeresen és ténylegesen e személy utasításai alapján jár el;
+
+db) az a természetes személy, aki a zártkörű befektetési alap kezelési szabályzata vagy más, a befektetési alap működését szabályozó okirat alapján – akár egyedül, akár más befektetőkkel együttesen – olyan mértékű szavazati joggal rendelkezik, amely elegendő a kezelési szabályzat módosításához, az alapkezelés átruházásához vagy az alap megszüntetésének megindításához szükséges, a kezelési szabályzatban előírt befektetői jóváhagyás megakadályozásához;
+
+dc) az a természetes személy, aki az a)–c) alpontban nem nevesített más módon ténylegesen meghatározó befolyást képes gyakorolni a zártkörű befektetési alap döntéshozatalára vagy tevékenységére;
+
+e) amennyiben ezen pont a)–d) alpontja alapján egyetlen természetes személy sem azonosítható, a zártkörű befektetési alapot kezelő alapkezelő vezető tisztségviselője.
