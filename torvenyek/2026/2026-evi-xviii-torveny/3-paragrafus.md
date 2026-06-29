@@ -1,0 +1,1 @@
+3. § A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 12. §-ában az „a IV/B. Fejezet” szövegrész helyébe az „a IV/B–C. Fejezet” szöveg, a „17. §” helyébe a „17–18. §” szöveg lép.

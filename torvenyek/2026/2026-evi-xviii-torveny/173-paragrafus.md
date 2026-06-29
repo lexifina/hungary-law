@@ -1,0 +1,3 @@
+173. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény a következő 70/A. §-sal egészül ki:
+
+„70/A. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított 32. § (1) bekezdése és 34. § (1) bekezdése hatálybalépésekor be nem töltött elnökhelyettesi tisztség esetében a pályázatot az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított 32. § (1) bekezdése és 34. § (1) bekezdése hatálybalépését követő 5 napon belül kell kiírni.”

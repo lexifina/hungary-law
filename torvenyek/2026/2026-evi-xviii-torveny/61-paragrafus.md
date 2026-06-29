@@ -1,0 +1,5 @@
+## 19. A választási eljárásról szóló 2013. évi XXXVI. törvény módosítása
+
+61. § A választási eljárásról szóló 2013. évi XXXVI. törvény 19. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A Nemzeti Választási Bizottság választott tagja a megválasztását követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerinti tartalmú és formájú vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója (a továbbiakban: hozzátartozó) vagyonnyilatkozatát. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni, azzal, hogy az Országgyűlés Mentelmi Bizottsága a Nemzeti Választási Bizottság volt választott tagja, illetve hozzátartozója vagyonnyilatkozatát a megbízatása megszűnésétől számított három évig őrzi.”

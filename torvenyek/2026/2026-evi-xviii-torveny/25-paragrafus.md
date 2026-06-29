@@ -1,0 +1,1 @@
+25. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 9. § (6) és (8) bekezdésében az „a tagjai tekinthetnek be” szövegrész helyébe „a tagjai és az Integritás Hatóság tekinthetnek be” szöveg lép.

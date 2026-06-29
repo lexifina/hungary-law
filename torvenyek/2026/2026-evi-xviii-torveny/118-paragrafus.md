@@ -1,0 +1,5 @@
+118. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 186. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A politikai felsővezető személyijövedelemadó-bevallásából az összevont adóalap összege (adóalap csökkentő kedvezmények nélkül), az összevont adóalapot csökkentő adóalap kedvezmények összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános. Ezen adatokat a politikai felsővezető az Országgyűlés honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül az Országgyűlésnek megküldi.
+
+(2) A politikai felsővezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai felsővezető országgyűlési képviselői javadalmazására, illetve a politikai felsővezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat az Országgyűlés honlapján közzé kell tenni.”

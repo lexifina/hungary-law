@@ -1,0 +1,1 @@
+41. § Hatályát veszti a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 232/X. § (1) bekezdésében az „A szolgálati viszony szünetelését követően a bírót a választása szerinti ítélőtáblára kell beosztani.” szövegrész.
