@@ -62,8 +62,8 @@
 
 ## cégszerű aláírás
 
-1/A. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^88]
+1/A. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^89]
 
 A hulladékszállítás nyilvántartásba vételéhez kötött tevékenység bejelentése
 
-[^88]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
+[^89]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
