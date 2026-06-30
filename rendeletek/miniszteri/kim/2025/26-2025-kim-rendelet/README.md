@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-26-20-8
 | 2026-01-01 | 2025-26-20-8O.2 | 2010. évi CXXX. törvény |
 | 2026-02-01 | 2025-26-20-8O.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-02-02 | 2025-26-20-8O.4 | 2010. évi CXXX. törvény |
+| 2026-06-30 | 2025-26-20-8O.7 | 1/2026. (VI. 30.) SZCSM rendelet |

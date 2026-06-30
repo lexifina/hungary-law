@@ -2,4 +2,6 @@
 
 (2) Az 1. § 2026. február 1-jén lép hatályba.
 
-(3) A 4. § (2), (4)–(6) bekezdése, az 5. § (1) bekezdése és a 6–8. § 2026. július 1-jén lép hatályba.
+(3)[^16] A 4. § (2) bekezdése és (4)–(6) bekezdése, az 5. § (1) bekezdése, valamint a 6–8. § 2027. január 1-jén lép hatályba.
+
+[^16]: A 9. § (3) bekezdése az 1/2026. (VI. 30.) SZCSM rendelet 1. §-ával megállapított szöveg.
