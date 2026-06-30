@@ -1,4 +1,4 @@
-4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
+4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^104]
 
 1. N – Maximális heti munkaidő
 
@@ -68,4 +68,4 @@
 
 | 3 | R2 – az alkalmazott vagy önfoglalkoztató járművezetők meghamisítják az adatokat, vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 470 000 |
 
-[^102]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 13. § d) pontjával megállapított szöveg.
+[^104]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 13. § d) pontjával megállapított szöveg.

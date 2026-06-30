@@ -8,6 +8,6 @@
 
 | 4 | 3. | nem gépi meghajtású járművet – a kerékpár kivételével – vezető vagy hajtó szervezetében 0,50 gramm/liter véralkohol-, illetve 0,25 milligramm/liter levegőalkohol-koncentrációnál magasabb értéket eredményező szeszes ital fogyasztásából származó alkohol van, amennyiben az nem minősül bűncselekménynek, és a járművel a) nem főútvonalon közlekednek, b) főútvonalon közlekednek | 4. § (1) bekezdés c) pont és 4. § (4) bekezdés | 16 000 50 000 | járművezető, hajtó |
 
-11/E. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^113]
+11/E. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^115]
 
-[^113]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 220/2024. (VII. 31.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^115]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 220/2024. (VII. 31.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.

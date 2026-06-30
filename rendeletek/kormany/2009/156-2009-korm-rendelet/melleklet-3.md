@@ -1,4 +1,4 @@
-3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
+3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
 
 1. A – Személyzet
 
@@ -222,4 +222,4 @@
 
 | 5 | F4 – a járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 390 000 |
 
-[^100]: A 3. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^102]: A 3. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
