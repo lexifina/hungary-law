@@ -1,72 +1,4 @@
-## A „sárgalistás” hulladék behozatalával kapcsolatos adatszolgáltatási kötelezettség tartalma
-
-## 1. A „sárgalistás” hulladék behozatal tényleges megkezdésére vonatkozó előzetes tájékoztatási kötelezettség adattartalma (EHIR: SL-IMP-JEL):
-
-## 1.1. A kapcsolattartó személyre vonatkozó adatok:
-
-## a) teljes név;
-
-## b) beosztás;
-
-## c) elérhetőségek.
-
-## 1.2. A hulladék behozatalára vonatkozó adatok:
-
-## a) a szállítás tervezett dátuma;
-
-## b) a szállítás notifikációs száma (legördülő listából kiválasztható);
-
-## c) a szállítmány sorszáma;
-
-## d) a hulladék mennyisége és mértékegysége.
-
-## 1.3. A kitöltött IB. kísérődokumentumot PDF-formátumban kell feltölteni.
-
-## 2. A „sárgalistás” hulladék beérkezésére vonatkozó adatszolgáltatási kötelezettség adattartalma (EHIR:SL-IMP-ÉRK):
-
-## 2.1. A kapcsolattartó személyre vonatkozó adatok:
-
-## a) teljes név;
-
-## b) beosztás;
-
-## c) elérhetőségek.
-
-## 2.2. A hulladékbehozatali szállítások adatai:
-
-## a) a szállítmány átvételének dátuma;
-
-## b) a szállítás notifikációs száma (legördülő listából kiválasztható);
-
-## c) a szállítmány sorszáma;
-
-## d) a hulladék mennyisége és mértékegysége.
-
-## 2.3. A kitöltött IB. kísérődokumentumot PDF-formátumban kell feltölteni.
-
-## 3. A „sárgalistás” hulladék hasznosítására vagy ártalmatlanítására vonatkozó adatszolgáltatási kötelezettség teljesítésével kapcsolatos adatcsomag adattartalma (EHIR: SL-IMP-KEZ):
-
-## 3.1. A kapcsolattartó személyre vonatkozó adatok:
-
-## a) teljes név;
-
-## b) beosztás;
-
-## c) elérhetőségek.
-
-## 3.2. A hasznosított/ártalmatlanított hulladékokra vonatkozó adatok:
-
-## a) a hulladékkezelés dátuma;
-
-## b) a szállítás notifikációs száma (legördülő listából kiválasztható);
-
-## c) a szállítmány sorszáma;
-
-## d) a kezelt hulladék mennyisége és mértékegysége.
-
-## 3.3. A kitöltött IB. kísérődokumentumot PDF-formátumban kell feltölteni.
-
-3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^32]
+3. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^33]
 
 ## A „zöldlistás” hulladék kivitelével és behozatalával kapcsolatos adatszolgáltatási kötelezettség tartalma
 
@@ -98,6 +30,8 @@ g) a külföldi átvevő (címzett) neve;
 
 h) a kezelési művelet fajtája (D kódja, R kódja).
 
+i)[^34] a végleges hasznosítást végző létesítmény neve és a végleges hasznosítás R kódja (ha a hulladékszállítást hasznosítást megelőző műveletre szánják).
+
 1.3. A kitöltött VII-es kísérődokumentumot PDF-formátumban kell feltölteni.
 
 2. A „zöldlistás” hulladék behozatalával kapcsolatos adatszolgáltatási kötelezettség teljesítésével kapcsolatos adatcsomag adattartalma:
@@ -128,6 +62,10 @@ g) az átvételt végző hulladékkezelő KTJ-azonosítója (ha nem azonos a cí
 
 h) a hasznosítási művelet kódja (R kód).
 
+i)[^35] a végleges hasznosítást végző létesítmény neve, KÜJ és KTJ száma és a végleges hasznosítás R kódja (ha a hulladékszállítást hasznosítást megelőző műveletre szánják).
+
 2.3. A kitöltött VII-es kísérődokumentumot PDF-formátumban kell feltölteni.
 
-[^32]: A 3. számú melléklet a 302/2021. (VI. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^33]: A 3. számú melléklet a 302/2021. (VI. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^34]: A 3. számú melléklet 1.2. pont i) alpontját a 98/2026. (VI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^35]: A 3. számú melléklet 2.2. pont i) alpontját a 98/2026. (VI. 29.) Korm. rendelet 3. §-a iktatta be.

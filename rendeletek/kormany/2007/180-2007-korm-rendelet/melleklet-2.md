@@ -1,3 +1,3 @@
-2. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^31]
+2. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^32]
 
-[^31]: A 2. számú melléklet a 302/2021. (VI. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^32]: A 2. számú mellékletet a 98/2026. (VI. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja hatályon kívül helyezte.
