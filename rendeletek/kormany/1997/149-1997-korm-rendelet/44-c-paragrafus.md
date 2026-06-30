@@ -36,7 +36,7 @@ c) az eljárása megindításáról, ha a hathetes időtartam alatt a gyámhivat
 
 a) megteszi a 44/A. § (3) bekezdése szerinti intézkedést,
 
-b)[^333] megállapítja a gyermek örökbefogadhatóságának tényét, és erről értesíti a gyermekvédelmi szakszolgálatot, egyidejűleg az országos örökbefogadást elősegítő szervtől javaslatot kér az örökbe fogadni szándékozó szülők személyére és
+b)[^333] megállapítja a gyermek örökbefogadhatóságának tényét, és erről értesíti a gyermekvédelmi szakszolgálatot, egyidejűleg javaslatot kér az örökbe fogadni szándékozó szülők személyére és
 
 c) a 127. § (3) bekezdése szerint a gyermek részére gyermekvédelmi gyámot, helyettes gyermekvédelmi gyámot rendel.
 
@@ -59,7 +59,7 @@ b) nincs a gyermek örökbefogadására jelentkező személy.
 [^330]: A 44/C. § (4) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
 [^331]: A 44/C. § (4a) bekezdését az 1/2025. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^332]: A 44/C. § (5) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
-[^333]: A 44/C. § (5) bekezdés b) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^333]: A 44/C. § (5) bekezdés b) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § g) pontja, a 104/2026. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^334]: A 44/C. § (6) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § h) pontja, a 432/2025. (XII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^335]: A 44/C. § (7) bekezdése a 432/2025. (XII. 23.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
 [^336]: A 44/C. § (8) bekezdés a) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
