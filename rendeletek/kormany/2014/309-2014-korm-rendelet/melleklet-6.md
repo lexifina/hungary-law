@@ -190,10 +190,11 @@ Az újrahasználatra előkészített vagy újrafeldolgozott települési hullad�
 
 7. Az újrahasználatra való előkészítés, újrafeldolgozás vagy feltöltés céljából másik tagállamba küldött hulladék a Ht. 92. §-ában foglalt célértékek elérése szempontjából figyelembe vehető.
 
-8. Az újrahasználatra való előkészítés vagy újrafeldolgozás céljából az Unióból exportált hulladék a Ht. 92. §-a szerinti célértékek elérése szempontjából csak akkor vehető figyelembe, ha az exportőr a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendeletnek megfelelően bizonyítani tudja, hogy a hulladék szállítása megfelel az előírt követelményeknek, valamint hogy a hulladék kezelése az Unió területén kívül a vonatkozó uniós környezetvédelmi jog követelményeivel lényegében egyenértékű feltételek mellett történt.
+8.[^133] Az újrahasználatra való előkészítés vagy újrafeldolgozás céljából az Unióból exportált hulladék a Ht. 92. §-a szerinti célértékek elérése szempontjából csak akkor vehető figyelembe, ha az exportőr a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1157 európai parlamenti és tanácsi rendeletnek megfelelően bizonyítani tudja, hogy a hulladék szállítása megfelel az előírt követelményeknek, valamint hogy a hulladék kezelése az Unió területén kívül a vonatkozó uniós környezetvédelmi jog követelményeivel lényegében egyenértékű feltételek mellett történt.
 
 9. A célérték kiszámítása során figyelembe kell venni a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozatban foglaltakat.
 
 [^130]: A 6. mellékletet a 158/2021. (III. 31.) Korm. rendelet 28. § a) pontja iktatta be.
 [^131]: A 6. melléklet 1.1. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § o) pontja szerint módosított szöveg.
 [^132]: A 6. melléklet 5. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § p) pontja szerint módosított szöveg.
+[^133]: A 6. melléklet 8. pontja a 98/2026. (VI. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
