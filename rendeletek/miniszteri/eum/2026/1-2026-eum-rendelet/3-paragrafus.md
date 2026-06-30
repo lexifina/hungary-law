@@ -1,1 +1,3 @@
-3. § Az R. 3. § (1) bekezdés g) pontjában az „irányelvnek” szövegrész helyébe az „irányelvnek,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

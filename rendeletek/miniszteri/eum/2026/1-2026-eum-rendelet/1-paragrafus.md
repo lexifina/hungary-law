@@ -6,6 +6,6 @@
 
 ## [4] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5a) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 56. § (1) bekezdés b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet (a továbbiakban: R.) 3. § (1) bekezdése a következő h) ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
