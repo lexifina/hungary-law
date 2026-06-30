@@ -1,4 +1,4 @@
-3. § (1) Magyarország az üvegházhatású gázok kibocsátását legalább 40%-kal csökkenti 2030-ig az 1990. évhez képest.
+3. § (1)
 
 (2) Magyarország 2030-at követően a végső energiafelhasználás 2005. évi szintet meghaladó növekedése esetén a növekményt kizárólag karbonsemleges energiaforrásból biztosítja.
 
