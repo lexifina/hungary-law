@@ -16,7 +16,7 @@ f) a jogszabállyal kötelezően előírt építtetői fedezetkezelő közreműk
 
 g) az építtetői fedezetkezelő megkeresése alapján fedezet hiányában vagy
 
-h)[^72] a rendeltetési egységek számának és rendeltetésének megváltoztatása, valamint a településképi követelmények kivételével szakszerűtlenül
+h)[^74] a rendeltetési egységek számának és rendeltetésének megváltoztatása, valamint a településképi követelmények kivételével szakszerűtlenül
 
 végzik.
 
@@ -34,4 +34,4 @@ végzik.
 
 (8) A (2) bekezdés szerinti döntés, valamint a (7) bekezdés szerinti határozat végrehajtásának teljesítését az építésügyi hatóság a helyszínen ellenőrzi.
 
-[^72]: Az 56. § (1) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 34. pontja szerint módosított szöveg.
+[^74]: Az 56. § (1) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 34. pontja szerint módosított szöveg.

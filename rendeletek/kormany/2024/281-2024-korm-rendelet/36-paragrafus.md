@@ -1,6 +1,6 @@
 ## 28. A használatbavételi eljárás általános szabályai
 
-36. § (1)[^38] Az építésügyi hatóság az eljárás megindulásáról értesítést, hiánypótlást nem bocsát ki, kivéve, ha az eljárásban szakkérdés vizsgálata szükséges.
+36. § (1)[^40] Az építésügyi hatóság az eljárás megindulásáról értesítést, hiánypótlást nem bocsát ki, kivéve, ha az eljárásban szakkérdés vizsgálata szükséges.
 
 (2) A használatbavételi eljárás során az építésügyi hatóság meggyőződik arról, hogy
 
@@ -28,7 +28,7 @@ ib) közhasználatú építmény, építményrész esetén a rehabilitációs k�
 
 j) új épület építése vagy meglévő épület – az ingatlan-nyilvántartási térképi adatbázisban változást eredményező – bővítése esetén az ingatlanügyi hatóság által érvényes záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben előírt változási vázrajz az OÉNY-be feltöltésre került-e,
 
-k)[^39] ha szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentáció rendelkezésre áll-e,
+k)[^41] ha szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentáció rendelkezésre áll-e,
 
 l) a 35. § (4) bekezdés d) pontjában meghatározott zöldfelületi tanúsítvány rendelkezésre áll-e, valamint
 
@@ -40,5 +40,5 @@ mb) meglévő épület bővítése esetén a 35. § (4) bekezdés e) pontjában 
 
 (3) Az építésügyi hatóság a használatbavételi eljárásban szakkérdést vizsgál, ha a 3. mellékletben meghatározott valamely szakkérdés tekintetében a vizsgálat feltételei fennállnak.
 
-[^38]: A 36. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
-[^39]: A 36. § (2) bekezdés k) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.
+[^40]: A 36. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
+[^41]: A 36. § (2) bekezdés k) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.

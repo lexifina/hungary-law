@@ -2,7 +2,7 @@
 
 27. § (1) Az építési engedély iránti kérelem tárgyában hozott döntés szóban nem közölhető.
 
-(2)[^32] Az iratazonosítóval ellátott döntést az értesítendők nevének és elérhetőségének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
+(2)[^34] Az iratazonosítóval ellátott döntést az értesítendők nevének és elérhetőségének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
 
 a) azzal, akinek az építési tevékenységgel érintett telekre, építményre vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, és ügyféli jogállással nem rendelkezik,
 
@@ -32,4 +32,4 @@ e) a munkavédelmi hatósági hatáskörében eljáró fővárosi és vármegyei
 
 (6) Az építési engedélyezési eljárás során hozott végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-[^32]: A 27. § (2) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 16. pontja szerint módosított szöveg.
+[^34]: A 27. § (2) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 16. pontja szerint módosított szöveg.

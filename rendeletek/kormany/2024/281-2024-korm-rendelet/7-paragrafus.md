@@ -22,7 +22,7 @@ fc) az építési tevékenységgel összefüggésben beszerzett egyéb hatóság
 
 g) a kérelemhez csatolt mellékletek felsorolását,
 
-h)[^3] a kérelmező által választott kapcsolattartási módot, ha a kérelmező nem rendelkezik a Dáptv. 25. § (2) bekezdése szerinti hivatalos elérhetőséggel és
+h)[^4] a kérelmező által választott kapcsolattartási módot, ha a kérelmező nem rendelkezik a Dáptv. 25. § (2) bekezdése szerinti hivatalos elérhetőséggel és
 
 i) személyes benyújtás esetén az építtető aláírását.
 
@@ -30,9 +30,9 @@ i) személyes benyújtás esetén az építtető aláírását.
 
 (3) Ha a kérelmet a meghatalmazott az ÉTDR felületén nyújtja be és az építtető az elektronikus ügyintézési rendelkezésében a kérelemmel érintett ügyben meghatalmazást nem adott, csatolni kell a meghatalmazás építtető által elektronikusan aláírt vagy hitelesített másolatát, több építtető esetén személyenként külön-külön hitelesítve.
 
-(4)[^4]
+(4)[^5]
 
 (5) A kérelem benyújtásával egyidejűleg igazolni kell az igazgatási szolgáltatási díj megfizetését.
 
-[^3]: A 7. § (1) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 2. pontja szerint módosított szöveg.
-[^4]: A 7. § (4) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 46. §-a hatályon kívül helyezte. [A 448/2025. (XII. 29.) Korm. rendelet 93. § a) pontja által elrendelt módosítás, amely szerint hatályát veszti a 7. § (4) bekezdése, nem vezethető át.]
+[^4]: A 7. § (1) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 2. pontja szerint módosított szöveg.
+[^5]: A 7. § (4) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 46. §-a hatályon kívül helyezte. [A 448/2025. (XII. 29.) Korm. rendelet 93. § a) pontja által elrendelt módosítás, amely szerint hatályát veszti a 7. § (4) bekezdése, nem vezethető át.]

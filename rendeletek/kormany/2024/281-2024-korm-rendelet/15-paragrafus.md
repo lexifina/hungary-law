@@ -4,7 +4,7 @@
 
 (2) Ha az építésügyi hatóság engedélyezési eljárásában a 3. mellékletben meghatározott valamely szakkérdés vizsgálatának van helye, a kérelemhez csatolni kell a 2. mellékletben az adott szakkérdés vizsgálatához előírt dokumentációt.
 
-(3)[^10] Az Ákr. szerinti jogszerű hallgatásnak van helye
+(3)[^12] Az Ákr. szerinti jogszerű hallgatásnak van helye
 
 a) az egyszerű bejelentési eljárásban,
 
@@ -22,15 +22,15 @@ b) az állami főépítész vagy a területi építészeti tervtanács vélemén
 
 (6) Az építésügyi hatóságot a döntése meghozatalában köti az országos építészeti tervtanács, az állami főépítész vagy a területi építészeti tervtanács által a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet szerinti egyedi eltérés tárgyában hozott vélemény.
 
-(7)[^11] Az építésügyi hatóság a hatályos egyszerű bejelentés és az építési engedély tekintetében bejelentés alapján a jogutódlást hallgatással tudomásul veszi, amelyről a belépő és kilépő építtetőt, valamint az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosát értesíti, ha nyolc napon belül a bejelentés megtagadásának nincs helye.
+(7)[^13] Az építésügyi hatóság a hatályos egyszerű bejelentés és az építési engedély tekintetében bejelentés alapján a jogutódlást hallgatással tudomásul veszi, amelyről a belépő és kilépő építtetőt, valamint az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosát értesíti, ha nyolc napon belül a bejelentés megtagadásának nincs helye.
 
-(7a)[^12] A Méptv. 163. § (8) bekezdése szerinti jogutódlás bejelentését az építtetői kör minden tagjának a belépő és kilépő építtetők közös, teljes bizonyító erejű magánokiratba foglalt nyilatkozatával kell megtenni.
+(7a)[^14] A Méptv. 163. § (8) bekezdése szerinti jogutódlás bejelentését az építtetői kör minden tagjának a belépő és kilépő építtetők közös, teljes bizonyító erejű magánokiratba foglalt nyilatkozatával kell megtenni.
 
-(7b)[^13] A jogutódlással kapcsolatos eljárás során az építésügyi hatóság a 11. § (1) bekezdésében meghatározott eljárás megindulásáról szóló értesítést mellőzi.
+(7b)[^15] A jogutódlással kapcsolatos eljárás során az építésügyi hatóság a 11. § (1) bekezdésében meghatározott eljárás megindulásáról szóló értesítést mellőzi.
 
 (8) Ha több mint ötven ügyfél érintett az eljárásban, az építésügyi hatóság döntését – az építtető kivételével – hirdetmény útján közli.
 
-(9)[^14]
+(9)[^16]
 
 (10) Nem minősül jogszerűtlen építési tevékenységnek, ha az építési engedély vagy az egyszerű bejelentés mellékletét képező építészeti-műszaki dokumentációtól úgy térnek el, hogy az eltérés nem nagyobb, mint az engedélyezett vagy bejelentett építmény
 
@@ -40,8 +40,8 @@ b) beépítési magasságának 1%-a, de legfeljebb 0,2 méter,
 
 c) helyszínrajzi elhelyezéséhez képest 0,1 méter.
 
-[^10]: A 15. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
-[^11]: A 15. § (7) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
-[^12]: A 15. § (7a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdése iktatta be.
-[^13]: A 15. § (7b) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdése iktatta be.
-[^14]: A 15. § (9) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 93. § c) pontja hatályon kívül helyezte.
+[^12]: A 15. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
+[^13]: A 15. § (7) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^14]: A 15. § (7a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdése iktatta be.
+[^15]: A 15. § (7b) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 78. § (2) bekezdése iktatta be.
+[^16]: A 15. § (9) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 93. § c) pontja hatályon kívül helyezte.
