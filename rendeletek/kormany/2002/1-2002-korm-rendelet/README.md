@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-22
 | 2023-04-10 | 2002-1-20-22.14 | 116/2023. (IV. 5.) Korm. rendelet |
 | 2025-01-01 | 2002-1-20-22.15 | 340/2024. (XI. 14.) Korm. rendelet |
 | 2025-03-01 | 2002-1-20-22.16 | 60/2007. (III. 31.) Korm. rendelet |
+| 2026-06-30 | 2002-1-20-22.17 | 99/2026. (VI. 29.) Korm. rendelet |
