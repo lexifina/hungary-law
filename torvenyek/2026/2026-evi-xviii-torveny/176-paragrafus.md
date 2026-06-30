@@ -1,8 +1,8 @@
 176. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény
 
-a) 39. § (6) bekezdésében a „harminc” szövegrész helyébe a „hatvan” szöveg,
+a)
 
-b) 39. § (7) bekezdésében a „fellebbezésnek van helye” szövegrész helyébe a „halasztó hatályú fellebbezésnek van helye” szöveg,
+b)
 
 c)
 

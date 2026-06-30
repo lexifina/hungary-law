@@ -1,3 +1,1 @@
-74. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény a következő 203/D. §-sal egészül ki:
-
-„203/D. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény (a továbbiakban: Módtv2.) módosított, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 1. § a) pontja alapján a Kbftv. hatálya alá kerülő befektetési alap alapkezelője 2026. szeptember 30-ig megfelel a Módtv2.-vel beiktatott rendelkezéseknek.”
+### 74. §

@@ -1,15 +1,1 @@
-135. § A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény a következő 31/D–31/I. §-sal egészül ki:
-
-„31/D. § Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 6. § (4) bekezdés szerinti megbízatási időtartam a már kinevezett kuratóriumi tagra és felügyelőbizottsági tagra is alkalmazandó azzal, hogy amennyiben a megbízatása Módtv3.-mal megállapított e rendelkezés hatálybalépése napján 4 évnél hosszabb ideje tart, a megbízatása a 15. § (1a) bekezdése szerinti eljárás lefolytatását követő új tag kijelölésének napján megszűnik.
-
-31/E. § A 15/A. § (1) bekezdés szerinti vagyonnyilatkozat-tételi kötelezettség, valamint a 15/B. § (1) bekezdés szerinti összeférhetetlenségi nyilatkozat-tételi kötelezettség a már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére is alkalmazandó azzal, hogy amennyiben a megbízatása a Módtv3. hatálybalépése okán a 31/D. § szerinti időpontban megszűnik, köteles a megbízatásának megszűnését követő 30 napon belül nem nyilvános vagyonnyilatkozatot tenni az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, valamint köteles összeférhetetlenségi nyilatkozatot tenni.
-
-31/F. § Amennyiben az Állami Számvevőszék a 15. § (1d) bekezdése alapján megállapítja a Módtv3. hatálybalépésekor már kinevezett kuratóriumi tagra, felügyelőbizottsági tagra, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselőjére vonatkozóan a függetlenségének, feddhetetlenségének, pártatlanságának vagy integritásának hiányát, az adott személy a tisztségéből eredő jogait nem gyakorolhatja, díjazásban nem részesülhet.
-
-31/G. § A 2. mellékletben felsorolt, azon közfeladatot ellátó közérdekű vagyonkezelő alapítványt, amely közfeladatként nem lát el felsőoktatási tevékenységet, az alapítói jogok gyakorlója 2026. augusztus 31-ig, a felsőoktatási tevékenységet közfeladatként ellátó közfeladatot ellátó közérdekű vagyonkezelő alapítványt 2027. augusztus 1. napjáig megszünteti. Törvény állapítja meg a felsőoktatási tevékenységet közfeladatként ellátó közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagyoni viszonyai rendezésének, közfeladatai és egyéb feladatai ellátásának, illetve megszűnésének szabályait.
-
-31/H. § A Módtv3.-mal megállapított 22. § (4a) bekezdésben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 12. § (7) bekezdésére vonatkozó rendelkezésének a felsőoktatási intézmény legkésőbb 2026. október 31. napjáig biztosítja a megfelelést.
-
-31/I. § (1) A 6. § (4) bekezdése a Módtv3. hatálybalépésekor az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője tekintetében, a Módtv3. hatálybalépésekor fennálló megbízatására figyelemmel, 2027. augusztus 1. napjáig nem alkalmazható.
-
-(2) Az (1) bekezdés szerinti eltérés 2027. augusztus 2. napjától nem alkalmazható. Az e rendelkezés alapján 2027. augusztus 1. napján az alapítvány által létesített vagy fenntartott jogi személy vezető tisztviselőjének megbízatása 2027. augusztus 2. napján e törvény erejénél fogva megszűnik.”
+### 135. §

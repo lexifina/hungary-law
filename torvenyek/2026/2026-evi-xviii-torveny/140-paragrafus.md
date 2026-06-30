@@ -1,3 +1,3 @@
 ## 35. A Magyar Kultúráért Alapítvány létrehozásáról, valamint a Magyar Kultúráért Alapítvány és a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatásról szóló 2021. évi XVI. törvény hatályon kívül helyezése
 
-140. § Hatályát veszti a Magyar Kultúráért Alapítvány létrehozásáról, valamint a Magyar Kultúráért Alapítvány és a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatásról szóló 2021. évi XVI. törvény.
+### 140. §

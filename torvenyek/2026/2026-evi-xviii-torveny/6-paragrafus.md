@@ -1,5 +1,1 @@
-## „j) az Országos Bírósági Hivatal igazságügyi alkalmazott elnökhelyettese.”
-
-6. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy, illetve az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerinti feladatkörében eljáró Integritás Hatóság ellenőrzi. A nyilatkozat tartalmát az őrzésért felelős személy abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről, az Integritás Hatóság eljárása esetében az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint jár el.”
+### 6. §

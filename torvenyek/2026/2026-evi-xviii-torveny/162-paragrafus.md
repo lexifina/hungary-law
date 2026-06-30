@@ -1,3 +1,1 @@
-162. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 35. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül, az Alkalmassági Bizottság által a jelöltek sorrendjére vonatkozó megállapításra figyelemmel, a névsor kézhezvételét követő 5 napon belül teszi meg. Az Alkalmassági Bizottság által megállapított sorrendtől az Állami Számvevőszék elnöke kivételesen, indokolt esetben térhet el, és az eltérés indokait az (1) bekezdés szerinti javaslatban be kell mutatni.”
+### 162. §

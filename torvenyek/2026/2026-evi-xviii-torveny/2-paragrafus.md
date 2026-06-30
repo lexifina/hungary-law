@@ -1,3 +1,1 @@
-2. § A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény VI. Fejezete a következő 18. §-sal egészül ki:
-
-„18. § A központi költségvetésből állami támogatásban részesülő párt civil szervezetek névjegyzékében feltüntetett képviselője az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.”
+### 2. §
