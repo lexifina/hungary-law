@@ -1,6 +1,6 @@
 ## Radioaktív anyaggal visszaélés
 
-250. § (1) Aki veszélyes radioaktív anyagot engedély vagy bejelentés nélkül, illetve az engedély kereteit túllépve
+250. § (1) Aki nukleáris vagy más radioaktív anyagot engedély vagy bejelentés nélkül, illetve az engedély kereteit túllépve
 
 a) előállít, tárol, elhelyez, szállít,
 
@@ -14,4 +14,6 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (4) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(5) E § alkalmazásában veszélyes radioaktív anyag: a természetben előforduló vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője ionizáló sugárzást bocsát ki, és amely az emberi életre és egészségre, vagy az élő és élettelen környezetre veszélyes.
+(5) E § alkalmazásában nukleáris vagy radioaktív anyag alatt az atomenergiáról szóló törvényben meghatározott fogalmat kell érteni.
+
+(6) Nem büntethető nukleáris vagy más radioaktív anyaggal való visszaélés miatt az, akinek a nukleáris vagy radioaktív anyag tárolására jogosító sugárvédelmi vagy fizikai védelmi engedélyének (e § alkalmazásában a továbbiakban együtt: engedély) időbeli hatálya az engedély időbeli hatályának meghosszabbítására vagy az új engedély megszerzésére irányuló, az atomenergia-felügyeleti szerv előtt folyamatban lévő közigazgatási hatósági eljárás során szűnik meg, és az általa birtokolt nukleáris vagy radioaktív anyagot az atomenergia-felügyeleti szerv által korábban kiadott, megszűnt időbeli hatályú engedélyben meghatározott tárolási helyen tárolja.

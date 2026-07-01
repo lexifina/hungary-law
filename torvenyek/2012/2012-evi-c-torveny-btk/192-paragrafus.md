@@ -8,7 +8,7 @@ b) az a) pontban meghatározott cselekmény megvalósítása érdekében száll�
 
 bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra, vagy jogellenes cselekmény folytatására
+(2) Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra – ideértve a házasságkötést, az örökbefogadást, az egészségügyről szóló törvényben meghatározott emberi reprodukcióra irányuló különleges eljárástól eltérő emberi reprodukciós eljárást is – vagy jogellenes cselekmény folytatására
 
 a) megtévesztéssel, a sértett nevelésével, felügyeletével, gondozásával, gyógykezelésével kapcsolatos, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve, vagy a sértett kiszolgáltatott helyzetét kihasználva rábír, vagy
 
