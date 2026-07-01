@@ -1,1 +1,1 @@
-### 173. §
+173. § A Pmt. 54. § (1) bekezdésében a „valamint a 44. § és a 46. § alapján megkeresett szerv” szövegrész helyébe az „a 44. § és a 46. § alapján megkeresett szerv, valamint a 46/A. § alapján információ-megosztásban részesülő szolgáltató és az 5. §-ban meghatározott felügyeletet ellátó szerv” szöveg lép.
