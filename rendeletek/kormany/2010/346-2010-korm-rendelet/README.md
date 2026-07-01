@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2025-03-01 | 2010-346-20-22.41 | 24/2025. (II. 27.) Korm. rendelet |
 | 2025-08-01 | 2010-346-20-22.42 | 230/2025. (VII. 31.) Korm. rendelet |
 | 2026-01-01 | 2010-346-20-22.44 | 483/2025. (XII. 31.) Korm. rendelet |
+| 2026-07-01 | 2010-346-20-22.43 | 230/2025. (VII. 31.) Korm. rendelet |
