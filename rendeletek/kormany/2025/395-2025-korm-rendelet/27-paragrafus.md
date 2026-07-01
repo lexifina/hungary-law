@@ -1,5 +1,5 @@
 ## 17. A Modern Városok Program keretében egyes közlekedési beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 167/2017. (VI. 28.) Korm. rendelet módosítása
 
-27. §[^35]
+27. §[^28]
 
-[^35]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

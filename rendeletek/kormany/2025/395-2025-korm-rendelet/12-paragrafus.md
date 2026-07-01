@@ -1,14 +1,12 @@
 12. § Hatályát veszti az R4.
 
-a)[^18]
+a) 6. § (2) bekezdés e)–f) pontja,
 
-b)[^19]
+b)[^14]
 
-c)[^20]
+c)[^15]
 
-d)[^21]
+d) 12. § (1) bekezdés e) pontjában az „a 6. § (1) bekezdés e) pontja szerinti adatok alapján” szövegrész.
 
-[^18]: A 12. § a) pontja az 50. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
-[^19]: A 12. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 12. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 12. § d) pontja az 50. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^14]: A 12. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
