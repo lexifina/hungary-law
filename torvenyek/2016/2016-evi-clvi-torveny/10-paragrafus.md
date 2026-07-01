@@ -26,7 +26,7 @@ i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftv
 
 j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 
-k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
+k) Nemzeti Turisztikai Adatszolgáltató Központban a regisztrációra és adatszolgáltatásra kötelezett szálláshelyek, az adatszolgáltatásra kötelezett vendéglátó üzletek és a regisztrációra és adatszolgáltatásra kötelezett turisztikai attrakciók körét;
 
 l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos regisztrációs és adatszolgáltatási kötelezettségei ellenőrzésére jogosult szervet, a kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
