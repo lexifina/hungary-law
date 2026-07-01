@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+2. § A 25/2013. (V. 31.) NFM rendelet 1. melléklete helyébe az 1. melléklet lép.

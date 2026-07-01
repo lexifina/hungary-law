@@ -1,3 +1,3 @@
-1. melléklet a 34/2025. (XI. 30.) ÉKM rendelethez[^9]
+1. melléklet a 34/2025. (XI. 30.) ÉKM rendelethez
 
-[^9]: Az 1. melléklet a 9. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+„1. melléklet a 25/2013. (V. 31.) NFM rendelethez
