@@ -1,0 +1,7 @@
+2. § (1) A munkáltató a 2026. évi tanárbéremelésről és az ahhoz nyújtott központi költségvetési támogatásról szóló 435/2025. (XII. 23.) Korm. rendelet (a továbbiakban: Kormányrendelet) 2. § (1) bekezdése alapján rögzített átlagos illetményemelésen túl további 0,4 százalékpontos illetményemelést köteles intézményi szinten végrehajtani a (2) és (3) bekezdésben foglaltak figyelembevételével.
+
+(2) A munkáltató a pedagógusok megemelendő illetményét 2026. január 1-jétől visszamenőlegesen – ha a pedagógus köznevelési foglalkoztatotti jogviszonya, közalkalmazotti jogviszonya, illetve munkaviszonya ennél későbbi időpontban jött létre, a jogviszonya kezdetétől visszamenőlegesen –, a Gyakornok fokozatba soroltak kivételével, egyénenként legalább 0,3 százalékpontos mértékben köteles emelni a Kormányrendelet szerint végrehajtott emelésen felül. Megemelendő illetménynek a 2025. december 1-jei, ha pedig a jogviszony később jött létre, a jogviszony létesítése időpontjában érvényes illetményt kell tekinteni.
+
+(3) Az (1) bekezdés szerint elvárt bérfejlesztési kötelezettség végrehajtásának részét képezi a (2) bekezdésben meghatározott illetményemelés mellett az egyes pedagógus feladatok ellátásáért fizetendő megbízási díjak és tartós pótlékok – Gyakornoki fokozathoz tartozó illetmény emelkedéséből adódó – jogszabály szerinti korrekciója is.
+
+(4) Az (1) bekezdés szerinti emeléskor alkalmazni kell a Kormányrendelet 2. § (2)–(6) bekezdését.
