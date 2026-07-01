@@ -14,9 +14,9 @@
 
 (7)[^53] A vasúti társaság az üzletszabályzatban meghatározza a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját és a benyújtásra nyitva álló határidőt.
 
-(8)[^54] A (7) bekezdés szerinti határidő legfeljebb az utazás tervezett megkezdését megelőző 36 óra lehet.
+(8)[^54] A (7) bekezdés szerinti határidő legfeljebb az utazás tervezett megkezdését megelőző 24 óra lehet.
 
 [^51]: A 13. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
 [^52]: A 13. § (5) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
 [^53]: A 13. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be, szövege a 255/2025. (VIII. 11.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^54]: A 13. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^54]: A 13. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be, szövege a 223/2023. (VI. 6.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
