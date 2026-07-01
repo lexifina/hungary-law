@@ -1,6 +1,6 @@
 ## Bűncselekménnyel összefüggő vagyon, dolog, adat felkutatása
 
-820. § (1) A 819. § (1) bekezdése esetén az ügyészség vagy a nyomozó hatóság a bűncselekménnyel összefüggő vagyon, dolog, adat felkutatását vagy a lefoglalt dologra vonatkozó tulajdonjog tisztázását (a továbbiakban együtt: vagyonkutatás) rendeli el, ha feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető és
+820. § (1) A 819. § (1) bekezdése esetén az ügyészség vagy a nyomozó hatóság a bűncselekménnyel összefüggő vagyon, dolog, adat felkutatását vagy a lefoglalás tárgyára vonatkozó tulajdonjog tisztázását (a továbbiakban együtt: vagyonkutatás) rendeli el, ha feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető és
 
 a) nem indult nyomozás, vagy
 
@@ -8,7 +8,7 @@ b) az eljárás adatai alapján
 
 ba) az elkobzás, vagyonelkobzás, elektronikus adat hozzáférhetetlenné tétele, tárhelyszolgáltatás megszüntetése, vagy
 
-bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
+bb) a lefoglalás tárgyának állami tulajdonba vétele tárgyában nem lehet érdemben állást foglalni.
 
 (2) A 819. § (2) bekezdése esetén a bíróság jogerős ügydöntő határozatát követően az ügyészség vagyonkutatást rendel el
 

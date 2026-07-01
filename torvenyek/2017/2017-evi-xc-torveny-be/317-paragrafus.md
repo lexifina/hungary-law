@@ -1,1 +1,1 @@
-317. § A lefoglalt dolog megváltására, értékesítésére és elkobzására, valamint a lefoglalás megszüntetésére és visszatartására vonatkozó rendelkezéseket az elektronikus adatra is megfelelően alkalmazni kell.
+### 317. §

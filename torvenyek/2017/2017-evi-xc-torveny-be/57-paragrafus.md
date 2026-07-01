@@ -6,7 +6,7 @@
 
 57. § (1) Vagyoni érdekelt az a természetes vagy nem természetes személy, aki vagy amely
 
-a) elkobozható vagy lefoglalt dolog tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
+a) elkobozható dolog vagy a lefoglalás tárgyának tulajdonosa, vagy arra nézve a tulajdonjog valamely tulajdonosi részjogosítványával rendelkezik,
 
 b) olyan vagyonnal rendelkezni jogosult, amelyre vagyonelkobzás rendelhető el,
 

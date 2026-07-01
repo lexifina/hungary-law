@@ -12,7 +12,7 @@ d) nem várható, hogy az eltávolításra kötelezett észszerű időn belül t
 
 (2) A bíróság, az ügyészség vagy a nyomozó hatóság a határozatával az elektronikus hírközlési szolgáltatókat kötelezi az elektronikus adathoz való hozzáférés ideiglenes megakadályozására. A határozatot az elektronikus adat felett rendelkezésre jogosultnak akkor kell kézbesíteni, ha az eljárás addigi adatai alapján személye és elérhetősége ismert.
 
-(3) A bíróság az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését haladéktalanul közli a Nemzeti Média- és Hírközlési Hatósággal (a továbbiakban: NMHH), amely a kényszerintézkedés végrehajtását szervezi és ellenőrzi.
+(3) A bíróság, az ügyészség vagy a nyomozó hatóság az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának elrendelését haladéktalanul közli a Nemzeti Média- és Hírközlési Hatósággal (a továbbiakban: NMHH), amely a kényszerintézkedés végrehajtását szervezi és ellenőrzi.
 
 (4) Az NMHH az elektronikus adathoz való hozzáférés ideiglenes megakadályozására vonatkozó kötelezettséget bevezeti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisába, ezzel egyidejűleg a bíróság határozatáról elektronikus úton haladéktalanul tájékoztatja az elektronikus hírközlési szolgáltatókat, amelyek a tájékoztatástól számított egy munkanapon belül kötelesek az elektronikus adathoz való hozzáférés ideiglenes megakadályozására. Ha valamely elektronikus hírközlési szolgáltató a kötelezettséget nem teljesíti, az NMHH erről haladéktalanul tájékoztatja a bíróságot.
 

@@ -1,0 +1,3 @@
+333/J. § (1) A lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékesítéséből befolyt ellenértéke a lefoglalás tárgyának vagy a zár alá vett vagyonnak a helyébe lép, amelyre a kényszerintézkedés külön határozat nélkül kiterjed, és a lefoglalás vagy a zár alá vétel eredeti tárgya tekintetében az értékesítéssel megszűnik.
+
+(2) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.

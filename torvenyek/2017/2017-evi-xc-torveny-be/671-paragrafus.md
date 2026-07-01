@@ -26,7 +26,7 @@
 
 11. sportrendezvények látogatásától való eltiltás esetén sportszövetség vagy sportlétesítmény meghatározásáról,
 
-12. az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, a lefoglalt dologról, a zár alá vétel feloldásáról vagy a tárhelyszolgáltatás felfüggesztésének a megszüntetéséről,
+12. az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, a tárhelyszolgáltatás megszüntetéséről, a lefoglalás tárgyáról, a zár alá vétel feloldásáról vagy a tárhelyszolgáltatás felfüggesztésének a megszüntetéséről,
 
 13. a próbára bocsátás megszüntetéséről,
 

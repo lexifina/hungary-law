@@ -1,0 +1,11 @@
+## A vagyoni biztosíték
+
+333/F. § (1) A vagyoni biztosíték olyan, a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv által meghatározott összeg, amelynek célja annak biztosítása, hogy a lefoglalás vagy a zár alá vétel vagyoni értékként kezelhető tárgya tekintetében a lefoglalás vagy a zár alá vétel az érintett őrizetében hagyással vagy a megőrzés más módon történő biztosításával legyen végrehajtható.
+
+(2) A vagyoni értékként kezelhető tárgy tekintetében a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv hivatalból vagy a vagyoni érdekelt indítványára rendelkezhet arról, hogy vagyoni biztosíték letétele esetén a lefoglalás vagy a zár alá vétel az érintett őrizetében hagyással vagy a vagyoni érdekelt által indítványozott más módon történő biztosításával végrehajtható.
+
+(3) A vagyoni biztosítékot a vagyoni érdekelt teheti le. A vagyoni biztosíték tárgya pénz lehet, annak összegét a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv határozza meg, de az nem haladhatja meg a lefoglalás tárgyának vagy a zár alá vett vagyonnak az értékét, és nem lehet kevesebb százezer forintnál. A vagyoni biztosíték letételét követően a kényszerintézkedést a (2) bekezdésben meghatározottak szerint a vagyoni biztosíték letevőjénél kell végrehajtani vagy a megőrzést az általa indítványozott más módon kell biztosítani. A letett vagyoni biztosítékot nem lehet visszavonni.
+
+(4) A vagyoni biztosíték letevője elveszti jogát a letett vagyoni biztosíték összegére, ha a lefoglalás tárgyával vagy a zár alá vett vagyonnal kapcsolatosan a határozatban előírt kötelezettségeit ismételten vagy súlyosan megsérti vagy a tárgy ellenőrzését meghiúsítja. Erre a vagyoni biztosítékról rendelkező határozatban a vagyoni biztosíték letevőjét figyelmeztetni kell. A vagyoni biztosíték elvesztéséről a bíróság, az ügyészség, a nyomozó hatóság határozatot hoz.
+
+(5) A vagyoni biztosíték összegét – amennyiben arra való jogát a vagyoni biztosíték letevője nem veszítette el – vissza kell adni, ha a kényszerintézkedést megszüntették vagy a lefoglalás tárgyának vagy a zár alá vett vagyonnak az elkobzását rendelték el, vagy arra nézve vagyonelkobzást rendeltek el, és a végrehajtás érdekében a kényszerintézkedés tárgyát birtokba vették.

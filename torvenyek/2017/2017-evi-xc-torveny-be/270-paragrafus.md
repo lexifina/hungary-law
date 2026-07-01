@@ -10,4 +10,4 @@
 
 (5) A szaktanácsadó a közreműködésével végzett eljárási cselekményre vonatkozóan tanúként hallgatható ki.
 
-(6) Az Europol tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.
+(6) Az Europol, illetve külföldi állam bűnüldözési feladatot ellátó szervének tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.

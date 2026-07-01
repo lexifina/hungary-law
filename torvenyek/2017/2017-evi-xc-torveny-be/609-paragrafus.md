@@ -14,4 +14,4 @@ e)
 
 (3) Az ítélet felmentő, illetve eljárást megszüntető rendelkezését nem kell hatályon kívül helyezni, ha az (1) bekezdés szerinti eljárási szabálysértés a vádlott vagy a védő törvényes jogainak gyakorlását korlátozta.
 
-(4) Ha az elsőfokú bíróság a lefoglalt dologról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatók, a másodfokú bíróság az elsőfokú bíróságot a CVI. Fejezet szerinti eljárás lefolytatására utasítja.
+(4) Ha az elsőfokú bíróság a lefoglalás tárgyáról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatók, a másodfokú bíróság az elsőfokú bíróságot a CVI. Fejezet szerinti eljárás lefolytatására utasítja.

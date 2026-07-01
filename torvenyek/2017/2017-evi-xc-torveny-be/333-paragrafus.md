@@ -1,11 +1,11 @@
 ## LII. Fejezet
 
-## VAGYONKEZELÉS A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL SORÁN
+## A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL VÉGREHAJTÁSÁNAK SZABÁLYAI ÉS A VAGYONKEZELÉS
 
-333. § (1) Az elkobzás és a vagyonelkobzás érdekében lefoglalt dolog vagy elektronikus adat, illetve a zár alá vett vagyon kezeléséről a lefoglalás, illetve a zár alá vétel során a rendes gazdálkodás szabályai szerint kell gondoskodni.
+## Általános szabályok
 
-(2) A lefoglalás és a zár alá vétel során gondoskodni kell arról, hogy a bűnügyi vagyon értéke a természetes mértéknél nagyobb arányban ne csökkenjen.
+333. § (1) A lefoglalás és a zár alá vétel végrehajtására e fejezet rendelkezéseit kell alkalmazni, ha azt a bíróság, az ügyészség, a nyomozó hatóság vagy a bűnjelkezelő szerv hajtja végre.
 
-(3) A bűnügyi vagyon kezelése során csak olyan rendelkezés tehető, amelynek célja a bűnügyi vagyon értékének a megőrzése.
+(2) A lefoglalás és a zár alá vétel végrehajtásához a bíróság és az ügyészség a nyomozó hatóság közreműködését is igénybe veheti.
 
-(4) A vagyonkezelés során tett intézkedés alapján átalakuló vagyontárgy az eredeti vagyontárgy helyébe lép, arra a lefoglalás és a zár alá vétel külön határozat nélkül kiterjed.
+(3) A lefoglalás tárgyával és a zár alá vett vagyonnal kapcsolatos, jogszabályban meghatározott adatokat, valamint azok változását országos központi nyilvántartásban kell rögzíteni.

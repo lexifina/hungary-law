@@ -8,7 +8,7 @@ b) az elkobzás, illetve a vagyonelkobzás biztosítása érdekében alkalmazott
 
 c) a zár alá vétel elrendelése ellen, ha – a 327. § (5) bekezdése kivételével – azt az ügyészség vagy a nyomozó hatóság rendelte el,
 
-d) a lefoglalt dolog értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
+d) a lefoglalás tárgya vagy a zár alá vett vagyon értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
 
 e) ha az ügyészség, illetve a felettes ügyészség elutasította azt a panaszt, amely
 
@@ -29,6 +29,8 @@ f) ha az ügyészség, illetve a felettes ügyészség elutasította a gyanúsí
 g) a 402. § (3) és (4) bekezdése szerint az eljárást megszüntető határozatnak a 402. § (2) bekezdése alapján hozott rendelkezése ellen.
 
 h) az ügyészségnek vagy a nyomozó hatóságnak a tárhelyszolgáltatás felfüggesztéséről vagy az elektronikus adat ideiglenes hozzáférhetetlenné tételéről hozott vagy a 320. § (4a) bekezdése alapján hozott rendelkezése ellen.
+
+i) az ügyészségnek vagy a nyomozó hatóságnak a vagyoni biztosíték összegének elvesztéséről hozott határozatával szemben.
 
 (2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
 

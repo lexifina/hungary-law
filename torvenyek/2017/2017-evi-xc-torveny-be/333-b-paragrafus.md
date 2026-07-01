@@ -1,0 +1,3 @@
+333/B. § (1) A büntetőeljárás alatt a lefoglalás és a zár alá vétel fenntartásának indokoltságát jogszabályban meghatározottak szerint vizsgálni kell. Ha a lefoglalásra vagy a zár alá vételre a továbbiakban az eljárás érdekében nincs szükség, haladéktalanul intézkedni kell a kényszerintézkedés megszüntetése, illetve feloldása iránt, vagy a lefoglalás tárgyának az elkobzását kell indítványozni.
+
+(2) Ha a vagyoni értékként történő kezelés nem kizárt, és az nem járna a lefoglalás tárgyának értékéhez képest aránytalan vagy jelentős költséggel, vagy egyébként indokolatlan nehézséggel, akkor lefoglalás esetén törekedni kell arra, hogy a vagyoni értékként történő kezelést akadályozó körülmények megszüntethetők legyenek.
