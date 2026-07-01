@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-190-00-00
 | 2016-10-01 | 2016. évi LXVII. törvény | 2012-190-00-00.7 |
 | 2019-01-01 | 2018. évi CXXVIII. törvény | 2012-190-00-00.8 |
 | 2024-01-01 | 2023. évi CIX. törvény | 2012-190-00-00.9 |
+| 2026-07-01 | 2025. évi XCIII. törvény | 2012-190-00-00.10 |
