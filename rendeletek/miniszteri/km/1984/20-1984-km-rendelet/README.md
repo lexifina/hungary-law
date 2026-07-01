@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1984-20-20-2
 | 2019-09-11 | 1984-20-20-20.24 | 33/2019. (IX. 10.) ITM rendelet |
 | 2025-01-04 | 1984-20-20-20.25 | 4/2008. (VI. 3.) KHEM rendelet |
 | 2025-12-23 | 1984-20-20-20.26 | 38/2025. (XII. 22.) ÉKM rendelet |
+| 2026-07-01 | 1984-20-20-20.27 | 2/2026. (VI. 30.) KBM rendelet |
