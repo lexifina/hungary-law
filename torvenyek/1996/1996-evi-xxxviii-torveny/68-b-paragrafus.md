@@ -1,0 +1,1 @@
+68/B. § Ha a külföldi államban székhellyel, telephellyel rendelkező szolgáltató az előfizetői adatok átadása iránti határozatot nem teljesíti, a magyar igazságügyi hatóság a jegyzőkönyv 8. cikkében meghatározott megkereséssel fordulhat a külföldi állam illetékes hatóságához.

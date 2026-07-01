@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-38-00-00
 | 2025-03-27 | 2025. évi IV. törvény | 1996-38-00-00.29 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 1996-38-00-00.30 |
 | 2025-09-01 | 2025. évi XLIX. törvény | 1996-38-00-00.31 |
+| 2026-07-01 | 2025. évi CXVIII. törvény | 1996-38-00-00.32 |

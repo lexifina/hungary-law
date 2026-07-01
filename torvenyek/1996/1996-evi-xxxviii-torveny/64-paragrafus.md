@@ -8,7 +8,7 @@ b) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti m
 
 c) kihallgatás telekommunikációs eszköz útján,
 
-d)
+d) elektronikus adat beszerzése,
 
 e) ellenőrzött szállítás,
 

@@ -1,0 +1,3 @@
+68/C. § (1) A jegyzőkönyv 9. cikke alapján a NEBEK megkeresést küldhet a külföldi állam kijelölt kapcsolattartási pontjának, és megkeresést fogadhat a külföldi állam kapcsolattartási pontjától.
+
+(2) Veszélyhelyzetnek kell tekinteni azt a helyzetet, amelyben valakinek életét vagy testi épségét közvetlen és súlyos veszély fenyegeti, és amely a hatóságok haladéktalan intézkedését teszi szükségessé a veszély vagy a lehetséges következmények elhárítása, megelőzése érdekében, ideértve különösen a túszejtést, a gyermekkel szemben folytatólagosan elkövetett szexuális bántalmazást, a terrortámadást közvetlenül követő helyzeteket, valamint a kritikus infrastruktúra biztonságát érintő fenyegetéseket.

@@ -1,0 +1,5 @@
+68/A. § (1) Ha az a külföldi állam, amelynek területén a szolgáltató székhelye vagy telephelye van, a jegyzőkönyv 7. cikk 5. bekezdés a. pontja alapján nyilatkozatot tett, az előfizetői adatok átadása iránti határozat kibocsátása esetén a határozat szolgáltatónak történő megküldésével egyidejűleg a külföldi állam illetékes hatóságát a kibocsátásról értesíteni kell.
+
+(2) A külföldi állam előfizetői adatok átadása iránti határozata esetén az adatoknak a külföldi állam részére történő megküldése előtt a magyar igazságügyi hatóság és a megkeresett, Magyarország területén székhellyel, telephellyel rendelkező szolgáltató egyeztetést folytathat egymással. Az egyeztetés keretében az igazságügyi hatóság kérheti, hogy a szolgáltató az előfizetői adatokat ne adja át.
+
+(3) Ha az előfizetői adatok átadása iránti határozat eredményes teljesítése érdekében a magyar igazságügyi hatóság és a megkereső igazságügyi hatóság egyeztetést folytat egymással, a magyar igazságügyi hatóság a megkereső igazságügyi hatóság által küldött kiegészítő információkat annak engedélye nélkül nem adhatja át a Magyarország területén székhellyel, telephellyel rendelkező szolgáltatónak.
