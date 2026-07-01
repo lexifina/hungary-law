@@ -12,6 +12,6 @@
 
 ## 1. A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet módosítása
 
-1. § A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet [a továbbiakban: 1/2002. (I. 11.) Korm. rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(2) Az ellenőrzést az 1. számú mellékletben foglalt ellenőrzési jegyzék alapján kell végezni. Az ellenőrző hatóság az elektronikus formában kitöltött ellenőrzési jegyzék egy nyomtatott példányát az ellenőrzöttnek az ellenőrzés helyszínén átadja. Az ellenőrzött jármű az ellenőrzési jegyzék bemutatása mellett ugyanazon szállítási feladat végzése során az ismételt ellenőrzés alól mentesülhet.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az 1/2002. (I. 11.) Korm. rendelet a következő 7/C. §-sal egészül ki:
+4. §[^4]
 
-„7/C. § E rendeletnek a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet és a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosításáról szóló 99/2026. (VI. 29.)Korm. rendelettel megállapított 3. § (2) bekezdése szerinti elektronikus formátumú ellenőrzési jegyzék használatára vonatkozó rendelkezését legkésőbb 2027. január 1-jétől kell alkalmazni.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

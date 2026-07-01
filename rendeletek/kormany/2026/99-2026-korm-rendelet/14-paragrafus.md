@@ -1,1 +1,3 @@
-14. § Hatályát veszti a 156/2009. (VII. 29.) Korm. rendelet 6. § k) pontjában az „Európai” szövegrész.
+14. §[^14]
+
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

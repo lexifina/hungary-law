@@ -1,1 +1,3 @@
-7. § Hatályát veszti az 1/2002. (I. 11.) Korm. rendelet 2. § a) pontjában az „Európai” szövegrész.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
