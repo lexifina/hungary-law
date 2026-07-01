@@ -8,7 +8,7 @@ a) 20 napon belül kerül sor, ha a minősítés megszerzésére a szálláshely
 
 b) 60 napon belül kerül sor minden más esetben.
 
-(3) A helyszíni ellenőrzés időpontjáról a szálláshely-minősítő szervezet legalább 8 nappal a helyszíni ellenőrzést megelőzően elektronikus úton értesítést küld a szálláshely kapcsolattartójának.
+(3)[^1] A helyszíni ellenőrzés időpontjáról a szálláshely-minősítő szervezet legalább 8 nappal a helyszíni ellenőrzést megelőzően elektronikus úton értesítést küld a szálláshely kapcsolattartójának, valamint a szálláshely fekvése szerint illetékes kereskedelmi hatóság részére a jogszabályban meghatározott hatósági ellenőrzés és a minősítési kritériumok teljesülésének helyszíni ellenőrzésének összehangolt lefolytatása érdekében.
 
 (4) Nem folytatható le a helyszíni ellenőrzés a kijelölt időpontban, ha a Minősítő Bizottság nem tud meggyőződni a kritériumok teljesüléséről, mert
 
@@ -29,3 +29,5 @@ d) egyéb ok miatt a helyszíni ellenőrzés lefolytatása lehetetlenné vált.
 (8) A lemondott időpont napjától a helyszíni ellenőrzés – ideértve a megismételt helyszíni ellenőrzést is – lefolytatására nyitva álló határidő újrakezdődik.
 
 (9) Amennyiben az időpont a szálláshely-szolgáltató által második alkalommal is lemondásra kerül, a szálláshely-minősítési eljárás a szálláshely-minősítő szervezet részéről lezárásra kerül.
+
+[^1]: A 11. § (3) bekezdése a 395/2025. (XII. 16.) Korm. rendelet 47. §-ával megállapított szöveg.
