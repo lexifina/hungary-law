@@ -1,0 +1,1 @@
+36/R. § A pénzügyőr a bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 39. §-ában meghatározott dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, de legfeljebb hét munkanapra átvételi elismervény ellenében ideiglenesen elveheti.

@@ -2,7 +2,7 @@
 
 105. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)
+a) a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelv,
 
 b) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
 
