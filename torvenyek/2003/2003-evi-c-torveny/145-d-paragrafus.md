@@ -1,0 +1,1 @@
+145/D. § A jelen alcím szerinti kötelezettségek megsértése esetén a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatóval szemben a Hatóság a 49. § (4) bekezdés a) pontjában meghatározott mértékű bírságot szab ki.

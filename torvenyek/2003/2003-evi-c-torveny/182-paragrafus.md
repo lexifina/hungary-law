@@ -20,6 +20,8 @@ h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési sz
 
 i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
+j) a védelmi és biztonsági célú lakossági riasztás eljárási rendjét és részletes szabályait.
+
 (2) Felhatalmazást kap a Kormány arra, hogy
 
 a) a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket,
@@ -62,7 +64,7 @@ rendeletben állapítsa meg.
 
 16. a szolgáltatóváltás és a számhordozhatóság szabályait és a számhordozhatóság megvalósíthatósága érdekében működő központi-referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
 
-17.
+17. a védelmi és biztonsági célú riasztási rendszer technikai követelményeit;
 
 18. az interfészek műszaki leírásának tartalmi követelményeit és az azokhoz való hozzáférés előírását;
 
