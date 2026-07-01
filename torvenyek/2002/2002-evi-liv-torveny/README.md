@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-54-00-00
 | 2024-12-12 | 2024. évi XXV. törvény | 2002-54-00-00.21 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2002-54-00-00.22 |
 | 2025-09-01 | 2025. évi XLIX. törvény | 2002-54-00-00.23 |
+| 2026-07-01 | 2025. évi CXVIII. törvény | 2002-54-00-00.24 |

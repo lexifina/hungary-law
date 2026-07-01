@@ -12,6 +12,8 @@ d) az Európai Unióról szóló szerződés K.3. cikke alapján elfogadott, az 
 
 e) az EUROPOL részéről a tagállamok által felállított közös nyomozó csoportoknak nyújtandó segítségről szóló, 2000. november 30-i tanácsi ajánlásnak
 
+f) a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) E törvény

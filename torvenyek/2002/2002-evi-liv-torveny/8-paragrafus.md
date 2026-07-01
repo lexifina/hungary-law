@@ -24,7 +24,7 @@ i) az összekötő tisztviselő alkalmazása,
 
 j) a titkos információgyűjtés nemzetközi együttműködés alapján,
 
-k)
+k) a dolog ideiglenes elvétele,
 
 l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.
 
