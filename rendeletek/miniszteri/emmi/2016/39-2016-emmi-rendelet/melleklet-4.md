@@ -34,4 +34,4 @@
 
 Egészségügyi dokumentumok nyilvántartása
 
-[^54]: A 4. melléklet a 37/2020. (X. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 6/2022. (II. 15.) EMMI rendelet 4. § (2) bekezdése, a 63/2024. (XII. 30.) BM rendelet 9. §-a szerint módosított szöveg.
+[^54]: A 4. melléklet a 37/2020. (X. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 6/2022. (II. 15.) EMMI rendelet 4. § (2) bekezdése, a 63/2024. (XII. 30.) BM rendelet 9. §-a, a 25/2025. (VII. 16.) BM rendelet 42. § (3) bekezdése szerint módosított szöveg.
