@@ -1,16 +1,14 @@
 3. § A TnyR.
 
-a)[^3]
+a)[^2]
 
-b)[^4]
+b) 61/A. § (2) bekezdésében a „ , továbbá az egy évnél hosszabb ideje külön élő személy” szövegrész helyébe a „házastárs” szöveg,
 
-c)[^5]
+c) 63/B. § (1) bekezdésében az „ , elvált vagy egy évnél hosszabb ideje különélő” szövegrész helyébe a „vagy elvált” szöveg,
 
-d)[^6]
+d)[^3]
 
 lép.
 
-[^3]: A 3. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § b) pontja a 6. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
-[^5]: A 3. § c) pontja a 6. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
-[^6]: A 3. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
