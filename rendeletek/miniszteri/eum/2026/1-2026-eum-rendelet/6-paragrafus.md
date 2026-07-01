@@ -1,1 +1,0 @@
-6. § E rendelet 2. § (1) bekezdése és 1. melléklete a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2025. október 14-i (EU) 2025/2062 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
