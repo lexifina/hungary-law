@@ -47,3 +47,5 @@ c) közigazgatási és munkaügyi bíróságot mint közigazgatási ügyben elj�
 kell érteni.
 
 (14) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel módosított rendelkezéseit a 2022. március 1-jén vagy azt követően előterjesztett fellebbezés vagy felülvizsgálati kérelem, illetve az eljáró közigazgatási szerv kijelölésére irányuló kérelem alapján indult eljárásokban, valamint a 2022. március 1-jén vagy azt követően előterjesztett kizárási indítványra, az eljáró bíróság kijelölése iránt kérelemre, továbbá az eljárás szabálytalansága ellen vagy az eljárás elhúzódása miatt benyújtott kifogásra kell alkalmazni.
+
+(15) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Módtv.) megállapított 36. § (1) bekezdés e) pontjában foglaltak alapján a polgári perrendtartás határidő-túllépésre vonatkozó szabályait a 2026. július 1. napját követő határidő túllépés esetén kell alkalmazni.

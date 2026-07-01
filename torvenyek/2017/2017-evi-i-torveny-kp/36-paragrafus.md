@@ -10,7 +10,7 @@ c) a kézbesítésre,
 
 d) az idézésre,
 
-e) a határidőre,
+e) a határidőre és – az e törvény szerinti peres eljárások tekintetében – a határidő-túllépésre,
 
 f) az ítélkezési szünetre,
 
