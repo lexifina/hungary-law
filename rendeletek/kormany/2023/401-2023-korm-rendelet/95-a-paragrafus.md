@@ -10,11 +10,11 @@
 
 (5) A Púétv. 98. § (5) bekezdésének alkalmazása során az esélyteremtési illetményrész alapjául szolgáló havi illetmény összegének részét képezi az (1) bekezdés szerinti illetménynövekedés és az egyes tantárgyak után járó illetménynövekedés is.
 
-(6)[^57] A Gyakornok fokozatba sorolt pedagógus a Púétv. 98. § (5) bekezdése szerinti esélyteremtési illetményrészt nem tartalmazó havi illetményének pótlék és egyes köznevelési feladatokért járó megbízási díj nélküli összegét havonta 11 660 forinttal magasabb összegben (a továbbiakban: pályakezdés után járó illetménynövekedés) kell meghatározni. Amennyiben a Gyakornok a naptári év közben Pedagógus I. fokozatba kerül átsorolásra, a pályakezdés után járó illetménynövekedésre a tárgyév december 31-ig jogosult marad.
+(6)[^57] A Gyakornok fokozatba sorolt pedagógus a Púétv. 98. § (5) bekezdése szerinti esélyteremtési illetményrészt nem tartalmazó havi illetményének pótlék és egyes köznevelési feladatokért járó megbízási díj nélküli összegét havonta 11 700 forinttal magasabb összegben (a továbbiakban: pályakezdés után járó illetménynövekedés) kell meghatározni. Amennyiben a Gyakornok a naptári év közben Pedagógus I. fokozatba kerül átsorolásra, a pályakezdés után járó illetménynövekedésre a tárgyév december 31-ig jogosult marad.
 
 (7)[^58] A Púétv. 98. § (5) bekezdésének alkalmazása során az esélyteremtési illetményrész alapjául szolgáló havi illetmény összegének részét képezi a pályakezdés után járó illetménynövekedés is.
 
 [^55]: A 44/A. alcímet (95/A. §-t) a 3/2024. (I. 18.) Korm. rendelet 4. §-a iktatta be.
 [^56]: A 95/A. § (2) bekezdése a 453/2024. (XII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^57]: A 95/A. § (6) bekezdését a 453/2024. (XII. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 435/2025. (XII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^57]: A 95/A. § (6) bekezdését a 453/2024. (XII. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 96/2026. (VI. 25.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^58]: A 95/A. § (7) bekezdését a 453/2024. (XII. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.

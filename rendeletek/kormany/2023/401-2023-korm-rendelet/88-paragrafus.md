@@ -4,7 +4,7 @@
 
 ## 37. Az illetmény megállapítása
 
-88. § (1)[^46] A Gyakornok fokozathoz tartozó havi illetmény a 2026. évben 705 000 Ft.
+88. § (1)[^46] A Gyakornok fokozathoz tartozó havi illetmény a 2026. évben 707 600 Ft.
 
 (2)[^47] A Púétv. 98. § (1) bekezdése szerinti köznevelési foglalkoztatott havi illetménye nem lehet kevesebb, mint az (1) bekezdés szerinti összeg.
 
@@ -20,6 +20,6 @@
 
 (8) Ha a köznevelési foglalkoztatotti jogviszonyban álló a Púétv. 68. § (4) bekezdése szerint lát el feladatot, akkor a feladatellátás idejére a havi illetményének pótlék és egyes köznevelési feladatokért járó megbízási díj nélküli összege tíz százalékával emelt összegű illetmény illeti meg.
 
-[^46]: A 88. § (1) bekezdése a 435/2025. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^46]: A 88. § (1) bekezdése a 96/2026. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^47]: A 88. § (2) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^48]: A 88. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.
