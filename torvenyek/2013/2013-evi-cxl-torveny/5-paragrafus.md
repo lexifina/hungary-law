@@ -1,6 +1,6 @@
 5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást vezet, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíti. A fémkereskedő a nyilvántartásban szereplő adatokról jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel. A személyes adatok kivételével az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv ezen adatokba betekinthet.
 
-(2) A fémkereskedőnek a fémkereskedelmi engedélyköteles anyag tárgyhavi forgalmáról, a bevételi és kiadási jogcímeken szerepeltetett, valamint a tárgyhavi nyitó és záró készletről a fémkereskedelmi hatóság honlapján közzétett nyomtatványon havi zárást kell készítenie.
+(2) A fémkereskedőnek a fémkereskedelmi engedélyköteles anyag negyedéves forgalmáról, a bevételi és kiadási jogcímeken szerepeltetett, valamint a negyedéves nyitó és záró készletről a fémkereskedelmi hatóság honlapján közzétett nyomtatványon negyedéves zárást kell készítenie.
 
 (3) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
