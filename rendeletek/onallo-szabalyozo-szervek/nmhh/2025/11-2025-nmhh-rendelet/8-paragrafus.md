@@ -1,0 +1,1 @@
+8. § A védelmi és biztonsági célú lakossági riasztási rendszer üzemeltetésével kapcsolatos egyéb követelményeket a védelmi és biztonsági igazgatás központi szerve, a szolgáltatók és a CBE üzemeltető együttműködési megállapodásban rögzítik.
