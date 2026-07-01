@@ -1,6 +1,6 @@
-268. §[^430] Az akkreditált szakképzési vizsgaközpont
+268. §[^431] Az akkreditált szakképzési vizsgaközpont
 
-1.[^431] megbízza a vizsgafelügyelőt és a vizsgabizottság tagjait, kijelöli a szakmai vizsga jegyzőjét, az interaktív vizsgatevékenység felügyelőjét és a technikai feltételek folyamatos biztosításáért felelős személyt,
+1.[^432] megbízza a vizsgafelügyelőt és a vizsgabizottság tagjait, kijelöli a szakmai vizsga jegyzőjét, az interaktív vizsgatevékenység felügyelőjét és a technikai feltételek folyamatos biztosításáért felelős személyt,
 
 2. elkészíti a lebonyolítási rendet,
 
@@ -12,5 +12,5 @@
 
 6. gondoskodik a szakmai vizsga iratainak szabályszerű kiállításáról és továbbításáról.
 
-[^430]: A 268. § nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 31. pontja szerint módosított szöveg.
-[^431]: A 268. § 1. pontja a 129/2024. (VI. 17.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^431]: A 268. § nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 31. pontja szerint módosított szöveg.
+[^432]: A 268. § 1. pontja a 129/2024. (VI. 17.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

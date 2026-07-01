@@ -8,11 +8,11 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^495] A szakképzésért felelős miniszter
+298. § (1)[^496] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
-aa)[^496] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
+aa)[^497] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
 
 ab) a szakképzéssel összefüggő regionális és országos kutatásokat végez, valamint elemzési és értékelési feladatokat lát el,
 
@@ -38,11 +38,11 @@ c) az oktatók továbbképzésével összefüggésben kidolgozza a továbbképz�
 
 d) a szakképzés együttműködési rendszerével összefüggésben fejleszti az Európai Unió tagállamainak szakképzésben részt vevő intézményeivel történő együttműködését, részt vesz hazai és nemzetközi szakképzési kutatásokban, közreműködik nemzetközi fejlesztési projektek lebonyolításában.
 
-e)[^497] végzi a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányainak, megszerzett ismereteinek és előzetes gyakorlatának beszámítását segítő tevékenységet.
+e)[^498] végzi a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányainak, megszerzett ismereteinek és előzetes gyakorlatának beszámítását segítő tevékenységet.
 
-(2)[^498]
+(2)[^499]
 
-(3)[^499] A szakképzésért felelős miniszter
+(3)[^500] A szakképzésért felelős miniszter
 
 a) az Szkt. 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
 
@@ -66,11 +66,11 @@ h) az (1) bekezdés c) pontjában meghatározott feladatok közül az oktatói t
 
 útján végzi.
 
-(4)[^500] A (3) bekezdésben meghatározott feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy a (3) bekezdés g) pontjában meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézettel együttműködésben is végezheti.
+(4)[^501] A (3) bekezdésben meghatározott feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy a (3) bekezdés g) pontjában meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézettel együttműködésben is végezheti.
 
-[^495]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^496]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
-[^497]: A 298. § (1) bekezdés e) pontját a 129/2024. (VI. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^498]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
-[^499]: A 298. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^500]: A 298. § (4) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 54. §-a iktatta be, szövege a 141/2025. (VI. 19.) Korm. rendelet 13. § a) pontja, a 442/2025. (XII. 29.) Korm. rendelet 13. §-a, a 454/2025. (XII. 29.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^496]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^497]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
+[^498]: A 298. § (1) bekezdés e) pontját a 129/2024. (VI. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^499]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
+[^500]: A 298. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^501]: A 298. § (4) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 54. §-a iktatta be, szövege a 141/2025. (VI. 19.) Korm. rendelet 13. § a) pontja, a 442/2025. (XII. 29.) Korm. rendelet 13. §-a, a 454/2025. (XII. 29.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

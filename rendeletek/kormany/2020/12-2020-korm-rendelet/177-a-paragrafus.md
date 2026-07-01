@@ -1,4 +1,4 @@
-177/A. §[^317] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
+177/A. §[^318] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
 
 a) részt vesz
 
@@ -16,9 +16,9 @@ c) honvédségi szakképző intézmény (a továbbiakban: HKP III. szintje) tanu
 
 (2) A honvéd kadét ösztöndíj összegét félévente kell megállapítani, a félévet közvetlenül megelőző félévi, illetve év végi minősítés két tizedesjegyre kerekített számtani átlagaként meghatározott tanulmányi átlageredmény (a továbbiakban: tanulmányi átlageredmény) alapján. Ha a honvéd kadétnak javítóvizsgát, osztályozó vizsgát vagy pótlóvizsgát kell tennie, a tanulmányi átlageredményt a javítóvizsga, az osztályozó vizsga vagy a pótlóvizsga letételét követően, annak eredménye figyelembevételével a félév első napjáig visszamenőlegesen kell megállapítani.
 
-(3)[^318]
+(3)[^319]
 
-(4)[^319] A honvéd kadét ösztöndíj havonkénti összege
+(4)[^320] A honvéd kadét ösztöndíj havonkénti összege
 
 a) a HKP I. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
@@ -46,20 +46,20 @@ cc) ötvenhatezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között 
 
 cd) nyolcvanötezer forint, ha a tanulmányi átlageredmény 4,49 fölött van.
 
-(5)[^320] A honvéd kadét ösztöndíj a honvéd kadétot kizárólag a tanítási év időszakában, tíz hónapra illeti meg. A tanév első félévére vonatkozó ösztöndíj összegére a tanév első félévének szeptember 1-jétől kezdődően 5 hónapig, míg a tanév második félévére vonatkozó ösztöndíj összegére a tanév második félévének február 1-jétől kezdődően 5 hónapig jogosult a honvéd kadét. Teljes havi honvéd kadét ösztöndíjat kell fizetni abban a hónapban, amelyben a honvéd kadét a HKP-hoz csatlakozott szakképző intézménnyel fennálló tanulói jogviszonnyal rendelkezik, és legalább egy napig jogosult a honvéd kadét ösztöndíjra.
+(5)[^321] A honvéd kadét ösztöndíj a honvéd kadétot kizárólag a tanítási év időszakában, tíz hónapra illeti meg. A tanév első félévére vonatkozó ösztöndíj összegére a tanév első félévének szeptember 1-jétől kezdődően 5 hónapig, míg a tanév második félévére vonatkozó ösztöndíj összegére a tanév második félévének február 1-jétől kezdődően 5 hónapig jogosult a honvéd kadét. Teljes havi honvéd kadét ösztöndíjat kell fizetni abban a hónapban, amelyben a honvéd kadét a HKP-hoz csatlakozott szakképző intézménnyel fennálló tanulói jogviszonnyal rendelkezik, és legalább egy napig jogosult a honvéd kadét ösztöndíjra.
 
 (6) A honvéd kadét ösztöndíjat legkésőbb a tárgyhónapot követő hónap ötödik napjáig kell a honvéd kadét fizetési számlájára átutalni. A tanév első félévében a szeptember és október hónapokra járó ösztöndíjat egy összegben, legkésőbb november ötödikéig kell kifizetni. Ha a honvéd kadét tanulói jogviszonya a HKP-hoz csatlakozott szakképző intézményhez október 1-jét követően keletkezik, a honvéd kadét ösztöndíj első alkalommal történő kifizetésének legkésőbb a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatását követő második hónap tizedik napjáig, a beiratkozás napját alapul véve, a tanulói jogviszony HKP-hoz csatlakozott szakképző intézménnyel való létrejöttéig visszamenőlegesen, egyösszegben kell megtörténnie.
 
-(7)[^321] A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatok a HM Költségvetés Gazdálkodási Információs Rendszerben történő rögzítését a Honvéd Vezérkar főnöke által kijelölt honvédségi szervezet látja el, a HKP partneriskola tanulmányi rendszerben történő adatszolgáltatása alapján.
+(7)[^322] A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatok a HM Költségvetés Gazdálkodási Információs Rendszerben történő rögzítését a Honvéd Vezérkar főnöke által kijelölt honvédségi szervezet látja el, a HKP partneriskola tanulmányi rendszerben történő adatszolgáltatása alapján.
 
-(8)[^322] A honvéd kadét ösztöndíjra való jogosultság szünetel a fegyelmi büntetést megállapító határozat (a továbbiakban: fegyelmi határozat) véglegessé válását követő hónap első napjától számított 12 naptári hónapig (a nyári szünetet is beleértve), azzal, hogy a tanulmányi átlageredményt minden félévben meg kell állapítani.
+(8)[^323] A honvéd kadét ösztöndíjra való jogosultság szünetel a fegyelmi büntetést megállapító határozat (a továbbiakban: fegyelmi határozat) véglegessé válását követő hónap első napjától számított 12 naptári hónapig (a nyári szünetet is beleértve), azzal, hogy a tanulmányi átlageredményt minden félévben meg kell állapítani.
 
-(9)[^323] A fegyelmi döntés tényét és az arról szóló határozat rendelkező részét a HKP partneriskola rögzíti a tanulmányi rendszerben a fegyelmi határozat véglegessé válásának napjától számítva legkésőbb 8 napon belül.
+(9)[^324] A fegyelmi döntés tényét és az arról szóló határozat rendelkező részét a HKP partneriskola rögzíti a tanulmányi rendszerben a fegyelmi határozat véglegessé válásának napjától számítva legkésőbb 8 napon belül.
 
-[^317]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^318]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^319]: A 177/A. § (4) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^320]: A 177/A. § (5) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^321]: A 177/A. § (7) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^322]: A 177/A. § (8) bekezdését a 251/2025. (VIII. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^323]: A 177/A. § (9) bekezdését a 251/2025. (VIII. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^318]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^319]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^320]: A 177/A. § (4) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^321]: A 177/A. § (5) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^322]: A 177/A. § (7) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^323]: A 177/A. § (8) bekezdését a 251/2025. (VIII. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^324]: A 177/A. § (9) bekezdését a 251/2025. (VIII. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.

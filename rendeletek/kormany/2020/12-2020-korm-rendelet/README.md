@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-12-20-2
 | 2026-01-01 | 2020-12-20-22.40 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-03-06 | 2020-12-20-22.42 | 36/2026. (III. 5.) Korm. rendelet |
 | 2026-03-13 | 2020-12-20-22.43 | 57/2026. (III. 12.) Korm. rendelet |
+| 2026-07-01 | 2020-12-20-22.44 | 96/2026. (VI. 25.) Korm. rendelet |
