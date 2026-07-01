@@ -1,3 +1,3 @@
-11. §[^11]
+11. § A 435/2021. (VII. 16.) Korm. rendelet a következő 58/A. §-sal egészül ki:
 
-[^11]: A 11. § a 18. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+„58/A. § A harmadik országba kiszállítandó borászati termékek vonatkozásában az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolások, bizonyítványok és kereskedelmi forgalomban szükséges más okmányok kiállítását, valamint hitelesítését az elektronikus ügyintézésre köteles ügyfél, valamint az elektronikus ügyintézést önkéntesen vállaló ügyfél esetében a Dáptv.-ben és a végrehajtására kiadott kormányrendeletben szabályozott módon, a borászati termék forgalombahozatali azonosítójának, a vevő nevének és címének, a termék mennyiségének, a szállítójármű rendszámának, valamint a kísérőokmányok számának megadásával kell kérelmezni.”
