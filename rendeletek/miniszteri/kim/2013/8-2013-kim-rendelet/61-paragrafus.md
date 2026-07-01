@@ -1,6 +1,6 @@
-61. §[^230] (1) A közösségi foglalkoztató programjai különösen
+61. §[^231] (1) A közösségi foglalkoztató programjai különösen
 
-a)[^231] a bűnelkövetői viselkedés korrekciójára, a szociális, illetve az életvezetési készségek fejlesztésére irányuló csoportos és egyéni foglalkozások,
+a)[^232] a bűnelkövetői viselkedés korrekciójára, a szociális, illetve az életvezetési készségek fejlesztésére irányuló csoportos és egyéni foglalkozások,
 
 b) a tanulássegítő programok,
 
@@ -16,5 +16,5 @@ e) az egyéni tanácsadások, így különösen a pszichológiai és a mentálhi
 
 (4) A közösségi foglalkoztató tanúsítványt állít ki a résztvevőknek a különböző programokban való eredményes részvételről, amely közokiratnak minősül.
 
-[^230]: A 61. § a 19/2014. (XII. 22.) IM rendelet 32. §-ával megállapított szöveg.
-[^231]: A 61. § (1) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 76. §-ával megállapított, a 20/2020. (XII. 30.) IM rendelet 57. § 17. pontja és 58. § 5. pontja, a 12/2022. (IV. 26.) IM rendelet 29. § g) pontja szerint módosított szöveg.
+[^231]: A 61. § a 19/2014. (XII. 22.) IM rendelet 32. §-ával megállapított szöveg.
+[^232]: A 61. § (1) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 76. §-ával megállapított, a 20/2020. (XII. 30.) IM rendelet 57. § 17. pontja és 58. § 5. pontja, a 12/2022. (IV. 26.) IM rendelet 29. § g) pontja szerint módosított szöveg.

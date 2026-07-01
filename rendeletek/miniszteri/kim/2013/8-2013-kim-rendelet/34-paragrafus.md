@@ -8,31 +8,31 @@ b) a bíróság a közérdekű munkát vagy annak hátralévő részét jogerős
 
 c) a bíróság jogerős határozatában megállapította a közérdekű munka végrehajthatóságának a megszűnését,
 
-d)[^147] a Bv. tv. 27. §-ában meghatározott okok valamelyike bekövetkezik,
+d)[^148] a Bv. tv. 27. §-ában meghatározott okok valamelyike bekövetkezik,
 
 e) a pénzbüntetés helyébe lépő közérdekű munkát töltő fiatalkorú a pénzbüntetést vagy annak hátralévő részét megfizette.
 
 (2) A közérdekű munka végrehajtásának befejezéséről a pártfogó felügyelő értesíti
 
-a)[^148] az első fokon eljárt bíróságot,
+a)[^149] az első fokon eljárt bíróságot,
 
-b)[^149] az ügyészséget,
+b)[^150] az ügyészséget,
 
-c)[^150] a kijelölt munkahelyet – kivéve, ha a közérdekű munkát az elítélt már letöltötte,
+c)[^151] a kijelölt munkahelyet – kivéve, ha a közérdekű munkát az elítélt már letöltötte,
 
-d)[^151] a Bv. tv. 27. § (1) bekezdés a) pontja szerinti esetet kivéve az elítéltet és,
+d)[^152] a Bv. tv. 27. § (1) bekezdés a) pontja szerinti esetet kivéve az elítéltet és,
 
-e)[^152] az elítélt lakcíme vagy tényleges tartózkodási helye szerint illetékes állami foglalkoztatási szervet – amennyiben nyilvántartásukban szereplő munkahely került kijelölésre
+e)[^153] az elítélt lakcíme vagy tényleges tartózkodási helye szerint illetékes állami foglalkoztatási szervet – amennyiben nyilvántartásukban szereplő munkahely került kijelölésre
 
-f)[^153]
+f)[^154]
 
-(3)[^154] A pártfogó felügyelő a közérdekű munka teljesítésének napját közli a bűnügyi nyilvántartó szervvel.
+(3)[^155] A pártfogó felügyelő a közérdekű munka teljesítésének napját közli a bűnügyi nyilvántartó szervvel.
 
-[^147]: A 34. § (1) bekezdés d) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 18. pontja szerint módosított szöveg.
-[^148]: A 34. § (2) bekezdés a) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^149]: A 34. § (2) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 78. § 21. pontjával megállapított szöveg.
-[^150]: A 34. § (2) bekezdés c) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 19. pontja szerint módosított szöveg.
-[^151]: A 34. § (2) bekezdés d) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés k) pontja, a 12/2022. (IV. 26.) IM rendelet 28. § 11. pontja szerint módosított szöveg.
-[^152]: A 34. § (2) bekezdés e) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 20. pontja, a 17/2018. (VI. 27.) IM rendelet 78. § 19. pontja, a 12/2022. (IV. 26.) IM rendelet 29. § d) pontja szerint módosított szöveg.
-[^153]: A 34. § (2) bekezdés f) pontját a 12/2022. (IV. 26.) IM rendelet 29. § e) pontja hatályon kívül helyezte.
-[^154]: A 34. § (3) bekezdését a 12/2022. (IV. 26.) IM rendelet 21. §-a iktatta be, szövege a 4/2026. (III. 10.) IM rendelet 35. §-a szerint módosított szöveg.
+[^148]: A 34. § (1) bekezdés d) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 18. pontja szerint módosított szöveg.
+[^149]: A 34. § (2) bekezdés a) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^150]: A 34. § (2) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 78. § 21. pontjával megállapított szöveg.
+[^151]: A 34. § (2) bekezdés c) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 19. pontja szerint módosított szöveg.
+[^152]: A 34. § (2) bekezdés d) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés k) pontja, a 12/2022. (IV. 26.) IM rendelet 28. § 11. pontja szerint módosított szöveg.
+[^153]: A 34. § (2) bekezdés e) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 20. pontja, a 17/2018. (VI. 27.) IM rendelet 78. § 19. pontja, a 12/2022. (IV. 26.) IM rendelet 29. § d) pontja szerint módosított szöveg.
+[^154]: A 34. § (2) bekezdés f) pontját a 12/2022. (IV. 26.) IM rendelet 29. § e) pontja hatályon kívül helyezte.
+[^155]: A 34. § (3) bekezdését a 12/2022. (IV. 26.) IM rendelet 21. §-a iktatta be, szövege a 4/2026. (III. 10.) IM rendelet 35. §-a szerint módosított szöveg.

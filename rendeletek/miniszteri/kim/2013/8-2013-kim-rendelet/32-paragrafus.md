@@ -1,14 +1,14 @@
 ## 13. Eljárás új munkahely kijelölése esetén
 
-32. § (1)[^142] A közérdekű munka végrehajtására új munkahely kijelöléséről a pártfogó felügyelő az ügyészség vagy a bv. bíró indítványára, illetve a kijelölt munkahely vagy az elítélt kérelmére határoz. A határozat kézbesítésére a 30. § (3)–(6) és (8) bekezdése az irányadó.
+32. § (1)[^143] A közérdekű munka végrehajtására új munkahely kijelöléséről a pártfogó felügyelő az ügyészség vagy a bv. bíró indítványára, illetve a kijelölt munkahely vagy az elítélt kérelmére határoz. A határozat kézbesítésére a 30. § (3)–(6) és (8) bekezdése az irányadó.
 
-(2)[^143] Ha az új munkahely kijelölése folytán a közérdekű munka végrehajtásának ellenőrzésére más kormányhivatal az illetékes, a kormányhivatal az ügy iratait annak a kormányhivatalnak küldi meg, amelynek az illetékességi területén az elítélt új lakcíme vagy tényleges tartózkodási helye van.
+(2)[^144] Ha az új munkahely kijelölése folytán a közérdekű munka végrehajtásának ellenőrzésére más kormányhivatal az illetékes, a kormányhivatal az ügy iratait annak a kormányhivatalnak küldi meg, amelynek az illetékességi területén az elítélt új lakcíme vagy tényleges tartózkodási helye van.
 
-(3)[^144] Más kormányhivatalhoz illetékességből történő áttétel esetén a pártfogó felügyelő 15 napon belül értesíti erről az elítélt korábbi lakcíme vagy tényleges tartózkodási helye szerint illetékes állami foglalkoztatási szervet, ha a nyilvántartásukban szereplő munkahely került kijelölésre.
+(3)[^145] Más kormányhivatalhoz illetékességből történő áttétel esetén a pártfogó felügyelő 15 napon belül értesíti erről az elítélt korábbi lakcíme vagy tényleges tartózkodási helye szerint illetékes állami foglalkoztatási szervet, ha a nyilvántartásukban szereplő munkahely került kijelölésre.
 
-(4)[^145] Ha az új munkahely kijelölése során a Bv. tv. 286. § (3) bekezdésében meghatározott valamely feltétel fennáll, a pártfogó felügyelő új foglalkoztathatósági szakvélemény elkészítését kezdeményezi.
+(4)[^146] Ha az új munkahely kijelölése során a Bv. tv. 286. § (3) bekezdésében meghatározott valamely feltétel fennáll, a pártfogó felügyelő új foglalkoztathatósági szakvélemény elkészítését kezdeményezi.
 
-[^142]: A 32. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 78. § 9. pontja szerint módosított szöveg.
-[^143]: A 32. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § b), e) és n) pontja, a 22/2017. (XII. 22.) IM rendelet 14. § d) pontja, a 17/2018. (VI. 27.) IM rendelet 78. § 19. pontja szerint módosított szöveg.
-[^144]: A 32. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 70. §-ával megállapított szöveg.
-[^145]: A 32. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 11. pontja szerint módosított szöveg.
+[^143]: A 32. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 78. § 9. pontja szerint módosított szöveg.
+[^144]: A 32. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § b), e) és n) pontja, a 22/2017. (XII. 22.) IM rendelet 14. § d) pontja, a 17/2018. (VI. 27.) IM rendelet 78. § 19. pontja szerint módosított szöveg.
+[^145]: A 32. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 70. §-ával megállapított szöveg.
+[^146]: A 32. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 11. pontja szerint módosított szöveg.

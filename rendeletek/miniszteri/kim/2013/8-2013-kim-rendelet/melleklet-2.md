@@ -16,6 +16,6 @@
 
 ## a terhelt aláírása
 
-2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^295]
+2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^297]
 
-[^295]: A 2. mellékletet a 12/2022. (IV. 26.) IM rendelet 29. § h) pontja hatályon kívül helyezte. [A 4/2026. (III. 10.) IM rendelet 33. § (2) bekezdése által elrendelt módosítás, amely szerint a 2. melléklete helyébe a 2. melléklet lép, nem vezethető át.]
+[^297]: A 2. mellékletet a 12/2022. (IV. 26.) IM rendelet 29. § h) pontja hatályon kívül helyezte. [A 4/2026. (III. 10.) IM rendelet 33. § (2) bekezdése által elrendelt módosítás, amely szerint a 2. melléklete helyébe a 2. melléklet lép, nem vezethető át.]

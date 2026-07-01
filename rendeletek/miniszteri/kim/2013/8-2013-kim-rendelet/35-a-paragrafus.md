@@ -1,4 +1,4 @@
-## 16/A. [^158] A mulasztás igazolása
+## 16/A. [^159] A mulasztás igazolása
 
 35/A. § (1) A pártfogó felügyelő, ha az elítéltnek a szabályszerű idézés vagy a felhívás elmulasztására benyújtott igazolási kérelmének helyt ad, külön határozatot nem hoz, az erről szóló rendelkezést rávezeti az igazolási kérelemre és a dátum megjelölésével azt aláírásával látja el. A pártfogó felügyelő szükség szerint újabb idézést vagy felhívást ad ki.
 
@@ -12,4 +12,4 @@ b) és a közérdekű munka átváltoztatásának lehet helye, a 36. § szerint 
 
 (4) Ha a kérelem a bírósági felülvizsgálati kérelem benyújtására nyitva álló határidő elmulasztásának igazolására irányul, a pártfogó felügyelő azt az iratokkal együtt a bv. bírónak elbírálásra felterjeszti.
 
-[^158]: A 16/A. alcímet (35/A. §-t) a 20/2020. (XII. 30.) IM rendelet 46. §-a iktatta be.
+[^159]: A 16/A. alcímet (35/A. §-t) a 20/2020. (XII. 30.) IM rendelet 46. §-a iktatta be.

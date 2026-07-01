@@ -1,5 +1,5 @@
-## VI. Fejezet[^222]
+## VI. Fejezet[^223]
 
 57. §
 
-[^222]: A VI. Fejezetet (57–58. §) a 19/2014. (XII. 22.) IM rendelet 37. § i) pontja hatályon kívül helyezte.
+[^223]: A VI. Fejezetet (57–58. §) a 19/2014. (XII. 22.) IM rendelet 37. § i) pontja hatályon kívül helyezte.

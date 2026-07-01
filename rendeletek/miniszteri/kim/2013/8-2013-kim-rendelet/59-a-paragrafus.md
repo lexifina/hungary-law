@@ -1,4 +1,4 @@
-## 26/A.[^224] A helyreállító szemléletű eljárás lefolytatása
+## 26/A.[^225] A helyreállító szemléletű eljárás lefolytatása
 
 59/A. § (1) A feltételes ügyészi felfüggesztés magatartási szabályaként előírt, a Be. 419. (2) bekezdés e) pontjában meghatározott helyreállító szemléletű eljárás célja, hogy a bűncselekményből eredő sérelmek feldolgozásában a gyanúsított, – ha a bűncselekménynek van sértettje, és hozzájárulását adja – a sértett, a gyanúsítottat és a sértettet támogató személy, a fiatalkorú törvényes képviselője, valamint – hozzájárulásuk esetén – a bűncselekmény által érintett más személyek közvetlenül részt vegyenek.
 
@@ -20,4 +20,4 @@ b) figyelmeztetnie kell a résztvevőket arra, hogy a helyreállító szemlélet
 
 (8) A helyreállító szemléletű eljárás lefolytatásának részletszabályait a minisztérium által módszertani támogatás keretében kiadott szakmai anyagok tartalmazzák.
 
-[^224]: A 26/A. alcímet (59/A–59/B. §-t) a 4/2026. (III. 10.) IM rendelet 29. §-a iktatta be.
+[^225]: A 26/A. alcímet (59/A–59/B. §-t) a 4/2026. (III. 10.) IM rendelet 29. §-a iktatta be.

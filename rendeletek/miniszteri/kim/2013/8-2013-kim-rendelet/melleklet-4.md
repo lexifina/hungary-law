@@ -10,7 +10,7 @@
 
 | Az elítéltet a ....................................................................................................... Járásbíróság/Törvényszék a B. ............................/20................/............... számú ügydöntő határozatával, a ..................................................................... Törvényszék/Ítélőtábla másodfokú Bf. ....................../20.........../............... számú határozatával, a ............................................................................... Ítélőtábla/Kúria harmadfokú Bf. ....................../20.........../............... számú határozatával................... óra közérdekű munkára ítélte, illetve .................................................................................. Törvényszék bv. bírája a Bv. .........................../20................/............... számú, pénzbüntetést átváltoztató végzésével .................... óra közérdekű munkát állapított meg, amelyből a bíróság a Btk. 92-92/B. §-a szerinti beszámítás alapján ................ óra közérdekű munkát kitöltöttnek vett, amelyből az elítélt az előző kijelölt munkahelyen ................ óra közérdekű munkát kitöltött. |
 
-| A végrehajtásra váró ................ óra közérdekű munkát a foglalkoztathatósági szakvéleménynek megfelelő – az elítélttel és a munkahellyel előzetesen egyeztetett – ........................................................ munkakörben kell eltölteni. |
+| A végrehajtásra váró ................ óra közérdekű munkát az érvényes munkaköri alkalmassági vagy szakmai alkalmassági vizsgálati véleménynek, illetve a foglalkoztathatósági szakvéleménynek megfelelő – az elítélttel és a munkahellyel előzetesen egyeztetett – ........................................................ munkakörben kell eltölteni. |
 
 | Egynapi közérdekű munkának 4 óra munkavégzés felel meg, a napi munkaidő legalább 4 óra, legfeljebb 12 óra, pénzbüntetés átváltoztatása esetén legalább 2 óra, legfeljebb 8 óra lehet, a heti munkaidő legalább 4 óra, legfeljebb 48 óra. |
 
@@ -28,7 +28,7 @@
 
 | Megjegyzés: |
 
-4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^297]
+4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^299]
 
 A közérdekű munkára ítéltre vonatkozó jelenléti ív
 
@@ -120,4 +120,4 @@ Kelt: ..........................................................
 
 | .......................................................................................................... munkahelyet biztosító gazdálkodó szervezet cégszerű aláírása/egyéb szervezet képviseletére jogosult aláírása |
 
-[^297]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított, a 38/2022. (XII. 27.) IM rendelet 8. § h) pontja szerint módosított szöveg.
+[^299]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított, a 38/2022. (XII. 27.) IM rendelet 8. § h) pontja szerint módosított szöveg.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-2T
 | 2023-01-01 | 2013-8-20-2T.12 | 38/2022. (XII. 27.) IM rendelet |
 | 2024-03-01 | 2013-8-20-2T.13 | 24/2016. (XII. 23.) IM rendelet |
 | 2026-03-18 | 2013-8-20-2T.15 | 4/2026. (III. 10.) IM rendelet |
+| 2026-07-01 | 2013-8-20-2T.14 | 16/2025. (XII. 19.) IM rendelet |

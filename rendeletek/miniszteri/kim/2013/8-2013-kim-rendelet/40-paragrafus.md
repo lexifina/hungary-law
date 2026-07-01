@@ -1,4 +1,4 @@
-40. §[^174] (1) A pártfogó felügyelet végrehajtása során a pártfogó felügyelő feladata különösen
+40. §[^175] (1) A pártfogó felügyelet végrehajtása során a pártfogó felügyelő feladata különösen
 
 a) annak ellenőrzése és rendszeres figyelemmel kísérése, hogy a pártfogolt megtartja-e a külön magatartási szabályokat, eleget tesz-e az előírt kötelezettségeknek, továbbá hogy milyen viselkedést tanúsít a munkahelyén vagy az oktatási intézményben, illetve a lakóhelyén,
 
@@ -16,4 +16,4 @@ c) előre be nem jelentett időpontban, folyamatos kép- és hangfelvétel tová
 
 d) az interneten történő kereséssel, ha a tilalommal érintett tevékenység az interneten történő közzétételt érinti.
 
-[^174]: A 40. § a 4/2026. (III. 10.) IM rendelet 26. §-ával megállapított szöveg.
+[^175]: A 40. § a 4/2026. (III. 10.) IM rendelet 26. §-ával megállapított szöveg.
