@@ -1,7 +1,3 @@
-2. § Az Eljr. a következő 64/C. §-sal egészül ki:
+2. §[^3]
 
-„64/C. § (1) E rendeletnek az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendeletnek a nyilvánosság fokozottabb biztosításával összefüggő módosításáról szóló 103/2026. (VI. 29.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 11. § (4) bekezdését a folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-(2) Az ÉTDR nyilvános felületén elérhetőek az ÉTDR általános tájékoztatási felületén 2024. augusztus 15-éig elérhető adatok.
-
-(3) Az ÉTDR nyilvános felületén elérhetőek a 2024. augusztus 16. és a Módr3. hatálybalépése közötti időben indult ügyek 11. § (4) bekezdése szerinti adatai.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

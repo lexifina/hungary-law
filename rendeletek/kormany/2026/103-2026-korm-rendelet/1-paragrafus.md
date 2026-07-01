@@ -4,20 +4,9 @@
 
 ## [3] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 26. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) Az építésügyi hatósági eljárásokról és ellenőrzésekről szóló 281/2024. (IX. 30.) Korm. rendelet (a továbbiakban: Eljr.) 11. §-a a következő (4) bekezdéssel egészül ki:
+1. § (1)[^1]
 
-„(4) Az ÉTDR nyilvános felületén mindenki által hozzáférhető módon a következő – személyes adatot nem tartalmazó – általános tájékoztató adatok jelennek meg az engedély vagy tudomásulvétel iránti eljárás főbb ismérveiről:
+(2)[^2]
 
-a) a kérelem vagy az egyszerű bejelentés benyújtását követően
-
-aa) a kérelmezett eljárás típusa és a kérelem benyújtásának időpontja,
-
-ab) az építési tevékenységgel érintett telek címe és helyrajzi száma, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi száma,
-
-ac) az építési tevékenység tárgya, valamint
-
-b) a döntés kiadmányozását követően a döntés meghozatalának időpontja.”
-
-(2)[^1]
-
-[^1]: Az 1. § (2) bekezdése az 5. § (2) bekezdése alapján 2026. július 29-én lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése az 5. § (2) bekezdése alapján 2026. július 29-én lép hatályba.
