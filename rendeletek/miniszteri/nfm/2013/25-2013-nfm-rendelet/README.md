@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-25-20-2
 | 2024-09-01 | 2013-25-20-2W.22 | 22/2023. (XII. 5.) ÉKM rendelet |
 | 2025-06-08 | 2013-25-20-2W.23 | 13/2025. (V. 8.) ÉKM rendelet |
 | 2026-01-01 | 2013-25-20-2W.24 | 46/2025. (XII. 23.) ÉKM rendelet |
+| 2026-07-01 | 2013-25-20-2W.25 | 34/2025. (XI. 30.) ÉKM rendelet |
