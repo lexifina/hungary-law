@@ -1,5 +1,5 @@
 ## 7. A képzések digitális formában történő biztosítása
 
-20. §[^41]
+20. §[^43]
 
-[^41]: A 20. § a 21. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^43]: A 20. § a 102/2026. (VI. 29.) Korm. rendelet 2. §-a alapján nem lép hatályba.

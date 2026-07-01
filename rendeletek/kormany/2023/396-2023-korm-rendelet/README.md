@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-396-20-
 | 2024-12-21 | 2023-396-20-22.5 | 410/2024. (XII. 20.) Korm. rendelet |
 | 2025-05-27 | 2023-396-20-22.6 | 114/2025. (V. 26.) Korm. rendelet |
 | 2025-08-22 | 2023-396-20-22.7 | 278/2025. (VIII. 21.) Korm. rendelet |
+| 2026-07-01 | 2023-396-20-22.2 | 102/2026. (VI. 29.) Korm. rendelet |

@@ -40,6 +40,6 @@ Képzési, oktatási feladatok
 
 1.17. családtámogatási és szociális ellátások.
 
-2.[^45] Tananyag- vagy tesztfejlesztés.
+2.[^49] Tananyag- vagy tesztfejlesztés.
 
-[^45]: Az 1. melléklet 2. pontja a 278/2025. (VIII. 21.) Korm. rendelet 5. § h) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 2. pontja a 278/2025. (VIII. 21.) Korm. rendelet 5. § h) pontja szerint módosított szöveg.

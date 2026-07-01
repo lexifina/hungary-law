@@ -10,7 +10,7 @@ c) a képzési beszerzésekhez kapcsolódó központosított közbeszerzési és
 
 d) a Központi beszerző szerv által a központosított közbeszerzési és beszerzési eljárás előkészítése és lefolytatása során ellátott feladatokért fizetendő beszerzési díj mértékére;
 
-e) a 20. § szerinti gazdasági társaságok által foglalkoztatott munkavállalók részére nyújtott képzések formájára.
+e)[^1]
 
 (2) A képzési beszerzések megvalósítása során e rendelet előírásai szerint köteles eljárni
 
@@ -20,7 +20,7 @@ b) az a) pontban meghatározott költségvetési szerv irányítása vagy felüg
 
 c) az a) és b) pontba tartozó szervezet által alapított vagy alapítói joggyakorlása alatt álló alapítvány és közalapítvány;
 
-d)[^1] az a)–c) pontba nem tartozó olyan szervezet, amelynek javára a képzési beszerzési eljárást az a)–c) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése alapján vagy jogszabályon alapuló megállapodás értelmében, valamint az olyan szervezet, amely az a)–c) pontba tartozó szervezet javára, illetve az a)–c) pontba tartozó szervezet foglalkoztatottjai vonatkozásában megvalósítandó képzési, oktatási feladat tekintetében bonyolítja le a képzési beszerzési eljárást;
+d)[^2] az a)–c) pontba nem tartozó olyan szervezet, amelynek javára a képzési beszerzési eljárást az a)–c) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése alapján vagy jogszabályon alapuló megállapodás értelmében, valamint az olyan szervezet, amely az a)–c) pontba tartozó szervezet javára, illetve az a)–c) pontba tartozó szervezet foglalkoztatottjai vonatkozásában megvalósítandó képzési, oktatási feladat tekintetében bonyolítja le a képzési beszerzési eljárást;
 
 e) az a)–c) pontba nem tartozó olyan szervezet, amely az e rendelet szerinti
 
@@ -32,4 +32,5 @@ csatlakozást önként vállalja (a továbbiakban: önkéntes csatlakozás).
 
 (3) A központosított közbeszerzési és beszerzési rendszerhez való önkéntes csatlakozásra a Központi beszerző szerv engedélyével akkor van lehetőség, ha az nem veszélyezteti a (2) bekezdés a)–d) pontja szerinti szervezetekkel kapcsolatos feladatellátást. A Központi beszerző szerv az önkéntesen csatlakozni kívánó szervezet központosított közbeszerzési és beszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
 
-[^1]: Az 1. § (2) bekezdés d) pontja a 126/2024. (VI. 14.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés e) pontját a 102/2026. (VI. 29.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdés d) pontja a 126/2024. (VI. 14.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
