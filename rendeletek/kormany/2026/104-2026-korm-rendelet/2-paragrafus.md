@@ -1,3 +1,5 @@
 ## 2. Az örökbefogadással kapcsolatos intézkedések végrehajtásáról szóló 432/2025. (XII. 23.) Korm. rendelet módosítása
 
-2. § Az örökbefogadással kapcsolatos intézkedések végrehajtásáról szóló 432/2025. (XII. 23.) Korm. rendelet 7. § (2) bekezdésében a „2026. július 1-jén” szövegrész helyébe a „2027. január 1-jén” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
