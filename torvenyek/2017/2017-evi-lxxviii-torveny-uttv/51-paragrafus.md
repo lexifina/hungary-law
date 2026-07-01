@@ -10,15 +10,17 @@ c) a letét típusát,
 
 d) a letét tárgyát,
 
-e) ha a letétkezelő ügyvéd a letétet alszámlán helyezi el, az alszámla számát,
+e) a költségletét kivételével, az elkülönített számla vagy alszámla számát,
 
 f) pénzletét esetében a ténylegesen letétben levő pénz összegét és devizanemét,
 
-g) a letéti szerződés megkötésének, módosításának, illetve megszűnésének a dátumát,
+g) a letéti szerződés megkötésének, módosításának, illetve megszűnésének a dátumát, a 47. § (1) bekezdés d) pontja szerinti letét esetében az átvétel idejét, az átvett pénz összegét, az átvétel jogcímét, valamint az átvett pénz megbízó részére történő átadásának időpontját,
 
 h) az adatok letéti nyilvántartásban való rögzítésnek, illetve a rögzített adatok módosításának a dátumát.
 
 (3) A (2) bekezdésben meghatározott adatokat, illetve azok változását az ügyvéd a letéti szerződés megkötésétől, illetve a (2) bekezdésben meghatározott adatok változásától számított egy munkanapon belül minősített elektronikus aláírásával és időbélyegzővel ellátott elektronikus nyilatkozat megtételével rögzíti. Az elektronikus nyilvántartás a letéthez egyedi azonosító számot rendel.
+
+(3a) Az ügyvédi letét bankszámlán való kezelésének feltétele, hogy az (1) bekezdés szerinti letét-bejelentés megtörténtét a területi kamara a letéthez rendelt egyedi azonosító szám és az elkülönített letéti számla vagy alszámla számának a megküldésével együtt elektronikusan visszaigazolja és a visszaigazolást az ügyvéd a letevővel közölje.
 
 (4) Az elektronikus letéti nyilvántartás a (2) és (3) bekezdésben meghatározott adatokat a letéti szerződés megszűnését követő tíz évig tartalmazza.
 
