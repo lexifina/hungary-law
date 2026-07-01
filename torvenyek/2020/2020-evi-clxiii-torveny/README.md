@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-163-00-00
 | 2025-01-20 | 2024. évi LXXX. törvény | 2020-163-00-00.10 |
 | 2026-01-01 | 2025. évi LXXXII. törvény | 2020-163-00-00.11 |
 | 2026-01-10 | 2025. évi XCVII. törvény | 2020-163-00-00.13 |
+| 2026-07-01 | 2025. évi LXXXII. törvény | 2020-163-00-00.12 |
