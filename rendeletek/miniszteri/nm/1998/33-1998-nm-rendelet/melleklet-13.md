@@ -26,6 +26,6 @@
 
 ## * A megfelelő szöveget alá kell húzni.
 
-13. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^121]
+13. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^124]
 
-[^121]: A 13. számú melléklet a 16/2025. (V. 29.) BM rendelet 4. §-ával megállapított szöveg.
+[^124]: A 13. számú melléklet a 16/2025. (V. 29.) BM rendelet 4. §-ával megállapított szöveg.

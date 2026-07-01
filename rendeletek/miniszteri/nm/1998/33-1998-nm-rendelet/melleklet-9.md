@@ -1,4 +1,4 @@
-9. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^117]
+9. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^120]
 
 Azon munkakörülmények, amelyek fennállásakor a várandós nők, a nemrégen szült és szoptató nők foglalkoztatásához kockázatbecslés szükséges
 
@@ -38,4 +38,4 @@ e) szén-monoxid;
 
 f) veszélyes, bizonyíthatóan a bőrön át felszívódó anyagok.”
 
-[^117]: A 9. számú melléklet a 16/2015. (III. 30.) EMMI rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^120]: A 9. számú melléklet a 16/2015. (III. 30.) EMMI rendelet 12. § (2) bekezdésével megállapított szöveg.

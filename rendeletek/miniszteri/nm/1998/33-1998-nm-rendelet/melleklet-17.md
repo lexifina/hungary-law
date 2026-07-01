@@ -1,4 +1,4 @@
-17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^126]
+17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^129]
 
 Egészségügyi Nyilatkozat és vizsgálati adatok (borító)
 
@@ -48,4 +48,4 @@ Járványügyi érdekből kiemelt munkakörök, tevékenységek
 
 3 A fertőző tbc kizártnak tekintendő, amennyiben az egyén immunológiai státuszát figyelembe véve a fertőző tbc-t kizáró vizsgálat keretében elvégzett immunológiai vizsgálati eredmény negatív (IGRA vagy tuberculin negativitás, illetve tuberculin pozitivitás ellenére IGRA negativitás), vagy a mellkasröntgen negatív. IGRA-val igazolt immunológiai pozitivitás ellenére sem fertőző az, aki emellett negatív tüdőröntgen vizsgálati eredménnyel rendelkezik. 18 év alatti életkorban évenkénti monitorozó röntgenvizsgálat nem végezhető.
 
-[^126]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 20/2025. (VI. 26.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^129]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 20/2025. (VI. 26.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.

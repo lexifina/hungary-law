@@ -1,4 +1,4 @@
-3. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^113]
+3. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^116]
 
 Fizikai, kémiai kóroki tényezők, amelyek expozíciója időszakos munkaköri alkalmassági vizsgálatot tesz szükségessé
 
@@ -208,4 +208,4 @@ Fizikai, kémiai kóroki tényezők, amelyek expozíciója időszakos munkaköri
 
 | 100 dBAeq zajexpozíció felett | évenként | halláspanasz esetén soron kívül |
 
-[^113]: A 3. számú melléklet a 20/2025. (VI. 26.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^116]: A 3. számú melléklet a 20/2025. (VI. 26.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

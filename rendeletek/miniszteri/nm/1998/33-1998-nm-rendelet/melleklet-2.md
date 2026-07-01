@@ -42,7 +42,7 @@
 
 ## 3 A fertőző tbc kizártnak tekintendő, amennyiben az egyén immunológiai státuszát figyelembe véve a fertőző tbc-t kizáró vizsgálat keretében elvégzett immunológiai vizsgálati eredmény negatív (IGRA vagy tuberculin negativitás, illetve tuberculin pozitivitás ellenére IGRA negativitás), vagy a mellkasröntgen negatív. IGRA-val igazolt immunológiai pozitivitás ellenére sem fertőző az, aki emellett negatív tüdőröntgen vizsgálati eredménnyel rendelkezik. 18 év alatti életkorban évenkénti monitorozó röntgenvizsgálat nem végezhető.
 
-2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^112]
+2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^115]
 
 Egészségügyi nyilatkozat
 
@@ -108,4 +108,4 @@ _______
 
 * Tanulók esetében a szakmai gyakorlat megkezdése előtt 1 héten belül töltendő ki.
 
-[^112]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^115]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.

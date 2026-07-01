@@ -28,6 +28,6 @@
 
 ## * A megfelelő szöveget alá kell húzni
 
-16. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^124]
+16. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^127]
 
-[^124]: A 16. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. § (3) bekezdés b) pontja, a 3/2010. (VII. 30.) NGM rendelet 3. § (3) bekezdés a)–c) pontja, a 28/2017. (X. 25.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^127]: A 16. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. § (3) bekezdés b) pontja, a 3/2010. (VII. 30.) NGM rendelet 3. § (3) bekezdés a)–c) pontja, a 28/2017. (X. 25.) EMMI rendelet 8. §-a szerint módosított szöveg.
