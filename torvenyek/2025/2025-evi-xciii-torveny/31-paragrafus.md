@@ -1,1 +1,1 @@
-### 31. §
+31. § A Bv. tv. 283. § (3) bekezdésében és a 284. § (2) bekezdés b) pont ba) alpontjában az „a foglalkoztathatósági szakvéleményt” szövegrész helyébe a „ha készült, a foglalkoztathatósági szakvéleményt” szöveg lép.
