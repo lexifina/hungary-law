@@ -1,0 +1,3 @@
+103/J. § (1) Ha a rendelet 19. cikke szerinti, a decentralizált informatikai rendszeren keresztül folytatott kommunikáció nem lehetséges, a közlésre kötelező európai határozat vagy a megőrzésre kötelező európai határozat bármely olyan módon előterjeszthető, amely lehetővé teszi a tanúsítvány hitelességének megállapítását.
+
+(2) A közlésre kötelező európai határozat vagy a megőrzésre kötelező európai határozat szabályszerű továbbításának minősül az is, ha a tagállami igazságügyi hatóság a tanúsítványt az Európai Igazságügyi Hálózat vagy az Eurojust biztonságos távközlési rendszerén keresztül továbbítja.
