@@ -10,4 +10,4 @@
 
 (2b) A helyi önkormányzatokért felelős miniszter a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvényben meghatározott eljárás szerinti egyedi döntése alapján a (2a) bekezdésben foglaltak alól a tiszteletdíj tekintetében felmentést ad abban az esetben, ha megállapítható, hogy az alpolgármester nem vett részt a helyi önkormányzat gazdálkodását kedvezőtlenül befolyásoló döntéshozatali eljárásban, vagy a döntéssel nem értett egyet, továbbá ha a tiszteletdíj kifizetése az önkormányzati feladatellátást nem veszélyezteti.
 
-(3) A főpolgármester-helyettes, a főállású alpolgármester, a társadalmi megbízatású alpolgármester, a vármegyei közgyűlés alelnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.
+(3)

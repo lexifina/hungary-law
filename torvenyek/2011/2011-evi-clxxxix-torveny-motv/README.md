@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 2011-189-00-00.72 |
 | 2025-12-23 | 2025. évi CXXI. törvény | 2011-189-00-00.75 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2011-189-00-00.76 |
+| 2026-07-01 | 2026. évi XXV. törvény | 2011-189-00-00.77 |
