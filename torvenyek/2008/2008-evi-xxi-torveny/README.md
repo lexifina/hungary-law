@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-21-00-00
 | 2018-01-01 | 2017. évi CLXXXVIII. törvény | 2008-21-00-00.12 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2008-21-00-00.13 |
 | 2025-06-11 | 2025. évi XXII. törvény | 2008-21-00-00.14 |
+| 2026-07-01 | 2025. évi CXIX. törvény | 2008-21-00-00.15 |
