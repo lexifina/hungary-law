@@ -1,4 +1,4 @@
-3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^124]
+3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^126]
 
 A fémkereskedelmi engedély, illetve koncesszori fémkereskedelmi engedély adattartalma
 
@@ -66,4 +66,4 @@ Kelt: ...................................................
 
 kiadmányozó
 
-[^124]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja, a 309/2023. (VII. 14.) Korm. rendelet 8. § (3) bekezdése ás 9. § 42-51. pontja szerint módosított szöveg.
+[^126]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja, a 309/2023. (VII. 14.) Korm. rendelet 8. § (3) bekezdése ás 9. § 42-51. pontja szerint módosított szöveg.

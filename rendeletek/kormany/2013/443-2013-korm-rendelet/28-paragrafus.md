@@ -4,7 +4,7 @@
 
 (2) A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedő a Fémtv. 4. § (8), (9), valamint (13) bekezdésében foglaltaktól eltérően fémkereskedelmi engedélyköteles anyagot az országhatárt átlépő hulladékszállításról szóló kormányrendeletben meghatározottak szerint, valamint nemzetközi fuvarokmánnyal együtt szállíthat, mely tartalmazza az e rendelet 27. § (1) bekezdésében meghatározott kötelező tartalmi elemeket.
 
-(3) A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedőre a Fémtv. 5. § (1)–(3) bekezdésében, valamint az e rendeletben foglalt nyilvántartás és havi zárás tekintetében meghatározott szabályok nem alkalmazandóak, a fémkereskedelmi hatóság részére történő adatszolgáltatás kivételével.
+(3)[^106] A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedőre a Fémtv. 5. § (1)–(3) bekezdésében, valamint az e rendeletben foglalt nyilvántartás és negyedéves zárás tekintetében meghatározott szabályok nem alkalmazandóak, a fémkereskedelmi hatóság részére történő adatszolgáltatás kivételével.
 
 (4) A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedő a Fémtv. 5. § (1) bekezdésében, valamint az e rendelet 20. § (1) bekezdésében meghatározottaktól eltérően a fémkereskedelmi engedélyköteles anyag értékesítéséről az anyag jogszerű beszerzésének igazolása céljából eseményszerűen, az e rendelet 12. mellékletében meghatározott adatokról a fémkereskedelmi hatóságnak elektronikus formában az értékesítést/vételt követő munkanapon adatot szolgáltat.
 
@@ -25,3 +25,5 @@
 (12) Az engedélyező vámszerv az engedély módosítása iránti kérelemben foglaltak alapján bevonja a fémkereskedelmi engedélyt vagy adott telephely vonatkozásában a betétlapot, valamint kiadja az új fémkereskedelmi engedélyt vagy adott telephely vonatkozásában a betétlapot.
 
 (13) A határon átnyúló fémkereskedelmi tevékenységre vonatkozó engedély a Fémtv. 9. § (1) bekezdésében meghatározott környezetvédelmi hatóság által kiadott engedély lejártától függetlenül határozott időre, legfeljebb 1 évre adható.
+
+[^106]: A 28. § (3) bekezdése a 395/2025. (XII. 16.) Korm. rendelet 17. §-a szerint módosított szöveg.

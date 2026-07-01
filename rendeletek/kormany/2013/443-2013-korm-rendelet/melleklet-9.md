@@ -1,4 +1,4 @@
-9. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^129]
+9. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^131]
 
 Írásbeli nyilatkozat tartalmi követelményei
 
@@ -64,4 +64,4 @@ d) mennyisége [kg]:
 
 Aláírás
 
-[^129]: A 9. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (6) bekezdése és 9. § 48., 62. és 63. pontja szerint módosított szöveg.
+[^131]: A 9. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (6) bekezdése és 9. § 48., 62. és 63. pontja szerint módosított szöveg.

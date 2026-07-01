@@ -1,4 +1,4 @@
-2. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^123]
+2. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^125]
 
 A émkereskedelmi engedély, illetve koncesszori fémkereskedelmi engedély iránti kérelem adattartalma
 
@@ -146,4 +146,4 @@ a kérelmező aláírása
 
 (bélyegzője)
 
-[^123]: A 2. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (2) bekezdése és 9. § 42-44. pontja szerint módosított szöveg.
+[^125]: A 2. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (2) bekezdése és 9. § 42-44. pontja szerint módosított szöveg.

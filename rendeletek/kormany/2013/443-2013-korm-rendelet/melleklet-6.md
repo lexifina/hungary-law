@@ -1,4 +1,4 @@
-## A fémkereskedelmi készletnyilvántartás havi zárásának adattartalma
+## A fémkereskedelmi készletnyilvántartás negyedéves zárásának adattartalma
 
 ## I. Főlap (a bejelentő adatai):
 
@@ -76,7 +76,7 @@
 
 ## 2.3. Záró készlet
 
-6. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^127]
+6. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^129]
 
 Írásbeli megállapodás tartalmi követelményei
 
@@ -146,4 +146,4 @@ d) mennyisége (kg):
 
 Aláírások
 
-[^127]: A 6. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (5) bekezdése és 9. § 60. pontja szerint módosított szöveg.
+[^129]: A 6. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (5) bekezdése és 9. § 60. pontja szerint módosított szöveg.

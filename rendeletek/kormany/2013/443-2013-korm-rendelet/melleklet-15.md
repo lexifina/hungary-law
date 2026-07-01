@@ -1,8 +1,8 @@
-15. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^133]
+15. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^135]
 
 A hulladékgazdálkodási koncessziós társaság által teljesítendő eseti adatszolgáltatás
 
-I. Főlap
+## I. Főlap
 
 1. A hulladékgazdálkodási koncessziós társaság adatai
 
@@ -80,4 +80,4 @@ II. Pótlap
 
 | 21. | Wolfram | 8101 |  |
 
-[^133]: A 15. mellékletet a 309/2023. (VII. 14.) Korm. rendelet 8. § (7) bekezdése iktatta be.
+[^135]: A 15. mellékletet a 309/2023. (VII. 14.) Korm. rendelet 8. § (7) bekezdése iktatta be.

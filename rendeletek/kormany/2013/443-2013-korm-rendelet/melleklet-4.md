@@ -1,4 +1,4 @@
-4. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^125]
+4. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^127]
 
 A fémkereskedelmi / koncesszori fémkereskedelmi tevékenységről szóló napi bejelentés adattartalma
 
@@ -66,4 +66,4 @@ h) mért mennyiség (kg):
 
 i) szállítóeszköz azonosítója:
 
-[^125]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 40. § f) és g) pontja, a 309/2023. (VII. 14.) Korm. rendelet 9. § 52-57. pontja szerint módosított szöveg.
+[^127]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 40. § f) és g) pontja, a 309/2023. (VII. 14.) Korm. rendelet 9. § 52-57. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 10. A hasznosító által teljesítendő adatszolgáltatás
 
-22. § (1)[^97] A Fémtv. 10. § (2) bekezdése szerinti hasznosítás céljára meghatározott írásbeli megállapodás tartalmi követelményeit a 7. melléklet tartalmazza. A megállapodást két eredeti példányban kell kiállítani, melyből fémkereskedőtől történő beszerzés vagy koncesszori fémkereskedőtől történő átvétel esetén az egyik példányt a fémkereskedő, illetve koncesszori fémkereskedő a nyilvántartásai mellett köteles őrizni. Egyéb esetben a megállapodást a fémkereskedelmi engedélyköteles anyagot átadó és a Fémtv. 10. § (1) bekezdésében meghatározott hasznosító (a továbbiakban: hasznosító) az átadástól számított 5 évig köteles megőrizni.
+22. § (1)[^98] A Fémtv. 10. § (2) bekezdése szerinti hasznosítás céljára meghatározott írásbeli megállapodás tartalmi követelményeit a 7. melléklet tartalmazza. A megállapodást két eredeti példányban kell kiállítani, melyből fémkereskedőtől történő beszerzés vagy koncesszori fémkereskedőtől történő átvétel esetén az egyik példányt a fémkereskedő, illetve koncesszori fémkereskedő a nyilvántartásai mellett köteles őrizni. Egyéb esetben a megállapodást a fémkereskedelmi engedélyköteles anyagot átadó és a Fémtv. 10. § (1) bekezdésében meghatározott hasznosító (a továbbiakban: hasznosító) az átadástól számított 5 évig köteles megőrizni.
 
 (2) A hasznosító a Fémtv. 10. § (3) bekezdésében meghatározott adatszolgáltatási kötelezettségét a telephely szerint illetékes vámszerv részére, elektronikus úton köteles teljesíteni a szállítmány megérkezését megelőzően legalább 1 munkanappal.
 
@@ -12,4 +12,4 @@
 
 (6) A Fémtv. 10. § (1) bekezdés b) pontja szerinti beszerzésnek minősül – és fémkereskedelmi engedély nélkül végezhető – a fémkereskedő által, a saját tulajdonát képező fémkereskedelmi engedélyköteles anyag hasznosítónak történő átadása bérfeldolgozás céljára.
 
-[^97]: A 22. § (1) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. és 37. pontja szerint módosított szöveg.
+[^98]: A 22. § (1) bekezdése a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. és 37. pontja szerint módosított szöveg.

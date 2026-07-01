@@ -1,4 +1,4 @@
-11. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^130]
+11. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^132]
 
 Az anyagkísérő okmány adattartalma
 
@@ -70,4 +70,4 @@ dc) átvett súly:
 
 11. Dátum, aláírás, bélyegzőlenyomat:
 
-[^130]: A 11. melléklet a 309/2023. (VII. 14.) Korm. rendelet 9. § 64. pontja szerint módosított szöveg.
+[^132]: A 11. melléklet a 309/2023. (VII. 14.) Korm. rendelet 9. § 64. pontja szerint módosított szöveg.

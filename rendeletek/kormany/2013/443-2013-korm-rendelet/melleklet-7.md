@@ -1,4 +1,4 @@
-7. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^128]
+7. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^130]
 
 Írásbeli megállapodás tartalmi követelményei – hasznosítás
 
@@ -46,4 +46,4 @@ e) melléktermék minősítéséről szóló határozat száma:
 
 Aláírások
 
-[^128]: A 7. melléklet a 309/2023. (VII. 14.) Korm. rendelet 9. § 61. pontja szerint módosított szöveg.
+[^130]: A 7. melléklet a 309/2023. (VII. 14.) Korm. rendelet 9. § 61. pontja szerint módosított szöveg.
