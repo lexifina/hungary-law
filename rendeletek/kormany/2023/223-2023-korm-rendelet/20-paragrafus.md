@@ -1,19 +1,18 @@
 20. § Az R2.
 
-a)[^33]
+a)[^32]
 
-b)[^34]
+b)[^33]
 
-c)[^35]
+c)[^34]
 
-d)[^36]
+d)[^35]
 
-e)[^37]
+e) 8. § (9) bekezdésében a „36 óra” szövegrész helyébe a „24 óra” szöveg
 
 lép.
 
-[^33]: A 20. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 20. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 20. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 20. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 20. § e) pontja a 25. § (3) bekezdés alapján 2026. július 1-jén lép hatályba.
+[^32]: A 20. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 20. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 20. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 20. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

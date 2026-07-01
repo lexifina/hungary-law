@@ -1,3 +1,3 @@
-24. §[^41]
+24. §[^39]
 
-[^41]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
