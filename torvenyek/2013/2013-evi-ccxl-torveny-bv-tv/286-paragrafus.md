@@ -16,12 +16,12 @@ c) azért nem teljesíthető, mert az elítélt jövedelmi viszonyai miatt nem k
 
 (2) A pártfogó felügyelő új munkahelyet jelöl ki, ha erre a büntetés-végrehajtási bíró vagy az ügyészség felhívja.
 
-(3) A pártfogó felügyelő az új munkahely kijelölése előtt az elítélt új foglalkoztathatósági vizsgálatát kezdeményezi, ha
+(3) A pártfogó felügyelő az új munkahely kijelölése előtt az elítélt foglalkoztathatósági vizsgálatát kezdeményezi, ha
 
-a) a korábbiakban kiállított foglalkoztathatósági szakvélemény érvényességi ideje lejárt,
+a) az elítélt egészségi állapotában orvosi iratokkal igazoltan tartós rosszabbodás állt be,
 
-b) az elítélt egészségi állapotában orvosi iratokkal igazoltan tartós rosszabbodás állt be, vagy
+b) a büntetés-végrehajtási bíró, illetve az ügyészség erre felhívja, vagy
 
-c) a büntetés-végrehajtási bíró vagy az ügyészség erre felhívja.
+c) az új munkahelyen ellátott munkakör vonatkozásában szükséges a foglalkoztathatósági szakvélemény elkészítése.
 
 (4) Az új munkahely kijelöléséről szóló határozattal szembeni bírósági felülvizsgálati kérelemre a 283. § (5) és (5a) bekezdését kell alkalmazni azzal, hogy az elítélt és a védő az új munkahely kijelölése iránti kérelem elutasításáról hozott határozattal szemben is élhet bírósági felülvizsgálati kérelemmel.

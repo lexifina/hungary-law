@@ -1,8 +1,8 @@
-283. § (1) Az elítélt a foglalkoztathatósági szakvéleményt az elkészültétől számított tizenöt napon belül köteles bemutatni a pártfogó felügyelőnek, aki ennek alapján – kivéve, ha a közérdekű munkavégzés félbeszakítására okot adó körülmény áll fenn – legkésőbb a foglalkoztathatósági szakvélemény bemutatásától számított tizenöt napon belül a közérdekű munka végrehajtására szolgáló munkahelyet határozatban jelöli ki.
+283. § (1) A pártfogó felügyelő a 282. § (4) bekezdés alkalmazása esetén az elítélt személyes meghallgatását követő tizenöt napon belül, ha az elítélt foglalkoztathatósági vizsgálatát kezdeményezte legkésőbb a foglalkoztathatósági szakvélemény bemutatásától számított tizenöt napon belül – kivéve, ha a közérdekű munkavégzés félbeszakítására okot adó körülmény áll fenn – a közérdekű munka végrehajtására szolgáló munkahelyet határozatban jelöli ki.
 
 (2) A munkahely kijelölése előtt a pártfogó felügyelő – a kötelezettségeire vonatkozó tájékoztatás mellett – egyeztet a kijelölhető munkahellyel. A kijelölés esetére a kötelezettségek vállalásáról a munkahely vezetője vagy képviseletre jogosult tisztségviselője nyilatkozatot tesz. Ha a munkahely biztosítására a helyi önkormányzat köteles, a munkahelyi nyilatkozatot nem kell beszerezni.
 
-(3) A munkahely kijelölésénél figyelembe kell venni az elítélt egészségi állapotát, a foglalkoztathatósági szakvéleményt, az elítélt szakképzettségét, szakképesítését és a munkára való alkalmasságát, valamint az elkövetett bűncselekmény jellegét.
+(3) A munkahely kijelölésénél figyelembe kell venni az elítélt egészségi állapotát, ha készült, a foglalkoztathatósági szakvéleményt, az elítélt szakképzettségét, szakképesítését és a munkára való alkalmasságát, valamint az elkövetett bűncselekmény jellegét.
 
 (4) A munkavégzés helyeként nem jelölhető ki az a munkahely,
 

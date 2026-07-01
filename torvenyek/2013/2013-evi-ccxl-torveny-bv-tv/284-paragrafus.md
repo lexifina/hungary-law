@@ -6,7 +6,7 @@ a) meg kell határozni a munkavégzés kezdő időpontját, amely nem lehet keve
 
 b) az elítéltet figyelmeztetni kell arra, hogy
 
-ba) a foglalkoztathatósági szakvéleményt a munkahely képviselőjének mutassa be, és
+ba) ha készült, a foglalkoztathatósági szakvéleményt a munkahely képviselőjének mutassa be, és
 
 bb) ha a kijelölt munkahelyen a felhívás szerinti határidőn belül vagy időpontban nem jelenik meg, akkor a pártfogó felügyelő a közérdekű munka szabadságvesztésre történő átváltoztatását kezdeményezi.
 

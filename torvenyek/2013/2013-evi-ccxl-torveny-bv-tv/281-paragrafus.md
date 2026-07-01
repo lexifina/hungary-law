@@ -42,6 +42,8 @@ h) az egy napon foglalkoztatható személyek legkisebb és legnagyobb létszám�
 
 i) a munkavégzéshez szükséges iskolai végzettségre, szakképesítésre vonatkozó adatokat.
 
+j) a munkavégzéssel érintett munkakör vonatkozásában a munkaköri alkalmassági vizsgálat szükségességét.
+
 (6) Az állami foglalkoztatási szerv a honlapján való közzététellel tájékoztatja a pártfogó felügyelői szolgálatot azokról a munkahelyekről, amelyek közérdekű munka végzésére elítéltek kijelölését igénylik.
 
 (7) A pártfogó felügyelő munkahely kijelöléséről szóló értesítése alapján az állami foglalkoztatási szerv átvezeti a változásokat a foglalkoztatói nyilvántartás (5) bekezdés szerinti adatain. Ha a pártfogó felügyelő a munkahely kijelöléséről értesíti a foglalkoztatási szervet, akkor a kijelölt munkahely nem jeleníthető meg a szabálysértési eljárásban kiszabott közérdekű munka, vagy a pénzbírság, helyszíni bírság vagy közigazgatási bírság megváltására vállalt közérdekű munka elvégzésre kijelölhető munkahelyként a foglalkoztatási szerv által a Szabs. tv. alapján vezetett közérdekű munka foglalkoztatói nyilvántartásban.
