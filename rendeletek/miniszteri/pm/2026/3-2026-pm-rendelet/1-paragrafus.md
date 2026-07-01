@@ -1,0 +1,5 @@
+## [1] A miniszteri rendelet célja, hogy az állami vagyon felügyeletéért felelős miniszter az egyes állami tulajdonú gazdasági társaságok tekintetében a kormányzati feladatmegosztásra figyelemmel a gazdasági társaság tevékenysége szerinti ágazat szakpolitikai feladatainak ellátásáért felelős személyt tulajdonosi joggyakorlóként, valamint a tulajdonosi joggyakorlás időtartamát kijelölje.
+
+## [2] Az állami vagyonról szóló 2007. évi CVI. törvény 71. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 130. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 3. § (2) bekezdés a) pontja és (2a) bekezdése, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 7/A. § (1) bekezdés a) és b) pontja alapján az 1. melléklet szerinti gazdasági társaságok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyeket, továbbá a tulajdonosi joggyakorlás időtartamát az 1. melléklet szerint jelölöm ki.

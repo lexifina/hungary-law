@@ -1,0 +1,9 @@
+# 3/2026. (VI. 30.) PM rendelet
+
+az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-3-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-07-01 | 2026-3-20-53.1 | 3/2026. (VI. 30.) PM rendelet |

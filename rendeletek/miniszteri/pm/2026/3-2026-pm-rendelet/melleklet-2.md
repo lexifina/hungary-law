@@ -1,0 +1,313 @@
+## I. Tulajdonosi joggyakorló: az Agrár- és Élelmiszergazdaságért Felelős Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Agrármarketing Centrum Nonprofit Korlátolt Felelősségű Társaság | 01-09-284102 | 2030. december 31. |
+
+| 3 | AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-377109 | 2030. december 31. |
+
+| 4 | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09-337636 | 2030. december 31. |
+
+| 5 | Kincsem Nemzeti Lóverseny és Lovas Stratégiai Korlátolt Felelősségű Társaság | 01-09-972385 | 2030. december 31. |
+
+| 6 | Magyar Bormarketing Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-142187 | 2030. december 31. |
+
+## II. Tulajdonosi joggyakorló: a Belügyminisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Aktív Magyarország Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343790 | 2030. december 31. |
+
+| 3 | Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141742 | 2030. december 31. |
+
+| 4 | PKLV Polgári Kézilőfegyver- és Lőszervizsgáló Korlátolt Felelősségű Társaság | 01-09-565671 | 2030. december 31. |
+
+## III. Tulajdonosi joggyakorló: az Egészségügyi Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2030. december 31. |
+
+| 3 | ESZFK Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-358749 | 2030. december 31. |
+
+| 4 | NEOEMKI Nemzeti Orvostechnikai Eszköz Megfelelőségértékelő és Tanúsító Korlátolt Felelősségű Társaság | 01-09-357519 | 2030. december 31. |
+
+## IV. Tulajdonosi joggyakorló: az Élő Környezetért Felelős Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság | 09-09-016747 | 2030. december 31. |
+
+| 3 | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-142626 | 2030. december 31. |
+
+| 4 | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2030. december 31. |
+
+## V. Tulajdonosi joggyakorló: a Gazdasági és Energetikai Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Általános Vagyonkezelő Kft. | 01-09-283630 | 2030. december 31. |
+
+| 3 | CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2030. december 31. |
+
+| 4 | CH Creative Hungary Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049808 | 2030. december 31. |
+
+| 5 | Comitatus Üzletviteli és Tanácsadó Korlátolt Felelősségű Társaság | 01-09-291461 | 2030. december 31. |
+
+| 6 | Energiastratégia Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2030. december 31. |
+
+| 7 | FEAK Független Energetikai Adatközpont Zártkörűen Működő Részvénytársaság | 01-10-142423 | 2030. december 31. |
+
+| 8 | Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság | 01-10-042085 | 2030. december 31. |
+
+| 9 | HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049939 | 2030. december 31. |
+
+| 10 | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140442 | 2030. december 31. |
+
+| 11 | Hunatom Innovációs és Gazdaságfejlesztési Zártkörűen Működő Részvénytársaság | 01-10-049752 | 2030. december 31. |
+
+| 12 | IHT Informatika Zártkörűen Működő Részvénytársaság | 01-10-142658 | 2030. december 31. |
+
+| 13 | Magyar Gazdaságfejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-980439 | 2030. december 31. |
+
+| 14 | Magyar Posta Zártkörűen Működő Részvénytársaság | 01-10-042463 | 2030. december 31. |
+
+| 15 | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2030. december 31. |
+
+| 16 | MECSEKÉRC Környezetvédelmi Zártkörűen Működő Részvénytársaság | 02-10-060233 | 2030. december 31. |
+
+| 17 | MVM Energetika Zártkörűen Működő Részvénytársaság | 01-10-041828 | 2030. december 31. |
+
+| 18 | Nemzeti Energetikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2030. december 31. |
+
+| 19 | NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság | 01-10-048710 | 2030. december 31. |
+
+| 20 | NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság | 01-10-142117 | 2030. december 31. |
+
+| 21 | N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2030. december 31. |
+
+| 22 | ORMOSSZÉN Szénkitermelő és Kereskedelmi zártkörűen működő Részvénytársaság | 05-10-000509 | 2030. december 31. |
+
+| 23 | Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság | 17-10-001282 | 2030. december 31. |
+
+| 24 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-116986 | 2030. december 31. |
+
+| 25 | START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2030. december 31. |
+
+| 26 | VEX Magyar Védelmi és Űripari Exportügynökség Zártkörűen Működő Részvénytársaság | 01-10-141670 | 2030. december 31. |
+
+## VI. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság | 01-10-042134 | 2030. december 31. |
+
+| 3 | HM Zrínyi Geoinformációs és Toborzástámogató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920090 | 2030. december 31. |
+
+| 4 | Katonai Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 07-09-018249 | 2030. december 31. |
+
+| 5 | Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140513 | 2030. december 31. |
+
+| 6 | Védelmi Innovációs Kutatóintézet Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-142269 | 2030. december 31. |
+
+## VII. Tulajdonosi joggyakorló: a Közlekedési és Beruházási Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Adria Port Zártkörűen Működő Részvénytársaság | 01-10-140567 | 2030. december 31. |
+
+| 3 | Air Hungary Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-142541 | 2030. december 31. |
+
+| 4 | AIR-HORIZONT PÉCS-POGÁNYI REPÜLŐTÉR FEJLESZTÉSÉÉRT Nonprofit Korlátolt Felelősségű Társaság | 02-09-074096 | 2030. december 31. |
+
+| 5 | Balatoni Hajózási Zártkörűen működő Részvénytársaság | 14-10-300113 | 2030. december 31. |
+
+| 6 | EXPO PARK Ingatlanfejlesztő, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-734453 | 2030. december 31. |
+
+| 7 | ÉMI-TÜV SÜD Minőségügyi és Biztonságtechnikai Korlátolt Felelősségű Társaság | 13-09-072640 | 2030. december 31. |
+
+| 8 | Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság | 08-10-001787 | 2030. december 31. |
+
+| 9 | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság | 01-10-045570 | 2030. december 31. |
+
+| 10 | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-333264 | 2030. december 31. |
+
+| 11 | Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-046265 | 2030. december 31. |
+
+| 12 | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2030. december 31. |
+
+| 13 | MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2030. december 31. |
+
+| 14 | MAHART-Szabadkikötő Zrt. | 01-10-045276 | 2030. december 31. |
+
+| 15 | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 01-10-042272 | 2030. december 31. |
+
+| 16 | Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság | 01-10-047569 | 2030. december 31. |
+
+| 17 | Nemzeti Regionális Repülőtér Üzemeltető Holding Korlátolt Felelősségű Társaság | 01-09-439418 | 2030. december 31. |
+
+| 18 | Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság | 01-10-043108 | 2030. december 31. |
+
+| 19 | Pécs-pogányi repülőteret működtető Korlátolt Felelősségű Társaság | 02-09-065905 | 2030. december 31. |
+
+| 20 | Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049150 | 2030. december 31. |
+
+| 21 | TERC Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-875405 | 2030. december 31. |
+
+| 22 | TÜV Rheinland-KTI Műszaki Ellenőrző és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-070167 | 2030. december 31. |
+
+| 23 | Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140096 | 2030. december 31. |
+
+## VIII. Tulajdonosi joggyakorló: a Külügyminisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság | 01-09-203215 | 2030. december 31. |
+
+| 3 | KKM Subsidium Korlátolt Felelősségű Társaság | 01-09-355242 | 2030. december 31. |
+
+| 4 | Magyar Külügyi Intézet Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-142325 | 2030. december 31. |
+
+## IX. Tulajdonosi joggyakorló: a Miniszterelnökség
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Brüsszeli Magyar Ház Nonprofit Korlátolt Felelősségű Társaság | 01-09-431568 | 2030. december 31. |
+
+| 3 | Magyar Céginformáció Fejlesztő Korlátolt Felelősségű Társaság | 01-09-437697 | 2030. december 31. |
+
+| 4 | MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zártkörűen Működő Részvénytársaság | 01-10-042469 | 2030. december 31. |
+
+## X. Tulajdonosi joggyakorló: az Oktatási és Gyermekügyi Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2030. december 31. |
+
+| 3 | Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-884688 | 2030. december 31. |
+
+| 4 | Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2030. december 31. |
+
+## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2030. december 31. |
+
+| 3 | Szerencsejáték Zártkörűen Működő Részvénytársaság | 01-10-041628 | 2030. december 31. |
+
+## XII. Tulajdonosi joggyakorló: a Szociális és Családügyi Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | ERFO Rehabilitációs Foglalkoztató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919716 | 2030. december 31. |
+
+| 3 | FŐKEFE Rehabilitációs Foglalkoztató Ipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-908769 | 2030. december 31. |
+
+| 4 | Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919882 | 2030. december 31. |
+
+| 5 | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2030. december 31. |
+
+| 6 | OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság "végelszámolás alatt" | 01-09-921266 | 2030. december 31. |
+
+## XIII. Tulajdonosi joggyakorló: a Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság | 01-09-177086 | 2030. december 31. |
+
+| 3 | Duna Művészegyüttes Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920836 | 2030. december 31. |
+
+| 4 | Erkel Színház Nonprofit Korlátolt Felelősségű Társaság | 01-09-439416 | 2030. december 31. |
+
+| 5 | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2030. december 31. |
+
+| 6 | Filharmónia Magyarország Koncert és Fesztiválszervező Nonprofit Korlátolt Felelősségű Társaság | 02-09-081011 | 2030. december 31. |
+
+| 7 | Hollóházi Hungarikum Nonprofit Korlátolt Felelősségű Társaság | 05-09-018918 | 2030. december 31. |
+
+| 8 | Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság | 01-09-884398 | 2030. december 31. |
+
+| 9 | Kárpát-medencei Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság | 01-09-274434 | 2030. december 31. |
+
+| 10 | Magyarság Háza Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-335243 | 2030. december 31. |
+
+| 11 | Magyar Házak Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014103 | 2030. december 31. |
+
+| 12 | MNF Magyar Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Korlátolt Felelősségű Társaság | 01-09-921743 | 2030. december 31. |
+
+| 13 | Monostori Erőd Hadkultúra Központ Műemlékhelyreállító, Ingatlanfenntartó és -hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 11-09-014785 | 2030. december 31. |
+
+| 14 | Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság | 01-09-699056 | 2030. december 31. |
+
+| 15 | Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-912823 | 2030. december 31. |
+
+| 16 | Nemzeti Bélyegmúzeum Nonprofit Korlátolt Felelősségű Társaság | 01-09-359468 | 2030. december 31. |
+
+| 17 | Nemzeti Filharmónia Ingatlanfejlesztési Korlátolt Felelősségű Társaság | 01-09-698948 | 2030. december 31. |
+
+| 18 | Nemzeti Színház Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-044426 | 2030. december 31. |
+
+| 19 | Nemzeti Táncszínház Nonprofit Korlátolt Felelősségű Társaság | 01-09-921742 | 2030. december 31. |
+
+| 20 | NKÖV Nemzeti Kulturális Örökség Védelmi Nonprofit Korlátolt Felelősségű Társaság | 01-09-921728 | 2030. december 31. |
+
+| 21 | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság | 01-09-324951 | 2030. december 31. |
+
+| 22 | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2030. december 31. |
+
+| 23 | Robert Capa Kortárs Fotográfiai Központ Nonprofit Kft. | 01-09-176337 | 2030. december 31. |
+
+## XIV. Tulajdonosi joggyakorló: a Tudományos és Technológiai Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140237 | 2030. december 31. |
+
+| 3 | Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-141987 | 2030. december 31. |
+
+| 4 | Kormányzati Szolgáltató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-380507 | 2030. december 31. |
+
+| 5 | Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság | 01-09-389831 | 2030. december 31. |
+
+## XV. Tulajdonosi joggyakorló: a Vidék- és Településfejlesztési Minisztérium
+
+|  | A | B | C |
+
+| 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 2 | Fejlődő Magyar Falvak Korlátolt Felelősségű Társaság | 01-09-444372 | 2030. december 31. |
+
+| 3 | Somogyi Beruházásszervező és Mérnöki Korlátolt Felelősségű Társaság | 14-09-311381 | 2030. december 31. |
+
+2. melléklet a 3/2026. (VI. 30.) PM rendelethez
+
+Tulajdonosi jogokat gyakorló költségvetési szervek
