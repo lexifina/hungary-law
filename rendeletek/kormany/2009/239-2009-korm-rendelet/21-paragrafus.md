@@ -1,3 +1,3 @@
-21. §[^93]
+21. §[^89]
 
-[^93]: A 21. §-t újonnan az 501/2021. (VIII. 18.) Korm. rendelet 16. §-a iktatta be, a 41/2025. (III. 11.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^89]: A 21. §-t újonnan az 501/2021. (VIII. 18.) Korm. rendelet 16. §-a iktatta be, a 41/2025. (III. 11.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.

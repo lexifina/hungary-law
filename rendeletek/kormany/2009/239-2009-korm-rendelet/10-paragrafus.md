@@ -1,15 +1,15 @@
-10. § (1)[^60]
+10. § (1)[^55]
 
-(2)[^61]
+(2)[^56]
 
-(3)[^62]
+(3)[^57]
 
-(4)[^63]
+(4)[^58]
 
-(5)[^64]
+(5)[^59]
 
-[^60]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^61]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^62]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^63]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^64]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^55]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^56]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^57]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 10. § (1)–(5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
