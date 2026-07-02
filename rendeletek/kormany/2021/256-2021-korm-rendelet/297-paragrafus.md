@@ -6,6 +6,6 @@
 
 (4) Az irányító hatóság a (2) bekezdés szerinti esetben tizenöt napos határidő kitűzésével felhívja a kedvezményezettet a beszámoló ismételt benyújtására.
 
-(5)[^495] A (4) bekezdéstől eltérően az irányító hatóság egy alkalommal hívhatja fel a kedvezményezettet a záró beszámoló ismételt benyújtására.
+(5)[^500] A (4) bekezdéstől eltérően az irányító hatóság egy alkalommal hívhatja fel a kedvezményezettet a záró beszámoló ismételt benyújtására.
 
-[^495]: A 297. § (5) bekezdését a 484/2025. (XII. 31.) Korm. rendelet 12. §-a iktatta be.
+[^500]: A 297. § (5) bekezdését a 484/2025. (XII. 31.) Korm. rendelet 12. §-a iktatta be.

@@ -34,6 +34,6 @@ j) a támogatási kérelem visszavonásának tudomásulvétele
 
 ellen.
 
-(5)[^553] A kifogást a benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg. A visszavont kifogást nem lehet ismételten benyújtani.
+(5)[^558] A kifogást a benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg. A visszavont kifogást nem lehet ismételten benyújtani.
 
-[^553]: A 372. § (5) bekezdése a 195/2023. (V. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^558]: A 372. § (5) bekezdése a 195/2023. (V. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
