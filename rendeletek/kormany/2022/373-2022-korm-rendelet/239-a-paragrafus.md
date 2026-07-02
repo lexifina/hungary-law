@@ -1,3 +1,3 @@
-239/A. §[^498]
+239/A. §[^503]
 
-[^498]: A 239/A. §-t a 474/2024. (XII. 31.) Korm. rendelet 167. §-a iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § i) pontja hatályon kívül helyezte.
+[^503]: A 239/A. §-t a 474/2024. (XII. 31.) Korm. rendelet 167. §-a iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § i) pontja hatályon kívül helyezte.

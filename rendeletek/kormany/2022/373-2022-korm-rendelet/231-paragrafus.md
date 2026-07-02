@@ -10,37 +10,37 @@ d) megváltozott munkaképességű munkavállalók foglalkoztatásával járó t
 
 e) hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatásként,
 
-f)[^413]
+f)[^418]
 
 g) közszolgáltatásért járó ellentételezésként
 
-h)[^414] csekély összegű támogatásként,
+h)[^419] csekély összegű támogatásként,
 
-i)[^415]
+i)[^420]
 
 nyújtható.
 
 (2) Ha a „Fenntartható zöld közlekedés” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
-a)[^416] belvízi kikötő fejlesztéséhez nyújtott beruházási támogatásként,
+a)[^421] belvízi kikötő fejlesztéséhez nyújtott beruházási támogatásként,
 
-b)[^417] személyszállítási közszolgáltatásért járó ellentételezésként,
+b)[^422] személyszállítási közszolgáltatásért járó ellentételezésként,
 
-c)[^418]
+c)[^423]
 
-d)[^419]
+d)[^424]
 
-e)[^420] elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként,
+e)[^425] elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként,
 
-f)[^421] tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatásként,
+f)[^426] tiszta üzemű vagy kibocsátásmentes járművek beszerzésére és járművek utólagos átalakítására nyújtott beruházási támogatásként,
 
-g)[^422] megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatásként,
+g)[^427] megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatásként,
 
-h)[^423] környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatásként,
+h)[^428] környezetvédelmi és energetikai tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatásként,
 
-i)[^424] csekély összegű támogatásként,
+i)[^429] csekély összegű támogatásként,
 
-j)[^425]
+j)[^430]
 
 nyújtható.
 
@@ -48,21 +48,21 @@ nyújtható.
 
 a) regionális beruházási támogatásként,
 
-b)[^426] közszolgáltatásért járó ellentételezésként,
+b)[^431] közszolgáltatásért járó ellentételezésként,
 
-c)[^427] csekély összegű támogatásként,
+c)[^432] csekély összegű támogatásként,
 
-d)[^428] kritikus infrastruktúrák, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének támogatásaként,
+d)[^433] kritikus infrastruktúrák, az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének támogatásaként,
 
-e)[^429] erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatásként,
+e)[^434] erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatásként,
 
-f)[^430]
+f)[^435]
 
 nyújtható.
 
-(4)[^431]
+(4)[^436]
 
-(5)[^432] Ha a „Magasan képzett, versenyképes munkaerő” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+(5)[^437] Ha a „Magasan képzett, versenyképes munkaerő” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 a) regionális beruházási támogatásként,
 
@@ -76,31 +76,31 @@ e) kis- és középvállalkozásnak nyújtott innovációs támogatásként,
 
 f) eljárási innováció és szervezési innováció támogatásához nyújtott támogatásként,
 
-g)[^433]
+g)[^438]
 
-h)[^434] csekély összegű támogatásként,
+h)[^439] csekély összegű támogatásként,
 
-i)[^435]
+i)[^440]
 
-j)[^436] tesztelési és kísérleti infrastruktúrához nyújtott beruházási támogatásként,
+j)[^441] tesztelési és kísérleti infrastruktúrához nyújtott beruházási támogatásként,
 
-k)[^437]
-
-nyújtható.
-
-(6)[^438] Ha az „Állam és közigazgatás” programterület keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
-
-a)[^439] kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatásként,
-
-b)[^440] csekély összegű támogatásként,
-
-c)[^441]
-
-d)[^442]
+k)[^442]
 
 nyújtható.
 
-(7)[^443] Ha az „Energetika (zöld átállás)” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+(6)[^443] Ha az „Állam és közigazgatás” programterület keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+
+a)[^444] kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatásként,
+
+b)[^445] csekély összegű támogatásként,
+
+c)[^446]
+
+d)[^447]
+
+nyújtható.
+
+(7)[^448] Ha az „Energetika (zöld átállás)” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 1. regionális beruházási támogatásként,
 
@@ -136,13 +136,13 @@ nyújtható.
 
 17. az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret (2023/C 101/03)” című, 2023. március 17-i európai bizottsági közlemény 2.5. szakasza alapján az Európai Bizottság SA.102428 számú határozatával összhangban,
 
-18.[^444]
+18.[^449]
 
-19.[^445]
+19.[^450]
 
 nyújtható.
 
-(8)[^446] Ha a „Magyarország REPowerEU terve” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+(8)[^451] Ha a „Magyarország REPowerEU terve” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 1. regionális beruházási támogatásként,
 
@@ -176,51 +176,51 @@ nyújtható.
 
 16. csekély összegű támogatásként,
 
-17.[^447]
+17.[^452]
 
-18.[^448]
+18.[^453]
 
 nyújtható.
 
-(9)[^449] Az (1)–(8) bekezdésben foglaltakon túl, ha az 1. melléklet 1–11. pontja szerinti programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, és a támogatás az Európai Bizottság előzetes jóváhagyását igényli, akkor a támogatás az Európai Bizottság jóváhagyó határozatával összhangban nyújtható.
+(9)[^454] Az (1)–(8) bekezdésben foglaltakon túl, ha az 1. melléklet 1–11. pontja szerinti programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, és a támogatás az Európai Bizottság előzetes jóváhagyását igényli, akkor a támogatás az Európai Bizottság jóváhagyó határozatával összhangban nyújtható.
 
-(10)[^450]
+(10)[^455]
 
-[^413]: A 231. § (1) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte.
-[^414]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
-[^415]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^416]: A 231. § (2) bekezdés a) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
-[^417]: A 231. § (2) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^418]: A 231. § (2) bekezdés c) pontját újonnan a 474/2024. (XII. 31.) Korm. rendelet 166. § (1) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^419]: A 231. § (2) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
-[^420]: A 231. § (2) bekezdés e) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^421]: A 231. § (2) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^422]: A 231. § (2) bekezdés g) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^423]: A 231. § (2) bekezdés h) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^424]: A 231. § (2) bekezdés i) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^425]: A 231. § (2) bekezdés j) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^426]: A 231. § (3) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.
-[^427]: A 231. § (3) bekezdés c) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja szerint módosított szöveg.
-[^428]: A 231. § (3) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte, újonnan a 474/2024. (XII. 31.) Korm. rendelet 166. § (2) bekezdése iktatta be.
-[^429]: A 231. § (3) bekezdés e) pontját a 639/2023. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
-[^430]: A 231. § (3) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 27. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^431]: A 231. § (4) bekezdését a 384/2025. (XII. 8.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
-[^432]: A 231. § (5) bekezdés nyitó szövegrésze a 639/2023. (XII. 28.) Korm. rendelet 34. § 6. pontja szerint módosított szöveg.
-[^433]: A 231. § (5) bekezdés g) pontját a 384/2025. (XII. 8.) Korm. rendelet 9. § d) pontja újból hatályon kívül helyezte.
-[^434]: A 231. § (5) bekezdés h) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja szerint módosított szöveg.
-[^435]: A 231. § (5) bekezdés i) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte.
-[^436]: A 231. § (5) bekezdés j) pontját a 639/2023. (XII. 28.) Korm. rendelet 29. §-a iktatta be.
-[^437]: A 231. § (5) bekezdés k) pontját a 639/2023. (XII. 28.) Korm. rendelet 29. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^438]: A 231. § (6) bekezdés nyitó szövegrésze a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés j) pontja, a 639/2023. (XII. 28.) Korm. rendelet 34. § 6. pontja szerint módosított szöveg.
-[^439]: A 231. § (6) bekezdés a) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
-[^440]: A 231. § (6) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja és 35. § 2. pontja szerint módosított szöveg.
-[^441]: A 231. § (6) bekezdés c) pontját a 384/2025. (XII. 8.) Korm. rendelet 9. § e) pontja újból hatályon kívül helyezte.
-[^442]: A 231. § (6) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 30. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés f) pontja hatályon kívül helyezte.
-[^443]: A 231. § (7) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
-[^444]: A 231. § (7) bekezdés 18. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés g) pontja hatályon kívül helyezte.
-[^445]: A 231. § (7) bekezdés 19. pontját a 474/2024. (XII. 31.) Korm. rendelet 166. § (6) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § f) pontja hatályon kívül helyezte.
-[^446]: A 231. § (8) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
-[^447]: A 231. § (8) bekezdés 17. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^448]: A 231. § (8) bekezdés 18. pontját a 474/2024. (XII. 31.) Korm. rendelet 166. § (7) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § g) pontja hatályon kívül helyezte.
-[^449]: A 231. § (9) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
-[^450]: A 231. § (10) bekezdését a 474/2024. (XII. 31.) Korm. rendelet 166. § (8) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § h) pontja hatályon kívül helyezte.
+[^418]: A 231. § (1) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte.
+[^419]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^420]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^421]: A 231. § (2) bekezdés a) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
+[^422]: A 231. § (2) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^423]: A 231. § (2) bekezdés c) pontját újonnan a 474/2024. (XII. 31.) Korm. rendelet 166. § (1) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^424]: A 231. § (2) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^425]: A 231. § (2) bekezdés e) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^426]: A 231. § (2) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^427]: A 231. § (2) bekezdés g) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^428]: A 231. § (2) bekezdés h) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^429]: A 231. § (2) bekezdés i) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^430]: A 231. § (2) bekezdés j) pontját a 639/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^431]: A 231. § (3) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.
+[^432]: A 231. § (3) bekezdés c) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja szerint módosított szöveg.
+[^433]: A 231. § (3) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte, újonnan a 474/2024. (XII. 31.) Korm. rendelet 166. § (2) bekezdése iktatta be.
+[^434]: A 231. § (3) bekezdés e) pontját a 639/2023. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
+[^435]: A 231. § (3) bekezdés f) pontját a 639/2023. (XII. 28.) Korm. rendelet 27. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^436]: A 231. § (4) bekezdését a 384/2025. (XII. 8.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^437]: A 231. § (5) bekezdés nyitó szövegrésze a 639/2023. (XII. 28.) Korm. rendelet 34. § 6. pontja szerint módosított szöveg.
+[^438]: A 231. § (5) bekezdés g) pontját a 384/2025. (XII. 8.) Korm. rendelet 9. § d) pontja újból hatályon kívül helyezte.
+[^439]: A 231. § (5) bekezdés h) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja szerint módosított szöveg.
+[^440]: A 231. § (5) bekezdés i) pontját a 639/2023. (XII. 28.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte.
+[^441]: A 231. § (5) bekezdés j) pontját a 639/2023. (XII. 28.) Korm. rendelet 29. §-a iktatta be.
+[^442]: A 231. § (5) bekezdés k) pontját a 639/2023. (XII. 28.) Korm. rendelet 29. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^443]: A 231. § (6) bekezdés nyitó szövegrésze a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés j) pontja, a 639/2023. (XII. 28.) Korm. rendelet 34. § 6. pontja szerint módosított szöveg.
+[^444]: A 231. § (6) bekezdés a) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
+[^445]: A 231. § (6) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 34. § 5. pontja és 35. § 2. pontja szerint módosított szöveg.
+[^446]: A 231. § (6) bekezdés c) pontját a 384/2025. (XII. 8.) Korm. rendelet 9. § e) pontja újból hatályon kívül helyezte.
+[^447]: A 231. § (6) bekezdés d) pontját a 639/2023. (XII. 28.) Korm. rendelet 30. §-a iktatta be, a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^448]: A 231. § (7) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^449]: A 231. § (7) bekezdés 18. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^450]: A 231. § (7) bekezdés 19. pontját a 474/2024. (XII. 31.) Korm. rendelet 166. § (6) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § f) pontja hatályon kívül helyezte.
+[^451]: A 231. § (8) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^452]: A 231. § (8) bekezdés 17. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^453]: A 231. § (8) bekezdés 18. pontját a 474/2024. (XII. 31.) Korm. rendelet 166. § (7) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § g) pontja hatályon kívül helyezte.
+[^454]: A 231. § (9) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^455]: A 231. § (10) bekezdését a 474/2024. (XII. 31.) Korm. rendelet 166. § (8) bekezdése iktatta be, a 384/2025. (XII. 8.) Korm. rendelet 9. § h) pontja hatályon kívül helyezte.

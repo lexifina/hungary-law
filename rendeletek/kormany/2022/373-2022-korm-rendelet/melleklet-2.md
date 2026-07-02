@@ -24,9 +24,9 @@
 
 | 12. | XI. Digitális Innováció | NFK | Tudományos és Technológiai Minisztérium | NFK |
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^505]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^510]
 
-Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^506]
+Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^511]
 
 1. Támogatást igénylőkre vonatkozó adatok:
 
@@ -148,7 +148,7 @@ Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^506]
 
 8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^507] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
+8.4.[^512] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -156,6 +156,6 @@ Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^506]
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^505]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
-[^506]: A 2. melléklet címe a 94/2026. (VI. 18.) Korm. rendelet 19. § n) pontja szerint módosított szöveg.
-[^507]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
+[^510]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^511]: A 2. melléklet címe a 94/2026. (VI. 18.) Korm. rendelet 19. § n) pontja szerint módosított szöveg.
+[^512]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
