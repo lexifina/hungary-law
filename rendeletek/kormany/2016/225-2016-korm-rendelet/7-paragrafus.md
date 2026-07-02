@@ -1,1 +1,3 @@
-## 6. § Az ajánlatkérő a beszerzés Vbt. szerinti, beszerzési eljárás lefolytatása nélkül történő megvalósítására a beszerzés 2–4. § szerinti eljárás során történő mentesítését követően jogosult.
+7. §[^19] Az ajánlatkérő az alapvető biztonsági érdeket érintő beszerzést a kérelemben megjelölt módon és a kérelmet jóváhagyó határozatban meghatározott követelményeknek megfelelően köteles megvalósítani.
+
+[^19]: A 7. § a 105/2026. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
