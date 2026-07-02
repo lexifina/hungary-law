@@ -1,1 +1,3 @@
-17. § Az R5. 20. § (16) bekezdésében, 28. § (3) bekezdésében és 5. melléklet címében a „havi” szövegrész helyébe a „negyedéves” szöveg lép.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
