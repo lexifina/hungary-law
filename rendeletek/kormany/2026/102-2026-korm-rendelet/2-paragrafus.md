@@ -1,1 +1,3 @@
-2. § Nem lép hatályba a 396/2023. (VIII. 24.) Korm. rendelet 20. §-a.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
