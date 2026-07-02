@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-389-20-
 | 2026-01-01 | 2025-389-20-22.1 | 389/2025. (XII. 10.) Korm. rendelet |
 | 2026-01-02 | 2025-389-20-22.2 | 2010. évi CXXX. törvény |
 | 2026-07-01 | 2025-389-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-07-02 | 2025-389-20-22.4 | 2010. évi CXXX. törvény |
