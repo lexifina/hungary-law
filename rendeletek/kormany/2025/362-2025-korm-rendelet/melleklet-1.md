@@ -1,7 +1,3 @@
-1. melléklet a 362/2025. (XI. 26.) Korm. rendelethez
+1. melléklet a 362/2025. (XI. 26.) Korm. rendelethez[^4]
 
-A 346/2010. (XII. 28.) Korm. rendelet 1. melléklete a következő f) ponttal egészül ki:
-
-(A kormányzati célú hírközlési hálózatok)
-
-„f) Védelmi és biztonsági célú lakossági riasztási rendszer.”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
