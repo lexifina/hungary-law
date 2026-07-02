@@ -1,3 +1,3 @@
-9. §[^56]
+9. §[^57]
 
-[^56]: A 9. §-t a 634/2023. (XII. 23.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^57]: A 9. §-t a 634/2023. (XII. 23.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.

@@ -12,13 +12,13 @@ ad) elektronikus árlejtést alkalmazhat, továbbá
 
 ae) elektronikus katalógusokat alkalmazhat,
 
-b)[^59] az érintett szervezettől eltérő más ajánlatkérővel közösen is megvalósíthat beszerzést,
+b)[^60] az érintett szervezettől eltérő más ajánlatkérővel közösen is megvalósíthat beszerzést,
 
 c) a beszerzés megvalósítása érdekében igénybe veheti más központi beszerző szerv szolgáltatásait, valamint
 
 d) más központi beszerző szervvel együttműködve közösen is megvalósíthat beszerzést vagy működtethet összevont központi beszerzési vagy dinamikus beszerzési rendszert.
 
-(2)[^60] A VBÜ kialakíthatja központosított, valamint az általa nyújtott járulékos beszerzési és közbeszerzési szolgáltatás általános szerződési feltételeit.
+(2)[^61] A VBÜ kialakíthatja központosított, valamint az általa nyújtott járulékos beszerzési és közbeszerzési szolgáltatás általános szerződési feltételeit.
 
 (3) Az (1) bekezdés b)–d) pontjának alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
 
@@ -54,17 +54,17 @@ b) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely 
 
 (14) A (9)–(11) bekezdés szerinti adatszolgáltatási kötelezettség minősített adatot tartalmazó részével kapcsolatban az érintett szervezet a (8) bekezdés szerint jár el.
 
-(15)[^61]
+(15)[^62]
 
-(16)[^62] Ha az érintett szervezet beszerzési igénye keretmegállapodás alapján közvetlen megrendeléssel, írásbeli konzultációval vagy verseny újranyitásával valósítható meg, akkor a VBÜ erről az érintett szervezetet az igény Portálra való feltöltésétől számítva 5 munkanapon belül értesíti.
+(16)[^63] Ha az érintett szervezet beszerzési igénye keretmegállapodás alapján közvetlen megrendeléssel, írásbeli konzultációval vagy verseny újranyitásával valósítható meg, akkor a VBÜ erről az érintett szervezetet az igény Portálra való feltöltésétől számítva 5 munkanapon belül értesíti.
 
-(17)[^63] Az érintett szervezet a nemzetközi együttműködési programhoz való csatlakozási szándékát a szándék felmerülését követő 15 napon belül jelzi a VBÜ részére. Az érintett szervezet tájékoztatásában bemutatja a nemzetközi együttműködési program szerint általa tervezett beszerzési igényeit, a nemzetközi együttműködési programban való részvételének feltételeit. A VBÜ az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét a Védelmi Tanács részére megküldi. A Védelmi Tanács az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét véleményezi, és azt követően a Kormány következő ülésén előterjeszti. Az érintett szervezet a nemzetközi együttműködési programhoz a Kormány jóváhagyását követően csatlakozhat. A VBÜ a Kormány döntését e döntésről való tudomásszerzéstől számított 2 munkanapon belül közli az érintett szervezettel.
+(17)[^64] Az érintett szervezet a nemzetközi együttműködési programhoz való csatlakozási szándékát a szándék felmerülését követő 15 napon belül jelzi a VBÜ részére. Az érintett szervezet tájékoztatásában bemutatja a nemzetközi együttműködési program szerint általa tervezett beszerzési igényeit, a nemzetközi együttműködési programban való részvételének feltételeit. A VBÜ az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét a Védelmi Tanács részére megküldi. A Védelmi Tanács az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét véleményezi, és azt követően a Kormány következő ülésén előterjeszti. Az érintett szervezet a nemzetközi együttműködési programhoz a Kormány jóváhagyását követően csatlakozhat. A VBÜ a Kormány döntését e döntésről való tudomásszerzéstől számított 2 munkanapon belül közli az érintett szervezettel.
 
-(18)[^64] Az érintett szervezet (17) bekezdésben meghatározottak szerint jóváhagyott nemzetközi együttműködési program keretében megvalósítható beszerzési igényének végrehajtása során a 8. §-ban foglaltakat kell megfelelően alkalmazni.
+(18)[^65] Az érintett szervezet (17) bekezdésben meghatározottak szerint jóváhagyott nemzetközi együttműködési program keretében megvalósítható beszerzési igényének végrehajtása során a 8. §-ban foglaltakat kell megfelelően alkalmazni.
 
-[^59]: A 11. § (1) bekezdés b) pontja a 649/2020. (XII. 23.) Korm. rendelet 4. § (19) bekezdésével megállapított szöveg.
-[^60]: A 11. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
-[^61]: A 11. § (15) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be, a 634/2023. (XII. 23.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
-[^62]: A 11. § (16) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^63]: A 11. § (17) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^64]: A 11. § (18) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^60]: A 11. § (1) bekezdés b) pontja a 649/2020. (XII. 23.) Korm. rendelet 4. § (19) bekezdésével megállapított szöveg.
+[^61]: A 11. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
+[^62]: A 11. § (15) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be, a 634/2023. (XII. 23.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^63]: A 11. § (16) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^64]: A 11. § (17) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^65]: A 11. § (18) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 634/2023. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

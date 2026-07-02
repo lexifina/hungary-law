@@ -1,3 +1,3 @@
-15. §[^73]
+15. §[^74]
 
-[^73]: A 15. §-t a 634/2023. (XII. 23.) Korm. rendelet 13. § d) pontja újból hatályon kívül helyezte.
+[^74]: A 15. §-t a 634/2023. (XII. 23.) Korm. rendelet 13. § d) pontja újból hatályon kívül helyezte.

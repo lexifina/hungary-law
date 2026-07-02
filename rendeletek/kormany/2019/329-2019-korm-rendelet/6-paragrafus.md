@@ -1,15 +1,15 @@
 6. § (1) Az érintett szervezet – a (2) bekezdésben meghatározott kivétellel – köteles a Portálon keresztül, az ott meghatározott struktúra és adattartalom szerint részletezve megküldeni a VBÜ részére
 
-a)[^51] a beszerzési tervét a VBÜ által meghatározott tárgy időszakot megelőző év október 30. napjáig,
+a)[^52] a beszerzési tervét a VBÜ által meghatározott tárgy időszakot megelőző év október 30. napjáig,
 
-b)[^52] a tervezett beszerzésre vonatkozó igényét az igény felmerülését követő 5 munkanapon belül, valamint
+b)[^53] a tervezett beszerzésre vonatkozó igényét az igény felmerülését követő 5 munkanapon belül, valamint
 
-c)[^53] a nem tervezett beszerzésre vonatkozó védelmi és biztonsági feladatokkal összefüggő igényét az igény felmerülését követő 5 munkanapon belül.
+c)[^54] a nem tervezett beszerzésre vonatkozó védelmi és biztonsági feladatokkal összefüggő igényét az igény felmerülését követő 5 munkanapon belül.
 
 (2) A beszerzési terv, valamint az (1) bekezdés b) vagy c) pontja szerinti igény minősített adatot tartalmazó részét az érintett szervezet – a (3) bekezdésben meghatározott kivétellel – a VBÜ részére küldi meg az (1) bekezdésben megjelölt határidőn belül.
 
 (3) Nem kell alkalmazni a (2) bekezdést, ha a VBÜ minősített adat továbbítására alkalmas Portált biztosít.
 
-[^51]: A 6. § (1) bekezdés a) pontja a 634/2023. (XII. 23.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^52]: A 6. § (1) bekezdés b) pontja a 33/2020. (III. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^53]: A 6. § (1) bekezdés c) pontja a 649/2020. (XII. 23.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^52]: A 6. § (1) bekezdés a) pontja a 634/2023. (XII. 23.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^53]: A 6. § (1) bekezdés b) pontja a 33/2020. (III. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^54]: A 6. § (1) bekezdés c) pontja a 649/2020. (XII. 23.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-7. §[^54] (1) A VBÜ az érintett szervezet által megküldött beszerzési terveket a beérkezéstől számított 10 munkanapon belül minősíti, amely határidőbe a (2) és (4) bekezdés szerinti átdolgozás vagy hiánypótlás teljesítésének időtartama nem számít be.
+7. §[^55] (1) A VBÜ az érintett szervezet által megküldött beszerzési terveket a beérkezéstől számított 10 munkanapon belül minősíti, amely határidőbe a (2) és (4) bekezdés szerinti átdolgozás vagy hiánypótlás teljesítésének időtartama nem számít be.
 
 (2) A VBÜ a beszerzési tervet a beérkezéstől számított 10 munkanapon belül átdolgozásra vagy hiánypótlásra visszaküldheti az érintett szervezetnek, ha a benyújtott beszerzési terv tartalmilag vagy formailag nem megfelelő, vagy hiányos.
 
@@ -26,4 +26,4 @@ lehet.
 
 (8) Az érintett szervezet az (5) bekezdés a) pontja szerint minősített beszerzési terv módosítását bármikor kezdeményezheti az (1)–(7) bekezdésben meghatározottak szerint.
 
-[^54]: A 7. § a 634/2023. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^55]: A 7. § a 634/2023. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.

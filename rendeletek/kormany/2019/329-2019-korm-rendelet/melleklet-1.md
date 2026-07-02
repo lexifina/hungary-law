@@ -1,4 +1,4 @@
-1. melléklet a 329/2019. (XII. 20.) Korm. rendelethez[^84]
+1. melléklet a 329/2019. (XII. 20.) Korm. rendelethez[^85]
 
 Az 1. § (6) bekezdés f) pontja szerinti beszerzési tárgyak
 
@@ -28,4 +28,4 @@ Az 1. § (6) bekezdés f) pontja szerinti beszerzési tárgyak
 
 13. az 1–12. pontban meghatározott termékekhez kapcsolódó szolgáltatások
 
-[^84]: Az 1. mellékletet a 21/2022. (I. 25.) Korm. rendelet 6. §-a iktatta be.
+[^85]: Az 1. mellékletet a 21/2022. (I. 25.) Korm. rendelet 6. §-a iktatta be.
