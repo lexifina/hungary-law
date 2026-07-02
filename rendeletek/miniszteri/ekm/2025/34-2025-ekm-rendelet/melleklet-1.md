@@ -1,3 +1,3 @@
-1. melléklet a 34/2025. (XI. 30.) ÉKM rendelethez
+1. melléklet a 34/2025. (XI. 30.) ÉKM rendelethez[^10]
 
-„1. melléklet a 25/2013. (V. 31.) NFM rendelethez
+[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
