@@ -1,3 +1,3 @@
-15. §[^27]
+15. §[^16]
 
-[^27]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
