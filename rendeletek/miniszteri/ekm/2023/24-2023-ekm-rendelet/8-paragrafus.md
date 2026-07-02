@@ -1,4 +1,4 @@
-8. § (1)[^11] A 651/2014/EU bizottsági rendelet, az (EU) 2023/2831 bizottsági rendelet, a 2012/21/EU bizottsági határozat és az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+8. § (1)[^11] A 651/2014/EU bizottsági rendelet, az (EU) 2023/2831 bizottsági rendelet, az (EU) 2025/2630 bizottsági határozat és az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
@@ -120,7 +120,7 @@ bb) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uni�
 
 (16)[^20] Amennyiben a projekt kotrást is tartalmaz, a (15) bekezdés b) pontja tekintetében az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
 
-[^11]: A 8. § (1) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 4. §-ával megállapított, a 3/2026. (VII. 1.) KBM rendelet 6. §-a szerint módosított szöveg.
 [^12]: A 8. § (3) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 5. §-ával megállapított szöveg.
 [^13]: A 8. § (4) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 5. §-ával megállapított szöveg.
 [^14]: A 8. § (14) bekezdés 3. pont d) alpontja a 20/2024. (VII. 29.) ÉKM rendelet 16. § a) pontja szerint módosított szöveg.

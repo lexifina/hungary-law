@@ -4,7 +4,7 @@
 
 2. 5–10. és 12–13. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés;
 
-3. 5–10. és 12–13. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
+3. 5–10., 12–13. és 32–34. sora alapján az (EU) 2025/2630 bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
 
 4. 5–10. és 12–13. sora alapján az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
 
@@ -34,13 +34,13 @@
 
 17. 20. sora alapján a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai célú infrastruktúrához nyújtott beruházási támogatás;
 
-18. 21–22., 24., 27. és 29. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás;
+18. 21., 22., 24., 27. és 29. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás;
 
 19. 16., 20. és 27. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás;
 
-20. 5–10., 12–13., 16–22., 24–26. és 27–29. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
+20. 5–10., 12., 13., 16–22., 24–26. és 27–29. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-21. 8. és 19. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás;
+21. 8. és 19. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás;
 
 22. 9. és 19. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás; valamint
 
@@ -50,10 +50,10 @@ nyújtható.
 
 (2) A 2. mellékletben foglalt táblázat
 
-1. 5. és 7. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás, valamint
+1. 5. és 7. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás; valamint
 
-2. 11. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás
+2. 11. sora alapján az (EU) 2025/2630 bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás
 
 nyújtható.
 
-[^10]: A 7. § a 36/2025. (XII. 19.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 7. § a 3/2026. (VII. 1.) KBM rendelet 1. §-ával megállapított szöveg.

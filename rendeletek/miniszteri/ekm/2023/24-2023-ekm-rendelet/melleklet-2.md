@@ -62,7 +62,13 @@
 
 | 31. | 404328 |  | 06 Fejezeti tartalék | Fejezeti tartalékra: az előre nem tervezhető, év közbeni rendkívüli kiadások finanszírozása érdekében. |  |  |  |  |  |  |  |  |  |
 
-2. melléklet a 24/2023. (XII. 29.) ÉKM rendelethez[^41]
+| 32.[^46] |  |  | 07 Útdíj rendszerek üzemeltetése |  |  |  |  |  |  |  |  |  |  |
+
+| 33.[^47] | 410862 |  |  | 01 Útdíj rendszerek üzemeltetésével összefüggő átfolyó költségek és adók | Az előirányzat fedezetet nyújt: 1. Az Útdíj rendszerek üzemeltetésével összefüggő átfolyó költségekre és adókra: a közfeladatokkal kapcsolatban, valamint a beszedett használatidíj- és útdíjbevétellel összefüggésben felmerült úgynevezett átfolyó költségek és adó- – kiemelten a helyi iparűzési adó – jellegű tételek elszámolására. 2. Kincstári díjra: a Kincstár által nyújtott szolgáltatásokkal összefüggő díjak, jutalékok finanszírozására. | gazdasági társaság | 1.: kérelem alapján, támogatási szerződéssel, támogatói okirattal, egyéb: szolgáltatási szerződéssel 2.: – | 1.: előleg biztosítható 2.: – | 1.: egy összegben, részletekben, időarányosan vagy teljesítésarányos kifizetéssel 2.: egyéb: bankforgalmi terhelési értesítők szerint | – | 1.: felhatalmazó nyilatkozat vagy eltekinthet a biztosíték kikötésétől az Ávr. 84. § (1) bekezdése szerint 2.: – | – | – | – |
+
+| 34.[^48] | 410873 |  |  | 02 Útdíj rendszerek üzemeltetésével összefüggő működési költségek | Az előirányzat fedezetet nyújt: 1. Az Útdíj rendszerek üzemeltetésével összefüggő működési költségekre: A közfeladatokkal kapcsolatban felmerült – és a vonatkozó jogszabályokban meghatározott – indokolt működési költségek, valamint az észszerű nyereséghányad elszámolására. 2. Kincstári díjra: a Kincstár által nyújtott szolgáltatásokkal összefüggő díjak, jutalékok finanszírozására. | gazdasági társaság | 1.: kérelem alapján, támogatási szerződéssel, támogatói okirattal, egyéb: szolgáltatási szerződéssel 2.: – | 1.: előleg biztosítható 2.: – | 1.: egy összegben, részletekben, időarányosan vagy teljesítésarányos kifizetéssel 2.: egyéb: bankforgalmi terhelési értesítők szerint | – | 1.: felhatalmazó nyilatkozat vagy eltekinthet a biztosíték kikötésétől az Ávr. 84. § (1) bekezdése szerint 2.: – | – | – | – |
+
+2. melléklet a 24/2023. (XII. 29.) ÉKM rendelethez[^49]
 
 A XVI. Építési és Közlekedési Minisztérium fejezet 2026. évi költségvetési központi kezelésű kiadási előirányzatainak feladatterve
 
@@ -96,4 +102,7 @@ A XVI. Építési és Közlekedési Minisztérium fejezet 2026. évi költségve
 
 | 14. | 402862 |  |  | 03 Útdíj rendszerek működtetésével összefüggő működési költségek | A közfeladatokkal kapcsolatban felmerült – és a vonatkozó jogszabályokban meghatározott –indokolt működési költségek, valamint az észszerű nyereséghányad elszámolása. | gazdasági társaság | – | – | – | – | – | – | – | – |
 
-[^41]: A 2. melléklet a 36/2025. (XII. 19.) ÉKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^46]: Az 1. mellékletben foglalt táblázat 32. sorát a 3/2026. (VII. 1.) KBM rendelet 5. §-a iktatta be.
+[^47]: Az 1. mellékletben foglalt táblázat 33. sorát a 3/2026. (VII. 1.) KBM rendelet 5. §-a iktatta be.
+[^48]: Az 1. mellékletben foglalt táblázat 34. sorát a 3/2026. (VII. 1.) KBM rendelet 5. §-a iktatta be.
+[^49]: A 2. melléklet a 36/2025. (XII. 19.) ÉKM rendelet 3. § (2) bekezdésével megállapított szöveg.

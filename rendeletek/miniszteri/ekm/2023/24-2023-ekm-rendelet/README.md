@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-24-20-8
 | 2025-07-01 | 2023-24-20-8X.5 | 19/2025. (VI. 27.) ÉKM rendelet |
 | 2025-12-31 | 2023-24-20-8X.7 | 49/2025. (XII. 30.) ÉKM rendelet |
 | 2026-01-01 | 2023-24-20-8X.6 | 36/2025. (XII. 19.) ÉKM rendelet |
+| 2026-07-02 | 2023-24-20-8X.8 | 3/2026. (VII. 1.) KBM rendelet |
