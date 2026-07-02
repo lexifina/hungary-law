@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-35-00-00
 | 2026-03-01 | 2025. évi LXX. törvény | 2025-35-00-00.11 |
 | 2026-03-02 | 2010. évi CXXX. törvény | 2025-35-00-00.12 |
 | 2026-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-35-00-00.13 |
+| 2026-07-02 | 2010. évi CXXX. törvény | 2025-35-00-00.14 |
