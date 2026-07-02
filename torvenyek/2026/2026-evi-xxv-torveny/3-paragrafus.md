@@ -1,3 +1,1 @@
-3. § Az Mötv. 71. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a 2024. évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni.”
+### 3. §
