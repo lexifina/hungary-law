@@ -1,9 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 28. § (3) bekezdésében az „a foglalkoztathatósági szakvéleményt” szövegrész helyébe a „– ha készült – a foglalkoztathatósági szakvéleményt” szöveg,
-
-b) 1. mellékletében az „A foglalkoztathatósági szakvéleményt” szövegrész helyébe az „Ha kiállításra került, a foglalkoztathatósági szakvéleményt” szöveg,
-
-c) 3. mellékletében az „a foglalkoztathatósági szakvéleménynek” szövegrész helyébe az „az érvényes munkaköri alkalmassági vagy szakmai alkalmassági vizsgálati véleménynek, illetve a foglalkoztathatósági szakvéleménynek” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
