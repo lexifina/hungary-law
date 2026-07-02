@@ -2,8 +2,9 @@
 
 14. § (1) A 8. § i) pont ic) alpontja, valamint a 10. § g) pont gc) alpontja szerint igazolt Kbt. 62. § (1) bekezdés k) pont kc) alpontjának alkalmazásában közvetett tulajdon, illetve szavazati jog alatt az ajánlattevő vagy részvételre jelentkező tulajdoni hányadának, illetőleg szavazati jogának az ajánlattevőben vagy részvételre jelentkezőben tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más gazdasági szereplő (köztes gazdasági szereplő) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlását kell érteni. A közvetett tulajdon, a közvetett szavazati jog arányának megállapításához a közvetett tulajdonnal, szavazati joggal rendelkezőnek a köztes gazdasági szereplőben fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes gazdasági szereplőnek az ajánlattevőben, illetve részvételre jelentkezőben fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes gazdasági szereplőben fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni.
 
-(2) A 8. § i) pont ib) és ic) alpontjában, valamint a 10. § gb) és gc) alpontjában foglalt nyilatkozat benyújtása mellett a nyilatkozattal igazolt kizáró ok tekintetében az ajánlatkérőt további ellenőrzési kötelezettség – hatóságok, más szervezetek megkeresése – nem terheli és kizárólag a tudomására jutott kétséget kizáró bizonyíték esetében köteles a hamis nyilatkozattétel tényét megállapítani.
+(2)[^46] Az ajánlatkérő az ajánlattevőtől vagy részvételre jelentkezőtől a Kbt. 62. § (1) bekezdés k) pont kb) és kc) alpontjának igazolása érdekében további információt is kérhet, ideértve – a 15. §-ban foglaltaktól eltérően – az ajánlatban vagy részvételi jelentkezésben megjelölt alvállalkozó, az alkalmasság igazolásában részt vevő szervezet, valamint a 62. § (1) bekezdés k) pont kc) alpontja szerinti gazdasági szereplő nyilatkozatát a Pmt. 3. § 38. pont a), b), d), e) vagy g) alpontja szerinti tényleges tulajdonosára, valamint tulajdonosi és irányítási viszonyaira vonatkozóan.
 
-(3)[^46]
+(3)[^47]
 
-[^46]: A 14. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^46]: A 14. § (2) bekezdése a 105/2026. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A 14. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
