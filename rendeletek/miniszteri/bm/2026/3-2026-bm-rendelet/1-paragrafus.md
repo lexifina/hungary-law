@@ -18,12 +18,6 @@
 
 ## 1. A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet módosítása
 
-1. § (1) A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet (a továbbiakban: R1.) 16/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A foglalkoztathatóság szakvéleményezését a közérdekű munka esetén – ha a szakvélemény beszerzése a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben (a továbbiakban: Bv. tv.) foglaltak alapján szükséges – a pártfogó felügyelői szolgálat pártfogó felügyelője kezdeményezi a közérdekű munkahely kijelölése előtt az elítélt nevének és a közérdekű munkaként végezhető munkakör megnevezésének a megadásával.”
-
-(2) Az R1. 16/D. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A szakvélemény a közérdekű munka megkezdésének kötelező feltétele, kivéve, ha a Bv. tv. a szakvélemény beszerzését nem írja elő.
-
-(4) A szakvélemény kiadásának díját a pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal viseli, kivéve, ha a szakvélemény kiadására az elítélt kérelmére került sor.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 3. Az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet módosítása
 
-5. §[^3]
+5. §[^6]
 
-[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
