@@ -20,10 +20,6 @@
 
 ## 1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
 
-1. § (1) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 109/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Minősített beszerzés vagy alapvető biztonsági érdeket érintő beszerzés Kbt. 9. § (1) bekezdés b) pontja, illetve a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) 7. § (1) bekezdés 4. pontja szerinti kivételi kör alkalmazására vonatkozó ajánlatkérői döntés jóváhagyására irányuló eljárás megkezdése előtt a támogatást igénylő vagy kedvezményezett köteles az irányító hatóság hozzájáruló nyilatkozatát kérni. A támogatást igénylő vagy kedvezményezett köteles a beszerzés tárgyát, becsült értékét, a jóváhagyás iránti kérelem indokolását, valamint az ellenőrzés lefolytatásához szükséges egyéb dokumentumokat megküldeni az irányító hatóság részére.”
-
-(2) A 272/2014. (XI. 5.) Korm. rendelet 109/B. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az irányító hatóság a részére benyújtott dokumentációt támogathatósági, elszámolhatósági, valamint műszaki szempontból megvizsgálja, különös tekintettel a következőkre:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

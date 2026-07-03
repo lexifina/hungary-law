@@ -1,3 +1,3 @@
-5. § A 321/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) Az ajánlatkérő az ajánlattevőtől vagy részvételre jelentkezőtől a Kbt. 62. § (1) bekezdés k) pont kb) és kc) alpontjának igazolása érdekében további információt is kérhet, ideértve – a 15. §-ban foglaltaktól eltérően – az ajánlatban vagy részvételi jelentkezésben megjelölt alvállalkozó, az alkalmasság igazolásában részt vevő szervezet, valamint a 62. § (1) bekezdés k) pont kc) alpontja szerinti gazdasági szereplő nyilatkozatát a Pmt. 3. § 38. pont a), b), d), e) vagy g) alpontja szerinti tényleges tulajdonosára, valamint tulajdonosi és irányítási viszonyaira vonatkozóan.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
