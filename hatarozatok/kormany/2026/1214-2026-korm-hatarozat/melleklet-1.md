@@ -20,7 +20,7 @@ A közfeladatként felsőoktatási tevékenységet nem ellátó alapítványok a
 
 | 6 | Közép-európai Épített Örökség Megőrző Alapítvány | 19296717-1-41 | társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-| 7 | Közép-európai Oktatási Alapítvány | 19314088-1-41 | oktatási és gyermekügyi miniszter |
+| 7 | Közép-európai Oktatási Alapítvány | 19314088-1-41 | közlekedési és beruházási miniszter[^1] |
 
 | 8 | Magyar Kultúráért Alapítvány | 19311621-2-41 | társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
@@ -39,3 +39,5 @@ A közfeladatként felsőoktatási tevékenységet nem ellátó alapítványok a
 | 15 | Kék Bolygó Klímavédelmi Alapítvány | 18869891-2-43 | Miniszterelnökséget vezető miniszter |
 
 | 16 | ZalaZONE Alapítvány | 19424118-1-20 | tudományos és technológiai miniszter |
+
+[^1]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1219/2026. (VII. 2.) Korm. határozat 2. pontja szerint módosított szöveg.
