@@ -184,7 +184,7 @@
 
 | 39. | JLSG HQ törzsmegerősítő tartalék kiképzés | logisztikai felkészítés | Németország | III. | 20 |  |  |
 
-| 40. | Joint training of search and rescue (IRON CAT) | közös folyamőr kiképzés | Szerbia | III. | 60 |  |  |
+| 40. | JOINT TRAINING 2026[^8] | közös folyamőr kiképzés | Szerbia | III. | 60 |  |  |
 
 | 41. | JOLLY VIHAR | légierő/harcászati szintű gyakorlat/LIVEX/ AIREX | Magyarország | I–IV. |  | 500 |  |
 
@@ -200,7 +200,7 @@
 
 | 47. | MOONSTAR | harcászati gyakorlat | Magyarország, Lengyelország | III–IV. | 150 | 150 |  |
 
-| 48. | Közös szerb–magyar kiképzés NEIGHBOURS | többnemzeti terepen végrehajtott gyakorlat | Magyarország | I–IV. |  | 150 | 60[^8] |
+| 48. | Közös szerb–magyar kiképzés NEIGHBOURS | többnemzeti terepen végrehajtott gyakorlat | Magyarország | I–IV. |  | 150 | 60[^9] |
 
 | 49. | Német–magyar közös műszaki kiképzési rendezvények | DEU–HUN közös műszaki szakfelkészítések | Németország | I–IV. | 30 |  |  |
 
@@ -238,7 +238,7 @@
 
 | 66. | STRONG BASTION | Közép-európai Többnemzeti Hadosztály-parancsnokság minősítő gyakorlata | Magyarország/Horvátország, Szlovákia | I–III. | 200 | 300 |  |
 
-| 67.[^9] | STRONG LINEAGE | harcászati gyakorlat | Szlovákia, Spanyolország, Magyarország | II. | 25 | 200 |  |
+| 67.[^10] | STRONG LINEAGE | harcászati gyakorlat | Szlovákia, Spanyolország, Magyarország | II. | 25 | 200 |  |
 
 | 68. | STRONG TOGETHER | harcászati gyakorlat | Szlovákia | I–IV. | 150 |  |  |
 
@@ -260,7 +260,7 @@
 
 | 77. | TRIGLAV STAR | többnemzeti terepen végrehajtott gyakorlat | Szlovénia | III. | 80 |  |  |
 
-| 78. | TROJAN FOOTPRINT | többnemzeti terepen végrehajtott gyakorlat | Magyarország | II. |  | 200[^10] |  |
+| 78. | TROJAN FOOTPRINT | többnemzeti terepen végrehajtott gyakorlat | Magyarország | II. |  | 200[^11] |  |
 
 | 79. | Tűzszerész felkészítés | tűzszerész felkészítés | NATO- és EU-tagállamok | I–IV. | 80 |  |  |
 
@@ -278,33 +278,33 @@
 
 | 86. | WISE FORESIGHT román–magyar békefenntartó zászlóalj gyakorlata | harcászati gyakorlat | Magyarország és Románia | III–IV. | 300 | 100 |  |
 
-| 87.[^11] | NORTHERN STAR | többnemzeti harcászati gyakorlat | Finnország | II. | 100 |  |  |
+| 87.[^12] | NORTHERN STAR | többnemzeti harcászati gyakorlat | Finnország | II. | 100 |  |  |
 
-| 88.[^12] | Francia–magyar cserekiképzés | különleges műveleti kiképzés | Franciaország, Magyarország | II–IV. | 120 | 120 |  |
+| 88.[^13] | Francia–magyar cserekiképzés | különleges műveleti kiképzés | Franciaország, Magyarország | II–IV. | 120 | 120 |  |
 
-| 89.[^13] | EAGLE EYE | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
+| 89.[^14] | EAGLE EYE | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
 
-| 90.[^14] | APOLLO 26-I. | többnemzeti harcászati gyakorlat | Olaszország | III–IV. | 300 |  |  |
+| 90.[^15] | APOLLO 26-I. | többnemzeti harcászati gyakorlat | Olaszország | III–IV. | 300 |  |  |
 
-| 91.[^15] | Német–magyar harckocsizó kiképzés | harcászati kiképzés | Németország | III. | 150 |  |  |
+| 91.[^16] | Német–magyar harckocsizó kiképzés | harcászati kiképzés | Németország | III. | 150 |  |  |
 
-| 92.[^16] | RELIABLE LION | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
+| 92.[^17] | RELIABLE LION | harcászati, valós erőkkel, terepen végrehajtott kiképzés | Németország | III–IV. | 60 |  |  |
 
-| 93.[^17] | Leopard 2A7HU tesztlövészet | éleslőszerrel végrehajtott harckocsi tesztlövészet | Németország | IV. | 40 |  |  |
+| 93.[^18] | Leopard 2A7HU tesztlövészet | éleslőszerrel végrehajtott harckocsi tesztlövészet | Németország | IV. | 40 |  |  |
 
-| 94.[^18] | AFTC MUNSTER | többnemzeti harckocsizó harcászati gyakorlat | Németország | III. | 40 |  |  |
+| 94.[^19] | AFTC MUNSTER | többnemzeti harckocsizó harcászati gyakorlat | Németország | III. | 40 |  |  |
 
-| 95.[^19] | INTERNATIONAL HELLENIC TANK CHALLENGE | többnemzeti harckocsizó verseny | Görögország | IV. | 40 |  |  |
+| 95.[^20] | INTERNATIONAL HELLENIC TANK CHALLENGE | többnemzeti harckocsizó verseny | Görögország | IV. | 40 |  |  |
 
-| 96.[^20] | TITAN SKY | többnemzeti felderítő gyakorlat | Portugália | II. | 15 |  |  |
+| 96.[^21] | TITAN SKY | többnemzeti felderítő gyakorlat | Portugália | II. | 15 |  |  |
 
-| 97.[^21] | QUADRIGA | többnemzeti CIMIC gyakorlat | Németország | II. | 10 |  |  |
+| 97.[^22] | QUADRIGA | többnemzeti CIMIC gyakorlat | Németország | II. | 10 |  |  |
 
-| 98.[^22] | POWERFUL WORD | többnemzeti CIMIC, PSYOPS és kiber gyakorlat | Csehország | III. | 15 |  |  |
+| 98.[^23] | POWERFUL WORD | többnemzeti CIMIC, PSYOPS és kiber gyakorlat | Csehország | III. | 15 |  |  |
 
-| 99.[^23] | FIERY EMBLEM | többnemzeti harcászati gyakorlat | Lengyelország | III. | 50 |  |  |
+| 99.[^24] | FIERY EMBLEM | többnemzeti harcászati gyakorlat | Lengyelország | III. | 50 |  |  |
 
-| 100.[^24] | ADAPTIVE INTERACTION | többnemzeti CIMIC gyakorlat | Olaszország | IV. | 10 |  |  |
+| 100.[^25] | ADAPTIVE INTERACTION | többnemzeti CIMIC gyakorlat | Olaszország | IV. | 10 |  |  |
 
 3. További gyakorlatokkal és kiképzésekkel kapcsolatos áthaladások
 
@@ -337,20 +337,21 @@
 [^5]: Az 1. melléklet 1. pontjában foglalt táblázat 44. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
 [^6]: Az 1. melléklet 2. pontjában foglalt táblázat 14. sora az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
 [^7]: Az 1. melléklet 2. pontjában foglalt táblázat F:35 mezője az 1/2026. (IV. 30.) HM határozattal megállapított szöveg.
-[^8]: Az 1. melléklet 2. pontjában foglalt táblázat G:48 mezője a 3/2026. (VI. 12.) HM határozattal megállapított szöveg.
-[^9]: Az 1. melléklet 2. pontjában foglalt táblázat 67. sora a 3/2026. (VI. 12.) HM határozattal megállapított szöveg.
-[^10]: Az 1. melléklet 2. pontjában foglalt táblázat F:78 mezője a 2/2026. (IV. 30.) HM határozattal megállapított szöveg.
-[^11]: Az 1. melléklet 2. pontjában foglalt táblázat 87. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^12]: Az 1. melléklet 2. pontjában foglalt táblázat 88. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^13]: Az 1. melléklet 2. pontjában foglalt táblázat 89. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^14]: Az 1. melléklet 2. pontjában foglalt táblázat 90. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^15]: Az 1. melléklet 2. pontjában foglalt táblázat 91. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^16]: Az 1. melléklet 2. pontjában foglalt táblázat 92. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^17]: Az 1. melléklet 2. pontjában foglalt táblázat 93. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^18]: Az 1. melléklet 2. pontjában foglalt táblázat 94. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^19]: Az 1. melléklet 2. pontjában foglalt táblázat 95. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^20]: Az 1. melléklet 2. pontjában foglalt táblázat 96. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
-[^21]: Az 1. melléklet 2. pontjában foglalt táblázat 97. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
-[^22]: Az 1. melléklet 2. pontjában foglalt táblázat 98. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
-[^23]: Az 1. melléklet 2. pontjában foglalt táblázat 99. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
-[^24]: Az 1. melléklet 2. pontjában foglalt táblázat 100. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat A:40 mezője a 4/2026. (VII. 3.) HM határozattal megállapított szöveg.
+[^9]: Az 1. melléklet 2. pontjában foglalt táblázat G:48 mezője a 3/2026. (VI. 12.) HM határozattal megállapított szöveg.
+[^10]: Az 1. melléklet 2. pontjában foglalt táblázat 67. sora a 3/2026. (VI. 12.) HM határozattal megállapított szöveg.
+[^11]: Az 1. melléklet 2. pontjában foglalt táblázat F:78 mezője a 2/2026. (IV. 30.) HM határozattal megállapított szöveg.
+[^12]: Az 1. melléklet 2. pontjában foglalt táblázat 87. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^13]: Az 1. melléklet 2. pontjában foglalt táblázat 88. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^14]: Az 1. melléklet 2. pontjában foglalt táblázat 89. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat 90. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^16]: Az 1. melléklet 2. pontjában foglalt táblázat 91. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^17]: Az 1. melléklet 2. pontjában foglalt táblázat 92. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^18]: Az 1. melléklet 2. pontjában foglalt táblázat 93. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^19]: Az 1. melléklet 2. pontjában foglalt táblázat 94. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^20]: Az 1. melléklet 2. pontjában foglalt táblázat 95. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^21]: Az 1. melléklet 2. pontjában foglalt táblázat 96. sorát a 2/2026. (IV. 30.) HM határozat iktatta be.
+[^22]: Az 1. melléklet 2. pontjában foglalt táblázat 97. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
+[^23]: Az 1. melléklet 2. pontjában foglalt táblázat 98. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
+[^24]: Az 1. melléklet 2. pontjában foglalt táblázat 99. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
+[^25]: Az 1. melléklet 2. pontjában foglalt táblázat 100. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
