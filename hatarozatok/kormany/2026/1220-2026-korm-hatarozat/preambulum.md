@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Venezuelai Bolivári Köztársaságot sújtó kettős földrengés okozta katasztrófa és súlyos szerencsétlenség következményeinek elhárítása, enyhítése érdekében kialakult nemzetközi együttműködésre, helyi szükségletekre és igényekre, valamint a Magyarország rendelkezésére álló és átadható egészségügyi készletekre –
