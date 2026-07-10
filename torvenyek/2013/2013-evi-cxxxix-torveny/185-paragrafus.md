@@ -54,4 +54,6 @@
 
 28. a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2002/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek
 
+25. egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
