@@ -1,1 +1,3 @@
-### 7. §
+7. § A Mnbtv. 40. §-a a következő (44) bekezdéssel egészül ki:
+
+„(44) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/2859 európai parlamenti és tanácsi rendelet] végrehajtásával kapcsolatos feladatokat, ideértve a gyűjtőszervezeti funkció ellátását, ha jogszabály eltérően nem rendelkezik.”
