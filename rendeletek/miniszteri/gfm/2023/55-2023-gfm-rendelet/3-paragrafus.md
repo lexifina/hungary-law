@@ -2,27 +2,25 @@
 
 1. rákkeltő anyag:
 
-a) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: CLP rendelet) alapján az 1A. vagy 1B. kategóriájú rákkeltő anyagként való besorolás kritériumainak megfelelő anyag,
+a)[^1] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: CLP rendelet) I. mellékletében meghatározott, az 1A. vagy 1B. kategóriájú rákkeltő anyagként való besorolás kritériumainak megfelelő anyag,
 
 b) az a keverék, amely egy vagy több – az a) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. rákkeltő kategóriába tartozik,
 
 c) az 1. mellékletben meghatározott anyag, keverék vagy eljárás, valamint ezen eljárások során felszabaduló anyag vagy keverék,
 
-d) bükkfa-, tölgyfa-, egyéb keményfaporok, illetve keményfaporokat tartalmazó faporok,
+d)[^2]
 
 e) küszöbérték nélküli rákkeltő anyag: ezen anyagok esetében nem határozható meg olyan foglalkozási expozíciós határérték, amely alatt nem áll fenn a rákkeltő kockázat. Ilyen esetben a határérték az anyag munkavállalók egészségét veszélyeztető egyéb hatásainak kivédését biztosítja,
 
 f) küszöbértékekkel rendelkező rákkeltő anyag: ezen anyagok esetében meghatározható olyan foglalkozási expozíciós határérték, amely alatt nem áll fenn a munkavállalók egészségét veszélyeztető kockázat, beleértve a rákkeltő kockázatot is;
 
-2. mutagén anyag:
+2.[^3] mutagén anyag:
 
-a) amely belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva genetikai károsodást okoz, vagy megnöveli a genetikai károsodások gyakoriságát,
+a) a CLP rendelet I. mellékletében meghatározott, az 1A. vagy 1B. kategóriájú csírasejt-mutagén anyagként való besorolás kritériumainak megfelelő anyag vagy keverék,
 
-b) a CLP rendelet alapján az 1A. vagy 1B. kategóriájú csírasejt-mutagén anyagként való besorolás kritériumainak megfelelő anyag,
+b) az 1. mellékletben meghatározott anyag, keverék vagy eljárás, valamint ezen eljárások során felszabaduló anyag vagy keverék;
 
-c) az a keverék, amely egy vagy több – a b) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. mutagén kategóriába tartozik;
-
-3. reprodukciót károsító anyag: a CLP rendelet alapján az 1A. vagy 1B. kategóriájú, reprodukciót károsító anyagként való besorolás kritériumainak megfelelő anyag vagy keverék
+3.[^4] reprodukciót károsító anyag: a CLP rendelet I. mellékletében meghatározott, az 1A. vagy 1B. kategóriájú, reprodukciót károsító anyagként való besorolás kritériumainak megfelelő anyag vagy keverék
 
 a) küszöbérték nélküli reprodukciót károsító anyag: ezen anyagok esetében nem határozható meg olyan foglalkozási expozíciós határérték, amely alatt nem áll fenn a munkavállalók egészségét veszélyeztető kockázat, de az anyag egyéb egészségkárosító hatásaival szemben védelmet nyújt,
 
@@ -60,4 +58,7 @@ b) küszöbértékekkel rendelkező reprodukciót károsító anyag: ezen anyago
 
 19. egészségügyi felülvizsgálat: az egyes munkavállaló egészségi állapotának felmérése a munkája során egyes rákkeltő anyagoknak, mutagéneknek vagy reprodukciót károsító anyagoknak való expozíciója szempontjából.
 
-II. MUNKÁLTATÓ KÖTELEZETTSÉGEI
+[^1]: A 3. § 1. pont a) alpontja a 2/2026. (VII. 10.) SZCSM rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § 1. pont d) alpontját a 2/2026. (VII. 10.) SZCSM rendelet 11. §-a hatályon kívül helyezte.
+[^3]: A 3. § 2. pontja a 2/2026. (VII. 10.) SZCSM rendelet 7. §-ával megállapított szöveg.
+[^4]: A 3. § 3. pont nyitó szövegrésze a 2/2026. (VII. 10.) SZCSM rendelet 10. § a) pontja szerint módosított szöveg.

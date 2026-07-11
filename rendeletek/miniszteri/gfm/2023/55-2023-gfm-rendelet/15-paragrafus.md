@@ -1,3 +1,5 @@
+## III. VEGYES RENDELKEZÉSEK
+
 ## 11. Egészségügyi felülvizsgálat
 
 15. § (1) A rákkeltő, mutagén vagy reprodukciót károsító anyag expozíciójában történő foglalkoztatás előtt a munkavállaló köteles előzetes munkaköri orvosi alkalmassági vizsgálaton, a rákkeltő, mutagén vagy reprodukciót károsító anyag expozíciójában foglalkoztatott munkavállaló pedig köteles a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló miniszteri rendeletben meghatározott gyakorisággal a foglalkozás-egészségügyi szolgálat által elvégzett időszakos orvosi alkalmassági vizsgálaton részt venni.

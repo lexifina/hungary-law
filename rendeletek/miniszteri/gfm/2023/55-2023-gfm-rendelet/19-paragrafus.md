@@ -10,4 +10,8 @@ d) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kocká
 
 e) a munkájuk során rákkeltő anyagokkal, mutagénekkel és reprodukciót károsító anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelvnek
 
+f)[^5] a 2004/37/EK európai parlamenti és tanácsi irányelvnek és a 98/24/EK tanácsi irányelvnek az ólomra és annak szervetlen vegyületeire, valamint a diizocianátokra vonatkozó határértékek tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/869 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
+
+[^5]: A 19. § f) pontját a 2/2026. (VII. 10.) SZCSM rendelet 8. §-a iktatta be.

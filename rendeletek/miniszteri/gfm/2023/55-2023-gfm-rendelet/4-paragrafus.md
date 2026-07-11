@@ -1,3 +1,5 @@
+## II. MUNKÁLTATÓ KÖTELEZETTSÉGEI
+
 ## 1. Kockázatbecslés és -meghatározás
 
 4. § (1) Minden olyan tevékenység esetében, amelynek során feltételezhető a munkavállaló rákkeltő, mutagén vagy reprodukciót károsító anyagokkal történő expozíciója, a munkáltató köteles kockázatbecslést végezni, így
