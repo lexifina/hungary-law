@@ -1,1 +1,0 @@
-7. § A 4. § (6) bekezdés c) pontja szerinti teljesítményt nyújtó értékelt személy esetében az értékelő vezető rögzíti a teljesítményértékelési elektronikus rendszerben a fejlesztendő terület megnevezését, valamint az értékelt személlyel közösen meghatározott fejlesztési eszközt.
