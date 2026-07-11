@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-67-00-00
 | 2026-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-67-00-00.25 |
 | 2026-07-02 | 2010. évi CXXX. törvény | 2025-67-00-00.26 |
 | 2026-07-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-67-00-00.27 |
+| 2026-07-11 | 2010. évi CXXX. törvény | 2025-67-00-00.28 |
