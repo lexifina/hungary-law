@@ -22,7 +22,7 @@ ha)[^90] a támogatáshoz nem kapcsolódik társfinanszírozás, vagy
 
 hb)[^91] kapcsolódik hozzá társfinanszírozás, és a támogatás nem az Európai Unió működéséről szóló szerződés 42. cikke hatálya alá tartozó mezőgazdasági tevékenységhez kapcsolódik.
 
-(2)[^92] Az agrártámogatási jogviszony létrejötténél – jogszabály eltérő rendelkezése hiányában – a támogató a támogatási kérelemre hozott részben vagy teljes egészében jóváhagyó döntést támogatási okiratba, kifizetés engedélyezésére hozott döntést kifizetési okiratba foglalja. A 11. § (2) bekezdés a) pontja szerinti esetben a támogatási okirat alapján a 3. § (2) bekezdés b) pontja szerinti intézkedések kifizetésének engedélyezését a Nemzeti Kifizető Ügynökség kifizetési okiratba foglalja.
+(2)[^92] Az agrártámogatási jogviszony létrejötténél – jogszabály eltérő rendelkezése hiányában – a támogató a támogatási kérelemre hozott részben vagy teljes egészében jóváhagyó döntést támogatási okiratba, kifizetés engedélyezésére hozott döntést kifizetési okiratba foglalja. A 11. § (2) bekezdés a) pontja szerinti esetben a támogatási okirat alapján a 3. § (2) bekezdés a) és b) pontja szerinti intézkedések kifizetésének engedélyezését a Nemzeti Kifizető Ügynökség kifizetési okiratba foglalja.
 
 (3)[^93] Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát az erre irányuló kérelemre vagy saját hatáskörben kijavítja, ha az érdemben nem hat ki az agrártámogatási jogviszonyra. Az így kijavított döntéssel szemben jogorvoslati kérelem benyújtásának nincs helye.
 
@@ -43,7 +43,7 @@ d) a miniszter jogorvoslati kérelem tárgyában hozott döntése közlésének 
 [^89]: A 30. § (1) bekezdés c) pontja a 24/2024. (IV. 9.) AM rendelet 11. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
 [^90]: A 30. § (1) bekezdés h) pont ha) alpontja a 24/2024. (IV. 9.) AM rendelet 34. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
 [^91]: A 30. § (1) bekezdés h) pont hb) alpontja a 24/2024. (IV. 9.) AM rendelet 34. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^92]: A 30. § (2) bekezdése a 48/2024. (IX. 5.) AM rendelet 33. § 23. pontja szerint módosított szöveg.
+[^92]: A 30. § (2) bekezdése a 48/2024. (IX. 5.) AM rendelet 33. § 23. pontja, a 4/2026. (VII. 10.) AÉM rendelet 7. § 1. pontja szerint módosított szöveg.
 [^93]: A 30. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 11. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
 [^94]: A 30. § (4) bekezdés c) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 24. pontja szerint módosított szöveg.
 [^95]: A 30. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

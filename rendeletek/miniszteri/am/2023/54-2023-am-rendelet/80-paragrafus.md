@@ -1,6 +1,6 @@
 ## 40. Az előlegre vonatkozó szabályok
 
-80. §[^202] (1) Ha adott műveletre vonatkozó felhívás úgy rendelkezik, a kedvezményezett kérelemmel, egy alkalommal előleget igényelhet. Ha a felhívás úgy rendelkezik, az előleggel való teljes elszámolást követően a felhívásban meghatározott, de legfeljebb a (2) bekezdésben rögzített mértékig újra kérelmezhető előleg.
+80. §[^204] (1) Ha adott műveletre vonatkozó felhívás úgy rendelkezik, a kedvezményezett kérelemmel, egy alkalommal előleget igényelhet. Ha a felhívás úgy rendelkezik, az előleggel való teljes elszámolást követően a felhívásban meghatározott, de legfeljebb a (2) bekezdésben rögzített mértékig újra kérelmezhető előleg.
 
 (2) A felhívás eltérő rendelkezése hiányában az igényelhető előleg mértéke a kedvezményezett választása szerint a támogatási döntésben meghatározott támogatási összeg
 
@@ -40,4 +40,4 @@ c) a kedvezményezett még nem nyújtott be záró kifizetési kérelmet.
 
 (11) Ha a kedvezményezett a hiánypótlást nem, hibásan vagy hiányosan nyújtja be, vagy az előírt határidőt elmulasztja, az előlegkérelmet vissza kell utasítani.
 
-[^202]: A 80. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
+[^204]: A 80. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.

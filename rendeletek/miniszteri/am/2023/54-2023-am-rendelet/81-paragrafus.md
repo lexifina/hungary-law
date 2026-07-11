@@ -1,4 +1,4 @@
-81. §[^203] (1) Az előleget kizárólag a művelet megvalósítására lehet felhasználni. Az előleg elszámolását a 84. § (1) bekezdésben foglaltak teljesítése mellett az igényelt előleg folyósítását követően benyújtandó kifizetési kérelemben, amelynek benyújtása – felhívás eltérő rendelkezése hiányában – nem eshet az előleg folyósításának napját követő 12 hónapnál későbbi időpontra, meg kell kezdeni.
+81. §[^205] (1) Az előleget kizárólag a művelet megvalósítására lehet felhasználni. Az előleg elszámolását a 84. § (1) bekezdésben foglaltak teljesítése mellett az igényelt előleg folyósítását követően benyújtandó kifizetési kérelemben, amelynek benyújtása – felhívás eltérő rendelkezése hiányában – nem eshet az előleg folyósításának napját követő 12 hónapnál későbbi időpontra, meg kell kezdeni.
 
 (2) Az előleg teljes összegével legkésőbb a záró kifizetési kérelemben el kell számolni. Az előleg teljes összegének elszámolása akkor minősül teljesítettnek, ha a kedvezményezett által elszámolni kívánt elszámolható költségek alapján a megállapított támogatás összegéből a kedvezményezett részére megítélt előleg teljes összege a vonatkozó kifizetési döntésben levonásra került.
 
@@ -8,4 +8,4 @@
 
 (5) A kifizetett, de el nem számolt előleg összegét a kedvezményezettnek vissza kell fizetnie.
 
-[^203]: A 81. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
+[^205]: A 81. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
