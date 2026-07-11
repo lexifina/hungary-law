@@ -1,4 +1,4 @@
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^19]
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^15]
 
 Veszélyes anyagok a munkahelyi levegőben
 
@@ -76,7 +76,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 34 | BERILLIUM ÉS VEGYÜLETEI (Be-ra számítva) | 7440-41-7 | 0,0006 |  |  |  | k(1B), b |  | T |
 
-| 35 | BISZFENOL-A (4,4’-izopropilidén-difenol) | 80-05-7 | 2 |  |  |  | Repr.(1B) | EU4 | T |
+| 35 | BISZFENOL-A (4,4’-izopropilidén-difenol) | 80-05-7 | 2 |  |  |  | Repr.(1B) | EU4, EU9 | T |
 
 | 36 | BISZ (KLÓRMETIL)- ÉTER | 542-88-1 | 0,0047 | 0,001 |  |  | k(1A) |  | T |
 
@@ -170,13 +170,13 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 81 | DIHIDROGÉN- SZELENID | 7783-07-5 | 0,07 | 0,02 | 0,17 | 0,05 |  | EU1 | R+T |
 
-| 82 | DIIZOCIANÁTOK |  |  |  |  |  |  |  |  |
+| 82 | DIIZOCIANÁTOK (NCO(30)-ban mérve) |  | 0,01 |  | 0,02 |  | b, sz, i | EU10 | T |
 
-| 83 | difenilmetán-4,4’- diizocianát (MDI) | 101-68-8 | 0,05 | 0,005 | 0,05 | 0,005 | i, sz, BEM |  | T |
+| 83 | difenilmetán-4,4’- diizocianát (MDI) (NCO(30)-ban mérve) | 101-68-8 | 0,01 |  | 0,02 |  | b, sz, i, BEM | EU10 | T |
 
-| 84 | hexametilén-diizocianát (HDI) | 822-06-0 | 0,035 |  | 0,035 |  | i, sz |  | T |
+| 84 |  |  |  |  |  |  |  |  |  |
 
-| 85 | 1,5-naftilén-diizocianát (NDI) | 3173-72-6 | 0,09 | 0,01 | 0,09 | 0,01 | i, sz |  | T |
+| 85 |  |  |  |  |  |  |  |  |  |
 
 | 86 | DIKÉN-DIKLORID | 10025-67-9 | 6 | 1 | 12 | 2 | m |  | R |
 
@@ -204,7 +204,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 98 | 1,2-DIKLÓRPROPÁN | 78-87-5 | 50 | 10 | 100 | 20 | k(1B) |  | R+T |
 
-| 99 | N,N-DIMETIL- ACETAMID | 127-19-5 | 36 | 10 | 72 | 20 | b, i, Repr.(1B) | EU1 | R+T |
+| 99 | N,N-DIMETIL- ACETAMID | 127-19-5 | 36 | 10 | 72 | 20 | b, i, Repr.(1B) | EU1, EU9 | R+T |
 
 | 100 | DIMETIL-AMIN | 124-40-3 | 3,8 | 2 | 9,4 | 5 | b, m, sz | EU1 | N |
 
@@ -212,7 +212,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 102 | DIMETIL-ÉTER | 115-10-6 | 1920 | 1000 |  |  |  | EU1 | N |
 
-| 103 | N,N-DIMETIL- FORMAMID | 68-12-2 | 15 | 5 | 30 | 10 | b, i, BEM, Repr.(1B) | EU3 | T |
+| 103 | N,N-DIMETIL- FORMAMID | 68-12-2 | 15 | 5 | 30 | 10 | b, i, BEM, Repr.(1B) | EU3, EU9 | T |
 
 | 104 | 1,2-DIMETILHIDRAZIN | 540-73-8 | 1,2 |  |  |  | k(1B) |  | T |
 
@@ -248,13 +248,13 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 120 | ETILÉNGLIKOL | 107-21-1 | 52 | 20 | 104 | 40 | b, i | EU1 | N |
 
-| 121 | 2-ETOXI-ETANOL (ETILÉNGLIKOL- MONOETIL-ÉTER) | 110-80-5 | 8 | 2 | - |  | b, i, Repr.(1B) | EU7 | N |
+| 121 | 2-ETOXI-ETANOL (ETILÉNGLIKOL- MONOETIL-ÉTER) | 110-80-5 | 8 | 2 | - |  | b, i, Repr.(1B) | EU3, EU9 | N |
 
-| 122 | 2-ETOXI-ETIL-ACETÁT (ETILÉNGLIKOL- MONOETIL-ÉTER- ACETÁT) | 111-15-9 | 11 | 2 | - |  | b, i, Repr.(1B) | EU7 | N |
+| 122 | 2-ETOXI-ETIL-ACETÁT (ETILÉNGLIKOL- MONOETIL-ÉTER- ACETÁT) | 111-15-9 | 11 | 2 | - |  | b, i, Repr.(1B) | EU3, EU9 | N |
 
-| 123 | 2-METOXI-ETANOL (ETILÉNGLIKOL- MONOMETIL-ÉTER) | 109-86-4 | 3,16 | 1 | - |  | b, i, Repr.(1B) | EU7 | N |
+| 123 | 2-METOXI-ETANOL (ETILÉNGLIKOL- MONOMETIL-ÉTER) | 109-86-4 | 3,16 | 1 | - |  | b, i, Repr.(1B) | EU3, EU9 | N |
 
-| 124 | 2-METOXI-ETANOL (ETILÉNGLIKOL- MONOMETIL-ÉTER-ACETÁT) | 110-49-6 | 4,90 | 1 | - |  | b, i, Repr.(1B) | EU7 | N |
+| 124 | 2-METOXI-ETANOL (ETILÉNGLIKOL- MONOMETIL-ÉTER-ACETÁT) | 110-49-6 | 4,90 | 1 | - |  | b, i, Repr.(1B) | EU3, EU9 | N |
 
 | 125 | ETILÉN-OXID | 75-21-8 | 1,8 | 1 |  |  | k(1B), i, sz, b | EU6 | T |
 
@@ -324,7 +324,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 158 | HIDROGÉN-FLUORID | 7664-39-3 | 1,5 | 1,8 | 2,5 | 3 | b, m, BEM | EU1 | N |
 
-| 159 | HIGANY ÉS SZERVETLEN VEGYÜLETEI, BELEÉRTVE A HIGANY-KLORIDOT ÉS HIGANY-OXIDOT (Hg-ra számítva) | 7439-97-6 | 0,02 |  | - |  | sz, b, BEM, Repr.(1B) | EU7 | T |
+| 159 | HIGANY ÉS SZERVETLEN VEGYÜLETEI, BELEÉRTVE A HIGANY-KLORIDOT ÉS HIGANY-OXIDOT (Hg-ra számítva) | 7439-97-6 | 0,02 |  | - |  | sz, b, BEM, Repr.(1B) | EU9 | T |
 
 | 160 | HIGANY SZERVES VEGYÜLETEI* (Hg-ra számítva) |  | 0,01 |  | 0,04 |  | b, sz |  | R+T |
 
@@ -416,7 +416,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 204 | METIL-BUTIL-KETON | 591-78-6 | 21 |  | 84 |  | b, i |  | T |
 
-| 205 | 4,4’-Metilén-bisz (2-klóranilin) [MOCA] | 101-14-4 | 0,01 |  |  |  | k(1B), b |  | R+T |
+| 205 | 4,4’-Metilén-bisz (2-klóranilin) [MOCA] | 101-14-4 | 0,01 |  |  |  | k(1B), b | EU7 | R+T |
 
 | 206 | METIL-ETIL-KETON | 78-93-3 | 600 | 200 | 900 | 300 | b, i | EU1 | N |
 
@@ -468,7 +468,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 230 | NEOPENTÁN | 463-82-1 | 3000 | 1000 |  |  |  | EU2 | N |
 
-| 231 | NIKKEL-VEGYÜLETEK |  | 0,01 resp 0,05 |  |  |  | k(1B), sz (bőr, légzőszervi), BEM | EU9 | T |
+| 231 | NIKKEL-VEGYÜLETEK (Ni-re számítva) |  | 0,01 resp 0,05 |  |  |  | k(1B), sz (bőr, légzőszervi), BEM | EU9 | T |
 
 | 232 | NIKOTIN | 54-11-5 | 0,5 |  |  |  | b, i | EU2 | R |
 
@@ -494,7 +494,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 243 | OLAJ (ásványi) KÖD** | 92062-35- 68042-47- 572623-83- 792045-77- 892045- 45-9 | 5 |  |  |  |  | SCOEL/ SUM/163/ 2011 | T |
 
-| 244 | ÓLOM és SZERVETLEN VEGYÜLETEI (Pb-ra számítva) | 7439-92-1 | 0,15 |  |  |  | i, BEM, BHM | EU9 | T |
+| 244 | ÓLOM és SZERVETLEN VEGYÜLETEI (Pb-ra számítva) | 7439-92-1 | 0,03 |  |  |  | Repr (1A, küszöbérték nélküli), BEM, BHM | EU10 | T |
 
 | 245 | ÓLOM-TETRAETIL | 78-00-2 | 0,05 |  | 0,2 |  | b, i |  | T |
 
@@ -566,7 +566,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 279 | SZÉN-DISZULFID | 75-15-0 | 15 | 5 |  |  | b, i, m | EU3 | R+T |
 
-| 280 | SZÉN-MONOXID | 630-08-0 | 23 | 20 | 117 | 100 | BHM, Repr.(1A) | EU4 | R+T |
+| 280 | SZÉN-MONOXID | 630-08-0 | 23 | 20 | 117 | 100 | BHM, Repr.(1A) | EU4, EU9 | R+T |
 
 | 281 | SZÉN-TETRAKLORID (tetraklór-metán) | 56-23-5 | 6,4 | 1 | 32 | 5 | b | EU4 | R+T |
 
@@ -662,59 +662,61 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 2 | resp | respirábilis frakció |
 
-| 3 | b | Bőrön át is felszívódik. |
+| 3 | b | bőrön át is felszívódik |
 
 | 4 | i | ingerlő anyag, amely izgatja a bőrt, nyálkahártyát, szemet vagy mindhármat |
 
-| 5 | k(…) | rákkeltő (zárójelben az 1272/2008/EK európai parlamenti és tanácsi rendelet, rövid megnevezéssel a CLP rendelet szerinti besorolás) |
+| 5 | k (…) | rákkeltő (zárójelben az 1272/2008/EK európai parlamenti és tanácsi rendelet, rövid megnevezéssel a CLP rendelet szerinti besorolás) |
 
 | 6 | Repr (…) | reprotoxikus (zárójelben a CLP szerinti besorolás) |
 
 | 7 | m | maró hatású anyag, amely felmarja a bőrt, nyálkahártyát, szemet vagy mindhármat |
 
-| 8 | sz | Túlérzékenységet okozó (szenzibilizáló) tulajdonságú anyag. Az anyagra érzékeny egyéneken „túlérzékenységen” alapuló bőr-, légzőrendszeri, esetleg más szervet/szervrendszert károsító megbetegedést okozhat. |
+| 8 | sz | Túlérzékenységet okozó (szenzibilizáló) tulajdonságú anyag. Az anyagra érzékeny egyéneken „túlérzékenységen” alapuló bőr-, légzőrendszeri, esetleg más szervet, szervrendszert károsító megbetegedést okozhat. |
 
 | 9 | * | CK: 1 perces referenciaidőre vonatkozik |
 
-| 10 | ** | a határérték a felsorolt, nem rákkeltő, nem reciklált, adalékanyagot nem tartalmazó ásványi olaj aeroszolokra vonatkozik. (SCOEL/SUM/163/2011. számú ajánlásban javasolt határérték, SCOEL: Foglalkozási Vegyianyag-expozíciós Határértékekkel Foglalkozó Tudományos Bizottság.) |
+| 10 | ** | a határérték a felsorolt, nem rákkeltő, nem reciklált, adalékanyagot nem tartalmazó ásványi olaj aeroszolokra vonatkozik (SCOEL/SUM/163/2011. számú ajánlásban javasolt határérték, SCOEL: Foglalkozási Vegyianyag-expozíciós Határértékekkel Foglalkozó Tudományos Bizottság) |
 
-| 11 | EUA | 2009/148/EK irányelvben közölt érték |
+| 11 | EUA | a 2009/148/EK irányelvben közölt érték |
 
-| 12 | EU91 | 91/322/EGK irányelvben közölt érték |
+| 12 | EU91 | a 91/322/EGK irányelvben közölt érték |
 
-| 13 | EU1 | 2000/39/EK irányelvben közölt érték |
+| 13 | EU1 | a 2000/39/EK irányelvben közölt érték |
 
-| 14 | EU2 | 2006/15/EK irányelvben közölt érték |
+| 14 | EU2 | a 2006/15/EK irányelvben közölt érték |
 
-| 15 | EU3 | 2009/161/EK irányelvben közölt érték |
+| 15 | EU3 | a 2009/161/EK irányelvben közölt érték |
 
-| 16 | EU4 | 2017/164 EU irányelvben közölt érték |
+| 16 | EU4 | a 2017/164 EU irányelvben közölt érték |
 
-| 17 | EU6 | 2019/130 EU irányelvben közölt érték |
+| 17 | EU6 | a 2019/130 EU irányelvben közölt érték |
 
-| 18 | EU7 | 2019/983/EU irányelvben közölt érték |
+| 18 | EU7 | a 2019/983/EU irányelvben közölt érték |
 
-| 19 | EU8 | 2019/1831 EU irányelvben közölt érték |
+| 19 | EU8 | a 2019/1831 EU irányelvben közölt érték |
 
-| 20 | EU9 | 2022/431 EU irányelvben közölt érték |
+| 20 | EU9 | a 2022/431 EU irányelvben közölt érték |
 
-| 21 | BEM | biológiai expozíciós mutató |
+| 21 | EU10 | a 2024/869 EU irányelvben közölt érték |
 
-| 22 | BHM | biológiai hatásmutató |
+| 22 | BEM | biológiai expozíciós mutató |
 
-| 23 | mg/m3 | milligramm légköbméterenként, 20 °C-on és 101,3 KPa légköri nyomáson |
+| 23 | BHM | biológiai hatásmutató |
 
-| 24 | ÁK-érték | megengedett átlagos koncentráció |
+| 24 | mg/m3 | milligramm légköbméterenként, 20 °C-on és 101,3 KPa légköri nyomáson |
 
-| 25 | CK-érték | megengedett csúcskoncentráció |
+| 25 | ÁK-érték | megengedett átlagos koncentráció |
 
-| 26 | ppm | (parts per million) milliomodrész adott térfogatnyi levegőben [ml/m3] |
+| 26 | CK-érték | megengedett csúcskoncentráció |
 
-| 27 | CAS-szám | A vegyi anyagok azonosítására használt Chemical Abstracts Service regisztrációs szám |
+| 27 | ppm | (parts per million) milliomodrész adott térfogatnyi levegőben [ml/m3] |
 
-| 28 | SCOEL/SUM/85/2011 | SCOEL/SUM/85/2011. számú ajánlásban javasolt határérték |
+| 28 | CAS-szám | a vegyi anyagok azonosítására használt Chemical Abstracts Service regisztrációs szám |
 
-| 29 | SCOEL/SUM/138/2011 | SCOEL/SUM/138/2011. számú ajánlásban javasolt határérték |
+| 29 | SCOEL/ SUM/138/2011 | a SCOEL/SUM/138/2011. számú ajánlásban javasolt határérték |
+
+| 30 | NCO | a diizocianátvegyületek izocianát funkcionális csoportjaira vonatkozik |
 
 1.3. Nyolc óránál hosszabb műszak vagy 40 órásnál hosszabb munkahét esetén alkalmazandó ÁK-érték korrekciók
 
@@ -762,4 +764,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^19]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(5) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^15]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet – a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított – 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)–(5) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja, a 2/2026. (VII. 10.) SZCSM rendelet 2. § (1) bekezdése, 4. § (1) bekezdése, 5. §-a szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]

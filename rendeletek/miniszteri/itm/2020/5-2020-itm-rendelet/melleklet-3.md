@@ -1,4 +1,4 @@
-3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^21]
+3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^17]
 
 A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei
 
@@ -48,7 +48,7 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 | 20. | 4,4’-Metilén-bisz(2-klóranilin) [MOCA] | 4,4’-Metilén-bisz- (2-klóranilin) [MOCA] (hidrolízis után) | m.v. | 11 | 5 |  |  |
 
-| 21. | Nikkel | nikkel | mhv., m.v. | 0,0030 | 0,0058 |  |  |
+| 21. | Nikkel | nikkel | mhv., m.v. | 0,0030 | 0,0059 |  |  |
 
 | 22. | Nitrobenzol | p-nitro-fenol | m.v. | 5 | 4,0 |  |  |
 
@@ -84,17 +84,21 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 1.2. BEM vizsgálat céljára a <4 vagy >30 mmol/l (<0,4 vagy >3 g/l) kreatinin koncentrációjú vizelet nem alkalmas. Ilyen esetekben a vizsgálatot új mintából meg kell ismételni.
 
-2. Biológiai expozíciós mutatók megengedhető határértékei vérben
+2. Biológiai expozíciós mutatók megengedhető határértékei
 
-|  |  | A | B | C | D | E | F |
+2.1. Biológiai expozíciós mutatók megengedhető határértékei vérben
 
-|  | 1. |  |  |  | Megengedhető határérték |  |
+|  | A | B | C | D | E | F |
 
-|  | 2. | Vegyi anyag | Biológiai expozíciós- mutató | Mintavétel ideje | mikrogramm/l | mikromol/l (kerekített értékek) | Érintettek köre |
+| 1. |  |  |  | Megengedhető határérték |  |
 
-|  | 3. | Ólom (szervetlen) | Ólom | nem kritikus | 300 | 1,5 | férfiak és 45 évnél idősebb nők |
+| 2. | Vegyi anyag | Biológiai expozíciós mutató | Mintavétel ideje | mikrogramm/l | mikromol/l (kerekített értékek) | Érintettek köre |
 
-|  | 4. | Ólom (szervetlen) | Ólom | nem kritikus | 200 | 1,0 | 45 évnél fiatalabb nők |
+| 3. | Ólom (szervetlen) | Ólom | nem kritikus | 300 | 1,5 | férfiak és 45 évnél idősebb nők |
+
+| 4. | Ólom (szervetlen) | Ólom | nem kritikus | 200 | 1,0 | 45 évnél fiatalabb nők |
+
+2.2. A biológiai monitorozásnak magában kell foglalnia a vér ólomszintjének (PbB) mérését abszorpciós spektrometriával vagy egyéb, azonos eredményeket adó módszerrel.
 
 3. Biológiai hatásmutatók megengedhető határértékei vérben
 
@@ -122,4 +126,4 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 |  | 4. | mhv. | munkahét végén |
 
-[^21]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a szerint módosított szöveg.
+[^17]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a, a 2/2026. (VII. 10.) SZCSM rendelet 3. § (1) bekezdése és 4. § (2) bekezdése szerint módosított szöveg.

@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-5-20-7Q
 | 2026-02-21 | 2020-5-20-7Q.10 | 6/2020. (II. 7.) ITM rendelet |
 | 2026-04-05 | 2020-5-20-7Q.17 | 6/2020. (II. 7.) ITM rendelet |
 | 2026-04-06 | 2020-5-20-7Q.18 | 6/2020. (II. 7.) ITM rendelet |
+| 2026-07-11 | 2020-5-20-7Q.21 | 2/2026. (VII. 10.) SZCSM rendelet |
