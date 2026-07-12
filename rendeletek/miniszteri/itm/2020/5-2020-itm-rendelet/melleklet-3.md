@@ -126,4 +126,4 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 |  | 4. | mhv. | munkahét végén |
 
-[^17]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a, a 2/2026. (VII. 10.) SZCSM rendelet 3. § (1) bekezdése és 4. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a, a 2/2026. (VII. 10.) SZCSM rendelet 3. § (1) bekezdése, a 2/2026. (VII. 10.) SZCSM rendelet 4. § (2) bekezdése szerint módosított szöveg.

@@ -74,7 +74,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 33 | BENZO[a]PIRÉN | 50-32-8 | 0,002 |  |  |  | k(1B) |  | T |
 
-| 34 | BERILLIUM ÉS VEGYÜLETEI (Be-ra számítva) | 7440-41-7 | 0,0006 |  |  |  | k(1B), b |  | T |
+| 34 | BERILLIUM ÉS VEGYÜLETEI (Be-ra számítva) | 7440-41-7 | 0,0002 |  |  |  | k(1B), b, sz | EU7 | T |
 
 | 35 | BISZFENOL-A (4,4’-izopropilidén-difenol) | 80-05-7 | 2 |  |  |  | Repr.(1B) | EU4, EU9 | T |
 
@@ -764,4 +764,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^15]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet – a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított – 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)–(5) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja, a 2/2026. (VII. 10.) SZCSM rendelet 2. § (1) bekezdése, 4. § (1) bekezdése, 5. §-a szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^15]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet – a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított – 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)–(5) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja, a 2/2026. (VII. 10.) SZCSM rendelet 2. § (1) és (2) bekezdése, 4. § (1) bekezdése, 5. §-a szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
