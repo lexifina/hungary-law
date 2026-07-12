@@ -1,1 +1,3 @@
-11. § Hatályát veszti az 55/2023. GFM rendelet 3. § 1. pont d) alpontja.
+11. §[^14]
+
+[^14]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
