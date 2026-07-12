@@ -1,5 +1,3 @@
-6. § (1) A KAP vhr. 3. melléklete az 1. melléklet szerint módosul.
+6. §[^7]
 
-(2) A KAP vhr. 5. melléklete a 2. melléklet szerint módosul.
-
-(3) A KAP vhr. 6. melléklete a 3. melléklet szerint módosul.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

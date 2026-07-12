@@ -1,3 +1,3 @@
-5. § A KAP vhr. 44. alcíme a következő 102/D. §-sal egészül ki:
+5. §[^6]
 
-„102/D. § E rendeletnek a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet módosításáról szóló 4/2026. (VII. 10.) AÉM rendelettel [a továbbiakban: 4/2026. (VII. 10.) AÉM rendelet] módosított 8. § (5) bekezdését, 30. § (2) bekezdését, 50. § (3), (5) és (7) bekezdését, 74. § (1) bekezdését, 92. § (1) bekezdését, 96. § (5) bekezdését, 97. § (1) bekezdés b) pontját, 98. § (4) bekezdését, 3. melléklet 2. és 3. pontját, 5. melléklet 3.3.8.2., 3.4.2. és 3.5.4.4. pontját, valamint 6. melléklet III/I. pont 4.2.3. és 7.3. alpontját a 4/2026. (VII. 10.) AÉM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

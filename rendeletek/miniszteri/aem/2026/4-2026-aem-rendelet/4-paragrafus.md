@@ -1,3 +1,3 @@
-4. § A KAP vhr. 96. §-a a következő (5) bekezdéssel egészül ki:
+4. §[^5]
 
-„(5) A kedvezményezett köteles megvalósítani valamennyi, a felhívásban kötelezően megvalósítandóként, de önállóan nem támogathatóként meghatározott tevékenységet, függetlenül annak támogatástartalmától.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
