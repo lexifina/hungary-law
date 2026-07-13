@@ -1,1 +1,1 @@
-### 13. §
+13. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben állapítsa meg a Bizottság 2. § (1b) bekezdés b) és c) pontja szerinti tagjának a 2. § (1c) bekezdés szerinti díjazása mértékét, valamint költségtérítése mértékét és módját.
