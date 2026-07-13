@@ -66,6 +66,8 @@ ip) a telephely biztonsági tanúsítvány kiadására irányuló eljárást kez
 
 iq) az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárást kezdeményező vagy egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet ügyvezetését ellátó valamennyi személy, a cégvezető, a gazdálkodó szervezet legalább 5%-ot meghaladó vagyoni hozzájárulással rendelkező tagja, részvényese, alapítvány esetén az alapítói jogokat gyakorló természetes személy, a kijelölésre kerülő biztonsági vezető, valamint a minősített szerződés előkészítésében és végrehajtásában érintett valamennyi személy;
 
+ir) a Minősített Iratok Felülvizsgálatát Segítő Tanácsadó Bizottság elnöke, tagja.
+
 j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 
 k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
