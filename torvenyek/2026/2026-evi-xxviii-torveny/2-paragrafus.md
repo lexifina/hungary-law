@@ -1,0 +1,3 @@
+2. § Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény a következő 12. §-sal egészül ki:
+
+„12. § A Kormány az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosításáról szóló 2026. évi XXVIII. törvény hatálybalépését követő tizenöt napon belül intézkedik a Bizottság létrehozásáról.”
