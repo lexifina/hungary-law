@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2026-01-08 | 2009-156-20-22.66 | 433/2025. (XII. 23.) Korm. rendelet |
 | 2026-04-11 | 2009-156-20-22.67 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2026-06-30 | 2009-156-20-22.68 | 99/2026. (VI. 29.) Korm. rendelet |
+| 2026-07-15 | 2009-156-20-22.69 | 99/2026. (VI. 29.) Korm. rendelet |

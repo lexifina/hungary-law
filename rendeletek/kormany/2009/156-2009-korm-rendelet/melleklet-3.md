@@ -1,4 +1,4 @@
-3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
+3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^103]
 
 1. A – Személyzet
 
@@ -8,77 +8,83 @@
 
 | 2 | A1 – a kalauzokra megállapított alsó korhatár be nem tartása | SJ | 160 000 |
 
-2. B – Vezetési időszakok
+2.[^104] B – Vezetési időszakok
 
 |  | A | B | C | D | E |
 
 | 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 2 | a 9 órás napi vezetési idő túllépése, ha a 10 órára történő meghosszabbítás nem megengedett | B1 | 9 h < … < 10 h | EJ | 20 000 |
+| 2 | a 9 órás napi vezetési idő túllépése, ha a 10 órára történő meghosszabbítás nem megengedett | B1 | 9 h < ... < 10 h | EJ | 20 000 |
 
-| 3 | B2 | 10 h ≤ … < 11 h | SJ | 90 000 |
+| 3 | B2 | 10 h ≤ ... < 11 h | SJ | 90 000 |
 
-| 4 | B3 | 11 h ≤ … | NSJ | 230 000 |
+| 4 | B3 | 11 h ≤ ... | NSJ | 230 000 |
 
-| 5 | a 9 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | B4 | 13 h 30 ≤ … szünet vagy pihenő nélkül | RSJ | 470 000 |
+| 5 | a 9 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | B4 | 13 h 30 ≤ ... szünet vagy pihenő nélkül | RSJ | 470 000 |
 
-| 6 | a 10 órás meghosszabbított napi vezetési idő túllépése, ha a meghosszabbítás megengedett | B5 | 10 h < … < 11 h | EJ | 20 000 |
+| 6 | a 10 órás meghosszabbított napi vezetési idő túllépése, ha a meghosszabbítás megengedett | B5 | 10 h < ... < 11 h | EJ | 20 000 |
 
-| 7 | B6 | 11 h ≤ … < 12 h | SJ | 90 000 |
+| 7 | B6 | 11 h ≤ ... < 12 h | SJ | 90 000 |
 
-| 8 | B7 | 12 h ≤ … | NSJ | 230 000 |
+| 8 | B7 | 12 h ≤ ... | NSJ | 230 000 |
 
-| 9 | a 10 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | B8 | 15 h ≤ … szünet vagy pihenő nélkül | RSJ | 470 000 |
+| 9 | a 10 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | B8 | 15 h ≤ ... szünet vagy pihenő nélkül | RSJ | 470 000 |
 
-| 10 | az összeadódott heti vezetési idő túllépése | B9 | 56 h < … < 60 h | EJ | 20 000 |
+| 10 | az összeadódott heti vezetési idő túllépése | B9 | 56 h < ... < 60 h | EJ | 20 000 |
 
-| 11 | B10 | 60 h ≤ … < 65 h | SJ | 90 000 |
+| 11 | B10 | 60 h ≤ ... < 65 h | SJ | 90 000 |
 
-| 12 | B11 | 65 h ≤ … < 70 h | NSJ | 230 000 |
+| 12 | B11 | 65 h ≤ ... < 70 h | NSJ | 230 000 |
 
-| 13 | az összeadódott heti vezetési idő 25%-os vagy annál nagyobb arányú túllépése | B12 | 70 h ≤ … | RSJ | 470 000 |
+| 13 | az összeadódott heti vezetési idő 25%-os vagy annál nagyobb arányú túllépése | B12 | 70 h ≤ ... | RSJ | 470 000 |
 
-| 14 | az összeadódott vezetési idő túllépése két egymást követő hét alatt | B13 | 90 h < … < 100 h | EJ | 20 000 |
+| 14 | az összeadódott vezetési idő túllépése két egymást követő hét alatt | B13 | 90 h < ... < 100 h | EJ | 20 000 |
 
-| 15 | B14 | 100 h ≤ … < 105 h | SJ | 90 000 |
+| 15 | B14 | 100 h ≤ ... < 105 h | SJ | 90 000 |
 
-| 16 | B15 | 105 h ≤ … < 112 h 30 | NSJ | 230 000 |
+| 16 | B15 | 105 h ≤ ... < 112 h 30 | NSJ | 230 000 |
 
-| 17 | az összeadódott vezetési idő 25%-os vagy nagyobb arányú túllépése két egymást követő hét alatt | B16 | 112 h 30 ≤ … | RSJ | 470 000 |
+| 17 | az összeadódott vezetési idő 25%-os vagy nagyobb arányú túllépése két egymást követő hét alatt | B16 | 112 h 30 ≤ ... | RSJ | 470 000 |
 
-| 18 | 10 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B17 | 10 h < … < 11 h | EJ | 20 000 |
+| 18 | 10 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B17 | 10 h < ... < 11 h | EJ | 20 000 |
 
-| 19 | B18 | 11 h ≤ … < 12 h | SJ | 90 000 |
+| 19 | B18 | 11 h ≤ ... < 12 h | SJ | 90 000 |
 
-| 20 | B19 | 12 h ≤ … <15 h | NSJ | 230 000 |
+| 20 | B19 | 12 h ≤ ... <15 h | NSJ | 230 000 |
 
-| 21 | B20 | 15 h ≤ … | RSJ | 470 000 |
+| 21 | B20 | 15 h ≤ ... | RSJ | 470 000 |
 
-| 22 | 11 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 2 órával vagy a 10 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B21 | 11 h ≤ … <11 h 30 | EJ | 20 000 |
+| 22 | 11 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 2 órával vagy a 10 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B21 | 11 h ≤ ... <11 h 30 | EJ | 20 000 |
 
-| 23 | B22 | 11 h 30 ≤ … <12 h | SJ | 90 000 |
+| 23 | B22 | 11 h 30 ≤ ... <12 h | SJ | 90 000 |
 
-| 24 | B23 | 12 h ≤ … <15 h | NSJ | 230 000 |
+| 24 | B23 | 12 h ≤ ... <15 h | NSJ | 230 000 |
 
-| 25 | B24 | 15 h ≤ … | RSJ | 470 000 |
+| 25 | B24 | 15 h ≤ ... | RSJ | 470 000 |
 
-| 26 | 12 órás napi vezetési idő túllépése, ha a 10 órás napi vezetési idő 2 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B25 | 12 h ≤ … < 12 h 30 | EJ | 20 000 |
+| 26 | 12 órás napi vezetési idő túllépése, ha a 10 órás napi vezetési idő 2 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B25 | 12 h ≤ ... < 12 h 30 | EJ | 20 000 |
 
-| 27 | az összeadódott heti vezetési idő túllépése, ha az 1 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B26 | 57 h < … < 60 h | EJ | 20 000 |
+| 27 | B26 | 12 h 30 ≤ ... < 13 h | SJ | 90 000 |
 
-| 28 | B27 | 60 h ≤ … < 65 h | SJ | 90 000 |
+| 28 | B27 | 13 h ≤ ... < 15 h | NSJ | 230 000 |
 
-| 29 | B28 | 65 h ≤ … < 70 h | NSJ | 230 000 |
+| 29 | B28 | 15 h ≤ .... | RSJ | 470 000 |
 
-| 30 | B29 | 70 h ≤ … | RSJ | 470 000 |
+| 30 | az összeadódott heti vezetési idő túllépése, ha az 1 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B29 | 57 h < ... < 60 h | EJ | 20 000 |
 
-| 31 | az összeadódott heti vezetési idő túllépése, ha a 2 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B30 | 58 h < … < 60 h | EJ | 20 000 |
+| 31 | B30 | 60 h ≤ ... < 65 h | SJ | 90 000 |
 
-| 32 | B31 | 60 h ≤ … < 65 h | SJ | 90 000 |
+| 32 | B31 | 65 h ≤ ... < 70 h | NSJ | 230 000 |
 
-| 33 | B32 | 65 h ≤ … < 70 h | NSJ | 230 000 |
+| 33 | B32 | 70 h ≤ ... | RSJ | 470 000 |
 
-| 34 | B33 | 70 h ≤ … | RSJ | 470 000 |
+| 34 | az összeadódott heti vezetési idő túllépése, ha a 2 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | B33 | 58 h < ... < 60 h | EJ | 20 000 |
+
+| 35 | B34 | 60 h ≤ ... < 65 h | SJ | 90 000 |
+
+| 36 | B35 | 65 h ≤ ... < 70 h | NSJ | 230 000 |
+
+| 37 | B36 | 70 h ≤ ... | RSJ | 470 000 |
 
 3. C – Szünetek
 
@@ -182,7 +188,7 @@
 
 | 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 2 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | E1 | … < 3 h | EJ | 20 00 |
+| 2 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | E1 | … < 3 h | EJ | 20 000[^105] |
 
 | 3 | E2 | 3 h ≤ … < 6 h | SJ | 50 000 |
 
@@ -222,4 +228,6 @@
 
 | 5 | F4 – a járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 390 000 |
 
-[^102]: A 3. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^103]: A 3. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^104]: A 3. melléklet 2. pontja a 99/2026. (VI. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^105]: A 3. melléklet 5. pontjában foglalt táblázat E:2 mezője a 99/2026. (VI. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

@@ -96,6 +96,6 @@
 
 | 48. | 2018. évi XXIX. törvény a Magyarország Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
 
-13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^133]
+13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^136]
 
-[^133]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 168/2025. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^136]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 168/2025. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

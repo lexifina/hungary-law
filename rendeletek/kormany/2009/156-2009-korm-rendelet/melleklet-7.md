@@ -18,6 +18,6 @@
 
 | 9 | az állatoknak a berakodási és kirakodási műveletek során való kiesését vagy szökését megakadályozó biztonsági korlát nélküli emelőpadok és felső padozatok használata | NSJ | 620 000 |
 
-7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^107]
+7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^110]
 
-[^107]: A 7. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § g) pontjával megállapított szöveg.
+[^110]: A 7. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § g) pontjával megállapított szöveg.
