@@ -40,9 +40,9 @@ d) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
 e) a Nemzeti Választási Iroda,
 
-f) az Európai Támogatásokat Auditáló Főigazgatóság, és
+f) az Európai Támogatásokat Auditáló Főigazgatóság
 
-g) a Szuverenitásvédelmi Hivatal.
+g)
 
 (5) Rendvédelmi szerv
 
