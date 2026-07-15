@@ -1,1 +1,0 @@
-11. § Ha a Hivatal olyan tényt állapít meg, vagy körülményt észlel, amely miatt szabálysértési eljárás, büntetőeljárás, közigazgatási hatósági eljárás vagy más eljárás kezdeményezésének vagy lefolytatásának lehet helye, e célból az eljárás lefolytatására jogosult szervet a tudomására jutott adatokról, tényekről tájékoztatja.

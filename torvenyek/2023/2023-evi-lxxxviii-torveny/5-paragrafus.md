@@ -1,1 +1,0 @@
-5. § A Hivatal más állami szervekkel és nem állami szervekkel megállapodást köthet a feladatai ellátáshoz szükséges tájékoztatás nyújtása érdekében. A megállapodások kizárólag a személyes, minősített és más adatok védelmére vonatkozó követelmények megtartásával köthetők meg.
