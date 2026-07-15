@@ -52,7 +52,7 @@ k) a Médiatanács elnökének megválasztásához a médiaszolgáltatásokról 
 
 l) a Médiatanács elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 129. § (7) bekezdésében meghatározott esetben,
 
-m) a Szuverenitásvédelmi Hivatal elnöke mentelmi jogának felfüggesztéséhez a nemzeti szuverenitás védelméről szóló 2023. évi LXXXVIII. törvény 15. § (6) bekezdésében foglaltak szerint,
+m)
 
 n)
 

@@ -46,7 +46,7 @@
 
 23. az Európai Támogatásokat Auditáló Főigazgatóság főigazgatója, főigazgató-helyettese
 
-24. a Szuverenitásvédelmi Hivatal elnöke, elnökhelyettese
+24.
 
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
