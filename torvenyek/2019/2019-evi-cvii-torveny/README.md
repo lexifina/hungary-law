@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-107-00-00
 | 2025-04-25 | 2025. évi V. törvény | 2019-107-00-00.27 |
 | 2026-01-01 | 2025. évi CXI. törvény | 2019-107-00-00.28 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2019-107-00-00.29 |
+| 2026-07-15 | 2026. évi XXIV. törvény | 2019-107-00-00.30 |
