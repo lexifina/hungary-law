@@ -1,3 +1,3 @@
-12. §[^12]
+12. § (1) A 156/2009. (VII. 29.) Korm. rendelet 3. melléklete a 4. melléklet szerint módosul.
 
-[^12]: A 12. § a 15. § (2) bekezdése alapján 2026. július 15-én lép hatályba.
+(2) A 156/2009. (VII. 29.) Korm. rendelet 5. melléklete helyébe az 5. melléklet lép.

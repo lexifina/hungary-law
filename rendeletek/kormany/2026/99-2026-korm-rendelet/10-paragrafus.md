@@ -1,3 +1,7 @@
-10. §[^10]
+## „h) a Kkt. 20. § (7) bekezdésében és 44. § (4)–(8) bekezdésében meghatározott”
 
-[^10]: A 10. § a 15. § (2) bekezdése alapján 2026. július 15-én lép hatályba.
+## [rendelkezést megsérti.]
+
+10. § A 156/2009. (VII. 29.) Korm. rendelet 13. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+
+(Ha az ellenőrző hatóság)
