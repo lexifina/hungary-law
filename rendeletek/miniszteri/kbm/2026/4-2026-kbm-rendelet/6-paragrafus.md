@@ -1,1 +1,3 @@
-6. § Hatályát veszti az ajánlott építőipari rezsióradíj mértékéről szóló 44/2024. (XII. 20.) ÉKM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
