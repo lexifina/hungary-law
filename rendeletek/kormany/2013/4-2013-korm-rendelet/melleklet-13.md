@@ -1,3 +1,3 @@
-13. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^378]
+13. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^362]
 
-[^378]: A 13. mellékletet 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^362]: A 13. mellékletet 678/2020. (XII. 28.) Korm. rendelet 11. § (2) bekezdés 2. pontja hatályon kívül helyezte.

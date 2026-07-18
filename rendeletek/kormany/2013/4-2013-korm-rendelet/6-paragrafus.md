@@ -4,7 +4,7 @@ a)[^15] az államháztartás központi alrendszerébe tartozó költségvetési 
 
 b)[^16] az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról elkülönített állami pénzalaponként, társadalombiztosítás pénzügyi alapjaiként, ha egy fejezeten belül több fejezetet irányító szerv kerül kijelölésre, akkor fejezetet irányító szervenként,
 
-c)[^17] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról – a honvédelemért felelős miniszter által vezetett minisztérium fejezeti kezelésű előirányzatai esetében címenként – fejezetenként, amennyiben egy fejezeten belül több fejezetet irányító szerv kerül kijelölésre, akkor fejezetet irányító szervenként,
+c)[^17] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról fejezetenként, amennyiben egy fejezeten belül több fejezetet irányító szerv kerül kijelölésre, akkor fejezetet irányító szervenként,
 
 d)[^18] az 1. melléklet szerinti központi kezelésű előirányzatok elemi költségvetéséről, az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételekről és kiadásokról és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról azok egészére, valamint az 1. mellékletbe és az e) pontba nem tartozó szervezetek kezelésében álló központi kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról, irányító szervenként,
 
@@ -38,7 +38,7 @@ bd) kiegészítő melléklet.
 
 [^15]: A 6. § (1) bekezdés a) pontja a 480/2022. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^16]: A 6. § (1) bekezdés b) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 1. pontja, a 678/2020. (XII. 28.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
-[^17]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja, a 678/2020. (XII. 28.) Korm. rendelet 10. § 4. pontja, a 245/2022. (VII. 8.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^17]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja, a 678/2020. (XII. 28.) Korm. rendelet 10. § 4. pontja, a 106/2026. (VII. 17.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^18]: A 6. § (1) bekezdés d) pontja a 678/2020. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: A 6. § (1) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^20]: A 6. § (1) bekezdés f) pontja a 480/2022. (XI. 28.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

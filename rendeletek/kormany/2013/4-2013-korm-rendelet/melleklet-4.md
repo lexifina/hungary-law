@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^360]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^344]
 
 ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -64,7 +64,7 @@ ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOT
 
 – árvaellátás jogcímhez kapcsolódó 13. havi nyugdíj.
 
-5.[^361] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 4. Kártérítési és baleseti járadék alcím tekintetében a kifizetett ellátásokon belül:
+5.[^345] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 4. Kártérítési és baleseti járadék alcím tekintetében a kifizetett ellátásokon belül:
 
 – kártérítési járadék,
 
@@ -74,12 +74,12 @@ ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOT
 
 – ebből: 13. havi ellátás.
 
-6.[^362] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 6. Rokkantsági, rehabilitációs ellátások alcím tekintetében a kifizetéseken belül:
+6.[^346] A LXXII. Egészségbiztosítási Alap, 2. Egészségbiztosítási ellátások kiadásai cím, 6. Rokkantsági, rehabilitációs ellátások alcím tekintetében a kifizetéseken belül:
 
 – egyszeri juttatás,
 
 – 13. havi ellátás.
 
-[^360]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
-[^361]: A 4. melléklet 5. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^362]: A 4. melléklet 6. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^344]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^345]: A 4. melléklet 5. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^346]: A 4. melléklet 6. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 1. pontjával megállapított szöveg.
