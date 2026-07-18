@@ -1,0 +1,1 @@
+7. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 6. § (1) bekezdés c) pontjában az „– a honvédelemért felelős miniszter által vezetett minisztérium fejezeti kezelésű előirányzatai esetében címenként –” szövegrész.

@@ -1,0 +1,1 @@
+4. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 6/A. §-ában az „az 1. melléklet I. pont 19. alpontját” szövegrész helyébe az „az 1. melléklet I. pont 24. alpontját” szöveg, valamint a „XIV. fejezet 09. cím 1. alcíme” szövegrész helyébe a „XXVII. fejezet 2. cím 1. alcíme” szöveg lép.
