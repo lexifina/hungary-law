@@ -1,12 +1,18 @@
 21. § (1) Ha e törvény, illetve az (EU) 2017/1129 rendelet másként nem rendelkezik, értékpapírra történő nyilvános ajánlattétel, illetve értékpapír szabályozott piacra történő bevezetése esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy az (EU) 2017/1129 rendelet szerinti kibocsátási tájékoztatót (a továbbiakban: tájékoztató) köteles közzétenni. A tájékoztató közzétételéhez a Felügyelet – (EU) 2017/1129 rendelet szerinti – jóváhagyása szükséges.
 
-(1a) Tájékoztató közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni értékpapírra vonatkozó olyan nyilvános ajánlattétel esetén, amikor az értékpapír ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb, és az értékpapírra vonatkozó nyilvános ajánlattétel nem feleltethető meg az (EU) 2017/1129 rendelet 1. cikk (4) bekezdése szerinti esetek egyikének sem. Jelentős új tényezők, lényeges hibák vagy lényeges pontatlanságok esetén a minimum tájékoztatóhoz indokolatlan késedelem nélkül kiegészítést kell fűzni.
+(1a) Tájékoztató közzététele helyett az (EU) 2017/1129 rendelet 7. cikk (3) bekezdése szerinti terjedelemben és a 7. cikk (4)–(10) bekezdése szerinti tartalommal kell minimum tájékoztatót készíteni értékpapírra vonatkozó olyan nyilvános ajánlattétel esetén, ha
 
-(1b) A kibocsátó, illetve az ajánlattevő az (1a) bekezdés szerinti minimum tájékoztatót a Felügyelet jóváhagyását követően észszerű időn belül elérhetővé teszi a kibocsátó, illetve az ajánlattevő honlapján.
+a) az értékpapír ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten ötmillió eurónál vagy annak megfelelő összegnél kisebb,
+
+b) az értékpapírra vonatkozó nyilvános ajánlattétel nem feleltethető meg az (EU) 2017/1129 rendelet 1. cikk (4) bekezdése szerinti esetek egyikének sem, és
+
+c) az ajánlattételre nem vonatkozik az (EU) 2017/1129 rendelet 25. cikke szerinti iratküldési eljárás kötelezettsége.
+
+(1b) Jelentős új tényezők, lényeges hibák vagy lényeges pontatlanságok esetén az (1a) bekezdés szerinti minimum tájékoztatóhoz indokolatlan késedelem nélkül kiegészítést kell fűzni. A kibocsátó, illetve az ajánlattevő a minimum tájékoztatót a Felügyeletnek történő benyújtással egyidejűleg közzéteszi az (EU) 2017/1129 rendelet 21. cikk (2) bekezdésének megfelelően.
 
 (1c) Az (EU) 2017/1129 rendelet
 
-a) 1. cikke (4) bekezdésének a)–e) és j) pontjában foglalt nyilvános ajánlattétel esetén a 16. §-ban,
+a) 1. cikke (4) bekezdésének a)–d), e) és j) pontjában foglalt nyilvános ajánlattétel esetén a 16. §-ban,
 
 b) 1. cikke (4) bekezdésében foglalt nyilvános ajánlattétel és 1. cikke (5) bekezdésének a)–h) pontjában foglalt szabályozott piacra történő bevezetés esetén a 17. § (1) bekezdésében
 

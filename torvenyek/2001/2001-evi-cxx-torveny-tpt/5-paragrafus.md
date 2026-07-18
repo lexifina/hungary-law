@@ -138,6 +138,8 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
 
+48a. felügyelt adatszolgáltató: a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, (EU) 2016/1011 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2016/1011 rendelet] ekként meghatározott fogalom,
+
 49. fogadó tagállam: az V. Fejezet alkalmazásában az a – 140. pont b) alpontjában meghatározott székhely szerinti tagállamtól eltérő – tagállam, amelynek szabályozott piacára az értékpapírt bevezették,
 
 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
@@ -190,13 +192,11 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 68. kiszervezés: olyan megállapodás a tőzsde, a központi értéktár, a központi szerződő fél és egy más személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, a központi értéktár, a központi szerződő fél maga végezne,
 
-69. kis- és középvállalkozás: olyan vállalkozás, amely utolsó éves vagy konszolidált beszámolója szerint legalább két feltételnek megfelel az alábbiak közül:
+69. kis- és középvállalkozás: olyan vállalkozás, amelynek utolsó éves vagy konszolidált beszámolója szerint:
 
-a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb,
+a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb és
 
-b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
-
-c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
+b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót – illetve a mérleg fordulónapján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget – vagy éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
 
 70. elszámolás: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 
@@ -287,6 +287,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
+
+109a. referenciamutató-kezelő: az (EU) 2016/1011 rendeletben ekként meghatározott fogalom,
 
 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 
