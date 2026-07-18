@@ -1,0 +1,5 @@
+## „d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve a rövid, közép- és hosszú távú ESG-kockázatokat is, valamint a központi felekkel szembeni kitettségekből eredő koncentrációs kockázatokat, figyelembe véve a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 7a. cikkében meghatározott feltételeket,”
+
+32. § A Hpt. 108. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) A Felügyelet figyelemmel kíséri a hitelintézet által az (5) bekezdés b) pontja szerinti központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázatok kezelésére alkalmazott gyakorlatok alakulását, beleértve a 109. § (2a) és (2b) bekezdéssel összhangban kidolgozott terveket, valamint üzleti modelljének a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekhez való hozzáigazítása terén elért eredményeket.”
