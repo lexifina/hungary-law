@@ -48,4 +48,6 @@
 
 24. a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 európai parlamenti és tanácsi rendelet
 
+25. az (EU) 2017/1129, az 596/2014/EU és a 600/2014/EU rendeletnek az uniós tőkepiacok vállalkozások számára vonzóbbá tétele, valamint a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról szóló, 2024. október 23-i (EU) 2024/2809 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

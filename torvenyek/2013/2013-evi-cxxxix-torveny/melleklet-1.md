@@ -91,9 +91,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 3. a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között az (EU) 2017/1129 európai parlamenti és tanácsi rendelet 1. cikk (4) bekezdés f) és g) pontjában, illetve 1. cikk (5) bekezdés e) és f) pontjában meghatározott tájékoztató dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
 
 4. a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó között
-
-4.1. a kibocsátási tájékoztató kiegészítése közzétételének jóváhagyására,
-
-4.2. az alaptájékoztató kiegészítése közzétételének jóváhagyására,
-
-5. a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy között

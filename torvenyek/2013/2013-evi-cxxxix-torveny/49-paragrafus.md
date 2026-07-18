@@ -44,6 +44,8 @@ a) az MNB az eljárást felfüggesztheti, ha az ügyben külföldi szervet kell 
 
 b) az eljárás felfüggesztésének akkor is helye van, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy az MNB-nek az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
+c) folyamatban lévő büntetőeljárás esetén az MNB az adott cselekmény kapcsán a közigazgatási szankció kiszabását felfüggesztheti a büntetőeljárásnak a bíróság jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel történő befejezéséig, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig.
+
 (10) Az Ákr. eljárás megszüntetésére vonatkozó esetein túl az MNB az eljárást megszüntetheti abban az esetben is, ha
 
 a) az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte, vagy nyilatkozattételének elmaradása megakadályozta a tényállás tisztázását,
