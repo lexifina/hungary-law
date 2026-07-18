@@ -1,4 +1,4 @@
-43. § (1)[^4] Kérelemre rendelkezési állományba helyezhető és rendelkezési állományba tartozik
+43. § (1)[^5] Kérelemre rendelkezési állományba helyezhető és rendelkezési állományba tartozik
 
 a) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása, álláshelye létszámcsökkentés vagy átszervezés következtében megszűnt, és további foglalkoztatására nincs lehetőség,
 
@@ -44,4 +44,4 @@ c) a Hjkr. 15. § (2) bekezdés c) pontja szerint megszűnik, ha az állomány t
 
 (6) A Honvédség központi személyügyi szerve – a honvédelmi szervezetek vonatkozásában – folyamatosan vizsgálja az állomány (1) bekezdés szerint rendelkezési állományba tartozó tagja részére iskolai végzettsége, szakképzettsége, szakképesítése alapján honvédelmi alkalmazotti munkakör felajánlásának lehetőségét.
 
-[^4]: A 43. § (1) bekezdés záró szövegrésze a 2/2026. (I. 22.) HM rendelet 10. §-a szerint módosított szöveg.
+[^5]: A 43. § (1) bekezdés záró szövegrésze a 2/2026. (I. 22.) HM rendelet 10. §-a szerint módosított szöveg.

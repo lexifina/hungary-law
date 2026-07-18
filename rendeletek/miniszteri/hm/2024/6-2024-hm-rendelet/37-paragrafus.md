@@ -1,6 +1,6 @@
 ## 25. A szolgálati viszony megszűnése a Hjkr. erejénél fogva
 
-37. §[^2] A szolgálati viszony a Hjkr. 15. § (1) bekezdés b) pont
+37. §[^3] A szolgálati viszony a Hjkr. 15. § (1) bekezdés b) pont
 
 a) 1–10. és 15–16. alpontja esetén a feltétel beállta napján,
 
@@ -12,4 +12,4 @@ d) 14. alpontja esetén a méltatlanságot megállapító határozat közlését
 
 szűnik meg.
 
-[^2]: A 37. § a 19/2024. (IX. 19.) HM rendelet 32. §-ával megállapított szöveg.
+[^3]: A 37. § a 19/2024. (IX. 19.) HM rendelet 32. §-ával megállapított szöveg.
