@@ -200,6 +200,8 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 63b. központi értéktár: az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom;
 
+63c. központi szerződő fél: a Tpt.-ben meghatározott fogalom;
+
 64. különleges célú gazdasági egység: a Hpt.-ben meghatározott fogalom;
 
 65. lakossági befektető: nem szakmai befektetőnek minősülő befektető;

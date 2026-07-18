@@ -24,7 +24,7 @@ bi) nyilvántartások vezetése;
 
 c) kollektív befektetési értékpapír forgalmazása és az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala.
 
-(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
+(2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–d) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
 
 a) portfóliókezelés,
 

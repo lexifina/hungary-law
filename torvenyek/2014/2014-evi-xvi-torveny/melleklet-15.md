@@ -15,5 +15,3 @@
 ## g) adott esetben az azon intézkedésekkel kapcsolatos információk, amelyekkel az ABA befektetései a lakossági befektetők számára történő forgalmazását akadályozzák meg, beleértve azt az esetet, amikor az ABAK független szereplők bevonásával nyújtja az ABA-val kapcsolatos befektetési szolgáltatásait.
 
 15. melléklet a 2014. évi XVI. törvényhez
-
-## Tájékoztatási kötelezettség elemei az ABA kollektív befektetési értékpapírjainak hazai székhelyű ABAK általi más EGT-államban tervezett forgalmazása esetén

@@ -24,6 +24,8 @@ j) az Európai Parlament és a Tanács (EU) 2022/2556 irányelve (2022. december
 
 k) Az Európai Parlament és a Tanács (EU) 2024/927 irányelve (2024. március 13.) a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról.
 
+m) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló, 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelv.
+
 (2) E törvény
 
 a) a Bizottság 2010. július 1-jei, a 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló, 583/2010/EU rendeletének,
