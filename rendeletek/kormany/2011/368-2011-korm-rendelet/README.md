@@ -132,3 +132,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2026-01-01 | 2011-368-20-22.123 | 394/2025. (XII. 11.) Korm. rendelet |
 | 2026-01-20 | 2011-368-20-22.127 | 104/2025. (V. 14.) Korm. rendelet |
 | 2026-02-20 | 2011-368-20-22.128 | 27/2026. (II. 19.) Korm. rendelet |
+| 2026-07-18 | 2011-368-20-22.129 | 106/2026. (VII. 17.) Korm. rendelet |

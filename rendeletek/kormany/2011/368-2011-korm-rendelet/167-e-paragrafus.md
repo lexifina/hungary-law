@@ -52,6 +52,8 @@ c)[^859] véleményéről szóló okirat a nemzetiségi kulturális intézmény 
 
 a)[^875] költségvetési szerv esetében az Áht. 8/A. § (2) bekezdése alapján kiadott alapító okirat, a módosító okirat és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata,
 
+b) helyi önkormányzat, nemzetiségi önkormányzat esetében a képviselő-testület alakuló ülésén hozott, a törzskönyvi bejegyzéshez szükséges adatokat tartalmazó határozatának kivonata, valamint a törzskönyvi bejegyzést követően a szervezeti és működési szabályzata,
+
 [^856]: Az Ávr. 167/E. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 71. pontja szerint módosított szöveg.
 [^857]: Az Ávr. 167/E. § (1) bekezdés 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 72. pontja szerint módosított szöveg.
 [^858]: Az Ávr. 167/E. § (1) bekezdés 2. pont b) alpontja a 159/2014. (VI. 30.) Korm. rendelet 4. §-ával megállapított, a 499/2016. (XII. 28.) Korm. rendelet 22. § 21. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 36. pontja, 32. § (2) bekezdés 6. pontja, a 282/2019. (XI. 27.) Korm. rendelet 18. § 13. pontja, a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
