@@ -30,7 +30,7 @@
 
 15. jogalany azonosító (LEI): ISO 17442 szabvány szerinti, 20 alfanumerikus karakterből álló, a jogalanyt egyértelműen azonosító kód (Legal Entity Identifier);
 
-16. jó üzleti hírnév: a hitelgondozó vezető állású személyeinek, befolyásoló részesedéssel rendelkező tulajdonosainak a hitelgondozó irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
+16. jó üzleti hírnév: a hitelgondozó vezető állású személyeinek, felügyelő bizottsági tagjainak, befolyásoló részesedéssel rendelkező tulajdonosainak a hitelgondozó irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 
 17. nemteljesítő hitelmegállapodás: az 575/2013/EU rendelet 47a. cikke szerint nemteljesítő kitettségként besorolt hitelmegállapodás;
 
