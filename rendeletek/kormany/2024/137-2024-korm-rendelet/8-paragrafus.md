@@ -2,7 +2,7 @@
 
 (2) Nem köthető ki próbaidő
 
-a)[^2] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó hivatásos jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából történő áthelyezéskor,
+a)[^3] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó hivatásos jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából történő áthelyezéskor,
 
 b) a nemzetközi kötelezettség teljesítéséből vagy együttműködésből eredő szolgálati feladat végrehajtására kötött szerződés esetén,
 
@@ -14,4 +14,4 @@ d) ha az önkéntes tartalékos szolgálati viszony létesítése a hivatásos v
 
 (4) Ha az állomány tagja a honvédségi ösztöndíjszerződés alapján létesített szolgálati viszonyát a próbaidő alatt megszünteti, vagy az az állomány tagjának felróható okból megszűnik, vagy azt a szolgálati viszony megszüntetésére jogosult elöljáró az állomány tagjának felróható okból megszünteti, a honvédelmi szervezet követelheti a tanulmányi támogatás megtérítését. Ha az állomány tagjának szolgálati viszonya neki felróható okból a próbaidő leteltét követően, de az ösztöndíjszerződésben vállalt szolgálati idő letelte előtt szűnik meg, akkor a megtérítési kötelezettsége időarányos.
 
-[^2]: A 8. § (2) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^3]: A 8. § (2) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.

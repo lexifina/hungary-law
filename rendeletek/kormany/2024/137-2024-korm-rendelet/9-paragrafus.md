@@ -9,3 +9,7 @@ a) aki alapkiképzéssel nem rendelkezik, vagy
 b) akinek – ismételt szolgálati viszony létesítés esetén – korábbi szolgálati viszonya megszűnése óta több, mint tíz év telt el.
 
 (3) A honvéd az alapkiképzés sikeres végrehajtását követően nevezhető ki első rendfokozatába. Ha a jelentkező nem kötelezett alapkiképzésre, az állományba vétel napjával első rendfokozatába is kinevezhető. A döntésre jogosult elöljáró a kezdő rendfokozattól eltérő első rendfokozatot is megállapíthat.
+
+(4)[^6] A 8. § (2) bekezdés a) pontja szerinti áthelyezéssel történő szolgálati viszony létesítésekor a miniszter az alapkiképzés teljesítése alól felmentést adhat.
+
+[^6]: A 9. § (4) bekezdését a 109/2026. (VII. 17.) Korm. rendelet 2. §-a iktatta be.

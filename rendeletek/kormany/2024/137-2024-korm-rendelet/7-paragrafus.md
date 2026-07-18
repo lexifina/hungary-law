@@ -30,6 +30,8 @@ g) akit fegyelmi fenyítésként vagy méltatlanság megállapítása miatt lefo
 
 h) akivel szemben a jogviszony létesítésekor jogviszonymegszűnési ok áll fenn, és
 
-i) aki honvédelmi szolgálati juttatásban részesül, az önkéntes tartalékos szolgálati viszony kivételével.
+i)[^2]
 
 (5) A legénységi állományba vétel esetén el lehet tekinteni a (4) bekezdés a)–c), e) és g) pontjában foglalt feltételektől, mérlegelve a katonai szolgálatra jelentkező által elkövetett cselekmény vagy mulasztás súlyát vagy jellegét, a Honvédség tekintélyét és a működéséhez szükséges közbizalom megóvását.
+
+[^2]: A 7. § (4) bekezdés i) pontját a 109/2026. (VII. 17.) Korm. rendelet 6. §-a hatályon kívül helyezte.

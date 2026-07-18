@@ -18,8 +18,8 @@ c) a magasabb rendfokozathoz előírt követelménynek megfelel.
 
 (6) A miniszter az állomány tagját legfeljebb két alkalommal a kötelező várakozási idő letelte előtt eggyel magasabb rendfokozatba előléptetheti.
 
-(7)[^13] Az állomány MH vezénylő zászlósa beosztásba kinevezett tagját a kinevezéssel egyidejűleg az MH vezénylő zászlós rendfokozatba elő kell léptetni. Az MH vezénylő zászlós rendfokozatba történő előléptetés határozott időre, az MH vezénylő zászlósa beosztás betöltésének időtartamára szól. A miniszter a külföldi szolgálat időtartamára engedélyezheti az MH vezénylő zászlós rendfokozat viselését.
+(7)[^19] Az állomány MH vezénylő zászlósa beosztásba kinevezett tagját a kinevezéssel egyidejűleg az MH vezénylő zászlós rendfokozatba elő kell léptetni. Az MH vezénylő zászlós rendfokozatba történő előléptetés határozott időre, az MH vezénylő zászlósa beosztás betöltésének időtartamára szól. A miniszter a külföldi szolgálat időtartamára engedélyezheti az MH vezénylő zászlós rendfokozat viselését.
 
 (8) Ha az állomány külföldi szolgálatra vezényelt tagjának viselt rendfokozata egy rendfokozati szinttel eltér a vezénylés idejére tervezett beosztáshoz rendszeresített rendfokozattól, az állomány tagja a vezénylés vagy a vezénylés során adott beosztás betöltésének időtartamára egy rendfokozattal magasabb rendfokozatba előléptethető, kinevezhető. A vezénylés időtartamára meghatározott rendfokozat a vezénylés meghosszabbítása esetén meghosszabbodik, a vezénylés megszűnésekor, megszüntetésekor pedig megszűnik.
 
-[^13]: A 20. § (7) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^19]: A 20. § (7) bekezdése a 436/2025. (XII. 23.) Korm. rendelet 54. §-ával megállapított szöveg.

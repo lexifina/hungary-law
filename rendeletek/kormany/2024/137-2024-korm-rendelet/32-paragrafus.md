@@ -78,7 +78,7 @@ együttes összegénél.
 
 a) a 2024. szeptember 30-án érvényes illetmény meghatározása során nem kell figyelembe venni
 
-aa)[^16] a Hjt. e rendelet hatálybalépését megelőző napon hatályos 55. § (6) bekezdése alapján megállapított, valamint a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet 2024. június 30-án hatályos 13. § (1) bekezdése szerinti tűzszerész tevékenységért megállapított pótlékok összegét,
+aa)[^22] a Hjt. e rendelet hatálybalépését megelőző napon hatályos 55. § (6) bekezdése alapján megállapított, valamint a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet 2024. június 30-án hatályos 13. § (1) bekezdése szerinti tűzszerész tevékenységért megállapított pótlékok összegét,
 
 ab) az egészségügyi beosztású katona esetén a Hjt. alapján kiadott miniszteri rendelet szerinti egészségügyi ügyelet ellátásáért járó, valamint a délutáni és éjszakai egészségügyi tevékenységért járó fokozott igénybevételi pótlék összegét,
 
@@ -124,13 +124,16 @@ b) 2024. október 1-jén az azt megelőző napon betöltött beosztásával mege
 
 (43) Az egészségügyi beosztású katonára az 1. § (3) bekezdés c) pontja szerinti rendelet hatálybalépéséig a Hjt. 237/J–237/M. §, a Hjt.vhr. 26. § (13) bekezdés, valamint a Hjt. végrehajtására kiadott közjogi szervezetszabályozó eszköz 2024. június 30-án hatályos rendelkezéseit kell alkalmazni, azzal, hogy az egészségügyi beosztású katona szolgálatteljesítési idejére a 22. §-ban foglaltak mellett az Eütev. munkaidőre vonatkozó szabályait is alkalmazni kell.
 
-(44)[^17] A 2024. július 1-jét megelőzően a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendelet szerint honvédelmi szolgálati juttatásban részesült személyek esetében a honvédelmi szolgálati juttatással összefüggésben – az adatkezelési szabályok kivételével – a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendeletnek és a honvédelmi szolgálati juttatással kapcsolatos eljárásrendről szóló 3/2023. (II. 20.) HM rendeletnek a 2024. június 30-án hatályos szabályait alkalmazni kell.
+(44)[^23] A 2024. július 1-jét megelőzően a 8/2023. (I. 17.) Korm. rendelet szerint honvédelmi szolgálati juttatásban részesült személyek esetében a honvédelmi szolgálati juttatással összefüggésben – az adatkezelési szabályok kivételével – a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendeletnek és a honvédelmi szolgálati juttatással kapcsolatos eljárásrendről szóló 3/2023. (II. 20.) HM rendeletnek a 2024. június 30-án hatályos szabályait alkalmazni kell.
 
-(45)[^18] A (24) bekezdés a) pontja szerinti távolléti díj alatt a honvéd tisztjelölt esetében az alapilletményt kell érteni.
+(45)[^24] A (24) bekezdés a) pontja szerinti távolléti díj alatt a honvéd tisztjelölt esetében az alapilletményt kell érteni.
 
-(46)[^19] A (24) bekezdés a) pontja szerinti távolléti díj alatt a Hjt. e rendelet hatálybalépését megelőző napon hatályos 237/L. § (1) bekezdése szerinti egészségügyi beosztású katonák esetében a Hjt. e rendelet hatálybalépését megelőző napon hatályos 237/L. § (10) bekezdés a) pontja szerinti alapilletményt kell érteni.
+(46)[^25] A (24) bekezdés a) pontja szerinti távolléti díj alatt a Hjt. e rendelet hatálybalépését megelőző napon hatályos 237/L. § (1) bekezdése szerinti egészségügyi beosztású katonák esetében a Hjt. e rendelet hatálybalépését megelőző napon hatályos 237/L. § (10) bekezdés a) pontja szerinti alapilletményt kell érteni.
 
-[^16]: A 32. § (26) bekezdés a) pont aa) alpontja a 288/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^17]: A 32. § (44) bekezdését a 176/2024. (VII. 7.) Korm. rendelet 33. §-a iktatta be.
-[^18]: A 32. § (45) bekezdését a 288/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^19]: A 32. § (46) bekezdését a 288/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+(47)[^26] E rendeletnek a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet módosításáról szóló 109/2026. (VII. 17.) Korm. rendelettel megállapított 8/A. §-a szerint szolgálati viszonyt létesítők tekintetében a szolgálati viszony fennállása alatt a (44) bekezdésben foglaltakat nem kell alkalmazni.
+
+[^22]: A 32. § (26) bekezdés a) pont aa) alpontja a 288/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^23]: A 32. § (44) bekezdését a 176/2024. (VII. 7.) Korm. rendelet 33. §-a iktatta be, szövege a 109/2026. (VII. 17.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^24]: A 32. § (45) bekezdését a 288/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^25]: A 32. § (46) bekezdését a 288/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^26]: A 32. § (47) bekezdését a 109/2026. (VII. 17.) Korm. rendelet 4. §-a iktatta be.

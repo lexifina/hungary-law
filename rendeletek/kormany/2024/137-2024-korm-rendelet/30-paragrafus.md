@@ -4,7 +4,7 @@
 
 a) a Honvéd Kódexet, valamint
 
-b) a szolgálati viszony létesítésével, fennállásával és megszüntetésével kapcsolatos részletes és a szolgálati viszony sajátosságainak megfelelő sajátos szabályokat.[^15]
+b) a szolgálati viszony létesítésével, fennállásával és megszüntetésével kapcsolatos részletes és a szolgálati viszony sajátosságainak megfelelő sajátos szabályokat.[^21]
 
 (2) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
@@ -12,4 +12,4 @@ a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás e
 
 b) a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységeket, ezen egészségügyi tevékenységek elvégzéséhez szükséges egészségügyi szakkiképzések körét, a szakkiképzési követelményeket, azok szakmai tartalmát, és kijelölje a szakkiképzés lefolytatására jogosított intézmények körét.
 
-[^15]: Lásd az 5/2024. (VI. 28.) HM rendeletet, a 6/2024. (VI. 28.) HM rendeletet, a 7/2024. (VI. 28.) HM rendeletet, a 8/2024. (VI. 28.) HM rendeletet, a 9/2024. (VI. 28.) HM rendeletet, a 10/2024. (VI. 28.) HM rendeletet, a 11/2024. (VI. 28.) HM rendeletet, a 12/2024. (VI. 28.) HM rendeletet, a 13/2024. (VII. 23.) HM rendeletet, a 18/2024. (IX. 2.) HM rendeletet, a 20/2024. (IX. 30.) HM rendeletet, a 21/2024. (IX. 30.) HM rendeletet, a 23/2024. (IX. 30.) HM rendeletet.
+[^21]: Lásd az 5/2024. (VI. 28.) HM rendeletet, a 6/2024. (VI. 28.) HM rendeletet, a 7/2024. (VI. 28.) HM rendeletet, a 8/2024. (VI. 28.) HM rendeletet, a 9/2024. (VI. 28.) HM rendeletet, a 10/2024. (VI. 28.) HM rendeletet, a 11/2024. (VI. 28.) HM rendeletet, a 12/2024. (VI. 28.) HM rendeletet, a 13/2024. (VII. 23.) HM rendeletet, a 18/2024. (IX. 2.) HM rendeletet, a 20/2024. (IX. 30.) HM rendeletet, a 21/2024. (IX. 30.) HM rendeletet, a 23/2024. (IX. 30.) HM rendeletet.

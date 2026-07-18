@@ -12,9 +12,9 @@ b) e rendelet erejénél fogva
 
 3. a jogszabályban előírt képzési és kiképzési kötelezettség felróható okból történő nemteljesítése esetén,
 
-4.[^8] az állomány tagjának országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
+4.[^14] az állomány tagjának országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 
-5.[^9] – a kabinetfőnök kivételével – politikai szolgálati jogviszonyba történő kinevezéssel, kivéve, ha a szolgálati viszony a Kit. szerinti államtitkárrá kinevezés miatt szünetel,
+5.[^15] – a kabinetfőnök kivételével – politikai szolgálati jogviszonyba történő kinevezéssel, kivéve, ha a szolgálati viszony a Kit. szerinti államtitkárrá kinevezés miatt szünetel,
 
 6. ha a megszűnés módjára e rendelet eltérően nem rendelkezik, a 7. § (2) bekezdésében foglalt feltételeknek már nem felel meg a honvéd,
 
@@ -36,7 +36,7 @@ b) e rendelet erejénél fogva
 
 15. honvédelmi egészségkárosodási járadékra való jogosultság jogerős megállapítása esetén,
 
-16.[^10] honvédelmi egészségkárosodási keresetkiegészítés jogerős megállapítása esetén, ha egyidejűleg az állomány tagja kormányzati szolgálati vagy munkaviszonyt létesít,
+16.[^16] honvédelmi egészségkárosodási keresetkiegészítés jogerős megállapítása esetén, ha egyidejűleg az állomány tagja kormányzati szolgálati vagy munkaviszonyt létesít,
 
 17. az 5. § (5) bekezdése, a 9. § (1) bekezdése és a 23. § (3) bekezdése esetében,
 
@@ -64,6 +64,6 @@ e) lemondással és egyoldalú szerződésbontással.
 
 (7) Az állomány tagja, a honvédelmi szervezet és a kormányzati személyügyi igazgatási feladatokat ellátó szerv a rendelkezési állomány időtartama alatt a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni. Ha törvény a tartalékállományra vonatkozó egyes szabályokról szóló 71/2019. (IV. 4.) Korm. rendelet 2. § f) pontja szerinti tartalékállományba helyezettek foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében rendelkezési állományba áthelyezett személyt foglalkoztatóra is alkalmazni kell.
 
-[^8]: A 15. § (1) bekezdés b) pont 4. alpontja a 313/2024. (XI. 4.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^9]: A 15. § (1) bekezdés b) pont 5. alpontja a 24/2025. (II. 27.) Korm. rendelet 103. § c) pontja szerint módosított szöveg.
-[^10]: A 15. § (1) bekezdés b) pont 16. alpontja a 313/2024. (XI. 4.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^14]: A 15. § (1) bekezdés b) pont 4. alpontja a 313/2024. (XI. 4.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^15]: A 15. § (1) bekezdés b) pont 5. alpontja a 24/2025. (II. 27.) Korm. rendelet 103. § c) pontja szerint módosított szöveg.
+[^16]: A 15. § (1) bekezdés b) pont 16. alpontja a 313/2024. (XI. 4.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

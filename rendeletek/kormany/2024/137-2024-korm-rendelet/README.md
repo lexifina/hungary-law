@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-137-20-
 | 2024-11-05 | 2024-137-20-22.4 | 313/2024. (XI. 4.) Korm. rendelet |
 | 2025-03-01 | 2024-137-20-22.5 | 24/2025. (II. 27.) Korm. rendelet |
 | 2026-01-06 | 2024-137-20-22.6 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-07-18 | 2024-137-20-22.7 | 109/2026. (VII. 17.) Korm. rendelet |
