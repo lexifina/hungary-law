@@ -1,5 +1,3 @@
-## „v) a részvényeiket multilaterális kereskedési rendszerben történő kereskedésre bevezetni kívánó társaságok szavazatelsőbbségi részvénystruktúráiról szóló, 2024. október 23-i (EU) 2024/2810 európai parlamenti és tanácsi irányelv.”
-
 22. § A Bszt.
 
 a) 4. § (2) bekezdés 8. pontjában a „befektetési elemzés” szövegrész helyébe a „befektetési kutatás” szöveg, a „Tpt.” szövegrész helyébe a „piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) 3. cikk (1) bekezdés 35. pontja” szöveg,

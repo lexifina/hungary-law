@@ -11,15 +11,3 @@ való megfelelést szolgálja.
 (2) E törvény az (EU) 2017/1129, az 596/2014/EU és a 600/2014/EU rendeletnek az uniós tőkepiacok vállalkozások számára vonzóbbá tétele, valamint a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról szóló, 2024. október 23-i (EU) 2024/2809 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) E törvény a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, 2016. április 7-i (EU) 2017/593 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke

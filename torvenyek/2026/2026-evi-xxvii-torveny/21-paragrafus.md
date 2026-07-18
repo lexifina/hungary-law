@@ -10,6 +10,4 @@
 
 ## „u) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló, 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelv.”
 
-(3) A Bszt. 183. § (1) bekezdése a következő v) ponttal egészül ki:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+(3)
