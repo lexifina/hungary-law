@@ -12,7 +12,7 @@ a) általános esetben az építési termék gyártói teljesítménynyilatkozat
 
 b)[^9] egyedi, hagyományos, természetes, bontott vagy műemléki védelem alatt álló építménybe tervezett építési termék beépítése esetében a felelős műszaki vezető építési naplóban az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint tett nyilatkozattal
 
-c)[^10] tűzvédelmi célú építési termék esetén a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) vizsgálati eredményeken alapuló engedélye
+c)[^10] tűzvédelmi célú építési termék esetén a Budapest Főváros Kormányhivatalának (a továbbiakban: BFKH) vizsgálati eredményeken alapuló engedélye
 
 igazolja.
 
@@ -31,6 +31,6 @@ b) alkotóelemei között van olyan, amelyre vonatkozik harmonizált szabvány, 
 [^7]: A 3. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdés b) pontja a 261/2017. (IX. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdés c) pontját a 261/2017. (IX. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^10]: A 3. § (2) bekezdés c) pontját a 261/2017. (IX. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 108/2026. (VII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^11]: A 3. § (5) bekezdését a 261/2017. (IX. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^12]: A 3. § (6) bekezdését a 261/2017. (IX. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.

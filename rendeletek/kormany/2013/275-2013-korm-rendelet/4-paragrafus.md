@@ -44,6 +44,9 @@ g)[^14] műemléki védelem alatt álló építménybe tervezett egyedi, hagyom�
 
 (8)[^15] Az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: Svr.) meghatározott hagyományos vagy természetes építési anyagokat és a természetben előforduló radioaktív anyagokat feldolgozó iparágak maradékanyagait tartalmazó anyagok építési termékként épületbe történő betervezése és beépítése esetén figyelembe kell venni az Svr.-ben az építőanyagok által kibocsátott gamma-sugárzásra vonatkozóan meghatározott követelményeket.
 
+(9)[^16] Krokidolit, amozit, antofillit, aktinolit, krizotil vagy tremolit azbeszt ásványi kőzeteket tartalmazó anyagok és termékek építménybe történő betervezése és beépítése tilos.
+
 [^13]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^14]: A 4. § (4) bekezdés g) pontját a 261/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
 [^15]: A 4. § (8) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 7. §-ával megállapított, a 285/2024. (IX. 30.) Korm. rendelet 90. § c) pontja szerint módosított szöveg.
+[^16]: A 4. § (9) bekezdését a 108/2026. (VII. 17.) Korm. rendelet 3. §-a iktatta be.
