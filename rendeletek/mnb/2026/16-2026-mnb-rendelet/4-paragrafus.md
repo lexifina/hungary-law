@@ -1,0 +1,1 @@
+4. § Az 1. § (1) bekezdés c)–j) és n) pontja szerinti szolgáltató telefonon közölt szóbeli panasz esetén az ügyfélszolgálati ügyintéző élőhangos, az indított hívás sikeres felépülésének időpontjától számított öt percen belüli bejelentkezése érdekében úgy köteles eljárni, ahogy az az adott helyzetben általában elvárható.
