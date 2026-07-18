@@ -82,6 +82,8 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 25b. személyes hitelesítési adatok: pénzforgalmi szolgáltató által hitelesítés céljából az ügyfél rendelkezésére bocsátott személyes elemek,
 
+25c. számlaegyenleg-kezelési szolgáltatás: olyan átutalás, amelyet a számlavezető pénzforgalmi szolgáltató a számlatulajdonossal kötött megállapodás alapján, a fizető fél külön rendelkezése nélkül, automatikusan hajt végre a fizetési számláról annak meghatározott egyenlegéig,
+
 26. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 
 27. távoli kommunikáció: bármely módszer, amely a távollévő felek számára lehetővé teszi – a keretszerződés megkötése, valamint az egyszeri fizetési megbízási szerződés érdekében – a szerződési nyilatkozat megtételét,

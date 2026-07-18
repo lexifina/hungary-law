@@ -6,7 +6,7 @@
 
 1. a fizetési művelethez kapcsolódó, a fizetési rendszerben használt tranzakciós üzenet típusa és azonosítója, vagy ha ez nem ismert, akkor egy ezzel egyenértékű, egyedi azonosítást lehetővé tevő azonosító;
 
-2. információ arról, hogy a fizetési megbízás fizetési kérelemre válaszul került-e kezdeményezésre, ha igen, akkor a fizetési kérelmet küldő neve;
+2. információ arról, hogy a fizetési megbízás fizetési kérelemre válaszul került-e kezdeményezésre, ha igen, akkor a fizetési kérelmet küldő ügyfél neve, valamint a fizetési kérelmet küldő szolgáltató azonosítója;
 
 3. információ arról, hogy a fizetési megbízás megadása során alkalmazásra került-e a Magyar Nemzeti Bank elnökének a pénzforgalom lebonyolításáról szóló rendeletében meghatározott egységes adatbeviteli megoldás, és ha igen, akkor az egységes adatbeviteli megoldás kibocsátás típusa és a hozzá kapcsolódó azonosítók;
 
@@ -22,7 +22,9 @@
 
 9. a fizetési művelet átvételi időpontja, ideértve a fizetési művelet lebonyolításához használt informatikai rendszerekben generált időbélyegzőket is;
 
-10. a fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatók neve és azonosító kódja;
+9a. a 9. ponttól eltérően a rendszeres átutalás és egyéb terhelési nappal ellátott átutalási megbízás, valamint a fedezethiány miatt sorba állított fizetési megbízás esetén a pénzforgalmi szolgáltatóhoz való beérkezés időpontja, ideértve a fizetési művelet lebonyolításához használt informatikai rendszerekben generált időbélyegzőket is;
+
+10. a fizetési művelet lebonyolításában részt vevő pénzforgalmi szolgáltatók azonosító kódja;
 
 11. a fizető fél és a kedvezményezett neve, valamint a fizetési számláiknak a pénzforgalmi jelzőszáma, illetve a Magyar Nemzeti Bank elnökének a pénzforgalom lebonyolításáról szóló rendeletében meghatározott másodlagos számlaazonosítója;
 
@@ -34,7 +36,7 @@
 
 15. a készpénz-helyettesítő fizetési eszközhöz hozzáférést biztosító többfunkciós eszköz, illetve szoftver pénzforgalmi szolgáltató számára elérhető lokációs adata, valamint hálózati azonosítója;
 
-16. a készpénz-helyettesítő fizetési eszköz futtatási környezetének nyelvi beállításokra vonatkozó paraméterei;
+16. a készpénz-helyettesítő fizetési eszköz futtatási környezetének nyelvi beállításokra vonatkozó, pénzforgalmi szolgáltató számára elérhető paraméterei;
 
 17. azon tény, hogy a készpénz-helyettesítő fizetési eszköz igénybevétele esetén történt-e a 2. § 4a. pontjában meghatározott erős ügyfél-hitelesítés;
 
