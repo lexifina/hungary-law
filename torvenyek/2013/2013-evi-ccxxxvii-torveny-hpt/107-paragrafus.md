@@ -8,7 +8,7 @@ b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértel
 
 c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 
-d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve az ESG-kockázatokat is,
+d) hatékony eljárásokat alkalmaz azon kockázatok azonosítására, kezelésére, felügyeletére és jelentésére, amelyekkel rövid, közép- és hosszú távon szembesül vagy szembesülhet, ideértve a rövid, közép- és hosszú távú ESG-kockázatokat is, valamint a központi felekkel szembeni kitettségekből eredő koncentrációs kockázatokat, figyelembe véve a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 7a. cikkében meghatározott feltételeket,
 
 e) a jogszabályoknak megfelelő belső kontroll mechanizmusokat, adminisztratív és számviteli eljárásokat, továbbá az (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek megfelelően létrehozott és működtetett hálózati és információs rendszereket alkalmaz,
 

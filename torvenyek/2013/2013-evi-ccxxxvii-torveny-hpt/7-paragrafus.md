@@ -36,7 +36,7 @@ n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolód
 
 o) elektronikuspénz-értékesítői tevékenységet,
 
-p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
+p) a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 
 q) az általa vagy a vele szoros kapcsolatban álló vállalkozás által üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást,
 

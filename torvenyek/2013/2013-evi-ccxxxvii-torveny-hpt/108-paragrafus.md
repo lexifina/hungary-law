@@ -83,3 +83,5 @@ j) a hitelintézet a likviditás helyreállítására vonatkozó tervek azonnali
 (10) Az (5) bekezdés h) pontjában foglaltak teljesítésénél a hitelintézet különösen figyelembe veszi az 575/2013/EU rendelet 429. cikke alapján meghatározott tőkeáttételi mutatót, valamint az eszközök és kötelezettségek közötti eltéréseket.
 
 (11) A hitelintézet az 575/2013/EU rendelet alapján tőkekövetelménnyel nem fedezett piaci kockázatokra vonatkozóan is megfelelő szintű belső tőkével rendelkezik.
+
+(12) A Felügyelet figyelemmel kíséri a hitelintézet által az (5) bekezdés b) pontja szerinti központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázatok kezelésére alkalmazott gyakorlatok alakulását, beleértve a 109. § (2a) és (2b) bekezdéssel összhangban kidolgozott terveket, valamint üzleti modelljének a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekhez való hozzáigazítása terén elért eredményeket.

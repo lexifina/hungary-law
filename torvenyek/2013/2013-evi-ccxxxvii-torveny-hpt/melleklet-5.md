@@ -67,17 +67,3 @@ c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001
 d) a rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i európai parlamenti és tanácsi (EU) 2015/849 irányelvnek,
 
 e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
-
-f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
-
-g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
-
-h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
-
-i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
-
-j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek,
-
-k) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
-
-l) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek,

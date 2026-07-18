@@ -30,7 +30,7 @@ b) a Felügyelet abban az esetben is elutasítja az engedély iránti kérelmet,
 
 (4) Az (1)–(2) bekezdésben meghatározott tény vagy körülmény ellenőrzése érdekében a Felügyelet bármelyik érdekelt féltől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 
-(5) Ha a befolyásoló részesedés megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig, illetve a feltételek meglétének ismételt igazolásáig a tag szavazati jogának gyakorlását felfüggeszti.
+(5) Ha a befolyásoló részesedés megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig, illetve a feltételek meglétének ismételt igazolásáig a tag szavazati jogának gyakorlását felfüggeszti és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről.
 
 (6) Ha pénzügyi intézmény tagja szavazati jogát törvény rendelkezése alapján nem gyakorolhatja, szavazati jogát a határozatképesség megállapításánál számításon kívül kell hagyni.
 

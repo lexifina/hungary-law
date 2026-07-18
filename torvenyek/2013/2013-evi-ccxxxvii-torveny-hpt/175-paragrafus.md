@@ -2,7 +2,7 @@
 
 (2) Ha a magyarországi székhelyű hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el.
 
-(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
+(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, befektetési vállalkozás anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
 
 a) a magyarországi székhellyel rendelkező hitelintézet a csoportban az egyetlen hitelintézet,
 

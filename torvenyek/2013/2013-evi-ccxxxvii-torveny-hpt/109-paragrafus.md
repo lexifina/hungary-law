@@ -9,3 +9,5 @@
 (2c) A kis méretű és nem összetett hitelintézet irányítási jogkörrel rendelkező vezető testülete a (2a) és (2b) bekezdésben foglaltakat a Felügyelet döntése alapján – ide értve az alkalmazható mentességről vagy az egyszerűsített eljárásról szóló döntést is – arányosan alkalmazza.
 
 (3) A hitelintézet biztosítja megfelelő informatikai rendszer felállításával és működtetésével, hogy a vezető testület a vezetői információs rendszeren keresztül naprakész információkkal rendelkezzen a hitelintézet kockázatairól, kockázatkezelési politikájáról és azok változásairól.
+
+(4) A vezető testület konkrét terveket és számszerűsíthető célokat dolgoz ki a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekkel összhangban egy vagy több EGT-állam számára rendszerszinten jelentős szolgáltatásokat nyújtó központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat nyomon követésére és kezelésére.
