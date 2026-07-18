@@ -4,9 +4,11 @@ a) az ügyfeleket érintő kockázat jelentős forrásai és hatásai, valamint 
 
 b) a piaci kockázatok jelentős forrásai és hatásai, valamint a szavatoló tőkére esetlegesen gyakorolt jelentős hatásai,
 
-c) a befektetési vállalkozást érintő kockázat jelentős forrásai és hatásai, különösen azok, amelyek a rendelkezésre álló szavatoló tőke jelentős csökkenéséhez vezetnek, valamint
+c) a befektetési vállalkozást érintő kockázat jelentős forrásai és hatásai, különösen azok, amelyek a rendelkezésre álló szavatoló tőke jelentős csökkenéséhez vezetnek,
 
-d) a megfelelő időtávokon belüli – ideértve a napon belüli – likviditási kockázat annak biztosítása céljából, hogy a befektetési vállalkozás megfelelő szintű likviditást tartson fenn, többek között az a)–c) pont szerinti jelentős kockázati források fedezése érdekében.
+d) a megfelelő időtávokon belüli – ideértve a napon belüli – likviditási kockázat annak biztosítása céljából, hogy a befektetési vállalkozás megfelelő szintű likviditást tartson fenn, többek között az a)–c) pont szerinti jelentős kockázati források fedezése érdekében, valamint
+
+e) a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat jelentős forrásai és hatásai, valamint a szavatolótőkére gyakorolt bármely jelentős hatás, azzal, hogy a vezető testület konkrét terveket és számszerűsíthető célokat dolgoz ki a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekkel összhangban az Európai Unió, vagy egy vagy több tagállama számára rendszerszinten jelentős szolgáltatásokat nyújtó központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat nyomon követésére és kezelésére.
 
 (2) A stratégiáknak, eljárásrendeknek és szabályzatoknak arányban kell állniuk a befektetési vállalkozás méretével, tevékenységének jellegével, összetettségével, kockázati profiljával és tevékenységi körével, az irányítási jogkörrel rendelkező vezető testület által meghatározott kockázatvállalási limitjeivel, valamint a befektetési vállalkozás azon EGT-államban megállapítható rendszerszintű jelentőségével, amelyben befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást végez.
 

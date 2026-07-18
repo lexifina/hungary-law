@@ -2,7 +2,7 @@
 
 (2) A minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezése esetén a kérelmezőnek hat hónapon belül kell lebonyolítania az ügyletet.
 
-(3) Ha a minősített befolyás megszerzésére vonatkozó engedélyezési feltétel már nem áll fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy az engedélyezési feltétel teljesítésének igazolásáig a minősített befolyással rendelkező szavazati jogának gyakorlását felfüggeszti.
+(3) Ha a minősített befolyás megszerzésére vonatkozó engedélyezési feltétel már nem áll fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy az engedélyezési feltétel teljesítésének igazolásáig a minősített befolyással rendelkező szavazati jogának gyakorlását felfüggeszti és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről.
 
 (4) A befektetési vállalkozás a tudomásszerzéstől számított két munkanapon belül bejelenti a Felügyeletnek a befektetési vállalkozásban minősített befolyással rendelkező személy azonosító adatait, részesedésének mértékét és annak módosulását.
 

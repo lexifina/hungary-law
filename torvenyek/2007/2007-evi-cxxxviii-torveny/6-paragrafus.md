@@ -18,7 +18,7 @@ h) a hitelkockázat átruházását célzó származtatott ügylet,
 
 i) a különbözetre vonatkozó pénzügyi megállapodás,
 
-j) az éghajlati, időjárási változóhoz, fuvardíjhoz, inflációs rátához vagy más hivatalos gazdasági statisztikához kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás vagy bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy amely az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető,
+j) az éghajlati, időjárási változóhoz, fuvardíjhoz, inflációs rátához vagy más hivatalos gazdasági statisztikához kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás vagy bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy amely az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető, tekintettel többek között arra, hogy valamely szabályozott piacon, OTF-en vagy MTF-en kereskednek vele,
 
 k) egyéb, az a)–j) pontban nem említett eszközhöz, joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, valamint a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 8. cikkében meghatározott származtatott ügylet,
 

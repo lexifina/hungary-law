@@ -26,7 +26,7 @@ g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott 
 
 (6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (3) bekezdés szerinti szakmai felelősségbiztosítással.
 
-(7)
+(7) Az (5) bekezdés a) pontjának alkalmazása során a Felügyelet értékeli és nyomon követi a befektetési vállalkozás által a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat kezelésére alkalmazott gyakorlatok alakulását, beleértve a 101. § (1) bekezdésével összhangban kidolgozott terveket, valamint üzleti modelljeiknek a 648/2012/EU rendelet 7a. cikkében meghatározott követelményekhez való hozzáigazítása terén elért eredményeket.
 
 (8)
 

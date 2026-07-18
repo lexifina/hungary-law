@@ -62,7 +62,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 7. befektetési hitel: pénzügyi eszköz vásárlásához nyújtott hitel, ha a hitelt nyújtó részt vesz az ügylet lebonyolításában,
 
-8. befektetési elemzés: pénzügyi eszközre vagy annak kibocsátójára vonatkozó, a Tpt. szerinti befektetési ajánlás, ide nem értve a befektetési tanácsadást,
+8. befektetési kutatás: pénzügyi eszközre vagy annak kibocsátójára vonatkozó, a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) 3. cikk (1) bekezdés 35. pontja szerinti befektetési ajánlás, ide nem értve a befektetési tanácsadást,
 
 9. befektetési tanácsadás: pénzügyi eszközre vonatkozó ügylethez kapcsolódó, személyre szóló ajánlás nyújtása, ide nem értve a nyilvánosság számára közölt tény, adat, körülmény, tanulmány, riport, elemzés és hirdetés közzétételét, továbbá a befektetési vállalkozás által az ügyfél részére adott, e törvény szerinti előzetes és utólagos tájékoztatást,
 
@@ -156,7 +156,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
 
-34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
+34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer vagy multilaterális kereskedési rendszernek olyan szegmense, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
 
 34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
 

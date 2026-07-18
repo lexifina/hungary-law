@@ -94,9 +94,13 @@ zsg) előírhatja valamely természetes személy elmozdítását a befektetési 
 
 zsh) ideiglenesen vagy – ismételt súlyos jogsértés esetén – tartósan eltilthatja a befektetési vállalkozás vezető testülete bármely tagját vagy bármely természetes személyt, akit felelősnek tartanak, a befektetési vállalkozáson belüli vezetői feladatok ellátásától,
 
-zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől, valamint
+zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől,
 
-zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét.
+zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását és gondoskodik a leadott szavazatok érvénytelenségéről, vagy érvénytelenítésének lehetőségéről, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét,
+
+zsk) a befektetési vállalkozás által elkészített vagy értékesített, kibocsátó által támogatott kutatás uniós magatartási kódexnek meg nem felelése esetén felfüggesztheti a kibocsátó által támogatott kutatások befektetési vállalkozások általi értékesítését, valamint
+
+zsl) figyelmeztetheti a zsk) alpontban foglaltakról a nyilvánosságot.
 
 (1a) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az (EU) 2019/2033 rendelet és e törvény alkalmazása során
 
@@ -115,6 +119,8 @@ f) a jogszabályban előírt adatszolgáltatást kiegészítő vagy annál gyako
 g) kiegészítő nyilvánosságra hozatalt követelhet meg, vagy
 
 h) megkövetelheti, hogy a befektetési vállalkozás csökkentse a hálózati és információs rendszerei biztonságát fenyegető kockázatokat a vállalkozások eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében.
+
+i) előírhatja a befektetési vállalkozás számára, hogy csökkentse a központi szerződő féllel szembeni kitettségeket, vagy igazítsa ki a kitettségeket azokon a számlákon, amelyeken az elszámolások történnek a 648/2012/EU rendelet 7a. cikkével összhangban, amennyiben a Felügyelet úgy ítéli meg, hogy az adott központi szerződő féllel szembeni kitettségekből eredően túlzott koncentrációs kockázat áll fenn.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 

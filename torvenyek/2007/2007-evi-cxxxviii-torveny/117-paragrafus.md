@@ -50,7 +50,7 @@ c) az európai uniós támogatások felhasználásának szabályszerűségét el
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU európai parlamenti és tanácsi rendelet) szerinti bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a 648/2012/EU rendelet szerinti bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 

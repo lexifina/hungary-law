@@ -24,11 +24,11 @@ b) a felelősségi köröket, feladatokat egymástól elhatárolja és egyértel
 
 c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 
-d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
+d) a felmerülő olyan kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz, amelyeknek a befektetési vállalkozások ki vannak vagy ki lehetnek téve, vagy amelyek másokra nézve jelentenek vagy jelenthetnek kockázatot, beleértve a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázatot is, figyelembe véve a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 7a. cikkében meghatározott feltételeket,
 
 e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
 
-f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
+f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges, az ügyfeleknek való szolgáltatásnyújtásban részt vevő személyekre vonatkozó javadalmazási politikát és gyakorlatot valósít meg,
 
 g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 

@@ -38,7 +38,7 @@ d) a tőkeszerkezettel, üzleti stratégiával és az ezekkel összefüggő kér
 
 e) a befektetési szolgáltatási tevékenységhez kapcsolódó valutával és devizával történő kereskedés,
 
-f) a befektetési elemzés és pénzügyi elemzés,
+f) a befektetési kutatás és pénzügyi elemzés,
 
 g) jegyzési garanciavállaláshoz kapcsolódó szolgáltatás,
 

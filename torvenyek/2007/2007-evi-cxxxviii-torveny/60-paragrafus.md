@@ -22,9 +22,9 @@ d) az ÁÉKBV által kibocsátott kollektív befektetési értékpapír visszav�
 
 (3) A (2) bekezdés b) pontja alkalmazásában a pénzpiaci eszköz akkor tekinthető magas minősítésűnek, ha az ÁÉKBV-alapkezelő a pénzpiaci eszköz hitelminőségét illetően olyan dokumentált, saját értékelést végez, amelyre alapozva az adott pénzpiaci eszközt magas minőségűnek minősíti. Amennyiben az Európai Értékpapír-piaci Hatóság által nyilvántartásba vett és felügyelt, egy vagy több hitelminősítő intézet minősítette a pénzpiaci eszközt, az ÁÉKBV-alapkezelő saját belső értékelésének figyelemmel kell lennie többek között az ilyen hitelminősítésekre is.
 
-(4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
+(4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki figyelemmel a pénzeszközök esetleges diverzifikációjára és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
 
-(5) A befektetési vállalkozás a (4) bekezdésben meghatározottak szerint az ügyfél pénzeszközének kezelésére azzal az intézménnyel köt megállapodást, amely
+(5) A befektetési vállalkozás a (4) bekezdésben meghatározottak szerint az ügyfél pénzeszközének kezelésére azzal az intézménnyel köt megállapodást – figyelembe véve az ügyfél pénzeszközeinek tartásához kapcsolódó, az ügyfél jogait esetleg hátrányosan befolyásoló piaci gyakorlatokat is – amely
 
 a) szakértelemmel és jó hírnévvel rendelkezik, és
 

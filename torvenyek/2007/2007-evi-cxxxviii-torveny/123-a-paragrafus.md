@@ -12,7 +12,7 @@ e) az eredményt terhelő adókat, valamint
 
 f) a kapott állami támogatást.
 
-(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves pénzügyi beszámolójához.
+(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves beszámolójához.
 
 (3) A Felügyelet megkövetelheti, hogy a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozás, valamint a kiegészítő alapvető tőkeinstrumentumokat kibocsátó, kis méretű és össze nem kapcsolt befektetési vállalkozásnak minősülő befektetési vállalkozás legalább évente kétszer hozza nyilvánosságra honlapján az (EU) 2019/2033 rendelet 46. cikke szerinti információkat a Felügyelet által meghatározott a nyilvánosságra hozatali határidőn belül.
 

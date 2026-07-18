@@ -38,6 +38,10 @@ q) pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításár
 
 r) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló, 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelv.
 
+t) a 2014/65/EU irányelvnek az uniós nyilvános tőkepiacok vállalkozások számára vonzóbbá tétele, továbbá a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról és a 2001/34/EK irányelv hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2811 európai parlamenti és tanácsi irányelv.
+
+u) a 2009/65/EK, a 2013/36/EU és az (EU) 2019/2034 irányelvnek a központi szerződő felekkel szembeni kitettségekből eredő koncentrációs kockázat és a központilag elszámolt származtatott ügyletekkel kapcsolatos partnerkockázat kezelése tekintetében történő módosításáról szóló, 2024. november 27-i (EU) 2024/2994 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény
 
 a) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet

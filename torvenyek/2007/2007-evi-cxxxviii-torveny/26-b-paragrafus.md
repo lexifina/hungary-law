@@ -10,7 +10,7 @@ b) megfelelő kereskedési küszöbértékek és limitek hatálya alá tartozzan
 
 c) a hibás megbízások kiküldését vagy a rendszerek egyéb, potenciálisan rendellenes piaci helyzetet eredményező vagy ilyen helyzet kialakulását elősegítő működését megakadályozzák,
 
-d) ne legyenek felhasználhatók olyan célra, amely ellentétes a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelettel (a továbbiakban: 596/2014/EU rendelet) vagy annak a kereskedési helyszínnek a szabályaival, amelyhez kapcsolódnak.
+d) ne legyenek felhasználhatók olyan célra, amely ellentétes az 596/2014/EU rendelet vagy annak a kereskedési helyszínnek a szabályaival, amelyhez kapcsolódnak.
 
 (2) Az algoritmikus kereskedést folytató befektetési vállalkozás
 
