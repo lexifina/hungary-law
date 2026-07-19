@@ -1,0 +1,1 @@
+9/C. § Amennyiben a pénzügyi közvetítő vagy alapkezelő kiválasztása során az MFB Zrt. közbeszerzési eljárást nem köteles lefolytatni, a pénzügyi közvetítőt vagy az alapkezelőt az MFB Zrt. nyílt, nyilvános, az esélyegyenlőséget és az egyenlő bánásmódot biztosító kiválasztási folyamat során választja ki.

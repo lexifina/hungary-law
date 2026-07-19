@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A felügyelőbizottság elnökét és tagjait a miniszter választja meg és hívja vissza.
+(3) A felügyelőbizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A felügyelőbizottság tagjai egy alkalommal újra kinevezhetőek.
 
 (4)

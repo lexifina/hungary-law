@@ -1,0 +1,1 @@
+9/D. § Az MFB Zrt. minden év június 15. napjáig könyvvizsgálót bíz meg a szervezeti integritását, az összeférhetetlenség feltárását, a kettős finanszírozás megelőzését, a jogszabályi megfelelést biztosító folyamatszabályozást, valamint a pénzügyi közvetítők és alapkezelők díjazásának átláthatóságát biztosító folyamatainak vizsgálatával.

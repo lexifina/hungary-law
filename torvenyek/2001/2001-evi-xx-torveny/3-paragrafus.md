@@ -36,7 +36,7 @@ a) támogatott pályázatok kezelését;
 
 b) döntés-előkészítést;
 
-c) pénzügyi lebonyolítást;
+c) pénzügyi lebonyolítást, ideértve a forrás kiutalása keretében a devizanemek közötti átváltást is;
 
 d) monitoring végzését;
 

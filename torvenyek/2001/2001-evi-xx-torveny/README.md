@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2025-05-01 | 2025. évi IX. törvény | 2001-20-00-00.72 |
 | 2025-05-02 | 2025. évi IX. törvény | 2001-20-00-00.73 |
 | 2025-12-24 | 2025. évi CXXXIV. törvény | 2001-20-00-00.74 |
+| 2026-07-19 | 2026. évi XXIX. törvény | 2001-20-00-00.75 |

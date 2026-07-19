@@ -10,23 +10,15 @@ c) pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcs
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1b) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amelyek
-
-a) a befektetési jegy formájában részesedéssel rendelkező tulajdonosaikra, befektetési alap által kibocsátott befektetési jegy közvetett vagy közvetlen tulajdonosaira, befektetési alapot kezelő alapkezelőre, ezek keresztkapcsolataira, a bennük részesedéssel rendelkező befektetési alapra, a tulajdonukban lévő befektetési jegyekre, vagy
-
-b) a befektetési alap befektetési jegyeinek lejegyzése vagy megvásárlása céljából az MFB Zrt. által nyújtott kölcsönre, továbbá a befektetési alap befektetési jegyeinek lejegyzéséhez vagy megvásárlásához nyújtott kölcsön biztosítékaként az MFB Zrt. által nyújtott garanciára vagy készfizető kezességvállalásra, vagy
-
-c) a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre
-
-tekintettel képeznének egyetlen kockázati tényezőt.
+(1b)
 
 (1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
 
 (1d) Az 575/2013/EU rendelet 390. cikk (2) bekezdésében foglaltaktól eltérően az MFB Zrt.-nek az egyedi ügyfelekkel szembeni teljes kitettség kiszámítása során a kollektív befektetési formák befektetési jegyeinek formájában fennálló kitettségeket nem kell figyelembe vennie.
 
-(2) Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+(2) Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
 
-(2a)
+(2a) Az MFB Zrt. a Hpt. 110. §-a szerinti kockázatvállalási-kockázatkezelési bizottságot állít fel.
 
 (3) Az MFB Zrt.
 
