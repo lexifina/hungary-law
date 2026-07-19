@@ -100,7 +100,7 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.
 
-(2q) Felhatalmazást kap a Kormány, hogy a 26/D. § (6) bekezdése szerinti megtérítés részletszabályait, valamint az elszámoló szervezetre vonatkozó feltételeket rendeletben határozza meg.
+(2q)
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 

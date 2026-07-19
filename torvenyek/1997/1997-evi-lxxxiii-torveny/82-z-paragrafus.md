@@ -1,11 +1,1 @@
-82/Z. § (1) A 26/D. § (1) bekezdése szerinti Batthyány-Strattmann László Alapítvány A Gyógyításért a 26/D. § (3) bekezdése alapján a Batthyány-Strattmann László Alapítvány A Gyógyításért bírósági bejegyzését követő 31. naptól (a továbbiakban: Kezdőnap) benyújtott kérelmek alapján jár el.
-
-(2) A 26/D. § (3), (5), (6) és (9) bekezdésében foglaltakat a Kezdőnaptól kell alkalmazni.
-
-(3) A Kezdőnapot megelőző napon a 26. § (1) bekezdés c) pontja alapján a kezdőnapon folyamatban levő ügyekben az egészségbiztosító jár el.
-
-(4) A (3) bekezdés alkalmazásában folyamatban levő ügynek kell tekinteni a kérelmet,
-
-a) ha a forgalomba hozatali engedély jogosultja kérelmére a kérelem tárgyát képező gyógyszerről az egészségbiztosító befogadó döntést hozott,
-
-b) ha a kérelmező olyan gyógyszer vonatkozásában nyújt be hosszabbítási kérelmet, amellyel kapcsolatban az egészségbiztosító korábban már engedélyező döntést hozott.
+82/Z. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosításáról szóló 2026. évi XXXI. törvény (a továbbiakban: Módtv2.) hatálybalépésének napját megelőző napon hatályos 26/D. § (3) bekezdése szerinti, 2026. június 1. napját követően beérkezett és el nem bírált kérelmeket a Batthyány-Strattmann László Alapítvány A Gyógyításért a Módtv2. hatálybalépését követő három napon belül átteszi az egészségbiztosítóhoz, ezen kérelmek tekintetében az egészségbiztosító ügyintézési határidejének kezdő napja a Batthyány-Strattmann László Alapítvány A Gyógyításért által a folyamatban lévő kérelmek átadásának a napja.
