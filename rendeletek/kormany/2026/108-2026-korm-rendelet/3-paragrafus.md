@@ -1,3 +1,3 @@
-3. § Az R. 4. §-a a következő (9) bekezdéssel egészül ki:
+3. §[^5]
 
-„(9) Krokidolit, amozit, antofillit, aktinolit, krizotil vagy tremolit azbeszt ásványi kőzeteket tartalmazó anyagok és termékek építménybe történő betervezése és beépítése tilos.”
+[^5]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

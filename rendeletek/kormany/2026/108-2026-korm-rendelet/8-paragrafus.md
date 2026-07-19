@@ -1,3 +1,3 @@
-8. §[^7]
+8. §[^10]
 
-[^7]: A 8. § a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^10]: A 8. § a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.

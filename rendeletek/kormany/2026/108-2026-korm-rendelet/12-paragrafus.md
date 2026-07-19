@@ -1,3 +1,3 @@
-12. §[^11]
+12. §[^14]
 
-[^11]: A 12. § a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^14]: A 12. § a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.

@@ -1,14 +1,9 @@
-2. § (1) Az R. 3. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+2. § (1)[^2]
 
-(Az építési termék elvárt műszaki teljesítménynek való megfelelését)
+(2)[^3]
 
-## „c) tűzvédelmi célú építési termék esetén a Budapest Főváros Kormányhivatalának (a továbbiakban: BFKH) vizsgálati eredményeken alapuló engedélye”
+(3)[^4]
 
-## (igazolja.)
-
-(2)[^2]
-
-(3)[^3]
-
-[^2]: A 2. § (2) bekezdése a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^3]: A 2. § (3) bekezdése a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^2]: A 2. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § (2) bekezdése a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^4]: A 2. § (3) bekezdése a 13. § (2) bekezdése alapján 2027. január 1-jén lép hatályba.
