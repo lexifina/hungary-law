@@ -1,5 +1,3 @@
-## „b) a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet (a továbbiakban: Ktfr.) 130. § (1) bekezdése szerinti tagja tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos költségvetési bevételek és költségvetési kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve – a kötelezettségvállalás és a teljesítésigazolás kivételével – a Ktfr. 131. § (2) bekezdése alapján az MNV Zrt.,”
+2. §[^3]
 
-2. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet a következő 188. §-sal egészül ki:
-
-„188. § A 172/A. § (1) bekezdése szerinti, 2026. június, szeptember, október és november havi adatszolgáltatások tekintetében a Kormány irányítása alá tartozó fejezetet irányító szervet a 172/A. § (3) bekezdése szerinti befizetési kötelezettség nem terheli. A Kincstár ezen adatszolgáltatások tekintetében kiszámítja és közli a Kormány irányítása alá tartozó fejezetet irányító szervekkel az előre jelzett és a tényleges fejezeti pénzforgalmi kiadások közötti eltérést és a 172/A. § (3) bekezdése szerint kiszámított szankció összegét, de befizetési kötelezettséget nem állapíthat meg. A 2026. november havi adatszolgáltatás alapul szolgál a 2027. március havi befizetési kötelezettség megállapításához.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

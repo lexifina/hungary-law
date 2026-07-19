@@ -1,1 +1,3 @@
-7. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 6. § (1) bekezdés c) pontjában az „– a honvédelemért felelős miniszter által vezetett minisztérium fejezeti kezelésű előirányzatai esetében címenként –” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
