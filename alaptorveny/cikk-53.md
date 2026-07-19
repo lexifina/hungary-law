@@ -1,6 +1,6 @@
 53. cikk
 
-(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel sarkalatos törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint
 
 a) hadiállapotban és szükségállapotban az Országgyűlés külön felhatalmazása nélkül,
 

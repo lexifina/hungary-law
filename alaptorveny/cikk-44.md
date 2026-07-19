@@ -4,7 +4,7 @@
 
 (2) A Költségvetési Tanács törvényben meghatározott módon közreműködik a központi költségvetésről szóló törvény előkészítésében.
 
-(3) A központi költségvetésről szóló törvény elfogadásához a 36. cikk (4) és (5) bekezdésében foglaltak betartása érdekében a Költségvetési Tanács előzetes hozzájárulása szükséges.
+(3)
 
 (4) A Költségvetési Tanács tagja a Költségvetési Tanács elnöke, a Magyar Nemzeti Bank elnöke és az Állami Számvevőszék elnöke. A Költségvetési Tanács elnökét a köztársasági elnök nevezi ki hat évre.
 

@@ -6,4 +6,4 @@
 
 (3) Az Állami Számvevőszék elnöke az Állami Számvevőszék tevékenységéről évente beszámol az Országgyűlésnek.
 
-(4) Az Állami Számvevőszék szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.
+(4) Az Állami Számvevőszék szervezetének és működésének részletes szabályait törvény határozza meg.

@@ -14,7 +14,7 @@ c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott
 
 d) alkotmányjogi panasz alapján felülvizsgálja a bírói döntésnek az Alaptörvénnyel való összhangját;
 
-e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
+e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
 
 f) vizsgálja a jogszabályok nemzetközi szerződésbe ütközését;
 
@@ -36,7 +36,7 @@ illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 
 a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,
 
-b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa
+b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke vagy az alapvető jogok biztosa
 
 kezdeményezheti.
 
@@ -48,6 +48,6 @@ b) az (5) bekezdés b) pontja szerinti esetben az Alkotmánybíróság megsemmis
 
 (7) Az Alkotmánybíróság sarkalatos törvényben meghatározottak szerint a jogszabály megalkotóját, a törvény kezdeményezőjét vagy képviselőjüket meghallgatja, illetve véleményüket eljárása során beszerzi, ha az ügy a személyek széles körét érinti. Az eljárás ezen szakasza nyilvános.
 
-(8) Az Alkotmánybíróság tizenöt tagból álló testület, amelynek tagjait az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával tizenkét évre választja. Az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával az Alkotmánybíróság tagjai közül elnököt választ, az elnök megbízatása az alkotmánybírói hivatali ideje lejártáig tart. Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
+(8) Az Alkotmánybíróság tizenöt tagból álló testület, amelynek tagjait az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával kilenc évre választja. Az Alkotmánybíróság tagját e tisztségre nem lehet újraválasztani. Az Alkotmánybíróság a tagjai közül három évre megválasztja az Alkotmánybíróság elnökét, aki e tisztségre újraválasztható. Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet. Az Alkotmánybíróság tagjának megbízatása a hetvenedik életévének betöltésével megszűnik.
 
 (9) Az Alkotmánybíróság hatáskörének, szervezetének, működésének részletes szabályait sarkalatos törvény határozza meg.

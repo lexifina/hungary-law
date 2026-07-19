@@ -12,8 +12,24 @@
 
 (5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
-(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.
+(6) Az Országos Bírósági Hivatal elnökét a bírák közül hat évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnöke nem választható újra. A köztársasági elnök a bírák által – sarkalatos törvényben meghatározott módon – jelölt legfeljebb három személy egyikét javasolja az Országos Bírósági Hivatal elnökének. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.
 
-(7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.
+(7) Az Országos Bírósági Hivatal elnökének megbízatása – sarkalatos törvényben meghatározott módon – megszűnik
 
-(8) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.
+a) a megbízatási időtartam leteltével,
+
+b) a bírói szolgálati viszonya megszűnésével,
+
+c) lemondással,
+
+d) az összeférhetetlenség kimondásával,
+
+e) felmentéssel,
+
+f) a tisztségtől való megfosztással,
+
+g) bírói kezdeményezésre, visszahívással.
+
+(8) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.
+
+(9) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.

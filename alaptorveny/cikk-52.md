@@ -10,4 +10,4 @@
 
 (4) Különleges jogrend idején az Alkotmánybíróság működése nem korlátozható. A Kormány különleges jogrendben köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
 
-(5) A különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+(5) A különleges jogrendben alkalmazandó részletes szabályokat törvény határozza meg.

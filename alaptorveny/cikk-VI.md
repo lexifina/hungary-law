@@ -6,4 +6,4 @@ VI. cikk
 
 (3) Mindenkinek joga van személyes adatai védelméhez, valamint a közérdekű adatok megismeréséhez és terjesztéséhez.
 
-(4) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését sarkalatos törvénnyel létrehozott, független hatóság ellenőrzi.
+(4) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését törvénnyel létrehozott, független hatóság ellenőrzi.

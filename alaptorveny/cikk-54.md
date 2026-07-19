@@ -2,7 +2,7 @@
 
 54. cikk
 
-(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
 
 (2) A Kormány az (1) bekezdés szerinti rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 
@@ -16,4 +16,4 @@
 
 (7) Hadiállapot vagy szükségállapot Kormány általi kezdeményezését követően az Alkotmánybíróság működése nem korlátozható. A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
 
-(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat törvény határozza meg.

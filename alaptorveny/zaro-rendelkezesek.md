@@ -208,6 +208,30 @@ Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) be
 
 Az Alaptörvény tizenhatodik módosításának hatálybalépésekor működő közfeladatot ellátó közérdekű vagyonkezelő alapítvány (a továbbiakban: alapítvány) részére az állam által alapítóként, csatlakozóként vagy más jogcímen juttatott vagyon, illetve e vagyon hozama, valamint a mindezek helyébe lépett vagyon az alapítvány megszűnésekor ingyenesen az államra, mint általános jogutódra száll, továbbá megszűnik az állami tulajdonban álló vagyontárgy tekintetében a vagyonkezelői jog, illetve a közfeladathoz rendelt vagyonkezelői jog. Az alapítvány alapítói jogait az állam gyakorolja. Az alapítói jogok gyakorlója az alapítványt megszüntetheti. Az alapítvány működésének, megszüntetésének, közfeladatai és egyéb feladatai ellátásának szabályait törvény határozza meg.
 
+34.
+
+Az Alaptörvény tizenhetedik módosításának hatálybalépését követő napon a hivatalban lévő köztársasági elnök megbízatása megszűnik. A hivatalban levő köztársasági elnök megbízatásának megszűnését követően az Országgyűlés az új Alkotmány hatálybalépéséig, de legfeljebb öt évig tartó időtartamra köztársasági elnököt választ a 11. cikk rendelkezései szerint.
+
+35.
+
+Az Alaptörvény tizenhetedik módosításával megállapított 24. cikk (8) bekezdését – a 36. pontban foglalt kivétellel – első alkalommal az Alkotmánybíróságnak az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott tagjai tekintetében kell alkalmazni.
+
+36.
+
+Ha az Alkotmánybíróság tagja az Alaptörvény tizenhetedik módosítása hatálybalépésének napján már betöltötte a hetvenedik életévét, megbízatása az Alaptörvény tizenhetedik módosításának hatálybalépését követő második hónap első napján megszűnik. Ha az Alkotmánybíróság – az Alaptörvény tizenhetedik módosítása hatálybalépésekor – hivatalban lévő tagja az Alaptörvény tizenhetedik módosítása hatálybalépését követően tölti be hetvenedik életévét, megbízatása a hetvenedik életévének betöltésének napján szűnik meg.
+
+37.
+
+Az Alaptörvény tizenhetedik módosításával megállapított 25. cikk (6) bekezdését első alkalommal az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott Országos Bírósági Hivatal elnöke tekintetében kell alkalmazni.
+
+38.
+
+Az Alaptörvény tizenhetedik módosításával megállapított 26. cikk (3) bekezdését első alkalommal az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott Kúria elnöke tekintetében kell alkalmazni.
+
+39.
+
+Az Alaptörvény tizenhetedik módosításával megállapított XXIII. cikk (2) bekezdése nem érinti az Alaptörvény tizenhetedik módosításának hatálybalépésekor országgyűlési képviselői megbízatással rendelkező országgyűlési képviselők – az Alaptörvény tizenhetedik módosításának hatálybalépésekor fennálló – országgyűlési képviselői megbízatását.
+
 ## *
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.

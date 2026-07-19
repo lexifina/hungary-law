@@ -6,7 +6,7 @@ I) cikk
 
 (3) Magyarország himnusza Kölcsey Ferenc Himnusz című költeménye Erkel Ferenc zenéjével.
 
-(4) A címer és a zászló a történelmileg kialakult más formák szerint is használható. A címer és a zászló használatának részletes szabályait, valamint az állami kitüntetéseket sarkalatos törvény határozza meg.
+(4) A címer és a zászló a történelmileg kialakult más formák szerint is használható. A címer és a zászló használatának részletes szabályait, valamint az állami kitüntetéseket törvény határozza meg.
 
 ## SZABADSÁG ÉS FELELŐSSÉG
 
