@@ -1,57 +1,57 @@
-38. §[^559] (1)[^560] A foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához kiállítja a Központ által erre a célra rendszeresített, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti személyre szabott ügyintézési felületen közzétett elektronikus űrlapot, ha
+38. §[^561] (1)[^562] A foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához kiállítja a Központ által erre a célra rendszeresített, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti személyre szabott ügyintézési felületen közzétett elektronikus űrlapot, ha
 
 a) a foglalkoztatónál kifizetőhely nem működik, vagy
 
 b) ha a kérelem benyújtásakor vagy a kérelem elbírálásakor a biztosítottnak a kifizetőhellyel rendelkező foglalkoztatónál fennálló biztosítási jogviszonya megszűnt, ide nem értve a táppénznek és a baleseti táppénznek a biztosítási jogviszony megszűnéséig történő folyósítását, ha ezen ellátásokra való jogosultság elbírálása – naptári napi alap megállapítása – már korábban, a biztosítási jogviszony fennállása alatt megtörtént.
 
-(1a)[^561] A foglalkoztató a kitöltött (1) bekezdés szerinti elektronikus űrlapot a biztosított által benyújtott igazolásokkal, továbbá a táppénz és a baleseti táppénz kivételével a Központ által a kérelem benyújtására a Személyre Szabott Ügyintézési Felületen közzétett – a biztosított által kitöltött és aláírt – nyomtatvánnyal együtt a nyomtatvány foglalkoztatóhoz történő beérkezését követő 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően megküldi a székhelye szerint illetékes kormányhivatalnak. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+(1a)[^563] A foglalkoztató a kitöltött (1) bekezdés szerinti elektronikus űrlapot a biztosított által benyújtott igazolásokkal, továbbá a táppénz és a baleseti táppénz kivételével a Központ által a kérelem benyújtására a Személyre Szabott Ügyintézési Felületen közzétett – a biztosított által kitöltött és aláírt – nyomtatvánnyal együtt a nyomtatvány foglalkoztatóhoz történő beérkezését követő 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően megküldi a székhelye szerint illetékes kormányhivatalnak. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
 
-(1b)[^562] Ha a foglalkoztatónál kifizetőhely működik, és a kérelem benyújtásakor a biztosítottnak az adott foglalkoztatónál fennálló biztosítási jogviszonya van, a (2) bekezdéstől eltérően az (1) és (1a) bekezdésben foglaltakat kell alkalmazni az Ebtv. 63. §-ában foglaltak tekintetében, ha a biztosított
+(1b)[^564] Ha a foglalkoztatónál kifizetőhely működik, és a kérelem benyújtásakor a biztosítottnak az adott foglalkoztatónál fennálló biztosítási jogviszonya van, a (2) bekezdéstől eltérően az (1) és (1a) bekezdésben foglaltakat kell alkalmazni az Ebtv. 63. §-ában foglaltak tekintetében, ha a biztosított
 
 a) egyidejűleg fennálló több biztosítási jogviszonnyal rendelkezik, és a kifizetőhelyet működtető foglalkoztatónál fennálló biztosítási jogviszonyára tekintettel gyermekgondozási díjat, örökbefogadói díjat igényel, vagy
 
 b) az Ebtv. 42/G. § (1) bekezdése szerinti gyermekgondozási díj iránti kérelmet nyújt be.
 
-(2)[^563] A kifizetőhellyel rendelkező foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához – az (1) bekezdés b) pontjában és az (1b) bekezdésben foglaltak kivételével – a biztosított által benyújtott igazolásokat 5 napon belül a kifizetőhely részére megküldi. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+(2)[^565] A kifizetőhellyel rendelkező foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához – az (1) bekezdés b) pontjában és az (1b) bekezdésben foglaltak kivételével – a biztosított által benyújtott igazolásokat 5 napon belül a kifizetőhely részére megküldi. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
 
-(3)[^564] Az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti biztosított az (1) bekezdés megfelelő alkalmazásával nyújthatja be a pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmét.
+(3)[^566] Az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti biztosított az (1) bekezdés megfelelő alkalmazásával nyújthatja be a pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmét.
 
-(4)[^565] Ha a kifizetőhelynek az egészségbiztosítási pénzbeli ellátás vagy a baleseti táppénz iránti kérelem elbírálása során, a tényállás tisztázása keretében korábban más kifizetőhely vagy az egészségbiztosító által folyósított egészségbiztosítási pénzbeli ellátásra vagy baleseti táppénzre vonatkozó adatokat kell beszereznie, és az Ebtv. 79/C. §-a alapján üzemeltetett elektronikus felületre történő bekérdezés eredménye sem elegendő a kérelem elbírálásához, akkor a kifizetőhely a székhelye szerinti kormányhivatalhoz fordul megkereséssel a hiányzó adatokért. A kormányhivatal a kifizetőhely megkeresésére az Ebtv. 79/B. § (2) bekezdés 11. pontja szerinti adatszolgáltatást teljesít.
+(4)[^567] Ha a kifizetőhelynek az egészségbiztosítási pénzbeli ellátás vagy a baleseti táppénz iránti kérelem elbírálása során, a tényállás tisztázása keretében korábban más kifizetőhely vagy az egészségbiztosító által folyósított egészségbiztosítási pénzbeli ellátásra vagy baleseti táppénzre vonatkozó adatokat kell beszereznie, és az Ebtv. 79/C. §-a alapján üzemeltetett elektronikus felületre történő bekérdezés eredménye sem elegendő a kérelem elbírálásához, akkor a kifizetőhely a székhelye szerinti kormányhivatalhoz fordul megkereséssel a hiányzó adatokért. A kormányhivatal a kifizetőhely megkeresésére az Ebtv. 79/B. § (2) bekezdés 11. pontja szerinti adatszolgáltatást teljesít.
 
-(5)[^566] A jogosult halála esetén a fel nem vett ellátás felvételét az Ebtv. 61. § (10) bekezdésében meghatározott személy kérheti. Ezen személyek pénzbeli ellátások, baleseti táppénz, valamint utazási költségtérítési támogatás iránti igényét úgy kell tekinteni, mintha azt az elhunyt maga nyújtotta volna be. A kérelmet a Központ által erre a célra rendszeresített és a hivatalos honlapján közzétett formanyomtatványon lehet benyújtani. A formanyomtatványon fel kell tüntetni az elhunyt személy nevét, társadalombiztosítási azonosító jelét, a halál időpontját, az igénylőnek az elhunyt személlyel fennállt rokonsági, hozzátartozói fokát, valamint az igénylő személy nevét, társadalombiztosítási azonosító jelét, születési helyét, idejét, anyja nevét, lakóhelyét és aláírását.
+(5)[^568] A jogosult halála esetén a fel nem vett ellátás felvételét az Ebtv. 61. § (10) bekezdésében meghatározott személy kérheti. Ezen személyek pénzbeli ellátások, baleseti táppénz, valamint utazási költségtérítési támogatás iránti igényét úgy kell tekinteni, mintha azt az elhunyt maga nyújtotta volna be. A kérelmet a Központ által erre a célra rendszeresített és a hivatalos honlapján közzétett formanyomtatványon lehet benyújtani. A formanyomtatványon fel kell tüntetni az elhunyt személy nevét, társadalombiztosítási azonosító jelét, a halál időpontját, az igénylőnek az elhunyt személlyel fennállt rokonsági, hozzátartozói fokát, valamint az igénylő személy nevét, társadalombiztosítási azonosító jelét, születési helyét, idejét, anyja nevét, lakóhelyét és aláírását.
 
-(6)[^567]
+(6)[^569]
 
-(7)[^568]
+(7)[^570]
 
-(8)[^569]
+(8)[^571]
 
-(9)[^570]
+(9)[^572]
 
-(10)[^571]
+(10)[^573]
 
-(11)[^572]
+(11)[^574]
 
-(12)[^573] Az Ebtv. 42/E. §-a alapján igényelt gyermekgondozási díj esetén a kérelemhez csatolni kell az Ebtv. 42/E. § (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszonyról a felsőoktatási intézmény által kiadott igazolást, valamint ha az igénylő valamely EGT tagállam állampolgára, akkor a magyarországi lakcíméről kiadott hatósági igazolvány másolatát is.
+(12)[^575] Az Ebtv. 42/E. §-a alapján igényelt gyermekgondozási díj esetén a kérelemhez csatolni kell az Ebtv. 42/E. § (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszonyról a felsőoktatási intézmény által kiadott igazolást, valamint ha az igénylő valamely EGT tagállam állampolgára, akkor a magyarországi lakcíméről kiadott hatósági igazolvány másolatát is.
 
-(13)[^574] Az Ebtv. 42/E. §-a szerinti gyermekgondozási díj iránti kérelem esetén az (1)–(3) bekezdésben foglaltakat akkor kell alkalmazni, ha a kérelmező a gyermek születése napján biztosított.
+(13)[^576] Az Ebtv. 42/E. §-a szerinti gyermekgondozási díj iránti kérelem esetén az (1)–(3) bekezdésben foglaltakat akkor kell alkalmazni, ha a kérelmező a gyermek születése napján biztosított.
 
-(14)[^575]
+(14)[^577]
 
-[^559]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^560]: A Vhr. 38. § (1) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^561]: A Vhr. 38. § (1a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^562]: A Vhr. 38. § (1b) bekezdését a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^563]: A Vhr. 38. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^564]: A Vhr. 38. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^565]: A Vhr. 38. § (4) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte, újonnan az 571/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^566]: A Vhr. 38. § (5) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja, a 807/2021. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^567]: A Vhr. 38. § (6) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
-[^568]: A Vhr. 38. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
-[^569]: A Vhr. 38. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
-[^570]: A Vhr. 38. § (9) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^571]: A Vhr. 38. § ((10) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
-[^572]: A Vhr. 38. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
-[^573]: A Vhr. 38. § (12) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 310/2019. (XII. 18.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^574]: A Vhr. 38. § (13) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^575]: A Vhr. 38. § (14) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^561]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^562]: A Vhr. 38. § (1) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^563]: A Vhr. 38. § (1a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^564]: A Vhr. 38. § (1b) bekezdését a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^565]: A Vhr. 38. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^566]: A Vhr. 38. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^567]: A Vhr. 38. § (4) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte, újonnan az 571/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^568]: A Vhr. 38. § (5) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja, a 807/2021. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^569]: A Vhr. 38. § (6) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^570]: A Vhr. 38. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^571]: A Vhr. 38. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^572]: A Vhr. 38. § (9) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^573]: A Vhr. 38. § ((10) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^574]: A Vhr. 38. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
+[^575]: A Vhr. 38. § (12) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 310/2019. (XII. 18.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^576]: A Vhr. 38. § (13) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^577]: A Vhr. 38. § (14) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

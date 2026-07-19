@@ -1,15 +1,15 @@
-33. § (1)[^545] A baleseti táppénzre jogosultság időtartamának megállapításánál figyelembe kell venni a baleseti táppénzre jogosultság első napját közvetlenül megelőző egy éven belül a baleseti táppénz folyósításának időtartamát, függetlenül attól, hogy a baleseti táppénz folyósítása egy éven át vagy meghosszabbított időtartamra történt.
+33. § (1)[^547] A baleseti táppénzre jogosultság időtartamának megállapításánál figyelembe kell venni a baleseti táppénzre jogosultság első napját közvetlenül megelőző egy éven belül a baleseti táppénz folyósításának időtartamát, függetlenül attól, hogy a baleseti táppénz folyósítása egy éven át vagy meghosszabbított időtartamra történt.
 
-(2)[^546]
+(2)[^548]
 
-(3)[^547]
+(3)[^549]
 
-(4)[^548]
+(4)[^550]
 
-(5)[^549]
+(5)[^551]
 
-[^545]: A Vhr. 33. §-a eredeti szövegének jelölését (1) bekezdésre változtatta a 228/2001. (XI. 30.) Korm. rendelet 5. §-a.
-[^546]: A Vhr. 33. §-ának (2) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A Vhr. 33. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^547]: A Vhr. 33. § (3) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 19. § c) pontja.
-[^548]: A Vhr. 33. § (4) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.
-[^549]: A Vhr. 33. § (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.
+[^547]: A Vhr. 33. §-a eredeti szövegének jelölését (1) bekezdésre változtatta a 228/2001. (XI. 30.) Korm. rendelet 5. §-a.
+[^548]: A Vhr. 33. §-ának (2) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A Vhr. 33. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^549]: A Vhr. 33. § (3) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 19. § c) pontja.
+[^550]: A Vhr. 33. § (4) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.
+[^551]: A Vhr. 33. § (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.

@@ -2,6 +2,6 @@
 
 ## (Az Ebtv. 61–65. §-ához)
 
-37. §[^557]
+37. §[^559]
 
-[^557]: A Vhr. 37. §-át a 351/2025. (XI. 12.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^559]: A Vhr. 37. §-át a 351/2025. (XI. 12.) Korm. rendelet 7. §-a hatályon kívül helyezte.
