@@ -1,3 +1,3 @@
-2. § Az R. 9. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^3]
 
-„(4) A 8. § (2) bekezdés a) pontja szerinti áthelyezéssel történő szolgálati viszony létesítésekor a miniszter az alapkiképzés teljesítése alól felmentést adhat.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
