@@ -172,7 +172,7 @@ Cseh Tamás (TISZA)
 
 Diószegi Judit (TISZA)
 
-Halmai Ferenc (TISZA)
+László Endre Márton (TISZA)[^4]
 
 Weigand István (TISZA)
 
@@ -200,7 +200,7 @@ Dr. Miskolczi Orsolya (TISZA)
 
 Dr. Simon Krisztián Márk (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^4]
+Melléthei-Barna Márton (TISZA)[^5]
 
 Tóth Norbert (TISZA)
 
@@ -242,7 +242,7 @@ A bizottság feladatköre: külpolitika.
 
 Tagok:
 
-Kulcsár Krisztián (TISZA)[^5]
+Kulcsár Krisztián (TISZA)[^6]
 
 Hajdu Márton (TISZA)
 
@@ -340,17 +340,17 @@ Pásztor Anett (TISZA)
 
 Dr. Sopov Ildikó Éva (TISZA)
 
-Bakos Csaba Attila (TISZA)[^6]
+Bakos Csaba Attila (TISZA)[^7]
 
 Tóth Tamás (TISZA)
 
 Tóthmajor Balázs (TISZA)
 
-Czakó Czirbus Pál (TISZA)[^7]
+Czakó Czirbus Pál (TISZA)[^8]
 
 Dr. Hegedűs Barbara (Fidesz)
 
-Horváth László (Fidesz)[^8]
+Horváth László (Fidesz)[^9]
 
 Dr. Apáti István (Mi Hazánk)
 
@@ -364,7 +364,7 @@ Dr. Bugya László (TISZA)
 
 Csák László (TISZA)
 
-Rápli Róbert (TISZA)[^9]
+Rápli Róbert (TISZA)[^10]
 
 Dr. Kincse Csongor (TISZA)
 
@@ -376,7 +376,7 @@ Czirbus Gábor (Fidesz)
 
 Dr. Hankó Balázs (Fidesz) 2026. május 13-tól
 
-Molnárné dr. Lezsák Anna (Fidesz)[^10]
+Molnárné dr. Lezsák Anna (Fidesz)[^11]
 
 p) Pénzügyi és Költségvetési Bizottság (13 fő)
 
@@ -384,7 +384,7 @@ A bizottság feladatköre: költségvetés, államháztartás, számvevőszéki 
 
 Tagok:
 
-Dr. Sárosi József (TISZA)[^11]
+Dr. Sárosi József (TISZA)[^12]
 
 Borsós Gabriella (TISZA)
 
@@ -492,11 +492,11 @@ Tagok:
 
 Dr. Bilisics Zita (TISZA)
 
-Berki Ákos (TISZA)[^12]
+Berki Ákos (TISZA)[^13]
 
 Dr. Bóka Zsolt (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^13]
+Melléthei-Barna Márton (TISZA)[^14]
 
 Dr. Czipa András (TISZA)
 
@@ -630,7 +630,7 @@ Alelnök:
 
 Diószegi Judit (TISZA)
 
-Borics Mihály (TISZA)[^14]
+Borics Mihály (TISZA)[^15]
 
 Dr. Takács Árpád (Fidesz)
 
@@ -648,7 +648,7 @@ Dr. Kiss Máté Zsolt (TISZA)
 
 Dr. Miskolczi Orsolya (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^15]
+Melléthei-Barna Márton (TISZA)[^16]
 
 Tuzson Bence (Fidesz) 2026. május 13-tól
 
@@ -746,7 +746,7 @@ Bencsik János (Fidesz)
 
 Alelnök:
 
-Dr. Sárosi József (TISZA)[^16]
+Dr. Sárosi József (TISZA)[^17]
 
 Dr. Dicső Viktória (TISZA)
 
@@ -806,7 +806,7 @@ Dr. Bilisics Zita (TISZA)
 
 Dr. Bóka Zsolt (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^17]
+Melléthei-Barna Márton (TISZA)[^18]
 
 Dr. Simon Krisztián Márk (TISZA)
 
@@ -832,22 +832,23 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^18]
+7.[^19]
 
 [^2]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 39/2026. (VII. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
 [^6]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
-[^8]: A 37/2026. (VII. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^9]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
-[^10]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^11]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
-[^12]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
+[^8]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^9]: A 37/2026. (VII. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^10]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^12]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
 [^13]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
-[^14]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^14]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
 [^15]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
 [^16]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
 [^17]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
-[^18]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^19]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
