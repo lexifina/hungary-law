@@ -1,1 +1,3 @@
-2. § A Vhr. 11/G. § (1) bekezdésében az „Az Ebtv. 26/D. § (6) bekezdése” szövegrész helyébe az „A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosításáról szóló 2026. évi XXXI. törvény hatálybalépésének napját megelőző napon hatályos Ebtv. 26/D. § (6) bekezdése” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
