@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2023-12-31 | 2012-374-20-22.30 | 633/2023. (XII. 23.) Korm. rendelet |
 | 2024-08-20 | 2012-374-20-22.32 | 222/2024. (VII. 31.) Korm. rendelet |
 | 2024-11-29 | 2012-374-20-22.33 | 352/2024. (XI. 21.) Korm. rendelet |
+| 2026-07-22 | 2012-374-20-22.34 | 107/2026. (VII. 17.) Korm. rendelet |

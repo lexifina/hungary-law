@@ -10,7 +10,7 @@ Az elektromos és elektronikus berendezések termékcsoportjai
 
 4. Szórakoztató elektronikai berendezések
 
-5.[^94] Világítástechnikai cikkek
+5.[^98] Világítástechnikai cikkek
 
 6. Elektromos és elektronikus szerszámok
 
@@ -18,11 +18,11 @@ Az elektromos és elektronikus berendezések termékcsoportjai
 
 8. Orvostechnikai eszközök
 
-9.[^95] Ellenőrző és vezérlő eszközök, beleértve az ipari ellenőrző és vezérlő eszközöket is
+9.[^99] Ellenőrző és vezérlő eszközök, beleértve az ipari ellenőrző és vezérlő eszközöket is
 
 10. Adagoló automaták
 
 11. Az 1–10. pont szerinti kategóriák egyikébe sem tartozó egyéb elektromos és elektronikus berendezések.
 
-[^94]: A 7. melléklet 5. pontja a 246/2020. (V. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^95]: A 7. melléklet 9. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^98]: A 7. melléklet 5. pontja a 246/2020. (V. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^99]: A 7. melléklet 9. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
