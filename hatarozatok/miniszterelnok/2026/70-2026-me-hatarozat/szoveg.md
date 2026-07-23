@@ -1,0 +1,1 @@
+A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 34. §-a alapján dr. Retteghy András Tibort, a Belügyminisztérium közigazgatási államtitkárát a Belügyi Alapok monitoring bizottsága elnökévé – 2026. augusztus 1-jei hatállyal – kinevezem.
