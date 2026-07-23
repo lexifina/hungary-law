@@ -1,0 +1,48 @@
+# A Kormány 1234/2026. (VII. 23.) Korm. határozata
+
+Magyar Közlöny 2026. évi 97. szám, 2026. július 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/VybxK0Y9zxbvhwXpShtM6a5df2a91399a/dokumentumok/c61ddff071c50ddc76f79372fa69e47cbf4244c6/letoltes)
+
+---
+
+A Kormány 1234/2026. (VII. 23.) Korm. határozata
+a Menekültügyi, Migrációs és Integrációs Alap Program Plusz éves fejlesztési keretének megállapításáról
+szóló 1310/2023. (VII. 24.) Korm. határozat módosításáról
+1. A Menekültügyi, Migrációs és Integrációs Alap Program Plusz éves fejlesztési keretének megállapításáról szóló
+1310/2023. (VII. 24.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+ Magyar Péter s. k.,
+ miniszterelnök
+1. melléklet az 1234/2026. (VII. 23.) Korm. határozathoz
+„1. melléklet az 1310/2023. (VII. 24.) Korm. határozathoz
+Menekültügyi, Migrációs és Integrációs Alap Program Plusz éves fejlesztési kerete
+Jogszerű migráció és társadalmi beilleszkedés támogatása című 2. számú célkitűzés
+A B C D E
+1. Felhívás azonosító jele Felhívás címe
+Felhívás
+keretösszege
+(Mrd Ft)
+Projektkiválasztási
+eljárásrend
+Felhívás
+meghirdetésének
+tervezett ideje
+2. MMIA Plusz – 2.2.1
+Komplex támogató szolgáltatások
+a Magyarországon jogszerűen tartózkodók
+részére
+7,58 standard
+2024.
+I. negyedév
+3. MMIA Plusz – 2.2.2
+Helyi hatóságok, illetve köz- és
+magánszolgáltatók kapacitásépítése
+0,17 standard
+2024.
+I. negyedév
+4. MMIA Plusz – 2.2.3
+Sérülékeny személyek számára komplex
+támogató szolgáltatások
+2,96 standard
+2024.
+IV. negyedév
+”
