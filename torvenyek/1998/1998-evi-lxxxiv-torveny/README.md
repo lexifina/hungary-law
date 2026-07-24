@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 1998-84-00-00.77 |
 | 2025-06-14 | 2025. évi XXXIII. törvény | 1998-84-00-00.78 |
 | 2025-11-29 | 2025. évi LXXXVIII. törvény | 1998-84-00-00.79 |
+| 2026-07-24 | 2026. évi XXXIII. törvény | 1998-84-00-00.80 |

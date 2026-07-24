@@ -1,0 +1,1 @@
+40/A. § Az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás megállapításáról a központi családtámogatási szerv, – a pénzben történő kifizetésre kerülő iskolakezdési támogatás esetében – a családtámogatási kifizetőhely külön határozat meghozatala nélkül, hivatalból dönt.
