@@ -10,12 +10,12 @@ Jogszerű migráció és társadalmi beilleszkedés támogatása című 2. szám
 
 |  | A | B | C | D | E |
 
-|  | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
+| 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 1. | MMIA Plusz – 2.2.1 | Komplex támogató szolgáltatások a Magyarországon jogszerűen tartózkodók részére | 8,30 | standard | 2024. I. félév |
+| 2. | MMIA Plusz – 2.2.1 | Komplex támogató szolgáltatások a Magyarországon jogszerűen tartózkodók részére | 7,58 | standard | 2024. I. negyedév |
 
-| 2. | MMIA Plusz – 2.2.2 | Helyi hatóságok, illetve köz- és magánszolgáltatók kapacitásépítése | 0,40 | standard | 2024. I. félév |
+| 3. | MMIA Plusz – 2.2.2 | Helyi hatóságok, illetve köz- és magánszolgáltatók kapacitásépítése | 0,17 | standard | 2024. I. negyedév |
 
-| 3. | MMIA Plusz – 2.2.3 | Sérülékeny személyek számára komplex támogató szolgáltatások | 0,60 | standard | 2024. II. félév |
+| 4. | MMIA Plusz – 2.2.3 | Sérülékeny személyek számára komplex támogató szolgáltatások | 2,96 | standard | 2024. IV. negyedév |
 
-[^1]: Az 1. melléklet az 1167/2025. (V. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. melléklet az 1234/2026. (VII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
