@@ -7,3 +7,5 @@ b) a biztosítási összeg, a lefoglalt ingóságért járó összeg kivételév
 c) a szakszervezet sztrájkalapjába helyezett összeg.
 
 d) a sportról szóló 2004. évi I. törvény 15. § (1) bekezdése szerinti sportszervezet részére nyújtott, működési célú állami támogatás teljes összege.
+
+e) az iskolakezdési támogatásról szóló kormányrendelet szerinti iskolakezdési támogatás teljes összege.
