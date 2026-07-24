@@ -1,4 +1,4 @@
-77/P. §[^656] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 85/2026. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr.15.) megállapított 33. § (19a) bekezdésében foglaltakat a 2025. november havi teljesítmények elszámolásától kell alkalmazni.
+77/P. §[^657] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 85/2026. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr.15.) megállapított 33. § (19a) bekezdésében foglaltakat a 2025. november havi teljesítmények elszámolásától kell alkalmazni.
 
 (2) A Módr.15.-tel módosított 28. § (1b) bekezdésében foglaltakat a 2026. március havi teljesítmények elszámolásától kell alkalmazni.
 
@@ -10,4 +10,4 @@
 
 (6) A (4) és (5) bekezdés szerinti kiegészítő finanszírozást a finanszírozó legkésőbb a 2026. májusi kifizetésekkel együtt teljesíti.
 
-[^656]: A 77/P. §-t a 85/2026. (IV. 23.) Korm. rendelet 4. §-a iktatta be.
+[^657]: A 77/P. §-t a 85/2026. (IV. 23.) Korm. rendelet 4. §-a iktatta be.
