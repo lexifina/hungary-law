@@ -90,6 +90,8 @@ b) a képzési és személyi törzs.
 
 (5b) Az oktatási nyilvántartás működéséért felelős szerv az (1) bekezdés c) pontja szerinti szakrendszerből statisztikai adatgyűjtés keretében álnevesített formában statisztikai adatbázist hozhat létre, és adhat át a Központi Statisztikai Hivatalnak szakmai feladatellátásához, valamint az oktatásért felelős miniszternek a felsőoktatási intézmények állami finanszírozásával és ágazati irányítással összefüggő feladatai ellátásához.
 
+(5c) A tanulói jogviszonyhoz kapcsolódó juttatás szakpolitikai stratégiai döntés-előkészítése, elemzése, tervezése céljából az oktatási nyilvántartásban szereplő adatok álnevesített formában átadhatók a központi családtámogatási szerv részére.
+
 (6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 
 a) a köznevelés információs rendszere tekintetében az 1. melléklet,

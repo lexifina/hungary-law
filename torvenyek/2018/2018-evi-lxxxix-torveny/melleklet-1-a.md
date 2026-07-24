@@ -8,7 +8,7 @@
 
 ## a) természetes személyazonosító adatait, oktatási azonosító számát, társadalombiztosítási azonosító jelét, lakcím adatait, állampolgárságát, menekült, oltalmazott, menedékes vagy befogadott jogállású státuszára vonatkozó adatait,
 
-## b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
+## b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát, rendszeres gyermekvédelmi kedvezményre jogosultságának tényét és hatályát,
 
 ## c) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
 
@@ -640,7 +640,7 @@ h) az oktatás munkarendjével kapcsolatos adatokat,
 
 i) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének jogcímét, kezdő és záró időpontját, mulasztására vonatkozó adatokat,
 
-j) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
+j) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát, rendszeres gyermekvédelmi kedvezményre jogosultságának tényét és hatályát,
 
 k) melyik évfolyamon, mely országban vett részt határon túli kiránduláson, illetve külföldi tanulmányúton,
 
