@@ -1,7 +1,11 @@
-## 1. A Belső Biztonsági Alap Plusz éves fejlesztési keretének megállapításáról szóló 1556/2022. (XI. 21.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 1.[^2]
 
-## 2. A Belső Biztonsági Alap Plusz éves fejlesztési keretének megállapításáról szóló 1556/2022. (XI. 21.) Korm. határozat 2. melléklete helyébe a 2. melléklet lép.
+## 2.[^3]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1233/2026. (VII. 23.) Korm. határozathoz
+1. melléklet az 1233/2026. (VII. 23.) Korm. határozathoz[^4]
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
