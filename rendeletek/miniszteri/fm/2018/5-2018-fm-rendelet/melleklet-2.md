@@ -1,102 +1,86 @@
-## 8K01085_0
+|  | A | B | C |
 
-|  | Növénykultúra | Termésbecslés elvégzésének kezdete | Jelentés megküldése a miniszter részére |
+| 1. | Növénykultúra | Termésbecslés elvégzésének kezdete | Jelentés megküldése a miniszter részére |
 
-| 1. | Őszi árpa (E) | május 22. | június 4. |
+| 2. | Őszi árpa (V) | június 15. | június 28. |
 
-| 2. | Búza (E) |
+| 3. | Őszi búza (V) |
 
-| 3. | Durumbúza (E) |
+| 4. | Durumbúza (V) |
 
-| 4. | Rozs (E) |
+| 5. | Rozs (V) |
 
-| 5. | Tavaszi árpa (E) |
+| 6. | Tavaszi árpa (V) |
 
-| 6. | Triticale (E) |
+| 7. | Triticale (V) |
 
-| 7. | Őszi káposztarepce (E) |
+| 8. | Zab (V) |
 
-| 8. | Kajszibarack (E) |
+| 9. | Magborsó (V) |
 
-| 9. | Meggy (E) |
+| 10. | Őszi káposztarepce (V) |
 
-| 10. | Zöldborsó (E) |
+| 11. | Zöldborsó (V) |
 
-| 11. | Vöröshagyma (E) |
+| 12. | Kajszibarack (V) |
 
-| 12. | Őszi árpa (V) | június 11. | június 21. |
+| 13. | Meggy (V) |
 
-| 13. | Búza (V) |
+| 14. | Vöröshagyma (E) |
 
-| 14. | Durumbúza (V) |
+| 15. | Kajszibarack (V) | június 30. | július 11. |
 
-| 15. | Rozs (V) |
+| 16. | Meggy (V) |
 
-| 16. | Tavaszi árpa (V) |
+| 17. | Alma (E) |
 
-| 17. | Triticale (V) |
+| 18. | Paradicsom (E) |
 
-| 18. | Zab (V) |
+| 19. | Burgonya (E) |
 
-| 19. | Magborsó (V) |
+| 20. | Vöröshagyma (V) | július 20. | augusztus 2. |
 
-| 20. | Őszi káposztarepce (V) |
+| 21. | Kukorica (E) |
 
-| 21. | Zöldborsó (V) |
+| 22. | Rizs (E) |
 
-| 22. | Kajszibarack (V) | június 30. | július 11. |
+| 23. | Napraforgó (E) |
 
-| 23. | Meggy (V) |
+| 24. | Cukorrépa (E) |
 
-| 24. | Alma (E) |
+| 25. | Szója (E) |
 
-| 25. | Paradicsom (E) |
+| 26. | Dohány (E) |
 
-| 26. | Burgonya (E) |
+| 27. | Csemegekukorica (E) |
 
-| 27. | Vöröshagyma (V) | július 20. | augusztus 2. |
+| 28. | Fűszerpaprika (E) |
 
-| 28. | Kukorica (E) |
+| 29. | Szőlő (E) |
 
-| 29. | Rizs (E) |
+| 30. | Paradicsom (V) |
 
-| 30. | Napraforgó (E) |
+| 31. | Kukorica (V) | augusztus 24. | szeptember 10. |
 
-| 31. | Cukorrépa (E) |
+| 32. | Rizs (V) |
 
-| 32. | Szója (E) |
+| 33. | Napraforgó (V) |
 
-| 33. | Dohány (E) |
+| 34. | Cukorrépa (V) |
 
-| 34. | Csemegekukorica (E) |
+| 35. | Szója (V) |
 
-| 35. | Fűszerpaprika (E) |
+| 36. | Dohány (V) |
 
-| 36. | Szőlő (E) |
+| 37. | Alma (V) |
 
-| 37. | Paradicsom (V) |
+| 38. | Burgonya (V) |
 
-| 38. | Kukorica (V) | augusztus 24. | szeptember 10. |
+| 39. | Csemegekukorica (V) |
 
-| 39. | Rizs (V) |
+| 40. | Fűszerpaprika (V) |
 
-| 40. | Napraforgó (V) |
-
-| 41. | Cukorrépa (V) |
-
-| 42. | Szója (V) |
-
-| 43. | Dohány (V) |
-
-| 44. | Alma (V) |
-
-| 45. | Burgonya (V) |
-
-| 46. | Csemegekukorica (V) |
-
-| 47. | Fűszerpaprika (V) |
-
-| 48. | Szőlő (V) |
+| 41. | Szőlő (V) |
 
 ## Jelmagyarázat: (E) előzetes termésbecslés, (V) végleges termésbecslés
 

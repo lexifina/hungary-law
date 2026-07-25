@@ -1,4 +1,8 @@
-3. § (1)[^3] A jelentés elkészítése érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv az egységes kérelmek (egyedi azonosításra alkalmas) előzetes és végleges adatait külön megállapodásban rögzített ütemterv szerint, de legkésőbb május 20-ig, illetve június 11-ig átadja az AKI Nonprofit Kft. részére.
+3. § (1)[^3] A jelentés elkészítése érdekében a Magyar Államkincstár az egységes kérelem benyújtására nyitva álló időszak utolsó napját követően, a külön megállapodásban rögzített ütemterv szerint, a tárgyévben átadja
+
+a) az egységes kérelmek – egyedi azonosításra alkalmas – adatait az AKI Nonprofit Kft. részére,
+
+b) az egységes kérelemben igényelt – egyedi azonosításra nem alkalmas – területi adatokat település, egységes kérelemben megjelölt növénykultúra és hektár szerinti bontásban a NAK részére.
 
 (2)[^4] Az AKI Nonprofit Kft. az (1) bekezdés szerinti adatok alapján vármegyénként, statisztikai célú rétegzett mintát készít azokról a
 
@@ -18,7 +22,7 @@ b) a tárgyévi egységes kérelem benyújtása után az egységes kérelemben b
 
 kell megállapítani.
 
-[^3]: A 3. § (1) bekezdése a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 6/2026. (VII. 24.) AÉM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés nyitó szövegrésze a 17/2019. (V. 10.) AM rendelet 9. § c) pontja, a 3/2021. (II. 19.) AM rendelet 10. § c) pontja, a 149/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdés b) pontja a 28/2021. (VIII. 18.) AM rendelet 26. §-a szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdése a 17/2019. (V. 10.) AM rendelet 9. § c) pontja, a 3/2021. (II. 19.) AM rendelet 10. § c) pontja szerint módosított szöveg.

@@ -98,7 +98,7 @@
 
 | Őszi mélyszántás tavasziak alá |  |  |  |  |  |
 
-4. melléklet az 5/2018. (II. 23.) FM rendelethez[^16]
+4. melléklet az 5/2018. (II. 23.) FM rendelethez[^17]
 
 Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szóló tájékoztató jelentéshez
 
@@ -116,4 +116,4 @@ Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szól�
 
 | 6. | Őszi tájékoztató jelentés | november 12. | T+4 nap |
 
-[^16]: A 4. melléklet a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^17]: A 4. melléklet a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
