@@ -30,7 +30,9 @@ dc) a hitelszerződéshez kapcsolódó intézményi kezességvállalás esetén 
 
 dd) a kezességi díj támogatás támogatástartalom-igazolás másolatát;
 
-de)[^4] a 2. § (2) bekezdés c) pontjában foglalt támogatás igénylése esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a vállalkozás saját tenyészetére vonatkozó – a 3. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – dokumentum nyomtatott és a vállalkozás által aláírt példányát,
+de)[^6] a 2. § (2) bekezdés c) pontjában foglalt támogatás igénylése esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a vállalkozás saját tenyészetére vonatkozó – a 3. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – dokumentum nyomtatott és a vállalkozás által aláírt példányát,
+
+df)[^7] a 2. § (2) bekezdés d) pontjában foglalt támogatás igénylése esetén a 2025. évben a Magyar Államkincstárhoz benyújtott W0251 nyomtatványnak a vállalkozás által cégszerűen aláírt másolati példányát az 1–5. és 13. adatblokkjairól, amelynek 13. adatblokkja tartalmazza a termeléshez kötött tejhasznú tehén támogatással kérelmezett állatlétszámot.
 
 e) meghatalmazza a pénzügyi intézményt, hogy a kamattámogatás támogatástartalmának zárolása, lekötése – szükség esetén – felszabadítása érdekében, továbbá a megelőlegezett kamattámogatás lehívásával kapcsolatban a Kincstár előtt eljárjon.
 
@@ -48,4 +50,5 @@ d) a b) pont szerint kiszámított támogatástartalmat a c) pontban meghatároz
 
 (4) A kamattámogatási kérelem támogatástartalmáról történő döntésnél, a rendelkezésre álló szabad csekély összegű keret meghatározásánál figyelembe kell venni a hitel kedvezményes kamatából, a kezességvállaló intézmény által kedvezményes kezességvállalási díj mellett nyújtott kezességből és a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatástartalmat.
 
-[^4]: A 4. § (1) bekezdés d) pont de) alpontját az 53/2025. (XII. 19.) AM rendelet 12. §-a iktatta be.
+[^6]: A 4. § (1) bekezdés d) pont de) alpontját az 53/2025. (XII. 19.) AM rendelet 12. §-a iktatta be.
+[^7]: A 4. § (1) bekezdés d) pont df) alpontját a 6/2026. (VII. 24.) AÉM rendelet 6. §-a iktatta be.

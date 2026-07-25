@@ -22,7 +22,7 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapját közvetlenül megelőző hónap első napján érvényes, az Európai Központi Bank által közzétett forint-euró átváltási árfolyam.
 
-3. melléklet a 46/2025. (XI. 11.) AM rendelethez[^5]
+3. melléklet a 46/2025. (XI. 11.) AM rendelethez[^8]
 
 A sertéstenyészetekben megállapítható átlagos állategység számítási módszertana
 
@@ -36,4 +36,4 @@ K: a sertés ENAR-ba hiánytalan adatszolgáltatással bejelentett és élőkén
 
 Vizsgált időszak: 2024. október 1. és 2025. szeptember 30. közötti időszak (i = 1–12).
 
-[^5]: A 3. mellékletet az 53/2025. (XII. 19.) AM rendelet 13. §-a iktatta be.
+[^8]: A 3. mellékletet az 53/2025. (XII. 19.) AM rendelet 13. §-a iktatta be.
