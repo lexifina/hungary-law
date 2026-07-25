@@ -28,4 +28,18 @@
 
 13. CPV kód: a közbeszerzés tárgyára vonatkozó, a közös közbeszerzési szószedetről (CPV) szóló 212195/2002/EK európai parlamenti és tanácsi rendelet módosításáról és a közbeszerzési eljárásokról szóló 2004/17/EK és 2004/18/EK európai parlamenti és tanácsi irányelvnek a CPV felülvizsgálata tekintetében történő módosításáról szóló, 2007. november 28-i 213/2008/EK bizottsági rendelet 1. melléklet 1. pontja szerinti fogalom;
 
-14. építési termék: az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 305/2011/EU európai parlamenti és tanácsi rendelet I. fejezet 2. cikk. 1. pontja szerinti építési termék.
+14.[^6] építési termék: a magyar építészetről szóló 2023. évi C. törvény 16. § 28. pontja szerinti építési termék;
+
+15.[^7] „első az energiahatékonyság” elve: az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 1. § 2a. pontjában meghatározott fogalom;
+
+16.[^8] energiahatékonyság-alapú szerződés: az Ehat. 1. § 7. pontjában meghatározott fogalom;
+
+17.[^9] gumiabroncs: a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet 3. cikk (1) pontjában meghatározott C1, C2 vagy C3 abroncsok;
+
+18.[^10] uniós zöld közbeszerzési kritérium: az Európai Bizottság által közzétett, önkéntesen alkalmazandó környezetvédelmi követelményrendszer, amely egyes termékekre, szolgáltatásokra vagy építési beruházásokra vonatkozóan meghatározza az ajánlatkérők által a közbeszerzési eljárás műszaki előírásaiba, alkalmassági követelményeibe, értékelési szempontjaiba vagy a szerződés teljesítésére vonatkozó feltételekbe beépíthető környezetvédelmi követelményeket.
+
+[^6]: A 2. § 14. pontja a 110/2026. (VII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § 15. pontját a 110/2026. (VII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § 16. pontját a 110/2026. (VII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 2. § 17. pontját a 110/2026. (VII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. § 18. pontját a 110/2026. (VII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.

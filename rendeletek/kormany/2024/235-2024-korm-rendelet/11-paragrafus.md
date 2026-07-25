@@ -25,3 +25,7 @@ b) a szállított berendezések I. típusú ökocímkével rendelkeznek.
 (8) Az ajánlatkérő a (2)–(7) bekezdés szerinti környezetvédelmi követelmények valamelyikének előírása helyett dönthet úgy, hogy az IKT eszközök értékeléskor figyelembe vett költségét életciklusköltség-számítási módszer alkalmazásával határozza meg.
 
 (9) Amennyiben a közbeszerzési eljárás keretében a (3)–(7) bekezdés szerinti többféle termék kerül együttesen beszerzésre, ajánlatkérő köteles valamennyi termék vonatkozásában előírni a (2)–(7) bekezdés szerinti környezetvédelmi követelmények valamelyikét vagy a (8) bekezdés szerinti életciklusköltség-számítás módszer értékelési szempontként való alkalmazását.
+
+(10)[^11] Amennyiben a közbeszerzési eljárás becsült értéke az uniós értékhatárt eléri, és az ajánlatkérő a 3/A. alcím szerinti energiahatékonyságra vonatkozó követelményt alkalmaz, abban az esetben az ajánlatkérő nem köteles az e §-ban meghatározott környezetvédelmi követelmények valamelyikét előírni.
+
+[^11]: A 11. § (10) bekezdését a 110/2026. (VII. 17.) Korm. rendelet 3. §-a iktatta be.

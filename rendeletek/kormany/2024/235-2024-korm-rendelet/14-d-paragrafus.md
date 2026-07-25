@@ -1,0 +1,1 @@
+14/D. § Az ajánlatkérő köteles az ezen alcím alapján lefolytatott közbeszerzési eljárás eredményeként megkötött szerződés energiahatékonyságra gyakorolt hatására vonatkozó információkat közzétenni a Kbt. 37. § (1) bekezdés h) pontja szerinti eljárás eredményéről szóló tájékoztatóban.

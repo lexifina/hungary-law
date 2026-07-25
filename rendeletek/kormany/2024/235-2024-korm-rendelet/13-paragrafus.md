@@ -1,4 +1,4 @@
-13. § (1) Az ajánlatkérő köteles az új épületek tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló, valamint az uniós értékhatárt elérő értékű, a meglévő épületeket érintő építési tevékenység tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló közbeszerzési eljárás során a következő szempontok valamelyikét alkalmazni a műszaki leírásban a műszaki követelményrendszer részeként vagy értékelési szempontként vagy a szerződés teljesítésére vonatkozó feltételként:
+13. § (1)[^13] Az ajánlatkérő köteles az új épületek tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló, valamint ha az építési beruházás becsült értéke az uniós értékhatárt eléri, a meglévő épületeket érintő építési tevékenység tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló közbeszerzési eljárás során a következő szempontok valamelyikét alkalmazni a műszaki leírásban a műszaki követelményrendszer részeként vagy értékelési szempontként vagy a szerződés teljesítésére vonatkozó feltételként:
 
 a) annak előírása, hogy az új épület tervezése és kivitelezése lehetővé tegye zöld épületminősítési rendszerek szerinti, az ajánlatkérő által alkalmazott épületminősítési rendszer két legmagasabb minősítési szintje egyikének megfelelő minősítés megszerzését,
 
@@ -16,7 +16,7 @@ g) az építés helyszínén képződő építési-bontási hulladék tekinteté
 
 h) az építési területre szállítandó építési termékek, anyagok és eszközök szállításával kapcsolatos szén-dioxid és más üvegházhatású gáz kibocsátásának csökkentése.
 
-(2) Az ajánlatkérő köteles a közutak tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló, valamint az uniós értékhatárt elérő értékű, a meglévő közutakat érintő építési tevékenység tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló közbeszerzési eljárás során a következő szempontok valamelyikét alkalmazni a műszaki leírásban a műszaki követelményrendszer részeként vagy az értékelési szempontok között vagy a szerződés teljesítésére vonatkozó feltételként:
+(2)[^14] Az ajánlatkérő köteles az új közutak tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló, valamint ha az építési beruházás becsült értéke az uniós értékhatárt eléri, a meglévő közutakat érintő építési tevékenység tervezésére vagy kivitelezésére, vagy tervezésre és kivitelezésre együttesen irányuló közbeszerzési eljárás során a következő szempontok valamelyikét alkalmazni a műszaki leírásban a műszaki követelményrendszer részeként vagy az értékelési szempontok között vagy a szerződés teljesítésére vonatkozó feltételként:
 
 a) másodlagos nyersanyagok felhasználása, vagy másodlagos nyersanyag felhasználásával készült termékek használata,
 
@@ -33,3 +33,6 @@ f) az építési területre szállítandó építési termékek, anyagok és esz
 g) a kivitelezés során a zajkibocsátás monitoringja, illetve csökkentése.
 
 (3) Az ajánlatkérő az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábt.) 3. §-a szerinti állami építési beruházásnak minősülő építési beruházásra irányuló közbeszerzési eljárás során az Ábt. 45. § (1) bekezdés a)–c) vagy e)–f) pontja szerinti szempontok valamelyikét is előírhatja értékelési szempontként az (1) vagy (2) bekezdésben foglalt szempontok valamelyike helyett.
+
+[^13]: A 13. § (1) bekezdés nyitó szövegrésze a 110/2026. (VII. 17.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^14]: A 13. § (2) bekezdés nyitó szövegrésze a 110/2026. (VII. 17.) Korm. rendelet 7. § e) és f) pontja szerint módosított szöveg.
