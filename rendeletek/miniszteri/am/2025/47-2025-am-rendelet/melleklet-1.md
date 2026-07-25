@@ -1,4 +1,4 @@
-1. melléklet a 47/2025. (XI. 11.) AM rendelethez
+1. melléklet a 47/2025. (XI. 11.) AM rendelethez[^11]
 
 A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
 
@@ -22,6 +22,8 @@ iF – a kamattámogatás figyelembevételével a hitelfelvevő által ténylege
 
 H – a kamatidőszak elején fennálló hitelállomány forintban, feltételezve, hogy tőketörlesztésre csak a kamatidőszak végén kerül sor,
 
-n – a naptári évek száma, ahol n1 a támogatási döntés éve. A támogatástartalom a kamattámogatási kérelemben megjelölt igénybevételi időponttól a hitel futamidejének utolsó napjáig terjedő időszak alapján kerül kiszámításra,
+n – a naptári évek száma, ahol n1 a támogatási döntés éve. A támogatástartalom a kamattámogatási kérelemben megjelölt igénybevételi időszak alapján kerül kiszámításra,
 
 r – a kamattámogatási kérelem benyújtása hónapját közvetlenül megelőző hónap első napján érvényes, az Európai Központi Bank által közzétett forint-euró átváltási árfolyam.
+
+[^11]: Az 1. melléklet a 6/2026. (VII. 24.) AÉM rendelet 11. §-ával megállapított szöveg.

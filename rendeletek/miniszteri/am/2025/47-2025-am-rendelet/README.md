@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-47-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-11-12 | 2025-47-20-7R.1 | 47/2025. (XI. 11.) AM rendelet |
+| 2026-07-25 | 2025-47-20-7R.2 | 6/2026. (VII. 24.) AÉM rendelet |
