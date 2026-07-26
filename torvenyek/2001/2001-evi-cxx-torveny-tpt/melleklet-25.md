@@ -75,11 +75,3 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 35. A pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
 
 36. A pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2024. február 28-i (EU) 2024/790 európai parlamenti és tanácsi irányelv.
-
-37. Az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelv.
-
-38. A pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai tanácsi és parlamenti rendelet.
-
-39. a 2014/65/EU irányelvnek az uniós nyilvános tőkepiacok vállalkozások számára vonzóbbá tétele, továbbá a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról és a 2001/34/EK irányelv hatályon kívül helyezéséről szóló 2024. október 23-i (EU) 2024/2811 európai parlamenti és tanácsi irányelv,
-
-40. az (EU) 2017/1129, az 596/2014/EU és a 600/2014/EU rendeletnek az uniós tőkepiacok vállalkozások számára vonzóbbá tétele, valamint a kis- és középvállalkozások tőkéhez jutásának megkönnyítése érdekében történő módosításáról szóló, 2024. október 23-i (EU) 2024/2809 európai parlamenti és tanácsi rendelet.
