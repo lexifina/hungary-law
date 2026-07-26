@@ -4,16 +4,20 @@
 
 ## I. Fejezet
 
-## A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS ALAPVETŐ ELVEI ÉS CÉLJAI
+## A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS ÉS MÉDIATARTALOM-SZOLGÁLTATÁS ALAPVETŐ ELVEI ÉS CÉLJAI
 
-## A közszolgálati médiaszolgáltatás alapvető elvei
+## A közszolgálati médiaszolgáltatás és médiatartalom-szolgáltatás alapvető elvei
 
-82. § A közszolgálati médiaszolgáltatás
+82. § (1) A közszolgálati médiaszolgáltatás és médiatartalom-szolgáltatás a nemzet egésze számára nyújt a polgárok demokratikus jogainak gyakorlása érdekében pártatlanul és kiegyensúlyozottan minőségi információkat.
 
-a) az államtól és a gazdasági szereplőktől függetlenül működik, a közszolgálati médiaszolgáltató vezetői és a tevékenységében részt vevők – a jogszabályok nyújtotta keretek között – szakmai autonómiát élveznek,
+(2) A közszolgálati médiaszolgáltatás és médiatartalom-szolgáltatás
 
-b) rendszere biztosítja az elszámoltathatóságot és a társadalmi felügyelet megvalósulását,
+a) a nemzeti önazonosság, valamint a magyarországi nemzetiségi és európai identitás megőrzése érdekében a kulturális értékek és a sokszínűség megjelenítésével segíti és erősíti a társadalmi összetartozást,
 
-c) működésének biztosítása elsősorban a Magyarországon élők közös áldozatvállalásával, állami finanszírozás mellett történik,
+b) a kormányzati, politikai és gazdasági szereplőktől függetlenül működik, vezetőit átlátható és megkülönböztetésmentes, objektív eljárással választják ki, autonóm szakmai működésének az alapja a szerkesztői függetlenség tiszteletben tartása,
 
-d) tevékenysége nem irányulhat elsősorban nyereségszerzésre.
+c) finanszírozását az állam biztosítja,
+
+d) rendszere garantálja az elszámoltathatóságot és a társadalmi felügyelet megvalósulását,
+
+e) tevékenysége nem irányulhat elsősorban nyereségszerzésre.

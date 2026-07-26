@@ -1,28 +1,26 @@
-## A közszolgálati médiaszolgáltató vezérigazgatójának választása
+## A közszolgálati médiaszolgáltató és médiatartalom-szolgáltató vezérigazgatójának választása
 
-102. § (1) A közszolgálati médiaszolgáltató ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását a közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+102. § (1) A közszolgálati részvénytársaságok ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását a vezetése alatt álló közszolgálati részvénytársaság terhére meghatározott havi összegben kell megállapítani.
 
-(2) A közszolgálati médiaszolgáltató vezérigazgatója feletti munkáltatói jogkört – beleértve a vezérigazgató kinevezését és munkaviszonya megszüntetését – a Kuratórium gyakorolja. A vezérigazgató jelölése és kinevezése a következő lépések szerinti sorrendben történik:
+(2) A közszolgálati médiaszolgáltató és médiatartalom-szolgáltató vezérigazgatója feletti munkáltatói jogkört – beleértve a vezérigazgató kinevezését és munkaviszonya megszüntetését – a Testület gyakorolja.
 
-a) a Médiatanács elnöke két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
+(3) A vezérigazgató választása a következő lépések szerint történik:
 
-b) ha a Médiatanács elfogadja a jelölteket, azokat a Kuratórium elé terjeszti, hogy válasszon egyet a jelöltek közül,
+a) a Testület a Közszolgálati Tanáccsal egyeztetve nyílt pályázatot ír ki a vezérigazgatói pozíció betöltésére, amelyet a saját és a Médiatanács honlapja mellett legalább három, kiemelkedő látogatottsággal rendelkező független online hírportálon, továbbá szakmai portálokon megjelentet,
 
-c) ha a Médiatanács nem fogadja el a Médiatanács elnöke által javasolt valamelyik jelöltet, akkor a Médiatanács elnöke új jelöltre tesz javaslatot; a Médiatanács csak akkor tehet javaslatot a Kuratóriumnak, ha maga két jelöltet elfogadott,
+b) a jelentkezési határidő 30 nap, amelynek elteltével a Testület a pályázók nevét nyilvánosságra hozza.
 
-d) a Médiatanács javaslatot tehet a vezérigazgató munkaszerződésének egyes tartalmi elemeire is,
+(4) A pályázók személyes meghallgatását a határidő lejártát követő 8 napon belül meg kell tartani. A meghallgatást a Testület honlapján közvetíti.
 
-e) az első szavazási körben a Kuratórium összes tagjának – ideértve az elnököt is – kétharmados többségével dönt a vezérigazgató kinevezéséről,
+(5) A szavazás két körben zajlik, az első szavazási körben a Testület a pályázók alkalmasságáról dönt az összes tagja – ideértve az elnököt is – szavazatával. A második körbe a két legtöbb támogató szavazatot kapott pályázó kerül, akiket – amennyiben ezt szükségesnek tartja – a Testület még egyszer meghallgathat. Az a pályázó lesz a vezérigazgató, aki a Testület tagjai többségének a támogató szavazatát megkapja. Szavazategyenlőség esetén a Testület elnökének a szavazata dönt.
 
-f) ha a két jelöltből a Médiatanács jelölésétől számított harminc napon belül nem tud kétharmados többséggel választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni,
+(6) Amennyiben a Testület nem tud vezérigazgatót választani, 5 napon belül köteles megismételni a szavazást ugyanazon pályázókról. Amennyiben a választás ekkor sem lesz eredményes, a pályáztatást és a választási eljárást a (2)–(4) bekezdés szerint újból le kell folytatni.
 
-g) az új jelölés során ismételten két új jelöltre kell javaslatot tenni,
+(7) Amennyiben a Testület a második pályáztatást követően sem tud vezérigazgatót választani, a Testületnek fel kell oszlatnia magát és az Országgyűlés új Testületet választ. Az új Testület tagjainak választásánál nem lehet jelölt, aki a feloszlatott Testület tagja volt.
 
-h) az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
+(8) A Testület a vezérigazgató kinevezéséről és munkaszerződése tartalmáról szavazással dönt. A vezérigazgató munkaszerződése határozatlan időtartamra köthető meg. Amennyiben a megválasztott vezérigazgató nem fogadja el a munkaszerződés-tervezet Testület által meghatározott feltételeit, a módosított feltételeket tartalmazó munkaszerződésről a Testület újra szavaz. Amennyiben a munkaszerződés feltételeiben nincsen megegyezés, úgy új vezérigazgatót kell választani.
 
-(3) A Kuratórium a vezérigazgató kinevezéséről és munkaszerződése – a Médiatanács javaslatának figyelembevételével megalkotott – tartalmáról szavazással dönt. A vezérigazgató munkaszerződése határozatlan időtartamra köthető meg. Amennyiben a megválasztott vezérigazgató nem fogadja el a munkaszerződés-tervezet Kuratórium által meghatározott feltételeit, a módosított feltételeket tartalmazó munkaszerződésről a Kuratórium újra szavaz. Amennyiben a munkaszerződés feltételeiben nincsen megegyezés, úgy új vezérigazgatót kell választani.
-
-(4) A vezérigazgató munkaviszonya a következő esetekben szűnik meg
+(9) A vezérigazgató munkaviszonya megszűnik
 
 a) felmentéssel,
 
@@ -30,20 +28,20 @@ b) a munkaszerződésben szabályozott felmondással,
 
 c) halállal,
 
-d) a 97. § (10)–(12) bekezdésben foglalt esetben, ha a Kuratórium a Közszolgálati Testület előterjesztésére a megszüntetés mellett dönt.
+d) a 97. § (10)–(12) bekezdésében foglalt esetben, ha a Testület a Közszolgálati Tanács előterjesztésére a megszüntetés mellett dönt.
 
-(5) Felmentéssel szűnik meg a vezérigazgató munkaviszonya
+(10) Felmentéssel szűnik meg a vezérigazgató munkaviszonya, ha
 
-a) ha cselekvőképességét érintő gondnokság alá helyezték,
+a) cselekvőképességét érintő gondnokság alá helyezték,
 
-b) ha a vele szemben lefolytatott büntetőeljárás eredményeként a bűnösségét a bíróság – szabadságvesztés kiszabást tartalmazó – jogerős ítélete állapította meg,
+b) a vele szemben lefolytatott büntetőeljárás eredményeként a bűnösségét a bíróság – szabadságvesztés kiszabást tartalmazó – jogerős ítélete állapította meg,
 
-c) ha három hónapig rajta kívülálló okból nem tud eleget tenni kötelezettségeinek,
+c) három hónapig rajta kívül álló okból nem tud eleget tenni kötelezettségeinek,
 
-d) ha az összeférhetetlenségre vonatkozó szabályokat megsérti, és az összeférhetetlenséget annak keletkezésétől számított harminc napon belül nem szünteti meg,
+d) az összeférhetetlenségre vonatkozó szabályokat megsérti, és az összeférhetetlenséget annak keletkezésétől számított harminc napon belül nem szünteti meg,
 
-e) ha bíróság foglalkozásától, vagy a közügyektől eltiltotta.
+e) bíróság foglalkozásától, vagy a közügyektől eltiltotta.
 
-(6) Felmentés esetén a munkaviszony megszűnését a Kuratórium állapítja meg.
+(11) Felmentés esetén a munkaviszony megszűnését a Testület állapítja meg.
 
-(7) A vezérigazgató egy vagy több vezérigazgató-helyettes kinevezésére jogosult. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
+(12) A vezérigazgató egy vagy több vezérigazgató-helyettes kinevezésére jogosult. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Testület hagyja jóvá.

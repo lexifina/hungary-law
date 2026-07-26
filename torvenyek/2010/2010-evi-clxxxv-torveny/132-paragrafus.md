@@ -1,6 +1,6 @@
 ## A Médiatanács feladatai
 
-132. § A Médiatanács a 182–184. §-okkal összhangban:
+132. § (1) A Médiatanács a 182–184. §-sal összhangban
 
 a) ellenőrzi és biztosítja a sajtószabadság érvényesülését e törvény és az Smtv. keretei között,
 
@@ -12,7 +12,7 @@ d) a Hivatalon keresztül műsorfigyelő és -elemző szolgálatot működtet,
 
 e) véleményt nyilvánít a médiával és a hírközléssel kapcsolatos jogszabályok tervezetéről,
 
-f) rendszeresen ellenőrzi a vele kötött hatósági szerződések megtartását;
+f) rendszeresen ellenőrzi a vele kötött hatósági szerződések megtartását,
 
 g) állásfoglalásokat, javaslatokat dolgoz ki a magyar médiaszolgáltatási rendszer fejlesztésének elvi kérdéseire vonatkozóan,
 
@@ -25,3 +25,11 @@ j) szükség esetén kezdeményezheti az audiovizuális politikáért felelős m
 k) kezdeményező szerepet vállal a médiaműveltség, a médiatudatosság magyarországi fejlesztésében, ennek keretében összehangolja más állami szereplők médiaműveltséghez kapcsolódó tevékenységét, segíti a kormányt az Európai Unió felé e tárgyban esedékes időszakos beszámoló elkészítésében,
 
 l) ellátja e törvényben, illetve az e törvény felhatalmazása alapján kiadott más jogszabályban meghatározott egyéb feladatait.
+
+(2) A Médiatanács látja el a belső piaci médiaszolgáltatások közös keretének létrehozásáról és a 2010/13/EU irányelv módosításáról szóló, 2024. április 11-i 2024/1083 európai parlamenti és tanácsi rendelet (a továbbiakban: a tömegtájékoztatás szabadságáról szóló európai rendelet) alkalmazásában a nemzeti szabályozó hatóságot érintő feladatokat.
+
+(3) A Médiatanács képviseli Magyarországot a tömegtájékoztatás szabadságáról szóló európai rendelet 8. cikke szerinti Médiaszolgáltatások Európai Testületében.
+
+(4) A Médiatanács végzi el a médiapiaci összefonódásoknak tömegtájékoztatás szabadságáról szóló európai rendelet 22. cikke szerinti értékelését és az ehhez kapcsolódó, a 22. cikkben meghatározott jogalkalmazási feladatokat. A Médiatanács minden, a tömegtájékoztatás szabadságáról szóló európai rendelet hatálybalépése után megvalósult médiapiaci összefonódást megvizsgál.
+
+(5) A Médiatanács hatósági és nem hatósági hatáskörben hozott döntései – az adatvédelmi előírások figyelembevételével – nyilvánosak.

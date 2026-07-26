@@ -27,3 +27,5 @@ b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi
 c) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról szóló 2008. március 17-i bizottsági határozat,
 
 d) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.
+
+e) az Európai Parlament és a Tanács (EU) 2024/1083 rendelete (2024. április 11.) a belső piaci médiaszolgáltatások közös keretének létrehozásáról és a 2010/13/EU irányelv módosításáról (a tömegtájékoztatás szabadságáról szóló európai rendelet).

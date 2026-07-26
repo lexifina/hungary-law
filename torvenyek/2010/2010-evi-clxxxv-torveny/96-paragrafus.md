@@ -1,25 +1,33 @@
-96. § A Kódexben egyebek mellett szabályozni lehet:
+96. § A Chartában egyebek mellett szabályozni kell:
 
-a) a közszolgálati médiaszolgáltatás törvényi céljai elérésének eszközeit, módját,
+1. a közszolgálati médiatartalom-szolgáltatás, beleértve a közszolgálati médiaszolgáltatást is, törvényi céljai elérésének eszközeit, módját,
 
-b) a pártoktól, politikai szervezetektől való függetlenség alapvető elveit,
+2. a pártoktól, politikai szervezetektől való függetlenség alapvető elveit,
 
-c) a hírek, időszerű politikai műsorok sokoldalúságának, tárgyilagosságának és kiegyensúlyozottságának, a vitatott kérdések ismertetésének, a vélemények, nézetek sokféleségének bemutatására vonatkozó elveket,
+3. a hírek, időszerű politikai műsorok tényszerűségének, sokoldalúságának, tárgyilagosságának és kiegyensúlyozottságának, a vitatott kérdések ismertetésének, a vélemények, nézetek sokféleségének bemutatására vonatkozó elveket,
 
-d) az anyanyelvi kultúra ápolásának szempontjait,
+4. a szerkesztői szabadság érvényesítésének az eszközeit,
 
-e) a magyarországi nemzetiségek kultúrája, élete bemutatása rendjének elveit,
+5. a műsorkészítés átláthatóságának követelményeit, a forráskezelés elveit,
 
-f) a kulturális, tudományos, világnézeti és vallási sokszínűség bemutatásának elveit,
+6. az álhírek és a dezinformáció elleni fellépés eszközeit,
 
-g) a kiskorúak védelmével kapcsolatos feladatok ellátásának elveit,
+7. a mesterséges intelligencia használatát,
 
-h) a kereskedelmi közlemények közzétételére, a reklámtevékenységre, a műsorszámok támogatására vonatkozó etikai normák elveit,
+8. az anyanyelvi kultúra ápolásának szempontjait,
 
-i) a közérdekű közlemények közzétételének elveit,
+9. a magyarországi nemzetiségek kultúrája, élete bemutatása rendjének elveit,
 
-j) a közszolgálati médiaszolgáltatónál alkalmazott műsorkészítők önállóságának és felelősségének mértékére és biztosítékaira, a műsorkészítés és a műsorszerkesztés elveinek meghatározásában való részvételük biztosítékaira vonatkozó elveket,
+10. a kulturális, tudományos, világnézeti és vallási sokszínűség bemutatásának elveit,
 
-k) a magyar nemzet határon túl élő tagjai megfelelő tájékoztatásának, illetve a róluk való megfelelő tájékoztatás elveit,
+11. a kiskorúak védelmével kapcsolatos feladatok ellátásának elveit,
 
-l) a munkatársakra vonatkozó – e törvényen túli – alapvető etikai szabályok kialakításának elveit, különös tekintettel a hír- és politikai tájékoztató műsorszámokban foglalkoztatottakra.
+12. a kereskedelmi közlemények közzétételére, a reklámtevékenységre, a műsorszámok támogatására vonatkozó etikai normák elveit,
+
+13. a közérdekű közlemények közzétételének elveit,
+
+14. a közszolgálati médiaszolgáltatónál és a médiatartalom-szolgáltatónál alkalmazott munkatársak önállóságának és felelősségének mértékére és biztosítékaira, a műsorkészítés és a műsorszerkesztés elveinek meghatározásában való részvételük biztosítékaira vonatkozó elveket,
+
+15. a magyar nemzet határon túl élő tagjai megfelelő tájékoztatásának, illetve a róluk való megfelelő tájékoztatás elveit,
+
+16. a munkatársakra vonatkozó – e törvényen túli – alapvető etikai szabályok kialakításának elveit, különös tekintettel a hír- és politikai tájékoztató műsorszámokban foglalkoztatottakra.

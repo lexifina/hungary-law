@@ -18,7 +18,7 @@
 
 (7) Nem lehet megújítani a jogosultságot, ha
 
-a) a Médiatanács végleges határozatában megállapította, hogy a médiaszolgáltató a szerződést, az Smtv.-ben vagy az e törvényben foglalt rendelkezéseket ismételten vagy súlyosan megszegte, vagy
+a) a Médiatanács végleges határozatában megállapította, hogy a médiaszolgáltató a szerződést, az Smtv.-ben vagy az e törvényben foglalt rendelkezéseket súlyosan megszegte, vagy
 
 b) a kezdeményezés benyújtásakor, illetve elbírálásakor a médiaszolgáltató médiaszolgáltatási díjtartozással rendelkezik.
 

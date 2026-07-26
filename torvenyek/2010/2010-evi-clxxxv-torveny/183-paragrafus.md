@@ -20,7 +20,7 @@ i) kialakítja a médiaszolgáltatást érintő frekvenciagazdálkodás koncepci
 
 j) az Országgyűlés részére éves beszámolót készít a Médiatanács és a Hivatal tevékenységéről,
 
-k) kezeli az Alapot, elfogadja az Alap pénzügyi forrásaival kapcsolatos támogatáspolitikát, meghozza a támogatások elosztásával kapcsolatos döntéseket, elfogadja az Alap éves tervét, illetve beszámolóját, meghatározza és közzéteszi az Alap kezelése részletes szabályait,
+k) kezeli a Sajtóalapot, elfogadja az annak pénzügyi forrásaival kapcsolatos támogatáspolitikát, meghozza a támogatások elosztásával kapcsolatos döntéseket, elfogadja az Sajtóalap éves tervét, illetve beszámolóját, meghatározza és közzéteszi a Sajtóalap kezelése részletes szabályait,
 
 l) beszámolót készít az Európai Bizottság részére egyes műsorszerkezeti követelmények vonatkozásában,
 
@@ -37,5 +37,7 @@ q) összeállítja a társadalom számára kiemelten nagy jelentőséggel bíró
 r) kidolgozza a kiskorút szerepeltető olyan tudósításokra vonatkozó ajánlását, amelyek bűncselekményt vagy megalázó, kiszolgáltatott helyzetben lévő kiskorút mutatnak be,
 
 s) kidolgozza az Smtv. 20/A. § szerinti szabályzatra és hatékony megoldások követelményeire vonatkozó ajánlást.
+
+t) ellátja a médiapiaci összefonódásoknak tömegtájékoztatás szabadságáról szóló európai rendelet 22. cikke szerinti értékelését és az ehhez kapcsolódó, a 22. cikkben meghatározott jogalkalmazási feladatokat.
 
 (2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.

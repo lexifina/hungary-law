@@ -1,11 +1,19 @@
-## A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok
+## A közszolgálati médiaszolgáltatókra és médiatartalom-szolgáltatókra vonatkozó átmeneti szabályok
 
-212. § (1) Az Rttv. alapján megalkotott Közszolgálati Műsorszolgáltatási Szabályzatot annak megalkotója köteles összhangba hozni a Közszolgálati Kódexszel, vagy ennek hiányában köteles azt hatályon kívül helyezni.
+212. § (1) E § hatálybalépésével egyidejűleg a Közszolgálati Közalapítvány megszűnik; vagyona visszaszáll az államra, az Országgyűlés a Független Közszolgálati Testület alapító okiratát megállapító országgyűlési határozatban részletezett – korábban a Közszolgálati Közalapítvány vagyonát képező – állami tulajdonú vagyonelemekkel kapcsolatos jogok gyakorlásával és kötelezettségek teljesítésével – a (2)–(6) bekezdésben foglalt eltérésekkel – a Testületet hatalmazza fel.
 
-(1a) A Kódex rendelkezéseit 2015. szeptember 30-ig módosítani kell a közszolgálati médiaszolgáltatásra és a médiapiacra vonatkozó egyes törvények módosításáról szóló 2014. évi CVII. törvényben foglaltakkal összhangban. E módosításra a Kódex elfogadásának szabályait – 95. § (2) bekezdés – kell alkalmazni.
+(2) A megszűnő Közszolgálati Közalapítványt terhelő kötelezettségek teljesítéséért a Testület felel.
 
-(2) A Magyar Rádió Zrt., a Magyar Televízió Zrt. és a Magyar Távirati Iroda Zrt. megalapítása előtt a Magyar Televízióban, a Magyar Rádióban és a Magyar Távirati Irodában közalkalmazottként dolgozó, és azóta megszakítás nélkül ugyanazon közszolgálati médiaszolgáltatónál foglalkoztatott munkavállalóknak a Magyar Rádiónál, a Magyar Televíziónál és a Magyar Távirati Irodánál közalkalmazotti jogviszonyban töltött idejét úgy kell tekinteni, mintha azt a részvénytársaságnál töltötték volna el.
+(3) A Közszolgálati Közalapítvány megszűnésének időpontjáig keletkezett, de még el nem számolt bevételek és ráfordítások, valamint a folyamatban lévő pénzügyi teljesítések elszámolását a Testület végzi.
 
-(3) A (2) bekezdésben foglaltaktól eltérően a felmondási idő és a végkielégítés tekintetében a Magyar Rádió Rt.-nél, a Magyar Televízió Rt.-nél és a Magyar Távirati Iroda rt.-nél eltöltött munkaviszony időtartamát a közalkalmazotti jogviszonynak munkaviszonnyá történő átalakulásának napjától kell számítani. A felmondási idő és a végkielégítés mértékéhez a megelőző közalkalmazotti jogviszony időtartama alapján, a Kjt.-nek a jogviszony átalakulásának időpontjában irányadó szabályai szerint számított felmentési idő és végkielégítés mértékét hozzá kell számítani.
+(4) A Közszolgálati Közalapítvány által a megszűnés időpontját megelőzően kötött szerződésekből eredő jogok és kötelezettségek – külön jognyilatkozat nélkül – a Testületet illetik, illetve terhelik, az alanyváltozás a szerződések érvényességét és fennállását nem érinti.
 
-(4) A közalkalmazotti jogviszonyból származó és a jogviszony (2) bekezdés szerinti átalakulását megelőzően keletkezett igényre a Kjt.-nek az igény keletkezésekor hatályos rendelkezései, az igény érvényesítésének rendjére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezései az irányadók.
+(5) A Testület első gazdálkodási tervét e § hatálybalépésétől számított 60 napon belül fogadja el.
+
+(6) E § hatálybalépésétől a Testület számláját az Államkincstár vezeti, a megszűnő Közszolgálati Közalapítvány pénzforgalmi számláin lévő pénzeszközöket a megszűnés napját követő 15 napon belül a Testület számlájára kell átutalni.
+
+(7) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét a 4. számú melléklet határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig az Országgyűlés által elfogadott költségvetésük alapján 2027. január 1-jétől közvetlenül a Testület, a Magyar Rádió és Televízió Nonprofit Zrt. és az MTI Nonprofit Zrt. Államkincstárnál vezetett számlájára fizeti meg.
+
+(8) A 2026. évben a Testület működésének a forrása az NMHH 2026. évi egységes költségvetését megállapító, a Nemzeti Média- és Hírközlési Hatóság 2026. évi egységes költségvetéséről szóló 2025. évi CXV. törvénynek az MTVA költségvetését tartalmazó 4. mellékletében a Közszolgálati Közalapítvány előirányzat címen meghatározott összeg, amelynek még fel nem használt részét a Testületet létrehozó országgyűlési határozat elfogadását követő 15 napon belül a Testület számlájára át kell utalni.
+
+(9) A Nemzeti Média- és Hírközlési Hatóság 2026. évi egységes költségvetéséről szóló 2025. évi CXV. törvényt az e § hatálybalépését követő 60 napon belül módosítani szükséges.

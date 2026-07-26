@@ -14,9 +14,9 @@ e) a minősített adat védelméről szóló törvény rendelkezései alapján d
 
 (2) Az Elnök további feladatai:
 
-a) amennyiben megválasztják a Médiatanács elnökévé, összehívja és vezeti a Médiatanács üléseit,
+a) összehívja és vezeti a Médiatanács üléseit,
 
-b) amennyiben megválasztják a Médiatanács elnökévé, intézkedik a Médiatanács üléseinek előkészítéséről,
+b) intézkedik a Médiatanács üléseinek előkészítéséről,
 
 c) kinevezi az elnökhelyetteseket, és gyakorolja felettük a munkáltatói jogokat, ideértve a felmentést, illetve a visszahívást is,
 

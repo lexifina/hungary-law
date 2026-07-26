@@ -1,6 +1,6 @@
-108/B. § (1) A közszolgálati médiaszolgáltatási, valamint a közszolgálati médiaszolgáltató hírügynökségi tevékenységében való részvételre irányuló munkaköröket külön jogszabály határozza meg.
+108/B. § (1) A közszolgálati médiaszolgáltató és a közszolgálati médiatartalom-szolgáltató tevékenységében való részvételre irányuló munkaköröket jogszabály határozza meg.
 
-(2) Az (1) bekezdésben meghatározott jogszabály által érintett munkakörben foglalkoztatott személyt kötetlen munkarend szerint kerül foglalkoztatásra. A munkarend jellegét nem érinti a munkakör sajátos jellegéből adódó kötelező rendelkezésre állás vagy a munkáltató által meghatározott időpontban vagy időszakban történő munkavégzés.
+(2) Az (1) bekezdésben meghatározott jogszabály által érintett munkakörben foglalkoztatott személy kötetlen munkarend szerint kerül foglalkoztatásra. A munkarend jellegét nem érinti a munkakör sajátos jellegéből adódó kötelező rendelkezésre állás vagy a munkáltató által meghatározott időpontban vagy időszakban történő munkavégzés.
 
 (3) A (2) bekezdésben meghatározott kötetlen munkarend alkalmazásától a felek munkaszerződésben térhetnek el, a jövőre nézve irányadó megállapodásukkal.
 
