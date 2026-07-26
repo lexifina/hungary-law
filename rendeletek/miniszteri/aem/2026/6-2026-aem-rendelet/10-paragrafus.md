@@ -1,3 +1,3 @@
-10. § A 47/2025. (XI. 11.) AM rendelet 4. §-a a következő d) ponttal egészül ki:
+10. §[^11]
 
-(A kamattámogatás igénybevételére az az élelmiszeripari vállalkozás jogosult, amely)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

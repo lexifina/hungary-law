@@ -10,10 +10,6 @@
 
 ## 1. A termésbecslésről, állapotminősítésről, valamint a mezőgazdasági munkák állásáról szóló jelentéssel kapcsolatos adatszolgáltatásról szóló 5/2018. (II. 23.) FM rendelet módosítása
 
-1. § A termésbecslésről, állapotminősítésről, valamint a mezőgazdasági munkák állásáról szóló jelentéssel kapcsolatos adatszolgáltatásról szóló 5/2018. (II. 23.) FM rendelet [a továbbiakban: 5/2018. (II. 23.) FM rendelet] 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A jelentés elkészítése érdekében a Magyar Államkincstár az egységes kérelem benyújtására nyitva álló időszak utolsó napját követően, a külön megállapodásban rögzített ütemterv szerint, a tárgyévben átadja
-
-a) az egységes kérelmek – egyedi azonosításra alkalmas – adatait az AKI Nonprofit Kft. részére,
-
-b) az egységes kérelemben igényelt – egyedi azonosításra nem alkalmas – területi adatokat település, egységes kérelemben megjelölt növénykultúra és hektár szerinti bontásban a NAK részére.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
