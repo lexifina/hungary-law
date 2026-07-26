@@ -1,3 +1,3 @@
-24. §[^21]
+24. §[^24]
 
-[^21]: A 24. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+[^24]: A 24. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.

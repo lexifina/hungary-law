@@ -1,3 +1,3 @@
-17. §[^14]
+17. §[^17]
 
-[^14]: A 17. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+[^17]: A 17. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.

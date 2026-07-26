@@ -1,3 +1,3 @@
-25. §[^22]
+25. §[^25]
 
-[^22]: A 25. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+[^25]: A 25. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
