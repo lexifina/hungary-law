@@ -1,3 +1,3 @@
-6. § A Korm. rendelet „4. Záró rendelkezések” alcíme a következő 15/A. §-sal egészül ki:
+6. §[^7]
 
-„15/A. § Ez a rendelet az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és tanácsi irányelv 7. cikkének és IV. mellékletének való megfelelést szolgálja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
