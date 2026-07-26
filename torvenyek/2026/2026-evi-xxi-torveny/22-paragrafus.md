@@ -1,1 +1,1 @@
-### 22. §
+22. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény „A közszolgálati médiaszolgáltatás rendszerében dolgozókra vonatkozó speciális munkajogi szabályok” alcím címe helyébe a következő rendelkezés lép:

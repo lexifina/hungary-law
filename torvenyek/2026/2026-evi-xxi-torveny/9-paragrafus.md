@@ -1,1 +1,1 @@
-### 9. §
+9. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény „A közszolgálati médiavagyon és a közszolgálati médiaszolgáltató archívuma” alcím címe helyébe a következő rendelkezés lép:
