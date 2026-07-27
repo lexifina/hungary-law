@@ -1,8 +1,8 @@
-## 25. §[^101] A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre történő és a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és annak ismertetésére.
+## 25. §[^102] A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre történő és a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és annak ismertetésére.
 
 ## Árusítás, szállítás, tárolás, raktározás
 
-26. § (1)[^102] Növényvédő szereket – a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szerek kivételével – tilos élelmiszerekkel és takarmányozás célját szolgáló anyagokkal, valamint gyógyszerekkel és gyógyászati célú anyagokkal, eszközökkel egy légtérben árusítani, tárolni, valamint szállítani.
+26. § (1)[^103] Növényvédő szereket – a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szerek kivételével – tilos élelmiszerekkel és takarmányozás célját szolgáló anyagokkal, valamint gyógyszerekkel és gyógyászati célú anyagokkal, eszközökkel egy légtérben árusítani, tárolni, valamint szállítani.
 
 (2) Növényvédő szer kizárólag eredeti csomagolásban forgalmazható. Növényvédő szer kiméréssel nem árusítható. A kiskereskedő köteles biztosítani a vásárolt áru további védőcsomagolását.
 
@@ -10,8 +10,8 @@
 
 (4) Az árusító helyen, az árusítás ideje alatt a növényvédő szer felhasználás előírásairól, a kötelező tájékoztatáson túl, a vevőt igény szerint tájékoztatni kell.
 
-(5)[^103]
+(5)[^104]
 
-[^101]: A 25. § a 84/2015. (XII. 17.) FM rendelet 9. §-ával megállapított szöveg.
-[^102]: A 26. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 10. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § k) pontja szerint módosított szöveg.
-[^103]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^102]: A 25. § a 84/2015. (XII. 17.) FM rendelet 9. §-ával megállapított szöveg.
+[^103]: A 26. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 10. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § k) pontja szerint módosított szöveg.
+[^104]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
