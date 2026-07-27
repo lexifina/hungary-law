@@ -1,10 +1,10 @@
-## 28. §[^135] Az EPPO tagországokon kívüli területekről származó bármely vetőmag és lágyszárú dísznövény, valamint bármely országból származó gyümölcs, szőlő szaporító- és ültetvényanyag esetében az importőr vagy a termeltető felhasználás vagy forgalmazás előtt köteles a járási hivatalt az import szaporító- és ültetvényanyag mennyiségéről, fajáról, fajtájáról, származási, telepítési, illetve forgalmazási helyéről tájékoztatni.
+## 28. §[^140] Az EPPO tagországokon kívüli területekről származó bármely vetőmag és lágyszárú dísznövény, valamint bármely országból származó gyümölcs, szőlő szaporító- és ültetvényanyag esetében az importőr vagy a termeltető felhasználás vagy forgalmazás előtt köteles a járási hivatalt az import szaporító- és ültetvényanyag mennyiségéről, fajáról, fajtájáról, származási, telepítési, illetve forgalmazási helyéről tájékoztatni.
 
 29. § (1) Az ellenőrzésköteles szaporító- és ültetvényanyagot előállító termelő a felhasznált szaporítási alapanyag fertőzésmentességét és származását a növényegészségügyi ellenőrzés során igazolni köteles.
 
 (2) Az ellenőrzésköteles növényi szaporító- és ültetvényanyagot tilos növényegészségügyi ellenőrzés nélkül forgalomba hozni.
 
-(3)[^136] Ha az ellenőrzésköteles szaporító- és ültetvényanyagot növényegészségügyi igazolás nélkül hozták forgalomba, arra a járási hivatal forgalomba hozatali korlátozást rendel el, és rendelkezik annak megsemmisítéséről.
+(3)[^141] Ha az ellenőrzésköteles szaporító- és ültetvényanyagot növényegészségügyi igazolás nélkül hozták forgalomba, arra a járási hivatal forgalomba hozatali korlátozást rendel el, és rendelkezik annak megsemmisítéséről.
 
-[^135]: A 28. § a 42/2017. (VIII. 17.) FM rendelet 26. § d) pontja szerint módosított szöveg.
-[^136]: A 29. § (3) bekezdése a 37/2003. (IV. 4.) FVM rendelet 21. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
+[^140]: A 28. § a 42/2017. (VIII. 17.) FM rendelet 26. § d) pontja szerint módosított szöveg.
+[^141]: A 29. § (3) bekezdése a 37/2003. (IV. 4.) FVM rendelet 21. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.

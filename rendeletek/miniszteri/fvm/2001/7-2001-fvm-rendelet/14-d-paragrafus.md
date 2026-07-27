@@ -1,17 +1,17 @@
-## Károsítómentes terület[^86]
+## Károsítómentes terület[^87]
 
-14/D. §[^87] (1)[^88] Károsítómentes területet a NÉBIH jelöl ki hivatalból vagy a járási hivatalnál előterjesztett kérelem alapján, ha a terület megfelel a 25. számú mellékletében foglalt előírásoknak. A NÉBIH a károsítómentes területekről hatósági nyilvántartást vezet, a kérelemre történő kijelölésről határozatot hoz.
+14/D. §[^88] (1)[^89] Károsítómentes területet a NÉBIH jelöl ki hivatalból vagy a járási hivatalnál előterjesztett kérelem alapján, ha a terület megfelel a 25. számú mellékletében foglalt előírásoknak. A NÉBIH a károsítómentes területekről hatósági nyilvántartást vezet, a kérelemre történő kijelölésről határozatot hoz.
 
 (2) A hatósági nyilvántartás tartalmazza a károsítómentes terület azonosító adatait, továbbá a 25. számú mellékletben foglalt előírásokon felül – a kijelölő határozatban előírt – kötelező, egyedi, a károsítómentes terület fenntartásával kapcsolatos növényegészségügyi intézkedéseket és a károsító esetleges megjelenésekor alkalmazandó egységes növényegészségügyi előírásokat.
 
-(3)[^89] A károsítómentes területen az adott károsító megjelenését vagy annak gyanúját a termelő haladéktalanul köteles a járási hivatalnak jelenteni. A járási hivatal erről három munkanapon belül a NÉBIH-et értesíti.
+(3)[^90] A károsítómentes területen az adott károsító megjelenését vagy annak gyanúját a termelő haladéktalanul köteles a járási hivatalnak jelenteni. A járási hivatal erről három munkanapon belül a NÉBIH-et értesíti.
 
-(4)[^90] Amennyiben a károsítómentes terület növényegészségügyi állapota megváltozik, a NÉBIH a járási hivatal bejelentése alapján az adott károsítómentes területet a hatósági nyilvántartásból törölheti vagy az arra vonatkozó – a kijelölő határozatban foglalt – előírásokat módosíthatja.
+(4)[^91] Amennyiben a károsítómentes terület növényegészségügyi állapota megváltozik, a NÉBIH a járási hivatal bejelentése alapján az adott károsítómentes területet a hatósági nyilvántartásból törölheti vagy az arra vonatkozó – a kijelölő határozatban foglalt – előírásokat módosíthatja.
 
 (5) Az ügyfél kérelmére nyilvántartásba vett károsítómentes terület kijelölésével és fenntartásával kapcsolatos költségeket az ügyfél viseli.
 
-[^86]: A 14/D. §-t megelőző alcímet a 16/2006. (II. 24.) FVM rendelet 3. §-a iktatta be.
-[^87]: A 14/D. §-t a 16/2006. (II. 24.) FVM rendelet 3. §-a iktatta be.
-[^88]: A 14/D. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) és d) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § h) pontja szerint módosított szöveg.
-[^89]: A 14/D. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés f) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § b) és e) pontja szerint módosított szöveg.
-[^90]: A 14/D. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
+[^87]: A 14/D. §-t megelőző alcímet a 16/2006. (II. 24.) FVM rendelet 3. §-a iktatta be.
+[^88]: A 14/D. §-t a 16/2006. (II. 24.) FVM rendelet 3. §-a iktatta be.
+[^89]: A 14/D. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) és d) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § h) pontja szerint módosított szöveg.
+[^90]: A 14/D. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés f) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § b) és e) pontja szerint módosított szöveg.
+[^91]: A 14/D. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.

@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2019-10-27 | 2001-7-20-82.47 | 37/2003. (IV. 4.) FVM rendelet |
 | 2022-03-03 | 2001-7-20-82.48 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2001-7-20-82.49 | 61/2022. (XII. 27.) AM rendelet |
+| 2026-07-27 | 2001-7-20-82.50 | 8/2026. (VII. 24.) AÉM rendelet |
