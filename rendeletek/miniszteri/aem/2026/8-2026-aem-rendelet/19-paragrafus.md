@@ -1,3 +1,3 @@
-19. §[^19]
+19. § A 9/2016. (II. 15.) FM rendelet 8/A. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^19]: A 19. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+„(3) Ha a szőlőtermelő helyett és nevében meghatalmazottja jár el, a meghatalmazott az elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárás tekintetében a Kincstár vonatkozó közleményében foglaltakat kell alkalmazni.”

@@ -18,6 +18,6 @@
 
 ## 1. A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet módosítása
 
-1. §[^1]
+1. § A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet] 1. §-a a következő 19a. ponttal egészül ki:
 
-[^1]: Az 1. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+(E rendelet alkalmazásában:)

@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+5. § A 7/2001. (I. 17.) FVM rendelet 7. számú melléklete az 1. melléklet szerint módosul.

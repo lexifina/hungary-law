@@ -1,3 +1,3 @@
-26. §[^26]
+26. § A 152/2023. (XII. 21.) AM rendelet 14. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^26]: A 26. § a 28. § (2) bekezdése alapján 2026. július 27-én lép hatályba.
+„(3a) A növény-egészségügyi okból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése beavatkozástípus keretében a kérelmet 50 pontban kell részesíteni.”
