@@ -38,11 +38,12 @@ végrehajtott intézkedés során a tőszámnöveléssel telepített és a póto
 
 (5) A támogatási intézkedés keretében a Btv. alapján osztályba sorolt szőlőfajtán kívül a Nemzeti Élelmiszerlánc-biztonsági Hivatal által a Bkr. alapján vizsgálati engedéllyel termesztési alkalmassági vizsgálatba vont szőlőfajta is felhasználható.
 
-(6) A kiválasztási szempontrendszert az 5. melléklet tartalmazza.
+(6)[^11] A kiválasztási szempontrendszert az 5. melléklet tartalmazza. Az 5. mellékletet nem kell alkalmazni a 2. § c) pontja szerinti, növény-egészségügyi okból hatóság által elrendelt kötelező kivágást követő újratelepítés esetén.
 
-(7)[^11] A 2. § c) pontja szerinti újratelepítésre ugyanazon a földterületen támogatás akkor igényelhető, ha a kérelmező igazolja, hogy a növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást a kivágást elrendelő hatósági döntés szerint végrehajtotta. Nem igényelhető támogatás a Btv. 5. § (3) és (4) bekezdése alapján a szőlőültetvény rendeltetésszerű művelésének elmaradása miatt a hatóság által elrendelt kivágás alapján történő újratelepítés szándéka esetén.
+(7)[^12] A 2. § c) pontja szerinti újratelepítésre ugyanazon a földterületen támogatás akkor igényelhető, ha a kérelmező igazolja, hogy a növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást a kivágást elrendelő hatósági döntés szerint végrehajtotta. Kötelező várakozási idő a Grapevine Flavescence Dorée Phytoplasma fertőzés vonatkozásában nincs, minden más esetben a növény-egészségügyi okból történő kivágást elrendelő határozatban foglaltak szerint kell eljárni. Nem igényelhető támogatás a Btv. 5. § (3) és (4) bekezdése alapján a szőlőültetvény rendeltetésszerű művelésének elmaradása miatt a hatóság által elrendelt kivágás alapján történő újratelepítés szándéka esetén.
 
 [^8]: A 10. § (1) bekezdés nyitó szövegrésze az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés b) pontja szerint módosított szöveg.
 [^9]: A 10. § (1) bekezdés b) pontját az 1/2025. (II. 11.) AM rendelet 19. § a) pontja hatályon kívül helyezte.
 [^10]: A 10. § (1a) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (4) bekezdése iktatta be.
-[^11]: A 10. § (7) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (5) bekezdése iktatta be, szövege az 5/2026. (II. 19.) AM rendelet 5. §-a szerint módosított szöveg.
+[^11]: A 10. § (6) bekezdése a 8/2026. (VII. 24.) AÉM rendelet 24. §-ával megállapított szöveg.
+[^12]: A 10. § (7) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (5) bekezdése iktatta be, szövege a 8/2026. (VII. 24.) AÉM rendelet 24. §-ával megállapított szöveg.
