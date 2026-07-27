@@ -36,7 +36,7 @@
 
 ## 14. Az Országgyűlés meghatalmazza az Országgyűlés Hivatalának főigazgatóját, hogy járjon el a Közalapítvány bírósági nyilvántartásban szereplő adatainak törlése érdekében. Az Országgyűlés megállapítja, hogy a Testület megalakulása előtti átmeneti időben a Testület és Irodája Áht. szerinti irányító szerve önmaga az Iroda. Az Iroda vezetője jogosult a Nemzeti Adó- és Vámhivatalnál és a Magyar Államkincstárnál eljárni az adószám, a törzskönyvi nyilvántartásba vétel iránti kérelem és az államkincstári számla nyitása ügyében. A Testület megalakulását követően az irányító szerv a Testület.
 
-## 15. Hatályát veszti a Közszolgálati Közalapítvány felállításáról szóló 80/2010. (IX. 15.) OGY határozat.
+## 15.[^2]
 
 1. melléklet a 40/2026. (VII. 21.) OGY határozathoz
 
@@ -280,7 +280,7 @@ Adatok forintban
 
 | 1 | Tulajdoni részesedést jelentő befektetés | 717 701 000 | 717 701 000 |
 
-|  | DMSZ Nonprofit Zrt. Alapítói vagyont megtestesítő forgalomba nem hozható részvény[^2] | 717 701 000 | 717 701 000 |
+|  | DMSZ Nonprofit Zrt. Alapítói vagyont megtestesítő forgalomba nem hozható részvény[^3] | 717 701 000 | 717 701 000 |
 
 | B. | Forgóeszközök | 325 389 211 | 310 280 610 |
 
@@ -302,4 +302,5 @@ Adatok forintban
 
 |  | ESZKÖZÖK | 1 059 246 975 | 1 044 010 874 |
 
-[^2]: A Független Közmédia Testület a DMSZ-nek nem tulajdonosa, de a tulajdonosi jogokat gyakorolja, és a DMSZ értéke az MTVA beolvadása után várhatóan többszöröse lesz a KSZKA által biztosított DMSZ részvénynek.
+[^2]: A 15. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A Független Közmédia Testület a DMSZ-nek nem tulajdonosa, de a tulajdonosi jogokat gyakorolja, és a DMSZ értéke az MTVA beolvadása után várhatóan többszöröse lesz a KSZKA által biztosított DMSZ részvénynek.
