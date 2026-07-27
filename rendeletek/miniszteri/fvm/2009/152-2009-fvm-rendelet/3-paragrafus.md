@@ -1,6 +1,6 @@
-## 3. §[^64] Ez a rendelet
+## 3. §[^70] Ez a rendelet
 
-1. a vinilklorid monomert tartalmazó és élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokra és tárgyakra vonatkozó tagállami jogszabályok közelítéséről szóló, 1978. január 30-i 78/142/EGK tanácsi irányelvnek;
+1.[^71]
 
 2. az emberi fogyasztásra szánt egyes cukorfajták vizsgálatára szolgáló közösségi vizsgálati módszerek megállapításáról szóló, 1979. július 26-i 79/796/EGK bizottsági első irányelvnek;
 
@@ -40,12 +40,13 @@
 
 20. az emberi fogyasztásra szánt kazeinekre és kazeinátokra vonatkozó tagállami jogszabályok közelítéséről és a 83/417/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2203 európai parlamenti és tanácsi irányelvnek
 
-21.[^65] a 2009/32/EK európai parlamenti és tanácsi irányelvnek a 2-metiloxolán tekintetében történő módosításáról szóló, 2023. január 26-i (EU) 2023/175 bizottsági irányelvnek
+21.[^72] a 2009/32/EK európai parlamenti és tanácsi irányelvnek a 2-metiloxolán tekintetében történő módosításáról szóló, 2023. január 26-i (EU) 2023/175 bizottsági irányelvnek
 
-22.[^66] a mézről szóló 2001/110/EK tanácsi irányelv, a gyümölcslevekről és egyes hasonló, emberi fogyasztásra szánt termékekről szóló 2001/112/EK tanácsi irányelv, az emberi fogyasztásra szánt gyümölcsdzsemekről, zselékről, marmeládokról és a cukrozott gesztenyekrémről szóló 2001/113/EK tanácsi irányelv, valamint az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló 2001/114/EK tanácsi irányelv módosításáról szóló, 2024. május 14-i (EU) 2024/1438 európai parlamenti és tanácsi irányelvnek
+22.[^73] a mézről szóló 2001/110/EK tanácsi irányelv, a gyümölcslevekről és egyes hasonló, emberi fogyasztásra szánt termékekről szóló 2001/112/EK tanácsi irányelv, az emberi fogyasztásra szánt gyümölcsdzsemekről, zselékről, marmeládokról és a cukrozott gesztenyekrémről szóló 2001/113/EK tanácsi irányelv, valamint az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló 2001/114/EK tanácsi irányelv módosításáról szóló, 2024. május 14-i (EU) 2024/1438 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^64]: A 3. § a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
-[^65]: A 3. § 21. pontját a 43/2024. (VIII. 29.) AM rendelet 1. §-a iktatta be.
-[^66]: A 3. § 22. pontját az 51/2025. (XII. 16.) AM rendelet 2. §-a iktatta be.
+[^70]: A 3. § a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^71]: A 3. § 1. pontját a 9/2026. (VII. 24.) AÉM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^72]: A 3. § 21. pontját a 43/2024. (VIII. 29.) AM rendelet 1. §-a iktatta be.
+[^73]: A 3. § 22. pontját az 51/2025. (XII. 16.) AM rendelet 2. §-a iktatta be.

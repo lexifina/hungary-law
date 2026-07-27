@@ -414,6 +414,6 @@
 
 ## 2. Az A oszlop 3., 4., 9., 11., 14. és 15. soraiban említett olyan termékek esetében, amelyeket püréként állítanak elő, csak minimális korrigálatlan – savtartalomtól függő korrekció nélküli – Brix-érték kerül meghatározásra.
 
-12. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^92]
+12. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^100]
 
-[^92]: A 12. melléklet a 26/2025. (VI. 19.) AM rendelet 3. §-ával megállapított szöveg.
+[^100]: A 12. melléklet a 26/2025. (VI. 19.) AM rendelet 3. §-ával megállapított szöveg.

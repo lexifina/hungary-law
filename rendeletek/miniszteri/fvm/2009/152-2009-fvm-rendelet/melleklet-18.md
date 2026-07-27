@@ -110,7 +110,7 @@
 
 ## d) a hőmérsékletet akkor kell leolvasni, ha az már nem változik.
 
-18. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^107]
+18. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^115]
 
 A Magyar Élelmiszerkönyv 1-3-1999/4 számú előírása a kávéról, pótkávéról és azok keverékeiről, a kávé- és cikóriakivonatokról, valamint egyéb kávé- és pótkávékészítményekről
 
@@ -568,52 +568,4 @@ kifejezéssel.
 
 5.1.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.5.2.
 
-5.1.2. A kávéspecialitás olyan azonnal oldódó kávét tartalmazó azonnal oldódó italpor édesítőszerrel vagy anélkül, amelyből a megadott módon jellegzetes illatú, ízű és állagú tejeskávéital készíthető. Egyadagos vagy automatákhoz nagyfogyasztói egységekbe kiszerelve kerül forgalomba.
-
-5.2. Felhasználható összetevők:
-
-5.2.1. tejalapú alapanyagok,
-
-5.2.2. cukrok,
-
-5.2.3. azonnal oldódó kávé,
-
-5.2.4. növényi zsír,
-
-5.2.5. konyhasó,
-
-5.2.6. ivóvíz,
-
-5.2.7. pörkölt kávé őrlemény,
-
-5.2.8. csokoládépor,
-
-5.2.9. kakaópor,
-
-5.2.10. ízesítőanyag.
-
-5.3. Minőségi követelmények
-
-5.3.1. Fizikai, kémiai jellemzők
-
-5.3.1.1. Nedvességtartalom: legfeljebb 5 tömegszázalék.
-
-5.3.1.2. Azonnal oldódó kávé tartalom: legalább 5 tömegszázalék, amelyből származó koffeintartalom legalább 0,1 tömegszázalék, szárazanyagra vonatkoztatva, kivéve a koffeinmentes azonnal oldódó kávéporokat.
-
-5.3.2. Érzékszervi jellemzők
-
-5.3.2.1. A megadott módon elkészítve a termék jellegének megfelelő ízű, illatú és állagú ital.
-
-5.3.2.2. A cappuccino megnevezésű termék állaga habos.
-
-5.4. Jelölés
-
-5.4.1. Megnevezés
-
-5.4.1.1. A megnevezés lehet „azonnal oldódó kávéitalpor”, „azonnal oldódó tejeskávépor” vagy „azonnal oldódó kávéspecialitás”.
-
-5.4.1.2. A habos italt adó termék megnevezésére használni lehet a „Cappuccino” szót. Az „instant” szó használata, valamint a megnevezés részeként fantázianév használata megengedett.
-
-5.4.1.3. Az ízesített termék esetében az ízesítésre utalni kell a megnevezéssel azonos látómezőben.
-
-[^107]: A 18. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 6/2026. (II. 26.) AM rendelet 3. §-ával megállapított szöveg.
+[^115]: A 18. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 6/2026. (II. 26.) AM rendelet 3. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 ## 2. Az előírásban szereplő tejtermék megnevezések a forgalomba hozott termékek esetén kizárólag akkor használhatók, ha a termékek megfelelnek ezen előírásban foglalt követelményeknek.
 
-## 3.[^94] Az előírás nem alkalmazandó az (EU) 2024/1143 európai parlamenti és tanácsi rendelet alapján oltalom alatt álló földrajzi árujelzővel ellátott vagy hagyományos különleges termékként bejegyzett tejtermékekre.
+## 3.[^102] Az előírás nem alkalmazandó az (EU) 2024/1143 európai parlamenti és tanácsi rendelet alapján oltalom alatt álló földrajzi árujelzővel ellátott vagy hagyományos különleges termékként bejegyzett tejtermékekre.
 
 ## 4. Az ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelnie azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
 
@@ -44,7 +44,7 @@
 
 ## 12.1. pasztőrözés:
 
-## 12.1.1.[^95] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
+## 12.1.1.[^103] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
 
 ## 12.1.2. pillanathevítés: olyan hőkezelés, amely során a tejet, tejszínt vagy a tejterméket 100 °C alatti hőmérsékleten olyan hőmérséklet-idő kombinációval kezelik, amely eredményeként a hőkezelés után az alkalikus-foszfatáz- és a peroxidáz-próba egyaránt negatív;
 
@@ -54,7 +54,7 @@
 
 ## 13. Író: köpüléskor a zsír kiválása után a tejfölből, tejszínből visszamaradó folyékony termék.
 
-## 14.[^96] Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák (például növényi kivonatok), amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
+## 14.[^104] Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák (például növényi kivonatok), amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
 
 ## 15. Kéregflóra: a sajt kiszáradt felületén, a kérgén megtelepedő, emberi egészségre ártalmatlan mikroorganizmusok összessége.
 
@@ -110,7 +110,7 @@
 
 ## 39. Vízmentes tejzsír: legalább 99,8% tejzsírt és legfeljebb 0,1% vizet tartalmazó termék.
 
-## III.[^97]
+## III.[^105]
 
 ## 1. Ízesített termék esetén az ízesítőanyag mennyiségének – ahol nincs erre vonatkozó előírás – a termék jellegzetességét biztosító arányúnak kell lennie.
 
@@ -170,7 +170,7 @@
 
 ## 1.1.1. Ízesített tejkészítmények
 
-## 1.1.1.1.[^98] Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4.
+## 1.1.1.1.[^106] Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4.
 
 ## 1.1.1.2. Ízesített tejkészítmény a tejből ízesítőanyagok, továbbá színezékek és egyéb élelmiszer-adalékanyagok hozzáadásával előállított termék. A késztermékben a tejhányad legalább 70% (m/m), az állomány folyékony, zselírozott vagy szilárd.
 
@@ -180,7 +180,7 @@
 
 ## 1.1.2.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4
 
-## 1.1.2.2.[^99] Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
+## 1.1.2.2.[^107] Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
 
 ## 1.1.3. Savó-, író- és permeátumalapú italok
 
@@ -250,7 +250,7 @@
 
 ## 1.4.2.1. A termék 1.3. pont szerinti zsírfokozatát fel kell tüntetni. Homogénezés esetén utalni kell a műveletre.
 
-## 2.[^100] SAVANYÚ TEJTERMÉKEK
+## 2.[^108] SAVANYÚ TEJTERMÉKEK
 
 ## 2.1. A termékcsoport meghatározása: a termékcsoportba a megfelelően előkészített, hőkezelt tejből és szükség szerinti mennyiségben a 2.2. alpontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek hozzáadásával, savanyítással és alvasztással készült termékek tartoznak. Savanyú tejkészítménynek minősül a 10%-nál (m/m) kisebb zsírtartalmú termék, savanyú tejszínkészítménynek minősül a legalább 10% (m/m) és azt meghaladó zsírtartalmú termék.
 
@@ -596,7 +596,7 @@
 
 ## A penésszel, rúzsflórával és sólében érlelt sajtok esetén utalni kell erre a sajátosságra.
 
-## 4.5.[^101] Trappista sajt
+## 4.5.[^109] Trappista sajt
 
 ## 4.5.1. A termék meghatározása
 
@@ -1186,16 +1186,16 @@
 
 | 32. | MSZ ISO 22935-3 Tej és tejtermékek. Érzékszervi vizsgálat. 3. rész: Útmutató a termékleírásban szereplő érzékszervi tulajdonságoknak való megfelelés pontozásos értékelési módszerére |
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^102]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^110]
 
 A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
-[^94]: A 13. melléklet A rész I. fejezet 3. pontja a 26/2025. (VI. 19.) AM rendelet 4. §-a szerint módosított szöveg.
-[^95]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
-[^96]: A 13. melléklet A rész II. fejezet 14. pontja a 11/2025. (IV. 22.) AM rendelet 4. § e) pontja és az 5. § b) pontja szerint módosított szöveg.
-[^97]: A 13. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 3. §-ával megállapított szöveg.
-[^98]: A 13. melléklet B rész 1. pont 1.1.1.1. alpontja a 60/2025. (XII. 29.) AM rendelet 4. §-a szerint módosított szöveg.
-[^99]: A 13. melléklet B rész 1.1.2.2. pontja a 11/2025. (IV. 22.) AM rendelet 5. § c) pontja szerint módosított szöveg.
-[^100]: A 13. melléklet B rész 2. pontja a 60/2025. (XII. 29.) AM rendelet 3. §-ával megállapított szöveg.
-[^101]: A 13. melléklet B rész 4. pont 4.5. alpontját a 43/2025. (X. 2.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^102]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^102]: A 13. melléklet A rész I. fejezet 3. pontja a 26/2025. (VI. 19.) AM rendelet 4. §-a szerint módosított szöveg.
+[^103]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^104]: A 13. melléklet A rész II. fejezet 14. pontja a 11/2025. (IV. 22.) AM rendelet 4. § e) pontja és az 5. § b) pontja szerint módosított szöveg.
+[^105]: A 13. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 3. §-ával megállapított szöveg.
+[^106]: A 13. melléklet B rész 1. pont 1.1.1.1. alpontja a 60/2025. (XII. 29.) AM rendelet 4. §-a szerint módosított szöveg.
+[^107]: A 13. melléklet B rész 1.1.2.2. pontja a 11/2025. (IV. 22.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^108]: A 13. melléklet B rész 2. pontja a 60/2025. (XII. 29.) AM rendelet 3. §-ával megállapított szöveg.
+[^109]: A 13. melléklet B rész 4. pont 4.5. alpontját a 43/2025. (X. 2.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^110]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
