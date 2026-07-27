@@ -1,50 +1,58 @@
-## 5. [^27] A támogatási kérelem benyújtása
+## 5. [^31] A támogatási kérelem benyújtása
 
-6. § (1)[^28] A növényegészségügyi megelőzés támogatása igénybevételéhez a szőlőtermelő az (1a) bekezdésben foglalt adatot tartalmazó kérelmet, az igénylésre felhatalmazott termelői szerveződés az (1b) bekezdésben foglalt adatot tartalmazó kérelmet tárgyév március 1. és március 31. között nyújthatja be elektronikus úton. A kérelem benyújtására – a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési törvény) foglaltaknak megfelelően – a Magyar Államkincstárhoz (a továbbiakban: Kincstár) az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint kerülhet sor.
+6. §[^32] (1) A támogatás igénybevételéhez a szőlőtermelő és az igénylésre felhatalmazott termelői szerveződés a (3) bekezdésben foglalt adatokat tartalmazó támogatási kérelmet tárgyév november 15. és december 15. között nyújthatja be. A támogatási kérelem egyben kifizetési kérelemnek is minősül.
 
-(1a)[^29] A szőlőtermelő növényegészségügyi megelőzés támogatása igénybevételére irányuló, (1) bekezdés szerinti kérelme – a szőlőtermelő azonosító adatain túl – az alábbi adatokat tartalmazza:
+(2) A támogatási kérelem a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus azonosítást követően az erre a célra biztosított elektronikus felületen (a továbbiakban: elektronikus felület) keresztül nyújtható be a Magyar Államkincstárhoz (a továbbiakban: Kincstár), a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-a) üzemméret (a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás);
+(3) A támogatás igénybevételéhez a szőlőtermelő és az igénylésre felhatalmazott termelői szerveződés kérelme a következő adatokat tartalmazza:
 
-b) a szőlőültetvény adatai:
+a) a szőlőtermelő azonosító adatait, igénylésre felhatalmazott termelői szerveződés esetén a termelői szerveződésben tagsággal rendelkező szőlőtermelő azonosító adatait;
 
-ba) településnév,
+b) az üzemméret megnevezését, a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás kategória alapján;
 
-bb) szőlőültetvény hasznosítása (borszőlő; csemegeszőlő; kísérleti szőlő; prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag);
-
-c) a vissza nem térítendő támogatás összege és mértéke.
-
-(1b)[^30] A növényegészségügyi megelőzés támogatása igénybevételéhez az igénylésre felhatalmazott termelői szerveződés kérelme az alábbi adatokat tartalmazza:
-
-a) a termelői szerveződésben tagsággal rendelkező szőlőtermelő adatai;
-
-b) üzemméret (a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás);
-
-c) a szőlőültetvény adatai:
+c) a szőlőültetvény – borszőlő és a szőlő szaporítóanyag esetén a hegybíró által kiállított igazolás alapján megadott – következő adatait:
 
 ca) településnév,
 
-cb) szőlőültetvény hasznosítása (borszőlő; csemegeszőlő; kísérleti szőlő; prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag);
+cb) helyrajzi szám,
 
-d) a vissza nem térítendő támogatás összege és mértéke.
+cc) a szőlőültetvény nagysága hektárban megadva,
 
-(2)[^31] A szőlőtermelőnek vagy a támogatás igénylésére felhatalmazott termelői szerveződésnek a támogatási kérelemben kell nyilatkoznia arról, hogy
+cd) a szőlőültetvény hasznosítása az 1a. és 1b. melléklet A oszlopa szerinti hasznosítási kód szerint megjelölve,
 
-a) növényegészségügyi megelőzéshez támogatást kíván igénybe venni, és
+ce) borszőlőültetvény esetén HEGYIR-azonosító,
 
-b) megismerte a 4. §-ban és az 5. § (1) bekezdésében foglalt támogatási feltételeket.
+cf) a növényvédőszerrel végzett permetezések kérelmező által jelzett időpontja és a kezelt területnagyság hektárban megadva,
 
-(3)[^32] A szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés a tárgyévben kizárólag egy támogatási kérelmet nyújthat be. Hiányosan benyújtott támogatási kérelem esetén a Kincstár egyszeri alkalommal, tíz napos határidő kitűzésével hiánypótlásra szólítja fel a szőlőtermelőt vagy a támogatás igénylésére felhatalmazott termelői szerveződést.
+cg) a kezelt ökológiai művelésbe vont szőlőültetvény területnagysága hektárban megadva, valamint
 
-(4)[^33] A Kincstár a támogatási kérelem tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 39. §-a szerint jár el.
+ch) blokkazonosító, táblasorszám, amennyiben a permetezési naplóban a terület nem helyrajzi szám alapján van nyilvántartva;
 
-(5)[^34]
+d) a növényvédőszer megvásárlását igazoló számla következő adatait:
 
-[^27]: Az 5. alcím címe a 35/2018. (XII. 6.) AM rendelet 26. § f) pontja szerint módosított szöveg.
-[^28]: A 6. § (1) bekezdése a 42/2020. (VIII. 19.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^29]: A 6. § (1a) bekezdését a 35/2018. (XII. 6.) AM rendelet 24. § (1) bekezdése iktatta be, nyitó szövegrésze a 42/2020. (VIII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^30]: A 6. § (1b) bekezdését a 35/2018. (XII. 6.) AM rendelet 24. § (1) bekezdése iktatta be.
-[^31]: A 6. § (2) bekezdés nyitó szövegrésze a 35/2018. (XII. 6.) AM rendelet 26. § g) pontja szerint módosított szöveg.
-[^32]: A 6. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 108. § b) pontja, a 35/2018. (XII. 6.) AM rendelet 26. § c) és h) pontja szerint módosított szöveg.
-[^33]: A 6. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 108. § c) pontja, a 35/2018. (XII. 6.) AM rendelet 26. § c) pontja szerint módosított szöveg.
-[^34]: A 6. § (5) bekezdését a 42/2020. (VIII. 19.) AM rendelet 14. § a) pontja hatályon kívül helyezte.
+da) a számla sorszáma és kiállításának időpontja,
+
+db) a számlán szereplő növényvédőszer megnevezése,
+
+dc) a támogatási kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer mennyisége kilogrammban vagy literben megadva,
+
+dd) a támogatási kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer költsége forintban megadva, valamint
+
+de) a számlakibocsátó adatai;
+
+e) az illetékes növényvédelmi hatóság megnevezését és
+
+f) a 4. § (3) bekezdése szerinti nyilatkozatot.
+
+(4) A (3) bekezdés c) pontja szerinti adatokat tartalmazó igazolás a tárgyév október 15-től november 2-ig igényelhető a szőlőültetvény területe szerint illetékes hegybírótól.
+
+(5) A hegybíró a (4) bekezdésben foglalt igények alapján kiállított igazolások adatait legkésőbb tárgyév november 9-ig megküldi a Kincstár részére.
+
+(6) A NÉBIH a körülhatárolt területek, azon belül a fertőzött és pufferzónába tartozó területek meghatározásához szükséges adatokat legkésőbb tárgyév november 5-ig megküldi a Kincstár részére.
+
+(7) A támogatási kérelem a benyújtását követő naptól számított két napon belül, de legkésőbb az (1) bekezdésben meghatározott benyújtási határidő végéig az elektronikus felületen keresztül módosítható. Módosítás esetén az utolsóként benyújtott támogatási kérelmet kell elbírálni. A támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
+
+(8) A Kincstár a támogatási kérelmeket a hiánytalan beérkezést követő negyven napon belül továbbítja a növényvédelmi hatóság részére a 7/A. § (1)–(4) bekezdésében foglaltak teljesítése céljából.
+
+[^31]: Az 5. alcím címe a 35/2018. (XII. 6.) AM rendelet 26. § f) pontja szerint módosított szöveg.
+[^32]: A 6. § a 8/2026. (VII. 24.) AÉM rendelet 16. §-ával megállapított szöveg.

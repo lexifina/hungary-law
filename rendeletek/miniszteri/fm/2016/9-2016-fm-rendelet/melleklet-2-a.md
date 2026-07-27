@@ -1,19 +1,15 @@
-| A | B | C | D |
+|  | A | B | C | D |
 
-| Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |
+| 1. | Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege legfeljebb 3 alkalommal történő védekezésig (Ft/ha/védekezés) | Támogatás mértéke (%) |
 
-| 1. | Borszőlő | legfeljebb 12 000 forint | a kijuttatott növényvédőszer vételárának 75%-a |
+| 2. | 1. | borszőlő (nem ökológiai művelésbe vont) | hektáronként legfeljebb 16 000 forint/védekezés (legfeljebb 3 alkalommal) | a kijuttatott növényvédőszer vételárának 75%-a, azzal, hogy növényegészségügyi felszámolás és növényegészségügyi megelőzés vonatkozásában együtt legfeljebb 40 ha támogatható területig |
 
-| 2. | Csemegeszőlő |
+| 3. | 2. | csemege- és egyéb szőlő (nem ökológiai művelésbe vont) |
 
-| 3. | Kísérleti szőlő |
+| 4. | 3. | szaporítóanyag termelő törzsültetvény vagy szőlőiskola |
 
-| 4. | NÉBIH által prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag |
+| 5. | 4. | ökológiai művelésbe vont borszőlő, csemege- és egyéb szőlő | hektáronként legfeljebb 20 000 forint/védekezés (legfeljebb 3 alkalommal) |
 
-| 5. | NÉBIH által standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag |
+2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^69]
 
-| 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag |
-
-2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^51]
-
-[^51]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^69]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.

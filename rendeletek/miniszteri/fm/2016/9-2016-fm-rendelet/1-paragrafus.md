@@ -4,37 +4,43 @@
 
 a) állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pont szerinti támogatás;
 
-b) borszőlő: a gazdasági aktát vezető hegybíró nyilvántartásában szereplő, borkészítés céljára osztályba sorolt szőlő növénykultúra;
+b)[^1] borszőlő: olyan, a gazdasági aktát vezető hegybíró nyilvántartásában szereplő szőlő növénykultúra, amelyet
 
-c) csemegeszőlő: borszőlőnek, kísérleti szőlőnek és szőlő szaporítóanyagnak nem minősülő, egyéb felhasználás céljából telepített szőlő növénykultúra;
+ba) borkészítés céljára osztályba sorolt fajtával vagy
 
-d)[^1] fitoplazma fertőzés: a szőlő aranyszínű sárgaság betegségét okozó, uniós zárlati károsító státuszú, a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i (EU) 2019/2072 bizottsági végrehajtási rendelet II. melléklet B rész F1. pontjában szereplő szőlő aranyszínű sárgaság fitoplazma (Grapevine flavescence dorée phytoplasma) általi károsítás;
+bb) a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által nyilvántartásba vett, osztályba sorolást megalapozó vizsgálat elvégzése vagy a szőlőtermesztés fejlesztése céljából
 
-e)[^2] készenléti terv: a 2016/2031/EU parlamenti és tanácsi rendelet, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény, valamint a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendeletben foglalt előírások alapján a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által a szőlő aranyszínű sárgaság betegségét okozó, uniós zárlati károsító státuszú szőlő aranyszínű sárgaság fitoplazma felszámolására kidolgozott és az élelmiszerlánc-felügyeletért felelős államtitkár által jóváhagyott terv;
+telepítettek;
 
-f) kísérleti szőlő: a NÉBIH által nyilvántartásba vett, osztályba sorolást megalapozó vizsgálat elvégzése vagy a szőlőtermesztés fejlesztése céljából telepített szőlő növénykultúra;
+c)[^2] csemege- és egyéb szőlő: borszőlőnek és szőlő szaporítóanyagnak nem minősülő, egyéb felhasználás céljából telepített szőlő növénykultúra;
 
-g)[^3] mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet;
+d)[^3] fitoplazma fertőzés: a szőlő aranyszínű sárgaság betegségét okozó, uniós zárlati károsító státuszú, a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i (EU) 2019/2072 bizottsági végrehajtási rendelet II. melléklet B rész 6.1.. pontjában szereplő szőlő aranyszínű sárgaság fitoplazma (Grapevine flavescence dorée phytoplasma) általi károsítás;
 
-h)[^4] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
+e)[^4] készenléti terv: a 2016/2031/EU parlamenti és tanácsi rendelet, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény, valamint a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendeletben foglalt előírások alapján a NÉBIH által a szőlő aranyszínű sárgaság betegségét okozó, uniós zárlati károsító státuszú szőlő aranyszínű sárgaság fitoplazma felszámolására kidolgozott és az élelmiszerlánc-felügyeletért felelős államtitkár által jóváhagyott terv;
 
-i) nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) bekezdés szerinti vállalkozás;
+f)[^5]
 
-j)[^5] növényvédőszer: a fitoplazma fertőzést terjesztő amerikai szőlőkabóca (Scaphoideus titanus) elleni védekezésre a tárgyévre vonatkozóan engedélyezett rovarölőszer;
+g)[^6] mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet;
 
-k)[^6] növényegészségügyi felszámolás: a mezőgazdasági csoportmentességi rendelet 26. cikk (9) bekezdés b) pontja alapján, körülhatárolt területen a szőlőültetvényen kialakult fitoplazma fertőzés felszámolásával összefüggésben a szőlőültetvényen elvégzett, a növényvédelmi hatóság által elrendelt kötelező, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+h)[^7] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
 
-l)[^7] növényegészségügyi megelőzés: a mezőgazdasági csoportmentességi rendelet 26. cikk (8) bekezdés d) pontja alapján, nem körülhatárolt területen a fitoplazma fertőzés szőlőültetvényen történő kialakulásának megelőzésével összefüggésben a szőlőültetvényen elvégzett, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+i)[^8]
 
-m) szőlő: a borszőlő, csemegeszőlő, kísérleti szőlő vagy szőlő szaporítóanyag;
+j)[^9] növényvédőszer: a fitoplazma fertőzést terjesztő amerikai szőlőkabóca (Scaphoideus titanus) elleni védekezésre engedélyezett rovarölőszer;
+
+k)[^10] növényegészségügyi felszámolás: a mezőgazdasági csoportmentességi rendelet 26. cikk (9) bekezdés b) pontja alapján, körülhatárolt területen a szőlőültetvényen kialakult fitoplazma fertőzés felszámolásával összefüggésben a szőlőültetvényen elvégzett, a növényvédelmi hatóság által elrendelt kötelező, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+
+l)[^11] növényegészségügyi megelőzés: a mezőgazdasági csoportmentességi rendelet 26. cikk (8) bekezdés d) pontja alapján, nem körülhatárolt területen a fitoplazma fertőzés szőlőültetvényen történő kialakulásának megelőzésével összefüggésben a szőlőültetvényen elvégzett, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+
+m)[^12] szőlő: a borszőlő, csemege- és egyéb szőlő vagy szőlő szaporítóanyag;
 
 n) szőlőtermelő: a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro, kis- és középvállalkozásnak minősülő, szőlő termelésével foglalkozó természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, ideértve az r) pont szerinti termelői szerveződést is, aki vagy amely a tárgyévben szőlőültetvényt művel;
 
-o) szőlőültetvény: szőlővel beültetett, szőlő művelési ágban nyilvántartott és hasznosított, továbbá védekezési időszakban növényvédőszer kijuttatásával érintett termőföldterület, amely borszőlő, illetve csemegeszőlő termelése esetén a szőlőtermelő használatában összesen legalább egy hektár nagyságú;
+o)[^13] szőlőültetvény: szőlővel beültetett, szőlő művelési ágban nyilvántartott és hasznosított, továbbá védekezési időszakban növényvédőszer kijuttatásával érintett termőföldterület;
 
-p) szőlő szaporítóanyag: a borszőlő vagy a csemegeszőlő ültetési anyagának termelésére szolgáló, a NÉBIH által prebázis, bázis, certifikált vagy standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag, valamint a szőlőoltvány-iskolában nevelt, szőlőültetvény létesítésére alkalmas ültetési anyag;
+p)[^14] szőlő szaporítóanyag: a borszőlő vagy a csemege- és egyéb szőlő ültetési anyagának termelésére szolgáló, a NÉBIH által prebázis, bázis, certifikált vagy standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag, valamint a szőlőoltvány-iskolában nevelt, szőlőültetvény létesítésére alkalmas ültetési anyag;
 
-q)[^8] tárgyév: a kifizetési kérelem benyújtásának naptári éve;
+q)[^15] tárgyév: a támogatási kérelem benyújtásának naptári éve;
 
 r) termelői szerveződés: szőlőtermelői tagsággal működő,
 
@@ -42,16 +48,27 @@ ra) a termelői csoportokról szóló, vagy a termelői csoportok elismerésér�
 
 rb) a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti zöldség-gyümölcs termelői csoport és termelői szervezet;
 
-s) védekezési időszak: a tárgyév május 1-től július 31-ig terjedő időszaka;
+s)[^16] védekezési időszak: a tárgyév január 1-jétől október 31-éig terjedő időszaka;
 
-t)[^9] támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a kifizetési kérelemben, a hegybírói igazoláson, a permetezési naplóban vagy a Gazdálkodási Napló szerinti nyilvántartásban (a továbbiakban együtt: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;
+t)[^17] támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a támogatási kérelemben, a hegybírói igazoláson, az Elektronikus Gazdálkodási Napló részét képező permetezési naplóban (a továbbiakban: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;
 
-[^1]: Az 1. § d) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § e) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § g) pontja a 35/2023. (VII. 14.) AM rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja, a 144/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
-[^5]: Az 1. § j) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § k) pontja a 35/2023. (VII. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
-[^7]: Az 1. § l) pontja a 35/2023. (VII. 14.) AM rendelet 3. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. § q) pontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^9]: Az 1. § t) pontját a 42/2020. (VIII. 19.) AM rendelet 6. § (3) bekezdése iktatta be.
+u)[^18] ökológiai művelésbe vont szőlőültetvény: olyan szőlőültetvény, amely az ökológiai gazdálkodási követelmények tanúsítására elismert, akkreditált tanúsító szervezet által kiadott ökológiai tanúsítvánnyal rendelkezik, vagy igazoltan az ökológiai gazdálkodásra való átállás fázisában van.
+
+[^1]: Az 1. § b) pontja a 8/2026. (VII. 24.) AÉM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § c) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § a) pontja és 22. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § d) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított, a 8/2026. (VII. 24.) AÉM rendelet 21. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § e) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított, a 8/2026. (VII. 24.) AÉM rendelet 21. § c) pontja szerint módosított szöveg.
+[^5]: Az 1. § f) pontját a 8/2026. (VII. 24.) AÉM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^6]: Az 1. § g) pontja a 35/2023. (VII. 14.) AM rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja, a 144/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^8]: Az 1. § i) pontját a 8/2026. (VII. 24.) AÉM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^9]: Az 1. § j) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (2) bekezdésével megállapított, a 8/2026. (VII. 24.) AÉM rendelet 21. § d) pontja szerint módosított szöveg.
+[^10]: Az 1. § k) pontja a 35/2023. (VII. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § l) pontja a 35/2023. (VII. 14.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. § m) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § a) pontja és 22. § c) pontja szerint módosított szöveg.
+[^13]: Az 1. § o) pontja a 8/2026. (VII. 24.) AÉM rendelet 22. § d) pontja szerint módosított szöveg.
+[^14]: Az 1. § p) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § a) pontja szerint módosított szöveg.
+[^15]: Az 1. § q) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
+[^16]: Az 1. § s) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § f) pontja szerint módosított szöveg.
+[^17]: Az 1. § t) pontját a 42/2020. (VIII. 19.) AM rendelet 6. § (3) bekezdése iktatta be, a 8/2026. (VII. 24.) AÉM rendelet 21. § e) és g) pontja szerint módosított szöveg.
+[^18]: Az 1. § u) pontját a 8/2026. (VII. 24.) AÉM rendelet 12. § (2) bekezdése iktatta be.

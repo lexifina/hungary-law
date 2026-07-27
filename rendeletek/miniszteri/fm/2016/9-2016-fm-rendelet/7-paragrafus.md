@@ -1,86 +1,56 @@
-## 6. [^35] A kifizetési kérelem benyújtása
+## 6.[^33]
 
-7. §[^36] (1) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez a szőlőtermelő a (2) bekezdésben foglalt adatot tartalmazó kérelmet, az igénylésre felhatalmazott termelői szerveződés a (3) bekezdésben foglalt adatot tartalmazó kérelmet a szőlő tárgyévi növényegészségügyi megelőzési, illetve növényegészségügyi felszámolási célú növényvédőszeres kezelését követően, de legkésőbb tárgyév augusztus 15-éig nyújthatja be. A kérelem benyújtására elektronikus úton – a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az E-ügyintézési törvényben foglaltaknak megfelelően, a Kincstárhoz az elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint kerülhet sor. A Kincstár a kifizetési kérelmeket a hiánytalan beérkezést követő tizenöt napon belül továbbítja a növényvédelmi hatóság részére a 7/A. § (1)–(4) bekezdésében foglaltak céljából.
+7. §[^34] (1)[^35]
 
-(2) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez a szőlőtermelő kérelme az alábbi adatokat tartalmazza:
+(2)[^36]
 
-a) a szőlőtermelő azonosító adatai;
+(3)[^37]
 
-b) az üzemméret megnevezése (a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás);
+(4)[^38]
 
-c) a növényvédőszeres védekező tevékenység jellege:
-
-ca) növényegészségügyi megelőzés,
-
-cb) növényegészségügyi felszámolás;
-
-d) a szőlőültetvény adatai:
-
-da) településnév,
-
-db) helyrajzi szám,
-
-dc) a szőlőültetvény nagysága (hektár),
-
-dd) a szőlőültetvény hasznosítása (borszőlő; csemegeszőlő; kísérleti szőlő; prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag);
-
-e) a számlaadatok [sorszám, kiállítás időpontja, számlán szereplő növényvédőszer megnevezése, a kifizetési kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer mennyisége (kg, l), a kifizetési kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer költsége (forint), számlakibocsátó adatai];
-
-f) a területileg illetékes növényvédelmi hatóság megnevezése és
-
-g) a 4. § (3) bekezdése szerinti nyilatkozatok.
-
-(3) A növényegészségügyi megelőzés, illetve a növényegészségügyi felszámolás támogatása igénybevételéhez az igénylésre felhatalmazott termelői szerveződés kérelme az alábbi adatokat tartalmazza:
-
-a) a termelői szerveződésben tagsággal rendelkező szőlőtermelő azonosító adatai;
-
-b) az üzemméret megnevezése (a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás);
-
-c) a növényvédőszeres védekező tevékenység jellege:
-
-ca) növényegészségügyi megelőzés,
-
-cb) növényegészségügyi felszámolás;
-
-d) a szőlőültetvény adatai:
-
-da) településnév,
-
-db) helyrajzi szám,
-
-dc) a szőlőültetvény nagysága (hektár),
-
-dd) a szőlőültetvény hasznosítása (borszőlő; csemegeszőlő; kísérleti szőlő; prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag);
-
-e) a számlaadatok [sorszám, kiállítás időpontja, számlán szereplő növényvédőszer megnevezése, a kifizetési kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer mennyisége (kg, l), a kifizetési kérelemben megjelölt szőlőültetvényen ténylegesen kijuttatott növényvédőszer költsége (forint), számlakibocsátó adatai];
-
-f) a területileg illetékes növényvédelmi hatóság megnevezése és
-
-g) a 4. § (3) bekezdése szerinti nyilatkozatok.
-
-(4) Növényegészségügyi megelőzés támogatása esetén a kifizetési kérelem benyújtásának feltétele a Kincstár által a 6. § (4) bekezdése szerint befogadott támogatási kérelem benyújtása.
-
-(5) A kifizetési kérelemhez mellékelni kell
+(5)[^39] A támogatási kérelemhez mellékelni kell
 
 a) a növényvédőszer
 
-aa) megvásárlását igazoló, a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és a kifizetési kérelem benyújtásának időpontját megelőzően teljeskörűen kiegyenlített számla másolatát,
+aa)[^40] megvásárlását igazoló, a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és a támogatási kérelem benyújtásának időpontját megelőzően teljeskörűen kiegyenlített számla másolatát,
 
-ab) az 5. § (3) bekezdése szerinti gépi bérmunka-szolgáltatás útján történő kijuttatása esetén a gépi bérmunka-szolgáltatást végző által a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és a kifizetési kérelem benyújtásának időpontját megelőzően teljeskörűen kiegyenlített számla másolatát,
+ab)[^41] az 5. § (3) bekezdése szerinti gépi bérmunka-szolgáltatás útján történő kijuttatása esetén a gépi bérmunka-szolgáltatást végző által a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és a támogatási kérelem benyújtásának időpontját megelőzően teljeskörűen kiegyenlített számla másolatát,
 
 ac) az 5. § (3) bekezdése szerinti gépi bérmunka-szolgáltatás útján történő kijuttatása esetén a gépi bérmunka-szolgáltatást végző nevére kiállított, a gépi bérmunka-szolgáltatás keretében felhasznált növényvédőszer megvásárlását igazoló számla másolatát;
 
 b) az a) pont aa) és ab) alpontja szerinti számla pénzügyi rendezését hitelt érdemlően igazoló bizonylat – így különösen bankszámlakivonat vagy pénzintézet által kiadott, hiteles teljesítésigazolás – másolatát vagy a számla kiállítójának nyilatkozatát a számla pénzügyi rendezéséről, ha a pénzügyi teljesítés ténye a számlán nem szerepel;
 
-c) a szőlőültetvényre vonatkozó tárgyévi – I. és II. forgalmi kategóriába sorolt növényvédőszer felhasználása esetén a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet szerinti – permetezési napló másolatát;
+c)[^42] az ökológiai gazdálkodási követelmények tanúsítására elismert, akkreditált tanúsító szervezet igazolását;
 
-d) borszőlő termelése esetén a gazdasági aktát vezető hegybíró által kiállított, a szőlőültetvény adatairól, valamint annak tárgyévi, szőlőtermelő általi rendeltetésszerű műveléséről szóló igazolás másolatát;
+d)[^43] borszőlő és szőlő szaporítóanyag esetén a gazdasági aktát vezető hegybíró által kiállított, 6. § (3) bekezdés c) pontja szerinti igazolást, amelynek ki kell terjednie annak igazolására, hogy a szőlőtermelő a tárgyévben rendeltetésszerűen művelte az ültetvényt, és amelyhez – ha rendelkezésre áll – mellékelni kell a hatóság által elvégzett helyszíni ellenőrzés jegyzőkönyvét;
 
-e) a szőlőtermelőnek a támogatás igénylésére felhatalmazott termelői szerveződésben való tagsága igazolása céljából a termelői szerveződés alapszabályának vagy egyéb, ezt igazoló dokumentumának másolatát, ha a kifizetési kérelmet felhatalmazás alapján igénylő termelői szerveződés nyújtja be; és
+e)[^44] a szőlőtermelőnek a támogatás igénylésére felhatalmazott termelői szerveződésben való tagsága igazolása céljából a termelői szerveződés alapszabályának vagy egyéb, ezt igazoló dokumentumának másolatát, ha a támogatási kérelmet felhatalmazás alapján igénylő termelői szerveződés nyújtja be; és
 
-f) ha a szőlőtermelő vagy a termelői szerveződésben tagsággal rendelkező szőlőtermelő jogosult I. és II. forgalmi kategóriába sorolt növényvédőszer kijuttatására, akkor a szőlőtermelő vagy a termelői szerveződésben tagsággal rendelkező szőlőtermelő nevére kiállított, erről szóló engedély másolatát.
+f)[^45] csemege- és egyéb szőlőültetvény esetén a rendeltetésszerű művelést alátámasztó, a területen készített 4 db képfelvételt.
 
-(6) A szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés a tárgyévben egy kifizetési kérelmet nyújthat be. Ugyanazon kifizetési kérelemben együttesen igényelhető a növényegészségügyi megelőzés és a növényegészségügyi felszámolás támogatása.
+(6)[^46] A szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés a 6. § (1) bekezdésében meghatározott támogatási kérelmezési időszakban egy támogatási kérelmet nyújthat be az alábbi szőlőültetvény kategóriánként csoportosítva:
 
-[^35]: A 6. alcím címe a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^36]: A 7. § a 42/2020. (VIII. 19.) AM rendelet 10. §-ával megállapított szöveg.
+a) körülhatárolt területen lévő és nem a c) vagy d) pont szerinti hasznosítású szőlőültetvényben végzett,
+
+b) nem körülhatárolt területen lévő és nem a c) vagy d) pont szerinti hasznosítású szőlőültetvényben végzett,
+
+c) szőlőiskola hasznosítású területen végzett, valamint
+
+d) szaporítóanyag termelő törzsültetvény hasznosítású területen végzett
+
+védekezési tevékenység után.
+
+[^33]: A 6. alcím címét a 8/2026. (VII. 24.) AÉM rendelet 22. § g) pontja hatályon kívül helyezte.
+[^34]: A 7. § a 42/2020. (VIII. 19.) AM rendelet 10. §-ával megállapított szöveg.
+[^35]: A 7. § (1) bekezdését a 8/2026. (VII. 24.) AÉM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^36]: A 7. § (2) bekezdését a 8/2026. (VII. 24.) AÉM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^37]: A 7. § (3) bekezdését a 8/2026. (VII. 24.) AÉM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^38]: A 7. § (4) bekezdését a 8/2026. (VII. 24.) AÉM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^39]: A 7. § (5) bekezdés nyitó szövegrésze a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
+[^40]: A 7. § (5) bekezdés a) pont aa) alpontja a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
+[^41]: A 7. § (5) bekezdés a) pont ab) alpontja a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
+[^42]: A 7. § (5) bekezdés c) pontja a 8/2026. (VII. 24.) AÉM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^43]: A 7. § (5) bekezdés d) pontja a 8/2026. (VII. 24.) AÉM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^44]: A 7. § (5) bekezdés e) pontja a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
+[^45]: A 7. § (5) bekezdés f) pontja a 8/2026. (VII. 24.) AÉM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^46]: A 7. § (6) bekezdése a 8/2026. (VII. 24.) AÉM rendelet 17. § (3) bekezdésével megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) a szőlőültetvényt a tárgyévben rendeltetésszerűen műveli;
 
-b) szőlő szaporítóanyag, illetve kísérleti szőlő termelése esetén e tevékenységére vonatkozóan szerepel a NÉBIH nyilvántartásában;
+b)[^24] szőlő szaporítóanyag termelése esetén e tevékenységére vonatkozóan szerepel a NÉBIH nyilvántartásában;
 
 c) a készenléti tervben foglalt, szőlőgondozásra és tájékoztatásra vonatkozó kötelezettségeinek a tárgyévben eleget tesz;
 
@@ -12,29 +12,33 @@ d) vállalja, hogy a szőlőültetvényen növényvédőszer kerül kijuttatásr
 
 e) a támogatás alapját képező növényvédőszer annak engedélyokiratában meghatározott technológiai előírásoknak megfelelően, a védekezési időszakon belül, az amerikai szőlőkabóca megjelenésének – NÉBIH által a Magyar Növényvédő Mérnöki és Növényorvosi Kamara közreműködésével működtetett előrejelző rendszer szerinti – előrejelzésére, illetve a növényvédelmi hatóság által kiadott védekezési felhívásra alapozottan kerül felhasználásra;
 
-f)[^15] a növényegészségügyi megelőzéshez, illetve a növényegészségügyi felszámoláshoz kapcsolódó növényvédőszeres védekezésről permetezési naplót vezet, és
+f)[^25] a permetezési naplót papír alapon vezető szőlőtermelő vállalja, hogy a támogatással érintett növényvédő szeres védekezések vonatkozásában a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 30. § (8) bekezdésében foglalt előírásoknak, amennyiben az ott előírt határidő későbbi időpontot jelöl,
 
-g)[^16] a növényegészségügyi megelőzés támogatása vonatkozásában a 6. § szerinti kérelem (a továbbiakban: támogatási kérelem) és a 7. § szerinti kérelem (a továbbiakban: kifizetési kérelem), illetve a növényegészségügyi felszámolás támogatása vonatkozásában a támogatási kérelem benyújtásának időpontjában
+fa) borszőlő és szőlő szaporítóanyag esetén legkésőbb e rendelet 6. § (4) bekezdése szerinti hegybírói igazolás kérelmezéséig,
 
-ga) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt;
+fb) csemege- és egyéb szőlő esetén legkésőbb e rendelet 6. § (1) bekezdése szerinti támogatási kérelem (a továbbiakban: támogatási kérelem) benyújtásáig eleget tesz; és
 
-gb) rendelkezik a tevékenysége folytatásához szükséges valamennyi hatósági engedéllyel;
+g)[^26] a támogatási kérelem benyújtásának időpontjában
 
-gc)[^17] eleget tett az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának, ha ilyen határozat kötelezettje volt;
+ga) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
-gd)[^18] nem áll fenn, hogy neki felróható okból nem teljesítette a kifizetési kérelem benyújtását megelőzően az államháztartás alrendszereiből, az Európai Unió előcsatlakozási eszközeiből vagy a strukturális alapokból juttatott valamely támogatással összefüggésben a támogatási szerződésben vállalt kötelezettségét;
+gb) rendelkezik a tevékenysége folytatásához szükséges valamennyi hatósági engedéllyel,
 
-ge) megfelel az államháztartásról szóló 2011. évi CXCV. törvényben szabályozott, rendezett munkaügyi kapcsolatok és átlátható szervezet általános és különös feltételeinek, és
+gc) eleget tett az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának, ha ilyen határozat kötelezettje volt,
 
-gf) nem minősül nehéz helyzetben lévő vállalkozásnak, kivéve a növényegészségügyi felszámolás támogatása esetét.
+gd) nem áll fenn, hogy neki felróható okból nem teljesítette a támogatási kérelem benyújtását megelőzően az államháztartás alrendszereiből, az Európai Unió előcsatlakozási eszközeiből vagy a strukturális alapokból juttatott valamely támogatással összefüggésben a támogatási szerződésben vállalt kötelezettségét,
 
-(2) A támogatás igénylésére felhatalmazott termelői szerveződés akkor jogosult a támogatás igénylésére, ha megfelel a termelői szerveződésben tagsággal rendelkező szőlőtermelő által művelt szőlőültetvény vonatkozásában az (1) bekezdés d), e) és g) pontjában foglalt feltételeknek.
+ge) megfelel az államháztartásról szóló törvényben szabályozott, rendezett munkaügyi kapcsolatok és átlátható szervezet általános és különös feltételeinek, és
 
-(3)[^19] A szőlőtermelőnek vagy a támogatás igénylésére felhatalmazott termelői szerveződésnek a kifizetési kérelem benyújtásával egyidejűleg nyilatkoznia kell arról, hogy az ÁFA törvény értelmében ÁFA levonására jogosult-e, továbbá a támogatási kérelem és a kifizetési kérelem benyújtásával egyidejűleg nyilatkozni kell
+gf) a támogatási kérelem benyújtásakor szerepel a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló törvény szerinti Kedvezményezetti Nyilvántartási Rendszerben.
 
-a) a szőlőtermelőnek az (1) bekezdés c)–g) pontjában,
+(2)[^27] A támogatás igénylésére felhatalmazott termelői szerveződés akkor jogosult a támogatás igénylésére, ha megfelel a termelői szerveződésben tagsággal rendelkező szőlőtermelő által művelt szőlőültetvény vonatkozásában az (1) bekezdés d), e), g) és h) pontjában foglalt feltételeknek.
 
-b) az igénylésre felhatalmazott termelői szerveződésnek az (1) bekezdés d), e) és g) pontjában
+(3)[^28] A támogatás feltétele, hogy a támogatási kérelem benyújtásával egyidejűleg nyilatkozik a szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés az ÁFA törvényben meghatározott ÁFA levonására vonatkozó jogosultságáról, továbbá
+
+a) a szőlőtermelő az (1) bekezdés c)–h) pontjában, valamint
+
+b) az igénylésre felhatalmazott termelői szerveződés az (1) bekezdés d), e), g) és h) pontjában
 
 foglalt feltételek teljesüléséről.
 
@@ -54,11 +58,11 @@ d) ÁFA finanszírozására, kivéve, ha a szőlőtermelő vagy az igénylésre 
 
 (7) Azonosítható, különböző elszámolható költségek esetén a támogatás halmozható más, államháztartási vagy uniós forrásból származó támogatással.
 
-(8)[^20] Ha a kifizetési kérelmet az igénylésre felhatalmazott termelői szerveződés nyújtja be, akkor a támogatás igénylésére felhatalmazott termelői szerveződés részére kifizetett támogatás összege nem haladhatja meg annak a támogatásnak az összegét, amelyre ezen termelői szerveződésben tagsággal rendelkező szőlőtermelő jogosult.
+(8)[^29] Ha a támogatási kérelmet az igénylésre felhatalmazott termelői szerveződés nyújtja be, akkor a támogatás igénylésére felhatalmazott termelői szerveződés részére kifizetett támogatás összege nem haladhatja meg annak a támogatásnak az összegét, amelyre ezen termelői szerveződésben tagsággal rendelkező szőlőtermelő jogosult.
 
-[^15]: A 4. § (1) bekezdés f) pontja a 42/2020. (VIII. 19.) AM rendelet 7. §-ával megállapított szöveg.
-[^16]: A 4. § (1) bekezdés g) pont nyitó szövegrésze a 35/2018. (XII. 6.) AM rendelet 26. § a) és c) pontja szerint módosított szöveg.
-[^17]: A 4. § (1) bekezdés g) pont gc) alpontja a 35/2023. (VII. 14.) AM rendelet 3. § c) pontja szerint módosított szöveg.
-[^18]: A 4. § (1) bekezdés g) pont gd) alpontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^19]: A 4. § (3) bekezdés nyitó szövegrésze a 35/2018. (XII. 6.) AM rendelet 26. § a) és c) pontja szerint módosított szöveg.
-[^20]: A 4. § (8) bekezdése a 35/2018. (XII. 6.) AM rendelet 26. § d) pontja szerint módosított szöveg.
+[^24]: A 4. § (1) bekezdés b) pontja a 8/2026. (VII. 24.) AÉM rendelet 22. § f) pontja szerint módosított szöveg.
+[^25]: A 4. § (1) bekezdés f) pontja a 8/2026. (VII. 24.) AÉM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^26]: A 4. § (1) bekezdés g) pontja a 8/2026. (VII. 24.) AÉM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^27]: A 4. § (2) bekezdése a 8/2026. (VII. 24.) AÉM rendelet 21. § h) pontja szerint módosított szöveg.
+[^28]: A 4. § (3) bekezdése a 8/2026. (VII. 24.) AÉM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^29]: A 4. § (8) bekezdése a 8/2026. (VII. 24.) AÉM rendelet 21. § e) pontja szerint módosított szöveg.
