@@ -1,0 +1,3 @@
+## 15. Záró rendelkezések
+
+19. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
