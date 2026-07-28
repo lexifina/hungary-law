@@ -18,6 +18,6 @@
 
 ## 1. A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet módosítása
 
-1. § A növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet] 1. §-a a következő 19a. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet alkalmazásában:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

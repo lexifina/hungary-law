@@ -1,5 +1,3 @@
-24. § A 152/2023. (XII. 21.) AM rendelet 10. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+24. §[^24]
 
-„(6) A kiválasztási szempontrendszert az 5. melléklet tartalmazza. Az 5. mellékletet nem kell alkalmazni a 2. § c) pontja szerinti, növény-egészségügyi okból hatóság által elrendelt kötelező kivágást követő újratelepítés esetén.
-
-(7) A 2. § c) pontja szerinti újratelepítésre ugyanazon a földterületen támogatás akkor igényelhető, ha a kérelmező igazolja, hogy a növény-egészségügyi okokból hatóság által elrendelt kötelező kivágást a kivágást elrendelő hatósági döntés szerint végrehajtotta. Kötelező várakozási idő a Grapevine Flavescence Dorée Phytoplasma fertőzés vonatkozásában nincs, minden más esetben a növény-egészségügyi okból történő kivágást elrendelő határozatban foglaltak szerint kell eljárni. Nem igényelhető támogatás a Btv. 5. § (3) és (4) bekezdése alapján a szőlőültetvény rendeltetésszerű művelésének elmaradása miatt a hatóság által elrendelt kivágás alapján történő újratelepítés szándéka esetén.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

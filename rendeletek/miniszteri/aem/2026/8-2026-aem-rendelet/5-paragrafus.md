@@ -1,1 +1,3 @@
-5. § A 7/2001. (I. 17.) FVM rendelet 7. számú melléklete az 1. melléklet szerint módosul.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

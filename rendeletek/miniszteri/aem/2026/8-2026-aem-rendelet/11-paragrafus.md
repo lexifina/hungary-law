@@ -1,3 +1,3 @@
-11. §[^4]
+11. §[^11]
 
-[^4]: A 11. § a 28. § (3) bekezdése alapján 2027. március 31-én lép hatályba.
+[^11]: A 11. § a 28. § (3) bekezdése alapján 2027. március 31-én lép hatályba.
