@@ -1,5 +1,3 @@
-## 9. §[^29] Az életet, testi épséget, egészséget, illetve vagyonbiztonságot sértő vagy veszélyeztető, továbbá a Kr. 37. § (5a) bekezdése szerinti esetre nézve a jogszabályban előírt követelmények sérelmével járó lövészet megkezdését, folytatását a Rendőrség megtiltja.
-
 ## A fegyvertartáshoz vagy a fegyver jogszerű használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelmények[^30]
 
 10. §[^31] (1)[^32] A fegyvertartáshoz vagy a fegyver jogszerű használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára a vármegyei rendőr-főkapitányságon – Budapesten a Budapesti Rendőr-főkapitányságon – kell jelentkezni, az (1a) bekezdésben meghatározott módon. A vizsgára való jelentkezésnek nem feltétele a lőfegyver tartására jogosító engedély kiadására irányuló, illetve a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Ftv.) 4/J. § (1) bekezdése szerinti kérelem előterjesztése. A hatósági engedélyezés során, illetve az Ftv. 4/J. (1) bekezdése alapján a törvényes képviselő hozzájárulására kötelezett személy vizsgára való jelentkezése esetén a jelentkezéshez a törvényes képviselő írásbeli hozzájárulását is mellékelni kell.
@@ -44,7 +42,6 @@ vármegyei (fővárosi) rendőr-főkapitányságon kell letenni.
 
 (8)[^39] A Kr. 5/G. §-a szerinti esetben a vizsga lebonyolítása során a törvényes képviselő – a tevékenységvégzés rendjére és a lőtér működésére nézve a jogszabályban meghatározott előírások megtartása mellett – kísérőként jelen lehet.
 
-[^29]: A 9. § a 27/2022. (VIII. 16.) BM rendelet 6. § c) pontja szerint módosított szöveg.
 [^30]: A 10. §-t megelőző alcím a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított, a 24/2023. (VI. 30.) BM rendelet 13. § a) pontja szerint módosított szöveg.
 [^31]: A 10. § a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
 [^32]: A 10. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
