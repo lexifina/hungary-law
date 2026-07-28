@@ -1,6 +1,6 @@
-1. melléklet a 31/2006. (VI. 1.) GKM rendelethez[^44]
+1. melléklet a 31/2006. (VI. 1.) GKM rendelethez[^50]
 
-A Magyarország fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek[^45]
+A Magyarország fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek[^51]
 
 A RÉSZES ÁLLAMOK EGYSÉGES PRÓBAJELEI
 
@@ -36,5 +36,5 @@ A következő próbajel szolgál annak jelzésére, hogy a lőszer, töltény az
 
 A RÉSZES ÁLLAMOK VIZSGÁLÓÁLLOMÁSAINAK AZONOSÍTÓ JELEI
 
-[^44]: Az 1. melléklet a 19/2017. (VII. 12.) NGM rendelet 7. §-a szerint módosított szöveg.
-[^45]: Az 1. melléklet címe a 12/2012. (VI. 25.) NGM rendelet 3. § e) pontja szerint módosított szöveg.
+[^50]: Az 1. melléklet a 19/2017. (VII. 12.) NGM rendelet 7. §-a szerint módosított szöveg.
+[^51]: Az 1. melléklet címe a 12/2012. (VI. 25.) NGM rendelet 3. § e) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A gyártónak minden gyártani kívánt lőszertípusra vonatkozóan rendelkeznie kell a Vizsgáló szakvéleményével.
 
-(3)[^38] A lőszertípus gyártásának hatósági engedélyezéséhez szükséges szakvélemény birtokában a gyártó a sorozatgyártás során a lőszervizsgálat próbajelét a lőszerek legkisebb csomagolási egységén köteles feltüntetni.
+(3)[^42] A lőszertípus gyártásának hatósági engedélyezéséhez szükséges szakvélemény birtokában a gyártó a sorozatgyártás során a lőszervizsgálat próbajelét a lőszerek legkisebb csomagolási egységén köteles feltüntetni.
 
 A lőszervizsgálat próbajele:
 
@@ -12,7 +12,7 @@ CIP
 
 M
 
-(4)[^39] Nem tüntetheti fel a lőszervizsgálat próbajelét az a gyártó, amelyiknél a vizsgálatok elvégzéséhez szükséges feltételek csak részben állnak rendelkezésre.
+(4)[^43] Nem tüntetheti fel a lőszervizsgálat próbajelét az a gyártó, amelyiknél a vizsgálatok elvégzéséhez szükséges feltételek csak részben állnak rendelkezésre.
 
-[^38]: A 39. § (3) bekezdése a 19/2017. (VII. 12.) NGM rendelet 3. §-ával megállapított szöveg.
-[^39]: A 39. § (4) bekezdése a 19/2017. (VII. 12.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
+[^42]: A 39. § (3) bekezdése a 19/2017. (VII. 12.) NGM rendelet 3. §-ával megállapított szöveg.
+[^43]: A 39. § (4) bekezdése a 19/2017. (VII. 12.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
