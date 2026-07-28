@@ -1,7 +1,3 @@
-5. § Hatályát veszti az R.
+5. §[^6]
 
-a) 1. § (2) bekezdés 21. pontja,
-
-b) 3. § 1. pontja, valamint
-
-c) 23. melléklete.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

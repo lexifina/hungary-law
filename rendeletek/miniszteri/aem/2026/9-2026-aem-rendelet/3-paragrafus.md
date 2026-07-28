@@ -1,3 +1,3 @@
-3. § Az R. a következő 17. §-sal egészül ki:
+3. §[^4]
 
-„17. § E rendelet MódR17.-tel megállapított 1. § (3) bekezdés h) pontja, 2. § (28) bekezdése és 44. melléklete tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
