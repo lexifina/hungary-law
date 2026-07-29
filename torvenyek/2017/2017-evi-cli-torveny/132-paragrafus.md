@@ -8,7 +8,7 @@ a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró 
 
 b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
 
-c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
+c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
 
 d) a tartalma a közigazgatási bíróság adott ügyben hozott jogerős határozatával ellentétes, vagy
 

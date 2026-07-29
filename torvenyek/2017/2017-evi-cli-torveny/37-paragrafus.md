@@ -18,4 +18,4 @@ b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai k�
 
 c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
 
-(4) A zártan kezelt adatok megismerésére csak az adóhatóság, a nyomozó hatóság, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult felettes szerv, az illetékes ügyész, a bíróság és a Nemzeti Adatvédelmi és Információszabadság Hatóság jogosult.
+(4) A zártan kezelt adatok megismerésére csak az adóhatóság, a nyomozó hatóság, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult felettes szerv, az illetékes ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bíróság és a Nemzeti Adatvédelmi és Információszabadság Hatóság jogosult.

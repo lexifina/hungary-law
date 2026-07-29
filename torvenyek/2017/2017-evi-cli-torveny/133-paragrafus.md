@@ -8,7 +8,7 @@ a) a bíróság jogerős ügydöntő határozatában megállapított költségve
 
 b) a felettes szerv által a felülellenőrzési eljárásban, illetve a bíróság által elrendelt új eljárás esetén,
 
-c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
+c) ha az ellenőrzést az adópolitikáért felelős miniszter, az Állami Számvevőszék elnöke vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 
 d) ha az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
 

@@ -12,6 +12,8 @@ c) a közigazgatási per.
 
 a) a döntés módosítása vagy visszavonása az adóhatóság saját hatáskörében,
 
-b) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított, és
+b) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás,
 
 c) a felügyeleti eljárás.
+
+d) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerinti, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal általi felhívás és fellépés nyomán indított eljárás.
