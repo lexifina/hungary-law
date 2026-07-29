@@ -1,3 +1,1 @@
-3. §[^4]
-
-[^4]: A 3. § az 5. § (2) bekezdése alapján 2026. július 29-én lép hatályba.
+3. § Az Eljr. 1. melléklete az 1. melléklet szerint módosul.
