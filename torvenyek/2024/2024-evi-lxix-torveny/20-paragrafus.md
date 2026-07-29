@@ -18,4 +18,4 @@ d) a doménnevet kezelő adminisztratív kapcsolattartó nevét, elektronikus le
 
 (5) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokat – a személyes adatok kivételével – nyilvánosan hozzáférhetővé teszi.
 
-(6) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokhoz az ügyészség, a nemzetbiztonsági szolgálatok, a nyomozó hatóságok és a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szervezetek, a kiberbiztonsági hatóság és a kiberbiztonsági incidenskezelő központ részére közvetlen hozzáférést biztosít.
+(6) A legfelső szintű doménnév-nyilvántartó a központi doménnév-nyilvántartásban szereplő adatokhoz az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nemzetbiztonsági szolgálatok, a nyomozó hatóságok és a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szervezetek, a kiberbiztonsági hatóság és a kiberbiztonsági incidenskezelő központ részére közvetlen hozzáférést biztosít.

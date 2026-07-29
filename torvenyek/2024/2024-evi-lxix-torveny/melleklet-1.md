@@ -20,6 +20,8 @@ Közigazgatási ágazathoz tartozó szervezetek
 
 8. az Állami Számvevőszék,
 
+8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
+
 9. a Magyar Nemzeti Bank,
 
 10. a Magyar Honvédség,
