@@ -84,6 +84,8 @@ c) az ügyészség nyomozást végző szervének a titkos információgyűjtés 
 
 d) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri.
 
+(5a) Az (5) bekezdés megfelelően alkalmazandó a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozási tevékenységét érintő vizsgálatra.
+
 (6) Az alapvető jogok biztosa a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait érintő vizsgálata során nem tekinthet be a rejtjeltevékenység szakirányításával és hatósági engedélyezésével, felügyeletével kapcsolatos iratba.
 
 (7) Ha az alapvető jogok biztosa az ügy teljes körű feltárása érdekében az (1)–(6) bekezdésben meghatározott iratok megvizsgálását is szükségesnek tartja, a feladatkörrel rendelkező minisztertől kérheti azok megvizsgálását. A feladatkörrel rendelkező miniszter köteles az alapvető jogok biztosa által megkívánt vizsgálatot elvégezni vagy elvégeztetni, és a vizsgálat eredményéről az alapvető jogok biztosát az általa megállapított határidőn belül tájékoztatni. A határidő nem lehet rövidebb harminc napnál.

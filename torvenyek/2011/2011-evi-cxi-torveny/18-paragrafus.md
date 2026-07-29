@@ -20,7 +20,7 @@ f) rendvédelmi szerv vagy polgári nemzetbiztonsági szolgálat,
 
 g) közigazgatási jogkörben eljáró egyéb szerv e jogkörében,
 
-h) nyomozó hatóság vagy az ügyészség nyomozást végző szerve,
+h) nyomozó hatóság, az ügyészség nyomozást végző szerve, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 
 i) közjegyző,
 
@@ -63,6 +63,8 @@ e) a bíróság, valamint
 f) az ügyészség nyomozást végző szerve kivételével az ügyészség
 
 tevékenységét.
+
+(3a) Az alapvető jogok biztosa nem vizsgálhatja a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádképviseleti tevékenységét.
 
 (4) Az alapvető jogok biztosa a hatóságok tevékenysége során felmerült, az alapvető jogokkal kapcsolatos visszásság megszüntetése érdekében hivatalból eljárást folytathat. A hivatalból indított eljárás természetes személyek pontosan meg nem határozható, nagyobb csoportját érintő visszásság kivizsgálására vagy egy alapvető jog érvényesülésének átfogó vizsgálatára irányulhat.
 
