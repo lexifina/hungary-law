@@ -54,6 +54,8 @@ l) a Magyar Honvédség hivatásos és szerződéses állományú tagja, a rend�
 
 m) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese.
 
+n) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettese.
+
 (3) Szakmai vagy üzleti ügyben az európai parlamenti képviselői minőségre hivatkozni nem lehet.
 
 (4) Az európai parlamenti képviselő a képviselői megbízatásának felhasználásával jogosulatlanul bizalmas információkat nem szerezhet, illetve nem használhat fel.
