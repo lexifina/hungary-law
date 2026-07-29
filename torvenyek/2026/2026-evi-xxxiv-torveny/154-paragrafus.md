@@ -1,0 +1,3 @@
+154. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 46. §-a helyébe a következő rendelkezés lép:
+
+„46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte. Ha a terhelttel szemben a megalapozott gyanút az NVVH közölte, a büntetőeljárás alá vont személy ujj- és tenyérnyomatát az NVVH küldi meg a szakértői nyilvántartó szervnek.”

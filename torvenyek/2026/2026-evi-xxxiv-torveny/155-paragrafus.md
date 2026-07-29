@@ -1,0 +1,3 @@
+155. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte. Ha a terhelttel szemben a megalapozott gyanút az NVVH közölte, a DNS-profil meghatározására alkalmas szájnyálkahártya-törletet az NVVH küldi meg a szakértői nyilvántartó szervnek.”

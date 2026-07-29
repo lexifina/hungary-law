@@ -1,0 +1,1 @@
+198. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 107. § (6) bekezdésében a „nyilvántartani.” szövegrész helyébe a „nyilvántartani. Az NVVH-ba beosztott ügyész adatait az NVVH-ban kell nyilvántartani.” szöveg lép.

@@ -1,0 +1,1 @@
+36. § A közvagyonvédelmi vizsgálat – a 47. § szerinti bírság kiszabását ide nem értve – nem minősül közigazgatási hatósági eljárásnak, a közvagyonvédelmi vizsgálati tevékenységgel kapcsolatban – a 47. § szerinti bírság kiszabása kivételével – közigazgatási pernek nincs helye.

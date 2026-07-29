@@ -1,0 +1,3 @@
+7. § (1) A Hivatal a feladatkörét érintően – a feladat- és hatásköre ellátásának, illetve a Hivatal függetlenségének veszélyeztetése nélkül – elláthat a korrupciómegelőzéshez való hozzájárulásra, szakmai képzések biztosítására, nemzetközi együttműködésekben való részvételre, valamint a hazai antikorrupciós intézményekkel való koordinációra és tapasztalatcserére irányuló tevékenységet.
+
+(2) A Hivatal a feladatkörét érintő koordináció és tapasztalatcsere érdekében együttműködhet, illetve együttműködési megállapodást köthet más, feladat- és hatáskörében érintett hazai, valamint európai uniós szervekkel, továbbá nemzetközi szervezetekkel.

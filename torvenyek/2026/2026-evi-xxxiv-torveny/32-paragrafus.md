@@ -1,0 +1,3 @@
+32. § (1) A Hivatal a közvagyonvédelmi kockázatértékelés során alkalmazott módszertant a honlapján közzéteszi. A közzétett módszertan tartalmazza különösen a közvagyonvédelmi kockázatértékelés célját, általános elveit, fő kockázati területeit, a kockázatértékelés során figyelembe vehető adatok és jelzések fő típusait, valamint az objektív ügykiválasztás garanciális szabályait.
+
+(2) Az (1) bekezdés szerinti módszertan közzététele nem eredményezheti a Hivatal döntés-előkészítő elemzéseinek, egyedi ügykiválasztási megállapításainak, belső munkairatainak, valamint a folyamatban lévő vagy tervezett közvagyonvédelmi vizsgálat eredményességét veszélyeztető adatnak vagy információnak a megismerhetővé válását.

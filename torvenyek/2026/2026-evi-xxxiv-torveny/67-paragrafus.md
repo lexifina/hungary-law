@@ -1,0 +1,1 @@
+67. § A 211. §, a 213. §, a 214. §, a 215. § és a 217. § az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
