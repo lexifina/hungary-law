@@ -10,7 +10,7 @@ a) belföldi kiküldetésen lévő foglalkoztatott többletköltségei fedezeté
 
 b) a foglalkoztatott ideiglenes – három hónapot meg nem haladó – külföldi kiküldetésére vonatkozó részletes szabályokat;
 
-c) a más szervhez kirendelésre, vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez kirendelésre, vezénylésre, az ügyészi szervezethez kirendelésre, vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre kirendelésre, vezénylésre vonatkozó szabályokat, továbbá a kirendelt, vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő rendelkezéseket;
+c) a más szervhez kirendelésre, vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez kirendelésre, vezénylésre, az ügyészi szervezethez kirendelésre, vezénylésre, a Nemzeti Közszolgálati Egyetemre, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz kirendelésre, vezénylésre vonatkozó szabályokat, továbbá a kirendelt, vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő rendelkezéseket;
 
 d) a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást, továbbá az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés feltételeit, rendjét és az érintettet megillető juttatásokat;
 

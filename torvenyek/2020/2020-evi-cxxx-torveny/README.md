@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-130-00-00
 | 2025-11-01 | 2025. évi LXXX. törvény | 2020-130-00-00.22 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2020-130-00-00.23 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2020-130-00-00.24 |
+| 2026-07-29 | 2026. évi XXXIV. törvény | 2020-130-00-00.25 |

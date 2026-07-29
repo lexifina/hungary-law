@@ -508,7 +508,7 @@ Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elköveté
 
 |
 
-Eljáró bíróság, ügyészség, nyomozó hatóság, ügyszám:
+Eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, ügyszám:
 
 |
 

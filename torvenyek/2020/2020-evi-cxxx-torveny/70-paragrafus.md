@@ -34,7 +34,7 @@ f) a 32. § (4) és (4a) bekezdése, valamint a 35. § (5) bekezdése szerinti e
 
 g) a foglalkoztatást kizáró ok jut a munkáltatói jogkör gyakorlója tudomására;
 
-h) az 54. §, 57. §–60. § szerinti kirendelés, vezénylés megszűnése után a foglalkoztatott részére az 56. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő munkakör nem biztosítható, vagy a részére az 56. § (3) bekezdése alapján felajánlott alacsonyabb munkakört nem fogadja el.
+h) az 54. §, 57. §–60. § szerinti kirendelés, vezénylés megszűnése után a foglalkoztatott részére az 56. § (2) bekezdése szerinti végzettségének, képzettségének megfelelő munkakör nem biztosítható, vagy a részére az 56. § (3) bekezdése vagy az 59/A. § (7)–(8) bekezdése alapján felajánlott munkakört nem fogadja el.
 
 (3) A Tny. 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv jogszabály szerinti határozatával kell igazolni.
 

@@ -57,37 +57,3 @@ II.
 5. idegennyelv-ismerete
 
 6. képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
-
-III. A korábbi foglalkoztatásra vonatkozó adatok
-
-1. a munkahely megnevezése
-
-2. jogviszony típusának megnevezése
-
-3. beosztás
-
-4. besorolás
-
-5. munkakör
-
-6. jogviszony kezdő és befejező dátuma
-
-7. a megszűnés módja
-
-IV.
-
-1. a szolgálati jogviszony kezdete, a kiszámításánál figyelmen kívül hagyandó időtartamok
-
-2. állampolgársága
-
-3. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte
-
-4. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
-
-5. esküokmány száma, kelte
-
-6. közigazgatási versenyvizsga adatai
-
-7. a munkaköri alkalmassági vizsgálat eredményének adatai
-
-V.

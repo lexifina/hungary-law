@@ -14,7 +14,7 @@ b) a szolgálati jogviszony létesítéséhez, fenntartásához, módosításáh
 
 (5) A munkáltatói jogkör gyakorlójának és a személyügyi igazgatási feladatokat ellátó szervezeti egységnek kizárólag az alkalmasság minősítésére vonatkozó adat továbbítható. Ha az alkalmassági vizsgálatot a munkáltatói jogkör gyakorlója kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi adatot is jogosult kezelni, és az egészségügyi adatot az eljárásban részt vevő orvos és pszichológus, valamint felülvizsgáló bizottság részére továbbíthatja.
 
-(6) A (2) bekezdésben meghatározott adat szolgálati jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a szolgálati jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
+(6) A (2) bekezdésben meghatározott adat szolgálati jogviszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a szolgálati jogviszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
 
 (7) Az (1) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat, egészségügyi adat az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben foglaltaknak megfelelően kezelhető.
 

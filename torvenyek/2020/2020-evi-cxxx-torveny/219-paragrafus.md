@@ -16,7 +16,7 @@ f) feladatkörében eljárva a NAV biztonsági feladatokat ellátó szervezeti e
 
 g) közszolgálati jogvita kapcsán az eljáró bíróság,
 
-h) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+h) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 
 i) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 
