@@ -10,7 +10,7 @@ b) ha a Hatóság az adatkezelőt vagy az adatfeldolgozót határozatában az el
 
 a) az elrendelés oka megszűnt, vagy
 
-b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
+b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
 
 (4) Az e § szerinti végzésre a 61/B. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
