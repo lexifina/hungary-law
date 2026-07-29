@@ -30,15 +30,17 @@ d) az Országos Bírósági Hivatal elnöke,
 
 e) a legfőbb ügyész,
 
-f) az alapvető jogok biztosa,
+f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke,
 
-g) a Magyar Nemzeti Bank elnöke,
+g) az alapvető jogok biztosa,
 
-h) az Állami Számvevőszék elnöke,
+h) a Magyar Nemzeti Bank elnöke,
 
-i) a fővárosi és vármegyei kormányhivatal vezetője, valamint
+i) az Állami Számvevőszék elnöke,
 
-j) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+j) a fővárosi és vármegyei kormányhivatal vezetője, valamint
+
+k) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
 
 a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
 

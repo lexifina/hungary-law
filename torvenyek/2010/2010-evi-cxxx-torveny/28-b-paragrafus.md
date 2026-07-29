@@ -1,6 +1,6 @@
 28/B. § (1) A Magyar Közlöny mellékletét képező Hivatalos Értesítő tartalmazza
 
-a) a 23. § (4) bekezdés a)–h) pontjában és (5) bekezdésében megjelölt személyek minősített adatot nem tartalmazó normatív utasításait,
+a) a 23. § (4) bekezdés a)–i) pontjában és (5) bekezdésében megjelölt személyek minősített adatot nem tartalmazó normatív utasításait,
 
 b) azokat a közleményeket, amelyeknek a Magyar Közlönyben, illetve más hivatalos lapban való közzétételét jogszabály elrendeli vagy a közzététel kezdeményezésére jogszabály által feljogosított személy kezdeményezi, és
 
