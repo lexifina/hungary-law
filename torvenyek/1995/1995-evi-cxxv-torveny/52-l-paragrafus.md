@@ -10,7 +10,7 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 (2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, az utasadat-információs egység az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
 
-(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
+(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv vagy NVVH eljárása során az NVVH dönt.
 
 (4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat az utasadat-információs egység az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
 

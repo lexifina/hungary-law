@@ -2,15 +2,15 @@
 
 a) kormányzati tájékoztató és döntés-előkészítő tevékenységet végez, amelynek keretén belül – az e törvényben meghatározott kivételekkel – kizárólagos hatáskörrel teljesíti a hírigényeket;
 
-b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek és az ügyészség tevékenységének elősegítése céljából;
+b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek, az ügyészség és az NVVH tevékenységének elősegítése céljából;
 
-c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
+c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
 
-d) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
+d) az együttműködő szerveket, az ügyészséget és az NVVH-t visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
 
-e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
+e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség, illetve az NVVH által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, az NVVH-t, illetve együttműködő szervet;
 
-f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
+f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség, illetve az NVVH eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
 
 g) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
 
@@ -20,7 +20,7 @@ i) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdet�
 
 j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
 
-k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
+k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, továbbá az NVVH által folytatott leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
 
 (2)
 
@@ -30,7 +30,7 @@ k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az
 
 (5) Az együttműködő szerv a Nemzeti Információs Központ (3) és (4) bekezdésben meghatározott megkeresését köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni. Az együttműködő szerv a teljesítés akadályáról, valamint ennek okáról a Nemzeti Információs Központot a megkeresés megérkezését követő 24 órán belül tájékoztatja.
 
-(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
+(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, az NVVH, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, az NVVH törvény szerint kijelölt vezetője, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
 
 (7) A Nemzeti Információs Központ ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését
 

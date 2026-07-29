@@ -44,9 +44,11 @@ g) az alapvető jogok biztosa és helyettesei,
 
 h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
-i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő, valamint
+i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő,
 
 j) a nemzetiségi szószóló
+
+k) az NVVH elnöke, elnökhelyettesei
 
 nemzetbiztonsági ellenőrzését.
 

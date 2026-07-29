@@ -68,6 +68,8 @@ iq) az egyszerűsített telephely biztonsági tanúsítvány kiadására irányu
 
 ir) a Minősített Iratok Felülvizsgálatát Segítő Tanácsadó Bizottság elnöke, tagja.
 
+is) az NVVH teljes személyi állománya;
+
 j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 
 k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;

@@ -4,4 +4,4 @@
 
 (2)
 
-(3) A Nemzeti Információs Központ és a Legfőbb Ügyészség megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.
+(3) A Nemzeti Információs Központ és a Legfőbb Ügyészség, illetve az NVVH megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.

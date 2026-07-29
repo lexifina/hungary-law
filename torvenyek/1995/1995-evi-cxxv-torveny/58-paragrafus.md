@@ -11,3 +11,5 @@
 (6) Az engedélyező eljárásáról, illetve a titkos információgyűjtés tényéről az érintettet nem tájékoztatja.
 
 (7) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három munkanapon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
+
+(8) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a Be. 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül a büntetőeljárás megindítását az NVVH-nál kezdeményezi.
