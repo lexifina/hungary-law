@@ -14,7 +14,7 @@ b) mellékleteinek felsorolását, ideértve az építészeti-műszaki dokument�
 
 c) benyújtása elmulasztásának jogkövetkezményeit.
 
-(6)[^75] Ha az építtető vagy a tulajdonos az építésügyi hatósághoz a fennmaradási engedély iránti kérelmét a megszabott határidőben nem nyújtja be, az építésügyi hatóság a szabálytalan állapot megszüntetése érdekében az építtetőt vagy a tulajdonost a szabálytalan építmény, építményrész bontására, átalakítására, vagy az építési engedélyhez, egyszerű bejelentéshez tartozó építészeti-műszaki dokumentációnak megfelelő kialakításra kötelezi az elmulasztott határidőtől számított harminc napon belül.
+(6)[^76] Ha az építtető vagy a tulajdonos az építésügyi hatósághoz a fennmaradási engedély iránti kérelmét a megszabott határidőben nem nyújtja be, az építésügyi hatóság a szabálytalan állapot megszüntetése érdekében az építtetőt vagy a tulajdonost a szabálytalan építmény, építményrész bontására, átalakítására, vagy az építési engedélyhez, egyszerű bejelentéshez tartozó építészeti-műszaki dokumentációnak megfelelő kialakításra kötelezi az elmulasztott határidőtől számított harminc napon belül.
 
 (7) A (3) és (6) bekezdés szerinti bontási, átalakítási kötelezettség teljesítésének határideje a döntés véglegessé válásától számított legfeljebb száznyolcvan nap lehet, amelyet az építésügyi hatóság a kötelezett határidő lejárta előtt benyújtott kérelmére indokolt esetben egy alkalommal, legfeljebb kilencven nappal meghosszabbít.
 
@@ -22,4 +22,4 @@ c) benyújtása elmulasztásának jogkövetkezményeit.
 
 (9) A részleges bontás tudomásulvételéről szóló határozat tartalmazza azt a tájékoztatást, hogy a további bontási tevékenység csak bontási engedéllyel végezhető.
 
-[^75]: Az 57. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 92. § 35. pontja szerint módosított szöveg.
+[^76]: Az 57. § (6) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 92. § 35. pontja szerint módosított szöveg.

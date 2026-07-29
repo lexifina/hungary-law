@@ -48,7 +48,14 @@ ac) az építési tevékenység tárgya, valamint
 
 b) a döntés kiadmányozását követően a döntés meghozatalának időpontja.
 
+(5)[^11] Az építésügyi hatóság az ÉTDR nyilvános felületén
+
+a) a kérelem benyújtását követő munkanapon az egyszerű bejelentési, az építési engedélyezési, az összevont telepítési, a fennmaradási engedélyezési és a bontási engedélyezési eljárás esetén gondoskodik az 1. mellékletben meghatározott tartalmú, személyes adatot nem tartalmazó helyszínrajz, utcai homlokzati terv vagy látványterv, bontás esetén az épületről és annak környezetéről készített fotók közzétételéről,
+
+b) a döntés kiadmányozásával egyidejűleg tájékoztatását ad a döntés rövid tartalmáról.
+
 [^7]: A 11. § (2) bekezdés h) pontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (4) bekezdése szerint módosított szöveg.
 [^8]: A 11. § (2) bekezdés i) pontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
 [^9]: A 11. § (2) bekezdés j) pontját a 449/2025. (XII. 29.) Korm. rendelet 92. § (2) bekezdése iktatta be.
 [^10]: A 11. § (4) bekezdését a 103/2026. (VI. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 11. § (5) bekezdését a 103/2026. (VI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

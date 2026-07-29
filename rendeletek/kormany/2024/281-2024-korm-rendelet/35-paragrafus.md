@@ -6,7 +6,7 @@
 
 35. § (1) A használatbavételi eljárás iránti kérelmet az építtető – a 41. § (1) bekezdésében foglalt kivétellel – a 16. § (1) bekezdés a) és c)–f) pontjában meghatározott, egyszerű bejelentés alapján vagy építési engedéllyel felépített építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, a használatbavétel előtt nyújtja be az építésügyi hatósághoz.
 
-(1a)[^37] Az (1) bekezdéstől eltérően, ha az építési engedély hatálya lejárt és az ingatlant az építési engedély jogosultja értékesítette, a használatbavételi eljárás iránti kérelmet az ingatlan-nyilvántartásba bejegyzett tulajdonos, több tulajdonos esetén a tulajdonosok közössége is benyújthatja.
+(1a)[^38] Az (1) bekezdéstől eltérően, ha az építési engedély hatálya lejárt és az ingatlant az építési engedély jogosultja értékesítette, a használatbavételi eljárás iránti kérelmet az ingatlan-nyilvántartásba bejegyzett tulajdonos, több tulajdonos esetén a tulajdonosok közössége is benyújthatja.
 
 (2) Egy telken, egy építési engedély alapján ütemezetten megépített több építményre vagy önálló rendeltetési egységre külön-külön ütemenként is lehet használatbavételi eljárás lefolytatását kérelmezni. Ha az építési engedély egy telken több építményre vonatkozik, de nincs ütemezve, a használatbavételi eljárás külön építményenként is kérelmezhető akkor, ha az építmény a rendeltetésszerű és biztonságos használatra önállóan is alkalmas.
 
@@ -22,7 +22,7 @@ a) a fővállalkozó kivitelező halála vagy megszűnése esetén az építés�
 
 b) a lejárt hatályú építési engedély alapján, a tízéves intézkedési határidőnél régebben befejezett vagy használatba vett építmény esetén az építésügyi műszaki szakértő nyilatkozatát arról, hogy a megépített építmény a vonatkozó szakmai, minőségi előírások megtartásával, szakszerűen épült, és az a rendeltetésszerű és biztonságos használatra alkalmas,
 
-c)[^38] ha szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentációt, kivéve, ha van előzetes szakhatósági állásfoglalás és azt a kérelemhez mellékelik,
+c)[^39] ha szakkérdés vizsgálata szükséges, a 2. melléklet szerinti dokumentációt, kivéve, ha van előzetes szakhatósági állásfoglalás és azt a kérelemhez mellékelik,
 
 d) a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendeletben meghatározott esetben és módon az ott meghatározott zöldfelületi tanúsító által kiállított zöldfelületi tanúsítványt, ha az építési tevékenységre az építési engedély iránti kérelmet 2025. március 31-ét követően nyújtották be, valamint
 
@@ -36,8 +36,8 @@ eb) a használatbavételi eljárás iránti kérelem benyújtása napján hatál
 
 a) szakhatóság érintettsége esetén a szakhatóság előzetes állásfoglalását és a hozzá tartozó, a szakhatóság által záradékolt, a megvalósult állapotot ábrázoló építészeti-műszaki dokumentációt (a továbbiakban: megvalósulási dokumentáció), valamint
 
-b)[^39] a Khvr.-ben meghatározott esetekben a véglegessé vált egységes környezethasználati engedélyt vagy az egységes környezethasználati engedély iktatószámáról szóló nyilatkozatot, vagy nyilatkozatot arról, hogy az egységes környezethasználati engedélyezési eljárás folyamatban van.
+b)[^40] a Khvr.-ben meghatározott esetekben a véglegessé vált egységes környezethasználati engedélyt vagy az egységes környezethasználati engedély iktatószámáról szóló nyilatkozatot, vagy nyilatkozatot arról, hogy az egységes környezethasználati engedélyezési eljárás folyamatban van.
 
-[^37]: A 35. § (1a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 81. §-a iktatta be.
-[^38]: A 35. § (4) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.
-[^39]: A 35. § (5) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 17. pontja szerint módosított szöveg.
+[^38]: A 35. § (1a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 81. §-a iktatta be.
+[^39]: A 35. § (4) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.
+[^40]: A 35. § (5) bekezdés b) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 17. pontja szerint módosított szöveg.

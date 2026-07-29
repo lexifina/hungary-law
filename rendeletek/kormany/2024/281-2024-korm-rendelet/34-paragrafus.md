@@ -50,7 +50,7 @@ db) a telekalakítási engedély alapján a változást az ingatlan-nyilvántart
 
 (9) A határozat indokolása az engedély tárgyától függően tartalmazza a 26. § (2) bekezdésében foglaltakat.
 
-(10)[^36] Az integrált építési engedély iránti kérelem tárgyában hozott, iratazonosítóval ellátott döntést az értesítendők nevének és elérhetőségének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
+(10)[^37] Az integrált építési engedély iránti kérelem tárgyában hozott, iratazonosítóval ellátott döntést az értesítendők nevének és elérhetőségének feltüntetése mellett az Ákr. 85. § (1) bekezdésében meghatározottakon kívül tájékoztatásul közölni kell
 
 a) azzal, akinek az építési tevékenységgel érintett telekre, építményre vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték és ügyféli jogállással nem rendelkezik,
 
@@ -72,4 +72,4 @@ e) a munkavédelmi hatósági hatáskörében eljáró fővárosi és vármegyei
 
 (12) Az építésügyi hatóság a döntés véglegessé válására tekintet nélkül közhírré teszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést, amelyet olyan eljárásban hozott, amelyben a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^36]: A 34. § (10) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 16. pontja szerint módosított szöveg.
+[^37]: A 34. § (10) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 16. pontja szerint módosított szöveg.

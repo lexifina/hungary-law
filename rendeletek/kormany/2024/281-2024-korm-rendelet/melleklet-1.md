@@ -42,7 +42,7 @@ Az építészeti-műszaki dokumentáció tartalma
 
 2.2. Tervezési program a külön jogszabályban meghatározott tartalommal.
 
-2.3.[^94]
+2.3.[^95]
 
 3. Az egyszerű bejelentés, valamint az építési és a fennmaradási engedélyezési eljárás iránti kérelem mellékletét képező építészeti-műszaki dokumentáció elemei a tervezett építési tevékenység függvényében
 
@@ -82,7 +82,7 @@ Az építészeti-műszaki dokumentáció tartalma
 
 3.1.3.2. alternatív energiaellátás megvalósíthatósági elemzését a 9/2023. (V. 25.) ÉKM rendeletben meghatározott esetekben és annak 4. melléklete szerint,
 
-3.1.3.3.[^95] a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó épületek esetében a 9/2023. (V. 25.) ÉKM rendelet 1. és 2. mellékletében meghatározott követelményeknek való megfelelést igazoló épületenergetikai számítást az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. mellékletében meghatározott tartalommal.
+3.1.3.3.[^96] a 9/2023. (V. 25.) ÉKM rendelet hatálya alá tartozó épületek esetében a 9/2023. (V. 25.) ÉKM rendelet 1. és 2. mellékletében meghatározott követelményeknek való megfelelést igazoló épületenergetikai számítást az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. mellékletében meghatározott tartalommal.
 
 3.1.4. Az épületvillamossági műszaki leírás tartalmazza
 
@@ -94,11 +94,11 @@ Az építészeti-műszaki dokumentáció tartalma
 
 3.1.5. Akadálymentesítési műszaki leírás közhasználatú építmény esetén, amely részletesen rögzíti az épület akadálymentes kialakításának megoldását, továbbá bemutatja az egyenlő esélyű hozzáférés követelményeinek teljesítési módját.
 
-3.1.6.[^96] Zöldfelületi leírás, amely számokkal igazolva tartalmazza az építési telekre irányadó minimális zöldfelületi mérték teljesülését, valamint ha a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendelet szerint a tájépítészeti alkotás tervezési területére kötelező zöldfelületi tanúsítványt készíteni, a tájépítészeti műszaki leírást, amely számításokkal igazolva tartalmazza a tájépítészeti alkotás kialakításának részletes bemutatását.
+3.1.6.[^97] Zöldfelületi leírás, amely számokkal igazolva tartalmazza az építési telekre irányadó minimális zöldfelületi mérték teljesülését, valamint ha a települési zöldinfrastruktúráról, a zöldfelületi tanúsítványról és a zöld védjegyről szóló kormányrendelet szerint a tájépítészeti alkotás tervezési területére kötelező zöldfelületi tanúsítványt készíteni, a tájépítészeti műszaki leírást, amely számításokkal igazolva tartalmazza a tájépítészeti alkotás kialakításának részletes bemutatását.
 
 3.2. Tervlapok
 
-3.2.1.[^97] A vektoros formátumban átadott tervezési alaptérkép alapján készített helyszínrajz, amely tartalmazza
+3.2.1.[^98] A vektoros formátumban átadott tervezési alaptérkép alapján készített helyszínrajz, amely tartalmazza
 
 3.2.1.1. az égtájjelölést,
 
@@ -108,9 +108,9 @@ Az építészeti-műszaki dokumentáció tartalma
 
 3.2.1.4. a tervezéssel érintett telekkel közvetlenül szomszédos telkeken valamennyi épület méretarányos körvonalrajzát, tetőidomait, továbbá a tervezéssel érintett telek felőli oldalkertben lévő föld alatti és feletti építmények körvonalrajzának ábrázolását, rendeltetése megjelölését,
 
-3.2.1.5.[^98] a megőrzendő és a kivágandó – az 1 méteres magasságban legalább 20 cm törzsátmérőjű – fák, a meglévő és megmaradó növényzet, a tervezett tájépítészeti alkotás ábrázolását, valamint – ha az építmény használatbavételéhez zöldfelületi tanúsítvány szükséges – a zöldfelületi idomtervet,
+3.2.1.5.[^99] a megőrzendő és a kivágandó – az 1 méteres magasságban legalább 20 cm törzsátmérőjű – fák, a meglévő és megmaradó növényzet, a tervezett tájépítészeti alkotás ábrázolását, valamint – ha az építmény használatbavételéhez zöldfelületi tanúsítvány szükséges – a zöldfelületi idomtervet,
 
-3.2.1.6.[^99] a tervezési területre vonatkozó jogszabályban előírt paraméterek teljesítését igazoló mutatószámokat, jellemzőket (telek területe, beépítettség mértéke, beépítési magasság, zöldfelület aránya, építmények egymástól való távolsága, elő-, oldal-, hátsókertek mérete), valamint az építési hely és a szabályozási vonal ábrázolását,
+3.2.1.6.[^100] a tervezési területre vonatkozó jogszabályban előírt paraméterek teljesítését igazoló mutatószámokat, jellemzőket (telek területe, beépítettség mértéke, beépítési magasság, zöldfelület aránya, építmények egymástól való távolsága, elő-, oldal-, hátsókertek mérete), valamint az építési hely és a szabályozási vonal ábrázolását,
 
 3.2.1.7. az építmény és a telek személy- és gépjárműforgalmára szolgáló be- és kijáratok közúthoz való csatlakozását, valamint a gépjárművek telken belüli elhelyezésének ábrázolását,
 
@@ -192,7 +192,7 @@ Az építészeti-műszaki dokumentáció tartalma
 
 3.4. Szakági dokumentációk
 
-3.4.1.[^100] Tervezési alaptérkép. A terep geodéziai felmérését
+3.4.1.[^101] Tervezési alaptérkép. A terep geodéziai felmérését
 
 3.4.1.1. új építmény esetén a telek teljes területére kell elvégezni,
 
@@ -222,6 +222,8 @@ Az építészeti-műszaki dokumentáció tartalma
 
 3.5.2. Zártsorú beépítésű építmény teljes vagy részleges bontása esetén tartószerkezeti szakértői vélemény, amely rögzíti a szomszédos ingatlanokon lévő építmények állagvédelmének megoldását.
 
+3.6.[^102] Az ÉTDR nyilvános felületén történő megjelenítés céljából a személyes adatot nem tartalmazó, a 3.2.1. pont szerint elkészített helyszínrajz, valamint a 3.2.5. pont szerint elkészített utcai homlokzati terv vagy látványterv.
+
 4. A bontási engedély iránti kérelem mellékletét képező építészeti-műszaki dokumentáció elemei
 
 4.1. Bontási műszaki leírás, amely tartalmazza
@@ -245,6 +247,8 @@ Az építészeti-műszaki dokumentáció tartalma
 4.2.4. a bontással érintett telekkel közvetlenül szomszédos telkeken valamennyi épület méretarányos körvonalrajzát, továbbá a bontani tervezett építményhez zártsorúan csatlakozó terepszint alatti építmény körvonalának ábrázolását.
 
 4.3. Zártsorú beépítésű építmény teljes vagy részleges bontása esetén tartószerkezeti szakértői vélemény, amely rögzíti a szomszédos ingatlanokon lévő építmények állagvédelmének megoldását.
+
+4.4.[^103] Az ÉTDR nyilvános felületén történő megjelenítés céljából a személyes adatot nem tartalmazó, a 4.2.4. pont szerint elkészített helyszínrajz, valamint a bontandó építményről és annak környezetéről készített fotódokumentáció.
 
 5. A megvalósult állapotot ábrázoló építészeti-műszaki dokumentáció elemei
 
@@ -288,15 +292,17 @@ Az építészeti-műszaki dokumentáció tartalma
 
 7.4.7. a vonatkozó nemzeti szabványtól eltérő eljárás vagy számítási módszer a szabványossal legalább egyenértékű,
 
-7.4.8.[^101] a tervezett építmény, építményrész milyen műszaki megoldással teljesíti a településrendezési és építési követelményekben meghatározott alapvető követelményeket, az építmény tűzvédelmi kockázati osztályát,
+7.4.8.[^104] a tervezett építmény, építményrész milyen műszaki megoldással teljesíti a településrendezési és építési követelményekben meghatározott alapvető követelményeket, az építmény tűzvédelmi kockázati osztályát,
 
 7.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-[^94]: Az 1. melléklet 2.3. pontját a 448/2025. (XII. 29.) Korm. rendelet 93. § g) pontja hatályon kívül helyezte.
-[^95]: Az 1. melléklet 3.1.3.3. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 39. pontja szerint módosított szöveg.
-[^96]: Az 1. melléklet 3.1.6. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 40. pontja szerint módosított szöveg.
-[^97]: Az 1. melléklet 3.2.1. pont nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 41. pontja szerint módosított szöveg.
-[^98]: Az 1. melléklet 3.2.1.5. pontja a 448/2025. (XII. 29.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
-[^99]: Az 1. melléklet 3.2.1.6. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 42. pontja szerint módosított szöveg.
-[^100]: Az 1. melléklet 3.4.1. pontja a 448/2025. (XII. 29.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
-[^101]: Az 1. melléklet 7.4.8. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 31. pontja szerint módosított szöveg.
+[^95]: Az 1. melléklet 2.3. pontját a 448/2025. (XII. 29.) Korm. rendelet 93. § g) pontja hatályon kívül helyezte.
+[^96]: Az 1. melléklet 3.1.3.3. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 39. pontja szerint módosított szöveg.
+[^97]: Az 1. melléklet 3.1.6. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 40. pontja szerint módosított szöveg.
+[^98]: Az 1. melléklet 3.2.1. pont nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 92. § 41. pontja szerint módosított szöveg.
+[^99]: Az 1. melléklet 3.2.1.5. pontja a 448/2025. (XII. 29.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
+[^100]: Az 1. melléklet 3.2.1.6. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 42. pontja szerint módosított szöveg.
+[^101]: Az 1. melléklet 3.4.1. pontja a 448/2025. (XII. 29.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
+[^102]: Az 1. melléklet 3.6. pontját a 103/2026. (VI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^103]: Az 1. melléklet 4.4. pontját a 103/2026. (VI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^104]: Az 1. melléklet 7.4.8. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 31. pontja szerint módosított szöveg.

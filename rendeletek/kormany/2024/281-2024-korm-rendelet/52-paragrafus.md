@@ -8,9 +8,9 @@
 
 (2) A bejelentést az alapozás elkészültét követő három napon belül az elektronikus építési naplóban kell megtenni.
 
-(3)[^67] Az építésügyi hatóság a bejelentéstől számított harminc napon belül hivatalból hatósági ellenőrzést tart.
+(3)[^68] Az építésügyi hatóság a bejelentéstől számított harminc napon belül hivatalból hatósági ellenőrzést tart.
 
-(4)[^68] Az építésügyi hatóság a hatósági ellenőrzés időpontjáról értesítést küld, amelyet az elektronikus építési naplóba is feltölt.
+(4)[^69] Az építésügyi hatóság a hatósági ellenőrzés időpontjáról értesítést küld, amelyet az elektronikus építési naplóba is feltölt.
 
-[^67]: Az 52. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
-[^68]: Az 52. § (4) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
+[^68]: Az 52. § (3) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
+[^69]: Az 52. § (4) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.
