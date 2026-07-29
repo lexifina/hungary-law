@@ -12,4 +12,4 @@ a) a döntés módosítása vagy visszavonása a hatóság saját hatáskörébe
 
 b) a felügyeleti eljárás,
 
-c) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás.
+c) az ügyészségről szóló törvény szerinti ügyészi vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) általi felhívás és fellépés nyomán indított eljárás.

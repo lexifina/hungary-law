@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-150-00-00
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2016-150-00-00.16 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2016-150-00-00.21 |
 | 2025-12-31 | 2025. évi LXXIX. törvény | 2016-150-00-00.23 |
+| 2026-07-29 | 2026. évi XXXIV. törvény | 2016-150-00-00.24 |
