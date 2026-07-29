@@ -34,7 +34,7 @@ e) a fegyelmi eljárást lefolytató testület vagy személy;
 
 f) közszolgálati jogvita kapcsán az eljáró bíróság;
 
-g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság;
+g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság;
 
 h) törvényességi ellenőrzési feladatkörében eljárva az ügyész;
 

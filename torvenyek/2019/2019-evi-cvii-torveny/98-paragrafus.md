@@ -4,7 +4,7 @@
 
 ### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Sándor-palota, az Alkotmánybíróság Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság, a Közbeszerzési Hatóság, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és az Európai Támogatásokat Auditáló Főigazgatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 

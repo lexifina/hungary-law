@@ -36,6 +36,6 @@ p) az Integritás Hatóság.
 
 q) az Európai Támogatásokat Auditáló Főigazgatóság.
 
-r)
+r) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
