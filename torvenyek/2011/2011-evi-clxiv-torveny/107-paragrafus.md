@@ -20,6 +20,6 @@ lehet adatot továbbítani.
 
 (5) A személyi adatlapon a 3. mellékletben meghatározott, valamint a (4) bekezdés szerinti iratokban szereplő adatok rögzíthetők.
 
-(6) A személyi nyilvántartás központi feladatait a Legfőbb Ügyészség, helyi feladatait az ügyész szolgálati helye szerinti fellebbviteli főügyészség, illetve főügyészség látja el. A minisztériumba beosztott ügyész adatait a minisztériumban kell nyilvántartani.
+(6) A személyi nyilvántartás központi feladatait a Legfőbb Ügyészség, helyi feladatait az ügyész szolgálati helye szerinti fellebbviteli főügyészség, illetve főügyészség látja el. A minisztériumba beosztott ügyész adatait a minisztériumban kell nyilvántartani. Az NVVH-ba beosztott ügyész adatait az NVVH-ban kell nyilvántartani.
 
 (7) A személyi nyilvántartást – ideértve a (4) bekezdésben szereplő iratokat is – az ügyész ügyészségi szolgálati viszonyának megszűnését követően – a 49. § (4) bekezdésében meghatározott kivétellel – ötven évig kell megőrizni.

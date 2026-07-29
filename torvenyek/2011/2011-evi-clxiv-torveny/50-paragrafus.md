@@ -14,7 +14,7 @@ c)
 
 (3) A (2) bekezdés b) és c) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
 
-(4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli.
+(4) A minősítés a munkáltatói jogkör gyakorlójának feladata. A minisztériumba beosztott ügyész hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre vonatkozó szabályok szerint értékeli. Az NVVH-ba beosztott ügyész munkáját az NVVH elnöke az NVVH személyi állományára vonatkozó szabályok szerint értékeli.
 
 (5) A minősítés célja az ügyész szakmai tevékenységének megítélése, az ezt befolyásoló ismeretek, képességek, személyiségjegyek értékelése, továbbá a szakmai fejlődés elősegítése.
 

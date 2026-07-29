@@ -15,3 +15,5 @@ a) ügyelet: a munkáltató által meghatározott helyen és ideig;
 b) készenlét: az ügyész által megjelölt helyen, a munkavégzés helyére tekintettel elérhetően történő rendelkezésre állás. Az ügyelet és a készenlét időtartama alatt az ügyész köteles gondoskodni a munkára képes állapotának megőrzéséről, és a munkáltató utasítása alapján munkát végezni.
 
 (7) A minisztériumba beosztott ügyészt ügyeleti és készenléti díj nem illeti meg, rendkívüli munkavégzéséért a kormánytisztviselőkre vonatkozó szabályok szerint szabadidő-átalány állapítható meg.
+
+(8) Az NVVH-ba beosztott ügyész rendkívüli munkavégzésére az NVVH személyi állományára vonatkozó szabályokat kell alkalmazni.
