@@ -30,6 +30,8 @@ h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
 i) az Állami Számvevőszék elnöke
 
+j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei
+
 – az Nbtv.-ben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
 
 (3a)
