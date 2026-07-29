@@ -16,6 +16,8 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 
 1.6. a legfőbb ügyész és helyettesei,
 
+1.6a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei,
+
 1.7. az alapvető jogok biztosa és helyettesei,
 
 1.8. az Országos Bírósági Hivatal elnöke és elnökhelyettesei,
@@ -45,6 +47,8 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 2.8. a bíróságok,
 
 2.9. az ügyészségek,
+
+2.9a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 
 2.10. a Kit. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
 
