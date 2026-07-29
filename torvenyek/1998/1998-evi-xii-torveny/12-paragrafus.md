@@ -4,7 +4,7 @@ a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria 
 
 b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai Parlament magyarországi képviselője;
 
-c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, az Országos Bírói Tanács elnöke és elnökhelyettese;
+c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke és elnökhelyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, az Országos Bírói Tanács elnöke és elnökhelyettese;
 
 d) a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 

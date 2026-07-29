@@ -1,6 +1,6 @@
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
+a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, az NVVH-nál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 
 b) a bírák és az ügyészek;
 

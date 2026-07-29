@@ -32,9 +32,9 @@ b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározot
 
 elveszi az úti okmányt annak visszatartása érdekében.
 
-(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség a büntetőeljárás során gondoskodik annak későbbi elvételéről.
+(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség vagy az NVVH a büntetőeljárás során gondoskodik annak későbbi elvételéről.
 
-(4) Az elvett úti okmányt az ügyészség vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
+(4) Az elvett úti okmányt az ügyészség, az NVVH, vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
 
 (5) Külföldre utazási korlátozás esetén az úti okmány visszatartását
 
