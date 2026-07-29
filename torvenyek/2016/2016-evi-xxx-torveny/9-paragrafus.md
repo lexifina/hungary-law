@@ -24,11 +24,13 @@ g) az Alkotmánybíróság elnöke,
 
 h) az Állami Számvevőszék elnöke,
 
-i) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+i) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője,
 
-j) a Magyar Nemzeti Bank elnöke
+j) a Magyar Nemzeti Bank elnöke vagy
 
-tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban élő, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.
+k) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, elnökhelyettesei
+
+tulajdonában, vagy az a)–k) pont szerinti személlyel közös háztartásban élő, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.
 
 (5) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy vagy szervezet írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e a (2)–(4) bekezdés szerinti összeférhetetlenség.
 
