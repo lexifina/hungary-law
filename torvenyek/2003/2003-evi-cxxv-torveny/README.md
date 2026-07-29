@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-125-00-00
 | 2024-05-11 | 2024. évi XXVIII. törvény | 2003-125-00-00.46 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2003-125-00-00.47 |
 | 2025-04-25 | 2025. évi V. törvény | 2003-125-00-00.48 |
+| 2026-07-29 | 2026. évi XXXIV. törvény | 2003-125-00-00.49 |
