@@ -1,6 +1,6 @@
 22. § (1) A feladatkörével összefüggő egyes kiemelkedő tevékenységek, teljesítmények elismerésére kitüntető címet, díjat, oklevelet, plakettet vagy más elismerést (a továbbiakban: elismerés) alapíthat és adományozhat
 
-a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
+a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
 
 b) a Kormány tagja,
 

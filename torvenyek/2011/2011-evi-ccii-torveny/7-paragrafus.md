@@ -4,7 +4,7 @@ a) az Országgyűlés,
 
 b) a köztársasági elnök,
 
-c) az Alkotmánybíróság, a bíróságok, az Országos Bírósági Hivatal és az ügyészségek,
+c) az Alkotmánybíróság, a bíróságok, az Országos Bírósági Hivatal, az ügyészségek és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 
 d) az Állami Számvevőszék, a Magyar Nemzeti Bank, az alapvető jogok biztosa,
 

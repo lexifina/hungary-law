@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-202-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2011-202-00-00.14 |
 | 2023-07-01 | 2023. évi XLIX. törvény | 2011-202-00-00.15 |
 | 2024-07-09 | 2024. évi XVII. törvény | 2011-202-00-00.16 |
+| 2026-07-29 | 2026. évi XXXIV. törvény | 2011-202-00-00.17 |
