@@ -30,6 +30,8 @@ n) az európai uniós források felhasználásáért felelős miniszter.
 
 o) az Integritás Hatóság.
 
+p) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal.
+
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti szervezet vagy személy
 
 a) legkésőbb a jogsértés megtörténtétől számított három éven belül,

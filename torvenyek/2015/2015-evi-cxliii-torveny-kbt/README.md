@@ -84,3 +84,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2026-01-01 | 2024. évi LXIV. törvény | 2015-143-00-00.75 |
 | 2026-06-27 | 2026. évi XX. törvény | 2015-143-00-00.82 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2015-143-00-00.80 |
+| 2026-07-29 | 2026. évi XXXIV. törvény | 2015-143-00-00.83 |

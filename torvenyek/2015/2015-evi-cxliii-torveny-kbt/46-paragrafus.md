@@ -20,7 +20,7 @@ c) a rendszerhasználati díj számviteli nyilvántartása céljából, valamint
 
 a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása;
 
-b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása;
+b) ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és nyomozó hatóságnak a büntetőeljárás lefolytatása;
 
 c) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott bűncselekmények felderítése, nemzetbiztonsági védelmi és elhárítási, információszerzési feladatai ellátása
 
