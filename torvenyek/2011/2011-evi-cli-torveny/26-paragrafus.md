@@ -13,3 +13,5 @@ a) az alaptörvény-ellenes jogszabály rendelkezésének alkalmazása vagy hat�
 b) nincs a jogsérelem orvoslására szolgáló jogorvoslati eljárás, vagy a jogorvoslati lehetőségeit az indítványozó már kimerítette.
 
 (3) A legfőbb ügyész az Alkotmánybírósághoz fordulhat az ügyész részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.
+
+(4) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke az Alkotmánybírósághoz fordulhat a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.
