@@ -88,7 +88,7 @@ a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adat
 
 b) ha az iskolaőr szolgálati igazolványának visszavonására eljárást indított, az eljárás végleges befejezéséig, vagy – ha az általános rendőrségi feladatok ellátására létrehozott szerv döntését közigazgatási perben megtámadták – a közigazgatási per jogerős lezárásáig kezelheti.
 
-(20) Ha az iskolaőrrel szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indul, az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőrt a szolgálatellátás alól ideiglenesen – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggeszti.
+(20) Ha az iskolaőrrel szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indul, az általános rendőrségi feladatok ellátására létrehozott szerv az iskolaőrt a szolgálatellátás alól ideiglenesen – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggeszti.
 
 (21) Az iskolaőrrel akkor létesíthető jogviszony, ha
 

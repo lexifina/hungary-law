@@ -32,7 +32,7 @@ alkalmasságvizsgálat során felállított, a kiválasztási döntést támogat
 
 (6) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat, továbbá a rangsor továbbítható. Ha az alkalmassági vizsgálatot az állományilletékes parancsnok kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is jogosult kezelni, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus, az orvosi bizottság, valamint pszichológusokból álló háromfős bizottság részére továbbíthatja.
 
-(7) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére,
+(7) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség, az NVVH vagy nyomozó hatóság részére,
 
 a) megkeresése vagy adatkérése alapján, továbbá
 

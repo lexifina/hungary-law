@@ -8,7 +8,7 @@
 
 a) a szolgálati viszony létesítésére, szünetelésére és megszüntetésére vonatkozó nyilatkozat,
 
-b) a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, átrendelésére, más szervhez vezénylésére, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésére, ügyészi szervezethez vezénylésére, a Nemzeti Közszolgálati Egyetemre vezénylésére, külföldre vezénylésére, helyettesítésre megbízására, valamint alkalmasságára vonatkozó nyilatkozat,
+b) a hivatásos állomány tagjának kinevezésére, előléptetésére, előresorolására, elismerésére, áthelyezésére, átrendelésére, más szervhez vezénylésére, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésére, ügyészi szervezethez vezénylésére, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalhoz (a továbbiakban: NVVH) vezénylésére, a Nemzeti Közszolgálati Egyetemre vezénylésére, külföldre vezénylésére, helyettesítésre megbízására, valamint alkalmasságára vonatkozó nyilatkozat,
 
 c) a teljesítményértékelés és minősítés,
 

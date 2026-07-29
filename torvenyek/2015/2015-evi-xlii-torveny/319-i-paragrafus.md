@@ -22,7 +22,7 @@ b) a szerződéses jogviszony létesítéséhez, fenntartásához, megszünteté
 
 (10) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat továbbítható.
 
-(11) A (8) bekezdésben meghatározott adat a szerződéses jogviszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére továbbítható.
+(11) A (8) bekezdésben meghatározott adat a szerződéses jogviszonnyal összefüggő jogvitában, valamint büntetőeljárásban az eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság részére továbbítható.
 
 (12) A (6) bekezdésben meghatározott célból az egészségi, pszichológiai vagy fizikai állapotra vonatkozó vizsgálati adat és az egészségügyi adat a szerződéses jogviszony megszűnését követő tizedik év december 31-ig kezelhető. Ha a szerződéses jogviszony létesítésére nem kerül sor, a szerződéses jogviszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichológiai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
 

@@ -45,3 +45,5 @@ m) nyugdíj előtti rendelkezési állományba helyezés,
 n) könnyített szolgálatban foglalkoztatás.
 
 o) hatósági vezénylés.
+
+p) vezénylés az NVVH-hoz.

@@ -22,23 +22,27 @@ a) a Nemzeti Közszolgálati Egyetem,
 
 b) az ügyészi szervezet,
 
-c) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
+c) az NVVH,
 
-d) a Sándor-palota,
+d) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
 
-e) a Magyar Honvédség,
+e) a Sándor-palota,
 
-f) a Nemzeti Közszolgálati Egyetemen kívüli más, állami fenntartású felsőoktatási intézmény,
+f) a Magyar Honvédség,
 
-g) tudományos intézmény,
+g) a Nemzeti Közszolgálati Egyetemen kívüli más, állami fenntartású felsőoktatási intézmény,
 
-h) rendvédelmi célú tevékenységet folytató állami tulajdonban levő gazdálkodó szerv,
+h) tudományos intézmény,
 
-i) egészségügyi intézmény,
+i) rendvédelmi célú tevékenységet folytató, állami tulajdonban levő gazdálkodó szerv,
 
-j) a bíróságok igazgatási feladatait ellátó szervezet, valamint
+j) egészségügyi intézmény,
 
-k) rendészeti adatfeldolgozást végző szerv [a c)–k) pontban meghatározott szervek a továbbiakban együtt: más szerv].
+k) a bíróságok igazgatási feladatait ellátó szervezet,
+
+l) rendészeti adatfeldolgozást végző szerv
+
+[a d)–l) pontban meghatározott szervek a továbbiakban együtt: más szerv].
 
 (3a) A szolgálatteljesítésre sor kerülhet kormányzati igazgatási szervhez történő hatósági vezényléssel is (a továbbiakban: hatósági vezénylés), amennyiben a rendvédelmi szerv által ellátott hatósági hatáskör törvény vagy kormányrendelet rendelkezése alapján a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez kerül. Hatósági vezényléssel a hivatásos állomány azon tagja vezényelhető, aki a hatáskör telepítés napját megelőző napon olyan szolgálati beosztást töltött be, amelyben a megváltozó hatáskörbe tartozó feladatot, vagy ahhoz kapcsolódó feladatot, illetve a hatósági vezényléssel érintett beosztáshoz, munkakörhöz kapcsolódó funkcionális feladatot látott el.
 

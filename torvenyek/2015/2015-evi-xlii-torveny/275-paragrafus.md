@@ -14,7 +14,7 @@ f) a teljesítményértékelést vagy minősítést végző személy,
 
 g) a törvényességi ellenőrzéssel megbízott személy,
 
-h) a bíróság, az ügyészség és a nyomozó hatóság,
+h) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság,
 
 i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
 
@@ -22,7 +22,7 @@ j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv el
 
 (1a) A hivatásos állomány tagja a saját adatai tekintetében a személyügyi alapnyilvántartásába és az annak alapjául szolgáló iratokba jogosult betekinteni.
 
-(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
+(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés d) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
 
 a) más szervhez vezénylése, vagy
 
