@@ -16,6 +16,8 @@ A védelmi és biztonsági feladatok ellátásával összefüggésben e törvén
 
 7. Legfőbb Ügyészség,
 
+7a. Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
+
 8. Nemzeti Média- és Hírközlési Hatóság,
 
 9. Állami Számvevőszék,
