@@ -20,13 +20,15 @@ e) az alapvető jogok biztosa,
 
 f) az ügyészség,
 
-g) a közjegyző,
+g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH),
 
-h) a bírósági végrehajtó és az önálló bírósági végrehajtó iroda,
+h) a közjegyző,
 
-i) a hegyközségek kivételével a köztestület, valamint
+i) a bírósági végrehajtó és az önálló bírósági végrehajtó iroda,
 
-j) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális szolgáltatás nyújtására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany.
+j) a hegyközségek kivételével a köztestület, valamint
+
+k) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális szolgáltatás nyújtására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany.
 
 (3) Digitális szolgáltatás biztosítására kötelezett szervezet az Ötödik Részben meghatározott szervezet.
 

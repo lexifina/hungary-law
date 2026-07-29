@@ -14,7 +14,7 @@ b) az eIDAS Rendelet 6. cikk (1) bekezdése szerinti feltételeknek megfelelő e
 
 útján azonosítja magát, amely biztosítja, hogy a felhasználó neve a digitális szolgáltatást biztosító szervezet, az azonosításhoz szükséges további adatai pedig az elektronikus azonosítási szolgáltató rendelkezésére álljanak.
 
-(3) A felhasználó hozzájárulása esetén a 9. § (2) bekezdés a)–i) pontja szerinti szervek az elektronikus azonosítási szolgáltatás a 43. § (1) bekezdése szerinti ügyfél-regisztrációs nyilvántartását vagy egyéb, a (2) bekezdés szerinti elektronikus azonosítási eszközhöz vagy megoldáshoz kapcsolódóan a felhasználó adatait tároló nyilvántartást kezelő szervtől az ügy intézéséhez szükséges és a digitális szolgáltatást biztosító szervezet által kezelhető azonosító adatokat igényelhetnek.
+(3) A felhasználó hozzájárulása esetén a 9. § (2) bekezdés a)–j) pontja szerinti szervek az elektronikus azonosítási szolgáltatás a 43. § (1) bekezdése szerinti ügyfél-regisztrációs nyilvántartását vagy egyéb, a (2) bekezdés szerinti elektronikus azonosítási eszközhöz vagy megoldáshoz kapcsolódóan a felhasználó adatait tároló nyilvántartást kezelő szervtől az ügy intézéséhez szükséges és a digitális szolgáltatást biztosító szervezet által kezelhető azonosító adatokat igényelhetnek.
 
 (4) A digitális szolgáltatást biztosító szervezetet a (3) bekezdés szerinti adatigénylés és adatkezelés jogosultsága a felhasználó ügyintézési szándékának a digitális szolgáltatást biztosító szervezet tudomására jutásától megilleti.
 

@@ -2,7 +2,7 @@
 
 ## A BIZALMI SZOLGÁLTATÓ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
 
-94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
+94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
 
 (2) A bizalmi szolgáltató az (1) bekezdésben meghatározott kötelezettségeknek haladéktalanul köteles eleget tenni, és az adatok továbbítását nem kötheti egyéb feltételhez, így különösen az adatszolgáltatás költségeiben való megállapodáshoz vagy a költségek előlegezéséhez.
 

@@ -16,6 +16,6 @@ e) a továbbított adatok megnevezését.
 
 a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
-b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
+b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
 
 c) törvényben meghatározott feladataik ellátása céljából a nemzetbiztonsági szolgálatok és a rendvédelmi szervek.
