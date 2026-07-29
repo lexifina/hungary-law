@@ -6,4 +6,4 @@
 
 (3) A nemzetiségi szószóló a nemzetiségeket képviselő bizottság munkájában szavazati joggal vesz részt, az állandó bizottságok, illetve a törvényalkotási bizottság ülésein – az állandó bizottság, illetve a törvényalkotási bizottság elnökének döntése alapján, vagy ha a Házbizottság arról a (2) bekezdés szerinti döntése körében határoz – tanácskozási joggal vehet részt.
 
-(4) A nemzetiségi szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.
+(4) A nemzetiségi szószóló kérdést intézhet a Kormányhoz és a Kormány tagjához, az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökéhez és a legfőbb ügyészhez a feladatkörükbe tartozó, a nemzetiségek érdekeit, jogait érintő ügyben.

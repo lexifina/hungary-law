@@ -26,6 +26,8 @@ j) az alapvető jogok biztosa megbízatása – az alapvető jogok biztosáról 
 
 k) az alapvető jogok biztosa helyettesének megbízatása – az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (1) bekezdés d)–g) pontja szerinti – megszűnésének kimondásához az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (2) bekezdésében foglalt esetben.
 
+l) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei megbízatása megszűnése tekintetében – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló törvény szerint – az Országgyűlés feladat- és hatáskörébe tartozó döntéshez.
+
 (2) A jelen lévő képviselők kétharmadának szavazata szükséges
 
 a) a 77. § (3) bekezdése alapján az országgyűlési képviselő mentelmi jogának felfüggesztéséhez,
@@ -65,3 +67,5 @@ q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztá
 r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
 
 s) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (1) bekezdése szerinti döntéshez.
+
+t) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, illetve elnökhelyettesei mentelmi jogának felfüggesztéséhez.

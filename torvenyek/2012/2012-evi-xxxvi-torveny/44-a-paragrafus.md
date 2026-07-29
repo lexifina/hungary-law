@@ -16,6 +16,8 @@
 
 8. az Állami Számvevőszék elnöke,
 
+8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke és elnökhelyettesei,
+
 9. a Nemzeti Választási Bizottság elnöke és tagja,
 
 10. a Nemzeti Emlékezet Bizottságának elnöke és tagjai,
