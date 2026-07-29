@@ -1,6 +1,6 @@
 ## 21. § Ez a rendelet a kihirdetését követő hónap első napján lép hatályba.
 
-22. §[^47] (1) Az egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 62/2024. (XII. 30.) BM rendelet (a továbbiakban: Módr.) 9. alcíme hatálybalépésének napját megelőzően minősített hősi halott özvegyének, gyermekének a 10/A. § szerinti támogatásra való jogosultsága
+22. §[^48] (1) Az egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 62/2024. (XII. 30.) BM rendelet (a továbbiakban: Módr.) 9. alcíme hatálybalépésének napját megelőzően minősített hősi halott özvegyének, gyermekének a 10/A. § szerinti támogatásra való jogosultsága
 
 a) kérelemre állapítható meg,
 
@@ -10,4 +10,4 @@ c) megállapítása érdekében a hozzátartozó igazolja a korábbi házastárs
 
 (2) A rendvédelmi szerv az általa ismert lehetséges igényjogosultakat a Módr. 9. alcíme hatálybalépését követő 15 napon belül írásban tájékoztatja a hősi halott özvegyének, gyermekének támogatására vonatkozó szabályokról és a kérelem benyújtásának lehetőségéről. A beérkezett kérelemről a rendvédelmi szerv országos parancsnoka vagy országos főigazgatója a kérelem beérkezésétől számított 45 napon belül határoz.
 
-[^47]: A 22. §-t a 6/2019. (III. 11.) BM rendelet 5. § (3) bekezdése hatályon kívül helyezte, újonnan a 62/2024. (XII. 30.) BM rendelet 19. §-a iktatta be.
+[^48]: A 22. §-t a 6/2019. (III. 11.) BM rendelet 5. § (3) bekezdése hatályon kívül helyezte, újonnan a 62/2024. (XII. 30.) BM rendelet 19. §-a iktatta be.

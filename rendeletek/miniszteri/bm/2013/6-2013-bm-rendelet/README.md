@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-0A
 | 2023-05-05 | 2013-6-20-0A.9 | 9/2023. (IV. 27.) MK rendelet |
 | 2025-02-01 | 2013-6-20-0A.10 | 62/2024. (XII. 30.) BM rendelet |
 | 2025-08-03 | 2013-6-20-0A.11 | 31/2025. (VII. 31.) BM rendelet |
+| 2026-07-29 | 2013-6-20-0A.12 | 14/2026. (VII. 21.) BM rendelet |

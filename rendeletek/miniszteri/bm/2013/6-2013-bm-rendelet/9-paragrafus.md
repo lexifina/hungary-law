@@ -12,8 +12,9 @@ b)[^22] a személyi állomány fogyatékossággal élő gyermeket, emelt összeg
 
 c) a személyi állomány gyermekét egyedül nevelő tagját, valamint
 
-d) a hősi halottá, illetve a szolgálat halottjává minősített elhunyt árváját.
+d)[^23] a hősi halottá, a szolgálat halottjává vagy a rendvédelmi feladatokat ellátó szerv halottjává minősített elhunyt árváját.
 
 (4) A hősi halottá, illetve a szolgálat halottjává minősített elhunytak árváinak beiskolázási segélyéről a szociális és kegyeleti kerete terhére a belügyminiszter gondoskodik.
 
 [^22]: A 9. § (3) bekezdés b) pontja a 31/2025. (VII. 31.) BM rendelet 9. §-a szerint módosított szöveg.
+[^23]: A 9. § (3) bekezdés d) pontja a 14/2026. (VII. 21.) BM rendelet 1. §-ával megállapított szöveg.
