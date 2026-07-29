@@ -1,1 +1,3 @@
-12. § A fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendelet az 1. melléklet szerinti 13/A. melléklettel egészül ki.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

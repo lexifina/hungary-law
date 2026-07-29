@@ -1,7 +1,3 @@
-5. § (1) A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) A lőfegyver-kereskedő engedélyének visszavonása esetén vagy a lőfegyver-kereskedő halálának, illetve szervezet esetén a megszűnés bejelentését követően az engedélyt kiadó hatóság haladéktalanul intézkedik a fegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer (töltény) helyszínen történő zárolására.”
-
-(2) A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A zárolás megkezdésétől számított 180 napon belül az engedély visszavonása esetén a lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer (töltény) tulajdonosa, a lőfegyver-kereskedő halála, illetve a szervezet megszűnése esetén az örökös, illetve a jogutód kérheti a lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer (töltény) lőfegyver-kereskedőnél történő értékesítését vagy megszerzési engedéllyel rendelkező személynek, szervezetnek történő elidegenítését; kezdeményezheti a lőfegyver hatástalanítását, a lőfegyver, tűzfegyver fődarab (lőfegyverdarab), lőszer (töltény) megsemmisítését vagy érték nélküli leadását.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
