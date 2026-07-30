@@ -1,1 +1,1 @@
-188. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 45. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
+### 188. §

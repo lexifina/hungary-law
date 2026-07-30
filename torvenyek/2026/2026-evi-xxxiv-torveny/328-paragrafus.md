@@ -1,1 +1,1 @@
-328. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 16. § a) pontjában az „Ügyészség, az” szövegrész helyébe az „Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az” szöveg lép.
+### 328. §

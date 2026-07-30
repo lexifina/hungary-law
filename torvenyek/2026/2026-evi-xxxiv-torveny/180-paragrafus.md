@@ -1,3 +1,1 @@
-180. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az ügyészséget, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal által elrendelt kényszerintézkedés esetén a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt. Ha a kényszerintézkedést az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.”
+### 180. §
