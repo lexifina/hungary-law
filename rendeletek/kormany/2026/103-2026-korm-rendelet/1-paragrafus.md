@@ -4,14 +4,6 @@
 
 ## [3] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 26. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1)[^1]
+1. §[^2]
 
-(2) Az Eljr. 11. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az építésügyi hatóság az ÉTDR nyilvános felületén
-
-a) a kérelem benyújtását követő munkanapon az egyszerű bejelentési, az építési engedélyezési, az összevont telepítési, a fennmaradási engedélyezési és a bontási engedélyezési eljárás esetén gondoskodik az 1. mellékletben meghatározott tartalmú, személyes adatot nem tartalmazó helyszínrajz, utcai homlokzati terv vagy látványterv, bontás esetén az épületről és annak környezetéről készített fotók közzétételéről,
-
-b) a döntés kiadmányozásával egyidejűleg tájékoztatását ad a döntés rövid tartalmáról.”
-
-[^1]: Az 1. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
