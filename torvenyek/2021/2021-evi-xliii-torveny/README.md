@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-43-00-00
 | 2025-07-01 | 2025. évi LXVII. törvény | 2021-43-00-00.17 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2021-43-00-00.18 |
 | 2026-07-15 | 2026. évi XVIII. törvény | 2021-43-00-00.19 |
+| 2026-07-31 | 2026. évi XXXV. törvény | 2021-43-00-00.21 |
