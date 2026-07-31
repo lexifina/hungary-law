@@ -1,4 +1,4 @@
-142/A. § (1) Az Szt. általános szabályaitól eltérően, ha e törvényben és a felhatalmazása alapján kiadott rendeletekben, illetve a Hivatal által kiadott módszertani útmutatókban foglaltak alapján
+142/A. § (1) Az Szt. általános szabályaitól eltérően, ha e törvényben és a felhatalmazása alapján kiadott rendeletekben foglaltak alapján
 
 a) a hálózati veszteség pótlására vásárolt villamosenergia beszerzése – ideértve a kiegyenlítő energiát is – vonatkozásában a tényadatok alapján az árszabályozás feltételei szerint indokoltként elismerthez képest az elkövetkezendő években indokolt költségek között elismerendő hiánya vagy többlete keletkezik,
 

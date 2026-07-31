@@ -24,7 +24,7 @@
 
 11. jóváhagyja a hálózati engedélyes által készített hálózatfejlesztési tervet, figyelemmel kíséri annak megvalósítását és évente értékeli azt,
 
-12. a 8. § (1) bekezdésének rendelkezései szerint erőmű létesítésére, illetve keresletoldali szabályozási intézkedésekre, a 26. § (1) bekezdése szerint a hálózat fejlesztésére pályázatot írhat ki, a 26/A. § (1) bekezdése szerint az átviteli hálózat fejlesztésére pályázatot ír ki, és elbírálja azokat,
+12. figyelemmel kíséri és éves jelentést tesz közzé a rugalmas villamosenergia-árat tartalmazó szerződések fontosabb változásairól – a piaci ajánlatokat, a felhasználók számláira gyakorolt hatást és az áringadozás szintjét is ideértve –, valamint figyelemmel kíséri a rugalmas villamosenergia-árral kapcsolatos villamosenergia-piaci fejleményeket, vizsgálja az új termékekben és szolgáltatásokban rejlő kockázatokat és azonosítja a visszaélésszerű gyakorlatokat, ideértve a szerződésmegszüntetési díj alkalmazására vonatkozó szabály megszegésének eseteit is,
 
 13. az egyes engedélyesekre – a jogszabályban meghatározott keretek között – hivatalból határozatban állapítja meg az e törvény szerinti engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a lakossági fogyasztónak nem minősülő felhasználók tájékoztatásának részletes szabályait, továbbá a hálózati engedélyesek vonatkozásában a hálózat biztonságos üzemeltetésére vonatkozó minimális követelményeket,
 
@@ -34,7 +34,7 @@
 
 16. figyelemmel kíséri az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók, a termelő-fogyasztó, az együttesen eljáró termelő-fogyasztók, a megújulóenergia-közösség vagy az energiaközösség által termelt és elfogyasztott villamos energia mennyiségének alakulását, az energiaközösségek alapítását, az aggregátori tevékenység elterjedését, az ezeket akadályozó tényezőket – ideértve az elosztott rugalmas energiatermelés észszerű időn belüli hálózathoz csatlakoztatását gátló körülményeket – azonosítja, és azok felszámolása érdekében javaslatokat fogalmaz meg a miniszter számára,
 
-17.
+17. évente javaslatot tesz a miniszter számára az aggregátori tevékenység elterjedését gátló szabályozási akadályok felszámolására, a kiegyenlítő szabályozási szolgáltatás céljából történő aggregálással kapcsolatos, az utasított eltérés nemteljesítésének vagy részleges teljesítésének betudható kiegyenlítetlenségekért közvetlenül az átviteli rendszerirányítóval szembeni helytállást és elszámolást lehetővé tevő jogszabály megalkotására vagy jogszabály-módosításra, valamint az aggregálási szerződés teljesítéséből eredően az érintett villamosenergia-piaci szereplőknél jelentkező hatásokkal való elszámolásnak a vonatkozó uniós jogi aktusokkal összhangban álló módszertanára,
 
 18. a jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást adhat ki.
 

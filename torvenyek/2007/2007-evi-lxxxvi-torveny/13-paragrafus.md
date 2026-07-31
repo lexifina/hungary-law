@@ -1,4 +1,4 @@
-13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség és prémium típusú támogatás alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszközök ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
+13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség és prémium típusú támogatás alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszközök ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
 
 (2) A mérlegkör-felelős (1) bekezdés szerinti fizetési kötelezettségének alapját a mérlegkörébe tartozó felhasználók részére értékesített villamos energia képezi.
 
@@ -12,17 +12,21 @@ ba) a villamosenergia-kereskedelmi szolgáltatást a villamos energia egyetemes 
 
 bb) az egyetemes szolgáltatás keretében ellátott felhasználó által igénybe vehető, a Vhr.-ben meghatározott szolgáltatásokat biztosítja.
 
-c) aktív felhasználó vagy energiaközösség megújuló energiaforrásból termelt és megosztott, a Vhr.-ben meghatározott mértékben és feltételek szerint,
+c) aktív felhasználó vagy energiaközösség megújuló energiaforrásból termelt és megosztott,
 
-d) a villamosenergia-tároló részére értékesítettek a Vhr.-ben meghatározott mértékben és feltételek szerint,
+d) olyan villamosenergia-tároló üzemeltetéséhez értékesítettek,
 
-e) ugyanazon csatlakozási pont mögött, közcélú hálózat igénybe vétele nélkül értékesítettek, a Vhr.-ben meghatározott mértékben és feltételek szerint.
+da) amely a közcélú hálózatra a csatlakozási ponton önállóan csatlakozik, azon, hiteles fogyasztásmérő-berendezés által mért vételezett villamosenergia-mennyiség erejéig, amely a közcélú hálózatra a csatlakozási ponton önállóan csatlakozó villamosenergia-tároló által visszatáplálásra került,
 
-(3a) A (3) bekezdésben meghatározott mentességi feltételek részletszabályait és a feltételek teljesülésének igazolási módját a Vhr. határozza meg.
+db) amely a termelői vezetékre nem egymaga csatlakozik, de önálló elszámolási ponttal rendelkezik, azon villamosenergia-mennyiség erejéig, amely a villamosenergia-tárolóból annak önálló elszámolási pontján a termelői vezetékre visszatáplálásra került,
+
+e) amely termelésére megújuló energiaforrásból került sor és amelyet ugyanazon csatlakozási pont mögött, közcélú hálózat igénybevétele nélkül a termelő közvetlenül felhasználó részére értékesített.
+
+(3a)
 
 (4) A (3) bekezdés b) pont ba) alpontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
 
-(5) A (3) bekezdés b) pontja arra a villamosenergia-mennyiségre alkalmazható, amelyről a villamosenergia-kereskedő a mérlegkör-felelőse, a mérlegkör-felelős pedig a mérlegkörébe tartozó villamosenergia-kereskedők vonatkozásában az átviteli rendszerirányító részére a mentesség feltételeinek fennállásáról az (1) bekezdés szerinti miniszteri rendeletben előírt határidőig nyilatkozott. A nyilatkozatban foglaltak teljesülését a Hivatal utólag jogosult ellenőrizni, és amennyiben megállapítja, hogy az abban foglaltak nem teljesültek, a villamosenergia-kereskedővel szemben bírságot szab ki.
+(5) A (3) bekezdés b)–e) pontja az (1) bekezdésben meghatározott mennyiségre akkor vehető figyelembe, ha arról a villamosenergia-kereskedő, a termelő vagy a villamosenergia-tároló üzemeltetője a pénzeszköz fizetésére kötelezett mérlegkör-felelőse útján, a mérlegkör-felelős pedig a mérlegkörébe tartozó villamosenergia-kereskedő, termelő vagy villamosenergia-tároló üzemeltetője vonatkozásában az átviteli rendszerirányító részére a mentesség feltételeinek fennállásáról az (1) bekezdés szerinti miniszteri rendeletben előírt határidőig nyilatkozott.
 
 (6) Az átviteli rendszerirányító a 9. §-ban meghatározottak végrehajtása érdekében jogosult és köteles
 

@@ -6,7 +6,7 @@ b) a szolgáltatás igénybevételének kezdő időpontját,
 
 c) a nyújtott szolgáltatások megnevezését, azoknak a jogszabályban foglalt rendelkezésekkel összhangban felajánlott minőségi színvonalát, valamint az ettől eltérő színvonalú szolgáltatás – beleértve a pontatlan és késedelmes számlázás – jogkövetkezményét, ideértve az arra való hivatkozást is, hogy az eltérő színvonalú szolgáltatás miatt fizetendő kötbér megfizetése nem mentesít az okozott kár megtérítése alól,
 
-d) a szolgáltatásnak a szerződés megkötésekor érvényes árát,
+d) a szolgáltatásnak a szerződés megkötésekor érvényes árát, megjelölve, hogy a szerződéses ár fix vagy rugalmas; rugalmas villamosenergia-ár alkalmazása esetén az ár megállapításához szükséges képletet vagy módszertant,
 
 e) a villamosenergia-kereskedő ügyfélszolgálatának elérhetőségét,
 

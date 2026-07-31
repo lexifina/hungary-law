@@ -12,4 +12,4 @@ c) nem a termelő berendezésre vonatkozó környezetvédelmi, hatékonysági k�
 
 (4) A Hivatal az indokolatlan visszatartás megállapítása esetén a 96. § (1) bekezdés a)–b) pontjaiban meghatározott jogkövetkezményt alkalmazhatja, valamint határozatban meghatározza az erőművi teljesítőképesség felajánlandó mértékét.
 
-(5) A kiserőművek esetén az (1) bekezdésben foglalt felajánlási kötelezettség a villamosenergia-ellátási szabályzatokban meghatározottak szerint közösen is teljesíthető. A részletes szabályokat a villamosenergia-ellátási szabályzatok tartalmazzák.
+(5) A kiserőművek esetén az (1) bekezdésben foglalt felajánlási kötelezettség a villamosenergia-ellátási szabályzatokban meghatározottak szerint aggregálás útján is teljesíthető. A részletes szabályokat a villamosenergia-ellátási szabályzatok tartalmazzák.

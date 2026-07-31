@@ -210,7 +210,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 52. Rendszerösszekötő vezeték: az átviteli hálózat részét képező határkeresztező vezeték, amely együttműködő villamosenergia-rendszerek hálózatait köti össze;
 
-52a. rugalmas árszabást tartalmazó szerződés: a villamosenergia-kereskedő és a felhasználó között létrejött olyan villamosenergia-vásárlási szerződés, amely tükrözi az azonnali piacokon – ideértve a másnapi és a napon belüli piacokat is – jelentkező árváltozást legalább a piaci elszámolás gyakoriságával azonos időközönként;
+52a. Rugalmas villamosenergia-árat tartalmazó szerződés: a villamosenergia-kereskedő és a felhasználó között létrejött olyan villamosenergia-vásárlási szerződés, amely tükrözi az azonnali piacokon – ideértve a másnapi és a napon belüli piacokat is – jelentkező árváltozást legalább a piaci elszámolás gyakoriságával azonos időközönként;
 
 52b. Rugalmas hálózati csatlakozási szerződés: olyan korlátozott csatlakozási kapacitásról vagy korlátozott üzemeléssel biztosított csatlakozásról szóló megállapodás, amely esetében a rendszerhasználó pénzügyi ellentételezés nélkül vállalja a hálózati csatlakozási szerződésben előre rögzített feltételek szerint betáplálásának, vagy vételezésének korlátozását;
 
@@ -322,4 +322,4 @@ történő értékesítése vagy ellenérték nélküli átadása;
 
 84. Jogosult fél: az (EU) 2023/1162 bizottsági végrehajtási rendelet szerinti jogosult fél;
 
-85. Közös elhelyezésű energiatárolás: olyan villamosenergia-tároló, amely a közcélú hálózatra megújuló forrásból villamos energiát termelő erőművel ugyanazon csatlakozási ponton keresztül kapcsolódik, illetve csatlakozik.
+85. Közös elhelyezésű villamosenergia-tároló: olyan villamosenergia-tároló, amely a közcélú hálózatra megújuló forrásból villamos energiát termelő erőművel ugyanazon csatlakozási ponton keresztül kapcsolódik, illetve csatlakozik.

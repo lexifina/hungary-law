@@ -100,7 +100,7 @@
 
 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 
-49. a könnyített térség kijelölésének részletes szabályait, a kijelölés során figyelembe veendő szempontokat, a földrajzi adottságok meghatározásának ismérveit és könnyített térségben időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyeztetése során alkalmazandó hatósági eljárási szabályokat, a szakhatóságok bevonására, az eljárási határidőre, és az eljáró hatóságra vonatkozó részletes szabályokat,
+49. a könnyített térség kijelölésének részletes szabályait, a kijelölés során figyelembe veendő szempontokat, a környezeti, természeti, társadalmi, gazdasági és honvédelmi adottságok meghatározásának ismérveit és a könnyített térségben időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi engedélyezési eljárása és építési engedélyeztetése során alkalmazandó hatósági eljárási szabályokat, a szakhatóságok bevonására, az eljárási határidőre, és az eljáró hatóságra vonatkozó részletes szabályokat,
 
 50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló töltöttségi és üzemi állapotára vonatkozó alapvető adatok körét és a hozzáférés módját, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat és műszaki követelményeket,
 
@@ -198,6 +198,8 @@ d)
 
 rendeletben állapítsa meg.
 
+(2a) Felhatalmazást kap a miniszter, hogy rendeletben állapíthassa meg az 50/B. § szerinti közfeladatot ellátó egyetemes szolgáltató tekintetében a rugalmas villamosenergia-árat tartalmazó szerződésben alkalmazandó kedvezményes lakossági sávhatárt, illetve kedvezményes mikrovállalkozói sávhatárt.
+
 (3) Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
 1. a csatlakozó-, összekötő és felhasználói berendezések, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek műszaki-biztonsági minősítésének, megfelelőségértékelésének, forgalomba hozatalának, valamint üzembe helyezésének a szabályait,
@@ -220,7 +222,7 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a társasházi energiaközösség esetén alkalmazandó rendszerhasználati díjmegállapítás kereteit,
+1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, az árszabályozási ciklus induló árainak meghatározását megelőző eszköz- és költség-felülvizsgálatra és az egyes éveire vonatkozó ármegállapítás rendszerére vonatkozó módszertant, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a társasházi energiaközösség esetén alkalmazandó rendszerhasználati díjmegállapítás kereteit,
 
 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait,
 

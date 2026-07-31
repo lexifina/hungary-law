@@ -116,3 +116,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2026-01-01 | 2025. évi XCVI. törvény | 2007-86-00-00.117 |
 | 2026-05-14 | 2026. évi XIV. törvény | 2007-86-00-00.128 |
 | 2026-06-01 | 2025. évi XCVI. törvény | 2007-86-00-00.127 |
+| 2026-07-31 | 2026. évi XXXVI. törvény | 2007-86-00-00.129 |

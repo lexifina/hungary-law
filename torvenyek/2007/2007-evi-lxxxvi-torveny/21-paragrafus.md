@@ -15,3 +15,5 @@
 (6) A mérlegkör felelősnek rendelkeznie kell a kormány rendeletében meghatározott pénzügyi biztosítékokkal.
 
 (7) Az egyetemes szolgáltatásra jogosult felhasználó a törvény erejénél fogva a vele jogviszonyban álló egyetemes szolgáltatói engedélyes vagy villamosenergia-kereskedelemre vonatkozó működési engedélyes mérlegkörének tagja, és mérlegköri tagsági szerződés megkötésére nem kötelezhető. Az egyetemes szolgáltatásra jogosult felhasználó részére a mérlegköri tagság díjmentes.
+
+(8) Az aggregátor a villamosenergia-ellátási szabályzatokban meghatározott feltételek alapján egyidejűleg különböző mérlegkörhöz tartozó elszámolási pontokat aggregálhat.
