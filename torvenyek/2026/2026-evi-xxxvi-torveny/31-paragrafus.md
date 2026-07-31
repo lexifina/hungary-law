@@ -7,19 +7,3 @@ b) a villamos energia belső piacára vonatkozó közös szabályokról és a 20
 c) az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és tanácsi irányelv 7. cikkének és IV. mellékletének
 
 való megfelelést szolgálja.
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke,
-
-a köztársasági elnök feladat- és hatásköreit gyakorolva
-
-|
-
-Dr. Hallerné Dr. Nagy Anikó s. k.,
-
-az Országgyűlés alelnöke,
-
-az Országgyűlés elnökének feladatait ellátva
