@@ -57,3 +57,9 @@ II.
 5. idegennyelv-ismerete
 
 6. képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
+
+III. A korábbi foglalkoztatásra vonatkozó adatok
+
+1. a munkahely megnevezése
+
+2. jogviszony típusának megnevezése

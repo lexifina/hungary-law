@@ -1,3 +1,3 @@
-### 170/A. § [Az elnökhelyettes juttatásai]
+### 170/A. § [Az elnök, elnökhelyettes juttatásai]
 
-Az elnökhelyettes az e törvény szerinti illetményén felül a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.
+Az e törvény szerinti illetményén felül az elnök az államtitkári, az elnökhelyettes a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.

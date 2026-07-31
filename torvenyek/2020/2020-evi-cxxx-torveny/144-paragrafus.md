@@ -8,6 +8,8 @@
 
 (2) A foglalkoztatott illetménye a 145. § (1) bekezdése szerint megállapított alapilletményből, időpótlékból és – az e törvényben meghatározott feltételek esetén – munkaköri pótlékból, valamint egyéb illetménypótlékból áll.
 
+(2a) A (2) bekezdéstől eltérően a NAV elnökének illetményét a miniszter állapítja meg egy összegben személyi illetményként.
+
 (3) Az alapilletmény, az időpótlék és a munkaköri pótlék együttes összegének legalább a Kormány által meghatározott, garantált bérminimum összegét el kell érnie.
 
 (4) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell

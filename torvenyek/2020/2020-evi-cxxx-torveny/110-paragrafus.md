@@ -40,4 +40,4 @@ c) az igazgató, a központi szerv főosztályvezetője és a Bűnügyi Főigazg
 
 d) a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
 
-e) az elnökhelyettes esetében tizenhat munkanap.
+e) az elnök és az elnökhelyettes esetében tizenhat munkanap.
