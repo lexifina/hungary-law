@@ -16,13 +16,15 @@ d) az Országgyűlés által választott vagy a köztársasági elnök által ki
 
 e) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti politikai vagy biztosi szolgálati jogviszonyban álló tisztségviselő, vagy a Kit. szerinti szakmai felsővezető,
 
-f) e törvény szerinti alapítványban a 6. § (4) bekezdése szerinti megbízása időpontjában – az újrakijelölés esetét ide nem értve, már – kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy felelős személye, vagy
+f) e törvény szerinti alapítványban a 6. § (4) bekezdése szerinti megbízása időpontjában – az újrakijelölés esetét ide nem értve, már – kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott, a Ptk. alapján létrehozott jogi személy vezető tisztségviselője, feltéve, hogy az a)–e) pont szerinti összeférhetetlenség nem áll fenn, vagy
 
-g) – a 6. § (4) bekezdés szerinti újrakijelölés esetét ide nem értve – aki a kuratóriumi vagy felügyelőbizottsági megbízatását megelőző egy évben, illetve aki a vezető tisztségviselői megbízatásának kezdetét megelőző egy évben az a)–f) pont szerinti tisztséget töltötte be.
+g) aki a kuratóriumi vagy felügyelőbizottsági megbízatását megelőző egy évben, illetve aki a vezető tisztségviselői megbízatásának kezdetét megelőző egy évben az a)–e) pont szerinti tisztséget töltötte be.
 
 (1c) E törvény alkalmazásában az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője az alapítvány által létesített vagy fenntartott jogi személy európai uniós forrásokért felelős pénzügyi felsővezetőként eljáró vezető tisztségviselője.
 
 (1d) Kuratóriumi tag, felügyelőbizottsági tag, valamint vezető tisztségviselő akkor jelölhető ki, ha az (1a) bekezdés szerint megkövetelt függetlenségét, feddhetetlenségét, pártatlanságát és integritását az Állami Számvevőszék az alapítói jogok gyakorlójától érkezett megkeresés kézhezvételétől számított 15 napon belül kötelezően kiadott véleményével megállapítja.
+
+(1e) Az (1b) bekezdés f) pontja alkalmazásában a kuratóriumi tag, a felügyelőbizottsági tag, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője a 6. § (4) bekezdése alapján második alkalommal kizárólag egyetlen kuratóriumba vagy felügyelőbizottságba, illetve egyetlen, az alapítvány által létesített vagy fenntartott jogi személybe jelölhető ki újra.
 
 (2) Az alapítványi vagyonellenőr nem minősül az alapítvány törvény szerinti, illetve annak alapján megbízott tisztségviselőjének és – a 8. § (3) bekezdésében meghatározott kivételekkel – az alapítványi vagyonellenőri tisztség nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel.
 

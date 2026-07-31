@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-9-00-00
 | 2025-12-17 | 2025. évi XCV. törvény | 2021-9-00-00.23 |
 | 2026-05-01 | 2025. évi XCV. törvény | 2021-9-00-00.27 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2021-9-00-00.24 |
+| 2026-07-31 | 2026. évi XXXV. törvény | 2021-9-00-00.26 |

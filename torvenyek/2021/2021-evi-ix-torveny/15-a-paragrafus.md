@@ -9,3 +9,5 @@
 (4) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a kuratóriumi tag, a felügyelőbizottsági tag, illetve az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője a tisztségéből eredő jogait nem gyakorolhatja, díjazásban nem részesülhet.
 
 (5) A kuratóriumi tag, a felügyelőbizottsági tag, valamint az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője által tett, (1) bekezdés szerinti vagyonnyilatkozatot az Integritás Hatóság az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény szerint ellenőrzi.
+
+(6) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy kuratóriumi tag, felügyelőbizottsági tag vagy az alapítvány által létesített vagy fenntartott jogi személy vezető tisztségviselője a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, az alapítói jogok gyakorlójánál kezdeményezi a jogviszonyának megszüntetését.
