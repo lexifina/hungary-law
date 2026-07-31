@@ -4,13 +4,13 @@ a) 1. § (1) bekezdés c) pontjában a „közszolgáltatásokra, valamint” sz
 
 b) 1. § (1) bekezdés e) pontjában a „szolgáltatásokra.” szövegrész helyébe a „szolgáltatásokra, valamint” szöveg,
 
-c) 5. § (5) bekezdésében az „a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI)” szövegrész helyébe az „az országos közlekedésszervező” szöveg,
+c)
 
 d) 19. § (4) bekezdésében a „22. § (2) bekezdése” szövegrész helyébe a „21. § (1b) bekezdése vagy a 22. § (2) bekezdése” szöveg,
 
 e) 19. § (5) bekezdésében a „22. § (2) bekezdése” szövegrész helyébe a „21. § (1b) bekezdése vagy a 22. § (2) bekezdése” szöveg,
 
-f) 25. § (1) bekezdésében az „a miniszter az államháztartásért felelős miniszterrel egyetértésben” szövegrész helyébe az „a miniszter nevében az országos közlekedésszervező” szöveg,
+f)
 
 g) 32. § (5) bekezdésében az „a 22. §” szövegrész helyébe az „a 21. § (1b) bekezdése vagy a 22. §” szöveg,
 
