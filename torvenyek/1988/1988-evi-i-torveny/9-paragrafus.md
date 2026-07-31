@@ -2,6 +2,8 @@
 
 (1a) A 8. § (1) bekezdés a)–c) pontjában meghatározott állami feladatok ellátását a közlekedésért felelős miniszter (a továbbiakban: miniszter) koordinálja.
 
+(1b) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény szerinti országos közlekedésszervező (a továbbiakban: országos közlekedésszervező) ellátja a 11. § (1) bekezdésében meghatározott, a közúti infrastruktúrát pótló, vízi átkelést szolgáló kompokkal összefüggő, a miniszter által rendeletben meghatározott közlekedésszervezői feladatokat.
+
 (2) A helyi önkormányzat képviselő-testülete vagy közgyűlése gondoskodik a közúti közlekedéssel összefüggő helyi önkormányzati feladatok ellátásáról, így különösen
 
 a) a gyalogos-átkelőhelyek megvilágításáról a település belterületén,

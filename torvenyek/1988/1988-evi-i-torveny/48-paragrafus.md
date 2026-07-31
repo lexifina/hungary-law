@@ -172,7 +172,7 @@ b) a miniszter, hogy
 
 23. a közutak forgalombiztonsági szempontjai felülvizsgálatának (auditálásának) szakmai szabályait,
 
-24.
+24. az országos közlekedésszervező közlekedésszervezői feladatai ellátásának részletes szabályait,
 
 25. az alagutak tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
 
