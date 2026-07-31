@@ -1,0 +1,1 @@
+11/B. § E törvénynek a Helyreállítási és Ellenállóképességi Terv végrehajtása érdekében szükséges adóintézkedésekről, valamint egyéb törvények módosításáról szóló 2026. évi XXXV. törvénnyel hatályon kívül helyezett 5. alcímét a 2026-ban kezdődő adóévre nem kell alkalmazni.
