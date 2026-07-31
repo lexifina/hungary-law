@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 1990-100-00-00.98 |
 | 2026-01-01 | 2025. évi LIV. törvény | 1990-100-00-00.96 |
 | 2026-02-28 | 2025. évi CXXXVI. törvény | 1990-100-00-00.99 |
+| 2026-07-31 | 2026. évi XXXV. törvény | 1990-100-00-00.100 |

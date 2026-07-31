@@ -13,3 +13,5 @@ d) aki az önkormányzat illetékességi területén lévő üdülő tulajdonosa
 e) az egyházi jogi személy tulajdonában lévő építményben, telken vendégéjszakát – kizárólag az egyházi jogi személy hitéleti tevékenységéhez kapcsolódó részvétel céljából – eltöltő egyházi személy;
 
 f) honvédelmi szervek, a rendvédelmi feladatokat ellátó szervek vagy a polgári nemzetbiztonsági szolgálatok állományába tartozó személy hozzátartozója, ha a vendégéjszakát az állomány tagjának látogatása miatt tölti a szolgálatteljesítés vagy a munkavégzés helye szerinti településen lévő, a honvédelmi vagy rendvédelmi feladatokat ellátó szerv, vagy a polgári nemzetbiztonsági szolgálat rendelkezése alatt álló, szolgálati érdekből fenntartott szálláshelyen, feltéve, ha a településen való szolgálatteljesítés, munkavégzés időtartama legalább egybefüggő 30 nap.
+
+g) az Ukrajna területéről 2022. február 24. napján vagy azt követően érkezett olyan magánszemély, aki a Magyarországra érkezését megelőzően jogszerűen tartózkodott Ukrajna területén.
