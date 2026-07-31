@@ -70,6 +70,8 @@ látja el.
 
 (4) A miniszter látja el – az általa kijelölt szervezet útján – a vízi közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
 
+(4a) A személyszállítási szolgáltatásokról szóló törvény szerinti országos közlekedésszervező (a továbbiakban: országos közlekedésszervező) ellátja a (6) bekezdésben meghatározott, a helyi személyszállítási közszolgáltatásnak nem minősülő regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó komp- és révközlekedésnek minősített komp- és révközlekedés működtetésével összefüggő, a miniszter által rendeletben meghatározott közlekedésszervezői feladatokat.
+
 (5) A hajózási képesítések megszerzéséhez szükséges vizsgáztatást a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi.
 
 (6) A miniszter feladata a Kormány rendeletében meghatározott regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó komp- és révközlekedésnek minősített, a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedés működtetése.

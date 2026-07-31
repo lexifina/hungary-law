@@ -72,7 +72,7 @@ rendeletben történő megállapítására.
 
 10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
 
-11.
+11. az országos közlekedésszervező közlekedésszervezői feladatai ellátásához kapcsolódó részletes szabályoknak,
 
 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
 

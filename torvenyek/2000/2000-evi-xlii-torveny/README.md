@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2025-06-15 | 2025. évi XXXV. törvény | 2000-42-00-00.76 |
 | 2025-07-20 | 2025. évi L. törvény | 2000-42-00-00.77 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2000-42-00-00.78 |
+| 2026-07-31 | 2026. évi XXXVII. törvény | 2000-42-00-00.79 |
