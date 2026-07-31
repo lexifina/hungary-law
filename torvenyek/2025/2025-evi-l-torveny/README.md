@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-50-00-00
 | 2025-08-20 | 2010. évi CXXX. törvény | 2025-50-00-00.6 |
 | 2025-12-17 | 2025. évi XCIII. törvény | 2025-50-00-00.8 |
 | 2026-05-14 | 2025. évi CXX. törvény | 2025-50-00-00.7 |
+| 2026-07-31 | 2026. évi XXXV. törvény | 2025-50-00-00.9 |
