@@ -14,6 +14,4 @@
 
 ## G. bármely más adók.”
 
-39. § A MAC törvény a következő 6/B. §-sal egészül ki:
-
-„6/B. § Magyarország az Egyezmény A mellékletének hatálya alá tartozó adónak tekinti az 1. melléklet szerinti adókat, amelyről az Egyezmény 2. cikk 3. bekezdése szerint a Letéteményesek egyikét értesíti.”
+### 39. §

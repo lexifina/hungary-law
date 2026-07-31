@@ -1,3 +1,1 @@
-5. § Az Szja tv. 67/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ügyleti eredmény megállapítása során bevételként a kriptoeszköznek a kriptoeszköz átruházása, átengedése (vagy a joggyakorlás megkezdése) időpontjára megállapított szokásos piaci értékét kell figyelembe venni. A (2) bekezdéstől eltérően kriptoeszközzel végrehajtott ügyletnek minősül a kriptoeszköz bizalmi vagyonkezelésbe adása, magánalapítvány részére történő tulajdonba adása is, azzal, hogy bevételként azt az értéket kell tekinteni, amelyen azt az átvevő (kezelt vagyon, magánalapítvány) számviteli nyilvántartásba vette.”
+### 5. §
