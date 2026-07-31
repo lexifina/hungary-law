@@ -18,7 +18,7 @@ véglegessé válását követően kezdődhet meg, illetve folytatható.
 
 (1a)
 
-(1b) A villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés b) pontja szerinti eljárásban a környezetvédelmi engedély az integrált építési és környezetvédelmi engedély részeként kerül kiadásra.
+(1b) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 115. § (1) bekezdés b) és c) pontja szerinti eljárásokban a környezetvédelmi engedély az integrált építési és környezetvédelmi engedély részeként kerül kiadásra.
 
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetekben a környezethasználat a környezethasználó által a környezetvédelmi hatóság részére adott bejelentést követően kezdhető meg, illetve folytatható.
 

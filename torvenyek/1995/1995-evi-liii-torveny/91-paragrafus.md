@@ -8,4 +8,4 @@
 
 (5) A környezetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni.
 
-(6)
+(6) A Vet. szerinti integrált erőműépítési és környezetvédelmi engedélyezési eljárás részét képező környezeti hatásvizsgálat lefolytatására irányuló eljárásban az ügyintézési határidő nyolcvanöt nap.
