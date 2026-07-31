@@ -156,6 +156,8 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 4 | NISZ Zrt. | Alközponti szolgáltatás | alközponti szolgáltatás (üzemeltetés) | 9. § (1) bekezdése szerint |
 
+| 5 | IdomSoft Zrt. | Strukturált adatbevitelre szolgáló elektronikus nyilvántartási rendszer és kapcsolódó felhasználói felület | alkalmazásüzemeltetési, alkalmazásüzemeltetés-támogatási és alkalmazásfejlesztési szolgáltatás | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 1/2026. (VII. 30.) TTM rendelet hatálybalépésének napja |
+
 6. Az Országgyűlési Őrség részére nyújtott közszolgáltatások
 
 |  | A | B | C | D |
@@ -422,4 +424,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a, a 24/2025. (VII. 31.) EM rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a, a 24/2025. (VII. 31.) EM rendelet 1. §-a, az 1/2026. (VII. 30.) TTM rendelet 1. §-a szerint módosított szöveg.
