@@ -2,7 +2,7 @@
 
 9. § (1) Koncessziós pályázatra kijelölhető területként a Hatóság elnökének rendeletében zárt területté nyilvánított területet lehet figyelembe venni.
 
-(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
+(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata kedvezőnek ígérkezik.
 
 (2a) A (2) bekezdés szerinti érzékenységi és terhelhetőségi vizsgálatot a bányafelügyelet folytatja le. A vizsgálatban a Hatóság elnökének rendelete szerinti adatszolgáltatási és véleményezési körben közreműködik
 

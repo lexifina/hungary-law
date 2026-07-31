@@ -1,6 +1,6 @@
 ## Geotermikus energia kutatása és hasznosítása
 
-21/A. § (1) Geotermikus energia kutatását – a 22. § (1) bekezdés kivételével – a bányafelügyelet engedélye alapján lehet végezni.
+21/A. § (1) Geotermikus energia kutatását a bányafelügyelet engedélye alapján lehet végezni.
 
 (2) A bányavállalkozó a kutatási engedély alapján a kutatási területen kizárólagosan jogosult – a (2a) bekezdés kivételével – a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, továbbá a geotermikus védőidom kijelölésének és a 21/C. § (1) bekezdése szerinti szerződés megkötésének kezdeményezésére.
 
@@ -22,11 +22,11 @@ d) amely terület tekintetében más a 21/C. § (1) bekezdése szerinti szerződ
 
 (3) A kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot. A kutatási engedély megadásának feltétele a Hatóság elnökének rendeletében megállapított pénzügyi biztosíték nyújtása.
 
-(3a) A geotermikusenergia-kutatás engedélyezése iránti kérelem elbírálása során a bányafelügyelet kikéri a szakmai tanácsadó testületként eljáró Geotermikus Energia Bizottság (a továbbiakban: Bizottság) véleményét. A Bizottság létrehozásának, összetételének és működésének szabályait, valamint feladatát a Kormány rendeletben állapítja meg.
+(3a)
 
-(3b) A Bizottság megkeresésének és szakmai véleménye beszerzésének időtartama – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 50. § (5) bekezdésétől eltérően – az ügyintézési határidőbe nem számít bele.
+(3b)
 
-(3c) A bányafelügyelet a geotermikusenergia-kutatás engedélyezése iránti kérelem elbírálása során mérlegeli a Bizottságtól beszerzett véleményt. Ha a bányafelügyelet a kérelem elbírálása során hozott döntésében eltér a Bizottságtól beszerzett szakmai véleménytől, döntésében köteles indokolni az eltérés okát.
+(3c)
 
 (4) A kutatási időszak – a munkaprogramban tervezett kutatási tevékenység időszükséglete alapján – legfeljebb négy év lehet, amely az engedélyezett időszak felével két alkalommal meghosszabbítható. A kutatási időszakba nem számít be a kutatás megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások, valamint a bányavállalkozó által lefolytatott közbeszerzési eljárás időtartama.
 

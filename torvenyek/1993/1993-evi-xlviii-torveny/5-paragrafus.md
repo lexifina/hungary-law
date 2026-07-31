@@ -14,7 +14,7 @@ e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld
 
 f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
 
-g) nyílt területen, valamint a 8. § (2) bekezdése szerinti esetben a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
+g) a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
 
 h) a bányászati hulladék kezelését,
 

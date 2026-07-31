@@ -102,7 +102,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 23. „Energetikai és ipari eredetű szén-dioxid”: a fosszilis ásványi nyersanyagok termikus bomlása és fosszilis energiahordozók elégetése során keletkező szén-dioxid.
 
-24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése vagy geotermikus energia kutatása, kinyerése és hasznosítása céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
+24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
 
 25. „Növelt hatékonyságú művelési eljárás”: olyan elsődleges és másodlagos művelési eljárásnak nem minősülő többletszénhidrogén-kihozatali eljárás, amely a szénhidrogéntelítettség csökkentését eredményezi, és ezzel megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
 

@@ -1,6 +1,6 @@
 50/A. § (1) Felhatalmazást kap a Kormány
 
-1. a Bizottság létrehozására és összetételére, valamint feladatára és működésére,
+1.
 
 2.
 

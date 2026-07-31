@@ -1,3 +1,3 @@
 50/L. § (1) Ha a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv12.) megállapított 8. § (1) bekezdés a) pont ab) alpontja hatálybalépését követően olyan terület zárt területté nyilvánítására kerül sor, amely a bányafelügyelet által kiadott geotermikus kutatási engedélyben lehatárolt kutatási területet is érint, az érintett kutatási terület tekintetében a bányafelügyeleti eljárásokat a Módtv12.-vel megállapított 8. § hatálybalépését megelőző napon hatályos jogszabályi rendelkezések szerint kell lefolytatni.
 
-(2) E törvénynek a Módtv12.-vel módosított 8. §-át, 9. §-át, 14. §-át, 15. §-át, 19. §-át, 21/A. §-át és 22. §-át e rendelkezések hatálybalépését követően meghirdetésre kerülő koncessziós eljárásokra kell alkalmazni.
+(2)

@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2025-07-05 | 2025. évi LI. törvény | 1993-48-00-00.113 |
 | 2025-08-01 | 2025. évi LI. törvény | 1993-48-00-00.114 |
 | 2026-01-01 | 2025. évi LXXXI. törvény | 1993-48-00-00.110 |
+| 2026-07-31 | 2026. évi XXXVI. törvény | 1993-48-00-00.115 |
