@@ -1,8 +1,8 @@
-9. § (1)[^14] A HVK ÖMVIK IMK ÁB a HKR aktivizálása esetén részleges vagy teljes állománnyal a HVKF intézkedése alapján, a HM KÁT egyidejű tájékoztatása mellett kerül aktivizálásra.
+9. § (1)[^14] A HVK SMK a HKR aktivizálása esetén részleges vagy teljes állománnyal a HVKF intézkedése alapján, a HM KÁT egyidejű tájékoztatása mellett kerül aktivizálásra.
 
-(2)[^15] A HVK ÖMVIK IMK ÁB váltásvezető feladatait, valamint a HVK ÖMVIK IMK ÁB szakmai feladatait a HVKF által kijelölt személyek látják el.
+(2)[^15] A HVK SMK váltásvezető feladatait, valamint a HVK SMK szakmai feladatait a HVKF által kijelölt személyek látják el.
 
-(3)[^16] A HVK ÖMVIK IMK ÁB a katasztrófa időszakában
+(3)[^16] Az MH ÖMP IMK a katasztrófa időszakában
 
 a) összegyűjti és feldolgozza a várható és a bekövetkezett katasztrófák felméréséhez, értékeléséhez szükséges információkat,
 
@@ -24,8 +24,8 @@ i) a várható és kialakult helyzettel kapcsolatos információk folyamatos és
 
 j)[^18] előkészíti a HVKF katasztrófák elleni védekezéssel kapcsolatos döntéseit.
 
-[^14]: A 9. § (1) bekezdése a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja, a 13/2023. (VI. 29.) HM rendelet 3. § 5., 6. és 8. pontja szerint módosított szöveg.
-[^15]: A 9. § (2) bekezdése a 13/2023. (VI. 29.) HM rendelet 3. § 5., 8. és 9. pontja szerint módosított szöveg.
-[^16]: A 9. § (3) bekezdés nyitó szövegrésze a 13/2023. (VI. 29.) HM rendelet 3. § 8. pontja szerint módosított szöveg.
+[^14]: A 9. § (1) bekezdése a 6/2026. (VII. 30.) HM rendelet 4. §-ával megállapított szöveg.
+[^15]: A 9. § (2) bekezdése a 6/2026. (VII. 30.) HM rendelet 4. §-ával megállapított szöveg.
+[^16]: A 9. § (3) bekezdés nyitó szövegrésze a 6/2026. (VII. 30.) HM rendelet 9. § a) pontja szerint módosított szöveg.
 [^17]: A 9. § (3) bekezdés d) pontja a 13/2023. (VI. 29.) HM rendelet 3. § 10. pontja szerint módosított szöveg.
 [^18]: A 9. § (3) bekezdés j) pontja a 13/2023. (VI. 29.) HM rendelet 3. § 5. pontja szerint módosított szöveg.

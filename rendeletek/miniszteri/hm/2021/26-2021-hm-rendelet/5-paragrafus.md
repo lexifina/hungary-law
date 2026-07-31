@@ -4,20 +4,24 @@
 
 5. § (1) A HKR-nek a miniszter által vezetett minisztériumbeli (a továbbiakban: HM) feladatokat ellátó eleme a Honvédelmi Minisztérium Honvédelmi Operatív Törzs (a továbbiakban: HM HOT).
 
-(2) A HKR-nek az MH-ban működő elemei
+(2)[^3] A HKR-nek az MH-ban működő elemei a következők:
 
-a)[^3] a Honvéd Vezérkar Összhaderőnemi Műveletvezető és Irányító Központ Integrált Műveleti Központ Állandó Blokk (a továbbiakban: HVK ÖMVIK IMK ÁB),
+a) a Honvéd Vezérkar Stratégiai Műveleti Központ (a továbbiakban: HVK SMK),
 
-b) az operatív csoport,
+b) a Magyar Honvédség Összhaderőnemi Műveleti Parancsnokság Integrált Műveleti Központ (a továbbiakban: MH ÖMP IMK),
 
-c) a helyi vezetési elem,
+c) a honvédségi szervezetek operatív csoportjai,
 
-d) a végrehajtó erők,
+d) az operatív csoportokból kikülöníthető – vagy külön megalakított – operatív részlegek mint helyi vezetési elemek,
 
-e) az Ágazati Információs Központ (a továbbiakban: ÁIK) és
+e) a végrehajtó erők,
 
-f) az MH Járványügyi Védekezési Csoport (a továbbiakban: MH JVCS).
+f) a munkacsoportok,
+
+g) az Ágazati Információs Központ (a továbbiakban: ÁIK) és
+
+h) az MH Atom, Biológiai, Vegyi Riasztási Értesítési Rendszer (a továbbiakban: MH ABV RIÉR).
 
 (3) Aktivizálás esetén a HKR HM szintű feladatainak végrehajtása a Honvédelmi Ágazati Válságkezelő Rendszer keretében, a HKR MH-ban működő elemeinek vezetése az MH Műveleti Vezetési Rendszer keretében történik.
 
-[^3]: Az 5. § (2) bekezdés a) pontja a 13/2023. (VI. 29.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdése a 6/2026. (VII. 30.) HM rendelet 1. §-ával megállapított szöveg.

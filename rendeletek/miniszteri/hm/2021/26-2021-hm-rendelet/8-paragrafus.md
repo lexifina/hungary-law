@@ -18,10 +18,10 @@ g) közreműködik a védelmi igazgatás területi szerveinek hatáskörébe uta
 
 h) ágazati szakértőt biztosít a KKB NVK-ba, és
 
-i)[^13] folyamatosan együttműködik a HVK ÖMVIK IMK ÁB-val, és visszaellenőrzés által pontosított információkkal látja el a HVK ÖMVIK IMK ÁB-t az MH védekezésben való közreműködésével kapcsolatos igények vonatkozásában.
+i)[^13] folyamatosan együttműködik a HVK SMK-val, és visszaellenőrzés által pontosított információkkal látja el a HVK SMK-t az MH védekezésben való közreműködésével kapcsolatos igények vonatkozásában.
 
 [^9]: A 8. § (1) bekezdése a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja, a 13/2023. (VI. 29.) HM rendelet 3. § 5. és 6. pontja szerint módosított szöveg.
 [^10]: A 8. § (2) bekezdés a) pontja a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja, a 13/2023. (VI. 29.) HM rendelet 3. § 6. pontja szerint módosított szöveg.
 [^11]: A 8. § (2) bekezdés b) pontja a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja, a 13/2023. (VI. 29.) HM rendelet 3. § 6. pontja szerint módosított szöveg.
 [^12]: A 8. § (2) bekezdés c) pontja a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja, a 13/2023. (VI. 29.) HM rendelet 3. § 6. pontja szerint módosított szöveg.
-[^13]: A 8. § (2) bekezdés i) pontja a 13/2023. (VI. 29.) HM rendelet 3. § 4. és 7. pontja szerint módosított szöveg.
+[^13]: A 8. § (2) bekezdés i) pontja a 6/2026. (VII. 30.) HM rendelet 3. §-ával megállapított szöveg.
