@@ -22,6 +22,6 @@ h) a helyi személyszállítási közszolgáltatások tekintetében az egyes uta
 
 (4) Az országos, regionális és elővárosi közlekedési szolgáltató a bevételeket időponthoz, járatokhoz, menetjegyhez, árkategóriákhoz, valamint indulási és érkezési állomáshoz rendelhető adatstruktúrában köteles nyilvántartani.
 
-(5) Ha a bevételek beszedését a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
+(5) Ha a bevételek beszedését a 21. § (1b) bekezdése vagy a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
 
 (6) Az ellátásért felelős a főváros és elővárosa tekintetében a fővárosi személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatások igénybevételére jogosító egységes jegy- és bérletrendszert működtet, a megyei jogú város tekintetében a helyi személyszállítási közszolgáltatások és az elővárosi személyszállítási közszolgáltatások igénybevételére vonatkozó egységes jegy- és bérletrendszert működtethet.

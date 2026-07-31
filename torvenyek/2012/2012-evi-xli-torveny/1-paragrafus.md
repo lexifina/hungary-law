@@ -14,11 +14,13 @@ a) a Magyarország területén végzett belföldi és nemzetközi közúti és v
 
 b) a saját számlás személyszállításra,
 
-c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában és 2/A. §-ában foglalt személyszállítási közszolgáltatásokra, valamint
+c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában és 2/A. §-ában foglalt személyszállítási közszolgáltatásokra,
 
 d) a Vkt. 3. § (2) bekezdésében foglalt személyszállítási közszolgáltatásokra, amennyiben azok a helyi vagy az elővárosi személyszállítási közszolgáltatások részét képezik,
 
-e) az iskolabusszal vagy közösségi busszal végzett személyszállítási szolgáltatásokra.
+e) az iskolabusszal vagy közösségi busszal végzett személyszállítási szolgáltatásokra, valamint
+
+f) a Vkt. 2. § (4a) és (6) bekezdésében foglalt személyszállítási közszolgáltatásokra.
 
 (2) A törvény hatálya nem terjed ki:
 
@@ -33,3 +35,5 @@ b) a különleges szállítási igénnyel rendelkező utascsoportok részére bi
 (5) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/782 rendelet] e törvénnyel és a 49. § (1) bekezdés c) pontja alapján kiadott jogszabályokkal együttesen alkalmazandó.
 
 (6) Az autóbuszos személyszállítási szolgáltatásra az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-ai 181/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 181/2011/EU rendelet) e törvénnyel és a 49. § (1) bekezdés d) pontja alapján megalkotott jogszabályokkal, az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-ei 1073/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1073/2009/EK rendelet) e törvénnyel és az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen alkalmazandó.
+
+(7) Ha e törvény lehetővé teszi, rendeleti kijelölés esetén az e törvényben a közlekedésszervezőre meghatározott feladatok vonatkozásában a közlekedésért felelős miniszter hatáskörébe tartozó feladatok tekintetében az országos közlekedésszervező, az önkormányzat hatáskörébe tartozó feladatok tekintetében a közlekedésszervező (a továbbiakban együtt: közlekedésszervező) jár el.

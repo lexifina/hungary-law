@@ -52,7 +52,7 @@ h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatá
 
 i) a 35. § (4) bekezdésében meghatározott szervezet kijelölését, az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a szervezet feladataira, a személyszállítási közszolgáltatások teljesítése mennyiségi és minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
 
-j)
+j) az országos közlekedésszervező kijelölését, működési feltételeinek, a 21. § (1a) és (1c) bekezdésében, valamint a 21/A. §-ban meghatározott feladatátadás céljának, a feladatok teljesítésének, feltételeinek és megosztásának, a döntési jogok megosztása módjának, feltételeinek és felelősségi rendjének, az együttműködés kereteinek, a források átadása módjának, az országos közlekedésszervező feletti szakmai felügyeleti jogkör gyakorlása módjának, az országos közlekedésszervező és a gördülőállomány-kezelő társaság közötti információ megosztási kötelezettségnek, a 21. § (1e) bekezdésében meghatározott feladatellátásnak a részletes szabályait, az önként ellátható feladatokkal összefüggő szabályokat, valamint a feladatok ellátásával kapcsolatos további szükséges feltételeket, az országos közlekedésszervező vezető tisztségviselőjével, valamint vezető testületének tagjaival kapcsolatos szakmai és személyi feltételekre vonatkozó részletes szabályokat
 
 k)
 

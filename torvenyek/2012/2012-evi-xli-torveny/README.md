@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2025-07-01 | 2025. évi LV. törvény | 2012-41-00-00.52 |
 | 2025-12-23 | 2025. évi CXX. törvény | 2012-41-00-00.53 |
 | 2026-01-01 | 2025. évi CXX. törvény | 2012-41-00-00.54 |
+| 2026-07-31 | 2026. évi XXXVII. törvény | 2012-41-00-00.55 |

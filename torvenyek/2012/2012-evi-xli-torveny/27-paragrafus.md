@@ -14,6 +14,8 @@ c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség
 
 d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
 
+(4a) Az alapellátásban részesülő települési önkormányzattal egyeztetve a (4) bekezdés a) pontjában foglalt közvetlen eljutási lehetőséget a megrendelő eltérő járásközpontba vagy a gyakorlatban kialakult vonzáskörzeti központba is biztosíthatja.
+
 (5) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokat igénybe vevőknek naponta legalább három alkalommal a (4) bekezdés a) pontjában és naponta legalább két alkalommal a (4) bekezdés b)–d) pontjában meghatározott viszonylatokon nyújtott alapellátást kell biztosítani településenként, a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrend szerint közlekedő járattal.
 
 (6) A lakosság mobilitásának elősegítése érdekében a (4) és (5) bekezdésben foglaltakon felül e törvény felhatalmazása alapján a közlekedésért felelős miniszter rendeletben az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozóan a személyszállítási közszolgáltatások keretében nyújtandó alapellátás részeként további kötelező eljutási lehetőségek biztosítását határozhatja meg.
