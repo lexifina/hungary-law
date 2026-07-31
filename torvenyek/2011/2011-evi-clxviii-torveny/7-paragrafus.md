@@ -12,7 +12,7 @@ e) a társasági adó alanya által a társasági adóról és az osztalékadór
 
 f) a Magyarország 2023–2027 évekre vonatkozó KAP Stratégiai Tervéből nyújtott támogatás.
 
-(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag kárenyhítő juttatás céljára és a (6) bekezdés szerinti célokra teljesíthető kifizetés.
+(2) A mezőgazdasági kockázatkezelési pénzeszközből – törvény eltérő rendelkezése hiányában – kizárólag kárenyhítő juttatás, kárenyhítő juttatás előrehozott kifizetése (a továbbiakban: kárenyhítési előleg) céljára és a (6) bekezdés szerinti célokra teljesíthető kifizetés.
 
 (3) Az (1) bekezdés a) pontja szerinti pénzforrás a miniszter által vezetett minisztérium költségvetési fejezet fejezeti kezelésű előirányzatának bevételét képezi.
 

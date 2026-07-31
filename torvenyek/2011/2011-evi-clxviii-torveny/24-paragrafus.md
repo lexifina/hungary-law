@@ -64,6 +64,8 @@ t) a krízisbiztosítási rendszer működésével kapcsolatos eljárási szabá
 
 u) a 2020 utáni Közös Agrárpolitika hazai végrehajtásához szükséges tervezés és a mezőgazdasági kockázatkezelési rendszer továbbfejlesztésének a 7. § (6) bekezdés szerinti pénzösszeg terhére finanszírozható költségeinek a meghatározását
 
+v) a kárenyhítési előleg igénybevételét megalapozó mezőgazdasági káreseményeket, a kárenyhítési előleg iránti kérelem benyújtásának, elbírálásának részletes feltételeit, szabályait és a kárenyhítési előleg mértékét
+
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter arra, hogy rendeletben kijelölje azt a gazdasági elemzésekkel foglalkozó intézményt, amely felé a biztosító e törvény szerint fennálló adatszolgáltatási kötelezettségét köteles teljesíteni.
