@@ -1,4 +1,4 @@
-10. § (1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
+10. § (1) A NAV elnöke felett a munkáltatói jogkört a kijelölt miniszter gyakorolja. A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
 (2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettesei felett a munkáltatói jogkört a NAV elnöke gyakorolja.
 

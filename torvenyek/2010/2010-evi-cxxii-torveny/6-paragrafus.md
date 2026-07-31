@@ -1,6 +1,6 @@
 ## A Nemzeti Adó- és Vámhivatal vezetői
 
-6. § (1) A NAV-ot az elnök vezeti. A NAV elnökének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
+6. § (1) A NAV-ot az elnök vezeti. A NAV elnökét határozatlan időtartamra a kijelölt miniszter nevezi ki, és menti fel. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
 
 (2) A NAV elnöke feladat- és hatáskörében minősítésre jogosult.
 
