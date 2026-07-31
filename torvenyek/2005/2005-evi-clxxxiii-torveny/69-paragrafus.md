@@ -20,7 +20,7 @@
 
 7. döntés a 79/B. § (1) bekezdése szerinti jogvitás ügyekben,
 
-8. a pályahálózat-működtető, valamint a VPSZ függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételek meglétének ellenőrzése,
+8. a pályahálózat-működtető, a VPSZ, valamint a gördülőállomány-kezelő társaság függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételek meglétének ellenőrzése,
 
 9. annak ellenőrzése, hogy a hálózati üzletszabályzat nem tartalmaz-e diszkriminatív rendelkezéseket vagy nem ruházza-e fel a pályahálózat-működtetőt olyan mérlegelési jogkörrel, amelyet fel lehetne használni a kapacitásigénylőkkel szembeni hátrányos megkülönböztetésre,
 
@@ -54,7 +54,7 @@
 
 24. a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a pályahálózat-működtető, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés nyílt hozzáférés alól mentessé történő minősítéséről,
 
-25. a vasúti társaság személyszállítási üzletszabályzatának, valamint a közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
+25. a vasúti társaság személyszállítási üzletszabályzatának, valamint a közlekedésszervező és az országos közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
 
 26. külön jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
 

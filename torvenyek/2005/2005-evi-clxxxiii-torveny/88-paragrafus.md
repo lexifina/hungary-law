@@ -136,7 +136,7 @@ rendeletben állapítsa meg.
 
 29.
 
-30. a pályahálózat-működtető, valamint a VPSZ függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételeket,
+30. a pályahálózat-működtető, a VPSZ, valamint a gördülőállomány-kezelő társaság függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételeket,
 
 31. a kiszolgáló létesítményben nyújtott szolgáltatások igénybevétele érdekében szükséges, a kiszolgáló létesítmény üzemeltetője által nyújtott naprakész információk felsorolását,
 
@@ -171,6 +171,12 @@ rendeletben állapítsa meg.
 46. a vasúti egyes kocsi teherfuvarozás állami támogatási program részletes feltételeit az államháztartásért felelős miniszterrel egyetértésben, valamint a támogatási program lebonyolítását végző szervezet kijelölését
 
 47. a 28/A. §-ban meghatározott feladat ellátásáért felelős szervezet kijelölését, a vasúti pályahálózat minőségi követelményei megvalósulásának és fennállásának vonatkozásában a szervezet feladataira, minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
+
+48. a pályahálózat-működtetés megrendelési feladatait ellátó szervezet kijelölését,
+
+49. a gördülőállomány-kezelő társaság kijelölését,
+
+50. a gördülőállomány-kezelő társaság vezető tisztségviselőjével, valamint vezető testületének tagjaival kapcsolatos szakmai és személyi feltételekre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
