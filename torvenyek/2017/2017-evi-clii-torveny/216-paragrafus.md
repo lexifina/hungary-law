@@ -22,6 +22,8 @@
 
 8. az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendeletnek
 
+9. az 1186/2009/EK rendeletnek a küszöbértéken alapuló vámmentesség eltörlése tekintetében történő módosításáról szóló 2026. február 11-i 2026/382 tanácsi rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény
