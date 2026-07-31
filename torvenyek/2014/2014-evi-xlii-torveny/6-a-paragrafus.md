@@ -2,7 +2,7 @@
 
 (2) Az egyoldalú nyilatkozat hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-“DECLARATION ON THE EFFECTIVE DATE FOR EXCHANGES OF INFORMATION UNDER THE MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION
+„“DECLARATION ON THE EFFECTIVE DATE FOR EXCHANGES OF INFORMATION UNDER THE MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION
 
 Considering that Hungary has committed to automatically exchange information as of 2017 and that, in order to be able to automatically exchange information under Article 6 of the Convention on Mutual Administrative Assistance in Tax Matters as amended by the Protocol amending the Convention on Mutual Administrative Assistance in Tax Matters (hereafter the “amended Convention”) [in accordance with the timeline to which it has committed], Hungary has signed a Declaration on joining the Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information (hereafter the “CRS MCAA”) on 29th October, 2014;
 

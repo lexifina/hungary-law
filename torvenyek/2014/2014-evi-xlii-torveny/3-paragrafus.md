@@ -492,21 +492,21 @@ i. a jövedelem-, a nyereség-, a tőkenyereség és a vagyonadókra, amelyeket 
 
 ii. a központi kormányzatnak vagy a közjog alapján létrehozott társadalombiztosítási intézménynek fizetendő kötelező társadalombiztosítási hozzájárulásra;
 
-iii. a Fél nevében bevezetett egyéb típusú adókra, kivéve a vámokat, nevezetesen:
+## iii. a Fél nevében bevezetett egyéb típusú adókra, kivéve a vámokat, nevezetesen:
 
-A. ingatlan-, öröklési- és ajándékozási adók;
+## A. hagyatéki-, öröklési- és ajándékozási adók;
 
-B. ingóvagyont terhelő adók;
+## B. ingatlanvagyont terhelő adók;
 
-C. általános fogyasztási adók, úgy mint a hozzáadott érték vagy forgalmi adók;
+## C. általános fogyasztási adók, úgy mint a hozzáadott érték vagy forgalmi adók;
 
-D. az árukat és szolgáltatásokat terhelő speciális adók mint a fogyasztási adók;
+## D. az árukat és szolgáltatásokat terhelő speciális adók mint a fogyasztási adók;
 
-E. gépjárművek használatát vagy birtoklását terhelő adók;
+## E. gépjárművek használatát vagy tulajdonlását terhelő adók;
 
-F. gépjárművektől különböző ingó vagyon használatát vagy birtoklását terhelő adók;
+## F. gépjárművektől különböző ingó vagyon használatát vagy tulajdonlását terhelő adók;
 
-G. bármely más adók.
+## G. bármely más adók.
 
 iv. az iii. albekezdésben említett kategóriákba tartozó adók, amelyeket a Fél politikai alegysége vagy helyi hatósága nevében vezettek be.
 
