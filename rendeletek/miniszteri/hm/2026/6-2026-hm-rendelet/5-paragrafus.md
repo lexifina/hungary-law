@@ -1,3 +1,3 @@
-5. § Az R. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) A HM HOT, a HVK SMK, az MH ÖMP IMK, az operatív csoportok állománya, az ÁIK kijelölt állománya, valamint a végrehajtó erők meghatározott munkacsoportjaiba kijelölt állomány laktanyán kívüli készenléti szolgálatot lát el.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

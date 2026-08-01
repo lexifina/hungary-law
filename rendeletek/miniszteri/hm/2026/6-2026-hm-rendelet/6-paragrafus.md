@@ -1,3 +1,3 @@
-6. § Az R. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(2) A HM Ü a beérkezett honvédségi közreműködésre vonatkozó kérésről haladéktalanul értesíti a HM KÁT-ot, az ügyeletes HM-beli felsővezetőt, a HM HOT vezető helyettest és az MH KÜ-t.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

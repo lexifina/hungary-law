@@ -1,3 +1,3 @@
-2. § Az R. 7. § c) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A HVKF a katasztrófa időszakában)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

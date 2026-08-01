@@ -1,5 +1,3 @@
-## „c) irányítja a HVK SMK-t.”
+3. §[^4]
 
-3. § Az R. 8. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(A HM HOT a katasztrófa időszakában)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
