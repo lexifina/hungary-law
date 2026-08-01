@@ -1,3 +1,3 @@
 ## 14. Az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény és az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyv kihirdetéséről szóló 2014. évi XLII. törvény módosítása
 
-38. § Az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény és az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyv kihirdetéséről szóló 2014. évi XLII. törvény (a továbbiakban: MAC törvény) 3. §-ában szereplő Egyezmény 2. cikk 1. bekezdés b) iii) pontjának hivatalos magyar nyelvű fordítása helyébe a következő rendelkezés lép:
+### 38. §
