@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-280-20-
 | 2024-01-01 | 2016-280-20-22.6 | 590/2023. (XII. 20.) Korm. rendelet |
 | 2025-01-01 | 2016-280-20-22.7 | 474/2024. (XII. 31.) Korm. rendelet |
 | 2025-03-01 | 2016-280-20-22.8 | 24/2025. (II. 27.) Korm. rendelet |
+| 2026-08-01 | 2016-280-20-22.9 | 118/2026. (VIII. 1.) Korm. rendelet |

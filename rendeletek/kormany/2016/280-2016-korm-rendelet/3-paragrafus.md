@@ -8,4 +8,6 @@ a) olyan információs rendszert működtetni, amelynek segítségével képes f
 
 b) krízis esetén a rendszerszintű tüzelőanyag és teljesítmény helyzetről az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnökét egyidejűleg folyamatosan tájékoztatni.
 
-(4) Ha hatóság határozata alapján egy erőmű tartós termeléscsökkentése szükséges, arról az engedélyes tájékoztatja a Hivatalt.
+(4)[^5] Ha hatóság határozata alapján egy erőmű tartós termeléscsökkentése szükséges, arról az engedélyes haladéktalanul, írásban tájékoztatja a Hivatalt.
+
+[^5]: A 3. § (4) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

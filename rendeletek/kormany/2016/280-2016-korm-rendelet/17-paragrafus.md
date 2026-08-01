@@ -10,6 +10,8 @@ c) a helyzetről tájékoztatást adni a miniszternek és a Hivatal elnökének,
 
 d) a felhasználókat közszolgálati médiaszolgáltatók útján a helyzetről és annak várható időtartamáról tájékoztatni, továbbá önkéntes terheléscsökkentésre felhívni.
 
-(2) Az átviteli rendszerirányító és az elosztó által a Vet. 138. § (2) bekezdése alapján adott utasítások az egyenlő elbánás elvén és az indokolatlan megkülönböztetés tilalmán kell, hogy alapuljanak; az utasítások csak a szükséges és indokolt mértékig okozhatnak terheket a rendszerhasználóknak.
+(2)[^28] Az átviteli rendszerirányító és az elosztó által a Vet. 138. § (2) bekezdése alapján adott utasítások és az indokolatlan megkülönböztetés tilalmán kell, hogy alapuljanak; az utasítások csak a szükséges és indokolt mértékig okozhatnak terheket a rendszerhasználóknak.
 
 (3) A jelentős zavar esetén működő automatikus vagy elrendelhető kikapcsolásokat az átviteli rendszerirányító, valamint az elosztó legfeljebb 6 órás időtartamra alkalmazhatja. Ha a jelentős zavar folyamatosan a 6 órás időtartamot meghaladja, akkor az átviteli rendszerirányító és az elosztó a kikapcsolásokra az RKR-t köteles alkalmazni.
+
+[^28]: A 17. § (2) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.

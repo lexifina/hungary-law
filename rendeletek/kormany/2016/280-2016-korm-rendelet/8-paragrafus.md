@@ -2,15 +2,19 @@
 
 ## 3. A Krízis Munkabizottság
 
-8. § (1) Az átviteli rendszerirányító Krízis Munkabizottságot (a továbbiakban: KM) hoz létre, amelynek feladata
+8. § (1)[^9] Az átviteli rendszerirányító Krízis Munkabizottságot (a továbbiakban: KM) hoz létre, amely
 
-a) a krízis megelőzésére szolgáló és a krízis idején teendő intézkedések előkészítése, valamint
+a) előkészíti a krízis megelőzésére szolgáló és a krízis idején teendő intézkedéseket,
 
-b) javaslattétel a Kormány és Hivatal részére a krízis idején a hatáskörükbe tartozó intézkedésekre.
+b) javaslatot tesz a Kormány és a Hivatal részére a krízis idején a hatáskörükbe tartozó intézkedésekre,
 
-(2) A KM-et az elnök és nyolc tag alkotja. A KM elnöke az átviteli rendszerirányító vezérigazgatója, tagjai a termelői engedélyesek és az elosztók két-két képviselője, az átviteli rendszerirányító, az atomerőmű, az egyetemes szolgáltatók, valamint a villamosenergia-kereskedők egy-egy képviselője.
+c) ellátja az (EU) 2019/941 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés d) pontja szerinti nemzeti válságkoordinátori feladatokat.
 
-(3) A KM ülését az elnök hívja össze. Az ülés összehívásáról a minisztert, a BM OKF főigazgatóját és a Hivatal elnökét előzetesen értesíti. A miniszter, a BM OKF főigazgatója és a Hivatal elnöke, vagy azok megbízottja jogosult az üléseken jelen lenni, a KM-től és a résztvevőktől tájékoztatást kérni. A KM elnöke az ülésre eseti jelleggel más szerv képviselőjét is meghívhatja. A KM maga határozza meg ügyrendjét, szervezetét és az ülésein részt vevő meghívottak körét.
+(2)[^10] A KM-et az elnök és a jelen rendelkezés szerinti tagok alkotják. A KM elnöke az átviteli rendszerirányító vezérigazgatója, társelnöke a miniszter, tagjai továbbá egy-egy képviselő az atomerőmű, a termelői engedélyesek és a kiserőművi engedélyesek részéről, az elosztók egy-egy képviselője, az átviteli rendszerirányító, a földgázszállítási rendszerüzemeltető, az egyetemes szolgáltatók, a villamosenergia-kereskedők részéről egy-egy képviselő, valamint a szervezett villamosenergia-piac képviselője és a miniszter.
+
+(3)[^11] A KM ülését az elnök hívja össze. A KM elnöke az ülésre eseti jelleggel más szerv képviselőjét is meghívhatja. A miniszter a KM elnök részére további eseti meghívott KM ülésen történő részvételét javasolhatja. A KM maga határozza meg ügyrendjét, szervezetét és az ülésein részt vevő meghívottak körét.
+
+(3a)[^12] A (3) bekezdés esetén a KM elnöke az ülés összehívásáról a minisztert, a kijelölő hatóság vezetőjét, valamint a Hivatal és az Országos Atomenergia Hivatal elnökét előzetesen értesíti. A miniszter, a kijelölő hatóság vezetője, valamint a Hivatal és az Országos Atomenergia Hivatal elnöke vagy azok megbízottja jogosult az üléseken jelen lenni, a KM-től és a résztvevőktől tájékoztatást kérni.
 
 (4) A KM az (1) bekezdés a) pontja szerinti feladatai körében különösen
 
@@ -27,3 +31,11 @@ e) együttműködik a Hivatallal a 6. § (4) bekezdés szerinti feladatának ell
 f) véleményezi a 9. § (1) bekezdés szerinti villamosenergia-ellátási krízistervet (a továbbiakban: krízisterv),
 
 g) véleményezi az RKR-t.
+
+(5)[^13] Az (1) bekezdés c) pontjától eltérően az (EU) 2019/941 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés d) pontja szerinti nemzeti válságkoordinátori feladatot a valós időhöz közeli, azonnali beavatkozást igénylő üzemirányítási intézkedések vonatkozásában az átviteli rendszerirányító látja el.
+
+[^9]: A 8. § (1) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 8. § (2) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: A 8. § (3) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^12]: A 8. § (3a) bekezdését a 118/2026. (VIII. 1.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^13]: A 8. § (5) bekezdését a 118/2026. (VIII. 1.) Korm. rendelet 4. § (2) bekezdése iktatta be.

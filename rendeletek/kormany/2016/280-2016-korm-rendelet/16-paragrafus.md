@@ -6,12 +6,13 @@ a) közcélú hálózatról – ide nem értve a magánvezetéket – egy csatla
 
 b) saját célra villamos energiát termelő vagy a közcélú hálózatba betápláló erőművel nem rendelkezik.
 
-(2)[^3] Az alapvető felhasználók körét – az illetékes vármegyei (fővárosi) katasztrófavédelmi igazgatóság, az átviteli rendszerirányító és a területileg illetékes elosztó véleményének kikérése mellett – a Hivatal vármegyénként külön listában állapítja meg, és azt szükség esetén, de legalább háromévente a kijelölésre vonatkozó eljárásrend szerint felülvizsgálja. A Hivatal a felhasználók alapvető felhasználóként történő kijelöléséről a vármegyei (fővárosi) katasztrófavédelmi igazgatóság, a Honvédelmi Minisztérium védelmi igazgatási feladatokat ellátó szervezeti egysége, az egészségügyért felelős miniszter, a hálózati engedélyes vagy a felhasználó javaslata alapján a közigazgatási hatósági eljárás szabályai szerint hivatalból dönt.
+(2)[^26] Az alapvető felhasználók körét a Hivatal állapítja meg, és azt szükség esetén, de legalább háromévente felülvizsgálja.
 
-(3) A Hivatal a beérkezett javaslatokat összesítve, minden év március 31-ig megküldi a (2) bekezdés szerinti véleményezők részére.
+(3)[^27] A Hivatal a kijelölő hatóságot és a hálózati engedélyeseket javaslattétel céljából megkeresi. Az értesítés kézhezvételét követő három hónapon belül a kijelölő hatóság – az érintett elosztóval együttműködve – összeállítja és megküldi a Hivatal részére az alapvető felhasználók körét tartalmazó listára vonatkozó javaslatát. A Hivatal a felhasználók alapvető felhasználóként történő kijelöléséről a javaslat beérkezését követően a közigazgatási hatósági eljárás szabályai szerint hivatalból dönt.
 
 (4) A (2) bekezdés szerinti listáról a Hivatal a villamosenergia-ellátás biztonsága, a villamosenergia-rendszer biztonsága, a villamos energia forrásoldal és a fogyasztás egyensúlyának megőrzése, a krízis megelőzéséhez, enyhítéséhez szükséges és a villamosenergia-hiánnyal arányos intézkedések elve, az RKR célja, valamint az egyenlő bánásmód szempontjainak figyelembevételével dönt.
 
 (5) A Hivatal az alapvető felhasználó kijelöléséről hozott határozatát haladéktalanul megküldi a területileg illetékes elosztónak és az átviteli rendszerirányítónak. Az alapvető felhasználók listáját a területileg illetékes elosztó és az átviteli rendszerirányító naprakészen nyilvántartja.
 
-[^3]: A 16. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 237. § a) és b) pontja szerint módosított szöveg.
+[^26]: A 16. § (2) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 16. § (3) bekezdése a 118/2026. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.

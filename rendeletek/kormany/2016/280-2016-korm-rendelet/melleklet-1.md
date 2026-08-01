@@ -1,4 +1,4 @@
-## 27. §[^9] Ez a rendelet a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/941 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 27. §[^46] Ez a rendelet a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/941 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 280/2016. (IX. 21.) Korm. rendelethez
 
@@ -22,4 +22,4 @@ a) a vonal terhelési adatai csúcsidőben,
 
 b) a vonal fontosabb felhasználói és az érintett felhasználók száma, típusa.
 
-[^9]: A 27. § a 401/2020. (VIII. 17.) Korm. rendelet 31. §-a iktatta be.
+[^46]: A 27. § a 401/2020. (VIII. 17.) Korm. rendelet 31. §-a iktatta be.
