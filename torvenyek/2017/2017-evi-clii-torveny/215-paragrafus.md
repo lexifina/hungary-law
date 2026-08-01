@@ -45,3 +45,5 @@ d) a Vámkódex 211. cikk (6) bekezdés szerinti gazdasági feltételek vizsgál
 (16) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 2. § 6. pontját a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
 (17) E törvények a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 85. § (3) bekezdését a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(18) A Helyreállítási és Ellenállóképességi Terv végrehajtása érdekében szükséges adóintézkedésekről, valamint egyéb törvények módosításáról szóló 2026. évi XXXV. törvény 35. § b) pontjának hatálybalépésének napját megelőzően elfogadott vám-árunyilatkozatokkal kapcsolatban indult vámigazgatási eljárásokban a Vtv. 2026. július 31-én hatályos 162. § (5) és (5a) bekezdését kell alkalmazni.
