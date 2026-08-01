@@ -46,4 +46,6 @@ d) az uniós vámjog végrehajtásáról szóló törvény szerinti, a vámjogi 
 
 a minisztert jelöli ki.
 
-(3) A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium Nemzeti Adó- és Vámhivatal vezetéséért felelős államtitkárát jelöli ki.
+(3)[^1]
+
+[^1]: A 130. § (3) bekezdését a 117/2026. (VII. 31.) Korm. rendelet 1. §-a hatályon kívül helyezte.

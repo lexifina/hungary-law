@@ -1,5 +1,5 @@
 ## 24. Hatályon kívül helyező rendelkezés
 
-202. §[^1]
+202. §[^2]
 
-[^1]: A 202. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 202. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
