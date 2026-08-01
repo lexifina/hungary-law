@@ -1,1 +1,0 @@
-24. § Az e rendelet szerinti igazgatási szolgáltatási díjra az Itv. 28. § (2) és (3) bekezdését, valamint 31. § (1) és (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy illetéken a jelen rendelet szerinti igazgatási szolgáltatási díjat kell érteni.
