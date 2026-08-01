@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-348-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-11-22 | 2024-348-20-22.1 | 348/2024. (XI. 21.) Korm. rendelet |
+| 2026-08-01 | 2024-348-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
