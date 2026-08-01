@@ -1,9 +1,1 @@
-17. § A Vet. 119/F. §-a helyébe a következő rendelkezés lép:
-
-„119/F. § (1) A miniszter az e törvény végrehajtására kiadott rendeletben meghatározott feltételek teljesülése esetén a megújuló energiát hasznosító erőművi beépített kapacitás növelése érdekében könnyített térséget jelölhet ki. Könnyített térség az egyes megújuló energiaforrások hasznosításának környezeti, természeti, társadalmi, gazdasági vagy honvédelmi adottságai szempontjából kedvező földrajzilag lehatárolható helyen jelölhető ki.
-
-(2) A könnyített térségben az a megújuló energiaforrásból villamos energiát termelő erőmű, amely által szolgáltatott hatásos villamos teljesítmény függ az időjárási viszonyoktól (a továbbiakban: időjárásfüggő megújuló energiát hasznosító erőmű), környezetvédelmi engedélyezési eljárása, természetvédelmi engedélyezési eljárása és építési engedélyezési eljárása során az e törvény végrehajtására kiadott rendeletben meghatározott szabályokat kell alkalmazni.
-
-(3) Ha a környezetvédelmi hatóság vagy az építésügyi hatóság a könnyített térség területén az időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyezési eljárásaiban a Vhr. 103/B. § (3) bekezdésében meghatározott ügyintézési határidőt túllépi, akkor az Ákr. 51. § (1) bekezdés b) pontja szerint az eljárásért megfizetett igazgatási szolgáltatási díjon felül annak további 10%-át köteles a kérelmező ügyfél részére megfizetni.
-
-(4) Az (1) bekezdésben meghatározottak mellett a miniszter az e törvény végrehajtására kiadott rendeletében meghatározott feltételek teljesülése esetén a megújuló energiát hasznosító erőművi beépített kapacitás növelése érdekében könnyített térséget jelölhet ki új hálózati infrastruktúra és villamosenergia-tároló létesítése céljából. A hálózati infrastruktúra és a villamosenergia-tároló létesítése céljából kijelölt könnyített térségben a hálózati infrastruktúra és a villamosenergia-tároló környezetvédelmi engedélyezési eljárása, természetvédelmi engedélyezési eljárása és az építési engedélyezési eljárása során az e törvény végrehajtására kiadott rendeletben meghatározott szabályokat kell alkalmazni.”
+### 17. §
