@@ -16,8 +16,8 @@
 
 ## kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-## 1.[^1]
+## 1. A termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet módosítása
 
-1. §
+1. § A termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet [a továbbiakban: 54/1997. (VIII. 1.) FM rendelet] 1. §-a a következő d) ponttal egészül ki:
 
-[^1]: Az 1. alcím a 46. § (2) bekezdése alapján 2026. augusztus 1-jén lép hatályba.
+(E rendelet alkalmazásában:)
