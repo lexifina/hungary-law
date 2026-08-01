@@ -46,7 +46,7 @@ ai) a szakvélemény feletti rendelkezési jog;
 
 aj) a felhasznált adatok forrásainak megjelölése, dokumentálása;
 
-ak) a helyszíni szemle ténye, időpontja;
+ak)[^4] a helyszíni szemle ténye, időpontja, vagy digitális szemle esetén ennek ténye;
 
 al) az értékelést készítő és a munkában részt vevők azonosítása és jogosultságuk igazolása;
 
@@ -77,3 +77,8 @@ d) A hitelbiztosítéki érték-megállapítási szakvéleményhez a következő
 da) az ingatlan hiteles, a fordulónapi állapotot bemutató tulajdoni lapja;
 
 db) azok a szerződések és egyéb iratok, amelyek lényegesek az ingatlan jogi helyzetének megértéséhez, bizonyításához, beleértve a terhekre vonatkozó dokumentumokat is.
+
+dc)[^5] digitális szemle alkalmazása esetén a térinformatikai eljárással készült, naturális információkat tartalmazó térképi ábrázolások.
+
+[^4]: A 4. számú melléklet 2. pont a) alpont ak) pontja a 16/2026. (IV. 9.) AM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. számú melléklet 2. pont d) alpont dc) pontját a 16/2026. (IV. 9.) AM rendelet 2. §-a iktatta be.

@@ -6,7 +6,7 @@
 
 ## Az ingatlan forgalmi értéke meghatározásának a hozamszámításon alapuló módszere
 
-1. Az ingatlan értékét három, külön-külön értékelt tényező együttes összege határozza meg az alábbiak szerint:
+1.[^2] Az ingatlan értékét három, külön-külön értékelt tényező együttes összege határozza meg az alábbiak szerint:
 
 Fé = Fté + Té + Éé
 
@@ -30,17 +30,17 @@ ahol
 
 Fté: a termőföld forgalmi értéke (Ft)
 
-Pj: a termőföld járadék jellegű jövedelme, melyet étkezési búza kg/AK egységben a Földművelésügyi Minisztérium[^1] 1997. július 20-ig megyei bontásban közzétesz. Pj aktuális értékét az ingatlan saját AK értékének és a közzétett értéknek a szorzata adja (étkezési búza kg)
+Pj: a termőföld járadék jellegű jövedelme, melyet étkezési búza kg/AK egységben a Földművelésügyi Minisztérium[^3] 1997. július 20-ig megyei bontásban közzétesz. Pj aktuális értékét az ingatlan saját AK értékének és a közzétett értéknek a szorzata adja (étkezési búza kg)
 
 B: az ingatlan közvetlen környezetében jellemzőnek tekinthető, étkezési búza kg/AK haszonbérleti díj és az értékelt ingatlan saját aranykorona értékének szorzatából számított földhozadék (étkezési búza kg)
 
-p: az étkezési búzának az értékbecslést megelőző évben kialakult hazai tőzsdei átlagára (Ft/kg)
+p: a malmi búzának az értékbecslést megelőző évben az Euronext párizsi tőzsdén kialakult tőzsdei átlagára (EUR/kg)
 
 i: tőkésítési kamatláb
 
 k: a földterület számított értékét módosító ismérvek összevont hatását kifejező korrekciós tényező (százalékláb)
 
-A tőkésítési kamatláb mértékét a jelzálog-hitelintézet határozza meg, és azt az üzleti helyiségében történő kifüggesztéssel hozza ügyfelei tudomására. Meghatározásakor figyelembe kell venni a mezőgazdaság értékelést megelőző naptári évben számított átlagos jövedelmezőségét, valamint az egyes ágazatok jellemző tőkeigényét.
+A tőkésítési kamatláb mértékét a hitelintézet határozza meg. Meghatározásakor figyelembe kell venni a mezőgazdaság értékelést megelőző naptári évben számított átlagos jövedelmezőségét, valamint az egyes ágazatok jellemző tőkeigényét.
 
 A termőföld forgalmi értékének (Fté) a fentiek szerint számított értékét az alábbi ismérvek alapján korrigálni kell (az egyes ismérvek forgalmi értékre gyakorolt egyedi hatását százaléklábbal kell jellemezni, melyek előjelhelyesen összevont értéke megegyezik a ,,k'' korrekciós tényezővel):
 
@@ -132,4 +132,5 @@ Az a) és b) pontokban meghatározott képletekben az alkalmazott diszkont kamat
 
 A fenti csoportba nem sorolható, önálló ingatlannak nem minősülő, de jelentős értékű épített ingatlanok (pl. kúria, vadászház, tanya, fogadó stb.) forgalmi értékét az 25/1997. (VIII. 1.) PM rendeletben foglaltak szerint kell meghatározni.
 
-[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének d) pontját.
+[^2]: A 2. számú melléklet 1. pontja a 16/2026. (IV. 9.) AM rendelet 3. § a) és b) pontja szerint módosított szöveg.
+[^3]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének d) pontját.
