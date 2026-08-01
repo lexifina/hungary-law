@@ -1,0 +1,5 @@
+## „3a. maradó teljesítmény: a villamosenergia-rendszerben rendelkezésre álló termelőegységek kiadható teljesítőképességeinek, valamint a villamosenergia-importból származó teljesítmény összegéből a hazai fogyasztási és pozitív irányú tartalékigényeknek a kielégítését követően a villamosenergia-rendszerben maradó teljesítőképesség, adott elszámolási mérési időintervallumra vonatkoztatva,”
+
+2. § Az RKR rendelet 4. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az átviteli rendszerirányítót a krízis kialakulásával összefüggésben helytállási kötelezettség a rendszerhasználók irányában nem terheli. Az átviteli rendszerirányítónak a krízis kezelésével összefüggésben felmerülő, a Vet. 139. § (3) bekezdésében és 17. § (2) bekezdésében meghatározott károkon és terheken felüli károkért való helytállási kötelezettségének felső határa kríziseseményenként – figyelembe véve valamennyi károsultat – együttvéve, összesen a Hivatal határozatában a tárgyévre megállapított tarifabevétel 10%-a. A károsult a kárigényét az átviteli rendszerirányítóval szemben a krízis bekövetkezésétől számított egyéves jogvesztő határidőn belül érvényesítheti.”
