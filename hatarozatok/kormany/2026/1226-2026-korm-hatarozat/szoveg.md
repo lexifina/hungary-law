@@ -448,7 +448,7 @@ e) intézetek operatív irányítása: a nevesített intézetek (Terror Háza M�
 
 | Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
 
-68. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Füleki Tamást jelöli ki.
+68.[^1] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 69. A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány a Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztériumot határozza meg.
 
@@ -550,7 +550,7 @@ g) közvetlen pályáztatás és ösztöndíj-folyósítás: a leányvállalatok
 
 | Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
 
-84. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Füleki Tamást jelöli ki.
+84.[^2] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 85. A Magyar Kultúráért Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány
 
@@ -620,7 +620,7 @@ h) pályáztatás és mecenatúra operatív vitel: egyedi kérelmek, nyilvános 
 
 | Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
 
-93. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Füleki Tamást jelöli ki.
+93.[^3] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 94. A Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány
 
@@ -709,3 +709,7 @@ b) tegyen jelentést a Kormány részére az MNV kezelésébe került vagyonelem
 18. Hatályba léptető rendelkezés
 
 108. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 68. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 84. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 93. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
