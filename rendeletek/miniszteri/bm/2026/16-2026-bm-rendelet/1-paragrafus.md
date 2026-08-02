@@ -4,6 +4,6 @@
 
 ## [3] A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 19. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A sport ágazatban a sportpolitikáért felelős miniszter által adományozható elismerésekről szóló 5/2025. (VI. 13.) HM rendelet (a továbbiakban: Rendelet) 15. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„15. § A miniszter által adományozható elismerésekkel összefüggő pénzjutalom és a díjtárgy beszerzésének fedezetét a központi költségvetési törvény Belügyminisztérium fejezet költségvetése terhére kell biztosítani.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
