@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-127-00-00
 | --- | --- | --- |
 | 2011-10-01 | 2011. évi CXXVII. törvény | 2011-127-00-00.0 (közlönyállapot) |
 | 2011-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-127-00-00.1 |
+| 2026-08-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-127-00-00.2 |
