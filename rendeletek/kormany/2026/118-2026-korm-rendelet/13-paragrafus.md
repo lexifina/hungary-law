@@ -1,3 +1,3 @@
-13. § Az RKR rendelet 25. §-a a következő (3) bekezdéssel egészül ki:
+13. §[^14]
 
-„(3) A Hivatal az RKR 16. § (2) bekezdésében foglaltak szerinti, soron kívüli felülvizsgálata céljából a kijelölő hatóságot és a hálózati engedélyeseket javaslattétel céljából 2027. január 1. napjáig megkeresi.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

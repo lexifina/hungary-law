@@ -1,3 +1,3 @@
-10. § Az RKR rendelet 24. §-a a következő (3) bekezdéssel egészül ki:
+10. §[^11]
 
-„(3) A válsághelyzet megszűnését követően az átviteli rendszerirányító a KM tagjainak bevonásával összefoglaló jelentést készít, amelyet megküld a Hivatal részére.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
