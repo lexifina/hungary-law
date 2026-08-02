@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-45-20-2
 | 2024-10-01 | 2014-45-20-22.11 | 285/2024. (IX. 30.) Korm. rendelet |
 | 2026-01-01 | 2014-45-20-22.12 | 415/2025. (XII. 23.) Korm. rendelet |
 | 2026-06-19 | 2014-45-20-22.13 | 415/2025. (XII. 23.) Korm. rendelet |
+| 2026-08-02 | 2014-45-20-22.14 | 93/2024. (IV. 23.) Korm. rendelet |
