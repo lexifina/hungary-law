@@ -1,3 +1,3 @@
-3. melléklet a 16/2026. (IV. 9.) AM rendelethez[^44]
+3. melléklet a 16/2026. (IV. 9.) AM rendelethez[^49]
 
-[^44]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -18,6 +18,6 @@
 
 ## 1. A termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet módosítása
 
-1. § A termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló 54/1997. (VIII. 1.) FM rendelet [a továbbiakban: 54/1997. (VIII. 1.) FM rendelet] 1. §-a a következő d) ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

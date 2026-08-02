@@ -1,5 +1,5 @@
 ## 16. A sertés ágazat részére nyújtott állatjóléti támogatások feltételeiről szóló 39/2018. (XII. 13.) AM rendelet módosítása
 
-26. §[^23]
+26. §[^27]
 
-[^23]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
