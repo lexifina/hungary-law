@@ -1,1 +1,3 @@
-29. § Hatályát veszti a pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 32/2023. (VII. 19.) MNB rendelet.
+29. §[^1]
+
+[^1]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
