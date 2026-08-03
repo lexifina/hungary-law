@@ -20,7 +20,7 @@ i) a korábbi állandó személyazonosító igazolvány tároló elemének nem m
 
 j) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor,
 
-k)
+k) az 52/J. § (1) bekezdésében foglaltak szerint érvényüket vesztő személyazonosító igazolványokkal rendelkező polgárok ideiglenes személyazonosító igazolványának kiállításakor.
 
 (2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
 

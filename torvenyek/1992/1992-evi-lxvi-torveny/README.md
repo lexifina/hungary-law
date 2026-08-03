@@ -119,3 +119,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2025-12-23 | 2025. évi CXXIII. törvény | 1992-66-00-00.154 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 1992-66-00-00.153 |
 | 2026-05-16 | 2025. évi CXXIII. törvény | 1992-66-00-00.155 |
+| 2026-08-03 | 2025. évi CXXIII. törvény | 1992-66-00-00.156 |
