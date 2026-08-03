@@ -1,1 +1,0 @@
-18. § Ez a rendelet a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/941 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
