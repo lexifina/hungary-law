@@ -6,4 +6,6 @@
 
 ## a következőket rendelem el:
 
-1. § Hatályát veszti a kriptoeszköz-átváltást validáló szolgáltató engedélyezésének és nyilvántartásának részletes szabályairól szóló 10/2025. (X. 27.) SZTFH rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

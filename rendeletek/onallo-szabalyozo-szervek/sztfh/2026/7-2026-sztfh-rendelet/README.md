@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-7-20-8K
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-08-02 | 2026-7-20-8K.1 | 7/2026. (VII. 30.) SZTFH rendelet |
+| 2026-08-03 | 2026-7-20-8K.2 | 2010. évi CXXX. törvény |

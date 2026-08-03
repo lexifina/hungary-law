@@ -1,1 +1,3 @@
-2. § Hatályát veszti a Szabályozott Tevékenységek Felügyeleti Hatósága kriptoeszköz-átváltást validáló szolgáltató engedélyezésével összefüggő eljárásainak igazgatási szolgáltatási díjairól szóló 12/2025. (XI. 28.) SZTFH rendelet.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
