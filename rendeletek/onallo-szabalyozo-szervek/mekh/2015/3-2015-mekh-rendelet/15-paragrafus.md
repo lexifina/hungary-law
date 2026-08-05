@@ -1,5 +1,0 @@
-## 14. § Az egyes energetikai rendeletek módosításáról szóló 2/2015. (IV. 14.) MEKH rendelet (a továbbiakban: R2.) 4. §-a és 12. § (2) bekezdése a „napi kapacitás megszakítása esetén a megszakítással érintett napokra” szövegrész helyett a „napi kapacitás megszakítása esetén a megszakítással érintett órákra”, az „1/365-öd részének 130%-ával” szövegrész helyett az „1/365-öd rész huszonnegyed részének 130%-ával” szöveggel lép hatályba.
-
-15. §[^9]
-
-[^9]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
