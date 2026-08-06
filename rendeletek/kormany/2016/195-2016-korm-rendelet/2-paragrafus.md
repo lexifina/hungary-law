@@ -1,6 +1,6 @@
 ## 2. A személyszállítási üzletszabályzat
 
-2. §[^7] (1) A vasúti társaság a személyszállítási üzletszabályzatban (a továbbiakban: üzletszabályzat) az EU rendelettel és e rendelettel összhangban meghatározza különösen
+2. §[^8] (1) A vasúti társaság a személyszállítási üzletszabályzatban (a továbbiakban: üzletszabályzat) az EU rendelettel és e rendelettel összhangban meghatározza különösen
 
 a) a díj ellenében végzett személyszállítási szolgáltatások körét,
 
@@ -30,4 +30,4 @@ k) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
 
 (4) A vasúti társaság az üzletszabályzatot – módosítás esetén az üzletszabályzat módosításokkal egységes szerkezetét – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül a hivatalos honlapján közzéteszi, valamint biztosítja, hogy az utas – arra irányuló kérése esetén – a jegypénztárban megtekinthesse.
 
-[^7]: A 2. § a 255/2025. (VIII. 11.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^8]: A 2. § a 255/2025. (VIII. 11.) Korm. rendelet 29. §-ával megállapított szöveg.

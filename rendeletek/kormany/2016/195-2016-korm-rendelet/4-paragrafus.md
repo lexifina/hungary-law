@@ -14,8 +14,8 @@ e) a menetrendi időszak kezdetének és végének időpontját vagy azt, hogy a
 
 (2) A vasúti társaság a menetrendet a honlapján közzéteszi és annak az adott állomást érintő adatokat tartalmazó kivonatát az állomásokon jól látható helyen kifüggeszti, és a menetrendről az utasokat az üzletszabályzatban meghirdetett módokon is tájékoztatja.
 
-(3)[^10] A menetrend ideiglenes vagy végleges megváltoztatásáról az utazóközönséget a (2) bekezdésben meghatározott módokon legalább 3 nappal a változás végrehajtását megelőzően tájékoztatni kell. A vasúti társaság a változás közzétételét megelőző 5 nappal a menetrendváltozás tényéről a vasúti igazgatási szervet elektronikus úton tájékoztatja. Ha a változásra előre nem látható ok miatt kerül sor vagy kizárólag új vonat forgalomba állását jelenti a többi vonat menetrendjének, közlekedési időszakának változása nélkül, a tájékoztatási időközre vonatkozó rendelkezést nem kell alkalmazni.
+(3)[^11] A menetrend ideiglenes vagy végleges megváltoztatásáról az utazóközönséget a (2) bekezdésben meghatározott módokon legalább 3 nappal a változás végrehajtását megelőzően tájékoztatni kell. A vasúti társaság a változás közzétételét megelőző 5 nappal a menetrendváltozás tényéről a vasúti igazgatási szervet elektronikus úton tájékoztatja. Ha a változásra előre nem látható ok miatt kerül sor vagy kizárólag új vonat forgalomba állását jelenti a többi vonat menetrendjének, közlekedési időszakának változása nélkül, a tájékoztatási időközre vonatkozó rendelkezést nem kell alkalmazni.
 
 (4) A közszolgáltatási menetrend jóváhagyására jogosult az üzemeltetési és a szerződéskötési kötelezettséget közérdekből, továbbá a vasúti társaság kezdeményezésére kényszerítő üzemi okból korlátozhatja vagy felfüggesztheti.
 
-[^10]: A 4. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.

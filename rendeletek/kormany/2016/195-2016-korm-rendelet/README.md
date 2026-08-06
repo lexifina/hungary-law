@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-195-20-
 | 2025-04-27 | 2016-195-20-22.9 | 86/2025. (IV. 24.) Korm. rendelet |
 | 2025-09-11 | 2016-195-20-22.10 | 255/2025. (VIII. 11.) Korm. rendelet |
 | 2026-07-01 | 2016-195-20-22.5 | 223/2023. (VI. 6.) Korm. rendelet |
+| 2026-08-06 | 2016-195-20-22.11 | 119/2026. (VIII. 5.) Korm. rendelet |

@@ -8,17 +8,18 @@
 
 (3a)[^3] E rendelet alkalmazásában kisvasút az a keskeny nyomtávolságú vasút, amely végez személyszállítási tevékenységet.
 
-(4) Ha a személyszállítási szolgáltatásokról szóló törvényben meghatározott feltételekkel létrehozott közlekedésszervező a személyszállítási szolgáltatásokról szóló törvényben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján vasúti társaság feladatkörébe tartozó tevékenységet lát el, úgy e rendelet előírásait a feladatkör tekintetében a közlekedésszervezőre is megfelelően alkalmazni kell.
+(4)[^4] Ha a személyszállítási szolgáltatásokról szóló törvényben meghatározott feltételekkel létrehozott közlekedésszervező vagy országos közlekedésszervező a személyszállítási szolgáltatásokról szóló törvényben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján vasúti társaság feladatkörébe tartozó valamely tevékenységet ellát, úgy e rendelet előírásait e feladatkör tekintetében a közlekedésszervezőre vagy országos közlekedésszervezőre is megfelelően alkalmazni kell.
 
-(5)[^4] Az EU rendeletben foglaltakat a szigorúan történelmi vagy turisztikai céllal működtetett személyszállítási szolgáltatásokra – az EU rendelet 13. és 14. cikke kivételével – nem kell alkalmazni.
+(5)[^5] Az EU rendeletben foglaltakat a szigorúan történelmi vagy turisztikai céllal működtetett személyszállítási szolgáltatásokra – az EU rendelet 13. és 14. cikke kivételével – nem kell alkalmazni.
 
-(6)[^5] A városi, elővárosi és helyi szolgáltatásokra az EU rendeletet – az 5., 11., 13., 14., 21., 22., 27., 28. cikke kivételével – nem kell alkalmazni.
+(6)[^6] A városi, elővárosi és helyi szolgáltatásokra az EU rendeletet – az 5., 11., 13., 14., 21., 22., 27., 28. cikke kivételével – nem kell alkalmazni.
 
-(7)[^6] A térségi szolgáltatásokra az EU rendeletet – az 5., 6., 11., 12., 13., 14., 18. cikk (3) bekezdése, 21., 22., 27., 28. cikke és V. fejezete kivételével – nem kell alkalmazni.
+(7)[^7] A térségi szolgáltatásokra az EU rendeletet – az 5., 6., 11., 12., 13., 14., 18. cikk (3) bekezdése, 21., 22., 27., 28. cikke és V. fejezete kivételével – nem kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3a) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^4]: Az 1. § (5) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (6) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^6]: Az 1. § (7) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (4) bekezdése a 119/2026. (VIII. 5.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^5]: Az 1. § (5) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (6) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (7) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be.
