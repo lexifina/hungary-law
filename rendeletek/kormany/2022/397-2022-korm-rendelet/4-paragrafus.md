@@ -4,7 +4,7 @@
 
 a) az M1, M2, N1, N2 és N3 járműkategóriák tekintetében a Közbeszerzési és Ellátási Főigazgatóság, továbbá
 
-b)[^1] az M3 járműkategória tekintetében a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet
+b)[^1] az M3 járműkategória tekintetében az országos közlekedésszervező
 
 látja el.
 
@@ -26,4 +26,4 @@ g) közreműködik a 8. § szerinti egyéb jelentési kötelezettségek teljesí
 
 h) elkészíti a járműbeszerzési terv részletes tartalmára vonatkozó módszertani útmutatót.
 
-[^1]: A 4. § (1) bekezdés b) pontja a 409/2023. (VIII. 30.) Korm. rendelet 36. §-ával megállapított, a 141/2025. (VI. 19.) Korm. rendelet 18. §-a, a 442/2025. (XII. 29.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^1]: A 4. § (1) bekezdés b) pontja a 409/2023. (VIII. 30.) Korm. rendelet 36. §-ával megállapított, a 119/2026. (VIII. 5.) Korm. rendelet 7. §-a szerint módosított szöveg.
