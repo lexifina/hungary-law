@@ -2,7 +2,7 @@
 
 3. § (1) Az autóbuszos hatóság jogosult az autóbusszal menetrend szerinti személyszállítási közszolgáltatásokat végző szolgáltató tevékenységi engedélyben meghatározott tevékenységekre vonatkozó, vagy amennyiben a szolgáltatást engedély nélkül végzik, a tevékenység ellátásához kapcsolódó iratokról másolatot, kivonatot készíteni.
 
-(2) Az autóbuszos hatóság jogosult a közlekedésszervező, valamint az üzemeltető tevékenysége ellátásához kapcsolódó iratokról másolatot, kivonatot készíteni.
+(2)[^2] Az autóbuszos hatóság jogosult a közlekedésszervező, országos közlekedésszervező, valamint az üzemeltető tevékenysége ellátásához kapcsolódó iratokról másolatot, kivonatot készíteni.
 
 (3) Az autóbuszos hatóság a feladatai ellátásához szükséges adatok szolgáltatására, iratok bemutatására kötelezheti a szolgáltatót és az üzemeltetőt.
 
@@ -11,3 +11,5 @@
 (5) Az autóbuszos hatóság jogosult az adatszolgáltatás nem teljesítése esetén a piacfelügyeleti eljárás keretében alkalmazható jogkövetkezményeket – beleértve a bírság kivetését is – alkalmazni azzal, hogy a kiszabott bírság összege egy alkalommal legfeljebb tízmillió forint lehet.
 
 (6) Ha valamely adat szolgáltatása, irat bemutatása bizonyítási indítványhoz kapcsolódik, és a kötelezett fél azt nem vagy nem megfelelően nyújtja be, úgy a bizonyítás sikertelenségét a bizonyítást kérő fél terhére értékelni nem lehet. Ebben az esetben az autóbuszos hatóság a rendelkezésre álló bizonyítékok mérlegelésével dönt.
+
+[^2]: A 3. § (2) bekezdése a 119/2026. (VIII. 5.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

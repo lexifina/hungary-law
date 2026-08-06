@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet hatálya kiterjed
 
-a) autóbusszal személyszállítási szolgáltatást végző szolgáltatóra és a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) szerinti és annak alapján eljáró közlekedésszervezőre (a továbbiakban együtt: szolgáltató),
+a)[^1] autóbusszal személyszállítási szolgáltatást végző szolgáltatóra és a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) szerinti és annak alapján eljáró e rendelet hatálya alá tartozó tevékenység végzése esetén közlekedésszervezőre, valamint országos közlekedésszervezőre (a továbbiakban együtt: szolgáltató),
 
 b) a közforgalmú személyszállítási szolgáltatási tevékenység végzéséhez szükséges autóbusz-állomások, megállóhelyek, valamint egyéb utasforgalmi létesítmények üzemeltetőire (a továbbiakban: üzemeltető), továbbá az autóbuszos személyszállítási tevékenységhez kapcsolódó szolgáltatást végző (például telephely-szolgáltató vagy kiegészítő létesítményt üzemeltető) gazdálkodó szervezetre,
 
@@ -17,3 +17,5 @@ a) – az autóbusszal személyszállítási engedély nélkül végzett közút
 b) a vasúti és autóbuszos személyszállítást igénybe vevő utasok jogainak védelméről szóló kormányrendeletben
 
 foglalt valamely jogsértésnek felel meg.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 119/2026. (VIII. 5.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

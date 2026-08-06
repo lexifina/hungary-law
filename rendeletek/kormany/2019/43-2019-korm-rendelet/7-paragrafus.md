@@ -18,7 +18,7 @@
 
 a) az autóbusszal menetrend szerinti személyszállítási közszolgáltatásokat végző szolgáltatót a személyszállítási tevékenység végzésére jogosító engedély feltételeinek való megfelelés, különös tekintettel az engedélyezett tevékenységnek megfelelő, általa nyújtott szolgáltatásra,
 
-b) a közlekedésszervezőt, valamint
+b)[^4] a közlekedésszervezőt, országos közlekedésszervezőt, valamint
 
 c) az üzemeltetőt
 
@@ -27,3 +27,5 @@ az őket terhelő kötelezettségek tekintetében próbavásárlással, helyszí
 (8) Az ellenőrzés során az autóbuszos hatóság jogosult eljárni minden olyan gazdálkodó szervezettel szemben, amely autóbuszos személyszállítási vagy ahhoz kapcsolódó kiegészítő (például telephely-szolgáltató, kiszolgálólétesítményt üzemeltető) tevékenységet végez.
 
 (9) Az autóbuszos hatóság az engedély nélküli tevékenységet végző autóbusszal személyszállítási szolgáltatásokat végző szolgáltatók székhelyét és telephelyeit jogosult ellenőrizni, valamint a műszaki kérdések tekintetében a közlekedési hatóság együttműködésével az adott tevékenység ellátásához szükséges műszaki feltételek meglétét is megvizsgálni.
+
+[^4]: A 7. § (7) bekezdés b) pontja a 119/2026. (VIII. 5.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
