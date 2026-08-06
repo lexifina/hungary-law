@@ -12,6 +12,6 @@
 
 (6) A szolgáltató a felelősség alól olyan mértékben mentesül, amilyen mértékben az esemény az utas hibájának a következménye.
 
-(7)[^51] A szolgáltató felelősségére vonatkozó egyéb szabályokat a szolgáltató az üzletszabályzatban állapítja meg.
+(7)[^52] A szolgáltató felelősségére vonatkozó egyéb szabályokat a szolgáltató az üzletszabályzatban állapítja meg.
 
-[^51]: A 19. § (7) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 27. § 22. pontja szerint módosított szöveg.
+[^52]: A 19. § (7) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 27. § 22. pontja szerint módosított szöveg.

@@ -10,6 +10,6 @@
 
 (3) Az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-i 181/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU rendelet) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvénnyel (a továbbiakban: Sztv.) és a jelen rendelettel együttesen alkalmazandó.
 
-(4)[^1] Ha az Sztv.-ben meghatározott feltételekkel létrehozott közlekedésszervező az Sztv.-ben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján az e rendeletben foglalt feladatok valamelyikét ellátja, úgy e rendelet előírásait a feladat tekintetében a közlekedésszervezőre is megfelelően alkalmazni kell.
+(4)[^1] Ha az Sztv.-ben meghatározott feltételekkel létrehozott közlekedésszervező vagy országos közlekedésszervező az Sztv.-ben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján az e rendeletben foglalt feladatok valamelyikét ellátja, úgy e rendelet előírásait a feladat tekintetében a közlekedésszervezőre vagy országos közlekedésszervezőre is megfelelően alkalmazni kell.
 
-[^1]: Az 1. § (4) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^1]: Az 1. § (4) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 17. §-ával megállapított, a 119/2026. (VIII. 5.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.

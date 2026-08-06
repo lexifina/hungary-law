@@ -20,7 +20,7 @@
 
 a)[^4] az autóbusszal menetrend szerinti személyszállítási közszolgáltatásokat végző szolgáltatót (a továbbiakban: szolgáltató) a személyszállítási tevékenység végzésére jogosító engedély feltételeinek való megfelelés, különös tekintettel az engedélyezett tevékenységnek megfelelő, általa nyújtott szolgáltatásra,
 
-b) a közlekedésszervezőt,
+b)[^5] a közlekedésszervezőt vagy országos közlekedésszervezőt,
 
 c) az üzemeltetőt
 
@@ -28,8 +28,9 @@ az őket terhelő kötelezettségek tekintetében helyszíni, dokumentum alapú 
 
 (9) Az ellenőrzés során az autóbuszos hatóság jogosult eljárni minden olyan gazdálkodó szervezettel szemben, amely autóbuszos személyszállítási, vagy ahhoz kapcsolódó kiegészítő (pl. telephely-szolgáltató, kiszolgáló létesítményt üzemeltető) tevékenységet végez.
 
-(10)[^5] Az autóbuszos hatóság az engedély nélküli tevékenységet végző szolgáltatók vonatkozásában indított eljárásai során jogosult az ilyen tevékenységet végzők adatait megismerni, az ilyen tevékenységet végzőket adatszolgáltatásra, nyilatkozattételre kötelezni, székhelyét és telephelyeit ellenőrizni, valamint a műszaki kérdések tekintetében a közlekedési hatóság együttműködésével az adott tevékenység ellátásához szükséges műszaki feltételek meglétét is megvizsgálni.
+(10)[^6] Az autóbuszos hatóság az engedély nélküli tevékenységet végző szolgáltatók vonatkozásában indított eljárásai során jogosult az ilyen tevékenységet végzők adatait megismerni, az ilyen tevékenységet végzőket adatszolgáltatásra, nyilatkozattételre kötelezni, székhelyét és telephelyeit ellenőrizni, valamint a műszaki kérdések tekintetében a közlekedési hatóság együttműködésével az adott tevékenység ellátásához szükséges műszaki feltételek meglétét is megvizsgálni.
 
 [^3]: A 2/A. alcímet (2/A. §) az 516/2017. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
 [^4]: A 2/A. § (8) bekezdés a) pontja a 255/2025. (VIII. 11.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.
-[^5]: A 2/A. § (10) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^5]: A 2/A. § (8) bekezdés b) pontja a 119/2026. (VIII. 5.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^6]: A 2/A. § (10) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 8. § (1) A szolgáltató a személyszállítási szolgáltatást személyszállítási szerződés alapján teljesíti.
 
-(2)[^17] Az utas és a szolgáltató közötti személyszállítási szerződés a menetdíj megfizetésével és a menetjegy megvásárlásával, átvételével, vagy ha az utas jogszabály rendelkezése vagy a szolgáltató üzletszabályzata alapján menetjegy nélkül jogosult a személyszállítási szolgáltatást igénybe venni, akkor a hely adott járatra történő biztosításával vagy a járműre utazási céllal történő felszállással jön létre.
+(2)[^18] Az utas és a szolgáltató közötti személyszállítási szerződés a menetdíj megfizetésével és a menetjegy megvásárlásával, átvételével, vagy ha az utas jogszabály rendelkezése vagy a szolgáltató üzletszabályzata alapján menetjegy nélkül jogosult a személyszállítási szolgáltatást igénybe venni, akkor a hely adott járatra történő biztosításával vagy a járműre utazási céllal történő felszállással jön létre.
 
-(3)[^18] A személyszállítási szerződés attól az időponttól hatályos, amikor az utas utazási céllal a járatot végző járműre felszáll, vagy meghatározott napra és járatra érvényesített menetjegy esetében legkésőbb a járatnak a megjelölt felszállási helyről történő menetrend szerinti indulásának időpontjától.
+(3)[^19] A személyszállítási szerződés attól az időponttól hatályos, amikor az utas utazási céllal a járatot végző járműre felszáll, vagy meghatározott napra és járatra érvényesített menetjegy esetében legkésőbb a járatnak a megjelölt felszállási helyről történő menetrend szerinti indulásának időpontjától.
 
 (4) A személyszállítási szerződés az utazás befejezéséig hatályos. Az utazás akkor fejeződik be, amikor
 
@@ -18,5 +18,5 @@ c) az utast a szolgáltató az utazásból kizárja.
 
 (6) Az 5. § (7) bekezdése alapján a személyszállításból kizárt utas nem követelheti vissza a kifizetett menetdíjat vagy egyéb díjat. Feladott útipoggyásszal kapcsolatos kérdéseket az üzletszabályzat rendezi.
 
-[^17]: A 8. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^18]: A 8. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 27. § 5. pontja szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^19]: A 8. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 27. § 5. pontja szerint módosított szöveg.
