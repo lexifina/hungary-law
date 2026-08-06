@@ -2,7 +2,7 @@
 
 ## A VASÚTI TÁRSASÁG SZEMÉLYSZÁLLÍTÁSSAL KAPCSOLATOS ÁLTALÁNOS KÖTELEZETTSÉGEI
 
-## Az üzletszabályzat[^20]
+## Az üzletszabályzat[^21]
 
 5. § (1) A vasúti társaság az üzletszabályzatban az EU rendelettel és e rendelettel összhangban meghatározza különösen:
 
@@ -34,4 +34,4 @@ k) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
 
 (4) A vasúti társaság az üzletszabályzatot – módosítás esetén az üzletszabályzat módosításokkal egységes szerkezetét – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül a hivatalos honlapján közzéteszi, valamint biztosítja, hogy az utas – arra irányuló kérése esetén – a jegypénztárban megtekinthesse.
 
-[^20]: Az „Az üzletszabályzat” alcím (5. §) a 255/2025. (VIII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: Az „Az üzletszabályzat” alcím (5. §) a 255/2025. (VIII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

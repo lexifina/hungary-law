@@ -12,5 +12,8 @@
 
 (3) Ha személyszállítást végző vasúti társaság (a továbbiakban: vasúti társaság) a személyszállítást más (közúti, vízi-, légi közlekedési) szolgáltatóval együttesen végzi, ha jogszabály eltérően nem rendelkezik, a vasúti szakaszon végzett személyszállításra – ideértve a vonatpótló autóbusszal végzett szállítást – is e rendelet előírásait kell alkalmazni.
 
+(4)[^3] Ha a személyszállítási szolgáltatásokról szóló törvényben meghatározott feltételekkel létrehozott országos közlekedésszervező a személyszállítási szolgáltatásokról szóló törvényben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján vasúti társaság feladatkörébe tartozó valamely tevékenységet ellát, e rendelet előírásait e feladatkör tekintetében az országos közlekedésszervezőre is megfelelően alkalmazni kell.
+
 [^1]: Az 1. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 24. § (4) bekezdés e) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (4) bekezdését a 119/2026. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
