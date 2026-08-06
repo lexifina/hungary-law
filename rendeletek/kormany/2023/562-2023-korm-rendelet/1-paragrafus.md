@@ -1,4 +1,4 @@
-1. § (1)[^1] Az építési és közlekedési miniszter állami feladatellátás keretében, a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság útján biztosítja a (2) bekezdésben meghatározott, az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok egyes többségi befolyása alatt álló gazdasági társaságok, továbbá az Építési és Közlekedési Minisztérium irányítása alá tartozó költségvetési szervek részére a (3) bekezdés szerinti szolgáltatásokat.
+1. § (1)[^1] Az közlekedési és beruházási miniszter (a továbbiakban: miniszter) állami feladatellátás keretében, a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság útján biztosítja a (2) bekezdésben meghatározott, az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok egyes többségi befolyása alatt álló gazdasági társaságok, továbbá a Közlekedési és Beruházási Minisztérium irányítása alá tartozó költségvetési szervek részére a (3) bekezdés szerinti szolgáltatásokat.
 
 (2) A (3) bekezdés szerinti szolgáltatásokat
 
@@ -12,9 +12,9 @@ d) a MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság,
 
 e) a MAHART-Szabadkikötő Zrt.,
 
-f)[^3] a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság,
+f)[^3] – a szakmai beszerzések, különösen személyszállítási közszolgáltató kiválasztásával vagy személyszállítási közszolgáltatásokhoz kapcsolódó tanácsadói tevékenység és egyéb, az alaptevékenységgel összefüggő beszerzések kivételével – a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 21. § (1b) bekezdése szerinti kijelölő jogszabályban az országos közlekedésszervezési feladatokra kijelölt társaság
 
-g)[^4] az Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság,
+g)[^4]
 
 h)[^5]
 
@@ -28,7 +28,7 @@ l)[^9] a Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytá
 
 az (1) bekezdés szerint köteles igénybe venni.
 
-(3) Az építési és közlekedési miniszter az (1) bekezdés szerinti feladatellátás keretében a következő szolgáltatásokat biztosítja:
+(3)[^10] Az miniszter az (1) bekezdés szerinti feladatellátás keretében a következő szolgáltatásokat biztosítja:
 
 a) informatikai rendszerek működtetése, felügyelete, új informatikai rendszerek kialakításának koordinálása, felügyelete, valamint az alkalmazott informatikai rendszerek integrációjának megteremtése;
 
@@ -44,15 +44,19 @@ f) általános és szakanyagellátáshoz szükséges raktárak működtetése é
 
 g) ügykezelési és dokumentációs szolgáltatások nyújtása; különösen a bejövő küldemények kezelése, átvétele, érkeztetése, szkennelése, a kimenő küldemények kezelése, átvétele, egyetemes postai szolgáltatón keresztüli feladása, a cégkapun beérkező küldemények továbbítása; iratanyagok irattározása; közreműködés az iratanyagokkal kapcsolatos selejtezési eljárásban; dokumentum-menedzsment rendszerek szakmai felügyelete.
 
-(4)[^10] Ha az Építési és Közlekedési Minisztérium a (3) bekezdés a) pontja szerinti valamely szolgáltatás esetében a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet 12. § (1) bekezdése szerinti egyedi kérelemre kiadott felmentés alapján felmentésre kerül a központi szolgáltató kötelező igénybevétele alól, a felmentéssel érintett szolgáltatást a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság nyújtja a részére.
+(4)[^11] Ha a Közlekedési és Beruházási Minisztérium a (3) bekezdés a) pontja szerinti valamely szolgáltatás esetében a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet 12. § (1) bekezdése szerinti egyedi kérelemre kiadott felmentés alapján felmentésre kerül a központi szolgáltató kötelező igénybevétele alól, a felmentéssel érintett szolgáltatást a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság nyújtja a részére.
 
-[^1]: Az 1. § (1) bekezdése a 382/2024. (XII. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+(5)[^12] A miniszter egyes beszerzések vagy beszerzési tárgykörök tekintetében felmentést adhat a beszerzési és közbeszerzési eljárások tekintetében a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaságon keresztül történő lebonyolítás alól.
+
+[^1]: Az 1. § (1) bekezdése a 382/2024. (XII. 9.) Korm. rendelet 1. §-ával megállapított, a 119/2026. (VIII. 5.) Korm. rendelet 9. § a) és b) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés b) pontja a 141/2025. (VI. 19.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 442/2025. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés f) pontja a 382/2024. (XII. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdés g) pontja a 141/2025. (VI. 19.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés f) pontja a 119/2026. (VIII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés g) pontját a 119/2026. (VIII. 5.) Korm. rendelet 10. §-a hatályon kívül helyezte.
 [^5]: Az 1. § (2) bekezdés h) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be, a 442/2025. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdés i) pontját a 382/2024. (XII. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 141/2025. (VI. 19.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés j) pontját a 141/2025. (VI. 19.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^8]: Az 1. § (2) bekezdés k) pontját a 141/2025. (VI. 19.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege a 404/2025. (XII. 16.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés l) pontját a 141/2025. (VI. 19.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (4) bekezdését a 32/2025. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (3) bekezdés nyitó szövegrésze a 119/2026. (VIII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^11]: Az 1. § (4) bekezdését a 32/2025. (III. 5.) Korm. rendelet 1. §-a iktatta be, szövege a 119/2026. (VIII. 5.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^12]: Az 1. § (5) bekezdését a 119/2026. (VIII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
