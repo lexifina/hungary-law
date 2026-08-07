@@ -1,0 +1,1 @@
+A Kormány igazolja, hogy az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény IV. Fejezete szerinti nyilvántartásban szereplő adatok teljeskörűen rendelkezésre állnak.
