@@ -10,6 +10,6 @@ b) integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási 
 
 3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
 
-4. megállapítja a Kriptotv. 9/A. § (1) bekezdése szerinti kivételeket, a kriptoeszköz-átváltást validáló szolgáltató engedélyezési eljárásának részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit, továbbá a Kriptotv. 12/C. § (2) bekezdése szerinti nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
+4.
 
 5. megállapítja a befektetési arannyal folytatott kereskedelmi tevékenység végzésének részletes feltételeit, e tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat; a Kertv. 9/C. § (1) bekezdése szerinti nyilvántartás személyes adatot nem tartalmazó adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat; az engedélyes adatszolgáltatására vonatkozó részletes szabályokat; a vásárlók könyve hitelesítésének rendjét; a befektetési arannyal folytatott kereskedelmi tevékenység végzéséhez szükséges képesítéseket, valamint a befektetési arany kereskedelmi felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.

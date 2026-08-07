@@ -54,6 +54,6 @@ c) kidolgozza a Végrehajtási Rendelet 3. cikk (8) bekezdés b) pontja szerinti
 
 (10) A Hatóság gyakorolja a földmérési és térképészeti tevékenységről szóló törvény szerinti Országos Gravimetriai Hálózat pontjai tekintetében a tulajdonosi jogokat, illetve látja el az Országos Gravimetriai Hálózat pontjainak karbantartásával, helyszínelésével, valamint pótlásával kapcsolatos feladatokat.
 
-(11) A Hatóság látja el a kriptoeszköz-átváltást validáló szolgáltatók felügyeletével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
+(11)
 
 (12) A Hatóság látja el a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével és ellenőrzésével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.

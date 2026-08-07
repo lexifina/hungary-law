@@ -1,6 +1,6 @@
 ## 4. A Hatóság közigazgatási hatósági eljárására vonatkozó szabályok
 
-5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3), (8), (11) és (12) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
+5. § (1) A Hatóság hatáskörébe tartozó hatósági eljárásokban – a (2) bekezdésben foglalt kivétellel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az ezen alcímben, és a 3. § (1), (3), (8) és (12) bekezdésében felsorolt törvényekben, valamint a Hatóság elnöke által kiadott rendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 (2) A Hatóság a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősülő rendelkezésen alapuló hatósági eljárásaiban az Ákr. rendelkezéseit a fogyasztóvédelemről szóló törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 

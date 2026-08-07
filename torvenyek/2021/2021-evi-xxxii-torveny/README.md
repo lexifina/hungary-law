@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2026-01-02 | 2025. évi XCIII. törvény | 2021-32-00-00.42 |
 | 2026-01-06 | 2025. évi CXXXV. törvény | 2021-32-00-00.43 |
 | 2026-06-11 | 2025. évi CXXXV. törvény | 2021-32-00-00.44 |
+| 2026-08-07 | 2026. évi XXXVIII. törvény | 2021-32-00-00.45 |
