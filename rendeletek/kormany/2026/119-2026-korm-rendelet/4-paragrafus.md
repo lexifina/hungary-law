@@ -1,3 +1,3 @@
-## „a) árbevétel: a jogsértő szervezetnek a jogsértés időpontját megelőző üzleti évben a személyszállítási – közlekedésszervező, illetve országos közlekedésszervező esetében a jogsértés időpontját megelőző üzleti évben a közlekedésszervező, illetve országos közlekedésszervező által a jogsértés által érintett alágazatban folytatott személyszállítási vagy ahhoz kapcsolódó – tevékenységéből származó nettó árbevétele;”
+4. §[^5]
 
-4. § A vasúti és autóbuszos személyszállítást igénybe vevő utasok jogainak védelméről szóló 62/2013. (III. 4.) Korm. rendelet 3. § (1) bekezdés b) pontjában és 6. § (1) bekezdés b) pontjában az „és a közlekedésszervező” szövegrész helyébe az „a közlekedésszervező, valamint az országos közlekedésszervező” szöveg lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

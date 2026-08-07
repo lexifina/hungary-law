@@ -1,1 +1,3 @@
-10. § Hatályát veszti az 562/2023. (XII. 14.) Korm. rendelet 1. § (2) bekezdés g) pontja.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

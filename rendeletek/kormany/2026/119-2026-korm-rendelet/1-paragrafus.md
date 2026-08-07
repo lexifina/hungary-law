@@ -20,6 +20,6 @@
 
 ## 1. Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet módosítása
 
-1. § Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet 1. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) Ha a személyszállítási szolgáltatásokról szóló törvényben meghatározott feltételekkel létrehozott országos közlekedésszervező a személyszállítási szolgáltatásokról szóló törvényben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján vasúti társaság feladatkörébe tartozó valamely tevékenységet ellát, e rendelet előírásait e feladatkör tekintetében az országos közlekedésszervezőre is megfelelően alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
