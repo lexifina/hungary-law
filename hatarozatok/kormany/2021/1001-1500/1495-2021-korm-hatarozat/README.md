@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1495-30
 | 2026-02-12 | 2021-1495-30-22.9 | 1523/2023. (XI. 30.) Korm. határozat |
 | 2026-05-07 | 2021-1495-30-22.10 | 1610/2023. (XII. 23.) Korm. határozat |
 | 2026-06-24 | 2021-1495-30-22.11 | 1206/2026. (VI. 24.) Korm. határozat |
+| 2026-08-07 | 2021-1495-30-22.12 | 1255/2026. (VIII. 7.) Korm. határozat |

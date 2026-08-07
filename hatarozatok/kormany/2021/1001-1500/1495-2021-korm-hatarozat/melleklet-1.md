@@ -14,19 +14,19 @@
 
 ## Határidő: a 2. mellékletben foglaltak szerint
 
-## 5.[^1] felhívja a területfejlesztési minisztert a 4. pont szerinti feladat végrehajtásának ellenőrzésére.
+## 5.[^1] felhívja a vidék- és településfejlesztési minisztert a 4. pont szerinti feladat végrehajtásának ellenőrzésére;
 
-## Felelős: területfejlesztési miniszter
+| Felelős: | vidék- és településfejlesztési miniszter |
 
-## Határidő: folyamatos
+| Határidő: | folyamatos |
 
 ## 6.[^2] jóváhagyja Magyarország Helyreállítási és Ellenállóképességi Tervének REPowerEU fejezetéhez kapcsolódó pályázati rendszerben végrehajtandó, 3. melléklet szerinti intézkedési listát;
 
-## 7.[^3] felhívja a területfejlesztési minisztert, hogy gondoskodjon a 6. pont szerinti intézkedések végrehajtásának megkezdéséről.
+## 7.[^3] felhívja a vidék- és településfejlesztési minisztert, hogy gondoskodjon a 6. pont szerinti intézkedések végrehajtásának megkezdéséről;
 
-| Felelős: | területfejlesztési miniszter |
+| Felelős: | vidék- és településfejlesztési miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | a felmerülés ütemében |
 
 ## 8.[^4] jóváhagyja a Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó támogatási keretrendszerben végrehajtandó, 4. melléklet szerinti intézkedési listát,
 
@@ -36,11 +36,23 @@
 
 | Határidő: | azonnal |
 
-1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^6]
+## 10.[^6] jóváhagyja a központi költségvetési forrásból korábban megvalósult, a Helyreállítási és Ellenállóképességi Terv keretében elszámolásra kerülő projektekről szóló 5. melléklet szerinti intézkedési listát;
 
-[^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
+## 11.[^7] felhívja a vidék- és településfejlesztési minisztert, hogy gondoskodjon a 10. pont szerinti intézkedések végrehajtásának megkezdéséről.
+
+| Felelős: | vidék- és településfejlesztési miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
+1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^8]
+
+Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó pályázati rendszerben végrehajtandó intézkedési lista
+
+[^1]: Az 5. pont az 1255/2026. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 6. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 7. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 7. pontot az 1523/2023. (XI. 30.) Korm. határozat 1. pontja iktatta be, szövege az 1255/2026. (VIII. 7.) Korm. határozat 2. pontjával megállapított szöveg.
 [^4]: A 8. pontot az 1206/2026. (VI. 24.) Korm. határozat 1. pontja iktatta be.
 [^5]: A 9. pontot az 1206/2026. (VI. 24.) Korm. határozat 1. pontja iktatta be.
-[^6]: Az 1. melléklet az 1610/2023. (XII. 23.) Korm. határozat 1. pontjával megállapított, az 1135/2026. (V. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^6]: A 10. pontot az 1255/2026. (VIII. 7.) Korm. határozat 3. pontja iktatta be.
+[^7]: A 11. pontot az 1255/2026. (VIII. 7.) Korm. határozat 3. pontja iktatta be.
+[^8]: Az 1. melléklet az 1255/2026. (VIII. 7.) Korm. határozat 4. pontjával megállapított szöveg.
