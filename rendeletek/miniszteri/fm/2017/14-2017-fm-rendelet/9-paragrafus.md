@@ -40,6 +40,14 @@ l) a kibocsátás éve és
 
 m) az eredeti jelölés kibocsátásának éve, ha az eredeti jelölést másik jelölés váltja fel.
 
+(4a)[^9] Harmadik országból történő behozatal esetén
+
+a) a szaporítóanyag certifikációs rendszerben kiadott, 43. § (3) bekezdés b) pontja szerinti jelölésének, valamint
+
+b) a C.A.C. kategóriájú szaporítóanyag 43. § (4) bekezdés b) pontja szerinti termelői címkéjének
+
+tartalmaznia kell a (4) bekezdés szerinti információkon kívül a származási ország eredeti hatósági címkéjére való hivatkozást is a harmadik ország által kiadott, a termék egyedi jelölésére szolgáló kód feltüntetésével.
+
 (5) A certifikációs címkén szereplő adatokat magyar nyelven is fel kell tüntetni, kitörölhetetlenül, jól láthatóan és jól olvashatóan.
 
 (6) Ha a növények vagy növényi részek bármely kategóriája tekintetében színes jelölés felhasználására kerül sor, a jelölés a következő színű lehet:
@@ -50,9 +58,10 @@ b) bázis szaporítóanyag esetében fehér;
 
 c) certifikált szaporítóanyag esetében kék;
 
-d)[^9] a C.A.C. kategóriájú szaporítóanyag esetében sárga.
+d)[^10] a C.A.C. kategóriájú szaporítóanyag esetében sárga.
 
 (7) A jelölést a szaporítóanyagként vagy gyümölcstermő növényként forgalmazni kívánt növényeken vagy növényi részeken kell elhelyezni. Ha az ilyen növények vagy növényi részek csomagban, kötegben vagy tartályban kerülnek forgalomba, akkor a jelölést e csomagon, kötegen vagy tartályon kell elhelyezni.
 
 [^8]: A 9. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés b) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^9]: A 9. § (6) bekezdés d) pontja a 43/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 9. § (4a) bekezdését a 10/2026. (VIII. 4.) AÉM rendelet 1. §-a iktatta be.
+[^10]: A 9. § (6) bekezdés d) pontja a 43/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.

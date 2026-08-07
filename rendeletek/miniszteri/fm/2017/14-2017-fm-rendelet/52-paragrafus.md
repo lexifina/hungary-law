@@ -1,0 +1,6 @@
+## 51. §[^84] E rendelet a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+52. §[^85] E rendeletnek a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet módosításáról szóló 10/2026. (VIII. 4.) AÉM rendelettel megállapított 9. § (4a) bekezdése, 42. §-a és 43. §-a a szállítóra, az azonosságra, a jellemzőkre, a növényegészségügyre, a termesztőközegre, az ellenőrzési intézkedésekre, a jelölésre, a fémzárolásra és a csomagolásra vonatkozó kötelezettségek tekintetében a gyümölcstermő növények bizonyos harmadik országokban előállított szaporítóanyagai és gyümölcstermesztésre szánt ültetvényanyagai egyenértékűségéről szóló, 2026. január 12-i (EU) 2026/75 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^84]: Az 51. §-t a 35/2020. (VI. 29.) AM rendelet 20. §-a iktatta be.
+[^85]: Az 52. §-t a 10/2026. (VIII. 4.) AÉM rendelet 3. §-a iktatta be.

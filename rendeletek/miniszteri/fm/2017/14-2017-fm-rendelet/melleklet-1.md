@@ -1,5 +1,3 @@
-## 51. §[^85] E rendelet a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
 1. melléklet a 14/2017. (III. 23.) FM rendelethez
 
 A rendelet hatálya alá tartozó gyümölcsfajok, illetve -nemzetségek
@@ -55,5 +53,3 @@ A rendelet hatálya alá tartozó gyümölcsfajok, illetve -nemzetségek
 25. Sambucus nigra L. (fekete bodza)
 
 26. Vaccinium L. (áfonya)
-
-[^85]: Az 51. §-t a 35/2020. (VI. 29.) AM rendelet 20. §-a iktatta be.

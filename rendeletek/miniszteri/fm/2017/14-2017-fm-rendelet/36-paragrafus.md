@@ -1,6 +1,6 @@
 ## 25. Késztermék-ellenőrzés
 
-36. §[^61] A NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kitermelést követően a faiskolai tárolóhelyeken, valamint a kis- és nagykereskedelmi telephelyeken szúrópróbaszerűen ellenőrzi a forgalomba hozatalra szánt, illetve forgalmazott szaporítóanyagok tekintetében
+36. §[^62] A NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kitermelést követően a faiskolai tárolóhelyeken, valamint a kis- és nagykereskedelmi telephelyeken szúrópróbaszerűen ellenőrzi a forgalomba hozatalra szánt, illetve forgalmazott szaporítóanyagok tekintetében
 
 a) az 5. § (1)–(3) bekezdésében foglaltak teljesülését,
 
@@ -8,4 +8,4 @@ b) a termékek kategóriájának és a forgalomba hozatal módjának megfelelő 
 
 c) a tárolás módjának szakszerűségét.
 
-[^61]: A 36. § nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^62]: A 36. § nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

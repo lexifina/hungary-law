@@ -1,6 +1,6 @@
 ## 28. Kiskereskedelmi forgalomba hozatal
 
-40. § (1)[^70] A NÉBIH, a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal az árusítóhelyen annak nyitvatartási idejében ellenőrzést tarthat.
+40. § (1)[^71] A NÉBIH, a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal az árusítóhelyen annak nyitvatartási idejében ellenőrzést tarthat.
 
 (2) Az (1) bekezdés szerinti ellenőrzés kiterjed
 
@@ -18,4 +18,4 @@ vizsgálatára.
 
 (4) Árutermelő ültetvény létesítésére ültetési anyagot kiskereskedelmi forgalomba hozatal keretében árusítani tilos.
 
-[^70]: A 40. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^71]: A 40. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.

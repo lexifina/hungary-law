@@ -46,10 +46,10 @@ a) a különböző kategóriájú növényeket nem különítették el, és azon
 
 b) a tanúsított gyümölcsfaiskolában előállított szaporítóanyag nem felel meg a 4. és 7. melléklet szerinti minőségi követelményeknek.
 
-(5)[^60] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal határidő és jelentési kötelezettség megállapításával együtt előírja.
+(5)[^61] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal határidő és jelentési kötelezettség megállapításával együtt előírja.
 
 (6) A zárlatfeloldás feltételeit az ellenőrzöttel közölni kell.
 
 (7) A zárlatot haladéktalanul fel kell oldani, ha a korlátozásra okot adó körülmények megszűnnek, és a szaporítóanyag megfelel az e rendelet előírásainak.
 
-[^60]: A 35. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^61]: A 35. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

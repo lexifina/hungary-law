@@ -1,8 +1,8 @@
 ## 22. A certifikációs rendszerben működő faiskola üzemeltetése, ellenőrzése
 
-33. § (1)[^55] A certifikált szaporítóanyagot termelő gyümölcsfaiskolákban a NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal évente két szemlét tart. Az első szemlét legkésőbb a tárgyévben július 15-ig, a második szemlét pedig legkésőbb a tárgyévben október 10-ig, de még kitermelés előtt, lombos állapotban kell végezni.
+33. § (1)[^56] A certifikált szaporítóanyagot termelő gyümölcsfaiskolákban a NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal évente két szemlét tart. Az első szemlét legkésőbb a tárgyévben július 15-ig, a második szemlét pedig legkésőbb a tárgyévben október 10-ig, de még kitermelés előtt, lombos állapotban kell végezni.
 
-(2)[^56] A NÉBIH, illetve az növénytermesztési hatáskörben eljáró vármegyei kormányhivatal – az (1) bekezdésben foglaltaktól eltérően – a szakmai felügyelet keretében a termelés más időpontjaiban is végezhet ellenőrzést.
+(2)[^57] A NÉBIH, illetve az növénytermesztési hatáskörben eljáró vármegyei kormányhivatal – az (1) bekezdésben foglaltaktól eltérően – a szakmai felügyelet keretében a termelés más időpontjaiban is végezhet ellenőrzést.
 
 (3) Az első gyümölcsfaiskolai szemlén
 
@@ -30,11 +30,11 @@ a) az első szemle intézkedéseinek elvégzését,
 
 b) a nyilvántartási napló, a vázrajz adatai és a faiskolai táblában történt megjelölése alapján azonosított minden kitermelésre szánt tétel fejlettségét, kezeltségét, fajtatisztaságát, valamint becsléssel az üzemi leltár adatainak valódiságát, és
 
-c)[^57] a növény-egészségügyi vizsgálat megtörténtét a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal jegyzőkönyve alapján
+c)[^58] a növény-egészségügyi vizsgálat megtörténtét a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal jegyzőkönyve alapján
 
 kell ellenőrizni.
 
-(5)[^58] A NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a (3) bekezdés e) és g) pontja, valamint (4) bekezdés b) és c) pontja szerinti követelmények vizsgálatával összevont szemlét végez a szállítónál, amennyiben az elmúlt három év gyümölcsfaiskolai szemléi során
+(5)[^59] A NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a (3) bekezdés e) és g) pontja, valamint (4) bekezdés b) és c) pontja szerinti követelmények vizsgálatával összevont szemlét végez a szállítónál, amennyiben az elmúlt három év gyümölcsfaiskolai szemléi során
 
 a) a szaporítóanyag fajtaazonosságával, fajtatisztaságával,
 
@@ -46,7 +46,7 @@ kapcsolatban nem került szabálytalanság jegyzőkönyvben rögzítésre.
 
 (6) Az (5) bekezdésben meghatározott összevont szemlét a második gyümölcsfaiskolai szemle időpontjában kell végezni.
 
-[^55]: A 33. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^56]: A 33. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^57]: A 33. § (4) bekezdés c) pontja a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^58]: A 33. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^56]: A 33. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^57]: A 33. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^58]: A 33. § (4) bekezdés c) pontja a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^59]: A 33. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

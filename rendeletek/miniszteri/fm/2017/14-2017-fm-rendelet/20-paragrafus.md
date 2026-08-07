@@ -2,7 +2,7 @@
 
 20. § (1) A prebázis törzsültetvény a fajtafenntartó által igazolt eredetű, nyilvántartásba vett anyanövény, fajtaazonos és fajtatiszta kiinduló anyag szaporulatából létesíthető.
 
-(2)[^37] A továbbszaporításra kiválasztott anyanövény egyedet a fajta fenntartója jelöli ki, ennek helyszíni vizuális hatósági ellenőrzését a szállító kérelmére a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal és a NÉBIH végzi.
+(2)[^38] A továbbszaporításra kiválasztott anyanövény egyedet a fajta fenntartója jelöli ki, ennek helyszíni vizuális hatósági ellenőrzését a szállító kérelmére a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal és a NÉBIH végzi.
 
 (3) A kiválasztott anyanövény helyszíni ellenőrzése kiterjed a növény és környezete egészségi állapotára, a 2. melléklet 1. és 2. pontjai szerinti károsítók jelenlétére, valamint pomológiai jellemzőire.
 
@@ -10,4 +10,4 @@
 
 (5) A prebázis anyanövény a mentességet megőrző körülmények biztosításával szaporítható tovább. A kapott szaporulatot a gyökérérintkezéssel, pollennel, légbeli vagy talajban élő vektorokkal történő fertőzéstől mentességet biztosító körülmények között kell nevelni. A növény-egészségügyi ellenőrző vizsgálatok elvégzése után ez az anyag a fajta (klón) prebázis törzsültetvény és törzsgyümölcsös alapanyaga.
 
-[^37]: A 20. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^38]: A 20. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

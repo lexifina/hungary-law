@@ -1,18 +1,17 @@
-43. § (1)[^74] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnak a tétel virológiai állapotára vonatkozó állásfoglalása, valamint a szaporítóanyag bizonylatai és vizsgálata alapján dönt arról, hogy a szaporítóanyag belföldön felhasználható-e, illetve, hogy milyen szaporítási fokúnak fogadja el az importált anyagot.
+43. §[^74] (1) A NÉBIH a 42. § (2) bekezdése szerinti bejelentésről tájékoztatja a 42. § (3) bekezdés b) pontja szerint illetékes növénytermesztési hatáskörben eljáró vármegyei kormányhivatalt a szaporítóanyag egyenértékűséget megállapító határozatban foglalt feltételeknek való megfelelősége ellenőrzésének céljából.
 
-(2)[^75] A beérkezett szaporítóanyag-tételekről a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal belföldiesítő jegyzőkönyvet vesz fel. A jegyzőkönyv alapján az importőr honosító származási igazolványt állít ki, ami a felhasználó, illetve a tételek megosztása esetén a viszonteladó alapbizonylata.
+(2) A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az (1) bekezdés szerinti ellenőrzése során a 42. § (3) bekezdés b) pontja szerinti időben és helyen megvizsgálja a beérkezett szaporítóanyag-szállítmányt.
 
-(3) A (2) bekezdés szerinti belföldiesítő jegyzőkönyvnek tartalmaznia kell
+(3) Ha a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az ellenőrzés során azt állapítja meg, hogy a harmadik országból származó szaporítóanyag
 
-a) az exportőr nevét,
+a) nem felel meg az egyenértékűséget megállapító határozat előírásainak, akkor a szaporítóanyag forgalomba hozatalát megtiltja, vagy
 
-b) a származási országot,
+b) megfelel az egyenértékűséget megállapító határozat előírásainak, akkor certifikációs rendszer esetében intézkedik a szaporítóanyagnak a harmadik országból származó jelölése mellett vagy – a harmadik országbeli jelölés megfelelőségére és a fogyasztók megfelelő tájékoztatására figyelemmel hozott döntése esetében – helyett történő új, az uniós előírásoknak megfelelő hatósági címkével való ellátása iránt.
 
-c) az importőr nevét és címét,
+(4) Az importőr
 
-d) a NÉBIH importengedélyének számát, valamint
+a) a (3) bekezdés b) pontja szerinti jelölés iránti intézkedéssel egyidejűleg kiállítja a 10. § (6) bekezdése szerinti származási igazolványt, valamint
 
-e) az importőr által kiállított honosító származási igazolvány számát.
+b) C.A.C. kategóriájú szaporítóanyag esetében a szaporítóanyagot ellátja a 9. § (4) bekezdése és (4a) bekezdés b) pontja szerinti jelöléssel.
 
-[^74]: A 43. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a)–b) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^75]: A 43. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^74]: A 43. § a 10/2026. (VIII. 4.) AÉM rendelet 2. §-ával megállapított szöveg.
