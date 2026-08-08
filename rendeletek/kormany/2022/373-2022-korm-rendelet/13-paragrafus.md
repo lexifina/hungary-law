@@ -2,7 +2,7 @@
 
 13. § (1) Az audit hatóság az Európai Bizottság iránymutatásai és a nemzetközileg elfogadott audit standardok alapján
 
-a)[^66] elkészíti a HET végrehajtáshoz szükséges audit stratégiát, amely meghatározza
+a)[^71] az alkalmazandó irányítási szabályoknak megfelelő jóváhagyás mellett elkészíti a HET végrehajtására vonatkozó, az (EU) 2021/241 rendelet által előírt végrehajtási időszak egészére kiterjedő audit stratégiát, amely meghatározza
 
 aa) a kockázatelemzés megközelítését és módszertanát,
 
@@ -20,9 +20,9 @@ e) auditálja az intézményrendszer szereplőinek működési szabályrendszer�
 
 f) véleményezi az 5. § 22. pontja szerinti módszertant,
 
-g)[^67] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt,
+g)[^72] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt, valamint az ellenőrzési feladatai során figyelembe veszi az ARACHNE+ kockázatértékelő eszköz által generált kockázati értékeket,
 
-h)[^68] ellenőrzi az ARACHNE+ kockázatértékelő eszköz használatát, valamint az annak részére történő, 5. § 23. pontja szerinti adatküldést,
+h)[^73] ellenőrzi az ARACHNE+ kockázatértékelő eszköz használatát, valamint az annak részére történő, 5. § 23. pontja szerinti adatküldést,
 
 i) évente rendszerellenőrzést végez,
 
@@ -34,15 +34,15 @@ l) elkészíti az általa végzett ellenőrzések összefoglalását, ideértve 
 
 m) ellenőrzései alapján meghatározza azt az Európai Bizottság iránymutatása szerinti bizonyossági szintet, amely a nemzeti hatóság vezetője által kibocsátott vezetői nyilatkozat szerint lefedett területekre vonatkozik,
 
-n)[^69] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
+n)[^74] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
 
-(2)[^70]
+(2)[^75]
 
-(3)[^71] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+(3)[^76] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
 
-[^66]: [Nem vezethető át a 213/2024. (VII. 29.) Korm. rendelet 50. § 4. pontjában foglalt azon rendelkezés, amely szerint a 13. § (1) bekezdés a) pontjában a „végrehajtásához szükséges” szövegrész helyébe a „végrehajtására vonatkozó” szöveg lép.]
-[^67]: A 13. § (1) bekezdés g) pontja a 94/2026. (VI. 18.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
-[^68]: A 13. § (1) bekezdés h) pontja a 94/2026. (VI. 18.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
-[^69]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
-[^70]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^71]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^71]: A 13. § (1) bekezdés a) pontja a 121/2026. (VIII. 7.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^72]: A 13. § (1) bekezdés g) pontja a 121/2026. (VIII. 7.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^73]: A 13. § (1) bekezdés h) pontja a 94/2026. (VI. 18.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^74]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
+[^75]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^76]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

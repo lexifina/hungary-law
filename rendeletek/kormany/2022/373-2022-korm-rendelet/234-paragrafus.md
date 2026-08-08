@@ -1,4 +1,4 @@
-## XII. Fejezet[^459]
+## XII. Fejezet[^482]
 
 ## A HELYREÁLLÍTÁSI ÉS ELLENÁLLÓKÉPESSÉGI ESZKÖZ (RRF) HATÁSKÖRI SZABÁLYAI
 
@@ -10,4 +10,4 @@ a) az Ávr. 50. § (1) bekezdés c) pontja szerint több év előirányzatai ter
 
 b) a támogatási kérelemről a nemzeti hatóság az összesített értékelő táblázat vagy – döntés-előkészítő bizottság összehívása esetén – a döntési javaslat alapján dönt. A pénzügyi ellenjegyzés tényét és a pénzügyi ellenjegyző keltezéssel ellátott aláírását tartalmazó támogatási döntés kötelezettségvállalásnak minősül. A támogatói okiratok kiadása vagy a támogatási szerződések megkötése esetén a pénzügyi ellenjegyzés tényét és a pénzügyi ellenjegyző keltezéssel ellátott aláírását nem kell feltüntetni.
 
-[^459]: A XII. Fejezet (234-234/A. §) a 154/2023. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^482]: A XII. Fejezet (234-234/A. §) a 154/2023. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.

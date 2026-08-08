@@ -2,13 +2,13 @@
 
 23. § E Fejezet szabályait
 
-a)[^83] az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikkével,
+a)[^92] az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikkével,
 
 b) az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közleménnyel (2021/C 121/01), valamint
 
-c)[^84] a II. Fejezet szerinti intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
+c)[^93] a II. Fejezet szerinti intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
 
 összhangban kell értelmezni és alkalmazni.
 
-[^83]: A 23. § a) pontja a 441/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^84]: A 23. § c) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 11. pontja szerint módosított szöveg.
+[^92]: A 23. § a) pontja a 441/2024. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^93]: A 23. § c) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 11. pontja szerint módosított szöveg.

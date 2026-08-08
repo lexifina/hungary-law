@@ -16,11 +16,12 @@ f) biztosítja a meghirdetendő felhívások szakmai tartalmának meghatározás
 
 g) részt vesz a felelősségi körébe tartozó felhívások döntés-előkészítő bizottságaiban,
 
-h)[^56] gondoskodik az NFK felé történő adatszolgáltatásról az NFK által megjelölt rendszerességgel és tartalommal, valamint
+h)[^59] gondoskodik az NFK felé történő adatszolgáltatásról az NFK által megjelölt rendszerességgel és tartalommal, valamint
 
-i) a támogatási kérelem tartalmi értékeléséhez értékelőt biztosít.
+i)[^60] a támogatási kérelem tartalmi értékeléséhez értékelőt biztosít a 15. alcímet figyelembe véve.
 
-(2)[^57] A szakpolitikai felelős feladatait az 1. mellékletben foglalt táblázat C oszlopában meghatározott szervezet látja el.
+(2)[^61] A szakpolitikai felelős feladatait az 1. mellékletben foglalt táblázat C oszlopában meghatározott szervezet látja el.
 
-[^56]: A 12. § (1) bekezdés h) pontja a 218/2024. (VII. 31.) Korm. rendelet 84. § 4. pontja szerint módosított szöveg.
-[^57]: A 12. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 5. pontja szerint módosított szöveg.
+[^59]: A 12. § (1) bekezdés h) pontja a 218/2024. (VII. 31.) Korm. rendelet 84. § 4. pontja szerint módosított szöveg.
+[^60]: A 12. § (1) bekezdés i) pontja a 121/2026. (VIII. 7.) Korm. rendelet 45. § 1. pontja szerint módosított szöveg.
+[^61]: A 12. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 5. pontja szerint módosított szöveg.

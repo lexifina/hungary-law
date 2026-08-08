@@ -1,6 +1,6 @@
 ## 13. A Monitoring Bizottság
 
-15. § (1)[^75] A nemzeti hatóság a szociális partnerekkel, a civil szervezetekkel, az ifjúsági szervezetekkel és más, a HET végrehajtása szempontjából releváns érdekelt felekkel folytatott társadalmi konzultáció érdekében Monitoring Bizottságot hoz létre.
+15. § (1)[^81] A nemzeti hatóság a szociális partnerekkel, a civil szervezetekkel, az ifjúsági szervezetekkel és más, a HET végrehajtása szempontjából releváns érdekelt felekkel folytatott társadalmi konzultáció érdekében Monitoring Bizottságot hoz létre.
 
 (2) A Monitoring Bizottság főbb feladatai:
 
@@ -12,4 +12,7 @@ c) megtárgyalja és véleményezi a HET módosítására tett javaslatokat,
 
 d) a tagok egyszerű többségének egyetértésével ajánlásokat tesz a nemzeti hatóság részére.
 
-[^75]: A 15. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
+(3)[^82] A Monitoring Bizottság a (2) bekezdés a) pontja szerinti feladatát az (EU) 2021/241 rendelet 24. cikk (1) bekezdésében meghatározott, a pénzügyi hozzájárulásoknak és adott esetben a hitelnek a tagállam részére teljesítendő kifizetési határidejét követően is folyamatosan ellátja.
+
+[^81]: A 15. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
+[^82]: A 15. § (3) bekezdését a 121/2026. (VIII. 7.) Korm. rendelet 28. §-a iktatta be.

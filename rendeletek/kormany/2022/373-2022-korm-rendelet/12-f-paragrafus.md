@@ -22,7 +22,7 @@ e) a kettős finanszírozás elkerülésének és kizárásának követelményé
 
 5. a támogatási keretrendszert végrehajtó szerv monitoring tevékenységével kapcsolatos, a végső kedvezményezetti projektek végrehajtásának nyomon követésére irányuló követelményeket,
 
-6. az audit és kontroll követelményeket, az ARACHNE+ kockázatértékelő eszköz minden funkciójának rendszerszintű használata kötelezettségét a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, a kockázatok szisztematikus nyomon követésére és az összeférhetetlenségi szabályok tiszteletben tartására vonatkozó kötelezettséget,
+6.[^70] az audit és kontroll követelményeket, a 36. § (1) és (2) bekezdésében foglalt követelményeknek megfelelően az ARACHNE+ kockázatértékelő eszköz minden funkciójának rendszerszintű használata kötelezettségét a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, a kockázatok szisztematikus nyomon követésére és az összeférhetetlenségi szabályok tiszteletben tartására vonatkozó kötelezettséget,
 
 7. a végső kedvezményezetti projektek ellenőrzésének szabályait, a nemzeti hatóság támogatási keretrendszert végrehajtó szervre irányuló ellenőrzéseit,
 
@@ -39,3 +39,5 @@ e) a kettős finanszírozás elkerülésének és kizárásának követelményé
 13. a támogatási keretrendszer keretében a támogatási keretrendszert végrehajtó szerv által a végső kedvezményezettekkel szerződött, valamely okból fel nem használt vagy visszakövetelt források felhasználására vonatkozó azon kötelezettséget, hogy ezen összegek kizárólag az RRF céljaival összhangban kerülhetnek felhasználásra a támogatási keretrendszert végrehajtó szerv részéről,
 
 14. a támogatási keretrendszert végrehajtó szervnek az Európai Unió és Magyarország központi költségvetésének pénzügyi érdekei védelmében teendő, különösen a szabálytalanságok, összeférhetetlenség, csalás, korrupció és a kettős finanszírozás megakadályozása érdekében ellátandó feladatait.
+
+[^70]: A 12/F. § (2) bekezdés 6. pontja a 121/2026. (VIII. 7.) Korm. rendelet 45. § 3. pontja szerint módosított szöveg.

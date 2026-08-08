@@ -1,4 +1,4 @@
-## 10/C.[^65] A támogatási keretrendszer végrehajtásában részt vevő szervezetek
+## 10/C.[^69] A támogatási keretrendszer végrehajtásában részt vevő szervezetek
 
 12/E. § (1) Ha valamely HET intézkedés vagy annak egy része támogatási keretrendszer formájában valósul meg, a nemzeti hatóság a támogatási keretrendszer végrehajtási feladatainak ellátásával a támogatási keretrendszert végrehajtó szervet bízza meg.
 
@@ -14,4 +14,4 @@ b) egyéb, a (3) bekezdésben hivatkozott szerződésben meghatározott körben 
 
 (5) A támogatási keretrendszert végrehajtó szerv a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően további közreműködőt vonhat be. Előzetes tájékoztatás és előzetes engedélyeztetés nélkül vonható be az a közreműködő, amely a végrehajtási megállapodásban vagy a felhívásban az általa ellátandó feladatkör megjelölésével nevesítésre került. A közreműködő teljesítéséért a támogatási keretrendszert végrehajtó szerv felel. A támogatási keretrendszert végrehajtó szerv a közreműködő tevékenységét a közreműködői megállapodásban meghatározott módon ellenőrzi.
 
-[^65]: A 10/C. alcímet (12/E–12/F. §-t) a 94/2026. (VI. 18.) Korm. rendelet 13. §-a iktatta be.
+[^69]: A 10/C. alcímet (12/E–12/F. §-t) a 94/2026. (VI. 18.) Korm. rendelet 13. §-a iktatta be.

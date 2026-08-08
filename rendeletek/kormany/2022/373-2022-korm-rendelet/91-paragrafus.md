@@ -38,7 +38,7 @@ k) a megvalósítási időszakra az a végső kedvezményezett, aki a támogatá
 
 l) a társasház és a lakásszövetkezet a szociális célú város rehabilitációra vonatkozó felhívás keretében,
 
-m)[^158] kérelemre az a végső kedvezményezett, amely rendelkezik legalább egy lezárt, teljes üzleti évvel és szerepel a köztartozásmentes adózói adatbázisban vagy a köztartozás-mentességét hét napnál nem régebbi nemleges adóigazolással igazolja,
+m)[^174] kérelemre az a végső kedvezményezett, amely rendelkezik legalább egy lezárt, teljes üzleti évvel és szerepel a köztartozásmentes adózói adatbázisban vagy a köztartozás-mentességét hét napnál nem régebbi nemleges adóigazolással igazolja,
 
 n) a térségi fejlesztési tanács,
 
@@ -46,4 +46,4 @@ o) az állam által alapított vagyonkezelő alapítvány és az ilyen alapítv�
 
 (2) Az (1) bekezdés g) pontja nem alkalmazható a konzorciumvezető esetén.
 
-[^158]: A 91. § (1) bekezdés m) pontja a 441/2024. (XII. 23.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.
+[^174]: A 91. § (1) bekezdés m) pontja a 441/2024. (XII. 23.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.

@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-373-20-
 | 2026-03-06 | 2022-373-20-22.29 | 48/2026. (III. 5.) Korm. rendelet |
 | 2026-06-19 | 2022-373-20-22.30 | 94/2026. (VI. 18.) Korm. rendelet |
 | 2026-07-02 | 2022-373-20-22.31 | 105/2026. (VII. 1.) Korm. rendelet |
+| 2026-08-08 | 2022-373-20-22.32 | 121/2026. (VIII. 7.) Korm. rendelet |

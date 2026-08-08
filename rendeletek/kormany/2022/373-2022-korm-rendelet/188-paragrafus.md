@@ -1,6 +1,6 @@
 ## 51. Technikai átforgatás
 
-188. § (1)[^341] Olyan projekt esetén, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban, vagy uniós finanszírozású projektként indult, de a projekt bizonylatai a Bizottság felé költségnyilatkozatban nem kerültek benyújtásra, és utólag, egyedi döntés alapján a projekt e rendelet hatálya alá tartozó támogatásban részesül, a költségvetés által korábban finanszírozott elszámoló bizonylatokat a végső kedvezményezettnek olyan önálló kifizetési igénylés keretében kell benyújtania elszámolásra, amely kizárólag költségvetési előfinanszírozással érintett számlákat tartalmaz.
+188. § (1)[^360] Olyan projekt esetén, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban, vagy uniós finanszírozású projektként indult, de a projekt bizonylatai a Bizottság felé költségnyilatkozatban nem kerültek benyújtásra, és utólag, egyedi döntés alapján a projekt e rendelet hatálya alá tartozó támogatásban részesül, a költségvetés által korábban finanszírozott elszámoló bizonylatokat a végső kedvezményezettnek olyan önálló kifizetési igénylés keretében kell benyújtania elszámolásra, amely kizárólag költségvetési előfinanszírozással érintett számlákat tartalmaz.
 
 (2) Az (1) bekezdés szerinti elszámolásban jóváhagyott és kiutalhatóként megjelölt összeg nem kerül a végső kedvezményezett számlájára kiutalásra, hanem az elszámolások e rendelet szerinti hitelesítését, rögzítését, ellenőrzését és jóváhagyását követően technikai átforgatásra kerül sor.
 
@@ -18,7 +18,13 @@ c) jelezni kell a projekt keretében a technikai átforgatás időpontjáig elé
 
 (6) Az átforgatásról minden esetben jegyzőkönyvet kell készíteni, amit a nemzeti hatóság vezetője vagy a nemzeti hatóság utalványozásra kijelölt, vezető beosztású munkatársa hagy jóvá. A jóváhagyott jegyzőkönyvet csatolni kell a monitoring és információs rendszerbe.
 
-(7)[^342] A nemzeti hatóság olyan projekt esetén, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban, új technikai felhívást hirdet meg a 89/B. § (2)–(4) bekezdése szerinti rendelkezések alkalmazásával.
+(7)[^361] A nemzeti hatóság olyan projekt esetén, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban, új technikai felhívást hirdet meg a 89/B. § (2)–(4) bekezdése szerinti rendelkezések alkalmazásával.
 
-[^341]: A 188. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^342]: A 188. § (7) bekezdését a 94/2026. (VI. 18.) Korm. rendelet 15. §-a iktatta be.
+(8)[^362] A (7) bekezdés szerinti projektek esetén a technikai felhívás alapján – a (9) bekezdés figyelembevételével – a korábban uniós finanszírozásban nem érintett, az Áht. 1. § 9. pontja szerinti központi költségvetési fejezetet irányító szerv is kijelölhető a HET intézkedési listában végső kedvezményezettként, amely a projekt hazai forrásból történő megvalósítása során támogatóként járt el, illetve a hazai forrást felügyelte.
+
+(9)[^363] A (8) bekezdés szerinti kijelölés esetén a fejezetet irányító szerv kötelessége a korábbi nem uniós finanszírozású támogatási szerződés módosításával előírni az abban érintett végső kedvezményezettek számára az ellenőrzéstűrési, dokumentummegőrzési, beszámolási és az (EU) 2021/241 rendelet 22. cikke szerinti kötelezettségeknek, valamint a kötelező tájékoztatási és nyilvánossági szabályoknak való megfelelést.
+
+[^360]: A 188. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^361]: A 188. § (7) bekezdését a 94/2026. (VI. 18.) Korm. rendelet 15. §-a iktatta be.
+[^362]: A 188. § (8) bekezdését a 121/2026. (VIII. 7.) Korm. rendelet 40. §-a iktatta be.
+[^363]: A 188. § (9) bekezdését a 121/2026. (VIII. 7.) Korm. rendelet 40. §-a iktatta be.

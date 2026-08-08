@@ -1,0 +1,3 @@
+96/A. §[^189] Az NFK e fejezet szerinti közbeszerzési elszámolhatósági ellenőrzése körében ellenőrzi, hogy a végső kedvezményezett alkalmazza-e a Kbt. 25. §-át és 62. § (1) bekezdés m) pontját – összhangban az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikkében foglaltakkal – arra vonatkozóan, hogy a közbeszerzési eljárásban ne vehessen részt olyan gazdasági szereplő, akivel kapcsolatban családi vagy érzelmi okok, politikai szimpátiával vagy nemzeti kötődéssel kapcsolatos okok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt objektíven összeférhetetlennek tekinthető helyzet áll fenn az adott közbeszerzési eljárásban.
+
+[^189]: A 96/A. §-t a 121/2026. (VIII. 7.) Korm. rendelet 37. §-a iktatta be.

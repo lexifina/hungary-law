@@ -4,12 +4,12 @@
 
 (3) A végső kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi a nemzeti hatóság részére.
 
-(4)[^247] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
+(4)[^266] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
 
-(4a)[^248] Ha a nemzeti hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.
+(4a)[^267] Ha a nemzeti hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.
 
-(5)[^249] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi ellenőrzését.
+(5)[^268] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi ellenőrzését.
 
-[^247]: A 122. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 75. pontja szerint módosított szöveg.
-[^248]: A 122. § (4a) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 47. §-a iktatta be.
-[^249]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 76. pontja szerint módosított szöveg.
+[^266]: A 122. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 75. pontja szerint módosított szöveg.
+[^267]: A 122. § (4a) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 47. §-a iktatta be.
+[^268]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 76. pontja szerint módosított szöveg.

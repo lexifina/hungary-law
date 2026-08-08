@@ -1,4 +1,4 @@
-222. § (1)[^401]
+222. § (1)[^424]
 
 (2) Követelést kell előírni
 
@@ -32,11 +32,11 @@ f) a 154. § szerinti esetben,
 
 g) ha a támogatási szerződés módosítása – így különösen támogatási intenzitás megváltozása, műszaki tartalom csökkentése miatti az elszámolható költség, valamint a támogatás csökkentése, vagy a szállítói finanszírozású elszámoló bizonylatok összegének növekedése – miatt a kifizethető előleg összege csökken, és a korábban kifizetett előleg ezt az összeget meghaladta, a különbözetre vagy annak érintett részére, ha azzal a végső kedvezményezett a projektben már nem tud elszámolni,
 
-h)[^402] ha a végső kedvezményezett a fel nem használt előleget vagy a jogosulatlanul igénybe vett támogatást önként visszafizeti,
+h)[^425] ha a végső kedvezményezett a fel nem használt előleget vagy a jogosulatlanul igénybe vett támogatást önként visszafizeti,
 
 i) ha a szállító a szállítói előleget jogosulatlanul használta fel, valamint a 164. § szerinti esetben,
 
-j)[^403] a támogatási szerződés közös megegyezéssel történő megszüntetése esetén, ha az elszámolás alapján a végső kedvezményezettet visszafizetés terheli, valamint a támogatási szerződés felbontásakor, ha már történt kifizetés,
+j)[^426] a támogatási szerződés közös megegyezéssel történő megszüntetése esetén, ha az elszámolás alapján a végső kedvezményezettet visszafizetés terheli, valamint a támogatási szerződés felbontásakor, ha már történt kifizetés,
 
 k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedvezményezett korábban igényelt előleget, az általa számlákkal lefedett és elszámolt költségekre jutó előlegen túl esetlegesen fennmaradó előleg összegét vissza kell követelni, kivéve, ha a projektátadást jogszabály rendeli el, és e jogszabály eltérő szabályokat állapít meg, azonban ha jogszabály alapján történik a projektátadás, akkor az adott jogszabályban foglaltaknak megfelelően kell eljárni.
 
@@ -44,7 +44,7 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 
 (4) A (2) bekezdés a) pontja szerinti követelés egyoldalú támogatási szerződésmódosítással csökkenti a projekt megítélt támogatását. A visszakövetelt támogatási összeget a végső kedvezményezett nem használhatja fel újra. Szabálytalansági jogcím esetén, ha a végső kedvezményezett visszafizetése a szabálytalansági döntést követően, a jogorvoslati kérelem benyújtására rendelkezésre álló időtartamon belül nem történik meg, a szabálytalansági döntés jogerőre emelkedik, és a követelés előírásra kerül.
 
-(5)[^404] A követelés előírása után további kifizetés nem teljesíthető a végső kedvezményezett részére, továbbá a követeléssel érintett támogatási szerződés vonatkozásában. A követelés előírását követően a végső kedvezményezett által benyújtott, számlát nem tartalmazó záró kifizetési igénylés nem hagyható jóvá, míg a végső kedvezményezett vissza nem fizeti a követelt összeget.
+(5)[^427] A követelés előírása után további kifizetés nem teljesíthető a végső kedvezményezett részére, továbbá a követeléssel érintett támogatási szerződés vonatkozásában. A követelés előírását követően a végső kedvezményezett által benyújtott, számlát nem tartalmazó záró kifizetési igénylés nem hagyható jóvá, míg a végső kedvezményezett vissza nem fizeti a követelt összeget.
 
 (6) Ha a végső kedvezményezett támogatás visszaköveteléséről szóló döntés ellen benyújtott kifogásának a nemzeti hatóság helyt ad, vagy olyan körülmény merül fel, amely a követelés előírását érvényteleníti, a követelés előírását vissza kell vonni.
 
@@ -52,13 +52,13 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 
 (8) Ha a követelés a kompenzálással nem teljesül, a további kompenzálás a végső kedvezményezett értesítése után vagy az Ávr. 99. §-ában foglaltak szerint részletfizetés engedélyezése esetén a futamidő alatt is lehetséges.
 
-(9)[^405] Amennyiben a követelés a 163. § (1) bekezdés a) pontja alapján került előírásra, a követelés törlésre kerül, ha a végső kedvezményezett a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül a 162. § szerinti határidőknek nem megfelelő szállítói előlegről szóló záradékolt számlát a nemzeti hatóság részére megküldi.
+(9)[^428] Amennyiben a követelés a 163. § (1) bekezdés a) pontja alapján került előírásra, a követelés törlésre kerül, ha a végső kedvezményezett a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül a 162. § szerinti határidőknek nem megfelelő szállítói előlegről szóló záradékolt számlát a nemzeti hatóság részére megküldi.
 
-(10)[^406] A követeléskezelést meg kell szüntetni, ha az előírás a 222. § (2) bekezdés i) pontja alapján történt, és a végső kedvezményezett a 162. § szerinti határidőknek nem megfelelő előlegszámlát határidőn túl, de a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül megküldi.
+(10)[^429] A követeléskezelést meg kell szüntetni, ha az előírás a 222. § (2) bekezdés i) pontja alapján történt, és a végső kedvezményezett a 162. § szerinti határidőknek nem megfelelő előlegszámlát határidőn túl, de a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül megküldi.
 
-[^401]: A 222. § (1) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 51. § d) pontja hatályon kívül helyezte.
-[^402]: A 222. § (2) bekezdés h) pontja a 49/2024. (III. 4.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
-[^403]: A 222. § (2) bekezdés j) pontja a 441/2024. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^404]: A 222. § (5) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 57. pontja szerint módosított szöveg.
-[^405]: A 222. § (9) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
-[^406]: A 222. § (10) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^424]: A 222. § (1) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 51. § d) pontja hatályon kívül helyezte.
+[^425]: A 222. § (2) bekezdés h) pontja a 49/2024. (III. 4.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^426]: A 222. § (2) bekezdés j) pontja a 441/2024. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^427]: A 222. § (5) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 57. pontja szerint módosított szöveg.
+[^428]: A 222. § (9) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^429]: A 222. § (10) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
