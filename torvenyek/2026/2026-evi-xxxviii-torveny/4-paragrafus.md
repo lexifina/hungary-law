@@ -1,7 +1,3 @@
 ## 3. A kriptoeszközök piacáról szóló 2024. évi VII. törvény módosítása
 
-4. § A kriptoeszközök piacáról szóló 2024. évi VII. törvény a következő 16/B. §-sal egészül ki:
-
-„16/B. § (1) A kriptoeszköz-átváltási szolgáltatást érintő egyes törvényi rendelkezések hatályon kívül helyezéséről szóló 2026. évi XXXVIII. törvény (a továbbiakban: 2026. évi XXXVIII. törvény) hatálybalépésekor kriptoeszköz-átváltási szolgáltatás validálásához kapcsolódóan folyamatban lévő engedélyezési és felügyeleti eljárásokat a Szabályozott Tevékenységek Felügyeleti Hatósága az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 47. § (1) bekezdés c) pontja alapján megszünteti. A kriptoeszköz-átváltást validáló szolgáltatási tevékenységre vonatkozó engedélyek e törvény hatálybalépésének napján hatályukat vesztik.
-
-(2) A kriptoeszköz átváltása és a nem engedélyezett kriptoügylet tekintetében a kriptoeszköz-átváltást validáló szolgáltató, illetve a Szabályozott Tevékenységek Felügyeleti Hatósága birtokába került adatokat a 2026. évi XXXVIII. törvény hatálybalépését követő 3 munkanapon belül vissza nem állítható módon törli.”
+### 4. §

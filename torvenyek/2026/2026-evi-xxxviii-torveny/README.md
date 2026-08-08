@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2026-38-00-00
 | --- | --- | --- |
 | 2026-08-07 | 2026. évi XXXVIII. törvény | 2026-38-00-00.0 (közlönyállapot) |
 | 2026-08-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2026-38-00-00.1 |
+| 2026-08-08 | 2010. évi CXXX. törvény | 2026-38-00-00.2 |
