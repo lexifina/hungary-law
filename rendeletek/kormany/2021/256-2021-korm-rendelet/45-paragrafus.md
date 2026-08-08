@@ -1,6 +1,6 @@
-45. §[^110] (1) A fejlesztéspolitikai intézményrendszer azon munkatársa, aki valamely projekt vonatkozásában
+45. §[^113] (1) A fejlesztéspolitikai intézményrendszer azon munkatársa, aki valamely projekt vonatkozásában
 
-a)[^111] érdemi eljárási cselekményt végzett, a projekt esetén az Ápjt. szerinti állami projektértékelőként (a továbbiakban: állami értékelő) nem járhat el,
+a)[^114] érdemi eljárási cselekményt végzett, a projekt esetén az Ápjt. szerinti állami projektértékelőként (a továbbiakban: állami értékelő) nem járhat el,
 
 b) állami értékelőként járt el, az adott projekt esetén más, érdemi eljárási cselekményt nem végezhet,
 
@@ -10,8 +10,8 @@ d) állami értékelőként közbeszerzési értékelést végzett, akkor az Áp
 
 (2) Közbeszerzési értékelést nem végezhet olyan személy, akitől az ügy elfogulatlan megítélése nem várható.
 
-(3)[^112] Ha egy személy összeférhetetlensége az (1) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt a (2) bekezdés szerint kell minősíteni.
+(3)[^115] Ha egy személy összeférhetetlensége az (1) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt a (2) bekezdés szerint kell minősíteni.
 
-[^110]: A 45. § az 562/2021. (X. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^111]: A 45. § (1) bekezdés a) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
-[^112]: A 45. § (3) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § d) pontja, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^113]: A 45. § az 562/2021. (X. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^114]: A 45. § (1) bekezdés a) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^115]: A 45. § (3) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § d) pontja, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 3. pontja szerint módosított szöveg.

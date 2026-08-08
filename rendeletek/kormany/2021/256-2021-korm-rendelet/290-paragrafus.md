@@ -1,6 +1,6 @@
-290. § (1)[^490] A záró kifizetési kérelem vonatkozásában az 55. alcímet azzal az eltéréssel kell alkalmazni, hogy az irányító hatóság a 318. § (1) bekezdés c) pontja szerinti határidő figyelembevételével dönt, azzal, hogy hiánypótlásra, tisztázó kérdésre több alkalommal is sor kerülhet. A hiánypótlásra és a tisztázó kérdésre vonatkozó határidőket az irányító hatóság a körülmények mérlegelése alapján állapítja meg.
+290. § (1)[^496] A záró kifizetési kérelem vonatkozásában az 55. alcímet azzal az eltéréssel kell alkalmazni, hogy az irányító hatóság a 318. § (1) bekezdés c) pontja szerinti határidő figyelembevételével dönt, azzal, hogy hiánypótlásra, tisztázó kérdésre több alkalommal is sor kerülhet. A hiánypótlásra és a tisztázó kérdésre vonatkozó határidőket az irányító hatóság a körülmények mérlegelése alapján állapítja meg.
 
-(2)[^491] A záró kifizetési kérelem elfogadásának feltétele a kedvezményezett záró beszámolójának elfogadása.
+(2)[^497] A záró kifizetési kérelem elfogadásának feltétele a kedvezményezett záró beszámolójának elfogadása.
 
-[^490]: A 290. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 22. §-ával megállapított, a 484/2025. (XII. 31.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^491]: A 290. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^496]: A 290. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 22. §-ával megállapított, a 484/2025. (XII. 31.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^497]: A 290. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 19. pontja szerint módosított szöveg.

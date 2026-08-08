@@ -1,4 +1,4 @@
-## 53.[^388] Az európai uniós támogatásból finanszírozott minősített beszerzés vagy alapvető biztonsági érdeket érintő beszerzés jóváhagyási eljárást megelőző vizsgálata
+## 53.[^394] Az európai uniós támogatásból finanszírozott minősített beszerzés vagy alapvető biztonsági érdeket érintő beszerzés jóváhagyási eljárást megelőző vizsgálata
 
 212. § Ezen alcím alkalmazásában
 
@@ -6,4 +6,4 @@ a) alapvető biztonsági érdeket érintő beszerzés: az alapvető biztonsági 
 
 b) minősített beszerzés: a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti beszerzés.
 
-[^388]: Az 53. alcím címe a 105/2026. (VII. 1.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^394]: Az 53. alcím címe a 105/2026. (VII. 1.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-256-20-
 | 2026-01-08 | 2021-256-20-22.39 | 484/2025. (XII. 31.) Korm. rendelet |
 | 2026-06-19 | 2021-256-20-22.40 | 94/2026. (VI. 18.) Korm. rendelet |
 | 2026-07-02 | 2021-256-20-22.41 | 105/2026. (VII. 1.) Korm. rendelet |
+| 2026-08-08 | 2021-256-20-22.42 | 121/2026. (VIII. 7.) Korm. rendelet |

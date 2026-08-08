@@ -70,7 +70,7 @@ a)[^53] együttműködik az NFK-val a csalás kockázatelemzése módszertanána
 
 b) elvégzi a csalás kockázatelemzését,
 
-c)[^54] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE+ kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
+c)[^54] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában – ideértve a támogatást igénylő előzetes ellenőrzését –, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE+ kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, köteles a döntéshozatala során figyelembe venni, és következetesen nyomon követni az ARACHNE+ kockázatértékelő eszköz által jelzett kockázatokat, továbbá ilyen kockázat esetén további ellenőrzéseket végezni,
 
 d)[^55] eljár az NFK által a csalás elleni politika keretében meghatározott eljárások, módszertanok szerint,
 
@@ -108,7 +108,7 @@ b)[^59] az a) pont szerinti vizsgálat eredményéről tájékoztatja az NFK-t.
 [^51]: A 19. § (1) bekezdés 27. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 23. pontja szerint módosított szöveg.
 [^52]: A 19. § (1) bekezdés 31. pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
 [^53]: A 19. § (2) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^54]: A 19. § (2) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 16. §-ával megállapított, a 94/2026. (VI. 18.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^54]: A 19. § (2) bekezdés c) pontja a 121/2026. (VIII. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^55]: A 19. § (2) bekezdés d) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 25. pontja szerint módosított szöveg.
 [^56]: A 19. § (2) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 26. pontja szerint módosított szöveg.
 [^57]: A 19. § (3) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 8. §-ával megállapított szöveg.

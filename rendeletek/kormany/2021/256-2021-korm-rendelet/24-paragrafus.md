@@ -10,7 +10,7 @@ c) kialakítja az Európai Bizottság és az Európai Számvevőszék által az 
 
 d)[^64] véleményezi a 13. § c) pontja szerinti módszertant,
 
-e)[^65] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt,
+e)[^65] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt, valamint az ellenőrzési feladatai során figyelembe veszi az ARACHNE+ kockázatértékelő eszköz által generált kockázati értékeket,
 
 f)[^66] ellenőrzi az ARACHNE+ kockázatértékelő eszköz használatát, valamint az annak részére történő, 13. § h) pontja szerinti adatküldést.
 
@@ -19,6 +19,6 @@ f)[^66] ellenőrzi az ARACHNE+ kockázatértékelő eszköz használatát, valam
 [^62]: A 24. § (1) bekezdés nyitó szövegrésze a 615/2022. (XII. 29.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
 [^63]: A 24. § (1) bekezdés a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 9. pontja szerint módosított szöveg.
 [^64]: A 24. § (1) bekezdés d) pontját a 374/2022. (IX. 30.) Korm. rendelet 17. §-a iktatta be.
-[^65]: A 24. § (1) bekezdés e) pontját a 374/2022. (IX. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^65]: A 24. § (1) bekezdés e) pontját a 374/2022. (IX. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 121/2026. (VIII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^66]: A 24. § (1) bekezdés f) pontját a 374/2022. (IX. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
 [^67]: A 24. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 17. § (1) bekezdése hatályon kívül helyezte.

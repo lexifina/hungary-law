@@ -1,4 +1,4 @@
-## 48/C.[^275] Az uniós értékhatárokat el nem érő becsült értékű, valamint az építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő becsült értékű közbeszerzési eljárások útján megkötött szállítói szerződések ellenőrzése
+## 48/C.[^281] Az uniós értékhatárokat el nem érő becsült értékű, valamint az építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő becsült értékű közbeszerzési eljárások útján megkötött szállítói szerződések ellenőrzése
 
 181/G. § (1) A kedvezményezett a közbeszerzési eljárás eredményeként megkötött szállítói szerződést – annak megkötését követő két munkanapon belül – megküldi az NFK részére.
 
@@ -10,4 +10,4 @@
 
 (5) A (3) bekezdéstől eltérően az NFK az ellenőrzés eredményéről szóló nyilatkozatát a 181/C. § szerinti utóellenőrzési jelentésbe – vagy a (4) bekezdés szerinti esetben az irányító hatóság a 180. § szerinti utóellenőrzési jelentésbe – foglaltan is megküldheti a kedvezményezett részére, ha az a jelentés és a nyilatkozat megküldésére vonatkozó határidőkön belül lehetséges.
 
-[^275]: A 48/C. alcímet (181/G. §-t) a 202/2025. (VII. 16.) Korm. rendelet 16. §-a iktatta be.
+[^281]: A 48/C. alcímet (181/G. §-t) a 202/2025. (VII. 16.) Korm. rendelet 16. §-a iktatta be.

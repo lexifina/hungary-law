@@ -1,14 +1,14 @@
-279. § (1)[^478] Az irányító hatóság a kifizetési kérelem és az alátámasztó dokumentumok ellenőrzésére vonatkozóan a monitoring és információs rendszer útján kockázatelemzést végez.
+279. § (1)[^484] Az irányító hatóság a kifizetési kérelem és az alátámasztó dokumentumok ellenőrzésére vonatkozóan a monitoring és információs rendszer útján kockázatelemzést végez.
 
-(2)[^479] Az irányító hatóság a kockázatelemzés módszertanát az NFK iránymutatásának figyelembevételével a bevezetés előtt határozza meg. A kockázatelemzési módszertan kiterjed a kockázatelemzés szempontrendszerére és a kockázati szintek meghatározására.
+(2)[^485] Az irányító hatóság a kockázatelemzés módszertanát az NFK iránymutatásának figyelembevételével a bevezetés előtt határozza meg. A kockázatelemzési módszertan kiterjed a kockázatelemzés szempontrendszerére és a kockázati szintek meghatározására.
 
-(3)[^480] Az irányító hatóság felhívásonként gondoskodik a kockázatelemzési szempontrendszer monitoring és információs rendszerben történő kialakításáról.
+(3)[^486] Az irányító hatóság felhívásonként gondoskodik a kockázatelemzési szempontrendszer monitoring és információs rendszerben történő kialakításáról.
 
 (4) Az irányító hatóság a kockázatelemzési módszertant indokolt esetben vizsgálhatja felül. Az irányító hatóság a kockázatelemzés szempontrendszerét indokolt esetben módosíthatja.
 
-(5)[^481]
+(5)[^487]
 
-[^478]: A 279. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 20. pontja szerint módosított szöveg.
-[^479]: A 279. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 170. pontja szerint módosított szöveg.
-[^480]: A 279. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^481]: A 279. § (5) bekezdését az 562/2021. (X. 1.) Korm. rendelet 37. § d) pontja hatályon kívül helyezte.
+[^484]: A 279. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 20. pontja szerint módosított szöveg.
+[^485]: A 279. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 170. pontja szerint módosított szöveg.
+[^486]: A 279. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^487]: A 279. § (5) bekezdését az 562/2021. (X. 1.) Korm. rendelet 37. § d) pontja hatályon kívül helyezte.

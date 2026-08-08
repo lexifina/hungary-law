@@ -10,7 +10,7 @@ c) – kiemelt kiválasztási eljárásrenddel érintett felhívás kivételéve
 
 d) a támogatási kérelem benyújtására legalább harminc nap álljon rendelkezésre,
 
-e)[^172] a támogatási kérelem benyújtása során a nyilatkozatot a felhívásban meghatározott módon kell hitelesíteni.
+e)[^177] a támogatási kérelem benyújtása során a nyilatkozatot a felhívásban meghatározott módon kell hitelesíteni.
 
 (3) A felhívás elkészítése során figyelemmel kell lenni továbbá arra, hogy a támogatási kérelemben
 
@@ -24,9 +24,9 @@ bb) legalább egy, legfeljebb hat mérföldkövet kell tervezni, ha a projekt me
 
 c) kiemelt kiválasztási eljárásrend esetén legalább két, legfeljebb hat mérföldkövet kell tervezni,
 
-d)[^173]
+d)[^178]
 
-(3a)[^174] Ha a projekt megvalósításának időtartama eléri
+(3a)[^179] Ha a projekt megvalósításának időtartama eléri
 
 a) az öt évet, vagy
 
@@ -36,6 +36,6 @@ akkor a támogatási kérelemben – a (3) bekezdés a)–c) pontjától eltér�
 
 (4) Az irányító hatóság a felhívásban értékelési szakaszokat, az értékelési szakaszok között szünetet határozhat meg.
 
-[^172]: A 87. § (2) bekezdés e) pontja a 37/2025. (III. 11.) Korm. rendelet 11. §-ával megállapított, a 384/2025. (XII. 8.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^173]: A 87. § (3) bekezdés d) pontját a 156/2022. (IV. 19.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
-[^174]: A 87. § (3a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 21. §-a iktatta be, szövege a 48/2024. (III. 4.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^177]: A 87. § (2) bekezdés e) pontja a 37/2025. (III. 11.) Korm. rendelet 11. §-ával megállapított, a 384/2025. (XII. 8.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^178]: A 87. § (3) bekezdés d) pontját a 156/2022. (IV. 19.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
+[^179]: A 87. § (3a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 21. §-a iktatta be, szövege a 48/2024. (III. 4.) Korm. rendelet 5. §-ával megállapított szöveg.
