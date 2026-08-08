@@ -30,9 +30,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztés
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP Plusz-1.1.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése Budapesten és agglomerációs településein | 536,91[^5] | kiemelt | Meghirdetve: 2023. december 1. |
+| 2. | IKOP Plusz-1.1.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése Budapesten és agglomerációs településein | 1 110,58 | kiemelt | Meghirdetve: 2023. december 1. |
 
-| 3. | IKOP Plusz-1.2.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése a fővároson és a budapesti agglomeráción kívüli településeken | 275,08 | kiemelt | Meghirdetve: 2023. december 1. |
+| 3. | IKOP Plusz-1.2.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése a fővároson és a budapesti agglomeráción kívüli településeken | 278,81 | kiemelt | Meghirdetve: 2023. december 1. |
 
 2. TEN-T vasúti és regionális intermodális közlekedés fejlesztéséről szóló 2. prioritás
 
@@ -40,9 +40,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztés
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP Plusz-2.1.0-23 | TEN-T vasúti és regionális intermodális közlekedés fejlesztése a 4 legszegényebb magyarországi régión kívüli területeken | 434,60 | kiemelt | Meghirdetve: 2023. november 17. |
+| 2. | IKOP Plusz-2.1.0-23 | TEN-T vasúti és regionális intermodális közlekedés fejlesztése a 4 legszegényebb magyarországi régión kívüli területeken | 658,10 | kiemelt | Meghirdetve: 2023. november 17. |
 
-| 3. | IKOP Plusz-2.2.0-23 | TEN-T vasúti és regionális intermodális közlekedés fejlesztése a 4 legszegényebb magyarországi régió területein | 252,92 | kiemelt | Meghirdetve: 2023. november 17. |
+| 3. | IKOP Plusz-2.2.0-23 | TEN-T vasúti és regionális intermodális közlekedés fejlesztése a 4 legszegényebb magyarországi régió területein | 509,56 | kiemelt | Meghirdetve: 2023. november 17. |
 
 3. Fenntarthatóbb és biztonságosabb közúti mobilitásról szóló 3. prioritás
 
@@ -50,10 +50,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztés
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP Plusz-3.2.0-25 | Budapest közigazgatási határain kívüli EuroVelo 6 és EuroVelo 14 kerékpáros útvonalak fejlesztése | 23,5 | kiemelt | 2025. III. negyedév |
+| 2. | IKOP Plusz-3.2.0-25 | Budapest közigazgatási határain kívüli EuroVelo 6 és EuroVelo 14 kerékpáros útvonalak fejlesztése | 27,9 | kiemelt | Meghirdetve: 2025. június 30. |
 
 [^1]: Az 1. pont b) alpont ba) pontját az 1018/2025. (II. 7.) Korm. határozat 4. pontja hatályon kívül helyezte.
 [^2]: Az 1. pont b) pont bb) alpontját az 1125/2025. (IV. 22.) Korm. határozat 4. pontja hatályon kívül helyezte.
 [^3]: Az 1. pont c) alpontja az 1125/2025. (IV. 22.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet az 1125/2025. (IV. 22.) Korm. határozat 2. pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1168/2025. (V. 26.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet az 1253/2026. (VIII. 7.) Korm. határozat 1. pont a) pont aa) alpontjával megállapított szöveg.
