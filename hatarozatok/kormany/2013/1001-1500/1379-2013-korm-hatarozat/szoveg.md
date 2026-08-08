@@ -58,7 +58,7 @@ m)[^9] az Országos Vízügyi Főigazgatóság 1 fő delegáltja.
 
 6.[^11] A Tanács az Elnök kérésére véleményezi a nyilvántartott halgazdálkodási vízterület Magyar Államot megillető halgazdálkodási jogának haszonbérbe adására vonatkozó pályázat elbírálásánál a beérkezett pályázatokat, majd a pályázatok elbírálásánál javaslatot tesz a nyertes pályázóra.
 
-6a.[^12] A Tanács tagjai a 6. pontban foglalt feladat, a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítására irányuló, valamint a miniszter által adható halfogási engedélyekhez kapcsolódó bírálati, döntés-előkészítő tevékenység ellátásáért – ha azt jogszabály vagy közjogi szervezetszabályozó eszköz nem zárja ki – időszakos jelleggel, a nagy mennyiségben benyújtott pályázat, illetve engedélykérelem esetén díjazásban részesülhetnek.
+6a.[^12] A Tanács tagjai díjazásban nem részesülnek.
 
 7. A Tanács ülésén tanácskozási joggal részt vehet az, akit az elnök az ülésre meghív.
 
@@ -97,4 +97,4 @@ c) a delegálásra jogosult szervezet új tagot delegál.
 [^9]: A 4. pont m) alpontját az 1278/2016. (VI. 7.) Korm. határozat 1. pontja iktatta be.
 [^10]: Az 5. pont az 1966/2015. (XII. 23.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
 [^11]: A 6. pont az 1966/2015. (XII. 23.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
-[^12]: A 6a. pontot az 1966/2015. (XII. 23.) Korm. határozat 2. pontja iktatta be.
+[^12]: A 6a. pontot az 1966/2015. (XII. 23.) Korm. határozat 2. pontja iktatta be, szövege az 1252/2026. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
