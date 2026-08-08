@@ -1,18 +1,18 @@
-115/A. §[^814] (1)[^815] Ha az előlegigénylés hiányos vagy hibás, a beérkezéstől számított hét napon belül, legfeljebb tizenöt napos határidő tűzésével, az adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével hiánypótlásra kell felhívni a kedvezményezettet a 37. §-ban foglaltak figyelembevételével. Az e bekezdés szerinti határidők a 115. § (2a) bekezdése szerinti esetben nem alkalmazandók.
+115/A. §[^817] (1)[^818] Ha az előlegigénylés hiányos vagy hibás, a beérkezéstől számított hét napon belül, legfeljebb tizenöt napos határidő tűzésével, az adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével hiánypótlásra kell felhívni a kedvezményezettet a 37. §-ban foglaltak figyelembevételével. Az e bekezdés szerinti határidők a 115. § (2a) bekezdése szerinti esetben nem alkalmazandók.
 
 (2) Hiánypótlásra legfeljebb egy alkalommal kerülhet sor.
 
-(3)[^816]
+(3)[^819]
 
-(4)[^817] A hiánypótlásra rendelkezésre álló időtartam a jogszabályban előírt kifizetési határidőt felfüggeszti.
+(4)[^820] A hiánypótlásra rendelkezésre álló időtartam a jogszabályban előírt kifizetési határidőt felfüggeszti.
 
-(5)[^818] Ha a kedvezményezett a hiánypótlást hibásan vagy hiányosan nyújtja be, vagy az előírt határidőt elmulasztja, az előlegigénylést a rendelkezésre álló információk alapján kell elbírálni.
+(5)[^821] Ha a kedvezményezett a hiánypótlást hibásan vagy hiányosan nyújtja be, vagy az előírt határidőt elmulasztja, az előlegigénylést a rendelkezésre álló információk alapján kell elbírálni.
 
-(6)[^819] Ha az előlegigénylési kérelem ellenőrzése során nem merült fel olyan ok, amely miatt a támogatás kifizetését fel kellene függeszteni, a 115. § (2a) bekezdésében meghatározott kivétellel az irányító hatóság a támogatást az előlegigénylés beérkezésétől számított tizenöt napon belül kifizeti. A kifizetésre rendelkezésre álló határidő felfüggesztésére a 133. § (2) bekezdését, és a 134. §-t kell alkalmazni.
+(6)[^822] Ha az előlegigénylési kérelem ellenőrzése során nem merült fel olyan ok, amely miatt a támogatás kifizetését fel kellene függeszteni, a 115. § (2a) bekezdésében meghatározott kivétellel az irányító hatóság a támogatást az előlegigénylés beérkezésétől számított tizenöt napon belül kifizeti. A kifizetésre rendelkezésre álló határidő felfüggesztésére a 133. § (2) bekezdését, és a 134. §-t kell alkalmazni.
 
-[^814]: A 115/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 66. §-a iktatta be.
-[^815]: A 115/A. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^816]: A 115/A. § (3) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 16. pontja hatályon kívül helyezte.
-[^817]: A 115/A. § (4) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^818]: A 115/A. § (5) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^819]: A 115/A. § (6) bekezdése a 42/2016. (III. 9.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^817]: A 115/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 66. §-a iktatta be.
+[^818]: A 115/A. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^819]: A 115/A. § (3) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 16. pontja hatályon kívül helyezte.
+[^820]: A 115/A. § (4) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^821]: A 115/A. § (5) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^822]: A 115/A. § (6) bekezdése a 42/2016. (III. 9.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-89/D. §[^634] (1) Az irányító hatóság az áttéréshez szükséges
+89/D. §[^637] (1) Az irányító hatóság az áttéréshez szükséges
 
 a) felhívást technikailag újranyitja, vagy
 
@@ -10,4 +10,4 @@ b) új technikai felhívást hirdet meg.
 
 (4) A 89/C. § (1) bekezdése szerinti szerződésmódosítás során e rendelet szerződésmódosításra vonatkozó rendelkezéseit kell alkalmazni.
 
-[^634]: A 89/D. §-t a 463/2022. (XI. 15.) Korm. rendelet 2. §-a iktatta be.
+[^637]: A 89/D. §-t a 463/2022. (XI. 15.) Korm. rendelet 2. §-a iktatta be.

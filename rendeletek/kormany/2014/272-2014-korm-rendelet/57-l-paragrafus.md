@@ -1,16 +1,16 @@
-57/L. §[^440] (1)[^441] Ha a támogatást igénylő, illetve a kedvezményezett helyett és nevében az egyes eljárási cselekmények elektronikus ügyintézése során az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású ügyfélként szereplő kamarai meghatalmazott jár el, a kamarai meghatalmazott a saját ügyfélkapuját használja az eljárási cselekmények elektronikus elvégzéséhez.
+57/L. §[^443] (1)[^444] Ha a támogatást igénylő, illetve a kedvezményezett helyett és nevében az egyes eljárási cselekmények elektronikus ügyintézése során az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású ügyfélként szereplő kamarai meghatalmazott jár el, a kamarai meghatalmazott a saját ügyfélkapuját használja az eljárási cselekmények elektronikus elvégzéséhez.
 
-(2)[^442]
+(2)[^445]
 
-(3)[^443]
+(3)[^446]
 
-(4)[^444]
+(4)[^447]
 
-(5)[^445]
+(5)[^448]
 
-[^440]: Az 57/L. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^441]: Az 57/L. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^442]: Az 57/L. § (2) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^443]: Az 57/L. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 6. pontja hatályon kívül helyezte.
-[^444]: Az 57/L. § (4) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^445]: Az 57/L. § (5) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^443]: Az 57/L. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^444]: Az 57/L. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^445]: Az 57/L. § (2) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^446]: Az 57/L. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 6. pontja hatályon kívül helyezte.
+[^447]: Az 57/L. § (4) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^448]: Az 57/L. § (5) bekezdését a 601/2022. (XII. 28.) Korm. rendelet 26. § (2) bekezdés a) pontja hatályon kívül helyezte.

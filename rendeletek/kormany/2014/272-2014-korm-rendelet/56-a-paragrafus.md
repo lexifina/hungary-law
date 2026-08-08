@@ -1,8 +1,8 @@
-56/A. §[^402] (1)[^403] Az 56. § (3) bekezdése szerinti esetben a támogatási szerződés megkötésével egyidejűleg az irányító hatóság projektfejlesztést kezdeményezhet a támogatást igénylővel. A projektfejlesztés célja a felhívásban meghatározott feltételeknek megfelelő projektdokumentáció ütemezett kidolgozásának elősegítése.
+56/A. §[^405] (1)[^406] Az 56. § (3) bekezdése szerinti esetben a támogatási szerződés megkötésével egyidejűleg az irányító hatóság projektfejlesztést kezdeményezhet a támogatást igénylővel. A projektfejlesztés célja a felhívásban meghatározott feltételeknek megfelelő projektdokumentáció ütemezett kidolgozásának elősegítése.
 
 (2) Az (1) bekezdés szerinti szerződés a XV. Fejezetben foglaltakon túl tartalmazza legalább:
 
-a)[^404] a támogatást igénylő jogait és kötelezettségeit a projektfejlesztés során,
+a)[^407] a támogatást igénylő jogait és kötelezettségeit a projektfejlesztés során,
 
 b) a közfeladatot érintő fejlesztés előkészítésének ütemezését, az előkészítés főbb mérföldköveit,
 
@@ -16,9 +16,9 @@ f) a projektmegvalósítás finanszírozásához szükséges szerződésmódosí
 
 g) az irányító hatóság által meghatározott egyéb feltételeket.
 
-(3)[^405] Ha a kedvezményezett a (2) bekezdés b) és c) pontja szerinti határidőket elmulasztja, az irányító hatóság a támogatási szerződéstől elállhat.
+(3)[^408] Ha a kedvezményezett a (2) bekezdés b) és c) pontja szerinti határidőket elmulasztja, az irányító hatóság a támogatási szerződéstől elállhat.
 
-[^402]: Az 56/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
-[^403]: Az 56/A. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^404]: Az 56/A. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^405]: Az 56/A. § (3) bekezdése a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^405]: Az 56/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
+[^406]: Az 56/A. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^407]: Az 56/A. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^408]: Az 56/A. § (3) bekezdése a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 10. pontja szerint módosított szöveg.

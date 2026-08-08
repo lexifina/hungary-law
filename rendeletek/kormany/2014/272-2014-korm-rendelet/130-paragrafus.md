@@ -2,7 +2,7 @@
 
 (2) Az engedményes részére történő folyósítás teljesítésének feltétele, hogy az engedményezésre vonatkozó szerződés vagy engedményezési értesítő az irányító hatóság rendelkezésére álljon. Az engedményezésre vonatkozó szerződés irányító hatóság részére történő benyújtásáért a kedvezményezett felelős.
 
-(2a)[^927] A benyújtott engedményezési szerződésnek vagy engedményezési értesítőnek, a zálogszerződésnek (ide értve az óvadékot alapító szerződést is) vagy a teljesítési utasításnak tartalmaznia kell
+(2a)[^930] A benyújtott engedményezési szerződésnek vagy engedményezési értesítőnek, a zálogszerződésnek (ide értve az óvadékot alapító szerződést is) vagy a teljesítési utasításnak tartalmaznia kell
 
 a) a szerződő felek megnevezését és azonosító adatait,
 
@@ -22,13 +22,13 @@ fb) a támogatási összeg műszaki és pénzügyi teljesítés esetén is csak 
 
 fc) a támogatási szerződésben meghatározott támogatási összeg a támogatási jogviszony fennállása alatt csökkenhet, ez esetben a támogató csak a csökkentett összeget utalja részére,
 
-fd)[^928] előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást – a 129. § (1d) bekezdésében meghatározott kivétellel – a támogató nem utal részére.
+fd)[^931] előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást – a 129. § (1d) bekezdésében meghatározott kivétellel – a támogató nem utal részére.
 
-(2b)[^929] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
+(2b)[^932] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
 
-(3)[^930] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
+(3)[^933] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
 
-[^927]: A 130. § (2a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^928]: A 130. § (2a) bekezdés f) pont fd) alpontja a 12/2017. (I. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^929]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^930]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^930]: A 130. § (2a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
+[^931]: A 130. § (2a) bekezdés f) pont fd) alpontja a 12/2017. (I. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^932]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
+[^933]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.

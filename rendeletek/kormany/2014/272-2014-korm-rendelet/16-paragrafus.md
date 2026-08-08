@@ -28,12 +28,12 @@ l) gondoskodik az Európai Bizottság által az audit hatósági tevékenység h
 
 m)[^131] véleményezi a 10. § (2) bekezdés 3. pontja szerinti módszertant,
 
-n)[^132] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt,
+n)[^132] alkalmazza és figyelembe veszi az ARACHNE+ kockázatértékelő eszközt, valamint az ellenőrzési feladatai során figyelembe veszi az ARACHNE+ kockázatértékelő eszköz által generált kockázati értékeket,
 
 o)[^133] ellenőrzi az ARACHNE+ kockázatértékelő eszköz használatát, valamint az annak részére történő, 10. § (2) bekezdés 9. pontja szerinti adatküldést.
 
 [^129]: A 16. § nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 26. pontja, a 615/2022. (XII. 29.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^130]: A 16. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 27. pontja szerint módosított szöveg.
 [^131]: A 16. § m) pontját a 374/2022. (IX. 30.) Korm. rendelet 3. §-a iktatta be.
-[^132]: A 16. § n) pontját a 374/2022. (IX. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^132]: A 16. § n) pontját a 374/2022. (IX. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 121/2026. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^133]: A 16. § o) pontját a 374/2022. (IX. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.

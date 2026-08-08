@@ -1,6 +1,6 @@
-## 31. [^589] A támogatási szerződés, pénzügyi eszközök esetén a végső kedvezményezettel kötött szerződés módosítása
+## 31. [^592] A támogatási szerződés, pénzügyi eszközök esetén a végső kedvezményezettel kötött szerződés módosítása
 
-86. § (1)[^590] A kedvezményezett köteles bejelenteni az irányító hatóság részére
+86. § (1)[^593] A kedvezményezett köteles bejelenteni az irányító hatóság részére
 
 a) a projekt műszaki, szakmai tartalmát, költségvetését vagy az egyéb, jogosultsági szempontot vagy támogathatósági feltételt érintő változást a tudomására jutástól számított nyolc napon belül,
 
@@ -8,27 +8,27 @@ b) az a) pontba nem tartozó adat változását legkésőbb a következő beszá
 
 (2) A változás kezelését szolgáló intézkedést – ideértve a támogatási szerződés módosításának kezdeményezését is – az irányító hatóság bejelentés nélkül is megkezdheti, ha olyan változást észlel a projektben, amely ezt indokolja.
 
-(3)[^591] A bejelentést vagy észlelést követően az irányító hatóság harminc napon belül megteszi az általa nyilvántartott adatok megváltoztatására, a támogatási szerződés módosítására vagy a módosítás elutasítására, az e rendeletben vagy a támogatási szerződésben meghatározott esetben az attól történő elállásra, vagy pénzügyi eszköz esetén a végső kedvezményezettel kötött szerződés felmondására, a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy más szükséges eljárás lefolytatására irányuló intézkedést. Az intézkedést az irányító hatóság a bejelentés tartalmának, körülményeinek mérlegelésével, a projekt eredményes végrehajtásának szempontjaira tekintettel a 87. § alapján választja meg.
+(3)[^594] A bejelentést vagy észlelést követően az irányító hatóság harminc napon belül megteszi az általa nyilvántartott adatok megváltoztatására, a támogatási szerződés módosítására vagy a módosítás elutasítására, az e rendeletben vagy a támogatási szerződésben meghatározott esetben az attól történő elállásra, vagy pénzügyi eszköz esetén a végső kedvezményezettel kötött szerződés felmondására, a jogosulatlanul igénybe vett támogatás visszakövetelésére vagy más szükséges eljárás lefolytatására irányuló intézkedést. Az intézkedést az irányító hatóság a bejelentés tartalmának, körülményeinek mérlegelésével, a projekt eredményes végrehajtásának szempontjaira tekintettel a 87. § alapján választja meg.
 
 (4) Az (1) bekezdés szerinti bejelentési kötelezettség fennállása mellett nem kell a támogatási szerződést módosítani, ha
 
-a)[^592] a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időponthoz képest előreláthatóan három hónapot meg nem haladóan késik,
+a)[^595] a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időponthoz képest előreláthatóan három hónapot meg nem haladóan késik,
 
-b)[^593] a kedvezményezett által vállalt projekt szintű mérföldkövek elérése késik a hatályos támogatási szerződésben rögzített időponthoz képest, de ez – 3 hónapot meg nem haladóan – nem érinti a projekt fizikai befejezésére vállalt határidőt,
+b)[^596] a kedvezményezett által vállalt projekt szintű mérföldkövek elérése késik a hatályos támogatási szerződésben rögzített időponthoz képest, de ez – 3 hónapot meg nem haladóan – nem érinti a projekt fizikai befejezésére vállalt határidőt,
 
 c) a műszaki, szakmai tartalom oly módon változik, amely során a kedvezményezett által a támogatási szerződésben vállalt tulajdonsághoz vagy képességhez mérten a projekt eredményessége szempontjából kedvezőbb vagy azonos értékű műszaki, szakmai megoldás fog megvalósulni,
 
-d)[^594] a projekttartalom olyan jellegű módosítása esetén, amely a projekt műszaki-szakmai tartalmát, a támogathatóság feltételeit nem érinti, és nem jelent kockázatot a projekt eredményességére,
+d)[^597] a projekttartalom olyan jellegű módosítása esetén, amely a projekt műszaki-szakmai tartalmát, a támogathatóság feltételeit nem érinti, és nem jelent kockázatot a projekt eredményességére,
 
-e)[^595] a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időpontot megelőzően történik meg.
+e)[^598] a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időpontot megelőzően történik meg.
 
-(5)[^596] A (4) bekezdés b)–d) pontját a pénzügyi eszközökre nem kell alkalmazni.
+(5)[^599] A (4) bekezdés b)–d) pontját a pénzügyi eszközökre nem kell alkalmazni.
 
-[^589]: A 31. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^590]: A 86. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^591]: A 86. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 96. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 30. pontja szerint módosított szöveg.
-[^592]: A 86. § (4) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 97. pontja szerint módosított szöveg.
-[^593]: A 86. § (4) bekezdés b) pontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 82. pontja szerint módosított szöveg.
-[^594]: A 86. § (4) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 98. pontja szerint módosított szöveg.
-[^595]: A 86. § (4) bekezdés e) pontját a 247/2016. (VIII. 17.) Korm. rendelet 13. §-a iktatta be.
-[^596]: A 86. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 51. §-a iktatta be.
+[^592]: A 31. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^593]: A 86. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^594]: A 86. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 96. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 30. pontja szerint módosított szöveg.
+[^595]: A 86. § (4) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 97. pontja szerint módosított szöveg.
+[^596]: A 86. § (4) bekezdés b) pontja a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 82. pontja szerint módosított szöveg.
+[^597]: A 86. § (4) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 98. pontja szerint módosított szöveg.
+[^598]: A 86. § (4) bekezdés e) pontját a 247/2016. (VIII. 17.) Korm. rendelet 13. §-a iktatta be.
+[^599]: A 86. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 51. §-a iktatta be.

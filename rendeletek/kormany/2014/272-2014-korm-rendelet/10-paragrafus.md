@@ -38,7 +38,7 @@
 
 2. az irányító hatóságok együttműködésével kidolgozza a csalás elleni politika hatékony megvalósításához szükséges eljárást és módszertant,
 
-3.[^105] ellátja a központi koordinációt az ARACHNE+ kockázatértékelő eszköz eredményes alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE+ kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+3.[^105] ellátja a központi koordinációt az ARACHNE+ kockázatértékelő eszköz eredményes alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE+ kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant, valamint az adatok gyűjtésére, tárolására, teljes körű és időben történő megküldésére vonatkozó, valamennyi, az 1. § (1) bekezdése szerinti alapból támogatott program végrehajtásában és ellenőrzésében részt vevő intézmény által alkalmazandó eljárásrendet,
 
 4. ellátja a központi koordinációt az európai uniós támogatásokkal kapcsolatos büntetőfeljelentések és folyamatban lévő büntetőügyek tekintetében, ennek keretében gondoskodik ezen ügyek nyilvántartásba vételéről, továbbá a beérkező bűnügyi megkeresések megválaszolásáról,
 
@@ -50,9 +50,9 @@
 
 8. együttműködik a csalások hatékony és eredményes megelőzése, felderítése, szankcionálása, valamint a csalástól való elrettentés érdekében az érintett intézményekkel.
 
-9.[^107] gondoskodik a 7. melléklet szerinti adatoknak az ARACHNE+ kockázatértékelő eszköz részére kéthavonta történő megküldéséről,
+9.[^107] megküldi valamennyi, az 1. § (1) bekezdése szerinti alapból támogatott program végrehajtásában és ellenőrzésében részt vevő intézmény vonatkozásában, a 3. pontban meghatározott eljárásrend szerint, kéthavonta haladéktalanul a 7. melléklet szerinti valamennyi adatot az ARACHNE+ kockázatértékelő eszköz részére,
 
-10.[^108] biztosítja az ARACHNE+ kockázatértékelő eszközhöz való hozzáférést a fejlesztéspolitikai intézményrendszer 16. § n) pontja és 20. § 22. pont e) alpontja szerinti feladatot ellátó munkatársai részére.
+10.[^108] biztosítja az ARACHNE+ kockázatértékelő eszköz funkcióihoz és a rendszerben tárolt adatokhoz való teljes körű hozzáférést a fejlesztéspolitikai intézményrendszer 16. § n) pontja és 20. § 22. pont e) alpontja szerinti feladatot ellátó munkatársai, valamennyi hazai ellenőrzésért felelős szerv, valamint az Európai Bizottság ellenőrzésért felelős szolgálatai részére a kockázatértékeléseik elvégzése céljából.
 
 [^99]: A 10. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 5. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 12. pontja szerint módosított szöveg.
 [^100]: A 10. § (1) bekezdés 4. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 20. pontja szerint módosított szöveg.
@@ -60,7 +60,7 @@
 [^102]: A 10. § (1) bekezdés 6a. pontját a 347/2015. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
 [^103]: A 10. § (1) bekezdés 11. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 22. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^104]: A 10. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 23. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 6. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 13. pontja szerint módosított szöveg.
-[^105]: A 10. § (2) bekezdés 3. pontja a 374/2022. (IX. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 463/2022. (XI. 15.) Korm. rendelet 5. § (1) bekezdés b) pontja, a 94/2026. (VI. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^105]: A 10. § (2) bekezdés 3. pontja a 121/2026. (VIII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^106]: A 10. § (2) bekezdés 6. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 3. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^107]: A 10. § (2) bekezdés 9. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^108]: A 10. § (2) bekezdés 10. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 94/2026. (VI. 18.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^107]: A 10. § (2) bekezdés 9. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 121/2026. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^108]: A 10. § (2) bekezdés 10. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 121/2026. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

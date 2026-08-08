@@ -1,3 +1,3 @@
-## 16/A. [^229] A tanúsító szerv
+## 16/A. [^230] A tanúsító szerv
 
-[^229]: A 16/A. alcímet (28/B. §) a 347/2015. (XI. 20.) Korm. rendelet 12. §-a iktatta be, szövege a 24/2017. (II. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^230]: A 16/A. alcímet (28/B. §) a 347/2015. (XI. 20.) Korm. rendelet 12. §-a iktatta be, szövege a 24/2017. (II. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
