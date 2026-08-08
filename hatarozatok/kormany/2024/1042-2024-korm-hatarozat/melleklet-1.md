@@ -6,297 +6,187 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1042/2024. (III. 4.) Korm. határozathoz
+1. melléklet az 1042/2024. (III. 4.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F |
 
 | 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Támogatási kérelem benyújtásának várható időpontja | Szakmai elvárások |
 
-| 2. | IKOP Plusz-1.1.0-23 | Rákospalota–Újpest–Vácrátót–Vác vasútvonal elővárosi célú fejlesztéseinek előkészítése – szakaszolt projekt | Építési és Közlekedési Minisztérium (a továbbiakban: ÉKM) | 2,4[^2] | 2024[^3] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 2. | IKOP Plusz-1.1.0-23 | Rákospalota-Újpest–Vácrátót–Vác vasúti szakasz elővárosi célú fejlesztéseinek előkészítése – szakaszolt projekt | Közlekedési és Beruházási Minisztérium (a továbbiakban: KBM) | 2,4 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 3. | IKOP Plusz-1.1.0-23 | Kőbánya-Kispest–Lajosmizse vasútvonal elővárosi célú fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 3,4[^4] | 2024[^5] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 3. | IKOP Plusz-1.1.0-23 | Kőbánya-Kispest–Lajosmizse vasútvonal elővárosi célú fejlesztésének előkészítése – szakaszolt projekt | KBM | 3,4 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 4. | IKOP Plusz-1.1.0-23 | Gödöllői HÉV (H8) és Csömöri HÉV (H9) vonalszakaszok korszerűsítése és az Örs vezér terén az M2 metróvonallal történő összekötése, valamint metró és elővárosi vasúti üzemre képes járművek beszerzése előkészítése – szakaszolt projekt | ÉKM, MÁV Személyszállítási Zrt.[^6] | 10,19[^7] | 2024[^8] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 4. | IKOP Plusz-1.1.0-23 | Gödöllői HÉV (H8) és Csömöri HÉV (H9) vonalszakaszok korszerűsítése és az Örs vezér terén az M2 metróvonallal történő összekötése, valamint metró és elővárosi vasúti üzemre képes járművek beszerzése előkészítése – szakaszolt projekt | KBM, MÁV Személyszállítási Zrt., MÁV Pályaműködtetési Zrt. | 10,19 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 5. | IKOP Plusz-1.1.0-23 | H5–H6/H7 vonalak összekötése – az észak–déli városi-elővárosi gyorsvasút fejlesztésének előkészítése szakaszolt projekt | ÉKM, MÁV Személyszállítási Zrt.[^9] | 7,4 | 2024[^10] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 5. | IKOP Plusz-1.1.0-23 | H5–H6/H7 vonalak összekötése – az észak–déli városi-elővárosi gyorsvasút fejlesztésének előkészítése szakaszolt projekt | KBM, MÁV Személyszállítási Zrt. | 7,4 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 6. | IKOP Plusz-1.1.0-23 | Kelenföldi intermodális csomópont őrmezői autóbusz-terminál megvalósításának és a P+R parkolók bővítésének előkészítése szakaszolt projekt | ÉKM | 0,53[^11] | 2024[^12] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 6. | IKOP Plusz-1.1.0-23 | Kelenföldi intermodális csomópont őrmezői autóbusz-terminál megvalósításának és a P+R parkolók bővítésének előkészítése szakaszolt projekt | KBM | 0,53 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 7. | IKOP Plusz-1.1.0-23 | Kis-Gellért hegyi alagút rekonstrukciójának előkészítése – szakaszolt projekt | MÁV Pályaműködtetési Zrt.[^13] | 0,3 | 2024[^14] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 7. | IKOP Plusz-1.1.0-23 | Kis-Gellért hegyi alagút rekonstrukciójának előkészítése – szakaszolt projekt | MÁV Pályaműködtetési Zrt. | 0,3 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 8. | IKOP Plusz-1.1.0-23 | Eurovelo 14 – Budapest Rákos-patak menti kerékpáros útvonal fejlesztése[^15] | ÉKM – Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BKK Zrt.) | 3,56[^16] | 2025[^17] | Az Eurovelo 14 hálózat fejlesztése a Rákos-patak menti szakaszon[^18] |
+| 8. | IKOP Plusz-1.1.0-23 | Eurovelo 14 – Budapest Rákos-patak menti kerékpáros útvonal fejlesztés tervezése | KBM, Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BKK Zrt.) | 0,3 | 2025 | Az Eurovelo 14 hálózat fejlesztése a Rákos-patak menti szakaszon tervezése |
 
-| 8a.[^19] | IKOP Plusz-1.1.0-23 | Eurovelo 14 – Budapest–Balaton kerékpárút fővárosi szakaszának fejlesztése | ÉKM – BKK Zrt. | 1,69 | 2025 | Az Eurovelo 14 hálózat fejlesztése a Budapest–Balaton kerékpárút szakaszon |
+| 9. | IKOP Plusz-1.1.0-23 | Eurovelo 14 – Budapest– Balaton kerékpárút fővárosi szakaszának fejlesztése | KBM, BKK Zrt. | 1,69 | 2025 | Az Eurovelo 14 hálózat fejlesztése a Budapest–Balaton kerékpárút szakaszon |
 
-| 9. | IKOP Plusz-1.1.0-23 | Budapesti trolibusz járműbeszerzés III. ütem és állatkerti deltavágány kiépítése | BKK Zrt. | 8,8 | 2023 | 38 db kisegítő akkumulátoros önjáró képességgel is rendelkező trolibusz beszerzése és az állatkerti delta felsővezetékének átépítése |
+| 10. | IKOP Plusz-1.1.0-23 | Eurovelo 6 – Duna menti útvonal | KBM, BKK Zrt. | 0,85 | 2026 | Budapesten a Külső Váci úti hiányzó kapcsolatok megvalósítása |
 
-| 10. | IKOP Plusz-1.1.0-23 | H5 és H6 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése[^20] | ÉKM, MÁV Személyszállítási Zrt.[^21] | 85,0[^22] | 2025[^23] | H5 és H6 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése[^24] |
+| 11. | IKOP Plusz-1.1.0-23 | Budapesti trolibusz járműbeszerzés III. ütem és állatkerti deltavágány kiépítése | BKK Zrt. | 8,8 | 2023 | 38 db kisegítő akkumulátoros önjáró képességgel is rendelkező trolibusz beszerzése és az állatkerti delta felsővezetékének átépítése. RRF támogatási szerződés megkötése után törlésre kerül. |
 
-| 11. | IKOP Plusz-1.1.0-23 | Kőbánya-Kispest – Ócsai szőlők vasútvonal villamosítása és elővárosi fejlesztése[^25] | ÉKM, MÁV Pályaműködtetési Zrt.[^26] | 190,0 | 2025[^27] | A Kőbánya-Kispest – Ócsai szőlők vonalszakasz villamosítása, részleges 2. vágány építés, az állomások akadálymentes felújítása, P+R, B+R parkolók építése[^28] |
+| 12. | IKOP Plusz-1.1.0-23 | Kőbánya-Kispest – Ócsai szőlők vasútvonal villamosítása és elővárosi fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 190,0 | 2025 | A Kőbánya-Kispest – Ócsai szőlők vonalszakasz villamosítása, részleges 2. vágány építés, az állomások akadálymentes felújítása, P+R, B+R parkolók építése |
 
-| 12. | IKOP Plusz-1.1.0-23 | Nyugati pályaudvar bevezető szakaszainak fejlesztése a Nyugati pu. – Rákosrendező (kiz.) szakaszon | ÉKM, MÁV Pályaműködtetési Zrt.[^29] | 18,0 | 2025[^30] | II. torony második lírasor, biztosítóberendezési fejlesztés, kapacitásbővítés Nyugati pu. – Rákosrendező (kiz.) szakaszon |
+| 13. | IKOP Plusz-1.1.0-23 | H5 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 150,5 | 2026 | H5 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése, járműtelep- fejlesztés, intermodális csomópontok kiviteli tervezése |
 
-| 13. | IKOP Plusz-1.1.0-23 | Göncz Árpád városközpont gyalogos aluljáró és felszíni kijáratok rekonstrukciója | ÉKM – BKK Zrt. | 8,0 | 2025[^31] | M3 metróvonal állomásaihoz kapcsolódó Göncz Árpád városközpont gyalogos aluljáró és felszíni kijáratok rekonstrukciója |
+| 14. | IKOP Plusz-1.1.0-23 | A H5 HÉV-hez tartozó Margit híd, Szentendre és Pomáz IMCS kivitelezés | KBM, MÁV Pályaműködtetési Zrt. | 24,0 | 2026 | A H5 HÉV-hez tartozó Margit híd, Szentendre és Pomáz intermodális átszállópontok intermodális infrastruktúrájának kivitelezése |
 
-| 14. | IKOP Plusz-1.1.0-23 | Budai fonódó villamos II. ütem | ÉKM – BKK Zrt. | 39,0 | 2025[^32] | Műegyetem rakparti villamos a dél-budai egyetemváros és a Kopaszi-gát térségének kiszolgálására, pályafejlesztés, valamint a megállóhelyek fejlesztése és új megállók létesítése |
+| 15. | IKOP Plusz-1.1.0-23 | H6 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 194,6 | 2026 | H6 HÉV korszerűsítéséhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése, új járműtelep építése |
 
-| 15. | IKOP Plusz-1.1.0-23 | 18 db új egy-áramnemű HÉV jármű beszerzése a H5 (szentendrei) HÉV vonalra[^33] | MÁV Személyszállítási Zrt.[^34] | 113,8 | 2025[^35] | Akadálymentes járművek beszerzése a H5 HÉV vonalára |
+| 16. | IKOP Plusz-1.1.0-23 | H6, H7 Kálvin térig történő hosszabbításának és a 150-es vasútvonal HÉV kapcsolatának előkészítése | KBM, MÁV Pályaműködtetési Zrt. | 4,5 | 2027 | H6 HÉV Kálvin térig történő hosszabbításának és 150-es vasútvonali kapcsolatának előkészítése |
 
-| 16. | IKOP Plusz-1.1.0-23 | Fővárosi kötöttpályás előkészítési projektek [MILLFAV infrastruktúra tervezés, Pesti fonódó villamoshálózat II. ütem: villamoshálózat összekötése a Deák tér és a Lehel tér között, 3-as villamosvonal meghosszabbítása (Pesterzsébeti szakasz), 42-es villamosvonal meghosszabbítása] | BKK Zrt. | 10,0 | 2023 | Fővárosi kötöttpályás előkészítési projektek [MILLFAV infrastruktúra tervezés, Pesti fonódó villamoshálózat II. ütem: villamoshálózat összekötése a Deák tér és a Lehel tér között, 3-as villamosvonal meghosszabbítása (Pesterzsébeti szakasz), 42-es villamosvonal meghosszabbítása] |
+| 17. | IKOP Plusz-1.1.0-23 | H7 HÉV járműcseréjéhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 31,0 | 2027 | HÉV járműcseréjéhez kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése az RRF járműbeszerzéssel összhangban |
 
-| 17. | IKOP Plusz-1.1.0-23 | Kis-Gellért hegyi alagút rekonstrukciója, a Déli pályaudvar korszerűsítése | ÉKM, MÁV Zrt.[^36] | 28,5 | 2025[^37] | Kis-Gellért hegyi alagút átépítése (emeletes motorvonatokra) és a Déli pályaudvaron kapacitásnövelés, akadálymentesítés és a szolgáltatási szint emelése |
+| 18. | IKOP Plusz-1.1.0-23 | Nyugati pályaudvar bevezető szakaszainak fejlesztés előkészítése a Nyugati pu. – Rákosrendező (kiz.) szakaszon | KBM, MÁV Pályaműködtetési Zrt. | 1,47 | 2026 | Biztosítóberendezési fejlesztés, kapacitásbővítés Nyugati pu. – Rákosrendező (kiz.) és Nyugati pu. – Kőbánya-Kispest (kiz.) szakaszon előkészítési és tervezési feladatok elvégzése |
 
-| 17a.[^38] | IKOP Plusz-1.1.0-23 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése (RRF-el összhangban) I. | ÉKM, MÁV Zrt., MÁV Pályaműködtetési Zrt., MÁV Személyszállítási Zrt., MÁV Szolgáltató Központ Zrt.[^39] | 0,6 | 2025 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése |
+| 19. | IKOP Plusz-1.1.0-23 | Budai fonódó villamos II. ütem | KBM, BKK Zrt. | 39,0 | 2026 | Műegyetem rakparti villamos a dél-budai egyetemváros és a Kopaszi-gát térségének kiszolgálására, pályafejlesztés, valamint a megállóhelyek fejlesztése és új megállók létesítése, belvárosi, Budafoki úti és Pacsirtamező utcai vonalhosszabbítás előkészítése |
 
-| 17b.[^40] | IKOP Plusz-1.1.0-23 | 51 db CAF villamos beszerzése Budapest részére | BKK Zrt. | 54,15 | 2025 | 51 darab (46 rövid és 5 hosszú) új, alacsonypadlós villamos szerelvény beszerzése |
+| 20. | IKOP Plusz-1.1.0-23 | Fővárosi kötöttpályás előkészítési projektek [MILLFAV infrastruktúra tervezés, Pesti fonódó villamoshálózat II. ütem: villamoshálózat összekötése a Deák tér és a Lehel tér között, 3-as villamosvonal déli meghosszabbítása, Thököly úti kötöttpályás közlekedés fejlesztésének előkészítése | BKK Zrt., KBM | 13,0 | 2024 | Fővárosi kötöttpályás előkészítési projektek: MILLFAV infrastruktúra tervezés, Pesti fonódó villamoshálózat II. ütem: villamoshálózat összekötése a Deák tér és a Lehel tér között, 3-as villamosvonal pesterzsébeti meghosszabbítása (engedélyezési és kiviteli terv), Thököly úti kötöttpályás közlekedés előkészítése (megvalósíthatósági tanulmány) |
 
-| 18. | IKOP Plusz-1.2.0-23 | Szombathely–Kőszeg vasútvonal villamosításának előkészítése – átforduló projekt | Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) | 0,3 | 2023 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 21. | IKOP Plusz-1.1.0-23 | Kis-Gellért hegyi alagút rekonstrukciója, a Déli pályaudvar korszerűsítése | KBM, MÁV Pályaműködtetési Zrt. | 39,6 | 2026 | Kis-Gellért hegyi alagút átépítése (emeletes motorvonatokra) és a Déli pályaudvaron kapacitásnövelés, akadálymentesítés és a szolgáltatási szint részleges emelése |
 
-| 19. | IKOP Plusz-1.2.0-23 | Hatvan–Füzesabony vasútvonal fejlesztéséhez kapcsolódó ráhordó vonalak fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 2,0 | 2024[^41] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 22. | IKOP Plusz-1.1.0-23 | 51 db CAF villamos beszerzése, Budapest részére és kapcsolódó infrastruktúra beavatkozások | BKK Zrt. | 54,15 | 2025 | 51 darab (46 rövid és 5 hosszú) új, alacsonypadlós villamos szerelvény beszerzése. RRF támogatási szerződés megkötése után a program az utolsó 6 db jármű beszerzésére és a kapcsolódó vonali és kocsiszíni infrastruktúra kivitelezésére módosul, 24,9 milliárd Ft támogatási főösszeggel. |
 
-| 20. | IKOP Plusz-1.2.0-23 | Szeged–Makó elővárosi közlekedés fejlesztésének előkészítése (IMCS) – szakaszolt projekt[^42] | ÉKM | 2,7 | 2024[^43] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 23. | IKOP Plusz-1.1.0-23 | 71-es vasútvonal Rákospalota-Újpest (kiz.) – Vácrátót (kiz.) vasúti szakasz elővárosi célú fejlesztéseinek kivitelezése | KBM, MÁV Pályaműködtetési Zrt. | 136,0 | 2026 | Rákospalota-Újpest (kiz.) – Vácrátót vasúti szakasz elővárosi célú fejlesztése |
 
-| 21. | IKOP Plusz-1.2.0-23 | Győr elővárosi közlekedés fejlesztése előkészítése – szakaszolt projekt | Győri Térségfejlesztési és Projektmenedzsment Korlátolt Felelősségű Társaság[^44] | 0,3[^45] | 2024[^46] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 24. | IKOP Plusz-1.1.0-23 | Bajcsy-Zsilinszky úti villamos kivitelezés | BKK Zrt., KBM | 52,0 | 2026 | Bajcsy-Zsilinszky úti villamos kivitelezés kapcsolódó vonali és végállomási fejlesztésekkel |
 
-| 22. | IKOP Plusz-1.2.0-23 | Lajosmizse–Kecskemét közötti vasútvonal fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 0,68[^47] | 2024[^48] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 25. | IKOP Plusz-1.1.0-23 | A Budapest–Hatvan és Budapest–Újszász–Szolnok vonal bevezető szakaszán Hungária körút vasúti megállóhely megépítése | KBM, MÁV Pályaműködtetési Zrt. | 15,4 | 2026 | Új vasúti megállóhely létesítése a 80a (hatvani) és a 120a (újszász–szolnoki) vasútvonalon Budapesten, az 1-es villamos átszállási kapcsolat biztosítására és a leendő új Műszaki és Közlekedési Múzeum elérésére |
 
-| 23. | IKOP Plusz-1.2.0-23 | Közösségi közlekedés fejlesztése Kaposvár II. ütem, elektromos buszok beszerzése | Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság | 6,71 | 2024[^49] | Elektromos autóbuszok beszerzése a kaposvári tömegközlekedés fejlesztése érdekében |
+| 26. | IKOP Plusz-1.1.0-23 | 3-as villamos Zugló–Angyalföld összekötés | BKK Zrt., KBM | 35,0 | 2026 | 3-as villamos Zugló–Angyalföld összekötés, Szegedi úti felüljárón villamospálya kivitelezés |
 
-| 24. | IKOP Plusz-1.2.0-23 | (Debrecen)-Apafa – Mátészalka vasútvonal villamosítás és pályafejlesztés előkészítése[^50] | ÉKM, MÁV Pályaműködtetési Zrt.[^51] | 8,0[^52] | 2025[^53] | Az Apafa (kiz.) – Mátészalka (bez.) vonalszakasz villamosítása és pályafejlesztés előkészítése.[^54] |
+| 27. | IKOP Plusz-1.1.0-23 | M3 metró Újpest központ – Rákospalota-Újpest kivitelezés | BKK Zrt., BKV Zrt., KBM | 80 | 2027 | M3 metró Újpest központ – Rákospalota-Újpest kivitelezés, 2 új állomással, kéregvezetésben |
 
-| 24a.[^55] | IKOP Plusz-1.2.0-23 | Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | ÉKM, Kecskemét Megyei Jogú Város Önkormányzata | 15,0 | 2025 | Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása. Az (EU) 2024/1679 rendelet 41. cikk 1c) pontja alapján a 100 ezer fő feletti nagyvárosok multimodális személyszállítási csomópontjait 2030-ig fejleszteni szükséges, amely cél elérését segíti ez a projekt. |
+| 28. | IKOP Plusz-1.1.0-23 | Budapesti agglomerációs P+R parkolók építése | KBM | 5,5 | 2026 | Budapesti agglomerációs P+R parkolók építése |
 
-| 24b.[^56] | IKOP Plusz-1.2.0-23 | Füzesabony–Eger vasútvonal korszerűsítése | ÉKM, MÁV Pályaműködtetési Zrt. | 32,7 | 2025 | Előkészített projekt, amely egy vármegye-székhely villamosított, nem TEN-T vonali bekötését javítaná. |
+| 29. | IKOP Plusz-1.2.0-23 | Pest vármegyei P+R parkolók építése | KBM | 4,8 | 2026 | Pest vármegyei P+R parkolók építése a 2018. évi CXXXIX. törvény 1/1. melléklete alapján Budapesten és a nyolcvan agglomerációs településén kívüli helyszíneken |
 
-| 25. | IKOP Plusz-1.2.0-23 | Észak-balatoni vasútállomások, megállóhelyek korszerűsítése | ÉKM, MÁV Pályaműködtetési Zrt.[^57] | 14,0 | 2025[^58] | A Balaton északi partján fekvő vasútállomások, állomási előterek korszerűsítése, valamint állomási területek akadálymentesítése |
+| 30. | IKOP Plusz-1.2.0-23 | Szombathely–Kőszeg vasútvonal villamosításának előkészítése – átforduló projekt | Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) | 0,3 | 2023 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 25a.[^59] | IKOP Plusz-1.2.0-23 | Balaton vasúti körüljárhatósága és Balatonfüred–Tapolca–Keszthely villamos üzem előkészítése | ÉKM | 7,5 | 2025 | Balaton vasúti körüljárhatósága és megtérülése esetén a Balatonfüred–Tapolca–Keszthely villamos üzem projektek előkészítése. |
+| 31. | IKOP Plusz-1.2.0-23 | Hatvan–Füzesabony vasútvonal fejlesztéséhez kapcsolódó ráhordó vonalak fejlesztésének előkészítése – szakaszolt projekt | KBM | 2,0 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 26. | IKOP Plusz-1.2.0-23 | Debrecen 1-es villamosvonal rekonstrukciója[^60] | ÉKM – Debrecen Megyei Jogú Város Önkormányzata – DKV Debreceni Közlekedési Zrt. (a továbbiakban: DKV Zrt.)[^61] | 14,7[^62] | 2025[^63] | A debreceni 1-es villamospálya fejlesztése.[^64] |
+| 32. | IKOP Plusz-1.2.0-23 | Szeged–Makó elővárosi közlekedés fejlesztésének előkészítése (IMCS) – szakaszolt projekt | KBM | 2,7 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 26a.[^65] | IKOP Plusz-1.2.0-23 | Debrecen 9 db villamos beszerzése | DKV Zrt.[^66] | 8,5 | 2025 | Új alacsonypadlós villamosok beszerzése. |
+| 33. | IKOP Plusz-1.2.0-23 | Győr elővárosi közlekedés fejlesztése előkészítése – szakaszolt projekt | Győri Térségfejlesztési és Projektmenedzsment Korlátolt Felelősségű Társaság, MÁV Pályaműködtetési Zrt. | 0,30 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 27.[^67] |  |  |  |  |  |  |
+| 34. | IKOP Plusz-1.2.0-23 | Lajosmizse–Kecskemét közötti vasútvonal fejlesztésének előkészítése – szakaszolt projekt | KBM | 0,68 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 28. | IKOP Plusz-1.2.0-23 | 25 db 200 ülőhelyes elővárosi zéró-emissziós villamos motorvonat beszerzése[^68] | MÁV Személyszállítási Zrt.[^69] | 90,0[^70] | 2025[^71] | 25 db 200 ülőhelyes villamos motorvonat beszerzése a legforgalmasabb elővárosi vonalszakaszokra[^72] |
+| 35. | IKOP Plusz-1.2.0-23 | Közösségi közlekedés fejlesztése Kaposvár II. ütem, elektromos buszok beszerzése | Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság | 6,71 | 2024 | Elektromos autóbuszok beszerzése a kaposvári tömegközlekedés fejlesztése érdekében |
 
-| 29. | IKOP Plusz-1.2.0-23 | Szombathely–Kőszeg vasútvonal villamosítása | ÉKM, GYSEV Zrt. | 7,0 | 2025[^73] | Szombathely–Kőszeg vasútvonal villamosításának megvalósítása |
+| 36. | IKOP Plusz-1.2.0-23 | (Debrecen)-Apafa–Mátészalka vasútvonal villamosítás és pályafejlesztés előkészítése | KBM, MÁV Pályaműködtetési Zrt. | 8,0 | 2025 | Az Apafa (kiz.) – Mátészalka (bez.) vonalszakasz villamosítása és pályafejlesztés előkészítése |
 
-| 30. | IKOP Plusz-1.2.0-23 | Kőszeg városkörnyéki közösségi közlekedés-fejlesztés (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó) | ÉKM[^74] | 3,0 | 2025[^75] | Kőszeg városkörnyéki közösségi közlekedés fejlesztés (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó) intermodalitás megvalósítása[^76] |
+| 37. | IKOP Plusz-1.2.0-23 | Székesfehérvár Intermodális Csomópont (vasútállomás előtti buszállomás és terület rendezése, P+R-k) | KBM | 20,0 | 2026 | Székesfehérvár Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása |
 
-| 31. | IKOP Plusz-1.2.0-23 | Debrecen–Balmazújváros villamosítása és elővárosi fejlesztése | ÉKM, MÁV Pályaműködtetési Zrt.[^77] | 38,0[^78] | 2024 | Debrecen–Balmazújváros villamosításának és elővárosi fejlesztésének megvalósítása |
+| 38. | IKOP Plusz-1.2.0-23 | Észak-balatoni vasútállomások, megállóhelyek korszerűsítése | KBM, MÁV Pályaműködtetési Zrt. | 14,0 | 2026 | A Balaton északi partján fekvő vasútállomások, állomási előterek korszerűsítése, valamint állomási területek akadálymentesítése |
 
-| 32. | IKOP Plusz-1.2.0-23 | Nemzeti Közlekedési Infrastruktúra-fejlesztési Stratégia felülvizsgálata | Közlekedéstudományi Intézet[^79] | 2,5 | 2024 | A Nemzeti Közlekedési Infrastruktúra-fejlesztési Stratégia megfelelő partnerséggel történő felülvizsgálata a szükséges háttértanulmányok elkészítésével, a forgalmi modell felülvizsgálatával, a forgalmi modell működtetéséhez szükséges feltételek (eszközök, szoftverek, kapacitásépítés) biztosításával, stratégiai környezeti hatásvizsgálat készítésével.[^80] |
+| 39. | IKOP Plusz-1.2.0-23 | Debrecen nagyállomás rekonstrukciója, környéki tram-train közlekedés előkészítése, villamoshálózat fejlesztése, előkészítés | KBM, MÁV Pályaműködtetési Zrt., Debrecen Megyei Jogú Város Önkormányzata, DKV Debreceni Közlekedési Zrt. | 7,8 | 2026 | Debrecen nagyállomás rekonstrukciója, intermodális csomópont előkészítése, Debrecen villamoshálózat-fejlesztése a cívisváros környéki (106-os, 108-as) vasútvonalakkal közös tram-train üzem előkészítése érdekében, 1-es villamos felújításának előkészítése |
 
-| 32a.[^81] | IKOP Plusz-1.2.0-23 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése (RRF-el összhangban) II. | ÉKM, MÁV Zrt., MÁV Pályaműködtetési Zrt., MÁV Személyszállítási Zrt., MÁV Szolgáltató Központ Zrt.[^82] | 8,1 | 2025 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése |
+| 40. | IKOP Plusz-1.2.0-23 | Szombathely–Kőszeg vasútvonal villamosítása | GYSEV Zrt. | 7,0 | 2026 | Szombathely–Kőszeg vasútvonal villamosításának megvalósítása |
 
-| 32b.[^83] | IKOP Plusz-1.2.0-23 | Miskolc belváros – Avas kötöttpályás közlekedési kapcsolat (Avas kötélpálya) létesítése | ÉKM, Miskolc Megyei Jogú Város Önkormányzata[^84] | 5,72 | 2026 | Zárt kabinos, gyors és a városi levegőt, környezetet kevésbé terhelő kötöttpályás közösségi közlekedési eszköz kerül kiépítésre az Avas kilátópont és TV-torony, valamint a belvárosi Szent István tér között, kb. 500 méteres pályahosszal. |
+| 41. | IKOP Plusz-1.2.0-23 | Kőszeg városkörnyéki közösségi közlekedés-fejlesztés (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó) | KBM | 3,0 | 2025 | Kőszeg városkörnyéki közösségiközlekedés-fejlesztés (Szombathely–Kőszeg GYSEV fejlesztéshez kapcsolódó), intermodalitás megvalósítása |
 
-| 32c.[^85] | IKOP Plusz-1.2.0-23 | Közösségi közlekedés fejlesztése Kaposvár III. ütem | Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság | 7,5 | 2025 | Elektromos autóbuszok beszerzése a kaposvári közösségi közlekedés fejlesztése érdekében. Ennek keretében 10 darab csuklós autóbusz és 15 darab szóló autóbusz és 2 darab önvezető autóbusz kerül beszerzésre, és a hozzájuk kapcsolódó infrastrukturális elemek is kiépülnek. |
+| 42. | IKOP Plusz-1.2.0-23 | Debrecen–Balmazújváros villamosítása és elővárosi fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 38,0 | 2024 | Debrecen–Balmazújváros villamosításának és elővárosi fejlesztésének megvalósítása. RRF Támogatási Szerződés aláírását követően törlésre kerül. |
 
-| 33. | IKOP Plusz 2.1.0-23 | A GYSEV Zrt. vasúti infrastruktúra fejlesztési projektek előkészítése – szakaszolt projekt | GYSEV Zrt. | 0,9 | 2024[^86] | Sopron–Harka vonalszakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése, illetve Zalaszentiván deltavágány kisajátítása |
+| 43. | IKOP Plusz-1.2.0-23 | Nemzeti Közlekedési Infrastruktúra-fejlesztési Stratégia felülvizsgálata | Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet | 2,5 | 2024 | A Nemzeti Közlekedési Infrastruktúra-fejlesztési Stratégia megfelelő partnerséggel történő felülvizsgálata a szükséges háttértanulmányok elkészítésével, a forgalmi modell felülvizsgálatával, a forgalmi modell működtetéséhez szükséges feltételek (eszközök, szoftverek, kapacitásépítés) biztosításával, stratégiai környezeti hatásvizsgálat készítésével |
 
-| 34. | IKOP Plusz 2.1.0-23 | Zalaszentiván–Nagykanizsa vasútvonal fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 3,7 | 2024[^87] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 44. | IKOP Plusz-1.2.0-23 | Közösségi közlekedés fejlesztése Kaposvár III. ütem | Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság | 7,5 | 2025 | Elektromos autóbuszok beszerzése a kaposvári közösségi közlekedés fejlesztése érdekében. Ennek keretében 10 darab csuklós autóbusz és 15 darab szóló autóbusz és 2 darab önvezető autóbusz kerül beszerzésre és a hozzájuk kapcsolódó infrastrukturális elemek is kiépülnek. |
 
-| 35. | IKOP Plusz 2.1.0-23 | Szűk keresztmetszet kiváltás előkészítése MÁV hálózatán (Kelenföld–Budaörs/Törökbálint) – szakaszolt projekt | ÉKM | 0,9 | 2024[^88] | A Kelenföld–Budaörs/Törökbálint szakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 45. | IKOP Plusz-1.2.0-23 | Miskolc belváros – Avas kötöttpályás közlekedési kapcsolat (Avas kötélpálya) létesítése | KBM, Miskolc Megyei Jogú Város Önkormányzata | 5,72 | 2026 | Zárt kabinos, gyors és a városi levegőt, környezetet kevésbé terhelő kötöttpályás közösségi közlekedési eszköz kerül kiépítésre az Avas kilátó és tv-torony, valamint a belvárosi Szent István tér között, kb. 500 méteres pályahosszal |
 
-| 36. | IKOP Plusz 2.1.0-23 | Szűk keresztmetszet kiváltás előkészítése MÁV hálózatán (Nagykáta–Újszász) – szakaszolt projekt | ÉKM | 0,2 | 2024[^89] | A Nagykáta–Újszász szakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 46. | IKOP Plusz-1.2.0-23 | 142-es vasútvonal Ócsai szőlők – Dabas vasúti szakasz villamosítása és elővárosi fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 51,0 | 2026 | Ócsai szőlők – Dabas vonalszakasz villamosítása, az állomások akadálymentes felújítása, P+R, B+R parkolók építése |
 
-| 37. | IKOP Plusz 2.1.0-23 | MÁV-START Zrt. gördülőállomány fejlesztése 19 db nagykapacitású motorvonat beszerzésével | MÁV Személyszállítási Zrt.[^90] | 112,9 | 2023 | 600 ülőhelyes, 160 km/h sebességre képes, kerékpár szállítására alkalmas, akadálymentes KISS emeletes villamos motorvonatok beszerzése |
+| 47. | IKOP Plusz-1.2.0-23 | MÁV regionális vasútvonalak fejlesztése és dekarbonizációja hibrid járművek beszerzésével | MÁV Pályaműködtetési Zrt., Nemzeti Gördülőállomány Kezelő Zrt. | 94,7 | 2026 | Az érintett nem TEN-T vonalakon (pl. Hatvan–Salgótarján–Somoskőújfalu, Sárbogárd–Szekszárd–Baja) kapcsolódó infrastrukturális beavatkozások, valamint megállóhelyek fejlesztése, megépítése, villamos/akkumulátoros hibrid motorvonatok beszerzése |
 
-| 38. | IKOP Plusz 2.1.0-23 | Vasúti mérőjármű beszerzése (2.1. prioritás) | MÁV Pályaműködtetési Zrt.[^91] | 2,4 | 2025[^92] | Önjáró, 160 km/h-ra alkalmas mérőjármű videós pályafelügyeleti rendszerrel (felépítmény vizsgálatára), felsővezeték, ETCS, GSM-R mérőrendszerrel |
+| 48. | IKOP Plusz-1.2.0-23 | Tiszaújváros–Miskolc–Kazincbarcika TramTrain előkészítés, megvalósíthatósági tanulmány | KBM | 0,5 | 2026 | Megvalósíthatósági tanulmány készítése |
 
-| 39. | IKOP Plusz 2.1.0-23 | Nagykáta–Újszász vasútvonal fejlesztése (Pest vármegyei szakasz) | ÉKM | 59,7 | 2025[^93] | A nyíltvonali szakaszokon és állomási átmenő fővágányon 225 kN tengelyterhelésre történő fejlesztés |
+| 49. | IKOP Plusz-1.2.0-23 | Eger–Eger-Felnémet vonalszakasz elővárosi fejlesztésének előkészítése | KBM, MÁV Pályaműködtetési Zrt. | 1,6 | 2026 | Eger városközpont vasúti elérésének javítása, intermodalitás erősítése, előkészítés (engedélyezési és kiviteli tervek elkészítése) |
 
-| 40. | IKOP Plusz 2.1.0-23 | Budapest Déli Körvasút III. ütem, Népliget megállóhely kialakítása | ÉKM, MÁV Pályaműködtetési Zrt.[^94] | 70,0[^95] | 2025[^96] | Az 1. sz. vasútvonal Üllői úti tengelyénél új vasúti megállóhely kialakítása |
+| 50. | IKOP Plusz-2.1.0-23 | A GYSEV Zrt. vasúti infrastruktúra fejlesztési projektek előkészítése – szakaszolt projekt | GYSEV Zrt. | 0,90 | 2024 | Sopron–Harka vonalszakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése, illetve Zalaszentiván deltavágány területszerzésének biztosítása |
 
-| 41. | IKOP Plusz 2.1.0-23 | Ferencváros – Kőbánya felső – Rákos ETCS L2 előkészítése | ÉKM, MÁV Pályaműködtetési Zrt.[^97] | 3,0 | 2025[^98] | Ferencváros – Kőbánya felső – Rákos ETCS L2 előkészítése |
+| 51. | IKOP Plusz-2.1.0-23 | Zalaszentiván–Nagykanizsa vasútvonal fejlesztésének előkészítése – szakaszolt projekt | KBM, GYSEV Zrt. | 2,4 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 42. | IKOP Plusz 2.1.0-23 | Szentivánvölgy megállóhely létesítése (Zalaszentiváni deltavágány CEF2-ből nem finanszírozható elemei) | ÉKM, GYSEV Zrt. | 0,7 | 2025[^99] | Szentivánvölgy megállóhely létesítésének kivitelezési munkái (Zalaszentiváni deltavágány CEF2-ből nem finanszírozható elemei) |
+| 52. | IKOP Plusz-2.1.0-23 | Szűk keresztmetszet kiváltás előkészítése MÁV hálózatán (Kelenföld–Budaörs/Törökbálint) – szakaszolt projekt | KBM | 0,9 | 2024 | A Kelenföld–Budaörs/Törökbálint szakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 42a.[^100] | IKOP Plusz 2.1.0-23 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése (RRF-el összhangban) III. | ÉKM, MÁV Zrt., MÁV Pályaműködtetési Zrt., MÁV Személyszállítási Zrt., MÁV Szolgáltató Központ Zrt.[^101] | 0,7 | 2025 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése |
+| 53. | IKOP Plusz-2.1.0-23 | Szűk keresztmetszet kiváltás előkészítése MÁV hálózatán (Nagykáta–Újszász) – szakaszolt projekt | KBM | 0,2 | 2024 | A Nagykáta–Újszász szakasz előkészítése, a megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 42b.[^102] | IKOP Plusz 2.1.0-23 | Csepel (szabadkikötő) infrastruktúra fejlesztés III. ütem | ÉKM, MAHART-Szabadkikötő Zrt. | 21,0[^103] | 2025 | Kikötő vasúti pálya korszerűsítése, partfal rekonstrukció, medencekotrás, közmű, logisztikai fejlesztések. |
+| 54. | IKOP Plusz-2.1.0-23 | MÁV-START Zrt. gördülőállomány fejlesztése 19 db nagykapacitású motorvonat beszerzésével | MÁV Személyszállítási Zrt. | 112,9 | 2023 | 600 ülőhelyes, 160 km/órás sebességre képes, kerékpár szállítására alkalmas, akadálymentes KISS emeletes villamos motorvonatok beszerzése |
 
-| 42c.[^104] | IKOP Plusz 2.1.0-23 | Cegléd–Kiskunfélegyháza vasúti tervezési projekt – Pest vármegyei szakasz | ÉKM | 3,5[^105] | 2025 | Szeged vasúti elérhetőségének javítása miatt szükséges projektelőkészítés. |
+| 55. | IKOP Plusz-2.1.0-23 | Nagykáta–Újszász vasútvonal fejlesztése (Pest vármegyei szakasz) | KBM, MÁV Pályaműködtetési Zrt. | 69,7 | 2026 | A nyíltvonali szakaszokon és állomási átmenő fővágányon 225 kN tengelyterhelésre történő fejlesztés |
 
-| 43. | IKOP Plusz 2.1.0-23 | Budapest Déli körvasút II. ütem, CEF2 keretében nem támogatott elemek (Nádorkert és Közvágóhíd új megállóhelyek létesítése) | ÉKM, MÁV Pályaműködtetési Zrt.[^106] | 210,4 | 2023[^107] | A Kelenföld (kiz.) – Ferencváros (kiz.) vonalszakaszon. Nádorkert és Közvágóhíd új megállóhelyek létesítése, kiegészítő létesítmények megvalósítása |
+| 56. | IKOP Plusz 2.1.0-23 | Budapest Déli Körvasút III. ütem, Népliget megállóhely kialakítása | KBM, MÁV Pályaműködtetési Zrt. | 128,0 | 2026 | Az 1. sz. vasútvonal Üllői úti tengelyénél új vasúti megállóhely kialakítása |
 
-| 44. | IKOP Plusz 2.2.0-23 | Hatvan–Füzesabony vasútvonal fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 4,5[^108] | 2024[^109] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 57. | IKOP Plusz-2.1.0-23 | Szentivánvölgy megállóhely létesítése (Zalaszentiváni deltavágány CEF2-ből nem finanszírozható elemei) | GYSEV Zrt. | 0,7 | 2025 | Szentivánvölgy megállóhely létesítésének kivitelezési munkái (Zalaszentiváni deltavágány CEF2-ből nem finanszírozható elemei) |
 
-| 45. | IKOP Plusz 2.2.0-23 | Debrecen–Nyíregyháza vasútvonal fejlesztésének előkészítése – szakaszolt projekt | ÉKM | 1,7[^110] | 2024[^111] | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+| 58. | IKOP Plusz-2.1.0-23 | Csepel (szabadkikötő) infrastruktúra fejlesztés III. ütem | KBM, MAHART-Szabadkikötő Zrt. | 21,00 | 2026 | Kikötő vasúti pálya korszerűsítése, partfal-rekonstrukció, medencekotrás, közmű, logisztikai fejlesztések |
 
-| 46.[^112] |  |  |  |  |  |  |
+| 59. | IKOP Plusz-2.1.0-23 | Cegléd–Kiskunfélegyháza vasútfejlesztési projekt – Pest vármegyei szakasz | KBM | 3,5 | 2026 | Szeged vasúti elérhetőségének javítása miatt szükséges infrastruktúra-beavatkozás |
 
-| 47. | IKOP Plusz 2.2.0-23 | Püspökladány–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítésének előkészítése és Szajol–Debrecen vasútvonalon ETCS vonatbefolyásoló rendszer kiépítése – szakaszolt projekt | ÉKM | 5,24[^113] | 2024[^114] | Pályarekonstrukció Püspökladány–Debrecen és ETCS biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése |
+| 60. | IKOP Plusz-2.1.0-23 | Budapest Déli körvasút II. ütem, CEF2 keretében nem támogatott elemek (Nádorkert és Közvágóhíd új megállóhelyek létesítése) | KBM, MÁV Pályaműködtetési Zrt. | 210,4 | 2023 | A Kelenföld (kiz.) – Ferencváros (kiz.) vonalszakaszon. Nádorkert és Közvágóhíd új megállóhelyek létesítése, kiegészítő létesítmények megvalósítása. |
 
-| 48. | IKOP Plusz 2.2.0-23 | Új országos közforgalmú kikötő kiépítése Mohácson – szakaszolt projekt | Mohács Város Önkormányzata, ÉKM[^115] | 5,7[^116] | 2024[^117] | A Duna 1448+660–1449+000 folyamkilométer-szelvények közötti szakaszán új kikötőterület kiépítése |
+| 61. | IKOP Plusz-2.1.0-23 | Kőbánya felső – Rákos rekonstrukció, kapacitásbővítés előkészítés | KBM, MÁV Pályaműködtetési Zrt. | 3,0 | 2026 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 49. | IKOP Plusz 2.2.0-23 | Bajai Országos Közforgalmú kikötő infrastrukturális továbbfejlesztése – szakaszolt projekt | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 0,86[^118] | 2024[^119] | A projekt célja az úthálózat és parkoló-, rakodóterületek felújítása, partfal helyreállítása, valamint a hulladékok kezelésére alkalmas terület kialakítása |
+| 62. | IKOP Plusz-2.1.0-23 | 1-es vasútvonal Almásfüzitő– Komárom-Rendező vasútvonal fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 41,0 | 2026 | A Budapest–Bécs vasútvonal Almásfüzitő–Komárom szakaszának átépítése, új kétvágányú vasúti pálya kiépítése Szőny és Komárom rendező között |
 
-| 50. | IKOP Plusz 2.2.0-23 | Balatoni vasútállomások rekonstrukciója (TEN-T vonali vasútállomások) – szakaszolt projekt | ÉKM | 0,62[^120] | 2024[^121] | A TEN-T vasútvonalon lévő balatoni vasútállomások korszerűsítése |
+| 63. | IKOP Plusz-2.1.0-23 | Székesfehérvár–Lepsény szakasz kapacitásbővítés, Lepsény–Balatonakarattya vasúti átkötés előkészítése | KBM, MÁV Pályaműködtetési Zrt. | 2,6 | 2026 | Székesfehérvár–Lepsény szakasz kapacitásbővítés, valamint Lepsény–Balatonakarattya új vasútvonal kivitelezésre előkészítése |
 
-| 51. | IKOP Plusz 2.2.0-23 | 2 nagykapacitású (KISS) motorvonat beszerzése | MÁV Személyszállítási Zrt.[^122] | 11,9 | 2023 | 600 ülőhelyes, 160 km/h sebességre képes, kerékpár szállítására alkalmas, akadálymentes KISS emeletes villamos motorvonatok beszerzése |
+| 64. | IKOP Plusz-2.1.0-23 | Székesfehérvár–Szombathely szakaszos beavatkozások tervezése | KBM, GYSEV Zrt. | 3,0 | 2026 | A Nyugat-Magyarország Masterplan alapján fejlesztendő szakaszok azonosítása a Székesfehérvár–Szombathely szakaszos beavatkozások tervezése |
 
-| 52. | IKOP Plusz 2.2.0-23 | MÁV vasúti mérőjármű beszerzése (2.2. prioritás) | MÁV Pályaműködtetési Zrt.[^123] | 3,2 | 2025[^124] | Önjáró, 160 km/h-ra alkalmas mérőjármű videós pályafelügyeleti rendszerrel (felépítmény vizsgálatára), felsővezeték, ETCS, GSM-R mérőrendszerrel |
+| 65. | IKOP Plusz-2.1.0-23 | Győr–Csorna vasúti szakasz fejlesztés tervezése | GYSEV Zrt. | 3,0 | 2026 | Győr–Csorna vasúti szakasz fejlesztés beavatkozások tervezése |
 
-| 53. | IKOP Plusz 2.2.0-23 | Újfehértó–Nyíregyháza vonalszakasz, és a Debrecen–Nyíregyháza I. ütem CEF2-ből nem elszámolható utasforgalmi, biztosítóberendezési és ETCS elemeinek fejlesztése | ÉKM, MÁV Pályaműködtetési Zrt.[^125] | 105,0 | 2025[^126] | Pályarekonstrukció az Újfehértó–Nyíregyháza (kiz.) vonalszakaszon, valamint elektronikus biztosítóberendezés és ETCS kiépítés a Debrecen–Nyíregyháza vonalszakaszon. Cél a 160 km/órás sebesség bevezetése |
+| 66. | IKOP Plusz-2.1.0-23 | Rákosrendező vasútállomás átépítésének tervezése | KBM, MÁV Pályaműködtetési Zrt. | 5,9 | 2026 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 54. | IKOP Plusz 2.2.0-23 | Dél-balatoni vasútállomások, megállóhelyek rekonstrukciója | ÉKM, MÁV Pályaműködtetési Zrt.[^127] | 11,8 | 2025[^128] | A Balaton déli partján fekvő vasútállomások, állomási előterek korszerűsítése, valamint állomási területek akadálymentesítése |
+| 67. | IKOP Plusz-2.1.0-23 | Tatabánya, Kimle, Szabadegyháza, Őrmező MÁV villamos alállomások fejlesztése | MÁV Pályaműködtetési Zrt. | 11,0 | 2026 | Tatabánya, Kimle, Szabadegyháza, Őrmező MÁV villamos alállomások fejlesztése |
 
-| 55. | IKOP Plusz 2.2.0-23 | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése (RRF-el összhangban) IV[^129] | ÉKM, MÁV Zrt., MÁV Pályaműködtetési Zrt., MÁV Személyszállítási Zrt., MÁV Szolgáltató Központ Zrt.[^130] | 0,6[^131] | 2025[^132] | A személyszállítási közszolgáltatások utazástervezési és forgalomirányítási rendszerek fejlesztése |
+| 68. | IKOP Plusz-2.1.0-23 | 71-es vasútvonal Vácrátót (bez.) – Vác (kiz.) vasúti szakasz elővárosi célú fejlesztéseinek kivitelezése | KBM, MÁV Pályaműködtetési Zrt. | 38,0 | 2026 | 71-es vasútvonal Vácrátót (bez.) – Vác (kiz.) vasúti szakasz elővárosi célú fejlesztése |
 
-| 56. | IKOP Plusz 2.2.0-23 | 80-as vasútvonal – Füzesabony – Miskolc vasútvonalon az infrastruktúra versenyképességének javítása | ÉKM, MÁV Pályaműködtetési Zrt.[^133] | 79,0 | 2025[^134] | A nyíltvonali szakaszokon és állomási átmenő fővágányon 225 kN tengelyterhelésre történő fejlesztés |
+| 69. | IKOP Plusz-2.2.0-23 | Hatvan–Füzesabony vasútvonal fejlesztésének előkészítése – szakaszolt projekt | KBM | 4,5 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 57. | IKOP Plusz 2.2.0-23 | Nagykáta–Újszász vasútvonal fejlesztése (Jász-Nagykun-Szolnok vármegyei szakasz) | ÉKM | 9,7 | 2025[^135] | A nyíltvonali szakaszokon és állomási átmenő fővágányon 225 kN tengelyterhelésre történő fejlesztés |
+| 70. | IKOP Plusz-2.2.0-23 | Debrecen–Nyíregyháza vasútvonal fejlesztésének előkészítése – szakaszolt projekt | KBM | 1,7 | 2024 | A megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
 
-| 58.[^136] | IKOP Plusz 2.2.0-23 | Vasúthálózat szűk keresztmetszet kiváltás TEN-T korridoron (Békéscsaba–Lőkösháza) | ÉKM | 148,7 | 2025 | A 120. számú vasútvonal Békéscsaba (kiz) – Lőkösháza oh. közötti országos közforgalmú vasúti vonalszakasz korszerűsítése: a meglévő vasúti pálya átépítése, második vágány építése, a teljes villamos vontatási felsővezeték hálózat és energiaellátás korszerűsítése. biztosítóberendezési és távközlési munkák kivitelezése, ETCS L2 kivitelezési és kapcsolódó munkák megvalósítása. A projektszakaszon korszerűsítendő állomások: Szabadkígyós állomás, Kétegyháza állomás, Lőkösháza állomás. |
+| 71. | IKOP Plusz-2.2.0-23 | Püspökladány–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítésének előkészítése és Szajol–Debrecen vasútvonalon ETCS vonatbefolyásoló rendszer kiépítése – szakaszolt projekt | KBM | 5,24 | 2024 | Pályarekonstrukció Püspökladány–Debrecen és ETCS biztosítóberendezés telepítése Szajol–Debrecen vasúti vonalszakaszokon. Cél a 160 km/órás sebesség bevezetése |
 
-| 59.[^137] | IKOP Plusz 2.2.0-23 | Cegléd–Kiskunfélegyháza vasúti tervezési projekt – Bács-Kiskun vármegyei szakasz | ÉKM | 4,5 | 2025 | Szeged vasúti elérhetőségének javítása miatt szükséges projektelőkészítés. |
+| 72. | IKOP Plusz-2.2.0-23 | Új országos közforgalmú kikötő kiépítése Mohácson – szakaszolt projekt | Mohács Város Önkormányzata, KBM | 1,54 | 2024 | A Duna 1448+660 – 1449+000 folyamkilométer-szelvények közötti szakaszán új kikötőterület kiépítése |
 
-| 60.[^138] | IKOP Plusz 3.2.0-25 | EuroVelo 6 kerékpárút Komárom és Esztergom közötti hiányzó szakaszok kiépítése | ÉKM, KTM | 16,8 | 2025 | Kerékpárúthálózati elemek fejlesztése. |
+| 73. | IKOP Plusz-2.2.0-23 | Bajai Országos Közforgalmú kikötő infrastrukturális továbbfejlesztése – szakaszolt projekt | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 0,86 | 2024 | A projekt célja az úthálózat és parkoló-, rakodóterületek felújítása, partfal helyreállítása, valamint a hulladékok kezelésére alkalmas terület kialakítása |
 
-| 61.[^139] | IKOP Plusz 3.2.0-25 | EuroVelo 14 kerékpárút Tihany–Balatonfűzfő közötti szakasz fejlesztése | ÉKM, KTM | 3,7 | 2025 | Kerékpárúthálózati elemek fejlesztése. |
+| 74. | IKOP Plusz-2.2.0-23 | Balatoni vasútállomások rekonstrukciója (TEN-T vonali vasútállomások) – szakaszolt projekt | KBM | 0,62 | 2024 | A TEN-T vasútvonalon lévő balatoni vasútállomások korszerűsítése |
 
-| 62.[^140] | IKOP Plusz 3.2.0-25 | EuroVelo 14 kerékpárút Tiszafüred–Debrecen szakaszának előkészítése és Tiszafüred–Hortobágy szakasz kiépítése | ÉKM, KTM | 7,4 | 2025 | Kerékpárúthálózati elemek fejlesztése. |
+| 75. | IKOP Plusz-2.2.0-23 | 2 nagykapacitású (KISS) motorvonat beszerzése | MÁV Személyszállítási Zrt. | 11,9 | 2023 | 600 ülőhelyes, 160 km/órás sebességre képes, kerékpár szállítására alkalmas, akadálymentes KISS emeletes villamos motorvonatok beszerzése |
+
+| 76. | IKOP Plusz-2.2.0-23 | Újfehértó–Nyíregyháza vonalszakasz, és a Debrecen–Nyíregyháza I. ütem CEF2-ből nem elszámolható utasforgalmi, biztosítóberendezési és ETCS elemeinek fejlesztése | KBM, MÁV Pályaműködtetési Zrt. | 105,00 | 2026 | Pályarekonstrukció az Újfehértó–Nyíregyháza (kiz.) vonalszakaszon, valamint elektronikus biztosítóberendezés és ETCS kiépítés a Debrecen–Nyíregyháza vonalszakaszon. Cél a 160 km/órás sebesség bevezetése. |
+
+| 77. | IKOP Plusz-2.2.0-23 | Dél-balatoni vasútállomások, megállóhelyek rekonstrukciója | KBM, MÁV Pályaműködtetési Zrt. | 7,5 | 2026 | A Balaton déli partján fekvő vasútállomások, állomási előterek korszerűsítése, valamint állomási területek akadálymentesítése |
+
+| 78. | IKOP Plusz-2.2.0-23 | Nagykáta–Újszász vasútvonal fejlesztése (Jász-Nagykun-Szolnok vármegyei szakasz) | KBM, MÁV Pályaműködtetési Zrt. | 11,3 | 2026 | A nyíltvonali szakaszokon és állomási átmenő fővágányon 225 kN tengelyterhelésre történő fejlesztés |
+
+| 79. | IKOP Plusz-2.2.0-23 | Vasúthálózat szűk keresztmetszet kiváltás TEN-T korridoron (Békéscsaba–Lőkösháza) | KBM | 148,7 | 2025 | A 120. számú vasútvonal Békéscsaba (kiz) – Lőkösháza oh. közötti országos közforgalmú vasúti vonalszakasz korszerűsítése: a meglévő vasúti pálya átépítése, második vágány építése, a teljes villamos vontatási felsővezeték hálózat és energiaellátás korszerűsítése, biztosítóberendezési és távközlési munkák kivitelezése, ETCS L2 kivitelezési és kapcsolódó munkák megvalósítása. A projektszakaszon korszerűsítendő állomások: Szabadkígyós állomás, Kétegyháza állomás, Lőkösháza állomás. |
+
+| 80. | IKOP Plusz-2.2.0-23 | Cegléd–Kiskunfélegyháza vasútfejlesztési projekt – Bács-Kiskun vármegyei szakasz | KBM | 4,5 | 2026 | Szeged vasúti elérhetőségének javítása miatt szükséges infrastruktúra-beavatkozás |
+
+| 81. | IKOP Plusz-2.2.0-23 | 140-es vasútvonal Kiskunfélegyháza–Szeged-Rendező kivitelezés | KBM, MÁV Pályaműködtetési Zrt. | 87,5 | 2026 | Kiskunfélegyháza–Szeged-Rendező kivitelezés az EIB vasúti hitellel társfinanszírozva |
+
+| 82. | IKOP Plusz-2.2.0-23 | Hatvan A elág. (bez.) – Füzesabony (kiz.) rekonstrukció (160 km/h) | KBM, MÁV Pályaműködtetési Zrt. | 105 | 2026 | Hatvan A elág. (bez.) – Füzesabony (kiz.) rekonstrukció az EIB vasúti hitellel közös finanszírozva |
+
+| 83. | IKOP Plusz-2.2.0-23 | Pusztaszabolcs–Pécs vasútvonalon szakaszos fejlesztések előkészítése | KBM, MÁV Pályaműködtetési Zrt. | 5 | 2026 | A Nyugat-Magyarország Masterplan alapján fejlesztendő szakaszok azonosítása és azok megvalósításra irányuló közbeszerzési eljárásokhoz szükséges előkészítési és tervezési feladatok elvégzése |
+
+| 84. | IKOP Plusz-2.2.0-23 | Füzesabony, Nyékládháza, Kisvárda MÁV villamos alállomások fejlesztése | MÁV Pályaműködtetési Zrt. | 8,7 | 2026 | Füzesabony, Nyékládháza MÁV villamos alállomások fejlesztése, Kisvárda alállomás előkészítése |
+
+| 85. | IKOP Plusz-3.2.0-25 | EuroVelo 6 Dunaalmás– Süttő kerékpárút – neszmélyi szakasz megvalósítása | KBM, Magyar Közút Nonprofit Zrt. | 3,30 | 2026 | Kerékpárút-hálózati elemek fejlesztése |
+
+| 86. | IKOP Plusz-3.2.0-25 | EuroVelo 6 Lábatlan–Esztergom kerékpárút – Tát–Esztergom szakasz előkészítése és megvalósítása | KBM, Magyar Közút Nonprofit Zrt. | 2,80 | 2026 | Kerékpárút-hálózati elemek fejlesztése |
+
+| 87. | IKOP Plusz-3.2.0-25 | EuroVelo 6 Komárom–Dunaalmás kerékpárút – almásfüzitői szakasz megvalósítása, valamint az EuroVelo 6 Süttő–Lábatlan kerékpárút megvalósítása | KBM, Magyar Közút Nonprofit Zrt. | 10,70 | 2026 | Kerékpárút-hálózati elemek fejlesztése |
+
+| 88. | IKOP Plusz-3.2.0-25 | EuroVelo 14 kerékpárút Tihany–Balatonfűzfő közötti szakasz fejlesztése | KBM, Magyar Közút Nonprofit Zrt. | 3,7 | 2025 | Kerékpárút-hálózati elemek fejlesztése |
+
+| 89. | IKOP Plusz-3.2.0-25 | EuroVelo 14 kerékpárút Tiszafüred–Debrecen szakaszának előkészítése és Tiszafüred–Hortobágy szakasz kiépítése | KBM, Magyar Közút Nonprofit Zrt. | 7,4 | 2025 | Kerékpárút-hálózati elemek fejlesztése |
 
 [^1]: Az 1. pont b) alpontját az 1125/2025. (IV. 22.) Korm. határozat 7. pont a) alpontja hatályon kívül helyezte.
-[^2]: Az 1. mellékletben foglalt táblázat D:2 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.1. pontja szerint módosított szöveg.
-[^3]: Az 1. mellékletben foglalt táblázat E:2 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^4]: Az 1. mellékletben foglalt táblázat D:3 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.2. pontja szerint módosított szöveg.
-[^5]: Az 1. mellékletben foglalt táblázat E:3 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^6]: Az 1. mellékletben foglalt táblázat C:4 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.3. pontja szerint módosított szöveg.
-[^7]: Az 1. mellékletben foglalt táblázat D:4 mezője az 1122/2026. (IV. 2.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^8]: Az 1. mellékletben foglalt táblázat E:4 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^9]: Az 1. mellékletben foglalt táblázat C:5 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.4. pontja szerint módosított szöveg.
-[^10]: Az 1. mellékletben foglalt táblázat E:5 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^11]: Az 1. mellékletben foglalt táblázat D:6 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.5. pontja szerint módosított szöveg.
-[^12]: Az 1. mellékletben foglalt táblázat E:6 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^13]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.6. pontja szerint módosított szöveg.
-[^14]: Az 1. mellékletben foglalt táblázat E:7 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.4. alpontjával megállapított szöveg.
-[^15]: Az 1. mellékletben foglalt táblázat B:8 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
-[^16]: Az 1. mellékletben foglalt táblázat D:8 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.2. alpontja szerint módosított szöveg.
-[^17]: Az 1. mellékletben foglalt táblázat E:8 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.9. alpontjával megállapított szöveg.
-[^18]: Az 1. mellékletben foglalt táblázat F:8 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.3. alpontja szerint módosított szöveg.
-[^19]: Az 1. mellékletben foglalt táblázat 8a. sorát az 1339/2025. (IX. 18.) Korm. határozat 2. pontja iktatta be.
-[^20]: Az 1. mellékletben foglalt táblázat B:10 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.7. pontja szerint módosított szöveg.
-[^21]: Az 1. mellékletben foglalt táblázat C:10 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.8. pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat D:10 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.9. pontja szerint módosított szöveg.
-[^23]: Az 1. mellékletben foglalt táblázat E:10 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.10. pontja szerint módosított szöveg.
-[^24]: Az 1. mellékletben foglalt táblázat F:10 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.11. pontja szerint módosított szöveg.
-[^25]: Az 1. mellékletben foglalt táblázat B:11 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.12. pontja szerint módosított szöveg.
-[^26]: Az 1. mellékletben foglalt táblázat C:11 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.13. pontja szerint módosított szöveg.
-[^27]: Az 1. mellékletben foglalt táblázat E:11 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.10. alpontjával megállapított szöveg.
-[^28]: Az 1. mellékletben foglalt táblázat F:11 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.14. pontja szerint módosított szöveg.
-[^29]: Az 1. mellékletben foglalt táblázat C:12 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.15. pontja szerint módosított szöveg.
-[^30]: Az 1. mellékletben foglalt táblázat E:12 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.10. alpontjával megállapított szöveg.
-[^31]: Az 1. mellékletben foglalt táblázat E:13 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.10. alpontjával megállapított szöveg.
-[^32]: Az 1. mellékletben foglalt táblázat E:14 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.10. alpontjával megállapított szöveg.
-[^33]: Az 1. mellékletben foglalt táblázat B:15 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.16. pontja szerint módosított szöveg.
-[^34]: Az 1. mellékletben foglalt táblázat C:15 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.17. pontja szerint módosított szöveg.
-[^35]: Az 1. mellékletben foglalt táblázat E:15 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.10. alpontjával megállapított szöveg.
-[^36]: [Az 1. mellékletben foglalt táblázat C:17 mezőben az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.18. pontja által elrendelt módosítás, amely szerint az „ÉKM – MÁV Zrt.” szövegrész helyébe az „ÉKM, MÁV Pályaműködtetési Zrt.” szöveg lép, nem vezethető át.]
-[^37]: Az 1. mellékletben foglalt táblázat E:17 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.19. pontja szerint módosított szöveg.
-[^38]: Az 1. mellékletben foglalt táblázat 17a. sorát az 1018/2025. (II. 7.) Korm. határozat 5. pontja iktatta be.
-[^39]: Az 1. mellékletben foglalt táblázat C:17a mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.20. pontja szerint módosított szöveg.
-[^40]: Az 1. mellékletben foglalt táblázat 17b. sorát az 1168/2025. (V. 26.) Korm. határozat 2. pontja iktatta be.
-[^41]: Az 1. mellékletben foglalt táblázat E:19 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.21. pontja szerint módosított szöveg.
-[^42]: Az 1. mellékletben foglalt táblázat B:20 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.22. pontja szerint módosított szöveg.
-[^43]: Az 1. mellékletben foglalt táblázat E:20 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.5. alpontjával megállapított szöveg.
-[^44]: Az 1. mellékletben foglalt táblázat C:21 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.4. alpontja szerint módosított szöveg.
-[^45]: Az 1. mellékletben foglalt táblázat D:21 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.23. pontja szerint módosított szöveg.
-[^46]: Az 1. mellékletben foglalt táblázat E:21 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.5. alpontjával megállapított szöveg.
-[^47]: Az 1. mellékletben foglalt táblázat D:22 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.24. pontja szerint módosított szöveg.
-[^48]: Az 1. mellékletben foglalt táblázat E:22 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.5. alpontjával megállapított szöveg.
-[^49]: Az 1. mellékletben foglalt táblázat E:23 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.5. alpontjával megállapított szöveg.
-[^50]: Az 1. mellékletben foglalt táblázat B:24 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.25. pontja szerint módosított szöveg.
-[^51]: Az 1. mellékletben foglalt táblázat C:24 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.26. pontja szerint módosított szöveg.
-[^52]: Az 1. mellékletben foglalt táblázat D:24 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.27. pontja szerint módosított szöveg.
-[^53]: Az 1. mellékletben foglalt táblázat E:24 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.11. alpontjával megállapított szöveg.
-[^54]: Az 1. mellékletben foglalt táblázat F:24 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.28. pontja szerint módosított szöveg.
-[^55]: Az 1. mellékletben foglalt táblázat 24a. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^56]: Az 1. mellékletben foglalt táblázat 24b. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^57]: Az 1. mellékletben foglalt táblázat C:25 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.29. pontja szerint módosított szöveg.
-[^58]: Az 1. mellékletben foglalt táblázat E:25 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.11. alpontjával megállapított szöveg.
-[^59]: Az 1. mellékletben foglalt táblázat 25a. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^60]: Az 1. mellékletben foglalt táblázat B:26 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.30. pontja szerint módosított szöveg.
-[^61]: Az 1. mellékletben foglalt táblázat C:26 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.5. alpontja szerint módosított szöveg.
-[^62]: Az 1. mellékletben foglalt táblázat D:26 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.31. pontja szerint módosított szöveg.
-[^63]: Az 1. mellékletben foglalt táblázat E:26 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.11. alpontjával megállapított szöveg.
-[^64]: Az 1. mellékletben foglalt táblázat F:26 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.32. pontja szerint módosított szöveg.
-[^65]: Az 1. mellékletben foglalt táblázat 26a. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^66]: Az 1. mellékletben foglalt táblázat C:26a. mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.6. alpontja szerint módosított szöveg.
-[^67]: Az 1. mellékletben foglalt táblázat 27. sorát az 1125/2025. (IV. 22.) Korm. határozat 7. pont b) alpontja hatályon kívül helyezte.
-[^68]: Az 1. mellékletben foglalt táblázat B:28 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.33. pontja szerint módosított szöveg.
-[^69]: Az 1. mellékletben foglalt táblázat C:28 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.34. pontja szerint módosított szöveg.
-[^70]: Az 1. mellékletben foglalt táblázat D:28 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.35. pontja szerint módosított szöveg.
-[^71]: Az 1. mellékletben foglalt táblázat E:28 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.12. alpontjával megállapított szöveg.
-[^72]: Az 1. mellékletben foglalt táblázat F:28 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.36. pontja szerint módosított szöveg.
-[^73]: Az 1. mellékletben foglalt táblázat E:29 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.12. alpontjával megállapított szöveg.
-[^74]: Az 1. mellékletben foglalt táblázat C:30 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.7. alpontja szerint módosított szöveg.
-[^75]: Az 1. mellékletben foglalt táblázat E:30 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.15. alpontjával megállapított szöveg.
-[^76]: Az 1. mellékletben foglalt táblázat F:30 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.1. alpontja szerint módosított szöveg.
-[^77]: Az 1. mellékletben foglalt táblázat C:31 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.37. pontja szerint módosított szöveg.
-[^78]: Az 1. mellékletben foglalt táblázat D:31 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.38. pontja szerint módosított szöveg.
-[^79]: Az 1. mellékletben foglalt táblázat C:32 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.8. alpontja szerint módosított szöveg.
-[^80]: Az 1. mellékletben foglalt táblázat F:32 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.41. pontja szerint módosított szöveg.
-[^81]: Az 1. mellékletben foglalt táblázat 32a. sorát az 1018/2025. (II. 7.) Korm. határozat 5. pontja iktatta be.
-[^82]: Az 1. mellékletben foglalt táblázat C:32a mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.40. pontja szerint módosított szöveg.
-[^83]: Az 1. mellékletben foglalt táblázat 32b. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^84]: Az 1. mellékletben foglalt táblázat C:32b. mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.9. alpontja szerint módosított szöveg.
-[^85]: Az 1. mellékletben foglalt táblázat 32c. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^86]: Az 1. mellékletben foglalt táblázat E:33 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.7. alpontjával megállapított szöveg.
-[^87]: Az 1. mellékletben foglalt táblázat E:34 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.7. alpontjával megállapított szöveg.
-[^88]: Az 1. mellékletben foglalt táblázat E:35 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.7. alpontjával megállapított szöveg.
-[^89]: Az 1. mellékletben foglalt táblázat E:36 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.7. alpontjával megállapított szöveg.
-[^90]: Az 1. mellékletben foglalt táblázat C:37 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.42. pontja szerint módosított szöveg.
-[^91]: Az 1. mellékletben foglalt táblázat C:38 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.43. pontja szerint módosított szöveg.
-[^92]: Az 1. mellékletben foglalt táblázat E:38 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.13. alpontjával megállapított szöveg.
-[^93]: Az 1. mellékletben foglalt táblázat E:39 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.13. alpontjával megállapított szöveg.
-[^94]: Az 1. mellékletben foglalt táblázat C:40 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.44. pontja szerint módosított szöveg.
-[^95]: Az 1. mellékletben foglalt táblázat D:40 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.45. pontja szerint módosított szöveg.
-[^96]: Az 1. mellékletben foglalt táblázat E:40 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.13. alpontjával megállapított szöveg.
-[^97]: Az 1. mellékletben foglalt táblázat C:41 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.46. pontja szerint módosított szöveg.
-[^98]: Az 1. mellékletben foglalt táblázat E:41 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.13. alpontjával megállapított szöveg.
-[^99]: Az 1. mellékletben foglalt táblázat E:42 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.13. alpontjával megállapított szöveg.
-[^100]: Az 1. mellékletben foglalt táblázat 42a. sorát az 1018/2025. (II. 7.) Korm. határozat 5. pontja iktatta be.
-[^101]: Az 1. mellékletben foglalt táblázat C:42a mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.47. pontja szerint módosított szöveg.
-[^102]: Az 1. mellékletben foglalt táblázat 42b. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^103]: Az 1. mellékletben foglalt táblázat D:42b. mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.10. alpontja szerint módosított szöveg.
-[^104]: Az 1. mellékletben foglalt táblázat 42c. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^105]: Az 1. mellékletben foglalt táblázat D:42c. mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.11. alpontja szerint módosított szöveg.
-[^106]: Az 1. mellékletben foglalt táblázat C:43 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.12. alpontja szerint módosított szöveg.
-[^107]: Az 1. mellékletben foglalt táblázat E:43 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.16. alpontjával megállapított szöveg.
-[^108]: Az 1. mellékletben foglalt táblázat D:44 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.13. alpontja szerint módosított szöveg.
-[^109]: Az 1. mellékletben foglalt táblázat E:44 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^110]: Az 1. mellékletben foglalt táblázat D:45 mezője az 1339/2025. (IX. 18.) Korm. határozat 3. pont 3.14. alpontja szerint módosított szöveg.
-[^111]: Az 1. mellékletben foglalt táblázat E:45 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^112]: Az 1. mellékletben foglalt táblázat 46. sorát az 1339/2025. (IX. 18.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^113]: Az 1. mellékletben foglalt táblázat D:47 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.49. pontja szerint módosított szöveg.
-[^114]: Az 1. mellékletben foglalt táblázat E:47 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^115]: Az 1. mellékletben foglalt táblázat C:48 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.61. pontja szerint módosított szöveg.
-[^116]: Az 1. mellékletben foglalt táblázat D:48 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.50. pontja szerint módosított szöveg.
-[^117]: Az 1. mellékletben foglalt táblázat E:48 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^118]: Az 1. mellékletben foglalt táblázat D:49 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.51. pontja szerint módosított szöveg.
-[^119]: Az 1. mellékletben foglalt táblázat E:49 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^120]: Az 1. mellékletben foglalt táblázat D:50 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.52. pontja szerint módosított szöveg.
-[^121]: Az 1. mellékletben foglalt táblázat E:50 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.8. alpontjával megállapított szöveg.
-[^122]: Az 1. mellékletben foglalt táblázat C:51 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.53. pontja szerint módosított szöveg.
-[^123]: Az 1. mellékletben foglalt táblázat C:52 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.54. pontja szerint módosított szöveg.
-[^124]: Az 1. mellékletben foglalt táblázat E:52 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.55. pontja szerint módosított szöveg.
-[^125]: Az 1. mellékletben foglalt táblázat C:53 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.56. pontja szerint módosított szöveg.
-[^126]: Az 1. mellékletben foglalt táblázat E:53 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.14. alpontjával megállapított szöveg.
-[^127]: Az 1. mellékletben foglalt táblázat C:54 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.57. pontja szerint módosított szöveg.
-[^128]: Az 1. mellékletben foglalt táblázat E:54 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.14. alpontjával megállapított szöveg.
-[^129]: Az 1. mellékletben foglalt táblázat B:55 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.2. alpontjával megállapított szöveg.
-[^130]: Az 1. mellékletben foglalt táblázat C:55 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.58. pontja szerint módosított szöveg.
-[^131]: Az 1. mellékletben foglalt táblázat D:55 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.3. alpontjával megállapított szöveg.
-[^132]: Az 1. mellékletben foglalt táblázat E:55 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.14. alpontjával megállapított szöveg.
-[^133]: Az 1. mellékletben foglalt táblázat C:56 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.59. pontja szerint módosított szöveg.
-[^134]: Az 1. mellékletben foglalt táblázat E:56 mezője az 1018/2025. (II. 7.) Korm. határozat 6. pont 6.14. alpontjával megállapított szöveg.
-[^135]: Az 1. mellékletben foglalt táblázat E:57 mezője az 1125/2025. (IV. 22.) Korm. határozat 6. pont 6.60. pontja szerint módosított szöveg.
-[^136]: Az 1. mellékletben foglalt táblázat 58. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^137]: Az 1. mellékletben foglalt táblázat 59. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^138]: Az 1. mellékletben foglalt táblázat 60. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^139]: Az 1. mellékletben foglalt táblázat 61. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
-[^140]: Az 1. mellékletben foglalt táblázat 62. sorát az 1125/2025. (IV. 22.) Korm. határozat 5. pontja iktatta be.
+[^2]: Az 1. melléklet az 1253/2026. (VIII. 7.) Korm. határozat 1. pont a) pont ab) alpontjával megállapított szöveg.
