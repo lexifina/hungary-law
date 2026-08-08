@@ -1,3 +1,3 @@
-7. §[^7]
+7. § A 321/2015. (X. 30.) Korm. rendelet 8. § a) pontja helyébe a következő rendelkezés lép:
 
-[^7]: A 7. § a 24. § (2) bekezdés alapján az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény IV. Fejezete szerinti nyilvántartásban szereplő adatok teljes körű rendelkezésre állását igazoló kormányhatározat Magyar Közlönyben történő közzétételét követő napon lép hatályba.
+(Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban az ajánlatkérő a Kbt. 62. §-a tekintetében a következő igazolásokat és írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:)
