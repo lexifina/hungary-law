@@ -1,6 +1,6 @@
 ## 14. A Végrehajtás Operatív Program Plusz előirányzat speciális felhasználási szabályai
 
-29. § (1)[^57] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Magyar Posta Zártkörűen Működő Részvénytársasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
+29. § (1)[^59] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Magyar Posta Zártkörűen Működő Részvénytársasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
 
 a) a programok sikeres végrehajtása érdekében szükséges hatékony adminisztratív kapacitás és feltételrendszer biztosításához elengedhetetlen költségek,
 
@@ -16,11 +16,11 @@ f) az OLAF Koordinációs Iroda vonatkozásában a támogatások felhasználása
 
 finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
 
-(2)[^58] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatási szerződés vagy támogatói okirat határozza meg.
+(2)[^60] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatási szerződés vagy támogatói okirat határozza meg.
 
 (3) A támogatási szerződésnek vagy támogatói okiratnak tartalmaznia kell legalább
 
-a)[^59] a támogatott tevékenység meghatározását, a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
+a)[^61] a támogatott tevékenység meghatározását, a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
 
 b) a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket,
 
@@ -44,6 +44,6 @@ k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem kö
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring és információs rendszert kell alkalmazni.
 
-[^57]: A 29. § (1) bekezdés nyitó szövegrésze az 58/2025. (III. 26.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^58]: A 29. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^59]: A 29. § (3) bekezdés a) pontja az 51/2024. (III. 4.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^59]: A 29. § (1) bekezdés nyitó szövegrésze az 58/2025. (III. 26.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^60]: A 29. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^61]: A 29. § (3) bekezdés a) pontja az 51/2024. (III. 4.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.

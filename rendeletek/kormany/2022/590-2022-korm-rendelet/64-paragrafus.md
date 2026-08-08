@@ -1,4 +1,4 @@
-64. §[^102] A Svájci–Magyar Együttműködési Program II. előirányzat (XIX. fejezet, 3. cím, 5. alcím) vonatkozásában
+64. §[^104] A Svájci–Magyar Együttműködési Program II. előirányzat (XIX. fejezet, 3. cím, 5. alcím) vonatkozásában
 
 a) kötelezettségvállaló:
 
@@ -18,4 +18,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^102]: A 64. § az 51/2024. (III. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^104]: A 64. § az 51/2024. (III. 4.) Korm. rendelet 12. §-ával megállapított szöveg.

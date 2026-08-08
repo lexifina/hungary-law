@@ -1,4 +1,4 @@
-## 7/B.[^44] Az RRF támogatási keretrendszer előirányzat felhasználási szabályai
+## 7/B.[^45] Az RRF támogatási keretrendszer előirányzat felhasználási szabályai
 
 16/B. § (1) Az RRF támogatási keretrendszer előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) a Helyreállítási és Ellenállóképességi (Rezilienciaépítési) Eszközből lehívott források terhére történő támogatásnyújtásra szolgál.
 
@@ -18,4 +18,4 @@ jelenik meg.
 
 (6) A támogatási keretrendszert végrehajtó szerv forintban vezetett elkülönített számláján – az átadott forrás összegénél kisebb összegben történő végső kedvezményezetti folyósításból vagy a végső kedvezményezettek javára kiutalt forrás visszakövetelésből adódóan – rendelkezésre álló, illetve keletkező egyenleg a 373/2022. (IX. 30.) Korm. rendelet szabályai szerint használandó fel.
 
-[^44]: A 7/B. alcímet (16/B. §-t) a 94/2026. (VI. 18.) Korm. rendelet 21. §-a iktatta be.
+[^45]: A 7/B. alcímet (16/B. §-t) a 94/2026. (VI. 18.) Korm. rendelet 21. §-a iktatta be.

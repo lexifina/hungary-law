@@ -12,7 +12,7 @@ b) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt 
 
 ba) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendeletben [a továbbiakban: 197/2018. (X. 24.) Korm. rendelet] meghatározott tevékenységekből eredően,
 
-bb)[^30] a 2014–2020 és a 2021–2027 közötti kohéziós politikai operatív programokhoz kapcsolódóan,
+bb)[^31] a 2014–2020 és a 2021–2027 közötti kohéziós politikai operatív programokhoz kapcsolódóan,
 
 bc) az INTERREG Közösségi Kezdeményezés programokhoz kapcsolódóan,
 
@@ -24,9 +24,9 @@ bf) a Svájci Hozzájárulás támogatásból megvalósuló programokhoz, projek
 
 bg) az Európai Területi Együttműködés lebonyolításához kapcsolódóan,
 
-bh)[^31] a PHARE és Átmeneti támogatás programokhoz kapcsolódóan, valamint
+bh)[^32] a PHARE és Átmeneti támogatás programokhoz kapcsolódóan, valamint
 
-bi)[^32]
+bi)[^33]
 
 c) a 13. § szerinti előirányzat felhasználásával kapcsolatos pénzügyi ellenőrzési feladatok finanszírozása. A feladat ellátásával a Kincstár bízható meg.
 
@@ -40,6 +40,6 @@ c) a 13. § szerinti előirányzat felhasználásával kapcsolatos pénzügyi el
 
 (6) A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
 
-[^30]: A 11. § (1) bekezdés b) pont bb) alpontja az 58/2025. (III. 26.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^31]: A 11. § (1) bekezdés b) pont bh) alpontja az 58/2025. (III. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^32]: A 11. § (1) bekezdés b) pont bi) alpontját az 58/2025. (III. 26.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
+[^31]: A 11. § (1) bekezdés b) pont bb) alpontja az 58/2025. (III. 26.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^32]: A 11. § (1) bekezdés b) pont bh) alpontja az 58/2025. (III. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^33]: A 11. § (1) bekezdés b) pont bi) alpontját az 58/2025. (III. 26.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.

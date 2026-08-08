@@ -1,3 +1,3 @@
-55. §[^85]
+55. §[^87]
 
-[^85]: Az 55. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^87]: Az 55. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.

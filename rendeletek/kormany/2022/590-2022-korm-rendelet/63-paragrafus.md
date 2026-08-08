@@ -1,3 +1,3 @@
-63. §[^101]
+63. §[^103]
 
-[^101]: A 63. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § i) pontja hatályon kívül helyezte.
+[^103]: A 63. §-t a 455/2025. (XII. 29.) Korm. rendelet 4. § i) pontja hatályon kívül helyezte.

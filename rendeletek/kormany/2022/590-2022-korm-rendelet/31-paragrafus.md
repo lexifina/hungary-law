@@ -1,6 +1,6 @@
-31. §[^61] (1) Az előirányzat felhasználásával kapcsolatos, a 396/2015. (XII. 12.) Korm. rendeletben és a 197/2018. (X. 24.) Korm. rendelet 6. § (1) bekezdés j) pontjában meghatározott közreműködő szervezeti feladatokat az SZPI látja el.
+31. §[^63] (1) Az előirányzat felhasználásával kapcsolatos, a 396/2015. (XII. 12.) Korm. rendeletben és a 197/2018. (X. 24.) Korm. rendelet 6. § (1) bekezdés j) pontjában meghatározott közreműködő szervezeti feladatokat az SZPI látja el.
 
-(2)[^62] A közreműködő szervezetre delegált feladatok részletezését, valamint az együttműködés módját a fejezetet irányító szerv, a nemzeti hatóság és a közreműködő szervezet közötti megállapodás rögzíti.
+(2)[^64] A közreműködő szervezetre delegált feladatok részletezését, valamint az együttműködés módját a fejezetet irányító szerv, a nemzeti hatóság és a közreműködő szervezet közötti megállapodás rögzíti.
 
-[^61]: A 31. § a 339/2023. (VII. 25.) Korm. rendelet 50. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^62]: A 31. § (2) bekezdése a 455/2025. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^63]: A 31. § a 339/2023. (VII. 25.) Korm. rendelet 50. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^64]: A 31. § (2) bekezdése a 455/2025. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
