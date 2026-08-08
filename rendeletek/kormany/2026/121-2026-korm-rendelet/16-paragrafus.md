@@ -1,0 +1,3 @@
+16. § A 256/2021. (V. 18.) Korm. rendelet a következő 178/A. §-sal egészül ki:
+
+„178/A. § Az NFK és az irányító hatóság e fejezet szerinti közbeszerzési elszámolhatósági ellenőrzése körében ellenőrzi, hogy a kedvezményezett alkalmazza-e a Kbt. 25. §-át és 62. § (1) bekezdés m) pontját – összhangban az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendelet 61. cikkében foglaltakkal – arra vonatkozóan, hogy a közbeszerzési eljárásban ne vehessen részt olyan gazdasági szereplő, akivel kapcsolatban családi vagy érzelmi okok, politikai szimpátiával vagy nemzeti kötődéssel kapcsolatos okok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt objektíven összeférhetetlennek tekinthető helyzet áll fenn az adott közbeszerzési eljárásban.”
