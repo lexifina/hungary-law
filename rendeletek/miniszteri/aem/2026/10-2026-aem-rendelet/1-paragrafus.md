@@ -4,12 +4,6 @@
 
 ## [3] A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 30. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 25. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet [a továbbiakban: 14/2017. (III. 23.) FM rendelet] 9. §-a a következő (4a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4a) Harmadik országból történő behozatal esetén
-
-a) a szaporítóanyag certifikációs rendszerben kiadott, 43. § (3) bekezdés b) pontja szerinti jelölésének, valamint
-
-b) a C.A.C. kategóriájú szaporítóanyag 43. § (4) bekezdés b) pontja szerinti termelői címkéjének
-
-tartalmaznia kell a (4) bekezdés szerinti információkon kívül a származási ország eredeti hatósági címkéjére való hivatkozást is a harmadik ország által kiadott, a termék egyedi jelölésére szolgáló kód feltüntetésével.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

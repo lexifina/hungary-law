@@ -1,3 +1,3 @@
-3. § A 14/2017. (III. 23.) FM rendelet a következő 52. §-sal egészül ki:
+3. §[^4]
 
-„52. § E rendeletnek a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet módosításáról szóló 10/2026. (VIII. 4.) AÉM rendelettel megállapított 9. § (4a) bekezdése, 42. §-a és 43. §-a a szállítóra, az azonosságra, a jellemzőkre, a növényegészségügyre, a termesztőközegre, az ellenőrzési intézkedésekre, a jelölésre, a fémzárolásra és a csomagolásra vonatkozó kötelezettségek tekintetében a gyümölcstermő növények bizonyos harmadik országokban előállított szaporítóanyagai és gyümölcstermesztésre szánt ültetvényanyagai egyenértékűségéről szóló, 2026. január 12-i (EU) 2026/75 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
