@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-321-20-
 | 2025-12-30 | 2015-321-20-22.22 | 40/2021. (II. 2.) Korm. rendelet |
 | 2026-01-01 | 2015-321-20-22.23 | 371/2025. (XI. 28.) Korm. rendelet |
 | 2026-07-02 | 2015-321-20-22.24 | 105/2026. (VII. 1.) Korm. rendelet |
+| 2026-08-08 | 2015-321-20-22.17 | 54/2023. (II. 27.) Korm. rendelet |

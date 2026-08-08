@@ -26,7 +26,13 @@ b) a Kbt. 63. § (1) bekezdés d) pontjára vonatkozó nyilatkozatot a gazdaság
 
 (2a)[^18] Ha a gazdasági szereplő a Kbt. 63. § (1) bekezdés a) és b) pontja vonatkozásában az egységes európai közbeszerzési dokumentumban a kizárást – az ajánlatkérő mérlegelésétől függően – esetlegesen megalapozó korábbi cselekményről nyilatkozik, – a (3) bekezdésben foglalt eset kivételével – az egységes európai közbeszerzési dokumentumban, illetve szükség esetén külön nyilatkozat benyújtásával ismerteti az érintett cselekmény részletes leírását.
 
-(3)[^19] Ha az érintett gazdasági szereplő a Kbt. 62. § (1) bekezdés a), c)–e), g)–o) pontja, a Kbt. 62. § (2) bekezdése, valamint a Kbt. 63. § (1) bekezdése alapján kizáró okot megalapozó körülmény hatálya alá esik – beleértve azokat az eseteket, amikor a törvényben meghatározott kötelességszegés vagy jogsértés az ajánlatkérő mérlegelése alapján vezet kizáráshoz –, azonban olyan intézkedéseket hozott, amelyek a Kbt. 64. §-a alapján igazolják megbízhatóságát, és ezt a Közbeszerzési Hatóság (a továbbiakban: Hatóság) Kbt. 188. § (4) bekezdése szerinti végleges, vagy közigazgatási per esetén a bíróság Kbt. 188. § (5) bekezdése szerinti jogerős határozatával igazolni tudja, köteles mind a kizáró ok fennállását, mind a jogerős határozat rendelkezésre állását feltüntetni a formanyomtatványon. A formanyomtatványhoz a Hatóság Kbt. 188. § (4) bekezdése szerinti végleges, vagy közigazgatási per esetén a bíróság Kbt. 188. § (5) bekezdése szerinti jogerős határozatát is csatolni kell.
+(3)[^19] Ha az érintett gazdasági szereplő a Kbt. 62. § (1) bekezdés a), c)–e), h)–o) pontja, a Kbt. 62. § (2) bekezdése, valamint a Kbt. 63. § (1) bekezdése alapján kizáró okot megalapozó körülmény hatálya alá esik – beleértve azokat az eseteket, amikor a törvényben meghatározott kötelességszegés vagy jogsértés az ajánlatkérő mérlegelése alapján vezet kizáráshoz –, azonban olyan intézkedéseket hozott, amelyek a Kbt. 64. §-a alapján igazolják megbízhatóságát, és a gazdasági szereplő ezt
+
+a) a Kbt. 62. § (1) bekezdés a) pontjában említett kizáró okok vonatkozásában az Integritás Hatóság által vezetett, a közbeszerzési eljárásból kizárt gazdasági szereplők nyilvántartásából való törléséről szóló döntésével vagy az arról szóló döntésével, hogy az öntisztázási intézkedésekre tekintettel a gazdasági szereplőt nem veszi fel a nyilvántartásba,
+
+b) egyéb kizáró okok vonatkozásában a Közbeszerzési Hatóság (a továbbiakban: Hatóság) Kbt. 188. § (4) bekezdése szerinti végleges vagy közigazgatási per esetén a bíróság Kbt. 188. § (5) bekezdése szerinti jogerős határozatával
+
+igazolni tudja, köteles mind a kizáró ok fennállását, mind az Integritás Hatóság a) pont szerinti döntésének vagy a Hatóság, illetve a bíróság jogerős határozatának rendelkezésre állását feltüntetni a formanyomtatványon. A formanyomtatványhoz az Integritás Hatóság a) pont szerinti döntését vagy közigazgatási per esetén a bíróság jogerős határozatát, a Hatóság Kbt. 188. § (4) bekezdése szerinti végleges vagy közigazgatási per esetén a bíróság Kbt. 188. § (5) bekezdése szerinti jogerős határozatát is csatolni kell.
 
 (4) Az (1) bekezdés a)–c) pontja alapján megtett nyilatkozat a Kbt. 62. § (2) bekezdésében említett személyekre is vonatkozik.
 
@@ -36,4 +42,4 @@ b) a Kbt. 63. § (1) bekezdés d) pontjára vonatkozó nyilatkozatot a gazdaság
 [^16]: A 4. § (1a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^17]: A 4. § (1b) bekezdését a 40/2021. (II. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^18]: A 4. § (2a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^19]: A 4. § (3) bekezdése a 40/2021. (II. 2.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 427/2024. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (3) bekezdése az 54/2023. (II. 27.) Korm. rendelet 6. §-ával megállapított szöveg.

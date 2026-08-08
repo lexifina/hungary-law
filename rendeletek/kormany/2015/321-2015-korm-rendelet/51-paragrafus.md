@@ -6,8 +6,8 @@ b) közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésér�
 
 c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek
 
-d)[^119] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek
+d)[^122] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^119]: Az 51. § d) pontját a 317/2022. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^122]: Az 51. § d) pontját a 317/2022. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.

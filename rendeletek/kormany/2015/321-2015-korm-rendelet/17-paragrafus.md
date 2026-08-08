@@ -1,15 +1,15 @@
 17. § (1) Az ajánlattevőnek és a részvételre jelentkezőnek ajánlatában, illetve részvételi jelentkezésében a Kbt. Harmadik Része szerint lefolytatott közbeszerzési eljárásban egyszerű nyilatkozatot kell benyújtania arról, hogy nem tartozik a felhívásban előírt kizáró okok hatálya alá, valamint a Kbt. 62. § (1) bekezdés k) pont kb) pontját a 8. § i) pont ib) alpontja és a 10. § g) pont gb) alpontjában foglaltak szerint kell igazolnia. Az egységes európai közbeszerzési dokumentum nem alkalmazandó, azonban az ajánlatkérő köteles elfogadni, ha az ajánlattevő vagy a részvételre jelentkező a 7. § szerinti – korábbi közbeszerzési eljárásban felhasznált – egységes európai közbeszerzési dokumentumot nyújt be, feltéve, hogy az abban foglalt információk megfelelnek a valóságnak, és tartalmazzák az ajánlatkérő által a kizáró okok és az alkalmasság igazolása tekintetében megkövetelt információkat. Az egységes európai közbeszerzési dokumentumban foglalt információk valóságtartalmáért az ajánlattevő felel.
 
-(1a)[^52] Ha a gazdasági szereplőt a Kbt. 62. § (1) bekezdés h) vagy j) pontja szerinti okból az e pontokban meghatározott határidőn belül korábbi közbeszerzési vagy koncessziós beszerzési eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, vagy ha a 63. § (1) bekezdés a) és b) pontjában foglalt kizáró ok szerinti valamely körülmény fennáll, az ajánlattevő vagy részvételre jelentkező (1) bekezdés szerinti nyilatkozatának tartalmaznia kell a korábbi kizárás körülményeinek, illetve az érintett cselekménynek a részletes leírását.
+(1a)[^55] Ha a gazdasági szereplőt a Kbt. 62. § (1) bekezdés h) vagy j) pontja szerinti okból az e pontokban meghatározott határidőn belül korábbi közbeszerzési vagy koncessziós beszerzési eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, vagy ha a 63. § (1) bekezdés a) és b) pontjában foglalt kizáró ok szerinti valamely körülmény fennáll, az ajánlattevő vagy részvételre jelentkező (1) bekezdés szerinti nyilatkozatának tartalmaznia kell a korábbi kizárás körülményeinek, illetve az érintett cselekménynek a részletes leírását.
 
-(1b)[^53] A Kbt. 62. § (1) bekezdés c) pontjában foglalt helyzetek fennállása esetén a Kbt. 62. § (1a) bekezdése tekintetében az ajánlattevő vagy részvételre jelentkező (1) bekezdés szerinti nyilatkozatának tartalmaznia kell a szerződés teljesítésére való képességével kapcsolatos információkat.
+(1b)[^56] A Kbt. 62. § (1) bekezdés c) pontjában foglalt helyzetek fennállása esetén a Kbt. 62. § (1a) bekezdése tekintetében az ajánlattevő vagy részvételre jelentkező (1) bekezdés szerinti nyilatkozatának tartalmaznia kell a szerződés teljesítésére való képességével kapcsolatos információkat.
 
 (2) Az alvállalkozó és adott esetben az alkalmasság igazolásában résztvevő más szervezet vonatkozásában az ajánlattevő vagy részvételre jelentkező nyilatkozatot nyújt be arról, hogy az érintett gazdasági szereplők vonatkozásában nem állnak fenn az eljárásban előírt kizáró okok.
 
-(2a)[^54] A 14. § (2) bekezdése a Kbt. Harmadik Része szerint lefolytatott közbeszerzési eljárásban is alkalmazandó.
+(2a)[^57] A 14. § (2) bekezdése a Kbt. Harmadik Része szerint lefolytatott közbeszerzési eljárásban is alkalmazandó.
 
 (3) Ha az ajánlatkérő a Kbt. 117. §-a alapján önállóan kialakított szabályok szerint jár el, a felhívásban előírt kizáró okok igazolásának módját e rendeletben meghatározottak szerint írhatja elő.
 
-[^52]: A 17. § (1a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.
-[^53]: A 17. § (1b) bekezdését a 40/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.
-[^54]: A 17. § (2a) bekezdését a 105/2026. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^55]: A 17. § (1a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.
+[^56]: A 17. § (1b) bekezdését a 40/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.
+[^57]: A 17. § (2a) bekezdését a 105/2026. (VII. 1.) Korm. rendelet 6. §-a iktatta be.

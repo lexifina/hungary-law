@@ -1,8 +1,8 @@
-29. § (1)[^93] A hatósági hivatalos jegyzéket a Hatóság az EKR-ben közzéteszi.
+29. § (1)[^96] A hatósági hivatalos jegyzéket a Hatóság az EKR-ben közzéteszi.
 
 (2) A hatósági hivatalos jegyzék tartalmazza a minősített ajánlattevő
 
-a)[^94] nevét, székhelyét (lakóhelyét), adószámát (adóazonosító jelét);
+a)[^97] nevét, székhelyét (lakóhelyét), adószámát (adóazonosító jelét);
 
 b) a jegyzék szerinti besorolását;
 
@@ -10,10 +10,10 @@ c) a jegyzékbe bejegyzésének időpontját;
 
 d) által igazolt minősítési szempontokat.
 
-(2a)[^95] A hatósági hivatalos névjegyzék a (2) bekezdés b)–d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2a)[^98] A hatósági hivatalos névjegyzék a (2) bekezdés b)–d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A Hatóság, mint a hatósági hivatalos jegyzéket vezető szervezet a címét köteles megküldeni az Európai Unió többi tagállamának és az Európai Bizottságnak.
 
-[^93]: A 29. § (1) bekezdése a 40/2021. (II. 2.) Korm. rendelet 12. § 14. pontja, a 342/2025. (X. 31.) Korm. rendelet 36. §-a szerint módosított szöveg.
-[^94]: A 29. § (2) bekezdés a) pontja az 503/2021. (VIII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^95]: A 29. § (2a) bekezdését a 342/2025. (X. 31.) Korm. rendelet 34. §-a iktatta be.
+[^96]: A 29. § (1) bekezdése a 40/2021. (II. 2.) Korm. rendelet 12. § 14. pontja, a 342/2025. (X. 31.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^97]: A 29. § (2) bekezdés a) pontja az 503/2021. (VIII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^98]: A 29. § (2a) bekezdését a 342/2025. (X. 31.) Korm. rendelet 34. §-a iktatta be.
