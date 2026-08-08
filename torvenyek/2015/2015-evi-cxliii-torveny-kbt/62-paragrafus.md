@@ -6,7 +6,7 @@
 
 62. § (1) Az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki
 
-a) az alábbi bűncselekmények valamelyikét elkövette, és a bűncselekmény elkövetése az elmúlt öt évben jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült:
+a) az alábbi bűncselekmények valamelyikét elkövette, és a bűncselekmény elkövetése jogerős bírósági ügydöntő határozatban megállapítást nyert, az Integritás Hatóság által az Eufetv. 28. § (3) bekezdése szerint megállapított időpontig, vagy ennek hiányában – ha a büntetett előélethez fűződő hátrányok alól hamarabb nem mentesült – a bíróság ügydöntő határozata jogerőre emelkedésétől számított négy évig:
 
 aa) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény), illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti bűnszervezetben részvétel, ideértve a bűncselekmény bűnszervezetben történő elkövetését is;
 
@@ -76,11 +76,11 @@ q)
 
 (1a) Az (1) bekezdés c) pontja azzal az eltéréssel alkalmazandó, hogy az ajánlatkérő dönthet úgy, hogy nem zárja ki azon gazdasági szereplőt, amelynek tekintetében a kizáró ok szerinti valamely helyzet fennáll, amennyiben az ajánlatkérő megállapította, hogy – az üzletmenet-folytonosság biztosításával kapcsolatos jogszabályokat és intézkedéseket figyelembe véve – az érintett gazdasági szereplő képes lesz a szerződés teljesítésére.
 
-(2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában, amennyiben
+(2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában az Integritás Hatóság által az Eufetv. 28. § (3) bekezdése szerint meghatározott időpontig, vagy ennek hiányában – ha a büntetett előélethez fűződő hátrányok alól hamarabb nem mentesült – az ügydöntő bírósági határozat jogerőre emelkedésétől számított négy évig, ha
 
-a) vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője vagy gazdasági társaság esetén annak egyedüli tagja, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve személyes joga szerint az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy olyan személy, akivel szemben az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt az elmúlt öt évben jogerős ítéletet hoztak és a büntetett előélethez fűződő hátrányok alól nem mentesült, vagy
+a) vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve személyes joga szerint az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy, vagy a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa olyan személy, akivel szemben az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt a bíróság jogerős ügydöntő határozatot hozott, vagy
 
-b) az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt a jogerős ítéletet az elmúlt öt évben – vagy ha ez rövidebb az adott bűncselekmény kapcsán az elítélt büntetett előélethez fűződő hátrányok alóli mentesüléséhez szükséges időn belül – olyan személlyel szemben hozták, aki a bűncselekmény elkövetésekor a gazdasági szereplő vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője vagy gazdasági társaság esetén annak egyedüli tagja, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy volt.
+b) az (1) bekezdés a) pontjában meghatározott bűncselekmény miatt a bíróság jogerős ügydöntő határozatot olyan személlyel szemben hozott, aki a bűncselekmény elkövetésekor a gazdasági szereplő vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője, vagy személyes joga szerinti hasonló ügyvezető vagy felügyelő szervének tagja, illetve személyes joga szerint az előbbieknek megfelelő döntéshozatali jogkörrel rendelkező személy, vagy a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa volt.
 
 (3) Az (1) bekezdés b) pontjában említett adófizetési kötelezettség alatt a belföldi székhelyű gazdasági szereplő tekintetében az állami adóhatóság és a vámhatóság által nyilvántartott adófizetési kötelezettséget kell érteni.
 
