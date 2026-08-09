@@ -1,1 +1,3 @@
-44. § A 373/2022. (IX. 30.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
+44. §[^45]
+
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

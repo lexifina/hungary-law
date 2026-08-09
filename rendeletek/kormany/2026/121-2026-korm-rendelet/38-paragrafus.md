@@ -1,9 +1,3 @@
-38. § A 373/2022. (IX. 30.) Korm. rendelet 139. § (2) bekezdése helyébe a következő rendelkezés lép:
+38. §[^39]
 
-„(2) A támogatás egyszerűsített elszámolás alapján történő kifizetése teljesíti a valósköltség-alapú elszámolás elvét, ha a költségek
-
-a) az Európai Bizottság által kidolgozott vagy
-
-b) az NFK vagy a szakpolitikai felelős által kidolgozott és az audit hatóság által előzetesen véleményeztetett
-
-módszertan alapján kerültek elszámolásra.”
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-29. § A 373/2022. (IX. 30.) Korm. rendelet 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+29. §[^30]
 
-„(2) A nemzeti hatóság rendszeresen ellenőrzi, hogy a lebonyolító szerv, a támogatást kihelyező szerv, a támogatási keretrendszert végrehajtó szerv és a pénzügyi eszközt végrehajtó szerv teljesíti-e az (1) bekezdésben meghatározott feladatokat.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

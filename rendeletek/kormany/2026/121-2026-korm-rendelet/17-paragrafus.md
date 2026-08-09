@@ -1,3 +1,3 @@
-17. § A 256/2021. (V. 18.) Korm. rendelet 519. §-a a következő (7) bekezdéssel egészül ki:
+17. §[^18]
 
-„(7) A Kbt. hatálya alá nem tartozó beszerzési eljárás esetén a 178/A. §-t az adott beszerzésre irányadó összeférhetetlenségi szabályok ellenőrzése tekintetében kell alkalmazni.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

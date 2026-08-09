@@ -1,5 +1,3 @@
-## „i) a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában – ideértve a támogatást igénylő előzetes ellenőrzését –, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során arról, hogy következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe vegye és rendszerszinten használja az ARACHNE+ kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, köteles a döntéshozatala során figyelembe venni, és következetesen nyomon követni az ARACHNE+ kockázatértékelő eszköz által jelzett kockázatokat, valamint az ekként jelzett kockázatok esetén a további ellenőrzéseket elvégzi,”
+25. §[^26]
 
-25. § A 373/2022. (IX. 30.) Korm. rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Lebonyolító szerv bevonása esetén a lebonyolító szerv feladatait az 1. mellékletben foglalt táblázat D oszlopában az adott programterülethez meghatározott szervezetnek a 62. § (1) bekezdés g) pontja szerinti definíciós adatlapon felelős lebonyolító szervként megjelölt szervezeti egysége látja el.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

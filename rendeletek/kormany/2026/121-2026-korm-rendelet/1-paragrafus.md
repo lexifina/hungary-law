@@ -12,12 +12,6 @@
 
 ## 1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
 
-1. § (1) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 10. § (2) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[Az NFK az (1) bekezdés 7. pontja keretében]
-
-## „3. ellátja a központi koordinációt az ARACHNE+ kockázatértékelő eszköz eredményes alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE+ kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant, valamint az adatok gyűjtésére, tárolására, teljes körű és időben történő megküldésére vonatkozó, valamennyi, az 1. § (1) bekezdése szerinti alapból támogatott program végrehajtásában és ellenőrzésében részt vevő intézmény által alkalmazandó eljárásrendet,”
-
-(2) A 272/2014. (XI. 5.) Korm. rendelet 10. § (2) bekezdés 9. és 10. pontja helyébe a következő rendelkezések lépnek:
-
-[Az NFK az (1) bekezdés 7. pontja keretében]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

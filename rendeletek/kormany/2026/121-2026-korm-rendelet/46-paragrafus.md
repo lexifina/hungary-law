@@ -1,5 +1,3 @@
-46. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet 1. mellékletében foglalt táblázat
+46. §[^47]
 
-a) D:5 mezőjében az „Élő Környezetért Felelős Minisztérium,” szövegrész,
-
-b) D:7 mezőjében a „Gazdasági és Energetikai Minisztérium,” szövegrész.
+[^47]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

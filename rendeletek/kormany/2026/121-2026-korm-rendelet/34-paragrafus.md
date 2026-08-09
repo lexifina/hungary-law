@@ -1,3 +1,3 @@
-34. § A 373/2022. (IX. 30.) Korm. rendelet 62. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+34. §[^35]
 
-(A nemzeti hatóság köteles a HET-ben foglalt mérföldkövek és célok vonatkozásában definíciós adatlapot létrehozni, amely tartalmazza)
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

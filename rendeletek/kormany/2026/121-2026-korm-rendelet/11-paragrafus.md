@@ -1,3 +1,3 @@
-11. § A 256/2021. (V. 18.) Korm. rendelet a következő 41/A. §-sal egészül ki:
+11. §[^12]
 
-„41/A. § A közreműködő szervezet, a holdingalapot végrehajtó szervezet és a pénzügyi közvetítő a 19. § (2) bekezdés c) pontja szerint jár el.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
