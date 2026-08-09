@@ -2,9 +2,9 @@
 
 ## a) kifejezi elkötelezettségét a magyar vasúti hálózat átfogó fejlesztése mellett, ezért a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában és 82. § (2) bekezdésében foglaltak alapján az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1501/2023. (XI. 16.) Korm. határozat [a továbbiakban: 1501/2023. (XI. 16.) Korm. határozat], valamint az Integrált Közlekedésfejlesztési Operatív Program Plusz kiemelt projektjeinek megállapításáról szóló 1042/2024. (III. 4.) Korm. határozat [a továbbiakban: 1042/2024. (III. 4.) Korm. határozat] módosítását a következők szerint állapítja meg:
 
-## aa) az 1501/2023. (XI. 16.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép,
+## aa)[^1]
 
-## ab) az 1042/2024. (III. 4.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép;
+## ab)[^2]
 
 ## b) felhívja a vidék- és településfejlesztési minisztert, hogy a közlekedési és beruházási miniszter közreműködésével az Integrált Közlekedésfejlesztés Operatív Program Pluszra vonatkozó kötelezettségvállalások megtételét követően az Operatív Programból forráshiány vagy határidős ok miatt nem finanszírozható projektek vagy projektszakaszok 2028–2034 közötti uniós forráskeretek terhére történő elszámolásának lehetőségét vizsgálja meg;
 
@@ -42,8 +42,13 @@
 
 | Határidő: | folyamatosan, legkésőbb 2030. december 31. |
 
-## e) visszavonja az EuroVelo 6 és EuroVelo 14 kerékpáros útvonalak fejlesztésének egyes kérdéseiről szóló 1172/2025. (V. 26.) Korm. határozatot.
+## e) [^3]
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1253/2026. (VIII. 7.) Korm. határozathoz
+1. melléklet az 1253/2026. (VIII. 7.) Korm. határozathoz[^4]
+
+[^1]: Az 1. pont a) alpont aa) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont a) alpont ab) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont e) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
