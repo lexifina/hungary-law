@@ -1,3 +1,3 @@
-7. § A 321/2015. (X. 30.) Korm. rendelet 8. § a) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban az ajánlatkérő a Kbt. 62. §-a tekintetében a következő igazolásokat és írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
