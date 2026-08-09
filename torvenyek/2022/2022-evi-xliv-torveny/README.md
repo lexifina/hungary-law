@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-44-00-00
 | 2024-06-19 | 2024. évi XXIX. törvény | 2022-44-00-00.11 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2022-44-00-00.12 |
 | 2026-08-08 | 1/2026. (VIII. 11.) IM határozat | 2022-44-00-00.9 |
+| 2026-08-09 | 2010. évi CXXX. törvény | 2022-44-00-00.10 |

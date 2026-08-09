@@ -1,1 +1,1 @@
-49. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (1) bekezdés k) pont kb) alpontjában a „törvény 3. § 38. pont a)–b)” szövegrész helyébe a „törvény (a továbbiakban: Pmt.) 3. § 38. pont a), b)” szöveg lép.
+### 49. §
