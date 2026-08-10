@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-17-30-4
 | 2026-06-15 | 2026-17-30-41.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-07-13 | 2026-17-30-41.6 | 37/2026. (VII. 14.) OGY határozat |
 | 2026-07-20 | 2026-17-30-41.7 | 39/2026. (VII. 20.) OGY határozat |
+| 2026-08-10 | 2026-17-30-41.8 | 44/2026. (VIII. 11.) OGY határozat |
