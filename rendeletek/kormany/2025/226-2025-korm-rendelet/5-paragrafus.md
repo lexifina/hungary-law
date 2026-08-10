@@ -7,3 +7,7 @@
 (4) A nyugdíjas élelmiszer-utalvánnyal történő, (3) bekezdés szerinti elszámolás során a bank az élelmiszert árusító által beváltott nyugdíjas élelmiszer-utalványt a kincstár által közzétett tájékoztatóban meghatározottak szerinti elszámolási összesítővel havonta eljuttatja a kincstár számára. A kincstár az átvett nyugdíjas élelmiszer-utalványt a vonatkozó kincstári eljárásrendjében meghatározott határidő leteltét követően megsemmisíti.
 
 (5) A nyugdíjas élelmiszer-utalvány tekintetében a bank és a kincstár közötti végső elszámolás határideje 2026. május 15.
+
+(6)[^1] Az (1) bekezdés szerinti határidő elmulasztása esetén az élelmiszert árusító a nyugdíjas élelmiszer-utalványt 2026. szeptember 30-áig válthatja be a kincstárnál. A kincstár a beváltáskor a nyugdíjas élelmiszer-utalvány eredetiségének ellenőrzését az utalvány sorszámának és az utalvány biztonsági elemeinek ellenőrzésével végzi. A kincstár a beváltott nyugdíjas élelmiszer-utalvány ellenértékét névértékben, pénzforgalmi számlával nem rendelkező élelmiszert árusító esetén készpénz formájában, egyéb esetben számlapénz formájában biztosítja az ellenőrzés alapján erre jogosult élelmiszert árusító részére. A beváltás módjára vonatkozó tájékoztatót a kincstár a honlapján közzéteszi. A kincstár az átvett nyugdíjas élelmiszer-utalványt a vonatkozó kincstári eljárásrendjében meghatározott határidő leteltét követően megsemmisíti.
+
+[^1]: Az 5. § (6) bekezdését a 120/2026. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
