@@ -1,3 +1,5 @@
-20. §[^23]
+20. § Hatályát veszti a 80/2023. (III. 14.) Korm. rendelet
 
-[^23]: A 20. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+a) 11. § (1) bekezdése,
+
+b) 21. § (7) bekezdésében a „tárgynegyedévre” szövegrész.

@@ -1,3 +1,3 @@
-9. §[^10]
+9. § A 442/2012. (XII. 29.) Korm. rendelet 17. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-[^10]: A 9. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+(Ez a rendelet)

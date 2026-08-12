@@ -22,6 +22,6 @@
 
 ## 1. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló 343/2011. (XII. 29.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló 343/2011. (XII. 29.) Korm. rendelet [a továbbiakban: 343/2011. (XII. 29.) Korm. rendelet] 37. §-a a következő c) ponttal egészül ki:
 
-[^1]: Az 1. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+(Ez a rendelet)

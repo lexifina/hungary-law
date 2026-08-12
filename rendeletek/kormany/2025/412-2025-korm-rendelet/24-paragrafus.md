@@ -1,6 +1,9 @@
-24. § (1)[^28]
+## „d) a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet”
 
-(2)[^29]
+## (végrehajtásához szükséges rendelkezéseket állapít meg.)
 
-[^28]: A 24. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 24. § (2) bekezdése a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+24. § (1)[^10]
+
+(2) Hatályát veszti a 156/2025. (VI. 23.) Korm. rendelet 9. § (1) bekezdés e) pontja.
+
+[^10]: A 24. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,8 @@
-18. § (1)[^19]
+18. § (1)[^6]
 
-(2)[^20]
+(2)[^7]
 
-(3)[^21]
+(3) A 80/2023. (III. 14.) Korm. rendelet 3. melléklete a 4. melléklet szerint módosul.
 
-[^19]: A 18. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 18. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 18. § (3) bekezdése a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+[^6]: A 18. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 18. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

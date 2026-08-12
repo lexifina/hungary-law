@@ -1,3 +1,5 @@
-8. §[^9]
+8. § A 442/2012. (XII. 29.) Korm. rendelet a 10. §-t követően a következő 5/a. alcímmel egészül ki:
 
-[^9]: A 8. § a 26. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+„5/a. A kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedély
+
+10/A. § A koncessziós társaság a kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedély iránti kérelmet terjeszt elő az országos hulladékgazdálkodási hatóságnál a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló kormányrendeletben meghatározott tartalommal.”
