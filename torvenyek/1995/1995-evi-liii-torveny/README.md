@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2025-10-28 | 2025. évi LVII. törvény | 1995-53-00-00.97 |
 | 2025-12-30 | 2025. évi CXXIV. törvény | 1995-53-00-00.99 |
 | 2026-07-31 | 2026. évi XXXVI. törvény | 1995-53-00-00.102 |
+| 2026-08-12 | 2025. évi CXXIV. törvény | 1995-53-00-00.100 |
