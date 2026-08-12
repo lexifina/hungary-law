@@ -1,6 +1,7 @@
-7. § (1)[^11]
+7. § (1)[^10]
 
-(2)[^12]
+(2) A hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29.) Korm. rendelet 19. §-a a következő c) ponttal egészül ki:
 
-[^11]: A 7. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 7. § (2) bekezdése a 15. § (3) bekezdése alapján 2026. augusztus 12-én lép hatályba.
+(Ez a rendelet)
+
+[^10]: A 7. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

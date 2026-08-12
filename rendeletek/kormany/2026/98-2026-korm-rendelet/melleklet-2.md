@@ -1,3 +1,3 @@
-2. melléklet a 98/2026. (VI. 29.) Korm. rendelethez[^21]
+2. melléklet a 98/2026. (VI. 29.) Korm. rendelethez[^19]
 
-[^21]: A 2. melléklet a 15. § (4) bekezdése alapján 2026. december 9-én lép hatályba.
+[^19]: A 2. melléklet a 15. § (4) bekezdése alapján 2026. december 9-én lép hatályba.
