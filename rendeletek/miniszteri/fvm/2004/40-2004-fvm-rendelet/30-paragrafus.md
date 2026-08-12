@@ -84,6 +84,8 @@
 
 41.[^150] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2025. június 2-i (EU) 2025/1079 bizottsági végrehajtási irányelv.
 
+42.[^151] a 2003/90/EK és a 2003/91/EK irányelvnek a karórépa, a takarmánykáposzta, a rizs, a kel csoport, a feketekáposzta csoport, a portugál kel csoport (portugál káposzta), a kínai kel, a paradicsom és a paraj fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2025. december 4-i (EU) 2025/2449 bizottsági végrehajtási irányelv.
+
 [^134]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^135]: A 30. § 2a. pontját a 30/2024. (V. 3.) AM rendelet 4. §-a iktatta be.
 [^136]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -101,3 +103,4 @@
 [^148]: A 30. § 39. pontját a 62/2023. (XI. 22.) AM rendelet 1. §-a iktatta be.
 [^149]: A 30. § 40. pontját a 18/2025. (V. 30.) AM rendelet 1. §-a iktatta be.
 [^150]: A 30. § 41. pontját az 55/2025. (XII. 19.) AM rendelet 1. §-a iktatta be.
+[^151]: A 30. § 42. pontját a 11/2026. (VIII. 11.) AÉM rendelet 1. §-a iktatta be.

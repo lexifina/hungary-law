@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^162]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^163]
 
 I. RÉSZ
 
@@ -34,7 +34,7 @@ I. RÉSZ
 
 | 10/a. | Beta vulgaris L. | Mángold | TP 106/2, 2021.4.14. |
 
-| 11. | Brassica oleracea L. | Leveles kel | TP 90/1 2011. 2. 16. |
+| 11. | Brassica oleracea L. | Leveles kel | TP 90/2, 2025.4.23. |
 
 | 12. | Brassica oleracea L. | Karfiol | TP 45/2 Rev. 3., 2024.4.11. |
 
@@ -46,7 +46,11 @@ I. RÉSZ
 
 | 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 Rev. 3., 2024.4.11. |
 
-| 17. | Brassica rapa L. | Kínai kel | TP 105/1 2008. 3. 13. |
+| 16/a. | Brassica oleracea L. | Feketekáposzta csoport | TP 90/2, 2025.4.23. |
+
+| 16/b. | Brassica oleracea L. | Portugál kel csoport (portugál káposzta) | TP 90/2, 2025.4.23. |
+
+| 17. | Brassica rapa L. | Kínai kel | TP 105/2, 2025.4.23. |
 
 | 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/3, 2025.3.31. |
 
@@ -76,7 +80,7 @@ I. RÉSZ
 
 | 29. | Lactuca sativa L. | Saláta | TP 13/6 Rev. 5., 2025.1.3. |
 
-| 30. | Solanum lycopersicum L. | Paradicsom | TP 44/4 Rev. 5., 2021.4.14. |
+| 30. | Solanum lycopersicum L. | Paradicsom | TP 44/5, 2025.4.23. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 Corr., 2007.3.21. |
 
@@ -94,7 +98,7 @@ I. RÉSZ
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót vagy paraj | TP 55/5 Rev. 4., 2022.4.27. |
+| 37. | Spinacia oleracea L. | Spenót vagy paraj | TP 55/5 Rev. 5., 2025.4.23. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 Rev., 2024.2.29. |
 
@@ -130,4 +134,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^162]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése, a 62/2023. (XI. 22.) AM rendelet 2. § e)–k) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (2) bekezdése, az 55/2025. (XII. 19.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^163]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése, a 62/2023. (XI. 22.) AM rendelet 2. § e)–k) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (2) bekezdése, az 55/2025. (XII. 19.) AM rendelet 2. § (2) bekezdése, a 11/2026. (VIII. 11.) AÉM rendelet 2. § (2) bekezdése szerint módosított szöveg.

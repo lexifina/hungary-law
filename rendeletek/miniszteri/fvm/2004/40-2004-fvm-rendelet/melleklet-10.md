@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^161]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^162]
 
 I. RÉSZ
 
@@ -36,9 +36,13 @@ I. RÉSZ
 
 | 9. | Brassica napus L. (partim) | Káposztarepce | TP 36/4, 2025.3.31. |
 
-| 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
+| 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1 Rev., 2025.4.23. |
 
 | 9/b. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TP 185/1, 2025.3.31. |
+
+| 9/c. | Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. | Takarmánykáposzta (magas törzsű kel) | TP 90/2, 2025.4.23. |
+
+| 9/d. | Brassica oleracea L. convar. acephala (DC.) Alef. var. viridis L. | Takarmánykáposzta (leveles kel) | TP 90/2, 2025.4.23. |
 
 | 10. | Cannabis sativa L. | Kender | TP 276/2 Rev., 2022.12.30. |
 
@@ -54,7 +58,7 @@ I. RÉSZ
 
 | 15. | Hordeum vulgare L. | Árpa | TP 19/5, 2019.3.19. |
 
-| 16. | Oryza sativa L. | Rizs | TP 16/3, 2015.10.1. |
+| 16. | Oryza sativa L. | Rizs | TP 16/4, 2025.5.23. |
 
 | 17. | Secale cereale L. | Rozs | TP 58/1 Rev. Corr., 2022.4.27. |
 
@@ -196,4 +200,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^161]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)–d) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (1) bekezdése, az 55/2025. (XII. 19.) AM rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.
+[^162]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)–d) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (1) bekezdése, az 55/2025. (XII. 19.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 11/2026. (VIII. 11.) AÉM rendelet 2. § (1) bekezdése szerint módosított szöveg.
