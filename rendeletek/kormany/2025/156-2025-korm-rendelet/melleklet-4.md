@@ -34,7 +34,7 @@ A sajátos hulladékgazdálkodási jogsértések esetén alkalmazandó hulladék
 
 | 15 | ha a gyártó nem teljesíti a hulladékká vált gépjárművekről szóló kormányrendeletben előírt átvételi kötelezettségét, kezelési kötelezettségét, vagy az újrahasználatra előkészítés és hasznosítás együttes arányára vagy az újrahasználatra előkészítés, újrafeldolgozás és visszanyerés együttes arányára vonatkozó rendelkezést | 15 000 forint /gépjármű, az előző évi forgalmi adatot alapul véve |
 
-| 16[^7] | A csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet szerinti jogszabályi előírás megsértése esetében |  | 500 000 |
+| 16[^9] | A csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet szerinti jogszabályi előírás megsértése esetében |  | 500 000 |
 
 | 17 | ha a forgalmazó az átvételi vagy visszavételi kötelezettségét nem teljesíti |
 
@@ -82,4 +82,4 @@ A sajátos hulladékgazdálkodási jogsértések esetén alkalmazandó hulladék
 
 | 38 | A forgalmazó a gumiabroncs-hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló kormányrendelet szerinti átvételi kötelezettségének nemteljesítése vagy nem megfelelő teljesítése | 500 000 |
 
-[^7]: A 4. mellékletben foglalt táblázat 16. sorát a 412/2025. (XII. 22.) Korm. rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^9]: A 4. mellékletben foglalt táblázat 16. sorát a 412/2025. (XII. 22.) Korm. rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
