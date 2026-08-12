@@ -4,7 +4,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. csomagolás: a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységről szóló 442/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdés 1. pontjában meghatározott termék;
+1.[^1] csomagolás: a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet szerinti csomagolás;
 
 2. dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 1. § a) pontjában meghatározott termék;
 
@@ -17,3 +17,5 @@ b) az Európai Unió egy másik tagállamában vagy egy harmadik országban lete
 4. halászeszköz: a halászatban vagy akvakultúrában használt felszerelés minden olyan tétele vagy eleme, amelyet a tengerek biológiai erőforrásainak célba vételére, kifogására vagy tenyésztésére használnak, vagy amely a tenger felszínén lebeg, és azzal a céllal lett telepítve, hogy a tengerek biológiai erőforrásait magához vonzza és kifogja vagy tenyéssze;
 
 5. hulladékká vált halászeszköz: a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 23. pontja szerinti fogalom meghatározás alá eső bármely halászeszköz, beleértve minden olyan különálló alkotórészt, tartozékot vagy anyagot, amely ennek a halászeszköznek a része volt, amikor azt eldobták, szándékosan hátrahagyták vagy elveszítették.
+
+[^1]: A 2. § 1. pontja a 412/2025. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-25. §[^13]
+25. §[^15]
 
-[^13]: A 25. § a 19. § (8) bekezdése alapján 2029. december 31-én lép hatályba.
+[^15]: A 25. § a 19. § (8) bekezdése alapján 2029. december 31-én lép hatályba.

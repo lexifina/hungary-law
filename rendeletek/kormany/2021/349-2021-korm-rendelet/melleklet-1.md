@@ -4,7 +4,7 @@ Egyszer használatos műanyagtermékek
 
 1. (EU) 2019/904 európai parlamenti és tanácsi irányelv alapján fogyasztáscsökkentési intézkedéssel érintett termékek
 
-1.1.[^14] Italtartó poharak, beleértve azok tetejét és fedelét, üresen vagy megtöltve.
+1.1.[^16] Italtartó poharak, beleértve azok tetejét és fedelét, üresen vagy megtöltve.
 
 1.2. Ételtároló edények, azaz ételtartók, például dobozok tetővel vagy anélkül, amelyek olyan ételek tárolására szolgálnak, amelyek:
 
@@ -32,7 +32,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 3.3. Dohánytermékek szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba.
 
-3.4.[^15] Italtartó poharak, üresen vagy megtöltve.
+3.4.[^17] Italtartó poharak, üresen vagy megtöltve.
 
 4. Termékkövetelményekkel és elkülönített gyűjtési kötelezettséggel érintett termékek
 
@@ -58,7 +58,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 5.3. Legfeljebb három liter űrtartalmú italtárolók, vagyis folyadék tárolására használatos tárolók, például italpalackok, beleértve a kupakjukat és a fedelüket is, valamint a kompozit italcsomagolás, beleértve a kupakokat és a fedeleket is, kivéve azokat az üveg vagy fém italtárolókat, amelyeknek a kupakja vagy a fedele műanyagból készült.
 
-5.4.[^16] Italtartó poharak, beleértve azok tetejét és a fedelét is, üresen vagy megtöltve.
+5.4.[^18] Italtartó poharak, beleértve azok tetejét és a fedelét is, üresen vagy megtöltve.
 
 5.5. Dohánytermékek szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba.
 
@@ -70,7 +70,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 5.9. Egészségügyi betétek (párnák), tamponok és tamponapplikátorok.
 
-6.[^17] Kiterjesztett gyártói felelősséggel érintett termékek.
+6.[^19] Kiterjesztett gyártói felelősséggel érintett termékek.
 
 6.1. Ételtároló edények, azaz ételtartók vagy dobozok tetővel vagy anélkül, amelyek olyan ételek tárolására szolgálnak, amelyek
 
@@ -98,7 +98,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 6.9. Műanyagot tartalmazó halászeszközök.
 
-[^14]: Az 1. melléklet 1. pont 1.1. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 3. pont 3.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^16]: Az 1. melléklet 5. pont 5.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 6. pontját a 108/2023. (III. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^16]: Az 1. melléklet 1. pont 1.1. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 3. pont 3.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 5. pont 5.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 6. pontját a 108/2023. (III. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
