@@ -1,4 +1,4 @@
-31/A. §[^101] (1) A fórum a miniszter konzultációs szerve, amely önálló döntési jogkörrel nem rendelkezik.
+31/A. §[^104] (1) A fórum a miniszter konzultációs szerve, amely önálló döntési jogkörrel nem rendelkezik.
 
 (2) A fórum a jelenlevő tagok egyszerű többségével, nem kötelező erejű ajánlásokat fogalmazhat meg a miniszter számára. Szavazategyenlőség esetén az elnök szavazata dönt.
 
@@ -10,4 +10,4 @@
 
 (6) A fórum ügyrendjét maga állapítja meg, amelyet a miniszter hagy jóvá.
 
-[^101]: A 31/A. §-t a 465/2024. (XII. 30.) Korm. rendelet 33. §-a iktatta be.
+[^104]: A 31/A. §-t a 465/2024. (XII. 30.) Korm. rendelet 33. §-a iktatta be.

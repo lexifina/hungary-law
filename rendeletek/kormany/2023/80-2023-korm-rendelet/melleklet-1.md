@@ -80,21 +80,21 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 1.9.3. 1511 90 99 vámtarifaszám HR és KN alszám: más pálmaolaj és frakciói, finomítva is, de vegyileg nem átalakítva;
 
-1.9.4.[^119] 1512 19 90 vámtarifaszám HR és KN alszám: más napraforgómag- vagy pórsáfránymagolaj és ezek frakciói;
+1.9.4.[^122] 1512 19 90 vámtarifaszám HR és KN alszám: más napraforgómag- vagy pórsáfránymagolaj és ezek frakciói;
 
-1.9.5.[^120] 1514 19 90 vámtarifaszám HR és KN alszám: más olajrepce-, repce- vagy mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva;
+1.9.5.[^123] 1514 19 90 vámtarifaszám HR és KN alszám: más olajrepce-, repce- vagy mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva;
 
-1.9.6.[^121] 1517 90 91 vámtarifaszám HR és KN alszám: az 1.9.1. – 1.9.5. pont szerinti körforgásos termékek keverékei
+1.9.6.[^124] 1517 90 91 vámtarifaszám HR és KN alszám: az 1.9.1. – 1.9.5. pont szerinti körforgásos termékek keverékei
 
 1.10. textiltermékek:
 
-1.10.1.[^122] 4203 vámtarifaszám: ruházati árucikkek és ruházati tartozékok természetes vagy mesterséges bőrből;
+1.10.1.[^125] 4203 vámtarifaszám: ruházati árucikkek és ruházati tartozékok természetes vagy mesterséges bőrből;
 
 1.10.2. 4205 vámtarifaszám: más árucikk természetes vagy mesterséges bőrből;
 
 1.10.3. 4304 vámtarifaszám: műszőrme és ebből készült áru;
 
-1.10.4.[^123] 57. Árucsoport: szőnyegek és más textil padlóborítók – az 5703 21 vagy 5703 31 vámtarifaszám és HR alszám alá tartozó műfű kivételével;
+1.10.4.[^126] 57. Árucsoport: szőnyegek és más textil padlóborítók – az 5703 21 vagy 5703 31 vámtarifaszám és HR alszám alá tartozó műfű kivételével;
 
 1.10.5. 61. Árucsoport: kötött vagy hurkolt ruházati cikkek, kellékek és tartozékok;
 
@@ -108,7 +108,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 1.10.10. 6304 vámtarifaszám: más lakástextília, a 9404 vámtarifaszám alá tartozók kivételével;
 
-1.10.11.[^124] 64. Árucsoport: lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész);
+1.10.11.[^127] 64. Árucsoport: lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész);
 
 1.11. bútorok fából:
 
@@ -152,7 +152,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 2. | Termékkódok |
 
-| 3.[^125] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
+| 3.[^128] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
 
 | 4. | 12 | egyes egyszer használatos műanyagtermék |
 
@@ -342,7 +342,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | 99 | vegyes elektromos, elektronikus berendezési hulladék |
 
-2.3.3.[^126] Elem, akkumulátor és hulladéka
+2.3.3.[^129] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -482,7 +482,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 8. | 99 | vegyes textilhulladék (19, 29, 39 kódok együtt) |
 
-2.3.10.[^127] Bútor fából és hulladéka
+2.3.10.[^130] Bútor fából és hulladéka
 
 |  | A | B |
 
@@ -498,7 +498,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.4. A KF kód 5. és 6. karaktere: Csoport kód
 
-2.4.1.[^128] Csomagolás és hulladéka a 2.4.2. alpont alá tartozó termékből létrehozott csomagolás kivételével
+2.4.1.[^131] Csomagolás és hulladéka a 2.4.2. alpont alá tartozó termékből létrehozott csomagolás kivételével
 
 |  | A | B |
 
@@ -550,7 +550,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 24 | 90 | vegyes csomagolási hulladék |
 
-2.4.2.[^129] Egyes egyszer használatos műanyagtermék és hulladéka
+2.4.2.[^132] Egyes egyszer használatos műanyagtermék és hulladéka
 
 |  | A | B |
 
@@ -594,7 +594,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 99 | vegyes elektromos, elektronikus berendezés hulladéka |
 
-2.4.4.[^130] Elem, akkumulátor és hulladéka
+2.4.4.[^133] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -606,7 +606,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 99 | hulladék |
 
-2.4.5.[^131] Gépjármű és hulladéka
+2.4.5.[^134] Gépjármű és hulladéka
 
 |  | A | B |
 
@@ -730,7 +730,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.5. A KF kód 7. karaktere: Termék esetén kötelezettséget, hulladék esetén hulladékkezelést jelölő kód
 
-2.5.1.[^132] Kötelezettségteljesítési kód
+2.5.1.[^135] Kötelezettségteljesítési kód
 
 |  | A | B |
 
@@ -748,7 +748,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 7 | D | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/D. § szerint) |
 
-2.5.2.[^133] Hulladékgazdálkodási kód
+2.5.2.[^136] Hulladékgazdálkodási kód
 
 |  | A | B |
 
@@ -768,9 +768,9 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 8. | H | gyűjtött |
 
-| 9.[^134] | I | újrapozícionálásra előkészített |
+| 9.[^137] | I | újrapozícionálásra előkészített |
 
-2.6.[^135] A KF kód 8. karaktere: Származást jelölő kód
+2.6.[^138] A KF kód 8. karaktere: Származást jelölő kód
 
 |  | A | B |
 
@@ -800,20 +800,20 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | X | EU-n kívül újrahasznált/kezelt |
 
-[^119]: Az 1. melléklet 1.9.4. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^120]: Az 1. melléklet 1.9.5. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
-[^121]: Az 1. melléklet 1.9. pont 1.9.6. alpontját a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdése iktatta be.
-[^122]: Az 1. melléklet 1.10.1. pontja a 203/2025. (VII. 17.) Korm. rendelet 32. § f) pontja szerint módosított szöveg.
-[^123]: Az 1. melléklet 1.10.4. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^124]: Az 1. melléklet 1.10.11. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^125]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^126]: Az 1. melléklet 2.3.3. pontja a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^127]: Az 1. melléklet 2.3.10. pontja a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^128]: Az 1. melléklet 2.4.1. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^129]: Az 1. melléklet 2.4.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^130]: Az 1. melléklet 2.4.4. pontja a 203/2025. (VII. 17.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^131]: Az 1. melléklet 2.4.5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^132]: Az 1. melléklet 2.5.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^133]: Az 1. melléklet 2.5.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^134]: Az 1. melléklet 2.5.2. pontjában foglalt táblázat 9. sorát a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdése iktatta be.
-[^135]: Az 1. melléklet 2.6. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^122]: Az 1. melléklet 1.9.4. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^123]: Az 1. melléklet 1.9.5. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^124]: Az 1. melléklet 1.9. pont 1.9.6. alpontját a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdése iktatta be.
+[^125]: Az 1. melléklet 1.10.1. pontja a 203/2025. (VII. 17.) Korm. rendelet 32. § f) pontja szerint módosított szöveg.
+[^126]: Az 1. melléklet 1.10.4. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^127]: Az 1. melléklet 1.10.11. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^128]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^129]: Az 1. melléklet 2.3.3. pontja a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^130]: Az 1. melléklet 2.3.10. pontja a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^131]: Az 1. melléklet 2.4.1. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^132]: Az 1. melléklet 2.4.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^133]: Az 1. melléklet 2.4.4. pontja a 203/2025. (VII. 17.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^134]: Az 1. melléklet 2.4.5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^135]: Az 1. melléklet 2.5.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 1. melléklet 2.5.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^137]: Az 1. melléklet 2.5.2. pontjában foglalt táblázat 9. sorát a 412/2025. (XII. 22.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^138]: Az 1. melléklet 2.6. pontja a 465/2024. (XII. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.

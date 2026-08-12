@@ -22,15 +22,15 @@ c) minden más, az a) és b) pontban nem említett használata, ideértve a szol
 
 (2) A körforgásos termék alapanyagként történő felhasználása esetében a gyártási folyamat során keletkező gyártási selejt, hulladék nem minősül saját célú felhasználásnak.
 
-(3)[^39] Saját célú felhasználásnak minősül a külföldi előállítású csomagolás végleges elválasztása a terméktől, amennyiben az elválasztott csomagolás belföldön csomagolási hulladékká válik.
+(3)[^40] Saját célú felhasználásnak minősül a külföldi előállítású csomagolás végleges elválasztása a terméktől, amennyiben az elválasztott csomagolás belföldön csomagolási hulladékká válik.
 
-(4)[^40]
+(4)[^41]
 
-(5)[^41]
+(5)[^42]
 
-(6)[^42]
+(6)[^43]
 
-[^39]: A 17. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^40]: A 17. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
-[^41]: A 17. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
-[^42]: A 17. § (6) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
+[^40]: A 17. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^41]: A 17. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
+[^42]: A 17. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
+[^43]: A 17. § (6) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 60. §-a iktatta be, a 465/2024. (XII. 30.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.

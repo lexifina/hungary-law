@@ -4,9 +4,9 @@ A gyártó nyilvántartásba vétel iránti kérelmének adattartalma
 
 1. Az 1. melléklet 1. pontjában felsorolt termékek esetében – az 1.3. pontban szereplő termékek kivételével – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 27. §-ában és a Ht. 30/B. § (5) bekezdésében foglalt adatkezelési szabályokra figyelemmel
 
-1.1.[^146] a gyártó neve, székhelye, amely tartalmazza többek között az irányítószámot, a települést, az utcanevet és házszámot, az országot, telefonszáma, és ha van, az internetes és az e-mail-címe, adószáma, adóazonosító jele, KSH statisztikai számjele (ennek hiányában a közösségi vagy nemzetközi adószáma), cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma, Környezetvédelmi Ügyfél Jele (a továbbiakban: KÜJ-azonosító);
+1.1.[^149] a gyártó neve, székhelye, amely tartalmazza többek között az irányítószámot, a települést, az utcanevet és házszámot, az országot, telefonszáma, és ha van, az internetes és az e-mail-címe, adószáma, adóazonosító jele, KSH statisztikai számjele (ennek hiányában a közösségi vagy nemzetközi adószáma), cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma, Környezetvédelmi Ügyfél Jele (a továbbiakban: KÜJ-azonosító);
 
-1.2.[^147] meghatalmazott képviselő igénybevétele esetén a jogi személy meghatalmazott képviselő neve, székhelye, adószáma, cégjegyzékszáma, természetes személy meghatalmazott képviselő családi és utóneve, születési neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási és értesítési helye (postai irányítószám, település, utca, házszám, helyrajzi szám, elektronikuspostafiók-cím), adószáma;
+1.2.[^150] meghatalmazott képviselő igénybevétele esetén a jogi személy meghatalmazott képviselő neve, székhelye (irányítószám, település, utca, házszám, ország, telefonszám és e-mail-cím), adószáma, cégjegyzékszáma, természetes személy meghatalmazott képviselő családi és utóneve, születési neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási és értesítési helye (postai irányítószám, település, utca, házszám, helyrajzi szám, ország, telefonszám, elektronikuspostafiók-cím), adószáma;
 
 1.3. a kapcsolattartó neve, pontos elérhetősége;
 
@@ -20,11 +20,11 @@ A gyártó nyilvántartásba vétel iránti kérelmének adattartalma
 
 2.1. a gyártó által Magyarországon képviselt, forgalmazott márkanevek (amennyiben vannak ilyenek);
 
-2.2.[^148] a gyártó által forgalomba hozni kívánt elem, akkumulátor kategóriája (hordozható elem, illetve akkumulátor; ipari elem, illetve akkumulátor; könnyűszállítóeszköz-elem, illetve -akkumulátor; elektromosjármű-elem, illetve -akkumulátor; indításhoz, világításhoz és gyújtáshoz használt elem, illetve akkumulátor) és ezek kémiai jellemzői;
+2.2.[^151] a gyártó által forgalomba hozni kívánt elem, akkumulátor kategóriája (hordozható elem, illetve akkumulátor; ipari elem, illetve akkumulátor; könnyűszállítóeszköz-elem, illetve -akkumulátor; elektromosjármű-elem, illetve -akkumulátor; indításhoz, világításhoz és gyújtáshoz használt elem, illetve akkumulátor) és ezek kémiai jellemzői;
 
-2.3.[^149] egyéni teljesítés esetén az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet 55. cikk (3) bekezdés d) pontja szerinti adatok.
+2.3.[^152] egyéni teljesítés esetén az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet 55. cikk (3) bekezdés d) pontja szerinti adatok.
 
-3.[^150] Az 1. melléklet 1.5. pontjában felsorolt termékek esetében az 1. pontban foglaltakon túlmenően egyéni teljesítés esetén az átvevő- és kezelőhálózat bejelentésére vonatkozó alábbi adatok:
+3.[^153] Az 1. melléklet 1.5. pontjában felsorolt termékek esetében az 1. pontban foglaltakon túlmenően egyéni teljesítés esetén az átvevő- és kezelőhálózat bejelentésére vonatkozó alábbi adatok:
 
 3.1. az átvevő- és kezelőhálózathoz csatlakozott tagokra vonatkozó adatok: a tagok neve, KÜJ-azonosító, Környezetvédelmi Területi Jel (KTJ), telephely címe (település, utca, házszám);
 
@@ -36,8 +36,11 @@ A gyártó nyilvántartásba vétel iránti kérelmének adattartalma
 
 3.2.3. az átvételt, a kezelést szerződés alapján teljesítő forgalmazók, bontók, továbbá a szárazra fektetés és a bontás során kinyert hulladék további kezelését végző hulladékkezelők listája (névvel és címmel ellátva).
 
-[^146]: A 3. melléklet 1.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 23. § 11. pontja, a 203/2025. (VII. 17.) Korm. rendelet 32. § g) pontja szerint módosított szöveg.
-[^147]: A 3. melléklet 1.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 23. § 12. pontja szerint módosított szöveg.
-[^148]: A 3. melléklet 2.2. pontja a 203/2025. (VII. 17.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^149]: A 3. melléklet 2.3. pontját a 203/2025. (VII. 17.) Korm. rendelet 31. § (3) bekezdése iktatta be.
-[^150]: A 3. melléklet 3. pontja a 276/2023. (VI. 29.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
+4.[^154] Az 1. melléklet 1.1. pontja szerinti termékek esetén az 1. pontban foglaltakon túlmenően azon név és márkanevek (ha van), amely(ek) alatt a gyártó Magyarországon a csomagolást – ideértve a csomagolt termékek csomagolását is – forgalmazza.
+
+[^149]: A 3. melléklet 1.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 23. § 11. pontja, a 203/2025. (VII. 17.) Korm. rendelet 32. § g) pontja szerint módosított szöveg.
+[^150]: A 3. melléklet 1.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 23. § 12. pontja, a 412/2025. (XII. 22.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^151]: A 3. melléklet 2.2. pontja a 203/2025. (VII. 17.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^152]: A 3. melléklet 2.3. pontját a 203/2025. (VII. 17.) Korm. rendelet 31. § (3) bekezdése iktatta be.
+[^153]: A 3. melléklet 3. pontja a 276/2023. (VI. 29.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
+[^154]: A 3. melléklet 4. pontját a 412/2025. (XII. 22.) Korm. rendelet 18. § (3) bekezdése iktatta be.

@@ -2,6 +2,6 @@
 
 (2) Az átvállalási szerződés a 13. § (4) bekezdésében foglalt adatoknak az országos hulladékgazdálkodási hatóság általi nyilvántartásba vételének napjától, vagy ha a felek a szerződésben későbbi időpontban állapodnak meg, a szerződésben megjelölt időponttól hatályos.
 
-(3)[^78] A nyilvántartás a 13. § (4) bekezdés b)–d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)[^80] A nyilvántartás a 13. § (4) bekezdés b)–d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^78]: A 24. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 55. §-a iktatta be.
+[^80]: A 24. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 55. §-a iktatta be.

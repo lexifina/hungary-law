@@ -1,4 +1,4 @@
-6. §[^7] A gyártó
+6. §[^8] A gyártó
 
 a) a 23. § (1) bekezdése szerinti nyilvántartásba vétel iránti kérelem előterjesztését megelőzően a koncessziós társaság által működtetett elektronikus felületen megadja a koncessziós társaság részére a 3. melléklet 1. pontja szerinti adatokat,
 
@@ -10,4 +10,4 @@ d) a kiterjesztett gyártói felelősségi kötelezettségek teljesítése sorá
 
 e) a Ht. szerinti jogszabálysértés észlelése esetén haladéktalanul tájékoztatja a hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóságot.
 
-[^7]: A 6. § nyitó szövegrésze a 276/2023. (VI. 29.) Korm. rendelet 71. § a) pontja szerint módosított szöveg.
+[^8]: A 6. § nyitó szövegrésze a 276/2023. (VI. 29.) Korm. rendelet 71. § a) pontja szerint módosított szöveg.

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-80-20-2
 | 2025-01-01 | 2023-80-20-22.9 | 465/2024. (XII. 30.) Korm. rendelet |
 | 2025-08-18 | 2023-80-20-22.10 | 203/2025. (VII. 17.) Korm. rendelet |
 | 2026-01-01 | 2023-80-20-22.11 | 412/2025. (XII. 22.) Korm. rendelet |
+| 2026-08-12 | 2023-80-20-22.12 | 412/2025. (XII. 22.) Korm. rendelet |

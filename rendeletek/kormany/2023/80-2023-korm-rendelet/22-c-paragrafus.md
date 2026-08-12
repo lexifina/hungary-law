@@ -1,3 +1,3 @@
-22/C. §[^71] Nem kell a kiterjesztett gyártói felelősségi díjat megfizetni – az újrahasználható csomagolószerből első alkalommal létrehozott csomagolás belföldi forgalomba hozatala kivételével – az újrahasználható csomagolószerből létrehozott csomagolás forgalomba hozatala esetén.
+22/C. §[^72] Nem kell a kiterjesztett gyártói felelősségi díjat megfizetni – az első alkalommal történő belföldi forgalomba hozatal kivételével – az újrahasználható csomagolás forgalomba hozatala esetén.
 
-[^71]: A 22/C. §-t a 276/2023. (VI. 29.) Korm. rendelet 64. §-a iktatta be, szövege a 465/2024. (XII. 30.) Korm. rendelet 38. § e) pontja szerint módosított szöveg.
+[^72]: A 22/C. §-t a 276/2023. (VI. 29.) Korm. rendelet 64. §-a iktatta be, szövege a 412/2025. (XII. 22.) Korm. rendelet 16. §-ával megállapított szöveg.

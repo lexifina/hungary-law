@@ -1,3 +1,3 @@
-22/B. §[^70] A 22. § (1) bekezdése és a 22/A. § (1) bekezdése szerinti nyilatkozó írásban, legfeljebb 3 évre szóló időszakra tesz a 6. melléklet szerinti adattartalommal nyilatkozatot.
+22/B. §[^71] A 22. § (1) bekezdése és a 22/A. § (1) bekezdése szerinti nyilatkozó írásban, legfeljebb 3 évre szóló időszakra tesz a 6. melléklet szerinti adattartalommal nyilatkozatot.
 
-[^70]: A 22/B. §-t a 276/2023. (VI. 29.) Korm. rendelet 64. §-a iktatta be.
+[^71]: A 22/B. §-t a 276/2023. (VI. 29.) Korm. rendelet 64. §-a iktatta be.

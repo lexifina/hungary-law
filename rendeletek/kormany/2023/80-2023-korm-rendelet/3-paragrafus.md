@@ -20,4 +20,6 @@ g) az a)–f) pont szerinti tevékenységeihez kapcsolódóan a jogszabályokban
 
 (3) A koncessziós társaság a honlapján, bárki számára hozzáférhető módon tájékoztatja a hulladékbirtokosokat a hulladékképződés megelőzésére irányuló intézkedésekről, az újrahasználati és az újrahasználatra való előkészítést végző központokról, a visszavételi és hulladékgyűjtési rendszerekről és a hulladékelhagyás megelőzéséről.
 
-(4) A koncessziós társaság a nyilvánosság számára a honlapján, bárki számára hozzáférhető módon elérhetővé teszi a kiterjesztett gyártói felelősségi rendszerrel összefüggő hulladékgazdálkodási célértékek elérésére vonatkozó információkat, tulajdonosi körét és tagjait, a gyártók által a forgalomba hozott körforgásos termékek mennyisége alapján fizetett kiterjesztett gyártói felelősségi díjat, valamint a hulladékgazdálkodásban részt vevők kiválasztási eljárását.
+(4)[^7] A koncessziós társaság a nyilvánosság számára a honlapján, bárki számára hozzáférhető módon elérhetővé teszi a kiterjesztett gyártói felelősségi rendszerrel összefüggő hulladékgazdálkodási célértékek elérésére vonatkozó információkat, tulajdonosi körét és tagjait, a gyártók által a forgalomba hozott körforgásos termékek mennyiségét termékáramonként, az azok alapján fizetett kiterjesztett gyártói felelősségi díjat, valamint a hulladékgazdálkodásban részt vevők kiválasztási eljárását.
+
+[^7]: A 3. § (4) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
