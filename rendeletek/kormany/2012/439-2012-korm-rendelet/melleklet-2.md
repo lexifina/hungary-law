@@ -40,7 +40,7 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^90]
+2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^92]
 
 Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek azonosító kódjai
 
@@ -146,4 +146,4 @@ m) E04 – 13 fizikai beágyazás (pl. azbeszt-por, szálak cementbe való beág
 
 n) E04 – 99 egyéb.
 
-[^90]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^92]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.
