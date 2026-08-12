@@ -1,3 +1,3 @@
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^93]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^94]
 
-[^93]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^94]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

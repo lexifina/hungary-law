@@ -1,3 +1,3 @@
-8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^183]
+8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^184]
 
-[^183]: A 8. mellékletet a 465/2024. (XII. 30.) Korm. rendelet 8. § 41. pontja hatályon kívül helyezte.
+[^184]: A 8. mellékletet a 465/2024. (XII. 30.) Korm. rendelet 8. § 41. pontja hatályon kívül helyezte.

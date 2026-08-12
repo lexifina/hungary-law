@@ -6,7 +6,10 @@ a) 2. § (2) bekezdése és 3. § (2) bekezdése, valamint 4. melléklete a kön
 
 b) 1. §-a, 34/B. §-a, valamint 1. melléklete a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozat
 
+c)[^84] a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^82]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 58. § (1) bekezdése iktatta be.
 [^83]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 724/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A 37. § c) pontját a 412/2025. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
