@@ -34,6 +34,8 @@
 
 | 16a.[^2] | A kiterjesztett gyártói felelősség teljesítésének engedélyezése az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet alapján | 97 500 | – | 48 800 | 24 400 |
 
+| 16b.[^3] | A kiterjesztett gyártói felelősség teljesítésének engedélyezése a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 442/2012. (XII. 29.) Korm. rendelet alapján | 97 500 | – | 48 800 | 24 400 |
+
 | 17. | A veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott hulladék-, vagy technológia-minősítési eljárás | 650 000 | – | 325 000 | 162 500 |
 
 | 18. | Melléktermék felhasználhatóságára vonatkozó dokumentáció elbírálása | 260 000 | – | 130 000 | 65 000 |
@@ -93,3 +95,4 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 | 20. | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
 [^2]: Az 1. mellékletben foglalt táblázat 16a. sorát a 16/2025. (VII. 17.) EM rendelet 1. §-a iktatta be.
+[^3]: Az 1. mellékletben foglalt táblázat 16b. sorát a 37/2025. (XII. 23.) EM rendelet 1. §-a iktatta be.
