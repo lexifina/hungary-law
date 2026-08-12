@@ -4,6 +4,6 @@ a)
 
 b)
 
-c)
+c) 112/A. § a) pontja,
 
 d)
