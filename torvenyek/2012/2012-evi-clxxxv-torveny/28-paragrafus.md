@@ -16,6 +16,6 @@ megfizetéséhez kötheti.
 
 (5) A gyártó az általa előállított, a forgalmazó az általa forgalmazott termékcsoportba tartozó termékből, továbbá annak csomagolásából származó hulladékot a termék, illetve csomagolásának előállítása, forgalmazása helyén átveheti, és annak gyűjtését hulladékgazdálkodási engedély nélkül végezheti.
 
-(6) A gyártó és a forgalmazó a gyártói felelősség körébe tartozó termékcsoportba tartozó termékből, és a termék csomagolását képező csomagolószerből származó hulladék átvételéért ellenértéket nem kérhet.
+(6) A gyártó és a forgalmazó a gyártói felelősség körébe tartozó termékcsoportba tartozó termékből, és a termék csomagolásából származó hulladék átvételéért ellenértéket nem kérhet.
 
 (7)

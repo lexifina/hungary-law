@@ -36,7 +36,7 @@ o) megfelelő minőségi vagy mennyiségi mutatókat és célértékeket, többe
 
 (1a) Az OHT-nek és az OMP-nek meg kell felelnie
 
-a) a 94/62/EK irányelv 14. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
+a) az (EU) 2025/40 európai parlamenti és tanácsi rendelet 42. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
 
 b) az 1999/31/EK irányelv 5. cikkében meghatározott követelményeknek, valamint
 
@@ -54,7 +54,7 @@ d) a felhagyott és környezetszennyezéssel, illetve környezetkárosítással 
 
 (3) Az OHT-t és az OMP-t a 92. § (1)–(3) bekezdésében meghatározott előírással összhangban kell kidolgozni.
 
-(4) A csomagolási hulladékra vonatkozó feladatokat, ösztönző rendszereket és tilalmakat – az (1) bekezdés szerinti tartalommal – az OHT önálló tervrészeként vagy külön tervben kell meghatározni.
+(4) A csomagolással és a csomagolási hulladékkal való gazdálkodásra vonatkozó feladatokat, ösztönző rendszereket és tilalmakat – ideértve az (EU) 2025/40 európai parlamenti és tanácsi rendelet 48., 50. és 52. cikke alapján meghozott intézkedéseket is – az OHT külön fejezetében kell meghatározni az (1) bekezdés szerinti tartalommal.
 
 (5) Az OMP-nek különösen az alábbiakat kell tartalmaznia:
 

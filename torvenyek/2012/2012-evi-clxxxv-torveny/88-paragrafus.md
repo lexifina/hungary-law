@@ -24,7 +24,7 @@
 
 10. a visszavételi és visszaadási lehetőség alkalmazását, a használt termékek, illetve a hulladék átvételi, gyűjtési és hasznosítási arányait és azok teljesítésének határidejét;
 
-11. a csomagolás és a csomagolószer hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+11. a csomagolás hulladékká válását megelőző tevékenységek, valamint a hulladékká vált csomagolással kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
 12. az elektromos és elektronikus berendezés hulladékká válását megelőző tevékenységek és a hulladékká vált elektromos és elektronikus berendezéssel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint az elektromos és elektronikus berendezések vissza- és átvételi díját;
 

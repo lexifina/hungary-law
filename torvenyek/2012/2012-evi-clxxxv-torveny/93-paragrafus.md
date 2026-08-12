@@ -16,7 +16,7 @@ f) a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikkének (2) bek
 
 g) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2015. július 10-i 2015/1127/EU bizottsági irányelvnek;
 
-h) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelvnek
+h)
 
 i) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek;
 
@@ -39,6 +39,8 @@ a) a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet m
 b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
 
 c) a 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének a HP 14 „környezetre veszélyes (ökotoxikus)” veszélyességi tulajdonság tekintetében történő módosításáról szóló, 2017. június 8-i 2017/997/EU tanácsi rendelet
+
+d) a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
