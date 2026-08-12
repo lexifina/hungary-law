@@ -1,14 +1,12 @@
-## 9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
-
 ## 5. A csomagolás forgalmazójának kötelezettségei
 
-10. § (1)[^36] A csomagolt termék forgalmazója, amely üzletenként – a Ht. 12. § (2b) bekezdésében meghatározott kivétellel – legalább 500 m2 alapterületű üzlethelyiséggel rendelkezik, a fogyasztó által felajánlott használt csomagolószert visszaveszi, a hulladékbirtokos által felajánlott csomagolási hulladékot átveszi. E kötelezettség a helyben fogyasztásra kínált termék csomagolására nem vonatkozik.
+10. § (1)[^57] A csomagolt termék forgalmazója, amely üzletenként – a Ht. 12. § (2b) bekezdésében meghatározott kivétellel – legalább 500 m2 alapterületű üzlethelyiséggel rendelkezik, a fogyasztó által felajánlott használt csomagolást visszaveszi, a hulladékbirtokos által felajánlott csomagolási hulladékot átveszi. E kötelezettség a helyben fogyasztásra kínált termék csomagolására nem vonatkozik.
 
-(2) A forgalmazó a használt csomagolószer visszavételét vagy a csomagolási hulladék átvételét akkor tagadhatja meg, ha az ártalmas az emberi egészségre vagy a környezetre.
+(2)[^58] A forgalmazó a használt csomagolás visszavételét vagy a csomagolási hulladék átvételét akkor tagadhatja meg, ha az ártalmas az emberi egészségre vagy a környezetre.
 
-(3)[^37] A forgalmazó az (1) bekezdés szerinti átvételt, visszavételt – a Ht. 12. § (2b) bekezdése szerint gyűjtött üveghulladék esetén a (3a) bekezdésben meghatározottak figyelembevételével – a csomagolt termék forgalmazásának feltételeivel azonos módon, folyamatosan, teljes nyitvatartási időben a csomagolt termék forgalmazásának helyén biztosítja.
+(3)[^59] A forgalmazó az (1) bekezdés szerinti átvételt, visszavételt – a Ht. 12. § (2b) bekezdése szerint gyűjtött üveghulladék esetén a (3a) bekezdésben meghatározottak figyelembevételével – a csomagolt termék forgalmazásának feltételeivel azonos módon, folyamatosan, teljes nyitvatartási időben a csomagolt termék forgalmazásának helyén biztosítja.
 
-(3a)[^38] A legalább 300 m2 alapterületű üzlettel rendelkező forgalmazó a Ht. 12. § (2b) bekezdése szerinti, üveghulladékra vonatkozó kötelezettségét az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendelet előírásainak megfelelően kialakított átvételi helyen teljesíti.
+(3a)[^60] A legalább 300 m2 alapterületű üzlettel rendelkező forgalmazó a Ht. 12. § (2b) bekezdése szerinti, üveghulladékra vonatkozó kötelezettségét az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendelet előírásainak megfelelően kialakított átvételi helyen teljesíti.
 
 (4) A forgalmazó átvételi kötelezettségének teljesítéséért a hulladékbirtokostól ellenértéket nem kérhet, azonban a fogyasztó vagy a hulladékbirtokos visszavitelre ösztönzése érdekében díjat fizethet.
 
@@ -34,6 +32,7 @@ c) a termék a csomagolás nélkül biztonságosan nem szállítható, vagy
 
 d) annak teljesítését jogszabály kizárja.
 
-[^36]: A 10. § (1) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^37]: A 10. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^38]: A 10. § (3a) bekezdését a 82/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
+[^57]: A 10. § (1) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § b) pontja, a 412/2025. (XII. 22.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.
+[^58]: A 10. § (2) bekezdése a 412/2025. (XII. 22.) Korm. rendelet 11. § 13. pontja szerint módosított szöveg.
+[^59]: A 10. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^60]: A 10. § (3a) bekezdését a 82/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.

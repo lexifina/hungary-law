@@ -1,3 +1,3 @@
-8. §[^27]
+8. §[^42]
 
-[^27]: A 8. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^42]: A 8. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

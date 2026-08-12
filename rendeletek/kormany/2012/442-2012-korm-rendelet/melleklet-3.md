@@ -100,43 +100,21 @@
 
 ## * Társított anyagok (kompozitok) esetében a következő jelölést kell alkalmazni: C/a jellemző anyag megnevezésének rövidítése.
 
-3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^67]
+3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^94]
 
-A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényegi követelmények
+A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényeges követelmények
 
 1. A csomagolás előállítására és összetételére vonatkozó követelmények:
 
 1.1. A csomagolást úgy kell előállítani, hogy a csomagolás térfogata és tömege arra a minimálisan elégséges mennyiségre korlátozódjék, amely fenntartja a csomagolt termék és a felhasználó számára a biztonságosság, higiénia és elfogadhatóság szükséges szintjét.
 
-1.2. A csomagolást úgy kell megtervezni, előállítani és forgalmazni, hogy lehetővé tegyék annak a hulladékhiearchiával összhangban történő újrahasználatát vagy hasznosítását (beleértve az anyagában történő hasznosítást, újrafeldolgozást), és minimumra csökkentsék annak a környezetre gyakorolt hatását, amikor a csomagolási hulladék vagy a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási műveletek során képződő maradék hulladékot ártalmatlanítják.
+1.2.
 
-1.3. A csomagolást úgy kell előállítani, hogy minimumra csökkentsék az ártalmas és más veszélyes anyagok jelenlétét bármilyen csomagolási összetevő vagy a csomagolóanyag alkotóelemei között, tekintettel azoknak a kezelés során levegőbe kibocsátott anyagban, salakban vagy csurgalékvízben való jelenlétére, amikor a csomagolást vagy a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási műveletek során képződő maradék hulladékot vagy a csomagolási hulladékot elégetik, hulladéklerakó létesítményben ártalmatlanítják vagy egyéb módon kezelik.
+1.3.
 
-2. A csomagolás újrahasználható jellegére vonatkozó követelmények:
+2.
 
-2.1. A csomagolás fizikai tulajdonságainak és jellemzőinek lehetővé kell tenniük több fordulót vagy visszatérést (rotációt) a felhasználás rendes körülményei között előre látható feltételek mellett.
-
-2.2. A csomagolás fizikai tulajdonságainak és jellemzőinek teljesíteniük kell a hasznosítható csomagolásra vonatkozó sajátos követelményeket, amikor a csomagolást már nem használják fel újra, és ezáltal hulladékká válik.
-
-2.3. A 2.1. és a 2.2. pontok szerinti követelményeket egyidejűleg kell kielégíteni.
-
-3. A csomagolás hasznosítható jellegére vonatkozó követelmények:
-
-3.1. Az anyagában történő hasznosítás:
-
-A csomagolást úgy kell előállítani, hogy a piacképes termékek gyártása során felhasznált anyagok bizonyos tömegszázalékának visszaforgatását lehetővé tegyék. E százalékos arány megállapítása azoktól az anyagtípusoktól függően változhat, amelyek a csomagolás alkotóelemeit alkotják.
-
-3.2. Az energetikai hasznosítás formájában hasznosítható csomagolás:
-
-Az energetikai hasznosítás céljából feldolgozott csomagolási hulladéknak minimális alsó fűtőértékkel kell rendelkeznie ahhoz, hogy lehetővé tegye az energetikai hasznosítás optimalizálását.
-
-3.3. A komposztálás formájában hasznosítható csomagolás:
-
-A komposztálás céljából feldolgozott csomagolási hulladéknak olyan biológiai úton lebontható jelleggel kell rendelkeznie, hogy az ne akadályozza az elkülönített hulladékgyűjtést és a hulladék átvételét, elszállítását, valamint azt a komposztálási eljárást vagy tevékenységet, amelynek azt alávetik.
-
-3.4. Biológiai úton lebontható csomagolás:
-
-## A biológiai úton lebontható csomagolásnak olyan összetétellel kell rendelkeznie, hogy képes legyen fizikai, kémiai, termikus vagy biológiai lebomlásra úgy, hogy a levegő jelenlétében végső soron szén-dioxiddá, biomasszává, vízzé vagy levegő kizárása mellett elsősorban metánná bomoljon. Az oxidatív úton lebomló műanyag csomagolás nem tekinthető biológiailag lebomlónak.
+3.
 
 4. Az egyes követelményekre vonatkozó, referenciaként szolgáló szabványok a következők:
 
@@ -198,4 +176,4 @@ g) ha szükséges, az adatminőség javítására irányuló intézkedések megh
 
 9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
 
-[^67]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése, a 465/2024. (XII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^94]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése, a 465/2024. (XII. 30.) Korm. rendelet 11. §-a, a 412/2025. (XII. 22.) Korm. rendelet 11. § 17. pontja és 12. § l) pontja szerint módosított szöveg.

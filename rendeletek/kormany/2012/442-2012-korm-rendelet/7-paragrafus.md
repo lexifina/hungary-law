@@ -1,3 +1,3 @@
-7. §[^26]
+7. §[^41]
 
-[^26]: A 7. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^41]: A 7. §-t a 276/2023. (VI. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
