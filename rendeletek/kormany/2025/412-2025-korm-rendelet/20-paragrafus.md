@@ -1,5 +1,3 @@
-20. § Hatályát veszti a 80/2023. (III. 14.) Korm. rendelet
+20. §[^21]
 
-a) 11. § (1) bekezdése,
-
-b) 21. § (7) bekezdésében a „tárgynegyedévre” szövegrész.
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

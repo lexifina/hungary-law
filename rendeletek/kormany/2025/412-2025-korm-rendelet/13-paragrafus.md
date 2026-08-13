@@ -1,5 +1,5 @@
 ## 3. Az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet módosítása
 
-13. § Az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet [a továbbiakban: 349/2021. (VI. 22.) Korm. rendelet] 2. § 1. pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-(E rendelet alkalmazásában)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
