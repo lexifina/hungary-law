@@ -1,0 +1,3 @@
+[1] A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mint köztestület feladatellátásához kiemelkedő társadalmi érdek fűződik. Az agrárkamara működési anomáliái a közfeladatok hatékony ellátását veszélyeztethetik. Szükséges olyan szabályok megalkotása, amelyek megteremtik az állami beavatkozás lehetőségét a közfeladatok zökkenőmentes ellátása érdekében. Jelen törvénymódosítás ezt teszi lehetővé.
+
+[2] Az Országgyűlés egyes, kiemelt közfeladatok folyamatos ellátásának, továbbá az agrár- és élelmiszer-gazdaság, valamint a vidékfejlesztés ágazatának politikai befolyástól mentes, szakmai működésének biztosítása, az ágazati szereplők érdekeinek egységes képviselete céljából az alábbi törvényt alkotja:
