@@ -1,1 +1,1 @@
-### 47. §
+47. § Az agrárkamara 2026. szeptember 15-ig, 2026. július 31-i fordulónappal köteles a számvitelről szóló 2000. évi C. törvény szerint vagyonleltárral alátámasztott vagyonmérleget készíteni, amelyet a kamarai biztos ellenjegyez és haladéktalanul megküld az agrárpolitikáért felelős miniszternek.

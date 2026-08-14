@@ -2,7 +2,7 @@
 
 27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének a vezetője, aki az agrárkamarával munkaviszonyban áll.
 
-(2) Főigazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
+(2) Főigazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről a miniszter véleményét ki kell kérni.
 
 (3) A főigazgató felett a munkáltatói jogokat az elnök gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az elnökség egyetértésével dönthet.
 

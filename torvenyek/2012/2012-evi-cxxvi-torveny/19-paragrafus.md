@@ -12,7 +12,7 @@ c) az agrárkamara más szervezetekhez való kapcsolódása és működési rend
 
 d)
 
-e) a választott tisztségviselők díjazásának jóváhagyása;
+e)
 
 f) az Agrárkamarai Választottbíróság választottbíráinak megválasztása;
 
