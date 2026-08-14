@@ -4,6 +4,9 @@
 
 (2) Az aktuális menetrendi évre vonatkozóan a közszolgáltatási szerződésben meghatározott szolgáltatási szintmérési rendszer alapján a közszolgáltató szegmensenként és mérési paraméterként legalább a közszolgáltatási szerződésben rögzített szintet nyújtja, amely a folyamatos minőségfejlesztés szempontjait is figyelembe veszi.
 
-(3) A közszolgáltató a saját minőségmérési és -értékelési feladatainak ellátása és a KTI e rendeletben foglalt feladatainak támogatása érdekében minőségmérési és -értékelési szakrendszert (a továbbiakban: szakrendszer) működtet, valamint a technikai és szakmai változások elvárásainak megfelelően fejleszt.
+(3)[^3] A közszolgáltató a saját minőségmérési és -értékelési feladatainak ellátása és az országos közlekedésszervező e rendeletben foglalt feladatainak támogatása érdekében minőségmérési és -értékelési szakrendszert (a továbbiakban: szakrendszer) működtet, valamint a technikai és szakmai változások elvárásainak megfelelően fejleszt.
 
-(4) A közszolgáltató a szakrendszerhez a KTI részére az e rendeletben meghatározott feladatainak ellátásához szükséges mértékű hozzáférést biztosít.
+(4)[^4] A közszolgáltató a szakrendszerhez az országos közlekedésszervező részére az e rendeletben meghatározott feladatainak ellátásához szükséges mértékű hozzáférést biztosít.
+
+[^3]: A 4. § (3) bekezdése a 8/2026. (VIII. 13.) KBM rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdése a 8/2026. (VIII. 13.) KBM rendelet 6. § a) pontja szerint módosított szöveg.

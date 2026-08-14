@@ -1,5 +1,5 @@
 ## 3. Az ellenőrzést végző szerv
 
-3. §[^1] Az Sztv. 35. § (3) bekezdés a)–c) pontjában meghatározott ellenőrzési feladatokat a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI) látja el.
+3. §[^2] Az Sztv. 35. § (3) bekezdés a)–c) pontjában meghatározott ellenőrzési feladatokat az országos közlekedésszervező látja el.
 
-[^1]: A 3. § a 47/2025. (XII. 29.) ÉKM rendelet 14. §-a szerint módosított szöveg.
+[^2]: A 3. § a 8/2026. (VIII. 13.) KBM rendelet 4. §-ával megállapított szöveg.

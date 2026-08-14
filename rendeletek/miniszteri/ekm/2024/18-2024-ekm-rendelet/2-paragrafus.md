@@ -6,7 +6,7 @@
 
 2. közszolgáltató: az Sztv. 2. § 29. pontjában meghatározott, közszolgáltatási szerződés vagy az Sztv. 24. § (4) bekezdésében meghatározott szükséghelyzeti intézkedés alapján végzett személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató;
 
-3. megrendelő: az Sztv. 4. § (3) bekezdés d) és j) pontjában meghatározottak szerint az országos, regionális és elővárosi vasúti, közúti és vízi közforgalmú személyszállítási közszolgáltatások esetében a közlekedésért felelős miniszter;
+3.[^1] megrendelő: az Sztv. 4. § (3) bekezdés d) és j) pontjában meghatározottak szerint az országos, regionális és elővárosi vasúti, közúti és vízi közforgalmú személyszállítási közszolgáltatások esetében az Sztv. 21. § (1b) bekezdése szerinti országos közlekedésszervező (a továbbiakban: országos közlekedésszervező);
 
 4. menetrend: az Sztv. 2. § 23. pontjában meghatározott szolgáltatási előírás;
 
@@ -21,3 +21,5 @@
 9. szolgáltatási szint: a közszolgáltatási szerződésben vagy az Sztv. 24. § (4) bekezdése szerinti szükséghelyzeti kijelölő határozatban (a továbbiakban együtt: közszolgáltatási szerződés) meghatározott paraméterek és ezek súlyozott összegének szegmensenként külön-külön, egy-egy százalékban kifejezett, számszerű értéke;
 
 10. utasforgalmi létesítmény: az utascsere céljára szolgáló terület, a közforgalmú közlekedés útvonalán kijelölt, jellemzően épített infrastruktúrával rendelkező létesítmény, ahol a közforgalmú közlekedés járművei szabályos megállása biztosított, és amely lehetővé teszi az utasok le- és felszállását, így különösen a vasúti vagy autóbusz-pályaudvar, a vasúti megállóhely vagy állomás, az autóbusz-megállóhely vagy -állomás, a hajóállomás és kikötő.
+
+[^1]: A 2. § 3. pontja a 8/2026. (VIII. 13.) KBM rendelet 3. §-ával megállapított szöveg.
