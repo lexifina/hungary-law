@@ -1,0 +1,3 @@
+## 8. Együttműködési és egyéb rendelkezések
+
+9. § Az országos közlekedésszervező feladatainak ellátása során együttműködik a miniszterrel és a miniszter által vezetett minisztériummal, a közszolgáltatókkal, közlekedési szolgáltatókkal, a gördülőállomány-kezelő társasággal, a pályaműködtetővel, a vasúti pályakapacitás-elosztó szervezettel, kiemelt közszolgáltatói közreműködővel, a személyszállítási közszolgáltatással érintett települések önkormányzataival, közlekedésszervezőivel, a személyszállítási közszolgáltatással érintett közutak, kikötők, vízi átkelők tulajdonosaival, kezelőivel, üzemeltetőivel és a feladati ellátása tekintetében érintett hatóságokkal.
