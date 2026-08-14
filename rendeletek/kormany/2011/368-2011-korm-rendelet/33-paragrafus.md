@@ -1,3 +1,3 @@
-33. §[^139]
+33. §[^141]
 
-[^139]: Az Ávr. 33. §-át a 480/2022. (XI. 28.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^141]: Az Ávr. 33. §-át a 480/2022. (XI. 28.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.

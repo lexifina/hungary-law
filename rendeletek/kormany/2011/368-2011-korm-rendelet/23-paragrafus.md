@@ -16,9 +16,9 @@ e)[^109] be kell mutatni a tartalék biztosításának célját.
 
 (3)[^110] A Kormány Áht. 21. § (1) bekezdése szerinti
 
-a) egyedi határozatában fel kell tüntetni
+a)[^111] nyilvános határozatában fel kell tüntetni
 
-aa)[^111]
+aa)[^112]
 
 ab) az átcsoportosítással érintett előirányzatok címrendi besorolását,
 
@@ -28,11 +28,11 @@ ad) az átcsoportosítás egyszeri vagy tartós jellegét,
 
 ae) az elszámolás és – a visszatérítési kötelezettséggel biztosított előirányzat esetében – a visszatérítés időpontját,
 
-b) egyedi határozata mellékletét a 2. melléklet szerinti formában kell elkészíteni.
+b)[^113] nyilvános határozata mellékletét a 2. melléklet szerinti formában kell elkészíteni.
 
-(4)[^112] A rendkívüli kormányzati intézkedésekre szolgáló tartalékból visszatérítési kötelezettséggel biztosított előirányzat visszatérülését, valamint a nem visszatérítési kötelezettséggel biztosított előirányzat fel nem használt, vagy nem rendeltetésszerűen felhasznált részét – ide nem értve, ha azt a 150. § (4) bekezdése vagy a 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – a Kincstár által megjelölt fizetési számlára be kell fizetni, amely az adott évi rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzatát növeli. Ha a rendkívüli kormányzati intézkedésekre szolgáló tartalék terhére átcsoportosított előirányzat egészére vagy annak legalább egy részére az átcsoportosításról, illetve – az Áht. 36. § (2) bekezdése szerinti esetben – a kötelezettségvállalás engedélyezéséről szóló kormányhatározat közzétételét követő hatvan napon belül a kötelezettségvállaló mulasztásából kötelezettségvállalásra nem kerül sor, az átcsoportosított előirányzat egészét – ide nem értve, ha azt a 150. § (4) bekezdése vagy a 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – vissza kell téríteni, illetve az előirányzat-átcsoportosítás iránt nem kell intézkedni. A visszatérítésre és a további felhasználásra e bekezdést kell alkalmazni.
+(4)[^114] A rendkívüli kormányzati intézkedésekre szolgáló tartalékból visszatérítési kötelezettséggel biztosított előirányzat visszatérülését, valamint a nem visszatérítési kötelezettséggel biztosított előirányzat fel nem használt, vagy nem rendeltetésszerűen felhasznált részét – ide nem értve, ha azt a 150. § (4) bekezdése vagy a 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – a Kincstár által megjelölt fizetési számlára be kell fizetni, amely az adott évi rendkívüli kormányzati intézkedésekre szolgáló tartalék előirányzatát növeli. Ha a rendkívüli kormányzati intézkedésekre szolgáló tartalék terhére átcsoportosított előirányzat egészére vagy annak legalább egy részére az átcsoportosításról szóló nyilvános kormányhatározat közzétételét követő hatvan napon belül a kötelezettségvállaló mulasztásából kötelezettségvállalásra nem kerül sor, az átcsoportosított előirányzat egészét – ide nem értve, ha azt a 150. § (4) bekezdése vagy a 152. § (2) és (3) bekezdése szerint a Központi Maradványelszámolási Alap előirányzat javára kell befizetni – vissza kell téríteni, illetve az előirányzat-átcsoportosítás iránt nem kell intézkedni. A visszatérítésre és a további felhasználásra e bekezdést kell alkalmazni.
 
-(5)[^113]
+(5)[^115]
 
 [^105]: Az Ávr. 23. §-a a 89/2016. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^106]: Az Ávr. 23. § (1) bekezdése a 282/2019. (XI. 27.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.
@@ -40,6 +40,8 @@ b) egyedi határozata mellékletét a 2. melléklet szerinti formában kell elk�
 [^108]: Az Ávr. 23. § (2) bekezdés d) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
 [^109]: Az Ávr. 23. § (2) bekezdés e) pontját a 499/2016. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
 [^110]: Az Ávr. 23. § (3) bekezdés nyitó szövegrésze a 499/2016. (XII. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
-[^111]: Az Ávr. 23. § (3) bekezdés a) pont aa) alpontját a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^112]: Az Ávr. 23. § (4) bekezdése a 426/2017. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^113]: Az Ávr. 23. § (5) bekezdését a 480/2022. (XI. 28.) Korm. rendelet 3. §-a iktatta be, a 394/2025. (XII. 11.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.
+[^111]: Az Ávr. 23. § (3) bekezdés a) pont nyitó szövegrésze a 123/2026. (VIII. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^112]: Az Ávr. 23. § (3) bekezdés a) pont aa) alpontját a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^113]: Az Ávr. 23. § (3) bekezdés b) pontja a 123/2026. (VIII. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^114]: Az Ávr. 23. § (4) bekezdése a 426/2017. (XII. 19.) Korm. rendelet 1. §-ával megállapított, a 123/2026. (VIII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^115]: Az Ávr. 23. § (5) bekezdését a 480/2022. (XI. 28.) Korm. rendelet 3. §-a iktatta be, a 394/2025. (XII. 11.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.

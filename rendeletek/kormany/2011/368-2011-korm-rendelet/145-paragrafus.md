@@ -1,12 +1,12 @@
 ## [Az Áht. 84. §-ához]
 
-145. § (1)[^703] Törvény eltérő rendelkezése hiányában a helyi önkormányzat a (3)–(5) bekezdés szerinti fizetési számlákat, alszámlákat az Áht. 84. § (1) bekezdése alapján választott számlavezetőnél vezethet, figyelemmel az Áht. 84. § (1a) bekezdésére.
+145. § (1)[^704] Törvény eltérő rendelkezése hiányában a helyi önkormányzat a (3)–(5) bekezdés szerinti fizetési számlákat, alszámlákat az Áht. 84. § (1) bekezdése alapján választott számlavezetőnél vezethet, figyelemmel az Áht. 84. § (1a) bekezdésére.
 
-(2)[^704] A hitellel rendelkező, kötvényt kibocsátó helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatással, valamint a költségvetési támogatásokkal kapcsolatos pénzforgalmát a fizetési számlájához kapcsolódó alszámlán köteles elkülöníteni. A helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – az alszámláról a hitelen, kötvényen alapuló fizetési kötelezettségeit nem teljesítheti.
+(2)[^705] A hitellel rendelkező, kötvényt kibocsátó helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatással, valamint a költségvetési támogatásokkal kapcsolatos pénzforgalmát a fizetési számlájához kapcsolódó alszámlán köteles elkülöníteni. A helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – az alszámláról a hitelen, kötvényen alapuló fizetési kötelezettségeit nem teljesítheti.
 
-(3)[^705] A helyi önkormányzat a (2) bekezdésben foglaltakon túl a fizetési számlájához kapcsolódóan a következő alszámlákkal rendelkezhet:
+(3)[^706] A helyi önkormányzat a (2) bekezdésben foglaltakon túl a fizetési számlájához kapcsolódóan a következő alszámlákkal rendelkezhet:
 
-a)[^706] a helyi önkormányzat lekötött bankbetétei elkülönítésére szolgáló alszámla,
+a)[^707] a helyi önkormányzat lekötött bankbetétei elkülönítésére szolgáló alszámla,
 
 b) a helyi adók és a települési adó befizetésére adónemenként külön adóbeszedési alszámla, a késedelmi pótlék befizetésére pótlék beszedési alszámla, a bírságok, önellenőrzési pótlék és a végrehajtási költség befizetésére bírság beszedési alszámla, a talajterhelési díj befizetésére talajterhelési díj beszedési alszámla, termőföld bérbeadásából származó jövedelem adója befizetésére jövedelemadó beszedési alszámla, a távhőszolgáltatásról más hőellátásra áttérő által felhasznált hőmennyiség és annak előállítása során a pozitív előjelű széndioxid kibocsátási különbözet után fizetendő díj befizetésére beszedési alszámla, a magánfőző által előállított magánfőzött párlat utáni jövedéki adó befizetésére beszedési alszámla,
 
@@ -14,7 +14,7 @@ c) a helyi önkormányzatot megillető, a b) pontba, valamint a (4) bekezdés a)
 
 d) a helyi önkormányzat döntése vagy jogszabály rendelkezése alapján egyéb, meghatározott célú pénzeszközök elkülönítésére szolgáló alszámla.
 
-(4)[^707] A helyi önkormányzat
+(4)[^708] A helyi önkormányzat
 
 a) közigazgatási hatósági eljárási illeték, továbbá az azzal összefüggésben felszámított mulasztási bírság, késedelmi pótlék befizetésére szolgáló fizetési számlát,
 
@@ -26,13 +26,13 @@ d) letéti számlát,
 
 e) devizaszámlát és
 
-f)[^708] a közfoglalkoztatáshoz nyújtott támogatás elkülönítésére szolgáló alszámlát
+f)[^709] a közfoglalkoztatáshoz nyújtott támogatás elkülönítésére szolgáló alszámlát
 
 nyithat és tarthat fenn.
 
-(5)[^709] A (3) bekezdés b) és c) pontja szerint nyitott alszámlákról, valamint a (4) bekezdés a)–c) pontja szerint vezetett fizetési számlákról kizárólag az alábbi műveletek teljesíthetők:
+(5)[^710] A (3) bekezdés b) és c) pontja szerint nyitott alszámlákról, valamint a (4) bekezdés a)–c) pontja szerint vezetett fizetési számlákról kizárólag az alábbi műveletek teljesíthetők:
 
-a)[^710] a helyi önkormányzat fizetési számlájára, annak a (3) bekezdés szerinti alszámláira való átutalás, valamint az Áht. 84. §-a szerint a kincstári számlára történő átutalás,
+a)[^711] a helyi önkormányzat fizetési számlájára, annak a (3) bekezdés szerinti alszámláira való átutalás, valamint az Áht. 84. §-a szerint a kincstári számlára történő átutalás,
 
 b) más által kimutatott és beszedett adók módjára behajtandó köztartozások átutalása a tartozást kimutató által megadott fizetési számlára,
 
@@ -40,32 +40,32 @@ c) a központi költségvetést megillető közigazgatási hatósági eljárási
 
 d) az adózó – visszatérítésre jogosult – részére történő visszatérítés, ideértve az Art. szerint fizetett kamatot is, és
 
-e)[^711] az adózó kérelmére a (3) bekezdés b) és c) pontja szerint nyitott alszámlák, valamint a (4) bekezdés a)–c) pontja szerint vezetett fizetési számlák közötti átvezetések.
+e)[^712] az adózó kérelmére a (3) bekezdés b) és c) pontja szerint nyitott alszámlák, valamint a (4) bekezdés a)–c) pontja szerint vezetett fizetési számlák közötti átvezetések.
 
-(6)[^712] A helyi önkormányzat a (3) bekezdés b) és c) pontja, valamint a (4) bekezdés a)–c) pontja szerinti bevételeket e számlákon, alszámlákon köteles beszedni. Ha a helyi önkormányzat más fizetési számlájára, alszámlájára érkezik befizetés, a befizetést a megfelelő fizetési számlákra befolyó bevételekhez kapcsolódó nyilvántartáson is át kell vezetni.
+(6)[^713] A helyi önkormányzat a (3) bekezdés b) és c) pontja, valamint a (4) bekezdés a)–c) pontja szerinti bevételeket e számlákon, alszámlákon köteles beszedni. Ha a helyi önkormányzat más fizetési számlájára, alszámlájára érkezik befizetés, a befizetést a megfelelő fizetési számlákra befolyó bevételekhez kapcsolódó nyilvántartáson is át kell vezetni.
 
-(7)[^713] A (3) bekezdés b) pontja szerinti alszámlák esetén az indokolt visszatérítéseket az alszámláról kell teljesíteni. Ha az alszámlán lévő összeg nem nyújt fedezetet az utaláshoz, a visszatérítés fedezetének megfelelő összeget a kapcsolódó fizetési számláról kell átvezetni az alszámla javára.
+(7)[^714] A (3) bekezdés b) pontja szerinti alszámlák esetén az indokolt visszatérítéseket az alszámláról kell teljesíteni. Ha az alszámlán lévő összeg nem nyújt fedezetet az utaláshoz, a visszatérítés fedezetének megfelelő összeget a kapcsolódó fizetési számláról kell átvezetni az alszámla javára.
 
-(8)[^714] A (4) bekezdés a) pontja szerinti fizetési számlára beszedett közigazgatási hatósági eljárási illeték- és az azzal összefüggésben felszámított késedelmi pótlék-, bírságbevételt a visszatérítésekkel csökkentve negyedévente, a (4) bekezdés b) pontja szerinti fizetési számlára beszedett, a központi költségvetést megillető gépjárműadó bevételt havonta, a tárgynegyedévet – a gépjárműadó vonatkozásában a tárgyhónapot – követő hónap 10. napjáig kell a Kincstár által megjelölt fizetési számlára átutalni.
+(8)[^715] A (4) bekezdés a) pontja szerinti fizetési számlára beszedett közigazgatási hatósági eljárási illeték- és az azzal összefüggésben felszámított késedelmi pótlék-, bírságbevételt a visszatérítésekkel csökkentve negyedévente, a (4) bekezdés b) pontja szerinti fizetési számlára beszedett, a központi költségvetést megillető gépjárműadó bevételt havonta, a tárgynegyedévet – a gépjárműadó vonatkozásában a tárgyhónapot – követő hónap 10. napjáig kell a Kincstár által megjelölt fizetési számlára átutalni.
 
-(9)[^715] A nem a helyi önkormányzatot megillető bevételt szükség szerint, de legkésőbb a hó végén rendelkezésre álló összeget a tárgyhót követő hónap 10-éig kell a behajtást kérő szerv fizetési számlájára átutalni.
+(9)[^716] A nem a helyi önkormányzatot megillető bevételt szükség szerint, de legkésőbb a hó végén rendelkezésre álló összeget a tárgyhót követő hónap 10-éig kell a behajtást kérő szerv fizetési számlájára átutalni.
 
-(10)[^716]
+(10)[^717]
 
-(11)[^717] Ha a (4) bekezdés b) pontja szerinti számláról a (8) bekezdésben előírt fizetési kötelezettség az abban meghatározott határidőn belül nem teljesül, a települési önkormányzat a meg nem fizetett összeg után – a határidő leteltét megelőző utolsó napon érvényes jegybanki alapkamat kétszeresének megfelelő mértékű – kamatot fizet. A kamatfizetés kezdőnapja a fizetési kötelezettség határidejének leteltét követő első nap, a kamatfizetés utolsó napja a késedelmes fizetés napja. A kamatot külön, a Kincstár által meghatározott fizetési számlára kell megfizetni.
+(11)[^718] Ha a (4) bekezdés b) pontja szerinti számláról a (8) bekezdésben előírt fizetési kötelezettség az abban meghatározott határidőn belül nem teljesül, a települési önkormányzat a meg nem fizetett összeg után – a határidő leteltét megelőző utolsó napon érvényes jegybanki alapkamat kétszeresének megfelelő mértékű – kamatot fizet. A kamatfizetés kezdőnapja a fizetési kötelezettség határidejének leteltét követő első nap, a kamatfizetés utolsó napja a késedelmes fizetés napja. A kamatot külön, a Kincstár által meghatározott fizetési számlára kell megfizetni.
 
-[^703]: Az Ávr. 145. § (1) bekezdése a 194/2025. (VII. 8.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^704]: Az Ávr. 145. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított, a 413/2012. (XII. 29.) Korm. rendelet 39. § 35. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
-[^705]: Az Ávr. 145. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^706]: Az Ávr. 145. § (3) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 24. pontja szerint módosított szöveg.
-[^707]: Az Ávr. 145. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^708]: Az Ávr. 145. § (4) bekezdés f) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 25. pontja szerint módosított szöveg.
-[^709]: Az Ávr. 145. § (5) bekezdés nyitó szövegrésze a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
-[^710]: Az Ávr. 145. § (5) bekezdés a) pontja a 194/2025. (VII. 8.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^711]: Az Ávr. 145. § (5) bekezdés e) pontja a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
-[^712]: Az Ávr. 145. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
-[^713]: Az Ávr. 145. § (7) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 54. pontja szerint módosított szöveg.
-[^714]: Az Ávr. 145. § (8) bekezdése a 74/2013. (III. 11.) Korm. rendelet 32. § 19. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 55. pontja szerint módosított szöveg.
-[^715]: Az Ávr. 145. § (9) bekezdése a 194/2025. (VII. 8.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^716]: Az Ávr. 145. § (10) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 284/2020. (VI. 17.) Korm. rendelet 55. §-a.
-[^717]: Az Ávr. 145. § (11) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 23. §-a iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 57. pontja szerint módosított szöveg.
+[^704]: Az Ávr. 145. § (1) bekezdése a 194/2025. (VII. 8.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^705]: Az Ávr. 145. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított, a 413/2012. (XII. 29.) Korm. rendelet 39. § 35. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
+[^706]: Az Ávr. 145. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^707]: Az Ávr. 145. § (3) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 24. pontja szerint módosított szöveg.
+[^708]: Az Ávr. 145. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^709]: Az Ávr. 145. § (4) bekezdés f) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 25. pontja szerint módosított szöveg.
+[^710]: Az Ávr. 145. § (5) bekezdés nyitó szövegrésze a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
+[^711]: Az Ávr. 145. § (5) bekezdés a) pontja a 194/2025. (VII. 8.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^712]: Az Ávr. 145. § (5) bekezdés e) pontja a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
+[^713]: Az Ávr. 145. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 53. pontja szerint módosított szöveg.
+[^714]: Az Ávr. 145. § (7) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 54. pontja szerint módosított szöveg.
+[^715]: Az Ávr. 145. § (8) bekezdése a 74/2013. (III. 11.) Korm. rendelet 32. § 19. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 55. pontja szerint módosított szöveg.
+[^716]: Az Ávr. 145. § (9) bekezdése a 194/2025. (VII. 8.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^717]: Az Ávr. 145. § (10) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 284/2020. (VI. 17.) Korm. rendelet 55. §-a.
+[^718]: Az Ávr. 145. § (11) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 23. §-a iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 57. pontja szerint módosított szöveg.

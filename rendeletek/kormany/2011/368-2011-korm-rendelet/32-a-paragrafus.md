@@ -1,4 +1,4 @@
-32/A. §[^138] (1) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, és annak hatálybalépése előtt, de legkésőbb a tárgyév december 31-éig beolvadással vagy jogutód nélküli megszűnéssel a következő évre szóló központi költségvetési törvényben külön címként nevesített költségvetési szerv megszűnik, a megszűnt költségvetési szervhez a Kincstár átmeneti, technikai szervezetet rendel. A technikai szervezet a törzskönyvbe nem kerül bejegyzésre.
+32/A. §[^140] (1) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, és annak hatálybalépése előtt, de legkésőbb a tárgyév december 31-éig beolvadással vagy jogutód nélküli megszűnéssel a következő évre szóló központi költségvetési törvényben külön címként nevesített költségvetési szerv megszűnik, a megszűnt költségvetési szervhez a Kincstár átmeneti, technikai szervezetet rendel. A technikai szervezet a törzskönyvbe nem kerül bejegyzésre.
 
 (2) A cím és a hozzá tartozó technikai szervezet kiadási és bevételi előirányzatairól a központi költségvetési törvénnyel összhangban, a költségvetési szervekre irányadó szabályok szerint elemi költségvetés készül azzal az eltéréssel, hogy az elemi költségvetésről a fejezetet irányító szerv szolgáltat adatot a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe.
 
@@ -12,4 +12,4 @@ b) a központi, irányító szervi támogatás kivételével a bevételi és az 
 
 (5) A Kincstár a technikai szervezet adatait a (3) bekezdés szerinti intézkedések elszámolását követően lezárja. A fejezetet irányító szerv – az év közben megszűnő költségvetési szervekre irányadó szabályok szerint – éves költségvetési beszámolót készít az elemi költségvetés szerinti adattartalommal.
 
-[^138]: Az Ávr. 32/A. §-át a 445/2020. (X. 1.) Korm. rendelet 2. §-a iktatta be.
+[^140]: Az Ávr. 32/A. §-át a 445/2020. (X. 1.) Korm. rendelet 2. §-a iktatta be.

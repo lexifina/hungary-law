@@ -1,10 +1,10 @@
 ## [Az Áht. 23. § (2) bekezdéséhez]
 
-24. § (1)[^115] A helyi önkormányzat költségvetési bevételi előirányzatai és költségvetési kiadási előirányzatai között kell megtervezni
+24. § (1)[^117] A helyi önkormányzat költségvetési bevételi előirányzatai és költségvetési kiadási előirányzatai között kell megtervezni
 
-a)[^116] a helyi önkormányzat bevételeit – így különösen a helyi adó bevételeket, a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatásokat, a központi költségvetésből származó egyéb költségvetési támogatásokat –, elkülönítetten az európai uniós forrásból finanszírozott támogatással megvalósuló programok, projektek bevételeit,
+a)[^118] a helyi önkormányzat bevételeit – így különösen a helyi adó bevételeket, a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatásokat, a központi költségvetésből származó egyéb költségvetési támogatásokat –, elkülönítetten az európai uniós forrásból finanszírozott támogatással megvalósuló programok, projektek bevételeit,
 
-b)[^117] a helyi önkormányzat költségvetési kiadásait, így különösen
+b)[^119] a helyi önkormányzat költségvetési kiadásait, így különösen
 
 ba) a helyi önkormányzat nevében végzett beruházások, felújítások kiadásait beruházásonként, felújításonként,
 
@@ -14,15 +14,15 @@ bc) az általános és céltartalékot, és
 
 bd) elkülönítetten az európai uniós forrásból finanszírozott támogatással megvalósuló programok, projektek kiadásait, valamint a helyi önkormányzat ilyen projektekhez történő hozzájárulásait.
 
-(2)[^118] A helyi önkormányzat által irányított költségvetési szervek közül az önkormányzati hivatal költségvetési bevételi előirányzatai és költségvetési kiadási előirányzatai között az önkormányzati hivatal nevében végzett tevékenységekkel kapcsolatos költségvetési bevételeket és költségvetési kiadásokat kell megtervezni.
+(2)[^120] A helyi önkormányzat által irányított költségvetési szervek közül az önkormányzati hivatal költségvetési bevételi előirányzatai és költségvetési kiadási előirányzatai között az önkormányzati hivatal nevében végzett tevékenységekkel kapcsolatos költségvetési bevételeket és költségvetési kiadásokat kell megtervezni.
 
-(3)[^119]
+(3)[^121]
 
-(4)[^120]
+(4)[^122]
 
-[^115]: Az Ávr. 24. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 8. pontja szerint módosított szöveg.
-[^116]: Az Ávr. 24. § (1) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 9. pontja szerint módosított szöveg.
-[^117]: Az Ávr. 24. § (1) bekezdés b) pontja a 499/2016. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^118]: Az Ávr. 24. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 29. § (3) bekezdése, a 397/2014. (XII. 31.) Korm. rendelet 44. § 10. pontja szerint módosított szöveg.
-[^119]: Az Ávr. 24. § (3)–(4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^120]: Az Ávr. 24. § (3)–(4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^117]: Az Ávr. 24. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 8. pontja szerint módosított szöveg.
+[^118]: Az Ávr. 24. § (1) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 9. pontja szerint módosított szöveg.
+[^119]: Az Ávr. 24. § (1) bekezdés b) pontja a 499/2016. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^120]: Az Ávr. 24. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 29. § (3) bekezdése, a 397/2014. (XII. 31.) Korm. rendelet 44. § 10. pontja szerint módosított szöveg.
+[^121]: Az Ávr. 24. § (3)–(4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^122]: Az Ávr. 24. § (3)–(4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 9. pontja hatályon kívül helyezte.

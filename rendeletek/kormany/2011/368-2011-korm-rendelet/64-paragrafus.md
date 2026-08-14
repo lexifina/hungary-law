@@ -2,9 +2,9 @@
 
 64. § (1) A vállalkozási maradványt az államháztartási számviteli kormányrendeletben foglaltak szerint kell megállapítani.
 
-(2)[^369]
+(2)[^370]
 
-(3)[^370]
+(3)[^371]
 
-[^369]: Az Ávr. 64. § (2)–(3) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 9. pontja hatályon kívül helyezte.
 [^370]: Az Ávr. 64. § (2)–(3) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 9. pontja hatályon kívül helyezte.
+[^371]: Az Ávr. 64. § (2)–(3) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 9. pontja hatályon kívül helyezte.

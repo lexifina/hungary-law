@@ -1,3 +1,3 @@
-153. §[^764] A Központi Maradványelszámolási Alap kiadási előirányzatának előirányzat átcsoportosítással történő felhasználásáról az államháztartásért felelős miniszter előterjesztése alapján a Kormány egyedi határozatban rendelkezik.
+153. §[^765] A Központi Maradványelszámolási Alap kiadási előirányzatának előirányzat-átcsoportosítással történő felhasználásáról az államháztartásért felelős miniszternek a felhasználási célt is részletesen bemutató előterjesztése alapján a Kormány nyilvános határozatban rendelkezik.
 
-[^764]: Az Ávr. 153. §-a a 426/2017. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^765]: Az Ávr. 153. §-a a 123/2026. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

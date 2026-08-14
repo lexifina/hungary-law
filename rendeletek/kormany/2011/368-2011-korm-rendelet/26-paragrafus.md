@@ -1,3 +1,3 @@
-26. §[^122]
+26. §[^124]
 
-[^122]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^124]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.

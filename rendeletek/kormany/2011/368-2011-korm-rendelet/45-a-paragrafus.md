@@ -1,23 +1,3 @@
-## [Az Áht. 36. § (2) bekezdéséhez][^187]
+45/A. §[^189]
 
-45/A. §[^188] (1) A Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában fel kell tüntetni
-
-a) a kötelezettségvállalás célját,
-
-b) a kötelezettségvállalás összegének felső korlátját,
-
-c) azon előirányzat címrendi besorolását, amely terhére a kötelezettségvállalásra sor kerül,
-
-d) azt a határidőt, amelyen belül az államháztartásért felelős miniszternek az előirányzat-átcsoportosításról gondoskodnia kell.
-
-(2) Ha az előirányzat-átcsoportosítás tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódik, a címrend ezzel összefüggő kiegészítéséről a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában kell rendelkezni.
-
-(3) A Kormány Áht. 36. § (2) bekezdés szerinti egyedi határozatának elfogadására vonatkozó előterjesztés az államháztartásért felelős miniszter álláspontjának beszerzését követően nyújtható be a Kormány részére.
-
-(4)[^189] Az előirányzat-átcsoportosításról az államháztartásért felelős miniszter a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megállapított határidőn belül gondoskodik. Az átcsoportosított előirányzat kizárólag a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megjelölt kötelezettségvállalás fedezetéül szolgálhat, annak terhére más kötelezettség nem vállalható.
-
-(5) Az Áht. 36. § (2) bekezdése szerinti kötelezettség úgy vállalható, hogy az ahhoz kapcsolódó fizetési kötelezettség teljesítésének legkorábbi időpontja az előirányzat-átcsoportosítás (4) bekezdés szerinti időpontjánál későbbi időpontra essen.
-
-[^187]: Az Ávr. 45/A. §-át megelőző alcím címet a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^188]: Az Ávr. 45/A. §-át a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^189]: Az Ávr. 45/A. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
+[^189]: Az Ávr. 45/A. §-át és az azt megelőző alcím címét a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be, a 123/2026. (VIII. 13.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
