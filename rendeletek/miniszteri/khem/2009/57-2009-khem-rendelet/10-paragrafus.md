@@ -8,7 +8,7 @@ c) a munkaviszony, kormányzati szolgálati, közalkalmazotti jogviszony kezdete
 
 d) igényjogosult hozzátartozó esetén a házastársi vagy élettársi kapcsolatot igazoló közokirat, valamint eltartott gyermek esetében, ha szükséges, a rokkantság igazolása, illetve a tankötelezettségének megszűnését követően az érvényes diákigazolvány másolata vagy az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet 12. § (1) bekezdésében meghatározott igazolás.
 
-(2)[^17] A munkáltató kedvezményezett vasúti társaság, a közigazgatási szerv, az egyéb szervezet, a vasútegészségügyi szervezet és a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 5. § (6) bekezdése szerinti szervezet az adatokat naptári évenként adja át a szolgáltató vasúti társaságnak a tárgyév január első munkanapján az akkor hatályos adatbázisa alapján.
+(2)[^17] A munkáltató kedvezményezett vasúti társaság, a közigazgatási szerv, az egyéb szervezet, a vasútegészségügyi szervezet és a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 21. § (1b) bekezdése szerinti szervezet az adatokat naptári évenként adja át a szolgáltató vasúti társaságnak a tárgyév január első munkanapján az akkor hatályos adatbázisa alapján.
 
 [^16]: A 10. § (1) bekezdése a 16/2023. (VIII. 30.) ÉKM rendelet 3. §-ával megállapított szöveg.
-[^17]: A 10. § (2) bekezdése az 56/2024. (XII. 30.) ÉKM rendelet 7. § b) pontja szerint módosított szöveg.
+[^17]: A 10. § (2) bekezdése az 56/2024. (XII. 30.) ÉKM rendelet 7. § b) pontja, a 8/2026. (VIII. 13.) KBM rendelet 2. § b) pontja szerint módosított szöveg.
