@@ -1,0 +1,1 @@
+52/D. § E törvénynek a közpénzügyi reformokkal összefüggésben egyes államháztartási szabályok módosításáról szóló 2026. évi XLV. törvénnyel megállapított 18. § (8) bekezdését első alkalommal a 2027. évi központi költségvetés tervezése során kell alkalmazni.

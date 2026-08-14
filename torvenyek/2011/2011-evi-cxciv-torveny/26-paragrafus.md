@@ -1,1 +1,1 @@
-26. § Ha a Tanács elnöke a Tanács előzetes hozzájárulására vonatkozó, 25. § és 25/A. § szerinti álláspontját határidőn belül írásban nem közli az Országgyűlés elnökével, a Tanács előzetes hozzájárulását megadottnak kell tekinteni.
+### 26. §

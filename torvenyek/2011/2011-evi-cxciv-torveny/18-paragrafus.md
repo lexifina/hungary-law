@@ -12,4 +12,4 @@
 
 (7) A Tanács elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
 
-(8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
+(8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét a központi költségvetés I. Országgyűlés fejezetén belül önálló alcímen, fejezeti kezelésű előirányzatként kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, gazdálkodásával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
