@@ -398,7 +398,7 @@ Zala Vármegye Önkormányzata
 
 8. 2.3.1. A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása jogcím
 
-8.1. A jogcím az 5 000 fő lakosságszámot meg nem haladó önkormányzat szociális célú tüzelőanyag - tűzifa vagy barnakőszén - vásárlásának támogatására szolgál.
+8.1. A jogcím a 20 000 fő lakosságszámot meg nem haladó önkormányzat szociális célú tüzelőanyag - tűzifa vagy barnakőszén - vásárlásának támogatására szolgál.
 
 8.2. A támogatást az önkormányzatok pályázati úton igényelhetik. A pályázatot a helyi önkormányzatokért felelős miniszter, az államháztartásért felelős miniszter egyetértésével, írja ki.
 

@@ -6,6 +6,6 @@
 
 (2) Az Európai Beruházási Banktól, az Európai Újjáépítési és Fejlesztési Banktól, valamint az Európa Tanács Fejlesztési Banktól felveendő hitelekhez vállalható egyedi állami kezességek és állami garanciák nem terhelik az (1) bekezdés szerinti keretösszeget.
 
-(3) Az állam készfizető kezesként felel a Magyar Szénhidrogén Készletező Szövetség azon fizetési kötelezettségeiért, amelyek a jogszabályban meghatározott feladatainak érdekében belföldről, vagy külföldről felvett hiteleiből erednek.
+(3)
 
-(4) A Magyar Szénhidrogén Készletező Szövetség a (3) bekezdés szerinti kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosítékot nem írhat elő.
+(4)

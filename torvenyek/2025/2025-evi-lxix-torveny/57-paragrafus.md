@@ -16,4 +16,4 @@ a) pénzügyi intézmény,
 
 b) kötvény-tulajdonos.
 
-(6) A Start Garancia Pénzügyi Szolgáltató Zrt. által állami viszontgarancia mellett vállalt kezesség állománya 2026. december 31-én nem haladhatja meg a 3 000 000,0 millió forintot.
+(6) A Start Garancia Pénzügyi Szolgáltató Zrt. által állami viszontgarancia mellett vállalt kezesség állománya 2026. december 31-én nem haladhatja meg a 2 000 000,0 millió forintot.
