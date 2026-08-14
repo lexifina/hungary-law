@@ -1,0 +1,1 @@
+3. § A társaság vezető tisztségviselője, vezető testületének tagja köteles az integritás, az objektivitás és a befolyásmentesség követelményeinek megfelelően ellátni feladatait, biztosítva a társaság üzleti tevékenységével összefüggő stratégiai irányítási, kockázatkezelési felügyeleti és menedzsment-ellenőrzési funkciókat.
