@@ -2,9 +2,9 @@
 
 36. § (1) A 32. §-ban meghatározott kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor. Más fizetési kötelezettségnek minősül a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, illetve véglegessé vált vagy azonnal végrehajtható hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség.
 
-(2) A Kormány egyedi határozatban a szabad előirányzatot meghaladó mértékű vagy tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi kötelezettségvállalást engedélyezhet az ahhoz szükséges előirányzat mértékéről hozott döntésével egyidejűleg.
+(2)
 
-(3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
+(3) Az (1) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
 (4) A 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében a költségvetési évet követő év vagy évek kiadási előirányzatai terhére kötelezettség
 
@@ -26,9 +26,9 @@ a) alapja a következő évre szóló központi költségvetési törvény kihir
 
 b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
 
-(4b) A (4) bekezdés b) és c) pontja, valamint a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
+(4b) A (4) bekezdés b) és c) pontja, valamint a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány jóváhagyása szükséges, amelyről nyilvános határozatban dönt.
 
-(4c) A Kormány egyedi határozatával, az érintett költségvetési évek szerinti bontásban
+(4c) A Kormány nyilvános határozatával, az érintett költségvetési évek szerinti bontásban
 
 a) az irányítása alá tartozó fejezetek tekintetében a (4) bekezdés b) pontjában és a (4a) bekezdésben meghatározott értékhatártól eltérő összeget is megállapíthat,
 

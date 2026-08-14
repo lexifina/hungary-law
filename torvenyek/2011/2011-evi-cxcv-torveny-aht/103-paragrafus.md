@@ -16,7 +16,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (5) A Központi Költségvetés Végrehajtását Támogató Rendszer (a továbbiakban: KKVTR rendszer) a kincstár által fejlesztett és működtetett, az államháztartás információs rendszere részeként működő, integrált informatikai rendszer, amely a központi költségvetés végrehajtásához és ellenőrzéséhez szükséges adatokat tartalmazó nem közhiteles nyilvántartás. A KKVTR rendszer személyes adatokat nem tartalmaz.
 
-(6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, a 36. § (2) bekezdése szerinti kormányhatározatokban meghatározott kötelezettségvállalások, valamint a kiadások és bevételek teljesítésének adatait.
+(6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, valamint a kiadások és bevételek teljesítésének adatait.
 
 (7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével –, a fejezeti kezelésű előirányzatok fejezetet irányító szerve, valamint a központi kezelésű előirányzatok kezelő szerve – a kincstár által könyvelt központi kezelésű előirányzatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
 

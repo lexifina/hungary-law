@@ -2,7 +2,7 @@
 
 22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Gst. szerint egyezteti a Költségvetési Tanáccsal.
 
-(2) A Kormány október 15-éig – az országgyűlési képviselők általános választásának évében október 31-éig – benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
+(2) A Kormány a központi költségvetésről szóló törvényjavaslatot október 1. és október 31. közötti időszakban nyújtja be az Országgyűlésnek.
 
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
