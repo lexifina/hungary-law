@@ -14,13 +14,13 @@ e) a szociális partnerek és
 
 f) a civil szervezetek
 
-g)[^22] az illetékes hatóság
+g)[^28] az illetékes hatóság
 
-h)[^23] a környezetvédelemért és klímapolitikáért felelős miniszter
+h)[^29] a környezetvédelemért és klímapolitikáért felelős miniszter
 
 delegálják.
 
-(2)[^24] A Nemzeti KAP Monitoring Bizottságba tanácskozási joggal rendelkező szakértőt delegálhat
+(2)[^30] A Nemzeti KAP Monitoring Bizottságba tanácskozási joggal rendelkező szakértőt delegálhat
 
 a) az Európai Bizottság,
 
@@ -32,7 +32,7 @@ d) a gazdaságfejlesztésért felelős miniszter, valamint
 
 e) a területfejlesztésért felelős miniszter.
 
-f)[^25] nem kormányzati szervek.
+f)[^31] nem kormányzati szervek.
 
 (3) A Nemzeti KAP Monitoring Bizottság a KAP I rendelet 124. cikkében és az e rendeletben meghatározott feladatokat látja el az ügyrendjében foglaltak szerint.
 
@@ -42,7 +42,7 @@ f)[^25] nem kormányzati szervek.
 
 (6) A Nemzeti KAP Monitoring Bizottság tagjainak listája nyilvános.
 
-[^22]: A 6. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
-[^23]: A 6. § (1) bekezdés h) pontját a 422/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^24]: A 6. § (2) bekezdés nyitó szövegrésze a 422/2024. (XII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^25]: A 6. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^28]: A 6. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
+[^29]: A 6. § (1) bekezdés h) pontját a 422/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^30]: A 6. § (2) bekezdés nyitó szövegrésze a 422/2024. (XII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^31]: A 6. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.

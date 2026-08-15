@@ -1,4 +1,4 @@
-5/C. §[^21] (1) Bárki jogosult anonim módon bejelenteni a 3. § 21. pontja szerinti honlapon, ha a KAP törvény 3. §-a szerinti eljárásban összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
+5/C. §[^27] (1) Bárki jogosult anonim módon bejelenteni a 3. § 21. pontja szerinti honlapon, ha a KAP törvény 3. §-a szerinti eljárásban összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
 
 (2) Az Igazgatóság az (1) bekezdés szerinti bejelentést kivizsgálja, és a megalapozott bejelentésről haladéktalanul tájékoztatja a KAP törvény 12. §-a szerinti – a bejelentéssel érintett – szervezetet.
 
@@ -14,4 +14,4 @@ b) nyilvánvalóan alaptalan.
 
 (6) Az Igazgatóság az (1) bekezdés szerinti bejelentések vizsgálata során keletkezett dokumentumokat a vizsgálatok lezárásától számított öt évig megőrzi.
 
-[^21]: Az 5/C. §-t a 668/2023. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^27]: Az 5/C. §-t a 668/2023. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
