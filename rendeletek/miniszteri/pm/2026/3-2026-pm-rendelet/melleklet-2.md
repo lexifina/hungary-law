@@ -50,13 +50,17 @@
 
 | 4 | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2030. december 31. |
 
+| 5[^2] | Általános Vagyonkezelő Kft. | 01-09-283630 | 2030. december 31. |
+
+| 6[^3] | Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-921027 | 2030. december 31. |
+
 ## V. Tulajdonosi joggyakorló: a Gazdasági és Energetikai Minisztérium
 
 |  | A | B | C |
 
 | 1 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 2 | Általános Vagyonkezelő Kft. | 01-09-283630 | 2030. december 31. |
+| 2[^4] |  |  |  |
 
 | 3 | CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2030. december 31. |
 
@@ -105,6 +109,8 @@
 | 25 | START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2030. december 31. |
 
 | 26 | VEX Magyar Védelmi és Űripari Exportügynökség Zártkörűen Működő Részvénytársaság | 01-10-141670 | 2030. december 31. |
+
+| 27[^5] | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2030. december 31. |
 
 ## VI. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
@@ -171,6 +177,8 @@
 | 22 | TÜV Rheinland-KTI Műszaki Ellenőrző és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-070167 | 2030. december 31. |
 
 | 23 | Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140096 | 2030. december 31. |
+
+| 24[^6] | OKK Országos Közlekedési Központ Zártkörűen Működő Részvénytársaság | 01-10-143773 | 2030. december 31. |
 
 ## VIII. Tulajdonosi joggyakorló: a Külügyminisztérium
 
@@ -308,6 +316,18 @@
 
 | 3 | Somogyi Beruházásszervező és Mérnöki Korlátolt Felelősségű Társaság | 14-09-311381 | 2030. december 31. |
 
+| 4[^7] | BTTF Balaton Térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2030. december 31. |
+
+| 5[^8] | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2030. december 31. |
+
 2. melléklet a 3/2026. (VI. 30.) PM rendelethez
 
 Tulajdonosi jogokat gyakorló költségvetési szervek
+
+[^2]: Az 1. melléklet IV. pontjában foglalt táblázat 5. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^3]: Az 1. melléklet IV. pontjában foglalt táblázat 6. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^4]: Az 1. melléklet V. pontjában foglalt táblázat 2. sorát a 4/2026. (VIII. 14.) PM rendelet 2. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet V. pontjában foglalt táblázat 27. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^6]: Az 1. melléklet VII. pontjában foglalt táblázat 24. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^7]: Az 1. melléklet XV. pontjában foglalt táblázat 4. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^8]: Az 1. melléklet XV. pontjában foglalt táblázat 5. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
