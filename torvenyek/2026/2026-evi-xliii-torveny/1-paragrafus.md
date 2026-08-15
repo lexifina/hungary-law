@@ -1,3 +1,1 @@
-1. § A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 12. alcíme a következő 37/A. §-sal egészül ki:
-
-„37/A. § Az Országgyűlés megállapítja, hogy a Helyreállítási és Ellenállóképességi Terv keretében a 2026. évben lehívott hitelből 688 338 565 eurónak megfelelő forint összegű tőkeemelésre kerül sor az MFB Zrt.-ben, amely tőkét az Európai Beruházási Bankkal együttműködve, az MFB Zrt. által az Európai Beruházási Bankkal kötendő társfinanszírozási megállapodás alapján kell felhasználni.”
+### 1. §
