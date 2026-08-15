@@ -1,4 +1,4 @@
-## 7/A.[^119] A kárenyhítési előleg igénybevételének részletes szabályai
+## 7/A.[^120] A kárenyhítési előleg igénybevételének részletes szabályai
 
 11/A. § (1) A kárenyhítési előleg igénybevételére 2026. évi tavaszi fagy vagy 2026. június 15-éig bekövetkezett jégeső után a 2026. évben az Mkk. tv. 10/A. § (1) bekezdése szerinti azon mezőgazdasági termelő jogosult,
 
@@ -18,4 +18,4 @@ bb) a káresemény vagy mindkét káresemény bekövetkezése esetén a nagyobb 
 
 (5) A kárenyhítő juttatás összegének Mkk. tv. 15. § (1) bekezdése szerinti megállapítása során figyelembe kell venni a mezőgazdasági termelő részére már kifizetett kárenyhítési előleg összegét.
 
-[^119]: A 7/A. alcímet (11/A. §-t) a 12/2026. (VIII. 11.) AÉM rendelet 1. §-a iktatta be.
+[^120]: A 7/A. alcímet (11/A. §-t) a 12/2026. (VIII. 11.) AÉM rendelet 1. §-a iktatta be.

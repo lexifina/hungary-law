@@ -1,3 +1,3 @@
-1. melléklet a 27/2014. (XI. 25.) FM rendelethez[^150]
+1. melléklet a 27/2014. (XI. 25.) FM rendelethez[^151]
 
-[^150]: Az 1. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^151]: Az 1. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § a) pontja hatályon kívül helyezte.

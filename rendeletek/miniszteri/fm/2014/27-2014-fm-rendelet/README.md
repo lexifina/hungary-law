@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-27-20-1
 | 2026-06-09 | 2014-27-20-11.34 | 1/2026. (VI. 8.) AÉM rendelet |
 | 2026-07-25 | 2014-27-20-11.35 | 8/2026. (VII. 24.) AÉM rendelet |
 | 2026-08-12 | 2014-27-20-11.37 | 12/2026. (VIII. 11.) AÉM rendelet |
+| 2026-08-15 | 2014-27-20-11.38 | 8/2026. (VII. 24.) AÉM rendelet |

@@ -1,4 +1,4 @@
-## 8/A.[^125] A Közös Agrárpolitika Stratégiai Terv forrásait kiegészítő nemzeti támogatás
+## 8/A.[^126] A Közös Agrárpolitika Stratégiai Terv forrásait kiegészítő nemzeti támogatás
 
 12/B. § (1) A 2025. kárenyhítési év vonatkozásában a mezőgazdasági termelő kiegészítő nemzeti támogatásra jogosult a kárenyhítő juttatás arányos csökkentésének mérséklése érdekében.
 
@@ -14,4 +14,4 @@
 
 (7) A kiegészítő nemzeti támogatás a kárenyhítő juttatás olyan része, amelyről az agrárkár-enyhítési szerv a Közös Agrárpolitika Stratégiai Terv forrásaitól elkülönítetten számol el.
 
-[^125]: A 8/A. alcímet (12/B. §-t) a 10/2026. (III. 27.) AM rendelet 6. §-a iktatta be.
+[^126]: A 8/A. alcímet (12/B. §-t) a 10/2026. (III. 27.) AM rendelet 6. §-a iktatta be.
