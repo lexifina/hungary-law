@@ -1,0 +1,1 @@
+5. § A Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és intézményeiről szóló 601/2022. (XII. 28.) Korm. rendelet 3. § 22. pontjában az „ARACHNE” szövegrész helyébe az „ARACHNE+” szöveg lép.
