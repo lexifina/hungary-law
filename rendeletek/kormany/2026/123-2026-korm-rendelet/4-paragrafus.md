@@ -1,7 +1,3 @@
-4. § Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+4. §[^4]
 
-a) [Az Áht. 36. § (2) bekezdéséhez] alcíme,
-
-b) 53/A. § (2) bekezdésében az „és az Áht. 36. § (2) bekezdése szerinti kötelezettségvállalás” szövegrész és
-
-c) 5. mellékletében foglalt táblázat 14b sora.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

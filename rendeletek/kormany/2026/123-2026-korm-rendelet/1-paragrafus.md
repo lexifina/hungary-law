@@ -12,6 +12,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-a helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„153. § A Központi Maradványelszámolási Alap kiadási előirányzatának előirányzat-átcsoportosítással történő felhasználásáról az államháztartásért felelős miniszternek a felhasználási célt is részletesen bemutató előterjesztése alapján a Kormány nyilvános határozatban rendelkezik.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
