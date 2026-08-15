@@ -1,0 +1,9 @@
+# 14/2026. (VIII. 14.) AÉM rendelet
+
+a zöldség-gyümölcs termelői szervezetekkel, valamint a kárenyhítő juttatás igénybevételével kapcsolatos miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-14-20-31
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-08-15 | 2026-14-20-31.1 | 14/2026. (VIII. 14.) AÉM rendelet |
