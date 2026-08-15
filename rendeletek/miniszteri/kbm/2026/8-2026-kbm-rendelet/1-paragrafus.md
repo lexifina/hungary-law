@@ -10,6 +10,6 @@
 
 ## 1. Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet módosítása
 
-1. § Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet [a továbbiakban: 57/2009. (X. 20.) KHEM rendelet] 2. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 37. § (1) bekezdése szerinti utazási kedvezményre (a továbbiakban: kedvezmény) jogosultak:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

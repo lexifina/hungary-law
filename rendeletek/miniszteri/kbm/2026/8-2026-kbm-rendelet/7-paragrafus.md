@@ -1,5 +1,5 @@
 ## 3. Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás, a közforgalmú menetrendkészítés és egységes egyeztetési eljárás részletes szabályairól szóló 40/2025. (XII. 22.) ÉKM rendelet módosítása
 
-7. § Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás, a közforgalmú menetrendkészítés és egységes egyeztetési eljárás részletes szabályairól szóló 40/2025. (XII. 22.) ÉKM rendelet [a továbbiakban: 40/2025. (XII. 22.) ÉKM rendelet] 1. §-a a következő (3) bekezdéssel egészül ki:
+7. §[^8]
 
-„(3) Ha a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvényben (a továbbiakban: Sztv.) meghatározott feltételekkel létrehozott országos közlekedésszervező az Sztv.-ben meghatározott kijelölő jogszabályban kapott felhatalmazás alapján a közlekedésért felelős miniszter feladatkörébe tartozó tevékenységet lát el, e rendelet előírásait a feladatkör tekintetében az országos közlekedésszervezőre is megfelelően alkalmazni kell.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
