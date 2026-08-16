@@ -1,1 +1,3 @@
-5. § A Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és intézményeiről szóló 601/2022. (XII. 28.) Korm. rendelet 3. § 22. pontjában az „ARACHNE” szövegrész helyébe az „ARACHNE+” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
