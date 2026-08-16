@@ -12,7 +12,7 @@ b) kérheti szolgálati viszonyának a 80. § (2) bekezdés a) vagy b) pontja al
 
 (4) A hatáskört telepítő jogszabály hatálybalépésének napján a hivatásos állomány szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt rendelkezési állományban lévő tagja esetében a gyermekgondozás céljából igénybe vett illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a hivatásos állomány tagja nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő nappal kell a (2) vagy (3) bekezdés szerinti intézkedést meghozni, azzal, hogy hatósági vezénylés esetén
 
-a) a hatósági vezénylés határideje a hatáskört telepítő jogszabály hatályba lépésének napjától számított legfeljebb két év lehet,
+a) a hatósági vezénylés határideje 2026. december 31. napja,
 
 b) a kormányzati igazgatási szerv a 138. § esetében a hivatásos állomány tagját rész-szolgálatteljesítési időben foglalkoztatja.
 
@@ -20,7 +20,7 @@ b) a kormányzati igazgatási szerv a 138. § esetében a hivatásos állomány 
 
 (6) Ha az (5) bekezdés szerinti szolgálatteljesítési hely nem biztosítható, és a hivatásos állomány tagja nem vállalja a hosszabb utazási időt, a hivatásos állomány tagjának szolgálati viszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
 
-(7) A hatósági vezénylés a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+(7) A hatósági vezénylés 2026. december 31. napjáig szól.
 
 (8) A hivatásos állomány hatósági vezényléssel érintett tagja felett – a szolgálati viszony megszüntetése kivételével – a munkáltatói jogokat a kormányzati igazgatási szerv munkáltatói jogkört gyakorló vezetője gyakorolja.
 

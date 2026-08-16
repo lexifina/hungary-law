@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2015-42-00-00.66 |
 | 2026-05-14 | 2026. évi XIV. törvény | 2015-42-00-00.68 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2015-42-00-00.69 |
+| 2026-08-16 | 2026. évi XLVI. törvény | 2015-42-00-00.70 |

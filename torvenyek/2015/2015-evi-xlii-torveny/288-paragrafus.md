@@ -60,7 +60,7 @@ b) kérheti igazgatási jogviszonyának a 288/E. § (4) bekezdés a) vagy b) pon
 
 (16) A hatáskört telepítő jogszabály hatálybalépésének napján szülési szabadságon lévő vagy gyermekgondozás céljából igénybe vett illetmény nélküli szabadságon lévő rendvédelmi alkalmazott esetében az illetmény nélküli szabadság – vagy ha a szülési szabadság leteltét követően a rendvédelmi alkalmazott nem vesz igénybe illetmény nélküli szabadságot, akkor a szülési szabadság – megszűnését követő napon kell a (14) vagy (15) bekezdés alapján eljárni azzal, hogy hatósági kirendelés esetén
 
-a) a hatósági kirendelés határideje a hatáskört telepítő jogszabály hatálybalépésének napjától számított legfeljebb két év lehet,
+a) a hatósági kirendelés határideje 2026. december 31. napja,
 
 b) a kormányzati igazgatási szerv a 138. § esetében a rendvédelmi alkalmazottat részmunkaidőben foglalkoztatja.
 
@@ -68,7 +68,7 @@ b) a kormányzati igazgatási szerv a 138. § esetében a rendvédelmi alkalmazo
 
 (18) Ha a (17) bekezdés szerinti munkavégzési hely nem biztosítható, és a rendvédelmi alkalmazott nem vállalja a hosszabb utazási időt, a rendvédelmi alkalmazott igazgatási jogviszonya a törvény erejénél fogva megszűnik azzal, hogy részére az e törvény szerinti felmentési időre és végkielégítésre vonatkozó szabályokat alkalmazni kell.
 
-(19) A hatósági kirendelésre a hatáskört telepítő jogszabály hatálybalépésének napjával kerül sor és a hatáskört telepítő jogszabály hatálybalépésétől számított legfeljebb két évre szól.
+(19) A hatósági kirendelés 2026. december 31. napjáig szól.
 
 (20) A kirendelt a hatósági kirendelés időtartama alatt rendelkezési állományba kerül.
 

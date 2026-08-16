@@ -35,7 +35,3 @@ II. Képzettség, szakképzettség
 ## – tudományos fokozata
 
 ## – idegennyelv-ismerete
-
-III. Korábbi igazgatási jogviszonyok
-
-## – a korábbi igazgatási jogviszonyban töltött időtartamok megnevezése,
