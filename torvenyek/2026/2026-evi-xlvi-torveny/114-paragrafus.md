@@ -1,0 +1,1 @@
+114. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9. § (10) bekezdés a) pontjában az „az Országgyűlési Őrség” szövegrész helyébe az „a rendőrség” szöveg lép.

@@ -1,0 +1,1 @@
+135. § Hatályát veszti a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény 3. § 5. pontjában a „valamint a rendőrség terrorizmust elhárító szerve,” szövegrész.

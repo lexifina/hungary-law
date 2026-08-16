@@ -1,0 +1,1 @@
+47. § Hatályát veszti a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 7/A. § (1) bekezdés c) pontjában a „vagy” szövegrész.

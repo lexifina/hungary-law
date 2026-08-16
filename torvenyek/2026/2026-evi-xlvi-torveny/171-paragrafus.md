@@ -1,0 +1,1 @@
+171. § A 74. §, a 75. §, a 76. §, a 77. §, a 79. § b)–i) pontja és a 80. § a)–e), j), n), o) és p) pontja az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.

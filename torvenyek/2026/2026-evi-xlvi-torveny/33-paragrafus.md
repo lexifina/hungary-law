@@ -1,0 +1,3 @@
+## 13. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény módosítása
+
+33. § Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény 3. § (6) bekezdésében a „terrorizmust elhárító szerv és” szövegrész helyébe a „Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv, valamint” szöveg lép.

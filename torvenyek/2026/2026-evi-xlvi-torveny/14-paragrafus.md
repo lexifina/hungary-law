@@ -1,0 +1,3 @@
+14. § A Rendőrségről szóló 1994. évi XXXIV. törvény 46. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A rendőrség a védett középületek és az abban tartózkodók biztonsága érdekében az (1) bekezdés a) és d) pontjában meghatározottakon túl a be- és kilépésre az ott elhelyezett szerv vezetőjével egyetértésben szabályokat állapíthat meg. Az Országház és az Országgyűlés Hivatala elhelyezésére szolgáló épületek tekintetében e szabályozás kizárólag a rendőri intézkedések végrehajtásának módjára és a rendőrség feladatkörét érintő kérdésekre vonatkozik, nem terjed ki az Országgyűlésről szóló 2012. évi XXXVI. törvény 54. § (2) bekezdése alapján az Országgyűlés elnöke által szabályozott kérdésekre.”
