@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-4-20-53
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-08-15 | 2026-4-20-53.1 | 4/2026. (VIII. 14.) PM rendelet |
+| 2026-08-16 | 2026-4-20-53.2 | 2010. évi CXXX. törvény |
