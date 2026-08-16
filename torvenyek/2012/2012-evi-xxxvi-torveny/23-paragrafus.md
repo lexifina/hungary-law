@@ -8,6 +8,6 @@
 
 (3a) Az eseti bizottság képviselő tagja képviseleti megbízást képviselő bizottsági tagnak adhat.
 
-(4) Az eseti bizottságra a 15. § (2) és (4) bekezdését, a 17. § (1) és (4) bekezdését, a 18. § (2), (3), (5) és (6) bekezdését, a 18. § (4) bekezdésének személyi javaslatra vonatkozó rendelkezéseit, a 19–20. §-t, valamint a 21. § (1) és (3) bekezdését alkalmazni kell.
+(4) Az eseti bizottságra a 15. § (2) és (4) bekezdését, a 17. § (1) és (4) bekezdését, a 18. § (2)–(6) bekezdését, a 19–20. §-t, valamint a 21. § (1) és (3) bekezdését alkalmazni kell.
 
 (5)
