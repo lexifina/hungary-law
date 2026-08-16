@@ -1,3 +1,3 @@
-7. §[^9]
+7. §[^10]
 
-[^9]: A 7. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+[^10]: A 7. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.

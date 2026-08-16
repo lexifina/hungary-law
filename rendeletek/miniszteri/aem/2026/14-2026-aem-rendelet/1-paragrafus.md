@@ -22,10 +22,6 @@
 
 ## 1. A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosítása
 
-1. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet
+1. §[^1]
 
-a) 4. § (4a) bekezdésében a „KAL 21 hasznosítási kóddal jelölt kukorica” szövegrész helyébe a „KAL 21 hasznosítási kóddal jelölt kukorica, illetve a KAL 24 hasznosítási kóddal jelölt silókukorica” szöveg,
-
-b) 4. § (4a) bekezdés b) pontjában az „augusztus 15.” szövegrész helyébe az „augusztus 31.” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

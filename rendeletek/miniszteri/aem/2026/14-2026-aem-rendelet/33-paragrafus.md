@@ -1,3 +1,3 @@
-33. §[^34]
+33. §[^35]
 
-[^34]: A 33. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+[^35]: A 33. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.

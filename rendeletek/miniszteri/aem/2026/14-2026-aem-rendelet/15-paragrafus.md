@@ -1,3 +1,3 @@
-15. §[^17]
+15. §[^18]
 
-[^17]: A 15. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+[^18]: A 15. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.

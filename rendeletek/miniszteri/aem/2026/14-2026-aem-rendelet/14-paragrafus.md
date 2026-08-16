@@ -1,3 +1,3 @@
-14. §[^16]
+14. §[^17]
 
-[^16]: A 14. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+[^17]: A 14. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.

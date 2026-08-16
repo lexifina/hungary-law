@@ -1,3 +1,3 @@
-27. §[^29]
+27. §[^30]
 
-[^29]: A 27. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+[^30]: A 27. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
