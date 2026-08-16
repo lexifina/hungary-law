@@ -1,1 +1,1 @@
-5. § Hatályát veszti az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (5) bekezdésében a „valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter,” szövegrész.
+### 5. §
