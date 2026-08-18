@@ -1,4 +1,4 @@
-29. §[^93] E rendeletnek a kiterjesztett gyártói felelősségi rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 203/2025. (VII. 17.) Korm. rendelettel (a továbbiakban: Mód. kr.) megállapított 8. §-a szerinti engedély iránti kérelmet a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 23. §-a alapján az országos hulladékgazdálkodási hatóság nyilvántartásában a Mód. kr. hatálybalépésekor[^94] szereplő gyártó, valamint a koncessziós társaság 2025. szeptember 30. napjáig terjeszti elő az országos hulladékgazdálkodási hatóság előtt.
+29. §[^88] E rendeletnek a kiterjesztett gyártói felelősségi rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 203/2025. (VII. 17.) Korm. rendelettel (a továbbiakban: Mód. kr.) megállapított 8. §-a szerinti engedély iránti kérelmet a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 23. §-a alapján az országos hulladékgazdálkodási hatóság nyilvántartásában a Mód. kr. hatálybalépésekor[^89] szereplő gyártó, valamint a koncessziós társaság 2025. szeptember 30. napjáig terjeszti elő az országos hulladékgazdálkodási hatóság előtt.
 
-[^93]: A 29. § a 203/2025. (VII. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^94]: A hatálybalépés időpontja 2025. augusztus 18.
+[^88]: A 29. § a 203/2025. (VII. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^89]: A hatálybalépés időpontja 2025. augusztus 18.
