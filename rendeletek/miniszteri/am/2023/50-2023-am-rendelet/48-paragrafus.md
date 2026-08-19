@@ -1,3 +1,3 @@
-48. §[^116]
+48. §[^151]
 
-[^116]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

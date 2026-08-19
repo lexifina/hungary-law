@@ -12,4 +12,8 @@ d) az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 
 
 e) az egyes harmadik országokból származó áruk szállítására szolgáló, fából készült csomagolóanyagoknak az Unió területére történő behozatalára és az ezen anyagok növényegészségügyi ellenőrzésére vonatkozó követelmények meghatározásáról, valamint az (EU) 2018/1137 végrehajtási határozat hatályon kívül helyezéséről szóló, 2021. február 3-i (EU) 2021/127 bizottsági végrehajtási rendelet
 
+f)[^143] az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozástípusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló (EU) 2022/126 felhatalmazáson alapuló rendelet helyesbítéséről szóló, 2025. március 31-i (EU) 2025/1159 felhatalmazáson alapuló bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^143]: A 40. § f) pontját a 14/2026. (VIII. 14.) AÉM rendelet 28. §-a iktatta be.

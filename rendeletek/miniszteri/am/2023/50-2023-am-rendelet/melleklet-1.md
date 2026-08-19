@@ -40,6 +40,8 @@ A zöldszüret és be nem takarítás beavatkozástípus végrehajtása esetén 
 
 | 17. | Cseresznye | 1 114,81 |
 
-| 18. | Dinnye | 3 347,48 |
+| 18. | Görög- és sárgadinnye[^153] | 3 347,48 |
 
 * Fűtött termesztőberendezésben
+
+[^153]: Az 1. mellékletben foglalt táblázat A:18 mezője a 14/2026. (VIII. 14.) AÉM rendelet 29. §-ával megállapított szöveg.

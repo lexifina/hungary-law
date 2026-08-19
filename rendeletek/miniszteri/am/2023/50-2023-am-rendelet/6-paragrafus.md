@@ -14,7 +14,7 @@ szabályait.
 
 (2) A létesítő okiratban meg kell határozni a működési alap forrásait és finanszírozása módját.
 
-(3) A működési alap felhasználása módjáról a termelői szervezet létesítő okiratában meghatározott, a tagok képviseletében eljáró testület dönt. A döntésben nem vehet részt az a tag, akinek a gazdaságában a működési alap felhasználásával a 8. § (1) bekezdése szerinti beruházás történik, vagy aki természetes személyként vagy egy jogi személy tulajdonosaként, képviselőjeként az operatív programban foglalt beavatkozás végrehajtására a termelői szervezettel szerződést köt.
+(3)[^37] A működési alap felhasználása módjáról a termelői szervezet létesítő okiratában meghatározott, a tagok képviseletében eljáró testület dönt. A döntésben nem vehet részt az a tag, akinek a gazdaságában a működési alap felhasználásával a 8. § (1) bekezdése szerinti beruházás történik, akinek a működési alap felhasználásával beszerzett eszköz kizárólagos használatába kerül, vagy aki természetes személyként vagy egy jogi személy tulajdonosaként, képviselőjeként az operatív programban foglalt beavatkozás végrehajtására a termelői szervezettel szerződést köt.
 
 (4) A működési alap felhasználásáról szóló döntést a testület ülésének jegyzőkönyvében úgy kell dokumentálni, hogy abból megállapítható legyen a (3) bekezdésben foglalt feltételek teljesülése.
 
@@ -67,3 +67,5 @@ A nemzeti és uniós pénzügyi támogatás összegét a kifizetési kérelem al
 (17) Ha a termelői szervezet az operatív programot befejezi, és a működési alappal elszámol, az analitikus nyilvántartásban szereplő egyenleget az operatív program keretében végrehajtott beavatkozásokkal kapcsolatos fenntartási kötelezettsége időtartamáig tartja fenn. A fenntartási időszak elteltével a működési alap megszűnik, kivéve, ha időközben új operatív program végrehajtása kezdődik.
 
 (18) A működési alap működtetési időszakának az operatív program végrehajtásának hiánya miatti megszűnése esetén a működési alapban még rendelkezésre álló forrást a termelői szervezet a legfőbb döntéshozó szervének döntése alapján fejlesztésre vagy szakmai továbbképzésre fordítja.
+
+[^37]: A 6. § (3) bekezdése a 14/2026. (VIII. 14.) AÉM rendelet 15. §-ával megállapított szöveg.

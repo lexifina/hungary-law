@@ -1,6 +1,6 @@
 ## 29. Az operatív programok jóváhagyása és módosítása
 
-30. § (1)[^88] A Nemzeti Irányító Hatóság a benyújtott operatív program – vagy a módosítási kérelem – jóváhagyását megelőzően dokumentáción alapuló ellenőrzést végez. Az ellenőrzés különösen az alábbiakra terjed ki:
+30. § (1)[^119] A Nemzeti Irányító Hatóság a benyújtott operatív program – vagy a módosítási kérelem – jóváhagyását megelőzően dokumentáción alapuló ellenőrzést végez. Az ellenőrzés különösen az alábbiakra terjed ki:
 
 a) az operatív programban szereplő információk pontossága,
 
@@ -24,4 +24,4 @@ e) az éghajlatváltozáshoz kapcsolódó agrár-környezetvédelmi célokra ir�
 
 f) a támogatási kérelem alapját képező beavatkozások megfelelősége az alkalmazandó európai uniós és nemzeti jogszabályoknak.
 
-[^88]: A 30. § (1) bekezdés nyitó szövegrésze az 5/2024. (II. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^119]: A 30. § (1) bekezdés nyitó szövegrésze az 5/2024. (II. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.

@@ -34,6 +34,9 @@ b) az operatív programban jóváhagyott éves részletekben.
 
 (7) Beruházások esetén újnak minősül a kereskedelmi forgalomban vagy gyártótól beszerezhető, első üzembe helyezésű gépek, technológiai berendezések, eszközök, anyagok beszerzése vagy beépítése.
 
-(8)[^27] Lízingszerződések alapján megvalósított beruházás esetén az (5) bekezdésben meghatározott fenntartási időszak kezdete az állományba vétel dátuma.
+(8)[^44] Lízingszerződések alapján megvalósított beruházás esetén az (5) bekezdésben meghatározott fenntartási időszak kezdete az állományba vétel dátuma.
 
-[^27]: A 8. § (8) bekezdését a 44/2024. (VIII. 29.) AM rendelet 6. §-a iktatta be.
+(9)[^45] Az elsődleges termelésbe történő beruházásoknak az 50/2017. (X. 10.) FM rendelet 2. § (6) bekezdés a) és b) pontjában meghatározott ellenőrzött integrált termesztési és növényvédelmi technológiának az érintett terméket termelő tagok által történő egységes alkalmazását kell szolgálniuk.
+
+[^44]: A 8. § (8) bekezdését a 44/2024. (VIII. 29.) AM rendelet 6. §-a iktatta be.
+[^45]: A 8. § (9) bekezdését a 14/2026. (VIII. 14.) AÉM rendelet 16. §-a iktatta be.

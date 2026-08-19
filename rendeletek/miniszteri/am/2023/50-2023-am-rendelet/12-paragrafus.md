@@ -8,7 +8,7 @@ b) lineár és csévélődobos berendezések esetén legkevesebb 15%-os
 
 potenciális vízmegtakarítást eredményeznek.
 
-(2) Ha a beruházás olyan felszín alatti vagy felszíni vizekből álló víztesteket érint, amelyek a vonatkozó vízgyűjtő-gazdálkodási tervben vízmennyiséggel kapcsolatos okok miatt jónál rosszabb minősítést kaptak, akkor a beruházásnak az alábbi együttes feltételeknek is meg kell felelnie:
+(2)[^54] Ha a meglévő öntözőberendezések vagy az öntözőrendszerek részei fejlesztésére irányuló beruházás olyan felszín alatti vagy felszíni vizekből álló víztesteket érint, amelyek a vonatkozó vízgyűjtő-gazdálkodási tervben vízmennyiséggel kapcsolatos okok miatt jónál rosszabb minősítést kaptak, akkor a beruházásnak az alábbi együttes feltételeknek is meg kell felelnie:
 
 a) a beruházásnak biztosítania kell, hogy az érintett öntözőberendezések vagy öntözőrendszerek vonatkozásában legalább a beruházás előzetes értékelése által megállapított potenciális vízmegtakarítás 50%-ának megfelelő mértékű tényleges vízfogyasztás-csökkenés történjen,
 
@@ -25,3 +25,5 @@ b) a tározók létrehozására irányulnak vagy
 c) a visszanyert víz felhasználására irányulnak.
 
 (5) Az energiatermelő rendszerekből álló tárgyi eszközök beszerzése vagy létesítése esetén a megtermelt energia mennyisége nem haladhatja meg azt az energiamennyiséget, amely éves szinten a termelői szervezet és azok tagjai elismeréssel érintett szokásos tevékenységeihez felhasználható.
+
+[^54]: A 12. § (2) bekezdés nyitó szövegrésze a 14/2026. (VIII. 14.) AÉM rendelet 30. § 15. pontja szerint módosított szöveg.

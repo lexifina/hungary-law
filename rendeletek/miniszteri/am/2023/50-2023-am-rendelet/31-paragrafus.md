@@ -1,10 +1,10 @@
 ## 30. Kifizetési kérelmek
 
-31. § (1)[^89] Az időközi és az éves kifizetési kérelmek (a továbbiakban együtt: kifizetési kérelmek) jóváhagyását megelőzően a Nemzeti Kifizető Ügynökség adminisztratív ellenőrzést végez.
+31. § (1)[^120] Az időközi és az éves kifizetési kérelmek (a továbbiakban együtt: kifizetési kérelmek) jóváhagyását megelőzően a Nemzeti Kifizető Ügynökség adminisztratív ellenőrzést végez.
 
-(2)[^90] A kifizetési kérelmek adminisztratív ellenőrzése a következőkre terjed ki:
+(2)[^121] A kifizetési kérelmek adminisztratív ellenőrzése a következőkre terjed ki:
 
-a)[^91] az operatív program beavatkozásaihoz kapcsolódóan a kifizetési kérelemben megadott mutatók megvalósított beavatkozásnak való megfelelősége,
+a)[^122] az operatív program beavatkozásaihoz kapcsolódóan a kifizetési kérelemben megadott mutatók megvalósított beavatkozásnak való megfelelősége,
 
 b) a feltüntetett kiadásoknak a szállított termékekkel és nyújtott szolgáltatásokkal való pontos megfeleltethetősége,
 
@@ -16,6 +16,6 @@ d) a meghatározott pénzügyi és egyéb korlátok és határértékek betartá
 
 (4) Az operatív program keretében felmerült kiadásokat azok kifizetését igazoló dokumentumokkal kell alátámasztani. A számlákat a termelői szervezet, a termelői szervezetek társulása nevére kell kiállítani.
 
-[^89]: A 31. § (1) bekezdése a 44/2024. (VIII. 29.) AM rendelet 23. § 24. pontja szerint módosított szöveg.
-[^90]: A 31. § (2) bekezdés nyitó szövegrésze a 44/2024. (VIII. 29.) AM rendelet 24. § g) pontja szerint módosított szöveg.
-[^91]: A 31. § (2) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 25. pontja szerint módosított szöveg.
+[^120]: A 31. § (1) bekezdése a 44/2024. (VIII. 29.) AM rendelet 23. § 24. pontja szerint módosított szöveg.
+[^121]: A 31. § (2) bekezdés nyitó szövegrésze a 44/2024. (VIII. 29.) AM rendelet 24. § g) pontja szerint módosított szöveg.
+[^122]: A 31. § (2) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 25. pontja szerint módosított szöveg.

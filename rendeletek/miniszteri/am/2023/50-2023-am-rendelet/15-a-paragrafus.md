@@ -1,4 +1,4 @@
-15/A. §[^41] (1) Az operatív program keretében nyújtott személyre szabott tanácsadásban részt vevő minden termelői szervezet, termelői szervezetek társulása, termelői csoport vagy egyéni termelő esetében előzetes igényfelmérést kell készíteni a személyre szabott tanácsadás tartalma, időtartama, elvárt eredményei és dokumentációja tekintetében.
+15/A. §[^67] (1) Az operatív program keretében nyújtott személyre szabott tanácsadásban részt vevő minden termelői szervezet, termelői szervezetek társulása, termelői csoport vagy egyéni termelő esetében előzetes igényfelmérést kell készíteni a személyre szabott tanácsadás tartalma, időtartama, elvárt eredményei és dokumentációja tekintetében.
 
 (2) A KAP I rendelet 47. cikk (1) bekezdés c) pontjában meghatározott beavatkozástípus keretében tartott személyre szabott tanácsadás célja
 
@@ -20,4 +20,4 @@ c) az összesített költségét költségtípusonként, valamint
 
 d) az előzetes igényfelmérés módszertanát és tervezett tartalmát.
 
-[^41]: A 15/A. §-t a 44/2024. (VIII. 29.) AM rendelet 11. §-a iktatta be.
+[^67]: A 15/A. §-t a 44/2024. (VIII. 29.) AM rendelet 11. §-a iktatta be.

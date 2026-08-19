@@ -2,11 +2,11 @@
 
 32. § (1) A Nemzeti Kifizető Ügynökség az adminisztratív ellenőrzések kiegészítéséül helyszíni ellenőrzéseket végezhet a termelői szervezetek, a termelői szervezetek társulásai vagy azok leányvállalatai helyiségeiben, annak érdekében, hogy a kifizetési kérelemmel érintett év tekintetében megállapítsa az elismerésre és a támogatás vagy annak hátralévő összege odaítélésére vonatkozó feltételek teljesülését.
 
-(2)[^92]
+(2)[^123]
 
 (3) A Nemzeti Kifizető Ügynökség az ellenőrizendő termelői szervezetek kiválasztását kockázatelemzés alapján végzi. A kockázatelemzés szempontjai:
 
-a)[^93] a jóváhagyott operatív programokban szereplő uniós és nemzeti pénzügyi támogatás összege,
+a)[^124] a jóváhagyott operatív programokban szereplő uniós és nemzeti pénzügyi támogatás összege,
 
 b) az előző évek ellenőrzései eredménye,
 
@@ -22,9 +22,9 @@ d) a Nemzeti Kifizető Ügynökség által meghatározott egyéb paraméter.
 
 a) a beavatkozások végrehajtása,
 
-b) a (2) bekezdés szerinti minta teljesítéséhez szükséges elegendő számú beavatkozással kapcsolatban a kiadások megfelelése az európai uniós előírásoknak és az azokban meghatározott határidők betartása,
+b)[^125]
 
-c)[^94] a működési alap felhasználása – beleértve az előlegre vagy időközi kifizetési kérelmekben bejelentett kiadásokat – a referencia-időszakban forgalmazott termékek értéke, a működési alaphoz nyújtott hozzájárulás, valamint a bejelentett kiadások,
+c)[^126] a működési alap felhasználása – beleértve az előlegre vagy időközi kifizetési kérelmekben bejelentett kiadásokat – a referencia-időszakban forgalmazott termékek értéke, a működési alaphoz nyújtott hozzájárulás, valamint a bejelentett kiadások,
 
 d) a tagok tagsági viszonnyal érintett termékei beszállítása,
 
@@ -36,14 +36,16 @@ g) a kivonással a piacról, a zöldszürettel és a be nem takarítással kapcs
 
 (7) A termelői szervezet tagjainak önálló gazdaságaiban végzett, 8. § (1) bekezdése szerinti beavatkozások végrehajtásának vizsgálata érdekében – rendkívüli körülményeket kivéve – a helyszíni ellenőrzés részeként a Nemzeti Kifizető Ügynökség vizsgálatot tart a beavatkozás végrehajtása helyszínén.
 
-(8)[^95]
+(8)[^127]
 
-(9)[^96]
+(9)[^128]
 
-(10) A (2) bekezdésben megállapított ellenőrzési ráta teljesítésének értékelésekor csak az e § összes követelményének megfelelő ellenőrzés vehető figyelembe.
+(10)[^129]
 
-[^92]: A 32. § (2) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
-[^93]: A 32. § (3) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 26. pontja szerint módosított szöveg.
-[^94]: A 32. § (6) bekezdés c) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 11. pontja szerint módosított szöveg.
-[^95]: A 32. § (8) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
-[^96]: A 32. § (9) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
+[^123]: A 32. § (2) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
+[^124]: A 32. § (3) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 26. pontja szerint módosított szöveg.
+[^125]: A 32. § (6) bekezdés b) pontját a 14/2026. (VIII. 14.) AÉM rendelet 31. §-a hatályon kívül helyezte.
+[^126]: A 32. § (6) bekezdés c) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 11. pontja szerint módosított szöveg.
+[^127]: A 32. § (8) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
+[^128]: A 32. § (9) bekezdését a 44/2024. (VIII. 29.) AM rendelet 24. § h) pontja hatályon kívül helyezte.
+[^129]: A 32. § (10) bekezdését a 14/2026. (VIII. 14.) AÉM rendelet 31. §-a hatályon kívül helyezte.

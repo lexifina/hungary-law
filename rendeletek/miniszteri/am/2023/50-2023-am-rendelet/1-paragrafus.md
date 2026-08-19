@@ -15,3 +15,10 @@ e) operatív program: az (EU) 2021/2115 európai parlamenti és tanácsi rendele
 f) termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. cikke szerinti, a gyümölcs- és zöldségfélék ágazatban – a 154. és 160. cikkben meghatározott feltételekkel – elismert szervezet;
 
 g) termelői szervezetek társulása: az 1308/2013/EU európai parlamenti és tanácsi rendelet 156. cikke szerint szervezet.
+
+h)[^1] elsődleges termelés: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikk 17. pontja szerinti fogalom,
+
+i)[^2] működési alap: a KAP I rendelet 51. cikke szerinti alap.
+
+[^1]: Az 1. § h) pontját a 14/2026. (VIII. 14.) AÉM rendelet 11. §-a iktatta be.
+[^2]: Az 1. § i) pontját a 14/2026. (VIII. 14.) AÉM rendelet 11. §-a iktatta be.

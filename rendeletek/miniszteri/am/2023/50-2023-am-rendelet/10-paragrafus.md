@@ -12,12 +12,13 @@
 
 (6) Azok a termelők, akik az operatív program keretében támogatással megvalósított, az agrár-környezetvédelmi-éghajlati kifizetések valamely kötelezettségvállalásával azonos tartalmú tevékenységben részt vesznek, ugyanazon parcellán ugyanazon tevékenységért nyújtott támogatásra az agrár-környezetvédelmi-éghajlati kifizetések keretében nem jogosultak.
 
-(7) Azon környezetvédelmi beavatkozások, amelyek egybeesnek a KAP stratégiai terv szerinti más, agrár-környezetvédelmi, vagy éghajlattal vagy ökológiai gazdálkodással kapcsolatos kötelezettségvállalásokkal, a támogatás felső határát az agrár-környezetvédelmi és éghajlattal kapcsolatos kifizetések, vagy ökológiai gazdálkodással kapcsolatos kifizetések tekintetében megállapított maximális összegekben kell meghatározni. Ez azonban nem vonatkozik az olyan környezetvédelmi tevékenységekre, amelyek közvetlenül nem kapcsolódnak egy meghatározott parcellához.
+(7)[^49] Azon környezetvédelmi beavatkozások, amelyek egybeesnek a KAP stratégiai terv szerinti más, agrár-környezetvédelmi, vagy éghajlattal vagy ökológiai gazdálkodással kapcsolatos kötelezettségvállalásokkal, a támogatás felső határát az agrár-környezetvédelmi és éghajlattal kapcsolatos kifizetések, vagy ökológiai gazdálkodással kapcsolatos kifizetések tekintetében az érintett földterület nagysága alapján megállapított maximális összegekben kell meghatározni. Ez azonban nem vonatkozik az olyan környezetvédelmi tevékenységekre, amelyek közvetlenül nem kapcsolódnak egy meghatározott parcellához.
 
-(8) Azon környezetvédelmi beavatkozások esetében, amelyek mezőgazdasági területhez kötődnek, az operatív programban meg kell adni
+(8)[^50] Azon környezetvédelmi beavatkozások esetében, amelyek mezőgazdasági területhez kötődnek, és amelyekhez kapcsolódóan a 2. § (4) bekezdése szerinti mutatók területnagyságban kerültek meghatározásra, az operatív programban meg kell adni
 
-a) a beavatkozással érintett területek tervezett méretét, blokkazonosítóját vagy annak hiányában helyrajzi számát,
+a) a beavatkozással érintett területek tervezett méretét és
 
-b) a területen adott évben termesztett, tagsági viszonnyal érintett, az elismerés alá tartozó termék megnevezését, és
+b) a területen adott évben termesztett, tagsági viszonnyal érintett, az elismerés alá tartozó termék megnevezését.
 
-c) az érintett földhasználónak a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosítóját.
+[^49]: A 10. § (7) bekezdése a 14/2026. (VIII. 14.) AÉM rendelet 30. § 13. pontja szerint módosított szöveg.
+[^50]: A 10. § (8) bekezdése a 14/2026. (VIII. 14.) AÉM rendelet 18. §-ával megállapított szöveg.

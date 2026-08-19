@@ -1,3 +1,3 @@
-47. §[^115]
+47. §[^150]
 
-[^115]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
