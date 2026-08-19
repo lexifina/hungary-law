@@ -1,3 +1,3 @@
-22. §[^25]
+22. § Az 50/2023. (IX. 5.) AM rendelet 22. § (2) bekezdése a következő d) ponttal egészül ki:
 
-[^25]: A 22. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+(Egységköltségek alkalmazásának hiányában a beavatkozások költségei, valamint a költségszámítás alapjául szolgáló egységárak nem haladhatják meg a szokásos piaci árat, amelyet)

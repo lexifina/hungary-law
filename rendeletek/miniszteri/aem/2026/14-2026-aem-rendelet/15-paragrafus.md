@@ -1,3 +1,3 @@
-15. §[^18]
+15. § Az 50/2023. (IX. 5.) AM rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^18]: A 15. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+„(3) A működési alap felhasználása módjáról a termelői szervezet létesítő okiratában meghatározott, a tagok képviseletében eljáró testület dönt. A döntésben nem vehet részt az a tag, akinek a gazdaságában a működési alap felhasználásával a 8. § (1) bekezdése szerinti beruházás történik, akinek a működési alap felhasználásával beszerzett eszköz kizárólagos használatába kerül, vagy aki természetes személyként vagy egy jogi személy tulajdonosaként, képviselőjeként az operatív programban foglalt beavatkozás végrehajtására a termelői szervezettel szerződést köt.”

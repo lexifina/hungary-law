@@ -1,3 +1,1 @@
-10. §[^13]
-
-[^13]: A 10. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+10. § Hatályát veszti az 50/2017. (X. 10.) FM rendelet 4. § (3) bekezdés c) pontja.

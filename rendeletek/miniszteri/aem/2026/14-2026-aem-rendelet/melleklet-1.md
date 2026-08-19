@@ -1,3 +1,13 @@
-1. melléklet a 14/2026. (VIII. 14.) AÉM rendelethez[^36]
+1. melléklet a 14/2026. (VIII. 14.) AÉM rendelethez
 
-[^36]: Az 1. melléklet a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+Az 50/2023. (IX. 5.) AM rendelet 1. mellékletében foglalt táblázat A:18 mezője helyébe a következő mező lép:
+
+|  | (A) |
+
+|  | (Termék) |
+
+„
+
+| (18.) | Görög- és sárgadinnye |
+
+”

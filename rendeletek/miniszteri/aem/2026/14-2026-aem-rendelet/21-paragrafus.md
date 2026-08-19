@@ -1,3 +1,3 @@
-21. §[^24]
+21. § Az 50/2023. (IX. 5.) AM rendelet 22. alcím címe helyébe a következő alcímcím lép:
 
-[^24]: A 21. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+„22. A költségek alátámasztására és igazolására vonatkozó szabályok”

@@ -1,3 +1,3 @@
-27. §[^30]
+27. § Az 50/2023. (IX. 5.) AM rendelet 37. alcíme a következő 39/C. §-sal egészül ki:
 
-[^30]: A 27. § a 32. § (2) bekezdése alapján 2026. augusztus 19-én lép hatályba.
+„39/C. § A 4. § (4) bekezdés a) pontjától eltérően 2026-ban a páratlan elismerési számmal rendelkező termelői szervezet vagy a termelői szervezetek társulása augusztus 31-éig kérelmezheti – a módosítások megjelölésével – a Nemzeti Irányító Hatóság által elfogadott operatív programnak és a működési alapnak a kérelem benyújtásának évére, valamint az azt követő végrehajtási évre vonatkozó módosítását.”
