@@ -1,5 +1,5 @@
 ## 13. Kölcsönös kockázatkezelési alapok létrehozásával kapcsolatos adminisztratív költségek támogatása
 
-24. §[^47]
+24. §[^54]
 
-[^47]: A 24. §-t az 50/2023. (IX. 5.) AM rendelet 49. § c) pontja hatályon kívül helyezte.
+[^54]: A 24. §-t az 50/2023. (IX. 5.) AM rendelet 49. § c) pontja hatályon kívül helyezte.

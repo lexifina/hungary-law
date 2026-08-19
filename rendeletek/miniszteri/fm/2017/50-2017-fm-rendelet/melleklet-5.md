@@ -1,3 +1,3 @@
-5. melléklet az 50/2017. (X. 10.) FM rendelethez[^100]
+5. melléklet az 50/2017. (X. 10.) FM rendelethez[^113]
 
-[^100]: Az 5. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.
+[^113]: Az 5. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.

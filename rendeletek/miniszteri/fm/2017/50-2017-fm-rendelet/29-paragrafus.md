@@ -1,3 +1,3 @@
-29. §[^68]
+29. §[^80]
 
-[^68]: A 29. §-t az 50/2023. (IX. 5.) AM rendelet 49. § f) pontja hatályon kívül helyezte.
+[^80]: A 29. §-t az 50/2023. (IX. 5.) AM rendelet 49. § f) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-38. §[^94]
+38. §[^107]
 
-[^94]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

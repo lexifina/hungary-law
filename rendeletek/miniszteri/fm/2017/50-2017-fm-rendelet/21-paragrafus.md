@@ -1,3 +1,3 @@
-21. §[^44]
+21. §[^51]
 
-[^44]: A 21. §-t az 50/2023. (IX. 5.) AM rendelet 49. § c) pontja hatályon kívül helyezte.
+[^51]: A 21. §-t az 50/2023. (IX. 5.) AM rendelet 49. § c) pontja hatályon kívül helyezte.
