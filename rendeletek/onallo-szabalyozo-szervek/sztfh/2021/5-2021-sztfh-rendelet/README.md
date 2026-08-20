@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-5-20-8K
 | 2024-10-01 | 2021-5-20-8K.3 | 16/2024. (IX. 19.) SZTFH rendelet |
 | 2025-08-08 | 2021-5-20-8K.4 | 6/2025. (VII. 31.) SZTFH rendelet |
 | 2026-01-01 | 2021-5-20-8K.5 | 6/2025. (VII. 31.) SZTFH rendelet |
+| 2026-08-20 | 2021-5-20-8K.6 | 8/2026. (VIII. 17.) SZTFH rendelet |
