@@ -4,13 +4,13 @@
 
 (2) A nevelőtestület
 
-a)
+a) a pedagógiai program elfogadásáról,
 
-b)
+b) az SZMSZ elfogadásáról,
 
-c)
+c) a nevelési-oktatási intézmény éves munkatervének elfogadásáról,
 
-d)
+d) a nevelési-oktatási intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról,
 
 e) a pedagógus-továbbképzési intézményi program elfogadásáról,
 
@@ -18,11 +18,11 @@ f) a nevelőtestület képviseletében eljáró pedagógus kiválasztásáról,
 
 g) a házirend elfogadásáról,
 
-h) a tanulók magasabb évfolyamba lépésének megállapítása, a tanulók osztályozóvizsgára bocsátásáról,
+h) a tanulók magasabb évfolyamba lépésének megállapításáról, a tanulók osztályozóvizsgára bocsátásáról,
 
 i) a tanulók fegyelmi ügyeiben,
 
-j)
+j) az igazgatói pályázathoz készített vezetői programmal összefüggő szakmai vélemény tartalmáról,
 
 k) jogszabályban meghatározott más ügyekben
 

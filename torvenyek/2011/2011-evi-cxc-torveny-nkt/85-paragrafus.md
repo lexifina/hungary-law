@@ -1,6 +1,6 @@
 85. § (1) A a fenntartónak, ha egyetértési joga van a köznevelési intézmény házirendje tekintetében, az egyetértés kialakítására harminc nap áll rendelkezésre.
 
-(1a) A fenntartó a köznevelési intézmény pedagógiai programjának, éves munkatervének, valamint SZMSZ-ének jóváhagyásáról az igazgató általi felterjesztést követő harminc napon belül dönt.
+(1a) A fenntartó a köznevelési intézmény pedagógiai programjához, éves munkatervéhez, valamint SZMSZ-éhez az egyetértését az igazgató általi felterjesztést követő harminc napon belül adja meg.
 
 (2) A fenntartó tanévenként legfeljebb egy alkalommal kötelezheti az igazgatót arra, hogy az intézmény tevékenységéről átfogó módon beszámoljon.
 

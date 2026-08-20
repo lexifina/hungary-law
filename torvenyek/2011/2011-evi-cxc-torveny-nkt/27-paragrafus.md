@@ -6,7 +6,7 @@
 
 (2a) Az (1) bekezdésben meghatározott tantermen kívüli digitális munkarendben a nevelés-oktatás, a tanulási folyamat ellenőrzése és támogatása a pedagógusok és a tanulók online vagy más, személyes találkozást nem igénylő kapcsolatában – elsősorban tanulmányi rendszer által biztosított funkcionalitásokkal és digitális eszközök alkalmazásával – történik.
 
-(3) A tanév, ezen belül a tanítási év rendjét a köznevelésért felelős miniszter rendeletben állapítja meg. Az igazgató a nevelőtestület bevonásával éves munkatervet készít, amely tartalmazza a szabadon meghatározható tanítás nélküli munkanapokat. Az igazgató az éves munkatervet az intézmény honlapján közzéteszi. Az éves munkatervet a fenntartó hagyja jóvá.
+(3) A tanév, ezen belül a tanítási év rendjét a köznevelésért felelős miniszter rendeletben állapítja meg. Az igazgató éves munkatervet készít, amely tartalmazza a szabadon meghatározható tanítás nélküli munkanapokat. Az éves munkatervet a nevelőtestület fogadja el. A fenntartó egyetértési jogot gyakorol a munkaterv azon elemei tekintetében, amelyekből a fenntartóra többletkötelezettség hárul. Az igazgató az éves munkatervet az intézmény honlapján közzéteszi.
 
 (4) A tanuló heti finanszírozott tanóráinak számát a 6. melléklet határozza meg. Az iskola a tanuló NAT szerint meghatározott heti kötelező tanóráinak száma és az osztályok engedélyezett heti időkerete különbözetét tanórai foglalkozás, egyéb foglalkozás megtartásához és osztálybontáshoz veheti igénybe.
 
