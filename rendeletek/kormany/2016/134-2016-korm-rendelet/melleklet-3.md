@@ -412,6 +412,6 @@
 
 | Letenyei tankerület |
 
-3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^74]
+3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^75]
 
-[^74]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
