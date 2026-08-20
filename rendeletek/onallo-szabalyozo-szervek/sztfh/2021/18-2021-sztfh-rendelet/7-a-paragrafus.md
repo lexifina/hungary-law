@@ -1,4 +1,4 @@
-## 5/A. [^31] A hatósági ellenőrzés, az ellenőrzési feladatok ellátása
+## 5/A. [^33] A hatósági ellenőrzés, az ellenőrzési feladatok ellátása
 
 7/A. § (1) A Hatóság az 1. §-ban meghatározott személyek (a továbbiakban: ellenőrzött személy) tevékenységét hatósági felügyelet keretében a hatósági ellenőrzés típusa szerint
 
@@ -50,7 +50,7 @@ f) az ellenőrzés alá vont időszak megjelölését.
 
 (9) A Hatóság a hatósági ellenőrzés során, a dohánytermék-nagykereskedők kivételével, próbavásárlást végezhet.
 
-(10)[^32] Helyszíni ellenőrzés keretében az ellenőrzési jogosultságot az ellenőr az ellenőrzés megkezdését megelőzően a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló SZTFH rendelet szerinti szolgálati igazolvánnyal köteles igazolni, és az ellenőrzés típusáról, tárgyáról tájékoztatást adni, kivéve a helyszíni ellenőrzés keretében végzett próbavásárlást. Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
+(10)[^34] Helyszíni ellenőrzés keretében az ellenőrzési jogosultságot az ellenőr az ellenőrzés megkezdését megelőzően a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló SZTFH rendelet szerinti szolgálati igazolvánnyal köteles igazolni, és az ellenőrzés típusáról, tárgyáról tájékoztatást adni, kivéve a helyszíni ellenőrzés keretében végzett próbavásárlást. Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
 
-[^31]: Az 5/A. alcímet (7/A. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 8. §-a iktatta be.
-[^32]: A 7/A. § (10) bekezdése a 2/2023. (I. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
+[^33]: Az 5/A. alcímet (7/A. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 8. §-a iktatta be.
+[^34]: A 7/A. § (10) bekezdése a 2/2023. (I. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
