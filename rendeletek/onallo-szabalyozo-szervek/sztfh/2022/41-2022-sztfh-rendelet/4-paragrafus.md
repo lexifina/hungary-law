@@ -1,6 +1,6 @@
 ## 3. Jelentkezés az alapképzésre és a továbbképzésre
 
-4. §[^3] A Jogakadémia az alapképzésről és a továbbképzésről legkésőbb az alapképzés vagy a továbbképzés kezdő napját megelőző 30. napon a honlapján tájékoztatót tesz közzé, amely tartalmazza különösen
+4. §[^7] A Jogakadémia az alapképzésről és a továbbképzésről legkésőbb az alapképzés vagy a továbbképzés kezdő napját megelőző 30. napon a honlapján tájékoztatót tesz közzé, amely tartalmazza különösen
 
 a) a képzés lebonyolításával kapcsolatos általános és technikai információkat;
 
@@ -14,4 +14,4 @@ e) a jelenléti és a távoktatásra vonatkozó tudnivalókat; valamint
 
 f) a képzés eredményes elvégzésének követelményeit.
 
-[^3]: A 4. § nyitó szövegrésze a 18/2024. (XII. 30.) SZTFH rendelet 23. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § nyitó szövegrésze a 18/2024. (XII. 30.) SZTFH rendelet 23. § b) pontja szerint módosított szöveg.
