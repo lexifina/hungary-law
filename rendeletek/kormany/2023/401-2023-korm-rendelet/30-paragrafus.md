@@ -8,7 +8,7 @@ b) szaktanácsadói, illetve pedagógiai-szakmai szolgáltatási feladatokat lá
 
 (2) A nyugdíjasnak minősülő Mesterpedagógust az (1) bekezdés szerinti feladatok ellátására nem lehet igénybe venni, továbbá őt az ezzel összefüggő munkaidő-kedvezmény nem illeti meg.
 
-(3)[^22] A munkaidő-kedvezmény alapján a Mesterpedagógus neveléssel-oktatással lekötött munkaideje hetente
+(3)[^23] A munkaidő-kedvezmény alapján a Mesterpedagógus neveléssel-oktatással lekötött munkaideje hetente
 
 a) húsz,
 
@@ -24,11 +24,11 @@ f) pedagógiai szakszolgálati intézményben tizenkilenc,
 
 g) gyógypedagógiai, konduktív pedagógiai intézményben tizennyolc,
 
-h)[^23]
+h)[^24]
 
 óra, amelyen felül a Mesterpedagógust tanítási hetenként legalább egy tanítási, nevelési napra a munkahelyén történő munkavégzés alól mentesíteni kell.
 
-(3a)[^24] Annak a Mesterpedagógus fokozatba besorolt pedagógusnak, aki osztályfőnöki, kollégiumban tanulócsoport-vezetői, munkaközösség-vezetői, tanszakvezetői vagy a tanulók önszerveződését segítő feladatot lát el, a megtartandó tanítási óráinak, foglalkozásainak a száma – a kerekítés általános szabályai alkalmazásával – nem lehet kevesebb, mint a munkakörére a Púétv. 1. mellékletében előírt neveléssel-oktatással lekötött munkaidő nyolcvan százaléka, ettől eltérően vezetőpedagógus esetén heti tizenegy, vezető óvodapedagógus esetén heti huszonkét óra.
+(3a)[^25] Annak a Mesterpedagógus fokozatba besorolt pedagógusnak, aki osztályfőnöki, kollégiumban tanulócsoport-vezetői, munkaközösség-vezetői, tanszakvezetői vagy a tanulók önszerveződését segítő feladatot lát el, a megtartandó tanítási óráinak, foglalkozásainak a száma – a kerekítés általános szabályai alkalmazásával – nem lehet kevesebb, mint a munkakörére a Púétv. 1. mellékletében előírt neveléssel-oktatással lekötött munkaidő nyolcvan százaléka, ettől eltérően vezetőpedagógus esetén heti tizenegy, vezető óvodapedagógus esetén heti huszonkét óra.
 
 (4) A munkáltató a Mesterpedagógus feladatellátási helyen történő munkavégzés alóli mentesítését a hivatalnak, vagy szaktanácsadói feladatok ellátása esetén a pedagógiai-szakmai szolgáltatást nyújtó intézménynek az adott minősítési naptári évre szóló megbízása alapján köteles biztosítani.
 
@@ -54,6 +54,6 @@ látja el.
 
 (8) Ha a hivatal tájékoztatása alapján a Mesterpedagógus számára az (1) és az (5) bekezdés szerinti feladat ellátására a naptári hónapban nem kerül sor, az őt e hónapban megillető munkaidő-kedvezmény idejére a munkáltató a munkaköréhez kapcsolódó, a kötött munkaidőben ellátható feladatot rendelhet el.
 
-[^22]: A 30. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
-[^23]: A 30. § (3) bekezdés h) pontja a 661/2023. (XII. 29.) Korm. rendelet 20. § b) pontja alapján nem lép hatályba.
-[^24]: A 30. § (3a) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^23]: A 30. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
+[^24]: A 30. § (3) bekezdés h) pontja a 661/2023. (XII. 29.) Korm. rendelet 20. § b) pontja alapján nem lép hatályba.
+[^25]: A 30. § (3a) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 9. §-a iktatta be.

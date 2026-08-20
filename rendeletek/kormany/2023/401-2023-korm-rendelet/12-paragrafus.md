@@ -1,4 +1,4 @@
-12. §[^9] (1) Az elismerési eljárás alóli mentesítésre vonatkozó igazolás kiállítására irányuló eljárás (a továbbiakban: mentesítési eljárás) kérelemre indul. A kérelem írásban a miniszterhez címezve a foglalkoztatását végző köznevelési intézménynél nyújtható be. A foglalkoztatását végző köznevelési intézmény a kérelmet haladéktalanul, de legkésőbb 3 napon belül továbbítja a miniszternek.
+12. §[^10] (1) Az elismerési eljárás alóli mentesítésre vonatkozó igazolás kiállítására irányuló eljárás (a továbbiakban: mentesítési eljárás) kérelemre indul. A kérelem írásban a miniszterhez címezve a foglalkoztatását végző köznevelési intézménynél nyújtható be. A foglalkoztatását végző köznevelési intézmény a kérelmet haladéktalanul, de legkésőbb 3 napon belül továbbítja a miniszternek.
 
 (2) A kérelemnek tartalmaznia kell
 
@@ -22,4 +22,4 @@ f) a kérelmező nyilatkozatát arról, hogy Magyarország területén külföld
 
 (4) A mentesítési eljárásban kiállított igazolás érvényességi idejéről – a (2) bekezdés d) pontjában foglalt nyilatkozat figyelembevételével – a miniszter dönt. Az igazolásban meghatározott időtartam lejárata esetén az érvényesség idejét – kérelemre – meg lehet hosszabbítani, azonban az igazolás érvényességi ideje összesen a Púétv.-ben meghatározott időtartamra szólhat.
 
-[^9]: A 12. § a 201/2024. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^10]: A 12. § a 201/2024. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -16,7 +16,7 @@ d) az illetmény és a kapcsolódó juttatások meghatározásának elveit,
 
 e) a munkavégzési hely megjelölését,
 
-f) a pályázat elnyerésének feltételeit,
+f)[^3] a betöltendő munkakör, illetve a vezetői megbízás elnyerésének feltételeit, a vezetői program tartalmát és azokat a konkrét elérendő célokat, fejlesztési elképzeléseket, amelyekre a pályázótól a munkáltató megoldást vár,
 
 g) a pályázat részeként benyújtandó iratokat, igazolásokat, továbbá
 
@@ -65,3 +65,5 @@ c) más fenntartónál a megbízási jogkör gyakorlójának megbízottja
 (9) Az igazgatói, főigazgatói pályázatoknál az oktatási központ vezetője és a tankerületi központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
 
 (10) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Ha a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, a pályáztató azt megsemmisíti, és a személyes adatokat törli.
+
+[^3]: A 4. § (1) bekezdés f) pontja a 126/2026. (VIII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

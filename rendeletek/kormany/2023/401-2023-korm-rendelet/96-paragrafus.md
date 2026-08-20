@@ -12,11 +12,11 @@ a) a pedagógusigazolvány a Púétv. 109. §-a szerint,
 
 b) a munkába járás költségtérítése a munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet alapján,
 
-c)[^61] a közforgalmú személyszállítási utazási kedvezmény a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerint
+c)[^62] a közforgalmú személyszállítási utazási kedvezmény a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerint
 
-d)[^62] az 51/A. alcím szerint kiegészítő juttatás
+d)[^63] az 51/A. alcím szerint kiegészítő juttatás
 
 illeti meg.
 
-[^61]: A 96. § (2) bekezdés c) pontja a 38/2024. (II. 29.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
-[^62]: A 96. § (2) bekezdés d) pontját a 36/2026. (III. 5.) Korm. rendelet 7. §-a iktatta be.
+[^62]: A 96. § (2) bekezdés c) pontja a 38/2024. (II. 29.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
+[^63]: A 96. § (2) bekezdés d) pontját a 36/2026. (III. 5.) Korm. rendelet 7. §-a iktatta be.

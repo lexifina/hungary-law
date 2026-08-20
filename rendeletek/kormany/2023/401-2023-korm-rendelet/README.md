@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-401-20-
 | 2026-01-01 | 2023-401-20-22.11 | 435/2025. (XII. 23.) Korm. rendelet |
 | 2026-03-06 | 2023-401-20-22.13 | 36/2026. (III. 5.) Korm. rendelet |
 | 2026-07-01 | 2023-401-20-22.14 | 96/2026. (VI. 25.) Korm. rendelet |
+| 2026-08-20 | 2023-401-20-22.15 | 126/2026. (VIII. 17.) Korm. rendelet |

@@ -10,7 +10,7 @@ rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1
 
 (2) Pedagógus-munkakörben foglalkoztatható az, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény vagy a felsőoktatásról szóló 1993. évi LXXX. törvény alapján vagy az azt megelőző felsőoktatási képzési rendszerben szerzett, a 2. mellékletben az adott pedagógus-munkakör betöltéséhez előírt szakképzettségnek megfeleltethető vagy a szakiránynak megfelelő felsőfokú végzettséggel és pedagógus szakképzettséggel rendelkezik.
 
-(3)[^10] Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy specializációval, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
+(3)[^11] Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy specializációval, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
 
 (4) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor a megfelelő pedagógus-szakképzettség megszerzéséig, de legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki
 
@@ -20,4 +20,4 @@ b) felsőfokú végzettségi szinttel és a tantárgynak megfelelő, felsőoktat
 
 rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megszerzését.
 
-[^10]: A 18. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^11]: A 18. § (3) bekezdése a 454/2025. (XII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

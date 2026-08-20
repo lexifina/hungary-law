@@ -8,7 +8,7 @@
 
 (5) Ha az óvoda reggel 8.00 óra előtt vagy a délutáni időszakban nem fejlesztő, iskola-előkészítő vagy más, kifejezetten nevelési jellegű foglalkozást szervez, ezen időszakokban a gyermekek felügyeletét nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy is elláthatja.
 
-(6)[^4] Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki alapfokozattal és nyelvtanári vagy idegen nyelv- és irodalom szakos tanári szakképzettséggel vagy okleveles általános iskolai idegen nyelv és kultúra tanára szakképzettséggel rendelkezik.
+(6)[^5] Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki alapfokozattal és nyelvtanári vagy idegen nyelv- és irodalom szakos tanári szakképzettséggel vagy okleveles általános iskolai idegen nyelv és kultúra tanára szakképzettséggel rendelkezik.
 
 (7) Az iskolai nevelés-oktatás ötödik–nyolcadik évfolyamán az etika tantárgy tanítására alkalmazható az is, aki az iskolai nevelés oktatás ötödik–nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvanórás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az etika oktatásához szükséges elméleti és módszertani ismereteket.
 
@@ -32,7 +32,7 @@ a) történelemtanár vagy
 
 b) az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, és szakirányú továbbképzés vagy legalább hatvanórás pedagógus-továbbképzés keretében elsajátította az állampolgári ismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
 
-(14)[^5] A közigazgatási ismeretek tantárgyat taníthatja, aki
+(14)[^6] A közigazgatási ismeretek tantárgyat taníthatja, aki
 
 a) az iskolai nevelés-oktatás kilencedik-tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, és
 
@@ -44,7 +44,7 @@ ac) közigazgatási szakvizsgával rendelkezik, vagy
 
 b) jogász vagy közigazgatási jellegű szakképzettséggel rendelkezik, és a Nemzeti Közszolgálati Egyetem által tanúsított, az adott tantárgy oktatásához szükséges elméleti és módszertani felkészítésen részt vett.
 
-(15)[^6] A belügyi rendészeti ismeretek tantárgyat taníthatja, aki
+(15)[^7] A belügyi rendészeti ismeretek tantárgyat taníthatja, aki
 
 a) az iskolai nevelés-oktatás kilencedik-tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, és
 
@@ -68,7 +68,7 @@ a) legalább érettségivel és katonai szakképzettséggel,
 
 b) honvéd altiszt, vagy azzal egyenértékű képzéssel, vagy
 
-c)[^7] katonai alapkiképzéssel és érettségivel, valamint katonai szolgálati viszonnyal
+c)[^8] katonai alapkiképzéssel és érettségivel, valamint katonai szolgálati viszonnyal
 
 rendelkezik.
 
@@ -78,7 +78,7 @@ a) a tiszthelyettes képzést, valamint
 
 b) a Magyar Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt képzést.
 
-[^4]: A 9. § (6) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^5]: A 9. § (14) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^6]: A 9. § (15) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^7]: A 9. § (17) bekezdés c) pontja a 77/2025. (IV. 15.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^5]: A 9. § (6) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^6]: A 9. § (14) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^7]: A 9. § (15) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^8]: A 9. § (17) bekezdés c) pontja a 77/2025. (IV. 15.) Korm. rendelet 6. §-a szerint módosított szöveg.
