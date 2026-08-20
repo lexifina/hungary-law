@@ -1,0 +1,3 @@
+7/A. §[^13] A 7. § (9a) bekezdésétől eltérően az (EU) 2024/482 bizottsági végrehajtási rendelet szerinti közös kritériumokon alapuló európai kiberbiztonsági tanúsítási rendszer (a továbbiakban: EUCC) esetében a tanúsító hatóság megfelelőségértékelő szervezetként azt az (EU) 2024/482 bizottsági végrehajtási rendelet szerinti tanúsító szervet (a továbbiakban: EUCC tanúsító szerv) vagy azt az (EU) 2024/482 bizottsági végrehajtási rendelet szerinti ITSEF-et (a továbbiakban: ITSEF) veszi nyilvántartásba, amely rendelkezik az (EU) 2024/482 bizottsági végrehajtási rendelet 20a. cikkének megfelelő akkreditált státusszal, és ezt a 7. § (9b) bekezdése szerint igazolja.
+
+[^13]: A 7/A. §-t a 8/2026. (VIII. 17.) SZTFH rendelet 34. §-a iktatta be.

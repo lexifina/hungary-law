@@ -1,4 +1,4 @@
-## 3. A megfelelőségértékelő szervezetekkel szemben támasztott követelmények, valamint a megfelelőségértékelő szervezetekkel kapcsolatos hatósági eljárások
+## 3.[^7] A megfelelőségértékelő szervezetek nyilvántartásba vétele, valamint a megfelelőségértékelő szervezetekkel kapcsolatos hatósági eljárások
 
 7. § (1) A megfelelőségértékelő szervezetnek a nyilvántartásba történő felvételére irányuló eljárás (a továbbiakban: nyilvántartásba vételi eljárás) kérelemre indul, amelyet a megfelelőségértékelő szervezet a tanúsító hatóság által e célra rendszeresített elektronikus űrlapon nyújt be a tanúsító hatósághoz.
 
@@ -10,11 +10,11 @@ b) feltünteti a megfelelőségértékelő szervezet 18. § (1) bekezdés a) pon
 
 c) feltünteti a megfelelőségértékelési tevékenységben közreműködő, akkreditált vizsgáló laboratórium (a továbbiakban: vizsgáló laboratórium) 18. § (1) bekezdés c) pontja szerinti adatait.
 
-(3) A megfelelőségértékelő szervezet az (1) bekezdés szerinti kérelemhez mellékeli
+(3)[^8] A megfelelőségértékelő szervezet az (1) bekezdés szerinti kérelemhez mellékeli a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletében meghatározott igazgatási szolgáltatási díj megfizetésének igazolását.
 
-a) a (9) bekezdésben meghatározott dokumentumokat, valamint
+(3a)[^9] Ha a megfelelőségértékelő szervezet a megfelelőségértékelési tevékenységét nemzeti kiberbiztonsági tanúsítási rendszer tekintetében kívánja végezni, a megfelelőségértékelő szervezet az (1) bekezdés szerinti kérelemhez mellékeli a (9) bekezdésben meghatározott dokumentumokat is.
 
-b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletében meghatározott igazgatási szolgáltatási díj megfizetésének igazolását.
+(3b)[^10] Nemzeti kiberbiztonsági tanúsítási rendszer esetében a tanúsító hatóság azt a megfelelőségértékelő szervezetet veszi nyilvántartásba, amely megfelel a (4)–(7) bekezdésben foglalt követelményeknek.
 
 (4) A megfelelőségértékelő szervezetnek – az (1) bekezdés szerinti kérelemben feltüntetett bármely megbízhatósági szint esetében – a következő feltételeknek kell megfelelnie:
 
@@ -178,4 +178,15 @@ na) nyílt forráskódú automata forráskódelemző rendszer esetében a rendsz
 
 nb) nem nyílt forráskódú automata forráskódelemző rendszer esetében licencigazolással.
 
+(9a)[^11] Európai kiberbiztonsági tanúsítási rendszer esetében – ha az európai kiberbiztonsági tanúsítási rendszer konkrét vagy kiegészítő követelményt nem állapít meg – a tanúsító hatóság azt a megfelelőségértékelő szervezetet veszi nyilvántartásba, amely rendelkezik az (EU) 2019/881 európai parlamenti és tanácsi rendelet 60. cikk (1) bekezdése szerinti akkreditált státusszal.
+
+(9b)[^12] A megfelelőségértékelő szervezet a (9a) bekezdése szerinti feltétel meglétét a nemzeti akkreditáló szerv által kiállított okirattal igazolja.
+
 (10) A tanúsító hatóság jogosult a benyújtott dokumentumok hitelességét a kiállító szerv bevonásával ellenőrizni.
+
+[^7]: A 3. alcím címe a 8/2026. (VIII. 17.) SZTFH rendelet 32. §-ával megállapított szöveg.
+[^8]: A 7. § (3) bekezdése a 8/2026. (VIII. 17.) SZTFH rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (3a) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 33. § (1) bekezdése iktatta be.
+[^10]: A 7. § (3b) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 33. § (1) bekezdése iktatta be.
+[^11]: A 7. § (9a) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 33. § (2) bekezdése iktatta be.
+[^12]: A 7. § (9b) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 33. § (2) bekezdése iktatta be.
