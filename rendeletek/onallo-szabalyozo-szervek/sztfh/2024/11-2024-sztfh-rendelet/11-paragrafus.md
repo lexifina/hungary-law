@@ -2,7 +2,7 @@
 
 (2) A Hatóság a jogi személy ESG tanácsadók esetén nyilvántartja – az ESG törvény 41. § (3) bekezdésében foglaltakon túl – a következő adatokat:
 
-a) a jogi személy ESG tanácsadó nyilvántartási számát,
+a)[^8]
 
 b) az akkreditált státusz hatálya kezdetének és lejártának időpontját,
 
@@ -17,3 +17,5 @@ cc) akkreditált státusza visszavonásra került,
 cd) akkreditált státusza megszűnt,
 
 d) az 5. § (1) bekezdés e) és f) pontja, az 5. § (2) és (3) bekezdése és a 10. § (1)–(3) bekezdése szerinti adatokat.
+
+[^8]: A 11. § (2) bekezdés a) pontját a 8/2026. (VIII. 17.) SZTFH rendelet 42. §-a hatályon kívül helyezte.

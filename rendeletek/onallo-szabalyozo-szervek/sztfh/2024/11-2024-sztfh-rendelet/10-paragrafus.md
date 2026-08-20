@@ -1,4 +1,4 @@
-10. § (1)[^5] A jogi személy kérelmező 7. § szerinti kérelme – az 5. § (1) bekezdés a)–d) pontjában foglaltakon túl – tartalmazza az NGM rendelet 4. § (3) bekezdés a) pontja szerinti munkavállalók vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottak, illetve a személyesen közreműködő tag családi és utónevét, valamint a munkavállalók vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottak, illetve a személyesen közreműködő tag nyilvántartási számát.
+10. § (1)[^6] A jogi személy kérelmező 7. § szerinti kérelme – az 5. § (1) bekezdés a)–d) pontjában foglaltakon túl – tartalmazza az NGM rendelet 4. § (3) bekezdés a) pontja szerinti munkavállalók vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottak, illetve a személyesen közreműködő tag családi és utónevét, valamint a munkavállalók vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottak, illetve a személyesen közreműködő tag nyilvántartási számát.
 
 (2) Ha a jogi személy kérelmező az (1) bekezdés szerinti személyeken túl ESG tanácsadóként további olyan személyt foglalkoztat, aki
 
@@ -30,7 +30,7 @@ c) az NGM rendelet 4. § (3) bekezdés g) pontja esetében – ha a jogi személ
 
 d) az NGM rendelet 4. § (5) bekezdése esetében az ESG adatszolgáltatásra kötelezett szervezettől származó – a jogi személy kérelmező megkeresését követő 15 napon belül kiállított – olyan, teljes bizonyító erejű magánokiratba foglalt referencianyilatkozattal, amely igazolja, hogy a jogi személy kérelmező a referencianyilatkozat kiállítója részére az ESG tanácsadói tevékenységet hány órában végezte.
 
-(6)[^6] Ugyanaz a természetes személy ESG tanácsadó egy időben legfeljebb három jogi személy kérelmezőnél vehető figyelembe az NGM rendelet 4. § (3) bekezdés a) pontja szerinti követelmény teljesítéséhez.
+(6)[^7] Ugyanaz a természetes személy ESG tanácsadó egy időben legfeljebb három jogi személy kérelmezőnél vehető figyelembe az NGM rendelet 4. § (3) bekezdés a) pontja szerinti követelmény teljesítéséhez.
 
-[^5]: A 10. § (1) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 5. § c) pontja szerint módosított szöveg.
-[^6]: A 10. § (6) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 5. § d) pontja szerint módosított szöveg.
+[^6]: A 10. § (1) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 5. § c) pontja szerint módosított szöveg.
+[^7]: A 10. § (6) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 5. § d) pontja szerint módosított szöveg.

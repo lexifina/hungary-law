@@ -7,3 +7,7 @@
 a) a 3. § (1)–(3) bekezdése vagy az 5. § (1)–(3) bekezdése szerinti adatokat,
 
 b) jogi személy ESG tanácsadó esetén a tanácsadó székhelye és a tanácsadó képviseletét ellátó személy nevét.
+
+(4)[^9] Az ESG tanácsadó az 5. § (1) bekezdés d) pontja szerinti adatokban bekövetkező változást annak az üzleti évnek az utolsó napját követő 15 napon belül jelenti be a Hatóság részére, amelyben a változás bekövetkezett.
+
+[^9]: A 14. § (4) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 40. §-a iktatta be.

@@ -16,7 +16,7 @@ b) a Hatóság elnökének rendeletében meghatározott igazgatási szolgáltat�
 
 (5) A természetes személy kérelmező
 
-a) az NGM rendelet 2. § (2) bekezdés a) pontja szerinti követelmény teljesítését a felsőfokú végzettséget igazoló okirat másolatával,
+a)[^3] az ESG tanácsadóként történő akkreditálás követelményrendszeréről szóló 29/2024. (VIII. 8.) NGM rendelet (a továbbiakban: NGM rendelet) 2. § (2) bekezdés a) pontja szerinti követelmény teljesítését a felsőfokú végzettséget igazoló okirat másolatával,
 
 b) az NGM rendelet 2. § (2) bekezdés b) pontja szerinti követelmény teljesítését az ESG Tanácsadó képesítés megszerzését igazoló okirat másolatával,
 
@@ -29,3 +29,4 @@ e) az NGM rendelet 2. § (2) bekezdés f) pontja esetében – ha a természetes
 igazolja.
 
 [^2]: A 3. § (1) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 4. §-ával megállapított szöveg.
+[^3]: A 3. § (5) bekezdés a) pontja a 8/2026. (VIII. 17.) SZTFH rendelet 41. §-a szerint módosított szöveg.

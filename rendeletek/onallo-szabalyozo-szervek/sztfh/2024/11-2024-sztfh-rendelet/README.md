@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-11-20-8
 | 2024-08-12 | 2024-11-20-8K.1 | 11/2024. (VIII. 8.) SZTFH rendelet |
 | 2025-06-30 | 2024-11-20-8K.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-08-22 | 2024-11-20-8K.3 | 8/2025. (VIII. 21.) SZTFH rendelet |
+| 2026-08-20 | 2024-11-20-8K.4 | 8/2026. (VIII. 17.) SZTFH rendelet |
