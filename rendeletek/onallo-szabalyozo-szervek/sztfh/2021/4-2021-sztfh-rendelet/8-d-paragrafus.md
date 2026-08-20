@@ -1,4 +1,4 @@
-8/D. §[^16] (1) A belső szabályzatban a szolgáltató kidolgozza a Pmt. 63. § (3) bekezdésében meghatározott, a Pmt.-ből eredő kötelezettség megsértésére vonatkozó, szolgáltatón belüli névtelen bejelentés megtételét biztosító bejelentési rendszer működtetésének feltételeit.
+8/D. §[^24] (1) A belső szabályzatban a szolgáltató kidolgozza a Pmt. 63. § (3) bekezdésében meghatározott, a Pmt.-ből eredő kötelezettség megsértésére vonatkozó, szolgáltatón belüli névtelen bejelentés megtételét biztosító bejelentési rendszer működtetésének feltételeit.
 
 (2) A bejelentést a szolgáltató a megfelelési vezető bevonásával 8 napon belül kivizsgálja. A határidőbe a bejelentés megtételének napja nem számít bele.
 
@@ -6,6 +6,7 @@
 
 (4) Ha a szolgáltató azt állapítja meg, hogy pénzmosásra vagy terrorizmusfinanszírozásra utaló adat, tény, illetve körülmény merül fel, úgy a Pmt. 31. § (1) bekezdése szerinti kijelölt személy haladéktalanul bejelentést tesz a Pmt. 3. § 27. pontja szerinti pénzügyi információs egységként működő hatóságnak.
 
-(5) Bűncselekmény gyanújának fennállása esetén a szolgáltató haladéktalanul feljelentést tesz a nyomozó hatóságnál.
+(5)[^25]
 
-[^16]: A 8/D. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.
+[^24]: A 8/D. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.
+[^25]: A 8/D. § (5) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 9. § e) pontja hatályon kívül helyezte.

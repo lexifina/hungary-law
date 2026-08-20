@@ -1,7 +1,7 @@
-17/A. §[^27] (1) A felügyeletet ellátó hatóság a szolgáltató Pmt. 64. §-ában foglalt kötelezettségei teljesítésének támogatása érdekében évente legalább egyszer képzést szervez, amelyen a szolgáltató legalább a megfelelési vezetője és a kijelölt felelős vezetője részvételét biztosítja.
+17/A. §[^42] (1) A felügyeletet ellátó hatóság a szolgáltató Pmt. 64. §-ában foglalt kötelezettségei teljesítésének támogatása érdekében évente legalább egyszer képzést szervez, amelyen a szolgáltató legalább a megfelelési vezetője és a kijelölt felelős vezetője részvételét biztosítja.
 
 (2) A felügyeletet ellátó hatóság a képzés során a pénzmosás elleni fellépéssel kapcsolatos tudatosság növelése érdekében tájékoztatást ad különösen a szektort érintő kockázatokról, a felügyeleti tapasztalatokról és az ügyfél-átvilágítási intézkedések megfelelő alkalmazásáról. A képzésen elhangzott tájékoztatás tartalmát a szolgáltató beépíti a 17. § (2) bekezdése szerinti képzési programjába.
 
 (3) A képzést követően a felügyeletet ellátó hatóság konzultáció keretében ellenőrizheti, hogy a kijelölt felelős vezető és a megfelelési vezető mennyire érti és látja át az adott szolgáltatásnyújtás pénzmosási és terrorizmusfinanszírozási kockázatait, a kockázatok kezelésére irányuló eljárásrendet, a pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény felmerülése esetén követendő eljárásrendet, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásával és a kijelölt felelős vezetők és a megfelelési vezetők jogszabályokból adódó feladatával kapcsolatos ismereteket.
 
-[^27]: A 17/A. §-t a 7/2023. (III. 22.) SZTFH rendelet 1. §-a iktatta be, szövege a 16/2024. (IX. 19.) SZTFH rendelet 8. §-ával megállapított szöveg.
+[^42]: A 17/A. §-t a 7/2023. (III. 22.) SZTFH rendelet 1. §-a iktatta be, szövege a 16/2024. (IX. 19.) SZTFH rendelet 8. §-ával megállapított szöveg.

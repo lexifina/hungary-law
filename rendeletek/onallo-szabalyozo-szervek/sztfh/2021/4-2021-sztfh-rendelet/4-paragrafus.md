@@ -1,11 +1,15 @@
-4. §[^9] A szolgáltató a belső kockázatértékelésében megállapítja
+4. §[^13] A szolgáltató a belső kockázatértékelésében megállapítja
 
-a) a kockázati tényezőket és az azok alapjául szolgáló információkat,
+a) az adott szerencsejáték-szolgáltatás szempontjából releváns, a pénzmosás és terrorizmus-finanszírozás során alkalmazott jellemző módszereket, mintázatokat és elkövetési technikákat,
 
-b) a kockázatok értékelését,
+b) kockázati csoportonként a kockázati tényezőket és az azok alapjául szolgáló információkat,
 
-c) a kockázatok kezelésére tett intézkedéseket,
+c) alacsony, átlagos vagy magas kockázati szintbe sorolás útján a kockázatok értékelését kockázati csoportonként,
 
-d) a tervezett felülvizsgálat időpontját.
+d) engedélyezett játékonként – a c) pont szerinti értékelés alapján – a kockázati szint meghatározását,
 
-[^9]: A 4. § a 16/2024. (IX. 19.) SZTFH rendelet 2. §-ával megállapított szöveg.
+e) kockázati csoportonként a kockázatok kezelésére tett intézkedéseket, valamint
+
+f) a tervezett felülvizsgálat időpontját.
+
+[^13]: A 4. § a 8/2026. (VIII. 17.) SZTFH rendelet 3. §-ával megállapított szöveg.

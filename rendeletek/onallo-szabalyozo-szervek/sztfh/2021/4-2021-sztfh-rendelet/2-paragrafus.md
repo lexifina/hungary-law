@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1.[^1] megerősített eljárás: az ügyfélben, az igénybe vett szerencsejáték-szolgáltatásban, az ügyletben, a szerencsejáték-szolgáltatás igénybevételének online vagy offline módjában, valamint a földrajzi kitettségben rejlő kockázat kezelésére szolgáló, a Pmt. 65. §-a szerinti belső szabályzatban meghatározott esetekben végzett fokozott ügyfél-átvilágítási intézkedések alkalmazása és a szolgáltató monitoring tevékenységének az ügyfélnek a szolgáltatás igénybevétele során végzett játéktevékenysége egészére történő kiterjesztése, beleértve az ügyfélprofiltól történő eltérés vizsgálatát is;
+1.[^1] megerősített eljárás: az ügyfélben, az igénybe vett szerencsejáték-szolgáltatásban, az ügyletben, a szerencsejáték-szolgáltatás igénybevételének online vagy offline módjában, valamint a földrajzi kitettségben rejlő kockázat kezelésére szolgáló, a Pmt. 65. §-a szerinti belső szabályzatban (a továbbiakban: belső szabályzat) meghatározott esetekben végzett fokozott ügyfél-átvilágítási intézkedések alkalmazása és a szolgáltató monitoring tevékenységének az ügyfélnek a szolgáltatás igénybevétele során végzett játéktevékenysége egészére történő kiterjesztése, beleértve az ügyfélprofiltól történő eltérés vizsgálatát is;
 
 2. monitoring: a szolgáltató által
 
@@ -10,6 +10,9 @@ a) az üzleti kapcsolat folyamatos figyelemmel kísérése és
 
 b) az üzleti kapcsolaton kívül az ügylet és a kapcsolódó körülmények elemzése;
 
+2a.[^2] származási ország: az ügyfél vagy a tényleges tulajdonos állampolgársága, lakó- és tartózkodási helye szerinti ország vagy országok, valamint az a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország, amellyel az ügyfélnek vagy a tényleges tulajdonosnak – a szolgáltató által kockázatérzékenységi alapon folytatott vizsgálatot követően – kimutatható, pénzmosási vagy terrorizmusfinanszírozási szempontból jelentőséggel bíró kapcsolata van;
+
 3. szokatlan ügylet: olyan ügylet, amely jelentősen eltér az ügyfél korábbi tevékenysége alapján a szolgáltatónál az adott ügyfélről rendelkezésre álló információktól – különösen, ha az ügyletek gyakorisága, típusa vagy értéke változik meg az ügyfél korábbi játéktevékenységéhez képest –, vagy az adott szolgáltatással kapcsolatban általánosan követett eljárásoktól, továbbá az olyan ügylet, amelynek nincs világosan érthető gazdasági vagy egyéb jogszerű célja.
 
-[^1]: A 2. § 1. pontja a 32/2022.(VII. 21.) SZTFH rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 1. pontja a 32/2022.(VII. 21.) SZTFH rendelet 1. §-ával megállapított, a 8/2026. (VIII. 17.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 2a. pontját a 8/2026. (VIII. 17.) SZTFH rendelet 1. §-a iktatta be.

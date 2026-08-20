@@ -1,6 +1,6 @@
 ## 5. § A szolgáltatónak szerencsejáték-szervező tevékenysége során olyan módszereket kell alkalmaznia, amelyek alkalmasak a szolgáltató eljárásrendje és a játékok menete során a szokatlan játékosi magatartások és tranzakciók kiszűrésére, valamint a nyereményigazolás valóságtartalmának alátámasztására.
 
-6. §[^10] A szolgáltató soron kívül felülvizsgálja a belső kockázatértékelését, és módosítja, ha
+6. §[^14] A szolgáltató soron kívül felülvizsgálja a belső kockázatértékelését, és módosítja, ha
 
 a) új típusú vagy fajtájú terméket vagy szolgáltatást vezet be,
 
@@ -20,4 +20,4 @@ h) a legutóbbi kockázatértékelés óta legalább 2 év eltelt, vagy
 
 i) korábban beazonosított kockázati tényező már nem áll fenn.
 
-[^10]: A 6. § a 16/2024. (IX. 19.) SZTFH rendelet 3. §-ával megállapított szöveg.
+[^14]: A 6. § a 16/2024. (IX. 19.) SZTFH rendelet 3. §-ával megállapított szöveg.

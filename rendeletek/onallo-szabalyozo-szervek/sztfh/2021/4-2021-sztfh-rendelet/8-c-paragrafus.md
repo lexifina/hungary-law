@@ -1,4 +1,4 @@
-8/C. §[^15] Az adott szerencsejáték-fajta sajátosságaira tekintettel, a szolgáltató legalább a következő ügyfél-, illetve ügylettípusokra végzett szűréseket hajtja végre:
+8/C. §[^23] Az adott szerencsejáték-fajta sajátosságaira tekintettel, a szolgáltató legalább a következő ügyfél-, illetve ügylettípusokra végzett szűréseket hajtja végre:
 
 a) az egy naptári vagy játéknapon belül kétmillió forintot elérő vagy meghaladó értékű pénzügyi műveletet
 
@@ -14,4 +14,4 @@ e) a belső szabályzatban meghatározott további ügyfél-, illetve ügylettí
 
 f) a belső kockázatértékelés alapján meghatározott szokatlan ügyletek.
 
-[^15]: A 8/C. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.
+[^23]: A 8/C. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.

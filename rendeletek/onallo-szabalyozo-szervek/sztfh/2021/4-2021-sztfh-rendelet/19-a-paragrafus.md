@@ -1,4 +1,4 @@
-## 10/A.[^31] A kijelölt felelős vezető
+## 10/A.[^47] A kijelölt felelős vezető
 
 19/A. § (1) A Pmt. 63. § (4a) bekezdésében foglaltaknak megfelelően kijelölt felelős vezetőnek meg kell felelnie az alábbi szempontoknak is:
 
@@ -22,4 +22,4 @@ b) nem online kaszinójátékot vagy távszerencsejátékot nyújt.
 
 (5) A szolgáltató a felügyeletet ellátó hatóság részére igazolja foglalkoztatottjainak számát a (4) bekezdés a) pontja szerinti feltétel fennállásának ellenőrzése érdekében.
 
-[^31]: A 10/A. alcímet (19/A–19/D. §-t) a 16/2024. (IX. 19.) SZTFH rendelet 10. §-a iktatta be.
+[^47]: A 10/A. alcímet (19/A–19/D. §-t) a 16/2024. (IX. 19.) SZTFH rendelet 10. §-a iktatta be.

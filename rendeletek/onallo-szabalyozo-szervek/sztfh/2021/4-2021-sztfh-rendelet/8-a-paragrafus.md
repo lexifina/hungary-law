@@ -1,4 +1,4 @@
-8/A. §[^13] (1) A szolgáltató a belső ellenőrző és információs rendszer részeként szűrőrendszerrel rendelkezik, amely
+8/A. §[^21] (1) A szolgáltató a belső ellenőrző és információs rendszer részeként szűrőrendszerrel rendelkezik, amely
 
 a) biztosítja a magas kockázati tényezők, a magas kockázatú ügyfelek és a szokatlan ügyletek kiszűrését,
 
@@ -10,4 +10,4 @@ c) alkalmas a nyereményigazolás valóságtartalmának alátámasztására.
 
 (3) Az online kaszinójátékot vagy távszerencsejátékot nyújtó szolgáltató olyan automatikus informatikai szűrőrendszert működtet, amely az ügyletek és az ügyfelek leválogatására a paraméterezést követően, emberi beavatkozást nem igénylő módon képes.
 
-[^13]: A 8/A. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.
+[^21]: A 8/A. §-t a 16/2024. (IX. 19.) SZTFH rendelet 5. §-a iktatta be.
