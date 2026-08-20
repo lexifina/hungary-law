@@ -1,3 +1,3 @@
-22. § Az 50/2023. (IX. 5.) AM rendelet 22. § (2) bekezdése a következő d) ponttal egészül ki:
+22. §[^25]
 
-(Egységköltségek alkalmazásának hiányában a beavatkozások költségei, valamint a költségszámítás alapjául szolgáló egységárak nem haladhatják meg a szokásos piaci árat, amelyet)
+[^25]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

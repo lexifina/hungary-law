@@ -1,3 +1,3 @@
-5. § Az 50/2017. (X. 10.) FM rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+5. §[^8]
 
-„(3) A termelői szervezet tagjai által a termelői szervezeten kívül forgalomba hozott termékek aránya a 891/2017/EU bizottsági rendelet 12. cikk (1) bekezdés b) és c) pontjának megfelelően a saját termelői szervezetük által kijelölt másik termelői szervezeten keresztül értékesített, továbbá az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/848 európai parlamenti és tanácsi rendelet hatálya alá tartozó termékek esetében elérheti a negyven százalékot.”
+[^8]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

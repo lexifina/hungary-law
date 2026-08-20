@@ -1,3 +1,3 @@
-21. § Az 50/2023. (IX. 5.) AM rendelet 22. alcím címe helyébe a következő alcímcím lép:
+21. §[^24]
 
-„22. A költségek alátámasztására és igazolására vonatkozó szabályok”
+[^24]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

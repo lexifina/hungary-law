@@ -1,3 +1,3 @@
-24. § Az 50/2023. (IX. 5.) AM rendelet 26. § (5) bekezdése helyébe a következő rendelkezés lép:
+24. §[^27]
 
-„(5) A támogatásról szóló döntés meghozatalának határideje – a költségvetési forrás rendelkezésre állása esetén – 70 nap, amely az ügy összes iratának a Nemzeti Kifizető Ügynökséghez történő megérkezését követő munkanapon, vagy amennyiben a termelői szervezet az előző végrehajtási évre vonatkozóan benyújtott éves kifizetési kérelemben a 27. § (3a) bekezdésének megfelelően halasztott intézkedést jelöl, úgy az előző végrehajtási évre vonatkozóan benyújtott éves kifizetési kérelem alapján jogosult támogatás kifizetését követő napon kezdődik. A támogatásról szóló döntés meghozatalára és a támogatás összegének folyósítására a szükséges költségvetési forrás rendelkezésre állása esetén kerül sor.”
+[^27]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

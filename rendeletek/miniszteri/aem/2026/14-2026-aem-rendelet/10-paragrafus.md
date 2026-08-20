@@ -1,1 +1,3 @@
-10. § Hatályát veszti az 50/2017. (X. 10.) FM rendelet 4. § (3) bekezdés c) pontja.
+10. §[^13]
+
+[^13]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

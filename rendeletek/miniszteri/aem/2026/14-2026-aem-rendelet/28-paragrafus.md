@@ -1,3 +1,3 @@
-28. § Az 50/2023. (IX. 5.) AM rendelet 40. §-a a következő f) ponttal egészül ki:
+28. §[^31]
 
-(Ez a rendelet)
+[^31]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

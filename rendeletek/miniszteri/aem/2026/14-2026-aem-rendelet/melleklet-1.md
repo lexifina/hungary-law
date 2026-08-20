@@ -1,13 +1,3 @@
-1. melléklet a 14/2026. (VIII. 14.) AÉM rendelethez
+1. melléklet a 14/2026. (VIII. 14.) AÉM rendelethez[^35]
 
-Az 50/2023. (IX. 5.) AM rendelet 1. mellékletében foglalt táblázat A:18 mezője helyébe a következő mező lép:
-
-|  | (A) |
-
-|  | (Termék) |
-
-„
-
-| (18.) | Görög- és sárgadinnye |
-
-”
+[^35]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

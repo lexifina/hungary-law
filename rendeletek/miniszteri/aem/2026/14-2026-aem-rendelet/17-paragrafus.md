@@ -1,3 +1,3 @@
-17. § Az 50/2023. (IX. 5.) AM rendelet 9. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+17. §[^20]
 
-(Használt eszköz beszerzése akkor lehetséges, ha)
+[^20]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
