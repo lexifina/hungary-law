@@ -1,0 +1,11 @@
+## 4. A pedagógusok új életpályájáról szóló 2023. évi LII. törvény módosítása
+
+11. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) 17. §-a helyébe a következő rendelkezés lép:
+
+„17. § [Egyes munkáltatói jogkörök gyakorlása]
+
+(1) A köznevelési intézményben a köznevelési intézmény igazgatója gyakorolja a munkáltatói jogokat, amelyek – a kinevezéssel, a munkaszerződés megkötésével, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetésével, a besorolás és a havi illetmény vagy munkabér megállapításával, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapításával kapcsolatos munkáltatói jogok kivételével – a köznevelési intézményen belül a szervezeti és működési szabályzatban meghatározott módon átruházhatók.
+
+(2) A tankerületi központ fenntartásában működő köznevelési intézményben a kinevezéssel, a munkaszerződés megkötésével, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetésével, a besorolás és a havi illetmény vagy munkabér megállapításával, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapításával kapcsolatos munkáltatói jogokat az igazgató a tankerületi központ vezetőjének egyetértésével gyakorolja. A tankerületi központ vezetője az egyetértését csak akkor tagadhatja meg, ha a kinevezés, a munkaszerződés megkötése, a köznevelési foglalkoztatotti jogviszony vagy a munkaviszony megszüntetése, a besorolás és a havi illetmény vagy munkabér megállapítása, valamint a köznevelésben foglalkoztatottak egyéb juttatásai megállapítása jogszabályba ütközik vagy a költségvetési fedezet nem áll rendelkezésre. A tankerületi központ vezetője az igazgató munkáltatóijogkör-gyakorlás tartalmára vonatkozó írásbeli tájékoztatásától számított tizenöt napon belül közli nyilatkozatát az igazgatóval.
+
+(3) Ha a munkavégzés helyeként több, ugyanazon tankerületi központ fenntartása alá tartozó köznevelési intézmény került meghatározásra, a tankerületi központ vezetője az érintett köznevelési intézmények igazgatóinak egyetértésével határozza meg a munkaidő intézmények közötti megosztását.”
