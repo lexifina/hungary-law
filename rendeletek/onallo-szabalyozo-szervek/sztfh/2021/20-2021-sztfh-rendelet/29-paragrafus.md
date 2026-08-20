@@ -20,9 +20,9 @@
 
 (10)[^32] Az online kaszinó jogosult az ajándék bónuszt vagy a speciális bónusz ajánlatot úgy meghirdetni, hogy az a játékos vagy azok a játékosok legyenek az ajándék bónuszra vagy a speciális bónusz ajánlatra jogosultak, akik egy előre meghatározott időtartamon belül egy előre meghatározott feltételnek – a játékosok rangsorba állítása esetén – a legnagyobb mértékben tettek eleget.
 
-(11)[^33] A távszerencsejáték szervezője és az online kaszinó jogosult az ajándék bónusz vagy a speciális bónusz ajánlatot úgy meghirdetni, hogy egy előre meghatározott időtartamon belül előre meghatározott feltételnek eleget tett játékosok közül sorsolás útján kiválasztott játékos vagy játékosok legyenek az ajándék bónuszra vagy a speciális bónusz ajánlatra jogosultak.
+(11)[^33] A távszerencsejáték szervezője és az online kaszinó jogosult az ajándék bónusz vagy a speciális bónusz ajánlatot úgy meghirdetni, hogy egy előre meghatározott időtartamon belül előre meghatározott feltételnek eleget tett játékos valamely további, előre meghatározott, a játékostól független esemény vagy feltétel – így különösen sorsolás útján történő kiválasztás – bekövetkezése esetén ajándék bónuszra vagy speciális bónusz ajánlatra legyen jogosult.
 
 [^30]: A 29. § (3) bekezdése a 14/2023. (VII. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
 [^31]: A 29. § (9) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 11. §-a iktatta be.
 [^32]: A 29. § (10) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 11. §-a iktatta be.
-[^33]: A 29. § (11) bekezdését a 18/2024. (XII. 30.) SZTFH rendelet 17. §-a iktatta be.
+[^33]: A 29. § (11) bekezdését a 18/2024. (XII. 30.) SZTFH rendelet 17. §-a iktatta be, szövege a 8/2026. (VIII. 17.) SZTFH rendelet 14. §-ával megállapított szöveg.
