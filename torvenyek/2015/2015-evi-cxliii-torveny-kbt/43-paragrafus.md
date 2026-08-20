@@ -36,6 +36,14 @@ eb) az alvállalkozói teljesítés tényleges százalékos arányát az ajánla
 
 f) a szerződés megszüntetésének, felbontásának vagy érvénytelensége megállapításának tényét, a 135. § (12) bekezdése alkalmazásával megkötött szerződés hatályba nem lépése esetén ennek tényét, azon időpontot követő harminc napon belül, amikor a szerződés megszűnt, felbontották, érvénytelenségét megállapították, illetve hatálybalépése meghiúsult.
 
+g) az egy évnél hosszabb vagy határozatlan időre kötött szerződések tekintetében a szerződés megkötését követően 12 havonta, a 43. § (1) bekezdés c) pontja szerinti adatokon kívül
+
+ga) az adott időszakban teljesített szolgáltatások vagy szállítások rövid leírását,
+
+gb) az adott időszakban teljesített kifizetések összegét, és
+
+gc) a szerződéstől eltérő teljesítés esetén az erre vonatkozó információkat.
+
 (3) Az (1)–(2) bekezdés szerinti adatok közérdekből nyilvános adatok, azok nyilvánosságra hozatala üzleti titokra hivatkozással nem tagadható meg. Ettől eltérően amennyiben a felek az ajánlatot a szerződés mellékletévé teszik, az ajánlat nyilvánosságára a 44. § alkalmazandó.
 
 (4) A (2) bekezdés a) pontja szerinti közbeszerzési tervnek a tárgyévet követő évre vonatkozó közbeszerzési terv EKR-ben történő közzétételéig kell elérhetőnek lennie.

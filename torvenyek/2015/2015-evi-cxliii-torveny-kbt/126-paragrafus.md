@@ -19,3 +19,5 @@ c) aki nem áll kizáró ok hatálya alatt.
 (6) Az eljárás – az (5) bekezdésben foglaltak mellett – eredménytelen, ha az értékelést követően megállapítható, hogy az értékelési szempontok szerint legkedvezőbb ajánlat alapján a koncesszió értéke magasabb a becsült értéknél, és ha az eljárás megindításakor az előbbit tekintették volna becsült értéknek, az eljárásban alkalmazott nemzeti szintű közzététel helyett a külön jogszabályban foglaltak szerinti európai uniós közzétételre kellett volna, hogy sor kerüljön.
 
 (7) Az eljárás – az (5) bekezdésben foglaltak mellett – eredménytelen, ha megállapítható, hogy az értékelési szempontok szerint legkedvezőbb ajánlat feltételeit figyelembe véve a 8. § (7) bekezdése szerinti feltétel vagy a 133. § (2) bekezdése szerinti feltétel nem teljesülne.
+
+(8) Az eljárás – az (5)–(7) bekezdésben foglaltak mellett – eredménytelen, ha kizárólag egy ajánlatot nyújtottak be, kivéve, ha az ajánlatkérő objektív módszerrel igazolja, hogy a verseny hiánya a piac tényleges szerkezetének következménye. Az eljárás eredményessé nyilvánítása esetén az ajánlatkérő az összegezésben ismerteti az e bekezdés szerinti vizsgálatának eredményét.
