@@ -61,3 +61,5 @@
 (27) A 15. § (2c) és (2d) bekezdésében foglaltakat nem kell alkalmazni a 2026. január 1-jét megelőzően megkezdett intézkedésekre. Lakóépületek energiahatékonyságát javító beruházás megvalósításának európai uniós forrásból finanszírozott alternatív szakpolitikai intézkedéssel történő kombinálása esetén a 15. § (2c) abban az esetben alkalmazandó, ha az adott alternatív szakpolitikai intézkedésre vonatkozó pályázati felhívás a kulcstermékek beépítését kifejezetten előírja.
 
 (28) A Hivatal a 15/D. § (5) bekezdése szerinti, részben vagy egészben energiahatékonysági járulék megfizetését választó kötelezett felek listáját a 2025. évben az energiahatékonyságról szóló 2015. évi LVII. törvény módosításáról szóló 2025. évi XXV. törvény hatálybalépését követő 15 napon belül teszi közzé.
+
+(29) E törvénynek a Magyarország Helyreállítási és Ellenállóképességi Tervében szereplő energetikai tárgyú vállalások teljesítéséhez szükséges törvények módosításáról szóló 2026. évi XXXVI. törvénnyel megállapított rendelkezéseit 2026. augusztus 20. napja után megkötött szerződésekre kell alkalmazni.
