@@ -1,0 +1,3 @@
+## 5. A szerencsejáték felügyeleti díjról és a szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjról szóló 3/2022. (I. 24.) SZTFH rendelet módosítása
+
+15. § Hatályát veszti a szerencsejáték felügyeleti díjról és a szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjról szóló 3/2022. (I. 24.) SZTFH rendelet 3. § (2) és (3) bekezdése.

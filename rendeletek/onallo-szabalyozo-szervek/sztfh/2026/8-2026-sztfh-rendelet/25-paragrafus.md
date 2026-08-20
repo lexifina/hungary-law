@@ -1,0 +1,3 @@
+25. § A 20/2022. (I. 31.) SZTFH rendelet 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A biztosítékot a kutatási területre, a kutatási időszak végétől a bányatelek megállapításáig terjedő időszakban a koncessziós területből történő kitermelés esetén a kitermelési helyre, továbbá a bányatelekre kell meghatározni. Ha a bányavállalkozó jogosultságában több bányatelek is van, a biztosítékot összevontan, a bányatelkekre együttesen is szolgáltathatja, azonban az összevont biztosíték nagysága nem lehet kisebb, mint az egyes bányatelkekre meghatározott biztosítékok együttes összege. A biztosíték mértéke nem haladhatja meg a kétmilliárd forintot.”

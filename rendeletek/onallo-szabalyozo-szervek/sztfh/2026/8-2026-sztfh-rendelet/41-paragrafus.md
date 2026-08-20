@@ -1,0 +1,1 @@
+41. § A 11/2024. (VIII. 8.) SZTFH rendelet 3. § (5) bekezdés a) pontjában az „az NGM rendelet” szövegrész helyébe az „az ESG tanácsadóként történő akkreditálás követelményrendszeréről szóló 29/2024. (VIII. 8.) NGM rendelet (a továbbiakban: NGM rendelet)” szöveg lép.

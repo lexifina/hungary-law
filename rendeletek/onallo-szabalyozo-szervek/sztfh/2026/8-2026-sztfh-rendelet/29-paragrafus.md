@@ -1,0 +1,9 @@
+## 8. A szerkezetátalakítási szakértők működésével kapcsolatos egyes kérdésekről szóló 41/2022. (XII. 22.) SZTFH rendelet módosítása
+
+29. § A szerkezetátalakítási szakértők működésével kapcsolatos egyes kérdésekről szóló 41/2022. (XII. 22.) SZTFH rendelet [a továbbiakban: 41/2022. (XII. 22.) SZTFH rendelet] 1. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (3a) bekezdéssel egészül ki:
+
+„(2) A Szát. 24. § (1) bekezdés b) pontja szerinti természetes személy (a továbbiakban: képzésre kötelezett) – a Cstv. 27/C. § (4) bekezdés h) pontja szerinti tény felszámolói névjegyzékben történő feltüntetése feltételeként – a szerkezetátalakítási szakértői tevékenység megkezdéséhez szükséges szerkezetátalakítási alapképzésen (a továbbiakban: alapképzés) vesz részt. Az alapképzés eredményes elvégzését igazoló tanúsítványt a képzésre kötelezett kérelmére – a kérelem benyújtását követő 15 napon belül – az Igazságügyi Minisztérium Igazságügyi Szolgálatok Jogakadémiája (a továbbiakban: Jogakadémia) küldi meg a képzésre kötelezettet foglalkoztató szerkezetátalakítási szakértő részére.
+
+(3) A képzésre kötelezett – az alapképzést követően – a szerkezetátalakítási szakértői tevékenység folytatásához szükséges ismeretei frissítése érdekében kétévente továbbképzésben vesz részt. A továbbképzés eredményes elvégzését igazoló tanúsítványt a képzésre kötelezett kérelmére – a kérelem benyújtását követő 15 napon belül – a Jogakadémia küldi meg a képzésre kötelezettet foglalkoztató szerkezetátalakítási szakértő részére.
+
+(3a) A szerkezetátalakítási szakértő a (3) bekezdés szerinti tanúsítványt a továbbképzési kötelezettség teljesítését követő 45 napon belül megküldi a szerkezetátalakítási szakértőt nyilvántartó Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) részére.”
