@@ -1,4 +1,4 @@
-## 7/A.[^87] A feltáró kutatás
+## 7/A.[^91] A feltáró kutatás
 
 19/A. § (1) A feltáró kutatásra a 16. §, a 17. § (4) és (6)–(8) bekezdéseinek, valamint a 19. § rendelkezéseit alkalmazni kell.
 
@@ -52,4 +52,4 @@ e) az ásványvagyon mennyiségi, minőségi értékeléséhez alapul szolgáló
 
 (11) A bányafelügyelet az elfogadott jelentés alapján az ásványvagyon-nyilvántartásban szereplő adatokat módosítja, ha a jelentés az adott ásványi nyersanyag tekintetében a módosítást alátámasztja.
 
-[^87]: A 7/A. alcímet (19/A. §-t) a 14/2025. (XII. 22.) SZTFH rendelet 20. §-a iktatta be.
+[^91]: A 7/A. alcímet (19/A. §-t) a 14/2025. (XII. 22.) SZTFH rendelet 20. §-a iktatta be.

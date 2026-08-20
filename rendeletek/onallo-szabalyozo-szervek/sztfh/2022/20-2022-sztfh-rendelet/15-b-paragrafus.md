@@ -8,12 +8,12 @@ c) az eltelt időszakban keletkezett
 
 adatokat.
 
-(2)[^78] A geotermikus védőidom felülvizsgálata eredményeként indokolt esetben a bányafelügyelet intézkedik a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés módosításáról, szükség esetén annak felmondásáról. Nem lehet a szerződést módosítani vagy felmondani, ha ennek következtében ellátatlan fogyasztó maradna.
+(2)[^82] A geotermikus védőidom felülvizsgálata eredményeként indokolt esetben a bányafelügyelet intézkedik a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés módosításáról, szükség esetén annak felmondásáról. Nem lehet a szerződést módosítani vagy felmondani, ha ennek következtében ellátatlan fogyasztó maradna.
 
-(3)[^79] A geotermikus védőidom felülvizsgálatát a kitermelésre engedélyezett termálvíz mennyiségének növelése céljából a bányavállalkozó is kezdeményezheti.
+(3)[^83] A geotermikus védőidom felülvizsgálatát a kitermelésre engedélyezett termálvíz mennyiségének növelése céljából a bányavállalkozó is kezdeményezheti.
 
-(4)[^80] A geotermikus védőidom (3) bekezdés szerinti felülvizsgálatára a geotermikus védőidom kijelölésére vonatkozó szabályokat kell alkalmazni.
+(4)[^84] A geotermikus védőidom (3) bekezdés szerinti felülvizsgálatára a geotermikus védőidom kijelölésére vonatkozó szabályokat kell alkalmazni.
 
-[^78]: A 15/B. § (2) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § c) pontja szerint módosított szöveg.
-[^79]: A 15/B. § (3) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 19. §-a iktatta be.
-[^80]: A 15/B. § (4) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 19. §-a iktatta be.
+[^82]: A 15/B. § (2) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § c) pontja szerint módosított szöveg.
+[^83]: A 15/B. § (3) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 19. §-a iktatta be.
+[^84]: A 15/B. § (4) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 19. §-a iktatta be.

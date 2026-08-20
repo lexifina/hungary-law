@@ -12,7 +12,7 @@
 
 (7) A vállalkozó alvállalkozót a bányavállalkozó és a gázipari engedélyes hozzájárulásával vehet igénybe, amennyiben az alvállalkozó a tevékenység végzése tekintetében megfelel a vállalkozóra előírt feltételeknek.
 
-(8)[^150] A bányavállalkozó és a gázipari engedélyes a vállalkozó, valamint az alvállalkozó igénybevételét az igénybevétel megkezdését legalább 5 nappal megelőzően a bányafelügyeletnek bejelenti. A bányavállalkozó és a gázipari engedélyes úgy felel a vállalkozónak, illetve alvállalkozónak a Bt. és e rendelet hatálya alá tartozó tevékenységekkel kapcsolatos, jogszabályban foglalt kötelezettségei teljesítéséért, mintha a tevékenységet maga végezné.
+(8)[^162] A bányavállalkozó és a gázipari engedélyes a vállalkozó, valamint az alvállalkozó igénybevételét az igénybevétel megkezdését legalább 5 nappal megelőzően a bányafelügyeletnek bejelenti. A bányavállalkozó és a gázipari engedélyes úgy felel a vállalkozónak, illetve alvállalkozónak a Bt. és e rendelet hatálya alá tartozó tevékenységekkel kapcsolatos, jogszabályban foglalt kötelezettségei teljesítéséért, mintha a tevékenységet maga végezné.
 
 (9) A (8) bekezdés szerinti bejelentés tartalmazza
 
@@ -28,4 +28,4 @@ e) a vállalkozó alkalmasságának igazolását.
 
 (10) A bányafelügyelet a (8) bekezdés szerinti bejelentést követő nyolc napon belül az igénybevételt megtilthatja, ha a (6) és (7) bekezdésben foglaltak a vállalkozó vagy alvállalkozó tekintetében nem teljesülnek.
 
-[^150]: A 33. § (8) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § j) pontja szerint módosított szöveg.
+[^162]: A 33. § (8) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § j) pontja szerint módosított szöveg.

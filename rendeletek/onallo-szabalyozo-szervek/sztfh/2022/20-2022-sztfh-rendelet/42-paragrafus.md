@@ -1,6 +1,6 @@
 ## 21. Bányabezárás, mezőfelhagyás
 
-42. §[^187] (1) A bánya bezárására, a mező felhagyására készített műszaki üzemi terv tartalmazza
+42. §[^202] (1) A bánya bezárására, a mező felhagyására készített műszaki üzemi terv tartalmazza
 
 a) a bányabezárás – ideértve a meddőhányók megszüntetését és tájrendezését –, mezőfelhagyás környezetre, a külszíni és a felszín alatti vizekre, természeti értékekre gyakorolt hatásának vizsgálatát,
 
@@ -50,13 +50,15 @@ c) a föld alatti bányatérségek és egyéb bányászati létesítmények más
 
 d) külfejtéses bányászati tevékenység végzése esetén a bányászati tevékenységgel igénybe vehető ingatlanok helyrajzi számát, ha a bányavállalkozó az (1) bekezdés d) pontja szerinti kitermelést tervez.
 
+(6a)[^203] A bányafelügyelet a (6) bekezdés szerinti határozatában a kérelemtől eltérő bányabezárási, mezőfelhagyási, illetve tájrendezési feladatok teljesítését is elrendelheti, ha a kérelemben tervezett bányabezárási, mezőfelhagyási és tájrendezési feladatok nem elegendőek a bányabezárás, mezőfelhagyás és tájrendezés teljes körű elvégzéséhez.
+
 (7) A bányafelügyelet csak a végállapoti rézsűk és a bányatalp kialakításához szükséges ásványi nyersanyag kitermelést engedélyezi, ha
 
 a) a Bt. 30. § (5) bekezdése alapján kötelezte a bányavállalkozót a bánya bezárására, vagy
 
 b) idegen ingatlan igénybevétele esetén a bányavállalkozó nem rendelkezik a 30. § (12) bekezdése szerinti okirattal.
 
-(8) A bányabezárásra, mezőfelhagyásra vonatkozó műszaki üzemi terv végrehajtását, a tájrendezés befejezését a bányavállalkozó 30 napon belül bejelenti a bányafelügyeletnek. A bányabezárás és a tájrendezés végrehajtásáról és a bányászati tevékenység befejezéséről a bányafelügyelet határoz. E határozat véglegessé válását követően a bányatelek törléséről a bányafelügyelet határozatot hoz, és a végleges határozattal felhívja az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlésére.
+(8)[^204] A bányabezárásra, mezőfelhagyásra vonatkozó műszaki üzemi terv végrehajtását, a tájrendezés befejezését a bányavállalkozó 30 napon belül bejelenti a bányafelügyeletnek és ezzel egyidejűleg megküldi a (4) bekezdés c) pontja szerinti, a megvalósult végállapotot tükröző bányatérképet. A bányabezárás és a tájrendezés végrehajtásáról és a bányászati tevékenység befejezéséről a bányafelügyelet határoz. E határozat véglegessé válását követően a bányatelek törléséről a bányafelügyelet határozatot hoz, és a végleges határozattal felhívja az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlésére.
 
 (9) A bányafelügyelet a föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítását külön eljárásban, a műszaki terv jóváhagyásával engedélyezi.
 
@@ -104,4 +106,6 @@ e) a biztosíték elfogadására vonatkozó rendelkezést.
 
 (15) A más célra hasznosított föld alatti bányatérségek, egyéb létesítmények felhagyását a bányafelügyelet engedélyezi. Az engedély iránti kérelemhez mellékelni kell felhagyására vonatkozó műszaki tervet.
 
-[^187]: A 42. § a 4/2025. (IV. 17.) SZTFH rendelet 22. §-ával megállapított szöveg.
+[^202]: A 42. § a 4/2025. (IV. 17.) SZTFH rendelet 22. §-ával megállapított szöveg.
+[^203]: A 42. § (6a) bekezdését a 8/2026. (VIII. 17.) SZTFH rendelet 26. §-a iktatta be.
+[^204]: A 42. § (8) bekezdése a 8/2026. (VIII. 17.) SZTFH rendelet 27. § i) pontja szerint módosított szöveg.

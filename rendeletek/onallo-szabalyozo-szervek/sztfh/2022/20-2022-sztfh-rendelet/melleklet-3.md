@@ -64,7 +64,7 @@
 
 ## 1. A kutatási terület sarokpontjainak koordinátái EOV rendszerben.
 
-## 2. A fúrások jellemző adatai (a mélyítés ideje, koordinátái, kivitelező neve, talpmélység, magfúrás, ferdülés, béléscső, nyitott szakasz, lyukfejszerelvény).
+## 2.[^217] A fúrások jellemző adatai (a mélyítés ideje, koordinátái, kivitelező neve, talpmélység, magfúrás, ferdülés, szűrőzött szakasz).
 
 ## 3. A fúrások által harántolt képződmények (mélységköz, képződmény, illetve formáció, rétegtani besorolás).
 
@@ -74,13 +74,13 @@
 
 ## 6. A rétegvizsgálatokhoz kapcsolódóan pontszerű mintavétel vagy rövid nyitott szakaszok mintavétele alapján, a fúrás során besajtolt adalékanyagok vagy az adott réteg vizétől eltérő vízösszetételű víz igazolt kinyerését követően a rétegfluidumok minőségi és mennyiségi jellemzői a következő minimális tartalommal:
 
-## a)[^200] akkreditált mintavételből és laboratóriumi mérésből származó vízhőmérséklet, pH, fajlagos elektromos vezetőképesség (25 °C), lúgosság (m, p), keménység, KOI, TOC, kationok: Na+, K+, Li+, NH4+, Ca2+, Mg2+, Fe2+, Mn2+, anionok: NO3-, NO2-, Cl-, Br-, I-, F-, SO42-, HCO3-, CO32-, PO43-, S2-, metakovasav, nyomelemek: legalább Sr, Sb, As, Ba, Cd, Cr, Cu, Zn, Pb, Hg, Ni, Se, Al, B, Mo, összes oldottanyag-tartalom, bepárlási maradék 180 °C, fenolindex, fenolok, összes alifás szénhidrogén vizsgálat (TPH), illékony aromás szénhidrogének, policiklusos aromás szénhidrogének, a mintavételhez tartozó hozam megadásával;
+## a)[^218] akkreditált mintavételből és laboratóriumi mérésből származó vízhőmérséklet, pH, fajlagos elektromos vezetőképesség (25 °C), lúgosság (m, p), keménység, KOI, TOC, kationok: Na+, K+, Li+, NH4+, Ca2+, Mg2+, Fe2+, Mn2+, anionok: NO3-, NO2-, Cl-, Br-, I-, F-, SO42-, HCO3-, CO32-, PO43-, S2-, metakovasav, nyomelemek: legalább Sr, Sb, As, Ba, Cd, Cr, Cu, Zn, Pb, Hg, Ni, Se, Al, B, Mo, összes oldottanyag-tartalom, bepárlási maradék 180 °C, fenolindex, fenolok, összes alifás szénhidrogén vizsgálat (TPH), illékony aromás szénhidrogének, policiklusos aromás szénhidrogének, a mintavételhez tartozó hozam megadásával;
 
-## b)[^201] átlag adatok rezervoárokra: könnyű és nehéz oldott és szeparált gázok CH4 – C4H10, CO2, N2, O2, gáz-víz arány, nemesgázok: He, Ne, Ar, Kr, Xe koncentráció, illetve 3He/4He izotóparány, oxigén és deutérium izotóp, stabil és radioaktív szénizotóp, metán és CO2 stabil izotópjai, valamint 0,05 TU kimutatási határral meghatározott trícium és
+## b)[^219] átlag adatok rezervoárokra: könnyű és nehéz oldott és szeparált gázok CH4 – C4H10, CO2, N2, O2, gáz-víz arány, nemesgázok: He, Ne, Ar, Kr, Xe koncentráció, illetve 3He/4He izotóparány, oxigén és deutérium izotóp, stabil és radioaktív szénizotóp, metán és CO2 stabil izotópjai, valamint 0,05 TU kimutatási határral meghatározott trícium és
 
 ## c) földgáz jelenléte esetén: sűrűség (abszolút, relatív), fűtőérték.
 
-## 7. A tároló összletek geometriája (mélységköz, vízszintes kiterjedés) és jellemző paraméterei (porozitás, permeabilitás, víztelítettség, szaturáció, formáció térfogati faktor).
+## 7.[^220] A tároló összletek geometriája (mélységköz, vízszintes kiterjedés) és jellemző paraméterei (porozitás, szivárgási tényező, permeabilitás, transzmisszivitás).
 
 ## 8. A vízszint- és nyomásmérések adatai rétegenként, amelyhez meg kell jelölni azok vonatkozási pontjait, és meg kell adni annak mBf szintjét.
 
@@ -90,7 +90,7 @@
 
 A Szabályozott Tevékenységek Felügyeleti Hatósága számára szolgáltatandó, a kutatás és a földtani kutatás során nyert földtani adatok
 
-1.[^202] Az adatszolgáltatási kötelezettség
+1.[^221] Az adatszolgáltatási kötelezettség
 
 a) a földtani képződményeket harántoló fúrási tevékenység során nyert földtani adatokra,
 
@@ -120,7 +120,7 @@ f) a geofizikai mérések alapdokumentációit, valamint
 
 g) a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetételi vizsgálatok adatait.
 
-4.[^203] Az adatszolgáltatás során meg kell adni az alkalmazott mérési módszert, az azt leíró szabályozás címét, a mérési adatok feldolgozásához szükséges adatokat, illetve a mérési jegyzőkönyvi dokumentációt, a mérés helyét (nyomvonalát), a mérés kivitelezőjét, illetve a mintavétel helyét, a minta azonosítóját, a laboratóriumi vizsgálatok helyét és időpontját, az alkalmazott mérési, vizsgálati módszereket. A geofizikai mérésről és feldolgozásról megküldendő adatszolgáltatást a következő táblázat szerint kell teljesíteni.
+4.[^222] Az adatszolgáltatás során meg kell adni az alkalmazott mérési módszert, az azt leíró szabályozás címét, a mérési adatok feldolgozásához szükséges adatokat, illetve a mérési jegyzőkönyvi dokumentációt, a mérés helyét (nyomvonalát), a mérés kivitelezőjét, illetve a mintavétel helyét, a minta azonosítóját, a laboratóriumi vizsgálatok helyét és időpontját, az alkalmazott mérési, vizsgálati módszereket. A geofizikai mérésről és feldolgozásról megküldendő adatszolgáltatást a következő táblázat szerint kell teljesíteni.
 
 |  | A | B | C |
 
@@ -404,10 +404,12 @@ g) a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetéte
 
 5. A számszerű adatoknál egyértelműen meg kell adni az alkalmazott mértékegységet, a koordinátáknál a síkbeli és a magassági vonatkoztatási rendszert (vetület, alapszint).
 
-6.[^204] Feldolgozott adatok esetén meg kell adni a feldolgozás módszerének, illetve az azt leíró szabályozásnak, számítógépes szoftvernek a címét, illetve azonosítóját.
+6.[^223] Feldolgozott adatok esetén meg kell adni a feldolgozás módszerének, illetve az azt leíró szabályozásnak, számítógépes szoftvernek a címét, illetve azonosítóját.
 
-[^200]: A 2. melléklet II. rész 6. pont a) alpontja a 4/2024. (V. 31.) SZTFH rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^201]: A 2. melléklet II. rész 6. pont b) alpontja a 4/2024. (V. 31.) SZTFH rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^202]: A 3. melléklet 1. pontja a 25/2023. (XII. 22.) SZTFH rendelet 9. §-ával megállapított szöveg.
-[^203]: A 3. melléklet 4. pontja a 25/2023. (XII. 22.) SZTFH rendelet 9. §-ával megállapított szöveg.
-[^204]: A 3. melléklet 6. pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § l) pontja szerint módosított szöveg.
+[^217]: A 2. melléklet II. rész 2. pontja a 8/2026. (VIII. 17.) SZTFH rendelet 27. § j) pontja szerint módosított szöveg.
+[^218]: A 2. melléklet II. rész 6. pont a) alpontja a 4/2024. (V. 31.) SZTFH rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^219]: A 2. melléklet II. rész 6. pont b) alpontja a 4/2024. (V. 31.) SZTFH rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^220]: A 2. melléklet II. rész 7. pontja a 8/2026. (VIII. 17.) SZTFH rendelet 27. § k) pontja szerint módosított szöveg.
+[^221]: A 3. melléklet 1. pontja a 25/2023. (XII. 22.) SZTFH rendelet 9. §-ával megállapított szöveg.
+[^222]: A 3. melléklet 4. pontja a 25/2023. (XII. 22.) SZTFH rendelet 9. §-ával megállapított szöveg.
+[^223]: A 3. melléklet 6. pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § l) pontja szerint módosított szöveg.

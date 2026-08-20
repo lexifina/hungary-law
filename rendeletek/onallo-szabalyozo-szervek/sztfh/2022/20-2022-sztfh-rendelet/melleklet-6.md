@@ -342,7 +342,7 @@
 
 | 83. | MVV (Fajlagos ö. metán tartalom) |  | l/m3 |
 
-6. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^207]
+6. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^226]
 
 A földgáz, illetve hidrogén tárolására javasolt földtani szerkezet alkalmasságának bemutatása
 
@@ -368,4 +368,4 @@ A földgáz, illetve hidrogén tárolására javasolt földtani szerkezet alkalm
 
 3.2. Igazolni kell, hogy a tárolás időtartama alatt a cementezés, dugózás, illetve béléscsövezés anyaga és a pórusfluidum között, a tárolásra jellemző nyomás- és hőmérsékleti értékek mellett nem lépnek fel olyan kölcsönhatások, amelyek szivárgáshoz vezetnek.
 
-[^207]: A 6. mellékletet a 14/2025. (XII. 22.) SZTFH rendelet 27. §-a iktatta be.
+[^226]: A 6. mellékletet a 14/2025. (XII. 22.) SZTFH rendelet 27. §-a iktatta be.

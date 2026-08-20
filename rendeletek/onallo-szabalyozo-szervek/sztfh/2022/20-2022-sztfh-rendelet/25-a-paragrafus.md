@@ -1,4 +1,4 @@
-25/A. §[^107] (1) A földgáz, illetve hidrogén földtani szerkezetben történő tárolására megállapítani kért bányatelek megállapítása iránti kérelem tartalmazza
+25/A. §[^111] (1) A földgáz, illetve hidrogén földtani szerkezetben történő tárolására megállapítani kért bányatelek megállapítása iránti kérelem tartalmazza
 
 a) a földgáz, illetve hidrogén tárolással érintett földtani szerkezet földtani leírását,
 
@@ -26,4 +26,4 @@ c) a kezdeti rétegnyomás- és hőmérsékletértékeket, és
 
 d) a tárolással érintett földtani szerkezet és a fedő kőzetek ásványos összetételét, vagy annak hiányában geológiailag analóg minták alapján készült leírását.
 
-[^107]: A 25/A. §-t a 14/2025. (XII. 22.) SZTFH rendelet 21. §-a iktatta be.
+[^111]: A 25/A. §-t a 14/2025. (XII. 22.) SZTFH rendelet 21. §-a iktatta be.
