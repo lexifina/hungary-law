@@ -46,7 +46,7 @@
 
 ## 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 11. Hatályát veszti a többségi állami tulajdonú gazdasági társaságok vezető állású munkavállalói javadalmazási rendszerének megújításáról szóló 1660/2015. (IX. 15.) Korm. határozat.
+## 11.[^1]
 
 1. melléklet az 1263/2026. (VIII. 19.) Korm. határozathoz
 
@@ -139,3 +139,5 @@ Magas komplexitású gazdasági társaságok
 43. IdomSoft Informatikai Zártkörűen Működő Részvénytársaság
 
 44. Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság
+
+[^1]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
