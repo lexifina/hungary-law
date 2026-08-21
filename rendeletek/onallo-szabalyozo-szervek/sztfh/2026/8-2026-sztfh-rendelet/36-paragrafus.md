@@ -1,3 +1,3 @@
-36. § A 10/2023. (V. 15.) SZTFH rendelet 10. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+36. §[^31]
 
-(A tanúsító hatóság az engedélyt visszavonja, ha a megfelelőségértékelő szervezet)
+[^31]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

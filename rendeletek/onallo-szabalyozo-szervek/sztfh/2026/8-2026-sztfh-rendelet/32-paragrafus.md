@@ -1,5 +1,5 @@
 ## 10. Az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló 10/2023. (V. 15.) SZTFH rendelet módosítása
 
-32. § Az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló 10/2023. (V. 15.) SZTFH rendelet [a továbbiakban: 10/2023. (V. 15.) SZTFH rendelet] 3. alcím címe helyébe a következő alcímcím lép:
+32. §[^27]
 
-„3. A megfelelőségértékelő szervezetek nyilvántartásba vétele, valamint a megfelelőségértékelő szervezetekkel kapcsolatos hatósági eljárások”
+[^27]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

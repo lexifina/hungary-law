@@ -1,7 +1,3 @@
-28. § Hatályát veszti a 20/2022. (I. 31.) SZTFH rendelet
+28. §[^23]
 
-a) 26. § (2) bekezdés b) pontjában a „ , készletszámítási tömbönkénti” szövegrész,
-
-b) 26. § (18) bekezdése,
-
-c) 28. § (7) bekezdése.
+[^23]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-11. § Hatályát veszti az 5/2021. (X. 21.) SZTFH rendelet
+11. §[^11]
 
-a) 10. § (4) bekezdése,
-
-b) 18. § (2) bekezdése.
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

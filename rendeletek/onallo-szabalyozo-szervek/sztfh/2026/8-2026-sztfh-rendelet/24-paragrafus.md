@@ -1,3 +1,3 @@
-24. § A 20/2022. (I. 31.) SZTFH rendelet 38. § (12) bekezdése helyébe a következő rendelkezés lép:
+24. §[^19]
 
-„(12) Ha más nyomvonalas létesítmény üzemzavarának elhárítása szükséges, az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője az egységes elektronikus közműnyilvántartás adatai alapján meggyőződik, hogy az üzemzavar elhárítással érintett létesítmény, illetve az üzemzavar elhárításhoz szükséges munkaterület érint-e keresztezett létesítményt. Érintettség akkor áll fenn, ha az üzemzavar elhárítással érintett létesítménnyel, illetve az üzemzavar elhárításhoz szükséges munkaterülettel érintett területen az egységes elektronikus közműnyilvántartásban keresztezett létesítmény szerepel. Az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője érintettség esetén az üzemzavar-elhárítás megkezdése előtt a keresztezett létesítmény üzemeltetőjével az üzemzavar elhárításhoz tervezett munkálatok helyéről egyeztet.”
+[^19]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

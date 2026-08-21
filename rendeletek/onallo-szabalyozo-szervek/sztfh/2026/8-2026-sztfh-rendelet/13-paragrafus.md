@@ -1,7 +1,3 @@
-13. § A 18/2021. (X. 29.) SZTFH rendelet
+13. §[^13]
 
-a) 6. § (1) bekezdésében a „szüneteltetése” szövegrész helyébe a „szüneteltetése – az (1a) bekezdésben foglalt kivétellel –” szöveg,
-
-b) 6. § (6) bekezdésében az „ideiglenesen nem teljesíti” szövegrész helyébe az „ideiglenesen nem kívánja teljesíteni” szöveg
-
-lép.
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
