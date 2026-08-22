@@ -1,4 +1,4 @@
-5. melléklet a 90/2008. (VII. 18.) FVM rendelethez[^43]
+5. melléklet a 90/2008. (VII. 18.) FVM rendelethez[^44]
 
 Ellenőrző vizsgálatokat tartalmazó talajvédelmi tervek részletes tartalmi és szakmai követelményei típusonként az 1. § (1) bekezdés g), h), j), valamint az 1. § (3) bekezdés a) és b) pontokban meghatározott tevékenységek ugyanazon területen történő ismételt engedélyezéséhez
 
@@ -376,7 +376,7 @@ Mellékletként csatolni kell:
 
 az öntözés lehetőségére vonatkozó, a kiindulási talajvédelmi tervhez képest megújított kartogramot.
 
-[^43]: Az 5. melléklet a 3/2013. (II. 1.) VM rendelet 3. § c) pontjával megállapított, ugyanezen módosító rendelet 5. §-a, a 30/2013. (IV. 30.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^44]: Az 5. melléklet a 3/2013. (II. 1.) VM rendelet 3. § c) pontjával megállapított, ugyanezen módosító rendelet 5. §-a, a 30/2013. (IV. 30.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^1.]: 61/1994. (XI. 8.) FM rendelet.
 [^4.]: 50/2001. (IV. 3.) Korm. rendelet.
 [^5.]: 50/2001. (IV. 3.) Korm. rendelet.

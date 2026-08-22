@@ -572,7 +572,7 @@
 
 ## 2.6. Öntözési talajvédelmi terv
 
-## A terv készítése indokolt a külön jogszabály[^22] szerinti házi vízigényt meghaladó vízhasználat esetén.
+## A terv készítése indokolt a külön jogszabály[^23] szerinti házi vízigényt meghaladó vízhasználat esetén.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -870,15 +870,15 @@
 
 ## Minden egyéb esetben 100 m védőtávolság figyelembevétele indokolt.
 
-## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^23] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
+## Hígtrágya felszín alatti vízbázisok területén, illetve a vízbázisok hidrogeológiai védőterületén külön jogszabály[^24] rendelkezései szerint használható fel. NATURA 2000 gyepterületen hígtrágya a külön jogszabály rendelkezése szerint nem juttatható ki.
 
-## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^24] foglaltak lehetővé teszik.
+## Legelő öntözése másik állattartó telepről származó hígtrágyával állategészségügyi okokból nem engedélyezett, kivéve, ha azt a külön jogszabályban[^25] foglaltak lehetővé teszik.
 
-## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^25] meghatározottakat is figyelembe kell venni.
+## A terv elkészítésénél a felszíni, illetve a felszín alatti vizek nitrátszennyezéssel szembeni védelme érdekében a külön jogszabályokban[^26] meghatározottakat is figyelembe kell venni.
 
 ## A hígtrágya használatát korlátozó egyéb tényezők:
 
-## – a külön jogszabályban[^26] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
+## – a külön jogszabályban[^27] feltüntetett nitrátérzékeny területeken kívül a kijuttatott N mennyisége – talaj nitrogénszolgáltató képességét figyelembe véve – legfeljebb 200 kg/ha/év lehet.
 
 ## – hígtrágyával kijuttatott kálium hatóanyag mennyisége nem lehet több, mint 250 kg/ha/év, a foszfor hatóanyag mennyisége pedig 150 kg/ha/év,
 
@@ -888,7 +888,7 @@
 
 ## = gyümölcsfák, szőlő csak felületi módszerrel öntözhető és betakarítás előtt 45 nappal az öntözést be kell fejezni,
 
-## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^27] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
+## = szántóföldi növények, rét, legelő öntözését a betakarítás – valamint a külön jogszabály[^28] szerint a legeltetés kezdete – előtt 30 nappal be kell fejezni,
 
 ## = fásított területek várakozási idő korlát nélkül öntözhetők.
 
@@ -990,7 +990,7 @@
 
 ## 2.8. Szennyvíz, szennyvíziszap mezőgazdasági felhasználását megalapozó talajvédelmi terv
 
-## A szennyvíz, szennyvíziszap mezőgazdasági területen történő felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^28] határozza meg, melynek valamennyi előírását a talajvédelmi terv készítése során figyelembe kell venni.
+## A szennyvíz, szennyvíziszap mezőgazdasági területen történő felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^29] határozza meg, melynek valamennyi előírását a talajvédelmi terv készítése során figyelembe kell venni.
 
 ## Helyszíni mintavétel szabályai:
 
@@ -1030,7 +1030,7 @@
 
 ## ac) minden esetben vizsgálandó az átlagmintákból:
 
-## – a külön jogszabályban[^29] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is,
+## – a külön jogszabályban[^30] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is,
 
 ## – felvehető tápanyagtartalom a 0–25 cm-es rétegből vett talajmintákból, injektálásos technológia alkalmazása esetén a 25–60 cm-es rétegből is (P2O5, K2O, Mg, NO3+NO2– nitrogén)
 
@@ -1072,13 +1072,13 @@
 
 ## – a szennyvíz, szennyvíziszap vizsgálati paramétereinek elemzését,
 
-## – a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^30] szerinti területi érzékenység megjelölését,
+## – a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^31] szerinti területi érzékenység megjelölését,
 
 ## – a felhasználható szennyvíz, szennyvíziszap mennyiségét, amelyet a talaj vízgazdálkodási tulajdonságai, a tápanyagtartalma, továbbá a termeszteni kívánt vagy termesztett növény víz- és tápanyagigénye, valamint a szennyvíz, szennyvíziszap beltartalmi tulajdonságai alapján kell meghatározni,
 
 ## – javaslatot a kiegészítő tápanyag-kijuttatásra,
 
-## – szennyvíz, szennyvíziszap felhasználás feltételeinek meghatározását, különös tekintettel a külön jogszabályban[^31] előírt várakozási időkre, védőtávolságokra,
+## – szennyvíz, szennyvíziszap felhasználás feltételeinek meghatározását, különös tekintettel a külön jogszabályban[^32] előírt várakozási időkre, védőtávolságokra,
 
 ## – a területen esetleg jelentkező káros folyamatok előrejelzését, javaslatot azok megelőzésére (közegészségügyi és környezetvédelmi védőtávolságok megjelenítése, várakozási idők),
 
@@ -1230,9 +1230,9 @@
 
 ## – a kijuttatható dózist a legnagyobb arányban található tápelem-tartalom figyelembe vételével kell megállapítani,
 
-## – a szennyező anyagok kijuttatható mennyiségének korlátozásánál a külön jogszabály[^32] szerinti értékeket kell figyelembe venni,
+## – a szennyező anyagok kijuttatható mennyiségének korlátozásánál a külön jogszabály[^33] szerinti értékeket kell figyelembe venni,
 
-## – állati eredetű hulladék és annak kezelt végtermékei hasznosítása során a külön jogszabályban[^33] foglaltakat is figyelembe kell venni.
+## – állati eredetű hulladék és annak kezelt végtermékei hasznosítása során a külön jogszabályban[^34] foglaltakat is figyelembe kell venni.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -1256,7 +1256,7 @@
 
 ## – a kijuttatás technológiáját,
 
-## – külön jogszabály[^34] szerinti területi érzékenység megjelölést.
+## – külön jogszabály[^35] szerinti területi érzékenység megjelölést.
 
 ## Mellékletként csatolni kell
 
@@ -1268,16 +1268,171 @@
 
 Az 1. § (3) bekezdés szerinti tevékenységek engedélyezéséhez szükséges egyszerűsített talajvédelmi tervek részletes tartalmi és szakmai követelményei típusonként
 
-[^22]: 72/1996. (V.22.) Korm. rendelet
-[^23]: 123/1997. (VII. 18.) Korm. rendelet
-[^24]: 41/1997. (V. 28.) FM rendelet
-[^25]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
-[^26]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
-[^27]: 41/1997. (V. 28.) FM rendelet
-[^28]: 50/2001. (IV. 3.) Korm. rendelet
+## 3.1. A szennyvíziszap komposzt mezőgazdasági felhasználását megalapozó egyszerűsített talajvédelmi terv
+
+## A szennyvíziszap komposzt mezőgazdasági felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^36] határozza meg.
+
+## Helyszíni talajmintavétel szabályai:
+
+## Legfeljebb 5 ha-ként kialakított mintatereken a 4. melléklet szerint 20 részmintából képzett átlagmintát kell venni a növénykultúrától függő mélységig.
+
+## Laboratóriumi vizsgálatok:
+
+## A talaj és a szennyvíziszap komposzt vizsgálati paramétereit a külön jogszabály[^37] tartalmazza.
+
+## Tartalmi követelmények:
+
+## Az egyszerűsített talajvédelmi tervnek tartalmazni kell
+
+## – a szennyvíziszap komposzt felhasználásához a talajtani alkalmasság megállapítását, feltételek meghatározását,
+
+## – a szennyvíziszap komposzt vizsgálati paramétereinek elemzését,
+
+## – a talajterhelés meghatározását, amelynek során figyelembe kell venni a talaj tápanyag-szolgáltatását és a növények tápanyagigényét,
+
+## – különböző növénykultúrákra kidolgozott terhelhetőségi táblázatot,
+
+## – a külön jogszabály[^38] szerinti területi érzékenység megjelölését,
+
+## – közegészségügyi és környezetvédelmi védőtávolságok megjelenítését,
+
+## – a külön jogszabály[^39] szerinti várakozási idő meghatározását,
+
+## – javaslatot az egyéb beavatkozásokra,
+
+## – javaslatot az ellenőrzés gyakoriságára.
+
+## Mellékletként csatolni kell:
+
+## – 1:10 000 méretarányú talajtérképet,
+
+## – Felhasználás lehetőségét bemutató kartogramot.
+
+## 3.2. Talajvédelmi terv a mezőgazdasági eredetű nem veszélyes hulladékok termőföldön történő felhasználásához
+
+## A mezőgazdasági eredetű nem veszélyes hulladékok termőföldön történő felhasználása csak abban az esetben lehetséges, ha az adott hulladék a talaj szervesanyagkészletét, termőképességét kedvezően befolyásolja, továbbá ha a termőföld minőségében negatív változás ezek kijuttatásának hatására nem következik be. Termőföldre tehát csak olyan mezőgazdasági eredetű nem veszélyes hulladék juttatható ki, melynek származási helye, képződésének módja és mennyisége, termelője, illetve birtokosa, kezelője, szállítója ismert és szakszerű felhasználásával elkerülhetővé válnak a talajra, a felszíni és felszín alatti vizekre, valamint az emberek egészségére, a növényekre és az állatokra gyakorolt káros hatások.
+
+## A talajvédelmi terv készítője a hulladék eredetének, illetve képződési módjának alapján mutatja be a hulladékban fellelhető anyagokat és ez alapján tesz javaslatot az elvégzendő vizsgálatokra, valamint a felhasználás lehetőségeire.
+
+## Felhasználási kritériumok:
+
+## – nem tartalmazhat nem bomló, talajidegen anyagokat (szemrevétel alapján),
+
+## – maximális dózis a legnagyobb arányban található tápelem-tartalom figyelembevételével kerüljön megállapításra.
+
+## Helyszíni talajmintavétel szabályai:
+
+## A felhasználásra tervezett területen legfeljebb 5 ha-ként kialakított mintatereken a 4. melléklet szerint 20 részmintából képzett átlagmintát kell venni a növénykultúrától függő mélységből.
+
+## Laboratóriumi vizsgálatok:
+
+## a) talajminták vizsgálata
+
+## aa) minden esetben vizsgálandó valamennyi mintából:
+
+## – bővített talajvizsgálat: pH, humusztartalom, KA, vízoldható összes só, CaCO3 %; NO2+NO3-nitrogén, P2O5, K2O, Na+, Mg2+, SO42-, Mn, Zn, Cu;
+
+## ab) szakmailag indokolt esetben vizsgálandó:
+
+## – hidrolitos aciditás (y1),
+
+## – talajvíz mintavétel és vizsgálat írható elő;
+
+## b) a kijuttatásra kerülő hulladék vizsgálata:
+
+## ba) a hulladék tápanyagtartalmának meghatározása,
+
+## bb) a hulladék jellegétől függően egyéb, a hulladékra jellemző paraméterek vizsgálata, különösen: pH(H2O), szervesanyag-tartalom, sótartalom, sóösszetétel, nedvességtartalom.
+
+## Tartalmi követelmények:
+
+## A tervnek tartalmazni kell
+
+## – a kijuttatandó anyag felhasználható mennyiségét (t/ha), amit az anyag beltartalmi paraméterei, a talaj tápanyagtartalma, továbbá a termeszteni kívánt vagy termesztett növény tápanyagigénye alapján kell meghatározni,
+
+## – a kijuttatás technológiáját,
+
+## – a külön jogszabály[^40] szerinti területi érzékenység megjelölést.
+
+## Mellékletként csatolni kell:
+
+## – a felhasználás lehetőségét bemutató kartogramot,
+
+## – a felhasználásra kerülő mezőgazdasági eredetű nem veszélyes hulladék beltartalmára vonatkozó, akkreditált laboratórium által kiállított vizsgálati jegyzőkönyvet.
+
+## 3.3.[^41] Egynyári öntözésre szóló vízjogi üzemeltetési engedélyezési eljárásban az öntözővíz minőségét megállapító egyszerűsített talajvédelmi terv
+
+## Tartalmi követelmények:
+
+## a) az öntözővíz vizsgálati paramétereinek elemzése, az öntözővíz minősítése,
+
+## b) az öntözővíz minőségére vonatkozó, akkreditált laboratórium által kiállított vizsgálati jegyzőkönyv,
+
+## c) az öntözővíz felhasználhatósága,
+
+## d) az öntözés hatékonyságát javító beavatkozások.
+
+## Laboratóriumi vizsgálatok:
+
+## Az öntözővíz vizsgálatát a 2. melléklet 2.6. pont b) alpontjában foglaltak szerint kell elvégezni.
+
+## Az öntözővíz minőségét a 2. melléklet 2.6. pont 2–4. táblázatokban foglaltak szerint kell meghatározni.
+
+## 3.4.[^42] Szőlőtelepítést megalapozó egyszerűsített talajvédelmi terv
+
+## Ha jogszabály másként nem rendelkezik, 1500 m2-nél kisebb szőlő ültetvény telepítése esetén a következő szakmai tartalommal rendelkező talajvédelmi terv készítése szükséges.
+
+## A talaj tápanyag-ellátottságának és a telepítési kockázatának megállapításához 1-1 db átlagmintát kell venni a talaj 0–30 és 30–60 cm-es rétegeiből.
+
+## A talajminták laboratóriumi vizsgálata:
+
+## – a talaj tápanyag-tartalom vizsgálata: (pH(KCl), humusztartalom, KA, vízoldható összes só, CaCO3%, NO3+ NO2–N, P2O5, K2O, Na, Mg, SO4, Mn, Zn, Cu),
+
+## – szakmailag indokolt esetben: fenolftalein lúgosság, leiszapolható rész, kicserélődési savanyúság (y2),
+
+## – gyökérnemes szőlő esetében filoxérával szembeni immunitás vizsgálat (1 db 1 m-ig feltárt fúrt szelvény alapján).
+
+## Tartalmi követelmények:
+
+## A tervnek tartalmaznia kell
+
+## – a lejtőviszonyok és lejtőkategóriák megállapítását,
+
+## – a javasolt erózióvédelmi beavatkozásokat,
+
+## – a javaslat a forgatás maximális mélységére,
+
+## – 30 Magyar mészfok felett a mésztűrő alanyhasználat előírását,
+
+## – a környezetkimélő alaptrágyázásra vonatkozó javaslatot,
+
+## – gyökérnemes szőlő esetében a filoxérával szembeni immunitás megállapítását,
+
+## – a telepítés kockázatának mértékét a talajadottságok alapján (telepítési kockázatot jelentő talajtani paraméterek határértékeit az 1. táblázat tartalmazza).
+
+## Függelék
+
+## a 90/2008. (VII. 18.) FVM rendelet 2. és 3. mellékletéhez
+
+A 2. § (3) bekezdésében hivatkozott szabványok listája
+
+[^23]: 72/1996. (V.22.) Korm. rendelet
+[^24]: 123/1997. (VII. 18.) Korm. rendelet
+[^25]: 41/1997. (V. 28.) FM rendelet
+[^26]: 27/2006. (II. 7.) Korm. rendelet, 59/2008. (IV. 29.) FVM rendelet
+[^27]: 27/2006. (II. 7.) Korm. rendelet, illetve 43/2007. (VI. 1.) FVM rendelet
+[^28]: 41/1997. (V. 28.) FM rendelet
 [^29]: 50/2001. (IV. 3.) Korm. rendelet
-[^30]: 27/2006. (II. 7.) Korm. rendelet
-[^31]: 50/2001. (IV. 3.) Korm. rendelet
-[^32]: 50/2001. (IV. 3.) Korm. rendelet, 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet
-[^33]: 71/2003. (VI. 27.) FVM rendelet
-[^34]: 27/2006. (II. 7.) Korm. rendelet
+[^30]: 50/2001. (IV. 3.) Korm. rendelet
+[^31]: 27/2006. (II. 7.) Korm. rendelet
+[^32]: 50/2001. (IV. 3.) Korm. rendelet
+[^33]: 50/2001. (IV. 3.) Korm. rendelet, 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet
+[^34]: 71/2003. (VI. 27.) FVM rendelet
+[^35]: 27/2006. (II. 7.) Korm. rendelet
+[^36]: 50/2001. (IV. 3.) Korm. rendelet.
+[^37]: 27/2006. (II. 7.) Korm. rendelet.
+[^38]: 27/2006. (II. 7.) Korm. rendelet.
+[^39]: 50/2001. (IV. 3.) Korm. rendelet.
+[^40]: 27/2006. (II. 7.) Korm. rendelet.
+[^41]: A 3. melléklet 3.3. pontját a 109/2012. (X. 15.) VM rendelet 3. §-a iktatta be.
+[^42]: A 3. melléklet 3. pont 3.4. alpontját a 3/2013. (II. 1.) VM rendelet 3. § b) pontja iktatta be.

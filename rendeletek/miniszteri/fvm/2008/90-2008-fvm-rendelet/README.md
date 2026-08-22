@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-90-20-8
 | 2013-02-06 | 2008-90-20-82.6 | 3/2013. (II. 1.) VM rendelet |
 | 2013-04-30 | 2008-90-20-82.7 | 30/2013. (IV. 30.) VM rendelet |
 | 2024-01-01 | 2008-90-20-82.8 | 167/2023. (XII. 27.) AM rendelet |
+| 2026-08-22 | 2008-90-20-82.9 | 13/2026. (VIII. 14.) AÉM rendelet |
