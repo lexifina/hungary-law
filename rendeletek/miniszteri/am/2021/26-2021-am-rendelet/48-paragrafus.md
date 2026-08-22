@@ -16,9 +16,9 @@ c) a további feldolgozással érintett borászati terméktétel mennyiségét; 
 
 d) a további feldolgozás kezdő időpontját.
 
-(2)[^41]
+(2)[^48]
 
-(3)[^42]
+(3)[^49]
 
-[^41]: A 48. § (2) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.
-[^42]: A 48. § (3) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.
+[^48]: A 48. § (2) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.
+[^49]: A 48. § (3) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.

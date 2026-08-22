@@ -350,7 +350,7 @@ C. Borászati tevékenységre és kapacitásra vonatkozó adatok
 
 8. Üzemeltetés kezdete
 
-9. Tároló és erjesztő kapacitás (hektoliter)
+9.[^81] Tároló és erjesztő kapacitás (liter)
 
 9.1. fahordó
 
@@ -383,3 +383,5 @@ C. Borászati tevékenységre és kapacitásra vonatkozó adatok
 11.8. kannatöltés
 
 11.9. egyéb
+
+[^81]: 15. melléklet C. rész 9. pontja a 13/2026. (VIII. 14.) AÉM rendelet 9. § f) pontja szerint módosított szöveg.

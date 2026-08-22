@@ -28,7 +28,7 @@ f) törzsültetvény létesítése esetén a létesítésre vonatkozó engedély
 
 g) a Kormányrendelet 17. § (1) bekezdése szerinti hozzájáruló nyilatkozat egy évnél nem régebbi eredeti példányát; valamint
 
-h)[^3] az ugyanazon földrészleten a meglévő, kivágásra kerülő szőlőültetvénnyel azonos nagyságú szőlővel megvalósuló újratelepítés, valamint a szőlőültetvény más szőlőfajtára történő cseréje kivételével a talajvédelmi hatáskörben eljáró vármegyei kormányhivatal talajvédelmi terv jóváhagyásáról szóló, véglegessé vált döntésének másolatát, amely saját gyökerű szaporítóanyag felhasználása esetén tartalmazza az érintett földterület talaj immunitására vonatkozó rendelkezést is.
+h)[^3] ha jogszabály alapján talajvédelmi terv készítése szükséges, akkor – az ugyanazon földrészleten a meglévő, kivágásra kerülő szőlőültetvénnyel azonos nagyságú szőlővel megvalósuló újratelepítés, valamint a szőlőültetvény más szőlőfajtára történő cseréje kivételével – a talajvédelmi hatáskörben eljáró vármegyei kormányhivatal talajvédelmi terv jóváhagyásáról szóló, véglegessé vált döntésének másolatát, amely saját gyökerű szaporítóanyag felhasználása esetén tartalmazza az érintett földterület talaj immunitására vonatkozó rendelkezést is.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az új telepítési engedély iránti kérelem tartalmazza, ha rangsor alkalmazása történik,
 
@@ -62,4 +62,4 @@ c) családi gazdaság tagja által benyújtott kérelem esetén, ha az újratele
 
 (4) Az (1) bekezdésben foglaltakon túlmenően az átváltott telepítési engedély iránti kérelem tartalmazza az átváltani kívánt telepítési jog nyilvántartási számát.
 
-[^3]: A 9. § (1) bekezdés h) pontja a 12/2024. (III. 28.) AM rendelet 11. § 2. pontja és 12. § a) pontja szerint módosított szöveg.
+[^3]: A 9. § (1) bekezdés h) pontja a 13/2026. (VIII. 14.) AÉM rendelet 2. §-ával megállapított szöveg.

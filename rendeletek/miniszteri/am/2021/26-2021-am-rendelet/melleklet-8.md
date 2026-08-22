@@ -48,7 +48,7 @@
 
 | 24. | A nem borvidéki területekre érvényes pontérték | 274 |
 
-8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^63]
+8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^70]
 
 Szabályozott kifejezések listája
 
@@ -68,7 +68,7 @@ Szabályozott kifejezések listája
 
 | 1. | Kifejezés (nyelv) | Eredetvédelmi kategóriák, amelyeken feltüntethető | Termékkategóriák, amelyeken feltüntethető | A kifejezés használatának feltétele |
 
-| 2. | „Bikavér” | Eger, Egri Bikavér, Szekszárd (OEM) | bor | Vörösbor, amely legalább háromféle szőlőfajtából készül, és amelyet fahordóban érlelnek. |
+| 2. | „Bikavér” | Eger, Egri Bikavér, Szekszárd (OEM) | bor | Vörösbor, amely legalább háromféle szőlőfajtából készül, és amelyet fahordóban, illetve más edényben érlelnek. |
 
 | 3. | „Főbor” | OEM | bor | Olyan bor, – amely legfeljebb 45 hektoliter/ha hozamú ültetvényről származik, – amelynek természetes alkoholtartalma legalább 15,12 térfogatszázalék, – amelynek tényleges alkoholtartalma legalább 11 térfogatszázalék, – amelyet forgalomba hozatal előtt legalább két évig érleltek (ebből egy évig fahordóban), és – amely termelésének további részletes szabályait a használatát lehetővé tevő termékleírás határozza meg. |
 
@@ -102,7 +102,7 @@ Szabályozott kifejezések listája
 
 | 8. | „murci” | bármelyik | még erjedésben lévő újbor | A szüret évében forgalomba hozott, még erjedésben lévő újbor. |
 
-| 9. | „muskotály” (magyar, vagy az Európai Unió bármely hivatalos nyelvének fordításában) | bármelyik | bármelyik | Legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
+| 9. | „muskotály” (magyar, vagy az Európai Unió bármely hivatalos nyelvének fordításában) | bármelyik | bármelyik | Legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – tramini, – trilla, – zefír. |
 
 | 10. | „narancsbor” | bármelyik | bor | A 9. sorban felsorolt szőlőfajták esetében legalább 178,3 g/l, egyéb esetben legalább 204,5 g/l cukortartalmú fehér szőlőből legalább 7 napig tartó héjon erjesztéssel készült bor, amelynek színe a mélysárgától a borostyán színig terjedhet. A címkén fel kell tüntetni a „fehér szőlő héjon erjesztésével készült bor” feliratot. |
 
@@ -128,4 +128,4 @@ Szabályozott kifejezések listája
 
 | 21. | „újbor” (magyar) | bármelyik | bármelyik | A szüret évében palackozott bor. |
 
-[^63]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 14–18. pontja szerint módosított szöveg.
+[^70]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 14–18. pontja, a 13/2026. (VIII. 14.) AÉM rendelet 8. §-a és 9. § c) pontja szerint módosított szöveg.

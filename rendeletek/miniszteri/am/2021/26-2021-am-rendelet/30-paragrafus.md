@@ -1,12 +1,14 @@
 30. § (1) A szakmai-jövedéki nyilvántartás tartalmazza
 
-a) a borászati üzemengedélyes
+a)[^30] a borászati üzemengedélyes
 
 aa) gazdasági akta számát,
 
-ab) FELIR azonosítóját és
+ab) FELIR azonosítóját,
 
-ac) NÉBIH tevékenység-azonosítóját;
+ac) NÉBIH tevékenység-azonosítóját, valamint
+
+ad) a Kormányrendelet 36/A. §-a szerinti bérfeldolgozás alapján történő eljárása esetén a bérfeldolgozással érintett terméktétel szőlészeti termelője aa)–ac) alpont szerinti adatait;
 
 b) a borászati üzembe betárolt szőlő szüreti bejegyzésének azonosítóját;
 
@@ -20,7 +22,7 @@ cc) mennyiségét és a készletváltozásokat,
 
 cd) minőségi jellemzőjét, mértékegységét,
 
-ce)[^26] ki- és betárolása esetén annak dátumát, jogcímét, valamint a számla vagy borászati kísérőokmány számát;
+ce)[^31] ki- és betárolása esetén annak dátumát, jogcímét, valamint a számla vagy borászati kísérőokmány számát;
 
 d) az előállított vagy betárolt, forgalombahozatali azonosítóval nem rendelkező borászati termék
 
@@ -42,7 +44,7 @@ dh) adómentes fogyasztása esetén annak dátumát és mennyiségét,
 
 di) műveleti, tárolási, szállítási vagy palackozási veszteségeinek mennyiségét és jogcímét,
 
-dj)[^27] ki- és betárolása esetén annak dátumát, jogcímét, valamint a borászati kísérőokmány számát,
+dj)[^32] ki- és betárolása esetén annak dátumát, jogcímét, valamint a borászati kísérőokmány számát,
 
 dk) első származási bizonyítványának vagy bizonyítványainak számát,
 
@@ -80,5 +82,6 @@ h) a jövedéki adóról szóló 2016. évi LXVIII. törvény 138. §-a szerinti
 
 (4) A szacharóz, a savtartalom növelésére, valamint a savtompításra használt termékek, továbbá az adalékanyagok megnevezése az (1) bekezdés c) pont ca) alpontjától eltérően helyettesíthető a szakmai-jövedéki nyilvántartásban meghatározott kóddal.
 
-[^26]: A 30. § (1) bekezdés c) pont ce) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.
-[^27]: A 30. § (1) bekezdés d) pont dj) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.
+[^30]: A 30. § (1) bekezdés a) pontja a 13/2026. (VIII. 14.) AÉM rendelet 5. §-ával megállapított szöveg.
+[^31]: A 30. § (1) bekezdés c) pont ce) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.
+[^32]: A 30. § (1) bekezdés d) pont dj) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.

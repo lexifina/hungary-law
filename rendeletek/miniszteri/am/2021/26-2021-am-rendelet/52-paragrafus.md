@@ -10,7 +10,7 @@ a) olyan késztermékre, amelyet ugyanazon vállalkozás különböző telephely
 
 b) a termelő saját fogyasztására szánt szőlőmust és borászati termék mennyiségére.
 
-(2)[^43] Az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken kötelező a forgalombahozatali azonosító feltüntetése, amelyet az „L” vagy „NÉBIH” felirat előz meg.
+(2)[^50] Az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken kötelező a forgalombahozatali azonosító feltüntetése, amelyet az „L” vagy „NÉBIH” felirat előz meg.
 
 (3) Az Európai Unió területén először Magyarországon forgalomba hozott földrajzi árujelző nélküli borok kiszerelésén a származási országot
 
@@ -26,7 +26,7 @@ betűnagysággal kell feltüntetni.
 
 (4) Az Európai Unió területén először Magyarországon forgalomba hozott, az Európai Unió több tagállamából származó szőlőből készült borászati terméken az összes érintett tagállamot fel kell tüntetni a következők szerint: „... és ... országokból származó borok házasításával készült európai uniós borászati termék”.
 
-(5)[^44] A (2) bekezdéstől eltérően az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken nem kötelező a forgalombahozatali azonosító feltüntetése, ha a forgalombahozatali azonosítóhoz tartozó tételszámot vagy tételszámokat a forgalomba hozó a közfogyasztásra történő forgalomba hozatalt megelőzően bejelentette a NÉBIH részére.
+(5)[^51] A (2) bekezdéstől eltérően az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken nem kötelező a forgalombahozatali azonosító feltüntetése, ha a forgalombahozatali azonosítóhoz tartozó tételszámot vagy tételszámokat a forgalomba hozó a közfogyasztásra történő forgalomba hozatalt megelőzően bejelentette a NÉBIH részére.
 
-[^43]: Az 52. § (2) bekezdése a 27/2022. (VIII. 31.) AM rendelet 19. § b) pontja szerint módosított szöveg.
-[^44]: Az 52. § (5) bekezdését a 12/2024. (III. 28.) AM rendelet 7. §-a iktatta be.
+[^50]: Az 52. § (2) bekezdése a 27/2022. (VIII. 31.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^51]: Az 52. § (5) bekezdését a 12/2024. (III. 28.) AM rendelet 7. §-a iktatta be.

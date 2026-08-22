@@ -6,13 +6,15 @@
 
 37. § (1) A végső származási bizonyítvány kiállítása iránti kérelem az Ákr.-ben meghatározott adatokon túlmenően tartalmazza
 
-a) a borászati üzemengedélyes
+a)[^42] a borászati üzemengedélyes
 
 aa) gazdasági akta számát,
 
 ab) FELIR azonosítóját,
 
-ac) NÉBIH tevékenység-azonosítóját;
+ac) NÉBIH tevékenység-azonosítóját, valamint
+
+ad) a Kormányrendelet 36/A. §-a szerinti bérfeldolgozás alapján történő eljárása esetén a bérfeldolgozással érintett terméktétel szőlészeti termelője aa)–ac) alpont szerinti adatait;
 
 b) a borászati terméktételen jelölni kívánt
 
@@ -44,7 +46,7 @@ cd) előállítása során keletkezett veszteséget;
 
 d) a borászati terméktételhez kapcsolódó must származási bizonyítványok és első származási bizonyítványok számát az érintett mennyiség megjelölésével;
 
-e)[^36] a borászati terméktételen végrehajtott borászati eljárásokat a 14. melléklet szerint, az abban meghatározott sorszám megadásával.
+e)[^43] a borászati terméktételen végrehajtott borászati eljárásokat a 14. melléklet szerint, az abban meghatározott sorszám megadásával.
 
 (2) A végső származási bizonyítvány kiállítása iránti kérelemhez mellékelni kell a szakmai-jövedéki nyilvántartásnak a forgalomba hozni kívánt borászati terméktételre vonatkozó részét.
 
@@ -70,4 +72,5 @@ c) a származási országot és
 
 d) az összes alkoholtartalmat.
 
-[^36]: A 37. § (1) bekezdés e) pontja a 70. § (4) bekezdésével megállapított szöveg.
+[^42]: A 37. § (1) bekezdés a) pontja a 13/2026. (VIII. 14.) AÉM rendelet 7. §-ával megállapított szöveg.
+[^43]: A 37. § (1) bekezdés e) pontja a 70. § (4) bekezdésével megállapított szöveg.

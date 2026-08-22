@@ -26,9 +26,9 @@
 
 11. melléklet a 26/2021. (VII. 29.) AM rendelethez
 
-A borászati borászati kísérőokmány adattartalma[^64]
+A borászati borászati kísérőokmány adattartalma[^71]
 
-1.[^65] Borászati borászati kísérőokmány hitelesítés, azonosító.
+1.[^72] Borászati borászati kísérőokmány hitelesítés, azonosító.
 
 2. Az eladó (feladó) és a vevő (címzett)
 
@@ -50,7 +50,7 @@ A borászati borászati kísérőokmány adattartalma[^64]
 
 7. A szállításra történő átvétel igazolása.
 
-8.[^66] A szállítmány adatai
+8.[^73] A szállítmány adatai
 
 8.1. Bármely termék esetén (általános szabályok)
 
@@ -58,17 +58,17 @@ A borászati borászati kísérőokmány adattartalma[^64]
 
 8.1.2. a kiszerelési egység űrtartalma (literben kifejezve vagy tartályos kiszerelés esetén a tartály névleges űrtartalma);
 
-8.1.3.[^67] a mennyiség egysége, az alábbi mértékegységek használatával:
+8.1.3.[^74] a mennyiség egysége, az alábbi mértékegységek használatával:
 
 8.1.3.1. kiszerelt termékek esetében: „db”,
 
 8.1.3.2. nem kiszerelt (60 litert meghaladó űrtartalmú tárolóedényben tárolt) termékek esetében:
 
-8.1.3.2.1. szőlőtörköly esetében: mázsa (q) (elégséges a becsült mennyiség feltüntetése),
+8.1.3.2.1.[^75] szőlőtörköly esetében: kilogramm (kg) (elégséges a becsült mennyiség feltüntetése),
 
-8.1.3.2.2. szőlő esetében: mázsa (q),
+8.1.3.2.2.[^76] szőlő esetében: kilogramm (kg),
 
-8.1.3.2.3. minden más esetben: hektoliter (hl);
+8.1.3.2.3.[^77] minden más esetben: liter (l);
 
 8.1.4. a tétel mennyisége
 
@@ -112,17 +112,20 @@ A borászati borászati kísérőokmány adattartalma[^64]
 
 9.1. a 8. pontban megadott mértékegységben kifejezve; ha több terméktípus (például: szőlőtörköly és borseprő) szállítására kerül sor, az összegzést terméktípus szerinti bontásban kell megadni,
 
-9.2.[^68] kiszerelt tételek esetében a hektoliterben kifejezett összes mennyiséget kell megadni,
+9.2.[^78] kiszerelt tételek esetében a hektoliterben kifejezett összes mennyiséget kell megadni,
 
-9.3.[^69] lédig tételek esetében a 8.1.3. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
+9.3.[^79] lédig tételek esetében a 8.1.3. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
 
 10. A feladó igazolása a feladásról (keltezés, név, aláírás).
 
 11. A címzett igazolása az átvételről (keltezés, név, aláírás).
 
-[^64]: A 11. melléklet címe a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
-[^65]: A 11. melléklet 1. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
-[^66]: A 11. melléklet 8. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a 11. melléklet 8. pont 8.2.6. alpontjában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
-[^67]: [A 11. melléklet 8. pont 8.1.3. alpontjában a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
-[^68]: A 11. melléklet 9. pont 9.2. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^69]: A 11. melléklet 9. pont 9.3. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^71]: A 11. melléklet címe a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^72]: A 11. melléklet 1. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^73]: A 11. melléklet 8. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a 11. melléklet 8. pont 8.2.6. alpontjában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^74]: [A 11. melléklet 8. pont 8.1.3. alpontjában a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^75]: A 11. melléklet 8.1.3.2.1. pontja a 13/2026. (VIII. 14.) AÉM rendelet 9. § d) pontja szerint módosított szöveg.
+[^76]: A 11. melléklet 8.1.3.2.2. pontja a 13/2026. (VIII. 14.) AÉM rendelet 9. § d) pontja szerint módosított szöveg.
+[^77]: A 11. melléklet 8.1.3.2.3. pontja a 13/2026. (VIII. 14.) AÉM rendelet 9. § e) pontja szerint módosított szöveg.
+[^78]: A 11. melléklet 9. pont 9.2. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^79]: A 11. melléklet 9. pont 9.3. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.

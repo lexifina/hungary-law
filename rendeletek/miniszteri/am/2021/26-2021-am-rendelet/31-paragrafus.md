@@ -26,6 +26,6 @@ e) az adott borászati terméktételt más borászati üzembe tárolják át.
 
 (5) A termelői borkimérés keretében értékesített borászati termékre a kisüzemi bortermelő borkimérés-nyilvántartást köteles vezetni. A borkimérés-nyilvántartásban a tárgynapon összesen értékesített, kóstolásra és elvitelre kimért mennyiségeket a tételek és a kiszerelési egységek szerint összesítve kell bevezetni. Nem kell rögzíteni a borkimérés-nyilvántartásban azokat az értékesítéseket, amelyekről a kisüzemi bortermelő az adott tétel forgalombahozatali azonosítóját tartalmazó számlát állított ki.
 
-(6)[^28] A borászati üzem vagy a termelői borkimérés területén kívül, a kisüzemi bortermelő által a végső fogyasztó részére történő értékesítés esetén a kitárolt tételről borászati kísérőokmányt kell kiállítani. A kitelepülést követően a borászati üzembe visszaszállítandó borászati termékről borászati kísérőokmányt kell kiállítani.
+(6)[^33] A borászati üzem vagy a termelői borkimérés területén kívül, a kisüzemi bortermelő által a végső fogyasztó részére történő értékesítés esetén a kitárolt tételről borászati kísérőokmányt kell kiállítani. A kitelepülést követően a borászati üzembe visszaszállítandó borászati termékről borászati kísérőokmányt kell kiállítani.
 
-[^28]: A 31. § (6) bekezdése a 12/2024. (III. 28.) AM rendelet 11. § 6. pontja szerint módosított szöveg.
+[^33]: A 31. § (6) bekezdése a 12/2024. (III. 28.) AM rendelet 11. § 6. pontja szerint módosított szöveg.
