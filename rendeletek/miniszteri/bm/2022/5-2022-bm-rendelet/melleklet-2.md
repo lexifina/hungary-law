@@ -38,11 +38,11 @@ A rendvédelmi tisztjelölt az előző szemeszterben elért – nem a korrigált
 
 3. Az illetménypótlék
 
-3.1.[^21] szakaszparancsnoki feladatok ellátására kijelöltek esetén: havonta a rendvédelmi illetményalap 60%-a,
+3.1.[^22] szakaszparancsnoki feladatok ellátására kijelöltek esetén: havonta a rendvédelmi illetményalap 60%-a,
 
-3.2.[^22] rajparancsnoki feladatok ellátására kijelöltek esetén: havonta a rendvédelmi illetményalap 55%-a,
+3.2.[^23] rajparancsnoki feladatok ellátására kijelöltek esetén: havonta a rendvédelmi illetményalap 55%-a,
 
-3.3.[^23] a 3.1. és a 3.2. pontba nem tartozók esetén: havonta a rendvédelmi illetményalap 50%-a,
+3.3.[^24] a 3.1. és a 3.2. pontba nem tartozók esetén: havonta a rendvédelmi illetményalap 50%-a,
 
 3.4. különleges jogrendben egyéb rendészeti feladatokra, a katasztrófavédelmi feladatokra, valamint a rendészetért felelős miniszter által elrendelt feladatokra történő alkalmazás pótléka naponta a rendvédelmi illetményalap 5,80%-a.
 
@@ -50,6 +50,6 @@ A rendvédelmi tisztjelölt az előző szemeszterben elért – nem a korrigált
 
 5. A 2. pont szerinti tanulmányi díj az első évfolyamos rendvédelmi tisztjelölt részére az előző szemeszterben elért tanulmányi átlag hiányában nem kerül megállapításra.
 
-[^21]: A 2. melléklet 3.1. pontja a 2/2023. (I. 30.) BM rendelet 31. § a) pontja szerint módosított szöveg.
-[^22]: A 2. melléklet 3.2. pontja a 2/2023. (I. 30.) BM rendelet 31. § b) pontja szerint módosított szöveg.
-[^23]: A 2. melléklet 3.3. pontja a 2/2023. (I. 30.) BM rendelet 31. § c) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet 3.1. pontja a 2/2023. (I. 30.) BM rendelet 31. § a) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet 3.2. pontja a 2/2023. (I. 30.) BM rendelet 31. § b) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet 3.3. pontja a 2/2023. (I. 30.) BM rendelet 31. § c) pontja szerint módosított szöveg.

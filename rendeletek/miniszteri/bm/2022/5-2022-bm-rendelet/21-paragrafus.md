@@ -1,5 +1,3 @@
-## 20. § A rendvédelmi tisztjelölt kötelékben és különleges jogrendben történő alkalmazása esetén az élelmezési norma mértékére és az élelmezés szabályaira a rendvédelmi szerv előírásait kell alkalmazni.
-
 ## 7. Ruházati ellátás
 
 21. § (1) A rendvédelmi tisztjelölt a rendészeti alapfelkészítés kezdetekor a 3. melléklet 1. pontjában szereplő egyenruházati termékekre jogosult. A véglegesítését követően a rendvédelmi tisztjelölt kiegészítésként a 3. melléklet 2. pontjában foglalt táblázat szerinti egyenruházati termékekre, valamint a 3. melléklet 3. pontjában foglalt táblázat szerinti termékek cseréjére jogosult.

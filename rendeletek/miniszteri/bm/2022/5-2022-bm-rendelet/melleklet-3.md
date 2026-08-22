@@ -12,11 +12,11 @@ A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 | 3 | 14M e. r. gyakorló bakancs | pár | 1 | 14M e. r. gyakorló bakancs | pár | 1 |
 
-| 4[^24] | 22M gyakorló nadrág | db | 2 | 22M gyakorló nadrág, könnyített | db | 2 |
+| 4[^25] | 22M gyakorló nadrág | db | 2 | 22M gyakorló nadrág, könnyített | db | 2 |
 
 | 5 | Gyakorló póló, sötétkék* | db | 4 | Gyakorló póló, sötétkék* | db | 4 |
 
-| 6[^25] | 22M gyakorló zubbony, tépőzáras felirattal* | db | 1 | 22M gyakorló zubbony könnyített, tépőzáras felirattal* | db | 1 |
+| 6[^26] | 22M gyakorló zubbony, tépőzáras felirattal* | db | 1 | 22M gyakorló zubbony könnyített, tépőzáras felirattal* | db | 1 |
 
 | 7 | 10M e. r. gyakorló dzseki, felirattal* | db | 1 | 10M e. r. gyakorló dzseki, felirattal* | db | 1 |
 
@@ -28,7 +28,7 @@ A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 | 11 | Szolgálati derékszíj, fekete | db | 1 | Derékszíj, fekete (gyakorló hevederöv) | db | 1 |
 
-| 12[^26] | Esőgallér | db | 1 | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1 |
+| 12[^27] | Esőgallér | db | 1 | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1 |
 
 | 13 | Kötött kesztyű | pár | 1 | Kötött kesztyű | pár | 1 |
 
@@ -44,7 +44,7 @@ A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 | 19 | Hátizsák | db | 1 | – | – | – |
 
-| 20[^27] | Kötött sapka, sötétkék | db | 1 | – | – | – |
+| 20[^28] | Kötött sapka, sötétkék | db | 1 | – | – | – |
 
 2. A véglegesítését követően a rendvédelmi tisztjelölti állomány ruházati kiegészítése
 
@@ -100,11 +100,11 @@ A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 | 2 | az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv rendvédelmi tisztjelöltje | a hivatásos katasztrófavédelmi szerv rendvédelmi tisztjelöltje |
 
-| 3[^28] | 22M gyakorló nadrág | db | 1 | 22M gyakorló nadrág, könnyített | db | 1 |
+| 3[^29] | 22M gyakorló nadrág | db | 1 | 22M gyakorló nadrág, könnyített | db | 1 |
 
 | 4 | Gyakorló póló, sötétkék* | db | 2 | Gyakorló póló, sötétkék* | db | 2 |
 
-| 5[^29] | 22M gyakorló zubbony, tépőzáras felirattal* | db | 1 | 22M gyakorló zubbony könnyített, tépőzáras felirattal* | db | 1 |
+| 5[^30] | 22M gyakorló zubbony, tépőzáras felirattal* | db | 1 | 22M gyakorló zubbony könnyített, tépőzáras felirattal* | db | 1 |
 
 4. Megjegyzések
 
@@ -114,9 +114,9 @@ A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 4.3. A ***-gal megjelölt terméket alegységkészletként kell biztosítani.
 
-[^24]: A 3. melléklet 1. pontjában foglalt táblázat 4. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
-[^25]: A 3. melléklet 1. pontjában foglalt táblázat 6. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
-[^26]: A 3. melléklet 1. pontjában foglalt táblázat 12. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
-[^27]: A 3. melléklet 1. pontjában foglalt táblázat 20. sorát a 21/2025. (VI. 26.) BM rendelet 2. §-a iktatta be.
-[^28]: A 3. melléklet 3. pontjában foglalt táblázat 3. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
-[^29]: A 3. melléklet 3. pontjában foglalt táblázat 5. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^25]: A 3. melléklet 1. pontjában foglalt táblázat 4. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 3. melléklet 1. pontjában foglalt táblázat 6. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 3. melléklet 1. pontjában foglalt táblázat 12. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^28]: A 3. melléklet 1. pontjában foglalt táblázat 20. sorát a 21/2025. (VI. 26.) BM rendelet 2. §-a iktatta be.
+[^29]: A 3. melléklet 3. pontjában foglalt táblázat 3. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^30]: A 3. melléklet 3. pontjában foglalt táblázat 5. sora a 21/2025. (VI. 26.) BM rendelet 2. §-ával megállapított szöveg.
