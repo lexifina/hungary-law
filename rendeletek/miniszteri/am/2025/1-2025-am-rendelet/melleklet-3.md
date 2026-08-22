@@ -2,13 +2,13 @@
 
 | 1. | A kiválasztási szempont megnevezése | Értékelési szempont | Adható maximális pontszám |
 
-| 2. | A támogatást igénylő eddigi promóciós tevékenységének értékelése | A kérelmező elmúlt öt évben vagy jelenleg a kiválasztott célpiacon végzett promóciós tevékenységének bemutatása referenciákkal | 5 |
+| 2. | A támogatást igénylő eddigi promóciós tevékenységének értékelése | A kérelmező elmúlt öt évben vagy jelenleg a kiválasztott célpiacon végzett promóciós tevékenységének bemutatása referenciákkal | 10[^25] |
 
-| 3. | A támogatási kérelemben foglalt program tényleges megvalósítója eddigi promóciós tevékenységének értékelése (erre a szempontra csak akkor adható pont, ha a támogatási kérelemben foglalt program tényleges megvalósítását olyan végrehajtó szervezet végzi el, amely a támogatási kérelemben foglalt programban szereplő tevékenységet végzett már korábban) | A végrehajtó szervezet elmúlt öt évben végzett promóciós tevékenységének bemutatása referenciákkal (részletezve, hogy mely földrajzi árujelzőket, hány borászati termelőt és mekkora bormennyiséget képviselt, mely országokban) | 10 |
+| 3. | A támogatási kérelemben foglalt program tényleges megvalósítója eddigi promóciós tevékenységének értékelése (erre a szempontra csak akkor adható pont, ha a támogatási kérelemben foglalt program tényleges megvalósítását olyan végrehajtó szervezet végzi el, amely a támogatási kérelemben foglalt programban szereplő tevékenységet végzett már korábban) | A végrehajtó szervezet elmúlt öt évben végzett promóciós tevékenységének bemutatása referenciákkal (részletezve, hogy mely földrajzi árujelzőket, hány borászati termelőt és mekkora bormennyiséget képviselt, mely országokban) | 5[^26] |
 
 | 4. | Az érintett földrajzi árujelzőt kezelő hegyközségi szervezet a támogatási kérelemnek benyújtója vagy a támogatási kérelmet benyújtó társulásnak tagja |  | 5 |
 
-| 5. | A támogatási kérelemben foglalt program összhangja a nemzeti borpromóciós tervvel[^22] | A program, valamint a benne bemutatott akciók tartalmának összhangja, kapcsolódási pontja a nemzeti borpromóciós tervvel[^23] | 10 |
+| 5. | A támogatási kérelemben foglalt program összhangja a nemzeti borpromóciós tervvel[^27] | A program, valamint a benne bemutatott akciók tartalmának összhangja, kapcsolódási pontja a nemzeti borpromóciós tervvel[^28] | 10 |
 
 | 6. | A magyar bor arculati kézikönyv arculati elemeinek használatára vonatkozó nyilatkozat |  | 25 |
 
@@ -20,8 +20,10 @@
 
 | 10. | ÖSSZESEN |  | 100 |
 
-3. melléklet az 1/2025. (II. 11.) AM rendelethez[^24]
+3. melléklet az 1/2025. (II. 11.) AM rendelethez[^29]
 
-[^22]: A 2. mellékletben foglalt táblázat A:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
-[^23]: A 2. mellékletben foglalt táblázat B:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
-[^24]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 2. mellékletben foglalt táblázat C:2 mezője a 13/2026. (VIII. 14.) AÉM rendelet 12. §-ával megállapított szöveg.
+[^26]: A 2. mellékletben foglalt táblázat C:3 mezője a 13/2026. (VIII. 14.) AÉM rendelet 12. §-ával megállapított szöveg.
+[^27]: A 2. mellékletben foglalt táblázat A:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^28]: A 2. mellékletben foglalt táblázat B:5 mezője az 5/2026. (II. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^29]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

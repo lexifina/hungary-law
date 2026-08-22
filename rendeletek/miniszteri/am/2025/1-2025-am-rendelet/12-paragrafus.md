@@ -2,23 +2,23 @@
 
 12. § (1) A kedvezményezett a támogatási okirat szerinti,
 
-a)[^11] az Európai Unió másik tagállamában vagy harmadik országban megvalósítani kívánt akció megkezdésének első napja előtt legalább 15 nappal korábban, valamint
+a)[^13] az Európai Unió másik tagállamában vagy harmadik országban megvalósítani kívánt akció megkezdésének első napja előtt legalább 15 nappal korábban, valamint
 
-b)[^12] Magyarországon megvalósítani kívánt akció megkezdésének első napja előtt legalább 15 nappal korábban
+b)[^14] Magyarországon megvalósítani kívánt akció megkezdésének első napja előtt legalább 8 nappal korábban
 
 elektronikus felületen, az NKÜ honlapján közzétett közleményben foglaltaknak megfelelően, bejelentő (a továbbiakban: akcióbejelentő) megküldésével köteles tájékoztatni az NKÜ-t helyszíni ellenőrzés lefolytatása céljából az akció megvalósításának pontos időpontjáról, helyszínéről és az akció részletes programtervezetéről.
 
-(1a)[^13] Az akcióbejelentő
+(1a)[^15] Az akcióbejelentő
 
 a) az Európai Unió másik tagállamában vagy harmadik országban megvalósítani kívánt akció megkezdésének első napja előtt legalább 5 nappal korábban, valamint
 
-b) a Magyarországon megvalósítani kívánt akció megkezdésének első napja előtt legalább 8 nappal korábban
+b)[^16] a Magyarországon megvalósítani kívánt akció megkezdésének első napja előtt legalább 3 nappal korábban
 
 módosítható.
 
-(2)[^14] Nyomdai kiadvány vagy honlap készítésére vonatkozó akció esetén nem kell akcióbejelentőt küldeni. Nyomdai kiadvány készítésére vonatkozó akció esetén a gyártást, honlap készítésére vonatkozó akció esetén a honlap publikációját megelőzően legalább 20 nappal tartalmi és látványtervet kell benyújtani az NKÜ részére elektronikus formában az NKÜ honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^17] Nyomdai kiadvány vagy honlap készítésére vonatkozó akció esetén nem kell akcióbejelentőt küldeni. Nyomdai kiadvány készítésére vonatkozó akció esetén a gyártást, honlap készítésére vonatkozó akció esetén a honlap publikációját megelőzően legalább 20 nappal tartalmi és látványtervet kell benyújtani az NKÜ részére elektronikus formában az NKÜ honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(2a)[^15] A (2) bekezdés szerinti tartalmi és látványterv
+(2a)[^18] A (2) bekezdés szerinti tartalmi és látványterv
 
 a) nyomdai kiadvány készítésére vonatkozó akció esetén a gyártást,
 
@@ -28,7 +28,7 @@ megelőzően legalább 15 nappal korábban módosítható.
 
 (3) Az NKÜ a (2) bekezdés alapján megküldött dokumentumokat a beérkezését követő 5 munkanapon belül továbbítja a miniszter részére, aki megvizsgálja azokat abból a szempontból, hogy formailag és tartalmilag összhangban vannak-e a támogatási okirat célkitűzéseivel, továbbá a magyar bor arculati kézikönyv arculati elemeivel, ha a kedvezményezett ez utóbbi használatáról nyilatkozott. A miniszter a dokumentumok átvételét követő 5 munkanapon belül elektronikus úton tájékoztatja az NKÜ-t a tervek megfelelőségéről vagy a felmerült hiányosságokról.
 
-(3a)[^16] Az NKÜ a (3) bekezdés eredményeképpen beérkezett hiánypótlást annak beérkezését követő 5 munkanapon belül elektronikus úton átadja a miniszter részére. A miniszter a hiánypótlás elektronikus átadását követő 10 munkanapon belül elektronikus úton értesíti az NKÜ-t a hiánypótlás megfelelőségéről.
+(3a)[^19] Az NKÜ a (3) bekezdés eredményeképpen beérkezett hiánypótlást annak beérkezését követő 5 munkanapon belül elektronikus úton átadja a miniszter részére. A miniszter a hiánypótlás elektronikus átadását követő 10 munkanapon belül elektronikus úton értesíti az NKÜ-t a hiánypótlás megfelelőségéről.
 
 (4) Az NKÜ a miniszter tájékoztatásának kézhezvételétől számított 10 napon belül döntésben értesíti a kedvezményezettet a nyomdai kiadvány, honlap esetében a megküldött dokumentumok (3) bekezdésben meghatározott követelményeknek való megfeleléséről, vagy a kedvezményezettet a felmerült hiányosságok tekintetében hiánypótlásra hívja fel. A határidőben teljesített hiánypótlás beérkezésének napja minősül a nyomdai kiadvány vagy a honlap beérkezési dátumának. A nem megfelelő tartalmú vagy a (2) bekezdés szerinti kötelezettség ellenére meg nem küldött dokumentumokkal összefüggő költségek nem számolhatók el.
 
@@ -44,9 +44,10 @@ b) 1/5 részével csökkenti a Magyarországon megvalósított akció esetén.
 
 (8) A magyar bor arculati kézikönyv arculati elemeit és az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 14. cikk (2) bekezdése szerinti jelöléseket úgy kell elhelyezni, hogy az a promóció tárgyát képező földrajzi árujelzővel egy látómezőben legyen, és az alkalmazott képi, grafikai, tipográfiai elhelyezése alapján egyértelműen azonosítható és olvasható legyen.
 
-[^11]: A 12. § (1) bekezdés a) pontja az 5/2026. (II. 19.) AM rendelet 15. § b) pontja szerint módosított szöveg.
-[^12]: A 12. § (1) bekezdés b) pontja az 5/2026. (II. 19.) AM rendelet 15. § c) pontja szerint módosított szöveg.
-[^13]: A 12. § (1a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (1) bekezdése iktatta be.
-[^14]: A 12. § (2) bekezdése az 5/2026. (II. 19.) AM rendelet 15. § d) pontja szerint módosított szöveg.
-[^15]: A 12. § (2a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (2) bekezdése iktatta be.
-[^16]: A 12. § (3a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (3) bekezdése iktatta be.
+[^13]: A 12. § (1) bekezdés a) pontja az 5/2026. (II. 19.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^14]: A 12. § (1) bekezdés b) pontja az 5/2026. (II. 19.) AM rendelet 15. § c) pontja, a 13/2026. (VIII. 14.) AÉM rendelet 13. § b) pontja szerint módosított szöveg.
+[^15]: A 12. § (1a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (1) bekezdése iktatta be.
+[^16]: A 12. § (1a) bekezdés b) pontja a 13/2026. (VIII. 14.) AÉM rendelet 13. § c) pontja szerint módosított szöveg.
+[^17]: A 12. § (2) bekezdése az 5/2026. (II. 19.) AM rendelet 15. § d) pontja szerint módosított szöveg.
+[^18]: A 12. § (2a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^19]: A 12. § (3a) bekezdését az 5/2026. (II. 19.) AM rendelet 13. § (3) bekezdése iktatta be.

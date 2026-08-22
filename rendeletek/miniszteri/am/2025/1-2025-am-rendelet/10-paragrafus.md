@@ -18,7 +18,7 @@ módosítását.
 
 a) a módosítással érintett, időben legkorábban megvalósítani tervezett akció bejelentését megelőző legalább 90 nappal, valamint
 
-b) az a) ponttól eltérően, ha a módosítás az akcióban vállalt, a 2. melléklet szerinti kiválasztási szempontrendszerrel összefüggő szakmai tartalmat érinti, legkésőbb az érintett akcióhoz tartozó kifizetési kérelem benyújtásának napja előtt 1 nappal
+b)[^8] az a) ponttól eltérően, ha a módosítás az akcióban vállalt, a 2. melléklet szerinti kiválasztási szempontrendszerrel összefüggő szakmai tartalmat nem érinti, legkésőbb az érintett akcióhoz tartozó kifizetési kérelem benyújtásának napja előtt 1 nappal
 
 kell benyújtani.
 
@@ -34,6 +34,16 @@ kell benyújtani.
 
 (10) Az (1) bekezdés a) pontja szerinti módosítás iránti kérelmek elbírálására a 8. § és a 9. § előírásait kell alkalmazni.
 
+(10a)[^9] A (10) bekezdéstől eltérően nem kell alkalmazni a 8. § (3)–(6) bekezdését, valamint a 9. § (1) és (2) bekezdését, ha az (1) bekezdés a) pontja szerinti tartalmi módosítás nem irányul
+
+a) új célország programba történő bevonására,
+
+b) célország programból történő törlésére,
+
+c) bármely akció esetében a végrehajtó szervezet változására vagy
+
+d) a program értékelése során figyelembe vett, a 2. mellékletben foglalt táblázat B:5 vagy B:9 mezőjében foglalt értékelési szempont alapjául szolgáló tartalom változására.
+
 (11) Az NKÜ
 
 a) az (1) bekezdés a) pontja szerinti kérelem tárgyában hozott döntését a kérelem benyújtását követő 60 napon belül,
@@ -43,3 +53,6 @@ b) az (1) bekezdés b) és c) pontja szerinti kérelem tárgyában hozott dönt�
 közli a kedvezményezettel.
 
 (12) Az NKÜ az (1) bekezdés szerinti kérelem tárgyában hozott döntésével egyidejűleg módosítja a támogatási okiratot, ha a döntés a támogatási okirat rendelkező részét érinti.
+
+[^8]: A 10. § (4) bekezdés b) pontja a 13/2026. (VIII. 14.) AÉM rendelet 13. § a) pontja szerint módosított szöveg.
+[^9]: A 10. § (10a) bekezdését a 13/2026. (VIII. 14.) AÉM rendelet 11. §-a iktatta be.

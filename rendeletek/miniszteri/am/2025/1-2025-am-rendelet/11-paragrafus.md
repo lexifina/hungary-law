@@ -2,7 +2,7 @@
 
 11. § (1) A program megvalósítása során kizárólag a következő költségek (a továbbiakban: költségtípusok) támogathatóak:
 
-a)[^8] személyzeti költségek, amelyek
+a)[^10] személyzeti költségek, amelyek
 
 aa) az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 23. cikke szerint számolhatók el, és
 
@@ -28,13 +28,13 @@ h) a program megvalósítása során felhasznált reprezentációs termékek kö
 
 i) az akciók által elért eredmények marketing és statisztikai módszerekkel történő mérésének költségei, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 5%-át;
 
-j)[^9] PR tevékenység, médiamegjelenés, mozgókép, beleértve a filmet és a reklámfilmet is, vagy honlap előállításának költségei, amelynek mértéke nem haladhatja meg a program teljes költségvetésének 70%-át, és amelyen belül a film és reklám előállításának költségei együttesen nem haladhatják meg a program jóváhagyott teljes költségvetésének 20%-át;
+j)[^11] PR tevékenység, médiamegjelenés, mozgókép, beleértve a filmet és a reklámfilmet is, vagy honlap előállításának költségei, amelynek mértéke nem haladhatja meg a program teljes költségvetésének 70%-át, és amelyen belül a film és reklám előállításának költségei együttesen nem haladhatják meg a program jóváhagyott teljes költségvetésének 20%-át;
 
 k) az akció megvalósítása során felmerülő adminisztratív költség, amelynek mértéke nem haladhatja meg a kifizetési kérelem alapján jóváhagyott, adminisztratív költségeken kívül elszámolható költségek 4%-át;
 
 l) a 2. § (1) bekezdés b) pont bf) alpontjának megfelelő műszaki dokumentáció elkészítésének költsége, amelynek mértéke nem haladhatja meg a program teljes költségvetésének 10%-át; valamint
 
-m)[^10] a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az adott akcióra elszámolható költség 20%-át.
+m)[^12] a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az adott akcióra elszámolható költség 20%-át.
 
 (2) Az (1) bekezdés szerinti költségek körében az általános forgalmi adó akkor számolható el, ha a kedvezményezett annak levonására nem jogosult. Külföldi számla vagy nyugta esetében nyilatkozat benyújtása szükséges az ÁFA visszaigénylésével kapcsolatban, a kedvezményezett okleveles könyvelőjének vagy a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény szerinti könyvvizsgálójának igazolnia kell, hogy a kifizetett ÁFA összege nem került visszaigénylésre.
 
@@ -44,6 +44,6 @@ m)[^10] a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az
 
 (5) Az eszközbeszerzés elszámolható költsége nem haladhatja meg az eszköznek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 52. §-a és 53. §-a alapján meghatározott értékcsökkenése értékét. Az értékcsökkenés kizárólag az eszköznek a program megvalósítási időszakára eső tényleges használatának arányában és a programra fordított idő arányában számolható el.
 
-[^8]: A 11. § (1) bekezdés a) pontja az 5/2026. (II. 19.) AM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^9]: A 11. § (1) bekezdés j) pontja az 5/2026. (II. 19.) AM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^10]: A 11. § (1) bekezdés m) pontja az 57/2025. (XII. 22.) AM rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés a) pontja az 5/2026. (II. 19.) AM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^11]: A 11. § (1) bekezdés j) pontja az 5/2026. (II. 19.) AM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^12]: A 11. § (1) bekezdés m) pontja az 57/2025. (XII. 22.) AM rendelet 7. § b) pontja szerint módosított szöveg.

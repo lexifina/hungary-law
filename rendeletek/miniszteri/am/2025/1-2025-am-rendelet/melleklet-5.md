@@ -1,3 +1,3 @@
-5. melléklet az 1/2025. (II. 11.) AM rendelethez[^26]
+5. melléklet az 1/2025. (II. 11.) AM rendelethez[^31]
 
-[^26]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
