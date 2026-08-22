@@ -44,6 +44,8 @@ f) a huzalok talajtól és egymástól mért távolságát.
 
 (5)[^30] Fajtaváltás, ültetvény áttelepítése, valamint növény-egészségügyi okból hatóság által elrendelt kötelező kivágást követő szőlőültetvény újratelepítése esetében az első borpiaci évre benyújtott kifizetési kérelemhez nem kell mellékelni a (3) bekezdés a) pontja szerinti vázrajzot.
 
+(5a)[^31] A (3) bekezdés e) pontjában foglaltaktól eltérően, ha a támogatással érintett régi szőlőültetvény kivágása és az újratelepítés ugyanazon a területen történik, és az újratelepítéssel érintett terület a kivágott ültetvény területével azonos vagy annál nagyobb, a kifizetési kérelemhez nem szükséges a kivágás utáni helyszíni ellenőrzésről készült jegyzőkönyvet csatolni. A kivágás tényének ellenőrzése a telepítés ellenőrzésével egy időben és egy eljárásban történik.
+
 (6) A kedvezményezett adott borpiaci évben több kifizetési kérelmet is benyújthat.
 
 (7) A kifizetési kérelem a benyújtását követően az elektronikus felületen keresztül nem módosítható.
@@ -54,3 +56,4 @@ f) a huzalok talajtól és egymástól mért távolságát.
 [^28]: A 19. § (1a) bekezdését az 1/2025. (II. 11.) AM rendelet 18. § (9) bekezdése iktatta be.
 [^29]: A 19. § (4) bekezdés c) pontja az 1/2025. (II. 11.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^30]: A 19. § (5) bekezdése a 38/2025. (VIII. 13.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^31]: A 19. § (5a) bekezdését a 13/2026. (VIII. 14.) AÉM rendelet 10. §-a iktatta be.

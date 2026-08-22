@@ -90,7 +90,7 @@
 
 5. melléklet a 152/2023. (XII. 21.) AM rendelethez
 
-1.[^52] A 12 § (1) bekezdése alapján benyújtott támogatási kérelmek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek fajtaváltás és ültetvény áttelepítés esetén
+1.[^53] A 12 § (1) bekezdése alapján benyújtott támogatási kérelmek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek fajtaváltás és ültetvény áttelepítés esetén
 
 |  | A | B | C |
 
@@ -118,7 +118,7 @@
 
 | 12. | A kérelmező és a vele azonos borgazdasági egységbe tartozó ültetvényhasználók használatában lévő szőlőültetvényeken megtermelt szőlő mennyisége és egységára szorzatának az elmúlt három borpiaci évben vett átlaga meghaladja az országos átlagot |  | 14 |
 
-| 13.[^53] |  |  |  |
+| 13.[^54] |  |  |  |
 
 | 14. | D. A kérelmező képzettsége |
 
@@ -210,5 +210,5 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^52]: Az 5. melléklet 1. pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés i) pontja, a 8/2026. (VII. 24.) AÉM rendelet 27. § b) pontja szerint módosított szöveg.
-[^53]: Az 5. melléklet 1. pontjában foglalt táblázat 13. sorát az 1/2025. (II. 11.) AM rendelet 19. § e) pontja hatályon kívül helyezte.
+[^53]: Az 5. melléklet 1. pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés i) pontja, a 8/2026. (VII. 24.) AÉM rendelet 27. § b) pontja szerint módosított szöveg.
+[^54]: Az 5. melléklet 1. pontjában foglalt táblázat 13. sorát az 1/2025. (II. 11.) AM rendelet 19. § e) pontja hatályon kívül helyezte.

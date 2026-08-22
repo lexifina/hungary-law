@@ -30,7 +30,7 @@
 
 | 15. | Vertikó | 5 | 5 | Nevelőpálca kihelyezése kötelező |
 
-7. melléklet a 152/2023. (XII. 21.) AM rendelethez[^55]
+7. melléklet a 152/2023. (XII. 21.) AM rendelethez[^56]
 
 Költségcsökkentés összege
 
@@ -62,4 +62,4 @@ Költségcsökkentés összege
 
 | 5. | 5000 tő/hektár és a felett | 1 259 |
 
-[^55]: A 7. mellékletet az 1/2025. (II. 11.) AM rendelet 18. § (16) bekezdése iktatta be.
+[^56]: A 7. mellékletet az 1/2025. (II. 11.) AM rendelet 18. § (16) bekezdése iktatta be.
