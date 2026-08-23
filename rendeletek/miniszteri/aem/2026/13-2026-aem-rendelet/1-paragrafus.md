@@ -22,16 +22,6 @@
 
 ## 1. A talajvédelmi terv készítésének részletes szabályairól szóló 90/2008. (VII. 18.) FVM rendelet módosítása
 
-1. § (1) A talajvédelmi terv készítésének részletes szabályairól szóló 90/2008. (VII. 18.) FVM rendelet [a továbbiakban: 90/2008. (VII. 18.) FVM rendelet] 1. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 49. § (3) bekezdésében és az 50. §-ában felsorolt, termőföldön folytatott mezőgazdasági tevékenységekkel, illetve beavatkozásokkal, valamint a termőföld igénybevételével járó vagy arra hatást gyakorló beruházásokkal és tevékenységekkel kapcsolatos talajvédelmi követelmények meghatározásához talajvédelmi terv készítése szükséges a következő esetekben:]
-
-## „c) ültetvény telepítéséhez:
-
-## ca) az 1500 négyzetmétert meghaladó szőlőültetvény telepítéséhez,
-
-## cb) gyümölcs-, bogyósgyümölcs-ültetvény telepítéséhez, valamint
-
-## cc) jogszabály által meghatározott egyéb ültetvény telepítéséhez,”
-
-(2) Hatályát veszti a 90/2008. (VII. 18.) FVM rendelet 1. § (3) bekezdés d) pontja.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

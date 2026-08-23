@@ -1,3 +1,3 @@
-7. § A 26/2021. (VII. 29.) AM rendelet 37. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(A végső származási bizonyítvány kiállítása iránti kérelem az Ákr.-ben meghatározott adatokon túlmenően tartalmazza)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

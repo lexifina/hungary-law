@@ -1,1 +1,3 @@
-12. § Az 1/2025. (II. 11.) AM rendelet 2. melléklete a 2. melléklet szerint módosul.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
