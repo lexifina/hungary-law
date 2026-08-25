@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-22-30-6
 | 2024-03-21 | 2023-22-30-63.3 | 20/2024. (III. 21.) ME határozat |
 | 2024-11-04 | 2023-22-30-63.4 | 114/2024. (XI. 4.) ME határozat |
 | 2025-05-14 | 2023-22-30-63.5 | 39/2025. (V. 14.) ME határozat |
+| 2026-08-25 | 2023-22-30-63.6 | 83/2026. (VIII. 25.) ME határozat |
