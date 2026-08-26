@@ -10,4 +10,6 @@ a) Nagy Bálintot az Integrált Közlekedésfejlesztési Operatív Program Plusz
 
 b) Horn Gergelyt, a KBM európai uniós ügyek összehangolásáért felelős helyettes államtitkárát az Integrált Közlekedésfejlesztési Operatív Program Plusz monitoring bizottsága elnökévé – 2026. augusztus 26-i hatállyal – kinevezem.
 
-3. Visszavonom a monitoring bizottságok elnökeinek kinevezéséről és monitoring bizottságok elnökeinek felmentéséről szóló 22/2023. (III. 13.) ME határozat 1. pont b) alpontját és 2. pontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
