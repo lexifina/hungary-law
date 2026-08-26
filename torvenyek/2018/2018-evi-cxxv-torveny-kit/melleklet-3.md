@@ -126,7 +126,7 @@
 
 ## 19. családtámogatási kedvezmények
 
-## 20. politikai felsővezető személyijövedelemadó-bevallásából a nyilvános, honlapra közzétételre szánt változat (az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege)
+## 20. politikai felsővezető személyijövedelemadó-bevallásából a nyilvános, honlapra közzétételre szánt változat [az összevont adóalap összege (adóalap csökkentő kedvezmények nélkül), az összevont adóalapot csökkentő adóalap kedvezmények összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege]
 
 ## 21. a politikai felsővezetői tisztség betöltésének igazolása céljából kiállított igazolvány száma
 
@@ -165,17 +165,3 @@
 ## 8. pályázatának adatai
 
 ## 9. kompetenciaadatai
-
-## 10. próbaidejének adatai
-
-## VI.
-
-## 1. személyi juttatások nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
-
-## VII.
-
-## 1. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
-
-## 2. kormányzati kirendelésének adatai
-
-## VIII.

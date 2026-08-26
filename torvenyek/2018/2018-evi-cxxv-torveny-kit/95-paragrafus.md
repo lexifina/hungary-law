@@ -48,7 +48,7 @@ b) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügy
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
-(11a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+(11a)
 
 (11b) Nem keletkeztet összeférhetetlenséget a HUN-REN Magyar Kutatási Hálózat Irányító Testületében vagy felügyelőbizottságában betöltött tagság, azzal, hogy az érintettnek meg kell felelnie a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 9. § és 10. §-ában foglaltaknak.
 
