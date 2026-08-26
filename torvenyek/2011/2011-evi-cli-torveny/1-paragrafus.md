@@ -10,4 +10,4 @@ a) egyedi ügy: a természetes személy, jogi személy vagy jogi személyiségge
 
 b) bíró: a bíró, valamint a bírósági titkár, ha törvény rendelkezése alapján az egyesbíró hatáskörében bírósági titkár eljárhat.
 
-c) Európai Unió Bírósága: az Európai Unióról szóló szerződés szerinti Bíróság, Törvényszék és különös hatáskörű törvényszékek.
+c)
