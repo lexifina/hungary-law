@@ -50,6 +50,6 @@ ac) annak, akire a határozat rendelkezést tartalmaz,
 
 b) a c) pontban meghatározott kivétellel, a felülbírálati indítvány előterjesztőjének a 817/C. § (2) bekezdésében meghatározottak szerinti anonimizált határozatot, illetve
 
-c) ha a felülbírálati indítványt a sértett vagy a feljelentő terjesztette elő, számára a határozatot
+c) ha a felülbírálati indítványt a sértett, a feljelentő vagy az Integritás Hatóság terjesztette elő, számára a határozatot
 
 kézbesíti.

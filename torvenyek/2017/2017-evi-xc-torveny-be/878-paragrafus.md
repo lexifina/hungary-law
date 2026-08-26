@@ -65,19 +65,3 @@
 31. a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak és a tárgyaláson való jelenlét jogának erősítéséről szóló 2016. március 9-i 2016/343/EU parlamenti és tanácsi irányelvnek,
 
 32. a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló 2016. április 27-i 2016/680/EU parlamenti és tanácsi irányelvnek,
-
-33. a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló 2016. május 11-i 2016/800/EU parlamenti és tanácsi irányelvnek, valamint
-
-34. a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló 2016. október 26-i 2016/1919/EU parlamenti és tanácsi irányelvnek
-
-35. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek,
-
-36. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
-
-37. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
-
-38. a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek,
-
-39. az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló, 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.

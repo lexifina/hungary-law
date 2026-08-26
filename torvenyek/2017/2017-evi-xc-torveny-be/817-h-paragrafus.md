@@ -4,9 +4,9 @@
 
 (2) Ha az (1) bekezdés alapján ismételt felülbírálati indítvány benyújtásának van helye, az ügyészség vagy a nyomozó hatóság az anonimizált ügyiratjegyzékkel együtt
 
-a) a felülbírálati indítványt előterjesztő sértett és feljelentő részére a határozatát,
+a) a felülbírálati indítványt előterjesztő sértett, a feljelentő vagy az Integritás Hatóság részére a határozatát,
 
-b) a felülbírálati indítványt előterjesztő, a 817/C. § (6) és (7) bekezdése szerinti személy részére az anonimizált határozatát
+b) a felülbírálati indítványt előterjesztő, a 817/C. § (6) bekezdése szerinti személy részére az anonimizált határozatát
 
 kézbesíti.
 

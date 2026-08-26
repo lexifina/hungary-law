@@ -10,7 +10,7 @@ aa) a vesztegetés egyes enyhébben minősülő eseteit [Btk. 290. § (1) és (6
 
 ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) bekezdés];
 
-b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, nemzetbiztonsági szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
+b) a hivatali visszaélés (Btk. 305. §);
 
 c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra, a HUN-REN Magyar Kutatási Hálózat vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
 

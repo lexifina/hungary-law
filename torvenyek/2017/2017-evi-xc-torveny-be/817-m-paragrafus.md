@@ -6,7 +6,7 @@ b) a 817/J. § (3) bekezdése szerinti esetben a bíróságnak a vádindítvány
 
 számított két hónapon belül nyújthatja be.
 
-(2) A vádindítványt a 817/H. § (1) bekezdése szerinti határozatot hozó ügyészségnél vagy nyomozó hatóságnál kell benyújtani. A vádindítványt a beérkezésétől számított nyolc napon belül az ügyészség vagy az ügyészség útján a nyomozó hatóság az ügyiratokkal együtt továbbítja a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bírósághoz. A bíróság illetékessége a 21. § (3) bekezdése alapján nem állapítható meg.
+(2) A vádindítványt a 817/H. § (1) bekezdése szerinti határozatot hozó ügyészségnél vagy nyomozó hatóságnál kell benyújtani. A vádindítványt a beérkezésétől számított nyolc napon belül az ügyészség vagy az ügyészség útján a nyomozó hatóság az ügyiratokkal együtt továbbítja az ismételt felülbírálati indítvány elbírálására jogosult bírósághoz.
 
 (3) A vádindítvány tartalmazza
 

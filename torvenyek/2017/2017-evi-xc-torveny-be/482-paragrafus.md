@@ -10,6 +10,6 @@ d) a tanú különösen védetté nyilvánításáról hozott határozat,
 
 e) a megszüntetett eljárás folytatásának a 400. § (5) bekezdése szerinti elrendeléséről rendelkező határozat, és
 
-f) a felülbírálati indítvány elbírálásáról hozott határozat
+f) az Integritás Hatóság 817/C. § (1) bekezdése szerinti felülbírálati indítványának elbírálásáról szóló határozat kivételével a felülbírálati indítvány elbírálásáról hozott határozat
 
 ellen.

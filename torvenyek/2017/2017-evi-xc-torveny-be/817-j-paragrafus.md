@@ -12,7 +12,7 @@
 
 (7) Ha a feljelentő nem nyújtott be a vádindítvány képviseletére jogosult személykénti kijelölésére vonatkozó indítványt, azonban a sértett a vádindítvány képviseletére jogosult személykénti kijelölésére vonatkozó indítványt benyújtott, a bíróság a sértettet jelöli ki.
 
-(8) Ha több személy terjesztett elő ismételt felülbírálati indítványt, a bíróság a vádindítvány képviseletére jogosult személy kijelöléséről annak mérlegelésével dönt, hogy mely indítványozó kijelölésével ért egyet a felülbírálati indítványt előterjesztő személyek többsége.
+(8) Ha több személy terjesztett elő ismételt felülbírálati indítványt, a bíróság a vádindítvány képviseletére jogosult személy kijelöléséről annak mérlegelésével dönt, hogy mely indítványozó érintett az ügyben, mely indítványozó kellően jártas a vádindítvány képviseletére, illetve mely indítványozó kijelölésével ért egyet a felülbírálati indítványt előterjesztő személyek többsége.
 
 (9) Ha a (3) bekezdés szerinti esetben az erre jogosult személy vádindítványt kíván benyújtani, a vádindítvány képviseletére jogosult személyt az ismételt felülbírálati indítvány elbírálására jogosult bíróság jelöli ki. A vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt a 817/I. § (1) bekezdése szerinti közzétételtől számított egy hónapon belül kell benyújtani az eljárást megszüntető határozatot hozó hatóságnál. Az ügyészség vagy az ügyészség útján a nyomozó hatóság az indítványt az ügyiratokkal együtt a határidőt követően haladéktalanul megküldi az ismételt felülbírálati indítvány elbírálására jogosult bíróságnak. A bíróság nyolc napon belül határoz a vádindítvány képviseletére jogosult személy kijelöléséről.
 
