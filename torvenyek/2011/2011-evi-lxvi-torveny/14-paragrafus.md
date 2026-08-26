@@ -28,7 +28,9 @@ g) halállal.
 
 (7) Az Állami Számvevőszék elnöke felmentéssel szüntetheti meg az alelnök megbízatását, ha az Állami Számvevőszék alelnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak.
 
-(8) Kizárással szünteti meg a megbízatást az Állami Számvevőszék elnöke, ha az alelnök neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el.
+(8) Kizárással szünteti meg a megbízatást az Állami Számvevőszék elnöke, ha az alelnök nem tesz eleget az e törvényben előírt vagyonnyilatkozat-tételi kötelezettségének vagy abban lényeges adatot, tényt szándékosan valótlanul közölt, továbbá, ha neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el.
+
+(8a) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében az Állami Számvevőszék alelnöke vagyonnyilatkozata kapcsán a (8) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, az Állami Számvevőszék elnöke a jelentés megállapításainak figyelembevételével az Állami Számvevőszék alelnökének a 20. § (2) bekezdése szerint megállapított illetményét a 21. § szerint – egy év határozott időtartamban legfeljebb 10%-kal – csökkentett mértékben állapítja meg.
 
 (9) Az Állami Számvevőszék alelnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, keresete nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
