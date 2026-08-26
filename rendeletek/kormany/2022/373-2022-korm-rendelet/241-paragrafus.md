@@ -1,3 +1,3 @@
-241. §[^535]
+241. §[^534]
 
-[^535]: A 241. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^534]: A 241. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,15 +8,15 @@
 
 | 4. | III. Felzárkózó települések | NFK | Szociális és Családügyi Minisztérium | NFK |
 
-| 5. | IV. Vízgazdálkodás és körforgásos gazdaság | NFK | Élő Környezetért Felelős Minisztérium | NFK[^540] |
+| 5. | IV. Vízgazdálkodás és körforgásos gazdaság | NFK | Élő Környezetért Felelős Minisztérium | NFK[^539] |
 
 | 6. | V. Fenntartható zöld közlekedés | NFK | Közlekedési és Beruházási Minisztérium, Gazdasági és Energetikai Minisztérium | NFK |
 
-| 7. | VI. Energetika (zöld átállás) | NFK | Gazdasági és Energetikai Minisztérium, Élő Környezetért Felelős Minisztérium | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK[^541] |
+| 7. | VI. Energetika (zöld átállás) | NFK | Gazdasági és Energetikai Minisztérium, Élő Környezetért Felelős Minisztérium | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK[^540] |
 
 | 8. | VII. Egészségügy | NFK | Egészségügyi Minisztérium | NFK |
 
-| 9. | VIII. Állam és közigazgatás | NFK | Gazdasági és Energetikai Minisztérium, Igazságügyi Minisztérium, Pénzügyminisztérium, Tudományos és Technológiai Minisztérium, Miniszterelnökség, NFK[^542] | NFK, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
+| 9. | VIII. Állam és közigazgatás | NFK | Gazdasági és Energetikai Minisztérium, Igazságügyi Minisztérium, Pénzügyminisztérium, Tudományos és Technológiai Minisztérium, Miniszterelnökség, NFK[^541] | NFK, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
 | 10. | IX. Magyarország REPowerEU terve | NFK | Gazdasági és Energetikai Minisztérium | NFK |
 
@@ -24,9 +24,9 @@
 
 | 12. | XI. Digitális Innováció | NFK | Tudományos és Technológiai Minisztérium | NFK |
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^543]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^542]
 
-Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^544]
+Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^543]
 
 1. Támogatást igénylőkre vonatkozó adatok:
 
@@ -136,29 +136,8 @@ Az ARACHNE+ kockázatértékelő eszköz részére küldendő adatok[^544]
 
 7. Kapcsolattartóra vonatkozó adatok:
 
-7.1. keresztnév
-
-7.2. vezetéknév
-
-8. Tényleges tulajdonosokra vonatkozó adatok:
-
-8.1. végső kedvezményezett tényleges tulajdonosának vezetékneve
-
-8.2. végső kedvezményezett tényleges tulajdonosának keresztneve
-
-8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
-
-8.4.[^545] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
-
-8.5. szállító tényleges tulajdonosának vezetékneve
-
-8.6. szállító tényleges tulajdonosának keresztneve
-
-8.7. szállító tényleges tulajdonosának születési dátuma
-
-[^540]: Az 1. mellékletben foglalt táblázat D:5 mezője a 121/2026. (VIII. 7.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
-[^541]: Az 1. mellékletben foglalt táblázat D:7 mezője a 121/2026. (VIII. 7.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
-[^542]: Az 1. mellékletben foglalt táblázat C:9 mezője a 121/2026. (VIII. 7.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^543]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
-[^544]: A 2. melléklet címe a 94/2026. (VI. 18.) Korm. rendelet 19. § n) pontja szerint módosított szöveg.
-[^545]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
+[^539]: Az 1. mellékletben foglalt táblázat D:5 mezője a 121/2026. (VIII. 7.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
+[^540]: Az 1. mellékletben foglalt táblázat D:7 mezője a 121/2026. (VIII. 7.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
+[^541]: Az 1. mellékletben foglalt táblázat C:9 mezője a 121/2026. (VIII. 7.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^542]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^543]: A 2. melléklet címe a 94/2026. (VI. 18.) Korm. rendelet 19. § n) pontja szerint módosított szöveg.
