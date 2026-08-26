@@ -1,3 +1,3 @@
-56. § (1) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a Munkacsoportban végzett munkájukért díjazásban és költségtérítésben nem részesülnek.
+56. § (1) A Munkacsoport állami szerveket képviselő tagjai, valamint az állandó és eseti jelleggel meghívottak a Munkacsoportban végzett munkájukért külön díjazásban és költségtérítésben nem részesülnek. A Munkacsoport nem kormányzati szereplőket képviselő tagjait tiszteletdíj illeti meg, amelynek mértéke Magyarország operatív programjainak monitoring bizottságaiba civil szervezet által delegált tagok díjazásához igazodik, és amit a Hatóság költségvetésében kell elkülöníteni.
 
 (2) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a feladatuk ellátásával kapcsolatban tudomásukra jutott minden törvény által védett titkot, így különösen üzleti titkot kötelesek megőrizni.

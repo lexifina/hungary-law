@@ -10,6 +10,8 @@
 
 (5) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának valóságtartalmát az Alkalmassági Bizottság évente ellenőrzi, amelynek eredményéről jelentést készít. Az ellenőrzés eredményét tartalmazó jelentést öt évig meg kell őrizni.
 
+(5a) Az Alkalmassági Bizottság a Hatóság elnöke, illetve elnökhelyettese vagyonnyilatkozatának ellenőrzése során megismerheti az eljárás lefolytatásához feltétlen szükséges körben és szabályok szerint azokat az adatokat, amelyeket a Hatóság is megismerhet a vagyonnyilatkozati vizsgálati eljárása során.
+
 (6) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának nyilvános, oldalhű másolatát az Alkalmassági Bizottság a Hatóság honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az elnök, illetve az elnökhelyettes jogviszonyának megszűnését követő öt év elteltével távolítható el.
 
 (7) Ha az (5) bekezdés szerinti ellenőrzés során az Alkalmassági Bizottság azt állapítja meg, hogy a Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke vagy elnökhelyettese a vagyonnyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését.

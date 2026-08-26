@@ -1,1 +1,1 @@
-72. § Az Alkalmassági Bizottság – nemzetközi szervezetekkel szorosan együttműködve és egyeztetve – a Hatóság Igazgatósága tagjainak kinevezését követően két évvel felülvizsgálja a Hatóság és a Hatóság Igazgatósága működését.
+72. § Az Alkalmassági Bizottság – nemzetközi szervezetekkel szorosan együttműködve és egyeztetve – a Hatóság Igazgatósága tagjainak kinevezését követően két évvel, majd utána évenként felülvizsgálja a Hatóság és a Hatóság Igazgatósága működését.

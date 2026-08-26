@@ -34,6 +34,8 @@ i) a Nemzeti Védelmi Szolgálat főigazgatója által kijelölt személy és
 
 j) a Nemzeti Adó- és Vámhivatal elnöke által kijelölt személy.
 
+(3a) A Munkacsoport állami szerveket képviselő tagjainak a kijelölése legfeljebb öt évre szól azzal, hogy a kijelölésüket a kijelölő személy bármikor visszavonhatja.
+
 (4) Minden tagot azonos jogok és kötelezettségek illetnek meg a Munkacsoport működésével összefüggésben, beleértve az információkhoz való hozzáférést és a beavatkozási jogot.
 
 (5) A Munkacsoportban való tagság nem jogosít fel a Hatóság tevékenységéhez való hozzáférésre.
