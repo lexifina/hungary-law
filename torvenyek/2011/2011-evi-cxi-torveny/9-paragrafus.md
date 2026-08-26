@@ -2,7 +2,7 @@
 
 9. § (1) Az alapvető jogok biztosa és helyettese a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) Az alapvető jogok biztosa és helyettese a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az alapvető jogok biztosa és helyettese vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) Az alapvető jogok biztosa és helyettese a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti – hozzátartozóinak (a továbbiakban együtt: családtag) az alapvető jogok biztosa és helyettese vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – az alapvető jogok biztosa és helyettese megbízatását nem gyakorolhatja, javadalmazásban nem részesül.
 
