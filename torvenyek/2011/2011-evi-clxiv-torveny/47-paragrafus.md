@@ -2,7 +2,7 @@
 
 (2) Az ügyész az Alaptörvény 29. cikk (6) bekezdésében és az e törvény 44. § (1) bekezdésében meghatározott összeférhetetlenségi okot legkésőbb a kinevezésekor (megválasztásakor), a 45. § (1)–(2) bekezdésében meghatározott összeférhetetlenségi okot pedig a kinevezéstől (megválasztásától) számított tizenöt napon belül köteles megszüntetni. Ennek megtörténtéig az ügyész a tisztségéből eredő jogkörét nem gyakorolhatja.
 
-(3) Ha az ügyész a (2) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, vagy tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel
+(3) Ha az ügyész a (2) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, vagy tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel – a 44. § (2) bekezdésében foglalt eset kivételével –
 
 a) a legfőbb ügyész esetében a köztársasági elnök,
 
