@@ -82,3 +82,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2026-07-26 | 2026. évi XXI. törvény | 2012-36-00-00.74 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2012-36-00-00.78 |
 | 2026-08-16 | 2026. évi XLVI. törvény | 2012-36-00-00.79 |
+| 2026-08-26 | 2026. évi XVIII. törvény | 2012-36-00-00.76 |

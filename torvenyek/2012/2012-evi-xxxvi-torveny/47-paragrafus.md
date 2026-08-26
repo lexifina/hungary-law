@@ -2,7 +2,7 @@
 
 a) a 46. § (2) bekezdése szerinti esetben – a 46. § (1) bekezdés b) pontja szerinti magatartás tanúsítása esetén – minimum a képviselő egyhavi tiszteletdíja összegének felével, de legfeljebb egyhavi tiszteletdíja összegével,
 
-b) a 46/B. § (2) bekezdése és a 46/C. § (2) bekezdése szerinti esetben minimum a képviselő egyhavi tiszteletdíja összegével, de legfeljebb kéthavi tiszteletdíja összegével,
+b) a 46/B. § (2) bekezdése és a 46/C. § (2) bekezdése és a 94/A. § (1b) bekezdése szerinti esetben minimum a képviselő egyhavi tiszteletdíja összegével, de legfeljebb kéthavi tiszteletdíja összegével,
 
 c) a 46/D. § és a 46/E. § szerinti esetben minimum a képviselő kéthavi tiszteletdíja összegével, de legfeljebb négyhavi tiszteletdíja összegével,
 

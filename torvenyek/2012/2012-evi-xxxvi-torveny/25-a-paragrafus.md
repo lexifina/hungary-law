@@ -13,3 +13,5 @@ b) az országgyűlési vizsgálóbizottság munkájának akadályozása bűncsel
 (5) A vizsgálóbizottság a személyes adatot kizárólag a vizsgálat céljának eléréséhez szükséges és arányos mértékben kezelhet.
 
 (6) Az adatszolgáltatásra kötelezett a vizsgálóbizottság felhívásában megjelölt határidőn belül jelezheti, ha az adatkérés teljesítése törvényes titoktartási kötelezettséget, minősített adat védelmét, személyes adatok védelmét vagy más alapvető jogot érint. Az együttműködésre kötelezett a megtagadás jogalapját és annak alapjául szolgáló körülményeket köteles valószínűsíteni.
+
+(7) Az együttműködésre kötelezett az adatszolgáltatás körében hozott együttműködési kötelezettséget előíró határozattal szemben, annak közlésétől számított 15 napon belül, felülvizsgálati kérelmet nyújthat be a Fővárosi Törvényszékhez. A bírósági felülvizsgálati kérelmet a Fővárosi Törvényszék a benyújtást követő 30 napon belül, közigazgatási nemperes eljárásban, háromtagú tanácsban bírálja el. Ha a Fővárosi Törvényszék azt állapítja meg, hogy a felülvizsgálati kérelem megalapozott, a döntést megsemmisíti.

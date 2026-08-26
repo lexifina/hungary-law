@@ -1,352 +1,170 @@
-## A nyilatkozatot adó személye
+## A NYILATKOZATOT ADÓ ÉS A VAGYONNYILATKOZAT-TÉTELRE KÖTELEZETT SZEMÉLY ADATAI
 
-## 1. A nyilatkozatot adó1:
+## 1. A nyilatkozatot adó3:
 
 ## a) országgyűlési képviselő
 
-## b) az országgyűlési képviselővel közös háztartásban élő házas- vagy élettárs (a továbbiakban: házas-/élettárs)
+## b) az országgyűlési képviselővel közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozó (családtag)
 
-## c) az országgyűlési képviselővel közös háztartásban élő gyermek (a továbbiakban: gyermek)
+## c) az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más személy
 
-## 2. A nyilatkozatot adó neve:
+## d) az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más személlyel közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozó (családtag)
 
-## A) rész
+## 2. A nyilatkozatot adó családi- és utóneve, családtag nyilatkozattétele esetén a vagyonnyilatkozat-tételi kötelezettséggel érintett családtag családi- és utóneve neve, tisztsége
+
+## A) rész4
 
 ## VAGYONI NYILATKOZAT
 
-## I. Ingatlanok (kivéve a nyilatkozatot adó, valamint a vele közös háztartásban élő házastársa vagy élettársa és gyermeke(i) kizárólagos használatára fenntartott ingatlant)2
+## I. Ingatlanok5
 
-## 1. Ingatlan:
+## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is)
 
-## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+## b) Az ingatlan területnagysága
 
-## b) Az ingatlan területnagysága:
+## c) Művelési ága (vagy a művelés alól kivett terület elnevezése)
 
-## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
+## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete
 
-## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
+## e) Az ingatlan jogi jellege (családi ház, társasház, szövetkezeti ház, műemlék, műhely, üzlet, műterem, rendelő, garázs, bányatelek stb.)
 
-## e) Az ingatlan jogi jellege (családi ház, társasház, szövetkezeti ház, műemlék, műhely, üzlet, műterem, rendelő, garázs, bányatelek stb.):
+## f) A nyilatkozó jogállása (tulajdonos, állandó, illetve tartós használó, haszonélvező, bérlő stb.)
 
-## f) A nyilatkozó jogállása (tulajdonos, állandó, illetve tartós használó, haszonélvező, bérlő stb.):
+## g) Közös tulajdon esetén a tulajdoni hányad mértéke
 
-## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
+## h) A szerzés jogcíme, ideje (a jogviszony kezdete), ellenértéke
 
-## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-
-## 2. Ingatlan:
-
-## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
-
-## b) Az ingatlan területnagysága:
-
-## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
-
-## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
-
-## e) Az ingatlan jogi jellege (családi ház, társasház, szövetkezeti ház, műemlék, műhely, üzlet, műterem, rendelő, garázs, bányatelek stb.):
-
-## f) A nyilatkozó jogállása (tulajdonos, állandó, illetve tartós használó, haszonélvező, bérlő stb.):
-
-## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
-
-## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-
-## 3. Ingatlan:
-
-## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
-
-## b) Az ingatlan területnagysága:
-
-## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
-
-## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
-
-## e) Az ingatlan jogi jellege (családi ház, társasház, szövetkezeti ház, műemlék, műhely, üzlet, műterem, rendelő, garázs, bányatelek stb.):
-
-## f) A nyilatkozó jogállása (tulajdonos, állandó, illetve tartós használó, haszonélvező, bérlő stb.):
-
-## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
-
-## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-
-## 4. Ingatlan:
-
-## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
-
-## b) Az ingatlan területnagysága:
-
-## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
-
-## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
-
-## e) Az ingatlan jogi jellege (családi ház, társasház, szövetkezeti ház, műemlék, műhely, üzlet, műterem, rendelő, garázs, bányatelek stb.):
-
-## f) A nyilatkozó jogállása (tulajdonos, állandó, illetve tartós használó, haszonélvező, bérlő stb.):
-
-## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
-
-## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-
-## II. Nagy értékű3 ingóságok
+## II. Nagy értékű6 ingóságok
 
 ## 1. Gépjárművek:
 
-## a) személygépkocsi: .......................................................................................... típus
+## a) személygépkocsi, típusa, szerzés ideje, jogcíme
 
-## a szerzés ideje, jogcíme: ............................................................................... típus
+## b) tehergépjármű, autóbusz, típusa, szerzés ideje, jogcíme
 
-## a szerzés ideje, jogcíme: ............................................................................... típus
+## c) motorkerékpár típusa, szerzési ideje, jogcíme
 
-## a szerzés ideje, jogcíme: ...............................................................................
-
-## b) tehergépjármű, autóbusz: .............................................................................. típus
-
-## a szerzés ideje, jogcíme: ............................................................................... típus
-
-## a szerzés ideje, jogcíme: ............................................................................... típus
-
-## a szerzés ideje, jogcíme: ................................................................................
-
-## c) motorkerékpár: ............................................................................................. típus
-
-## a szerzés ideje, jogcíme: ............................................................................... típus
-
-## a szerzés ideje, jogcíme: ............................................................................... típus
-
-## a szerzés ideje, jogcíme: ...............................................................................
-
-## 2. Vízi vagy légi jármű:
-
-## a) jellege:
-
-## típusa:
-
-## a szerzés ideje, jogcíme:
-
-## b) jellege:
-
-## típusa:
-
-## a szerzés ideje, jogcíme:
+## 2. Vízi vagy légi jármű jellege, típusa, szerzés ideje, jogcíme:
 
 ## 3. Védett műalkotás, védett gyűjtemény:
 
-## a) egyedi alkotások:
+## a) egyedi alkotások megnevezése, szerzés ideje, jogcíme:
 
-## megnevezés: ............................................................................................................................... db
+## b) gyűjtemény megnevezése, szerzés ideje, jogcíme
 
-## a szerzés ideje, jogcíme:
+## 4. Egyéb nagy értékű ingóság megnevezése, szerzés ideje, jogcíme
 
-## megnevezés: ............................................................................................................................... db
+## III. Követelések (ha az releváns, átváltási árfolyammal7)
 
-## a szerzés ideje, jogcíme:
+## 1. Értékpapírban elhelyezett megtakarítás8 vagy egyéb befektetés (részvény, kötvény, részjegy, kincstárjegy, vagyonjegy, részesedés magántőkealapban, biztosítás stb.) esetén megnevezés (ISIN kód, ha van), értéke (névérték, biztosítási összeg),
 
-## megnevezés: ............................................................................................................................... db
+## 2. Hitelintézeti számlakövetelés és bankbetétben elhelyezett megtakarítás összege, forintban és devizában bontva, külföldi hitelintézeti számlakövetelés vagy bankbetét esetén a pénzintézet(ek) SWIFT/BIC kódja, átváltási árfolyama
 
-## a szerzés ideje, jogcíme:
+## 3. Készpénz összesen9, forintban és devizában bontva (átváltási árfolyammal)
 
-## b) gyűjtemény:
+## 4. Más, szerződés alapján fennálló követelések (pl. pénzkövetelés10, ingatlanon vagy vagyoni részesedésen fennálló vételi jog) megnevezése, követelés jogcíme és szerződés ideje
 
-## megnevezés: ............................................................................................................................... db
+## IV. Tartozások11
 
-## a szerzés ideje, jogcíme:
+## 1. Köztartozás12 jellege (adó, vám, illeték, tb-járulék stb.), összege
 
-## megnevezés: ............................................................................................................................... db
+## 2. Hitelintézettel szembeni tartozás összege (hitel, kölcsön stb.), forintban és devizában bontva (átváltási árfolyammal):
 
-## a szerzés ideje, jogcíme:
+## 3. Magánszemélyekkel szembeni tartozás összege, forintban és devizában bontva (átváltási árfolyammal)
 
-## megnevezés: ............................................................................................................................... db
+## V. Jogszabály szerint jogszerűen elfogadott protokoll ajándék13 megnevezése, ajándékozó neve
 
-## a szerzés ideje, jogcíme:
+## VI. Egyéb közlendők14
 
-## 4. Egyéb ingóság:
-
-## a) megnevezés:
-
-## a szerzés ideje, jogcíme:
-
-## b) megnevezés:
-
-## a szerzés ideje, jogcíme:
-
-## c) megnevezés:
-
-## a szerzés ideje, jogcíme:
-
-## d) megnevezés:
-
-## a szerzés ideje, jogcíme:
-
-## e) megnevezés:
-
-## a szerzés ideje, jogcíme:
-
-## 5. Értékpapírban elhelyezett megtakarítás vagy egyéb befektetés (részvény, kötvény, részjegy, kincstárjegy, vagyonjegy, részesedés magántőkealapban, biztosítás stb.):
-
-## a) megnevezés:
-
-## névérték, biztosítási összeg:
-
-## b) megnevezés:
-
-## névérték, biztosítási összeg:
-
-## c) megnevezés:
-
-## névérték, biztosítási összeg:
-
-## d) megnevezés:
-
-## névérték, biztosítási összeg:
-
-## e) megnevezés:
-
-## névérték, biztosítási összeg:
-
-## 6. Takarékbetétben elhelyezett megtakarítás4: .................................................................................................. Ft
-
-## Átváltási árfolyam: ......................................................................
-
-## 7. Készpénz5: ...................................................................................... Ft
-
-## Átváltási árfolyam: ......................................................................
-
-## 8. Hitelintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
-
-## a) hitelintézeti számlakövetelés:
-
-## forintban:
-
-## devizában (forintértéken):
-
-## átváltási árfolyam6:
-
-## b) más szerződés alapján fennálló pénzkövetelés összege7: ....................................................... Ft
-
-## átváltási árfolyam:
-
-## 9. Más vagyontárgy:
-
-## a) megnevezés:
-
-## b) megnevezés:
-
-## c) megnevezés:
-
-## d) megnevezés:
-
-## e) megnevezés:
-
-## III. Tartozások8
-
-## Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a hitelintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
-
-## 1. Köztartozás (adó, vám, illeték, tb-járulék stb.): ............................................................................................... Ft
-
-## Átváltási árfolyam: ......................................................................
-
-## 2. Hitelintézettel szembeni tartozás (hitel, kölcsön stb.): ................................................................................ Ft
-
-## Átváltási árfolyam: ......................................................................
-
-## 3. Magánszemélyekkel szembeni tartozás: .......................................................................................................... Ft
-
-## Átváltási árfolyam: ......................................................................
-
-## IV. Egyéb közlendők
-
-## ....................................................................................................................................................................................
-
-## ....................................................................................................................................................................................
-
-## ....................................................................................................................................................................................
-
-## ....................................................................................................................................................................................
-
-## ....................................................................................................................................................................................
-
-## ....................................................................................................................................................................................
-
-## B) rész9
+## B) rész15
 
 ## JÖVEDELEMNYILATKOZAT
 
-## (az országgyűlési képviselő javadalmazásán kívüli adóköteles jövedelmek)
+## az országgyűlési képviselő, valamint az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselő javadalmazásán kívüli adóköteles jövedelmeiről
 
-## I. A nyilatkozatot adó a nyilatkozattételi kötelezettségét megalapozó megbízatásának keletkezését megelőző három évben végzett foglalkozása(i), állami, önkormányzati és gazdasági tisztsége(i) vagy megbízatása(i), valamint gazdálkodó szervezetben10 vagy más, jogi személyben és jogi személyiséggel nem rendelkező egyéb szervezetben vállalt tagsága(i)
+## I. A nyilatkozatot adónak a vagyonnyilatkozat-tételi kötelezettséget előíró törvény által meghatározott időpont szerinti fennálló állapotot megelőző három évben végzett foglalkozása(i), állami, önkormányzati és gazdasági tisztsége(i) vagy megbízatása(i), valamint gazdálkodó szervezetben16 vagy más, jogi személyben vagy jogi személyiséggel nem rendelkező egyéb szervezetben vállalt tagsága(i)
 
-## | Foglalkozás, megbízatás, tisztség vagy | Díjazás nélküli | Jövedelmi kategóriák11 | tagság12 | | 1 | 2 | 3 | 4 | 5 | 1. | | | | | | | 2. | | | | | | | 3. | | | | | | | 4. | | | | | |
+## | | Foglalkozás, megbízatás, tisztség vagy tagság17 | Díjazás nélküli | Havi átlagos jövedelem összege18 | 1 | | | | 2 | | | | 3 | | | | 4 | | |
 
-## II. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló foglalkozása(i), illetve rendszeres tevékenysége(i), amely(ek)ből adóköteles jövedelme származik
+## II. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló foglalkozása(i), illetve rendszeres vagy alkalmankénti tevékenysége(i), amely(ek)ből adóköteles jövedelme származik
 
-## | Foglalkozás, tevékenység13 | Jövedelmi kategóriák | | 1 | 2 | 3 | 4 | 5 | 1. | | | | | | 2. | | | | | | 3. | | | | | | 4. | | | | |
-
-## III. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló, alkalmankénti, díjazással járó tevékenysége(i), amennyiben az összes alkalmankénti tevékenységekért járó díjazás teljes összege egy naptári évben meghaladja a 2 000 000 forintot
-
-## | Alkalmankénti tevékenységek, amennyiben a díjazás teljes | Jövedelmi kategóriák | összege egy naptári évben meghaladja a 2 000 000 forintot14 | 1 | 2 | 3 | 4 | 5 | 1. | | | | | | 2. | | | | | | 3. | | | | | | 4. | | | | |
+## | | Foglalkozás, tevékenység19 | Havi átlagos jövedelem összege | 1 | | | 2 | | | 3 | | | 4 | | | 5 | |
 
 ## C) rész
 
 ## GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
 
-## I. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló gazdálkodó szervezetben15, jogszabály által létrehozott testületben vállalt tagsága(i) (ideértve a pártoló, illetve a tiszteletbeli tagságot is), tisztsége(i), valamint bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállása(i)
+## I. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló gazdálkodó szervezetben20, jogszabály által létrehozott testületben vállalt tagsága(i) (ideértve a pártoló, illetve a tiszteletbeli tagságot is), tisztsége(i), valamint bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállása(i)
 
-## | Tagság, tisztség, tevékenység, valamint vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállás16 | Díjazás nélküli | Jövedelmi kategóriák | | | 1 | 2 | 3 | 4 | 5 | 1. | | | | | | | 2. | | | | | | | 3. | | | | | | | 4. | | | | | |
+## | | Tagság, tisztség, tevékenység, valamint vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállás21 | Díjazás nélküli | Havi átlagos jövedelem összege22 | 1 | | | | 2 | | | | 3 | | | | 4 | | | | 5 | | |
 
 ## II. A nyilatkozatot adónak a nyilatkozat megtételekor fennálló bármilyen olyan érdekeltsége(i) gazdasági társaságban, amely(ek) befolyást gyakorolhat(nak) a közpolitikával kapcsolatos kérdésekre, illetve olyan tulajdoni érdekeltsége(i), amely(ek) meghatározó befolyást biztosít(anak) számára gazdasági társaság ügyei tekintetében
 
-## | Közpolitikával kapcsolatoskérdésekre esetleg befolyást | Meghatározóbefolyást biztosító | Díjazás nélküli | Jövedelmi kategóriák | gyakorló érdekeltség vagygazdasági társaság17 | tulajdoni érdekeltségaránya | | 1 | 2 | 3 | 4 | 5 | 1. | | | | | | | | 2. | | | | | | | | 3. | | | | | | | | 4. | | | | | | |
+## | | Közpolitikával kapcsolatos kérdésekre esetleg befolyást gyakorló érdekeltség vagy gazdasági társaság23 (a meghatározó befolyást biztosító tulajdoni érdekeltség arányát zárójelben kell jelölni) | Díjazás nélküli | Havi átlagos jövedelem összege | 1 | | | | 2 | | | | 3 | | | | 4 | | | | 5 | | |
+
+## III. Egyéb érdekek, amelyekről alappal feltételezhető, hogy azok észszerűen befolyásolhatják a vagyonnyilatkozat-tételi kötelezettséggel érintett tisztségviselő feladatellátását24
+
+## IV. A nyilatkozattétel helye, kelte
 
 ## ***
 
-## Kelt: ..................................., ......... év ............................... hó ....... nap
+## Jelen nyilatkozathoz csatoltam a velem közös háztartásban élő hozzátartozóm/hozzátartozóim nyilatkozatát/nyilatkozatait.25
 
-## ....................................................................
+## Jelen nyilatkozatomat, mint országgyűlési képviselővel vagy az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselővel közös háztartásban élő hozzátartozó adom.26
 
-## aláírás helye
+## ***
 
-## Jelen nyilatkozathoz csatoltam a velem közös háztartásban élő házas-/élettársam, valamint a velem közös háztartásban élő gyermeke(i)m, nyilatkozatát/nyilatkozatait18.
+## [1] A vagyonnyilatkozat-tételre kötelezett személy családtagjának minősül a vele azonos – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti – bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező hozzátartozója.
 
-## Jelen nyilatkozatomat, mint országgyűlési képviselővel19 közös háztartásban élő házas-/élettárs/gyermek adom.
+## [2] E vagyonnyilatkozat alkalmazásában a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.) 8:1. § (1) bekezdés 2. pontja szerinti – ’hozzátartozó’ fogalma, illetve a ’családtag’ fogalma megegyezőek.
 
-## 1 Csak a saját személyére vonatkozó adatokat töltse ki!
+## [3] Csak a saját személyére vonatkozó adatokat töltse ki!
 
-## 2 Az ingatlan-nyilvántartási adatokkal megegyezően kell kitölteni! Nem kell feltüntetni azt az ingatlant, amelyet a nyilatkozatot adó, illetve családtagja életvitelszerűen vagy tartós jelleggel lakhatás céljából használ; ugyanakkor ez alapján legfeljebb egy ingatlan feltüntetése mellőzhető.
+## [4] Amennyiben e vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat bármely részénél a nyilatkozatot adónak több adatot kell feltüntetnie, azt külön kell megadni a nyilatkozat vonatkozó részével megegyező tartalmi struktúra szerint.
 
-## 3 Nagy értékűnek minősül az ingóság, ha értéke eléri az 5 millió forintot.
+## [5] Az ingatlan-nyilvántartási adatokkal megegyezően kell kitölteni! Fel kell tüntetni a Magyarország joghatóságán kívül található ingatlant is. Fel kell tüntetni azt az ingatlant is, amelyet a vagyonnyilatkozat-tételi kötelezettséget előíró törvény által meghatározott dátum szerinti fennálló állapotot megelőző évben szerzett a nyilatkozatot adó személy.
 
-## 4 Külföldi pénznemben elhelyezett megtakarítás esetén a megtakarítás összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán szükséges forintértéken megadni, és az átváltási árfolyamot megjelölni.
+## [6] Nagy értékűnek minősül az ingóság, ha értéke eléri az 5 millió forintot.
 
-## 5 Külföldi pénznemben lévő készpénz esetén a készpénz összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán szükséges forintra átváltani, és az átváltási árfolyamot megjelölni.
+## [7] A vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamát kell alkalmazni az átváltási árfolyam megjelöléséhez. Az átváltási árfolyam valamennyi alábbi részre vonatkozik – akkor is, ha ennél a résznél nem releváns!
 
-## 6 A vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamát szükséges alkalmazni, és az átváltási árfolyamot megjelölni.
+## [8] Külföldi pénznemben elhelyezett megtakarítás esetén a megtakarítás összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán kell forintértékben megadni.
 
-## 7 Külföldi pénznemben fennálló pénzkövetelés esetén a pénzkövetelés összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán szükséges forintértéken megadni, és az átváltási árfolyamot megjelölni.
+## [9] Külföldi pénznemben lévő készpénz esetén a készpénz összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán kell forintértékben kell megadni.
 
-## 8 Külföldi pénznemben fennálló tartozás esetén a tartozás összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán szükséges forintértéken megadni, és az átváltási árfolyamot megjelölni.
+## [10] Csak a 100 ezer Ft feletti tételeket szükséges feltüntetni. Külföldi pénznemben fennálló pénzkövetelés esetén a pénzkövetelés összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán kell forintértékben megadni.
 
-## 9 Csak az országgyűlési képviselő tölti ki!
+## [11] Külföldi pénznemben fennálló tartozás esetén a tartozás összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán szükséges forintértéken megadni.
 
-## 10 Gazdálkodó szervezet a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti szervezet, ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítványokat is.
+## [12] Csak a 100 ezer Ft feletti tételeket szükséges feltüntetni.
 
-## 11 Az egyes tételek bevallásakor jelezni kell, hogy a nyilatkozatot tevő azért díjazásban részesül-e vagy sem; illetve díjazás esetén a B) rész I., II. és III. pontjaiban, valamint a C) rész I. és II. pontjaiban az alábbi jövedelmi kategóriák egyikét is fel kell tüntetni: 1. havi bruttó 1 és 200 000 Ft között; 2. havi bruttó 200 001 és 500 000 Ft között; 3. havi bruttó 500 001 és 1 000 000 Ft között; 4. havi bruttó 1 000 001 és 5 000 000 Ft között; 5. havi 5 000 000 Ft felett a millióra kerekített összeg megjelölésével. A nyilatkozatban bevallott egyes tételekből származó, de nem rendszeresen kapott jövedelmet éves alapon kell kiszámítani, el kell osztani tizenkettővel, és be kell sorolni a fenti kategóriák egyikébe.
+## [13] Csak az országgyűlési képviselő, valamint az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselő által kitöltendő.
 
-## 12 Kizárólag a jelenlegi megbízatás keletkezését megelőző három évben végzett foglalkozásról, megbízatásról, tisztségről, illetve vállalt tagságról kell nyilatkozni, a korábbi országgyűlési képviselői tisztséget is beleértve.
+## [14] Egyéb közlendőnek minősül például a vagyoni helyzet változásához fűzött kiegészítő magyarázat.
 
-## 13 Az alábbiak feltüntetése szükséges: a) A tevékenység megjelölése; b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek)
+## [15] Csak az országgyűlési képviselő, valamint az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselő által kitöltendő.
 
-## 14 Az alábbiak feltüntetése szükséges: a) A tevékenység megjelölése; b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek)
+## [16] Gazdálkodó szervezet a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti szervezet, ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítványokat is.
 
-## 15 Gazdálkodó szervezet a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti szervezet, ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítványokat is.
+## [17] A vagyonnyilatkozat-tételi kötelezettséget előíró törvény által meghatározott dátum szerinti fennálló állapotot megelőző három évben végzett foglalkozásról, megbízatásról, tisztségről, illetve vállalt tagságról kell nyilatkozni, a korábbi országgyűlési képviselői vagy más közhivatali tisztséget is beleértve.
 
-## 16 Az alábbiak feltüntetése szükséges: a) A gazdálkodó szervezet, testület neve vagy vagyonkezelői jogviszony megjelölése; b) Tagság (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.), tisztség, tevékenység megjelölése
+## [18] Az egyes tételek bevallásakor jelezni kell, hogy a nyilatkozatot tevő azért díjazásban részesült-e vagy sem; illetve díjazás esetén a fel kell tüntetni a szerzett jövedelmet. A nyilatkozatban bevallott egyes tételekből származó, de nem rendszeresen kapott jövedelmet éves alapon kell kiszámítani, el kell osztani tizenkettővel. Külföldi pénznemben kapott jövedelem esetén a jövedelem összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán kell forintértékben megadni.
 
-## 17 Az alábbiak feltüntetése szükséges: a) A gazdasági társaság neve; b) Az érdekeltség formája (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.)
+## [19] Az alábbiak feltüntetése szükséges: a) a tevékenység megjelölése; b) a kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek).
 
-## 18 Csak az országgyűlési képviselő tölti ki!
+## [20] Gazdálkodó szervezet a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti szervezet, ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítványokat is.
 
-## 19 Csak az országgyűlési képviselővel közös háztartásban élő házas-/élettárs vagy gyermek tölti ki!
+## [21] Az alábbiak feltüntetése szükséges: a) a gazdálkodó szervezet, testület neve vagy vagyonkezelői jogviszony megjelölése; b) tagság (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.), tisztség, tevékenység megjelölése.
+
+## [22] Az egyes tételek bevallásakor jelezni kell, hogy a nyilatkozatot tevő azért díjazásban részesült-e vagy sem; illetve díjazás esetén fel kell tüntetni a szerzett jövedelmet. A nyilatkozatban bevallott egyes tételekből származó, de nem rendszeresen kapott jövedelmet éves alapon kell kiszámítani, el kell osztani tizenkettővel. Külföldi pénznemben kapott jövedelem esetén a jövedelem összegét a vagyonnyilatkozat kitöltésének napján aktuális, a Magyar Nemzeti Bank hivatalos devizaárfolyamán kell forintértékben megadni.
+
+## [23] Az alábbiak feltüntetése szükséges: a) a gazdasági társaság neve; b) az érdekeltség formája (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.).
+
+## [24] Egyéb érdeknek minősül különösen a korábbi beosztás, érdekképviseleti vagy civil tevékenység, továbbá a nyilatkozatot adó személlyel közös háztartásban nem élő, a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozó vagy hozzátartozó által folytatott politikai vagy jelentős hatású gazdasági vagy egyéb közéleti tevékenység, amelyről alappal feltételezhető, hogy az befolyásolhatja a vagyonnyilatkozat-tételi kötelezettséggel érintett személy feladatellátását.
+
+## [25] Csak az országgyűlési képviselő vagy az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselő jelöli!
+
+## [26] Csak az országgyűlési képviselővel vagy az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselővel közös háztartásban élő hozzátartozó jelöli!
 
 2. melléklet a 2012. évi XXXVI. törvényhez
 

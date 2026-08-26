@@ -1,5 +1,11 @@
 94/A. § (1) A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. A kezdeményezésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
 
+(1a) A Mentelmi Bizottság elnöke a képviselő vagyonnyilatkozatával kapcsolatos eljárást akkor is megindítja, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a képviselő a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
+
+(1b) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében a képviselő vagyonnyilatkozata kapcsán az (1a) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, a Mentelmi Bizottság a jelentés megállapításainak figyelembevételével az eljárást az (1a) bekezdés szerint haladéktalanul lefolytatja. Ha a Mentelmi Bizottság megállapítja, hogy a hiányosság feltárása megalapozott, kezdeményezi a házelnöknél a képviselő tiszteletdíja 47. § szerinti csökkentését.
+
+(1c) Az 51. §-tól eltérően az (1b) bekezdés szerinti döntéssel szemben az érintett képviselő a döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől a döntés hatályon kívül helyezését. Az Országgyűlés a kérelemről vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
 (2) A Mentelmi Bizottság elnöke nem indítja meg a képviselő vagyonnyilatkozatával kapcsolatos eljárást, és erről tájékoztatja a Mentelmi Bizottságot, ha
 
 a) a kezdeményezés nem felel meg az (1) bekezdésben meghatározott feltételeknek,
