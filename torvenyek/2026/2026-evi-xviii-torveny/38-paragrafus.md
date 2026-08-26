@@ -1,1 +1,11 @@
-### 38. §
+38. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 209. §-a a következő (4)–(8) bekezdéssel egészül ki:
+
+„(4) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozatával összefüggésben vizsgálatot indít, az ezen adatokat tartalmazó borítékok felbontását követően a személyi és vagyoni rész adatait egymáshoz kell rendelni.
+
+(5) Ha az Integritás Hatóság a (4) bekezdés vizsgálata alapján hozott jelentésében azt állapítja meg, hogy a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a (2) bekezdés szerinti vizsgálóbizottság az ellenőrzést haladéktalanul lefolytatja, továbbá a (2) bekezdésben foglalt tájékoztatáson túl, annak eredményéről – így különösen a megtett intézkedésekről – az Integritás Hatóságot is tájékoztatja.
+
+(6) Ha az Integritás Hatóság a (4) bekezdés szerinti vizsgálata alapján hozott jelentésében a Kúria elnöke vagy az OBH elnöke vagyonnyilatkozata kapcsán az (5) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor a csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, kezdeményezi az (5) bekezdés szerinti vizsgálóbizottság eljárását, amely az ellenőrzést haladéktalanul lefolytatja, és ha az Integritás Hatóság (4) bekezdés szerinti vizsgálata alapján hozott jelentésében feltárt hiányosság megalapozott, – a felrótt mulasztás súlyának figyelembevételével – százezertől ötmillió forintig terjedő bírság megállapításáról dönt. A bírság teljesítését úgy kell biztosítani, hogy az a központi költségvetés bíróságokra vonatkozó fejezete működési költségvetésének bevételét képezze.
+
+(7) A Kúria elnöke vagy OBH elnöke a bírságról szóló döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől – a házelnökhöz benyújtott kérelemmel – a döntés hatályon kívül helyezését. A kérelemről az Országgyűlés vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.
+
+(8) Az Országgyűlés a (7) bekezdés szerinti kérelem esetén a vizsgálóbizottság döntését hatályában fenntarthatja, vagy a kérelemnek helyt adva azt hatályon kívül helyezheti.”

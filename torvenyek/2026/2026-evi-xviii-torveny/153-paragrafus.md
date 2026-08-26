@@ -1,1 +1,3 @@
-### 153. §
+153. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 9. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A vagyonnyilatkozat-tételi kötelezettségek ellenőrzésével összefüggő feladatkörei ellátása érdekében a Hatóság az integritáskockázat-értékelése keretében – az ellenőrzések prioritásának és gyakoriságának meghatározása céljából – folyamatosan azonosítja a vagyonnyilatkozat-tételre kötelezett személyek közül azokat, akik tekintetében az integritáskockázat mértéke magas. Az ezen értékelés során a Hatóság különösen a betöltött tisztség, feladatkör alkotmányos súlyát, illetve az ezzel kapcsolatos, az integritásban jelentkező sérülékenység mértékét veszi figyelembe.”

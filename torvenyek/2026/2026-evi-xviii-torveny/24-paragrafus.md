@@ -1,1 +1,5 @@
-### 24. §
+24. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 15. alcíme a következő 45/H. §-sal egészül ki:
+
+„45/H. § (1) Az alapvető jogok biztosa és helyettese az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(2) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.”

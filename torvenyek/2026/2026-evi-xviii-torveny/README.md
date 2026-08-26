@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2026-18-00-00
 | 2026-07-16 | 2010. évi CXXX. törvény | 2026-18-00-00.4 |
 | 2026-08-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2026-18-00-00.5 |
 | 2026-08-21 | 2010. évi CXXX. törvény | 2026-18-00-00.6 |
+| 2026-08-26 | 2026. évi XXXV. törvény | 2026-18-00-00.7 |
