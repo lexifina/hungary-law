@@ -87,3 +87,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2026-06-27 | 2026. évi XXIII. törvény | 2012-100-00-00.82 |
 | 2026-07-01 | 2025. évi CXVIII. törvény | 2012-100-00-00.78 |
 | 2026-08-07 | 2026. évi XXXVIII. törvény | 2012-100-00-00.84 |
+| 2026-08-26 | 2026. évi XVIII. törvény | 2012-100-00-00.81 |
