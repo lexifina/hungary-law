@@ -2,7 +2,7 @@
 
 Elnök: Schummer Orsolya (TISZA)
 
-Alelnökök: Szűcs Gábor (Fidesz)
+Alelnökök: Zsigó Róbert (Fidesz)[^2]
 
 Novák Előd (Mi Hazánk)
 
@@ -13,3 +13,5 @@ Kalázdi-Kerekes Kinga (TISZA)
 Dr. Máthé Zsuzsa (KDNP)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
+
+[^2]: Az 51/2026. (VIII. 27.) OGY határozat 1. pontjával megállapított szöveg.
