@@ -1,4 +1,4 @@
-83. §[^208] (1) A 80. § (2) bekezdés b) pontja szerinti esetben a kedvezményezett – felhívás eltérő rendelkezése hiányában – valamely hitelintézetnél a (2)–(6) bekezdés szerinti fizetési számlát (a továbbiakban: projektszámla) nyit.
+83. §[^210] (1) A 80. § (2) bekezdés b) pontja szerinti esetben a kedvezményezett – felhívás eltérő rendelkezése hiányában – valamely hitelintézetnél a (2)–(6) bekezdés szerinti fizetési számlát (a továbbiakban: projektszámla) nyit.
 
 (2) A 80. § (8) bekezdése szerinti fizetési számlával nem rendelkező kedvezményezettnek a projektszámlát az előleg és az abból történő kifizetés teljesítése érdekében az előleg iránti kérelem benyújtásáig kell megnyitnia.
 
@@ -12,4 +12,4 @@
 
 (7) A projektszámlára kifizetett előlegek tekintetében kizárólag a támogatási döntésben meghatározottak megvalósítása érdekében adható fizetési megbízás.
 
-[^208]: A 83. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
+[^210]: A 83. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.

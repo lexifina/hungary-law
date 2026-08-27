@@ -1,4 +1,4 @@
-94/A. §[^243] A kifizetési kérelem vizsgálata során a Nemzeti Kifizető Ügynökség a 6. mellékletben foglalt szempontok ellenőrzését végzi, figyelemmel a következőkre:
+94/A. §[^245] A kifizetési kérelem vizsgálata során a Nemzeti Kifizető Ügynökség a 6. mellékletben foglalt szempontok ellenőrzését végzi, figyelemmel a következőkre:
 
 a) a művelet támogatási okiratnak megfelelő fizikai és pénzügyi előrehaladása és azok összhangja,
 
@@ -16,4 +16,4 @@ g) a benyújtott számlán szereplő teljesítés összhangban van-e a versenyez
 
 h) az elszámolásra benyújtott költségek szokásos piaci árnak való megfelelése.
 
-[^243]: A 94/A. §-t a 48/2024. (IX. 5.) AM rendelet 27. §-a iktatta be.
+[^245]: A 94/A. §-t a 48/2024. (IX. 5.) AM rendelet 27. §-a iktatta be.

@@ -1,15 +1,15 @@
 ## 26. Kamatfizetési kötelezettség
 
-52. § (1)[^143] A kedvezményezett a KAP törvény 37. § (4) és (5) bekezdése szerint késedelmi kamatot fizet.
+52. § (1)[^145] A kedvezményezett a KAP törvény 37. § (4) és (5) bekezdése szerint késedelmi kamatot fizet.
 
 (2) A kamat mértéke a kamatszámítás időszakának minden napjára a mindenkori jegybanki alapkamat kétszeresének 365-öd része.
 
-(3)[^144] A kamatszámítás kezdő időpontja a teljesítési határidő utolsó napját követő nap, részleges teljesítés esetén a hátralékra számítva.
+(3)[^146] A kamatszámítás kezdő időpontja a teljesítési határidő utolsó napját követő nap, részleges teljesítés esetén a hátralékra számítva.
 
-(4)[^145] A kamatszámítás záró időpontja a visszafizetés napja.
+(4)[^147] A kamatszámítás záró időpontja a visszafizetés napja.
 
 (5) Késedelmi kamat felszámítása esetén a késedelmi kamat alapját támogatásonként külön-külön kell figyelembe venni. Utólagos ellenőrzés során megállapított késedelmi kamat legfeljebb három évre számítható fel. A kedvezményezett a késedelmi kamatot saját számítása szerint, az értesítéstől függetlenül is megfizetheti.
 
-[^143]: Az 52. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^144]: Az 52. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^145]: Az 52. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^145]: Az 52. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^146]: Az 52. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^147]: Az 52. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

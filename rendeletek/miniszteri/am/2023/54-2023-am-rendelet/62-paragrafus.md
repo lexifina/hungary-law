@@ -1,5 +1,5 @@
-## 31.[^165]
+## 31.[^167]
 
 62. §
 
-[^165]: A 31. alcímet (62. §-t) a 24/2024. (IV. 9.) AM rendelet 34. § 17. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^167]: A 31. alcímet (62. §-t) a 24/2024. (IV. 9.) AM rendelet 34. § 17. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.

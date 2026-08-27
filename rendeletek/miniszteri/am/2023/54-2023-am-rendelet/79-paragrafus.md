@@ -1,8 +1,8 @@
-79. § (1)[^195] A támogatási kérelemben bejelentett adatok változásán kívül a kedvezményezettnek az agrártámogatási jogviszony időtartama alatt – a felhívás eltérő rendelkezése hiányában – legfeljebb négy alkalommal van lehetősége változás-bejelentés benyújtására, amelyből kettő vonatkozhat a beruházás műszaki-szakmai tartalmának módosítására. Az ezen felüli változás-bejelentéseket a támogató visszautasítja. Technikai segítségnyújtás céljára biztosított forrás felhasználása esetén a kedvezményezett által szükségesnek ítélt számban van lehetőség változás-bejelentés benyújtására.
+79. § (1)[^197] A támogatási kérelemben bejelentett adatok változásán kívül a kedvezményezettnek az agrártámogatási jogviszony időtartama alatt – a felhívás eltérő rendelkezése hiányában – legfeljebb négy alkalommal van lehetősége változás-bejelentés benyújtására, amelyből kettő vonatkozhat a beruházás műszaki-szakmai tartalmának módosítására. Az ezen felüli változás-bejelentéseket a támogató visszautasítja. Technikai segítségnyújtás céljára biztosított forrás felhasználása esetén a kedvezményezett által szükségesnek ítélt számban van lehetőség változás-bejelentés benyújtására.
 
 (2) Az (1) bekezdés szerinti bejelentést a következő alapelvek figyelembevételével kell elbírálni:
 
-a)[^196] a módosítás nem változtathatja meg a művelet célját,
+a)[^198] a módosítás nem változtathatja meg a művelet célját,
 
 b) a támogatási döntés akkor módosítható, ha a művelet az így módosított feltételekkel is támogatható lenne,
 
@@ -14,23 +14,23 @@ e) az elbírálásnál előnyt jelentő feltételeket kedvezőtlenül érintő m
 
 f) a módosítási igény nem kerülhet jóváhagyásra, ha az az előkészítésekor előre látható, tervezhető körülmény miatt merült fel, kivéve az alapvető célok teljesülését elősegítő, észszerűsítést célzó módosítások,
 
-g)[^197] a kedvezményezettnek felróható okból felmerülő, illetve a támogatási döntésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül, és
+g)[^199] a kedvezményezettnek felróható okból felmerülő, illetve a támogatási döntésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül, és
 
-h)[^198] építési tevékenységet tartalmazó művelet esetén a megvalósítási hely módosítására irányuló változás-bejelentés – a hatósági kötelezés miatt szükséges módosítás kivételével és felhívás eltérő rendelkezése hiányában – a támogatási döntés véglegessé válását követő 6 hónapon túl nem nyújtható be;
+h)[^200] építési tevékenységet tartalmazó művelet esetén a megvalósítási hely módosítására irányuló változás-bejelentés – a hatósági kötelezés miatt szükséges módosítás kivételével és felhívás eltérő rendelkezése hiányában – a támogatási döntés véglegessé válását követő 6 hónapon túl nem nyújtható be;
 
-i)[^199] a művelet végrehajtásának időtartama módosítására irányuló változás-bejelentés legfeljebb egy alkalommal hagyható jóvá;
+i)[^201] a művelet végrehajtásának időtartama módosítására irányuló változás-bejelentés legfeljebb egy alkalommal hagyható jóvá;
 
-j)[^200] a benyújtott változás-bejelentések közül egy változás-bejelentés több módosítás egyidejű bejelentésére is irányulhat.
+j)[^202] a benyújtott változás-bejelentések közül egy változás-bejelentés több módosítás egyidejű bejelentésére is irányulhat.
 
-(3)[^201] A (2) bekezdésben rögzített alapelveknek nem megfelelő változás-bejelentéseket a támogató visszautasítja.
+(3)[^203] A (2) bekezdésben rögzített alapelveknek nem megfelelő változás-bejelentéseket a támogató visszautasítja.
 
-(4)[^202] A visszautasított változás-bejelentés csökkenti a még benyújtható változás-bejelentések számát. A benyújtott változás-bejelentés a tárgyában hozott döntés kiküldéséig visszavonható, a 21. §-ban foglaltak figyelembevételével. Visszavonás esetén a még benyújtható változás-bejelentések száma nem csökken.
+(4)[^204] A visszautasított változás-bejelentés csökkenti a még benyújtható változás-bejelentések számát. A benyújtott változás-bejelentés a tárgyában hozott döntés kiküldéséig visszavonható, a 21. §-ban foglaltak figyelembevételével. Visszavonás esetén a még benyújtható változás-bejelentések száma nem csökken.
 
-[^195]: A 79. § (1) bekezdése a 48/2024. (IX. 5.) AM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^196]: A 79. § (2) bekezdés a) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 38. pontja szerint módosított szöveg.
-[^197]: A 79. § (2) bekezdés g) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 39. pontja szerint módosított szöveg.
-[^198]: A 79. § (2) bekezdés h) pontja a 48/2024. (IX. 5.) AM rendelet 15. § (2) bekezdésével megállapított, a 23/2025. (VI. 13.) AM rendelet 16. § 20. pontja szerint módosított szöveg.
-[^199]: A 79. § (2) bekezdés i) pontját a 48/2024. (IX. 5.) AM rendelet 15. § (3) bekezdése iktatta be.
-[^200]: A 79. § (2) bekezdés j) pontját a 48/2024. (IX. 5.) AM rendelet 15. § (3) bekezdése iktatta be.
-[^201]: A 79. § (3) bekezdését a 48/2024. (IX. 5.) AM rendelet 15. § (4) bekezdése iktatta be.
-[^202]: A 79. § (4) bekezdését a 48/2024. (IX. 5.) AM rendelet 15. § (4) bekezdése iktatta be.
+[^197]: A 79. § (1) bekezdése a 48/2024. (IX. 5.) AM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^198]: A 79. § (2) bekezdés a) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 38. pontja szerint módosított szöveg.
+[^199]: A 79. § (2) bekezdés g) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 39. pontja szerint módosított szöveg.
+[^200]: A 79. § (2) bekezdés h) pontja a 48/2024. (IX. 5.) AM rendelet 15. § (2) bekezdésével megállapított, a 23/2025. (VI. 13.) AM rendelet 16. § 20. pontja szerint módosított szöveg.
+[^201]: A 79. § (2) bekezdés i) pontját a 48/2024. (IX. 5.) AM rendelet 15. § (3) bekezdése iktatta be.
+[^202]: A 79. § (2) bekezdés j) pontját a 48/2024. (IX. 5.) AM rendelet 15. § (3) bekezdése iktatta be.
+[^203]: A 79. § (3) bekezdését a 48/2024. (IX. 5.) AM rendelet 15. § (4) bekezdése iktatta be.
+[^204]: A 79. § (4) bekezdését a 48/2024. (IX. 5.) AM rendelet 15. § (4) bekezdése iktatta be.

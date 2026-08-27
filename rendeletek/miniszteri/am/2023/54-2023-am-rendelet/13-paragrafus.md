@@ -10,7 +10,7 @@ aa) születési családi és utónevét, nemét,
 
 ab) állampolgárságát,
 
-ac)[^26] az adózás rendjéről szóló törvény szerinti adóazonosító jelét, egyéni vállalkozó esetében adószámát is,
+ac)[^27] az adózás rendjéről szóló törvény szerinti adóazonosító jelét, egyéni vállalkozó esetében adószámát is,
 
 ad) lakóhelyét, egyéni vállalkozó esetében székhelyét is,
 
@@ -36,7 +36,7 @@ ba) elnevezését, továbbá rövidített cégnevét,
 
 bb) képviseletére jogosult nevét, lakcímét, az adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
-bc)[^27] telephelyét vagy telephelyeit, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével,
+bc)[^28] telephelyét vagy telephelyeit, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével,
 
 bd) cégjegyzékszámát,
 
@@ -68,13 +68,13 @@ e) a kedvezményezett 15. § (2) bekezdése szerinti státuszát.
 
 (4) A KNYR-ben történő nyilvántartásba vétel iránti kérelem elektronikus felületen történő benyújtásának feltétele, hogy
 
-a)[^28] a természetes személy kérelmező rendelkezzen a DÁP tv. 46. § (5) bekezdése szerinti tárhellyel (a továbbiakban: tárhely);
+a)[^29] a természetes személy kérelmező rendelkezzen a DÁP tv. 46. § (5) bekezdése szerinti tárhellyel (a továbbiakban: tárhely);
 
-b)[^29] nem természetes személy kérelmező rendelkezzen a DÁP tv. 45. § (1) bekezdés b) pontja szerinti kézbesítési szolgáltatási címnek minősülő cégkapu (a továbbiakban: cégkapu tárhely) vagy hivatali kapu tárhellyel (a továbbiakban: hivatali kapu tárhely).
+b)[^30] nem természetes személy kérelmező rendelkezzen a DÁP tv. 45. § (1) bekezdés b) pontja szerinti kézbesítési szolgáltatási címnek minősülő cégkapu (a továbbiakban: cégkapu tárhely) vagy hivatali kapu tárhellyel (a továbbiakban: hivatali kapu tárhely).
 
-(5)[^30] A nem természetes személy képviseletében eljáró, elektronikus azonosítással és tárhellyel rendelkező természetes személy kérelmére a KNYR-ben történő nyilvántartásba vétel iránti kérelem benyújtását megelőzően a Nemzeti Kifizető Ügynökség jelszót állapít meg. A jelszót a Nemzeti Kifizető Ügynökség a cégkapu vagy hivatali kapu tárhelyre elektronikus úton küldi meg. A KNYR-ben történő nyilvántartásba vétel iránti kérelmet a nem természetes személy képviseletében eljáró, elektronikus azonosítással és tárhellyel rendelkező természetes személy a jelszó megküldését követően, a jelszó elektronikus felületen történő megadásával nyújthatja be.
+(5)[^31] A nem természetes személy képviseletében eljáró, elektronikus azonosítással és tárhellyel rendelkező természetes személy kérelmére a KNYR-ben történő nyilvántartásba vétel iránti kérelem benyújtását megelőzően a Nemzeti Kifizető Ügynökség jelszót állapít meg. A jelszót a Nemzeti Kifizető Ügynökség a cégkapu vagy hivatali kapu tárhelyre elektronikus úton küldi meg. A KNYR-ben történő nyilvántartásba vétel iránti kérelmet a nem természetes személy képviseletében eljáró, elektronikus azonosítással és tárhellyel rendelkező természetes személy a jelszó megküldését követően, a jelszó elektronikus felületen történő megadásával nyújthatja be.
 
-(6)[^31] A Nemzeti Kifizető Ügynökség a nyilvántartásba vétel iránti kérelmet visszautasítja, ha a benyújtott kérelem, illetve a bejelentett adatok valótlanok vagy hiányosak. Nem minősül hiányosnak a kérelem, ha nem tartalmazza a (2) bekezdés a) pont ah), ai) vagy aj) alpontjában, valamint b) pont bf), bj) vagy bk) alpontjában foglalt adatokat.
+(6)[^32] A Nemzeti Kifizető Ügynökség a nyilvántartásba vétel iránti kérelmet visszautasítja, ha a benyújtott kérelem, illetve a bejelentett adatok valótlanok vagy hiányosak. Nem minősül hiányosnak a kérelem, ha nem tartalmazza a (2) bekezdés a) pont ah), ai) vagy aj) alpontjában, valamint b) pont bf), bj) vagy bk) alpontjában foglalt adatokat.
 
 (7) Egy kedvezményezett részére csak egy támogatási azonosító állapítható meg.
 
@@ -96,9 +96,9 @@ f) a kérelemre történő nyilvántartásba vételről és a támogatási azono
 
 (10) A pénzügyi következményekkel járó intézkedésben való részvétel során a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: 2004. évi XXXIV. törvény) hatálya alá tartozó vállalkozás köteles a KNYR-be bejelenteni vállalkozása 2004. évi XXXIV. törvény 5. §-a szerinti minősítését.
 
-[^26]: A 13. § (2) bekezdés a) pont ac) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (1) bekezdésével megállapított, a 23/2025. (VI. 13.) AM rendelet 16. § 4. pontja szerint módosított szöveg.
-[^27]: A 13. § (2) bekezdés b) pont bc) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^28]: A 13. § (4) bekezdés a) pontja a 23/2025. (VI. 13.) AM rendelet 2. §-ával megállapított szöveg.
-[^29]: A 13. § (4) bekezdés b) pontja a 23/2025. (VI. 13.) AM rendelet 16. § 5. pontja szerint módosított szöveg.
-[^30]: A 13. § (5) bekezdése a 23/2025. (VI. 13.) AM rendelet 16. § 6. pontja szerint módosított szöveg.
-[^31]: A 13. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^27]: A 13. § (2) bekezdés a) pont ac) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (1) bekezdésével megállapított, a 23/2025. (VI. 13.) AM rendelet 16. § 4. pontja szerint módosított szöveg.
+[^28]: A 13. § (2) bekezdés b) pont bc) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^29]: A 13. § (4) bekezdés a) pontja a 23/2025. (VI. 13.) AM rendelet 2. §-ával megállapított szöveg.
+[^30]: A 13. § (4) bekezdés b) pontja a 23/2025. (VI. 13.) AM rendelet 16. § 5. pontja szerint módosított szöveg.
+[^31]: A 13. § (5) bekezdése a 23/2025. (VI. 13.) AM rendelet 16. § 6. pontja szerint módosított szöveg.
+[^32]: A 13. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

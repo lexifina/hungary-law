@@ -1,6 +1,6 @@
-82. §[^206] (1) A 80. § (2) bekezdés b) pontja szerinti mértéket meghaladó előleg biztosíték nyújtása mellett vehető igénybe. A biztosíték nyújtása mellett igényelt előleg folyósítása a kedvezményezett KNYR-ben nyilvántartott fizetési számlájára történik. Mentesül a biztosíték nyújtás kötelezettsége alól a helyi önkormányzat, a költségvetési szerv és a legalább többségi állami tulajdonú gazdasági társaság.
+82. §[^208] (1) A 80. § (2) bekezdés b) pontja szerinti mértéket meghaladó előleg biztosíték nyújtása mellett vehető igénybe. A biztosíték nyújtása mellett igényelt előleg folyósítása a kedvezményezett KNYR-ben nyilvántartott fizetési számlájára történik. Mentesül a biztosíték nyújtás kötelezettsége alól a helyi önkormányzat, a költségvetési szerv és a legalább többségi állami tulajdonú gazdasági társaság.
 
-(2)[^207] Ha a kedvezményezett több művelethez igényel a 80. § (2) bekezdés b) pontja szerinti mértéket meghaladó előleget, akkor minden egyes érintett támogatási okirathoz kapcsolódóan rendelkeznie kell a megfelelő mértékű biztosítékkal.
+(2)[^209] Ha a kedvezményezett több művelethez igényel a 80. § (2) bekezdés b) pontja szerinti mértéket meghaladó előleget, akkor minden egyes érintett támogatási okirathoz kapcsolódóan rendelkeznie kell a megfelelő mértékű biztosítékkal.
 
 (3) Biztosíték kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó hitelintézet által kiállított garanciavállaló nyilatkozat lehet. A biztosítéknak az előleg összegével megegyező összegűnek, és az előleg teljes összegével történő elszámolásig kell érvényesnek lennie.
 
@@ -50,5 +50,5 @@ h) annak rögzítését, hogy a garanciavállaló nyilatkozatból származó bá
 
 (12) A biztosítékot a Nemzeti Kifizető Ügynökség akkor szabadítja fel, ha megállapítja, hogy a kedvezményezett az igénybe vett előleg teljes összegével a 81. § (2) bekezdése szerint elszámolt, vagy az el nem számolt előleg összegét maradéktalanul visszafizette.
 
-[^206]: A 82. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
-[^207]: A 82. § (2) bekezdése a 4/2026. (VII. 10.) AÉM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^208]: A 82. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.
+[^209]: A 82. § (2) bekezdése a 4/2026. (VII. 10.) AÉM rendelet 7. § 2. pontja szerint módosított szöveg.

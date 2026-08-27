@@ -146,7 +146,7 @@
 
 | 73. | 6.3.1. | Minta a tárgyiasult szolgáltatásról elektronikus adathordozón dokumentáltan (fotó, hangfelvétel, videó), a művelet-tevékenységhez kapcsolódó, nem a felhívás keretében meghatározott kötelező kommunikációs tevékenységek eredménye: kiadványok, információs füzetek, elektronikus megjelenés, képzések meghirdetése, tudatosság növelése, tájékoztatás, kommunikációs kampányok stb.) | A költség elszámolásakor, illetve a záró kifizetési kérelemmel |  |
 
-| 74.[^269] | 6.4. | Műveletmenedzsment |  |  |
+| 74.[^273] | 6.4. | Műveletmenedzsment |  |  |
 
 | 75. | 6.4.1. | Kizárólag technikai segítségnyújtás keretében támogatott, személyi jellegű ráfordítások finanszírozását szolgáló műveletek esetén az 5.1.1–5.1.3. azonosító szerinti dokumentumok benyújtása (5.1. Személyi jellegű költségek) | A költség elszámolásakor |  |
 
@@ -198,7 +198,7 @@
 
 | 99. | 14. | Felhívásban előírt kötelezettségek és vállalások, valamint megemelt támogatási intenzitásra jogosító szempont (pl. gazdaságátadás) teljesítésének alátámasztását igazoló dokumentumok | A felhívás előírása szerint, az első /az elszámolással érintett / a záró kifizetési kérelem benyújtásakor |  |
 
-5. melléklet az 54/2023. (IX. 13.) AM rendelethez[^270]
+5. melléklet az 54/2023. (IX. 13.) AM rendelethez[^274]
 
 ÚTMUTATÓaz elszámolható költségekhez
 
@@ -324,7 +324,7 @@
 
 3.2.1.5. szükséges engedélyezési dokumentumok, műszaki tervek, kiviteli és tendertervek és ezek hatósági díjának (illeték, igazgatási szolgáltatási díj, egyéb eljárási költség) költségei, ideértve a művelési ág váltását, művelési ágból való kivétel adminisztratív költségét is,
 
-3.2.1.6.[^271] tervellenőr költsége,
+3.2.1.6.[^275] tervellenőr költsége,
 
 3.2.1.7. közbeszerzési eljárások lebonyolításával kapcsolatos költségek (ideértve a közbeszerzési eljárások lebonyolításával kapcsolatos szakértő díját is),
 
@@ -378,7 +378,7 @@ b) a beruházás célja
 
 3.3.8.1. Elszámolhatók a művelet célkitűzéseihez illeszkedő terület beruházásra alkalmassá tétele érdekében végzett előkészítő munkák költségei.
 
-3.3.8.2.[^272] A terület-előkészítés összes elszámolható nettó költsége – felhívás eltérő rendelkezése hiányában – nem haladhatja meg a művelet keretében elszámolható nettó költségek összegének 2%-át.
+3.3.8.2.[^276] A terület-előkészítés összes elszámolható nettó költsége – felhívás eltérő rendelkezése hiányában – nem haladhatja meg a művelet keretében elszámolható nettó költségek összegének 2%-át.
 
 3.3.9. Építés
 
@@ -434,7 +434,7 @@ b) a beruházás célja
 
 3.4.1. Harmadik féltől megrendelt, a támogatott tevékenységhez közvetlenül kapcsolódó, az Sztv. 3. § (7) bekezdés 1. és 2. pontja szerinti igénybe vett szolgáltatások és egyéb szolgáltatások költsége számolható el.
 
-3.4.2.[^273] Szolgáltatás költségei alatt az Útmutató az Sztv. 51. § (2) és (3) bekezdése által meghatározottakat érti a következő eltéréssel: az Útmutató 5. pontjában felsorolt, – egyébként az Sztv. szerint a szolgáltatás bekerülési értékébe beletartozó – költségek nem elszámolhatóak.
+3.4.2.[^277] Szolgáltatás költségei alatt az Útmutató az Sztv. 51. § (2) és (3) bekezdése által meghatározottakat érti a következő eltéréssel: az Útmutató 5. pontjában felsorolt, – egyébként az Sztv. szerint a szolgáltatás bekerülési értékébe beletartozó – költségek nem elszámolhatóak.
 
 3.4.3. Különösen a következő szolgáltatási tevékenységekhez kapcsolódó költségek és díjak számolhatók el:
 
@@ -466,7 +466,7 @@ b) a beruházás célja
 
 3.4.3.14. a fejlesztés tárgyára vonatkozó, az üzembe helyezést követően felmerülő vagyonbiztosítás (pl. a művelet keretében beszerzett és használt nagy értékű eszközök külön biztosítása) díja a megvalósítási időszak végéig számolható el, az üzembe helyezést megelőzően felmerülő, a beszerzett tárgyi eszközhöz kötődő, a bekerülési érték részét képező biztosítási díj az eszközbeszerzések között számolandó el,
 
-3.4.3.15. [^274] a beruházás megvalósításához felvett hitelhez az Agrár-Vállalkozási Hitelgarancia Alapítvány által nyújtott készfizető kezességvállalás díja.
+3.4.3.15. [^278] a beruházás megvalósításához felvett hitelhez az Agrár-Vállalkozási Hitelgarancia Alapítvány által nyújtott készfizető kezességvállalás díja.
 
 3.4.4. A művelet megvalósításával kapcsolatban közvetve felmerülő, általános szolgáltatások:
 
@@ -562,7 +562,7 @@ b) a beruházás célja
 
 3.5.4.3. A 3.5.1. pont esetén a 3.5.4.2. pontban felsoroltakon túl az egyházi jogi személynél vagy belső egyházi jogi személynél munkaviszonyban, közalkalmazotti jogviszonyban, egyházi szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottaknak közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatások is elszámolhatók.
 
-3.5.4.4.[^275] A bérköltség csak a ténylegesen kifizetett munkabér alapján a művelet keretében való foglalkoztatás arányában számolható el munkaidő-kimutatás alapján. Őstermelők esetén a bérköltség a Nemzeti Irányító Hatóság közleményében közzétett, a Mezőgazdasági Őstermelői Költség-megállapítási és Munkaidő-elszámolási Szabályzatban foglaltak szerint számolható el.
+3.5.4.4.[^279] A bérköltség csak a ténylegesen kifizetett munkabér alapján a művelet keretében való foglalkoztatás arányában számolható el munkaidő-kimutatás alapján. Őstermelők esetén a bérköltség a Nemzeti Irányító Hatóság közleményében közzétett, a Mezőgazdasági Őstermelői Költség-megállapítási és Munkaidő-elszámolási Szabályzatban foglaltak szerint számolható el.
 
 3.5.4.5. Bérköltségek között elszámolható költség a megbízási szerződés keretében történő munkavégzés, valamint a szellemi alkotásra kötött felhasználási szerződésben rögzített személyes közreműködés díja.
 
@@ -792,10 +792,10 @@ b) a beruházás célja
 
 5.1.7. a bírságok, kedvezményezett által fizetett kötbérek és a polgári perrendtartásról szóló törvény szerinti perköltség, függetlenül attól, hogy bíróság által megítélésre került-e.
 
-[^269]: A 4. mellékletben foglalt táblázat 74. sora a 23/2025. (VI. 13.) AM rendelet 15. §-ával megállapított szöveg.
-[^270]: Az 5. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (3) bekezdésével megállapított szöveg.
-[^271]: Az 5. melléklet 3.2.1.6. pontja a 23/2025. (VI. 13.) AM rendelet 17. § 7. pontja szerint módosított szöveg.
-[^272]: Az 5. melléklet 3.3.8.2. pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 6. pontja szerint módosított szöveg.
-[^273]: Az 5. melléklet 3.4.2. pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 7. pontja szerint módosított szöveg.
-[^274]: Beiktatta: 24/2024. (IV. 9.) AM rendelet 32. § (2) bekezdés, 2. melléklet. Hatályos: 2024. IV. 10-től. Lásd: 24/2024. (IV. 9.) AM rendelet 35. §.
-[^275]: Az 5. melléklet 3. pont 3.5. alpont 3.5.4. pont 3.5.4.4. alpontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^273]: A 4. mellékletben foglalt táblázat 74. sora a 23/2025. (VI. 13.) AM rendelet 15. §-ával megállapított szöveg.
+[^274]: Az 5. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^275]: Az 5. melléklet 3.2.1.6. pontja a 23/2025. (VI. 13.) AM rendelet 17. § 7. pontja szerint módosított szöveg.
+[^276]: Az 5. melléklet 3.3.8.2. pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^277]: Az 5. melléklet 3.4.2. pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 7. pontja szerint módosított szöveg.
+[^278]: Beiktatta: 24/2024. (IV. 9.) AM rendelet 32. § (2) bekezdés, 2. melléklet. Hatályos: 2024. IV. 10-től. Lásd: 24/2024. (IV. 9.) AM rendelet 35. §.
+[^279]: Az 5. melléklet 3. pont 3.5. alpont 3.5.4. pont 3.5.4.4. alpontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (2) bekezdésével megállapított szöveg.

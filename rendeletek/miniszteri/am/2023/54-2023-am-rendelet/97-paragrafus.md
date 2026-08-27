@@ -2,7 +2,7 @@
 
 a) mérlegelést igénylő kérdések merülnek fel,
 
-b)[^247] felmerül a támogatási döntés visszavonásának lehetősége, vagy
+b)[^249] felmerül a támogatási döntés visszavonásának lehetősége, vagy
 
 c) csalás vagy más bűncselekmény gyanúja merül fel.
 
@@ -22,4 +22,4 @@ c) helyszíni vizsgálatot rendelhet el.
 
 (6) Ha az (5) bekezdés szerinti döntés alapján pénzügyi korrekcióra van szükség, és nem lehetséges számszerűsíteni a pénzügyi korrekció mértékét, vagy aránytalan lenne a kapcsolódó támogatás egészének visszavonása, felhívásban meghatározott átalányon alapuló korrekciót kell alkalmazni a megsértett kötelezettségből adódó pénzügyi következmények arányában.
 
-[^247]: A 97. § (1) bekezdés b) pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^249]: A 97. § (1) bekezdés b) pontja a 4/2026. (VII. 10.) AÉM rendelet 7. § 4. pontja szerint módosított szöveg.

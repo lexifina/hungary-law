@@ -1,4 +1,4 @@
-44. §[^122] (1) A helyszíni szemle és a helyszíni ellenőrzés intézkedésenként és időszakonként vagy meghatározott időszakra több intézkedés tekintetében is lefolytatható.
+44. §[^124] (1) A helyszíni szemle és a helyszíni ellenőrzés intézkedésenként és időszakonként vagy meghatározott időszakra több intézkedés tekintetében is lefolytatható.
 
 (2) A kifizetési kérelem megalapozottsága a kifizetési döntést megelőzően és azt követően is ellenőrizhető.
 
@@ -8,7 +8,7 @@
 
 (5) A helyszíni vizsgálatot végző ellenőrök nem vehetnek részt ugyanazon kérelem adminisztratív ellenőrzésében.
 
-(6)[^123] A KAP törvény 11. § (1) bekezdés a) és b) pontja szerinti intézkedések keretében a helyszíni ellenőrzésre kiválasztott kérelmek esetében a kiválasztási alapráta legalább három százalék, amelyet a kiválasztási alapsokaság természetétől függően a kérelmek darabszámára, a támogatás összegére, területnagyságra, illetve a parcellák számára vagy állatlétszámra kell alkalmazni. A kiválasztási rátát növelni kell a helyszíni ellenőrzés által megállapított jelentős meg nem felelés esetén. A kiválasztási alapráta csökkenthető, ha a következő évben jelentős meg nem felelés nem kerül megállapításra.
+(6)[^125] A KAP törvény 11. § (1) bekezdés a) és b) pontja szerinti intézkedések keretében a helyszíni ellenőrzésre kiválasztott kérelmek esetében a kiválasztási alapráta legalább három százalék, amelyet a kiválasztási alapsokaság természetétől függően a kérelmek darabszámára, a támogatás összegére, területnagyságra, illetve a parcellák számára vagy állatlétszámra kell alkalmazni. A kiválasztási rátát növelni kell a helyszíni ellenőrzés által megállapított jelentős meg nem felelés esetén. A kiválasztási alapráta csökkenthető, ha a következő évben jelentős meg nem felelés nem kerül megállapításra.
 
 (7) Jogszabály eltérő rendelkezése hiányában a helyszíni ellenőrzésbe vonható mintát a kedvezményezettek teljes köréből kell kiválasztani, és annak adott esetben egy véletlenszerűen kiválasztott részből, valamint egy kockázatelemzés alapján kiválasztott részből kell állnia.
 
@@ -32,5 +32,5 @@ f) a kérelem szintű elkülönített számviteli nyilvántartás vezetését.
 
 (11) A bizonylatok és tételek ellenőrzése történhet mintavételezés alapján, a támogató által előzetesen jóváhagyott módszertan szerint.
 
-[^122]: A 44. § a 48/2024. (IX. 5.) AM rendelet 8. §-ával megállapított szöveg.
-[^123]: A 44. § (6) bekezdése a 23/2025. (VI. 13.) AM rendelet 16. § 12. pontja szerint módosított szöveg.
+[^124]: A 44. § a 48/2024. (IX. 5.) AM rendelet 8. §-ával megállapított szöveg.
+[^125]: A 44. § (6) bekezdése a 23/2025. (VI. 13.) AM rendelet 16. § 12. pontja szerint módosított szöveg.

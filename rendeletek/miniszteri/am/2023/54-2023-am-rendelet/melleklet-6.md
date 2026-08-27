@@ -1,4 +1,4 @@
-6. melléklet az 54/2023. (IX. 13.) AM rendelethez[^276]
+6. melléklet az 54/2023. (IX. 13.) AM rendelethez[^280]
 
 A kifizetési kérelemben benyújtandó alátámasztó dokumentumok ellenőrzési szempontjai
 
@@ -258,9 +258,9 @@ A számla befogadásának feltétele, hogy a záradékolás követelményeinek m
 
 4.2.2.5.2. az utalás a szállítói szerződésben feltüntetett szállítói (engedményezés esetén a szállítói engedményes) bankszámlaszámra vagy a számlán szereplő szállító bankszámlájára történt-e.
 
-4.2.3.[^277] A kifizetés bizonylata a tényleges teljesítést tartalmazza, vagyis a számla kiállítója felé teljesített tranzakcióról szól, nem a kedvezményezett számlái közötti átvezetésről, ide nem értve a 4.2.3.1. pont szerinti esetben a kedvezményezett fizetési számlája vagy az előleg fogadására megnyitott projektszámlája és a devizaszámlája közötti átutalást (az elektronikus terminálból kinyert és kinyomtatott igazolások nem elfogadhatóak).
+4.2.3.[^281] A kifizetés bizonylata a tényleges teljesítést tartalmazza, vagyis a számla kiállítója felé teljesített tranzakcióról szól, nem a kedvezményezett számlái közötti átvezetésről, ide nem értve a 4.2.3.1. pont szerinti esetben a kedvezményezett fizetési számlája vagy az előleg fogadására megnyitott projektszámlája és a devizaszámlája közötti átutalást (az elektronikus terminálból kinyert és kinyomtatott igazolások nem elfogadhatóak).
 
-4.2.3.1.[^278] Ha a számla kiegyenlítése devizában történik, akkor a kedvezményezett forintban vezetett fizetési számlájáról – ideértve a projektszámlát is – a kedvezményezett devizában vezetett fizetési számlájára átutalt összegből a számla alapján elszámolható költségként jóváhagyható összeg nem haladhatja meg a devizában kiállított számla értékének a 2.11. pontban foglaltak szerint forintra átszámított értékét.
+4.2.3.1.[^282] Ha a számla kiegyenlítése devizában történik, akkor a kedvezményezett forintban vezetett fizetési számlájáról – ideértve a projektszámlát is – a kedvezményezett devizában vezetett fizetési számlájára átutalt összegből a számla alapján elszámolható költségként jóváhagyható összeg nem haladhatja meg a devizában kiállított számla értékének a 2.11. pontban foglaltak szerint forintra átszámított értékét.
 
 4.2.4. Fedezetkezelő hatálya alá eső kifizetés esetében az utófinanszírozású számla teljes összegének átutalása a fedezetkezelői számlára megtörtént.
 
@@ -298,7 +298,7 @@ A számla befogadásának feltétele, hogy a záradékolás követelményeinek m
 
 7.2.3. A nyilatkozatot az alvállalkozó cégszerűen aláírta.
 
-7.3.[^279] A kedvezményezettek, a szállítók, az alvállalkozók és a művelet előkészítésében és megvalósításában részt vevők összeférhetetlenségi nyilatkozatot tesznek az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) szerinti esetekben.
+7.3.[^283] A kedvezményezettek, a szállítók, az alvállalkozók és a művelet előkészítésében és megvalósításában részt vevők összeférhetetlenségi nyilatkozatot tesznek az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) szerinti esetekben.
 
 III/II. Költségtípusokhoz kapcsolódó alátámasztó dokumentumok ellenőrzése
 
@@ -560,11 +560,11 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 10.1.1. Személy jellegű költségek összesítője.
 
-10.1.1.1.[^280] Az összesítőn kizárólag a műveletmenedzsment tevékenységében vagy művelethez kapcsolódó személyi jellegű költségei találhatók.
+10.1.1.1.[^284] Az összesítőn kizárólag a műveletmenedzsment tevékenységében vagy művelethez kapcsolódó személyi jellegű költségei találhatók.
 
 10.1.1.2. Az összesítőn minden tételnél beazonosítható, hogy mely költségvetési sor terhére kívánja azt a kedvezményezett elszámolni.
 
-10.1.1.3.[^281] A kiadások a műveletmenedzsmentjéhez, előkészítéséhez vagy szakmai megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
+10.1.1.3.[^285] A kiadások a műveletmenedzsmentjéhez, előkészítéséhez vagy szakmai megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
 
 10.1.1.4. A járulékok a jogszabályoknak megfelelően, az elszámolni kívánt bérrel arányosan kerültek megállapításra.
 
@@ -594,9 +594,9 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 10.2.1. Összesítő az utazási és kiküldetési költségtérítés elszámolásához
 
-10.2.1.1.[^282] Az összesítő kizárólag a műveletmenedzsment tevékenységében vagy megvalósításában részt vevők művelethez kapcsolódó útiköltségeit és kiküldetési költségeit tartalmazza.
+10.2.1.1.[^286] Az összesítő kizárólag a műveletmenedzsment tevékenységében vagy megvalósításában részt vevők művelethez kapcsolódó útiköltségeit és kiküldetési költségeit tartalmazza.
 
-10.2.1.2.[^283] A kiadások a műveletmenedzsmenthez vagy megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
+10.2.1.2.[^287] A kiadások a műveletmenedzsmenthez vagy megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
 
 10.2.2. Kiküldetési rendelvény, kiküldetési utasítás vagy menetlevél
 
@@ -656,11 +656,11 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 13.1.1.4. Ha fordított áfa-előleg elszámolást tartalmaz a fordított áfa-összesítő, úgy azt az adóhatóság felé történt bevallástól, befizetéstől számított 5 munkanapon belül nyújtotta be.
 
-[^276]: A 6. mellékletet a 48/2024. (IX. 5.) AM rendelet 32. § (4) bekezdése iktatta be.
-[^277]: A 6. melléklet III/I. pont 4. alpont 4.2. pont 4.2.3. alpontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^278]: A 6. melléklet III/I. pont 4. alpont 4.2. pont 4.2.3. alpont 4.2.3.1. pontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^279]: A 6. melléklet III/I. pont 7. alpont 7.3. pontját a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdése iktatta be.
-[^280]: A 6. melléklet 10.1.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
-[^281]: A 6. melléklet 10.1.1.3. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 28. pontja szerint módosított szöveg.
-[^282]: A 6. melléklet 10.2.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
-[^283]: A 6. melléklet 10.2.1.2. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 29. pontja szerint módosított szöveg.
+[^280]: A 6. mellékletet a 48/2024. (IX. 5.) AM rendelet 32. § (4) bekezdése iktatta be.
+[^281]: A 6. melléklet III/I. pont 4. alpont 4.2. pont 4.2.3. alpontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^282]: A 6. melléklet III/I. pont 4. alpont 4.2. pont 4.2.3. alpont 4.2.3.1. pontja a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^283]: A 6. melléklet III/I. pont 7. alpont 7.3. pontját a 4/2026. (VII. 10.) AÉM rendelet 6. § (3) bekezdése iktatta be.
+[^284]: A 6. melléklet 10.1.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
+[^285]: A 6. melléklet 10.1.1.3. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 28. pontja szerint módosított szöveg.
+[^286]: A 6. melléklet 10.2.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
+[^287]: A 6. melléklet 10.2.1.2. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 29. pontja szerint módosított szöveg.

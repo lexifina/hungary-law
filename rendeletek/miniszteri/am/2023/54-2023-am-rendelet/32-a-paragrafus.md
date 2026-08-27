@@ -1,4 +1,4 @@
-32/A. §[^103] (1) Hirdetményi úton történő közlésnek van helye, ha
+32/A. §[^105] (1) Hirdetményi úton történő közlésnek van helye, ha
 
 a) a kedvezményezett jogutódja nem ismert,
 
@@ -26,4 +26,4 @@ e) a tájékoztatást, hogy a támogató a c) pont szerinti döntést hozta, de 
 
 (5) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a támogató gondoskodik a hirdetmény eltávolításáról, és a továbbiakban a kapcsolattartás általános szabályai szerint folytatja az eljárást.
 
-[^103]: A 32/A. §-t a 24/2024. (IV. 9.) AM rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^105]: A 32/A. §-t a 24/2024. (IV. 9.) AM rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 35. §-át.

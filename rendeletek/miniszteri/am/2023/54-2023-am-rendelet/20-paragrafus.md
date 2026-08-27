@@ -6,12 +6,12 @@
 
 (3) Az iratbetekintés során az (1) bekezdés szerinti jogosult másolatot, kivonatot készíthet, vagy másolatot kérhet, amelyet a támogató a jogosult kérelmére hitelesít.
 
-(4)[^54] A döntés tervezetébe nem lehet betekinteni.
+(4)[^55] A döntés tervezetébe nem lehet betekinteni.
 
-(5)[^55] Saját hatáskörben indult eljárásban az érintett kedvezményezett az (1)–(4) bekezdésben foglaltak szerint jogosult az iratokba betekinteni.
+(5)[^56] Saját hatáskörben indult eljárásban az érintett kedvezményezett az (1)–(4) bekezdésben foglaltak szerint jogosult az iratokba betekinteni.
 
-(6)[^56] Az iratbetekintésre vonatkozó kérelmet a támogató döntésével jóváhagyja, korlátozottan engedélyezi vagy elutasítja.
+(6)[^57] Az iratbetekintésre vonatkozó kérelmet a támogató döntésével jóváhagyja, korlátozottan engedélyezi vagy elutasítja.
 
-[^54]: A 20. § (4) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
-[^55]: A 20. § (5) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
-[^56]: A 20. § (6) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
+[^55]: A 20. § (4) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
+[^56]: A 20. § (5) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
+[^57]: A 20. § (6) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.

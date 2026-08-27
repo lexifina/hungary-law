@@ -4,7 +4,7 @@
 
 ## 30. A jogszerű földhasználat igazolása
 
-61. § (1)[^164] A kedvezményezettet a kérelmében megjelölt mezőgazdasági területekre nézve jogszerű földhasználónak kell tekinteni, amíg annak vonatkozásában kétség nem merül fel, vagy ha a KAP törvény 34. § (1) bekezdése szerinti ellenőrzés során megállapításra kerül, hogy a kedvezményezett a (4) bekezdés alapján jogszerű földhasználónak minősül.
+61. § (1)[^166] A kedvezményezettet a kérelmében megjelölt mezőgazdasági területekre nézve jogszerű földhasználónak kell tekinteni, amíg annak vonatkozásában kétség nem merül fel, vagy ha a KAP törvény 34. § (1) bekezdése szerinti ellenőrzés során megállapításra kerül, hogy a kedvezményezett a (4) bekezdés alapján jogszerű földhasználónak minősül.
 
 (2) Ha a kedvezményezett földhasználatának jogszerűségével kapcsolatban kétség merül fel, a támogató egyeztetést folytat le.
 
@@ -32,4 +32,4 @@ i) az a)–h) pont szerinti jogszerű földhasználó közeli hozzátartozója, 
 
 j) a jegyző által kiállított és az adott terület használatának tényét igazoló hatósági bizonyítvánnyal rendelkezik.
 
-[^164]: A 61. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^166]: A 61. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
