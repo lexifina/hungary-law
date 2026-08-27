@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Központi Információs Közadat-nyilvántartás részletszabályairól szóló 499/2022. (XII. 8.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A Felületen közzétételre kötelezett az adatszolgáltatást a SZÜF-ön található elektronikus űrlap (a továbbiakban: elektronikus űrlap) kitöltésével, a kitöltött Adatlap egyidejű csatolásával, továbbá ezeknek az Üzemeltető hivatali tárhelyére történő beküldésével teljesíti, azzal, hogy a kötelezett nevére, illetve adószámára vonatkozó adatot az elektronikus űrlapon kell kitölteni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
