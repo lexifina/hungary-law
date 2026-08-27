@@ -1,7 +1,1 @@
-56. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 94/A. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) A Mentelmi Bizottság elnöke a képviselő vagyonnyilatkozatával kapcsolatos eljárást akkor is megindítja, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a képviselő a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
-
-(1b) Ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében a képviselő vagyonnyilatkozata kapcsán az (1a) bekezdés alá nem tartozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó – hiányosságot tárt fel, a Mentelmi Bizottság a jelentés megállapításainak figyelembevételével az eljárást az (1a) bekezdés szerint haladéktalanul lefolytatja. Ha a Mentelmi Bizottság megállapítja, hogy a hiányosság feltárása megalapozott, kezdeményezi a házelnöknél a képviselő tiszteletdíja 47. § szerinti csökkentését.
-
-(1c) Az 51. §-tól eltérően az (1b) bekezdés szerinti döntéssel szemben az érintett képviselő a döntés írásbeli közlését követő nyolc napon belül kérheti az Országgyűléstől a döntés hatályon kívül helyezését. Az Országgyűlés a kérelemről vita nélkül, a kérelem benyújtását követő ülésén határoz, ha a kérelem legkésőbb az ülést megelőző hét utolsó munkanapján beérkezik. Ellenkező esetben az Országgyűlés a kérelemről az annak benyújtását követő második ülésén dönt.”
+### 56. §

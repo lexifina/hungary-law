@@ -1,5 +1,1 @@
-117. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 185. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Ha a vagyonnyilatkozat-tételi kötelezettség kapcsán az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései alapján eljáró Integritás Hatóság jelentésében azt állapítja meg, hogy a 3. § (3) bekezdés b)–e) pontja szerinti politikai felsővezető a vagyonnyilatkozat-tételt elmulasztotta, illetve vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt, a miniszterelnök a (2) és (2a) bekezdés szerint jár el. Ha a miniszterelnök az e kötelezettségének tizenöt napon belül nem tesz eleget, az Integritás Hatóság a határidő lejártát követő harminc napon belül keresettel kérheti a Kúriától a miniszterelnöknek az Integritás Hatóság jelentésében foglalt magatartásra való kötelezését. A kérelmet a Kúria harminc napon belül, közigazgatási nemperes eljárásban, öt hivatásos bíróból álló tanácsban bírálja el.
-
-(4) A Kúria (3) bekezdése szerinti döntésével szemben az Alkotmánybíróságról szóló törvény rendelkezései szerint három napon belül jogorvoslati kérelem terjeszthető elő az Alkotmánybíróságnál. Az Alkotmánybíróság a jogorvoslati kérelemről a beérkezésétől számított tizenöt napon belül dönt.”
+### 117. §
