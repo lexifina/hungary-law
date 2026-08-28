@@ -1,4 +1,4 @@
-3. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^104]
+3. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^107]
 
 Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
@@ -14,7 +14,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-1.6.[^105] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+1.6.[^108] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
@@ -32,7 +32,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 3.1.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása);
 
-3.1.6.[^106] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+3.1.6.[^109] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 3.2. a mezőgazdasági termelőszervezet/újonnan alapított mezőgazdasági termelőszervezet
 
@@ -40,7 +40,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 3.2.2. honossága,
 
-3.2.3.[^107] nyilvántartó hatóság típusa és megnevezése,
+3.2.3.[^110] nyilvántartó hatóság típusa és megnevezése,
 
 3.2.4. nyilvántartási száma,
 
@@ -52,7 +52,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 3.2.8. telefonszáma,
 
-3.2.9.[^108] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
+3.2.9.[^111] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4. Adatváltozással érintett adat megjelölése és az adatváltozás megnevezése.
 
@@ -68,7 +68,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 4.1.4. értesítési adatok (megegyezik a lakáscímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
-4.1.5.[^109] igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+4.1.5.[^112] igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 4.2. Mezőgazdasági termőszervezet adatainak módosítása esetén:
 
@@ -78,7 +78,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 4.2.2. honossága,
 
-4.2.3.[^110] nyilvántartó hatóság típusa és megnevezése,
+4.2.3.[^113] nyilvántartó hatóság típusa és megnevezése,
 
 4.2.4. nyilvántartási száma,
 
@@ -90,7 +90,7 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 4.2.8. telefonszáma,
 
-4.2.9.[^111] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
+4.2.9.[^114] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4.3. Mezőgazdasági üzemközpont módosítása esetén:
 
@@ -100,9 +100,9 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 4.3.3. ingatlan esetében fennálló használati jog megjelölése esetén nyilatkozat arról, hogy a földhasználati nyilvántartásba bejegyzésre került-e,
 
-4.3.4.[^112] ingatlan azonos-e a kérelmező lakóhelyével, székhelyével vagy telephelyével,
+4.3.4.[^115] ingatlan azonos-e a kérelmező lakóhelyével, székhelyével vagy telephelyével,
 
-4.3.5.[^113] az ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
+4.3.5.[^116] az ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
 
 4.4. Kényszerhasznosítóként jelentkezés esetén:
 
@@ -132,11 +132,11 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 4.5.6.3. mezőgazdasági vagy erdészeti szakirányú képzettség hiányában a szervezet vezető tisztségviselője vagy cégvezetője a kérelem benyújtását megelőzően igazoltan legalább 3 éves üzemi gyakorlattal rendelkezik,
 
-4.5.6.4.[^114] a kérelmező cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza-e.
+4.5.6.4.[^117] a kérelmező cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza-e.
 
 4.5.7. szakirányú képzettsége esetén a képzettséget igazoló okirat száma és az okiratot kiállító ország megjelölése.
 
-4.5.8.[^115] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+4.5.8.[^118] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 5. A benyújtó nyilatkozata arról, hogy
 
@@ -146,15 +146,15 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 6. Kérelmet benyújtó aláírása és az aláírás dátuma
 
-[^104]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (3) bekezdése iktatta be.
-[^105]: A 3. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^106]: A 3. melléklet 3. pont 3.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^107]: A 3. melléklet 3. pont 3.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^108]: A 3. melléklet 3. pont 3.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^109]: A 3. melléklet 4. pont 4.1.5. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^110]: A 3. melléklet 4. pont 4.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^111]: A 3. melléklet 4. pont 4.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^112]: A 3. melléklet 4. pont 4.3.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^113]: A 3. melléklet 4. pont 4.3.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^114]: A 3. melléklet 4. pont 4.5.6.4. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^115]: A 3. melléklet 4. pont 4.5.8. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^107]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (3) bekezdése iktatta be.
+[^108]: A 3. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^109]: A 3. melléklet 3. pont 3.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^110]: A 3. melléklet 3. pont 3.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^111]: A 3. melléklet 3. pont 3.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^112]: A 3. melléklet 4. pont 4.1.5. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^113]: A 3. melléklet 4. pont 4.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^114]: A 3. melléklet 4. pont 4.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^115]: A 3. melléklet 4. pont 4.3.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^116]: A 3. melléklet 4. pont 4.3.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^117]: A 3. melléklet 4. pont 4.5.6.4. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^118]: A 3. melléklet 4. pont 4.5.8. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.

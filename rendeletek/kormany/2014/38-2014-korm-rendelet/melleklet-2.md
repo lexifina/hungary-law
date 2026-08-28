@@ -1,4 +1,4 @@
-2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^97]
+2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^100]
 
 Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétel iránti kérelem adattartalma
 
@@ -14,9 +14,9 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 1.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-1.6.[^98] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+1.6.[^101] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
-2.[^99] Annak jelölése, hogy a benyújtó meghatalmazással vagy törvényes képviselőként jár el, valamint a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
+2.[^102] Annak jelölése, hogy a benyújtó meghatalmazással vagy törvényes képviselőként jár el, valamint a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
 3. A kérelmező szervezet
 
@@ -36,7 +36,7 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 3.8. telefonszáma,
 
-3.9.[^100] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
+3.9.[^103] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4. A kérelmező szervezetre vonatkozó információk:
 
@@ -78,7 +78,7 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 7.5. beosztása.
 
-7.6.[^101] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+7.6.[^104] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 8. A 7. pont szerinti vezető tisztségviselő vagy cégvezető
 
@@ -102,9 +102,9 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 9.3. ingatlan esetében fennálló használati jog megjelölése esetén nyilatkozat arról, hogy a földhasználati nyilvántartásba bejegyzésre került-e,
 
-9.4.[^102] ingatlan azonos-e a kérelmező székhelyével vagy telephelyével,
+9.4.[^105] ingatlan azonos-e a kérelmező székhelyével vagy telephelyével,
 
-9.5.[^103] ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
+9.5.[^106] ingatlan a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
 
 10. A benyújtó nyilatkozata arról, hogy
 
@@ -114,10 +114,10 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 11. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^97]: A 2. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
-[^98]: A 2. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^99]: A 2. melléklet 2. pontja a 420/2025. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^100]: A 2. melléklet 3. pont 3.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^101]: A 2. melléklet 7. pont 7.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^102]: A 2. melléklet 9. pont 9.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^103]: A 2. melléklet 9. pont 9.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^100]: A 2. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^101]: A 2. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^102]: A 2. melléklet 2. pontja a 420/2025. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^103]: A 2. melléklet 3. pont 3.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^104]: A 2. melléklet 7. pont 7.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^105]: A 2. melléklet 9. pont 9.4. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^106]: A 2. melléklet 9. pont 9.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

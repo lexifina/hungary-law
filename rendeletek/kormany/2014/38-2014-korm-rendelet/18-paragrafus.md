@@ -1,3 +1,3 @@
-18. §[^77]
+18. §[^80]
 
-[^77]: A 18. §-t a 481/2024. (XII. 31.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
+[^80]: A 18. §-t a 481/2024. (XII. 31.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-7. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^135]
+7. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^138]
 
 ## Földműves adatlap másolat szolgáltatása iránti kérelem adattartalma
 
@@ -14,7 +14,7 @@
 
 1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-1.6.[^136] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+1.6.[^139] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
@@ -32,7 +32,7 @@
 
 3.1.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
-3.1.6.[^137] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+3.1.6.[^140] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 3.2. Mezőgazdasági termelőszervezet esetén
 
@@ -40,7 +40,7 @@
 
 3.2.2. honossága,
 
-3.2.3.[^138] nyilvántartó hatóság típusa és megnevezése,
+3.2.3.[^141] nyilvántartó hatóság típusa és megnevezése,
 
 3.2.4. nyilvántartási száma,
 
@@ -52,7 +52,7 @@
 
 3.2.8. telefonszáma,
 
-3.2.9.[^139] értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
+3.2.9.[^142] értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4. Az adatlekérdezés céljának megjelölése.
 
@@ -74,8 +74,8 @@
 
 9. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^135]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 51. § (7) bekezdése iktatta be.
-[^136]: A 7. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (7) bekezdése iktatta be.
-[^137]: A 7. melléklet 3. pont 3.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (7) bekezdése iktatta be.
-[^138]: A 7. melléklet 3. pont 3.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^139]: A 7. melléklet 3. pont 3.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^138]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 51. § (7) bekezdése iktatta be.
+[^139]: A 7. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (7) bekezdése iktatta be.
+[^140]: A 7. melléklet 3. pont 3.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (7) bekezdése iktatta be.
+[^141]: A 7. melléklet 3. pont 3.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^142]: A 7. melléklet 3. pont 3.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
