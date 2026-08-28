@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-486-20-
 | --- | --- | --- |
 | 2026-01-08 | 2025-486-20-22.1 | 486/2025. (XII. 31.) Korm. rendelet |
 | 2026-01-09 | 2025-486-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-08-28 | 2025-486-20-22.3 | 129/2026. (VIII. 25.) Korm. rendelet |
