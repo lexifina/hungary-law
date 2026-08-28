@@ -10,7 +10,7 @@
 
 (6)[^27] A jogosult állatorvos díjazását a felek szerződésben állapítják meg annak figyelembevételével, hogy a jogosult állatorvos számára egy hónapban ténylegesen kifizetett díj nem haladhatja meg a közszolgálati tisztviselőkről szóló törvény szerinti I. besorolási osztály 4. fizetési fokozatába besorolt kormánytisztviselő egy havi alapilletményének összegét.
 
-(7)[^28] A jogosult állatorvos a feladatainak teljesítéséről havonta jelentést készít a vármegyei kormányhivatal részére, mely alapján az a NÉBIH-nek teljesítés igazolást állít ki.
+(7)[^28] A jogosult állatorvos a feladatainak teljesítéséről havonta jelentést készít a vármegyei kormányhivatal részére, amely alapján az teljesítés igazolást állít ki.
 
 (8)[^29] Járványveszély vagy rendkívüli élelmiszerlánc-felügyeleti esemény esetén a NÉBIH a feladat- és hatáskörébe tartozó döntéseket előkészítő egyes feladatok elvégzésére a vármegyei kormányhivatal közreműködése nélkül köthet jogosult állatorvosi tevékenység végzésére irányuló szerződést. A NÉBIH a szerződéskötésről tájékoztatja a vármegyei kormányhivatalt. A szerződéskötést kezdeményező szolgáltató állatorvosra, a szerződés megkötésére, valamint a szerződés tartalmára a 2–3. §-ban, a 4. § (1)–(5) és (7) bekezdésében, valamint az 5–9. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell.
 
@@ -20,5 +20,5 @@
 [^25]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 149. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 66. § a) pontja szerint módosított szöveg.
 [^26]: A 4. § (5) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
 [^27]: A 4. § (6) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: A 4. § (7) bekezdését a 369/2012. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 72. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.
+[^28]: A 4. § (7) bekezdését a 369/2012. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 72. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 66. § b) pontja, a 129/2026. (VIII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^29]: A 4. § (8) bekezdését a 369/2012. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 71. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 66. § a) pontja szerint módosított szöveg.
