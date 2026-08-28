@@ -1,4 +1,4 @@
-29. §[^38] (1)[^39] Ha a szőlőtermést nem az ültetvény használója vagy vele azonos borgazdasági egységbe tartozó személy dolgozza fel, az ültetvény használója a szőlőfelvásárlási szerződésben megjelölt határidőig, de legkésőbb a szüret utolsó napjáig megküldi a szüret bejelentő lapot a szőlőtermés felvásárlója részére. Az átadott szüret bejelentő lapon rögzíteni kell a szőlőfelvásárlási szerződésben engedélyezett legmagasabb hozamot.
+29. §[^42] (1)[^43] Ha a szőlőtermést nem az ültetvény használója vagy vele azonos borgazdasági egységbe tartozó személy dolgozza fel, az ültetvény használója a szőlőfelvásárlási szerződésben megjelölt határidőig, de legkésőbb a szüret utolsó napjáig megküldi a szüret bejelentő lapot a szőlőtermés felvásárlója részére. Az átadott szüret bejelentő lapon rögzíteni kell a szőlőfelvásárlási szerződésben engedélyezett legmagasabb hozamot.
 
 (2) A felvásárló a felvásárlási űrlap alapján, vagy ha a felvásárlásról a hegybíró részére benyújtott nyilatkozattal nyilatkozott, a szüret bejelentő lap alapján a Btv. 6. § (1) bekezdésében meghatározott felvásárlási jegyet állít ki.
 
@@ -12,5 +12,5 @@ b) befejezett szüret befejezési napjának
 
 az e rendeletben foglalt kötelezettségek teljesítése szempontjából augusztus 1-jét kell tekinteni.
 
-[^38]: A 29. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^39]: A 29. § (1) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^42]: A 29. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^43]: A 29. § (1) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 5. §-ával megállapított szöveg.

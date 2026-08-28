@@ -58,7 +58,10 @@
 
 25. ültetvényrész: egy szőlőültetvény felosztásával keletkező, meghatározott méretű és elhelyezkedésű terület.
 
+26.[^5] vegetációs időszak: a szőlő rügyduzzadásának kezdetétől a levélhullás végéig terjedő időszak.
+
 [^1]: Az 1. § 19. pontja a 339/2025. (X. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § 19a. pontját a 392/2023. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1. § 22. pontja a 316/2022. (VIII. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^4]: Az 1. § 24a. pontját a 316/2022. (VIII. 16.) Korm. rendelet 14. §-a iktatta be.
+[^5]: Az 1. § 26. pontját a 129/2026. (VIII. 25.) Korm. rendelet 11. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## 8. Szőlőültetvények térinformatikai nyilvántartása
 
-25. § (1)[^28] A VINGIS-t a Kincstár és az LTK vezeti a (2) és (3) bekezdésben meghatározottak szerint.
+25. § (1)[^29] A VINGIS-t a Kincstár és az LTK vezeti a (2) és (3) bekezdésben meghatározottak szerint.
 
-(2)[^29] A Kincstár térinformatikai eszközökkel a VINGIS-ben létrehozza azon adatok körét, amely alkalmas egy földterület
+(2)[^30] A Kincstár térinformatikai eszközökkel a VINGIS-ben létrehozza azon adatok körét, amely alkalmas egy földterület
 
 a) termőhelyi kataszterbe tartozásának,
 
@@ -18,5 +18,5 @@ e) Btv. 20. § (4) bekezdése szerinti adatainak
 
 (3) Az LTK lehetővé teszi a VINGIS internetes felületén az (1) bekezdés szerinti adatok miniszteri rendeletben meghatározott fedvényeinek térinformatikai eszközökkel történő megjelenítését.
 
-[^28]: A 25. § (1) bekezdése a 107/2024. (V. 9.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
-[^29]: A 25. § (2) bekezdés nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 42. § d) pontja szerint módosított szöveg.
+[^29]: A 25. § (1) bekezdése a 107/2024. (V. 9.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
+[^30]: A 25. § (2) bekezdés nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 42. § d) pontja szerint módosított szöveg.

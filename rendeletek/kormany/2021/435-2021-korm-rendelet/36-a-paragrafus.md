@@ -1,4 +1,4 @@
-36/A. §[^48] (1) Az a hegyközségekről szóló 2012. évi CCXIX. törvény 4. § a) pont aa) alpontja szerinti szőlészeti termelő (a továbbiakban: szőlészeti termelő), aki
+36/A. §[^52] (1) Az a hegyközségekről szóló 2012. évi CCXIX. törvény 4. § a) pont aa) alpontja szerinti szőlészeti termelő (a továbbiakban: szőlészeti termelő), aki
 
 a) nem rendelkezik borászati üzemengedéllyel, vagy
 
@@ -42,4 +42,4 @@ b) a bérfeldolgozást végző borászati üzemengedélyes a bérfeldolgozással
 
 (6) A hegybíró a (3) bekezdés szerinti megállapodás másolatának – a benyújtásától számított 5 munkanapon belül történő – megküldésével értesíti a NÉBIH-et a bérfeldolgozásról.
 
-[^48]: A 36/A. §-t a 339/2025. (X. 31.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 36/A. §-t a 339/2025. (X. 31.) Korm. rendelet 5. §-a iktatta be.

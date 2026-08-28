@@ -1,8 +1,8 @@
 65. § (1) A termékleírás módosításának jóváhagyása iránti kérelmet az (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet 14–17. cikkében foglaltakra figyelemmel kell benyújtani.
 
-(2)[^87] A termékleírás termőhelyet érintő módosítása esetén a kérelemhez mellékelni kell a Kincstár által készített, módosított termőhelyi térképet.
+(2)[^92] A termékleírás termőhelyet érintő módosítása esetén a kérelemhez mellékelni kell a Kincstár által készített, módosított termőhelyi térképet.
 
-(3)[^88] A termékleírás módosítása és a bejegyzett elnevezés törlése iránti kérelemhez mellékelni kell
+(3)[^93] A termékleírás módosítása és a bejegyzett elnevezés törlése iránti kérelemhez mellékelni kell
 
 a) annak igazolását, hogy a kérelem tervezetét
 
@@ -16,5 +16,5 @@ ba) aa) alpontja esetében a kérelemről a hegyközségi közgyűlésen kifejte
 
 bb) ab) alpontja esetében a kérelemmel érintett hegyközség tagjainak a közzététel nyomán megküldött észrevételeit.
 
-[^87]: A 65. § (2) bekezdése a 107/2024. (V. 9.) Korm. rendelet 42. § g) pontja szerint módosított szöveg.
-[^88]: A 65. § (3) bekezdését a 339/2025. (X. 31.) Korm. rendelet 13. §-a iktatta be.
+[^92]: A 65. § (2) bekezdése a 107/2024. (V. 9.) Korm. rendelet 42. § g) pontja szerint módosított szöveg.
+[^93]: A 65. § (3) bekezdését a 339/2025. (X. 31.) Korm. rendelet 13. §-a iktatta be.

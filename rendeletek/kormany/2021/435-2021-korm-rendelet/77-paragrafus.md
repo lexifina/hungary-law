@@ -10,11 +10,11 @@ aa) termelői integrációs szervezetekről szóló rendeletben foglaltak szerin
 
 ab) által használt szőlőültetvények tekintetében a TISZ általi adatszolgáltatásra és termékértékesítésre,
 
-ac)[^103] által használt szakmai-jövedéki nyilvántartási formára,
+ac)[^108] által használt szakmai-jövedéki nyilvántartási formára,
 
 b) a művelésmódra
 
-c)[^104] az adatszolgáltató tevékenységével kapcsolatban
+c)[^109] az adatszolgáltató tevékenységével kapcsolatban
 
 ca) az oltalom alatt álló elnevezést vagy az átmeneti nemzeti oltalom alatt álló földrajzi árujelző elnevezésére,
 
@@ -24,5 +24,5 @@ cc) az oltalom alatt álló elnevezéssel vagy az átmeneti nemzeti oltalom alat
 
 cd) a termék kategóriájára
 
-[^103]: A 77. § a) pont ac) alpontja a 392/2023. (VIII. 14.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^104]: A 77. § c) pontját a 392/2023. (VIII. 14.) Korm. rendelet 14. §-a iktatta be.
+[^108]: A 77. § a) pont ac) alpontja a 392/2023. (VIII. 14.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^109]: A 77. § c) pontját a 392/2023. (VIII. 14.) Korm. rendelet 14. §-a iktatta be.

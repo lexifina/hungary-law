@@ -1,3 +1,3 @@
-104. §[^140]
+104. §[^145]
 
-[^140]: A 104. § a 23/2022. (I. 27.) Korm. rendelet 20. §-a alapján nem lép hatályba.
+[^145]: A 104. § a 23/2022. (I. 27.) Korm. rendelet 20. §-a alapján nem lép hatályba.
