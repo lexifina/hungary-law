@@ -1,3 +1,3 @@
-2. § A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet 44. alcíme a következő 102/E. §-sal egészül ki:
+2. §[^3]
 
-„102/E. § A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet módosításáról szóló 4/2026. (VII. 10.) AÉM rendelet (a továbbiakban: Mód. rendelet) 8. § c) pontjával hatályon kívül helyezett 90. § (1)–(3) bekezdését, valamint d) pontjával hatályon kívül helyezett 3. melléklet 1. pont j) alpontját a Mód. rendelet hatálybalépésekor folyamatban lévő eljárásokban sem kell alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

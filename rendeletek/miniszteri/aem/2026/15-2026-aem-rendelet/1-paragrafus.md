@@ -2,6 +2,6 @@
 
 ## [2] A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 1., 2. és 18. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 25. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) A támogató biztosítja a támogatási és kifizetési döntés előkészítése, meghozatala és esetleges módosítása során a kedvezményezett vonatkozásában, valamint a kérelmek ellenőrzése során, hogy következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi és rendszerszinten használja az ARACHNE+ kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb, intézkedésben való jogosulatlan részvétel megelőzése érdekében, köteles a döntéshozatala során figyelembe venni és következetesen nyomon követni az ARACHNE+ kockázatértékelő eszköz által jelzett kockázatokat, valamint biztosítja a jelzett kockázatok esetén a szükséges további ellenőrzések elvégzését.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

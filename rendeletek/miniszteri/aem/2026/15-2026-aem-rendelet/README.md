@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-15-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-08-27 | 2026-15-20-31.1 | 15/2026. (VIII. 26.) AÉM rendelet |
+| 2026-08-28 | 2026-15-20-31.2 | 2010. évi CXXX. törvény |
