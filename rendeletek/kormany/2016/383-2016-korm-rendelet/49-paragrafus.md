@@ -1,5 +1,5 @@
-## 12.[^264]
+## 12.[^265]
 
 49. §
 
-[^264]: A 12. alcímet (49. §-t) a 89/2024. (IV. 23.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^265]: A 12. alcímet (49. §-t) a 89/2024. (IV. 23.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

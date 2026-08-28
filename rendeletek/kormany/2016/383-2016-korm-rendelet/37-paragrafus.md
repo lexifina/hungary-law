@@ -1,4 +1,4 @@
-37. §[^196] (1) Ha e rendelet másként nem rendelkezik, az ingatlan fekvése szerint illetékes, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal jár el ingatlanügyi hatóságként.
+37. §[^197] (1) Ha e rendelet másként nem rendelkezik, az ingatlan fekvése szerint illetékes, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal jár el ingatlanügyi hatóságként.
 
 (2) Ha ingatlan-nyilvántartási ügyben nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszer ügyintézési felületét használva több kormányhivatal illetékességi területén fekvő ingatlanra kérik a változásbejegyzést, a döntés meghozatalára valamennyi érintett ingatlan vonatkozásában az a kormányhivatal jogosult, amelyikhez a beadvány beérkezett.
 
@@ -18,4 +18,4 @@
 
 (10) Azon ingatlan-nyilvántartási eljárásokban, amelyekben erdő művelési ág bejegyzésére kerül sor, ingatlanügyi hatóságként az erdőterület fekvése szerint illetékes, 2. mellékletben meghatározott vármegyei kormányhivatal jár el. Az erdészeti hatóság és az ingatlanügyi hatóság a művelési ág változásával kapcsolatban egybefoglalt döntést hoz.
 
-[^196]: A 37. § a 483/2024. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^197]: A 37. § a 483/2024. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-38. § (1)[^197] Ingatlanügyi hatóságként országos illetékességgel a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörében eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság feladata
+38. § (1)[^198] Ingatlanügyi hatóságként országos illetékességgel a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörében eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság feladata
 
 1. az ingatlan-, a földműves, valamint földhasználati nyilvántartás országos központi adatbázisának üzemeltetése, valamint az abból történő adatleválogatás és adattovábbítás,
 
 2. a számítógépes ingatlan-nyilvántartási rendszer kezelése, működtetése,
 
-3.[^198] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
+3.[^199] a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételéhez szükséges, az ingatlan-nyilvántartásról szóló törvény szerinti hozzáférési jogosultság megadása, visszavonása vagy felfüggesztése tárgyában történő határozat meghozatala, valamint a hozzáférés biztosítása,
 
 4. a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezései jogszerűségének és a biztonsági előírások betartásának ellenőrzése,
 
@@ -38,17 +38,17 @@
 
 19. a hatáskörébe utalt földmérési és térképészeti szakfelügyeleti tevékenység,
 
-20.[^199] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása,
+20.[^200] az ingatlan-nyilvántartásról szóló törvény szerinti, a magyarországi ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása,
 
-21.[^200] a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendeletben szabályozott biztonsági okmány beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása,
+21.[^201] a föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló kormányrendeletben szabályozott biztonsági okmány beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása,
 
-22.[^201] a papíralapú hiteles tulajdonilap-másolat kiállításához szükséges biztonsági elemek beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása.
+22.[^202] a papíralapú hiteles tulajdonilap-másolat kiállításához szükséges biztonsági elemek beszerzése, az ingatlanügyi hatóságok részére történő elosztása, szállítása.
 
-(2)[^202]
+(2)[^203]
 
-[^197]: A 38. § (1) bekezdés nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 27. § j) pontja szerint módosított szöveg.
-[^198]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^199]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^200]: A 38. § (1) bekezdés 21. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
-[^201]: A 38. § (1) bekezdés 22. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
-[^202]: A 38. § (2) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 46. § c) pontja hatályon kívül helyezte.
+[^198]: A 38. § (1) bekezdés nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 27. § j) pontja szerint módosított szöveg.
+[^199]: A 38. § (1) bekezdés 3. pontja a 473/2016. (XII. 27.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^200]: A 38. § (1) bekezdés 20. pontját a 473/2016. (XII. 27.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^201]: A 38. § (1) bekezdés 21. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
+[^202]: A 38. § (1) bekezdés 22. pontját a 38/2020. (III. 10.) Korm. rendelet 15. §-a iktatta be.
+[^203]: A 38. § (2) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 46. § c) pontja hatályon kívül helyezte.

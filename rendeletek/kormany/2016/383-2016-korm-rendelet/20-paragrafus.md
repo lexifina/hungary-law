@@ -14,7 +14,11 @@ e)[^131] az Éltv. 17. § (1) bekezdés b) pontjában, valamint (7) bekezdéséb
 
 f)[^132]
 
-f)[^133] az Éltv. 33. § b) pont ba) és bc)–be) alpontjaiban foglaltak tekintetében a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal.
+f)[^133] az Éltv. 33. § b) pont
+
+fa) ba) alpontjában foglaltak tekintetében a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal és a NÉBIH,
+
+fb) bc)–be) alpontjában foglaltak tekintetében a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal.
 
 g)[^134] a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 5. § 22b. pontjában foglaltak tekintetében a NÉBIH,
 
@@ -33,7 +37,7 @@ h)[^135] a Fétv. 76/A. §-ában, 76/F. §-ában, valamint 76/H. §-ában foglal
 [^130]: A 20. § (1) bekezdés e) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (22) bekezdése iktatta be, hatályon kívül helyezte a 425/2020. (IX. 10.) Korm. rendelet 12. § b) pontja.
 [^131]: A 20. § (1) bekezdés második e) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (23) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^132]: A 20. § (1) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (22) bekezdése iktatta be, hatályon kívül helyezte a 425/2020. (IX. 10.) Korm. rendelet 12. § b) pontja.
-[^133]: A 20. § (1) bekezdés második f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (23) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
+[^133]: A 20. § (1) bekezdés második f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (23) bekezdése iktatta be, szövege a 129/2026. (VIII. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^134]: A 20. § (1) bekezdés g) pontját a 89/2024. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 486/2025. (XII. 31.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.
 [^135]: A 20. § (1) bekezdés h) pontját a 89/2024. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 486/2025. (XII. 31.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^136]: A 20. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
