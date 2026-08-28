@@ -1,0 +1,13 @@
+## 2. A földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartás részletes szabályairól szóló 38/2014. (II. 24.) Korm. rendelet módosítása
+
+2. § (1) A földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartás részletes szabályairól szóló 38/2014. (II. 24.) Korm. rendelet [a továbbiakban: 38/2014. (II. 24.) Korm. rendelet] 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az adatokat a (2) bekezdés szerinti nyilvántartásokon kívüli más nyilvántartás közhitelesen tartalmazza, akkor ezen adatok tekintetében az (1) bekezdés szerinti bejelentés úgy valósul meg, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv az (1) bekezdés szerinti határidőben értesíti a mezőgazdasági igazgatási szervet, amely az értesítés alapján az adatváltozást – ha a közhiteles nyilvántartás és az értesítés alapján az átvezetéshez minden adat rendelkezésre áll – hivatalból átvezeti. Ha az értesítés alapján az adatváltozás hivatalból nem vezethető át, a mezőgazdasági igazgatási szerv az adatváltozás bejelentésére szólítja fel a földművest, a mezőgazdasági termelőszervezetet, illetve az újonnan alapított mezőgazdasági termelőszervezetet.”
+
+(2) A 38/2014. (II. 24.) Korm. rendelet 12. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a mezőgazdasági termelőszervezet felszámolás vagy végelszámolás alá kerül, és a cégnyilvántartásban szereplő cég nevében a (4) bekezdés alapján a földműves nyilvántartásban is átvezetésre kerül az „f.a.” vagy „v.a.” toldat, a cég vezető tisztségviselőjének személyében bekövetkezett, a cégnyilvántartásban már átvezetett változást hivatalból át kell vezetni, azzal, hogy a felszámoló és a végelszámoló vezető tisztségviselőként történő bejegyzésekor a 6. § (1) bekezdés b) és c) pontjában foglalt feltételek teljesülését nem kell vizsgálni.”
+
+(3) A 38/2014. (II. 24.) Korm. rendelet 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a nyilvántartásba vett földműves, mezőgazdasági termelőszervezet, illetve újonnan alapított mezőgazdasági termelőszervezet adataiban bekövetkezett változásról – változásbejelentés hiányában – a mezőgazdasági igazgatási szerv tudomást szerez, és az átvezetéshez minden adat rendelkezésre áll, akkor az adatváltozást hivatalból átvezeti. Ha a rendelkezésre álló adatok alapján az adatváltozás hivatalból nem vezethető át, a mezőgazdasági igazgatási szerv az adatváltozás bejelentésére szólítja fel a földművest, a mezőgazdasági termelőszervezetet, illetve az újonnan alapított mezőgazdasági termelőszervezetet.”
