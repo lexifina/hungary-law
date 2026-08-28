@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-179-20-
 | 2026-01-03 | 2023-179-20-22.14 | 485/2025. (XII. 31.) Korm. rendelet |
 | 2026-01-14 | 2023-179-20-22.13 | 449/2025. (XII. 29.) Korm. rendelet |
 | 2026-03-01 | 2023-179-20-22.15 | 485/2025. (XII. 31.) Korm. rendelet |
+| 2026-08-28 | 2023-179-20-22.16 | 129/2026. (VIII. 25.) Korm. rendelet |

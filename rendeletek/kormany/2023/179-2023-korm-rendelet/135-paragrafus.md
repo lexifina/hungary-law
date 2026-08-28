@@ -1,6 +1,6 @@
 ## 71. Automatikus döntéshozatal
 
-135. § (1)[^123] Az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést:
+135. § (1)[^128] Az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést:
 
 a) a végrehajtási jog,
 
@@ -10,7 +10,7 @@ c) a hitelintézeti jelzálogjog és önálló zálogjog, valamint az ezek bizto
 
 törlése iránt benyújtott beadvány tárgyában.
 
-(2)[^124] A 136. §-ban meghatározott kivételekkel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést az (1) bekezdés a) és b) pontja alá nem tartozó jog, illetve tény változásának bejegyzésére, valamint az (1) bekezdés a) és b) pontja alá tartozó jog bejegyzésére vonatkozó
+(2)[^129] A 136. §-ban meghatározott kivételekkel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést az (1) bekezdés a) és b) pontja alá nem tartozó jog, illetve tény változásának bejegyzésére, valamint az (1) bekezdés a) és b) pontja alá tartozó jog bejegyzésére vonatkozó
 
 a) bírósági elrendelés vagy
 
@@ -18,9 +18,9 @@ b) hatósági felhívás
 
 tárgyában.
 
-(3)[^125] A 136. § (9) bekezdésében meghatározott kivétellel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést a 2. § (1) bekezdés 3–10. és 13–37. pontja szerinti jogi jelleg adatok változásának bejegyzése tárgyában.
+(3)[^130] A 136. § (9) bekezdésében meghatározott kivétellel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést a 2. § (1) bekezdés 3–10. és 13–37. pontja szerinti jogi jelleg adatok változásának bejegyzése tárgyában.
 
-(4)[^126] A 136. §-ban meghatározott kivételekkel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést
+(4)[^131] A 136. §-ban meghatározott kivételekkel az ingatlanügyi hatóság automatikus döntéshozatallal hozhat döntést
 
 a) a tulajdonjog változásának bejegyzésére irányuló kérelem tárgyában, ha
 
@@ -30,7 +30,7 @@ ab) az ingatlan tulajdoni lapjának III. részén nem szerepel bejegyzett jog va
 
 b) a hitelintézeti jelzálogjog és önálló zálogjog, valamint az ezek biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzése tárgyában.
 
-[^123]: A 135. § (1) bekezdés nyitó szövegrésze a 287/2024. (IX. 30.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
-[^124]: A 135. § (2) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^125]: A 135. § (3) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
-[^126]: A 135. § (4) bekezdés nyitó szövegrésze a 483/2024. (XII. 31.) Korm. rendelet 25. § 13. pontja szerint módosított szöveg.
+[^128]: A 135. § (1) bekezdés nyitó szövegrésze a 287/2024. (IX. 30.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^129]: A 135. § (2) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^130]: A 135. § (3) bekezdése a 287/2024. (IX. 30.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^131]: A 135. § (4) bekezdés nyitó szövegrésze a 483/2024. (XII. 31.) Korm. rendelet 25. § 13. pontja szerint módosított szöveg.

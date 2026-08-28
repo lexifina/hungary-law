@@ -1,3 +1,3 @@
-176. §[^158]
+176. §[^163]
 
-[^158]: A 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 176. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

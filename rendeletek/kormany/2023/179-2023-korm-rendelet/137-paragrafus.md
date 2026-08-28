@@ -1,4 +1,4 @@
-137. § (1)[^129] Automatikus döntéshozatali eljárásban az ingatlanügyi hatóság kizárólag a következő dokumentumok tartalmát vizsgálja:
+137. § (1)[^134] Automatikus döntéshozatali eljárásban az ingatlanügyi hatóság kizárólag a következő dokumentumok tartalmát vizsgálja:
 
 a) a kérelem, a bírósági elrendelés vagy hatósági felhívás ingatlan-nyilvántartási elektronikus űrlapja,
 
@@ -12,4 +12,4 @@ e) az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben l
 
 (2) Automatikus döntéshozatali eljárásban kizárólag a kérelemnek helyt adó, illetve a bírósági elrendelés vagy hatósági felhívás ingatlan-nyilvántartási rendelkezését végrehajtó döntés hozható.
 
-[^129]: A 137. § (1) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^134]: A 137. § (1) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
