@@ -44,11 +44,11 @@ d) az örökségvédelem, az épített és természeti kultúra, környezet véd
 
 5. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Marjay Gyulát jelöli ki.
 
-6. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 4. pontban foglaltak szerint a Jövő Nemzedék Földje Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az agrár- és élelmiszergazdaságért felelős miniszter kijelölésre kerüljön.
+6.[^1] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 4. pontban foglaltak szerint a Jövő Nemzedék Földje Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az agrár- és élelmiszergazdaságért felelős miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter agrár- és élelmiszergazdaságért felelős miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 7. A Jövő Nemzedék Földje Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány az Agrár- és Élelmiszergazdaságért Felelős Minisztériumot határozza meg.
 
@@ -84,9 +84,13 @@ e) a kulturális örökség védelme, az épített és természeti kultúra, kö
 
 | Határidő: | a feladat átvételét követően azonnal |
 
-11. A MOL – Új Európa Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a belügyminiszter.
+11.[^2] A MOL – Új Európa Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a pénzügyminiszter.
 
-12. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 11. pontban foglaltak szerint a MOL – Új Európa Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a belügyminiszter kijelölésre kerüljön.
+12.[^3] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a MOL – Új Európa Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében a pénzügyminiszter – mint az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója – kijelölése érdekében.
+
+| Felelős: | pénzügyminiszter |
+
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 | Felelős: | pénzügyminiszter belügyminiszter |
 
@@ -136,11 +140,11 @@ d) a nevelési-oktatási tevékenységet folytató pedagógusok és a nevelésbe
 
 21. A Közép-európai Oktatási Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a közlekedési és beruházási miniszter.
 
-22. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 21. pontban foglaltak szerint a Közép-európai Oktatási Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
+22.[^4] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 21. pontban foglaltak szerint a Közép-európai Oktatási Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter közlekedési és beruházási miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 23. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Muskovszky Petrát jelöli ki.
 
@@ -162,19 +166,19 @@ b) a színházi kulturális élet működéséhez való hozzájárulást, az abb
 
 27. A Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 26. pont a) alpontjában megjelölt feladat ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a közlekedési és beruházási miniszter.
 
-28. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 27. pontban foglaltak szerint a Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő – a 26. pont a) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
+28.[^5] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 27. pontban foglaltak szerint a Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő – a 26. pont a) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter közlekedési és beruházási miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 29. A Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 26. pont b) alpontjában megjelölt feladat ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a társadalmi kapcsolatokért és kultúráért felelős miniszter.
 
-30. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 29. pontban foglaltak szerint a Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő – a 26. pont b) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
+30.[^6] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 29. pontban foglaltak szerint a Millenáris Tudományos Kulturális Alapítvány megszüntetésével állami tulajdonba kerülő – a 26. pont b) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 31. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Muskovszky Petrát jelöli ki.
 
@@ -232,11 +236,11 @@ i) a fenti feladatokkal azonosuló szervezetek, intézmények, illetve egyéb sz
 
 36. A Batthyány Lajos Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a pénzügyminiszter.
 
-37. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Batthyány Lajos Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében a pénzügyminiszter – mint az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója – kijelölése érdekében.
+37.[^7] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Batthyány Lajos Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében a pénzügyminiszter – mint az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója – kijelölése érdekében.
 
 | Felelős: | pénzügyminiszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 38. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
@@ -304,7 +308,7 @@ a) – a b) alpontban foglaltak kivételével – a pénzügyminiszter,
 
 b) az ingatlanfejlesztési tevékenységi kört megvalósító gazdasági társaságok tekintetében a közlekedési és beruházási miniszter.
 
-44. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Mathias Corvinus Collegium Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében
+44.[^8] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Mathias Corvinus Collegium Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében
 
 a) – a b) alpontban foglaltak kivételével – a pénzügyminiszter,
 
@@ -314,7 +318,7 @@ b) az ingatlanfejlesztési tevékenységi kört megvalósító gazdasági társa
 
 | Felelős: | pénzügyminiszter közlekedési és beruházási miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 45. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
@@ -346,11 +350,11 @@ d) a klímaváltozás hatásaival szemben való fellépésnek, az alkalmazkodás
 
 49. A Kék Bolygó Klímavédelmi Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a pénzügyminiszter.
 
-50. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Kék Bolygó Klímavédelmi Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében a pénzügyminiszter – mint az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója – kijelölése érdekében.
+50.[^9] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket a Kék Bolygó Klímavédelmi Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében a pénzügyminiszter – mint az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója – kijelölése érdekében.
 
 | Felelős: | pénzügyminiszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 51. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
@@ -442,13 +446,13 @@ e) intézetek operatív irányítása: a nevesített intézetek (Terror Háza M�
 
 66. A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a társadalmi kapcsolatokért és kultúráért felelős miniszter.
 
-67. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 66. pontban foglaltak szerint a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
+67.[^10] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 66. pontban foglaltak szerint a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
-68.[^1] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
+68.[^11] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 69. A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány a Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztériumot határozza meg.
 
@@ -484,11 +488,11 @@ c) adományok és csatlakozások kezelése.
 
 73. A Közép-európai Épített Örökség Megőrző Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a közlekedési és beruházási miniszter.
 
-74. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 73. pontban foglaltak szerint a Közép-európai Épített Örökség Megőrző Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
+74.[^12] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 73. pontban foglaltak szerint a Közép-európai Épített Örökség Megőrző Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter közlekedési és beruházási miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 75. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Muskovszky Petrát jelöli ki.
 
@@ -536,21 +540,21 @@ g) közvetlen pályáztatás és ösztöndíj-folyósítás: a leányvállalatok
 
 80. A Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 78. pont a)–c) alpontjában, valamint e) alpontjában megjelölt feladatok ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a társadalmi kapcsolatokért és kultúráért felelős miniszter.
 
-81. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 80. pontban foglaltak szerint a Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő – a 78. pont a)–c) alpontjában, valamint e) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
+81.[^13] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 80. pontban foglaltak szerint a Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő – a 78. pont a)–c) alpontjában, valamint e) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 82. A Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 78. pont d) alpontjában megjelölt feladat ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a közlekedési és beruházási miniszter.
 
-83. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 82. pontban foglaltak szerint a Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő – a 78. pont d) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
+83.[^14] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 82. pontban foglaltak szerint a Magyar Kultúráért Alapítvány megszüntetésével állami tulajdonba kerülő – a 78. pont d) alpontjában megjelölt feladat ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a közlekedési és beruházási miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter közlekedési és beruházási miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
-84.[^2] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
+84.[^15] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 85. A Magyar Kultúráért Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány
 
@@ -606,21 +610,21 @@ h) pályáztatás és mecenatúra operatív vitel: egyedi kérelmek, nyilvános 
 
 89. A Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 87. pont a), b), d) és f) alpontjában megjelölt feladatok ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a társadalmi kapcsolatokért és kultúráért felelős miniszter.
 
-90. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 89. pontban foglaltak szerint a Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő – a 87. pont a), b), d) és f) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
+90.[^16] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 89. pontban foglaltak szerint a Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő – a 87. pont a), b), d) és f) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a társadalmi kapcsolatokért és kultúráért felelős miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 91. A Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló – a 87. pont c) és e) alpontjában megjelölt feladatok ellátásához kapcsolódó – részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója az oktatási és gyermekügyi miniszter.
 
-92. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 91. pontban foglaltak szerint a Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő – a 87. pont c) és e) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az oktatási és gyermekügyi miniszter kijelölésre kerüljön.
+92.[^17] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 91. pontban foglaltak szerint a Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány megszüntetésével állami tulajdonba kerülő – a 87. pont c) és e) alpontjában megjelölt feladatok ellátásához kapcsolódó – gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az oktatási és gyermekügyi miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter oktatási és gyermekügyi miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
-93.[^3] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
+93.[^18] A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként Veres Ildikót jelöli ki.
 
 94. A Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány egyes feladatait átvevő költségvetési szervként a Kormány
 
@@ -650,11 +654,11 @@ d) a betegségek megelőzését segítő – kiemelten lézeres egészségügyi 
 
 97. Az ÉLVONAL Csúcskutatási és Tehetséggondozó Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a tudományos és technológiai miniszter.
 
-98. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 97. pontban foglaltak szerint az ÉLVONAL Csúcskutatási és Tehetséggondozó Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a tudományos és technológiai miniszter kijelölésre kerüljön.
+98.[^19] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 97. pontban foglaltak szerint az ÉLVONAL Csúcskutatási és Tehetséggondozó Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a tudományos és technológiai miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter tudományos és technológiai miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 99. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Váczy Zoltán Kristófot jelöli ki.
 
@@ -684,11 +688,11 @@ f) az a)–e) alpont szerinti feladatok végrehajtása során a mesterséges int
 
 103. A ZalaZONE Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságokban fennálló részesedések tekintetében az állam nevében a tulajdonosi jogok és kötelezettségek összességének gyakorlója a tudományos és technológiai miniszter.
 
-104. A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 103. pontban foglaltak szerint a ZalaZONE Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a tudományos és technológiai miniszter kijelölésre kerüljön.
+104.[^20] A Kormány felhívja a pénzügyminisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 103. pontban foglaltak szerint a ZalaZONE Alapítvány megszüntetésével állami tulajdonba kerülő gazdasági társaságok tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a tudományos és technológiai miniszter kijelölésre kerüljön.
 
 | Felelős: | pénzügyminiszter tudományos és technológiai miniszter |
 
-| Határidő: | az állam tulajdonjogának cégnyilvántartásba történő bejegyzését követően haladéktalanul |
+| Határidő: | az állam tulajdonszerzését követően haladéktalanul |
 
 105. A Kormány a KEKVA tv. V/A. Fejezete szerinti elszámolási feladatok ellátására elszámolási biztosként dr. Váczy Zoltán Kristófot jelöli ki.
 
@@ -710,6 +714,23 @@ b) tegyen jelentést a Kormány részére az MNV kezelésébe került vagyonelem
 
 108. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 68. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^2]: A 84. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^3]: A 93. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: A 6. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 11. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 12. pont az 1272/2026. (VIII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 22. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^5]: A 28. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^6]: A 30. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^7]: A 37. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^8]: A 44. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^9]: Az 50. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^10]: A 67. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^11]: A 68. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^12]: A 74. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^13]: A 81. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^14]: A 83. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^15]: A 84. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^16]: A 90. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^17]: A 92. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^18]: A 93. pont az 1238/2026. (VII. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^19]: A 98. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^20]: A 104. pont az 1272/2026. (VIII. 27.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
