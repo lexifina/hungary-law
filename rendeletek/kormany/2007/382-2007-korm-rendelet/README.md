@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2025-01-01 | 2007-382-20-22.59 | 466/2024. (XII. 30.) Korm. rendelet |
 | 2025-01-15 | 2007-382-20-22.58 | 385/2024. (XII. 9.) Korm. rendelet |
 | 2026-02-06 | 2007-382-20-22.60 | 17/2026. (II. 5.) Korm. rendelet |
+| 2026-08-29 | 2007-382-20-22.61 | 131/2026. (VIII. 28.) Korm. rendelet |

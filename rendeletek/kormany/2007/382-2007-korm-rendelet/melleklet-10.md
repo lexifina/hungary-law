@@ -1,4 +1,4 @@
-10. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^195]
+10. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^196]
 
 A VET 123. § (2) bekezdésében foglaltak szerint vezetékjog létrejöttének megállapításához szükséges adatok
 
@@ -32,4 +32,4 @@ e) tartószerkezeten elhelyezett átalakító- vagy kapcsolóberendezés típusa
 
 A vezetékjog bejegyzéséhez szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendelet szerint kell elkészíteni.
 
-[^195]: A 10. mellékletet a 385/2024. (XII. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^196]: A 10. mellékletet a 385/2024. (XII. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.

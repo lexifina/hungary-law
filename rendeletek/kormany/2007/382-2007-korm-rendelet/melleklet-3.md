@@ -1,8 +1,8 @@
-3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^169]
+3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^170]
 
 Műszaki dokumentáció
 
-1.[^170] Nyomvonal-kijelölési dokumentáció
+1.[^171] Nyomvonal-kijelölési dokumentáció
 
 1.1. A létesítendő hálózat (vezeték) megnevezése.
 
@@ -18,7 +18,7 @@ Műszaki dokumentáció
 
 1.5. Átnézeti helyszínrajz (térkép) a tervezési terület megjelölésével.
 
-1.6.[^171] Föld feletti vezetéknél 1:50 000 vagy ennél részletesebb térkép a nyomvonal EOV-koordináták, valamint GPS-koordináták szerinti feltüntetésével.
+1.6.[^172] Föld feletti vezetéknél 1:50 000 vagy ennél részletesebb térkép a nyomvonal EOV-koordináták, valamint GPS-koordináták szerinti feltüntetésével.
 
 1.7. Föld alatti vezetéknél az ingatlan-nyilvántartási térkép szerinti méretarányú vagy ettől eltérő, a szükségesnek megfelelő kisebb méretarányú térképet a javasolt nyomvonal feltüntetésével.
 
@@ -28,13 +28,13 @@ Műszaki dokumentáció
 
 1.9.1. A hálózat (vezeték) tartozékát képező egyéb építmény elhelyezési és körvonal vázlata.
 
-1.10.[^172]
+1.10.[^173]
 
 2. Nyomvonal-kijelölési dokumentáció az egyszerűsített eljáráshoz
 
 2.1. Az 1.1–1.9. pontokban felsorolt dokumentációk.
 
-3.[^173] Előmunkálati engedély dokumentációi
+3.[^174] Előmunkálati engedély dokumentációi
 
 3.1. Az 1. pont 1.1–1.7. alpontjában felsorolt dokumentációk (térképekből 3-3 db).
 
@@ -42,13 +42,13 @@ Műszaki dokumentáció
 
 4.1. Az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
 
-4.2.[^174]
+4.2.[^175]
 
-4.3.[^175]
+4.3.[^176]
 
 4.4. Az ügyfelek nyilatkozatai, annak hiányában a megkeresésüket hitelt érdemlően igazoló bizonylat (például tértivevény).
 
-4.5.[^176]
+4.5.[^177]
 
 4.6. A tervező nyilatkozata arról, hogy
 
@@ -60,21 +60,21 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott, 
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-4.7.[^177] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzését megalapozó, az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendeletben foglaltaknak megfelelően elkészített és az ingatlanügyi hatóság által záradékolt változási vázrajz.
+4.7.[^178] A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzését megalapozó, az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendeletben foglaltaknak megfelelően elkészített és az ingatlanügyi hatóság által záradékolt változási vázrajz.
 
 5. Termelői, magán- és közvetlen vezeték építési engedélyezéséhez szükséges dokumentáció
 
 5.1. Az 1. pont szerinti tartalommal elkészített dokumentációk véglegesített változatban.
 
-5.2.[^178]
+5.2.[^179]
 
-5.3.[^179]
+5.3.[^180]
 
-5.4.[^180] Az engedélyesnek az ügyfelekkel a Ptk. rendelkezései szerint kötött megállapodása.
+5.4.[^181] Az engedélyesnek az ügyfelekkel a Ptk. rendelkezései szerint kötött megállapodása.
 
 5.5. A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot, keresztezéseit, egyéb létesítményeket és az érintett ingatlanok határait és helyrajzi számait is feltüntető – az állami földmérési alaptérképre történő átvezetéshez alkalmas méretarányban, a közigazgatási határokat és megnevezéseket tartalmazó közigazgatási területenként szétválaszthatóan elkészített – nyomvonalrajz a települési önkormányzat jegyzője, az engedélyes és a Hatóság részére egy-egy példányban, az ingatlan-nyilvántartás vezetéséért felelős hatóság részére két példányban, az azonosítást biztosító egyedi rajzszámmal és megnevezéssel ellátva, valamint műszaki leírás egy példányban. Amennyiben a hálózat (vezeték) nyomvonala több települést érint, úgy településenként további 1-1 példány nyomvonalrajz és műszaki leírás szükséges.
 
-5.6.[^181]
+5.6.[^182]
 
 5.7. A tervező nyilatkozata arról, hogy
 
@@ -90,7 +90,7 @@ d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) s
 
 6.1. Vezetékjog fennállását és keletkezésének időpontját, vagy a közcélú hálózat meglétét és létesítésének időpontját igazoló dokumentum.
 
-6.2.[^182] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
+6.2.[^183] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
 
 A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzéséhez szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendelet szerint kell elkészíteni.
 
@@ -102,7 +102,7 @@ A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét
 
 7.3. A megközelítés, a közlekedés, a közművek, valamint ezek kapcsolatainak ismertetése (tervei), a terület-előkészítési munkák műszaki tervei (tereprendezési, bontási és földmunkák).
 
-7.4.[^183]
+7.4.[^184]
 
 7.5. A tervező nyilatkozata arról, hogy
 
@@ -114,9 +114,9 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott, 
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-7.6.[^184]
+7.6.[^185]
 
-7.7.[^185]
+7.7.[^186]
 
 8. Az erőmű vagy belső kezelőterű átalakító vagy kapcsoló berendezés használatbavételi engedélyezéséhez szükséges dokumentáció
 
@@ -132,7 +132,7 @@ c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban fogla
 
 8.3. Az esetleges próbaüzem eredményeiről szóló nyilatkozat, valamint az üzembe helyezési eljárásról készült hitelesített jegyzőkönyv a jelenléti ívvel és annak mellékletei.
 
-9.[^186] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
+9.[^187] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
 
 9.1. A felelős műszaki vezető (vezetők) nyilatkozata arról, hogy
 
@@ -170,24 +170,24 @@ d) az adott tervezésre jogosultsággal rendelkezik.
 
 10.6. Az ügyfelek nyilatkozatai, annak hiányában a megkeresésüket hitelt érdemlően igazoló bizonylat (például tértivevény).
 
-11.[^187] Több ütemben megvalósuló építési tevékenység esetében a tervrajzokon az egyes ütemeket egyértelműen jelölni kell.
+11.[^188] Több ütemben megvalósuló építési tevékenység esetében a tervrajzokon az egyes ütemeket egyértelműen jelölni kell.
 
-[^169]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
-[^170]: A 3. számú melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 214. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^171]: A 3. melléklet 1. pont 1.6. alpontja a 711/2021. (XII. 17.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^172]: A 3. számú melléklet 1. pont 1.10. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^173]: A 3. számú melléklet 3. pontját újonnan a 37/2021. (II. 2.) Korm. rendelet 5. §-a iktatta be.
-[^174]: A 3. számú melléklet 4. pont 4.2. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^175]: A 3. számú melléklet 4. pont 4.3. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^176]: A 3. számú melléklet 4. pont 4.5. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^177]: A 3. melléklet 4.7. pontját a 385/2024. (XII. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^178]: A 3. számú melléklet 5. pont 5.2. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^179]: A 3. számú melléklet 5. pont 5.3. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^180]: A 3. melléklet 5. pont 5.4. alpontja a 149/2023. (IV. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^181]: A 3. számú melléklet 5. pont 5.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^182]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^183]: A 3. számú melléklet 7. pont 7.4. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^184]: A 3. számú melléklet 7. pont 7.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^185]: A 3. melléklet 7. pont 7.7. alpontját a 277/2016. (IX. 15.) Korm. rendelet 6. § (5) bekezdése iktatta be, a 650/2023. (XII. 28.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
-[^186]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^187]: A 3. számú melléklet 11. pontját a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés d) pontja hatályon kívül helyezte, újonnan a 149/2023. (IV. 27.) Korm. rendelet 3. §-a iktatta be.
+[^170]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^171]: A 3. számú melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 214. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^172]: A 3. melléklet 1. pont 1.6. alpontja a 711/2021. (XII. 17.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^173]: A 3. számú melléklet 1. pont 1.10. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^174]: A 3. számú melléklet 3. pontját újonnan a 37/2021. (II. 2.) Korm. rendelet 5. §-a iktatta be.
+[^175]: A 3. számú melléklet 4. pont 4.2. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^176]: A 3. számú melléklet 4. pont 4.3. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^177]: A 3. számú melléklet 4. pont 4.5. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^178]: A 3. melléklet 4.7. pontját a 385/2024. (XII. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^179]: A 3. számú melléklet 5. pont 5.2. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^180]: A 3. számú melléklet 5. pont 5.3. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^181]: A 3. melléklet 5. pont 5.4. alpontja a 149/2023. (IV. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^182]: A 3. számú melléklet 5. pont 5.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^183]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^184]: A 3. számú melléklet 7. pont 7.4. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^185]: A 3. számú melléklet 7. pont 7.6. alpontját a 457/2017. (XII. 28.) Korm. rendelet 214. § k) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^186]: A 3. melléklet 7. pont 7.7. alpontját a 277/2016. (IX. 15.) Korm. rendelet 6. § (5) bekezdése iktatta be, a 650/2023. (XII. 28.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
+[^187]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^188]: A 3. számú melléklet 11. pontját a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés d) pontja hatályon kívül helyezte, újonnan a 149/2023. (IV. 27.) Korm. rendelet 3. §-a iktatta be.
