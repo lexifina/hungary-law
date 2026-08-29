@@ -28,7 +28,7 @@
 
 ## ÁB: a villamosenergia-szolgáltató auditált éves rezsivédelmi szolgáltatási tevékenységi beszámolója szerinti értékesítés nettó árbevétele, ennek hiányában az általa készített legfrissebb, részletesen alátámasztott éves árbevétel-kalkuláció eredménye.
 
-4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^35]
+4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^37]
 
 A villamosenergia-szolgáltató részére a 2025. és 2026. évi rezsivédelmi szolgáltatás biztosításához indokolt áron elszámolható villamosenergia-mennyiség
 
@@ -48,4 +48,4 @@ A villamosenergia-szolgáltató részére a 2025. és 2026. évi rezsivédelmi s
 
 | 2 | MVM Next Energiakereskedelmi Zrt. | 10 855 335 |
 
-[^35]: A 4. mellékletet a 36/2018. (XII. 21.) ITM rendelet 3. § d) pontja hatályon kívül helyezte, újonnan a 20/2025. (VII. 31.) EM rendelet 8. § c) pontja iktatta be, szövege a 31/2025. (XI. 11.) EM rendelet 1. §-ával megállapított szöveg.
+[^37]: A 4. mellékletet a 36/2018. (XII. 21.) ITM rendelet 3. § d) pontja hatályon kívül helyezte, újonnan a 20/2025. (VII. 31.) EM rendelet 8. § c) pontja iktatta be, szövege a 31/2025. (XI. 11.) EM rendelet 1. §-ával megállapított szöveg.

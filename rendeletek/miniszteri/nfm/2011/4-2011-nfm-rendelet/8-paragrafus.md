@@ -1,4 +1,4 @@
-## 5.[^23] Rezsivédelmi szolgáltatás biztosításáért járó ellentételezés
+## 5.[^25] Rezsivédelmi szolgáltatás biztosításáért járó ellentételezés
 
 8. § (1) Az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 236/2025. (VII. 31.) Korm. rendelet (a továbbiakban: KR) szerinti villamosenergia-szolgáltató (a továbbiakban: villamosenergia-szolgáltató) részére a rezsivédelmi szolgáltatás biztosításáért járó ellentételezés számítási módszertanát a 3. melléklet tartalmazza. A számítás során az a villamos energia vehető figyelembe, amely
 
@@ -14,12 +14,12 @@ kerül beszerzésre.
 
 (4) Az ellentételezés kiszámítása során a (3) bekezdés szerinti mennyiségen belül
 
-a)[^24] az az éven túli villamosenergia-beszerzéssel beszerzett villamos energia vehető figyelembe az adott ügylet tényleges elszámolási árán elszámolva, amelynek beszerzése a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló törvény szerinti szabályozott piacon, határidős ügyletek megkötésével történik,
+a)[^26] az az éven túli villamosenergia-beszerzéssel beszerzett villamos energia vehető figyelembe az adott ügylet tényleges elszámolási árán elszámolva, amelynek beszerzése a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló törvény szerinti szabályozott piacon, határidős ügyletek megkötésével történik,
 
 b) az éven belüli villamosenergia-beszerzéssel érintett villamos energia a) pont szerint nem fedezett része vagy többlete a szervezett villamosenergia-piacon határidős, másnapi vagy napon belüli termékek vásárlásával vagy értékesítésével, a szervezett villamosenergia-piac elszámolási módja szerinti időegységre vonatkozó elszámoló árakon elszámolva kerül figyelembevételre.
 
-(5)[^25] Az ellentételezés kiszámítása a (4) bekezdés szerinti villamosenergia-vásárláshoz vagy -értékesítéshez kapcsolódó devizafedezeti ügyletek figyelembevételével történik.
+(5)[^27] Az ellentételezés kiszámítása a (4) bekezdés szerinti villamosenergia-vásárláshoz vagy -értékesítéshez kapcsolódó devizafedezeti ügyletek figyelembevételével történik.
 
-[^23]: Az 5. alcím (8–8/E. §) a 20/2025. (VII. 31.) EM rendelet 6. §-ával megállapított szöveg.
-[^24]: A 8. § (4) bekezdés a) pontja a 6/2026. (III. 5.) EM rendelet 2. §-a szerint módosított szöveg.
-[^25]: A 8. § (5) bekezdése a 6/2026. (III. 5.) EM rendelet 1. §-ával megállapított szöveg.
+[^25]: Az 5. alcím (8–8/E. §) a 20/2025. (VII. 31.) EM rendelet 6. §-ával megállapított szöveg.
+[^26]: A 8. § (4) bekezdés a) pontja a 6/2026. (III. 5.) EM rendelet 2. §-a szerint módosított szöveg.
+[^27]: A 8. § (5) bekezdése a 6/2026. (III. 5.) EM rendelet 1. §-ával megállapított szöveg.

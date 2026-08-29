@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-2W
 | 2025-08-01 | 2011-4-20-2W.26 | 20/2025. (VII. 31.) EM rendelet |
 | 2025-11-12 | 2011-4-20-2W.27 | 36/2018. (XII. 21.) ITM rendelet |
 | 2026-03-06 | 2011-4-20-2W.28 | 6/2026. (III. 5.) EM rendelet |
+| 2026-08-29 | 2011-4-20-2W.29 | 4/2026. (VIII. 28.) GEM rendelet |

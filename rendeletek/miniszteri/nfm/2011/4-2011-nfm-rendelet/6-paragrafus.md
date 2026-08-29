@@ -1,4 +1,4 @@
-6. §[^20] (1) A kedvezményes lakossági sávhatár mértéke „A1”, „A2”, „B Alap” és „H” árszabás esetén árszabásonként 2523 kWh/év / mérési pont (felhasználási hely). „H” árszabás esetén a kedvezményes mennyiséget fűtési idényen kívüli időszakban kell érvényesíteni.
+6. §[^21] (1) A kedvezményes lakossági sávhatár mértéke „A1”, „A2”, „B Alap” és „H” árszabás esetén árszabásonként 2523 kWh/év / mérési pont (felhasználási hely). „H” árszabás esetén a kedvezményes mennyiséget fűtési idényen kívüli időszakban kell érvényesíteni.
 
 (2) A kedvezményes mikrovállalkozói sávhatár mértéke 4606 kWh/év / összes felhasználási hely fogyasztásig. Több árszabás alkalmazása esetén a kedvezményes mennyiséget a felhasználási hely vonatkozásában kiszámlázott villamosenergia-mennyiségek aránya alapján kell megosztani.
 
@@ -12,4 +12,4 @@
 
 (7) A (4) bekezdésben foglaltaktól eltérően előre fizetős mérő esetében az (1) és a (2) bekezdés szerinti kedvezményes mennyiség kiosztását követően van mód a VET 145. § (3a), illetve (3b) bekezdése szerinti ár alkalmazására.
 
-[^20]: A 6. § a 20/2025. (VII. 31.) EM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 6. § a 20/2025. (VII. 31.) EM rendelet 5. §-ával megállapított szöveg.

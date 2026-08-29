@@ -1,4 +1,4 @@
-2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^33]
+2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^35]
 
 Az egyetemes szolgáltató által alkalmazandó árszabások kedvezményes árai (Ft/kWh)
 
@@ -50,4 +50,4 @@ Az egyetemes szolgáltató által alkalmazandó árszabások kedvezményes árai
 
 | 10 | – fűtési idényen kívüli időszakban | 23,02 | 23,27 | 23,04 | 22,80 |
 
-[^33]: A 2. melléklet a 20/2025. (VII. 31.) EM rendelet 8. § a) pontjával megállapított szöveg.
+[^35]: A 2. melléklet a 20/2025. (VII. 31.) EM rendelet 8. § a) pontjával megállapított szöveg.
