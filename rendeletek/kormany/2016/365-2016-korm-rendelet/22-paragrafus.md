@@ -32,13 +32,16 @@ l)[^83] a jogszabályban meghatározott villamosmű, a termelői vezeték, a mag
 
 (3)[^84] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték több műszaki biztonsági feladatkörben eljáró fővárosi és vármegyei kormányhivatal illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
 
-(3a)[^85] A Kormány a (2) bekezdés l) pontja körébe tartozó a villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdése szerinti átviteli hálózattal kapcsolatos engedélyezési eljárásban országos illetékességű építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+(3a)[^85] A Kormány a (2) bekezdés l) pontja körébe tartozó, a villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdése szerinti átviteli hálózattal kapcsolatos engedélyezési eljárásban országos illetékességű építésügyi hatóságként az 1. melléklet szerinti mérésügyi és műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
 
-(4)[^86] A (2) bekezdésben meghatározott sajátos építményfajtákkal kapcsolatos építésügyi bírságot az azt megállapító végleges határozatban előírt határidőn belül a Magyar Államkincstár által vezetett, 10032000-00005503-06010011 számú Nemzetgazdasági Minisztérium fejezeti építésügyi bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+(3b)[^86] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés c) pontja szerinti integrált erőműépítési és környezetvédelmi engedélyezési eljárásban építésügyi hatóságként az 1. melléklet szerinti mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és vármegyei kormányhivatalokat jelöli ki.
+
+(4)[^87] A (2) bekezdésben meghatározott sajátos építményfajtákkal kapcsolatos építésügyi bírságot az azt megállapító végleges határozatban előírt határidőn belül a Magyar Államkincstár által vezetett, 10032000-00005503-06010011 számú Nemzetgazdasági Minisztérium fejezeti építésügyi bírság bevételek beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
 [^81]: A 21/C. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
 [^82]: A 22. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (7) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
 [^83]: A 22. § (2) bekezdés l) pontja a 385/2024. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^84]: A 22. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (9) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
-[^85]: A 22. § (3a) bekezdését a 711/2021. (XII. 17.) Korm. rendelet 9. §-a iktatta be.
-[^86]: A 22. § (4) bekezdését a 385/2024. (XII. 9.) Korm. rendelet 7. §-a iktatta be.
+[^85]: A 22. § (3a) bekezdését a 711/2021. (XII. 17.) Korm. rendelet 9. §-a iktatta be, szövege a 131/2026. (VIII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^86]: A 22. § (3b) bekezdését a 131/2026. (VIII. 28.) Korm. rendelet 18. §-a iktatta be.
+[^87]: A 22. § (4) bekezdését a 385/2024. (XII. 9.) Korm. rendelet 7. §-a iktatta be.
