@@ -1,0 +1,1 @@
+8. § A Vet. Vhr. az „A háztartási méretű kiserőművek hálózati csatlakozásának elősegítése és a mikrogridek” alcímet követően a következő a „Villamosenergia-tároló létesítésének és üzemeltetésének különös szabályai” alcímmel egészül ki:
