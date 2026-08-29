@@ -110,7 +110,9 @@
 
 | 29. | Vízerőmű | országos jelentőségű védett természeti területen méretmegkötés nélkül |
 
-| 30. | Szélerőmű, szélerőmű park | 500 kW teljesítménytől védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+| 30. | Szélerőmű, szélerőműpark | a) 500 kW teljesítménytől védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+
+| b) integrált erőműépítési és környezetvédelmi eljárás választása esetén |
 
 | 31. | Atomerőmű, atomreaktor, valamint atomerőmű, atomreaktor üzemidejének meghosszabbítása, továbbá atomerőmű, atomreaktor felhagyása, azaz a nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktív anyaggal szennyezett alkotórészeinek végleges eltávolítása | méretmegkötés nélkül |
 
