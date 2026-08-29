@@ -1,4 +1,4 @@
-6. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^40]
+6. számú melléklet a 116/2007. (XII. 29.) GKM rendelethez[^41]
 
 Kimutatás a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben igénybe vehető villamosenergia-vásárlási kedvezményről szóló
 
@@ -11,6 +11,8 @@ Finanszírozó neve
 Finanszírozó átviteli rendszerirányító által adott egyedi azonosító kódja
 
 Tárgyidőszak (év, hónap)
+
+9M17415_0
 
 |  | Első kedvezményes felhasználási hely | Második kedvezményes felhasználási hely | Összesen |
 
@@ -58,6 +60,8 @@ A villamosenergia-piaci egyetemes szolgáltatás árképzéséről, valamint az 
 
 A kedvezményre jogosult hálózathasználati és villamosenergia-vásárlási szerződéseinek kezelése (összevontan/külön)
 
+9M17415_1
+
 |  | Első kedvezményes felhasználási hely | Második kedvezményes felhasználási hely | Összesen |
 
 | A 116/2007. (XII. 29.) GKM rendelet 1. számú melléklete szerinti, illetve az egyetemes szolgáltatók által alkalmazott elszámolási kategóriák (tömbök) | I.1 | II.1 | III. | IV. | V. | VI.2 | I.1 | II.1 | III.3 |
@@ -92,4 +96,4 @@ A kedvezményre jogosult hálózathasználati és villamosenergia-vásárlási s
 
 A finanszírozói jogosultság-csoportonkénti összesítőt az egyes jogosultsági kategóriák, a 115/2007. (XII. 29.) GKM rendelet 3. § (1) bekezdése szerinti árszabások, valamint a hálózathasználati és villamosenergia-vásárlási szerződések kezelése alapján külön-külön kell kitölteni.”
 
-[^40]: A 6. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 24. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^41]: A 6. számú melléklet a 24/2009. (VI. 9.) KHEM rendelet 24. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.

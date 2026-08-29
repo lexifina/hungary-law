@@ -1,6 +1,4 @@
-## 42–43. §[^24]
-
-44. § (1)[^25] A 22. § (7) bekezdése szerinti jogosultság igazolása
+44. § (1)[^26] A 22. § (7) bekezdése szerinti jogosultság igazolása
 
 a) a 9. § (2) bekezdésében meghatározott esetben, ha a villamos energia-ipari munkavállaló munkavállalóként nem vette igénybe a kedvezményt, a munkáltató (amelytől az igénylő nyugdíjba vonult), vagy ha a munkáltató jogutód nélkül megszűnt, az igénylő nyilatkozatával történik.
 
@@ -20,5 +18,4 @@ a) a 2007. június 21-ét is tartalmazó időszakra vonatkozóan kiállított (�
 
 b) azon közüzemi szolgáltató (vagy annak jogutódja) a 2007. június 21-én „C” díjszabással történő vételezésre vonatkozó igazolását, amelytől az igénylő 2007. június 21-én „C” díjszabással villamos energiát vételezett.
 
-[^24]: A 42–43. §-t a 24/2009. (VI. 9.) KHEM rendelet 25. §-a hatályon kívül helyezte. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
-[^25]: A 44. § (1) bekezdése a 24/2009. (VI. 9.) KHEM rendelet 18. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
+[^26]: A 44. § (1) bekezdése a 24/2009. (VI. 9.) KHEM rendelet 18. §-ával megállapított szöveg. E módosító rendelet 26. § (2) bekezdése alapján a rendelkezést csak a 2009. július 1-jét követően benyújtott igénylések esetében kell alkalmazni.
