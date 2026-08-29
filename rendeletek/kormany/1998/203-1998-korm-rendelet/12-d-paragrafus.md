@@ -1,4 +1,4 @@
-12/D. §[^76] A hasznosítási szerződésnek tartalmaznia kell legalább
+12/D. §[^75] A hasznosítási szerződésnek tartalmaznia kell legalább
 
 a) a hasznosító által évente kitermelésre kerülő ásványi nyersanyag minimális mennyiségét,
 
@@ -22,4 +22,4 @@ j) a szerződés megszűnésekor irányadó elszámolási rendet, valamint
 
 k) az újrahasznosítási célt.
 
-[^76]: A Vhr. 12/D. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^75]: A Vhr. 12/D. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.

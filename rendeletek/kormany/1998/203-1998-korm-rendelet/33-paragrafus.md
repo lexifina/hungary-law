@@ -1,5 +1,5 @@
 ## (A Bt. 50. §-ához)
 
-33. §[^169]
+33. §[^168]
 
-[^169]: A Vhr. 33. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 17. pontja hatályon kívül helyezte.
+[^168]: A Vhr. 33. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 17. pontja hatályon kívül helyezte.
