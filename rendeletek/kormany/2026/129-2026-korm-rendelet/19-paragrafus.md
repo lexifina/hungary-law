@@ -1,7 +1,3 @@
-19. § Az Inytv. vhr.
+19. §[^19]
 
-a) 103. § (2) bekezdés a) pontjában a „megszüntetésre, vagy” szövegrész helyébe a „megszüntetésre,” szöveg,
-
-b) 103. § (2) bekezdés b) pontjában a „kerül.” szövegrész helyébe a „kerül, vagy” szöveg
-
-lép.
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-16. § Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet
+16. §[^16]
 
-a) 26. § (3) bekezdése,
-
-b) 26. § (4) bekezdésében a „vagy a NÉBIH kivágást megállapító jegyzőkönyve alapján” szövegrész.
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

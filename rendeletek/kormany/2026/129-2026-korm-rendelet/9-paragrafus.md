@@ -1,3 +1,3 @@
-9. § A 383/2016. (XII. 2.) Korm. rendelet 81. § (1) bekezdése a következő i) ponttal egészül ki:
+9. §[^9]
 
-(Ez a rendelet)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

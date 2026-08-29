@@ -1,1 +1,3 @@
-15. § A 435/2021. (VII. 16.) Korm. rendelet 100. §-ában a „2026.” szövegrész helyébe a „2028.” szöveg lép.
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
