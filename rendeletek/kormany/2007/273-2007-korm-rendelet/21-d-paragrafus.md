@@ -1,4 +1,4 @@
-## (A VET 45/A. §-ához)[^183]
+## (A VET 45/A. §-ához)[^193]
 
 21/D. § (1) Az aktív felhasználó a VET 45/A. §-ában meghatározott együttműködési kötelezettsége keretében
 
@@ -14,4 +14,4 @@ d) betartja az energetikai adatszolgáltató platform működtető engedélyes �
 
 (3) Az energetikai adatszolgáltató platform működtetője köteles a (2) bekezdés szerinti megállapodás általános feltételeit megkülönböztetésmentesen kidolgozni, és honlapján a megállapodásokat közzétenni.
 
-[^183]: A Vhr. „(A VET 45/A. §-ához)” alcímét (21/D. §-t) a 173/2025. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^193]: A Vhr. „(A VET 45/A. §-ához)” alcímét (21/D. §-t) a 173/2025. (VI. 30.) Korm. rendelet 3. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 ## Árszabályozás
 
-113. §[^520] Az egyetemes szolgáltatónak a VET 145. § (4) bekezdése szerinti árszabás áraira vonatkozó javaslatához – az ár átlagára vonatkozó számításokon kívül – árszabásonként is be kell mutatnia az alkalmazni kívánt díjtételeket, valamint az azokat megalapozó számításokat.
+113. §[^535] Az egyetemes szolgáltatónak a VET 145. § (4) bekezdése szerinti árszabás áraira vonatkozó javaslatához – az ár átlagára vonatkozó számításokon kívül – árszabásonként is be kell mutatnia az alkalmazni kívánt díjtételeket, valamint az azokat megalapozó számításokat.
 
-[^520]: A Vhr. 113. §-a a 497/2017. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^535]: A Vhr. 113. §-a a 497/2017. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

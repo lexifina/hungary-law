@@ -1,4 +1,4 @@
-50/A. §[^370] (1) A szervezett villamosenergia-piaci szabályzat célja a szervezett villamosenergia-piac hátrányos megkülönböztetéstől mentes működésének biztosítása, és legalább az alábbi alapvető tárgyköröket szabályozza:
+50/A. §[^385] (1) A szervezett villamosenergia-piaci szabályzat célja a szervezett villamosenergia-piac hátrányos megkülönböztetéstől mentes működésének biztosítása, és legalább az alábbi alapvető tárgyköröket szabályozza:
 
 a) a szervezett villamosenergia-piacon forgalmazott termékek körét,
 
@@ -26,11 +26,11 @@ l) a szervezett villamosenergia-piacon történő kapcsolattartás részletes sz
 
 m) a szervezett villamosenergia-piaci engedélyes tájékoztatási és adatszolgáltatási kötelezettségének teljesítéséhez szükséges nyilvántartás legfontosabb tartalmi és formai követelményeit.
 
-(2)[^371] A szervezett villamosenergia-piaci engedélyes gondoskodik a szervezett villamosenergia-piaci szabályzati bizottság felállításáról. A szervezett villamosenergia-piaci szabályzati bizottság, a miniszter és a szervezett villamosenergia-piac tagjainak képviselőiből áll, és véleményező valamint tanácsadó feladatot lát el a szervezett villamosenergia-piaci szabályzat rendelkezései módosítása tekintetében.
+(2)[^386] A szervezett villamosenergia-piaci engedélyes gondoskodik a szervezett villamosenergia-piaci szabályzati bizottság felállításáról. A szervezett villamosenergia-piaci szabályzati bizottság, a miniszter és a szervezett villamosenergia-piac tagjainak képviselőiből áll, és véleményező valamint tanácsadó feladatot lát el a szervezett villamosenergia-piaci szabályzat rendelkezései módosítása tekintetében.
 
 (3) A szervezett villamosenergia-piaci engedélyes a Hivatalhoz jóváhagyásra benyújtott szervezett villamosenergia-piaci szabályzat tervezetét, továbbá a Hivatal által jóváhagyott szervezett villamosenergia-piaci szabályzatát a honlapján közzéteszi.
 
 (4) A szervezett villamosenergia-piaci engedélyes a szervezett villamosenergia-piaci szabályzatot és az üzletszabályzatát egy dokumentumban összevontan is elkészítheti, amelynek esetén köteles gondoskodni azok megfelelő tagolásáról és az egyes tárgykörök világos elkülönítéséről.
 
-[^370]: A Vhr. 50/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 16. §-a iktatta be.
-[^371]: A Vhr. 50/A. § (2) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^385]: A Vhr. 50/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 16. §-a iktatta be.
+[^386]: A Vhr. 50/A. § (2) bekezdése a 233/2025. (VII. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.

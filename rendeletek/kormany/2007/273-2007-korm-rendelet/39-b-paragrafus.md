@@ -1,4 +1,4 @@
-39/B. §[^325] (1) A jogi személy a Hivataltól kérelmezi az energiaközösségként történő nyilvántartásba vételét a tevékenység megkezdését megelőzően legalább 75 nappal.
+39/B. §[^337] (1) A jogi személy a Hivataltól kérelmezi az energiaközösségként történő nyilvántartásba vételét a tevékenység megkezdését megelőzően legalább 75 nappal.
 
 (2) Az (1) bekezdés szerinti kérelem tartalmazza a kérelmező
 
@@ -24,4 +24,4 @@ c) a megújulóenergia-közösség működésével érintett valamennyi transzfo
 
 (7) A Hivatal a nyilvántartásba vett energiaközösségek listáját a honlapján közzéteszi.
 
-[^325]: A Vhr. 39/B. §-a a 787/2021. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^337]: A Vhr. 39/B. §-a a 787/2021. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.

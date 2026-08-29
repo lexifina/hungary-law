@@ -1,8 +1,8 @@
-22/A. §[^187] (1)[^188] Ha a villamosenergia-kereskedő vagy a felhasználási helyen a felhasználó személye megváltozik, a felek a változást legkésőbb – az (1e) bekezdésben foglalt kivétellel – a változástól számított 15 napon belül kötelesek a másik szerződő félnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
+22/A. §[^197] (1)[^198] Ha a villamosenergia-kereskedő vagy a felhasználási helyen a felhasználó személye megváltozik, a felek a változást legkésőbb – az (1e) bekezdésben foglalt kivétellel – a változástól számított 15 napon belül kötelesek a másik szerződő félnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
 
-(1a)[^189] A felhasználó az (1) bekezdés szerinti bejelentés keretében a villamosenergia-vásárlási szerződését is felmondja.
+(1a)[^199] A felhasználó az (1) bekezdés szerinti bejelentés keretében a villamosenergia-vásárlási szerződését is felmondja.
 
-(1b)[^190] A felhasználó (1) bekezdés szerinti bejelentésének kizárólag a következőket kell tartalmaznia:
+(1b)[^200] A felhasználó (1) bekezdés szerinti bejelentésének kizárólag a következőket kell tartalmaznia:
 
 a) a felhasználási helyre vonatkozóan
 
@@ -14,7 +14,7 @@ ac) a fogyasztásmérő berendezés mérőállása, valamint a mérőállás meg
 
 b) a felhasználó
 
-ba)[^191] neve, születési neve, anyja neve, születési helye és ideje természetes személy esetében, neve, cégjegyzékszáma vagy azzal egyenértékű azonosítója és adószáma jogi személy vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) általános szabályai szerint létrehozott jogalany esetében,
+ba)[^201] neve, születési neve, anyja neve, születési helye és ideje természetes személy esetében, neve, cégjegyzékszáma vagy azzal egyenértékű azonosítója és adószáma jogi személy vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) általános szabályai szerint létrehozott jogalany esetében,
 
 bb) új lakóhelyének vagy székhelyének címe, tartózkodási helyének címe vagy értesítési címe,
 
@@ -38,21 +38,21 @@ f) a bejelentés kelte és
 
 g) a felhasználó vagy az (1e) bekezdés esetében a bejelentő – és új felhasználó esetében az új felhasználó – aláírása.
 
-(1c)[^192] Az új felhasználó az (1) bekezdés szerinti bejelentéshez csatolhatja a villamosenergia-vásárlási szerződés megkötésére – valamint ha az új felhasználó a hálózathasználati szerződés villamosenergia-kereskedő által történő kezelését kéri, az arra vonatkozó nyilatkozatot és a hálózathasználati szerződés megkötésére – vonatkozó felhasználói igénybejelentést.
+(1c)[^202] Az új felhasználó az (1) bekezdés szerinti bejelentéshez csatolhatja a villamosenergia-vásárlási szerződés megkötésére – valamint ha az új felhasználó a hálózathasználati szerződés villamosenergia-kereskedő által történő kezelését kéri, az arra vonatkozó nyilatkozatot és a hálózathasználati szerződés megkötésére – vonatkozó felhasználói igénybejelentést.
 
-(1d)[^193] Az (1) bekezdés szerinti bejelentés formanyomtatványon is megtehető. A villamosenergia-kereskedő az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé az (1b) bekezdés szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó és az új felhasználó számára postai úton is megküldi. A formanyomtatványt a villamosenergia-kereskedő üzletszabályzata tartalmazza.
+(1d)[^203] Az (1) bekezdés szerinti bejelentés formanyomtatványon is megtehető. A villamosenergia-kereskedő az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé az (1b) bekezdés szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó és az új felhasználó számára postai úton is megküldi. A formanyomtatványt a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
-(1e)[^194] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a villamosenergia-kereskedő számára bejelenteni. A bejelentésnek legalább az (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel az (1g) bekezdésben előírtakra.
+(1e)[^204] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a villamosenergia-kereskedő számára bejelenteni. A bejelentésnek legalább az (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel az (1g) bekezdésben előírtakra.
 
-(1f)[^195] Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő kezeli megbízottként, a felhasználó az (1) bekezdés szerinti bejelentés keretében a hálózathasználati szerződésének felmondásáról is nyilatkozik.
+(1f)[^205] Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő kezeli megbízottként, a felhasználó az (1) bekezdés szerinti bejelentés keretében a hálózathasználati szerződésének felmondásáról is nyilatkozik.
 
-(1g)[^196] A felhasználónak az (1) bekezdés szerinti bejelentés során a villamosenergia-kereskedővel létrehozandó villamosenergia-vásárlási szerződés megkötéséhez szükséges jogcímmel rendelkeznie, és erről a bejelentés során nyilatkoznia kell.
+(1g)[^206] A felhasználónak az (1) bekezdés szerinti bejelentés során a villamosenergia-kereskedővel létrehozandó villamosenergia-vásárlási szerződés megkötéséhez szükséges jogcímmel rendelkeznie, és erről a bejelentés során nyilatkoznia kell.
 
-(2)[^197] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
+(2)[^207] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
 
 a) a felhasználó (1) bekezdés szerinti bejelentésének tartalmaznia kell a 2. számú melléklet 13.1. pontja szerinti nyilatkozatot, és
 
-b)[^198] a villamosenergia-kereskedő köteles a bejelentés kézhezvételétől számított 3 napon belül a hálózati engedélyest a változásról – amennyiben a felhasználó kérte a felhasználási hely helyszíni ellenőrzését – értesíteni, a mérőhely-ellenőrzést megrendelni, továbbá a villamosenergia-vásárlási szerződés megszűnésének napjára a hálózathasználati szerződés hálózati engedélyesnél történő felmondásáról intézkedni.
+b)[^208] a villamosenergia-kereskedő köteles a bejelentés kézhezvételétől számított 3 napon belül a hálózati engedélyest a változásról – amennyiben a felhasználó kérte a felhasználási hely helyszíni ellenőrzését – értesíteni, a mérőhely-ellenőrzést megrendelni, továbbá a villamosenergia-vásárlási szerződés megszűnésének napjára a hálózathasználati szerződés hálózati engedélyesnél történő felmondásáról intézkedni.
 
 (3) Ha a felhasználó az (1) bekezdés szerinti bejelentést
 
@@ -64,18 +64,18 @@ b) a hálózati engedélyes helyszíni ellenőrzését megakadályozza,
 
 (4) Ha a villamosenergia-kereskedő a (2) bekezdésben foglalt kötelezettségét nem vagy késedelmesen teljesíti, a hálózati engedélyes értesítése és a mérőhely-ellenőrzés megrendelése elmulasztásának jogkövetkezményeiért a villamosenergia-kereskedő felel.
 
-(5)[^199] Ha az (1) bekezdés szerinti bejelentést az új felhasználó teszi meg, és nem tud olyan mérőállást megadni, amelyet a felhasználó az aláírásával elfogadott, valamint nem kezdeményezi a 2. számú melléklet 13.2. pontja szerinti helyszíni ellenőrzést, az (1b) bekezdés a) pont ac) alpontja szerinti mérőállásnak a villamosenergia-kereskedő számlázási rendszere alapján utolsó – a felhasználóváltás időpontjához képest 30 napnál nem régebben kiállított – kiegyenlített számlának megfelelő mérőállást kell tekinteni.
+(5)[^209] Ha az (1) bekezdés szerinti bejelentést az új felhasználó teszi meg, és nem tud olyan mérőállást megadni, amelyet a felhasználó az aláírásával elfogadott, valamint nem kezdeményezi a 2. számú melléklet 13.2. pontja szerinti helyszíni ellenőrzést, az (1b) bekezdés a) pont ac) alpontja szerinti mérőállásnak a villamosenergia-kereskedő számlázási rendszere alapján utolsó – a felhasználóváltás időpontjához képest 30 napnál nem régebben kiállított – kiegyenlített számlának megfelelő mérőállást kell tekinteni.
 
-[^187]: A Vhr. 22/A. §-át a 100/2011. (VI. 29.) Korm. rendelet 10. §-a iktatta be.
-[^188]: A Vhr. 22/A. § (1) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^189]: A Vhr. 22/A. § (1a) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^190]: A Vhr. 22/A. § (1b) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^191]: A Vhr. 22/A. § (1b) bekezdés b) pont ba) alpontja az 53/2014. (III. 3.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
-[^192]: A Vhr. 22/A. § (1c) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^193]: A Vhr. 22/A. § (1d) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^194]: A Vhr. 22/A. § (1e) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^195]: A Vhr. 22/A. § (1f) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 5. §-a iktatta be.
-[^196]: A Vhr. 22/A. § (1g) bekezdését a 672/2021. (XII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^197]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^198]: A Vhr. 22/A. § (2) bekezdés b) pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (15) bekezdése szerint módosított szöveg.
-[^199]: A 22/A. § (5) bekezdését a 216/2023. (VI. 1.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^197]: A Vhr. 22/A. §-át a 100/2011. (VI. 29.) Korm. rendelet 10. §-a iktatta be.
+[^198]: A Vhr. 22/A. § (1) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^199]: A Vhr. 22/A. § (1a) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^200]: A Vhr. 22/A. § (1b) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^201]: A Vhr. 22/A. § (1b) bekezdés b) pont ba) alpontja az 53/2014. (III. 3.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^202]: A Vhr. 22/A. § (1c) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^203]: A Vhr. 22/A. § (1d) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^204]: A Vhr. 22/A. § (1e) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^205]: A Vhr. 22/A. § (1f) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 5. §-a iktatta be.
+[^206]: A Vhr. 22/A. § (1g) bekezdését a 672/2021. (XII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^207]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^208]: A Vhr. 22/A. § (2) bekezdés b) pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (15) bekezdése szerint módosított szöveg.
+[^209]: A 22/A. § (5) bekezdését a 216/2023. (VI. 1.) Korm. rendelet 3. § (4) bekezdése iktatta be.
