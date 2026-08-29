@@ -1,6 +1,8 @@
 ## 4. A pályázati eljárás előkészítése és a pályázat kiírása
 
-4. § (1) A pályázati eljárás lebonyolításával kapcsolatos feladatokat – ideértve a hirdetmény elkészítését és közzétételét, a pályázati kiírás kidolgozását, valamint a pályázatok értékelését – a Hivatal látja el az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) felkérésére, melyhez a miniszter a Hivatal részére minden szükséges adatot megad.
+4. § (1)[^8] Az előzetes felmérést és a pályázati eljárás lebonyolításával kapcsolatos feladatokat – ideértve a hirdetmény elkészítését és közzétételét, az előzetes felmérés lefolytatását, a pályázati kiírás kidolgozását, valamint a pályázatok értékelését – a Hivatal látja el az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) felkérésére, amelyhez a miniszter a Hivatal részére minden szükséges adatot megad.
+
+(1a)[^9] Az előzetes felmérés lefolytatására vonatkozó felkérés legalább az ütemezést, valamint az erőművi technológiákat tartalmazza. Az előzetes felmérés során megadott tényszerű információkat alátámasztó dokumentumokat a Hivatal ellenőrizheti.
 
 (2) A hálózati engedélyes az üzemi szabályzatban meghatározottak szerinti féléves ütemezéssel, a Hivatallal történő konzultációt követően előzetes adatszolgáltatást teljesít a miniszter részére a (4) bekezdés szerinti felkérés előkészítéséhez, amely tartalmazza
 
@@ -21,3 +23,6 @@ b) a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkez�
 (5) A hálózati engedélyes együttműködik a Hivatallal a (4) bekezdés szerinti elemzés elkészítésében.
 
 (6) A Hivatal az elemzést legkésőbb a felkérést követő 70 napon belül végzi el, és az elemzés eredményéről haladéktalanul tájékoztatja a minisztert. Amennyiben az elemzés alapján az igények kiszolgálásához rugalmas csatlakozás vizsgálata is szükséges, a Hivatal az elemzést a miniszter kiegészítésre vonatkozó felkérésétől számított 2 hónapon belül kiegészíti a rugalmas csatlakozásra vonatkozó feltételekkel.
+
+[^8]: A 4. § (1) bekezdése a 4/2026. (VIII. 28.) GEM rendelet 6. §-ával megállapított szöveg.
+[^9]: A 4. § (1a) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 6. §-a iktatta be.

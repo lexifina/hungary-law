@@ -4,7 +4,7 @@ a) valamely benyújtott pályázat előkészítésében vagy kidolgozásában b�
 
 b) a pályázati eljárás során pályázatot nyújtott be,
 
-c) a pályázatot benyújtó természetes személy és képviselője, alkalmazottja, foglalkoztatottja, alkalmazója vagy foglalkoztatója,
+c)[^27]
 
 d) a pályázatot benyújtó jogi személy képviselője, tulajdonosa, részvényese, tagja, vezető tisztségviselője, alkalmazottja vagy más szerződéses jogviszony alapján foglalkoztatottja,
 
@@ -14,4 +14,7 @@ f) az a)–e) pontban meghatározott személyek Polgári Törvénykönyvről sz�
 
 (2) Ha összeférhetetlenségi ok merült fel, arról az összeférhetetlenségi ok felmerülését követő 3 napon belül az Értékelő Bizottság elnökét tájékoztatni kell.
 
-(3) A tag és a póttag megbízatásának visszavonása esetén az új tagot és póttagot a 10. § (2)–(4) bekezdése szerinti jelölés alapján az Értékelő Bizottság elnöke nevezi ki.
+(3)[^28] A tag és a póttag megbízatásának visszavonása esetén az új tagot és póttagot a kijelölésre jogosult nevezi ki.
+
+[^27]: A 12. § (1) bekezdés c) pontját a 4/2026. (VIII. 28.) GEM rendelet 19. § c) pontja hatályon kívül helyezte.
+[^28]: A 12. § (3) bekezdése a 4/2026. (VIII. 28.) GEM rendelet 13. §-ával megállapított szöveg.
