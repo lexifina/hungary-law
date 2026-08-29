@@ -1,0 +1,4 @@
+4. §[^2] E rendeletnek az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes energetikai tárgyú miniszteri rendeletek módosításáról szóló 4/2026. (VIII. 28.) GEM rendelet (a továbbiakban: Módr.) hatálybalépését[^3] megelőző napján hatályos 1. § 1. és 2. pontjában foglalt járások tekintetében a Módr. hatálybalépésekor folyamatban lévő eljárásokat a Módr. hatálybalépését követően is le kell folytatni, azzal, hogy a Módr. hatálybalépésekor folyamatban lévő eljárásokban a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 103/B. § (3) bekezdése szerinti ügyintézési határidő legfeljebb 50 nap.
+
+[^2]: A 4. §-t a 4/2026. (VIII. 28.) GEM rendelet 21. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2026. augusztus 29.
