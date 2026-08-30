@@ -1,3 +1,3 @@
-87. §[^270]
+87. §[^283]
 
-[^270]: A Vhr. 87. §-át az 57/2023. (X. 16.) AM rendelet 29. § k) pontja hatályon kívül helyezte.
+[^283]: A Vhr. 87. §-át az 57/2023. (X. 16.) AM rendelet 29. § k) pontja hatályon kívül helyezte.

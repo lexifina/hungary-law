@@ -1,3 +1,3 @@
-13. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^324]
+13. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^341]
 
-[^324]: A Vhr. 13. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (8) bekezdésével megállapított, a 6/2025. (IV. 10.) AM rendelet 7. §-a szerint módosított szöveg.
+[^341]: A Vhr. 13. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (8) bekezdésével megállapított, a 6/2025. (IV. 10.) AM rendelet 7. §-a szerint módosított szöveg.

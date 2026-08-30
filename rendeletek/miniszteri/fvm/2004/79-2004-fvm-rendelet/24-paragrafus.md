@@ -1,10 +1,10 @@
 ## (A Vtv. 32. §-ához)
 
-24. §[^75] (1) A Vtv. 17. § (2) bekezdése és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül az olyan kerítés, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
+24. §[^81] (1) A Vtv. 17. § (2) bekezdése és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül az olyan kerítés, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
 
 (2) Nem minősül tartós telepítésű kerítésnek
 
-a) a mezőgazdasági növénykultúra védelmében telepített ideiglenes villanypásztor, ha az adott növénykultúra legalább 3 hónapig nincsen bekerítve az adott naptári évben,
+a)[^82] a mezőgazdasági növénykultúra védelmében telepített ideiglenes villanypásztor, ha az adott földterület legalább 3 hónapig nincsen bekerítve az adott naptári évben,
 
 b) az állattenyésztési vagy vadgazdálkodási célból telepített villanypásztor, valamint
 
@@ -22,7 +22,7 @@ ce) a körülhatárolt területre a gyalogos és gépjárművel történő bejut
 
 (3) A Vtv. 29/A. § (4) bekezdésében meghatározott tartós telepítésű kerítés engedélyezése iránti kérelemhez csatolni kell
 
-a) a vadászatra jogosult hozzájáruló nyilatkozatát,
+a)[^83] a Vtv. 29/A. § (8) bekezdésében foglalt eset kivételével a vadászatra jogosult hozzájáruló nyilatkozatát,
 
 b) a kerítés műszaki megvalósításának leírását, valamint
 
@@ -30,4 +30,6 @@ c) a kerítés tervezett nyomvonalát ábrázoló térképi mellékletet a kerí
 
 (4) A villanypásztor felszámolásának minősül, ha arról a drót eltávolítása megtörtént.
 
-[^75]: A Vhr. 24. §-a az 56/2024. (X. 31.) AM rendelet 6. §-ával megállapított szöveg.
+[^81]: A Vhr. 24. §-a az 56/2024. (X. 31.) AM rendelet 6. §-ával megállapított szöveg.
+[^82]: A 24. § (2) bekezdés a) pontja a 16/2026. (VIII. 27.) AÉM rendelet 9. § 6. pontja szerint módosított szöveg.
+[^83]: A Vhr. 24. § (3) bekezdés a) pontja a 16/2026. (VIII. 27.) AÉM rendelet 9. § 7. pontja szerint módosított szöveg.

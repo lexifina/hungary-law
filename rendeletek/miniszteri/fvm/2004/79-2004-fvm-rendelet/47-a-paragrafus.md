@@ -1,4 +1,4 @@
-## (A Vtv. 58/A. és 58/B. §-ához)[^136]
+## (A Vtv. 58/A. és 58/B. §-ához)[^147]
 
 47/A. § (1) Az elektronikus vadászati napló és teríték-nyilvántartás adattartalmát a 13. számú melléklet III. pontja tartalmazza.
 
@@ -12,4 +12,4 @@ b) minden későbbi beiratkozó beiratkozásához minden korábbi beiratkozó a 
 
 c) a hozzájárulás ténye az elektronikus vadászati napló és teríték-nyilvántartásban rögzítésre került.
 
-[^136]: A Vhr. „(A Vtv. 58/A. és 58/B. §-ához)” alcímét (a Vhr. 47/A–47/C. §-át) a 6/2025. (IV. 10.) AM rendelet 5. §-a iktatta be.
+[^147]: A Vhr. „(A Vtv. 58/A. és 58/B. §-ához)” alcímét (a Vhr. 47/A–47/C. §-át) a 6/2025. (IV. 10.) AM rendelet 5. §-a iktatta be.

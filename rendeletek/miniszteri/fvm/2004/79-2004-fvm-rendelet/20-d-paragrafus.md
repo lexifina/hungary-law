@@ -1,3 +1,3 @@
-20/D. §[^59]
+20/D. §[^65]
 
-[^59]: A Vhr. 20/D. §-át a 24/2017. (V. 17.) FM rendelet 3. §-a iktatta be, a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^65]: A Vhr. 20/D. §-át a 24/2017. (V. 17.) FM rendelet 3. §-a iktatta be, a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés b) pontja hatályon kívül helyezte.

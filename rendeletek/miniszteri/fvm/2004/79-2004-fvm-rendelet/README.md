@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2025-08-15 | 2004-79-20-82.52 | 33/2025. (VII. 31.) AM rendelet |
 | 2025-10-01 | 2004-79-20-82.51 | 6/2025. (IV. 10.) AM rendelet |
 | 2026-01-19 | 2004-79-20-82.53 | 52/2025. (XII. 19.) AM rendelet |
+| 2026-08-30 | 2004-79-20-82.54 | 16/2026. (VIII. 27.) AÉM rendelet |

@@ -1,6 +1,6 @@
 ## (A Vtv. 58. §-ához)
 
-47. §[^135] (1) Az egyéni, illetve a társas vadászati naplót és teríték-nyilvántartást a 13. számú mellékletben meghatározott adattartalom szerint kell vezetni. Minden egyéni vadászatot új sorszámon, annak megkezdése előtt, a vadászat várható befejezésének megjelölésével együtt kell rögzíteni, és a Vtv. 58/A. § a) pontja szerinti esetben a bejegyzést aláírással kell hitelesíteni. Egyéni vadászat esetén a vadászat a vadászati naplóban feltüntetett időpontban veszi kezdetét. A vadászati naplóban rögzített befejezési időpontot követően a vadász vadászati tevékenységet nem folytathat.
+47. §[^146] (1) Az egyéni, illetve a társas vadászati naplót és teríték-nyilvántartást a 13. számú mellékletben meghatározott adattartalom szerint kell vezetni. Minden egyéni vadászatot új sorszámon, annak megkezdése előtt, a vadászat várható befejezésének megjelölésével együtt kell rögzíteni, és a Vtv. 58/A. § a) pontja szerinti esetben a bejegyzést aláírással kell hitelesíteni. Egyéni vadászat esetén a vadászat a vadászati naplóban feltüntetett időpontban veszi kezdetét. A vadászati naplóban rögzített befejezési időpontot követően a vadász vadászati tevékenységet nem folytathat.
 
 (2) Ha az egyéni bér- vagy vendégvadászathoz a vadászatra jogosult kísérővadászt állított, akkor a vadászatot a vadászati naplóba a kísérővadász rögzíti. Társas vadászat esetén a vadászatot a vadászati naplóba a vadászatvezető rögzíti.
 
@@ -12,4 +12,4 @@
 
 (6) Az elektronikus vadászati napló és teríték-nyilvántartásba bejegyzett adatokat az elektronikus alkalmazás a bejegyzést követő öt évig tárolja.
 
-[^135]: A Vhr. 47. §-a a 6/2025. (IV. 10.) AM rendelet 4. §-ával megállapított szöveg.
+[^146]: A Vhr. 47. §-a a 6/2025. (IV. 10.) AM rendelet 4. §-ával megállapított szöveg.
