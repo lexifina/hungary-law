@@ -324,7 +324,7 @@
 
 ## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább
 
-## 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
+## 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3,5 kg-ot.
 
 5. melléklet a 11/2018. (VII. 3.) AM rendelethez
 
