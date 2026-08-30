@@ -500,7 +500,7 @@
 
 ## b) az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 9 kg-ot;
 
-## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
+## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles zárt lapáttal rendelkezik, amelynek tömege eléri a 3,5 kg-ot.
 
 5. melléklet a 12/2018. (VII. 3.) AM rendelethez
 
