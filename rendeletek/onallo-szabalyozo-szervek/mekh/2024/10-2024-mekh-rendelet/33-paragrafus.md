@@ -20,12 +20,18 @@
 
 9. a VET 63/B. §-a szerinti minimális szolgáltatás műszaki feltételeinek biztosítása,
 
-10. a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokba az elosztó ügyfélszolgálatán történő betekintés, és
+10.[^13] a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokba az elosztó ügyfélszolgálatán történő betekintés,
 
-11. a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokhoz három hónapra visszamenőlegesen az elosztó honlapján történő hozzáférés.
+11.[^14] a távlehívható fogyasztásmérő berendezésben tárolt és kiolvasható, a felhasználó villamosenergia-fogyasztására vonatkozó adatokhoz három hónapra visszamenőlegesen az elosztó honlapján történő hozzáférés, valamint
+
+12.[^15] a 31. § (1) bekezdés 3. pontjában meghatározott szolgáltatások tekintetében a Vhr. 14/B. § (2a) bekezdése szerinti jog alapján a 14/B. § (2b) bekezdése szerint a felhasználó által választott felhasználási helyen az első okosmérő felszerelése vagy nem okosmérőnek okosmérőre történő cseréje.
 
 (2) Ha a felhasználó a fogyasztásmérő berendezés hibás mérésének feltételezése miatt a fogyasztásmérő berendezés felülvizsgálatát kérte az elosztótól, és a felülvizsgált fogyasztásmérő berendezés mérése a jogszabályban előírt hibahatárt túllépi, vagy az elosztó megállapítja, hogy a fogyasztásmérő berendezés hibás, az elosztó a 31. § (1) bekezdés 1. pontja alapján felszámított külön díjat a felülvizsgálat eredményéről való értesüléstől számított 8 napon belül a felhasználónak vagy a fizetőnek visszatéríti.
 
 (3) Az elosztó a felhasználó kérésének megfelelő fizetési mód szerint – ennek hiányában a felhasználó számlafizetési módja szerinti módon – köteles teljesíteni a (2) bekezdés szerinti visszatérítést a felhasználó vagy a fizető számára.
 
 (4) Ha a felhasználó szociálisan rászoruló fogyasztónak minősül, akkor a 31. § (1) bekezdés 6. pontja szerinti visszakapcsolás szerinti villamosenergia-ellátásból való kikapcsolás díjának megfizetését a hozzá felszerelt előre fizetős fogyasztásmérő berendezés igénybevételével törlesztve is teljesítheti.
+
+[^13]: A 33. § (1) bekezdés 10. pontja a 8/2026. (VIII. 28.) MEKH rendelet 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 33. § (1) bekezdés 11. pontja a 8/2026. (VIII. 28.) MEKH rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 33. § (1) bekezdés 12. pontját a 8/2026. (VIII. 28.) MEKH rendelet 12. § (1) bekezdése iktatta be.
