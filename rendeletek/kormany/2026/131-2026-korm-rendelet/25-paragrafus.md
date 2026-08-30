@@ -1,1 +1,3 @@
-25. § Hatályát veszti a 235/2025. Korm. rendelet 3. § (3) bekezdés b) pont bb) alpontjában a „vagy” szövegrész.
+25. §[^28]
+
+[^28]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

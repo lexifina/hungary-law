@@ -1,1 +1,3 @@
-8. § A Vet. Vhr. az „A háztartási méretű kiserőművek hálózati csatlakozásának elősegítése és a mikrogridek” alcímet követően a következő a „Villamosenergia-tároló létesítésének és üzemeltetésének különös szabályai” alcímmel egészül ki:
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

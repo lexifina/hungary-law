@@ -1,1 +1,3 @@
-24. § A 235/2025. Korm. rendelet 3. § (1) bekezdésében az „a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben” szövegrész helyébe az „a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben” szöveg lép.
+24. §[^27]
+
+[^27]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

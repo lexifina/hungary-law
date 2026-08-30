@@ -1,1 +1,3 @@
-3. § A 314/2005. (XII. 25.) Korm. rendelet 1. számú melléklete az 1. melléklet szerint módosul.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

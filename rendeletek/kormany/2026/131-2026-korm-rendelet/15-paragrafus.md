@@ -1,5 +1,3 @@
-15. § Hatályát veszti a Vet. Vhr.
+15. §[^15]
 
-a) 14/B. § (3) bekezdésében az „a Hivatal elnökének a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak mértékéről szóló határozatában meghatározott díj megfizetése mellett” szövegrész, valamint
-
-b) „(A VET 45. §-ához) A rugalmas árszabást tartalmazó szerződés” című alcíme.
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

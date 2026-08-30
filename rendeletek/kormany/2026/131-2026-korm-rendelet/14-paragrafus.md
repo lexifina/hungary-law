@@ -1,3 +1,3 @@
-14. § (1) A Vet. Vhr. 2. számú melléklete a 2. melléklet szerint módosul.
+14. §[^14]
 
-(2) A Vet. Vhr. a 3. melléklet szerinti 28. számú melléklettel egészül ki.
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
