@@ -1,5 +1,3 @@
-17. § A 11/2025. (IV. 10.) EM rendelet a következő 18. §-sal egészül ki:
+17. §[^18]
 
-„18. § (1) Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes energetikai tárgyú miniszteri rendeletek módosításáról szóló 4/2026. (VIII. 28.) GEM rendelettel (a továbbiakban: Mód. rend.) megállapított 5. § (1a) bekezdése szerinti pályázati eljárást először 2026. augusztus 31-ig kell kiírni összesen legalább 700 MW névleges teljesítőképességű szélerőmű vagy szélerőműpark közcélú hálózati betáplálási lehetőségét biztosító csatlakozási teljesítményre, a hálózati csatlakozás igénybevételének megkezdésére nyitva álló 24 hónapos időkerettel.
-
-(2) A Mód. rend.-del megállapított 5. § (1a) bekezdése szerinti pályázati eljárások keretében 2027. január 1-je és 2030. december 31-e között a miniszter felkérésére – az (1) bekezdés szerinti pályázati eljárásban meghirdetett névleges teljesítőképességgel együtt – összesen legalább 4000 MW névleges teljesítőképességű szélerőmű vagy szélerőműpark közcélú hálózati betáplálási lehetőségét biztosító csatlakozási teljesítmény kerül meghirdetésre.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

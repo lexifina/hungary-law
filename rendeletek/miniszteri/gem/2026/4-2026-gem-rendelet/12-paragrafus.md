@@ -1,3 +1,3 @@
-12. § A 11/2025. (IV. 10.) EM rendelet 11. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(Az értékelő bizottsági tag vagy póttag megbízatása megszűnik, ha)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

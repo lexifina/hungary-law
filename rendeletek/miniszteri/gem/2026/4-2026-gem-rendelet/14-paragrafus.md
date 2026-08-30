@@ -1,3 +1,3 @@
-14. § A 11/2025. (IV. 10.) EM rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(2) Az Értékelő Bizottság a pályázati eljárás keretében eljárása során folyamatosan ellenőrzi az e rendeletben és a pályázati kiírásban előírtak betartását.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

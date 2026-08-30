@@ -1,5 +1,5 @@
 ## 3. A közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárásról szóló 11/2025. (IV. 10.) EM rendelet módosítása
 
-4. § A közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárásról szóló 11/2025. (IV. 10.) EM rendelet [a továbbiakban: 11/2025. (IV. 10.) EM rendelet] 2. §-a a következő 2a. ponttal egészül ki:
+4. §[^5]
 
-(E rendelet alkalmazásában)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

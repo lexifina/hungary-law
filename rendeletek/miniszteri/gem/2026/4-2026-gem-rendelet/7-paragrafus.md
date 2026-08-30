@@ -1,3 +1,3 @@
-7. § A 11/2025. (IV. 10.) EM rendelet 5. §-a a következő (1a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(1a) Az (1) bekezdéssel összhangban a miniszter felkérésére a Hivatal naptári évenként legalább egy alkalommal szélerőmű vagy szélerőműpark hálózati csatlakozását szolgáló pályázati eljárást ír ki.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

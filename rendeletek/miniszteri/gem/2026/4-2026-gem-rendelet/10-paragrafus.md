@@ -1,3 +1,3 @@
-10. § A 11/2025. (IV. 10.) EM rendelet 8. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(A pályázó a pályázat mellékleteként benyújtja)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
