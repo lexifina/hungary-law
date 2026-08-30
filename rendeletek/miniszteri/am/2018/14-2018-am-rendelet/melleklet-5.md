@@ -308,7 +308,7 @@
 
 ## a) a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## b) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
+## b)[^17] a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3,5 kg-ot.
 
 5. melléklet a 14/2018. (VII. 3.) AM rendelethez
 
@@ -403,3 +403,4 @@ Túzokvédelem
 34. Túzoktelelőhelyeken tarvadvadászat a természetvédelmi kezelővel egyeztetett módon történhet. Az adott évi telelőhelyek pontosítását minden évben a tájegységi fővadász bevonásával egyeztetni kell a természetvédelmi kezelővel, melyet jegyzőkönyvben rögzítenek legkésőbb december 1-ig.
 
 [^16]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet b) pontja a 16/2026. (VIII. 27.) AÉM rendelet 16. §-a szerint módosított szöveg.
