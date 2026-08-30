@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-13-20-7
 | 2021-02-16 | 2018-13-20-7R.4 | 2/2021. (II. 15.) AM rendelet |
 | 2023-10-24 | 2018-13-20-7R.5 | 57/2023. (X. 16.) AM rendelet |
 | 2024-11-08 | 2018-13-20-7R.6 | 56/2024. (X. 31.) AM rendelet |
+| 2026-08-30 | 2018-13-20-7R.7 | 16/2026. (VIII. 27.) AÉM rendelet |

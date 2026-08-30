@@ -1,3 +1,3 @@
-7. melléklet a 13/2018. (VII. 3.) AM rendelethez[^24]
+7. melléklet a 13/2018. (VII. 3.) AM rendelethez[^26]
 
-[^24]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

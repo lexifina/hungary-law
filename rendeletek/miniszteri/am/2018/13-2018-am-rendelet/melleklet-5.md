@@ -1,4 +1,4 @@
-## A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei[^22]
+## A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei[^23]
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -132,7 +132,7 @@
 
 | 9. (10.) | 10,0 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-## II.[^23] A dámbika szakszerűtlen elejtés határértékei
+## II.[^24] A dámbika szakszerűtlen elejtés határértékei
 
 | A dámbika szakszerűtlen elejtés határértékei a 102. számú Maros-csongrádi, a 103. számú Békési, a 105. számú Körös-berettyói, a 107. számú Hajdúsági Erdőspuszták, valamint a 110. számú Felső-tiszavidéki vadgazdálkodási tájegységben |
 
@@ -322,7 +322,7 @@
 
 ## b) a 110. számú Felső-tiszavidéki tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## c) legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
+## c)[^25] legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles, zárt lapáttal rendelkezik, amelynek tömege eléri a 3,5 kg-ot.
 
 5. melléklet a 13/2018. (VII. 3.) AM rendelethez
 
@@ -408,5 +408,6 @@ Túzokvédelem
 
 30. Túzoktelelőhelyeken tarvadvadászat a természetvédelmi kezelővel egyeztetett módon történhet. Az adott évi telelőhelyek pontosítását minden évben a tájegységi fővadász bevonásával egyeztetni kell a természetvédelmi kezelővel, melyet jegyzőkönyvben rögzítenek legkésőbb december 1-ig.
 
-[^22]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^23]: A 4. melléklet II. pontjában foglalt táblázat az 56/2024. (X. 31.) AM rendelet 19. § c) pontja szerint módosított szöveg.
+[^23]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^24]: A 4. melléklet II. pontjában foglalt táblázat az 56/2024. (X. 31.) AM rendelet 19. § c) pontja szerint módosított szöveg.
+[^25]: A 4. melléklet c) pontja a 16/2026. (VIII. 27.) AÉM rendelet 15. §-a szerint módosított szöveg.

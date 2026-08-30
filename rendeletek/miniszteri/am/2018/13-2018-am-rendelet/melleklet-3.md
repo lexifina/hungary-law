@@ -164,7 +164,7 @@ a 111. számú Tiszamenti vadgazdálkodási tájegységben 3700 egyed
 
 a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 2700 egyed
 
-3.7. Az élőhelyet nem veszélyeztető legmagasabb szabadterületi őzlétszám:
+3.7.[^11] Az élőhelyet nem veszélyeztető legmagasabb szabadterületi őzlétszám:
 
 a 101. számú Tiszazugi vadgazdálkodási tájegységben 10 300 egyed
 
@@ -178,9 +178,9 @@ a 105. számú Körös-berettyói vadgazdálkodási tájegységben 13 300 egyed
 
 a 106. számú Nagykunsági vadgazdálkodási tájegységben 6400 egyed
 
-a 107. számú Hajdúsági Erdőspuszták vadgazdálkodási tájegységben 8000 egyed
+a 107. számú Hajdúsági Erdőspuszták vadgazdálkodási tájegységben 7200 egyed
 
-a 108. számú Hajdúsági Löszhát-Hortobágy vadgazdálkodási tájegységben 6400 egyed
+a 108. számú Hajdúsági Löszhát-Hortobágy vadgazdálkodási tájegységben 6800 egyed
 
 a 109. számú Nyírségi vadgazdálkodási tájegységben 16 600 egyed
 
@@ -188,9 +188,9 @@ a 110. számú Felső-tiszavidéki vadgazdálkodási tájegységben 8800 egyed
 
 a 111. számú Tiszamenti vadgazdálkodási tájegységben 6000 egyed
 
-a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 7000 egyed
+a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 7400 egyed
 
-4.[^11] A muflonállomány szabályozási irányelvei
+4.[^12] A muflonállomány szabályozási irányelvei
 
 4.1. A 101. számú Tiszazugi, a 102. számú Maros-csongrádi, a 103. számú Békési vadgazdálkodási, a 104. számú Szarvasi, a 105. számú Körös-berettyói, a 106. számú Nagykunsági, a 107. számú Hajdúsági Erdőspuszták, a 108. számú Hajdúsági Löszhát-Hortobágy, 110. számú Felső-tiszavidéki, a 111. számú Tiszamenti, a 112. számú Sárrét-bihari vadgazdálkodási tájegységek területén a muflon esetleges természetes megtelepedése vagy szándékos betelepítése sem támogatható. Az esetlegesen megjelenő egyedeket el kell távolítani.
 
@@ -248,9 +248,9 @@ a 111. számú Tiszamenti vadgazdálkodási tájegységben 0 egyed
 
 a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 0 egyed
 
-5.[^12] A vaddisznóállomány szabályozási irányelvei
+5.[^13] A vaddisznóállomány szabályozási irányelvei
 
-5.1.[^13] A Tiszántúli Vadgazdálkodási Táj területén a vaddisznó további növekedését meg kell akadályozni, és a vaddisznó szabad területi létszámát a következő 10 évben felére (40–60%-kal) kell csökkenteni, amihez a következők szükségesek
+5.1.[^14] A Tiszántúli Vadgazdálkodási Táj területén a vaddisznó további növekedését meg kell akadályozni, és a vaddisznó szabad területi létszámát a következő 10 évben felére (40–60%-kal) kell csökkenteni, amihez a következők szükségesek
 
 5.2. A tervezett hasznosítás a jelentett létszám min. 150%-át érje el.
 
@@ -308,7 +308,7 @@ a 111. számú Tiszamenti vadgazdálkodási tájegységben 100 egyed
 
 a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 0 egyed
 
-6.[^14] A mezei nyúl állomány szabályozási irányelvei
+6.[^15] A mezei nyúl állomány szabályozási irányelvei
 
 6.1. A vadászati hatóság által meghatározott, magasabb populációsűrűségű vadgazdálkodási egységek területén kötelező egy elfogadott létszámbecslési módszer (éjszakai reflektoros létszámbecslés) használata tavasszal és ősszel, a vadászatok megkezdése előtt. Ezek alapján meg lehet tervezni a hasznosítandó mennyiséget a Kovács-Heltay modell vagy az SZIE VMI modell segítségével.
 
@@ -318,7 +318,7 @@ a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 0 egyed
 
 6.4. A tartós túlhasznosítás megelőzése és az állomány felépülése érdekében a vadászati hatóság által meghatározott vadgazdálkodási egységek területén elő kell írni, hogy évente nem vadászott, pihentetett területeket jelöljön ki a vadászatra jogosult a vadgazdálkodási egységek 15–30%-án (mozaikszerű hasznosítás).
 
-7.[^15] A fácánállomány szabályozási irányelvei
+7.[^16] A fácánállomány szabályozási irányelvei
 
 7.1. A fácán végleges hasznosítási tervszáma a vadgazdálkodók őszi állománybecslései és annak hatósági ellenőrzései alapján kerüljön meghatározásra. Szabadterületi fácán hasznosítása helyileg indokolt esetben csak meghatározott küszöb felett (jelenleg: 4 egyed/km2) engedélyezhető. A szabadterületi vadállományra gyakorolt vadászati nyomás maradjon 25–40% között.
 
@@ -326,17 +326,17 @@ a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 0 egyed
 
 7.3. A hasznosítási tervet a felnevelt szaporulatra (szabadterületi állomány) és a kibocsátott fácánok várható megtérülése (korábbi évek adatai) alapján elkülönítve kell megtervezni.
 
-7.4.[^16]
+7.4.[^17]
 
-8.[^17] A Tiszántúli Vadgazdálkodási Táj ragadozóállomány szabályozási irányelvei
+8.[^18] A Tiszántúli Vadgazdálkodási Táj ragadozóállomány szabályozási irányelvei
 
 8.1. Elsőrendű feladat a vadászható ragadozó fajok állományainak visszaszorítása.
 
-8.2.[^18] A róka tavaszi becsült törzsállományának legalább másfélszeresét kell eltávolítani a területről. A tervezett gyérítés 60%-át az év első felében kell teljesíteni.
+8.2.[^19] A róka tavaszi becsült törzsállományának legalább másfélszeresét kell eltávolítani a területről. A tervezett gyérítés 60%-át az év első felében kell teljesíteni.
 
-8.3.[^19] A borz állománya esetében a további növekedés megakadályozása a cél, ezért legalább 0,5–0,7-es gyérítési rátát kell alkalmazni.
+8.3.[^20] A borz állománya esetében a további növekedés megakadályozása a cél, ezért legalább 0,5–0,7-es gyérítési rátát kell alkalmazni.
 
-8.4.[^20] A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeiben a nyestkutya és a mosómedve megjelenő egyedeit el kell eltávolítani.
+8.4.[^21] A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeiben a nyestkutya és a mosómedve megjelenő egyedeit el kell eltávolítani.
 
 8.5. Az aranysakál megtelepedésének a megakadályozása, illetve az állományának csökkentése a cél, ezért legalább 2-es gyérítési ráta előírása szükséges.
 
@@ -347,13 +347,14 @@ a 112. számú Sárrét-bihari vadgazdálkodási tájegységben 0 egyed
 [^8]: A 3. melléklet 2. pont 2.2. alpontja az 56/2024. (X. 31.) AM rendelet 19. § b) pont bb) alpontja szerint módosított szöveg.
 [^9]: A 3. melléklet 2. pont 2.5. alpontja az 56/2024. (X. 31.) AM rendelet 19. § b) pont bc) alpontja szerint módosított szöveg.
 [^10]: A 3. melléklet 3. pont 3.2. alpontja az 57/2023. (X. 16.) AM rendelet 38. § a) pontja szerint módosított szöveg.
-[^11]: A 3. melléklet 4. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. melléklet 5. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. melléklet 5. pont 5.1. alpontja az 57/2023. (X. 16.) AM rendelet 38. § b) pontja szerint módosított szöveg.
-[^14]: A 3. melléklet 6. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^15]: A 3. melléklet 7. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^16]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 13. § c) pontja hatályon kívül helyezte.
-[^17]: A 3. melléklet 8. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^18]: A 3. melléklet 8. pont 8.2. alpontja az 57/2023. (X. 16.) AM rendelet 38. § c) pontja szerint módosított szöveg.
-[^19]: A 3. melléklet 8. pont 8.3. alpontja az 57/2023. (X. 16.) AM rendelet 38. § d) pontja szerint módosított szöveg.
-[^20]: A 3. melléklet 8. pont 8.4. alpontja az 57/2023. (X. 16.) AM rendelet 38. § e) pontja szerint módosított szöveg.
+[^11]: A 3. melléklet 3.7. pontja a 16/2026. (VIII. 27.) AÉM rendelet 14. §-a szerint módosított szöveg.
+[^12]: A 3. melléklet 4. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. melléklet 5. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^14]: A 3. melléklet 5. pont 5.1. alpontja az 57/2023. (X. 16.) AM rendelet 38. § b) pontja szerint módosított szöveg.
+[^15]: A 3. melléklet 6. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. melléklet 7. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 13. § c) pontja hatályon kívül helyezte.
+[^18]: A 3. melléklet 8. pont címe az 57/2023. (X. 16.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet 8. pont 8.2. alpontja az 57/2023. (X. 16.) AM rendelet 38. § c) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet 8. pont 8.3. alpontja az 57/2023. (X. 16.) AM rendelet 38. § d) pontja szerint módosított szöveg.
+[^21]: A 3. melléklet 8. pont 8.4. alpontja az 57/2023. (X. 16.) AM rendelet 38. § e) pontja szerint módosított szöveg.
