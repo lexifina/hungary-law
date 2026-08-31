@@ -22,9 +22,9 @@ e) a jótállás feltételeit.
 
 (6) A jótállási kötelezettséget nem érinti, ha a (4)–(5) bekezdés szerinti bármely feltétel nem teljesül.
 
-(7)[^2] A (4) és (5) bekezdésben foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
+(7)[^6] A (4) és (5) bekezdésben foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
 
-(8)[^3] A (7) bekezdésben említett rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(8)[^7] A (7) bekezdésben említett rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^2]: A 16. § (7) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 37. §-a iktatta be.
-[^3]: A 16. § (8) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 37. §-a iktatta be.
+[^6]: A 16. § (7) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 37. §-a iktatta be.
+[^7]: A 16. § (8) bekezdését a 93/2024. (IV. 23.) Korm. rendelet 37. §-a iktatta be.

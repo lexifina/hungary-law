@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-373-20-
 | 2022-01-02 | 2021-373-20-22.4 | 2010: CXXX. törvény |
 | 2022-09-24 | 2021-373-20-22.5 | 365/2022. (IX. 23.) Korm. rendelet |
 | 2024-05-08 | 2021-373-20-22.6 | 93/2024. (IV. 23.) Korm. rendelet |
+| 2026-08-31 | 2021-373-20-22.7 | 114/2026. (VII. 23.) Korm. rendelet |
