@@ -1,0 +1,1 @@
+32. § A határidős devizabeszerzés utólagos korrekciós költségtömegét a határidős havi zsinórtermékek beszerzéséhez szükséges euróalapú kiadások előretekintően elismert költségtömegének és a frissített mennyiség alapján ténylegesen felmerült költségtömegének előjelhelyes különbözete alapján kell a 3. melléklet 9. pontja szerint meghatározni.

@@ -1,0 +1,1 @@
+41. § Az elosztói alapdíjakat – a 36. §-ban előírtakra figyelemmel – az egyes elosztók méréssel, leolvasással és a kapcsolódó ügyfélszolgálati tevékenységekkel kapcsolatos költségeinek az összege, valamint a mérések fajlagos költségarányai alapján kell meghatározni.

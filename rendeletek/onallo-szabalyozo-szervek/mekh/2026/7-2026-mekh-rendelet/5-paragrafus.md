@@ -1,0 +1,3 @@
+5. § (1) A Magyar Nemzeti Bank (a továbbiakban: MNB) által a tárgyévi Vet. 143. § (5) bekezdése szerinti határozat meghozatalát megelőzően kiadott legutolsó előrejelzésben szereplő, tárgyévi fogyasztói árindex (a továbbiakban: CPI) és versenyszféra bruttó átlagkereset (a továbbiakban: VBÁ) változása alapján kompozit árindexet (a továbbiakban: KI) kell képezni. Ha az MNB a CPI vagy a VBÁ tekintetében intervallumsávos előrejelzést ad ki, a számítás során a sávközepet kell alkalmazni.
+
+(2) A KI kiszámításához használt súlytényezők megegyeznek az árszabályozási ciklus induló rendszerhasználati díjainak megállapítását megalapozó költségfelülvizsgálat során alkalmazott súlytényezőkkel.

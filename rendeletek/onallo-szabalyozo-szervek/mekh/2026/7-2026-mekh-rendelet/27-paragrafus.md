@@ -1,0 +1,1 @@
+27. § A 24. § (1) bekezdés c) pontja szerinti árkomponenst a határidős éves zsinórtermék és a határidős havi zsinórtermékek beszerzéséhez kapcsolódó árkomponensek százalékában, az egyes villamosenergia-kereskedelmi költségtételek vizsgálata alapján kell kiszámítani, a 3. melléklet 4. pontja szerinti képlet alkalmazásával.

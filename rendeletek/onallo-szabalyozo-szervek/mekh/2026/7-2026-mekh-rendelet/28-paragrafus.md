@@ -1,0 +1,3 @@
+28. § (1) A tárgyévi határidős éves zsinórtermék és határidős havi zsinórtermékek vásárlásához szükséges határidős devizabeszerzés előretekintően elismert költségét az euró összeg vásárlásához szükséges, (2) bekezdés szerinti beszerzéshez kapcsolódó költségtömeg alapján, a 3. melléklet 5. pontja szerinti képlet alkalmazásával kell kiszámítani.
+
+(2) A határidős EUR/HUF vételi ügylet megkötése a határidős devizapiacon – a tárgyévi költségtömeg meghatározása során figyelembe vett fedezeti stratégia elemeként – a határidős zsinórtermék beszerzési napján megnyílt EUR/HUF short pozíció fedezéséhez szükséges euró fedezet biztosítása érdekében a határidős zsinórtermék beszerzési napján történik.

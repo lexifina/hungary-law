@@ -1,0 +1,1 @@
+33. § Az elosztóhálózati veszteség után a tárgyévre, előretekintően elismert átviteli díj költségtömegét a tárgyévre elismert elosztóhálózati veszteség mennyiségének és az elosztó által fizetendő átviteli díj mértékének szorzataként kell meghatározni.

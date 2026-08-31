@@ -1,0 +1,3 @@
+23. § (1) Az elosztó az elosztóhálózati veszteség tárgyévre tervezett éves összesített mennyiségét – a tárgyévi tervezés és makroszintű költségtömeg-előrejelzés megalapozása érdekében – a tárgyévet megelőző második év december 15. napjáig küldi meg a Hivatal részére.
+
+(2) Az elosztó az elosztóhálózati veszteség tárgyévre elismert mennyiségének alapjául szolgáló, negyedórás bontású, szerződés nélküli vételezésre vonatkozó becslést vagy várakozást nem tartalmazó tervét a tárgyévet megelőző év június 30. napjáig küldi meg a Hivatal részére úgy, hogy az adatszolgáltatásnak tartalmaznia kell a havi összesített mennyiségeknek a 22. § (2)–(4) bekezdése szerinti komponensek szerinti bontását is.

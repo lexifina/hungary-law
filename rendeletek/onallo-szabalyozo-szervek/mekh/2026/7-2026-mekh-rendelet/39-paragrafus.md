@@ -1,0 +1,1 @@
+39. § A Vet. 142. § (1) bekezdés a) pontja szerinti átviteli díj elemét képező átviteli alapdíjat, átviteli lekötött teljesítménydíjat, átviteli meddőenergia-díjat és átviteli forgalmi díjat úgy kell meghatározni, hogy azok együttesen fedezetet nyújtsanak az átviteli rendszerirányítónak a 4–20. § alapján meghatározott indokolt költségeire.

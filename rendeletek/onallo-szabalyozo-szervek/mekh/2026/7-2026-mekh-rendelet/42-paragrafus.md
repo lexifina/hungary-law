@@ -1,0 +1,1 @@
+42. § A közvilágítási elosztási díjat a kisfeszültségű elosztóhálózaton fizetendő, a villamos energia rendszerhasználati díjak és külön díjak alkalmazási szabályairól szóló 10/2024. (XI. 14.) MEKH rendelet szerinti kisfeszültségű profilos (KIF I.) elosztási díjhoz igazítva kell meghatározni.
