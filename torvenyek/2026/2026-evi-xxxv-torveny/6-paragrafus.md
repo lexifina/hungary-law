@@ -1,1 +1,3 @@
-### 6. §
+6. § Az Szja tv. 70. §-a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A vagyonelem tulajdonba adását nem eredményező vagyoni érték kedvezményezett magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén egyes meghatározott juttatásnak minősül az e juttatással összefüggő, a kezelt vagyont, magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon, a magánalapítványi vagyon terhére kell elszámolni. E rendelkezést nem kell alkalmazni, ha egyébként a belföldi vagyonelem tulajdonba adásakor az azt megszerző magánszemélynek illetékfizetési kötelezettsége nem keletkezne, külföldi vagyonelem tulajdonba adása esetén pedig a vagyonelem belföldi szerzése esetén nem keletkezne illetékfizetési kötelezettség.”
