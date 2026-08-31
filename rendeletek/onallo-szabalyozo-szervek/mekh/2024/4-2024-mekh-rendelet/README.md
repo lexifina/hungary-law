@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-4-20-5Z
 | 2025-01-01 | 2024-4-20-5Z.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-01-02 | 2024-4-20-5Z.3 | 2010. évi CXXX. törvény |
 | 2026-08-30 | 2024-4-20-5Z.5 | 8/2026. (VIII. 28.) MEKH rendelet |
+| 2026-08-31 | 2024-4-20-5Z.4 | 7/2026. (VIII. 28.) MEKH rendelet |
