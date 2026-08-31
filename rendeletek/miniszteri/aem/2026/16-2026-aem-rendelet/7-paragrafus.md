@@ -1,7 +1,3 @@
-7. § A 79/2004. (V. 4.) FVM rendelet 79. § (3) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(3) A vadászati hatóság a jogszerűen elejtett vagy elhullott vad éremhatárt elérő trófeájáról érmet, továbbá elejtés esetén az elejtő nevére kiállított oklevelet ad át. Nem adható oklevél, ha
-
-a) az elejtést a vadászati hatóság szakszerűtlennek minősíti, vagy
-
-b) az elejtett nagyvad a vadászterület vadgazdálkodási üzemtervében nemkívánatos fajként szerepel.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

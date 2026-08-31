@@ -1,1 +1,3 @@
-15. § A 13/2018. (VII. 3.) AM rendelet 4. melléklet c) pontjában a „3 kg-ot” szövegrész helyébe a „3,5 kg-ot” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
