@@ -1,1 +1,3 @@
-11. § A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának a 2025. január 1. napjával induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 4/2024. (VI. 14.) MEKH rendelet 7. §-ában az „a Hivatal által a honlapján közzétett, a VET 143. § (3) bekezdés a) pontja szerinti módszertani útmutató tartalmazza.” szövegrész helyébe az „az árszabályozási ciklus induló árainak meghatározását megelőző, a villamos energia hálózati engedélyesek indokolt költségeinek meghatározásához szükséges eszköz- és költségfelülvizsgálatra vonatkozó módszertanról szóló rendelet tartalmazza.” szöveg lép.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
