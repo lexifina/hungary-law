@@ -385,3 +385,7 @@ váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől
 99. Kiegészítő biztosítás: a nyugdíjbiztosításra vonatkozó rendelkezések alkalmazása során kiegészítő biztosítás az olyan biztosítás – függetlenül attól, hogy az milyen kockázatra nyújt fedezetet –, amelynek saját különös szerződési feltétele van és díja a nyugdíjbiztosítás díjától a számviteli jogszabályok szerint elkülönített (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, levonással érvényesített díjat is).
 
 100. Pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás.
+
+101. Vagyonrendelő: az a személy, aki a bizalmi vagyonkezelési jogviszony alapján a vagyonelemet bizalmi vagyonkezelésbe adta.
+
+102. Kriptoeszköz: az érték vagy jogok digitális megtestesítője, amely megosztott főkönyvi technológia vagy hasonló technológia alkalmazásával elektronikusan átruházható és tárolható.

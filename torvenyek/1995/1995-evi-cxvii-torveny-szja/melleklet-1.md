@@ -544,13 +544,19 @@ e) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otth
 
 ## 7.25.
 
-## 7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ideértve a tartós vagyonkezelésébe adott vagyonból kedvezményezettként általa megszerzett összeget is) terhére
+## 7.26. a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyon
 
-## a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
+## a) induló tőkéje terhére
 
-## b) a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot),
+## aa) juttatott vagyoni érték, ha az nem minősül osztaléknak,
 
-## azzal hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,
+## ab) juttatott vagyoni érték, ha az a vagyonrendelő, az alapító (csatlakozó) által átadott vagyonelemmel azonos megjelenési formában történik,
+
+## ac) történő vagyoni érték juttatás a 65/C. § (3) és (4) bekezdésében meghatározott esetben, továbbá
+
+## b) terhére történő, a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot), ha egyébként a vagyonelem tulajdonba adásakor – külföldi vagyonelem esetében úgy tekintve, mintha a vagyonelem tulajdonba adása belföldön történne – a megszerző magánszemélynek illetékfizetési kötelezettsége nem keletkezne
+
+## azzal, hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,
 
 7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 

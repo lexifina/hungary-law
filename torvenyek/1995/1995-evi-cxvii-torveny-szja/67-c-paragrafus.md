@@ -4,7 +4,7 @@
 
 (2) E törvény alkalmazásában kriptoeszközzel végrehajtott ügyletnek minősül az az ügylet, amelyben a magánszemély bárki számára megköthető, elérhető ügyletben kriptoeszközök átruházása, átengedése révén – ideértve a kriptoeszköz biztosította jog gyakorlását is – nem kriptoeszköz formájában vagyoni értéket szerez. Ügyleti nyereséget kell megállapítani a meghaladó rész tekintetében akkor, ha a tárgyévi ügyletek révén megszerzett bevételek összege meghaladja a kriptoeszközök megszerzésére és az ügyletekhez kapcsolódó díjakra, jutalékokra – ideértve a konkrét ügylethez nem kapcsolódó, de a kriptoeszközök tartásával összefüggő tárgyévi igazolt kiadásokat is – fordított tárgyévi igazolt kiadásokat. Ügyleti veszteséget kell megállapítani (a meghaladó rész tekintetében) akkor, ha az említett tárgyévi kiadások összege meghaladja a tárgyévi bevételek összegét, abban az esetben is, ha a tárgyévben ügyleti bevétel szerzése nem történt. Ügyleti bevételt nem kell megállapítani, ha az ügyletből származó bevétel a minimálbér 10 százalékát nem haladja meg, feltéve, hogy a bevétel megszerzésének napjára más, azonos tárgyú ügyletből a magánszemély nem szerez bevételt, továbbá az adóévben e bevételek összege a minimálbért nem haladja meg.
 
-(3) Az ügyleti eredmény megállapítása során bevételként a kriptoeszköznek a kriptoeszköz átruházása, átengedése (vagy a jog gyakorlás megkezdése) időpontjára megállapított szokásos piaci értékét kell figyelembe venni.
+(3) Az ügyleti eredmény megállapítása során bevételként a kriptoeszköznek a kriptoeszköz átruházása, átengedése (vagy a joggyakorlás megkezdése) időpontjára megállapított szokásos piaci értékét kell figyelembe venni. A (2) bekezdéstől eltérően kriptoeszközzel végrehajtott ügyletnek minősül a kriptoeszköz bizalmi vagyonkezelésbe adása, magánalapítvány részére történő tulajdonba adása is, azzal, hogy bevételként azt az értéket kell tekinteni, amelyen azt az átvevő (kezelt vagyon, magánalapítvány) számviteli nyilvántartásba vette.
 
 (4) Az ügyleti eredmény megállapítása során kriptoeszköz megszerzésére fordított kiadásként vehető figyelembe – ha azt a magánszemély a tárgyévben
 
@@ -28,4 +28,4 @@ e) tevékenység, szolgáltatás nyújtás ellenértékeként vagy azzal összef
 
 (8) A magánszemély a kriptoeszközzel végrehajtott ügyletből származó jövedelmet és annak adóját az adóhatóság közreműködése nélkül elkészített bevallásában vagy az adóbevallási tervezet adatait kiegészítve vallja be, és az adót a bevallás benyújtására nyitva álló határidőig fizeti be.
 
-(9) E § alkalmazásában kriptoeszköznek minősül az érték vagy jogok digitális megjelenítője, amely megosztott főkönyvi technológia vagy hasonló technológia alkalmazásával elektronikusan átruházható és tárolható.
+(9)

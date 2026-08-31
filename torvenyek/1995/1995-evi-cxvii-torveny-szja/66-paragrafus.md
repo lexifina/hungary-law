@@ -14,9 +14,9 @@ ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozam
 
 ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére a számviteli szabályok szerinti tartalék terhére juttatott vagyoni érték;
 
-af)
+af) a magánalapítvány által a kedvezményezett vagy az alapító, a csatlakozó magánszemélynek a számviteli szabályok szerinti tőkeváltozás terhére juttatott vagyoni érték, azzal, hogy ha a magánalapítvány tartós vagyonkezelés kedvezményezettje, a tőkeváltozás azon része terhére juttatott vagyoni érték, amely a tartós vagyonkezelés keretében kezelt vagyonból általa vagyonkiadás címén kedvezményezettként megszerzett juttatás értékének megfelelően keletkezett, csak annyiban minősül osztaléknak, amennyiben annak forrása a 65/C. § (8) bekezdése szerint külön nyilvántartott eszközök eszközérték-növekménye, és azt kedvezményezett magánszemély (nem az alapító, a csatlakozó) szerzi meg bevételként;
 
-ag) a magánalapítvány által a kedvezményezett vagy az alapító, a csatlakozó magánszemélynek a számviteli szabályok szerinti tőkeváltozás terhére juttatott vagyoni érték, azzal, hogy ha a magánalapítvány tartós vagyonkezelés kedvezményezettje, a tőkeváltozás azon része terhére juttatott vagyoni érték, amely a tartós vagyonkezelés keretében kezelt vagyonból általa vagyonkiadás címén kedvezményezettként megszerzett juttatás értékének megfelelően keletkezett, csak annyiban minősül osztaléknak, amennyiben annak forrása a 65/C. § (11) bekezdése szerint külön nyilvántartott eszközérték-növekmény, és azt kedvezményezett magánszemély (nem az alapító, a csatlakozó) szerzi meg bevételként;
+ag) a bizalmi vagyonkezelési jogviszony keretében kezelt vagyon, magánalapítványi vagyon induló tőkéje értékének terhére nem a vagyonrendelő, alapító (csatlakozó) által átadott vagyonelemmel azonos megjelenési formában juttatott bevétel, a vagyonkezelő, a magánalapítvány által vezetett, a 65/C. § szerinti elkülönült nyilvántartásban szereplő eszközérték-növekmény összegéig;
 
 ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 

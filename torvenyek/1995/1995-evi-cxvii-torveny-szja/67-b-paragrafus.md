@@ -93,3 +93,9 @@ a) a magánalapítvány magánszemély mint kedvezményezett javára történő 
 b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány tartós vagyonkezelői feladatának teljesítése céljából,
 
 azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.
+
+(15) A (14) bekezdés szerinti tartós befektetési szerződés esetében nem eredményezi a lekötés megszakítását a bizalmi vagyonkezelő személyében bekövetkezett változás, feltéve, hogy
+
+a) az új bizalmi vagyonkezelő a megszűnt tartós befektetési szerződés megszűnését követő 30 napon belül új tartós befektetési szerződést köt, és
+
+b) az eredeti (megszűnt) szerződés lekötési nyilvántartásában szereplő minden eszköz (pénzeszköz, pénzügyi eszköz) hiánytalanul szerepel a megszűnt szerződéssel azonos típusú, újonnan megkötött szerződés lekötési nyilvántartásában.

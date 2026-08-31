@@ -24,6 +24,8 @@ d) étterem: az a vendéglátó üzlet, amelyet a helyi kereskedelmi hatóság a
 
 (5) Ha a kifizető egyesület, köztestület, egyházi jogi személy, alapítvány (ideértve a közalapítványt is), a (4) bekezdéstől eltérően mentes az adó alól az adóévben reprezentáció és a minimálbér 25 százalékának megfelelő egyedi értéket meg nem haladó üzleti ajándékok juttatása alapján meghatározott jövedelem azon része, amely a közhasznú, illetve cél szerinti tevékenysége érdekében felmerült, az adóévre vonatkozó beszámolóban kimutatott összes ráfordítás 10 százalékát, de legfeljebb az adóévre elszámolt éves összes bevétele 10 százalékát nem haladja meg.
 
+(5a) A vagyonelem tulajdonba adását nem eredményező vagyoni érték kedvezményezett magánszemély részére történő juttatása – ideértve különösen az ingyenes vagy kedvezményes használat biztosítását – esetén egyes meghatározott juttatásnak minősül az e juttatással összefüggő, a kezelt vagyont, magánalapítványi vagyont terhelő költség, ráfordítás. Az adót a bizalmi vagyonkezelési jogviszony alapján kezelt vagyon, a magánalapítványi vagyon terhére kell elszámolni. E rendelkezést nem kell alkalmazni, ha egyébként a belföldi vagyonelem tulajdonba adásakor az azt megszerző magánszemélynek illetékfizetési kötelezettsége nem keletkezne, külföldi vagyonelem tulajdonba adása esetén pedig a vagyonelem belföldi szerzése esetén nem keletkezne illetékfizetési kötelezettség.
+
 (6) Egyes meghatározott juttatásnak minősül
 
 a) az évi három alkalommal – az erre vonatkozó nyilvántartás vezetése mellett – csekély értékű ajándék révén juttatott adóköteles jövedelem;
