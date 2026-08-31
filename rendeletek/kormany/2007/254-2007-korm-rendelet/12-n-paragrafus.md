@@ -18,10 +18,10 @@ e) az elektronikus bérleti licit eljárást lezáró szerződés megkötését 
 
 (5) A (4) bekezdés szerinti megismételt elektronikus bérleti licit eljárások során – e rendelet eltérő rendelkezése hiányában – az első elektronikus bérleti licit eljárásra vonatkozó szabályok megfelelően alkalmazandóak.
 
-(6)[^197] A megismételt elektronikus bérleti licit eljárásban a kezdő bérleti díj ajánlat
+(6)[^198] A megismételt elektronikus bérleti licit eljárásban a kezdő bérleti díj ajánlat
 
 a) első alkalommal a 12/M. § (1) bekezdése szerint megállapított kezdő bérleti díj ajánlat legalább 80%-a, de legfeljebb 100%-a,
 
 b) második alkalommal a 12/M. § (1) bekezdése szerint megállapított kezdő bérleti díj ajánlat legalább 60%-a, de legfeljebb 100%-a.
 
-[^197]: A 12/N. § (6) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^198]: A 12/N. § (6) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

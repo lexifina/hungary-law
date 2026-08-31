@@ -1,6 +1,6 @@
 ## A kijelölt használó vagyongazdálkodására vonatkozó szabályok
 
-53/D. §[^390] A központi költségvetési szerv a Magyarország területén fekvő elhelyezési célú ingatlan vonatkozásában
+53/D. §[^394] A központi költségvetési szerv a Magyarország területén fekvő elhelyezési célú ingatlan vonatkozásában
 
 a) nem indíthat a tulajdonjognak az állam javára történő megszerzésére irányuló közbeszerzési vagy más eljárást;
 
@@ -10,4 +10,4 @@ c) nem indíthat – az 53/E. § (1) bekezdésében meghatározott kivétellel �
 
 d) nem köthet – jogszabályban meghatározott kivétellel – saját maga vagy más központi költségvetési szerv javára használati jogosultságot eredményező megállapodást.
 
-[^390]: Az 53/D. § nyitó szövegrésze a 27/2024. (II. 22.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^394]: Az 53/D. § nyitó szövegrésze a 27/2024. (II. 22.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

@@ -68,7 +68,9 @@ s)[^22] villámár: a kivezetésre szánt állami vagyon körébe tartozó vagyo
 
 t)[^23] a kivezetésre szánt állami vagyon körébe tartozó követelések könyv szerinti értéke: az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 21. § (8) bekezdése alapján meghatározott érték.
 
-(8)[^24] Nem minősül a Vtv. 42/A. § (1) bekezdés c) pontja szerinti kivezetésre szánt állami vagyoni körbe tartozó kis értékű ingóságnak
+u)[^24] nem felsőoktatási alapítvány: a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 25/A. §-a szerinti nem felsőoktatási alapítvány és az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény 182. §-a szerinti alapítvány.
+
+(8)[^25] Nem minősül a Vtv. 42/A. § (1) bekezdés c) pontja szerinti kivezetésre szánt állami vagyoni körbe tartozó kis értékű ingóságnak
 
 a) a drágakő, a nemesfém és az azokból készült tárgy,
 
@@ -80,7 +82,7 @@ d) a régészeti lelet, valamint
 
 e) a természet védelméről szóló 1996. évi LIII. törvény 4. § e) pontja szerinti védett természeti érték.
 
-(9)[^25] Az MNV Zrt. a tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kis értékű vagyonelemek köréből nem minősítheti kivezetésre szánt állami vagyonba tartozó vagyonnak
+(9)[^26] Az MNV Zrt. a tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kis értékű vagyonelemek köréből nem minősítheti kivezetésre szánt állami vagyonba tartozó vagyonnak
 
 a) a jogszabály alapján állami tulajdonban tartandó vagyonelemet,
 
@@ -119,5 +121,6 @@ g) az Európai Unió költségvetéséből finanszírozott támogatási program 
 [^21]: Az 1. § (7) bekezdés r) pontját a 827/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^22]: Az 1. § (7) bekezdés s) pontját a 827/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^23]: Az 1. § (7) bekezdés t) pontját a 27/2024. (II. 22.) Korm. rendelet 1. §-a iktatta be.
-[^24]: Az 1. § (8) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^25]: Az 1. § (9) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^24]: Az 1. § (7) bekezdés u) pontját a 135/2026. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^25]: Az 1. § (8) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^26]: Az 1. § (9) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
