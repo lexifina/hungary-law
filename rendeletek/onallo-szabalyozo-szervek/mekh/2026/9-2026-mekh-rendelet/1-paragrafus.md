@@ -4,6 +4,6 @@
 
 ## [3] A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdés 14. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárás során fizetendő pályázati díjról szóló 2/2026. (II. 12.) MEKH rendelet [a továbbiakban: 2/2026. (II. 12.) MEKH rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A pályázó a pályázati kiírás átvételéért pályázati dokumentációs díjat nem fizet, a pályázati kiírás díjmentesen elérhető.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

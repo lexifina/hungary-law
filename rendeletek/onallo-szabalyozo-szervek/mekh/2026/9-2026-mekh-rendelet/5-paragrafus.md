@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 2/2026. (II. 12.) MEKH rendelet 3. § (3) bekezdésében a „különböző hálózati csomópontra” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
