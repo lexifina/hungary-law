@@ -1,0 +1,1 @@
+12. § A gyártó vagy a 7. § szerint helytállásra kötelezett személy 5., 8. és 11. §-ban foglalt kötelezettsége a javíthatósági követelménynek az azt meghatározó uniós jogi aktusban meghatározott hatályának lejártáig áll fenn.
