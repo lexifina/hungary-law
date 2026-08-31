@@ -12,6 +12,8 @@ e) 3. § (10) bekezdés 30. pontja az utazási csomagokról és az utazási szol
 
 f) 3. § (8) bekezdés 1. pontja és (9) bekezdése a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről szóló, 2020. november 25-i (EU) 2020/1818 európai parlamenti és tanácsi irányelvnek
 
+g)[^12] az áruk javítását előmozdító közös szabályok meghatározásáról, továbbá az (EU) 2017/2394 rendelet, valamint az (EU) 2019/771 és az (EU) 2020/1828 irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1799 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) E rendelet
@@ -31,3 +33,5 @@ f) 3. § (10) bekezdés 31. pontja a határokon átnyúló csomagkézbesítési 
 g) 3. § (10) bekezdés 11. pontja a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^12]: A 9. § (1) bekezdés g) pontját a 114/2026. (VII. 23.) Korm. rendelet 24. §-a iktatta be.
