@@ -1,3 +1,3 @@
-41. §[^115]
+41. §[^122]
 
-[^115]: A 41. §-t a a 10/2020. (VI. 26.) MvM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^122]: A 41. §-t a a 10/2020. (VI. 26.) MvM rendelet 7. § a) pontja hatályon kívül helyezte.

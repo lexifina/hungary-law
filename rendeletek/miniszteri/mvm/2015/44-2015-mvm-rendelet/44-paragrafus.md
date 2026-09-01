@@ -1,6 +1,6 @@
 ## 14. Az Európai Unió jogának való megfelelés
 
-44. §[^134] (1) Ez a rendelet
+44. §[^143] (1) Ez a rendelet
 
 a) a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. szeptember 23-i 2019/1780 (EU) rendeletnek;
 
@@ -32,4 +32,4 @@ g) a tiszta és energiahatékony közúti járművek használatának előmozdít
 
 való megfelelést szolgálja.
 
-[^134]: A 44. § a 3/2023. (X. 16.) TFM rendelet 13. §-ával megállapított szöveg.
+[^143]: A 44. § a 3/2023. (X. 16.) TFM rendelet 13. §-ával megállapított szöveg.

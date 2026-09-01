@@ -1,3 +1,3 @@
-31. §[^103]
+31. §[^109]
 
-[^103]: A 31. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 19. pontja hatályon kívül helyezte.
+[^109]: A 31. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 19. pontja hatályon kívül helyezte.

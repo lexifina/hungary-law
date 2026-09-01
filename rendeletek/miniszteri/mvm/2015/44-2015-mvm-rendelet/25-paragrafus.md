@@ -1,5 +1,5 @@
 ## 8. Közzététellel kapcsolatos egyéb rendelkezések
 
-25. §[^97]
+25. §[^98]
 
-[^97]: A 25. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 18. pontja hatályon kívül helyezte.
+[^98]: A 25. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 18. pontja hatályon kívül helyezte.

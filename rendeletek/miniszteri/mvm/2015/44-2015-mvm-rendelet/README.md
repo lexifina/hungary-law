@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-44-20-6
 | 2024-07-15 | 2015-44-20-6N.17 | 10/2020. (VI. 26.) MvM rendelet |
 | 2024-09-01 | 2015-44-20-6N.18 | 7/2024. (VII. 12.) KTM rendelet |
 | 2026-01-01 | 2015-44-20-6N.19 | 10/2025. (XII. 19.) KTM rendelet |
+| 2026-09-01 | 2015-44-20-6N.20 | 10/2025. (XII. 19.) KTM rendelet |

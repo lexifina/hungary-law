@@ -1,37 +1,85 @@
-## VI.1) Információ az elektronikus munkafolyamatokról 5 19
+## A 34. § szerinti hirdetmények adattartalma tekintetében alkalmazandó, a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. szeptember 23-i 2019/1780 végrehajtási rendelet mellékletében foglalt 2. táblázat vonatkozó oszlopainak sorszáma.
 
-| ⬜A megrendelés elektronikus úton történik ⬜Elektronikusan benyújtott számlákat elfogadnak ⬜A fizetés elektronikus úton történik |
+|  | A | B | C |
 
-## VI.2) További információk: 2
+| 1 | A Kbt. Harmadik Része alkalmazásában |
 
-## VI.3) E hirdetmény feladásának dátuma: (éééé/hh/nn/)
+| 2 | Ajánlatkérő típusa | Hirdetmény fajtája | Az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázat vonatkozó oszlopának sorszáma |
 
-## Az európai uniós, a Kbt., annak végrehajtási rendeletei és más alkalmazandó jog előírásainak történő megfelelés biztosítása az ajánlatkérő felelőssége.
+| 3 | Kbt. 5. §-a szerinti ajánlatkérő | Kbt. 38. § (4) bekezdése szerinti előzetes tájékoztató – ajánlatkérő honlapján történő közzététel | 1 |
 
-| _________________________________________________________________________________________________________ |
+| 4 | Kbt. 37. § (1) bekezdés a) pontja szerinti előzetes tájékoztató | 4 |
 
-## 1szükség szerinti számban ismételje meg
+| 5 | Kbt. 37. § (1) bekezdés a) pontja szerinti előzetes tájékoztató – ajánlatok/részvételi jelentkezések benyújtására rendelkezésre álló határidő lerövidítése | 7 |
 
-## 2adott esetben
+| 6 | Kbt. 37. § (1) bekezdés a) pontja szerinti előzetes tájékoztató – eljárás meghirdetése | 10 |
 
-## 3 szükség szerinti számban ismételje meg, ha ez a hirdetmény kizárólag előzetes tájékoztató vagy időszakos előzetes tájékoztató
+| 7 | Kbt. 37. § (1) bekezdés b) pontja szerinti ajánlati felhívás | 16 |
 
-## 4ha az információ ismert
+| 8 | Kbt. 37. § (1) bekezdés c) pontja szerinti részvételi felhívás |
 
-## 5ezt az információt akkor adja meg, ha a hirdetmény eljárás meghirdetésére irányul
+| 9 | Kbt. 37. § (1) bekezdés d) pontja szerinti eljárásokban az eljárást megindító felhívás |
 
-## 6amennyire az információ már ismert
+| 10 | Kbt. 37. § (1) bekezdés h) pontja szerinti eljárás eredményéről szóló tájékoztató | 29 |
 
-## 9ezt az információt csak előzetes tájékoztató vagy időszakos előzetes tájékoztató esetében adja meg
+| 11 | Kbt. 37. § (1) bekezdés f) pontja szerinti tervpályázati kiírás | 23 |
 
-## 12ha a hirdetmény eljárás meghirdetésére irányul, vagy célja az ajánlattételi határidő lerövidítése, ezt az információt itt vagy az eljárást megindító felhívásban adja meg
+| 12 | Kbt. 37. § (1) bekezdés i) pontja szerinti tervpályázati eljárás eredményéről szóló tájékoztató | 36 |
 
-## 19ha a hirdetmény célja az ajánlattételi határidő lerövidítése
+| 13 | önkéntes előzetes átláthatóságra vonatkozó hirdetmény | 25 |
 
-## 20súlyszám helyett fontosság is megadható
+| 14 | szerződés módosításáról szóló tájékoztató | 38 |
 
-## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
+| 15 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer időtartamának megváltoztatása a rendszer megszüntetése nélkül | 16 |
 
-2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^137]
+| 16 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer időtartamának megváltoztatása a rendszer megszüntetése nélkül – a Kbt. 37. § (1) bekezdés a) pontja szerinti előzetes tájékoztatóval meghirdetett eljárás esetén | 10 |
 
-[^137]: A 2. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (2) bekezdésével megállapított szöveg.
+| 17 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer megszüntetése a fennállás időtartamának lejárta előtt | 29 |
+
+| 18 | Kbt. 6–7. §-a szerinti ajánlatkérő | Kbt. 38. § (4) bekezdése szerinti időszakos előzetes tájékoztató – ajánlatkérő honlapján történő közzététel | 2 |
+
+| 19 | Kbt. 37. § (1) bekezdés e) pontja szerinti időszakos előzetes tájékoztató | 5 |
+
+| 20 | Kbt. 37. § (1) bekezdés e) pontja szerinti időszakos előzetes tájékoztató – ajánlatok/részvételi jelentkezések benyújtására rendelkezésre álló határidő lerövidítése | 8 |
+
+| 21 | Kbt. 37. § (1) bekezdés e) pontja szerinti időszakos előzetes tájékoztató – eljárás meghirdetése | 11 |
+
+| 22 | Kbt. 37. § (1) bekezdés b) pontja szerinti ajánlati felhívás | 17 |
+
+| 23 | Kbt. 37. § (1) bekezdés c) pontja szerinti részvételi felhívás |
+
+| 24 | Kbt. 37. § (1) bekezdés d) pontja szerinti eljárásokban az eljárást megindító felhívás |
+
+| 25 | Kbt. 37. § (1) bekezdés h) pontja szerinti eljárás eredményéről szóló tájékoztató | 30 |
+
+| 26 | Kbt. 37. § (1) bekezdés e) pontja szerinti előminősítési hirdetmény | 15 |
+
+| 27 | Kbt. 37. § (1) bekezdés f) pontja szerinti tervpályázati kiírás | 24 |
+
+| 28 | Kbt. 37. § (1) bekezdés i) pontja szerinti tervpályázati eljárás eredményéről szóló tájékoztató | 37 |
+
+| 29 | önkéntes előzetes átláthatóságra vonatkozó hirdetmény | 26 |
+
+| 30 | szerződés módosításáról szóló tájékoztató | 39 |
+
+| 31 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer időtartamának megváltoztatása a rendszer megszüntetése nélkül | 17 |
+
+| 32 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer időtartamának megváltoztatása a rendszer megszüntetése nélkül – a Kbt. 37. § (1) bekezdés e) pontja szerinti időszakos előzetes tájékoztatóval meghirdetett eljárás esetén | 11 |
+
+| 33 | Kbt. 107. § (9) bekezdése – a dinamikus beszerzési rendszer megszüntetése a fennállás időtartamának lejárta előtt | 30 |
+
+| 34 | A Kbt. Negyedik Része alkalmazásában |
+
+| 35 | Ajánlatkérő típusa | Hirdetmény fajtája | Az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázat vonatkozó oszlopának sorszáma |
+
+| 36 | Kbt. 5. §-a, illetve 6–7. §-a szerinti ajánlatkérő | koncessziós beszerzési eljárást megindító felhívás | 19 |
+
+| 37 | koncessziós beszerzési eljárás eredményéről szóló tájékoztató | 32 |
+
+| 38 | önkéntes előzetes átláthatóságra vonatkozó hirdetmény | 28 |
+
+| 39 | szerződés módosításáról szóló tájékoztató | 40 |
+
+2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^146]
+
+[^146]: A 2. mellékletet a 10/2025. (XII. 19.) KTM rendelet 10. § 5. pontja hatályon kívül helyezte.

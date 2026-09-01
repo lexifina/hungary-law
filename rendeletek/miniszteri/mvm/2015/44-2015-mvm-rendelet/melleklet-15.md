@@ -1,4 +1,4 @@
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^149]
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^159]
 
 A részvételi jelentkezések elbírálására vonatkozó írásbeli összegezés adattartalma
 
@@ -208,4 +208,4 @@ A részvételi jelentkezések elbírálására vonatkozó írásbeli összegezé
 
 11.4. További információk
 
-[^149]: A 15. melléklet a 7/2024. (VII. 12.) KTM rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^159]: A 15. melléklet a 7/2024. (VII. 12.) KTM rendelet 5. § (10) bekezdésével megállapított szöveg.

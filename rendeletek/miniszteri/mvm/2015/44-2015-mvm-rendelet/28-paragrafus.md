@@ -1,3 +1,3 @@
-28. §[^100]
+28. §[^106]
 
-[^100]: A 28. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 19. pontja hatályon kívül helyezte.
+[^106]: A 28. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 19. pontja hatályon kívül helyezte.

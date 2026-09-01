@@ -1,3 +1,3 @@
-40. §[^114]
+40. §[^121]
 
-[^114]: A 40. §-t a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
+[^121]: A 40. §-t a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
