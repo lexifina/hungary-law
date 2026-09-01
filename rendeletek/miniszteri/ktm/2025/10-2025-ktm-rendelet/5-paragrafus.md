@@ -1,3 +1,3 @@
-5. §[^5]
+5. § Az R. 33. §-a helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„33. § Az Értesítőben közzéteendő hirdetmények az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban meghatározott adatokból álló elektronikus fájlok.”

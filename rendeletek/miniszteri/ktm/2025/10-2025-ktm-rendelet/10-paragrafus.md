@@ -1,53 +1,37 @@
 10. § Hatályát veszti az R.
 
-1.[^12]
+1.[^5]
 
-2.[^13]
+2. 23. § (4) bekezdése,
 
-3.[^14]
+3. 27. § (1) bekezdésében az „a (2) bekezdésben és” szövegrész,
 
-4.[^15]
+4. 27. § (2) bekezdése,
 
-5.[^16]
+5. 2. melléklete,
 
-6.[^17]
+6. 3. melléklete,
 
-7.[^18]
+7. 4. melléklete,
 
-8.[^19]
+8. 5. melléklete,
 
-9.[^20]
+9. 6. melléklete,
 
-10.[^21]
+10. 7. melléklete,
 
-11.[^22]
+11. 8. melléklete,
 
-12.[^23]
+12. 9. melléklete,
 
-13.[^24]
+13. 10. melléklete,
 
-14.[^25]
+14. 11. melléklete,
 
-15.[^26]
+15. 12. melléklete,
 
-16.[^27]
+16. 13. melléklete,
 
-17.[^28]
+17. 16. melléklete.
 
-[^12]: A 10. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 10. § 2. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^14]: A 10. § 3. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^15]: A 10. § 4. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^16]: A 10. § 5. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^17]: A 10. § 6. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^18]: A 10. § 7. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^19]: A 10. § 8. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^20]: A 10. § 9. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^21]: A 10. § 10. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^22]: A 10. § 11. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^23]: A 10. § 12. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^24]: A 10. § 13. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^25]: A 10. § 14. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^26]: A 10. § 15. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^27]: A 10. § 16. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
-[^28]: A 10. § 17. pontja a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^5]: A 10. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
