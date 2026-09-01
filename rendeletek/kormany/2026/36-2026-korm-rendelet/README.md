@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-36-20-2
 | --- | --- | --- |
 | 2026-03-06 | 2026-36-20-22.1 | 36/2026. (III. 5.) Korm. rendelet |
 | 2026-03-07 | 2026-36-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-09-01 | 2026-36-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

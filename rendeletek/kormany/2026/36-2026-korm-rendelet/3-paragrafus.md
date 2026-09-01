@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 10. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+3. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 27. § (2) bekezdésében az „iskolai törzslapok” szövegrész helyébe az „iskolai törzslapok vagy osztálynaplók” szöveg lép.
