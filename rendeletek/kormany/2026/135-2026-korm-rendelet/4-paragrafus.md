@@ -1,1 +1,3 @@
-4. § A Vhr. 27. § (1) bekezdésében a „Ha törvény eltérően nem rendelkezik, állami vagyont” szövegrész helyébe az „Állami vagyont” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
