@@ -14,6 +14,12 @@
 
 ## 1. A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet
 
-[^1]: Az 1. § a 12. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+a) 19. § (1) bekezdésében a „minta alkalmazásával” szövegrész helyébe az „adattartalommal” szöveg,
+
+b) 27. § (6) bekezdésében a „minta szerint” szövegrész helyébe a „tartalommal” szöveg, a „három munkanapon” szövegrész helyébe pedig a „határidőn” szöveg,
+
+c) 33. § (2) bekezdésében a „meghatározott hirdetményminta szerinti tartalommal” szövegrész helyébe a „meghatározott tartalommal” szöveg
+
+lép.

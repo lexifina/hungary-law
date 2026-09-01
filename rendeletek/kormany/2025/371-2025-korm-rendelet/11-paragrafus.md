@@ -1,3 +1,1 @@
-11. §[^11]
-
-[^11]: A 11. § a 12. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+11. § Hatályát veszti a 424/2017. (XII. 19.) Korm. rendelet 8. § b) és c) pontja.
