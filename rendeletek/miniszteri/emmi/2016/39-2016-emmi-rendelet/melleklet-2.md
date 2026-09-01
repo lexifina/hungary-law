@@ -150,6 +150,6 @@ A törzsadat-nyilvántartásban közzéteendő törzsadatok és az EESZT útján
 
 14. társadalombiztosítás által támogatott gyógyszerek teljes körének nyilvántartása
 
-15.[^53] egészségügyi szakmai irányelvben vagy az egészségügyért felelős miniszter közleményében meghatározott laboratóriumi diagnosztika körébe tartozó ellátások egységes egészségügyi nevezéktana
+15.[^54] egészségügyi szakmai irányelvben vagy az egészségügyért felelős miniszter közleményében meghatározott laboratóriumi diagnosztika körébe tartozó ellátások egységes egészségügyi nevezéktana
 
-[^53]: A 2. melléklet 15. pontját a 49/2024. (X. 3.) BM rendelet 2. §-a iktatta be.
+[^54]: A 2. melléklet 15. pontját a 49/2024. (X. 3.) BM rendelet 2. §-a iktatta be.
