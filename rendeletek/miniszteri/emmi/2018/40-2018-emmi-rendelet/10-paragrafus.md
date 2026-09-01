@@ -24,9 +24,9 @@ e) a településrész jellege szerint külterületi lakott helyen él.
 
 (3a)[^18] Ha a tanoda rendszeres igénybe vevőinek száma
 
-a) húsz és huszonnégy fő között van, a tanodát rendszeresen igénybe vevők közül legalább kettő főnek,
+a) húsz és huszonnégy fő között van, a tanodát rendszeresen igénybe vevők közül legalább négy főnek,
 
-b) több, mint huszonnégy fő, a tanodát rendszeresen igénybe vevők közül legalább három főnek
+b) több, mint huszonnégy fő, a tanodát rendszeresen igénybe vevők közül legalább hat főnek
 
 középfokú iskolai tanulmányokat kell folytatnia.
 
@@ -36,4 +36,4 @@ középfokú iskolai tanulmányokat kell folytatnia.
 [^15]: A 10. § (1a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (2) bekezdése iktatta be.
 [^16]: A 10. § (2a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (3) bekezdése iktatta be, szövege a 26/2025. (VII. 17.) BM rendelet 4. § c) pontja szerint módosított szöveg.
 [^17]: A 10. § (3) bekezdése a 26/2025. (VII. 17.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: A 10. § (3a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (4) bekezdése iktatta be, szövege a 26/2025. (VII. 17.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 10. § (3a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (4) bekezdése iktatta be, szövege a 26/2025. (VII. 17.) BM rendelet 3. §-ával megállapított szöveg.
