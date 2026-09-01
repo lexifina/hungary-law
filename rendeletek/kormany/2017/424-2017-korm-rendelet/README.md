@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-424-20-
 | 2024-12-01 | 2017-424-20-22.11 | 53/2024. (III. 4.) Korm. rendelet |
 | 2025-03-01 | 2017-424-20-22.12 | 427/2024. (XII. 23.) Korm. rendelet |
 | 2025-12-02 | 2017-424-20-22.13 | 371/2025. (XI. 28.) Korm. rendelet |
+| 2026-09-01 | 2017-424-20-22.14 | 371/2025. (XI. 28.) Korm. rendelet |

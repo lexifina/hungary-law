@@ -12,13 +12,13 @@
 
 (7) Ahol az EKR az ajánlatkérő által létrehozandó dokumentumra elektronikus űrlapot biztosít, az ajánlatkérő ezen dokumentumokat az elektronikus űrlap alkalmazásával köteles létrehozni.
 
-(8)[^30] A (7) bekezdés alkalmazásában az EKR által biztosított elektronikus űrlapok
+(8)[^31] A (7) bekezdés alkalmazásában az EKR által biztosított elektronikus űrlapok
 
 a) nem jogszabályi változásból eredő, technikai módosítása esetén az ajánlatkérők jogosultak az eljárás megindítása és annak lefolytatása során azon elektronikus űrlapok alkalmazására, amelyek az eljárás előkészítése során rendelkezésre álltak; vagy
 
 b) jogszabályi változásból eredő módosítása esetén az ajánlatkérő köteles – a jogszabályok által meghatározott átmeneti rendelkezések és hatálybalépésre vonatkozó szabályok figyelembevételével – az előkészítés során rendelkezésre álló űrlapok helyett, a jogszabályi változásokra figyelemmel módosított elektronikus űrlapok alkalmazásával megindítani az eljárást.
 
-(9)[^31] Az ajánlattevőnek vagy részvételre jelentkezőnek az ajánlatát vagy részvételi jelentkezését az EKR azok benyújtására szolgáló funkciója alkalmazásával kell ajánlatként vagy részvételi jelentkezésként benyújtania. Az egyéb módon benyújtott dokumentum nem minősül ajánlatnak vagy részvételi jelentkezésnek.
+(9)[^32] Az ajánlattevőnek vagy részvételre jelentkezőnek az ajánlatát vagy részvételi jelentkezését az EKR azok benyújtására szolgáló funkciója alkalmazásával kell ajánlatként vagy részvételi jelentkezésként benyújtania. Az egyéb módon benyújtott dokumentum nem minősül ajánlatnak vagy részvételi jelentkezésnek.
 
-[^30]: A 11. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^31]: A 11. § (9) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^31]: A 11. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^32]: A 11. § (9) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (2) bekezdése iktatta be.
