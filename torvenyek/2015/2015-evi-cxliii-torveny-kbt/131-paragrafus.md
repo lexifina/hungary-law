@@ -1,6 +1,6 @@
 ## A szerződés megkötése
 
-131. § (1) Eredményes közbeszerzési eljárás alapján a szerződést a nyertes ajánlattevővel – közös ajánlattétel esetén a nyertes ajánlattevőkkel – kell írásban megkötni a közbeszerzési eljárásban közölt végleges feltételek, szerződéstervezet és ajánlat tartalmának megfelelően.
+131. § (1) Eredményes közbeszerzési eljárás alapján a szerződést a nyertes ajánlattevővel – közös ajánlattétel esetén a nyertes ajánlattevőkkel – kell írásban megkötni a közbeszerzési eljárásban közölt végleges feltételek, szerződéstervezet és ajánlat tartalmának megfelelően. Az eredményes közbeszerzési eljárás a szerződés megkötésével – az egyes részek tekintetében az adott részre vonatkozó szerződés megkötésével – zárul le.
 
 (2) A szerződésnek tartalmaznia kell – az eljárás során alkalmazott értékelési szempontra tekintettel – a nyertes ajánlat azon elemeit, amelyek értékelésre kerültek.
 

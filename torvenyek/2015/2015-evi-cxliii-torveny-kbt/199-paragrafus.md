@@ -1,3 +1,0 @@
-## Módosuló rendelkezések
-
-### 199. §

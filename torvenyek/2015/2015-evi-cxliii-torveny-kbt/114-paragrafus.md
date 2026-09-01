@@ -36,4 +36,4 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (14) A 3. melléklet szerinti szolgáltatások esetén a 76. § (9) bekezdésében foglalt adatok az eljárást megindító felhívás helyett a közbeszerzési dokumentumokban is megadhatóak.
 
-(15) Az ajánlatkérő – a 3. melléklet szerinti szolgáltatások uniós értékhatárt elérő értékű beszerzése kivételével – az ajánlatok bírálatának lezárásaként az ajánlatok elbírálásáról egy összegezést készít abban az esetben is, ha az eljárásban lehetővé tette a részekre történő ajánlattételt.
+(15)
