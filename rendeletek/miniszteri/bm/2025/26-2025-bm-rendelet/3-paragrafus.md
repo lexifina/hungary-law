@@ -1,3 +1,9 @@
-3. §[^3]
+3. § A Rendelet1 10. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 8. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(3a) Ha a tanoda rendszeres igénybe vevőinek száma
+
+a) húsz és huszonnégy fő között van, a tanodát rendszeresen igénybe vevők közül legalább négy főnek,
+
+b) több, mint huszonnégy fő, a tanodát rendszeresen igénybe vevők közül legalább hat főnek
+
+középfokú iskolai tanulmányokat kell folytatnia.”
