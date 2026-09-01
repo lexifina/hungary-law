@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-5
 | 2015-11-25 | 2014-26-20-5H.5 | 7/2015. (II. 2.) EMMI rendelet |
 | 2016-01-25 | 2014-26-20-5H.6 | 3/2016. (I. 22.) EMMI rendelet |
 | 2020-12-27 | 2014-26-20-5H.7 | 47/2020. (XII. 22.) EMMI rendelet |
+| 2026-09-01 | 2014-26-20-5H.8 | 4/2026. (VIII. 31.) EÜM rendelet |

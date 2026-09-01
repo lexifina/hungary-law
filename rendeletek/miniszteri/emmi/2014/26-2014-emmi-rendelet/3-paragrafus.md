@@ -1,5 +1,3 @@
-## végzi a védőnő és a háziorvos együttműködésével.
-
 ## 2. A szülésznő közreműködése
 
 3. § (1) Szülésznő kizárólag szülész-nőgyógyász szakorvos által megállapított alacsony rizikójú várandósság esetén, a következő feltételek egyidejű teljesülése esetén végezhet várandósgondozást:

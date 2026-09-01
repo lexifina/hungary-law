@@ -6,6 +6,6 @@ b) a védőnő az 5. § (1) bekezdésében foglalt gondozásba vételen kívül 
 
 c) a szülész-nőgyógyász szakorvos vagy a szülésznő trimeszterenként legalább egy alkalommal
 
-## gondozásban részesítse.
+gondozásban részesítse.
 
 (2) Ha a várandós állapota alapján szakmailag indokolt, a várandóst az (1) bekezdésben foglalt előírásnál nagyobb gyakorisággal kell gondozásban részesíteni.

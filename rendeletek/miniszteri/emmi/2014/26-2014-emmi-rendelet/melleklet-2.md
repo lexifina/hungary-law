@@ -1,3 +1,5 @@
+## 6X04221.pdf
+
 2. melléklet a 26/2014. (IV. 8.) EMMI rendelethez
 
 1. A várandósgondozás keretében a védőnők által önállóan, a vonatkozó szakmai irányelv alapján végezhető vizsgálatok:

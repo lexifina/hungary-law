@@ -1,4 +1,4 @@
-## 6. § A háziorvos a gondozásba vételt követően
+6. § A háziorvos a gondozásba vételt követően
 
 a) kiemelt figyelmet fordít a várandós anamnézisére, ami alapján a feladatkörébe tartozó, indokolt vizsgálatokat elvégzi,
 

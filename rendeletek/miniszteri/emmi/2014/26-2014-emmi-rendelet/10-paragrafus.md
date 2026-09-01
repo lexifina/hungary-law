@@ -1,4 +1,4 @@
-## 10. § A felelős személy a 4. § (2)–(4) bekezdésében foglaltakon kívül:
+10. § A felelős személy a 4. § (2)–(4) bekezdésében foglaltakon kívül:
 
 a) tájékoztatja a várandóst a szakmai irányelvben szereplő egyéb, térítés ellenében igénybe vehető vizsgálatok lehetőségéről,
 
