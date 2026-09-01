@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2024-01-01 | 2008-191-20-22.49 | 419/2015. (XII. 23.) Korm. rendelet |
 | 2024-12-31 | 2008-191-20-22.51 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2025-01-01 | 2008-191-20-22.50 | 455/2024. (XII. 30.) Korm. rendelet |
+| 2026-09-01 | 2008-191-20-22.52 | 455/2024. (XII. 30.) Korm. rendelet |
