@@ -1,4 +1,4 @@
-3. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^99]
+3. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^105]
 
 ## Földi, belvízi és légi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok rádióspektrum-lekötési díjai
 
@@ -52,4 +52,4 @@
 
 3.3. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-i közül a legnagyobbat kell figyelembe venni a rádióspektrum-lekötési díj megállapításához.
 
-[^99]: A 3. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § c) pontjával megállapított szöveg.
+[^105]: A 3. számú melléklet a 12/2020. (XII. 11.) NMHH rendelet 12. § c) pontjával megállapított szöveg.

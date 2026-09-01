@@ -1,29 +1,29 @@
-## Rádióspektrumdíj megfizetése[^81]
+## Rádióspektrumdíj megfizetése[^87]
 
-20/A. §[^82] (1)[^83] A rádióspektrum-lekötésért és -használatért a díjfizetésre kötelezett a hatóság határozatával megállapított rádióspektrumdíjat a hatóság Magyar Államkincstárnál vezetett 10032000-00300939-00000017 számú pénzforgalmi számlájára köteles megfizetni.
+20/A. §[^88] (1)[^89] A rádióspektrum-lekötésért és -használatért a díjfizetésre kötelezett a hatóság határozatával megállapított rádióspektrumdíjat a hatóság Magyar Államkincstárnál vezetett 10032000-00300939-00000017 számú pénzforgalmi számlájára köteles megfizetni.
 
-(2)[^84] A rádióspektrumdíjat az azt megállapító határozat véglegessé válását vagy a hatósági szerződés hatálybalépését követően megküldött számla alapján, a számlán feltüntetett fizetési határidő leteltéig kell megfizetni.
+(2)[^90] A rádióspektrumdíjat az azt megállapító határozat véglegessé válását vagy a hatósági szerződés hatálybalépését követően megküldött számla alapján, a számlán feltüntetett fizetési határidő leteltéig kell megfizetni.
 
-(3)[^85] Rendszeres díjfizetési kötelezettség esetében – a (4) és a (4a) bekezdésben foglalt kivétellel – havonta történik a számlázás.
+(3)[^91] Rendszeres díjfizetési kötelezettség esetében – a (4) és a (4a) bekezdésben foglalt kivétellel – havonta történik a számlázás.
 
-(4)[^86] Ha a rádiószolgálatonként havonta fizetendő díj összege a nettó 50 000 Ft-ot nem éri el, a rádióspektrumdíjról számlát negyedévenként, legkésőbb a tárgynegyedév utolsó napjáig kell kiállítani. A negyedéves rádióspektrumdíjat az engedély érvényességi idejének első és utolsó negyedévében, valamint az engedély módosításakor, negyedévnél rövidebb számlázási időszak esetén időarányosan kell megfizetni.
+(4)[^92] Ha a rádiószolgálatonként havonta fizetendő díj összege a nettó 50 000 Ft-ot nem éri el, a rádióspektrumdíjról számlát negyedévenként, legkésőbb a tárgynegyedév utolsó napjáig kell kiállítani. A negyedéves rádióspektrumdíjat az engedély érvényességi idejének első és utolsó negyedévében, valamint az engedély módosításakor, negyedévnél rövidebb számlázási időszak esetén időarányosan kell megfizetni.
 
-(4a)[^87]
+(4a)[^93]
 
-(5)[^88] Rádióengedély módosítása esetén a módosított díjfizetési kötelezettség a rádióengedély módosításában meghatározott időponttól, de legkésőbb a rádióengedély módosításának véglegessé válását követő hónap első napjától terheli a díjfizetésre kötelezettet.
+(5)[^94] Rádióengedély módosítása esetén a módosított díjfizetési kötelezettség a rádióengedély módosításában meghatározott időponttól, de legkésőbb a rádióengedély módosításának véglegessé válását követő hónap első napjától terheli a díjfizetésre kötelezettet.
 
-(6)[^89] A díjfizetési kötelezettség szempontjából minden megkezdett hónap teljes hónapnak számít. A díjfizetésre kötelezettnek minden olyan hónapra a teljes havi díjat meg kell fizetnie, amelyben a jogosított
+(6)[^95] A díjfizetési kötelezettség szempontjából minden megkezdett hónap teljes hónapnak számít. A díjfizetésre kötelezettnek minden olyan hónapra a teljes havi díjat meg kell fizetnie, amelyben a jogosított
 
 a) rádióspektrum-használati jogosultsága miatt sávdíjfizetési kötelezettség keletkezett vagy fennállt, vagy
 
 b) rádióspektrum-használati joga keletkezett vagy fennállt.
 
-[^81]: A 20/A. §-t megelőző alcímet a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be, szövege a 12/2020. (XII. 11.) NMHH rendelet 13. § 20. pontja szerint módosított szöveg.
-[^82]: A 20/A. §-t a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be.
-[^83]: A 20/A. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont a) alpontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
-[^84]: A 20/A. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (1) bekezdésével megállapított, a 13/2017. (XII. 29.) NMHH rendelet 1. § b) pontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
-[^85]: A 20/A. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont b) alpontja szerint módosított szöveg.
-[^86]: A 20/A. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (2) bekezdésével megállapított, a 2/2018. (VI. 21.) NMHH rendelet 9. §-a, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
-[^87]: A 20/A. § (4a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2/2018. (VI. 21.) NMHH rendelet 10. §-a.
-[^88]: A 20/A. § (5) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont c) alpontja, a 13/2017. (XII. 29.) NMHH rendelet 1. § c) pontja szerint módosított szöveg.
-[^89]: A 20/A. § (6) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 11. §-ával megállapított szöveg.
+[^87]: A 20/A. §-t megelőző alcímet a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be, szövege a 12/2020. (XII. 11.) NMHH rendelet 13. § 20. pontja szerint módosított szöveg.
+[^88]: A 20/A. §-t a 8/2011. (XI. 3.) MNHH rendelet 1. § (7) bekezdése iktatta be.
+[^89]: A 20/A. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont a) alpontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
+[^90]: A 20/A. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (1) bekezdésével megállapított, a 13/2017. (XII. 29.) NMHH rendelet 1. § b) pontja, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
+[^91]: A 20/A. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont b) alpontja szerint módosított szöveg.
+[^92]: A 20/A. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (2) bekezdésével megállapított, a 2/2018. (VI. 21.) NMHH rendelet 9. §-a, a 12/2020. (XII. 11.) NMHH rendelet 13. § 21. pontja szerint módosított szöveg.
+[^93]: A 20/A. § (4a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2/2018. (VI. 21.) NMHH rendelet 10. §-a.
+[^94]: A 20/A. § (5) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont c) alpontja, a 13/2017. (XII. 29.) NMHH rendelet 1. § c) pontja szerint módosított szöveg.
+[^95]: A 20/A. § (6) bekezdése a 12/2020. (XII. 11.) NMHH rendelet 11. §-ával megállapított szöveg.

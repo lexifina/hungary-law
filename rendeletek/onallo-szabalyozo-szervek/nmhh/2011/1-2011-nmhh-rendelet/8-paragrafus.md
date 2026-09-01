@@ -14,6 +14,9 @@
 
 (6) Ha az eljáró hatóság engedélye olyan területre vonatkozik, amely 4000 km2-nél kisebb, és részben vagy egészben Budapest környezetében van, – a kizárólag mozgóállomásokat tartalmazó hálózatok kivételével – a rádióspektrum-lekötés és -használat díjának mértéke a 3. számú melléklet 1. pontjában foglalt táblázat, illetve a 4. számú melléklet 1. és 2. pontjában foglalt táblázatok alapján megállapított díj kétszerese.
 
+(7)[^39] A vezetéknélküli szélessávú (a továbbiakban: WBB) helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.
+
 [^36]: A 8. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
 [^37]: A 8. § a 12/2020. (XII. 11.) NMHH rendelet 6. §-ával megállapított szöveg.
 [^38]: A 8. § (2) bekezdése a 7/2026. (V. 26.) NMHH rendelet 10. § b) pontja szerint módosított szöveg.
+[^39]: A 8. § (7) bekezdését a 7/2026. (V. 26.) NMHH rendelet 3. §-a iktatta be.
