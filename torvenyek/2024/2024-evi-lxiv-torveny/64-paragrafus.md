@@ -6,8 +6,8 @@ b)
 
 c)
 
-d)
+d) 114. § (15) bekezdése,
 
-e)
+e) 127. § (1) bekezdésében az „az uniós értékhatárt elérő értékű koncessziónál” szövegrész,
 
 f)
