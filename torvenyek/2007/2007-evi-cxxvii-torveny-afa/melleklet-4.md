@@ -1,6 +1,6 @@
 ## A 82. § (4) bekezdésének alkalmazása alá tartozó termékek
 
-## | Sorszám | Megnevezés | vtsz. | 1. | Napilap (hetenként legalább négyszer megjelenő kiadvány) | 4902-ből
+## | Sorszám | Megnevezés | vtsz. | 1. | Napilap (hetenként legalább négyszer megjelenő kiadvány) | 4902-ből | 2. | Kizárólag orvosi rendelvényhez kötött gyógyszerek | | 3. | Humán gyógyászati célú magisztrális készítmények |
 
 4. számú melléklet a 2007. évi CXXVII. törvényhez
 

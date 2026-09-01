@@ -22,9 +22,7 @@ vtsz.
 
 |
 
-Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény hatálya alá tartozó olyan humán gyógyszerek, amelyeket külön jogszabályban meghatározott hatóság forgalomba hozatalra engedélyezett, valamint a nem kereskedelmi jellegű áruforgalomban az erre jogosult hatóság engedélyével importált gyógyszerek;
-
-Humán gyógyászati célú magisztrális készítmények.
+Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény hatálya alá tartozó olyan humán gyógyszerek, amelyeket külön jogszabályban meghatározott hatóság forgalomba hozatalra engedélyezett, valamint a nem kereskedelmi jellegű áruforgalomban az erre jogosult hatóság engedélyével importált gyógyszerek (kivéve a 3/B. számú melléklet 2. sora alá tartozó termékeket)
 
 |
 
@@ -80,11 +78,7 @@ Az arra feljogosított hatóság által engedélyezett humán célra felhasznál
 
 |
 
-Orvosi radioaktív izotópok
-
 |
-
-2844 40 20 00-ból
 
 |
 
@@ -112,11 +106,7 @@ Külön jogszabályban meghatározott speciális gyógyászati célra szánt tá
 
 |
 
-Egészségügyi oxigén (max. 10, ill. 20 liter űrtartalmú, 150, ill. 200 bar nyomású palackban kiszerelve vagy cseppfolyós formában, kizárólag gyógyszerkönyvi minőségű termék)
-
 |
-
-2804 40-ből
 
 |
 
