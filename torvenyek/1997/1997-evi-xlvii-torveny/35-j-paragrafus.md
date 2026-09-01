@@ -9,3 +9,7 @@
 (4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa, háziorvosa, vagy az állami vérellátó szolgálat rögzítse.
 
 (5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának helyesbítését – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
+
+(6) Titkos örökbefogadás esetén a gyermek kezelőorvosa – a miniszter rendeletében meghatározott rendben – gondoskodik a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 135/E. § (1) bekezdése szerinti anonimizált dokumentumban foglalt adatoknak az EESZT-be történő feltöltéséről. A kezelőorvos a feltöltés idejéig kezeli a gyermek korábbi és jelenlegi TAJ számát, a megküldött dokumentumban szereplő egészségügyi adatokat és a gyermek korábbi TAJ számához tartozó ellátási események adatait.
+
+(7) A (6) bekezdés szerinti orvost a titkos örökbefogadás tekintetében titoktartási kötelezettség terheli.

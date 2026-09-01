@@ -58,6 +58,8 @@ zs) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvé
 
 rendeletben állapítsa meg.
 
+(2a) Felhatalmazást kap a miniszter, hogy a 35/J. § (6) bekezdése szerinti adatfeltöltés rendjét rendeletben határozza meg.
+
 (3) Felhatalmazást kap a Kormány, hogy
 
 a) a 30. § (4) bekezdés b) pontja szerinti adatkezelőt,

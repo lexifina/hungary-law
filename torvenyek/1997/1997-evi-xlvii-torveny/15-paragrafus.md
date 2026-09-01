@@ -28,7 +28,9 @@ személyazonosításra alkalmatlan módon egészségügyi adatokat szolgáltat a
 
 (4) A tüdőgondozó intézetek a tuberkulózis, illetve a bőr- és nemibeteg ellátás intézményei az 1. számú mellékletben szereplő nemi betegségek előfordulása esetén – további személyek veszélyeztetésére tekintettel – a 4. § (1) bekezdése szerinti célból egymás között továbbíthatják az érintett kontaktusaira vonatkozó személyazonosító adatok közül a családi és utónevet, a leánykori nevet, valamint a lakó- és tartózkodási helyet.
 
-(5)
+(5) A várandósgondozást végző orvos, szülésznő, védőnő és a várandóst ellátó más kezelőorvos az 1. számú melléklet A) pontjában foglalt táblázat 68. és 69. sorában szereplő fertőzésre vonatkozó adatokat – az EESZT útján is – megismerheti, függetlenül attól, hogy mely egészségügyi szolgáltató végezte a szűrést.
+
+(5a) Az 1. számú melléklet A) pontjában foglalt táblázat 68. és 69. sorában szereplő fertőzésre vonatkozó adatokat a születendő gyermek élete és testi épsége védelme érdekében a várandósgondozást végző orvos, szülésznő, védőnő és a várandóst ellátó más kezelőorvos számára az EESZT működtetője hozzáférhetővé teszi, abban az esetben is, ha azok az érintett 35/H. § (1) bekezdése szerinti önrendelkezési nyilatkozatában foglalt korlátozás alá esnek. Az érintettet az adatok megismerésének tényéről tájékoztatni szükséges.
 
 (6) Amennyiben az érintett annak megállapítása érdekében, hogy HIV vírusával fertőződött-e – személyazonosságának előzetes felfedése nélkül – szűrővizsgálaton kíván részt venni, személyazonosító adatait a betegellátó részére nem köteles átadni.
 
