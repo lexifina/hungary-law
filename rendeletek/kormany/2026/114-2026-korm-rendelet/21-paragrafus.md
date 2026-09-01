@@ -1,3 +1,3 @@
-21. § A 373/2021. (VI. 30.) Korm. rendelet 30. §-a a következő 3. ponttal egészül ki:
+21. §[^6]
 
-(Ez a rendelet)
+[^6]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

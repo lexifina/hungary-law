@@ -1,3 +1,3 @@
-24. § A 326/2024. (XI. 14.) Korm. rendelet 9. § (1) bekezdése a következő g) ponttal egészül ki:
+24. §[^9]
 
-(E rendelet)
+[^9]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
