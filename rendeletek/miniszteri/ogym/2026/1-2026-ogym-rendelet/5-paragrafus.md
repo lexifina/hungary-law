@@ -1,0 +1,1 @@
+5. § A 2026/2027. tanévben a gimnázium, valamint a szakgimnázium 9–11. évfolyamán a nevelő-oktató munka 2027. május 3–7. között – az igazgató által meghatározott módon – tantermen kívüli, digitális munkarendben szervezhető meg.
