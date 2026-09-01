@@ -1,8 +1,15 @@
-18. § (1)[^113] A Hepatitis B vírussal és a syphilis kórokozójával fertőzött anyáról gyermekre történő fertőzés terjedésének megelőzése érdekében valamennyi várandós nőnél el kell végezni a kórokozó-hordozás felderítésére irányuló szűrővizsgálatot a járványügyi feladatok elvégzésére kijelölt területileg illetékes mikrobiológiai laboratóriumban.
+18. §[^113] (1) A hepatitis B vírussal és a szifilisz kórokozójával fertőzött anyáról gyermekre történő fertőzés terjedésének megelőzése érdekében valamennyi várandós nőnél el kell végezni a kórokozó-hordozás felderítésére irányuló szűrővizsgálatot a járványügyi feladatok elvégzésére kijelölt területileg illetékes mikrobiológiai laboratóriumban.
 
-(2) A vizsgálatot a terhesgondozást végző orvos, vagy ha az érintett személy a terhesgondozáson nem vett részt, a szülést levezető orvos kezdeményezi.
+(2) Az (1) bekezdés szerinti szűrővizsgálatokat a várandósgondozást végző orvos a várandósgondozásról szóló miniszteri rendeletben meghatározottak szerint elvégezteti.
 
-(3)[^114]
+(3) Ha a várandós
 
-[^113]: A 18. § (1) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 12. §-ával megállapított szöveg.
-[^114]: A 18. § (3) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 26. § d) pontja hatályon kívül helyezte.
+a) a várandósgondozáson nem vett részt, vagy
+
+b) az országos tisztifőorvos által kiadott, (4) bekezdés szerinti módszertani útmutató alapján szifiliszfertőzésre magas kockázatú,
+
+a várandós szűrésére a szülést levezető orvos szifiliszgyorstesztet is végez, és ennek eredményéről haladéktalanul tájékoztatja az újszülött-gyógyászt, valamint gondoskodik a fertőzött nő megfelelő kezeléséről.
+
+(4) A szifilisz kórokozóval fertőzött anyáról gyermekre történő fertőzés megelőzése érdekében szükséges beavatkozások és a monitorozás részletes szakmai szabályairól az országos tisztifőorvos módszertani útmutatót ad ki.
+
+[^113]: A 18. § a 4/2026. (VIII. 31.) EÜM rendelet 1. §-ával megállapított szöveg.

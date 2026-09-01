@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^217]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^216]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6730,14 +6730,4 @@ A megerősített eset laboratóriumi feltétele
 
 - legalább két különböző klinikai minta (pl. nasopharingeális tamponminta és széklet),
 
-- ugyanazon fajta klinikai minta, melyet a betegség folyamán legalább két vagy több alkalommal vettek
-
-(pl. egymás utáni nasopharingeális mintavétel),
-
-- két különböző vizsgálat, vagy megismételt RT-PCR teszt, minden vizsgálat alkalmával az eredeti klinikai mintából származó új RNS-mintát használva,
-
-- SARS koronavírussal szembeni specifikus ellenanyagok kimutatása az alábbi két módszer valamelyikével:
-
-- szerokonverzió akut vagy lábadozó szakaszban vett vérsavóban, párhuzamosan vizsgálva ELISA- vagy
-
-[^217]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^216]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.

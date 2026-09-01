@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2024-03-01 | 1998-18-20-3D.50 | 13/2008. (IV. 8.) EüM rendelet |
 | 2024-05-01 | 1998-18-20-3D.49 | 102/2023. (XII. 29.) BM rendelet |
 | 2025-07-17 | 1998-18-20-3D.51 | 25/2025. (VII. 16.) BM rendelet |
+| 2026-09-01 | 1998-18-20-3D.52 | 4/2026. (VIII. 31.) EÜM rendelet |
