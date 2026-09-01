@@ -1,3 +1,3 @@
-49. §[^300]
+49. §[^301]
 
-[^300]: A 49. §-t a 403/2023. (VIII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^301]: A 49. §-t a 403/2023. (VIII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.

@@ -69,3 +69,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2026-01-01 | 2012-229-20-22.59 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-02-01 | 2012-229-20-22.62 | 454/2025. (XII. 29.) Korm. rendelet |
 | 2026-03-13 | 2012-229-20-22.64 | 394/2025. (XII. 11.) Korm. rendelet |
+| 2026-09-01 | 2012-229-20-22.63 | 36/2026. (III. 5.) Korm. rendelet |

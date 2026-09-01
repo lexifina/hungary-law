@@ -12,7 +12,7 @@ c) az adott tanévet megelőző tanévben 1000 példánynál kisebb példánysz�
 
 d) a digitális tananyagokra vonatkozó árkorlátot azzal a kivétellel, hogy a digitálisan rögzített könyv formátumú digitális tananyagra vonatkozó árkorlát a köznevelési közismereti tankönyv egyszínnyomású, adott terjedelemkategória árának 70%-a.
 
-(4)[^292] A művészeti, pedagógiai, közművelődési képzést folytató nevelési-oktatási intézményben, továbbá a szakiskolában és a készségfejlesztő iskolában alkalmazott tankönyv legmagasabb iskolai terjesztési árára a közismereti tankönyvekre vonatkozó árkorlátot kell alkalmazni.
+(4)[^293] A művészeti, pedagógiai, közművelődési képzést folytató nevelési-oktatási intézményben, továbbá a szakiskolában és a készségfejlesztő iskolában alkalmazott tankönyv legmagasabb iskolai terjesztési árára a közismereti tankönyvekre vonatkozó árkorlátot kell alkalmazni.
 
 (5) A nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvek tekintetében a (3) bekezdésben nem szabályozott esetekben a köznevelési közismereti tankönyvekre meghatározott árkorlát az irányadó.
 
@@ -22,7 +22,7 @@ a) amelynek tankönyvvé nyilvánítási engedélyének időbeli hatálya legal�
 
 b) amelynek kérelmezője vállalja, hogy a tankönyv megfelel az árkorlátnak, függetlenül attól, hogy a tankönyv többszörözése és terjesztése üzletszerű vagy sem, azzal, hogy e rendelkezés alkalmazásában a tankönyv többszörözése és terjesztése akkor üzletszerű, ha annak célja a nyereség elérése vagy a vagyonszerzés;
 
-c)[^293] amelynek kérelmezője vállalja a tankönyv, valamint az elektronikus úton rögzített tananyag (a továbbiakban: digitális tananyag) elektronikus úton történő átadását a közreműködő részére, annak megkeresésére.
+c)[^294] amelynek kérelmezője vállalja a tankönyv, valamint az elektronikus úton rögzített tananyag (a továbbiakban: digitális tananyag) elektronikus úton történő átadását a közreműködő részére, annak megkeresésére.
 
 (7) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről a Hivatal dönt. A Hivatal évente összeállítja a tankönyvek adott tanévre vonatkozó tankönyvjegyzékét, és minden év március 30-áig megküldi a miniszter részére. A tankönyvjegyzéket a Hivatal közzéteszi a honlapján.
 
@@ -42,5 +42,5 @@ a) a tankönyvjegyzékre történő felvétel iránti kérelmet el kellett volna
 
 b) a könyvkiadást folytató jogi személy a (6) bekezdésben vállalt kötelezettségeit megszegte.
 
-[^292]: A 44/W. § (4) bekezdése a 620/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^293]: A 44/W. § (6) bekezdés c) pontja a 454/2025. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^293]: A 44/W. § (4) bekezdése a 620/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^294]: A 44/W. § (6) bekezdés c) pontja a 454/2025. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
