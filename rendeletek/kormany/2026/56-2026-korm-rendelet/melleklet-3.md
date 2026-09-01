@@ -1,3 +1,3 @@
-3. melléklet az 56/2026. (III. 12.) Korm. rendelethez[^22]
+3. melléklet az 56/2026. (III. 12.) Korm. rendelethez[^18]
 
-[^22]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
