@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-258-20-
 | 2013-05-22 | 2010-258-20-22.4 | 145/2013. (V. 14.) Korm. rendelet |
 | 2023-08-17 | 2010-258-20-22.5 | 388/2023. (VIII. 14.) Korm. rendelet |
 | 2025-12-17 | 2010-258-20-22.6 | 145/2013. (V. 14.) Korm. rendelet |
+| 2026-09-01 | 2010-258-20-22.7 | 137/2026. (VIII. 31.) Korm. rendelet |

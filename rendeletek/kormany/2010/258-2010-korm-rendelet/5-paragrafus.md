@@ -1,5 +1,5 @@
 ## A titkárság
 
-5. §[^16]
+5. §[^19]
 
-[^16]: Az 5–6. §-t a 145/2013. (V. 14.) Korm. rendelet 1. § (7) bekezdés e) pontja hatályon kívül helyezte.
+[^19]: Az 5–6. §-t a 145/2013. (V. 14.) Korm. rendelet 1. § (7) bekezdés e) pontja hatályon kívül helyezte.
