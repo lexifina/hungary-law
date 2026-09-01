@@ -24,7 +24,7 @@ a) a felnőttképzési tevékenységhez szükséges bejelentés és engedély r�
 
 b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait, a nyilvántartás közhiteles adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
 
-c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
+c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére, valamint a képzési és vizsgasikerességi mutatókra vonatkozó részletes szabályokat,
 
 d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
 

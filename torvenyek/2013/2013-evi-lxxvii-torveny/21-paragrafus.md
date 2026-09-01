@@ -1,6 +1,6 @@
 ## 11. A felnőttképző adatkezelése
 
-21. § (1) A felnőttképző a képzés lebonyolítása, valamint a bejelentési és adatszolgáltatási kötelezettség hatóság általi teljesítése esetén a hatóság az 1. § (2) és (2a) bekezdése szerinti kötelezettség teljesítése érdekében kezeli
+21. § (1) A felnőttképző a képzés lebonyolítása és a képzési és vizsgasikerességi mutatók közzététele, valamint a bejelentési és adatszolgáltatási kötelezettség hatóság általi teljesítése esetén a hatóság az 1. § (2) és (2a) bekezdése szerinti kötelezettség teljesítése érdekében kezeli
 
 a) a képzésben részt vevő személy
 
@@ -21,6 +21,8 @@ bc) a képzés során történő értékelésével és minősítésével,
 bd) a képzéssel összefüggő fizetési kötelezettségeivel és az igénybe vett képzési hitellel
 
 kapcsolatosak.
+
+c) a képzési és vizsgasikerességi mutatók közzététele céljából a 20/A. § (4) bekezdése szerinti adatokat.
 
 (2) Az (1) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók, továbbá a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
