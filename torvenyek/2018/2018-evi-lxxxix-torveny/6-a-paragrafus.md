@@ -22,7 +22,7 @@ b) a nyugdíjbiztosítási igazgatási szerv a társadalombiztosítási nyugell�
 
 c) a központi családtámogatási szerv a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. § (2) bekezdés c) pontjában meghatározott adatokat,
 
-d) az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 5., 9. és 15. és 18. pontjában, valamint 1. melléklet 1. pont 1.4. alpontjában és 7. pontjában meghatározott adatokat,
+d) az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 50. § (2) bekezdés 1., 5., 9. és 15. és 18. pontjában, valamint 1. melléklet 1. pont 1.4. alpontjában és 7. pontjában meghatározott adatokat,
 
 e) az egyéni vállalkozók nyilvántartását vezető szerv az egyéni vállalkozóról, valamint az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdés c), e) és i) pontjában meghatározott adatokat
 
