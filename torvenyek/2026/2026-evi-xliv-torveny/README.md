@@ -1,0 +1,7 @@
+# 2026. évi XLIV. törvény egyes egészségügyi adatkezelést érintő törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2026-44-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2026-09-01 | 2026. évi XLIV. törvény | 2026-44-00-00.0 (közlönyállapot) |
