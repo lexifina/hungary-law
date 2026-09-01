@@ -1,4 +1,4 @@
-3/A. §[^25] (1) A 2. mellékletben foglalt táblázat 23. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:23 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+3/A. §[^27] (1) A 2. mellékletben foglalt táblázat 23. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:23 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -30,4 +30,4 @@ k) a lakórendeltetés elhelyezése, összes hasznos alapterülete, ingatlanon b
 
 (3) A 2. mellékletben foglalt táblázat 23. sora szerinti beruházás tekintetében az építési engedélyezési eljárás során a 2. mellékletben foglalt táblázat 23. sorában megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telekalakításnak az ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
 
-[^25]: A 3/A. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^27]: A 3/A. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

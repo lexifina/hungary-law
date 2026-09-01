@@ -1,4 +1,4 @@
-3/B. §[^26] (1) A 2. mellékletben foglalt táblázat 24. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:24 mezőjében megjelölt ingatlanok és az azokból telekalakítással kialakításra kerülő ingatlanok területén a beépítés és a telekalakítás egyedi szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+3/B. §[^28] (1) A 2. mellékletben foglalt táblázat 24. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:24 mezőjében megjelölt ingatlanok és az azokból telekalakítással kialakításra kerülő ingatlanok területén a beépítés és a telekalakítás egyedi szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -48,4 +48,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a be
 
 (5) A 2. mellékletben foglalt táblázat 24. sora szerinti beruházás tekintetében az építési engedélyezési eljárás során a 2. mellékletben foglalt táblázat B:24 mezőjében megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telekalakításnak az ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
 
-[^26]: A 3/B. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 3/B. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

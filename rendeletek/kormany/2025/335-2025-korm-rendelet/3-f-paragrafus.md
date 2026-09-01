@@ -1,4 +1,4 @@
-3/F. §[^30] (1) A 2. mellékletben foglalt táblázat 28. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:28 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+3/F. §[^32] (1) A 2. mellékletben foglalt táblázat 28. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:28 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -28,4 +28,4 @@ j) összesen legfeljebb 270 lakó rendeltetési egység helyezhető el.
 
 (3) A 2. mellékletben foglalt táblázat B:28 mezőjében megjelölt ingatlanokon megvalósuló, a 2. mellékletben foglalt táblázat 28. sora szerinti beruházás esetében az azzal összefüggésben létesített épületekre, építményekre vonatkozó használatbavételi engedély kiadásáig kell a közútkezelői, forgalomtechnikai nyilatkozatot, hozzájárulást megszerezni.
 
-[^30]: A 3/F. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^32]: A 3/F. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

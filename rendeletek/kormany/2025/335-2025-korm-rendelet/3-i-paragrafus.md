@@ -1,4 +1,4 @@
-3/I. §[^33] (1) A 2. mellékletben foglalt táblázat 31. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:31 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+3/I. §[^35] (1) A 2. mellékletben foglalt táblázat 31. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:31 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,4 +40,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a be
 
 17. lakáson belül WC és vizelde szerelvénnyel felszerelt helyiség korlátozás nélkül kialakítható.
 
-[^33]: A 3/I. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^35]: A 3/I. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

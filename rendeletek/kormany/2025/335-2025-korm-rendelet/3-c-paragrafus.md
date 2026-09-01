@@ -1,4 +1,4 @@
-3/C. §[^27] (1) A 2. mellékletben foglalt táblázat 25. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:25 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
+3/C. §[^29] (1) A 2. mellékletben foglalt táblázat 25. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:25 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv, településrendezési, építési, településképi követelményeket tartalmazó kormányrendelet, az OTÉK, illetve a TÉKA előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -96,4 +96,4 @@ a) a beruházással összefüggésben létesített épületekre, építményekre
 
 b) a beruházás megvalósításának, valamint az építési és használatbavételi engedély kiadásának nem feltétele a helyi településrendezési eszközben előírt közmű- és közlekedési infrastrukturális feltételek biztosítása, az infrastruktúra-fejlesztések megvalósítása.
 
-[^27]: A 3/C. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^29]: A 3/C. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

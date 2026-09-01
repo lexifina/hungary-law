@@ -1,4 +1,4 @@
-3/G. §[^31] (1) A 2. mellékletben foglalt táblázat 29. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:29 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+3/G. §[^33] (1) A 2. mellékletben foglalt táblázat 29. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:29 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,4 +40,4 @@ a) a beruházás megvalósításának, valamint az építési és használatbav�
 
 b) az azzal összefüggésben létesített épületekre, építményekre vonatkozó használatbavételi engedély kiadásáig kell a közútkezelői, forgalomtechnikai nyilatkozatot, hozzájárulást megszerezni.
 
-[^31]: A 3/G. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.
+[^33]: A 3/G. §-t a 81/2026. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

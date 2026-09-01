@@ -1,4 +1,4 @@
-2/J. §[^17] (1) A 2. mellékletben foglalt táblázat 15. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:15 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
+2/J. §[^17] (1)[^18] A 2. mellékletben foglalt táblázat 15. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:15 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(7) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -78,4 +78,30 @@ a) az azzal összefüggésben létesített épületekre, építményekre vonatko
 
 b) az azzal összefüggésben létesített épületekre, építményekre vonatkozóan a telekalakítást legkésőbb a használatbavételi engedélyezési vagy tudomásulvételi eljárás megindulásáig kell az ingatlan-nyilvántartásban átvezetni.
 
+(7)[^19] A 2. mellékletben foglalt táblázat B:15 mezőjében megjelölt ingatlanok területéből a 162119/5 helyrajzi számú és az azokból telekalakítással kialakításra kerülő ingatlanokon a 2. mellékletben foglalt táblázat 15. sora szerinti beruházások keretében megvalósuló lakó, szállás jellegű, kereskedelmi és szolgáltató, valamint nevelési, oktatási, szociális, vendéglátó, sport, egészségügyi és a szórakoztatási rendeltetésű épületek, valamint ezek kiszolgáló építményei korlátozás nélkül helyezhetők el, a következő sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a beépítés módja nem korlátozott,
+
+b) a terepszint feletti beépítés legnagyobb mértéke 80%,
+
+c) a terepszint alatti beépítés legnagyobb mértéke 90%,
+
+d) az általános szintterületi mutató megengedett legnagyobb értéke 5,5 m2/telek m2,
+
+e) a parkolási szintterületi mutató megengedett legnagyobb értéke 2,5 m2/ telek m2,
+
+f) az épületmagasság megengedett legnagyobb mértéke 45 méter,
+
+g) az épület legmagasabb pontja nem haladhatja meg a 45 métert,
+
+h) az építési hely az érintett ingatlanok teljes területe,
+
+i) a zöldfelületi arány legalább 15%,
+
+j) a kialakítható telek legkisebb szélessége 10 méter,
+
+k) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete, illetve a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhely 40%-a biztosítandó, amelyek épületen belül is kialakíthatóak.
+
 [^17]: A 2/J. §-t az 56/2026. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^18]: A 2/J. § (1) bekezdés nyitó szövegrésze az 56/2026. (III. 12.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^19]: A 2/J. § (7) bekezdését az 56/2026. (III. 12.) Korm. rendelet 6. § (2) bekezdése iktatta be.

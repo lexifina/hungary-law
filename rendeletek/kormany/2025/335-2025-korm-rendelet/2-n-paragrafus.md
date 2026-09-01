@@ -1,4 +1,4 @@
-2/N. §[^21] (1) A 2. mellékletben foglalt táblázat 19. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:19 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+2/N. §[^23] (1) A 2. mellékletben foglalt táblázat 19. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:19 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -30,4 +30,4 @@ k) az e rendeletben meghatározott szabályokon kívül a lakórendeltetés elhe
 
 l) építési hely meghatározása, építmények elhelyezése, az elhelyezéshez szükséges telkek alakítása és zöldfelület kialakítása a szabályozási terven jelölt szöveges és rajzi szabályozási elemekre tekintet nélkül megengedett.
 
-[^21]: A 2/N. §-t az 56/2026. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^23]: A 2/N. §-t az 56/2026. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-2/P. §[^23] (1) A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+2/P. §[^25] (1) A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,4 +40,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a be
 
 17. a terepcsatlakozástól mért 4 méteres magasság felett erkély és zárterkély a közhasználatú terület fölé legfeljebb 1 métert kinyúlhat, a homlokzat vízszintes hosszának legfeljebb 60%-án, azzal, hogy erkély vagy zárterkély a teljes homlokzat felületének legfeljebb 60%-án alakítható ki.
 
-[^23]: A 2/P. §-t az 56/2026. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^25]: A 2/P. §-t az 56/2026. (III. 12.) Korm. rendelet 6. § (1) bekezdése iktatta be.
