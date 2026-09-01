@@ -4,7 +4,7 @@
 
 (2) A tervpályázati eljárások szabályairól szóló 305/2011. (XII. 23.) Korm. rendelet rendelkezéseit a 2015. november 1. napját megelőzően meghirdetett tervpályázati eljárásokra alkalmazni kell.
 
-(3)[^35] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 487/2016. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése[^36] után indult tervpályázati eljárások esetében kell alkalmazni.
+(3)[^36] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 487/2016. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a 487/2016. (XII. 28.) Korm. rendelet hatálybalépése[^37] után indult tervpályázati eljárások esetében kell alkalmazni.
 
-[^35]: A 38. § (3) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (6) bekezdése iktatta be.
-[^36]: A hatálybalépés időpontja 2017. január 1.
+[^36]: A 38. § (3) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^37]: A hatálybalépés időpontja 2017. január 1.
