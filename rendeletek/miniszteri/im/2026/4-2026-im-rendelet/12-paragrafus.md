@@ -1,3 +1,3 @@
-12. §[^12]
+12. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet „Jármű” alcíme a következő 72/B. §-sal egészül ki:
 
-[^12]: A 12. § a 81. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„72/B. § A feltételes nyilatkozatot a nyomozó hatóság megváltoztathatja és visszavonhatja, amelyet rögzíteni kell a KBR-ben.”

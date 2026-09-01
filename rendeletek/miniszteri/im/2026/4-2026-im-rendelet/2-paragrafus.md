@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 10/A. § (3) bekezdése a következő j)–l) ponttal egészül ki:
 
-[^2]: A 2. § a 81. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+(A KBR a bűnjelet egyedileg, megváltoztathatatlanul azonosító egyedi bűnjelszámhoz rendelve rögzíti)
