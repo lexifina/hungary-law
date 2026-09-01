@@ -4,9 +4,9 @@
 
 a) gazdaság: minden, a gazdaság működtetését szolgáló,
 
-aa) a gazdaságátadó tulajdonában vagy használatában álló mező-, erdőgazdasági hasznosítású föld – ideértve a tanyát is – a 3. § (3) bekezdésének figyelembevételével,
+aa) a gazdaságátadó tulajdonosként használatában álló vagy a földhasználati nyilvántartásba bejegyzett földhasználóként, erdőgazdálkodói nyilvántartásba bejegyzett erdőgazdálkodóként (a továbbiakban együtt: egyéb jogcímen) használatában álló mező-, erdőgazdasági hasznosítású föld, ideértve a tanyát is, a 3. § (3) bekezdésének figyelembevételével,
 
-ab) a gazdaságátadó tulajdonában vagy használatában álló, mező- és erdőgazdasági tevékenység folytatásához szükséges egyéb ingatlanok,
+ab) a gazdaságátadó – tulajdonosi vagy egyéb jogcímen – használatában álló, mező- és erdőgazdasági tevékenység folytatásához szükséges egyéb ingatlanok,
 
 ac) a gazdaságátadó tulajdonában vagy használatában álló, mező- és erdőgazdasági tevékenység folytatásához szükséges ingó dolgok, amelyekre nézve a gazdaságátadót megilleti a termelés szervezésének, valamint – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása kivételével – a termelés eredménye felhasználásának a jogosultsága,
 
@@ -20,7 +20,7 @@ b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződ�
 
 ba) saját vagy jogelődjének tevékenységi idejével egybeszámítva legalább 10 évig saját nevében és saját kockázatára mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytatott, és ebből igazoltan árbevétele származott, valamint
 
-bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadási szerződés megkötését megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója;
+bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadási szerződés megkötését megelőzően legalább 5 éve tulajdonosi vagy egyéb jogcímen földhasználója vagy erdőgazdálkodója;
 
 c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
 
