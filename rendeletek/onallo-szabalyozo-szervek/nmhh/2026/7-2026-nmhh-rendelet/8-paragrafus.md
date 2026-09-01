@@ -1,3 +1,1 @@
-8. §[^8]
-
-[^8]: A 8. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+8. § Az R. a 19. §-t követően a következő alcímmel egészül ki:

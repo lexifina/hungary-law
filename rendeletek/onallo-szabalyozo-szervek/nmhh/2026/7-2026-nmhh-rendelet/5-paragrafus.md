@@ -1,3 +1,3 @@
-5. §[^5]
+5. § Az R. 14. §-a a következő (6) bekezdéssel egészül ki:
 
-[^5]: Az 5. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(6) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”

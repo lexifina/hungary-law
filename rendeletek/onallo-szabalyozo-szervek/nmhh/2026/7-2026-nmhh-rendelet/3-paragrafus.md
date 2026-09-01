@@ -1,3 +1,3 @@
-3. §[^3]
+3. § Az R. 8. §-a a következő (7) bekezdéssel egészül ki:
 
-[^3]: A 3. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(7) A vezetéknélküli szélessávú (a továbbiakban: WBB) helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”

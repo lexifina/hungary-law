@@ -1,3 +1,3 @@
-4. §[^4]
+4. § Az R. 9. §-a a következő (7) bekezdéssel egészül ki:
 
-[^4]: A 4. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(7) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”

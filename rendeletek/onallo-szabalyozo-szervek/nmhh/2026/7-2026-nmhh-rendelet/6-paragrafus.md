@@ -1,3 +1,3 @@
-6. §[^6]
+6. § Az R. 15. §-a a következő (10) bekezdéssel egészül ki:
 
-[^6]: A 6. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(10) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”

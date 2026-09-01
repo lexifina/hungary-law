@@ -1,3 +1,3 @@
-7. §[^7]
+7. § Az R. 16. §-a a következő (7) bekezdéssel egészül ki:
 
-[^7]: A 7. § a 11. § (2) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+„(7) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”
