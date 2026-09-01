@@ -1,4 +1,4 @@
-67/A. §[^243] (1) A lefoglalás végrehajtásához indokolt esetben szaktanácsadót kell igénybe venni.
+67/A. §[^246] (1) A lefoglalás végrehajtásához indokolt esetben szaktanácsadót kell igénybe venni.
 
 (2) Az elektronikus adat lefoglalásakor az átmásolás lehetőség szerint utólag meg nem változtatható adathordozóra történhet. Az átmásolást megelőzően a lefoglalás helyszínén ellenőrizni kell, hogy a hatóság által az átmásoláshoz használt adathordozó adatokat nem tartalmaz. Az átmásolás során biztosítani kell azt, hogy az eredeti adatok ne változzanak meg.
 
@@ -10,7 +10,7 @@
 
 (6) Ha a hatóság az adat birtokosát, illetve kezelőjét az új Be. 316. § (1) bekezdése szerint az adat megőrzésére kötelezte, a (2) bekezdést megfelelően alkalmazni kell.
 
-(7)[^244] A lefoglalt elektronikus adatot adathordozón vagy a hatóság rendelkezése alatt álló tárhelyen kell őrizni. A lefoglalt elektronikus adat külön adathordozón történő tárolása esetén a bűnjel azonosító megjelölést az adathordozón kell elhelyezni.
+(7)[^247] A lefoglalt elektronikus adatot adathordozón vagy a hatóság rendelkezése alatt álló tárhelyen kell őrizni. A lefoglalt elektronikus adat külön adathordozón történő tárolása esetén a bűnjel azonosító megjelölést az adathordozón kell elhelyezni.
 
-[^243]: A 67/A. §-t a 17/2018. (VI. 27.) IM rendelet 37. §-a iktatta be.
-[^244]: A 67/A. § (7) bekezdése a 20/2020. (XII. 30.) IM rendelet 33. §-ával megállapított szöveg.
+[^246]: A 67/A. §-t a 17/2018. (VI. 27.) IM rendelet 37. §-a iktatta be.
+[^247]: A 67/A. § (7) bekezdése a 20/2020. (XII. 30.) IM rendelet 33. §-ával megállapított szöveg.

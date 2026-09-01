@@ -1,4 +1,4 @@
-47. §[^191] (1) Az államnak az új Be. 321. § (5a) bekezdése alapján a tulajdonába került bűnjel (a továbbiakban: át nem vett bűnjel) értékesítéséről, ingyenes átadásáról vagy megsemmisítéséről a hatóság határozat hozatala nélkül is dönthet.
+47. §[^194] (1) Az államnak az új Be. 321. § (5a) bekezdése alapján a tulajdonába került bűnjel (a továbbiakban: át nem vett bűnjel) értékesítéséről, ingyenes átadásáról vagy megsemmisítéséről a hatóság határozat hozatala nélkül is dönthet.
 
 (2) Az át nem vett bűnjel értékesítését a bűnjelkezelő az 56–59. § megfelelő alkalmazásával végzi. Ha az át nem vett bűnjel egyes szervek őrizetében, illetve kezelésében van, akkor az értékesítéshez a bűnjelet nem szükséges a bűnjelkezelőnek elszállítania.
 
@@ -12,4 +12,4 @@
 
 (7) Ha az át nem vett bűnjel magyar pénz, akkor azt a hatóságnak az erre kijelölt előirányzat-felhasználási számlájára kell befizetni vagy átutalni. A befizetés vagy átutalás megtörténtét, a számlára befolyt összeget és a bevételezési adatokat a KBR-ben rögzíteni kell.
 
-[^191]: A 47. § a 4/2026. (III. 10.) IM rendelet 8. §-ával megállapított szöveg.
+[^194]: A 47. § a 4/2026. (III. 10.) IM rendelet 8. §-ával megállapított szöveg.

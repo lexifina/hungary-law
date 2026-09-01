@@ -1,4 +1,4 @@
-37. §[^171] (1) Ha a jogosult büntetés-végrehajtási intézetben, rendőrségi fogdán vagy javítóintézetben fogva van, továbbá ha előzetes kényszergyógykezelés vagy kényszergyógykezelés hatálya alatt áll (a továbbiakban együtt: fogvatartott), a bűnjelkezelő – a fogvatartást foganatosító szerv útján történő kézbesítéssel – felhívja őt arra, hogy nyilatkozzon, hogy a bűnjelet
+37. §[^174] (1) Ha a jogosult büntetés-végrehajtási intézetben, rendőrségi fogdán vagy javítóintézetben fogva van, továbbá ha előzetes kényszergyógykezelés vagy kényszergyógykezelés hatálya alatt áll (a továbbiakban együtt: fogvatartott), a bűnjelkezelő – a fogvatartást foganatosító szerv útján történő kézbesítéssel – felhívja őt arra, hogy nyilatkozzon, hogy a bűnjelet
 
 a) fogvatartást foganatosító szervnél letéti elhelyezés útján vagy
 
@@ -14,4 +14,4 @@ kívánja-e átvenni.
 
 (5) Ha a jogosult a bűnjelet a fogva tartó szervnél letéti elhelyezés útján kívánja átvenni, de a fogvatartást foganatosító szerv vezetője nem engedélyezi a bűnjel letétbe helyezését, és a jogosult az (1) bekezdés b) pontjában meghatározott személyt nem jelöl meg, a bűnjelkezelő a 46. § alapján jár el.
 
-[^171]: A 37. § a 4/2026. (III. 10.) IM rendelet 5. §-ával megállapított szöveg.
+[^174]: A 37. § a 4/2026. (III. 10.) IM rendelet 5. §-ával megállapított szöveg.

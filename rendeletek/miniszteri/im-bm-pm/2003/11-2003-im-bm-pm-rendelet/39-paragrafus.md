@@ -1,4 +1,4 @@
-39. §[^175] (1) Ha a bűnjel egyes szerv őrizetében (kezelésében) van és a hatóság elrendelte a jogosult részére való visszaadását, a bűnjelkezelő – ha a lefoglalás megszüntetése végrehajtásának a felfüggesztésére sor került, annak lejártát követően – a jogosult értesítésével (a bűnjel átvételére való felhívással) egyidejűleg a bűnjel őrzését ellátó szervet arra hívja fel, hogy azt a határozat alapján jelentkező jogosultnak átvételi elismervény ellenében adja át és az átvételi elismervényt a hatóságnak küldje meg.
+39. §[^178] (1) Ha a bűnjel egyes szerv őrizetében (kezelésében) van és a hatóság elrendelte a jogosult részére való visszaadását, a bűnjelkezelő – ha a lefoglalás megszüntetése végrehajtásának a felfüggesztésére sor került, annak lejártát követően – a jogosult értesítésével (a bűnjel átvételére való felhívással) egyidejűleg a bűnjel őrzését ellátó szervet arra hívja fel, hogy azt a határozat alapján jelentkező jogosultnak átvételi elismervény ellenében adja át és az átvételi elismervényt a hatóságnak küldje meg.
 
 (2) Ha a hatóság a lefoglalás megszüntetésének a végrehajtását az új Be. 321. § (6) bekezdése alapján felfüggesztette, a bűnjelkezelő rövid úton egyeztet az új Be. 111. §-a alapján tájékoztatott szervvel arról, hogy a bűnjel lefoglalására ennek a szervnek az eljárásában sor kerülhet-e.
 
@@ -8,4 +8,4 @@
 
 (5) A hatóság az átvételi elismervényt a bűnjelkezelőhöz továbbítja, aki annak alapján a bűnjel kiadását rögzíti a KBR-ben.
 
-[^175]: A 39. § a 20/2020. (XII. 30.) IM rendelet 27. §-ával megállapított szöveg.
+[^178]: A 39. § a 20/2020. (XII. 30.) IM rendelet 27. §-ával megállapított szöveg.

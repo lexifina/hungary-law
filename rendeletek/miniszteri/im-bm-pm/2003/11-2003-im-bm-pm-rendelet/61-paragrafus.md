@@ -1,3 +1,3 @@
-61. §[^225]
+61. §[^228]
 
-[^225]: A 61. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 20. pontja hatályon kívül helyezte.
+[^228]: A 61. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 20. pontja hatályon kívül helyezte.

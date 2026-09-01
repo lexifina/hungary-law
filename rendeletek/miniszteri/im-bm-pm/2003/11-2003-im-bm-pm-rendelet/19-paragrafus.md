@@ -1,6 +1,6 @@
-## A bűnjel átadása és átvétele[^106]
+## A bűnjel átadása és átvétele[^109]
 
-19. §[^107] (1) Az átadó hatóság vagy bűnjelkezelő kezdeményezi a bűnjel KBR-en keresztül történő átadását, ha
+19. §[^110] (1) Az átadó hatóság vagy bűnjelkezelő kezdeményezi a bűnjel KBR-en keresztül történő átadását, ha
 
 a) a bűnjelet az átvevő hatósághoz vagy bűnjelkezelőhöz szállítja, vagy
 
@@ -26,8 +26,8 @@ b) az átvevő hatóság vagy bűnjelkezelő jegyzőkönyvet vesz fel és tiszt�
 
 (9) Ha az eltérés mértékének vagy okának a megállapításához vagy megítéléséhez különleges szakértelem szükséges, a bűnjel átvételekor – jegyzőkönyv felvétele mellett – szakértőt (szaktanácsadót) kell kirendelni, ha ez korábban nem történt meg. Ebben az esetben a hatóság vagy a bűnjelkezelő a bűnjel minőségének (értékének, esetleges hiányosságának) a megállapításáról jegyzőkönyvet készít, amelyben a bűnjel valamennyi lényeges adatát feltünteti. A jegyzőkönyvet a szakértő (szaktanácsadó), az átadó és az átvevő hatóság vagy a bűnjelkezelő átadás-átvételkor jelen levő tagja hitelesíti. A jegyzőkönyvet az átadó és az átvevő hatóság vagy bűnjelkezelő részére is kézbesíteni kell.
 
-(10)[^108] Nem minősül átadás-átvételnek a bűnjel meghatározott eljárási cselekmény elvégzése céljából történő ideiglenes kiadása nyomozó hatóság, ügyészség, bíróság részére, különösen a bizonyítási cselekményre történő kiadás vagy a szakértői vizsgálat céljából történő kiadás. A bűnjel adataiban bekövetkezett változásokat a bűnjel meghatározott eljárási cselekmény elvégzése céljából történő ideiglenes kiadása esetén a 10/B. §-ban meghatározott személy rögzíti.
+(10)[^111] Nem minősül átadás-átvételnek a bűnjel meghatározott eljárási cselekmény elvégzése céljából történő ideiglenes kiadása nyomozó hatóság, ügyészség, bíróság részére, különösen a bizonyítási cselekményre történő kiadás vagy a szakértői vizsgálat céljából történő kiadás. A bűnjel adataiban bekövetkezett változásokat a bűnjel meghatározott eljárási cselekmény elvégzése céljából történő ideiglenes kiadása esetén a 10/B. §-ban meghatározott személy rögzíti.
 
-[^106]: A 19. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^107]: A 19. § a 20/2020. (XII. 30.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^108]: A 19. § (10) bekezdése a 4/2026. (III. 10.) IM rendelet 3. §-ával megállapított szöveg.
+[^109]: A 19. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^110]: A 19. § a 20/2020. (XII. 30.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^111]: A 19. § (10) bekezdése a 4/2026. (III. 10.) IM rendelet 3. §-ával megállapított szöveg.

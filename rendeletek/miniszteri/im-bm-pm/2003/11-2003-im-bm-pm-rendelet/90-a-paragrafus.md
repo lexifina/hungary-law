@@ -1,4 +1,4 @@
-## Helyettesíthető dolog, számlapénz, elektronikus pénz vagy fizetésre használt elektronikus adat kiadása és felosztása[^304]
+## Helyettesíthető dolog, számlapénz, elektronikus pénz vagy fizetésre használt elektronikus adat kiadása és felosztása[^308]
 
 90/A. § (1) A helyettesíthető dolog, a számlapénz, az elektronikus pénz vagy fizetésre használt elektronikus adat (e § alkalmazásában a továbbiakban együtt: helyettesíthető dolog) lefoglalásának a megszüntetésekor a hatóság elsődlegesen az új Be. 321. § (2) bekezdése alkalmazhatóságát vizsgálja. Amennyiben a helyettesíthető dolog – ideértve a helyettesíthető dolog részét is – kizárólag közvetlenül egy tulajdonostól származik, azt az új Be. 321/A. § (2) bekezdésében meghatározottak szerint kell kiadni.
 
@@ -22,4 +22,4 @@ b) amely nem a helyettesíthető dologból részesedésre jogosult vagyoni érde
 
 (4) Az új Be. 321/A. § (5) bekezdésében meghatározott felosztás során a hatóság a (2) bekezdés b) pontja szerinti vagyoni érdekelt esetében a helyettesíthető dolog felosztható részéből az adott vagyoni érdekelt részére olyan mennyiséget rendel kiadni, amely a helyettesíthető dolog felosztható mennyisége és a felosztási arányszám szorzata alapján a (2) bekezdés b) pontja szerinti adott vagyoni érdekelt részérére kiadható.
 
-[^304]: A „Helyettesíthető dolog, számlapénz, elektronikus pénz vagy fizetésre használt elektronikus adat kiadása és felosztása” alcímet (90/A. §-t) a 4/2026. (III. 10.) IM rendelet 15. §-a iktatta be.
+[^308]: A „Helyettesíthető dolog, számlapénz, elektronikus pénz vagy fizetésre használt elektronikus adat kiadása és felosztása” alcímet (90/A. §-t) a 4/2026. (III. 10.) IM rendelet 15. §-a iktatta be.
