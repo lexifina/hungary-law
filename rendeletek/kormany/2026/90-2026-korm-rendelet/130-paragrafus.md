@@ -18,9 +18,9 @@
 
 8. lakáscélú állami támogatásokért,
 
-9. nemzetközi pénzügyi kapcsolatokért,
+9.[^175]
 
-10. nemzeti pénzügyi szolgáltatásokért,
+10.[^176]
 
 11. nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
 
@@ -34,6 +34,8 @@
 
 felelős tagja.
 
+(1a)[^177] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+
 (2) A Kormány
 
 a) a számvitelről szóló törvény szerinti könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezetként, valamint a könyvviteli szolgáltatást végzők tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként,
@@ -46,6 +48,9 @@ d) az uniós vámjog végrehajtásáról szóló törvény szerinti, a vámjogi 
 
 a minisztert jelöli ki.
 
-(3)[^1]
+(3)[^178]
 
-[^1]: A 130. § (3) bekezdését a 117/2026. (VII. 31.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^175]: A 130. § (1) bekezdés 9. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
+[^176]: A 130. § (1) bekezdés 10. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
+[^177]: A 130. § (1a) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 54. §-a iktatta be.
+[^178]: A 130. § (3) bekezdését a 117/2026. (VII. 31.) Korm. rendelet 1. §-a hatályon kívül helyezte.

@@ -1,25 +1,27 @@
 ## 16. A társadalmi kapcsolatokért és kultúráért felelős miniszter feladat- és hatásköre
 
-157. § A társadalmi kapcsolatokért és kultúráért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+157. §[^215] A társadalmi kapcsolatokért és kultúráért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a) audiovizuális politikáért,
+a) kultúráért,
 
-b) egyházakkal való kapcsolattartás koordinációjáért,
+b) – a 106. § l) pontjában meghatározott kivétellel – kulturális örökség védelméért,
 
-c) az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásáért,
+c) egyházakkal való kapcsolattartás koordinációjáért,
 
-d) kultúráért,
+d) az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásáért,
 
-e) – a 111. § (2) bekezdésében meghatározott kivétellel – kulturális örökség védelméért,
+e) nemzetpolitikáért,
 
-f) mozgóképszakmáért,
+f) nemzetiségpolitikáért,
 
-g) nemzetiségpolitikáért,
+g) társadalmi és civil kapcsolatok fejlesztéséért,
 
-h) nemzetpolitikáért,
+h) társadalmi párbeszédért,
 
-i) társadalmi és civil kapcsolatok fejlesztéséért,
+i) mozgóképszakmáért,
 
-j) társadalmi párbeszédért
+j) audiovizuális politikáért
 
 felelős tagja.
+
+[^215]: A 157. § a 139/2026. (VIII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.

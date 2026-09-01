@@ -1,7 +1,3 @@
-91. § A miniszter a nemzeti közműszolgáltatásokért való felelőssége keretében
+91. §[^119] Az Európai Unió kibocsátáskereskedelmi rendszeréből származó árverési bevételek felhasználásáról – ideértve a közlekedések, épületek és kisipari létesítmények kibocsátáskereskedelmi rendszerből származó bevételeket is – a miniszter, a közlekedésért felelős miniszter és a klímapolitikáért felelős miniszter együttműködve gondoskodik.
 
-a) ellátja a nemzeti közműszolgáltatási rendszer szervezésével és fejlesztésével kapcsolatos feladatokat,
-
-b) gondoskodik a nemzeti közműszolgáltatási rendszer továbbfejlesztésével kapcsolatos stratégiák kidolgozásáról és végrehajtásának koordinálásáról,
-
-c) az állami tulajdonú gazdasági társaságok irányításával segíti a hulladékgazdálkodási közszolgáltatásokhoz és a víziközmű-szolgáltatásokhoz kapcsolódó kormányzati célok megvalósítását.
+[^119]: A 91. § a 139/2026. (VIII. 31.) Korm. rendelet 37. §-ával megállapított szöveg.

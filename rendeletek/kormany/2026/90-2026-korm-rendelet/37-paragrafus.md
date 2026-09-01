@@ -1,1 +1,3 @@
-37. § A miniszter az anyakönyvi ügyekért való felelőssége körében előkészíti az anyakönyvezésre, a házasságkötési eljárásra, a névviselésre és a névváltoztatásra vonatkozó jogszabályokat.
+37. §[^43]
+
+[^43]: A 37. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 8. pontja hatályon kívül helyezte.

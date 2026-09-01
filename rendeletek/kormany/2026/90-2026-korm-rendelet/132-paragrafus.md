@@ -1,13 +1,3 @@
-132. § A miniszter a nemzeti pénzügyi szolgáltatásokért való felelőssége keretében
+132. §[^183]
 
-a) szakmai javaslatot tesz a Kormány részére a gazdaságfejlesztési célból állami hitel-, tőke- és garanciaprogramokra,
-
-b) előkészíti a Kormány részére a mikro-, kis- és középvállalatok – beleértve az Agrár Széchenyi Kártya Konstrukciókat igénybe vevő agrár mikro-, kis- és középvállalkozások – finanszírozására vonatkozó javaslatot, ideértve a kamattámogatott hitel-, tőke- és garanciaprogramokat,
-
-c) a Kormány részére évente előterjeszti az állami pénzintézetek stratégiáját és felügyeli annak végrehajtását,
-
-d) részt vesz az Európai Uniós források elosztásában,
-
-e) előkészíti a Magyar Fejlesztési Bankra és az Eximbankra vonatkozó jogszabályokat,
-
-f) kezeli az állam többségi és kisebbségi pénzintézeti tulajdonát és biztosítja annak képviseletét.
+[^183]: A 132. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 27. pontja hatályon kívül helyezte.

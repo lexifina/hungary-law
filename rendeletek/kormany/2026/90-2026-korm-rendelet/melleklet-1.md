@@ -1,4 +1,4 @@
-1. melléklet a 90/2026. (V. 13.) Korm. rendelethez
+1. melléklet a 90/2026. (V. 13.) Korm. rendelethez[^265]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -9,6 +9,10 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 | 1 | A szerv neve | A miniszter hatásköre |
 
 | 2 | Kormányzati Ellenőrzési Hivatal | irányítás |
+
+| 3 | Védelmi Igazgatási Hivatal | irányítás |
+
+| 4 | Nemzeti Információs Központ | irányítás |
 
 2. Agrár- és élelmiszergazdaságért felelős miniszter
 
@@ -28,23 +32,19 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 3 | Nemzetbiztonsági Szakszolgálat | irányítás |
 
-| 4 | Nemzeti Információs Központ | irányítás |
+| 4 | Nemzeti Kommunikációs Hivatal | irányítás |
 
-| 5 | Nemzeti Kommunikációs Hivatal | irányítás |
+| 5 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek | irányítás |
 
-| 6 | Védelmi Igazgatási Hivatal | irányítás |
+| 6 | Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek | irányítás |
 
-| 7 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek | irányítás |
+| 7 | Nemzeti Védelmi Szolgálat | irányítás |
 
-| 8 | Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek | irányítás |
+| 8 | Országos Idegenrendészeti Főigazgatóság | irányítás |
 
-| 9 | Nemzeti Védelmi Szolgálat | irányítás |
+| 9 | Országos Rendőr-főkapitányság és az irányítása alá tartozó szervek | irányítás |
 
-| 10 | Országos Idegenrendészeti Főigazgatóság | irányítás |
-
-| 11 | Országos Rendőr-főkapitányság és az irányítása alá tartozó szervek | irányítás |
-
-| 12 | Terrorelhárítási Központ | irányítás |
+| 10 | Terrorelhárítási Központ | irányítás |
 
 4. Egészségügyi miniszter
 
@@ -56,7 +56,7 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 3 | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | irányítás |
 
-| 4 | Országos Kórházi Főigazgatóság | irányítás |
+| 4 | Országos Kórházi Főigazgatóság és a középirányítása alá tartozó szervek | irányítás |
 
 5. Élő környezetért felelős miniszter
 
@@ -74,7 +74,7 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 2 | Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság | irányítás |
 
-| 3 | Nemzeti Befektetési Ügynökség | irányítás |
+| 3 | Nemzeti Akkreditáló Hatóság | irányítás |
 
 7. Honvédelmi miniszter
 
@@ -90,9 +90,9 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
+| 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-| 3 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
+| 3 | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
 
 9. Közlekedési és beruházási miniszter
 
@@ -112,17 +112,15 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 11. Oktatási és gyermekügyi miniszter
 
-| A | A | B |
+|  | A | B |
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Klebelsberg Központ | irányítás |
+| 2 | Klebelsberg Központ és a tankerületi központok | irányítás |
 
 | 3 | Oktatási Hivatal | irányítás |
 
-| 4 | Nemzeti Szakképzési és Felnőttképzési Hivatal | irányítás |
-
-| 5 | Nemzeti Akkreditáló Hatóság | irányítás |
+| 4 | Nemzeti Szakképzési és Felnőttképzési Hivatal és a szakképzési centrumok | irányítás |
 
 12. Pénzügyminiszter
 
@@ -142,9 +140,11 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Szociális és Gyermekvédelmi Főigazgatóság | irányítás |
+| 2 | Szociális és Gyermekvédelmi Főigazgatóság és a középirányítása alá tartozó szervek | irányítás |
 
 | 3 | Társadalmi Esélyteremtési Főigazgatóság | irányítás |
+
+| 4 | Kopp Mária Intézet a Népesedésért és Családokért | irányítás |
 
 14. Társadalmi kapcsolatokért és kultúráért felelős miniszter
 
@@ -162,7 +162,7 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal | felügyelet |
+| 2 | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal | irányítás |
 
 16. Vidék- és településfejlesztési miniszter
 
@@ -171,3 +171,7 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 | 1 | A szerv neve | A miniszter hatásköre |
 
 | 2 | Fővárosi és vármegyei kormányhivatalok | irányítás |
+
+| 3 | Felsőbbfokú Tanulmányok Intézete | irányítás |
+
+[^265]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.

@@ -1,51 +1,56 @@
-## 22. Védelmi Tanács
+## 22.[^259] Védelmi Kabinet
 
-198. § A Védelmi Tanács a Kormány vagy a miniszterelnök által meghatározott, így különösen
+198. §[^260] A Védelmi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
-1. a polgári nemzetbiztonsági szolgálatok irányításáért,
+1. az állami és önkormányzati szervek elektronikus információbiztonságáért,
 
-2. a polgári hírszerzési tevékenység irányításáért,
+2. a bűncselekmények megelőzéséért,
 
-3. a védelmi és biztonsági tevékenységek összehangolásáért,
+3. a büntetés-végrehajtásért,
 
-4. a védelmi és biztonsági feladatokhoz kapcsolódó beszerzésekért,
+4. az élet- és vagyonbiztonság védelméért,
 
-5. a védelmi fejlesztésekért,
+5. a határrendészetért,
 
-6. a bűncselekmények megelőzéséért,
+6. a honvédelemért,
 
-7. a büntetés-végrehajtásért,
+7. az idegenrendészetért és menekültügyért,
 
-8. az élet- és vagyonbiztonság védelméért,
+8. a katasztrófák elleni védekezésért,
 
-9. a határrendészetért,
+9. a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért,
 
-10. a honvédelemért,
+10. a kiberbiztonságért és az elektronikus információs rendszerek védelméért,
 
-11. az idegenrendészetért és menekültügyért,
+11. a közbiztonságért,
 
-12. a katasztrófák elleni védekezésért,
+12. a közlekedés-rendészetért,
 
-13. a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért,
+13. a közterület-felügyelet szabályozásáért,
 
-14. a közbiztonságért,
+14. a külföldiek társadalmi beilleszkedésének elősegítéséért,
 
-15. a közlekedés-rendészetért,
+15. a külföldre utazás szabályozásáért,
 
-16. a közterület-felügyelet szabályozásáért,
+16. a minősített adatok védelmének szakmai felügyeletéért,
 
-17. a külföldiek társadalmi beilleszkedésének elősegítéséért,
+17. a polgári hírszerzési tevékenység irányításáért,
 
-18. a külföldre utazás szabályozásáért,
+18. a polgári nemzetbiztonsági szolgálatok irányításáért,
 
-19. a minősített adatok védelmének szakmai felügyeletéért,
+19. a rendészetért,
 
-20. az állami és önkormányzati szervek elektronikus információbiztonságáért,
+20. a terrorizmus elleni küzdelemért,
 
-21. a rendészetért,
+21. a védelmi és biztonsági feladatokhoz kapcsolódó beszerzésekért,
 
-22. a szabálysértési szabályozásért,
+22. a védelmi és biztonsági tevékenységek összehangolásáért,
 
-23. a terrorizmus elleni küzdelemért
+23. a védelmi fejlesztésekért,
+
+24. a védelmi iparügyekért
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
+
+[^259]: A 22. alcím címe a 139/2026. (VIII. 31.) Korm. rendelet 95. § 50. pontja szerint módosított szöveg.
+[^260]: A 198. § a 139/2026. (VIII. 31.) Korm. rendelet 92. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@ c) vezeti és elektronikusan közzéteszi a jogszabályok és más jogi aktusok 
 
 a) felel a jogi segítségnyújtásért,
 
-b) felel a cégadatok nyilvánosságáért, a céginformáció-szolgáltatásért, a számviteli törvény szerinti beszámoló elektronikus úton történő közzétételéért, az ezeket érintő informatikai rendszer működtetéséért és az elektronikus cégeljárást érintő informatikai rendszer működtetéséért,
+b)[^128] felel a cégadatok nyilvánosságáért, a céginformáció-szolgáltatásért, a számviteli törvény szerinti beszámoló elektronikus úton történő közzétételéért, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszerrel való kapcsolattartásért, az ezeket érintő informatikai rendszer működtetéséért és az elektronikus cégeljárást érintő informatikai rendszernek – a személyiadat- és lakcímnyilvántartásért felelős miniszterrel együttműködésben, kormányzatilag koordinált – működtetéséért,
 
 c) ellátja a közjegyzőkkel, az ügyvédi tevékenységet gyakorlókkal, a bírósági végrehajtókkal, a polgári és közigazgatási jogi közvetítői tevékenységgel, – a 39. § (2) bekezdésében meghatározott kivétellel – a pártfogó felügyelői tevékenységgel és az igazságügyi szakértőkkel kapcsolatos feladatokat,
 
@@ -50,7 +50,7 @@ h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működés�
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
-b) – az európai uniós ügyekért felelős miniszterrel együttműködve – összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
+b)[^129] – az európai uniós ügyek koordinációjáért felelős miniszterrel együttműködve – összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
 
 ba) gondoskodik a jogharmonizációs tevékenység elvi, módszertani és terminológiai egységességéről,
 
@@ -89,3 +89,6 @@ ac) a közigazgatási hatósági és egyéb eljárások, szolgáltatások egysé
 b) közvetlen kapcsolatot tart a hazai szabályozásokat előkészítő és alkalmazó önálló szabályozó szervekkel, minisztériumokkal, központi és területi államigazgatási szervekkel, önkormányzatokkal, kamarákkal és egyéb költségvetési szervekkel,
 
 c) figyelemmel kíséri az állam működésének észszerűsítését elősegítő nemzetközi megoldásokat és gyakorlatokat.
+
+[^128]: A 100. § (8) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^129]: A 100. § (9) bekezdés b) pont nyitó szövegrésze a 139/2026. (VIII. 31.) Korm. rendelet 95. § 19. pontja szerint módosított szöveg.

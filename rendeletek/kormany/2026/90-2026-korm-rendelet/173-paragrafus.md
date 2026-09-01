@@ -1,4 +1,4 @@
-173. § A miniszter az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
+173. §[^230] A miniszter az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
 
 a) gondoskodik az e-közigazgatás és az e-közigazgatási szolgáltatások általános elvi alapjai meghatározásáról,
 
@@ -14,10 +14,12 @@ f) felügyeli a Kormány e-közigazgatással és informatikai fejlesztésekkel, 
 
 g) ellenőrzi és jóváhagyja az e-közigazgatással, az informatikával, valamint az infokommunikációs infrastruktúrával kapcsolatos fejlesztéseket és beszerzéseket,
 
-h) gondoskodik a nemzeti adatgazdaság, a nemzeti adatvagyon-gazdálkodás általános elvei kidolgozásáról és a nemzeti adatvagyon-gazdálkodás megvalósításáról,
+h) gondoskodik a nemzeti szoftverlicenc-gazdálkodás általános elvei kidolgozásáról és a nemzeti szoftverlicenc-gazdálkodás megvalósításáról,
 
-i) gondoskodik a nemzeti szoftverlicenc-gazdálkodás általános elvei kidolgozásáról és a nemzeti szoftverlicenc-gazdálkodás megvalósításáról,
+i) egyetértési jogot gyakorol a nemzeti szoftverlicenc-gazdálkodással kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során,
 
-j) egyetértési jogot gyakorol a nemzeti adatvagyon- és szoftverlicenc-gazdálkodással kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során,
+j) felügyeli a nemzeti szoftverlicenc-gazdálkodás megvalósítását,
 
-k) felügyeli a nemzeti adatvagyon- és szoftverlicenc-gazdálkodás megvalósítását.
+k) az e-közigazgatási fejlesztések megvalósítását szolgáló, az érintett miniszterek által előkészített jogalkotási javaslatokat egységes előterjesztésként gondozza a kormányzati döntés-előkészítési folyamatban.
+
+[^230]: A 173. § a 139/2026. (VIII. 31.) Korm. rendelet 75. §-ával megállapított szöveg.

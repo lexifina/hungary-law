@@ -1,7 +1,5 @@
 108. § (1) A miniszter az építésgazdaságért való felelőssége keretében ellátja az építőipar és az építőanyag-ipar ágazati irányításával kapcsolatos feladatokat.
 
-(2) A miniszter az építésgazdaságért való felelőssége keretében
+(2)[^137] A miniszter az építésgazdaságért való felelőssége keretében ellátja az építésüggyel összefüggő oktatási, továbbképzési és tanügyigazgatási feladatokat, továbbá közreműködik a nemzeti szabványok kidolgozásában.
 
-a) összehangolja – a sajátos építményfajták és a műemlékek tekintetében is – az építésüggyel kapcsolatos feladatellátást,
-
-b) ellátja – az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter közreműködésével – az építésüggyel összefüggő oktatási, továbbképzési és tanügyigazgatási feladatokat, továbbá közreműködik a nemzeti szabványok kidolgozásában.
+[^137]: A 108. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.

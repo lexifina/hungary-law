@@ -21,3 +21,19 @@ h) részt vesz a nemzetközi területfejlesztési együttműködésekben, az int
 i) segíti a terület- és regionális fejlesztést érintő kutatási elemző tevékenységet, elősegíti a területi tervek, valamint a területi tervek és az ágazati tervek összhangját,
 
 j) elemzi a térségi fejlesztési folyamatokat, javaslatot tesz a régiók területi lehatárolására, kidolgozza a regionális támogatási térkép koncepcióját.
+
+k)[^240] kialakítja az országos térstruktúrát, amelybe integrálja a periférikus, leszakadó térségeket, valamint javaslatot tesz a méretgazdaságos és költséghatékony többszintű területi működtetésre,
+
+l)[^241] véleményezési és egyetértési jogkört gyakorol az érintett szaktárcákkal együttműködésben a közszolgáltatások térségi szervezésével összefüggő szakpolitikai tervezési, fejlesztési és szervezési rendszerfeladatok kialakításának vonatkozásában, különös tekintettel a közlekedési, köznevelési, szociális és egészségügyi szakpolitika, valamint a térségi gazdaságfejlesztési, kulturális és tudományos szakpolitikák területén,
+
+m)[^242] az európai területi együttműködési csoportosulás tekintetében
+
+ma) előkészíti az erre vonatkozó jogszabályokat,
+
+mb) gondoskodik a közigazgatási szervek határon átnyúló együttműködéssel foglalkozó fórum, vegyes bizottság, munkacsoport üléseinek szakmai, titkársági feladatai ellátásáról,
+
+mc) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését.
+
+[^240]: A 181. § (2) bekezdés k) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
+[^241]: A 181. § (2) bekezdés l) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
+[^242]: A 181. § (2) bekezdés m) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.

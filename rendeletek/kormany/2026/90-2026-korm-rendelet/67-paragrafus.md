@@ -1,5 +1,3 @@
-67. § A miniszter a hulladékgazdálkodásért való felelőssége keretében előkészíti
+67. §[^95] A miniszter a klímapolitikáért való felelősségéből fakadó feladatait a 90. § (1) és (4) bekezdésében foglaltakra figyelemmel látja el.
 
-a) a hulladékgazdálkodásra és körforgásos gazdaságra vonatkozó jogszabályokat,
-
-b) a hulladékgazdálkodási közszolgáltatási tevékenységre, valamint az állami hulladékgazdálkodási közfeladat ellátására vonatkozó jogszabályokat.
+[^95]: A 67. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

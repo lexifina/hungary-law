@@ -1,1 +1,3 @@
-154. § A miniszter ellátja a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvénnyel kapcsolatos kodifikációs feladatokat.
+154. §[^212] A miniszter – az egészségbiztosításért felelős miniszterrel együttműködve – ellátja a szociális biztonsági koordináció kormányzati összehangolásából adódó feladatokat.
+
+[^212]: A 154. § a 139/2026. (VIII. 31.) Korm. rendelet 65. §-ával megállapított szöveg.

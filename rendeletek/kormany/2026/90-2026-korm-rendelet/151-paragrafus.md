@@ -10,6 +10,8 @@ c) ellátja – a külföldiek társadalmi beilleszkedésének elősegítéséé
 
 d) ellátja a harmadik országbeli állampolgárok magyarországi foglalkoztatásával kapcsolatos feladatokat,
 
-e) kapcsolatot tart a hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, illetve testületekkel,
+e)[^208]
 
 f) megszervezi és az állami foglalkoztatási szerv közreműködésével működteti a harmadik országbeli állampolgárok magyarországi foglalkoztatásának rendszerét, meghatározza a harmadik országbeli állampolgárok magyarországi foglalkoztatásának eszközrendszerét, elemzi és ellenőrzi annak működését, a harmadik országbeli állampolgárok magyarországi foglalkoztatása tekintetében szakmai irányító miniszteri jogokat gyakorol az állami foglalkoztatási szerv tevékenysége felett.
+
+[^208]: A 151. § (2) bekezdés e) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 31. pontja hatályon kívül helyezte.

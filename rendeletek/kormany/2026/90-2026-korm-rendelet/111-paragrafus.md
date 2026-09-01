@@ -6,6 +6,15 @@ b) közreműködik a Kormány feladatkörébe tartozó, országos jelentőségű
 
 c) szakmai segítséget nyújt az önkormányzati településkép-érvényesítési eszközök megalkotásához,
 
-d) figyelemmel kíséri a közterületen és a közterületről látható magánterületen elhelyezett reklámok általános településképi hatásait, szükség szerint előterjesztést készít e szabályozás módosítására.
+d)[^141] figyelemmel kíséri a közterületen és a közterületről látható magánterületen elhelyezett reklámok általános településképi hatásait és előkészíti a reklámeszközök elhelyezésére vonatkozó törvényi és kormányrendeleti szabályozást,
 
-(2) A miniszter a világörökség tekintetében a Kormány kulturális örökség védelméért felelős tagja, e felelőssége keretében a kultúráért felelős miniszterrel és a természetvédelemért felelős miniszterrel együttműködve ellátja a világörökséggel kapcsolatos állami feladatokat.
+e)[^142] ellátja az országos építészeti tervtanács működtetésével kapcsolatos feladatokat,
+
+f)[^143] közreműködik a barnamezős kataszter működtetésével és a rozsdaövezeti akcióterületekkel összefüggő feladatok ellátásában.
+
+(2)[^144] A miniszter a világörökségi területekkel összefüggő állami feladatait a kultúráért felelős miniszterrel és a természetvédelemért felelős miniszterrel együttműködve látja el.
+
+[^141]: A 111. § (1) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^142]: A 111. § (1) bekezdés e) pontját a 139/2026. (VIII. 31.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^143]: A 111. § (1) bekezdés f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^144]: A 111. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.

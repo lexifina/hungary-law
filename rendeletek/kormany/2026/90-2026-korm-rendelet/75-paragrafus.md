@@ -1,39 +1,43 @@
 ## 8. A gazdasági és energetikai miniszter feladat- és hatásköre
 
-75. § A gazdasági és energetikai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+75. §[^101] A gazdasági és energetikai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bányászati ügyekért,
 
 2. belgazdaságért,
 
-3. – a 64. § (3) bekezdésében meghatározott kivétellel – energiapolitikáért,
+3. energiapolitikáért,
 
-4. fogyasztóvédelemért
+4. – a 29/A. §-ban meghatározott kivétellel – fogyasztóvédelemért,
 
 5. gazdaságfejlesztésért,
 
-6. iparügyekért
+6. iparügyekért,
 
 7. kereskedelemért (a továbbiakban: belföldi kereskedelemért),
 
 8. külgazdasági ügyekért,
 
-9. nemzeti közműszolgáltatásokért,
+9. nemzeti pénzügyi szolgáltatásokért,
 
-10. országmárkáért,
+10. – a 134. §-ban meghatározott kivétellel – nemzetközi pénzügyi kapcsolatokért,
 
-11. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
+11. országmárkáért,
 
-12. postaügyért
+12. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
 
-13. turizmusért,
+13. postaügyért,
 
-14. vállalkozásfejlesztésért,
+14. turizmusért,
 
-15. vendéglátásért,
+15. – a 168/A. §-ban foglalt kivétellel – vállalkozásfejlesztésért,
 
-16. versenyképesség gazdasági és jogi feltételrendszeréért
+16. vendéglátásért,
+
+17. – a 144/A. §-ban meghatározott kivétellel – versenyképesség gazdasági és jogi feltételrendszeréért,
+
+18. védelmi iparügyekért
 
 felelős tagja.
 
-(1) A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+[^101]: A 75. § a 139/2026. (VIII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.

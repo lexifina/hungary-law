@@ -1,15 +1,13 @@
-134. § A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében
+134. §[^184] (1) A miniszter a Nemzetközi Valutaalap tagságból és a Világbank tagságból fakadó feladatok, valamint az Európai Beruházási Bankban és az Európa Tanács Fejlesztési Bankjával folytatott kormányzati tevékenység koordinációja tekintetében a Kormány nemzetközi pénzügyi kapcsolatokért felelős tagja.
 
-a) nemzetközi intézményekkel összefüggő gazdaságfejlesztési kérdésekben eljár,
+(2) A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében ellátja
 
-b) kidolgozza a nemzetközi fejlesztési hitelek, az exporthitel-biztosítás és -hitelezés irányelveit, valamint szabályozását,
+a) a Nemzetközi Valutaalap tagságból fakadó feladatokat,
 
-c) ellátja a Nemzetközi Valutaalap és a Világbank tagságból fakadó feladatokat,
+b) a Világbank tagságból fakadó feladatokat,
 
-d) koordinálja az Európai Újjáépítési és Fejlesztési Bankban folytatott kormányzati tevékenységet és javaslatot tesz az Igazgatótanácsban való képviselő személyére,
+c) koordinálja az Európai Beruházási Bankban folytatott kormányzati tevékenységet, és javaslatot tesz az Igazgatótanácsban való képviselő személyére,
 
-e) koordinálja az Európai Beruházási Bankban folytatott kormányzati tevékenységet és javaslatot tesz az Igazgatótanácsban való képviselő személyére,
+d) koordinálja az Európa Tanács Fejlesztési Bankjával folytatott kormányzati tevékenységet.
 
-f) koordinálja a Gazdasági Együttműködési és Fejlesztési Szervezetben folytatott kormányzati tevékenységet, és
-
-g) javaslatot tesz a Gazdasági Együttműködési és Fejlesztési Szervezet melletti Magyar Állandó Képviseletet vezető nagykövet kinevezésére és felmentésére.
+[^184]: A 134. § a 139/2026. (VIII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.

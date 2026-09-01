@@ -1,4 +1,4 @@
-70. § A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
+70. §[^98] (1) A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
 
 a) a vízgazdálkodásra,
 
@@ -8,11 +8,11 @@ c) a vizek hasznosítását, védelmét és kártételeinek elhárítását szol
 
 d) a vízügyi sajátos építményfajtákra vonatkozó szabályokra,
 
-e) az ár- és belvízvédekezésre, ideértve az árvízi biztonság növelését is,
+e) az ár- és belvízvédekezésre és hasznosításra, ideértve az árvízi biztonság növelését is,
 
 f) a nagyvízi meder és a parti sáv hasznosítására és kezelésének rendjére,
 
-g) a mezőgazdasági célú vízszolgáltatásra,
+g) a mezőgazdasági célú vízszolgáltatással kapcsolatos vízigények meghatározása tekintetében az agrárpolitikáért felelős miniszterrel együttműködésben, a mezőgazdasági célú vízszolgáltatásra,
 
 h) a vízgazdálkodási társulatokra,
 
@@ -22,8 +22,20 @@ j) a vizek mennyiségi védelmét szolgáló gazdasági szabályozó eszközökr
 
 k) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelmére,
 
-l) a települési szennyvízelvezetésre,
+l) a települési szennyvízelvezetésre, és -hasznosításra, illetve csapadékvíz-hasznosításra,
 
-m) a víziközmű-szolgáltatás gazdálkodói tevékenységen kívüli szabályozására
+m) a víziközmű-szolgáltatás gazdálkodói tevékenységen kívüli szabályozására,
+
+n) a víziközmű-szolgáltatás gazdálkodói tevékenységének szabályozására,
+
+o) az aszály és a vízhiány kezelésére, illetve a vízmegtartásra
 
 vonatkozó jogszabályokat.
+
+(2) A miniszter a vízgazdálkodásért való felelőssége keretében
+
+a) gondoskodik a természetalapú megoldások és természetes vízmegtartási módszerek alkalmazásáról a vízgazdálkodásban,
+
+b) együttműködik az agrár- és élelmiszergazdaságért felelős miniszterrel és a vidékfejlesztésért felelős miniszterrel a KAP támogatásokkal kapcsolatos stratégiai tervezési és szakpolitikai feladatok ellátásában.
+
+[^98]: A 70. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

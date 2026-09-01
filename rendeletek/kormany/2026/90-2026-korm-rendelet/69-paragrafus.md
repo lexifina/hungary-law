@@ -1,7 +1,9 @@
-69. § A miniszter a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódó fenntartható fejlődési kormányzati feladatok összehangolásáért való felelőssége keretében
+69. §[^97] A miniszter a nemzeti közműszolgáltatásokért való felelőssége keretében
 
-a) előkészíti a kormányzati fenntartható fejlődési stratégiát;
+a) ellátja a nemzeti közműszolgáltatási rendszer szervezésével és fejlesztésével kapcsolatos feladatokat,
 
-b) összehangolja a fenntartható fejlődési célok érvényesülését szolgáló kormányzati stratégiák végrehajtását;
+b) gondoskodik a nemzeti közműszolgáltatási rendszer továbbfejlesztésével kapcsolatos stratégiák kidolgozásáról és végrehajtásának koordinálásáról,
 
-c) képviseli a Kormányt a nemzetközi fenntartható fejlődési szervezetekben.
+c) az állami tulajdonú gazdasági társaságok irányításával segíti a hulladékgazdálkodási, valamint a víziközmű-szolgáltatási közszolgáltatáshoz kapcsolódó kormányzati célok megvalósítását.
+
+[^97]: A 69. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

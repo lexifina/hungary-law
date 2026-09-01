@@ -1,33 +1,41 @@
 ## 18. A vidék- és településfejlesztési miniszter feladat- és hatásköre
 
-179. § A vidék- és településfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+179. §[^238] A vidék- és településfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a) európai uniós források felhasználásáért,
+1. anyakönyvi ügyekért,
 
-b) helyi önkormányzatokért,
+2. állampolgársági ügyekért,
 
-c) helyi önkormányzatok törvényességi felügyeletéért,
+3. európai uniós források felhasználásáért,
 
-d) a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve a tűzvédelmi hatósági ügyekért,
+4. helyi önkormányzatokért,
 
-e) a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve az iparbiztonsági hatósági ügyekért,
+5. helyi önkormányzatok törvényességi felügyeletéért,
 
-f) ingatlan-nyilvántartásért,
+6. – a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve – tűzvédelmi hatósági ügyekért,
 
-g) – a 124. § (3) bekezdésében meghatározott kivétellel – közigazgatás-fejlesztésért,
+7. – a hivatásos katasztrófavédelmi szerv által lefolytatott eljárásokat kivéve – iparbiztonsági hatósági ügyekért,
 
-h) – a 8. § (5) és (6) bekezdésében meghatározott kivétellel – közigazgatási minőségpolitikáért és személyzetpolitikáért,
+8. – az elektronikus nyilvántartási rendszerek informatikai fejlesztése és üzemeltetése kivételével – ingatlan-nyilvántartásért,
 
-i) közigazgatás-szervezésért,
+9. – a 124. § (3) bekezdésében meghatározott kivétellel – közigazgatás-fejlesztésért,
 
-j) Magyar Falu Program működtetéséért
+10. közigazgatás-szervezésért,
 
-k) településüzemeltetésért,
+11. Magyar Falu Program és a Modern Városok Program működtetéséért,
 
-l) területfejlesztésért,
+12. településüzemeltetésért,
 
-m) térképészetért,
+13. területfejlesztésért,
 
-n) vidékfejlesztésért
+14. vidékfejlesztésért,
+
+15. – az elektronikus nyilvántartási rendszerek informatikai fejlesztése és üzemeltetése kivételével – térképészetért,
+
+16. hátrányos helyzetű térségek társadalmi felzárkózásáért,
+
+17. társadalmi vállalkozásokért
 
 felelős tagja.
+
+[^238]: A 179. § a 139/2026. (VIII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.

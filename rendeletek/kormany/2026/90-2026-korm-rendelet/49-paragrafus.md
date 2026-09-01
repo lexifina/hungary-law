@@ -1,1 +1,3 @@
-49. § A miniszter a külföldre utazás szabályozásáért való felelőssége keretében előkészíti a magyar állampolgárok külföldre utazására és az útlevélre vonatkozó jogszabályokat.
+49. §[^53]
+
+[^53]: A 49. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 10. pontja hatályon kívül helyezte.

@@ -1,12 +1,12 @@
 ## 1. A Miniszterelnökséget vezető miniszter feladat- és hatásköre
 
-8. § (1) A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+8. § (1)[^3] A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) általános politikai koordinációért,
 
 b) európai uniós ügyek koordinációjáért,
 
-c) európai uniós politikák kialakításáért és koordinációjáért, valamint
+c) európai uniós politikák kialakításáért és koordinációjáért,
 
 d) kormányzati kommunikációért,
 
@@ -14,11 +14,13 @@ e) kormánybiztosok tevékenységének összehangolásáért,
 
 f) kormányzati társadalmi kapcsolatok összehangolásáért,
 
-g) kormányzati stratégiák kidolgozásának támogatásáért,
+g) – a 117. § (2) bekezdésében meghatározott kivétellel – kormányzati stratégiák kidolgozásának támogatásáért,
 
-h) közszolgálati életpálya kidolgozásáért,
+h) közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
-i) – a 27. §-ban meghatározott kivétellel – társadalompolitika összehangolásáért
+i) – a 147. § (4) bekezdésében meghatározott kivétellel – közszolgálati életpálya kidolgozásáért,
+
+j) – a 27. §-ban meghatározott kivétellel – társadalompolitika összehangolásáért
 
 felelős tagja.
 
@@ -42,6 +44,10 @@ tekintetében a Kormány igazságügyért felelős tagja.
 
 (4) A miniszter a (3) bekezdés c)–f) pontja szerinti felelősségi körében tájékoztatásul kapott végzésről – annak egyidejű továbbítása mellett – értesíti az igazságügyi minisztert.
 
-(5) A miniszter a Közszolgálati Döntőbizottság elnökének, elnökhelyettesének és tagjainak kinevezése, valamint a Közszolgálati Döntőbizottsággal kapcsolatos egyéb kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
+(5)[^4] A miniszter a közigazgatási minőségpolitikáért és személyzetpolitikáért való felelőssége keretében ellátja a Közszolgálati Döntőbizottság elnökének, elnökhelyettesének és tagjainak kinevezéséhez kapcsolódó és a Közszolgálati Döntőbizottsággal kapcsolatos egyéb kormányzati feladatokat, valamint a Közszolgálati Érdekegyeztető Fórummal kapcsolatos kormányzati feladatokat.
 
-(6) A miniszter a Közszolgálati Érdekegyeztető Fórummal kapcsolatos kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
+(6)[^5] A miniszter a közigazgatási minőségpolitikáért és személyzetpolitikáért való felelőssége keretében előkészíti és végrehajtja a közigazgatási minőségpolitikát, ennek részeként kidolgozza a közigazgatás minőségpolitikai elveit és a minőségbiztosítási eljárások alkalmazásának szakmai és módszertani szabályait.
+
+[^3]: A 8. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 8. § (5) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 8. § (6) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

@@ -15,3 +15,10 @@ b) összehangolja a több ágazatot érintő, közigazgatással kapcsolatos korm
 c) a Kormány feladatkörében érintett tagjával együttműködve kialakítja és működteti az egységes közigazgatási hatósági statisztikai rendszert,
 
 d) gondoskodik a kormányablakok működtetéséhez szükséges feltételrendszer megteremtéséről és a kormányablak-tudástár tartalmának kialakításáról.
+
+e)[^247] gondoskodik a fővárosi és vármegyei kormányhivatalok személyügyi igazgatásának irányításáról,
+
+f)[^248] ellátja a jogszabályokban meghatározott egyéb feladatokat a fővárosi és vármegyei kormányhivataloknál foglalkoztatottak tekintetében.
+
+[^247]: A 187. § (2) bekezdés e) pontját a 139/2026. (VIII. 31.) Korm. rendelet 86. §-a iktatta be.
+[^248]: A 187. § (2) bekezdés f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 86. §-a iktatta be.

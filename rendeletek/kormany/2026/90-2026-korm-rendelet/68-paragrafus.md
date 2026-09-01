@@ -1,15 +1,9 @@
-68. § A miniszter a hulladékgazdálkodási felügyeleti tevékenysége keretében
+68. §[^96] A miniszter fenntartható fejlődéssel összefüggő kormányzati feladatok összehangolásáért való felelőssége keretében
 
-a) felel a hulladék mennyiségének csökkentésével, az elhagyott hulladék felszámolásával kapcsolatos feladatok végrehajtásáért, a hulladékgazdálkodási tevékenységek ellenőrzéséért,
+a) előkészíti a kormányzati fenntartható fejlődési stratégiát,
 
-b) meghatározza a hulladékfelügyeleti szervek intézményrendszerét, fejlesztési irányát, és összehangolja azok munkáját,
+b) összehangolja a fenntartható fejlődési célok érvényesülését szolgáló kormányzati stratégiák kidolgozását,
 
-c) felügyeli a hulladékképződés körülményeit, eljárásait, technológiáját, felel a hulladékgazdálkodás minőség-ellenőrzéséért, és elősegíti a társadalom környezettudatos életmódját, kialakítja az állami hulladékgazdálkodási termékértéklánc-felügyeleti laboratóriumi hálózatot,
+c) képviseli a Kormányt a hazai és a nemzetközi fenntartható fejlődési szervezetekben.
 
-d) a hulladékgazdálkodási feladatai keretében gondoskodik a kiterjesztett gyártói felelősség érvényre jutásáról, hulladékképződés szempontjából ellenőrzi a termékek előállítását, forgalomba hozatalát és felhasználását, valamint vizsgálatát,
-
-e) gondoskodik a hulladékminőséggel kapcsolatos társadalmi tudásmenedzsment, képzés fejlesztéséről,
-
-f) kidolgozza a hulladékgazdálkodási ipar stratégiai dokumentumait, segíti az újrahasználatra előkészített vagy újrafeldolgozott magyar termékek piacra jutását, ellenőrzéseket rendel el a feketegazdaság elleni hatékony küzdelem érdekében, fellép a nemkívánatos gazdasági folyamatok ellen, megalapozva ezzel a fogyasztók bizalmának növekedését, valamint
-
-g) felügyeli a hulladékgazdálkodási hatóságot.
+[^96]: A 68. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

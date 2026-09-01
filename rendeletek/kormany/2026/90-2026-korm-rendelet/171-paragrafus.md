@@ -8,7 +8,7 @@ b) gondoskodik az e-közigazgatás általános elveinek megfelelően a közigazg
 
 c) megköti a közigazgatási informatika infrastrukturális eszközrendszerének fejlesztését érintő szerződéseket,
 
-d) felügyeli a kormányzati célú hírközlési szolgáltatót és a központi elektronikus szolgáltató rendszer működtetőjét, valamint az e hálózatok infrastrukturális alapját biztosító szervezetek tevékenységét,
+d)[^227]
 
 e) közreműködik a védelemszervezés közigazgatási szerveket érintő informatikai feladatainak tervezésében, végrehajtásában,
 
@@ -19,3 +19,5 @@ g) az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs
 h) ellátja az Európai Unió tagállamainak az elektronikus azonosítás területén történő együttműködésével kapcsolatos rendelkezésekről szóló kormányrendelet szerinti tagállami kapcsolattartási pont feladatait.
 
 (3) A miniszter – jogszabályban meghatározott kivétellel – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
+
+[^227]: A 171. § (2) bekezdés d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 34. pontja hatályon kívül helyezte.

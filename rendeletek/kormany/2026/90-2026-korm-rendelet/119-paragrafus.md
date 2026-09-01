@@ -1,1 +1,3 @@
-119. § A Kormány az európai területi társulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.
+119. §[^154]
+
+[^154]: A 119. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 22. pontja hatályon kívül helyezte.

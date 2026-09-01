@@ -24,10 +24,12 @@ j) koordinálja az idősek érdekeit szolgáló nemzetközi egyezmények végreh
 
 k) koordinálja a nők és férfiak társadalmi egyenlőségének előmozdításával kapcsolatos feladatokat, és figyelemmel kíséri a női jogok érvényesülését,
 
-l) az egészségbiztosításért felelős miniszterrel együttműködve feladatkörében ellátja a szociális biztonsági tárgyú uniós és nemzetközi feladatokat,
+l)[^213] felel a Kormány gyermektáboroztatási programjának alakításáért.
 
 m) együttműködik az egészségügyért felelős miniszterrel a védőnői ellátással és a családvédelmi szolgálattal kapcsolatos szakmai feladatok, valamint a családdal kapcsolatos gondozási és tájékoztatási feladatok ellátásában.
 
 (3) A miniszter a 145. § (1) bekezdés b) és d) pontjában meghatározott feladatainak ellátásába bevonja a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaságot az állampolgárok számára aktív, kétirányú kommunikációt biztosító ügyfélpont működtetése, továbbá a (2) bekezdés a), b), d), e), j) pontjában meghatározott feladatok támogatása érdekében közreműködői szolgáltatások nyújtása, a család- és idősügyi, illetve nőpolitikai döntések megalapozása és azok hatásainak vizsgálata körében tudományos kutatási tevékenység végzése, képzések és továbbképzések szervezése, szakmai kiadványok kiadása, valamint ezekhez kapcsolódóan fejlesztési feladatok ellátása tekintetében.
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter a (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
+
+[^213]: A 155. § (2) bekezdés l) pontja a 139/2026. (VIII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.

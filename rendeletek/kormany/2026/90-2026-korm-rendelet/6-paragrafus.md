@@ -20,7 +20,7 @@ eb) szervezi, vezeti és lebonyolítja a közigazgatási államtitkári értekez
 
 ec) összeállítja a kormányülés napirendjét,
 
-ed) előkészíti a Kabinet és a Védelmi Tanács üléseit,
+ed)[^2] előkészíti a Kabinet üléseit,
 
 f) szervezi, összehangolja és ellenőrzi a Kormány döntéseinek végrehajtását,
 
@@ -33,3 +33,5 @@ i) koordinálja az alkotmányos szervek, az önálló szabályozó szervek és a
 j) ellátja az állami vezetők állami vezetői szolgálati jogviszonyával kapcsolatos személyügyi műveleteket,
 
 k) biztosítja az állami vezetők munkavégzéséhez szükséges tárgyieszköz-ellátást.
+
+[^2]: A 6. § e) pont ed) alpontja a 139/2026. (VIII. 31.) Korm. rendelet 96. § 1. pontja szerint módosított szöveg.

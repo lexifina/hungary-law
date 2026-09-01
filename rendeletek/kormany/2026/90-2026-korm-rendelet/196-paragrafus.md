@@ -4,7 +4,7 @@
 
 ## 20. Stratégiai Kabinet
 
-196. § (1) A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+196. § (1)[^256] A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -12,106 +12,122 @@
 
 3. az áldozatsegítésért,
 
-4. az általános politikai koordinációért,
+4. az állampolgársági ügyekért,
 
-5. a családpolitikáért,
+5. az általános politikai koordinációért,
 
-6. az e-közigazgatásért,
+6. a családpolitikáért,
 
-7. az egészségügyért,
+7. az e-közigazgatásért,
 
-8. a Magyar Falu Program működtetéséért,
+8. az e-közigazgatási és informatikai fejlesztések egységesítéséért,
 
-9. az európai uniós ügyek koordinációjáért,
+9. az egészségügyért,
 
-10. az európai uniós politikák kialakításáért és koordinációjáért,
+10. az egyházakkal való kapcsolattartás koordinációjáért,
 
-11. az Európai Unió Tanácsa 2024. második félévi magyar elnökségének előkészítéséért és lebonyolításáért,
+11. az európai uniós ügyek koordinációjáért,
 
-12. a felsőoktatásért,
+12. az európai uniós politikák kialakításáért és koordinációjáért,
 
-13. az egyes kereskedelmi építmények vonatkozásában a fenntarthatósági szempontok érvényesítéséért,
+13. a felsőoktatásért,
 
-14. a fogyasztóvédelemért,
+14. az egyes kereskedelmi építmények vonatkozásában a fenntarthatósági szempontok érvényesítéséért,
 
-15. a gyermek- és ifjúságpolitikáért,
+15. a fogyasztóvédelemért,
 
-16. a gyermekek és az ifjúság védelméért,
+16. a gyermek- és ifjúságpolitikáért,
 
-17. a helyi önkormányzatok törvényességi felügyeletéért,
+17. a gyermekek és az ifjúság védelméért,
 
-18. a helyi önkormányzatokért,
+18. a gyermekjogi politikáért,
 
-19. az igazságügyért,
+19. a helyi önkormányzatok törvényességi felügyeletéért,
 
-20. az ingatlan-nyilvántartásért,
+20. a helyi önkormányzatokért,
 
-21. a kárpótlásért,
+21. az igazságügyért,
 
-22. a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
+22. az ingatlan-nyilvántartásért,
 
-23. a kormányzati kommunikációért,
+23. az ingatlan-nyilvántartási és térképészeti szakrendszerek informatikai fejlesztéséért és üzemeltetéséért,
 
-24. a kormányzati társadalmi kapcsolatok összehangolásáért,
+24. a kárpótlásért,
 
-25. a közbeszerzésekért,
+25. a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
 
-26. a közigazgatás-fejlesztésért,
+26. a kormányzati kommunikációért,
 
-27. a közigazgatás-szervezésért,
+27. a kormányzati stratégiák kidolgozásának támogatásáért,
 
-28. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
+28. a kormányzati társadalmi kapcsolatok összehangolásáért,
 
-29. a közigazgatási minőségpolitikáért és személyzetpolitikáért,
+29. a közigazgatás-fejlesztésért,
 
-30. a köziratok kezelésének szakmai irányításáért,
+30. a közigazgatás-szervezésért,
 
-31. a köznevelésért,
+31. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
 
-32. a közszolgálati életpálya kidolgozásáért,
+32. a közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
-33. a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
+33. a köziratok kezelésének szakmai irányításáért,
 
-34. a kultúráért,
+34. a köznevelésért,
 
-35. a külpolitikáért,
+35. a közszolgálati életpálya kidolgozásáért,
 
-36. a mozgóképszakmáért,
+36. a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
 
-37. az országmárkáért,
+37. a kultúráért,
 
-38. a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért,
+38. a kulturális örökség védelméért,
 
-39. a sportpolitikáért,
+39. a külpolitikáért,
 
-40. a személyiadat- és lakcímnyilvántartásért,
+40. a nemzetpolitikáért,
 
-41. a szociálpolitikáért,
+41. a mozgóképszakmáért,
 
-42. a társadalmi és civil kapcsolatok fejlesztéséért,
+42. a nemzetiségpolitikáért,
 
-43. a társadalmi felzárkózásért,
+43. az országmárkáért,
 
-44. a társadalmi párbeszédért,
+44. a sportpolitikáért,
 
-45. a társadalompolitika összehangolásáért,
+45. a szabálysértési szabályozásért,
 
-46. a természetvédelemért,
+46. a személyiadat- és lakcímnyilvántartásért,
 
-47. a térképészetért,
+47. a személyiadat- és lakcímnyilvántartás szabályozásáért,
 
-48. a választójogi és népszavazási szabályozásért,
+48. a szociálpolitikáért,
 
-49. a vízgazdálkodásért,
+49. a társadalmi és civil kapcsolatok fejlesztéséért,
 
-50. a víziközmű-szolgáltatásért,
+50. a társadalmi felzárkózásért,
 
-51. a vízügyi igazgatási szervek irányításáért,
+51. a társadalmi párbeszédért,
 
-52. a vízvédelemért
+52. a társadalompolitika összehangolásáért,
+
+53. a természetvédelemért,
+
+54. a térképészetért,
+
+55. a választójogi és népszavazási szabályozásért,
+
+56. a vízügyi igazgatási szervek irányításáért,
+
+57. a vízgazdálkodásért,
+
+58. a vízvédelemért,
+
+59. a víziközmű-szolgáltatásért
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
 (2) A Stratégiai Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Stratégiai Kabinet elnöke kéri.
 
 (3) A Stratégiai Kabinet üléseit a Miniszterelnökséget vezető miniszter vezeti.
+
+[^256]: A 196. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 89. §-ával megállapított szöveg.

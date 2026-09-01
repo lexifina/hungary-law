@@ -1,1 +1,5 @@
-153. § A miniszter kidolgozza a társadalmi felzárkózási és roma társadalmi integrációs kormányzati politika koncepcióját, és koordinálja annak végrehajtását, valamint a Kormány feladatkörében érintett tagjával együttműködve előkészíti a romák társadalmi integrációjával és a roma nemzetiség jogait érintő intézkedésekkel összefüggő kormányzati döntések tervezeteit, ennek keretében előkészíti a vonatkozó jogszabályokat.
+153. §[^211] (1) A miniszter kidolgozza a társadalmi felzárkózási és roma társadalmi integrációs kormányzati politika koncepcióját, és koordinálja annak végrehajtását, valamint előkészíti a romák társadalmi integrációjával összefüggő kormányzati döntések tervezeteit, és ennek keretében előkészíti a vonatkozó jogszabályokat.
+
+(2) A miniszter együttműködik a Kormány feladatkörében érintett tagjával a roma nemzetiség jogait érintő intézkedésekkel összefüggő kormányzati döntések előkészítésében, a vonatkozó jogszabályok kidolgozásában.
+
+[^211]: A 153. § a 139/2026. (VIII. 31.) Korm. rendelet 64. §-ával megállapított szöveg.
