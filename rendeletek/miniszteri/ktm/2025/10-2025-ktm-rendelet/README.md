@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-10-20-9
 | 2026-01-01 | 2025-10-20-9D.1 | 10/2025. (XII. 19.) KTM rendelet |
 | 2026-01-02 | 2025-10-20-9D.2 | 2010. évi CXXX. törvény |
 | 2026-09-01 | 2025-10-20-9D.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-09-02 | 2025-10-20-9D.4 | 2010. évi CXXX. törvény |

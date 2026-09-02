@@ -1,3 +1,3 @@
-7. § Az R. 43. §-a a következő (16) bekezdéssel egészül ki:
+7. §[^8]
 
-„(16) E rendeletnek a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet módosításáról szóló 10/2025. (XII. 19.) KTM rendelettel (a továbbiakban: Módr6.) megállapított 33. §-át és 34. §-át a Módr6. hatálybalépését követően feladott hirdetmények – ideértve a Módr6. hatálybalépését megelőzően a Hatóság részére megküldött, illetve hiánypótlással, javítással vagy helyesbítéssel érintett hirdetményeket is, amelyek feladására vagy ismételt feladására a Módr6. hatálybalépését követően kerül sor – tekintetében kell alkalmazni.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
