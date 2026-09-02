@@ -1,4 +1,0 @@
-12. §[^23] E rendeletnek a Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 195/2021. (IV. 26.) Korm. rendelet módosításáról szóló 200/2025. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr.4.) megállapított 2. § (3) bekezdését, 6/B. §-át, valamint módosított 1. § (1) és (3) bekezdését, 2. § (2) bekezdését, 6. § (1) bekezdés a) és b) pontját, 6/A. §-át, 2. mellékletét a Módr.4. hatálybalépésekor[^24] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-[^23]: A 12. §-t a 200/2025. (VII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2025. július 20.
