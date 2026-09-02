@@ -1,3 +1,3 @@
-20. § Az R. 55. §-a helyébe a következő rendelkezés lép:
+20. §[^20]
 
-„55. § A miniszter a szabálysértési szabályozásért való felelőssége keretében előkészíti a szabálysértési eljárásra és a szabálysértésekre vonatkozó jogszabályokat.”
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

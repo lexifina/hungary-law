@@ -1,3 +1,3 @@
-66. § Az R. 155. § (2) bekezdés l) pontja helyébe a következő rendelkezés lép:
+66. §[^66]
 
-(A miniszter a családpolitikáért való felelőssége keretében)
+[^66]: A 66. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

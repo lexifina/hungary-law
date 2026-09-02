@@ -1,3 +1,3 @@
-35. § Az R. 8. alcíme a következő 86/A. §-sal egészül ki:
+35. §[^35]
 
-„86/A. § A Kormány az európai területi társulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.”
+[^35]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

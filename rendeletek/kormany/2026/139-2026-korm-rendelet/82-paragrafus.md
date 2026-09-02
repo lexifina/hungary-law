@@ -1,3 +1,3 @@
-82. § Az R. 181. § (2) bekezdése a következő k)–m) ponttal egészül ki:
+82. §[^82]
 
-(A miniszter a területfejlesztésért való felelőssége keretében)
+[^82]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

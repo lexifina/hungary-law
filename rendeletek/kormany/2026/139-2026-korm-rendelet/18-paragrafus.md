@@ -1,3 +1,3 @@
-18. § Az R. 47. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő d) ponttal egészül ki:
+18. §[^18]
 
-(A miniszter a rendészetért való felelőssége keretében előkészíti)
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

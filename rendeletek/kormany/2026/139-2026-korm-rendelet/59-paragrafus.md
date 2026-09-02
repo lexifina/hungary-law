@@ -1,11 +1,3 @@
-59. § (1) Az R. 145. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+59. §[^59]
 
-[A szociális és családügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
-
-## „b) – a 128/A. §-ban meghatározott kivétellel – családpolitikáért,”
-
-## [felelős tagja.]
-
-(2) Az R. 145. § (1) bekezdése a következő i) ponttal egészül ki:
-
-[A szociális és családügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^59]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-37. § Az R. 91. §-a helyébe a következő rendelkezés lép:
+37. §[^37]
 
-„91. § Az Európai Unió kibocsátáskereskedelmi rendszeréből származó árverési bevételek felhasználásáról – ideértve a közlekedések, épületek és kisipari létesítmények kibocsátáskereskedelmi rendszerből származó bevételeket is – a miniszter, a közlekedésért felelős miniszter és a klímapolitikáért felelős miniszter együttműködve gondoskodik.”
+[^37]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

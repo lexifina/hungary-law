@@ -1,3 +1,3 @@
-21. § Az R. 56. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő d) ponttal egészül ki:
+21. §[^21]
 
-[Az egészségügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-68. § Az R. 158. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+68. §[^68]
 
-(A miniszter a kultúráért való felelőssége keretében)
+[^68]: A 68. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

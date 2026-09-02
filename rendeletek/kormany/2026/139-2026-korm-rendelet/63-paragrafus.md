@@ -1,3 +1,3 @@
-63. § Az R. 152. § (2) bekezdése a következő d) ponttal egészül ki:
+63. §[^63]
 
-(A miniszter a szociálpolitikáért való felelőssége keretében)
+[^63]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

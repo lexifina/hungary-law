@@ -1,3 +1,3 @@
-72. § Az R. 17. alcíme a következő 168/A. §-sal egészül ki:
+72. §[^72]
 
-„168/A. § A miniszter a mesterséges intelligenciával kapcsolatos vállalkozásfejlesztési feladatok tekintetében a Kormány vállalkozásfejlesztésért felelős tagja.”
+[^72]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

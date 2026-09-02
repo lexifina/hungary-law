@@ -1,3 +1,3 @@
-7. § Az R. 21. § (2) bekezdése a következő f) ponttal egészül ki:
+7. §[^7]
 
-(A miniszterelnök nemzetbiztonsági főtanácsadója felelős)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

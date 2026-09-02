@@ -1,13 +1,3 @@
-79. § Az R. 17. alcíme a következő 175/A. §-sal egészül ki:
+79. §[^79]
 
-„175/A. § (1) A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége keretében előkészíti a köziratok kezelésére vonatkozó jogszabályokat.
-
-(2) A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége keretében
-
-a) ellenőrzi az iratkezelési szabályzatban foglaltak végrehajtását a kormányzati szerveknél,
-
-b) a közlevéltárak ellenőrzési tapasztalatait is felhasználva évente értékeli a közfeladatot ellátó szervek iratkezelésének helyzetét, az elektronikus iratkezelésre történő áttérés tapasztalatait,
-
-c) évente részletes szakmai tájékoztatót készít a közfeladatot ellátó szervek részére, az interneten a nyilvánosság részére folyamatos tájékoztatást nyújt az egységes iratkezelés gyakorlati végrehajtásának tapasztalatairól,
-
-d) az elektronikus iratkezelés egységes bevezetéséhez szükséges informatikai feltételrendszer megteremtése érdekében folyamatosan gyűjti, rendszerezi és elemzi a közfeladatot ellátó szervek iratkezelésének informatikai feltételrendszerére, infrastruktúrájára vonatkozó adatokat, valamint kidolgozza az elektronikus iratkezelés egységes bevezetéséhez kapcsolódó koncepciókat.”
+[^79]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

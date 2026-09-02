@@ -1,3 +1,3 @@
-53. § Az R. 13. alcíme a következő 128/A. §-sal egészül ki:
+53. §[^53]
 
-„128/A. § A miniszter a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény szerinti feladatok tekintetében a Kormány családpolitikáért felelős tagja.”
+[^53]: Az 53. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

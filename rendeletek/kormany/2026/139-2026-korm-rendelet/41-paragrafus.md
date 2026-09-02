@@ -1,3 +1,3 @@
-41. § Az R. 100. § (8) bekezdés b) pontja helyébe a következő rendelkezés lép:
+41. §[^41]
 
-(A miniszter az igazságügyért való felelőssége keretében ellátja az igazságszolgáltatással összefüggő kormányzati feladatokat, e tekintetben)
+[^41]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

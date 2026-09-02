@@ -1,13 +1,3 @@
-61. § Az R. 149. §-a helyébe a következő rendelkezés lép:
+61. §[^61]
 
-„149. § (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására vonatkozó jogszabályokat.
-
-(2) A miniszter a társadalmi felzárkózásért való felelőssége keretében
-
-a) felel a társadalmifelzárkózás-politika stratégiai kereteinek kialakításáért és koordinációjáért,
-
-b) felel a hátrányos helyzetű és roma gyermekek esélyteremtésének biztosításáért, a gyermekek esélyeit növelő szolgáltatásokért,
-
-c) együttműködve a vidékfejlesztésért felelős miniszterrel, felel a hátrányos térségekben élők társadalmi felzárkózásáért.
-
-(3) A miniszter a Biztos Kezdet Gyerekházak vonatkozásában kidolgozza a szolgáltatás nyújtására vonatkozó módszertant. A módszertan kidolgozásában a 128. § (1) bekezdés j) pontja szerinti kérdésben a miniszter együttműködik a gyermek- és ifjúságpolitikáért felelős miniszterrel.”
+[^61]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

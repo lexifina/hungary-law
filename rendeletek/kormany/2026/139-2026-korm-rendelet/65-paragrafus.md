@@ -1,3 +1,3 @@
-65. § Az R. 154. §-a helyébe a következő rendelkezés lép:
+65. §[^65]
 
-„154. § A miniszter – az egészségbiztosításért felelős miniszterrel együttműködve – ellátja a szociális biztonsági koordináció kormányzati összehangolásából adódó feladatokat.”
+[^65]: A 65. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

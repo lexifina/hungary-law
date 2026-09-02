@@ -1,3 +1,3 @@
-57. § Az R. 142. §-a a következő d) ponttal egészül ki:
+57. §[^57]
 
-(A miniszter a nyugdíjpolitikáért való felelőssége keretében)
+[^57]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

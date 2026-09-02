@@ -1,11 +1,3 @@
-40. § Az R. 97. § (1) bekezdése helyébe a következő rendelkezés lép:
+40. §[^40]
 
-„(1) Az igazságügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
-
-a) – a 8. § (3) bekezdésében foglalt kivétellel – igazságügyért,
-
-b) választójogi és népszavazási szabályozásért,
-
-c) kárpótlásért
-
-felelős tagja.”
+[^40]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

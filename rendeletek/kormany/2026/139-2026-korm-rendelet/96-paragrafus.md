@@ -1,75 +1,107 @@
 96. § Hatályát veszti az R.
 
-1. 6. § e) pont ed) alpontjában az „és a Védelmi Tanács” szövegrész,
+1.[^148]
 
-2. 26. § (1) bekezdés b) pontja,
+2.[^149]
 
-3. 26. § (2) bekezdés l) pontja,
+3.[^150]
 
-4. 28. § (1) bekezdés b) pontjában az „az állatok védelmére és kíméletére, valamint az ahhoz kapcsolódó hatósági feladatokra,” szövegrész,
+4.[^151]
 
-5. 28. § (2) bekezdés b) pontjában az „a 28. § (2) bekezdés a) pont aa) alpontjában foglaltak kivételével” szövegrész,
+5.[^152]
 
-6. 28. § (2) bekezdés d) pontjában az „– a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti élelmiszer-kereskedelem (a továbbiakban: élelmiszer-kereskedelem) kivételével –” szövegrész,
+6.[^153]
 
-7. 36. § (2) bekezdésében a „ , valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését” szövegrész,
+7.[^154]
 
-8. 37. §-a,
+8.[^155]
 
-9. 38. § a)–c) és k) pontja,
+9.[^156]
 
-10. 49. §-a,
+10.[^157]
 
-11. 58. § (1) bekezdés b) pontja,
+11.[^158]
 
-12. 64. § (3) bekezdése,
+12.[^159]
 
-13. 78. § c) pontja,
+13.[^160]
 
-14. 81. § (2) bekezdés c) pontjában az „ , amelynek során együttműködik az energiapolitikáért felelős miniszterrel” szövegrész,
+14.[^161]
 
-15. 82. § (2) bekezdés c) pontjában az „a nemzetközi pénzügyi kapcsolatokért felelős miniszterrel együttműködve” szövegrész,
+15.[^162]
 
-16. 86. § f), g), n) és o) pontja,
+16.[^163]
 
-17.[^19]
+17.[^164]
 
-18.[^20]
+18.[^165]
 
-19. 102. §-a,
+19.[^166]
 
-20. 104. §-a,
+20.[^167]
 
-21. 105. §-a,
+21.[^168]
 
-22. 119. §-a,
+22.[^169]
 
-23. 120. § (2) bekezdés j) pontja,
+23.[^170]
 
-24. 125. § (1) bekezdés b) pontjában az „– a felsőoktatásért felelős miniszterrel és a szakképzésért felelős miniszterrel együttműködésben –” szövegrész,
+24.[^171]
 
-25. 128. § (1) bekezdés c) pontja,
+25.[^172]
 
-26. 130. § (1) bekezdés 9. és 10. pontja,
+26.[^173]
 
-27. 132. §-a,
+27.[^174]
 
-28. 139. § (1) bekezdésében az „a lakásügyre, a lakásszövetkezetre, a lakásokra és” szövegrész,
+28.[^175]
 
-29. 150. § (1) bekezdés c) pontjában az „– az alacsony iskolai végzettségűek foglalkoztatásának elősegítése tekintetében a társadalmi felzárkózásért felelős miniszterrel együttműködve –” szövegrész,
+29.[^176]
 
-30. 150. § (2) bekezdésében az „– a közfoglalkoztatás és a foglalkoztatási rehabilitáció kivételével –” szövegrész,
+30.[^177]
 
-31. 151. § (2) bekezdés e) pontja,
+31.[^178]
 
-32. 164. § b) pontjában a „munkaügyi, foglalkoztatási,” és a „munkavédelmi,” szövegrész,
+32.[^179]
 
-33. 164. § c) pontjában a „figyelemmel kíséri a munkaügyi kapcsolatok és az érdekegyeztetés folyamatait, a munkaügyi viták és konfliktusok feloldásának rendjét, és” szövegrész,
+33.[^180]
 
-34. 171. § (2) bekezdés d) pontja,
+34.[^181]
 
-35.[^21]
+35.[^182]
 
-[^19]: A 96. § 17. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
-[^20]: A 96. § 18. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
-[^21]: A 96. § 35. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^148]: A 96. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^149]: A 96. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 96. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 96. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^152]: A 96. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: A 96. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^154]: A 96. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^155]: A 96. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: A 96. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^157]: A 96. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^158]: A 96. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: A 96. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^160]: A 96. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: A 96. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^162]: A 96. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 96. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 96. § 17. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
+[^165]: A 96. § 18. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
+[^166]: A 96. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^167]: A 96. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: A 96. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: A 96. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: A 96. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^171]: A 96. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: A 96. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^173]: A 96. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: A 96. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^175]: A 96. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^176]: A 96. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^177]: A 96. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: A 96. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: A 96. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^180]: A 96. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: A 96. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: A 96. § 35. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.

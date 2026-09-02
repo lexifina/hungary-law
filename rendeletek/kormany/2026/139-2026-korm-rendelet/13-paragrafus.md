@@ -1,9 +1,3 @@
-13. § Az R. a következő 29/A. §-sal egészül ki:
+13. §[^13]
 
-„29/A. § A miniszter a fogyasztóvédelemért való felelőssége keretében az élelmiszerek vonatkozásában
-
-a) meghatározza a belföldi forgalomba hozatal ellenőrzésének rendszerét,
-
-b) meghatározza a belföldi forgalomba hozatal irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját,
-
-c) kidolgozza a fogyasztóvédelmi politika koncepcióját, a fogyasztóvédelemmel kapcsolatos cselekvési és szakmai programokat, és figyelemmel kíséri azok végrehajtását.”
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

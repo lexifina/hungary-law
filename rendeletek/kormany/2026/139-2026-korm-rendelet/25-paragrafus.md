@@ -1,3 +1,3 @@
-25. § Az R. 60. § a)–g) pontja helyébe a következő rendelkezés lép:
+25. §[^25]
 
-[Az élő környezetért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

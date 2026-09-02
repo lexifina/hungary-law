@@ -1,127 +1,163 @@
 95. § Az R.
 
-1. 21. § (3) bekezdésben a „Tanács” szövegrész helyébe a „Kabinet” szöveg,
+1.[^95]
 
-2. 26. § (3) bekezdés b) pontjában az „EHA” szövegrész helyébe az „ETHAA” szöveg,
+2.[^96]
 
-3.[^2]
+3.[^97]
 
-4. 26. § (3) bekezdés h) pontjában a „koordinálásával” szövegrész helyébe a „koordinálásával, valamint az agrár-digitalizáció fejlesztésével” szöveg,
+4.[^98]
 
-5. 38. § j) pontjában a „gyermek- és ifjúságpolitikáért” szövegrész helyébe a „családpolitikáért” szöveg,
+5.[^99]
 
-6. 42. § (2) bekezdés d) pontjában a „védelmi” szövegrész helyébe a „védelmi és biztonsági” szöveg,
+6.[^100]
 
-7. 57. § (1) bekezdés a) pontjában az „az egészségügyi szakellátási kapacitásokra és az ahhoz kapcsolódó ellátási területekre,” szövegrész helyébe az „a várólistákra, az egészségügyi szakellátási kapacitásokra és az ahhoz kapcsolódó ellátási területekre, valamint a betegutakra,” szöveg,
+7.[^101]
 
-8. 58. § (1) bekezdés g) pontjában a „hozatalának” szövegrész helyébe a „hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának” szöveg,
+8.[^102]
 
-9. 61. § (2) bekezdés a) pontjában a „közjóléti” szövegrész helyébe a „kezeléséről és közjóléti” szöveg,
+9.[^103]
 
-10. 62. § (2) bekezdésében a „környezet” szövegrész helyébe a „biológiai sokféleség megőrzéséért, valamint a környezet” szöveg,
+10.[^104]
 
-11. 81. § (5) bekezdésében az „az iparügyekért” szövegrész helyébe az „a védelmi iparügyekért” szöveg,
+11.[^105]
 
-12. 85. § (1) bekezdésében a „miniszter” szövegrész helyébe a „miniszter – élelmiszerek vonatkozásában az agrár- és élelmiszergazdaságért felelős miniszterrel egyetértésben –” szöveg,
+12.[^106]
 
-13. 85. § (2) bekezdésében a „miniszter” szövegrész helyébe a „miniszter – a 29/A. §-ban meghatározott kivétellel –” szöveg,
+13.[^107]
 
-14. 86. § h) és i) pontjában az „irányításáért” szövegrész helyébe a „szakmai irányításáért” szöveg,
+14.[^108]
 
-15. 95. §-ában a „beszerzésekért” szövegrész helyébe a „központi beszerzésekért” szöveg,
+15.[^109]
 
-16.[^3]
+16.[^110]
 
-17. 99. § (2) bekezdés g) pontjában a „cégeljárásra,” szövegrész helyébe a „cégeljárásra, a civil szervezetek bírósági nyilvántartására,” szöveg,
+17.[^111]
 
-18. 99. § (2) bekezdés m) pontjában az „a köznevelési intézmény tag részvételével működő iskolaszövetkezet és a szociális szövetkezet” szövegrész helyébe az „egyes sajátos szövetkezetek” szöveg,
+18.[^112]
 
-19. 100. § (9) bekezdés b) pontjában az „ügyekért” szövegrész helyébe a „ügyek koordinációjáért” szöveg,
+19.[^113]
 
-20. 107. § (4) bekezdésében a „gazdasági tevékenységek közül az országos közutak és műtárgyaik létrehozására és működtetésére” szövegrész helyébe a „gazdasági tevékenységekre” szöveg,
+20.[^114]
 
-21. 109. § a) pontjában a „nemzetgazdasági szempontból kiemelt jelentőségű építési beruházásokra” szövegrész helyébe a „kiemelt beruházásokra” szöveg,
+21.[^115]
 
-22.[^4]
+22.[^116]
 
-23.[^5]
+23.[^117]
 
-24. 113. § (1) bekezdés b) pontjában a „közlekedésre,” szövegrész helyébe a „közlekedésre, közúti közlekedési igazgatásra,” szöveg,
+24.[^118]
 
-25. 113. § (2) bekezdés a) pontjában a „vasúti” szövegrész helyébe a „közúti és vasúti” szöveg,
+25.[^119]
 
-26. 120. § (1) bekezdés b) pontjában a „köztisztviselők” szövegrész helyébe a „kormánytisztviselők” szöveg,
+26.[^120]
 
-27. 120. § (2) bekezdés b) pont ba) alpontjában az „egységes külképviseleti rendszert, valamint” szövegrész helyébe az „integrált külképviseleti rendszert és annak szerves részeként” szöveg,
+27.[^121]
 
-28. 131. § (1) bekezdésében a „vagyonra,” szövegrész helyébe a „vagyonra és” szöveg,
+28.[^122]
 
-29. 131. § (2) bekezdés e) pontjában az „a tulajdonosi joggyakorlása alatt álló,” szövegrész helyébe az „a tulajdonosi joggyakorlása alatt álló” szöveg,
+29.[^123]
 
-30. 131. § (2) bekezdés e) pontjában a „vagy” szövegrész helyébe a „vagy a” szöveg,
+30.[^124]
 
-31. 135. § (2) bekezdés b) pontjában a „meghatározza” szövegrész helyébe a „meghatározhatja” szöveg,
+31.[^125]
 
-32. 148. § (2) bekezdés b) pontjában a „képzésével” szövegrész helyébe a „képzésével és humánszolgáltatásával” szöveg,
+32.[^126]
 
-33.[^6]
+33.[^127]
 
-34. 152. § (1) bekezdésében a „biztosító szolgáltatásokra vonatkozó,” szövegrész helyébe a „biztosító szolgáltatásokra, az akadálymentesítésre, továbbá a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelésre vonatkozó, valamint” szöveg,
+34.[^128]
 
-35. 156. § (1) bekezdésében a „díjjal,” szövegrész helyébe a „díjjal és” szöveg,
+35.[^129]
 
-36.[^7]
+36.[^130]
 
-37.[^8]
+37.[^131]
 
-38.[^9]
+38.[^132]
 
-39.[^10]
+39.[^133]
 
-40.[^11]
+40.[^134]
 
-41. 164. § a) pontjában a „vonatkozásában” szövegrész helyébe a „vonatkozásában, a 150. § (3) bekezdése szerinti kivétellel” szöveg,
+41.[^135]
 
-42.[^12]
+42.[^136]
 
-43.[^13]
+43.[^137]
 
-44.[^14]
+44.[^138]
 
-45. 188. § (1) bekezdésében a „jogszabályokat” szövegrész helyébe a „jogszabályt” szöveg,
+45.[^139]
 
-46.[^15]
+46.[^140]
 
-47. 195. § (3) bekezdésében a „társadalmi párbeszédért” szövegrész helyébe a „foglalkoztatáspolitikáért” szöveg,
+47.[^141]
 
-48.[^16]
+48.[^142]
 
-49.[^17]
+49.[^143]
 
-50. 22. alcím címében a „Tanács” szövegrész helyébe a „Kabinet” szöveg,
+50.[^144]
 
-51. 199. § (1) bekezdésében a „Tanács” szövegrész helyébe a „Kabinet” szöveg,
+51.[^145]
 
-52. 199. § (2) bekezdésében a „Tanács” szövegrészek helyébe a „Kabinet” szöveg,
+52.[^146]
 
-53.[^18]
+53.[^147]
 
 lép.
 
-[^2]: A 95. § 3. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^3]: A 95. § 16. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
-[^4]: A 95. § 22. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^5]: A 95. § 23. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^6]: A 95. § 33. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^7]: A 95. § 36. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^8]: A 95. § 37. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^9]: A 95. § 38. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^10]: A 95. § 39. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^11]: A 95. § 40. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^12]: A 95. § 42. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^13]: A 95. § 43. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^14]: A 95. § 44. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^15]: A 95. § 46. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^16]: A 95. § 48. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^17]: A 95. § 49. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^18]: A 95. § 53. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^95]: A 95. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 95. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 95. § 3. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^98]: A 95. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 95. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 95. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 95. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 95. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 95. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 95. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 95. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 95. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 95. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 95. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 95. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 95. § 16. pontja a 97. § (2) bekezdése alapján 2026. szeptember 7-én lép hatályba.
+[^111]: A 95. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 95. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 95. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 95. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 95. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 95. § 22. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^117]: A 95. § 23. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^118]: A 95. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 95. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 95. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 95. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 95. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 95. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 95. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 95. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 95. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 95. § 33. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^128]: A 95. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 95. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 95. § 36. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^131]: A 95. § 37. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^132]: A 95. § 38. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^133]: A 95. § 39. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^134]: A 95. § 40. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^135]: A 95. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 95. § 42. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^137]: A 95. § 43. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^138]: A 95. § 44. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^139]: A 95. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: A 95. § 46. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^141]: A 95. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 95. § 48. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^143]: A 95. § 49. pontja a 97. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^144]: A 95. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: A 95. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 95. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: A 95. § 53. pontja a 97. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-86. § Az R. 187. § (2) bekezdése a következő e) és f) pontokkal egészül ki:
+86. §[^86]
 
-(A miniszter a közigazgatás-szervezésért való felelőssége keretében)
+[^86]: A 86. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

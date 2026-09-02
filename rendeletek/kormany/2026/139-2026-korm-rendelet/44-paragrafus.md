@@ -1,3 +1,3 @@
-44. § Az R. 109. §-a a következő d) ponttal egészül ki:
+44. §[^44]
 
-(A miniszter az építésügyi szabályozásért és építéshatósági ügyekért való felelőssége keretében)
+[^44]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

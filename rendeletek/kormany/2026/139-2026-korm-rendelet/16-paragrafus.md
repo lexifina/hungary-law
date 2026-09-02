@@ -1,3 +1,3 @@
-16. § Az R. 35. §-a helyébe a következő rendelkezés lép:
+16. §[^16]
 
-„35. § A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert.”
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
