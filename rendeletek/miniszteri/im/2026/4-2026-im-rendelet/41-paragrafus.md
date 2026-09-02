@@ -1,5 +1,5 @@
 ## 5. A büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak letétjének kezeléséről és a birtokukban lévő külföldi fizetőeszközzel kapcsolatos eljárásról szóló 15/2014. (XII. 17.) IM rendelet módosítása
 
-41. §[^39]
+41. §[^42]
 
-[^39]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-12. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet „Jármű” alcíme a következő 72/B. §-sal egészül ki:
+12. §[^13]
 
-„72/B. § A feltételes nyilatkozatot a nyomozó hatóság megváltoztathatja és visszavonhatja, amelyet rögzíteni kell a KBR-ben.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

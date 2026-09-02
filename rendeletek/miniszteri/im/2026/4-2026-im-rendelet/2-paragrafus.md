@@ -1,3 +1,3 @@
-2. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 10/A. § (3) bekezdése a következő j)–l) ponttal egészül ki:
+2. §[^3]
 
-(A KBR a bűnjelet egyedileg, megváltoztathatatlanul azonosító egyedi bűnjelszámhoz rendelve rögzíti)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
