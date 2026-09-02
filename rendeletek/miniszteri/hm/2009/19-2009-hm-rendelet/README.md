@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-1
 | 2024-09-20 | 2009-19-20-15.28 | 19/2024. (IX. 19.) HM rendelet |
 | 2026-01-01 | 2009-19-20-15.29 | 17/2025. (XII. 29.) HM rendelet |
 | 2026-01-23 | 2009-19-20-15.30 | 10/2014. (VII. 25.) HM rendelet |
+| 2026-09-02 | 2009-19-20-15.31 | 7/2026. (VIII. 25.) HM rendelet |

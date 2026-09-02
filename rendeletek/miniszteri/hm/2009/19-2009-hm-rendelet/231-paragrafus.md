@@ -1,3 +1,3 @@
-231. §[^380]
+231. §[^378]
 
-[^380]: A 231. §-t az 1/2018. (I. 26.) HM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^378]: A 231. §-t az 1/2018. (I. 26.) HM rendelet 6. § b) pontja hatályon kívül helyezte.

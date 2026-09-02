@@ -1,16 +1,16 @@
-198. § (1)[^307] A munkáltatói kölcsön iránti kérelmet – rendszeresített formanyomtatványon – az állományilletékes parancsnokhoz (munkahelyi vezetőhöz) kell benyújtani, aki azt javaslatával ellátva továbbítja érdemi elbírálásra a lakáscélú támogatási szervhez.
+198. § (1)[^305] A munkáltatói kölcsön iránti kérelmet – rendszeresített formanyomtatványon – az állományilletékes parancsnokhoz (munkahelyi vezetőhöz) kell benyújtani, aki azt javaslatával ellátva továbbítja érdemi elbírálásra a lakáscélú támogatási szervhez.
 
 (2) A kérelemhez csatolni kell
 
 a) az elbírálás szempontjából lényeges tényeket és a kölcsön célját hitelesen igazoló iratokat, így különösen az adásvételi szerződést vagy előszerződést, jogerős hatósági engedélyt, költségvetést, ingatlan-nyilvántartási okiratot,
 
-b)[^308] a kinevezési, áthelyezési, vezénylési határozat (parancs, parancskivonat), munkaszerződés másolatát, valamint
+b)[^306] a kinevezési, áthelyezési, vezénylési határozat (parancs, parancskivonat), munkaszerződés másolatát, valamint
 
-c)[^309]
+c)[^307]
 
-d)[^310]
+d)[^308]
 
-[^307]: A 198. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés f) pontja, a 9/2021. (III. 2.) HM rendelet 24. § h) pontja szerint módosított szöveg.
-[^308]: A 198. § (2) bekezdés b) pontja a 10/2014. (VII. 25.) HM rendelet 40. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^309]: A 198. § (2) bekezdés c) pontját a 9/2021. (III. 2.) HM rendelet 24. § i) pontja hatályon kívül helyezte.
-[^310]: A 198. § (2) bekezdés d) pontját a 9/2021. (III. 2.) HM rendelet 24. § i) pontja hatályon kívül helyezte.
+[^305]: A 198. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés f) pontja, a 9/2021. (III. 2.) HM rendelet 24. § h) pontja szerint módosított szöveg.
+[^306]: A 198. § (2) bekezdés b) pontja a 10/2014. (VII. 25.) HM rendelet 40. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^307]: A 198. § (2) bekezdés c) pontját a 9/2021. (III. 2.) HM rendelet 24. § i) pontja hatályon kívül helyezte.
+[^308]: A 198. § (2) bekezdés d) pontját a 9/2021. (III. 2.) HM rendelet 24. § i) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-88. §[^207]
+88. §[^204]
 
-[^207]: A 88. §-t a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^204]: A 88. §-t a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés c) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-212. § (1)[^346] Lakásüzemeltetési hozzájárulás az arra jogosult hivatásos és szerződéses katona részére akkor állapítható meg, ha a 10. § (1) bekezdésében meghatározott igény mértékének felső határát legfeljebb egy lakószobával meghaladó nagyságú
+212. § (1)[^344] Lakásüzemeltetési hozzájárulás az arra jogosult hivatásos és szerződéses katona részére akkor állapítható meg, ha a 10. § (1) bekezdésében meghatározott igény mértékének felső határát legfeljebb egy lakószobával meghaladó nagyságú
 
 a) HM rendelkezése alatt lévő állami és önkormányzati, továbbá egyéb önkormányzati lakásban bérlőként (bérlőtársként) vagy a bérlő házastársaként, illetve az 5. § (1) bekezdés c) pontja szerinti feltételeknek megfelelő élettársaként,
 
@@ -20,10 +20,10 @@ meghaladja.
 
 (4) Amennyiben egy lakásban több arra jogosult személy lakik, a lakásüzemeltetési hozzájárulás csak egy személy részére állapítható meg.
 
-(5)[^347] Az állomány illetményben nem, de gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy ápolási díjban részesülő tagja esetében a lakásüzemeltetési hozzájárulásra való jogosultság megállapítása során illetménynek a díj, illetve az ellátás összegét kell tekinteni.
+(5)[^345] Az állomány illetményben nem, de gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy ápolási díjban részesülő tagja esetében a lakásüzemeltetési hozzájárulásra való jogosultság megállapítása során illetménynek a díj, illetve az ellátás összegét kell tekinteni.
 
-(6)[^348] A helyi lakásgazdálkodási szerv lakásüzemeltetési hozzájárulással kapcsolatos érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
+(6)[^346] A helyi lakásgazdálkodási szerv lakásüzemeltetési hozzájárulással kapcsolatos érdemi döntése ellen panaszt a HM központi lakásgazdálkodási szervhez lehet benyújtani.
 
-[^346]: A 212. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 21. §-ával megállapított, záró szövegrésze a 19/2024. (IX. 19.) HM rendelet 4. § 15. pontja szerint módosított szöveg.
-[^347]: A 212. § (5) bekezdése a 26/2016. (XII. 22.) HM rendelet 3. §-ával megállapított szöveg.
-[^348]: A 212. § (6) bekezdését a 10/2014. (VII. 25.) HM rendelet 45. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^344]: A 212. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 21. §-ával megállapított, záró szövegrésze a 19/2024. (IX. 19.) HM rendelet 4. § 15. pontja szerint módosított szöveg.
+[^345]: A 212. § (5) bekezdése a 26/2016. (XII. 22.) HM rendelet 3. §-ával megállapított szöveg.
+[^346]: A 212. § (6) bekezdését a 10/2014. (VII. 25.) HM rendelet 45. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.

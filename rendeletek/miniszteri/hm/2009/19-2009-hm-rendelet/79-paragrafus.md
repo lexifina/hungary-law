@@ -1,3 +1,3 @@
-79. §[^203]
+79. §[^200]
 
-[^203]: Az „Albérlet” alcímet (79–80. §-t) a 19/2024. (IX. 19.) HM rendelet 5. § 20. pontja hatályon kívül helyezte.
+[^200]: Az „Albérlet” alcímet (79–80. §-t) a 19/2024. (IX. 19.) HM rendelet 5. § 20. pontja hatályon kívül helyezte.

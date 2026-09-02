@@ -1,3 +1,3 @@
-168. §[^251]
+168. §[^248]
 
-[^251]: A 168. §-t a 22/2013. (X. 7.) HM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^248]: A 168. §-t a 22/2013. (X. 7.) HM rendelet 27. § b) pontja hatályon kívül helyezte.

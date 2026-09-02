@@ -4,6 +4,6 @@
 
 (3) A munkáltatói kölcsön visszafizetésének időtartama alatt – indokolt esetben és kérelemre – a törlesztés legfeljebb 2 éves időtartamra felfüggeszthető, ez esetben a futamidő változatlanul hagyása mellett a tartozás havi törlesztő összegét kell megnövelni.
 
-(4)[^291] A munkáltatói kölcsönből fennálló tartozás összegét elengedni – a 196–197. §-ban megállapított engedmények és kedvezmények, valamint a Hjt-ben foglaltak kivételével – nem lehet.
+(4)[^289] A munkáltatói kölcsönből fennálló tartozás összegét elengedni – a 196–197. §-ban megállapított engedmények és kedvezmények, valamint a Hjt-ben foglaltak kivételével – nem lehet.
 
-[^291]: A 192. § (4) bekezdése a 22/2013. (XII. 29.) HM rendelet 15. §-ával megállapított szöveg. [A 192. § (4) bekezdésben a 19/2024. (IX. 19.) HM rendelet 4. § 13. pontja által elrendelt módosítás, amely szerint a „kedvezmények, valamint a Hjt.-ben foglaltak” szövegrész helyébe a „kedvezmények” szöveg lép, nem vezethető át.]
+[^289]: A 192. § (4) bekezdése a 22/2013. (XII. 29.) HM rendelet 15. §-ával megállapított szöveg. [A 192. § (4) bekezdésben a 19/2024. (IX. 19.) HM rendelet 4. § 13. pontja által elrendelt módosítás, amely szerint a „kedvezmények, valamint a Hjt.-ben foglaltak” szövegrész helyébe a „kedvezmények” szöveg lép, nem vezethető át.]

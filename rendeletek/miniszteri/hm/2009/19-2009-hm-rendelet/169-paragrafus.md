@@ -1,10 +1,10 @@
-169. §[^252] (1) Szálló férőhely elhelyezést kaphat:
+169. §[^249] (1) Szálló férőhely elhelyezést kaphat:
 
 a) a hivatásos katona, a szerződéses katona a szolgálati hely szerinti településen vagy annak vonzáskörzetében, egy évet meg nem haladó időtartamú vezénylés esetén a szolgálatteljesítés helye szerinti településen;
 
-b)[^253] a honvédelmi szervezet állományába tartozó kormánytisztviselő, közalkalmazott és munkavállaló a munkahelye szerinti településen vagy annak vonzáskörzetében;
+b)[^250] a honvédelmi szervezet állományába tartozó kormánytisztviselő, közalkalmazott és munkavállaló a munkahelye szerinti településen vagy annak vonzáskörzetében;
 
-c)[^254]
+c)[^251]
 
 (2) Az (1) bekezdés a) pontjában megjelölt személyek
 
@@ -18,9 +18,9 @@ sorrendjében kaphatnak szálló férőhelyet, ha más lakhatási támogatásban
 
 (3) Az (1) bekezdés c) pontjában megjelölt személyek akkor kaphatnak szálló férőhelyet, ha a bérbeadás a hivatásos és szerződéses állományú katonák ellátását nem veszélyezteti.
 
-(4)[^255] Az (1) bekezdés a)–c) pontjában felsorolt személyek házastársa, élettársa, gyermeke, valamint a honvédelmi szervezet állományába nem tartozó egyéb személyek elhelyezéséről, az (5) bekezdésben foglalt kivétellel, a helyi lakásgazdálkodási szerv dönt.
+(4)[^252] Az (1) bekezdés a)–c) pontjában felsorolt személyek házastársa, élettársa, gyermeke, valamint a honvédelmi szervezet állományába nem tartozó egyéb személyek elhelyezéséről, az (5) bekezdésben foglalt kivétellel, a helyi lakásgazdálkodási szerv dönt.
 
-(5)[^256] A honvédelmi szervezet állományába nem tartozó személyek a központi lakásgazdálkodási szerv előzetes engedélyével kaphatnak a helyőrségi szállón elhelyezést, ha
+(5)[^253] A honvédelmi szervezet állományába nem tartozó személyek a központi lakásgazdálkodási szerv előzetes engedélyével kaphatnak a helyőrségi szállón elhelyezést, ha
 
 a) az elhelyezés időtartama meghaladja az egy hónapot, vagy
 
@@ -28,15 +28,15 @@ b) egy hónapot meg nem haladó elhelyezés esetén az együttesen elhelyezni k�
 
 (6) Az önkéntes tartalékos katona részére szálló férőhely a tényleges szolgálat időtartamára, a 172. § (2) bekezdésben meghatározott térítési díj ellenében adható bérbe, ha elhelyezése laktanyai szálláson nem oldható meg. A szállóelhelyezésről a helyi lakásgazdálkodási szerv vezetője dönt.
 
-(7)[^257] A honvédelmi szervezet állományába tartozó személy saját háztartásában eltartott gyermeke – a (8) bekezdésben foglalt kivétellel – csak az igényjogosulttal közösen, a helyőrségi szálló önálló WC-vel és fürdőhelyiséggel rendelkező lakóegységében helyezhető el. A honvédelmi szervezet állományába tartozó személy házastársa, élettársa a helyőrségi szállón csak akkor helyezhető el, ha ő az igényjogosult szolgálati vagy munkahelyén, továbbá annak a 7. § (4) bekezdése szerinti vonzáskörzetében nem rendelkezik beköltözhető lakás tulajdon- vagy bérleti jogával.
+(7)[^254] A honvédelmi szervezet állományába tartozó személy saját háztartásában eltartott gyermeke – a (8) bekezdésben foglalt kivétellel – csak az igényjogosulttal közösen, a helyőrségi szálló önálló WC-vel és fürdőhelyiséggel rendelkező lakóegységében helyezhető el. A honvédelmi szervezet állományába tartozó személy házastársa, élettársa a helyőrségi szállón csak akkor helyezhető el, ha ő az igényjogosult szolgálati vagy munkahelyén, továbbá annak a 7. § (4) bekezdése szerinti vonzáskörzetében nem rendelkezik beköltözhető lakás tulajdon- vagy bérleti jogával.
 
-(8)[^258]
+(8)[^255]
 
 (9) Alkalomszerűnek kell tekinteni azt a szállón történő eseti elhelyezést, amelynek időtartama nem haladja meg az öt éjszakát. Alkalomszerűen lehet elhelyezni a szállón
 
-a)[^259] a honvédelmi szervezet állományába tartozó személyt, amennyiben a szállást szolgálati úttal összefüggésben veszi igénybe;
+a)[^256] a honvédelmi szervezet állományába tartozó személyt, amennyiben a szállást szolgálati úttal összefüggésben veszi igénybe;
 
-b)[^260] a honvédelmi szervezet állományába tartozó személyt és hozzátartozóit, amennyiben a szállást utazással, rokoni vagy baráti látogatással összefüggésben veszi igénybe;
+b)[^257] a honvédelmi szervezet állományába tartozó személyt és hozzátartozóit, amennyiben a szállást utazással, rokoni vagy baráti látogatással összefüggésben veszi igénybe;
 
 c) a HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavégzésre kirendelt munkavállalóját.
 
@@ -44,12 +44,12 @@ c) a HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavég
 
 (11) A szálló férőhelyek elosztásáról a helyi lakásgazdálkodási szerv vezetője dönt. A helyőrségi szállók egységes házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a HM központi lakásgazdálkodási szerv vezetőjének jóváhagyásával teszi közzé.
 
-[^252]: A 169. § a 22/2013. (X. 7.) HM rendelet 10. §-ával megállapított szöveg.
-[^253]: A 169. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg. [A 169. § (1) bekezdés b) pontjának a 8/2020. (V. 27.) HM rendelet 5. § f) pontjával elrendelt módosítása, amely szerint a „közalkalmazotti” szövegrész helyébe a „honvédelmi alkalmazotti, közalkalmazotti” szöveg lép, nem vezethető át.]
-[^254]: A 169. § (1) bekezdés c) pontját a 19/2024. (IX. 19.) HM rendelet 5. § 21. pontja hatályon kívül helyezte.
-[^255]: A 169. § (4) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^256]: A 169. § (5) bekezdése a 10/2014. (VII. 25.) HM rendelet 35. §-ával megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^257]: A 169. § (7) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § o) pontja szerint módosított szöveg.
-[^258]: A 169. § (8) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 21. pontja hatályon kívül helyezte.
-[^259]: A 169. § (9) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^260]: A 169. § (9) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^249]: A 169. § a 22/2013. (X. 7.) HM rendelet 10. §-ával megállapított szöveg.
+[^250]: A 169. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg. [A 169. § (1) bekezdés b) pontjának a 8/2020. (V. 27.) HM rendelet 5. § f) pontjával elrendelt módosítása, amely szerint a „közalkalmazotti” szövegrész helyébe a „honvédelmi alkalmazotti, közalkalmazotti” szöveg lép, nem vezethető át.]
+[^251]: A 169. § (1) bekezdés c) pontját a 19/2024. (IX. 19.) HM rendelet 5. § 21. pontja hatályon kívül helyezte.
+[^252]: A 169. § (4) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^253]: A 169. § (5) bekezdése a 10/2014. (VII. 25.) HM rendelet 35. §-ával megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^254]: A 169. § (7) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § o) pontja szerint módosított szöveg.
+[^255]: A 169. § (8) bekezdését a 19/2024. (IX. 19.) HM rendelet 5. § 21. pontja hatályon kívül helyezte.
+[^256]: A 169. § (9) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^257]: A 169. § (9) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
