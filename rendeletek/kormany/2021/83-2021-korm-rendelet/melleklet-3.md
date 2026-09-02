@@ -120,7 +120,7 @@
 
 | 60. | Balatonfüredi Törvénykezési Hely elhelyezésének megvalósítása | Balatonfüred belterület 1552/1 helyrajzi számú ingatlan | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
-| 61. | Fiatalokért Központ kialakítása és kapcsolódó közmű- és útfejlesztési infrastrukturális fejlesztések, valamint Sukoró Község külterület Velencei-tóval érintett parti területeinek integrált fejlesztése | Sukoró külterület 018/1, 019/1, 019/3, 019/13, 021/5, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/9, 022/10, 022/11, 022/13, 022/14, 023, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2, 030/5, 030/6, 030/28, 030/29, 030/30, 032/5, 038/5, 039, 044 és 045 helyrajzi számú ingatlanok | Fejér Vármegyei Kormányhivatalt vezető főispán |
+| 61. |  |  |  |
 
 | 62. | A Budapesti Honvéd Sportegyesület létesítményfejlesztési programja („Honvéd Város Fejlesztési Program”) keretében a) meglévő sportlétesítmények és kiszolgáló épületek felújítása és korszerűsítése, b) új sportlétesítmények és sportinfrastruktúra létesítése, sporthotel és kollégium, sportóvoda, kapcsolódó kiszolgáló létesítmények építése, c) a telephelyek infrastruktúrájának fejlesztése. | Budapest XIII. kerület, belterület 27913/1, 27950/6 és 27999 helyrajzi számú ingatlanok Budapest III. kerület, belterület 23796/29 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 

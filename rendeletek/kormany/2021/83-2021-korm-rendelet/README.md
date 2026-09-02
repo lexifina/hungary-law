@@ -79,3 +79,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2025-12-30 | 2021-83-20-22.72 | 447/2025. (XII. 29.) Korm. rendelet |
 | 2026-01-01 | 2021-83-20-22.71 | 395/2021. (VII. 2.) Korm. rendelet |
 | 2026-04-01 | 2021-83-20-22.73 | 68/2026. (III. 23.) Korm. rendelet |
+| 2026-09-02 | 2021-83-20-22.74 | 493/2024. (XII. 31.) Korm. rendelet |
