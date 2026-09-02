@@ -2,14 +2,6 @@
 
 ## [2] A Kormány a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 41. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Emlékhely és Kegyeleti Bizottságról szóló 258/2010. (XI. 12.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „miniszterelnök általános helyettese (a továbbiakban: miniszterelnök-helyettes)” szövegrész helyébe a „kulturális örökség védelméért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-
-b) 2. § (2) bekezdésében a „miniszterelnök-helyetteshez” szövegrész helyébe a „miniszterhez” szöveg,
-
-c) 2. § (4) bekezdésében a „Miniszterelnökség” szövegrész helyébe a „miniszter által vezetett minisztérium” szöveg,
-
-d) 3. § (3) és (3a) bekezdésében a „miniszterelnök-helyettes” szövegrész helyébe a „miniszter” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
