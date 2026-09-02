@@ -28,25 +28,25 @@ c) HM rendelkezésű lakás bérleti jogát szerezte meg az R. 26. §-a alapján
 
 11. a támogatásban részesülő személyt időközben egy évet meghaladó időtartamú külföldi szolgálatra vezénylik feltéve, hogy családját az általa bérelt lakásban nem hagyja hátra;
 
-12. a hozzájárulásban részesülő személy egy évet meghaladó időtartamban vesz igénybe illetmény nélküli szabadságot, kivéve, ha arra gyermeke nevelése, személyes gondozása vagy közeli hozzátartozója személyes ápolása céljából kerül sor;
+12.[^59]
 
 13. a lakóingatlanra létrejött bérleti vagy lízingszerződés megszűnt;
 
 14. a támogatott személy hivatásos vagy szerződéses katonai szolgálati viszonya megszűnt;
 
-15.[^59] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
+15.[^60] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
 
-16.[^60] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervezettől utazási költségtérítésben nem részesül.
+16.[^61] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervezettől utazási költségtérítésben nem részesül.
 
 (2) Nem kell alkalmazni:
 
 a) az (1) bekezdés 2. pontját, ha a lakás az illetékes építésügyi hatóság megállapítása szerint emberi tartózkodásra alkalmatlan vagy az egészségre ártalmas, vagy a lakás tulajdonjogának megszerzésére öröklés útján, haszonélvezettel terhelten került sor és a haszonélvező a lakásban lakik;
 
-b)[^61]
+b)[^62]
 
-c)[^62]
+c)[^63]
 
-(3)[^63] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
+(3)[^64] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
 
 a) az állomány egyedülálló tagja esetében az áthelyezést követő 3. hónap utolsó napjával,
 
@@ -72,8 +72,9 @@ c) a haláleset bekövetkezésétől számított 6. hónap utolsó napjáig tov�
 [^56]: A 6. § (1) bekezdés 7. pontját a 9/2021. (III. 2.) HM rendelet 35. § c) pontja hatályon kívül helyezte.
 [^57]: A 6. § (1) bekezdés 8. pontja a 9/2021. (III. 2.) HM rendelet 35. § d) pontja szerint módosított szöveg.
 [^58]: A 6. § (1) bekezdés 10. pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
-[^59]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
-[^60]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
-[^61]: A 6. § (2) bekezdés b) pontját a 19/2024. (IX. 19.) HM rendelet 23. § a) pontja hatályon kívül helyezte.
-[^62]: A 6. § (2) bekezdés c) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
-[^63]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.
+[^59]: A 6. § (1) bekezdés 12. pontját a 7/2026. (VIII. 25.) HM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^60]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
+[^61]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
+[^62]: A 6. § (2) bekezdés b) pontját a 19/2024. (IX. 19.) HM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^63]: A 6. § (2) bekezdés c) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^64]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.

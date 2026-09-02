@@ -1,3 +1,3 @@
-52. §[^123]
+52. §[^125]
 
-[^123]: A 45–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 45–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
