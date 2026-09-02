@@ -1,4 +1,4 @@
-6/C. §[^26] (1) Az 1. mellékletben foglalt táblázat 25. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:25 mezőjében megjelölt telekre a beépítés szabályait és egyedi építési követelményeit a (2)–(8) bekezdés állapítja meg, azzal, hogy
+6/C. §[^19] (1) Az 1. mellékletben foglalt táblázat 25. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:25 mezőjében megjelölt telekre a beépítés szabályait és egyedi építési követelményeit a (2)–(8) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(8) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -64,4 +64,4 @@ d) az utcai telekhatáron álló épületek utca felöli földszinti részén ne
 
 e) új épületek esetén a lapostetős kialakítás engedélyezett.
 
-[^26]: A 6/C. §-t újonnan a 318/2024. (XI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^19]: A 6/C. §-t újonnan a 318/2024. (XI. 6.) Korm. rendelet 5. §-a iktatta be.

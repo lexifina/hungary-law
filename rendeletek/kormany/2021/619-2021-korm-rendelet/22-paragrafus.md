@@ -1,4 +1,4 @@
-22. §[^57] E rendeletnek a rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet módosításáról szóló 413/2025. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1a. mellékletben foglalt táblázat 10–13. sorát a Módr13. hatálybalépésekor[^58] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+22. §[^48] E rendeletnek a rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet módosításáról szóló 413/2025. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1a. mellékletben foglalt táblázat 10–13. sorát a Módr13. hatálybalépésekor[^49] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^57]: A 22. §-t a 413/2025. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^58]: A hatálybalépés időpontja 2025. december 23.
+[^48]: A 22. §-t a 413/2025. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^49]: A hatálybalépés időpontja 2025. december 23.
