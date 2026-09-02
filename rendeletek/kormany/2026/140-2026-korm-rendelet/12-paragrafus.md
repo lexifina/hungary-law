@@ -1,0 +1,1 @@
+12. § A 122/2017. (VI. 2.) Korm. rendelet, a 25/2021. (I. 28.) Korm. rendelet, valamint a 195/2021. (IV. 26.) Korm. rendelet rendelkezéseit az e rendelet hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben sem lehet alkalmazni.
