@@ -1,3 +1,3 @@
-7. § Az R. 16. §-a a következő (7) bekezdéssel egészül ki:
+7. §[^8]
 
-„(7) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

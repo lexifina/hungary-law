@@ -1,3 +1,3 @@
-4. § Az R. 9. §-a a következő (7) bekezdéssel egészül ki:
+4. §[^5]
 
-„(7) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

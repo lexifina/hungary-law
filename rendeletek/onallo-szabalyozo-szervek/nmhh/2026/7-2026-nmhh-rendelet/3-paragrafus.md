@@ -1,3 +1,3 @@
-3. § Az R. 8. §-a a következő (7) bekezdéssel egészül ki:
+3. §[^4]
 
-„(7) A vezetéknélküli szélessávú (a továbbiakban: WBB) helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

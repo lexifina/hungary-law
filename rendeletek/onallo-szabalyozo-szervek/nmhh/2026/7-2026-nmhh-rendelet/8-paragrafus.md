@@ -1,1 +1,3 @@
-8. § Az R. a 19. §-t követően a következő alcímmel egészül ki:
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

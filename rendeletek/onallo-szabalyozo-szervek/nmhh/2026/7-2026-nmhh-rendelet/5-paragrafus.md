@@ -1,3 +1,3 @@
-5. § Az R. 14. §-a a következő (6) bekezdéssel egészül ki:
+5. §[^6]
 
-„(6) A WBB helyi hálózatok rádióspektrum-lekötési díját és rádióspektrum-használati díját a 19/A. § alapján kell megállapítani.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
