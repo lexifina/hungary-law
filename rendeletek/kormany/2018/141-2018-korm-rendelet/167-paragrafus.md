@@ -1,0 +1,4 @@
+167. §[^581] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 275/2025. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr159.) megállapított 5/Q. § (16a)–(16c), (19a)–(19b) bekezdését, módosított 5/Q. § (1), (4), (17) és (19), (20) és (21), (23)–(26) bekezdését, továbbá 2. mellékletében foglalt táblázat 21. sorát, valamint 12. mellékletét a Módr159. hatálybalépésekor[^582] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^581]: A 167. §-t a 275/2025. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^582]: A hatálybalépés időpontja 2025. augusztus 19.

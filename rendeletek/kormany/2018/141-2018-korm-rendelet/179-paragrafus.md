@@ -1,0 +1,4 @@
+179. §[^605] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 64/2026. (III. 23.) Korm. rendelettel (a továbbiakban: Módr171.) megállapított 5/Q. § (14a) és (14b) bekezdését, valamint módosított 3. § (4) bekezdését, 5/Q. § (14) bekezdését, 2. és 12. mellékletét a Módr171. hatálybalépésekor[^606] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^605]: A 179. §-t a 64/2026. (III. 23.) Korm. rendelet 2. §-a iktatta be.
+[^606]: A hatálybalépés időpontja 2026. március 24.

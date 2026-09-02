@@ -1,4 +1,4 @@
-158. §[^583] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 491/2024. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr150.) megállapított 4/G. §-át és 2. mellékletében foglalt táblázat 136. sorát a Módr150. hatálybalépésekor[^584] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+158. §[^563] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 491/2024. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr150.) megállapított 4/G. §-át és 2. mellékletében foglalt táblázat 136. sorát a Módr150. hatálybalépésekor[^564] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^583]: A 158. §-t a 491/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^584]: A hatálybalépés időpontja 2025. január 1.
+[^563]: A 158. §-t a 491/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^564]: A hatálybalépés időpontja 2025. január 1.
