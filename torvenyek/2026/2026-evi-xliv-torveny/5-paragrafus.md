@@ -1,1 +1,1 @@
-5. § A felsőoktatási, kulturális és kapcsolódó törvények módosításáról szóló 2025. évi XCV. törvény 6. §-ának az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/J. § (6) bekezdését megállapító rendelkezése a „62/A. § (3) bekezdése szerinti” szövegrész helyett a „135/E. § (1) bekezdése szerinti” szöveggel lép hatályba.
+### 5. §
