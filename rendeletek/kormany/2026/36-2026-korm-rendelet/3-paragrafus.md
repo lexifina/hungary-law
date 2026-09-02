@@ -1,1 +1,3 @@
-3. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 27. § (2) bekezdésében az „iskolai törzslapok” szövegrész helyébe az „iskolai törzslapok vagy osztálynaplók” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
