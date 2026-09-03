@@ -1,7 +1,5 @@
 ## 2. A lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet módosítása
 
-4. § Hatályát veszti a lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet
+4. §[^5]
 
-a) 6. § (1) bekezdés 12. pontja,
-
-b) 7. § (3) bekezdésében a „ , 12.” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
