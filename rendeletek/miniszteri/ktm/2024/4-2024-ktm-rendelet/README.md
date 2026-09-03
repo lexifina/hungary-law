@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-4-20-9D
 | 2025-03-27 | 2024-4-20-9D.4 | 3/2025. (III. 26.) KTM rendelet |
 | 2025-12-12 | 2024-4-20-9D.5 | 9/2025. (XII. 11.) KTM rendelet |
 | 2026-01-01 | 2024-4-20-9D.6 | 9/2025. (XII. 11.) KTM rendelet |
+| 2026-09-03 | 2024-4-20-9D.7 | 3/2025. (III. 26.) KTM rendelet |
