@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1561-30
 | --- | --- | --- |
 | 2023-12-14 | 2023-1561-30-22.1 | 1561/2023. (XII. 14.) Korm. határozat |
 | 2023-12-15 | 2023-1561-30-22.2 | 2010. évi CXXX. törvény |
+| 2026-09-03 | 2023-1561-30-22.3 | 1288/2026. (IX. 3.) Korm. határozat |

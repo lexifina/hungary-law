@@ -8,14 +8,16 @@ b) a Magyar Honvédség állományából legfeljebb 30 fő (váltási időszakba
 
 c) a Magyar Honvédség állományából legfeljebb 60 fő (váltási időszakban 120 fő) az ALTHEA parancsnoki beosztásból fakadó feladatok ellátása érdekében az ALTHEA műveletben a parancsnoki feladatok befejezéséig részt vegyen;
 
-d) a Magyar Honvédség állományából legfeljebb 150 fő Tartalék Erő Magyarország területén történő készenléti szolgálat ellátásával aktiválást és lehívást követően legfeljebb 90 nap időtartamra az ALTHEA műveletbe kitelepítésre kerüljön;
+d)[^1] a Magyar Honvédség állományából legfeljebb 300 fő Tartalék Erő Magyarország területén történő készenléti szolgálat ellátásával aktiválást és lehívást követően legfeljebb 380 nap időtartamra az ALTHEA műveletbe kitelepítésre kerüljön;
 
-e) a Magyar Honvédség állományából a d) pont szerinti 150 főn túl további legfeljebb 150 fő Tartalék Erő Magyarország területén történő készenléti szolgálat ellátásával aktiválást és lehívást követően legfeljebb 90 nap időtartamra az ALTHEA műveletbe 2024. december 31-ig kitelepítésre kerüljön;
+e)[^2]
 
 f) – amennyiben a hadműveleti helyzet megköveteli – a Bosznia-Hercegovinában mint elsődleges alkalmazási körzetben települt magyar erők az elsődleges alkalmazási körzetükön kívül, a teljes balkáni műveleti területen alapfeladataitól eltérő, a balkáni katonai béketámogató műveletek céljait szolgáló feladatok ellátására átcsoportosításra kerüljenek;
 
 g) az ALTHEA-erők egységei Magyarország területén és légterében – legfeljebb a fent megjelölt erők feladata végrehajtásának végéig – átvonuljanak, átmenetileg állomásozzanak, ideértve az állomásozás ideje alatt ezen szervezetek felkészítését, valamint a tevékenységhez szükséges vezetési és logisztikai feladatok ellátását;
 
-2.[^1]
+2.[^3]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1288/2026. (IX. 3.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. pont e) alpontját az 1288/2026. (IX. 3.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
