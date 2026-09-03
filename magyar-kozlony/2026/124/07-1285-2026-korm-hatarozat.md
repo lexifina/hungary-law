@@ -1,0 +1,2419 @@
+# A Kormány 1285/2026. (IX. 3.) Korm. határozata
+
+Magyar Közlöny 2026. évi 124. szám, 2026. szeptember 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/OtXrwzu92fzh92jyObL76a91e387c9916/dokumentumok/8f20384aedc1c5542ecacf0180241338b89cd89d/letoltes)
+
+---
+
+A Kormány 1285/2026. (IX. 3.) Korm. határozata
+az Integritás Hatóság 2025. évre vonatkozó éves elemző integritásjelentésében megfogalmazott
+megállapításokkal kapcsolatos kormányzati álláspontról
+A Kormány
+1. megtárgyalta és elfogadta – figyelemmel az európai uniós költségvetési források felhasználásának ellenőrzéséről
+szóló 2022. évi XXVII. törvény 13. §-ában foglaltakra – az 1. melléklet (a továbbiakban: Melléklet) szerinti,
+az Integritás Hatóság 2025. évre vonatkozó éves elemző integritásjelentésében megfogalmazott megállapításokkal,
+ajánlásokkal kapcsolatos kormányzati álláspontot;
+2. felhívja a vidék- és településfejlesztési minisztert, hogy a Melléklet szerinti kormányzati álláspontot küldje meg
+az Integritás Hatóságnak, és a Nemzeti Fejlesztési Központ bevonásával gondoskodjon annak a www.palyazat.
+gov.hu oldalon történő közzétételéről;
+Felelős: vidék- és településfejlesztési miniszter
+Határidő: azonnal
+3. felhívja a vidék- és településfejlesztési minisztert, valamint a pénzügyminisztert, hogy az érintett szervezetek
+bevonásával gondoskodjon a Melléklet szerinti kormányzati álláspont Integritás Hatóság felé történő képviseletéről,
+valamint tegye meg az abban foglaltaknak megfelelő intézkedések végrehajtása érdekében szükséges lépéseket.
+Felelős: vidék- és településfejlesztési miniszter
+pénzügyminiszter
+érintett miniszterek
+Határidő: 2027. május 31.
+ Magyar Péter s. k.,
+ miniszterelnök
+
+1. melléklet az 1285/2026. (IX. 3.) Korm. határozathoz
+Az Integritás Hatóság 2025. évre vonatkozó éves elemző integritásjelentésében megfogalmazott
+megállapításokkal kapcsolatos kormányzati álláspont
+Ajánlás száma
+Az Integritás Hatóság által megfogalmazott
+javaslatok és ajánlások
+Kormányzati álláspont Kormányzati álláspont részletezése
+1. sz. ajánlás A tulajdonosi szemléletet megalapozó jogszabályi
+környezet megteremtése
+A Hatóság javasolja a hatályos magyar jogszabályokban
+egy koherens, egységes, az államháztartási,
+támogatáspolitikai és közbeszerzési jogterületre
+is kiterjedő elméleti keretrendszer megalkotását
+a gazdaságosság, a hatékonyság és az eredményesség
+elveinek fogalmi tisztázásával és az ezen elveket
+tartalommal feltöltő tételes jogi szabályok
+megalkotásával.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány álláspontja szerint a hatályos jogi keretek alapvetően megfelelő eszközöket biztosítanak az integritásirányítás és
+a belső kontrollrendszer működtetéséhez. Ugyanakkor azok fejlesztése a lentiek szerint indokolt lehet.
+A szabályozás eredményességének értékelése során ugyanakkor szükséges elkülöníteni egymástól a jogi keretek alapvető
+megfelelőségét és azok végrehajtási gyakorlatát. Az integritásvédelem hatékonyságát nem kizárólag a szabályozás tartalma
+határozza meg, hanem legalább ilyen mértékben annak következetes végrehajtása, a vezetői felelősség érvényesülése,
+a szervezeti kultúra, a belső kontrollmechanizmusok tényleges működése és a hatékony számonkérhetőség biztosítása.
+A Kormány álláspontja szerint a szabályozási környezet fejlesztése során irányadóak a jogalkotás szakmai követelményei,
+különösen a szükségesség, az arányosság, az előzetes és utólagos hatásvizsgálaton alapuló döntéshozatal, a jogbiztonság,
+valamint a jobb szabályozás (Better Regulation) – az Európai Bizottság által is következetesen alkalmazott – alapelvei.
+Ennek megfelelően új szabályozási megoldások bevezetésére kizárólag objektív tényfeltárásra, bizonyítékokon alapuló
+szakmai elemzésre és átfogó hatásvizsgálatra építve indokolt javaslatot tenni.
+A Kormány álláspontja szerint az Eufetv. céljával is összhangban áll az a megközelítés, amely az Integritás Hatóság
+ajánlásainak értékelése során a tényszerűségre, a bizonyítékokon alapuló szakpolitikai elemzésre és a tényleges gyakorlati
+hatások vizsgálatára helyezi a hangsúlyt.
+A jó kormányzás, a közpénzekkel való felelős gazdálkodás, az átláthatóság és a közbizalom erősítése elsősorban a meglévő
+jogi keretek következetes alkalmazásával, nem pedig önmagában új szabályozási kötelezettségek megalkotásával érhető el.
+Intézkedés: A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt,
+és felhívja a pénzügyminisztert, hogy végezze el a meglévő szabályozás koherenciájának áttekintését, a fogalomhasználat
+és módszertan egységesítését, valamint a gyakorlati alkalmazás értékelését, és a feltárt problémák által igazolt körben,
+amennyiben szükséges, tegyen javaslatot jogszabály-módosításra.
+
+2. sz. ajánlás A tulajdonosi szemlélet érvényesítése
+a közbeszerzési eljárások előkészítése során
+A Hatóság javasolja olyan jogszabályi szinten
+– adott esetben bizonyos értékhatárt meghaladó
+közbeszerzési eljárások esetében – kötelezni
+az ajánlatkérőket dokumentált helyzet- és piacfelmérés
+elvégzésére, amelynek keretében biztosítható
+a becsült érték piaci árakat tükröző meghatározása,
+és megfelelően alátámasztott lehet az alkalmazott
+beszerzési konstrukció gazdasági indokoltsága.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány egyetért a közbeszerzési eljárások lehető legalaposabb előkészítésével és az Integritás Hatóság arra vonatkozó
+értékelésével, hogy az alkalmazott beszerzési konstrukció gazdasági indokoltságának megfelelő alátámasztottsága
+rendkívül lényeges. Ugyanakkor a Kormány álláspontja szerint az ezt szolgáló, erre vonatkozóan szükséges normák,
+részletszabályok jelenleg is rendelkezésre állnak, pl. Kbt. 28. § (1)–(2) bekezdés, 46. § (1) bekezdés szerint kötelező
+a becsült érték meghatározása és annak dokumentálása. Továbbá ezt a célt szolgálja a 63/2022. (II. 28.) Korm. rendelet,
+amely meghatározza az előzetes piaci konzultáció kötelező eseteit és módját. A Kormány álláspontja szerint
+az ajánlatkérő a becsült érték meghatározásának módszerét az adott beszerzés körülményeinek függvényében kell, hogy
+megválassza – erre ad felhatalmazást a Kbt. jelenlegi szabályozása is –, ezért valamely módszer (helyzet- és piacfelmérés)
+kizárólagosan kötelezővé tétele aránytalan terhet eredményezne az ajánlatkérők számára, és nem minden esetben
+lenne alkalmazható, vagy érné el vele az ajánlatkérő a kívánt célt. A gyakorlat segítése érdekében a Nemzeti Fejlesztési
+Központ 2024 novemberében útmutatót tett közzé a közbeszerzéshez kapcsolódó piacismeret megszerzése és a piaccal
+való kapcsolattartás eszközeiről. Az útmutatót az 1106/2026. (III. 23.) Korm. határozat 2. pont c) alpontja értelmében
+2026. évben ki kell egészíteni. Rendelkezésre áll továbbá a Közbeszerzési Hatóság keretében működő Tanács útmutatója is
+a közbeszerzési eljárások előkészítésével kapcsolatban.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint a jelenlegi szabályozás jogszabályi szintje megfelelően tartalmazza a szükséges
+előírásokat. A gyakorlat továbbfejlesztésére a Kormány továbbra is a vonatkozó„soft law”eszközökkel, útmutatások
+továbbfejlesztésében, edukációban látja a továbblépés lehetséges eszközét.
+3. sz. ajánlás A becsült érték meghatározásának újraszabályozása
+A Hatóság javasolja, hogy a Kormány vizsgálja meg
+a becsült érték meghatározására vonatkozó,
+a Kbt. 28. § (2) bekezdésében meghatározott módszerek
+felülvizsgálatának szükségességét annak érdekében,
+hogy a közbeszerzési eljárások becsült értéke
+hatékonyabban tükrözze a piaci árakat.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány egyetért a becsült érték lehető legpontosabb meghatározásával, és az Integritás Hatóság arra vonatkozó
+értékelésével, hogy a becsült értéknek minél hatékonyabban tükröznie kell a piaci árakat. A Kormány álláspontja szerint ezt
+szolgálja a hatályos szabályozás is, pl. Kbt. 28. § (2) bekezdés, 16. § (1) bekezdés szerint becsült értékként az adott piacon
+általában kért vagy kínált ellenszolgáltatást kell objektív módszerrel megállapítani.
+A Kormány álláspontja szerint az ajánlatkérő a becsült érték meghatározásának módszerét az adott beszerzés
+körülményeinek függvényében kell, hogy megválassza. A Kormány szerint az ajánlás elsősorban nem jogalkotási eszközzel
+kezelhető, a gyakorlati jogalkalmazás fejlesztése nyomán lehet a célt elérni.
+Intézkedés: A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt,
+és nyitott az ezzel kapcsolatos részletes egyeztetésekre, így felkéri az Integritás Hatóságot, hogy ismertesse a becsült érték
+meghatározására szolgáló további módszerekre vonatkozó konkrét javaslatait.
+
+4. sz. ajánlás Központi benchmark és adatrendszer kialakítása
+A Hatóság javasolja egy központi, adatalapú,
+egységárakra vonatkozó benchmarkrendszer és
+piacelemzést segítő adatbázis létrehozását, amely
+az ellenőrző szervezetek és ajánlatkérők számára
+hozzáférhetővé teszi az egyes beszerzési tárgyak
+összehasonlítható árait, a tipikus költségstruktúrákat,
+valamint az egyes piaci szegmensek főbb adatait,
+szereplőit és jellemzőit. Bár ezen adatbázisok nem
+fedhetik le a közbeszerzési piac teljességét az egyes
+beszerzési igények és mikropiacok egyedi jellemzői
+okán, a Hatóság saját vizsgálati tapasztalatai alapján
+a leggyakoribb beszerzések és a legnagyobb értékű
+szektorok esetében megvalósíthatónak látja ezen
+feladatokat.
+A Kormány a javaslattal
+részben egyetért.
+A Központi Statisztikai Hivatal arról adott tájékoztatást, hogy az ajánlásban megfogalmazott benchmarkrendszer
+kialakítását szakmailag megvalósíthatónak tartja, ugyanakkor annak egyes elemeihez a KSH eltérő mértékben tud
+hozzájárulni. A KSH alapvetően statisztikai célú, aggregált információkat állít elő, tevékenységének fókuszában nem
+az egyedi tranzakciók vagy beszerzések árszintjének megítélése áll. Az árstatisztikai adatgyűjtések jelentős része emellett
+elsősorban az árváltozás mérésére irányul, és nem közvetlen árszint-referencia előállítását szolgálja.
+Az ajánlásban nevesített összehasonlítható árak tekintetében egyes jól körülhatárolható termék- és munkatételcsoportok
+esetében a KSH rendelkezik hasznosítható adatokkal. A piaci szegmensek főbb adatainak és jellemzőinek bemutatását
+a KSH aggregált gazdaságstatisztikai információi ugyancsak támogathatják. A tipikus költségstruktúrák meghatározásához
+ugyanakkor a KSH jelenlegi adatgyűjtési rendszerében általánosan nem áll rendelkezésre megfelelő részletezettségű
+információ.
+Az összehasonlítható árakhoz kapcsolódóan egyes építési munkatételeknél kellően nagy számú ármegfigyelés
+áll rendelkezésre ahhoz, hogy megfelelő statisztikai feldolgozás mellett aggregált referenciaárak vagy ellenőrző
+ártörzsek legyenek kialakíthatók. Ez különösen egyes épületekhez, utakhoz, vasutakhoz és közművekhez kapcsolódó,
+jól körülhatárolható munkatételeknél lehet releváns.
+Egyes standardizálható ipari és importtermékek esetében emellett rendelkezésre állnak olyan érték- és mennyiségi adatok,
+amelyekből aggregált egységértékek képezhetők, és ezek megfelelő körülmények között külső ellenőrző referenciaként
+használhatók.
+A KSH a tájékoztatásában kiemeli, hogy szakmai álláspontja szerint az így képzett referenciaértékek önmagukban
+nem alkalmasak egy konkrét közbeszerzési ár automatikus minősítésére, azok elsősorban ellenőrző jelzőszámként
+(red flag) használhatók. Alkalmazhatóságuk minden esetben az adott termék- vagy szolgáltatási kör homogenitásától,
+a rendelkezésre álló adatok részletezettségétől és minőségétől, valamint az összehasonlíthatóság biztosíthatóságától függ.
+A Kormány (a Közlekedési és Beruházási Minisztérium útján) jelenleg vizsgálja a 2024. évi LXXIV. törvény 68. alcímében
+meghatározott költségellenőrzési eljárást, valamint az állami beruházások költségellenőrzésének részletes szabályairól
+szóló 8/2025. (V. 12.) Korm. rendeletet, párhuzamosan az Ábtv. felülvizsgálatával. Ennek nyomán olyan költségellenőrzési
+rendszert kíván kiépíteni, amely a valós piaci árak és folyamatok alapján ott avatkozik be a költségek megfelelő szinten
+tartásába, ahol az a leghatékonyabban elérhető. Így a Kormány már a beruházások becsült értékének meghatározása
+során, valamint a tervezési szakaszban is fontosnak tartja a költségek megfelelő ellenőrzését. Ehhez elengedhetetlen
+a valós piaci árak ismerete is. A Kormány minden olyan kezdeményezést támogat, amely a beruházások piaci áron történő
+megvalósítását szolgálják, és biztosítják, hogy az esetleges többletköltségek a beruházások teljesítése során is a piaci
+áraknak megfelelően alakuljanak.
+Intézkedés: A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele
+iránt, és nyitott az ezzel kapcsolatos részletes egyeztetésekre, így felkéri az Integritás Hatóságot és a Központi Statisztikai
+Hivatalt, hogy az ajánlás keretébe tartozó lehetséges intézkedések megvalósíthatóságáról közvetlenül folytassanak le
+egyeztetést.
+
+5. sz. ajánlás A központi benchmarkrendszerhez szükséges
+strukturált adatgyűjtés és a kapcsolódó
+EKR-fejlesztések
+A Hatóság javasolja előírni valamennyi ajánlati
+egységár strukturált adatbázisban történő rögzítését
+az elemezhetőség érdekében, amelyhez kapcsolódóan
+szükséges elvégezni továbbá a strukturált adatgyűjtés
+előfeltételét jelentő informatikai fejlesztéseket is
+az EKR-ben.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt,
+és a Kormány megítélése szerint is hasznos lenne, ha lehetséges lenne összehasonlítható fajlagos egységár adatokat
+kinyerni a közbeszerzési szerződésekből.
+A Kormány megítélése szerint ugyanakkor az Integritás Hatóság által tett konkrét megoldási javaslat megvalósíthatósága
+nem alátámasztott. A 2014/24/EU irányelv 36. cikke szerint az elektronikus katalógusok használatát a tagállamok
+nem tehetik általánosan kötelezővé; a 22. cikk értelmében az EKR célja a közbeszerzési kommunikáció elektronikus úton
+történő biztosítása, nem pedig egységár adatbázisok üzemeltetése. Egységár adatok statisztikai célú megadásának előírása
+aránytalanul növelné a közbeszerzésekben részt vevők adminisztratív terheit, továbbá üzleti titkot képező egységárak
+esetén eleve nem lehetséges, mivel a 2014/24/EU irányelv 21. cikke értelmében az ajánlatkérő szerv nem hozhat
+nyilvánosságra olyan, a részére gazdasági szereplők által megadott adatokat, amelyeket azok bizalmasnak minősítettek,
+ideértve, de nem kizárólagosan a műszaki vagy üzleti titkokat és az ajánlatok bizalmas vonatkozásait. Átlagos statisztikai
+áradatok konkrét beszerzési árakkal történő összevetésre eleve nem lennének automatikusan alkalmasak az egyedi
+körülmények árbefolyásoló hatásai miatt.
+A fentiek miatt a Kormány – noha egyetért az ajánlás céljával, és azzal, hogy a közbeszerzési egységár adatbázis
+nagymértékben segítené az ajánlatkérők munkáját – jelenleg nem látja az ajánlás konkrét megvalósíthatóságát
+biztosítottnak az adatbázis felépítéséhez és folyamatos aktualizálásához szükséges strukturált adatok hiánya miatt.
+Ugyanakkor folyamatosan vizsgálja annak lehetőségét, hogy akár az építési beruházások előkészítése és megvalósítása
+körében rendelkezzen összehasonlítható piaci adatokkal. Erre vonatkozóan az Ábtv. és a költségellenőrzésre vonatkozó
+jogszabályok felülvizsgálata során is kiemelet figyelmet fordít.
+6.1. sz. ajánlás Az értékhatár alatti beszerzések helyzetének
+rendezése
+A Hatóság javasolja, hogy a Kormány írjon elő
+közzétételi vagy adatszolgáltatási kötelezettséget
+az értékhatár alatti beszerzések tekintetében
+a hatáskörrel rendelkező ellenőrző szervek
+feladatellátásának támogatása érdekében. Ebben
+a körben érdemes megfontolni a közzétételi
+kötelezettség összehangolását az információs
+önrendelkezési jogról és az információszabadságról
+szóló 2011. évi CXII. törvény rendelkezéseivel,
+amely szerint az ötmillió forintot meghaladó értékű
+szerződésekre vonatkozó alapadatokat – a törvényben
+foglalt kivételi körök figyelembevétele mellett –
+mindenképpen közzé kell tenni.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+a Kormány megítélése szerint is rendkívül lényeges, hogy a közbeszerzési értékhatár alatti szerződések megfelelő
+transzparenciája érvényesüljön a gyakorlatban. A Kormány megítélése szerint ugyanakkor az Integritás Hatóság által tett
+konkrét megoldási javaslat nem a leghatékonyabb eszköz az adott cél megvalósítása érdekében.
+Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 37. §-a, valamint
+37/C. §-a (amelyet a 2026. évi XVIII. törvény módosított) már előírja az ötmillió forintot elérő vagy meghaladó szerződések
+adatainak közzétételét, ezért további párhuzamos közzététel előírása nem szükséges. A hatáskörrel rendelkező ellenőrző
+szervek a rájuk vonatkozó jogszabályok alapján ezen felül is jogosultak meghatározott adatokhoz való hozzáférésre, azok
+bekérésére.
+A Kormány elkötelezett a 2011. évi CXII. törvény szerinti adatnyilvánosság gyakorlati biztosítása iránt, és mivel ezek lefedik
+az ajánlás szerinti adatokat is, újabb, párhuzamos közzétételi kötelezettség a Kormány számára nem látszik okszerűnek.
+A Kormány az ajánlás mögött álló cél megvalósítását olyan megoldással tartaná indokoltnak, amely ténylegesen javítja
+az átláthatóságot vagy az ellenőrizhetőséget, azonban nem hoz létre további vagy duplikált adatrögzítési kötelezettséget.
+A Kormány természetesen ezen a téren is nyitott az Integritás Hatósággal további tapasztalatcserére.
+
+6.2. sz. ajánlás Az értékhatár alatti beszerzések helyzetének
+rendezése
+A Hatóság javasolja továbbá, hogy a fenti javaslat
+nyomán rendelkezésre álló adatok alapján a Kormány
+készítsen elemzést arról, hogy az értékhatár alatti
+beszerzésekre vonatkozó részletszabályok hiánya
+megfelel-e a közpénzekkel való felelős gazdálkodás
+elvének, és indokolt-e ezen területet újra részletes jogi
+szabályozás alá vonni. A Hatóság fontosnak tartja ebben
+a körben az alábbi szempontok figyelembevételét:
+– Megfontolásra érdemes annak a vizsgálata,
+hogy bizonyos esetekben (például támogatásból
+megvalósuló beszerzések vagy bizonyos érték feletti
+beszerzések esetén) az ajánlatkérők számára célszerű-e
+kötelezettségként előírni a beszerzési eljárás EKR-ben
+történő lefolytatását, amelyre az EKR jelenleg is
+lehetőséget biztosít (a beszerzési/kivételi eljárások
+modulban). Ehhez kapcsolódóan indokolt lehet
+az ajánlatkérők EKR rendszerhasználati díj alóli
+mentesítése.
+– Fontos szem előtt tartani bármely új eljárási
+szabályrendszer bevezetése esetén az ajánlatkérőkre
+rótt adminisztratív terheket az alacsonyabb szerződéses
+értékre tekintettel.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+a Kormány megítélése szerint is rendkívül lényeges, hogy a közbeszerzési értékhatár alatti szerződéseknél is érvényesüljön
+a felelős gazdálkodás a gyakorlatban. A Kormány megítélése szerint ugyanakkor az Integritás Hatóság által tett konkrét
+megoldási javaslat nem a leghatékonyabb eszköz az adott cél megvalósítása érdekében.
+Az Országgyűlés 2021. január 1-jétől hatályon kívül helyezte a Kbt. 4. § (3) bekezdését, valamint 198. § (1) bekezdés
+20. pontját, a Kormány hatályon kívül helyezte a 459/2016. (XII. 23.) Korm. rendeletet, így a közbeszerzési értékhatárok
+alatti értékű beszerzések megvalósítására és ellenőrzésére már nincsenek külön szabályok. A közbeszerzési értékhatárok
+alatti beszerzések és azok ellenőrzése jelenleg is több szempontból szabályozott terület, l. pl. 2011. évi CXCV. törvény (Áht.)
+37. §, 61. §; 2009. évi CXXII. törvény (Takarékos tv.) 7/J. §; 256/2021. (V. 18.) Korm. rendelet 214–215. §; 2013. évi V. törvény
+(Ptk.) 6:74–76. §. Az EKR, valamint a https://www.palyazat.gov.hu/informacio/e-beszerzes felület jelenleg is rendelkezésre áll
+a beszerzések közzétételére, ezek használatát a Kormány továbbra is biztosítja.
+A Kormány álláspontja szerint újabb szabályozás bevezetése az ajánlás szerinti tartalommal nem indokolt, a felelős
+gazdálkodási döntések meghozatalának fontosságában a Kormány természetesen egyetért az Integritás Hatósággal,
+de ezt nem feltétlenül az ajánlás szerinti adminisztratív megoldással látja előmozdíthatónak. A Kormány rögzíti, hogy
+az ajánlatkérők értékhatár alatti beszerzéseinek megvalósítása során, amelyek érintik az uniós Egységes Piac működését,
+természetesen figyelemmel kell lenni az Európai Unió Működéséről szóló Szerződés alapelveinek gyakorlati érvényesítésére
+(különösen áruk és szolgáltatások szabad áramlása, egyenlő bánásmód és átláthatóság).
+7.1. sz. ajánlás Az ellenőrzés fokozása és a transzparencia
+biztosítása a kivételi körbe tartozó szerződések
+tekintetében
+Az ellenőrző szervek fokozzák az ellenőrzési
+tevékenységüket a kivételi körbe tartozó szerződések
+vonatkozásában, kiemelt figyelemmel a Kbt. 9. §
+(8) bekezdés a) pontja és a Kbt. 111. § g) pontja szerinti
+kivételi körökre.
+A Kormány a javaslattal
+egyetért.
+A Kormány elkötelezett az ajánlás szerinti ellenőrzések fontossága mellett, az ellenőrző szervek a feladatukat
+a jogszabályoknak megfelelően folyamatosan ellátják, a Kormány részéről külön intézkedés szükségessége nem
+azonosítható.
+Az Állami Számvevőszék arról tájékoztatta a Kormányt, hogy az említett beszerzések vonatkozásában az ellenőrzési
+tevékenység fokozása megfelelő eszköz lehet a közbeszerzési szabályozás garanciális rendelkezéseinek korlátozott
+alkalmazhatóságából fakadó esetleges integritási kockázatok mérséklésére. Az ÁSZ ellenőrzési tevékenységét
+a rá vonatkozó jogszabályi keretek között kockázatelemzéssel támogatott tervezés és önálló módszertan alapján végzi,
+így a Kbt. kivételi szabályai alapján létrejött szerződések e kockázatelemzés eredménye alapján válhatnak vizsgálat
+tárgyává, mely kockázatelemzés során értékelésre kerülnek a szóban forgó ügyletekkel kapcsolatos fokozottabb kockázati
+tényezők is.
+A Kormányzati Ellenőrzési Hivatal arról tájékoztatta a Kormányt, hogy a KEHI a kormányzati ellenőrzési tevékenysége
+során a folyamatban lévő vizsgálatai során kiemelt figyelmet fordít a Kbt. fenti rendelkezéseiben említett beszerzések
+jogszerűségének ellenőrzésére, és ennek megfelelően fog eljárni az elkövetkezendő időszakban induló vizsgálatai
+esetében is. A Kormányzati Ellenőrzési Hivatalról szóló 255/2011. (XII. 30.) Korm. rendelet 11. § (1) bekezdése alapján
+elkészítendő éves ellenőrzési terv összeállítása során a KEHI a fenti szempontokat figyelembe veszi, és az ellenőrzési
+kapacitásai függvényében az említett beszerzések mintavételes ellenőrzését is lefolytatja.
+
+7.2. sz. ajánlás Az ellenőrzés fokozása és a transzparencia
+biztosítása a kivételi körbe tartozó szerződések
+tekintetében
+Kerüljön sor az EKR-ben történő közzétételi
+kötelezettség előírásának beemelésére a törvényi
+szabályozásba legalább a Kbt. 9. § (8) bekezdés
+a) pontjában és a Kbt. 111. § g) pontjában nevesített
+kivételi körök alapján kötött szerződések tekintetében.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+a Kormány megítélése szerint is rendkívül lényeges, hogy a kivételi körbe szerződések megfelelő transzparenciája
+érvényesüljön a gyakorlatban. A Kormány megítélése szerint ugyanakkor az Integritás Hatóság által tett konkrét megoldási
+javaslat nem a leghatékonyabb eszköz az adott cél megvalósítása érdekében.
+Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 37. §-a, valamint 37/C. §-a
+már előírja az ötmillió forintot elérő vagy meghaladó szerződések adatainak közzétételét. A Kormány elkötelezett
+a 2011. évi CXII. törvény szerinti adatnyilvánosság gyakorlati biztosítása iránt, és mivel ezek lefedik az ajánlás szerinti
+adatokat is, újabb, párhuzamos közzétételi kötelezettség a Kormány számára nem látszik okszerűnek. A Kormány az ajánlás
+mögött álló cél megvalósítását olyan megoldással tartaná indokoltnak, amely ténylegesen javítja az átláthatóságot
+vagy az ellenőrizhetőséget, azonban nem hoz létre további vagy duplikált adatrögzítési kötelezettséget. A Kormány
+természetesen ezen a téren is nyitott az Integritás Hatósággal további tapasztalatcserére.
+8.1. sz. ajánlás Hirdetmény nélküli tárgyalásos eljárásokkal
+kapcsolatos diszfunkciók kezelése
+A Hatóság javasolja, hogy a Kormány az EKR-ben
+elérhető adatok alapján vizsgálja meg, hogy
+a kizárólagos jogra és a rendkívüli sürgősségre
+alapított hirdetmény nélküli tárgyalásos eljárásokban
+az ajánlattevők piaci helyzete milyen hatással volt
+a szerződéses árak alakulására a 2022–2025 közötti
+időszakban, és ezek fényében van-e szükség további
+intézkedésre a közpénzekkel való felelős gazdálkodás
+elvének érvényesítése érdekében.
+A Kormány a javaslattal
+részben egyetért.
+Az Európai Bizottság Single Market Scoreboard adatai szerint Magyarországon a hirdetmény nélküli tárgyalásos eljárás
+gyakorisága az átlagosnál jobb, megfelelő eredményt (4% 2024-ben) mutat (10% feletti nem megfelelő eredményű
+országok például Bulgária, Hollandia, Ausztria, Dánia, Csehország).
+A Kormány elkötelezett a fentiek szerinti, európai uniós szinten is megfelelőnek minősülő eredmény megőrzése, adott
+esetben további javítása mellett.
+A hirdetmény nélküli tárgyalásos eljárásfajta alkalmazása csak az uniós közbeszerzési irányelvek által meghatározott
+körülmények tényleges fennállása esetén jogszerű (amit mind a fejlesztéspolitikai intézményrendszer, mind a Közbeszerzési
+Hatóság ellenőriz). A Kormány – egyetértve az Integritás Hatóság általi problémafelvetéssel – maga is úgy látja, hogy
+a hirdetmény nélküli tárgyalásos eljárásfajta választása egy adott beszerzési igény megvalósítására nem csak jogszerűségi
+kérdés, hanem a közpénzekkel való felelős gazdálkodás elvének érvényesítése érdekében is gondos mérlegelést kíván
+az adott beszerző szervezet részéről.
+A Kormány álláspontja szerint az egyes ajánlatkérők a hatékony költségvetési gazdálkodás szabályai keretében jogosultak
+és kötelezettek arra, hogy a szerződéseik és beszerzéseik felülvizsgálata során mérlegeljék az adott beszerzéshez leginkább
+célszerű eljárásfajta alkalmazását, és külön-külön döntsenek a szerződéseik szükség szerinti megváltoztatásáról. A Kormány
+természetesen egyetért az Integritás Hatósággal abban, hogy az adott eljárásfajta alkalmazása a legjobb szerződéses ár
+elérése szempontjából kockázatot hordozhat, ugyanakkor a Kormány megítélése szerint ez a leghatékonyabban mindig
+az aktuális jövőbeni szerződéskötésekről szóló döntések során kezelhető, amelynek keretében a múltbeli gazdálkodási
+tapasztalatok is figyelembe vehetőek. Az adott ajánlatkérők mindenkori feladata, hogy a saját szerződéses állományukat
+ebből a szempontból is szükség szerint felülvizsgálják.
+Intézkedés: A konstruktív együttműködés jegyében a Kormány felkéri az Integritás Hatóságot, hogy a 2022. évi
+XXVII. törvény szerinti feladatkörében a vizsgálatot végezze el, és az egyes szerződések szintjén jelezze, amennyiben
+hatékonytalan gazdálkodásra utaló adatokat tapasztal.
+
+8.2. sz. ajánlás Hirdetmény nélküli tárgyalásos eljárásokkal
+kapcsolatos diszfunkciók kezelése
+A hirdetmény nélküli tárgyalásos eljárás esetében
+a Kormány kezdeményezze a szabályozás módosítását
+annak érdekében, hogy ne lehessen jogszerű
+a hirdetmény nélküli tárgyalásos eljárási fajta
+alkalmazása olyan beszerzési igények esetében,
+melyeknél szerzői jogra alapított kizárólagosságot
+az ajánlatkérő nyílt versenyt nem biztosító vagy
+nem a későbbi beszerzésekre irányadó eljárásrend
+szerinti (köz)beszerzési eljárás eredményeként kötött
+szerződéssel kívánja igazolni.
+A Kormány a javaslattal
+nem ért egyet.
+A hirdetmény nélküli tárgyalásos eljárásfajta alkalmazása az uniós közbeszerzési irányelvek által meghatározott
+körülmények tényleges fennállása esetén megengedett. Az uniós szabályok és a Kbt. 98. § (2) bekezdés c) pontja
+értelmében kizárólagos jogra hivatkozással csak akkor indítható ilyen eljárás, ha az ajánlatkérő számára nem létezik reális
+alternatíva beszerzési igényének kielégítésére, és a verseny hiánya nem annak a következménye, hogy a közbeszerzés
+tárgyát a versenyt indokolatlanul szűkítő módon határozták meg.
+A Kormány az Integritás Hatóság jogértelmezésével általánosságban egyetért, azonban az Integritás Hatóság által
+ajánlott konkrét jogalkotási intézkedést a Kormány nem látja célszerűnek, mivel a Kormány véleménye szerint egy adott
+eljárásfajta alkalmazásának jogszerűségét csak az adott eset minden részletének ismeretében, az összes körülmény
+figyelembevételével lehetséges esetről-esetre megítélni. Törvényi norma szintjén ilyen részletezettségű szabályozást
+a Kormány nem tart célszerűnek. A Kormány továbbra is inkább a vonatkozó„soft law”eszközök, útmutatások
+továbbfejlesztésében látja a továbblépés lehetséges eszközét.
+9. sz. ajánlás A Kbt. 115. §-a szerinti eljárásfajta megszüntetése
+A Hatóság javasolja a Kbt. 115. §-a szerinti eljárás
+megszüntetését, és helyette a kisebb értékű építési
+beruházásokra egyszerűbb részvételi szabályok
+bevezetését.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt.
+Az 1106/2026. (III. 23.) Korm. határozatban foglalt információk szerint a közbeszerzésekért felelős miniszter megvizsgálta
+a Kbt. 115. §-a szerinti eljárás tapasztalatait, különös tekintettel az ajánlattételre felhívott gazdasági szereplők
+kiválasztásának, illetve változtatásának (kötelező rotáció) gyakorlati tapasztalataira, és megküldte az erről szóló beszámolót
+a Korrupcióellenes Munkacsoport részére. Az ajánlatkérők arra irányuló gyakorlata tekintetében, hogy az ajánlattételre
+felhívott gazdasági szereplőket milyen mértékben változtatják, a vizsgálat eredményei nem utaltak a visszaélésszerű
+jogalkalmazás elterjedtségére, és az eljárásfajta szabályainak megtartása mellett szóltak az alacsonyabb adminisztratív
+terhek, valamint a kiemelkedő KKV részvételi és nyertességi arány (91%, illetve 94%). A dokumentumban ezért
+a Kormány megállapította, hogy az eljárásfajta megszüntetése nem javasolt, illetve hogy az azzal kapcsolatos kihívások
+nem jogalkotási eszközökkel kezelhetők. Az egyik azonosított kihívás a részekre bontás tilalma betartásának ellenőrzése
+abban az esetben, ha egy-egy ajánlatkérő rendszeresen alkalmazza ezt az eljárásfajtát. Így a beszámolóban a Kormány
+indokoltnak látta az ellenőrzések fokozását azon ajánlatkérők esetében, ahol egy ajánlatkérő a Kbt. 115. §-a szerinti
+eljárástípust egy éven belül tíznél több alkalommal alkalmazza. Az ellenőrzés fokozása érdekében a közbeszerzésekért
+felelős miniszter évente összegyűjti azon ajánlatkérőket, akik a Kbt. 115. §-a szerinti eljárástípust egy tizenkét hónapos
+időtartamon belül tíznél több alkalommal alkalmazták, és a listát megküldi a közbeszerzéseket ellenőrző szervek
+(ÁSZ, KEHI) részére. Az érintett ellenőrző szervek ezen ajánlatkérők tekintetében betervezhetik az ellenőrzési tervükbe ezen
+eljárások átfogóbb vizsgálatát, különös figyelemmel arra, hogy az ajánlatkérők betartották-e a részekre bontás tilalmára
+vonatkozó kötelezettségeiket, és az eljárásban ajánlattételre felhívott gazdasági szereplők kiválasztása és változtatása
+a verseny tisztaságának és az esélyegyenlőség elvének szem előtt tartásával történt-e.
+A fentiek alapján a Kormány összességében úgy értékeli, hogy az Integritás Hatóság által ajánlott konkrét jogalkotási
+intézkedés, azaz az eljárásfajta megszüntetése nem lenne arányos intézkedés az eljárásfajta előnyeinek (gyorsaság,
+alacsonyabb adminisztratív teher és költség, KVV-k számára könnyű részvétel) megőrzéséhez fűződő céllal, ugyanakkor
+természetesen a Kormány is úgy értékeli, hogy ebben az eljárásfajtában is szigorúan be kell tartani a verseny tisztaságát
+biztosító szabályokat.
+
+10.1. sz. ajánlás A dinamikus beszerzési rendszerek és
+keretmegállapodások transzparenciájának növelése
+és a kapcsolódó jogsértési kockázatok csökkentése
+A Hatóság javasolja a nyitott DBR-ek azonosításának
+megkönnyítését az EKR-ben, külön menüpont alatt
+szerepeltetve azokat.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, a Kormány
+megítélése szerint ugyanakkor az Integritás Hatóság által tett konkrét megoldási javaslat megvalósítása kevésbé célszerű
+az alábbiakra tekintettel.
+Az EKR menürendszere és keresési funkciói az egyes eljárástípusokat és sajátos beszerzési módszereket egységesen kezelik,
+mivel a gazdasági szereplők számára nem elsősorban az eljárás közbeszerzési jogi jellemzői, nem az eljárásfajták határozzák
+meg, hogy mi minősül számukra üzleti lehetőségnek. Az eljárásfajták és sajátos beszerzési módszerek szerinti keresést
+jelenleg is biztosítja az EKR Eljárástár modulja.
+A Kormány álláspontja szerint tehát az Integritás Hatóság által elvárt célt, a nyitott DBR-ek megtalálását az EKR jelenleg is
+biztosítja, egységes működési logika („aktuális üzleti lehetőség”kereshetősége) szerint. A Kormány természetesen ezen
+a téren is nyitott az Integritás Hatósággal további tapasztalatcserére.
+10.2. sz. ajánlás A dinamikus beszerzési rendszerek és
+keretmegállapodások transzparenciájának növelése
+és a kapcsolódó jogsértési kockázatok csökkentése
+A Hatóság javasolja a DBR-ek lezárása esetén ezen tény
+EKR-ben való feltüntetésének kötelezővé tételét (külön
+hirdetmény-közzétételi kötelezettség nélkül, az eljárás
+adatlapján).
+A Kormány a javaslattal
+egyetért.
+Az uniós jogalkotó nem rendelkezett arról, hogy a DBR futamidejének lejártáról külön tájékoztatást kellene közzétenni,
+de eredménytájékoztatóval technikailag le lehet zárni a DBR-t. A Kormány egyetért azzal, hogy a DBR lejártára vonatkozó
+információ közlése célszerű.
+Intézkedés: A közbeszerzésekért felelős miniszter – forrás rendelkezésre állása esetén – gondoskodik az ajánlás szerinti
+információ közzétételét szolgáló fejlesztésről.
+10.3. sz. ajánlás A dinamikus beszerzési rendszerek és
+keretmegállapodások transzparenciájának növelése
+és a kapcsolódó jogsértési kockázatok csökkentése
+A Hatóság javasolja az ajánlatkérő vagy
+ajánlatkérők által megvalósított beszerzések és
+megkötött szerződések szerepeltetését az EKR-ben
+az alapeljáráshoz rendelten, annak adatlapján
+megjelenítve azokat.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a transzparencia mellett az ajánlásban érintett témakörben is. A Kormány megítélése szerint
+ugyanakkor az Integritás Hatóság által tett konkrét megoldási javaslat nem a leghatékonyabb eszköz az adott cél
+megvalósítása érdekében, mivel az érintett adatok elérhetősége már jelenleg is biztosított.
+Az EKR Eljárástárban jelenleg is van olyan szűrési lehetőség, amelyben a keretmegállapodás megkötésére, illetve
+a dinamikus beszerzési rendszer létrehozására irányuló eljárások (KM1/DBR1) EKR azonosítójának megadásával találatként
+megjelennek az adott keretmegállapodás / dinamikus beszerzési rendszer alapján indított eljárások (KM2/DBR2).
+KM2/DBR2 esetén a rendszerben fel van tüntetve a„Szülőeljárás azonosító”, ami lehetővé teszi a KM1/DBR1 azonosítását.
+Technikailag a KM2/DBR2 önálló eljárások az EKR-ben, ezért szerepelnek külön adatfelületeken. A Kormány megítélése
+szerint a kért átalakítás (azonos adatlapra helyezés) várható költsége nincs arányban a céllal, mivel az érintett adatok
+jelenleg is elérhetőek, ezért további intézkedést a Kormány nem tart szükségesnek, de Kormány természetesen ezen
+a téren is nyitott az Integritás Hatósággal további tapasztalatcserére.
+
+10.4. sz. ajánlás A dinamikus beszerzési rendszerek és
+keretmegállapodások transzparenciájának növelése
+és a kapcsolódó jogsértési kockázatok csökkentése
+A Hatóság javasolja, hogy a Kormány vizsgálja meg
+az egyszereplős KM-ekhez kapcsolódóan a szabályozás
+alábbi irányú módosításának lehetőségeit az irányelvi
+szabályozás adta lehetőségek figyelembevételével:
+– a becsült érték meghatározása körében nagyobb fokú,
+az egyes beszerzendő tételek piaci áraira is kiterjedő
+vizsgálati és dokumentációs kötelezettség előírása;
+– az egyszereplős KM alkalmazásának ajánlatkérői
+indokoláshoz kötése.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért a becsült érték lehető legpontosabb meghatározásával, és az Integritás Hatóság arra vonatkozó
+értékelésével, hogy a becsült értéknek minél hatékonyabban tükröznie kell a piaci árakat.
+A Kormány álláspontja szerint az ajánlatkérő a becsült érték meghatározásának módszerét az adott beszerzés
+körülményeinek függvényében kell, hogy megválassza, valamely módszer kizárólagosan kötelezővé tétele aránytalan
+terhet eredményezne az ajánlatkérők számára.
+Az egy darab gazdasági szereplővel megköthető keretmegállapodás alkalmazását az uniós irányelv semmiféle indokolási
+kötelezettséghez vagy többletfeltételek igazolásához nem köti, ezért indokolási kötelezettség előírása jogszabályban
+nem lehetséges a Kormány álláspontja szerint. A hazai jogalkotónak az uniós jogban meglévő választási lehetőséget
+biztosítania kell az ajánlatkérők számára (természetesen az uniós irányelvi közbeszerzési alapelvek betartásának általános
+kötelezettsége mellett), és jogbizonytalanságot okozna az indokolási kötelezettség, mivel a jogszabály nem ír elő konkrét
+alkalmazási feltételt, így nem lenne érthető sem az ajánlatkérők, sem az ellenőrző szervek számára, hogy milyen indokolás
+lenne elfogadható, vagy sem.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint nem lenne igazán hatékony eszköz a gyakorlati jogalkalmazási nehézségek
+kiküszöbölésére. A Kormány továbbra is inkább a vonatkozó„soft law”eszközök, útmutatások továbbfejlesztésében látja
+a továbblépés lehetséges eszközét.
+10.5. sz. ajánlás A dinamikus beszerzési rendszerek és
+keretmegállapodások transzparenciájának növelése
+és a kapcsolódó jogsértési kockázatok csökkentése
+A Hatóság javasolja továbbá, hogy a Közbeszerzési
+Hatóság keretében működő Tanács által
+a keretmegállapodásokkal kapcsolatos egyes
+kérdések tekintetében kibocsátott útmutató kerüljön
+kiegészítésre a fentiekben megjelölt kockázatok
+kezelésének eszközeivel, különös tekintettel
+az alábbiakra:
+– a keretmegállapodásokhoz kapcsolódó beszerzési
+igények tervezésének javasolt módjai, amellyel
+elkerülhetőek a versenykorlátozó gyakorlatok;
+– a becsült érték meghatározásának javasolt módja
+keretmegállapodások esetén;
+– nagy tételszámot érintő keretmegállapodások
+tekintetében készüljön szakmai iránymutatás, amely
+hatékonyan képes támogatni az ajánlatkérőket
+az ajánlati árat megjelenítő értékelési szempontok
+jogszerű, és különösen a közpénzekkel való felelős
+gazdálkodás elvét érvényesítő meghatározásában.
+A Kormány a javaslattal
+egyetért.
+A Hatóság keretében működő Tanács a keretmegállapodásokkal kapcsolatos egyes kérdések tekintetében
+2021. május 6. napján kibocsátott útmutató módosítását felvette a Tanács 2026. évi munkatervébe.
+Intézkedés: A közbeszerzésekért felelős miniszter a Közbeszerzési Hatóság keretében működő Tanácsban a továbbiakban
+is együttműködik a Tanács tagjaival az útmutatók módosításai során. Az Integritás Hatóság a Tanácsba tagot delegál,
+így közvetlenül képviseli a javaslatait.
+
+11. sz. ajánlás Az irányelvi alapelvekkel való összhang
+megteremtése
+A 2014/24/EU irányelv 18. cikk (1) bekezdésében
+szereplő irányelvi rendelkezés tekintetében
+a Hatóság szükségesnek tartja a Kbt. módosítását,
+illetve az európai jogi követelményekre tekintettel
+a joggyakorlat változtatását. Ennek érdekében
+a Hatóság javasolja, hogy a Kormány készítsen elemzést
+arról, hogy milyen módon lehetséges a mesterséges
+verseny korlátozás irányelvi definíciójában szereplő
+fogalmi elemek átemelése a Kbt.-be olyan módon, hogy
+az jogszabályi szinten lehetővé tegye a versenykorlátozó
+gyakorlatok formai megközelítésének meghaladását
+a jelentésben foglaltak szerint.
+A Kormány a javaslattal
+egyetért.
+Intézkedés: A közbeszerzésekért felelős miniszter a Kbt. soron következő módosítása során javaslatot tesz az irányelvi
+szövegezés átemelésére a Kbt.-be.
+12. sz. ajánlás A gyakorlatot támogató segédanyagok
+felülvizsgálata
+Az ajánlatkérők támogatása érdekében a Hatóság
+javasolja, hogy a Kormány kérje fel a hatáskörrel
+rendelkező szervet a jelenleg hatályos jogalkalmazási
+segédanyagok (útmutatók) kiegészítésére az alábbiak
+szerint:
+– a Közbeszerzési Hatóság keretében működő Tanács
+a nyertes ajánlattevő kiválasztására szolgáló értékelési
+szempontrendszer alkalmazásáról szóló útmutatója
+(2025. május 29.) kerüljön kiegészítésre az értékelési
+szempontok meghatározása során figyelembe veendő
+piaci szempontokkal, továbbá az értékelési szempontok
+súlyszámai meghatározásának objektív módszertanával;
+– a Közbeszerzési Hatóság keretében működő
+Tanács bővítse az alkalmassági feltételek előírásával
+kapcsolatos szabályokról szóló útmutatót
+(2026. február 12.) az alkalmassági feltételek
+meghatározása során figyelembe veendő piaci
+szempontokkal;
+– a Közbeszerzési Hatóság keretében működő Tanács
+bővítse a közbeszerzési eljárások előkészítésére
+vonatkozó útmutatót (2025. május 29.) a műszaki
+leírások elkészítésére vonatkozó beszerzéstechnikai
+módszerek ismertetésével. Az útmutató hasznos eszköz
+lehet arra, hogy az ajánlatkérők számára gyakorlatban
+alkalmazható iránymutatást adjon ahhoz, hogy milyen
+módon tudják úgy specifikálni a beszerzési igényüket,
+hogy azáltal biztosítható legyen a magasabb
+A Kormány a javaslattal
+egyetért.
+A Hatóság keretében működő Tanácsnak a nyertes ajánlattevő kiválasztására szolgáló értékelési szempontrendszer
+alkalmazásáról szóló útmutató újbóli megnyitását és módosítását a Tanács felvette a 2026. évi munkatervébe.
+A Közbeszerzési Hatóság tájékoztatása szerint a Hatóság javaslatot tesz a Tanács számára, hogy az alkalmassági feltételek
+előírásával kapcsolatos szabályokról szóló útmutató újbóli megnyitása és módosítása felvételre kerüljön a Tanács 2027. évi
+munkatervébe.
+A Hatóság keretében működő Tanács a közbeszerzési eljárások előkészítésével kapcsolatos útmutató újbóli megnyitását és
+módosítását felvette a 2026. évi munkatervébe.
+A Közbeszerzési Hatóság (a továbbiakban: KH) tájékoztatása szerint a Nemzeti Fejlesztési Központ 2024. december
+16. napján kiadott közleménye és a KH 2024. február 22. napján megjelent közleménye között a lényegi megállapításokban
+nincs eltérés, ezért nem szükséges a KH 2024. február 22. napján megjelent közleményének módosítása. Ugyanakkor
+az ellenőrzési gyakorlat időről időre történő felülvizsgálata szükségszerű, és rendszeresen megtörténik a KH gyakorlatában,
+a más ellenőrző szervekkel történő szakmai egyeztetéseket minden témában fontosnak tartja a KH, és igyekszik is élni
+vele. Az ilyen tapasztalatok alapján a közlemény tartalmának kibővítése, illetve esetleg új közlemény kidolgozásának
+szükségessége is felmerülhet. Tekintettel arra, hogy a KH a hirdetményellenőrzés során minden hirdetményt egységes
+szempontok alapján vizsgál, így kifejezetten a központi beszerző szervek gyakorlatára vonatkozó külön információkkal nem
+rendelkezik, de amennyiben más ellenőrző szervezet végez/végzett ilyen vizsgálatot, az erre vonatkozó tapasztalatoknak
+a közleménybe történő beépítését vállalja.
+A KH 2023. november 27-én közzétette a honlapján – az NFK-val közös álláspontot tartalmazó –„A szerződéstervezeteknek,
+szerződéses feltételeknek a közbeszerzési eljárás előkészítése körében történő, megfelelő kidolgozását elősegítő szakmai
+iránymutatást”. Ezen szakmai segédanyag a KH megítélése szerint megfelelő segítséget nyújt a joggyakorlat számára
+a szerződéses feltételek tekintetében, így további szakmai anyag, útmutató kidolgozását nem tartja szükségesnek.
+Intézkedés: A közbeszerzésekért felelős miniszter a Közbeszerzési Hatóság keretében működő Tanácsban a továbbiakban
+is együttműködik a Tanács tagjaival az útmutatók módosításai során. Az Integritás Hatóság a Tanácsba tagot delegál, így
+közvetlenül képviseli a javaslatait.
+
+szintű verseny az ajánlatkérői igények teljesülése
+mellett. Az útmutató elkészítéséhez alapot adhatnak
+a műszaki specifikációk nemzetközi beszerzési szakmai
+sztenderdjei is;
+– a Hatóság javasolja, hogy a Közbeszerzési Hatóság
+vizsgálja felül a hirdetményellenőrzési tevékenységére
+vonatkozó 2024. február 22-i közleményét és
+gyakorlatát, kibővítve a Nemzeti Fejlesztési Központ
+2024. december 16-án kiadott közleményében
+foglaltakkal, kiemelt figyelemmel a mennyiségi alapú
+részajánlattétel, továbbá a piackoncentráció vizsgálati
+szempontjaira. A piackoncentráció vizsgálatát ebben
+a körben elsődlegesen a központi beszerző szervezetek
+közbeszerzési eljárásai tekintetében tartja szükségesnek
+a Hatóság;
+– a Hatóság javasolja, hogy készüljön külön
+útmutató a szerződéskötési és szerződéses feltételek
+alkalmazására vonatkozó gyakorlatok egységesítése
+érdekében.
+13. sz. ajánlás Ezen esetek visszaszorítása érdekében javasolja
+a Hatóság a Kbt. 115. §-a szerinti eljárás megszüntetését
+(a 9. sz. ajánlással összhangban), illetve a Kbt. 75. §
+(2) bekezdés e) pont szerinti eredménytelenségi
+ok alkalmazási tapasztalatai függvényében
+az eredménytelenségi ok alkalmazásának szükség
+szerinti felülvizsgálatát.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért azzal, hogy az ajánlattevők közötti összejátszás vizsgálata bonyolult feladatot jelent az ajánlatkérők
+számára az ajánlatok bírálata során, amely a gyakorlati jogalkalmazás egyik nehézségét jelenti. A Kormány elkötelezett
+az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és kiemelten fontosnak tartja
+a közbeszerzési verseny tisztaságát sértő vagy kartelljellegű ajánlattevői magatartások kiszűrését, visszaszorítását.
+A hatályos szabályozás szerint a Kbt. 62. § (1) bekezdés o) pontja szerinti kizáró ok ellenőrzése és a Kbt. 36. § (2) bekezdése
+szerint a GVH felé történő jelzés szükség esetén történő megtétele minden eljárásban kötelező az ajánlatkérő számára.
+Az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést ugyanakkor a Kormány nem látja célszerűnek,
+mivel a kartellmagatartások észlelésének bonyolultsága önmagában nem indokolja a Kbt. 115. § szerinti eljárásfajta
+megszüntetését vagy a Kbt. 75. § (2) bekezdés e) pontja szerinti eredménytelenségi ok alkalmazásának mellőzését.
+A Kormány továbbra is inkább a vonatkozó„soft law”eszközök, útmutatások továbbfejlesztésében látja a továbblépés
+lehetséges eszközét.
+
+14.1. sz. ajánlás A panaszok és bejelentések hatékonyságának
+fokozása
+A Gazdasági Versenyhivatal a közbeszerzési
+eljárásokban feltárt, feltételezett jogszabálysértések
+tekintetében benyújtandó panaszok/bejelentések
+sikerességének fokozása, a jogsértések
+következményeinek megfelelő érvényesítése
+érdekében tegyen közzé módszertani segédanyagot,
+amelyben részletes eligazítást ad a panasz, illetve
+a bejelentések közötti különbségekről, felhívja
+a figyelmet a panaszok/bejelentések tipikus hibáira,
+buktatóira, és ismerteti, hogy milyen mértékű
+bizonyítottságot vár el a bejelentések/panaszok
+tekintetében, milyen bizonyítékokat tart elegendőnek
+az eljárás megalapozásához, milyen dokumentumok,
+információk benyújtását igényli, mely esetben
+minősíti a bejelentésként megtett jelzést panaszként,
+továbbá melyek a panaszok és bejelentések vizsgálati
+szempontjai a GVH részéről.
+A Kormány a javaslattal
+egyetért.
+A Kormány az 1106/2026. (III. 23.) Korm. határozat 4. pontjában felkérte a Gazdasági Versenyhivatal (továbbiakban:
+GVH) elnökét, hogy vizsgálja felül és egészítse ki a közbeszerzési verseny tisztaságát érintő korrupciós kockázatokkal és
+kartellmegállapodásokkal kapcsolatos szakmai iránymutatást.
+A GVH arról tájékoztatta a Kormányt, hogy a panaszokkal, bejelentésekkel kapcsolatos tájékoztatási anyagok kiegészítését
+a GVH 2026. december 31-i határidővel elvégzi. Mindazonáltal a GVH rögzíti, hogy a tájékoztatások kiegészítése érdemben
+nem feltétlenül eredményez hatékonyabb piaci jelzéseket, mert az azok alapjául szolgáló tények, körülmények versenyjogi
+értékelése nem módszertani segédletek meglététől vagy azok hiányától függ.
+A fentiekre tekintettel az Integritás Hatóság javaslata szerinti intézkedés folyamatban van.
+14.2. sz. ajánlás A panaszok és bejelentések hatékonyságának
+fokozása
+A GVH a támogató ajánlatok visszaszorítása érdekében
+következetesen indítson versenyfelügyeleti eljárásokat
+a panaszok és bejelentések alapján, függetlenül
+az egyes eljárások becsült értékétől, jelentőségétől.
+A Kormány a javaslattal
+részben egyetért.
+Az ajánlás címzettje a GVH, de természetesen a Kormány is egyetért a támogató ajánlatok visszaszorításának céljával.
+A GVH arról tájékoztatta a Kormányt, hogy a tagállami versenyhatóságok helyzetének a hatékonyabb jogérvényesítés
+céljából történő megerősítéséről és a belső piac megfelelő működésének biztosításáról szóló 1/2019/EU irányelvvel
+összhangban, már most is mindent megtesz annak érdekében – adott esetben hivatalbóli észlelés alapján –, hogy
+a közbeszerzési kartelleket, így a támogató ajánlatok gyakorlatát visszaszorítsa. Ilyen tárgyban versenyfelügyeleti eljárásban
+jelenleg is több, mint 1800 db tender, amelyből kb. 1000 db közpénz felhasználását érintő tender, értékelése zajlik.
+A fentiekre tekintettel a Kormány részéről az ajánlás alapján további intézkedés lehetősége nem volt azonosítható.
+15. sz. ajánlás Versenyjogi kockázatelemzési gyakorlat kialakítása
+A GVH – adott esetben az Integritás Hatósággal
+együttműködve – dolgozzon ki közbeszerzési adatokon
+alapuló kockázatelemzési módszertant, és annak
+alapján folytasson rendszeres kockázatelemzési
+gyakorlatot a versenyjogi kockázatok feltárása
+érdekében.
+A Kormány a javaslattal
+részben egyetért.
+Az ajánlás címzettje a GVH, ugyanakkor természetesen a Kormány egyetért a versenyjogi kockázatok feltárásának céljával,
+ugyanakkor a Kormány részéről intézkedés a GVH hatáskörébe tartozó kérdésekben nem lehetséges.
+A GVH arról tájékoztatta a Kormányt, hogy nyitott az egyes szakmai, jogalkalmazói, illetve vizsgálati módszertani
+kérdésekkel kapcsolatos intézményközi együttműködésre és rendszeres tapasztalatcserére.
+A fentiekre tekintettel a Kormány részéről az ajánlás alapján további intézkedés lehetősége nem volt azonosítható.
+
+16. sz. ajánlás A jogorvoslati díjak csökkentése
+A Hatóság változatlanul szükségesnek tartja tehát
+a jogorvoslati díjak további, jelentős csökkentését
+és azok kérelmi elemek számához kötésének
+megszüntetését. Indokolatlannak tartja a Hatóság,
+hogy abban az esetben, ha részajánlattétel esetén
+a közbeszerzési eljárásokat megindító felhívások,
+kapcsolódó közbeszerzési dokumentumok
+jogszerűtlennek vélt azonos előírásai valamennyi vagy
+több rész tekintetében teljesen azonos módon kerültek
+előírásra, az igazgatási-szolgáltatási díjat több részre
+is külön meg kelljen fizetni. A Hatóság változatlanul
+indokoltnak tartja továbbá a részvételi vagy
+ajánlattételi határidő lejártát megelőzően benyújtott
+jogorvoslati kérelmek esetében egy lényegesen
+kedvezőbb jogorvoslati díj érvényesítését. A Hatóság
+a keretmegállapodásos eljárások, a dinamikus
+beszerzési rendszerek, továbbá a keretszerződések
+esetében változatlanul szükségesnek látja továbbá
+(mind az eljárást indító dokumentumokkal, mind
+a bírálat és értékelés során bekövetkező jogsértésekkel
+kapcsolatos jogorvoslatok esetében) olyan
+speciális szabály rögzítését, hogy ne az ajánlatkérő
+által megadott becsült érték, hanem kizárólag
+a lehívási/szolgáltatási kötelezettséggel terhelt
+(és a felhívásban ekként megjelölt) érték képezze
+a jogorvoslati díj alapját (és amennyiben ilyen
+nem kerül a felhívásokban megadásra, az alap
+fix díj kerüljön csak érvényesítésre). Ily módon
+a központosított közbeszerzés keretében megvalósított
+nagy értékű közbeszerzések esetén is nagyobb eséllyel
+kerülhetnének a jogorvoslati szerv elé a jogsértő
+ajánlatkérői előírások, döntések.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány az ajánlás céljával (jogorvoslati díjak további csökkentése) egyetért. A Közbeszerzési Hatóság tájékoztatása
+szerint az ilyen, a Közbeszerzési Döntőbizottság ügyszámát lényegesen növelő javaslatok számos létszámbővítési és egyéb
+gazdasági, költségvetési kérdést vetnek fel, amelyek megítélésünk szerint további kormányzati egyeztetést igényelnek.
+Intézkedés: A közbeszerzésekért felelős miniszter megvizsgálja a jogorvoslati díjak további csökkentésének lehetséges
+megoldásait, és – a vizsgálat eredményének függvényében – előkészíti a kapcsoló Kbt. módosítás tervezetét.
+
+17. sz. ajánlás A képviseleti jog korlátozásának megszüntetése
+a jogorvoslatokban
+A Hatóság – korábbi ajánlását fenntartva – javasolja
+ezért a képviseleti jog megszüntetését vagy
+minimálisan jelentős kiterjesztését minden olyan
+szakemberre, aki közbeszerzési képzettséggel és/vagy
+gyakorlattal rendelkezik.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság arra vonatkozó értékelésével, hogy a jogorvoslati lehetőségekhez való hozzáférés
+a gazdasági szereplők számára rendkívül lényeges. A Kormány álláspontja szerint ugyanakkor a jogorvoslatokhoz való
+minél könnyebb hozzáférést inkább az szolgálja, ha a Közbeszerzési Döntőbizottság előtti képviselet kötelező marad,
+mivel a laikus gazdasági szereplők jogvédelméhez a közbeszerzési jogilag szakszerű jogorvoslati kérelem és nyilatkozatok
+készítése és szakszerű előterjesztése elengedhetetlen. Az Integritás Hatóság által javasolt„minden olyan szakember, aki
+közbeszerzési képzettséggel és/vagy gyakorlattal rendelkezik”fordulat a gyakorlatban nem látszik alkalmazhatónak,
+mivel annyira széleskörű, hogy a tényleges hozzáértést nem feltétlenül garantálná, így ehelyett a meglévő akkreditációs
+rendszerekre célszerű támaszkodni (ügyvéd, jogtanácsos, FAKSZ, ÁKSZ).
+A Közbeszerzési Hatóság arról tájékoztatta a Kormányt, hogy a közbeszerzési eljárás mellett az annak jogszerűségét
+eldönteni hivatott jogorvoslati eljárásban is legalább ilyen fontos az ügyfelek képviselőinek jogi/közbeszerzési
+felkészültsége, mely által nagyobb eséllyel valósul meg a jogviták gyors és hatékony lefolytatása is, mintha az igen speciális
+szakmai ismereteket igénylő közbeszerzési jogorvoslati eljárásban laikus ügyfelek járnának el. A KH hangsúlyozta, hogy
+a kötelező képviselet kivezetése a jogorvoslati eljárások uniós irányelv által támasztott hatékonysága követelményét
+veszélyeztetné, illetve a nem megfelelően előkészített kérelmek nagy számának visszautasításához vezetne.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint nem lenne igazán hatékony eszköz a gyakorlati jogorvoslati nehézségek
+kiküszöbölésére.
+18. sz. ajánlás Tárgyalás tartásának kezdeményezhetősége
+A Hatóság a jogorvoslathoz való jog érvényesítése
+fontos elemének tartja, hogy a kérelmező a jellemzően
+összetett közbeszerzési jogvitákban kérhesse tárgyalás
+tartását, továbbá azt is megjelölhesse, hogy személyes
+részvétellel megvalósuló vagy online úton tartott
+tárgyalásra kerüljön sor.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság arra vonatkozó értékelésével, hogy a jogorvoslati lehetőségekhez való
+hozzáférés a gazdasági szereplők számára rendkívül lényeges. A Kormány álláspontja ugyanakkor az, hogy a tárgyalásra
+a hatályos eljárásjogi szabályoknak megfelelően akkor célszerű sort keríteni, ha a tárgyalás tartása feltétlenül szükséges
+különösen az ügyféli jogok gyakorlásához, a tényállás tisztázásához, a szakszerű és minden, az ügy szempontjából fontos
+körülményt figyelembe vevő döntés meghozatalához. A Kormány álláspontja szerint ezt a legjobban maga az ügyben eljáró
+Közbeszerzési Döntőbizottság tudja megítélni, ezért módosítás nem indokolt.
+A KH arról a szakmai álláspontjáról tájékoztatta a Kormányt, hogy az ügyfél kérelmére kötelezően tartandó tárgyalás
+veszélyeztetné a gyors és hatékony jogorvoslati ügyintézést, illetve növelné a jogviták indokolatlan elhúzódására irányuló
+visszaélésszerű joggyakorlás lehetőségét az ügyfelek részéről. A kérelem alapján kötelező tárgyalástartás – az azzal
+meghosszabbodó döntőbizottsági ügyintézési határidőre, illetve a jogorvoslati kérelem benyújtására automatikusan beálló
+szerződéskötési moratóriumra is tekintettel – indokolatlanul tovább késleltetné a közbeszerzési szerződések megkötését,
+amely kifejezetten hátrányosan érintené mind az állami, mind az önkormányzati, mind egyéb ajánlatkérők beszerzési
+igényének megvalósítását. A KH kiemelte, hogy a közigazgatási jog az általános eljárási szabályok között sem korábban,
+sem a jelenleg hatályos eljárási törvényekben nem biztosított az ügyfelek számára olyan jogot, amelyben az ügyfelek
+kérelmére kötelező lenne a tárgyalás tartása. Mind a Kbt., mind az Ákr. a Közbeszerzési Döntőbizottság, illetve más hatóság
+mérlegelési/döntési jogkörébe utalja a tárgyalás tartása szükségességének megítélését. A tárgyalás tartásának elmaradása
+az ügyfelek által önállóan nem támadható, viszont az elmaradásból esetlegesen fakadó tényállástisztázási hiányosságok
+miatt a jogorvoslati eljárást lezáró határozattal szemben közigazgatási per indítható.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint a gyakorlati jogorvoslati nehézségek kiküszöbölése ennek nyomán nem érhető el.
+
+19. sz. ajánlás Összkollégiumi állásfoglalás az ügyfélképesség
+kapcsán
+A fentiekre figyelemmel a Hatóság indokoltnak tartja
+a Közbeszerzési Döntőbizottság részéről összkollégiumi
+állásfoglalás kiadását, amely a potenciális kérelmezők
+számára egyértelmű tájékoztatást nyújt a módosult
+jogértelmezésről az ügyfélképesség kapcsán.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. 2026. 06. 29-én hatályba lépett 168. § (4a)–(4c) bekezdése alapján az Integritás Hatóság közvetlenül jogosult
+összkollégiumi állásfoglalás kiadását kezdeményezni.
+Az 1106/2026. (III. 23.) Korm. határozat 2. pont f) alpontja értelmében a vidék- és településfejlesztési miniszter szakmai
+fórumot szervez 2026. 11. 30-ig a Közbeszerzési Döntőbizottság előtti ügyfélképesség témájában a kérdéskörhöz
+kapcsolódó jogértelmezési kérdések megvitatása érdekében.
+A Közbeszerzési Hatóság tájékoztatása szerint a Közbeszerzési Döntőbizottság az ügyfélképesség megítélésével
+kapcsolatos joggyakorlatára vonatkozóan 2024 decemberében közleményt adott ki, amely a Hatóság honlapján jelenleg
+is elérhető. Az ügyfélképességgel kapcsolatos, esetlegesen módosított jogértelmezés döntőbizottsági összkollégium előtt
+ugyanakkor nem tárgyalható a KH véleménye szerint, mivel a Kbt. 168. § (4) bekezdése értelmében annak tárgyát kizárólag
+egyedi döntések képezhetik.
+A fentiekre tekintettel a Kormány részéről az ajánlás alapján további intézkedés lehetősége nem volt azonosítható,
+ugyanakkor célszerű lehet a hatóságok közötti egyeztetések folytatása a jogértelmezések tisztázása érdekében.
+20. sz. ajánlás Bírságolási szempontokról részletes tájékoztató
+kibocsátása
+A Közbeszerzési Döntőbizottság által alkalmazott
+bírságolási gyakorlat tekintetében indokolt
+a jelenleginél konkrétabb tájékoztatás nyújtása
+a jogorvoslati szerv részéről. Ez nemcsak az érintettek
+megfelelő informálását szolgálhatná, hanem azt is
+garantálhatná, hogy a Döntőbizottság bírságolási
+(és természetesen általánosságban a jogértelmezési)
+gyakorlatának következetessége, pártatlansága,
+elfogultságmentessége ellenőrizhető, követhető legyen.
+A Kormány a javaslattal
+egyetért.
+A Kbt. 2026. 06. 29-én hatályba lépett 165. § (14) bekezdése szerint a Közbeszerzési Döntőbizottság közleményt ad ki
+az általa alkalmazott, bírságok kiszabásával kapcsolatos elvekről. A közlemény – a jogsértések egyedi körülményeinek
+mérlegelése lehetőségének biztosítása mellett – tartalmazza a tipikus jogsértéstípusok esetén irányadónak
+tartott bírságmértékek tartományát. A közlemény innen elérhető: https://dontobizottsag.kozbeszerzes.hu/media/
+documents/26.06.29.birsagkozlemeny.pdf
+A fentiekre tekintettel az Integritás Hatóság javaslatában említett intézkedés megtörtént.
+21. sz. ajánlás A gazdasági szereplőkre kiszabott bírságolás
+elveinek felülvizsgálata, az arányosság biztosítása
+A Hatóság a bírságolási gyakorlat szempontjából
+lényegesnek tartja azt is, hogy – különösen a gazdasági
+szereplőkre kiszabott bírságok tekintetében –
+az alkalmazott bírság a jogsértés jellegéhez igazodóan
+arányos legyen, továbbá következetesen érvényesüljön
+az a megközelítés, hogy – mivel főszabály szerint
+az ajánlatkérő a közbeszerzési eljárás„ura”–
+az eljárás szabályosságáért való felelősséget
+– különösen a Kbt. mellőzése esetén – is ő viselje.
+A Kormány a javaslattal
+egyetért.
+A Kbt. 2026. 06. 29-én hatályba lépett 165. § (14) bekezdése szerint a Közbeszerzési Döntőbizottság közleményt ad ki
+az általa alkalmazott, bírságok kiszabásával kapcsolatos elvekről. A közlemény – a jogsértések egyedi körülményeinek
+mérlegelése lehetőségének biztosítása mellett – tartalmazza a tipikus jogsértéstípusok esetén irányadónak
+tartott bírságmértékek tartományát. A közlemény innen elérhető: https://dontobizottsag.kozbeszerzes.hu/media/
+documents/26.06.29.birsagkozlemeny.pdf
+Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi
+XVIII. törvény úgy módosította a Közbeszerzési Döntőbizottság bírságolására vonatkozó jogi szabályozást, hogy
+2026. június 29-ei hatálybalépéssel a Kbt. 165. § (11) bekezdés g) pontjában előírta az ajánlatkérővel szerződő gazdasági
+szereplő jogsértésért való felelősségének megállapítása esetén a gazdasági szereplőnek a jogsértés kapcsán kifejtett
+magatartása figyelembevételét a bírság indokoltsága és mértéke megállapítása során.
+A fentiekre tekintettel a Kormány részéről az ajánlás alapján további intézkedés lehetősége nem volt azonosítható,
+a bírságok mértékét a Közbeszerzési Döntőbizottság mérlegelési jogkörében határozza meg, amely mérlegelés szempontjai
+kapcsán – a Kbt. alkalmazásában – a közigazgatási bírósági joggyakorlat is irányadó.
+
+22. sz. ajánlás A jogorvoslati szervek specializáltsága
+A közbeszerzési jogorvoslati ügyek összetettségére
+figyelemmel a Hatóság kiemelten fontosnak tartja,
+hogy megfelelő szakértelemmel és gyakorlattal
+rendelkező, erre a területre specializálódott, megfelelő
+végzettséggel és tapasztalattal rendelkező szakemberek
+hozzanak döntéseket ezen a területen a Közbeszerzési
+Döntőbizottság szintjén, illetve hogy a bíróságok
+tekintetében is érvényesüljön a specializáció.
+Indokolt az ezzel kapcsolatos garanciák rögzítése
+a jogszabályokban.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. 146. § (2) bekezdése szerint a Közbeszerzési Döntőbizottság – a Közbeszerzési Hatóság tájékoztatása szerint –
+az ügyek 99%-ában három tagú tanácsban jár el, a jogszabály rögzíti, hogy az eljáró tanács tagjai közül legalább két tagnak
+jogi szakvizsgával, legalább egy tagnak – európai uniós támogatással érintett közbeszerzési ügy esetén – az európai uniós
+támogatásból megvalósuló beszerzésekkel kapcsolatos tapasztalattal, további egy tagnak pedig az ügy tárgyával leginkább
+összefüggő egyetemi vagy főiskolai végzettséggel kell rendelkeznie. Az eljáró tanács elnöke kizárólag jogi szakvizsgával
+rendelkező közbeszerzési biztos lehet. A Kormány álláspontja szerint a jogszabályi garancia ezáltal már rendelkezésre áll.
+Az Országos Bírósági Hivatal – valamint a Kúria – által rendelkezésre bocsátott információk szerint a Fővárosi Törvényszék
+tekintetében megvalósul a specializáció, a Fővárosi Ítélőtábla Közigazgatási Kollégiumában lényegében értelmezhetetlen
+a specializáció felvetése, a Kúrián a hatályos jogszabályokon alapuló eljárásrendi, szervezeti-működési keret nem
+teszi lehetővé, hogy a közbeszerzési ügyekben külön, kizárólag erre az ügycsoportra specializálódott tanács járjon el,
+ugyanakkor a közbeszerzési ügyeket tárgyaló bármely tanács rendelkezik a szükséges szakértelemmel. Az Országos Bírósági
+Hivatal ismertette továbbá a megküldött tájékoztatásában, hogy a Fővárosi Törvényszék Közigazgatási Kollégiumában
+a közbeszerzési ügyekben ítélkező bírói tanácsok megfelelő specializációval rendelkeznek a felmerülő jogviták elbírálása
+tekintetében, az ítélkezés szakmailag magas színvonalon és időszerűen történik, az Országos Bírósági Hivatal álláspontja
+szerint a jelenleg hatályos jogszabályi környezet megfelelő a közbeszerzési jogorvoslati ügyek bírósági elbírálása
+tekintetében.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és nyitott
+az ezzel kapcsolatos részletes egyeztetésekre, azonban a fentiek szerint az Integritás Hatóság által ajánlott jogalkotási
+intézkedés indokoltságát a Kormány nem tudta azonosítani.
+23. sz. ajánlás A Közbeszerzési Döntőbizottság gyakorlatának
+integritás-szempontú erősítése
+A Hatóság rögzíti, hogy indokolt a Közbeszerzési
+Döntőbizottság joggyakorlatát integritás
+szempontból erősíteni. Az Integritás Hatóság
+vizsgálati tapasztalatai több ponton arra mutatnak,
+hogy az alkalmazott jogkövetkezmények ebből
+a szempontból nem érik el azt a szintet, ami
+az ajánlatkérők vagy a piaci szereplők viselkedését
+tartósan képes lenne megváltoztatni. Ennek
+megfelelően több ponton szükséges módosítani
+a jogorvoslati rendszeren:
+– meg kell teremteni a jogszabályi feltételeit annak,
+hogy az egyes közbeszerzési eljárásokon átívelő
+jogsértési mintázatok is értékelhetők legyenek
+a Közbeszerzési Döntőbizottság által, és ezen eljárások
+egységes jogorvoslati eljárás keretében legyenek
+kezelhetők eltérő ajánlatkérők esetén is;
+– a Közbeszerzési Döntőbizottság részére jogkört kell
+biztosítani arra, hogy bizonyos jogsértések (pl. verseny
+tisztaságát sértő cselekmények) esetén kizáró ok hatálya
+alá helyezhessen gazdasági szereplőket.
+A Kormány a javaslattal nem
+ért egyet.
+A Kbt. 155. § (1) bekezdése alapján a Közbeszerzési Döntőbizottság együttes elintézés végett elrendelheti az előtte
+folyamatban levő olyan ügyek egyesítését, amelyek tárgya egymással összefügg, vagy ha az ügyek együttes elintézését
+célszerűségi, gazdaságossági vagy más eljárási szempontok indokolják. A Kormány álláspontja szerint ezért erre
+vonatkozóan további jogalkotás nem szükséges, az Integritás Hatóság ajánlásában foglaltak a hatályos eljárási szabályok
+között is megvalósíthatóak.
+A Közbeszerzési Hatóság tájékoztatta a Kormányt, hogy a rendelkezésére álló eszközök alkalmazásával adott esetben
+a Közbeszerzési Döntőbizottság hoz közbeszerzési eljárásokon átívelő döntéseket (lásd pl. a D.571/27/2025. sz. határozatot,
+amelyben a Döntőbizottság a Hatóság elnöke kezdeményezése alapján több ajánlattevő, több ajánlatkérő, több,
+közvilágítás korszerűsítésére irányuló közbeszerzési eljárásában elkövetett versenykorlátozó magatartását állapította meg).
+Az Európai Unió Bíróságának C-41/18. sz., Meca Srl kontra Comune di Napoli ügyben hozott ítélete kimondta, hogy
+a 2014/24/EU európai parlamenti és tanácsi irányelv 57. cikk (4) bekezdése megfogalmazásából az következik, hogy
+az uniós jogalkotó az ajánlatkérő szervre, és kizárólag rá kívánta bízni annak értékelését, hogy egy ajánlattevőt ki kell-e
+zárni a közbeszerzési eljárásból. Az uniós jogalkotó akarata az, hogy lehetővé tegye az ajánlatkérő hatóság számára, hogy
+maga értékelje azokat a cselekményeket, amelyeket valamely gazdasági szereplő követett el vagy mulasztott el akár
+a közbeszerzési eljárás előtt, akár annak során a hivatkozott irányelv 57. cikk (4) bekezdésében előírt esetek egyikében.
+A fentiek miatt a Kormány úgy látja, hogy az ajánlás azon része, amely a Közbeszerzési Döntőbizottság általi kizáró ok
+alá helyezésre vonatkozik, nem hozható összhangba az uniós joggal és annak irányadó uniós bírósági értelmezésével,
+így az Integritás Hatóság által ajánlott jogalkotási intézkedést a Kormány nem látja megvalósíthatónak.
+
+24. sz. ajánlás Kereshető jogorvoslati adatbázisok létrehozása
+Indokolt a bírósági ítéletek tekintetében önálló
+nyilvántartás kialakítása a Közbeszerzési Hatóság
+honlapján, továbbá egy olyan keresőfelület kialakítása
+a döntőbizottsági határozatok és az ítéletek
+vonatkozásában egyaránt, amely segítségével
+megbízhatóan lehet keresni a határozatok, ítéletek
+egyes jellemzőire (tárgyakra, megsértett jogszabályi
+rendelkezésekre stb.).
+A Kormány a javaslattal
+egyetért.
+A Kormány véleménye szerint a jogorvoslatok hatósági és bírósági szakaszának adatait célszerű lenne a közbeszerzési
+eljárási adatokkal egy helyen elérhetővé, tematikusan kereshetővé tenni.
+Intézkedés: A közbeszerzésekért felelős miniszter megvizsgálja a jogorvoslati adatbázis fejlesztésének lehetséges
+megoldásait, és – a vizsgálat eredményének függvényében – előkészíti a kapcsoló Kbt. módosítás tervezetét és/vagy
+az EKR fejlesztését.
+25.1. sz. ajánlás A feltételes közbeszerzési eljárás
+alkalmazhatóságának korlátozása
+A Hatóság változatlanul indokoltnak tartja
+a feltételes közbeszerzésre vonatkozó jogszabályi
+előírások pontosítását, minimálisan annak rögzítésével,
+hogy a támogatási kérelem benyújtását megelőzően ne
+kerülhessen sor a közbeszerzési eljárás kiírására, illetve
+a hatálybalépésre – a gazdasági környezet realitásaira
+figyelemmel –, a jelenlegi gyakorlatban érvényesülőnél
+lényegesen rövidebb (maximum 90 napnyi) határidő
+alatt kerülhessen sor, a határidő Kbt.-ben történő
+rögzítése mellett, annak egyértelművé tételével, hogy
+e határidő nem meghosszabbítható.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és maga is
+úgy értékeli, hogy a feltételes közbeszerzési eljárások alkalmazási gyakorlata különös odafigyelést kíván.
+A közbeszerzések hatékonyságát és költséghatékonyságát értékelő teljesítménymérési keretrendszer az egyajánlatos
+eljárások arányát új alindikátorként vizsgálja, összefüggésben azzal is, hogy az Integritás Hatóság jelentései szerint
+a feltételes közbeszerzések negatívan hatnak a verseny szintjére (58.8. alindikátor). A vizsgálat eredménye szerint
+a feltételes közbeszerzések körében a közbeszerzéseken általánosan érvényesülő átlagnál jóval alacsonyabb
+az egyajánlatos közbeszerzések aránya, amelynek alapján azt a következtetést vonhatjuk le, hogy önmagában a feltételes
+jelleg nem csökkenti a gazdasági szereplők ajánlattételi hajlandóságát. A feltételes közbeszerzésekkel kapcsolatos
+bizonytalanságot csökkenti, hogy az uniós forrásfelhasználás körében az NFK KFF gyakorlata nem engedi a szerződés
+hatályba lépését fél évnél hosszabb időre felfüggeszteni.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja szükségesnek.
+25.2. sz. ajánlás A feltételes közbeszerzési eljárás
+alkalmazhatóságának korlátozása
+A Hatóság ajánlja továbbá, hogy az ellenőrző szervek
+fordítsanak kiemelt figyelmet annak ellenőrzésére, hogy
+a feltételes közbeszerzés lehetőségét az ajánlatkérők
+nem használják-e visszaélésszerűen, azaz csak indokolt
+esetben kerül-e sor a szerződéskötés mellőzésére.
+A Kormány a javaslattal
+egyetért.
+A Kormány elkötelezett az ilyen típusú visszaélésekkel szembeni küzdelemben. Az ellenőrző szervek a feladataikat
+a jogszabályoknak megfelelően folyamatosan ellátják, a szerződéskötés jogellenes megtagadásával szemben az érintett
+gazdasági szereplő jogorvoslati eljárást is kérelmezhet, így összességében a Kormány részéről az ajánlás alapján további
+intézkedés szükségessége nem volt azonosítható.
+26. sz. ajánlás Az eredménytelenséghez vezető esetek vizsgálata
+A megelőző évi integritásjelentésben kifejtetteket
+e tekintetben is fenntartja a Hatóság.
+Az eljárások magas eredménytelenségi szintje
+– a gazdasági szereplőkre ennek révén háruló
+felesleges költségek miatt – ugyancsak negatívan
+hathat a közbeszerzési eljárásokban érvényesülő
+verseny szintjére. A közbeszerzési eljárások előkészítése
+színvonalának – korábban már tárgyalt – növelésén túl
+indokolt az eredménytelenségi esetek vizsgálata, és
+megfelelő intézkedések révén az arány visszaszorítása.
+A Kormány a javaslattal
+egyetért.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és maga
+is úgy értékeli, hogy a közbeszerzési eljárások eredménytelensége a gyakorlatban hatékonysági kérdéseket vethet fel, és
+különös odafigyelést kíván.
+A közbeszerzések hatékonyságát és költséghatékonyságát értékelő teljesítménymérési keretrendszer vizsgálja
+az eredménytelenségi okokat, a Kormány minden évben felülvizsgálja a közbeszerzésekben a verseny szintjének növelését
+célzó intézkedésekre vonatkozó cselekvési tervet. Összességében a Kormány részéről az ajánlás alapján további konkrét
+intézkedésre vonatkozó elvárás nem volt azonosítható.
+
+27. sz. ajánlás Az aránytalanul alacsony árra vonatkozó
+szabályozás módosítása
+A Hatóság fenntartja továbbá azon korábbi
+ajánlását, hogy az árindokolásokra, illetve kiegészítő
+árindokolásokra – amelyek egyike sem képezi részét
+az ajánlati kötöttséggel érintett ajánlati tartalomnak –
+nem indokolt az ajánlati kötöttséggel terhelt ajánlati
+tartalomnál szigorúbb megközelítés alkalmazása.
+A Hatóság változatlanul javasolja ezért, hogy
+az árindokolások, kiegészítő árindokolások
+további pontosítása, módosítása tekintetében
+a Kbt. 71. § (8) bekezdése szerinti hiánypótlási
+korlátokat tegye alkalmazandóvá a jogalkotó.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány az ajánlás céljával egyetért. A 2014/24/EU irányelv 69. cikkéből fakadó követelmény egyrészt, hogy az ajánlat
+kirívóan alacsonynak tűnő jellegét a kivitelezendő építési beruházáshoz, szállítandó áruhoz vagy nyújtandó szolgáltatáshoz
+képest kell megítélni; másrészt, hogy az ajánlatkérőnek az ajánlattevővel folytatott konzultáció útján ellenőriznie kell
+az ajánlattevő magyarázatában megadott információkat. A gyakorlati jogalkalmazás során az a kérdés merül fel, hogy
+a magyarázat ellenőrzésére szolgáló konzultáció során az ajánlattevőnek milyen mértékben van lehetősége az eredeti
+magyarázatától eltérni anélkül, hogy az a magyarázat objektivitását megkérdőjelezné.
+Intézkedés: Mivel a fenti jogalkalmazási gyakorlat szabályozási szempontból nehezen kezelhető, a Kormány egyeztetést
+kezdeményez az Integritás Hatósággal a lehetséges megoldások vizsgálatára vonatkozóan.
+28. sz. ajánlás Az alapelvi jogsértések vizsgálata
+A 11. sz. ajánlásban rögzítetteken túl a Hatóság utalni
+kíván az előzőekkel összefüggésben arra is, hogy
+a 2025. évben jelentősen nőtt az alapelvi jogsértések
+aránya a jogorvoslati eljárásokban (a teljesítménymérési
+keretrendszer adatai szerint a 2024. évi 9 esetről
+a 2025. évben 33 esetre), így javasolt annak vizsgálata,
+hogy azokon a területeken, amelyeket az alapelvi
+jogsértések érintenek, nem indokolt-e a jogszabály
+módosítása a követelmények egyértelművé tétele
+érdekében.
+A Kormány a javaslattal
+nem ért egyet.
+A Kbt. 2. § (7) bekezdése szerint a Kbt. rendelkezéseinek alkalmazásakor, valamint a jogszabályban nem rendezett
+kérdésekben a közbeszerzésekre vonatkozó szabályozás céljával összhangban a közbeszerzés alapelveinek tiszteletben
+tartásával kell eljárni. A törvényi alapelveken alapuló hatósági döntések egyedi konkrét helyzetekben fejtik ki az alapelvből
+fakadóan elvárt magatartást, az alapelvek ezáltal töltik be normatív funkciójukat. A Kormány egyetért azzal, hogy a törvényi
+alapelveknek mindenben megfelelő közbeszerzési eljárások lefolytatása kiemelt cél, ugyanakkor úgy ítéli meg, hogy nem
+lehetséges és nem is célszerű az egyedi döntések alapján egyedi részletszabályokat alkotni, mivel ez növelné a joganyag
+bonyolultsági szintjét.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint nem lenne igazán hatékony eszköz a gyakorlati jogalkalmazási nehézségek
+kiküszöbölésére. A Közbeszerzési Hatóság keretében működő Tanács útmutatóinak rendszeres felülvizsgálata vagy
+a Közbeszerzési Értesítő Plusz folyóirat alkalmas például a jogalkalmazási fejlemények ismertetésére.
+
+29.1. sz. ajánlás A jogszabályi keretek egyértelművé tétele
+A Hatóság fenntartja azon korábbi ajánlását, miszerint
+az összeférhetetlenségi/érdekeltségi nyilatkozatok
+ellenőrzésére irányadó ajánlatkérői belső szabályozók
+kialakításának szükségességét a Kbt.-ben szükséges
+rögzíteni. Indokolt a közbeszerzési szabályzatok
+kötelező tartalmi elemévé tenni továbbá az esetleges
+összeférhetetlenség bejelentésével, a helyzetek
+kezelésével kapcsolatos követelményeket is,
+annak érdekében, hogy a felismert, illetve feltárt
+összeférhetetlenségi helyzetek következményeinek
+érvényesítése se maradjon el. A nemzetközi jó
+gyakorlatok alapulvételével a Hatóság javasolja az etikai
+szabályzatok alkalmazásának kötelezővé tételét
+az ajánlatkérők számára, amelyek iránymutatásul
+szolgálhatnának a közbeszerzési eljárások ajánlatkérői
+oldalról bevont szereplői számára a potenciális
+jogsértések elkerüléséhez, az össszeférhetetlenségi
+helyzetek felismeréséhez, a potenciális kockázatok
+megelőzéséhez, kezeléséhez.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+természetesen kiemelt fontosságú kérdésnek tekinti az összeférhetetlenségi helyzetek megelőzésével és kezelésével
+összefüggő joggyakorlat fejlesztését. A Kormány ugyanakkor nem ért egyet a szabályozás javasolt kiegészítésével
+a Kbt.-ben az alábbiakra tekintettel.
+A Közbeszerzési Hatóság keretében működő Tanács – melyben az Integritás Hatóság is tagként képviselteti magát –
+2023. május 25-én kiadta, majd 2024. május 9-én kiegészítette az összeférhetetlenséggel kapcsolatos útmutatót, ami
+részletezi a Kbt. előírásai alapján a kötelezettségeket. Az etikai szabályzatok lényege, hogy önkéntesen alkalmazhatóak,
+fogalmilag nem lehetnek kötelezőek. A Közbeszerzési Hatóság keretében működő Tanács 2022. február 10-én elfogadta
+a Közbeszerzési Etikai Kódexet, mely ajánlás jellegű, az érintettek önként alávethetik magukat az abban foglaltaknak, illetve
+az alapján kidolgozhatják saját közbeszerzési etikai kódexüket.
+A fentiek alapján a Kormány álláspontja szerint az ajánlatkérők a megfelelő útmutatásokhoz a jogszabály alkalmazásához
+hozzáférnek, ugyanakkor minden ajánlatkérő számára egyaránt alkalmazható, törvényi szintű szabályozásra nincs
+lehetőség. Ez olyan gyakorlati jogalkalmazási kérdés, amelyet minden ajánlatkérőnek a saját szervezete és működési módja
+alapján kell megszerveznie, jogalkotói szintről a konkrétumok meghatározása nem lehetséges.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott jogalkotási intézkedést a Kormány nem látja célszerűnek,
+mivel ez a Kormány véleménye szerint nem lenne igazán hatékony eszköz a gyakorlati jogalkalmazási nehézségek
+kiküszöbölésére.
+29.2. sz. ajánlás Az összeférhetetlenségi kockázatok rendszerszintű
+kezelése
+A Hatóság álláspontja szerint az összeférhetetlenségi
+kockázatok érdemi kezelése nem elsősorban további
+nyilatkozattételi kötelezettségek, hanem a meglévő
+információk strukturált, adatalapú felhasználása révén
+valósítható meg.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt,
+ugyanakkor a Kormány értelmezése szerint a konkrét ajánlásokat a következő alpontok tartalmazzák, így a részletes
+álláspont az alábbiakban kerül kifejtésre.
+29.3. sz. ajánlás Központi összeférhetetlenségi adatbázis kialakítása
+Indokolt egy olyan központi összeférhetetlenségi
+adatbázis létrehozása, amely lehetővé teszi
+az összeférhetetlenséggel kapcsolatos releváns adatok
+egységes rögzítését és elemzését, az érdekeltségi és/
+vagy vagyonnyilatkozatok integrálásával. Az adatbázis
+célja nem az egyes személyek automatikus kizárása,
+hanem az összeférhetetlenségi kockázatok
+mintázatainak felismerése. A Hatóság javasolja
+tehát az érdekeltségi nyilatkozatok központi
+gyűjtésére és ellenőrzésére irányuló rendszer
+kialakítását, adott esetben a vagyonnyilatkozati
+rendszerrel való összekapcsolását.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság értékelésével abban, hogy az összeférhetetlenségi helyzetek megelőzésével és
+kezelésével összefüggő joggyakorlatot és ellenőrzési gyakorlatot kiemelt kérdésként szükséges kezelni.
+Az (EU) 2016/679 rendelet (GDPR) értelmében a személyes adatkezelés konkrét céljainak már a személyes adatok
+gyűjtésének időpontjában meghatározottaknak kell lenniük. A személyes adatoknak a kezelésük céljára alkalmasaknak és
+relevánsaknak kell lenniük, az adatok körét pedig a célhoz szükséges minimumra kell korlátozni. Ehhez pedig biztosítani kell
+különösen azt, hogy a személyes adatok tárolása a lehető legrövidebb időtartamra korlátozódjon. Személyes adatok csak
+abban az esetben kezelhetők, ha az adatkezelés célját egyéb eszközzel észszerű módon nem lehetséges elérni. A fentiek
+alapján további vizsgálatot igényel, hogy a személyes adatok konkrét közbeszerzési eljárástól független, határozatlan idejű
+„készletre”gyűjtése adatbázisokban összeegyeztethető-e a GDPR alapelveivel és szabályaival.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja megvalósíthatónak,
+ez a Kormány véleménye szerint nem felelne meg annak az európai uniós jogszabályi logikának, amely
+az összeférhetetlenségi helyzetek vizsgálatát mindig az adott konkrét ügyben részt vevő személyek vonatkozásában
+teszi szükségessé.
+
+29.4. sz. ajánlás Az EKR-ben történő adatrögzítési kör bővítése
+A javasolt adatbázis feltöltése az EKR-en keresztül
+történhetne, az eljárások természetes adminisztratív
+folyamataihoz kapcsolódva. Ennek keretében
+különösen indokolt:
+– az eljárás előkészítésében részt vevő személyek,
+– a bírálóbizottsági tagok,
+– a döntéshozó személyek,
+– valamint az eljárás lefolytatásában érdemi szerepet
+betöltő személyek nevének és szerepkörének strukturált
+rögzítése.
+Indokolt továbbá annak jogszabályi rögzítése, hogy
+az összeférhetetlenségi nyilatkozatokat azok bekérését
+követően haladéktalanul szükséges feltölteni az EKR-be.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság értékelésével abban, hogy az összeférhetetlenségi helyzetek megelőzésével és
+kezelésével összefüggő joggyakorlatot és ellenőrzési gyakorlatot kiemelt kérdésként szükséges kezelni.
+A 2014/24/EU irányelv 22. cikke értelmében ugyanakkor az EKR célja a közbeszerzési kommunikáció elektronikus úton
+történő biztosítása, nem pedig állampolgárok személyes adatainak gyűjtése, tárolása, nyilvántartása.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja célszerűnek figyelemmel
+a 29.3. sz. ajánlással kapcsolatos kormányzati álláspontra is.
+29.5. sz. ajánlás Kockázatelemzés és megelőzés
+A központi adatbázis lehetővé tenné, hogy
+az összeférhetetlenségi kockázatok ne kizárólag egyedi
+eljárások szintjén, hanem időben és szervezeteken
+átívelően legyenek elemezhetők. Ez megteremtené
+a feltételeit annak, hogy az ellenőrző szervek
+– azonosítsák az ismétlődő kockázati mintázatokat,
+– célzott ellenőrzéseket végezzenek,
+– és támogassák az ajánlatkérőket a megalapozott
+döntéshozatalban.
+A központi nyilvántartásba feltöltésre kerülhetnének
+az érdekeltségi nyilatkozatok, illetve megfontolásra
+javasolt a vagyonnyilatkozatok felhasználása
+az összeférhetetlenségi nyilatkozatok teljességének
+és valóságtartalmának ellenőrzése céljából
+(a vagyonnyilatkozatok nyilvántartására és ellenőrzésére
+is javasolt egységes vagyonnyilatkozati nyilvántartási
+rendszer létrehozása; lásd ehhez kapcsolódóan
+az Integritás Hatóság 2023. évi vagyonnyilatkozati eseti
+jelentését is).
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság értékelésével abban, hogy az összeférhetetlenségi helyzetek megelőzésével és
+kezelésével összefüggő joggyakorlatot és ellenőrzési gyakorlatot kiemelt kérdésként szükséges kezelni.
+Az (EU) 2016/679 rendelet (GDPR) értelmében a személyes adatkezelés konkrét céljainak már a személyes adatok
+gyűjtésének időpontjában meghatározottaknak kell lenniük. A személyes adatoknak a kezelésük céljára alkalmasaknak és
+relevánsaknak kell lenniük, az adatok körét pedig a célhoz szükséges minimumra kell korlátozni. Ehhez pedig biztosítani kell
+különösen azt, hogy a személyes adatok tárolása a lehető legrövidebb időtartamra korlátozódjon. Személyes adatok csak
+abban az esetben kezelhetők, ha az adatkezelés célját egyéb eszközzel észszerű módon nem lehetséges elérni. A fentiek
+alapján további vizsgálatot igényel, hogy a személyes adatok konkrét közbeszerzési eljárástól független, határozatlan idejű
+„készletre”gyűjtése adatbázisokban összeegyeztethető-e a GDPR alapelveivel és szabályaival.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja megvalósíthatónak,
+ez a Kormány véleménye szerint nem felelne meg annak az európai uniós jogszabályi logikának, amely
+az összeférhetetlenségi helyzetek vizsgálatát mindig az adott konkrét ügyben részt vevő személyek vonatkozásában teszi
+szükségessé.
+29.6. sz. ajánlás Az ajánlatkérők támogatása
+A Hatóság hangsúlyozza, hogy a javasolt rendszer
+nem az ajánlatkérők terheinek növelését, hanem
+éppen azok csökkentését szolgálná. Az egységes
+adatbázis és az azokon alapuló elemzések segítségével
+az ajánlatkérők objektív, visszakereshető információkra
+támaszkodhatnának az összeférhetetlenségi helyzetek
+megítélése során, csökkentve a jogalkalmazási
+bizonytalanságot.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság értékelésével abban, hogy az összeférhetetlenségi helyzetek megelőzésével és
+kezelésével összefüggő joggyakorlatot és ellenőrzési gyakorlatot kiemelt kérdésként szükséges kezelni.
+Figyelemmel arra, hogy az ajánlatkérők kizárólag a saját közbeszerzési eljárásukba bevont személyek adatait jogosultak
+kezelni [Kbt. 25. § (10) bekezdése], ezért számukra a központi nyilvántartás hozzáadott értékkel nem rendelkezne.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja megvalósíthatónak,
+ez a Kormány véleménye szerint nem felelne meg annak az európai uniós jogszabályi logikának, amely
+az összeférhetetlenségi helyzetek vizsgálatát mindig az adott konkrét ügyben részt vevő személyek vonatkozásában teszi
+szükségessé.
+
+30. sz. ajánlás Az előzetes piaci konzultációk hatékonyságának
+növelése
+A Hatóság álláspontja szerint az előzetes piaci
+konzultációk hatékonyságának növelése azt feltételezi,
+hogy az ajánlatkérők az eljárás előkészítésének azon
+szakaszában alkalmazzák, amikor még ténylegesen
+szándékuk és lehetőségük van a beérkezett észrevételek
+figyelembevételére, a közbeszerzési dokumentumok
+átalakítására. Másfelől a hatékonyságot fokozhatná
+– egyúttal az ajánlattevői bizalom visszaépítésének
+egyik lépcsője is lehetne – az is, ha – indokolt esetben –
+az előzetes piaci konzultáció gyakorlata az EKR
+felületén, írásban történő lebonyolítás mellett vagy
+annak keretében szóbeli egyeztetésekre is sor kerülne.
+A hatékony alkalmazás mindemellett nem kizárólag
+szabályozási kérdés: képzési és szemléletformálási
+feladat is, mind az ajánlatkérők, mind a gazdasági
+szereplők oldalán.
+A Kormány a javaslattal
+egyetért.
+A Kormány álláspontja szerint a hatályos szabályozási környezet [Kbt. és 63/2022. (II. 28.) Korm. rendelet] nem akadálya
+az Integritás Hatóság által javasolt cselekményeknek. A 2026 januárjától az EKR-ben elérhető, megújult EPK célja pont
+a felhasználók számára egyszerűen kezelhető, internetes fórumhoz vagy chathez hasonló felület kialakítása volt, amely
+közelíti a kommunikáció hatékonyságát a szóbelihez. Természetesen az EPK-t írásban kell dokumentálni, akkor is, ha szóbeli
+formában is zajlott. A Nemzeti Fejlesztési Központ 2024 novemberében útmutatót tett közzé a közbeszerzéshez kapcsolódó
+piacismeret megszerzése és a piaccal való kapcsolattartás eszközeiről. Az útmutatót az 1106/2026. (III. 23.) Korm. határozat
+2. pont c) alpontja értelmében a 2026. évben ki kell egészíteni.
+A Kormány egyetért az Integritás Hatóság értékelésével abban, hogy az előzetes piaci konzultációk minél hatékonyabb
+lefolytatása támogatandó cél, a Kormány ezt a fenti intézkedésekkel támogatja, az ajánlás alapján a Kormány számára
+további intézkedés szükségessége nem volt azonosítható, de természetesen a Kormány nyitott ezzel kapcsolatban is
+a további tapasztalatcserére az Integritás Hatósággal.
+31. sz. ajánlás Az EKR-rel kapcsolatos javaslatok
+A Hatóság javasolja, hogy az EKR-ben olyan további
+funkciók kerüljenek beépítésre, amelyek csökkentik
+az ajánlattevők közbeszerzési eljárásokkal kapcsolatos
+adminisztratív terheit, egyszerűsítik az ajánlattételt, és
+minimalizálják az érvénytelen ajánlatok benyújtásának
+kockázatát. A Hatóság továbbra is fenntartja továbbá
+az ajánlattevők anonimitásának a bontás időpontjáig
+(és nem az ajánlat benyújtásáig) történő biztosítására,
+valamint az ajánlattételi határidő lejárta és a bontás
+közötti várakozási idő teljes kiiktatására vonatkozó
+ajánlásait, az ajánlattevői bizalom visszaépítése
+érdekében.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett az ajánlattevők adminisztratív terheinek csökkentése iránt, és nyitott az Integritás Hatóság
+véleményének vizsgálatára az EKR további fejlesztési irányait illetően.
+A Kbt. 2026. 06. 29-étől hatályos 39. § (1) bekezdése szerint a közbeszerzési dokumentumok az EKR-ből regisztráció nélkül
+közvetlenül, korlátlanul és teljeskörűen, térítésmentesen elérhetőek. Anonim ajánlattétel (jognyilatkozat) ugyanakkor
+fogalmilag nem értelmezhető a Kormány megítélése szerint.
+Az EKR-ben az ajánlat vagy részvételi jelentkezés annak benyújtásával időzár alá kerül, az senki által nem megtekinthető,
+nem módosítható, így a várakozási idő kapcsán integritási kérdés fel sem merülhet. A Kormány 2025. március 1-jétől
+a bontás előtti várakozási időt (120-ról) 60 percre csökkentette. A várakozási idő ennél rövidebbre való csökkentése nem
+lehetséges műszaki okból, hiszen egy esetleges üzemzavar esetén az ajánlattételi határidőt meg kell hosszabbítani, és
+az ajánlatok automatikus felbontását ilyen esetben manuális beavatkozással ki kell kapcsolni az ajánlatok integritásának
+megőrzése érdekében.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja megvalósíthatónak.
+32.1. sz. ajánlás Az iratbetekintési szabályok pontosítása
+A Hatóság indokoltnak tartja a 424/2017. (XII. 18.)
+Korm. rendelet 20. § (1) bekezdése szerinti előírás
+hatályon kívül helyezését és annak jogszabályi
+rögzítését (a korábbi éves integritásjelentésekben
+részletezett indokokra tekintettel), hogy
+az iratbetekintés online úton vagy személyes
+részvétellel is megvalósítható, a kérelmező gazdasági
+szereplő kérelmének megfelelően.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság arra vonatkozó értékelésével, hogy az iratbetekintési jog gyakorlásának
+biztosítása a gazdasági szereplők számára rendkívül lényeges.
+Ugyanakkor a Kormány nem ért egyet az iratbetekintés elektronikus úton történő biztosításával, mivel az iratbetekintés
+céljával arányosan, azaz csak a jogorvoslathoz való jog gyakorlásához feltétlenül szükséges mértékben van lehetőség
+a másik ajánlattevő ajánlatának megtekintésére, ezért az ajánlatkérő közvetlen felügyelete nélküli, távolról történő
+elektronikus betekintés nem megengedhető.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja arányosnak és
+indokoltnak.
+
+32.2. sz. ajánlás Az iratbetekintési szabályok pontosítása
+A Hatóság javasolja továbbá annak egyértelművé
+tételét a Kbt.-ben, hogy – a Közbeszerzési
+Döntőbizottság előtti iratbetekintéshez hasonlóan –
+a gazdasági szereplő a megtekintett iratokról másolatot
+(fényképet) készíthet.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság arra vonatkozó értékelésével, hogy az iratbetekintési jog gyakorlásának
+biztosítása a gazdasági szereplők számára rendkívül lényeges.
+A Kormány ugyanakkor nem ért egyet az iratbetekintés iratmásolat útján történő biztosításával, mivel az iratbetekintés
+céljával arányosan, azaz csak a jogorvoslathoz való jog gyakorlásához feltétlenül szükséges mértékben van lehetőség
+a másik ajánlattevő ajánlatának megtekintésére.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja arányosnak és
+indokoltnak.
+32.3. sz. ajánlás Az iratbetekintési szabályok pontosítása
+A Hatóság álláspontja szerint egyértelművé szükséges
+tenni, hogy a Kbt. 45. §-ának keretei között, az indokolt
+körben kért dokumentumok megismerésének
+időtartamát az ajánlatkérők nem korlátozhatják.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért az Integritás Hatóság arra vonatkozó értékelésével, hogy az iratbetekintési jog gyakorlásának
+biztosítása a gazdasági szereplők számára rendkívül lényeges.
+A Kbt. 45. §-a jelenleg sem tartalmaz az iratbetekintés időtartamára vonatkozó korlátozást, csupán azt, hogy a betekintést
+az ajánlatkérő a gazdasági szereplő által megjelölt feltételezett jogsértéshez kapcsolódó jogérvényesítéséhez szükséges
+mértékben köteles biztosítani. Ennek megszegése önmagában jogorvoslati kérelemmel támadható. Ugyanakkor
+a gyakorlat fejlesztése érdekében„soft law”eszközökkel az ajánlatkérők további tájékoztatása elérhető.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét jogalkotási intézkedést a Kormány nem látja szükségesnek.
+33. sz. ajánlás A Kbt. alanyi hatályának tisztázását célzó javaslatok
+A közjogi szervezetekre vonatkozó módosított
+szabályozás uniós joggal összhangban való értelmezése
+és alkalmazása érdekében az Integritás Hatóság
+iránymutatás kiadását indítványozza, továbbá a Kbt.
+2024 februárjától beiktatott 5. § (3) bekezdése
+tekintetében a Hatóság szükségesnek tartja annak
+egyértelművé tételét, hogy a jogalkotó mit ért
+a„közvetlenül az Európai Unióból származó forrásból
+finanszírozzák”meghatározás alatt.
+A Kormány a javaslattal
+egyetért.
+A Közbeszerzési Hatóság elnöke 2026. július 29-én közzétette tájékoztatóját a Kbt. 5. § (1) bekezdés e) pontja szerinti
+ajánlatkérői minőség feltételeiről. A segédanyag gyakorlati segítséget nyújt az érintett szervezeteknek ajánlatkérői
+minőségük megállapításához.
+Intézkedés: A közbeszerzésekért felelős miniszter gondoskodik a Kbt. soron következő módosítása során a Kbt. 5. §
+(3) bekezdése hatályon kívül helyezésének kezdeményezéséről.
+34.1. sz. ajánlás Az offshore kizáró ok alkalmazásával kapcsolatos
+javaslatok
+Az offshore kizáró ok megfelelő érvényesítéséhez
+a Hatóság szerint az is szükséges, hogy az ajánlatkérő
+a gazdasági szereplők vonatkozó nyilatkozatai
+tartalmát ellenőrizni tudja a tényleges tulajdonosi
+nyilvántartásból. Javasolja ezért a Hatóság az ehhez
+szükséges jogszabály-módosítások, intézkedések
+megvalósítását.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány újraszabályozta a Kbt.-ben és a 321/2015. (X. 30.) Korm. rendeletben a tényleges tulajdonosokkal kapcsolatos
+adatszolgáltatási kötelezettséget.
+Erre tekintettel a Kormány véleménye szerint az új jogszabályi helyzet alapján célszerű az Integritás Hatóság ajánlását
+aktualizálni, a Kormány természetesen nyitott az Integritás Hatósággal való egyeztetésre.
+
+34.2. sz. ajánlás Az offshore kizáró ok alkalmazásával kapcsolatos
+javaslatok
+A Hatóság indokoltnak tartja az EKR-ben
+a Kbt. 62. § (1) bekezdés k) pont kb) alpontja
+szerinti nyilatkozat megtételére rendszeresített
+nyilatkozatminta pontosítását oly módon, hogy
+a gazdasági szereplő arról is kifejezetten köteles legyen
+nyilatkozni, hogy a tényleges tulajdonosát képes-e
+(hajlandó-e) megnevezni.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. és a 321/2015. (X. 30.) Korm. rendelet vonatkozó pontjai 2026. június és július hónapban módosultak, az ajánlás még
+a korábban hatályos szövegezéshez kapcsolódott.
+Erre tekintettel a Kormány véleménye szerint az új jogszabályi helyzet alapján célszerű az Integritás Hatóság ajánlását
+aktualizálni, a Kormány természetesen nyitott az Integritás Hatósággal való egyeztetésre.
+34.3. sz. ajánlás Az offshore kizáró ok alkalmazásával kapcsolatos
+javaslatok
+A Hatóság megfontolásra ajánlja továbbá a Kbt. 62. §
+(1) bekezdés k) pont ka) alpontja szerinti kizáró ok
+kiterjesztését arra az esetre is, ha a közbeszerzési
+eljárásban részt vevő gazdasági szereplők tulajdonosi
+láncolatában bármely tulajdonos gazdasági szereplő
+offshore vállalkozásnak minősül.
+A Kormány a javaslattal
+nem ért egyet.
+Az Európai Unióban, Európai Gazdasági Térségben letelepedett gazdasági szereplők és a közösségi származású áruk
+számára a közbeszerzési eljárásban nemzeti elbánást kell nyújtani. Az Európai Unión, Európai Gazdasági Térségen kívül
+letelepedett gazdasági szereplők és a nem közösségi származású áruk számára a közbeszerzési eljárásban nemzeti elbánást
+Magyarországnak és az Európai Uniónak a közbeszerzések terén fennálló nemzetközi kötelezettségeivel összhangban kell
+nyújtani. [Kbt. 2. § (5) bekezdése] Ez alól kivételeket kizárólag az uniós jogalkotó jogosult előírni, ld. pl. az ukrajnai helyzetet
+destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU rendelet 5k. cikk (1) bekezdés
+b) és c) pontját.
+Fentiekre tekintettel a Kormány megítélése szerint az ajánlás megvalósítása az uniós joggal ellentétes helyzetet
+eredményezne, ugyanakkor a Kormány természetesen nyitott az Integritás Hatósággal való egyeztetésre.
+35. sz. ajánlás Az építési beruházásokra irányadó speciális
+szabályok felülvizsgálata
+A Hatóság változatlanul szükségesnek tartja az állami
+építési beruházásokra vonatkozó speciális szabályozás
+indokoltságának és hatásainak átfogó felülvizsgálatát.
+A Kormány a javaslattal
+egyetért.
+Intézkedés: A Közlekedési és Beruházási Minisztérium elkötelezett amellett, hogy megújítsa az Ábtv. és szabályozási
+környezetébe tartozó joganyagot. Ennek érdekében az illetékes szakmai szervezetekkel, államigazgatási szervekkel,
+valamint piaci szereplők széles körével vette fel a kapcsolatot az új szabályozási koncepció kialakítása érdekében.
+A közlekedési és beruházási miniszter tehát gondoskodik az állami építési beruházásokra vonatkozó szabályozás
+felülvizsgálatához szükséges intézkedésekről.
+36. sz. ajánlás A Kbt. 114. §-ának (11)–(12) bekezdése szerinti
+fenntartási előírások alkalmazása
+A Hatóság javasolja a Kbt. 114. § (11) bekezdése
+szerint fenntartott közbeszerzésekre
+vonatkozó előírások pontosítását a 2024. éves
+integritásjelentésben részletesen kifejtettek szerint.
+A Kormány a javaslattal
+részben egyetért.
+Intézkedés: A közbeszerzésekért felelős miniszter gondoskodik a Kbt. soron következő módosítása során
+a Kbt. 114. § (11)–(12) bekezdése szerinti fenntartási lehetőség hatályon kívül helyezésének kezdeményezéséről.
+
+37.1. sz. ajánlás A közbeszerzési szakma megújítása – alkalmazott és
+külső szakértők
+A Hatóság ezért az európai uniós professzionalizációs
+irányzattal jobban összeegyeztethetőnek
+tartaná, ha a két rendszer ötvözésre kerülne
+a szakma megújítása során: a rendszeresen
+közbeszerző ajánlatkérők többet dolgozhatnának
+az alkalmazásukban álló közbeszerzőkkel, azonban
+továbbra is elérhetőek lennének„szabadúszó”
+közbeszerzési tanácsadók is, akik bevonása indokolt
+lehet akár a közbeszerzés, akár az ajánlatkérő
+sajátosságai miatt (például az adott szakember a tárgyi
+közbeszerzés szakértője, vagy az ajánlatkérő – méretére
+vagy finanszírozására tekintettel – csak esetenként
+köteles alkalmazni a közbeszerzési törvényt).
+A Kormány a javaslattal
+egyetért.
+A Kbt. módosított 197/E. § (1) bekezdése szerint a felelős akkreditált szaktanácsadók bevonására vonatkozó hatályos
+szabályozás 2026. 12. 31-ig meghosszabbításra került. Az 1086/2025. (III. 31.) Korm. határozat 2. pont d) alpontjában
+a Kormány felhívta a közigazgatási és területfejlesztési minisztert, hogy készítse el a közbeszerzési szakma
+professzionalizálására vonatkozó stratégiát.
+Intézkedés: A stratégia elkészítése során a Kormány megfontolja az ajánlást.
+37.2. sz. ajánlás A közbeszerzési szakma bővítése, az elismert
+gyakorlatok új alapokra helyezése
+A Hatóság álláspontja szerint továbbá – amint
+azt már a 2024. éves integritásjelentésében is
+kiemelte – szükséges lenne a közbeszerzési
+szakértők körének bővítése: a jelenlegi, főszabály
+szerint csak az ajánlatkérői oldalon végzett bonyolítói
+tevékenységen túl az ajánlattevői oldalon szerzett
+közbeszerzési szakértői gyakorlat elismerése is fontos és
+indokolt lenne, az ellenőrzési és egyéb szakértői típusú
+gyakorlat elfogadása mellett. Ez túl azon, hogy segítené
+az ajánlattevői oldalon részt vevő szakemberréteg
+megerősödését, tapasztalatának elismerését,
+hozzájárulhatna az ajánlattevők közbeszerzési
+eljárásokban való eredményesebb részvételéhez.
+Ez a megközelítés segíthetné az összeférhetetlenségi
+helyzetek hatékonyabb elkerülését is, ily módon
+hozzájárulhatna a közbeszerzési integritás fokozásához.
+A Hatóság ajánlja azt is, hogy a közbeszerzési
+végzettséget, képzettséget szerző szakemberek
+– közbeszerzési szakjogászok, menedzserek,
+közbeszerzési tanácsadók, referensek és szakreferensek
+stb. – is felkerülhessenek a megújított közbeszerzési
+szakértői névjegyzékbe.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. módosított 197/E. § (1) bekezdése szerint a felelős akkreditált szaktanácsadók bevonására vonatkozó hatályos
+szabályozás 2026. 12. 31-ig meghosszabbításra került. Az 1086/2025. (III. 31.) Korm. határozat 2. pont d) alpontjában
+a Kormány felhívta a közigazgatási és területfejlesztési minisztert, hogy készítse el a közbeszerzési szakma
+professzionalizálására vonatkozó stratégiát.
+Intézkedés: A stratégia elkészítése során a Kormány megfontolja az ajánlást.
+
+38. sz. ajánlás A képzési rendszer új alapokra helyezése, a képző
+intézmények körének bővítése
+A professzionalizáció elősegítése, a szakemberek
+szakmai fejlődésének támogatása érdekében
+a névjegyzékbe kerülő szakemberek részére indokolt
+lenne továbbképzési kötelezettségek rögzítése és
+ennek körében bizonyos témakörök (pl. stratégiai
+közbeszerzések, integritás, piacfelmérés, beszerzési
+ismeretek, projektmenedzsment stb.) kiemelt kezelése.
+A rendszeres továbbképzési kötelezettség garanciát
+jelenthetne arra is, hogy a közbeszerzési szakemberek
+folyamatosan figyelemmel kísérjék a közbeszerzési
+jogszabályváltozásokat és a joggyakorlat alakulását.
+A Kormány a javaslattal
+egyetért.
+A Kbt. módosított 197/E. § (1) bekezdése szerint a felelős akkreditált szaktanácsadók bevonására vonatkozó hatályos
+szabályozás 2026. 12. 31-ig meghosszabbításra került. Az 1086/2025. (III. 31.) Korm. határozat 2. pont d) alpontjában
+a Kormány felhívta a közigazgatási és területfejlesztési minisztert, hogy készítse el a közbeszerzési szakma
+professzionalizálására vonatkozó stratégiát.
+Intézkedés: A stratégia elkészítése során a Kormány megfontolja az ajánlást.
+39. sz. ajánlás Az átmeneti időszakra vonatkozó szabályozás
+kialakítása
+A közbeszerzési szakma fentebb ismertetett átalakítása
+megfelelő előkészítést igényel, ezért a közbeszerzési
+eljárások és jogorvoslatok zökkenőmentes alkalmazása,
+bonyolítása érdekében a Hatóság indokoltnak
+tartja a faksz-jogosultság meghosszabbítását
+2026. december 31-éig, valamint a faksz-, illetve
+áksz-jogosultságok egyidejű kivezetését javasolja.
+A jogosultsági rendszerek megszüntetéséhez
+kapcsolódóan a Hatóság kiemelten fontosnak tartja
+a faksz-ok és áksz-ek korábbi szakértői tevékenységével
+kapcsolatos felelősség érvényesíthetőségének
+fenntartását, adott esetben ennek érdekében
+a szükséges jogszabályváltozások elfogadását.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. módosított 197/E. § (1) bekezdése szerint a felelős akkreditált szaktanácsadók bevonására vonatkozó hatályos
+szabályozás 2026. 12. 31-ig meghosszabbításra került. Az 1086/2025. (III. 31.) Korm. határozat 2. pont d) alpontjában
+a Kormány felhívta a közigazgatási és területfejlesztési minisztert, hogy készítse el a közbeszerzési szakma
+professzionalizálására vonatkozó stratégiát.
+Intézkedés: A stratégia elkészítése során a Kormány megfontolja az ajánlást.
+40. sz. ajánlás A közbeszerzési szakértői szakmai szervezet
+megújítása, a közbeszerzési szakértők
+felelősségének érvényesítése
+A Hatóság – a 2024. évben tett ajánlását fenntartva,
+a közbeszerzési szakma reformja esetén is – javasolja
+ilyen fórum kijelölését. A Hatóság indokoltnak
+tartja továbbá a közbeszerzési tanácsadók szakmai
+szervezetének valódi – a Kormánytól független –
+szakmai szervezetté alakítását, a testület tagjaira
+vonatkozóan átlátható kiválasztási szempontok
+kialakítását és érvényesítését.
+A Kormány a javaslattal
+részben egyetért.
+A Kbt. módosított 197/E. § (1) bekezdése szerint a felelős akkreditált szaktanácsadók bevonására vonatkozó hatályos
+szabályozás 2026. 12. 31-ig meghosszabbításra került. Az 1086/2025. (III. 31.) Korm. határozat 2. pont d) alpontjában
+a Kormány felhívta a közigazgatási és területfejlesztési minisztert, hogy készítse el a közbeszerzési szakma
+professzionalizálására vonatkozó stratégiát.
+Intézkedés: A stratégia elkészítése során a Kormány megfontolja az ajánlást.
+
+41. sz. ajánlás A közbeszerzés tárgya szerinti szakértelem
+megerősítése, névjegyzék létrehozása
+A Hatóság az előzőekre figyelemmel – a közbeszerzési
+szakértelemhez hasonlóan – kiemelten fontosnak
+tartja a műszaki szakértelem tényleges biztosítását
+a közbeszerzési eljárásokban és ennek érdekében
+a közbeszerzés tárgya szerinti szakértőkről is
+nyilvántartás vezetését, elérhetővé tételét.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány egyetért a közbeszerzési eljárások lehető legalaposabb előkészítésével és az Integritás Hatóság arra vonatkozó
+értékelésével, hogy a megfelelő műszaki szakértelemmel rendelkező szakértő rendelkezésre állása ehhez rendkívül
+lényeges.
+A különböző szakmák gyakorlóinak esetleges nyilvántartásainak vezetése ugyanakkor szakmánként történik,
+a közbeszerzésekhez külön műszaki-szakmai szakértői nyilvántartások létrehozatala a Kormány megítélése szerint nem
+lenne lehetséges, és duplikálná is a meglévő szakmai névjegyzékeket.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott konkrét intézkedést a Kormány nem látja célszerűnek.
+42. sz. ajánlás A gazdasági szereplők részvételét ösztönző
+szemlélet alkalmazására vonatkozó segédanyag
+készítése
+A Hatóság javasolja, hogy a Közbeszerzési Hatóság
+keretében működő Tanács bővítse a közbeszerzési
+eljárások előkészítésére vonatkozó útmutatót
+(2025. május 29.) a gazdasági szereplők részvételét
+ösztönző ajánlatkérői szemlélet fentiekben részletezett
+szempontjaival.
+A Kormány a javaslattal
+egyetért.
+A Közbeszerzési Hatóság keretében működő Tanács a közbeszerzési eljárások előkészítésére vonatkozó útmutató
+felülvizsgálatát már az Integritás Hatóság 2024. évi integritásjelentése kapcsán felvette a 2026. évi munkatervébe.
+Tekintettel arra, hogy az útmutató módosítása folyamatban van, így ennek keretében az kibővítésre kerül a gazdasági
+szereplők részvételét ösztönző ajánlatkérői szemléletnek az Integritás Hatóság 2025. évi integritásjelentésében megjelölt
+szempontjaival is.
+Intézkedés: A közbeszerzésekért felelős miniszter a Közbeszerzési Hatóság keretében működő Tanácsban a továbbiakban
+is együttműködik a Tanács tagjaival az útmutatók módosításai során. Az Integritás Hatóság a Tanácsba tagot delegál,
+így közvetlenül képviseli a javaslatait.
+43. sz. ajánlás Központosított közbeszerzési rendszerek
+tekintetében a kontrollmechanizmusok erősítése
+A Hatóság ajánlja ezért a már meglévő kontrollok, így
+például az egyes központi beszerző szervezetek által
+működtetett belső kontrollok megerősítése mellett
+a rendszer sajátosságaira tekintettel kialakított
+ellenőrzési rendszer kialakítását.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A Kormány 2026-ban már módosította a 162/2020. (IV. 30.)
+Korm. rendeletet (NKOH), valamint a 396/2023. (VIII. 24.) Korm. rendeletet (KKSZK). A központosított közbeszerzési
+rendszerek további felülvizsgálata ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+44. sz. ajánlás A központosított körbe vont termékek
+felülvizsgálatának szükségessége
+Fentiek alapján a Hatóság továbbra is ajánlja a jelenleg
+központosított körbe vont termékkörök felülvizsgálatát.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+45. sz. ajánlás A központosított rendszer alkalmazásának
+opcionálissá tétele
+A Hatóság a központosított körbe vont termékkör
+indokoltságának felülvizsgálatáig megfontolásra ajánlja
+a központosított közbeszerzés opcionálissá tételét.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+
+46. sz. ajánlás A központi beszerző szervezetek számának és
+szerepének felülvizsgálata
+A korábbi jelentésekben kifejtettek fenntartása mellett
+– a hatásköri kérdések tisztázása érdekében is –
+a Hatóság megfontolásra ajánlja valamennyi
+központi beszerző szervezet fenntartásának
+indokoltságát.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+47. sz. ajánlás A központosított közbeszerzési eljárás
+alkalmazásának értékhatárhoz kötése
+Ezzel összhangban a Hatóság szorgalmazza annak
+vizsgálatát, egyben ajánlja, hogy csak meghatározott
+értékhatár – például a nemzeti értékhatár – elérése
+esetén legyen kötelező a központosított közbeszerzés
+alkalmazása az intézmények számára.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+48. sz. ajánlás A központosított közbeszerzési rendszerek
+adatainak integrálása
+A korábbi években a Hatóság ezzel összefüggésben
+több ajánlással is élt. Fenntartja és továbbra is
+ajánlja annak vizsgálatát, hogy a központosított
+közbeszerzések adatai egységes informatikai
+rendszerben jelenjenek meg, vagy az EKR-be
+legyenek integrálva.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+
+49. sz. ajánlás A központosított közbeszerzési rendszerekben
+megvalósuló közbeszerzések adatainak
+többkomponensű és széles körű nyilvánossá tétele
+A Hatóság – fenntartva a korábbi években tett
+javaslatait e körben – ajánlja, hogy a nyilvánosság és
+az átláthatóság erősítése érdekében megismerhetővé
+kell tenni a központi beszerző szervezetek által
+kötött keretmegállapodások és dinamikus beszerzési
+rendszerek alapján kötött egyedi szerződések adatait,
+illetve odaítélésének egyes gazdasági szereplők
+közötti megoszlásával kapcsolatos adatokat, ideértve
+azok számát és értékét. Az egyedi szerződésekkel
+kapcsolatos adatok közzétételének rendjét valamennyi
+központi beszerző szervezet tekintetében egységes
+rend szerint kell előírni, ugyanis az egyes beszerző
+szervezetek eltérő rendet követnek, melynek
+eredményeként számos szerződés nem jelenik meg
+az adatbázisban. Nem elegendő továbbá a szerződött
+összértékek feltüntetése: biztosítani szükséges
+a keretmegállapodásokon alapuló eljárásokban elért
+egységárak megismerhetőségét, elemezhető módon
+történő hozzáférhetővé tételét.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+50. sz. ajánlás A központosított közbeszerzési rendszerek
+költséghatékonyságának felmérése
+A Hatóság valamennyi éves integritásjelentésben
+következetesen azt képviselte, hogy a központosított
+közbeszerzési rendszerek objektív alapokon nyugvó
+megítéléséhez elengedhetetlen, hogy e rendszerek
+hatékonyságának felmérésére célzott vizsgálatok
+keretében kerüljön sor.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+50.1. sz. ajánlás Ennek részeként szorgalmazta és továbbra is ajánlja
+olyan módszerek, standardok kialakítását, amelyek
+lehetővé teszik a központosított közbeszerzések
+keretében elért árak értékelését, a költséghatékonyság
+felmérését. Azzal együtt, hogy a közbeszerzések
+hatékonyságának mérése összetett feladat és sok
+komponensű, nem elvitatható, hogy a hatékonyság
+mérésére szolgáló rendszer lényegi elemét képezik
+a közbeszerzési rendszer költséghatékonyságára
+vonatkozó adatok is. Ennek részét képezik a központi
+beszerző szervezeteknek fizetett díjak is.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+
+50.2. sz. ajánlás Ebben a körben a Hatóság fenntartja korábbi
+ajánlását arra vonatkozóan is, hogy jelenlegi,
+százalékos formában meghatározott, a központi
+beszerző szervezet szolgáltatásáért fizetendő
+díjak tekintetében indokoltnak tartja a díjszabás
+felülvizsgálatát – a központi szervek működési
+költségeire is tekintettel –, továbbá a nominálisan
+meghatározott felső értékkorlát bevezetését.
+A kérdéskörhöz kapcsolódóan a Hatóság álláspontja
+szerint nem lehet indokolt olyan beszerzési igények
+ajánlatkérőktől való elvonása és a központi beszerző
+szerv általi megvalósítása, amelyekhez a központi
+beszerző szerv nem rendelkezik a megfelelő„házon
+belüli”szakértelemmel (ideértve a közbeszerzési és
+a közbeszerzés tárgya szerinti szakértelmet is).
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+51.1. sz. ajánlás A központosított közbeszerzések során alkalmazott
+beszerzési módszerek szabályainak pontosítása,
+kiegészítése
+A Hatóság továbbra is fenntartja az ebben a körben tett
+ajánlásait: így a keretszám indokoláshoz kötésének
+szükségességét.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+A Kormány álláspontja szerint az irányelv által lehetővé tett közbeszerzési eljárási megoldások közül az ajánlatkérőnek kell
+az adott beszerzéshez és az adott körülményekhez képest a valódi versenyt lehetővé tevő, gazdaságilag előnyös ajánlat
+kiválasztását legjobban szolgáló módszert, eljárásfajtát, előírás rendszert megválasztania. A Kormány ennek jogszabályban
+előre történő korlátozását nem tartja feltétlenül célszerű eszköznek, az ajánlás gyakorlati jogalkalmazási kérdésre
+vonatkozik, a Kormány szerint ez elsősorban nem jogalkotással kezelhető.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása és/vagy működtetése során
+az Integritás Hatóság javaslatait megfontolja.
+51.2. sz. ajánlás A központosított közbeszerzések során alkalmazott
+beszerzési módszerek szabályainak pontosítása,
+kiegészítése
+A Hatóság ajánlja az egy ajánlattevős
+keretmegállapodások korlátozását minimálisan
+meghatározott értékhatár felett. A Hatóság
+szorgalmazza és ajánlja további elemzések
+elvégzését annak megállapítására, hogy jellemzően
+milyen jellemzőkkel bíró piacokon, mely beszerzési
+tárgykörökben alkalmazzák a kiírók az egyajánlattevős
+keretmegállapodásokat, és mi ennek az indoka.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+A Kormány álláspontja szerint az irányelv által lehetővé tett közbeszerzési eljárási megoldások közül az ajánlatkérőnek kell
+az adott beszerzéshez és az adott körülményekhez képest a valódi versenyt lehetővé tevő, gazdaságilag előnyös ajánlat
+kiválasztását legjobban szolgáló módszert, eljárásfajtát, előírás rendszert megválasztania. A Kormány ennek jogszabályban
+előre történő korlátozását nem tartja feltétlenül célszerű eszköznek, az ajánlás gyakorlati jogalkalmazási kérdésre
+vonatkozik, a Kormány szerint ez elsősorban nem jogalkotással kezelhető.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása és/vagy működtetése során
+az Integritás Hatóság javaslatait megfontolja.
+
+51.3. sz. ajánlás A központosított közbeszerzések során alkalmazott
+beszerzési módszerek szabályainak pontosítása,
+kiegészítése
+Tekintettel arra, hogy az ajánlásban foglaltak
+alkalmazása nem kötelező, a Hatóság javasolja
+annak kizárását, hogy DBR eredményeként
+keretmegállapodást lehessen kötni, de minimálisan
+azt, hogy ha erre mégis sor kerül, legyen korlátozva
+az ilyen keretmegállapodás időtartama.
+A Kormány a javaslattal
+egyetért.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása és/vagy működtetése során
+az Integritás Hatóság javaslatait megfontolja.
+52. sz. ajánlás A verseny újranyitásának kötelezővé tétele
+Akár rövid távon is megvalósítható lehet, ezért
+a Hatóság ajánlja a keretmegállapodásos eljárások
+második részében a verseny újranyitásának – akár
+meghatározott feltételek mellett történő – kötelezővé
+tételét.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+A Kormány álláspontja szerint az irányelv által lehetővé tett közbeszerzési eljárási megoldások közül az ajánlatkérőnek kell
+az adott beszerzéshez és az adott körülményekhez képest a valódi versenyt lehetővé tevő, gazdaságilag előnyös ajánlat
+kiválasztását legjobban szolgáló módszert, eljárásfajtát, előírás rendszert megválasztania. A Kormány ennek jogszabályban
+előre történő korlátozását nem tartja feltétlenül célszerű eszköznek, az ajánlás gyakorlati jogalkalmazási kérdésre
+vonatkozik, a Kormány szerint ez elsősorban nem jogalkotással kezelhető.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása és/vagy működtetése során
+az Integritás Hatóság javaslatait megfontolja.
+53. sz. ajánlás A keretmegállapodások időtartamának
+felülvizsgálata
+A versenyre élénkítőleg hatna az is, amennyiben
+a hosszabb időre megkötött keretmegállapodásokat
+– amelyek rugalmatlanabbak a piaci változásokra,
+technológiai fejlődésekre – felváltanák a rövidebb
+futamidőre szóló keretmegállapodások.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+
+54. sz. ajánlás A központi beszerző szervek versenyképességének
+ösztönzése
+A Hatóság ajánlja olyan szabályozási modell kialakítását,
+amely
+– bizonyos értékhatár alatt mentesíti
+a központosított közbeszerzés hatálya alá tartozó
+szereplőket a központosított beszerzés kötelező
+alkalmazása alól, és
+– kombinálja ezt azzal a megoldással, hogy – a jelenlegi
+szigorú megközelítéstől eltérően – több esetben
+lehetővé teszi a saját hatáskörben történő beszerzést.
+Azzal együtt, hogy egy esetleges modellváltás esetén
+gondosan mérlegre kell tenni a várható előnyöket
+és az esetleges hátrányokat, azonban egy kombinált
+modell több pozitív hatással is járhatna.
+Nevezetesen
+– vélhetően ösztönözné a központi beszerző
+szervezeteket az árak és kondíciók folyamatos javítására,
+– csökkenthetné a piaci koncentrációt, mindemellett
+– erősítené a beszállítói oldalon is a versenyt.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett a központosított közbeszerzési rendszerek olyan irányú felülvizsgálata és/vagy átalakítása iránt,
+ami minél inkább előtérbe helyezi az olyan elvek gyakorlati érvényesítését, mint a költséghatékonyság, az adatok
+átláthatósága, a lehető legnagyobb verseny biztosítása. A központosított közbeszerzési rendszerek felülvizsgálata
+ugyanakkor hosszabb időt vesz igénybe.
+Intézkedés: A Kormány a központosított közbeszerzési rendszerek későbbi módosítása során az Integritás Hatóság
+javaslatait megfontolja.
+55.1. sz. ajánlás A kockázatelemzési szemlélet megalapozása
+A Hatóság javasolja átfogó folyamatfelmérésen és
+részletes hatásvizsgálaton alapuló elemzés elkészítését,
+amely
+– feltárja a jelenlegi ellenőrzési rendszerben fennálló
+párhuzamosságokat,
+– azonosítja az ellenőrzési hézagokat, és
+– javaslatot tesz a leghatékonyabb, leginkább
+kockázatorientált ellenőrzési modell kialakítására
+a közbeszerzési eljárások tekintetében.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és kiemelt
+fontosságúnak tartja a szabálytalanságok hatékony megelőzését szolgáló ellenőrzési rendszer kialakítását és fenntartását.
+A Kormány ugyanakkor rámutat, hogy a vonatkozó uniós és hazai jogszabályok értelmében a fejlesztéspolitikai
+közbeszerzési ellenőrzési rendszert jelenleg is folyamatosan vagy rendszeresen auditálja az EUTAF, az Európai Bizottság,
+az Európai Számvevőszék, valamint a 2022. évi XXVII. törvény (Eufetv.) 11. § d) pontja alapján évente az Integritás Hatóság is
+értékeli. Az auditok alapján a mintavételes, tematikus és rendszerellenőrzések jelentései tartalmazzák az auditáló szervek
+megállapításait és ajánlásait az ellenőrzési rendszer fejlesztésére.
+Ezekre tekintettel a Kormány úgy látja, hogy az Integritás Hatóság ajánlásában szereplő elemzések az ellenőrzési rendszerre
+vonatkozóan már rendelkezésre állnak, az Integritás Hatóság által ajánlott további intézkedést a Kormány nem látja
+indokoltnak.
+
+55.2. sz. ajánlás A kockázatelemzési szemlélet megalapozása
+A Hatóság javasolja továbbá, hogy a Kormány
+biztosítson az Integritás Hatóság részére
+kockázatelemzési feladatainak ellátásához szükséges
+mértékben valós idejű és teljes, adatbázisszintű
+hozzáférést az EKR-hez.
+A Kormány a javaslattal
+nem ért egyet.
+A Kormány elkötelezett aziránt, hogy az Integritás Hatóság számára biztosítsa a törvényi kereteknek megfelelően
+mindazokat az adatokat, amelyeket a vizsgálatai és hatósági ellenőrzései lefolytatásához igényel, és hatékonyan segítse
+az esetleges szabálytalanságok Integritás Hatóság általi feltárását.
+Lényeges ugyanakkor, hogy az ajánlatkérő által az EKR-ben tárolt adatok, valamint a gazdasági szereplőkkel folytatott
+kommunikáció adatai, tartalma a 2013. évi V. törvény (Ptk.) 2:46. §-a szerinti magántitok, levéltitok, így az Integritás Hatóság
+által igényelt hozzáférés tekintetében az ezekre vonatkozó szabályokat kell figyelembe venni.
+Emlékeztetünk például, hogy a 2012. évi C. törvény (Btk.) 223–224. §-a szerint a magántitok és a levéltitok megsértése
+bűncselekmény.
+Az EKR-ben tárolt adatot megismerése az alábbiak szerint jelenleg is lehetséges a hatályos szabályok alapján:
+– a Kbt. és vhr.-jei számos adat nyilvános közzétételét eleve előírják, így ezek nyilvánosan elérhetőek,
+– a 2011. évi CXII. törvény (Infotv.) alapján közérdekű adatigénylést is lehet benyújtani, de az Integritás Hatóság számára
+természetesen ennél közvetlenebb adatigénylési formák is rendelkezésre állnak,
+– a 2022. évi XXVII. törvény (Eufetv.) és a Kbt. 46. § (4c) bekezdése alapján az Integritás Hatóság részére az ajánlatkérő
+biztosítja az EKR-ben a hozzáférést,
+– a Kbt. 46. § (4b) bekezdése alapján a közbeszerzésekért felelős miniszter szolgáltat adatot az EKR-ből konkrét vizsgálati
+eljáráshoz tartozó megkeresés alapján.
+A Kormány értelmezése szerint a fentiekhez képest az Integritás Hatóság teljes és adatbázisszintű hozzáférés-igénylése
+a fentiekhez képest speciális megismerési lehetőséget jelentene az EKR-ben tárolt adatokra és iratokra vonatkozóan, mivel
+az Integritás Hatóság a hozzáférése esetén külön megkeresés megküldése nélkül, mind az ajánlatkérő, mind a gazdasági
+szereplők, mind az EKR-t üzemeltető miniszter tudta nélkül kívánna bármilyen konkrét adatot vagy iratot letölteni.
+A Kormány jogértelmezése szerint ilyen jellegű adathozzáférési lehetőségekkel csak nagyon speciális jogállású szervek
+rendelkeznek, különleges eljárási garanciák betartása mellett, pl.
+– a 2017. évi XC. törvény (Be.) 231. §-a szerint büntetőeljárásban bírói engedélyhez kötött módon lehetséges az információs
+rendszer titkos megfigyelése (az érintett ajánlatkérő vagy gazdasági szereplő tudta nélkül), ezzel párhuzamosan
+a Btk. 307. §-a alapján a jogosulatlan titkos információgyűjtés bűncselekmény,
+– továbbá az 1995. évi CXXV. törvény 58. §-a alapján a nemzetbiztonsági szolgálatok bírói vagy igazságügyi miniszteri
+engedély alapján információs rendszerben kezelt adatokat titokban megismerhetnek.
+Mivel az Integritás Hatóság nem nyomozó szerv, és nem nemzetbiztonsági szolgálat, ezért az EKR-hez történő valós idejű és
+teljes, adatbázisszintű hozzáférésre vonatkozó igényét a Kormány nem látja beleillőnek a fenti jogszabályi környezet szerinti
+hatásköri és eljárási rendszerbe.
+
+56. sz. ajánlás Az integritásvédelmi rendszer hatékonyságának
+felmérése
+A Hatóság javasolja a Kormány részére részletes
+hatásvizsgálat elvégzését az 50/2013. (II. 25.)
+Korm. rendeletben és a 339/2019. (XII. 23.)
+Korm. rendeletben foglalt előírások gyakorlati
+megvalósulása tekintetében. A hatásvizsgálatnak
+ki kell terjednie az alábbiakra:
+– a szabályozás által előírt integritásirányítási és a belső
+kontrollkövetelmények milyen mértékben épülnek be
+ténylegesen a szervezetek működésébe,
+– az előírt dokumentációs kötelezettségek
+(szabályzatok, jelentések, integritásjelentések)
+mennyiben járulnak hozzá a korrupciós kockázatok
+csökkentéséhez,
+– az integritási és megfelelési tanácsadók
+rendelkezésére álló erőforrások, képzések és szakmai
+támogatás milyen módon fejleszthetők,
+– a bejelentők védelmének intézményi garanciái
+mennyiben tekinthetők ténylegesen hatékonynak,
+valamint
+– milyen további, célzott intézkedések szükségesek
+ahhoz, hogy az integritásvédelem ne pusztán formális
+megfelelésként, hanem a közbeszerzési rendszer
+működését érdemben befolyásoló eszközként
+érvényesüljön.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány támogatja az 50/2013. (II. 25.) Korm. rendelet és a 339/2019. (XII. 23.) Korm. rendelet gyakorlati működésének
+átfogó értékelését. A felülvizsgálat középpontjában azonban a szabályozás gyakorlati érvényesülésének, a végrehajtás
+minőségének, a vezetői felelősségnek, a belső kontrollrendszerek működésének és a jó gyakorlatok feltárásának kell állnia.
+Új kötelezettségek kizárólag akkor indokoltak, ha azok szükségességét objektív hatásvizsgálat egyértelműen alátámasztja.
+Intézkedés: A Kormány felhívja a pénzügyminisztert, hogy végezze el a hivatkozott szabályozás gyakorlati működésének
+előzőek szerinti átfogó értékelését.
+57. sz. ajánlás A Közös Szolgáltatási Igazgatóság hatáskörének
+felülvizsgálata
+A Hatóság javasolja a Kormány részére, hogy
+az európai uniós források felhasználásának ellenőrzése
+tekintetében a célzott egységesítés és átláthatóság
+minél magasabb szintű érvényesülése érdekében
+mérlegelje a fentiekben bemutatott struktúra
+felülvizsgálatát, különös tekintettel a VP, KAP, MAHOP,
+MAHOP Plusz és DIMOP Plusz szervezeti és működési
+elkülönülésére, valamint a helyszíni ellenőrzések
+tekintetében végrehajtott központosításra.
+A Kormány a javaslattal
+részben egyetért.
+A központosítással a különböző IH-k keretein belül ellenőrzési tevékenységet végző kollégák is átkerültek a Közös
+Szolgáltatási Igazgatóság helyszíni ellenőrzési szervezetébe.
+A támogatási rendeletek előírásainak megfelelően végrehajtott helyszíni ellenőrzések tervezése – különös tekintettel
+a kockázatelemzésre és az ellenőrzési kötelezettségekre – biztosítja, hogy az egyes operatív programok vonatkozásában
+az ellenőrzési minta és darabszám nem csökkenhet.
+A helyszíni ellenőrzések központosításával – a működési tapasztalatok alapján – a jelenlegi struktúra biztosítja a feladatok
+hatékony és kiegyensúlyozott ellátását, amely alátámasztja annak megfontolását, hogy a DIMOP IH NFK-ba kerülését
+követően a DIMOP IH helyszíni ellenőrzési feladatai is integrálásra kerülhetnek.
+
+58. sz. ajánlás Az NFK Stratégiai Igazgatóságának Kommunikációs
+Főosztályának sajtófigyelési és elemzési gyakorlata
+A fentiekre figyelemmel a Hatóság javasolja az NFK
+Stratégiai Igazgatóság Kommunikációs Főosztálya
+részére, hogy szíveskedjen egy riportot készíteni
+a sajtófigyelés és -elemzés eredményeképpen
+azonosított gyanúk, kockázatok, megállapítások
+vonatkozásában, melyről tájékoztatja a Hatóságot.
+A riportnak szükséges kitérnie arra, hogy az észlelt
+gyanúk, kockázatok, megállapítások milyen
+struktúrában kerülnek továbbításra az illetékes
+szabálytalansági gyanúkezelő vagy helyszíni ellenőrzési
+szakterület részére. Továbbá az ismertető tartalmazzon
+egy tételes kimutatást arra vonatkozóan, hogy hány
+szabálytalansági eljárás, illetve helyszíni ellenőrzés
+indult a Kommunikációs Főosztály sajtófigyelése
+nyomán.
+A Kormány a javaslattal
+nem ért egyet.
+Az NFK Stratégiai Igazgatóságának Kommunikációs Főosztálya (KF) SZMSZ-ben kijelölt funkcionális feladatai körében ellátja
+a sajtófigyelési és -elemzési feladatokat az NFK feladat- és hatáskörére tekintettel. A sajtófigyelés tematikája: kohéziós
+politika, európai uniós fejlesztési politika, további releváns európai uniós hírek.
+Az uniós források szabálytalan felhasználására utaló, azt valószínűsítő, illetve a források szabályszerű vagy hatékony
+felhasználását kritizáló médiatartalom-szolgáltató megjelenéseket a sajtófigyelésben való szerepeltetés mellett a KF külön
+megküldi az adott témában érintett releváns szervezeti egységeknek. Az irányító hatóságok mellett minden esetben
+tájékoztatást kap a Belső Ellenőrzési és Integritási Igazgatóság, ha bármilyen audit, OLAF vizsgálat is érintett, akkor
+a Fejlesztéspolitikai Ellenőrzési Főosztály, közbeszerzésekkel kapcsolatos esetekben a Közbeszerzési Felügyeletért Felelős
+Helyettes Államtitkárság is.
+A kért kimutatáshoz adatbázis nem áll rendelkezésre. A sajtóban megjelenő hírek megalapozottsága jelentős eltérést
+mutat, ennek okán ezeket az Irányító Hatóságok egyedileg vizsgálják. Szintén érdemes felhívni a figyelmet arra, hogy sok
+esetben a sajtóban megjelenő projektek esetén már korábban, a sajtómegjelenéstől függetlenül történhettek ellenőrzések
+és szabálytalansági eljárások. Mindezt figyelembe véve a kért kimutatás téves következtetések levonására lenne alkalmas.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+kiemelten fontosnak tartja az esetleges szabálytalanságok hatékony kivizsgálását, ugyanakkor úgy ítéli meg, hogy
+az Integritás Hatóság által ajánlott intézkedés nem lenne igazán hatékony eszköz a már meglévő egyedi vizsgálatok mellett.
+
+59. sz. ajánlás Az Integrált Igazgatási és Ellenőrzési Rendszerhez
+való hozzáférés
+Tekintettel a Hatóság ellenőrzési és vizsgálati
+tevékenységére, a Hatóság javasolja, hogy a KPMG-hez
+hasonló hozzáférés kerüljön biztosításra számára
+az IIER vonatkozásában, az Eufetv.-ben meghatározott
+feladatainak hatékony, szakszerű és gyors ellátása
+érdekében.
+A Kormány a javaslattal
+nem ért egyet.
+A Közös Agrárpolitika pénzügyi alapjaiból finanszírozott agrártámogatási eljárások – Integrált Igazgatási és Ellenőrzési
+Rendszerben tárolt – támogatási adataihoz való hozzáférés szabályai törvényi szinten rögzítettek, amely szabályokat
+– a 2023–2027 programozási időszak vonatkozásában a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított
+agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény,
+– a fenti pontban megjelölt programozási időszakot megelőző időszakok vonatkozásában a mezőgazdasági, agrár-
+vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló
+2007. évi XVII. törvény
+tartalmazza.
+Annak érdekében tehát, hogy az Integritás Hatóság a feladatai ellátáshoz az Integrált Igazgatási és Ellenőrzési Rendszerhez
+és az abban tárolt védett támogatási adatnak (támogatási titoknak) minősülő adatokhoz – közvetlen adatkapcsolaton
+keresztül – hozzáférjen, szükséges lenne a törvényi feltételeit megteremteni, amely szabályozás kialakítása során
+a jogalkotónak – többek között – figyelemmel kell lennie a szükségesség, arányosság és célhoz kötöttség elveinek
+érvényesülésére.
+A Kormány álláspontja szerint nincs az Integritás Hatóságnak jogi felhatalmazása arra, hogy a teljes Vidékfejlesztési
+Program (a továbbiakban: VP) és KAP ST támogatási adataihoz korlátlan hozzáférést kapjon. Készséggel állunk – mint ahogy
+eddig is – rendelkezésre bármilyen vizsgálathoz szükség adat rendelkezésre bocsátása során, de a teljes KAP támogatási
+adatrendszerhez való hozzáférést szükségtelennek és aránytalannak tekintjük az Integritás Hatóságnak Eufetv.-ben szereplő
+feladat- és hatáskörét tekintve.
+A Kormány elkötelezett aziránt, hogy az Integritás Hatóság számára biztosítsa a törvényi kereteknek megfelelően
+mindazokat az adatokat, amelyeket a vizsgálatai és hatósági ellenőrzési lefolytatásához igényel, és hatékonyan segítse
+az esetleges szabálytalanságok Integritás Hatóság általi feltárását, ugyanakkor az Integritás Hatóság vonatkozó hozzáférési
+igényét a Kormány nem látja beleillőnek a fenti jogszabályi környezet szerinti hatásköri rendszerbe.
+60. sz. ajánlás A Vezetői Információs Rendszerhez való hozzáférés
+Tekintettel a Hatóság ellenőrzési és vizsgálati
+tevékenységére, a Hatóság javasolja, hogy az irányító
+hatóságok FAIR menedzsereihez hasonló hozzáférés
+kerüljön biztosításra számára a VIR tekintetében,
+az Eufetv.-ben meghatározott feladatainak hatékony,
+szakszerű és gyors ellátása érdekében.
+A Kormány a javaslattal
+részben egyetért.
+Az Integritás Hatóság számos aktív FAIR hozzáféréssel rendelkezik, az adatokhoz teljes mértékben hozzáfér. Az ajánlásban
+szereplő FAIR menedzseri hozzáférés ehhez a hozzáféréshez kapcsolódhat. A VIR-hez nem létezik FAIR menedzseri
+szerepkör vagy jogosultság.
+A fejlesztéspolitika által használt VIR rendszer egy vezetői döntéstámogató és analitikus elemző rendszerre épül
+(Microstrategy). Ebben az irányító hatóságok önállóan definiálnak riportokat, a programok menedzselése érdekében
+különböző struktúrában és különböző lekérdezési módszertanokkal, akár irányító hatóságokon belül is. Ehhez a VIR
+rendszer egy keretet biztosít, míg az adatok természetszerűleg a FAIR egyes mezőin és funkcióin alapulnak. Az uniós
+és hazai adatszolgáltatási előírások alapján mind az ellenőrző szervek, mind a közvélemény, mind az uniós szolgálatok
+a riportok eredményét kapják meg, vagy ezen adatok alapján publikálunk a fejlesztéspolitikai honlapunkon is.
+A vizsgálatok lefolytatásához kapcsolódó FAIR adatokra vonatkozó lekérdezési igényeket minden esetben rendelkezésre
+bocsátjuk az erre kialakított rendszeren keresztül.
+
+61.1. sz. ajánlás A LEADER projektek nyilvánosságának biztosítása
+A HACS-ok által támogatásban részesített LEADER
+projektek transzparenciájának, láthatóságának
+megvalósítása érdekében a Hatóság javasolja, hogy
+a HACS kötelező jelleggel üzemeltessen honlapot
+az általa kezelt uniós források vonatkozásában,
+továbbá valamennyi támogatott gazdasági szereplőre
+vonatkozó releváns információt (projekteredményekről
+készített beszámolók) naprakészen tegyen közzé,
+megismerhetővé elektronikus felületén.
+A Kormány a javaslattal
+részben egyetért.
+A LEADER Helyi Akciócsoportok támogatása című, KAP-RD57-25 kódszámú pályázati felhívás 3.3.III.21. alpontja az alábbiak
+szerint rendelkezik:
+„A HACS a HFS-ben foglalt kommunikációs terv alapján gondoskodik a HACS működési területén élők tájékoztatásáról,
+folyamatosan frissített naprakész információtartalommal saját honlapot működtet, amelyen közzéteszi az egyesület
+elérhetőségeit és a hatályos HFS-t.”
+A fentiek alapján a Helyi Akciócsoportoknak (a továbbiakban: HACS) a honlap működtetése kötelező, de nem került
+előírásra a támogatott projektek, illetve műveletek közzététele, tekintettel arra, hogy a www.palyazat.gov.hu és
+a www.kap.gov.hu honlapokon elérhetőek azok. Az előbbi honlapon a„VP-19.2.1-17 Helyi Fejlesztési Stratégiák
+megvalósítása”, míg utóbbin a„LEADER helyi felhívások”között találhatóak a támogatottak a kötelező adattartalommal
+együtt.
+Intézkedés: az Irányító Hatóság továbbra is eleget tesz a helyi felhívások keretében támogatott műveletek közzétételi
+kötelezettségének, és a HACS-oknak tájékoztató levelet küld 2026 augusztusa folyamán a tárgyban, hogy szabad
+elhatározásán alapuló közzététel esetén a CPR vonatkozó rendelkezései alapján milyen adattartalom minősül közérdekből
+nyilvános adatnak, mely közzétehető a HACS-ok honlapján.
+61.2. sz. ajánlás A LEADER projektek nyilvánosságának biztosítása
+A Hatóság javasolja, hogy a palyazat.gov.hu és
+a kap.gov.hu oldalak – programozási időszaktól
+függetlenül – is tartalmazzák a LEADER projektek
+tekintetében azokat az információkat és
+tájékoztatásokat, melyek a többi vidékfejlesztési projekt
+nyilvánosság biztosítása körében megvalósulnak.
+A Kormány a javaslattal
+részben egyetért.
+A LEADER Helyi Akciócsoportok támogatása című, KAP-RD57-25 kódszámú pályázati felhívás 3.3.III.21. alpontja az alábbiak
+szerint rendelkezik:
+„A HACS a HFS-ben foglalt kommunikációs terv alapján gondoskodik a HACS működési területén élők tájékoztatásáról,
+folyamatosan frissített naprakész információtartalommal saját honlapot működtet, amelyen közzéteszi az egyesület
+elérhetőségeit és a hatályos HFS-t.”
+A fentiek alapján a Helyi Akciócsoportoknak (a továbbiakban: HACS) a honlap működtetése kötelező, de nem került
+előírásra a támogatott projektek, illetve műveletek közzététele, tekintettel arra, hogy a www.palyazat.gov.hu és
+a www.kap.gov.hu honlapokon elérhetőek azok. Az előbbi honlapon a„VP-19.2.1-17 Helyi Fejlesztési Stratégiák
+megvalósítása”, míg utóbbin a„LEADER helyi felhívások”között találhatóak a támogatottak a kötelező adattartalommal
+együtt. Az ajánlás szerinti adattartalom tehát elérhető mind a palyazat.gov.hu mind a kap.gov.hu weboldalon.
+Intézkedés: a HACS-oknak tájékoztató levelet küld a Nemzeti Irányító Hatóság a honlapjaikon szereplő műveletek
+adattartalmára vonatkozóan 2026 augusztusa folyamán. A HACS-oknak tervezett levél választ ad a HACS-ok részére a saját
+honlapjuk üzemeltetésére, a támogatott projektkeresőt mindkét program vonatkozásában az Irányító Hatóság kezeli.
+
+62. sz. ajánlás A vidékfejlesztési felhívások kialakításának
+felülvizsgálata
+A Hatóság javasolja, hogy a jövőben olyan
+vidékfejlesztési felhívások kerüljenek
+kialakításra, az Európai Bizottság által elfogadott
+programdokumentumok mentén, melyek valóban
+és ténylegesen a vidék fejlesztését célozzák,
+a társadalmi igényekre reagálnak, szükségesek és
+hatékonyak, valamint megfelelő feltételrendszerrel
+és követelményekkel rendelkeznek. A gazdaságilag
+és pénzügyileg alkalmas, magas szakmai színvonalú
+projektek kidolgozását, a támogatásra érdemes
+projektötletek megvalósítását javasolt ösztönözni,
+ezért a Hatóság javasolja a jogosultsági kritériumok és
+a tartalmi értékelés feltételeinek szempontrendszerét
+ennek mentén átalakítani.
+A Kormány a javaslattal
+részben egyetért.
+A pályázati felhívások kialakításakor a szakmai szervezetekkel egyeztetés történik és fog történni a jövőben is.
+Intézkedés: A javaslatokat a Kormány figyelembe fogja venni a jövőben a vidékfejlesztési felhívások kidolgozása során.
+A jogosultsági kritériumok és a tartalmi értékelés feltételei szempontrendszerének – az ajánlásban kifejtettek szerinti –
+átalakítását a Kormány megfontolja.
+
+63. sz. ajánlás A forrásgazdálkodási döntések átláthatósága
+A Hatóság javasolja, hogy a VP Irányító
+Hatóság alakítson ki egy eljárásrendet, benne
+egy szempontrendszerrel és egy, a döntéshez
+kapcsolódó – a Forrásgazdálkodási Főosztály
+feljegyzésével párhuzamosan készített –
+dokumentummintával, amelyből a jövőben látható
+és ellenőrizhető a döntés részletes indoka arra
+vonatkozóan, hogy egy adott projekt finanszírozása
+miből (VP TOP-UP/társfinanszírozás és annak aránya)
+tevődik össze.
+A Kormány a javaslattal
+nem ért egyet.
+A VP EU-s társfinanszírozással megvalósult időszaka 2025. december 31. napján lezárult, ezért VP kifizetéshez EMVA forrás
+felhasználása 2026-tól nem lehetséges. A 2026. évben a VP kapcsán új kötelezettség nem vállalható, és már kizárólag
+TOP UP forrásból van lehetőség a le nem zárult támogatási kérelmek esetén a kifizetésre. Erre tekintettel a VP esetén
+eljárásrend kidolgozása már nem releváns.
+A Közös Agrárpolitika Stratégiai Terv (KAP ST) esetén az EMVA társfinanszírozásból és a TOP UP forrásból történő
+kötelezettségvállalás tekintetében a Nemzeti Irányító Hatóság (a továbbiakban: IH) Forrásgazdálkodási Főosztálya
+az alábbiak mentén jár el:
+– Uniós elvárás és az IH célja is az, hogy először EMVA források kerüljenek felhasználásra, tekintettel arra, hogy a Bizottság
+felé azzal kell elszámolni, és az abszorpciós célok is így teljesíthetőek a legkorábban.
+– A fenti cél úgy érhető el, ha az egyes felhívások tekintetében az EMVA források terhére történik a kötelezettségvállalás
+addig, ameddig a beavatkozások kapcsán meghirdetett felhívások esetén azok rendelkezésre állnak, és az EMVA források
+kimerülését követően kerül sor a TOP UP források terhére történő kötelezettségvállalásra.
+– Az egyes beavatkozások vonatkozásában eltérő az EMVA és TOP UP források aránya, van olyan beavatkozás, amelynek
+100%-ban EMVA a forrása, illetve olyan is, ahol a forrás 97% TOP UP, ezért a kötelezettségvállalásnál ennek megfelelően van
+lehetőség a forrás allokálására.
+– Az IIER1 esetén a Forrásgazdálkodási Főosztály számára nem volt lehetőség a kötelezettségvállalást megelőzően az egyes
+kérelmek forrásának (EMVA vagy TOP UP) meghatározására, illetve a pénzügyi ellenjegyzés megtételére, ezért papír alapon
+az IH vezető részére készített feljegyzésben került meghatározásra a kötelezettségvállalásnál felhasznált forrás típusa és
+annak rendelkezésre állását igazoló pénzügyi ellenjegyzés, az IIER2-ben ezzel kapcsolatban fejlesztés történt, így a döntés-
+előkészítés során a legtöbb felhívás esetén már van lehetőség a kérelmek forrásának kiválasztására.
+– Az IIER2 technikai lehetőségei alapján egy kérelem vegyes (EMVA és TOP UP forrás vegyesen) finanszírozása nem
+megoldható, ezért egy kérelemhez csak egy forrás rendelhető a döntés-előkészítés során.
+– Természetesen a kötelezettségvállalás és a tényleges kifizetés között lehet különbség a felhasznált forrás tekintetében
+(pl. lemorzsolódások, forrásváltozások miatt). Ha az EMVA forrásból támogatott kérelem nem valósul meg, ezért a forrása
+felszabadul, akkor elsősorban a felhíváson belül más kérelemre lehet felhasználni a felszabadult forrást. Az is előfordulhat,
+hogy egy EMVA forrásból lekötött kérelem évekkel később TOP UP forrásból kerül kifizetésre, ha időközben a beavatkozáson
+az EMVA forrás kimerül, vagy EMVA túlfizetés történik, tehát a támogatási kérelem forrása a kötelezettségvállalást követően,
+utólag is módosulhat.
+A KAP ST-ből eddig közel 119 ezer kérelem került támogatásra, és hátralévő időszakában is várható több tízezer kérelem,
+amely kapcsán kötelezettségvállalásra lesz szükség. A Forrásgazdálkodási Főosztály a mindenkori forráshelyzet alapján
+végzi a kötelezettségvállalással kapcsolatos feladatait, ezért arra, hogy a leírt általánosan érvényes elveken túl az egyes
+kérelmek vonatkozásában részletes indoklást adjon arról, hogy az adott kérelem miért EMVA vagy TOP UP forrásból került
+finanszírozásra, nincs lehetőség.
+
+64.1. sz. ajánlás A közpénzekből nyújtott támogatások
+átláthatóságáról szóló 2007. évi CLXXXI. törvény
+szabályainak gyakorlati átültetése
+A Hatóság javasolja a Knyt. hivatkozott szabályainak
+érvényesülése érdekében a KAP forrásainak szabályos
+végrehajtásáért felelős Nemzeti Irányító Hatóság által
+olyan kontrollmechanizmus bevezetését, amellyel
+az alaptényállásban megjelölt összeférhetetlenségi
+helyzetek kiszűrhetőek, illetve megelőzhetőek.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+természetesen kiemelt fontosságú kérdésnek tekinti az összeférhetetlenségi helyzetek megelőzésével és kezelésével
+összefüggő joggyakorlat fejlesztését.
+A Kormány álláspontja szerint ugyanakkor az összeférhetetlenségi helyzetek kiszűrése, kezelése az uniós elvárásoknak
+megfelelően teljeskörűen szabályozásra került.
+A Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és
+intézményeiről szóló 601/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 601/2022. (XII. 28.) Korm. rend.] 5. §-a rendelkezik
+a KAP támogatásokkal kapcsolatos összeférhetetlenségi szabályokról. A 601/2022. (XII. 28.) Korm. rend. 5. § (3a) bekezdése
+szerinti általános összeférhetetlenségi nyilatkozatot és – az iránymutatás az összeférhetetlenségek költségvetési rendelet
+szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) 6.3. pontja szerinti adatokat is tartalmazó –
+érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekménye megkezdését megelőzően az egyedileg vizsgált kérelemre
+vonatkozóan összeférhetetlenségi nyilatkozatot tesz a HACS.
+A 2025. május 27. napján megjelent a KAP Nemzeti Irányító Hatóság 53/2025. számú közleménye alapján a KAP-RD57-24
+kódszámú, LEADER Helyi Akciócsoportok támogatása című felhívás 14. fejezete kiegészítésre került az ÚTMUTATÓ
+Összeférhetetlenségi és érdekeltségi nyilatkozattételi kötelezettség teljesítéséhez című 4. melléklettel (a továbbiakban:
+Útmutató).
+Az IH a Belső Ellenőrzési és Integritási Igazgatósággal egyeztetve dolgozta ki az Útmutatót kifejezetten a HACS-okat
+érintő összeférhetetlenségi helyzetek kezelésére. Ahogy azt az Útmutató is kifejti:„Jelen útmutató célja, hogy a Helyi
+Akciócsoport (a továbbiakban: HACS) működése során felmerülő összeférhetetlenségi helyzetek kezeléséhez, valamint
+összeférhetetlenségi és érdekeltségi nyilatkozattételi kötelezettségek teljesítéséhez támogatást nyújtson.
+A KAP-RD57-24 kódszámú, LEADER Helyi Akciócsoportok támogatása című felhívás (a továbbiakban: Felhívás)
+3.3. III. 16. pontjának megfelelően a HACS a Helyi Bíráló Bizottságban (a továbbiakban: HBB) és a munkaszervezetben és
+a HACS elnökség vonatkozásában is egyaránt biztosítja az előkészítésben és a döntésben az összeférhetetlenségi szabályok
+betartását.”
+Az Útmutató X. fejezetében kerültek szabályozásra a BEII által vizsgált összeférhetetlenségi és érdekeltségi nyilatkozatok
+esetén alkalmazandó szabályok:
+„Amennyiben a BEII jogszabályban meghatározott feladatainak ellátása során, az összeférhetetlenségi, illetve érdekeltségi
+nyilatkozat ellenőrzésekor – többek között a rendszeresen, mintavételes eljárással, nyilvántartások, valamint megkeresés
+útján megismerhető adatok alapján – megállapítja, hogy egy adott kérelemmel kapcsolatban a nyilatkozattételre köteles
+személy vonatkozásában összeférhetetlenséget és/vagy érdekeltséget mutat, erről értesíti az IH-t, aki ennek megfelelően
+megteszi a 601/2022. (XII. 28.) Korm. rendelet 5. § (4)–(5) bekezdésében meghatározott intézkedéseket és erről az IH
+– a döntéshozatalt követő 15 napon belül – értesíti – elsősorban elektronikus levél formájában – a BEII-t.”
+Fentiekre tekintettel az Integritás Hatóság által ajánlott további intézkedést a Kormány nem látja szükségesnek.
+
+64.2. sz. ajánlás A Közös Agrárpolitika és a nemzeti költségvetésből
+biztosított agrártámogatások végrehajtásának
+szervezetéről és intézményeiről szóló
+601/2022. (XII. 28.) Korm. rendelet kiegészítése
+A Kormány részéről javasolt ezen összeférhetetlenségi
+helyzeteket a Közös Agrárpolitika és a nemzeti
+költségvetésből biztosított agrártámogatások
+végrehajtásának szervezetéről és intézményeiről
+szóló 601/2022. (XII. 28.) Korm. rendeletben legalább
+kereszthivatkozás szintjén átvezetni.
+A Kormány a javaslattal
+nem ért egyet.
+A 64.1. számú ajánlásra adott válaszban kifejtettek alapján megállapítható, hogy az összeférhetetlenségi helyzetek
+kiszűrése, kezelése az uniós elvárásoknak megfelelően teljeskörűen szabályozásra került, így nem tartja indokoltnak
+a Kormány a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvényben rögzített
+összeférhetetlenségi szabályokat még kereszthivatkozás szintjén sem átvezetni a 601/2022. (XII. 28.) Korm. rendeletben.
+65. sz. ajánlás A 2021/C 121/01 Bizottsági Közlemény kockázati
+mutatóinak hazai rendeletekbe való beépítése
+A Hatóság – a 2023. éves elemző integritásjelentésében
+tett javaslatára hivatkozással – továbbra is fenntartja
+annak szükségességét, hogy a 272/2014. (XI. 5.)
+Korm. rendelet, a 256/2021. (V. 18.) Korm. rendelet,
+a 373/2022. (IX. 30.) Korm. rendelet, valamint
+a 601/2022. (XII. 28.) Korm. rendelet szövegébe
+beépítésre kerüljenek a függetlenség érvényesülése
+érdekében a Bizottsági Közlemény58 (2021/C 121/01)
+6.4. pontjában szereplő kockázati mutatók.
+A Kormány a javaslattal
+részben egyetért.
+A Kormány elkötelezett az Integritás Hatóság ajánlásainak minél szélesebb körű, gondos figyelembevétele iránt, és
+természetesen kiemelt fontosságú kérdésnek tekinti az összeférhetetlenségi helyzetek megelőzésével és kezelésével
+összefüggő joggyakorlat fejlesztését.
+A Kormány álláspontja szerint a Bizottsági közleményben szereplő szempontok a fejlesztéspolitikai rendeletek
+összeférhetetlenségi szabályai, az alkalmazandó eseti összeférhetetlenségi nyilatkozat, valamint a BEII tevékenysége által
+biztosítottak, ezért jogszabályba foglalásuk nem szükséges.
+A fejlesztéspolitikai intézményrendszer továbbá a függetlenség érvényesülését kiemelten fontosnak tartja, ezért a projekt
+teljes életútja során a szállítói függetlenséget és az összeférhetetlenséget a fejlesztéspolitikai intézményrendszer
+munkatársai az adott szakaszban releváns módszerekkel és eszközökkel vizsgálják.
+A különböző eljárásrendi folyamatok során alkalmazott előírások és eszközök:
+1. Felhívások meghirdetése:
+A felhívás sablon a következő, kötelezően megjelentendő szöveget szerepelteti a„7.4. Milyen feltételei vannak
+az elszámolhatóságnak?”c. fejezetben:
+„A támogatást igénylő / kedvezményezett és az ajánlattevők függetlenségét biztosító szabályok:
+A Korm. rendelet szabályozását részletező Elszámolási Útmutató értelmében a nem közbeszerzés köteles beszerzések
+esetében figyeljen a következő, a támogatást igénylő / kedvezményezett és az ajánlattevők függetlenségét biztosító
+szabályokra:
+Nem független az az ajánlattevő,
+a) amelyben a támogatást igénylő / kedvezményezett vagy ezek tulajdonosa – irányító vagy felügyeleti szerve –, annak
+tagja, és/vagy a szervezet nevében nyilatkozattételre, képviseletre jogosult személy, továbbá ezen személy hozzátartozója
+az alábbi jogok valamelyikét gyakorolja: tulajdonosi, fenntartói, vagyonkezelői, irányítási, képviseleti, munkáltatói, vagy
+kinevezési;
+b) amelynek tulajdonosa – irányító vagy felügyeleti szerve –, annak tagja, és/vagy a szervezet nevében nyilatkozattételre,
+képviseletre jogosult személy, a támogatást igénylő / kedvezményezett szervezetében vagy ugyanazon beszerzés
+vonatkozásában másik ajánlattevő szervezetében az alábbi jogok valamelyikét gyakorolja: tulajdonosi, fenntartói,
+vagyonkezelői, irányítási, képviseleti, munkáltatói vagy kinevezési; vagy
+
+c) ha a támogatást igénylő / kedvezményezett vagy másik ajánlattevő vonatkozásában tagnak, partner vagy kapcsolt
+vállalkozásnak minősül.
+A támogatást igénylő / kedvezményezett és az ajánlattevők függetlensége vonatkozásában hozzátartozónak minősül
+a 2013. évi V. törvény a Polgári Törvénykönyvről (Ptk.) 8:1. § (1) bekezdés 1. és 2. pontja értelmében a házastárs,
+az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és
+a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és
+a testvér házastársa.
+A Kedvezményezett köteles a függetlenség követelményének a támogatási jogviszony teljes időtartama alatt megfelelni.”
+2. Döntés-előkészítés
+Amennyiben a támogatási kérelem keretében piacfelmérést kell végeznie a támogatást igénylőnek, akkor annak keretében
+meg kell adni az áru - szolgáltatásvásárlás esetén a beszállítót. Az IH a támogatási kérelem ellenőrzése során az OPTEN és
+Arachne+ adatbázisok segítségével vizsgálja a szállítók függetlenségét.
+3. Kifizetési kérelem ellenőrzése
+a) Releváns szabályozási előírások: Elszámolási Útmutató I. fejezet 2.3.2.4. és 2.3.2.8., 2.3.2.8a. pontjai, III. fejezet 5. 5. pont
+b) EUPR kifizetési kérelem ellenőrzési lista
+c) EUPR Csalásmegelőzés funkció
+d) ARACHNE+
+Ezen felül a 601/2022. (XII. 28.) Korm. rendelet módosítása folyamatban van az ARACHNE+ kockázatelemző rendszer
+alkalmazásának hatékonyabbá tétele érdekében.
+66. sz. ajánlás A szállítói függetlenség vizsgálatának bővítése
+A Hatóság javasolja, hogy a szállítói függetlenség
+vizsgálatát ne kizárólag a valós piaci érték
+meghatározásának szempontjából, hanem
+a verseny tisztaságának és a projektben részt vevő
+gazdasági szereplők tisztességtelen magatartásának
+visszaszorítása érdekében is végezze el az adott
+irányító hatóság, tekintettel arra, hogy olyan építési
+beruházások, ahol a költségvetés az ÉNGY-ben szereplő
+tételeknek megfeleltethetően kerülnek kidolgozásra,
+számos visszaélésre ad lehetőséget.
+A Kormány a javaslattal
+részben egyetért.
+A szállítói függetlenség vizsgálata a kifizetési kérelem ellenőrzése során alapvető elvárás, és nem kizárólag a piaci ár
+megállapításához kapcsolódik.
+(Lásd Elszámolási Útmutató I. fejezet 2.3.2.4. és 2.3.2.8., 2.3.2.8a. pontjai, III. fejezet 5. 5. pont)
+A finanszírozási folyamatokban – előlegigénylés, kifizetési kérelem ellenőrzése – kötelezően alkalmazni kell az ARACHNE+
+kockázatértékelő eszközt. Azaz a kedvezményezett, illetve a szállító hátterét, kapcsolati hálóját minden esetben vizsgálja
+az intézményrendszeri munkatárs. (Lásd ARACHNE központ útmutató.)
+Ha az ellenőrizendő mutatók riasztást jeleznek, a munkatársnak részletesen dokumentálnia kell a riasztás kivizsgálását.
+Ha a riasztás valós, az érintett bizonylat akár el is utasítható.
+Fentiekre tekintettel az Integritás Hatóság által ajánlott további intézkedést a Kormány nem látja szükségesnek.
+
+67. sz. ajánlás Az irányító hatóságok együttműködésének
+kezdeményezése a szabálytalansági eljárások
+kezelése tekintetében
+A Hatóság javasolja, hogy az irányító hatóságok
+a szabálytalansági eljárások kezelése tekintetében
+kezdeményezzenek együttműködést, melynek
+keretében a szabálytalansági eljárások elintézése
+vonatkozásában lefektetésre kerülnek az egységesítés
+és transzparencia irányába ható alapvetések. Ennek
+keretében a Hatóság javasolja, hogy az EUPR-ben, illetve
+EUPR-en kívüli adminisztráció (szabálytalansági esetek
+minősítése, megsértett jogszabályi rendelkezések
+releváns módon és helyen történő hivatkozása,
+szabálytalansággal érintett vállalkozások rögzítése és
+szabálytalansági minősítéssel való összekapcsolása) is
+kerüljön összehangolásra a későbbi prevenciós célok
+kiszolgálása érdekében.
+A Kormány a javaslattal
+részben egyetért.
+A fejlesztéspolitikai tárgyú jogszabályok meghatározzák, hogy milyen szankciókat lehet alkalmazni a szabálytalansági
+eljárások eredményeként, hangsúlyozva a szabálytalansággal arányos jogkövetkezmény megállapítását.
+Az ügyek tényállása sok esetben összetett, emiatt nem lehetséges egy egységes szempontrendszer mentén minősíteni
+az eseteket és meghozni a szabálytalansági döntéseket.
+Rendelkezésre áll jogesettár is, amelynek folyamatos bővítése segítheti az egységes joggyakorlatot.
+Emellett operatív programokon túlmutatóan a BEII rögzíti a kockázatosnak ítélt entitásokat az informatikai rendszerben,
+de minden IH-nak lehetősége van az általa kockázatosnak ítélt entitás rögzítésére. A kapcsolódó kockázati tényező alapján
+értékeli a rendszer az adott elszámoló bizonylatot kockázatosság szempontjából (kockázatalapú számlaellenőrzés).
+68.1. sz. ajánlás Az Európai Uniós Programok Rendszere funkcióinak
+bővítése
+A Hatóság javasolja, hogy az EUPR-ben a„szállítói
+szerződések”oldalon külön adatmezőként
+paraméterezve kerüljön létrehozásra egy felület,
+amelyen a kedvezményezett a beszerzési, közbeszerzési
+eljárás dokumentációjának feltöltésével egyidejűleg
+külön rögzíti az összes ajánlattevő személy, szervezet
+nevét, adószámát és az ajánlati árat, megjelölve
+a nyertes ajánlattevőt. Több részre bontott
+közbeszerzési eljárás esetén részenként szükséges
+rögzíteni ezen adatokat. Az új funkciót a döntéshozói
+oldalon szűrési, keresési lehetőségekkel ellátva
+szükséges megjeleníteni. A Hatóság fontosnak tartja
+a rendszer alkalmasságát a kedvezményezett által
+történő adatrögzítést követő, automatikus azonnali
+vizsgálat elvégzésére, annak kimutatása érdekében,
+hogy az adott ajánlattevő vagy azok egy csoportja
+felmerült-e más projektek beszerzési eljárásai során.
+Javasolt lenne automatikusan vizsgálni, hogy a kiszűrt
+ajánlattevők érintettek voltak-e hasonló tényállással
+kapcsolatos szabálytalansági eljárásban.
+A Kormány a javaslattal
+nem ért egyet.
+A fejlesztéspolitikai intézményrendszer kiemelt figyelmet fordít az összeférhetetlenség és a függetlenség vizsgálatára, ezt
+a jogszabályok, eljárásrendek, útmutatók biztosítják.
+Mindemelett a fejlesztéspolitikai intézményrendszer számára az is fontos, hogy a programok és projektek végrehajtása
+során az adminisztratív terheket csökkentse. A javaslat ezzel szemben adminisztratív terhet ró a kedvezményezettekre,
+tekintettel arra, hogy a beszerzés dokumentációjának feltöltésén túl azokból valamennyi releváns adatot manuálisan
+is rögzíteni szükséges az EPTK felületen, továbbá a manuális rögzítés által a javaslat nagyban növeli a hibás rögzítések
+lehetőségét is. Ez utóbbira tekintettel, ha a feltöltött és a rögzített adatok között eltérés van, akkor az adminisztrációs
+terhet jelenthet az intézményrendszeri oldalon is a hiánypótlások, tisztázó kérdések számának várható növekedése
+miatt, amely az intézményrendszeri oldalon lassíthatja az ellenőrzési folyamatokat. Megjegyezzük, hogy ezen túlmenően
+a jelentésben kifejtettek nem adnak támpontot, hogy a javaslat alapján esetlegesen gyűjtött adatok alapján az ajánlattevői
+összejátszásokra utaló mintázatok gyanúja esetén milyen eszköze, jogi lehetőségei vannak az intézményrendszernek,
+különösen a közbeszerzési értékhatárt el nem érő ügyek esetén. A javaslatban szereplő funkció kialakítása
+továbbfejlesztéssel valósítható meg, mely jelentős erőforrást igényel mind a fejlesztői, mind pedig az intézményrendszeri
+oldalon is.
+
+68.2. sz. ajánlás Az IIER különálló működése okán a Hatóság javasolja
+a Kormánynak, hogy teremtse meg azon feltételeket,
+amelyek alapján a két rendszer ezen ajánlattevői
+adatbázis kapcsán összekötésre kerül.
+A Kormány a javaslattal
+részben egyetért.
+Az IH megkezdte annak vizsgálatát, hogy az EUPR és az IIER milyen, az ajánlattevői adatok kezelésére alkalmas közös
+adatbázis vagy adatkapcsolati megoldás révén kapcsolható össze, biztosítva ezzel a két rendszerben rendelkezésre álló
+információk hatékony felhasználását a kockázatelemzés és a csalásmegelőzés érdekében.
+Intézkedés: A vizsgálat kiterjed annak értékelésére is, hogy az Európai Bizottság által fejlesztett ARACHNE+ rendszer
+milyen módon képes támogatni e célkitűzés megvalósítását. Ennek keretében felmérésre kerül, hogy az ARACHNE+ által
+biztosított integrált kockázatelemzési funkcionalitás alkalmas-e az EUPR és az IIER által kezelt ajánlattevői adatok egységes
+elemzésére, valamint az ismétlődő ajánlattevői körök és egyéb kockázati összefüggések automatikus azonosítására.
+A vizsgálat eredményei alapján kerül meghatározásra a legmegfelelőbb műszaki és szakmai megoldás a 68.2. sz. ajánlásban
+megfogalmazott célkitűzés teljesítésére.
