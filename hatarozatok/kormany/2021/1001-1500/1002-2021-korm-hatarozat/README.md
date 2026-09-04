@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1002-30
 | 2025-04-07 | 2021-1002-30-22.10 | 1098/2025. (IV. 7.) Korm. határozat |
 | 2025-08-05 | 2021-1002-30-22.11 | 1280/2025. (VIII. 5.) Korm. határozat |
 | 2025-12-05 | 2021-1002-30-22.12 | 1085/2024. (IV. 3.) Korm. határozat |
+| 2026-09-04 | 2021-1002-30-22.13 | 1293/2026. (IX. 4.) Korm. határozat |
