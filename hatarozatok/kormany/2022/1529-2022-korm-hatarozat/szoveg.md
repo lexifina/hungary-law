@@ -60,11 +60,7 @@ b) 228 600 forint a Kvtv. 1. melléklet I. Országgyűlés fejezet, 1. Országgy
 
 | Határidő: | az előterjesztés elkészítése vonatkozásában 2023. október 15. |
 
-8.[^13] a nemzetközi tapasztalatok figyelembevételével, a műszaki és anyagi szempontok mérlegelése alapján egyetért azzal, hogy – amennyiben a Beruházás megvalósul, és a Kormány az Országház átmeneti kiürítésének szükségességéről dönt – a törvényhozás ideiglenes elhelyezésére, a Beruházás megvalósulása idejére a Kossuth Lajos téri Agrárminisztérium épületet kell alkalmassá tenni, azzal, hogy
-
-a) az ideiglenes elhelyezés érdekében szükséges, az Agrárminisztérium alkalmassá tételével kapcsolatos tervezési és kivitelezési munkálatokat a Társaság végezze el a Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozatban rögzített támogatási szerződésben biztosított forrás terhére,
-
-b) a törvényhozás Agrárminisztérium épületében való ideiglenes elhelyezése nem eredményezhet az épület eredeti, tervezett funkciójával összeegyeztethetetlen vagy csak jelentős átépítéssel visszafordítható, illetve kizárólag a törvényhozásnak az Agrárminisztérium épületében történő ideiglenes elhelyezése esetén hasznosuló változtatásokat, valamint nem eredményezheti az Agrárminisztérium legfelső szintű szervezeti egységeinek az épületbe való visszaköltözésének, illetve tartós működésének ellehetetlenülését;
+8.[^13]
 
 9.[^14] egyetért azzal, hogy a Beruházás megvalósítása után az érintett épületek és a jelenleg az Országgyűlés Hivatala vagyonkezelésében lévő egyéb ingatlanok üzemeltetését egy, az Országgyűlés Hivatala tulajdonosi joggyakorlása alá tartozó állami tulajdonú nonprofit társaság végezze.
 
@@ -80,5 +76,5 @@ b) a törvényhozás Agrárminisztérium épületében való ideiglenes elhelyez
 [^10]: A 4. pont nyitó szövegrésze az 1124/2023. (IV. 5.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
 [^11]: Az 5. pont az 1124/2023. (IV. 5.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
 [^12]: A 7. pont az 1124/2023. (IV. 5.) Korm. határozat 6. pont c) és d) alpontja szerint módosított szöveg.
-[^13]: A 8. pontot az 1124/2023. (IV. 5.) Korm. határozat 5. pontja iktatta be, szövege az 1451/2024. (XII. 31.) Korm. határozat 2. pontjával megállapított szöveg.
+[^13]: A 8. pontot az 1124/2023. (IV. 5.) Korm. határozat 5. pontja iktatta be, az 1293/2026. (IX. 4.) Korm. határozat 6. pont e) alpontja hatályon kívül helyezte.
 [^14]: A 9. pontot az 1124/2023. (IV. 5.) Korm. határozat 5. pontja iktatta be.
