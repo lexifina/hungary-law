@@ -10,9 +10,10 @@
 
 | 3. | 1527/2022. (XI. 2.) Korm. határozat 1. pont a) alpontja | 0 | 70 000 000 | 250 000 000 | 210 000 000 | 1 020 000 000 | 0 | 1 550 000 000 |
 
-| 4. | 1213/2022. (IV. 5.) Korm. határozat 10. pont | 0 | 4 000 000 | 390 000 000 | 670 000 000 | 369 000 000 | 1 200 000 000 | 2 633 000 000 |
+| 4.[^7] | 1213/2022. (IV. 5.) Korm. határozat 10. pont | 0 | 4 000 000 | 232 600 000 | 670 000 000 | 1 000 000 000 | 726 400 000 | 2 633 000 000 |
 
-2. melléklet az 1190/2024. (VI. 28.) Korm. határozathoz[^7]
+2. melléklet az 1190/2024. (VI. 28.) Korm. határozathoz[^8]
 
 [^6]: Az 1. mellékletben foglalt táblázat 2. sora az 1022/2026. (II. 3.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. mellékletben foglalt táblázat 4. sora az 1295/2026. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
+[^8]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
