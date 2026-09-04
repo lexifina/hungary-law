@@ -48,11 +48,11 @@ c) műszeres és feltárásos épületdiagnosztikai és tartószerkezeti vizsgá
 
 d) az azbeszt tartalmú tetőfedés cseréjének vizsgálatával;
 
-1.5. egyetért a Munkácsy Mihály „Honfoglalás” című festménynek a Kossuth Lajos téri Agrárminisztérium épületben való végleges, a minisztériumi munkát nem zavaró, szabadon látogatható elhelyezésével, és ennek érdekében az Agrárminisztérium épület alkalmassá tételével kapcsolatos tervezési és kivitelezési munkálatok elvégzésével;
+1.5.[^1]
 
 1.6. a Beruházás második ütemének kormányzati felelőseként az építési és közlekedési minisztert jelöli ki;
 
-1.7.[^1] egyetért azzal, hogy a Beruházás második ütemének megvalósítója, ennek megfelelően az 1.3–1.5. alpontban meghatározott feladatok megvalósítója a Steindl Imre Program Nonprofit Zártkörűen Működő Társaság (a továbbiakban: Társaság) legyen, azzal, hogy az 1.3. alpont szerinti Tervezési Program elkészítésének és az 1.4. alpont szerinti Tervezési Program megalapozásához szükséges további feladatok elvégzésének határideje 2027. június 30. napja;
+1.7.[^2] egyetért azzal, hogy a Beruházás második ütemének megvalósítója, ennek megfelelően az 1.3–1.5. alpontban meghatározott feladatok megvalósítója a Steindl Imre Program Nonprofit Zártkörűen Működő Társaság (a továbbiakban: Társaság) legyen, azzal, hogy az 1.3. alpont szerinti Tervezési Program elkészítésének és az 1.4. alpont szerinti Tervezési Program megalapozásához szükséges további feladatok elvégzésének határideje 2027. június 30. napja;
 
 1.8. felhívja az építési és közlekedési minisztert, hogy az 1.3. alpont szerint lefolytatott feltételes beszerzési eljárás eredménye alapján a Társaság közreműködésével készítsen előterjesztést a Kormány részére a Beruházás második ütemének megvalósításáról;
 
@@ -84,7 +84,7 @@ d) 1 300 000 forint a 2026. évi központi költségvetés I. Országgyűlés fe
 
 | Határidő: | az adott évi központi költségvetés tervezése során |
 
-1.12. egyetért azzal, hogy az 1.5. alpont szerinti feladatot a Társaság a Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozatban rögzített támogatási szerződésben biztosított forrás terhére végezze el;
+1.12. [^3]
 
 1.13. felhívja az építési és közlekedési minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy az 1.3. és 1.4. alpontban meghatározott feladatok finanszírozása érdekében a Társasággal mindösszesen 5 077 400 000 forint összegben új támogatási jogviszonyt létesítsenek.
 
@@ -92,13 +92,15 @@ d) 1 300 000 forint a 2026. évi központi költségvetés I. Országgyűlés fe
 
 | Határidő: | a 1.11. alpont szerinti forrás rendelkezésre állását követően azonnal |
 
-2.[^2]
+2.[^4]
 
-3.[^3]
+3.[^5]
 
-4.[^4]
+4.[^6]
 
-[^1]: Az 1. pont 1.7. alpontja az 1525/2025. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.5. pontját az 1293/2026. (IX. 4.) Korm. határozat 6. pont d) alpontja hatályon kívül helyezte.
+[^2]: Az 1. pont 1.7. alpontja az 1525/2025. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: Az 1. pont 1.12. pontját az 1293/2026. (IX. 4.) Korm. határozat 6. pont d) alpontja hatályon kívül helyezte.
+[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
