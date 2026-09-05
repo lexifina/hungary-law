@@ -1,3 +1,3 @@
-8. § A 16/2022. (XII. 21.) MEKH rendelet 27. §-a a következő (3) bekezdéssel egészül ki:
+8. §[^9]
 
-„(3) A Ht. 91/A. és 91/B. §-ában, valamint a Ht. 53/N. § (6) bekezdésében foglaltakra tekintettel a hulladékgazdálkodási közszolgáltatási díjat meghatározó miniszteri rendelet hatálybalépéséig e rendeletnek az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaság, a koncesszori alvállalkozók és az önkormányzatok indokolt költségeinek meghatározására és szabályozására, valamint az állami hulladékgazdálkodási közfeladat ellátásáért szedhető díjakkal kapcsolatos díjjavaslat elkészítésére vonatkozó alapelvekről és keretszabályokról szóló 16/2022. (XII. 21.) MEKH rendelet módosításáról szóló 6/2026. (VIII. 27.) MEKH rendelettel megállapított 3/A. alcímét a hulladékgazdálkodási közszolgáltatási alrendszer tekintetében nem kell alkalmazni.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

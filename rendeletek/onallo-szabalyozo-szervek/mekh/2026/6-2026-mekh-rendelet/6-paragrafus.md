@@ -1,3 +1,3 @@
-6. § A 16/2022. (XII. 21.) MEKH rendelet 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(2) A Hivatal az (1) bekezdés szerinti díjjavaslat megtétele során az önkormányzatok – a 13. § szerint meghatározott és a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet szerint csökkentett mértékű – indokolt költségeit is figyelembe veszi.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
