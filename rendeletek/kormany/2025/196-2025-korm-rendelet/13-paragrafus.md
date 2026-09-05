@@ -1,6 +1,6 @@
 13. § (1) Ha minisztérium vagy a vármegyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a Magyar Máltai Szeretetszolgálat Egyesület szállásadóként megállapodást köt ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybevételére, a Magyar Máltai Szeretetszolgálat Egyesület az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
 
-(2) Az (1) bekezdés szerinti megállapodás az orosz–ukrán háború elől Magyarországra menekülő személyekért felelős kormánybiztos vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
+(2)[^5] Az (1) bekezdés szerinti megállapodás az államháztartásért felelős miniszter vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
 
 (3) Az (1) bekezdés szerinti támogatás összege megegyezik a 12. § (1) bekezdése szerinti fajlagos támogatás összegével, amelytől a felek a megállapodásban különösen indokolt esetben legfeljebb 50%-kal térhetnek el.
 
@@ -37,3 +37,5 @@ b) – ha a megrendelő vármegyei, fővárosi védelmi bizottság – az össze
 (12) A Magyar Máltai Szeretetszolgálat Egyesület számára a (11) bekezdés szerinti támogatást a döntést követő tíz napon belül kell folyósítani.
 
 (13) A támogatás folyósításáról az érintett miniszter utalványozása alapján a kincstár gondoskodik.
+
+[^5]: A 13. § (2) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
