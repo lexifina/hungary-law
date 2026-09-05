@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-12. §[^42] Ez a rendelet
+12. §[^43] Ez a rendelet
 
 a) az „Iránymutatások a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról” szóló, 2022. december 21-i 2022/C 485/01 számú bizottsági közlemény és
 
@@ -8,4 +8,4 @@ b) a közös agrárpolitika keretében a tagállamok által elkészítendő stra
 
 végrehajtásához szükséges rendelkezéseket tartalmaz.
 
-[^42]: A 12. § a 40/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.
+[^43]: A 12. § a 40/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.

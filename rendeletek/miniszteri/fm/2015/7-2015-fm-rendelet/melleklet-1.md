@@ -1,5 +1,3 @@
-## 17. §[^49] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 50/2021. (XII. 29.) AM rendelettel módosított 3. § (1) bekezdését a 2022. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
-
 1. melléklet a 7/2015. (III. 11.) FM rendelethez
 
 A támogatási kérelem adattartalma
@@ -22,12 +20,11 @@ A támogatási kérelem adattartalma
 
 9. Mellékletek
 
-9.1[^50] a járási hivatal igazolásának eredeti példánya az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
+9.1[^52] a járási hivatal igazolásának eredeti példánya az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
 
 9.2 a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példánya,
 
-9.3[^51] nagyvállalkozásnak minősülő ügyfél esetén a járási hivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
+9.3[^53] nagyvállalkozásnak minősülő ügyfél esetén a járási hivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
 
-[^49]: A 17. §-t az 50/2021. (XII. 29.) AM rendelet 15. §-a iktatta be.
-[^50]: Az 1. melléklet 9. pont 9.1. alpontja a 25/2016. (IV. 11.) FM rendelet 39. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
-[^51]: Az 1. melléklet 9. pont 9.3. alpontja a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 9. pont 9.1. alpontja a 25/2016. (IV. 11.) FM rendelet 39. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 9. pont 9.3. alpontja a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.

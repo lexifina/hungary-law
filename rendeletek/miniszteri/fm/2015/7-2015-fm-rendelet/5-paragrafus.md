@@ -34,7 +34,7 @@ cc) arról, hogy az ügyfél a támogatási igénnyel érintett tevékenységre 
 
 (6) Amennyiben a tárgynegyedévre vonatkozó jogos igények kifizetését követően forrás-maradvány keletkezik, úgy a maradvány összege – az (5) bekezdésben foglaltak kivételével – a következő tárgynegyedévre meghatározott forrás összegét növeli.
 
-(7)[^29] A Kincstár az adott tárgynegyedévre vonatkozó kifizetési kérelmek benyújtására nyitva álló határidő utolsó napját követő hatvan napon belül dönt az adott tárgynegyedévre vonatkozó jogos igényekről és intézkedik a tárgynegyedévre vonatkozó jogos összeg kifizetéséről.
+(7)[^29] A Kincstár az adott tárgynegyedévre vonatkozó kifizetési kérelmek benyújtására nyitva álló határidő utolsó napját követő hetven napon belül dönt az adott tárgynegyedévre vonatkozó jogos igényekről, és a forrás rendelkezésre állása esetén intézkedik a tárgynegyedévre vonatkozó jogos összeg kifizetéséről.
 
 (8)[^30] A támogatási év lezárását követően a Kincstár tájékoztatja az ügyfelet az érintett támogatási évben igénybe vett teljes támogatás összegéről és az ahhoz kapcsolódó átlagos állategységéről.
 
@@ -46,7 +46,7 @@ cc) arról, hogy az ügyfél a támogatási igénnyel érintett tevékenységre 
 [^26]: Az 5. § (3) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § c) pontja szerint módosított szöveg.
 [^27]: Az 5. § (3) bekezdés c) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított, nyitó szövegrésze a 25/2016. (IV. 11.) FM rendelet 39. § c) pontja szerint módosított szöveg.
 [^28]: Az 5. § c) pont ca) alpontja az 51/2016. (VII. 21.) FM rendelet 20. § d) pontja szerint módosított szöveg.
-[^29]: Az 5. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 78. § b) pontja szerint módosított szöveg.
+[^29]: Az 5. § (7) bekezdése a 17/2026. (IX. 4.) AÉM rendelet 1. §-ával megállapított szöveg.
 [^30]: Az 5. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 78. § d) pontja szerint módosított szöveg.
 [^31]: Az 5. § (9) bekezdése a 88/2016. (XII. 29.) FM rendelet 78. § d) pontja, a 6/2017. (II. 13.) FM rendelet 25. §-a szerint módosított szöveg.
 [^32]: Az 5. § (10) bekezdését a 25/2016. (IV. 11.) FM rendelet 36. § (2) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 78. § e) pontja szerint módosított szöveg.
