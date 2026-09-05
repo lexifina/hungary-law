@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-39-20-7
 | 2025-04-11 | 2018-39-20-7R.19 | 7/2025. (IV. 10.) AM rendelet |
 | 2025-12-20 | 2018-39-20-7R.20 | 53/2025. (XII. 19.) AM rendelet |
 | 2026-04-10 | 2018-39-20-7R.21 | 16/2026. (IV. 9.) AM rendelet |
+| 2026-09-05 | 2018-39-20-7R.22 | 17/2026. (IX. 4.) AÉM rendelet |

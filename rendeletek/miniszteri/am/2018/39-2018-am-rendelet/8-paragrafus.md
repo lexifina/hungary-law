@@ -20,7 +20,7 @@ c)[^24] a bérhízlaló, bérnevelő nyilatkozatát arról, hogy a bérhízlalta
 
 (4) Ha az adott támogatási évre vonatkozóan a jogos igény az 5. § (2) bekezdése szerinti összeget meghaladja, akkor a támogatás összege a túligénylés által érintett negyedévre vonatkozóan benyújtott kifizetési kérelmek között a túllépés mértékével arányosan csökken.
 
-(5) A támogatási év I., II. és – a támogatási évben elsőfokú döntéssel lezárt – III. negyedévre vonatkozó jogos igények kifizetésére a támogatási évben, a IV. negyedévre vonatkozó kérelmek kifizetésére a támogatási évet követő évben kerül sor.
+(5)[^25] A 2026. támogatási év I., II. és – a támogatási évben elsőfokú döntéssel lezárt – III. negyedévére vonatkozó jogos igények kifizetésére a rendelkezésre álló forrás mértékéig a támogatási évben, a támogatási évben a III. negyedév tekintetében nem teljesített kifizetések, illetve a IV. negyedévre vonatkozó kérelmek kifizetésére a támogatási évet követő évben kerül sor.
 
 (6) A beérkezett összes igényről, a jóváhagyott igényekről és a kifizetett támogatásról a Kincstár havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek.
 
@@ -33,3 +33,4 @@ c)[^24] a bérhízlaló, bérnevelő nyilatkozatát arról, hogy a bérhízlalta
 [^22]: A 8. § (2) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § d) pontja szerint módosított szöveg.
 [^23]: A 8. § (2) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
 [^24]: A 8. § (2) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § f) pontja szerint módosított szöveg.
+[^25]: A 8. § (5) bekezdése a 17/2026. (IX. 4.) AÉM rendelet 5. §-ával megállapított szöveg.
