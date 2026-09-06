@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-104-00-00
 | --- | --- | --- |
 | 2025-12-20 | 2025. évi CIV. törvény | 2025-104-00-00.0 (közlönyállapot) |
 | 2025-12-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-104-00-00.1 |
+| 2026-09-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-104-00-00.2 |
