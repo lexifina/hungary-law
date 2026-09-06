@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 34. § a) és d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzet során kiadott egyes veszélyhelyzeti kormányrendeleti szabályok kivezetéséről szóló 196/2025. (VII. 8.) Korm. rendelet 11. § (7) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(7) A háború sújtotta területeket tartalmazó listát a külpolitikáért felelős miniszter állítja össze, amelyet a közigazgatás-szervezésért felelős miniszter minden hónap tizedik napjáig megküld a helyi védelmi bizottságok részére, valamint ezzel egy időben a hivatalos honlapján közzétesz.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
