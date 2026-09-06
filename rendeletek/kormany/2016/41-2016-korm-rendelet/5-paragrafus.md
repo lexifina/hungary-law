@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^2] Ez a rendelet 2026. szeptember 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2027. január 1-jén hatályát veszti.
 
-[^2]: Az 5. § (2) bekezdése a 41/2026. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 144/2026. (IX. 4.) Korm. rendelet 1. §-ával megállapított szöveg.

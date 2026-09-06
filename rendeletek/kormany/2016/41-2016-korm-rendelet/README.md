@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | 2025-03-06 | 2016-41-20-22.20 | 30/2025. (III. 5.) Korm. rendelet |
 | 2025-09-06 | 2016-41-20-22.21 | 268/2025. (VIII. 13.) Korm. rendelet |
 | 2026-03-06 | 2016-41-20-22.22 | 41/2026. (III. 5.) Korm. rendelet |
+| 2026-09-06 | 2016-41-20-22.23 | 144/2026. (IX. 4.) Korm. rendelet |
