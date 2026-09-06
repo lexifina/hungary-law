@@ -10,11 +10,11 @@
 
 ## C. Hüllők
 
-## 1.[^113] Aligátorteknős (Chelydra serpentina)
+## 1.[^114] Aligátorteknős (Chelydra serpentina)
 
 ## 2. Díszes ékszerteknős (Chrysemys picta)
 
-## 3.[^114] Keselyűteknős (Macroclemmys temminckii)
+## 3.[^115] Keselyűteknős (Macroclemmys temminckii)
 
 ## 4. Vörösfülű ékszerteknős (Trachemys scripta elegans) – a 15 cm-nél kisebb páncélhosszúságú példányok
 
@@ -40,13 +40,13 @@
 
 ## 8. Szürke mókus (Sciurus carolinensis)
 
-## 9.[^115] Amerikai rókamókus (Sciurus niger)
+## 9.[^116] Amerikai rókamókus (Sciurus niger)
 
-## 10.[^116] Csinos tarkamókus (Callosciurus erythraeus)
+## 10.[^117] Csinos tarkamókus (Callosciurus erythraeus)
 
-## 11.[^117] Japán mókus (Sciurus lis)
+## 11.[^118] Japán mókus (Sciurus lis)
 
-2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^118]
+2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^119]
 
 A 9. § (2) bekezdése szerinti írásos dokumentumok
 
@@ -84,9 +84,9 @@ l) az e rendelet szerinti minimális tartási követelmények,
 
 m) az állat milyen veszélyt és egészségügyi ártalmat jelent az állat tartójának egészségére, és azt hogyan lehet megelőzni.
 
-[^113]: Az 1. számú melléklet C. pont 1. alpontja a 189/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosult szöveg.
-[^114]: Az 1. számú melléklet C. pont 3. alpontja a 189/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosult szöveg.
-[^115]: Az 1. számú melléklet E. pont 9. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^116]: Az 1. számú melléklet E. pont 10. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^117]: Az 1. számú melléklet E. pont 11. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^118]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^114]: Az 1. számú melléklet C. pont 1. alpontja a 189/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosult szöveg.
+[^115]: Az 1. számú melléklet C. pont 3. alpontja a 189/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosult szöveg.
+[^116]: Az 1. számú melléklet E. pont 9. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^117]: Az 1. számú melléklet E. pont 10. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^118]: Az 1. számú melléklet E. pont 11. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^119]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
