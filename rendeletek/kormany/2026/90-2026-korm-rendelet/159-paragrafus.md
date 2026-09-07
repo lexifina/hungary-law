@@ -8,8 +8,8 @@ b) gondoskodik a feladatkörébe tartozó kulturális örökségi értékek szá
 
 c) közreműködik az örökségvédelmet érintő nemzeti szabványok kidolgozásában és a műemlékekkel összefüggő sajátos építési termékek beépítési feltételeinek meghatározásában,
 
-d)[^217] közreműködik az országos építészeti tervtanács működtetésével kapcsolatos feladatokban.
+d)[^223] közreműködik az országos építészeti tervtanács működtetésével kapcsolatos feladatokban.
 
 (3) A miniszter az (1) és (2) bekezdésben meghatározott feladatokat ellátja a Budai Várnegyed, a Citadella és a visegrádi műemlékegyüttes területén megvalósuló beruházások tekintetében is.
 
-[^217]: A 159. § (2) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 69. §-ával megállapított szöveg.
+[^223]: A 159. § (2) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 69. §-ával megállapított szöveg.

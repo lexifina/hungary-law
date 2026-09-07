@@ -2,7 +2,7 @@
 
 a) az egységes külképviseleti rendszerre,
 
-b)[^155] a kormánytisztviselők tartós külszolgálatára,
+b)[^161] a kormánytisztviselők tartós külszolgálatára,
 
 c) a diplomáciai kiváltságokkal és mentességekkel kapcsolatos eljárásra, valamint az ezen kiváltságok és mentességek által érintett eljárásokra,
 
@@ -34,17 +34,17 @@ ag) előmozdítja a külpolitika civil kapcsolatainak erősítését,
 
 b) felel az egységes kormányzati külpolitika koordinálásáért, e tekintetben
 
-ba)[^156] a Kormány feladatkörében érintett tagjával együttműködve irányítja az integrált külképviseleti rendszert és annak szerves részeként a szakdiplomata hálózatot,
+ba)[^162] a Kormány feladatkörében érintett tagjával együttműködve irányítja az integrált külképviseleti rendszert és annak szerves részeként a szakdiplomata hálózatot,
 
 bb) a Kormány feladatkörében érintett tagjával együttműködve kidolgozza a nemzetközi politikai, biztonságpolitikai és kollektív védelmi, kulturális, tudományos, gazdasági és pénzügyi szervezetekben, illetve intézményekben való részvétel alapelveit, ellenőrzi azok megvalósulását, és kezdeményezi a két- és többoldalú együttműködést,
 
 bc) működteti a diplomáciai futárszolgálatot,
 
-bd)[^157] a külgazdaságért felelős miniszterrel együttműködve támogatja a Kormány külgazdasági feladatainak ellátását, ennek keretében támogatja a magyar állampolgárok, illetve magyar vállalkozások külföldi szerepvállalását, különös tekintettel a határmenti együttműködésekre,
+bd)[^163] a külgazdaságért felelős miniszterrel együttműködve támogatja a Kormány külgazdasági feladatainak ellátását, ennek keretében támogatja a magyar állampolgárok, illetve magyar vállalkozások külföldi szerepvállalását, különös tekintettel a határmenti együttműködésekre,
 
-be)[^158] együttműködik a Kormány feladatkörében érintett tagjával a magyarországi befektetések ösztönzésében és megvalósításában,
+be)[^164] együttműködik a Kormány feladatkörében érintett tagjával a magyarországi befektetések ösztönzésében és megvalósításában,
 
-bf)[^159] ellátja a kormányközi vegyes bizottságok működésével kapcsolatos szakmai és koordinációs feladatokat,
+bf)[^165] ellátja a kormányközi vegyes bizottságok működésével kapcsolatos szakmai és koordinációs feladatokat,
 
 c) felel Magyarországnak a külkapcsolatokban és a nemzetközi szervezetekben való képviseletéért, e tekintetben
 
@@ -104,7 +104,7 @@ h) felel a diplomáciai protokollért, valamint a külföldi államfők és korm
 
 i) felel a nemzetközi jogon alapuló viszonosság megállapításáért, valamint egyes jogsegélyügyekért, e tekintetben állást foglal a nemzetközi viszonosság fennállásának kérdésében,
 
-j)[^160]
+j)[^166]
 
 k) koordinálja és irányítja a kormányzati nemzetközi humanitárius segítségnyújtást,
 
@@ -132,15 +132,15 @@ p) felelős a magyar külügyi képzési rendszernek, különösen a diplomata k
 
 q) ellátja a Stipendium Hungaricum ösztöndíjprogram működtetésével kapcsolatos, külön jogszabályban meghatározott feladatokat.
 
-r)[^161] irányítja Magyarország kötöttsegély hitelprogramjait,
+r)[^167] irányítja Magyarország kötöttsegély hitelprogramjait,
 
-s)[^162] a Kormány feladatkörében érintett tagjával együttműködve részt vesz a határon túli gazdasági fejlesztési és kutatási programok végrehajtásában,
+s)[^168] a Kormány feladatkörében érintett tagjával együttműködve részt vesz a határon túli gazdasági fejlesztési és kutatási programok végrehajtásában,
 
-t)[^163] koordinálja az Európai Duna Régió Stratégiával kapcsolatos kormányzati feladatokat,
+t)[^169] koordinálja az Európai Duna Régió Stratégiával kapcsolatos kormányzati feladatokat,
 
-u)[^164] ellátja a vízdiplomáciai feladatokat,
+u)[^170] ellátja a vízdiplomáciai feladatokat,
 
-v)[^165] felel a multilaterális kereskedelempolitikáért, ennek keretében
+v)[^171] felel a multilaterális kereskedelempolitikáért, ennek keretében
 
 va) a Kormány feladatkörében érintett tagjával együttműködve kialakítja az Európai Unió közös kereskedelempolitikájával kapcsolatos kormányzati álláspontokat,
 
@@ -148,14 +148,14 @@ vb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a haza
 
 vc) felel az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága között létrejött kereskedelmi és együttműködési megállapodás végrehajtásáért, és gondoskodik a felek közötti kapcsolatok ezt érintő hazai koordinációjáról.
 
-[^155]: A 120. § (1) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 26. pontja szerint módosított szöveg.
-[^156]: A 120. § (2) bekezdés b) pont ba) alpontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 27. pontja szerint módosított szöveg.
-[^157]: A 120. § (2) bekezdés b) pont bd) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
-[^158]: A 120. § (2) bekezdés b) pont be) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
-[^159]: A 120. § (2) bekezdés b) pont bf) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
-[^160]: A 120. § (2) bekezdés j) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 23. pontja hatályon kívül helyezte.
-[^161]: A 120. § (2) bekezdés r) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
-[^162]: A 120. § (2) bekezdés s) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
-[^163]: A 120. § (2) bekezdés t) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
-[^164]: A 120. § (2) bekezdés u) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
-[^165]: A 120. § (2) bekezdés v) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^161]: A 120. § (1) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 26. pontja szerint módosított szöveg.
+[^162]: A 120. § (2) bekezdés b) pont ba) alpontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 27. pontja szerint módosított szöveg.
+[^163]: A 120. § (2) bekezdés b) pont bd) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
+[^164]: A 120. § (2) bekezdés b) pont be) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
+[^165]: A 120. § (2) bekezdés b) pont bf) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (1) bekezdése iktatta be.
+[^166]: A 120. § (2) bekezdés j) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 23. pontja hatályon kívül helyezte.
+[^167]: A 120. § (2) bekezdés r) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^168]: A 120. § (2) bekezdés s) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^169]: A 120. § (2) bekezdés t) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^170]: A 120. § (2) bekezdés u) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.
+[^171]: A 120. § (2) bekezdés v) pontját a 139/2026. (VIII. 31.) Korm. rendelet 50. § (2) bekezdése iktatta be.

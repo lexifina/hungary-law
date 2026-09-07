@@ -1,4 +1,4 @@
-152. § (1)[^209] A miniszter a szociálpolitikáért való felelőssége keretében előkészíti a fogyatékos és megváltozott munkaképességű személyek helyzetére, esélyegyenlőségük biztosítására, foglalkoztatására, e személyek és foglalkoztatásuk támogatására és a fogyatékos személyek önálló életvitelét biztosító szolgáltatásokra, az akadálymentesítésre, továbbá a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelésre vonatkozó, valamint a pénzbeli és természetbeni szociális ellátásokra és a szociális szolgáltatásokra vonatkozó jogszabályokat.
+152. § (1)[^215] A miniszter a szociálpolitikáért való felelőssége keretében előkészíti a fogyatékos és megváltozott munkaképességű személyek helyzetére, esélyegyenlőségük biztosítására, foglalkoztatására, e személyek és foglalkoztatásuk támogatására és a fogyatékos személyek önálló életvitelét biztosító szolgáltatásokra, az akadálymentesítésre, továbbá a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelésre vonatkozó, valamint a pénzbeli és természetbeni szociális ellátásokra és a szociális szolgáltatásokra vonatkozó jogszabályokat.
 
 (2) A miniszter a szociálpolitikáért való felelőssége keretében
 
@@ -8,7 +8,7 @@ b) ellátja a fogyatékos és megváltozott munkaképességű személyek foglalk
 
 c) koordinálja az Európai Szociális Karta és a fogyatékossággal élő emberek érdekeit szolgáló nemzetközi egyezmények végrehajtását.
 
-d)[^210] a jogszabály-előkészítés kivételével ellátja az egyenlő bánásmód követelményének érvényesítésével összefüggő kormányzati feladatok koordinációját.
+d)[^216] a jogszabály-előkészítés kivételével ellátja az egyenlő bánásmód követelményének érvényesítésével összefüggő kormányzati feladatok koordinációját.
 
-[^209]: A 152. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 34. pontja szerint módosított szöveg.
-[^210]: A 152. § (2) bekezdés d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 63. §-a iktatta be.
+[^215]: A 152. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 34. pontja szerint módosított szöveg.
+[^216]: A 152. § (2) bekezdés d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 63. §-a iktatta be.

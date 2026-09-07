@@ -1,6 +1,6 @@
 ## 18. A vidék- és településfejlesztési miniszter feladat- és hatásköre
 
-179. §[^238] A vidék- és településfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+179. §[^244] A vidék- és településfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. anyakönyvi ügyekért,
 
@@ -38,4 +38,4 @@
 
 felelős tagja.
 
-[^238]: A 179. § a 139/2026. (VIII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^244]: A 179. § a 139/2026. (VIII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.

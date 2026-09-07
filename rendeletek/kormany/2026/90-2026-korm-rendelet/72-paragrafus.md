@@ -1,4 +1,4 @@
-72. §[^99] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége keretében
+72. §[^100] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége keretében
 
 a) végzi az ár- és belvízvédekezés országos irányításával kapcsolatos feladatokat,
 
@@ -38,4 +38,4 @@ r) gondoskodik a szomszédos országokkal létesített vízgazdálkodási egyezm
 
 s) ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat az agrár- és élelmiszergazdaságért felelős miniszterrel együttműködve.
 
-[^99]: A 72. § a 139/2026. (VIII. 31.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^100]: A 72. § a 139/2026. (VIII. 31.) Korm. rendelet 31. §-ával megállapított szöveg.

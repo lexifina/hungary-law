@@ -24,7 +24,7 @@ j) koordinálja az idősek érdekeit szolgáló nemzetközi egyezmények végreh
 
 k) koordinálja a nők és férfiak társadalmi egyenlőségének előmozdításával kapcsolatos feladatokat, és figyelemmel kíséri a női jogok érvényesülését,
 
-l)[^213] felel a Kormány gyermektáboroztatási programjának alakításáért.
+l)[^219] felel a Kormány gyermektáboroztatási programjának alakításáért.
 
 m) együttműködik az egészségügyért felelős miniszterrel a védőnői ellátással és a családvédelmi szolgálattal kapcsolatos szakmai feladatok, valamint a családdal kapcsolatos gondozási és tájékoztatási feladatok ellátásában.
 
@@ -32,4 +32,4 @@ m) együttműködik az egészségügyért felelős miniszterrel a védőnői ell
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter a (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
 
-[^213]: A 155. § (2) bekezdés l) pontja a 139/2026. (VIII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^219]: A 155. § (2) bekezdés l) pontja a 139/2026. (VIII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.

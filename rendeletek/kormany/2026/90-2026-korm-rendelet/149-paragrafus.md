@@ -1,4 +1,4 @@
-149. §[^195] (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására vonatkozó jogszabályokat.
+149. §[^201] (1) A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására vonatkozó jogszabályokat.
 
 (2) A miniszter a társadalmi felzárkózásért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) együttműködve a vidékfejlesztésért felelős miniszterrel, felel a hátr
 
 (3) A miniszter a Biztos Kezdet Gyerekházak vonatkozásában kidolgozza a szolgáltatás nyújtására vonatkozó módszertant. A módszertan kidolgozásában a 128. § (1) bekezdés j) pontja szerinti kérdésben a miniszter együttműködik a gyermek- és ifjúságpolitikáért felelős miniszterrel.
 
-[^195]: A 149. § a 139/2026. (VIII. 31.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^201]: A 149. § a 139/2026. (VIII. 31.) Korm. rendelet 61. §-ával megállapított szöveg.

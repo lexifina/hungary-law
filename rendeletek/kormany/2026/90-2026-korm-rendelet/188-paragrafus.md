@@ -1,4 +1,4 @@
-188. § (1)[^249] A miniszter a helyi önkormányzatokért való felelőssége keretében előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályt.
+188. § (1)[^255] A miniszter a helyi önkormányzatokért való felelőssége keretében előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályt.
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége keretében
 
@@ -16,7 +16,7 @@ f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 g) az önkormányzati érdekszövetségek javaslatának kikérését követően kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
 
-h)[^250] elősegíti a helyi önkormányzatok fejlesztési és együttműködési kapacitásainak erősítését, valamint közreműködik az ezt szolgáló hazai és nemzetközi szakmai programok, módszertani fejlesztések és jó gyakorlatok kialakításában, terjesztésében és megvalósításában.
+h)[^256] elősegíti a helyi önkormányzatok fejlesztési és együttműködési kapacitásainak erősítését, valamint közreműködik az ezt szolgáló hazai és nemzetközi szakmai programok, módszertani fejlesztések és jó gyakorlatok kialakításában, terjesztésében és megvalósításában.
 
-[^249]: A 188. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 45. pontja szerint módosított szöveg.
-[^250]: A 188. § (2) bekezdés h) pontját a 139/2026. (VIII. 31.) Korm. rendelet 87. §-a iktatta be.
+[^255]: A 188. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 45. pontja szerint módosított szöveg.
+[^256]: A 188. § (2) bekezdés h) pontját a 139/2026. (VIII. 31.) Korm. rendelet 87. §-a iktatta be.

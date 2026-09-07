@@ -4,6 +4,6 @@ a) a versenyképesség feltételeinek megteremtése érdekében folyamatosan fig
 
 b) a versenyképességi szempontok érvényesítése érdekében együttműködik az igazságügyért felelős miniszterrel a gazdaság működését érintő jogszabályok előkészítésében,
 
-c)[^102]
+c)[^103]
 
-[^102]: A 78. § c) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 13. pontja hatályon kívül helyezte.
+[^103]: A 78. § c) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 13. pontja hatályon kívül helyezte.

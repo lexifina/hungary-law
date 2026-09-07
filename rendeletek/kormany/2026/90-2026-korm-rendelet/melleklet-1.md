@@ -1,4 +1,4 @@
-1. melléklet a 90/2026. (V. 13.) Korm. rendelethez[^265]
+1. melléklet a 90/2026. (V. 13.) Korm. rendelethez[^271]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -174,4 +174,4 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 3 | Felsőbbfokú Tanulmányok Intézete | irányítás |
 
-[^265]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.
+[^271]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.

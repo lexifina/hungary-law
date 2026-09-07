@@ -1,4 +1,4 @@
-173/A. §[^231] A miniszter a nemzeti adatvagyon-gazdálkodás megvalósításáért és a mesterséges intelligenciáért való felelőssége körében
+173/A. §[^237] A miniszter a nemzeti adatvagyon-gazdálkodás megvalósításáért és a mesterséges intelligenciáért való felelőssége körében
 
 a) gondoskodik a nemzeti adatgazdaság, a nemzeti adatvagyon-gazdálkodás általános elvei kidolgozásáról és a nemzeti adatvagyon-gazdálkodás megvalósításáról,
 
@@ -20,4 +20,4 @@ i) koordinálja az ágazati mesterséges intelligencia fejlesztési programokat,
 
 j) felügyeli a mesterséges intelligencia bejelentő és piacfelügyeleti hatóság tevékenységét.
 
-[^231]: A 173/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 76. §-a iktatta be.
+[^237]: A 173/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 76. §-a iktatta be.

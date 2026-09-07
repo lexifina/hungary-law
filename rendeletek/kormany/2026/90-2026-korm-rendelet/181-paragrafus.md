@@ -22,11 +22,11 @@ i) segíti a terület- és regionális fejlesztést érintő kutatási elemző t
 
 j) elemzi a térségi fejlesztési folyamatokat, javaslatot tesz a régiók területi lehatárolására, kidolgozza a regionális támogatási térkép koncepcióját.
 
-k)[^240] kialakítja az országos térstruktúrát, amelybe integrálja a periférikus, leszakadó térségeket, valamint javaslatot tesz a méretgazdaságos és költséghatékony többszintű területi működtetésre,
+k)[^246] kialakítja az országos térstruktúrát, amelybe integrálja a periférikus, leszakadó térségeket, valamint javaslatot tesz a méretgazdaságos és költséghatékony többszintű területi működtetésre,
 
-l)[^241] véleményezési és egyetértési jogkört gyakorol az érintett szaktárcákkal együttműködésben a közszolgáltatások térségi szervezésével összefüggő szakpolitikai tervezési, fejlesztési és szervezési rendszerfeladatok kialakításának vonatkozásában, különös tekintettel a közlekedési, köznevelési, szociális és egészségügyi szakpolitika, valamint a térségi gazdaságfejlesztési, kulturális és tudományos szakpolitikák területén,
+l)[^247] véleményezési és egyetértési jogkört gyakorol az érintett szaktárcákkal együttműködésben a közszolgáltatások térségi szervezésével összefüggő szakpolitikai tervezési, fejlesztési és szervezési rendszerfeladatok kialakításának vonatkozásában, különös tekintettel a közlekedési, köznevelési, szociális és egészségügyi szakpolitika, valamint a térségi gazdaságfejlesztési, kulturális és tudományos szakpolitikák területén,
 
-m)[^242] az európai területi együttműködési csoportosulás tekintetében
+m)[^248] az európai területi együttműködési csoportosulás tekintetében
 
 ma) előkészíti az erre vonatkozó jogszabályokat,
 
@@ -34,6 +34,6 @@ mb) gondoskodik a közigazgatási szervek határon átnyúló együttműködéss
 
 mc) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését.
 
-[^240]: A 181. § (2) bekezdés k) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
-[^241]: A 181. § (2) bekezdés l) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
-[^242]: A 181. § (2) bekezdés m) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
+[^246]: A 181. § (2) bekezdés k) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
+[^247]: A 181. § (2) bekezdés l) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.
+[^248]: A 181. § (2) bekezdés m) pontját a 139/2026. (VIII. 31.) Korm. rendelet 82. §-a iktatta be.

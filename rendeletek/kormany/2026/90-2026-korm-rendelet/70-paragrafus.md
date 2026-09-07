@@ -1,4 +1,4 @@
-70. §[^98] (1) A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
+70. §[^99] (1) A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
 
 a) a vízgazdálkodásra,
 
@@ -38,4 +38,4 @@ a) gondoskodik a természetalapú megoldások és természetes vízmegtartási m
 
 b) együttműködik az agrár- és élelmiszergazdaságért felelős miniszterrel és a vidékfejlesztésért felelős miniszterrel a KAP támogatásokkal kapcsolatos stratégiai tervezési és szakpolitikai feladatok ellátásában.
 
-[^98]: A 70. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^99]: A 70. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

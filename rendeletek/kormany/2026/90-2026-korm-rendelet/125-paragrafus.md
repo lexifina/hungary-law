@@ -2,7 +2,7 @@
 
 a) a köznevelésre, a köznevelési intézmények fenntartására, a tankönyvellátásra, a Pedagógus Karra és a külhoni magyarok köznevelésére,
 
-b)[^166] az oktatási nyilvántartásra
+b)[^172] az oktatási nyilvántartásra
 
 vonatkozó jogszabályokat.
 
@@ -20,11 +20,11 @@ c) ellátja a köznevelési oktatási koordinációval kapcsolatos feladatokat,
 
 d) működteti az országos köznevelési vizsgarendszert,
 
-e)[^167] közreműködik a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó, a tanterem- és tornaterem-fejlesztési feladatok ellátásában,
+e)[^173] közreműködik a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó, a tanterem- és tornaterem-fejlesztési feladatok ellátásában,
 
 f) felel az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontjában meghatározott szakrendszeri nyilvántartások, valamint e szakrendszerekhez kapcsolódó ágazati információs rendszerek oktatásszakmai fejlesztési koncepciójának meghatározásáért,
 
 g) koordinálja a köznevelési ágazat tehetséggondozási feladatait.
 
-[^166]: A 125. § (1) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 96. § 24. pontja szerint módosított szöveg.
-[^167]: A 125. § (2) bekezdés e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^172]: A 125. § (1) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 96. § 24. pontja szerint módosított szöveg.
+[^173]: A 125. § (2) bekezdés e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.

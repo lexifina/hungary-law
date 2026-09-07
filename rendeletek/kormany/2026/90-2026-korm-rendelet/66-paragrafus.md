@@ -1,4 +1,4 @@
-66. §[^94] (1) A miniszter a klímapolitikáért való felelőssége keretében
+66. §[^95] (1) A miniszter a klímapolitikáért való felelőssége keretében
 
 a) gondoskodik a tudományos alapokon nyugvó integrált éghajlatpolitikai tervezés rendszerének kialakításáról, a tervek elkészítéséről és rendszeres felülvizsgálatáról, beleértve a Nemzeti Éghajlatváltozási Stratégiát és a Nemzeti Energia- és Klímatervet – kivéve a 90. § (4) bekezdésében foglaltakat –, az igazságos átmenettel kapcsolatos tervezést, koordinálja a Kormány üvegházhatású gázkibocsátás csökkentési erőfeszítéseit,
 
@@ -36,4 +36,4 @@ f) gondoskodik az éghajlatváltozás hatásaihoz való rugalmas alkalmazkodás 
 
 g) elősegíti klímareziliencia mintaprojektek megvalósítását.
 
-[^94]: A 66. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^95]: A 66. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

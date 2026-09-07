@@ -1,3 +1,3 @@
-105. §[^132]
+105. §[^138]
 
-[^132]: A 105. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 21. pontja hatályon kívül helyezte.
+[^138]: A 105. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 21. pontja hatályon kívül helyezte.

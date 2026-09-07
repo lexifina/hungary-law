@@ -1,3 +1,3 @@
-154. §[^212] A miniszter – az egészségbiztosításért felelős miniszterrel együttműködve – ellátja a szociális biztonsági koordináció kormányzati összehangolásából adódó feladatokat.
+154. §[^218] A miniszter – az egészségbiztosításért felelős miniszterrel együttműködve – ellátja a szociális biztonsági koordináció kormányzati összehangolásából adódó feladatokat.
 
-[^212]: A 154. § a 139/2026. (VIII. 31.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^218]: A 154. § a 139/2026. (VIII. 31.) Korm. rendelet 65. §-ával megállapított szöveg.

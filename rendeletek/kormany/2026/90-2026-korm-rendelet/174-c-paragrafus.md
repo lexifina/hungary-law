@@ -1,4 +1,4 @@
-174/C. §[^234] (1) A Kormány a minisztert jelöli ki
+174/C. §[^240] (1) A Kormány a minisztert jelöli ki
 
 1. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervként,
 
@@ -28,4 +28,4 @@
 
 (2) A miniszter az informatikai adathordozót tartalmazó biztonsági okmányok tekintetében ellátja a publikus kulcsú információs rendszer (PKI) koordinátor, valamint az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszerrel kapcsolatos külön jogszabályban meghatározott feladatait.
 
-[^234]: A 174/C. §-t a 139/2026. (VIII. 31.) Korm. rendelet 77. §-a iktatta be.
+[^240]: A 174/C. §-t a 139/2026. (VIII. 31.) Korm. rendelet 77. §-a iktatta be.

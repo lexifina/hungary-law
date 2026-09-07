@@ -1,4 +1,4 @@
-65. §[^93] (1) A miniszter a hulladékgazdálkodásért való felelőssége keretében
+65. §[^94] (1) A miniszter a hulladékgazdálkodásért való felelőssége keretében
 
 a) a Kormány körforgásos gazdaság felé történő átmenetért felelős tagja,
 
@@ -24,4 +24,4 @@ f) kidolgozza a hulladékgazdálkodási ipar stratégiai dokumentumait, segíti 
 
 g) támogatja az olyan új technológiákat, amelyek segítik a hulladékhierarchia érvényre jutását.
 
-[^93]: A 65. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^94]: A 65. § a 139/2026. (VIII. 31.) Korm. rendelet 30. §-ával megállapított szöveg.

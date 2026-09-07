@@ -30,10 +30,10 @@ n) ellátja Magyarország Helyreállítási és Ellenállóképességi Tervének
 
 (2) A miniszter az európai uniós források felhasználásáért való felelőssége keretében az európai uniós források felhasználásához kapcsolódó fejlesztéspolitikai adatbázis és információs rendszerben folyamatosan figyelemmel kíséri az európai uniós forrásból finanszírozott fejlesztési folyamatokat, összehangolja az európai uniós források felhasználását, nyomon követi és értékeli az európai uniós források felhasználásához kapcsolódó fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait, és azokról a Kormányt tájékoztatja.
 
-(3)[^245] A miniszter az európai uniós források felhasználásáért való felelőssége keretében
+(3)[^251] A miniszter az európai uniós források felhasználásáért való felelőssége keretében
 
 a) a 2028–2034-es európai uniós programozási időszakban létrehozandó Európai Gazdasági, Társadalmi és Területi Kohézió, a Mezőgazdaság és Vidékfejlesztés, a Halászati és Tengerügyi, valamint a Jólét és Biztonság területére kiterjedő Európai Alap végrehajtási szabályai tekintetében összehangolja a tárgyalásához kapcsolódó kormányzati feladatokat,
 
 b) ellátja a 2028–2034-es európai uniós programozási időszakban létrehozandó Európai Gazdasági, Társadalmi és Területi Kohézió, a határmenti együttműködések, a Mezőgazdaság és Vidékfejlesztés, a Halászati és Tengerügyi, valamint a Jólét és Biztonság területére kiterjedő Európai Alap végrehajtásához szükséges tervezési dokumentum kidolgozását a Közös Agrárpolitikai és a belügyi célkitűzések kivételével.
 
-[^245]: A 184. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 84. §-ával megállapított szöveg.
+[^251]: A 184. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 84. §-ával megállapított szöveg.
