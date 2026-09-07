@@ -1,1 +1,0 @@
-5. § A 2. § és a 3. § a) pontja az (EU) 2022/382 végrehajtási határozattal bevezetett átmeneti védelem meghosszabbításáról szóló, 2026. július 30-i (EU) 2026/1912 tanácsi végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
