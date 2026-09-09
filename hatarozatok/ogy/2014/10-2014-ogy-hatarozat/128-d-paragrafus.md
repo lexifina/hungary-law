@@ -1,4 +1,4 @@
-128/D. §[^243] (1) A köztársasági elnök
+128/D. §[^247] (1) A köztársasági elnök
 
 a) átmeneti akadályoztatása esetén annak megszűnéséig,
 
@@ -8,4 +8,4 @@ a köztársasági elnököt helyettesítő házelnök feladatát ellátó aleln�
 
 (2) Ha az Országgyűlés a köztársasági elnök megbízatása megszűnésének időpontjában nem ülésezik, rendkívüli ülésszakot vagy rendkívüli ülést kell összehívni.
 
-[^243]: A 128/D. §-t az 54/2019. (XII. 17.) OGY határozat 62. §-a iktatta be.
+[^247]: A 128/D. §-t az 54/2019. (XII. 17.) OGY határozat 62. §-a iktatta be.

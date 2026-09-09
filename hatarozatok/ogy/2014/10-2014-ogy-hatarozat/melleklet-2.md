@@ -1,4 +1,4 @@
-2. melléklet a 10/2014. (II. 24.) OGY határozathoz[^300]
+2. melléklet a 10/2014. (II. 24.) OGY határozathoz[^305]
 
 Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítványok
 
@@ -6,7 +6,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 2. Alkotmánybíróság visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
 
-2a.[^301] Alkotmánybíróság levele Alaptörvénnyel való összhang megállapításáról /Alaptörvény 6. cikk (3) bekezdése/
+2a.[^306] Alkotmánybíróság levele Alaptörvénnyel való összhang megállapításáról /Alaptörvény 6. cikk (3) bekezdése/
 
 3. Állami Számvevőszék véleménye /91. § (1) bekezdése/
 
@@ -46,7 +46,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 21. Bizottsági jelentés részletes vitáról /45. § (6) bekezdése, 68. § (5) bekezdése/
 
-22.[^302] Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) és (7a) bekezdése, 102. § (6) bekezdése/
+22.[^307] Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) és (7a) bekezdése, 102. § (6) bekezdése/
 
 23. Bizottsági vélemény Országgyűlés által választott közjogi tisztségviselőre tett személyi javaslatról /az Országgyűlésről szóló törvény 44. § (3) bekezdése/
 
@@ -78,15 +78,15 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 37. Egységes költségvetési törvényjavaslat /93. § (2) bekezdése/
 
-38. Egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+38.[^308]
 
 39. Egyszerű többséget igénylő egységes javaslat /50. § (4) bekezdése/
 
 40. Elfogadott és Alkotmánybírósághoz megküldött normakontroll-javaslat /76. § (15) bekezdése/
 
-40a.[^303] Elfogadott és az Alkotmánybíróságnak megküldött törvény /76. § (15) bekezdése/
+40a.[^309] Elfogadott és az Alkotmánybíróságnak megküldött törvény /76. § (15) bekezdése/
 
-41. Előterjesztő nyilatkozata a 97. § (1) bekezdése szerinti zárószavazás előtti módosító javaslat benyújtásáról /96. § (2) bekezdése/
+41.[^310] Előterjesztő nyilatkozata a 97. § (1) bekezdése szerinti zárószavazás előtti módosító javaslat benyújtásáról /96. § (3) bekezdése/
 
 42. Előterjesztői tájékoztató /46. § (1) bekezdése, 92. § (6) bekezdése/
 
@@ -118,7 +118,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 56. Kiegészítő előterjesztői tájékoztató /71. § (4) bekezdés b) pontja/
 
-57.[^304] Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja, 71. § (6) bekezdése/
+57.[^311] Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja, 71. § (6) bekezdése/
 
 58. Kiegészítő összegző módosító javaslat /71. § (5) bekezdés c) pontja/
 
@@ -128,27 +128,29 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 61. Kormány tájékoztatása az egyeztetési eljárás eredményéről /74. § (1) bekezdése/
 
+61a.[^312] Kormány tájékoztatása a központi költségvetésről szóló törvényjavaslat felülvizsgálatának eredményéről a Gst. 25. § (4) bekezdése alapján /96. § (2) bekezdése/
+
 62. Kormány nyilatkozata az előző ciklusban a Kormány által benyújtott önálló indítványok tárgysorozaton maradásáról /157. § (4) bekezdése/
 
-63. Költségvetési Tanács előzetes hozzájárulása /98. § (2) bekezdése/
+63.[^313]
 
 64. Költségvetési Tanács észrevétele /91. § (1) bekezdése/
 
 65. Költségvetési Tanács véleménye költségvetési törvényjavaslatról vagy egységes költségvetési törvényjavaslatról /96. § (1) bekezdés a) pontja/
 
-65a.[^305] Költségvetési Tanács véleményezésére nyitva álló határidő – Gst. 26. §-a szerinti – eredménytelen elteltének házelnöki megállapítása /96. § (1) bekezdés b) pontja/
+65a.[^314] Költségvetési Tanács véleményezésére nyitva álló, a Gst. 25. § (2) bekezdése szerinti határidő eredménytelen elteltének házelnöki megállapítása /96. § (1) bekezdés b) pontja/
 
-66. Költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+66.[^315]
 
 67. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés b) pontja/
 
-68. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+68.[^316]
 
 69. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés a) pontja/
 
-70. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+70.[^317]
 
-70a.[^306] Köztársasági elnök levele az Alaptörvénnyel való összhang Alkotmánybíróság általi megállapításáról /Alaptörvény 6. cikk (7) bekezdése/
+70a.[^318] Köztársasági elnök levele az Alaptörvénnyel való összhang Alkotmánybíróság általi megállapításáról /Alaptörvény 6. cikk (7) bekezdése/
 
 71. Köztársasági elnök megfontolásra visszaküldő levele /78. § (1) bekezdése/
 
@@ -162,7 +164,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 76. Második egységes költségvetési törvényjavaslat /93. § (3) bekezdése/
 
-77. Második egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+77.[^319]
 
 78. Második összegző jelentés /48. § (7) és (7a) bekezdése/
 
@@ -172,7 +174,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 81. Módosító javaslat /40. §/
 
-82. Módosító javaslat a Gst. 25. § (5) bekezdése alapján /97. § (4) bekezdése/
+82.[^320] Módosító javaslat a Gst. 25. § (4) bekezdése alapján /97. § (4) bekezdése/
 
 83. Módosító javaslat alaptörvény-ellenesség kiküszöbölése érdekében /79. § (2) bekezdése/
 
@@ -198,9 +200,9 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 94. Országgyűlés döntésének megfelelő egységes javaslat /72. § (9) bekezdése/
 
-95.[^307] Összegző jelentés /46. § (7) bekezdése, 62. § (9) bekezdése, 82. § (8) bekezdése, 93. § (1) bekezdése/
+95.[^321] Összegző jelentés /46. § (7) bekezdése, 62. § (9) bekezdése, 82. § (8) bekezdése, 93. § (1) bekezdése/
 
-96.[^308] Összegző módosító javaslat /46. § (5) bekezdése, 48. § (7a) bekezdése, 62. § (8) bekezdése, 82. § (7) bekezdése, 93. § (1) bekezdése/
+96.[^322] Összegző módosító javaslat /46. § (5) bekezdése, 48. § (7a) bekezdése, 62. § (8) bekezdése, 82. § (7) bekezdése, 93. § (1) bekezdése/
 
 97. Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
 
@@ -238,12 +240,21 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 114. Zárószavazást előkészítő módosító javaslat /52. §/
 
-[^300]: A 2. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (3) bekezdésével megállapított szöveg.
-[^301]: A 2. melléklet 2a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
-[^302]: A 2. melléklet 22. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^303]: A 2. melléklet 40a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
-[^304]: A 2. melléklet 57. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^305]: A 2. melléklet 65a. pontját a 36/2022. (VII. 22.) OGY határozat 27. §-a iktatta be.
-[^306]: A 2. melléklet 70a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
-[^307]: A 2. melléklet 95. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
-[^308]: A 2. melléklet 96. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^305]: A 2. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (3) bekezdésével megállapított szöveg.
+[^306]: A 2. melléklet 2a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^307]: A 2. melléklet 22. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^308]: A 2. melléklet 38. pontját az 55/2026. (IX. 8.) OGY határozat 6. § b) pontja hatályon kívül helyezte.
+[^309]: A 2. melléklet 40a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^310]: A 2. melléklet 41. pontja az 55/2026. (IX. 8.) OGY határozat 4. §-ával megállapított szöveg.
+[^311]: A 2. melléklet 57. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^312]: A 2. melléklet 61a. pontját az 55/2026. (IX. 8.) OGY határozat 4. §-a iktatta be.
+[^313]: A 2. melléklet 63. pontját az 55/2026. (IX. 8.) OGY határozat 6. § c) pontja hatályon kívül helyezte.
+[^314]: A 2. melléklet 65a. pontját a 36/2022. (VII. 22.) OGY határozat 27. §-a iktatta be, szövege az 55/2026. (IX. 8.) OGY határozat 4. §-ával megállapított szöveg.
+[^315]: A 2. melléklet 66. pontját az 55/2026. (IX. 8.) OGY határozat 6. § d) pontja hatályon kívül helyezte.
+[^316]: A 2. melléklet 68. pontját az 55/2026. (IX. 8.) OGY határozat 6. § e) pontja hatályon kívül helyezte.
+[^317]: A 2. melléklet 70. pontját az 55/2026. (IX. 8.) OGY határozat 6. § f) pontja hatályon kívül helyezte.
+[^318]: A 2. melléklet 70a. pontját a 27/2024. (XII. 20.) OGY határozat 12. §-a iktatta be.
+[^319]: A 2. melléklet 77. pontját az 55/2026. (IX. 8.) OGY határozat 6. § g) pontja hatályon kívül helyezte.
+[^320]: A 2. melléklet 82. pontja az 55/2026. (IX. 8.) OGY határozat 4. §-ával megállapított szöveg.
+[^321]: A 2. melléklet 95. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.
+[^322]: A 2. melléklet 96. pontja a 36/2022. (VII. 22.) OGY határozat 27. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@ b) fenntarthatja a nem támogatott módosító javaslatot az általa szükséges
 
 c) további módosításra irányuló szándékot fogalmaz meg.
 
-(4)[^92] A nemzetiségeket képviselő bizottság túlterjeszkedő módosító javaslatra irányuló szándékot nem fogalmazhat meg, ilyen módosító javaslat benyújtását más tárgyaló bizottságnál vagy a törvényalkotási bizottságnál kezdeményezheti. Ilyen kezdeményezést legkésőbb a tárgyaló bizottság vagy a törvényalkotási bizottság azon ülését megelőző munkanapon lehet tenni, amelynek tervezett napirendjén a kezdeményezéssel érintett törvényjavaslat tárgyalása szerepel.
+(4)[^93] A nemzetiségeket képviselő bizottság túlterjeszkedő módosító javaslatra irányuló szándékot nem fogalmazhat meg, ilyen módosító javaslat benyújtását más tárgyaló bizottságnál vagy a törvényalkotási bizottságnál kezdeményezheti. Ilyen kezdeményezést legkésőbb a tárgyaló bizottság vagy a törvényalkotási bizottság azon ülését megelőző munkanapon lehet tenni, amelynek tervezett napirendjén a kezdeményezéssel érintett törvényjavaslat tárgyalása szerepel.
 
 (5) A (3) bekezdés szerinti módosításokat a tárgyaló bizottság egy indítványba foglalva nyújtja be (a továbbiakban: részletes vitát lezáró bizottsági módosító javaslat). Több tárgyaló bizottság esetén mindegyik külön-külön nyújtja be a részletes vitát lezáró bizottsági módosító javaslatát.
 
@@ -22,4 +22,4 @@ c) további módosításra irányuló szándékot fogalmaz meg.
 
 (9) A nemzetiségeket képviselő bizottság részletes vitát lezáró bizottsági módosító javaslatát a törvényalkotási bizottság csak akkor tárgyalja, ha a részletesvita-szakasz lezárultáig a nemzetiségeket képviselő bizottság benyújtotta azt.
 
-[^92]: A 45. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 22. §-ával megállapított szöveg.
+[^93]: A 45. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 22. §-ával megállapított szöveg.

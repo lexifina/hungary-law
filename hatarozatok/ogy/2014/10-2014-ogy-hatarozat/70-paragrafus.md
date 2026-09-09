@@ -1,6 +1,6 @@
 ## 51. Eljárás túlterjeszkedő módosító javaslat benyújtása esetén
 
-70. §[^168] (1) Ha a tárgyaló bizottság a 45. § (3) bekezdése szerinti eljárása során túlterjeszkedő módosító javaslatra irányuló szándékot fogalmaz meg, illetve ilyen módosító javaslatot támogat vagy az általa szükségesnek tartott módosítással fenntart, azt a részletes vitát lezáró bizottsági módosító javaslattól elkülönítve, azzal azonos időpontban nyújtja be. A benyújtással egyidejűleg a tárgyaló bizottság a 72. § (1) bekezdése szerinti javaslatot tehet.
+70. §[^169] (1) Ha a tárgyaló bizottság a 45. § (3) bekezdése szerinti eljárása során túlterjeszkedő módosító javaslatra irányuló szándékot fogalmaz meg, illetve ilyen módosító javaslatot támogat vagy az általa szükségesnek tartott módosítással fenntart, azt a részletes vitát lezáró bizottsági módosító javaslattól elkülönítve, azzal azonos időpontban nyújtja be. A benyújtással egyidejűleg a tárgyaló bizottság a 72. § (1) bekezdése szerinti javaslatot tehet.
 
 (2) Az Országgyűlés a részletesvita-szakasz lezárultát követően vita nélkül dönt arról, hogy az (1) bekezdés szerinti módosító javaslat valamely szabályszerű módosító javaslat tartalmával való összefüggése vagy a 44. § (1) bekezdésében meghatározott szempontok érvényesítése miatt nyilvánvalóan szükséges-e. A döntést megelőzően a túlterjeszkedő módosító javaslatot benyújtó bizottság által kijelölt előadó, majd – ha a bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. E felszólalásokra összesen négy perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, két percet annak kifejtésére kell biztosítani. A bizottsági felszólalásokat követően az előterjesztő kétperces időtartamban felszólalhat.
 
@@ -40,4 +40,4 @@ c) a törvényalkotási bizottság a 46. § szerinti eljárásában az átdolgoz
 
 (10) Ha az Országgyűlés a (2) bekezdés szerinti eljárásában azt állapítja meg, hogy a túlterjeszkedő módosító javaslat nem felel meg az ott meghatározott valamely feltételnek, a módosító javaslat lezártnak minősül.
 
-[^168]: A 70. § az 54/2019. (XII. 17.) OGY határozat 36. §-ával megállapított szöveg.
+[^169]: A 70. § az 54/2019. (XII. 17.) OGY határozat 36. §-ával megállapított szöveg.

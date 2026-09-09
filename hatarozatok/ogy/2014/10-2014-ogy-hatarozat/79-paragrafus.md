@@ -10,6 +10,6 @@
 
 (5) A vita a törvényalkotási bizottság jelentéséről és módosító javaslatáról folyik.
 
-(6)[^184]
+(6)[^185]
 
-[^184]: A 79. § (6) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § c) pontja hatályon kívül helyezte.
+[^185]: A 79. § (6) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § c) pontja hatályon kívül helyezte.

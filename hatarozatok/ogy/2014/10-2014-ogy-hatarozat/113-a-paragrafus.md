@@ -1,4 +1,4 @@
-## 72/A. [^224] A bizottság határozatképességének megállapítása
+## 72/A. [^228] A bizottság határozatképességének megállapítása
 
 113/A. § (1) Az ülést vezető elnök a határozathozatalok során figyelemmel kíséri a bizottság határozatképességének fennállását.
 
@@ -8,4 +8,4 @@
 
 (4) A bizottsági ülésről való távolmaradás bejelentésére, valamint a képviselői tiszteletdíj csökkentésének ezzel összefüggő eseteire vonatkozó részletes szabályokat az 5. melléklet tartalmazza.
 
-[^224]: A 72/A. alcímet (113/A. §) az 54/2019. (XII. 17.) OGY határozat 53. §-a iktatta be.
+[^228]: A 72/A. alcímet (113/A. §) az 54/2019. (XII. 17.) OGY határozat 53. §-a iktatta be.

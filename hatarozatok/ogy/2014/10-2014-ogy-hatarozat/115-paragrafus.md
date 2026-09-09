@@ -4,10 +4,10 @@
 
 (2) A vita lezárását a bizottság bármely tagja szóban is javasolhatja.
 
-(3)[^226] A vita lezárásánál a 39. § (1)–(2) bekezdésének a nemzetiségi képviselő és nemzetiségi szószóló hozzászólására vonatkozó rendelkezéseit nem kell alkalmazni.
+(3)[^230] A vita lezárásánál a 39. § (1)–(2) bekezdésének a nemzetiségi képviselő és nemzetiségi szószóló hozzászólására vonatkozó rendelkezéseit nem kell alkalmazni.
 
 (4) A nemzetiségeket képviselő bizottságban a vita lezárása akkor kezdeményezhető, ha a bizottság valamennyi jelen lévő tagjának lehetősége volt álláspontja kifejtésére. Ha a nemzetiségeket képviselő bizottság a vitát lezárta, a bizottság tagjai a bizottság által meghatározott időtartamban még felszólalhatnak.
 
 (5) Ezen alcím alkalmazása szempontjából a módosító javaslatok megvitatása, a bizottsági módosító javaslat benyújtásáról való döntés és a bizottság jelentésének benyújtásáról való döntés külön napirendi pontnak minősül.
 
-[^226]: A 115. § (3) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 7. pontja szerint módosított szöveg.
+[^230]: A 115. § (3) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 7. pontja szerint módosított szöveg.
