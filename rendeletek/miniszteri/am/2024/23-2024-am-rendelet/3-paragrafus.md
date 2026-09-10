@@ -54,4 +54,10 @@ alapján igazolható.
 
 (7) Az agrárpolitikáért felelős miniszter közleményt ad ki az ország teljes területén vagy meghatározott részén bekövetkező vis maiorról, amelyre tekintettel a kedvezményezettnek külön igazolást az érintett vis maiorról nem kell becsatolnia, és ebben az esetben nem kell alkalmazni a 6. §-ban foglaltakat.
 
+(8)[^3] A kedvezményezettnek nem kell az 5. § (1) bekezdése szerinti kérelmet benyújtania, ha az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet 1. § 15. pontja szerinti egységes kérelem keretében a vis maior bekövetkeztének évében igényelt területalapú intézkedéshez kapcsolódó, az 1. mellékletben meghatározott kötelezettségvállalás vagy támogatási feltétel teljesítésének meghiúsulása a (7) bekezdés szerinti közleményben megjelölt, az ország teljes területét sújtó aszályra vezethető vissza.
+
+(9)[^4] Az 1. mellékletben meghatározott kötelezettségvállalások, illetve támogatási feltételek (8) bekezdésben meghatározott okból történő nem teljesítése esetében intézkedésben való jogosulatlan részvétel vagy egyéb jogkövetkezmény megállapítására nem kerül sor, összhangban a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 59. cikk (5) bekezdés második albekezdés a) pontjával, valamint 84. cikk (2) bekezdés c) pont i. alpontjával.
+
 [^2]: A 3. § (1) bekezdés o) pontját a 73/2024. (XII. 20.) AM rendelet 1. §-a iktatta be.
+[^3]: A 3. § (8) bekezdését a 18/2026. (IX. 9.) AÉM rendelet 1. §-a iktatta be.
+[^4]: A 3. § (9) bekezdését a 18/2026. (IX. 9.) AÉM rendelet 1. §-a iktatta be.

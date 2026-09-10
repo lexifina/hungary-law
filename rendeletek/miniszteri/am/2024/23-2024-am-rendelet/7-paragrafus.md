@@ -8,6 +8,6 @@ b) az a) pont szerinti irat kiállítására hatáskörrel rendelkező hatóság
 
 (3) Az EMVA-ból finanszírozott intézkedéssel összefüggésben elindított eljárás tekintetében, ha a vis maior elismeréséről hozott döntés indokolja, a támogató intézkedik a támogatói okirat módosításáról.
 
-(4)[^8] A vis maior esemény elismeréséről az NKÜ a vis maior eseménnyel érintett intézkedésre vonatkozó érdemi döntésben, egybefoglalt döntésben vagy önálló döntésben rendelkezik.
+(4)[^10] A vis maior esemény elismeréséről az NKÜ a vis maior eseménnyel érintett intézkedésre vonatkozó érdemi döntésben, egybefoglalt döntésben vagy önálló döntésben rendelkezik.
 
-[^8]: A 7. § (4) bekezdését a 73/2024. (XII. 20.) AM rendelet 3. §-a iktatta be.
+[^10]: A 7. § (4) bekezdését a 73/2024. (XII. 20.) AM rendelet 3. §-a iktatta be.
