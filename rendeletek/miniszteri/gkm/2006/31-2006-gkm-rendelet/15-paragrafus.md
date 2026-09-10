@@ -2,13 +2,13 @@
 
 ## Magyar fegyvervizsgálati próbajelek
 
-15. § (1)[^24] A fegyver fődarabok előzetes (nem kötelező) vizsgálatának próbajele:
+15. § (1)[^25] A fegyver fődarabok előzetes (nem kötelező) vizsgálatának próbajele:
 
 1. számú próbajel
 
 ## Ezzel a próbajellel kell ellátni a nem készre szerelt állapotban vizsgált, lőpróbának alávetett fődarabokat.
 
-(2) [^25] A gyérfüstű nitro lőporral végrehajtott végleges (kötelező) vizsgálat próbajele:
+(2) [^26] A gyérfüstű nitro lőporral végrehajtott végleges (kötelező) vizsgálat próbajele:
 
 2. számú próbajel
 
@@ -18,7 +18,7 @@ N
 
 Ezzel a próbajellel kell ellátni minden készre gyártott állapotban vizsgált fegyver fokozott igénybevételnek kitett fődarabjait, ha azok a vizsgálaton megfeleltek.
 
-(3) [^26] A feketelőporral végrehajtott végleges (kötelező) vizsgálat próbajele:
+(3) [^27] A feketelőporral végrehajtott végleges (kötelező) vizsgálat próbajele:
 
 3. számú próbajel
 
@@ -28,7 +28,7 @@ PN
 
 Ezzel a próbajellel kell ellátni minden készre gyártott állapotban vizsgált fegyver fokozott igénybevételnek kitett fődarabjait, ha azok a vizsgálaton megfeleltek.
 
-(4) [^27] A simacsövű fegyver fokozott vizsgálatának próbajele:
+(4) [^28] A simacsövű fegyver fokozott vizsgálatának próbajele:
 
 4. számú próbajel
 
@@ -38,7 +38,7 @@ S
 
 Ezzel a próbajellel kell ellátni azt a simacsövű fegyvert, amelyet az adott kaliberjelre általánosan megengedett legnagyobb gáznyomást meghaladó, növelt gáznyomású lőszerek használatára való alkalmasságra vizsgáltak.
 
-(5) [^28] A simacsövű fegyver acélsörétes vizsgálatának próbajele:
+(5) [^29] A simacsövű fegyver acélsörétes vizsgálatának próbajele:
 
 5. számú próbajel
 
@@ -46,13 +46,13 @@ CIP
 
 ## Acélsörétes lőszerrel vizsgált simacsövű fegyvert ezzel a jelöléssel kell ellátni. Az acélsörétes lőszerrel való vizsgálat szükségességének feltételeit és előírásait a 3. melléklet tartalmazza.
 
-(6) [^29] A festéklövő fegyverek vizsgálatának próbajele:
+(6) [^30] A festéklövő fegyverek vizsgálatának próbajele:
 
 6. számú próbajel
 
 ## Ezzel a próbajellel kell ellátni minden olyan egyedileg vizsgált fegyvert, amely megfelel a Kormányrendelet festéklövő fegyver meghatározásának. Ez a próbajel csak Magyarország területén belüli minősítésre szolgál.
 
-(7) [^30] A 7,5 joule alatti torkolati energiával rendelkező fegyverek vizsgálatának próbajele:
+(7) [^31] A 7,5 joule alatti torkolati energiával rendelkező fegyverek vizsgálatának próbajele:
 
 7. számú próbajel
 
@@ -64,24 +64,24 @@ CIP
 
 ## Ezzel a próbajellel kell ellátni a fegyvert az első alkalommal végrehajtott eredményes időszakos vagy ismételt vizsgálat igazolására.
 
-(8a) [^31] A színházi tűzfegyverek és a 9. § (4) bekezdése szerinti fegyverek füstnélküli lőporral végzett vizsgálatának próbajele:
+(8a) [^32] A színházi tűzfegyverek és a 9. § (4) bekezdése szerinti fegyverek füstnélküli lőporral végzett vizsgálatának próbajele:
 
 8a. számú próbajel
 
 ## Ezzel a próbajellel kell ellátni minden egyedileg vizsgált, a tv. alapján színházi tűzfegyvernek minősülő, valamint a 9. § (4) bekezdése szerinti fegyvert. Ez a próbajel csak Magyarország területén belüli minősítésre szolgál.
 
-(9) [^32] A próbajelek elhelyezésének a szabályait a 9. melléklet tartalmazza. A próbajel mellé a nemzeti vizsgálóállomás próbajelét és a vizsgálat évének két utolsó számjegyét is el kell helyezni. A magyar nemzeti vizsgálóállomás próbajele:
+(9) [^33] A próbajelek elhelyezésének a szabályait a 9. melléklet tartalmazza. A próbajel mellé a nemzeti vizsgálóállomás próbajelét és a vizsgálat évének két utolsó számjegyét is el kell helyezni. A magyar nemzeti vizsgálóállomás próbajele:
 
 8b. számú próbajel
 
 (10) Hamisított próbajel észlelése vagy annak alapos gyanúja esetén a Vizsgáló köteles haladéktalanul értesíteni az illetékes rendőrhatóságot.
 
-[^24]: A 15. § (1) bekezdése a 19/2017. (VII. 12.) NGM rendelet 6. § a) pontja szerint módosított szöveg.
-[^25]: A 15. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^26]: A 15. § (3) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^27]: A 15. § (4) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^28]: A 15. § (5) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^29]: A 15. § (6) bekezdése az 51/2020. (XII. 18.) ITM rendelet 13. § a) pontja szerint módosított szöveg.
-[^30]: A 15. § (7) bekezdése az 51/2020. (XII. 18.) ITM rendelet 13. § a) pontja szerint módosított szöveg.
-[^31]: A 15. § (8a) bekezdését az 51/2020. (XII. 18.) ITM rendelet 7. §-a iktatta be.
-[^32]: A 15. § (9) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (5) bekezdésével megállapított, az 51/2020. (XII. 18.) ITM rendelet 13. § b) pontja szerint módosított szöveg.
+[^25]: A 15. § (1) bekezdése a 19/2017. (VII. 12.) NGM rendelet 6. § a) pontja szerint módosított szöveg.
+[^26]: A 15. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^27]: A 15. § (3) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^28]: A 15. § (4) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^29]: A 15. § (5) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^30]: A 15. § (6) bekezdése az 51/2020. (XII. 18.) ITM rendelet 13. § a) pontja szerint módosított szöveg.
+[^31]: A 15. § (7) bekezdése az 51/2020. (XII. 18.) ITM rendelet 13. § a) pontja szerint módosított szöveg.
+[^32]: A 15. § (8a) bekezdését az 51/2020. (XII. 18.) ITM rendelet 7. §-a iktatta be.
+[^33]: A 15. § (9) bekezdése a 19/2017. (VII. 12.) NGM rendelet 1. § (5) bekezdésével megállapított, az 51/2020. (XII. 18.) ITM rendelet 13. § b) pontja szerint módosított szöveg.

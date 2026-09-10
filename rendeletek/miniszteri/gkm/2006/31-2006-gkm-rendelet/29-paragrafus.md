@@ -1,6 +1,6 @@
-## Színházi tűzfegyverek vizsgálata[^39]
+## Színházi tűzfegyverek vizsgálata[^40]
 
-## 29. §[^40] A színházi tűzfegyverek vizsgálatát a tűzfegyverek egyedi vizsgálatára vonatkozó előírások szerint kell végezni az alábbi eltérésekkel:
+## 29. §[^41] A színházi tűzfegyverek vizsgálatát a tűzfegyverek egyedi vizsgálatára vonatkozó előírások szerint kell végezni az alábbi eltérésekkel:
 
 a) új színházi tűzfegyver esetében meg kell győződni arról, hogy a kialakítása megfelel-e a Korm. r. 22. számú mellékletében foglalt követelményeknek,
 
@@ -16,5 +16,5 @@ f) a lőpróbát a gyártó, illetve a vizsgálatra bemutató által biztosítot
 
 g) a működési biztonság vizsgálata során működési rendszerként a vizsgálatot megrendelő nyilatkozatát kell figyelembe venni.
 
-[^39]: A „Színházi tűzfegyverek vizsgálata” alcím cím az 51/2020. (XII. 18.) ITM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^40]: A 29. § az 51/2020. (XII. 18.) ITM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^40]: A „Színházi tűzfegyverek vizsgálata” alcím cím az 51/2020. (XII. 18.) ITM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^41]: A 29. § az 51/2020. (XII. 18.) ITM rendelet 10. § (1) bekezdésével megállapított szöveg.

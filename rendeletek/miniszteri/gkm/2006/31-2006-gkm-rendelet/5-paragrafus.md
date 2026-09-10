@@ -1,4 +1,4 @@
-5. § (1)[^10] A vizsgálat célja annak megállapítása, hogy
+5. § (1)[^11] A vizsgálat célja annak megállapítása, hogy
 
 a) a fegyver, a fegyver fődarabjai, a lövőkészülék, illetve a lőszer megfelel-e e rendelet előírásainak, továbbá
 
@@ -6,4 +6,4 @@ b) a gáz- és riasztófegyver, a színházi tűzfegyver, illetve a hatástalan�
 
 (2) A vizsgálat történhet e rendelet szerinti egyedi és típusjóváhagyó vizsgálattal.
 
-[^10]: Az 5. § (1) bekezdése az 51/2020. (XII. 18.) ITM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdése az 51/2020. (XII. 18.) ITM rendelet 3. §-ával megállapított szöveg.

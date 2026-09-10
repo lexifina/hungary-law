@@ -1,6 +1,6 @@
 ## 27/F. § A Vizsgáló az érvényes próbajel-használati engedélyekről a típusvizsgálatot kezdeményező gyártó vagy importőr nevének és adószámának, az engedéllyel rendelkező fegyvertípus gyártója, típusa, kaliberjele és a típusjóváhagyó vizsgálat számának és évének feltüntetésével honlapján havonta frissített információt tesz közzé.
 
-## A moduláris tűzfegyver és a moduláris tűzfegyver fődarabja műszaki követelményei, valamint az e követelményeknek való megfelelés ellenőrzése[^37]
+## A moduláris tűzfegyver és a moduláris tűzfegyver fődarabja műszaki követelményei, valamint az e követelményeknek való megfelelés ellenőrzése[^38]
 
 27/G. § (1) A moduláris tűzfegyver és a moduláris tűzfegyver fődarabja műszaki követelményeit a 13/A. melléklet tartalmazza.
 
@@ -12,4 +12,4 @@ b) a Magyarországtól különböző államban gyártott tűzfegyverek és tűzf
 
 állapítja meg vagy zárja ki.
 
-[^37]: Az „A moduláris tűzfegyver és a moduláris tűzfegyver fődarabja műszaki követelményei, valamint az e követelményeknek való megfelelés ellenőrzése” alcímet (27/G–27/H. §-t) a 15/2026. (VII. 27.) BM rendelet 10. §-a iktatta be.
+[^38]: Az „A moduláris tűzfegyver és a moduláris tűzfegyver fődarabja műszaki követelményei, valamint az e követelményeknek való megfelelés ellenőrzése” alcímet (27/G–27/H. §-t) a 15/2026. (VII. 27.) BM rendelet 10. §-a iktatta be.

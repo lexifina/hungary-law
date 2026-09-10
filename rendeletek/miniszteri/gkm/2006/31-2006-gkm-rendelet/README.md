@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-31-20-0
 | 2021-01-01 | 2006-31-20-0L.6 | 51/2020. (XII. 18.) ITM rendelet |
 | 2023-08-16 | 2006-31-20-0L.7 | 45/2023. (VIII. 8.) AM rendelet |
 | 2026-07-28 | 2006-31-20-0L.8 | 15/2026. (VII. 27.) BM rendelet |
+| 2026-09-10 | 2006-31-20-0L.9 | 18/2026. (VIII. 26.) BM rendelet |
