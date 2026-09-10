@@ -1,1 +1,3 @@
-4. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 2. melléklete az 1. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
