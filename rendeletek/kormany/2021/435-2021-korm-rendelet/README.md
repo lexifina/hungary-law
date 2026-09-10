@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-435-20-
 | 2026-01-01 | 2021-435-20-22.19 | 342/2025. (X. 31.) Korm. rendelet |
 | 2026-07-01 | 2021-435-20-22.20 | 339/2025. (X. 31.) Korm. rendelet |
 | 2026-08-28 | 2021-435-20-22.21 | 129/2026. (VIII. 25.) Korm. rendelet |
+| 2026-09-10 | 2021-435-20-22.22 | 129/2026. (VIII. 25.) Korm. rendelet |

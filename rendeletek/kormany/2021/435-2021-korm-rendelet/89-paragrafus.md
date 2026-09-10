@@ -6,7 +6,7 @@ b) az e rendeletben meghatározott bejelentési és adatszolgáltatási kötelez
 
 c) a must, sűrített szőlőmust, finomított szőlőmustsűrítmény és borecet kivételével borászati terméket érvényes forgalombahozatali azonosító nélkül értékesít nem borászati üzemengedélyes részére,
 
-d)[^126] a miniszteri rendeletben több fajtanév együttes jelölésére meghatározott szabályokat megsérti, vagy
+d)[^127] a miniszteri rendeletben több fajtanév együttes jelölésére meghatározott szabályokat megsérti, vagy
 
 e) egy földrajzi árujelző használatától a Btv. 14. §-a alapján eltiltásra kerül,
 
@@ -30,4 +30,4 @@ d) az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségé
 
 e) online bortermelői regisztert vezet.
 
-[^126]: A 89. § (1) bekezdés d) pontja a 392/2023. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^127]: A 89. § (1) bekezdés d) pontja a 392/2023. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.

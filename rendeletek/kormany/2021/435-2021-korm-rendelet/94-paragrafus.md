@@ -4,7 +4,7 @@
 
 (2) A kormányhivatal ellenőrzi az (1) bekezdésben foglaltak megvalósulását.
 
-(3)[^129] A borászati üzemengedélyes a szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet módosításáról szóló 392/2023. (VIII. 14.) Korm. rendelet [a továbbiakban: 392/2023. (VIII. 14.) Korm. rendelet] hatálybalépését megelőzően a borászati üzemében üzembe helyezett szőlőmust sűrítésére, finomított szőlőmustsűrítmény előállítására szolgáló, valamint a fordított ozmózis elvén működő berendezés rendelkezésre állását a 392/2023. (VIII. 14.) Korm. rendelet hatálybalépését[^130] követő 60 napon belül bejelenti a NÉBIH és a gazdasági aktát vezető hegybíró részére.
+(3)[^130] A borászati üzemengedélyes a szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet módosításáról szóló 392/2023. (VIII. 14.) Korm. rendelet [a továbbiakban: 392/2023. (VIII. 14.) Korm. rendelet] hatálybalépését megelőzően a borászati üzemében üzembe helyezett szőlőmust sűrítésére, finomított szőlőmustsűrítmény előállítására szolgáló, valamint a fordított ozmózis elvén működő berendezés rendelkezésre állását a 392/2023. (VIII. 14.) Korm. rendelet hatálybalépését[^131] követő 60 napon belül bejelenti a NÉBIH és a gazdasági aktát vezető hegybíró részére.
 
-[^129]: A 94. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
-[^130]: A hatálybalépés időpontja 2023. augusztus 15.
+[^130]: A 94. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 16. §-a iktatta be.
+[^131]: A hatálybalépés időpontja 2023. augusztus 15.
