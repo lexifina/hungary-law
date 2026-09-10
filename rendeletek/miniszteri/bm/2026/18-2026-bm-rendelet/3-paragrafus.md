@@ -1,0 +1,1 @@
+3. § A fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendelet 1. §-át megelőző alcím címében és 1. § (1) bekezdésében az „alkalmazási köre” szövegrész helyébe a „hatálya” szöveg lép.
