@@ -2,37 +2,41 @@ Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló 2011.
 
 1. Az Alkotmánybíróságon három öttagú állandó tanács működik.
 
-2.[^1] Az öttagú állandó tanácsok tanácsvezetői és tagjai:
+2.[^2] Az öttagú állandó tanácsok tanácsvezetői és tagjai:
 
 Az 1. öttagú tanács tagjai:
 
-Dr. Varga Réka tanácsvezető alkotmánybíró,
-
-Dr. Hende Csaba alkotmánybíró,
-
-Dr. Horváth Attila alkotmánybíró,
-
-Dr. Juhász Miklós alkotmánybíró,
-
-Dr. Polt Péter alkotmánybíró.
-
-A 2. öttagú tanács tagjai:
-
-Dr. Czine Ágnes tanácsvezető alkotmánybíró,
-
-Dr. Handó Tünde alkotmánybíró,
-
-Haszonicsné dr. Ádám Mária alkotmánybíró,
+Dr. Horváth Attila tanácsvezető alkotmánybíró,
 
 Dr. Márki Zoltán alkotmánybíró,
 
-Dr. Schanda Balázs alkotmánybíró.
+Dr. Schanda Balázs alkotmánybíró,
 
-A 3. öttagú tanács tagjai:
+Dr. Sonnevend Pál alkotmánybíró,
 
-Dr. Lomnici Zoltán tanácsvezető alkotmánybíró,
+Dr. Varga Réka alkotmánybíró.
 
-Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró,
+Előadó alkotmánybíróként dr. Márki Zoltán és dr. Schanda Balázs alkotmánybíró a 2. öttagú tanácsban jár el.
+
+Az 2. öttagú tanács tagjai:
+
+Dr. Handó Tünde tanácsvezető alkotmánybíró,
+
+Dr. Czine Ágnes alkotmánybíró,
+
+Dr. Márki Zoltán alkotmánybíró,
+
+Dr. Schanda Balázs alkotmánybíró,
+
+Dr. Szabó Marcel alkotmánybíró.
+
+Előadó alkotmánybíróként dr. Szabó Marcel alkotmánybíró a 3. öttagú tanácsban jár el.
+
+Az 3. öttagú tanács tagjai:
+
+Dr. Hörcherné dr. Marosi Ildikó tanácsvezető alkotmánybíró,
+
+Dr. Czine Ágnes alkotmánybíró,
 
 Dr. Kozma Ákos alkotmánybíró,
 
@@ -40,13 +44,15 @@ Dr. Patyi András alkotmánybíró,
 
 Dr. Szabó Marcel alkotmánybíró.
 
+Előadó alkotmánybíróként dr. Czine Ágnes alkotmánybíró a 2. öttagú tanácsban jár el.
+
 3. A tanácsvezetők megbízatása 2024. szeptember 30-ig tart.
 
-4.[^2] Ez a határozat a közzététele napján lép hatályba,
+4.[^3] Ez a határozat a közzététele napján lép hatályba,
 
 5. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
 
-[^1]: A 2. pont az 1002/2025. (III. 11.) AB Tü. határozat 1. pontja, az 1004/2025. (VI. 4.) AB Tü. határozat 1. pontja, az 1005/2025. (VI. 19.) AB Tü. határozat 1. pontja, az 1007/2025. (IX. 30.) AB Tü. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: A 2. pont a 2005/2026. (IX. 9.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.

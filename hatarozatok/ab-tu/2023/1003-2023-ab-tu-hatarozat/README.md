@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1003-30
 | 2025-06-05 | 2023-1003-30-29.7 | 1002/2025. (III. 11.) AB Tü. határozat |
 | 2025-06-20 | 2023-1003-30-29.8 | 1002/2025. (III. 11.) AB Tü. határozat |
 | 2025-10-01 | 2023-1003-30-29.9 | 1002/2025. (III. 11.) AB Tü. határozat |
+| 2026-09-10 | 2023-1003-30-29.10 | 1002/2026. (IX. 29.) AB Tü. határozat |
