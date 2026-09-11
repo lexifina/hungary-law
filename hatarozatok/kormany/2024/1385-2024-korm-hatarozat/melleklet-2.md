@@ -41,3 +41,7 @@ Rövidítések jegyzéke
 19. UNFICYP: United Nations Peacekeeping Force in Cyprus (ENSZ Ciprusi Békefenntartó Erő)
 
 20. UNIFIL: United Nations Interim Force in Lebanon (ENSZ Libanoni Békefenntartó Misszió)
+
+21.[^5] NSATU – a NATO átfogó támogatási és kiképzési keretprogramjának csapatmozgásai
+
+[^5]: A 2. melléklet 21. pontját az 1300/2026. (IX. 11.) Korm. határozat 2. pontja iktatta be.
