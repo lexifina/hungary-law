@@ -1,3 +1,3 @@
-14. §[^15]
+14. § A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet 120. § (2) bekezdése a következő d) ponttal egészül ki:
 
-[^15]: A 14. § a 18. § (3) bekezdése alapján 2026. szeptember 11-én lép hatályba.
+(Ez a rendelet)
