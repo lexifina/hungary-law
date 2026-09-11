@@ -424,4 +424,30 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a, a 24/2025. (VII. 31.) EM rendelet 1. §-a, az 1/2026. (VII. 30.) TTM rendelet 1. §-a szerint módosított szöveg.
+15. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal részére nyújtott közszolgáltatások
+
+|  | A | B | C | D |
+
+| 1 | Központi szolgáltató megnevezése | A közszolgáltatás tárgya | A közszolgáltatási feladat | A szolgáltatás nyújtásának kezdete |
+
+| 2 | Pro-M Zrt. | Integrált adatszolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 3 | Pro-M Zrt. | Központi Internet szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 4 | NISZ Zrt. | Menedzselt LAN és LAN építési kiegészítő szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 5 | NISZ Zrt. | WIFI szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 6 | NISZ Zrt. | Menedzselt munkaállomás-üzemeltetési szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 7 | NISZ Zrt. | Mobil ellátási szolgáltatás | üzemeltetés és fejlesztés | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 8 | NISZ Zrt. | Menedzselt irodatechnikai szolgáltatás | üzemeltetés és fejlesztés | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 9 | NISZ Zrt. | Tárhelyszolgáltatás | üzemeltetés és fejlesztés | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 10 | NISZ Zrt. | Komplex infrastruktúra szolgáltatás | üzemeltetés és fejlesztés | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+| 11 | NISZ Zrt. | Közvetített szolgáltatás | hálózati szolgáltatás (üzemeltetés) | a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet módosításáról szóló 2/2026. (IX. 10.) TTM rendelet hatálybalépésének napja |
+
+[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a, a 24/2025. (VII. 31.) EM rendelet 1. §-a, az 1/2026. (VII. 30.) TTM rendelet 1. §-a, a 2/2026. (IX. 10.) TTM rendelet 1. §-a szerint módosított szöveg.
