@@ -1,3 +1,3 @@
-122. §[^55]
+122. §[^57]
 
-[^55]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

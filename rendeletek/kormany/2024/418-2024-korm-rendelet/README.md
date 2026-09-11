@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-418-20-
 | 2025-07-04 | 2024-418-20-22.5 | 189/2025. (VII. 3.) Korm. rendelet |
 | 2025-07-19 | 2024-418-20-22.6 | 189/2025. (VII. 3.) Korm. rendelet |
 | 2025-10-10 | 2024-418-20-22.9 | 308/2025. (X. 9.) Korm. rendelet |
+| 2026-09-11 | 2024-418-20-22.7 | 189/2025. (VII. 3.) Korm. rendelet |

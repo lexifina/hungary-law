@@ -52,10 +52,10 @@ d) adott esetben a kiberbiztonsági incidens határokon átnyúló hatása;
 
 7. a 6. pont szerinti esetben a kiberbiztonsági incidens kezelését követő egy hónapon belül egy zárójelentést.
 
-(2)[^36] Kiberfenyegetés, kiberbiztonsági incidensközeli helyzet és üzemeltetési kiberbiztonsági incidens bejelentése során az (1) bekezdés rendelkezései a Központ által meghatározott módon alkalmazandók, ha azok az adott esemény kapcsán értelmezhetők.
+(2)[^37] Kiberfenyegetés, kiberbiztonsági incidensközeli helyzet és üzemeltetési kiberbiztonsági incidens bejelentése során az (1) bekezdés rendelkezései a Központ által meghatározott módon alkalmazandók, ha azok az adott esemény kapcsán értelmezhetők.
 
 (3) A szervezetnek nem kell bejelentenie azt a kiberbiztonsági incidensközeli helyzetet és üzemeltetési kiberbiztonsági incidenst, amely az incidenskezelési folyamatba kerülés során, automatizmus által kezelésre, elhárításra került és nem járt a szolgáltatás degradációjával. Az ismétlődő kiberbiztonsági incidensközeli helyzetet és üzemeltetési kiberbiztonsági incidenst a szervezet ez esetben is bejelenti.
 
 (4) Az (1) bekezdés 3. pontjától eltérően a bizalmi szolgáltató indokolatlan késedelem nélkül és minden esetben az incidensről való tudomásszerzést követő 24 órán belül értesíti a Központot a bizalmi szolgáltatásai nyújtására hatást gyakorló kiberbiztonsági incidensekről.
 
-[^36]: A 77. § (2) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^37]: A 77. § (2) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -72,6 +72,8 @@ e) nyilvántartja a bejelentett sérülékenységeket, azokról szükség szerin
 
 f) részt vesz az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti sebezhetőséggel kapcsolatos feladatok végrehajtásában;
 
+g)[^33] ellátja az (EU) 2024/2847 európai parlamenti és tanácsi rendelet 14. cikke szerinti koordinátor CSIRT feladatokat;
+
 5. tájékoztatási, tudatosító tevékenysége keretében:
 
 a) elemzéseket, jelentéseket készít a hazai és nemzetközi információbiztonsági irányokról,
@@ -98,7 +100,7 @@ c) részt vesz a CSIRT-hálózat tevékenységében,
 
 d) kapacitásaiknak és hatásköreiknek megfelelően segítséget nyújt az (EU) 2022/2555 európai parlamenti és tanácsi irányelv 11. cikk (3) bekezdés f) pontja szerinti kölcsönös segítségnyújtás keretében a CSIRT-hálózat többi tagjának azok kérésére,
 
-e)[^33] együttműködik harmadik országok nemzeti, számítógép-biztonsági incidensekre reagáló csoportjaival vagy azokkal egyenértékű harmadik országbeli szervekkel,
+e)[^34] együttműködik harmadik országok nemzeti, számítógép-biztonsági incidensekre reagáló csoportjaival vagy azokkal egyenértékű harmadik országbeli szervekkel,
 
 f) kapacitásainak és hatáskörének megfelelően részt vesz a CSIRT-hálózat többi tagja részére nyújtandó kölcsönös segítségnyújtásban, azok kérése esetén,
 
@@ -108,7 +110,7 @@ h) részt vesz az (EU) 2022/2555 európai parlamenti és tanácsi irányelv 19. 
 
 i) csatlakozhat a kibervédelemmel kapcsolatos európai uniós és nemzetközi együttműködésekhez, együttműködési megállapodásokat köthet;
 
-j)[^34] az (EU) 2025/38 európai parlamenti és tanácsi rendelet 4. cikke szerinti nemzeti kiberközpontként jár el;
+j)[^35] az (EU) 2025/38 európai parlamenti és tanácsi rendelet 4. cikke szerinti nemzeti kiberközpontként jár el;
 
 7. további feladatkörében:
 
@@ -152,5 +154,6 @@ l) a katonai kibertér műveleti erőkkel.
 
 (3) A Központ erőforrásai függvényében kockázatalapú megközelítés alapján rangsorolhatja a feladatai végrehajtását.
 
-[^33]: A 67. § (1) bekezdés 6. pont e) alpontja a 308/2025. (X. 9.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
-[^34]: A 67. § (1) bekezdés 6. pont j) alpontját a 308/2025. (X. 9.) Korm. rendelet 3. §-a iktatta be.
+[^33]: A 67. § (1) bekezdés 4. pont g) alpontját a 189/2025. (VII. 3.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 67. § (1) bekezdés 6. pont e) alpontja a 308/2025. (X. 9.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
+[^35]: A 67. § (1) bekezdés 6. pont j) alpontját a 308/2025. (X. 9.) Korm. rendelet 3. §-a iktatta be.

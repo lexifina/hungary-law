@@ -8,7 +8,7 @@ b) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi iránye
 
 való megfelelést szolgálja.
 
-(2)[^53] Ez a rendelet
+(2)[^54] Ez a rendelet
 
 a) az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) szóló, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendeletnek,
 
@@ -18,6 +18,9 @@ c) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 
 
 d) a kiberfenyegetések és -események észlelése, valamint az azokra való felkészülés és reagálás érdekében az Unión belüli szolidaritás és képességek megerősítését célzó intézkedések meghatározásáról, és az (EU) 2021/694 rendelet módosításáról szóló, 2024. december 19-i (EU) 2025/38 európai parlamenti és tanácsi rendeletnek
 
+d)[^55] a digitális elemeket tartalmazó termékekre vonatkozó horizontális kiberbiztonsági követelményekről, valamint a 168/2013/EU és az (EU) 2019/1020 rendelet, és az (EU) 2020/1828 irányelv módosításáról (a kiberrezilienciáról szóló rendelet) szóló, 2024. október 23-i (EU) 2024/2847 európai parlamenti és tanácsi rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^53]: A 120. § (2) bekezdése a 308/2025. (X. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^54]: A 120. § (2) bekezdése a 308/2025. (X. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^55]: A 120. § (2) bekezdés második d) pontját a 189/2025. (VII. 3.) Korm. rendelet 14. §-a iktatta be.

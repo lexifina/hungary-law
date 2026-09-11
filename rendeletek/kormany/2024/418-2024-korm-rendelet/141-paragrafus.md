@@ -1,3 +1,3 @@
-141. §[^74]
+141. §[^76]
 
-[^74]: A 141. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 141. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
