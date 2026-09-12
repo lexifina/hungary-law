@@ -1,0 +1,3 @@
+[1] Az Országgyűlés a történeti hagyományok tiszteletben tartása mellett, a közigazgatási szervezetrendszer átláthatóságának, közérthetőségének és egységes jogalkalmazásának elősegítése érdekében szükségesnek tartja a területi közigazgatás megnevezéseinek felülvizsgálatát.
+
+[2] Az Országgyűlés annak érdekében, hogy a hatályos jogszabályok terminológiája összhangban álljon a közigazgatási feladatellátás jelenlegi rendszerével, valamint a közigazgatási szervek és tisztségviselők elnevezései egyértelműen tükrözzék azok jogállását és funkcióját, illetve annak érdekében, hogy a miniszterelnök illetménye a központi költségvetés teherbíró képességével arányosan kerüljön meghatározásra, a következő törvényt alkotja:
