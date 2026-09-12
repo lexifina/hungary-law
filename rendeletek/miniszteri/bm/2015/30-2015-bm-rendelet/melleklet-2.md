@@ -290,7 +290,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 7. |  | őrparancsnok | 520 |  |
 
-| 8. |  | szolgálatparancsnok | 520 |  |
+| 8. |  | szolgálatparancsnok | 520 620****[^34] |  |
 
 | 9. |  | szolgálatparancsnok (közterületi támogató) | 620 |  |
 
@@ -314,13 +314,13 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 19. |  | vizsgáló | 520 |  |
 
-| 20. |  | kiemelt főhatárrendész | 520 545** 620** 645** 720* 745* |  |
+| 20. |  | kiemelt főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^35] |  |
 
 | 21. |  | járőrparancsnok | 520 545** 620** 620**** 645** |  |
 
 | 22. |  | C | fogdafelügyelő | 520 |  |
 
-| 23. |  | főhatárrendész | 520 545** 620** 645** 720* 745* |  |
+| 23. |  | főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^36] |  |
 
 | 24. |  | futár |  | 470 |
 
@@ -330,7 +330,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 27. |  | kutyavezető | 620** 620**** 645** |  |
 
-| 28. |  | szolgálatparancsnok-helyettes | 520 |  |
+| 28. |  | szolgálatparancsnok-helyettes | 520 620****[^37] |  |
 
 | 29. |  | segédelőadó | 520 | 470 |
 
@@ -342,7 +342,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 33. |  | B | fogdaőr | 520 |  |
 
-| 34. |  | B | határrendész | 520 545** 620** 645** 720* 745* |  |
+| 34. |  | B | határrendész | 520 545** 620** 620**** 645** 720* 745*[^38] |  |
 
 | 35. |  | járőr | 520 545** 620** 645** |  |
 
@@ -440,7 +440,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.3. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-3.1.4.[^34] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+3.1.4.[^39] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 3.1.5. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
@@ -450,7 +450,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.8. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
-4.[^35]
+4.[^40]
 
 5. Rendőrségi Oktatási és Kiképző Központ (területi szerv besorolású)
 
@@ -746,7 +746,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 6.4.3. 595*: A titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állomány esetében a hivatásos pótlék mértéke 595%.
 
-6.4.4. 645***: A Rendészeti Igazgatóság támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Nemzeti Nyomozó Iroda Műveleti Szolgálat Műveleti Főosztály állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állománya esetében a hivatásos pótlék mértéke 645%.
+6.4.4.[^41] 645***: A Rendészeti Igazgatóság támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Nemzeti Nyomozó Iroda Műveleti Szolgálat Műveleti Főosztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állománya esetében a hivatásos pótlék mértéke 645%.
 
 6.4.5. 720**: A tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében, valamint a gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 720%.
 
@@ -1144,17 +1144,23 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.1. központi szerv: Országos Rendőr-főkapitányság (ORFK),
 
-9.2.2.[^36] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
+9.2.2.[^42] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
 
 9.2.3. helyi szervek: rendőrkapitányságok, határrendészeti kirendeltségek,
 
 9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5.[^37] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^43] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
 [^32]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
 [^33]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^34]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^35]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte.
-[^36]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
-[^37]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
+[^34]: A 2. melléklet 3. pontjában foglalt táblázat D:8 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet 3. pontjában foglalt táblázat D:20 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^36]: A 2. melléklet 3. pontjában foglalt táblázat D:23 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet 3. pontjában foglalt táblázat D:28 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^38]: A 2. melléklet 3. pontjában foglalt táblázat D:34 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^39]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^40]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^41]: A 2. melléklet 6.4.4. pontja a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^42]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^43]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
