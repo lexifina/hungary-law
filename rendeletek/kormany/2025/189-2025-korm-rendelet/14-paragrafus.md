@@ -1,3 +1,3 @@
-14. § A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet 120. § (2) bekezdése a következő d) ponttal egészül ki:
+14. §[^15]
 
-(Ez a rendelet)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

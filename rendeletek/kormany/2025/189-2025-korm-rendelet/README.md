@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-189-20-
 | 2025-07-19 | 2025-189-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-07-20 | 2025-189-20-22.4 | 2010. évi CXXX. törvény |
 | 2026-09-11 | 2025-189-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-09-12 | 2025-189-20-22.6 | 2010. évi CXXX. törvény |
