@@ -10,36 +10,6 @@
 
 ## a következőket rendelem el:
 
-1. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet a következő 10. és 10/A. §-sal egészül ki:
+1. §[^1]
 
-„10. § (1) Az e §-ban foglaltakat
-
-a) a határrendész és útlevélkezelő rendőrjárőr szakképesítésre és
-
-b) a közbiztonsági rendőrjárőr szakképesítésre
-
-felkészítő szakmai képzés megszervezéséhez – amennyiben a programkövetelmény tartalmazza a tárgyi feltételek meglétének igazolására vonatkozó követelményt – szükséges igazolás kiállítására kell alkalmazni.
-
-(2) Az igazolás kiállítására irányuló kérelmet az Országos Rendőr-főkapitányságnál kell előterjeszteni. A kérelemben tételesen be kell mutatni a programkövetelményben meghatározott tárgyi feltételek rendelkezésre állására vonatkozó adatokat és a feltételek teljesítésének módját.
-
-(3) Az (1) bekezdésben megjelölt szakmai képzés megszervezéséhez szükséges, a programkövetelmények szerinti tárgyi feltételek teljesítése esetén az Országos Rendőr-főkapitányság hatósági hatáskörben eljárva kiállítja az igazolást.
-
-10/A. § (1) Az e §-ban foglaltakat
-
-a) a büntetés-végrehajtási egészségügyi főfelügyelő szakképesítésre,
-
-b) a büntetés-végrehajtási felügyelő szakképesítésre,
-
-c) a büntetés-végrehajtási főfelügyelő szakképesítésre,
-
-d) a büntetés-végrehajtási gazdálkodási főfelügyelő szakképesítésre,
-
-e) a büntetés-végrehajtási igazgatási főfelügyelő szakképesítésre,
-
-f) a büntetés-végrehajtási szervező szakképesítésre
-
-felkészítő szakmai képzés megszervezéséhez – amennyiben a programkövetelmény tartalmazza a tárgyi feltételek meglétének igazolására vonatkozó követelményt – szükséges igazolás kiállítására kell alkalmazni.
-
-(2) Az igazolás kiállítására irányuló kérelmet a Büntetés-végrehajtás Országos Parancsnokságánál kell előterjeszteni. A kérelemben tételesen be kell mutatni a programkövetelményben meghatározott tárgyi feltételek rendelkezésre állására vonatkozó adatokat és a feltételek teljesítésének módját.
-
-(3) Az (1) bekezdésben megjelölt szakmai képzés megszervezéséhez szükséges, a programkövetelmények szerinti tárgyi feltételek teljesítése esetén a Büntetés-végrehajtás Országos Parancsnoksága hatósági hatáskörben eljárva kiállítja az igazolást.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
