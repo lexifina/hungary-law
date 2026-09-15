@@ -810,6 +810,34 @@ Háziasított szarvasmarha élelmezési célra alkalmas húsa, vágási mellékt
 
 0206 29-ből
 
+|
+
+61.
+
+|
+
+Tűzifa hasáb, tuskó, rőzse, köteg vagy hasonló formában
+
+|
+
+4401 11
+
+4401 12
+
+|
+
+62.
+
+|
+
+Fűtési célú fűrészpor és fahulladék és -maradék, pellet, brikett vagy hasonló alakra tömörítve
+
+|
+
+4401 31
+
+4401 39
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |
