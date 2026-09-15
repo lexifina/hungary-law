@@ -166,7 +166,7 @@
 
 ## 50W2 sor: a befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni. Megegyezik az 50A3 sorban szereplő kóddal.
 
-## 2. 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
+## 2.[^8] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
 
 ## A tábla kitöltése
 
@@ -178,7 +178,7 @@
 
 ## Minden egyes sorozat kizárólag egy besorolás alatt szerepelhet, és egy befektetési alap minden sorozatát ugyanazon besorolás alatt kell feltüntetni.
 
-## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A.,1/K., illetve 1/L. §-ában nevesített alapot, tehát az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, az olyan alapot, amely befektetési politikája szerint legalább 80%-os mértékben Magyarországon kívül kibocsátott, valamint forgalmazott eszközbe fektet be. illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A.,1/K., illetve 1/L. §-ában nevesített alapot, tehát az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, az olyan alapot, amely befektetési politikája szerint legalább 80%-os mértékben Magyarországon kívül kibocsátott, valamint forgalmazott eszközbe fektet be, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
 
 ## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika” kódtár alapján, a 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika kódtára a 78/2014. (III. 14.) Korm. rendelet szerint” kell elvégezni.
 
@@ -190,7 +190,7 @@
 
 ## c) a befektetési alapokba fektető alap besorolását a mögöttes termék kategóriájának megfelelően kell figyelembe venni.
 
-## A tábla oszlopai:
+## A tábla oszlopai
 
 ## 1. oszlop: az alapkezelő által kezelt egyes portfóliók neve, a tábla sorainak megfelelő bontásban.
 
@@ -210,15 +210,15 @@
 
 ## 7. oszlop: az I–III. negyedév tekintetében az alapkezelési és portfóliókezelési díjaknak az alapkezelőnél bevételként elszámolt tárgynegyedévi összege. A IV. negyedév tekintetében az alapkezelési és portfóliókezelési díjaknak az alapkezelőnél bevételként elszámolt tárgynegyedévi összege és a sikerdíjaknak az alapkezelőnél bevételként elszámolt adott évre vonatkozó összege.
 
-## 8. oszlop: a) az I–III. negyedév tekintetében az adott negyedévben a kezelt alapra terhelt költségek. A kezelési szabályzat vonatkozó részében rögzítettek szerint kiszámolt és a befektetési alapra terhelt költségeket kell jelenteni. A sikerdíj kivételével minden olyan költséget figyelembe kell venni, ami számvitelileg az alapot terheli, tehát az elszámolt és az elhatárolt költségeket is jelenteni kell, és az is közömbös, hogy az elnevezésben díj, vagy költség szerepel. Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak). Az alapra terhelt költségeket is sorozatonként kell jelenteni. Azokat a költségeket, amelyek a befektetési alap szintjén jelentkeznek és nem rendelhetők hozzá egyértelműen egy sorozathoz, becslés alkalmazásával (pl. a piaci értékek arányában) kell szétosztani a sorozatok között. b) A IV. negyedév tekintetében az adott negyedévben az a) alpont szerint a kezelt alapra terhelt költségek, kiegészítve a sikerdíjaknak az alapra költségként elszámolt, adott évre vonatkozó összegével.
+## 8. oszlop: a) az I–III. negyedév tekintetében az adott negyedévben a kezelt alapra terhelt költségek. A kezelési szabályzat vonatkozó részében rögzítettek szerint kiszámolt és a befektetési alapra terhelt költségeket kell jelenteni. A sikerdíj kivételével minden olyan költséget figyelembe kell venni, ami számvitelileg az alapot terheli, tehát az elszámolt és az elhatárolt költségeket is jelenteni kell, és az is közömbös, hogy az elnevezésben díj vagy költség szerepel. Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak). Az alapra terhelt költségeket is sorozatonként kell jelenteni. Azokat a költségeket, amelyek a befektetési alap szintjén jelentkeznek, és nem rendelhetők hozzá egyértelműen egy sorozathoz, becslés alkalmazásával (pl. a piaci értékek arányában) kell szétosztani a sorozatok között. b) A IV. negyedév tekintetében az adott negyedévben az a) alpont szerint a kezelt alapra terhelt költségek, kiegészítve a sikerdíjaknak az alapra költségként elszámolt, adott évre vonatkozó összegével.
 
 ## A meghatározás alapján a 7. és 8. oszlopban is felsorolt költségeket mindkét oszlopban szerepeltetni szükséges.
 
 ## 9. oszlop: kódtár („Működési forma”) szerint.
 
-## 10. oszlop: befektetési alap esetén az MNB által adott, a KELER Zrt. rendelkezésére bocsátott technikai törzsszám (FB azonosító). Egyéb portfolió kód csak abban az esetben használható, ha a befektetési alapnak nincs FB kódja.
+## 10. oszlop: befektetési alap esetén az MNB által adott, a KELER Zrt. rendelkezésére bocsátott technikai törzsszám (FB azonosító). Egyéb portfólió kód csak abban az esetben használható, ha a befektetési alapnak nincs FB kódja.
 
-## 11. oszlop: kódtár („Elsődleges eszközkategória”) szerint. A befektetési alap minden sorozatának azonos elsődleges eszközkategórába kell tartoznia. A besorolást a 78/2014. (III. 14.) Korm. rendelet 1/B. § (1) bekezdésében szereplő kategóriák szerint kell elvégezni. Ebben a táblában az értékpapíralapok közé kell besorolni a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 1–9. pontjában meghatározott befektetési alapokon kívül a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 12. pontjában meghatározott származtatott alapot, valamint az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot is.
+## 11. oszlop: kódtár („Elsődleges eszközkategória”) szerint. A befektetési alap minden sorozatának azonos elsődleges eszközkategóriába kell tartoznia. A besorolást a 78/2014. (III. 14.) Korm. rendelet 1/B. § (1) bekezdésében szereplő kategóriák szerint kell elvégezni. Ebben a táblában az értékpapíralapok közé kell besorolni a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 1–9. pontjában meghatározott befektetési alapokon kívül a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 12. pontjában meghatározott származtatott alapot, valamint az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot is.
 
 ## 12. oszlop: kódtár („Alap fajtája”) szerint.
 
@@ -228,13 +228,15 @@
 
 ## 15. oszlop: kódtár („Befektetési alap harmonizációja”) szerint. A Kbftv. 67. § (1) bekezdése az irányadó.
 
-## A tábla sorai:
+## 16. oszlop: Amennyiben a befektetési alap a tárgyidőszak utolsó napján a Kbftv. 4. § (1) bekezdés 50b. pontja szerint kölcsönnyújtó ABA, az „igen”, minden más esetben a „nem” válasz szerepeltetése szükséges.
 
-## 50C51 sor: Halmozódástól tisztított összesen I. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) – (a pénztári, biztosítói, egyéb portfóliókban lévő saját befektetési alapok befektetési jegyei)
+## A tábla sorai
 
-## 50C511 sor: Halmozódástól tisztított összesen II. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) – (az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő saját befektetési alapok befektetési jegyei)
+## 50C51 sor: Halmozódástól tisztított összesen I. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók)–(a pénztári, biztosítói, egyéb portfóliókban lévő saját befektetési alapok befektetési jegyei)
 
-## 50C5111 sor: Halmozódástól tisztított összesen III. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) – (az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő hazai befektetési alapok befektetési jegyei)
+## 50C511 sor: Halmozódástól tisztított összesen II. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók)–(az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő saját befektetési alapok befektetési jegyei)
+
+## 50C5111 sor: Halmozódástól tisztított összesen III. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók)–(az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő hazai befektetési alapok befektetési jegyei)
 
 ## 3. 50GA Fogyasztói panaszügyekre vonatkozó adatok I. és 50GB Fogyasztói panaszügyekre vonatkozó adatok II.
 
@@ -714,6 +716,26 @@
 
 ## Az 50U10 kezdetű sorok az intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat tartalmazzák. Az ügyfél általi adatmódosítás fogalmába beletartoznak a tranzakciós adatmódosítások (például befektetés, az ügyfél általi vételi/eladási megbízás) is.
 
+## 13a.[^9] 50N Nyújtott kölcsönök időszak végén fennálló állománya
+
+## A tábla oszlopai
+
+## 6. oszlop: Szavazati hányad: a kölcsönt nyújtó ABA tárgynegyedév végi szavazati hányada a kölcsönt kapó jogi személyben. A szavazati hányad a tulajdonosi vagy hitelezői befolyás mértéke, amely megmutatja, hogy az adott befektetési alap mekkora szavazati aránnyal rendelkezik a jogi személy döntéshozó szervében. Ez az arány határozza meg a jogi személy feletti irányítás vagy a stratégiai döntések befolyásolásának jogát. Az adatot százalékban kifejezve, két tizedesjegy pontossággal szükséges megadni százalékjel nélkül (pl. 1/4 vagy 25%-os arány esetén 25,00).
+
+## 8. oszlop: Kölcsön összege: a kölcsönszerződés keretében – a részfolyósításokat is figyelembe véve – a tárgynegyedév végéig folyósított kölcsön összesen.
+
+## 9. oszlop: Kamatozás: fix kamatozás esetén a kamat százalékban kifejezett értéke, két tizedesjegy pontossággal; változó kamatozás esetén a kamat számításának rövid leírása (pl. BUBOR + 5.00%).
+
+## 10. oszlop: Törlesztés ütemezése: a törlesztés ütemezésének rövid leírása (pl. félévente egyszer, lejáratkor egy összegben).
+
+## 11. oszlop: Törlesztés összege: a tárgynegyedév végéig összesen – a korábbi negyedéveket is figyelembe véve – mennyit törlesztettek a kölcsönből. A ténylegesen kifizetett értéket kell jelenteni.
+
+## 12. oszlop: Értékvesztés: az adott kölcsönön elszámolt értékvesztés értéke a tárgynegyedév végén.
+
+## 13. oszlop: Tőkekövetelés: a tárgynegyedév végén még fennálló tőkekövetelés értéke, amely a kamat tőkésítését is tartalmazza adott esetben.
+
+## Ha az adatszolgáltató a tárgynegyedévben egy kölcsönt leírt, azaz azt a számviteli nyilvántartásból kivezette, akkor azt a tőkekövetelés oszlopban nulla értékkel szerepeltetni kell.
+
 ## 14. 50_SFDR – Intézményszintű SFDR adatok
 
 ## A tábla kitöltése
@@ -854,13 +876,13 @@
 
 ## 51Q4 Befektetési politika, illetve a változtatás engedélyének határozatszáma: nyilvános befektetési alap esetén a befektetési politika felügyeleti engedélyének határozatszáma.
 
-## 19. 51R Határon átnyúló alapkezelő által kezelt hazai alap adatai
+## 19.[^10] 51R Határon átnyúló alapkezelő által kezelt hazai alap adatai
 
 ## A tábla sorai
 
-## 51R02 A befektetési alap azonosítására használt ISIN-kód: azonos az 50A kódú tábla 50A3 sorában jelentett ISIN-kóddal.
+## 51R02 A befektetési alap azonosítására használt ISIN kód: azonos az 50A kódú tábla 50A3 sorában jelentett ISIN kóddal.
 
-## 51R03: Befektetési alap esetén az MNB által adott, a KELER Zrt. rendelkezésére bocsátott technikai törzsszám (FB azonosító). Egyéb portfolió kód csak abban az esetben használható, ha a befektetési alapnak nincs FB kódja.
+## 51R03: Befektetési alap esetén az MNB által adott, a KELER Zrt. rendelkezésére bocsátott technikai törzsszám (FB azonosító). Egyéb portfólió kód csak abban az esetben használható, ha a befektetési alapnak nincs FB kódja.
 
 ## 51R04 A befektetési alap harmonizációjának típusa: kódtár („Befektetési alap harmonizációja”) szerint.
 
@@ -874,13 +896,13 @@
 
 ## 51R4 A befektetési alap futamideje: kódtár („Alap futamideje”) szerint.
 
-## 51R5 A befektetési alap befektetési politikája: kódtár [a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alap esetén „Befektetési politika”, a 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó alap esetén „Befektetési politika kódtára 78/2014. (III. 14.) Korm. rendelet szerint”] szerint azzal, hogy a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A., 1/K., illetve 1/L. §-ában nevesített alapot, tehát az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, az olyan alapot, amely befektetési politikája szerint legalább 80%-os mértékben Magyarországon kívül kibocsátott, valamint forgalmazott eszközbe fektet be, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
+## 51R5 A befektetési alap befektetési politikája: kódtár [a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alap esetén „Befektetési politika”, a 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó alap esetén „Befektetési politika kódtára 78/2014. (III. 14.) Korm. rendelet szerint”] szerint, azzal, hogy a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A., 1/K., illetve 1/L. §-ában nevesített alapot, tehát az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, az olyan alapot, amely befektetési politikája szerint legalább 80%-os mértékben Magyarországon kívül kibocsátott, valamint forgalmazott eszközbe fektet be, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
 
 ## 51R62 Az alapkezelő LEI-kódja. Ha az alapkezelő nem rendelkezik LEI-kóddal, akkor a KSH-törzsszáma.
 
-## Az 51R6301–51R6399 sorkódú ismétlő blokkok a befektetési jegy sorozatonkénti adatait tartalmazzák. A befektetési alap minden sorozatát szükséges feltüntetni, így az eszközzel nem rendelkező sorozatokat is. Az 51R6301 kezdetű blokkot minden befektetési alap esetében ki kell tölteni, akkor is, ha nincs külön sorozat. Ha több sorozat van, akkor azokat a költségeket, díjakat, amelyek a befektetési alap szintjén jelentkeztek, becsléssel (pl. a rendelkezésre álló legutolsó piaci értékek arányában) kell szétosztani a sorozatok között.
+## Az 51R701–51R799 sorkódú ismétlő blokkok a befektetési jegy sorozatonkénti adatait tartalmazzák. A befektetési alap minden sorozatát szükséges feltüntetni, így az eszközzel nem rendelkező sorozatokat is. Az 51R701 kezdetű blokkot minden befektetési alap esetében ki kell tölteni, akkor is, ha nincs külön sorozat. Ha több sorozat van, akkor azokat a költségeket, díjakat, amelyek a befektetési alap szintjén jelentkeztek, becsléssel (pl. a rendelkezésre álló legutolsó piaci értékek arányában) kell szétosztani a sorozatok között.
 
-## A „A befektetési alap forgalmazási köre” sorokat kódtár („Forgalmazási kör”) szerint kell tölteni. Ha a befektetési alap jegyeit lakossági befektetők is vásárolhatják, akkor azt alapesetben a lakossági befektetőknek forgalmazott befektetési alapok közé kell besorolni. Ha azonban biztosan lehet tudni, hogy csak szakmai befektetők vásárolják a befektetési alap befektetési jegyeit, akkor az alapot a „szakmai befektetőknek forgalmazott” befektetési alapként kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
+## Az „A befektetési alap forgalmazási köre” sorokat kódtár („Forgalmazási kör”) szerint kell tölteni. Ha a befektetési alap jegyeit lakossági befektetők is vásárolhatják, akkor azt alapesetben a lakossági befektetőknek forgalmazott befektetési alapok közé kell besorolni. Ha azonban biztosan lehet tudni, hogy csak szakmai befektetők vásárolják a befektetési alap befektetési jegyeit, akkor az alapot a „szakmai befektetőknek forgalmazott” befektetési alapként kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
 
 ## A „Piaci érték” a tárgynegyedév utolsó napjára – utolsó forgalmazási nap – a sorozat kiszámított értéke – nettó eszközérték –, forintban kifejezve. A nem forintban denominált befektetési alapok esetében a nettó eszközértéket a tárgynegyedév fordulónapján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani. Ha a tárgynegyedév során egy sorozat vagyonkezelési mandátuma megszűnik, vagy egy alap megszűnik, akkor a nettó eszközérték oszlopba 0 értéket kell írni, mert a tárgynegyedév utolsó napjára vonatkozik ez az oszlop. A tábla többi oszlopát, amelyek nem egy időpontra, hanem egy időszakra vonatkoznak, értelemszerűen kell tölteni.
 
@@ -890,9 +912,29 @@
 
 ## A „Befektetés kezelésre fizetett díjköltség” az I–III. negyedév tekintetében az alapkezelési díjaknak, az alapkezelőnél bevételként a sorozatra elszámolt tárgynegyedévi összege. A IV. negyedév tekintetében az alapkezelési díjaknak az alapkezelőnél bevételként a sorozatra elszámolt tárgynegyedévi összege és a sikerdíjaknak az alapkezelőnél a sorozatra bevételként elszámolt adott évre vonatkozó összege.
 
-## A „Sorozatra terhelt egyéb költségek” az I–III. negyedév tekintetében az adott tárgynegyedévben a kezelt sorozatra terhelt költségek. A kezelési szabályzat vonatkozó részében rögzítettek szerint kiszámolt és a befektetési alap sorozatára terhelt költségeket kell jelenteni. A sikerdíj kivételével minden olyan költséget figyelembe kell venni, ami számvitelileg a sorozatot terheli, tehát az elszámolt és az elhatárolt költségeket is jelenteni kell, és az is közömbös, hogy az elnevezésben díj, vagy költség szerepel. Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak). Azokat a költségeket, amelyek a befektetési alap szintjén jelentkeznek és nem rendelhetők hozzá egyértelműen egy sorozathoz, becslés alkalmazásával (pl. a piaci értékek arányában) kell szétosztani a sorozatok között. A IV. negyedév tekintetében az adott negyedévben az I–III. negyedév tekintetében a kezelt sorozatra terhelt költségek, kiegészítve a sikerdíjaknak a sorozat költségként elszámolt, adott évre vonatkozó összegével.
+## A „Sorozatra terhelt egyéb költségek” az I–III. negyedév tekintetében az adott tárgynegyedévben a kezelt sorozatra terhelt költségek. A kezelési szabályzat vonatkozó részében rögzítettek szerint kiszámolt és a befektetési alap sorozatára terhelt költségeket kell jelenteni. A sikerdíj kivételével minden olyan költséget figyelembe kell venni, ami számvitelileg a sorozatot terheli, tehát az elszámolt és az elhatárolt költségeket is jelenteni kell, és az is közömbös, hogy az elnevezésben díj vagy költség szerepel. Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak). Azokat a költségeket, amelyek a befektetési alap szintjén jelentkeznek, és nem rendelhetők hozzá egyértelműen egy sorozathoz, becslés alkalmazásával (pl. a piaci értékek arányában) kell szétosztani a sorozatok között. A IV. negyedév tekintetében az adott negyedévben az I–III. negyedév tekintetében a kezelt sorozatra terhelt költségek, kiegészítve a sikerdíjaknak a sorozat költségként elszámolt, adott évre vonatkozó összegével.
 
 ## A „Befektetéskezelésre fizetett” és „Sorozatra terhelt egyéb költségek” sor meghatározásában egyaránt felsorolt költségeket mindkét sorban szerepeltetni szükséges.
+
+## 51R8 Amennyiben a befektetési alap a Kbftv. 4. § (1) bekezdés 50b. pontja szerint kölcsönnyújtó ABA, az „igen”, minden más esetben a „nem” válasz szerepeltetése szükséges.
+
+## Az 51R800001–51R899911 sorkódú ismétlő blokk csak abban az esetben töltendő ki, ha az ABA kölcsönt nyújtott.
+
+## Szavazati hányad: a kölcsönt nyújtó ABA tárgynegyedév végi szavazati hányada a kölcsönt kapó jogi személyben. A szavazati hányad a tulajdonosi vagy hitelezői befolyás mértéke, amely megmutatja, hogy az adott befektetési alap mekkora szavazati aránnyal rendelkezik a jogi személy döntéshozó szervében. Ez az arány határozza meg a jogi személy feletti irányítás vagy a stratégiai döntések befolyásolásának jogát. Az adatot százalékban kifejezve, két tizedesjegy pontossággal szükséges megadni (pl. 1/4 vagy 25%-os arány esetén 25,00).
+
+## Kölcsön összege: a kölcsönszerződés keretében – a részfolyósításokat is figyelembe véve – a tárgynegyedév végéig folyósított kölcsön összesen.
+
+## Kamatozás: fix kamatozás esetén a kamat százalékban kifejezett értéke, két tizedesjegy pontossággal; változó kamatozás esetén a kamat számításának rövid leírása (pl. BUBOR + 5.00%).
+
+## Törlesztés ütemezése: a törlesztés ütemezésének rövid leírása (pl. félévente egyszer, lejáratkor egy összegben).
+
+## Törlesztés összege: a tárgynegyedév végéig összesen – a korábbi negyedéveket is figyelembe véve – mennyit törlesztettek a kölcsönből. A ténylegesen kifizetett értéket kell jelenteni.
+
+## Értékvesztés: az adott kölcsönön elszámolt értékvesztés értéke a tárgynegyedév végén.
+
+## Tőkekövetelés: a tárgynegyedév végén még fennálló tőkekövetelés értéke, amely a kamat tőkésítését is tartalmazza adott esetben.
+
+## Ha az adatszolgáltató a tárgynegyedévben egy kölcsönt leírt, azaz a számviteli nyilvántartásból kivezette, akkor azt a tőkekövetelés oszlopban nulla értékkel szerepeltetni kell.
 
 ## 20. 59NF Nyilatkozat a Kbftv. 1. § a) pontjában meghatározott, az MNB felügyelete alóli mentesüléshez szükséges feltételekről
 
@@ -1045,3 +1087,7 @@
 ## A felügyeleti jelentést az ERA rendszer ZPTN termékbejelentő szolgáltatása felületén elérhető űrlapon szükséges teljesíteni, a jelentendő adatok tartalmára az ott elérhető kitöltési információ nyújtanak útmutatást.
 
 6. melléklet a 44/2025. (XII. 4.) MNB rendelethez
+
+[^8]: Az 5. melléklet II. pont 2. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.
+[^9]: Az 5. melléklet II. pont 13a. alpontját a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontja iktatta be.
+[^10]: Az 5. melléklet II. pont 19. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.

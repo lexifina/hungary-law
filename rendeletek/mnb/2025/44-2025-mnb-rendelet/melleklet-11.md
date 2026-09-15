@@ -297,27 +297,3 @@ A tábla egyes oszlopai
 13. oszlop: az adott ajánlat típusa, az aktuális művelet elvégzése után. Kódtár („Ajánlat típusok kódtára”) szerint töltendő ki.
 
 14. oszlop: annak megjelölése, hogy az adott ajánlati műveletet közvetlen elektronikus hozzáférésen keresztül nyújtották-e be. Kódtár („True/False kódtár”) szerint töltendő ki.
-
-15. oszlop: azt kell megadni, hogy az ajánlatot a kockázatokat objektíven mérhető módon csökkentő ügylet megkötése céljából nyújtották-e be. Kódtár („True/False kódtár”) szerint.
-
-17. oszlop: az ajánlatnak a többi piaci szereplő számára aktuálisan látható mennyisége.
-
-18. oszlop: az ajánlat teljes rejtett mennyisége, vagy az ajánlat részteljesülése után a fennmaradó rejtett mennyiség.
-
-19. oszlop: kódtár („Ajánlat iránya kódtár”) szerint.
-
-21. oszlop: azt kell megadni, hogy az ajánlat meddig érvényes, éééé.hh.nn óó:pp:mm formátumban (például GoodForDay ajánlat esetén azt a napot kell megadni, amikor az adott ajánlat bármely egyéb művelet nélkül is kikerül a könyvből).
-
-22. oszlop: az ajánlattal végzett előző művelet dátuma és időpontja, éééé.hh.nn óó:pp:mm formátumban.
-
-23. oszlop: kódtár („Részletes művelettípusok kódtára”) szerint.
-
-24. oszlop: új ajánlat benyújtásának, már meglévő ajánlat módosulásának, valamint törlésének megjelölése. Kódtár („Művelettípusok kódtára”) szerint.
-
-25. oszlop: kódtár („Firm/Witheld kódtár”) szerint.
-
-26. oszlop: a tőzsdetag kereskedői felhasználóneve, amellyel a kereskedési rendszerbe belépett az adott ajánlati műveletet megelőző ajánlati művelet elvégzéséhez.
-
-27. oszlop: tagi vállalkozáson belül a megelőző befektetési döntésért felelős személy vagy algoritmus azonosítója. Az (EU) 2017/590 felhatalmazáson alapuló bizottsági rendelet I. melléklet 2. táblázat 57. mezőjében foglaltak szerint töltendő ki.
-
-29. oszlop: kódtár („Ajánlat típusok kódtára”) szerint.

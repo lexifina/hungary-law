@@ -1,4 +1,4 @@
-## 5X09363D.pdf
+## 6X04530M.pdf
 
 5. melléklet a 44/2025. (XII. 4.) MNB rendelethez
 

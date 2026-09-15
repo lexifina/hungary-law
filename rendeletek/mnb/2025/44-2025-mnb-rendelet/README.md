@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-44-20-2
 | --- | --- | --- |
 | 2026-01-01 | 2025-44-20-2C.1 | 44/2025. (XII. 4.) MNB rendelet |
 | 2026-01-02 | 2025-44-20-2C.2 | 2010. évi CXXX. törvény |
+| 2026-09-15 | 2025-44-20-2C.3 | 33/2026. (IX. 14.) MNB rendelet |
