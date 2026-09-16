@@ -1,0 +1,1 @@
+3. § Az R. 3. számú melléklet Eü70 35. pont „TÁMOGATOTT INDIKÁCIÓK” megjelölésű részében a „sinus ritmusban 300 pikomol/l és pitvarfibrillációban 900 pikomol/l felett” szövegrész helyébe a „sinus ritmusban 300 pg/ml és pitvarfibrillációban 900 pg/ml felett” szöveg lép.
