@@ -76,3 +76,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2026-01-01 | 2004-32-20-0M.93 | 53/2006. (XII. 28.) EüM rendelet |
 | 2026-02-27 | 2004-32-20-0M.94 | 3/2026. (II. 26.) BM rendelet |
 | 2026-05-01 | 2004-32-20-0M.95 | 53/2006. (XII. 28.) EüM rendelet |
+| 2026-09-16 | 2004-32-20-0M.96 | 53/2006. (XII. 28.) EüM rendelet |
