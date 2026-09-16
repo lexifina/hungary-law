@@ -1,1 +1,3 @@
-4. § A Rendelet 11. § (1) bekezdésében a „(3)” szövegrész helyébe a „(3) és (3a)” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
