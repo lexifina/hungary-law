@@ -4,6 +4,6 @@
 
 ## a következőket rendelem el:
 
-1. § A törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: R.) a következő 26/B. §-sal egészül ki:
+1. §[^2]
 
-„26/B. § E rendeletnek a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 5/2026. (IX. 15.) EüM rendelettel (a továbbiakban: MódR.4.) módosított 2. és 3. számú mellékletében foglaltakat 2026. október 1-jétől kell alkalmazni. A MódR.4. hatálybalépését megelőző napon hatályos 2. és 3. számú mellékletben foglaltakat 2026. szeptember 30-ig kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
