@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet 2022. március 1-jén lép hatályba.
 
-1. melléklet a 9/2022. (I. 28.) SZTFH rendelethez[^5]
+1. melléklet a 9/2022. (I. 28.) SZTFH rendelethez[^6]
 
 1. A bányászati jog gyakorlásával és egyéb, az ügyfél kérelmére indított eljárásokkal kapcsolatos díjak
 
@@ -8,9 +8,11 @@
 
 | 1. | Egyes igazgatási eljárások | Díj (Ft) | Kódszám |
 
-| 2. | Ásványi nyersanyag, geotermikus energia, valamint szénhidrogének tárolására alkalmas földtani szerkezetek kutatása | Szilárd ásványi nyersanyagra, geotermikus energiára vonatkozó kutatás engedélyezése, kutatási engedély átruházása, előkutatás bejelentése | 25 000 | A0111 |
+| 2. | Ásványi nyersanyag, geotermikus energia, valamint földgáz, hidrogén tárolására alkalmas földtani szerkezetek kutatása | Szilárd ásványi nyersanyagra, geotermikus energiára vonatkozó kutatás engedélyezése, kutatási engedély módosítása, kutatási engedély átruházása, előkutatás bejelentése | 25 000 | A0111 |
 
-| 3. | Kőolajra és földgázra vonatkozó kutatás engedélyezése, kutatási engedély átruházása | 50 000 | A0112 |
+| 3. | Kőolajra és földgázra vonatkozó kutatás engedélyezése, kutatási engedély módosítása, kutatási engedély átruházása | 50 000 | A0112 |
+
+| 3a. | Földgáz, hidrogén tárolására alkalmas földtani szerkezetekre vonatkozó kutatás engedélyezése, a kutatási engedély módosítása | 50 000 | A0113 |
 
 | 4. | Kutatási műszaki üzemi terv jóváhagyása | 50 000 | A0120 |
 
@@ -36,9 +38,9 @@
 
 | 15. | Bányatelek megállapítása, módosítása, megosztása, illetve törlése fúrólyukas kitermelés esetén | 130 000 | A0240 |
 
-| 16. | Bányatelek megállapítása, módosítása, megosztása, illetve törlése földalatti gáztároló esetén | 100 000 | A0250 |
+| 16. | Bányatelek megállapítása, módosítása, törlése földgáz, illetve hidrogén tárolása esetén; bányatelek földgáz, illetve hidrogén tárolására történő kiterjesztése | 100 000 | A0250 |
 
-| 17. | Geotermikus védőidom kijelölése | 149 000 | A0260 |
+| 17. | Geotermikus védőidom kijelölése, módosítása | 149 000 | A0260 |
 
 | 18. | Bányászati jog más ásványi nyersanyagra történő kiterjesztése | a 12:C–16:C mező szerinti díjtétel 50%-a | A0270 |
 
@@ -94,7 +96,7 @@
 
 | 44. | Bezárás, megszüntetés elfogadása | 112 000 | A0830 |
 
-| 45. | Propán-butángáz forgalmazók működésének engedélyezése |  | 80 000 | A0900 |
+| 45. | Propán-butángáz forgalmazók működésének engedélyezése, az engedély módosítása |  | 80 000 | A0900 |
 
 | 46. | Egyes gázipari engedélyes műszaki-biztonsági szempontú előzetes, illetve végleges minősítése |  | 74 000 | A1000 |
 
@@ -154,9 +156,21 @@
 
 | 73. | Bezárás engedélyezése | 152 000 | A1760 |
 
-| 74. |  |  |  |  |
+| 74. | Geotermikus energia kinyerésére és hasznosítására vonatkozó hasznosítási szerződés megkötése |  | 160 000 | A1810 |
 
-| 75. |  |  |  |
+| 75. | Használaton kívüli bányászati célú mélyfúrással kapcsolatos eljárások – mélyfúrásonként | Használaton kívüli bányászati célú mélyfúrás kockázatelemzésének elfogadása | 110 000 | A1910 |
+
+| 76. | Használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyása | 110 000 | A1920 |
+
+| 77. | Használaton kívüli bányászati célú mélyfúrás bányászati célra való alkalmatlanságának a megállapítása | 110 000 | A1930 |
+
+| 78. | Az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet végrehajtásához kapcsolódó bányafelügyeleti eljárások | Szivárgásészlelés javítási és nyomon követési ütemterv és ütemterv módosítás jóváhagyása – 20 db szivárgásonként | 200 000 | A2010 |
+
+| 79. | A lefúvatásra és a fáklyázásra vonatkozó korlátozásoknak való megfelelés érdekében benyújtott végrehajtási ütemterv jóváhagyása | 170 000 | A2020 |
+
+| 80. | A rendszeres ellenőrzések alternatívájaként távellenőrzési vagy automatizált nyomon követési rendszerek jóváhagyása | 160 000 | A2030 |
+
+| 81. | Inaktív kutak és az ideiglenesen lezárt kutak kármentesítésére, helyreállítására és végleges lezárására vonatkozó kibocsátás-csökkentési terv jóváhagyása | 190 000 | A2040 |
 
 2. A bányafelügyelet hatáskörébe tartozó hatósági engedélyezési eljárások
 
@@ -260,4 +274,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^5]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a, a 16/2024. (IX. 19.) SZTFH rendelet 17. § (1) bekezdése, a 19/2024. (XII. 30.) SZTFH rendelet 1. § a) pontja szerint szerint módosított szöveg.
+[^6]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a, a 22/2023. (XI. 21.) SZTFH rendelet 1. §-a, a 16/2024. (IX. 19.) SZTFH rendelet 17. § (1) bekezdése, a 19/2024. (XII. 30.) SZTFH rendelet 1. § a) pontja, a 8/2026. (VIII. 17.) SZTFH rendelet 19. §-a és 20. § b)–f) pontja szerint szerint módosított szöveg.
