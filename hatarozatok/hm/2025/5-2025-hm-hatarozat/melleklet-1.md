@@ -306,6 +306,8 @@
 
 | 100.[^25] | ADAPTIVE INTERACTION | többnemzeti CIMIC gyakorlat | Olaszország | IV. | 10 |  |  |
 
+| 101.[^26] | VI CANINE TACTICS AND SKILLS | kutyás/kronológiai | Spanyolország | III–IV. | 3 |  |  |
+
 3. További gyakorlatokkal és kiképzésekkel kapcsolatos áthaladások
 
 |  | A tevékenység megnevezése | A feladat tervezett időpontja (negyedév) | Külföldi fegyveres erő létszáma (egyidejűleg legfeljebb, főben meghatározva) |
@@ -355,3 +357,4 @@
 [^23]: Az 1. melléklet 2. pontjában foglalt táblázat 98. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
 [^24]: Az 1. melléklet 2. pontjában foglalt táblázat 99. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
 [^25]: Az 1. melléklet 2. pontjában foglalt táblázat 100. sorát a 3/2026. (VI. 12.) HM határozat iktatta be.
+[^26]: Az 1. melléklet 2. pontjában foglalt táblázat 101. sorát az 5/2026. (IX. 18.) HM határozat iktatta be.
