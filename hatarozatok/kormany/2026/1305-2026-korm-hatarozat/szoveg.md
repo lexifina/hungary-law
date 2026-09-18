@@ -1,0 +1,1 @@
+A Kormány egyetért a bevett egyház és belső egyházi jogi személye számára, az általa fenntartott köznevelési, szakképző intézményre tekintettel, az energiaár-növekedésből, továbbá a víz- és a csatornadíjak nagykereskedelmi árának emelkedéséből adódó többletkiadások kompenzációjaként a 2026. évben egyszeri kiegészítő támogatás biztosításával.
