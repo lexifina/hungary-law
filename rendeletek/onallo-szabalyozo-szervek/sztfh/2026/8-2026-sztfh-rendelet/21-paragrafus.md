@@ -1,1 +1,3 @@
-21. § Hatályát veszti a 9/2022. (I. 28.) SZTFH rendelet 3. melléklete.
+21. §[^21]
+
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

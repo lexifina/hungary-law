@@ -1,1 +1,3 @@
-19. § A 9/2022. (I. 28.) SZTFH rendelet 1. melléklete az 1. melléklet szerint módosul.
+19. §[^19]
+
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
