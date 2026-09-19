@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-95-20-2
 | 2022-07-01 | 2019-95-20-22.3 | 238/2022. (VII. 30.) Korm. rendelet |
 | 2024-07-30 | 2019-95-20-22.4 | 200/2024. (VII. 29.) Korm. rendelet |
 | 2025-02-08 | 2019-95-20-22.5 | 9/2025. (II. 7.) Korm. rendelet |
+| 2026-09-19 | 2019-95-20-22.6 | 154/2026. (IX. 18.) Korm. rendelet |
