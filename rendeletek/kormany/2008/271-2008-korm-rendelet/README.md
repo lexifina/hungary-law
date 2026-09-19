@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-271-20-
 | 2022-07-01 | 2008-271-20-22.11 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-07-01 | 2008-271-20-22.12 | 258/2023. (VI. 28.) Korm. rendelet |
 | 2024-10-23 | 2008-271-20-22.13 | 300/2024. (X. 22.) Korm. rendelet |
+| 2026-09-19 | 2008-271-20-22.14 | 149/2026. (IX. 18.) Korm. rendelet |
