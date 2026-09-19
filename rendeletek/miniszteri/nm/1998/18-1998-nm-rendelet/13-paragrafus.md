@@ -1,44 +1,44 @@
 ## A védőoltással kapcsolatos jelentések
 
-13. § (1)[^62] A területi védőnő az ellátási területére vonatkozóan havonta jelenti a járási hivatalnak az esedékességet követő hónap 5. napjáig a folyamatos oltási rend szerint végzett oltásokat, továbbá az oltásnak az esedékessége hónapját követő 2 hónapot meghaladó elmaradását, valamint az oltásra kötelezett gondozottak el- és beköltözését a név, születési idő, lakcímváltozás feltüntetésével. Az oltásokról a havonkénti jelentést a védőnő az ellátási területéhez tartozó gondozottak egészségügyi dokumentációja, továbbá az oltóorvos, illetve a járási hivatal által megküldött oltási értesítő alapján készíti el.
+13. § (1)[^63] A területi védőnő az ellátási területére vonatkozóan havonta jelenti a járási hivatalnak az esedékességet követő hónap 5. napjáig a folyamatos oltási rend szerint végzett oltásokat, továbbá az oltásnak az esedékessége hónapját követő 2 hónapot meghaladó elmaradását, valamint az oltásra kötelezett gondozottak el- és beköltözését a név, születési idő, lakcímváltozás feltüntetésével. Az oltásokról a havonkénti jelentést a védőnő az ellátási területéhez tartozó gondozottak egészségügyi dokumentációja, továbbá az oltóorvos, illetve a járási hivatal által megküldött oltási értesítő alapján készíti el.
 
-(2)[^63] Az iskolai kampányoltásokról szóló jelentést az oltásra kijelölt időszakot követő hónap 15. napjáig az iskola-egészségügyi feladatokat ellátó védőnő küldi meg a járási hivatalnak.
+(2)[^64] Az iskolai kampányoltásokról szóló jelentést az oltásra kijelölt időszakot követő hónap 15. napjáig az iskola-egészségügyi feladatokat ellátó védőnő küldi meg a járási hivatalnak.
 
-(3)[^64] Ha a gyermek oltását nem a területileg illetékes háziorvos vagy házi gyermekorvos végzi, az elvégzett oltásokra vonatkozó adatokat az oltóorvos az oltás beadásának napján írásban vagy elektronikus úton köteles jelenteni a járási hivatalnak.
+(3)[^65] Ha a gyermek oltását nem a területileg illetékes háziorvos vagy házi gyermekorvos végzi, az elvégzett oltásokra vonatkozó adatokat az oltóorvos az oltás beadásának napján írásban vagy elektronikus úton köteles jelenteni a járási hivatalnak.
 
-(4)[^65] A járási hivatal
+(4)[^66] A járási hivatal
 
-a)[^66] az oltott gyermek adatait elektronikus úton haladéktalanul rögzíti az elektronikus járványügyi felügyeleti rendszerbe, és ezzel egyidejűleg az oltási értesítő adatait továbbítja a gyermek lakóhelye szerint illetékes védőnői szolgálathoz,
+a)[^67] az oltott gyermek adatait elektronikus úton haladéktalanul rögzíti az elektronikus járványügyi felügyeleti rendszerbe, és ezzel egyidejűleg az oltási értesítő adatait továbbítja a gyermek lakóhelye szerint illetékes védőnői szolgálathoz,
 
 b) a folyamatos oltási rend szerint végzett oltások adatait havonta, a jelentés hónapját követő hónap 15. napjáig rögzíti az elektronikus járványügyi felügyeleti rendszerbe,
 
 c) az 5. § (5) és (7) bekezdése szerinti kampányoltások adatait az oltás befejezését követő hónap 25. napjáig rögzíti az elektronikus járványügyi felügyeleti rendszerbe.
 
-(5)[^67] A védőoltásokra vonatkozó adatok a kormányhivatal, az országos tisztifőorvos számára a közös adatbázison keresztül elérhetők.
+(5)[^68] A védőoltásokra vonatkozó adatok a kormányhivatal, az országos tisztifőorvos számára a közös adatbázison keresztül elérhetők.
 
-(6)[^68]
+(6)[^69]
 
-(7)[^69] A védőoltást követő nemkívánatos eseményeket, beleértve az oltási reakciókat (mellékhatásokat) és oltási baleseteket
+(7)[^70] A védőoltást követő nemkívánatos eseményeket, beleértve az oltási reakciókat (mellékhatásokat) és oltási baleseteket
 
-a)[^70] az oltó-, illetve észlelő orvos a járási hivatalnak és egyidejűleg a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK),
+a)[^71] az oltó-, illetve észlelő orvos a járási hivatalnak és egyidejűleg a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK),
 
-b)[^71] a járási hivatal a kormányhivatalnak,
+b)[^72] a járási hivatal a kormányhivatalnak,
 
-c)[^72] a kormányhivatal az országos tisztifőorvosnak
+c)[^73] a kormányhivatal az országos tisztifőorvosnak
 
 haladéktalanul jelenti.
 
-(8)[^73] A kormányhivatal a (7) bekezdés szerinti esetet kivizsgálja, és annak eredményéről az országos tisztifőorvost tájékoztatja.
+(8)[^74] A kormányhivatal a (7) bekezdés szerinti esetet kivizsgálja, és annak eredményéről az országos tisztifőorvost tájékoztatja.
 
-[^62]: A 13. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és f) pontja szerint módosított szöveg.
-[^63]: A 13. § (2) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
-[^64]: A 13. § (3) bekezdése a 30/2009. (X. 14.) EüM rendelet 3. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
-[^65]: A 13. § (4) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^66]: A 13. § (4) bekezdés a) pontja az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^67]: A 13. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 9. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^68]: A 13. § (6) bekezdését a 61/1999. (XII. 1.) EüM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
-[^69]: A 13. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^70]: A 13. § (7) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
-[^71]: A 13. § (7) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és i) pontja szerint módosított szöveg.
-[^72]: A 13. § (7) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 10. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^73]: A 13. § (8) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 11. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^63]: A 13. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és f) pontja szerint módosított szöveg.
+[^64]: A 13. § (2) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
+[^65]: A 13. § (3) bekezdése a 30/2009. (X. 14.) EüM rendelet 3. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
+[^66]: A 13. § (4) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^67]: A 13. § (4) bekezdés a) pontja az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^68]: A 13. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 9. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^69]: A 13. § (6) bekezdését a 61/1999. (XII. 1.) EüM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^70]: A 13. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^71]: A 13. § (7) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^72]: A 13. § (7) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és i) pontja szerint módosított szöveg.
+[^73]: A 13. § (7) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 10. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 13. § (8) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 11. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.

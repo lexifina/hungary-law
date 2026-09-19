@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^216]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^217]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6724,10 +6724,4 @@ Laboratóriumi kritérium
 
 A megerősített eset laboratóriumi feltétele
 
-- a vírus izolálása sejttenyészetben bármely klinikai mintából és a SARS koronavírus azonosítása pl. RT-PCR módszerrel,
-
-- SARS koronavírus nukleinsav kimutatása az alábbi háromból legalább egyben:
-
-- legalább két különböző klinikai minta (pl. nasopharingeális tamponminta és széklet),
-
-[^216]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^217]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.

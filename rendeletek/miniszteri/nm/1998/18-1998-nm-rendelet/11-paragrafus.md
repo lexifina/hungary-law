@@ -2,9 +2,9 @@
 
 ## Védőoltások alóli mentesítések
 
-11. § (1)[^58] A védőoltások ellenjavallatait az országos tisztifőorvos által évente kiadott VML tartalmazza.
+11. § (1)[^59] A védőoltások ellenjavallatait az országos tisztifőorvos által évente kiadott VML tartalmazza.
 
-(2)[^59] A védőoltás alóli mentesítést igazoló orvosi szakvéleményt – végleges mentesítés esetén a járási hivatal jóváhagyását is – dokumentálni kell az oltókör és az oltásra kötelezett személy oltási nyilvántartásában.
+(2)[^60] A védőoltás alóli mentesítést igazoló orvosi szakvéleményt – végleges mentesítés esetén a járási hivatal jóváhagyását is – dokumentálni kell az oltókör és az oltásra kötelezett személy oltási nyilvántartásában.
 
-[^58]: A 11. § (1) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^59]: A 11. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^59]: A 11. § (1) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^60]: A 11. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
