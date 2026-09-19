@@ -1,0 +1,1 @@
+3. § A Mádl Ferenc Összehasonlító Jogi Intézet létrehozásáról szóló 95/2019. (IV. 25.) Korm. rendelet 2. § (2) bekezdésében az „elnökhelyettesek segítik” szövegrész helyébe az „egy vagy több elnökhelyettes segíti” szöveg lép.
