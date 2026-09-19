@@ -1,0 +1,3 @@
+6. § (1) A dízeltámogatással összefüggő ügyféltájékoztatási tevékenység ellátása az állami- adó és vámhatóság feladata.
+
+(2) Ha a dízeltámogatás postai kézbesítésére azért nem került sor, mert a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet 25. § (1) bekezdés a), b), e) vagy f) pontja alapján a kézbesítés sikertelen, akkor a dízeltámogatásra jogosult az állami adó- és vámhatósághoz 2026. október 15. és 2026. november 15. között új kézbesítési címet jelenthet be.
