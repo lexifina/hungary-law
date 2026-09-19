@@ -1,4 +1,4 @@
-18/D. §[^170] (1) A miniszter a TVI honlapján közzéteszi
+18/D. §[^183] (1)[^184] A miniszter az Európai Bizottság támogatásátláthatósági moduljában (a továbbiakban: TAM) közzéteszi
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatait, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma
 
@@ -10,29 +10,23 @@ ac) egyéb esetben pedig meghaladja a százezer eurónak
 
 megfelelő forintösszeget,
 
-b) a 702/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat a közösségi adószám, továbbá az adószám vagy az adóazonosító jel kivételével, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja
+b) az (EU) 2022/2472 bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat a közösségi adószám, továbbá az adószám vagy az adóazonosító jel kivételével, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja
 
-ba) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett esetén a hatvanezer eurónak,
+ba) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett esetén a tízezer eurónak,
 
-bb) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén a 702/2014/EU bizottság rendelet esetében az ötszázezer eurónak
-
-megfelelő forintösszeget,
-
-c) az (EU) 2022/2472 bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat a közösségi adószám, továbbá az adószám vagy az adóazonosító jel kivételével, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja
-
-ca) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett esetén a tízezer eurónak,
-
-cb) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén a százezer eurónak
+bb) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén a százezer eurónak
 
 megfelelő forintösszeget,
 
-d) az (EU) 2022/2473 bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja a tízezer eurónak megfelelő forintösszeget,
+c) az (EU) 2022/2473 bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja a tízezer eurónak megfelelő forintösszeget,
+
+d) az (EU) 2026/562 bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja a százezer eurónak megfelelő forintösszeget,
 
 e) az Európai Bizottság állami támogatási tárgyú határozata szerinti adatokat,
 
 f) azokat az adatokat, amelyre a közzétételi kötelezettség hatálya kiterjed.
 
-(2) Az (1) bekezdés a)–d) pontja szerinti esetben a 6. melléklet 5. pontja vonatkozásában a miniszter azt teszi közzé a TVI honlapján, hogy
+(2)[^185] Az (1) bekezdés a)–d) pontja szerinti esetben a 6. melléklet 5. pontja vonatkozásában a miniszter azt teszi közzé a TAM-ban, hogy
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó adókedvezményt, a 651/2014/EU bizottsági rendelet 16., 21a. és 22. cikke szerinti támogatást tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
 
@@ -52,11 +46,7 @@ ag) a tízmillió eurót meghaladó, de harmincmillió eurót meg nem haladó va
 
 ah) a harmincmillió eurót meghaladó,
 
-b) a 702/2014/EU bizottsági rendelet hatálya alá tartozó adókedvezményt tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
-
-ba) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett esetén a hatvanezer eurót elérő, de ötszázezer eurót meg nem haladó,
-
-bb) az elsődleges mezőgazdasági termeléssel, a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén az a) pont ac)–ah) alpontjában meghatározott,
+b)[^186]
 
 c) az (EU) 2022/2472 bizottsági rendelet hatálya alá tartozó adókedvezményt tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
 
@@ -76,6 +66,24 @@ dd) a hatszázezer eurót meghaladó, de a nyolcszázezer eurót meg nem haladó
 
 de) a nyolcszázezer eurót meghaladó, de az egymillió eurót meg nem haladó
 
+e)[^187] az (EU) 2026/562 bizottsági rendelet hatálya alá tartozó adókedvezményt tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
+
+ea) a százezer eurót elérő, de ötszázezer eurót meg nem haladó,
+
+eb) az ötszázezer eurót elérő, de egymillió eurót meg nem haladó,
+
+ec) az egymillió eurót meghaladó, de kétmillió eurót meg nem haladó,
+
+ed) a kétmillió eurót meghaladó, de ötmillió eurót meg nem haladó,
+
+ee) az ötmillió eurót meghaladó, de tízmillió eurót meg nem haladó,
+
+ef) a tízmillió eurót meghaladó, de húszmillió eurót meg nem haladó,
+
+eg) a húszmillió eurót meghaladó, de az ötvenmillió eurót meg nem haladó vagy
+
+eh) az ötvenmillió eurót meghaladó
+
 összegű kategóriába esik.
 
 (3) Az (1) és (2) bekezdés szerinti adatokat a miniszter
@@ -88,4 +96,8 @@ teszi közzé.
 
 (4) A miniszter az éves jelentést – a 2012/21/EU bizottsági határozat hatálya alá tartozó támogatási intézkedés esetén kétévente készített jelenést – az állami támogatási tárgyú szabályban, vagy az Európai Bizottság határozatában meghatározott határidőn belül továbbítja az Európai Bizottságnak.
 
-[^170]: A 18/D. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^183]: A 18/D. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^184]: A 18/D. § (1) bekezdése a 156/2026. (IX. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^185]: A 18/D. § (2) bekezdés nyitó szövegrésze a 156/2026. (IX. 18.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^186]: A 18/D. § (2) bekezdés b) pontját a 156/2026. (IX. 18.) Korm. rendelet 11. § g) pontja hatályon kívül helyezte.
+[^187]: A 18/D. § (2) bekezdés e) pontját a 156/2026. (IX. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.

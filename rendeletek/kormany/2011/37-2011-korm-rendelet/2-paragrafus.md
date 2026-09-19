@@ -24,7 +24,7 @@ f) az (EU) 2023/2832 bizottsági rendelet 3. cikke
 
 2.[^7] ad hoc támogatás: támogatási programon kívül nyújtott támogatás,
 
-2a.[^8] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet és az (EU) 2022/2473 bizottsági rendelet,
+2a.[^8] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet, az (EU) 2022/2473 bizottsági rendelet és az (EU) 2026/562 bizottsági rendelet,
 
 3. diszkont kamatláb: a különböző években folyósított állami támogatások, illetve a több év alatt megvalósított projektek felmerült költségei jelenértékének kiszámításához használt kamatláb, amely egyenlő a referencia alapkamatláb 100 bázisponttal növelt értékével,
 
@@ -46,7 +46,7 @@ b) az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű sz
 
 6a.[^13] erdészeti támogatás: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott célok teljesítése érdekében végzett tevékenységekhez nyújtott állami támogatás,
 
-6b.[^14] értékelési terv: a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés a) pontja, a 702/2014/EU bizottsági rendelet 1. cikk (4) bekezdés a) pontja, az (EU) 2022/2472 bizottsági rendelet 1. cikk (3) bekezdés a) pontja, az (EU) 2022/2473 bizottsági rendelet 1. cikk (7) bekezdés a) pontja vagy az Európai Bizottság támogatási intézkedést jóváhagyó állami támogatási tárgyú határozata alapján, az Európai Bizottság által közzétett vonatkozó módszertannak megfelelően elkészített dokumentum,
+6b.[^14] értékelési terv: a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés a) pontja, az (EU) 2022/2472 bizottsági rendelet 1. cikk (3) bekezdés a) pontja, az (EU) 2022/2473 bizottsági rendelet 1. cikk (7) bekezdés a) pontja vagy az Európai Bizottság támogatási intézkedést jóváhagyó állami támogatási tárgyú határozata alapján, az Európai Bizottság által közzétett vonatkozó módszertannak megfelelően elkészített dokumentum,
 
 6c.[^15] halászati állami támogatás: a halászati és akvakultúra-termékek piacának közös szervezéséről szóló, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet (HL L 354., 2013.12.28., 1. o.) (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) I. mellékletében felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos tevékenységekre nyújtott állami támogatás,
 
@@ -60,11 +60,11 @@ b) az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű sz
 
 9.[^19] kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerinti vállalkozás,
 
-9a.[^20] kötelező adatszolgáltatás: a Támogatásokat Vizsgáló Iroda (a továbbiakban: TVI) honlapján (tvi.kormany.hu) elérhető dokumentumminta vagy elektronikus formanyomtatvány útján a miniszter részére történő adatszolgáltatás,
+9a.[^20] kötelező adatszolgáltatás: a TVI honlapján (tvi.kormany.hu) elérhető dokumentumminta vagy formanyomtatvány útján a miniszter részére az uniós állami támogatási szabályok által előírt elektronikus formában és adattartalommal történő adatszolgáltatás,
 
 9b.[^21]
 
-9c.[^22] közzétételi kötelezettség: a 651/2014/EU bizottsági rendelet 9. cikk (1) bekezdés c) pontja, a 702/2014/EU bizottsági rendelet 9. cikk (2) bekezdés c) pontja, az (EU) 2022/2472 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2022/2473 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, valamint az Európai Bizottság állami támogatási tárgyú határozata vagy más uniós állami támogatási szabály szerinti közzétételi kötelezettség,
+9c.[^22] közzétételi kötelezettség: a 651/2014/EU bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2022/2472 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2022/2473 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2026/562 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, valamint az Európai Bizottság állami támogatási tárgyú határozata vagy más uniós állami támogatási szabály szerinti közzétételi kötelezettség,
 
 9d.[^23] közzétételi kötelezettség hatálya alá tartozó támogatás: a közzétételi kötelezettség hatálya alá tartozó ad hoc támogatás vagy támogatási program keretében egyedi kedvezményezetteknek odaítélt támogatás,
 
@@ -108,11 +108,11 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 
 11. pályázat: a támogatási program végrehajtása érdekében megjelentetett pályázati felhívás, pályázati útmutató vagy pályázati kiírás a támogatási programban való részvételre,
 
-12.[^37] prenotifikáció: a támogatási tervezet hivatalos bejelentését megelőző kapcsolatfelvétel az Európai Bizottsággal, a formanyomtatványok, a 794/2004/EK bizottsági rendelet 2. cikkében előírt szükséges kiegészítő adatlapok és a vonatkozó bizottsági határozatokra való hivatkozás benyújtása a SANI rendszeren keresztül,
+12.[^37] prenotifikáció: a támogatási tervezet hivatalos bejelentését megelőző kapcsolatfelvétel az Európai Bizottsággal, a formanyomtatványok, a 794/2004/EK bizottsági rendelet 2. cikkében előírt szükséges kiegészítő adatlapok és a vonatkozó bizottsági határozatokra való hivatkozás benyújtása az elektronikus bejelentő rendszeren keresztül,
 
 13. referencia alapkamatláb: az Európai Bizottság által az egyéves bankközi kínálati kamatláb alapján meghatározott mérték, amely az egyéni referencia kamatláb, a diszkont kamatláb és a visszafizettetési kamatláb számításának alapja,
 
-14.[^38] SANI rendszer: a Támogatásokat Vizsgáló Iroda honlapján közzétett honlapon, a miniszter által biztosított bejelentkezési névvel és jelszóval elérhető, a támogatást nyújtó által kitöltendő, az Európai Bizottság felé benyújtandó elektronikus, webalapú formanyomtatványokból álló rendszerek a támogatási tervezetekről, támogatási intézkedésekről,
+14.[^38] elektronikus bejelentő rendszer: az Európai Bizottság által üzemeltetett, a TVI honlapján közzétett honlapon, a miniszter által biztosított bejelentkezési névvel és jelszóval elérhető, a támogatást nyújtó által kitöltendő, az Európai Bizottság felé benyújtandó elektronikus, webalapú formanyomtatványokból álló rendszerek a támogatási tervezetekről, támogatási intézkedésekről,
 
 15. támogatási intenzitás: a támogatástartalom és az elszámolható költségek jelenértékének hányadosa, százalékos formában kifejezve,
 
@@ -140,21 +140,21 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^5]: A 2. § 1a. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 347/2025. (XI. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^6]: A 2. § 1b. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 2. § 2. pontját a 38/2016. (III. 3.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 177/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^8]: A 2. § 2a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (2) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^8]: A 2. § 2a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (2) bekezdése iktatta be, szövege a 156/2026. (IX. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § 4. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^10]: A 2. § 5a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (3) bekezdése iktatta be, szövege a 82/2024. (IV. 11.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^11]: A 2. § 5b. pontját a 38/2016. (III. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 2. § 5c. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^13]: A 2. § 6a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (4) bekezdése iktatta be.
-[^14]: A 2. § 6b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (4) bekezdése iktatta be, szövege a 165/2018. (IX. 11.) Korm. rendelet 1. §-ával megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
+[^14]: A 2. § 6b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (4) bekezdése iktatta be, szövege a 165/2018. (IX. 11.) Korm. rendelet 1. §-ával megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 2. pontja, a 156/2026. (IX. 18.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^15]: A 2. § 6c. pontját a 38/2016. (III. 3.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 165/2018. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^16]: A 2. § 6d. pontját a 165/2018. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A 2. § 6e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, a 347/2025. (XI. 4.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^18]: A 2. § 7. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^19]: A 2. § 9. pontja a 158/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 554. § b) pontja szerint módosított szöveg.
-[^20]: A 2. § 9a. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 639/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A 2. § 9a. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 156/2026. (IX. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^21]: A 2. § 9b. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
-[^22]: A 2. § 9c. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 365/2023. (VIII. 3.) Korm. rendelet 7. § 3. pontja, a 639/2023. (XII. 28.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
+[^22]: A 2. § 9c. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 156/2026. (IX. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^23]: A 2. § 9d. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^24]: A 2. § 9e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^25]: A 2. § 9f. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
@@ -169,8 +169,8 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^34]: A 2. § 10g. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^35]: A 2. § 10h. pontját a 347/2025. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
 [^36]: A 2. § 10i. pontját a 347/2025. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
-[^37]: A 2. § 12. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 7. pontja szerint módosított szöveg.
-[^38]: A 2. § 14. pontja az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés d) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 221/2014. (IX. 4.) Korm. rendelet 554. § a) pontja, a 177/2016. (VII. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^37]: A 2. § 12. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 7. pontja, a 156/2026. (IX. 18.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^38]: A 2. § 14. pontja a 156/2026. (IX. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^39]: A 2. § 16. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 8. pontja szerint módosított szöveg.
 [^40]: A 2. § 19a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be.
 [^41]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.

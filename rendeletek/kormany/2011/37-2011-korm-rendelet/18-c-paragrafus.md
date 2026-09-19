@@ -1,4 +1,4 @@
-18/C. §[^169] (1) A támogatást nyújtó a 18/A. § (1) bekezdés c) pontja, (2) bekezdés c) pontja, (3) bekezdés c) pontja és (4) bekezdés c) pontja szerinti közzétételi kötelezettség teljesítése érdekében köteles
+18/C. §[^179] (1)[^180] A támogatást nyújtó a 18/A. § (1) bekezdés c) pontja, (3) bekezdés c) pontja, (4) bekezdés c) pontja és (4a) bekezdés c) pontja szerinti közzétételi kötelezettség teljesítése érdekében köteles
 
 a) megküldeni a miniszter részére a 18/D. § (1) bekezdése szerinti adatokat minden év
 
@@ -26,16 +26,11 @@ b) az európai területi együttműködési projekt tekintetében az 1299/2013/E
 
 (6) Az (5) bekezdés b) pontja szerinti esetben a támogatást nyújtó a közzétételi kötelezettséget az együttműködésben részes tagállamok által hozott valamennyi támogatási döntés tekintetében teljesíti.
 
-(7) Ha a 702/2014/EU bizottsági rendelet hatálya alá tartozó ad hoc támogatás vagy támogatási program keretében egyes kedvezményezetteknek odaítélt támogatás
+(7)[^181]
 
-a) az 1305/2013/EU parlamenti és tanácsi rendelet hatálya alá is tartozik,
+(8)[^182] A csoportmentességi rendeletek hatálya alá tartozó, adózó által érvényesített kedvezmény formájában megvalósuló támogatási programok tekintetében az állami adó- és vámhatóság a 18/A. § (1)–(4a) bekezdésében említett közzétételi kötelezettség teljesítése érdekében az adózás rendjéről szóló törvény 132. §-a szerinti tartalommal és határidőben szolgáltat adatot a miniszternek.
 
-b) az EMVA-ból társfinanszírozott, vagy azt az ilyen társfinanszírozott intézkedéshez kiegészítő nemzeti finanszírozásként nyújtják, és
-
-c) kedvezményezettje adatainak közzététele az 1306/2013/EU európai parlamenti és tanácsi rendelet 111–113. cikke szerint már megtörtént,
-
-a támogatást nyújtó az adott támogatás vonatkozásában fennálló, 18/A. § (2) bekezdés c) pontja szerinti közzétételi kötelezettséget úgy is teljesítheti, hogy az (1) bekezdés szerinti adatszolgáltatáskor e bekezdés c) pontja szerinti közzététel helye szerinti weboldalt jelöli meg.
-
-(8) A 651/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet és az (EU) 2022/2473 bizottsági rendelet hatálya alá tartozó, adózó által érvényesített kedvezmény formájában megvalósuló támogatási programok tekintetében az állami adó- és vámhatóság a 18/A. § (1)–(4) bekezdésében említett közzétételi kötelezettség teljesítése érdekében az adózás rendjéről szóló törvény 132. §-a szerinti tartalommal és határidőben szolgáltat adatot a miniszternek.
-
-[^169]: A 18/C. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^179]: A 18/C. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^180]: A 18/C. § (1) bekezdés nyitó szövegrésze a 156/2026. (IX. 18.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^181]: A 18/C. § (7) bekezdését a 156/2026. (IX. 18.) Korm. rendelet 11. § f) pontja hatályon kívül helyezte.
+[^182]: A 18/C. § (8) bekezdése a 156/2026. (IX. 18.) Korm. rendelet 10. § f) és h) pontja szerint módosított szöveg.
