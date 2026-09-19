@@ -48,7 +48,7 @@ f) a szociális igazgatásról és szociális ellátásokról szóló törvény,
 
 g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat, valamint a szakképzésről szóló törvény szerinti, nem nappali rendszerben folyó ingyenes képzés finanszírozása céljából az állami szakképző intézmény, vagy szakképzési centrum részére nyújtott támogatásokat,
 
-h) a jogszabály alapján nyújtott családtámogatásokat, Otthontámogatást, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat,
+h) a jogszabály alapján nyújtott családtámogatásokat, Otthontámogatást, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat, üzemanyag-áremelkedésre tekintettel külön jogszabály alapján nyújtott támogatást,
 
 i) a helyi önkormányzatok általános működésének és ágazati feladatainak támogatásait,
 
