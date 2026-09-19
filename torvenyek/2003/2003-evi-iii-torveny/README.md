@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-3-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2003-3-00-00.20 |
 | 2026-02-21 | 2025. évi CXXVIII. törvény | 2003-3-00-00.21 |
 | 2026-07-13 | 2026. évi XXVIII. törvény | 2003-3-00-00.22 |
+| 2026-09-19 | 2026. évi LI. törvény | 2003-3-00-00.23 |

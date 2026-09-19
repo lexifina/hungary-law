@@ -20,7 +20,7 @@ c) két – a b) pontban meghatározott feltételeknek megfelelő – történé
 
 javaslatot. A c) pont szerint javasolt – a b) pont szerinti feltételeknek megfelelő – tagokat a Kormány köteles kinevezni.
 
-(1c) A Bizottság (1b) bekezdés a) pontja szerinti elnöke és tagja díjazásban nem részesül és költségtérítésre nem jogosult. A Bizottság (1b) bekezdés b) és c) pontja szerinti tagja – a kultúráért felelős miniszter által rendeletben meghatározott mértékű – díjazásra és – a Bizottságban végzett munkájához kapcsolódó utazási költségek és egyéb szükségletei fedezésére, a kultúráért felelős miniszter által rendeletben meghatározott mértékben és módon – költségtérítésre jogosult.
+(1c) A Bizottság elnöke és tagja – a Bizottságban végzett munkájához kapcsolódó utazási költségek és egyéb szükségletei fedezésére, a kultúráért felelős miniszter által rendeletben meghatározott mértékben és módon – költségtérítésre jogosult.
 
 (1d) A Bizottság tagja a feladatai ellátásához szükséges minősített adatokat – a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) rendelkezései szerint – személyi biztonsági tanúsítvány birtokában, titoktartási nyilatkozat kitöltését követően ismerheti meg, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
 
