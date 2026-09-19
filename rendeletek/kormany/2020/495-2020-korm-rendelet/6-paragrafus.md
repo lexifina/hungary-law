@@ -28,6 +28,8 @@
 
 (14)[^26] E rendeletnek az egyes koncessziós tárgyú Korm. rendeletek módosításáról szóló 279/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Mód. rendelet 4.) megállapított 1. melléklet 4. és 5. pontját a Mód. rendelet 4. hatálybalépésekor[^27] már előkészítés alatt álló vagy egyébként folyamatban lévő koncessziós pályázati kiírások (koncessziós beszerzési eljárások) tekintetében is alkalmazni kell.
 
+(15)[^28] E rendeletnek az egyes koncesszióköteles tevékenységek tekintetében az illetékes ágazati miniszteri feladatok ellátásáról szóló 495/2020. (XI. 11.) Korm. rendelet módosításáról szóló 155/2026. (IX. 18.) Korm. rendelettel megállapított 1. §-át alkalmazni kell a Mód. rendelet 4. hatálybalépését[^29] követően megkötött, e rendelet 1. melléklet 1., 2., 4. és 5. pontja szerinti tevékenységre vonatkozó koncessziós szerződések tekintetében.
+
 [^5]: A 6. § (3) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2020. december 18.
 [^7]: A 6. § (4) bekezdését az 594/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
@@ -51,3 +53,5 @@
 [^25]: A hatálybalépés időpontja 2021. február 24.
 [^26]: A 6. § (14) bekezdését a 279/2021. (V. 26.) Korm. rendelet 6. §-a iktatta be.
 [^27]: A hatálybalépés időpontja 2021. május 27.
+[^28]: A 6. § (15) bekezdését a 155/2026. (IX. 18.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A hatálybalépés időpontja 2026. szeptember 19.
