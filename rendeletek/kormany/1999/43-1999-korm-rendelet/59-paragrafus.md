@@ -1,13 +1,13 @@
-59. §[^571] (1)[^572] Azon egészségügyi szolgáltató, amelynek a székhelyén vagy a telephelyén 2012. június 30-ával a szakmai minimumfeltételek szerinti sürgősségi ellátáshoz szükséges aktív fekvőbeteg-szakellátó tevékenysége vagy szakmája, szakmái megszűntek, de a megszűnő szakmájában, szakmáiban a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez, és a biztosítottak számára folyamatosan rendelkezésre áll az erre vonatkozó végleges működési engedély szerint, az R.-ben meghatározott fix összegű díjra jogosult a megállapított TVK-ján felül, feltéve, hogy a szolgáltató a székhely vagy az adott telephely szerinti településen lévő másik telephelyén vagy székhelyén sem végez a megszűnő szakmában, szakmáiban aktív fekvőbeteg-szakellátó tevékenységet.
+59. §[^574] (1)[^575] Azon egészségügyi szolgáltató, amelynek a székhelyén vagy a telephelyén 2012. június 30-ával a szakmai minimumfeltételek szerinti sürgősségi ellátáshoz szükséges aktív fekvőbeteg-szakellátó tevékenysége vagy szakmája, szakmái megszűntek, de a megszűnő szakmájában, szakmáiban a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez, és a biztosítottak számára folyamatosan rendelkezésre áll az erre vonatkozó végleges működési engedély szerint, az R.-ben meghatározott fix összegű díjra jogosult a megállapított TVK-ján felül, feltéve, hogy a szolgáltató a székhely vagy az adott telephely szerinti településen lévő másik telephelyén vagy székhelyén sem végez a megszűnő szakmában, szakmáiban aktív fekvőbeteg-szakellátó tevékenységet.
 
-(1a)[^573] Az (1) bekezdés szerinti fix összegű díjazás fedezetére az 5. számú melléklet szerinti Összevont szakellátás jogcím előirányzata szolgál.
+(1a)[^576] Az (1) bekezdés szerinti fix összegű díjazás fedezetére az 5. számú melléklet szerinti Összevont szakellátás jogcím előirányzata szolgál.
 
-(1b)[^574] Abban az esetben, ha az egészségügyi szolgáltatónak az (1) bekezdésben foglaltak szerint a csecsemő- és gyermekgyógyászat szakmában szűnt meg az aktív fekvőbeteg-szakellátó tevékenysége, de ebben a szakmában a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez és a biztosítottak számára folyamatosan rendelkezésre áll, az (1) bekezdésben foglaltakat megfelelően alkalmazni kell, azzal, hogy az egészségügyi szolgáltató csak az egyik jogcímen jogosult díjazásra.
+(1b)[^577] Abban az esetben, ha az egészségügyi szolgáltatónak az (1) bekezdésben foglaltak szerint a csecsemő- és gyermekgyógyászat szakmában szűnt meg az aktív fekvőbeteg-szakellátó tevékenysége, de ebben a szakmában a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez és a biztosítottak számára folyamatosan rendelkezésre áll, az (1) bekezdésben foglaltakat megfelelően alkalmazni kell, azzal, hogy az egészségügyi szolgáltató csak az egyik jogcímen jogosult díjazásra.
 
-(2)[^575]
+(2)[^578]
 
-[^571]: Az 59. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.
-[^572]: Az 59. § (1) bekezdése a 288/2012. (X. 11.) Korm. rendelet 1. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 74. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^573]: Az 59. § (1a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (3) bekezdése iktatta be.
-[^574]: Az 59. § (1b) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
-[^575]: Az 59. § (2) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
+[^574]: Az 59. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.
+[^575]: Az 59. § (1) bekezdése a 288/2012. (X. 11.) Korm. rendelet 1. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 74. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^576]: Az 59. § (1a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^577]: Az 59. § (1b) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^578]: Az 59. § (2) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.

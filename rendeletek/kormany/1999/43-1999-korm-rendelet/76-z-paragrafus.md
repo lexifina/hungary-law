@@ -1,24 +1,24 @@
-## 76/Y. §[^631] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 7/2020. (I. 31.) Korm. rendelettel megállapított 23. § (13) és (14) bekezdés szerinti díjazásra az érintett egészségügyi szolgáltatók 2020. január hónaptól jogosultak.
+## 76/Y. §[^634] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 7/2020. (I. 31.) Korm. rendelettel megállapított 23. § (13) és (14) bekezdés szerinti díjazásra az érintett egészségügyi szolgáltatók 2020. január hónaptól jogosultak.
 
-76/Z. §[^632] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 154/2020. (IV. 27.) Korm. rendelettel megállapított 5/C. § (1) bekezdésében foglalt adatokat az EESZT működtetője először a 2020. április havi teljesítmények vonatkozásában küldi meg a finanszírozó számára legkésőbb 2020. május 8. napjáig.
+76/Z. §[^635] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 154/2020. (IV. 27.) Korm. rendelettel megállapított 5/C. § (1) bekezdésében foglalt adatokat az EESZT működtetője először a 2020. április havi teljesítmények vonatkozásában küldi meg a finanszírozó számára legkésőbb 2020. május 8. napjáig.
 
-(2)[^633] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 154/2020. (IV. 27.) Korm. rendelettel megállapított 5/C. § (2) és (3) bekezdésében foglaltakat a 2021. februári teljesítmények finanszírozásától kell alkalmazni.
+(2)[^636] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 154/2020. (IV. 27.) Korm. rendelettel megállapított 5/C. § (2) és (3) bekezdésében foglaltakat a 2021. februári teljesítmények finanszírozásától kell alkalmazni.
 
-(3)[^634] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 557/2020. (XII. 4.) Korm. rendelettel megállapított 28/E. § (1) és (3) bekezdése szerinti díjat a finanszírozó a 2020. évre vonatkozóan időarányosan 2020. december hónapban utalványozza.
+(3)[^637] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 557/2020. (XII. 4.) Korm. rendelettel megállapított 28/E. § (1) és (3) bekezdése szerinti díjat a finanszírozó a 2020. évre vonatkozóan időarányosan 2020. december hónapban utalványozza.
 
-(6)[^635] A 2021. évre vonatkozóan a tervezett éves aktív és krónikus fekvőbeteg-szakellátási, a járóbeteg-szakellátási és a molekuláris diagnosztikai (PCR) keretet a 2019. évi teljesítmények alapján kell meghatározni, amelynek mértéke nem lehet kevesebb az előző évben meghatározott keret mértékénél. E bekezdésben foglaltakat 2021. április 1. napjától kezdődően kell alkalmazni.
+(6)[^638] A 2021. évre vonatkozóan a tervezett éves aktív és krónikus fekvőbeteg-szakellátási, a járóbeteg-szakellátási és a molekuláris diagnosztikai (PCR) keretet a 2019. évi teljesítmények alapján kell meghatározni, amelynek mértéke nem lehet kevesebb az előző évben meghatározott keret mértékénél. E bekezdésben foglaltakat 2021. április 1. napjától kezdődően kell alkalmazni.
 
-(7)[^636] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 697/2020. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr.11.) megállapított 36. § (6) bekezdését a 2021. május 1. napján kezdődő ellátásoktól kell alkalmazni.
+(7)[^639] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 697/2020. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr.11.) megállapított 36. § (6) bekezdését a 2021. május 1. napján kezdődő ellátásoktól kell alkalmazni.
 
-(8)[^637] A Módr.11.-gyel megállapított 36. § (7) bekezdését a 2021. november 1. napján kezdődő ellátásoktól kell alkalmazni.
+(8)[^640] A Módr.11.-gyel megállapított 36. § (7) bekezdését a 2021. november 1. napján kezdődő ellátásoktól kell alkalmazni.
 
-(9)[^638] A 2022. évre vonatkozóan a tervezett éves aktív és krónikus fekvőbeteg-szakellátási, a járóbeteg-szakellátási, labordiagnosztikai, az önálló egynapos, az általános anesztéziában végzett egynapos fogászati és a molekuláris diagnosztikai (PCR) keretet a 2019. évi teljesítmények alapján kell meghatározni. E bekezdésben foglaltakat a 2022. januári kifizetésektől kell alkalmazni.
+(9)[^641] A 2022. évre vonatkozóan a tervezett éves aktív és krónikus fekvőbeteg-szakellátási, a járóbeteg-szakellátási, labordiagnosztikai, az önálló egynapos, az általános anesztéziában végzett egynapos fogászati és a molekuláris diagnosztikai (PCR) keretet a 2019. évi teljesítmények alapján kell meghatározni. E bekezdésben foglaltakat a 2022. januári kifizetésektől kell alkalmazni.
 
-[^631]: A 76/Y. §-t a 7/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
-[^632]: A 76/Z. §-t a 154/2020. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
-[^633]: A 76/Z. § (2) bekezdése az 557/2020. (XII. 4.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^634]: A 76/Z. § (3) bekezdését az 557/2020. (XII. 4.) Korm. rendelet 5. §-a iktatta be.
-[^635]: A 76/Z. § (6) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. V. 26.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^636]: A 76/Z. § (7) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
-[^637]: A 76/Z. § (8) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
-[^638]: A 76/Z. § (9) bekezdését a 757/2021. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^634]: A 76/Y. §-t a 7/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
+[^635]: A 76/Z. §-t a 154/2020. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
+[^636]: A 76/Z. § (2) bekezdése az 557/2020. (XII. 4.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^637]: A 76/Z. § (3) bekezdését az 557/2020. (XII. 4.) Korm. rendelet 5. §-a iktatta be.
+[^638]: A 76/Z. § (6) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. V. 26.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^639]: A 76/Z. § (7) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^640]: A 76/Z. § (8) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
+[^641]: A 76/Z. § (9) bekezdését a 757/2021. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
