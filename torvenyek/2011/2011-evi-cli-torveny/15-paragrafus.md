@@ -1,6 +1,6 @@
 15. § (1) Az Alkotmánybíróságban betöltött tagság megszűnik
 
-a)
+a) a hetvenedik életév betöltésével, valamint
 
 b) a megbízatási időtartam leteltével.
 

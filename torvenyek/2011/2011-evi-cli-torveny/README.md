@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-151-00-00
 | 2026-01-01 | 2025. évi CXI. törvény | 2011-151-00-00.22 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2011-151-00-00.25 |
 | 2026-08-26 | 2026. évi XVIII. törvény | 2011-151-00-00.24 |
+| 2026-09-19 | 2026. évi LII. törvény | 2011-151-00-00.26 |

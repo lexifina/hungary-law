@@ -2,7 +2,7 @@
 
 (2) Az Alkotmánybíróság teljes ülésén dönt
 
-a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban, a 35/A. §-ban és a 38. §-ban meghatározott eljárásban,
+a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban és a 38. §-ban meghatározott eljárásban,
 
 b) alaptörvény-ellenes vagy nemzetközi szerződésbe ütköző törvény megsemmisítéséről, valamint a tanács által érdemben vizsgált ügyben törvény megsemmisítéséről,
 
@@ -16,7 +16,7 @@ db) összeférhetetlenségének megállapításáról, valamint az összeférhet
 
 dc) megbízatás alóli felmentéséről, valamint kizárásáról az Alkotmánybíróság tagjai közül,
 
-e) az elnökhelyettes és a főtitkár megválasztásáról, valamint
+e) az elnök, az elnökhelyettes és a főtitkár megválasztásáról, valamint
 
 f) minden olyan ügyben, amelyben a teljes ülés döntését az ügy társadalmi vagy alkotmányjogi jelentősége, bonyolultsága, az alkotmányos joggyakorlat egységének megőrzése, illetve egyéb fontos ok indokolja.
 

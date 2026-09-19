@@ -8,8 +8,4 @@
 
 (4) Az Alkotmánybíróság a 33. §-ban és a 33/A. §-ban meghatározott hatáskörében az Országgyűlés határozatát helybenhagyja, vagy az Országgyűlés határozatának megsemmisítése mellett az Országgyűlést új határozat meghozatalára hívja fel.
 
-(5) Az Alkotmánybíróság a 35/A. §-ban meghatározott hatáskörében eljárva
-
-a) az Országgyűlés határozatát helybenhagyja, vagy
-
-b) megállapítja, hogy az Országgyűlés határozata alaptörvény-ellenes vagy nem felel meg a 35/A. § (2) bekezdésében foglaltaknak.
+(5)
