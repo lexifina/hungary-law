@@ -8,11 +8,11 @@ b)[^5] a kitüntetett személy özvegye vagy élettársa, de az a) pont szerinti
 
 (3)[^6] A járadék megállapításához és folyósításához szükséges adatokat
 
-a)[^7] a Kiváló és Érdemes Művész címben részesülő személyek esetében a nemzetpolitikáért felelős miniszter,
+a)[^7] a Kiváló és Érdemes Művész címben részesülő személyek esetében az általános politikai koordinációért felelős miniszter,
 
 b) a Népművészet Mestere díjban részesülő személyek esetén a kultúráért felelős miniszter
 
-## a cím, illetve a díj adományozását – e rendelet hatálybalépése előtt már Népművészet Mestere díjban részesült személyek esetén e rendelet hatálybalépését – követő 15 napon belül megküldi a járadékot nyugdíjfolyósító szerv részére. A kitüntető cím adományozását a nemzetpolitikáért felelős miniszter – a Népművészet Mestere cím esetében a kultúráért felelős miniszter – igazolja.
+## a cím, illetve a díj adományozását – e rendelet hatálybalépése előtt már Népművészet Mestere díjban részesült személyek esetén e rendelet hatálybalépését – követő 15 napon belül megküldi a járadékot nyugdíjfolyósító szerv részére. A kitüntető cím adományozását az általános politikai koordinációért felelős miniszter – a Népművészet Mestere cím esetében a kultúráért felelős miniszter – igazolja.
 
 (4)[^8] A járadék – az igényérvényesítésre vonatkozó rendelkezések figyelembevételével – attól a naptól állapítható meg, amely napon a jogosultsághoz szükséges feltételek bekövetkeztek. A járadékot a jogosultsági feltételek bármelyikének megszűnését követő hónap első napjától kell megszüntetni.
 
@@ -23,8 +23,8 @@ b) a Népművészet Mestere díjban részesülő személyek esetén a kultúrá�
 [^3]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 393–394. §-a, a 379/2016. (XII. 2.) Korm. rendelet 63. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 393. §-a, a 379/2016. (XII. 2.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 394. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 294. §-ával megállapított, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 63. § b) pontja, a 101/2018. (VI. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdés a) pontja a 101/2018. (VI. 11.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 294. §-ával megállapított, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 63. § b) pontja, a 150/2026. (IX. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdés a) pontja a 150/2026. (IX. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^8]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 394. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 392. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 63. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 63. § c) pontja szerint módosított szöveg.
