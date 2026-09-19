@@ -1,0 +1,1 @@
+2. § Az R. 1. §-ában a „megkötésére” szövegrész helyébe a „megkötésére, módosítására és megszüntetésére” szöveg, továbbá a „Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 7. pontja szerinti miniszter” szövegrész helyébe a „Kormány koncesszióért felelős tagja” szöveg lép.
