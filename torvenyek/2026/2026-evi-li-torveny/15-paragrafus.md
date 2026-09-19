@@ -1,1 +1,1 @@
-15. § A Levéltár az 5. § f) pontja szerinti egyéb feltáró tevékenysége keretében – az Infotv. 5. § (8) bekezdésére figyelemmel – a kezelésében álló iratokban szereplő további személyes adatot nyilvánosságra hozhat, ha az a Levéltárban kezelt iratokkal összefüggő történelmi eseményekről folytatott kutatások eredményeinek bemutatásához szükséges.
+### 15. §
