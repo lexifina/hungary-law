@@ -1,1 +1,3 @@
-9. § A 37/2011. (III. 22.) Korm. rendelet a 2. melléklet szerinti 5/D. melléklettel egészül ki.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,33 +1,43 @@
 10. § A 37/2011. (III. 22.) Korm. rendelet
 
-a) 1. § (3) bekezdésében az „Iroda” szövegrész helyébe az „Iroda (a továbbiakban: TVI)” szöveg,
+a)[^10]
 
-b) 2. § 12. pontjában, 8. § (2) bekezdés b) pontjában, 9. § (2) és (3) bekezdésében, 13. § (1) bekezdésében, 14. § (2) bekezdés c) pontjában, 14. § (3) és (5) bekezdésében, 15. § (2) bekezdésében, valamint 16/A. § (2) bekezdésében az „a SANI” szövegrész helyébe az „az elektronikus bejelentő” szöveg,
+b)[^11]
 
-c) 13. § (2) bekezdés e) pontjában a „SANI” szövegrész helyébe az „elektronikus bejelentő” szöveg,
+c)[^12]
 
-d) 16/A. § (1a) bekezdésében a „19.15. pontja” szövegrész helyébe a „19.16. pontja” szöveg,
+d)[^13]
 
-e) 18/A. § (9) bekezdésében a „jelentéstételi” szövegrész helyébe az „éves jelentéstételi” szöveg,
+e)[^14]
 
-f) 18/B. § (5) bekezdés a) pontjában, valamint 18/C. § (8) bekezdésében az „(1)–(4)” szövegrész helyébe az „(1)–(4a)” szöveg,
+f)[^15]
 
-g) 18/C. § (1) bekezdésében a „(2) bekezdés c) pontja, (3) bekezdés c) pontja és (4) bekezdés c) pontja” szövegrész helyébe a „(3) bekezdés c) pontja, (4) bekezdés c) pontja és (4a) bekezdés c) pontja” szöveg,
+g)[^16]
 
-h) 18/C. § (8) bekezdésében a „651/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet és az (EU) 2022/2473 bizottsági rendelet” szövegrész helyébe a „csoportmentességi rendeletek” szöveg,
+h)[^17]
 
-i) 18/D. § (2) bekezdésében az „a TVI honlapján” szövegrész helyébe az „a TAM-ban” szöveg,
+i)[^18]
 
-j)[^1]
+j)[^19]
 
-k)[^2]
+k)[^20]
 
-l) 36. § (1) bekezdésében a „Támogatásokat Vizsgáló Iroda” szövegrész helyébe a „TVI” szöveg,
+l)[^21]
 
-m)[^3]
+m)[^22]
 
 lép.
 
-[^1]: A 10. § j) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^2]: A 10. § k) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^3]: A 10. § m) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^10]: A 10. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 10. § j) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^20]: A 10. § k) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^21]: A 10. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. § m) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
