@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Mádl Ferenc Összehasonlító Jogi Intézet létrehozásáról szóló 95/2019. (IV. 25.) Korm. rendelet 3. §-a.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
