@@ -1,1 +1,3 @@
-2. § Az R. 1. §-ában a „megkötésére” szövegrész helyébe a „megkötésére, módosítására és megszüntetésére” szöveg, továbbá a „Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 7. pontja szerinti miniszter” szövegrész helyébe a „Kormány koncesszióért felelős tagja” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
