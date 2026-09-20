@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet [a továbbiakban: 43/1999. (III. 3.) Korm. rendelet] 18/B. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(3) A (2) bekezdés szerinti betegségcsoportokba tartozó, bevont biztosítottak esetében a háziorvosi szolgálatnak a Krónikus Betegségmenedzsment Program NEAK honlapján közzétett orvosszakmai programjában meghatározott Gondozási Tervet kell megvalósítania, amelynek betegségcsoportonként meghatározott részletszabályait és a résztevékenységekre megállapított díjakat a NEAK honlapján közleményben teszi közzé.
-
-(4) A háziorvosi szolgáltató a Gondozási Tervben foglalt egyes résztevékenységek teljesítése esetén havonta díjazásra jogosult. Ha a háziorvosi szolgáltató a Gondozási Tervet a (3) bekezdés szerinti részletszabályokban meghatározott mértékig nem teljesíti, a résztevékenységek után járó díjazás visszavonásra kerül. Egy bejelentkezett biztosított csak egy krónikusbetegség-csoportban kerülhet elszámolásra.”
-
-(2) A 43/1999. (III. 3.) Korm. rendelet 18/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Krónikus Betegségmenedzsment Program megvalósításának határideje 2027. június 30.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
