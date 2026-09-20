@@ -52,7 +52,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti az Országos Fogyatékosságügyi Program végrehajtásának 2024–2025. évekre vonatkozó intézkedési tervéről szóló 1186/2024. (VI. 28.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1303/2026. (IX. 18.) Korm. határozathoz
 
@@ -707,3 +707,5 @@ Az Országos Fogyatékosságügyi Program végrehajtásának 2026–2027. évekr
 | Határidő: | 2027. június 30. |
 
 | Forrás: | forrásbevonást nem igényel |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
