@@ -4,6 +4,6 @@
 
 ## [3] Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés d) pont df) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 56. § (1) bekezdés b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet 5. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3a) Abban az esetben, ha a Magyarországon forgalomba hozatali engedéllyel rendelkező, a pneumococcus elleni kötelező védőoltás során felhasznált oltóanyag alkalmazási előírása eltér a (2) bekezdés b), d) és e) pontjában foglalt oltási rendtől, a csecsemők immunizálására a VML előírásai az irányadók.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
