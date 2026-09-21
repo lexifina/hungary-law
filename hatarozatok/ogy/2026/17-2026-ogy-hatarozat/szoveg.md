@@ -428,7 +428,7 @@ Dr. Németh Csilla (TISZA)
 
 Dr. Szijjártó Gábor (TISZA)
 
-Dr. Orbán Balázs (Fidesz) 2026. május 13-tól
+Szekeres Pál (Fidesz) 2026. szeptember 23-i hatállyal[^16]
 
 Zsigó Róbert (Fidesz) 2026. május 13-tól
 
@@ -492,11 +492,11 @@ Tagok:
 
 Dr. Bilisics Zita (TISZA)
 
-Berki Ákos (TISZA)[^16]
+Berki Ákos (TISZA)[^17]
 
 Dr. Bóka Zsolt (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^17]
+Melléthei-Barna Márton (TISZA)[^18]
 
 Dr. Czipa András (TISZA)
 
@@ -520,7 +520,7 @@ Varga Lőrinc Mihály (TISZA)
 
 Balla György (Fidesz)
 
-Palóc André (Fidesz)[^18]
+Palóc André (Fidesz)[^19]
 
 Gulyás Gergely (Fidesz) 2026. május 13-tól
 
@@ -630,7 +630,7 @@ Alelnök:
 
 Diószegi Judit (TISZA)
 
-Borics Mihály (TISZA)[^19]
+Borics Mihály (TISZA)[^20]
 
 Dr. Takács Árpád (Fidesz)
 
@@ -648,7 +648,7 @@ Dr. Kiss Máté Zsolt (TISZA)
 
 Dr. Miskolczi Orsolya (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^20]
+Melléthei-Barna Márton (TISZA)[^21]
 
 Tuzson Bence (Fidesz) 2026. május 13-tól
 
@@ -746,7 +746,7 @@ Bencsik János (Fidesz)
 
 Alelnök:
 
-Dr. Sárosi József (TISZA)[^21]
+Dr. Sárosi József (TISZA)[^22]
 
 Dr. Dicső Viktória (TISZA)
 
@@ -806,7 +806,7 @@ Dr. Bilisics Zita (TISZA)
 
 Dr. Bóka Zsolt (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^22]
+Melléthei-Barna Márton (TISZA)[^23]
 
 Dr. Simon Krisztián Márk (TISZA)
 
@@ -832,7 +832,7 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^23]
+7.[^24]
 
 [^2]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 44/2026. (VIII. 11.) OGY határozat 1. pontjával megállapított szöveg.
@@ -848,11 +848,12 @@ Varga Szimeon (nemzetiségi szószóló)
 [^13]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
 [^14]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^15]: A 26/2026. (VI. 1.) OGY határozat 1. pontjával megállapított szöveg.
-[^16]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
+[^16]: A 61/2026. (IX. 22.) OGY határozat 1. pontjával megállapított szöveg.
 [^17]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
-[^18]: A 44/2026. (VIII. 11.) OGY határozat 2. pontjával megállapított szöveg.
-[^19]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^18]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
+[^19]: A 44/2026. (VIII. 11.) OGY határozat 2. pontjával megállapított szöveg.
 [^20]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
 [^21]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
 [^22]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
-[^23]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^24]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
