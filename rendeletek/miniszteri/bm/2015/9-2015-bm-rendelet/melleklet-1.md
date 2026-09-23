@@ -1,4 +1,4 @@
-1. melléklet a 9/2015. (III. 25.) BM rendelethez[^55]
+1. melléklet a 9/2015. (III. 25.) BM rendelethez[^58]
 
 Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
 
@@ -372,4 +372,4 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 
 5.3. Felsőszintű: kéményseprő mester (felsőfokú szakirányú állami végzettséggel).
 
-[^55]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja, a 28/2024. (VII. 12.) BM rendelet 10. §-a szerint módosított szöveg.
+[^58]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja, a 28/2024. (VII. 12.) BM rendelet 10. §-a szerint módosított szöveg.

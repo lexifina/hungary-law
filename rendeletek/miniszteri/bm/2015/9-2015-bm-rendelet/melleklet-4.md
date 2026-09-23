@@ -1,4 +1,4 @@
-4. melléklet a 9/2015. (III. 25.) BM rendelethez[^59]
+4. melléklet a 9/2015. (III. 25.) BM rendelethez[^62]
 
 A hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztások képesítési követelményei
 
@@ -142,7 +142,7 @@ A hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beoszt�
 
 2.4.1.1. Felsőfokú szakképzettség végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
 
-2.4.1.2.[^60] Szakirányú felsőfokú szakképzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú szakképzettségek valamelyike:
+2.4.1.2.[^63] Szakirányú felsőfokú szakképzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú szakképzettségek valamelyike:
 
 2.4.1.2.1. jogi, igazgatási szakterületen,
 
@@ -186,5 +186,5 @@ A hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beoszt�
 
 3.3. Középfokú rendészeti tárgyú képesítésnek felel meg a Katasztrófavédelmi alapismereti tanfolyami képesítés.
 
-[^59]: A 4. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^60]: A 4. melléklet 2.4.1.2. pontja a 24/2023. (VI. 30.) BM rendelet 34. §-a szerint módosított szöveg.
+[^62]: A 4. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^63]: A 4. melléklet 2.4.1.2. pontja a 24/2023. (VI. 30.) BM rendelet 34. §-a szerint módosított szöveg.
