@@ -10,6 +10,6 @@ b) „Korlátozással alkalmas”.
 
 (3) Az ismételt alkalmasságvizsgálatot az állományilletékes parancsnok – a minősítés alapján, az ott meghatározott időtartamra is tekintettel – rendeli el írásban.
 
-(4)[^36] Az ismételt alkalmasságvizsgálat célja annak ellenőrzése, hogy a 82. § (4) bekezdése vagy a 83. § (5) bekezdése szerinti gondozás a 82. § (3) bekezdésében, illetve a 83. § (4) bekezdésében meghatározott időtartam alatt elérte-e célját.
+(4)[^40] Az ismételt alkalmasságvizsgálat célja annak ellenőrzése, hogy a 82. § (4) bekezdése vagy a 83. § (5) bekezdése szerinti gondozás a 82. § (3) bekezdésében, illetve a 83. § (4) bekezdésében meghatározott időtartam alatt elérte-e célját.
 
-[^36]: A 85. § (4) bekezdése a 43/2022. (XII. 19.) BM rendelet 130. §-ával megállapított szöveg.
+[^40]: A 85. § (4) bekezdése a 43/2022. (XII. 19.) BM rendelet 130. §-ával megállapított szöveg.

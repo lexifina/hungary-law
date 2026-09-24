@@ -1,1 +1,0 @@
-## 90. § A rendvédelmi oktatási intézménybe jelentkezők (a továbbiakban: felvételiző) alkalmasságvizsgálatára a hivatásos állományba kinevezést megelőző alkalmasságvizsgálatra vonatkozó rendelkezéseket az e fejezetben foglalt eltérésekkel kell alkalmazni.

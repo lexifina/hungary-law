@@ -8,6 +8,6 @@ a) az arra vonatkozó javaslat kialakítása, hogy a hivatásos állomány tagja
 
 b) a hivatásos állomány tagjának egészségi, pszichológiai, fizikai állapotának figyelemmel kísérése, valamint a megelőzés szempontjainak érvényesítése.
 
-(3)[^24] Az időszakos alkalmasságvizsgálat a rendvédelmi szerv vezetőjének döntése alapján a hivatásos állomány tagjának szolgálati helyén is végrehajtható, amennyiben a 13. § (3) bekezdés c) pontjában foglaltak alapján meghatározott feltételek biztosítottak.
+(3)[^27] Az időszakos alkalmasságvizsgálat a rendvédelmi szerv vezetőjének döntése alapján a hivatásos állomány tagjának szolgálati helyén is végrehajtható, amennyiben a 13. § (3) bekezdés c) pontjában foglaltak alapján meghatározott feltételek biztosítottak.
 
-[^24]: A 63. § (3) bekezdését a 24/2023. (VI. 30.) BM rendelet 43. §-a iktatta be.
+[^27]: A 63. § (3) bekezdését a 24/2023. (VI. 30.) BM rendelet 43. §-a iktatta be.

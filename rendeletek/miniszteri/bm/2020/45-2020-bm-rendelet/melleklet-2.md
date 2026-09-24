@@ -1,4 +1,4 @@
-## 0X09553_0
+## 6X04567M.docx
 
 |  | A | B | C | D |
 
@@ -6,7 +6,7 @@
 
 | 2 | 1. | BNO-10-01 – Fertőző és parazitás betegségek | Terápiára nem reagáló fertőző betegségek (tbc, HIV, hepatitis B, C) | A00–B99 |
 
-| 3 | 2. | BNO-10-02 – Daganatok | Kezelhetetlen vagy terápiára nem reagáló rosszindulatú daganatok, súlyos szervi/mozgási funkciózavart vagy súlyos torzulást okozó jóindulatú daganatok | C00–D48 |
+| 3 | 2. | BNO-10-02 – Daganatok | Kezelhetetlen vagy terápiára nem reagáló rosszindulatú daganatok, súlyos szervi/mozgási funkciózavart vagy súlyos torzulást okozó jó- vagy rosszindulatú daganatok | C00–D48 |
 
 | 4 | 3. | BNO-10-03 – A vér és vérképző szervek betegségei és az immunrendszert érintő bizonyos rendellenességek | Terápiára nem reagáló, vérképző rendszert és/vagy immunrendszert érintő rosszindulatú daganatok | D50–D89 |
 
@@ -32,7 +32,7 @@
 
 | 15 | Pszichoaktív szer addikciót kiváltó használata (kivéve dohányzás) |
 
-| 16 | Alkoholfüggőség |
+| 16 | Alkohol okozta káros használat (abúzus), alkohol okozta dependencia (szindróma) |
 
 | 17 | Schizofrénia, schizotípiás és paranoid rendellenességek |
 
@@ -43,6 +43,8 @@
 | 20 | Pervazív fejlődési zavarok (autizmus) |
 
 | 21 | A viselkedés jellemzően gyermek- és serdülőkorban kezdődő és aktuálisan fennálló egyes zavarai (mutismus, súlyos TIC, enuresis, encopresis) |
+
+| 21a. | Kezelhetetlen / ismétlődő / tartós lefolyású / terápiára nem reagáló affektív zavarok |
 
 | 22 | 6. | BNO-10-06 – Az idegrendszer betegségei | Terápiára nem reagáló / ismétlődő gyulladásos idegrendszeri betegségek | G00–G99 |
 
