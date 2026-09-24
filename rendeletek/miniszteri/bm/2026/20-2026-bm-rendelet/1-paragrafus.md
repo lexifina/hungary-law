@@ -6,20 +6,6 @@
 
 ## a következőket rendelem el:
 
-1. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet a következő 4/A. alcímmel egészül ki:
+1. §[^2]
 
-„4/A. A hivatásos katasztrófavédelmi szervnél hivatásos szolgálati jogviszonyban betölthető szolgálati beosztás betöltéséhez előírt szakképesítésre felkészítő szakmai képzés megszervezéséhez kapcsolódó tárgyi feltételek igazolásának kiállítására vonatkozó részletszabályok
-
-14/A. § (1) Az ezen alcímben foglaltakat
-
-a) a katasztrófavédelmi tiszt szakképesítésre,
-
-b) a tűzoltó szakképesítésre és
-
-c) a tűzoltó szerparancsnok szakképesítésre
-
-felkészítő szakmai képzés megszervezéséhez – amennyiben a programkövetelmény tartalmazza a tárgyi feltételek meglétének igazolására vonatkozó követelményt – szükséges igazolás kiállítására kell alkalmazni.
-
-(2) Az igazolás kiállítására irányuló kérelmet a BM OKF-nél kell előterjeszteni. A kérelemben tételesen be kell mutatni a programkövetelményben meghatározott tárgyi feltételek rendelkezésére állására vonatkozó adatokat és a feltételek teljesítésének módját.
-
-(3) Az (1) bekezdésben megjelölt szakmai képzés megszervezéséhez szükséges, a programkövetelmények szerinti tárgyi feltételek teljesítése esetén a BM OKF hatósági hatáskörben eljárva kiállítja az igazolást.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
