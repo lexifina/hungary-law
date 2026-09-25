@@ -4,11 +4,11 @@ a) 14/D. § (5) bekezdésében az „(1)–(3) bekezdés” szövegrész helyéb
 
 b) 14/D. § (6) bekezdésében az „(1)–(3) bekezdés” szövegrész helyébe az „(1) bekezdés” szöveg,
 
-c) 46. § (4) bekezdésében az „az egyetértést” szövegrész helyébe az „az egyetértéséről a megbízásra vonatkozó megkeresés kézhezvételétől számított 30 napon belül nyilatkozik azzal, hogy az egyetértést” szöveg,
+c)
 
-d) 123. § (2) bekezdés 11. pontjában az „az igazgató és a kancellár” szövegrész helyébe az „a szakmai főigazgató-helyettes és az igazgató” szöveg,
+d)
 
-e) 123. § (2) bekezdés 14. pontjában az „az intézményvezető” szövegrész helyébe az „a főigazgató, a szakmai főigazgató-helyettes és az intézményvezető” szöveg,
+e)
 
 f) 123. § (2) bekezdés 15. pontjában a „részletes szabályait,” szövegrész helyébe a „részletes szabályait, havi alapbére kötelező legkisebb összegét,” szöveg,
 

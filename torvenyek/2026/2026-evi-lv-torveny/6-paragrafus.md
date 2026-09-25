@@ -2,10 +2,10 @@
 
 a) 14/D. § (2) és (3) bekezdése,
 
-b) 26. § (2) bekezdésében a „vagy a kancellár” szövegrész,
+b)
 
-c) 26. § (3) bekezdésében az „és a kancellár” szövegrész,
+c)
 
-d) 32. § (4) bekezdésében az „és a kancellár” szövegrész,
+d)
 
 e) 128/B. § (3) bekezdése.
