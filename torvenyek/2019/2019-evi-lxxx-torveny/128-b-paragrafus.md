@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés hatálya alá tartozó vizsgaközpontot az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély véglegessé válásáig az akkreditáló szerv által kiadott szakmai és képesítő vizsgáztatási tevékenység folytatására feljogosító okiratban foglalt, a képzési területen szereplő valamennyi szakma és szakképesítés tekintetében szakmai és képesítő vizsgáztatási tevékenység folytatására engedéllyel rendelkező akkreditált szakképzési vizsgaközpontnak kell tekinteni.
 
-(3) Az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély alapján nyilvántartásba vett akkreditált szakképzési vizsgaközpont esetében a 14/D. § (1) bekezdése szerinti ellenőrzést – a 14/D. § (2) bekezdésében foglaltaktól eltérően – a szakképzési államigazgatási szerv által történt nyilvántartásba vételt követően három éven belül szükséges elvégezni, ezt követően a 14/D. § (4) bekezdésében meghatározott gyakorisággal.
+(3)

@@ -52,7 +52,7 @@
 
 14. az intézményvezető megbízási feltételeit és a megbízással kapcsolatos eljárást,
 
-15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait,
+15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait, havi alapbére kötelező legkisebb összegét,
 
 16. az oktató kötelességének részletes szabályait és továbbképzési kötelezettsége teljesítésének rendjét,
 

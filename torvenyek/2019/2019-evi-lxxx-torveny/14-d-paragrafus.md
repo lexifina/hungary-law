@@ -6,15 +6,15 @@ a) szakmai és képesítő vizsgáztatási tevékenységét engedély birtokába
 
 b) szakmai és képesítő vizsgáztatási tevékenysége megfelel-e az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek.
 
-(2) Az (1) bekezdés szerinti ellenőrzést a nyilvántartásba vételt követően egy éven belül a befejezett szakmai vagy képesítő vizsgákon részt vett vizsgázói létszám alapján az öt legmagasabb vizsgázói létszámú képzési terület tekintetében legalább egy szakmai és egy képesítő vizsga vonatkozásában el kell végezni.
+(2)
 
-(3) Amennyiben az akkreditált szakképzési vizsgaközpont szakmai és képesítő vizsgáztatási tevékenységére vonatkozó engedélye új képzési területek egységes osztályozási rendszere szerinti tevékenységgel bővül, az (1) bekezdés szerinti ellenőrzést az új képzési területek egységes osztályozási rendszere nyilvántartásba vételét követően egy éven belül az új képzési területek egységes osztályozási rendszere szerinti legalább egy szakmai és egy képesítő vizsga tekintetében el kell végezni.
+(3)
 
-(4) A (2) és (3) bekezdés szerinti ellenőrzést követően az (1) bekezdés szerinti ellenőrzést legalább háromévente kell elvégezni.
+(4) Az (1) bekezdés szerinti ellenőrzést a nyilvántartásba vételt követően három éven belül, majd ezt követően legalább háromévente kell elvégezni.
 
-(5) Az (1)–(3) bekezdés szerinti ellenőrzés során a szakképzési államigazgatási szerv, valamint az ellenőrzésbe bevont szakértő az ellenőrzött időszakban szervezett szakmai vagy képesítő vizsgán részt vehet, minden vizsgadokumentumot megtekinthet, azonban a vizsgázótól nem kérdezhet és a vizsga lefolytatását hozzászólással nem befolyásolhatja.
+(5) Az (1) bekezdés szerinti ellenőrzés során a szakképzési államigazgatási szerv, valamint az ellenőrzésbe bevont szakértő az ellenőrzött időszakban szervezett szakmai vagy képesítő vizsgán részt vehet, minden vizsgadokumentumot megtekinthet, azonban a vizsgázótól nem kérdezhet és a vizsga lefolytatását hozzászólással nem befolyásolhatja.
 
-(6) Az (1)–(3) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
+(6) Az (1) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
 
 (6a) Az akkreditált szakképzési vizsgaközpont ellenőrzésére irányuló eljárásban az ügyintézési határidő 160 nap.
 
