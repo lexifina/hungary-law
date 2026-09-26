@@ -1,6 +1,6 @@
 ## 2. Az azonosító okmányok kiadása
 
-3. § (1)[^7] A Honvédség központi nyilvántartó szerve
+3. § (1)[^8] A Honvédség központi nyilvántartó szerve
 
 a) a hivatásos és a szerződéses állomány, az önkéntes tartalékos katonák részére szolgálati igazolványt,
 
@@ -14,7 +14,7 @@ e) a honvédségi nyugdíjasok részére honvédségi nyugdíjas igazolványt
 
 ad ki.
 
-(2)[^8] A Honvédség központi nyilvántartó szerve
+(2)[^9] A Honvédség központi nyilvántartó szerve
 
 a) a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet 3.1.37. pontja alapján a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) és a Honvédség kijelölt szervezetei által folytatott hatósági, szakhatósági, ellenőri és felügyeleti jogkör gyakorlására kijelölt állománya részére hatósági és ellenőri igazolványt,
 
@@ -30,5 +30,5 @@ ad ki.
 
 (5) A HM-be rendvédelmi szervtől kormánytisztviselői jogviszonyba vezényelt személy részére kormánytisztviselői igazolványt kell kiadni.
 
-[^7]: A 3. § (1) bekezdése a 25/2024. (XII. 2.) HM rendelet 11. §-ával megállapított szöveg.
-[^8]: A 3. § (2) bekezdése a 25/2024. (XII. 2.) HM rendelet 11. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdése a 25/2024. (XII. 2.) HM rendelet 11. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdése a 25/2024. (XII. 2.) HM rendelet 11. §-ával megállapított szöveg.

@@ -24,10 +24,17 @@ ca) az azonosítás biztosítására szolgáló személyi igazolójegy és
 
 cb) a hadrakelt fegyveres erők sebesültjei és betegei helyzetének javítására vonatkozóan Genfben, 1949. augusztus 12-én kelt Egyezmény (a továbbiakban: Genfi Egyezmény) hatálya alá tartozó – a sebesültek és betegek felkutatására, felszedésére és szállítására vagy a betegség megelőzésére alkalmazott személyzet, valamint az egészségügyi alakulatok által alkalmazott személyzet, továbbá a fegyveres erőkhöz tartozó tábori lelkészek (a továbbiakban együtt: egészségügyi és egyházi személyek) részére kiadásra kerülő – személyazonossági igazolvány;
 
-d)[^6] okmányellátásban részesülő személy: a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény (a továbbiakban: Haktv.) 1. § (1) bekezdés j) pontja szerinti személyi állomány, a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény állománya, a nyugállományú katona és a honvédségi nyugdíjas.
+d)[^6] okmányellátásban részesülő személy: a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény (a továbbiakban: Haktv.) 1. § (1) bekezdés 18. pontja szerinti személyi állomány, a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény állománya, a nyugállományú katona és a honvédségi nyugdíjas.
+
+e)[^7] személyügyi szerv:
+
+ea) a Honvédség központi személyzeti támogató rendszerébe tartozó honvédségi szervezet esetén a feladat ellátására kijelölt személyügyi szervezeti egység,
+
+eb) az ea) alpontba nem tartozó esetekben az 1. § szerinti szervezet személyügyi feladatokat ellátó szervezeti eleme.
 
 [^2]: A 2. § b) pont ba) alpontja a 25/2024. (XII. 2.) HM rendelet 19. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § b) pont bb) alpontja a 25/2024. (XII. 2.) HM rendelet 19. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § b) pont bf) alpontja a 25/2024. (XII. 2.) HM rendelet 18. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § b) pont bg) alpontját a 25/2024. (XII. 2.) HM rendelet 10. § (1) bekezdése iktatta be.
-[^6]: A 2. § d) pontja a 25/2024. (XII. 2.) HM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § d) pontja a 25/2024. (XII. 2.) HM rendelet 10. § (2) bekezdésével megállapított, a 9/2026. (IX. 25.) HM rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § e) pontját a 9/2026. (IX. 25.) HM rendelet 1. §-a iktatta be.

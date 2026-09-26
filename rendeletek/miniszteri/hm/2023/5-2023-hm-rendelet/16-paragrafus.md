@@ -8,6 +8,6 @@
 
 (5) Az azonosító okmány másra át nem ruházható, letétbe nem helyezhető, biztosítékul nem adható és nem fogadható el.
 
-(6)[^21]
+(6)[^24]
 
-[^21]: A 16. § (6) bekezdését a 25/2024. (XII. 2.) HM rendelet 19. § g) pontja hatályon kívül helyezte.
+[^24]: A 16. § (6) bekezdését a 25/2024. (XII. 2.) HM rendelet 19. § g) pontja hatályon kívül helyezte.

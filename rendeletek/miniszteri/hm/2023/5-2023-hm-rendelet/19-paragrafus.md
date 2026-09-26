@@ -8,7 +8,7 @@ b) az azonosítás biztosítására szolgáló személyi igazolójegy,
 
 c) a Genfi Egyezmény hatálya alá tartozó – egészségügyi és egyházi személyek részére kiadásra kerülő – személyazonossági igazolvány.
 
-(2)[^25] Az okmányellátásért felelős szerv személyazonossági igazolványt kizárólag az egészségügyi és egyházi személyek részére állít ki.
+(2)[^28] Az okmányellátásért felelős szerv személyazonossági igazolványt kizárólag az egészségügyi és egyházi személyek részére állít ki.
 
 (3) A külszolgálatra tervezett állomány részére a (2) bekezdésben foglalt személyek kivételével csak személyi igazolójegyet kell igényelni és kiállítani.
 
@@ -16,4 +16,4 @@ c) a Genfi Egyezmény hatálya alá tartozó – egészségügyi és egyházi sz
 
 (5) Az (1) bekezdésben meghatározott azonosító okmányokat az állomány tagja köteles magánál tartani.
 
-[^25]: A 19. § (2) bekezdése a 25/2024. (XII. 2.) HM rendelet 18. § b) pontja szerint módosított szöveg.
+[^28]: A 19. § (2) bekezdése a 25/2024. (XII. 2.) HM rendelet 18. § b) pontja szerint módosított szöveg.

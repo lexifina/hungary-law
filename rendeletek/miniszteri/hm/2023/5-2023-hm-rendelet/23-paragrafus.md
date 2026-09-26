@@ -1,4 +1,4 @@
-## 13.[^31] Az okmányellátásért felelős szerv felügyeleti tevékenysége
+## 13.[^35] Az okmányellátásért felelős szerv felügyeleti tevékenysége
 
 23. § Az okmányellátásért felelős szerv
 
@@ -8,4 +8,4 @@ b) dönt az azonosító okmányok kiadásáról, kiadásának megtagadásáról,
 
 c) ellátja az azonosító okmányok kiadásával és nyilvántartásával kapcsolatos tevékenységet, szakmai felügyeletet.
 
-[^31]: A 13. alcím (23. §) a 25/2024. (XII. 2.) HM rendelet 17. §-ával megállapított szöveg.
+[^35]: A 13. alcím (23. §) a 25/2024. (XII. 2.) HM rendelet 17. §-ával megállapított szöveg.
