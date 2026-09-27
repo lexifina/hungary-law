@@ -48,6 +48,8 @@ j) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában és a 4. § (5) be
 
 k) a 4. § (2) bekezdés a), c), e), g) és h) pontjában és a 4. § (5) bekezdés a), d), e), f) és g) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét közvetlenül érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala
 
+l) a 4. § (2) bekezdés a), b), c), e), f) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról az érintett személyt vagy annak jogos érdekét érintő eljárás lefolytatása érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal
+
 részére.
 
 (4) A (3) bekezdésben foglalt adatszolgáltatás további feltétele, hogy az adatszolgáltatást kérő szerv igazolja az általa kért adatok tekintetében az adatkezelés célját és adatkezelési jogosultságát.
