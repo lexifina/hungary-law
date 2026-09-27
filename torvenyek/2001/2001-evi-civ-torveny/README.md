@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2026-01-01 | 2025. évi XLIX. törvény | 2001-104-00-00.22 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2001-104-00-00.23 |
 | 2026-07-01 | 2025. évi CXVIII. törvény | 2001-104-00-00.24 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2001-104-00-00.25 |
