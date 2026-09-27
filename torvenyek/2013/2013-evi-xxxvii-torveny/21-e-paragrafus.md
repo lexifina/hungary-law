@@ -26,7 +26,7 @@ d) az állami adó- és vámhatóság a Platformüzemeltetőt törölte a nyilv�
 
 a) annak elrendelésének oka megszűnt;
 
-b) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés során került elrendelésre vagy annak végrehajtása a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján van folyamatban; vagy
+b) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés során került elrendelésre vagy annak végrehajtása a büntetőügyben eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján van folyamatban; vagy
 
 c) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
 
