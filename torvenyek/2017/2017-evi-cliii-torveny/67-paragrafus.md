@@ -12,7 +12,7 @@ e) az elárverezett ingóság megnevezését, becsértékét és az árverési v
 
 f) az árverési vevő nevét, nem természetes személy árverési vevő esetén a szervezet megnevezését és székhelyét.
 
-(2) A végrehajtó a természetes személy árverési vevő lakóhelyét, illetve személyazonosításra szolgáló okmányának számát feljegyzi, és a feljegyzést zárt borítékban helyezi el, arról csak a bíróság, az ügyészség, a nyomozó hatóság és az ingóságot nyilvántartó hatóság részére adhat felvilágosítást.
+(2) A végrehajtó a természetes személy árverési vevő lakóhelyét, illetve személyazonosításra szolgáló okmányának számát feljegyzi, és a feljegyzést zárt borítékban helyezi el, arról csak a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az ingóságot nyilvántartó hatóság részére adhat felvilágosítást.
 
 (3)
 

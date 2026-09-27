@@ -28,9 +28,9 @@
 
 a) elrendelt elővezetés költségének,
 
-b) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
+b) az ügyészség, az NVVH, illetve a nyomozó hatóság által kiszabott rendbírságnak,
 
-c) a bíróság, az ügyészség, illetve a nyomozó hatóság által a bűnügyi költségnek
+c) a bíróság, az ügyészség, az NVVH, illetve a nyomozó hatóság által a bűnügyi költségnek
 
 a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
 
