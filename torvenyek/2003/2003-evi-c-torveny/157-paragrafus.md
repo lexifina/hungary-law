@@ -2,7 +2,7 @@
 
 157. § (1) Az elektronikus hírközlési szolgáltató az elektronikus hírközlési szolgáltatás teljesítése után – a (2) bekezdésben, valamint a 159/A. § (1) bekezdésében foglaltak kivételével – törli vagy anonimizálja az előfizetőkre és a felhasználókra vonatkozó személyes adatokat, amelyeket a szolgáltatás nyújtása során kezel.
 
-(2) Az elektronikus hírközlési szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtásával összefüggésben – amennyiben az adott előfizető esetében értelmezhető – kezeli az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése körében keletkezett alábbi adatokat:
+(2) Az elektronikus hírközlési szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtásával összefüggésben – amennyiben az adott előfizető esetében értelmezhető – kezeli az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése körében keletkezett alábbi adatokat:
 
 a) a 154. § (2) bekezdés a)–e) pontjában foglalt adatok;
 
@@ -58,7 +58,7 @@ d)
 
 e)
 
-(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
+(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 
 (10a) Az elektronikus hírközlési szolgáltató – a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásának körében a természetes személy előfizetőkkel való telefonos kapcsolatfelvétellel megvalósuló statisztikai adatgyűjtés biztosítása céljából – a KSH kérelmére köteles átadni vagy hozzáférhetővé tenni a kérelemben megjelölt természetes személyek körére vonatkozóan
 

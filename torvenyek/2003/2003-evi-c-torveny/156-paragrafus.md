@@ -34,7 +34,7 @@ b) a felhasználók, vagy az előfizetők az adatkezeléshez hozzájárultak.
 
 (15a) Az előfizető és a felhasználó számára a (14) bekezdés szerinti hozzájárulás megadása esetén biztosítani kell a lehetőséget, hogy a hálózathoz való minden egyes csatlakozás alkalmával, illetve minden egyes továbbítás esetén egyszerű módon és díjmentesen ideiglenesen letilthassa a (14) bekezdés szerinti adatok kezelését.
 
-(16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelemre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
+(16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelemre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
 (17) Az elektronikus hírközlési szolgáltató az ismeretlen helyen tartózkodó személy hollétének megállapítása – ennek keretében kapcsolatrendszerének, feltételezhető tartózkodási helyének megismerése – céljából a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos hívásforgalmi, helymeghatározási és előfizetői adatokat.
 

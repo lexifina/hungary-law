@@ -8,9 +8,9 @@
 
 (3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
-a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
+a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
 
-b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
+b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
 
 tekinthetnek be.
 
