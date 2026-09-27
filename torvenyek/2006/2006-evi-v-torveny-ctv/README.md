@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2026-02-14 | 2025. évi C. törvény | 2006-5-00-00.97 |
 | 2026-02-28 | 2025. évi CXXXVI. törvény | 2006-5-00-00.99 |
 | 2026-03-01 | 2025. évi CXVII. törvény | 2006-5-00-00.98 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2006-5-00-00.100 |

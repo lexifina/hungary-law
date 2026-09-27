@@ -8,4 +8,4 @@
 
 (4) A cégformaváltozásról a jogelőd cég székhelye szerinti cégbíróság dönt. A cégbíróság a jogelőd céget – a jogutódra történő utalással – törli, egyúttal a jogutód céget a cégjegyzékbe bejegyzi. Ezt követően szükség szerint rendelkezik a cégiratoknak a jogutód cég székhelye szerint illetékes cégbírósághoz való megküldéséről.
 
-(5) A cégbíróság az átalakulás iránti kérelmet elutasítja, ha a büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság a bíróságot értesítette.
+(5) A cégbíróság az átalakulás iránti kérelmet elutasítja, ha a büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság a bíróságot értesítette.
