@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-90-00-00
 | 2025-10-13 | 2010. évi CXXX. törvény | 2023-90-00-00.26 |
 | 2025-12-09 | 2024. évi LXXXIV. törvény | 2023-90-00-00.17 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2023-90-00-00.27 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2023-90-00-00.28 |
