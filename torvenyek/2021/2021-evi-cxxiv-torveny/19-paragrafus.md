@@ -44,6 +44,6 @@ c) a társaság vagyonára büntetőeljárásban elrendelt kényszerintézkedés
 
 (5) A bíróság az (1)–(3) bekezdésben foglaltakon túl, hivatalból vizsgálja, hogy a társaság cégjegyzéke a Ctv. 26. § (1) bekezdés k) pontja szerinti adatot tartalmaz-e.
 
-(6) Ha az ügyészség arról tájékoztatta a bíróságot, hogy a társaság tevékenységével kapcsolatban vagy vagyonát érintő büntetőeljárás során vádat emeltek, a bíróság tájékoztatást kérhet az eljáró bíróságtól.
+(6) Ha az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) arról tájékoztatta a bíróságot, hogy a társaság tevékenységével kapcsolatban vagy vagyonát érintő büntetőeljárás során vádat emeltek, a bíróság tájékoztatást kérhet az eljáró bíróságtól.
 
 (7) A hatóság a tájékoztatását olyan tartalommal adja meg, amely nem veszélyezteti a társasággal szemben folyamatban levő eljárásának eredményességét.
