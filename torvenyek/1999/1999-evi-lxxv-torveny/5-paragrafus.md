@@ -4,7 +4,7 @@
 
 ## Az üzletek működésével összefüggő egyes közrendvédelmi szabályok
 
-5. § (1) A települési önkormányzat jegyzője (a továbbiakban: jegyző) közbiztonsági érdekből, a 4/A. § szerinti határozat hiányában – az ügyészség, a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére –
+5. § (1) A települési önkormányzat jegyzője (a továbbiakban: jegyző) közbiztonsági érdekből, a 4/A. § szerinti határozat hiányában – az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére –
 
 a) a büntető- vagy a szabálysértési eljárás befejezéséig, de legfeljebb egy évi időtartamra az üzletet ideiglenesen bezárathatja, ha megállapítja, hogy az üzlet működésével összefüggésben
 
@@ -20,6 +20,6 @@ b) legalább hat hónapnyi, de legfeljebb egy évi időtartamra az üzletet idei
 
 (1a)
 
-(2) Az ügyészség, a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére a jegyző az üzlet működési engedélyét visszavonja, illetve az üzletet bezáratja, ha az (1) bekezdésben meghatározott bűncselekményt, illetve szabálysértést olyan bírósági vagy hatósági határozat állapította meg, amelynek alapján a működési engedély visszavonásának, illetve az üzlet bezáratásának, egyébként nincs helye.
+(2) Az ügyészség, az NVVH, a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére a jegyző az üzlet működési engedélyét visszavonja, illetve az üzletet bezáratja, ha az (1) bekezdésben meghatározott bűncselekményt, illetve szabálysértést olyan bírósági vagy hatósági határozat állapította meg, amelynek alapján a működési engedély visszavonásának, illetve az üzlet bezáratásának, egyébként nincs helye.
 
 (3) A közbiztonság fenntartása érdekében az (1)–(2) bekezdés szerinti határozatot a jegyző fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.

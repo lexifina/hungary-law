@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2025-06-15 | 2025. évi XIX. törvény | 1999-75-00-00.38 |
 | 2026-01-01 | 2025. évi CXXV. törvény | 1999-75-00-00.39 |
 | 2026-05-14 | 2026. évi XIV. törvény | 1999-75-00-00.40 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 1999-75-00-00.41 |
