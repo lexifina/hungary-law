@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-48-00-00
 | 2024-04-25 | 2024. évi IX. törvény | 1996-48-00-00.33 |
 | 2025-01-01 | 2023. évi LXX. törvény | 1996-48-00-00.32 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 1996-48-00-00.34 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 1996-48-00-00.35 |
