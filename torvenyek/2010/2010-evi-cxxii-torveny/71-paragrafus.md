@@ -4,7 +4,7 @@ a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 
 b) DNS- és ujjnyomat minta elemzése,
 
-c) bíróság, ügyészség, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
+c) bíróság, ügyészség, az NVVH, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
 
 d) törvény alapján más szervek által vagy külföldről továbbított adatok átvétele,
 
@@ -40,7 +40,7 @@ g) a természetes személy, jogi személy és egyéb szervezet által saját mag
 
 12. a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
 
-13. az ügyészség büntetőeljárási szakterületének ügyviteli nyilvántartásából,
+13. az ügyészség és az NVVH büntetőeljárási szakterületének ügyviteli nyilvántartásából,
 
 14. a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, társadalmi szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 

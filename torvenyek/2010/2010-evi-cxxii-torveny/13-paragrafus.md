@@ -100,7 +100,7 @@ aa) végzi a bűncselekmények megelőzését, amelynek során figyelemmel kís�
 
 ab) nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
 
-b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 

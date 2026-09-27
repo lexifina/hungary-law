@@ -76,3 +76,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2026-01-01 | 2025. évi LXXXIII. törvény | 2010-122-00-00.69 |
 | 2026-07-01 | 2025. évi CXVIII. törvény | 2010-122-00-00.70 |
 | 2026-07-31 | 2026. évi XXXV. törvény | 2010-122-00-00.72 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2010-122-00-00.71 |

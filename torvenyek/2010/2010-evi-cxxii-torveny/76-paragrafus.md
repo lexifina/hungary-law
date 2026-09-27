@@ -28,7 +28,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 a) a bíróság,
 
-b) az ügyészség,
+b) az ügyészség és az NVVH,
 
 c) más nyomozó hatóság és az általános rendőrségi feladatot ellátó szerv, mint előkészítő eljárást folytató szerv,
 
