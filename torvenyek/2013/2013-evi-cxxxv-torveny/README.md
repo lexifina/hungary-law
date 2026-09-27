@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-135-00-00
 | 2024-01-01 | 2023. évi LXXXVII. törvény | 2013-135-00-00.33 |
 | 2025-03-31 | 2023. évi LXXXVII. törvény | 2013-135-00-00.34 |
 | 2025-07-01 | 2023. évi LXXXVII. törvény | 2013-135-00-00.35 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2013-135-00-00.36 |
