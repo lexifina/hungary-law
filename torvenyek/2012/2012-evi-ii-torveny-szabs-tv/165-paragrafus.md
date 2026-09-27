@@ -12,7 +12,7 @@
 
 a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
-b) büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
+b) büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 
 c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 
