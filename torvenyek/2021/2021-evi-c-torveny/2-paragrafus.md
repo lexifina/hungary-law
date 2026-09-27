@@ -4,10 +4,10 @@
 
 a) a bírósági elrendelésre,
 
-b) a közjegyző, a bírósági végrehajtó, az ügyész, a közigazgatási hatóság bejegyzés iránti felhívására (a továbbiakban együtt: hatósági felhívás)
+b) a közjegyző, a bírósági végrehajtó, az ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), valamint a közigazgatási hatóság bejegyzés iránti felhívására (a továbbiakban együtt: hatósági felhívás)
 
 indult eljárást is érteni kell.
 
-(3) Az ingatlan-nyilvántartási eljárásban hatóság határozatán a közjegyző és az ügyész határozatát, valamint a bírósági végrehajtó intézkedését is érteni kell.
+(3) Az ingatlan-nyilvántartási eljárásban hatóság határozatán a közjegyző, az ügyész, az NVVH határozatát, valamint a bírósági végrehajtó intézkedését is érteni kell.
 
 (4) Az ingatlan-nyilvántartási eljárásban beadvány a kérelem, a bírósági elrendelés és a hatósági felhívás, valamint az ezekhez tartozó okirat (a továbbiakban együtt: beadvány).

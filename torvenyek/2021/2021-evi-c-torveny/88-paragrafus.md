@@ -40,7 +40,7 @@ d) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerző
 
 7. a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának bejegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
 
-8. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás, az ügyészi felhívás és ügyészi fellépés tényének bejegyzésére és törlésére irányuló eljárás, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének bejegyzésére és törlésére, továbbá a büntetőeljárás megindításának bejegyzésére és törlésére irányuló eljárás;
+8. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás, az ügyészi felhívás és ügyészi fellépés tényének bejegyzésére és törlésére irányuló eljárás, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság, az NVVH és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének bejegyzésére és törlésére, továbbá a büntetőeljárás megindításának bejegyzésére és törlésére irányuló eljárás;
 
 9. a költségmentesség engedélyezése iránti eljárás;
 

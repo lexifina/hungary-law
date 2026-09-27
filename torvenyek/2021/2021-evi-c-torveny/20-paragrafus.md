@@ -10,4 +10,4 @@
 
 (4) A (3) bekezdésben foglaltaktól eltérően, az ingatlan-nyilvántartás vezetését támogató informatikai rendszer fejlesztése esetén az adatfeldolgozási feladatokat a rendszerfejlesztéshez szükséges mértékben az a nem állami tulajdonú gazdálkodó szervezet is elláthatja, amely a rendszerfejlesztést végzi.
 
-(5) Az ingatlan-nyilvántartás vezetését támogató informatikai rendszer használata során az eljáró bíróság, ügyészség vagy hatóság alkalmazottai azonosításához szükséges természetes személyazonosító adatokat át kell adni az ingatlanügyi hatóság részére, amely azokat kizárólag az azonosítás céljából és az eljárás befejezéséig kezeli.
+(5) Az ingatlan-nyilvántartás vezetését támogató informatikai rendszer használata során az eljáró bíróság, ügyészség, az NVVH vagy hatóság alkalmazottai azonosításához szükséges természetes személyazonosító adatokat át kell adni az ingatlanügyi hatóság részére, amely azokat kizárólag az azonosítás céljából és az eljárás befejezéséig kezeli.

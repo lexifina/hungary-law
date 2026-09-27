@@ -30,7 +30,7 @@ f) azon törölt jog, tény és ingatlanadat, amely az adott ingatlan tulajdoni 
 
 (5) A (4) bekezdés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
+a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 
 b) az ügyészség büntetőügyben vagy a közérdekvédelmi feladatai ellátásához,
 

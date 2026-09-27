@@ -1,6 +1,6 @@
 69. § (1) Polgári perben a felperes kérelmére, a jogainak megóvása érdekében, ha a polgári perrendtartásról szóló törvény szerinti ideiglenes intézkedés elrendelésének valamely feltétele fennáll, a bíróság – a perbejegyzés elrendelésével egyidejűleg – előzetesen végrehajtható végzéssel elrendeli, hogy a perbejegyzés teljesítését követően érkezett beadványok intézésére irányuló eljárását az ingatlanügyi hatóság a perbejegyzés alapjául szolgáló per jogerős befejezéséig függessze fel. A bíróság a kérelemmel összefüggésben az ideiglenes intézkedésre vonatkozó szabályok szerint jár el.
 
-(2) Büntetőeljárásban a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését az eljárás jogerős befejeződéséig az ügyész, a magánvádló, a pótmagánvádló vagy a sértett jogosult kezdeményezni. A bíróság az (1) bekezdésben meghatározottak szerint jár el.
+(2) Büntetőeljárásban a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését az eljárás jogerős befejeződéséig az ügyész, az NVVH, a magánvádló, a pótmagánvádló vagy a sértett jogosult kezdeményezni. A bíróság az (1) bekezdésben meghatározottak szerint jár el.
 
 (3) Ha az ingatlanügyi hatóság a 48. § (4) bekezdés a) vagy b) pontja szerint az eljárását felfüggesztette, a bíróság az (1) bekezdés szerinti végzésében a felfüggesztés időtartamát a per jogerős befejezéséig meghosszabbíthatja.
 
