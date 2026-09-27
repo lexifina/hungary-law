@@ -22,6 +22,6 @@ használható fel.
 
 (5) Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését a (4) bekezdés alapján kérték nem kerül sor és a (3) bekezdésben meghatározott határidő letelt, a felvételt törölni kell.
 
-(6) A rögzített felvételt a polgárőr egyesület a (2) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, bíróság, illetve büntetőeljárásban az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja.
+(6) A rögzített felvételt a polgárőr egyesület a (2) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, bíróság, illetve büntetőeljárásban az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja.
 
 (7) A polgárőr egyesület a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
