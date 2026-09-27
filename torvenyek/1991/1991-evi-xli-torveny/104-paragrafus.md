@@ -24,7 +24,7 @@ ba) az eljárás alá vont személy az (1) bekezdés a) pontja alá nem tartozó
 
 bb) a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálattól való távoltartást indokolja.
 
-(2) A büntetőügyben eljáró nyomozó hatóság, illetve ügyészség a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt
+(2) A büntetőügyben eljáró nyomozó hatóság, ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt
 
 a) ellen indított büntetőeljárásról, illetve
 
@@ -44,7 +44,7 @@ b) letartóztatásáról, előzetes kényszergyógykezeléséről vagy olyan bű
 
 (7) Az ideiglenes intézkedést az országos elnök, illetve a fegyelmi bíróság megszünteti
 
-a) büntetőeljárás esetén annak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozatnak az országos elnökhöz történt megérkezését követő 15 napon belül,
+a) büntetőeljárás esetén annak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozatnak az országos elnökhöz történt megérkezését követő 15 napon belül,
 
 b) gondnokság alá helyezés iránti eljárás jogerős lezárását követően a határozat országos elnökhöz történt megérkezését követő 15 napon belül,
 
