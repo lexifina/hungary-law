@@ -2,7 +2,7 @@
 
 a) a bíróság,
 
-b) az ügyészség,
+b) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH),
 
 c) a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 
@@ -56,7 +56,7 @@ a) a 83. § (1) bekezdés a) pontjában meghatározott adatok közül az e törv
 
 b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 
-(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
+(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
 
 (6) A menekültügyi hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 
