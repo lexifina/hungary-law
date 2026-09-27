@@ -1,3 +1,5 @@
-## 146.
+## 146. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-### 241. §
+241. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 17. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a megkeresett szerv, szervezet a megkeresést a megadott határidőn belül nem teljesíti, vagy a megkeresés teljesítését jogosulatlanul megtagadja, a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási bíró, illetve az ügyészség és az NVVH rendbírságot szabhat ki. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését kell alkalmazni. A rendbírság kiszabása ellen bejelentett jogorvoslatnak halasztó hatálya van. A rendbírság kiszabását a végrehajtásért felelős szerv kezdeményezheti a büntetés-végrehajtási bírónál, feltételes ügyészi felfüggesztés esetén az ügyészségnél, illetve az NVVH-nál.”

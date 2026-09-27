@@ -1,1 +1,3 @@
-### 153. §
+153. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A személyazonosító adatokat, valamint a 23. § c)–e) és i) pontjában meghatározott adatokat az a nyomozó hatóság vagy ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár. Ha az érintettel szemben az NVVH járt el, az adatokat az NVVH közli a bűnügyi nyilvántartó szervvel.”
