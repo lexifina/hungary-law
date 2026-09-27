@@ -2,11 +2,11 @@
 
 8. § (1) Elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs alapján elrendelt körözési eljárás esetén a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
-(2) A bíróság, ügyészség vagy nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
+(2) A bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
 (2a) A kulturális javakra elrendelt körözés esetén – a (2) bekezdésben foglaltak kivételével – a 4. § (2) bekezdés a) pont aa), ab), ad) alpontjában és c) pont ca) alpontjában meghatározott adat közérdekből nyilvános adat.
 
-(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.
+(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség, az NVVH vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.
 
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 

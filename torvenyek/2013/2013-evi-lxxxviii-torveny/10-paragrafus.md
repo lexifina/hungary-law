@@ -22,7 +22,7 @@ i) a Nemzeti Információs Központ elemzés-értékelés, valamint hírigény t
 
 j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
 
-k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
+k) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
 
 l) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
 

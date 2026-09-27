@@ -44,7 +44,9 @@ f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 g) honvéd,
 
-haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.
+h) az NVVH személyi állományának tagja,
+
+haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából, a h) pontban meghatározott esetben az NVVH elnökét.
 
 (7) A rendőrség – a bírósági végrehajtó felhívására és erre vonatkozó, a körözés elrendelését tartalmazó intézkedésére – lefolytatja a körözési eljárást a bírósági végrehajtásban kötelezett vagy a kiadni rendelt gyermek tartózkodási helyének megállapítása érdekében.
 
