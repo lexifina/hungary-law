@@ -18,7 +18,7 @@ c) feladatkörének keretei között a törvényességi ellenőrzést végző va
 
 d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 
-e) az egészségügyi szolgálati jogviszonyban álló személy ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+e) az egészségügyi szolgálati jogviszonyban álló személy ellen indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 
 f) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
 

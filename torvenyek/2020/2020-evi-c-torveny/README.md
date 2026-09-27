@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-100-00-00
 | 2024-07-01 | 2024. évi XXIX. törvény | 2020-100-00-00.14 |
 | 2024-09-01 | 2024. évi XXIX. törvény | 2020-100-00-00.16 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2020-100-00-00.17 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2020-100-00-00.18 |
