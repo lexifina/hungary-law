@@ -2,7 +2,7 @@
 
 (2) Az önálló bírósági végrehajtó konkrét ügyben a bírósági végrehajtási cselekményekkel kapcsolatos feladatai ellátása érdekében az általános meghatalmazás fennállásának vizsgálata céljából közvetlen hozzáféréssel jogosult a 3. § (1) bekezdés a) és b) pontjában, c) pont ca), cc), ce) és cf) alpontjában, d) pont da) és db) alpontjában, valamint e)–h) pontjában szereplő adatokat megismerni és kezelni.
 
-(3) Az ügyészség, nyomozó hatóság, nemzetbiztonsági szolgálat, az alapvető jogok biztosa, valamint az ügyvédi tevékenységet gyakorlókról nyilvántartást vezető ügyvédi kamara – törvényben meghatározott feladatai ellátása érdekében – a nyilvántartásból a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek meg kell jelölnie eljárásának az ügyszámát és tárgyát, valamint az igényelt adatok megismeréséhez fűződő érdeket.
+(3) Az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, nemzetbiztonsági szolgálat, az alapvető jogok biztosa, valamint az ügyvédi tevékenységet gyakorlókról nyilvántartást vezető ügyvédi kamara – törvényben meghatározott feladatai ellátása érdekében – a nyilvántartásból a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek meg kell jelölnie eljárásának az ügyszámát és tárgyát, valamint az igényelt adatok megismeréséhez fűződő érdeket.
 
 (4) A nyilvántartás rá vonatkozó adatairól írásbeli kérelemre – értve ez alatt az elektronikus úton benyújtott kérelmet is – felvilágosítást kaphat a nyilvántartásba bejegyzett meghatalmazó és meghatalmazott.
 
