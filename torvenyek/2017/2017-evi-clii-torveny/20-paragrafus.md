@@ -8,9 +8,9 @@ b) a vámhatóság a vámigazgatási eljárást megszüntette,
 
 c) a vámigazgatási ügy érdemében döntést hozott, vagy
 
-d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, vagy nyomozó hatóság a vámhatóságot megkereste.
+d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy nyomozó hatóság a vámhatóságot megkereste.
 
-(1a) Az (1) bekezdés d) pontja esetén a lefoglalt árut és eszközt a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell kiadni.
+(1a) Az (1) bekezdés d) pontja esetén a lefoglalt árut és eszközt a bíróságnak, ügyészségnek, az NVVH-nak vagy nyomozó hatóságnak kell kiadni.
 
 (2) Eltérő rendelkezés hiányában a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül ki kell adni annak, akitől azt lefoglalták, feltéve, hogy a lefoglalással kapcsolatos költségeket megfizeti. Ha a vámhatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
 

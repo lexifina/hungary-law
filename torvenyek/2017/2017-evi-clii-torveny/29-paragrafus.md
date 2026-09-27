@@ -6,7 +6,7 @@ a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ell
 
 b) a Rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges,
 
-c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
+c) az ügyészséget, az NVVH-t, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
 
 d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,
 
@@ -56,7 +56,7 @@ i) a kereskedelemért felelős minisztert dömping- és szubvencióellenes, piac
 
 j) az igazságügyért felelős minisztert az Európai Unió felé fennálló kötelezettség teljesítése céljából,
 
-k) az Állami Számvevőszéket, továbbá a Kormány által kijelölt belső ellenőrzési szervet a hatáskörükbe tartozó ellenőrzések lefolytatása céljából,
+k) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet a hatáskörükbe tartozó ellenőrzések lefolytatása céljából, továbbá az NVVH-t a közvagyonvédelmi vizsgálat lefolytatása céljából,
 
 l) a Magyar Nemzeti Bankot a fizetési mérleg összeállítása céljából,
 

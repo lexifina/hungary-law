@@ -14,4 +14,4 @@ a) a döntés módosítása vagy visszavonása a vámhatóság saját hatáskör
 
 b) a felügyeleti intézkedés,
 
-c) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás.
+c) az ügyészségről szóló törvény szerinti ügyészi vagy az NVVH általi felhívás és fellépés nyomán indított eljárás.
