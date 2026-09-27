@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-100-00-00
 | 2024-05-17 | 2024. évi XIII. törvény | 2001-100-00-00.49 |
 | 2024-08-07 | 2024. évi XIII. törvény | 2001-100-00-00.50 |
 | 2025-06-20 | 2025. évi LVII. törvény | 2001-100-00-00.51 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2001-100-00-00.52 |
