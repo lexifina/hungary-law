@@ -14,6 +14,6 @@ f) a teljesítményértékelést végző személy,
 
 g) a törvényességi ellenőrzéssel megbízott személy,
 
-h) a bíróság, az ügyészség, a nyomozó hatóság és a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv,
+h) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv,
 
 i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig.

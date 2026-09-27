@@ -16,7 +16,7 @@ f) a szoptató anya a szoptatás első 6 hónapjában naponta kétszer 1 órára
 
 g) a véradás miatt távol töltött teljes időtartamra, legalább 4 órára,
 
-h) bíróság, ügyészség, nyomozó hatóság vagy más hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+h) bíróság, ügyészség, NVVH, nyomozó hatóság vagy más hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 
 i) – ha továbbfoglalkoztatására sor kerül – az egészségi vagy pszichológiai alkalmatlanság megállapításától a más szolgálati beosztásba helyezés vagy nemzetbiztonsági alkalmazotti jogviszonyba történő áthelyezés időpontjáig,
 

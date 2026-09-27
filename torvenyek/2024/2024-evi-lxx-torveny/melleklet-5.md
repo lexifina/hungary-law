@@ -200,7 +200,7 @@ A személyügyi alapnyilvántartás adatköre
 
 11.3. korábbi fenyítések neme, mentesülés időpontja,
 
-11.4. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
+11.4. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
 
 11.5. kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
 

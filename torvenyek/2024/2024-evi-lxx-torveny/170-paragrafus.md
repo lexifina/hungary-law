@@ -12,7 +12,7 @@ c) a fejlesztés.
 
 (4) A munkáltatói jogkör gyakorlójának és a személyügyi szervnek az alkalmasság minősítésére, „Alkalmatlan” minősítés esetén annak okaira, „Korlátozással alkalmas” minősítés esetén a korlátozás fajtájára, valamint az elrendelt, az alkalmasság visszanyerését célzó támogató intézkedésekre vonatkozó adat továbbítható. Ha az alkalmassági vizsgálatot a munkáltatói jogkör gyakorlója kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is kezeli, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus részére továbbíthatja.
 
-(5) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére,
+(5) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv, valamint büntetőeljárásban az eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság részére,
 
 a) megkeresése vagy adatkérése alapján, továbbá
 
