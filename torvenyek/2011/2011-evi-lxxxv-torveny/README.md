@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-85-00-00
 | 2025-01-01 | 2024. évi LXXXIX. törvény | 2011-85-00-00.31 |
 | 2026-01-01 | 2025. évi CXXIV. törvény | 2011-85-00-00.32 |
 | 2026-08-12 | 2025. évi CXXIV. törvény | 2011-85-00-00.33 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2011-85-00-00.34 |

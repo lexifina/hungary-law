@@ -152,7 +152,7 @@ számára meghatározott díjfizetési kötelezettség;
 
 30a. termékdíjhiány: a kötelezett terhére megállapított termékdíj-különbözet, ha a termékdíj-különbözetet az esedékesség időpontjáig nem fizették meg. Az eredeti esedékesség napján fennálló túlfizetést a termékdíj-fizetési kötelezettség teljesítéseként csak akkor lehet figyelembe venni, ha a túlfizetés az ellenőrzés megkezdésének napján is fennáll.
 
-30b. termékdíj-különbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott és az állami adóhatóság által utólag megállapított termékdíj különbözete vagy a büntetőeljárás során a bíróság által jogerősen vagy az ügyészség határozata alapján megállapított és az állami adóhatóság által határozattal megfizetni rendelt termékdíjbevétel-csökkenés, vagyoni hátrány, ide nem értve a következő időszakra átvihető követelés különbözetét;
+30b. termékdíj-különbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott és az állami adóhatóság által utólag megállapított termékdíj különbözete vagy a büntetőeljárás során a bíróság által jogerősen vagy az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal határozata alapján megállapított és az állami adóhatóság által határozattal megfizetni rendelt termékdíjbevétel-csökkenés, vagyoni hátrány, ide nem értve a következő időszakra átvihető követelés különbözetét;
 
 30c. termékdíj-tartozás: az esedékességkor meg nem fizetett termékdíj;
 
