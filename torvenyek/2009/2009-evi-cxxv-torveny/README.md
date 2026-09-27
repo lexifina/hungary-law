@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-125-00-00
 | 2023-01-01 | 2021. évi LXXVII. törvény | 2009-125-00-00.18 |
 | 2024-01-01 | 2023. évi XC. törvény | 2009-125-00-00.19 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2009-125-00-00.20 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2009-125-00-00.21 |
