@@ -48,7 +48,7 @@ közvetlen adatkapcsolat útján veszi át.
 
 a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása,
 
-b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása,
+b) ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és nyomozó hatóságnak a büntetőeljárás lefolytatása,
 
 c) az a) és b) pont szerinti szervtől eltérő, törvény alapján az adat megismerésére jogosult szervnek az előtte folyamatban lévő eljárás sikeres lefolytatása
 
