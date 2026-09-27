@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-114-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 2018-114-00-00.23 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2018-114-00-00.25 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2018-114-00-00.26 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2018-114-00-00.27 |
