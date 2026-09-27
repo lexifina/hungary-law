@@ -1,10 +1,10 @@
 ## 6. Az igénybevételre jogosult szervek
 
-9. § (1) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség és a bíróság a rendelkezésükre álló vagy általuk rögzített arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a terhelt személyazonosságának megállapítása, valamint ellenőrzése érdekében.
+9. § (1) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a bíróság a rendelkezésükre álló vagy általuk rögzített arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a terhelt személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (2) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult
 
-a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
+a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a feltételezett elkövetőről,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés c) pontjában meghatározott feladatának ellátása során,
 

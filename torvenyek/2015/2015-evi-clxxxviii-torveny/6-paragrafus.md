@@ -74,6 +74,6 @@ bf) hozzáférési jogosultságához rendelt felhasználói azonosítóját.
 
 a) az adatkezelés jogszerűségének ellenőrzése céljából a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
 
-b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
+b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság,
 
 c) törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.

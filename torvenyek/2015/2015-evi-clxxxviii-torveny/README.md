@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-188-00-00
 | 2025-05-31 | 2025. évi XXXII. törvény | 2015-188-00-00.26 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2015-188-00-00.27 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2015-188-00-00.28 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2015-188-00-00.29 |
