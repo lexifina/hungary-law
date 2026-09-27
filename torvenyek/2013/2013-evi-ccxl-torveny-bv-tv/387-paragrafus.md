@@ -4,7 +4,7 @@
 
 (3) A végrehajtásért felelős szerv a letartóztatottat
 
-a) az ügyészi rendelvény és a letartóztatást elrendelő bírói végzés, vagy
+a) az ügyészi, illetve az NVVH tagja által kiadott rendelvény és a letartóztatást elrendelő bírói végzés, vagy
 
 b) a bíróság végzése szerint kiállított értesítőlap
 

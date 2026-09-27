@@ -2,11 +2,11 @@
 
 ## AZ ADATKEZELÉSRE VONATKOZÓ RENDELKEZÉSEK
 
-76. § (1) E törvényben meghatározott feladatai teljesítése céljából a bíróság, az ügyészség és a végrehajtásért felelős szerv a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtására vonatkozó adatokat, továbbá a végrehajtással összefüggésben az elítéltre vagy az egyéb jogcímen fogvatartottra vonatkozó személyes adatokat kezeli.
+76. § (1) E törvényben meghatározott feladatai teljesítése céljából a bíróság, az ügyészség, illetve az NVVH és a végrehajtásért felelős szerv a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtására vonatkozó adatokat, továbbá a végrehajtással összefüggésben az elítéltre vagy az egyéb jogcímen fogvatartottra vonatkozó személyes adatokat kezeli.
 
 (2) Az (1) bekezdés szerinti adatkezelés kiterjed
 
-a) a büntetőügyben eljáró bíróság, ügyészség megnevezésére, határozatának számára és keltére, jogerőre emelkedésének napjára, a kiszabott büntetés, alkalmazott intézkedés nemére, tartamára és mértékére, az előírt magatartási szabályra vagy kötelezettségre, a bűncselekmény Btk. szerinti megnevezésére és minősítésére, az elkövetői minőségre, valamint a bűnismétlésre vonatkozó adatokra, kényszerintézkedés esetén az eljáró bíróság, ügyészség megnevezésére és az ügyszámra, az ezzel kapcsolatos valamennyi határozat keltére, jogerőre emelkedésének napjára, továbbá a kényszerintézkedés tartamára,
+a) a büntetőügyben eljáró bíróság, ügyészség, illetve az NVVH megnevezésére, határozatának számára és keltére, jogerőre emelkedésének napjára, a kiszabott büntetés, alkalmazott intézkedés nemére, tartamára és mértékére, az előírt magatartási szabályra vagy kötelezettségre, a bűncselekmény Btk. szerinti megnevezésére és minősítésére, az elkövetői minőségre, valamint a bűnismétlésre vonatkozó adatokra, kényszerintézkedés esetén az eljáró bíróság, ügyészség, illetve az NVVH megnevezésére és az ügyszámra, az ezzel kapcsolatos valamennyi határozat keltére, jogerőre emelkedésének napjára, továbbá a kényszerintézkedés tartamára,
 
 b) az elítélt, vagy az egyéb jogcímen fogvatartott természetes személyazonosító adataira, nemére, állampolgárságára, – hontalan személy esetén – a hontalansága tényére, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, elektronikus kapcsolattartásra szolgáló elérhetőségére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére, katona elítélt esetén annak rendfokozatára, címzetes rendfokozatára, valamint állományilletékes alakulata vagy testülete megnevezésére és címére,
 

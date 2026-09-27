@@ -6,7 +6,7 @@ a) a 178. § (2) bekezdésében, 179. § (1) bekezdésében, illetve 180. § (1)
 
 b) a rendelkezési jogkör gyakorlója a folyamatban lévő büntetőeljárás eredményessége érdekében a kapcsolattartást korlátozta, továbbá ha a 172. § (3) bekezdése alapján a rendelkezési jogkör gyakorlójának korábban meghozott intézkedését alkalmazni kell,
 
-c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
+c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 
 d) az elítélt erőszakos többszörös visszaeső,
 

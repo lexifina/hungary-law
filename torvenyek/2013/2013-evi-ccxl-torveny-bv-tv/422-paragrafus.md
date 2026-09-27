@@ -6,6 +6,6 @@
 
 a) a letartóztatás végrehajtása során a különböző állománycsoportú katonákat egymástól el kell különíteni,
 
-b) a katona a bíróság, az ügyészség vagy más hatóság elé állításkor egyenruhát visel,
+b) a katona a bíróság, az ügyészség, illetve az NVVH vagy más hatóság elé állításkor egyenruhát visel,
 
 c) katona esetén a befogadásról és szabadításról értesíteni kell a munkáltatói jogkört gyakorló parancsnokot is.

@@ -1,8 +1,8 @@
-428. § (1) A fogda az őrizetbe vett személyt a bíróság, az ügyészség vagy a nyomozó hatóság határozata szerint a fogvatartásért felelős által kiállított rendelvény alapján fogadja be.
+428. § (1) A fogda az őrizetbe vett személyt a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság határozata szerint a fogvatartásért felelős által kiállított rendelvény alapján fogadja be.
 
 (2) A fogda az őrizetbe vett személy befogadásáról
 
-a) az őrizetet elrendelő bíróságot, ügyészséget vagy nyomozó hatóságot,
+a) az őrizetet elrendelő bíróságot, ügyészséget, NVVH-t vagy nyomozó hatóságot,
 
 b) katona esetén a munkáltatói jogkört gyakorló parancsnokot
 

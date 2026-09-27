@@ -1,6 +1,6 @@
 297. § (1) A foglalkozástól eltiltás végrehajtása annak a szervnek a feladata, amely a foglalkozástól eltiltással érintett foglalkozás kapcsán, jogszabály alapján kötelező nyilvántartási vagy engedélyezési tevékenységet végez. A büntetés-végrehajtási bíró felhívása alapján a nyilvántartást vezető szerv a foglalkozástól eltiltásra vonatkozó adatokat bejegyzi a nyilvántartásba, és gondoskodik arról, hogy az elítélt az eltiltás tartama alatt ne végezhessen olyan tevékenységet, amelytől a bíróság eltiltotta.
 
-(1a) Ha a Be. 111. §-a alapján a bíróság, az ügyészség vagy a nyomozó hatóság a törvényben meghatározott, kötelező munkáltatói intézkedés alkalmazása érdekében tájékoztatta a terhelt munkáltatóját, a büntetés-végrehajtási bíró a foglalkozástól eltiltás végrehajtása végett felhívást küld a munkáltatónak.
+(1a) Ha a Be. 111. §-a alapján a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság a törvényben meghatározott, kötelező munkáltatói intézkedés alkalmazása érdekében tájékoztatta a terhelt munkáltatóját, a büntetés-végrehajtási bíró a foglalkozástól eltiltás végrehajtása végett felhívást küld a munkáltatónak.
 
 (1b) Ha a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 55. §-a alapján a foglalkozástól eltiltásról más tagállam hatóságát tájékoztatni kell, és nincs olyan nyilvántartást vezető szerv, amelyet az (1) bekezdés alapján a büntetés-végrehajtási bíró felhívott, a tájékoztatási kötelezettséget a büntetés-végrehajtási bíró felhívása alapján a jogszabályban erre kijelölt szerv teljesíti.
 

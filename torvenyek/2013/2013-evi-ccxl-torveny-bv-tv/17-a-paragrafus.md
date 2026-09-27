@@ -8,7 +8,7 @@
 
 (3) Ha a büntetőeljárás során az elítélttel papíralapon történt a kapcsolattartás, részére az idézést vagy a felhívást papíralapon kell kézbesíteni.
 
-(3a) A bíróság, az ügyészség, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter papíralapú kapcsolattartás esetén – kivéve, ha a címzett fogva van – a hivatalos iratot a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére – idézés vagy értesítés esetén ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesítheti, ha az érintett ez irányú kérelmében az elérhetőségét bejelenti. Ez esetben közölni kell azt az elektronikus vagy hangkapcsolatot biztosító elérhetőséget, amelyen a címzett a hivatalos irat hitelességét ellenőrizni tudja, illetve a kézbesítésről a nyilatkozatát megteheti.
+(3a) A bíróság, az ügyészség, az NVVH, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter papíralapú kapcsolattartás esetén – kivéve, ha a címzett fogva van – a hivatalos iratot a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére – idézés vagy értesítés esetén ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesítheti, ha az érintett ez irányú kérelmében az elérhetőségét bejelenti. Ez esetben közölni kell azt az elektronikus vagy hangkapcsolatot biztosító elérhetőséget, amelyen a címzett a hivatalos irat hitelességét ellenőrizni tudja, illetve a kézbesítésről a nyilatkozatát megteheti.
 
 (3b) A (3a) bekezdésben meghatározott esetben e törvény eltérő rendelkezése hiányában a kézbesítés szabályszerű, ha a hivatalos irat címzett részére történő kézbesítéséről a címzett igazolható módon – ideértve a kizárólag hangkapcsolatot biztosító elektronikus úton történő rögzített szóbeli nyilatkozattételt is – nyilatkozik. A hivatalos iratot a nyilatkozattétel napján kézbesítettnek kell tekinteni.
 
@@ -18,4 +18,4 @@
 
 a) bírósági felülvizsgálati kérelem nyújtható be a végrehajtásért felelős szerv székhelye szerint illetékes büntetés-végrehajtási bíróhoz, vagy
 
-b) a feltételes ügyészi felfüggesztés mellett alkalmazott pártfogó felügyelet végrehajtása körében a Be. 369. § (1) bekezdése szerinti panasz nyújtható be az ügyészséghez.
+b) a feltételes ügyészi felfüggesztés mellett alkalmazott pártfogó felügyelet végrehajtása körében a Be. 369. § (1) bekezdése szerinti panasz nyújtható be az ügyészséghez, illetve az NVVH-hoz.

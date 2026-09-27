@@ -2,7 +2,7 @@
 
 a) a fogva tartó intézet rendjét betartani,
 
-b) a letartóztatást a bíróság vagy az ügyészség döntése alapján a fogva tartó intézetben tölteni,
+b) a letartóztatást a bíróság vagy az ügyészség, illetve az NVVH döntése alapján a fogva tartó intézetben tölteni,
 
 c) az önként vállalt és kérelmére kijelölt munkát ismereteinek és képességeinek megfelelően, fegyelmezetten, a munkahelyi és munkaköri szabályoknak megfelelően elvégezni, a munkavégzéssel kapcsolatos előírásokat megtartani,
 

@@ -16,7 +16,7 @@ idézik.
 
 (2) Az (1) bekezdés a) pontja esetén az elítéltet nem kell előállítani, ha törvény lehetőséget ad arra, hogy a terhelt nyilatkozzon jelenléti szándékáról, és az elítélt nemleges nyilatkozatot tesz.
 
-(2a) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyben az ügyiratok Be. 100. §-a és a 352. §-a szerinti megismerési jogának biztosítása érdekében – a bíróság, az ügyészség vagy a nyomozó hatóság az előállítás elrendelésével – annak helyéről és időpontjáról az elítéltet értesíti.
+(2a) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyben az ügyiratok Be. 100. §-a és a 352. §-a szerinti megismerési jogának biztosítása érdekében – a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság az előállítás elrendelésével – annak helyéről és időpontjáról az elítéltet értesíti.
 
 (3) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyekben alkalmazandó közvetítői tevékenységet végző közvetítő sértettként, terheltként vagy ezek törvényes képviselőjeként a közvetítői megbeszélés vagy a megállapodás aláírásának helyéről és időpontjáról értesíti.
 

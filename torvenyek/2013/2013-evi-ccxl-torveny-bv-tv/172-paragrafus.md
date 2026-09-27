@@ -4,7 +4,7 @@
 
 (2) Az elítélt kapcsolattartása az e törvényben meghatározottak szerint, a bv. intézet rendje és a fogvatartás biztonsága érdekében ellenőrizhető. A bv. intézet rendje és a fogvatartás biztonsága érdekében, vagy egészségügyi okból a kapcsolattartás korlátozásának is helye lehet.
 
-(3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
+(3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség, illetve az NVVH az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
 
 (4) Az elítélttel szemben folyamatban lévő büntetőeljárás adataira figyelemmel a Be. 276. § (2) bekezdésében meghatározott célból a rendelkezési jogkör gyakorlója
 

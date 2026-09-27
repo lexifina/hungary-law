@@ -10,9 +10,9 @@ c) próbára bocsátás próbaideje alatt,
 
 d) jóvátételi munka elrendelése mellett
 
-a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) pontokban foglalt, a büntetés-végrehajtási pártfogó felügyelő pedig az a) pontban foglalt esetben javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyészségnek.
+a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) pontokban foglalt, a büntetés-végrehajtási pártfogó felügyelő pedig az a) pontban foglalt esetben javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyészségnek, illetve a c) és d) pontban foglalt esetben, ha az NVVH járt el, az NVVH-nak.
 
-(2) Ha az ügyészség a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól vagy a büntetés-végrehajtási pártfogótól további bizonyítási eszközök megjelölését kéri.
+(2) Ha az ügyészség, illetve az NVVH a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól vagy a büntetés-végrehajtási pártfogótól további bizonyítási eszközök megjelölését kéri.
 
 (3) Ha a magatartási szabályok – (1) bekezdés szerinti – megszegése miatt
 
@@ -24,4 +24,4 @@ c) a Btk. 65. § (4) bekezdése szerint a próbaidő meghosszabbításának vagy
 
 d) a Btk. 68. § (2) bekezdése szerint a jóvátételi munka helyett büntetés kiszabásának
 
-lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a büntetés-végrehajtási bírónál, a c)–d) pontban meghatározott esetben az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
+lehet helye, azt az a) és b) pontban meghatározott esetben az ügyészség a büntetés-végrehajtási bírónál, a c) és d) pontban meghatározott esetben az ügyészség, illetve az NVVH az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.

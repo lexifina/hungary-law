@@ -1,4 +1,4 @@
-429. § (1) Az őrizetet elrendelő bíróság, ügyészség vagy nyomozó hatóság vezetője (az őrizet végrehajtása tekintetében a továbbiakban: a rendelkezési jogkör gyakorlója) dönt az őrizetbe vett személy
+429. § (1) Az őrizetet elrendelő bíróság, ügyészség, NVVH vagy nyomozó hatóság vezetője (az őrizet végrehajtása tekintetében a továbbiakban: a rendelkezési jogkör gyakorlója) dönt az őrizetbe vett személy
 
 a) fokozott őrzéséről,
 

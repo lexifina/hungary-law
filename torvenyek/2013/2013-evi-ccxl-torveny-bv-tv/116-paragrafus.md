@@ -8,7 +8,7 @@ b) az a) pontban szabályozottnál hosszabb időre, de legfeljebb egyévi időta
 
 dönt.
 
-(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyészség vagy a bíróság véleményét be kell szerezni.
+(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyészség, illetve az NVVH vagy a bíróság véleményét be kell szerezni.
 
 (3) Nem engedélyezhető a szabadságvesztés félbeszakítása, ha a bíróság az életfogytig tartó szabadságvesztést kimondó ügydöntő határozatban a feltételes szabadságra bocsátás lehetőségét kizárta.
 

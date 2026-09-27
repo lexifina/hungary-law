@@ -29,9 +29,3 @@ f) azt az időpontot, amíg az elítéltnek Magyarország területét el kellett
 g) az elítéltnek azt a kötelezettségét, hogy a reintegrációs őrizet befejező időpontja előtt Magyarország területére nem térhet vissza
 
 a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjáig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének központi szervét az adatok törlése érdekében.
-
-(4) A (2) bekezdés szerinti reintegrációs őrizettel kapcsolatosan a rendőrség idegenrendészeti szervének központi szerve az elítéltnek a (3) bekezdésben meghatározott adatait, valamint az elítélt ujjnyomat adatát a kiutasítás tartamának leteltét követő öt évig kezeli. Ha a büntetés-végrehajtás országos parancsnoka a reintegrációs őrizetet megszünteti, erről tájékoztatja a rendőrség idegenrendészeti szervének központi szervét annak egyidejű közlésével, hogy az elítélt mikor tölti ki a szabadságvesztést, amely időpontig a kiutasítás végrehajtása nyugszik.
-
-(5) A büntetés-végrehajtás országos parancsnoka a külföldi elítélt szabadságvesztésének félbeszakítását határozattal megszünteti, ha az igazságügyért felelős miniszter tájékoztatása szerint a szabadságvesztés végrehajtását a másik állam nem vette át vagy az meghiúsult. A határozattal szemben felülvizsgálati kérelem nyújtható be. Az eljárás lefolytatására a szabadságvesztés átadása során eljáró büntetés-végrehajtási bíró illetékes.
-
-(6) A félbeszakítás megszüntetéséről az elítéltet írásban haladéktalanul tájékoztatni kell, és fel kell hívni, hogy a megadott időpontban a szabadságvesztést végrehajtó intézetben jelentkezzen. Ha a határozat azért nem volt kézbesíthető, mert az elítélt ismeretlen helyre távozott, a 19. § szerint intézkedni kell a felkutatása érdekében.

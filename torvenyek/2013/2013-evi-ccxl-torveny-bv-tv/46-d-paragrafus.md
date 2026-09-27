@@ -10,7 +10,7 @@
 
 a) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során bíróként eljárt,
 
-b) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során ügyészként eljárt,
+b) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során ügyészként, illetve az NVVH tagjaként eljárt,
 
 c) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben a nyomozó hatóság tagjaként eljárt,
 

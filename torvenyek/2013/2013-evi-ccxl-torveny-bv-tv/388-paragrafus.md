@@ -20,8 +20,8 @@ b) a gyermekét a bíróság a letartóztatás elrendelésekor ideiglenes hatál
 
 (3b) A bíróság a (3) és (3a) bekezdésben meghatározott kérdésekben egy határozattal is meghozhatja a döntést.
 
-(3c) A bíróság az ügyészség indítványára a 109. § (1) bekezdésében meghatározott feltétel fennállása esetén a letartóztatottat három hónapra a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezheti, amelyet az ügyészség indítványára alkalmanként további három hónappal meghosszabbíthat. A részlegre helyezés vagy annak meghosszabbítása indítványozása érdekében a bv. intézet tehet javaslatot az ügyészségnek.
+(3c) A bíróság az ügyészség, illetve az NVVH indítványára a 109. § (1) bekezdésében meghatározott feltétel fennállása esetén a letartóztatottat három hónapra a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezheti, amelyet az ügyészség, illetve az NVVH indítványára alkalmanként további három hónappal meghosszabbíthat. A részlegre helyezés vagy annak meghosszabbítása indítványozása érdekében a bv. intézet tehet javaslatot az ügyészségnek, illetve az NVVH-nak.
 
-(4) A (2)–(3a) és (3c) bekezdés esetén a fogva tartó intézet vezetője értesíti az ügyészséget, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
+(4) A (2)–(3a) és (3c) bekezdés esetén a fogva tartó intézet vezetője értesíti az ügyészséget, illetve az NVVH-t, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
 
 (5) A letartóztatott befogadására a bv. intézetben kerül sor.
