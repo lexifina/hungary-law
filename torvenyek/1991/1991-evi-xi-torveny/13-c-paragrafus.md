@@ -18,7 +18,7 @@ b) ha a kötelezett az a) pont szerinti kötelezésnek nem tesz eleget, úgy meg
 
 a) az elrendelés oka már nem áll fenn,
 
-b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
+b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
 
 c) azt az egészségügyi államigazgatási szerv határozatával szemben kezdeményezett közigazgatási perben eljáró bíróság által biztosított azonnali jogvédelem indokolja.
 
