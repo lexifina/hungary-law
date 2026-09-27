@@ -8,11 +8,11 @@ b) a vámhatóságnak a vámeljáráshoz,
 
 c) a bíróságnak büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
-d) a nyomozó hatóságnak és az ügyészségnek bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
+d) a nyomozó hatóságnak, az ügyészségnek és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
 
 e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
+f) az Állami Számvevőszéknek, az NVVH-nak és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
 
 g) az állami adóhatóságnak adóellenőrzési célra,
 
