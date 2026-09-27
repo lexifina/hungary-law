@@ -163,5 +163,3 @@
 ## 7. hatályos fegyelmi büntetés
 
 ## 8. pályázatának adatai
-
-## 9. kompetenciaadatai

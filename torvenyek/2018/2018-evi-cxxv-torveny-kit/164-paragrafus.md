@@ -46,7 +46,7 @@ c) a leltárhiányt a kormányzati igazgatási szerv által meghatározott lelt�
 
 (18) A kormánytisztviselő a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
 
-(19) A leltárhiányért fennálló felelősség megállapítására a (26) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a (13) bekezdés szerint felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
+(19) A leltárhiányért fennálló felelősség megállapítására a (26) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a (13) bekezdés szerint felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
 
 (20) Ha a kárt többen együttesen okozták, azt vétkességük arányában, ha ez nem állapítható meg, közrehatásuk arányában viselik. A kárt a kormánytisztviselők egyenlő arányban viselik, ha a vétkesség vagy a közrehatás arányát nem lehet megállapítani.
 
