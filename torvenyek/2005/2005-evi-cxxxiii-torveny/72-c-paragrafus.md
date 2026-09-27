@@ -48,7 +48,7 @@ b) a Rendőrségről szóló törvényben, valamint a Nemzeti Adó- és Vámhiva
 
 c) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárásban az előkészítő eljárást folytató szerv,
 
-d) a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség és a bíróság, valamint
+d) a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség, az NVVH és a bíróság, valamint
 
 e) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési eljárást lefolytató szerv
 
