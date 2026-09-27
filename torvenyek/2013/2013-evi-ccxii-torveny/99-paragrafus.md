@@ -56,7 +56,7 @@ b) a kisajátítási eljáráshoz,
 
 c) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz elbírálásához,
 
-d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
+d) bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
 
 e) mezőgazdasági igazgatási szerv részére a (4) bekezdés c) pontjában meghatározott feladatai ellátásához.
 
