@@ -36,7 +36,7 @@ f) a vállalkozásnak a fenti adatok alapján előállított kockázati besorol�
 
 (5) A kockázatértékelő rendszerből igényelheti
 
-a) a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat,
+a) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat,
 
 b) a közlekedési hatóságok, valamint a 20. § (11) bekezdés a) pont aa) és ac) alpontja, b) pont ba) és bb) alpontja, c)–h) pontja, a (11a) és a (11b) bekezdése szerinti, a közúti járművek közlekedésének ellenőrzésére jogosult szervezetek az e törvényben megjelölt feladataik ellátásához szükséges adatokat,
 

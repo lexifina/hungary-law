@@ -136,7 +136,7 @@ a) a bíróság, a közigazgatási bírsággal kapcsolatos közigazgatási per l
 
 b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 
-c) a bíróság, az ügyészség és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
+c) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
 
 d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 

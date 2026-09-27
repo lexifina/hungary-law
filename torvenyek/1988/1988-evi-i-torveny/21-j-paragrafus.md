@@ -16,13 +16,13 @@ e) az adatigénylő nevét vagy megnevezését.
 
 (4) A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét.
 
-(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
+(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
 
 (6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
-b) büntetőeljárás során a bíróság, az ügyészség, a nyomozó hatóság, illetve az előkészítő eljárást folytató szerv,
+b) büntetőeljárás során a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, illetve az előkészítő eljárást folytató szerv,
 
 c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 

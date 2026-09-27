@@ -4,7 +4,7 @@ a) a 20. § (11) bekezdésében, valamint a 21. § (4) bekezdésében meghatáro
 
 b) a rendőrség,
 
-c) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
+c) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 
 d) a bíróság.
 
