@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-105-00-00
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2015-105-00-00.21 |
 | 2025-04-25 | 2025. évi V. törvény | 2015-105-00-00.26 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2015-105-00-00.27 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2015-105-00-00.28 |
