@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2023-01-01 | 2022. évi LX. törvény | 1995-107-00-00.35 |
 | 2024-08-01 | 2024. évi XVIII. törvény | 1995-107-00-00.36 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 1995-107-00-00.37 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 1995-107-00-00.38 |

@@ -12,6 +12,8 @@ e) a nemzetbiztonsági szolgálatok,
 
 f) a Nemzeti Adatvédelmi és Információszabadság Hatóság
 
+g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal
+
 részére.
 
 (2) Az (1) bekezdésben nem említett állami szervek, nemzetközi és egyéb szervezetek, továbbá az állampolgárok részére — törvényben meghatározott esetben hivatalból, egyébként kérelemre — a feladataik ellátásához, illetve a jogaik érvényesítéséhez szükséges adatokat – a 28/B. § (2) bekezdésében meghatározott adatok kivételével – az adatkezelő szerv továbbítja, valamint az iratokról tájékoztatást ad.
