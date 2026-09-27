@@ -18,10 +18,10 @@ g) a terhelt nyilatkozatából vagy magatartásából egyértelműen megállapí
 
 h) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
 
-(1a) Ha az ügyészség a büntetőeljárást nem függeszti fel, az (1) bekezdés a) és b) pontja nem alkalmazható. Ebben az esetben a közvetítői eljárás azon a napon fejeződik be, amikor a létrejött megállapodásról kiállított okiratot a sértett és a terhelt aláírta.
+(1a) Ha az ügyészség, illetve az NVVH a büntetőeljárást nem függeszti fel, az (1) bekezdés a) és b) pontja nem alkalmazható. Ebben az esetben a közvetítői eljárás azon a napon fejeződik be, amikor a létrejött megállapodásról kiállított okiratot a sértett és a terhelt aláírta.
 
 (2) A büntetőeljárás felfüggesztése esetén a megállapodás teljesítését a közvetítő ellenőrzi.
 
-(3) A büntetőeljárás felfüggesztése esetén, ha a terhelt a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget a befejezés várható idejéről.
+(3) A büntetőeljárás felfüggesztése esetén, ha a terhelt a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget, illetve az NVVH-t a befejezés várható idejéről.
 
-(4) Ha az ügyészség a büntetőeljárást nem függeszti fel, a terhelt a megállapodásban vállalhatja, hogy a megállapodás teljesítését igazolja a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak.
+(4) Ha az ügyészség, illetve az NVVH a büntetőeljárást nem függeszti fel, a terhelt a megállapodásban vállalhatja, hogy a megállapodás teljesítését igazolja a bíróságnak, az ügyészségnek, illetve az NVVH-nak vagy a nyomozó hatóságnak.

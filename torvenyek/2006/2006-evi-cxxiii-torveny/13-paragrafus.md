@@ -12,6 +12,6 @@ b) az eljárás költségeit ki viseli.
 
 (3) A megállapodásban vállalt kötelezettségek más jogait és jogos érdekeit nem sérthetik, a kötelezettségeknek meg kell felelniük a jogszabályoknak, és nem ütközhetnek a jó erkölcsbe.
 
-(4) A közvetítő a sértett és terhelt között létrejött – az (1)–(3) bekezdésben írtaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett és a terhelt is aláír. A közvetítő az okiratot haladéktalanul kézbesíti a sértettnek, a terheltnek, és az ügyészségnek. A megállapodásról kiállított okirat közokirat.
+(4) A közvetítő a sértett és terhelt között létrejött – az (1)–(3) bekezdésben írtaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett és a terhelt is aláír. A közvetítő az okiratot haladéktalanul kézbesíti a sértettnek, a terheltnek, és az ügyészségnek, illetve az NVVH-nak. A megállapodásról kiállított okirat közokirat.
 
 (5) A közvetítői eljárásban keletkezett iratok abban a büntetőeljárásban, amelyben a közvetítői eljárásra sor került, bizonyítékként nem használhatók fel, kivéve a megállapodást tartalmazó okiratot és a közvetítő jelentését.

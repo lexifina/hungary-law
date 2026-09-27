@@ -6,7 +6,7 @@
 
 a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát és a terhelt nevét,
 
-b) az ügyészség megnevezését és ügyszámát,
+b) az ügyészség, illetve az NVVH megnevezését és ügyszámát,
 
 c) a közvetítői megbeszélés helyét, megkezdésének és befejezésének időpontját,
 

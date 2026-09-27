@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-123-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2006-123-00-00.15 |
 | 2025-07-01 | 2024. évi LXIV. törvény | 2006-123-00-00.16 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2006-123-00-00.17 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2006-123-00-00.18 |

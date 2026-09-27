@@ -6,4 +6,4 @@
 
 (3a) A sértett, a terhelt megismerheti a közvetítői megbeszélésről készült feljegyzést, valamint a másik fél által benyújtott ügyiratot. A megismerés jogát a közvetítő az ügyirat megtekintésének, erre irányuló külön indítvány vagy hozzájárulás esetén az ügyirat tartalmáról felvilágosítás adásával, tájékoztatás nyújtásával vagy a félnek saját részre történő másolat vagy felvétel készítésének lehetővé tételével biztosítja.
 
-(4) Ha a közvetítői eljárás során a közvetítő az ügyészség hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészséget tájékoztatja.
+(4) Ha a közvetítői eljárás során a közvetítő az ügyészség, illetve az NVVH hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészséget, illetve az NVVH-t tájékoztatja.
