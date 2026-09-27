@@ -2,7 +2,7 @@
 
 69. § (1) A Kamara az igazságügyi szakértő kamarai tagságát felfüggeszti, ha
 
-a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyészség vagy
+a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyészség vagy az NVVH vagy
 
 b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő szakmai kamarai tagsága felfüggesztésre került.
 
@@ -18,7 +18,7 @@ d) által szolgáltatott statisztikai adatok eltérnek a 2. melléklet szerint v
 
 e) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget, és annak felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után sem tesz eleget.
 
-(2) Az (1) bekezdés a) pontja szerinti vádemelésről az ügyész értesíti a Kamarát és a névjegyzéket vezető hatóságot.
+(2) Az (1) bekezdés a) pontja szerinti vádemelésről az ügyész vagy az NVVH értesíti a Kamarát és a névjegyzéket vezető hatóságot.
 
 (3) Az igazságügyi szakértő kamarai tagságának felfüggesztését a névjegyzéket vezető hatóság kezdeményezheti.
 
