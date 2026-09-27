@@ -8,4 +8,4 @@
 
 (4) Az (1) bekezdés szerinti adatkezelő a műveleti feladatellátás során keletkezett adatokat a keletkezésüktől számított 30 évig kezeli.
 
-(5) Az (1) bekezdés szerinti adatkezelő a Hvt. 48. alcímében meghatározott feladatok hatékony végrehajtása érdekében az e § alapján kezelt adatokat a rendőrség, a hivatásos katasztrófavédelmi szerv, a bíróság, az ügyészség, a nemzetbiztonsági szolgálatok, valamint Magyarország kiberterének védelmére kijelölt vagy abban közreműködő állami szervek részére jogosult továbbítani.
+(5) Az (1) bekezdés szerinti adatkezelő a Hvt. 48. alcímében meghatározott feladatok hatékony végrehajtása érdekében az e § alapján kezelt adatokat a rendőrség, a hivatásos katasztrófavédelmi szerv, a bíróság, az ügyészség, az NVVH, a nemzetbiztonsági szolgálatok, valamint Magyarország kiberterének védelmére kijelölt vagy abban közreműködő állami szervek részére jogosult továbbítani.

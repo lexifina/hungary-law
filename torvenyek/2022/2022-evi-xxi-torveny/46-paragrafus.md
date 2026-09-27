@@ -1,6 +1,6 @@
 46. § A 38. és 39. §-ban foglaltakon kívül egészségügyi ellátóhálózaton kívüli adattovábbításnak minősül
 
-a) büntetőügyben a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági, illetve közigazgatási peres ügyben a bíróság, az ügyészség, a közigazgatási hatóság, az igazságügyi szakértő adatkérésének teljesítése,
+a) büntetőügyben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági, illetve közigazgatási peres ügyben a bíróság, az ügyészség, a közigazgatási hatóság, az igazságügyi szakértő adatkérésének teljesítése,
 
 b) szabálysértési eljárás során az eljárást lefolytató szervek adatkérésének teljesítése,
 

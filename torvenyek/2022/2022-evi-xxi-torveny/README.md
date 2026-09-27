@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-21-00-00
 | 2026-01-01 | 2025. évi LXXX. törvény | 2022-21-00-00.5 |
 | 2026-01-02 | 2022. évi XXII. törvény | 2022-21-00-00.6 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2022-21-00-00.14 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2022-21-00-00.15 |
