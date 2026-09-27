@@ -8,7 +8,7 @@ c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében elj�
 
 d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
 
-e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel és az NVVH-val,
 
 f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
