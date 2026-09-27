@@ -4,7 +4,7 @@
 
 (2) A 114. § (1) bekezdésében meghatározott adatok közül
 
-a) a tanuló családi és utóneve, születési helye és ideje, lakóhelye, tartózkodási helye, törvényes képviselője családi és utóneve, lakcíme és telefonszáma, a tanulói jogviszony kezdete, szünetelésének ideje, megszűnése, az egyéni tanulmányi renddel kapcsolatos adatok, a tanuló mulasztásával kapcsolatos adatok a tartózkodásának megállapítása, a tanítási napon a foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a törvényes képviselővel való kapcsolatfelvétel céljából, a tanulói jogviszony fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, a bíróság, a rendőrség, az ügyészség, a települési önkormányzat jegyzője, a közigazgatási szerv és a nemzetbiztonsági szolgálat részére,
+a) a tanuló családi és utóneve, születési helye és ideje, lakóhelye, tartózkodási helye, törvényes képviselője családi és utóneve, lakcíme és telefonszáma, a tanulói jogviszony kezdete, szünetelésének ideje, megszűnése, az egyéni tanulmányi renddel kapcsolatos adatok, a tanuló mulasztásával kapcsolatos adatok a tartózkodásának megállapítása, a tanítási napon a foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a törvényes képviselővel való kapcsolatfelvétel céljából, a tanulói jogviszony fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, a bíróság, a rendőrség, az ügyészség, az NVVH, a települési önkormányzat jegyzője, a közigazgatási szerv és a nemzetbiztonsági szolgálat részére,
 
 b) a tanuló felvételével, átvételével kapcsolatos adatok az érintett iskola, szakképző intézmény, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézmény részére,
 
@@ -20,7 +20,7 @@ g) a honvédségi szakképző intézményben tanuló honvéd altiszt-jelöltek a
 
 továbbítható.
 
-(3) A 114. §-ban meghatározott adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, a rendőrségnek, az ügyészségnek, a szakképzési államigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak és a nemzetbiztonsági szolgálatnak. A pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
+(3) A 114. §-ban meghatározott adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, a rendőrségnek, az ügyészségnek, az NVVH-nak, a szakképzési államigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak és a nemzetbiztonsági szolgálatnak. A pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
 
 (4) A tanuló
 
