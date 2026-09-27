@@ -149,5 +149,3 @@ A kifogástalan életvitel ellenőrzése során kezelt személyes és bűnügyi 
 ## 1. a jogviszony alatt megállapított illetmények, kifizetések adatai,
 
 ## 2. jubileumi jutalomra vonatkozó adatok,
-
-## 3. lakhatási támogatásokra vonatkozó adatok,

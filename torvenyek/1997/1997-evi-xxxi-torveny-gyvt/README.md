@@ -107,3 +107,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2026-03-01 | 2025. évi XCIII. törvény | 1997-31-00-00.138 |
 | 2026-05-14 | 2026. évi XIV. törvény | 1997-31-00-00.143 |
 | 2026-09-01 | 2026. évi XLIV. törvény | 1997-31-00-00.140 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 1997-31-00-00.145 |

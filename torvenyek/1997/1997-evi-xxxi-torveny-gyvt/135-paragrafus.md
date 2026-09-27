@@ -214,7 +214,7 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, az NVVH, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 a) az az adott gyermekre tartalmaz-e adatot,
 

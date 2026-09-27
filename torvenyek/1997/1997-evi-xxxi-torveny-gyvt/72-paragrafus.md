@@ -4,7 +4,7 @@
 
 72. § (1) Ha a gyermek
 
-a) felügyelet nélkül marad, vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a gyámhatóság, valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket azonnal végrehajtható határozatával ideiglenesen
+a) felügyelet nélkül marad, vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a gyámhatóság, valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket azonnal végrehajtható határozatával ideiglenesen
 
 aa) a nevelésére alkalmas, azt vállaló különélő szülőnél, más hozzátartozónál, illetve személynél helyezi el, vagy
 

@@ -10,7 +10,7 @@ továbbíthatók.
 
 a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
 
-b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
+b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 
 c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése
 
