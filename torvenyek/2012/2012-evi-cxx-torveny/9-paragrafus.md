@@ -63,3 +63,5 @@ g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben
 h) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
 i) az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy, az adott területen más az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy jogszerű tevékenységének az ellenőrzése céljából.
+
+j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal jogszabályban meghatározott feladatai ellátása céljából.
