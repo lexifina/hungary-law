@@ -1,6 +1,6 @@
 19. § (1) A nyilvántartásból igényelheti(k):
 
-a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
+a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 
 b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 
