@@ -20,6 +20,6 @@ elérhetővé tételével összefügg.
 
 a) az elrendelés oka már nem áll fenn, vagy
 
-b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban.
+b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban.
 
 (7) Az élelmiszerlánc-felügyeleti szerv e § szerinti intézkedés végrehajtásának időtartama alatt honlapján közzéteszi annak a honlapnak az elérhetőségét, amelynek tekintetében véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
