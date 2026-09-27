@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-115-00-00
 | 2025-01-01 | 2024. évi LVI. törvény | 2009-115-00-00.29 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2009-115-00-00.30 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2009-115-00-00.31 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2009-115-00-00.33 |
