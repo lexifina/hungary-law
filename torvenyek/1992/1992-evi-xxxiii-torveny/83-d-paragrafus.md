@@ -10,7 +10,7 @@ d)
 
 e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 
-f) a közalkalmazott ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+f) a közalkalmazott ellen indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 
 g) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
 
