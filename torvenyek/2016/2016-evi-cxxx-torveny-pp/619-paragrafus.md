@@ -1,6 +1,6 @@
 ### 619. § [Az elektronikus formátumban rendelkezésre álló irat továbbítása]
 
-(1) Az 50. alcímben foglalt jogosultságok gyakorlása érdekében a fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt elektronikus levélcímre továbbítsa a bíróság, ha az irat
+(1) Az 50. alcímben foglalt jogosultságok gyakorlása érdekében a fél, az ügyész, az NVVH és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt elektronikus levélcímre továbbítsa a bíróság, ha az irat
 
 a) elektronikus formában,
 

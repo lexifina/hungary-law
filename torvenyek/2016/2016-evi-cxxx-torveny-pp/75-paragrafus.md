@@ -8,9 +8,11 @@ b) a kamarai jogtanácsost, az ügyvédi tevékenységről szóló törvényben 
 
 c) a jogi személy bíróság képviseletére jogosult bírót és bírósági titkárt,
 
-d) a Legfőbb Ügyészség képviseletére jogosult ügyészt, valamint
+d) a Legfőbb Ügyészség képviseletére jogosult ügyészt,
 
-e) törvényben meghatározott egyéb személyeket.
+e) az NVVH képviseletére jogosult jogtanácsost, valamint beosztott ügyészt, valamint
+
+f) törvényben meghatározott egyéb személyeket.
 
 (2) Ha a jogi képviselet kötelező – törvény eltérő rendelkezése hiányában –
 

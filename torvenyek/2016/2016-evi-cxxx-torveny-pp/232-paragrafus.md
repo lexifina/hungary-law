@@ -6,6 +6,6 @@
 
 (3) A bíróság tagjairól, a jegyzőkönyvvezetőről és az ügyészről, valamint törvény eltérő rendelkezése hiányában az állami vagy helyi önkormányzati feladatot, illetve jogszabályban meghatározott egyéb közfeladatot ellátó, e feladatkörében eljáró személyről hozzájárulása nélkül készíthető kép- és hangfelvétel.
 
-(4) Az ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, szakértőről, és szemletárgy birtokosáról csak kifejezett hozzájárulásuk esetén készíthető kép- és hangfelvétel, valamint a természetes személy fél teljes neve csak hozzájárulásával tüntethető fel médiatartalomban. Szükség esetén a bíróság e személyeket a hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni.
+(4) Az ügyész, illetve az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, szakértőről, és szemletárgy birtokosáról csak kifejezett hozzájárulásuk esetén készíthető kép- és hangfelvétel, valamint a természetes személy fél teljes neve csak hozzájárulásával tüntethető fel médiatartalomban. Szükség esetén a bíróság e személyeket a hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni.
 
 (5) Az e §-ban foglaltak betartásáról és a (4) bekezdésben említett személyek személyiségi jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.

@@ -4,7 +4,7 @@
 
 (2) Ha az eljárás szünetelés folytán megszűnik, a meg nem fizetett illetéket és az állam által előlegezett költséget a megfizetés alól mentességet biztosító költségkedvezmény hiányában a felperes fizeti meg.
 
-(3) Az ügyész, valamint a perindításra feljogosított személy a meg nem fizetett illeték és az állam által előlegezett költség megfizetésére nem köteles.
+(3) Az ügyész, az NVVH, valamint a perindításra feljogosított személy a meg nem fizetett illeték és az állam által előlegezett költség megfizetésére nem köteles.
 
 (4) Ha jogszabály értelmében a keresetet ügygondnok ellen kell megindítani, az ügygondnok a meg nem fizetett illeték és állam által előlegezett költség megfizetésére, a fél pedig az ügygondnok állam által előlegezett díjának a megfizetésére nem köteles.
 

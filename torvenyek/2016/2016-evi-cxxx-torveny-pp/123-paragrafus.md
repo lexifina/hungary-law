@@ -6,7 +6,7 @@
 
 a) a közigazgatási hatósági eljárás jogerős vagy végleges befejezéséig,
 
-b) a büntetőeljárás jogerős vagy végleges befejezéséig, valamint az ügyészség, nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig
+b) a büntetőeljárás jogerős vagy végleges befejezéséig, valamint az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig
 
 felfüggesztheti. Ha ez az eljárás még megindítva nincs, a bíróság az eljárás megindítására harmincnapos határidőt tűz. Ha a határidő eredménytelenül telik le, a peres eljárást folytatni kell.
 
