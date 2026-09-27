@@ -14,9 +14,11 @@ d) a Nemzeti Adó- és Vámhivatal nyomozó hatósága,
 
 e) a honvédelmi igazgatás szervei,
 
-f) a büntetés-végrehajtás szerve, továbbá
+f) a büntetés-végrehajtás szerve,
 
-g) az igazságügyért felelős minisztérium nemzetközi bűnügyi együttműködésért felelős szerve
+g) az igazságügyért felelős minisztérium nemzetközi bűnügyi együttműködésért felelős szerve, továbbá
+
+h) az NVVH
 
 részére.
 

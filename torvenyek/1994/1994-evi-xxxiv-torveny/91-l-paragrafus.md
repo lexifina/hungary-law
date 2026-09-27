@@ -22,7 +22,7 @@ a) Magyarország államhatárát nem határátkelőhelyen vagy határátlépési
 
 b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
 
-(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
@@ -50,6 +50,6 @@ a) – ha e cselekmények megelőzésére, felderítésére feladat- és hatásk
 
 b) a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szerv,
 
-c) a büntetőügyben eljáró nyomozó hatóság, ügyészség és bíróság
+c) a büntetőügyben eljáró nyomozó hatóság, ügyészség, az NVVH és bíróság
 
 az Európai Határregisztrációs Rendszerből adatot igényelhet a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem útján.

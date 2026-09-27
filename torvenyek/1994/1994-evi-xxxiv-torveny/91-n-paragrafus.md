@@ -38,7 +38,7 @@ a rendőrség a gyorsított átléptetésre való jogosultság a)–d) pontban m
 
 (6) A (2) bekezdés szerinti személy határforgalom-ellenőrzése során a 91/K. §-ban foglaltaktól az (EU) 2016/399 európai parlamenti és tanácsi rendelettel összhangban lehet eltérni.
 
-(7) A rendőrség a (2) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladata teljesítése érdekében a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(7) A rendőrség a (2) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladata teljesítése érdekében a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 (8) A határ menti ingázó foglalkoztatója az általa foglalkoztatott határ menti ingázó személy (2) bekezdés a)–h) pontja szerinti adatait előzetes tájékoztatásként átadhatja a rendőrség részére, amelyben tájékoztatást nyújthat arról is, hogy az érintett személy a (2) bekezdés szerinti adatállományba való felvétel iránti kérelmét a határátlépés során jelezni fogja. A rendőrség az előzetes tájékoztatás keretében kapott adatokat az átadástól számított 60 napig kezeli.
 
@@ -56,4 +56,4 @@ e) a kérelmező elektronikus elérhetősége.
 
 (10) A rendőrség a (9) bekezdés szerinti adatokat a kérelem rögzítésétől számított 180 napig kezeli.
 
-(11) A rendőrség a (9) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladatai teljesítése érdekében a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(11) A rendőrség a (9) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladatai teljesítése érdekében a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
