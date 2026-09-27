@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-12-00-00
 | 2025-12-24 | 2025. évi C. törvény | 2025-12-00-00.4 |
 | 2026-06-14 | 2025. évi C. törvény | 2025-12-00-00.5 |
 | 2026-07-18 | 2026. évi XXVII. törvény | 2025-12-00-00.6 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2025-12-00-00.7 |
