@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2024-09-01 | 2023. évi CIX. törvény | 2012-1-00-00.34 |
 | 2025-01-01 | 2024. évi LVII. törvény | 2012-1-00-00.37 |
 | 2025-02-28 | 1/2025. (II. 27.) AB határozat | 2012-1-00-00.38 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2012-1-00-00.39 |
