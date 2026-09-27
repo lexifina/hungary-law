@@ -2,11 +2,11 @@
 
 a) Felügyelettel,
 
-b) az Állami Számvevőszékkel,
+b) az Állami Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH),
 
 c) a pénztárak működése törvényességének ellenőrzésére jogosult ügyészséggel,
 
-d) a folyamatban levő büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal és pénztártitok esetén az előkészítő eljárást folytató szervvel,
+d) a folyamatban levő büntetőeljárás során eljáró ügyészséggel, NVVH-val, nyomozó hatósággal és pénztártitok esetén az előkészítő eljárást folytató szervvel,
 
 e) külön törvényben meghatározott feltételek megléte esetén a titkos információ gyűjtésre felhatalmazott szervvel,
 
@@ -44,7 +44,7 @@ b) törvény a pénztártitok megtartásának kötelezettsége alól felmentést
 
 (3) Aki üzleti titok vagy pénztártitok birtokába jut, nem használhatja fel arra, hogy annak révén saját maga vagy más személy részére közvetlen vagy közvetett módon előnyt szerezzen, továbbá, hogy a pénztárnak vagy a pénztártagoknak hátrányt okozzon.
 
-(4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénztár az ügyészségnek az ügyfélre vagy a pénztári szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénztár az ügyészségnek vagy az NVVH-nak az ügyfélre vagy a pénztári szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (5)
 
@@ -58,4 +58,4 @@ a) a pénztár a pénzmosás és a terrorizmus finanszírozása megelőzésérő
 
 b) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér pénztártitoknak vagy üzleti titoknak minősülő adatot a pénztártól.
 
-(9) A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénztár a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+(9) A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénztár a nyomozó hatósággal, az ügyészséggel vagy az NVVH-val együttműködési megállapodást köthet.
