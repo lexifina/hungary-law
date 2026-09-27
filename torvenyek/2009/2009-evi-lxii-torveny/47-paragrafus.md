@@ -40,6 +40,8 @@ n) a 46. § (2) bekezdés a), d) és e) pontjában foglalt adatok tekintetében 
 
 o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
 
+p) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan.
+
 (2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), g)–m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti, jogszabályban előírt elektronikus kommunikációs kapcsolaton, illetve az erre a célra szolgáló internetes felületen keresztül – teljesíti.
 
 (2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.

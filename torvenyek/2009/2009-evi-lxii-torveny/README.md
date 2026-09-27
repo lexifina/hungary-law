@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-62-00-00
 | 2025-01-01 | 2019. évi CX. törvény | 2009-62-00-00.39 |
 | 2025-05-31 | 2025. évi XXXII. törvény | 2009-62-00-00.45 |
 | 2025-12-24 | 2025. évi C. törvény | 2009-62-00-00.46 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2009-62-00-00.47 |

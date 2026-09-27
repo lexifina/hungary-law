@@ -68,6 +68,8 @@ k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben megh
 
 l) a (4) bekezdésben meghatározott adatokat az e-kárbejelentő rendszer működtetése céljából a MABISZ
 
+m) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal
+
 részére.
 
 (10)
