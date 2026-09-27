@@ -12,7 +12,7 @@ b) a (2)–(4) bekezdésben megjelölt szervek tájékoztatását szolgálja.
 
 a) a bíróságot;
 
-b) az ügyészséget;
+b) az ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;
 
 c) a nyomozó hatóságot;
 

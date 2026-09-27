@@ -8,7 +8,7 @@ b) a döntést a végrehajtásban közreműködő szerv kötelező megkeresése 
 
 c) a döntés tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
 
-d) az ügyészség feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
+d) az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
 
 e) a bíróság az ügy érdemében már határozott – a bíróság által elrendelt új eljárás kivételével –, vagy
 
