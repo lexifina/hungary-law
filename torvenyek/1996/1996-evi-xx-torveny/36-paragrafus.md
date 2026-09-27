@@ -18,9 +18,9 @@
 
 8. a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
 
-9. az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+9. az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
-10. a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, az ellenőrzött anyagokkal és kábítószer-prekurzorokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+10. a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, az ellenőrzött anyagokkal és kábítószer-prekurzorokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
 11. a 32. § 7. pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 
@@ -36,7 +36,7 @@
 
 17. az útlevélhatóság és az eljárásában közreműködő hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
-18. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
+18. az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 
 19. az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
 

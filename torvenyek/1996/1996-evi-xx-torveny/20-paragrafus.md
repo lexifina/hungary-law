@@ -4,6 +4,8 @@ a) az Állami Számvevőszék, ellenőrzési tevékenységének a végzéséhez;
 
 b) az adópolitikáért felelős miniszter, az adóztatás ellenőrzésével, felügyeletével összefüggésben.
 
+c) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH).
+
 (2) Az adóazonosító jel kezelésére törvényben meghatározott feladatkörében eljárva jogosult
 
 a) az Egészségbiztosítási és Nyugdíjbiztosítási Alap, valamint az elkülönített állami pénzalap kezelője, az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben;

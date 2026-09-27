@@ -32,7 +32,7 @@
 
 15. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-16. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
+16. az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 
 17. a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
 
