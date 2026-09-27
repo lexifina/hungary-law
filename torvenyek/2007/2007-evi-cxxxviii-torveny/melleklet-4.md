@@ -81,7 +81,3 @@ ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy
 bb) leírhatóak az említett tőkeelemekből, és
 
 amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik. A visszatartási politika célja az egyéni ösztönzők összhangba hozatala a befektetési vállalkozás, annak hitelezői és ügyfelei hosszú távú érdekeivel.
-
-18a. Ha a befektetési vállalkozás nem bocsát ki a 18. pont szerinti instrumentumokat, a Felügyelet az ugyanazon célkitűzéseknek megfelelő alternatív megoldások alkalmazását is jóváhagyhatja. A Felügyelet korlátozásokat vezethet be az említett instrumentumok típusaira és azok kialakítására vagy megtilthatja bizonyos instrumentumok teljesítményjavadalmazáshoz való használatát.
-
-19. Ha a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.

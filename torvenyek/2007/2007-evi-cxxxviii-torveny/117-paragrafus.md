@@ -32,9 +32,11 @@ g) a központi költségvetési pénzeszközök felhasználásának szabályszer
 
 h) nemzetbiztonsági szolgálattal,
 
-i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel és
+i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel,
 
 j) pénzügyi információs egységként működő hatósággal
+
+k) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH)
 
 szemben.
 
@@ -42,7 +44,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn
 
-a) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
+a) a büntetőeljárás során eljáró ügyészséggel, NVVH-val, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 
 b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
 

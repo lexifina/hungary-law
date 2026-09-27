@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2026-01-11 | 2025. évi C. törvény | 2007-138-00-00.89 |
 | 2026-06-19 | 2025. évi XCIX. törvény | 2007-138-00-00.87 |
 | 2026-07-18 | 2026. évi XXVII. törvény | 2007-138-00-00.91 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2007-138-00-00.93 |

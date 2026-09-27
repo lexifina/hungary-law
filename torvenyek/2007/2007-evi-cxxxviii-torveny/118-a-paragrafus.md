@@ -1,1 +1,1 @@
-118/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési vállalkozás vagy az árutőzsdei szolgáltató a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+118/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési vállalkozás vagy az árutőzsdei szolgáltató a nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást köthet.

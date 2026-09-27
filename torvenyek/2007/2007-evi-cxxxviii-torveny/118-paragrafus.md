@@ -10,7 +10,7 @@ c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató ügyf�
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
+a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, NVVH-val,
 
 b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, központi szerződő féllel, központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
@@ -18,7 +18,7 @@ c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében elj�
 
 d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
 
-e) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
+e) a büntetőeljárás során eljáró ügyészséggel, NVVH-val, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 
 f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
