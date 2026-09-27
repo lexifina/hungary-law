@@ -82,7 +82,7 @@ n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatáro
 
 o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 
-p)
+p) az NVVH-t, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
 q) a Magyar Energetikai és Közmű-szabályozási Hivatalt, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 

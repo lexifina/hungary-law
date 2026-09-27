@@ -116,7 +116,7 @@ h) az adóköteles nyeremény szempontjából a szerencsejáték szervezője, f�
 
 i) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 4. § 4. pontja szerinti foglalkoztató, kivéve a Tbj. 87. §-a szerinti külföldi vállalkozást,
 
-j) letétből történő kifizetés esetén nem lehet a hatóság, nyomozó hatóság, ügyészség, bíróság, ügyvéd, közjegyző és a bírósági végrehajtó,
+j) letétből történő kifizetés esetén nem lehet a hatóság, nyomozó hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), bíróság, ügyvéd, közjegyző és a bírósági végrehajtó,
 
 32. következő időszakra átvihető követelés különbözete: az Áfa tv. 153/A. § (2) bekezdés a) pontja alapján a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként bevallott és az adóhatóság által utólag, a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként megállapított, az adószámlát nem érintő összeg különbözete,
 

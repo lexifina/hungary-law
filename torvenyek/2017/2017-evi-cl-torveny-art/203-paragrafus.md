@@ -26,7 +26,7 @@ a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíth
 
 b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
-(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
+(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
 
 (7) Az adó megállapításához való jog elévülése egy alkalommal tizenkettő hónappal meghosszabbodik, ha
 
