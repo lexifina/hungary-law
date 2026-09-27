@@ -112,3 +112,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2025-08-01 | 2025. évi LVII. törvény | 2011-204-00-00.105 |
 | 2025-09-01 | 2024. évi LXXVI. törvény | 2011-204-00-00.102 |
 | 2025-12-17 | 2025. évi XCV. törvény | 2011-204-00-00.108 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2011-204-00-00.109 |
