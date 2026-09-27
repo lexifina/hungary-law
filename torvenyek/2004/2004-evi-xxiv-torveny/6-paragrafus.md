@@ -1,6 +1,6 @@
 6. § (1) Az 5. § (2) bekezdésében meghatározott adatok – a 21/C. § (2) bekezdésében foglalt kivétellel – az alábbi szervezeteknek továbbíthatók:
 
-a) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
+a) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 
 b) a nemzetbiztonsági szolgálatok, valamint a vámhatóság a törvényben meghatározott feladataik ellátásához;
 
