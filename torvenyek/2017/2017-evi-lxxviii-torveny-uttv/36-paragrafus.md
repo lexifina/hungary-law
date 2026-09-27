@@ -4,7 +4,7 @@
 
 36. § (1) Az ügyvéd kirendelés esetén kirendelt védőként, eseti gondnokként, eseti gyámként, ügygondnokként (a továbbiakban együtt: kirendelt ügyvéd) jár el.
 
-(2) A kirendelt ügyvéd köteles az ügyben eljárni, a hatóság, a nyomozó hatóság, az ügyészség, a közjegyző és a bíróság (e fejezetben a továbbiakban együtt: hatóság) idézésének eleget tenni, továbbá a terhelttel, illetve ha az ügy természete lehetővé teszi, a képviselt személlyel a kapcsolatot késedelem nélkül felvenni.
+(2) A kirendelt ügyvéd köteles az ügyben eljárni, a hatóság, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a közjegyző és a bíróság (e fejezetben a továbbiakban együtt: hatóság) idézésének eleget tenni, továbbá a terhelttel, illetve ha az ügy természete lehetővé teszi, a képviselt személlyel a kapcsolatot késedelem nélkül felvenni.
 
 (3) A területi kamara köteles a kirendelések teljesítése érdekében pihenő- és munkaszüneti napokon ügyvédi ügyeletet biztosítani.
 
