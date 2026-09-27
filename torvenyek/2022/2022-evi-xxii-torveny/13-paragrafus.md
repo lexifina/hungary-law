@@ -60,9 +60,11 @@ e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervne
 
 f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
 
-g) a szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából, valamint
+g) a szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
 h) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak a személyes adatok védelméhez való jog érvényesülésének ellenőrzésével és annak elősegítésével összefüggő feladat- és hatáskörének gyakorlása céljából,
+
+i) NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
 erre irányuló megkeresés alapján adja át.
 

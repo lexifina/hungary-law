@@ -26,7 +26,7 @@ f) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai a
 
 a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása,
 
-b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása,
+b) ügyészségnek, NVVH-nak és nyomozó hatóságnak a büntetőeljárás lefolytatása,
 
 c) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése,
 

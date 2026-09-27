@@ -8,9 +8,11 @@ c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladata
 
 d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából, valamint
+e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 
-f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából
+f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
+
+g) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából
 
 erre irányuló megkeresés alapján adja át.
 
