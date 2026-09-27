@@ -24,7 +24,7 @@ i) a befejezett végrehajtási ügyek irataival kapcsolatban az őrzési idő le
 
 (4) A Kar hivatali szerve a végrehajtási ügyek nyilvántartásából az adatigénylésre jogosult részére szolgáltathat adatokat.
 
-(5) A végrehajtási ügyek nyilvántartásából annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, bírósági végrehajtónak, ügyészségnek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(5) A végrehajtási ügyek nyilvántartásából annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, bírósági végrehajtónak, ügyészségnek, az NVVH-nak, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
 (6) A Kar hivatali szerve írásbeli kérelemre tanúsítványt állít ki
 
@@ -50,6 +50,6 @@ c) a végrehajtási ügyek nyilvántartásából történő adatigénylés telje
 
 d) a naplóból történt adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
 
-(11) Ha a büntetőeljárásban eljáró bíróság, ügyészség és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, a Kar hivatali szerve nem tájékoztathatja az érintettet az adattovábbításról.
+(11) Ha a büntetőeljárásban eljáró bíróság, ügyészség, az NVVH és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, a Kar hivatali szerve nem tájékoztathatja az érintettet az adattovábbításról.
 
 (12) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket. A napló adatait a Kar hivatali szerve az (5) bekezdés szerint eljárva továbbíthatja.
