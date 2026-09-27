@@ -4,7 +4,7 @@
 
 a) a bíró letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 
-b) az ügyészség a bíróval szemben vádat emelt, illetve
+b) az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a bíróval szemben vádat emelt, illetve
 
 c) a bíró szolgálati helyén való jelenléte a tényállás megállapítását gátolná.
 
