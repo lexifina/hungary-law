@@ -46,7 +46,7 @@ cd) a halászati engedély, állami horgászokmány visszavonásának dátumát,
 
 a) jogának vagy jogos érdekének érvényesítése, illetve jogszabályban meghatározott feladatai elvégzése érdekében természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
-b) jogszabályban meghatározott feladataik ellátásához szükséges mértékben a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok
+b) jogszabályban meghatározott feladataik ellátásához szükséges mértékben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok
 
 igényelhetnek adatot.
 
