@@ -10,13 +10,13 @@ d)
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
-a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF), NVVH-val,
 
 b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 
 c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, illetve végelszámolóval,
 
-d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
+d) a büntetőeljárás során az ügyészséggel, az NVVH-val, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 
 e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
@@ -70,7 +70,7 @@ c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 
 (9) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
+(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, az NVVH és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
 
 a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §), tudatmódosító anyaggal visszaéléssel (Btk. 184. §) vagy új pszichoaktív anyaggal visszaéléssel (1978. évi IV. törvény 283/B. §, Btk. 2025. június 15-ig hatályban volt 184–184/C. §),
 
@@ -96,4 +96,4 @@ van összefüggésben.
 
 (13) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a megkeresések teljesítése során köteles a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával eljárni.
 
-(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészségnek az ügyfélre vagy az általa vezetett fizetési számlára, elektronikuspénz-számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészségnek vagy az NVVH-nak az ügyfélre vagy az általa vezetett fizetési számlára, elektronikuspénz-számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.

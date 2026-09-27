@@ -16,7 +16,7 @@ e) a központi költségvetési pénzeszközök felhasználásának szabályszer
 
 f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
 
-g) nyomozó hatósággal, ügyészséggel,
+g) nyomozó hatósággal, ügyészséggel és az NVVH-val,
 
 h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd- vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
