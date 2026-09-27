@@ -12,7 +12,7 @@ b) az igazolatlan távollét időtartama alatt,
 
 c) a munkavégzési (szolgálatteljesítési) kötelezettség alóli mentesítés ideje alatt, kivéve, ha a munkavégzés alóli mentesítés idejére a munkaviszonyra vonatkozó szabály szerint átlagkereset jár, vagy munkabér (illetmény), átlagkereset (távolléti díj), táppénzfizetés történt,
 
-d) a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette; továbbá a szabadságvesztés tartama alatt, kivéve, ha az elítéltet utóbb a bíróság jogerősen felmentette (ide nem értve a fogvatartott által a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szabályai szerint létesített, a 6. § szerint biztosítási kötelezettséggel járó jogviszonyt),
+d) a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette; továbbá a szabadságvesztés tartama alatt, kivéve, ha az elítéltet utóbb a bíróság jogerősen felmentette (ide nem értve a fogvatartott által a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szabályai szerint létesített, a 6. § szerint biztosítási kötelezettséggel járó jogviszonyt),
 
 e) az ügyvédi tevékenység szünetelésének ideje alatt, a közjegyző, a szabadalmi ügyvivő kamarai tagságának szüneteltetése alatt,
 

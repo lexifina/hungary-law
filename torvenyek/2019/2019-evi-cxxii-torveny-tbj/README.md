@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-122-00-00
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2019-122-00-00.41 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2019-122-00-00.37 |
 | 2026-07-01 | 2025. évi LXXX. törvény | 2019-122-00-00.39 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2019-122-00-00.43 |
