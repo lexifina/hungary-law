@@ -4,7 +4,7 @@ a) az adatkezelés jogszerűségének ellenőrzése céljából az anyakönyvvez
 
 b) az érintett a személyes adataihoz való hozzáférési joga gyakorlásának biztosítása céljából az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
 
-c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
+c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, továbbá
 
 d) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
