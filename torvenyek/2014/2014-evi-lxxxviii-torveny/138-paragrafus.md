@@ -2,7 +2,7 @@
 
 a) a feladatkörében eljáró Felügyelettel,
 
-b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
+b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, az NVVH-val, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
 
 c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
@@ -58,7 +58,7 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 
-(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
+(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, az NVVH, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
 
 a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben foglaltak szerinti kábítószerrel visszaéléssel, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 
@@ -68,7 +68,7 @@ c) a Btk. szerinti kábítószer-kereskedelemmel, kábítószer birtoklásával,
 
 van összefüggésben.
 
-(6a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a biztosító vagy a viszontbiztosító az ügyészség engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a biztosító vagy viszontbiztosító az ügyészségnek az ügyfélre vagy a biztosítási szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(6a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a biztosító vagy a viszontbiztosító az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a biztosító vagy viszontbiztosító az ügyészségnek vagy az NVVH-nak az ügyfélre vagy a biztosítási szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító vagy a viszontbiztosító az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 

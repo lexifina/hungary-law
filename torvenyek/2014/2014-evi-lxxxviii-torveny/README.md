@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2025-12-24 | 2025. évi C. törvény | 2014-88-00-00.46 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2014-88-00-00.45 |
 | 2026-06-19 | 2025. évi XCIX. törvény | 2014-88-00-00.48 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2014-88-00-00.49 |
