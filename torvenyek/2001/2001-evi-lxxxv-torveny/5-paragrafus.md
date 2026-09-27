@@ -1,6 +1,6 @@
-5. § (1) A megállapodás megkötését a büntetőeljárást folytató bíróság, ügyészség vagy az ügyészség egyetértésével a nyomozó hatóság kezdeményezheti.
+5. § (1) A megállapodás megkötését a büntetőeljárást folytató bíróság, ügyészség, NVVH vagy az ügyészség, illetve az NVVH egyetértésével a nyomozó hatóság kezdeményezheti.
 
-(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó hatóság kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyészség, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
+(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó hatóság kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyészség, az NVVH, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
 
 (2a) Fedett nyomozó esetén a megállapodás megkötését a fedett nyomozót foglalkoztató szerv vezetője kezdeményezheti az eljáró vagy eljárt nyomozó hatóság vezetőjének egyetértésével.
 

@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-85-00-00
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2001-85-00-00.18 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2001-85-00-00.19 |
 | 2024-01-01 | 2023. évi XC. törvény | 2001-85-00-00.20 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2001-85-00-00.21 |

@@ -4,7 +4,7 @@ a) a Programba felvett személy személyazonosító adatait, valamint a tartózk
 
 b) az 1. számú melléklet szerinti adatokat.
 
-(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
+(2) A bíróság, az ügyészség, az NVVH, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
 
 (3) A Szolgálat adatközlése nem sértheti a védelem érdekeit. Az érintett védelme érdekében az átadott adat felhasználására vonatkozóan a Szolgálat korlátokat határozhat meg.
 
