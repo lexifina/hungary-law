@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-45-00-00
 | 2025-08-19 | 2025. évi XLIX. törvény | 2008-45-00-00.30 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2008-45-00-00.31 |
 | 2026-02-15 | 2025. évi XCIII. törvény | 2008-45-00-00.32 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2008-45-00-00.33 |
