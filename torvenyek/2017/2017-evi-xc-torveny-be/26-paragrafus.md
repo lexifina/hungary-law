@@ -42,7 +42,7 @@ h) a nyomozó hatóságot beszámolásra kötelezheti.
 
 (4) Az ügyészség irányítási és felügyeleti jogkörét, illetve a nyomozó hatóság eljárásának önállóságát nem érinti, ha a nyomozás során egyes eljárási cselekményeket az ügyészség maga végez.
 
-(5) Az ügyészség bármely ügyben magához vonhatja a nyomozást.
+(5) Az ügyészség bármely ügyben magához vonhatja a nyomozást, kivéve, ha az NVVH határozatot hozott az ügy saját hatáskörbe vonásáról.
 
 (6) Az ügyész azokat a jogokat gyakorolja, amelyek azt az ügyészséget illetik, ahol az ügyész működik. Eljárási cselekmény elvégzését kizárólag az eljáró ügyész felettes ügyésze tilthatja meg.
 

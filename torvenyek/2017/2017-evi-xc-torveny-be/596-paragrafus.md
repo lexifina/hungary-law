@@ -10,7 +10,7 @@ a) intézkedik – szükség esetén – a hiányok pótlása, az ügyiratok kie
 
 b) az ügyiratokat visszaküldi az elsőfokú bíróságnak, ha a fellebbezéseket visszavonták,
 
-c) a vádlottnak és a védőnek kézbesíti a más által bejelentett fellebbezést és a másodfokú bíróság mellett működő ügyészség indítványát,
+c) a vádlottnak és a védőnek kézbesíti a más által bejelentett fellebbezést és a másodfokú bíróság mellett működő ügyészség vagy az NVVH fellebbezése esetén az NVVH törvény szerint kijelölt vezetője indítványát,
 
 d) a vádlott vagy a védő fellebbezésének indokolását megküldi a másodfokú bíróság mellett működő ügyészségnek, ha azt a másodfokú bíróság előtt terjesztették elő és közvetlenül még nem küldték meg neki,
 

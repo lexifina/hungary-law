@@ -6,6 +6,8 @@
 
 (4) Az ügyészség mulasztásával szemben előterjesztett kifogást a felettes ügyészség, a Legfőbb Ügyészség mulasztásával szemben előterjesztett kifogást a legfőbb ügyész, a nyomozó hatóság mulasztásával szemben előterjesztett kifogást az ügyészség az ügyiratok felterjesztésétől számított tizenöt napon belül bírálja el.
 
+(4a) Az NVVH törvény szerint kijelölt vezetője mulasztásával szemben előterjesztett kifogást a bíróság a felülbírálatra vonatkozó rendelkezések alkalmazásával bírálja el.
+
 (5) Ha a kifogást elbíráló bíróság, vagy ügyészség a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot, ügyészséget, vagy nyomozó hatóságot határidő tűzésével a 143. § (1) bekezdés a) pontjában foglalt esetben az ügy továbbviteléhez szükséges intézkedés megtételére, a 143. § (1) bekezdés b) pontjában foglalt esetben az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A kifogást elbíráló bíróság a felhívásban – a 143. § (1) bekezdés a) pontjában foglalt esetet kivéve – az eljáró bíróságot meghatározott eljárási cselekmény elvégzésére nem utasíthatja.
 
 (6) A kifogást elbíráló bíróság vagy ügyészség a kifogást, annak alaptalansága esetén határozattal elutasítja. A határozat ellen nincs helye jogorvoslatnak.

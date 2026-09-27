@@ -1,5 +1,7 @@
 657. § (1) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az ügyészség képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi a Legfőbb Ügyészségnek.
 
+(1a) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az NVVH képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi az NVVH-nak.
+
 (2) Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül, különösen bonyolult vagy nagy terjedelmű ügyben két hónapon belül visszaküldi a Kúriának.
 
 (3) A Kúria megküldi az ügyészség nyilatkozatát a felülvizsgálati indítvány előterjesztőjének. A terhelt és a védő részére meg kell küldeni a más által benyújtott felülvizsgálati indítványt, és az arra tett ügyészségi nyilatkozatot.

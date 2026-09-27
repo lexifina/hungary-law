@@ -6,4 +6,6 @@
 
 (3) Ha a büntetőeljárás megindítását a 4. § (9) bekezdése vagy a Btk. 3. § (3) bekezdése alapján a legfőbb ügyész jogosult elrendelni, az ügyészség, illetve a nyomozó hatóság a feljelentés kiegészítése során gondoskodik a legfőbb ügyész döntésének beszerzéséről.
 
+(3a) Ha az NVVH az ügy saját hatáskörbe vonásáról határozott, a (3) bekezdés alkalmazása során az NVVH törvény szerint kijelölt vezetőjének a döntését kell beszerezni.
+
 (4) A feljelentés kiegészítésének határideje egy hónap.

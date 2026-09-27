@@ -10,4 +10,4 @@
 
 (3) A panaszt annak előterjesztője mindaddig visszavonhatja, amíg azt érdemben el nem bírálták. A visszavont panaszt újból előterjeszteni nem lehet.
 
-(4) A Legfőbb Ügyészség határozata ellen nincs helye panasznak.
+(4) A Legfőbb Ügyészség és – ha e törvény eltérően nem rendelkezik – az NVVH törvény szerint kijelölt vezetőjének a határozata ellen nincs helye panasznak.

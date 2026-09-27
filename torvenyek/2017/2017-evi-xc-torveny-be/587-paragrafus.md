@@ -4,6 +4,8 @@
 
 (2) Az ügyészség fellebbezését az ügyiratok felterjesztése után a másodfokú bíróság mellett működő ügyészség vonhatja vissza. Ha az ügyészség a fellebbezést visszavonja, és más nem fellebbezett, az ügyiratokat a nyilatkozatával együtt visszaküldi az elsőfokú bíróságnak.
 
+(2a) Az NVVH fellebbezését az ügyiratok felterjesztése után az NVVH törvény szerint kijelölt vezetője visszavonhatja.
+
 (3) A vádlott javára más által bejelentett fellebbezést a fellebbező csak a vádlott hozzájárulásával vonhatja vissza. Ez a rendelkezés nem vonatkozik az ügyészség fellebbezésére.
 
 (4) A visszavont fellebbezést nem lehet újból előterjeszteni.

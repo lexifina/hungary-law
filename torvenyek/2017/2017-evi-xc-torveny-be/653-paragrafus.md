@@ -6,4 +6,4 @@
 
 (3) A bíróság a felülvizsgálati indítványt az alapügy ügyirataival együtt egy hónapon belül felterjeszti a Kúriához.
 
-(4) A legfőbb ügyész a felülvizsgálati indítványát – az alapügy ügyirataival együtt – közvetlenül a Kúriánál terjeszti elő.
+(4) A legfőbb ügyész vagy az NVVH törvény szerint kijelölt vezetője a felülvizsgálati indítványát – az alapügy ügyirataival együtt – közvetlenül a Kúriánál terjeszti elő.

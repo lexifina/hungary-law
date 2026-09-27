@@ -2,6 +2,8 @@
 
 700. § (1) A katonai büntetőeljárásban az ügyészség feladatát a legfőbb ügyész által kijelölt ügyészség látja el. A katonai büntetőeljárásban katonai ügyész, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész jár el.
 
+(1a) A katonai büntetőeljárásban az NVVH az ügyészség feladatát elláthatja. A katonai büntetőeljárásban az NVVH tagja is eljárhat.
+
 (2) Az ügyészség végzi a nyomozást
 
 a) a katona által elkövetett

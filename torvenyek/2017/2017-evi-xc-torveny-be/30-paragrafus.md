@@ -1,6 +1,6 @@
 ## A kizárólagos ügyészségi nyomozás
 
-30. § Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
+30. § Ha e törvény eltérően nem rendelkezik, kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
 
 a) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény,
 

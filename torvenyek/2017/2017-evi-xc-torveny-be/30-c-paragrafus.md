@@ -1,0 +1,7 @@
+30/C. § (1) Az NVVH a hatáskörébe tartozó ügyben a vádemelés előtt határozatot hozhat az ügy saját hatáskörbe vonásáról, különösen, ha az ügyben a rendelkezésre álló adatok alapján feltételezhető, hogy ezzel a bűncselekménnyel összefüggésben szerzett, közvagyonból származó vagyon visszaszerzése és az állam büntetőjogi igényének érvényesítése hatékonyabban látható el.
+
+(2) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozatát közölni kell az eljáró ügyészséggel, nyomozó hatósággal, előkészítő eljárást lefolytató szervvel, továbbá a terhelttel, a bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel, a sértettel, a feljelentővel, a magánindítvány előterjesztőjével és a védővel.
+
+(3) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata ellen nincs helye jogorvoslatnak és nem érinti az ügyészségen kívüli büntetőeljárást lefolytató szervek vagy büntetőeljárásban részt vevő személyek jogait és kötelezettségeit, valamint a folyamatban lévő határidőket.
+
+(4) Az ügyészség – e törvényben meghatározott kivételekkel – nem gyakorolhatja e törvényben meghatározott hatáskörét az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata meghozatalát követően. Ha az eljárási cselekmény elvégzésével járó késedelem az eljárási cselekmény eredményességét veszélyeztetné, akkor az ügyészség köteles elvégezni az olyan eljárási cselekményt, amelyre az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata hiányában jogosult lenne, köteles azonban erről az NVVH-t haladéktalanul tájékoztatni.

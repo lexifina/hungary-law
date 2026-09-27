@@ -43,25 +43,3 @@
 20. a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelvnek,
 
 21. az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló, 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelvnek,
-
-22. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek,
-
-23. a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelvnek,
-
-24. a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek,
-
-25. a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek,
-
-26. az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,
-
-27. a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU parlamenti és tanácsi irányelvnek,
-
-28. a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek,
-
-29. a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló, 2014. április 3-i 2014/42/EU parlamenti és tanácsi irányelvnek,
-
-30. az euro és más pénznemek hamisítás elleni, büntetőjog általi védelméről, valamint a 2000/383/IB tanácsi kerethatározat felváltásáról szóló, 2014. május 15-i 2014/62/EU európai parlamenti és tanácsi irányelvnek,
-
-31. a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak és a tárgyaláson való jelenlét jogának erősítéséről szóló 2016. március 9-i 2016/343/EU parlamenti és tanácsi irányelvnek,
-
-32. a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló 2016. április 27-i 2016/680/EU parlamenti és tanácsi irányelvnek,

@@ -6,7 +6,7 @@
 
 719. § (1) A törvényben meghatározott mentelmi joggal rendelkező személyt gyanúsítottként kihallgatni, vele szemben kényszerintézkedést alkalmazni és vádat emelni csak a mentelmi jog felfüggesztését követően lehet. A mentelmi joggal rendelkező személy tettenérése esetén vele szemben e törvény szerinti kényszerintézkedés alkalmazható.
 
-(2) Ha a büntetőeljárásban adat merül fel arra, hogy a mentelmi joggal rendelkező személy gyanúsítotti kihallgatásának, vele szemben kényszerintézkedés alkalmazásának vagy vádemelésnek van helye, indítványozni kell a mentelmi jog felfüggesztésére jogosult döntését. A mentelmi jog felfüggesztése iránti indítványt a vádemelés előtt a legfőbb ügyész, azután, valamint magánvádas és pótmagánvádas ügyben a bíróság terjeszti elő. Tettenérés esetén az indítványt haladéktalanul elő kell terjeszteni.
+(2) Ha a büntetőeljárásban adat merül fel arra, hogy a mentelmi joggal rendelkező személy gyanúsítotti kihallgatásának, vele szemben kényszerintézkedés alkalmazásának vagy vádemelésnek van helye, indítványozni kell a mentelmi jog felfüggesztésére jogosult döntését. A mentelmi jog felfüggesztése iránti indítványt a vádemelés előtt a legfőbb ügyész, valamint – ha az NVVH az ügy saját hatáskörbe vonásáról határozott – az NVVH törvény szerint kijelölt vezetője, azután, valamint magánvádas és pótmagánvádas ügyben a bíróság terjeszti elő. Tettenérés esetén az indítványt haladéktalanul elő kell terjeszteni.
 
 (3) Az indítvány benyújtásával egyidejűleg a büntetőeljárást fel kell függeszteni.
 

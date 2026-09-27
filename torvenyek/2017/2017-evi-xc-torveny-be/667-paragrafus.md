@@ -1,5 +1,7 @@
 667. § (1) A legfőbb ügyész a törvényesség érdekében jogorvoslatot jelenthet be a bíróság törvénysértő jogerős ügydöntő határozata és végleges nem ügydöntő végzése ellen.
 
+(1a) Az NVVH nem jelenthet be törvényesség érdekében jogorvoslatot. Ha az alapügyben a vádat az NVVH képviselte, a törvényesség érdekében jogorvoslatot a legfőbb ügyész jelentheti be.
+
 (2) Nincs helye a jogorvoslat bejelentésének, ha
 
 a) a határozatot a Kúria hozta,

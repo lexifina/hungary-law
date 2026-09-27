@@ -18,6 +18,8 @@ f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy éle
 
 terjeszthet elő perújítási indítványt.
 
+(2a) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozatot hozott, a perújítási indítványt az ügyészség helyett az NVVH terjesztheti elő.
+
 (3) A terhelt és a védő a 637. § (1) bekezdés g) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen a terhelt az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről tudomást szerzett. A büntetés végrehajtása érdekében kibocsátott elfogatóparancs esetén a terhelt tudomásszerzésének az ítéletnek a terhelt büntetés-végrehajtási intézetbe történt befogadását követő kézbesítését kell tekinteni.
 
 (4) A perújítási indítványban meg kell jelölni az alapügyet, amely ellen a perújítás irányul, az indítvány okát, valamint a perújítás alapjául szolgáló tényeket és azok bizonyítékait. A 637. § (1) bekezdés g) pontjára alapított perújítási indítványban valószínűsíteni kell az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről való tudomásszerzés időpontját is.

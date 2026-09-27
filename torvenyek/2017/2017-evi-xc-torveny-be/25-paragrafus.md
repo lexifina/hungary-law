@@ -4,7 +4,7 @@
 
 ## Az ügyészség feladata
 
-25. § (1) Az ügyészség a közvádló.
+25. § (1) Az ügyészség közvádló.
 
 (2) Az ügyészség nyomoz, felügyeli a felderítés törvényességét, valamint irányítja a vizsgálatot.
 

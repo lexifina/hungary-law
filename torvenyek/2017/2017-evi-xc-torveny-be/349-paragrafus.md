@@ -13,3 +13,5 @@ ba) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ell�
 bb) a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott eljárásban a rendőrség terrorizmust elhárító szerve.
 
 (3) Az ügyészségi nyomozás során az ügyészség és a nemzetbiztonsági szolgálatok együttműködését a legfőbb ügyész és a nemzetbiztonsági szolgálatok főigazgatói megállapodásban határozzák meg.
+
+(4) Azokra az eljárásokra nézve, amelyekben az ügyészségi nyomozásra vonatkozó rendelkezéseket az NVVH által folytatott nyomozás során kell alkalmazni, a nemzetbiztonsági szolgálatok főigazgatóival az NVVH törvény szerint kijelölt vezetője köthet megállapodást.

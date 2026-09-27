@@ -2,7 +2,7 @@
 
 14. § (1) Bíróként nem járhat el,
 
-a) aki az ügyben ügyészként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek vagy a nyomozó hatóság tagjának a hozzátartozója,
+a) aki az ügyben ügyészként, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) tagjaként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek, az NVVH tagjának vagy a nyomozó hatóság tagjának a hozzátartozója,
 
 b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
 
