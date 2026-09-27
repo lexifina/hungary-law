@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2025-10-12 | 2019. évi XCVI. törvény | 2007-1-00-00.59 |
 | 2025-12-09 | 2024. évi LXXXIV. törvény | 2007-1-00-00.57 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2007-1-00-00.60 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2007-1-00-00.61 |
