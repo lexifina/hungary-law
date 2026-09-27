@@ -20,7 +20,7 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 
 (2) A titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-a) a feladatkörében eljáró ügyészséggel, továbbá a büntetőeljárás során a nyomozó hatósággal,
+a) a feladatkörében eljáró ügyészséggel, NVVH-val, továbbá a büntetőeljárás során a nyomozó hatósággal,
 
 b) a büntető-, polgári, valamint közigazgatási ügyben a bírósággal,
 

@@ -20,7 +20,7 @@ ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellát�
 
 (2) A nyilvántartásban szereplő adatokat a szükséges mértékben, az eljárás tárgyát képező ügyre vonatkozóan, törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-a) a feladatkörében eljáró ügyészség, továbbá a büntetőeljárás során a nyomozó hatóság,
+a) a feladatkörében eljáró ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), továbbá a büntetőeljárás során a nyomozó hatóság,
 
 b) a büntető-, valamint polgári ügyben a bíróság,
 
