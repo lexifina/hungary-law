@@ -78,6 +78,20 @@ b) olyan szolgáltatás, amely lehetővé teszi a fogyasztó és a szolgáltatá
 
 22.[^21] interoperabilitás: a digitális tartalom vagy a digitális szolgáltatás azon képessége, hogy együtt tudjon működni olyan hardverrel és szoftverrel, amely eltér attól, amellyel az azonos típusú digitális tartalmat vagy digitális szolgáltatásokat általában együtt használják.
 
+23.[^22] tartósságra vonatkozó kereskedelmi jótállás: a gyártó által a tartósságra vonatkozóan térítésmentesen vállalt, a fogyasztó és a vállalkozás közötti, az áruk adásvételére, valamint a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések részletes szabályairól szóló 373/2021. (VI. 30.) Korm. rendelet [a továbbiakban: 373/2021. (VI. 30.) Korm. rendelet] 16. § (2) bekezdése szerinti jótállás;
+
+24.[^23] tartósság: a 373/2021. (VI. 30.) Korm. rendelet 4. § 14. pontjában meghatározott fogalom;
+
+25.[^24] gyártó: a 373/2021. (VI. 30.) Korm. rendelet 4. § 8. pontjában meghatározott fogalom;
+
+26.[^25] javíthatósági pontszám: egy adott áru javíthatóságát kifejező pontszám, amely az uniós szinten megállapított harmonizált követelményeken alapul;
+
+27.[^26] szoftverfrissítés: az Fttv. 2. § 16. pontjában meghatározott fogalom;
+
+28.[^27] harmonizált értesítés: az (EU) 2025/1960 bizottsági végrehajtási rendelet I. melléklete szerinti harmonizált értesítés;
+
+29.[^28] harmonizált címke: az (EU) 2025/1960 bizottsági végrehajtási rendelet II. melléklete szerinti harmonizált címke.
+
 [^6]: A 3. § a 712/2020. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^7]: A 4. § 1. pontja a 712/2020. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § 3. pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
@@ -94,3 +108,10 @@ b) olyan szolgáltatás, amely lehetővé teszi a fogyasztó és a szolgáltatá
 [^19]: A 4. § 20. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^20]: A 4. § 21. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^21]: A 4. § 22. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^22]: A 4. § 23. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 4. § 24. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 4. § 25. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 4. § 26. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 4. § 27. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^27]: A 4. § 28. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A 4. § 29. pontját a 116/2026. (VII. 30.) Korm. rendelet 1. §-a iktatta be.

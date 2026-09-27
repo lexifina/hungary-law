@@ -64,8 +64,8 @@
 
 ## (6…) A szolgáltatás nyújtására irányuló szerződés esetében az alábbi szöveget illessze be: „Ha Ön kérte, hogy a felmondási határidőn belül kezdődjön meg a szolgáltatás teljesítése, felmondása esetén Ön köteles megtéríteni számunkra a szerződés megszűnésének időpontjáig arányosan teljesített szolgáltatásért járó összeget. Hasonlóképpen visszatérítjük az Ön által nyújtott ellenszolgáltatás azon részét, amely meghaladja az általunk nyújtott szolgáltatás ellenértékét.”
 
-2. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^92]
+2. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^108]
 
 Elállási-/Felmondásinyilatkozat-minta
 
-[^92]: A 2. melléklet a 712/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^108]: A 2. melléklet a 712/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
