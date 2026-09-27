@@ -14,7 +14,7 @@ e) lakóotthon: a fogyatékos személy önálló életvitelét elősegítő, kis
 
 f) közszolgáltatás:
 
-fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a polgári nemzetbiztonsági szolgálatok, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
+fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a polgári nemzetbiztonsági szolgálatok, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
 
 fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási, közlekedési szolgáltatás, ellátás, illetve tevékenység,
 
