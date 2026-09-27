@@ -20,11 +20,13 @@ bg) az adott célra való alkalmassága, a használatától várható eredménye
 
 bh) veszélyessége, kockázatai,
 
-bi) környezeti hatásai,
+bi) környezeti vagy társadalmi jellemzői,
 
-bj) az egészségre gyakorolt hatása, vagy
+bj) az egészségre gyakorolt hatása,
 
-bk) tesztelése, ellenőrzöttsége vagy annak eredménye,
+bk) tesztelése, ellenőrzöttsége vagy annak eredménye, vagy
+
+bl) körforgásos jellege,
 
 c) a termék ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
 
@@ -51,5 +53,9 @@ ba) a követelmény betartására nem csupán szándéknyilatkozat formájában,
 bb) a kereskedelmi gyakorlat keretében utal a kódexnek való alávetettségére,
 
 c) az a gyakorlat, melynek keretében egy árut az egyik tagállamban akként forgalmaznak, hogy az megegyezik egy más tagállamban forgalmazott áruval, miközben az utóbbi áru összetételében vagy jellemzőiben jelentős eltérések vannak, kivéve, ha ezt jogszerű és objektív tényezők indokolják,
+
+d) a jövőbeli környezetvédelmi teljesítményre vonatkozó, környezetbarát jellegre vonatkozó állítás megfogalmazása anélkül, hogy azt egyértelmű, objektív, nyilvánosan elérhető és ellenőrizhető kötelezettségvállalások kísérnék, amelyeket mérhető és időhöz kötött célokat és a végrehajtása támogatásához szükséges egyéb releváns elemeket tartalmazó részletes és realisztikus végrehajtási tervben határoznak meg, és amelyet független harmadik fél szakértő rendszeresen ellenőriz, akinek megállapításait a fogyasztók rendelkezésére bocsátják;
+
+e) olyan előny reklámozása a fogyasztó számára, amely nem releváns, és amelyet nem a termék vagy a vállalkozás valamely jellemzője eredményez,
 
 ha ez valamennyi tényszerű körülmény figyelembevételével a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
