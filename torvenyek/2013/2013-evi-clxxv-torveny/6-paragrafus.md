@@ -2,7 +2,7 @@
 
 (2) A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:
 
-a) az ügyészség és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
+a) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
 
 b) a rendőrség a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat
 

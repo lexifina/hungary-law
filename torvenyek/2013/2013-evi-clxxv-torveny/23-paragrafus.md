@@ -8,7 +8,7 @@
 
 a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 
-b) a bíróság, az ügyészség és a nyomozó hatóság,
+b) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 
 c) a nemzetbiztonsági szolgálatok.
 
