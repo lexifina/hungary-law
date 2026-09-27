@@ -30,7 +30,7 @@ l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az e
 
 m) ha magánvádas eljárásban
 
-ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség képviselte a vádat,
+ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal képviselte a vádat,
 
 mb) a bíróság az eljárást a személyes meghallgatás megkezdése előtt vagy a személyes meghallgatás alapján megszünteti,
 

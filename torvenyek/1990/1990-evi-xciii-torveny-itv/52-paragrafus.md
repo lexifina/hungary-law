@@ -6,6 +6,6 @@
 
 (3)
 
-(4) Nem kell illetéket fizetni az eljárásnak abban a szakaszában, amelyben az ügyészség a vád képviseletét átvette.
+(4) Nem kell illetéket fizetni az eljárásnak abban a szakaszában, amelyben az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a vád képviseletét átvette.
 
 (5) Ha az illetéket az indítvány előterjesztésekor nem vagy hiányosan fizetik meg, az illetékfizetésre kötelezett személyt fel kell hívni, hogy azt 8 napon belül pótolja és figyelmeztetni kell az illeték meg nem fizetésének a büntetőeljárásról szóló törvényben meghatározott következményeire.
