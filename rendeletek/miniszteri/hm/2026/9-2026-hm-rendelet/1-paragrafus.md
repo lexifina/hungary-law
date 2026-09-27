@@ -2,6 +2,6 @@
 
 ## [2] A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 112. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 93. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló 5/2023. (IV. 3.) HM rendelet (a továbbiakban: R.) 2. §-a a következő e) ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
