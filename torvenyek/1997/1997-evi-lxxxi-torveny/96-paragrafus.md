@@ -78,7 +78,7 @@ c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai el
 
 szerinti adatok lekérdezésére jogosult.
 
-(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+(4) A bíróság, az ügyészség, az NVVH, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
