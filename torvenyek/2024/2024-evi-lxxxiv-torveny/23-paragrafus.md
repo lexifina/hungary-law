@@ -114,7 +114,7 @@ g) a jogszabályban meghatározott támogatás igénybevétele.
 
 11. polgári védelmi kötelezettség megállapítása esetén a települési önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személyek státuszának igazolása céljából,
 
-12. a bíróság, az ügyészség és a nyomozó hatóság részére eljárási cselekmény lefolytatása céljából,
+12. a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság részére eljárási cselekmény lefolytatása céljából,
 
 13. a kritikus szervezet számára a kőolaj- és földgázellátási válsághelyzet, valamint a villamosenergia-rendszer jelentős zavara és villamosenergia-ellátási válsághelyzetre való felkészülés érdekében elvégzett korlátozási besoroláshoz szükséges adatok igazolása céljából,
 
