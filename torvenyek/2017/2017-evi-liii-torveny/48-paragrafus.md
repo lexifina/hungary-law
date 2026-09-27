@@ -2,7 +2,7 @@
 
 a) a nyomozó hatóság;
 
-b) az ügyészség;
+b) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal;
 
 c) a bíróság;
 

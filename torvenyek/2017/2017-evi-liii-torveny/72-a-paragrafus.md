@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben meghatározott személyek az e törvény szerinti kötelezettségeik teljesítése során tudomásukra jutó szakmai titkot csak összefoglaló vagy összesített formában fedhetik fel olyan módon, amelyből az egyes hitelintézeteket és pénzügyi szolgáltatókat nem lehet azonosítani.
 
-(3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
+(3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
 
 (4) Az (1) és (2) bekezdésben meghatározottaktól eltérően a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
 
