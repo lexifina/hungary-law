@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-65-00-00
 | 2024-05-17 | 2024. évi XIX. törvény | 2022-65-00-00.7 |
 | 2025-01-01 | 2024. évi LXXX. törvény | 2022-65-00-00.8 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2022-65-00-00.9 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2022-65-00-00.10 |

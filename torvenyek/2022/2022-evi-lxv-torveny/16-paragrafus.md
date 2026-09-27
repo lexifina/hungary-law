@@ -18,7 +18,7 @@ c) a (3)–(5) bekezdésben megjelöltek tájékoztatása.
 
 a) a bíróságot;
 
-b) az ügyészséget;
+b) az ügyészséget és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;
 
 c) a nyomozó hatóságot;
 
