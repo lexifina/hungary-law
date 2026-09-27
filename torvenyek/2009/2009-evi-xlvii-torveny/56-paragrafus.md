@@ -6,7 +6,7 @@ aa) megnevezését,
 
 ab) elkövetésének helyét és idejét;
 
-b) a nyilvántartásba vételt kezdeményező nyomozó hatóság vagy ügyészség megnevezését;
+b) a nyilvántartásba vételt kezdeményező nyomozó hatóság, ügyészség vagy NVVH megnevezését;
 
 c) a büntetőügy iktatószámát;
 

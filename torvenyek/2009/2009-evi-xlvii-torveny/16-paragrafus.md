@@ -18,7 +18,7 @@ ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszö
 
 cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 
-d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát és keltét;
+d) a megrovást alkalmazó ügyészség, illetve NVVH megnevezését, határozatának számát és keltét;
 
 e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 

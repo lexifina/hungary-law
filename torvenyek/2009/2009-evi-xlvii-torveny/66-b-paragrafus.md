@@ -22,4 +22,4 @@ ba) az érintett személy ujj- és tenyérnyomatát,
 
 bb) az érintett személytől levett szájnyálkahártya-törletből meghatározott DNS-profilt.
 
-(2) Az ujj- és tenyérnyomat, illetve a DNS-profil meghatározásra alkalmas minta 66/A. § (2) bekezdése szerinti rögzítése esetén az érintett személy személyazonosító adatait, az érintett személy ujj- és tenyérnyomatát, valamint az érintett személytől levett szájnyálkahártya-törletet a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató ügyészség vagy nyomozó hatóság – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.
+(2) Az ujj- és tenyérnyomat, illetve a DNS-profil meghatározásra alkalmas minta 66/A. § (2) bekezdése szerinti rögzítése esetén az érintett személy személyazonosító adatait, az érintett személy ujj- és tenyérnyomatát, valamint az érintett személytől levett szájnyálkahártya-törletet a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató ügyészség, NVVH vagy nyomozó hatóság – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.

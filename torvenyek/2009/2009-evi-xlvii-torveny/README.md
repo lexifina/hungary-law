@@ -68,3 +68,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2025-06-15 | 2025. évi XXXV. törvény | 2009-47-00-00.69 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2009-47-00-00.63 |
 | 2026-01-01 | 2025. évi LXXI. törvény | 2009-47-00-00.70 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2009-47-00-00.71 |

@@ -8,14 +8,14 @@ b) a bíróság vele szemben bűnösséget megállapító jogerős ügydöntő h
 
 (2) Nem kell nyilvántartani annak az arcképmását,
 
-a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
+a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség vagy az NVVH átvette-e a vád képviseletét,
 
 b) akivel szemben pótmagánvádas eljárás indult,
 
-c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+c) akinek katonai bűncselekménye miatt az ügyészség vagy az NVVH a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
 
 d) akivel szemben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) CV/A. Fejezete szerinti eljárásban a vádindítványt nyújtottak be.
 
-(3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte.
+(3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte. Ha a megalapozott gyanút a gyanúsítottal az NVVH közölte, az érintett arcképmását az NVVH küldi meg a bűnügyi nyilvántartó szervnek.
 
 (4) A bűncselekmény miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt személy arcképmását az elítéltet befogadó büntetés-végrehajtási intézet az érintett befogadását követően megküldi a bűnügyi nyilvántartó szervnek.

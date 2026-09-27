@@ -8,7 +8,7 @@ c) akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő
 
 d) akivel szemben a bíróság megrovás, próbára bocsátás, jóvátételi munka vagy kényszergyógykezelés intézkedést, illetve akivel szemben a bíróság terheltként elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott, valamint
 
-e) akivel szemben az ügyészség megrovást alkalmazott.
+e) akivel szemben az ügyészség vagy az NVVH megrovást alkalmazott.
 
 f)
 

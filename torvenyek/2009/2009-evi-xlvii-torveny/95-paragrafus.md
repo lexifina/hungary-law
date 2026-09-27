@@ -6,7 +6,7 @@
 
 a) a mintavételt elrendelő nyomozó hatóság,
 
-b) az ügyészség és a katonai nyomozó hatóság által elrendelt mintavétel esetén az ügyészség, valamint a katonai nyomozó hatóság székhelye szerint illetékes rendőrkapitányság, valamint
+b) az ügyészség, az NVVH és a katonai nyomozó hatóság által elrendelt mintavétel esetén az ügyészség, valamint a katonai nyomozó hatóság székhelye szerint illetékes rendőrkapitányság, valamint
 
 c) az elítéltet befogadó büntetés-végrehajtási intézet
 

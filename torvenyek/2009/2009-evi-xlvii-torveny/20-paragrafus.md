@@ -1,6 +1,6 @@
 20. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
 
-a) megrovás alkalmazása esetén az ügydöntő határozat jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
+a) megrovás alkalmazása esetén az ügydöntő határozat jogerőre emelkedésétől, az ügyészség vagy az NVVH által alkalmazott megrovás esetén a határozat kihirdetésétől,
 
 b) jóvátételi munka alkalmazása esetén a jóvátételi munka elvégzésének igazolásától,
 

@@ -16,7 +16,7 @@ be) anyja születési családi és utónevéről, továbbá annak megváltoztat�
 
 c) a büntetőüggyel kapcsolatban
 
-ca) folyamatban lévő büntetőeljárás esetén az eljáró bíróság, ügyészség, nyomozó hatóság megnevezéséről, a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti megnevezéséről és a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősítéséről, a megalapozott gyanú közlésének időpontjáról, valamint a büntetőügy iktatószámáról, vagy
+ca) folyamatban lévő büntetőeljárás esetén az eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), nyomozó hatóság megnevezéséről, a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti megnevezéséről és a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősítéséről, a megalapozott gyanú közlésének időpontjáról, valamint a büntetőügy iktatószámáról, vagy
 
 cb) jogerős, bűnösséget megállapító ügydöntő határozat esetén az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezéséről, határozatának számáról és keltéről, a határozat jogerőre emelkedésének napjáról, a jogerős ügydöntő határozatban a bíróság által megállapított bűncselekmény megnevezéséről és a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítéséről,
 

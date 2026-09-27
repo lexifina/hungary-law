@@ -4,7 +4,7 @@
 
 a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
-b) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
+b) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség és az NVVH bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
 c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból, megbízhatósági vizsgálat, illetve kifogástalan életvitele ellenőrzés céljából,
 

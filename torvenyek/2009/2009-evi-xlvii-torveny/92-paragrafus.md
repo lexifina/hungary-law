@@ -4,7 +4,7 @@
 
 ## Mintavételi eljárás az arcképmás nyilvántartásba vétele céljából
 
-92. § (1) A büntetőeljárás alá vont személy arcképmásának rögzítéséről a 6. § (3) bekezdése szerinti nyomozó hatóság vagy ügyészség a megalapozott gyanú közlését követően haladéktalanul gondoskodik.
+92. § (1) A büntetőeljárás alá vont személy arcképmásának rögzítéséről a 6. § (3) bekezdése szerinti nyomozó hatóság, ügyészség vagy az NVVH a megalapozott gyanú közlését követően haladéktalanul gondoskodik.
 
 (2) A bűncselekmény miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt személy arcképmásának rögzítéséről az elítéltet befogadó büntetés-végrehajtási intézet a befogadást követően haladéktalanul gondoskodik.
 

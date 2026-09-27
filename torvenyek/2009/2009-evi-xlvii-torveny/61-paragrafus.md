@@ -1,4 +1,4 @@
-61. § (1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte.
+61. § (1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte. Ha a terhelttel szemben a megalapozott gyanút az NVVH közölte, a DNS-profil meghatározására alkalmas szájnyálkahártya-törletet az NVVH küldi meg a szakértői nyilvántartó szervnek.
 
 (2) Nem kell a nyilvántartásba vételt kezdeményezni, ha a DNS-profil-nyilvántartás az érintett személynek kettő darab, a jogszabályban meghatározott feltételeknek megfelelő DNS-profilját már tartalmazza.
 

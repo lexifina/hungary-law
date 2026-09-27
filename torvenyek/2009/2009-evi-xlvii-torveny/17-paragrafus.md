@@ -1,6 +1,6 @@
 17. § (1) A személyazonosító adatokat, a 16. § (1) bekezdés c) pontjában meghatározott adatokat, továbbá azt a tényt, hogy a feltételes szabadságra bocsátás kizárt, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a korábban engedélyezett feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
 
-(2) A 16. § (1) bekezdés d) pontjában meghatározott adatokat a határozatot hozó ügyészség közli a bűnügyi nyilvántartó szervvel.
+(2) A 16. § (1) bekezdés d) pontjában meghatározott adatokat a határozatot hozó ügyészség, illetve NVVH közli a bűnügyi nyilvántartó szervvel.
 
 (3) A 16. § (1) bekezdés e)–j) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt a határozat jogerőre emelkedett.
 

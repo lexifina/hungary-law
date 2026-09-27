@@ -8,7 +8,7 @@
 
 (4) Az (1) bekezdés szerinti összehasonlítás kezdeményezésére és adatátvételre
 
-a) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség a bűncselekmények felderítése, illetve büntetőeljárás lefolytatása,
+a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség és az NVVH a bűncselekmények felderítése, illetve büntetőeljárás lefolytatása,
 
 b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
 
