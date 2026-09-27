@@ -16,7 +16,7 @@ folytatja le.
 
 a) a panaszos, az eljárás alá vont személy és azok hozzátartozója,
 
-b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek a bíróság jogerős vagy véglegessé vált határozatával, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatával való befejezéséig, vagy ha az elítélt a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
+b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek a bíróság jogerős vagy véglegessé vált határozatával, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatával való befejezéséig, vagy ha az elítélt a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
 
 c) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat,
 

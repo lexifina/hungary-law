@@ -14,9 +14,9 @@ c) hatáskörében eljárva a szakmagyakorlási jogosultságról névjegyzéket 
 
 (4) Az etikai-fegyelmi eljárás megindításának nincs helye, ha azt az etikai-fegyelmi bizottság a kötelezettségszegésről szóló panasz beérkezésétől, hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított hat hónapon belül nem indította meg vagy a cselekmény elkövetésétől számított három év eltelt.
 
-(5) Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a hat hónapos határidőt a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható határozatának az etikai-fegyelmi bizottság tudomására kerülésétől kell számítani.
+(5) Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a hat hónapos határidőt a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható határozatának az etikai-fegyelmi bizottság tudomására kerülésétől kell számítani.
 
-(6) A hároméves határidőt a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
+(6) A hároméves határidőt a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (7) Az etikai-fegyelmi eljárást annak megindításától számított 90 napon belül be kell fejezni.
 
