@@ -38,7 +38,7 @@ a) a bíróság, a közigazgatási bírság bírósági felülvizsgálatával ka
 
 b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 
-c) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében,
+c) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében,
 
 d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 
