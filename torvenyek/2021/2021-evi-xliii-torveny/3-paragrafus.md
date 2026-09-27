@@ -8,7 +8,7 @@
 
 3. harmadik ország: az Európai Unión kívüli állam;
 
-4. harmadik személy: az e törvény szerinti nyilvántartó szervtől, a hatóságtól, az ügyészségtől, a bíróságtól, a felügyeletet ellátó szervtől, a szolgáltatótól, valamint az adatszolgáltatótól eltérő személy;
+4. harmadik személy: az e törvény szerinti nyilvántartó szervtől, a hatóságtól, az ügyészségtől, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól (a továbbiakban: NVVH), a bíróságtól, a felügyeletet ellátó szervtől, a szolgáltatótól, valamint az adatszolgáltatótól eltérő személy;
 
 5. hatóság: a pénzügyi információs egységként működő hatóság, a nyomozó hatóság, az általános rendőri feladatok ellátására létrehozott szerv, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a rendőrség terrorizmust elhárító szerve, továbbá az állami adó- és vámhatóság;
 

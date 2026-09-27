@@ -1,4 +1,4 @@
-12. § (1) A 10. § (1) bekezdése alapján jelzett eltérés 2 ponttal, a 11. § (1) bekezdése alapján jelzett eltérés 1 ponttal csökkenti a TT index értékét. A nyilvántartó szerv a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 10. § (1) bekezdése és a szolgáltató által a 11. § (1) bekezdése alapján jelzett eltérést, a jelzett tényleges tulajdonosi adatot – a nyilvántartott adatok változatlan fenntartása mellett –, valamint a TT index módosított értékét rögzíti.
+12. § (1) A 10. § (1) bekezdése alapján jelzett eltérés 2 ponttal, a 11. § (1) bekezdése alapján jelzett eltérés 1 ponttal csökkenti a TT index értékét. A nyilvántartó szerv a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 10. § (1) bekezdése és a szolgáltató által a 11. § (1) bekezdése alapján jelzett eltérést, a jelzett tényleges tulajdonosi adatot – a nyilvántartott adatok változatlan fenntartása mellett –, valamint a TT index módosított értékét rögzíti.
 
 (2) Ha a TT index értéke az (1) bekezdésben meghatározott eltérések jelzése következtében
 

@@ -6,9 +6,9 @@
 
 21/A. § (1) A nyilvántartó szerv
 
-a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által a 8. § (2a) bekezdése szerint
+a) a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által a 8. § (2a) bekezdése szerint
 
-b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
+b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
 
 c) a 8. § (3)–(7) bekezdése szerint, valamint
 
@@ -66,7 +66,7 @@ gb) az adathozzáférést kezdeményező természetes személy regisztrációja 
 
 (4) A nyilvántartó szerv adatvédelmi tisztviselője az (1) bekezdés szerinti napló megfelelő vezetését rendszeresen, de legalább félévente ellenőrzi. Az ellenőrzés eredményét az adatvédelmi tisztviselő dokumentálja, valamint e dokumentációt a (6) bekezdés szerinti időtartamig megőrzi.
 
-(5) Az (1) bekezdés szerinti naplóhoz kizárólag a törvényben meghatározott feladatkörében, az adathozzáférés jogszerűsége ellenőrzése céljából eljáró bíróság, nyomozó hatóság, ügyészség, illetve közigazgatási hatóság férhet hozzá.
+(5) Az (1) bekezdés szerinti naplóhoz kizárólag a törvényben meghatározott feladatkörében, az adathozzáférés jogszerűsége ellenőrzése céljából eljáró bíróság, nyomozó hatóság, ügyészség, az NVVH, illetve közigazgatási hatóság férhet hozzá.
 
 (6) A nyilvántartó szerv az (1) és (2) bekezdésben meghatározott nyilvántartásban rögzített adatokat öt évvel keletkezésük után törli, kivéve, ha az adott adatok tekintetében már megkezdett ellenőrzési eljárás a naplóbejegyzés további kezelését indokolja. Ha az adott naplóbejegyzés törlésére a folyamatban levő ellenőrzésre figyelemmel nem került sor, a törlést az ellenőrzési eljárás lezárultát követően kell végrehajtani.
 
