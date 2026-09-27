@@ -30,7 +30,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
 
-9. hatóság a bíróság és az ügyészség is;
+9. hatóság a bíróság, az ügyészség és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal is;
 
 10. háború:
 
@@ -66,7 +66,7 @@ i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testü
 
 j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
 
-k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
 
 l) a választási bizottság tagja;
 

@@ -20,4 +20,4 @@ ac) a XIII. vagy a XIV. Fejezetben meghatározott bűncselekmény, vagy egyéb o
 
 b) a magyar állampolgár, a magyar jog alapján létrejött jogi személy és jogi személyiséggel nem rendelkező egyéb jogalany sérelmére nem magyar állampolgár által külföldön elkövetett olyan cselekményre is, amely a magyar törvény szerint büntetendő.
 
-(3) A (2) bekezdésben meghatározott esetekben a büntetőeljárás megindítását a legfőbb ügyész rendeli el.
+(3) A (2) bekezdésben meghatározott esetekben a büntetőeljárás megindítását a legfőbb ügyész vagy a hatáskörébe tartozó ügyben a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője rendeli el.
