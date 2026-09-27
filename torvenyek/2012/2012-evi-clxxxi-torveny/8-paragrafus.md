@@ -18,7 +18,7 @@ b) a személyt védelem alá kell helyezni mások biztonsága, közrendet vagy k
 
 c) a személyt nem kell védelem alá helyezni.
 
-(3) A bíróság – ideértve a büntetés-végrehajtási bírót is – és az ügyészség az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton rögzíti a körözési nyilvántartási rendszerben.
+(3) A bíróság – ideértve a büntetés-végrehajtási bírót is –, az ügyészség és az NVVH az (1) bekezdés b) és c) pontja szerinti, általa hozott körözést elrendelő határozatot elektronikus úton rögzíti a körözési nyilvántartási rendszerben.
 
 (4) A (2) bekezdés a) és b) pontját elsősorban olyan személyre – különösen kiskorúra – kell alkalmazni, akinek az arra jogosult szerv határozata alapján az intézményi elhelyezése szükséges.
 

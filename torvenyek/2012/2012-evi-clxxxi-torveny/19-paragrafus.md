@@ -2,7 +2,7 @@
 
 19. § (1) A SIS-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkezik
 
-a) a büntetőügyben eljáró bíróság és ügyészség a figyelmeztető jelzések teljes körét érintően,
+a) a büntetőügyben eljáró bíróság, ügyészség és NVVH a figyelmeztető jelzések teljes körét érintően,
 
 b) a rendőrség nyomozóhatósági, közbiztonságvédelmi, körözési és határrendészeti feladatai ellátásához, valamint a Nemzeti Adó- és Vámhivatal nyomozóhatósági és vámellenőrzési feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
 

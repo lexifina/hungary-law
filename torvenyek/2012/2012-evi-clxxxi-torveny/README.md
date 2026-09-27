@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-181-00-00
 | 2025-03-01 | 2024. évi LXIV. törvény | 2012-181-00-00.27 |
 | 2025-06-07 | 2025. évi XXXV. törvény | 2012-181-00-00.29 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2012-181-00-00.30 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2012-181-00-00.31 |

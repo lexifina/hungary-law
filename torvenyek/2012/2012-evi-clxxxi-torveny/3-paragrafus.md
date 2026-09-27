@@ -14,7 +14,7 @@ d) ellátja az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 46. és 
 
 e) az NS.CP-n keresztül, az arra feljogosított jelzéskezelő kérésére létrehozza és törli a magyar szervek által elhelyezett figyelmeztető jelzések közötti kapcsolatokat, szükség esetén módosítja az összekapcsolt figyelmeztető jelzések körét,
 
-f) a nemzetközi körözési, valamint az európai vagy nemzetközi elfogatóparanccsal érintett személy elfogását célzó más művelet érdekében vádemelés előtt az ügyészség, a vádemelés után a bíróság döntése alapján az átadási vagy kiadatási letartóztatás céljából bevitt figyelmeztető jelzést ideiglenesen lekérdezhetetlenné teszi az átadási vagy kiadatási eljárás megkezdése előtt,
+f) a nemzetközi körözési, valamint az európai vagy nemzetközi elfogatóparanccsal érintett személy elfogását célzó más művelet érdekében vádemelés előtt az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a vádemelés után a bíróság döntése alapján az átadási vagy kiadatási letartóztatás céljából bevitt figyelmeztető jelzést ideiglenesen lekérdezhetetlenné teszi az átadási vagy kiadatási eljárás megkezdése előtt,
 
 g) e törvény szerint végrehajtja azokat az intézkedéseket, amelyeknek a célja, hogy a nemzeti joggal, a nemzetközi kötelezettséggel összeegyeztethetetlen kapcsolat az N.SIS-ben ne legyen látható,
 
