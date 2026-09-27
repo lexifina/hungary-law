@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 66. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. §[^1]
+1. § A fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet [a továbbiakban: 45/2014. (II. 26.) Korm. rendelet] 4. §-a a következő 23–29. ponttal egészül ki:
 
-[^1]: Az 1. § a 8. § (2) bekezdése alapján 2026. szeptember 27-én lép hatályba.
+(E rendelet alkalmazásában:)
