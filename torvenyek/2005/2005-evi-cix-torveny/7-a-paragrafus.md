@@ -1,6 +1,6 @@
 7/A. § (1) Ha törvény másképpen nem rendelkezik, a 6. § (1) bekezdésében meghatározott adatoknak a kérelmező által az adattovábbítási kérelemben pontosan meghatározott köre, az adatátvétel pontos célját indokoló kérelemre az alábbi szervezeteknek továbbítható:
 
-a) a bíróság, az ügyészség és a nyomozó hatóság részére bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából;
+a) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság részére bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából;
 
 b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervek, valamint a rendőrség terrorizmust elhárító szerve részére a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából;
 

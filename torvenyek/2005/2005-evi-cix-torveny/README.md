@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2005-109-00-00.21 |
 | 2025-06-15 | 2025. évi XXXV. törvény | 2005-109-00-00.22 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2005-109-00-00.23 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2005-109-00-00.24 |
