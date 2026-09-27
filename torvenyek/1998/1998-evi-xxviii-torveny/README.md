@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-28-00-00
 | 2022-10-04 | 2021. évi CXXVIII. törvény | 1998-28-00-00.38 |
 | 2025-08-20 | 2025. évi LXVI. törvény | 1998-28-00-00.39 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 1998-28-00-00.40 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 1998-28-00-00.41 |
