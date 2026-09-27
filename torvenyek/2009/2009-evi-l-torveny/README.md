@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 2009-50-00-00.34 |
 | 2025-08-19 | 2025. évi XLIX. törvény | 2009-50-00-00.36 |
 | 2026-01-16 | 2025. évi XCII. törvény | 2009-50-00-00.37 |
+| 2026-09-27 | 2026. évi XXXIV. törvény | 2009-50-00-00.38 |
