@@ -30,7 +30,7 @@ szemben.
 
 (4) A (2) bekezdésben előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
-a) nyomozó hatósággal, ügyészséggel szemben,
+a) nyomozó hatósággal, ügyészséggel vagy az NVVH-val szemben,
 
 b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
 
