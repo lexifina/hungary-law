@@ -14,4 +14,4 @@ e) törvényben meghatározott esetben az általa képviselt tagság, illetve cs
 
 f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.
 
-g) a feladat- és hatáskörében eljáró Integritás Hatóság.
+g) a feladat- és hatáskörében eljáró Integritás Hatóság vagy NVVH.

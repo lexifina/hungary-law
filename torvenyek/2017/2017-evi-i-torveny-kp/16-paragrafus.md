@@ -10,4 +10,4 @@
 
 (3) A perben személyesen vagy meghatalmazottja útján az járhat el, aki a polgári perrendtartás szabályai szerint perbeli cselekvőképességgel rendelkezik vagy a megelőző eljárásban személyesen eljárhatott.
 
-(4) A perképességre egyebekben, valamint az ügyész, a támogató, a tolmács és a fordító részvételére a polgári perrendtartás szabályait kell alkalmazni.
+(4) A perképességre egyebekben, valamint az ügyész, a támogató, a tolmács és a fordító részvételére, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) képviseletére a polgári perrendtartás szabályait kell alkalmazni.
