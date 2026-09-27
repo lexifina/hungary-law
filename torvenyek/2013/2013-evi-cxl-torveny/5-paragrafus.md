@@ -30,7 +30,7 @@ törli.
 
 (7) A nyilvántartásában szereplő (3) bekezdés a)–d) és f) pontja szerinti adatokról a fémkereskedelmi hatóság megkeresésre, illetve adatkérésre tájékoztatja
 
-a) bíróságot, az ügyészséget vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
+a) bíróságot, az ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
 
 b) a hulladékgazdálkodási hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
 

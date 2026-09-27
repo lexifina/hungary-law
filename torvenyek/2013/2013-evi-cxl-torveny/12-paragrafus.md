@@ -16,7 +16,7 @@ ab) a 11. § (2) bekezdés a), c) és d) pontja, valamint a 11. § (3) bekezdés
 
 véglegessé vált határozatban bírságot nem szabott ki,
 
-b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság lefoglalást rendelt el,
+b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság lefoglalást rendelt el,
 
 c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában lévő eszközre, ha a tulajdonos írásban nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy az eszközt jogsértés céljából használják fel,
 
