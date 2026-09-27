@@ -10,7 +10,7 @@
 
 (6) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét az MNB – a 49/D. § (5) bekezdésében foglaltakon kívül – abban az esetben is megszünteti, ha
 
-a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés került elrendelésre vagy annak végrehajtása van folyamatban a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján; vagy
+a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés került elrendelésre vagy annak végrehajtása van folyamatban a büntetőügyben eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján; vagy
 
 b) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
 
