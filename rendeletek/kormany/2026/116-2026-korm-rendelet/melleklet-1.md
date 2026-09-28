@@ -1,3 +1,3 @@
-1. melléklet a 116/2026. (VII. 30.) Korm. rendelethez[^4]
+1. melléklet a 116/2026. (VII. 30.) Korm. rendelethez[^9]
 
-[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § A 45/2014. (II. 26.) Korm. rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) Ha a távollévők közötti, elektronikus úton kötött szerződés a fogyasztó számára fizetési kötelezettséget keletkeztet, a vállalkozás egyértelműen és jól látható módon, közvetlenül a fogyasztó szerződési nyilatkozatának megtétele előtt felhívja a fogyasztó figyelmét a 11. § (1) bekezdés a), e), f), p) és r) pontjában meghatározott információkra, valamint arra, ha a gyártó az áru tekintetében tartósságra vonatkozó kereskedelmi jótállást vállal, és az erre vonatkozó információt a vállalkozás rendelkezésére bocsátja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
