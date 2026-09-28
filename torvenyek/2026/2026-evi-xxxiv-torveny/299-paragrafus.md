@@ -1,3 +1,1 @@
-299. § A büntetőeljárásról szóló 2017. évi XC. törvény „Átmeneti rendelkezések” alcíme a következő 876/F. §-sal egészül ki:
-
-„876/F. § A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjában a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt folyamatban levő nyomozás esetén az ügyészség vagy a nyomozó hatóság a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjától számított hat hónapon belül tájékoztatja az NVVH-t a nyomozás állásáról.”
+### 299. §
