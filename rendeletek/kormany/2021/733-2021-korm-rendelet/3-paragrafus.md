@@ -12,7 +12,7 @@
 
 4. felhívás: a támogatást igénylők számára elkészített, a támogatási kérelmek benyújtásához szükséges információkat tartalmazó – a www.palyazat.gov.hu oldalon elérhető – dokumentum;
 
-4a.[^1] irányító hatóság: a külgazdasági ügyekért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium – miniszter által kijelölt – feladatkörében érintett szervezeti egysége;
+4a.[^1] irányító hatóság: a külpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium – miniszter által kijelölt – feladatkörében érintett szervezeti egysége;
 
 5. jogszerű állapot helyreállítása: a kifogásnak helyt adó döntés nyomán a jogsértő eljárási cselekmény jogszabálynak, a felhívásnak, a támogatási szerződésnek és a kifogás tárgyában hozott döntésnek megfelelő megismétlése;
 
@@ -48,4 +48,4 @@
 
 21. utófinanszírozás: a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az 1. mellékletben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett vagy az engedményes pénzforgalmi számlájára.
 
-[^1]: A 3. § 4a. pontját a 197/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
+[^1]: A 3. § 4a. pontját a 197/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 220/2026. (IX. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
