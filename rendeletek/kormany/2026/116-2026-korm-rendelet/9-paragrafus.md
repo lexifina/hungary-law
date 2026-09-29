@@ -1,5 +1,0 @@
-9. § (1) Az 1–5. § és a 7. § a) pontja a 2005/29/EK és a 2011/83/EU irányelv módosításáról, a fogyasztók zöld átállásban való szerepvállalásának a tisztességtelen gyakorlatokkal szembeni hatékonyabb védelem és a hatékonyabb tájékoztatás révén történő növelése tekintetében című, 2024. február 28-i (EU) 2024/825 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(2) A 6. §, a 7. § b) pontja és az 1. melléklet a 2011/83/EU irányelvnek a távollévők között kötött pénzügyi szolgáltatási szerződések tekintetében történő módosításáról és a 2022/65/EK irányelv hatályon kívül helyezéséről szóló, 2023. november 22-i (EU) 2023/2673 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(3) Ez a rendelet a megfelelőség szavatolására vonatkozó jogszabályi kötelezettségről szóló harmonizált értesítés és a tartósságra vonatkozó kereskedelmi jótállást jelölő harmonizált címke kialakításáról és tartalmáról szóló, 2025. szeptember 25-i (EU) 2025/1960 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
