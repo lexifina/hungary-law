@@ -4,6 +4,6 @@
 
 13. § (1) Ez a határozat a közzététele napján lép hatályba.
 
-(2) Hatályát veszti az Alkotmánybíróság döntéseinek megjelöléséről és közzétételéről szóló 2001/2026. (I. 14.) AB Tü. határozat.
+(2)[^1]
 
-Alkotmánybírósági ügyszám: XVIII/2471/2026.
+[^1]: A 13. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
