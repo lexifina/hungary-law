@@ -2,9 +2,9 @@
 
 (2) A gyógyszergyártási engedély másolatát mellékelni kell a harmadik országból beérkező és a tagállamok valamelyikébe továbbforgalmazott (tranzit) állatgyógyászati készítményekhez is.
 
-(3)[^123]
+(3)[^127]
 
-(4)[^124]
+(4)[^128]
 
-[^123]: A 44. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 7. pontja hatályon kívül helyezte.
-[^124]: A 44. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 7. pontja hatályon kívül helyezte.
+[^127]: A 44. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 7. pontja hatályon kívül helyezte.
+[^128]: A 44. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 7. pontja hatályon kívül helyezte.

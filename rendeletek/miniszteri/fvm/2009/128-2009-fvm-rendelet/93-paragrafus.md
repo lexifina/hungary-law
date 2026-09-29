@@ -1,3 +1,3 @@
-93. §[^293]
+93. §[^302]
 
-[^293]: A 93. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^302]: A 93. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

@@ -2,9 +2,9 @@
 
 79. § (1) A mellékhatás-figyelő rendszer az állatgyógyászati készítményekkel kapcsolatba kerülő szakemberek bejelentésein alapul.
 
-(2)[^245] A kezelő állatorvos a NÉBIH honlapján közzétett – a (2a) bekezdés szerinti adattartalommal meghatározott – adatlapon haladéktalanul jelenti a NÉBIH-nek a feltételezhetően az állatgyógyászati készítmény által okozott, a jóváhagyott használati utasításában előírt alkalmazása során tapasztalt súlyos, nem várt vagy emberen észlelt mellékhatásokat.
+(2)[^254] A kezelő állatorvos a NÉBIH honlapján közzétett – a (2a) bekezdés szerinti adattartalommal meghatározott – adatlapon haladéktalanul jelenti a NÉBIH-nek a feltételezhetően az állatgyógyászati készítmény által okozott, a jóváhagyott használati utasításában előírt alkalmazása során tapasztalt súlyos, nem várt vagy emberen észlelt mellékhatásokat.
 
-(2a)[^246] A (2) bekezdés szerinti bejelentést legalább a következő adattartalommal kell megtenni:
+(2a)[^255] A (2) bekezdés szerinti bejelentést legalább a következő adattartalommal kell megtenni:
 
 a) az eset besorolása a következő kategóriák valamelyikébe: feltételezett mellékhatás, hatékonyság-elmaradás, élelmezés-egészségügyi várakozási idővel kapcsolatos eset vagy környezetkárosító hatás,
 
@@ -28,11 +28,11 @@ j) az eset leírása, egyéb vonatkozó adatok, továbbá
 
 k) a bejelentő neve, aláírása, dátum, hely.
 
-(3)[^247] A mellékhatás-figyelő rendszer működtetése a NÉBIH feladata, amely a rendszer keretében gyűjti, kivizsgálja és elemzi az állatgyógyászati készítmények használata során az állatokon és embereken észlelt mellékhatásokat, gyűjti továbbá az állatgyógyászati készítmények hatáselmaradására, a használati utasítástól eltérő alkalmazás következményeire, az élelmezés-egészségügyi várakozási idő betartása mellett esetlegesen kimutatott maradékanyagokra és a környezetkárosító hatásra, valamint bármely fertőző ágensnek állatgyógyászati készítmény útján történt feltételezett átvitelére vonatkozó adatokat is. A NÉBIH az adatokat a mellékhatás súlyossága és a forgalmazott mennyiség függvényében a kockázatelemzés módszerével értékeli.
+(3)[^256] A mellékhatás-figyelő rendszer működtetése a NÉBIH feladata, amely a rendszer keretében gyűjti, kivizsgálja és elemzi az állatgyógyászati készítmények használata során az állatokon és embereken észlelt mellékhatásokat, gyűjti továbbá az állatgyógyászati készítmények hatáselmaradására, a használati utasítástól eltérő alkalmazás következményeire, az élelmezés-egészségügyi várakozási idő betartása mellett esetlegesen kimutatott maradékanyagokra és a környezetkárosító hatásra, valamint bármely fertőző ágensnek állatgyógyászati készítmény útján történt feltételezett átvitelére vonatkozó adatokat is. A NÉBIH az adatokat a mellékhatás súlyossága és a forgalmazott mennyiség függvényében a kockázatelemzés módszerével értékeli.
 
-(4)[^248] A NÉBIH az összegyűjtött adatokat továbbítja a 726/2004/EK rendelet 57. cikkének (1) bekezdése szerinti adatbázisba. Az adatbázis állandó hozzáférést biztosít a tagállamoknak és – a személyes adatok védelmének biztosítása mellett – a közvéleménynek is.
+(4)[^257] A NÉBIH az összegyűjtött adatokat továbbítja a 726/2004/EK rendelet 57. cikkének (1) bekezdése szerinti adatbázisba. Az adatbázis állandó hozzáférést biztosít a tagállamoknak és – a személyes adatok védelmének biztosítása mellett – a közvéleménynek is.
 
-[^245]: A 78. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 28. §-ával megállapított szöveg.
-[^246]: A 78. § (2a) bekezdését a 27/2021. (VIII. 11.) AM rendelet 28. §-a iktatta be.
-[^247]: A 79. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 20. pontja szerint módosított szöveg.
-[^248]: A 79. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^254]: A 78. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 28. §-ával megállapított szöveg.
+[^255]: A 78. § (2a) bekezdését a 27/2021. (VIII. 11.) AM rendelet 28. §-a iktatta be.
+[^256]: A 79. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 20. pontja szerint módosított szöveg.
+[^257]: A 79. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

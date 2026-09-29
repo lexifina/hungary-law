@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-128-20-
 | 2023-05-11 | 2009-128-20-82.15 | 70/2013. (VII. 31.) VM rendelet |
 | 2023-05-15 | 2009-128-20-82.16 | 23/2023. (V. 10.) AM rendelet |
 | 2024-01-01 | 2009-128-20-82.14 | 27/2021. (VIII. 11.) AM rendelet |
+| 2026-09-29 | 2009-128-20-82.17 | 19/2026. (IX. 14.) AÉM rendelet |

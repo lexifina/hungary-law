@@ -1,10 +1,10 @@
-## 107. §[^321] Az e rendelet szerinti kérelmek formanyomtatványai tekintetében bekövetkező európai uniós szintű változtatások esetén a NÉBIH a minisztérium hivatalos lapjában és saját honlapján közzéteszi a módosított formanyomtatványt.
+## 107. §[^330] Az e rendelet szerinti kérelmek formanyomtatványai tekintetében bekövetkező európai uniós szintű változtatások esetén a NÉBIH a minisztérium hivatalos lapjában és saját honlapján közzéteszi a módosított formanyomtatványt.
 
 ## VIII. RÉSZ
 
-## AZ ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK EURÓPAI UNIÓS ENGEDÉLYEZÉSI ELJÁRÁSÁVAL KAPCSOLATOS NEMZETI RENDELKEZÉSEK[^322]
+## AZ ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK EURÓPAI UNIÓS ENGEDÉLYEZÉSI ELJÁRÁSÁVAL KAPCSOLATOS NEMZETI RENDELKEZÉSEK[^331]
 
-## 108. §[^323] Az Európai Unió által engedélyezett referencia készítmény generikus készítményét a NÉBIH az e rendeletben foglaltaknak megfelelően engedélyezi, ha
+## 108. §[^332] Az Európai Unió által engedélyezett referencia készítmény generikus készítményét a NÉBIH az e rendeletben foglaltaknak megfelelően engedélyezi, ha
 
 a) az engedély iránti kérelmet a 14–15. §-nak megfelelően nyújtották be,
 
@@ -12,6 +12,6 @@ b) az SPC minden jelentős vonatkozásban megegyezik az Európai Közösség ál
 
 c) a generikus készítményt ugyanazon név alatt engedélyezi, mint a többi tagállam, ahol kérelmet adtak be, azzal, hogy e rendelkezés alkalmazásában az INN (nemzetközi szabadnév) minden nyelvi változatát ugyanannak a névnek kell tekinteni.
 
-[^321]: A 107. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
-[^322]: A VIII. rész címe a 27/2021. (VIII. 11.) AM rendelet 37. § 26. pontja szerint módosított szöveg.
-[^323]: A 108. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^330]: A 107. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
+[^331]: A VIII. rész címe a 27/2021. (VIII. 11.) AM rendelet 37. § 26. pontja szerint módosított szöveg.
+[^332]: A 108. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.

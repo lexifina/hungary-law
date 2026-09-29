@@ -1,3 +1,3 @@
-88. §[^288]
+88. §[^297]
 
-[^288]: A 88. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 12. pontja hatályon kívül helyezte.
+[^297]: A 88. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 12. pontja hatályon kívül helyezte.

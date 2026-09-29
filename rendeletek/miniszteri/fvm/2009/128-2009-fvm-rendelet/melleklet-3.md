@@ -14,11 +14,11 @@
 
 ## Az adminisztratív adatokhoz mellékelni kell annak a dokumentumnak a másolatát, amely igazolja, hogy a gyártó az érintett állatgyógyászati készítmény előállítására az 43. § szerinti vagy azzal egyenértékű engedéllyel rendelkezik, felsorolva azoknak az országoknak a nevét, ahol az engedélyt megadták, SPC-jének példányait a tagállamok által jóváhagyott formában, valamint azoknak az országoknak a listáját, ahová a kérelmet már beadták.
 
-## B.[^385] Termékjellemzők összefoglalója, címkézés és használati utasítás
+## B.[^401] Termékjellemzők összefoglalója, címkézés és használati utasítás
 
 ## A kérelmező a 16. § szerint javaslatot terjeszt elő a készítmény jellemzőinek összefoglalásáról. Ezen kívül a kérelmező benyújtja az állatgyógyászati készítmény kiszerelési egységének, a csomagolásának, címkéjének és minden egyes kiszerelése csomagolási szövegének egy vagy több példányát a használati utasítással együtt. Mindemellett a kérelmezőnek be kell nyújtania az állatgyógyászati készítmény végleges kiszerelésének/kiszereléseinek egy vagy több mintapéldányát vagy modelljét az Európai Unió legalább egy hivatalos nyelvén. A modell fekete-fehérben és elektronikusan is benyújtható, ha megszerezték a NÉBIH ezzel kapcsolatos, előzetes beleegyezését.
 
-## C.[^386] Részletes és kritikai összefoglalók
+## C.[^402] Részletes és kritikai összefoglalók
 
 ## A 12. §-sal összhangban részletes és kritikai összefoglalókat kell benyújtani a gyógyszerészeti (fizikai-kémiai, biológiai vagy mikrobiológiai) vizsgálatok, az ártalmatlansági vizsgálatok és maradékanyagokra vonatkozó vizsgálatok, a preklinikai és klinikai vizsgálatok, valamint az állatgyógyászati készítmény által a környezetre gyakorolt esetleges kockázatokat értékelő vizsgálatok eredményeiről.
 
@@ -38,7 +38,7 @@
 
 ## GYÓGYSZERÉSZETI (FIZIKAI-KÉMIAI, BIOLÓGIAI VAGY MIKROBIOLÓGIAI ADATOK [MINŐSÉG])
 
-## I.[^387] Alapelvek és követelmények
+## I.[^403] Alapelvek és követelmények
 
 ## A forgalomba hozatali engedély iránti kérelemhez a 12. § (5) bekezdése j) pontjának értelmében mellékelendő adatokat és dokumentumokat az alábbi követelményekkel összhangban kell benyújtani.
 
@@ -142,7 +142,7 @@
 
 ## A meghatározott specifikációnak való megfelelés bizonyítása érdekében a kiindulási anyagokra vonatkozóan analitikai bizonyítványokat kell benyújtani.
 
-## 1.1.[^388] Hatóanyagok
+## 1.1.[^404] Hatóanyagok
 
 ## Minden egyes gyártó, valamint a hatóanyag gyártásában és vizsgálatában érintett valamennyi javasolt létesítmény vagy előállítási helyszín nevét, címét és felelősségét fel kell tüntetni.
 
@@ -166,7 +166,7 @@
 
 ## 4. A biotechnológiai állatgyógyászati készítmények esetében a molekuláris szerkezetre vonatkozó bizonyítéknak tartalmaznia kell a sematikus aminosav-szekvenciát és a relatív molekuláris tömeget.
 
-## 1.1.1.[^389] A gyógyszerkönyvben szereplő hatóanyagok
+## 1.1.1.[^405] A gyógyszerkönyvben szereplő hatóanyagok
 
 ## Az Európai Gyógyszerkönyv monográfiái alkalmazandók az abban szereplő összes anyagra.
 
@@ -212,11 +212,11 @@
 
 ## c) hidratáltság,
 
-## d)[^390] víz/olaj megoszlási hányados, továbbá a NÉBIH a pH/pK-értéket is kérheti, ha véleménye szerint ez az információ lényeges.
+## d)[^406] víz/olaj megoszlási hányados, továbbá a NÉBIH a pH/pK-értéket is kérheti, ha véleménye szerint ez az információ lényeges.
 
 ## Az a)–c) pont előírásai nem vonatkoznak a kizárólag oldott formában használt anyagokra.
 
-## 1.2.[^391] Segédanyagok
+## 1.2.[^407] Segédanyagok
 
 ## Az Európai Gyógyszerkönyv általános és egyedi monográfiái alkalmazandók az abban szereplő valamennyi anyagra.
 
@@ -288,7 +288,7 @@
 
 ## Amennyiben az Európai Gyógyszerkönyvben vagy – ennek hiányában – valamely tagállam nemzeti gyógyszerkönyvében található általános cikkelyekben nem szereplő vizsgálati eljárásokat és minőségi követelményeket alkalmaznak, bizonyítani kell, hogy a késztermék, amennyiben ezeknek a cikkelyeknek megfelelően vizsgálnák, megfelelne az adott gyógyszerkönyvben az adott gyógyszerformára meghatározott minőségi követelményeknek.
 
-## 1.[^392] A készítmény (a késztermék) általános jellemzői
+## 1.[^408] A készítmény (a késztermék) általános jellemzői
 
 ## A készterméken elvégzett vizsgálatok közé mindig be kell iktatni egyes, a termék általános tulajdonságaira irányuló vizsgálatokat. Ezek a vizsgálatok megfelelő esetben az átlagos tömeg és az ettől való legnagyobb eltérés ellenőrzéséből, mechanikai, fizikai vagy mikrobiológiai vizsgálatokból, organoleptikai tulajdonságok, fizikai jellemzők, mint a sűrűség, pH-érték, refrakciós index stb. vizsgálatából állnak. A kérelmezőnek minden egyes esetben minden ilyen jellemzőre meg kell adnia a szabványos értéket, valamint a tűréshatárokat.
 
@@ -296,7 +296,7 @@
 
 ## Ezen túlmenően a szájon át beadásra kerülő szilárd halmazállapotú gyógyszerformáknál in vitro vizsgálatokat kell végezni a bennük lévő hatóanyag vagy hatóanyagok felszabadulási és kioldódási sebességének meghatározására Ezeket a vizsgálatokat akkor is el kell végezni, ha az alkalmazás módja ugyan más, de a NÉBIH azt szükségesnek ítéli.
 
-## 2.[^393] A hatóanyagok azonosítása és meghatározása
+## 2.[^409] A hatóanyagok azonosítása és meghatározása
 
 ## A hatóanyagok azonosítását és meghatározását vagy egy üzemi gyártási tételből származó reprezentatív mintán vagy több adagolási egység egyedi analízisével kell elvégezni.
 
@@ -956,12 +956,12 @@
 
 3. számú melléklet a 128/2009. (X. 6.) FVM rendelethez
 
-[^385]: A 2. számú melléklet 1. rész B. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^386]: A 2. számú melléklet 1. rész C. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg. [E módosító rendelet 111. § 15. pontjával elrendelt módosítás, amely szerint az „az MgSzH Központhoz” szövegrész helyébe az „a NÉBIH-hez” szöveg lép, nem vezethető át.]
-[^387]: A 2. számú melléklet 2. rész I. fejezete a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^388]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja szerint módosított szöveg. [E módosító rendelet 111. §-ának ugyanezen pontjával elrendelt módosítás, amely szerint a 3. bekezdésben az „az MgSzH Központnak” szövegrész helyébe az „a NÉBIH-nek” szöveg lép, nem vezethető át.] A 2. számú melléklet 2. rész I. fejezet C. pont 1.1. alpontja a 77/2013. (IX. 10.) VM rendelet 13. § 4. pontja szerint módosított szöveg.
-[^389]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^390]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.3. alpont d) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^391]: A 2. számú melléklet 2. RÉSZ I. cím, C alcím 1.2. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 29. pontja szerint módosított szöveg.
-[^392]: A 2. számú melléklet 2. rész I. fejezet E. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^393]: A 2. számú melléklet 2. rész I. fejezet E. pont 2. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^401]: A 2. számú melléklet 1. rész B. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^402]: A 2. számú melléklet 1. rész C. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg. [E módosító rendelet 111. § 15. pontjával elrendelt módosítás, amely szerint az „az MgSzH Központhoz” szövegrész helyébe az „a NÉBIH-hez” szöveg lép, nem vezethető át.]
+[^403]: A 2. számú melléklet 2. rész I. fejezete a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^404]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja szerint módosított szöveg. [E módosító rendelet 111. §-ának ugyanezen pontjával elrendelt módosítás, amely szerint a 3. bekezdésben az „az MgSzH Központnak” szövegrész helyébe az „a NÉBIH-nek” szöveg lép, nem vezethető át.] A 2. számú melléklet 2. rész I. fejezet C. pont 1.1. alpontja a 77/2013. (IX. 10.) VM rendelet 13. § 4. pontja szerint módosított szöveg.
+[^405]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^406]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.3. alpont d) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^407]: A 2. számú melléklet 2. RÉSZ I. cím, C alcím 1.2. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 29. pontja szerint módosított szöveg.
+[^408]: A 2. számú melléklet 2. rész I. fejezet E. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^409]: A 2. számú melléklet 2. rész I. fejezet E. pont 2. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

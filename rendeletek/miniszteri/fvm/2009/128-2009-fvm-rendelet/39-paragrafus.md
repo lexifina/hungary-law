@@ -1,3 +1,3 @@
-39. §[^116]
+39. §[^120]
 
-[^116]: A 39. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.
+[^120]: A 39. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.

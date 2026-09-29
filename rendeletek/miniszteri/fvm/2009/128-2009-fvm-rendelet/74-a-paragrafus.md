@@ -1,10 +1,10 @@
-74/A. §[^218] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
+74/A. §[^225] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
 
 (2) Antibiotikum-hatóanyagú készítmény megrendelőnek nem minősülő állatorvosi vényen rendelhető.
 
-(3) Az élelmiszer-termelő állatok kezelésére szolgáló, vényköteles állatgyógyászati készítmény rendelésére szolgáló vényt három példányban kell kiállítani, amelynek az Éltv. 16. § (3) bekezdésében foglaltakon felül a következő adatokat kell tartalmaznia:
+(3)[^226] Az élelmiszer-termelő állatok kezelésére szolgáló vényköteles állatgyógyászati készítmény rendelésére szolgáló vényt három példányban kell kiállítani, amelynek az Éltv. 16. § (3) bekezdésében foglaltakon felül a következő adatokat kell tartalmaznia:
 
-a) a rendelt készítmény neve,
+a) a rendelt készítmény neve, hatóanyaga,
 
 b) az előírt mennyiség, beleértve a kiszerelés méretét is,
 
@@ -12,19 +12,25 @@ c) a kezelendő állat vagy állatcsoport azonosítása,
 
 d) adagolási előírás,
 
-e) élelmezés-egészségügyi várakozási idő,
+e) élelmezés-egészségügyi várakozási idő, abban az esetben is, ha nulla nap,
 
 f) az állatorvos aláírása, pecsétje vagy azzal egyenértékű elektronikus azonosítója,
 
-g) „A kezeléssel kapcsolatos tudnivalókat tudomásul vettem.” szöveg, alatta az állattartó aláírása, neve, címe, az állattartó telep tenyészetkódja,
+g) az „A kezeléssel kapcsolatos tudnivalókat tudomásul vettem.” szöveg, alatta az állattartó aláírása, neve, címe, az állattartó telep tenyészetkódja,
 
-h) „A vényt 5 évig meg kell őrizni!” szöveg,
+h) az „A vényt 5 évig meg kell őrizni!” szöveg,
 
-i) a vény bal felső sarkában az „Rp.” betűk feltüntetése, a vény sorszáma, a kiállítás dátuma.
+i) a vény bal felső sarkában az „Rp.” betűk feltüntetése, a vény sorszáma, a kiállítás dátuma,
 
-(4) A nem élelmiszer-termelő állatok kezelésére szolgáló vényköteles állatgyógyászati készítmény vényét egy példányban kell kiállítani, melynek az Éltv. 16. § (3) bekezdésében foglaltakon felül a következő adatokat kell tartalmaznia:
+j) a megfelelő használat biztosításához szükséges figyelmeztetések, beleértve adott esetben az antimikrobiális szerek körültekintő használatát,
 
-a) a rendelt készítmény neve,
+k) ha a készítmény az (EU) 2019/6 európai parlamenti és tanácsi rendelet 113. és 114. cikke szerinti alkalmazásra kerül felírásra, az erre vonatkozó nyilatkozat, valamint
+
+l) ha a készítmény az (EU) 2019/6 európai parlamenti és tanácsi rendelet 107. cikk (3) és (4) bekezdése szerinti profilaxisra vagy metafilaxisra kerül felírásra, az erre vonatkozó nyilatkozat.
+
+(4)[^227] A nem élelmiszer-termelő állatok kezelésére szolgáló vényköteles állatgyógyászati készítmény vényét egy példányban kell kiállítani, melynek az Éltv. 16. § (3) bekezdésében foglaltakon felül a következő adatokat kell tartalmaznia:
+
+a) a rendelt készítmény neve, hatóanyaga,
 
 b) az előírt mennyiség, beleértve a kiszerelés méretét is,
 
@@ -36,15 +42,21 @@ e) az állatorvos aláírása, pecsétje vagy azzal egyenértékű elektronikus 
 
 f) az állattartó neve, címe,
 
-g) „A vényt 5 évig meg kell őrizni!” szöveg,
+g) az „A vényt 5 évig meg kell őrizni!” szöveg,
 
-h) a vény bal felső sarkában az „Rp.” betűk feltüntetése, a vény sorszáma, a kiállítás dátuma.
+h) a vény bal felső sarkában az „Rp.” betűk feltüntetése, a vény sorszáma, a kiállítás dátuma,
+
+i) a megfelelő használat biztosításához szükséges figyelmeztetések, beleértve adott esetben az antimikrobiális szerek körültekintő használatát,
+
+j) ha a készítmény az (EU) 2019/6 európai parlamenti és tanácsi rendelet 112. cikke szerinti alkalmazásra kerül felírásra, az erre vonatkozó nyilatkozat,
+
+k) ha a készítmény az (EU) 2019/6 európai parlamenti és tanácsi rendelet 107. cikk (3) és (4) bekezdése szerinti profilaxisra vagy metafilaxisra kerül felírásra, az erre vonatkozó nyilatkozat.
 
 (5) Az állatorvosi vény elektronikus úton történő kiállításának feltétele, hogy az állatgyógyászati készítmény forgalmazója erre a célra kialakított, megfelelő biztonsági és hitelesítő elemekkel ellátott informatikai rendszert működtet, amely lehetővé teszi az állatorvosok azonosítását és a megadott adatok nyomon követhetőségét. Az elektronikus állatorvosi vény adattartalmára a 74. § (5) bekezdésében, valamint az e § (3)–(4) bekezdésében foglaltakat kell alkalmazni. Az állatorvosi vény megőrzésére vonatkozó szabályokat az elektronikusan kiállított vényekre is alkalmazni kell.
 
 (6) Az elektronikus állatorvosi vény hitelességét a kiadást megelőzően az állatgyógyászati készítmény forgalmazója ellenőrzi.
 
-(7)[^219] Az elektronikus vény kiállítására szolgáló informatikai rendszer adataihoz annak működtetője, illetve üzemeltetője közvetlen és folyamatos hozzáférést biztosít a NÉBIH és a vármegyei kormányhivatalok számára hatósági ellenőrzés lefolytatása céljából.
+(7)[^228] Az elektronikus vény kiállítására szolgáló informatikai rendszer adataihoz annak működtetője, illetve üzemeltetője közvetlen és folyamatos hozzáférést biztosít a NÉBIH és a vármegyei kormányhivatalok számára hatósági ellenőrzés lefolytatása céljából.
 
 (8) A megrendelőn legalább az alábbi adatokat kell feltüntetni:
 
@@ -64,5 +76,7 @@ bc) felhasználási helye.
 
 (9) A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-[^218]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.
-[^219]: A 74/A. § (7) bekezdése a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
+[^225]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.
+[^226]: A 74/A. § (3) bekezdése a 19/2026. (IX. 14.) AÉM rendelet 8. §-ával megállapított szöveg.
+[^227]: A 74/A. § (4) bekezdése a 19/2026. (IX. 14.) AÉM rendelet 8. §-ával megállapított szöveg.
+[^228]: A 74/A. § (7) bekezdése a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.

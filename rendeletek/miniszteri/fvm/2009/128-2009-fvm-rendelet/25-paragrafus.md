@@ -1,3 +1,3 @@
-25. §[^93]
+25. §[^97]
 
-[^93]: A 25. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 3. pontja hatályon kívül helyezte.
+[^97]: A 25. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 3. pontja hatályon kívül helyezte.

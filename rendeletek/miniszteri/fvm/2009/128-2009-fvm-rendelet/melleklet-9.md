@@ -36,7 +36,23 @@
 
 ## Személyzet
 
-## 1. Valamennyi nagykereskedőnek minden egyes telephelyén ki kell jelölnie egy felelős személyt, aki a minőségügyi rendszer megfelelő alkalmazásáért felel. A feladatát személyesen kell végeznie, és gyógyszerészi vagy állatorvosi végzettséggel kell rendelkeznie. Ennek a személynek a telephely teljes üzemideje alatt jelen kell lennie a telephelyen.
+## 1.[^425] Valamennyi nagykereskedőnek minden egyes telephelyén ki kell jelölnie egy felelős személyt, aki a minőségügyi rendszer megfelelő alkalmazásáért felel, és a következő tudományágak közül legalább egy tekintetében egyetemi diplomával rendelkezik:
+
+## 1.1. gyógyszerészet,
+
+## 1.2. orvostudomány,
+
+## 1.3. állatgyógyászat,
+
+## 1.4. kémia,
+
+## 1.5. gyógyszerészeti kémia és gyógyszer-technológia vagy
+
+## 1.6. biológia.
+
+## 1a.[^426] A felelős személynek a végzettségén túlmenően legalább egyéves gyakorlati tapasztalattal kell rendelkeznie egy vagy több gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezetnél a gyógyszerek minőségbiztosítása területén.
+
+## 1b.[^427] A felelős személynek vagy a helyettesítésére jogosult, az 1. és 1a. pontban foglalt feltételeknek megfelelő személynek a telephely teljes üzemideje alatt jelen kell lennie a telephelyen.
 
 ## 2. A raktározási folyamatban részt vevő kulcsembereknek megfelelő tapasztalattal kell rendelkezniük, ami alapján biztosítható, hogy a készítményeket, illetve alapanyagokat megfelelően tárolják és kezeljék.
 
@@ -44,11 +60,11 @@
 
 ## Dokumentáció
 
-## 4.[^409] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+## 4.[^428] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 ## Megrendelés
 
-## 5.[^410] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
+## 5.[^429] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
 
 ## Eljárások
 
@@ -128,15 +144,7 @@
 
 ## Kiadás
 
-## 17. Nagykereskedő csak az alábbiak számára forgalmazhat és kizárólag az alábbi feltételekkel:
-
-## a) Más nagykereskedőnek vagy kiskereskedőnek abban az esetben, ha a vevő pozíciójában álló nagykereskedő vagy a kiskereskedő hatályos működési engedélyének másolatát előzetesen beszerezte.
-
-## b)[^411] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
-
-## c)[^412] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
-
-## d)[^413]
+## 17.[^430] Nagykereskedő kizárólag más nagykereskedőnek vagy kiskereskedőnek forgalmazhat, a hatályos működési engedélyük másolatának előzetes beszerzését követően.
 
 ## 18. Minden gyógyszerkiadásnál dokumentálni kell a kiadás idejét, a készítmény nevét, gyártási számát, lejárati idejét és mennyiségét, az eladó és a vevő nevét és a címét.
 
@@ -188,7 +196,7 @@
 
 ## Hamisított készítmények
 
-## 30.[^414] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a vármegyei kormányhivatalt, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
+## 30.[^431] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a vármegyei kormányhivatalt, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
 
 ## Önellenőrzés
 
@@ -210,7 +218,7 @@
 
 ## A kiskereskedelmi forgalmazónak biztosítania kell, hogy
 
-## a) a tárolási körülmények folyamatosan (a szállítás alatt is) megfelelőek legyenek,
+## a)[^432] a tárolási körülmények folyamatosan – a szállítás alatt is – megfelelőek legyenek, valamint a tárolási és szállítási hőmérsékletet folyamatosan dokumentálják,
 
 ## b) a más készítményekkel való szennyeződést elkerüljék,
 
@@ -224,11 +232,11 @@
 
 ## Személyzet
 
-## 1.[^415] A törzskönyvezett állatgyógyászati készítmények kiskereskedelmi forgalmazását állatorvos vagy gyógyszerész, továbbá állatorvost vagy gyógyszerészt foglalkoztató, működési engedéllyel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet végezhet.
+## 1.[^433] A törzskönyvezett állatgyógyászati készítmények kiskereskedelmi forgalmazását állatorvos vagy gyógyszerész, továbbá állatorvost vagy gyógyszerészt foglalkoztató, működési engedéllyel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet végezhet.
 
 ## Dokumentáció
 
-## 2.[^416] A járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+## 2.[^434] A járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 ## Megrendelés
 
@@ -248,7 +256,7 @@
 
 ## 7. Átvételkor át kell vizsgálni, hogy a szállítmány csomagolása nem sérült-e, valamint hogy a küldemény tartalma megfelel-e a megrendelésnek.
 
-## 8.[^417] A különleges tárolási körülményeket igénylő készítményeket azonnal azonosítani kell, és a forgalomba hozatali engedélyében meghatározott tárolási hőmérsékleten kell tárolni.
+## 8.[^435] A különleges tárolási körülményeket igénylő készítményeket azonnal azonosítani kell, és a forgalomba hozatali engedélyében meghatározott tárolási hőmérsékleten kell tárolni.
 
 ## Tárolás
 
@@ -262,11 +270,11 @@
 
 ## Kiadás
 
-## 13. A kiadás során folyamatosan biztosítani kell a 70. § (3) bekezdésében meghatározott feltételeket. Kiskereskedő csak felhasználó részére adhat át állatgyógyászati készítményt. E fejezet tekintetében felhasználónak minősül az állattartó, illetve az állat tulajdonosa, az állattartó telep, a takarmánykeverő üzem, az állatorvos, az állatorvosi rendelő, -szakrendelő (rendelőintézet), az állatkórház, az állatklinika, illetve bárki, aki állatorvosi vénnyel vagy a 68. § (2) bekezdés a) pontja bekezdése szerinti megrendelővel rendelkezik.
+## 13.[^436] A kiadás során folyamatosan biztosítani kell a 70. § (3) bekezdésében meghatározott feltételeket. Kiskereskedő csak felhasználó részére adhat át állatgyógyászati készítményt. E fejezet tekintetében a 70. § (2) bekezdésében foglaltak minősülnek felhasználónak.
 
 ## 14. Minden gyógyszerkiadásnál dokumentálni kell a 69. § (5) bekezdésében foglalt adatokat.
 
-## 15.[^418] Csak eredeti és sértetlen csomagolású, valamint magyar nyelvű használati utasítással rendelkező készítmény adható ki. Nem adható ki megbontott kiszerelési egység, kivéve, ha a bonthatóság az adott készítmény jóváhagyott használati utasításában feltüntetésre került, illetve a 72. § (2) és (3) bekezdése szerinti esetekben.
+## 15.[^437] Csak eredeti és sértetlen csomagolású, valamint magyar nyelvű használati utasítással rendelkező készítmény adható ki. Nem adható ki megbontott kiszerelési egység, kivéve, ha a bonthatóság az adott készítmény jóváhagyott használati utasításában feltüntetésre került, illetve a 72. § (2) és (3) bekezdése szerinti esetekben.
 
 ## 16. Állatgyógyászati készítményeket az alábbiak szerint kell szállítani:
 
@@ -280,19 +288,22 @@
 
 ## Hamisított készítmények
 
-## 18.[^419] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a NÉBIH-et, a járási hivatalt, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
+## 18.[^438] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a NÉBIH-et, a járási hivatalt, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
 
-9. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^420]
+9. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^439]
 
-[^409]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^410]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^411]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés k) pontja szerint módosított szöveg.
-[^412]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^413]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
-[^414]: A 8. számú melléklet I. Fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 12. pontja, 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
-[^415]: A 8. számú melléklet II. fejezet 1. pontja a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^416]: A 8. számú melléklet II. Fejezet 2. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
-[^417]: A 8. számú melléklet II. Fejezet 8. pontja a 33/2010. (IV. 7.) FVM rendelet 12. § m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^418]: A 8. számú melléklet II. fejezet 15. pontja a 77/2013. (IX. 10.) VM rendelet 11. §-ával megállapított szöveg.
-[^419]: A 8. számú melléklet II. Fejezet 18. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 18. pontja szerint módosított szöveg.
-[^420]: A 9. számú mellékletet a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^425]: A 8. számú melléklet I. Fejezet 1. pontja a 19/2026. (IX. 14.) AÉM rendelet 13. §-ával megállapított szöveg.
+[^426]: A 8. számú melléklet I. Fejezet 1a. pontját a 19/2026. (IX. 14.) AÉM rendelet 13. §-a iktatta be.
+[^427]: A 8. számú melléklet I. Fejezet 1b. pontját a 19/2026. (IX. 14.) AÉM rendelet 13. §-a iktatta be.
+[^428]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^429]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^430]: A 8. számú melléklet I. Fejezet 17. pontja a 19/2026. (IX. 14.) AÉM rendelet 13. §-ával megállapított szöveg.
+[^431]: A 8. számú melléklet I. Fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 12. pontja, 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
+[^432]: A 8. számú melléklet II. Fejezet „Alapelvek” alcím a) pontja a 19/2026. (IX. 14.) AÉM rendelet 13. §-ával megállapított szöveg.
+[^433]: A 8. számú melléklet II. fejezet 1. pontja a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^434]: A 8. számú melléklet II. Fejezet 2. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
+[^435]: A 8. számú melléklet II. Fejezet 8. pontja a 33/2010. (IV. 7.) FVM rendelet 12. § m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^436]: A 8. számú melléklet II. Fejezet 13. pontja a 19/2026. (IX. 14.) AÉM rendelet 13. §-ával megállapított szöveg.
+[^437]: A 8. számú melléklet II. fejezet 15. pontja a 77/2013. (IX. 10.) VM rendelet 11. §-ával megállapított szöveg.
+[^438]: A 8. számú melléklet II. Fejezet 18. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 18. pontja szerint módosított szöveg.
+[^439]: A 9. számú mellékletet a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

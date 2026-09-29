@@ -1,3 +1,3 @@
-94. §[^294]
+94. §[^303]
 
-[^294]: A 94. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^303]: A 94. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

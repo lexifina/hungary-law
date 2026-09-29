@@ -1,3 +1,3 @@
-33. §[^110]
+33. §[^114]
 
-[^110]: A 33. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.
+[^114]: A 33. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.

@@ -124,9 +124,9 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 53.[^20] Állatgyógyászati segédanyag: a gerinces állatok testével érintkezésbe kerülő, állatorvosi beavatkozást segítő, jelző értékű vagy diagnosztikai vizsgálatot elősegítő anyag.
 
-54.[^21] Állati vérkészítmény: emlősállatok véréből származó állatgyógyászati készítmény; az állati vérkészítmény az 1774/2002/EK rendelet I. melléklete 4. pontja szerinti vérterméknek, valamint az 1774/2002/EK rendelet I. melléklete 54. pontja szerinti műszaki terméknek minősül.
+54.[^21] Állati vérkészítmény: olyan emlősállatok véréből származó, állatgyógyászati készítménynek nem minősülő állatgyógyászati termék, amely a 142/2011/EU bizottsági rendelet I. melléklet 4. pontja szerinti vérterméknek minősül, kivéve azon, a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény szerinti állategészségügyi szolgáltató intézményben a donor állattól levett, autogén terápiára alkalmazott, illetve azonnali transzfúzióra felhasznált teljes vért vagy vérplazmát, amelyet ugyanazon vagy másik állategészségügyi intézményben késedelem nélkül alkalmaznak.
 
-55.[^22] Állati vérkészítményt előállító hely: az állati vérkészítmény előállítására szolgáló az 1774/2002/EK rendelet I. melléklete 53. pontja szerinti műszaki üzem.
+55.[^22]
 
 56.[^23] Biocid hatóanyag: anyag, mikroorganizmus, ideértve a vírusokat és gombákat is, amely a kártékony biológiai szervezetekre, vagy azokkal szemben általános vagy meghatározott hatást gyakorol.
 
@@ -160,7 +160,7 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 71.[^38] Vérszérum: Alvadási faktorokat nem tartalmazó vérplazma.
 
-72.[^39] Kábítószerként kezelendő készítmény: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet K1, K2 és P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
+72.[^39] Kábítószerként kezelendő készítmény: az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet 1. melléklet K1, K2 jegyzékén és 2. melléklet P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
 
 73.[^40] Transzponder: állatgyógyászati segédanyagnak minősülő, csak olvasható, passzív, rádiófrekvenciás, elektronikus azonosító eszköz, mikrochip, amely megfelel
 
@@ -184,6 +184,8 @@ foglalt feltételeknek.
 
 80.[^47] Metafilaxis: állatok állatgyógyászati készítménnyel történő csoportos kezelése, amennyiben az adott állományban vagy járványügyi egységben az azonos fajú állatok egy része már klinikai megbetegedés tüneteit mutatja, a klinikai tüneteket mutató állatok gyógykezelése és a betegség továbbterjedésének megakadályozása céljából.
 
+81.[^48] Távértékesítés: olyan kiskereskedelmi tevékenység, amely során az állatgyógyászati készítmények értékesítése a felek egyidejű fizikai jelenléte nélkül, elektronikus úton történik, ide nem értve a kereskedőtől a szolgáltató állatorvos általi közvetlen megrendelések teljesítését.
+
 [^9]: A 3. § a 70/2013. (VII. 31.) VM rendelet 111. § 1. és 2. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 2. pontja szerint módosított szöveg.
 [^10]: A 4. § 6. pontja a 27/2021. (VIII. 11.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^11]: A 4. § 8. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
@@ -196,8 +198,8 @@ foglalt feltételeknek.
 [^18]: A 4. § 51. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^19]: A 4. § 52. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^20]: A 4. § 53. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^21]: A 4. § 54. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^22]: A 4. § 55. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^21]: A 4. § 54. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be, szövege a 19/2026. (IX. 14.) AÉM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: A 4. § 55. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be, a 19/2026. (IX. 14.) AÉM rendelet 15. § a) pontja hatályon kívül helyezte.
 [^23]: A 4. § 56. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^24]: A 4. § 57. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^25]: A 4. § 58. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
@@ -214,7 +216,7 @@ foglalt feltételeknek.
 [^36]: A 4. § 69. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^37]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^38]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^39]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be.
+[^39]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be, szövege a 19/2026. (IX. 14.) AÉM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^40]: A 4. § 73. pontját a 46/2015. (VIII. 7.) FM rendelet 48. §-a iktatta be.
 [^41]: A 4. § 74. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
 [^42]: A 4. § 75. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
@@ -223,3 +225,4 @@ foglalt feltételeknek.
 [^45]: A 4. § 78. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
 [^46]: A 4. § 79. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
 [^47]: A 4. § 80. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^48]: A 4. § 81. pontját a 19/2026. (IX. 14.) AÉM rendelet 2. § (3) bekezdése iktatta be.
