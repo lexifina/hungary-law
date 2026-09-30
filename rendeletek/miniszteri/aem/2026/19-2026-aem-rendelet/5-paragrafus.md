@@ -1,3 +1,3 @@
-5. § A 128/2009. (X. 6.) FVM rendelet 68. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(1) A nagykereskedő csak más nagykereskedő vagy kiskereskedő részére forgalmazhat állatgyógyászati terméket. A kiszolgálást megelőzően a vevőnek a nagy- vagy kiskereskedelmi tevékenységre jogosító hatályos működési engedélyének másolatát át kell adnia a nagykereskedőnek, amely azt a kiadás helyén 5 évig köteles megőrizni.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

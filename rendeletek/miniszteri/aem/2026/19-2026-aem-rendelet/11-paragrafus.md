@@ -1,3 +1,3 @@
-11. § A 128/2009. (X. 6.) FVM rendelet 117. § (2) bekezdése a következő h) és i) ponttal egészül ki:
+11. §[^12]
 
-(Ez a rendelet)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

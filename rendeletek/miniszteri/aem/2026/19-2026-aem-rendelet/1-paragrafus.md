@@ -14,6 +14,6 @@
 
 ## [8] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 24. és 41. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 25. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet [a továbbiakban: 128/2009. (X. 6.) FVM rendelet] 1/C. §-a helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„1/C. § E rendelet állati vérkészítményekre vonatkozó előírásait az 1069/2009/EK európai parlamenti és tanácsi rendeletben, valamint a 142/2011/EU bizottsági rendeletben foglaltak figyelembevételével kell alkalmazni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
