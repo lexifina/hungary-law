@@ -2,7 +2,7 @@
 
 (2)[^32] A kijelölt létesítmények kivételével a védett személy munkahelyét, valamint lakását vagy egyéb tartózkodási helyét az adott célnak megfelelő biztonságtechnikai berendezésekkel kell védeni. Ezek beszerzésével, fel- és leszerelésével, üzemeltetésével, karbantartásával, javításával, továbbá a személyvédelemmel kapcsolatban felmerült költségek a Készenléti Rendőrséget, illetve a Terrorelhárítási Központot terhelik.
 
-(3)[^33] A Készenléti Rendőrség a személyvédelmi feladatok ellátása keretében – a külpolitikáért felelős miniszter kivételével – a miniszterek részére felső középkategóriájú gépjárművet és hivatásos biztonsági gépjárművezetőt biztosít, amelyek igénybevételéről az érintett miniszter lemondhat.
+(3)[^33] A Készenléti Rendőrség a személyvédelmi feladatok ellátása keretében a belügyminiszter részére felső középkategóriájú gépjárművet és hivatásos biztonsági gépjárművezetőt biztosít, amelyek igénybevételéről a belügyminiszter lemondhat.
 
 (4)[^34] A Készenléti Rendőrség a rendészetért felelős miniszter és a honvédelemért felelős miniszter részére állandó híradástechnikai összeköttetést biztosít, és gondoskodik lakásuk technikai védelméről.
 
@@ -12,7 +12,7 @@
 
 [^31]: Az 5. § (1) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 7. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, valamint 13. § (1) bekezdés a) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
 [^32]: Az 5. § (2) bekezdése a 63/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § c) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
-[^33]: Az 5. § (3) bekezdése az 597/2023. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^33]: Az 5. § (3) bekezdése az 597/2023. (XII. 21.) Korm. rendelet 4. §-ával megállapított, a 221/2026. (IX. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^34]: Az 5. § (4) bekezdését a 314/2011. (XII. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 597/2023. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^35]: Az 5. § (5) bekezdését a 314/2011. (XII. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^36]: Az 5. § (6) bekezdése az 591/2020. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
