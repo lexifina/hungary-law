@@ -4,4 +4,4 @@
 
 (2) A Hatóság a feladatai ellátásához kapcsolódóan nemzetközi együttműködés keretében a külföldi szabályozó hatóságokkal együttműködési megállapodást köthet, törvény rendelkezései szerint információkat cserélhet. Külföldi szabályozó hatóság az adott feladatkör tekintetében az a hatóság, amely saját országa joga alapján a Hatóság által ellátott feladatkörök valamelyikével rendelkezik.
 
-(3) A Hatóság megkeresésére a koncessziós eljárással, koncessziós szerződéssel kapcsolatos ügyben minden szervezet köteles tíz napon belül tájékoztatást adni.
+(3)

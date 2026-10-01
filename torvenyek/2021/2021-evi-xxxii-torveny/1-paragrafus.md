@@ -34,7 +34,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (1b) A Hatóság a hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat ellátó szerv.
 
-(2) A Hatóság ellátja az állam nevében lefolytatandó, koncessziós szerződés megkötésére irányuló eljárásokkal (a továbbiakban: koncessziós eljárás) és a koncessziós szerződésekkel kapcsolatos egyes, e törvényben meghatározott feladatokat.
+(2)
 
 (3) A Hatóság székhelye Budapest.
 
