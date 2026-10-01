@@ -32,7 +32,7 @@ i) a honvédelmi és katonai célú terület és azok védőövezetei.
 
 (3) A könnyített térség területén az időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi engedélyezési eljárásában az ügyintézési határidő 30 nap, az építési engedélyezési eljárásában az ügyintézési határidő 20 nap.
 
-(4) A miniszter a könnyített térség kijelölésére irányuló javaslatot tájékoztatásul megküldi a kijelöléssel érintett helyi és vármegyei önkormányzatnak.
+(4)[^520] A miniszter a könnyített térség kijelölésére irányuló javaslatot tájékoztatásul megküldi a kijelöléssel érintett helyi és megyei önkormányzatnak.
 
 (5) A könnyített térség területén az időjárásfüggő megújuló energiát hasznosító erőműre vonatkozó környezetvédelmi engedélyezési eljárást kezdeményező kérelemhez csatolni kell a nemzetipark-igazgatóság adatszolgáltatását a telepítés tervezett helyszínének élővilág- és tájvédelmi szempontjairól.
 
@@ -40,3 +40,4 @@ i) a honvédelmi és katonai célú terület és azok védőövezetei.
 
 [^518]: Az „A könnyített térségek kijelölése” alcímet (103/B. §-t) a 650/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^519]: A Vhr. 103/B. §-a a 131/2026. (VIII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^520]: A Vhr. 103/B. § (4) bekezdése a 131/2026. (VIII. 28.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
