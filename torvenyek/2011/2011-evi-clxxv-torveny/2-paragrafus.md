@@ -50,7 +50,7 @@ a) helyi: a működés területe a székhely (illetve telephelyek) településé
 
 b) területi: a működés kiterjedése a helyi kiterjedést meghaladja, de nem éri el az országos szint követelményeit;
 
-c) országos: a civil szervezet legalább hét vármegyében tartós tevékenységet végez;
+c) országos: a civil szervezet legalább hét megyében tartós tevékenységet végez;
 
 d) nemzetközi: a civil szervezet több országban fejti ki tevékenységét.
 
@@ -70,7 +70,7 @@ d) nemzetközi: a civil szervezet több országban fejti ki tevékenységét.
 
 21. közszolgáltatási szerződés: valamely közfeladat vagy a közfeladat egy részének a szerv nevében történő ellátására – a Ptk. 6:256. §-ában meghatározottak alapján – kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
 
-22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a vármegyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
+22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a megyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
 
 23.
 
