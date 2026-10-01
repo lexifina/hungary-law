@@ -12,9 +12,9 @@ b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészs
 
 (2) A klinikai központ
 
-a) a 99. § (1a) bekezdése szerinti esetben irányítói vármegyei intézményi feladatokat ellátó és
+a) a 99. § (1a) bekezdése szerinti esetben irányítói megyei intézményi feladatokat ellátó és
 
-b) az a) pont szerinti kijelölés hiányában irányítói vármegyei intézményi feladatokat el nem látó
+b) az a) pont szerinti kijelölés hiányában irányítói megyei intézményi feladatokat el nem látó
 
 klinikai központ lehet, amelyre ezen alcím rendelkezései szerinti eltérő szabályok az irányadók.
 
