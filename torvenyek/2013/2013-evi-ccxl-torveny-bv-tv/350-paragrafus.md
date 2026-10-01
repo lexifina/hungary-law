@@ -4,9 +4,9 @@
 
 (2) A fiatalkorú személyiségének, értelmi képességeinek, egészségi állapotának a feltárása érdekében a javítóintézet – jogszabályban meghatározott működési rend szerint – szakértői csoportot működtet, amelynek pszichológus, gyógypedagógus és orvos tagja végzi el a befogadáskor a szükséges vizsgálatokat.
 
-(3) A szakértői csoport a vizsgálat eredményei alapján javaslatot tesz a nevelési vezető számára a fiatalkorú végleges csoportba helyezésére és jelzi, ha a fiatalkorú fogyatékossága miatt gyógypedagógiai nevelésre szorul, vagy személyiségzavara, egészségi állapota miatt sajátos nevelést, oktatást, gyógyítást igényel.
+(3) A szakértői csoport a vizsgálat eredményei alapján javaslatot tesz az igazgatónak a fiatalkorú végleges csoportba helyezésére és jelzi, ha a fiatalkorú fogyatékossága miatt gyógypedagógiai nevelésre szorul, vagy személyiségzavara, egészségi állapota miatt sajátos nevelést, oktatást, gyógyítást igényel.
 
-(4) A végleges csoportba helyezésről a nevelési vezető vagy e feladattal megbízott helyettese dönt.
+(4) A végleges csoportba helyezésről az igazgató vagy e feladattal megbízott helyettese dönt.
 
 (5) A javítóintézet a fiatalkorú részére a gyermekek védelméről szóló törvény szerint teljes körű ellátást biztosít és ellátja a fiatalkorú gondozását, nevelését és felügyeletét.
 

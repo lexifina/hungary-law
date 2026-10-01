@@ -4,7 +4,7 @@
 
 (2) A szabadság engedélyezése előtt be kell szerezni a fiatalkorút a szabadság alatt fogadó szülő, gyám vagy más hozzátartozó nyilatkozatát arról, hogy a fiatalkorú lakhatását, ellátását, felügyeletét ez idő alatt biztosítja, továbbá vállalja az utazás költségeit, és gondoskodik a fiatalkorú visszatéréséről az intézetbe.
 
-(2a) A szabadság engedélyezéséről – az intézeti tanács javaslatára – a javítóintézeti parancsnok dönt.
+(2a) A szabadság engedélyezéséről – az intézeti tanács javaslatára – az igazgató dönt.
 
 (3) Az utazás költségei a fiatalkorú kérelmére zsebpénzéből vagy letéti pénzéből is biztosíthatók. Ha az utazás költségei sem az előző módon, sem a fogadó szülő, gyám vagy más hozzátartozó által nem biztosítottak, azokat a javítóintézet megelőlegezheti.
 

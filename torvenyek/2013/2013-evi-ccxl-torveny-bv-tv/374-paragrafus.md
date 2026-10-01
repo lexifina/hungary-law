@@ -6,7 +6,7 @@
 
 a) nevelői figyelmeztetés,
 
-b) a parancsnoki megrovás,
+b) az igazgatói megrovás,
 
 c) az egyes társas szórakozástól, programtól vagy rendezvénytől eltiltás, amely legfeljebb egy hónapra vonatkozhat,
 

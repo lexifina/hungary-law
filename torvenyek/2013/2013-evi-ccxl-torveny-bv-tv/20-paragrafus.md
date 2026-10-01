@@ -16,7 +16,7 @@
 
 (7) Ha e törvény elrendeli, a végrehajtásért felelős szerv vagy szervezeti egység vezetője az (1)–(3) bekezdés szerinti intézkedéséről, döntéséről – az ott meghatározott eljárásban – határozatot hoz.
 
-(8) A bv. intézet parancsnokának, az agglomerációs központ vezetőjének, a büntetés-végrehajtás országos parancsnokának (a továbbiakban: országos parancsnok), a büntetés-végrehajtásért felelős miniszternek, valamint a javítóintézeti parancsnok döntése – ha jogszabály kivételt nem tesz – végrehajtható.
+(8) A bv. intézet parancsnokának, az agglomerációs központ vezetőjének, a büntetés-végrehajtás országos parancsnokának (a továbbiakban: országos parancsnok), a büntetés-végrehajtásért felelős miniszternek, valamint a javítóintézet igazgatójának döntése – ha jogszabály kivételt nem tesz – végrehajtható.
 
 (9) Érdemi vizsgálat nélkül el lehet utasítani
 

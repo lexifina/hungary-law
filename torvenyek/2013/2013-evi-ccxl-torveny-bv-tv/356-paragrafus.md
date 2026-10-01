@@ -4,11 +4,11 @@
 
 a) az intézkedés végrehajtásának rendjét, az intézet házirendjét, biztonsági és higiéniai követelményeit megtartani,
 
-b) javítóintézetben a nevelési vezető által kijelölt csoportban nevelkedni,
+b) javítóintézetben az igazgató által kijelölt csoportban nevelkedni,
 
 c) a javítóintézet elhagyásához engedélyt kérni,
 
-d) tanulmányait a köznevelésről szóló törvényben meghatározott életkorig, vagy a köznevelésről szóló törvényben meghatározott feltételek fennállása esetében azt követően is folytatni,
+d) a köznevelési alapfokú oktatásban, illetve annak elvégzése után képességeinek megfelelően, a javítóintézet által biztosított módon a köznevelési középfokú oktatásban, szakképzésben vagy felnőttképzésben részt venni,
 
 e) alávetni magát a szükséges orvosi vizsgálatnak és gyógykezelésnek, az invazív eljárásra az egészségügyi jogszabályokat kell alkalmazni,
 

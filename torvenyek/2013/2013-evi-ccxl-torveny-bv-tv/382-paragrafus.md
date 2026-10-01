@@ -1,4 +1,4 @@
-382. § (1) Ha a fiatalkorú a huszonegyedik életévét betöltötte, a nevelési vezető a javítóintézetből elbocsátja.
+382. § (1) Ha a fiatalkorú a huszonegyedik életévét betöltötte, az igazgató a javítóintézetből elbocsátja.
 
 (2) Az (1) bekezdésben meghatározott eseteken kívül megszűnik a javítóintézeti nevelés, ha
 

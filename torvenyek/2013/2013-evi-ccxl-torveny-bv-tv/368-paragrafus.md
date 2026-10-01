@@ -14,16 +14,22 @@ c) szökés vagy bűncselekmény megakadályozása érdekében szükséges.
 
 (4) Testi kényszer a fiatalkorúval szemben
 
-a) a javítóintézeti parancsnok vagy távollétében az ügyeletes vezető, ezek távollétében a biztonsági szolgálat vezetője rendelkezése alapján, vagy
+a) az igazgató vagy távollétében az ügyeletes vezető, ezek távollétében a biztonsági vagy rendészeti részleg vezetőjének rendelkezése alapján, vagy
 
 b) sürgős szükség esetén – így különösen súlyos fegyelmi vétség elkövetésének megakadályozása, a fiatalkorú saját vagy más személy életét vagy testi épségét veszélyeztető magatartásának elhárítása érdekében – az a) pont szerinti rendelkezés hiányában, haladéktalan intézkedésként
 
-alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges kiegészítő képzésben részesült vagy megfelelő szakirányú képesítéssel, képzettséggel rendelkező javítóintézeti rendész alkalmazhat
+alkalmazható.
+
+(4a) Testi kényszert a fiatalkorúval szemben az ehhez szükséges kiegészítő képzésben részesült vagy megfelelő szakirányú képesítéssel, képzettséggel rendelkező javítóintézeti rendész alkalmazhat.
 
 (5) Kényszerítő eszköz nem alkalmazható a magatehetetlen személlyel szemben. A tizennegyedik életévét be nem töltött fiatalkorúval szemben kizárólag korlátozott testi kényszer alkalmazható. Korlátozott testi kényszernek minősül a lefogás, megfogás.
 
 (6) Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört vagy az intézkedés eredményessége e nélkül is biztosítható.
 
-(7) A kényszerítő eszköz alkalmazását a javítóintézeti parancsnok részére haladéktalanul jelenteni kell. A kényszerítő eszköz alkalmazásának a jogszerűségét a javítóintézeti parancsnok köteles megvizsgálni.
+(7) A kényszerítő eszköz alkalmazását az igazgató részére haladéktalanul jelenteni kell. A kényszerítő eszköz alkalmazásának a jogszerűségét az igazgató köteles megvizsgálni.
 
 (8) A jogszerűtlennek minősített kényszerítő eszköz használatáról a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget nyolc napon belül, ha a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
+
+(9) A javítóintézeti rendész a javítóintézet vagy a javítóintézetben köznevelési oktatást, szakképzést vagy felnőttképzést végző intézmény fiatalkorúak részvételével lebonyolított tanóráin, foglalkozásain, programjain az igazgató vagy távollétében az ügyeletes vezető rendelkezése alapján a javítóintézet rendjét sértő cselekmény megelőzése céljából jelen lehet.
+
+(10) A kényszerítő eszköz alkalmazása jogszerűségének vizsgálati eredményéről és a jogorvoslati lehetőségről a javítóintézetnek a fiatalkorút tájékoztatnia kell.

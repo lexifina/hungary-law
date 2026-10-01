@@ -6,7 +6,7 @@
 
 434. § (1) Felhatalmazást kap a Kormány, hogy a pártfogó felügyelői szolgálatot rendeletben jelölje ki.
 
-(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a javítóintézet irányítására és szervezetére vonatkozó – az e törvényben meg nem határozott – szabályokat, ennek részeként különösen a javítóintézeti parancsnok és a nevelési vezető jogállására és tevékenységére vonatkozó szabályokat.
+(1a)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -48,6 +48,6 @@ c) a szabálysértési elzárás végrehajtásának részletes szabályait a sza
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtás során elrendelt elővezetés végrehajtásával, az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állításával, valamint az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályait, ide nem értve az elővezetés költsége mértékének megállapítását.
 
-(6) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját, a vizsgaszabályzatot, valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a rendészetért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint a köznevelésért felelős miniszterrel egyetértésben rendeletben szabályozza.
+(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját; a vizsgaszabályzatot; valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a gyermekek és az ifjúság védelméért felelős miniszterrel és a köznevelésért felelős miniszterrel egyetértésben rendeletben szabályozza.
 
-(7) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel, valamint a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg.
+(7) Felhatalmazást kap a gyermekek és az ifjúság védelméért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel és a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.

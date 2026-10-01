@@ -2,7 +2,7 @@
 
 372. § (1) Büntetőügyben – ideértve a közvetítői eljárást is – történő idézés alapján a fiatalkorút a javítóintézet a megjelölt helyre és időre előállítja. Értesítésre a fiatalkorút akkor kell előállítani, ha megjelenését ő, védője vagy törvényes képviselője kéri.
 
-(2) A fiatalkorút a javítóintézetben az ügyészség, a nyomozó hatóság vagy hatósági ügyben eljáró más szerv – a javítóintézeti parancsnokkal egyeztetett időpontban – kihallgathatja. A kihallgatáson történő részvétel céljából megjelenő törvényes képviselőnek, állama konzuli tisztviselőjének, valamint a védőnek a javítóintézetbe történő belépését engedélyezni kell.
+(2) A fiatalkorút a javítóintézetben az ügyészség, a nyomozó hatóság vagy hatósági ügyben eljáró más szerv – az igazgatóval egyeztetett időpontban – kihallgathatja. A kihallgatáson történő részvétel céljából megjelenő törvényes képviselőnek, állama konzuli tisztviselőjének, valamint a védőnek a javítóintézetbe történő belépését engedélyezni kell.
 
 (3) A fiatalkorú – eljárási cselekmények lefolytatása, valamint a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából – a nyomozó hatóság részére kiadható.
 

@@ -20,9 +20,9 @@ f) vallásgyakorlás céljából a hitéleti szolgálatot ellátó egyházi szem
 
 (4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási egyesület által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
 
-(5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére a nevelési vezető az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
+(5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére az igazgató az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
 
-(6) A fiatalkorúnak a hozzátartozóján kívüli más személlyel való kapcsolattartása a fiatalkorú fejlődése, nevelése érdekében korlátozható, amiről a nevelési vezető dönt.
+(6) A fiatalkorúnak a hozzátartozóján kívüli más személlyel való kapcsolattartása a fiatalkorú fejlődése, nevelése érdekében korlátozható, amiről az igazgató dönt.
 
 (7) A javítóintézet a kapcsolattartásra jogosult személyeket a fiatalkorúak nyilvántartásában rögzíteni kell.
 

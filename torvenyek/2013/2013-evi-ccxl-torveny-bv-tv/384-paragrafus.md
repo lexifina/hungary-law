@@ -8,9 +8,9 @@ b) a megkezdett tanulmányaikat a javítóintézeti oktatás, képzés keretein 
 
 a javítóintézet utógondozó részleget működtet.
 
-(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára a nevelési vezető dönt.
+(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára az igazgató dönt.
 
-(3) Az elhelyezést a nevelési vezető megszünteti
+(3) Az elhelyezést az igazgató megszünteti
 
 a) a fiatalkorú kérelmére,
 

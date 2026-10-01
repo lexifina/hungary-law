@@ -1,6 +1,6 @@
 ## A fiatalkorúnak és gyermekének együttes elhelyezése
 
-351. § (1) A fiatalkorú kérelmére gyermeke vele együtt helyezhető el a javítóintézetnek erre a célra létrehozott részlegében, a kérelemről a nevelési vezető dönt.
+351. § (1) A fiatalkorú kérelmére gyermeke vele együtt helyezhető el a javítóintézetnek erre a célra létrehozott részlegében, a kérelemről az igazgató határozattal dönt.
 
 (2) Az együttes elhelyezés akkor engedélyezhető, ha
 

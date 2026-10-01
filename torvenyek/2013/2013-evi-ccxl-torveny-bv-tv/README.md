@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2026-05-14 | 2026. évi XIV. törvény | 2013-240-00-00.51 |
 | 2026-07-01 | 2025. évi XCIII. törvény | 2013-240-00-00.49 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2013-240-00-00.52 |
+| 2026-10-01 | 2026. évi LVI. törvény | 2013-240-00-00.53 |

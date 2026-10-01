@@ -30,10 +30,10 @@ idézik.
 
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.
 
-(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti vármegyében
+(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti megyében
 
 a) nincsen bv. intézet vagy
 
 b) a bv. intézet a bíróság székhelyétől távolabb helyezkedik el, mint a rendőrségi fogda,
 
-az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti vármegyében lévő rendőrségi fogdán elhelyezhető.
+az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti megyében lévő rendőrségi fogdán elhelyezhető.
