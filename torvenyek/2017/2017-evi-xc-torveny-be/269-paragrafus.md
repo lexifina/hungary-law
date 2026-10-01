@@ -1,4 +1,4 @@
-269. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve
+269. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve
 
 a) törvényben meghatározottak szerint a bűnügyi és rendészeti biometrikus adatok nyilvántartásából adattovábbítást kérhet,
 

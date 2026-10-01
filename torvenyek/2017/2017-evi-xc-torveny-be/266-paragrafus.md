@@ -4,7 +4,7 @@
 
 a) az ügyészség, illetve
 
-b) az ügyészség engedélyével a nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve.
+b) az ügyészség engedélyével a nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.
 
 (2) A feltételes adatkérést legfeljebb három hónap időtartamra lehet kérni, amely alkalmanként legfeljebb három hónappal ismételten meghosszabbítható. A feltételes adatkérés legfeljebb egy évig tarthat.
 

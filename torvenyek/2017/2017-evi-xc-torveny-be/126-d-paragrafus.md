@@ -8,6 +8,6 @@
 
 (4) Az ügyész, illetve a nyomozó hatóság tagja eljárási cselekményen történő jelenlétének telekommunikációs eszköz útján történő biztosítása esetén az ügyész, illetve a nyomozó hatóság tagja igazolja saját személyazonosságát, valamint közreműködik az elkülönített helyszínen jelen levő személyek személyazonosságának a megállapításában.
 
-(5) A bíróság csak különösen indokolt esetben utasíthatja el az ügyészség arra vonatkozó indítványát, hogy az ügyész eljárási cselekményen történő jelenlétét telekommunikációs eszköz útján biztosítsa, ha az ügyész szolgálati helye a bíróság eljárásának helyszínétől eltérő vármegyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
+(5) A bíróság csak különösen indokolt esetben utasíthatja el az ügyészség arra vonatkozó indítványát, hogy az ügyész eljárási cselekményen történő jelenlétét telekommunikációs eszköz útján biztosítsa, ha az ügyész szolgálati helye a bíróság eljárásának helyszínétől eltérő megyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
 
 (6) A bíróság az ügyészség indítványára rendelheti el a telekommunikációs eszköz használatát az ügyész eljárási cselekményen történő jelenlétének a biztosítása érdekében.

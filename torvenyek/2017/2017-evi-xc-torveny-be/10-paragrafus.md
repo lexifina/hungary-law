@@ -68,7 +68,7 @@ jár el;
 
 13. nem természetes személy: a polgári perrendtartásról szóló törvényben meghatározott nem természetes személy;
 
-14. rendfokozat: a honvéd esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
+14. rendfokozat: a honvéd esetében a viselt rendfokozat, a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
 
 15. tényleges tartózkodási hely: az az ingatlan, ahol a büntetőeljárásban részt vevő személy ténylegesen tartózkodik, ideértve a fogva tartás helyét, illetve a nem magyar állampolgár szálláshelyét is.
 

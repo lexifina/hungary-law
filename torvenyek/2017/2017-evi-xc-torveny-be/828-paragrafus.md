@@ -2,7 +2,7 @@
 
 828. § (1) Az egyesbíró akkor utalhatja a bíróság tanácsa elé az ügyet, ha az eljárás határzárral kapcsolatos bűncselekmény mellett más bűncselekmény miatt is folyik.
 
-(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel.
+(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
 
 (3) Ha a terhelt különböző járásbíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (2) bekezdés szerint illetékes.
 

@@ -4,7 +4,7 @@
 
 a) a nyomozó hatóság által folytatott előkészítő eljárás esetén a nyomozó hatóság eljáró szervének a székhelye szerinti ügyészség,
 
-b) a rendőrség terrorizmust elhárító szerve által folytatott előkészítő eljárás esetén e szervnek vagy területi kirendeltségének a székhelye szerinti ügyészség,
+b)
 
 c) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve által folytatott előkészítő eljárás esetén e szervnek vagy területi kirendeltségének a székhelye szerinti ügyészség
 
@@ -14,8 +14,4 @@ rendelkezik illetékességgel.
 
 a) az ügyészség bármely nyomozó hatóságot annak illetékességi területén eljárási cselekmény elvégzésére utasíthatja, illetve a nyomozó hatóság tagja a legfőbb ügyész kezdeményezésére a nyomozó hatóság országos parancsnoka egyetértésével az előkészítő eljárás során határozott időtartamra igénybe vehető,
 
-b) felkérésére az eljárási cselekmény elvégzésében közreműködik
-
-ba) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve
-
-bb) a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott eljárásban a rendőrség terrorizmust elhárító szerve.
+b) felkérésére az eljárási cselekmény elvégzésében közreműködik a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.

@@ -1,4 +1,4 @@
-270. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve szaktanácsadó közreműködését veheti igénybe, ha a bizonyítási eszközök felderítéséhez, felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges. A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében vehet igénybe szaktanácsadót.
+270. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve szaktanácsadó közreműködését veheti igénybe, ha a bizonyítási eszközök felderítéséhez, felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges. A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében vehet igénybe szaktanácsadót.
 
 (1a) A bíróság a vádemelés után szaktanácsadó közreműködését veszi igénybe, ha az eljárási cselekményt a 87. § (1) bekezdés b) pont bb) alpontban meghatározott módon rendeli végrehajtani.
 

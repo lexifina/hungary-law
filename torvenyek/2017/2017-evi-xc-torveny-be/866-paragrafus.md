@@ -74,12 +74,12 @@ c) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai ren
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
 
 a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 
 b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait
 
-az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke véleményének kikérésével, rendeletben megállapítsa.
+az igazságügyért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-függőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszterrel, a rendészetért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben rendeletben meghatározza.

@@ -1,4 +1,4 @@
-262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
+262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
 
 a)
 
@@ -16,7 +16,7 @@ f) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésér
 
 (3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, engedély nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatok bizonyítékként nem használhatók fel és azokat haladéktalanul törölni kell.
 
-(4) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az ügyészség engedélye nélkül kérhet adatszolgáltatást
+(4) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve az ügyészség engedélye nélkül kérhet adatszolgáltatást
 
 a) az (1) bekezdés c) vagy e) pontjában meghatározott szolgáltatótól vagy szervezettől a velük szerződésben álló személy kilétére és a személyazonosító adataira vonatkozóan,
 

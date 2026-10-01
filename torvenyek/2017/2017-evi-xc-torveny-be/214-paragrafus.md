@@ -10,7 +10,7 @@
 
 (2) Leplezett eszközöket az erre feljogosított szervek a rájuk vonatkozó jogszabályokban meghatározott bűnüldözési feladataik végrehajtása céljából kizárólag az e törvényben meghatározott szabályok alapján alkalmazhatnak.
 
-(3) A (2) bekezdés nem érinti a nemzetbiztonsági szolgálatok és a rendőrség terrorizmust elhárító szerve által a nemzetbiztonsági szolgálatokról szóló törvény alapján bűnüldözési feladataik végrehajtása céljából folytatott titkos információgyűjtést.
+(3) A (2) bekezdés nem érinti a nemzetbiztonsági szolgálatok és az általános rendőrségi feladatok ellátására létrehozott szerv által a nemzetbiztonsági szolgálatokról szóló törvény alapján bűnüldözési feladataik végrehajtása céljából folytatott titkos információgyűjtést.
 
 (4) A büntetőeljárásban
 

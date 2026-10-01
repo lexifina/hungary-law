@@ -43,3 +43,15 @@
 20. a büntetőeljárás során igénybe vehető tolmácsoláshoz és fordításhoz való jogról szóló, 2010. október 20-i 2010/64/EU európai parlamenti és tanácsi irányelvnek,
 
 21. az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló, 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelvnek,
+
+22. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek,
+
+23. a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelvnek,
+
+24. a büntetőeljárás során a tájékoztatáshoz való jogról szóló, 2012. május 22-i 2012/13/EU európai parlamenti és tanácsi irányelvnek,
+
+25. a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek,
+
+26. az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,
+
+27. a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU parlamenti és tanácsi irányelvnek,
