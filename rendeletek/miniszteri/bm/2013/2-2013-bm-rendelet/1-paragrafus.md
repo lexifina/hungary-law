@@ -32,7 +32,7 @@ b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 11.[^6] szakmai belső továbbképzési program: a belügyi szerv által fejlesztett és lebonyolított, az adott belügyi szerv feladatkörét érintő bejelentés-köteles továbbképzési program, amely szakmai ismereteket vagy kompetencia-fejlesztéseket tartalmaz;
 
-12.[^7] továbbképzési programminősítés: a felsőoktatási, a nyilvántartásba vett felnőttképző, továbbá a köznevelési intézmény (a továbbiakban együtt: nyilvántartásba vett képzőintézmények) vagy az Országgyűlési Őrség által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
+12.[^7] továbbképzési programminősítés: a felsőoktatási, a nyilvántartásba vett felnőttképző, továbbá a köznevelési intézmény (a továbbiakban együtt: nyilvántartásba vett képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
 
 [^1]: Az 1. § 1. pontja a 35/2017. (XII. 21.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 3. pontja a 19/2024. (IV. 11.) BM rendelet 1. §-ával megállapított szöveg.
@@ -40,4 +40,4 @@ b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 [^4]: Az 1. § 9. pontja a 35/2017. (XII. 21.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
 [^5]: Az 1. § 10a. pontját a 35/2017. (XII. 21.) BM rendelet 1. § (4) bekezdése iktatta be.
 [^6]: Az 1. § 11. pontja a 35/2017. (XII. 21.) BM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 3. pontja, a 26/2021. (VIII. 9.) BM rendelet 49. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 3. pontja, a 26/2021. (VIII. 9.) BM rendelet 49. § a) pontja, a 23/2026. (IX. 30.) BM rendelet 28. § a) pontja szerint módosított szöveg.
