@@ -6,7 +6,7 @@
 
 (4) Az igazgatási szünet alatt felmentési, illetve felmondási idejét töltő foglalkoztatott számára a (3) bekezdés alapján az igazgatási szünet azon részére rendelhető el munkavégzés, amely vonatkozásában nem mentesítették a munkavégzési kötelezettség alól.
 
-(5) A (3) és (4) bekezdés szerinti esetben a hivatali szervezet vezetője – területi kormányzati igazgatási szervek esetében a főispán – a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet is kijelölhet azzal, hogy ebben az esetben a Kit. 99. § (4) és (5) bekezdését és az Mt. 53. § (3) bekezdését alkalmazni kell, továbbá az intézkedés a foglalkoztatottra nézve – különösen a korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
+(5) A (3) és (4) bekezdés szerinti esetben a hivatali szervezet vezetője – területi kormányzati igazgatási szervek esetében a kormánymegbízott – a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet is kijelölhet azzal, hogy ebben az esetben a Kit. 99. § (4) és (5) bekezdését és az Mt. 53. § (3) bekezdését alkalmazni kell, továbbá az intézkedés a foglalkoztatottra nézve – különösen a korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
 
 (6) A foglalkoztatottat az (3)–(5) bekezdésben foglaltakról az igazgatási szünet alatti munkavégzés időpontját legalább két nappal megelőzően, rövid úton tájékoztatni kell.
 

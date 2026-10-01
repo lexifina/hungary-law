@@ -6,7 +6,7 @@ a) a települési önkormányzat képviselő-testületének polgármesteri hivat
 
 b) a főpolgármesteri hivatal tekintetében a fővárosi közgyűlés,
 
-c) a vármegyei önkormányzati hivatal tekintetében a vármegyei közgyűlés.
+c) a megyei önkormányzati hivatal tekintetében a megyei közgyűlés.
 
 (2) Az igazgatási szünet elrendelése esetén figyelembe kell venni a 6. § (2) bekezdésében foglaltakat.
 
@@ -24,7 +24,7 @@ d) az (1) bekezdés szerinti hivatal vezetője határozhatja meg a hivatal igazg
 
 e) az igazgatási szünet alatti működés, illetve ügyfélfogadás d) pont szerinti elrendelése esetén a munkáltatói jogkör gyakorlója rendelheti el a hivatal foglalkoztatottjai vonatkozásában az igazgatási szünet alatti munkavégzést,
 
-f) az igazgatási szünet elrendelése esetén annak időtartama – a 3. § (2) bekezdésében foglaltakon túl – nem számít bele az igazgatási szünettel érintett polgármester, főpolgármester, vármegyei közgyűlés elnöke, jegyző, közterület-felügyelet, polgármesteri hivatal és közös önkormányzati hivatal ügyintézője hatáskörébe tartozó államigazgatási ügyek és az önkormányzati hatósági ügyek intézésének határidejébe sem,
+f) az igazgatási szünet elrendelése esetén annak időtartama – a 3. § (2) bekezdésében foglaltakon túl – nem számít bele az igazgatási szünettel érintett polgármester, főpolgármester, megyei közgyűlés elnöke, jegyző, közterület-felügyelet, polgármesteri hivatal és közös önkormányzati hivatal ügyintézője hatáskörébe tartozó államigazgatási ügyek és az önkormányzati hatósági ügyek intézésének határidejébe sem,
 
 g) ha az igazgatási szünet alatti munkavégzés elrendelése esetén a munkáltatói jogkör gyakorlója a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet jelöl ki, a Kttv. 51. § (2) és (6) bekezdését, illetve az Mt. 53. § (3) bekezdését kell alkalmazni,
 
