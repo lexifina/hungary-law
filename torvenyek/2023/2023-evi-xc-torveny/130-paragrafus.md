@@ -1,4 +1,4 @@
-130. § (1) Az a harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a kötelező tartózkodását közösségi szálláson, befogadó állomáson vagy meghatározott vármegye közigazgatási területén jelölte ki, jogosult a törvényben meghatározott közfoglalkoztatási jogviszony keretében munkát végezni kivéve, ha
+130. § (1) Az a harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a kötelező tartózkodását közösségi szálláson, befogadó állomáson vagy meghatározott megye közigazgatási területén jelölte ki, jogosult a törvényben meghatározott közfoglalkoztatási jogviszony keretében munkát végezni kivéve, ha
 
 a) a (2) bekezdésben foglaltak szerinti foglalkoztatási jogviszonyból,
 

@@ -30,7 +30,7 @@
 
 14. a helyi önkormányzat hatósági feladatot ellátó szerve,
 
-15. a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
+15. a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
 16. a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
 

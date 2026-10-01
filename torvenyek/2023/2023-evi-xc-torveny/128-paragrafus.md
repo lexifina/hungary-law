@@ -26,7 +26,7 @@ b) a tartózkodás magatartási szabályait;
 
 c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás, a hatóság előtti időszakonkénti megjelenésre való kötelezést.
 
-(3) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott vármegye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 70. § (1) bekezdés b) vagy e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
+(3) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott megye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 70. § (1) bekezdés b) vagy e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
 
 (4) Az idegenrendészeti hatóság hivatalból módosíthatja a magatartási szabályokat, ha mérlegelése szerint a harmadik országbeli állampolgár magatartása a továbbiakban nem veszélyezteti az idegenrendészeti eljárás sikeres lefolytatását, vagy egyéb okból más magatartási szabályok meghatározása indokolt.
 
