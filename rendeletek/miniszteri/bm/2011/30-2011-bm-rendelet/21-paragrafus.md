@@ -6,9 +6,9 @@
 
 a) robbanóanyag, robbanó szerkezet találásáról a Készenléti Rendőrség ügyeletét és a Terrorelhárítási Központ ügyeletét,
 
-b) mérgező, sugárzó, radioaktív, nukleáris anyag találásáról a területileg illetékes katasztrófavédelmi szerv ügyeletét, az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Főügyeletét és a Terrorelhárítási Központ ügyeletét,
+b)[^47] mérgező, sugárzó, radioaktív, nukleáris anyag találásáról a területileg illetékes katasztrófavédelmi szerv ügyeletét, az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Főügyeletét,
 
-c)[^47] ha a talált sugárzó, radioaktív, nukleáris, továbbá mérgező anyag vagy az ezekkel kapcsolatos intézkedések a Készenléti Rendőrség által védett létesítményeket, biztosított rendezvényeket, továbbá a védett személyek programhelyszínét érintik, a Készenléti Rendőrség ügyeletét
+c)[^48] ha a talált sugárzó, radioaktív, nukleáris, továbbá mérgező anyag vagy az ezekkel kapcsolatos intézkedések a Készenléti Rendőrség által védett létesítményeket, biztosított rendezvényeket, továbbá a védett személyek programhelyszínét érintik, a Készenléti Rendőrség ügyeletét
 
 haladéktalanul értesíti.
 
@@ -20,4 +20,5 @@ b) a katonai robbanószerkezetre követték el a bűncselekményt.
 
 [^45]: A 21. § (1) bekezdése az 50/2016. (XII. 14.) BM rendelet 19. § c) pontja szerint módosított szöveg.
 [^46]: A 21. § (2) bekezdés nyitó szövegrésze az 50/2016. (XII. 14.) BM rendelet 19. § d) pontja szerint módosított szöveg.
-[^47]: A 21. § (2) bekezdés c) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^47]: A 21. § (2) bekezdés b) pontja a 23/2026. (IX. 30.) BM rendelet 14. § 4. pontja szerint módosított szöveg.
+[^48]: A 21. § (2) bekezdés c) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
