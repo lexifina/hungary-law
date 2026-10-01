@@ -1,11 +1,9 @@
 11. § Hatályát veszti az Adóig. vhr.
 
-a)[^12]
+a) 24. § (4) bekezdése,
 
-b)[^13]
+b)[^7]
 
-c)[^14]
+c) 58. § (5) bekezdése.
 
-[^12]: A 11. § a) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^13]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 11. § c) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^7]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
