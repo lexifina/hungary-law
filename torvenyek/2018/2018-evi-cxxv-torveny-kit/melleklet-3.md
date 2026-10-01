@@ -161,5 +161,3 @@
 ## 6. jutalmazás, kitüntetés adatai
 
 ## 7. hatályos fegyelmi büntetés
-
-## 8. pályázatának adatai

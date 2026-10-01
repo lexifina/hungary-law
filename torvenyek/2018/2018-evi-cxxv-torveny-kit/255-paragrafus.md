@@ -1,6 +1,6 @@
 ### 255. § [A hivatalvezető kinevezése]
 
-(1) A hivatalvezetőt a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
+(1) A hivatalvezetőt a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
 (2)
 

@@ -1,12 +1,12 @@
 ## XXIX. Fejezet
 
-## A FŐISPÁN
+## A KORMÁNYMEGBÍZOTT
 
-### 206. § [A főispán jogviszonyára alkalmazandó szabályok]
+### 206. § [A kormánymegbízott jogviszonyára alkalmazandó szabályok]
 
-(1) A főispán politikai szolgálati jogviszonyára – ha e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(1) A kormánymegbízott politikai szolgálati jogviszonyára – ha e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A főispán politikai szolgálati jogviszonyára e törvénynek a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó,
+(2) A kormánymegbízott politikai szolgálati jogviszonyára e törvénynek a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó,
 
 a) a szolgálati jogviszony alanyaival,
 

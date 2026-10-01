@@ -30,7 +30,7 @@ d) a miniszterelnök nemzetbiztonsági főtanácsadója és
 
 e) az államtitkár.
 
-(4) Politikai vezető a főispán.
+(4) Politikai vezető a kormánymegbízott.
 
 (5) Biztosi jogviszonyban áll:
 

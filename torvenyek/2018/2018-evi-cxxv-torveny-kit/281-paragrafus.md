@@ -2,7 +2,7 @@
 
 (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
+1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a kormánymegbízott, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
 
 2. határozza meg a Belső Ellenőrzési és Integritási Igazgatóság 29/B. § (3f) bekezdésében foglalt további feladatait.
 
@@ -16,7 +16,7 @@
 
 3. a kormányhivatalra vonatkozó gazdálkodási szabályokat;
 
-4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest vármegyében a vármegyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a vármegyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
+4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest megyében a megyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a megyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
 
 5. a járási hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működésük szabályait;
 
@@ -150,7 +150,7 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 (14) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 296. § (8) bekezdése szerinti jövedelem számításának módját.
 
-(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.
+(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és megyei kormányhivatal helyett eljáró másik fővárosi és megyei kormányhivatalt.
 
 (16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
 

@@ -26,4 +26,4 @@ d) a kormánytisztviselő, akinek legalább ötvenszázalékos mértékű egész
 
 (9) Ha a (8) bekezdésben meghatározott okok bármelyike a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás időtartama alatt következik be, a kormánytisztviselő erre irányuló kérelmére kell megszüntetni a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatást.
 
-(10) Ha az (1) bekezdésben meghatározott okból a kormányhivatal járási hivatala kormánytisztviselőjének a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás szükséges, annak elrendeléséről a főispán – az érintett járási hivatalvezető tájékoztatása mellett – dönt.
+(10) Ha az (1) bekezdésben meghatározott okból a kormányhivatal járási hivatala kormánytisztviselőjének a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás szükséges, annak elrendeléséről a kormánymegbízott – az érintett járási hivatalvezető tájékoztatása mellett – dönt.
