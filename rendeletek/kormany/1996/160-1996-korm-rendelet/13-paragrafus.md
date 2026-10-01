@@ -1,10 +1,10 @@
 ## Vegyes és záró rendelkezések
 
-13. § (1)[^95] Az 1. § (2) bekezdés f) pontja szerint védelemben részesülő külföldi védett személy, valamint a nemzetközi gyakorlat és a viszonosság alapján az 1. § (2) bekezdés c) és e) pontja alapján védelemben részesülő külföldi védett személy magyarországi tartózkodása alatti védelmének költségeit a fogadó szerv megtéríti a védelem ellátásáért felelős szervnek.
+13. § (1)[^95] Az 1. § (2) bekezdés g) pontja szerint védelemben részesülő külföldi védett személy, valamint a nemzetközi gyakorlat és a viszonosság alapján az 1. § (2) bekezdés d) és f) pontja alapján védelemben részesülő külföldi védett személy magyarországi tartózkodása alatti védelmének költségeit a fogadó szerv megtéríti a védelem ellátásáért felelős szervnek.
 
 (2)[^96] Nem kell a védelem költségeit megtéríteni, ha az érintett személy
 
-a)[^97] hazájában közjogi méltóságot tölt be, és az 1. melléklet 1. pontjában meghatározott védett személy vagy az Országgyűlés elnöke vendégeként tartózkodik Magyarországon,
+a)[^97] hazájában közjogi méltóságot tölt be, és az 1. § (1) bekezdésében meghatározott védett személy vendégeként tartózkodik Magyarországon,
 
 b)[^98] miniszter meghívására érkezik, és a meghívóval legalább azonos beosztású, illetve rangú, valamint hazájában is védett személynek minősül,
 
@@ -28,9 +28,9 @@ h) az Amerikai Egyesült Államok Vezérkari Főnökök Egyesített Bizottságá
 
 (5)[^105]
 
-[^95]: A 13. § (1) bekezdése a 203/1997. (XI. 19.) Korm. rendelet 1. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § h) pontja, a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés b)–c) pontja szerint módosított szöveg.
+[^95]: A 13. § (1) bekezdése a 203/1997. (XI. 19.) Korm. rendelet 1. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § h) pontja, a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés b)–c) pontja, a 161/2026. (IX. 21.) Korm. rendelet 8. § 29. pontja szerint módosított szöveg.
 [^96]: A 13. § új (2) bekezdését a 203/1997. (XI. 19.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatta. A (2) bekezdés a 63/2010. (III. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^97]: A 13. § (2) bekezdés a) pontja a 304/2013. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^97]: A 13. § (2) bekezdés a) pontja a 304/2013. (VII. 31.) Korm. rendelet 1. §-ával megállapított, a 161/2026. (IX. 21.) Korm. rendelet 8. § 30. pontja szerint módosított szöveg.
 [^98]: A 13. § (2) bekezdés b) pontja a 10/2011. (II. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^99]: A 13. § (2) bekezdés g) pontja a 267/2013. (VII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^100]: A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [A módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének átszámozásáról.] A 13. § (3) bekezdését a 63/2010. (III. 18.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte.

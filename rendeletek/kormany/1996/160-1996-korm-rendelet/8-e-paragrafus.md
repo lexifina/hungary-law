@@ -1,16 +1,16 @@
-8/E. §[^70] (1)[^71] A védelmet élvező személy egészségügyi állapotára vonatkozó tájékoztatást – ideértve a közvetlen hozzátartozók részére adott tájékoztatást is – kizárólag a kezelést irányító vagy végző orvos adhat az érintett hozzájárulásával. Egyéb célú tájékoztatás csak a védelmet élvező személy, vagy a védelmet élvező személy akaratnyilvánításra képtelen állapota esetén
+8/E. §[^69] (1)[^70] A védett személy egészségügyi állapotára vonatkozó tájékoztatást – ideértve a közvetlen hozzátartozók részére adott tájékoztatást is – kizárólag a kezelést irányító vagy végző orvos adhat az érintett hozzájárulásával. Egyéb célú tájékoztatás csak a védett személy, vagy a védett személy akaratnyilvánításra képtelen állapota esetén
 
 a) ideiglenes védelem időtartama alatt a rendészetért felelős miniszter,
 
 b) Magyarországon tartózkodó külföldi állampolgárságú védett személy esetében a külpolitikáért felelős miniszter,
 
-c) az a) és a b) pont hatálya alá nem tartozó más esetben a védelmet élvező személy hivatala vezetőjének az
+c)[^71] az a) és a b) pont hatálya alá nem tartozó más esetben a védett személy hivatala vezetőjének az
 
 engedélye alapján adható.
 
 (2)[^72] A külpolitikáért felelős miniszter az (1) bekezdés b) pontja szerinti engedély megadását megelőzően – ha a külföldi állampolgárságú védett személy országa Magyarországon külképviselettel rendelkezik – beszerzi a külképviselet vezetőjének hozzájárulását.
 
-(3)[^73] Az (1) bekezdés c) pont alkalmazásában a védelmet élvező személy hivatala
+(3)[^73] Az (1) bekezdés c) pont alkalmazásában a védett személy hivatala
 
 a)[^74] a köztársasági elnök és családtagja esetében a Sándor-palota,
 
@@ -28,10 +28,11 @@ g)[^79] az ideiglenes védelemben részesített személy esetében a kormányzat
 
 h)[^80] a jogszabály alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.
 
-[^70]: A 8/E. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
-[^71]: A 8/E. § (1) bekezdése a 456/2025. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^69]: A 8/E. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
+[^70]: A 8/E. § (1) bekezdése a 456/2025. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 161/2026. (IX. 21.) Korm. rendelet 8. § 25. pontja szerint módosított szöveg.
+[^71]: A 8/E. § (1) bekezdés c) pontja a 161/2026. (IX. 21.) Korm. rendelet 8. § 26. pontja szerint módosított szöveg.
 [^72]: A 8/E. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^73]: A 8/E. § (3) bekezdés nyitó szövegrésze a 456/2025. (XII. 29.) Korm. rendelet 4. § (5) bekezdés k) pontja szerint módosított szöveg.
+[^73]: A 8/E. § (3) bekezdés nyitó szövegrésze a 161/2026. (IX. 21.) Korm. rendelet 8. § 27. pontja szerint módosított szöveg.
 [^74]: A 8/E. § (3) bekezdés a) pontja a 258/2023. (VI. 28.) Korm. rendelet 4. §-a szerint, a 456/2025. (XII. 29.) Korm. rendelet 4. § (5) bekezdés k) pontja alapján módosított szöveg.
 [^75]: A 8/E. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § b) pontja szerint módosított szöveg.
 [^76]: A 8/E. § (3) bekezdés c) pontját a 102/2012. (V. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
