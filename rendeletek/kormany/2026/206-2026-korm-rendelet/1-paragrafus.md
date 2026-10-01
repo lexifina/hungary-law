@@ -1,0 +1,7 @@
+## [1] A felesleges párhuzamosságoktól mentes, költséghatékony rendőrségi feladatellátás kereteinek megteremtése érdekében indokolt a Terrorelhárítási Központot és az Országgyűlési Őrséget az általános rendőrségi feladatok ellátására létrehozott szerv szervezetébe integrálni.
+
+## [2] Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvénnyel összhangban szükséges a kormányrendeleti szabályozás koherenciájának megteremtése, valamint a rendőrségi feladatellátás rendszerébe az új törvényi szabályoknak megfelelő hatásköri szabályok telepítése.
+
+## [3] A Kormány a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 41. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) keretében történő információcsere részletes szabályairól szóló 564/2021. (X. 4.) Korm. rendelet 19. § (2) bekezdésében az „a terrorizmust elhárító” szövegrész helyébe az „az általános rendőrségi feladatok ellátására létrehozott” szöveg lép.
