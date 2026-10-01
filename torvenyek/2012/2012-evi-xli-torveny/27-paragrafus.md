@@ -8,11 +8,11 @@
 
 a) adott település és a járásközpont közötti közvetlen eljutási lehetőség,
 
-b) a járásközpont és a vármegyeszékhely közötti közvetlen eljutási lehetőség,
+b) a járásközpont és a megyeszékhely közötti közvetlen eljutási lehetőség,
 
-c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
+c) a szomszédos megyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
 
-d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
+d) a főváros és a megyeszékhelyek közötti közvetlen eljutási lehetőség.
 
 (4a) Az alapellátásban részesülő települési önkormányzattal egyeztetve a (4) bekezdés a) pontjában foglalt közvetlen eljutási lehetőséget a megrendelő eltérő járásközpontba vagy a gyakorlatban kialakult vonzáskörzeti központba is biztosíthatja.
 

@@ -6,7 +6,7 @@
 
 [4] A jogalkotó célja, hogy a törvényben kifejtett elvek gyakorlatba ültetésével Magyarország közlekedési közszolgáltatási rendszerében egységes és logikus szabályozás szerint készüljenek a szolgáltatói menetrendek, valamint megszűnjenek a szolgáltatási színvonalban korábban tapasztalható egyenetlenségek és egyenlőtlenségek.
 
-[5] E törvény tartalmazza a különböző településtípusok esetében nyújtandó szolgáltatások mennyiségi és minőségi jellemzőit. Lépcsőzetesen – települési, járás- és vármegyeszékhelyi szinten, illetve a főváros és vonzáskörzete tekintetében – határozza meg, hol, milyen alapellátás biztosításával érvényesülnek a polgárok személyszállítási közszolgáltatásokkal kapcsolatos jogai.
+[5] E törvény tartalmazza a különböző településtípusok esetében nyújtandó szolgáltatások mennyiségi és minőségi jellemzőit. Lépcsőzetesen – települési, járás- és megyeszékhelyi szinten, illetve a főváros és vonzáskörzete tekintetében – határozza meg, hol, milyen alapellátás biztosításával érvényesülnek a polgárok személyszállítási közszolgáltatásokkal kapcsolatos jogai.
 
 [6] A személyszállítási közszolgáltatások igénybevételére vonatkozó alapvető joggal kapcsolatos törvény ezért a személyszállítási jogok legfőbb kódexe és kiindulópontja. A jövőben mobilitási közszolgáltatás csak e jogok tiszteletben tartásával és érvényesítésével szervezhető meg és működtethető Magyarországon.
 
