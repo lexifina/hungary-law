@@ -12,7 +12,9 @@ d) a segélyhívások fogadása keretében megismert személyes adatokat,
 
 e) a körözési eljárás lefolytatásához szükséges adatokat,
 
-f) a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat
+f) a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat,
+
+g) az 1. § (2) bekezdés 15a. pontjában meghatározott feladat ellátásához szükséges adatokat
 
 kezeli.
 

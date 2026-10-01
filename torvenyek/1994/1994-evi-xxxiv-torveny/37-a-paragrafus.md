@@ -26,4 +26,4 @@ j) járművet elszállíthat, vagy egyéb módon eltávolíthat.
 
 a) a bekövetkezett terrorcselekmény miatt személyek élet- és vagyonbiztonsága sérelmet szenvedett,
 
-b) a terrorcselekmény az előkészületre vonatkozó közvetlen, konkrét és a nemzetbiztonsági szolgálatok vagy a terrorizmust elhárító szerv által megerősített információk alapján bekövetkezhetne.
+b) a terrorcselekmény az előkészületre vonatkozó közvetlen, konkrét és a nemzetbiztonsági szolgálatok vagy a rendőrség által megerősített információk alapján bekövetkezhetne.

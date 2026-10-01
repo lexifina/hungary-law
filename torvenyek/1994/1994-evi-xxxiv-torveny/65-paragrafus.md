@@ -1,6 +1,6 @@
 65. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a bűnözésre vonatkozó olyan információk megszerzése várható, amelyek elemzése és értékelése révén feltárhatók a bűncselekmények elkövetésére irányuló törekvések és lehetővé válik a bűncselekmények megelőzése, illetve megakadályozása.
 
-(2) A rendőrség terrorizmust elhárító szerve akkor folytathat titkos információgyűjtést a 7/E. § (1) bekezdés b) pont ba) alpontjában meghatározott feladata ellátása céljából, ha attól a hatáskörébe tartozó bűncselekmény megszakításához vagy az elkövető elfogásához szükséges információk megszerzése várható.
+(2)
 
 (3) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve akkor folytathat titkos információgyűjtést a megbízhatósági vizsgálat során, ha az alkalmazni kívánt bírói engedélyhez nem kötött eszköz a megbízhatósági vizsgálatot elrendelő határozatban és a részletes tervben szerepel, és az elrendelést az ügyészség jóváhagyta.
 

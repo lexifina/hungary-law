@@ -54,4 +54,4 @@ i) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állap
 
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.
 
-(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 63. § (7) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
+(4)

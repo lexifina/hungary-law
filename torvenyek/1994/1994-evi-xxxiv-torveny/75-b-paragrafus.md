@@ -1,8 +1,8 @@
-75/B. § (1) A bírói engedélyhez kötött eszközök alkalmazása esetenként legfeljebb kilencven napra engedélyezhető, amely újabb kérelem előterjesztése esetén, a (2), (3), (5) és (6) bekezdésben meghatározottak szerint alkalmanként legfeljebb kilencven nappal meghosszabbítható.
+75/B. § (1) A bírói engedélyhez kötött eszközök alkalmazása esetenként legfeljebb kilencven napra engedélyezhető, amely újabb kérelem előterjesztése esetén, a (2), (5) és (6) bekezdésben meghatározottak szerint alkalmanként legfeljebb kilencven nappal meghosszabbítható.
 
 (2) Egy adott bűnmegelőzési feladat ellátása során a 64. § a) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb háromszázhatvan napig engedélyezhető.
 
-(3) Egy adott feladat ellátása során a 65. § (2) bekezdése alapján bírói engedélyhez kötött eszközök alkalmazása legfeljebb száznyolcvan napig engedélyezhető.
+(3)
 
 (4) Egy adott leplezett eszköz alkalmazásához szükséges technikai eszköz vagy adat elhelyezése vagy eltávolítása érdekében a 64. § g) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb kilencven napig engedélyezhető.
 

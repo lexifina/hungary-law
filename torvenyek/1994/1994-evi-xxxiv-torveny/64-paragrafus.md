@@ -1,6 +1,6 @@
 64. § A rendőrség
 
-a) bűncselekmény elkövetésének megelőzése céljából, illetve a 7/E. § (1) bekezdés a) pont aa) alpontjában meghatározott, bűncselekmények megelőzésével kapcsolatos feladatai, illetve a 7/E. § (1) bekezdés b) pont ba) alpontjában meghatározott feladatai ellátása céljából,
+a) bűncselekmény elkövetésének megelőzése céljából,
 
 b) megbízhatósági vizsgálat során,
 

@@ -12,7 +12,7 @@ ba) az országos rendőrfőkapitány,
 
 bb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója vagy
 
-bc) a terrorizmust elhárító szerv főigazgatója,
+bc)
 
 bd) az idegenrendészeti szerv főigazgatója
 
