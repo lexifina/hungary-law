@@ -8,7 +8,7 @@ A védelmi és biztonsági feladatok ellátásával összefüggésben e törvén
 
 3. Alkotmánybíróság Hivatala,
 
-4. Országgyűlési Őrség,
+4.
 
 5. Magyar Nemzeti Bank,
 

@@ -1,6 +1,6 @@
 15. § (1) A szolgáltatások igénybevételéről feladatkörét érintően dönthet
 
-a) az ország egész területére vagy annak több vármegyét érintő részére rendeletben a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter,
+a) az ország egész területére vagy annak több megyét érintő részére rendeletben a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter,
 
 b) illetékességi területén határozatban a területi védelmi bizottság elnöke, valamint a polgármester,
 

@@ -30,7 +30,7 @@ d) a jegyző,
 
 e) az alkotmánybíró és az Alkotmánybíróság Hivatalának foglalkoztatottja, a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
 
-f) a Honvédség tényleges állományú, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja, e szervek alkalmazottja,
+f) a Honvédség tényleges állományú, a rendvédelmi szervek hivatásos állományú, valamint a nemzetbiztonsági szolgálatok hivatásos állományú tagja, e szervek alkalmazottja,
 
 g) az egészségügyi államigazgatási szerv kormánytisztviselője,
 
@@ -60,4 +60,4 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 (4) Az (1) vagy (2) bekezdés hatálya alá tartozó, valamint a (3) bekezdés alapján mentesített természetes személyek megjelenésre és szolgálatadásra nem kötelezhetőek, polgári védelmi szervezetbe nem oszthatóak be, vagy ilyen beosztásukat meg kell szüntetni.
 
-(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség központi nyilvántartó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.
+(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség központi nyilvántartó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.

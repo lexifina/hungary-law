@@ -26,4 +26,4 @@ k) biztosítja a lakosság riasztására szolgáló és a közigazgatási terül
 
 l) részt vesz a feladatainak ellátása érdekében, a hivatásos katasztrófavédelmi szerv által szervezett felkészítéseken.
 
-(3) A főpolgármester és a vármegyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (2) bekezdés szerinti felkészülési feladatokat.
+(3) A főpolgármester és a megyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (2) bekezdés szerinti felkészülési feladatokat.

@@ -1,12 +1,12 @@
 55. § (1) A helyi védelmi bizottság illetékességi területe a járásokhoz, a fővárosban a fővárosi kerületekhez igazodik.
 
-(2) A helyi védelmi bizottság elnöke a fővárosi, vármegyei kormányhivatal járási, fővárosi kerületi hivatalának vezetője, szakmai elnökhelyettese a honvédelmi feladatok tekintetében a Honvédség állományából vezényelt katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy.
+(2) A helyi védelmi bizottság elnöke a fővárosi, megyei kormányhivatal járási, fővárosi kerületi hivatalának vezetője, szakmai elnökhelyettese a honvédelmi feladatok tekintetében a Honvédség állományából vezényelt katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy.
 
 (3) A helyi védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül:
 
 a) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
 
-b) a fővárosi, vármegyei kormányhivatal képviselője,
+b) a fővárosi, megyei kormányhivatal képviselője,
 
 c) a területi katonai igazgatási szervének képviselője,
 

@@ -2,7 +2,7 @@
 
 (2) A helyi védelmi bizottság a védelmi és biztonsági tevékenysége keretében
 
-a) működési területén összehangolja a polgármesterek, valamint a védekezésben részt vevő szervek, szervezetek tevékenységét, a főpolgármester és a vármegyei közgyűlés elnöke kivételével utasíthatja őket a hatáskörükbe tartozó intézkedések megtételére,
+a) működési területén összehangolja a polgármesterek, valamint a védekezésben részt vevő szervek, szervezetek tevékenységét, a főpolgármester és a megyei közgyűlés elnöke kivételével utasíthatja őket a hatáskörükbe tartozó intézkedések megtételére,
 
 b) irányítja és összehangolja a Honvédség hadkiegészítésével összefüggő közigazgatási feladatok végrehajtását,
 
@@ -16,7 +16,7 @@ f) utasíthatja a védekezés irányítása során a védekezésben részt vevő
 
 g) intézkedik a védekezéshez igénybe vehető állomány és eszközök átcsoportosítására és bevonására.
 
-(3) A helyi védelmi bizottság elnökének az (2) bekezdésben meghatározott irányítási és utasítási jogköre nem terjed ki a főpolgármesterre és a vármegyei közgyűlés elnökére.
+(3) A helyi védelmi bizottság elnökének az (2) bekezdésben meghatározott irányítási és utasítási jogköre nem terjed ki a főpolgármesterre és a megyei közgyűlés elnökére.
 
 (4) A helyi védelmi bizottság a védelmi és biztonsági tevékenységre való felkészülés keretében
 

@@ -22,7 +22,7 @@ e) a 49. § (1) bekezdésében meghatározott védelmi és biztonsági feladatok
 
 adatszolgáltatása alapján kezeli.
 
-(3) A nemzetbiztonsági szolgálatok és a terrorizmust elhárító szerv által kezelt adatok tekintetében az adatszolgáltatást az érintett főigazgató nemzetbiztonsági érdekből megtagadhatja.
+(3) A nemzetbiztonsági szolgálatok által kezelt adatok tekintetében az adatszolgáltatást az érintett főigazgató nemzetbiztonsági érdekből megtagadhatja.
 
 (4) A közvetlen elektronikus adatkapcsolat útján együttműködő szerv adatkezelési rendszere elérését biztosító felülete kiépítésének és működtetésének költségét az adatot szolgáltató szerv viseli, az azon keresztül történő adatelérést a védelmi és biztonsági igazgatás központi szervének térítésmentesen biztosítja.
 

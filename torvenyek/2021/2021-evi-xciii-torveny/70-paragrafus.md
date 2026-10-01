@@ -2,7 +2,7 @@
 
 ## A VÉDELMI ÉS BIZTONSÁGI KÖTELEZETTSÉGEKKEL KAPCSOLATOS SZABÁLYSZEGÉS MEGÁLLAPÍTÁSA
 
-70. § (1) A védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnöke, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján a fővárosi, vármegyei kormányhivatal – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – közigazgatási hatósági eljárást folytat le azzal a természetes személlyel, jogi személlyel, jogi személyiséggel nem rendelkező jogalannyal szemben, aki
+70. § (1) A védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnöke, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján a fővárosi, megyei kormányhivatal – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – közigazgatási hatósági eljárást folytat le azzal a természetes személlyel, jogi személlyel, jogi személyiséggel nem rendelkező jogalannyal szemben, aki
 
 a) az e törvényben meghatározott polgári védelmi, valamint gazdasági és anyagi szolgáltatási kötelezettségét nem vagy nem megfelelően teljesíti,
 
@@ -12,6 +12,6 @@ c) az összehangolt védelmi tevékenységgel összefüggésben e törvény alap
 
 (2) Az (1) bekezdés szerinti eljárás legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
 
-(3) A fővárosi, vármegyei kormányhivatal az (1) bekezdés szerinti eljárásban, kormányrendeletben meghatározottak szerint védelmi és biztonsági bírságot szabhat ki.
+(3) A fővárosi, megyei kormányhivatal az (1) bekezdés szerinti eljárásban, kormányrendeletben meghatározottak szerint védelmi és biztonsági bírságot szabhat ki.
 
-(4) A fővárosi, vármegyei kormányhivatal a védelmi és biztonsági bírság összegét kormányrendeletben meghatározottak szerint mérsékelheti vagy korlátlanul enyhítheti, megfizetésére részletfizetést engedélyezhet.
+(4) A fővárosi, megyei kormányhivatal a védelmi és biztonsági bírság összegét kormányrendeletben meghatározottak szerint mérsékelheti vagy korlátlanul enyhítheti, megfizetésére részletfizetést engedélyezhet.
