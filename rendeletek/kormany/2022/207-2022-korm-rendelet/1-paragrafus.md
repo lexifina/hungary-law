@@ -12,14 +12,15 @@
 
 5. kiegészítő támogatás: az árvák kiegészítő támogatása és a kiegészítő hozzátartozói támogatás,
 
-6. miniszter: a Hszt. 2. § 17. pontja szerinti miniszter, valamint az Országgyűlési Őrség esetében az Országgyűlésről szóló 2012. évi XXXVI. törvény 129. § (1) bekezdés b) pontja alapján a házelnök,
+6.[^1] miniszter: a Hszt. 2. § 17. pontja szerinti miniszter,
 
 7. minősítő határozat: a Hszt. 257. § (3) bekezdése szerinti határozat,
 
-8.[^1] rendvédelmi szerv: a Hszt. 1. § (1) bekezdés a)–g) pontja szerinti szervek,
+8.[^2] rendvédelmi szerv: a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti szervek,
 
 9. rendvédelmi szerv vezetője: a Hszt. 2. § 18. pontja szerinti országos főigazgató és a Hszt. 2. § 19. pontja szerinti országos parancsnok,
 
 10. szolgálati kötelmekkel összefüggő baleset, betegség: a hivatásos állomány tagja balesetének, betegségének és az ezek miatt bekövetkezett halálának a szolgálatteljesítéssel való összefüggése, amelyet jogszabályban meghatározott vizsgálat során a Hszt. 257. § (3) bekezdése szerinti minősítő határozattal kell megállapítani.
 
-[^1]: Az 1. § 8. pontja a 12/2025. (II. 18.) Korm. rendelet 15. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. §-át.
+[^1]: Az 1. § 6. pontja a 208/2026. (IX. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § 8. pontja a 208/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.

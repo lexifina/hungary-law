@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-207-20-
 | --- | --- | --- |
 | 2022-07-01 | 2022-207-20-22.1 | 207/2022. (VI. 14.) Korm. rendelet |
 | 2025-03-01 | 2022-207-20-22.2 | 12/2025. (II. 18.) Korm. rendelet |
+| 2026-10-01 | 2022-207-20-22.3 | 208/2026. (IX. 21.) Korm. rendelet |
