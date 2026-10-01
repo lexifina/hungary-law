@@ -12,7 +12,7 @@
 
 a) az általános rendőrségi feladatok ellátására létrehozott szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hivatásos állománya esetében első fokon a Rendőrségi Oktatási és Kiképző Központ, másodfokon az Országos Rendőr-főkapitányság,
 
-b) a terrorizmust elhárító szerv hivatásos állománya esetében első fokon a Terrorelhárítási Központ, másodfokon az Országos Rendőr-főkapitányság,
+b)[^61]
 
 c) a hivatásos katasztrófavédelmi szerv hivatásos állománya esetében első fokon a Fővárosi Katasztrófavédelmi Igazgatóság, másodfokon a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
@@ -25,3 +25,5 @@ végzi.
 (5) A megkülönböztető jelzést használó és speciális gépjárművek vezetőinek előzetes és ezt követően ötévente rendszeres közlekedéspszichológiai vizsgálaton kell részt vennie.
 
 (6) A közlekedés-pszichológiai vizsgálaton kizárólag „Megfelelő” vagy „Nem megfelelő” értékelés adható.
+
+[^61]: A 105. § (4) bekezdés b) pontját a 23/2026. (IX. 30.) BM rendelet 64. § d) pontja hatályon kívül helyezte.

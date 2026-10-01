@@ -1,3 +1,3 @@
-108. §[^57]
+108. §[^62]
 
-[^57]: A 108. § a 112. § alapján hatályát vesztette.
+[^62]: A 108. § a 112. § alapján hatályát vesztette.

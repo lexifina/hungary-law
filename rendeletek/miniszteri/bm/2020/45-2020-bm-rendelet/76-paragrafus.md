@@ -2,17 +2,17 @@
 
 ## 17. A soron kívüli alkalmasságvizsgálat
 
-76. § (1)[^31] A soron kívüli alkalmasságvizsgálatot – ha arra nem a 68. § (3) bekezdése alapján kerül sor – az állományilletékes parancsnok rendeli el írásban. A soron kívüli alkalmasságvizsgálat elrendelésére abban az esetben kerül sor, ha kétség merül fel a hivatásos állomány tagjának egészségi, pszichológiai vagy fizikai alkalmasságával kapcsolatban.
+76. § (1)[^35] A soron kívüli alkalmasságvizsgálatot – ha arra nem a 68. § (3) bekezdése alapján kerül sor – az állományilletékes parancsnok rendeli el írásban. A soron kívüli alkalmasságvizsgálat elrendelésére abban az esetben kerül sor, ha kétség merül fel a hivatásos állomány tagjának egészségi, pszichológiai vagy fizikai alkalmasságával kapcsolatban.
 
-(2)[^32] Az állományilletékes parancsnok
+(2)[^36] Az állományilletékes parancsnok
 
 a) alkalmasságot befolyásoló körülmény észlelése esetén elrendelheti egyes alkalmasságvizsgálati kategóriákba tartozó szolgálati beosztásokat betöltők soron kívüli alkalmasságvizsgálatát, vagy egyes alkalmasságvizsgálatok hivatásos állomány egészére vagy meghatározott részére történő soron kívüli elvégzését,
 
 b) soron kívüli alkalmasságvizsgálatot rendel el heveny foglalkozási megbetegedés, fokozott expozíció, eszméletvesztéssel járó vagy ismétlődő szolgálati baleset előfordulását követően,
 
-c)[^33] soron kívüli egészségi alkalmasságvizsgálatot rendel el kilencven nap egybefüggő egészségügyi szabadságot követően, vagy
+c)[^37] soron kívüli egészségi alkalmasságvizsgálatot rendel el kilencven nap egybefüggő egészségügyi szabadságot követően, vagy
 
-d)[^34] soron kívüli alkalmasságvizsgálatot rendel el a szolgálati elöljáró, a rendvédelmi alapellátó orvos, a rendvédelmi alapellátó pszichológus vagy a sportszakember javaslatára.
+d)[^38] soron kívüli alkalmasságvizsgálatot rendel el a szolgálati elöljáró, a rendvédelmi alapellátó orvos, a rendvédelmi alapellátó pszichológus vagy a sportszakember javaslatára.
 
 (3) A (2) bekezdés c) pontja alól kivételt képez a hivatásos állomány várandós nő tagjának a Hszt. 147. §-a szerinti egészségügyi szabadságának időtartama, továbbá a hivatásos állomány tagjának a Hszt. 148. §-a szerinti, gyermekápolás céljából igénybe vett egészségügyi szabadsága időtartama.
 
@@ -22,7 +22,7 @@ d)[^34] soron kívüli alkalmasságvizsgálatot rendel el a szolgálati elöljá
 
 (6) A soron kívüli alkalmasságvizsgálat a szolgálatképtelenség időtartama alatt is elvégezhető abban az esetben, ha a hivatásos állomány tagja vizsgálható állapotban van, függetlenül attól, hogy szolgálati feladatot aktuálisan nem lát el. Ebben az esetben a soron kívüli alkalmasságvizsgálat minősítése során a vizsgáló orvos azt figyelembe véve alkot véleményt, hogy a hivatásos állomány tagja aktuális, a szolgálatképtelenségére okot adó betegségének, betegségeinek a jellemző gyógyulási időtartamát követően feltételezhetően visszanyeri-e az egészségi alkalmasságát.
 
-[^31]: A 76. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 48. § a) pontja, a 21/2026. (IX. 16.) BM rendelet 4. § c) pontja szerint módosított szöveg.
-[^32]: A 76. § (2) bekezdés nyitó szövegrésze a 20/2021. (VII. 14.) BM rendelet 33. §-ával megállapított szöveg.
-[^33]: A 76. § (2) bekezdés c) pontja a 24/2023. (VI. 30.) BM rendelet 47. §-a szerint módosított szöveg.
-[^34]: A 76. § (2) bekezdés d) pontját a 24/2023. (VI. 30.) BM rendelet 44. §-a iktatta be.
+[^35]: A 76. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 48. § a) pontja, a 21/2026. (IX. 16.) BM rendelet 4. § c) pontja szerint módosított szöveg.
+[^36]: A 76. § (2) bekezdés nyitó szövegrésze a 20/2021. (VII. 14.) BM rendelet 33. §-ával megállapított szöveg.
+[^37]: A 76. § (2) bekezdés c) pontja a 24/2023. (VI. 30.) BM rendelet 47. §-a szerint módosított szöveg.
+[^38]: A 76. § (2) bekezdés d) pontját a 24/2023. (VI. 30.) BM rendelet 44. §-a iktatta be.
