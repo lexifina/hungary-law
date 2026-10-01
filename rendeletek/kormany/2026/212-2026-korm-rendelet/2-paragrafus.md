@@ -1,0 +1,1 @@
+2. § Hatályát veszti a honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló 614/2022. (XII. 29.) Korm. rendelet 20. § (1) bekezdés h) pontjában az „az Országgyűlési Őrség,” szövegrész.
