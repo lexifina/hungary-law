@@ -4,13 +4,13 @@ a) az egyenruhás alapellátási normába vagy vegyes ruhás alapellátási norm
 
 b) az igényjogosult, ha a rendvédelmi feladatokat ellátó szerven belül a ruházati ellátási normák közötti átsorolására került sor, és ha a korábbi besorolásának megfelelő ruházati ellátási norma cikkösszetétele, illetve a ruházati cikkek darabszáma emelkedik,
 
-c)[^28] a rendfokozati állománycsoport megváltozására tekintettel a tiszthelyettesi rendfokozati állománycsoportból más rendfokozati állománycsoportba tartozó rendfokozatba kinevezett, továbbá a tábornokká kinevezett, valamint az alacsonyabb beosztásba helyezéssel járó tiszthelyettesi rendfokozatba visszasorolt igényjogosult,
+c)[^29] a rendfokozati állománycsoport megváltozására tekintettel a tiszthelyettesi rendfokozati állománycsoportból más rendfokozati állománycsoportba tartozó rendfokozatba kinevezett, továbbá a tábornokká kinevezett, valamint az alacsonyabb beosztásba helyezéssel járó tiszthelyettesi rendfokozatba visszasorolt igényjogosult,
 
 d) az az áthelyezett vagy vezényelt igényjogosult, aki további használatra alkalmas – a fogadó szervnél rendszeresített – ruházati termékkel vagy felszerelési cikkel előzőleg részben ellátásra került és részére a kiegészítés indokolt, valamint
 
 e) az az igényjogosult, akinek a 12 hónapot meghaladó tartamú rendelkezési állományba helyezése megszűnt, és a besorolásának megfelelő ruházati ellátási norma cikkösszetétele, illetve tartalma a rendelkezési állományban töltött időtartam alatt megváltozott.
 
-(2)[^29] Az alapellátás-kiegészítésben részesülő igényjogosult ruházati utánpótlási ellátmányra jogosult.
+(2)[^30] Az alapellátás-kiegészítésben részesülő igényjogosult ruházati utánpótlási ellátmányra jogosult.
 
 (3) A polgári ruhás alapellátási normába átsorolt igényjogosult részére a ruházati ellátási normában szereplő polgári ruhapénzt nem lehet kifizetni.
 
@@ -18,5 +18,5 @@ e) az az igényjogosult, akinek a 12 hónapot meghaladó tartamú rendelkezési 
 
 (5) Az alapellátás-kiegészítési ellátmánnyal való elszámolást a 21. §-ban foglaltaknak megfelelően kell végrehajtani.
 
-[^28]: A 15. § (1) bekezdés c) pontja a 24/2025. (VII. 16.) BM rendelet 2. §-ával megállapított szöveg.
-[^29]: A 15. § (2) bekezdése a 6/2022. (IV. 14.) BM rendelet 8. § 4. pontja szerint módosított szöveg.
+[^29]: A 15. § (1) bekezdés c) pontja a 24/2025. (VII. 16.) BM rendelet 2. §-ával megállapított szöveg.
+[^30]: A 15. § (2) bekezdése a 6/2022. (IV. 14.) BM rendelet 8. § 4. pontja szerint módosított szöveg.

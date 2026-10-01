@@ -1,3 +1,3 @@
-59. §[^81]
+59. §[^82]
 
-[^81]: Az 59. §-t a 29/2017. (XI. 6.) BM rendelet 10. §-a iktatta be, a 6/2022. (IV. 14.) BM rendelet 9. § d) pontja hatályon kívül helyezte.
+[^82]: Az 59. §-t a 29/2017. (XI. 6.) BM rendelet 10. §-a iktatta be, a 6/2022. (IV. 14.) BM rendelet 9. § d) pontja hatályon kívül helyezte.

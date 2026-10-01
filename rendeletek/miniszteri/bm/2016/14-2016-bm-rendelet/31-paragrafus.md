@@ -1,6 +1,6 @@
 ## 30. § Az önálló szervek ellátási szükségleteik fedezetét a hatályos ellátási normák és a tervezési előírások alapján, az éves költségvetés keretében tervezik és biztosítják.
 
-31. § (1)[^54] Az igényjogosult akkor válik jogosulttá a 26. § (1) bekezdésében meghatározott ellátásra, ha kinevezés, áthelyezés, átrendelés, megbízás helyettesítésre vagy vezénylés folytán juttatásra jogosító munkakörbe lép.
+31. § (1)[^55] Az igényjogosult akkor válik jogosulttá a 26. § (1) bekezdésében meghatározott ellátásra, ha kinevezés, áthelyezés, átrendelés, megbízás helyettesítésre vagy vezénylés folytán juttatásra jogosító munkakörbe lép.
 
 (2) Az igényjogosult ellátását a szolgálati hely szerint illetékes ruházati szakszolgálat – a hatályos ellátási normák figyelembevételével – a ruházat természetbeni kiadása útján teljesíti.
 
@@ -12,4 +12,4 @@
 
 (6) A munkaruha kiadásakor az igényjogosulttal közölni kell a ruházat viselési idejét, illetve az utánpótlás várható időpontját, továbbá azt, hogy a munkaruházat mosatása, karbantartása az igényjogosult kötelessége. A ruházat a viselési idő lejártáig az önálló szerv, ezt követően a használó tulajdonát képezi.
 
-[^54]: A 31. § (1) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § f) pontja szerint módosított szöveg.
+[^55]: A 31. § (1) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § f) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ b) vegyes ruhás alapellátási norma, amely azon állomány ruházati és felsz
 
 c) tábornoki alapellátási norma, amely a tábornoki rendfokozatot viselők ruházati és felszerelési cikkeket tartalmazza, akik szolgálati feladataik során egyenruhát és polgári ruházatot is viselhetnek,
 
-d)[^24] polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló- és társasági ruházatot, valamint polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz azok számára, akik alapvetően polgári ruházatban teljesítenek szolgálatot,
+d)[^25] polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló- és társasági ruházatot, valamint polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz azok számára, akik alapvetően polgári ruházatban teljesítenek szolgálatot,
 
 e) szenior alapellátási norma, amely a különleges foglalkoztatási állomány (a továbbiakban: szenior állomány) számára tartalmazza a ruházati és felszerelési cikkek összetételét.
 
@@ -24,7 +24,7 @@ e) szenior alapellátási norma, amely a különleges foglalkoztatási állomán
 
 (7) A ruházati ellátási normába való besorolás a szolgálati beosztás alapján történik. Eltérő szolgálati beosztásban történő foglalkoztatás esetében a ruházati normabesorolásról az állományilletékes parancsnok határoz. A ruházati ellátási normába történő besorolásról, illetve a más normába történő átsorolásról az állományilletékes parancsnok a gazdasági vezető ellenjegyzésével állományparancsban intézkedik.
 
-(8)[^25] A másik ruházati ellátási normába történt átsorolás esetén a hivatásos állomány tagjának az átsorolást követően a tulajdonában meghagyott ruházati termékeket és felszerelési cikkeket két évig meg kell őriznie. Az átsorolást követő két éven belüli újabb átsorolás esetén a hivatásos állomány tagja tulajdonában meghagyott ruházati termékek és felszerelési cikkek helyett az önálló szerv költségvetését terhelően másik ruházati termék és felszerelési cikk nem adható ki. Erről az érintettet írásban tájékoztatni kell.
+(8)[^26] A másik ruházati ellátási normába történt átsorolás esetén a hivatásos állomány tagjának az átsorolást követően a tulajdonában meghagyott ruházati termékeket és felszerelési cikkeket két évig meg kell őriznie. Az átsorolást követő két éven belüli újabb átsorolás esetén a hivatásos állomány tagja tulajdonában meghagyott ruházati termékek és felszerelési cikkek helyett az önálló szerv költségvetését terhelően másik ruházati termék és felszerelési cikk nem adható ki. Erről az érintettet írásban tájékoztatni kell.
 
-[^24]: A 12. § (3) bekezdés d) pontja a 29/2017. (XI. 6.) BM rendelet 12. § c) pontja szerint módosított szöveg.
-[^25]: A 12. § (8) bekezdését a 24/2025. (VII. 16.) BM rendelet 1. §-a iktatta be.
+[^25]: A 12. § (3) bekezdés d) pontja a 29/2017. (XI. 6.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^26]: A 12. § (8) bekezdését a 24/2025. (VII. 16.) BM rendelet 1. §-a iktatta be.
