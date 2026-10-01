@@ -14,7 +14,7 @@ f)[^1] a Magyar Energetikai és Közmű-szabályozási Hivatal vagy az Országos
 
 g) a Nemzeti Média- és Hírközlési Hatóság látja el, az audiovizuális politikáért felelős miniszter és az elektronikus hírközlésért felelős miniszter;
 
-h) az Országgyűlési Őrség látja el, a rendészetért felelős miniszter;
+h)[^2]
 
 i) az Állambiztonsági Szolgálatok Történeti Levéltára látja el, a köziratok kezelésének szakmai irányításáért felelős miniszter;
 
@@ -22,7 +22,7 @@ j) a Nemzeti Emlékezet Bizottsága látja el, a kormányzati társadalmi kapcso
 
 k) a Magyar Honvédség látja el, a honvédelemért felelős miniszter;
 
-l)[^2] – a Kormány, a kormánybizottság, az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv és ezek területi szerve (a továbbiakban együtt: központi államigazgatási szerv) látja el, a központi államigazgatási szerv irányításáért, vezetéséért vagy felügyeletéért felelős miniszter, a Miniszterelnöki Kormányiroda tekintetében a Miniszterelnöki Kormányirodát vezető közigazgatási államtitkár;
+l)[^3] – a Kormány, a kormánybizottság, az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv és ezek területi szerve (a továbbiakban együtt: központi államigazgatási szerv) látja el, a központi államigazgatási szerv irányításáért, vezetéséért vagy felügyeletéért felelős miniszter, a Miniszterelnöki Kormányiroda tekintetében a Miniszterelnöki Kormányirodát vezető közigazgatási államtitkár;
 
 m) a fővárosi és megyei kormányhivatal látja el, a fővárosi és megyei kormányhivatal által ellátott közfeladat szabályozásáért felelős miniszter;
 
@@ -53,4 +53,5 @@ felelős.
 (6) Ha tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita merül fel a közigazgatás-szervezésért felelős miniszter és az (1) bekezdés szerinti felelős személy között, a felek kötelesek egyeztetés keretében megkísérelni a vita rendezését.
 
 [^1]: A 4. § (1) bekezdés f) pontja a 219/2024. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^2]: A 4. § (1) bekezdése l) pontja a 101/2018. (VI. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdés h) pontját a 203/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^3]: A 4. § (1) bekezdése l) pontja a 101/2018. (VI. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
