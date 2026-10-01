@@ -1,6 +1,6 @@
-17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely vármegyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
+17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely megyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
 
-a) vármegyei szinten ellátja a Magyar Nemzeti Levéltár feladatait,
+a) megyei szinten ellátja a Magyar Nemzeti Levéltár feladatait,
 
 b) a Magyar Nemzeti Levéltár költségvetésén belül az egyes tagintézmények szakmai feladatainak figyelembevételével meghatározott éves elkülönített költségvetési kerettel működik,
 
