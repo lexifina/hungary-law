@@ -72,8 +72,8 @@ db) a közös önkormányzati hivatalhoz tartozó települések összlakosságsz
 
 dc) megfelel az e bekezdésben meghatározott egyéb feltételeknek.
 
-(14) A (13) bekezdés a)–d) pontjában meghatározott jóváhagyás iránti kérelem az általános önkormányzati választások napját követő 45. napig nyújtható be az illetékes főispánhoz.
+(14) A (13) bekezdés a)–d) pontjában meghatározott jóváhagyás iránti kérelem az általános önkormányzati választások napját követő 45. napig nyújtható be az illetékes kormánymegbízotthoz.
 
-(15) A (14) bekezdésben meghatározott kérelemhez az önkormányzat csatolja a (13) bekezdés a), b) és d) pontja esetében az érintett önkormányzatok képviselő-testületei által jóváhagyott megállapodásokat, és azokat megküldi az illetékes főispánnak.
+(15) A (14) bekezdésben meghatározott kérelemhez az önkormányzat csatolja a (13) bekezdés a), b) és d) pontja esetében az érintett önkormányzatok képviselő-testületei által jóváhagyott megállapodásokat, és azokat megküldi az illetékes kormánymegbízottnak.
 
-(16) Az illetékes főispán a (14) bekezdésben megjelölt kérelmet az arra vonatkozó álláspontjával együtt haladéktalanul megküldi a miniszternek. A miniszter a kérelem tartalma, a (13) bekezdésben foglalt feltételek teljesülése és a kérelem tárgyát képező összes körülmény figyelembevételével dönt.
+(16) Az illetékes kormánymegbízott a (14) bekezdésben megjelölt kérelmet az arra vonatkozó álláspontjával együtt haladéktalanul megküldi a miniszternek. A miniszter a kérelem tartalma, a (13) bekezdésben foglalt feltételek teljesülése és a kérelem tárgyát képező összes körülmény figyelembevételével dönt.

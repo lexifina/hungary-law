@@ -1,6 +1,6 @@
 130. § A miniszter, feladatkörében eljárva:
 
-a) meghatározza a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke, a jegyző, a kormányhivatal államigazgatási feladatai ellátásának szakmai szabályait és ellenőrzi azok érvényesülését;
+a) meghatározza a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a kormányhivatal államigazgatási feladatai ellátásának szakmai szabályait és ellenőrzi azok érvényesülését;
 
 b) a rendelkezésre álló forrásokra figyelemmel szabályozza a helyi önkormányzatok által fenntartott intézmények működésének szakmai követelményeit, az intézmények dolgozóinak képesítési előírásait, ellenőrzi az előírások érvényesülését;
 

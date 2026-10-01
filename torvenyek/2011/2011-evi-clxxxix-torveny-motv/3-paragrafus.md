@@ -1,4 +1,4 @@
-3. § (1) A helyi önkormányzás joga a települések (települési önkormányzatok) és a vármegyék (területi önkormányzatok) választópolgárainak közösségét illeti meg.
+3. § (1) A helyi önkormányzás joga a települések (települési önkormányzatok) és a megyék (területi önkormányzatok) választópolgárainak közösségét illeti meg.
 
 (2) Települési önkormányzatok a községekben, a városokban, járásszékhely városokban, megyei jogú városokban és a fővárosi kerületekben működnek.
 

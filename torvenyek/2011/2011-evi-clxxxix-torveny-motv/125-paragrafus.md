@@ -10,4 +10,4 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (3)
 
-(4) Az Országgyűlés dönt az állam területi tagozódásáról, továbbá – az érintett önkormányzatok véleményének kikérése után – a vármegyék összevonásáról, szétválasztásáról, határainak megváltoztatásáról, elnevezéséről és székhelyéről, valamint a fővárosi kerületek kialakításáról.
+(4) Az Országgyűlés dönt az állam területi tagozódásáról, továbbá – az érintett önkormányzatok véleményének kikérése után – a megyék összevonásáról, szétválasztásáról, határainak megváltoztatásáról, elnevezéséről és székhelyéről, valamint a fővárosi kerületek kialakításáról.

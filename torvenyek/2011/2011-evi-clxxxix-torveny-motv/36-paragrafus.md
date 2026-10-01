@@ -14,7 +14,7 @@ b) központi államigazgatási szerv vezetője, köztisztviselője;
 
 c) kormánytisztviselő olyan államigazgatási szervnél, illetve a Nemzeti Adó- és Vámhivatal azon szervének tisztviselője, amelynek illetékességi területén az adott önkormányzat működik;
 
-d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat, az Országgyűlési Őrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja;
+d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, polgári nemzetbiztonsági szolgálat hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja;
 
 e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 
@@ -30,6 +30,6 @@ i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági
 
 (1b) Az (1) bekezdés a) pont aa) alpontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
-(2) A települési önkormányzati képviselő nem lehet a vármegyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
+(2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
 (3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek is tagja, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.

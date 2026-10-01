@@ -1,10 +1,10 @@
-## A főpolgármester, polgármester, a vármegyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
+## A főpolgármester, polgármester, a megyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
 71. § (1) A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a 2024. évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
 (2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négy és félszeresének megfelelő összegű illetményre jogosult.
 
-(3) A vármegyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset kétszeresének megfelelő összegű illetményre jogosult.
+(3) A megyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset kétszeresének megfelelő összegű illetményre jogosult.
 
 (4) A polgármester megbízatásának időtartamára havonta
 
@@ -24,7 +24,7 @@ g) a 30 000 fő feletti lakosságszámú település esetében a nemzetgazdaság
 
 megfelelő összegű illetményre jogosult.
 
-(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a vármegyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a 2024. évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni.
+(4a) A főpolgármester, a megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere, a megyei önkormányzat közgyűlésének elnöke, a polgármester (e bekezdés alkalmazásában a továbbiakban együtt: polgármester) illetményének számításánál a 2024. évnek a január első napjától december utolsó napjáig tartó időszakára vonatkozó, a legalább 5 főt foglalkoztató vállalkozásoknál, a költségvetési intézményeknél és a foglalkoztatás szempontjából jelentős nonprofit szervezeteknél teljes munkaidőben alkalmazásban állók bruttó átlagkeresetére vonatkozóan a nemzetgazdasági átlagkeresetet kell alapul venni.
 
 (4b) A polgármester illetményének, tiszteletdíjának összegét az (1)–(4a) bekezdés alapján a jegyző állapítja meg.
 
