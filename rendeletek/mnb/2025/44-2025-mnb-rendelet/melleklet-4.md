@@ -2094,6 +2094,6 @@
 
 ## 5. A jelentés kitöltését segítő módszertani útmutatást az MNB a honlapján teszi közzé.
 
-4. melléklet a 44/2025. (XII. 4.) MNB rendelethez[^7]
+4. melléklet a 44/2025. (XII. 4.) MNB rendelethez[^8]
 
-[^7]: A 4. melléklet a 33/2026. (IX. 14.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 4. melléklet a 33/2026. (IX. 14.) MNB rendelet 3. § b) pontja és 2. melléklet 6. pont b) alpontja szerint módosított szöveg.

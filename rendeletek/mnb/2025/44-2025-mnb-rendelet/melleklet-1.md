@@ -158,7 +158,7 @@
 
 3.9. Értékpapír forgalomba hozatal szervezési tevékenység: pénzügyi eszköz elhelyezése a pénzügyi eszköz vételére vonatkozó kötelezettségvállalás nélkül.
 
-3.9a.[^6] Gépi küldés: emberi beavatkozás nélküli, automatikus és programozott úton történő adatküldés két rendszer között. A Microsoft által biztosított Windows Communication Foundation (WCF) keretrendszerben fejlesztett External WCF szolgáltatás útján, interfészen keresztül történő adatküldés az ERA rendszer részére, ahol fájlbeküldéssel történik az adatszolgáltatás teljesítése. Kizárólag fokozott biztonságú vagy minősített elektronikus aláírással el nem látott állomány beküldése támogatott.
+3.9a.[^7] Gépi küldés: emberi beavatkozás nélküli, automatikus és programozott úton történő adatküldés két rendszer között. A Microsoft által biztosított Windows Communication Foundation (WCF) keretrendszerben fejlesztett External WCF szolgáltatás útján, interfészen keresztül történő adatküldés az ERA rendszer részére, ahol fájlbeküldéssel történik az adatszolgáltatás teljesítése. Kizárólag fokozott biztonságú vagy minősített elektronikus aláírással el nem látott állomány beküldése támogatott.
 
 3.10. Halmozó részvény: a jegyzett és befizetett részvények közül azok az osztalékelsőbbségi részvények, amelyek a nyereséges év(ek)ben a korábbi (esetleg) veszteséges év(ek)ben elmaradt hozamokra is feljogosítanak.
 
@@ -292,4 +292,4 @@
 
 6. A felügyeleti jelentés teljesítési határideje
 
-[^6]: Az 1. melléklet I. 3. pont 3.9a. alpontját a 33/2026. (IX. 14.) MNB rendelet 3. § a) pontja iktatta be.
+[^7]: Az 1. melléklet I. 3. pont 3.9a. alpontját a 33/2026. (IX. 14.) MNB rendelet 3. § a) pontja iktatta be.

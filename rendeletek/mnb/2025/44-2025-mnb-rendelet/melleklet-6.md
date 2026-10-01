@@ -166,7 +166,7 @@
 
 ## 50W2 sor: a befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni. Megegyezik az 50A3 sorban szereplő kóddal.
 
-## 2.[^8] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
+## 2.[^9] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
 
 ## A tábla kitöltése
 
@@ -716,7 +716,7 @@
 
 ## Az 50U10 kezdetű sorok az intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat tartalmazzák. Az ügyfél általi adatmódosítás fogalmába beletartoznak a tranzakciós adatmódosítások (például befektetés, az ügyfél általi vételi/eladási megbízás) is.
 
-## 13a.[^9] 50N Nyújtott kölcsönök időszak végén fennálló állománya
+## 13a.[^10] 50N Nyújtott kölcsönök időszak végén fennálló állománya
 
 ## A tábla oszlopai
 
@@ -876,7 +876,7 @@
 
 ## 51Q4 Befektetési politika, illetve a változtatás engedélyének határozatszáma: nyilvános befektetési alap esetén a befektetési politika felügyeleti engedélyének határozatszáma.
 
-## 19.[^10] 51R Határon átnyúló alapkezelő által kezelt hazai alap adatai
+## 19.[^11] 51R Határon átnyúló alapkezelő által kezelt hazai alap adatai
 
 ## A tábla sorai
 
@@ -1088,6 +1088,6 @@
 
 6. melléklet a 44/2025. (XII. 4.) MNB rendelethez
 
-[^8]: Az 5. melléklet II. pont 2. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.
-[^9]: Az 5. melléklet II. pont 13a. alpontját a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontja iktatta be.
-[^10]: Az 5. melléklet II. pont 19. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.
+[^9]: Az 5. melléklet II. pont 2. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.
+[^10]: Az 5. melléklet II. pont 13a. alpontját a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontja iktatta be.
+[^11]: Az 5. melléklet II. pont 19. alpontja a 33/2026. (IX. 14.) MNB rendelet 3. § c) pontjával megállapított szöveg.
