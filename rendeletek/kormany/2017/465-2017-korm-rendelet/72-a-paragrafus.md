@@ -1,4 +1,4 @@
-## III/A. Fejezet[^92]
+## III/A. Fejezet[^99]
 
 ## AZ ELEKTRONIKUS HÍRKÖZLŐ HÁLÓZAT ÚTJÁN TÖRTÉNŐ MEGHALLGATÁS RÉSZLETES SZABÁLYAI
 
@@ -8,4 +8,4 @@
 
 (3) A meghallgatás során a kamerák által továbbított mozgóképet a közvetítő készüléken a képernyő megosztásával a meghallgatás során folyamatosan meg kell jeleníteni.
 
-[^92]: A III/A. Fejezetet (72/A–72/C. §-t) a 78/2025. (IV. 17.) Korm. rendelet 17. §-a iktatta be.
+[^99]: A III/A. Fejezetet (72/A–72/C. §-t) a 78/2025. (IV. 17.) Korm. rendelet 17. §-a iktatta be.

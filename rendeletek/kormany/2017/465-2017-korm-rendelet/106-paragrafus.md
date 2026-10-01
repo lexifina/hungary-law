@@ -2,6 +2,6 @@
 
 (2) Az adópolitikáért felelős miniszter a kérelem alapján indult eljárást lezáró döntést a döntés véglegessé válásának napjáról történő értesítéssel együtt a döntés véglegessé válásától számított nyolc napon belül megküldi az állami adó- és vámhatóságnak.
 
-(3)[^113]
+(3)[^120]
 
-[^113]: A 106. § (3) bekezdését a 78/2025. (IV. 17.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
+[^120]: A 106. § (3) bekezdését a 78/2025. (IV. 17.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
