@@ -20,4 +20,4 @@ d) egyéb lényeges jognyilatkozatok, körülmények.
 
 (5) A rendőri szerv az intézkedéstől számított 8 napon belül megküldi a költségtérítés megállapításához szükséges igazolást a végrehajtó részére.
 
-(6) A költségtérítés behajtott összegét a végrehajtó a közreműködő rendőri szerv székhelye szerinti vármegyei (fővárosi) rendőr-főkapitányság részére fizeti meg.
+(6) A költségtérítés behajtott összegét a végrehajtó a közreműködő rendőri szerv székhelye szerinti megyei (fővárosi) rendőr-főkapitányság részére fizeti meg.
