@@ -1,4 +1,4 @@
-73. § (1) A települési önkormányzat jegyzője, a fővárosban a kerületi jegyző, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében pedig a fővárosi főjegyző, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a 67. § (2) bekezdése szerinti ellátásban részesülő, vagy szociálisan rászorult személyeket az egészségbiztosítási szervnek jelenti be.
+73. § (1) A települési önkormányzat jegyzője, a fővárosban a kerületi jegyző, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében pedig a fővárosi főjegyző, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a 67. § (2) bekezdése szerinti ellátásban részesülő, vagy szociálisan rászorult személyeket az egészségbiztosítási szervnek jelenti be.
 
 (2) A bejelentésre kötelezett a 67. § (3) bekezdés szerinti személyeket a Nemzeti Egészségbiztosítási Alapkezelőnek (a továbbiakban: NEAK) jelenti be.
 
@@ -8,7 +8,7 @@
 
 (5) A 22. § (1) bekezdés k) pontja szerinti személy a bejelentést az egészségbiztosítási szervnek teljesíti. A jogosultság az azt megalapozó feltételek együttes megléte napjától áll fenn.
 
-(6) Az állami adó- és vámhatóság az Art.-ban előírt bejelentés teljesítésére a Magyar Honvédséggel, az Országgyűlési Őrséggel, a rendvédelmi szervekkel a szolgálati viszonyban állók vonatkozásában, valamint a polgári nemzetbiztonsági szolgálattal megállapodást köt.
+(6) Az állami adó- és vámhatóság az Art.-ban előírt bejelentés teljesítésére a Magyar Honvédséggel, a rendvédelmi szervekkel a szolgálati viszonyban állók vonatkozásában, valamint a polgári nemzetbiztonsági szolgálattal megállapodást köt.
 
 (7) A 67. § (5) bekezdésében meghatározott ellátásban részesülő személyekre vonatkozó bejelentés teljesítésének módjáról a Kincstár és a NEAK megállapodást köt.
 
