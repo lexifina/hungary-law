@@ -32,11 +32,11 @@ szerinti rendőrkapitányság illetékes.
 
 (6)[^18] A büntetőeljárás jogerős befejezéséig az ügyészség vagy bíróság által elrendelt elfogatóparancs, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
 
-(7)[^19] Az országos rendőrfőkapitány egyedi ügyekben hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Készenléti Rendőrség (a továbbiakban: KR) hatáskörébe utalja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) szerinti titkos információgyűjtési tevékenység folytatását.
+(7)[^19] Az országos rendőrfőkapitány egyedi ügyekben hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) hatáskörébe utalja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) szerinti titkos információgyűjtési tevékenység folytatását.
 
-(8)[^20] A KR parancsnoka rövid úton előterjesztést tesz az országos rendőrfőkapitány felé, ha bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, az Rtv. szerinti titkos információgyűjtési tevékenység folytatásának hatáskörébe utalását indokoltnak tartja. Az országos rendőrfőkapitány a döntését szóban közli a KR parancsnokával, aki erről feljegyzést készít.
+(8)[^20] Az NNI igazgatója rövid úton előterjesztést tesz az országos rendőrfőkapitány felé, ha bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, az Rtv. szerinti titkos információgyűjtési tevékenység folytatásának hatáskörébe utalását indokoltnak tartja. Az országos rendőrfőkapitány a döntését szóban közli az NNI igazgatójával, aki erről feljegyzést készít.
 
-(9)[^21] A (7) és a (8) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és a KR parancsnoka, valamint a körözési eljárást lefolytató rendőri szerv vezetője részére meg kell küldeni.
+(9)[^21] A (7) és a (8) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és az NNI igazgatója, valamint a körözési eljárást lefolytató rendőri szerv vezetője részére meg kell küldeni.
 
 (10)[^22] A (7) és a (8) bekezdés rendelkezései a körözési eljárás lefolytatására való illetékességet nem érintik.
 
@@ -50,7 +50,7 @@ szerinti rendőrkapitányság illetékes.
 [^16]: A 6. § (5d) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
 [^17]: A 6. § (5e) bekezdését a 37/2018. (XII. 28.) BM rendelet 27. §-a iktatta be.
 [^18]: A 6. § (6) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés c) pontja, a 37/2018. (XII. 28.) BM rendelet 28. §-a szerint módosított szöveg.
-[^19]: A 6. § (7) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § c) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § c) pontja, 3. §-a szerint módosított szöveg.
-[^20]: A 6. § (8) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § d) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § d) pontja szerint módosított szöveg.
-[^21]: A 6. § (9) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 43/2020. (XII. 7.) BM rendelet 2. § e) pontja szerint módosított szöveg.
+[^19]: A 6. § (7) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § c) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § c) pontja és 3. §-a, a 23/2026. (IX. 30.) BM rendelet 37. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (8) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § d) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § d) pontja, a 23/2026. (IX. 30.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (9) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 23/2026. (IX. 30.) BM rendelet 37. § c) pontja szerint módosított szöveg.
 [^22]: A 6. § (10) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be.

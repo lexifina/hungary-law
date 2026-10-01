@@ -6,9 +6,9 @@ a) bíróság,
 
 b) ügyészség,
 
-c)[^28] a rendőrség nemzetközi bűnügyi együttműködési központja (a továbbiakban: NEBEK),
+c)[^31] a rendőrség nemzetközi bűnügyi együttműködési központja (a továbbiakban: NEBEK),
 
-d)[^29]
+d)[^32]
 
 rendelte el.
 
@@ -16,5 +16,5 @@ rendelte el.
 
 (4) Ha a körözött személy ellen elfogatóparancs van hatályban, akkor az őrizetbe vételét az előállítás helye szerinti rendőrkapitányság végzi.
 
-[^28]: A 10. § (2) bekezdés c) pontja a 74/2015. (XII. 21.) BM rendelet 6. §-ával megállapított, a 19/2025. (VI. 13.) BM rendelet 9. § b) pontja szerint módosított szöveg.
-[^29]: A 10. § (2) bekezdés d) pontját a 14/2020. (V. 20.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^31]: A 10. § (2) bekezdés c) pontja a 74/2015. (XII. 21.) BM rendelet 6. §-ával megállapított, a 19/2025. (VI. 13.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^32]: A 10. § (2) bekezdés d) pontját a 14/2020. (V. 20.) BM rendelet 3. §-a hatályon kívül helyezte.
