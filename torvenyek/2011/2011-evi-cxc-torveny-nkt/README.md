@@ -95,3 +95,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2026-05-14 | 2026. évi XIV. törvény | 2011-190-00-00.88 |
 | 2026-08-20 | 2026. évi XLVII. törvény | 2011-190-00-00.90 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2011-190-00-00.89 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2011-190-00-00.91 |

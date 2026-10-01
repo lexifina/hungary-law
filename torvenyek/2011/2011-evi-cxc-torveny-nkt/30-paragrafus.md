@@ -12,7 +12,7 @@ a) az intézményre kiterjedő veszélyhelyzet esetében az igazgató,
 
 b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó egyidejű értesítése mellett,
 
-c) a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
+c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
 
 rendkívüli szünetet rendel el.
 
