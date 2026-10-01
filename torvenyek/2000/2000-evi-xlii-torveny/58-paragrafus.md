@@ -6,7 +6,7 @@
 
 a) a hajózási hatóság,
 
-b) a rendőrség vízi rendészeti szervének, a rendőrség terrorizmust elhárító szervének, illetve a Nemzeti Adó- és Vámhivatal vízijárműveire,
+b) a rendőrség vízi rendészeti szervének, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatokat ellátó rendőri szervnek, illetve a Nemzeti Adó- és Vámhivatal vízijárműveire,
 
 c) a katasztrófaelhárításban közreműködő szervezetek,
 
