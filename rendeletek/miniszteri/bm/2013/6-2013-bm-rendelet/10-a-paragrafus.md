@@ -1,4 +1,4 @@
-## 7/A.[^29] Hősi halott özvegyének, gyermekének támogatása
+## 7/A.[^30] Hősi halott özvegyének, gyermekének támogatása
 
 10/A. § (1) A személyi állomány hősi halottá minősített elhunyt tagjának
 
@@ -26,4 +26,4 @@ b) megszakítás nélkül legalább tíz éve együtt élt.
 
 (8) A támogatásra való jogosultság megszűnik, ha az özvegy házasságot köt, egyéb esetekben a támogatásra az özvegy a haláláig jogosult. A támogatásra a gyermek mindaddig jogosult, amíg az árvaellátásra is jogosult.
 
-[^29]: A 7/A. alcímet (10/A. §-t) a 62/2024. (XII. 30.) BM rendelet 18. §-a iktatta be.
+[^30]: A 7/A. alcímet (10/A. §-t) a 62/2024. (XII. 30.) BM rendelet 18. §-a iktatta be.
