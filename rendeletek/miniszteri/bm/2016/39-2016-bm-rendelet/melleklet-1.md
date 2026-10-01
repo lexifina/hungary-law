@@ -2,6 +2,8 @@
 
 A rendfokozati vizsga követelményrendszere
 
+6X04808M.docx
+
 |  | A | B | C | D | E |
 
 | 1. | RENDVÉDELMI FELADATOKAT ELLÁTÓ SZERV | ÁLTALÁNOS RÉSZ | KÜLÖNÖS RÉSZ |
@@ -14,13 +16,13 @@ A rendfokozati vizsga követelményrendszere
 
 | 5. | belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv | általános rendőri ismeretek | Szakterületi ismeretek |
 
-| 6. | terrorizmust elhárító szerv | általános rendőri ismeretek | Szakterületi ismeretek |
+| 6. | idegenrendészeti szerv | általános rendőri ismeretek | Szakterületi ismeretek |
 
 | 7. | hivatásos katasztrófavédelmi szerv | általános katasztrófavédelmi ismeretek | Szakterületi ismeretek |
 
 | 8. | büntetés-végrehajtási szervezet | általános büntetés-végrehajtási ismeretek | Szakterületi ismeretek |
 
-| 9. | idegenrendészeti szerv | – | általános rendőri ismeretek | Szakterületi ismeretek |
+| 9. |  |  |  |  |
 
 I. Vizsgakérdések:
 
@@ -78,4 +80,4 @@ c) együttműködés a társ-rendvédelmi feladatokat ellátó szervekkel, közi
 
 3. Szolgálati jog és etika: a hivatásos szolgálati jogviszony alapvető szabályai, jogok és kötelezettségek rendszere, valamint a hivatásos állomány tagjával szemben – rendfokozatához és szolgálati beosztásához igazodó – magatartási és etikai szabályok, ideértve az integritás és korrupció kérdéskörét is
 
-[^5]: Az 1. melléklet a 27/2019. (VI. 28.) BM rendelet 54. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 27/2019. (VI. 28.) BM rendelet 54. §-a, a 23/2026. (IX. 30.) BM rendelet 54. §-a és 55. § b) pontja szerint módosított szöveg.
