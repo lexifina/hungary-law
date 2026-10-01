@@ -14,4 +14,4 @@
 
 (7) A személyügyi központ vezetője a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
 
-(8) A személyügyi központ vezetője – a helyi önkormányzatok tekintetében a vármegyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
+(8) A személyügyi központ vezetője – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.

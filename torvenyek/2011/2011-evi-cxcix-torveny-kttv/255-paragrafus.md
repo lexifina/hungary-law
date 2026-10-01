@@ -10,7 +10,7 @@ c) a 10 000–100 000 lakosú településen az illetményalap 8-szorosa,
 
 d) a fővárosi kerület jegyzőjének, valamint a kistérségi társulás székhely településének jegyzője az illetményalap 8,25-szorosa,
 
-e) a megyei jogú város jegyzőjének és a vármegyei jegyzőnek az illetményalap 8,5-szerese,
+e) a megyei jogú város jegyzőjének és a megyei jegyzőnek az illetményalap 8,5-szerese,
 
 f) a fővárosi főjegyző esetében az illetményalap 8,75-szorosa.
 

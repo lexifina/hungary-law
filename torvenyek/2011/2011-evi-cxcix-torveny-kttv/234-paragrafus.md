@@ -4,11 +4,11 @@
 
 234. § (1)
 
-(2) Az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, az érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2)
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
-a) a vármegyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
+a) a megyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
 
 b) községi önkormányzatnál legfeljebb 20%-a,
 

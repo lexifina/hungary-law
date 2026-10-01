@@ -1,6 +1,6 @@
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
-(1a) A központi államigazgatási szerv és a fővárosi és vármegyei kormányhivatal kormánytisztviselője nem lehet
+(1a) A központi államigazgatási szerv és a fővárosi és megyei kormányhivatal kormánytisztviselője nem lehet
 
 a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 

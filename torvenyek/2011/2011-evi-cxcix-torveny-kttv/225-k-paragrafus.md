@@ -1,4 +1,4 @@
-225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a vármegyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
+225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
 
 (2) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
@@ -12,4 +12,4 @@
 
 (7) A polgármester illetménye, tiszteletdíja és egyéb juttatása közérdekű adat.
 
-(8) Ha a fővárosi és vármegyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.
+(8) Ha a fővárosi és megyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.

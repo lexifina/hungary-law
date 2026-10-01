@@ -213,3 +213,13 @@ A tartalékállományba helyezett közszolgálati tisztviselők nyilvántartás�
 ## 4. kompetencia-vizsgálat adatai
 
 ## V.
+
+## 1. kormányzati szolgálati jogviszonyának időtartama
+
+## 2. besorolási osztálya, fokozata
+
+## 3. fizetési fokozata
+
+## 4. illetménye
+
+## 5. adományozott címe.
