@@ -38,7 +38,7 @@ d) a rendőrség.
 
 e) a helyi önkormányzat, valamint
 
-f) a fővárosi, vármegyei kormányhivatal.
+f) a fővárosi, megyei kormányhivatal.
 
 g) az Üzemeltető.
 
