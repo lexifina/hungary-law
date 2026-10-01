@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-1-00-00
 | 2026-02-21 | 2025. évi CXXI. törvény | 2017-1-00-00.20 |
 | 2026-07-01 | 2025. évi XLIX. törvény | 2017-1-00-00.18 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2017-1-00-00.21 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2017-1-00-00.22 |
