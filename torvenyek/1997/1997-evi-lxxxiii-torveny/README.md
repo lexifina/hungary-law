@@ -84,3 +84,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2026-03-01 | 2025. évi XCIII. törvény | 1997-83-00-00.122 |
 | 2026-07-19 | 2026. évi XXXI. törvény | 1997-83-00-00.124 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1997-83-00-00.125 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 1997-83-00-00.121 |
