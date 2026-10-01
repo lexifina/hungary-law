@@ -42,7 +42,7 @@ a) az országos rendőrfőkapitány,
 
 b)[^9] a Nemzeti Információs Központ főigazgatója,
 
-c) a Terrorelhárítási Központ főigazgatója,
+c)[^10]
 
 d) az Alkotmányvédelmi Hivatal főigazgatója,
 
@@ -52,7 +52,7 @@ f) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
 g) a Nemzeti Szakértői és Kutató Központ főigazgatója,
 
-h)[^10] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
+h)[^11] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 i) a Nemzeti Adó- és Vámhivatal vezetője.
 
@@ -74,9 +74,9 @@ c) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13.[^11]
+13.[^12]
 
-14.[^12]
+14.[^13]
 
 [^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 47. pontjával megállapított szöveg.
 [^2]: A 2. pont c) alpontja az 1254/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -87,6 +87,7 @@ c) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét.
 [^7]: A 2. pont h) alpontját az 1014/2026. (I. 26.) Korm. határozat 1. pontja iktatta be.
 [^8]: Az 5. pont az 1014/2026. (I. 26.) Korm. határozat 2. pontjával megállapított szöveg.
 [^9]: A 6. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 49. pontja szerint módosított szöveg.
-[^10]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^11]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^12]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^10]: A 6. pont c) alpontját az 1312/2026. (IX. 21.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^11]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^12]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^13]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
