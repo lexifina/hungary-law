@@ -2,9 +2,9 @@
 
 a) székhelyén vagy telephelyén, valamint fióktelepén;
 
-b) az árubemutatóval egybekötött termékértékesítés helye szerinti vármegyeszékhelyen;
+b) az árubemutatóval egybekötött termékértékesítés helye szerinti megyeszékhelyen;
 
-c) a szervezett utazáshoz történő csatlakozásra a fogyasztók számára biztosított valamennyi indulási hely szerinti vármegyeszékhelyen;
+c) a szervezett utazáshoz történő csatlakozásra a fogyasztók számára biztosított valamennyi indulási hely szerinti megyeszékhelyen;
 
 d) az árubemutatóval egybekötött termékértékesítés helyén, az árubemutató és a termékértékesítés időtartama alatt;
 
