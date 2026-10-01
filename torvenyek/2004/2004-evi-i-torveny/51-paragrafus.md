@@ -10,7 +10,7 @@ c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáró
 
 d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 
-e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett vármegyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
+e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
 
 f) együttműködik a sportköztestületekkel, valamint kapcsolatot tart a sport területén működő civil szervekkel,
 

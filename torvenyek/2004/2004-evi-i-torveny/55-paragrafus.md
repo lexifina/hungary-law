@@ -12,7 +12,7 @@ d) támogatja az iskolai testnevelés és sporttevékenység gyakorlása feltét
 
 (2) A települési önkormányzat az (1) bekezdésben foglaltakon kívül támogatja az iskolai sportkörök működéséhez, vagy az ezek feladatait ellátó diáksport-egyesületek feladatainak zavartalan ellátásához szükséges feltételek megteremtését.
 
-(3) A vármegyei és a fővárosi önkormányzat az (1)–(2) bekezdésben foglaltakon túl sportszervezési feladatai körében:
+(3) A megyei és a fővárosi önkormányzat az (1)–(2) bekezdésben foglaltakon túl sportszervezési feladatai körében:
 
 a) segíti a területén tevékenykedő sportszövetségek működésének alapvető feltételeit,
 
