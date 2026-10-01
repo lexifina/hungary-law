@@ -56,7 +56,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 
 26.[^254] Büntetés-végrehajtási Szervezet
 
-27.[^255] Terrorelhárítási Központ
+27.[^255]
 
 28.[^256]
 
@@ -117,7 +117,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^231]
 [^252]: Az 1. melléklet 24. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^253]: Az 1. melléklet 25. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^254]: Az 1. melléklet 26. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^255]: Az 1. melléklet 27. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
+[^255]: Az 1. melléklet 27. pontját a 166/2026. (IX. 21.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
 [^256]: Az 1. melléklet 28. pontját a 123/2024. (VI. 11.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^257]: Az 1. melléklet 29. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontja iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 14. § s) pontja szerint módosított szöveg.
 [^258]: Az 1. melléklet 30. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

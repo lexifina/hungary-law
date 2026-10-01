@@ -56,3 +56,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2025-01-01 | 2005-335-20-22.51 | 107/2024. (V. 9.) Korm. rendelet |
 | 2025-05-27 | 2005-335-20-22.53 | 114/2025. (V. 26.) Korm. rendelet |
 | 2026-01-06 | 2005-335-20-22.54 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-10-01 | 2005-335-20-22.55 | 166/2026. (IX. 21.) Korm. rendelet |
