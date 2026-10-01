@@ -1,4 +1,4 @@
-## 6/D.[^11] Az érdemtelenség megállapítása
+## 6/D.[^13] Az érdemtelenség megállapítása
 
 33/L. § (1) A munkáltatói jogkör gyakorlója a rendelkezésre álló adatok alapján mérlegeli, hogy a rendvédelmi alkalmazott munkahelyén kívül tanúsított magatartása alkalmas-e a Hszt. 288/F. § (7) bekezdésében meghatározott érdemtelenségi ok megállapítására.
 
@@ -22,4 +22,4 @@ b) a humánigazgatási szolgálat vezetője által megbízott hivatásos állom�
 
 (8) Az érdemtelenség megállapításáról szóló munkáltatói intézkedést a munkáltatói jogkör gyakorlója a személyes meghallgatást követően haladéktalanul, de legkésőbb öt munkanapon belül hozza meg, figyelemmel a Hszt. 288/F. § (8) bekezdése szerinti határidőre. A munkáltatói jogkör gyakorlója az érdemtelenséget meg nem állapító döntéséről a rendvédelmi alkalmazottat öt munkanapon belül, írásban tájékoztatja.
 
-[^11]: A 6/D. alcímet (33/L. §-t) a 95/2023. (XII. 28.) BM rendelet 2. §-a iktatta be.
+[^13]: A 6/D. alcímet (33/L. §-t) a 95/2023. (XII. 28.) BM rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 6/B. [^9] Az igazgatási jogviszonyra vonatkozó tájékoztatás
+## 6/B. [^11] Az igazgatási jogviszonyra vonatkozó tájékoztatás
 
 33/B. § (1) A munkáltatói jogkör gyakorlója a Hszt. 287/P. § (4a) bekezdése szerinti tájékoztatási kötelezettséget a rendvédelmi alkalmazott felé a (2) bekezdés szerinti rendben teljesíti.
 
@@ -42,4 +42,4 @@ e) a szociális biztonsággal kapcsolatos, a munkáltató rendvédelmi szerv ál
 
 (6) A (2) bekezdés e) pontjában és az (5) bekezdés c) és e) pontjában foglalt tájékoztatás megadható az ezekre a pontokra irányadó jogszabályi rendelkezésre történő hivatkozással.
 
-[^9]: A 6/B. alcímet (33/B–33/D. §) a 4/2022. (III. 25.) BM rendelet 19. §-a iktatta be.
+[^11]: A 6/B. alcímet (33/B–33/D. §) a 4/2022. (III. 25.) BM rendelet 19. §-a iktatta be.
