@@ -16,28 +16,29 @@ c) az általa vezetett szervnél szolgálatot teljesítő hivatásos állomány�
 
 ca) a Nemzeti Védelmi Szolgálatnál (a továbbiakban: NVSZ) a főigazgató,
 
-cb) a Terrorelhárítási Központnál (a továbbiakban: TEK) a főigazgató,
+cb)[^11]
 
 cc) a rendvédelmi oktatási intézmény igazgatója,
 
-cd)[^11]
+cd)[^12]
 
-ce)[^12]
+ce)[^13]
 
-cf)[^13]
+cf)[^14]
 
-cg)[^14]
+cg)[^15]
 
 (4) A (3) bekezdés alá nem tartozó más szervnél vagy katonai oktatási intézménynél szolgálatot teljesítő hivatásos állományúval szemben a fegyelmi jogkört az országos parancsnok gyakorolja.
 
-(5)–(6)[^15]
+(5)–(6)[^16]
 
 [^7]: A 3. § a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (1) bekezdésével megállapított szöveg. [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 3. pontjával elrendelt módosítás, amely szerint a „Hszt.” szövegrész helyébe a „Tv.” szöveg lép, nem vezethető át.]
 [^9]: A 4. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
 [^10]: A 4. § (3) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 17. § b) pontja, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 4–5. pontja szerint módosított szöveg.
-[^11]: A 4. § (3) bekezdés c) pont cd) alpontját a 27/2019. (VI. 28.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A 4. § (3) bekezdés c) pont ce) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^13]: A 4. § (3) bekezdés c) pont cf) alpontját a 17/2025. (XI. 4.) MK rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. §-át.
-[^14]: A 4. § (3) bekezdés c) pont cg) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^15]: A 4. § (5)–(6) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdés c) pont cb) alpontját a 23/2026. (IX. 30.) BM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^12]: A 4. § (3) bekezdés c) pont cd) alpontját a 27/2019. (VI. 28.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 4. § (3) bekezdés c) pont ce) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^14]: A 4. § (3) bekezdés c) pont cf) alpontját a 17/2025. (XI. 4.) MK rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. §-át.
+[^15]: A 4. § (3) bekezdés c) pont cg) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^16]: A 4. § (5)–(6) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.
