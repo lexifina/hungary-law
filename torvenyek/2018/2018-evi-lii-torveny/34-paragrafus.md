@@ -52,7 +52,7 @@ h) az ösztöndíjas foglalkoztatási jogviszony,
 
 i) a közfoglalkoztatási jogviszony,
 
-j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonya,
+j) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonya,
 
 k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
 
