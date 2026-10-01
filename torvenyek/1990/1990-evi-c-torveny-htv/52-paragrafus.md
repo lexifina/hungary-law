@@ -4,7 +4,7 @@
 
 52. § E törvény alkalmazásában:
 
-1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a vármegyei önkormányzat illetékességi területe;
+1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a megyei önkormányzat illetékességi területe;
 
 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 
