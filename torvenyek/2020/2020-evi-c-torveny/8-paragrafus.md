@@ -14,7 +14,7 @@ megfelelő összeget.
 
 (3a) Az egészségügyért felelős miniszter az Eütv. 150. § (1) és (2) bekezdése szerinti jogkörében eljárva, ellátásszervezési okból egyedi felmentést adhat a (3) bekezdés szerinti legmagasabb illetményre vonatkozó rendelkezések alkalmazása alól, azzal, hogy a havi illetmény összege így sem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi bruttó átlagkereset tízszeresét.
 
-(3b) Az országos gyógyintézet és az állami fenntartású vármegyei fekvőbeteg-szakellátást nyújtó egészségügyi intézmény intézményvezetőjének vezetői juttatását a miniszter határozza meg.
+(3b) Az országos gyógyintézet és az állami fenntartású megyei fekvőbeteg-szakellátást nyújtó egészségügyi intézmény intézményvezetőjének vezetői juttatását a miniszter határozza meg.
 
 (3c) Az ápolási igazgatói feladatokat ellátó magasabb vezető illetménye el kell, hogy érje az 1/A. melléklet szerinti legmagasabb fizetési osztály felső határában meghatározott összeget és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában az 1/A. melléklet szerinti legmagasabb fizetési osztály felső határában meghatározott összeg százhúsz százalékát.
 
