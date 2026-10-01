@@ -24,7 +24,7 @@ f) a tisztességes szerződési feltételek kialakítása,
 
 g) a speciális értékesítési formákra (távollévők között kötött szerződésekre, üzlethelyiségen kívül kötött szerződésekre) vonatkozó szabályok,
 
-h) a vármegyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
+h) a megyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
 
 i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 
