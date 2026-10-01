@@ -10,9 +10,9 @@ b) papír alapon készült jegyzőkönyv esetén az oldalakat össze kell fűzni
 
 c) az elektronikus formában készült jegyzőkönyvet egyetlen adatállományba kell foglalni.
 
-(3)[^3]
+(3)[^4]
 
-(4)[^4]
+(4)[^5]
 
-[^3]: A 8. § (3) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.
-[^4]: A 8. § (4) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.
+[^4]: A 8. § (3) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.
+[^5]: A 8. § (4) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.

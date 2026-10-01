@@ -1,3 +1,3 @@
-9. §[^5]
+9. §[^6]
 
-[^5]: A 9. §-t a 284/2020. (VI. 17.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.
+[^6]: A 9. §-t a 284/2020. (VI. 17.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.

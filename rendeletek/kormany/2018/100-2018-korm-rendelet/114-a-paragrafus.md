@@ -1,4 +1,4 @@
-114/A. §[^44] (1) A nyomozó hatóság tájékoztatja sértettet arról, hogy indítványa vagy hozzájárulása esetén a törvényben meghatározott további feltételektől függően lehetősége van részt venni a közvetítői eljárásban, valamint a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárásban. A tájékoztatást mellőzni kell, ha a közvetítői eljárásban, valamint a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárásban való részvételre a Be. alapján nincs lehetőség.
+114/A. §[^47] (1) A nyomozó hatóság tájékoztatja sértettet arról, hogy indítványa vagy hozzájárulása esetén a törvényben meghatározott további feltételektől függően lehetősége van részt venni a közvetítői eljárásban, valamint a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárásban. A tájékoztatást mellőzni kell, ha a közvetítői eljárásban, valamint a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárásban való részvételre a Be. alapján nincs lehetőség.
 
 (2) Az (1) bekezdésben meghatározott tájékoztatásnak egyszerűen és közérthetően ki kell terjednie a közvetítői eljárás, valamint a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárás feltételeire, céljára és következményeire, különösen arra, hogy
 
@@ -14,4 +14,4 @@ d) abban az esetben, ha a közvetítői eljárás, valamint a feltételes ügyé
 
 (4) A nyomozó hatóság – az ügyészség döntésének előkészítéséhez szükséges módon – tisztázza a sértettel, hogy hozzájárul-e a bűncselekménnyel okozott sérelem terhelt által történő jóvátételéhez.
 
-[^44]: A 114/A. §-t a 388/2025. (XII. 10.) Korm. rendelet 18. §-a iktatta be.
+[^47]: A 114/A. §-t a 388/2025. (XII. 10.) Korm. rendelet 18. §-a iktatta be.

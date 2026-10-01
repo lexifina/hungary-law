@@ -20,7 +20,7 @@ da) az eljárás alapjául szolgáló történeti tényállást,
 
 db) a bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősítését,
 
-dc)[^8] a büntetőeljárásban részt vevő, az eljárási cselekménnyel vagy határozattal érintett személy személyazonosításra alkalmas adatait, továbbá az eljárási cselekmény telekommunikációs jelenlét vagy egyszerűsített telekommunikációs jelenlét útján történő lefolytatására vonatkozó lehetőségeit, valamint az ezekhez való hozzájárulását,
+dc)[^9] a büntetőeljárásban részt vevő, az eljárási cselekménnyel vagy határozattal érintett személy személyazonosításra alkalmas adatait, továbbá az eljárási cselekmény telekommunikációs jelenlét vagy egyszerűsített telekommunikációs jelenlét útján történő lefolytatására vonatkozó lehetőségeit, valamint az ezekhez való hozzájárulását,
 
 dd) az eljárási cselekmény elvégzésének vagy a határozat meghozatalának alapjául szolgáló jogszabályok megjelölését,
 
@@ -34,4 +34,4 @@ df) ha az eljárási cselekmény elvégzése vagy a határozat meghozatala megha
 
 (5) Az előterjesztéshez az ügyiratokat vagy annak a javasolt eljárási cselekménnyel, illetve határozattal összefüggő részét csatolni kell.
 
-[^8]: A 20. § (2) bekezdés d) pont dc) alpontja a 388/2025. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: A 20. § (2) bekezdés d) pont dc) alpontja a 388/2025. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.

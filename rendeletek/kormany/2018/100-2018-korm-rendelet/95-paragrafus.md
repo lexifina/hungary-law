@@ -1,5 +1,3 @@
-## 94. § Ha az előkészítő eljárást a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve vagy a rendőrség terrorizmust elhárító szerve folytatja, eljárásukra a nyomozó hatóságra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
-
 ## 55. Az előkészítő eljárás megindításának alapja
 
 95. § (1) Az előkészítő eljárást folytató szerv hivatalból rendel el előkészítő eljárást különösen az általa vagy más hatóság által folytatott büntetőeljárás során felmerült információkról vagy más eljárásban felmerült adatokról kapott tájékoztatás elemzése, értékelése alapján. Az előkészítő eljárást folytató szerv a hivatalos tudomás alapjául szolgáló tájékoztatást követő öt munkanapon belül dönt az előkészítő eljárás megindításáról.

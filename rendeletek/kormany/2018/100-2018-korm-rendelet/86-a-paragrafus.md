@@ -1,4 +1,4 @@
-## 49/A.[^34] Több ingatlant vagy járművet érintő kutatás
+## 49/A.[^35] Több ingatlant vagy járművet érintő kutatás
 
 86/A. § (1) A nyomozó hatóság több lakás, egyéb helyiség, bekerített hely vagy jármű kutatását (a továbbiakban együtt: több ingatlant vagy járművet érintő kutatás) rendelheti el, ha a kutatás feltételei több helyszínre, illetve járműre együttesen állnak fenn, azonban a rendelkezésre álló adatok alapján nem különíthető el egyértelműen az az ingatlan, illetve jármű, amelyben az elkövető, a bizonyítási eszköz, az elkobzás vagy vagyonelkobzás alá eső dolog, az információs rendszer, illetve az adathordozó megtalálható, mert az elkülönítés nem vezetne eredményre, vagy az elkülönítéshez szükséges eljárási cselekmények végrehajtása a kutatás eredményes lefolytatását veszélyeztetné.
 
@@ -16,4 +16,4 @@
 
 (8) A több ingatlant vagy járművet érintő kutatást a még nem érintett ingatlanok vagy járművek érintetlenül hagyásával haladéktalanul be kell fejezni, ha az a célját elérte vagy a folytatásától eredmény nem várható.
 
-[^34]: A 49/A. alcímet (86/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 15. §-a iktatta be.
+[^35]: A 49/A. alcímet (86/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 15. §-a iktatta be.

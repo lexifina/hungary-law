@@ -1,4 +1,4 @@
-## 52/A.[^35] A számlapénz vagy elektronikus pénz megőrzésére kötelezés és a megőrzést követő lefoglalás
+## 52/A.[^36] A számlapénz vagy elektronikus pénz megőrzésére kötelezés és a megőrzést követő lefoglalás
 
 90/A. § (1) A nyomozó hatóság a nem meghatározott összeg erejéig elrendelt számlapénz vagy elektronikus pénz megőrzésre kötelezés elrendelését megelőzően vizsgálja, hogy az a vagyoni érdekelt mindennapi élete szokásos szükségleteinek fedezését ellehetetleníti-e. A nem meghatározott összeg erejéig elrendelt számlapénz vagy elektronikus pénz megőrzésre kötelezés esetén a nyomozó hatóság a Be. 317/A. § (3) bekezdés e) pontjában meghatározott időköz megjelölése során, valamint a Be. 317/A. § (6) bekezdése szerinti határozat meghozatala során úgy jár el, hogy a vagyoni érdekelt mindennapi élete szokásos szükségleteinek fedezését a lehető legrövidebb ideig késleltesse.
 
@@ -10,4 +10,4 @@
 
 (5) Ha a számlapénz megőrzésére kötelezést több, a Be. 317/A. § (1) bekezdés b) pontjában meghatározott számla tekintetében egyazon összeg lefoglalása érdekében rendelték el, és a nyomozó hatóság valamelyik számlán jóváírt vagy rendelkezésre álló összeg tekintetében a Be. 317/A. § (6) bekezdése alapján határozatot hoz, akkor a nyomozó hatóság a határozatban valamennyi számla tekintetében meghozza a (2)–(4) bekezdés szerinti döntést is.
 
-[^35]: Az 52/A. alcímet (90/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 16. §-a iktatta be.
+[^36]: Az 52/A. alcímet (90/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 16. §-a iktatta be.

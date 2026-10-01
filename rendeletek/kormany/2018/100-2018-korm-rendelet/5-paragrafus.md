@@ -24,10 +24,10 @@ f) az eljárási cselekmény során keletkezett esetleges kárt, annak okát, a 
 
 g) a büntetőeljárásban részt vevő személy indítványát, észrevételét tartalmazó beadvány előterjesztésének tényét.
 
-(2)[^2] Ha törvény eltérően nem rendelkezik, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy személyes adatait a személyazonosságának megállapításához és a későbbi elérhetőségének biztosításához szükséges mértékben kell a jegyzőkönyvben rögzíteni. A büntetőeljárásban részt vevő személy hozzájárulásával, későbbi rövid úton történő elérhetőségének biztosítása érdekében telefonos elérhetősége, elektronikus levelezési címe, illetve más elektronikus elérhetősége is rögzíthető, azzal, hogy amennyiben a büntetőeljárásban részt vevő személy személyes adatainak zárt kezelését kéri, az elektronikus elérhetőségét is zártan kell kezelni.
+(2)[^3] Ha törvény eltérően nem rendelkezik, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy személyes adatait a személyazonosságának megállapításához és a későbbi elérhetőségének biztosításához szükséges mértékben kell a jegyzőkönyvben rögzíteni. A büntetőeljárásban részt vevő személy hozzájárulásával, későbbi rövid úton történő elérhetőségének biztosítása érdekében telefonos elérhetősége, elektronikus levelezési címe, illetve más elektronikus elérhetősége is rögzíthető, azzal, hogy amennyiben a büntetőeljárásban részt vevő személy személyes adatainak zárt kezelését kéri, az elektronikus elérhetőségét is zártan kell kezelni.
 
 (3) Az eljárási cselekmény megszakítása esetén a jegyzőkönyvben rögzíteni kell a megszakítás kezdő és befejező időpontját, valamint indokát. Ha a megszakítás tartama alatt az eljárási cselekmény lefolytatása szempontjából lényeges esemény történik, azt utólag a jegyzőkönyvbe kell foglalni.
 
 (4) Amennyiben ennek nincs akadálya, a jegyzőkönyvvel együtt kell kezelni az eljárási cselekmény során készített helyszínrajzot, vázlatot, kép-, hang- vagy kép- és hangfelvételt, illetve egyéb feljegyzést.
 
-[^2]: Az 5. § (2) bekezdése a 635/2022. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (2) bekezdése a 635/2022. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

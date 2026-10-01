@@ -12,7 +12,7 @@
 
 a) ha a bűncselekmény elkövetésében több személy vett részt, vagy
 
-b)[^1] a bűncselekménnyel összefüggésben elkövetett más bűncselekmény esetén, ideértve a bűnpártolást, 2020. december 31-ig hatályban volt orgazdaságot, illetve pénzmosást is.
+b)[^2] a bűncselekménnyel összefüggésben elkövetett más bűncselekmény esetén, ideértve a bűnpártolást, 2020. december 31-ig hatályban volt orgazdaságot, illetve pénzmosást is.
 
 (6) Az ügyek elkülönítésének lehet helye különösen
 
@@ -20,4 +20,4 @@ a) eltérő hatáskörbe vagy illetékességbe tartozó bűncselekmények eseté
 
 b) több terheltet, illetve több cselekményt érintő ügyben, ha a nyomozás határideje egyes terheltek, illetve cselekmények tekintetében lejár.
 
-[^1]: A 4. § (5) bekezdés b) pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^2]: A 4. § (5) bekezdés b) pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.

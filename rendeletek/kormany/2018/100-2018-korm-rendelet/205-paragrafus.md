@@ -1,6 +1,6 @@
-## 106. A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének, valamint a rendőrség terrorizmust elhárító szervének közreműködése
+## 106.[^93] A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének közreműködése
 
-205. § (1) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve a rendőrség terrorizmust elhárító szerve a nyomozó hatóság megkeresése alapján, a nyomozó hatóság rendelkezései szerint működik közre a leplezett eszköz alkalmazásának végrehajtásában.
+205. § (1)[^94] A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a nyomozó hatóság megkeresése alapján, a nyomozó hatóság rendelkezései szerint működik közre a leplezett eszköz alkalmazásának végrehajtásában.
 
 (2) A megkeresést a nyomozó hatóság arra felhatalmazott vezetője írásban terjeszti elő. Késedelmet nem tűrő esetben a megkeresés utólag, három napon belül is írásba foglalható. A nyomozó hatóság arra felhatalmazott vezetője a megkeresés teljesíthetőségéről vagy annak körülményeiről előzetesen egyeztethet.
 
@@ -17,3 +17,6 @@ b) a leplezett eszközök alkalmazásával kapcsolatos feladatok, döntések el�
 (6) Ha a nyomozó hatóság a közreműködést a továbbiakban nem tartja szükségesnek, erről a megkeresett szervet tájékoztatja.
 
 (7) A közreműködés legfeljebb a leplezett eszközök alkalmazásának befejezéséig, illetve a leplezett eszköz alkalmazása eredményének kiértékeléséig tarthat.
+
+[^93]: A 106. alcím címe a 204/2026. (IX. 21.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^94]: A 205. § (1) bekezdése a 204/2026. (IX. 21.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

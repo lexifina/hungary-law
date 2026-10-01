@@ -2,9 +2,9 @@
 
 ## KÖZREMŰKÖDÉS AZ ÜGYÉSZSÉGI NYOMOZÁS ÉS ELŐKÉSZÍTŐ ELJÁRÁS SORÁN
 
-## 108. A rendőrség belső bűnmegelőzési és bűnüldözési feladatokat ellátó szervének, valamint a rendőrség terrorizmust elhárító szervének közreműködése
+## 108.[^96] A rendőrség belső bűnmegelőzési és bűnüldözési feladatokat ellátó szervének közreműködése
 
-211. § (1) Az ügyészség megkeresése alapján a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve a rendőrség terrorizmust elhárító szerve az ügyészség rendelkezése szerint közreműködik az ügyészség által folytatott előkészítő eljárás vagy nyomozás során. Az ügyészség a megkeresés teljesíthetőségéről vagy annak körülményeiről előzetesen egyeztethet.
+211. § (1)[^97] Az ügyészség megkeresése alapján a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve az ügyészség rendelkezése szerint közreműködik az ügyészség által folytatott előkészítő eljárás vagy nyomozás során. Az ügyészség a megkeresés teljesíthetőségéről vagy annak körülményeiről előzetesen egyeztethet.
 
 (2) A megkeresett szerv arra felhatalmazott vezetője a késedelmet nem tűrő esetben szóban előterjesztett megkeresés utólagos írásba foglalását kérheti. Az írásba foglalás iránti kérelemnek a közreműködésre nincs halasztó hatálya.
 
@@ -21,3 +21,6 @@ c) az ügyészséget tájékoztatja, ha a közreműködéssel kapcsolatos rendel
 (5) A (4) bekezdés c) pontja esetén az ügyészség rendelkezésének írásba foglalása kérhető, amelynek a rendelkezés végrehajtására nincs halasztó hatálya.
 
 (6) A megkeresett szerv saját hatáskörben Be. szerinti intézkedés, illetve eljárási cselekmény elrendeléséről nem dönthet. A megkeresett szerv az ügyészség rendelkezése alapján a büntetőeljárás eredményes lefolytatása céljából a Be. 267. §-a szerinti adatgyűjtést önállóan végezhet.
+
+[^96]: A 108. alcím címe a 204/2026. (IX. 21.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^97]: A 211. § (1) bekezdése a 204/2026. (IX. 21.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.

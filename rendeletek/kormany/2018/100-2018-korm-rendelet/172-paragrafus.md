@@ -10,13 +10,13 @@ aa) a fiatalkorú nevéről, tényleges tartózkodási helyéről,
 
 ab) a fiatalkorú törvényes képviselőjének nevéről, lakcíméről,
 
-ac)[^77] a fiatalkorú, valamint törvényes képviselője telefonos elérhetőségéről, elektronikus levelezési címéről vagy egyéb elektronikus elérhetőségéről, ha az ismert,
+ac)[^80] a fiatalkorú, valamint törvényes képviselője telefonos elérhetőségéről, elektronikus levelezési címéről vagy egyéb elektronikus elérhetőségéről, ha az ismert,
 
 b) az eljárás alapjául szolgáló cselekmény Btk. szerinti minősítéséről és az elkövetés időpontjáról,
 
-c)[^78] az oktatási intézmény, illetve a munkahely megnevezéséről és elérhetőségéről, ideértve a telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét is, ahol a fiatalkorú tanulói jogviszonyban vagy munkaviszonyban áll,
+c)[^81] az oktatási intézmény, illetve a munkahely megnevezéséről és elérhetőségéről, ideértve a telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét is, ahol a fiatalkorú tanulói jogviszonyban vagy munkaviszonyban áll,
 
 d) a környezettanulmány elkészítésének határidejéről, ha a bíróság elé állításra figyelemmel a nyomozó hatóság harminc napnál rövidebb határidőt állapított meg.
 
-[^77]: A 172. § (2) bekezdés a) pont ac) alpontja a 635/2022. (XII. 30.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^78]: A 172. § (2) bekezdés c) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^80]: A 172. § (2) bekezdés a) pont ac) alpontja a 635/2022. (XII. 30.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^81]: A 172. § (2) bekezdés c) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.

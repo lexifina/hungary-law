@@ -18,8 +18,8 @@ f) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló,
 
 g) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek
 
-h)[^91] a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló, 2016. október 26-i 2016/1919/EU parlamenti és tanácsi irányelvnek
+h)[^102] a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló, 2016. október 26-i 2016/1919/EU parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^91]: A 215. § h) pontját a 388/2025. (XII. 10.) Korm. rendelet 24. §-a iktatta be.
+[^102]: A 215. § h) pontját a 388/2025. (XII. 10.) Korm. rendelet 24. §-a iktatta be.

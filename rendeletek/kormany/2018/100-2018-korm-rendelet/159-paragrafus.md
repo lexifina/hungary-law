@@ -1,4 +1,4 @@
-159. §[^65] (1) Ha az eljárás tárgyát képező bűncselekmény tekintetében a Btk. 29. §-a alapján a tevékeny megbánás feltételei fennállnak, a gyanúsítottat a gyanúsítás közlésekor tájékoztatni kell a közvetítői eljárás lefolytatásának lehetőségéről, feltételeiről, lényegéről, következményeiről. A tájékoztatást jegyzőkönyvbe kell foglalni.
+159. §[^68] (1) Ha az eljárás tárgyát képező bűncselekmény tekintetében a Btk. 29. §-a alapján a tevékeny megbánás feltételei fennállnak, a gyanúsítottat a gyanúsítás közlésekor tájékoztatni kell a közvetítői eljárás lefolytatásának lehetőségéről, feltételeiről, lényegéről, következményeiről. A tájékoztatást jegyzőkönyvbe kell foglalni.
 
 (2) Az (1) bekezdésben meghatározott eseten kívül is tájékoztatni kell a gyanúsítottat a közvetítői eljárásról, illetve a bűncselekmény következményei jóvátételének lehetőségéről abban az esetben, ha
 
@@ -20,4 +20,4 @@ c) a közvetítői eljárás Be. 412. § (2) bekezdésében meghatározott felt�
 
 (8) A nyomozó hatóság a közvetítői eljárás vagy a feltételes ügyészi felfüggesztés keretében alkalmazható helyreállító szemléletű eljárás lefolytatására irányuló indítványt, illetve hozzájárulást azt követően haladéktalanul továbbítja az ügyészséghez, hogy az indítvánnyal összefüggésben a gyanúsított és a sértett nyilatkozata is rendelkezésre áll.
 
-[^65]: A 159. § a 388/2025. (XII. 10.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^68]: A 159. § a 388/2025. (XII. 10.) Korm. rendelet 22. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 17/A.[^12] A nyomozó hatóság kijelölt szervének a megkeresése
+## 17/A.[^13] A nyomozó hatóság kijelölt szervének a megkeresése
 
 27/A. § (1) A nyomozó hatóság (e § alkalmazásában a továbbiakban: megkereső) a Be. 354/A. § (1) bekezdése alapján megkeresheti a jogszabályban meghatározott szervét (a továbbiakban: a nyomozó hatóság kijelölt szerve), függetlenül attól, hogy az eljárási cselekményt a megkereső illetékességi területén szükséges-e elvégezni.
 
@@ -8,4 +8,4 @@
 
 (4) Az eljárási cselekménnyel összefüggésben a Be.-ben foglaltak szerint előterjesztett jogorvoslatot a nyomozó hatóság kijelölt szerve – indokolt esetben az elvégzés során keletkezett ügyiratokkal együtt – a megkereső részére továbbítja.
 
-[^12]: A 17/A. alcímet (27/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 10. §-a iktatta be.
+[^13]: A 17/A. alcímet (27/A. §-t) a 388/2025. (XII. 10.) Korm. rendelet 10. §-a iktatta be.
