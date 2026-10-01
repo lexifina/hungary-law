@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-52-00-00
 | 2024-01-01 | 2023. évi XCIV. törvény | 2003-52-00-00.24 |
 | 2024-05-17 | 2024. évi XIX. törvény | 2003-52-00-00.25 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2003-52-00-00.26 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2003-52-00-00.27 |
