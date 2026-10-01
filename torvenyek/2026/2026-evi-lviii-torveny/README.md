@@ -1,0 +1,7 @@
+# 2026. évi LVIII. törvény egyes budapesti ingatlanok fejlesztésével és vagyonkezelésével, valamint közúti közlekedéssel összefüggő törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2026-58-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2026-10-01 | 2026. évi LVIII. törvény | 2026-58-00-00.0 (közlönyállapot) |

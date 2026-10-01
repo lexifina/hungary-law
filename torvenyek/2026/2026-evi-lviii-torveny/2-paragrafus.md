@@ -1,0 +1,11 @@
+2. § (1) Az állam tulajdonában álló, az ingatlan-nyilvántartás szerinti Budapest X. kerület belterület 38442/10/B helyrajzi számú ingatlan és planetáriumtechnológiai ingóság e törvény erejénél fogva 2026. október 1. napjával a Magyar Műszaki és Közlekedési Múzeum (a továbbiakban: MMKM) vagyonkezelésébe kerül tudományos ismeretterjesztő közfeladatai ellátása céljából, a Tudományos Ismeretterjesztő Társulat (nyilvántartási szám: 01-02-0001079; székhely: 1037 Budapest, Szépvölgyi út 31.) vagyonkezelői jogának egyidejű megszűnése mellett.
+
+(2) Az (1) bekezdés szerinti ingóság körébe tartozik a Planetárium rendeltetésszerű működéséhez és eredeti építészeti, valamint kulturális, tudományos ismeretterjesztő funkciójához tartozó csillagvetítő, annak tartozékai és kapcsolódó technológiai berendezései, továbbá minden olyan ingóság, amely az ingatlan planetáriumtechnológiai üzemeltetéséhez szükséges.
+
+(3) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése és gyakorlása ingyenesen történik.
+
+(4) Az (1) bekezdés szerint keletkező vagyonkezelői jogviszonyra egyebekben az MNV Zrt.-vel kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket az (5) és (6) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(5) A vagyonkezelő az (1) bekezdés szerinti ingatlant érintően az általa elvégzett beruházásokkal, felújításokkal és bontási munkálatokkal összefüggésben, selejtezési szabályzatának megfelelően jogosult a bontással járó munkálatok elvégzésére, a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére, valamint a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére a tulajdonosi joggyakorlóval kötött megállapodás alapján. Az értékesítésből származó bevétel felhasználására az államháztartásra és az állami vagyonnal való gazdálkodásra vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
+
+(6) Az ingatlanügyi hatóság az MMKM (1) bekezdés szerinti vagyonkezelői jogát – a (4) bekezdés szerinti vagyonkezelési szerződés megkötését követően – az MMKM kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba a Tudományos Ismeretterjesztő Társulat vagyonkezelői jogának egyidejű törlése mellett.
