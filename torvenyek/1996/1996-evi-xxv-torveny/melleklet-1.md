@@ -50,4 +50,4 @@ Az alapvető lakossági szolgáltatások
 
 24. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.),
 
-25. Vármegyei önkormányzat, továbbá az átalakult nemzetiségi önkormányzat esetében minden olyan feladat, amelyet a törvény kötelező feladatként meghatároz.
+25. Megyei önkormányzat, továbbá az átalakult nemzetiségi önkormányzat esetében minden olyan feladat, amelyet a törvény kötelező feladatként meghatároz.
