@@ -6,7 +6,7 @@ a) a rendőrségről szóló törvényben meghatározott általános rendőrség
 
 b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
-c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
+c)
 
 d) a Nemzeti Adó- és Vámhivatal,
 

@@ -4,11 +4,11 @@
 
 a) a 74. § i) pont ih) és ii) alpontjában megjelölt személy esetében a köztársasági elnök,
 
-b) a 74. § i) pont ig) és im) alpontjában megjelölt személy, a Nemzeti Emlékezet Bizottsága minősített adatot kezelő tagja és elnöke, valamint az Országgyűlési Őrség parancsnoka és helyettese esetében az Országgyűlés elnöke,
+b) a 74. § i) pont ig) és im) alpontjában megjelölt személy, a Nemzeti Emlékezet Bizottsága minősített adatot kezelő tagja és elnöke,
 
 c) a 74. § i) pont ic) alpontjában megjelölt személy és – az f) pontban megjelölt kör kivételével – a 74. § i) pont if) alpontjában megjelölt személy esetében a miniszterelnök,
 
-d) a 74. § i) pont ib), id), ie) és ij) alpontjában megjelölt személy esetében – az Országgyűlési Őrség parancsnoka és helyettese kivételével – a tevékenység szerinti irányító miniszter,
+d) a 74. § i) pont ib), id), ie) és ij) alpontjában megjelölt személy esetében a tevékenység szerinti irányító miniszter,
 
 e) a 74. § i) pont ik) és il) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 

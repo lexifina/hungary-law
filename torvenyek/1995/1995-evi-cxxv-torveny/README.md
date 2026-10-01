@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2026-07-13 | 2026. évi XXVIII. törvény | 1995-125-00-00.93 |
 | 2026-07-15 | 2026. évi XXIV. törvény | 1995-125-00-00.92 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 1995-125-00-00.94 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 1995-125-00-00.95 |

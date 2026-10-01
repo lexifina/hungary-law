@@ -42,7 +42,7 @@ id) a közigazgatási államtitkár, a helyettes államtitkár;
 
 ie) a külképviselet-vezető;
 
-if) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
+if) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
 
 ig) az Országgyűlés Hivatalának főigazgatója;
 
@@ -50,11 +50,11 @@ ih) a Sándor-palota hivatali szervezetének vezetője;
 
 ii) a Honvéd Vezérkar főnöke és helyettese;
 
-ij) a rendvédelmi szerv országos parancsnoka és helyettese, a rendvédelmi szerv országos főigazgatója és helyettese, a nemzetbiztonsági szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány, a határrendészeti kirendeltség vezetője, az Országgyűlési Őrség parancsnoka és helyettese;
+ij) a rendvédelmi szerv országos parancsnoka és helyettese, a rendvédelmi szerv országos főigazgatója és helyettese, a nemzetbiztonsági szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány, a határrendészeti kirendeltség vezetője;
 
 ik) a nemzetbiztonsági szolgálat személyi állománya, valamint a nemzetbiztonsági szolgálattal polgári jogi szerződést kötő, azt személyesen teljesítő valamennyi személy, ha a szerződés befolyástól mentes teljesítéséhez fokozott nemzetbiztonsági érdek fűződik, vagy a személyesen teljesítő személy fokozottan ki van téve befolyásolási törekvéseknek;
 
-il) a terrorizmust elhárító szerv, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
+il) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
 
 im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottságába, a külügyekkel foglalkozó állandó bizottságába és a honvédelemmel foglalkozó állandó bizottságába, illetve – amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, illetve eseti bizottságba jelölt személy, illetve tag, valamint az ilyen bizottságok eljárásában közreműködő szakértő;
 
