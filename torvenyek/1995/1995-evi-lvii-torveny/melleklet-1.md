@@ -34,7 +34,7 @@ b) nagyvízi meder kezelés: a terület hasznosítása és használata, a terül
 
 13. Mezőgazdasági célú vízgazdálkodás: a mezőgazdaság feladatait, érdekeit szolgáló vízhasznosítási és vízkárelhárítási tevékenység;
 
-14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (vármegyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
+14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (megyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
 
 15. szennyvízelvezetéssel összefüggő
 

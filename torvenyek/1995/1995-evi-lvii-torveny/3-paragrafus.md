@@ -16,7 +16,7 @@ b) a Kormány rendelete alapján a vízügyi igazgatási szervek – az állami 
 
 a) vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy
 
-b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, vármegyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
+b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
 
 c) vonatkozásában olyan gazdálkodó szervezet kezelői joga van bejegyezve az ingatlan-nyilvántartásba, amelynek kezelői joga a törvény erejénél fogva megszűnt és nem rendelkezik az állami tulajdonú ingatlan tulajdonosi joggyakorlójával megkötött ingatlan használatára jogcímet biztosító szerződéssel, valamint amennyiben vagyonkezelése, üzemeltetése e törvény előírása szerint a vízügyi igazgatási szerv feladatkörébe tartozik,
 
