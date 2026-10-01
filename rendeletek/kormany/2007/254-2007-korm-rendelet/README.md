@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2025-08-01 | 2007-254-20-22.55 | 229/2025. (VII. 31.) Korm. rendelet |
 | 2026-01-14 | 2007-254-20-22.56 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2026-08-31 | 2007-254-20-22.57 | 135/2026. (VIII. 31.) Korm. rendelet |
+| 2026-10-01 | 2007-254-20-22.58 | 315/2022. (VIII. 16.) Korm. rendelet |

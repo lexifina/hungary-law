@@ -4,7 +4,7 @@
 
 (2) A központi költségvetési szerv vagyonkezelő félévente – július 31-ig, valamint a tárgyévet követő év január 31-ig – adatot szolgáltat az MNV Zrt. részére az elhelyezését szolgáló, valamint az általa ellátandó állami feladathoz használt adatszolgáltatással érintett ingatlanokról, a Melléklet IV. pontja szerint.
 
-(3)[^179] A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére, továbbá a honvédelmi, katonai, valamint a terrorizmust elhárító szerv által kezelt, használt nemzetbiztonsági célú, illetve rendeltetésű ingatlanokra vonatkozó adatok körére.
+(3)[^179] A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére, továbbá a honvédelmi és katonai célú, illetve rendeltetésű ingatlanokra vonatkozó adatok körére.
 
 (4)[^180] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezetek személyi állományának és szervezetének elhelyezésére rendelt ingatlanok tekintetében az adatszolgáltatási kötelezettség kizárólag az ingatlan helyrajzi számára terjed ki.
 
@@ -23,5 +23,5 @@
 (11) A harmadik személy a tulajdonosi joggyakorló hasznosítási szerződésbe lépéséről szóló értesítést követően hatvan napon belül gyakorolhatja a felmondás jogát.
 
 [^178]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
-[^179]: A 11/A. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^179]: A 11/A. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 170/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^180]: A 11/A. § (4) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 410/2022. (X. 24.) Korm. rendelet 7. §-a szerint módosított szöveg.
