@@ -1,6 +1,6 @@
 24/A. § (1) Az adatkezelő szerv útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
-a) felügyeletet gyakorol a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
+a) felügyeletet gyakorol a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
 
 b) biztosítja a nyilvántartásban kezelt adatok helyességét,
 
