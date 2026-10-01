@@ -1,3 +1,0 @@
-## 12. § Olyan szolgálati helyen, ahol a veszélyforrás hatásait kollektív védelemmel, nem rendvédelmi célú egyéni védőeszköz, vagy rendvédelmi célú egyéni védőeszköz használatával nem lehet kiküszöbölni – így különösen határátkelőhelyen, repülőtéren, közterületi szolgálati helyen –, ott a nem rendvédelmi célú egyéni védőeszközök és a rendvédelmi célú egyéni védőeszközök használatával egyidejűleg szervezési intézkedésekkel kell biztosítani az egészséget károsító kockázati tényezők, így különösen a zaj-, rezgés-, por- és vegyi ártalom, sugárzás veszélyes határérték alá szorítását.
-
-## [Az Mvt. 37. §-ához]
