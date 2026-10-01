@@ -10,7 +10,7 @@ a) a HB tagja,
 
 b) a Települési, illetve Tájegységi Értéktár Bizottság, valamint a települési szervezet,
 
-c) a Vármegyei Értéktár Bizottság vagy a vármegyei szervezet,
+c) a Megyei Értéktár Bizottság vagy a megyei szervezet,
 
 d) a Külhoni Nemzetrész Értéktár Bizottság,
 
@@ -18,7 +18,7 @@ e) az ágazati értéktárat működtető, hatáskörrel rendelkező miniszter, 
 
 f) a Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értéket gondozó vagy fenntartó természetes vagy jogi személy.
 
-g) a nemzeti érték települési, tájegységi, vármegyei, külhoni nemzetrész, külhoni települési, külhoni tájegységi értéktárba való felvételének kezdeményezője.
+g) a nemzeti érték települési, tájegységi, megyei, külhoni nemzetrész, külhoni települési, külhoni tájegységi értéktárba való felvételének kezdeményezője.
 
 (2) Az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete által kiemelkedő egyetemes értékként vagy szellemi kulturális örökségként nyilvántartott és az 1. § (1) bekezdés b) pontja szerinti feltételeknek megfelelő értékek a HB külön elbírálása alapján minősülhetnek hungarikumoknak.
 

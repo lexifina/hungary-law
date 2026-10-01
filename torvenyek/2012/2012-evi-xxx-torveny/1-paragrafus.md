@@ -8,7 +8,7 @@
 
 a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által feladat-és hatáskörük szerint azonosítva nyilvántartott nemzeti értékek adatainak gyűjteménye;
 
-b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint vármegyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
+b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint megyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
 
 c) hungarikum: gyűjtőfogalom, amely – szakterületi kategóriák szerinti besorolásban nyilvántartva – olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
 
@@ -28,7 +28,7 @@ j) külhoni nemzetrész értéktár: az országhatáron túl, egy adott ország 
 
 k) Magyar Értéktár: a nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
 
-l) vármegyei értéktár: a vármegye területén fellelhető nemzeti értékek közül a Vármegyei Értéktár Bizottság által vármegyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény vármegyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
+l) megyei értéktár: a megye területén fellelhető nemzeti értékek közül a Megyei Értéktár Bizottság által megyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény megyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
 
 m) nemzeti érték: a magyarság és a magyarországi államalkotó nemzetiségek tevékenységéhez, termelési kultúrájához, tudásához, hagyományaihoz, a magyar tájhoz és élővilághoz kapcsolódó, nemzetünk történelme, valamint a közelmúlt során felhalmozott és megőrzött minden szellemi és anyagi, természeti, közösségi érték vagy termék, illetve a tájhoz és élővilághoz kapcsolódó materiális vagy immateriális javakat magába foglaló tájérték, amely tanúskodik egy emberi közösség és az adott terület történelmi kapcsolatáról;
 
