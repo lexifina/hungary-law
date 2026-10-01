@@ -220,7 +220,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
 
-37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
+37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 
 38. Egyenruha: a Magyar Honvédség, a rendvédelmi szervezetek és a polgári nemzetbiztonsági szolgálatok tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
