@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-128-00-00
 | 2021-07-01 | 2020. évi CXXI. törvény | 2000-128-00-00.19 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2000-128-00-00.20 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 2000-128-00-00.21 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2000-128-00-00.22 |
