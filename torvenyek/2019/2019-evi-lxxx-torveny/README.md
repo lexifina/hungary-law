@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-80-00-00
 | 2026-01-01 | 2025. évi LXXX. törvény | 2019-80-00-00.28 |
 | 2026-09-25 | 2026. évi LV. törvény | 2019-80-00-00.32 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2019-80-00-00.30 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2019-80-00-00.31 |
