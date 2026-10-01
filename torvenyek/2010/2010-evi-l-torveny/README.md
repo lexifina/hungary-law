@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-50-00-00
 | 2024-01-01 | 2023. évi CIX. törvény | 2010-50-00-00.16 |
 | 2024-01-05 | 2023. évi XCV. törvény | 2010-50-00-00.15 |
 | 2026-01-01 | 2024. évi LXXIX. törvény | 2010-50-00-00.17 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2010-50-00-00.19 |

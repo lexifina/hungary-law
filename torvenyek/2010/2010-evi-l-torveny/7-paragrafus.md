@@ -1,6 +1,6 @@
-7. § (1) A vármegyei önkormányzati képviselőket a választópolgárok megyei listán választják. A választás tekintetében minden vármegye egy választókerületet alkot, melynek nem része a megyei jogú város, valamint a főváros.
+7. § (1) A megyei önkormányzati képviselőket a választópolgárok megyei listán választják. A választás tekintetében minden megye egy választókerületet alkot, melynek nem része a megyei jogú város, valamint a főváros.
 
-(2) A vármegyei közgyűlés tagjainak számát a vármegye lakosságszáma alapján kell meghatározni úgy, hogy
+(2) A megyei közgyűlés tagjainak számát a megye lakosságszáma alapján kell meghatározni úgy, hogy
 
 a) 400 000 lakosig minden 20 000 lakos után 1 képviselő, de legkevesebb 15 képviselő,
 

@@ -1,6 +1,6 @@
 9. § (1) Egyéni listás, illetve egyéni választókerületi képviselőjelölt az, akit az adott választókerület választópolgárainak legalább 1%-a jelöltnek ajánlott.
 
-(2) A vármegyei választókerületben listát állíthat az a jelölő szervezet, amely a választókerület választópolgárai 0,5%-ának ajánlását összegyűjtötte.
+(2) A megyei választókerületben listát állíthat az a jelölő szervezet, amely a választókerület választópolgárai 0,5%-ának ajánlását összegyűjtötte.
 
 (3) Polgármesterjelölt az, akit
 
