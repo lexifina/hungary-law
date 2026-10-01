@@ -1,3 +1,5 @@
+## I.
+
 |  | MNB azonosító kód | Megnevezés | Az adatszolgáltatók köre | Az adatszolgáltatás |
 
 |  | gyakorisága | teljesítésének módja | határideje |
@@ -349,4 +351,4 @@
 [^5]: Az 1. melléklet I. pontjában foglalt táblázat 56. sora a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet I. pontjában foglalt táblázat 57. sora a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. melléklet I. pontjában foglalt táblázat 68a. sorát a 41/2025. (XII. 4.) MNB rendelet 2. § a) pontja iktatta be.
-[^8]: A 2. melléklet a 41/2025. (XII. 4.) MNB rendelet 2. § b) pontjával megállapított szöveg.
+[^8]: A 2. melléklet a 41/2025. (XII. 4.) MNB rendelet 2. § b) pontjával megállapított, a 32/2026. (IX. 14.) MNB rendelet 1. §-a szerint módosított szöveg.

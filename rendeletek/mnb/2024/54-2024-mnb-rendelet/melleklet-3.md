@@ -1,4 +1,4 @@
-## 5X09306M.pdf
+## 6X04522M.pdf
 
 3. melléklet az 54/2024. (XII. 3.) MNB rendelethez
 
