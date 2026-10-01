@@ -103,3 +103,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2026-01-01 | 1997-217-20-22.180 | 351/2025. (XI. 12.) Korm. rendelet |
 | 2026-03-01 | 1997-217-20-22.183 | 418/2025. (XII. 23.) Korm. rendelet |
 | 2026-07-19 | 1997-217-20-22.185 | 111/2026. (VII. 18.) Korm. rendelet |
+| 2026-10-01 | 1997-217-20-22.184 | 319/2006. (XII. 23.) Korm. rendelet |
