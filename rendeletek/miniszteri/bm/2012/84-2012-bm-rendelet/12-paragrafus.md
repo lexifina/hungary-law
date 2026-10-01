@@ -1,1 +1,0 @@
-## 11. § Az országgyűlési őr szabálysértés észlelése esetén – az Ogytv. 134. § (1) bekezdésében meghatározottak alkalmazása mellett – a szabálysértés elkövetésén tetten ért személyt felszólítja a tevékenysége abbahagyására és szabálysértés elkövetésétől való jövőbeni tartózkodásra.
