@@ -16,7 +16,7 @@ e) társadalombiztosítási szerv: az egészségbiztosítási szerv, rehabilitá
 
 f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást nyújtó szerv vagy polgár, függetlenül attól, hogy tevékenységét milyen szervezeti vagy tulajdoni formában végzi;
 
-g) szociális igazgatás szerve: a települési és a vármegyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
+g) szociális igazgatás szerve: a települési és a megyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
 
 h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság;
 

@@ -30,7 +30,7 @@ l) a digitális állampolgárság nyilvántartás azonosítója (ideértve a Kor
 
 m) oktatási azonosító szám,
 
-n) a fővárosi és vármegyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
 
 o) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
 

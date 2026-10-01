@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2026-01-01 | 2025. évi CXXXVI. törvény | 1996-20-00-00.103 |
 | 2026-01-22 | 2025. évi CXXVIII. törvény | 1996-20-00-00.104 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1996-20-00-00.105 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 1996-20-00-00.106 |
