@@ -6,12 +6,12 @@
 
 (3) Idegenrendészeti kiutasítás a Tv. 40. § (1) bekezdése alapján kizárólag a közegészségügyi hatóság kezdeményezésére rendelhető el.
 
-(3a)[^160] Idegenrendészeti kiutasítás a Tv. 40. § (2) bekezdés c) pontja alapján az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ vagy a Rendőrség kezdeményezésére is elrendelhető.
+(3a)[^160] Idegenrendészeti kiutasítás a Tv. 40. § (2) bekezdés c) pontja alapján az Alkotmányvédelmi Hivatal vagy a Rendőrség kezdeményezésére is elrendelhető.
 
 (4)[^161] Az idegenrendészeti kiutasítás végrehajtását követő harminc napon belül a személyi azonosítót és lakcímet igazoló hatósági igazolványt a kijelölt kormányhivatalnak kell megküldeni.
 
 [^157]: A 48. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés g) pontja szerint módosított szöveg.
 [^158]: A 48. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^159]: A 48. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^160]: A 48. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^160]: A 48. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 13. §-ával megállapított, a 168/2026. (IX. 21.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
 [^161]: A 48. § (4) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 22. §-a, a 176/2019. (VII. 18.) Korm. rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.

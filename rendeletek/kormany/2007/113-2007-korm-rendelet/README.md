@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2024-09-01 | 2007-113-20-22.46 | 217/2024. (VII. 31.) Korm. rendelet |
 | 2025-07-01 | 2007-113-20-22.47 | 179/2025. (VI. 30.) Korm. rendelet |
 | 2025-10-12 | 2007-113-20-22.41 | 166/2024. (VI. 28.) Korm. rendelet |
+| 2026-10-01 | 2007-113-20-22.49 | 290/2010. (XII. 21.) Korm. rendelet |
