@@ -74,7 +74,7 @@ e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkoz�
 
 (4a) A 17. § (4) bekezdésében foglalt kötelezettség elmulasztásával összefüggésben tett bejelentés esetében 5 napon belül e törvény végrehajtására kiadott rendeletben foglaltak szerint helyszíni ellenőrzést kell lefolytatni és a helyszíni ellenőrzésről készült jegyzőkönyvet haladéktalanul továbbítani kell az élelmiszerlánc-felügyeleti szerv részére a parlagfű elleni közérdekű védekezés elrendelése érdekében.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
 
 a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 
