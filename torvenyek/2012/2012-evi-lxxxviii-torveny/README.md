@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-88-00-00
 | 2025-06-24 | 2025. évi LXVII. törvény | 2012-88-00-00.17 |
 | 2025-06-28 | 2022. évi LXI. törvény | 2012-88-00-00.13 |
 | 2026-01-01 | 2025. évi XCIV. törvény | 2012-88-00-00.18 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2012-88-00-00.19 |
