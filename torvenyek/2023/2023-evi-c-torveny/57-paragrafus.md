@@ -4,7 +4,7 @@
 
 (1) Az országos főmérnök az ágazati miniszter által irányított minisztériumban szakmai vezető, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
 
-(2) A térségi főmérnök a vármegyében működik, a vármegyei önkormányzatnál köztisztviselő, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
+(2) A térségi főmérnök a megyében működik, a megyei önkormányzatnál köztisztviselő, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
 
 (3) A térségi főmérnök
 

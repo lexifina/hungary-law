@@ -1,6 +1,6 @@
 ### 62. § [A területi építészeti tervtanács feladatköre]
 
-(1) A területi építészeti tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal illetékességi területével.
+(1) A területi építészeti tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
 
 (2) A területi építészeti tervtanács véleményezi a világörökségi területen
 
@@ -14,7 +14,7 @@ a) a nemzeti emlék kategóriába tartozó műemlékkel és annak telkével kapc
 
 b) a műemléki jelentőségű területen – kivéve a műemléki jelentőségű terület műemléki környezetét – a nem műemléket érintő építésügyi hatósági engedélyezési – kivéve a használatbavételi – eljárást megelőzően, vagy örökségvédelmi bejelentési eljárást megelőzően az engedélykérelem, bejelentés kötelező mellékletét képező dokumentációt.
 
-(4) Ha a járásszékhelyen felállításra kerülő helyi építészeti tervtanácsnál elegendő szakember nem áll rendelkezésre, a területi építészeti tervtanács a fővárosi és vármegyei kormányhivatallal kötött megállapodás alapján átveheti a helyi tervtanács feladatát.
+(4) Ha a járásszékhelyen felállításra kerülő helyi építészeti tervtanácsnál elegendő szakember nem áll rendelkezésre, a területi építészeti tervtanács a fővárosi és megyei kormányhivatallal kötött megállapodás alapján átveheti a helyi tervtanács feladatát.
 
 (5) A kérelmező ügyfél kifogást nyújthat be a területi építészeti tervtanács (2)–(3) bekezdés szerinti véleménye ellen az Országos Építészeti Tervtanácshoz a vélemény közlésétől számított 15 napon belül, amely a 30 napon belül meghozott, indokolt véleményében a területi építészeti tervtanács véleményét helybenhagyja vagy módosítja.
 

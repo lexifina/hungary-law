@@ -66,7 +66,7 @@ a) a 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilv�
 
 b) az a) pont szerinti kérelmet olyan tartalommal nyújtja be az építésügyi hatóság részére, hogy a kérelemben megjelölt, megvalósítandó lakások száma nem éri el a 193. § (3a) bekezdés b) pontja szerinti lakásszámot.
 
-A kiemelt jelentőségű ügy koordinációjára kijelölt főispán a kormányrendeletben előírt tájékoztatási kötelezettségének teljesítése körében az a) és b) pontban foglaltakról tájékoztatja a közigazgatás-szervezésért felelős minisztert, és ezzel egyidejűleg a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert.
+A kiemelt jelentőségű ügy koordinációjára kijelölt kormánymegbízott a kormányrendeletben előírt tájékoztatási kötelezettségének teljesítése körében az a) és b) pontban foglaltakról tájékoztatja a közigazgatás-szervezésért felelős minisztert, és ezzel egyidejűleg a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert.
 
 (9) A beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítását követően
 

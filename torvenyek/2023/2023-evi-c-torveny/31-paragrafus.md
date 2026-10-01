@@ -16,6 +16,6 @@ c) mindent, aminek a területi alapszabályban történő rendezését e törvé
 
 (5) A területi kamarák egyesülése esetén az új területi kamara illetékességi területe az egyesülő területi kamarákéhoz igazodik. Az egyesüléssel létrejövő területi kamara az egyesült területi kamarák általános jogutódja.
 
-(6) A területi kamara szétválásával vármegyénként, valamint a fővárosban működő területi kamarák hozhatók létre. A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara jogai és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
+(6) A területi kamara szétválásával megyénként, valamint a fővárosban működő területi kamarák hozhatók létre. A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara jogai és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
 
 (7) A területi kamarák egyesülése vagy szétválása nem érinti tagjaik jogait és kötelességeit.

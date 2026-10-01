@@ -2,7 +2,7 @@
 
 (1) Az e törvényben meghatározott szakmai kamarák a köz érdekében biztosítják és felügyelik az engedélyhez és tagsághoz kötött mérnöki és építészeti tevékenységhez kötődő szakmai feltételek meglétét.
 
-(2) A vármegyékben és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki és építész kamarák (a továbbiakban együtt: területi kamara) működnek, amelyek nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek és közhasznú szervezetnek minősíthetők. A területi kamara több vármegyére kiterjedően is létrehozható.
+(2) A megyékben és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki és építész kamarák (a továbbiakban együtt: területi kamara) működnek, amelyek nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek és közhasznú szervezetnek minősíthetők. A területi kamara több megyére kiterjedően is létrehozható.
 
 (3) A területi kamarák az e törvényben szabályozott módon hozzák létre a Magyar Mérnöki Kamarát, mint országos mérnöki kamarát, valamint a Magyar Építész Kamarát, mint országos építész kamarát (a továbbiakban együtt: országos kamarák). Az országos kamarák országos feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetőek.
 

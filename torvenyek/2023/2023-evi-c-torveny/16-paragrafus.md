@@ -50,7 +50,7 @@ E törvény alkalmazásában:
 
 23. építési napló: az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható, a szerződés tárgya szerinti építőipari kivitelezési tevékenység teljes folyamatát lekövető, jogszabályban meghatározott tartalmú és formájú igazoló dokumentum;
 
-24. építési reklámháló: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka során az e munka folyamatait legalább részben elfedő reklámhordozó;
+24.
 
 25. építési szakmunka: jogszabályban meghatározott szakirányú képesítéssel végezhető építési tevékenység;
 
@@ -206,7 +206,7 @@ c) törvényben vagy kormányrendeletben közszolgáltatásként meghatározott;
 
 94. műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz, ideértve különösen az utat, hidat, tornyot, a távközlés műszaki létesítményeit, a villamos energia, gáz-, folyadék-, ömlesztett anyag továbbítására és tárolására szolgáló és nyomvonalas műszaki alkotásokat, valamint a kültéri szobrokat és a kültéri installációkat;
 
-95. nemzetbiztonsági célú, illetve rendeltetésű építmény: a nemzetbiztonsági szolgálatok tevékenységének, a terrorizmust elhárító szerv feladatainak ellátása céljából létesített vagy használt építmény, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló építmények, a büntetés-végrehajtási intézetek építményei;
+95. nemzetbiztonsági célú, illetve rendeltetésű építmény: a nemzetbiztonsági szolgálatok tevékenységének ellátása céljából létesített vagy használt építmény, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló építmények, a büntetés-végrehajtási intézetek építményei;
 
 96. nemzeti emlék: hazánk építészeti örökségének országosan kiemelkedő jelentőségű építménye, táj- és kertépítészeti alkotása, helyszíne, amelyet a kulturális örökség védelméért felelős miniszter nemzeti emlékké minősít és műemlékké nyilvánít;
 
@@ -246,7 +246,7 @@ f) az épített környezet alakításáról és védelméről szóló 1997. évi
 
 107. reklámeszköz: a reklámhordozó és a reklámhordozót tartó berendezés együttes megnevezése;
 
-108. reklámháló: rögzítésre alkalmas eszköz segítségével, az épület külső felületén kifeszített, reklám közzétételére alkalmas felület;
+108.
 
 109. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt reklám közzétételét vagy elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény, ideértve a reklám megvilágítását szolgáló berendezést és annak valamennyi tartozékát, és ide nem értve
 
@@ -270,9 +270,9 @@ b) közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaöveze
 
 114. sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, energiaellátási, bányászati tevékenységgel és a bányászati és egyéb hulladék kezelésével kapcsolatos, a nem bányászati hulladék kezelési rendeltetésű építmény, atomenergia alkalmazására szolgáló, a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények, valamint a vízilétesítmények, amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség;
 
-114a. stratégiai jelentőségű építési anyag: az építésgazdaságért felelős miniszter rendeletében megjelölt jelentős építési alapanyagok és építési termékek összessége, amelyek a hazai építésgazdaság ellátásbiztonsága érdekében nélkülözhetetlenek;
+114a.
 
-114b. stratégiai jelentőségű építési anyagot gyártó üzem: építmény vagy terület vagy ezek összessége, ahol ipari méretekben állítanak elő stratégiai jelentőségű építési anyagokat, különböző gyártási folyamatok és gyártási technológia segítségével, és amely a gyártási tevékenységhez a jogszabályban meghatározott jogi és műszaki feltételek alapján engedéllyel rendelkezik vagy ezen feltételek szerint a gyártási tevékenységre alkalmassá tehető;
+114b.
 
 115. tájépítészet: olyan alkalmazott tudományos és művészeti szakterület, amely a táj, az épített és természeti környezet együttes alakításával, tájépítészeti alkotások és a települési zöldinfrastruktúra létrehozásával, megőrzésével, fejlesztésével foglalkozik;
 
@@ -294,7 +294,9 @@ b) közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaöveze
 
 124. településterv: a településfejlesztési terv és a településrendezési terv együttes megnevezése;
 
-125. teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja, amellyel a gyártó felelősséget vállal azért, hogy az építési termék megfelel a nyilatkozatban rögzített teljesítménynek;
+125. teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a 305/2011/EU európai parlamenti és tanácsi rendelet alapján a termékre vonatkozó műszaki előírásnak megfelelő tartalmú magyar nemzeti termékszabványnak vagy nemzeti műszaki értékelésnek megfelelően, hitelesen igazolja;
+
+125a. teljesítmény- és megfelelőségi nyilatkozat: előírt termékkövetelmény esetén az építési termék gyártója által kiállított olyan dokumentum, amely az alapvető jellemzők vonatkozásában az építési termék teljesítményét és a termékkövetelményeknek való megfelelést együttesen a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja, és amelynek kiállításával a gyártó deklarálja a terméke igazolt teljesítményét, és vállalja a felelősséget azért, hogy az adott termék megfelel a nyilatkozatban rögzített teljesítménynek;
 
 126. terméktípus: a 305/2011/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti építési termék;
 

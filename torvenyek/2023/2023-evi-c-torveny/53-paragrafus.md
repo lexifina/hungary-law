@@ -6,7 +6,7 @@
 
 ### 53. § [A főépítészi szervezet célja]
 
-(1) Az országos főépítész, a Balatoni főépítész, a fővárosi és vármegyei kormányhivatalban működő állami főépítész, valamint az önkormányzati főépítész (a továbbiakban együtt: főépítészek) együttesen alkotja a főépítészi szervezetrendszert, amely – a hatósági hatáskörgyakorlástól függetlenül – elősegíti a területrendezési követelmények érvényesítését, egyúttal településfejlesztési, településrendezési, településkép-védelmi, műemlékvédelmi és az építészeti tervtanácson keresztül építészeti feladatokat lát el.
+(1) Az országos főépítész, a Balatoni főépítész, a fővárosi és megyei kormányhivatalban működő állami főépítész, valamint az önkormányzati főépítész (a továbbiakban együtt: főépítészek) együttesen alkotja a főépítészi szervezetrendszert, amely – a hatósági hatáskörgyakorlástól függetlenül – elősegíti a területrendezési követelmények érvényesítését, egyúttal településfejlesztési, településrendezési, településkép-védelmi, műemlékvédelmi és az építészeti tervtanácson keresztül építészeti feladatokat lát el.
 
 (2) A főépítészek tevékenysége az (1) bekezdés szerinti célkitűzések teljesülését egyszemélyi felelősként és a tervtanács elnökeként egyaránt szolgálja.
 

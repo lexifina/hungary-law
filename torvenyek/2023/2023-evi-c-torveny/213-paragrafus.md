@@ -8,7 +8,7 @@ a) az adatkezelő, az e törvényben és a felhatalmazása alapján kiadott rend
 
 b) az e törvényben és a felhatalmazása alapján kiadott rendeletekben meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
 
-c) a települési önkormányzat, a fővárosi és vármegyei kormányhivatal, a szakmai kamara és a 216. § (1) bekezdése szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a szakmai kamara és a 216. § (1) bekezdése szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 
 d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával
 

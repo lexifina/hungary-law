@@ -1,6 +1,6 @@
 ### 55. § [Az állami főépítész jogállása és feladatai]
 
-(1) Az állami főépítész a fővárosi és vármegyei kormányhivatalban kormányzati szolgálati jogviszonyban álló, kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkező kormánytisztviselő, akinek munkáját hivatali szervezet segíti.
+(1) Az állami főépítész a fővárosi és megyei kormányhivatalban kormányzati szolgálati jogviszonyban álló, kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkező kormánytisztviselő, akinek munkáját hivatali szervezet segíti.
 
 (2) Az állami főépítész
 

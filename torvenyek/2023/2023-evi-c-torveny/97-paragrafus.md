@@ -14,7 +14,7 @@ c) településképi bejelentési eljárást
 
 ca) folytathat le az építésügyi hatósági engedélyhez, egyszerű bejelentéshez, örökségvédelmi engedélyhez vagy örökségvédelmi bejelentéshez nem kötött építési tevékenységek megkezdését megelőzően – ideértve a háztartási méretű kiserőművek (napelemek), klímaberendezések, elektromos és egyéb gépészeti berendezések épületeken való elhelyezését is –,
 
-cb) folytat le az építésügyi hatósági engedélyhez nem kötött rendeltetésmódosítás vagy a rendeltetési egységek számának megváltozását jelentő rendeltetésváltozás (a továbbiakban együtt: rendeltetésváltozás) esetén – ide nem értve az egyes kereskedelmi építményekkel összefüggő rendeltetésváltozást –,
+cb) folytat le a reklámeszközök elhelyezése tekintetében, valamint az építésügyi hatósági engedélyhez nem kötött rendeltetésmódosítás vagy a rendeltetési egységek számának megváltozását jelentő rendeltetésváltozás (a továbbiakban együtt: rendeltetésváltozás) esetén – ide nem értve az egyes kereskedelmi építményekkel összefüggő rendeltetésváltozást –,
 
 d) településképi kötelezést adhat ki és településkép-védelmi bírságot szabhat ki,
 

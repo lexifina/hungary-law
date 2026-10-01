@@ -44,7 +44,7 @@ d) eljárására vonatkozó részletszabályokat, a tervtanácsi jegyzőkönyv �
 
 9. az önkormányzat településkép-védelmi feladatait, a településképi követelmények megállapítására, a településképi véleményezési, a településképi bejelentési, a településképi kötelezési eljárásra, a településkép-védelmi bírság megállapítására és kiszabására, a meghatározott cselekmény végrehajtására és mindezekről hatósági bizonyítvány kiállítására vonatkozó szabályokat, valamint az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
 
-10. a reklám-elhelyezési tilalommal nem érintett területeken a reklámhordozók és tartó berendezések elhelyezési módjára, méretére, megjelenési formájára és az elhelyezés időtartamára vonatkozó szabályokat,
+10. a reklám-elhelyezési tilalommal nem érintett területeken a reklámhordozók és a reklámhordozót tartó berendezések elhelyezési módjára, méretére, megjelenési formájára és az elhelyezés időtartamára vonatkozó szabályokat, valamint az egyéb reklámeszközök körét és a reklámeszközöknek a település közigazgatási területén belüli elhelyezhetőségének követelményeit,
 
 11. reklámmal, reklámeszközzel és plakáttal összefüggésben a közigazgatási bírság és helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait,
 
@@ -204,11 +204,11 @@ f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzet
 
 g) a Kiemelt Nemzeti Emlékhely Bizottsághoz benyújtandó kérelem tartalmára, a Kiemelt Nemzeti Emlékhely Bizottság előtti eljárásra és az eljárás elmulasztásának jogkövetkezményeire vonatkozó szabályokat,
 
-63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–g) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
+63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–d) és f) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
 
-64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását, továbbá a hasznosított építési-bontási hulladékok kapcsán az újrafeldolgozó és az értékesítő által szolgáltatandó adatokra vonatkozó részletes szabályait,
+64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását,
 
-65. a stratégiai jelentőségű építési anyagot gyártó üzem értékesítése, továbbá a stratégiai jelentőségű építési anyag kivitele esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
+65.
 
 66. a NÉNY rendszerrel összefüggésben
 
@@ -296,7 +296,7 @@ a) a kiemelt jelentőségű ügyek körét, a kiemelt beruházások körét, a k
 
 b) a kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését,
 
-c) a kiemelt jelentőségű ügyben a főispán feladatkörét, a koordináció részletes eljárási szabályait,
+c) a kiemelt jelentőségű ügyben a kormánymegbízott feladatkörét, a koordináció részletes eljárási szabályait,
 
 d) valamennyi kiemelt beruházás esetén a megvalósításával összefüggő, az általánostól eltérő területrendezési követelményeket, eltérő településrendezési, építési, településképi és telekalakítási követelményeket, eltérő örökségvédelmi, helyi védelemre és helyi emlékekre vonatkozó követelményeket, eltérő fás szárú növényekre vonatkozó követelményeket, valamint mindezekhez a kapcsolódó eljárási szabályokat,
 
@@ -309,6 +309,8 @@ g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő
 h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.
 
 i) a közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – jogosult szerv kijelölését.
+
+j) azt az időtartamot, ameddig a kiemelt jelentőségű ügyek vonatkozásában a beruházás megvalósításához építési engedély vagy létesítési engedély nem adható ki.
 
 (3) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben szabályozza
 
@@ -334,7 +336,7 @@ d) a kiemelt jelentőségű ügyben indult eljárás esetén az eljáró hatós�
 
 3. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
 
-4. az építésgazdasági intézkedésre okot adó állapot fennállása esetén a stratégiai jelentőségű építési anyagok körének megállapítása részletes szabályait.
+4.
 
 (5) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben megállapítsa
 
@@ -360,6 +362,10 @@ d) a kiemelt jelentőségű ügyben indult eljárás esetén az eljáró hatós�
 
 3. a helyi építészeti tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat.
 
+4. a reklám- és reklámeszköz-elhelyezési tilalommal érintett – a 103. § (1) bekezdés a)–e) pontjában nem szereplő – egyéb bel- és külterületeket, továbbá azon reklámeszközök körét, amelyeken reklám nem helyezhető el azzal, hogy a kerületi önkormányzat a fővárosi önkormányzat által nem tiltott területeken és nem tiltott reklámeszköz tekintetében határozhat meg tilalmat,
+
+5. a reklámeszközök településképi bejelentésének tartalmára vonatkozó követelményeket, valamint a 105. § szerinti jogkövetkezmények érvényesítésére vonatkozó kiegészítő eljárási szabályokat.
+
 (9) Felhatalmazást kap a települési önkormányzat – a fővárosban a kerületi önkormányzat –, hogy a (8) bekezdés 1. pontja szerinti helyi építési szabályzatban kijelölje a 76. § (10) bekezdése szerinti magasépítmények telepítésére alkalmas övezeteket és telkeket.
 
 (10) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg
@@ -380,6 +386,10 @@ d) a kiemelt jelentőségű ügyben indult eljárás esetén az eljáró hatós�
 
 8. a fővárosi tulajdonban lévő közterületek vonatkozásában a közterület-alakítási terv részletes tartalmi követelményeit.
 
+9. a főváros egész területére a reklám- és reklámeszköz-elhelyezési tilalommal érintett – a 103. § (1) bekezdés a)–e) pontjában nem szereplő – egyéb területeket, továbbá azon reklámeszközök körét, amelyeken nem helyezhető el reklám,
+
+10. a reklámeszközök településképi bejelentésének tartalmára vonatkozó követelményeket, valamint a 105. § szerinti jogkövetkezmények érvényesítésére vonatkozó kiegészítő eljárási szabályokat.
+
 (11) Felhatalmazást kap a települési önkormányzat (fővárosban a fővárosi és a fővárosi kerületi önkormányzat is), hogy a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapíthatja meg a településterv és a kézikönyv készítéséhez, módosításához a lakossággal, az érdekképviseleti, civil és gazdálkodó szervezetekkel, a vallási közösségekkel, valamint a település közigazgatási területén működő nemzetiségi önkormányzattal, több nemzetiségi önkormányzat esetén valamennyi nemzetiségi önkormányzattal történő partnerségi egyeztetés részletes szabályait.
 
-(12) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+(12) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.

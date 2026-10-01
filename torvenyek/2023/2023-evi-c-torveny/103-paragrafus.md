@@ -10,8 +10,8 @@ c) a történeti kert területén,
 
 d) a védett temető területén,
 
-e) a kiemelten védett régészeti lelőhelyen, és
+e) az országos jelentőségű védett természeti terület területén, és
 
-f) az országos jelentőségű védett természeti terület területén.
+f) a helyi önkormányzat rendeletében meghatározott egyéb bel- és külterületen.
 
-(2) Az (1) bekezdés szerinti, településkép-védelmi és örökségvédelmi célú reklám-elhelyezési tilalom miatt az államot kártalanítási kötelezettség nem terheli.
+(2) Az államot, illetve a helyi önkormányzatot az e törvényben, valamint a felhatalmazása alapján kiadott rendeletben meghatározott reklám-elhelyezési tilalom vagy korlátozás miatt kártalanítási kötelezettség nem terheli.

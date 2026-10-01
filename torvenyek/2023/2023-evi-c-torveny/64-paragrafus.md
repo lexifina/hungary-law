@@ -4,7 +4,7 @@
 
 (2) A településrendezési tervtanács a településrendezésben kiemelkedő, magas szintű elméleti és gyakorlati ismeretekkel rendelkező természetes személyekből álló szakmai tanácsadó, véleményező testület, amelynek tagjaira vonatkozó szakképzettségi és szakmagyakorlási követelményeket kormányrendelet állapítja meg.
 
-(3) A településrendezési tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal illetékességi területével.
+(3) A településrendezési tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
 
 (4) A települési önkormányzat polgármestere vagy a településterv tervezője településrendezési tervtanácsi véleményt kérhet a készülő településtervről, vagy annak módosításáról a tervre vonatkozó véleményezési szakasz megkezdését megelőzően.
 

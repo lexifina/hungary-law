@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-100-00-00
 | 2026-05-14 | 2026. évi XIV. törvény | 2023-100-00-00.13 |
 | 2026-07-31 | 2026. évi XXXVI. törvény | 2023-100-00-00.16 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2023-100-00-00.15 |
+| 2026-10-01 | 2026. évi LVII. törvény | 2023-100-00-00.14 |
