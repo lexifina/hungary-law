@@ -6,7 +6,7 @@
 
 4. A NLKM ülésein részt vesz
 
-a)[^3] állandó tanácskozási joggal a Terrorelhárítási Központ, valamint a védelmi és biztonsági igazgatás központi szervének képviselője,
+a)[^3] állandó tanácskozási joggal az általános rendőrségi feladatokat ellátó szerv képviselője, valamint a védelmi és biztonsági igazgatás központi szervének képviselője,
 
 b)[^4] a környezetvédelmi korlátozott légtereket, a környezetvédelmet érintő kérdésekben állandó tanácskozási joggal a környezetvédelemért felelős miniszter képviselője, a természetvédelmi indokból kijelölt környezetvédelmi korlátozott légtereket és a természetvédelmet érintő kérdésekben állandó tanácskozási joggal a természetvédelemért felelős miniszter képviselője,
 
@@ -32,7 +32,7 @@ b)[^6]
 
 [^1]: A 2. pont az 1224/2024. (VII. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1224/2024. (VII. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^3]: A 4. pont a) alpontja az 1224/2024. (VII. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont a) alpontja az 1224/2024. (VII. 31.) Korm. határozat 1. pontjával megállapított, az 1312/2026. (IX. 21.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^4]: A 4. pont b) alpontja az 1224/2024. (VII. 31.) Korm. határozat 2. pontjával megállapított szöveg.
 [^5]: A 4. pont d) alpontja az 1224/2024. (VII. 31.) Korm. határozat 3. pontjával megállapított szöveg.
 [^6]: A 6. pont b) alpontját az 1224/2024. (VII. 31.) Korm. határozat 5. pontja hatályon kívül helyezte.
