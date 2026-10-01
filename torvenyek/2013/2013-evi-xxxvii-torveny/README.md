@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2025-11-29 | 2025. évi LXXXVI. törvény | 2013-37-00-00.34 |
 | 2026-01-01 | 2025. évi LXXXVI. törvény | 2013-37-00-00.35 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2013-37-00-00.38 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2013-37-00-00.39 |
