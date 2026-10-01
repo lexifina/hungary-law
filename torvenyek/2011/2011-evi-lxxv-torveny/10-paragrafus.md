@@ -8,7 +8,7 @@ b) a zálogjog olyan lakáshitel-szerződésből eredő hiteltartozást biztosí
 
 (3) Az (1) bekezdés b) pontja szerinti esetben a hitelező által a megyében, fővárosban 2011. július 1-jétől 2011. október 1-jéig értékesítésre kijelölt lakóingatlanok számának a hitelezőnek a megyében, fővárosban a tárgynegyedév első napján meglévő, az (1) bekezdés b) pontja szerinti összes lakóingatlana számához viszonyított aránya nem haladhatja meg a 2%-ot. Ha az értékesítésre kijelölhető lakóingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú lakóingatlan jelölhető ki értékesítésre.
 
-(4) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, az e követelést biztosító zálogjoggal terhelt, értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott vármegyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
+(4) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, az e követelést biztosító zálogjoggal terhelt, értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
 
 (5) Az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan értékesítését a hitelezőnek 2011. október 1-jéig kezdeményeznie kell.
 
@@ -16,7 +16,7 @@ b) a zálogjog olyan lakáshitel-szerződésből eredő hiteltartozást biztosí
 
 (7) A hitelező az (1) bekezdés b) pontja szerinti lakóingatlanok értékesítésre történt kijelöléséről 2011. július 15. napjáig a következő adatok közlésével tájékoztatja az MNB-t:
 
-a) a vármegyében, fővárosban 2011. július 1. napján meglévő összes (1) bekezdés b) pontja szerinti lakóingatlanának száma,
+a) a megyében, fővárosban 2011. július 1. napján meglévő összes (1) bekezdés b) pontja szerinti lakóingatlanának száma,
 
 b) az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete lakóingatlanonkénti bontásban.
 
