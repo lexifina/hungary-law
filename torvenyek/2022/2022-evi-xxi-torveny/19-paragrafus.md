@@ -18,7 +18,7 @@ b) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljes�
 
 c) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
 
-3. az OGYŐ a hivatásos, a polgári nemzetbiztonsági szolgálatok a hivatásos, és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
+3. a polgári nemzetbiztonsági szolgálatok a hivatásos állományában foglalkoztatottakról, a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakról, valamint ezen szervezetek azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
 
 4. a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásról, annak érvényességi idejéről;
 
@@ -32,7 +32,7 @@ a) a Honvédség központi egészségügyi szerve a hivatásos, szerződéses, �
 
 b) az érintett egészségügyi alapellátását végző egészségügyi szolgáltató a hadkötelesre és a katonai szolgálatot törvény alapján önként vállaló honvédelmi alkalmazottra vonatkozóan a várható alkalmassági kategóriájáról, annak megállapítása időpontjáról;
 
-8. a fővárosi és vármegyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról, a gondnokság alá helyezett és a gondnokul kijelölt személyazonosító adatairól;
+8. a fővárosi és megyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról, a gondnokság alá helyezett és a gondnokul kijelölt személyazonosító adatairól;
 
 9. a NAV átadja az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 3., 5. és 15. pontjában meghatározott adatokat, valamint a Társadalombiztosítási Azonosító Jelét, a három vagy ennél több, kiskorú vér szerinti, örökbe fogadott, vagy nevelt gyermek után az adózás rendjéről szóló 2017. évi CL. törvény szerinti családi kedvezményben részesülő személyek személyazonosító adatait és a családi kedvezményre jogosító gyermekek születési dátumát;
 

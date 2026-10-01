@@ -104,7 +104,7 @@ A hadköteles nyilvántartás adatai
 
 14.3. az elért rendfokozata,
 
-14.4. a szolgálat teljesítésének helye – a katonai, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, az Országgyűlési Őrség, közintézmény –,
+14.4. a szolgálat teljesítésének helye – a katonai, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, közintézmény –,
 
 14.5. a szolgálat során elért címei, osztályos fokozata és a megszerzett szakmai gyakorlata, beosztása,
 
