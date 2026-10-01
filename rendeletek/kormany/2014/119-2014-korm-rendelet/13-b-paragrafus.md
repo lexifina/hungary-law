@@ -1,4 +1,4 @@
-13/B. §[^19] (1) A védett várakozási övezetben – a (2) és (3) bekezdésben meghatározott kivétellel – nem lehet várakozni.
+13/B. §[^22] (1) A védett várakozási övezetben – a (2) és (3) bekezdésben meghatározott kivétellel – nem lehet várakozni.
 
 (2) A védett várakozási övezetben hozzájárulás nélkül várakozhat
 
@@ -8,4 +8,4 @@ b) a kiépített kerékpártárolóban elhelyezett kerékpár.
 
 (3) A védett várakozási övezetbe behajtáshoz és várakozáshoz – a kiemelt nemzeti emlékhely fenntartásának és működtetésének zavartalan biztosítása érdekében – a vagyonkezelő hozzájárulása szükséges.
 
-[^19]: A 13/B. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^22]: A 13/B. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
