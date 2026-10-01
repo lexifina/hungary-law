@@ -6,10 +6,10 @@
 
 (4)[^35] A szállásköltség a 2. mellékletben meghatározott keretig finanszírozható, attól eltérni kizárólag a miniszter engedélyével lehet, ha a rendvédelmi szerv előzetesen igazolja, hogy az eltéréshez szükséges pénzügyi fedezet a rendelkezésére áll.
 
-(5)[^36] A rendőrség hivatásos állományának tagja részére a (4) bekezdésben meghatározott miniszteri engedély nélkül, a terrorizmust elhárító szerv főigazgatója vagy a Készenléti Rendőrség parancsnoka engedélyével téríthető meg a 2. mellékletben meghatározott keretet meghaladó szállásköltség, ha a külföldi kiutazásra a személyvédelmi feladatok ellátása során kerül sor, és a védett személy által igénybe vett szálláson a 2. mellékletben meghatározott költségkereten belüli szállás a hivatásos állomány tagja részére nem biztosítható.
+(5)[^36] A rendőrség hivatásos állományának tagja részére a (4) bekezdésben meghatározott miniszteri engedély nélkül, a terrorizmust elhárító szerv parancsnoka engedélyével téríthető meg a 2. mellékletben meghatározott keretet meghaladó szállásköltség, ha a külföldi kiutazásra a személyvédelmi feladatok ellátása során kerül sor, és a védett személy által igénybe vett szálláson a 2. mellékletben meghatározott költségkereten belüli szállás a hivatásos állomány tagja részére nem biztosítható.
 
 (6)[^37] A rendvédelmi szerv hivatásos állományának tagja részére a (4) bekezdésben meghatározott miniszteri engedély nélkül, az országos parancsnok vagy az országos főigazgató engedélyével téríthető meg a 2. mellékletben meghatározott keretet meghaladó szállásköltség, ha a külföldi kiutazásra szakmai konferencián, egyeztetőfórumon való részvétel céljából kerül sor, és a szakmai konferencia, egyeztetőfórum szervezői által a résztvevők részére kijelölt szálláson a 2. mellékletben meghatározott költségkereten belüli szállás a hivatásos állomány tagja részére nem biztosítható.
 
 [^35]: A 42. § (4) bekezdése a 76/2015. (XII. 22.) BM rendelet 42. §-ával megállapított szöveg.
-[^36]: A 42. § (5) bekezdését a 23/2019. (V. 27.) BM rendelet 1. §-a iktatta be.
+[^36]: A 42. § (5) bekezdését a 23/2019. (V. 27.) BM rendelet 1. §-a iktatta be, szövege a 23/2026. (IX. 30.) BM rendelet 49. §-a szerint módosított szöveg.
 [^37]: A 42. § (6) bekezdését a 23/2019. (V. 27.) BM rendelet 1. §-a iktatta be.

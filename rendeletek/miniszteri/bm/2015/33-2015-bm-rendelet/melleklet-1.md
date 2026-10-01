@@ -6,29 +6,23 @@ A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai k
 
 I. Az általános rendőrségi feladatok ellátására létrehozott szervnél
 
-1. osztályvezető,
+1. Ha a szolgálati beosztás betöltése az orvos, fogorvos, egészségügyi asszisztens, fogorvosi asszisztens vagy felcser munkakörök valamelyikének ellátását szolgálja:
 
-2. alosztályvezető,
+1.1. osztályvezető,
 
-3. főorvos,
+1.2. alosztályvezető,
 
-4. szakorvos,
+1.3. főorvos,
 
-5. kiemelt főreferens,
+1.4. szakorvos,
 
-6. segédelőadó,
+1.5. kiemelt főreferens,
 
-ha a szolgálati beosztás betöltése az orvos, fogorvos, egészségügyi asszisztens, fogorvosi asszisztens vagy felcser munkakörök valamelyikének ellátását szolgálja.
+1.6. segédelőadó.
 
-II. A terrorizmust elhárító szervnél
+2. A Terrorelhárítási Központnál továbbá a vegyi, biológiai, radiológiai és nukleáris (CBRN) szakterület valamennyi szolgálati beosztása.
 
-## A vegyi, biológiai, radiológiai és nukleáris (CBRN) szakterület valamennyi szolgálati beosztása.
-
-1. kiemelt főreferens,
-
-2. kiemelt főelőadó,
-
-ha a szolgálati beosztás betöltése az élelmiszer szakfelügyelő vagy élelmiszer higiénikus munkakörök valamelyikének ellátását szolgálja.
+II.
 
 III. A büntetés-végrehajtási szervezetnél
 
@@ -56,4 +50,4 @@ ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajt
 
 [^43]: Az 51. §-t a 4/2022. (III. 25.) Korm. rendelet 18. §-a iktatta be.
 [^44]: A hatálybalépés időpontja 2022. március 26.
-[^45]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a szerint módosított szöveg.
+[^45]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a, a 23/2026. (IX. 30.) BM rendelet 48. §-a szerint módosított szöveg.
