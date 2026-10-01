@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2025-12-25 | 2025. évi CXXXI. törvény | 2010-1-00-00.46 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2010-1-00-00.44 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2010-1-00-00.47 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2010-1-00-00.48 |
