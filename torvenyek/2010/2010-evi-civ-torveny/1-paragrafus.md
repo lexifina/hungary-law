@@ -26,6 +26,12 @@
 
 12. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
+13. Politikai hirdetés: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, sajtótermékben ellenérték fejében közzétett médiatartalom vagy filmszínházban közzétett audiovizuális tartalom.
+
+14. Politikai plakát: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő falragasz, felirat, szórólap, vetített kép, embléma mérettől és hordozóanyagtól függetlenül.
+
+15. Politikai reklám: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
+
 II. CÍM
 
 A TÖRVÉNY HATÁLYA

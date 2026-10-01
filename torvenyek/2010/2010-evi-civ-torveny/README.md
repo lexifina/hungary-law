@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-104-00-00
 | 2019-08-01 | 2019. évi LXIII. törvény | 2010-104-00-00.14 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 2010-104-00-00.15 |
 | 2025-01-01 | 2024. évi LXXVIII. törvény | 2010-104-00-00.16 |
+| 2026-10-01 | 2026. évi XX. törvény | 2010-104-00-00.17 |
