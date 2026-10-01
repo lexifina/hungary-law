@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2025-01-01 | 2024. évi LXXVI. törvény | 2008-99-00-00.37 |
 | 2025-06-20 | 2025. évi LVII. törvény | 2008-99-00-00.39 |
 | 2026-01-01 | 2024. évi LXXVI. törvény | 2008-99-00-00.38 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2008-99-00-00.40 |
