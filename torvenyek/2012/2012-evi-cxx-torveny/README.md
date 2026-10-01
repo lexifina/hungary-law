@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-120-00-00
 | 2024-05-11 | 2024. évi XXV. törvény | 2012-120-00-00.24 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2012-120-00-00.25 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2012-120-00-00.26 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2012-120-00-00.27 |

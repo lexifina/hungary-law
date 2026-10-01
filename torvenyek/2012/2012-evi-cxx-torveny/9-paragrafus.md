@@ -56,12 +56,14 @@ d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési,
 
 e) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a külön törvényben meghatározott feladatai teljesítése céljából,
 
-f) a rendőrség terrorizmust elhárító szerve terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 
-g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság, valamint
+g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság,
 
 h) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
 i) az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy, az adott területen más az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy jogszerű tevékenységének az ellenőrzése céljából.
 
 j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal jogszabályban meghatározott feladatai ellátása céljából.
+
+k) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi feladatai ellátása céljából.
