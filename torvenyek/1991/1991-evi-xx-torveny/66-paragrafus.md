@@ -1,4 +1,4 @@
-66. § A fővárosi, a vármegyei önkormányzat közgyűlése
+66. § A fővárosi, a megyei önkormányzat közgyűlése
 
 a) összehangolja — a kiemelt üdülőkörzetek kivételével — az idegenforgalom területi érdekeit az országos érdekekkel, gondoskodik az idegenforgalmi értékek feltárásáról, bemutatásáról, propagálásáról;
 
