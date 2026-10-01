@@ -112,3 +112,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2025-11-08 | 2025. évi LXXXI. törvény | 2008-40-00-00.111 |
 | 2026-01-01 | 2025. évi LXXXI. törvény | 2008-40-00-00.112 |
 | 2026-05-14 | 2026. évi XIV. törvény | 2008-40-00-00.113 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2008-40-00-00.114 |
