@@ -4,13 +4,13 @@ a) az átadás előtt a szolgálati igazolványt az arckép alsó harmadában, v
 
 b) a szolgálati igazolvány sorszámát vissza kell vonni,
 
-c)[^32] az érvénytelenítés és az átadás tényét a szolgálati igazolvány adatait tartalmazó nyilvántartásokban rögzíteni kell, valamint
+c)[^33] az érvénytelenítés és az átadás tényét a szolgálati igazolvány adatait tartalmazó nyilvántartásokban rögzíteni kell, valamint
 
 d) a közeli hozzátartozó aláírásával igazolja az érvénytelenített szolgálati igazolvány átvételét.
 
-(2)[^33] A hivatásos állomány nyugállományba helyezett tagja számára – kérelmére, a rendvédelmi feladatokat ellátó szervnél eltöltött legalább 20 év tartamú életpálya elismeréseként – az érvénytelenített szolgálati igazolvány az (1) bekezdés a)–c) pontjában meghatározott eljárási szabályok megtartása mellett átadható.
+(2)[^34] A hivatásos állomány nyugállományba helyezett tagja számára – kérelmére, a rendvédelmi feladatokat ellátó szervnél eltöltött legalább 20 év tartamú életpálya elismeréseként – az érvénytelenített szolgálati igazolvány az (1) bekezdés a)–c) pontjában meghatározott eljárási szabályok megtartása mellett átadható.
 
 (3) Az érvénytelenített és selejtezett szolgálati igazolványt a helyi személyügyi szerv átvételi elismervény ellenében az elhunyt hivatásos állományú közeli hozzátartozójának, illetve a (2) bekezdésben meghatározott hivatásos állományúnak átadja, majd az átvételi elismervényt az elhunyt, illetve a nyugállományba helyezett hivatásos állományú személyi anyagában elhelyezi.
 
-[^32]: A 9. § (1) bekezdés c) pontja a 37/2015. (VI. 16.) BM rendelet 57. §-ával megállapított szöveg.
-[^33]: A 9. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 9. § (1) bekezdés c) pontja a 37/2015. (VI. 16.) BM rendelet 57. §-ával megállapított szöveg.
+[^34]: A 9. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.

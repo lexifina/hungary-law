@@ -1,4 +1,4 @@
-5. melléklet a 14/2012. (III. 30.) BM rendelethez[^42]
+5. melléklet a 14/2012. (III. 30.) BM rendelethez[^45]
 
 A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálati igazolványának leírása
 
@@ -66,4 +66,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, piro
 
 | 24. |  | 528. | Zala Vármegyei Katasztrófavédelmi Igazgatóság |
 
-[^42]: Az 5. melléklet a 39/2020. (XI. 4.) BM rendelet 9. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg.
+[^45]: Az 5. melléklet a 39/2020. (XI. 4.) BM rendelet 9. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg.

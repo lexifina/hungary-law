@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-14-20-0
 | 2023-09-01 | 2012-14-20-0A.16 | 13/2023. (VI. 14.) MK rendelet |
 | 2025-07-01 | 2012-14-20-0A.17 | 19/2025. (VI. 13.) BM rendelet |
 | 2025-12-23 | 2012-14-20-0A.18 | 20/2016. (VI. 9.) BM rendelet |
+| 2026-10-01 | 2012-14-20-0A.19 | 23/2026. (IX. 30.) BM rendelet |
