@@ -1,6 +1,6 @@
-## 30. §[^41] A Nemzeti Szakértői és Kutató Központnál 2017. január 1-jével továbbfoglalkoztatott, 2016. december 31. napján bérleti szerződéssel rendelkezők bérleti jogviszonyát a foglalkoztatási jogviszony megváltozása nem érinti. Az 5. § (1) bekezdés a) pontja alapján beosztás betöltéséig, megbízatás fennmaradásáig szóló bérleti szerződések esetében a meghatározott beosztásnak vagy megbízatásnak a jogviszony-váltásból következő megszűnése miatt a bérleti szerződés megszüntetésének nincs helye, a bérleti szerződéseket 2017. április 1-ig úgy kell módosítani, hogy a bérleti szerződésben meghatározott eredeti beosztás, megbízatás helyébe a 2017. március 1-jétől meghatározott beosztás, megbízatás szerepeljen.
+## 30. §[^42] A Nemzeti Szakértői és Kutató Központnál 2017. január 1-jével továbbfoglalkoztatott, 2016. december 31. napján bérleti szerződéssel rendelkezők bérleti jogviszonyát a foglalkoztatási jogviszony megváltozása nem érinti. Az 5. § (1) bekezdés a) pontja alapján beosztás betöltéséig, megbízatás fennmaradásáig szóló bérleti szerződések esetében a meghatározott beosztásnak vagy megbízatásnak a jogviszony-váltásból következő megszűnése miatt a bérleti szerződés megszüntetésének nincs helye, a bérleti szerződéseket 2017. április 1-ig úgy kell módosítani, hogy a bérleti szerződésben meghatározott eredeti beosztás, megbízatás helyébe a 2017. március 1-jétől meghatározott beosztás, megbízatás szerepeljen.
 
-31. §[^42]
+31. §[^43]
 
-[^41]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 58/2016. (XII. 22.) BM rendelet 40. § (1) bekezdése iktatta be.
-[^42]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 58/2016. (XII. 22.) BM rendelet 40. § (1) bekezdése iktatta be.
+[^43]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
