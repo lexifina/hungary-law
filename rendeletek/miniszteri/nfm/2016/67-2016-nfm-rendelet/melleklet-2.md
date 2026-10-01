@@ -2,40 +2,34 @@
 
 |  | A | B | C | D |
 
-| 1. | Hónap | Szerződött egyetemes szolgáltató | Nem földgáztárolóból származó földgázforrás mennyisége (MWh) | Földgáztárolóból származó földgázforrás mennyisége (MWh) |
+| 1 | Hónap | Szerződött egyetemes szolgáltató | Nem földgáztárolóból származó földgázforrás mennyisége (MWh) | Földgáztárolóból származó földgázforrás mennyisége (MWh) |
 
-| 2. | 2025. július | MVM Next Energiakereskedelmi Zrt. | 509 432 | 0 |
+| 2 | 2026. október | MVM Next Energiakereskedelmi Zrt. | 1 130 538 | 673 202 |
 
-| 3. | 2025. augusztus | MVM Next Energiakereskedelmi Zrt. | 509 448 | 0 |
+| 3 | 2026. november | MVM Next Energiakereskedelmi Zrt. | 2 410 407 | 1 435 327 |
 
-| 4. | 2025. szeptember | MVM Next Energiakereskedelmi Zrt. | 645 739 | 0 |
+| 4 | 2026. december | MVM Next Energiakereskedelmi Zrt. | 4 107 144 | 2 445 684 |
 
-| 5. | 2025. október | MVM Next Energiakereskedelmi Zrt. | 1 273 452 | 803 592 |
+| 5 | 2027. január | MVM Next Energiakereskedelmi Zrt. | 2 815 201 | 4 007 546 |
 
-| 6. | 2025. november | MVM Next Energiakereskedelmi Zrt. | 2 357 712 | 1 487 797 |
+| 6 | 2027. február | MVM Next Energiakereskedelmi Zrt. | 1 904 753 | 3 239 803 |
 
-| 7. | 2025. december | MVM Next Energiakereskedelmi Zrt. | 3 476 591 | 2 193 847 |
+| 7 | 2027. március | MVM Next Energiakereskedelmi Zrt. | 1 169 517 | 3 024 455 |
 
-| 8. | 2026. január | MVM Next Energiakereskedelmi Zrt. | 3 898 893 | 2 460 334 |
+| 8 | 2027. április | MVM Next Energiakereskedelmi Zrt. | 1 944 567 | 0 |
 
-| 9. | 2026. február | MVM Next Energiakereskedelmi Zrt. | 3 207 000 | 2 023 726 |
+| 9 | 2027. május | MVM Next Energiakereskedelmi Zrt. | 574 133 | 0 |
 
-| 10. | 2026. március | MVM Next Energiakereskedelmi Zrt. | 2 562 016 | 1 616 720 |
+| 10 | 2027. június | MVM Next Energiakereskedelmi Zrt. | 388 254 | 0 |
 
-| 11. | 2026. április | MVM Next Energiakereskedelmi Zrt. | 1 948 844 | 0 |
+| 11 | 2027. július | MVM Next Energiakereskedelmi Zrt. | 401 196 | 0 |
 
-| 12. | 2026. május | MVM Next Energiakereskedelmi Zrt. | 574 133 | 0 |
+| 12 | 2027. augusztus | MVM Next Energiakereskedelmi Zrt. | 401 196 | 0 |
 
-| 13. | 2026. június | MVM Next Energiakereskedelmi Zrt. | 388 254 | 0 |
+| 13 | 2027. szeptember | MVM Next Energiakereskedelmi Zrt. | 574 708 | 0 |
 
-| 14. | 2026. július | MVM Next Energiakereskedelmi Zrt. | 401 196 | 0 |
+2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^43]
 
-| 15. | 2026. augusztus | MVM Next Energiakereskedelmi Zrt. | 401 196 | 0 |
+A 2. § szerinti földgázforrás mennyisége a 2026/2027-es gázévre, valamint a felek köre
 
-| 16. | 2026. szeptember | MVM Next Energiakereskedelmi Zrt. | 574 708 | 0 |
-
-2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^31]
-
-Az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás mennyisége
-
-[^31]: A 2. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. melléklet a 6/2026. (IX. 30.) GEM rendelet 2. § (2) bekezdésével megállapított szöveg.

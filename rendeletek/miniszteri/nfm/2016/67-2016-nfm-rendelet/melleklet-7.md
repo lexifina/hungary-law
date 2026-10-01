@@ -6,6 +6,6 @@
 
 | 3. | kiegyenlítő hozzájárulás (forint/kWh) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-7. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^37]
+7. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^73]
 
-[^37]: A 7. mellékletet a 25/2022. (XI. 15.) TIM rendelet 1. § (2) bekezdése iktatta be.
+[^73]: A 7. mellékletet a 25/2022. (XI. 15.) TIM rendelet 1. § (2) bekezdése iktatta be.

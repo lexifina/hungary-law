@@ -1,38 +1,34 @@
+## Az egyetemes szolgáltatót ellátó földgázkereskedő által értékesítendő földgázforrás mennyisége:
+
 |  | A | B | C |
 
-| 1. | Hónap | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (kWh) |
+| 1 | Hónap | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (MWh) |
 
-| 2. | 2025. július | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 2 | 2026. október | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 3. | 2025. augusztus | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 3 | 2026. november | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 4. | 2025. szeptember | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 4 | 2026. december | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 5. | 2025. október | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 5 | 2027. január | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 6. | 2025. november | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 6 | 2027. február | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 7. | 2025. december | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 7 | 2027. március | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 8. | 2026. január | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 8 | 2027. április | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 9. | 2026. február | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 9 | 2027. május | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 10. | 2026. március | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 10 | 2027. június | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 11. | 2026. április | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 11 | 2027. július | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 12. | 2026. május | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 12 | 2027. augusztus | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 13. | 2026. június | MVM Next Energiakereskedelmi Zrt. | 0 |
+| 13 | 2027. szeptember | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-| 14. | 2026. július | MVM Next Energiakereskedelmi Zrt. | 0 |
-
-| 15. | 2026. augusztus | MVM Next Energiakereskedelmi Zrt. | 0 |
-
-| 16. | 2026. szeptember | MVM Next Energiakereskedelmi Zrt. | 0 |
-
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^32]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^44]
 
 A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -54,7 +50,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 1.2. Ha QTény < (QDedikált forrás + QFedezett + QBeárazódott) és QTény > (QFedezett + QDedikált forrás), akkor
 
-1.2.1. Elismert ár = (QFedezett * PFedezett import ár + QDedikált forrás * PDedikált forrás ár + (QTény – QFedezett – QDedikált forrás) * PDedikált forrás ár + QTöbblet–1 * (PTöbblet–1 – PLikvid import ár) + CEGY) / QTény,
+1.2.1.[^45] Elismert ár = (QFedezett * PFedezett import ár + QDedikált forrás * PDedikált forrás ár + (QTény – QFedezett – QDedikált forrás) * PAktuális import ár + QTöbblet-1 * (PTöbblet-1 – PLikvid import ár) + CEGY) / QTény.
 
 1.2.2. QTöbblet = 0,
 
@@ -66,7 +62,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 1.2.6. QBeárazódott tároló = QDedikált forrás + QFedezett + QBeárazódott – QTény, de legalább 0.
 
-1.3. Ha QTény <= ( QFedezett + QDedikált forrás) és QTény > QDedikált forrás, akkor
+1.3.[^46] Ha QTény <= ( QFedezett + QDedikált forrás) és QTény > Q Fedezett, akkor
 
 1.3.1. Elismert ár = (QFedezett* PFedezett import ár + (QTény – QFedezett) * PDedikált forrás ár + QTöbblet–1 * (PTöbblet–1 – PLikvid import ár) + CEGY) / QTény,
 
@@ -100,7 +96,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 2.1.1. Elismert ár = (QDedikált forrás * PDedikált forrás ár + QFedezett * PFedezett import ár + QBeárazódott * PAktuális import ár + (QTény – QDedikált forrás – QFedezett – QBeárazódott) * PLikvid import ár+1 + CEGY) / QTény
 
-2.1.2. QTöbblet = QNyitókészlet + Σ(QTárolói fedezés)+ Σ1T (Qbeárazódott) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) – QTárolói_célkészlet, de legalább 0,
+2.1.2.[^47] QTöbblet = QNyitókészlet + Σ(QTárolói fedezés)+ Σ1T (QBeárazódott tároló) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) – QTárolói_célkészlet, de legalább 0,
 
 2.1.3. PTöbblet = PFedezett tárolói ár,
 
@@ -154,7 +150,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 2.4.1. Elismert ár = (QTény * PFedezett import ár + QTöbblet–1 * (PTöbblet–1 – PLikvid import ár) + CEGY) / QTény,
 
-2.4.2. QTöbblet = QNyitókészlet + Σ(QTárolói fedezés) + Σ1T (Qbeárazódott) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) – QTárolói_célkészlet, de legalább 0,
+2.4.2.[^48] QTöbblet = QNyitókészlet + Σ(QTárolói fedezés) + Σ1T (QBeárazódott tároló) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) – QTárolói_célkészlet, de legalább 0,
 
 2.4.3. PTöbblet = PFedezett tárolói ár, ha QTöbblet > 0 egyébként 0,
 
@@ -178,7 +174,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 3.1.3. PTöbblet = 0
 
-3.2. Ha QTény > (QAllokált tárolói fedezés + QFedezett + QDedikált forrás + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
+3.2.[^49] Ha QTény >= (QAllokált tárolói fedezés + QFedezett + QDedikált forrás + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
 
 3.2.1. Elismert ár = (QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + QDedikált forrás * PDedikált forrás ár + QTervezett import * PAktuális import ár + (QTény – QAllokált tárolói fedezés – QFedezett – QDedikált forrás – QTervezett import) * PLikvid import ár+1 + QTöbblet–1 * (PTöbblet–1 – PLikvid import ár) – ELakossági célú + CEGY + CHalasztott) / QTény
 
@@ -236,7 +232,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 4.1.3. PTöbblet = 0
 
-4.2. Ha QTény > (QAllokált tárolói fedezés + QFedezett + QDedikált forrás + QTervezett import) és QHidegre elkülönített tárolói készlet 0, akkor
+4.2.[^50] Ha QTény >= (QAllokált tárolói fedezés + QFedezett + QDedikált forrás + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
 
 4.2.1. Elismert ár = (QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + QDedikált forrás * PDedikált forrás ár + QTervezett import * PAktuális import ár + (QTény – QAllokált tárolói fedezés – QFedezett – QDedikált forrás – QTervezett import) * PLikvid import ár+1 – (MtMt – MtMt–1) + QTöbblet–1 * (PTöbblet–1 – PLikvid import ár) – ELakossági célú + CEGY + CHalasztott) / QTény
 
@@ -328,7 +324,7 @@ A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mé
 
 6.9. PNyitókészlet: 2018. április 1-jén értéke a betárolási időszakot megelőző kitárolási időszak hónapjaiban érvényes import földgáz árak (PAktuális import ár) számtani átlaga, HUF/kWh-ban kifejezve; a 2018-as naptári évet követő betárolási időszakok kezdetén értéke a betárolási időszak első napjára kiszámított maradék tárolói földgáz fedezett ára HUF/kWh-ban kifejezve (PFedezett tárolói ár) képlet alapján számolható, melyben a QHavi kitárolás értékét a teljes maradványkészlet mennyiségével kell helyettesíteni;
 
-6.10. QAllokált tárolói fedezés (allokált tárolói fedezett mennyiség): QProfilozott tárolói összmennyiség-nek a kitárolási időszak adott hónapjára vonatkozó része, ahol az egyes hónapokra történő szétosztás a felhasználás tervezett havi mennyisége és a kitárolási időszakra vonatkozó felhasználás tervezett mennyisége arányában történik [QAllokált tárolói fedezés = QProfilozott tárolói összmennyiség * QTerv / ΣQTerv_tél, ahol ΣQTerv_tél a kitárolási időszak hónapjaira (október–március) eső QTerv értékek összege];
+6.10.[^51] QAllokált tárolói fedezés (allokált tárolói fedezett mennyiség): QProfilozott tárolói összmennyiség-nek a kitárolási időszak adott hónapjára vonatkozó része, ahol az egyes hónapokra történő szétosztás a felhasználás tervezett havi mennyisége és a kitárolási időszakra vonatkozó felhasználás tervezett mennyisége arányában történik [QAllokált tárolói fedezés = QProfilozott tárolói összmennyiség * QTerv / ΣQTerv_tél, ahol ΣQTerv_tél a kitárolási időszak hónapjaira (október–március) eső QTerv értékek összege]; 2027. első negyedévében addicionálisan kitárolásra kerül a 9. melléklet 4.1–4.3. pontjai szerint megképezett QAddicionális tárolás egyenletes ütemezés szerint.
 
 6.11. PAktuális import ár (import földgáz ára az adott hónapban, HUF/kWh-ban kifejezve): PAktuális import ár = (fgS + sp) * EURHUF / 1000, ahol:
 
@@ -366,7 +362,7 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.13.1.2. Tárolói fedezés QTároló fedezett: a fedezeti ügyletekkel kezelt tárolóra allokált forrás mennyiségek (QTárolói fedezés) az adott hónapban felhasznált mennyiség.
 
-6.13.1.3. Egyéb tárolói források QEgyéb tároló: a nyitókészlet QNyitókészlet, a QDedikált tárolás, a QHiány tároló és a nem fedezett tárolói forrásokból az adott hónapban felhasznált mennyiség.
+6.13.1.3.[^52] Egyéb tárolói források QEgyéb tároló: a nyitókészlet QNyitókészlet, a QDedikált tárolás, a QHiány tároló és a nem fedezett tárolói forrásokból az adott hónapban felhasznált mennyiség.
 
 ## A PFedezett tárolói ár megállapításakor a releváns kitárolási időszakot közvetlenül megelőző betárolási időszak mennyiségeit kell figyelembe venni.
 
@@ -380,17 +376,17 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 ## Ha QHavi kitárolás > QTároló fedezett + QTároló dedikált, akkor
 
-## QEgyéb tároló = QHavi kitárolás – QTároló fedezett – QTároló dedikált, egyébként 0.
+## QEgyéb tároló = QHavi kitárolás – QTároló fedezett – QTároló dedikált – QAddicionális tárolás, egyébként 0.
 
-6.13.2. PFedezett tárolói ár = (QTároló dedikált * PTároló dedikált + QTároló fedezett * PTároló fedezett + QEgyéb tároló * PEgyéb tároló) / QHavi kitárolás
+6.13.2.[^53] PFedezett tárolói ár = (QTároló dedikált * PTároló dedikált + QTároló fedezett * PTároló fedezett + QEgyéb tároló * PEgyéb tároló + QAddicionális tárolás * PAddicionális tárolás)/ QHavi kitárolás
 
-6.13.3. A 6.13.2. pontban az egyes tárolói forráselemek árai a következő módon számítódnak:
+6.13.3.[^54] A 6.13.2. pontban az egyes tárolói forráselemek árai a következő módon számítódnak:
 
-## PTároló dedikált = (ΣQDedikált tárolói forrás * PDedikált tárolói forrás) / (ΣQDedikált tárolói forrás)
+## PTároló dedikált = Σ Dedikálásonként (QDedikált tárolói forrás * PDedikált tárolói forrás) / Σ Dedikálásonként (QDedikált tárolói forrás)
 
 ## PTároló fedezett = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUF / 1000 + fk * Σ(QTárolói fedezés * EURHUFAktuális) / 1000) / (ΣQTárolói fedezés)
 
-## PEgyéb tároló = ((QTárolói_ténykészlet – ΣQDedikált tárolói forrás – ΣQTárolói fedezés – QHiány tároló – QNyitókészlet) * PNem_fedezett_tároló / 1000 + ΣQDedikált tárolás * PDedikált forrás ár + QHiány tároló * PHiány(szeptember) + QNyitókészlet * PNyitókészlet) / (QTárolói_ténykészlet – ΣQDedikált tárolói forrás – ΣQTárolói fedezés)
+## PEgyéb tároló = ((QTárolói_ténykészlet – ΣQDedikált tárolói forrás – ΣQTárolói fedezés – QHiány tároló – QNyitókészlet –QAddicionális tárolás) * PNem_fedezett_tároló / 1000 + ΣQDedikált tárolás * PDedikált forrás ár + QHiány tároló * PHiány(szeptember) + QNyitókészlet * PNyitókészlet) / (QTárolói_ténykészlet – ΣQDedikált tárolói forrás – ΣQTárolói fedezés)
 
 6.13.4. Ahol:
 
@@ -408,9 +404,9 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.13.7. Tárolói fedezeti ügyletekhez tartozó kötési dátum: az adott nyári betárolandó mennyiségek pénzügyi műveletekkel történő fedezéseihez tartozó kötési dátum az ügyletkötés dátumával azonos. Az ESZ szegmens nyári többlet- vagy alulfogyasztásának következtében fellépő fedezett fix tárolói pozícióváltozáshoz tartozó kötési dátum a mennyiségi változással érintett hónapot követő hónap 15. napja;
 
-6.13.8. QBeárazódott (havi mennyiség kWh-ban): a Commodity árazódási napig megkötött tároló releváns tárolói fedezeti mennyiségekkel, beárazódott mennyiségekkel, valamint átvett QDedikált tárolói forrás teljes mennyisége alapján kiszámított Qbeárazódott képlettel azonos a beárazódott mennyiség;
+6.13.8.[^55] QBeárazódott (havi mennyiség kWh-ban): a Commodity árazódási napig megkötött tároló releváns tárolói fedezeti mennyiségekkel, beárazódott mennyiségekkel, valamint átvett QDedikált tárolói forrás teljes mennyisége alapján kiszámított Qbeárazódott képlettel azonos a beárazódott mennyiség;
 
-## QBeárazódott tároló = (QTárolói_célkészlet – QHidegre_elkülönített tárolói készlet – Σ(QTárolói fedezés) – Σ(QDedikált tárolói forrás) – Σ(QDedikált tárolás) – Σ1T–1 (Qbeárazódott)) / (hátralévő nyári hónapok száma) + QTervezett import
+## QBeárazódott = (QTárolói_célkészlet – QHidegre_elkülönített tárolói készlet – Σ(QTárolói fedezés) – Σ(QDedikált tárolói forrás) – Σ(QDedikált tárolás) – Σ1T–1 (QBeárazódott tároló)) / (hátralévő nyári hónapok száma) + QTervezett import
 
 6.14. MtM (nyitott fedezeti ügyletek aktuális piaci értéke): az egyetemes szolgáltatót ellátó földgázkereskedő által kizárólag az egyetemes szolgáltatók ellátása érdekében kötött minden, a tárgyév utolsó napján nyitott, az egyetemes szolgáltatót ellátó földgázkereskedő számviteli nyilvántartásában a számvitelről szóló 2000. évi C. törvény 59/E. §-a alá nem tartozó fedezeti ügylet (beleértve a fedezett és tárolói fedezett mennyiségekre kötött tömegáru- és devizaügyleteket is) aktuális piaci értékének összege, a tárgyév utolsó napjára vonatkozóan meghatározva. Az MtM 2016. évi kezdeti értéke 0;
 
@@ -428,11 +424,11 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.21. n: az adott hónap napjainak száma;
 
-6.22. QProfilozott tárolói összmennyiség (a kitárolási időszak hónapjaiban QTerv arányában felhasználandó – profilozott – tárolt mennyiség): 2025. október 1-jétől a 2025/2026-os téli időszak végéig 10 586 016,236 MWh. A további gázévekre vonatkozó értékről a Hivatal tájékoztatja az egyetemes szolgáltatót ellátó földgázkereskedőt;
+6.22.[^56] QProfilozott tárolói összmennyiség (a kitárolási időszak hónapjaiban QTerv arányában felhasználandó – profilozott – tárolt mennyiség): 2025. október 1-jétől a 2025/2026-os téli időszak végéig 10 586 016,236 MWh, 2026. október 1-jétől a 2026/2027-es téli időszak végéig 10 586 016,236 MWh. A további gázévekre vonatkozó értékről a Hivatal tájékoztatja az egyetemes szolgáltatót ellátó földgázkereskedőt;
 
 6.23. QTárolói_ténykészlet: a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet;
 
-6.23.1. QTárolói_célkészlet: a Hivatal által rendeletben meghatározott betárolási időszak végére elérendő egyetemes szolgáltatási célú fizikai készlet;
+6.23.1.[^57] QTárolói_célkészlet: a Hivatal által meghatározott, a GET. Vhr. 30. § (2) bekezdése szerinti hazai földgáztárolóban elhelyezett földgázkészlet mennyiség;
 
 6.24. QHidegre_elkülönített tárolói készlet (hidegre elkülönített tárolói készlet maradvány mennyisége): a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet) és a felprofilozott tárolói készlet (QProfilozott tárolói összmennyiség) pozitív különbségéből az adott hónapig fel nem használt mennyiség;
 
@@ -476,7 +472,7 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.37. CHalasztott (HUF-ban kifejezve): a 7. mellékletben szereplő, az egyetemes szolgáltatót ellátó földgázkereskedő beszerzési szerződésével összhangban megállapított tényező;
 
-6.38. QDedikált tárolói forrás (havi mennyiség kWh-ban): a földalatti gáztárolói készletben elkülönítetten kezelendő földgáz mennyiség;
+6.38.[^58] QDedikált tárolói forrás (havi mennyiség kWh-ban): a földalatti gáztárolói készletben elkülönítetten kezelendő földgáz mennyiségek;
 
 6.39. PDedikált tárolói forrás (HUF/kWh-ban kifejezve): a 6.38. szerinti QDedikált tárolói forrás ára, melynek értékéről az egyetemes szolgáltatót ellátó földgázkereskedő tájékoztatja a Hivatalt;
 
@@ -490,4 +486,56 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.44. QHiány tároló: az egyetemes szolgáltató által a GET. Vhr. 30. § (2) bekezdése alapján elvárt tárolói célkészlet elérése érdekében a QNyitókészlet + Σ(QTárolói fedezés) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) + Σ1T (QBeárazódott tároló) tárolói készleten felül betárolt gázmennyiség, kWh-ban kifejezve.
 
-[^32]: A 3. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (3) bekezdésével megállapított szöveg.
+## QHiány tároló = QTárolói_célkészlet – (QNyitókészlet + Σ(QTárolói fedezés) + QDedikált tárolói forrás + Σ(QDedikált tárolás) + Σ1T (QBeárazódott tároló) )
+
+6.45.[^59] P_TTFDAÁr (import földgáz ára az adott hónapban, HUF/kWh-ban kifejezve):
+
+## P_TTFDAÁr = (fgTTFDA + spTTFDA) * EURHUF / 1000, ahol:
+
+6.45.1. fgTTFDA: A szállítási hónapra vonatkozó az Argus European Natural Gas kiadvány „Daily Natural Gas Market Prices” részben publikált, az egyes napokat megelőző utolsó munkanapon közzétett „TTF Price Assessment – Day Ahead Ask” EUR/MWh napi árak számtani átlaga. Munkaszüneti nap esetén a munkaszüneti napot megelőző utolsó munkanapon publikált „TTF Price Assessment – Weekend Ask” EUR/MWh árakat kell figyelembe venni;
+
+6.45.2. spTTFDA: eltérés (spread), értéke 1,05 EUR/MWh;
+
+6.46.[^60] P_FedezettTTFDAÁr (import földgáz fedezett ára az adott hónapban, HUF/kWh-ban kifejezve):
+
+P_FedezettTTFDAÁr = (fgFedezettTTFDA + spTTFDA) * EURHUF / 1000 + fkTTFDA * EURHUF_Aktuális / 1000, ahol:
+
+6.46.1. fgFedezettTTFDA: az egyetemes szolgáltatót ellátó földgázkereskedő által az adott hónapra vonatkozó fedezeti ügyletek mennyiséggel súlyozott átlagára EUR/MWh-ban. Pénzügyi fedezés az alábbi termékre történik: A szállítási hónapra vonatkozó az Argus European Natural Gas kiadvány „Daily Natural Gas Market Prices” részben publikált, az egyes napokat megelőző utolsó munkanapon közzétett „TTF Price Assessment – Day Ahead Ask” EUR/MWh napi árak számtani átlaga. Munkaszüneti nap esetén a munkaszüneti napot megelőző utolsó munkanapon publikált „TTF Price Assessment – Weekend Ask” EUR/MWh árakat kell figyelembe venni. Kizárólag EURHUF árfolyamra vonatkozó fedezeti ügyletek kötése esetén értéke megegyezik a 6.45.1. pont szerinti fgTTFDA értékkel;
+
+6.46.2. fkTTFDA: tömegáru fedezési költség, értéke az fgFedezettTTFDA 0,25%-a + az fgFedezettTTFDA 0,075%-a;
+
+6.47.[^61] P_VTPDAÁr (import földgáz ára az adott hónapban, HUF/kWh-ban kifejezve):
+
+## P_VTPDAÁr = (fgVTPDA + spVTPDA) * EURHUF / 1000, ahol:
+
+6.47.1. fgVTPDA: A szállítási hónapra vonatkozó az Argus European Natural Gas kiadvány „Daily Natural Gas Market Prices” részben publikált, az egyes napokat megelőző utolsó munkanapon közzétett „VTP Price Assessment – Day Ahead Ask” EUR/MWh napi árak számtani átlaga. Munkaszüneti nap esetén a munkaszüneti napot megelőző utolsó munkanapon publikált „VTP Price Assessment – Weekend Ask” EUR/MWh árakat kell figyelembe venni;
+
+6.47.2. spVTPDA: eltérés (spread), értéke 0 EUR/MWh;
+
+6.48.[^62] fgBáziskockázat (import földgáz báziskockázata az adott hónapban, EUR/MWh-ban kifejezve): fgBázisKockázat = fgVTPDA – fgTTFDA.
+
+6.49.[^63] QAddicionális tárolás: 2027. első negyedévében a 9. melléklet 4.1–4.3. pontjai szerint föld alatti gáztárolóban megképezett addicionális földalatti gáztárolói készlet mennyiségeinek összege, amelyet a 6.13.1.3. kitárolási sorrend tekintetében QDedikált tárolói forrás -ként kell figyelembe venni, egyébként 0;
+
+6.50.[^64] PAddicionális tárolás: a 9. melléklet 4.1–4.3. pontjai szerint föld alatti gáztárolóban megképezett addicionális földalatti gáztárolói készlet mennyiségeinek súlyozott átlagára.
+
+[^44]: A 3. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^45]: A 3. melléklet 1. pont 1.2. alpont 1.2.1. pontja a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^46]: A 3. melléklet 1. pont 1.3. alpontja a 6/2026. (IX. 30.) GEM rendelet 3. § 9. pontja szerint módosított szöveg.
+[^47]: A 3. melléklet 2. pont 2.1. alpont 2.1.2. pontja a 6/2026. (IX. 30.) GEM rendelet 3. § 10. pontja szerint módosított szöveg.
+[^48]: A 3. melléklet 2. pont 2.4. alpont 2.4.2. pontja a 6/2026. (IX. 30.) GEM rendelet 3. § 10. pontja szerint módosított szöveg.
+[^49]: A 3. melléklet 3. pont 3.2. alpontja a 6/2026. (IX. 30.) GEM rendelet 3. § 11. pontja szerint módosított szöveg.
+[^50]: A 3. melléklet 4. pont 4.2. alpontja a 6/2026. (IX. 30.) GEM rendelet 3. § 11. és 12. pontja szerint módosított szöveg.
+[^51]: A 3. melléklet 6.10. pontja a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^52]: A 3. melléklet 6. pont 6.13. alpont 6.13.1. pont 6.13.1.3. alpontja a 6/2026. (IX. 30.) GEM rendelet 3. § 13. pontja szerint módosított szöveg.
+[^53]: A 3. melléklet 6.13.2. pontja a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^54]: A 3. melléklet 6.13.3. pontja a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^55]: A 3. melléklet 6. pont 6.13. alpont 6.13.8. pontja a 6/2026. (IX. 30.) GEM rendelet 3. § 14. pontja szerint módosított szöveg.
+[^56]: A 3. melléklet 6.22. pontja a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^57]: A 3. melléklet 6. pont 6.23. alpont 6.23.1. pontja a 6/2026. (IX. 30.) GEM rendelet 3. § 15. pontja szerint módosított szöveg.
+[^58]: A 3. melléklet 6. pont 6.38. alpontja a 6/2026. (IX. 30.) GEM rendelet 3. § 16. pontja szerint módosított szöveg.
+[^59]: A 3. melléklet 6.45. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.
+[^60]: A 3. melléklet 6.46. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.
+[^61]: A 3. melléklet 6.47. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.
+[^62]: A 3. melléklet 6.48. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.
+[^63]: A 3. melléklet 6.49. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.
+[^64]: A 3. melléklet 6.50. pontját a 6/2026. (IX. 30.) GEM rendelet 2. § (3) bekezdése iktatta be.

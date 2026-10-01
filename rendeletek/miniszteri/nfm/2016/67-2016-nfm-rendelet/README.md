@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2025-07-01 | 2016-67-20-2W.41 | 15/2025. (VI. 30.) EM rendelet |
 | 2025-08-01 | 2016-67-20-2W.42 | 15/2025. (VI. 30.) EM rendelet |
 | 2026-01-01 | 2016-67-20-2W.43 | 43/2025. (XII. 31.) EM rendelet |
+| 2026-10-01 | 2016-67-20-2W.44 | 6/2026. (IX. 30.) GEM rendelet |

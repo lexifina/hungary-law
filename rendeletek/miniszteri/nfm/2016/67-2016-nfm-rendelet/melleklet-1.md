@@ -1,5 +1,5 @@
-1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^30]
+1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^42]
 
-Az 1. § szerinti földgázforrás mennyisége, valamint a felek köre
+Az 1. § szerinti földgázforrás mennyisége a 2026/2027-es gázévre, valamint a felek köre
 
-[^30]: Az 1. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet a 6/2026. (IX. 30.) GEM rendelet 2. § (1) bekezdésével megállapított szöveg.
