@@ -186,7 +186,7 @@ A biztonsági okmányok
 
 3.1.63. az Országgyűlés nemzetiségi szószólójának igazolványa;
 
-3.1.64. az Országgyűlési Őrség köztisztviselői, munkavállalói és hivatásos állománya részére rendszeresített szolgálati és munkáltatói igazolványok;
+3.1.64.[^64] az Országgyűlési Őrség hivatásos állománya részére rendszeresített szolgálati igazolványok;
 
 3.1.65. vámtanácsadói igazolvány;
 
@@ -278,9 +278,9 @@ A biztonsági okmányok
 
 3.1.109. a fővárosi és a vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala kormánytisztviselőinek hatósági ellenőrzésre jogosító igazolványa;
 
-3.1.110.[^64] Magyar Államkincstár helyszíni ellenőri igazolvány,
+3.1.110.[^65] Magyar Államkincstár helyszíni ellenőri igazolvány,
 
-3.1.111.[^65] az Országos Atomenergia Hivatalnál hatósági feladatokat ellátó személyek szolgálati igazolványa.
+3.1.111.[^66] az Országos Atomenergia Hivatalnál hatósági feladatokat ellátó személyek szolgálati igazolványa.
 
 3.2. A védelmet igénylő létesítmények, szervek, intézmények belépési engedélyei, belépésre jogosító igazolványai:
 
@@ -329,5 +329,6 @@ A biztonsági okmányok
 [^61]: Az 1. melléklet 3.1.44. pontja a 313/2024. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^62]: Az 1. számú melléklet 3.1.46. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^63]: Az 1. számú melléklet 3.1.48. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^64]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^65]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^64]: Az 1. melléklet 3.1.64. pontja a 160/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^65]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^66]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
