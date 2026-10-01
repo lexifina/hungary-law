@@ -1,3 +1,7 @@
-6. §[^6]
+6. § Hatályát veszti a 38/2014. (II. 24.) Korm. rendelet
 
-[^6]: A 6. § a 21. § (3) bekezdése alapján 2026. október 1-jén lép hatályba.
+a) 1. § (2) bekezdésében az „ , az azt kezelő számítástechnikai eszközzel olvasható és kinyomtatható formában is megjeleníthető”,
+
+b) 20. § (1) bekezdésében az „Az adatlap papír alapú vagy elektronikus másolatként szolgáltatható.”
+
+szövegrész.
