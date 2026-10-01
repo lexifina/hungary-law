@@ -1,4 +1,4 @@
-29/A. §[^38] A miniszter a fogyasztóvédelemért való felelőssége keretében az élelmiszerek vonatkozásában
+29/A. §[^39] A miniszter a fogyasztóvédelemért való felelőssége keretében az élelmiszerek vonatkozásában
 
 a) meghatározza a belföldi forgalomba hozatal ellenőrzésének rendszerét,
 
@@ -6,4 +6,4 @@ b) meghatározza a belföldi forgalomba hozatal irányításának cél-, eszköz
 
 c) kidolgozza a fogyasztóvédelmi politika koncepcióját, a fogyasztóvédelemmel kapcsolatos cselekvési és szakmai programokat, és figyelemmel kíséri azok végrehajtását.
 
-[^38]: A 29/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^39]: A 29/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.

@@ -6,9 +6,9 @@ a) összehangolja a Kormánynak a civil és társadalmi kapcsolatok fejlesztés�
 
 b) ellátja a civil szervezetek és a közhasznú szervezetek működésének fejlesztését célzó feladatokat,
 
-c)[^224] kapcsolatot tart a hazai és határon túli civil szervezetekkel, és egyéb szervezetekkel,
+c)[^228] kapcsolatot tart a hazai és határon túli civil szervezetekkel, és egyéb szervezetekkel,
 
-d)[^225] működteti a civil információs centrumokat és a Civil Információs Portált.
+d)[^229] működteti a civil információs centrumokat és a Civil Információs Portált.
 
-[^224]: A 163. § (2) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 70. §-ával megállapított szöveg.
-[^225]: A 163. § (2) bekezdés d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 70. §-a iktatta be.
+[^228]: A 163. § (2) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 70. §-ával megállapított szöveg.
+[^229]: A 163. § (2) bekezdés d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 70. §-a iktatta be.

@@ -1,4 +1,4 @@
-36/A. §[^43] A Kormány a minisztert jelöli ki
+36/A. §[^44] A Kormány a minisztert jelöli ki
 
 a) az Európai Unió intézményeinek tagállami kormányzati részvétellel működő, a belügyi és sport kapcsolatokat érintő döntés-előkészítő tevékenységében való részvételre és a tagállami képviseletre,
 
@@ -12,4 +12,4 @@ e) az Európai Unió keretében megvalósuló belügyi és sport együttműköd�
 
 f) az ENSZ, az Európa Tanács és a belügyi feladatok szempontjából releváns regionális fórumok keretei között a Magyarország által megkötött belügyi és sport tárgyú szerződések végrehajtására, a nemzetközi szervezetekben való magyar belügyi és sportügyi részvétellel kapcsolatos feladatok koordinálására.
 
-[^43]: A 36/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 17. §-a iktatta be.
+[^44]: A 36/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 17. §-a iktatta be.

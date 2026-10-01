@@ -1,6 +1,6 @@
-## 22.[^265] Védelmi Kabinet
+## 22.[^273] Védelmi Kabinet
 
-198. §[^266] A Védelmi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+198. §[^274] A Védelmi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az állami és önkormányzati szervek elektronikus információbiztonságáért,
 
@@ -52,5 +52,5 @@
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-[^265]: A 22. alcím címe a 139/2026. (VIII. 31.) Korm. rendelet 95. § 50. pontja szerint módosított szöveg.
-[^266]: A 198. § a 139/2026. (VIII. 31.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^273]: A 22. alcím címe a 139/2026. (VIII. 31.) Korm. rendelet 95. § 50. pontja szerint módosított szöveg.
+[^274]: A 198. § a 139/2026. (VIII. 31.) Korm. rendelet 92. §-ával megállapított szöveg.

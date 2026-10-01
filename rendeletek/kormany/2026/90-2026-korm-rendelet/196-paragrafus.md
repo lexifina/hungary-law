@@ -4,7 +4,7 @@
 
 ## 20. Stratégiai Kabinet
 
-196. § (1)[^262] A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+196. § (1)[^270] A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -130,4 +130,4 @@ való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező sze
 
 (3) A Stratégiai Kabinet üléseit a Miniszterelnökséget vezető miniszter vezeti.
 
-[^262]: A 196. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^270]: A 196. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 89. §-ával megállapított szöveg.

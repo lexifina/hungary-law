@@ -10,9 +10,9 @@ c) kapcsolatot tart és a tudománypolitikát érintő feladatkörében együttm
 
 d) koordinálja a kutatás-fejlesztési és innovációs ösztönzést elősegítő programok kidolgozását.
 
-(3)[^231] A miniszter tudománypolitika koordinációjáért való felelőssége körében támogatja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI törvény) 3. § 16a. pontja szerinti szervezetek feladatait.
+(3)[^235] A miniszter tudománypolitika koordinációjáért való felelőssége körében támogatja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI törvény) 3. § 16a. pontja szerinti szervezetek feladatait.
 
-(4)[^232] A Kormány a miniszter közreműködésével látja el a KFI törvény 4. § (1) bekezdésében meghatározott feladatokat.
+(4)[^236] A Kormány a miniszter közreműködésével látja el a KFI törvény 4. § (1) bekezdésében meghatározott feladatokat.
 
-[^231]: A 170. § (3) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 73. §-a iktatta be.
-[^232]: A 170. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 73. §-a iktatta be.
+[^235]: A 170. § (3) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 73. §-a iktatta be.
+[^236]: A 170. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 73. §-a iktatta be.

@@ -1,4 +1,4 @@
-92/A. §[^121] A miniszter a nemzeti pénzügyi szolgáltatásokért való felelőssége keretében
+92/A. §[^122] A miniszter a nemzeti pénzügyi szolgáltatásokért való felelőssége keretében
 
 a) szakmai javaslatot tesz a Kormány részére a gazdaságfejlesztési célból állami hitel-, tőke- és garanciaprogramokra,
 
@@ -14,4 +14,4 @@ f) kezeli az állam többségi és kisebbségi pénzintézeti tulajdonát és bi
 
 g) ellátja a befektetési alapok működésével és szakpolitikai értékelésével kapcsolatos feladatokat.
 
-[^121]: A 92/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 38. §-a iktatta be.
+[^122]: A 92/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 38. §-a iktatta be.

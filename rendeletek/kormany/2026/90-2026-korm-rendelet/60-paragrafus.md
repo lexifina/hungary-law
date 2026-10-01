@@ -2,19 +2,19 @@
 
 60. § Az élő környezetért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a)[^68] fenntartható fejlődéssel összefüggő kormányzati feladatok összehangolásáért,
+a)[^69] fenntartható fejlődéssel összefüggő kormányzati feladatok összehangolásáért,
 
-b)[^69] – mezőgazdasági haszonállatok jóléte kivételével – az állatvédelemért és állatjólétért,
+b)[^70] – mezőgazdasági haszonállatok jóléte kivételével – az állatvédelemért és állatjólétért,
 
-c)[^70] erdőgazdálkodásért,
+c)[^71] erdőgazdálkodásért,
 
-d)[^71] hulladékgazdálkodásért,
+d)[^72] hulladékgazdálkodásért,
 
-e)[^72] klímapolitikáért,
+e)[^73] klímapolitikáért,
 
-f)[^73] környezetvédelemért,
+f)[^74] környezetvédelemért,
 
-g)[^74] nemzeti közműszolgáltatásokért,
+g)[^75] nemzeti közműszolgáltatásokért,
 
 h) természetvédelemért,
 
@@ -28,10 +28,10 @@ l) vízügyi igazgatási szervek irányításáért
 
 felelős tagja.
 
-[^68]: A 60. § a) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^69]: A 60. § b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^70]: A 60. § c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^71]: A 60. § d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^72]: A 60. § e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^73]: A 60. § f) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^74]: A 60. § g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^69]: A 60. § a) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^70]: A 60. § b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^71]: A 60. § c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^72]: A 60. § d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^73]: A 60. § e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^74]: A 60. § f) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^75]: A 60. § g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.

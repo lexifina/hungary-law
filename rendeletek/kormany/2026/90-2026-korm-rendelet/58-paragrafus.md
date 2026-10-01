@@ -1,8 +1,8 @@
 58. § (1) A miniszter az egészségügyért való felelőssége keretében előkészíti
 
-a)[^61] a népegészségügyi feladatokra – beleértve az egészségmonitorozás, egészségvédelem, egészségfejlesztés, betegségmegelőzés és az egészség-egyenlőtlenségek csökkentésének feladatait –, és ezek végrehajtásának rendszerére, a 0–6 éves korosztályt, valamint a tankötelezettségét teljesítő korosztályt érintően az oktatási és gyermekügyi miniszterrel együttműködésben,
+a)[^62] a népegészségügyi feladatokra – beleértve az egészségmonitorozás, egészségvédelem, egészségfejlesztés, betegségmegelőzés és az egészség-egyenlőtlenségek csökkentésének feladatait –, és ezek végrehajtásának rendszerére, a 0–6 éves korosztályt, valamint a tankötelezettségét teljesítő korosztályt érintően az oktatási és gyermekügyi miniszterrel együttműködésben,
 
-b)[^62]
+b)[^63]
 
 c) az egészségügyi ágazat szervezetére és működésére, az egészségügyi ágazatban foglalkoztatottak jogállásával összefüggő egyes kérdésekre, a jogszabály szerinti tevékenységek végzéséhez szükséges egészségügyi alkalmasság feltételeire,
 
@@ -12,15 +12,15 @@ e) az emberi alkalmazásra kerülő gyógyszerek (a továbbiakban: gyógyszer) e
 
 f) a kábítószerként és pszichotróp anyagként minősített gyógyszerek forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának és felhasználásának szabályaira,
 
-g)[^63] a gyógyászati segédeszközökre, az orvostechnikai eszközök előállításának, forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának és alkalmazásának feltételeire, az orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetek kijelölésére, valamint a kijelölt szervezetek tevékenységére,
+g)[^64] a gyógyászati segédeszközökre, az orvostechnikai eszközök előállításának, forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának és alkalmazásának feltételeire, az orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetek kijelölésére, valamint a kijelölt szervezetek tevékenységére,
 
-h)[^64] az egészségügyben működő szakmai kamarákra,
+h)[^65] az egészségügyben működő szakmai kamarákra,
 
-i)[^65] az orvosi rehabilitációra, a hospice- és palliatív ellátásra
+i)[^66] az orvosi rehabilitációra, a hospice- és palliatív ellátásra
 
 vonatkozó jogszabályokat.
 
-(2)[^66] A miniszter az egészségügyért való felelőssége keretében
+(2)[^67] A miniszter az egészségügyért való felelőssége keretében
 
 a) irányítja, összehangolja és szervezi az egészségügyi ellátás országos rendszerét, gondoskodik az alapellátással, a járó- és fekvőbeteg-szakellátással, a sürgősségi ellátással, a mentéssel, a betegszállítással, a vérellátással és a transzplantációval kapcsolatos feladatok megvalósítása feltételrendszerének biztosításáról,
 
@@ -68,9 +68,9 @@ k) felel az egészségügyi válságkezelésért és egészségbiztonságért,
 
 l) felel az emberen végzett orvostudományi kutatásokért.
 
-[^61]: Az 58. § (1) bekezdés a) pontja a 139/2026. (VIII. 31.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^62]: Az 58. § (1) bekezdés b) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 11. pontja hatályon kívül helyezte.
-[^63]: Az 58. § (1) bekezdés g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 8. pontja szerint módosított szöveg.
-[^64]: Az 58. § (1) bekezdés h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^65]: Az 58. § (1) bekezdés i) pontját a 139/2026. (VIII. 31.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^66]: Az 58. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^62]: Az 58. § (1) bekezdés a) pontja a 139/2026. (VIII. 31.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^63]: Az 58. § (1) bekezdés b) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 11. pontja hatályon kívül helyezte.
+[^64]: Az 58. § (1) bekezdés g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 8. pontja szerint módosított szöveg.
+[^65]: Az 58. § (1) bekezdés h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^66]: Az 58. § (1) bekezdés i) pontját a 139/2026. (VIII. 31.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^67]: Az 58. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-175/A. §[^242] (1) A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége keretében előkészíti a köziratok kezelésére vonatkozó jogszabályokat.
+175/A. §[^246] (1) A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége keretében előkészíti a köziratok kezelésére vonatkozó jogszabályokat.
 
 (2) A miniszter a köziratok kezelésének szakmai irányításáért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) évente részletes szakmai tájékoztatót készít a közfeladatot ellátó 
 
 d) az elektronikus iratkezelés egységes bevezetéséhez szükséges informatikai feltételrendszer megteremtése érdekében folyamatosan gyűjti, rendszerezi és elemzi a közfeladatot ellátó szervek iratkezelésének informatikai feltételrendszerére, infrastruktúrájára vonatkozó adatokat, valamint kidolgozza az elektronikus iratkezelés egységes bevezetéséhez kapcsolódó koncepciókat.
 
-[^242]: A 175/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 79. §-a iktatta be.
+[^246]: A 175/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 79. §-a iktatta be.

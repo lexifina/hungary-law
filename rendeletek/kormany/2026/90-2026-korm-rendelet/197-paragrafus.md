@@ -1,4 +1,4 @@
-## 21.[^263] Gazdasági és Költségvetési Kabinet
+## 21.[^271] Gazdasági és Költségvetési Kabinet
 
 197. § (1) A Gazdasági és Költségvetési Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
@@ -106,4 +106,4 @@ való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező sze
 
 (3) A Gazdasági és Költségvetési Kabinet üléseit a pénzügyminiszter vezeti.
 
-[^263]: A 21. alcím (197. §) a 139/2026. (VIII. 31.) Korm. rendelet 90. §-ával megállapított szöveg.
+[^271]: A 21. alcím (197. §) a 139/2026. (VIII. 31.) Korm. rendelet 90. §-ával megállapított szöveg.

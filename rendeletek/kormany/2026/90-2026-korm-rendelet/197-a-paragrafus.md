@@ -1,4 +1,4 @@
-## 21/A.[^264] Fejlesztési Kabinet
+## 21/A.[^272] Fejlesztési Kabinet
 
 197/A. § (1) A Fejlesztési Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
@@ -66,4 +66,4 @@ való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező sze
 
 (4) A Fejlesztési Kabinet üléseit a közlekedési és beruházási miniszter vezeti.
 
-[^264]: A 21/A. alcímet (197/A. §-t) a 139/2026. (VIII. 31.) Korm. rendelet 91. §-a iktatta be.
+[^272]: A 21/A. alcímet (197/A. §-t) a 139/2026. (VIII. 31.) Korm. rendelet 91. §-a iktatta be.

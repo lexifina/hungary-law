@@ -1,6 +1,6 @@
 147. § (1) A miniszter a gyermekek és az ifjúság védelméért való felelőssége keretében előkészíti a gyermekek védelmére és a gyámügyre vonatkozó jogszabályokat.
 
-(2)[^197] A miniszter a gyermekek és az ifjúság védelméért való felelőssége keretében
+(2)[^200] A miniszter a gyermekek és az ifjúság védelméért való felelőssége keretében
 
 a) felel a Kormány gyermekek védelmével kapcsolatos politikájának kialakításáért és végrehajtásának koordinációjáért,
 
@@ -16,14 +16,14 @@ f) felel a gyermekvédelmi ágazat szakmai működésének, együttműködési r
 
 (3) A miniszter az örökbefogadás rendszerével kapcsolatos kormányzati feladatok tekintetében a Kormány gyermek- és ifjúságpolitikáért felelős tagja.
 
-(4)[^198] A miniszter a gyermekvédelmi intézményekben foglalkoztatott személyek pszichológiai alkalmassági vizsgálata tekintetében a Kormány közszolgálati életpálya kidolgozásáért felelős tagja.
+(4)[^201] A miniszter a gyermekvédelmi intézményekben foglalkoztatott személyek pszichológiai alkalmassági vizsgálata tekintetében a Kormány közszolgálati életpálya kidolgozásáért felelős tagja.
 
-(5)[^199] A miniszter a gyermekjogi politikáért való felelőssége körében
+(5)[^202] A miniszter a gyermekjogi politikáért való felelőssége körében
 
 a) felel a Kormány gyermekjogi politikájának kialakításáért és végrehajtásának koordinációjáért,
 
 b) előkészíti a gyermekjogi politika megvalósításához szükséges jogszabályokat.
 
-[^197]: A 147. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
-[^198]: A 147. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 60. § (2) bekezdése iktatta be.
-[^199]: A 147. § (5) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^200]: A 147. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^201]: A 147. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^202]: A 147. § (5) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 60. § (2) bekezdése iktatta be.

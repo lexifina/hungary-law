@@ -4,21 +4,21 @@ a) a környezet védelmének általános szabályaira,
 
 b) a környezet védelmét szolgáló gazdasági szabályozó eszközökre,
 
-c)[^86] a környezeti hatások vizsgálatára és a káros környezeti hatások megelőzésére,
+c)[^87] a környezeti hatások vizsgálatára és a káros környezeti hatások megelőzésére,
 
-d)[^87] az integrált szennyezés-megelőzésre,
+d)[^88] az integrált szennyezés-megelőzésre,
 
-e)[^88] a környezeti kármentesítésre,
+e)[^89] a környezeti kármentesítésre,
 
-f)[^89] a levegő védelmére,
+f)[^90] a levegő védelmére,
 
-g)[^90] a zaj és rezgés káros hatásai elleni védelemre,
+g)[^91] a zaj és rezgés káros hatásai elleni védelemre,
 
-h)[^91] a környezetre súlyos veszélyt jelentő anyagok és termékek, továbbá technológiák alkalmazására
+h)[^92] a környezetre súlyos veszélyt jelentő anyagok és termékek, továbbá technológiák alkalmazására
 
 vonatkozó jogszabályokat.
 
-(2)[^92] A miniszter a környezetvédelemért való felelőssége keretében
+(2)[^93] A miniszter a környezetvédelemért való felelőssége keretében
 
 a) felel a környezetvédelmi információs rendszerek kialakításáért és működtetéséért,
 
@@ -34,13 +34,13 @@ f) összehangolja a környezet állapotának felmérését és értékelését s
 
 g) összehangolja a meteorológiai feladatok ellátását, ideértve a levegőtisztaság-védelmi és az éghajlatkutatási tevékenységet.
 
-(3)[^93]
+(3)[^94]
 
-[^86]: A 64. § (1) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^87]: A 64. § (1) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^88]: A 64. § (1) bekezdés e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^89]: A 64. § (1) bekezdés f) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^90]: A 64. § (1) bekezdés g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^91]: A 64. § (1) bekezdés h) pontját a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdése iktatta be.
-[^92]: A 64. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^93]: A 64. § (3) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 96. § 12. pontja hatályon kívül helyezte.
+[^87]: A 64. § (1) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^88]: A 64. § (1) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^89]: A 64. § (1) bekezdés e) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^90]: A 64. § (1) bekezdés f) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^91]: A 64. § (1) bekezdés g) pontja a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^92]: A 64. § (1) bekezdés h) pontját a 139/2026. (VIII. 31.) Korm. rendelet 29. § (1) bekezdése iktatta be.
+[^93]: A 64. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^94]: A 64. § (3) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 96. § 12. pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-104. §[^137]
+104. §[^138]
 
-[^137]: A 104. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 20. pontja hatályon kívül helyezte.
+[^138]: A 104. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 20. pontja hatályon kívül helyezte.

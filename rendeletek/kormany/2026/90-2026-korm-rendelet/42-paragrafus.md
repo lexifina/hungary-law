@@ -20,8 +20,8 @@ b) biztosítja a RODOS valósidejű nukleárisbaleset-elhárítási döntéstám
 
 c) ellátja a NATO Reziliencia Bizottság (Resilience Committee) szerveivel való kapcsolattartást,
 
-d)[^50] irányítja a védelmi és biztonsági igazgatás – feladat- és hatáskörébe tartozó – egyes feladatainak ellátásában részt vevő szervek értesítésével összefüggő tevékenységeket,
+d)[^51] irányítja a védelmi és biztonsági igazgatás – feladat- és hatáskörébe tartozó – egyes feladatainak ellátásában részt vevő szervek értesítésével összefüggő tevékenységeket,
 
 e) gondoskodik a földtani veszélyhelyzet megelőzésével és elhárításával kapcsolatos feladatok ellátásáról.
 
-[^50]: A 42. § (2) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 6. pontja szerint módosított szöveg.
+[^51]: A 42. § (2) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 6. pontja szerint módosított szöveg.

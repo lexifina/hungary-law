@@ -1,4 +1,4 @@
-117. §[^158] (1) A miniszter a lakáspolitikáért való felelőssége körében
+117. §[^161] (1) A miniszter a lakáspolitikáért való felelőssége körében
 
 a) folyamatosan figyelemmel kíséri és elemzi a lakáspiaci folyamatokat,
 
@@ -14,4 +14,4 @@ f) együttműködik a pénzügyminiszterrel a lakásépítési és lakásfejlesz
 
 (2) A miniszter a magyar építészetről szóló 2023. évi C. törvény 194/A. §-ában foglalt, a FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó egy vagy több lakóépület megépítése érdekében magáncélú kiemelt beruházássá nyilvánított beruházásokra vonatkozó szabályokkal összefüggésben a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszternek minősül.
 
-[^158]: A 117. § a 139/2026. (VIII. 31.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^161]: A 117. § a 139/2026. (VIII. 31.) Korm. rendelet 48. §-ával megállapított szöveg.

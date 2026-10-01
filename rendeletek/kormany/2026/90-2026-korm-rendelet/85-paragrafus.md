@@ -1,6 +1,6 @@
-85. § (1)[^108] A miniszter – élelmiszerek vonatkozásában az agrár- és élelmiszergazdaságért felelős miniszterrel egyetértésben – a fogyasztóvédelemért való felelőssége keretében előkészíti a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmára, a fogyasztóvédelemre és a gazdasági reklámtevékenységre vonatkozó jogszabályokat.
+85. § (1)[^109] A miniszter – élelmiszerek vonatkozásában az agrár- és élelmiszergazdaságért felelős miniszterrel egyetértésben – a fogyasztóvédelemért való felelőssége keretében előkészíti a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmára, a fogyasztóvédelemre és a gazdasági reklámtevékenységre vonatkozó jogszabályokat.
 
-(2)[^109] A miniszter – a 29/A. §-ban meghatározott kivétellel – a fogyasztóvédelemért való felelőssége keretében
+(2)[^110] A miniszter – a 29/A. §-ban meghatározott kivétellel – a fogyasztóvédelemért való felelőssége keretében
 
 a) kidolgozza a fogyasztóvédelmi politika koncepcióját, a fogyasztóvédelemmel, valamint az általános termékbiztonsággal kapcsolatos cselekvési és szakmai programokat, és figyelemmel kíséri azok végrehajtását,
 
@@ -12,5 +12,5 @@ d) a Kormány feladatkörében érintett tagjának bevonásával intézkedéseke
 
 e) ellátja az intézményfejlesztési feladatokat az áruk és szolgáltatások biztonságossága és megfelelősége tekintetében.
 
-[^108]: A 85. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 12. pontja szerint módosított szöveg.
-[^109]: A 85. § (2) bekezdés nyitó szövegrésze a 139/2026. (VIII. 31.) Korm. rendelet 95. § 13. pontja szerint módosított szöveg.
+[^109]: A 85. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 12. pontja szerint módosított szöveg.
+[^110]: A 85. § (2) bekezdés nyitó szövegrésze a 139/2026. (VIII. 31.) Korm. rendelet 95. § 13. pontja szerint módosított szöveg.

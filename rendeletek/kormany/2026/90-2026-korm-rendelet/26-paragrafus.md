@@ -60,7 +60,7 @@ b)[^27] az EMGA, EMVA, ETHA és ETHAA források tervezésével és felhasználá
 
 c)[^28] az uniós agrár- és halászati támogatások intézkedései, a szükséges jogszabályok és pályázati felhívások elkészítését, módosítását,
 
-d) az e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és vármegyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
+d)[^29] az e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és megyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
 
 e) a KAP végrehajtását támogató hálózat kialakítását és működtetését,
 
@@ -68,9 +68,9 @@ f) az Európai Bizottsággal való kapcsolattartás, az európai uniós döntés
 
 g) a KAP keretében, valamint a kizárólag hazai forrásból nyújtott agrártámogatások felhasználásának lebonyolításáért felelős szervek döntéseivel összefüggésben – jogszabályban meghatározottak szerint – kezdeményezett jogorvoslati eljáráshoz kapcsolódó feladatokat,
 
-h)[^29] ellátja a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) kialakításával és koordinálásával, valamint az agrár-digitalizáció fejlesztésével összefüggő feladatokat.
+h)[^30] ellátja a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) kialakításával és koordinálásával, valamint az agrár-digitalizáció fejlesztésével összefüggő feladatokat.
 
-(4)[^30] A miniszter az agrárpolitikáért való felelősségi körében meghatározza a mezőgazdasági vízszolgáltatással kapcsolatos vízigényeket a 70. § (1) bekezdés g) pontjában foglaltak szerint.
+(4)[^31] A miniszter az agrárpolitikáért való felelősségi körében meghatározza a mezőgazdasági vízszolgáltatással kapcsolatos vízigényeket a 70. § (1) bekezdés g) pontjában foglaltak szerint.
 
 [^15]: A 26. § (1) bekezdés b) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 2. pontja hatályon kívül helyezte.
 [^16]: A 26. § (1) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
@@ -86,5 +86,6 @@ h)[^29] ellátja a mezőgazdasági ismeretek és innovációk rendszerének (AKI
 [^26]: A 26. § (2b) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^27]: A 26. § (3) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.
 [^28]: A 26. § (3) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^29]: A 26. § (3) bekezdés h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 4. pontja szerint módosított szöveg.
-[^30]: A 26. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^29]: A 26. § (3) bekezdés d) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 3. pontja szerint módosított szöveg.
+[^30]: A 26. § (3) bekezdés h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 4. pontja szerint módosított szöveg.
+[^31]: A 26. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 11. § (5) bekezdése iktatta be.

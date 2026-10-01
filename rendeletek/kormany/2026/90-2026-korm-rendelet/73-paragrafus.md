@@ -1,6 +1,6 @@
 73. § (1) A miniszter a víziközmű-szolgáltatásért való felelőssége keretében előkészíti a víziközmű-szolgáltatás közszolgáltatási tevékenységére és a víziközmű-működtetéshez kapcsolódó gazdálkodói tevékenységre vonatkozó jogszabályokat.
 
-(2)[^101] A miniszter a víziközmű-szolgáltatásért való felelőssége keretében
+(2)[^102] A miniszter a víziközmű-szolgáltatásért való felelőssége keretében
 
 a) a vidékfejlesztésért felelős miniszterrel együttműködve ellátja a víziközmű-szolgáltatási rendszer szervezésével és fejlesztésével kapcsolatos feladatokat,
 
@@ -10,4 +10,4 @@ c) az állami tulajdonú gazdasági társaságok irányításával segíti a ví
 
 d) részt vesz a víziközmű-szolgáltatás területén a települési önkormányzatok és a fogyasztók érdekvédelmi szerveivel való szakmai kapcsolattartásban.
 
-[^101]: A 73. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^102]: A 73. § (2) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
