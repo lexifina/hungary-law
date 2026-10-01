@@ -1,4 +1,4 @@
-80. §[^217] (1) A zár alá vett dologban tárolt adatokhoz történő hozzáférés, valamint az adatok adathordozóra történő mentése érdekében a menekültügyi hatóság – ha az eljárás lefolytatásához szükséges adatok megszerzése a saját szervezetén belül nem oldható meg – a Nemzetbiztonsági Szakszolgálatot keresi meg szakértői támogatás nyújtása érdekében.
+80. §[^218] (1) A zár alá vett dologban tárolt adatokhoz történő hozzáférés, valamint az adatok adathordozóra történő mentése érdekében a menekültügyi hatóság – ha az eljárás lefolytatásához szükséges adatok megszerzése a saját szervezetén belül nem oldható meg – a Nemzetbiztonsági Szakszolgálatot keresi meg szakértői támogatás nyújtása érdekében.
 
 (2) A Nemzetbiztonsági Szakszolgálat az (1) bekezdésben meghatározott szakértői támogatást a saját létesítményében nyújtja a rendelkezésre álló erőforrások figyelembevételével.
 
@@ -8,4 +8,4 @@
 
 (5) A menekültügyi hatóság a Nemzetbiztonsági Szakszolgálattól átvett adathordózó adatait az elismerését kérő személyazonosságának megállapítását követően haladéktalanul törli.
 
-[^217]: A 80. §-t újonnan a 375/2020. (VII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^218]: A 80. §-t újonnan a 375/2020. (VII. 30.) Korm. rendelet 2. §-a iktatta be.

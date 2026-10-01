@@ -1,6 +1,6 @@
 ## Egészségügyi ellátás
 
-44. §[^130] (1)[^131] Ha a menekült vagy az oltalmazott nem áll társadalombiztosítási jogviszonyban, az elismerésről szóló határozat véglegessé válásától számított hat hónapig egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
+44. §[^131] (1)[^132] Ha a menekült vagy az oltalmazott nem áll társadalombiztosítási jogviszonyban, az elismerésről szóló határozat véglegessé válásától számított hat hónapig egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
 
 (2) Ha a menedékes nem áll társadalombiztosítási jogviszonyban, egészségügyi ellátásra a 26–28. §-ban foglaltak szerint jogosult.
 
@@ -14,5 +14,5 @@
 
 (7) A befogadott esetében a háziorvosi ellátás és egészségügyi szakellátás igénybevételére egyebekben a 27. § (1), (2) és (4) bekezdése, míg a költségek megtérítésére a 28. § az irányadó.
 
-[^130]: A 44. § a 113/2016. (V. 30.) Korm. rendelet 73. §-ával megállapított szöveg.
-[^131]: A 44. § (1) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 53. § f) pontja szerint módosított szöveg.
+[^131]: A 44. § a 113/2016. (V. 30.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^132]: A 44. § (1) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 53. § f) pontja szerint módosított szöveg.

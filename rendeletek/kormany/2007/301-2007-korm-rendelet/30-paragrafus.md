@@ -1,3 +1,3 @@
-30. §[^80]
+30. §[^81]
 
-[^80]: A 30. §-t és az azt megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^81]: A 30. §-t és az azt megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.

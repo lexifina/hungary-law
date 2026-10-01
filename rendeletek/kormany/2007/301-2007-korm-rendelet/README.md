@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2023-03-07 | 2007-301-20-22.41 | 15/2013. (I. 28.) Korm. rendelet |
 | 2024-03-01 | 2007-301-20-22.43 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2025-12-09 | 2007-301-20-22.44 | 479/2024. (XII. 31.) Korm. rendelet |
+| 2026-10-01 | 2007-301-20-22.45 | 171/2026. (IX. 21.) Korm. rendelet |

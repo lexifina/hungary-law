@@ -1,6 +1,6 @@
-## A menekültügyi őrizet[^90]
+## A menekültügyi őrizet[^91]
 
-36/A. §[^91] (1) A menekültügyi hatóság a menekültügyi őrizet (a továbbiakban: őrizet) végrehajtására szolgáló, a Tv. 31/A. § (10) bekezdése szerinti menekültügyi őrzött befogadó központban hajtja végre az őrizetet.
+36/A. §[^92] (1) A menekültügyi hatóság a menekültügyi őrizet (a továbbiakban: őrizet) végrehajtására szolgáló, a Tv. 31/A. § (10) bekezdése szerinti menekültügyi őrzött befogadó központban hajtja végre az őrizetet.
 
 (2) Az őrizet időtartamát órákban kell számítani. Ha a járásbíróság az őrizetet meghosszabbítja, azt napokban kell számolni. Az őrizet tartamába minden megkezdett nap beleszámít.
 
@@ -10,5 +10,5 @@
 
 (5) A menekültügyi hatóság őrizetet meghosszabbító indítványát megküldi a kérelmező jogi képviselőjének, vagy a számára kirendelt ügygondnoknak.
 
-[^90]: A 36/A. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 42. §-a iktatta be.
-[^91]: A 36/A. §-t a 221/2013. (VI. 24.) Korm. rendelet 42. §-a iktatta be.
+[^91]: A 36/A. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 42. §-a iktatta be.
+[^92]: A 36/A. §-t a 221/2013. (VI. 24.) Korm. rendelet 42. §-a iktatta be.

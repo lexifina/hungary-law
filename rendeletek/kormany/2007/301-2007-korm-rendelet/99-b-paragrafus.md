@@ -1,5 +1,5 @@
-## VII/A. Fejezet[^240]
+## VII/A. Fejezet[^241]
 
 ## TÖMEGES BEVÁNDORLÁS OKOZTA VÁLSÁGHELYZET ESETÉN ALKALMAZANDÓ SZABÁLYOK
 
-[^240]: A VII/A. fejezetet (99/B–99/K. §) a 70/2017. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^241]: A VII/A. fejezetet (99/B–99/K. §) a 70/2017. (III. 31.) Korm. rendelet 5. §-a iktatta be.

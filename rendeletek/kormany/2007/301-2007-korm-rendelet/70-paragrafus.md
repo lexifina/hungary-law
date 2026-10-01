@@ -1,6 +1,6 @@
 ## A bizonyítás szabályai
 
-70. § (1)[^197] A Kormány az országinformáció szolgáltatásáért felelős szervként (a továbbiakban: országinformációs központ) az Országos Idegenrendészeti Főigazgatóságot jelöli ki.
+70. § (1)[^198] A Kormány az országinformáció szolgáltatásáért felelős szervként (a továbbiakban: országinformációs központ) az Országos Idegenrendészeti Főigazgatóságot jelöli ki.
 
 (2) Az országinformációs központ
 
@@ -26,7 +26,7 @@ részére készít országinformációs jelentést.
 
 (6) Az országinformációs központ nem foglalhat állást jogkérdésben, valamint az elismerés iránti kérelemre vonatkozó döntés vagy az elismerés visszavonása kérdésében.
 
-(7)[^198] Az országinformációs központ az országinformációs jelentés iránti megkeresésnek legkésőbb tizenöt napon belül tesz eleget.
+(7)[^199] Az országinformációs központ az országinformációs jelentés iránti megkeresésnek legkésőbb tizenöt napon belül tesz eleget.
 
 (8) Az országinformációs központ az információgyűjtést, valamint a jelentés készítését objektíven, pártatlanul és pontosan végzi. Ennek érdekében
 
@@ -42,5 +42,5 @@ b) a valós helyzetet már nem tükröző, elavult információk helyesbítésé
 
 (10) Az országinformációs központ együttműködési megállapodást köthet külföldi állam országinformációs szolgáltatást nyújtó hatóságával vagy szervével.
 
-[^197]: A 70. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^198]: A 70. § (7) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 114. §-ával megállapított szöveg.
+[^198]: A 70. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^199]: A 70. § (7) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 114. §-ával megállapított szöveg.

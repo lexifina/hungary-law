@@ -1,18 +1,18 @@
-## 73. §[^200] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogorvoslattal tovább nem támadható döntés meghozataláig áll fenn.
+## 73. §[^201] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogorvoslattal tovább nem támadható döntés meghozataláig áll fenn.
 
-74. § (1)[^201] Az eljárási képességgel nem rendelkező elismerését kérőt törvényes képviselője vagy ügygondnoka vagy gyermekvédelmi gyámja jelenlétében kell meghallgatni.
+74. § (1)[^202] Az eljárási képességgel nem rendelkező elismerését kérőt törvényes képviselője vagy ügygondnoka vagy gyermekvédelmi gyámja jelenlétében kell meghallgatni.
 
-(1a)[^202] A kiskorú menedékkérő meghallgatásának a gyermek életkorának és érettségének megfelelően, számára érthető módon, a nemi és kulturális sajátosságok figyelembevételével kell történnie.
+(1a)[^203] A kiskorú menedékkérő meghallgatásának a gyermek életkorának és érettségének megfelelően, számára érthető módon, a nemi és kulturális sajátosságok figyelembevételével kell történnie.
 
-(1b)[^203] Ha a kiskorú ismételt meghallgatására van szükség, a meghallgatást lehetőleg ugyanannak a személynek kell elvégeznie.
+(1b)[^204] Ha a kiskorú ismételt meghallgatására van szükség, a meghallgatást lehetőleg ugyanannak a személynek kell elvégeznie.
 
-(1c)[^204] Tizennégy év alatti gyermek meghallgatását lehetőleg gyermekbarát meghallgatóhelyen kell elvégezni.
+(1c)[^205] Tizennégy év alatti gyermek meghallgatását lehetőleg gyermekbarát meghallgatóhelyen kell elvégezni.
 
-(1d)[^205] A kiskorú meghallgatását végző személynek rendelkeznie kell a kiskorú meghallgatásához szükséges ismeretekkel.
+(1d)[^206] A kiskorú meghallgatását végző személynek rendelkeznie kell a kiskorú meghallgatásához szükséges ismeretekkel.
 
-(2)[^206] Az ügygondnok vagy gyermekvédelmi gyám a személyes meghallgatásról, az arra való felkészülés módjáról, valamint annak következményeiről az elismerését kérőt tájékoztatni köteles.
+(2)[^207] Az ügygondnok vagy gyermekvédelmi gyám a személyes meghallgatásról, az arra való felkészülés módjáról, valamint annak következményeiről az elismerését kérőt tájékoztatni köteles.
 
-(3)[^207] Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok vagy eseti gyám kirendelését kérni.
+(3)[^208] Ha az eljárási képességgel nem rendelkező elismerését kérő törvényes képviselőjének a személyes meghallgatáson való jelenléte a tényállás tisztázását akadályozná, a menekültügyi hatóság köteles eseti gondnok vagy eseti gyám kirendelését kérni.
 
 (4) Az eljárási képességgel rendelkező családtagokat külön-külön kell meghallgatni. Ha a tényállás tisztázása érdekében szükséges, a menekültügyi hatóság a családtagokat egymás jelenlétében is meghallgatja.
 
@@ -28,14 +28,14 @@ a) a meghallgatás idejére a menekültügyi hatóság kizárólagos használat�
 
 b) az elismerését kérő személyes meghallgatáson történő megjelenéséről.
 
-(9)[^208] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
+(9)[^209] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
 
-[^200]: A 73. § a 204/2015. (VII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^201]: A 74. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
-[^202]: A 74. § (1a) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
-[^203]: A 74. § (1b) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
-[^204]: A 74. § (1c) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
-[^205]: A 74. § (1d) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
-[^206]: A 74. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
-[^207]: A 74. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^208]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.
+[^201]: A 73. § a 204/2015. (VII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^202]: A 74. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^203]: A 74. § (1a) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
+[^204]: A 74. § (1b) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
+[^205]: A 74. § (1c) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
+[^206]: A 74. § (1d) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 48. §-a iktatta be.
+[^207]: A 74. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^208]: A 74. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^209]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.

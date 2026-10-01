@@ -1,3 +1,3 @@
-47. §[^135]
+47. §[^136]
 
-[^135]: A 47. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^136]: A 47. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés f) pontja hatályon kívül helyezte.
