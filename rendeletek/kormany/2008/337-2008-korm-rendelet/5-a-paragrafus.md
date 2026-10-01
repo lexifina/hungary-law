@@ -8,7 +8,7 @@
 
 a)[^98] a Magyar Honvédség Egészségügyi Központ,
 
-b)[^99] a Terrorelhárítási Központ,
+b)[^99] az általános rendőrségi feladatok ellátására létrehozott szerv egyes feladatok ellátására létrehozott szerveként működő Terrorelhárítási Központ,
 
 c) a Vasútegészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Korlátolt Felelősségű Társaság,
 
@@ -67,7 +67,7 @@ esetében.
 [^96]: Az 5/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^97]: Az 5/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^98]: Az 5/A. § (2) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.
-[^99]: Az 5/A. § (2) bekezdés b) pontját a 325/2011. (XII. 28.) Korm. rendelet 73. §-a hatályon kívül helyezte, újonnan a 364/2014. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^99]: Az 5/A. § (2) bekezdés b) pontját a 325/2011. (XII. 28.) Korm. rendelet 73. §-a hatályon kívül helyezte, újonnan a 364/2014. (XII. 30.) Korm. rendelet 64. §-a iktatta be, szövege a 174/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^100]: Az 5/A. § (2) bekezdés f) pontja a 297/2013. (VII. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
 [^101]: Az 5/A. § (2) bekezdés h) pontját az 570/2022. (XII. 23.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^102]: Az 5/A. § (3a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (2) bekezdése iktatta be.

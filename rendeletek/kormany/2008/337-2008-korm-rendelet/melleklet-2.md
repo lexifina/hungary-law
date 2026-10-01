@@ -20,6 +20,4 @@
 
 A fekvőbeteg-szakellátásban finanszírozható szakmák köre
 
-A) Aktív fekvőbeteg-szakellátás
-
 [^295]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.

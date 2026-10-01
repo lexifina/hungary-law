@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2025-02-07 | 2008-337-20-22.59 | 8/2025. (II. 6.) Korm. rendelet |
 | 2026-01-01 | 2008-337-20-22.61 | 380/2025. (XII. 3.) Korm. rendelet |
 | 2026-03-01 | 2008-337-20-22.60 | 351/2025. (XI. 12.) Korm. rendelet |
+| 2026-10-01 | 2008-337-20-22.62 | 325/2011. (XII. 28.) Korm. rendelet |

@@ -1,3 +1,5 @@
+## A) Aktív fekvőbeteg-szakellátás
+
 |  | A | B |
 
 | 1 | Szakma kód | Szakma megnevezése |
