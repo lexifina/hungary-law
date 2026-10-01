@@ -12,7 +12,7 @@ irányítja.
 
 a) a Legfőbb Ügyészség az összes ügyészi szerv;
 
-b) a főügyészség a vármegye (főváros) területén működő járási ügyészségek
+b) a főügyészség a megye (főváros) területén működő járási ügyészségek
 
 tekintetében.
 
