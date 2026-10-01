@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-181-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 2007-181-00-00.17 |
 | 2024-03-09 | 2024. évi II. törvény | 2007-181-00-00.18 |
 | 2026-06-29 | 2026. évi XVIII. törvény | 2007-181-00-00.19 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2007-181-00-00.20 |

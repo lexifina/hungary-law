@@ -22,7 +22,7 @@ db) a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök
 
 dc) az országgyűlési képviselő és a Magyarországon megválasztott európai parlamenti képviselő,
 
-dd) a polgármester, a főpolgármester, továbbá a vármegyei közgyűlés elnöke,
+dd) a polgármester, a főpolgármester, továbbá a megyei közgyűlés elnöke,
 
 de) a db) alpont alá nem eső további, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő,
 
@@ -38,7 +38,7 @@ dj) a területfejlesztésről és a területrendezésről szóló törvény ált
 
 e) nem kizárt közjogi tisztségviselő:
 
-ea) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja, a helyi önkormányzat képviselő-testülete bizottságának tagja, valamint a vármegyei közgyűlés tagja, az alpolgármester, illetve a főpolgármester-helyettes,
+ea) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja, a helyi önkormányzat képviselő-testülete bizottságának tagja, valamint a megyei közgyűlés tagja, az alpolgármester, illetve a főpolgármester-helyettes,
 
 eb) a nemzetiségi szószóló, az országgyűlési képviselői mandátummal nem rendelkező háznagy,
 
