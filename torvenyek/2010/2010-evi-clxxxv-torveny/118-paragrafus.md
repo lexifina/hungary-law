@@ -2,11 +2,11 @@
 
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
-a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
+a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 
 b) a Testületnek és a Közszolgálati Tanácsnak az elnöke, tagja, a közszolgálati médiaszolgáltató és a közszolgálati médiatartalom-szolgáltató vezérigazgatója, vezérigazgató-helyettese, felügyelőbizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 
-c) helyi vagy vármegyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 
 d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
 

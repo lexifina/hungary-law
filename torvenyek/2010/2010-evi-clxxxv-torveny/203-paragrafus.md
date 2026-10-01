@@ -186,6 +186,10 @@ h) azon filmalkotás, amely az Mktv. értelmében magyarnak minősül.
 
 55. Politikai reklám: valamely párt, politikai mozgalom vagy a kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
 
+55a. Politikai hirdetés: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, sajtótermékben ellenérték fejében közzétett médiatartalom vagy filmszínházban közzétett audiovizuális tartalom.
+
+55b. Politikai plakát: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő falragasz, felirat, szórólap, vetített kép, embléma mérettől és hordozóanyagtól függetlenül.
+
 56. Politikai tájékoztató műsorszám: időtartama legalább kilencven százalékában a magyarországi és a nemzetközi politikai, vagy aktuális közéleti eseményeket elemző, bemutató, azokat értékelő, hátterüket feltáró, hírműsorszámnak nem minősülő műsorszám.
 
 57. Programcsomag: a műsorterjesztő által az előfizető számára egy csoportban kínált vagy nyújtott médiaszolgáltatások.

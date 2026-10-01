@@ -12,6 +12,10 @@ figyelemfelhívás.
 
 (3) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
 
+(3a) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért az Smtv. 17. § (4) és (5) bekezdésében foglaltak kivételével a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
+
+(3b) A (3a) bekezdésben meghatározott időszakon kívül politikai reklám és politikai hirdetés közzététele tilos. A közzétett, tartalma alapján politikai reklámnak minősülő műsorszám miatt a Médiatanács a 182. § szerinti hatósági hatáskörében jár el.
+
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 
 (4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek megfelelő fizikai, szellemi és erkölcsi fejlődésének a kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése.
@@ -23,5 +27,9 @@ figyelemfelhívás.
 (7) A közérdekű közlemény időtartama az egy percet nem haladhatja meg. E korlátozás nem vonatkozik a 15. §, illetve a (6) bekezdés szerinti közérdekű közleményre.
 
 (8) A médiaszolgáltató kérelmére a Médiatanács – a kérelem beérkezésétől számított tizenöt napon belül, igazgatási szolgáltatási díj ellenében – hatósági határozatában dönt, hogy a kérelem tárgyát képező közlemény közérdekű közleménynek, társadalmi célú reklámnak vagy politikai reklámnak minősül-e.
+
+(8a) A médiaszolgáltató kérelmére a Médiatanács – a kérelem beérkezésétől számított tizenöt napon belül, igazgatási szolgáltatási díj ellenében – hatósági határozatában dönt arról, hogy a kérelem tárgyát képező közlemény az Smtv. 17. § (4) és (5) bekezdése szerinti tiltott politikai reklámnak, tiltott közérdekű közleménynek vagy tiltott társadalmi célú reklámnak minősül-e.
+
+(8b) A médiaszolgáltató a Médiatanács (8a) bekezdés szerinti határozatában foglaltakat köteles figyelembe venni. Amennyiben a közleményt a Médiatanács tiltott politikai reklámmá, tiltott közérdekű közleménnyé vagy tiltott társadalmi célú reklámmá minősíti, akkor a médiaszolgáltató azt nem teheti közzé, amennyiben mégis közzéteszi, annak tartalmáért felelős.
 
 (9) Nem minősül burkolt kereskedelmi közleménynek valamely vállalkozás társadalmú célú, közérdekű szerepvállalásáról történő tájékoztatás, azonban az ilyen beszámolókban kizárólag a vállalkozás neve, logója és védjegye tüntethető fel, valamint – amennyiben a társadalmi szerepvállaláshoz szorosan kapcsolódik – terméke, szolgáltatása jeleníthető meg. Nem jelenhet meg a beszámolóban a vállalkozás jelszava, kereskedelmi közlemény részlete, és a tájékoztatás nem ösztönözhet kifejezetten a vállalkozás termékének megvásárlására, vagy szolgáltatásának igénybevételére.

@@ -20,7 +20,7 @@ bf) a kereskedelmi közleményekre vonatkozó, 23–25. §-ban meghatározott el
 
 bg) a termékmegjelenítésre vonatkozó rendelkezések,
 
-bh) a politikai reklámra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések [a 32. § (7) bekezdésben foglaltak kivételével],
+bh) a politikai reklámra, politikai hirdetésre, politikai plakátra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések [a 32. § (7) bekezdésében foglaltak kivételével],
 
 bi) a reklámra és televíziós vásárlásra vonatkozó, 33. §-ban foglalt kötelezettségek,
 

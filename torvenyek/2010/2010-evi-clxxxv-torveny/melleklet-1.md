@@ -41,7 +41,3 @@ q) a környezet-, természet- állatvédelmi és fenntartható fejlődéssel fog
 2. Az 1. pont 1.1. alpont a)–i) pontjában meghatározott szervezetek egy-egy főt delegálhatnak.
 
 3. Az 1. pont 1.1. alpont j)–q) pontjában meghatározott szervezetek abban az esetben vehetnek részt a delegálásban, ha a jelölés előtt legkésőbb harminc nappal nyilvántartásba vetették magukat a Hivatalnál. A Hivatal a nyilvántartásba vételről hatósági határozatban dönt, amely döntéssel szemben fellebbezésre nincsen mód, annak felülvizsgálatát bíróság előtt lehet kérni.
-
-4. Az 1. pont 1.1. alpont j)–o) és q) pontjában meghatározott szervezetek egy-egy főt delegálhatnak oly módon, hogy az egyazon pont alatt megjelölt szervezetek összesen egy főt delegálhatnak. Az egyazon pont alatt megjelölt és regisztrált szervezetek egymással megállapodhatnak a delegált személyt illetően. Amennyiben ilyen megállapodás nem születik, a Hivatal sorsolással dönti el, hogy melyik szervezet jelöltje delegálható.
-
-5. Az 1. pont 1.1. alpont p) pontjában meghatározott szervezetek két főt delegálhatnak.
