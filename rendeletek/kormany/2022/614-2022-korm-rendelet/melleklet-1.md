@@ -1,4 +1,4 @@
-1. melléklet a 614/2022. (XII. 29.) Korm. rendelethez[^20]
+1. melléklet a 614/2022. (XII. 29.) Korm. rendelethez[^26]
 
 Meghagyási névjegyzék formátumára vonatkozó követelmények
 
@@ -16,4 +16,4 @@ Meghagyási névjegyzék formátumára vonatkozó követelmények
 
 5. A 3. pont szerinti adatokat adatállományonként az 1. pontban meghatározott formátumban kell előkészíteni, és a 2. pont szerint továbbítani. Az adatszolgáltatást Windows karakterkódolással (1250-es kódlap) kell teljesíteni.
 
-[^20]: Az 1. melléklet a 479/2025. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet a 479/2025. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

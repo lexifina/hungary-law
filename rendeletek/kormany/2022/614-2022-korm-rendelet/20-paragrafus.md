@@ -20,7 +20,7 @@ f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képvis
 
 g) aki honvédelmi szervezet hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban áll,
 
-h) aki az Országgyűlési Őrség, polgári nemzetbiztonsági szolgálat vagy rendvédelmi szerv hivatásos, vagy szerződéses állományú tagja,
+h)[^10] aki polgári nemzetbiztonsági szolgálat vagy rendvédelmi szerv hivatásos, vagy szerződéses állományú tagja,
 
 i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít, amennyiben közös háztartásban élő kiskorú gyermeket nevelnek,
 
@@ -35,3 +35,5 @@ m) aki 3 évet meghaladó szabadságelvonással járó büntetést tölt, illetv
 n) akit állam elleni bűncselekmény miatt bármilyen tartamú szabadságvesztésre ítéltek.
 
 (2) Az (1) bekezdés b) pontjának alkalmazása szempontjából nevelt gyermek az, akit a hadköteles legalább egy éve tart el saját háztartásában.
+
+[^10]: A 20. § (1) bekezdés h) pontja a 212/2026. (IX. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.

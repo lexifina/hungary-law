@@ -2,7 +2,7 @@
 
 a) hatáskörében végzi a légiriasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési és szervezési feladatokat,
 
-b) együttműködik a miniszterrel, az elektronikus hírközlésért felelős miniszterrel, a BM OKF-fel, a Terrorelhárítási Központtal (a továbbiakban: TEK) és az MTVA-val,
+b)[^19] együttműködik a miniszterrel, az elektronikus hírközlésért felelős miniszterrel, a BM OKF-fel, az általános rendőrségi feladatok ellátására létrehozott szervvel (a továbbiakban: Rendőrség) és az MTVA-val,
 
 c) az MTVA-val egyeztetve szervezi és felügyeli a műsorszóró hálózatra telepített átkapcsoló rendszer üzempróbáit,
 
@@ -19,3 +19,5 @@ h) végzi – a miniszterrel egyetértésben – a légiriasztásban érintett s
 i) vezeti és koordinálja – a miniszterrel egyetértésben – a légiriasztási rendszert érintő rombolások, üzemkiesések helyreállításával összefüggő döntések végrehajtását,
 
 j) a költségvetés tervezése során gondoskodik az a)–i) pont szerinti feladatok végrehajtásának fedezetéről.
+
+[^19]: A 30. § b) pontja a 212/2026. (IX. 21.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
