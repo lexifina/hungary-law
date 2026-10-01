@@ -6,11 +6,11 @@
 
 (3) Az ORFK dönt
 
-a)[^8] a rendőr-főkapitányság és az RRI vagy a KR;
+a)[^8] a rendőr-főkapitányság és az RRI vagy az NNI,
 
-b)[^9] a rendőrkapitányság és az RRI vagy a KR; továbbá
+b)[^9] a rendőrkapitányság és az RRI vagy az NNI, továbbá
 
-c)[^10] a vízirendészeti rendőrkapitányság és a KR
+c)[^10] a vízirendészeti rendőrkapitányság és az NNI
 
 közötti hatásköri összeütközés esetén az eljáró nyomozó hatóság kijelöléséről.
 
@@ -37,6 +37,6 @@ c) a rendőr-főkapitányság illetékességi területén lévő rendőrkapitán
 összeütközés esetén az eljáró nyomozó hatóság kijelöléséről.
 
 [^7]: A 4. § (2) bekezdése a 21/2018. (VI. 29.) BM rendelet 12. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (3) bekezdés a) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^9]: A 4. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^10]: A 4. § (3) bekezdés c) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés a) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 4. pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 5. pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdés c) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja, a 23/2026. (IX. 30.) BM rendelet 30. § 6. pontja szerint módosított szöveg.

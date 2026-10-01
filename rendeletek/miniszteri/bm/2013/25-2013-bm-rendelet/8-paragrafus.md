@@ -4,7 +4,7 @@
 
 (3) A 7. §-ban, valamint az (1) és a (2) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és az eredetileg hatáskörrel vagy illetékességgel rendelkező nyomozó hatóság vezetője részére meg kell küldeni.
 
-(4)[^14] Ha a bűncselekmény nyomozását a 7. § (3) bekezdése alapján a KR NNI hatáskörébe vonta, a KR NNI vezetője erről jelentést tesz a bűnügyi országos rendőrfőkapitány-helyettesnek.
+(4)[^14] Ha a bűncselekmény nyomozását a 7. § (3) bekezdése alapján az NNI hatáskörébe vonta, az NNI vezetője erről jelentést tesz a bűnügyi országos rendőrfőkapitány-helyettesnek.
 
 [^13]: A 8. § (2) bekezdése a 21/2018. (VI. 29.) BM rendelet 10. §-ával megállapított szöveg.
-[^14]: A 8. § (4) bekezdését a 62/2024. (XII. 30.) BM rendelet 22. §-a iktatta be.
+[^14]: A 8. § (4) bekezdését a 62/2024. (XII. 30.) BM rendelet 22. §-a iktatta be, szövege a 23/2026. (IX. 30.) BM rendelet 30. § 8. pontja szerint módosított szöveg.
