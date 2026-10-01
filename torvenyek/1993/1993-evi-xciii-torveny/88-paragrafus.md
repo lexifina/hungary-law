@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezet, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság, továbbá a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait, valamint a munkavédelmi hatósági ellenőrzésre jogosító képzés és vizsga részletes szabályait rendeletben határozza meg;
+a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezet, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság, továbbá a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait, valamint a munkavédelmi hatósági ellenőrzésre jogosító képzés és vizsga részletes szabályait rendeletben határozza meg;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
@@ -124,7 +124,7 @@ részletes szabályait.
 
 (5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló részletes szabályokat.
 
-(5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+(5a)
 
 (5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 

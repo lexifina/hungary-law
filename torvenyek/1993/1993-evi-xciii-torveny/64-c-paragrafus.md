@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti bejelentés céljára rendszeresített nyomtatványt és a kitöltési útmutatót a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzéteszi. Az (1) bekezdés szerinti bejelentés tartalmazza:
 
-a) a bejelentésazonosítót, a vármegye kódját, a bejelentő nevét, címét, telefonszámát, a bejelentés dátumát,
+a) a bejelentésazonosítót, a megye kódját, a bejelentő nevét, címét, telefonszámát, a bejelentés dátumát,
 
 b) a keresőképességre vonatkozó információt, az előfordulás egyedi vagy tömeges jellegét,
 
