@@ -20,7 +20,7 @@ c) az állami adóhatóság vagy vámhatóság feladatkörébe tartozó terület
 
 (5) Nem választható meg a Hivatal elnökévé, illetve elnökhelyettesévé az, aki a megválasztása napját megelőző hat évben
 
-a) köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, helyi vagy vármegyei önkormányzati képviselő, nemzetiségi önkormányzati képviselő, polgármester vagy alpolgármester, főpolgármester vagy főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnöke volt,
+a) köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, helyi vagy megyei önkormányzati képviselő, nemzetiségi önkormányzati képviselő, polgármester vagy alpolgármester, főpolgármester vagy főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke volt,
 
 b) a Kormány tagja, politikai felsővezető, politikai vezető, kormánybiztos, miniszterelnöki biztos vagy miniszteri biztos volt, vagy
 

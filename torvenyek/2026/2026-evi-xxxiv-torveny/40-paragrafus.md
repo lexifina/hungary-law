@@ -24,7 +24,7 @@ i) szakértőt, szaktanácsadót vagy más szakmai közreműködőt vehet igény
 
 (4) A közvagyonvédelmi vizsgálat során a Hivatallal együttműködni köteles
 
-a) a központi államigazgatási szerv és annak területi, helyi szerve, továbbá a fővárosi és vármegyei kormányhivatal, a honvédelmi szervezet, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és ezek hivatala,
+a) a központi államigazgatási szerv és annak területi, helyi szerve, továbbá a fővárosi és megyei kormányhivatal, a honvédelmi szervezet, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és ezek hivatala,
 
 b) a központi vagy önkormányzati költségvetési szerv, a költségvetési fejezetet irányító szerv, a fejezeti kezelésű előirányzat és központi kezelésű előirányzat kezelő szerve, a támogatást kezelő, nyújtásában közreműködő vagy azt ellenőrző szervezet,
 
