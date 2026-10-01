@@ -4,7 +4,7 @@
 
 a) legalább 10 milliárd forint teljes költségigényű,
 
-b) Magyarország, vagy legalább egy vármegye területének jelentős részére kiható gazdasági jelentőségű, és
+b) Magyarország, vagy legalább egy megye területének jelentős részére kiható gazdasági jelentőségű, és
 
 c) munkahelyek tömeges elvesztésének elkerülését vagy új munkahelyek létesítését szolgálja.
 

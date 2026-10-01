@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 2007-123-00-00.48 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2007-123-00-00.43 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2007-123-00-00.47 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2007-123-00-00.50 |
