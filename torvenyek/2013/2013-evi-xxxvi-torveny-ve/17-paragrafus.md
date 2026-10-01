@@ -4,7 +4,7 @@ a) a szavazatszámláló bizottságnak és a helyi választási bizottságnak cs
 
 b) az országgyűlési egyéni választókerületi választási bizottságnak csak az országgyűlési egyéni választókerületben,
 
-c) a területi választási bizottságnak csak a vármegyében, illetve a fővárosban,
+c) a területi választási bizottságnak csak a megyében, illetve a fővárosban,
 
 d) a Nemzeti Választási Bizottságnak csak
 

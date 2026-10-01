@@ -2,6 +2,10 @@
 
 (2) A sajtótermékben közzétett politikai hirdetésnek azonnal felismerhetőnek és más médiatartalmaktól megkülönböztethetőnek kell lennie. A politikai hirdetésen fel kell tüntetni megrendelőjének nevét és lakóhelyét, illetve székhelyét.
 
+(2a) A politikai hirdetés tartalmában vagy képi megjelenítésében nem irányulhat az egyenlő emberi méltóság eltagadására vagy megsértésére, vagy valamely nemzet, a nemzeti, etnikai, faji vagy vallási közösség méltóságának megsértésére vagy tagadására, vagy valamely közösség kollektív bűnösségének közvetítésére, vagy bármilyen módon gyűlölet keltésére alkalmas társadalmi ellenségkép kialakítására.
+
+(2b) Politikai hirdetés keretében nem tehető közzé kiskorúak testi, szellemi, erkölcsi vagy érzelmi fejlődésére káros képi vagy szöveges tartalom.
+
 (3) Amennyiben sajtótermék politikai hirdetést kíván közölni, a szavazást megelőző hatvanadik napig az Állami Számvevőszékhez eljuttatja hirdetési szolgáltatásainak árjegyzékét, amelyet az nyilvántartásba vesz, és honlapján közzétesz. A sajtótermék ugyanezt az árjegyzékét a honlapján közzéteszi.
 
 (4) Politikai hirdetést kizárólag olyan sajtótermék közölhet, amelynek hirdetési árjegyzékét az Állami Számvevőszék nyilvántartásba vette. Politikai hirdetés csak a nyilvántartásba vett árjegyzék által meghatározott ellenérték fejében közölhető. Magyarországon letelepedett kiadók sajtótermékei közül csak az közölhet politikai hirdetést, amely az Mttv. szerinti hatósági nyilvántartásban szerepel.

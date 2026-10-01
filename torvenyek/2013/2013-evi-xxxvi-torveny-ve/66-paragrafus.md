@@ -1,6 +1,6 @@
 ## 32. Az egyéb választási irodákra vonatkozó rendelkezések
 
-66. § (1) A területi választási iroda vezetője a vármegyei önkormányzat jegyzője, illetve a fővárosi önkormányzat főjegyzője.
+66. § (1) A területi választási iroda vezetője a megyei önkormányzat jegyzője, illetve a fővárosi önkormányzat főjegyzője.
 
 (2) Az országgyűlési egyéni választókerületi választási iroda vezetője az országgyűlési egyéni választókerület székhely településének jegyzője.
 

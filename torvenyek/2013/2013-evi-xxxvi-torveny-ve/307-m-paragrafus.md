@@ -1,6 +1,6 @@
 ## 138/I. A szavazatszámlálás
 
-307/M. § (1) A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
+307/M. § (1) A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni listás, az egyéni választókerületi, a polgármester-, a megyei közgyűlési, a fővárosi közgyűlési és a főpolgármester-választás tekintetében külön-külön kell alkalmazni.
 
 (2) A helyi választási bizottság, illetve a főpolgármester-választáson a területi választási bizottság elrendeli a szavazatok újraszámlálását, ha a 203. § (1) bekezdése szerint az informatikai rendszerben teljes körűen rögzített adatok alapján az egyéni választókerületi, a polgármester- vagy a főpolgármester-választáson
 

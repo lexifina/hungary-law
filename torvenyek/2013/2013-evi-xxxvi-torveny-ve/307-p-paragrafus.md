@@ -8,7 +8,7 @@ b) minden olyan kifogásról, amely kifejezetten az egyéni listás, az egyéni 
 
 (2) A területi választási bizottság dönt
 
-a) minden olyan kifogásról, amely kifejezetten a vármegyei vagy fővárosi önkormányzati választáshoz vagy a főpolgármester-választáshoz kapcsolódik,
+a) minden olyan kifogásról, amely kifejezetten a megyei vagy fővárosi önkormányzati választáshoz vagy a főpolgármester-választáshoz kapcsolódik,
 
 b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés alá, és az elkövetés helye a területi választási bizottság illetékességi területén található,
 

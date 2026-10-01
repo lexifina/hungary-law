@@ -4,6 +4,10 @@
 
 (2) A kampányidőszakban a jelölő szervezetek és a jelöltek engedély és bejelentés nélkül készíthetnek plakátot. A plakáton fel kell tüntetni a kiadó nevét, székhelyét és a kiadásért felelős személy nevét.
 
+(2a) A plakát tartalmában vagy képi megjelenítésében nem irányulhat az egyenlő emberi méltóság eltagadására vagy megsértésére, vagy valamely nemzet, a nemzeti, etnikai, faji vagy vallási közösség méltóságának megsértésére vagy tagadására, vagy valamely közösség kollektív bűnösségének közvetítésére, vagy bármilyen módon gyűlölet keltésére alkalmas társadalmi ellenségkép kialakítására. A plakáton nem jeleníthető meg olyan kép, amely valótlan vagy megtévesztő módon ábrázolja a valóságot, és az előbb felsorolt célok vagy hatások kiváltására alkalmas.
+
+(2b) A plakáton nem tehető közzé kiskorúak testi, szellemi, erkölcsi vagy érzelmi fejlődésére káros képi vagy szöveges tartalom.
+
 (3) Plakát a kampányidőszakban – a (4)–(7) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
 
 (4) Plakátot elhelyezni
@@ -14,7 +18,7 @@ b) állami vagy önkormányzati tulajdonban lévő dolgon a vagyonkezelői jog g
 
 előzetes, írásbeli hozzájárulásával lehet.
 
-(5) Védett műemléki értéken, védett örökségi elemen, az építészeti örökség védett elemén, védett természeti területen és értéken, továbbá állami vagy önkormányzati hatóság elhelyezésére szolgáló épületen vagy azon belül plakátot elhelyezni tilos.
+(5) Védett műemléki értéken, védett örökségi elemen, az építészeti örökség védett elemén, védett természeti területen és értéken, közvilágítási, villany- és telefonoszlopon, közlekedésbiztonsági célú eszközön, jelzőtáblán, fás szárú növényen, továbbá állami vagy önkormányzati hatóság elhelyezésére szolgáló épületen vagy azon belül plakátot elhelyezni tilos.
 
 (6) A választási kampányt szolgáló önálló hirdetőberendezés elhelyezésére, valamint az óriásplakátok vonatkozásában a közterület-használatról szóló jogszabályokat kell alkalmazni.
 
