@@ -10,7 +10,7 @@
 
 (2a) A tagjelölt kamarai felvételéről sportvadász kérelmező esetén a lakóhelye szerint, hivatásos vadász esetén a szolgálati helye szerint illetékes területi szervezet a vadász kérelme esetén a vadászjegy kiállításával, pártoló tagság iránti kérelem esetén a nyilvántartásba felvételről szóló határozattal dönt.
 
-(2b) A magyar állampolgársággal és külföldi lakóhellyel rendelkező sportvadász tagjelölt kamarai felvételéről a kamara Fővárosi és Pest vármegyei szervezete a vadászjegy kiállításával dönt.
+(2b) A magyar állampolgársággal és külföldi lakóhellyel rendelkező sportvadász tagjelölt kamarai felvételéről a kamara Fővárosi és Pest megyei szervezete a vadászjegy kiállításával dönt.
 
 (3) Elutasítható a tagfelvételi kérelme annak a személynek, akivel szemben olyan etikai kifogás merül fel, amely a tagsági viszony felfüggesztését, illetve etikai büntetést vonna maga után, feltéve, hogy az elutasítás okaként megjelölt cselekmény vagy mulasztás elkövetésétől két év még nem telt el.
 
