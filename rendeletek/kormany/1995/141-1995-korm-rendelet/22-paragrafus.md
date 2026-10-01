@@ -1,6 +1,6 @@
 ## (Az Lt. 52. §-ához)
 
-22. §[^70] (1) Légijárművel le- és felszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
+22. §[^71] (1) Légijárművel le- és felszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
 
 (2) A le- és felszállás nem repülőtéren vagy leszállóhelyen is történhet a következő esetekben:
 
@@ -20,4 +20,4 @@ g) mezőgazdasági munkavégzés céljából végzett fel- és leszállás.
 
 (3) A (2) bekezdés szerinti le- és felszállással okozott kárt és személyiségi jogi jogsértésért járó sérelemdíjat meg kell téríteni.
 
-[^70]: A Vhr. 22. §-a a 84/2024. (IV. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^71]: A Vhr. 22. §-a a 84/2024. (IV. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
