@@ -22,7 +22,7 @@ c) a Kormány rendeletében megállapított egészségügyi válsághelyzetre, a
 
 6. az általános rendőrségi feladatok ellátására létrehozott szervre,
 
-7. a terrorizmust elhárító szervre,
+7.[^1]
 
 8. a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 7. §-ában meghatározott kormányzati koordinációs szervre,
 
@@ -41,3 +41,5 @@ c) a Kormány rendeletében megállapított egészségügyi válsághelyzetre, a
 15. az országos tisztifőorvosra, továbbá
 
 16. a Magyarország biztonsági és bűnügyi helyzetét vizsgáló szervezetre.
+
+[^1]: Az 1. § (2) bekezdés 7. pontját a 211/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
