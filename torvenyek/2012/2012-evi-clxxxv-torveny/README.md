@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2026-01-07 | 2025. évi CXXIV. törvény | 2012-185-00-00.67 |
 | 2026-05-21 | 2025. évi CXXIV. törvény | 2012-185-00-00.68 |
 | 2026-08-12 | 2025. évi CXXIV. törvény | 2012-185-00-00.69 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2012-185-00-00.70 |
