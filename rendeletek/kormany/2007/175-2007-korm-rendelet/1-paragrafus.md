@@ -36,7 +36,7 @@ l) családtag: a saját jogú igényjogosult személy házastársa (özvegye), a
 
 m) biztosított: az Ebtv. 5/B. §-ának aa) alpontja szerinti személyi kör;
 
-n)[^7] védett személyek: a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. § (1) és (2) bekezdése szerinti személy, valamint az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés a) pontja szerinti személy;
+n)[^7] védett személyek: a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet szerinti védett személy;
 
 o)[^8] saját jogú igényjogosult: a b)–d), f), q) és r) pont szerinti személy, valamint az e pontban nevesített szervezetektől és azok jogelőd szervezeteitől nyugállományba helyezett, valamint szolgálati járandóságban részesülő személy;
 
@@ -44,7 +44,7 @@ p) hozzátartozói jogon igényjogosult: a saját jogú igényjogosult biztosít
 
 q)[^9] Nemzeti Szakértői és Kutató Központ személyi állománya: a Nemzeti Szakértői és Kutató Központnál foglalkoztatott igazságügyi alkalmazotti és közalkalmazotti személyi állomány;
 
-r)[^10] Országgyűlési Őrség személyi állománya: az Országgyűlésről szóló 2012. évi XXXVI. törvény 128. § (1) bekezdése szerinti állomány.
+r)[^10]
 
 s)[^11] Magyar Corvin-lánc Testület (a továbbiakban: Corvin-lánc Testület) tagja: a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 15. § (2) bekezdése szerinti tag.
 
@@ -54,8 +54,8 @@ s)[^11] Magyar Corvin-lánc Testület (a továbbiakban: Corvin-lánc Testület) 
 [^4]: Az 1. § e) pontja a 24/2025. (II. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^5]: Az 1. § f) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 3. §-a, a 671/2020. (XII. 28.) Korm. rendelet 11. §-a, a 24/2025. (II. 27.) Korm. rendelet 13. § a) pontja és 14. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § j) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^7]: Az 1. § n) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 1. § n) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 169/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § o) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^9]: Az 1. § q) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^10]: Az 1. § r) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^10]: Az 1. § r) pontját a 163/2019. (VII. 5.) Korm. rendelet 1. § (5) bekezdése iktatta be, a 169/2026. (IX. 21.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^11]: Az 1. § s) pontját az 561/2020. (XII. 7.) Korm. rendelet 1. §-a iktatta be.

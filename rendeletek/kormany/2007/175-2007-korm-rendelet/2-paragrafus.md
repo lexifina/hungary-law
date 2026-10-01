@@ -14,7 +14,7 @@ e)[^18] azok a természetes személyek, akik részére az egészségügyért fel
 
 f)[^19] a honvédelemért, a rendvédelemért, illetve a vasúti közlekedésért felelős miniszter által többségi tulajdonosi jogok alapján irányított gazdasági társaság vagy a vasúti közlekedésért felelős miniszter irányítása alatt álló költségvetési szerv munkaviszonyban álló alkalmazottja, nyugdíjasa és biztosított családtagjai;
 
-g)[^20] az Országgyűlési Őrség személyi állománya és biztosított közeli hozzátartozói és az Országgyűlési Őrség személyi állományából nyugállományba helyezett, valamint biztosított családtagja;
+g)[^20] az Országgyűlési Őrség személyi állományából 2026. október 1. előtt nyugállományba helyezett, valamint biztosított családtagja;
 
 h)[^21] a Nemzeti Szakértői és Kutató Központ személyi állománya és biztosított közeli hozzátartozói, a Nemzeti Szakértői és Kutató Központ és jogelőd szerveinek személyi állományából nyugállományba helyezett, valamint biztosított családtagja.
 
@@ -40,7 +40,7 @@ l)[^25] a j) és k) pont szerinti igényjogosult elhalálozása esetén az igén
 [^17]: A 2. § (1) bekezdés d) pontja a 264/2009. (XI. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 124/2011. (VII. 18.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^18]: A 2. § (1) bekezdés e) pontja az 570/2022. (XII. 23.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^19]: A 2. § (1) bekezdés f) pontja a 163/2019. (VII. 5.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 141/2025. (VI. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^20]: A 2. § (1) bekezdés g) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^20]: A 2. § (1) bekezdés g) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 169/2026. (IX. 21.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^21]: A 2. § (1) bekezdés h) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^22]: A 2. § (1) bekezdés i) pontját az 561/2020. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
 [^23]: A 2. § (1) bekezdés j) pontját a 98/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
