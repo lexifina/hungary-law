@@ -90,7 +90,7 @@ h) piacbefolyásolással
 
 van összefüggésben.
 
-(11) A (10) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
+(11) A (10) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörébe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
 
 (12) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az (1)–(3) és (7)–(10) bekezdésben foglalt esetekben az adatok kiszolgáltatását – titoktartási kötelezettségére hivatkozva – nem tagadhatja meg.
 

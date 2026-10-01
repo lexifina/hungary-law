@@ -14,15 +14,17 @@ d) Gazdasági Versenyhivatallal,
 
 e) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző kormányzati ellenőrzési szervvel,
 
-f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
+f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
 
 g) nyomozó hatósággal, ügyészséggel és az NVVH-val,
 
 h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd- vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
-i) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel és
+i) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
-j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvénnyel (a továbbiakban: FATCA-törvény) összefüggésben az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatás teljesítése során az adóhatósággal
+j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvénnyel (a továbbiakban: FATCA-törvény) összefüggésben az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatás teljesítése során az adóhatósággal és
+
+k) a terrorcselekmények felderítési feladatait végző általános rendőrségi feladatok ellátására létrehozott szervvel
 
 szemben.
 
