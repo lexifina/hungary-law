@@ -14,9 +14,9 @@ A Magyar Közlöny címrendje
 
 1.5. a Kormány tagjainak rendeletei,
 
-1.6.[^28] a fővárosi és vármegyei kormányhivatal vezetőjének a helyi önkormányzat nevében megalkotott rendeletei,
+1.6.[^30] a fővárosi és vármegyei kormányhivatal vezetőjének a helyi önkormányzat nevében megalkotott rendeletei,
 
-1.7.[^29]
+1.7.[^31]
 
 1.8. a Kúria határozatai,
 
@@ -48,5 +48,5 @@ A Magyar Közlöny címrendje
 
 3.5. a Kormány tagjainak rendeleteihez tartozó indokolások.
 
-[^28]: Az 1. melléklet 1. pont 1.6. alpontja a 36/2022. (XII. 27.) IM rendelet 2. § e) pontja szerint módosított szöveg.
-[^29]: Az 1. melléklet 1.7. pontját a 19/2025. (XII. 29.) IM rendelet 7. § e) pontja hatályon kívül helyezte.
+[^30]: Az 1. melléklet 1. pont 1.6. alpontja a 36/2022. (XII. 27.) IM rendelet 2. § e) pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 1.7. pontját a 19/2025. (XII. 29.) IM rendelet 7. § e) pontja hatályon kívül helyezte.

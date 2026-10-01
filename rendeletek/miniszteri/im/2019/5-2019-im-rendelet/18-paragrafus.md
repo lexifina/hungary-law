@@ -36,13 +36,15 @@ q) a Jat. 23. § (5) bekezdése esetén a Jat. 23. § (5) bekezdés a)–f) pont
 
 r)[^23] a Honvéd Vezérkar főnöke esetén „A Honvéd Vezérkar főnöke”.
 
+s)[^24] a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke esetén „A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke”.
+
 (2) A közjogi szervezetszabályozó eszköz kibocsátója megjelölésének rövidítése
 
 a) az Országgyűlés esetén „OGY”,
 
 b) a Kormány kivételével a testületi központi államigazgatási szerv esetén a szerv feladat- és hatásköréről rendelkező jogszabályban meghatározott, ennek hiányában a szerv által a kibocsátáskor meghatározott rövid megjelölés,
 
-c)[^24]
+c)[^25]
 
 d) a Költségvetési Tanács esetén „KT”,
 
@@ -60,7 +62,9 @@ j) az Állami Számvevőszék elnöke esetén „ÁSZ”,
 
 k) minisztérium hivatali szervezetének vezetője esetén a minisztériumot vezető miniszternek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott rövid megjelölését követően „KÁT”.
 
-l)[^25] a Honvéd Vezérkar főnöke esetén „HVKF”.
+l)[^26] a Honvéd Vezérkar főnöke esetén „HVKF”.
+
+m)[^27] a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke esetén „NVVH”.
 
 (3) A közjogi szervezetszabályozó eszköz (1) és (2) bekezdésben nem meghatározott kibocsátójának teljes megjelölésére és rövidítésére a jogszabály megalkotójának teljes megjelölésére és rövidítésére vonatkozó szabályokat kell alkalmazni.
 
@@ -68,5 +72,7 @@ l)[^25] a Honvéd Vezérkar főnöke esetén „HVKF”.
 [^21]: A 18. § (1) bekezdés l) pontja a 36/2022. (XII. 27.) IM rendelet 2. § c) pontja szerint módosított szöveg.
 [^22]: A 18. § (1) bekezdés o) pontja a 36/2022. (XII. 27.) IM rendelet 2. § d) pontja szerint módosított szöveg.
 [^23]: A 18. § (1) bekezdés r) pontját a 8/2024. (V. 14.) IM rendelet 12. § (1) bekezdése iktatta be.
-[^24]: A 18. § (2) bekezdés c) pontját a 19/2025. (XII. 29.) IM rendelet 7. § c) pontja hatályon kívül helyezte.
-[^25]: A 18. § (2) bekezdés l) pontját a 8/2024. (V. 14.) IM rendelet 12. § (2) bekezdése iktatta be.
+[^24]: A 18. § (1) bekezdés s) pontját a 6/2026. (IX. 30.) IM rendelet 1. § (1) bekezdése iktatta be.
+[^25]: A 18. § (2) bekezdés c) pontját a 19/2025. (XII. 29.) IM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^26]: A 18. § (2) bekezdés l) pontját a 8/2024. (V. 14.) IM rendelet 12. § (2) bekezdése iktatta be.
+[^27]: A 18. § (2) bekezdés m) pontját a 6/2026. (IX. 30.) IM rendelet 1. § (2) bekezdése iktatta be.
