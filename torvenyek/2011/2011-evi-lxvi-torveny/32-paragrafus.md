@@ -10,4 +10,4 @@
 
 (5) Az Állami Számvevőszék a feltárt tényeket, az ezeken alapuló megállapításokat, következtetéseket záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
 
-(6) A polgármester, illetve a vármegyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
+(6) A polgármester, illetve a megyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.

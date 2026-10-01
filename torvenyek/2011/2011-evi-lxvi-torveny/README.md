@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-66-00-00
 | 2025-05-31 | 2025. évi XXXII. törvény | 2011-66-00-00.30 |
 | 2026-08-26 | 2026. évi XVIII. törvény | 2011-66-00-00.31 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2011-66-00-00.32 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2011-66-00-00.33 |
