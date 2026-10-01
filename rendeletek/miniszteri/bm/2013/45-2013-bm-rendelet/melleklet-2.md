@@ -58,7 +58,7 @@
 
 | 29. | A | gépjárművezető |
 
-2. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^8]
+2. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^10]
 
 ## A hivatásos katasztrófavédelmi szervnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztások
 
@@ -136,4 +136,4 @@ III. A helyi szervnél rendszeresített szolgálati beosztások
 
 | 7. | C | referens |
 
-[^8]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 23. §-ával megállapított szöveg.
+[^10]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 23. §-ával megállapított szöveg.
