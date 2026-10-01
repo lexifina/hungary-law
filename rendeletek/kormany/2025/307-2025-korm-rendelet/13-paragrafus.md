@@ -12,9 +12,9 @@ b) a Nemzeti Adó- és Vámhivatal által üzemeltetett pilóta nélküli állam
 
 c) a polgári nemzetbiztonsági szolgálatok szervezeti és működési szabályzatában kijelölt szervezeti egység által üzemeltetett pilóta nélküli állami légijármű rendszer tekintetében a polgári nemzetbiztonsági szolgálatok,
 
-d) a Terrorelhárítási Központ által üzemeltetett pilóta nélküli állami légijármű és rendszer tekintetében a Terrorelhárítási Központ főigazgatója által kijelölt szervezeti egység,
+d)[^1]
 
-e) az Országgyűlési Őrség által üzemben tartott pilóta nélküli állami légijármű rendszer esetében az Országgyűlési Őrség,
+e)[^2]
 
 f) az általános rendőrségi feladatok ellátására létrehozott szerv tekintetében annak központi szerve, az egyes feladatok ellátására létrehozott területi szervei, valamint a vármegyei (fővárosi) rendőr-főkapitányságok,
 
@@ -35,3 +35,6 @@ l) a Nemzeti Közszolgálati Egyetem által üzemeltetett pilóta nélküli áll
 (5) Az üzembentartó a pilóta nélküli állami légijármű rendszerek tekintetében intézkedik az üzemeltetői jogkörök és feladatok meghatározásáról, továbbá az alárendelt szervezetek közötti elosztásáról.
 
 (6) Az üzembentartó nem rendelkezik üzemeltetői jogkörökkel, és nem lát el üzemeltetői feladatokat.
+
+[^1]: A 13. § (3) bekezdés d) pontját a 216/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^2]: A 13. § (3) bekezdés e) pontját a 216/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
