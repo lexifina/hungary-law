@@ -89,3 +89,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2026-02-12 | 2025. évi LXXXVII. törvény | 2003-100-00-00.106 |
 | 2026-07-01 | 2025. évi XXXV. törvény | 2003-100-00-00.103 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2003-100-00-00.107 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2003-100-00-00.108 |

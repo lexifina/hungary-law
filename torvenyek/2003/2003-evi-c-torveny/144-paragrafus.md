@@ -22,7 +22,7 @@ b) az előfizető közvetlen értesítésével, személyesen, postai úton, saj�
 
 c) egyéb elektronikus hírközlés útján, az internetes honlapon történő közzétételre utalással, vagy
 
-d) az értesítendő előfizetők körétől függően országos vagy vármegyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
+d) az értesítendő előfizetők körétől függően országos vagy megyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
 
 (5) A (4) bekezdés a)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
 
