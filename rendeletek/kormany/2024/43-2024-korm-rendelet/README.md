@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-43-20-2
 | 2024-03-01 | 2024-43-20-22.1 | 43/2024. (II. 29.) Korm. rendelet |
 | 2024-03-02 | 2024-43-20-22.2 | 2010. évi CXXX. törvény |
 | 2025-01-01 | 2024-43-20-22.3 | 479/2024. (XII. 31.) Korm. rendelet |
+| 2026-10-01 | 2024-43-20-22.4 | 479/2024. (XII. 31.) Korm. rendelet |
