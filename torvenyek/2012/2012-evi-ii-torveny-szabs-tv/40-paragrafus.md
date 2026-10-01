@@ -10,7 +10,7 @@
 
 (5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
 
-a) rendőrkapitányság esetén a vármegyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
+a) rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
 
 b) több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 
