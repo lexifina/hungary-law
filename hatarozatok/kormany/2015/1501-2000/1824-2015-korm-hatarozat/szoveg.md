@@ -14,9 +14,9 @@ d) az Információs Hivatalra,
 
 e) a Katonai Nemzetbiztonsági Szolgálatra,
 
-f) a Terrorelhárítási Központra (a továbbiakban: TEK),
+f)[^2] az általános rendőrségi feladatok ellátására létrehozott szervre (a továbbiakban: Rendőrség),
 
-g) az Országos Rendőr-főkapitányságra,
+g)[^3]
 
 h) a Nemzeti Védelmi Szolgálatra,
 
@@ -24,7 +24,7 @@ i) a BM Országos Katasztrófavédelmi Főigazgatóságra,
 
 j) a Nemzeti Adó- és Vámhivatalra,
 
-k)[^2] a Nemzeti Információs Központra (a továbbiakban: NIK),
+k)[^4] a Nemzeti Információs Központra (a továbbiakban: NIK),
 
 l) az Országos Idegenrendészeti Főigazgatóságra,
 
@@ -42,13 +42,13 @@ p) a 32. pontban meghatározott minisztériumokra.
 
 3. A fokozatok elrendelése, módosítása és megszüntetése
 
-3.[^3] A belügyminiszter a Terrorellenes Koordinációs Bizottság (a továbbiakban: TKB) kezdeményezésére vagy saját hatáskörben jogosult a különböző fokozatok elrendelésére, módosítására vagy megszüntetésére a Védelmi Tanács egyetértésével.
+3.[^5] A belügyminiszter a Terrorellenes Koordinációs Bizottság (a továbbiakban: TKB) kezdeményezésére vagy saját hatáskörben jogosult a különböző fokozatok elrendelésére, módosítására vagy megszüntetésére a Védelmi Tanács egyetértésével.
 
-3a.[^4] A NIK a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés g) pontja alapján előkészített javaslatát a miniszterelnök nemzetbiztonsági főtanácsadója útján küldi meg a belügyminiszternek.
+3a.[^6] A NIK a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés g) pontja alapján előkészített javaslatát a miniszterelnök nemzetbiztonsági főtanácsadója útján küldi meg a belügyminiszternek.
 
-4.[^5] Ha rendkívüli sürgősségre tekintettel a különböző fokozatok elrendeléséről, módosításáról vagy megszüntetéséről haladéktalanul szükséges intézkedni, a Védelmi Tanács egyetértése a fokozatok elrendelését, módosítását vagy megszüntetését követően is beszerezhető.
+4.[^7] Ha rendkívüli sürgősségre tekintettel a különböző fokozatok elrendeléséről, módosításáról vagy megszüntetéséről haladéktalanul szükséges intézkedni, a Védelmi Tanács egyetértése a fokozatok elrendelését, módosítását vagy megszüntetését követően is beszerezhető.
 
-5.[^6] A Védelmi Tanács egyet nem értése esetén javaslatot tesz a belügyminiszternek a fokozat módosítására, megszüntetésére vagy a fokozat megszüntetése esetén a fokozat ismételt elrendelésére.
+5.[^8] A Védelmi Tanács egyet nem értése esetén javaslatot tesz a belügyminiszternek a fokozat módosítására, megszüntetésére vagy a fokozat megszüntetése esetén a fokozat ismételt elrendelésére.
 
 6. A belügyminiszter az 5. pontban meghatározott javaslattól – alapos okkal – eltérő döntést is hozhat, a fokozatok elrendelése, módosítása vagy megszüntetése tárgyában nem utasítható.
 
@@ -66,37 +66,37 @@ p) a 32. pontban meghatározott minisztériumokra.
 
 4. A TKB szervezetét érintő általános rendelkezések
 
-13.[^7] A TKB a Védelmi Tanácsnak a terrorveszéllyel, illetve terrorfenyegetettséggel kapcsolatos kormányzati feladatok koordinálásának hatékony teljesítése érdekében működik. A TKB e kormányhatározatban meghatározottak szerint biztosítja a Védelmi Tanács feladatellátását.
+13.[^9] A TKB a Védelmi Tanácsnak a terrorveszéllyel, illetve terrorfenyegetettséggel kapcsolatos kormányzati feladatok koordinálásának hatékony teljesítése érdekében működik. A TKB e kormányhatározatban meghatározottak szerint biztosítja a Védelmi Tanács feladatellátását.
 
-14. A TKB elnöke a TEK főigazgatója.
+14.[^10] A TKB elnöke az országos rendőrfőkapitány.
 
-15.[^8] A TKB állandó tagjai az 1. pont b)–m) alpontjában meghatározott szervek vezető beosztású képviselői. A TKB elnöke eseti jelleggel más állami szervek vezető beosztású képviselőit is meghívhatja a TKB ülésére. A TKB tagjai tevékenységükért díjazásban nem részesülnek.
+15.[^11] A TKB állandó tagjai az 1. pont b)–m) alpontjában meghatározott szervek vezető beosztású képviselői. A TKB elnöke eseti jelleggel más állami szervek vezető beosztású képviselőit is meghívhatja a TKB ülésére. A TKB tagjai tevékenységükért díjazásban nem részesülnek.
 
 16. A TKB működésével kapcsolatos részletes eljárási szabályokat a TKB ügyrendje tartalmazza. A TKB ügyrendjét a belügyminiszter jóváhagyásával a TKB állapítja meg.
 
-17. A TKB logisztikai bázisát a TEK biztosítja.
+17.[^12] A TKB logisztikai bázisát a Rendőrség biztosítja.
 
 18. A TKB a terrorveszéllyel, illetve a terrorfenyegetettséggel kapcsolatos elemző-értékelő tevékenysége hatékonyságának biztosítása, illetve a hírközlési és informatikai rendszerének működésképtelensége vagy hatékonyságának javítása érdekében a BM bázisán létrehozott Nemzeti Helyzetértékelő Központban is végezheti tevékenységét.
 
 5. A TKB által ellátott feladatok
 
-19.[^9] A TKB feladata a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok által műveleti, valamint partnerszolgálati együttműködés keretében szerzett, a terrorizmusra és terrorcselekményekre – ideértve az Alaptörvényben rögzített jogállami berendezkedést, annak alapintézményeit és alapértékeit támadó és veszélyeztető hazai és külföldi tevékenységet – vonatkozó információk cseréjével, összegzésével, értékelésével, illetve válsághelyzetben a felderítő, műveleti intézkedések összehangolásával és a szükségesnek ítélt hatósági intézkedések kezdeményezésével kapcsolatos koordinációs tevékenység ellátása.
+19.[^13] A TKB feladata a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok által műveleti, valamint partnerszolgálati együttműködés keretében szerzett, a terrorizmusra és terrorcselekményekre – ideértve az Alaptörvényben rögzített jogállami berendezkedést, annak alapintézményeit és alapértékeit támadó és veszélyeztető hazai és külföldi tevékenységet – vonatkozó információk cseréjével, összegzésével, értékelésével, illetve válsághelyzetben a felderítő, műveleti intézkedések összehangolásával és a szükségesnek ítélt hatósági intézkedések kezdeményezésével kapcsolatos koordinációs tevékenység ellátása.
 
 20. A TKB a 19. pontban meghatározott feladatainak ellátása érdekében együttműködik az 1. pontban meghatározott szervekkel.
 
 21. Ha a TKB a rendelkezésére álló adatok, információk alapján a 19. pontban meghatározott feladatellátása során megállapítja, hogy az 1. pontban meghatározott valamelyik szerv intézkedése szükséges, a TKB kezdeményezi a szervet irányító, felügyelő vagy vezető miniszternél az intézkedés előírását.
 
-22.[^10] Ha a késedelem jelentős nemzetbiztonsági sérelemmel járhat, a TKB közvetlenül kezdeményezheti az 1. pontban meghatározott valamelyik szerv intézkedését, a szervet irányító, felügyelő vagy vezető miniszter egyidejű értesítése mellett.
+22.[^14] Ha a késedelem jelentős nemzetbiztonsági sérelemmel járhat, a TKB közvetlenül kezdeményezheti az 1. pontban meghatározott valamelyik szerv intézkedését, a szervet irányító, felügyelő vagy vezető miniszter egyidejű értesítése mellett.
 
-23.[^11] A TKB Magyarország terrorfenyegetettségéről, a hozzá eljuttatott információkról és az annak alapján megtett intézkedésekről a belügyminiszter útján tájékoztatja a Védelmi Tanácsot.
+23.[^15] A TKB Magyarország terrorfenyegetettségéről, a hozzá eljuttatott információkról és az annak alapján megtett intézkedésekről a belügyminiszter útján tájékoztatja a Védelmi Tanácsot.
 
-24.[^12] A TKB szükség szerint, de legalább félévente beszámol a tevékenységéről, az érintett szervekkel történő együttműködésről a Védelmi Tanácsnak, amelyet a belügyminiszter útján terjeszt fel.
+24.[^16] A TKB szükség szerint, de legalább félévente beszámol a tevékenységéről, az érintett szervekkel történő együttműködésről a Védelmi Tanácsnak, amelyet a belügyminiszter útján terjeszt fel.
 
 6. A TKB terrorfokozatok elrendelése esetén végrehajtandó feladatai, a központi intézkedési terv
 
 25. A belügyminiszter által elrendelt fokozatok bevezetésével egyidejűleg a TKB elnöke intézkedik a TKB aktivizálásáról, illetve – ha indokolt – a TKB működési folyamatosságának a fenntartásáról.
 
-26.[^13] Az elrendelt fokozatokkal kapcsolatban végrehajtandó feladatokról, intézkedésekről a Védelmi Tanács – a TKB javaslata és az egyedi intézkedési tervek alapján – központi intézkedési tervet (a továbbiakban: központi intézkedési terv) készít.
+26.[^17] Az elrendelt fokozatokkal kapcsolatban végrehajtandó feladatokról, intézkedésekről a Védelmi Tanács – a TKB javaslata és az egyedi intézkedési tervek alapján – központi intézkedési tervet (a továbbiakban: központi intézkedési terv) készít.
 
 27. A központi intézkedési terv tartalmazza:
 
@@ -110,7 +110,7 @@ d) a végrehajtandó feladatok, intézkedések határidejét;
 
 e) az irányítás, együttműködés rendjét.
 
-28.[^14] A TKB a bekövetkezett terrorcselekményekről – a BM Rendészeti Információs Iroda bevonásával – az ügyrendjében meghatározottak szerint összefoglaló-értékelő-elemző jelentést készít, amelyet a belügyminiszter útján terjeszt fel a Védelmi Tanácsnak.
+28.[^18] A TKB a bekövetkezett terrorcselekményekről – a BM Rendészeti Információs Iroda bevonásával – az ügyrendjében meghatározottak szerint összefoglaló-értékelő-elemző jelentést készít, amelyet a belügyminiszter útján terjeszt fel a Védelmi Tanácsnak.
 
 29. A jelentés tartalmazza:
 
@@ -126,9 +126,9 @@ d) a végrehajtott intézkedések hatását.
 
 7. A fokozatokról való tájékoztatás rendje
 
-31. A TEK az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével a TEK által működtetett BM ügyelet (a továbbiakban: BM ügyelet) útján értesti a TKB állandó tagjait.
+31.[^19] A Rendőrség az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével az Országos Rendőr-főkapitányság által működtetett BM ügyelet (a továbbiakban: BM ügyelet) útján értesti a TKB állandó tagjait.
 
-32.[^15] A BM ügyelet az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével soron kívül tájékoztatja
+32.[^20] A BM ügyelet az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével soron kívül tájékoztatja
 
 a) a kormányügyeleti rendszer létrehozásáról szóló 1324/2011. (IX. 22.) Korm. határozat (a továbbiakban: Korm. határozat) alapján a tájékoztatási körébe tartozó vezetőket,
 
@@ -136,11 +136,11 @@ b) a jelentési rendszerbe tartozó minisztériumokat a biztonsági ügyeleteik 
 
 c) a belügyminiszter irányítása alá tartozó szerveket,
 
-d)[^16] a belügyminiszter irányítása alá nem tartozó, a Korm. határozat hatálya alá tartozó szerveket,
+d)[^21] a belügyminiszter irányítása alá nem tartozó, a Korm. határozat hatálya alá tartozó szerveket,
 
-e)[^17] az Országos Atomenergia Hivatalt, valamint
+e)[^22] az Országos Atomenergia Hivatalt, valamint
 
-f)[^18] a Védelmi Igazgatási Hivatalt.
+f)[^23] a Védelmi Igazgatási Hivatalt.
 
 33. A BM ügyelet haladéktalanul megkezdi a TKB állandó tagjainak értesítését, valamint a Korm. határozat hatálya alá tartozó szervek vezetőinek tájékoztatását, amely szervek a fokozat elrendelését, módosítását vagy megszüntetését követően soron kívül intézkednek az elrendelt feladatok végrehajtásáról.
 
@@ -148,9 +148,9 @@ f)[^18] a Védelmi Igazgatási Hivatalt.
 
 8. A lakosság tájékoztatása
 
-35. Az elrendelt, módosított vagy megszüntetett fokozatokról a lakosságot a belügyminiszter tájékoztatja a TEK útján.
+35.[^24] Az elrendelt, módosított vagy megszüntetett fokozatokról a lakosságot a belügyminiszter tájékoztatja a Rendőrség útján.
 
-36. A TEK főigazgatója Lakossági Tájékoztatási Tervet készít a TKB véleményének kikérését követően a BM bevonásával. A Lakossági Tájékoztatási Terv meghatározza
+36.[^25] Az országos rendőrfőkapitány Lakossági Tájékoztatási Tervet készít a TKB véleményének kikérését követően a BM bevonásával. A Lakossági Tájékoztatási Terv meghatározza
 
 a) a tájékoztatás tartalmát,
 
@@ -162,68 +162,76 @@ d) a tájékoztatás eszközeit, illetve módját.
 
 9. A terrorizmus elleni küzdelemre való felkészülés, a fokozatok tervezési feladatai
 
-37.[^19] A fokozatokhoz rendelt feladatok végrehajtását az 1. pont b)–o) alpontjában meghatározott szervek fokozatonként külön tervezik meg (a továbbiakban: egyedi intézkedési terv) a Védelmi Tanács által meghatározott követelményrendszer alapján.
+37.[^26] A fokozatokhoz rendelt feladatok végrehajtását az 1. pont b)–o) alpontjában meghatározott szervek fokozatonként külön tervezik meg (a továbbiakban: egyedi intézkedési terv) a Védelmi Tanács által meghatározott követelményrendszer alapján.
 
 38. Az egyedi intézkedési tervnek biztosítani kell bármely fokozat elrendelésétől számított legrövidebb időn belül az adott fokozatban előírt feladatok végrehajtásához, a rendszer folyamatos működésének fenntartásához szükséges feltételeket.
 
-39.[^20] Az egyedi intézkedési tervet az 1. pont b)–o) alpontjában meghatározott szervek vezetői hagyják jóvá.
+39.[^27] Az egyedi intézkedési tervet az 1. pont b)–o) alpontjában meghatározott szervek vezetői hagyják jóvá.
 
-40.[^21] A jóváhagyott egyedi intézkedési terveket minden év január 30-ig, az egyes fokozatok elrendelése esetén pedig a fokozatokra az egyedi intézkedési tervben meghatározott időpontig kell a Védelmi Tanács által meghatározott tartalom szerint aktualizálni és pontosítani.
+40.[^28] A jóváhagyott egyedi intézkedési terveket minden év január 30-ig, az egyes fokozatok elrendelése esetén pedig a fokozatokra az egyedi intézkedési tervben meghatározott időpontig kell a Védelmi Tanács által meghatározott tartalom szerint aktualizálni és pontosítani.
 
-41.[^22] Az egyedi intézkedési terv alapján a TKB összeállítja a központi intézkedési tervre vonatkozó javaslatát, és döntésre felterjeszti a Védelmi Tanács részére.
+41.[^29] Az egyedi intézkedési terv alapján a TKB összeállítja a központi intézkedési tervre vonatkozó javaslatát, és döntésre felterjeszti a Védelmi Tanács részére.
 
 10. A terrorizmus elleni fellépés, annak felszámolása, valamint a fokozatok elrendelése esetén végrehajtandó intézkedések
 
-42.[^23] A fokozatokkal kapcsolatban végrehajtandó intézkedéseket az 1. pont b)–n) alpontjában meghatározott szervek vezetői határozzák meg a központi intézkedési terv figyelembevételével.
+42.[^30] A fokozatokkal kapcsolatban végrehajtandó intézkedéseket az 1. pont b)–n) alpontjában meghatározott szervek vezetői határozzák meg a központi intézkedési terv figyelembevételével.
 
 11. Együttműködés az állami szervekkel
 
-43.[^24] A Kormány felhívja a Kormány tagjait, valamint az irányítása vagy felügyelete alá tartozó állami szerveket, továbbá felkéri az egyéb állami szerveket, hogy működjenek együtt a Védelmi Tanáccsal és a TKB-val, különösen a terrorfenyegetettségre, valamint terrorveszélyeztetettségre, illetve a bekövetkezett terrorcselekményre vonatkozó információknak a TKB feladat- és hatáskörrel rendelkező tagja számára történő megküldésével.
+43.[^31] A Kormány felhívja a Kormány tagjait, valamint az irányítása vagy felügyelete alá tartozó állami szerveket, továbbá felkéri az egyéb állami szerveket, hogy működjenek együtt a Védelmi Tanáccsal és a TKB-val, különösen a terrorfenyegetettségre, valamint terrorveszélyeztetettségre, illetve a bekövetkezett terrorcselekményre vonatkozó információknak a TKB feladat- és hatáskörrel rendelkező tagja számára történő megküldésével.
 
-44. A Kormány felkéri az Országgyűlés elnökét, hogy az Országgyűlési Őrség feladatait és intézkedéseit e határozat figyelembevételével állapítsa meg.
+44.[^32]
 
 12. Átmeneti rendelkezések
 
-45.[^25] A terrorizmus elleni küzdelem feladatainak egységes végrehajtási rendjéről szóló 1824/2015. (XI. 19.) Korm. határozat módosításáról szóló 1075/2020. (III. 5.) Korm. határozat hatálybalépését követő 90 napon belül az 1. pont n) alpontjában meghatározott szerv elkészíti és a TKB részére megküldi a 37. pont szerinti egyedi intézkedési tervet.
+45.[^33] A terrorizmus elleni küzdelem feladatainak egységes végrehajtási rendjéről szóló 1824/2015. (XI. 19.) Korm. határozat módosításáról szóló 1075/2020. (III. 5.) Korm. határozat hatálybalépését követő 90 napon belül az 1. pont n) alpontjában meghatározott szerv elkészíti és a TKB részére megküldi a 37. pont szerinti egyedi intézkedési tervet.
 
-46.[^26]
+46.[^34]
 
-47.[^27]
+47.[^35]
 
-48.[^28]
+48.[^36]
 
 13. Záró rendelkezések
 
 49. Ez a határozat a közzétételét követő napon lép hatályba.
 
-50.[^29]
+50.[^37]
 
 [^1]: Az 1. pont az 1521/2022. (XI. 2.) Korm. határozat 38. pontjával megállapított szöveg.
-[^2]: Az 1. pont k) alpontja az 1132/2025. (V. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 3. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont a) alpontja szerint módosított szöveg.
-[^4]: A 3a. pontot az 1132/2025. (V. 8.) Korm. határozat 1. pontja iktatta be.
-[^5]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont b) alpontja szerint módosított szöveg.
-[^6]: Az 5. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont c) alpontja szerint módosított szöveg.
-[^7]: A 13. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont d) alpontja szerint módosított szöveg.
-[^8]: A 15. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
-[^9]: A 19. pont az 1041/2025. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^10]: A 22. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^11]: A 23. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont f) alpontja szerint módosított szöveg.
-[^12]: A 24. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont g) alpontja szerint módosított szöveg.
-[^13]: A 26. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont h) alpontja szerint módosított szöveg.
-[^14]: A 28. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont i) alpontja szerint módosított szöveg.
-[^15]: A 32. pont az 1075/2020. (III. 5.) Korm. határozat 3. pontjával megállapított szöveg.
-[^16]: A 32. pont d) pontja az 1521/2022. (XI. 2.) Korm. határozat 39. pontjával megállapított szöveg.
-[^17]: A 32. pont e) pontja az 1521/2022. (XI. 2.) Korm. határozat 39. pontjával megállapított szöveg.
-[^18]: A 32. pont f) pontját az 1521/2022. (XI. 2.) Korm. határozat 40. pontja iktatta be.
-[^19]: A 37. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 41. pont j) alpontja szerint módosított szöveg.
-[^20]: A 39. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 41. pont k) alpontja szerint módosított szöveg.
-[^21]: A 40. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont l) alpontja szerint módosított szöveg.
-[^22]: A 41. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont m) alpontja szerint módosított szöveg.
-[^23]: A 42. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont n) alpontja szerint módosított szöveg.
-[^24]: A 43. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont o) alpontja szerint módosított szöveg.
-[^25]: A 45. pont az 1075/2020. (III. 5.) Korm. határozat 4. pontjával megállapított szöveg.
-[^26]: A 46. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
-[^27]: A 47. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
-[^28]: A 48. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
-[^29]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont f) alpontja az 1312/2026. (IX. 21.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont g) alpontját az 1312/2026. (IX. 21.) Korm. határozat 3. pont a) alpontja hatályon kívül helyezte.
+[^4]: Az 1. pont k) alpontja az 1132/2025. (V. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 3. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont a) alpontja szerint módosított szöveg.
+[^6]: A 3a. pontot az 1132/2025. (V. 8.) Korm. határozat 1. pontja iktatta be.
+[^7]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont b) alpontja szerint módosított szöveg.
+[^8]: Az 5. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont c) alpontja szerint módosított szöveg.
+[^9]: A 13. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont d) alpontja szerint módosított szöveg.
+[^10]: A 14. pont az 1312/2026. (IX. 21.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^11]: A 15. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont e) alpontja szerint módosított szöveg.
+[^12]: A 17. pont az 1312/2026. (IX. 21.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^13]: A 19. pont az 1041/2025. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^14]: A 22. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^15]: A 23. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont f) alpontja szerint módosított szöveg.
+[^16]: A 24. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont g) alpontja szerint módosított szöveg.
+[^17]: A 26. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont h) alpontja szerint módosított szöveg.
+[^18]: A 28. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont i) alpontja szerint módosított szöveg.
+[^19]: A 31. pont az 1312/2026. (IX. 21.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^20]: A 32. pont az 1075/2020. (III. 5.) Korm. határozat 3. pontjával megállapított szöveg.
+[^21]: A 32. pont d) pontja az 1521/2022. (XI. 2.) Korm. határozat 39. pontjával megállapított szöveg.
+[^22]: A 32. pont e) pontja az 1521/2022. (XI. 2.) Korm. határozat 39. pontjával megállapított szöveg.
+[^23]: A 32. pont f) pontját az 1521/2022. (XI. 2.) Korm. határozat 40. pontja iktatta be.
+[^24]: A 35. pont az 1312/2026. (IX. 21.) Korm. határozat 2. pont e) alpontja szerint módosított szöveg.
+[^25]: A 36. pont nyitó szövegrésze az 1312/2026. (IX. 21.) Korm. határozat 2. pont f) alpontja szerint módosított szöveg.
+[^26]: A 37. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 41. pont j) alpontja szerint módosított szöveg.
+[^27]: A 39. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 41. pont k) alpontja szerint módosított szöveg.
+[^28]: A 40. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont l) alpontja szerint módosított szöveg.
+[^29]: A 41. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont m) alpontja szerint módosított szöveg.
+[^30]: A 42. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont n) alpontja szerint módosított szöveg.
+[^31]: A 43. pont az 1521/2022. (XI. 2.) Korm. határozat 41. pont o) alpontja szerint módosított szöveg.
+[^32]: A 44. pontot az 1312/2026. (IX. 21.) Korm. határozat 3. pont b) alpontja hatályon kívül helyezte.
+[^33]: A 45. pont az 1075/2020. (III. 5.) Korm. határozat 4. pontjával megállapított szöveg.
+[^34]: A 46. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^35]: A 47. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^36]: A 48. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^37]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

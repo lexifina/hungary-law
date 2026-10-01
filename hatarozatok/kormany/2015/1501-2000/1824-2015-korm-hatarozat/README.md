@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1824-30
 | 2022-11-03 | 2015-1824-30-22.6 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2025-03-06 | 2015-1824-30-22.7 | 1041/2025. (III. 5.) Korm. határozat |
 | 2025-05-09 | 2015-1824-30-22.8 | 1132/2025. (V. 8.) Korm. határozat |
+| 2026-10-01 | 2015-1824-30-22.9 | 1312/2026. (IX. 21.) Korm. határozat |
