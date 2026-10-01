@@ -36,7 +36,7 @@ rendeletben állapítsa meg.
 
 a) a területfejlesztési és vidékfejlesztési koordináció részletes szabályait, valamint
 
-b) a vármegyei területrendezési tervet
+b) a megyei területrendezési tervet
 
 rendeletben állapítsa meg.
 

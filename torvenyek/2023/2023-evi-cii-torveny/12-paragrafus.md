@@ -1,6 +1,6 @@
 12. § (1) A térségi fejlesztési tanács tagjai
 
-a) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés elnöke és a vármegyei közgyűlés egy további delegáltja;
+a) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés elnöke és a megyei közgyűlés egy további delegáltja;
 
 b) a területfejlesztésért felelős miniszter képviselője.
 
@@ -10,7 +10,7 @@ a) a térségi fejlesztési tanács illetékességi területe szerinti
 
 aa) területi gazdasági kamarák egy-egy képviselője;
 
-ab) vármegyei kormányhivatalok vezetője és állami főépítésze;
+ab) megyei kormányhivatalok vezetője és állami főépítésze;
 
 b) a gazdaságfejlesztésért felelős miniszter képviselője.
 

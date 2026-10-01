@@ -18,9 +18,9 @@ e) kiemelt térség területfejlesztési programja;
 
 f) a nem kiemelt térségekben működő térségi fejlesztési tanácsok által a 11. § (7) bekezdés c) pontja alapján készített területfejlesztési koncepció és program;
 
-g) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
+g) megyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
 
-h) vármegyei és fővárosi Integrált Területi Program;
+h) megyei és fővárosi Integrált Területi Program;
 
 i) együtt kezelendő térség területfejlesztési programja.
 

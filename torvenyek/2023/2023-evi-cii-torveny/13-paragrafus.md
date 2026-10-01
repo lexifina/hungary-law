@@ -130,7 +130,7 @@ k) a társadalmi felzárkózásért felelős miniszter képviselője.
 
 a) a 12. § (1) bekezdése szerinti tagok;
 
-b) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés további két delegáltja;
+b) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés további két delegáltja;
 
 c) az európai uniós források felhasználásáért felelős miniszter képviselője;
 

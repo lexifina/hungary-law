@@ -16,11 +16,11 @@
 
 7. kedvezményezett járások és települések: az érvényes területfejlesztési célok figyelembevételével, statisztikai jellemzők alapján meghatározott térségek köre, amelyek közigazgatási területén megvalósítani tervezett fejlesztési programok és projektek pénzügyi, gazdasági ösztönzőkkel kiemelten támogathatók;
 
-8. kiemelt térség: az Országgyűlés által meghatározott, egy vagy több vármegyére, illetve a fővárosra, vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő térség, amely egységes tervezéséhez és fejlesztéséhez országos érdek fűződik;
+8. kiemelt térség: az Országgyűlés által meghatározott, egy vagy több megyére, illetve a fővárosra, vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő térség, amely egységes tervezéséhez és fejlesztéséhez országos érdek fűződik;
 
-9. nagytérség: több vármegyét magába foglaló, összefüggő országrész, amely önálló fejlesztési stratégiával rendelkezik;
+9. nagytérség: több megyét magába foglaló, összefüggő országrész, amely önálló fejlesztési stratégiával rendelkezik;
 
-10. nagytérségi területfejlesztési stratégia: a vármegyei területfejlesztési koncepciókat összefogó, azoknak, valamint a vármegyehatárokon átnyúló területi tervezésnek keretet adó tervdokumentum;
+10. nagytérségi területfejlesztési stratégia: a megyei területfejlesztési koncepciókat összefogó, azoknak, valamint a megyehatárokon átnyúló területi tervezésnek keretet adó tervdokumentum;
 
 11. operatív program: az Európai Unió pénzügyi tervezési időszakaihoz kapcsolódó, összefüggő prioritások mentén fejlesztési stratégiát meghatározó, strukturális és kohéziós alapok felhasználásával ágazati vagy területi szempontú fejlesztéseket finanszírozó terv, amelyet a Kormány döntése alapján, a tagállami benyújtást követően az Európai Bizottság hagy jóvá;
 

@@ -54,13 +54,13 @@ c) a kedvezményezett járások besorolásának feltételrendszerére és besoro
 
 14. együttműködik a területfejlesztésben érdekelt felsőoktatási intézményekkel, részt vesz szakmai képzések módszertanának, ismeretanyagának összeállításában;
 
-15. meghatározza a vármegyei önkormányzatok és a fővárosi önkormányzat, továbbá a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését;
+15. meghatározza a megyei önkormányzatok és a fővárosi önkormányzat, továbbá a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését;
 
-16. előzetesen állást foglal a vármegyei, illetve a fővárosi területfejlesztési koncepció és program tekintetében;
+16. előzetesen állást foglal a megyei, illetve a fővárosi területfejlesztési koncepció és program tekintetében;
 
 17. jóváhagyja az együtt kezelendő térség területfejlesztési programját;
 
-18. évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a vármegyei önkormányzatok és a fővárosi önkormányzat területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
+18. évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a megyei önkormányzatok és a fővárosi önkormányzat területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
 
 (2) Az érintett miniszterek feladataik ellátása során érvényre juttatják az e törvényben rögzített célokat, részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában, különösen a területfejlesztési koncepciók és programok, területrendezési tervek feladatkörüket érintő munkarészeinek kidolgozásában, összehangolásában és érvényesítésében.
 

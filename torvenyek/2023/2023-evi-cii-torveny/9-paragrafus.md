@@ -4,11 +4,11 @@
 
 (2) A Területfejlesztési Szolgálat stratégiai tervezést és programozást segítő feladatkörében
 
-a) az OFTK-val összhangban – a vármegyei önkormányzatok, valamint a fővárosi önkormányzat bevonásával – részt vesz a nagytérségi területfejlesztési stratégia elkészítésében;
+a) az OFTK-val összhangban – a megyei önkormányzatok, valamint a fővárosi önkormányzat bevonásával – részt vesz a nagytérségi területfejlesztési stratégia elkészítésében;
 
 b) nagytérségi területfejlesztési stratégia alapján elkészíti – a kiemelt térségek kivételével – az együtt kezelendő térségekkel együttműködve azok területfejlesztési programjait külön figyelemmel arra, hogy lehetnek olyan együtt kezelendő térségek, amelyek átlépik a nagytérségi határokat, és összehangolt végrehajtást igényelnek;
 
-c) előzetesen véleményezi az országos, valamint a vármegyét vagy a fővárost érintő ágazati fejlesztési koncepciókat és programokat a vármegyék, a megyei jogú városok önkormányzatai és fővárosi, valamint a kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
+c) előzetesen véleményezi az országos, valamint a megyét vagy a fővárost érintő ágazati fejlesztési koncepciókat és programokat a megyék, a megyei jogú városok önkormányzatai és fővárosi, valamint a kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
 
 d) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről;
 
@@ -36,7 +36,7 @@ i) szakmai kapacitásával segíti a területfejlesztési önkormányzati társu
 
 j) a területfejlesztési programokhoz kapcsolódó egyeztetési és tájékoztatási feladatokat lát el;
 
-k) figyelemmel kíséri az operatív programok megvalósítását, beleértve a határon átnyúló és más nemzetközi programok végrehajtását, a vármegyék és a megyei jogú városok önkormányzatai és a fővárosi és kerületi önkormányzatok bevonásával.
+k) figyelemmel kíséri az operatív programok megvalósítását, beleértve a határon átnyúló és más nemzetközi programok végrehajtását, a megyék és a megyei jogú városok önkormányzatai és a fővárosi és kerületi önkormányzatok bevonásával.
 
 (4) A Területfejlesztési Szolgálat területi koordinációs feladatkörében
 
