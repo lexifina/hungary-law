@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-184-00-00
 | 2020-06-24 | 2020. évi LXIX. törvény | 2010-184-00-00.14 |
 | 2022-01-01 | 2019. évi CXXVII. törvény | 2010-184-00-00.15 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2010-184-00-00.16 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2010-184-00-00.17 |

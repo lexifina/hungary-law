@@ -6,48 +6,48 @@ A törvényszékek katonai tanácsai és illetékességi területük
 
 1.1. Budapest főváros
 
-1.2. Fejér vármegye
+1.2. Fejér megye
 
-1.3. Heves vármegye
+1.3. Heves megye
 
-1.4. Jász-Nagykun-Szolnok vármegye
+1.4. Jász-Nagykun-Szolnok megye
 
-1.5. Komárom-Esztergom vármegye
+1.5. Komárom-Esztergom megye
 
-1.6. Nógrád vármegye
+1.6. Nógrád megye
 
-1.7. Pest vármegye
+1.7. Pest megye
 
 2. Szegedi Törvényszék Katonai Tanácsa
 
-2.1. Bács-Kiskun vármegye
+2.1. Bács-Kiskun megye
 
-2.2. Békés vármegye
+2.2. Békés megye
 
-2.3. Csongrád-Csanád vármegye
+2.3. Csongrád-Csanád megye
 
 3. Győri Törvényszék Katonai Tanácsa
 
-3.1. Győr-Moson-Sopron vármegye
+3.1. Győr-Moson-Sopron megye
 
-3.2. Vas vármegye
+3.2. Vas megye
 
-3.3. Veszprém vármegye
+3.3. Veszprém megye
 
 4. Debreceni Törvényszék Katonai Tanácsa
 
-4.1. Borsod-Abaúj-Zemplén vármegye
+4.1. Borsod-Abaúj-Zemplén megye
 
-4.2. Hajdú-Bihar vármegye
+4.2. Hajdú-Bihar megye
 
-4.3. Szabolcs-Szatmár-Bereg vármegye
+4.3. Szabolcs-Szatmár-Bereg megye
 
 5. Kaposvári Törvényszék Katonai Tanácsa
 
-5.1. Baranya vármegye
+5.1. Baranya megye
 
-5.2. Somogy vármegye
+5.2. Somogy megye
 
-5.3. Tolna vármegye
+5.3. Tolna megye
 
-5.4. Zala vármegye
+5.4. Zala megye
