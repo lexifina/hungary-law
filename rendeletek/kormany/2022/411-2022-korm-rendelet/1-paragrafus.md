@@ -20,7 +20,7 @@ c) a Magyar Honvédség esetében a honvédelemért felelős miniszter,
 
 d) a nemzetbiztonsági szolgálatok esetében a nemzetbiztonsági szolgálatot irányító miniszter,
 
-e) az Országgyűlési Őrség esetében az Országgyűlés elnöke,
+e)[^1]
 
 f) a szövetséges fegyveres erők tekintetében a honvédelemért felelős miniszter,
 
@@ -47,3 +47,5 @@ c) 5. § 18. pontja szerinti védelmi és biztonsági szervezet,
 d) 49. § (1) bekezdés a) és g) pontja szerinti szerv, valamint
 
 e) 1. mellékletében meghatározott védett kommunikációs feltételek biztosítására kötelezett szerv.
+
+[^1]: Az 1. § (2) bekezdés 1. pont e) alpontját a 210/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
