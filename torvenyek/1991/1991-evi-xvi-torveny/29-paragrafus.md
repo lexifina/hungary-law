@@ -6,6 +6,8 @@
 
 (4) E törvénynek az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és 11/A. §-át azon eljárásokra is alkalmazni kell, amelyeknek alapjául szolgáló – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdése szerinti – szerződés a kihirdetés napján már hatályos volt.
 
-(5)
+(5) Az egyes koncesszióval összefüggő törvények módosításáról szóló 2026. évi LIX. törvény (a továbbiakban: Módtv-3.) hatálybalépésekor folyamatban lévő, az állam nevében pályázat – ideértve a 10/A. § szerinti pályázatot is – kiírása, ajánlattételi felhívás kiadása, valamint a koncessziós szerződés megkötése, módosítása és megszüntetése tárgyában indult eljárásokban a Szabályozott Tevékenységek Felügyeleti Hatóságának előzetes egyetértése nem szükséges.
+
+(5a) A Szabályozott Tevékenységek Felügyeleti Hatósága elnöke a koncessziós pályázat kiírásával, ajánlattételi felhívás kiadásával, a koncessziós szerződés megkötésével, módosításával és megszüntetésével, a koncesszió-köteles tevékenység gyakorlásának ellenőrzésével; valamint a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésével összefüggésben keletkezett iratokat a Módtv-3. hatálybalépését követő 30 napon belül átadja az állami vagyon felügyeletéért felelős miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 5/A. §-a szerinti átadás-átvételi eljárás keretében.
 
 (6) E törvény hatályba lépését megelőzően engedélyezett koncessziós vagy koncessziós jellegű tevékenységet a törvény hatályba lépésekor folytató személyek vagy szervezetek — amennyiben az ágazati törvény másként nem rendelkezik — változatlan feltételekkel folytathatják.

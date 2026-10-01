@@ -1,4 +1,4 @@
-8. § (1) A nyilvános pályázati felhívást az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv és a Hatóság honlapján, valamint az önkormányzati pályázatot a helyi önkormányzat honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napja előtt legalább harminc nappal. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
+8. § (1) A nyilvános pályázati felhívást az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv honlapján, valamint az önkormányzati pályázatot a helyi önkormányzat honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napja előtt legalább harminc nappal. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
 
 (2) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait, továbbá a koncesszió-köteles tevékenység
 

@@ -6,8 +6,10 @@ b) az 5. § (3) bekezdése szerinti adatszolgáltatásra vonatkozó megkeresés 
 
 c) az e törvény szerinti koncessziós eljárások és a 10/A. § szerinti eljárások értékelését végző bíráló bizottság létrehozására és összetételére, valamint jogállására és működésére vonatkozó részletes szabályokat,
 
-d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait és
+d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait,
 
-e) a 10/A. § szerinti együttes, egyidejű értékesítési eljárás és koncessziós pályázati eljárás szabályait
+e) a 10/A. § szerinti együttes, egyidejű értékesítési eljárás és koncessziós pályázati eljárás szabályait, és
+
+f) az állam nevében pályázat kiírására, ajánlattételi felhívás kiadására, a pályázati, ajánlattételi vagy a 10/A. § szerinti eljárás lefolytatására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére jogosult miniszter vagy központi kormányzati igazgatási szerv kijelölését
 
 rendeletben állapítsa meg.
