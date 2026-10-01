@@ -264,7 +264,7 @@ b) az adósra számlában áthárított vagy az adós ügyletei során keletkeze
 
 c) kisadózó vállalkozások tételes adója,
 
-d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a vármegyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
+d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a megyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
 
 e) gépjárműadó.
 
