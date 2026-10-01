@@ -6,7 +6,7 @@
 
 (3)[^26] Az (1) bekezdésben meghatározott feltételeket nem kell teljesíteni
 
-a)[^27] a Rendőrség védett személyeket szállító, kísérő, biztosító, a terrorizmust elhárító szerv műveleti, felderítési és objektumvédelmi tevékenység végzésére rendszeresített gépjárműveinél,
+a)[^27] a Rendőrség védett személyeket szállító, kísérő, biztosító, valamint a terrorcselekmények megszakítását és veszélyes elkövetők elfogását érintő műveleti tevékenység végzésére rendszeresített gépjárműveinél,
 
 b) a Rendőrség 3. § (1) bekezdés l) pontjában meghatározott, a bűncselekmények helyszínére történő kiérkezés céljából üzemeltetett gépjárműveinél,
 
@@ -20,5 +20,5 @@ f) a 4. § (1) bekezdés e), f) és i) pontjában meghatározott szervek üzemel
 
 [^25]: A 6. § (1) bekezdése az 1/2013. (I. 25.) BM rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^26]: A 6. § (3) bekezdése a 16/2019. (V. 3.) BM rendelet 3. §-ával megállapított szöveg.
-[^27]: A 6. § (3) bekezdés a) pontja a 37/2019. (X. 15.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: A 6. § (3) bekezdés a) pontja a 37/2019. (X. 15.) BM rendelet 3. § b) pontja, a 23/2026. (IX. 30.) BM rendelet 7. § b) pontja szerint módosított szöveg.
 [^28]: A 6. § (3) bekezdés d) pontja a 37/2019. (X. 15.) BM rendelet 2. § a) pontja szerint módosított szöveg.
