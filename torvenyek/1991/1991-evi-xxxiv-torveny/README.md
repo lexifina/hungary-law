@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2025-12-17 | 2025. évi XCIII. törvény | 1991-34-00-00.105 |
 | 2026-01-01 | 2025. évi XLII. törvény | 1991-34-00-00.104 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1991-34-00-00.106 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 1991-34-00-00.107 |
