@@ -1,1 +1,0 @@
-10. § Ha a hivatásos állomány tagjának alkalmasságvizsgálata során az orvos, a pszichológus vagy a sportszakember a vizsgált személy egészségi, pszichológiai, illetve fizikai állapotában az alkalmasságot kedvezőtlenül befolyásoló változásokat tapasztal, gondozási, fejlesztési programot javasol azok kiküszöbölésére.

@@ -1,3 +1,0 @@
-42. § (1) Ha a hivatásos állományba vételt az Országgyűlési Őrség által folytatott szakmai képzés előzi meg, az Országgyűlési Őrség a hivatásos állományba kinevezést megelőző alkalmasságvizsgálatot már a szakmai képzés megkezdését megelőzően elvégzi akkor is, ha a hivatásos állományba vételre csak a szakmai képzés sikeres teljesítését követően vagy a szakmai képzés meghatározott részének teljesítését követően kerül sor.
-
-(2) Az (1) bekezdés szerinti esetben a hivatásos állományba kinevezést megelőző alkalmasságvizsgálat a minimumfeltételeknek való megfelelés vizsgálatából és – ha ismert a betölteni kívánt szolgálati beosztás – az illeszkedésvizsgálatból, valamint a kategóriafeltételeknek való megfelelés vizsgálatából áll.

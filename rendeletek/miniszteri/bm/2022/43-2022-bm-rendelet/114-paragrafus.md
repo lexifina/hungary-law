@@ -1,3 +1,0 @@
-114. §[^52]
-
-[^52]: A 114. §-t a 60/2024. (XII. 23.) BM rendelet 110. § g) pontja hatályon kívül helyezte.

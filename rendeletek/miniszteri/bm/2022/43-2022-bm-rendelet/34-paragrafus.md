@@ -1,1 +1,0 @@
-34. § A hivatásos állomány tagja a fizikai alkalmasságvizsgálaton akkor vehet részt, ha rendelkezik 30 éves életkor alatt három éven belül, 30 éves életkor felett két éven belül elvégzett egészségi alkalmasságvizsgálaton szerzett „Egészségileg alkalmas” minősítéssel.

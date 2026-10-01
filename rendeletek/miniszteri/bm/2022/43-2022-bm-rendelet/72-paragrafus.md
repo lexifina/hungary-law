@@ -1,1 +1,0 @@
-72. § Az időszakos fizikai alkalmasságvizsgálatok tapasztalata alapján az Országgyűlési Őrség parancsnoka gondoskodik a hivatásos állomány részére a szintfejlesztő programok kidolgozásáról és a fizikai-erőnléti állapot ennek megfelelő rendszeres fejlesztéséről.

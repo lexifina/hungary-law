@@ -1,1 +1,0 @@
-53. § A vezetői szolgálati beosztásba kinevezést megelőző alkalmasságvizsgálat elvégzése és minősítése érdekében az alkalmasságvizsgálatot végző pszichológus az Országgyűlési Őrség hivatásos állományának vezetőképzési rendszerének szabályait meghatározó miniszteri rendelet szerinti kompetenciavizsgálat eredményét megismerheti.
