@@ -82,3 +82,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2026-01-01 | 2025. évi LXXX. törvény | 1992-33-00-00.141 |
 | 2026-08-20 | 2026. évi XLVII. törvény | 1992-33-00-00.143 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1992-33-00-00.142 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 1992-33-00-00.144 |

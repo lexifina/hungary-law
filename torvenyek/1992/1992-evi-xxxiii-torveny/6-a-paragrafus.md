@@ -1,10 +1,10 @@
 6/A. § (1) Az 5–6. §-ban meghatározott jogokat az a szakszervezet gyakorolja, amely az adott körben reprezentatív.
 
-(2) Területi (vármegyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
+(2) Területi (megyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
 
-a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
 
-b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
+b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
 
 c)
 

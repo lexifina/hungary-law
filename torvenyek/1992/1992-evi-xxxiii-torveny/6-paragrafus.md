@@ -2,7 +2,7 @@
 
 a) ágazati jelentőségű kérdésekben az ágazati miniszter (a továbbiakban: miniszter) az országos önkormányzati érdek-képviseleti szervezetek bevonásával az érintett ágazatban, alágazatban, szakágazatban (a továbbiakban együtt: ágazat) reprezentatív szakszervezetekkel a KOMT-ban vagy a (6) bekezdés szerinti ágazati érdekegyeztető fórumban,
 
-b) területi (vármegyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
+b) területi (megyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
 
 egyeztet.
 
