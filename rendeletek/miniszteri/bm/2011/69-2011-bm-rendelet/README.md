@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-69-20-0
 | 2021-01-01 | 2011-69-20-0A.3 | 22/2020. (VII. 9.) BM rendelet |
 | 2024-09-02 | 2011-69-20-0A.4 | 11/2024. (IX. 2.) MK rendelet |
 | 2025-05-01 | 2011-69-20-0A.5 | 11/2024. (IX. 2.) MK rendelet |
+| 2026-10-01 | 2011-69-20-0A.6 | 11/2024. (IX. 2.) MK rendelet |
