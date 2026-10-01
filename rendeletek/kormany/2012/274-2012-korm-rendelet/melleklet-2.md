@@ -102,11 +102,11 @@ IV. Tűzvédelem
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A vizsgatárgy rendeltetése az, hogy általános ismeretet nyújtson a nemzetbiztonsági rendszerrel összefüggő kérdésekről. A vizsgázó ismerje a titkosszolgálati fogalmakat, képes legyen elhatárolni a különböző, kizárólag a metodikájában hasonló tevékenységi köröket. A vizsgázó ismerje a vonatkozó jogi normákat. A vizsgázó képes legyen egyértelműen megfogalmazni a szervezetek rendszerszintű elhelyezését, továbbá mind az öt szervezet vonatkozásában ismerje a rendőrhatósággal történő együttműködési felületeket.
+## A vizsgatárgy rendeltetése az, hogy általános ismeretet nyújtson a nemzetbiztonsági rendszerrel összefüggő kérdésekről. A vizsgázó ismerje a titkosszolgálati fogalmakat, képes legyen elhatárolni a különböző, kizárólag a metodikájában hasonló tevékenységi köröket. A vizsgázó ismerje a vonatkozó jogi normákat. A vizsgázó képes legyen egyértelműen megfogalmazni a szervezetek rendszerszintű elhelyezését, továbbá ezen szervezetek vonatkozásában ismerje a rendőrhatósággal történő együttműködési felületeket.
 
 ## A tantárgy elemei:
 
-I. Terrorelhárítási Központ
+I. A rendőrség terrorcselekmények felderítését és terrorcselekmények megszakítását érintő tevékenysége
 
 II. Alkotmányvédelmi Hivatal
 
@@ -142,8 +142,6 @@ VII. Krimináltaktikai, kriminálmetodikai ismeretek
 
 VIII. A rendőrség megelőzési feladatai
 
-IX. Az Országgyűlési Őrség speciális feladatai
-
 ## II.5.[^102] ADÓ- ÉS VÁMIGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
@@ -167,6 +165,6 @@ V. Büntető- és szabálysértési jogi feladatok
 [^97]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^98]: A 2. melléklet II. pont II.1. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
 [^99]: A 2. melléklet II. pont II.2. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^100]: A 2. melléklet II.3. pontja a 239/2022. (VI. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^101]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^100]: A 2. melléklet II.3. pontja a 239/2022. (VI. 30.) Korm. rendelet 19. §-ával megállapított, a 186/2026. (IX. 21.) Korm. rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^101]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja, a 186/2026. (IX. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^102]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
