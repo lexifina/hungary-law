@@ -44,6 +44,6 @@
 
 22. az állatvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
 
-23. a fővárosi és vármegyei kormányhivatal a feladat- és hatáskörét érintő tűzvédelmi, iparbiztonsági és vízügyi hatósági feladatok ellátásához,
+23. a fővárosi és megyei kormányhivatal a feladat- és hatáskörét érintő tűzvédelmi, iparbiztonsági és vízügyi hatósági feladatok ellátásához,
 
 24. a kisajátítási hatóság a jogszabályban meghatározott feladatai ellátásához.

@@ -2,7 +2,7 @@
 
 ## A nyilvántartás szervezete, hatásköri és illetékességi szabályai
 
-6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző), fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, a fővárosi és vármegyei kormányhivatal és a nyilvántartást kezelő szerv látja el.
+6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző), fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, a fővárosi és megyei kormányhivatal és a nyilvántartást kezelő szerv látja el.
 
 (2) Az állampolgársági ügyekben eljáró szerv, a hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő), közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében.
 

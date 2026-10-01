@@ -1,4 +1,4 @@
-8/A. § A Kormány rendeletében kijelölt fővárosi és vármegyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)
+8/A. § A Kormány rendeletében kijelölt fővárosi és megyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)
 
 a) ellátja a nyilvántartással, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, jogszabályban hatáskörébe utalt hatósági feladatokat;
 
