@@ -8,7 +8,7 @@
 
 a) az országos illetékességgel működő központi szerv,
 
-b) a vármegyei, fővárosi illetékességgel működő területi szervek,
+b) a megyei, fővárosi illetékességgel működő területi szervek,
 
 c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
