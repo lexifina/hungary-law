@@ -14,7 +14,7 @@ e) az országos rendőrfőkapitány és helyettesei, illetve az országos rendő
 
 f)[^5] az illetékes vármegyei vagy fővárosi rendőrfőkapitány és helyettesei,
 
-g) a Készenléti Rendőrség által üzemeltett fogda vonatkozásában a Készenléti Rendőrség parancsnoka és helyettesei,
+g)[^6] a Nemzeti Nyomozó Iroda által üzemeltett fogda vonatkozásában a Nemzeti Nyomozó Iroda igazgatója és helyettesei,
 
 h) az illetékes rendőrkapitány és helyettese,
 
@@ -35,3 +35,4 @@ c) a Rendvédelmi Közegészségügyi-Járványügyi Szolgálat,
 d) a rendőrség munkavédelmi főfelügyelője.
 
 [^5]: A 7. § (1) bekezdés f) pontja az 50/2022. (XII. 27.) BM rendelet 7. §-a szerint módosított szöveg.
+[^6]: A 7. § (1) bekezdés g) pontja a 23/2026. (IX. 30.) BM rendelet 42. § b) pontja szerint módosított szöveg.

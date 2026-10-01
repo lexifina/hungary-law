@@ -8,7 +8,7 @@ a) a rendőrkapitány, ha a megtámadott határozatot a rendőrkapitányság sze
 
 b) a rendőrfőkapitány, ha a megtámadott határozatot a rendőr-főkapitányság szervezeti elemének vezetője hozta,
 
-c) a Készenléti Rendőrség parancsnoka, ha a megtámadott határozatot a Készenléti Rendőrség Nemzeti Nyomozó Iroda vezetője hozta.
+c)[^24] a Nemzeti Nyomozó Iroda igazgatója, ha a megtámadott határozatot a Nemzeti Nyomozó Iroda szervezeti elemének vezetője hozta.
 
 (4) A panaszt a határozat kihirdetésekor kell bejelenteni, amelyet a fegyelmi jogkör gyakorlója az iratokkal együtt 3 munkanapon belül felterjeszt a panasz elbírálására jogosultnak.
 
@@ -21,3 +21,5 @@ b) enyhébb fenyítést szab ki,
 c) a fegyelmi eljárást megszünteti, vagy
 
 d) a fenyítést kiszabó határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el.
+
+[^24]: A 40. § (3) bekezdés c) pontja a 23/2026. (IX. 30.) BM rendelet 41. §-ával megállapított szöveg.

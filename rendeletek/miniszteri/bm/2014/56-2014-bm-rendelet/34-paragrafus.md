@@ -26,7 +26,7 @@ d) rögzíti a kábítószer-fogyasztásra, egyéb szenvedélybetegségekre, ill
 
 (6) Amennyiben az ellátáshoz szükséges, az orvos a fogvatartott egészségi állapotával kapcsolatos, a fogvatartást megelőző időszakban keletkezett, a fogvatartottra vonatkozó egészségügyi dokumentációt beszerzi.
 
-(7)[^17] A fiatalkorú orvosi vizsgálatát akkor is el kell végezni, ha ezt
+(7)[^19] A fiatalkorú orvosi vizsgálatát akkor is el kell végezni, ha ezt
 
 a) az eljárás alá vont személy,
 
@@ -36,7 +36,7 @@ c) a kirendelt ügyvédje
 
 kérelmezi.
 
-(8)[^18] Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
+(8)[^20] Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
 
-[^17]: A 34. § (7) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^18]: A 34. § (8) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^19]: A 34. § (7) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^20]: A 34. § (8) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.

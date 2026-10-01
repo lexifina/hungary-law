@@ -1,4 +1,4 @@
-## 38. §[^21] Fegyelmi vétséget követ el és fenyítéssel sújtható az a letartóztatott, elítélt, vagy szabálysértési elzárás büntetését töltő személy (a továbbiakban együtt: eljárás alá vont személy), aki jogszabályban meghatározott kötelezettségét vétkesen megszegi, más fogvatartottat kötelességszegésre hív fel, vagy jogaik gyakorlását, kötelezettségeik teljesítését akadályozza.
+## 38. §[^23] Fegyelmi vétséget követ el és fenyítéssel sújtható az a letartóztatott, elítélt, vagy szabálysértési elzárás büntetését töltő személy (a továbbiakban együtt: eljárás alá vont személy), aki jogszabályban meghatározott kötelezettségét vétkesen megszegi, más fogvatartottat kötelességszegésre hív fel, vagy jogaik gyakorlását, kötelezettségeik teljesítését akadályozza.
 
 39. § (1) A fegyelmi jogkört a fogvatartás alapjául szolgáló eljárást folytató szerv vezetője gyakorolja.
 
@@ -12,4 +12,4 @@
 
 (6) Az eljárás alá vont személy által elkövetett egy eljárás során elbírált fegyelmi vétségek miatt – ha törvény másként nem rendelkezik – egy fenyítést lehet kiszabni.
 
-[^21]: A 38. § a 21/2018. (VI. 29.) BM rendelet 23. § d) pontja szerint módosított szöveg.
+[^23]: A 38. § a 21/2018. (VI. 29.) BM rendelet 23. § d) pontja szerint módosított szöveg.
