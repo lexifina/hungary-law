@@ -24,7 +24,7 @@ d) jogszabály alapján, illetve az Alapszabály által meghatározott egyéb ka
 
 a) az Alapszabályban meghatározott körben képviseli az országos szervezetet,
 
-b) irányítja a vármegyei titkárok munkáját,
+b) irányítja a megyei titkárok munkáját,
 
 c) elbírálja a 2. § (5a) bekezdése szerinti fellebbezéseket és határozatot hoz a 26. § (2) bekezdése szerint,
 

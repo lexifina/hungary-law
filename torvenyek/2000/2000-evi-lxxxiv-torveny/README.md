@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-84-00-00
 | 2025-01-01 | 2024. évi LXXX. törvény | 2000-84-00-00.22 |
 | 2025-05-01 | 2024. évi LXXX. törvény | 2000-84-00-00.21 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2000-84-00-00.23 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2000-84-00-00.24 |

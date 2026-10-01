@@ -8,7 +8,7 @@
 
 a) országos szervezettel, valamint
 
-b) a vármegyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
+b) a megyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
 
 rendelkezik.
 
