@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2025-07-20 | 2025. évi L. törvény | 2009-37-00-00.54 |
 | 2025-12-24 | 2025. évi XCVII. törvény | 2009-37-00-00.56 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2009-37-00-00.55 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2009-37-00-00.57 |
