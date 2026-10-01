@@ -1,1 +1,1 @@
-1/C. § Budapest Főváros Önkormányzatának a Budapest 232045/3, 232045/5, 232045/6, 224969/1, 224969/2 és 224969/3 helyrajzi számú ingatlan fennálló vagyonkezelői joga e törvény erejénél fogva 2026. július 1-jével megszűnik.
+### 1/C. §
