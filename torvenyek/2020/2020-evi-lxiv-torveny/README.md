@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-64-00-00
 | 2021-05-14 | 2021. évi XXXIII. törvény | 2020-64-00-00.4 |
 | 2021-05-28 | 2021. évi LIII. törvény | 2020-64-00-00.5 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2020-64-00-00.6 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2020-64-00-00.7 |
