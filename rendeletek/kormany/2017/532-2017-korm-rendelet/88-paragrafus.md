@@ -8,6 +8,6 @@ b) a felelős vezető személy nevét.
 
 (2) Az (1) bekezdésben meghatározott kérelem benyújtásakor igazolni kell az e rendelet követelményeinek teljesítését. A kérelemhez csatolni kell az 53/2016. (XII. 16.) NFM rendelet 11. vagy a 12. számú mellékletében meghatározott kézikönyveket.
 
-(3)[^102]
+(3)[^104]
 
-[^102]: A 88. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^104]: A 88. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.

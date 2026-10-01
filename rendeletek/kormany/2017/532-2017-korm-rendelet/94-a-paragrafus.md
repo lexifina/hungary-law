@@ -1,4 +1,4 @@
-94/A. §[^105] (1) A légiközlekedési hatóság a vizsgáztatói tanúsítást felfüggeszti, ha
+94/A. §[^107] (1) A légiközlekedési hatóság a vizsgáztatói tanúsítást felfüggeszti, ha
 
 a) az engedélyes akadályozza a légiközlekedési hatóságnak a vizsgáztatói tevékenység ellenőrzésével kapcsolatos eljárását, az ellenőrzés lehetővé tételéig,
 
@@ -12,4 +12,4 @@ c) az engedélyes a polgári légiközlekedési személyzet egészségügyi alka
 
 (4) A vizsgáztatói tanúsítás engedélyese a felfüggesztett tanúsításához kapcsolódó jogosultságokat a felfüggesztés hatálya alatt nem gyakorolhatja.
 
-[^105]: A 94/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (6) bekezdése iktatta be.
+[^107]: A 94/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (6) bekezdése iktatta be.
