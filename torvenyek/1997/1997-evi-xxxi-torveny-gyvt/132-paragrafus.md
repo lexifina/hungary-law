@@ -10,7 +10,7 @@ b) szakértőt rendel ki.
 
 (3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.
 
-(4) A nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
+(4) A nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
 
 (5) Az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában, valamint a támogatott lakhatásban az Szt.-ben meghatározott feltételek szerint helyezhetők el gyermekek.
 

@@ -26,7 +26,7 @@ l) a javítóintézet,
 
 m) a gyermekjogi képviselő,
 
-n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
+n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal,
 
 o) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv.
 
@@ -80,7 +80,7 @@ d) a gyermek által megkísérelt öngyilkosság, ha a gyermek még nem részes�
 
 (5) A gyámhatóság a (4) bekezdésben foglaltakkal egyidejűleg egyeztető megbeszélést tart és a gyermekjóléti szolgáltatást nyújtó szolgáltatónál kezdeményezi a külön jogszabály szerinti esetmegbeszélés megtartását.
 
-(6) A fővárosi, vármegyei kormányhivatal szakmai támogatást nyújt a család- és gyermekjóléti központok járási jelzőrendszeri tanácsadóinak, valamint évente egyszer összehívja őket és közösen értékelik a vármegye gyermekvédelmi jelzőrendszerének működését.
+(6) A fővárosi, megyei kormányhivatal szakmai támogatást nyújt a család- és gyermekjóléti központok járási jelzőrendszeri tanácsadóinak, valamint évente egyszer összehívja őket és közösen értékelik a megye gyermekvédelmi jelzőrendszerének működését.
 
 (7) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv gondoskodik a jelzőrendszer hatékony működését és fejlesztését szolgáló
 

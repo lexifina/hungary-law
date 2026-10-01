@@ -30,7 +30,7 @@ i) ellátás: a jogszabályban meghatározott pénzbeli, természetbeni, valamin
 
 j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
 
-k) gyámhatóság: a fővárosi és vármegyei kormányhivatal, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
+k) gyámhatóság: a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
 
 l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 

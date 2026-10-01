@@ -2,7 +2,7 @@
 
 ## A miniszter feladatai
 
-101. § (1) A miniszter – a javítóintézetek kivételével – ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
+101. § (1) A miniszter ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
 
 (2) A miniszter az (1) bekezdésben foglalt ágazati irányító jogkörében
 
@@ -42,7 +42,7 @@ m) támogatja a gyermekvédelmi gondoskodásban élő gyermek és fiatal felnőt
 
 n) statisztikai vizsgálatot végezhet a szakpolitikai döntés-előkészítés, tervezés megalapozása érdekében, amelyre tekintettel jogosult a 137. § (2) bekezdése, a 138. § (1) bekezdése, a 139. § (1), (1a) és (1e) bekezdése, a 139/A. § (1) bekezdése, a 139/B. § (1) bekezdése, a 140. § és a 141. § szerinti nyilvántartás vezetéséért felelős szervtől – személyazonosításra alkalmatlan módon – statisztikai adatokat kérni.
 
-(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
+(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
 
 (2b) A miniszter a (2) bekezdés m) pontjában foglalt feladata ellátása során a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt és a munkaerőpiaci szereplők közötti kapcsolatfelvétel biztosítása, a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt számára a személyiségének, érdeklődési körének, képességeinek és végzettségének legmegfelelőbb foglalkoztató kiválasztásának támogatása céljából, a gyermeknek, fiatal felnőttnek a foglalkoztatása kezdő időpontjáig kezeli a gyermek és fiatal felnőtt 135. § (2) bekezdés a) pont aa), ab) és ae) alpontja szerinti adatait, valamint az a) pont af)–ah) alpontok szerinti adatai közül azokat, amelyek az elhelyezkedést befolyásolják és a konkrét munkakör betöltéséhez szükségesek, továbbá jogosult a pontosság elvére figyelemmel azokra vonatkozóan a 135. § (1) bekezdésben meghatározott személyektől és szervezetektől adatszolgáltatást kérni.
 
@@ -64,7 +64,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5)
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6) A gyermek- és ifjúságpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
 

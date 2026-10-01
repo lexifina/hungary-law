@@ -120,7 +120,7 @@ ba) a gyermekjóléti alapellátást nyújtó részéről a gyermek veszélyezte
 
 bb) a gyermekvédelmi szakellátás esetén az elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv elkészítése, valamint a gondozási-nevelési tevékenység megvalósításának értékelése
 
-c) a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
+c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
 
 d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
 
@@ -208,7 +208,7 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(5) bekezdései szerinti célból egymásnak átadhatják.
 
-(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a vármegyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
+(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a megyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
 
 (6b) A gyermekjogi képviselő a feladat- és hatáskörébe tartozó ügy intézése során a Gyermekeink védelmében elnevezésű informatikai rendszerben rögzített adatokat jogosult megtekinteni.
 

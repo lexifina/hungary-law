@@ -26,14 +26,10 @@ b) a gondozási helye előzetes egyeztetés alapján fogadja a szabadsága időt
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
 
-(8) A javítóintézetben a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
+(8)
 
-(9) A (8) bekezdés szerinti esetben
+(9)
 
-a) a szolgálatellátás nem irányulhat a (8) bekezdésben meghatározott feladatok ellátásával össze nem függő tevékenységre, és
+(10)
 
-b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
-
-(10) Az általános rendőrségi feladatok ellátására létrehozott szerv a javítóintézetben folyamatos bűnmegelőzési célú rendőri felügyeletet biztosít, amelynek keretében rendszeres bűnmegelőzési tájékoztatást tart a javítóintézet, valamint a javítóintézetben neveltek számára létrehozott köznevelési intézmény dolgozói számára a javítóintézeti ellátottakkal szemben alkalmazható intézkedésekről és a velük való jogszerű bánásmódról.
-
-(11) A (10) bekezdés szerinti tevékenység keretében biztosítani kell, hogy a javítóintézeti ellátottak a rendőrnek – a javítóintézet alkalmazottainak jelenléte, tudomása vagy jóváhagyása nélkül – zavartalanul beszámolhassanak az őket ért jogsértésekről.
+(11)
