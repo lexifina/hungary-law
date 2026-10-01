@@ -1,5 +1,5 @@
-## 24.[^86]
+## 24.[^87]
 
 26. §
 
-[^86]: A 24. alcímet (26. §-t) a 62/2024. (XII. 30.) BM rendelet 9. § f) pontja hatályon kívül helyezte.
+[^87]: A 24. alcímet (26. §-t) a 62/2024. (XII. 30.) BM rendelet 9. § f) pontja hatályon kívül helyezte.

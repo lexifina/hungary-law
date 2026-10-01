@@ -1,3 +1,3 @@
-31. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^184]
+31. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^186]
 
-[^184]: A 31. mellékletet a 21/2014. (III. 10.) BM rendelet 8. § c) pontja iktatta be, a 62/2024. (XII. 30.) BM rendelet 9. § o) pontja hatályon kívül helyezte.
+[^186]: A 31. mellékletet a 21/2014. (III. 10.) BM rendelet 8. § c) pontja iktatta be, a 62/2024. (XII. 30.) BM rendelet 9. § o) pontja hatályon kívül helyezte.

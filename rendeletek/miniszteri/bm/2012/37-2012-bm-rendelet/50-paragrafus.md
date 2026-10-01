@@ -2,19 +2,19 @@
 
 (2) A belügyi szervek az éves költségvetésben meghatározott jutalomkeretüket csak a belügyminiszter előzetes engedélyével léphetik túl.
 
-(3)[^122] A minisztérium vezetői által adott elismerésekkel kapcsolatos előkészítési, emléktárgy-biztosítási, nyilvántartási, szervezési és egyéb feladatokat a BM Személyügyi Helyettes Államtitkári Titkárság végzi.
+(3)[^124] A minisztérium vezetői által adott elismerésekkel kapcsolatos előkészítési, emléktárgy-biztosítási, nyilvántartási, szervezési és egyéb feladatokat a BM Személyügyi Helyettes Államtitkári Titkárság végzi.
 
-(4)[^123] Kitüntetés, belügyminiszteri elismerés, más miniszter által adható elismerés adományozására vonatkozó kezdeményezés (a továbbiakban együtt: kezdeményezés) a BM Személyügyi Helyettes Államtitkári Titkárság útján történik. A kezdeményezést
+(4)[^125] Kitüntetés, belügyminiszteri elismerés, más miniszter által adható elismerés adományozására vonatkozó kezdeményezés (a továbbiakban együtt: kezdeményezés) a BM Személyügyi Helyettes Államtitkári Titkárság útján történik. A kezdeményezést
 
-a)[^124]
+a)[^126]
 
 b) a belügyminiszteri elismerésre vonatkozóan legalább egy hónappal,
 
-c)[^125] a más miniszter által adományozható elismerésre vonatkozóan az adott elismerésre irányadó eljárási rendet meghatározó jogszabályban megjelölt javaslattételi határidőt megelőzően legalább egy hónappal
+c)[^127] a más miniszter által adományozható elismerésre vonatkozóan az adott elismerésre irányadó eljárási rendet meghatározó jogszabályban megjelölt javaslattételi határidőt megelőzően legalább egy hónappal
 
 kell felterjeszteni, illetve megküldeni a BM Személyügyi Főosztályhoz.
 
-(4a)[^126] A 9/B–9/S. alcímben, valamint a 24/C. alcímben szereplő elismerések adományozását az adományozási alkalmat megelőzően, legalább 3 naptári hónappal korábban kell kezdeményezni a szakterületért felelős államtitkárnál, oly módon, hogy a kezdeményezést az elismerés adományozását megelőzően legalább egy hónappal korábban fel kell terjeszteni a BM Személyügyi Helyettes Államtitkári Titkársághoz.
+(4a)[^128] A 9/B–9/S. alcímben, valamint a 24/C. alcímben szereplő elismerések adományozását az adományozási alkalmat megelőzően, legalább 3 naptári hónappal korábban kell kezdeményezni a szakterületért felelős államtitkárnál, oly módon, hogy a kezdeményezést az elismerés adományozását megelőzően legalább egy hónappal korábban fel kell terjeszteni a BM Személyügyi Helyettes Államtitkári Titkársághoz.
 
 (5) Előre nem látható okból indokolttá vált vagy rendkívüli eseménnyel kapcsolatos elismeréseknél a (4) bekezdésben meghatározott határidőtől el lehet tekinteni.
 
@@ -22,11 +22,11 @@ kell felterjeszteni, illetve megküldeni a BM Személyügyi Főosztályhoz.
 
 (7) Az elismerés adományozásáról miniszteri határozatban, a belügyi szervek vezetőinek állományparancsban kell rendelkezni. A kitüntetésre és egyéb elismerésre vonatkozó adatokat a személyi állomány tagjának személyzeti anyagában nyilván kell tartani.
 
-(8)[^127] Miniszteri elismerés, kitüntetés adományozását önmaga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója számára – e rendelet eltérő rendelkezése hiányában – senki nem kezdeményezheti.
+(8)[^129] Miniszteri elismerés, kitüntetés adományozását önmaga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója számára – e rendelet eltérő rendelkezése hiányában – senki nem kezdeményezheti.
 
-[^122]: Az 50. § (3) bekezdése a 22/2024. (V. 3.) BM rendelet 4. § b) pontja szerint módosított szöveg.
-[^123]: Az 50. § (4) bekezdés nyitó szövegrésze az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 1. pontja, a 22/2024. (V. 3.) BM rendelet 4. § b) pontja szerint módosított szöveg.
-[^124]: Az 50. § (4) bekezdés a) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 8. pontja hatályon kívül helyezte.
-[^125]: [Az 50. § (4) bekezdés c) pontjában a 22/2024. (V. 3.) BM rendelet 4. § c) pontja által elrendelt módosítás, amely szerint a „Főosztályhoz” szövegrész helyébe a „Helyettes Államtitkári Titkársághoz” szöveg lép, nem vezethető át.]
-[^126]: Az 50. § (4a) bekezdését a 39/2022. (XI. 22.) BM rendelet 10. § (1) bekezdése iktatta be, szövege a 22/2024. (V. 3.) BM rendelet 4. § d) pontja szerint módosított szöveg.
-[^127]: Az 50. § (8) bekezdését a 39/2022. (XI. 22.) BM rendelet 10. § (2) bekezdése iktatta be.
+[^124]: Az 50. § (3) bekezdése a 22/2024. (V. 3.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^125]: Az 50. § (4) bekezdés nyitó szövegrésze az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 1. pontja, a 22/2024. (V. 3.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^126]: Az 50. § (4) bekezdés a) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^127]: [Az 50. § (4) bekezdés c) pontjában a 22/2024. (V. 3.) BM rendelet 4. § c) pontja által elrendelt módosítás, amely szerint a „Főosztályhoz” szövegrész helyébe a „Helyettes Államtitkári Titkársághoz” szöveg lép, nem vezethető át.]
+[^128]: Az 50. § (4a) bekezdését a 39/2022. (XI. 22.) BM rendelet 10. § (1) bekezdése iktatta be, szövege a 22/2024. (V. 3.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^129]: Az 50. § (8) bekezdését a 39/2022. (XI. 22.) BM rendelet 10. § (2) bekezdése iktatta be.
