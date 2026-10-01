@@ -1,0 +1,1 @@
+61. § A rendvédelmi igazgatási alkalmazottak rendvédelmi igazgatási szolgálati jogviszonyával összefüggő egyes szabályokról szóló 4/2019. (III. 11.) BM rendelet 10. § (3) bekezdés a) pontjában a „szervhez,” szövegrész helyébe a „szervhez vagy” szöveg lép.
