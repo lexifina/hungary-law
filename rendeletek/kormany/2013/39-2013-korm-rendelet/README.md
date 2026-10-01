@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2024-07-01 | 2013-39-20-22.28 | 165/2024. (VI. 28.) Korm. rendelet |
 | 2024-12-31 | 2013-39-20-22.29 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2026-01-01 | 2013-39-20-22.30 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2026-10-01 | 2013-39-20-22.31 | 169/2014. (VII. 18.) Korm. rendelet |

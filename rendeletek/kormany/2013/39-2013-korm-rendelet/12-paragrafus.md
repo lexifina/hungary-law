@@ -16,7 +16,7 @@ bb) legalább 1 000 000, legfeljebb 2 500 000 forint az intézmény, szervezet, 
 
 (2)[^60] A népegészségügyi feladatkörében eljáró vármegyei és a fővárosi kormányhivatal és a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal az általa az adott hónapban az Nvt. alapján kiszabott egészségvédelmi bírság összegéről nyilvántartást vezet. A nyilvántartás személyazonosításra alkalmatlan, összesített adattartalmáról, valamint a tárgyhónapban bekövetkezett változásairól népegészségügyi feladatkörében eljáró fővárosi és a vármegyei kormányhivatal a tárgyhónapot követő hónap 20. napjáig elektronikus úton tájékoztatja az NNGYK-t.
 
-(3)[^61] Az (1) és (2) bekezdésben foglaltaktól eltérően, ha egészségügyi államigazgatási szervként a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlója járt el,
+(3)[^61] Az (1) és (2) bekezdésben foglaltaktól eltérően, ha egészségügyi államigazgatási szervként a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlója járt el,
 
 a) az egészségvédelmi bírságot a 8/A. mellékletben meghatározott szervnek az ott megjelölt, központosított beszedési célelszámolási számlájára kell befizetni,
 
@@ -29,5 +29,5 @@ b) a (2) bekezdés szerinti nyilvántartási és tájékoztatási kötelezettsé
 [^58]: A 12. § (1a) bekezdés b) pont ba) alpontja a 286/2023. (VI. 30.) Korm. rendelet 44. § d) pontja szerint módosított szöveg.
 [^59]: A 12. § (1b) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
 [^60]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 220. § (1) bekezdésével megállapított, a 162/2018. (IX. 10.) Korm. rendelet 22. § b) pontja, a 304/2023. (VII. 11.) Korm. rendelet 8. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
-[^61]: A 12. § (3) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 11. §-a iktatta be.
+[^61]: A 12. § (3) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 11. §-a iktatta be, nyitó szövegrésze a 188/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^62]: A 12. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 10. §-a iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 37. §-a, a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja, a 300/2018. (XII. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
