@@ -124,3 +124,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2026-01-01 | 2025. évi LXXX. törvény | 1988-1-00-00.152 |
 | 2026-07-31 | 2026. évi XXXVII. törvény | 1988-1-00-00.161 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1988-1-00-00.160 |
+| 2026-10-01 | 2026. évi XX. törvény | 1988-1-00-00.159 |

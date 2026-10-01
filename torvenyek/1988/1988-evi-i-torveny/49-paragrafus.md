@@ -17,3 +17,13 @@ f) az európai statisztikákról és a titoktartási kötelezettség hatálya al
 g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdése;
 
 h) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt – a 2010/40/EU európai parlamenti és tanácsi irányelvnek a közúti biztonsággal kapcsolatos, minimális általános forgalmi információk lehetőség szerinti, a felhasználók számára térítésmentes biztosításához szükséges adatok és eljárások tekintetében való kiegészítéséről szóló 2013. május 15-i 886/2013/EU bizottsági rendelet,
+
+i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló 2014. december 18-i 2015/962/EU bizottsági rendelet,
+
+j) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet.
+
+k) az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i 2023/1804/EU európai parlamenti és tanácsi rendelet.
+
+(2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 1999/62/EK irányelve (1999. június 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról, 2. cikk b) és c) pontja, 7. cikk (2) bekezdésének a) pontja, (3)–(4) és (9)–(10) bekezdése, 9. cikk (2) bekezdése;

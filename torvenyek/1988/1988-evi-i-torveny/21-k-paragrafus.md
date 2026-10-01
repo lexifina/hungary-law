@@ -142,7 +142,9 @@ d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellá
 
 e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
 
-f) a terrorizmust elhárító szerv.
+f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 1. § (2) bekezdés 15a. pontjában meghatározott feladata ellátása érdekében,
+
+g) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi és létesítménybiztosítási feladatai ellátása érdekében.
 
 (9) A (3) bekezdés szerinti adatokat a Nemzeti Tengelysúlymérő Rendszerből
 

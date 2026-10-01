@@ -1,3 +1,3 @@
-46/P. § (1) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz 12. § (3c) bekezdése szerinti elhelyezése esetén, ha az elhelyezéshez kapott hozzájárulás időbeli hatálya az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet idején járt le, a hozzájárulás és az azt tartalmazó szerződés időbeli hatálya e veszélyhelyzet megszűnéséig meghosszabbodik.
+46/P. § (1)
 
 (2) Az e törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 29. § (1g)–(1k) és (2b) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.
