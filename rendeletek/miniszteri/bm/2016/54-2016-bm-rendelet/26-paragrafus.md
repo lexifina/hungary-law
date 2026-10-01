@@ -10,17 +10,9 @@
 
 (4) A 23. § (1) bekezdésében szabályozott eljárásban a vezényeltet fogadó szerv humánigazgatási szakszolgálata együttműködik az eredeti rendvédelmi szerv központi humánigazgatási szakszolgálatával.
 
-(5)[^24] Az (1)–(4) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
+(5)[^25] Az (1)–(4) bekezdés rendelkezéseit a Hszt. 51. § (3) bekezdés a) pontja alapján a Nemzeti Közszolgálati Egyetemre vezényeltekre is megfelelően alkalmazni kell.
 
-(6)[^25] A hivatásos állománynak az Országgyűlési Őrséghez vezényelt tagja esetében a Hszt. 330. § (3) bekezdés i) pont ib) alpontjára figyelemmel
+(6)[^26]
 
-a) az (1) bekezdéstől eltérően nem a vezényeltet fogadó Országgyűlési Őrség humánigazgatási szakszolgálata, hanem az eredeti rendvédelmi szervnek a vezénylést megelőző szolgálati hely szerinti humánigazgatási szakszolgálata folytatja le az (1) bekezdés szerinti eljárást, és a személyzeti megbeszélésen a vezényeltet fogadó rendvédelmi szerv szerinti állományilletékes parancsnok nem vehet részt,
-
-b) a (2) bekezdéstől eltérően a vezényeltet fogadó Országgyűlési Őrség nem jelölhet meg felajánlható üres álláshelyeket,
-
-c) a (3) bekezdéstől eltérően a vezényeltet fogadó Országgyűlési Őrség nem ajánlhatja fel, hogy a vezényeltet fogadó Országgyűlési Őrségnél kerüljön sor az átminősítésre vagy új álláshely létrehozására,
-
-d) a (4) bekezdés alkalmazására nem kerül sor.
-
-[^24]: A 26. § (5) bekezdését a 40/2017. (XII. 29.) BM rendelet 16. § (4) bekezdése iktatta be.
-[^25]: A 26. § (6) bekezdését a 39/2025. (IX. 18.) BM rendelet 15. §-a iktatta be.
+[^25]: A 26. § (5) bekezdését a 40/2017. (XII. 29.) BM rendelet 16. § (4) bekezdése iktatta be.
+[^26]: A 26. § (6) bekezdését a 39/2025. (IX. 18.) BM rendelet 15. §-a iktatta be, a 23/2026. (IX. 30.) BM rendelet 56. § c) pontja hatályon kívül helyezte.

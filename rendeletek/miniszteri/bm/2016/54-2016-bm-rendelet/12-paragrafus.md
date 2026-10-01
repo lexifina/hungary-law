@@ -1,6 +1,6 @@
 ## 11. § Ha a hivatásos állomány tagja a Hszt. 82/A. § (6) bekezdése szerint az egészségkárosodási ellátásra jogosultság megállapítása helyett a szolgálati viszonyának felmentéssel történő megszüntetését kéri, e kérelmet az állományilletékes parancsnoknak címezve a humánigazgatási szakszolgálathoz kell benyújtani. Ebben az esetben a 9. § (2) bekezdése szerinti tájékoztatással egyidejűleg a humánigazgatási szakszolgálat intézkedik a hivatásos állomány tagjának felmentése érdekében.
 
-## 12. §[^16] A Hszt. 82/D. § (2) bekezdése alapján az állományilletékes parancsnok az eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel a központi humánigazgatási szakszolgálatnak:
+## 12. §[^17] A Hszt. 82/D. § (2) bekezdése alapján az állományilletékes parancsnok az eljárás lefolytatásához szükséges alábbi iratokat terjeszti fel a központi humánigazgatási szakszolgálatnak:
 
 a) a FÜV Bizottság által folytatott eljárás során beszerzett, a rehabilitációs hatóság által kiállított szakvélemény,
 
@@ -16,11 +16,11 @@ f) a hivatásos állomány tagját az egészségi alkalmatlanság megállapítá
 
 g) az álláshely elfogadása esetén az új illetményre vonatkozó adatok,
 
-h)[^17] ha a rendvédelmi szerv rendelkezésére áll ilyen irat, a hivatásos állomány tagjának baleseti ellátásra, rokkantsági ellátásra vagy rehabilitációs ellátásra való jogosultságáról, továbbá az ezen ellátás összegéről szóló tájékoztatás,
+h)[^18] ha a rendvédelmi szerv rendelkezésére áll ilyen irat, a hivatásos állomány tagjának baleseti ellátásra, rokkantsági ellátásra vagy rehabilitációs ellátásra való jogosultságáról, továbbá az ezen ellátás összegéről szóló tájékoztatás,
 
 i) a döntéshozatalhoz szükséges egyéb személyügyi adatok, és
 
 j) a szolgálati viszony megszüntetéséről szóló állományparancs vagy határozat tervezete.
 
-[^16]: A 12. § nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^17]: A 12. § h) pontja a 39/2025. (IX. 18.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^17]: A 12. § nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^18]: A 12. § h) pontja a 39/2025. (IX. 18.) BM rendelet 17. § a) pontja szerint módosított szöveg.
