@@ -1,3 +1,3 @@
-48. §[^213]
+48. §[^222]
 
-[^213]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
+[^222]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.

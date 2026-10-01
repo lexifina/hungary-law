@@ -2,7 +2,7 @@
 
 6. § (1) A Nemzeti Polgári Légiközlekedés Védelmi Program célja a légiközlekedés védelme és jogellenes cselekmények megelőzése érdekében szükséges stratégiai döntések meghatározása, valamint az 1. § (1) bekezdés szerinti szervezetek együttműködésének összehangolását biztosító intézkedések kidolgozása.
 
-(2)[^15] A légiközlekedés védelmében közreműködő szervezetnek
+(2)[^17] A légiközlekedés védelmében közreműködő szervezetnek
 
 a) a Nemzeti Polgári Légiközlekedés Védelmi Programban foglaltak alapján kidolgozott és jóváhagyott védelmi programmal (a továbbiakban: védelmi program),
 
@@ -12,15 +12,15 @@ c) védelmi képzési programmal
 
 kell rendelkeznie, amelyek hiánya esetén légiközlekedési tevékenység ellátásához szükséges engedély nem adható ki.
 
-(2a)[^16] A védelmi program az uniós légiközlekedés védelmi jogszabályokban, valamint a nemzeti légiközlekedés védelmi programokban foglalt előírások adott szervezetnél történő végrehajtásának részletes eljárási rendjét tartalmazza.
+(2a)[^18] A védelmi program az uniós légiközlekedés védelmi jogszabályokban, valamint a nemzeti légiközlekedés védelmi programokban foglalt előírások adott szervezetnél történő végrehajtásának részletes eljárási rendjét tartalmazza.
 
-(2b)[^17] A védelmi programot a 300/2008/EK európai parlamenti és tanácsi rendelet mellékletében meghatározott közös alapkövetelményi pontok alapján, az ott feltüntetett sorrendben kell meghatározni a légiközlekedés védelmében közreműködő szervezetre vonatkozó végrehajtási feladatokat is részletezve. A Repülőtéri Kézikönyv a légiközlekedés védelmi vonatkozású eljárásait a repülőtéri védelmi program jóváhagyása után, annak megfelelően tartalmazza.
+(2b)[^19] A védelmi programot a 300/2008/EK európai parlamenti és tanácsi rendelet mellékletében meghatározott közös alapkövetelményi pontok alapján, az ott feltüntetett sorrendben kell meghatározni a légiközlekedés védelmében közreműködő szervezetre vonatkozó végrehajtási feladatokat is részletezve. A Repülőtéri Kézikönyv a légiközlekedés védelmi vonatkozású eljárásait a repülőtéri védelmi program jóváhagyása után, annak megfelelően tartalmazza.
 
-(2c)[^18] A védelmi program 5 évig érvényes.
+(2c)[^20] A védelmi program 5 évig érvényes.
 
-(3)[^19]
+(3)[^21]
 
-(4)[^20] A Nemzeti Polgári Légiközlekedés Védelmi Program
+(4)[^22] A Nemzeti Polgári Légiközlekedés Védelmi Program
 
 a) a 300/2008/EK európai és tanácsi rendeletből,
 
@@ -36,12 +36,12 @@ f) a légiközlekedési hatóság által a légiközlekedésről szóló 1995. �
 
 áll.
 
-(5)[^21]
+(5)[^23]
 
-[^15]: A 6. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^16]: A 6. § (2a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
-[^17]: A 6. § (2b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
-[^18]: A 6. § (2c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
-[^19]: A 6. § (3) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 1. pontja hatályon kívül helyezte.
-[^20]: A 6. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^21]: A 6. § (5) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 2. pontja hatályon kívül helyezte.
+[^17]: A 6. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^18]: A 6. § (2a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^19]: A 6. § (2b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^20]: A 6. § (2c) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 25. §-a iktatta be.
+[^21]: A 6. § (3) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 1. pontja hatályon kívül helyezte.
+[^22]: A 6. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^23]: A 6. § (5) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 25. § 2. pontja hatályon kívül helyezte.

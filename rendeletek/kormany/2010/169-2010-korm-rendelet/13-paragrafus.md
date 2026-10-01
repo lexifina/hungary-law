@@ -1,4 +1,4 @@
-13. §[^46] A légiközlekedési hatóság
+13. §[^48] A légiközlekedési hatóság
 
 1. jóváhagyja a légiközlekedés védelmében közreműködő szervezetek által készített védelmi programot, valamint – szükség esetén az együttműködő hatóságokkal előzetesen egyeztetett módon közösen – rendszeresen ellenőrzi azok betartását;
 
@@ -70,4 +70,4 @@ d) a katasztrófavédelmi szervet a tiltott eszközöknek minősített pirotechn
 
 29. eljárást dolgoz ki, valamint megteszi a szükséges intézkedéseket a gyalogosan hordozható légvédelmi rakétarendszerek és egyéb fegyveres támadások megelőzése érdekében, amely fenyegetést jelenthet a repülőtér és a légijárművek közelében.
 
-[^46]: A 13. § a 251/2024. (VIII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^48]: A 13. § a 251/2024. (VIII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.

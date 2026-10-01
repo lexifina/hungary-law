@@ -4,18 +4,18 @@
 
 a) jelentéseket készít a nemzetközi kötelezettségeknek megfelelően,
 
-b)[^36]
+b)[^38]
 
-c)[^37] képviseli Magyarországot a Bizottság szakértői Munkabizottságban,
+c)[^39] képviseli Magyarországot a Bizottság szakértői Munkabizottságban,
 
-d)[^38]
+d)[^40]
 
-e)[^39]
+e)[^41]
 
-f)[^40]
+f)[^42]
 
-[^36]: A 11. § b) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
-[^37]: A 11. § c) pontja a 304/2011. (XII. 23.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
-[^38]: A 11. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
-[^39]: A 11. § e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
-[^40]: A 11. § f) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^38]: A 11. § b) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^39]: A 11. § c) pontja a 304/2011. (XII. 23.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^41]: A 11. § e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^42]: A 11. § f) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.

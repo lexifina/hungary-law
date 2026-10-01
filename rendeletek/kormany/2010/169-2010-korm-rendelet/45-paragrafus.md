@@ -1,3 +1,3 @@
-45. §[^208]
+45. §[^217]
 
-[^208]: A 45. §-t a 251/2024. (VIII. 22.) Korm. rendelet 42. § d) pontja hatályon kívül helyezte.
+[^217]: A 45. §-t a 251/2024. (VIII. 22.) Korm. rendelet 42. § d) pontja hatályon kívül helyezte.

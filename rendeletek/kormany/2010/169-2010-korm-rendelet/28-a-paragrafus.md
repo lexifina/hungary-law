@@ -1,4 +1,4 @@
-## 18/A.[^144] A légiközlekedés védelmi fenyegetettségre vonatkozó szabályok
+## 18/A.[^151] A légiközlekedés védelmi fenyegetettségre vonatkozó szabályok
 
 28/A. § (1) A légiközlekedési hatóság folyamatosan elemzi a polgári légiközlekedés fenyegetettségének szintjét, amelyet negyedévente felülvizsgál. A kockázatelemzés során ki kell térni különösen az alábbi lehetséges fenyegetéstípusokra:
 
@@ -46,4 +46,4 @@ k) hoaxok.
 
 (5) Az együttműködő hatóságok és a légiközlekedésben közreműködő szervezetek a fenyegetettséggel kapcsolatos feladatokban együttműködnek a légiközlekedési hatósággal, illetve a fenyegetettség szintjének meghatározása érdekében a szükséges információkat a légiközlekedési hatóság részére átadják.
 
-[^144]: A 18/A. alcímet (28/A. §-t) a 251/2024. (VIII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^151]: A 18/A. alcímet (28/A. §-t) a 251/2024. (VIII. 22.) Korm. rendelet 35. §-a iktatta be.

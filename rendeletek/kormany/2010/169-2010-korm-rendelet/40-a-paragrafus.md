@@ -1,4 +1,4 @@
-## 26/A. [^196] Kibervédelmi intézkedések
+## 26/A. [^203] Kibervédelmi intézkedések
 
 40/A. § (1) A nemzetbiztonsági szakszolgálat elektronikus úton tájékoztatja az együttműködő hatóságokat és a légiközlekedés védelmében közreműködő szervezeteket az aktuális, releváns információkról, fenyegetettségről és kockázatokról, a kiberkockázatokat is beleértve, annak érdekében, hogy azok megfelelő kockázatelemzést tudjanak végrehajtani feladataik ellátásához.
 
@@ -50,7 +50,7 @@ f) a folyamatos működést szolgáló információ-feldolgozó, infokommunikác
 
 g) az összes funkció újrakezdése időpontjának az üzletmenet-folytonossági eljárás aktiválását követő meghatározásával kapcsolatos szabályokat.
 
-(10)[^197] A kiberbiztonsági incidenskezelési eljárás magában foglalja az előkészületet, az észlelést, a vizsgálatot, az elszigetelést, a megszüntetést és a helyreállítást, továbbá összehangolja a kiberbiztonsági incidenskezelést az üzletmenet-folytonossági eljáráshoz tartozó tevékenységekkel.
+(10)[^204] A kiberbiztonsági incidenskezelési eljárás magában foglalja az előkészületet, az észlelést, a vizsgálatot, az elszigetelést, a megszüntetést és a helyreállítást, továbbá összehangolja a kiberbiztonsági incidenskezelést az üzletmenet-folytonossági eljáráshoz tartozó tevékenységekkel.
 
 (11) A biztonsági kockázatelemzés eredményének értékelése alapján a biztonsági kockázattal arányos módon gondoskodni kell legalább a következőkről:
 
@@ -76,8 +76,8 @@ j) a felderítő, megelőző és helyreállító intézkedések bevezetéséről
 
 (12) A légiközlekedési hatóság a (2)–(11) bekezdésben foglaltak végrehajtásához szükséges szakmai szabályokat a honlapján útmutatóban teszi közzé.
 
-(13)[^198] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
+(13)[^205] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
 
-[^196]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
-[^197]: A 40/A. § (10) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
-[^198]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.
+[^203]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
+[^204]: A 40/A. § (10) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
+[^205]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.

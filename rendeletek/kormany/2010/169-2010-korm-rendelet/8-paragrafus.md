@@ -2,9 +2,9 @@
 
 (2) Az a légiközlekedés védelmében közreműködő szervezet, amelynél hiányosságot tártak fel, a feltárt hiányosság kijavításáról folyamatosan tájékoztatja a légiközlekedési hatóságot.
 
-(3)[^29] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program helyzetéről, a minőségbiztosítási ellenőrök ellenőrzéseiről a 18/2010/EU rendelet melléklete alapján a tárgyévet követő március 1-jéig jelentést készít, amelyet megküld a Bizottságnak.
+(3)[^31] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program helyzetéről, a minőségbiztosítási ellenőrök ellenőrzéseiről a 18/2010/EU rendelet melléklete alapján a tárgyévet követő március 1-jéig jelentést készít, amelyet megküld a Bizottságnak.
 
-(4)[^30] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program keretén belül gyűjti, értékeli a légiközlekedés védelmével kapcsolatos bejelentéseket. A bejelentéseket a légiközlekedési hatóságnak kell megküldeni.
+(4)[^32] A légiközlekedési hatóság a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program keretén belül gyűjti, értékeli a légiközlekedés védelmével kapcsolatos bejelentéseket. A bejelentéseket a légiközlekedési hatóságnak kell megküldeni.
 
-[^29]: A 8. § (3) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^30]: A 8. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A 8. § (3) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^32]: A 8. § (4) bekezdését a 240/2011. (XI. 18.) Korm. rendelet 5. §-a iktatta be.

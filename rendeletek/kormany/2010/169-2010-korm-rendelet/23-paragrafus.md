@@ -1,6 +1,6 @@
-## 17. [^127] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
+## 17. [^134] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
 
-23. §[^128] (1) A repülőterek szigorított védelmi területeire
+23. §[^135] (1) A repülőterek szigorított védelmi területeire
 
 a) repülőtéri azonosító kártyával,
 
@@ -28,8 +28,8 @@ lehet belépni.
 
 (8) A repülőtér védelmi programjában ki kell jelölni a belépés során ellenőrzést végző szervezetet, szabályozni kell a személyazonosság ellenőrzését, a személy, csomag és gépjármű átvizsgálását. A tevékenységet részletesen leíró technológiai utasításokat a védelmi program tartalmazza.
 
-(9)[^129] Az egyszerre csak egy személy belépését lehetővé tévő korlátozás nem alkalmazandó azokon a belépési pontokon, amelyeket kizárólag a bűnüldöző szervek tisztviselői használnak.
+(9)[^136] Az egyszerre csak egy személy belépését lehetővé tévő korlátozás nem alkalmazandó azokon a belépési pontokon, amelyeket kizárólag a bűnüldöző szervek tisztviselői használnak.
 
-[^127]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^128]: A 23. § a 409/2023. (VIII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^129]: A 23. § (9) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 32. §-a iktatta be.
+[^134]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^135]: A 23. § a 409/2023. (VIII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^136]: A 23. § (9) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 32. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-2. §[^7] E rendelet alkalmazásában
+2. §[^8] E rendelet alkalmazásában
 
 1. ATM rendszer: a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 7. pontja szerinti ATM/ANS rendszer;
 
@@ -22,4 +22,4 @@
 
 10. védelmi szakértő: olyan személy, aki légiközlekedési védelmi szakértőként szerepel a közlekedési területeken végzett szakértői tevékenység folytatásának részletes feltételeiről, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokról szóló 14/2010. (II. 5.) Korm. rendelet szerinti nyilvántartásban.
 
-[^7]: A 2. § a 251/2024. (VIII. 22.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^8]: A 2. § a 251/2024. (VIII. 22.) Korm. rendelet 24. §-ával megállapított szöveg.
