@@ -1,4 +1,4 @@
-9/A. §[^130] (1) Jogosulatlanul veszi igénybe a magyar légteret az a pilóta nélküli légijármű, amely a légtér igénybevételére a pilóta nélküli légijármű üzemeltetésére, használatára vonatkozó jogszabályi előírásokat nem tartja meg.
+9/A. §[^132] (1) Jogosulatlanul veszi igénybe a magyar légteret az a pilóta nélküli légijármű, amely a légtér igénybevételére a pilóta nélküli légijármű üzemeltetésére, használatára vonatkozó jogszabályi előírásokat nem tartja meg.
 
 (2) Feltartóztatható (elfogható), azonosítható, működése elektronikai úton zavarható, leszállásra felszólítható, valamint elektronikai vagy mechanikai úton földre kényszeríthető az a légiközlekedésben részt vevő pilóta nélküli légijármű,
 
@@ -12,10 +12,11 @@ d) amelyről alapos okkal feltételezhető, hogy repülését különböző anya
 
 e) amely jogosulatlanul veszi igénybe a magyar légteret.
 
-(3) A (2) bekezdés szerinti intézkedésekre a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal, a Terrorelhárítási Központ, az Országgyűlési Őrség, a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó erre kijelölt szervek jogosultak.
+(3)[^133] A (2) bekezdés szerinti intézkedésekre a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal, az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó erre kijelölt szervek jogosultak.
 
 (4) A repülésbiztonság megfelelő szintjének fenntartása érdekében a nemzetközi repülőtér üzemeltetője az illetékességébe tartozó repülőtér körzetében és a Paksi Atomerőmű üzemeltetője a Paksi Atomerőművet védő, jogszabályban kijelölt légtérben köteles pilóta nélküli légijármű detektálására.
 
 (5) A repülésbiztonság megfelelő szintjének fenntartása érdekében a léginavigációs szolgáltató az illetékességébe tartozó légtérben jogosult pilóta nélküli légijármű detektálására.
 
-[^130]: A 9/A. §-t a 39/2021. (II. 2.) Korm. rendelet 9. §-a iktatta be.
+[^132]: A 9/A. §-t a 39/2021. (II. 2.) Korm. rendelet 9. §-a iktatta be.
+[^133]: A 9/A. § (3) bekezdése a 162/2026. (IX. 21.) Korm. rendelet 1. § i) pontja szerint módosított szöveg.

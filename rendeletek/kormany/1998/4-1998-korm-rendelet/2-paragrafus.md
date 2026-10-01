@@ -1,5 +1,3 @@
-## 1/A. §[^13] A rugalmas légtérfelhasználásra vonatkozó közös szabályok megállapításáról szóló, 2005. december 23-i 2150/2005/EK bizottsági rendelet (a továbbiakban: 2150/2005/EK bizottsági rendelet) 4. cikk (1) bekezdés a) pontjában meghatározott feladatot a közlekedésért felelős miniszter a honvédelemért felelős miniszterrel egyetértésben végzi.
-
 ## A légtér igénybevétele légiközlekedési célra
 
 2. § (1) A légteret légiközlekedés céljára az Lt., valamint az e rendeletben meghatározott feltételek teljesítése esetén bárki igénybe veheti.
@@ -14,7 +12,6 @@
 
 (6)[^16] A nem kereskedelmi célú repülést (átrepülést és technikai leszállást) külföldi légijármű a légiközlekedési hatóság előzetes engedélyével hajthat végre, ha a légijárművet olyan államban lajstromozták, amely nem részese a Chicagói Egyezménynek.
 
-[^13]: Az 1/A. §-t és alcímét a 23/2003. (III. 4.) Korm. rendelet 2. §-a iktatta be, az 1/A. § a 177/2011. (IX. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^14]: A 2. § (4) bekezdését a 265/2006. (XII. 20.) Korm. rendelet 2. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (3) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^15]: A 2. § (5) bekezdése a 177/2011. (IX. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^16]: A 2. § (6) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének a) pontja, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.

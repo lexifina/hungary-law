@@ -1,6 +1,6 @@
-## Értelmező rendelkezések[^145]
+## Értelmező rendelkezések[^148]
 
-## 13. § E rendelet alkalmazásában
+13. § E rendelet alkalmazásában
 
 1. állami szerv feladatának végrehajtása érdekében végzett UAS művelet: az Lt. 71. § 54. pontja szerinti fogalom,
 
@@ -20,7 +20,7 @@
 
 9. távoli pilóta: a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzembentartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 3. cikk 27. pontja szerinti fogalom.
 
-10.[^146] ATZ (Aerodrome Traffic Zone): repülőtéri forgalmi körzet, a repülőtér körül a repülőtéri forgalom védelme érdekében kijelölt, meghatározott kiterjedésű légtér.
+10.[^149] ATZ (Aerodrome Traffic Zone): repülőtéri forgalmi körzet, a repülőtér körül a repülőtéri forgalom védelme érdekében kijelölt, meghatározott kiterjedésű légtér.
 
-[^145]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
-[^146]: A 13. § 10. pontját a 84/2024. (IV. 17.) Korm. rendelet 9. §-a iktatta be.
+[^148]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
+[^149]: A 13. § 10. pontját a 84/2024. (IV. 17.) Korm. rendelet 9. §-a iktatta be.

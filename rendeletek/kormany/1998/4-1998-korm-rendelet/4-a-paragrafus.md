@@ -1,6 +1,6 @@
 ## A légtér igénybevétele légiközlekedési célra pilóta nélküli légijárművel vagy pilóta nélküli állami légijárművel[^39]
 
-## 4/A. § UAS művelet nem végezhető
+4/A. § UAS művelet nem végezhető
 
 a) tiltott légtérben, kivéve a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet (a továbbiakban: Együttes rendelet) 8. § (2) bekezdésében meghatározott esetben,
 
@@ -28,7 +28,7 @@ l)[^45] a mentőhelikopter-leszállóhelyek vonatkozási pontjától számított
 
 m)[^46] Drop-Zone légtérben annak működési ideje alatt, kivéve, ha ehhez a koordinációs feladatokat ellátó szervezet hozzájárult, és e szervezet, valamint a távoli pilóta között közvetlen elérés és kommunikáció biztosított,
 
-n)[^47] az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés b) pontjában meghatározott védett létesítmények, a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely), a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, valamint az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények 300 méteres körzete feletti légtérben,
+n)[^47] a magyar építészetről szóló 2023. évi C. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely), a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, valamint az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények 300 méteres körzete feletti légtérben,
 
 o)[^48] a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus infrastruktúra, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős infrastruktúra 300 méteres körzete feletti légtérben – kivéve, ha arra az infrastruktúrát üzemeltető szervezet által vagy engedélyével kerül sor –, ide nem értve a d) pont szerinti légteret.
 
@@ -42,6 +42,6 @@ p)[^49] No Drone Zone légtérben, kivéve akkor, ha a No Drone Zone légtér ig
 [^44]: A 4/A. § k) pontját a 84/2024. (IV. 17.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^45]: A 4/A. § l) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 84/2024. (IV. 17.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^46]: A 4/A. § m) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^47]: A 4/A. § n) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^47]: A 4/A. § n) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 8. § b) pontja, a 162/2026. (IX. 21.) Korm. rendelet 1. § a) pontja és 2. § a) pontja szerint módosított szöveg.
 [^48]: A 4/A. § o) pontja a 474/2024. (XII. 31.) Korm. rendelet 123. §-ával megállapított szöveg.
 [^49]: A 4/A. § p) pontját a 425/2024. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

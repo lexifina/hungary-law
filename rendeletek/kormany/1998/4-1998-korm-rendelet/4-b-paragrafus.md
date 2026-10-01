@@ -14,7 +14,7 @@ d) katonai repülőtéri irányító körzetben az illetékes légiforgalmi szol
 
 az adott légtérre vonatkozó légiközlekedési szabályok betartása mellett működtethető.
 
-(4)[^51] Az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények és a kiemelt nemzeti emlékhely 300 méteres körzete feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó
+(4)[^51] Az Országház, az Országgyűlés Hivatala elhelyezésére szolgáló épületek és a kiemelt nemzeti emlékhely 300 méteres körzete feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó
 
 a) pilóta nélküli állami légijármű,
 
@@ -22,9 +22,9 @@ b) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. év
 
 c) az Országgyűlés Hivatala kiemelt nemzeti emlékhely és környezete megóvásával kapcsolatos, jogszabályban meghatározott feladatai ellátása érdekében működtetett pilóta nélküli légijármű,
 
-– a (3) bekezdés b) pontjában foglaltak megtartásán túl – az Országgyűlési Őrség biztonsági szempontok mérlegelése alapján megadott előzetes hozzájárulása esetén működtethető.
+– a (3) bekezdés b) pontjában foglaltak megtartásán túl – a létesítménybiztosítási feladatokat ellátó rendőrség biztonsági szempontok mérlegelése alapján megadott előzetes hozzájárulása esetén működtethető.
 
-(5)[^52] Az Országgyűlési Őrség a kiemelt nemzeti emlékhely 300 méteres körzete feletti légtér tekintetében a (4) bekezdés szerinti hozzájárulást a Kiemelt Nemzeti Emlékhely Bizottság egyetértése esetén adhatja meg. Az egyetértési jog gyakorlásával kapcsolatos együttműködésük kereteiről az Országgyűlési Őrség és a Kiemelt Nemzeti Emlékhely Bizottság megállapodást köt.
+(5)[^52] A létesítménybiztosítási feladatokat ellátó rendőrség a kiemelt nemzeti emlékhely 300 méteres körzete feletti légtér tekintetében a (4) bekezdés szerinti hozzájárulást a Kiemelt Nemzeti Emlékhely Bizottság egyetértése esetén adhatja meg. Az egyetértési jog gyakorlásával kapcsolatos együttműködésük kereteiről a létesítménybiztosítási feladatokat ellátó rendőrség és a Kiemelt Nemzeti Emlékhely Bizottság megállapodást köt.
 
 (6)[^53] A (4) bekezdésben foglalt előzetes hozzájárulás eljárási szabályait a 25 kg maximális felszálló tömeget meg nem haladó
 
@@ -37,6 +37,6 @@ c) a (4) bekezdés c) pontja szerinti működtetés esetén az Országgyűlés H
 és a védett létesítmény zavartalan és biztonságos működésének biztosításáért felelős szervezet közötti együttműködési megállapodás részletezheti.
 
 [^50]: A 4/B. § (1) bekezdése a 199/2023. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^51]: A 4/B. § (4) bekezdése a 425/2024. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^52]: A 4/B. § (5) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^51]: A 4/B. § (4) bekezdése a 425/2024. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 162/2026. (IX. 21.) Korm. rendelet 1. § b) pontja, záró szövegrésze a 162/2026. (IX. 21.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^52]: A 4/B. § (5) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított, a 425/2024. (XII. 23.) Korm. rendelet 8. § b) pontja, a 162/2026. (IX. 21.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^53]: A 4/B. § (6) bekezdése a 425/2024. (XII. 23.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
