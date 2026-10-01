@@ -1,14 +1,22 @@
 A Kormány a kormányzati beavatkozást igénylő védelmi és biztonsági eseményekkel összefüggő információáramlás, a hatékonyság és a kapcsolódó döntés-előkészítés érdekeit szem előtt tartva, a Kormány tájékoztatása és a kialakult helyzetek eredményes kezelése érdekében az alábbiakat határozza meg:
 
-1.[^1]
+1. A Kormány kormányügyeleti rendszert működtet. A kormányügyeleti rendszer feladata a kormányzati beavatkozást igénylő védelmi és biztonsági események beazonosítása és a kijelölt felsővezetők tájékoztatása, a védelmi és biztonsági események kezeléséhez szükséges intézkedések megtételének biztosítása.
 
-2.[^2]
+2. A kormányügyeleti rendszer részét képezi a Kormányügyelet, az ügyeletes állami vezető, valamint a jelentési kötelezettséget teljesítő szervezeti egységek.
 
-3.[^3]
+3. A Kormány a Kormányügyelet ellátására, valamint a védelmi és biztonsági eseményekről az érintett, állandó ügyeleti szervvel nem rendelkező minisztériumok felsővezetői tájékoztatását, riasztását munkaidőn túl biztosító ügyeleti feladatok ellátására a védelmi és biztonsági igazgatás központi szervét jelöli ki, amely folyamatos ügyeleti szolgálatot működtet (a továbbiakban: Kormányügyelet).
 
-4.[^4]
+| Felelős: | a Védelmi Igazgatási Hivatal főigazgatója |
 
-5.[^5]
+| Határidő: | folyamatos |
+
+4. A minisztériumokban a kormányzati beavatkozást igénylő védelmi és biztonsági eseményekkel összefüggő információáramlás és ágazati intézkedések biztosítása érdekében váltásos rendben ügyeletes állami vezető működik.
+
+| Felelős: | miniszterek |
+
+| Határidő: | folyamatos |
+
+5. A kormányügyeleti rendszer működési rendjét a Melléklet szerinti Szabályzat határozza meg.
 
 6. A miniszter a kormányügyeleti rendszer működése érdekében utasításban intézkedik az irányítása és felügyelete alatt álló szervezetek vonatkozásában
 
@@ -30,9 +38,13 @@ d) az ágazati kormányzati beavatkozást igénylő események jegyzékének meg
 
 | Határidő: | 2026. szeptember 4. |
 
-8.[^6]
+8. A védelmi és biztonsági események kezeléséhez szükséges intézkedések érdekében a Kormányügyelet a minisztériumok adatszolgáltatása alapján naprakészen tartja a miniszterek, a miniszterelnök nemzetbiztonsági főtanácsadója, a helyettesítésükre jogosult politikai és szakmai felsővezetők, az ügyeletes állami vezetői feladat ellátására kijelölt vezetők, valamint a védelmi és biztonsági események kormányzati szintű kezeléséhez szükséges vezetők elektronikus és személyes kiértesítéséhez szükséges adatokat.
 
-9.[^7]
+| Felelős: | miniszterek a Védelmi Igazgatási Hivatal főigazgatója |
+
+| Határidő: | folyamatos |
+
+9. A Kormány visszavonja a kormányügyeleti rendszer létrehozásáról szóló 1324/2011. (IX. 22.) Korm. határozatot.
 
 10. Ez a határozat – a 11. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -163,11 +175,3 @@ b) az ügyeletes állami vezetők névjegyzékét és elérhetőségi adatait a 
 a) ellátja a Kormányügyelet részére elektronikus úton érkező jelentések és tájékoztatók naplózását,
 
 b) gondoskodik a beérkezett jelentések és tájékoztatók iratkezelési szabályzat szerinti kezeléséről és megőrzéséről.
-
-[^1]: Az 1. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^2]: A 2. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^3]: A 3. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^4]: A 4. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^5]: Az 5. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^6]: A 8. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
-[^7]: A 9. pont a 11. pont alapján 2026. október 1-jén lép hatályba.
