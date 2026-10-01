@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-124-00-00
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2021-124-00-00.6 |
 | 2025-01-01 | 2024. évi XII. törvény | 2021-124-00-00.7 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2021-124-00-00.8 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2021-124-00-00.9 |
