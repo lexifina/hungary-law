@@ -64,7 +64,7 @@ j) az országos rendőrfőkapitány,
 
 k) az Alkotmányvédelmi Hivatal főigazgatója,
 
-l) a Terrorelhárítási Központ főigazgatója,
+l)[^4]
 
 m) a Nemzeti Információs Központ főigazgatója,
 
@@ -96,15 +96,15 @@ e) a Magyar Ügyvédi Kamara elnökét,
 
 f) a Magyar Országos Közjegyzői Kamara elnökét,
 
-g)[^4] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnökét,
+g)[^5] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnökét,
 
 hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottként vesznek részt a Tanács ülésein.
 
 6. A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter eseti jelleggel a Tanács működésébe más szervezeteket és személyeket is bevonhat.
 
-7.[^5] A 4. pont a)–h) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
+7.[^6] A 4. pont a)–h) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
 
-8.[^6] A 4. pont i)–s) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
+8.[^7] A 4. pont i)–s) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
 
 9. A Tanács tagjai – e szerepkörükben ellátott tevékenységükért – tiszteletdíjban nem részesülnek.
 
@@ -125,6 +125,7 @@ hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottké
 [^1]: A 2. pont az 1040/2025. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont az 1040/2025. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: A 4. pont az 1112/2023. (III. 30.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: Az 5. pont g) alpontját az 1112/2023. (III. 30.) Korm. határozat 2. pontja iktatta be.
-[^5]: A 7. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^6]: A 8. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^4]: A 4. pont l) alpontját az 1312/2026. (IX. 21.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^5]: Az 5. pont g) alpontját az 1112/2023. (III. 30.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 7. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^7]: A 8. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
