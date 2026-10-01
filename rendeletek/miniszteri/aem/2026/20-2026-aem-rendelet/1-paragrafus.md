@@ -2,8 +2,6 @@
 
 ## [2] A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés b) pontjában és (4) bekezdés d) pontjában, valamint a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 6. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 25. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Közös Agrárpolitikából és a nemzeti költségvetésből finanszírozott intézkedésekkel összefüggő elháríthatatlan külső ok (vis maior) esetén alkalmazott eljárásról szóló 23/2024. (IV. 9.) AM rendelet [a továbbiakban: 23/2024. (IV. 9.) AM rendelet] 3. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(8) A kedvezményezettnek nem kell az 5. § (1) bekezdése szerinti kérelmet benyújtania, ha az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet 1. § 15. pontja szerinti egységes kérelem keretében a vis maior bekövetkeztének évéhez kapcsolódó valamely kötelezettségvállalás vagy támogatási feltétel teljesítésének meghiúsulása a (7) bekezdés szerinti közleményben megjelölt, az ország teljes területét sújtó aszályra vezethető vissza.
-
-(9) A (8) bekezdés szerinti esetben intézkedésben való jogosulatlan részvétel vagy egyéb jogkövetkezmény megállapítására nem kerül sor, összhangban a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 59. cikk (5) bekezdés második albekezdés a) pontjával, valamint 84. cikk (2) bekezdés c) pont i. alpontjával.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
