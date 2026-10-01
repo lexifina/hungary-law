@@ -8,11 +8,11 @@
 
 a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
 
-b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes vármegyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
+b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 
 c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
-(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a vármegyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
+(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a megyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

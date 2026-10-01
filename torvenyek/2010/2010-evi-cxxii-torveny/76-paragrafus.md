@@ -40,10 +40,12 @@ f) a honvédelmi igazgatás illetékes szerve,
 
 g) a NAV feladat- és hatáskörrel rendelkező szerve az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 
-h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
+h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
 i) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése,
 
 j) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
+
+k) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladata ellátása céljából.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
