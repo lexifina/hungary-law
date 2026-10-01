@@ -246,13 +246,13 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 26. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 26., 31., 33., 34. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 26., 31., 33., 34., 38., 39. sorszámú attribútumra vonatkozó mező.
 
 12.3. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő az 51., 54., 125., 126. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 65., 70., 93–96., 109., 110., 112., 125., 126., 130., 138., 141., 173., 188., 198–202., 206–209. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 65., 70., 93–96., 109., 110., 112., 125., 126., 130., 138., 141., 173., 188., 198–202., 206–209., 216–218., 220. sorszámú attribútumra vonatkozó mező.
 
 12.4. INSTM Instrumentum – megszűnés
 
@@ -326,4 +326,4 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 13. Az adatszolgáltatáshoz használandó kódokat, illetve a kitöltést segítő módszertani útmutatást a 3. melléklet 2., illetve 3. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza. Az adatszolgáltatás hibátlan beküldését elősegítő ellenőrzési szabályokat a 3. melléklet 5. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-[^8]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés b) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés b) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § b) pontja, a 24/2026. (VII. 7.) MNB rendelet 3. § a) és b) pontja szerint módosított szöveg.

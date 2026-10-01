@@ -108,6 +108,10 @@ Az adatszolgáltatás részletes adattartalma
 
 | 37. | A keret feltétel nélkül megszüntethető-e? |
 
+| 38. | Hitelkonstrukció |
+
+| 39. | A hitelkeret lehívható-e 30 napon belül? |
+
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -542,6 +546,16 @@ Az adatszolgáltatás részletes adattartalma
 
 | 215. | Referenciakamat-átlag |
 
+| 216. | A hitelkeret lehívható-e 30 napon belül? |
+
+| 217. | Ügyfél által fizetendő kamatláb – új szerződéses állományi kamatláb |
+
+| 218. | Ügyfél által fizetendő kamatláb – új szerződéses évesített kamatláb |
+
+| 219. | Ügyfél által fizetendő kamatláb – állományi kamatláb |
+
+| 220. | Ügyfél által fizetendő kamatláb – évesített kamatláb |
+
 | 5. INSTM Instrumentum – megszűnés |  |
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -793,6 +807,8 @@ Az adatszolgáltatás részletes adattartalma
 | 28. | Projekt tárgyát képező ingatlan készültségi foka |
 
 | 29. | Szén-dioxid-kibocsátás (kg/m2/év) – eredeti |
+
+| 30. | A társasházi építményi joghoz kapcsolódó projekthitel instrumentum azonosítója |
 
 9. FEDA Fedezet – aktuális
 
@@ -1514,6 +1530,12 @@ Az adatszolgáltatás részletes adattartalma
 
 | 30. | A hitelezett kereskedelmi ingatlan elhelyezkedése |
 
+| 31. | Bérbeadott terület aránya (%) |
+
+| 32. | Bérbeadható terület mérete (m2) |
+
+| 33. | Lakások száma |
+
 24. INST_KAM Instrumentum – kamatstatisztika
 
 | 1. | Megfigyelt szervezet azonosító |
@@ -1584,4 +1606,4 @@ Az adatszolgáltatás részletes adattartalma
 
 | 27. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazítható tevékenységek beruházási ráfordítása |
 
-[^7]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés a) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés a) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § a) pontja, a 24/2026. (VII. 7.) MNB rendelet 2. §-a szerint módosított szöveg.
