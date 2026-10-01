@@ -1,4 +1,4 @@
-5. § (1)[^2] Az előzetes szakhatósági eljárás kivételével a 2. § (1) bekezdése szerinti díjfizetési kötelezettséget a Magyar Államkincstárnál vezetett, 10032000-00290713-06020037 számú kincstári célelszámolási számla javára kell teljesíteni, amely befizetést a kérelem benyújtásával egyidejűleg igazolni kell.
+5. § (1)[^2] Az előzetes szakhatósági eljárás kivételével a 2. § (1) bekezdése szerinti díjfizetési kötelezettséget a Magyar Államkincstárnál vezetett, 10032000-01425190-06020037 számú kincstári célelszámolási számla javára kell teljesíteni, amely befizetést a kérelem benyújtásával egyidejűleg igazolni kell.
 
 (2) Ha a 2. § (1) bekezdés b) pontja szerinti díjat az (1) bekezdés alapján az ügyben eljáró hatóság részére fizették meg, a hatóság a szakhatósági eljárásért így megfizetett igazgatási szolgáltatási díjat a keretszámlán való jóváírását követő munkanapon az Alkotmányvédelmi Hivatalnak a (3) bekezdés szerinti számlájára átutalja.
 
@@ -12,4 +12,4 @@
 
 (7) Hivatalból történő visszatérítés esetén az ügyben eljáró hatóság vagy szakhatóság a visszatérítésre okot adó körülmény észlelésétől számított 30 napon belül a fizetési számla megterhelését tartalmazó napi kivonat, a postai készpénz-átutalási megbízás feladást igazoló szelvényrész vagy ezek másolatán feltüntetett fizetési számlaszámra átutalással, vagy az azon feltüntetett címre történő kiutalással teljesíti.
 
-[^2]: Az 5. § (1) bekezdése a 11/2024. (IX. 2.) MK rendelet 5. §-ával megállapított, a 12/2025. (IV. 30.) EM rendelet 5. §-a szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 11/2024. (IX. 2.) MK rendelet 5. §-ával megállapított, a 3/2026. (IX. 30.) TTM rendelet 3. §-a szerint módosított szöveg.

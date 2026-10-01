@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-70-20-0
 | 2018-01-01 | 2015-70-20-0A.3 | 36/2017. (XII. 21.) BM rendelet |
 | 2024-09-02 | 2015-70-20-0A.4 | 11/2024. (IX. 2.) MK rendelet |
 | 2025-05-01 | 2015-70-20-0A.5 | 11/2024. (IX. 2.) MK rendelet |
+| 2026-10-01 | 2015-70-20-0A.6 | 11/2024. (IX. 2.) MK rendelet |
