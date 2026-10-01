@@ -1,4 +1,4 @@
-86. § (1) Az e Fejezet szerinti, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építménnyel kapcsolatos környezetvédelmi hatósági eljárások tekintetében, ideértve az ezen ingatlanokkal összefüggő környezetvédelmi hatósági ügyeket is, Jász-Nagykun-Szolnok Vármegyei Kormányhivatal az illetékes hatóság.
+86. § (1) Az e Fejezet szerinti, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építménnyel kapcsolatos környezetvédelmi hatósági eljárások tekintetében, ideértve az ezen ingatlanokkal összefüggő környezetvédelmi hatósági ügyeket is, Jász-Nagykun-Szolnok Megyei Kormányhivatal az illetékes hatóság.
 
 (2) Az (1) bekezdés szerinti környezetvédelmi hatósági ügyben hozott elsőfokú döntést az első fokon eljáró hatóság fellebbezésre tekintet nélkül azonnal végrehajthatónak nyilváníthatja.
 
