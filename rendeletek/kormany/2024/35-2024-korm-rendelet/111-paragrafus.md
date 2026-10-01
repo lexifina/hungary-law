@@ -10,7 +10,7 @@
 
 (6) Ha a harmadik országbeli állampolgár a vízum kiadására irányuló eljárásban igazolja, hogy a pénzbírságot, a helyszíni bírságot, illetve a vámigazgatási bírságot utólag megfizette, a konzuli tisztviselő – az önálló beutazási és tartózkodási tilalom törlése érdekében – a befizetés tényéről, a befizető természetes személyazonosító adatainak, állampolgárságának, úti okmánya számának, a határozat vagy a helyszíni bírság ügyszámának, a befizetett bírság összegének és az ügyben eljárt hatóság vagy szerv megnevezésének közlésével haladéktalanul tájékoztatja a beutazási és tartózkodási tilalmat elrendelő regionális igazgatóságot.
 
-(7)[^30] Ha a Rendőrség
+(7)[^38] Ha a Rendőrség
 
 a) a határátkelőhelyen történő személyellenőrzés során vagy
 
@@ -18,14 +18,14 @@ b) a határátkelőhelyen kívül végzett rendőri intézkedés során
 
 megállapítja, hogy a harmadik országbeli állampolgárral szemben kizárólag az idegenrendészeti eljárásban a Magyar Állam által megtérítési kötelezettséggel megelőlegezett költség, a pénzbírság, a helyszíni bírság, illetve a vámigazgatási bírság meg nem fizetése miatt rendeltek el önálló beutazási és tartózkodási tilalmat, köteles a harmadik országbeli állampolgárt tájékoztatni arról, hogy a tartozását utólag – ha annak feltételei adottak – a helyszínen erre alkalmas, erre a célra a Rendőrség által rendszeresített elektronikus eszközön teljesítve, készpénzkímélő fizetési mód alkalmazásával is megfizetheti.
 
-(8)[^31] Ha a harmadik országbeli állampolgár utólag teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetést igazoló bizonylattal, a Rendőrség az önálló beutazási és tartózkodási tilalmat törli a nyilvántartásból, és ezt követően
+(8)[^39] Ha a harmadik országbeli állampolgár utólag teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetést igazoló bizonylattal, a Rendőrség az önálló beutazási és tartózkodási tilalmat törli a nyilvántartásból, és ezt követően
 
 a) a határátkelőhelyen intézkedik a kiléptetésre vagy engedélyezi a beléptetést, vagy
 
 b) a határátkelőhelyen kívül végzett rendőri intézkedés során a harmadik országbeli állampolgárt továbbengedi.
 
-(9)[^32] A Rendőrség az önálló beutazási és tartózkodási tilalom (8) bekezdés szerinti törlésének tényéről haladéktalanul értesíti az elrendelő idegenrendészeti hatóságot.
+(9)[^40] A Rendőrség az önálló beutazási és tartózkodási tilalom (8) bekezdés szerinti törlésének tényéről haladéktalanul értesíti az elrendelő idegenrendészeti hatóságot.
 
-[^30]: A 111. § (7) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^31]: A 111. § (8) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^32]: A 111. § (9) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^38]: A 111. § (7) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^39]: A 111. § (8) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 111. § (9) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 6. § (2) bekezdése iktatta be.

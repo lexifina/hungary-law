@@ -30,6 +30,6 @@ c) egyéb hitelt érdemlő módon.
 
 (3) A Magyarországon kívüli országban igazolt foglalkoztatási jogviszony esetén a harmadik országbeli állampolgár igazolni köteles a foglalkoztató valós és tényleges működését.
 
-(4)[^19] A Fehér Kártya kiadására és meghosszabbítására irányuló eljárásban a magyarországi megélhetés igazoltnak tekinthető, ha a harmadik országbeli állampolgár jogszerű jövedelme a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem benyújtását megelőző legalább 6 hónapban a nettó 3000 EUR összeget minden hónapban eléri vagy meghaladja, amely összegű jövedelemmel a magyarországi tartózkodás ideje alatt minden hónapban rendelkeznie kell.
+(4)[^21] A Fehér Kártya kiadására és meghosszabbítására irányuló eljárásban a magyarországi megélhetés igazoltnak tekinthető, ha a harmadik országbeli állampolgár jogszerű jövedelme a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem benyújtását megelőző legalább 6 hónapban a nettó 3000 EUR összeget minden hónapban eléri vagy meghaladja, amely összegű jövedelemmel a magyarországi tartózkodás ideje alatt minden hónapban rendelkeznie kell.
 
-[^19]: Az 52. § (4) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: Az 52. § (4) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

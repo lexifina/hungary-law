@@ -1,3 +1,3 @@
-347. §[^141]
+347. §[^159]
 
-[^141]: A 347. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: A 347. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

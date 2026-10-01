@@ -32,10 +32,10 @@ b) az általa vezetett gazdasági társaság adó- és járuléktartozással nem
 
 (5) A (4) bekezdésben meghatározott feltételeket a kérelmező az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti adóhatósági igazolással vagy a járulékfizetésről kiállított igazolással igazolja, valamint azokat az idegenrendészeti hatóság a rendelkezésére álló nyilvántartásokban ellenőrzi.
 
-(6)[^5] A vendég-önfoglalkoztatás célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár az idegenrendészeti hatóság által meghatározott rendszeres jelentkezési kötelezettségének az idegenrendészeti ügyindítási elektronikus felületen, az erre a célra rendszeresített nyilatkozat kitöltésével és megküldésével tesz eleget. Amennyiben ennek lehetőségét az idegenrendészeti hatóság biztosítja, a jelentkezési kötelezettség az erre a célra biztosított applikáció igénybevételével történő bejelentkezéssel is teljesíthető.
+(6)[^7] A vendég-önfoglalkoztatás célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár az idegenrendészeti hatóság által meghatározott rendszeres jelentkezési kötelezettségének az idegenrendészeti ügyindítási elektronikus felületen, az erre a célra rendszeresített nyilatkozat kitöltésével és megküldésével tesz eleget. Amennyiben ennek lehetőségét az idegenrendészeti hatóság biztosítja, a jelentkezési kötelezettség az erre a célra biztosított applikáció igénybevételével történő bejelentkezéssel is teljesíthető.
 
 (7) A (6) bekezdés szerinti bejelentés teljesítését, illetve az abban foglaltakat az idegenrendészeti hatóság ellenőrzi.
 
 (8) Ha a harmadik országbeli állampolgár a (6) bekezdés szerinti bejelentési kötelezettség teljesítése során valótlan tényt, körülményt közöl, az eljáró idegenrendészeti hatóság a tartózkodási engedély Tv. 226. § (1) bekezdése szerinti visszavonására irányuló eljárás, illetve a tartózkodási engedély meghosszabbítására irányuló kérelem elbírálása során értékeli.
 
-[^5]: A 12. § (6) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^7]: A 12. § (6) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

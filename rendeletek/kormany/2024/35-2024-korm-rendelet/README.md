@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-35-20-2
 | 2025-10-12 | 2024-35-20-22.13 | 2/2025. (IX. 11.) BM határozat |
 | 2025-10-13 | 2024-35-20-22.14 | 2010. évi CXXX. törvény |
 | 2026-01-01 | 2024-35-20-22.15 | 373/2025. (XI. 28.) Korm. rendelet |
+| 2026-10-01 | 2024-35-20-22.16 | 213/2026. (IX. 21.) Korm. rendelet |

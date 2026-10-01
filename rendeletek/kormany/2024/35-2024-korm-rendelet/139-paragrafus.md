@@ -1,6 +1,6 @@
 ## 68. A munkáltató és a fogadó szervezet felelőssége
 
-139. §[^36] (1) A Tv. 27. § (2) bekezdésében, 29. § (2) bekezdésében, valamint 32. § (2) bekezdésében foglaltak szerint a foglalkoztató különösen akkor felel meg az adott helyzetben általában elvárható magatartás követelményének, ha az idegenrendészeti hatóság irányába történő bejelentési kötelezettségének maradéktalanul eleget tesz, továbbá bizonyítani tudja, hogy
+139. §[^44] (1) A Tv. 27. § (2) bekezdésében, 29. § (2) bekezdésében, valamint 32. § (2) bekezdésében foglaltak szerint a foglalkoztató különösen akkor felel meg az adott helyzetben általában elvárható magatartás követelményének, ha az idegenrendészeti hatóság irányába történő bejelentési kötelezettségének maradéktalanul eleget tesz, továbbá bizonyítani tudja, hogy
 
 a) a vendégmunkás részére az általa értett nyelven a munkaviszony megszűnését megelőzően tájékoztatást adott a munkaviszony megszűnésének idegenrendészeti jellegű jogkövetkezményeiről, valamint az országelhagyásra vonatkozó kötelezettségről és az ahhoz kapcsolódó szankciókról, és
 
@@ -16,4 +16,4 @@ ba) azért nem került sor, mert a vendégmunkás a kiutazás napja előtt a bej
 
 bb) a Tv. 28. § (11) bekezdése vagy a Tv. 31. § (8) bekezdése alapján nem került sor, a foglalkoztató a foglalkoztatóváltás tényéről megbizonyosodott.
 
-[^36]: A 139. § a 88/2025. (IV. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^44]: A 139. § a 88/2025. (IV. 24.) Korm. rendelet 7. §-ával megállapított szöveg.

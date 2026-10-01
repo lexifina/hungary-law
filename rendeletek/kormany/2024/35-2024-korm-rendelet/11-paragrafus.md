@@ -2,7 +2,7 @@
 
 11. § (1) Az ideiglenes tartózkodásra jogosító igazolás kiállítása
 
-a)[^3] a Tv. 20. § (1) bekezdés a), b) és i) pontjában meghatározott esetekben az idegenrendészeti ügyben eljáró regionális igazgatóság,
+a)[^5] a Tv. 20. § (1) bekezdés a), b) és i) pontjában meghatározott esetekben az idegenrendészeti ügyben eljáró regionális igazgatóság,
 
 b) a Tv. 20. § (1) bekezdés c) pontjában meghatározott esetben a harmadik országbeli állampolgár magyarországi szálláshelye, ennek hiányában a tartózkodási helye szerint illetékes regionális igazgatóság,
 
@@ -18,11 +18,11 @@ g) a Tv. 20. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt t
 
 h) a Tv. 20. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
 
-i)[^4] a Tv. 20. § (1) bekezdés h) pontjában meghatározott esetben az idegenrendészeti ügyben eljáró regionális igazgatóság vagy a Rendőrség
+i)[^6] a Tv. 20. § (1) bekezdés h) pontjában meghatározott esetben az idegenrendészeti ügyben eljáró regionális igazgatóság vagy a Rendőrség
 
 hatáskörébe tartozik.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási engedélyt, ideiglenes tartózkodási kártyát vagy nemzeti tartózkodási kártyát kap.
 
-[^3]: A 11. § (1) bekezdés a) pontja a 88/2025. (IV. 24.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^4]: A 11. § (1) bekezdés i) pontját a 88/2025. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 11. § (1) bekezdés a) pontja a 88/2025. (IV. 24.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^6]: A 11. § (1) bekezdés i) pontját a 88/2025. (IV. 24.) Korm. rendelet 2. §-a iktatta be.

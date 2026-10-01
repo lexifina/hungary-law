@@ -1,3 +1,3 @@
-301. §[^97]
+301. §[^115]
 
-[^97]: A 301. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 301. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

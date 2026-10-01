@@ -1,4 +1,4 @@
-131. § (1)[^33] Ha a harmadik országbeli állampolgár az őrizetet elrendelő döntés kihirdetését követően úgy nyilatkozik, hogy fiatalabb az őrizetbe vétel során megállapított koránál, az őrizetet elrendelő idegenrendészeti hatóság az életkor megállapítása érdekében soron kívül megkeresi a székhelye szerint illetékes egészségügyi szolgáltatót. Ha az állapítható meg, hogy az őrizetbe vett harmadik országbeli állampolgár
+131. § (1)[^41] Ha a harmadik országbeli állampolgár az őrizetet elrendelő döntés kihirdetését követően úgy nyilatkozik, hogy fiatalabb az őrizetbe vétel során megállapított koránál, az őrizetet elrendelő idegenrendészeti hatóság az életkor megállapítása érdekében soron kívül megkeresi a székhelye szerint illetékes egészségügyi szolgáltatót. Ha az állapítható meg, hogy az őrizetbe vett harmadik országbeli állampolgár
 
 a) 16. életévét be nem töltött kísérő nélküli kiskorú, vagy
 
@@ -6,7 +6,7 @@ b) 16. életévét betöltött kísérő nélküli kiskorú, és az őrizet elre
 
 az őrizetet haladéktalanul meg kell szüntetni.
 
-(2)[^34] Ha az állapítható meg, hogy az őrizetbe vett kísérő nélküli kiskorú harmadik országbeli állampolgárral szemben nagykorúként került elrendelésre kiutasítás, az őrizet alapjául szolgáló kiutasítást az idegenrendészeti hatóság – a Tv. 108. § (2) bekezdésének figyelembevételével – hivatalból felülvizsgálja.
+(2)[^42] Ha az állapítható meg, hogy az őrizetbe vett kísérő nélküli kiskorú harmadik országbeli állampolgárral szemben nagykorúként került elrendelésre kiutasítás, az őrizet alapjául szolgáló kiutasítást az idegenrendészeti hatóság – a Tv. 108. § (2) bekezdésének figyelembevételével – hivatalból felülvizsgálja.
 
-[^33]: A 131. § (1) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^34]: A 131. § (2) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^41]: A 131. § (1) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^42]: A 131. § (2) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.

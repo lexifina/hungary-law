@@ -18,7 +18,7 @@ jogosult.
 
 (2) Önálló beutazási és tartózkodási tilalom
 
-a) a Tv. 122. § (1) bekezdés c) pontja alapján – ha a regionális igazgatóság nem saját hatáskörben dönt az elrendelésről – a nyomozó hatóságként eljáró rendvédelmi szerv, az Alkotmányvédelmi Hivatal, a Rendőrség, illetve a Terrorelhárítási Központ,
+a)[^37] a Tv. 122. § (1) bekezdés c) pontja alapján – ha a regionális igazgatóság nem saját hatáskörben dönt az elrendelésről – a nyomozó hatóságként eljáró rendvédelmi szerv, az Alkotmányvédelmi Hivatal, a Rendőrség,
 
 b) a Tv. 122. § (1) bekezdés e) pontja alapján kizárólag a szabálysértési hatóság, a bíróság vagy a helyszíni bírság kiszabására jogosult hatóság,
 
@@ -31,3 +31,5 @@ javaslatára rendelhető el.
 (4) Az önálló beutazási és tartózkodási tilalom törlésére – a 111. § (8) bekezdésében foglalt kivétellel – az azt elrendelő idegenrendészeti hatóság jogosult.
 
 (5) Ha a külpolitikáért felelős miniszter a vízumeljárás alapján a vízumkérelmezőre vonatkozóan a Tv. 122. § (1) bekezdés c) pontjában foglaltak fennállását valószínűsíti, erről haladéktalanul értesíti a veszélyeztetett érdek védelméért felelős rendvédelmi szervet.
+
+[^37]: A 110. § (2) bekezdés a) pontja a 213/2026. (IX. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.

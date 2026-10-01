@@ -1,4 +1,4 @@
-## 19/A.[^18] Nemzeti Kártya a határ menti ingázó munkavállaló részére
+## 19/A.[^20] Nemzeti Kártya a határ menti ingázó munkavállaló részére
 
 37/A. § (1) A Tv.-ben és e rendeletben meghatározott Nemzeti Kártyára vonatkozó rendelkezéseket a határ menti ingázó munkavállaló harmadik országbeli állampolgár esetében az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -54,4 +54,4 @@ c) foglalkoztatója nem felel meg a (3) bekezdés c) pontjában foglalt valamely
 
 d) a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért.
 
-[^18]: A 19/A. alcímet (37/A. §-t) a 73/2025. (IV. 10.) Korm. rendelet 11. §-a iktatta be.
+[^20]: A 19/A. alcímet (37/A. §-t) a 73/2025. (IV. 10.) Korm. rendelet 11. §-a iktatta be.

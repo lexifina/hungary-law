@@ -1,3 +1,3 @@
-303. §[^99]
+303. §[^117]
 
-[^99]: A 303. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 303. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

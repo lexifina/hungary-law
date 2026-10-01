@@ -1,3 +1,3 @@
-306. §[^102]
+306. §[^120]
 
-[^102]: A 306. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 306. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

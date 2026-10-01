@@ -32,9 +32,9 @@ b) a rendszeres, munkavégzésre irányuló jogviszonyból vagy vállalkozási t
 
 (7) A Tv. 17. § (1) bekezdés d) és g) pontjában foglalt feltétel igazolására az (5) bekezdésben csatolt igazolások elfogadhatóak, vagy azok benyújtását a Főigazgatóság Központi Regionális Igazgatósága (a továbbiakban: Központi Regionális Igazgatóság) kérheti.
 
-(8) A Központi Regionális Igazgatóság a vendégbefektetői vízum iránti kérelem kiadása érdekében a közbiztonság védelme érdekében a Rendőrség, a nemzetbiztonság védelme érdekében az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ véleményét kéri.
+(8)[^3] A Központi Regionális Igazgatóság a vendégbefektetői vízum iránti kérelem kiadása érdekében a közbiztonság védelme érdekében a Rendőrség, a nemzetbiztonság védelme érdekében az Alkotmányvédelmi Hivatal és – a terrorkockázatok tekintetében – a Rendőrség véleményét kéri.
 
-(9) Az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ és a Rendőrség köteles a megkeresésnek tizenöt napon belül eleget tenni. A (8) bekezdésben meghatározott érdek veszélyeztetését megállapító vélemény esetén a Központi Regionális Igazgatóság a kérelmet elutasító döntést hoz.
+(9)[^4] Az Alkotmányvédelmi Hivatal és a Rendőrség köteles a megkeresésnek tizenöt napon belül eleget tenni. A (8) bekezdésben meghatározott érdek veszélyeztetését megállapító vélemény esetén a Központi Regionális Igazgatóság a kérelmet elutasító döntést hoz.
 
 (10) Ha a megkeresett hatóság a (9) bekezdésben meghatározott időtartamon belül nem tesz eleget a megkeresésnek, a véleményt megadottnak kell tekinteni.
 
@@ -42,3 +42,5 @@ b) a rendszeres, munkavégzésre irányuló jogviszonyból vagy vállalkozási t
 
 [^1]: A 7. § a 479/2024. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
 [^2]: A 7. § (6) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 7. § (8) bekezdése a 213/2026. (IX. 21.) Korm. rendelet 1. § 1. pontja szerint módosított szöveg.
+[^4]: A 7. § (9) bekezdése a 213/2026. (IX. 21.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-321. §[^117]
+321. §[^135]
 
-[^117]: A 321. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 321. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
