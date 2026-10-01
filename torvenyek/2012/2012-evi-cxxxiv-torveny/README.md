@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2025-06-10 | 2025. évi XLII. törvény | 2012-134-00-00.44 |
 | 2025-06-18 | 2025. évi XLII. törvény | 2012-134-00-00.45 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2012-134-00-00.46 |
+| 2026-10-01 | 2026. évi LIX. törvény | 2012-134-00-00.47 |
