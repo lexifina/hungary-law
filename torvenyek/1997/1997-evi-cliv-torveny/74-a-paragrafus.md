@@ -6,8 +6,8 @@
 
 (4) A menedékjogról szóló törvény szerinti különleges bánásmódot igénylő elismerést kérő személy esetében az (1) bekezdés szerinti szűrővizsgálatot soron kívül, más elismerést kérő személyt megelőzően kell elvégezni.
 
-(5) A szűrővizsgálat eredményét a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala közli a menekültügyi hatósággal.
+(5) A szűrővizsgálat eredményét a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala közli a menekültügyi hatósággal.
 
-(6) A fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
+(6) A fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
 
 (7) Az (1)–(6) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területére más hatósági vagy bírósági eljárásban való kötelező megjelenés céljából történő belépés esetén.

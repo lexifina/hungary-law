@@ -96,7 +96,7 @@ h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeke
 
 i) határozza meg az állami fenntartású – 151/B. § (1) bekezdése szerinti – egészségügyi intézmények irányításával kapcsolatosan az egészségügyi szolgáltatás irányításáért felelős szerv általi joggyakorlás szabályait,
 
-j) határozza meg a Budapesten és Pest vármegyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
+j) határozza meg a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
 
 k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 
@@ -146,7 +146,7 @@ l) a 74/K. § (2) bekezdése szerinti személyeket.
 
 m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
-(1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító vármegyei intézményeket rendeletben jelölje ki.
+(1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító megyei intézményeket rendeletben jelölje ki.
 
 (1e) Felhatalmazást kap a Kormány, hogy a 244/P. § (1) bekezdése szerinti egészségügyi intézményeket rendeletben határozza meg.
 
@@ -266,7 +266,7 @@ v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cs
 
 w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
 
-x) a városi és a vármegyei kórház szakmai összetételét és feladatait
+x) a városi és a megyei kórház szakmai összetételét és feladatait
 
 y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 
