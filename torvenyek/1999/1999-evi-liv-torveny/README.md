@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-54-00-00
 | 2024-12-12 | 2024. évi XXV. törvény | 1999-54-00-00.27 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 1999-54-00-00.28 |
 | 2025-11-01 | 2025. évi LXXI. törvény | 1999-54-00-00.29 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 1999-54-00-00.30 |
