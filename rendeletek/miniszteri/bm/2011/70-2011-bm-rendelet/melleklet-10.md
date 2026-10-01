@@ -1,4 +1,4 @@
-10. melléklet a 70/2011. (XII. 30.) BM rendelethez[^83]
+10. melléklet a 70/2011. (XII. 30.) BM rendelethez[^84]
 
 Felhívás kötelező adattartalma balesettel/betegséggel összefüggő kárigény bejelentésére a hivatásos állomány tagja esetében
 
@@ -24,4 +24,4 @@ Felhívás kötelező adattartalma balesettel/betegséggel összefüggő kárig�
 
 11. Készített példányszám meghatározása
 
-[^83]: A 10. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés g) pontjával megállapított szöveg.
+[^84]: A 10. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés g) pontjával megállapított szöveg.

@@ -522,7 +522,7 @@
 
 ## A megfelelő válasz aláhúzásával vagy aláírásával a sérült tölti ki. „Nem ért egyet” vélemény esetén a sérült ez irányú indoklását a jegyzőkönyvhöz csatolni kell. Új elemként jelenik meg a sérült aláírásánál az aláírás dátuma.
 
-8. melléklet a 70/2011. (XII. 30.) BM rendelethez[^80]
+8. melléklet a 70/2011. (XII. 30.) BM rendelethez[^81]
 
 A hivatásos állomány tagja baleset-minősítő határozatának kötelező adattartalma
 
@@ -550,7 +550,7 @@ A hivatásos állomány tagja baleset-minősítő határozatának kötelező ada
 
 12. Bekövetkezett baleset időpontjának megjelölése (év, hó nap)
 
-13.[^81] Baleset minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
+13.[^82] Baleset minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
 
 14. Jogorvoslat
 
@@ -564,5 +564,5 @@ A hivatásos állomány tagja baleset-minősítő határozatának kötelező ada
 
 19. Készített példány meghatározása
 
-[^80]: A 8. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés e) pontjával megállapított szöveg.
-[^81]: A 8. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.
+[^81]: A 8. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés e) pontjával megállapított szöveg.
+[^82]: A 8. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.

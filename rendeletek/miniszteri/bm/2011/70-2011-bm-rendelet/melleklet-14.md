@@ -52,7 +52,7 @@
 
 | 10 |  |  | 4 ismételt mérés szükséges |
 
-14. melléklet a 70/2011. (XII. 30.) BM rendelethez[^88]
+14. melléklet a 70/2011. (XII. 30.) BM rendelethez[^89]
 
 Határozat kötelező adattartalma betegség szolgálati kötelmekkel való összefüggéséről
 
@@ -80,7 +80,7 @@ Határozat kötelező adattartalma betegség szolgálati kötelmekkel való öss
 
 12. Bejelentett megbetegedés időpontjának megjelölése (év, hó nap)
 
-13.[^89] Megbetegedés minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
+13.[^90] Megbetegedés minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
 
 14. Jogorvoslat
 
@@ -94,5 +94,5 @@ Határozat kötelező adattartalma betegség szolgálati kötelmekkel való öss
 
 19. Készített példány meghatározása
 
-[^88]: A 14. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés e) pontja iktatta be.
-[^89]: A 14. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.
+[^89]: A 14. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés e) pontja iktatta be.
+[^90]: A 14. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.

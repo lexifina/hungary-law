@@ -1,4 +1,4 @@
-1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^73]
+1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^74]
 
 A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó személyek létszáma, a szakképesítési követelmények és a munkavégzés napi időtartama
 
@@ -22,7 +22,7 @@ A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet 
 
 | 1. | Szervezeti egység | Megnevezés | Munkavédelmi szakképesítés | Fő/ munkaidő |
 
-| 2. | Budapesti és vármegyei rendőr-főkapitányságok, valamint az általános rendőrségi feladatok ellátására létrehozott szerv ezekkel azonos jogállású szervei a Készenléti Rendőrség | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
+| 2. | Budapesti és vármegyei rendőr-főkapitányságok, valamint az általános rendőrségi feladatok ellátására létrehozott szerv ezekkel azonos jogállású szervei a Készenléti Rendőrség kivételével | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
 
 | 3. | Készenléti Rendőrség | munkavédelmi felügyelő | felsőfokú | 2/teljes* |
 
@@ -40,7 +40,7 @@ A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet 
 
 | 10. | BV Gazdasági társaságok | munkavédelmi felügyelő | középfokú | 1/rész/teljes* |
 
-| 11. | Terrorelhárítási Központ | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
+| 11. |  |  |  |  |
 
 | 12. | Nemzetbiztonsági Szakszolgálat | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
 
@@ -82,4 +82,4 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 
 * A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden vármegyében és vármegyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
 
-[^73]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a, az 51/2022. (XII. 27.) BM rendelet 1. § b)-d) pontja szerint módosított szöveg.
+[^74]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a, az 51/2022. (XII. 27.) BM rendelet 1. § b)–d) pontja, a 23/2026. (IX. 30.) BM rendelet 18. § b) pontja és 19. §-a szerint módosított szöveg.

@@ -178,8 +178,8 @@
 
 | A sérült a jegyzőkönyvben foglaltakkal 1. Egyetért 2. Nem ért egyet (Az ellenkező véleményt csatolni kell!) ……………………………………….. szerv vezetője (parancsnoka) ........................................... sérült (hozzátartozó) Kelt, …………201 . ..hó…..nap. |
 
-7. melléklet a 70/2011. (XII. 30.) BM rendelethez[^79]
+7. melléklet a 70/2011. (XII. 30.) BM rendelethez[^80]
 
 Kitöltési útmutató a baleseti jegyzőkönyvhöz
 
-[^79]: A 7. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés d) pontjával megállapított, az 51/2022. (XII. 27.) BM rendelet 1. § e) pontja szerint módosított szöveg.
+[^80]: A 7. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés d) pontjával megállapított, az 51/2022. (XII. 27.) BM rendelet 1. § e) pontja szerint módosított szöveg.
