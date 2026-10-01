@@ -30,4 +30,4 @@ d) a helyi nemzetiségi önkormányzat működési feltételeinek és gazdálkod
 
 (5) Önkormányzati működésen értendő a testületi üléseken és a közmeghallgatáson túl, a bizottságok működése, a tisztségviselői és képviselői megbízatás ellátása, valamint a kötelező önkormányzati feladatok ellátását szolgáló rendezvények megtartása is.
 
-(6) Ha a (2)–(4) bekezdés szerinti megállapodás megkötésére határidőben nem kerül sor, a fővárosi és a vármegyei kormányhivatal eljárást folytat le, ennek keretében egyeztetést tart a felek között. Az egyeztetés eredménytelensége esetén a nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közigazgatási pert indíthat.
+(6) Ha a (2)–(4) bekezdés szerinti megállapodás megkötésére határidőben nem kerül sor, a fővárosi és a megyei kormányhivatal eljárást folytat le, ennek keretében egyeztetést tart a felek között. Az egyeztetés eredménytelensége esetén a nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közigazgatási pert indíthat.

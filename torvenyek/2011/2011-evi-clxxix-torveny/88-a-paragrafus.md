@@ -12,7 +12,7 @@ e) a nyilvánosság biztosításáról;
 
 f) a döntéshozatalról és a szavazás módjáról;
 
-g) a nemzetiségi önkormányzat ülésének jegyzőkönyvéről, vezetésének nyelvéről, valamint fővárosi és vármegyei kormányhivatalnak való megküldéséről;
+g) a nemzetiségi önkormányzat ülésének jegyzőkönyvéről, vezetésének nyelvéről, valamint fővárosi és megyei kormányhivatalnak való megküldéséről;
 
 h) a közmeghallgatásról;
 

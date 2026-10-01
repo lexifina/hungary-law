@@ -4,6 +4,6 @@ a) a nemzetiségi önkormányzati képviselők több mint egynegyede (települé
 
 b) a nemzetiségi önkormányzat bizottsága, vagy
 
-c) a fővárosi és vármegyei kormányhivatal kezdeményezésére, amennyiben az indítvány tartalmazza a testületi ülés összehívásának indokát, napirendjét és helyszínét, továbbá
+c) a fővárosi és megyei kormányhivatal kezdeményezésére, amennyiben az indítvány tartalmazza a testületi ülés összehívásának indokát, napirendjét és helyszínét, továbbá
 
 d) a közigazgatási szerv megkeresésére, amennyiben az indítvány a nemzetiségi önkormányzat egyetértésének, véleményének vagy állásfoglalásának beszerzésére irányul.

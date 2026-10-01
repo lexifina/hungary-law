@@ -16,4 +16,4 @@ d) az átadó és az átvevő tudomásul veszi, hogy ha bármely okból ellehete
 
 (5) Intézmény fenntartói jogának a nemzetiségi önkormányzat által történő átvétele nem eredményezheti az átvétel előtti szolgáltatások színvonalának romlását, a rendelkezésre álló személyi és tárgyi feltételek csökkenését.
 
-(6) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a fővárosi és vármegyei kormányhivatal a felek erre irányuló kezdeményezésétől számított tizenöt munkanapon belül egyeztetést tart. Ha az egyeztetés során harminc munkanapon belül nem jön létre megegyezés, a fővárosi és vármegyei kormányhivatal törvényességi felügyeleti jogkörében jár el.
+(6) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a fővárosi és megyei kormányhivatal a felek erre irányuló kezdeményezésétől számított tizenöt munkanapon belül egyeztetést tart. Ha az egyeztetés során harminc munkanapon belül nem jön létre megegyezés, a fővárosi és megyei kormányhivatal törvényességi felügyeleti jogkörében jár el.

@@ -28,7 +28,7 @@ a) az érintett képviselőnek,
 
 b) a választási bizottságnak és
 
-c) a fővárosi és vármegyei kormányhivatalnak.
+c) a fővárosi és megyei kormányhivatalnak.
 
 (3) A képviselő a képviselő-testület, közgyűlés ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
 

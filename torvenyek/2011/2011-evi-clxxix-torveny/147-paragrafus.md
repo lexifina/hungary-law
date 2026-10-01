@@ -1,1 +1,1 @@
-147. § A fővárosi és vármegyei kormányhivatal a mérlegelési jogkörben hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja.
+147. § A fővárosi és megyei kormányhivatal a mérlegelési jogkörben hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja.

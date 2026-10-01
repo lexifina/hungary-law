@@ -8,7 +8,7 @@ c) megbízás alapján képviselheti a nemzetiségi önkormányzat testületét,
 
 d) köteles részt venni a testület munkájában,
 
-e) megbízatásának ideje alatt legalább egy alkalommal köteles részt venni a fővárosi és vármegyei kormányhivatal által szervezett ingyenes képzésen.
+e) megbízatásának ideje alatt legalább egy alkalommal köteles részt venni a fővárosi és megyei kormányhivatal által szervezett ingyenes képzésen.
 
 (2) A nemzetiségi önkormányzati képviselőt a testületi munkában való részvételhez szükséges időtartamra munkahelyén fel kell menteni a munkavégzés alól. Az emiatt kiesett jövedelmét a nemzetiségi önkormányzati testület téríti meg, aminek alapján a képviselő társadalombiztosítási ellátásra is jogosult. A testület átalányt is megállapíthat.
 

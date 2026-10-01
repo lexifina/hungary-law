@@ -22,7 +22,7 @@ a) az elnöknek,
 
 b) a választási bizottságnak és
 
-c) a fővárosi és vármegyei kormányhivatalnak.
+c) a fővárosi és megyei kormányhivatalnak.
 
 (3) Az elnök által írásban benyújtott vagy a képviselő-testületi, közgyűlési ülés jegyzőkönyvébe foglalt lemondása nem vonható vissza.
 
@@ -36,7 +36,7 @@ b) a lemondás bejelentésének, vagy írásbeli benyújtás esetén a nemzetis�
 
 (6) A nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt. Egyidejűleg – az azonnali jogvédelem szabályai szerint – kérhető az elnöknek e tisztségéből történő felfüggesztése. A perindítással kapcsolatos határozat meghozatalában az elnök nem vesz részt, de a határozatképesség szempontjából jelenlévőnek kell tekinteni.
 
-(7) Ha a fővárosi és vármegyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem indít pert az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a fővárosi és vármegyei kormányhivatal e tárgyban közigazgatási pert indíthat az elnök ellen.
+(7) Ha a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem indít pert az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a fővárosi és megyei kormányhivatal e tárgyban közigazgatási pert indíthat az elnök ellen.
 
 (8) A bíróság határozata ellen nincs helye perújításnak.
 

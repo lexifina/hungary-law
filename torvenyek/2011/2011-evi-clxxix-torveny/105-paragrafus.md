@@ -2,11 +2,11 @@
 
 105. § (1) Az alakuló ülésen a nemzetiségi önkormányzat képviselő-testülete, közgyűlése a tagjai közül társadalmi megbízatású elnököt, az elnök helyettesítésére, munkájának segítésére társadalmi megbízatású elnökhelyettest választ. Az országos nemzetiségi önkormányzat főállású elnököt és elnökhelyetteseket is választhat. Az országos nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti az elnöki, elnökhelyettesi tisztség betöltésének módját.
 
-(2) A települési nemzetiségi önkormányzat elnöke a települési önkormányzat képviselő-testületi, közgyűlési és bizottsági ülésén tanácskozási joggal vesz részt. A területi nemzetiségi önkormányzat elnöke a vármegyei önkormányzat képviselő-testületi, bizottsági ülésén tanácskozási joggal vesz részt. Az országos nemzetiségi önkormányzat elnöke a helyi nemzetiségi önkormányzat képviselő-testületi, közgyűlési ülésén tanácskozási joggal részt vehet.
+(2) A települési nemzetiségi önkormányzat elnöke a települési önkormányzat képviselő-testületi, közgyűlési és bizottsági ülésén tanácskozási joggal vesz részt. A területi nemzetiségi önkormányzat elnöke a megyei önkormányzat képviselő-testületi, bizottsági ülésén tanácskozási joggal vesz részt. Az országos nemzetiségi önkormányzat elnöke a helyi nemzetiségi önkormányzat képviselő-testületi, közgyűlési ülésén tanácskozási joggal részt vehet.
 
 (3) A nemzetiségi önkormányzat elnöke tanácskozási joga gyakorlása során javaslatot tehet a helyi önkormányzat feladatkörébe tartozó, a nemzetiségi jogokat közvetlenül érintő ügy megtárgyalására. A helyi önkormányzati képviselő-testület, közgyűlés, bizottság soron következő ülésén köteles a javaslatot, kezdeményezést megtárgyalni, a tárgyban döntést hozni, és annak eredményéről a kezdeményezés, javaslat benyújtásától számított negyvenöt napon belül értesíteni a nemzetiségi önkormányzatot.
 
-(3a) Amennyiben a (3) bekezdésben meghatározott ügy megtárgyalására nem kerül sor, a nemzetiségi önkormányzat – a mulasztásról való tudomásszerzéstől számított harminc napon belül – a fővárosi és vármegyei kormányhivatal törvényességi felügyeleti eljárását kezdeményezheti. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közigazgatási pert indíthat.
+(3a) Amennyiben a (3) bekezdésben meghatározott ügy megtárgyalására nem kerül sor, a nemzetiségi önkormányzat – a mulasztásról való tudomásszerzéstől számított harminc napon belül – a fővárosi és megyei kormányhivatal törvényességi felügyeleti eljárását kezdeményezheti. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közigazgatási pert indíthat.
 
 (4) A nemzetiségi önkormányzat elnöke a (3) bekezdésben foglaltakon túl jogosult
 

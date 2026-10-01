@@ -24,6 +24,6 @@ c) a fenntartói jog központi költségvetési szerv vagy települési önkorm�
 
 d) az ingatlanon a nevelési-oktatási feladat ellátása megszűnik.
 
-(7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és vármegyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
+(7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
 
 (8) A 24. § (1) bekezdés, az (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a nemzeti köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén megkötött írásbeli megállapodást a felek a nemzeti köznevelésről szóló törvénynek az egyházi köznevelési intézményre vonatkozó szabályai szerinti tartalommal kötik meg.
