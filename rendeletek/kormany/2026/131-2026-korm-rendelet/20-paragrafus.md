@@ -1,5 +1,5 @@
 ## 6. A környezetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 624/2022. (XII. 30.) Korm. rendelet módosítása
 
-20. §[^23]
+20. §[^21]
 
-[^23]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
