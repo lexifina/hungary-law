@@ -1,3 +1,0 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 10937/2, 10937/3, 10937/10, 10965 és 10975/15 helyrajzi számú, természetben a Budapest II. kerület, Labanc utca 57. szám alatti ingatlanokon megvalósuló, a Készenléti Rendőrség Nemzeti Nyomozó Iroda épületének kialakítására irányuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
-
-(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek.
