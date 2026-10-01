@@ -26,7 +26,7 @@
 
 12. rendvédelmi alapellátó pszichológus: a vizsgált személy elsőfokú pszichológiai alkalmasságvizsgálatának elvégzésére jogosult pszichológus,
 
-13.[^5] rendvédelmi szerv vezetője: az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, a büntetés-végrehajtás országos parancsnoka, a hivatásos katasztrófavédelmi szerv főigazgatója,
+13.[^5] rendvédelmi szerv vezetője: az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója,, az idegenrendészeti szerv főigazgatója, a büntetés-végrehajtás országos parancsnoka, a hivatásos katasztrófavédelmi szerv főigazgatója,
 
 14. rendvédelmi szerv vezető főorvosa: a munkaköri leírásban a rendvédelmi szerv – illetve ha valamely rendvédelmi szerv külön megállapodás alapján más rendvédelmi szerv vonatkozásában is ellátja az egészségügyi alapellátás feladatait, akkor a más rendvédelmi szerv – vezető főorvosaként kijelölt személy,
 
@@ -37,4 +37,4 @@
 [^2]: A 2. § 2. pontja a 24/2023. (VI. 30.) BM rendelet 55. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 4. pontja a 69/2023. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § 5. pontja a 69/2023. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § 13. pontja a 24/2023. (VI. 30.) BM rendelet 55. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § 13. pontja a 24/2023. (VI. 30.) BM rendelet 55. § b) pontja, a 23/2026. (IX. 30.) BM rendelet 65. §-a szerint módosított szöveg.
