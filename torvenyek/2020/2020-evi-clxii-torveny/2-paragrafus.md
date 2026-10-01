@@ -10,9 +10,9 @@ ac) munkaviszonyban foglalkoztatottak,
 
 b) a Kit. szerinti területi kormányzati igazgatási szerveknél foglalkoztatottak,
 
-c) – az Országgyűlés Hivatala, valamint az Országgyűlési Őrség kivételével – a közszolgálati tisztviselőkről szóló 2011. CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
+c) – az Országgyűlés Hivatala kivételével – a közszolgálati tisztviselőkről szóló 2011. CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
 
-d) – az Országgyűlési Őrség kivételével – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
+d) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
 
 e) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény (a továbbiakban: Nsztv.) szerint a Nemzeti Adó- és Vámhivatal személyi állományába tartozók, valamint
 

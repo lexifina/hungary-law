@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-162-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 2020-162-00-00.18 |
 | 2026-01-01 | 2025. évi CXIX. törvény | 2020-162-00-00.19 |
 | 2026-01-06 | 2025. évi CXXVIII. törvény | 2020-162-00-00.20 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2020-162-00-00.21 |
