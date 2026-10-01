@@ -8,7 +8,13 @@ c) a bíróság;
 
 d) a nemzetbiztonsági szolgálat;
 
-e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv
+e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+
+f) az általános rendőrségi feladatok ellátására létrehozott szervnek a terrorcselekmények felderítési feladatait ellátó szervezeti egysége;
+
+g) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv;
+
+h) a személyvédelmi és létesítménybiztosítási feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv
 
 részére.
 
