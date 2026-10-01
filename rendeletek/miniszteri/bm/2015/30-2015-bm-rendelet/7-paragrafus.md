@@ -6,7 +6,7 @@ a) az általános rendőrségi feladatok ellátására létrehozott szerv eseté
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv esetében a 3. melléklet,
 
-c) a terrorizmust elhárító szerv esetében a 4. melléklet,
+c)[^10]
 
 d) az idegenrendészeti szerv esetében a 4/A. melléklet,
 
@@ -17,3 +17,4 @@ f) a büntetés-végrehajtási szervezet esetében a 6. melléklet
 tartalmazza.
 
 [^9]: A 7. § a 20/2019. (V. 15.) BM rendelet 6. §-ával megállapított szöveg.
+[^10]: A 7. § c) pontját a 24/2026. (IX. 30.) BM rendelet 6. § a) pontja hatályon kívül helyezte.

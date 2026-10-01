@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^36]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -14,29 +14,37 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 3. | kiemelt vezető | központi szerv vezetője | országos rendőrfőkapitány |  |  |
 
-| 4. | központi szerv vezetőjének helyettese | bűnügyi országos rendőrfőkapitány-helyettes |  |  |
+| 4. | központi szerv vezetőjének helyettese | bűnügyi országos rendőrfőkapitány-helyettes (főigazgató)[^37] |  |  |
 
-| 5. |  | rendészeti országos rendőrfőkapitány-helyettes |  |  |
+| 5. |  | rendészeti országos rendőrfőkapitány-helyettes (főigazgató)[^38] |  |  |
 
-| 6. |  | gazdasági országos rendőrfőkapitány-helyettes |  |  |
+| 6. |  | gazdasági országos rendőrfőkapitány-helyettes (főigazgató)[^39] |  |  |
 
-| 7. | kiemelt vezető | központi szerv vezetőjének helyettese | személyügyi országos rendőrfőkapitány-helyettes |  |  |
+| 7. | kiemelt vezető | központi szerv vezetőjének helyettese | személyügyi országos rendőrfőkapitány-helyettes (főigazgató)[^40] |  |  |
 
-| 8. | középvezető | szakirányító 1 | szolgálatvezető (ORFK humánigazgatási, ellenőrzési, kommunikációs) |  | 320–520 |
+| 8.[^41] | középvezető | szakirányító 1 | szolgálatvezető (ORFK humánigazgatási, ellenőrzési, kommunikációs) |  | 320–520 |
 
-| 9. | hivatalvezető (ORFK) |  | 320–520 |
+| 9.[^42] | középvezető | szakirányító 1 | hivatalvezető (ORFK) |  | 320–520 |
 
-| 10. | szakirányító 2 | főosztályvezető | 320–520 | 320–520 |
+| 10.[^43] | középvezető | szakirányító 1 | főigazgató-helyettes | 320–520 |  |
 
-| 11. | főosztályvezető 1 | főtanácsadó (főkapitányi biztos) | 320–520 | 320–520 |
+| 11.[^44] | középvezető | szakirányító 1 | igazgató (BEI) | 420–620 |  |
+
+| 11a.[^45] | középvezető | szakirányító 2 | főosztályvezető | 320–520 | 320–520 |
+
+| 11b.[^46] | középvezető | szakirányító 2 | főosztályvezető (BEI) | 420–620 |  |
+
+| 11c.[^47] | középvezető | főosztályvezető 1 | főtanácsadó (főkapitányi biztos) | 320–520 | 320–520 |
 
 | 12. | középvezető | főosztályvezető 1 | főtanácsadó | 320–520 | 320–520 |
 
-| 13. | beosztott vezető | főosztályvezető- | főosztályvezető-helyettes | 320–520 | 320–520 |
+| 13.[^48] | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 320–520 | 320–520 |
 
-| 14. | helyettes 1 | irodavezető |  | 320–520 |
+| 14.[^49] | beosztott vezető | főosztályvezető-helyettes 1 | irodavezető |  | 320–520 |
 
-| 15. | főosztályvezető- helyettes 2 | osztályvezető | 320–520 650–820* | 320–520 |
+| 15.[^50] | beosztott vezető | főosztályvezető-helyettes 2 | osztályvezető | 320–520 520–720* 650–820* | 320–520 |
+
+| 15a.[^51] | beosztott vezető | főosztályvezető-helyettes 2 | osztályvezető (BEI) | 420–620 |  |
 
 1.2. Területi szervnél
 
@@ -98,6 +106,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 1.4.1. 650–820*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Főosztály Kiberstratégiai Osztály vezetője esetében a hivatásos pótlék mértéke 650–820%.
 
+1.4.2.[^52] 520–720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Tanúvédelmi Szolgálat Taktikai Főosztály Előkészítő és Technikai Osztály állományában az osztályvezető esetében a hivatásos pótlék mértéke 520–720%.
+
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
@@ -106,37 +116,41 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | központi | E | ügyeletvezető | 570 |  |
+| 3.[^53] | központi | E | ügyeletvezető | 570 |  |
 
-| 4. | kiemelt főreferens | 570 | 520 |
+| 4.[^54] | központi | E | kiemelt főreferens | 570 620* | 520 |
 
-| 5. | kiemelt főreferens (kiberbűnözési) | 820 |  |
+| 5.[^55] | központi | E | kiemelt főreferens (kiberbűnözési) | 820 |  |
 
-| 6. | osztályvezető-helyettes | 570 | 520 |
+| 6.[^56] | központi | E | osztályvezető-helyettes | 570 620* 645* 720* 870* | 520 |
 
-| 7. | alosztályvezető | 570 | 520 |
+| 7.[^57] | központi | E | alosztályvezető | 570 620* 645* 720* 870* |  |
 
-| 8. | D | kiemelt főnyomozó | 570 |  |
+| 8.[^58] | központi | Hszt. 8. melléklet szerinti D | alosztályvezető (ORFK BM Ügyelet) | 920 |  |
 
-| 9. | főügyeletes | 570 |  |
+| 9.[^59] | központi | D | kiemelt főnyomozó | 570 620* 645* 720* 870* 1020* |  |
 
-| 10. | csoportvezető | 570 | 520 |
+| 10.[^60] | központi | D | főügyeletes | 570 |  |
 
-| 11. | kiemelt főelőadó | 570 | 520 |
+| 11.[^61] | központi | Hszt. 8. melléklet szerinti D | főügyeletes (ORFK BM Ügyelet) | 920 |  |
 
-| 12. | kiemelt főelőadó (kiberbűnözési) | 820 |  |
+| 12.[^62] | központi | D | csoportvezető | 570 | 520 |
 
-| 13. | kiemelt főellenőr***** | 570 | 520 |
+| 13.[^63] | központi | D | kiemelt főelőadó | 570 620* | 520 |
 
-| 14. | C | főnyomozó | 570 |  |
+| 13a.[^64] | központi | D | kiemelt főelőadó (kiberbűnözési) | 820 |  |
 
-| 15. | ügyeletes | 570 |  |
+| 13b.[^65] | központi | D | kiemelt főellenőr***** | 570 | 520 |
 
-| 16. | nyomozótiszt | 570 |  |
+| 14.[^66] | központi | C | főnyomozó | 570 620* |  |
 
-| 17. | főelőadó | 570 | 520 |
+| 15.[^67] | központi | C | ügyeletes | 570 |  |
 
-| 18. |  |  | főelőadó (kiberbűnözési) | 820 |  |
+| 16.[^68] | központi | C | nyomozótiszt | 570 |  |
+
+| 17.[^69] | központi | C | főelőadó | 570 | 520 |
+
+| 18.[^70] | központi | C | főelőadó (kiberbűnözési) | 820 |  |
 
 | 19. | területi | E | ügyeletvezető | 520 |  |
 
@@ -266,11 +280,21 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 2.1.2. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-2.1.3.[^33] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+2.1.3.[^71] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 2.1.4. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
 2.1.5. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+
+2.1.6.[^72] 620*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állománya esetében – a 2.1.7–2.1.10. pont hatálya alá tartozók kivételével – a hivatásos pótlék mértéke 620%.
+
+2.1.7.[^73] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
+
+2.1.8.[^74] 720*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
+
+2.1.9.[^75] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
+
+2.1.10.[^76] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
@@ -280,17 +304,19 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | központi | E | csoportparancsnok | 570 | 520 |
+| 3.[^77] | központi | E | csoportparancsnok | 570 645* | 520 |
 
-| 4. | D | referens | 570 | 520 |
+| 4.[^78] | központi | D | referens | 570 | 520 |
 
-| 5. | C | segédelőadó | 570 | 520 |
+| 4a.[^79] | központi | D | nyomozó | 570 645* 720** 870* 1020* |  |
+
+| 5.[^80] | központi | C | segédelőadó | 570 645* 720** 870* 1020* | 520 |
 
 | 6. | területi | E | csoportparancsnok | 520 620**** | 470 |
 
 | 7. |  | őrparancsnok | 520 |  |
 
-| 8. |  | szolgálatparancsnok | 520 620****[^34] |  |
+| 8. |  | szolgálatparancsnok | 520 620****[^81] |  |
 
 | 9. |  | szolgálatparancsnok (közterületi támogató) | 620 |  |
 
@@ -314,13 +340,13 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 19. |  | vizsgáló | 520 |  |
 
-| 20. |  | kiemelt főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^35] |  |
+| 20. |  | kiemelt főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^82] |  |
 
 | 21. |  | járőrparancsnok | 520 545** 620** 620**** 645** |  |
 
 | 22. |  | C | fogdafelügyelő | 520 |  |
 
-| 23. |  | főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^36] |  |
+| 23. |  | főhatárrendész | 520 545** 620** 620**** 645** 720* 745*[^83] |  |
 
 | 24. |  | futár |  | 470 |
 
@@ -330,7 +356,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 27. |  | kutyavezető | 620** 620**** 645** |  |
 
-| 28. |  | szolgálatparancsnok-helyettes | 520 620****[^37] |  |
+| 28. |  | szolgálatparancsnok-helyettes | 520 620****[^84] |  |
 
 | 29. |  | segédelőadó | 520 | 470 |
 
@@ -342,7 +368,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 33. |  | B | fogdaőr | 520 |  |
 
-| 34. |  | B | határrendész | 520 545** 620** 620**** 645** 720* 745*[^38] |  |
+| 34. |  | B | határrendész | 520 545** 620** 620**** 645** 720* 745*[^85] |  |
 
 | 35. |  | járőr | 520 545** 620** 645** |  |
 
@@ -358,7 +384,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 41. |  | A | objektumőr | 495* 520 |  |
 
-| 42. |  | járőrtárs | 495* |  |
+| 42. |  | járőrtárs*[^86] | 495[^87] |  |
 
 | 43. | helyi | E | őrparancsnok | 520 |  |
 
@@ -430,7 +456,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 77. |  | bűnügyi fogalmazó | 520 |  |
 
-| 78. |  | járőrtárs | 495* |  |
+| 78. |  | járőrtárs*[^88] | 495[^89] |  |
 
 3.1. Megjegyzés:
 
@@ -440,7 +466,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.3. 620%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 620%.
 
-3.1.4.[^39] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
+3.1.4.[^90] 620****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti vagy légi határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 620%.
 
 3.1.5. 645%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 645%.
 
@@ -448,9 +474,155 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.7. 745*: A gondozásból adódó többletteher ellentételezése érdekében a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében, ha a szolgálati kutya kiképzésében részt vesz, azzal folyamatosan foglalkozik, arról gondoskodik, valamint azzal szolgálati tevékenységet ellát, két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 745%.
 
-3.1.8. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+3.1.8.[^91] 645*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság Műveleti Főosztály Tanúvédelmi Szolgálat, a Műveleti Információs Osztály, valamint a Taktikai Főosztály Előkészítő és Technikai Osztály Képzési Alosztály állománya esetében a hivatásos pótlék mértéke 645%.
 
-4.[^40]
+3.1.9.[^92] 720**: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 720%.
+
+3.1.10.[^93] 870*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a speciális műveleti feladatot ténylegesen ellátó állomány, valamint a Taktikai Főosztály Taktikai Osztály I–III. állománya esetében a hivatásos pótlék mértéke 870%.
+
+3.1.11.[^94] 1020*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság állományában a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
+
+3.1.12.[^95] járőrtárs*: a hivatásos pótlék mértéke 495%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
+
+4.[^96] Nemzeti Nyomozó Iroda szolgálati beosztásai (területi szerv besorolású)
+
+4.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1 | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | kiemelt vezető | területi szerv vezetője | igazgató | 420–620 |  |
+
+| 4 | középvezető | szakirányító 1 | igazgatóhelyettes | 420–620 | 520–720 |
+
+| 5 | középvezető | szakirányító 1 | szolgálatvezető (TESZ) | 870–1070 |  |
+
+| 6 | középvezető | szakirányító 2 | szolgálatvezető (DBESZ) | 620–820 |  |
+
+| 7 | középvezető | szakirányító 2 | szolgálatvezető | 420–620 |  |
+
+| 8 | középvezető | főosztályvezető 1 | főosztályvezető (TESZ I–III. Felderítő Főosztály) | 870–1070 |  |
+
+| 9 | középvezető | főosztályvezető 2 | főosztályvezető (DBESZ) | 620–820 |  |
+
+| 10 | középvezető | főosztályvezető 2 | főosztályvezető | 420–620 |  |
+
+| 11 | középvezető | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési) | 420–620 | 520–720 |
+
+| 12 | középvezető | főosztályvezető 2 | hivatalvezető |  | 520–720 |
+
+| 13 | beosztott vezető | főosztályvezető-helyettes 2 | főosztályvezető-helyettes | 420–620 |  |
+
+| 14 | beosztott vezető | főosztályvezető-helyettes 2 | Osztályvezető (TESZ I–III. Felderítő Főosztály, EO, OIO) | 870–1070 |  |
+
+| 15 | beosztott vezető | főosztályvezető-helyettes 2 | tanácsadó | 420–620 |  |
+
+| 16 | beosztott vezető | osztályvezető 1 | osztályvezető (DBESZ) | 620–820 |  |
+
+| 17 | beosztott vezető | osztályvezető 1 | osztályvezető | 420–620 | 520–720 |
+
+4.2. Tiszti besorolási osztályba tartozó szolgálati beosztások a Nemzeti Nyomozó Iroda terrorfelderítési feladatokat ellátó elkülönített szervezeti elemeinél
+
+|  | A | B | C | D |
+
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | Hszt. 8. melléklet szerinti D | alosztályvezető | 1070 |  |
+
+| 4 | Hszt. 8. melléklet szerinti D | kiemelt főelőadó | 1070 |  |
+
+| 5 | Hszt. 8. melléklet szerinti D | kiemelt főnyomozó | 1070 |  |
+
+| 6 | Hszt. 8. melléklet szerinti C | főnyomozó | 1070 |  |
+
+4.3. Tiszti besorolási osztályba tartozó szolgálati beosztások, a 4.2. pontban foglalt szervezeti elemek kivételével
+
+|  | A | B | C | D |
+
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | E | osztályvezető-helyettes | 620 | 720 |
+
+| 4 | E | alosztályvezető | 620 820* | 720 |
+
+| 5 | E | sajtószóvivő | 620 |  |
+
+| 6 | D | alosztályvezető-helyettes | 620 |  |
+
+| 7 | D | csoportvezető | 620 820* |  |
+
+| 8 | D | kiemelt főelőadó | 620 820* | 720 |
+
+| 9 | D | kiemelt főellenőr* | 620 | 520 |
+
+| 10 | D | kiemelt főnyomozó | 620 720* 745* 820* |  |
+
+| 11 | D | kiemelt főtechnikus | 620 720* 745* |  |
+
+| 12 | D | kiemelt védelmi tiszt |  | 720 |
+
+| 13 | C | főellenőr* | 620 | 520 |
+
+| 14 | C | főelőadó | 620 | 720 |
+
+| 15 | C | főnyomozó | 620 820* |  |
+
+| 16 | B | nyomozótiszt | 620 820* |  |
+
+4.4. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | E | szolgálatparancsnok | 620 |  |
+
+| 4 | E | őrparancsnok | 620 |  |
+
+| 5 | D | referens |  | 720 |
+
+| 6 | D | technikus | 620 720* 745* |  |
+
+| 7 | D | nyomozó | 620 720* 745* |  |
+
+| 8 | C | futár |  | 720 |
+
+| 9 | C | kiemelt kísérőőr | 620 |  |
+
+| 10 | C | fogdafelügyelő | 620 |  |
+
+| 11 | C | segédelőadó |  | 720 |
+
+4.5. Megjegyzés a 4.1–4.4. pontban foglalt táblázatokhoz:
+
+4.5.1. a Nemzeti Nyomozó Iroda – Hszt. 318/A. § b) pontja szerinti – terrorfelderítési feladatokat ellátó elkülönített szervezeti elemei:
+
+4.5.1.1. a TESZ Törzs
+
+4.5.1.2. a TESZ I–III. Felderítő Főosztály
+
+4.5.1.3. a TESZ Elemző Osztály
+
+4.5.1.4. a DBESZ Forenzikus és Elemző Főosztály Operatív Informatikai Osztály
+
+4.5.2. 720*: A gondozásból adódó többletteher ellentételezése érdekében a Bűnügyi Technikai Főosztály állományában a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 720%.
+
+4.5.3. 745*: A gondozásból adódó többletteher ellentételezése érdekében a Bűnügyi Technikai Főosztály állományában a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 745%.
+
+4.5.4. 820*: A DBESZ hivatásos állománya, valamint a Kiemelt Ügyek Csoportja csoportvezetője esetében a hivatásos pótlék mértéke 820%.
+
+4.5.5. kiemelt főellenőr*: A kiemelt főellenőr szolgálati beosztás esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+
+4.5.6. főellenőr*: A főellenőr szolgálati beosztás esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
 5. Rendőrségi Oktatási és Kiképző Központ (területi szerv besorolású)
 
@@ -534,233 +706,211 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 8. | C | segédelőadó |  | 520 |
 
-6. Készenléti Rendőrség szolgálati beosztásai (területi szerv besorolású)
+6.[^97] Készenléti Rendőrség szolgálati beosztásai (területi szerv besorolású)
 
 6.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 1 | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2 | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetőjének helyettese | műveleti országos rendőrfőkapitány-helyettes (Készenléti Rendőrség parancsnoka) |  |  |
+| 3 | kiemelt vezető | központi szerv vezetőjének helyettese | műveleti országos rendőrfőkapitány-helyettes (Készenléti Rendőrség parancsnoka) |  |  |
 
-| 4. | kiemelt vezető | területi szerv vezetője | igazgató (NNI) | 420–620 |  |
+| 4 | középvezető | szakirányító 1 | igazgató | 420–620 770–970* | 370–570 |
 
-| 5. | középvezető | szakirányító 1 | igazgató | 420–620 | 370–570 |
+| 5 | középvezető | szakirányító 1 | ezredparancsnok | 420–620 |  |
 
-| 6. | szakirányító 1 | ezredparancsnok | 420–620 |  |
+| 6 | középvezető | főosztályvezető 1 | igazgatóhelyettes (MÜIG, KIG, RBI) | 420–620 | 370–570 |
 
-| 7. | szakirányító 2 | igazgató-helyettes (NNI) | 420–620 |  |
+| 7 | középvezető | főosztályvezető 1 | szolgálatvezető (TŰSZ) | 720–920 |  |
 
-| 8. | főosztályvezető 1 | igazgató-helyettes (MÜIG, KIG, RBI) | 420–620 | 370–570 |
+| 8 | középvezető | főosztályvezető 1 | főosztályvezető (PAVIG) | 770–970 |  |
 
-| 9. | középvezető | főosztályvezető 1 | szolgálatvezető (TŰSZ) | 720–920 |  |
+| 9 | középvezető | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési, ÁFSZ, LRSZ) | 420–620 870–1070* | 370–570 |
 
-| 10. | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési, ÁFSZ, LRSZ) | 420–620 | 370–570 |
+| 10 | középvezető | főosztályvezető 2 | főosztályvezető | 420-620 | 370–570 |
 
-| 11. |  | főosztályvezető | 420–620 | 370–570 |
+| 11 | középvezető | főosztályvezető 2 | főosztályvezető (TŰSZ) | 720–920 |  |
 
-| 12. | középvezető | főosztályvezető 2 | főosztályvezető (TŰSZ) | 720–920 |  |
+| 12 | középvezető | főosztályvezető 2 | hivatalvezető |  | 370–570 |
 
-| 13. | főosztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály) | 720–920 |  |
+| 13 | beosztott vezető | főosztályvezető-helyettes 1 | szolgálatvezető (ÜVSZ) | 420–620 |  |
 
-| 14. |  | hivatalvezető |  | 370–570 |
+| 14 | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes (PAVIG) | 770–970 |  |
 
-| 15. | középvezető | főosztályvezető 2 | főosztályvezető (NNI KEF) | 620–820 |  |
+| 15 | beosztott vezető | főosztályvezető-helyettes 2 | főosztályvezető-helyettes | 420–620 | 370–570 |
 
-| 16. | beosztott vezető | főosztályvezető- helyettes 1 | szolgálatvezető (ÜVSZ) | 420–620 |  |
+| 16 | beosztott vezető | főosztályvezető-helyettes 2 | tanácsadó | 420–620 | 370–570 |
 
-| 17. | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 420–620 | 370–570 |
+| 17 | beosztott vezető | osztályvezető 1 | osztályvezető | 420–620 770–970* | 370–570 |
 
-| 18. |  | tanácsadó | 420–620 | 370–570 |
+| 18 | beosztott vezető | osztályvezető 1 | osztályvezető (TŰSZ) | 720–920 |  |
 
-| 19. | osztályvezető 1 | osztályvezető | 420–620 | 370–570 |
+| 19 | beosztott vezető | osztályvezető 1 | szolgálatvezető-helyettes (LRSZ) | 870–1070 420–620* |  |
 
-| 20. |  | osztályvezető (TŰSZ) | 720–920 |  |
-
-| 21. | osztályvezető 1 | osztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztály) | 720–920 |  |
-
-| 22. |  | szolgálatvezető-helyettes (LRSZ) | 420–620* 870–1070 |  |
-
-| 23. | beosztott vezető | osztályvezető 1 | osztályvezető (NNI KEF) | 620–820 |  |
-
-6.1.1. 620*: A Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálatvezető-helyettes szolgálati beosztásban a hivatásos pótlék mértéke 620%.
-
-6.2. Tiszti szolgálati beosztások
+6.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2 | alapfeladat | nem alapfeladat |
 
-| 3. | E | osztályvezető-helyettes | 570** 595* 620 720** 870*** | 520 |
+| 3 | E | osztályvezető-helyettes | 620 570* 720* 1020* | 520 |
 
-| 4. | alosztályvezető | 570** 595* 620 645*** 720** 745** 870*** 1020****** | 520 |
+| 4 | E | alosztályvezető | 620 570* 645* 720* 745* 1020* | 520 |
 
-| 5. | századparancsnok | 620 |  |
+| 5 | E | századparancsnok | 620 |  |
 
-| 6. | karmester |  | 520 |
+| 6 | E | karmester |  | 520 |
 
-| 7. | főorvos |  | 520 |
+| 7 | E | ügyeletvezető | 620 |  |
 
-| 8. | ügyeletvezető | 620 |  |
+| 8 | D | helikoptervezető | 1070 |  |
 
-| 9. | E | osztályvezető-helyettes (NNI KEF) | 820 |  |
+| 9 | Hszt. 8. melléklet szerinti D | osztályvezető-helyettes (PAVIG) | 920 1020** |  |
 
-| 10. | E | alosztályvezető (NNI KEF) | 820 |  |
+| 10 | D | alosztályvezető-helyettes | 620 1020* | 520 |
 
-| 11. | D | helikoptervezető | 1070 |  |
+| 11 | D | csoportvezető | 620 645* 720* 745* 1020* | 520 |
 
-| 12. | alosztályvezető-helyettes | 620 1020****** | 520 |
+| 12 | D | kiemelt főelőadó | 620 570* 645* 720* 745* 1020* | 520 |
 
-| 13. | csoportvezető | 620 645*** 720** 745** 1020****** | 520 |
+| 13 | Hszt. 8. melléklet szerinti D | kiemelt főelőadó (PAVIG) | 920 970* 1020** |  |
 
-| 14. | kiemelt főelőadó | 570** 595* 620 645*** 720** 745** 820***** 870*** 1020****** | 520 |
+| 14 | D | kiemelt főellenőr* | 620 | 520 |
 
-| 15. | kiemelt főellenőr******* | 620 | 520 |
+| 15 | D | karmester-helyettes |  | 520 |
 
-| 16. | kiemelt főnyomozó | 595* 620 645*** 720** 820***** 870*** 1020****** |  |
+| 16 | D | kiemelt főmérnök | 620 | 520 |
 
-| 17. | (D) | kiemelt főtechnikus | 620 | 520 |
+| 17 | D | kiképzésvezető | 620 |  |
 
-| 18. | karmester-helyettes |  | 520 |
+| 18 | Hszt. 8. melléklet szerinti D | kiemelt biztonsági főtiszt (PAVIG) | 920 |  |
 
-| 19. | kiemelt főmérnök | 620 | 520 |
+| 19 | Hszt. 8. melléklet szerinti D | ügyeletvezető II. (PAVIG) | 920 |  |
 
-| 20. | kiképzésvezető | 620 | 520 |
+| 20 | C | főelőadó | 620 1020* | 520 |
 
-| 21. | kiemelt biztonsági főtiszt | 620 1020****** |  |
+| 21 | Hszt. 8. melléklet szerinti C | főelőadó (PAVIG) | 920 |  |
 
-| 22. | C | főelőadó | 620 1020****** | 520 |
+| 22 | C | főrevizor |  | 520 |
 
-| 23. | főrevizor |  | 520 |
+| 23 | C | főmérnök | 620 | 520 |
 
-| 24. | főtechnikus | 620 | 520 |
+| 24 | Hszt. 8. melléklet szerinti C | főmérnök (PAVIG) | 1020 |  |
 
-| 25. | biztonsági főtiszt | 620 |  |
+| 25 | B | mérnök | 620 | 520 |
 
-| 26. | főmérnök | 620 | 520 |
+| 26 | B | előadó I. | 620 | 520 |
 
-| 27. | C | főnyomozó | 595* 620 645*** 720** 820***** 870*** 1020****** |  |
+| 27 | B | szólamvezető |  | 520 |
 
-| 28. | B | mérnök | 620 | 520 |
+| 28 | A | előadó II. | 620 | 520 |
 
-| 29. | előadó I. | 620 | 520 |
-
-| 30. | (B) | technikustiszt | 620 | 520 |
-
-| 31. | biztonsági tiszt | 620 |  |
-
-| 32. | szólamvezető |  | 520 |
-
-| 33. | B | nyomozótiszt | 620 645*** 820***** |  |
-
-| 34. | A | előadó II. | 620 | 520 |
-
-6.3. Tiszthelyettesi szolgálati beosztások
+6.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2 | alapfeladat | nem alapfeladat |
 
-| 3. | E | szolgálatparancsnok | 570** 620 645*** 720** 745** | 520 |
+| 3 | E | szolgálatparancsnok | 620 570* 645* 720* 745* | 520 |
 
-| 4. | csoportparancsnok | 620 645*** 720** 745** 1020****** | 520 |
+| 4 | E | csoportparancsnok | 620 645* 720* 745* 1020* | 520 |
 
-| 5. | szolgálatirányító | 620 1020****** |  |
+| 5 | E | szolgálatirányító | 620 1020* |  |
 
-| 6. | szakaszparancsnok | 620 |  |
+| 6 | E | szakaszparancsnok | 620 |  |
 
-| 7. | őrparancsnok | 620 |  |
+| 7 | D | biztonsági gépkocsivezető | 620 |  |
 
-| 8. | D | biztonsági gépkocsivezető | 620 1020****** |  |
+| 8 | Hszt. 7. melléklet szerinti D | szolgálatparancsnok II. (PAVIG) | 920 970* |  |
 
-| 9. |  | fedélzeti szolgálattevő (helikopter hajózó) | 720**** |  |
+| 9 | D | fedélzeti szolgálattevő (helikopter hajózó) | 720 |  |
 
-| 10. |  | referens | 620 720** 870*** | 520 |
+| 10 | D | referens | 620 720* | 520 |
 
-| 11. |  | raktárvezető | 570** 620 | 520 |
+| 11 | Hszt. 7. melléklet szerinti D | referens (PAVIG) | 920 |  |
 
-| 12. |  | PSZH parancsnok | 620 |  |
+| 12 | D | raktárvezető | 620 570* | 520 |
 
-| 13. |  | technikus | 570** 595* 620 720** 870*** 1020****** | 520 |
+| 13 | D | PSZH parancsnok | 620 |  |
 
-| 14. |  | nyomozó | 595* 620 645*** 720** 870*** 1020****** |  |
+| 14 | D | technikus | 620 570* 720* | 520 |
 
-| 15. |  | tűzszerész | 1020 |  |
+| 15 | Hszt. 7. melléklet szerinti D | technikus (PAVIG) | 920 |  |
 
-| 16. |  | személybiztosító | 620 1020****** |  |
+| 16 | D | tűzszerész | 1020 |  |
 
-| 17. |  | helyszínbiztosító | 620 1020****** |  |
+| 17 | D | zenész |  | 520 |
 
-| 18. |  | lakásbiztosító | 620 1020****** |  |
+| 18 | D | vízágyúgépkocsi-parancsnok | 620 |  |
 
-| 19. |  | zenész |  | 520 |
+| 19 | D | járőrparancsnok | 620 645* 720* 745* |  |
 
-| 20. |  | vízágyúgépkocsi-parancsnok | 620 |  |
+| 20 | D | szakoktató | 620 | 520 |
 
-| 21. |  | járőrparancsnok | 620 645*** 720** 745** |  |
+| 21 | C | járőrvezető | 620 645* 720* 745* |  |
 
-| 22. |  | szakoktató | 620 | 520 |
+| 22 | C | kutyavezető | 620 720* 745* |  |
 
-| 23. | C | járőrvezető | 620 645*** 720** 745** |  |
+| 23 | C | kiemelt objektumőr | 620 570* |  |
 
-| 24. | kiemelt kísérőőr | 620 |  |
+| 24 | C | segédelőadó | 620 645* | 520 |
 
-| 25. | kutyavezető | 720** 745** |  |
+| 25 | Hszt. 7. melléklet szerinti C | díszőr (PAVIG) | 920 |  |
 
-| 26. | kiemelt objektumőr | 570** 620 |  |
+| 26 | Hszt. 7. melléklet szerinti C | technikai figyelő (PAVIG) | 870 |  |
 
-| 27. | segédelőadó | 620 645*** | 520 |
+| 27 | C | futár |  | 520 |
 
-| 28. | futár |  | 520 |
+| 28 | C | kiképző | 620 | 520 |
 
-| 29. | kiképző | 620 | 520 |
+| 29 | B | járőr | 620 645* 720* 745* |  |
 
-| 30. | fogdafelügyelő | 620 |  |
+| 30 | B | PSZH kezelő | 620 |  |
 
-| 31. | B | járőr | 620 645*** 720** 745** |  |
+| 31 | B | vízágyú gépkocsi-kezelő | 620 |  |
 
-| 32. | PSZH kezelő | 620 |  |
+| 32 | B | gépjárművezető | 620 | 520 |
 
-| 33. | vízágyú gépkocsi-kezelő | 620 |  |
+| 33 | B | objektumőr | 620 570* |  |
 
-| 34. | gépjárművezető | 620 | 520 |
+| 34 | Hszt. 7. melléklet szerinti B | objektumőr I. (PAVIG) | 870 |  |
 
-| 35. | kísérőőr | 620 |  |
+| 35 | A | járőrtárs* | 520 |  |
 
-| 36. | objektumőr | 570** 620 |  |
+| 36 | Hszt. 7. melléklet szerinti A | objektumőr II. (PAVIG) | 870 |  |
 
-| 37. | A | járőrtárs | 520* |  |
+6.4. Megjegyzés a 6.1–6.3. pontban foglalt táblázatokhoz:
 
-6.4. Megjegyzés:
+6.4.1. 420–620*: A Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálatvezető-helyettes szolgálati beosztásban a hivatásos pótlék mértéke 420–620%.
 
-6.4.1. 520*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 520%.
+6.4.2. 570*: Az Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály I. és Objektumvédelmi Főosztály II. alapfeladatokat ellátó állománya – a Sándor-palota Őrségi Osztály állománya kivételével – esetében a hivatásos pótlék mértéke 570%.
 
-6.4.2. 570**: A Személy- és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állománya esetében a hivatásos pótlék mértéke 570%.
+6.4.3. 645*: A Rendészeti Igazgatóság, valamint a Regionális Bevetési Igazgatóság támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, továbbá a Lovas és Kutyás Szolgálati Osztály állományában a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 645%.
 
-6.4.3. 595*: A titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állomány esetében a hivatásos pótlék mértéke 595%.
+6.4.4. 720*: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 720%.
 
-6.4.4.[^41] 645***: A Rendészeti Igazgatóság támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Nemzeti Nyomozó Iroda Műveleti Szolgálat Műveleti Főosztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állománya esetében a hivatásos pótlék mértéke 645%.
+6.4.5. 745*: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 745%.
 
-6.4.5. 720**: A tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében, valamint a gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 720%.
+6.4.6. 770–970*: A Parlamentvédelmi Igazgatóság igazgató és osztályvezető szolgálati beosztásaiban a hivatásos pótlék mértéke 770–970%.
 
-6.4.6. 720****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 720%.
+6.4.7. 870–1070*: Amennyiben a szolgálatvezető helikoptervezetői vagy oktató-, berepülő pilóta feladatokat is ellát, a Légirendészeti Szolgálat szolgálatvezető szolgálati beosztásban a hivatásos pótlék mértéke 870–1070%.
 
-6.4.7. 745**: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 745%.
+6.4.8. 970*: A Parlamentvédelmi Igazgatóság protokolláris díszelgési feladatokat ellátó állománya – a díszőr beosztást betöltők kivételével – esetében a hivatásos pótlék mértéke 970%.
 
-6.4.8. 820*****: A Nemzeti Nyomozó Iroda Bűnügyi Szolgálat Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 820%.
+6.4.9. 1020*: Az Objektumvédelmi Igazgatóság Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 1020%.
 
-6.4.9. 870***: A speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 870%.
+6.4.10. 1020**: A Parlamentvédelmi Igazgatóság Híradó és Biztonságtechnikai Osztály osztályvezető-helyettes és kiemelt főelőadó szolgálati beosztásaiban szolgálatot teljesítők esetében a hivatásos pótlék mértéke 1020%.
 
-6.4.10. 1020******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében, valamint a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 1020%.
+6.4.11. kiemelt főellenőr*: A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
-6.4.11. *******: A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+6.4.12. járőrtárs*: a hivatásos pótlék mértéke 520%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
 
 7. Budapesti Rendőr-főkapitányság
 
@@ -970,7 +1120,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 25. |  | A | objektumőr | 520* 545 |  |
 
-| 26. |  | járőrtárs | 520 |  |
+| 26. |  | járőrtárs*[^98] | 520 |  |
 
 | 27. | helyi | E | őrparancsnok | 545 |  |
 
@@ -1028,7 +1178,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 54. |  | bűnügyi fogalmazó | 545 |  |
 
-| 55. |  | járőrtárs | 520* |  |
+| 55. |  | járőrtárs*[^99] | 520[^100] |  |
 
 7.4. Megjegyzés:
 
@@ -1045,6 +1195,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 7.4.6. 650–820*: A Bűnügyi Szervek Gazdasági Bűnözés Elleni Főosztály Kiberbűnözés Elleni Osztály vezetője esetében a hivatásos pótlék mértéke 650–820%.
 
 7.4.7. 820*: A Bűnügyi Szervek Gazdasági Bűnözés Elleni Főosztály Kiberbűnözés Elleni Osztály állománya esetében a hivatásos pótlék mértéke 820%.
+
+7.4.8.[^101] járőrtárs*: a hivatásos pótlék mértéke 520%, figyelemmel arra, hogy a szolgálati beosztást önálló intézkedésre nem jogosult részszakképesítéssel rendelkező személy töltheti be.
 
 8. A Nemzetközi Oktatási Központ szolgálati beosztásai (területi szerv besorolású)
 
@@ -1124,9 +1276,9 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.1.13. NEO: Nemzetközi Oktatási Központ Nemzetközi Ellátó Osztály,
 
-9.1.14. NNI: Készenléti Rendőrség Nemzeti Nyomozó Iroda,
+9.1.14.[^102] PAVIG: Készenléti Rendőrség Parlamentvédelmi Igazgatóság
 
-9.1.15. NNI KEF: Készenléti Rendőrség Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály,
+9.1.15.[^103]
 
 9.1.16. ORFK: Országos Rendőr-főkapitányság,
 
@@ -1140,27 +1292,290 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.1.21. ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat.
 
+9.1.22.[^104] TESZ: Terrorizmus Elleni Szolgálat
+
+9.1.23.[^105] DBESZ: Digitális Bűnözés Elleni Szolgálat
+
+9.1.24.[^106] TESZ I–III. Felderítő Főosztály: a TESZ I. Felderítő Főosztály, TESZ II. Felderítő Főosztály és TESZ III. Felderítő Főosztály
+
+9.1.25.[^107] EO: TESZ Elemző Osztály
+
+9.1.26.[^108] OIO: DBESZ Forenzikus és Elemző Főosztály Operatív Informatikai Osztály
+
+9.1.27.[^109] BEI: Bűnügyi Ellátó Igazgatóság
+
 9.2. Megjegyzés:
 
 9.2.1. központi szerv: Országos Rendőr-főkapitányság (ORFK),
 
-9.2.2.[^42] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
+9.2.2.[^110] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
 
 9.2.3. helyi szervek: rendőrkapitányságok, határrendészeti kirendeltségek,
 
 9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5.[^43] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^111] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
-[^32]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^33]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^34]: A 2. melléklet 3. pontjában foglalt táblázat D:8 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^35]: A 2. melléklet 3. pontjában foglalt táblázat D:20 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^36]: A 2. melléklet 3. pontjában foglalt táblázat D:23 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^37]: A 2. melléklet 3. pontjában foglalt táblázat D:28 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^38]: A 2. melléklet 3. pontjában foglalt táblázat D:34 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^39]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^40]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte.
-[^41]: A 2. melléklet 6.4.4. pontja a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^42]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
-[^43]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
+10.[^112] Terrorelhárítási Központ szolgálati beosztásai (területi szerv besorolású)
+
+10.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1 | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | kiemelt vezető | központi szerv vezetőjének helyettese (tábornok) | különleges védelmi országos rendőrfőkapitány-helyettes (Terrorelhárítási Központ parancsnoka) |  |  |
+
+| 4 | kiemelt vezető | területi szerv vezetője (tábornok) | parancsnok-helyettes | 1070 |  |
+
+| 5 | középvezető | szakirányító 1 | igazgató | 1070 | 720 |
+
+| 6 | középvezető | szakirányító 2 | igazgatóhelyettes | 1070 | 720 |
+
+| 7 | középvezető | főosztályvezető 1 | főosztályvezető | 1070 970* | 720 |
+
+| 8 | középvezető | főosztályvezető 1 | főtanácsadó | 1070 | 720 |
+
+| 9 | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 1070 | 720 |
+
+| 10 | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 1070 970* | 720 |
+
+| 11 | beosztott vezető | főosztályvezető-helyettes 2 | műveletirányító | 1070 |  |
+
+| 12 | beosztott vezető | osztályvezető 1 | tanácsadó | 1070 | 720 |
+
+10.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | Hszt. 6. melléklet szerinti E | osztályvezető-helyettes 1 |  | 720 |
+
+| 4 | Hszt. 6. melléklet szerinti E | kiemelt főreferens 1 |  | 720 |
+
+| 5 | Hszt. 6. melléklet szerinti E | műveleti tiszt 1 |  | 720 |
+
+| 6 | Hszt. 6. melléklet szerinti E | jogtanácsos |  | 720 |
+
+| 7 | Hszt. 6. melléklet szerinti E | orvos |  | 720 |
+
+| 8 | D | ügyeletvezető | 920 |  |
+
+| 9 | D | osztályvezető-helyettes 2 | 1070 |  |
+
+| 10 | D | csoportvezető | 1070 920* |  |
+
+| 11 | D | kiemelt biztonsági főtiszt | 1070 |  |
+
+| 12 | D | kiemelt főreferens 2 | 1070 920* |  |
+
+| 13 | D | műveleti tiszt 2 | 1070 |  |
+
+| 14 | D | mentőorvos 1 | 1070 |  |
+
+| 15 | D | mentőtiszt | 1070 |  |
+
+| 16 | D | főmérnök | 1070 |  |
+
+| 17 | Hszt. 6. melléklet szerinti D | kiemelt főreferens 2 |  | 720 |
+
+| 18 | Hszt. 6. melléklet szerinti D | kiemelt főelőadó 1 |  | 720 |
+
+| 19 | Hszt. 6. melléklet szerinti D | műveleti tiszt 2 |  | 720 |
+
+| 20 | C | biztonsági főtiszt | 1070 |  |
+
+| 21 | C | kiemelt főelőadó 2 | 1070 |  |
+
+| 22 | C | műveleti tiszt 3 | 1070 |  |
+
+| 23 | C | mérnök | 1070 |  |
+
+| 24 | C | mentőorvos 2 | 1070 |  |
+
+| 25 | C | mentőtiszt 1 | 1070 |  |
+
+| 26 | Hszt. 6. melléklet szerinti C | műveleti tiszt 3 |  | 720 |
+
+| 27 | Hszt. 6. melléklet szerinti C | főelőadó |  | 720 |
+
+| 28 | B | kiemelt biztonsági tiszt | 1070 |  |
+
+| 29 | B | mentőtiszt 2 | 1070 |  |
+
+| 30 | Hszt. 6. melléklet szerinti B | előadó 1 |  | 720 |
+
+| 31 | A | biztonsági tiszt | 1070 |  |
+
+| 32 | A | szakelőadó | 920 |  |
+
+| 33 | Hszt. 6. melléklet szerinti A | előadó 2 |  | 720 |
+
+10.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1 | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2 | alapfeladat | nem alapfeladat |
+
+| 3 | Hszt. 5. melléklet szerinti E | szolgálatparancsnok 1 |  | 720 |
+
+| 4 | Hszt. 5. melléklet szerinti E | műveleti tiszthelyettes 1 |  | 720 |
+
+| 5 | Hszt. 5. melléklet szerinti E | technikus 1 |  | 720 |
+
+| 6 | D | szolgálatparancsnok 2 | 920 |  |
+
+| 7 | D | műveleti tiszthelyettes 2 | 1070 |  |
+
+| 8 | D | műveleti mentőápoló 1 | 1070 |  |
+
+| 9 | D | személybiztosító 1 | 1070 |  |
+
+| 10 | D | biztonsági gépjárművezető 1 | 1070 |  |
+
+| 11 | D | helyszínbiztosító 1 | 1070 |  |
+
+| 12 | D | technikus 2 | 1070 |  |
+
+| 13 | Hszt. 5. melléklet szerinti D | műveleti tiszthelyettes 2 |  | 720 |
+
+| 14 | Hszt. 5. melléklet szerinti D | segédelőadó 1 |  | 720 |
+
+| 15 | C | műveleti mentőápoló 2 | 1070 |  |
+
+| 16 | C | műveleti tiszthelyettes 3 | 1070 |  |
+
+| 17 | C | biztonsági gépjárművezető 2 | 1070 |  |
+
+| 18 | C | helyszínbiztosító 2 | 1070 |  |
+
+| 19 | C | lakásbiztosító 1 | 1070 |  |
+
+| 20 | C | személybiztosító 2 | 1070 |  |
+
+| 21 | C | objektumőr 1 | 920 |  |
+
+| 22 | C | technikus 3 | 920 |  |
+
+| 23 | C | segédelőadó 2 | 920 |  |
+
+| 24 | Hszt. 5. melléklet szerinti C | műveleti tiszthelyettes 3 |  | 720 |
+
+| 25 | Hszt. 5. melléklet szerinti C | segédelőadó 2 |  | 720 |
+
+| 26 | Hszt. 5. melléklet szerinti C | technikus 3 |  | 720 |
+
+| 27 | B | műveleti mentőápoló 3 | 1070 |  |
+
+| 28 | B | műveleti tiszthelyettes 4 | 1070 |  |
+
+| 29 | B | biztonsági gépjárművezető 3 | 1070 |  |
+
+| 30 | B | helyszínbiztosító 3 | 1070 |  |
+
+| 31 | B | lakásbiztosító 2 | 1070 |  |
+
+| 32 | B | technikus 4 | 1070 |  |
+
+| 33 | B | segédelőadó 3 | 920 |  |
+
+| 34 | B | objektumőr 2 | 920 |  |
+
+| 35 | Hszt. 5. melléklet szerinti B | segédelőadó 3 |  | 720 |
+
+| 36 | A | gépjárművezető | 920 |  |
+
+| 37 | A | objektumőr 3 | 920 |  |
+
+| 38 | Hszt. 5. melléklet szerinti A | gépjárművezető |  | 720 |
+
+10.4. Megjegyzés a 10.1–10.3. pontban foglalt táblázatokhoz:
+
+10.4.1. 920*: A Szakmai Támogató Igazgatóság Objektumvédelmi Főosztály Objektumvédelmi Osztályon szolgálatot teljesítő csoportvezető szolgálati beosztást betöltő és a Szakmai Támogató Igazgatóság Objektumvédelmi Főosztályon szolgálatot teljesítő kiemelt főreferens 2 szolgálati beosztást betöltő esetében a hivatásos pótlék mértéke 920%.
+
+10.4.2. 970*: A Szakmai Támogató Igazgatóságon az Ügyeleti Főosztály, a TEK Ügyeleti Osztály, az Objektumvédelmi Főosztály, az Objektumvédelmi Osztály és a Gépjármű Indító Osztály vezetője esetében a hivatásos pótlék mértéke 970%.
+
+[^36]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^37]: A 2. melléklet 1.1. pontjában foglalt táblázat C:4 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^38]: A 2. melléklet 1.1. pontjában foglalt táblázat C:5 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^39]: A 2. melléklet 1.1. pontjában foglalt táblázat C:6 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^40]: A 2. melléklet 1.1. pontjában foglalt táblázat C:7 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^41]: A 2. melléklet 1.1. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^42]: A 2. melléklet 1.1. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^43]: A 2. melléklet 1.1. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^44]: A 2. melléklet 1.1. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^45]: A 2. melléklet 1.1. pontjában foglalt táblázat 11a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^46]: A 2. melléklet 1.1. pontjában foglalt táblázat 11b. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^47]: A 2. melléklet 1.1. pontjában foglalt táblázat 11c. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^48]: A 2. melléklet 1.1. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^49]: A 2. melléklet 1.1. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^50]: A 2. melléklet 1.1. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^51]: A 2. melléklet 1.1. pontjában foglalt táblázat 15a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^52]: A 2. melléklet 1.4.2. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^53]: A 2. melléklet 2. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^54]: A 2. melléklet 2. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^55]: A 2. melléklet 2. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^56]: A 2. melléklet 2. pontjában foglalt táblázat 6. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^57]: A 2. melléklet 2. pontjában foglalt táblázat 7. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^58]: A 2. melléklet 2. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^59]: A 2. melléklet 2. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^60]: A 2. melléklet 2. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^61]: A 2. melléklet 2. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^62]: A 2. melléklet 2. pontjában foglalt táblázat 12. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^63]: A 2. melléklet 2. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^64]: A 2. melléklet 2. pontjában foglalt táblázat 13a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^65]: A 2. melléklet 2. pontjában foglalt táblázat 13b. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^66]: A 2. melléklet 2. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^67]: A 2. melléklet 2. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^68]: A 2. melléklet 2. pontjában foglalt táblázat 16. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^69]: A 2. melléklet 2. pontjában foglalt táblázat 17. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^70]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^71]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^72]: A 2. melléklet 2.1.6. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^73]: A 2. melléklet 2.1.7. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^74]: A 2. melléklet 2.1.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^75]: A 2. melléklet 2.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^76]: A 2. melléklet 2.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^77]: A 2. melléklet 3. pontjában foglalt táblázat 3. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^78]: A 2. melléklet 3. pontjában foglalt táblázat 4. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^79]: A 2. melléklet 3. pontjában foglalt táblázat 4a. sorát a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^80]: A 2. melléklet 3. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^81]: A 2. melléklet 3. pontjában foglalt táblázat D:8 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^82]: A 2. melléklet 3. pontjában foglalt táblázat D:20 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^83]: A 2. melléklet 3. pontjában foglalt táblázat D:23 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^84]: A 2. melléklet 3. pontjában foglalt táblázat D:28 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^85]: A 2. melléklet 3. pontjában foglalt táblázat D:34 mezője a 19/2026. (IX. 4.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^86]: A 2. melléklet 3. pontjában foglalt táblázat C:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^87]: A 2. melléklet 3. pontjában foglalt táblázat D:42 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^88]: A 2. melléklet 3. pontjában foglalt táblázat C:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^89]: A 2. melléklet 3. pontjában foglalt táblázat D:78 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^90]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
+[^91]: A 2. melléklet 3.1.8. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^92]: A 2. melléklet 3.1.9. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^93]: A 2. melléklet 3.1.10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^94]: A 2. melléklet 3.1.11. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^95]: A 2. melléklet 3.1.12. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^96]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^97]: A 2. melléklet 6. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^98]: A 2. melléklet 7.3. pontjában foglalt táblázat C:26 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^99]: A 2. melléklet 7.3. pontjában foglalt táblázat C:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^100]: A 2. melléklet 7.3. pontjában foglalt táblázat D:55 mezője a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^101]: A 2. melléklet 7.4.8. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^102]: A 2. melléklet 9.1.14. pontja a 24/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^103]: A 2. melléklet 9.1.15. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^104]: A 2. melléklet 9.1.22. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^105]: A 2. melléklet 9.1.23. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^106]: A 2. melléklet 9.1.24. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^107]: A 2. melléklet 9.1.25. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^108]: A 2. melléklet 9.1.26. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^109]: A 2. melléklet 9.1.27. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.
+[^110]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^111]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
+[^112]: A 2. melléklet 10. pontját a 24/2026. (IX. 30.) BM rendelet 2. §-a iktatta be.

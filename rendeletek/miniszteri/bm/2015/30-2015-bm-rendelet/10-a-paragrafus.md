@@ -1,4 +1,4 @@
-10/A. §[^13] (1) Az e §-ban foglaltakat
+10/A. §[^14] (1) Az e §-ban foglaltakat
 
 a) a büntetés-végrehajtási egészségügyi főfelügyelő szakképesítésre,
 
@@ -18,4 +18,4 @@ felkészítő szakmai képzés megszervezéséhez – amennyiben a programkövet
 
 (3) Az (1) bekezdésben megjelölt szakmai képzés megszervezéséhez szükséges, a programkövetelmények szerinti tárgyi feltételek teljesítése esetén a Büntetés-végrehajtás Országos Parancsnoksága hatósági hatáskörben eljárva kiállítja az igazolást.
 
-[^13]: A 10/A. §-t a 24/2023. (VI. 30.) BM rendelet 37. §-a hatályon kívül helyezte, újonnan a 19/2026. (IX. 4.) BM rendelet 1. §-a iktatta be.
+[^14]: A 10/A. §-t a 24/2023. (VI. 30.) BM rendelet 37. §-a hatályon kívül helyezte, újonnan a 19/2026. (IX. 4.) BM rendelet 1. §-a iktatta be.

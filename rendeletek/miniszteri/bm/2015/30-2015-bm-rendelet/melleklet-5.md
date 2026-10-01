@@ -1,4 +1,4 @@
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^49]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^118]
 
 A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -54,23 +54,25 @@ A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
 | 4. | középvezető | szakirányító 2 | katasztrófavédelmi igazgató-helyettes | 320-520 |  |
 
-| 5. | beosztott vezető | főosztályvezető- helyettes 1 | polgári védelmi főfelügyelő | 320-520 |  |
+| 5.[^119] | beosztott vezető | főosztályvezető-helyettes 1 | polgári védelmi főfelügyelő | 320–520 |  |
 
-| 6. | tűzoltósági főfelügyelő | 320-520 |  |
+| 6.[^120] | beosztott vezető | főosztályvezető-helyettes 1 | tűzoltósági főfelügyelő | 320–520 |  |
 
-| 7. | iparbiztonsági főfelügyelő | 320-520 |  |
+| 7.[^121] | beosztott vezető | főosztályvezető-helyettes 1 | iparbiztonsági főfelügyelő | 320–520 |  |
 
-| 8. | főosztályvezető- helyettes 2 | szolgálatvezető | 320-520 | 320-520 |
+| 8.[^122] | beosztott vezető | főosztályvezető-helyettes 2 | szolgálatvezető | 320–520 | 320–520 |
 
-| 9. | hivatalvezető |  | 320-520 |
+| 9.[^123] | beosztott vezető | főosztályvezető-helyettes 2 | hivatalvezető |  | 320–520 |
 
-| 10. | osztályvezető 1 | zenekarvezető |  | 320-520 |
+| 10.[^124] | beosztott vezető | főosztályvezető-helyettes 2 | osztályvezető (Országház) | 970 |  |
 
-| 11. | osztályvezető | 320-520 | 320-520 |
+| 11.[^125] | beosztott vezető | osztályvezető 1 | zenekarvezető |  | 320–520 |
 
-| 12. | szolgálatvezető-helyettes | 320-520 | 320-520 |
+| 12.[^126] | beosztott vezető | osztályvezető 1 | osztályvezető | 320–520 | 320–520 |
 
-| 13. | osztályvezető 2 | szakcsoport-vezető (KOK) | 320-520 |  |
+| 13.[^127] | beosztott vezető | osztályvezető 1 | szolgálatvezető-helyettes | 320–520 | 320–520 |
+
+| 14.[^128] | beosztott vezető | osztályvezető 2 | szakcsoportvezető (KOK) | 320–520 |  |
 
 1.3. Helyi szervnél
 
@@ -144,6 +146,8 @@ A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
 | 21. | területi | D | csoportvezető | 520 | 470 |
 
+| 21a.[^129] | területi | Hszt. 8. melléklet szerinti D | osztályvezető-helyettes (Országház) | 920 |  |
+
 | 22. | területi | C | főelőadó | 520 | 470 |
 
 | 23. | területi | C | főeladó KMSZ, KML | 570 |  |
@@ -202,27 +206,33 @@ A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
 | 4. | C | segédelőadó | 570 | 520 |
 
-| 5. | területi | D | szakoktató |  | 520 |
+| 5.[^130] | területi | D | szakoktató |  | 520 |
 
-| 6. | referens | 520 | 470 |
+| 6.[^131] | területi | D | referens | 520 | 470 |
 
-| 7. | technikus | 520 | 470 |
+| 7.[^132] | területi | D | technikus | 520 | 470 |
 
-| 8. | technikus KMSZ, KML | 570 |  |
+| 8.[^133] | területi | D | technikus KMSZ, KML | 570 |  |
 
-| 9. | zenész |  | 470 |
+| 9.[^134] | területi | D | zenész |  | 470 |
 
-| 10. | C | segédelőadó | 520 | 470 |
+| 10.[^135] | területi | Hszt. 7. melléklet szerinti D | szolgálat-parancsnok (Országház) | 920 |  |
 
-| 11. | segédelőadó KMSZ, KML | 570 |  |
+| 11.[^136] | területi | C | segédelőadó | 520 | 470 |
 
-| 12. | raktáros |  | 470 |
+| 12.[^137] | területi | C | segédelőadó KMSZ, KML | 570 |  |
 
-| 13. | kiképző |  | 520 |
+| 13.[^138] | területi | C | raktáros |  | 470 |
 
-| 14. | B | gépjárművezető | 520 | 470 |
+| 14.[^139] | területi | C | kiképző |  | 520 |
 
-| 15. | gépjárművezető KMSZ, KML | 570 |  |
+| 15.[^140] | területi | Hszt. 7. melléklet szerinti C | szolgálat-parancsnok-helyettes (Országház) | 870 |  |
+
+| 15a.[^141] | területi | B | gépjárművezető | 520 | 470 |
+
+| 15b.[^142] | területi | B | gépjárművezető KMSZ, KML | 570 |  |
+
+| 15c.[^143] | területi | Hszt. 7. melléklet szerinti A | beosztott tűzoltó II. (Országház) | 870 |  |
 
 | 16. | helyi | D | rajparancsnok-helyettes | 570 |  |
 
@@ -252,4 +262,35 @@ A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
 4.2. KML: Katasztrófavédelmi mobil laborok
 
-[^49]: Az 5. melléklet a 2/2023. (I. 30.) BM rendelet 20. § e) pontjával megállapított szöveg.
+4.3.[^144] Országház: Országház Tűzbiztonsági Osztály
+
+5.[^145] A hivatásos katasztrófavédelmi szerv hivatásos állományának a Hungarian National Organisation for Rescue Services (HUNOR) hivatásos központi rendeltetésű mentőszervezet teljes jogú tagjaként szolgálatot teljesítő tagja esetében a hivatásos pótlék mértékét az 1–3. pont szerint az általa betöltött szolgálati beosztásra figyelemmel őt megillető hivatásos pótlék mértékénél a rendvédelmi illetményalap 50%-ával magasabban kell megállapítani.
+
+[^118]: Az 5. melléklet a 2/2023. (I. 30.) BM rendelet 20. § e) pontjával megállapított szöveg.
+[^119]: Az 5. melléklet 1.2. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^120]: Az 5. melléklet 1.2. pontjában foglalt táblázat 6. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^121]: Az 5. melléklet 1.2. pontjában foglalt táblázat 7. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^122]: Az 5. melléklet 1.2. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^123]: Az 5. melléklet 1.2. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^124]: Az 5. melléklet 1.2. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^125]: Az 5. melléklet 1.2. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^126]: Az 5. melléklet 1.2. pontjában foglalt táblázat 12. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^127]: Az 5. melléklet 1.2. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^128]: Az 5. melléklet 1.2. pontjában foglalt táblázat 14. sorát a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^129]: Az 5. melléklet 2. pontjában foglalt táblázat 21a. sorát a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^130]: Az 5. melléklet 3. pontjában foglalt táblázat 5. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^131]: Az 5. melléklet 3. pontjában foglalt táblázat 6. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^132]: Az 5. melléklet 3. pontjában foglalt táblázat 7. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^133]: Az 5. melléklet 3. pontjában foglalt táblázat 8. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^134]: Az 5. melléklet 3. pontjában foglalt táblázat 9. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^135]: Az 5. melléklet 3. pontjában foglalt táblázat 10. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^136]: Az 5. melléklet 3. pontjában foglalt táblázat 11. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^137]: Az 5. melléklet 3. pontjában foglalt táblázat 12. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^138]: Az 5. melléklet 3. pontjában foglalt táblázat 13. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^139]: Az 5. melléklet 3. pontjában foglalt táblázat 14. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^140]: Az 5. melléklet 3. pontjában foglalt táblázat 15. sora a 24/2026. (IX. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^141]: Az 5. melléklet 3. pontjában foglalt táblázat 15a. sorát a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^142]: Az 5. melléklet 3. pontjában foglalt táblázat 15b. sorát a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^143]: Az 5. melléklet 3. pontjában foglalt táblázat 15c. sorát a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^144]: Az 5. melléklet 4.3. pontját a 24/2026. (IX. 30.) BM rendelet 3. §-a iktatta be.
+[^145]: Az 5. melléklet 5. pontját a 19/2026. (IX. 4.) BM rendelet 2. § (2) bekezdése iktatta be.
