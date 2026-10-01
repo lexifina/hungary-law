@@ -58,4 +58,4 @@ b) az Igazságügyi Akkreditációs Testület feladatkörére, összetételére,
 
 vonatkozó részletes szabályokat.
 
-(5) Felhatalmazást kap a rendvédelmi feladatokat ellátó szervet irányító miniszter – az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, az Országgyűlés elnöke véleményének kikérésével –, hogy rendeletben határozza meg a 2/A. § (4) bekezdése szerinti, a szakképesítésre felkészítő szakmai képzések megszervezéséhez kapcsolódó személyi és tárgyi feltételek igazolásának kiállítására vonatkozó részletszabályokat.
+(5) Felhatalmazást kap a rendvédelmi feladatokat ellátó szervet irányító miniszter, hogy rendeletben határozza meg a 2/A. § (4) bekezdése szerinti, a szakképesítésre felkészítő szakmai képzések megszervezéséhez kapcsolódó személyi és tárgyi feltételek igazolásának kiállítására vonatkozó részletszabályokat.
