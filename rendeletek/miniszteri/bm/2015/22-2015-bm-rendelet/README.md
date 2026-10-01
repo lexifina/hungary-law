@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-22-20-0
 | 2021-07-17 | 2015-22-20-0A.4 | 20/2021. (VII. 14.) BM rendelet |
 | 2023-05-09 | 2015-22-20-0A.5 | 8/2023. (IV. 24.) MK rendelet |
 | 2025-06-15 | 2015-22-20-0A.6 | 33/2019. (VIII. 30.) BM rendelet |
+| 2026-10-01 | 2015-22-20-0A.7 | 23/2026. (IX. 30.) BM rendelet |
