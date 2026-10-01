@@ -8,8 +8,8 @@ b) helyi választási bizottság,
 
 c) területi választási bizottság,
 
-d) fővárosi, vármegyei ügyben a Nemzeti Választási Bizottság is.
+d) fővárosi, megyei ügyben a Nemzeti Választási Bizottság is.
 
-(2) A helyi választási bizottságba, fővárosi, vármegyei ügyben a területi választási bizottságba a kezdeményezés szervezői közösen, választási bizottságonként egy tagot, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek egy-egy tagot bízhatnak meg.
+(2) A helyi választási bizottságba, fővárosi, megyei ügyben a területi választási bizottságba a kezdeményezés szervezői közösen, választási bizottságonként egy tagot, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek egy-egy tagot bízhatnak meg.
 
 (3) A szavazatszámláló bizottságba, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottságba a kezdeményezés szervezői közösen, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek két-két tagot bízhatnak meg.

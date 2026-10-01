@@ -12,7 +12,7 @@ c) a helyi népszavazás megnevezést,
 
 d) a helyi népszavazás napját,
 
-e) a település, illetve a vármegye vagy a főváros megjelölését,
+e) a település, illetve a megye vagy a főváros megjelölését,
 
 f) annak megjelölését, hogy érvényesen szavazni csak egy válaszra lehet,
 
