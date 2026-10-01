@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-89-20-2
 | 2020-02-15 | 1995-89-20-22.14 | 350/2012. (XII. 12.) Korm. rendelet |
 | 2021-07-01 | 1995-89-20-22.15 | 356/2021. (VI. 24.) Korm. rendelet |
 | 2023-01-01 | 1995-89-20-22.16 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2026-10-01 | 1995-89-20-22.17 | 331/2007. (XII. 13.) Korm. rendelet |
