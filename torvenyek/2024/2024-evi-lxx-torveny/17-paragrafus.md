@@ -1,4 +1,4 @@
-17. § (1) A nemzetbiztonsági állomány tagja nem lehet országgyűlési, európai parlamenti, helyi önkormányzati vagy nemzetiségi önkormányzati képviselő, és nem tölthet be főpolgármesteri, főpolgármester-helyettesi, vármegyei közgyűlési elnöki, alelnöki, polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri tisztséget.
+17. § (1) A nemzetbiztonsági állomány tagja nem lehet országgyűlési, európai parlamenti, helyi önkormányzati vagy nemzetiségi önkormányzati képviselő, és nem tölthet be főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, alelnöki, polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri tisztséget.
 
 (2) A nemzetbiztonsági állomány tagja haladéktalanul köteles a munkáltatói jogkör gyakorlójának bejelenteni, ha az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként nyilvántartásba vették, a jelöltségtől való visszalépését, a tisztségre való megválasztását, valamint annak elmaradását.
 

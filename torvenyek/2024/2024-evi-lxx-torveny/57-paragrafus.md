@@ -18,7 +18,7 @@
 
 8. a szolgálati viszonyra vonatkozó szabályban meghatározott, a szolgálati viszony fenntartásához szükséges, és a munkáltatói jogkör gyakorlója által a nemzetbiztonsági állomány tagjának előírt képzési és vizsgakötelezettség teljesítésének neki felróható okból történő elmulasztásával,
 
-9. országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztással, a mandátuma igazolásától,
+9. országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztással, a mandátuma igazolásától,
 
 10. a Kit. szerinti politikai szolgálati jogviszonyba történő kinevezésével, kivéve
 
