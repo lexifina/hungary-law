@@ -1,4 +1,4 @@
-## 51. §[^352] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr43.) megállapított 6. § (1) bekezdését, 6. § (3a) és (3b) bekezdését, 6/M. §-át, 2. mellékletben foglalt táblázat 60. sorát, valamint 4. mellékletét a Módr43. hatálybalépésekor[^353] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 51. §[^353] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr43.) megállapított 6. § (1) bekezdését, 6. § (3a) és (3b) bekezdését, 6/M. §-át, 2. mellékletben foglalt táblázat 60. sorát, valamint 4. mellékletét a Módr43. hatálybalépésekor[^354] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^352]: Az 51. §-t a 47/2021. (II. 5.) Korm. rendelet 8. §-a iktatta be.
-[^353]: A hatálybalépés időpontja 2021. február 6.
+[^353]: Az 51. §-t a 47/2021. (II. 5.) Korm. rendelet 8. §-a iktatta be.
+[^354]: A hatálybalépés időpontja 2021. február 6.

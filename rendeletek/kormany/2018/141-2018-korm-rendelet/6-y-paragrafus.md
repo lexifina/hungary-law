@@ -1,8 +1,8 @@
-6/Y. §[^244] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:83 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
+6/Y. §[^245] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:83 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
 
-a)[^245] az OTÉK, illetve a TÉKA előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^246] az OTÉK, illetve a TÉKA előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^246] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^247] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:83 mezőjében megjelölt telkekre és a telekalakítással ezekből létrejövő telkeken a környezetre jelentős hatást nem gyakorló ipari tevékenységi, kereskedelmi, szolgáltató, általános ipari célú építmények és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -30,6 +30,6 @@ k) a Kaposvár külterület 013/3 helyrajzi számú ingatlanon elhelyezkedő hon
 
 (3) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^244]: A 6/Y. §-t a 831/2021. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^245]: A 6/Y. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 54. pontja szerint módosított szöveg.
-[^246]: A 6/Y. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 55. pontja szerint módosított szöveg.
+[^245]: A 6/Y. §-t a 831/2021. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^246]: A 6/Y. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 54. pontja szerint módosított szöveg.
+[^247]: A 6/Y. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 55. pontja szerint módosított szöveg.

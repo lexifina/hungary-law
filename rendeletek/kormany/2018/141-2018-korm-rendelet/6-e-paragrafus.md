@@ -1,4 +1,4 @@
-6/E. §[^199] (1) A 2. mellékletben foglalt táblázat 33. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:33 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
+6/E. §[^200] (1) A 2. mellékletben foglalt táblázat 33. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:33 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -60,4 +60,4 @@ b) ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(3
 
 (3) A (2) bekezdés 9. pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^199]: A 6/E. §-t a 371/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 620/2021. (XI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^200]: A 6/E. §-t a 371/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 620/2021. (XI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

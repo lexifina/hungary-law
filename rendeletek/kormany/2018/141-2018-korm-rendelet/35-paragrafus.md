@@ -1,4 +1,4 @@
-## 34. §[^318] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 139/2020. (IV. 21.) Korm. rendelettel (a továbbiakban: Módr26.) megállapított 2. mellékletben foglalt táblázat 38. sorát a Módr26. hatálybalépésekor[^319] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 34. §[^319] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 139/2020. (IV. 21.) Korm. rendelettel (a továbbiakban: Módr26.) megállapított 2. mellékletben foglalt táblázat 38. sorát a Módr26. hatálybalépésekor[^320] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^318]: A 34. §-t a 139/2020. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
-[^319]: A hatálybalépés időpontja 2020. április 22.
+[^319]: A 34. §-t a 139/2020. (IV. 21.) Korm. rendelet 1. §-a iktatta be.
+[^320]: A hatálybalépés időpontja 2020. április 22.

@@ -92,6 +92,8 @@ m) az előkert méretén belül portaépület elhelyezhető.
 
 (9)[^188] A 2. mellékletben foglalt táblázat B:7a és B:7b mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.
 
+(10)[^189] A 2. mellékletben foglalt táblázat 7., 7a. és 7b. sora szerinti, akkumulátorgyártáshoz kapcsolódó épületek, infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggésben a környezetvédelmi vagy természetvédelmi szabályok megsértését megállapító hatósági döntés véglegessé válásától a jogsértő állapot megszüntetéséig, de legalább a döntés véglegessé válásától számított 6 hónapig a beruházás megvalósításához kapcsolódó építmény építésére építési engedély vagy létesítési engedély nem adható ki.
+
 [^168]: A 6. § (1) bekezdése a 489/2024. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^169]: [A 6. § (1) bekezdés a) pontjában a 178/2025. (VI. 30.) Korm. rendelet 7. § 41. pontja által elrendelt módosítás, amely szerint az „az OTÉK” szövegrész helyébe az „az OTÉK, illetve a TÉKA” szöveg lép, nem vezethető át.]
 [^170]: A 6. § (2) bekezdés nyitó szövegrésze a 160/2019. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
@@ -113,3 +115,4 @@ m) az előkert méretén belül portaépület elhelyezhető.
 [^186]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^187]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^188]: A 6. § (9) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 489/2024. (XII. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^189]: A 6. § (10) bekezdését a 222/2026. (IX. 30.) Korm. rendelet 3. §-a iktatta be.
