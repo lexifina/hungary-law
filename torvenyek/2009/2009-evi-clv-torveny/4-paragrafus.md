@@ -44,9 +44,9 @@ qa) az általános rendőrségi feladatok ellátására létrehozott szerv vezet
 
 qb) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője,
 
-qc) terrorizmust elhárító szerv vezetője,
+qc)
 
-r) az Országgyűlési Őrség parancsnoka,
+r)
 
 s) az idegenrendészeti hatóság vezetője, a menekültügyi hatóság vezetője,
 
