@@ -1,6 +1,0 @@
-16. § (1)[^67] A más szervhez vezénylést kezdeményező szerv vezetője annak kezdő időpontjáról és várható tartamáról a más szervhez vezénylést megelőzően – fontos szolgálati érdek kivételével – legalább egy hónappal írásban tájékoztatja az Országgyűlési Őrség parancsnokát és a hivatásos állomány érintett tagját.
-
-(2)[^68] A Hszt. 51. § (2) vagy (3) bekezdése szerinti szervhez vezénylés megszüntetésekor a felajánlott szolgálati beosztásról vagy annak hiányáról a Hszt. 51. § (2) vagy (3) bekezdése szerinti szervhez vezénylés megszüntetését követő 5 munkanapon belül írásban tájékoztatni kell a hivatásos állomány tagját, aki a szolgálati beosztás vagy a rendelkezési állomány elfogadásáról, illetve elutasításáról 5 munkanapon belül írásban nyilatkozik. A nyilatkozat hiányát a felajánlás elutasításának kell tekinteni.
-
-[^67]: A 16. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés d) pontja szerint módosított szöveg. [A 16. § (1) bekezdésének a 38/2015. (VI. 18.) BM rendelet 24. pontjával elrendelt módosítása, amely szerint a „más szervhez vezénylés” szövegrészek helyébe a „Hszt. 51. § (2) vagy (3) bekezdése szerinti szervhez vezénylés” szöveg lép, nem vezethető át.]
-[^68]: A 16. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés e) pontja, a 38/2015. (VI. 18.) BM rendelet 17. § 8. és 24–25. pontja szerint módosított szöveg.
