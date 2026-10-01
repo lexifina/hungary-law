@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-155-00-00
 | 2025-01-16 | 2024. évi LXXIII. törvény | 2016-155-00-00.18 |
 | 2025-06-24 | 2025. évi LXVII. törvény | 2016-155-00-00.20 |
 | 2025-10-28 | 2024. évi XCI. törvény | 2016-155-00-00.19 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2016-155-00-00.21 |

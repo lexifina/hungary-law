@@ -8,7 +8,7 @@
 
 (2) A KSH székhelye Budapest.
 
-(2a) A KSH a feladatainak ellátásához kapcsolódóan a vármegyékben irodákat működtethet.
+(2a) A KSH a feladatainak ellátásához kapcsolódóan a megyékben irodákat működtethet.
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 

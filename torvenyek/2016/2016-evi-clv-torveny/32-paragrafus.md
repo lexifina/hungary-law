@@ -1,6 +1,6 @@
 ## 17. Az adatszolgáltatás elmulasztásának, illetve a hamis adatszolgáltatás jogkövetkezményei
 
-32. § (1) A fővárosi és vármegyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül indított eljárásban – közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
+32. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül indított eljárásban – közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
 
 a) kötelező hivatalos statisztikai adatszolgáltatást nem vagy nem az előírt határidőre teljesíti,
 
