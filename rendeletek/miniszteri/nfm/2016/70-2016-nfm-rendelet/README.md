@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-70-20-2
 | 2023-10-01 | 2016-70-20-2W.13 | 19/2023. (IX. 29.) EM rendelet |
 | 2024-10-01 | 2016-70-20-2W.14 | 17/2024. (IX. 30.) EM rendelet |
 | 2025-01-01 | 2016-70-20-2W.15 | 45/2024. (XII. 31.) EM rendelet |
+| 2026-10-01 | 2016-70-20-2W.16 | 6/2026. (IX. 30.) GEM rendelet |

@@ -1,15 +1,13 @@
-|  | A | B | C |
+|  | A | B |
 
-| 1. | gázmérő névleges teljesítménye | <20 m3/h | ≥20 m3/h |
+| 1. | egyetemes szolgáltatói árrés (Ft/MWh) (felső hőértéken) | 2013,53 |
 
-| 2. | egyetemes szolgáltatói árrés (Ft/MWh) (felső hőértéken) | 1528,63 | 749,97 |
-
-4. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^30]
+4. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^31]
 
 Az egyetemes szolgáltatás árában elismert nagykereskedői árrés mértéke
 
 |  | A | B |
 
-| 1. | nagykereskedői árrés (Ft/MWh) (felső hőértéken) | 656,67 |
+| 1. | nagykereskedői árrés (Ft/MWh) (felső hőértéken) | 742,68 |
 
-[^30]: A 4. melléklet a 17/2024. (IX. 30.) EM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^31]: A 4. melléklet a 6/2026. (IX. 30.) GEM rendelet 10. § (4) bekezdésével megállapított szöveg.

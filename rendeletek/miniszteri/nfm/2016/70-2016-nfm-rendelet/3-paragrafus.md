@@ -8,33 +8,40 @@ b) a nagykereskedői árrés,
 
 c) a rendszerhasználati díjak közül a szállítás és a tárolás díja,
 
-d) a mobilgáz-finanszírozási költség,
+d)[^2]
 
 e) a rendszerhasználati díjak közül az elosztás díja,
 
 f) egyetemes szolgáltatói árrés,
 
-g)[^6] nagykereskedő éves elszámolási elem,
+g)[^3] nagykereskedő éves elszámolási elem,
 
-h)[^7] egyetemes szolgáltató éves elszámolási elem.
+h)[^4] egyetemes szolgáltató éves elszámolási elem,
 
-(2) Az egyetemes szolgáltatási árat elosztói területenként és felhasználói kategóriánként az (1) bekezdés a)–g) pontjai szerinti árelemek összegeként kell kiszámítani.
+i)[^5] juttatási elem.
 
-(3) Az (1) bekezdés c)–e) és g) pontjai szerinti árelemek fajlagos költségek.
+(2)[^6] Az egyetemes szolgáltatási árat és felhasználói kategóriánként az (1) bekezdés a)–h) pontjai szerinti árelemek összegeként kell kiszámítani.
 
-(4) Az egyes árelemek meghatározásának modell leírását a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
+(3)[^7] Az (1) bekezdés c)–e) és g)–h) pontjai szerinti árelemek fajlagos költségek.
 
-(5)[^8] Az egyes árelemekről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
+(4)[^8]
 
-(6)[^9] A nagykereskedői árrés és az egyetemes szolgáltatói árrés mértéke évente október 1-jei hatállyal kerül megállapításra az árkarbantartás során.
+(5)[^9] Az egyes árelemekről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
 
-(7)[^10] Az (1) bekezdés f) pontjában meghatározott egyetemes szolgáltatói árrés megállapítása során a miniszter figyelembe veszi az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) szerinti energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében az egyetemes szolgáltatónál felmerülő költségeket. Az energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében felmerülő, külön kimutatott költségek legfeljebb az Ehat. 15/E. § (1) bekezdése szerinti energiahatékonysági járulék fajlagos értékének 33%-áig vehetők figyelembe, mely százalékos mértéket a miniszter évente felülvizsgál.
+(6)[^10] A nagykereskedői árrés és az egyetemes szolgáltatói árrés mértéke évente október 1-jei hatállyal kerül megállapításra az árkorrekció során.
 
-(8)[^11] A (7) bekezdés szerint figyelembe vett költség egyetemes szolgáltatói árrésen keresztüli realizálásával kapcsolatos utólagos korrekciót a miniszter a tárgyévi gázévet követő második gázév árrésének meghatározása során biztosítja.
+(7)[^11] Az (1) bekezdés f) pontjában meghatározott egyetemes szolgáltatói árrés megállapítása során a miniszter figyelembe veszi az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) szerinti energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében az egyetemes szolgáltatónál felmerülő indokolt költségeket. Az energiahatékonysági kötelezettségi rendszerben megállapított kötelezettségek teljesítése érdekében felmerülő, külön kimutatott indokolt költségek a tárgyévi kötelezettség tekintetében az Ehat. szerinti megtakarítás típusok vonatkozásában fennálló kötelezettség mennyiség erejéig, legfeljebb a CEEGEX Közép-Kelet-Európai Szervezett Földgázpiac Zártkörűen Működő Részvénytársaság aukciós és ügyletkötő platformjain – 2025. július 1-jét követően – a tárgyévben lezajlott szervezett piaci aukciók és jogügyletek adott hitelesített energiamegtakarítás termékének – tagsági és tranzakciós díjjal emelt – marginális árai a kereskedett mennyiséggel súlyozottan vehetők figyelembe.
 
-[^6]: A 3. § (1) bekezedés g) pontja a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdés h) pontját a 8/2018. (III. 28.) NFM rendelet 11. §-a iktatta be, szövege a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be, szövege a 45/2024. (XII. 31.) EM rendelet 4. §-a szerint módosított szöveg.
-[^9]: A 3. § (6) bekezdését a 21/2022. (IX. 30.) TIM rendelet 2. § (1) bekezdése iktatta be.
-[^10]: A 3. § (7) bekezdését a 45/2024. (XII. 31.) EM rendelet 1. §-a iktatta be.
-[^11]: A 3. § (8) bekezdését a 45/2024. (XII. 31.) EM rendelet 1. §-a iktatta be.
+(8)[^12]
+
+[^2]: A 3. § (1) bekezdés d) pontját a 6/2026. (IX. 30.) GEM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^3]: A 3. § (1) bekezedés g) pontja a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdés h) pontját a 8/2018. (III. 28.) NFM rendelet 11. §-a iktatta be, szövege a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított, a 6/2026. (IX. 30.) GEM rendelet 11. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés i) pontját a 6/2026. (IX. 30.) GEM rendelet 6. § (1) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdése a 6/2026. (IX. 30.) GEM rendelet 11. § b) pontja és 12. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése a 6/2026. (IX. 30.) GEM rendelet 11. § c) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdését a 6/2026. (IX. 30.) GEM rendelet 12. § c) pontja hatályon kívül helyezte.
+[^9]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be, szövege a 45/2024. (XII. 31.) EM rendelet 4. §-a szerint módosított szöveg.
+[^10]: A 3. § (6) bekezdését a 21/2022. (IX. 30.) TIM rendelet 2. § (1) bekezdése iktatta be, szövege a 6/2026. (IX. 30.) GEM rendelet 11. § d) pontja szerint módosított szöveg.
+[^11]: A 3. § (7) bekezdését a 45/2024. (XII. 31.) EM rendelet 1. §-a iktatta be, szövege a 6/2026. (IX. 30.) GEM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (8) bekezdését a 45/2024. (XII. 31.) EM rendelet 1. §-a iktatta be, a 6/2026. (IX. 30.) GEM rendelet 12. § c) pontja hatályon kívül helyezte.
