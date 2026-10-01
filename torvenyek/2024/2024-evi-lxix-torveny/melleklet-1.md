@@ -26,7 +26,7 @@ Közigazgatási ágazathoz tartozó szervezetek
 
 10. a Magyar Honvédség,
 
-11. a fővárosi és vármegyei kormányhivatalok, a vármegyei közgyűlések hivatalai,
+11. a fővárosi és megyei kormányhivatalok, a megyei közgyűlések hivatalai,
 
 12. a megyei jogú városok és a fővárosi kerületi önkormányzatok képviselő-testületének hivatalai,
 

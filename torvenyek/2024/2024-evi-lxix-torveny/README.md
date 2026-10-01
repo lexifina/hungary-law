@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-69-00-00
 | 2026-01-06 | 2025. évi CXXXV. törvény | 2024-69-00-00.7 |
 | 2026-06-11 | 2025. évi CXXXV. törvény | 2024-69-00-00.8 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2024-69-00-00.11 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2024-69-00-00.12 |
