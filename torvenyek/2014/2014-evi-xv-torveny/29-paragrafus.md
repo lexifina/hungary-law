@@ -10,11 +10,13 @@ c) a központi költségvetési pénzeszközök felhasználásának szabályszer
 
 d) nemzetbiztonsági szolgálat,
 
-e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, és
+e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
 f) a pénzügyi információs egységként működő hatóság,
 
-g) a természetes személyek adósságrendezése során a főhitelező, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő
+g) a természetes személyek adósságrendezése során a főhitelező, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő, és
+
+h) – ha a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint a személyvédelmi vagy létesítménybiztosítási feladata ellátása céljából szükséges – általános rendőrségi feladatok ellátására létrehozott szerv
 
 ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek.
 
