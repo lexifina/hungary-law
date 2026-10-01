@@ -1,6 +1,6 @@
 65/A. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése iránt kibocsátott európai nyomozási határozatot az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) Az európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) Az európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Ha az európai nyomozási határozatban megjelölt eljárási cselekmény bírói engedélyhez kötött leplezett eszközök alkalmazásával végezhető el, az ügyészség indítványáról a Be. szabályai szerint a nyomozási bíró határoz. Ha a nyomozási bíró a leplezett eszközök alkalmazásának elrendelésére irányuló indítványt elutasítja, az ügyészség a tagállami hatóságot tájékoztatja, hogy az európai nyomozási határozatban megjelölt eljárási cselekmény nem végezhető el, és az európai nyomozási határozat más módon történő végrehajtása érdekében egyeztetést folytathat a tagállami hatósággal.
 
@@ -24,7 +24,7 @@ b) az eljárási cselekmény elvégzése során rejtjelezett vagy más módon me
 
 (9) Ha a tagállami hatóság fizetési műveletek megfigyelése céljából bocsátott ki európai nyomozási határozatot, az ügyészség az európai nyomozási határozatot a (2)–(7) bekezdés megfelelő alkalmazásával hajtja végre azzal, hogy
 
-a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 
 b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállami hatóság kérésére írható elő, és
 

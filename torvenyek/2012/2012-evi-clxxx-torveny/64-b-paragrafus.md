@@ -1,6 +1,6 @@
 ## 31. Leplezett eszközök alkalmazása
 
-64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállami hatósággal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
