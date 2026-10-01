@@ -30,7 +30,7 @@ f) azon törölt jog, tény és ingatlanadat, amely az adott ingatlan tulajdoni 
 
 (5) A (4) bekezdés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
+a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 
 b) az ügyészség büntetőügyben vagy a közérdekvédelmi feladatai ellátásához,
 
@@ -48,9 +48,11 @@ h) a bejegyzett tulajdonos vagy teljes bizonyító erejű magánokiratba foglalt
 
 i) az európai öröklési bizonyítvánnyal igazolt örökös az örökhagyó valamennyi ingatlanának az ingatlan-nyilvántartásból történő megállapításához,
 
-j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez, vagy
+j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez,
 
-k) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
+k) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából, vagy
+
+l) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
 
 kéri.
 

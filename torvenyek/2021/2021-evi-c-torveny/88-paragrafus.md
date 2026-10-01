@@ -14,7 +14,7 @@
 
 a) a magyar állam,
 
-b) a fővárosi és vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
+b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
 c) az egyházi jogi személy,
 

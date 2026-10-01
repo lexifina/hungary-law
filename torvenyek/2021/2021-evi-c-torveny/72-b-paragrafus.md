@@ -2,7 +2,7 @@
 
 72/B. § (1) Ha a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 5. § 15. pontja szerinti védelmi és biztonsági esemény (a továbbiakban: védelmi és biztonsági esemény) bekövetkezése, illetve az ingatlan-nyilvántartás vezetését támogató informatikai rendszer egyéb okból bekövetkező üzemzavara miatt az elektronikus ügyintézés szünetel (a továbbiakban: elektronikus ügyintézés szünetelése), e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az ingatlan-nyilvántartási beadványokat papíralapon az ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal által üzemeltetett kormányablakban, az ingatlanügyi hatóság ügyfélfogadásra nyitva álló szervezeti egységénél kell benyújtani vagy postai úton az illetékes fővárosi és vármegyei kormányhivatalnak megküldeni.
+(2) Az ingatlan-nyilvántartási beadványokat papíralapon az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal által üzemeltetett kormányablakban, az ingatlanügyi hatóság ügyfélfogadásra nyitva álló szervezeti egységénél kell benyújtani vagy postai úton az illetékes fővárosi és megyei kormányhivatalnak megküldeni.
 
 (3) Az ingatlan-nyilvántartási eljárásért fizetendő igazgatási szolgáltatási díj pénztári befizetéssel vagy átutalással teljesíthető. A beadvány benyújtásával egyidejűleg az igazgatási szolgáltatási díj megfizetését igazolni vagy a díjmentesség fennállásáról nyilatkozni kell.
 
@@ -30,4 +30,4 @@ e) a beérkezés helyét, időpontját.
 
 (10) A beadványok elbírálása során automatikus döntéshozatalnak nincs helye.
 
-(11) A beadványok intézése során a beadvánnyal érintett ingatlan fekvése szerinti fővárosi és vármegyei kormányhivatal jogosult eljárni.
+(11) A beadványok intézése során a beadvánnyal érintett ingatlan fekvése szerinti fővárosi és megyei kormányhivatal jogosult eljárni.

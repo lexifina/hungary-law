@@ -26,7 +26,9 @@ d) a természetes személy évente két tulajdonilap-másolatra.
 
 3. közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz kérik,
 
-4. a nyomozó és a szabálysértési hatóság, továbbá a szabálysértési elzárással is büntethető szabálysértések esetében az előkészítő eljárást lefolytató szerv, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a nemzetbiztonsági szolgálatok feladataik ellátása érdekében kérik,
+4. a nyomozó hatóság, a szabálysértési hatóság, a szabálysértési elzárással is büntethető szabálysértések esetében az előkészítő eljárást lefolytató szerv vagy a nemzetbiztonsági szolgálatok feladataik ellátása érdekében kérik,
+
+4a. az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása érdekében kéri,
 
 5. a helyi önkormányzatok vagy társulásaik közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetve nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez kérik,
 
