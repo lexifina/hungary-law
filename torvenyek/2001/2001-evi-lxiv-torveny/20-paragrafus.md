@@ -32,7 +32,7 @@ a) a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK)
 
 b) a Budapesti Történeti Múzeum,
 
-c) a vármegyei hatókörű városi múzeum,
+c) a megyei hatókörű városi múzeum,
 
 d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 

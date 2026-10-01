@@ -48,7 +48,7 @@ d) teljes felületű feltárást írhat elő, ha a feltárás a tudományos isme
 
 a) a régészeti gyűjtőkörrel és a feltárás helye szerinti gyűjtőterülettel rendelkező területi múzeum (a továbbiakban: területi múzeum), Budapesten a Budapesti Történeti Múzeum, ha a beruházással érintett terület nem lépi túl a területi múzeum gyűjtőterületét;
 
-b) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, ha
+b) a gyűjtőterületén érintett megyei hatókörű városi múzeum, ha
 
 ba) nincs területi múzeum a beruházással érintett területen,
 

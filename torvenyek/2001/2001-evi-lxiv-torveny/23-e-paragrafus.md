@@ -4,7 +4,7 @@
 
 (2)
 
-(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
+(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
 
 (2b) A nagyberuházást megelőző feltárás régészeti szaktevékenységének elvégzésébe
 
@@ -14,7 +14,7 @@ b) további kapacitáshiány esetén kizárólag más, a 20. § (6) bekezdése s
 
 (3) A (2b) bekezdés szerinti bevont régészeti terepmunka elvégzésére jogosult intézmény a régészeti szaktevékenység ellátásában – a régészeti bontómunka kivételével – további közreműködőt nem vehet igénybe.
 
-(4) Ha a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a jogszabályban kijelölt örökségvédelmi szerv gondoskodik a régészeti feladatellátás elvégzéséről.
+(4) Ha a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a jogszabályban kijelölt örökségvédelmi szerv gondoskodik a régészeti feladatellátás elvégzéséről.
 
 (4a)
 

@@ -10,7 +10,7 @@ c) az MNM KK,
 
 d) a Budapesti Történeti Múzeum,
 
-e) a vármegyei hatókörű városi múzeum,
+e) a megyei hatókörű városi múzeum,
 
 f) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 

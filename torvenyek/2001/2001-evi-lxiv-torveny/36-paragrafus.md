@@ -6,7 +6,7 @@
 
 a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatása csak annak gyűjtőterületére terjed ki,
 
-b) a vármegyei hatókörű városi múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatásával érintett területen nincs területi múzeum, vagy a hadtörténeti örökség terepi kutatásával érintett terület túlnyúlik annak gyűjtőterületén,
+b) a megyei hatókörű városi múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatásával érintett területen nincs területi múzeum, vagy a hadtörténeti örökség terepi kutatásával érintett terület túlnyúlik annak gyűjtőterületén,
 
 c) az MNM KK gondoskodik, ha az a) vagy b) pont szerinti múzeum nem tudja biztosítani a hadtörténeti örökség ingó elemének végleges befogadását.
 

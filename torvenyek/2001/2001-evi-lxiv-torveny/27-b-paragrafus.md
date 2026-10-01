@@ -4,7 +4,7 @@
 
 a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a régészeti terepmunka csak annak gyűjtőterületére terjed ki,
 
-b) a vármegyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
+b) a megyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
 
 c) az MNM KK gondoskodik, ha
 
