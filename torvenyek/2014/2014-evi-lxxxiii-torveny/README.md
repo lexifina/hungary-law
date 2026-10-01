@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-83-00-00
 | 2023-12-30 | 2023. évi CI. törvény | 2014-83-00-00.13 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2014-83-00-00.14 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2014-83-00-00.15 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2014-83-00-00.16 |

@@ -8,6 +8,8 @@ c) az ügyészség az ügyészségről szóló törvényben meghatározott köz�
 
 d) a nemzetbiztonsági szolgálat a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+e) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 
 f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a jogszabályban meghatározott feladatai ellátása céljából.
+
+g) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
