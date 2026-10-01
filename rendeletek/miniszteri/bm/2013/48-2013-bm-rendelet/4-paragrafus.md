@@ -2,12 +2,12 @@
 
 4. § (1) Tilos a dohányzás
 
-a)[^6] a rendvédelmi szervek használatában lévő zárt légterű objektumban és területen – a (2) bekezdésben foglalt kivétellel –,
+a)[^7] a rendvédelmi szervek használatában lévő zárt légterű objektumban és területen – a (2) bekezdésben foglalt kivétellel –,
 
-b)[^7] a rendvédelmi szervek által használt közúti gépjárművek utasterében, továbbá vízi és légi járműveken.
+b)[^8] a rendvédelmi szervek által használt közúti gépjárművek utasterében, továbbá vízi és légi járműveken.
 
-(2)[^8] Dohányozni – a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben foglalt kivételektől eltekintve – csak a rendvédelmi szervek elhelyezésére szolgáló épületek, használatukban álló létesítmények nyílt légterű udvarán, az 5. § szerint kijelölt dohányzóhelyen szabad.
+(2)[^9] Dohányozni – a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben foglalt kivételektől eltekintve – csak a rendvédelmi szervek elhelyezésére szolgáló épületek, használatukban álló létesítmények nyílt légterű udvarán, az 5. § szerint kijelölt dohányzóhelyen szabad.
 
-[^6]: A 4. § (1) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 4. § (1) bekezdés b) pontja a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 4. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés b) pontja a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 80. § (1) bekezdés a) pontja szerint módosított szöveg.

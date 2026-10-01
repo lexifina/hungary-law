@@ -4,7 +4,7 @@ a) az általános rendőrségi feladatok ellátására létrehozott szervre,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre,
 
-c) a terrorizmust elhárító szervre,
+c)[^2]
 
 d) a büntetés-végrehajtási szervezetre,
 
@@ -14,13 +14,14 @@ f) az Alkotmányvédelmi Hivatalra,
 
 g) a Nemzetbiztonsági Szakszolgálatra,
 
-h)[^2] a Terrorelhárítási Információs és Bűnügyi Elemző Központra,
+h)[^3] a Terrorelhárítási Információs és Bűnügyi Elemző Központra,
 
-i)[^3] az idegenrendészeti szervre [az a)–i) pontban meghatározottak a továbbiakban együtt: rendvédelmi szerv] és
+i)[^4] az idegenrendészeti szervre [az a)–i) pontban meghatározottak a továbbiakban együtt: rendvédelmi szerv] és
 
-j)[^4] a rendvédelmi szervek állományának a hivatásos szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló tagjaira
+j)[^5] a rendvédelmi szervek állományának a hivatásos szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló tagjaira
 
 [^1]: Az 1. § a 29/2016. (VII. 15.) BM rendelet 33. §-ával megállapított szöveg.
-[^2]: Az 1. § h) pontja a 27/2019. (VI. 28.) BM rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § i) pontja a 27/2019. (VI. 28.) BM rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § j) pontját a 27/2019. (VI. 28.) BM rendelet 40. § (2) bekezdése iktatta be.
+[^2]: Az 1. § c) pontját a 23/2026. (IX. 30.) BM rendelet 36. §-a hatályon kívül helyezte.
+[^3]: Az 1. § h) pontja a 27/2019. (VI. 28.) BM rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § i) pontja a 27/2019. (VI. 28.) BM rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § j) pontját a 27/2019. (VI. 28.) BM rendelet 40. § (2) bekezdése iktatta be.
