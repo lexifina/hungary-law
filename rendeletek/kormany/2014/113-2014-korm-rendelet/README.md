@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-113-20-
 | 2017-01-01 | 2014-113-20-22.3 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2021-05-28 | 2014-113-20-22.4 | 287/2021. (V. 27.) Korm. rendelet |
 | 2025-07-01 | 2014-113-20-22.5 | 111/2025. (V. 26.) Korm. rendelet |
+| 2026-10-01 | 2014-113-20-22.6 | 287/2021. (V. 27.) Korm. rendelet |
