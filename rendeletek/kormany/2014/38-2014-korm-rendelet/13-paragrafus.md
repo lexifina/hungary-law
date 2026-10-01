@@ -1,8 +1,8 @@
-13. §[^47] (1) A nyilvántartásban szereplő olyan
+13. §[^48] (1) A nyilvántartásban szereplő olyan
 
-a)[^48] földműves esetén, akinek a természetes személyazonosító adatai hiányosak, vagy tévesen kerültek feltüntetésre, illetve személyi azonosítója vagy lakcíme hiányzik, vagy tévesen került feltüntetésre,
+a)[^49] földműves esetén, akinek a természetes személyazonosító adatai hiányosak, vagy tévesen kerültek feltüntetésre, illetve személyi azonosítója vagy lakcíme hiányzik, vagy tévesen került feltüntetésre,
 
-b)[^49] mezőgazdasági termelőszervezet vagy újonnan alapított mezőgazdasági termelőszervezet esetén, amelynek a megnevezése, székhelye (telephelye, fióktelepe), a hivatalos statisztikáról szóló törvény szerinti statisztikai azonosítója, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszáma hiányzik, vagy tévesen került feltüntetésre,
+b)[^50] mezőgazdasági termelőszervezet vagy újonnan alapított mezőgazdasági termelőszervezet esetén, amelynek a megnevezése, székhelye (telephelye, fióktelepe), a hivatalos statisztikáról szóló törvény szerinti statisztikai azonosítója, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszáma hiányzik, vagy tévesen került feltüntetésre,
 
 a földműves, a mezőgazdasági termelőszervezet vagy az újonnan alapított mezőgazdasági termelőszervezet adatainak kijavítása vagy kiegészítése céljából a mezőgazdasági igazgatási szerv összeveti az adatlapon szereplő adatokat a személyiadat- és lakcímnyilvántartásban vagy a cégnyilvántartásban fellelhető adatokkal, illetve az okirattárban fellelhető okiratok adataival.
 
@@ -26,6 +26,6 @@ történő értesítés megküldésével bevonja az adategyeztetésbe.
 
 (4) Ha a (3) bekezdés szerinti adategyeztetés alapján a földműves, a mezőgazdasági termelőszervezet, illetve az újonnan alapított mezőgazdasági termelőszervezet egyértelműen beazonosítható, a mezőgazdasági igazgatási szerv a nyilvántartásban a hiányzó vagy tévesen feltüntetett adatot hivatalból pótolja vagy kijavítja.
 
-[^47]: A 13. §-t a 103/2018. (VI. 11.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte, újonnan a 242/2024. (VIII. 8.) Korm. rendelet 3. §-a iktatta be.
-[^48]: A 13. § (1) bekezdés a) pontja a 481/2024. (XII. 31.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
-[^49]: A 13. § (1) bekezdés b) pontja a 301/2024. (X. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^48]: A 13. §-t a 103/2018. (VI. 11.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte, újonnan a 242/2024. (VIII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^49]: A 13. § (1) bekezdés a) pontja a 481/2024. (XII. 31.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
+[^50]: A 13. § (1) bekezdés b) pontja a 301/2024. (X. 22.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
