@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-211-00-00
 | 2024-10-01 | 2024. évi XXIX. törvény | 2015-211-00-00.14 |
 | 2025-01-20 | 2024. évi LXXIV. törvény | 2015-211-00-00.15 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2015-211-00-00.16 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2015-211-00-00.17 |
