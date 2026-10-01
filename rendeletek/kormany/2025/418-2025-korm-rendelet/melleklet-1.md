@@ -1,3 +1,3 @@
-1. melléklet a 418/2025. (XII. 23.) Korm. rendelethez[^19]
+1. melléklet a 418/2025. (XII. 23.) Korm. rendelethez[^18]
 
-[^19]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
