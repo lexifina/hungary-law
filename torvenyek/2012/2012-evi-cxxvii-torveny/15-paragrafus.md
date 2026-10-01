@@ -10,7 +10,7 @@ b) olyan államigazgatási szervnél folytat főállásban (legalább heti 36 ó
 
 c) politikai pártban tisztséget tölt be,
 
-d) országgyűlési vagy európai parlamenti képviselő, állami vezető, vármegyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
+d) országgyűlési vagy európai parlamenti képviselő, állami vezető, megyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
 
 (3) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében, amennyiben az kétséges, a politikai párt nyilatkozata az irányadó.
 
