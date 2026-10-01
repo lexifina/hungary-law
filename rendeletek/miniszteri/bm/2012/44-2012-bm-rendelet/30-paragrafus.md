@@ -1,4 +1,4 @@
-30. § (1)[^109] A döntésről a helyi lakásügyi szerv – 10 munkanapon belül – írásban tájékoztatja a dolgozót és az egyéb érintetteket.
+30. § (1)[^110] A döntésről a helyi lakásügyi szerv – 10 munkanapon belül – írásban tájékoztatja a dolgozót és az egyéb érintetteket.
 
 (2) A munkáltatói kölcsönnel kapcsolatos pénzügyi feladatokat a helyi lakásügyi szerv szerinti illetékes pénzügyi szerv látja el.
 
@@ -6,4 +6,4 @@
 
 (4) A munkáltatói kölcsön, valamint a lakáscélú keret kezelésére a helyi lakásügyi szervnek bankszámlaszerződést kell kötnie az erre feljogosított pénzintézettel.
 
-[^109]: A 30. § (1) bekezdése a 7/2021. (III. 10.) BM rendelet 10. § h) pontja szerint módosított szöveg.
+[^110]: A 30. § (1) bekezdése a 7/2021. (III. 10.) BM rendelet 10. § h) pontja szerint módosított szöveg.

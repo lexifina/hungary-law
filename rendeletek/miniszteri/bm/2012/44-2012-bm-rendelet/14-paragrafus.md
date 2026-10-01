@@ -12,9 +12,9 @@ e) aki a korábbi jogszabályok alapján a munkáltatói kölcsönt lakótelek v
 
 f) aki a korábbi jogszabályok alapján a munkáltatói kölcsönt lakásfelújításra kapta.
 
-(2)[^78] Az a dolgozó, aki munkáltatói kölcsönét legalább 10 éves törlesztési időtartamot követően engedménnyel fizette vissza, a visszafizetés időpontjától számított 2 éven belül újabb munkáltatói kölcsönt nem kaphat.
+(2)[^79] Az a dolgozó, aki munkáltatói kölcsönét legalább 10 éves törlesztési időtartamot követően engedménnyel fizette vissza, a visszafizetés időpontjától számított 2 éven belül újabb munkáltatói kölcsönt nem kaphat.
 
-(3)[^79] Az a dolgozó, aki munkáltatói kölcsönét 10 éves törlesztési időtartamon belül engedménnyel fizette vissza, a visszafizetés időpontjától számított 5 éven belül újabb munkáltatói kölcsönt nem kaphat.
+(3)[^80] Az a dolgozó, aki munkáltatói kölcsönét 10 éves törlesztési időtartamon belül engedménnyel fizette vissza, a visszafizetés időpontjától számított 5 éven belül újabb munkáltatói kölcsönt nem kaphat.
 
-[^78]: A 14. § (2) bekezdése az 1/2018. (I. 18.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^79]: A 14. § (3) bekezdését az 1/2018. (I. 18.) BM rendelet 8. § (2) bekezdése iktatta be.
+[^79]: A 14. § (2) bekezdése az 1/2018. (I. 18.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^80]: A 14. § (3) bekezdését az 1/2018. (I. 18.) BM rendelet 8. § (2) bekezdése iktatta be.
