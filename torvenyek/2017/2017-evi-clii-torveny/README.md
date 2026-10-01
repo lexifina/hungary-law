@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-152-00-00
 | 2026-07-31 | 2026. évi XXXV. törvény | 2017-152-00-00.31 |
 | 2026-08-01 | 2026. évi XXXV. törvény | 2017-152-00-00.32 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2017-152-00-00.30 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2017-152-00-00.33 |

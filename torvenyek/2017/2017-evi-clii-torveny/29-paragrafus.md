@@ -2,7 +2,7 @@
 
 (1) E § alkalmazásában a vámhatóság megkeresés, illetve adatkérés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
 
-a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el,
+a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából,
 
 b) a Rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges,
 
