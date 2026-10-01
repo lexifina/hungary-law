@@ -8,7 +8,7 @@
 
 a) állapítsa meg a díjkategóriákat, az útdíj mértékének megállapítására vonatkozó módszertant, és az esetleges kedvezményekre vonatkozó rendelkezéseket;
 
-b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és az útdíjellenőrzés-támogatói feladatok ellátására irányuló szerződést megkötő költségvetési szervet, az útdíjszedőt, az egyetemes útdíjszolgáltatót, valamint az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet;
+b) jelölje ki a magyar állam nevében az útdíjszedői, egyetemes útdíjszolgáltatói és az útdíjellenőrzés-támogatói feladatok ellátására irányuló szerződést megkötő költségvetési szervet, az útdíjszedőt, az egyetemes útdíjszolgáltatót, az útdíjellenőrzés-támogatói feladatokat ellátó szervezetet, valamint határozza meg az 1/A. § (1) bekezdése szerinti különálló szervezeti egység működésével összefüggő szabályokat;
 
 c) állapítsa meg az útdíjszolgáltató 21. § (1) bekezdés szerinti nyilvántartásba vételéhez szükséges feltételeket;
 
