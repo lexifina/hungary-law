@@ -494,11 +494,11 @@ A Kedvezményezettek köre
 
 5. Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek
 
-6. Terrorelhárítási Központ
+6.[^49]
 
 7. Nemzeti Védelmi Szolgálat
 
-8.[^49]
+8.[^50]
 
 9. Országos Idegenrendészeti Főigazgatóság
 
@@ -543,4 +543,5 @@ A Kedvezményezettek köre
 [^46]: Az 1. melléklet 45. pontját a 35/2024. (VIII. 8.) BM rendelet 1. §-a iktatta be.
 [^47]: Az 1. melléklet 46. pontját a 35/2024. (VIII. 8.) BM rendelet 1. §-a iktatta be.
 [^48]: A 2. melléklet a 64/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
-[^49]: A 2. melléklet 8. pontját a 43/2024. (IX. 19.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^49]: A 2. melléklet 6. pontját a 23/2026. (IX. 30.) BM rendelet 11. §-a hatályon kívül helyezte.
+[^50]: A 2. melléklet 8. pontját a 43/2024. (IX. 19.) BM rendelet 1. §-a hatályon kívül helyezte.
