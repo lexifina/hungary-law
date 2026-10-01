@@ -1,14 +1,14 @@
-13/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^661]
+13/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^662]
 
 A 2022. július 1-jén bevezetett különleges rendszámtáblák leírása
 
 1. A CD betűjelű különleges rendszámtábla alapszíne világoskék, karakterei és a keret színe fehér, a CD betűjeleket és kötőjellel elválasztott három-három (összesen hat) számjegyet tartalmaz.
 
-2.[^662] Az OT betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, az OT betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. Az 54. § (2) bekezdése szerint kiadott OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4), a 13. melléklet 3. pont 3.1. alpontjában meghatározott rendszámtáblák esetében két betűjelet, két számjegyet és kötőjelet követően három (összesen 5) számjegyet tartalmaz.
+2.[^663] Az OT betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, az OT betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. Az 54. § (2) bekezdése szerint kiadott OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4), a 13. melléklet 3. pont 3.1. alpontjában meghatározott rendszámtáblák esetében két betűjelet, két számjegyet és kötőjelet követően három (összesen 5) számjegyet tartalmaz.
 
 3. A TX betűjelű, a közúti közlekedési szolgáltatást végző járműre kiadott különleges rendszámtábla alapszíne sárga, karakterei és a keret színe fekete, TX betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. A TX betűjelű rendszámtábla környezetkímélő gépjárműre a 9. pontban meghatározott színben kerül kiadásra.
 
-4.[^663] A BA, HA, MA, NA és RA betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, a kezdő két betűjelet követő címer után két számjegyet, kötőjelet és három számjegyet tartalmaz. A BA, HA, MA, NA és RA betűjelű rendszámtábla környezetkímélő gépjárműre a 9. pontban meghatározott színben kerül kiadásra.
+4.[^664] A BA, HA, MA, NA és RA betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, a kezdő két betűjelet követő címer után két számjegyet, kötőjelet és három számjegyet tartalmaz. A BA, HA, MA, NA és RA betűjelű rendszámtábla környezetkímélő gépjárműre a 9. pontban meghatározott színben kerül kiadásra.
 
 5. Az 1. pontban meghatározott különleges rendszámtáblák számjegyei 000-001–999-999-ig terjednek.
 
@@ -24,6 +24,6 @@ A 2022. július 1-jén bevezetett különleges rendszámtáblák leírása
 
 11. A különleges rendszámtáblák betűjelei helyén ékezetes magánhangzók nem állhatnak.
 
-[^661]: A 13/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^662]: A 13/A. melléklet 2. pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.
-[^663]: A 13/A. melléklet 4. pontja a 369/2025. (XI. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^662]: A 13/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^663]: A 13/A. melléklet 2. pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.
+[^664]: A 13/A. melléklet 4. pontja a 369/2025. (XI. 28.) Korm. rendelet 11. §-ával megállapított szöveg.

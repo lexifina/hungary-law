@@ -1,6 +1,6 @@
 15. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-I.[^670] A járműkísérő lap tartalmi elemei
+I.[^671] A járműkísérő lap tartalmi elemei
 
 H
 
@@ -96,4 +96,4 @@ Kódszámok:
 
 1: ráfutófékes
 
-[^670]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^671]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
