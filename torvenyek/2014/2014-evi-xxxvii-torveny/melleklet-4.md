@@ -29,13 +29,3 @@
 ## ahol a Qn az érintett kvartilis sorszáma.
 
 4. melléklet a 2014. évi XXXVII. törvényhez
-
-1.
-
-(1-X1/X2)*(szavatoló tőkét is tartalmazó kötelezettségállomány 8%-a)
-
-ahol
-
-X1: az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított teljes kockázati kitettségérték 3,5%-a;
-
-X2: az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított teljes kockázati kitettségérték 18%-ának és a kombinált pufferkövetelménynek az összege.

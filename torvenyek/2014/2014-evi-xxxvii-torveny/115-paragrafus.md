@@ -66,7 +66,7 @@ aa) Állami Számvevőszékkel,
 
 ab) kormányzati ellenőrzési szervvel,
 
-ac) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel szemben, és
+ac) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel szemben, és
 
 b) az eljárás alapját képező ügyre vonatkozóan a feladatkörében eljáró
 
