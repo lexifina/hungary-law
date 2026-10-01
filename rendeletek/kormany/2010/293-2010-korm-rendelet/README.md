@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-293-20-
 | 2025-01-01 | 2010-293-20-22.22 | 479/2024. (XII. 31.) Korm. rendelet |
 | 2025-07-01 | 2010-293-20-22.23 | 175/2025. (VI. 30.) Korm. rendelet |
 | 2026-02-09 | 2010-293-20-22.24 | 388/2025. (XII. 10.) Korm. rendelet |
+| 2026-10-01 | 2010-293-20-22.25 | 177/2026. (IX. 21.) Korm. rendelet |

@@ -14,7 +14,7 @@ ad) katonai bűncselekmények (az 1978. évi IV. törvény XX. fejezet, illetve 
 
 b) a védett állományba nem tartozó személy által elkövetett, az a) pontban felsorolt bűncselekmények, ha azt a védett állományba nem tartozó személy a védett állományba tartozó személlyel közösen, vagy annak segítségével követi el;
 
-c)[^8] ha a bűncselekmény felderítése nem tartozik a nemzetbiztonsági szolgálatok vagy a terrorizmust elhárító szerv hatáskörébe,
+c)[^8] ha a bűncselekmény felderítése nem tartozik a nemzetbiztonsági szolgálatok hatáskörébe vagy a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában felsorolt bűncselekmények körébe,
 
 ca) a védett állomány tagjával szemben elkövetett bűncselekmények esetén, továbbá
 
@@ -38,5 +38,5 @@ b) az ügyészség vagy a nyomozó hatóság felkérésére, illetve az ügyész
 [^5]: A 6. § a 77/2018. (IV. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^6]: A 6. § (1) bekezdés a) pont ab) alpontja a 175/2025. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^7]: A 6. § (1) bekezdés a) pont ac) alpontja a 718/2020. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: A 6. § (1) bekezdés c) pontja a 479/2024. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 177/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 6. § (1a) bekezdését a 193/2024. (VII. 8.) Korm. rendelet 1. §-a iktatta be.
