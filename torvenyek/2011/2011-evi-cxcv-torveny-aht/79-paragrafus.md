@@ -6,7 +6,7 @@
 
 a) a térségi fejlesztési tanácsok és azok költségvetési szervként működő munkaszervezetei,
 
-b) a vármegyei önkormányzatok és a vármegyei önkormányzatok önkormányzati hivatalai,
+b) a megyei önkormányzatok és a megyei önkormányzatok önkormányzati hivatalai,
 
 c) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa,
 
@@ -16,7 +16,7 @@ e) az MNV Zrt.,
 
 f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
 
-g) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
+g) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 
 h) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 

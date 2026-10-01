@@ -38,13 +38,13 @@ c) ha az érintett helyi önkormányzat időközi mérlegjelentése alapján a 9
 
 (3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel, továbbá a költségvetési biztost tevékenységének ellátásában a Kincstár elnökének döntése alapján a Kincstár személyi állományához tartozó közreműködő személy, illetve személyek segíthetik. A közreműködő személyek létszáma nem haladhatja meg
 
-a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a vármegyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
+a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a megyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
 
 b) az 50 001–100 000 fő lakosságszámú települések önkormányzatai esetében a 3 főt,
 
 c) a 10 001–50 000 fő lakosságszámú települések önkormányzatai esetében az 1 főt.
 
-(3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
+(3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy megyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére is jogosult. A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak kivételével a működése során tett véleményeit, javaslatait, ajánlásait, megállapításait és egyéb, a működése során készített dokumentumait nyilvánosságra hozhatja a különleges adatok, a minősített adatok, a személyes adatok és a törvény által védett egyéb adótitkok kivételével.
 

@@ -72,7 +72,7 @@ p) törvényben meghatározott tőkekiegyenlítési rendszer keretében teljesí
 
 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
 
-18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a vármegyei önkormányzati hivatal és a közös önkormányzati hivatal,
+18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a közös önkormányzati hivatal,
 
 19. támogatás: az államháztartás központi vagy önkormányzati alrendszeréből, bármilyen formában, ellenérték nélkül nyújtott juttatás,
 

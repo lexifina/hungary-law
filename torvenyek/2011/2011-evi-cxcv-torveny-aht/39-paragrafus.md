@@ -36,7 +36,7 @@ a) az államháztartás központi alrendszerében a Kormány irányítása alá 
 
 b) a kijelölt szerv, a kijelölt szervezet vezetőjétől, képviselőjétől, alkalmazottjától felvilágosítást, más személyektől nyilatkozatot kérni.
 
-c) az államháztartásért felelős miniszter előzetes jóváhagyásával a (3) bekezdésben meghatározott feladatai ellátása érdekében a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását kezdeményezni, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
+c) az államháztartásért felelős miniszter előzetes jóváhagyásával a (3) bekezdésben meghatározott feladatai ellátása érdekében a fővárosi vagy megyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását kezdeményezni, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (10) A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. Tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, annak forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére, valamint leplezett eszközökre és azok alkalmazására utalnak.
 
