@@ -1,6 +1,6 @@
 80/C. § (1) Az igénybevétellel kapcsolatos kártalanítás összegét az állam viseli.
 
-(2) A vagyonkezelő az igénybevétellel vagy a szerződéskötési kötelezettség alapján nyújtott szolgáltatás teljesítésével összefüggésben felmerült kára megtérítésére vonatkozó igényét a székhelye vagy lakóhelye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes vármegyei, fővárosi kormányhivatalnál (a továbbiakban: kormányhivatal) terjesztheti elő.
+(2) A vagyonkezelő az igénybevétellel vagy a szerződéskötési kötelezettség alapján nyújtott szolgáltatás teljesítésével összefüggésben felmerült kára megtérítésére vonatkozó igényét a székhelye vagy lakóhelye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes megyei, fővárosi kormányhivatalnál (a továbbiakban: kormányhivatal) terjesztheti elő.
 
 (3) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására a kormányhivatal jogosult. A kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybevevő szervet, hogy nyilatkozzon a kárigény meglapozottságáról.
 

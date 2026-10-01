@@ -42,7 +42,7 @@ l) rendelkezésre állást biztosító intézkedés: olyan intézkedés, amelybe
 
 la) az elismerését kérő a menekültügyi hatóság előtti rendszeres jelentkezési kötelezettségéről,
 
-lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott vármegye közigazgatási területe – elrendeléséről, vagy
+lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott megye közigazgatási területe – elrendeléséről, vagy
 
 lc) a menekültügyi óvadék alkalmazásáról
 
