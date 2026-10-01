@@ -10,11 +10,11 @@
 
 (2d) A tervek, illetve az azokat tartalmazó dokumentáció felhasználási joga tekintetében a 15/A. § szerinti építtetőt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
 
-(2e) A Vagyonkezelő helyébe a hatósági engedélyek tekintetében e törvény erejénél fogva az 15/A. § szerinti építtető lép.
+(2e) A Budai Palotanegyeddel összefüggő hatósági engedélyekben szereplő építtető helyébe e törvény erejénél fogva a 15/A. § szerinti építtető lép.
 
 (2f) A (2e) bekezdés szerinti változást a 15/A. § szerinti építtető bejelenti a hatósági engedélyt kiadó hatóság részére.
 
-(2g) A 15/B. § (1) bekezdése szerinti tulajdonosi jogok gyakorlása 2025. július 1-jétől illeti meg az állami beruházásokért felelős minisztert.
+(2g)
 
 (2h) Az állami beruházásokért felelős miniszter 2025. július 1-jétől a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság által fel nem használt működési és beruházási támogatások általános jogutódja. A működéshez kapcsolódó támogatások esetében kivételt képeznek azon támogatási jogviszonyok, amelyek nem építési és beruházási tevékenységhez kapcsolódnak.
 
