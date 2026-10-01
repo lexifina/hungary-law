@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-203-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 2011-203-00-00.12 |
 | 2023-05-26 | 2023. évi XXIV. törvény | 2011-203-00-00.13 |
 | 2024-12-31 | 2024. évi LXXIX. törvény | 2011-203-00-00.14 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2011-203-00-00.15 |

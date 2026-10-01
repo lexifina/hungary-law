@@ -222,1895 +222,1895 @@ Az egyéni választókerületek sorszáma, székhelye és területi beosztása
 
 ## 3. XXIII. kerület
 
-Baranya vármegye
+## Baranya megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Baranya 01. OEVK
+## Rövidítése: Baranya 01. OEVK
 
-Székhelye: Pécs
+## Székhelye: Pécs
 
-Területe:
+## Területe:
 
-1. Gyód
+## 1. Gyód
 
-2. Keszü
+## 2. Keszü
 
-3. Kökény
+## 3. Kökény
 
-4. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (házszámok nélkül) a Hársfa útig, Hársfa út (házszámok nélkül) a Rákos Lajos utcáig, tovább a Hársfa út (mindkét oldala) a Bokor utcáig, a Bokor utca (házszámok nélkül) végig, a Diósi út páros oldala a Zsolnay Vilmos utcáig, a Zsolnay Vilmos utca (mindkét oldala) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (mindkét oldala) a Tüskésréti útig, a Tüskésréti út (mindkét oldala) az 58-as útig a Nagyárpádi út (mindkét oldala) a Tüskés dűlőig, a Tüskés dűlő (mindkét oldala), a Nagyárpádi út (mindkét oldala) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (mindkét oldala), a Cserge dűlőig, a Cserge dűlő (mindkét oldala), az 57-es országút a városhatárig, a városhatár az óramutató járásával egyező irányban a Szentlőrinc felé haladó vasútvonal belépési pontjáig, a vasútvonal a Tüzér utcáig, a Megyeri Nagyhíd a vasútvonaltól a Veress Endre utcáig, a Tüzér utca páratlan oldala, a Szigeti út középvonala a Kürt utcáig, a Kürt utca (házszámok nélkül), az Ifjúság útja (házszámok nélkül), az Édesanyák útja (mindkét oldala), a Nyár utca (mindkét oldala), a Bálicsi út (mindkét oldala), a Bálics dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bálics dűlőtől a Fürkész dűlőig, a Fürkész dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bárány tető torkolatáig, a Bárány tető (mindkét oldala), a Bárány út, majd a Demokrácia utca a Lapisi útig, Lapisi út, majd a Remeteréti út végig, majd az Orfű felé vezető út a városhatárig, a városhatár a 66-os országút belépési pontjáig terjedő szakaszok által körbezárt terület.
+## 4. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (házszámok nélkül) a Hársfa útig, Hársfa út (házszámok nélkül) a Rákos Lajos utcáig, tovább a Hársfa út (mindkét oldala) a Bokor utcáig, a Bokor utca (házszámok nélkül) végig, a Diósi út páros oldala a Zsolnay Vilmos utcáig, a Zsolnay Vilmos utca (mindkét oldala) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (mindkét oldala) a Tüskésréti útig, a Tüskésréti út (mindkét oldala) az 58-as útig a Nagyárpádi út (mindkét oldala) a Tüskés dűlőig, a Tüskés dűlő (mindkét oldala), a Nagyárpádi út (mindkét oldala) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (mindkét oldala), a Cserge dűlőig, a Cserge dűlő (mindkét oldala), az 57-es országút a városhatárig, a városhatár az óramutató járásával egyező irányban a Szentlőrinc felé haladó vasútvonal belépési pontjáig, a vasútvonal a Tüzér utcáig, a Megyeri Nagyhíd a vasútvonaltól a Veress Endre utcáig, a Tüzér utca páratlan oldala, a Szigeti út középvonala a Kürt utcáig, a Kürt utca (házszámok nélkül), az Ifjúság útja (házszámok nélkül), az Édesanyák útja (mindkét oldala), a Nyár utca (mindkét oldala), a Bálicsi út (mindkét oldala), a Bálics dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bálics dűlőtől a Fürkész dűlőig, a Fürkész dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bárány tető torkolatáig, a Bárány tető (mindkét oldala), a Bárány út, majd a Demokrácia utca a Lapisi útig, Lapisi út, majd a Remeteréti út végig, majd az Orfű felé vezető út a városhatárig, a városhatár a 66-os országút belépési pontjáig terjedő szakaszok által körbezárt terület.
 
-5. Pécsudvard
+## 5. Pécsudvard
 
-6. Pogány
+## 6. Pogány
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Baranya 02. OEVK
+## Rövidítése: Baranya 02. OEVK
 
-Székhelye: Pécs
+## Székhelye: Pécs
 
-Területe:
+## Területe:
 
-1. Berkesd
+## 1. Berkesd
 
-2. Bogád
+## 2. Bogád
 
-3. Cserkút
+## 3. Cserkút
 
-4. Ellend
+## 4. Ellend
 
-5. Hásságy
+## 5. Hásságy
 
-6. Komló
+## 6. Komló
 
-7. Kozármisleny
+## 7. Kozármisleny
 
-8. Kővágószőlős
+## 8. Kővágószőlős
 
-9. Lothárd
+## 9. Lothárd
 
-10. Magyarsarlós
+## 10. Magyarsarlós
 
-11. Mánfa
+## 11. Mánfa
 
-12. Nagykozár
+## 12. Nagykozár
 
-13. Orfű
+## 13. Orfű
 
-14. Pereked
+## 14. Pereked
 
-15. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (mindkét oldala) a Hársfa útig, a Hársfa út (mindkét oldala) a Rákos Lajos utcáig, tovább a Hársfa út (házszámok nélkül) a Bokor utcáig, a Bokor utca (mindkét oldala) végig, a Diósi út páratlan oldala a Zsolnay Vilmos útig, a Zsolnay Vilmos utca (házszámok nélkül) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (házszámok nélkül) a Tüskésréti útig, a Tüskésréti út (házszámok nélkül) az 58-as útig, a Nagyárpádi út (házszámok nélkül) a Tüskés dűlőig, a Tüskés dűlő (házszámok nélkül), a Nagyárpádi út (házszámok nélkül) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (házszámok nélkül) a Cserge dűlőig, a Cserge dűlő (házszámok nélkül), az 57-es országút a városhatárig, a városhatár az óramutató járásával ellenkező irányban a 66-os országútig, valamint a Szentlőrinc felé haladó vasútvonal városhatáron való belépési pontjától a városhatár az óramutató járásával egyező irányban a Remeteréti útig, majd a Remeteréti út, a Lapisi út torkolatáig, a Lapisi út a Demokrácia utcáig, a Bárány út (házszámok nélkül), a Bárány tető (házszámok nélkül) az Erdész utcáig, az Erdész utca (házszámok nélkül)a Fürkész dűlőig, a Fürkész dűlő (házszámok nélkül), az Erdész utca (házszámok nélkül) a Bálics dűlő torkolatáig, a Bálics dűlő (házszámok nélkül), a Bálicsi út (házszámok nélkül), a Nyár utca (házszámok nélkül), az Édesanyák útja (házszámok nélkül), az Ifjúság útja (mindkét oldala), a Kürt utca (mindkét oldala), a Szigeti út középvonala a Tüzér utcáig, a Tüzér utca páros oldala, a Megyeri Nagyhíd a vasútvonalig, a Szentlőrinc felé haladó vasútvonal a városhatárig terjedő szakaszok által körbezárt terület.
+## 15. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (mindkét oldala) a Hársfa útig, a Hársfa út (mindkét oldala) a Rákos Lajos utcáig, tovább a Hársfa út (házszámok nélkül) a Bokor utcáig, a Bokor utca (mindkét oldala) végig, a Diósi út páratlan oldala a Zsolnay Vilmos útig, a Zsolnay Vilmos utca (házszámok nélkül) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (házszámok nélkül) a Tüskésréti útig, a Tüskésréti út (házszámok nélkül) az 58-as útig, a Nagyárpádi út (házszámok nélkül) a Tüskés dűlőig, a Tüskés dűlő (házszámok nélkül), a Nagyárpádi út (házszámok nélkül) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (házszámok nélkül) a Cserge dűlőig, a Cserge dűlő (házszámok nélkül), az 57-es országút a városhatárig, a városhatár az óramutató járásával ellenkező irányban a 66-os országútig, valamint a Szentlőrinc felé haladó vasútvonal városhatáron való belépési pontjától a városhatár az óramutató járásával egyező irányban a Remeteréti útig, majd a Remeteréti út, a Lapisi út torkolatáig, a Lapisi út a Demokrácia utcáig, a Bárány út (házszámok nélkül), a Bárány tető (házszámok nélkül) az Erdész utcáig, az Erdész utca (házszámok nélkül)a Fürkész dűlőig, a Fürkész dűlő (házszámok nélkül), az Erdész utca (házszámok nélkül) a Bálics dűlő torkolatáig, a Bálics dűlő (házszámok nélkül), a Bálicsi út (házszámok nélkül), a Nyár utca (házszámok nélkül), az Édesanyák útja (házszámok nélkül), az Ifjúság útja (mindkét oldala), a Kürt utca (mindkét oldala), a Szigeti út középvonala a Tüzér utcáig, a Tüzér utca páros oldala, a Megyeri Nagyhíd a vasútvonalig, a Szentlőrinc felé haladó vasútvonal a városhatárig terjedő szakaszok által körbezárt terület.
 
-16. Romonya
+## 16. Romonya
 
-17. Szemely
+## 17. Szemely
 
-18. Szilágy
+## 18. Szilágy
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Baranya 03. OEVK
+## Rövidítése: Baranya 03. OEVK
 
-Székhelye: Mohács
+## Székhelye: Mohács
 
-Területe:
+## Területe:
 
-1. Ág
+## 1. Ág
 
-2. Alsómocsolád
+## 2. Alsómocsolád
 
-3. Apátvarasd
+## 3. Apátvarasd
 
-4. Babarc
+## 4. Babarc
 
-5. Bár
+## 5. Bár
 
-6. Belvárdgyula
+## 6. Belvárdgyula
 
-7. Beremend
+## 7. Beremend
 
-8. Bezedek
+## 8. Bezedek
 
-9. Bikal
+## 9. Bikal
 
-10. Birján
+## 10. Birján
 
-11. Bóly
+## 11. Bóly
 
-12. Borjád
+## 12. Borjád
 
-13. Dunaszekcső
+## 13. Dunaszekcső
 
-14. Egerág
+## 14. Egerág
 
-15. Egyházasharaszti
+## 15. Egyházasharaszti
 
-16. Egyházaskozár
+## 16. Egyházaskozár
 
-17. Erdősmárok
+## 17. Erdősmárok
 
-18. Erdősmecske
+## 18. Erdősmecske
 
-19. Erzsébet
+## 19. Erzsébet
 
-20. Fazekasboda
+## 20. Fazekasboda
 
-21. Feked
+## 21. Feked
 
-22. Geresdlak
+## 22. Geresdlak
 
-23. Görcsönydoboka
+## 23. Görcsönydoboka
 
-24. Hegyhátmaróc
+## 24. Hegyhátmaróc
 
-25. Hidas
+## 25. Hidas
 
-26. Himesháza
+## 26. Himesháza
 
-27. Homorúd
+## 27. Homorúd
 
-28. Hosszúhetény
+## 28. Hosszúhetény
 
-29. Illocska
+## 29. Illocska
 
-30. Ivánbattyán
+## 30. Ivánbattyán
 
-31. Ivándárda
+## 31. Ivándárda
 
-32. Kárász
+## 32. Kárász
 
-33. Kásád
+## 33. Kásád
 
-34. Kátoly
+## 34. Kátoly
 
-35. Kékesd
+## 35. Kékesd
 
-36. Kisbudmér
+## 36. Kisbudmér
 
-37. Kisharsány
+## 37. Kisharsány
 
-38. Kisherend
+## 38. Kisherend
 
-39. Kisjakabfalva
+## 39. Kisjakabfalva
 
-40. Kiskassa
+## 40. Kiskassa
 
-41. Kislippó
+## 41. Kislippó
 
-42. Kisnyárád
+## 42. Kisnyárád
 
-43. Kistapolca
+## 43. Kistapolca
 
-44. Köblény
+## 44. Köblény
 
-45. Kölked
+## 45. Kölked
 
-46. Lánycsók
+## 46. Lánycsók
 
-47. Lapáncsa
+## 47. Lapáncsa
 
-48. Lippó
+## 48. Lippó
 
-49. Liptód
+## 49. Liptód
 
-50. Lovászhetény
+## 50. Lovászhetény
 
-51. Mágocs
+## 51. Mágocs
 
-52. Magyarbóly
+## 52. Magyarbóly
 
-53. Magyaregregy
+## 53. Magyaregregy
 
-54. Majs
+## 54. Majs
 
-55. Maráza
+## 55. Maráza
 
-56. Máriakéménd
+## 56. Máriakéménd
 
-57. Márok
+## 57. Márok
 
-58. Martonfa
+## 58. Martonfa
 
-59. Máza
+## 59. Máza
 
-60. Mecseknádasd
+## 60. Mecseknádasd
 
-61. Mekényes
+## 61. Mekényes
 
-62. Mohács
+## 62. Mohács
 
-63. Monyoród
+## 63. Monyoród
 
-64. Nagybudmér
+## 64. Nagybudmér
 
-65. Nagyhajmás
+## 65. Nagyhajmás
 
-66. Nagyharsány
+## 66. Nagyharsány
 
-67. Nagynyárád
+## 67. Nagynyárád
 
-68. Nagypall
+## 68. Nagypall
 
-69. Nagytótfalu
+## 69. Nagytótfalu
 
-70. Óbánya
+## 70. Óbánya
 
-71. Ófalu
+## 71. Ófalu
 
-72. Olasz
+## 72. Olasz
 
-73. Old
+## 73. Old
 
-74. Palkonya
+## 74. Palkonya
 
-75. Palotabozsok
+## 75. Palotabozsok
 
-76. Pécsdevecser
+## 76. Pécsdevecser
 
-77. Pécsvárad
+## 77. Pécsvárad
 
-78. Peterd
+## 78. Peterd
 
-79. Pócsa
+## 79. Pócsa
 
-80. Sárok
+## 80. Sárok
 
-81. Sátorhely
+## 81. Sátorhely
 
-82. Siklósnagyfalu
+## 82. Siklósnagyfalu
 
-83. Somberek
+## 83. Somberek
 
-84. Szajk
+## 84. Szajk
 
-85. Szalatnak
+## 85. Szalatnak
 
-86. Szárász
+## 86. Szárász
 
-87. Szászvár
+## 87. Szászvár
 
-88. Szebény
+## 88. Szebény
 
-89. Szederkény
+## 89. Szederkény
 
-90. Székelyszabar
+## 90. Székelyszabar
 
-91. Szellő
+## 91. Szellő
 
-92. Szőkéd
+## 92. Szőkéd
 
-93. Szűr
+## 93. Szűr
 
-94. Tófű
+## 94. Tófű
 
-95. Töttös
+## 95. Töttös
 
-96. Udvar
+## 96. Udvar
 
-97. Újpetre
+## 97. Újpetre
 
-98. Vékény
+## 98. Vékény
 
-99. Véménd
+## 99. Véménd
 
-100. Versend
+## 100. Versend
 
-101. Villány
+## 101. Villány
 
-102. Villánykövesd
+## 102. Villánykövesd
 
-103. Vokány
+## 103. Vokány
 
-104. Zengővárkony
+## 104. Zengővárkony
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Baranya 04. OEVK
+## Rövidítése: Baranya 04. OEVK
 
-Székhelye: Szigetvár
+## Székhelye: Szigetvár
 
-Területe:
+## Területe:
 
-1. Abaliget
+## 1. Abaliget
 
-2. Adorjás
+## 2. Adorjás
 
-3. Almamellék
+## 3. Almamellék
 
-4. Almáskeresztúr
+## 4. Almáskeresztúr
 
-5. Alsószentmárton
+## 5. Alsószentmárton
 
-6. Aranyosgadány
+## 6. Aranyosgadány
 
-7. Áta
+## 7. Áta
 
-8. Babarcszőlős
+## 8. Babarcszőlős
 
-9. Bakóca
+## 9. Bakóca
 
-10. Bakonya
+## 10. Bakonya
 
-11. Baksa
+## 11. Baksa
 
-12. Bánfa
+## 12. Bánfa
 
-13. Baranyahídvég
+## 13. Baranyahídvég
 
-14. Baranyajenő
+## 14. Baranyajenő
 
-15. Baranyaszentgyörgy
+## 15. Baranyaszentgyörgy
 
-16. Basal
+## 16. Basal
 
-17. Besence
+## 17. Besence
 
-18. Bicsérd
+## 18. Bicsérd
 
-19. Bisse
+## 19. Bisse
 
-20. Boda
+## 20. Boda
 
-21. Bodolyabér
+## 21. Bodolyabér
 
-22. Bogádmindszent
+## 22. Bogádmindszent
 
-23. Bogdása
+## 23. Bogdása
 
-24. Boldogasszonyfa
+## 24. Boldogasszonyfa
 
-25. Bosta
+## 25. Bosta
 
-26. Botykapeterd
+## 26. Botykapeterd
 
-27. Bükkösd
+## 27. Bükkösd
 
-28. Bürüs
+## 28. Bürüs
 
-29. Cún
+## 29. Cún
 
-30. Csányoszró
+## 30. Csányoszró
 
-31. Csarnóta
+## 31. Csarnóta
 
-32. Csebény
+## 32. Csebény
 
-33. Cserdi
+## 33. Cserdi
 
-34. Csertő;
+## 34. Csertő;
 
-35. Csonkamindszent
+## 35. Csonkamindszent
 
-36. Dencsháza
+## 36. Dencsháza
 
-37. Dinnyeberki
+## 37. Dinnyeberki
 
-38. Diósviszló
+## 38. Diósviszló
 
-39. Drávacsehi
+## 39. Drávacsehi
 
-40. Drávacsepely
+## 40. Drávacsepely
 
-41. Drávafok
+## 41. Drávafok
 
-42. Drávaiványi
+## 42. Drávaiványi
 
-43. Drávakeresztúr
+## 43. Drávakeresztúr
 
-44. Drávapalkonya
+## 44. Drávapalkonya
 
-45. Drávapiski
+## 45. Drávapiski
 
-46. Drávaszabolcs
+## 46. Drávaszabolcs
 
-47. Drávaszerdahely
+## 47. Drávaszerdahely
 
-48. Drávasztára
+## 48. Drávasztára
 
-49. Endrőc
+## 49. Endrőc
 
-50. Felsőegerszeg
+## 50. Felsőegerszeg
 
-51. Felsőszentmárton
+## 51. Felsőszentmárton
 
-52. Garé
+## 52. Garé
 
-53. Gerde
+## 53. Gerde
 
-54. Gerényes
+## 54. Gerényes
 
-55. Gilvánfa
+## 55. Gilvánfa
 
-56. Gordisa
+## 56. Gordisa
 
-57. Gödre
+## 57. Gödre
 
-58. Görcsöny
+## 58. Görcsöny
 
-59. Gyöngyfa
+## 59. Gyöngyfa
 
-60. Gyöngyösmellék
+## 60. Gyöngyösmellék
 
-61. Harkány
+## 61. Harkány
 
-62. Hegyszentmárton
+## 62. Hegyszentmárton
 
-63. Helesfa
+## 63. Helesfa
 
-64. Hetvehely
+## 64. Hetvehely
 
-65. Hirics
+## 65. Hirics
 
-66. Hobol
+## 66. Hobol
 
-67. Horváthertelend
+## 67. Horváthertelend
 
-68. Husztót
+## 68. Husztót
 
-69. Ibafa
+## 69. Ibafa
 
-70. Ipacsfa
+## 70. Ipacsfa
 
-71. Kacsóta
+## 71. Kacsóta
 
-72. Kákics
+## 72. Kákics
 
-73. Katádfa
+## 73. Katádfa
 
-74. Kémes
+## 74. Kémes
 
-75. Kemse
+## 75. Kemse
 
-76. Kétújfalu
+## 76. Kétújfalu
 
-77. Királyegyháza
+## 77. Királyegyháza
 
-78. Kisasszonyfa
+## 78. Kisasszonyfa
 
-79. Kisbeszterce
+## 79. Kisbeszterce
 
-80. Kisdér
+## 80. Kisdér
 
-81. Kisdobsza
+## 81. Kisdobsza
 
-82 . Kishajmás
+## 82 . Kishajmás
 
-83. Kistamási
+## 83. Kistamási
 
-84. Kistótfalu
+## 84. Kistótfalu
 
-85. Kisvaszar
+## 85. Kisvaszar
 
-86. Kisszentmárton
+## 86. Kisszentmárton
 
-87. Kórós
+## 87. Kórós
 
-88. Kovácshida
+## 88. Kovácshida
 
-89. Kovácsszénája
+## 89. Kovácsszénája
 
-90. Kővágótöttös
+## 90. Kővágótöttös
 
-91. Liget
+## 91. Liget
 
-92. Lúzsok
+## 92. Lúzsok
 
-93. Magyarhertelend
+## 93. Magyarhertelend
 
-94. Magyarlukafa
+## 94. Magyarlukafa
 
-95. Magyarmecske
+## 95. Magyarmecske
 
-96. Magyarszék
+## 96. Magyarszék
 
-97. Magyartelek
+## 97. Magyartelek
 
-98. Márfa
+## 98. Márfa
 
-99. Markóc
+## 99. Markóc
 
-100. Marócsa
+## 100. Marócsa
 
-101. Matty
+## 101. Matty
 
-102. Mecsekpölöske
+## 102. Mecsekpölöske
 
-103. Merenye
+## 103. Merenye
 
-104. Meződ
+## 104. Meződ
 
-105. Mindszentgodisa
+## 105. Mindszentgodisa
 
-106. Molvány
+## 106. Molvány
 
-107. Mozsgó
+## 107. Mozsgó
 
-108. Nagycsány
+## 108. Nagycsány
 
-109. Nagydobsza
+## 109. Nagydobsza
 
-110. Nagypeterd
+## 110. Nagypeterd
 
-111. Nagyváty
+## 111. Nagyváty
 
-112. Nemeske
+## 112. Nemeske
 
-113. Nyugotszenterzsébet
+## 113. Nyugotszenterzsébet
 
-114. Ócsárd
+## 114. Ócsárd
 
-115. Okorág
+## 115. Okorág
 
-116. Okorvölgy
+## 116. Okorvölgy
 
-117. Oroszló
+## 117. Oroszló
 
-118. Ózdfalu
+## 118. Ózdfalu
 
-119. Palé
+## 119. Palé
 
-120. Páprád
+## 120. Páprád
 
-121. Patapoklosi
+## 121. Patapoklosi
 
-122. Pécsbagota
+## 122. Pécsbagota
 
-123. Pellérd
+## 123. Pellérd
 
-124. Pettend
+## 124. Pettend
 
-125. Piskó
+## 125. Piskó
 
-126. Rádfalva
+## 126. Rádfalva
 
-127. Regenye
+## 127. Regenye
 
-128. Rózsafa
+## 128. Rózsafa
 
-129. Sámod
+## 129. Sámod
 
-130. Sásd
+## 130. Sásd
 
-131. Sellye
+## 131. Sellye
 
-132. Siklós
+## 132. Siklós
 
-133. Siklósbodony
+## 133. Siklósbodony
 
-134. Somogyapáti
+## 134. Somogyapáti
 
-135. Somogyhárságy
+## 135. Somogyhárságy
 
-136. Somogyhatvan
+## 136. Somogyhatvan
 
-137. Somogyviszló
+## 137. Somogyviszló
 
-138. Sósvertike
+## 138. Sósvertike
 
-139. Sumony
+## 139. Sumony
 
-140. Szabadszentkirály
+## 140. Szabadszentkirály
 
-141. Szágy
+## 141. Szágy
 
-142. Szalánta
+## 142. Szalánta
 
-143. Szaporca
+## 143. Szaporca
 
-144. Szava
+## 144. Szava
 
-145. Szentdénes
+## 145. Szentdénes
 
-146. Szentegát
+## 146. Szentegát
 
-147. Szentkatalin
+## 147. Szentkatalin
 
-148. Szentlászló
+## 148. Szentlászló
 
-149. Szentlőrinc
+## 149. Szentlőrinc
 
-150. Szigetvár
+## 150. Szigetvár
 
-151. Szilvás
+## 151. Szilvás
 
-152. Szőke
+## 152. Szőke
 
-153. Szörény
+## 153. Szörény
 
-154. Szulimán
+## 154. Szulimán
 
-155. Tarrós
+## 155. Tarrós
 
-156. Tékes
+## 156. Tékes
 
-157. Teklafalu
+## 157. Teklafalu
 
-158. Tengeri
+## 158. Tengeri
 
-159. Tésenfa
+## 159. Tésenfa
 
-160. Téseny
+## 160. Téseny
 
-161. Tormás
+## 161. Tormás
 
-162. Tótszentgyörgy
+## 162. Tótszentgyörgy
 
-163. Túrony
+## 163. Túrony
 
-164. Vajszló
+## 164. Vajszló
 
-165. Várad
+## 165. Várad
 
-166. Varga
+## 166. Varga
 
-167. Vásárosbéc
+## 167. Vásárosbéc
 
-168. Vásárosdombó
+## 168. Vásárosdombó
 
-169. Vázsnok
+## 169. Vázsnok
 
-170. Vejti
+## 170. Vejti
 
-171. Velény
+## 171. Velény
 
-172. Zádor
+## 172. Zádor
 
-173. Zaláta
+## 173. Zaláta
 
-174. Zók
+## 174. Zók
 
-Bács-Kiskun vármegye
+## Bács-Kiskun megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 01. OEVK
+## Rövidítése: Bács-Kiskun 01. OEVK
 
-Székhelye: Kecskemét
+## Székhelye: Kecskemét
 
-Területe:
+## Területe:
 
-1. Felsőlajos
+## 1. Felsőlajos
 
-2. Fülöpháza
+## 2. Fülöpháza
 
-3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## 3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-4. Kerekegyháza
+## 4. Kerekegyháza
 
-5. Kunadacs
+## 5. Kunadacs
 
-6. Kunbaracs
+## 6. Kunbaracs
 
-7. Kunpeszér
+## 7. Kunpeszér
 
-8. Kunszentmiklós
+## 8. Kunszentmiklós
 
-9. Ladánybene
+## 9. Ladánybene
 
-10. Lajosmizse
+## 10. Lajosmizse
 
-11. Szabadszállás
+## 11. Szabadszállás
 
-12. Szalkszentmárton
+## 12. Szalkszentmárton
 
-13. Tass
+## 13. Tass
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 02. OEVK
+## Rövidítése: Bács-Kiskun 02. OEVK
 
-Székhelye: Kecskemét
+## Székhelye: Kecskemét
 
-Területe:
+## Területe:
 
-1. Ballószög
+## 1. Ballószög
 
-2. Helvécia
+## 2. Helvécia
 
-3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## 3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-4. Szentkirály
+## 4. Szentkirály
 
-5. Tiszakécske
+## 5. Tiszakécske
 
-6. Városföld
+## 6. Városföld
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 03. OEVK
+## Rövidítése: Bács-Kiskun 03. OEVK
 
-Székhelye: Kalocsa
+## Székhelye: Kalocsa
 
-Területe:
+## Területe:
 
-1. Akasztó
+## 1. Akasztó
 
-2. Apostag
+## 2. Apostag
 
-3. Bátya
+## 3. Bátya
 
-4. Csengőd
+## 4. Csengőd
 
-5. Drágszél
+## 5. Drágszél
 
-6. Dunaegyháza
+## 6. Dunaegyháza
 
-7. Dunapataj
+## 7. Dunapataj
 
-8. Dunaszentbenedek
+## 8. Dunaszentbenedek
 
-9. Dunatetétlen
+## 9. Dunatetétlen
 
-10. Dunavecse
+## 10. Dunavecse
 
-11. Foktő
+## 11. Foktő
 
-12. Géderlak
+## 12. Géderlak
 
-13. Harta
+## 13. Harta
 
-14. Homokmégy
+## 14. Homokmégy
 
-15. Kalocsa
+## 15. Kalocsa
 
-16. Kaskantyú
+## 16. Kaskantyú
 
-17. Kiskőrös
+## 17. Kiskőrös
 
-18. Miske
+## 18. Miske
 
-19. Ordas
+## 19. Ordas
 
-20. Öregcsertő
+## 20. Öregcsertő
 
-21. Páhi
+## 21. Páhi
 
-22. Solt
+## 22. Solt
 
-23. Soltszentimre
+## 23. Soltszentimre
 
-24. Soltvadkert
+## 24. Soltvadkert
 
-25. Szakmár
+## 25. Szakmár
 
-26. Tabdi
+## 26. Tabdi
 
-27. Újsolt
+## 27. Újsolt
 
-28. Újtelek
+## 28. Újtelek
 
-29. Uszód
+## 29. Uszód
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 04. OEVK
+## Rövidítése: Bács-Kiskun 04. OEVK
 
-Székhelye: Kiskunfélegyháza
+## Székhelye: Kiskunfélegyháza
 
-Területe:
+## Területe:
 
-1. Ágasegyháza
+## 1. Ágasegyháza
 
-2. Bócsa
+## 2. Bócsa
 
-3. Bugac
+## 3. Bugac
 
-4. Bugacpusztaháza
+## 4. Bugacpusztaháza
 
-5. Csólyospálos
+## 5. Csólyospálos
 
-6. Fülöpjakab
+## 6. Fülöpjakab
 
-7. Fülöpszállás
+## 7. Fülöpszállás
 
-8. Gátér
+## 8. Gátér
 
-9. Izsák
+## 9. Izsák
 
-10. Jakabszállás
+## 10. Jakabszállás
 
-11. Jászszentlászló
+## 11. Jászszentlászló
 
-12. Kiskunfélegyháza
+## 12. Kiskunfélegyháza
 
-13. Kiskunmajsa
+## 13. Kiskunmajsa
 
-14. Kömpöc
+## 14. Kömpöc
 
-15. Kunszállás
+## 15. Kunszállás
 
-16. Lakitelek
+## 16. Lakitelek
 
-17. Móricgát
+## 17. Móricgát
 
-18. Nyárlőrinc
+## 18. Nyárlőrinc
 
-19. Orgovány
+## 19. Orgovány
 
-20. Pálmonostora
+## 20. Pálmonostora
 
-21. Petőfiszállás
+## 21. Petőfiszállás
 
-22. Szank
+## 22. Szank
 
-23. Tiszaalpár
+## 23. Tiszaalpár
 
-24. Tiszaug
+## 24. Tiszaug
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 05. OEVK
+## Rövidítése: Bács-Kiskun 05. OEVK
 
-Székhelye: Kiskunhalas
+## Székhelye: Kiskunhalas
 
-Területe:
+## Területe:
 
-1. Bácsalmás
+## 1. Bácsalmás
 
-2. Bácsszőlős
+## 2. Bácsszőlős
 
-3. Balotaszállás
+## 3. Balotaszállás
 
-4. Borota
+## 4. Borota
 
-5. Császártöltés
+## 5. Császártöltés
 
-6. Csikéria
+## 6. Csikéria
 
-7. Hajós
+## 7. Hajós
 
-8. Harkakötöny
+## 8. Harkakötöny
 
-9. Imrehegy
+## 9. Imrehegy
 
-10. Jánoshalma
+## 10. Jánoshalma
 
-11. Kecel
+## 11. Kecel
 
-12. Kelebia
+## 12. Kelebia
 
-13. Kéleshalom
+## 13. Kéleshalom
 
-14. Kiskunhalas
+## 14. Kiskunhalas
 
-15. Kisszállás
+## 15. Kisszállás
 
-16. Kunbaja
+## 16. Kunbaja
 
-17. Kunfehértó
+## 17. Kunfehértó
 
-18. Mélykút
+## 18. Mélykút
 
-19. Pirtó
+## 19. Pirtó
 
-20. Tataháza
+## 20. Tataháza
 
-21. Tázlár
+## 21. Tázlár
 
-22. Tompa
+## 22. Tompa
 
-23. Zsana
+## 23. Zsana
 
-06. számú országgyűlési egyéni választókerület
+## 06. számú országgyűlési egyéni választókerület
 
-Rövidítése: Bács-Kiskun 06. OEVK
+## Rövidítése: Bács-Kiskun 06. OEVK
 
-Székhelye: Baja
+## Székhelye: Baja
 
-Területe:
+## Területe:
 
-1. Bácsbokod
+## 1. Bácsbokod
 
-2. Bácsborsód
+## 2. Bácsborsód
 
-3. Bácsszentgyörgy
+## 3. Bácsszentgyörgy
 
-4. Baja
+## 4. Baja
 
-5. Bátmonostor
+## 5. Bátmonostor
 
-6. Csátalja
+## 6. Csátalja
 
-7. Csávoly
+## 7. Csávoly
 
-8. Dávod
+## 8. Dávod
 
-9. Dunafalva
+## 9. Dunafalva
 
-10. Dusnok
+## 10. Dusnok
 
-11. Érsekcsanád
+## 11. Érsekcsanád
 
-12. Érsekhalma
+## 12. Érsekhalma
 
-13. Fajsz
+## 13. Fajsz
 
-14. Felsőszentiván
+## 14. Felsőszentiván
 
-15. Gara
+## 15. Gara
 
-16. Hercegszántó
+## 16. Hercegszántó
 
-17. Katymár
+## 17. Katymár
 
-18. Madaras
+## 18. Madaras
 
-19. Mátételke
+## 19. Mátételke
 
-20. Nagybaracska
+## 20. Nagybaracska
 
-21. Nemesnádudvar
+## 21. Nemesnádudvar
 
-22. Rém
+## 22. Rém
 
-23. Sükösd
+## 23. Sükösd
 
-24. Szeremle
+## 24. Szeremle
 
-25. Vaskút
+## 25. Vaskút
 
-Békés vármegye
+## Békés megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Békés 01. OEVK
+## Rövidítése: Békés 01. OEVK
 
-Székhelye: Békéscsaba
+## Székhelye: Békéscsaba
 
-Területe:
+## Területe:
 
-1. Békéscsaba
+## 1. Békéscsaba
 
-2. Csabaszabadi
+## 2. Csabaszabadi
 
-3. Csorvás
+## 3. Csorvás
 
-4. Gerendás
+## 4. Gerendás
 
-5. Kétegyháza
+## 5. Kétegyháza
 
-6. Kétsoprony
+## 6. Kétsoprony
 
-7. Kondoros
+## 7. Kondoros
 
-8. Szabadkígyós
+## 8. Szabadkígyós
 
-9. Telekgerendás
+## 9. Telekgerendás
 
-10. Újkígyós
+## 10. Újkígyós
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Békés 02. OEVK
+## Rövidítése: Békés 02. OEVK
 
-Székhelye: Békés
+## Székhelye: Békés
 
-Területe:
+## Területe:
 
-1. Békés
+## 1. Békés
 
-2. Békésszentandrás
+## 2. Békésszentandrás
 
-3. Bucsa
+## 3. Bucsa
 
-4. Csabacsűd
+## 4. Csabacsűd
 
-5. Csárdaszállás
+## 5. Csárdaszállás
 
-6. Dévaványa
+## 6. Dévaványa
 
-7. Ecsegfalva
+## 7. Ecsegfalva
 
-8. Gyomaendrőd
+## 8. Gyomaendrőd
 
-9. Hunya
+## 9. Hunya
 
-10. Kamut
+## 10. Kamut
 
-11. Kardos
+## 11. Kardos
 
-12. Kertészsziget
+## 12. Kertészsziget
 
-13. Körösladány
+## 13. Körösladány
 
-14. Köröstarcsa
+## 14. Köröstarcsa
 
-15. Mezőberény
+## 15. Mezőberény
 
-16. Murony
+## 16. Murony
 
-17. Örménykút
+## 17. Örménykút
 
-18. Szarvas
+## 18. Szarvas
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Békés 03. OEVK
+## Rövidítése: Békés 03. OEVK
 
-Székhelye: Gyula
+## Székhelye: Gyula
 
-Területe:
+## Területe:
 
-1. Bélmegyer
+## 1. Bélmegyer
 
-2. Biharugra
+## 2. Biharugra
 
-3. Doboz
+## 3. Doboz
 
-4. Elek
+## 4. Elek
 
-5. Füzesgyarmat
+## 5. Füzesgyarmat
 
-6. Geszt
+## 6. Geszt
 
-7. Gyula
+## 7. Gyula
 
-8. Körösnagyharsány
+## 8. Körösnagyharsány
 
-9. Körösújfalu
+## 9. Körösújfalu
 
-10. Kötegyán
+## 10. Kötegyán
 
-11. Méhkerék
+## 11. Méhkerék
 
-12. Mezőgyán
+## 12. Mezőgyán
 
-13. Okány
+## 13. Okány
 
-14. Sarkad
+## 14. Sarkad
 
-15. Sarkadkeresztúr
+## 15. Sarkadkeresztúr
 
-16. Szeghalom
+## 16. Szeghalom
 
-17. Tarhos
+## 17. Tarhos
 
-18. Újszalonta
+## 18. Újszalonta
 
-19. Vésztő
+## 19. Vésztő
 
-20. Zsadány
+## 20. Zsadány
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Békés 04. OEVK
+## Rövidítése: Békés 04. OEVK
 
-Székhelye: Orosháza
+## Székhelye: Orosháza
 
-Területe:
+## Területe:
 
-1. Almáskamarás
+## 1. Almáskamarás
 
-2. Battonya
+## 2. Battonya
 
-3. Békéssámson
+## 3. Békéssámson
 
-4. Csanádapáca
+## 4. Csanádapáca
 
-5. Dombegyház
+## 5. Dombegyház
 
-6. Dombiratos
+## 6. Dombiratos
 
-7. Gádoros
+## 7. Gádoros
 
-8. Kardoskút
+## 8. Kardoskút
 
-9. Kaszaper
+## 9. Kaszaper
 
-10. Kevermes
+## 10. Kevermes
 
-11. Kisdombegyház
+## 11. Kisdombegyház
 
-12. Kunágota
+## 12. Kunágota
 
-13. Lőkösháza
+## 13. Lőkösháza
 
-14. Magyarbánhegyes
+## 14. Magyarbánhegyes
 
-15. Magyardombegyház
+## 15. Magyardombegyház
 
-16. Medgyesegyháza
+## 16. Medgyesegyháza
 
-17. Medgyesbodzás
+## 17. Medgyesbodzás
 
-18. Mezőhegyes
+## 18. Mezőhegyes
 
-19. Mezőkovácsháza
+## 19. Mezőkovácsháza
 
-20. Nagybánhegyes
+## 20. Nagybánhegyes
 
-21. Nagykamarás
+## 21. Nagykamarás
 
-22. Nagyszénás
+## 22. Nagyszénás
 
-23. Orosháza
+## 23. Orosháza
 
-24. Pusztaföldvár
+## 24. Pusztaföldvár
 
-25. Pusztaottlaka
+## 25. Pusztaottlaka
 
-26. Tótkomlós
+## 26. Tótkomlós
 
-27. Végegyháza
+## 27. Végegyháza
 
-Borsod-Abaúj-Zemplén vármegye
+## Borsod-Abaúj-Zemplén megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 01. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 01. OEVK
 
-Székhelye: Miskolc
+## Székhelye: Miskolc
 
-Területe:
+## Területe:
 
-1. Alsózsolca
+## 1. Alsózsolca
 
-2. Arnót
+## 2. Arnót
 
-3. Felsőzsolca
+## 3. Felsőzsolca
 
-4. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## 4. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-5. Sajókeresztúr
+## 5. Sajókeresztúr
 
-6. Szirmabesenyő
+## 6. Szirmabesenyő
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 02. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 02. OEVK
 
-Székhelye: Miskolc
+## Székhelye: Miskolc
 
-Területe:
+## Területe:
 
-1. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## 1. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-2. Parasznya
+## 2. Parasznya
 
-3. Radostyán
+## 3. Radostyán
 
-4. Sajóbábony
+## 4. Sajóbábony
 
-5. Sajólászlófalva
+## 5. Sajólászlófalva
 
-6. Varbó
+## 6. Varbó
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 03. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 03. OEVK
 
-Székhelye: Ózd
+## Székhelye: Ózd
 
-Területe:
+## Területe:
 
-1. Aggtelek
+## 1. Aggtelek
 
-2. Alsószuha
+## 2. Alsószuha
 
-3. Alsótelekes
+## 3. Alsótelekes
 
-4. Arló
+## 4. Arló
 
-5. Bánréve
+## 5. Bánréve
 
-6. Becskeháza
+## 6. Becskeháza
 
-7. Bódvalenke
+## 7. Bódvalenke
 
-8. Bódvarákó
+## 8. Bódvarákó
 
-9. Bódvaszilas
+## 9. Bódvaszilas
 
-10. Borsodbóta
+## 10. Borsodbóta
 
-11. Borsodnádasd
+## 11. Borsodnádasd
 
-12. Borsodszentgyörgy
+## 12. Borsodszentgyörgy
 
-13. Bükkmogyorósd
+## 13. Bükkmogyorósd
 
-14. Csernely
+## 14. Csernely
 
-15. Csokvaomány
+## 15. Csokvaomány
 
-16. Domaháza
+## 16. Domaháza
 
-17. Dövény
+## 17. Dövény
 
-18. Dubicsány
+## 18. Dubicsány
 
-19. Égerszög
+## 19. Égerszög
 
-20. Farkaslyuk
+## 20. Farkaslyuk
 
-21. Felsőkelecsény
+## 21. Felsőkelecsény
 
-22. Felsőnyárád
+## 22. Felsőnyárád
 
-23. Felsőtelekes
+## 23. Felsőtelekes
 
-24. Gömörszőlős
+## 24. Gömörszőlős
 
-25. Hangony
+## 25. Hangony
 
-26. Hét
+## 26. Hét
 
-27. Hidvégardó
+## 27. Hidvégardó
 
-28. Imola
+## 28. Imola
 
-29. Jákfalva
+## 29. Jákfalva
 
-30. Járdánháza
+## 30. Járdánháza
 
-31. Jósvafő
+## 31. Jósvafő
 
-32. Kánó
+## 32. Kánó
 
-33. Kelemér
+## 33. Kelemér
 
-34. Királd
+## 34. Királd
 
-35. Kissikátor
+## 35. Kissikátor
 
-36. Komjáti
+## 36. Komjáti
 
-37. Kurityán
+## 37. Kurityán
 
-38. Lénárddaróc
+## 38. Lénárddaróc
 
-39. Martonyi
+## 39. Martonyi
 
-40. Nekézseny
+## 40. Nekézseny
 
-41. Ormosbánya
+## 41. Ormosbánya
 
-42. Ózd
+## 42. Ózd
 
-43. Perkupa
+## 43. Perkupa
 
-44. Putnok
+## 44. Putnok
 
-45. Ragály
+## 45. Ragály
 
-46. Rudabánya
+## 46. Rudabánya
 
-47. Sajógalgóc
+## 47. Sajógalgóc
 
-48. Sajókaza
+## 48. Sajókaza
 
-49. Sajómercse
+## 49. Sajómercse
 
-50. Sajónémeti
+## 50. Sajónémeti
 
-51. Sajópüspöki
+## 51. Sajópüspöki
 
-52. Sajóvelezd
+## 52. Sajóvelezd
 
-53. Sáta
+## 53. Sáta
 
-54. Serényfalva
+## 54. Serényfalva
 
-55. Szalonna
+## 55. Szalonna
 
-56. Szendrő
+## 56. Szendrő
 
-57. Szin
+## 57. Szin
 
-58. Szinpetri
+## 58. Szinpetri
 
-59. Szögliget
+## 59. Szögliget
 
-60. Szőlősardó
+## 60. Szőlősardó
 
-61. Szuhafő
+## 61. Szuhafő
 
-62. Szuhogy
+## 62. Szuhogy
 
-63. Teresztenye
+## 63. Teresztenye
 
-64. Tornakápolna
+## 64. Tornakápolna
 
-65. Tornanádaska
+## 65. Tornanádaska
 
-66. Tornaszentandrás
+## 66. Tornaszentandrás
 
-67. Trizs
+## 67. Trizs
 
-68. Uppony
+## 68. Uppony
 
-69. Varbóc
+## 69. Varbóc
 
-70. Zádorfalva
+## 70. Zádorfalva
 
-71. Zubogy
+## 71. Zubogy
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 04. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 04. OEVK
 
-Székhelye: Kazincbarcika
+## Székhelye: Kazincbarcika
 
-Területe:
+## Területe:
 
-1. Abaújlak
+## 1. Abaújlak
 
-2. Abaújszolnok
+## 2. Abaújszolnok
 
-3. Abod
+## 3. Abod
 
-4. Alacska
+## 4. Alacska
 
-5. Alsógagy
+## 5. Alsógagy
 
-6. Alsóvadász
+## 6. Alsóvadász
 
-7. Baktakék
+## 7. Baktakék
 
-8. Balajt
+## 8. Balajt
 
-9. Bánhorváti
+## 9. Bánhorváti
 
-10. Berente
+## 10. Berente
 
-11. Beret
+## 11. Beret
 
-12. Boldva
+## 12. Boldva
 
-13. Borsodszirák
+## 13. Borsodszirák
 
-14. Büttös
+## 14. Büttös
 
-15. Csenyéte
+## 15. Csenyéte
 
-16. Csobád
+## 16. Csobád
 
-17. Damak
+## 17. Damak
 
-18. Debréte
+## 18. Debréte
 
-19. Dédestapolcsány
+## 19. Dédestapolcsány
 
-20. Detek
+## 20. Detek
 
-21. Edelény
+## 21. Edelény
 
-22. Fáj
+## 22. Fáj
 
-23. Fancsal
+## 23. Fancsal
 
-24. Felsőgagy
+## 24. Felsőgagy
 
-25. Felsővadász
+## 25. Felsővadász
 
-26. Forró
+## 26. Forró
 
-27. Gadna
+## 27. Gadna
 
-28. Gagyapáti
+## 28. Gagyapáti
 
-29. Gagybátor
+## 29. Gagybátor
 
-30. Gagyvendégi
+## 30. Gagyvendégi
 
-31. Galvács
+## 31. Galvács
 
-32. Hangács
+## 32. Hangács
 
-33. Hegymeg
+## 33. Hegymeg
 
-34. Hernádszentandrás
+## 34. Hernádszentandrás
 
-35. Homrogd
+## 35. Homrogd
 
-36. Ináncs
+## 36. Ináncs
 
-37. Irota
+## 37. Irota
 
-38. Izsófalva
+## 38. Izsófalva
 
-39. Kány
+## 39. Kány
 
-40. Kazincbarcika
+## 40. Kazincbarcika
 
-41. Kázsmárk
+## 41. Kázsmárk
 
-42. Keresztéte
+## 42. Keresztéte
 
-43. Kiskinizs
+## 43. Kiskinizs
 
-44. Kondó
+## 44. Kondó
 
-45. Krasznokvajda
+## 45. Krasznokvajda
 
-46. Kupa
+## 46. Kupa
 
-47. Ládbesenyő
+## 47. Ládbesenyő
 
-48. Lak
+## 48. Lak
 
-49. Léh
+## 49. Léh
 
-50. Litka
+## 50. Litka
 
-51. Mályinka
+## 51. Mályinka
 
-52. Meszes
+## 52. Meszes
 
-53. Monaj
+## 53. Monaj
 
-54. Múcsony
+## 54. Múcsony
 
-55. Nagybarca
+## 55. Nagybarca
 
-56. Nyésta
+## 56. Nyésta
 
-57. Nyomár
+## 57. Nyomár
 
-58. Pamlény
+## 58. Pamlény
 
-59. Perecse
+## 59. Perecse
 
-60. Rakaca
+## 60. Rakaca
 
-61. Rakacaszend
+## 61. Rakacaszend
 
-62. Rásonysápberencs
+## 62. Rásonysápberencs
 
-63. Rudolftelep
+## 63. Rudolftelep
 
-64. Sajóecseg
+## 64. Sajóecseg
 
-65. Sajóivánka
+## 65. Sajóivánka
 
-66. Sajókápolna
+## 66. Sajókápolna
 
-67. Sajópálfala
+## 67. Sajópálfala
 
-68. Sajósenye
+## 68. Sajósenye
 
-69. Sajószentpéter
+## 69. Sajószentpéter
 
-70. Sajóvámos
+## 70. Sajóvámos
 
-71. Selyeb
+## 71. Selyeb
 
-72. Szakácsi
+## 72. Szakácsi
 
-73. Szászfa
+## 73. Szászfa
 
-74. Szendrőlád
+## 74. Szendrőlád
 
-75. Szuhakálló
+## 75. Szuhakálló
 
-76. Tardona
+## 76. Tardona
 
-77. Tomor
+## 77. Tomor
 
-78. Tornabarakony
+## 78. Tornabarakony
 
-79. Tornaszentjakab
+## 79. Tornaszentjakab
 
-80. Vadna
+## 80. Vadna
 
-81. Viszló
+## 81. Viszló
 
-82. Ziliz
+## 82. Ziliz
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 05. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 05. OEVK
 
-Székhelye: Sátoraljaújhely
+## Székhelye: Sátoraljaújhely
 
-Területe:
+## Területe:
 
-1. Abaújalpár
+## 1. Abaújalpár
 
-2. Abaújkér
+## 2. Abaújkér
 
-3. Abaújszántó
+## 3. Abaújszántó
 
-4. Abaújvár
+## 4. Abaújvár
 
-5. Alsóberecki
+## 5. Alsóberecki
 
-6. Alsóregmec
+## 6. Alsóregmec
 
-7. Arka
+## 7. Arka
 
-8. Baskó
+## 8. Baskó
 
-9. Bodroghalom
+## 9. Bodroghalom
 
-10. Bodrogolaszi
+## 10. Bodrogolaszi
 
-11. Boldogkőújfalu
+## 11. Boldogkőújfalu
 
-12. Boldogkőváralja
+## 12. Boldogkőváralja
 
-13. Bózsva
+## 13. Bózsva
 
-14. Cigánd
+## 14. Cigánd
 
-15. Dámóc
+## 15. Dámóc
 
-16. Encs
+## 16. Encs
 
-17. Erdőbénye
+## 17. Erdőbénye
 
-18. Erdőhorváti
+## 18. Erdőhorváti
 
-19. Felsőberecki
+## 19. Felsőberecki
 
-20. Felsődobsza
+## 20. Felsődobsza
 
-21. Felsőregmec
+## 21. Felsőregmec
 
-22. Filkeháza
+## 22. Filkeháza
 
-23. Fony
+## 23. Fony
 
-24. Fulókércs
+## 24. Fulókércs
 
-25. Füzér
+## 25. Füzér
 
-26. Füzérkajata
+## 26. Füzérkajata
 
-27. Füzérkomlós
+## 27. Füzérkomlós
 
-28. Füzérradvány
+## 28. Füzérradvány
 
-29. Garadna
+## 29. Garadna
 
-30. Gibárt
+## 30. Gibárt
 
-31. Golop
+## 31. Golop
 
-32. Gönc
+## 32. Gönc
 
-33. Göncruszka
+## 33. Göncruszka
 
-34. Györgytarló
+## 34. Györgytarló
 
-35. Háromhuta
+## 35. Háromhuta
 
-36. Hejce
+## 36. Hejce
 
-37. Hercegkút
+## 37. Hercegkút
 
-38. Hernádbűd
+## 38. Hernádbűd
 
-39. Hernádcéce
+## 39. Hernádcéce
 
-40. Hernádpetri
+## 40. Hernádpetri
 
-41. Hernádszurdok
+## 41. Hernádszurdok
 
-42. Hernádvécse
+## 42. Hernádvécse
 
-43. Hidasnémeti
+## 43. Hidasnémeti
 
-44. Hollóháza
+## 44. Hollóháza
 
-45. Karcsa
+## 45. Karcsa
 
-46. Karos
+## 46. Karos
 
-47. Kéked
+## 47. Kéked
 
-48. Kenézlő
+## 48. Kenézlő
 
-49. Kishuta
+## 49. Kishuta
 
-50. Kisrozvágy
+## 50. Kisrozvágy
 
-51. Komlóska
+## 51. Komlóska
 
-52. Korlát
+## 52. Korlát
 
-53. Kovácsvágás
+## 53. Kovácsvágás
 
-54. Lácacséke
+## 54. Lácacséke
 
-55. Makkoshotyka
+## 55. Makkoshotyka
 
-56. Méra
+## 56. Méra
 
-57. Mikóháza
+## 57. Mikóháza
 
-58. Mogyoróska
+## 58. Mogyoróska
 
-59. Nagyhuta
+## 59. Nagyhuta
 
-60. Nagyrozvágy
+## 60. Nagyrozvágy
 
-61. Novajidrány
+## 61. Novajidrány
 
-62. Nyíri
+## 62. Nyíri
 
-63. Olaszliszka
+## 63. Olaszliszka
 
-64. Pácin
+## 64. Pácin
 
-65. Pálháza
+## 65. Pálháza
 
-66. Pányok
+## 66. Pányok
 
-67. Pere
+## 67. Pere
 
-68. Pusztafalu
+## 68. Pusztafalu
 
-69. Pusztaradvány
+## 69. Pusztaradvány
 
-70. Rátka
+## 70. Rátka
 
-71. Regéc
+## 71. Regéc
 
-72. Révleányvár
+## 72. Révleányvár
 
-73. Ricse
+## 73. Ricse
 
-74. Sárazsadány
+## 74. Sárazsadány
 
-75. Sárospatak
+## 75. Sárospatak
 
-76. Sátoraljaújhely
+## 76. Sátoraljaújhely
 
-77. Semjén
+## 77. Semjén
 
-78. Sima
+## 78. Sima
 
-79. Szalaszend
+## 79. Szalaszend
 
-80. Szegi
+## 80. Szegi
 
-81. Szegilong
+## 81. Szegilong
 
-82. Szemere
+## 82. Szemere
 
-83. Tállya
+## 83. Tállya
 
-84. Telkibánya
+## 84. Telkibánya
 
-85. Tiszacsermely
+## 85. Tiszacsermely
 
-86. Tiszakarád
+## 86. Tiszakarád
 
-87. Tolcsva
+## 87. Tolcsva
 
-88. Tornyosnémeti
+## 88. Tornyosnémeti
 
-89. Vágáshuta
+## 89. Vágáshuta
 
-90. Vajdácska
+## 90. Vajdácska
 
-91. Vámosújfalu
+## 91. Vámosújfalu
 
-92. Vilmány
+## 92. Vilmány
 
-93. Vilyvitány
+## 93. Vilyvitány
 
-94. Viss
+## 94. Viss
 
-95. Vizsoly
+## 95. Vizsoly
 
-96. Zalkod
+## 96. Zalkod
 
-97. Zemplénagárd
+## 97. Zemplénagárd
 
-98. Zsujta
+## 98. Zsujta
 
-06. számú országgyűlési egyéni választókerület
+## 06. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 06. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 06. OEVK
 
-Székhelye: Tiszaújváros
+## Székhelye: Tiszaújváros
 
-Területe:
+## Területe:
 
-1. Alsódobsza
+## 1. Alsódobsza
 
-2. Aszaló
+## 2. Aszaló
 
-3. Bekecs
+## 3. Bekecs
 
-4. Bodrogkeresztúr
+## 4. Bodrogkeresztúr
 
-5. Bodrogkisfalud
+## 5. Bodrogkisfalud
 
-6. Bőcs
+## 6. Bőcs
 
-7. Csobaj
+## 7. Csobaj
 
-8. Gesztely
+## 8. Gesztely
 
-9. Girincs
+## 9. Girincs
 
-10. Halmaj
+## 10. Halmaj
 
-11. Hernádkak
+## 11. Hernádkak
 
-12. Hernádkércs
+## 12. Hernádkércs
 
-13. Hernádnémeti
+## 13. Hernádnémeti
 
-14. Kesznyéten
+## 14. Kesznyéten
 
-15. Kiscsécs
+## 15. Kiscsécs
 
-16. Legyesbénye
+## 16. Legyesbénye
 
-17. Mád
+## 17. Mád
 
-18. Megyaszó
+## 18. Megyaszó
 
-19. Mezőzombor
+## 19. Mezőzombor
 
-20. Monok
+## 20. Monok
 
-21. Nagykinizs
+## 21. Nagykinizs
 
-22. Onga
+## 22. Onga
 
-23. Oszlár
+## 23. Oszlár
 
-24. Prügy
+## 24. Prügy
 
-25. Sajóörös
+## 25. Sajóörös
 
-26. Sajószöged
+## 26. Sajószöged
 
-27. Sóstófalva
+## 27. Sóstófalva
 
-28. Szentistvánbaksa
+## 28. Szentistvánbaksa
 
-29. Szerencs
+## 29. Szerencs
 
-30. Szikszó
+## 30. Szikszó
 
-31. Taktabáj
+## 31. Taktabáj
 
-32. Taktaharkány
+## 32. Taktaharkány
 
-33. Taktakenéz
+## 33. Taktakenéz
 
-34. Taktaszada
+## 34. Taktaszada
 
-35. Tarcal
+## 35. Tarcal
 
-36. Tiszaladány
+## 36. Tiszaladány
 
-37. Tiszalúc
+## 37. Tiszalúc
 
-38. Tiszapalkonya
+## 38. Tiszapalkonya
 
-39. Tiszatardos
+## 39. Tiszatardos
 
-40. Tiszaújváros
+## 40. Tiszaújváros
 
-41. Tokaj
+## 41. Tokaj
 
-42. Újcsanálos
+## 42. Újcsanálos
 
-07. számú országgyűlési egyéni választókerület
+## 07. számú országgyűlési egyéni választókerület
 
-Rövidítése: Borsod-Abaúj-Zemplén 07. OEVK
+## Rövidítése: Borsod-Abaúj-Zemplén 07. OEVK
 
-Székhelye: Mezőkövesd
+## Székhelye: Mezőkövesd
 
-Területe:
+## Területe:
 
-1. Ároktő
+## 1. Ároktő
 
-2. Berzék
+## 2. Berzék
 
-3. Bogács
+## 3. Bogács
 
-4. Borsodgeszt
+## 4. Borsodgeszt
 
-5. Borsodivánka
+## 5. Borsodivánka
 
-6. Bükkábrány
+## 6. Bükkábrány
 
-7. Bükkaranyos
+## 7. Bükkaranyos
 
-8. Bükkszentkereszt
+## 8. Bükkszentkereszt
 
-9. Bükkzsérc
+## 9. Bükkzsérc
 
-10. Cserépfalu
+## 10. Cserépfalu
 
-11. Cserépváralja
+## 11. Cserépváralja
 
-12. Csincse
+## 12. Csincse
 
-13. Egerlövő
+## 13. Egerlövő
 
-14. Emőd
+## 14. Emőd
 
-15. Gelej
+## 15. Gelej
 
-16. Harsány
+## 16. Harsány
 
-17. Hejőbába
+## 17. Hejőbába
 
-18. Hejőkeresztúr
+## 18. Hejőkeresztúr
 
-19. Hejőkürt
+## 19. Hejőkürt
 
-20. Hejőpapi
+## 20. Hejőpapi
 
-21. Hejőszalonta
+## 21. Hejőszalonta
 
-22. Igrici
+## 22. Igrici
 
-23. Kács
+## 23. Kács
 
-24. Kisgyőr
+## 24. Kisgyőr
 
-25. Kistokaj
+## 25. Kistokaj
 
-26. Köröm
+## 26. Köröm
 
-27. Mályi
+## 27. Mályi
 
-28. Mezőcsát
+## 28. Mezőcsát
 
-29. Mezőkeresztes
+## 29. Mezőkeresztes
 
-30. Mezőkövesd
+## 30. Mezőkövesd
 
-31. Mezőnagymihály
+## 31. Mezőnagymihály
 
-32. Mezőnyárád
+## 32. Mezőnyárád
 
-33. Muhi
+## 33. Muhi
 
-34. Nagycsécs
+## 34. Nagycsécs
 
-35. Négyes
+## 35. Négyes
 
-36. Nemesbikk
+## 36. Nemesbikk
 
-37. Nyékládháza
+## 37. Nyékládháza
 
-38. Ónod
+## 38. Ónod
 
-39. Répáshuta
+## 39. Répáshuta
 
-40. Sajóhidvég
+## 40. Sajóhidvég
 
-41. Sajólád
+## 41. Sajólád
 
-42. Sajópetri
+## 42. Sajópetri
 
-43. Sály
+## 43. Sály
 
-44. Szakáld
+## 44. Szakáld
 
-45. Szentistván
+## 45. Szentistván
 
-46. Szomolya
+## 46. Szomolya
 
-47. Tard
+## 47. Tard
 
-48. Tibolddaróc
+## 48. Tibolddaróc
 
-49. Tiszabábolna
+## 49. Tiszabábolna
 
-50. Tiszadorogma
+## 50. Tiszadorogma
 
-51. Tiszakeszi
+## 51. Tiszakeszi
 
-52. Tiszatarján
+## 52. Tiszatarján
 
-53. Tiszavalk
+## 53. Tiszavalk
 
-54. Vatta
+## 54. Vatta
 
-## Csongrád-Csanád vármegye
+## Csongrád-Csanád megye
 
 ## 01. számú országgyűlési egyéni választókerület
 
@@ -2266,7 +2266,7 @@ Területe:
 
 ## 21. Székkutas
 
-## Fejér vármegye
+## Fejér megye
 
 ## 01. számú országgyűlési egyéni választókerület
 
@@ -2526,1551 +2526,1551 @@ Területe:
 
 ## 35. Zichyújfalu
 
-Győr-Moson-Sopron vármegye
+## Győr-Moson-Sopron megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Győr-Moson-Sopron 01. OEVK
+## Rövidítése: Győr-Moson-Sopron 01. OEVK
 
-Székhelye: Győr
+## Székhelye: Győr
 
-Területe:
+## Területe:
 
-1. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## 1. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-2. Kisbajcs
+## 2. Kisbajcs
 
-3. Nagybajcs
+## 3. Nagybajcs
 
-4. Vének
+## 4. Vének
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Győr-Moson-Sopron 02. OEVK
+## Rövidítése: Győr-Moson-Sopron 02. OEVK
 
-Székhelye: Győr
+## Székhelye: Győr
 
-Területe:
+## Területe:
 
-1. Bakonygyirót
+## 1. Bakonygyirót
 
-2. Bakonypéterd
+## 2. Bakonypéterd
 
-3. Bakonyszentlászló
+## 3. Bakonyszentlászló
 
-4. Bőny
+## 4. Bőny
 
-5. Écs
+## 5. Écs
 
-6. Felpéc
+## 6. Felpéc
 
-7. Fenyőfő
+## 7. Fenyőfő
 
-8. Gyömöre
+## 8. Gyömöre
 
-9. Gönyű
+## 9. Gönyű
 
-10. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## 10. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-11. Győrasszonyfa
+## 11. Győrasszonyfa
 
-12. Győrság
+## 12. Győrság
 
-13. Győrújbarát
+## 13. Győrújbarát
 
-14. Kajárpéc
+## 14. Kajárpéc
 
-15. Lázi
+## 15. Lázi
 
-16. Mezőörs
+## 16. Mezőörs
 
-17. Nagyszentjános
+## 17. Nagyszentjános
 
-18. Nyalka
+## 18. Nyalka
 
-19. Nyúl
+## 19. Nyúl
 
-20. Pannonhalma
+## 20. Pannonhalma
 
-21. Pázmándfalu
+## 21. Pázmándfalu
 
-22. Pér
+## 22. Pér
 
-23. Ravazd
+## 23. Ravazd
 
-24. Rétalap
+## 24. Rétalap
 
-25. Románd
+## 25. Románd
 
-26. Sikátor
+## 26. Sikátor
 
-27. Sokorópátka
+## 27. Sokorópátka
 
-28. Táp
+## 28. Táp
 
-29. Tápszentmiklós
+## 29. Tápszentmiklós
 
-30. Tarjánpuszta
+## 30. Tarjánpuszta
 
-31. Tényő
+## 31. Tényő
 
-32. Töltéstava
+## 32. Töltéstava
 
-33. Szerecseny
+## 33. Szerecseny
 
-34. Veszprémvarsány
+## 34. Veszprémvarsány
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Győr-Moson-Sopron 03. OEVK
+## Rövidítése: Győr-Moson-Sopron 03. OEVK
 
-Székhelye: Csorna
+## Székhelye: Csorna
 
-Területe:
+## Területe:
 
-1. Acsalag
+## 1. Acsalag
 
-2. Agyagosszergény
+## 2. Agyagosszergény
 
-3. Árpás
+## 3. Árpás
 
-4. Babót
+## 4. Babót
 
-5. Bágyogszovát
+## 5. Bágyogszovát
 
-6. Barbacs
+## 6. Barbacs
 
-7. Beled
+## 7. Beled
 
-8. Bezi
+## 8. Bezi
 
-9. Bodonhely
+## 9. Bodonhely
 
-10. Bogyoszló
+## 10. Bogyoszló
 
-11. Bősárkány
+## 11. Bősárkány
 
-12. Cirák
+## 12. Cirák
 
-13. Csáfordjánosfa
+## 13. Csáfordjánosfa
 
-14. Csapod
+## 14. Csapod
 
-15. Csér
+## 15. Csér
 
-16. Csikvánd
+## 16. Csikvánd
 
-17. Csorna
+## 17. Csorna
 
-18. Dénesfa
+## 18. Dénesfa
 
-19. Dör
+## 19. Dör
 
-20. Edve
+## 20. Edve
 
-21. Egyed
+## 21. Egyed
 
-22. Enese
+## 22. Enese
 
-23. Farád
+## 23. Farád
 
-24. Fehértó
+## 24. Fehértó
 
-25. Fertőendréd
+## 25. Fertőendréd
 
-26. Gyarmat
+## 26. Gyarmat
 
-27. Gyóró
+## 27. Gyóró
 
-28. Győrsövényház
+## 28. Győrsövényház
 
-29. Győrszemere
+## 29. Győrszemere
 
-30. Himod
+## 30. Himod
 
-31. Hövej
+## 31. Hövej
 
-32. Ikrény
+## 32. Ikrény
 
-33. Iván
+## 33. Iván
 
-34. Jobaháza
+## 34. Jobaháza
 
-35. Kapuvár
+## 35. Kapuvár
 
-36. Kisbabot
+## 36. Kisbabot
 
-37. Kisfalud
+## 37. Kisfalud
 
-38. Koroncó
+## 38. Koroncó
 
-39. Kóny
+## 39. Kóny
 
-40. Maglóca
+## 40. Maglóca
 
-41. Magyarkeresztúr
+## 41. Magyarkeresztúr
 
-42. Markotabödöge
+## 42. Markotabödöge
 
-43. Mérges
+## 43. Mérges
 
-44. Mihályi
+## 44. Mihályi
 
-45. Mórichida
+## 45. Mórichida
 
-46. Osli
+## 46. Osli
 
-47. Páli
+## 47. Páli
 
-48. Pásztori
+## 48. Pásztori
 
-49. Potyond
+## 49. Potyond
 
-50. Pusztacsalád
+## 50. Pusztacsalád
 
-51. Rábacsanak
+## 51. Rábacsanak
 
-52. Rábacsécsény
+## 52. Rábacsécsény
 
-53. Rábakecöl
+## 53. Rábakecöl
 
-54. Rábapatona
+## 54. Rábapatona
 
-55. Rábapordány
+## 55. Rábapordány
 
-56. Rábasebes
+## 56. Rábasebes
 
-57. Rábaszentandrás
+## 57. Rábaszentandrás
 
-58. Rábaszentmihály
+## 58. Rábaszentmihály
 
-59. Rábaszentmiklós
+## 59. Rábaszentmiklós
 
-60. Rábatamási
+## 60. Rábatamási
 
-61. Répceszemere
+## 61. Répceszemere
 
-62. Sobor
+## 62. Sobor
 
-63. Sopronnémeti
+## 63. Sopronnémeti
 
-64. Szany
+## 64. Szany
 
-65. Szárföld
+## 65. Szárföld
 
-66. Szil
+## 66. Szil
 
-67. Szilsárkány
+## 67. Szilsárkány
 
-68. Tárnokréti
+## 68. Tárnokréti
 
-69. Tét
+## 69. Tét
 
-70. Vadosfa
+## 70. Vadosfa
 
-71. Vág
+## 71. Vág
 
-72. Vásárosfalu
+## 72. Vásárosfalu
 
-73. Veszkény
+## 73. Veszkény
 
-74. Vitnyéd
+## 74. Vitnyéd
 
-75. Zsebeháza
+## 75. Zsebeháza
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Győr-Moson-Sopron 04. OEVK
+## Rövidítése: Győr-Moson-Sopron 04. OEVK
 
-Székhelye: Sopron
+## Székhelye: Sopron
 
-Területe:
+## Területe:
 
-1. Ágfalva
+## 1. Ágfalva
 
-2. Ebergőc
+## 2. Ebergőc
 
-3. Egyházasfalu
+## 3. Egyházasfalu
 
-4. Fertőboz
+## 4. Fertőboz
 
-5. Fertőd
+## 5. Fertőd
 
-6. Fertőhomok
+## 6. Fertőhomok
 
-7. Fertőrákos
+## 7. Fertőrákos
 
-8. Fertőszentmiklós
+## 8. Fertőszentmiklós
 
-9. Fertőszéplak
+## 9. Fertőszéplak
 
-10. Gyalóka
+## 10. Gyalóka
 
-11. Harka
+## 11. Harka
 
-12. Hegykő
+## 12. Hegykő
 
-13. Hidegség
+## 13. Hidegség
 
-14. Kópháza
+## 14. Kópháza
 
-15. Lövő
+## 15. Lövő
 
-16. Nagycenk
+## 16. Nagycenk
 
-17. Nagylózs
+## 17. Nagylózs
 
-18. Nemeskér
+## 18. Nemeskér
 
-19. Pereszteg
+## 19. Pereszteg
 
-20. Petőháza
+## 20. Petőháza
 
-21. Pinnye
+## 21. Pinnye
 
-22. Répcevis
+## 22. Répcevis
 
-23. Röjtökmuzsaj
+## 23. Röjtökmuzsaj
 
-24. Sarród
+## 24. Sarród
 
-25. Sopron
+## 25. Sopron
 
-26. Sopronhorpács
+## 26. Sopronhorpács
 
-27. Sopronkövesd
+## 27. Sopronkövesd
 
-28. Szakony
+## 28. Szakony
 
-29. Und
+## 29. Und
 
-30. Újkér
+## 30. Újkér
 
-31. Völcsej
+## 31. Völcsej
 
-32. Zsira
+## 32. Zsira
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Győr-Moson-Sopron 05. OEVK
+## Rövidítése: Győr-Moson-Sopron 05. OEVK
 
-Székhelye: Mosonmagyaróvár
+## Székhelye: Mosonmagyaróvár
 
-Területe:
+## Területe:
 
-1. Abda
+## 1. Abda
 
-2. Ásványráró
+## 2. Ásványráró
 
-3. Bezenye
+## 3. Bezenye
 
-4. Börcs
+## 4. Börcs
 
-5. Cakóháza
+## 5. Cakóháza
 
-6. Darnózseli
+## 6. Darnózseli
 
-7. Dunakiliti
+## 7. Dunakiliti
 
-8. Dunaremete
+## 8. Dunaremete
 
-9. Dunaszeg
+## 9. Dunaszeg
 
-10. Dunaszentpál
+## 10. Dunaszentpál
 
-11. Dunasziget
+## 11. Dunasziget
 
-12. Feketeerdő
+## 12. Feketeerdő
 
-13. Győrladamér
+## 13. Győrladamér
 
-14. Győrújfalu
+## 14. Győrújfalu
 
-15. Győrzámoly
+## 15. Győrzámoly
 
-16. Halászi
+## 16. Halászi
 
-17. Hédervár
+## 17. Hédervár
 
-18. Hegyeshalom
+## 18. Hegyeshalom
 
-19. Jánossomorja
+## 19. Jánossomorja
 
-20. Károlyháza
+## 20. Károlyháza
 
-21. Kimle
+## 21. Kimle
 
-22. Kisbodak
+## 22. Kisbodak
 
-23. Kunsziget
+## 23. Kunsziget
 
-24. Lébény
+## 24. Lébény
 
-25. Levél
+## 25. Levél
 
-26. Lipót
+## 26. Lipót
 
-27. Máriakálnok
+## 27. Máriakálnok
 
-28. Mecsér
+## 28. Mecsér
 
-29. Mosonmagyaróvár
+## 29. Mosonmagyaróvár
 
-30. Mosonszentmiklós
+## 30. Mosonszentmiklós
 
-31. Mosonszolnok
+## 31. Mosonszolnok
 
-32. Mosonudvar
+## 32. Mosonudvar
 
-33. Öttevény
+## 33. Öttevény
 
-34. Püski
+## 34. Püski
 
-35. Rábcakapi
+## 35. Rábcakapi
 
-36. Rajka
+## 36. Rajka
 
-37. Újrónafő
+## 37. Újrónafő
 
-38. Vámosszabadi
+## 38. Vámosszabadi
 
-39. Várbalog
+## 39. Várbalog
 
-Hajdú-Bihar vármegye
+## Hajdú-Bihar megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 01. OEVK
+## Rövidítése: Hajdú-Bihar 01. OEVK
 
-Székhelye: Debrecen
+## Székhelye: Debrecen
 
-Területe:
+## Területe:
 
-Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (minden házszám) az Árpád térig, az Árpád tér (26-os házszámtól a házszámozás végéig), a Csapó utca páros oldala, a Piac utca (2-től 14-es házszámig) és a Kossuth tér (minden házszám), a Hatvan utca páratlan oldala, a Segner János tér (minden házszám), a Kishegyesi út páratlan oldala a Tócó csatornáig, a Tócó csatorna déli irányban a 4-es főútig, a 4-es főút középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (minden házszám) az Árpád térig, az Árpád tér (26-os házszámtól a házszámozás végéig), a Csapó utca páros oldala, a Piac utca (2-től 14-es házszámig) és a Kossuth tér (minden házszám), a Hatvan utca páratlan oldala, a Segner János tér (minden házszám), a Kishegyesi út páratlan oldala a Tócó csatornáig, a Tócó csatorna déli irányban a 4-es főútig, a 4-es főút középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 02. OEVK
+## Rövidítése: Hajdú-Bihar 02. OEVK
 
-Székhelye: Debrecen
+## Székhelye: Debrecen
 
-Területe:
+## Területe:
 
-Debrecen választókerülethez tartozó területének határvonala: Budapest felől a 4-es főút középvonala a városhatáron való belépési ponttól a Tócó csatornáig, a Tócó csatorna északi irányban a Kishegyesi útig, a Kishegyesi út páros oldala a Segner János térig, a Segner János tér (házszám nélkül), a Hatvan utca páros oldala, a Piac utca (1-től a 11-es házszámig), a Csapó utca páratlan oldala, a Rakovszky Dániel utca (1-től a 25-ös házszámig) az Ótemető utcáig, az Ótemető utca páratlan oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páratlan oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér déli oldala a Vámospércsi útig, a Vámospércsi út páratlan oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
+## Debrecen választókerülethez tartozó területének határvonala: Budapest felől a 4-es főút középvonala a városhatáron való belépési ponttól a Tócó csatornáig, a Tócó csatorna északi irányban a Kishegyesi útig, a Kishegyesi út páros oldala a Segner János térig, a Segner János tér (házszám nélkül), a Hatvan utca páros oldala, a Piac utca (1-től a 11-es házszámig), a Csapó utca páratlan oldala, a Rakovszky Dániel utca (1-től a 25-ös házszámig) az Ótemető utcáig, az Ótemető utca páratlan oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páratlan oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér déli oldala a Vámospércsi útig, a Vámospércsi út páratlan oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 03. OEVK
+## Rövidítése: Hajdú-Bihar 03. OEVK
 
-Székhelye: Debrecen
+## Székhelye: Debrecen
 
-Területe:
+## Területe:
 
-1. Álmosd
+## 1. Álmosd
 
-2. Bagamér
+## 2. Bagamér
 
-3. Bocskaikert
+## 3. Bocskaikert
 
-4. Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (házszám nélkül) az Árpád térig, az Árpád tér (1-től 25-ös házszámig), a Rakovszky Dániel utca páros oldala az Ótemető utcáig, az Ótemető utca páros oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páros oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér északi oldala a Vámospércsi útig, a Vámospércsi út páros oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
+## 4. Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (házszám nélkül) az Árpád térig, az Árpád tér (1-től 25-ös házszámig), a Rakovszky Dániel utca páros oldala az Ótemető utcáig, az Ótemető utca páros oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páros oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér északi oldala a Vámospércsi útig, a Vámospércsi út páros oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.
 
-5. Fülöp
+## 5. Fülöp
 
-6. Hajdúhadház
+## 6. Hajdúhadház
 
-7. Hajdúsámson
+## 7. Hajdúsámson
 
-8. Kokad
+## 8. Kokad
 
-9. Létavértes
+## 9. Létavértes
 
-10. Nyírábrány
+## 10. Nyírábrány
 
-11. Nyíracsád
+## 11. Nyíracsád
 
-12. Nyíradony
+## 12. Nyíradony
 
-13. Nyírmártonfalva
+## 13. Nyírmártonfalva
 
-14. Téglás
+## 14. Téglás
 
-15. Újléta
+## 15. Újléta
 
-16. Vámospércs
+## 16. Vámospércs
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 04. OEVK
+## Rövidítése: Hajdú-Bihar 04. OEVK
 
-Székhelye: Berettyóújfalu
+## Székhelye: Berettyóújfalu
 
-Területe:
+## Területe:
 
-1. Ártánd
+## 1. Ártánd
 
-2. Bakonszeg
+## 2. Bakonszeg
 
-3. Bedő
+## 3. Bedő
 
-4. Berekböszörmény
+## 4. Berekböszörmény
 
-5. Berettyóújfalu
+## 5. Berettyóújfalu
 
-6. Bihardancsháza
+## 6. Bihardancsháza
 
-7. Biharkeresztes
+## 7. Biharkeresztes
 
-8. Biharnagybajom
+## 8. Biharnagybajom
 
-9. Bihartorda
+## 9. Bihartorda
 
-10. Bojt
+## 10. Bojt
 
-11. Csökmő
+## 11. Csökmő
 
-12. Darvas
+## 12. Darvas
 
-13. Derecske
+## 13. Derecske
 
-14. Esztár
+## 14. Esztár
 
-15. Furta
+## 15. Furta
 
-16. Gáborján
+## 16. Gáborján
 
-17. Hajdúbagos
+## 17. Hajdúbagos
 
-18. Hencida
+## 18. Hencida
 
-19. Hosszúpályi
+## 19. Hosszúpályi
 
-20. Kismarja
+## 20. Kismarja
 
-21. Komádi
+## 21. Komádi
 
-22. Konyár
+## 22. Konyár
 
-23. Körösszakál
+## 23. Körösszakál
 
-24. Körösszegapáti
+## 24. Körösszegapáti
 
-25. Magyarhomorog
+## 25. Magyarhomorog
 
-26. Mezőpeterd
+## 26. Mezőpeterd
 
-27. Mikepércs
+## 27. Mikepércs
 
-28. Mezősas
+## 28. Mezősas
 
-29. Monostorpályi
+## 29. Monostorpályi
 
-30. Nagykereki
+## 30. Nagykereki
 
-31. Nagyrábé
+## 31. Nagyrábé
 
-32. Pocsaj
+## 32. Pocsaj
 
-33. Sáp
+## 33. Sáp
 
-34. Sáránd
+## 34. Sáránd
 
-35. Szentpéterszeg
+## 35. Szentpéterszeg
 
-36. Tépe
+## 36. Tépe
 
-37. Told
+## 37. Told
 
-38. Újiráz
+## 38. Újiráz
 
-39. Váncsod
+## 39. Váncsod
 
-40. Vekerd
+## 40. Vekerd
 
-41. Zsáka
+## 41. Zsáka
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 05. OEVK
+## Rövidítése: Hajdú-Bihar 05. OEVK
 
-Székhelye: Hajdúszoboszló
+## Székhelye: Hajdúszoboszló
 
-Területe:
+## Területe:
 
-1. Báránd
+## 1. Báránd
 
-2. Ebes
+## 2. Ebes
 
-3. Egyek
+## 3. Egyek
 
-4. Földes
+## 4. Földes
 
-5. Hajdúszoboszló
+## 5. Hajdúszoboszló
 
-6. Hajdúszovát
+## 6. Hajdúszovát
 
-7. Hortobágy
+## 7. Hortobágy
 
-8. Kaba
+## 8. Kaba
 
-9. Nádudvar
+## 9. Nádudvar
 
-10. Nagyhegyes
+## 10. Nagyhegyes
 
-11. Püspökladány
+## 11. Püspökladány
 
-12. Sárrétudvari
+## 12. Sárrétudvari
 
-13. Szerep
+## 13. Szerep
 
-14. Tetétlen
+## 14. Tetétlen
 
-15. Tiszacsege
+## 15. Tiszacsege
 
-06. számú országgyűlési egyéni választókerület
+## 06. számú országgyűlési egyéni választókerület
 
-Rövidítése: Hajdú-Bihar 06. OEVK
+## Rövidítése: Hajdú-Bihar 06. OEVK
 
-Székhelye: Hajdúböszörmény
+## Székhelye: Hajdúböszörmény
 
-Területe:
+## Területe:
 
-1. Balmazújváros
+## 1. Balmazújváros
 
-2. Folyás
+## 2. Folyás
 
-3. Görbeháza
+## 3. Görbeháza
 
-4. Hajdúböszörmény
+## 4. Hajdúböszörmény
 
-5. Hajdúdorog
+## 5. Hajdúdorog
 
-6. Hajdúnánás
+## 6. Hajdúnánás
 
-7. Polgár
+## 7. Polgár
 
-8. Tiszagyulaháza
+## 8. Tiszagyulaháza
 
-9. Újszentmargita
+## 9. Újszentmargita
 
-10. Újtikos
+## 10. Újtikos
 
-Heves vármegye
+## Heves megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Heves 01. OEVK
+## Rövidítése: Heves 01. OEVK
 
-Székhelye: Eger
+## Székhelye: Eger
 
-Területe:
+## Területe:
 
-1. Andornaktálya
+## 1. Andornaktálya
 
-2. Átány
+## 2. Átány
 
-3. Besenyőtelek
+## 3. Besenyőtelek
 
-4. Demjén
+## 4. Demjén
 
-5. Dormánd
+## 5. Dormánd
 
-6. Eger
+## 6. Eger
 
-7. Egerbakta
+## 7. Egerbakta
 
-8. Egerfarmos
+## 8. Egerfarmos
 
-9. Egerszalók
+## 9. Egerszalók
 
-10. Egerszólát
+## 10. Egerszólát
 
-11. Felsőtárkány
+## 11. Felsőtárkány
 
-12. Füzesabony
+## 12. Füzesabony
 
-13. Kerecsend
+## 13. Kerecsend
 
-14. Kömlő
+## 14. Kömlő
 
-15. Maklár
+## 15. Maklár
 
-16. Mezőszemere
+## 16. Mezőszemere
 
-17. Mezőtárkány
+## 17. Mezőtárkány
 
-18. Nagytálya
+## 18. Nagytálya
 
-19. Noszvaj
+## 19. Noszvaj
 
-20. Novaj
+## 20. Novaj
 
-21. Ostoros
+## 21. Ostoros
 
-22. Poroszló
+## 22. Poroszló
 
-23. Sarud
+## 23. Sarud
 
-24. Szarvaskő
+## 24. Szarvaskő
 
-25. Szihalom
+## 25. Szihalom
 
-26. Tiszanána
+## 26. Tiszanána
 
-27. Újlőrincfalva
+## 27. Újlőrincfalva
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Heves 02. OEVK
+## Rövidítése: Heves 02. OEVK
 
-Székhelye: Gyöngyös
+## Székhelye: Gyöngyös
 
-Területe:
+## Területe:
 
-1. Abasár
+## 1. Abasár
 
-2. Aldebrő
+## 2. Aldebrő
 
-3. Balaton
+## 3. Balaton
 
-4. Bátor
+## 4. Bátor
 
-5. Bekölce
+## 5. Bekölce
 
-6. Bélapátfalva
+## 6. Bélapátfalva
 
-7. Bodony
+## 7. Bodony
 
-8. Bükkszék
+## 8. Bükkszék
 
-9. Bükkszenterzsébet
+## 9. Bükkszenterzsébet
 
-10. Bükkszentmárton
+## 10. Bükkszentmárton
 
-11. Detk
+## 11. Detk
 
-12. Domoszló
+## 12. Domoszló
 
-13. Egerbocs
+## 13. Egerbocs
 
-14. Egercsehi
+## 14. Egercsehi
 
-15. Erdőkövesd
+## 15. Erdőkövesd
 
-16. Fedémes
+## 16. Fedémes
 
-17. Feldebrő
+## 17. Feldebrő
 
-18. Gyöngyös
+## 18. Gyöngyös
 
-19. Gyöngyösoroszi
+## 19. Gyöngyösoroszi
 
-20. Gyöngyöspata
+## 20. Gyöngyöspata
 
-21. Gyöngyössolymos
+## 21. Gyöngyössolymos
 
-22. Gyöngyöstarján
+## 22. Gyöngyöstarján
 
-23. Halmajugra
+## 23. Halmajugra
 
-24. Hevesaranyos
+## 24. Hevesaranyos
 
-25. Istenmezeje
+## 25. Istenmezeje
 
-26. Ivád
+## 26. Ivád
 
-27. Kál
+## 27. Kál
 
-28. Kápolna
+## 28. Kápolna
 
-29. Kisfüzes
+## 29. Kisfüzes
 
-30. Kisnána
+## 30. Kisnána
 
-31. Kompolt
+## 31. Kompolt
 
-32. Markaz
+## 32. Markaz
 
-33. Mátraballa
+## 33. Mátraballa
 
-34. Mátraderecske
+## 34. Mátraderecske
 
-35. Mátraszentimre
+## 35. Mátraszentimre
 
-36. Mikófalva
+## 36. Mikófalva
 
-37. Mónosbél
+## 37. Mónosbél
 
-38. Nagyvisnyó
+## 38. Nagyvisnyó
 
-39. Pálosvörösmart
+## 39. Pálosvörösmart
 
-40. Parád
+## 40. Parád
 
-41. Parádsasvár
+## 41. Parádsasvár
 
-42. Pétervására
+## 42. Pétervására
 
-43. Recsk
+## 43. Recsk
 
-44. Sirok
+## 44. Sirok
 
-45. Szajla
+## 45. Szajla
 
-46. Szentdomonkos
+## 46. Szentdomonkos
 
-47. Szilvásvárad
+## 47. Szilvásvárad
 
-48. Szúcs
+## 48. Szúcs
 
-49. Tarnalelesz
+## 49. Tarnalelesz
 
-50. Tarnaszentmária
+## 50. Tarnaszentmária
 
-51. Terpes
+## 51. Terpes
 
-52. Tófalu
+## 52. Tófalu
 
-53. Váraszó
+## 53. Váraszó
 
-54. Vécs
+## 54. Vécs
 
-55. Verpelét
+## 55. Verpelét
 
-56. Visonta
+## 56. Visonta
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Heves 03. OEVK
+## Rövidítése: Heves 03. OEVK
 
-Székhelye: Hatvan
+## Székhelye: Hatvan
 
-Területe:
+## Területe:
 
-1. Adács
+## 1. Adács
 
-2. Apc
+## 2. Apc
 
-3. Atkár
+## 3. Atkár
 
-4. Boconád
+## 4. Boconád
 
-5. Boldog
+## 5. Boldog
 
-6. Csány
+## 6. Csány
 
-7. Ecséd
+## 7. Ecséd
 
-8. Erdőtelek
+## 8. Erdőtelek
 
-9. Erk
+## 9. Erk
 
-10. Gyöngyöshalász
+## 10. Gyöngyöshalász
 
-11. Hatvan
+## 11. Hatvan
 
-12. Heréd
+## 12. Heréd
 
-13. Heves
+## 13. Heves
 
-14. Hevesvezekény
+## 14. Hevesvezekény
 
-15. Hort
+## 15. Hort
 
-16. Karácsond
+## 16. Karácsond
 
-17. Kerekharaszt
+## 17. Kerekharaszt
 
-18. Kisköre
+## 18. Kisköre
 
-19. Lőrinci
+## 19. Lőrinci
 
-20. Ludas
+## 20. Ludas
 
-21. Nagyfüged
+## 21. Nagyfüged
 
-22. Nagykökényes
+## 22. Nagykökényes
 
-23. Nagyréde
+## 23. Nagyréde
 
-24. Nagyút
+## 24. Nagyút
 
-25. Pély
+## 25. Pély
 
-26. Petőfibánya
+## 26. Petőfibánya
 
-27. Rózsaszentmárton
+## 27. Rózsaszentmárton
 
-28. Szűcsi
+## 28. Szűcsi
 
-29. Tarnabod
+## 29. Tarnabod
 
-30. Tarnaméra
+## 30. Tarnaméra
 
-31. Tarnaörs
+## 31. Tarnaörs
 
-32. Tarnaszentmiklós
+## 32. Tarnaszentmiklós
 
-33. Tarnazsadány
+## 33. Tarnazsadány
 
-34. Tenk
+## 34. Tenk
 
-35. Vámosgyörk
+## 35. Vámosgyörk
 
-36. Visznek
+## 36. Visznek
 
-37. Zagyvaszántó
+## 37. Zagyvaszántó
 
-38. Zaránk
+## 38. Zaránk
 
-Jász-Nagykun-Szolnok vármegye
+## Jász-Nagykun-Szolnok megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Jász-Nagykun-Szolnok 01. OEVK
+## Rövidítése: Jász-Nagykun-Szolnok 01. OEVK
 
-Székhelye: Szolnok
+## Székhelye: Szolnok
 
-Területe:
+## Területe:
 
-1. Besenyszög
+## 1. Besenyszög
 
-2. Csataszög
+## 2. Csataszög
 
-3. Hunyadfalva
+## 3. Hunyadfalva
 
-4. Kőtelek
+## 4. Kőtelek
 
-5. Nagykörű
+## 5. Nagykörű
 
-6. Rákóczifalva
+## 6. Rákóczifalva
 
-7. Rákócziújfalu
+## 7. Rákócziújfalu
 
-8. Szászberek
+## 8. Szászberek
 
-9. Szolnok
+## 9. Szolnok
 
-10. Tiszajenő
+## 10. Tiszajenő
 
-11. Tiszavárkony
+## 11. Tiszavárkony
 
-12. Tószeg
+## 12. Tószeg
 
-13. Vezseny
+## 13. Vezseny
 
-14. Zagyvarékas
+## 14. Zagyvarékas
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Jász-Nagykun-Szolnok 02. OEVK
+## Rövidítése: Jász-Nagykun-Szolnok 02. OEVK
 
-Székhelye: Jászberény
+## Székhelye: Jászberény
 
-Területe:
+## Területe:
 
-1. Alattyán
+## 1. Alattyán
 
-2. Jánoshida
+## 2. Jánoshida
 
-3. Jászágó
+## 3. Jászágó
 
-4. Jászalsószentgyörgy
+## 4. Jászalsószentgyörgy
 
-5. Jászapáti
+## 5. Jászapáti
 
-6. Jászárokszállás
+## 6. Jászárokszállás
 
-7. Jászberény
+## 7. Jászberény
 
-8. Jászboldogháza
+## 8. Jászboldogháza
 
-9. Jászdózsa
+## 9. Jászdózsa
 
-10. Jászfelsőszentgyörgy
+## 10. Jászfelsőszentgyörgy
 
-11. Jászfényszaru
+## 11. Jászfényszaru
 
-12. Jászivány
+## 12. Jászivány
 
-13. Jászjákóhalma
+## 13. Jászjákóhalma
 
-14. Jászkisér
+## 14. Jászkisér
 
-15. Jászladány
+## 15. Jászladány
 
-16. Jászszentandrás
+## 16. Jászszentandrás
 
-17. Jásztelek
+## 17. Jásztelek
 
-18. Pusztamonostor
+## 18. Pusztamonostor
 
-19. Tiszasüly
+## 19. Tiszasüly
 
-20. Újszász
+## 20. Újszász
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Jász-Nagykun-Szolnok 03. OEVK
+## Rövidítése: Jász-Nagykun-Szolnok 03. OEVK
 
-Székhelye: Karcag
+## Székhelye: Karcag
 
-Területe:
+## Területe:
 
-1. Abádszalók
+## 1. Abádszalók
 
-2. Berekfürdő
+## 2. Berekfürdő
 
-3. Fegyvernek
+## 3. Fegyvernek
 
-4. Karcag
+## 4. Karcag
 
-5. Kenderes
+## 5. Kenderes
 
-6. Kisújszállás
+## 6. Kisújszállás
 
-7. Kunhegyes
+## 7. Kunhegyes
 
-8. Kunmadaras
+## 8. Kunmadaras
 
-9. Nagyiván
+## 9. Nagyiván
 
-10. Tiszabő
+## 10. Tiszabő
 
-11. Tiszabura
+## 11. Tiszabura
 
-12. Tiszaderzs
+## 12. Tiszaderzs
 
-13. Tiszafüred
+## 13. Tiszafüred
 
-14. Tiszagyenda
+## 14. Tiszagyenda
 
-15. Tiszaigar
+## 15. Tiszaigar
 
-16. Tiszaörs
+## 16. Tiszaörs
 
-17. Tiszaroff
+## 17. Tiszaroff
 
-18. Tiszaszentimre
+## 18. Tiszaszentimre
 
-19. Tiszaszőlős
+## 19. Tiszaszőlős
 
-20. Tomajmonostora
+## 20. Tomajmonostora
 
-21. Túrkeve
+## 21. Túrkeve
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Jász-Nagykun-Szolnok 04. OEVK
+## Rövidítése: Jász-Nagykun-Szolnok 04. OEVK
 
-Székhelye: Törökszentmiklós
+## Székhelye: Törökszentmiklós
 
-Területe:
+## Területe:
 
-1. Cibakháza
+## 1. Cibakháza
 
-2. Csépa
+## 2. Csépa
 
-3. Cserkeszőlő
+## 3. Cserkeszőlő
 
-4. Kengyel
+## 4. Kengyel
 
-5. Kétpó
+## 5. Kétpó
 
-6. Kuncsorba
+## 6. Kuncsorba
 
-7. Kunszentmárton
+## 7. Kunszentmárton
 
-8. Martfű
+## 8. Martfű
 
-9. Mesterszállás
+## 9. Mesterszállás
 
-10. Mezőhék
+## 10. Mezőhék
 
-11. Mezőtúr
+## 11. Mezőtúr
 
-12. Nagyrév
+## 12. Nagyrév
 
-13. Öcsöd
+## 13. Öcsöd
 
-14. Örményes
+## 14. Örményes
 
-15. Szajol
+## 15. Szajol
 
-16. Szelevény
+## 16. Szelevény
 
-17. Tiszaföldvár
+## 17. Tiszaföldvár
 
-18. Tiszainoka
+## 18. Tiszainoka
 
-19. Tiszakürt
+## 19. Tiszakürt
 
-20. Tiszapüspöki
+## 20. Tiszapüspöki
 
-21. Tiszasas
+## 21. Tiszasas
 
-22. Tiszatenyő
+## 22. Tiszatenyő
 
-23. Törökszentmiklós
+## 23. Törökszentmiklós
 
-Komárom-Esztergom vármegye
+## Komárom-Esztergom megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Komárom-Esztergom 01. OEVK
+## Rövidítése: Komárom-Esztergom 01. OEVK
 
-Székhelye: Tatabánya
+## Székhelye: Tatabánya
 
-1. Területe:
+## 1. Területe:
 
-2. Baj
+## 2. Baj
 
-3. Szárliget
+## 3. Szárliget
 
-4. Tata
+## 4. Tata
 
-5. Tatabánya
+## 5. Tatabánya
 
-6. Vértesszőlős
+## 6. Vértesszőlős
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Komárom-Esztergom 02. OEVK
+## Rövidítése: Komárom-Esztergom 02. OEVK
 
-Székhelye: Esztergom
+## Székhelye: Esztergom
 
-Területe:
+## Területe:
 
-1. Annavölgy
+## 1. Annavölgy
 
-2. Bajna
+## 2. Bajna
 
-3. Bajót
+## 3. Bajót
 
-4. Csolnok
+## 4. Csolnok
 
-5. Dág
+## 5. Dág
 
-6. Dorog
+## 6. Dorog
 
-7. Dömös
+## 7. Dömös
 
-8. Epöl
+## 8. Epöl
 
-9. Esztergom
+## 9. Esztergom
 
-10. Gyermely
+## 10. Gyermely
 
-11. Héreg
+## 11. Héreg
 
-12. Kesztölc
+## 12. Kesztölc
 
-13. Lábatlan
+## 13. Lábatlan
 
-14. Leányvár
+## 14. Leányvár
 
-15. Máriahalom
+## 15. Máriahalom
 
-16. Mogyorósbánya
+## 16. Mogyorósbánya
 
-17. Nagysáp
+## 17. Nagysáp
 
-18. Nyergesújfalu
+## 18. Nyergesújfalu
 
-19. Piliscsév
+## 19. Piliscsév
 
-20. Pilismarót
+## 20. Pilismarót
 
-21. Sárisáp
+## 21. Sárisáp
 
-22. Süttő
+## 22. Süttő
 
-23. Szomor
+## 23. Szomor
 
-24. Tardos
+## 24. Tardos
 
-25. Tarján
+## 25. Tarján
 
-26. Tát
+## 26. Tát
 
-27. Tokod
+## 27. Tokod
 
-28. Tokodaltáró
+## 28. Tokodaltáró
 
-29. Úny
+## 29. Úny
 
-30. Vértestolna
+## 30. Vértestolna
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Komárom-Esztergom 03. OEVK
+## Rövidítése: Komárom-Esztergom 03. OEVK
 
-Székhelye: Komárom
+## Székhelye: Komárom
 
-Területe:
+## Területe:
 
-1. Ács
+## 1. Ács
 
-2. Ácsteszér
+## 2. Ácsteszér
 
-3. Aka
+## 3. Aka
 
-4. Almásfüzitő
+## 4. Almásfüzitő
 
-5. Ászár
+## 5. Ászár
 
-6. Bábolna
+## 6. Bábolna
 
-7. Bakonybánk
+## 7. Bakonybánk
 
-8. Bakonysárkány
+## 8. Bakonysárkány
 
-9. Bakonyszombathely
+## 9. Bakonyszombathely
 
-10. Bana
+## 10. Bana
 
-11. Bársonyos
+## 11. Bársonyos
 
-12. Bokod
+## 12. Bokod
 
-13. Császár
+## 13. Császár
 
-14. Csatka
+## 14. Csatka
 
-15. Csém
+## 15. Csém
 
-16. Csép
+## 16. Csép
 
-17. Dad
+## 17. Dad
 
-18. Dunaalmás
+## 18. Dunaalmás
 
-19. Dunaszentmiklós
+## 19. Dunaszentmiklós
 
-20. Ete
+## 20. Ete
 
-21. Kecskéd
+## 21. Kecskéd
 
-22. Kerékteleki
+## 22. Kerékteleki
 
-23. Kisbér
+## 23. Kisbér
 
-24. Kisigmánd
+## 24. Kisigmánd
 
-25. Kocs
+## 25. Kocs
 
-26. Komárom
+## 26. Komárom
 
-27. Kömlőd
+## 27. Kömlőd
 
-28. Környe
+## 28. Környe
 
-29. Mocsa
+## 29. Mocsa
 
-30. Nagyigmánd
+## 30. Nagyigmánd
 
-31. Naszály
+## 31. Naszály
 
-32. Neszmély
+## 32. Neszmély
 
-33. Oroszlány
+## 33. Oroszlány
 
-34. Réde
+## 34. Réde
 
-35. Súr
+## 35. Súr
 
-36. Szákszend
+## 36. Szákszend
 
-37. Szomód
+## 37. Szomód
 
-38. Tárkány
+## 38. Tárkány
 
-39. Várgesztes
+## 39. Várgesztes
 
-40. Vérteskethely
+## 40. Vérteskethely
 
-41. Vértessomló
+## 41. Vértessomló
 
-Nógrád vármegye
+## Nógrád megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Nógrád 01. OEVK
+## Rövidítése: Nógrád 01. OEVK
 
-Székhelye: Salgótarján
+## Székhelye: Salgótarján
 
-Területe:
+## Területe:
 
-1. Alsótold
+## 1. Alsótold
 
-2. Bárna
+## 2. Bárna
 
-3. Bátonyterenye
+## 3. Bátonyterenye
 
-4. Bokor
+## 4. Bokor
 
-5. Buják
+## 5. Buják
 
-6. Cered
+## 6. Cered
 
-7. Csécse
+## 7. Csécse
 
-8. Cserhátszentiván
+## 8. Cserhátszentiván
 
-9. Dorogháza
+## 9. Dorogháza
 
-10. Ecseg
+## 10. Ecseg
 
-11. Egyházasdengeleg
+## 11. Egyházasdengeleg
 
-12. Felsőtold
+## 12. Felsőtold
 
-13. Garáb
+## 13. Garáb
 
-14. Héhalom
+## 14. Héhalom
 
-15. Hollókő
+## 15. Hollókő
 
-16. Jobbágyi
+## 16. Jobbágyi
 
-17. Kazár
+## 17. Kazár
 
-18. Kisbágyon
+## 18. Kisbágyon
 
-19. Kisbárkány
+## 19. Kisbárkány
 
-20. Kishartyán
+## 20. Kishartyán
 
-21. Kozárd
+## 21. Kozárd
 
-22. Kutasó
+## 22. Kutasó
 
-23. Lucfalva
+## 23. Lucfalva
 
-24. Márkháza
+## 24. Márkháza
 
-25. Mátramindszent
+## 25. Mátramindszent
 
-26. Mátranovák
+## 26. Mátranovák
 
-27. Mátraszele
+## 27. Mátraszele
 
-28. Mátraszőlős
+## 28. Mátraszőlős
 
-29. Mátraterenye
+## 29. Mátraterenye
 
-30. Mátraverebély
+## 30. Mátraverebély
 
-31. Nagybárkány
+## 31. Nagybárkány
 
-32. Nagykeresztúr
+## 32. Nagykeresztúr
 
-33. Nemti
+## 33. Nemti
 
-34. Palotás
+## 34. Palotás
 
-35. Pásztó
+## 35. Pásztó
 
-36. Rákóczibánya
+## 36. Rákóczibánya
 
-37. Salgótarján
+## 37. Salgótarján
 
-38. Sámsonháza
+## 38. Sámsonháza
 
-39. Somoskőújfalu
+## 39. Somoskőújfalu
 
-40. Sóshartyán
+## 40. Sóshartyán
 
-41. Szarvasgede
+## 41. Szarvasgede
 
-42. Szilaspogony
+## 42. Szilaspogony
 
-43. Szuha
+## 43. Szuha
 
-44. Szurdokpüspöki
+## 44. Szurdokpüspöki
 
-45. Tar
+## 45. Tar
 
-46. Vizslás
+## 46. Vizslás
 
-47. Zabar
+## 47. Zabar
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Nógrád 02. OEVK
+## Rövidítése: Nógrád 02. OEVK
 
-Székhelye: Balassagyarmat
+## Székhelye: Balassagyarmat
 
-Területe:
+## Területe:
 
-1. Alsópetény
+## 1. Alsópetény
 
-2. Balassagyarmat
+## 2. Balassagyarmat
 
-3. Bánk
+## 3. Bánk
 
-4. Becske
+## 4. Becske
 
-5. Bér
+## 5. Bér
 
-6. Bercel
+## 6. Bercel
 
-7. Berkenye
+## 7. Berkenye
 
-8. Borsosberény
+## 8. Borsosberény
 
-9. Cserháthaláp
+## 9. Cserháthaláp
 
-10. Cserhátsurány
+## 10. Cserhátsurány
 
-11. Csesztve
+## 11. Csesztve
 
-12. Csitár
+## 12. Csitár
 
-13. Debercsény
+## 13. Debercsény
 
-14. Dejtár
+## 14. Dejtár
 
-15. Diósjenő
+## 15. Diósjenő
 
-16. Drégelypalánk
+## 16. Drégelypalánk
 
-17. Egyházasgerge
+## 17. Egyházasgerge
 
-18. Endrefalva
+## 18. Endrefalva
 
-19. Erdőkürt
+## 19. Erdőkürt
 
-20. Erdőtarcsa
+## 20. Erdőtarcsa
 
-21. Érsekvadkert
+## 21. Érsekvadkert
 
-22. Etes
+## 22. Etes
 
-23. Felsőpetény
+## 23. Felsőpetény
 
-24. Galgaguta
+## 24. Galgaguta
 
-25. Herencsény
+## 25. Herencsény
 
-26. Hont
+## 26. Hont
 
-27. Horpács
+## 27. Horpács
 
-28. Hugyag
+## 28. Hugyag
 
-29. Iliny
+## 29. Iliny
 
-30. Ipolyszög
+## 30. Ipolyszög
 
-31. Ipolytarnóc
+## 31. Ipolytarnóc
 
-32. Ipolyvece
+## 32. Ipolyvece
 
-33. Kálló
+## 33. Kálló
 
-34. Karancsalja
+## 34. Karancsalja
 
-35. Karancsberény
+## 35. Karancsberény
 
-36. Karancskeszi
+## 36. Karancskeszi
 
-37. Karancslapujtő
+## 37. Karancslapujtő
 
-38. Karancsság
+## 38. Karancsság
 
-39. Keszeg
+## 39. Keszeg
 
-40. Kétbodony
+## 40. Kétbodony
 
-41. Kisecset
+## 41. Kisecset
 
-42. Legénd
+## 42. Legénd
 
-43. Litke
+## 43. Litke
 
-44. Ludányhalászi
+## 44. Ludányhalászi
 
-45. Magyargéc
+## 45. Magyargéc
 
-46. Magyarnándor
+## 46. Magyarnándor
 
-47. Mihálygerge
+## 47. Mihálygerge
 
-48. Mohora
+## 48. Mohora
 
-49. Nagylóc
+## 49. Nagylóc
 
-50. Nagyoroszi
+## 50. Nagyoroszi
 
-51. Nézsa
+## 51. Nézsa
 
-52. Nógrád
+## 52. Nógrád
 
-53. Nógrádkövesd
+## 53. Nógrádkövesd
 
-54. Nógrádmarcal
+## 54. Nógrádmarcal
 
-55. Nógrádmegyer
+## 55. Nógrádmegyer
 
-56. Nógrádsáp
+## 56. Nógrádsáp
 
-57. Nógrádsipek
+## 57. Nógrádsipek
 
-58. Nógrádszakál
+## 58. Nógrádszakál
 
-59. Nőtincs
+## 59. Nőtincs
 
-60. Őrhalom
+## 60. Őrhalom
 
-61. Ősagárd
+## 61. Ősagárd
 
-62. Patak
+## 62. Patak
 
-63. Patvarc
+## 63. Patvarc
 
-64. Piliny
+## 64. Piliny
 
-65. Pusztaberki
+## 65. Pusztaberki
 
-66. Rétság
+## 66. Rétság
 
-67. Rimóc
+## 67. Rimóc
 
-68. Romhány
+## 68. Romhány
 
-69. Ságújfalu
+## 69. Ságújfalu
 
-70. Szalmatercs
+## 70. Szalmatercs
 
-71. Szanda
+## 71. Szanda
 
-72. Szátok
+## 72. Szátok
 
-73. Szécsénke
+## 73. Szécsénke
 
-74. Szécsény
+## 74. Szécsény
 
-75. Szécsényfelfalu
+## 75. Szécsényfelfalu
 
-76. Szendehely
+## 76. Szendehely
 
-77. Szente
+## 77. Szente
 
-78. Szirák
+## 78. Szirák
 
-79. Szügy
+## 79. Szügy
 
-80. Terény
+## 80. Terény
 
-81. Tereske
+## 81. Tereske
 
-82. Tolmács
+## 82. Tolmács
 
-83. Vanyarc
+## 83. Vanyarc
 
-84. Varsány
+## 84. Varsány
 
-## Pest vármegye
+## Pest megye
 
 ## 01. számú országgyűlési egyéni választókerület
 
@@ -4558,2750 +4558,2750 @@ Területe:
 
 ## 10. Újszilvás
 
-Somogy vármegye
+## Somogy megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Somogy 01. OEVK
+## Rövidítése: Somogy 01. OEVK
 
-Székhelye: Kaposvár
+## Székhelye: Kaposvár
 
-Területe:
+## Területe:
 
-1. Bőszénfa
+## 1. Bőszénfa
 
-2. Cserénfa
+## 2. Cserénfa
 
-3. Csoma
+## 3. Csoma
 
-4. Gálosfa
+## 4. Gálosfa
 
-5. Hajmás
+## 5. Hajmás
 
-6. Juta
+## 6. Juta
 
-7. Kaposgyarmat
+## 7. Kaposgyarmat
 
-8. Kaposhomok
+## 8. Kaposhomok
 
-9. Kaposkeresztúr
+## 9. Kaposkeresztúr
 
-10. Kaposmérő
+## 10. Kaposmérő
 
-11. Kaposújlak
+## 11. Kaposújlak
 
-12. Kaposszerdahely
+## 12. Kaposszerdahely
 
-13. Kaposvár
+## 13. Kaposvár
 
-14. Kercseliget
+## 14. Kercseliget
 
-15. Mosdós
+## 15. Mosdós
 
-16. Nagyberki
+## 16. Nagyberki
 
-17. Patca
+## 17. Patca
 
-18. Sántos
+## 18. Sántos
 
-19. Simonfa
+## 19. Simonfa
 
-20. Szabadi
+## 20. Szabadi
 
-21. Szenna
+## 21. Szenna
 
-22. Szentbalázs
+## 22. Szentbalázs
 
-23. Szilvásszentmárton
+## 23. Szilvásszentmárton
 
-24. Zselickisfalud
+## 24. Zselickisfalud
 
-25. Zselickislak
+## 25. Zselickislak
 
-26. Zselicszentpál
+## 26. Zselicszentpál
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Somogy 02. OEVK
+## Rövidítése: Somogy 02. OEVK
 
-Székhelye: Barcs
+## Székhelye: Barcs
 
-Területe:
+## Területe:
 
-1. Babócsa
+## 1. Babócsa
 
-2. Bakháza
+## 2. Bakháza
 
-3. Barcs
+## 3. Barcs
 
-4. Bárdudvarnok
+## 4. Bárdudvarnok
 
-5. Bélavár
+## 5. Bélavár
 
-6. Beleg
+## 6. Beleg
 
-7. Berzence
+## 7. Berzence
 
-8. Bolhás
+## 8. Bolhás
 
-9. Bolhó
+## 9. Bolhó
 
-10. Csokonyavisonta
+## 10. Csokonyavisonta
 
-11. Csököly
+## 11. Csököly
 
-12. Csurgó
+## 12. Csurgó
 
-13. Csurgónagymarton
+## 13. Csurgónagymarton
 
-14. Darány
+## 14. Darány
 
-15. Drávagárdony
+## 15. Drávagárdony
 
-16. Drávatamási
+## 16. Drávatamási
 
-17. Gige
+## 17. Gige
 
-18. Görgeteg
+## 18. Görgeteg
 
-19. Gyékényes
+## 19. Gyékényes
 
-20. Háromfa
+## 20. Háromfa
 
-21. Hedrehely
+## 21. Hedrehely
 
-22. Hencse
+## 22. Hencse
 
-23. Heresznye
+## 23. Heresznye
 
-24. Homokszentgyörgy
+## 24. Homokszentgyörgy
 
-25. Iharos
+## 25. Iharos
 
-26. Iharosberény
+## 26. Iharosberény
 
-27. Inke
+## 27. Inke
 
-28. Istvándi
+## 28. Istvándi
 
-29. Jákó
+## 29. Jákó
 
-30. Kadarkút
+## 30. Kadarkút
 
-31. Kálmáncsa
+## 31. Kálmáncsa
 
-32. Kaposfő
+## 32. Kaposfő
 
-33. Kastélyosdombó
+## 33. Kastélyosdombó
 
-34. Kaszó
+## 34. Kaszó
 
-35. Kisasszond
+## 35. Kisasszond
 
-36. Kisbajom
+## 36. Kisbajom
 
-37. Kiskorpád
+## 37. Kiskorpád
 
-38. Komlósd
+## 38. Komlósd
 
-39. Kőkút
+## 39. Kőkút
 
-40. Kutas
+## 40. Kutas
 
-41. Lábod
+## 41. Lábod
 
-42. Lad
+## 42. Lad
 
-43. Lakócsa
+## 43. Lakócsa
 
-44. Mike
+## 44. Mike
 
-45. Nagyatád
+## 45. Nagyatád
 
-46. Nagykorpád
+## 46. Nagykorpád
 
-47. Őrtilos
+## 47. Őrtilos
 
-48. Ötvöskónyi
+## 48. Ötvöskónyi
 
-49. Patosfa
+## 49. Patosfa
 
-50. Péterhida
+## 50. Péterhida
 
-51. Pogányszentpéter
+## 51. Pogányszentpéter
 
-52. Porrog
+## 52. Porrog
 
-53. Porrogszentkirály
+## 53. Porrogszentkirály
 
-54. Porrogszentpál
+## 54. Porrogszentpál
 
-55. Potony
+## 55. Potony
 
-56. Rinyabesenyő
+## 56. Rinyabesenyő
 
-57. Rinyakovácsi
+## 57. Rinyakovácsi
 
-58. Rinyaszentkirály
+## 58. Rinyaszentkirály
 
-59. Rinyaújlak
+## 59. Rinyaújlak
 
-60. Rinyaújnép
+## 60. Rinyaújnép
 
-61. Segesd
+## 61. Segesd
 
-62. Somogyaracs
+## 62. Somogyaracs
 
-63. Somogybükkösd
+## 63. Somogybükkösd
 
-64. Somogycsicsó
+## 64. Somogycsicsó
 
-65. Somogyszob
+## 65. Somogyszob
 
-66. Somogyudvarhely
+## 66. Somogyudvarhely
 
-67. Szabás
+## 67. Szabás
 
-68. Szenta
+## 68. Szenta
 
-69. Szentborbás
+## 69. Szentborbás
 
-70. Szulok
+## 70. Szulok
 
-71. Tarany
+## 71. Tarany
 
-72. Tótújfalu
+## 72. Tótújfalu
 
-73. Vése
+## 73. Vése
 
-74. Visnye
+## 74. Visnye
 
-75. Vízvár
+## 75. Vízvár
 
-76. Zákány
+## 76. Zákány
 
-77. Zákányfalu
+## 77. Zákányfalu
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Somogy 03. OEVK
+## Rövidítése: Somogy 03. OEVK
 
-Székhelye: Marcali
+## Székhelye: Marcali
 
-Területe:
+## Területe:
 
-1. Alsóbogát
+## 1. Alsóbogát
 
-2. Balatonberény
+## 2. Balatonberény
 
-3. Balatonboglár
+## 3. Balatonboglár
 
-4. Balatonfenyves
+## 4. Balatonfenyves
 
-5. Balatonkeresztúr
+## 5. Balatonkeresztúr
 
-6. Balatonlelle
+## 6. Balatonlelle
 
-7. Balatonmáriafürdő
+## 7. Balatonmáriafürdő
 
-8. Balatonszentgyörgy
+## 8. Balatonszentgyörgy
 
-9. Balatonújlak
+## 9. Balatonújlak
 
-10. Bodrog
+## 10. Bodrog
 
-11. Böhönye
+## 11. Böhönye
 
-12. Buzsák
+## 12. Buzsák
 
-13. Csákány
+## 13. Csákány
 
-14. Csombárd
+## 14. Csombárd
 
-15. Csömend
+## 15. Csömend
 
-16. Edde
+## 16. Edde
 
-17. Fonyód
+## 17. Fonyód
 
-18. Főnyed
+## 18. Főnyed
 
-19. Gadány
+## 19. Gadány
 
-20. Gamás
+## 20. Gamás
 
-21. Gyugy
+## 21. Gyugy
 
-22. Hács
+## 22. Hács
 
-23. Hetes
+## 23. Hetes
 
-24. Hollád
+## 24. Hollád
 
-25. Hosszúvíz
+## 25. Hosszúvíz
 
-26. Kelevíz
+## 26. Kelevíz
 
-27. Kéthely
+## 27. Kéthely
 
-28. Kisberény
+## 28. Kisberény
 
-29. Látrány
+## 29. Látrány
 
-30. Lengyeltóti
+## 30. Lengyeltóti
 
-31. Libickozma
+## 31. Libickozma
 
-32. Magyaregres
+## 32. Magyaregres
 
-33. Marcali
+## 33. Marcali
 
-34. Mesztegnyő
+## 34. Mesztegnyő
 
-35. Mezőcsokonya
+## 35. Mezőcsokonya
 
-36. Nagybajom
+## 36. Nagybajom
 
-37. Nagyszakácsi
+## 37. Nagyszakácsi
 
-38. Nemesdéd
+## 38. Nemesdéd
 
-39. Nemeskisfalud
+## 39. Nemeskisfalud
 
-40. Nemesvid
+## 40. Nemesvid
 
-41. Nikla
+## 41. Nikla
 
-42. Ordacsehi
+## 42. Ordacsehi
 
-43. Osztopán
+## 43. Osztopán
 
-44. Öreglak
+## 44. Öreglak
 
-45. Pálmajor
+## 45. Pálmajor
 
-46. Pamuk
+## 46. Pamuk
 
-47. Polány
+## 47. Polány
 
-48. Pusztakovácsi
+## 48. Pusztakovácsi
 
-49. Sávoly
+## 49. Sávoly
 
-50. Somogyaszaló
+## 50. Somogyaszaló
 
-51. Somogyfajsz
+## 51. Somogyfajsz
 
-52. Somogygeszti
+## 52. Somogygeszti
 
-53. Somogyjád
+## 53. Somogyjád
 
-54. Somogysámson
+## 54. Somogysámson
 
-55. Somogysárd
+## 55. Somogysárd
 
-56. Somogysimonyi
+## 56. Somogysimonyi
 
-57. Somogyszentpál
+## 57. Somogyszentpál
 
-58. Somogytúr
+## 58. Somogytúr
 
-59. Somogyvámos
+## 59. Somogyvámos
 
-60. Somogyvár
+## 60. Somogyvár
 
-61. Somogyzsitfa
+## 61. Somogyzsitfa
 
-62. Szegerdő
+## 62. Szegerdő
 
-63. Szenyér
+## 63. Szenyér
 
-64. Szőkedencs
+## 64. Szőkedencs
 
-65. Szőlősgyörök
+## 65. Szőlősgyörök
 
-66. Tapsony
+## 66. Tapsony
 
-67. Táska
+## 67. Táska
 
-68. Tikos
+## 68. Tikos
 
-69. Újvárfalva
+## 69. Újvárfalva
 
-70. Varászló
+## 70. Varászló
 
-71. Várda
+## 71. Várda
 
-72. Vörs
+## 72. Vörs
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Somogy 04. OEVK
+## Rövidítése: Somogy 04. OEVK
 
-Székhelye: Siófok
+## Székhelye: Siófok
 
-Területe:
+## Területe:
 
-1. Ádánd
+## 1. Ádánd
 
-2. Andocs
+## 2. Andocs
 
-3. Bábonymegyer
+## 3. Bábonymegyer
 
-4. Balatonendréd
+## 4. Balatonendréd
 
-5. Balatonföldvár
+## 5. Balatonföldvár
 
-6. Balatonőszöd
+## 6. Balatonőszöd
 
-7. Balatonszabadi
+## 7. Balatonszabadi
 
-8. Balatonszárszó
+## 8. Balatonszárszó
 
-9. Balatonszemes
+## 9. Balatonszemes
 
-9a. Balatonvilágos
+## 9a. Balatonvilágos
 
-10. Bálványos
+## 10. Bálványos
 
-11. Baté
+## 11. Baté
 
-12. Bedegkér
+## 12. Bedegkér
 
-13. Bonnya
+## 13. Bonnya
 
-14. Büssü
+## 14. Büssü
 
-15. Ecseny
+## 15. Ecseny
 
-16. Felsőmocsolád
+## 16. Felsőmocsolád
 
-17. Fiad
+## 17. Fiad
 
-18. Fonó
+## 18. Fonó
 
-19. Gadács
+## 19. Gadács
 
-20. Gölle
+## 20. Gölle
 
-21. Igal
+## 21. Igal
 
-22. Kánya
+## 22. Kánya
 
-23. Kapoly
+## 23. Kapoly
 
-24. Kára
+## 24. Kára
 
-25. Karád
+## 25. Karád
 
-26. Kazsok
+## 26. Kazsok
 
-27. Kereki
+## 27. Kereki
 
-28. Kisbárapáti
+## 28. Kisbárapáti
 
-29. Kisgyalán
+## 29. Kisgyalán
 
-30. Kőröshegy
+## 30. Kőröshegy
 
-31. Kötcse
+## 31. Kötcse
 
-32. Lulla
+## 32. Lulla
 
-33. Magyaratád
+## 33. Magyaratád
 
-34. Mernye
+## 34. Mernye
 
-35. Miklósi
+## 35. Miklósi
 
-36. Nágocs
+## 36. Nágocs
 
-37. Nagyberény
+## 37. Nagyberény
 
-38. Nagycsepely
+## 38. Nagycsepely
 
-39. Nyim
+## 39. Nyim
 
-40. Orci
+## 40. Orci
 
-41. Patalom
+## 41. Patalom
 
-42. Pusztaszemes
+## 42. Pusztaszemes
 
-43. Ráksi
+## 43. Ráksi
 
-44. Ságvár
+## 44. Ságvár
 
-45. Sérsekszőlős
+## 45. Sérsekszőlős
 
-46. Siófok
+## 46. Siófok
 
-47. Siójut
+## 47. Siójut
 
-48. Som
+## 48. Som
 
-49. Somodor
+## 49. Somodor
 
-50. Somogyacsa
+## 50. Somogyacsa
 
-51. Somogybabod
+## 51. Somogybabod
 
-52. Somogydöröcske
+## 52. Somogydöröcske
 
-53. Somogyegres
+## 53. Somogyegres
 
-54. Somogymeggyes
+## 54. Somogymeggyes
 
-55. Somogyszil
+## 55. Somogyszil
 
-56. Szántód
+## 56. Szántód
 
-57. Szentgáloskér
+## 57. Szentgáloskér
 
-58. Szólád
+## 58. Szólád
 
-59. Szorosad
+## 59. Szorosad
 
-60. Tab
+## 60. Tab
 
-61. Taszár
+## 61. Taszár
 
-62. Teleki
+## 62. Teleki
 
-63. Tengőd
+## 63. Tengőd
 
-64. Torvaj
+## 64. Torvaj
 
-65. Törökkoppány
+## 65. Törökkoppány
 
-66. Visz
+## 66. Visz
 
-67. Zala
+## 67. Zala
 
-68. Zamárdi
+## 68. Zamárdi
 
-69. Zics
+## 69. Zics
 
-70. Zimány
+## 70. Zimány
 
-Szabolcs-Szatmár-Bereg vármegye
+## Szabolcs-Szatmár-Bereg megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 01. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 01. OEVK
 
-Székhelye: Nyíregyháza
+## Székhelye: Nyíregyháza
 
-Területe:
+## Területe:
 
-Nyíregyháza választókerülethez tartozó részének határa: A Buj felől érkező vasútvonal városhatáron való belépési pontjától a vasútvonal a Kótaji útig, a Kótaji út páratlan oldala a Stadion utcáig, a Vasvári Pál utca páratlan oldala az Északi körútig, az Északi körút (mindkét oldala) a Rákóczi útig, a Mező utca páratlan oldala a Bethlen Gábor utcáig, a Bethlen Gábor utca páros oldala a vasútvonalig, a Nagykálló felé haladó vasútvonal a városhatáron való kilépéséig, a városhatár az óramutató járásával ellenkező irányban a Buj felől érkező vasútvonal városhatáron való belépési pontjáig terjedő szakaszok által körbezárt terület.
+## Nyíregyháza választókerülethez tartozó részének határa: A Buj felől érkező vasútvonal városhatáron való belépési pontjától a vasútvonal a Kótaji útig, a Kótaji út páratlan oldala a Stadion utcáig, a Vasvári Pál utca páratlan oldala az Északi körútig, az Északi körút (mindkét oldala) a Rákóczi útig, a Mező utca páratlan oldala a Bethlen Gábor utcáig, a Bethlen Gábor utca páros oldala a vasútvonalig, a Nagykálló felé haladó vasútvonal a városhatáron való kilépéséig, a városhatár az óramutató járásával ellenkező irányban a Buj felől érkező vasútvonal városhatáron való belépési pontjáig terjedő szakaszok által körbezárt terület.
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 02. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 02. OEVK
 
-Székhelye: Nyíregyháza
+## Székhelye: Nyíregyháza
 
-Területe:
+## Területe:
 
-1. Balsa
+## 1. Balsa
 
-2. Buj
+## 2. Buj
 
-3. Gávavencsellő
+## 3. Gávavencsellő
 
-4. Ibrány
+## 4. Ibrány
 
-5. Kálmánháza
+## 5. Kálmánháza
 
-6. Kótaj
+## 6. Kótaj
 
-7. Nagycserkesz
+## 7. Nagycserkesz
 
-8. Nyíregyháza választókerülethez tartozó részének határa: A Buj felől érkező vasútvonal városhatáron való belépési pontjától a vasútvonal a Kótaji útig, a Kótaji út páros oldala a Stadion utcáig, a Vasvári Pál utca páros oldala az Északi körútig, az Északi körút (házszámok nélkül) a Rákóczi útig, a Mező utca páros oldala a Bethlen Gábor utcáig, a Bethlen Gábor utca páratlan oldala a vasútvonalig, a Nagykálló felé haladó vasútvonal a városhatáron való kilépéséig, a városhatár az óramutató járásával megegyező irányban a Buj felől érkező vasútvonal városhatáron való belépési pontjáig terjedő szakaszok által körbezárt terület.
+## 8. Nyíregyháza választókerülethez tartozó részének határa: A Buj felől érkező vasútvonal városhatáron való belépési pontjától a vasútvonal a Kótaji útig, a Kótaji út páros oldala a Stadion utcáig, a Vasvári Pál utca páros oldala az Északi körútig, az Északi körút (házszámok nélkül) a Rákóczi útig, a Mező utca páros oldala a Bethlen Gábor utcáig, a Bethlen Gábor utca páratlan oldala a vasútvonalig, a Nagykálló felé haladó vasútvonal a városhatáron való kilépéséig, a városhatár az óramutató járásával megegyező irányban a Buj felől érkező vasútvonal városhatáron való belépési pontjáig terjedő szakaszok által körbezárt terület.
 
-9. Nyírtelek
+## 9. Nyírtelek
 
-10. Paszab
+## 10. Paszab
 
-11. Rakamaz
+## 11. Rakamaz
 
-12. Szabolcs
+## 12. Szabolcs
 
-13. Szorgalmatos
+## 13. Szorgalmatos
 
-14. Timár
+## 14. Timár
 
-15. Tiszabercel
+## 15. Tiszabercel
 
-16. Tiszadada
+## 16. Tiszadada
 
-17. Tiszadob
+## 17. Tiszadob
 
-18. Tiszaeszlár
+## 18. Tiszaeszlár
 
-19. Tiszalök
+## 19. Tiszalök
 
-20. Tiszanagyfalu
+## 20. Tiszanagyfalu
 
-21. Tiszavasvári
+## 21. Tiszavasvári
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 03. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 03. OEVK
 
-Székhelye: Kisvárda
+## Székhelye: Kisvárda
 
-Területe:
+## Területe:
 
-1. Ajak
+## 1. Ajak
 
-2. Anarcs
+## 2. Anarcs
 
-3. Berkesz
+## 3. Berkesz
 
-4. Beszterec
+## 4. Beszterec
 
-5. Demecser
+## 5. Demecser
 
-6. Dombrád
+## 6. Dombrád
 
-7. Döge
+## 7. Döge
 
-8. Fényeslitke
+## 8. Fényeslitke
 
-9. Gégény
+## 9. Gégény
 
-10. Gemzse
+## 10. Gemzse
 
-11. Gyulaháza
+## 11. Gyulaháza
 
-12. Jéke
+## 12. Jéke
 
-13. Kék
+## 13. Kék
 
-14. Kékcse
+## 14. Kékcse
 
-15. Kemecse
+## 15. Kemecse
 
-16. Kisvárda
+## 16. Kisvárda
 
-17. Komoró
+## 17. Komoró
 
-18. Lövőpetri
+## 18. Lövőpetri
 
-19. Mezőladány
+## 19. Mezőladány
 
-20. Nagyhalász
+## 20. Nagyhalász
 
-21. Napkor
+## 21. Napkor
 
-22. Nyírbogdány
+## 22. Nyírbogdány
 
-23. Nyíribrony
+## 23. Nyíribrony
 
-24. Nyírlövő
+## 24. Nyírlövő
 
-25. Nyírpazony
+## 25. Nyírpazony
 
-26. Nyírtass
+## 26. Nyírtass
 
-27. Nyírtét
+## 27. Nyírtét
 
-28. Nyírtura
+## 28. Nyírtura
 
-29. Pap
+## 29. Pap
 
-30. Pátroha
+## 30. Pátroha
 
-31. Ramocsaháza
+## 31. Ramocsaháza
 
-32. Rétközberencs
+## 32. Rétközberencs
 
-33. Sényő
+## 33. Sényő
 
-34. Szabolcsbáka
+## 34. Szabolcsbáka
 
-35. Szabolcsveresmart
+## 35. Szabolcsveresmart
 
-36. Székely
+## 36. Székely
 
-37. Tiszakanyár
+## 37. Tiszakanyár
 
-38. Tiszarád
+## 38. Tiszarád
 
-39. Tiszatelek
+## 39. Tiszatelek
 
-40. Tornyospálca
+## 40. Tornyospálca
 
-41. Újdombrád
+## 41. Újdombrád
 
-42. Újkenéz
+## 42. Újkenéz
 
-43. Vasmegyer
+## 43. Vasmegyer
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 04. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 04. OEVK
 
-Székhelye: Vásárosnamény
+## Székhelye: Vásárosnamény
 
-Területe:
+## Területe:
 
-1. Aranyosapáti
+## 1. Aranyosapáti
 
-2. Barabás
+## 2. Barabás
 
-3. Benk
+## 3. Benk
 
-4. Beregdaróc
+## 4. Beregdaróc
 
-5. Beregsurány
+## 5. Beregsurány
 
-6. Botpalád
+## 6. Botpalád
 
-7. Cégénydányád
+## 7. Cégénydányád
 
-8. Csaholc
+## 8. Csaholc
 
-9. Csaroda
+## 9. Csaroda
 
-10. Császló
+## 10. Császló
 
-11. Csegöld
+## 11. Csegöld
 
-12. Darnó
+## 12. Darnó
 
-13. Eperjeske
+## 13. Eperjeske
 
-14. Fehérgyarmat
+## 14. Fehérgyarmat
 
-15. Fülesd
+## 15. Fülesd
 
-16. Gacsály
+## 16. Gacsály
 
-17. Garbolc
+## 17. Garbolc
 
-18. Gelénes
+## 18. Gelénes
 
-19. Gulács
+## 19. Gulács
 
-20. Győröcske
+## 20. Győröcske
 
-21. Gyügye
+## 21. Gyügye
 
-22. Gyüre
+## 22. Gyüre
 
-23. Hermánszeg
+## 23. Hermánszeg
 
-24. Hetefejércse
+## 24. Hetefejércse
 
-25. Ilk
+## 25. Ilk
 
-26. Jánd
+## 26. Jánd
 
-27. Jánkmajtis
+## 27. Jánkmajtis
 
-28. Kérsemjén
+## 28. Kérsemjén
 
-29. Kisar
+## 29. Kisar
 
-30. Kishódos
+## 30. Kishódos
 
-31. Kisnamény
+## 31. Kisnamény
 
-32. Kispalád
+## 32. Kispalád
 
-33. Kisvarsány
+## 33. Kisvarsány
 
-34. Kisszekeres
+## 34. Kisszekeres
 
-35. Kölcse
+## 35. Kölcse
 
-36. Kömörő
+## 36. Kömörő
 
-37. Lónya
+## 37. Lónya
 
-38. Magosliget
+## 38. Magosliget
 
-39. Mánd
+## 39. Mánd
 
-40. Mándok
+## 40. Mándok
 
-41. Márokpapi
+## 41. Márokpapi
 
-42. Mátyus
+## 42. Mátyus
 
-43. Méhtelek
+## 43. Méhtelek
 
-44. Milota
+## 44. Milota
 
-45. Nábrád
+## 45. Nábrád
 
-46. Nagyar
+## 46. Nagyar
 
-47. Nagydobos
+## 47. Nagydobos
 
-48. Nagyhódos
+## 48. Nagyhódos
 
-49. Nagyszekeres
+## 49. Nagyszekeres
 
-50. Nagyvarsány
+## 50. Nagyvarsány
 
-51. Nemesborzova
+## 51. Nemesborzova
 
-52. Olcsva
+## 52. Olcsva
 
-53. Olcsvaapáti
+## 53. Olcsvaapáti
 
-54. Panyola
+## 54. Panyola
 
-55. Penyige
+## 55. Penyige
 
-56. Rozsály
+## 56. Rozsály
 
-57. Sonkád
+## 57. Sonkád
 
-58. Szamoskér
+## 58. Szamoskér
 
-59. Szamossályi
+## 59. Szamossályi
 
-60. Szamosújlak
+## 60. Szamosújlak
 
-61. Szamosszeg
+## 61. Szamosszeg
 
-62. Szatmárcseke
+## 62. Szatmárcseke
 
-63. Tákos
+## 63. Tákos
 
-64. Tarpa
+## 64. Tarpa
 
-65. Tiszaadony
+## 65. Tiszaadony
 
-66. Tiszabecs
+## 66. Tiszabecs
 
-67. Tiszabezdéd
+## 67. Tiszabezdéd
 
-68. Tiszacsécse
+## 68. Tiszacsécse
 
-69. Tiszakerecseny
+## 69. Tiszakerecseny
 
-70. Tiszakóród
+## 70. Tiszakóród
 
-71. Tiszamogyorós
+## 71. Tiszamogyorós
 
-72. Tiszaszalka
+## 72. Tiszaszalka
 
-73. Tiszaszentmárton
+## 73. Tiszaszentmárton
 
-74. Tiszavid
+## 74. Tiszavid
 
-75. Tisztaberek
+## 75. Tisztaberek
 
-76. Tivadar
+## 76. Tivadar
 
-77. Tunyogmatolcs
+## 77. Tunyogmatolcs
 
-78. Túristvándi
+## 78. Túristvándi
 
-79. Túrricse
+## 79. Túrricse
 
-80. Tuzsér
+## 80. Tuzsér
 
-81. Uszka
+## 81. Uszka
 
-82. Vámosatya
+## 82. Vámosatya
 
-83. Vámosoroszi
+## 83. Vámosoroszi
 
-84. Vásárosnamény
+## 84. Vásárosnamény
 
-85. Záhony
+## 85. Záhony
 
-86. Zajta
+## 86. Zajta
 
-87. Zsarolyán
+## 87. Zsarolyán
 
-88. Zsurk
+## 88. Zsurk
 
-05. számú országgyűlési egyéni választókerület
+## 05. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 05. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 05. OEVK
 
-Székhelye: Mátészalka
+## Székhelye: Mátészalka
 
-Területe:
+## Területe:
 
-1. Apagy
+## 1. Apagy
 
-2. Baktalórántháza
+## 2. Baktalórántháza
 
-3. Besenyőd
+## 3. Besenyőd
 
-4. Csenger
+## 4. Csenger
 
-5. Csengersima
+## 5. Csengersima
 
-6. Csengerújfalu
+## 6. Csengerújfalu
 
-7. Fülpösdaróc
+## 7. Fülpösdaróc
 
-8. Géberjén
+## 8. Géberjén
 
-9. Győrtelek
+## 9. Győrtelek
 
-10. Hodász
+## 10. Hodász
 
-11. Jármi
+## 11. Jármi
 
-12. Kántorjánosi
+## 12. Kántorjánosi
 
-13. Kocsord
+## 13. Kocsord
 
-14. Komlódtótfalu
+## 14. Komlódtótfalu
 
-15. Laskod
+## 15. Laskod
 
-16. Levelek
+## 16. Levelek
 
-17. Magy
+## 17. Magy
 
-18. Mátészalka
+## 18. Mátészalka
 
-19. Nagyecsed
+## 19. Nagyecsed
 
-20. Nyírcsaholy
+## 20. Nyírcsaholy
 
-21. Nyírjákó
+## 21. Nyírjákó
 
-22. Nyírkarász
+## 22. Nyírkarász
 
-23. Nyírkércs
+## 23. Nyírkércs
 
-24. Nyírmada
+## 24. Nyírmada
 
-25. Nyírmeggyes
+## 25. Nyírmeggyes
 
-26. Nyírparasznya
+## 26. Nyírparasznya
 
-27. Ófehértó
+## 27. Ófehértó
 
-28. Ópályi
+## 28. Ópályi
 
-29. Ököritófülpös
+## 29. Ököritófülpös
 
-30. Őr
+## 30. Őr
 
-31. Papos
+## 31. Papos
 
-32. Pátyod
+## 32. Pátyod
 
-33. Petneháza
+## 33. Petneháza
 
-34. Porcsalma
+## 34. Porcsalma
 
-35. Pusztadobos
+## 35. Pusztadobos
 
-36. Rápolt
+## 36. Rápolt
 
-37. Rohod
+## 37. Rohod
 
-38. Szamosangyalos
+## 38. Szamosangyalos
 
-39. Szamosbecs
+## 39. Szamosbecs
 
-40. Szamostatárfalva
+## 40. Szamostatárfalva
 
-41. Tiborszállás
+## 41. Tiborszállás
 
-42. Tyukod
+## 42. Tyukod
 
-43. Ura
+## 43. Ura
 
-44. Vaja
+## 44. Vaja
 
-06. számú országgyűlési egyéni választókerület
+## 06. számú országgyűlési egyéni választókerület
 
-Rövidítése: Szabolcs-Szatmár-Bereg 06. OEVK
+## Rövidítése: Szabolcs-Szatmár-Bereg 06. OEVK
 
-Székhelye: Nyírbátor
+## Székhelye: Nyírbátor
 
-Területe:
+## Területe:
 
-1. Balkány
+## 1. Balkány
 
-2. Bátorliget
+## 2. Bátorliget
 
-3. Biri
+## 3. Biri
 
-4. Bököny
+## 4. Bököny
 
-5. Encsencs
+## 5. Encsencs
 
-6. Érpatak
+## 6. Érpatak
 
-7. Fábiánháza
+## 7. Fábiánháza
 
-8. Geszteréd
+## 8. Geszteréd
 
-9. Kállósemjén
+## 9. Kállósemjén
 
-10. Kisléta
+## 10. Kisléta
 
-11. Máriapócs
+## 11. Máriapócs
 
-12. Mérk
+## 12. Mérk
 
-13. Nagykálló
+## 13. Nagykálló
 
-14. Nyírbátor
+## 14. Nyírbátor
 
-15. Nyírbéltek
+## 15. Nyírbéltek
 
-16. Nyírbogát
+## 16. Nyírbogát
 
-17. Nyírcsászári
+## 17. Nyírcsászári
 
-18. Nyírderzs
+## 18. Nyírderzs
 
-19. Nyírgelse
+## 19. Nyírgelse
 
-20. Nyírgyulaj
+## 20. Nyírgyulaj
 
-21. Nyírkáta
+## 21. Nyírkáta
 
-22. Nyírlugos
+## 22. Nyírlugos
 
-23. Nyírmihálydi
+## 23. Nyírmihálydi
 
-24. Nyírpilis
+## 24. Nyírpilis
 
-25. Nyírvasvári
+## 25. Nyírvasvári
 
-26. Ömböly
+## 26. Ömböly
 
-27. Penészlek
+## 27. Penészlek
 
-28. Piricse
+## 28. Piricse
 
-29. Pócspetri
+## 29. Pócspetri
 
-30. Szakoly
+## 30. Szakoly
 
-31. Terem
+## 31. Terem
 
-32. Újfehértó
+## 32. Újfehértó
 
-33. Vállaj
+## 33. Vállaj
 
-Tolna vármegye
+## Tolna megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Tolna 01. OEVK
+## Rövidítése: Tolna 01. OEVK
 
-Székhelye: Szekszárd
+## Székhelye: Szekszárd
 
-Területe:
+## Területe:
 
-1. Alsónyék
+## 1. Alsónyék
 
-2. Báta
+## 2. Báta
 
-3. Bátaszék
+## 3. Bátaszék
 
-4. Bogyiszló
+## 4. Bogyiszló
 
-5. Decs
+## 5. Decs
 
-6. Fácánkert
+## 6. Fácánkert
 
-7. Fadd
+## 7. Fadd
 
-8. Medina
+## 8. Medina
 
-9. Őcsény
+## 9. Őcsény
 
-10. Pörböly
+## 10. Pörböly
 
-11. Sárpilis
+## 11. Sárpilis
 
-12. Sióagárd
+## 12. Sióagárd
 
-13. Szedres
+## 13. Szedres
 
-14. Szekszárd
+## 14. Szekszárd
 
-15. Tengelic
+## 15. Tengelic
 
-16. Tolna
+## 16. Tolna
 
-17. Várdomb
+## 17. Várdomb
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Tolna 02. OEVK
+## Rövidítése: Tolna 02. OEVK
 
-Székhelye: Dombóvár
+## Székhelye: Dombóvár
 
-Területe:
+## Területe:
 
-1. Alsónána
+## 1. Alsónána
 
-2. Aparhant
+## 2. Aparhant
 
-3. Attala
+## 3. Attala
 
-4. Bátaapáti
+## 4. Bátaapáti
 
-5. Bonyhád
+## 5. Bonyhád
 
-6. Bonyhádvarasd
+## 6. Bonyhádvarasd
 
-7. Cikó
+## 7. Cikó
 
-8. Csibrák
+## 8. Csibrák
 
-9. Csikóstőttős
+## 9. Csikóstőttős
 
-10. Dalmand
+## 10. Dalmand
 
-11. Diósberény
+## 11. Diósberény
 
-12. Dombóvár
+## 12. Dombóvár
 
-13. Döbrököz
+## 13. Döbrököz
 
-14. Dúzs
+## 14. Dúzs
 
-15. Értény
+## 15. Értény
 
-16. Felsőnána
+## 16. Felsőnána
 
-17. Grábóc
+## 17. Grábóc
 
-18. Györe
+## 18. Györe
 
-19. Gyulaj
+## 19. Gyulaj
 
-20. Harc
+## 20. Harc
 
-21. Hőgyész
+## 21. Hőgyész
 
-22. Izmény
+## 22. Izmény
 
-23. Jágónak
+## 23. Jágónak
 
-24. Kakasd
+## 24. Kakasd
 
-25. Kalaznó
+## 25. Kalaznó
 
-26. Kapospula
+## 26. Kapospula
 
-27. Kaposszekcső
+## 27. Kaposszekcső
 
-28. Kéty
+## 28. Kéty
 
-29. Kisdorog
+## 29. Kisdorog
 
-30. Kismányok
+## 30. Kismányok
 
-31. Kistormás
+## 31. Kistormás
 
-32. Kisvejke
+## 32. Kisvejke
 
-33. Kocsola
+## 33. Kocsola
 
-34. Koppányszántó
+## 34. Koppányszántó
 
-35. Kölesd
+## 35. Kölesd
 
-36. Kurd
+## 36. Kurd
 
-37. Lápafő
+## 37. Lápafő
 
-38. Lengyel
+## 38. Lengyel
 
-39. Mórágy
+## 39. Mórágy
 
-40. Mőcsény
+## 40. Mőcsény
 
-41. Mucsfa
+## 41. Mucsfa
 
-42. Mucsi
+## 42. Mucsi
 
-43. Murga
+## 43. Murga
 
-44. Nagykónyi
+## 44. Nagykónyi
 
-45. Nagymányok
+## 45. Nagymányok
 
-46. Nagyvejke
+## 46. Nagyvejke
 
-47. Nak
+## 47. Nak
 
-48. Szakadát
+## 48. Szakadát
 
-49. Szakály
+## 49. Szakály
 
-50. Szakcs
+## 50. Szakcs
 
-51. Szálka
+## 51. Szálka
 
-52. Tevel
+## 52. Tevel
 
-53. Újireg
+## 53. Újireg
 
-54. Váralja
+## 54. Váralja
 
-55. Várong
+## 55. Várong
 
-56. Varsád
+## 56. Varsád
 
-57. Závod
+## 57. Závod
 
-58. Zomba
+## 58. Zomba
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Tolna 03. OEVK
+## Rövidítése: Tolna 03. OEVK
 
-Székhelye: Paks
+## Székhelye: Paks
 
-Területe:
+## Területe:
 
-1. Belecska
+## 1. Belecska
 
-2. Bikács
+## 2. Bikács
 
-3. Bölcske
+## 3. Bölcske
 
-4. Dunaföldvár
+## 4. Dunaföldvár
 
-5. Dunaszentgyörgy
+## 5. Dunaszentgyörgy
 
-6. Felsőnyék
+## 6. Felsőnyék
 
-7. Fürged
+## 7. Fürged
 
-8. Gerjen
+## 8. Gerjen
 
-9. Gyönk
+## 9. Gyönk
 
-10. Györköny
+## 10. Györköny
 
-11. Iregszemcse
+## 11. Iregszemcse
 
-12. Kajdacs
+## 12. Kajdacs
 
-13. Keszőhidegkút
+## 13. Keszőhidegkút
 
-14. Kisszékely
+## 14. Kisszékely
 
-15. Madocsa
+## 15. Madocsa
 
-16. Magyarkeszi
+## 16. Magyarkeszi
 
-17. Miszla
+## 17. Miszla
 
-18. Nagydorog
+## 18. Nagydorog
 
-19. Nagyszékely
+## 19. Nagyszékely
 
-20. Nagyszokoly
+## 20. Nagyszokoly
 
-21. Németkér
+## 21. Németkér
 
-22. Ozora
+## 22. Ozora
 
-23. Paks
+## 23. Paks
 
-24. Pálfa
+## 24. Pálfa
 
-25. Pári
+## 25. Pári
 
-26. Pincehely
+## 26. Pincehely
 
-27. Pusztahencse
+## 27. Pusztahencse
 
-28. Regöly
+## 28. Regöly
 
-29. Sárszentlőrinc
+## 29. Sárszentlőrinc
 
-30. Simontornya
+## 30. Simontornya
 
-31. Szárazd
+## 31. Szárazd
 
-32. Tamási
+## 32. Tamási
 
-33. Tolnanémedi
+## 33. Tolnanémedi
 
-34. Udvari
+## 34. Udvari
 
-Vas vármegye
+## Vas megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Vas 01. OEVK
+## Rövidítése: Vas 01. OEVK
 
-Székhelye: Szombathely
+## Székhelye: Szombathely
 
-Területe:
+## Területe:
 
-1. Balogunyom
+## 1. Balogunyom
 
-2. Bucsu
+## 2. Bucsu
 
-3. Dozmat
+## 3. Dozmat
 
-4. Felsőcsatár
+## 4. Felsőcsatár
 
-5. Horvátlövő
+## 5. Horvátlövő
 
-6. Nárai
+## 6. Nárai
 
-7. Narda
+## 7. Narda
 
-8. Pornóapáti
+## 8. Pornóapáti
 
-9. Sé
+## 9. Sé
 
-10. Szombathely
+## 10. Szombathely
 
-11. Torony
+## 11. Torony
 
-12. Vaskeresztes
+## 12. Vaskeresztes
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Vas 02. OEVK
+## Rövidítése: Vas 02. OEVK
 
-Székhelye: Sárvár
+## Székhelye: Sárvár
 
-Területe:
+## Területe:
 
-1. Acsád
+## 1. Acsád
 
-2. Bozzai
+## 2. Bozzai
 
-3. Bozsok
+## 3. Bozsok
 
-4. Bő
+## 4. Bő
 
-5. Bögöt
+## 5. Bögöt
 
-6. Bük
+## 6. Bük
 
-7. Cák
+## 7. Cák
 
-8. Celldömölk
+## 8. Celldömölk
 
-9. Chernelházadamonya
+## 9. Chernelházadamonya
 
-10. Csánig
+## 10. Csánig
 
-11. Csénye
+## 11. Csénye
 
-12. Csepreg
+## 12. Csepreg
 
-13. Csönge
+## 13. Csönge
 
-14. Gencsapáti
+## 14. Gencsapáti
 
-15. Gór
+## 15. Gór
 
-16. Gyöngyösfalu
+## 16. Gyöngyösfalu
 
-17. Hegyfalu
+## 17. Hegyfalu
 
-18. Horvátzsidány
+## 18. Horvátzsidány
 
-19. Iklanberény
+## 19. Iklanberény
 
-20. Jákfa
+## 20. Jákfa
 
-21. Kemenesmagasi
+## 21. Kemenesmagasi
 
-22. Kemenesmihályfa
+## 22. Kemenesmihályfa
 
-23. Kemenessömjén
+## 23. Kemenessömjén
 
-24. Kemenesszentmárton
+## 24. Kemenesszentmárton
 
-25. Kenyeri
+## 25. Kenyeri
 
-26. Kiszsidány
+## 26. Kiszsidány
 
-27. Kőszeg
+## 27. Kőszeg
 
-28. Kőszegdoroszló
+## 28. Kőszegdoroszló
 
-29. Kőszegpaty
+## 29. Kőszegpaty
 
-30. Kőszegszerdahely
+## 30. Kőszegszerdahely
 
-31. Lócs
+## 31. Lócs
 
-32. Lukácsháza
+## 32. Lukácsháza
 
-33. Mersevát
+## 33. Mersevát
 
-34. Mesterháza
+## 34. Mesterháza
 
-35. Mesteri
+## 35. Mesteri
 
-36. Meszlen
+## 36. Meszlen
 
-37. Nagygeresd
+## 37. Nagygeresd
 
-38. Nagysimonyi
+## 38. Nagysimonyi
 
-39. Nemesbőd
+## 39. Nemesbőd
 
-40. Nemescsó
+## 40. Nemescsó
 
-41. Nemesládony
+## 41. Nemesládony
 
-42. Nick
+## 42. Nick
 
-43. Ólmod
+## 43. Ólmod
 
-44. Ostffyasszonyfa
+## 44. Ostffyasszonyfa
 
-45. Ölbő
+## 45. Ölbő
 
-46. Pápoc
+## 46. Pápoc
 
-47. Perenye
+## 47. Perenye
 
-48. Peresznye
+## 48. Peresznye
 
-49. Porpác
+## 49. Porpác
 
-50. Pósfa
+## 50. Pósfa
 
-51. Pusztacsó
+## 51. Pusztacsó
 
-52. Rábapaty
+## 52. Rábapaty
 
-53. Répcelak
+## 53. Répcelak
 
-54. Répceszentgyörgy
+## 54. Répceszentgyörgy
 
-55. Sajtoskál
+## 55. Sajtoskál
 
-56. Salköveskút
+## 56. Salköveskút
 
-57. Sárvár
+## 57. Sárvár
 
-58. Simaság
+## 58. Simaság
 
-59. Sitke
+## 59. Sitke
 
-60. Söpte
+## 60. Söpte
 
-61. Szeleste
+## 61. Szeleste
 
-62. Szergény
+## 62. Szergény
 
-63. Tokorcs
+## 63. Tokorcs
 
-64. Tompaládony
+## 64. Tompaládony
 
-65. Tormásliget
+## 65. Tormásliget
 
-66. Tömörd
+## 66. Tömörd
 
-67. Uraiújfalu
+## 67. Uraiújfalu
 
-68. Vámoscsalád
+## 68. Vámoscsalád
 
-69. Vasasszonyfa
+## 69. Vasasszonyfa
 
-70. Vasegerszeg
+## 70. Vasegerszeg
 
-71. Vassurány
+## 71. Vassurány
 
-72. Vasszilvágy
+## 72. Vasszilvágy
 
-73. Vát
+## 73. Vát
 
-74. Velem
+## 74. Velem
 
-75. Vép
+## 75. Vép
 
-76. Vönöck
+## 76. Vönöck
 
-77. Zsédeny
+## 77. Zsédeny
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Vas 03. OEVK
+## Rövidítése: Vas 03. OEVK
 
-Székhelye: Körmend
+## Székhelye: Körmend
 
-Területe:
+## Területe:
 
-1. Alsószölnök
+## 1. Alsószölnök
 
-2. Alsóújlak
+## 2. Alsóújlak
 
-3. Andrásfa
+## 3. Andrásfa
 
-4. Apátistvánfalva
+## 4. Apátistvánfalva
 
-5. Bajánsenye
+## 5. Bajánsenye
 
-6. Bejcgyertyános
+## 6. Bejcgyertyános
 
-7. Bérbaltavár
+## 7. Bérbaltavár
 
-8. Boba
+## 8. Boba
 
-9. Borgáta
+## 9. Borgáta
 
-10. Bögöte
+## 10. Bögöte
 
-11. Csákánydoroszló
+## 11. Csákánydoroszló
 
-12. Csehi
+## 12. Csehi
 
-13. Csehimindszent
+## 13. Csehimindszent
 
-14. Csempeszkopács
+## 14. Csempeszkopács
 
-15. Csipkerek
+## 15. Csipkerek
 
-16. Csörötnek
+## 16. Csörötnek
 
-17. Daraboshegy
+## 17. Daraboshegy
 
-18. Döbörhegy
+## 18. Döbörhegy
 
-19. Döröske
+## 19. Döröske
 
-20. Duka
+## 20. Duka
 
-21. Egervölgy
+## 21. Egervölgy
 
-22. Egyházashetye
+## 22. Egyházashetye
 
-23. Egyházashollós
+## 23. Egyházashollós
 
-24. Egyházasrádóc
+## 24. Egyházasrádóc
 
-25. Felsőjánosfa
+## 25. Felsőjánosfa
 
-26. Felsőmarác
+## 26. Felsőmarác
 
-27. Felsőszölnök
+## 27. Felsőszölnök
 
-28. Gasztony
+## 28. Gasztony
 
-29. Gérce
+## 29. Gérce
 
-30. Gersekarát
+## 30. Gersekarát
 
-31. Gyanógeregye
+## 31. Gyanógeregye
 
-32. Győrvár
+## 32. Győrvár
 
-33. Halastó
+## 33. Halastó
 
-34. Halogy
+## 34. Halogy
 
-35. Harasztifalu
+## 35. Harasztifalu
 
-36. Hegyháthodász
+## 36. Hegyháthodász
 
-37. Hegyhátsál
+## 37. Hegyhátsál
 
-38. Hegyhátszentjakab
+## 38. Hegyhátszentjakab
 
-39. Hegyhátszentmárton
+## 39. Hegyhátszentmárton
 
-40. Hegyhátszentpéter
+## 40. Hegyhátszentpéter
 
-41. Hosszúpereszteg
+## 41. Hosszúpereszteg
 
-42. Ikervár
+## 42. Ikervár
 
-43. Ispánk
+## 43. Ispánk
 
-44. Ivánc
+## 44. Ivánc
 
-45. Ják
+## 45. Ják
 
-46. Jánosháza
+## 46. Jánosháza
 
-47. Káld
+## 47. Káld
 
-48. Kám
+## 48. Kám
 
-49. Karakó
+## 49. Karakó
 
-50. Katafa
+## 50. Katafa
 
-51. Keléd
+## 51. Keléd
 
-52. Kemeneskápolna
+## 52. Kemeneskápolna
 
-53. Kemenespálfa
+## 53. Kemenespálfa
 
-54. Kemestaródfa
+## 54. Kemestaródfa
 
-55. Kenéz
+## 55. Kenéz
 
-56. Kercaszomor
+## 56. Kercaszomor
 
-57. Kerkáskápolna
+## 57. Kerkáskápolna
 
-58. Kétvölgy
+## 58. Kétvölgy
 
-59. Kisrákos
+## 59. Kisrákos
 
-60. Kissomlyó
+## 60. Kissomlyó
 
-61. Kisunyom
+## 61. Kisunyom
 
-62. Kondorfa
+## 62. Kondorfa
 
-63. Köcsk
+## 63. Köcsk
 
-64. Körmend
+## 64. Körmend
 
-65. Magyarlak
+## 65. Magyarlak
 
-66. Magyarnádalja
+## 66. Magyarnádalja
 
-67. Magyarszecsőd
+## 67. Magyarszecsőd
 
-68. Magyarszombatfa
+## 68. Magyarszombatfa
 
-69. Megyehíd
+## 69. Megyehíd
 
-70. Meggyeskovácsi
+## 70. Meggyeskovácsi
 
-71. Mikosszéplak
+## 71. Mikosszéplak
 
-72. Molnaszecsőd
+## 72. Molnaszecsőd
 
-73. Nádasd
+## 73. Nádasd
 
-74. Nagykölked
+## 74. Nagykölked
 
-75. Nagymizdó
+## 75. Nagymizdó
 
-76. Nagyrákos
+## 76. Nagyrákos
 
-77. Nagytilaj
+## 77. Nagytilaj
 
-78. Nemeskeresztúr
+## 78. Nemeskeresztúr
 
-79. Nemeskocs
+## 79. Nemeskocs
 
-80. Nemeskolta
+## 80. Nemeskolta
 
-81. Nemesmedves
+## 81. Nemesmedves
 
-82. Nemesrempehollós
+## 82. Nemesrempehollós
 
-83. Nyőgér
+## 83. Nyőgér
 
-84. Olaszfa;
+## 84. Olaszfa;
 
-85. Orfalu
+## 85. Orfalu
 
-86. Oszkó
+## 86. Oszkó
 
-87. Őrimagyarósd
+## 87. Őrimagyarósd
 
-88. Őriszentpéter
+## 88. Őriszentpéter
 
-89. Pácsony
+## 89. Pácsony
 
-90. Pankasz
+## 90. Pankasz
 
-91. Pecöl
+## 91. Pecöl
 
-92. Petőmihályfa
+## 92. Petőmihályfa
 
-93. Pinkamindszent
+## 93. Pinkamindszent
 
-94. Püspökmolnári
+## 94. Püspökmolnári
 
-95. Rábagyarmat
+## 95. Rábagyarmat
 
-96. Rábahidvég
+## 96. Rábahidvég
 
-97. Rábatöttös
+## 97. Rábatöttös
 
-98. Rádóckölked
+## 98. Rádóckölked
 
-99. Rátót
+## 99. Rátót
 
-100. Rönök
+## 100. Rönök
 
-101. Rum
+## 101. Rum
 
-102. Sárfimizdó
+## 102. Sárfimizdó
 
-103. Sorkifalud
+## 103. Sorkifalud
 
-104. Sorkikápolna
+## 104. Sorkikápolna
 
-105. Sorokpolány
+## 105. Sorokpolány
 
-106. Sótony
+## 106. Sótony
 
-107. Szaknyér
+## 107. Szaknyér
 
-108. Szakonyfalu
+## 108. Szakonyfalu
 
-109. Szalafő
+## 109. Szalafő
 
-110. Szarvaskend
+## 110. Szarvaskend
 
-111. Szatta
+## 111. Szatta
 
-112. Szemenye
+## 112. Szemenye
 
-113. Szentgotthárd
+## 113. Szentgotthárd
 
-114. Szentpéterfa
+## 114. Szentpéterfa
 
-115. Szőce
+## 115. Szőce
 
-116. Tanakajd
+## 116. Tanakajd
 
-117. Táplánszentkereszt
+## 117. Táplánszentkereszt
 
-118. Telekes
+## 118. Telekes
 
-119. Vasalja
+## 119. Vasalja
 
-120. Vásárosmiske
+## 120. Vásárosmiske
 
-121. Vashosszúfalu
+## 121. Vashosszúfalu
 
-122. Vasvár
+## 122. Vasvár
 
-123. Vasszécseny
+## 123. Vasszécseny
 
-124. Vasszentmihály
+## 124. Vasszentmihály
 
-125. Velemér
+## 125. Velemér
 
-126. Viszák
+## 126. Viszák
 
-127. Zsennye
+## 127. Zsennye
 
-Veszprém vármegye
+## Veszprém megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Veszprém 01. OEVK
+## Rövidítése: Veszprém 01. OEVK
 
-Székhelye: Veszprém
+## Székhelye: Veszprém
 
-Területe:
+## Területe:
 
-1. Bakonynána
+## 1. Bakonynána
 
-2. Bánd
+## 2. Bánd
 
-3. Csehbánya
+## 3. Csehbánya
 
-4. Csetény
+## 4. Csetény
 
-5. Dudar
+## 5. Dudar
 
-6. Eplény
+## 6. Eplény
 
-7. Hajmáskér
+## 7. Hajmáskér
 
-8. Hárskút
+## 8. Hárskút
 
-9. Herend
+## 9. Herend
 
-10. Jásd
+## 10. Jásd
 
-11. Királyszentistván
+## 11. Királyszentistván
 
-12. Kislőd
+## 12. Kislőd
 
-13. Lókút
+## 13. Lókút
 
-14. Márkó
+## 14. Márkó
 
-15. Nemesvámos
+## 15. Nemesvámos
 
-16. Olaszfalu
+## 16. Olaszfalu
 
-17. Öskü
+## 17. Öskü
 
-18. Sóly
+## 18. Sóly
 
-19. Szápár
+## 19. Szápár
 
-20. Szentgál
+## 20. Szentgál
 
-21. Tés
+## 21. Tés
 
-22. Úrkút
+## 22. Úrkút
 
-23. Városlőd
+## 23. Városlőd
 
-24. Veszprém
+## 24. Veszprém
 
-25. Vilonya
+## 25. Vilonya
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Veszprém 02. OEVK
+## Rövidítése: Veszprém 02. OEVK
 
-Székhelye: Balatonfüred
+## Székhelye: Balatonfüred
 
-Területe:
+## Területe:
 
-1. Alsóörs
+## 1. Alsóörs
 
-2. Aszófő
+## 2. Aszófő
 
-3. Balatonakali
+## 3. Balatonakali
 
-4. Balatonakarattya
+## 4. Balatonakarattya
 
-5. Balatonalmádi
+## 5. Balatonalmádi
 
-6. Balatoncsicsó
+## 6. Balatoncsicsó
 
-7. Balatonfőkajár
+## 7. Balatonfőkajár
 
-8. Balatonfüred
+## 8. Balatonfüred
 
-9. Balatonfűzfő
+## 9. Balatonfűzfő
 
-10. Balatonhenye
+## 10. Balatonhenye
 
-11. Balatonkenese
+## 11. Balatonkenese
 
-12. Balatonszepezd
+## 12. Balatonszepezd
 
-13. Balatonszőlős
+## 13. Balatonszőlős
 
-14. Balatonudvari
+## 14. Balatonudvari
 
-15. Barnag
+## 15. Barnag
 
-16. Berhida
+## 16. Berhida
 
-17. Csajág
+## 17. Csajág
 
-18. Csopak
+## 18. Csopak
 
-19. Dörgicse
+## 19. Dörgicse
 
-20. Felsőörs
+## 20. Felsőörs
 
-21. Hidegkút
+## 21. Hidegkút
 
-22. Köveskál
+## 22. Köveskál
 
-23. Küngös
+## 23. Küngös
 
-24. Litér
+## 24. Litér
 
-25. Lovas
+## 25. Lovas
 
-26. Mencshely
+## 26. Mencshely
 
-27. Monoszló
+## 27. Monoszló
 
-28. Óbudavár
+## 28. Óbudavár
 
-29. Örvényes
+## 29. Örvényes
 
-30. Ősi
+## 30. Ősi
 
-31. Paloznak
+## 31. Paloznak
 
-32. Papkeszi
+## 32. Papkeszi
 
-33. Pécsely
+## 33. Pécsely
 
-34. Pétfürdő
+## 34. Pétfürdő
 
-35. Szentantalfa
+## 35. Szentantalfa
 
-36. Szentjakabfa
+## 36. Szentjakabfa
 
-37. Szentkirályszabadja
+## 37. Szentkirályszabadja
 
-38. Tagyon
+## 38. Tagyon
 
-39. Tihany
+## 39. Tihany
 
-40. Tótvázsony
+## 40. Tótvázsony
 
-41. Várpalota
+## 41. Várpalota
 
-42. Vászoly
+## 42. Vászoly
 
-43. Veszprémfajsz
+## 43. Veszprémfajsz
 
-44. Vöröstó
+## 44. Vöröstó
 
-45. Zánka
+## 45. Zánka
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Veszprém 03. OEVK
+## Rövidítése: Veszprém 03. OEVK
 
-Székhelye: Tapolca
+## Székhelye: Tapolca
 
-Területe:
+## Területe:
 
-1. Ábrahámhegy
+## 1. Ábrahámhegy
 
-2. Ajka
+## 2. Ajka
 
-3. Badacsonytomaj
+## 3. Badacsonytomaj
 
-4. Badacsonytördemic
+## 4. Badacsonytördemic
 
-5. Balatonederics
+## 5. Balatonederics
 
-6. Balatonrendes
+## 6. Balatonrendes
 
-7. Bazsi
+## 7. Bazsi
 
-8. Bodorfa
+## 8. Bodorfa
 
-9. Csabrendek
+## 9. Csabrendek
 
-10. Dabronc
+## 10. Dabronc
 
-11. Gógánfa
+## 11. Gógánfa
 
-12. Gyepükaján
+## 12. Gyepükaján
 
-13. Gyulakeszi
+## 13. Gyulakeszi
 
-14. Halimba
+## 14. Halimba
 
-15. Hegyesd
+## 15. Hegyesd
 
-16. Hegymagas
+## 16. Hegymagas
 
-17. Hetyefő
+## 17. Hetyefő
 
-18. Hosztót
+## 18. Hosztót
 
-19. Kapolcs
+## 19. Kapolcs
 
-20. Káptalanfa
+## 20. Káptalanfa
 
-21. Káptalantóti
+## 21. Káptalantóti
 
-22. Kékkút
+## 22. Kékkút
 
-23. Kisapáti
+## 23. Kisapáti
 
-24. Kővágóörs
+## 24. Kővágóörs
 
-25. Lesencefalu
+## 25. Lesencefalu
 
-26. Lesenceistvánd
+## 26. Lesenceistvánd
 
-27. Lesencetomaj
+## 27. Lesencetomaj
 
-28. Megyer
+## 28. Megyer
 
-29. Mindszentkálla
+## 29. Mindszentkálla
 
-30. Monostorapáti
+## 30. Monostorapáti
 
-31. Nagyvázsony
+## 31. Nagyvázsony
 
-32. Nemesgulács
+## 32. Nemesgulács
 
-33. Nemeshany
+## 33. Nemeshany
 
-34. Nemesvita
+## 34. Nemesvita
 
-35. Nyirád
+## 35. Nyirád
 
-36. Öcs
+## 36. Öcs
 
-37. Pula
+## 37. Pula
 
-38. Pusztamiske
+## 38. Pusztamiske
 
-39. Raposka
+## 39. Raposka
 
-40. Révfülöp
+## 40. Révfülöp
 
-41. Rigács
+## 41. Rigács
 
-42. Salföld
+## 42. Salföld
 
-43. Sáska
+## 43. Sáska
 
-44. Sümeg
+## 44. Sümeg
 
-45. Sümegprága
+## 45. Sümegprága
 
-46. Szentbékkálla
+## 46. Szentbékkálla
 
-47. Szentimrefalva
+## 47. Szentimrefalva
 
-48. Szigliget
+## 48. Szigliget
 
-49. Szőc
+## 49. Szőc
 
-50. Taliándörögd
+## 50. Taliándörögd
 
-51. Tapolca
+## 51. Tapolca
 
-52. Ukk
+## 52. Ukk
 
-53. Uzsa
+## 53. Uzsa
 
-54. Veszprémgalsa
+## 54. Veszprémgalsa
 
-55. Vigántpetend
+## 55. Vigántpetend
 
-56. Zalaerdőd
+## 56. Zalaerdőd
 
-57. Zalagyömörő
+## 57. Zalagyömörő
 
-58. Zalahaláp
+## 58. Zalahaláp
 
-59. Zalameggyes
+## 59. Zalameggyes
 
-60. Zalaszegvár
+## 60. Zalaszegvár
 
-04. számú országgyűlési egyéni választókerület
+## 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Veszprém 04. OEVK
+## Rövidítése: Veszprém 04. OEVK
 
-Székhelye: Pápa
+## Székhelye: Pápa
 
-Területe:
+## Területe:
 
-1. Adásztevel
+## 1. Adásztevel
 
-2. Adorjánháza
+## 2. Adorjánháza
 
-3. Apácatorna
+## 3. Apácatorna
 
-4. Bakonybél
+## 4. Bakonybél
 
-5. Bakonyjákó
+## 5. Bakonyjákó
 
-6. Bakonykoppány
+## 6. Bakonykoppány
 
-7. Bakonyoszlop
+## 7. Bakonyoszlop
 
-8. Bakonypölöske
+## 8. Bakonypölöske
 
-9. Bakonyság
+## 9. Bakonyság
 
-10. Bakonyszentiván
+## 10. Bakonyszentiván
 
-11. Bakonyszentkirály
+## 11. Bakonyszentkirály
 
-12. Bakonyszücs
+## 12. Bakonyszücs
 
-13. Bakonytamási
+## 13. Bakonytamási
 
-14. Béb
+## 14. Béb
 
-15. Békás
+## 15. Békás
 
-16. Borszörcsök
+## 16. Borszörcsök
 
-17. Borzavár
+## 17. Borzavár
 
-18. Csesznek
+## 18. Csesznek
 
-19. Csót
+## 19. Csót
 
-20. Csögle
+## 20. Csögle
 
-21. Dabrony
+## 21. Dabrony
 
-22. Dáka
+## 22. Dáka
 
-23. Devecser
+## 23. Devecser
 
-24. Doba
+## 24. Doba
 
-25. Döbrönte
+## 25. Döbrönte
 
-26. Egeralja
+## 26. Egeralja
 
-27. Egyházaskesző
+## 27. Egyházaskesző
 
-28. Farkasgyepű
+## 28. Farkasgyepű
 
-29. Ganna
+## 29. Ganna
 
-30. Gecse
+## 30. Gecse
 
-31. Gic
+## 31. Gic
 
-32. Homokbödöge
+## 32. Homokbödöge
 
-33. Iszkáz
+## 33. Iszkáz
 
-34. Kamond
+## 34. Kamond
 
-35. Karakószörcsök
+## 35. Karakószörcsök
 
-36. Kemeneshőgyész
+## 36. Kemeneshőgyész
 
-37. Kemenesszentpéter
+## 37. Kemenesszentpéter
 
-38. Kerta
+## 38. Kerta
 
-39. Kisberzseny
+## 39. Kisberzseny
 
-40. Kiscsősz
+## 40. Kiscsősz
 
-41. Kispirit
+## 41. Kispirit
 
-42. Kisszőlős
+## 42. Kisszőlős
 
-43. Kolontár
+## 43. Kolontár
 
-44. Kup
+## 44. Kup
 
-45. Külsővat
+## 45. Külsővat
 
-46. Lovászpatona
+## 46. Lovászpatona
 
-47. Magyargencs
+## 47. Magyargencs
 
-48. Magyarpolány
+## 48. Magyarpolány
 
-49. Malomsok
+## 49. Malomsok
 
-50. Marcalgergelyi
+## 50. Marcalgergelyi
 
-51. Marcaltő
+## 51. Marcaltő
 
-52. Mezőlak
+## 52. Mezőlak
 
-53. Mihályháza
+## 53. Mihályháza
 
-54. Nagyacsád
+## 54. Nagyacsád
 
-55. Nagyalásony
+## 55. Nagyalásony
 
-56. Nagydém
+## 56. Nagydém
 
-57. Nagyesztergár
+## 57. Nagyesztergár
 
-58. Nagygyimót
+## 58. Nagygyimót
 
-59. Nagypirit
+## 59. Nagypirit
 
-60. Nagytevel
+## 60. Nagytevel
 
-61. Nemesgörzsöny
+## 61. Nemesgörzsöny
 
-62. Nemesszalók
+## 62. Nemesszalók
 
-63. Németbánya
+## 63. Németbánya
 
-64. Nóráp
+## 64. Nóráp
 
-65. Noszlop
+## 65. Noszlop
 
-66. Nyárád
+## 66. Nyárád
 
-67. Oroszi
+## 67. Oroszi
 
-68. Pápa
+## 68. Pápa
 
-69. Pápadereske
+## 69. Pápadereske
 
-70. Pápakovácsi
+## 70. Pápakovácsi
 
-71. Pápasalamon
+## 71. Pápasalamon
 
-72. Pápateszér
+## 72. Pápateszér
 
-73. Pénzesgyőr
+## 73. Pénzesgyőr
 
-74. Porva
+## 74. Porva
 
-75. Somlójenő
+## 75. Somlójenő
 
-76. Somlószőlős
+## 76. Somlószőlős
 
-77. Somlóvásárhely
+## 77. Somlóvásárhely
 
-78. Somlóvecse
+## 78. Somlóvecse
 
-79. Takácsi
+## 79. Takácsi
 
-80. Tüskevár
+## 80. Tüskevár
 
-81. Ugod
+## 81. Ugod
 
-82. Vanyola
+## 82. Vanyola
 
-83. Várkesző
+## 83. Várkesző
 
-84. Vaszar
+## 84. Vaszar
 
-85. Vid
+## 85. Vid
 
-86. Vinár
+## 86. Vinár
 
-87. Zirc
+## 87. Zirc
 
-Zala vármegye
+## Zala megye
 
-01. számú országgyűlési egyéni választókerület
+## 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Zala 01. OEVK
+## Rövidítése: Zala 01. OEVK
 
-Székhelye: Zalaegerszeg
+## Székhelye: Zalaegerszeg
 
-Területe:
+## Területe:
 
-1. Alsószenterzsébet
+## 1. Alsószenterzsébet
 
-2. Babosdöbréte
+## 2. Babosdöbréte
 
-3. Baglad
+## 3. Baglad
 
-4. Bagod
+## 4. Bagod
 
-5. Bak
+## 5. Bak
 
-6. Barlahida
+## 6. Barlahida
 
-7. Becsvölgye
+## 7. Becsvölgye
 
-8. Belsősárd
+## 8. Belsősárd
 
-9. Bocfölde
+## 9. Bocfölde
 
-10. Boncodfölde
+## 10. Boncodfölde
 
-11. Böde
+## 11. Böde
 
-12. Bödeháza
+## 12. Bödeháza
 
-13. Csatár
+## 13. Csatár
 
-14. Csesztreg
+## 14. Csesztreg
 
-15. Csonkahegyhát
+## 15. Csonkahegyhát
 
-16. Csöde
+## 16. Csöde
 
-17. Dobronhegy
+## 17. Dobronhegy
 
-18. Felsőszenterzsébet
+## 18. Felsőszenterzsébet
 
-19. Gáborjánháza
+## 19. Gáborjánháza
 
-20. Gellénháza
+## 20. Gellénháza
 
-21. Gombosszeg
+## 21. Gombosszeg
 
-22. Gosztola
+## 22. Gosztola
 
-23. Hagyárosbörönd
+## 23. Hagyárosbörönd
 
-24. Hernyék
+## 24. Hernyék
 
-25. Hottó
+## 25. Hottó
 
-26. Iborfia
+## 26. Iborfia
 
-27. Kálócfa
+## 27. Kálócfa
 
-28. Kávás
+## 28. Kávás
 
-29. Keménfa
+## 29. Keménfa
 
-30. Kerkabarabás
+## 30. Kerkabarabás
 
-31. Kerkafalva
+## 31. Kerkafalva
 
-32. Kerkakutas
+## 32. Kerkakutas
 
-33. Kiskutas
+## 33. Kiskutas
 
-34. Kispáli
+## 34. Kispáli
 
-35. Kozmadombja
+## 35. Kozmadombja
 
-36. Kustánszeg
+## 36. Kustánszeg
 
-37. Külsősárd
+## 37. Külsősárd
 
-38. Lendvadedes
+## 38. Lendvadedes
 
-39. Lendvajakabfa
+## 39. Lendvajakabfa
 
-40. Lenti
+## 40. Lenti
 
-41. Lickóvadamos
+## 41. Lickóvadamos
 
-42. Magyarföld
+## 42. Magyarföld
 
-43. Márokföld
+## 43. Márokföld
 
-44. Mikekarácsonyfa
+## 44. Mikekarácsonyfa
 
-45. Milejszeg
+## 45. Milejszeg
 
-46. Nagykutas
+## 46. Nagykutas
 
-47. Nagylengyel
+## 47. Nagylengyel
 
-48. Nagypáli
+## 48. Nagypáli
 
-49. Nemesnép
+## 49. Nemesnép
 
-50. Németfalu
+## 50. Németfalu
 
-51. Nova
+## 51. Nova
 
-52. Ormándlak
+## 52. Ormándlak
 
-53. Ozmánbük
+## 53. Ozmánbük
 
-54. Pálfiszeg
+## 54. Pálfiszeg
 
-55. Petrikeresztúr
+## 55. Petrikeresztúr
 
-56. Pórszombat
+## 56. Pórszombat
 
-57. Pusztaapáti
+## 57. Pusztaapáti
 
-58. Ramocsa
+## 58. Ramocsa
 
-59. Rédics
+## 59. Rédics
 
-60. Resznek
+## 60. Resznek
 
-61. Salomvár
+## 61. Salomvár
 
-62. Sárhida
+## 62. Sárhida
 
-63. Szentgyörgyvölgy
+## 63. Szentgyörgyvölgy
 
-64. Szijártóháza
+## 64. Szijártóháza
 
-65. Szilvágy
+## 65. Szilvágy
 
-66. Teskánd
+## 66. Teskánd
 
-67. Vaspör
+## 67. Vaspör
 
-68. Zalabaksa
+## 68. Zalabaksa
 
-69. Zalaboldogfa
+## 69. Zalaboldogfa
 
-70. Zalacséb
+## 70. Zalacséb
 
-71. Zalaegerszeg
+## 71. Zalaegerszeg
 
-72. Zalaháshágy
+## 72. Zalaháshágy
 
-73. Zalalövő
+## 73. Zalalövő
 
-74. Zalaszentgyörgy
+## 74. Zalaszentgyörgy
 
-75. Zalaszombatfa
+## 75. Zalaszombatfa
 
-76. Zalatárnok
+## 76. Zalatárnok
 
-02. számú országgyűlési egyéni választókerület
+## 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Zala 02. OEVK
+## Rövidítése: Zala 02. OEVK
 
-Székhely: Keszthely
+## Székhely: Keszthely
 
-Területe:
+## Területe:
 
-1. Alibánfa
+## 1. Alibánfa
 
-2. Almásháza
+## 2. Almásháza
 
-3. Alsónemesapáti
+## 3. Alsónemesapáti
 
-4. Alsópáhok
+## 4. Alsópáhok
 
-5. Alsórajk
+## 5. Alsórajk
 
-6. Baktüttös
+## 6. Baktüttös
 
-7. Balatongyörök
+## 7. Balatongyörök
 
-8. Balatonmagyaród
+## 8. Balatonmagyaród
 
-9. Batyk
+## 9. Batyk
 
-10. Bezeréd
+## 10. Bezeréd
 
-11. Bókaháza
+## 11. Bókaháza
 
-12. Búcsúszentlászló
+## 12. Búcsúszentlászló
 
-13. Cserszegtomaj
+## 13. Cserszegtomaj
 
-14. Dióskál
+## 14. Dióskál
 
-15. Döbröce
+## 15. Döbröce
 
-16. Dötk
+## 16. Dötk
 
-17. Egeraracsa
+## 17. Egeraracsa
 
-18. Egervár
+## 18. Egervár
 
-19. Esztergályhorváti
+## 19. Esztergályhorváti
 
-20. Felsőpáhok
+## 20. Felsőpáhok
 
-21. Felsőrajk
+## 21. Felsőrajk
 
-22. Garabonc
+## 22. Garabonc
 
-23. Gelse
+## 23. Gelse
 
-24. Gétye
+## 24. Gétye
 
-25. Gősfa
+## 25. Gősfa
 
-26. Gyenesdiás
+## 26. Gyenesdiás
 
-27. Gyűrűs
+## 27. Gyűrűs
 
-28. Hahót
+## 28. Hahót
 
-29. Hévíz
+## 29. Hévíz
 
-30. Kallósd
+## 30. Kallósd
 
-31. Karmacs
+## 31. Karmacs
 
-32. Kehidakustány
+## 32. Kehidakustány
 
-33. Kemendollár
+## 33. Kemendollár
 
-34. Kerecseny
+## 34. Kerecseny
 
-35. Keszthely
+## 35. Keszthely
 
-36. Kilimán
+## 36. Kilimán
 
-37. Kisbucsa
+## 37. Kisbucsa
 
-38. Kisgörbő
+## 38. Kisgörbő
 
-39. Kisvásárhely
+## 39. Kisvásárhely
 
-40. Lakhegy
+## 40. Lakhegy
 
-41. Ligetfalva
+## 41. Ligetfalva
 
-42. Mihályfa
+## 42. Mihályfa
 
-43. Misefa
+## 43. Misefa
 
-44. Nagygörbő
+## 44. Nagygörbő
 
-45. Nagykapornak
+## 45. Nagykapornak
 
-46. Nagyrada
+## 46. Nagyrada
 
-47. Nemesapáti
+## 47. Nemesapáti
 
-48. Nemesbük
+## 48. Nemesbük
 
-49. Nemeshetés
+## 49. Nemeshetés
 
-50. Nemesrádó
+## 50. Nemesrádó
 
-51. Nemessándorháza
+## 51. Nemessándorháza
 
-52. Nemesszentandrás
+## 52. Nemesszentandrás
 
-53. Óhíd
+## 53. Óhíd
 
-54. Orbányosfa
+## 54. Orbányosfa
 
-55. Orosztony
+## 55. Orosztony
 
-56. Pacsa
+## 56. Pacsa
 
-57. Padár
+## 57. Padár
 
-58. Pakod
+## 58. Pakod
 
-59. Pethőhenye
+## 59. Pethőhenye
 
-60. Pókaszepetk
+## 60. Pókaszepetk
 
-61. Pölöske
+## 61. Pölöske
 
-62. Pölöskefő
+## 62. Pölöskefő
 
-63. Pötréte
+## 63. Pötréte
 
-64. Rezi
+## 64. Rezi
 
-65. Sármellék
+## 65. Sármellék
 
-66. Sénye
+## 66. Sénye
 
-67. Söjtör
+## 67. Söjtör
 
-68. Sümegcsehi
+## 68. Sümegcsehi
 
-69. Szalapa
+## 69. Szalapa
 
-70. Szentgyörgyvár
+## 70. Szentgyörgyvár
 
-71. Szentpéterúr
+## 71. Szentpéterúr
 
-72. Tekenye
+## 72. Tekenye
 
-73. Tilaj
+## 73. Tilaj
 
-74. Türje
+## 74. Türje
 
-75. Vállus
+## 75. Vállus
 
-76. Várvölgy
+## 76. Várvölgy
 
-77. Vasboldogasszony
+## 77. Vasboldogasszony
 
-78. Vindornyafok
+## 78. Vindornyafok
 
-79. Vindornyalak
+## 79. Vindornyalak
 
-80. Vindornyaszőlős
+## 80. Vindornyaszőlős
 
-81. Vonyarcvashegy
+## 81. Vonyarcvashegy
 
-82. Vöckönd
+## 82. Vöckönd
 
-83. Zalaapáti
+## 83. Zalaapáti
 
-84. Zalabér
+## 84. Zalabér
 
-85. Zalacsány
+## 85. Zalacsány
 
-86. Zalaigrice
+## 86. Zalaigrice
 
-87. Zalaistvánd
+## 87. Zalaistvánd
 
-88. Zalakaros
+## 88. Zalakaros
 
-89. Zalaköveskút
+## 89. Zalaköveskút
 
-90. Zalamerenye
+## 90. Zalamerenye
 
-91. Zalaszabar
+## 91. Zalaszabar
 
-92. Zalaszántó
+## 92. Zalaszántó
 
-93. Zalaszentgrót
+## 93. Zalaszentgrót
 
-94. Zalaszentiván
+## 94. Zalaszentiván
 
-95. Zalaszentlászló
+## 95. Zalaszentlászló
 
-96. Zalaszentlőrinc
+## 96. Zalaszentlőrinc
 
-97. Zalaszentmárton
+## 97. Zalaszentmárton
 
-98. Zalaszentmihály
+## 98. Zalaszentmihály
 
-99. Zalavár
+## 99. Zalavár
 
-100. Zalavég
+## 100. Zalavég
 
-03. számú országgyűlési egyéni választókerület
+## 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Zala 03. OEVK
+## Rövidítése: Zala 03. OEVK
 
-Székhelye: Nagykanizsa
+## Székhelye: Nagykanizsa
 
-Területe:
+## Területe:
 
-1. Bánokszentgyörgy
+## 1. Bánokszentgyörgy
 
-2. Bázakerettye
+## 2. Bázakerettye
 
-3. Becsehely
+## 3. Becsehely
 
-4. Belezna
+## 4. Belezna
 
-5. Bocska
+## 5. Bocska
 
-6. Borsfa
+## 6. Borsfa
 
-7. Börzönce
+## 7. Börzönce
 
-8. Bucsuta
+## 8. Bucsuta
 
-9. Csapi
+## 9. Csapi
 
-10. Csertalakos
+## 10. Csertalakos
 
-11. Csömödér
+## 11. Csömödér
 
-12. Csörnyeföld
+## 12. Csörnyeföld
 
-13. Dobri
+## 13. Dobri
 
-14. Eszteregnye
+## 14. Eszteregnye
 
-15. Fityeház
+## 15. Fityeház
 
-16. Fűzvölgy
+## 16. Fűzvölgy
 
-17. Galambok
+## 17. Galambok
 
-18. Gelsesziget
+## 18. Gelsesziget
 
-19. Gutorfölde
+## 19. Gutorfölde
 
-20. Homokkomárom
+## 20. Homokkomárom
 
-21. Hosszúvölgy
+## 21. Hosszúvölgy
 
-22. Iklódbördőce
+## 22. Iklódbördőce
 
-23. Kacorlak
+## 23. Kacorlak
 
-24. Kányavár
+## 24. Kányavár
 
-25. Kerkaszentkirály
+## 25. Kerkaszentkirály
 
-26. Kerkateskánd
+## 26. Kerkateskánd
 
-27. Kiscsehi
+## 27. Kiscsehi
 
-28. Kisrécse
+## 28. Kisrécse
 
-29. Kistolmács
+## 29. Kistolmács
 
-30. Kissziget
+## 30. Kissziget
 
-31. Lasztonya
+## 31. Lasztonya
 
-32. Letenye
+## 32. Letenye
 
-33. Lispeszentadorján
+## 33. Lispeszentadorján
 
-34. Liszó
+## 34. Liszó
 
-35. Lovászi
+## 35. Lovászi
 
-36. Magyarszentmiklós
+## 36. Magyarszentmiklós
 
-37. Magyarszerdahely
+## 37. Magyarszerdahely
 
-38. Maróc
+## 38. Maróc
 
-39. Miháld
+## 39. Miháld
 
-40. Molnári
+## 40. Molnári
 
-41. Murakeresztúr
+## 41. Murakeresztúr
 
-42. Murarátka
+## 42. Murarátka
 
-43. Muraszemenye
+## 43. Muraszemenye
 
-44. Nagybakónak
+## 44. Nagybakónak
 
-45. Nagykanizsa
+## 45. Nagykanizsa
 
-46. Nagyrécse
+## 46. Nagyrécse
 
-47. Nemespátró
+## 47. Nemespátró
 
-48. Oltárc
+## 48. Oltárc
 
-49. Ortaháza
+## 49. Ortaháza
 
-50. Páka
+## 50. Páka
 
-51. Pat
+## 51. Pat
 
-52. Petrivente
+## 52. Petrivente
 
-53. Pördefölde
+## 53. Pördefölde
 
-54. Pusztaederics
+## 54. Pusztaederics
 
-55. Pusztamagyaród
+## 55. Pusztamagyaród
 
-56. Pusztaszentlászló
+## 56. Pusztaszentlászló
 
-57. Rigyác
+## 57. Rigyác
 
-58. Sand
+## 58. Sand
 
-59. Semjénháza
+## 59. Semjénháza
 
-60. Sormás
+## 60. Sormás
 
-61. Surd
+## 61. Surd
 
-62. Szécsisziget
+## 62. Szécsisziget
 
-63. Szentkozmadombja
+## 63. Szentkozmadombja
 
-64. Szentliszló
+## 64. Szentliszló
 
-65. Szentmargitfalva
+## 65. Szentmargitfalva
 
-66. Szentpéterfölde
+## 66. Szentpéterfölde
 
-67. Szepetnek
+## 67. Szepetnek
 
-68. Tófej
+## 68. Tófej
 
-69. Tormafölde
+## 69. Tormafölde
 
-70. Tornyiszentmiklós
+## 70. Tornyiszentmiklós
 
-71. Tótszentmárton
+## 71. Tótszentmárton
 
-72. Tótszerdahely
+## 72. Tótszerdahely
 
-73. Újudvar
+## 73. Újudvar
 
-74. Valkonya
+## 74. Valkonya
 
-75. Várfölde
+## 75. Várfölde
 
-76. Zajk
+## 76. Zajk
 
-77. Zalakomár
+## 77. Zalakomár
 
-78. Zalasárszeg
+## 78. Zalasárszeg
 
-79. Zalaszentbalázs
+## 79. Zalaszentbalázs
 
-80. Zalaszentjakab
+## 80. Zalaszentjakab
 
-81. Zalaújlak
+## 81. Zalaújlak
 
-82. Zebecke
+## 82. Zebecke

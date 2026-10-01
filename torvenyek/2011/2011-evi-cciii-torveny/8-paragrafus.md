@@ -1,4 +1,4 @@
-8. § (1) Pártlistát az a párt állíthat, amely – legalább tizennégy vármegyében és a fővárosban – legalább hetvenegy egyéni választókerületben önállóan jelöltet állított.
+8. § (1) Pártlistát az a párt állíthat, amely – legalább tizennégy megyében és a fővárosban – legalább hetvenegy egyéni választókerületben önállóan jelöltet állított.
 
 (2) Két vagy több párt közös egyéni választókerületi jelöltek alapján – ugyanazon pártok részvételével – közös pártlistát állíthat.
 
