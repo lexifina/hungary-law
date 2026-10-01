@@ -1,1 +1,0 @@
-## 14. § A próbahasználatot az Országgyűlési Őrség azon szervezeti elemének kell lefolytatnia, amelynek vezetője a rendszerbe vételi eljárást kezdeményezte. A vezető a próbahasználat tapasztalatairól jegyzőkönyvet készít.

@@ -1,1 +1,0 @@
-## 15. § A próbahasználat megkezdése előtt szükség esetén végre kell hajtani az abban részt vevő állomány kiképzését. A próbahasználat lefolytatása csak abban az esetben kezdhető meg, ha az abban részt vevő állomány a kényszerítő eszköz kezelését, valamint annak biztonsági előírásait ismeri.

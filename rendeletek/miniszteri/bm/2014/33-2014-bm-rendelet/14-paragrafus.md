@@ -1,1 +1,0 @@
-## 13. § A próbahasználat elvégzéséhez szükséges mintapéldányok mennyiségére, a végrehajtás terjedelmére, helyére és idejére, menetére, feltételeire, a vizsgálat szempontjaira, a próbahasználat értékelését végző személyre, valamint az értékelés módjára – az összes körülményre tekintettel – a próbahasználat tervében a rendszerbe vételi eljárást kezdeményező vezető tesz javaslatot.
