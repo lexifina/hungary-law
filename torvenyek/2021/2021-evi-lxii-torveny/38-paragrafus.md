@@ -1,3 +1,3 @@
 ## 16. Módosító rendelkezések
 
-38. §
+### 38. §
