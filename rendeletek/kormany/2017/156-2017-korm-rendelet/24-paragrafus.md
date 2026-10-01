@@ -2,7 +2,7 @@
 
 24. § (1) A feladási országtól és a rendeltetési országtól függetlenül tranzitengedély szükséges az 1. melléklet I. fejezet a)–c) pontjában, II. fejezet a)–b) pontjában, III. és IV. fejezetében, VII. fejezet a)–f), h), valamint i) pontjában, továbbá VIII. fejezetében felsorolt haditechnikai eszközök tranzitjához.
 
-(2)[^45] Az 1. mellékletben felsorolt valamennyi haditechnikai eszköz tranzitja engedélyköteles, ha a küldő és a célország is harmadik ország, ide nem értve az EGT-államokat, az Amerikai Egyesült Államokat, Ausztráliát, Japánt, Kanadát, Nagy-Britannia és Észak-Írország Egyesült Királyságát, Svájcot és Új-Zélandot.
+(2)[^46] Az 1. mellékletben felsorolt valamennyi haditechnikai eszköz tranzitja engedélyköteles, ha a küldő és a célország is harmadik ország, ide nem értve az EGT-államokat, az Amerikai Egyesült Államokat, Ausztráliát, Japánt, Kanadát, Nagy-Britannia és Észak-Írország Egyesült Királyságát, Svájcot és Új-Zélandot.
 
 (3) A tranzitengedély típusai:
 
@@ -20,7 +20,7 @@ b) keret tranzitengedély.
 
 (8) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság az (5) bekezdésben meghatározott adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
 
-(9)[^46] Tranzit során a haditechnikai eszközök – az ügylet teljesítéséhez szükséges – tárolásának a 15. § (2) bekezdése szerinti biztonsági feltételeknek megfelelően kell történnie, erre feljogosító tevékenységi engedély alapján.
+(9)[^47] Tranzit során a haditechnikai eszközök – az ügylet teljesítéséhez szükséges – tárolásának a 15. § (2) bekezdése szerinti biztonsági feltételeknek megfelelően kell történnie, erre feljogosító tevékenységi engedély alapján.
 
-[^45]: A 24. § (2) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^46]: A 24. § (9) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 8. §-a iktatta be.
+[^46]: A 24. § (2) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^47]: A 24. § (9) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 8. §-a iktatta be.

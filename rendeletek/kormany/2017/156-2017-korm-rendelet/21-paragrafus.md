@@ -1,6 +1,6 @@
 21. § (1) A Hatóság az 1. melléklet I. fejezet a)–c) pontjában vagy III. fejezetében és a 258/2012/EU rendelet I. mellékletében is felsorolt haditechnikai eszközök kivitele esetén kérelemre a 258/2012/EU rendelet II. melléklete szerinti kiviteli engedélyt ad ki.
 
-(2)[^42] A 258/2012/EU rendelet szerinti kiviteli engedély kizárólag hatályos tárgyalási engedély birtokában kérelmezhető, kivéve a 16. § (1) bekezdésében meghatározott államokba történő kivitelt.
+(2)[^43] A 258/2012/EU rendelet szerinti kiviteli engedély kizárólag hatályos tárgyalási engedély birtokában kérelmezhető, kivéve a 16. § (1) bekezdésében meghatározott államokba történő kivitelt.
 
 (3) A 258/2012/EU rendelet szerinti kiviteli engedély iránti kérelmet a 12. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
 
@@ -14,4 +14,4 @@
 
 (8) Ha a Hatóság a 258/2012/EU rendelet szerinti kiviteli engedély kiadását Szállítási Tanúsítvány utólagos benyújtásához köti, a vállalkozás a Szállítási Tanúsítványt az áru végfelhasználó ország vámterületére történő érkezésétől számított egy hónapon belül köteles megküldeni a Hatóság részére.
 
-[^42]: A 21. § (2) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^43]: A 21. § (2) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 7. §-ával megállapított szöveg.

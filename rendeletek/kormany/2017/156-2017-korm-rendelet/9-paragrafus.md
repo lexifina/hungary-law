@@ -6,7 +6,7 @@ a)[^27] a kérelmezett tevékenység ellentétes Magyarország kül- és biztons
 
 b) a kérelmezett tevékenység ellentétes Magyarország ellátásbiztonsági érdekeivel,
 
-c) a kérelmezett tevékenység, a kérelmező, a kérelmező tulajdonosa, felelős vezetője, vagy a kérelmezett tevékenységhez közvetlenül kapcsolódó munkakörben foglalkoztatott alkalmazottja az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat vagy a Katonai Nemzetbiztonsági Szolgálat írásos véleménye alapján nemzetbiztonsági érdeket sért vagy nemzetbiztonsági kockázatot jelent, vagy a Terrorelhárítási Központ írásos véleménye alapján terrorveszélyt jelent,
+c)[^28] a kérelmezett tevékenység, a kérelmező, a kérelmező tulajdonosa, felelős vezetője, vagy a kérelmezett tevékenységhez közvetlenül kapcsolódó munkakörben foglalkoztatott alkalmazottja az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat vagy a Katonai Nemzetbiztonsági Szolgálat írásos véleménye alapján nemzetbiztonsági érdeket sért vagy nemzetbiztonsági kockázatot jelent, vagy – a terrorcselekmények felderítésével kapcsolatos feladataira tekintettel – a Nemzeti Nyomozó Iroda írásos véleménye alapján terrorveszélyt jelent,
 
 d) a kérelmezett tevékenység akadályozná vagy ellehetetlenítené a honvédelmi, rendvédelmi, valamint nemzetbiztonsági szervek jogszabályban meghatározott tevékenységének ellátását,
 
@@ -20,7 +20,7 @@ h) a kérelmező, tulajdonosa vagy valamely felelős vezetője nem rendelkezik a
 
 i) a haditechnikai eszköz gyártását vagy haditechnikai szolgáltatás nyújtását végző kérelmező nem rendelkezik olyan székhellyel (telephellyel) és eszközökkel, melyek műszakilag alkalmassá teszik a kérelmezett tevékenység végzésére, azok biztonságtechnikailag nem alkalmasak a haditechnikai termék biztonságos mozgatására, szállítására, tárolására és őrzésére.
 
-j)[^28] az 1. melléklet I–IV. fejezetébe tartozó haditechnikai eszköz végleges kivitele esetén a végfelhasználó igazolás hitelességét illetően kétség merül fel.
+j)[^29] az 1. melléklet I–IV. fejezetébe tartozó haditechnikai eszköz végleges kivitele esetén a végfelhasználó igazolás hitelességét illetően kétség merül fel.
 
 (2) Az engedélyt vissza kell vonni, ha
 
@@ -30,19 +30,20 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (3) A Hatóság a kiadott engedélyt visszavonhatja, ha a vállalkozás e rendeletben foglalt előírásokat, az engedélyben meghatározott feltételeket vagy a kereskedelemre vonatkozó jogszabályi rendelkezéseket megsérti.
 
-(4)[^29] A Hatóság az engedélykérelmek elbírálása, valamint a kiadott engedélyekkel kapcsolatban felmerült új tény, adat, körülmény vizsgálata során a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtására kiadott felhasználói útmutatóban foglaltakat is figyelembe véve jár el.
+(4)[^30] A Hatóság az engedélykérelmek elbírálása, valamint a kiadott engedélyekkel kapcsolatban felmerült új tény, adat, körülmény vizsgálata során a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtására kiadott felhasználói útmutatóban foglaltakat is figyelembe véve jár el.
 
 (5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-(6)[^30]
+(6)[^31]
 
-(7)[^31]
+(7)[^32]
 
-(8)[^32] Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
+(8)[^33] Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
 
 [^27]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^28]: A 9. § (1) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 27. §-a iktatta be.
-[^29]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^30]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^31]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^32]: A 9. § (8) bekezdése a 24/2025. (II. 27.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.
+[^28]: A 9. § (1) bekezdés c) pontja a 199/2026. (IX. 21.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 27. §-a iktatta be.
+[^30]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^31]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^32]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^33]: A 9. § (8) bekezdése a 24/2025. (II. 27.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.

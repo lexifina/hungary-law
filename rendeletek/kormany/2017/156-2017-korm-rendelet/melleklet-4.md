@@ -36,11 +36,11 @@
 
 ## 1.1.az összes számlavezető pénzintézet által 60 napnál nem régebben kiállított nyilatkozat (bankinformáció),
 
-## 1.2.[^73] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+## 1.2.[^74] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 ## 1.3. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazása,
 
-## 1.4.[^74] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
+## 1.4.[^75] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
 
 ## 1.5. határon átnyúló szolgáltatás esetében a szolgáltató hitelt érdemlő igazolása, hogy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
@@ -64,11 +64,11 @@
 
 ## 3.7. A kérelmező nyilatkozata arról, hogya gyártáshoz vagy a szolgáltatások nyújtásához szükséges tárgyi feltételekkel, valamint a biztonsági előírások betartásának feltételeivel rendelkezik.
 
-## 3.8.[^75] Az 1. melléklet VII. fejezet b) pont 1. és 2. alpontjában, valamint c) pontjában szereplő termékek gyártására vonatkozó engedélykérelem esetén a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló kormányrendelet szerinti engedély másolati példánya.
+## 3.8.[^76] Az 1. melléklet VII. fejezet b) pont 1. és 2. alpontjában, valamint c) pontjában szereplő termékek gyártására vonatkozó engedélykérelem esetén a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló kormányrendelet szerinti engedély másolati példánya.
 
-4. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^76]
+4. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^77]
 
-[^73]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^74]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
-[^75]: A 3. melléklet II. rész 3. pont 3.8. alpontját a 443/2021. (VII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^76]: A 4. melléklet a 443/2021. (VII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^74]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^75]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^76]: A 3. melléklet II. rész 3. pont 3.8. alpontját a 443/2021. (VII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^77]: A 4. melléklet a 443/2021. (VII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
