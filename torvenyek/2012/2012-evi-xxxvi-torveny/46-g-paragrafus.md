@@ -1,1 +1,1 @@
-46/G. § Ha a képviselő az Országgyűlés ülésén fizikai erőszak alkalmazásával közvetlenül fenyeget, fizikai erőszak alkalmazására felhív, más kivezettetését akadályozza vagy fizikai erőszakot alkalmaz, az ülést vezető elnök a képviselő azonnali hatályú kitiltását rendelheti el.
+46/G. § Ha a képviselő az Országgyűlés ülésén fizikai erőszak alkalmazásával közvetlenül fenyeget, fizikai erőszak alkalmazására felhív vagy fizikai erőszakot alkalmaz, az ülést vezető elnök a képviselő azonnali hatályú kitiltását rendelheti el.

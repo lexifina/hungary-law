@@ -4,7 +4,7 @@
 
 (3) A házelnök külföldi kiküldetésével és utazásával kapcsolatos juttatások és szolgáltatások biztosítását az Országgyűlés Hivatala biztosítja.
 
-(4) A házelnök és a volt házelnök részére gépjárművezetőt az Országgyűlési Őrség biztosít.
+(4) A házelnök és a volt házelnök részére gépjárművezetőt a rendőrség személyvédelmi feladatokat ellátó szervezeti egysége biztosít.
 
 (5) A házelnök közcélú felajánlásaira, adományaira a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályokat kell alkalmazni azzal, hogy az e célra szolgáló előirányzatot a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza, az előirányzat felhasználására a házelnök írásbeli kötelezettségvállalása alapján kerül sor és a közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét az Országgyűlés honlapján kell közzétenni.
 

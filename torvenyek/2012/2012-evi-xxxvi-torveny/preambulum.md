@@ -14,4 +14,4 @@ biztosítva a képviselői jogok rendeltetésszerű gyakorlásának sérthetetle
 
 előmozdítva az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködését, összhangban az Európai Uniónak a nemzeti parlamentek hangsúlyozott szerepének biztosítására irányuló törekvésével;
 
-az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabályi rendelkezések törvényi szinten való megállapítására az Alaptörvény 2. cikk (2) bekezdése, 4. cikk (2) és (5) bekezdése, valamint 5. cikk (4), (7)–(9) bekezdése, 7. cikk (3) bekezdése és 19. cikke alapján a következő törvényt alkotja:
+az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabályi rendelkezések törvényi szinten való megállapítására az Alaptörvény 2. cikk (2) bekezdése, 4. cikk (2) és (5) bekezdése, valamint 5. cikk (4), (7) és (8) bekezdése, 7. cikk (3) bekezdése és 19. cikke alapján a következő törvényt alkotja:

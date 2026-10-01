@@ -1,6 +1,6 @@
 ## 3. Az Országgyűlés háznagya
 
-4. § (1) A háznagy – a 2. § (2) bekezdés d)–h), j)–m) és o)–q) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
+4. § (1) A háznagy – a 2. § (2) bekezdés d)–h), j)–m), o) és p) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
 
 (2) A háznagy a házelnök irányítása alatt végzi munkáját.
 

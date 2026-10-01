@@ -28,17 +28,17 @@ k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala S
 
 l) házelnöki rendelkezésben megállapítja az Országgyűlés Hivatala Szervezeti és Működési Szabályzatát, illetve feladat- és hatáskörének gyakorlása során házelnöki rendelkezést adhat ki,
 
-m) jóváhagyja az Országgyűlés Hivatala, valamint az Országgyűlési Őrség költségvetésének tervezetét, és ellenőrzi az elfogadott költségvetés végrehajtását,
+m) jóváhagyja az Országgyűlés Hivatala költségvetésének tervezetét, és ellenőrzi az elfogadott költségvetés végrehajtását,
 
 n) megteszi, illetve kezdeményezi az Országgyűlés biztonsága érdekében szükséges intézkedéseket,
 
 o) gyakorolja a jogutód nélkül megszűnt országgyűlési bizottság elnökének titokvédelemmel összefüggő jogait,
 
-p) e törvényben meghatározott esetekben gyakorolja rendészeti, illetve fegyelmi jogkörét,
+p) e törvényben meghatározott esetekben gyakorolja fegyelmi jogkörét,
 
-q) az Országgyűlési Őrség irányításával összefüggésben kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
+q)
 
-r) az Országgyűlés Hivatala, valamint az Országgyűlési Őrség vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát, illetve az Országgyűlési Őrséget jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
+r) az Országgyűlés Hivatala vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
 
 s) ellátja mindazon feladatokat, amelyeket számára az Alaptörvény, a házszabályi rendelkezések, más törvény, illetve országgyűlési határozat előír.
 

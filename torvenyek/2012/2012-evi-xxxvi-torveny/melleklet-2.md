@@ -167,5 +167,3 @@
 ## [26] Csak az országgyűlési képviselővel vagy az Országgyűlésről szóló 2012. évi XXXVI. törvény vagy külön jogszabály szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más tisztviselővel közös háztartásban élő hozzátartozó jelöli!
 
 2. melléklet a 2012. évi XXXVI. törvényhez
-
-Az Országgyűlési Őrség országgyűlési őr tagjának esküje

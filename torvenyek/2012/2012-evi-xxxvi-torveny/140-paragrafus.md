@@ -1,7 +1,3 @@
-## 46. Közlekedésrendészeti intézkedés
+## 46.
 
-140. § Az országgyűlési őr személyvédelmi, létesítménybiztosítási, járőr- és őrszolgálati feladatai céljából
-
-a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti, valamint
-
-b) az üzemben tartó, illetve a használó személyazonosító adatainak megállapítása érdekében járművet feltartóztathat, az abban tartózkodók személyazonosságát megállapíthatja.
+### 140. §

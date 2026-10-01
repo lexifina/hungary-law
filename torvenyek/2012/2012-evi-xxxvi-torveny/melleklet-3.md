@@ -1,17 +1,3 @@
-## Az eskü szövege:
-
-## „Én, ........................................... az Országgyűlési Őrség tagja esküszöm, hogy Magyarországhoz hű leszek, az Alaptörvény és a jogszabályok rendelkezéseit minden körülmények között betartom.
-
-## Az Országgyűlés tevékenységének biztonságát, működésének rendjét részrehajlás nélkül, a törvényesség követelményének keretei között megoltalmazom.
-
-## Az Országház védelmében szolgálatomat legjobb tudásom szerint, a célnak leginkább megfelelő, törvényes módon, elöljáróim utasításának engedelmeskedve, testben és lélekben mindenkor felkészülten, tetteimért felelősséget vállalva, bármely fenyegetés, kísértés vagy veszély ellenében is teljesítem.
-
-## Az Országgyűlési Őrség közös küldetését teljesítő bajtársi közösségnek méltó tagjaként Magyarország javára élek és szolgálok.
-
-## (Az esküt tevő meggyőződése szerint:)
-
-## Isten engem úgy segéljen!”
-
 3. melléklet a 2012. évi XXXVI. törvényhez
 
 AZ ORSZÁGGYŰLÉSI KÖZTISZTVISELŐKRE VONATKOZÓ ILLETMÉNYRENDSZER
