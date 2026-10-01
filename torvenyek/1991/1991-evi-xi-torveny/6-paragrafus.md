@@ -22,7 +22,7 @@ ee) az engedélyezett beavatkozással járó (orvostudományi) kutatásokat,
 
 ef) a beavatkozással nem járó, embriókkal, ivarsejtekkel, őssejtekkel végezhető vizsgálatokat;
 
-f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a vármegye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
+f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
 
 g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 
