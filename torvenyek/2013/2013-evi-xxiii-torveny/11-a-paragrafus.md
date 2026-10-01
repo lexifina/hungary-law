@@ -18,6 +18,6 @@ c) a jogosultak üzemanyag vételezésének elsőbbségi vagy kizárólagos volt
 
 d) az elrendelés időtartamát.
 
-(6) A (3) és (4) bekezdés szerinti rendelet meghatározhatja az összehangolt védelmi tevékenységgel és az energetikai ágazati eseménnyel érintett vármegyéket.
+(6) A (3) és (4) bekezdés szerinti rendelet meghatározhatja az összehangolt védelmi tevékenységgel és az energetikai ágazati eseménnyel érintett megyéket.
 
 (7) Az elrendelés időtartamát a Kormány legfeljebb a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 76. § (4) bekezdésében meghatározott időtartamban, a miniszter legfeljebb 14 napban állapíthatja meg.
