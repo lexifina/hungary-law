@@ -16,7 +16,7 @@ e) a műtárgyvédelemmel
 
 kapcsolatos szakmai mutatók alapján készíti el.
 
-(10) Az országos szakkönyvtár és a vármegyei hatókörű városi könyvtár éves munkatervét
+(10) Az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervét
 
 a) a szolgáltatási feladatokkal,
 

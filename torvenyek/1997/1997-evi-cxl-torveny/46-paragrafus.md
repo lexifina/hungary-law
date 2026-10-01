@@ -22,7 +22,7 @@ esetében.
 
 (3) A területi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.
 
-(4) A területi múzeum gyűjtőterületére kiterjedően – a vármegyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a vármegyei hatókörű városi múzeum 45/A. § (2) bekezdés g) és i) pontjában foglalt feladatait, vagy azok egy részét.
+(4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés g) és i) pontjában foglalt feladatait, vagy azok egy részét.
 
 (5) A területi múzeum állam, helyi önkormányzat fenntartásában, vagy az állam vagy helyi önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaság fenntartásában működik.
 

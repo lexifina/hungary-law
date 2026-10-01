@@ -16,7 +16,7 @@ ae) a muzeális intézmények nyilvántartásában szereplő kulturális javak r
 
 b) gondoskodik:
 
-ba) a muzeális intézményekben folyó szakmai munka országos, vármegyei, települési, fővárosi szintű szakmai ellenőrzéséről, értékeléséről,
+ba) a muzeális intézményekben folyó szakmai munka országos, megyei, települési, fővárosi szintű szakmai ellenőrzéséről, értékeléséről,
 
 bb) az intézményvezetők számára előírt továbbképzés szakmai feltételeinek megteremtéséről,
 

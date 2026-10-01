@@ -30,9 +30,9 @@ e) a szakmai továbbképzési program nyilvántartásba vételéről szóló hat
 
 f) a szakmai továbbképzési program érvényességi idejét.
 
-(5) A vármegyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
+(5) A megyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
-(5a) A vármegyei hatókörű városi könyvtár és a Fővárosi Szabó Ervin Könyvtár állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott könyvtáros szakember alaptevékenységnek megfelelő szakmai továbbképzését.
+(5a) A megyei hatókörű városi könyvtár és a Fővárosi Szabó Ervin Könyvtár állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott könyvtáros szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
 (6) Az e törvény hatálya alá tartozó intézményekben, szakmai munkakörökben foglalkoztatott, felsőfokú végzettségű munkavállalót kötelező bérpótlék illeti meg, ha tudományos, illetve kutatói munkakörben foglalkoztatják, továbbá ha tudományos fokozattal rendelkezik. Ennek mértéke a pótlékalap 50%-a.
 

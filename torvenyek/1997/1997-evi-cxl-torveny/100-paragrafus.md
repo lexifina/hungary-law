@@ -56,11 +56,11 @@ b) a hűségprogramokra vonatkozó szabályokat.
 
 a) a közművelődési intézmények, a közösségi színterek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat,
 
-b) a múzeum, valamint az országos szakkönyvtár és a vármegyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
+b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 
 c) a közművelődési alapszolgáltatások körében ellátható egyes szakmai feladatokat, a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 
-d) a 64. § (8) bekezdése szerinti vármegyei hatókörű városi könyvtárak körét, regionális illetékességi területüket, valamint regionális feladatellátásuk részletes szabályait,
+d) a 64. § (8) bekezdése szerinti megyei hatókörű városi könyvtárak körét, regionális illetékességi területüket, valamint regionális feladatellátásuk részletes szabályait,
 
 e) a kulturális alapellátás kiterjesztésének prioritási rendjét és szempontrendszerét,
 
@@ -78,7 +78,7 @@ k)
 
 l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
 
-m) a különböző típusú könyvtárak működését, a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit, továbbá a vármegyei hatókörű városi könyvtárak települési könyvtárak fejlesztésével kapcsolatos koordinációs feladatainak ellátását és a települési könyvtárak és fenntartóik ezzel kapcsolatos kötelezettségeit,
+m) a különböző típusú könyvtárak működését, a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit, továbbá a megyei hatókörű városi könyvtárak települési könyvtárak fejlesztésével kapcsolatos koordinációs feladatainak ellátását és a települési könyvtárak és fenntartóik ezzel kapcsolatos kötelezettségeit,
 
 n) a Könyvtárellátási Szolgáltató Rendszer működését,
 

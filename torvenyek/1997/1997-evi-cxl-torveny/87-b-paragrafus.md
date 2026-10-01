@@ -22,4 +22,4 @@ h) a népi hagyományaink iránti bel- és külföldi figyelem felébresztése, 
 
 i) az élő és újraéleszthető néphagyomány, a hagyományőrzés, a népművészet és a népi iparművészet állami támogatásának koordinálása, a helyi élő néphagyományt érintő tevékenységek feltárásához, gyakorlásához, fejlesztéséhez komplex szakmai szolgáltatás biztosítása,
 
-j) a fenti célok érdekében vármegyei és Kárpát-medencei hálózatok, kirendeltségek működtetése.
+j) a fenti célok érdekében megyei és Kárpát-medencei hálózatok, kirendeltségek működtetése.
