@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-156-20-
 | --- | --- | --- |
 | 2026-09-19 | 2026-156-20-22.1 | 156/2026. (IX. 18.) Korm. rendelet |
 | 2026-09-20 | 2026-156-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-10-01 | 2026-156-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

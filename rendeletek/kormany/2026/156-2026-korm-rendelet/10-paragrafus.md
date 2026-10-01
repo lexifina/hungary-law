@@ -18,13 +18,13 @@ h)[^17]
 
 i)[^18]
 
-j)[^19]
+j) 25. § (1) bekezdés a) pontjában a „vármegye” szövegrészek helyébe a „megye” szöveg,
 
-k)[^20]
+k) 25. § (1) bekezdés c) pontjában a „vármegyében” szövegrészek helyébe a „megyében” szöveg,
 
-l)[^21]
+l)[^19]
 
-m)[^22]
+m) 6. melléklet 3. pontjában a „vármegye” szövegrész helyébe a „megye” szöveg
 
 lép.
 
@@ -37,7 +37,4 @@ lép.
 [^16]: A 10. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: A 10. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 10. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 10. § j) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^20]: A 10. § k) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
-[^21]: A 10. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 10. § m) pontja a 12. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^19]: A 10. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
