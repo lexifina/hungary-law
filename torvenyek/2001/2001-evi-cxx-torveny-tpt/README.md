@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2026-07-18 | 2026. évi XXVII. törvény | 2001-120-00-00.109 |
 | 2026-07-26 | 2026. évi XXVII. törvény | 2001-120-00-00.110 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2001-120-00-00.111 |
+| 2026-10-01 | 2025. évi C. törvény | 2001-120-00-00.107 |
