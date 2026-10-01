@@ -1,3 +1,3 @@
-## 9/A. §[^83] A Készenléti Rendőrség országos illetékességgel végzi a hatáskörébe utalt költségvetési, vagyongazdálkodási feladatok ellátását.
+9/B. §[^83]
 
-[^83]: A 9/A. §-t a 157/2015. (VI. 25.) Korm. rendelet 13. §-a iktatta be, szövege a 164/2015. (VI. 30.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^83]: A 9/B. §-t a 276/2021. (V. 26.) Korm. rendelet 3. §-a iktatta be, a 172/2026. (IX. 21.) Korm. rendelet 9. §-a hatályon kívül helyezte.

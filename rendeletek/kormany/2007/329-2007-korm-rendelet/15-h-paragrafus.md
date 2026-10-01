@@ -1,4 +1,4 @@
-15/H. §[^207] A Nemzetközi Bűnügyi Együttműködési Központ az ORFK-ba történő beolvadással 2025. július 1. napjával megszűnik. Az ORFK a Nemzetközi Bűnügyi Együttműködési Központ jogutódja. E § hatálybalépése[^208] és 2025. július 1-je között a Nemzetközi Bűnügyi Együttműködési Központ a beolvadás időpontja utáni időszakra kötelezettséget az ORFK egyetértésével vállalhat.
+15/H. §[^206] A Nemzetközi Bűnügyi Együttműködési Központ az ORFK-ba történő beolvadással 2025. július 1. napjával megszűnik. Az ORFK a Nemzetközi Bűnügyi Együttműködési Központ jogutódja. E § hatálybalépése[^207] és 2025. július 1-je között a Nemzetközi Bűnügyi Együttműködési Központ a beolvadás időpontja utáni időszakra kötelezettséget az ORFK egyetértésével vállalhat.
 
-[^207]: A 15/H. §-t a 111/2025. (V. 26.) Korm. rendelet 3. §-a iktatta be.
-[^208]: A hatálybalépés időpontja 2025. május 27.
+[^206]: A 15/H. §-t a 111/2025. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^207]: A hatálybalépés időpontja 2025. május 27.

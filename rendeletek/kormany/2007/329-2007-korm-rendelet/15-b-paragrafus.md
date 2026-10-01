@@ -1,6 +1,6 @@
-15/B. §[^199] (1)[^200]
+15/B. §[^198] (1)[^199]
 
-(2)[^201]
+(2)[^200]
 
 (3) Az ORFK-ból az ORFK szervezeti és működési szabályzata alapján
 
@@ -20,6 +20,6 @@ elnevezésű szervezeti eleme – a közfeladatok hatékonyabb ellátása érdek
 
 (6) Az (1) és a (3) bekezdés szerinti átalakítással érintett szervezeti elemek, illetve rendőri szerv vonatkozásában az átalakítás időpontja utáni időszakra áthúzódó kötelezettséget az ORFK a rendészetért felelős miniszter egyetértésével vállalhat. Az ORFK az átalakítás időpontjáig a költségvetési kiadási előirányzatainak a kiválással érintett szervezeti elemre jutó arányos része terhére – az európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget nem vállalhat, foglalkoztatásra irányuló jogviszonyt nem létesíthet vagy szüntethet meg.
 
-[^199]: A 15/B. §-t a 164/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
-[^200]: A 15/B. § (1) bekezdését a 111/2025. (V. 26.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
-[^201]: A 15/B. § (2) bekezdését a 111/2025. (V. 26.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
+[^198]: A 15/B. §-t a 164/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^199]: A 15/B. § (1) bekezdését a 111/2025. (V. 26.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
+[^200]: A 15/B. § (2) bekezdését a 111/2025. (V. 26.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
