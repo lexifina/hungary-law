@@ -1,3 +1,3 @@
-## 5/C. §[^22]
+5/D. §[^24]
 
-[^22]: Az 5/C. §-t a 207/2015. (VII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 193/2022. (V. 27.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
+[^24]: Az 5/D. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be, a 193/2022. (V. 27.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.

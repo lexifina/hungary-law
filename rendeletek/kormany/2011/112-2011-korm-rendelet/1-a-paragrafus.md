@@ -1,3 +1,3 @@
-## 1. §[^1]
+1/A. §[^2]
 
-[^1]: Az 1. §-t a 767/2021. (XII. 23.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1/A. §-t a 207/2015. (VII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 767/2021. (XII. 23.) Korm. rendelet 4. § a) pontja.

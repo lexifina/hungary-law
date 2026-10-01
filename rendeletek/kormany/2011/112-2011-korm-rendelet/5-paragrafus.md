@@ -16,23 +16,23 @@ c) légi fuvarozási tevékenység keretében végzett továbbítását nemzetk�
 
 a) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósággal (a továbbiakban: BM OKF), valamint annak illetékes szervével,
 
-b) a Terrorelhárítási Központtal (a továbbiakban: TEK)
+b)[^14] a Terrorelhárítási Központtal,
 
 c) az országos tisztifőorvossal.
 
-(5)[^14] E rendelet szerinti fuvarozási engedély megadása, visszavonása, módosítása során hozott döntését a légiközlekedési hatóság közli
+(5)[^15] E rendelet szerinti fuvarozási engedély megadása, visszavonása, módosítása során hozott döntését a légiközlekedési hatóság közli
 
 a) az OAH-val,
 
 b) az országos tisztifőorvossal,
 
-c)[^15]
+c)[^16]
 
 d) az engedélyes székhelye (telephelye) szerint illetékes közlekedési hatósággal és
 
 e) a BM OKF-fel.
 
-(6)[^16] A radioaktív anyag szállításának és fuvarozásának hatósági ellenőrzésére
+(6)[^17] A radioaktív anyag szállításának és fuvarozásának hatósági ellenőrzésére
 
 a) a rendőrség,
 
@@ -46,13 +46,13 @@ jogosult.
 
 (7) A (6) bekezdésben foglalt szervek tájékoztatják egymást a lefolytatott ellenőrzésekről.
 
-(8)[^17] Az OAH engedélyezi az ADR, a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) és az ADN szerinti különleges formájú radioaktív anyagok mintáit, a radioaktív anyagoknak külön megegyezés alapján történő nemzetközi vagy belföldi szállítását, a kismértékben diszpergálódó radioaktív anyagok mintáit, az A1 és A2 értékek számítását, készüléket vagy gyártmányt tartalmazó mentesített küldeményre vonatkozó alternatív aktivitás határ számítását, valamint – ha a veszélyes áruk szállításáról szóló jogszabályok azt engedélyhez kötik – a hasadó-engedményes anyagok mintáit; továbbá a radioaktív anyagot tartalmazó küldeménydarabok küldeménydarab-mintáit és szállítását. Az engedélyezési eljárás során a jogszabályi követelmények teljesülésének elbírálásához – az Atv. 17. § (3) bekezdésében meghatározott szakértőn vagy szakértői szervezeten kívül – az OAH igénybe veheti anyagszerkezeti, nukleárisbaleset-elhárítási, gépészeti, hőtani, kritikussági, minőségbiztosítási, sugárvédelmi, szállítási és szilárdságtani, az atomenergia alkalmazása körében eljáró független műszaki szakértő vagy az atomenergia alkalmazása körében sugárvédelmi szakértő közreműködését is. A szakértői eljárás időtartama legfeljebb 40 nap.
+(8)[^18] Az OAH engedélyezi az ADR, a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) és az ADN szerinti különleges formájú radioaktív anyagok mintáit, a radioaktív anyagoknak külön megegyezés alapján történő nemzetközi vagy belföldi szállítását, a kismértékben diszpergálódó radioaktív anyagok mintáit, az A1 és A2 értékek számítását, készüléket vagy gyártmányt tartalmazó mentesített küldeményre vonatkozó alternatív aktivitás határ számítását, valamint – ha a veszélyes áruk szállításáról szóló jogszabályok azt engedélyhez kötik – a hasadó-engedményes anyagok mintáit; továbbá a radioaktív anyagot tartalmazó küldeménydarabok küldeménydarab-mintáit és szállítását. Az engedélyezési eljárás során a jogszabályi követelmények teljesülésének elbírálásához – az Atv. 17. § (3) bekezdésében meghatározott szakértőn vagy szakértői szervezeten kívül – az OAH igénybe veheti anyagszerkezeti, nukleárisbaleset-elhárítási, gépészeti, hőtani, kritikussági, minőségbiztosítási, sugárvédelmi, szállítási és szilárdságtani, az atomenergia alkalmazása körében eljáró független műszaki szakértő vagy az atomenergia alkalmazása körében sugárvédelmi szakértő közreműködését is. A szakértői eljárás időtartama legfeljebb 40 nap.
 
-(9)[^18] A küldeménydarab-minták engedélyezési eljárása során a (8) bekezdésben hivatkozott jogszabályokban foglaltakon kívül a hasadóképes izotópok esetében előírható a kritikussági analízis elvégzése.
+(9)[^19] A küldeménydarab-minták engedélyezési eljárása során a (8) bekezdésben hivatkozott jogszabályokban foglaltakon kívül a hasadóképes izotópok esetében előírható a kritikussági analízis elvégzése.
 
 (10) A radioaktív anyagok szállítása, fuvarozása iránti kérelem kizárólag írásban terjeszthető elő. Ha az engedélyezési dokumentációt papír alapon terjesztik elő, a kérelmezőnek további egy példányt elektronikus adathordozón is mellékelnie kell az OAH által elfogadott fájlformátumokban. Az elfogadott fájlformátumok jegyzékét az OAH a honlapján közzéteszi.
 
-(11)[^19] Ha a járművön radioaktív anyagot tartalmazó berendezés állandó jelleggel történő, vagy a radioaktív anyagot tartalmazó küldemény különleges elhelyezése miatt a jármű átalakítása válik szükségessé, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott átalakítási engedélyhez az országos tisztifőorvos sugáregészségügyi szakvéleményét előzetesen be kell szerezni.
+(11)[^20] Ha a járművön radioaktív anyagot tartalmazó berendezés állandó jelleggel történő, vagy a radioaktív anyagot tartalmazó küldemény különleges elhelyezése miatt a jármű átalakítása válik szükségessé, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott átalakítási engedélyhez az országos tisztifőorvos sugáregészségügyi szakvéleményét előzetesen be kell szerezni.
 
 [^8]: A 4. § a 767/2021. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^9]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 329. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -60,9 +60,10 @@ jogosult.
 [^11]: Az 5. § (2) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 90. § (4) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^12]: Az 5. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 90. § (1) bekezdésével megállapított, a 767/2021. (XII. 23.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^13]: Az 5. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 90. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^14]: Az 5. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 90. § (4) bekezdés c) pontja, a 767/2021. (XII. 23.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^15]: Az 5. § (5) bekezdés c) pontját a 162/2018. (IX. 10.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
-[^16]: Az 5. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 90. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^17]: Az 5. § (8) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (9) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
-[^19]: Az 5. § (11) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^14]: Az 5. § (4) bekezdés b) pontja a 182/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 5. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 90. § (4) bekezdés c) pontja, a 767/2021. (XII. 23.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^16]: Az 5. § (5) bekezdés c) pontját a 162/2018. (IX. 10.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^17]: Az 5. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 90. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: Az 5. § (8) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (9) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^20]: Az 5. § (11) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 17. §-a szerint módosított szöveg.
