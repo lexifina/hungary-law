@@ -12,7 +12,7 @@ d) a rendvédelmi szervek,
 
 e) a fegyveres biztonsági őrség,
 
-f) az Országgyűlési Őrség,
+f)
 
 g) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény,
 

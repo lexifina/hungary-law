@@ -2,7 +2,7 @@
 
 (2) A 12. § (2) bekezdés e) pontjában foglalt adatok szolgáltatásának igénylésére
 
-a) a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdésében meghatározott feladatainak ellátásához a terrorizmust elhárító szerv, valamint
+a) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladat ellátása céljából az általános rendőrségi feladatok ellátására létrehozott szerv, valamint
 
 b) az 5. § (1) bekezdésében, illetve a 6. § (1) bekezdésében felsoroltak
 

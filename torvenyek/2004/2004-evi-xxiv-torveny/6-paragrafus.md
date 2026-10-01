@@ -6,7 +6,7 @@ b) a nemzetbiztonsági szolgálatok, valamint a vámhatóság a törvényben meg
 
 c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint;
 
-d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási feladatainak ellátásához;
+d) az általános rendőrségi feladatok ellátására létrehozott szerv személyvédelmi és létesítménybiztosítási feladatainak ellátásához;
 
 e) a lőfegyverek, lőszerek és a hatástalanított lőfegyverek vizsgálatára jogosult szervezet, a jogszabályban meghatározott feladatainak az ellátása céljából.
 
