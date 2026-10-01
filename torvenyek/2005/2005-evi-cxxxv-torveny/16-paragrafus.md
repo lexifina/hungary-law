@@ -1,6 +1,6 @@
 ## Nyilvántartás
 
-16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint vármegyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
+16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 

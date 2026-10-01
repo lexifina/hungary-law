@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-135-00-00
 | 2025-09-01 | 2025. évi XLIX. törvény | 2005-135-00-00.31 |
 | 2026-01-02 | 2025. évi CXVIII. törvény | 2005-135-00-00.32 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2005-135-00-00.33 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2005-135-00-00.34 |
