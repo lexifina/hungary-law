@@ -4,7 +4,7 @@
 
 a) az Országos Rendőr-főkapitányság által kiszabott bírság esetén a Magyar Államkincstárnál vezetett,
 
-b) a Terrorelhárítási Központ által kiszabott bírság esetén a Magyar Államkincstárnál vezetett,
+b)[^4]
 
 c) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság által kiszabott bírság esetén a Magyar Államkincstárnál vezetett, valamint
 
@@ -15,3 +15,4 @@ központosított beszedési számlára kell befizetni.
 [^1]: Az 1. § a 351/2010. (XII. 30.) Korm. rendelet 276. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 154. § (1) bekezdésével megállapított, a 162/2018. (IX. 10.) Korm. rendelet 15. §-a, a 616/2022. (XII. 29.) Korm. rendelet 110. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés b) pontját a 175/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
