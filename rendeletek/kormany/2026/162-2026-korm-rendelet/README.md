@@ -1,0 +1,9 @@
+# 162/2026. (IX. 21.) Korm. rendelet
+
+a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletnek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-162-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-10-01 | 2026-162-20-22.1 | 162/2026. (IX. 21.) Korm. rendelet |
