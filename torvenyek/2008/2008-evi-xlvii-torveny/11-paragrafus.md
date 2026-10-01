@@ -8,8 +8,8 @@ b) a jogsértésért felelős vállalkozás mérete a nettó árbevétel nagysá
 
 a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg
 
-b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három vármegyében terjesztett napilap útján valósul meg,
+b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három megyében terjesztett napilap útján valósul meg,
 
-c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három vármegye fogyasztói felé irányul, vagy
+c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három megye fogyasztói felé irányul, vagy
 
-d) a termék eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három vármegyében megszervezésre kerül.
+d) a termék eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három megyében megszervezésre kerül.
