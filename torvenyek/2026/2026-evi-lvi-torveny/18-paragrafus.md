@@ -1,15 +1,3 @@
 ## 5. Záró rendelkezések
 
 18. § Ez a törvény 2026. október 1-jén lép hatályba.
-
-|
-
-Dr. Baka András s. k.,
-
-köztársasági elnök
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke
