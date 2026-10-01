@@ -50,7 +50,7 @@ j)
 
 k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
 
-l) a Magyar Vöröskereszt fővárosi, vármegyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
+l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
 
 m)
 

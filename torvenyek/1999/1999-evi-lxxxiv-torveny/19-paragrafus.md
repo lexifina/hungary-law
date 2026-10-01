@@ -1,6 +1,6 @@
 19. § (1) A nyilvántartásból igényelheti(k):
 
-a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
+a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 
 b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 
@@ -36,7 +36,7 @@ k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
 l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztosító a biztosítási szerződés megkötéséhez, nyilvántartásához, módosításához, megszüntetéséhez, továbbá a kárrendezési eljáráshoz, valamint a Magyar Biztosítók Szövetsége a Gfbt. 56. § (1) bekezdése szerinti feladatainak ellátásához a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
+m) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi és létesítménybiztosítási feladatai ellátásához, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata ellátásához szükséges adatokat;
 
 n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása, és a várakozási hozzájárulás kiadása iránti kérelem elbírálása érdekében a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdésében, a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében meghatározott adatokat;
 
