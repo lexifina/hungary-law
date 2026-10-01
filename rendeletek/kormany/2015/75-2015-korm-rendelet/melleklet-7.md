@@ -1,4 +1,4 @@
-7. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^82]
+7. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^85]
 
 A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak EOV-ban megadott koordinátáival
 
@@ -32,4 +32,4 @@ A beruházás megvalósításához kapcsolódó, építési joggal érintett ing
 
 | 13. | 240730.750 | 843357.144 |
 
-[^82]: A 7. mellékletet a 283/2025. (VIII. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^85]: A 7. mellékletet a 283/2025. (VIII. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.

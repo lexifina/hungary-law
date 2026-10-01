@@ -1,11 +1,11 @@
-## 11. §[^50] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 323/2022. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 3. § (7) és (8) bekezdését, valamint megállapított 3. § (11) bekezdését a Módr5. hatálybalépésekor[^51] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 11. §[^51] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 323/2022. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 3. § (7) és (8) bekezdését, valamint megállapított 3. § (11) bekezdését a Módr5. hatálybalépésekor[^52] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-12. §[^52] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 42/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 3/B. §-át a Módr6. hatálybalépésekor[^53] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+12. §[^53] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 42/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 3/B. §-át a Módr6. hatálybalépésekor[^54] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-12. §[^54]
+12. §[^55]
 
-[^50]: A 11. §-t a 323/2022. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^51]: A hatálybalépés időpontja 2022. augusztus 19.
-[^52]: A 12. §-t a 42/2023. (II. 20.) Korm. rendelet 2. §-a iktatta be.
-[^53]: A hatálybalépés időpontja 2023. február 23.
-[^54]: A második 12. §-t a 63/2023. (II. 28.) Korm. rendelet 3. §-a iktatta be, az 517/2023. (XI. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^51]: A 11. §-t a 323/2022. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^52]: A hatálybalépés időpontja 2022. augusztus 19.
+[^53]: A 12. §-t a 42/2023. (II. 20.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A hatálybalépés időpontja 2023. február 23.
+[^55]: A második 12. §-t a 63/2023. (II. 28.) Korm. rendelet 3. §-a iktatta be, az 517/2023. (XI. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.

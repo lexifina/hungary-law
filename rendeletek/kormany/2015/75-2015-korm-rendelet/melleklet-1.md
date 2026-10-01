@@ -1,4 +1,4 @@
-1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^70]
+1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^73]
 
 A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
@@ -46,7 +46,7 @@ A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 22. földvédelmi hatósági eljárás,
 
-23.[^71] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+23.[^74] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 24. hulladékgazdálkodási hatósági eljárások,
 
@@ -56,5 +56,5 @@ A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^70]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^71]: Az 1. melléklet 23. pontja a 257/2024. (VIII. 29.) Korm. rendelet 158. §-a szerint módosított szöveg.
+[^73]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^74]: Az 1. melléklet 23. pontja a 257/2024. (VIII. 29.) Korm. rendelet 158. §-a szerint módosított szöveg.

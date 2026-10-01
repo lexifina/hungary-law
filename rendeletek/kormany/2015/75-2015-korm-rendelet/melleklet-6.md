@@ -1,4 +1,4 @@
-6. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^81]
+6. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^84]
 
 ## A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak EOV-ban megadott koordinátáival
 
@@ -564,4 +564,4 @@
 
 | 141. | 243245.680 | 842440.780 |
 
-[^81]: A 6. mellékletet a 305/2024. (X. 24.) Korm. rendelet 4. §-a iktatta be.
+[^84]: A 6. mellékletet a 305/2024. (X. 24.) Korm. rendelet 4. §-a iktatta be.
