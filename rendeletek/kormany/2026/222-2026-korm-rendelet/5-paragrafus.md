@@ -1,0 +1,5 @@
+## 3. Az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosítása
+
+5. § Az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet [a továbbiakban: 359/2020. (VII. 23.) Korm. rendelet] a következő 3/D. §-sal egészül ki:
+
+„3/D. § Az akkumulátorgyártáshoz kapcsolódó épületek, infrastrukturális fejlesztések megvalósítására irányuló Beruházással összefüggésben a környezetvédelmi vagy természetvédelmi szabályok megsértését megállapító hatósági döntés véglegessé válásától a jogsértő állapot megszüntetéséig, de legalább a döntés véglegessé válásától számított 6 hónapig a Beruházás megvalósításához kapcsolódó építmény építésére építési engedély vagy létesítési engedély nem adható ki.”
