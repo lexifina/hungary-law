@@ -1,3 +1,0 @@
-## 4. § Az Országgyűlési Őrség parancsnoka abban az esetben korlátozhatja a magáncélú telekommunikációs eszközök szolgálatellátás során történő használatát, ha azok szolgálatban történő birtoklása általános tiltásának feltételei nem állnak fenn, de a végrehajtandó szolgálati feladatok tartalma alapján a szolgálat ellátásával nem fér össze a magáncélú telekommunikációs eszköz használata. A korlátozás vonatkozhat a teljes szolgálat időtartamára, annak meghatározott időszakára vagy egyedileg meghatározott szolgálati feladat végrehajtásának időtartamára.
-
-5. § Ez a rendelet 2015. július 1-jén lép hatályba.
