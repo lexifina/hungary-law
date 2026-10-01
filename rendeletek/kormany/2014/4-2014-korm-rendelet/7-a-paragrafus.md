@@ -1,1 +1,0 @@
-## 7. § A Kormány az Országgyűlési Őrség vonatkozásában az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlójaként az országos rendőrfőkapitányt jelöli ki, aki hatósági jogkörét az általános rendőrségi feladatok ellátására létrehozott szerv rendvédelmi tisztiorvosa útján látja el.

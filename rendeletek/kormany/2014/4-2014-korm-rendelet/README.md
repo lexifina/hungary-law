@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-22
 | 2023-01-01 | 2014-4-20-22.8 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-12-29 | 2014-4-20-22.9 | 659/2023. (XII. 28.) Korm. rendelet |
 | 2025-03-01 | 2014-4-20-22.10 | 24/2025. (II. 27.) Korm. rendelet |
+| 2026-10-01 | 2014-4-20-22.11 | 189/2026. (IX. 21.) Korm. rendelet |

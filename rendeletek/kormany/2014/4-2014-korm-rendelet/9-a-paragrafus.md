@@ -1,10 +1,10 @@
-9/A. §[^9] (1)[^10] A rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok vonatkozásában a közegészségügyi és járványügyi szabályok helyszíni ellenőrzése során
+9/A. §[^12] (1)[^13] A rendvédelmi feladatokat ellátó szervek, a polgári nemzetbiztonsági szolgálatok vonatkozásában a közegészségügyi és járványügyi szabályok helyszíni ellenőrzése során
 
 a) a hatósági ellenőrzést végző személy az ellenőrzési jogosultságát megbízólevél felmutatásával igazolja,
 
-b)[^11] az ellenőrzött rendvédelmi feladatokat ellátó szerv, polgári nemzetbiztonsági szolgálat vezetője az ellenőrzés feltételeit biztosítani köteles.
+b)[^14] az ellenőrzött rendvédelmi feladatokat ellátó szerv, polgári nemzetbiztonsági szolgálat vezetője az ellenőrzés feltételeit biztosítani köteles.
 
-(2)[^12] A helyszíni ellenőrzés során megállapított tényeket, hiányosságokat ellenőrzési jegyzőkönyvben kell rögzíteni, amely tartalmazza az ellenőrzést végzők és az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat részéről résztvevők nevét, beosztását és szolgálati helyét. A jegyzőkönyvet három példányban kell elkészíteni. Az 1. számú példányt az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat vezetőjének át kell adni, a 2. számú példányt a rendvédelmi tisztiorvos kapja, a 3. számú példányt irattárban kell elhelyezni.
+(2)[^15] A helyszíni ellenőrzés során megállapított tényeket, hiányosságokat ellenőrzési jegyzőkönyvben kell rögzíteni, amely tartalmazza az ellenőrzést végzők és az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat részéről résztvevők nevét, beosztását és szolgálati helyét. A jegyzőkönyvet három példányban kell elkészíteni. Az 1. számú példányt az ellenőrzött rendvédelmi szerv, polgári nemzetbiztonsági szolgálat vezetőjének át kell adni, a 2. számú példányt a rendvédelmi tisztiorvos kapja, a 3. számú példányt irattárban kell elhelyezni.
 
 (3) A helyszíni ellenőrzés során észlelt hiányosság alapján
 
@@ -30,7 +30,7 @@ a) kisebb súlyú mulasztás esetén felhívja az ellenőrzött rendvédelmi fel
 
 b) fegyelmi vétséget megvalósító magatartás felfedésekor kezdeményezheti a fegyelmi jogkör gyakorlójánál a fegyelmi eljárás lefolytatását.
 
-[^9]: A 9/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 483. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^10]: A 9/A. § (1) bekezdés nyitó szövegrésze a 24/2025. (II. 27.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
-[^11]: A 9/A. § (1) bekezdés b) pontja a 24/2025. (II. 27.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
-[^12]: A 9/A. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
+[^12]: A 9/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 483. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 9/A. § (1) bekezdés nyitó szövegrésze a 24/2025. (II. 27.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[^14]: A 9/A. § (1) bekezdés b) pontja a 24/2025. (II. 27.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^15]: A 9/A. § (2) bekezdése a 24/2025. (II. 27.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
