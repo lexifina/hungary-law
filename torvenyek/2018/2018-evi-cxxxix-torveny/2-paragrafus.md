@@ -2,7 +2,7 @@
 
 2. § (1) A Második Részben foglalt Országos Területrendezési Terv (a továbbiakban: OTrT.) területi hatálya kiterjed az ország teljes közigazgatási területére.
 
-(2) A Harmadik Részben foglalt, a Budapesti Agglomeráció Területrendezési Tervének (a továbbiakban: BATrT.) területi hatálya Budapestre, valamint Pest vármegyének az 1/1. mellékletben felsorolt, a budapesti agglomerációhoz tartozó településeire (a továbbiakban együtt: Budapesti Agglomeráció) terjed ki.
+(2) A Harmadik Részben foglalt, a Budapesti Agglomeráció Területrendezési Tervének (a továbbiakban: BATrT.) területi hatálya Budapestre, valamint Pest megyének az 1/1. mellékletben felsorolt, a budapesti agglomerációhoz tartozó településeire (a továbbiakban együtt: Budapesti Agglomeráció) terjed ki.
 
 (3) A Negyedik Részben foglalt, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének (a továbbiakban: BKÜTrT.) területi hatálya a Balaton Kiemelt Üdülőkörzet településeire terjed ki. A Balaton Kiemelt Üdülőkörzethez tartozó települések jegyzékét az 1/2. melléklet tartalmazza.
 

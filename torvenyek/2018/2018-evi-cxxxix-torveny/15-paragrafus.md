@@ -1,4 +1,4 @@
-15. § (1) A kiemelt térségek, illetve a vármegyék területrendezési tervében
+15. § (1) A kiemelt térségek, illetve a megyék területrendezési tervében
 
 a) az országos műszaki infrastruktúra-hálózatok és a műszaki infrastruktúra egyedi építményeinek helyét az Ország Szerkezeti Tervében meghatározott térbeli rend figyelembevételével kell meghatározni,
 
@@ -6,8 +6,8 @@ b) az országos műszaki infrastruktúra-hálózatoknak az Ország Szerkezeti Te
 
 (2) A településrendezési tervben
 
-a) az országos és térségi műszaki infrastruktúra-hálózatok és a műszaki infrastruktúra egyedi építményeinek helyét a kiemelt térségi, illetve vármegyei területrendezési tervekben meghatározott térbeli rend figyelembevételével kell meghatározni,
+a) az országos és térségi műszaki infrastruktúra-hálózatok és a műszaki infrastruktúra egyedi építményeinek helyét a kiemelt térségi, illetve megyei területrendezési tervekben meghatározott térbeli rend figyelembevételével kell meghatározni,
 
-b) az országos és térségi műszaki infrastruktúra-hálózatok nyomvonala a településrendezési terv egyeztetési eljárásában részt vevő, az egyeztetés tárgyát képező infrastruktúra elem vonatkozásában az adott egyeztetési szakterületet képviselő államigazgatási szerv hozzájárulása, és az egyéb érintett szakterületet képviselő államigazgatási szerv egyetértése esetén térhet el a kiemelt térségi, illetve vármegyei területrendezési tervek szerkezeti tervében megállapított nyomvonalváltozattól, azok térbeli rendjétől és a térbeli rend szempontjából meghatározó települések felsorolásától.
+b) az országos és térségi műszaki infrastruktúra-hálózatok nyomvonala a településrendezési terv egyeztetési eljárásában részt vevő, az egyeztetés tárgyát képező infrastruktúra elem vonatkozásában az adott egyeztetési szakterületet képviselő államigazgatási szerv hozzájárulása, és az egyéb érintett szakterületet képviselő államigazgatási szerv egyetértése esetén térhet el a kiemelt térségi, illetve megyei területrendezési tervek szerkezeti tervében megállapított nyomvonalváltozattól, azok térbeli rendjétől és a térbeli rend szempontjából meghatározó települések felsorolásától.
 
-(3) Az országos és térségi műszaki infrastruktúra-hálózatok nyomvonalának meghatározásánál biztosítani kell a szomszédos vármegyék és települések határán a folyamatos kapcsolódás lehetőségét.
+(3) Az országos és térségi műszaki infrastruktúra-hálózatok nyomvonalának meghatározásánál biztosítani kell a szomszédos megyék és települések határán a folyamatos kapcsolódás lehetőségét.

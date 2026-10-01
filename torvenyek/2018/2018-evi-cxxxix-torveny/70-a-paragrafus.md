@@ -14,6 +14,6 @@
 
 (8) Kisajátítási kártalanításra, kártalanításra a települési önkormányzat kötelezett, ha e törvénytől, a Vízparti Terv településrendezési tervben történő alkalmazásának szabályaitól, a Balaton vízparti településrendezési és építési követelményektől vagy a Vízparti Tervtől függetlenül rendelkezik a helyi építési szabályzat az övezeti átsorolásról, állapítja meg másként vagy korlátozza az ingatlan rendeltetését, használati módját.
 
-(9) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes vármegyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+(9) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
 
 (10) A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási perre az Méptv. 91. § (3) bekezdésében foglaltakat kell alkalmazni.
