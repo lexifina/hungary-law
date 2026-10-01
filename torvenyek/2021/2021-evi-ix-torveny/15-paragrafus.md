@@ -10,7 +10,7 @@ a) köztársasági elnök,
 
 b) országgyűlési képviselő, nemzetiségi szószóló vagy Magyarországon megválasztott európai parlamenti képviselő,
 
-c) polgármester (főpolgármester) vagy vármegyei közgyűlés elnöke,
+c) polgármester (főpolgármester) vagy megyei közgyűlés elnöke,
 
 d) az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő,
 
