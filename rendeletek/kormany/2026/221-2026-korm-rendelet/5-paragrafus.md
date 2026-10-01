@@ -1,5 +1,5 @@
-## 3.[^2]
+## 3.[^3]
 
 5. §
 
-[^2]: A 3. alcím a 8. § (2) bekezdése alapján 2026. október 29-én lép hatályba.
+[^3]: A 3. alcím a 8. § (2) bekezdése alapján 2026. október 29-én lép hatályba.

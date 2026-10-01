@@ -14,4 +14,6 @@
 
 ## 1. A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet módosítása
 
-1. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 5. § (3) bekezdésében az „– a külpolitikáért felelős miniszter kivételével – a miniszterek” szövegrész helyébe az „a belügyminiszter” szöveg és az „az érintett miniszter” szövegrész helyébe az „a belügyminiszter” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
