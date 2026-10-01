@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+2. § A Rendelet 2. melléklete helyébe az 1. melléklet lép.
