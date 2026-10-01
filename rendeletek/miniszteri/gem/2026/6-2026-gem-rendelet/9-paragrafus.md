@@ -1,0 +1,5 @@
+9. § Az ESZ Keretrendelet 7. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet és a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó hatósági árak képzésének keretszabályairól szóló 70/2016. (XII. 29.) NFM rendelet módosításáról szóló 6/2026. (IX. 30.) GEM rendelet (a továbbiakban: Mód. rendelet) hatálybalépését megelőző napon érvényes nagykereskedői árrés tőkeköltség elemének megállapításakor figyelembe vett, a jelen rendelet Mód. rendelet hatálybalépését megelőző napon hatályos 2. melléklet 4. pontja szerinti elemek tényértékekhez képesti eltérése miatti árbevétel többlet vagy hiány figyelembevételre kerül a nagykereskedő éves elszámolási elem megállapítása során.
+
+(4) A nagykereskedői árrés, valamint az egyetemes szolgáltatói árrés megállapításánál a vonatkozó keretszabályokat legelőször a 2026. október 1-jétől induló gázévre kell alkalmazni.”
