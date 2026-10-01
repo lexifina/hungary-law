@@ -42,7 +42,7 @@ előzetesen rögzíti (a továbbiakban: előzetes rögzítés).
 
 (7) A tömegrendezvény szervezője az (1) bekezdés szerinti kötelezettség teljesítése érdekében rögzített adatokat
 
-a) a Rendőrségről szóló törvény szerinti terrorizmust elhárító szerv,
+a) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott, valamint a személyvédelmi vagy létesítménybiztosítási feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv,
 
 b) a Rendőrségről szóló törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott bűnmegelőzési célból folytatott titkos információgyűjtést végző szerv,
 
