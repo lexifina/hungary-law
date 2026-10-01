@@ -1,6 +1,6 @@
 ## Adatvédelmi rendelkezések
 
-57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
+57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
 
 a) a természetes személyazonosító adatokat, a TAJ számát, valamint a bankszámlaszámot,
 
@@ -78,7 +78,7 @@ r) a foglalkoztatást elősegítő támogatások, valamint a támogatások és f
 
 tekintetében közhiteles hatósági nyilvántartás.
 
-(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
 
 (2c) A járási hivatal
 

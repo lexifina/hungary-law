@@ -126,7 +126,7 @@ f) egy tagállam nemzetiséghez tartozik, és akinek szakmai, nyelvi képzésén
 
 (5) Az (1) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) Az (1) bekezdés 1. pont a) alpontja szerinti adatokat a szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint az (1) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője a közfoglalkoztatás szervezésével kapcsolatos feladatok eredményes ellátása céljából rögzíti.
+(6) Az (1) bekezdés 1. pont a) alpontja szerinti adatokat a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint az (1) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője a közfoglalkoztatás szervezésével kapcsolatos feladatok eredményes ellátása céljából rögzíti.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
