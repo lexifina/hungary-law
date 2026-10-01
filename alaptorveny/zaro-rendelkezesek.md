@@ -186,7 +186,7 @@ A Magyarország Alaptörvényének tizenegyedik módosításával megállapítot
 
 28.
 
-A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
+A megyére való utalásként a vármegyére utaló elnevezés a 2026. szeptember 30-án hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenhetedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
 
 29.
 
