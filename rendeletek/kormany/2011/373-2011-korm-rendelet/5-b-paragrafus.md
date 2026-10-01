@@ -1,6 +1,4 @@
-## 5/A. §[^6] A Kormány az Országgyűlési Őrség vonatkozásában az elsőfokú munkavédelmi hatósági jogkör gyakorlójaként az országos rendőrfőkapitányt jelöli ki.
-
-## 5/B. [^7] Különös eljárási szabályok
+## 5/B. [^6] Különös eljárási szabályok
 
 5/B. § (1) A munkavédelmi hatósági jogkört gyakorló személy a munkavédelemről szóló törvényben meghatározottakon túl jogosult
 
@@ -12,5 +10,4 @@ b) a személyi állomány tagjának életét, egészségét fenyegető veszély 
 
 (3) Az ellenőrzés során az ellenőrzött szerv állományilletékes parancsnoka biztosítja az ellenőrzés feltételeit.
 
-[^6]: Az 5/A. §-t a 142/2013. (V. 13.) Korm. rendelet 1. §-a iktatta be.
-[^7]: Az 5/B. alcímet (5/B–5/C. §) a 457/2017. (XII. 28.) Korm. rendelet 372. §-a iktatta be. Alkalmazására lásd e modósító rendelet 618. §-át.
+[^6]: Az 5/B. alcímet (5/B–5/C. §) a 457/2017. (XII. 28.) Korm. rendelet 372. §-a iktatta be. Alkalmazására lásd e modósító rendelet 618. §-át.

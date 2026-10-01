@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-373-20-
 | 2019-07-01 | 2011-373-20-22.9 | 126/2019. (V. 30.) Korm. rendelet |
 | 2022-07-01 | 2011-373-20-22.10 | 186/2016. (VII. 13.) Korm. rendelet |
 | 2023-01-01 | 2011-373-20-22.11 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-10-01 | 2011-373-20-22.12 | 126/2019. (V. 30.) Korm. rendelet |
