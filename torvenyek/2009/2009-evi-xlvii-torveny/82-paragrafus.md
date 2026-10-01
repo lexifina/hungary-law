@@ -12,7 +12,7 @@ a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyé
 
 b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
 
-c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, továbbá elhárítás és információszerzés,
+c) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott, valamint a személyvédelmi és létesítménybiztosítási feladatának ellátása,
 
 d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
 
