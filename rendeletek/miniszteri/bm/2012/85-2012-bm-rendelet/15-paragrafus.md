@@ -1,1 +1,0 @@
-## 14. § A belföldi szolgálati kiküldetés szolgálati jellegének megállapítására és a kiküldetés belföldi kiküldetési rendelvényen történő elrendelésére az Országgyűlési Őrség parancsnoka vagy az általa megbízott vezető jogosult.
