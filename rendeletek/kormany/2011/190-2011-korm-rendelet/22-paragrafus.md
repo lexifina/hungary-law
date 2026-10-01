@@ -4,6 +4,6 @@
 
 a) a 23. §-ban meghatározott fizikai felmérésen értékelhető eredményt ért el, és
 
-b)[^52] legalább érettségi végzettséggel rendelkezik.
+b)[^48] legalább érettségi végzettséggel rendelkezik.
 
-[^52]: A 22. § b) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^48]: A 22. § b) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

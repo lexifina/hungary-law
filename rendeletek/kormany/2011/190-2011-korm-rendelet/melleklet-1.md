@@ -1,12 +1,12 @@
-## 44–45. §[^98]
-
-1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^99]
+1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^95]
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
 
 1. táblázat
 
 Nukleáris anyagok kategorizálása
+
+## 8K01151M_0
 
 |  | A | B | C | D | E |
 
@@ -26,11 +26,11 @@ Nukleáris anyagok kategorizálása
 
 | 8 | Besugárzott üzemanyag |  |  | Szegényített vagy természetes urán, tórium vagy alacsony dúsítású üzemanyag (kevesebb mint 10% hasadóanyag tartalommal)c |  |
 
-a minden plutónium, kivéve amelyikben a Pu-238 izotópkoncentrációja eléri a 80%-ot;
+## a minden plutónium, kivéve amelyikben a Pu-238 izotópkoncentrációja eléri a 80%-ot;
 
-b olyan anyag, amely nem volt reaktorban besugározva, vagy be lett sugározva, de a sugárzási szintje 1 m-es távolságban árnyékolás nélkül 1 Gy/h vagy alacsonyabb;
+## b olyan anyag, amely nem volt reaktorban besugározva, vagy be lett sugározva, de a sugárzási szintje 1 m-es távolságban árnyékolás nélkül 1 Gy/h vagy alacsonyabb;
 
-c Az olyan nukleáris üzemanyag kategóriája, amely eredeti hasadóanyag tartalma alapján I-es vagy II-es kategóriába volt sorolva besugárzás előtt, egy kategóriával növelhető (fizikai védelmi szintje csökkenthető), ha a sugárzási szintje 1 m-es körzetben árnyékolatlanul meghaladja az 1Gy/h értéket.
+## c Az olyan nukleáris üzemanyag kategóriája, amely eredeti hasadóanyag tartalma alapján I-es vagy II-es kategóriába volt sorolva besugárzás előtt, egy kategóriával növelhető (fizikai védelmi szintje csökkenthető), ha a sugárzási szintje 1 m-es körzetben árnyékolatlanul meghaladja az 1Gy/h értéket.
 
 2. táblázat
 
@@ -72,11 +72,13 @@ Radioaktív sugárforrások kategorizálása
 
 |  | PET vizsgálat |  |
 
+## 8K01151M_2
+
 | Ahol |  |
 
-Ai – a radioaktív sugárforrás i. izotópjának aktivitása;
+## Ai – a radioaktív sugárforrás i. izotópjának aktivitása;
 
-Di – a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló 11/2010. (III. 4.) KHEM rendelet mellékletében (a továbbiakban: KHEM rendelet) az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező.
+## Di – a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló 11/2010. (III. 4.) KHEM rendelet mellékletében (a továbbiakban: KHEM rendelet) az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező.
 
 3. táblázat
 
@@ -94,15 +96,4 @@ Radioaktív hulladékok kategorizálása
 
 | 5. | R < 1 | 4 |
 
-| Ahol |  |
-
-Ai – a radioaktív hulladék i. izotópjának aktivitása;
-
-Di – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező;
-
-S – a radioaktív hulladék aktivitás-koncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező;
-
-Rreal – az R érték hulladékokra vonatkozó S tényezővel módosított értéke.
-
-[^98]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^99]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^95]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

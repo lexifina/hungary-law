@@ -28,7 +28,7 @@ esetén.
 
 a) III. kategóriába tartozó nukleáris anyag alkalmazása, tárolása,
 
-b)[^27] 2. és 3. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása, valamint
+b)[^23] 2. és 3. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása, valamint
 
 c) 2. és 3. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása
 
@@ -36,7 +36,7 @@ c) 2. és 3. kategóriába tartozó radioaktív hulladék feldolgozása, tárol�
 
 (5) D-szintű fizikai védelmet kell biztosítani:
 
-a)[^28] 4–5. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása,
+a)[^24] 4–5. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása,
 
 b) nem kategorizált nukleáris anyagok alkalmazása, tárolása és szállítása, valamint
 
@@ -48,5 +48,5 @@ c) 4. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és
 
 (7) Feldolgozás és szállítás során a radioaktív hulladékká minősített radioaktív sugárforrás fizikai védelmi szintjére a radioaktív sugárforrás fizikai védelmi szintjére vonatkozó követelményeket kell alkalmazni.
 
-[^27]: A 7. § (4) bekezdés b) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^28]: A 7. § (5) bekezdés a) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
+[^23]: A 7. § (4) bekezdés b) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^24]: A 7. § (5) bekezdés a) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.

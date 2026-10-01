@@ -1,3 +1,3 @@
-5. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^169]
+5. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^165]
 
-[^169]: Az 5. melléklet a 217/2013. (VI. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^165]: Az 5. melléklet a 217/2013. (VI. 21.) Korm. rendelet 8. §-a szerint módosított szöveg.

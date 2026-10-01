@@ -4,7 +4,7 @@
 
 9. § (1) Az elrettentést úgy kell megvalósítani, hogy az a jogtalan eltulajdonítás, illetve szabotázs elkövetőjét tette előkészítésének, illetve kivitelezésének feladására késztesse.
 
-(2)[^29] Az elrettentést:
+(2)[^25] Az elrettentést:
 
 a) figyelmeztető táblák, feliratok,
 
@@ -16,4 +16,4 @@ d) veszélytudatossági tájékoztatás, és
 
 e) nyilvántartás-ellenőrzés
 
-[^29]: A 9. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^25]: A 9. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.

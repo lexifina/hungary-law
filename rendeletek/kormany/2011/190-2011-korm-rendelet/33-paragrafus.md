@@ -1,4 +1,4 @@
-## 32/C. §[^69] Ha a jóváhagyott fizikai védelmi tervében közölt adatokhoz képest olyan változás történik, amelyek nem igénylik a fizikai védelmi rendszer módosítását, erről a kötelezett írásban értesíti az OAH-t.
+## 32/C. §[^65] Ha a jóváhagyott fizikai védelmi tervében közölt adatokhoz képest olyan változás történik, amelyek nem igénylik a fizikai védelmi rendszer módosítását, erről a kötelezett írásban értesíti az OAH-t.
 
 ## 27. Adatszolgáltatás, jelentési rendszer
 
@@ -22,9 +22,9 @@ e) jelentésköteles események összefoglaló értékelése;
 
 f) elhatározott javítóintézkedések végrehajtásának állapota; továbbá
 
-g)[^70]
+g)[^66]
 
 (5) Az OAH és a rendőrség a fizikai védelmi rendszer működőképességének és hatékonyágának ellenőrzése érdekében további adatszolgáltatást írhat elő a kötelezett számára.
 
-[^69]: A 32/C. §-t a 423/2021. (VII. 15.) Korm. rendelet 3. § (5) bekezdése iktatta be.
-[^70]: A 33. § (4) bekezdé g) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (7) bekezdése hatályon kívül helyezte.
+[^65]: A 32/C. §-t a 423/2021. (VII. 15.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^66]: A 33. § (4) bekezdé g) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (7) bekezdése hatályon kívül helyezte.

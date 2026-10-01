@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-190-20-
 | 2021-08-14 | 2011-190-20-22.14 | 423/2021. (VII. 15.) Korm. rendelet |
 | 2022-06-15 | 2011-190-20-22.15 | 488/2015. (XII. 30.) Korm. rendelet |
 | 2022-07-01 | 2011-190-20-22.16 | 423/2021. (VII. 15.) Korm. rendelet |
+| 2026-10-01 | 2011-190-20-22.17 | 183/2026. (IX. 21.) Korm. rendelet |

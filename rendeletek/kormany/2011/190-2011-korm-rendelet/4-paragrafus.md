@@ -12,7 +12,7 @@
 
 (4) Az egyedileg alkalmazott, tárolt vagy szállított radioaktív sugárforrást az aktivitásuk és az adott izotópra vonatkozó izotóp-specifikus normalizáló tényező alapján az 1. melléklet 2. táblázata szerint kell kategorizálni.
 
-(5)[^24]
+(5)[^20]
 
 (6) Az egyedileg feldolgozott, tárolt vagy szállított radioaktív hulladékot az aktivitásuk és az adott izotópra vonatkozó izotóp-specifikus normalizáló tényező alapján az 1. melléklet 3. táblázata szerint kell kategorizálni.
 
@@ -20,4 +20,4 @@
 
 (8) Az ugyanazon fizikai védelmi zónában feldolgozott, tárolt vagy egyidejűleg szállított radioaktív hulladékok kategorizálása során az 1. melléklet 3. táblázata szerint izotóponként meghatározott R értékek összegéből számított és az S tényezővel korrigált, és ennek figyelembevételével egyedileg engedélyezett értéket kell figyelembe venni.
 
-[^24]: A 4. § (5) bekezdését a 37/2012. (III. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^20]: A 4. § (5) bekezdését a 37/2012. (III. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.

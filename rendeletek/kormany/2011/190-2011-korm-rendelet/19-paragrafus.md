@@ -18,10 +18,10 @@ a) a nukleáris biztonság és sugárvédelem szempontjából fontos rendszerek,
 
 b) a nukleáris biztonságot érintő munkakörökben foglalkoztatott személyek akadálytalanul végezhessék a nukleáris biztonságot és a sugárvédelmet érintő feladataikat.
 
-(5)[^43] A programozható rendszerek védelmi működése nem befolyásolhatja a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki vagy radioaktív anyag nyilvántartási funkciók működőképességét. A programozható rendszerek védelmének
+(5)[^39] A programozható rendszerek védelmi működése nem befolyásolhatja a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki vagy radioaktív anyag nyilvántartási funkciók működőképességét. A programozható rendszerek védelmének
 
 a) a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki vagy radioaktív anyag nyilvántartási funkciók vonatkozásában visszahatás-mentesnek kell lennie, és
 
 b) ki kell zárnia, hogy a programozható rendszer védelmének működése, vagy a védelem meghibásodása a nukleáris biztonsági, fizikai védelmi, nukleáris biztosítéki funkciók vagy radioaktív anyag nyilvántartási funkciók működésképtelenségét okozzák.
 
-[^43]: A 19. § (5) bekezdését a 357/2014. (XII. 29.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^39]: A 19. § (5) bekezdését a 357/2014. (XII. 29.) Korm. rendelet 4. § (6) bekezdése iktatta be.
