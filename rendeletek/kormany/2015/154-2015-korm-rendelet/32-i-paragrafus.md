@@ -22,7 +22,7 @@ g) képzési költségek megtérítése.
 
 (5) Ha a Hszt. 69. § (1) bekezdés d) pontja szerinti külföldre vezénylésre rendvédelmi műveleti célból kerül sor, a miniszter szolgálati érdekből elrendelheti az (1) bekezdés a) pontja szerinti kiküldetési ellátmány helyett a 32/D. § (1) bekezdés a) pontja szerinti külszolgálati ellátmány alkalmazását.
 
-(6)[^59] A Hszt. 69. § (3) bekezdés a) pontja alkalmazásával az Európai Határ- és Partvédelmi Ügynökség készenléti alakulatában való részvétel érdekében egy évet meg nem haladó időtartamra külföldre vezényelt
+(6)[^62] A Hszt. 69. § (3) bekezdés a) pontja alkalmazásával az Európai Határ- és Partvédelmi Ügynökség készenléti alakulatában való részvétel érdekében egy évet meg nem haladó időtartamra külföldre vezényelt
 
 a) az (1) bekezdés a) pontja és (2) bekezdése szerinti kiküldetési ellátmány,
 
@@ -32,4 +32,4 @@ c) az (1) bekezdés c) pontja szerinti lakhatással összefüggő költségtér�
 
 helyett olyan mértékű juttatásra jogosult, amelyet az Európai Határ- és Partvédelmi Ügynökség a vonatkozó európai uniós normák alapján a rendvédelmi szerv vagy közvetlenül a külföldre vezényelt részére megtérít.
 
-[^59]: A 32/I. § (6) bekezdését a 259/2021. (V. 20.) Korm. rendelet 36. §-a iktatta be.
+[^62]: A 32/I. § (6) bekezdését a 259/2021. (V. 20.) Korm. rendelet 36. §-a iktatta be.

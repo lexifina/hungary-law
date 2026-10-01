@@ -8,13 +8,13 @@
 
 | 3. | Belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv | „rendőr” | „r.” |
 
-| 4. | Terrorizmust elhárító szerv | „rendőr” | „r.” |
+| 4. |  |  |  |
 
 | 5. | Hivatásos katasztrófavédelmi szerv | „tűzoltó” | „tű.” |
 
 | 6. | Büntetés-végrehajtási szervezet | „büntetés-végrehajtási” | „bv.” |
 
-| 7. | Országgyűlési Őrség | „országgyűlési őr” | „ogy.” |
+| 7. |  |  |  |
 
 | 8. |  |  |  |
 
@@ -26,6 +26,6 @@
 
 | 12. | Országos Idegenrendészeti Főigazgatóság | „rendőr” | „r.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^81]
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^84]
 
-[^81]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a, a 280/2023. (VI. 29.) Korm. rendelet 40. §-a és 41. § c) pontja, a 206/2024. (VII. 29.) Korm. rendelet 7. § l) pontja, a 24/2025. (II. 27.) Korm. rendelet 57. § g) pontja szerint módosított szöveg.
+[^84]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a, a 280/2023. (VI. 29.) Korm. rendelet 40. §-a és 41. § c) pontja, a 206/2024. (VII. 29.) Korm. rendelet 7. § l) pontja, a 24/2025. (II. 27.) Korm. rendelet 57. § g) pontja, a 194/2026. (IX. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.

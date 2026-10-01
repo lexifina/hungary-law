@@ -2,10 +2,10 @@
 
 ## 3. A rendvédelmi szervhez tartozásra utaló rendfokozati jelzők
 
-6. § (1)[^9] A hivatásos állomány, illetve a szerződéses határvadász állomány tagja a rendvédelmi szervre utaló rendfokozati jelzőt a rendfokozatot megelőzően elhelyezve használja.
+6. § (1)[^11] A hivatásos állomány, illetve a szerződéses határvadász állomány tagja a rendvédelmi szervre utaló rendfokozati jelzőt a rendfokozatot megelőzően elhelyezve használja.
 
 (2) A Hszt. 346. § (2) bekezdése szerinti címzetes jelzőt a rendvédelmi szervhez tartozásra utaló jelzőt megelőzően kell elhelyezni.
 
 (3) Írásbeli megjelenés során a rendfokozat és a rendfokozati jelzők rövidített megjelölése is használható.
 
-[^9]: A 6. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.

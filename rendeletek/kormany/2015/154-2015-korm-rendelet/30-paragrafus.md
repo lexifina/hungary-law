@@ -8,6 +8,6 @@ b) a hivatásos állomány tagja pályázattal oktatói, nevelői vagy oktatáss
 
 (2) Ha a vezénylés az (1) bekezdésben nem említett munkakörbe történik, a vezénylésre a 15–22. §-t értelemszerűen alkalmazni kell.
 
-(3)[^45]
+(3)[^48]
 
-[^45]: A 30. § (3) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.
+[^48]: A 30. § (3) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.

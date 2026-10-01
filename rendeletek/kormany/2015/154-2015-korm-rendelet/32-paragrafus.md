@@ -4,19 +4,19 @@
 
 (2) A külföldre vezényléshez történő beleegyezésről, valamint a Hszt. 69. § (4) bekezdésében meghatározott tájékoztatás tudomásulvételéről a hivatásos állomány tagja a vezénylést megelőzően írásban nyilatkozik.
 
-(3)[^48] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
+(3)[^51] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
 
-a)[^49] a Hszt. 69. § (1) bekezdés a), b), d) vagy e) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
+a)[^52] a Hszt. 69. § (1) bekezdés a), b), d) vagy e) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
 
 b) az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés esetén a 12. alcímben,
 
-c)[^50] a Hszt. 69. § (1) bekezdés c) pontja alapján történő külföldre vezénylés esetén az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatottakról szóló, valamint a nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló kormányrendeletben
+c)[^53] a Hszt. 69. § (1) bekezdés c) pontja alapján történő külföldre vezénylés esetén az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatottakról szóló, valamint a nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló kormányrendeletben
 
 meghatározottak szerint jogosult.
 
-(4)[^51]
+(4)[^54]
 
-[^48]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^49]: A 32. § (3) bekezdés a) pontja a 272/2018. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^50]: A 32. § (3) bekezdés c) pontja a 628/2022. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^51]: A 32. § (4) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § h) pontja hatályon kívül helyezte.
+[^51]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^52]: A 32. § (3) bekezdés a) pontja a 272/2018. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^53]: A 32. § (3) bekezdés c) pontja a 628/2022. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^54]: A 32. § (4) bekezdését a 671/2020. (XII. 28.) Korm. rendelet 32. § h) pontja hatályon kívül helyezte.

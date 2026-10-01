@@ -12,16 +12,16 @@ c) vérszerinti, örökbefogadott, nevelt vagy mostohagyermeke addig, amíg a ne
 
 2. harmadik ország: olyan állam, amely nem tagállama az Európai Uniónak;
 
-3.[^61] kihelyező elöljáró: a miniszter;
+3.[^64] kihelyező elöljáró: a miniszter;
 
 4. kihelyező szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány tagja tartozik;
 
-5.[^62] külföldi állomáshely: az Európai Unió tagállamában vagy harmadik országban lévő hivatal vagy iroda, amelyet az összekötői tevékenység ellátása érdekében nemzetközi szerződés vagy megállapodás alapján más állam bűnüldöző vagy nemzetbiztonsági szervénél, uniós ügynökségnél, intézménynél vagy nemzetközi bűnüldözési, illetve nemzetbiztonsági szervezetnél hoztak létre, vagy amelyet e célból rendelkezésre bocsátottak;
+5.[^65] külföldi állomáshely: az Európai Unió tagállamában vagy harmadik országban lévő hivatal vagy iroda, amelyet az összekötői tevékenység ellátása érdekében nemzetközi szerződés vagy megállapodás alapján más állam bűnüldöző vagy nemzetbiztonsági szervénél, uniós ügynökségnél, intézménynél vagy nemzetközi bűnüldözési, illetve nemzetbiztonsági szervezetnél hoztak létre, vagy amelyet e célból rendelkezésre bocsátottak;
 
-6.[^63] összekötő tiszt: a rendvédelmi szerv hivatásos állományának tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, akit a külföldi állomáshelyre tartós külszolgálatra külföldre vezényeltek, és akinek feladata, hogy a kihelyező szervet képviselve kapcsolatot tartson az adott állam bűnüldöző, illetve nemzetbiztonsági szerveivel, uniós ügynökséggel, intézménnyel vagy nemzetközi szervezettel abból a célból, hogy hozzájáruljon a bűncselekmények megelőzéséhez vagy nyomozásához a közvetlen, gyors és hatékony, valamint a nemzeti rendszerbe illeszthető együttműködés biztosítása révén;
+6.[^66] összekötő tiszt: a rendvédelmi szerv hivatásos állományának tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, akit a külföldi állomáshelyre tartós külszolgálatra külföldre vezényeltek, és akinek feladata, hogy a kihelyező szervet képviselve kapcsolatot tartson az adott állam bűnüldöző, illetve nemzetbiztonsági szerveivel, uniós ügynökséggel, intézménnyel vagy nemzetközi szervezettel abból a célból, hogy hozzájáruljon a bűncselekmények megelőzéséhez vagy nyomozásához a közvetlen, gyors és hatékony, valamint a nemzeti rendszerbe illeszthető együttműködés biztosítása révén;
 
 7. tartós külszolgálat: az a külföldi állomáshelyen teljesített szolgálat, amelynek tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
 
-[^61]: A 33. § 3. pontja a 671/2020. (XII. 28.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
-[^62]: A 33. § 5. pontja az 597/2023. (XII. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^63]: A 33. § 6. pontja az 597/2023. (XII. 21.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^64]: A 33. § 3. pontja a 671/2020. (XII. 28.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
+[^65]: A 33. § 5. pontja az 597/2023. (XII. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^66]: A 33. § 6. pontja az 597/2023. (XII. 21.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

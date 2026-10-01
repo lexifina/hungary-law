@@ -1,4 +1,4 @@
-11. § (1)[^15] Az áthelyezésről
+11. § (1)[^17] Az áthelyezésről
 
 a) a közszolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati vagy rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezés esetén a Hszt. 96. §-a szerinti személyek két- vagy háromoldalú megállapodást kötnek,
 
@@ -8,7 +8,7 @@ c) a Magyar Honvédséghez történő áthelyezés esetén a hivatásos állomá
 
 d) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a Nemzeti Adó- és Vámhivatalt irányító miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a Nemzeti Adó- és Vámhivatal vezetője és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt.
 
-e)[^16] polgári nemzetbiztonsági szolgálathoz történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a polgári nemzetbiztonsági szolgálatot irányító miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a polgári nemzetbiztonsági szolgálat vezetője és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt.
+e)[^18] polgári nemzetbiztonsági szolgálathoz történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a polgári nemzetbiztonsági szolgálatot irányító miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a polgári nemzetbiztonsági szolgálat vezetője és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt.
 
 (2) Az áthelyezésről szóló megállapodást az átadó szervvel folytatott egyeztetés alapján az átvevő szerv készíti elő.
 
@@ -18,5 +18,5 @@ e)[^16] polgári nemzetbiztonsági szolgálathoz történő áthelyezés esetén
 
 (5) Ha az áthelyezésre a rendvédelmi szerven belül kerül sor, az áthelyezett személyi anyaggyűjtőjét az átadó szerv az áthelyezés elrendelését követően az átvevő szerv részére végleg eredetben átadja.
 
-[^15]: A 11. § (1) bekezdése a 206/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 11. § (1) bekezdés e) pontját a 24/2025. (II. 27.) Korm. rendelet 56. §-a iktatta be.
+[^17]: A 11. § (1) bekezdése a 206/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 11. § (1) bekezdés e) pontját a 24/2025. (II. 27.) Korm. rendelet 56. §-a iktatta be.

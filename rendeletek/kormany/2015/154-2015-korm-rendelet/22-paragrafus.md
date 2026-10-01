@@ -10,7 +10,7 @@ d) a hivatásos állomány tagjait megillető egészségügyi ellátás.
 
 (2) A más szervhez vezényeltet a fogadó szervnél a Hszt.-ben meghatározott jogosultságokon túl az alábbi jogosultságok illetik meg:
 
-a)[^33] a fogadó szervnek az ellátott munkakör vagy betöltött szolgálati beosztás szerinti foglalkoztatottaira vonatkozó kedvezmények és támogatások, ha azokban a vezényelt a rendvédelmi szervtől nem részesült,
+a)[^35] a fogadó szervnek az ellátott munkakör vagy betöltött szolgálati beosztás szerinti foglalkoztatottaira vonatkozó kedvezmények és támogatások, ha azokban a vezényelt a rendvédelmi szervtől nem részesült,
 
 b) a más szervhez vezényléssel – így különösen az utazással, költözéssel, szállás biztosításával – kapcsolatos költségek megtérítése.
 
@@ -20,4 +20,4 @@ b) a más szervhez vezényléssel – így különösen az utazással, költöz�
 
 (5) A vezénylési megállapodásban a felek – a vezényelt kifejezett hozzájárulásával – megállapodhatnak abban, hogy a más szervhez vezénylés tartamára a (4) bekezdéstől eltérően a vezényelt részére a fogadó szervnél megállapított illetmény nem éri el a más szervhez vezénylés előtt a szolgálati beosztásban elért illetmény összegét, a hivatásos állomány tagjának megállapított illetménye azonban ebben az esetben sem lehet kevesebb, mint a fogadó szervnél ellátott munkakörre érvényes bérrendszernek, besorolásnak megfelelő illetménynek a Hszt. 63. § (3) bekezdés d) pontja szerinti mértékű hivatásos pótlékkal növelt összege.
 
-[^33]: A 22. § (2) bekezdés a) pontja a 175/2025. (VI. 30.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
+[^35]: A 22. § (2) bekezdés a) pontja a 175/2025. (VI. 30.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
