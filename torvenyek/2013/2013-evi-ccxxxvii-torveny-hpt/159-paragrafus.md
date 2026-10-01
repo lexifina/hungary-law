@@ -24,7 +24,9 @@ f) kormányzati ellenőrzési szervvel,
 
 g) vagyonellenőrrel,
 
-h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel
+h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel, valamint
+
+i) a terrorcselekmények felderítési feladatait végző általános rendőrségi feladatok ellátására létrehozott szervvel
 
 szemben.
 

@@ -18,7 +18,7 @@ h) piacbefolyásolással
 
 van összefüggésben.
 
-(2) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörébe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
 

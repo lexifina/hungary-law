@@ -22,4 +22,4 @@ c) hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás induló tőkéj�
 
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
 
-(9)
+(9) A hitelintézet 2026. november 30-tól 2027. május 15-ig jogosult az iskolakezdési utalványról szóló kormányrendeletben foglaltaknak megfelelően iskolakezdési utalvány beváltására.

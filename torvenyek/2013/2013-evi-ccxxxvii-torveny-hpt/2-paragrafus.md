@@ -10,7 +10,7 @@ d) a nem pénzügyi intézmény által történő vámkezesség nyújtására, t
 
 e) a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalványra, valamint
 
-f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a vármegyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
+f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
 
 (2) E törvény hatálya nem terjed ki:
 

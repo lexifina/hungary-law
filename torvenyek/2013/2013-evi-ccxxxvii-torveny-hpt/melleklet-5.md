@@ -65,5 +65,3 @@ b) a hitelintézetek vonatkozásában a 77/780/EGK és a 89/646/EGK irányelvnek
 c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001. április 4-i 2001/24/EK európai parlamenti és tanácsi irányelvnek,
 
 d) a rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i európai parlamenti és tanácsi (EU) 2015/849 irányelvnek,
-
-e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
