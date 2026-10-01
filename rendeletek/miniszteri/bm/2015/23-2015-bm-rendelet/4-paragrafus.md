@@ -12,7 +12,7 @@ b) az adatkezelés jogalapjára, céljára és a kezelhető adatok fajtáira,
 
 c) az adatkezelés időtartamára,
 
-d)[^9] az érintettnek a személyes adatai kezelésével kapcsolatos jogaira, illetve azok gyakorlásának módjára,
+d)[^10] az érintettnek a személyes adatai kezelésével kapcsolatos jogaira, illetve azok gyakorlásának módjára,
 
 e) az információs önrendelkezési jog megsértése esetén a jogérvényesítési lehetőségekre,
 
@@ -20,4 +20,4 @@ f) az adatkezelő rendvédelmi szerv által alkalmazott adatbiztonsági intézke
 
 g) az adatok megismerésére jogosult személyek és szervek körére, illetve az adattovábbítás jogalapjára.
 
-[^9]: A 4. § (3) bekezdés d) pontja a 33/2019. (VIII. 30.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdés d) pontja a 33/2019. (VIII. 30.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
