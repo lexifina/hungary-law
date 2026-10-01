@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-78-20-2
 | 2019-10-17 | 2011-78-20-22.9 | 241/2019. (X. 16.) Korm. rendelet |
 | 2022-11-01 | 2011-78-20-22.10 | 241/2019. (X. 16.) Korm. rendelet |
 | 2023-07-07 | 2011-78-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2026-10-01 | 2011-78-20-22.12 | 181/2026. (IX. 21.) Korm. rendelet |
