@@ -73,11 +73,3 @@ b) a befektetési vállalkozás, az érintett szervezeti egység és a vezető �
 18. A teljesítményjavadalmazás legalább 50 százaléka jogszabály eltérő rendelkezése hiányában a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
 
 a) az érintett befektetési vállalkozás részvényeiből vagy tulajdoni részesedéseiből az érintett befektetési vállalkozás jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a befektetési vállalkozás esetében részvényhez kötött eszközökből vagy nem készpénz alapú eszközökből, és
-
-b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek
-
-ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy
-
-bb) leírhatóak az említett tőkeelemekből, és
-
-amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik. A visszatartási politika célja az egyéni ösztönzők összhangba hozatala a befektetési vállalkozás, annak hitelezői és ügyfelei hosszú távú érdekeivel.
