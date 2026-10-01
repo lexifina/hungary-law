@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-384-20-
 | 2021-03-13 | 2007-384-20-22.6 | 119/2021. (III. 10.) Korm. rendelet |
 | 2023-01-01 | 2007-384-20-22.7 | 569/2022. (XII. 23.) Korm. rendelet |
 | 2025-03-01 | 2007-384-20-22.8 | 118/2017. (V. 29.) Korm. rendelet |
+| 2026-10-01 | 2007-384-20-22.9 | 173/2026. (IX. 21.) Korm. rendelet |

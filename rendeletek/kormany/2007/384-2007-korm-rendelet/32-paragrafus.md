@@ -1,5 +1,5 @@
 ## Módosuló rendelkezések
 
-32. §[^71]
+32. §[^73]
 
-[^71]: A 32. §-t a 34. § hatályon kívül helyezte.
+[^73]: A 32. §-t a 34. § hatályon kívül helyezte.

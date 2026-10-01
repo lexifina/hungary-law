@@ -10,9 +10,9 @@
 
 ## A szakértői bizottság által tartott ülések jegyzőkönyve
 
-5. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^80]
+5. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^82]
 
-ORSZÁGOS RENDŐR-FŐKAPITÁNYSÁG / TERRORELHÁRÍTÁSI KÖZPONT / NEMZETI VÉDELMI SZOLGÁLAT / ORSZÁGOS IDEGENRENDÉSZETI FŐIGAZGATÓSÁG
+ORSZÁGOS RENDŐR-FŐKAPITÁNYSÁG / NEMZETI VÉDELMI SZOLGÁLAT / ORSZÁGOS IDEGENRENDÉSZETI FŐIGAZGATÓSÁG[^83]
 
 ## Határozat száma:
 
@@ -38,4 +38,5 @@ I. Az alkalmazásba vételi javaslat adatai
 
 II. Az alkalmazásba vétellel kapcsolatos döntés
 
-[^80]: Az 5. melléklet a 119/2021. (III. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^82]: Az 5. melléklet a 119/2021. (III. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^83]: Az 5. melléklet címe a 173/2026. (IX. 21.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
