@@ -2,7 +2,7 @@
 
 (2) Ha a körözési eljárás lefolytatásához szükséges adattal más hatóság, egyéb állami, önkormányzati szerv vagy – ha törvény lehetővé teszi – egyéb szerv vagy személy rendelkezik, a körözési eljárást lefolytató szerv e szervet megkeresheti a szükséges adat megismerése érdekében. A megkeresést harminc napon belül teljesíteni kell.
 
-(3) A körözési eljárást lefolytató szerv a rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 84. § (2) bekezdésében foglalt nyilvántartásokból, valamint az Interpol nyilvántartásából automatizált rendszer-rendszer kapcsolat, valamint közvetlen hozzáférés vagy adatigénylés útján adatot igényelhet a körözési eljárás lefolytatása céljából.
+(3) A körözési eljárást lefolytató szerv az Rtv. 84. § (2) bekezdésében foglalt nyilvántartásokból, valamint az Interpol nyilvántartásából automatizált rendszer-rendszer kapcsolat, valamint közvetlen hozzáférés vagy adatigénylés útján adatot igényelhet a körözési eljárás lefolytatása céljából.
 
 (4) A körözési eljárást lefolytató szerv a körözési eljárás során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a körözési eljárást lefolytató szervet. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a rendőrség nemzetközi bűnügyi együttműködési központját.
 

@@ -16,7 +16,7 @@ f) a rendőrségről szóló törvényben meghatározott általános rendőrség
 
 g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
 
-h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+h) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 
 i) a Nemzeti Információs Központ elemzés-értékelés, valamint hírigény teljesítése céljából,
 
@@ -30,7 +30,7 @@ l) az utasadat-információs egység az utasadatok kockázatelemzése céljábó
 
 (3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
-(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4)
 
 (4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
