@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-64-00-00
 | 2022-08-01 | 2022. évi XXVI. törvény | 2021-64-00-00.3 |
 | 2023-01-01 | 2022. évi XIX. törvény | 2021-64-00-00.4 |
 | 2023-01-02 | 2022. évi LXVIII. törvény | 2021-64-00-00.5 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2021-64-00-00.6 |

@@ -2,7 +2,7 @@
 
 a) az állam,
 
-b) helyi, vármegyei és nemzetiségi önkormányzat, önkormányzati társulás,
+b) helyi, megyei és nemzetiségi önkormányzat, önkormányzati társulás,
 
 c) költségvetési szerv,
 
