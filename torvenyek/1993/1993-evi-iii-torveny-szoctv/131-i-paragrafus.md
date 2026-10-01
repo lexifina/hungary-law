@@ -22,4 +22,4 @@ c) a beteg, a nyilatkozattételre jogosult személy vagy a beteg törvényes ké
 
 (8) A beteg – a jövedelem- és vagyonnyilatkozat kivételével – mentesül a szociális intézményi jogviszony létesítéséhez előírt dokumentumok benyújtásának kötelezettsége alól.
 
-(9) A szakápolási központ soron kívül fogadja az átadás-átvétellel érintett fekvőbeteg-ellátást biztosító egészségügyi intézményből, továbbá a szakápolási központ székhelye szerinti vármegye egészségügyi szolgáltatójának fekvőbeteg-ellátást nyújtó osztályáról a szakorvosi javaslatra érkező beteget.
+(9) A szakápolási központ soron kívül fogadja az átadás-átvétellel érintett fekvőbeteg-ellátást biztosító egészségügyi intézményből, továbbá a szakápolási központ székhelye szerinti megye egészségügyi szolgáltatójának fekvőbeteg-ellátást nyújtó osztályáról a szakorvosi javaslatra érkező beteget.

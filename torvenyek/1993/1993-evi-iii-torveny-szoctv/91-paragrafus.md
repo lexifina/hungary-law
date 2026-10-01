@@ -20,7 +20,7 @@ tehet eleget.
 
 (4)
 
-(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott vármegye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
 
 (6) Ha a (2) bekezdés a) pontja szerinti szolgáltató, intézmény fenntartója megváltozik, és az intézményben foglalkoztatott közalkalmazott
 

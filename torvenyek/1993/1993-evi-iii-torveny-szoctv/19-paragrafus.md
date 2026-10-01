@@ -16,7 +16,7 @@ a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
 
 b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában
 
-meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
+meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és megyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
