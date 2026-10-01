@@ -1,8 +1,8 @@
-## 18. §[^40] A hozzájárulás kiegészítés iránti kérelem elbírálása szempontjából kivételes szolgálati érdeknek minősül különösen, ha a dolgozó jelenlegi szolgálati- vagy munkahelyére történő áthelyezése nem saját kérelmére történt, és szolgálati- vagy munkahelyének vonzáskörzetén kívüli településen önálló lakással rendelkezik.
+## 18. §[^42] A hozzájárulás kiegészítés iránti kérelem elbírálása szempontjából kivételes szolgálati érdeknek minősül különösen, ha a dolgozó jelenlegi szolgálati- vagy munkahelyére történő áthelyezése nem saját kérelmére történt, és szolgálati- vagy munkahelyének vonzáskörzetén kívüli településen önálló lakással rendelkezik.
 
-## 19. §[^41] E rendelet alkalmazásában
+## 19. §[^43] E rendelet alkalmazásában
 
-a)[^42] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
+a)[^44] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
 
 aa) egy-két személy esetében legfeljebb három lakószoba,
 
@@ -16,6 +16,6 @@ c) lakásbérlet: az egész lakás kizárólagos használatba adása a bérlő r
 
 d) szolgálati- vagy munkahely vonzáskörzete: ahonnan a munkarendnek megfelelő gyakori hazautazásra, a szolgálati érdek sérelme nélkül lehetőség van.
 
-[^40]: A 18. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^41]: A 19. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^42]: A 19. § a) pontja a 31/2018. (XII. 19.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^42]: A 18. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^43]: A 19. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^44]: A 19. § a) pontja a 31/2018. (XII. 19.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.

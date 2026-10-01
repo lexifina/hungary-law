@@ -4,13 +4,13 @@
 
 a) a megállapodásban meghatározott időtartam lejártával,
 
-b) a felek a megállapodást közös megegyezéssel megszüntetik,
+b)[^23] ha a felek a megállapodást közös megegyezéssel megszüntetik,
 
 c) az arra jogosult felmondásával,
 
 d) a szállóférőhely használójának, illetőleg házastársának, élettársának, kiskorú gyermekének lakásbérleti jogviszonya létesítésével vagy lakástulajdon szerzésével,
 
-e)[^22] a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szerv állományába vagy az Országgyűlési Őrség állományába kerül áthelyezésre,
+e)[^24] ha megszűnik a szállóférőhely használójának belügyi szolgálati jogviszonya,
 
 f) a szállóférőhely használójának halálával,
 
@@ -20,7 +20,7 @@ g) a szállóférőhely elemi csapás vagy más ok következtében történő me
 
 a) a szállóférőhely használója a használati díját az írásbeli felszólításban megjelölt időpontig sem fizeti meg,
 
-b)[^23]
+b)[^25]
 
 c) a szállóférőhely használója a megállapodásban vállalt vagy jogszabályban foglalt egyéb kötelezettségeit nem teljesíti,
 
@@ -28,5 +28,6 @@ d) a szállóférőhely használója vagy a vele együtt lakó személy a házir
 
 e) házaspári lakóegység esetében, ha a házastársak, élettársak életközösségüket felbontják, illetőleg megszüntetik.
 
-[^22]: A 8. § (1) bekezdés e) pontja a 2/2023. (I. 30.) BM rendelet 3. §-ával megállapított szöveg.
-[^23]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
+[^23]: A 8. § (1) bekezdés b) pontja a 23/2026. (IX. 30.) BM rendelet 3. §-a szerint módosított szöveg.
+[^24]: A 8. § (1) bekezdés e) pontja a 23/2026. (IX. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^25]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
