@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-89-00-00
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2003-89-00-00.7 |
 | 2014-01-01 | 2013. évi CCXLIX. törvény | 2003-89-00-00.8 |
 | 2018-01-01 | 2017. évi L. törvény | 2003-89-00-00.9 |
+| 2026-10-01 | 2026. évi XXXV. törvény | 2003-89-00-00.10 |

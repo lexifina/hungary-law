@@ -54,7 +54,7 @@ Kén-dioxid
 
 |
 
-50
+100
 
 |
 
@@ -62,7 +62,7 @@ Nitrogén-oxidok
 
 |
 
-120
+240
 
 |
 
@@ -70,4 +70,4 @@ Szilárd anyag (nem toxikus)
 
 |
 
-30
+60

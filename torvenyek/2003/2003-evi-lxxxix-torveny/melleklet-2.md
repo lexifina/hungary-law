@@ -102,15 +102,15 @@ C
 
 0,7
 
-Területi kategóriák:
+## Területi kategóriák:
 
-„A” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően a Balaton, valamint vízgyűjtő területe,
+## „A” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően a Balaton, valamint vízgyűjtő területe,
 
-„B” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az egyéb védett területek (befogadók),
+## „B” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az egyéb védett területek (befogadók),
 
-„C” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az általánosan védett felszíni vízminőségvédelmi területek (befogadók).
+## „C” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az általánosan védett felszíni vízminőségvédelmi területek (befogadók).
 
-Az iszapelhelyezési szorzó mértéke
+## Az iszapelhelyezési szorzó mértéke
 
 2. számú táblázat
 
@@ -250,9 +250,9 @@ regionális lerakó (csak iszap vagy települési szilárd hulladékkal együtt)
 
 |
 
-Az egységdíj mértéke
+## Az egységdíj mértéke
 
-Az egységdíj mértéke
+## Az egységdíj mértéke
 
 3. számú táblázat
 
