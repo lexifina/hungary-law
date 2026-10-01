@@ -6,7 +6,7 @@ a) a büntetőügyben eljáró bíróság, ügyészség és NVVH a figyelmeztet�
 
 b) a rendőrség nyomozóhatósági, közbiztonságvédelmi, körözési és határrendészeti feladatai ellátásához, valamint a Nemzeti Adó- és Vámhivatal nyomozóhatósági és vámellenőrzési feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
 
-c) a rendőrség terrorizmust elhárító szerve törvényben meghatározott bűnmegelőzési, bűnfelderítési, valamint jogszabályban meghatározott szakhatósági feladatainak ellátásához a figyelmeztető jelzések teljes körét érintően,
+c)
 
 d) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve törvényben meghatározott bűnmegelőzési, illetve bűnfelderítési feladatainak ellátásához a figyelmeztető jelzések teljes körét érintően,
 
