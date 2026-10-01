@@ -42,10 +42,10 @@ Dr. Szomora Zsolt Tamás alkotmánybíró.
 
 3. A tanácsvezetők megbízatása 2027. szeptember 30-ig tart.
 
-4. E határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg hatályát veszti az Alkotmánybíróság öttagú állandó tanácsainak számáról, összetételéről és a tanácsvezetők személyéről szóló 1003/2023. (IX. 19.) AB Tü. határozat, valamint az ennek módosításáról szóló – jelenleg hatályos – 2005/2026. (IX. 9.) AB Tü. határozat és 1001/2024. (IV. 17.) AB Tü. határozat.
+4.[^1] E határozat a közzétételét követő napon lép hatályba,
 
 5. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-Budapest, 2026. szeptember 29.
-
 Alkotmánybírósági ügyszám: XVIII/2465/2026.
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
