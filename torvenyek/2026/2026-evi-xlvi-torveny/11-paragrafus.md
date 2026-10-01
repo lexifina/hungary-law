@@ -1,1 +1,5 @@
-### 11. §
+11. § A Rendőrségről szóló 1994. évi XXXIV. törvény 7/F. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló, vagy személyi védelem ellátásával, Védelmi Program előkészítésével és végrehajtásával, illetve személyvédelmi és létesítménybiztosítási feladattal összefüggő információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. Az általános rendőrségi feladatok ellátására létrehozott szerv nem köteles átadni az információt, ha azzal veszélyeztetné az 1. § (2) bekezdés 15. pont b) alpontjában, 15b. pontjában vagy 25. pontjában meghatározott feladata ellátását.
+
+(3) Az általános rendőrségi feladatok ellátására létrehozott szerv részére az 1. § (2) bekezdés 15. pont b) alpontjában, 15b. pontjában vagy 25. pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.”

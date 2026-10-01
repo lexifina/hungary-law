@@ -1,1 +1,1 @@
-### 54. §
+54. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (1) bekezdés h) pontjában a „rendőri” szövegrész helyébe a „rendőrségi” szöveg és a „személy- és létesítményvédelmi” szövegrész helyébe a „személyvédelmi és létesítménybiztosítási” szöveg lép.

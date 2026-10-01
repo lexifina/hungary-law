@@ -1,1 +1,1 @@
-### 96. §
+96. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 162. § (2) bekezdésében a „terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe” szövegrész helyébe a „belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörébe” szöveg lép.
