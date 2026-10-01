@@ -1,3 +1,3 @@
-42. §[^263]
+42. §[^265]
 
-[^263]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^265]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

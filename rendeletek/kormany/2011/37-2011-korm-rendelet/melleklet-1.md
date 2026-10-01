@@ -1,4 +1,4 @@
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^264]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^266]
 
 Az egyes támogatási kategóriák
 
@@ -78,7 +78,7 @@ Az egyes támogatási kategóriák
 
 4.3. Halászati csekély összegű (de minimis) támogatás (717/2014/EU bizottsági rendelet)
 
-4.4.[^265] Általános csekély összegű (de minimis) támogatás [(EU) 2023/2831 bizottsági rendelet]
+4.4.[^267] Általános csekély összegű (de minimis) támogatás [(EU) 2023/2831 bizottsági rendelet]
 
 5. Az EUMSz 107. cikk (2) bekezdése alapján nyújtott támogatás
 
@@ -86,9 +86,9 @@ Az egyes támogatási kategóriák
 
 5.2. Az EUMSz 107. cikk (2) bekezdés b) pontja alapján természeti csapás és egyéb rendkívüli események kompenzálása
 
-6.[^266] Az EUMSz 107. cikk (3) bekezdés b) pontja alapján valamely közös európai érdeket szolgáló fontos projekt megvalósításának előmozdítására vagy egy tagállam gazdaságában bekövetkezett komoly zavar megszüntetésére nyújtott támogatás
+6.[^268] Az EUMSz 107. cikk (3) bekezdés b) pontja alapján valamely közös európai érdeket szolgáló fontos projekt megvalósításának előmozdítására vagy egy tagállam gazdaságában bekövetkezett komoly zavar megszüntetésére nyújtott támogatás
 
-7.[^267] Az EUMSz 107. cikk (3) bekezdése alapján nyújtott támogatás
+7.[^269] Az EUMSz 107. cikk (3) bekezdése alapján nyújtott támogatás
 
 7.1. Az EUMSz 107. cikk (3) bekezdés c) pontja alapján egyes gazdasági tevékenységek vagy gazdasági területek fejlődését előmozdító támogatás
 
@@ -108,9 +108,9 @@ Az egyes támogatási kategóriák
 
 9.4. A 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás
 
-9.5.[^268] Az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás
+9.5.[^270] Az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás
 
-9.6.[^269] Az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatás
+9.6.[^271] Az (EU) 2025/2630 bizottsági határozat hatálya alá tartozó állami támogatás
 
 10. A 800/2008/EK bizottsági rendelet alapján nyújtott támogatás
 
@@ -186,13 +186,13 @@ Az egyes támogatási kategóriák
 
 10.8.1.2. Általános képzés
 
-10.9.[^270] A hátrányos helyzetű és fogyatékossággal élő munkavállalók foglalkoztatásához nyújtott támogatások
+10.9.[^272] A hátrányos helyzetű és fogyatékossággal élő munkavállalók foglalkoztatásához nyújtott támogatások
 
 10.9.1. A hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás (800/2008/EK bizottsági rendelet 40. cikk)
 
-10.9.2.[^271] A fogyatékossággal élő munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás (800/2008/EK bizottsági rendelet 41. cikk)
+10.9.2.[^273] A fogyatékossággal élő munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás (800/2008/EK bizottsági rendelet 41. cikk)
 
-10.9.3.[^272] A fogyatékossággal élő munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás (800/2008/EK bizottsági rendelet 42. cikk)
+10.9.3.[^274] A fogyatékossággal élő munkavállalók foglalkoztatása többletköltségeinek ellentételezésére nyújtott támogatás (800/2008/EK bizottsági rendelet 42. cikk)
 
 11. Egyéb
 
@@ -280,7 +280,7 @@ Az egyes támogatási kategóriák
 
 14.2.4.3. Adómentességek vagy -kedvezmények a 2003/96/EK irányelvvel összhangban (1388/2014/EU bizottsági rendelet 45. cikk)
 
-14.3.[^273] Az (EU) 2022/2473 bizottsági rendelet alapján nyújtott támogatás
+14.3.[^275] Az (EU) 2022/2473 bizottsági rendelet alapján nyújtott támogatás
 
 14.3.1. A fenntartható halászat támogatása és a vízi biológiai erőforrások helyreállításának és védelmének előmozdítása
 
@@ -372,7 +372,7 @@ Az egyes támogatási kategóriák
 
 14.3.4.10. Adómentességek vagy -kedvezmények a 2003/96/EK irányelvvel összhangban ((EU) 2022/2473 bizottsági rendelet 56. cikk)
 
-15.[^274] A 651/2014/EU bizottsági rendelet alapján 2023. december 31-ig nyújtott támogatás
+15.[^276] A 651/2014/EU bizottsági rendelet alapján 2023. december 31-ig nyújtott támogatás
 
 15.1. Regionális támogatás
 
@@ -702,7 +702,7 @@ Az egyes támogatási kategóriák
 
 16.1.3.11. Kölcsönös kockázatkezelési alapok létrehozásához nyújtott támogatás (3.11. pont)
 
-16.2.[^275] A mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2023
+16.2.[^277] A mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2023
 
 16.2.1. Mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások részére nyújtott támogatások (1. fejezet)
 
@@ -846,7 +846,7 @@ Az egyes támogatási kategóriák
 
 16.2.3.7. kölcsönös kockázatkezelési alapok létrehozásához nyújtott támogatás (634. pont g) alpont)
 
-16.3.[^276] Az (EU) 2022/2472 bizottsági rendelet alapján nyújtott támogatás
+16.3.[^278] Az (EU) 2022/2472 bizottsági rendelet alapján nyújtott támogatás
 
 16.3.1. Az elsődleges mezőgazdasági termeléssel, a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával foglalkozó kkv-k részére nyújtott támogatások
 
@@ -1054,7 +1054,7 @@ Az egyes támogatási kategóriák
 
 18. Nem állami támogatás
 
-19.[^277] A 651/2014/EU bizottsági rendelet alapján 2024. január 1. után nyújtott támogatás
+19.[^279] A 651/2014/EU bizottsági rendelet alapján 2024. január 1. után nyújtott támogatás
 
 19.1. Regionális támogatás
 
@@ -1244,7 +1244,7 @@ Az egyes támogatási kategóriák
 
 19.16.2. Az InvestEU Alap által támogatott, üzleti alapon kínált közvetített pénzügyi termékekben foglalt támogatás (651/2014/EU 56d. és 56f. cikk)
 
-20.[^278] Az (EU) 2026/562 bizottsági rendelet alapján nyújtott támogatás
+20.[^280] Az (EU) 2026/562 bizottsági rendelet alapján nyújtott támogatás
 
 20.1. A szállítás külső költségeinek csökkentéséhez nyújtott működési támogatási program
 
@@ -1264,18 +1264,18 @@ Az egyes támogatási kategóriák
 
 20.8. A fenntartható szárazföldi szállítási ágazatokban a műszaki átalakításhoz és korszerűsítéshez nyújtott beruházási támogatási program
 
-[^264]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..
-[^265]: Az 1. melléklet 4. pont 4.4. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
-[^266]: Az 1. melléklet 6. pontja a 25/2026. (II. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
-[^267]: Az 1. melléklet 7. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^268]: Az 1. melléklet 9. pont 9.5. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
-[^269]: Az 1. melléklet 9. pont 9.6. alpontját a 25/2026. (II. 19.) Korm. rendelet 5. §-a iktatta be.
-[^270]: Az 1. melléklet 10.9. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^271]: Az 1. melléklet 10.9.2. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^272]: Az 1. melléklet 10.9.3. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^273]: Az 1. melléklet 14.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^274]: Az 1. melléklet 15. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^275]: Az 1. melléklet 16.2. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^276]: Az 1. melléklet 16.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^277]: Az 1. melléklet 19. pontját a 639/2023. (XII. 28.) Korm. rendelet 9. § a) pontja iktatta be.
-[^278]: Az 1. melléklet 20. pontját a 156/2026. (IX. 18.) Korm. rendelet 8. §- a iktatta be.
+[^266]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..
+[^267]: Az 1. melléklet 4. pont 4.4. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
+[^268]: Az 1. melléklet 6. pontja a 25/2026. (II. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^269]: Az 1. melléklet 7. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^270]: Az 1. melléklet 9. pont 9.5. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
+[^271]: Az 1. melléklet 9. pont 9.6. alpontját a 25/2026. (II. 19.) Korm. rendelet 5. §-a iktatta be.
+[^272]: Az 1. melléklet 10.9. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^273]: Az 1. melléklet 10.9.2. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^274]: Az 1. melléklet 10.9.3. pontja a 86/2025. (IV. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^275]: Az 1. melléklet 14.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^276]: Az 1. melléklet 15. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^277]: Az 1. melléklet 16.2. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^278]: Az 1. melléklet 16.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^279]: Az 1. melléklet 19. pontját a 639/2023. (XII. 28.) Korm. rendelet 9. § a) pontja iktatta be.
+[^280]: Az 1. melléklet 20. pontját a 156/2026. (IX. 18.) Korm. rendelet 8. §- a iktatta be.

@@ -142,9 +142,9 @@
 
 ## Támogatástartalom: a piaci ár és a fizetett ár különbözetének jelenértéke.
 
-3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^280]
+3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^282]
 
-A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő jelentés kötelező adattartalma[^281]
+A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő jelentés kötelező adattartalma[^283]
 
 1. Egyedi támogatás esetében:
 
@@ -196,5 +196,5 @@ A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról
 
 2.10. Megjegyzések
 
-[^280]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^281]: A 3. melléklet címe a 639/2023. (XII. 28.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.
+[^282]: A 3. melléklet a 158/2014. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^283]: A 3. melléklet címe a 639/2023. (XII. 28.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.

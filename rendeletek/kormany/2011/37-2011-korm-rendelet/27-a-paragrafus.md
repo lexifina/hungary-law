@@ -1,4 +1,4 @@
-## V/B. Fejezet[^226]
+## V/B. Fejezet[^228]
 
 ## AZ ÁLLAMHÁZTARTÁSI SZERVEK ÉS A KÖZVÁLLALKOZÁSOK KÖZÖTTI PÉNZÜGYI KAPCSOLATOK ÁTLÁTHATÓSÁGÁRA, VALAMINT EGYES VÁLLALKOZÁSOK PÉNZÜGYEINEK ÁTLÁTHATÓSÁGÁRA VONATKOZÓ SZABÁLYOK
 
@@ -24,4 +24,4 @@ b) az éves nettó árbevételük a különleges jog vagy kizárólagos jog bizt
 
 c) az EUMSz 106. cikk (2) bekezdése szerint általános gazdasági érdekű szolgáltatásra vonatkozó, határozott idejű megbízása ellentételezésének összegét nyílt, átlátható és diszkriminációmentes eljárás eredményeként határozták meg.
 
-[^226]: Az V/B. fejezetet (27/A–27/E. §) a 156/2022. (IV. 19.) Korm. rendelet 2. §-a iktatta be.
+[^228]: Az V/B. fejezetet (27/A–27/E. §) a 156/2022. (IV. 19.) Korm. rendelet 2. §-a iktatta be.

@@ -4,9 +4,9 @@
 
 (2) Az elkülönített elszámolások vezetésére kötelezett vállalkozás a 27/D. § (2) bekezdése szerinti nyilvántartást öt évig megőrzi, és azt az Európai Bizottság felhívására – a miniszter útján – annak rendelkezésére bocsátja.
 
-(3)[^228]
+(3)[^230]
 
-(4)[^229]
+(4)[^231]
 
-[^228]: A 27/E. § (3) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
-[^229]: A 27/E. § (4) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^230]: A 27/E. § (3) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^231]: A 27/E. § (4) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
