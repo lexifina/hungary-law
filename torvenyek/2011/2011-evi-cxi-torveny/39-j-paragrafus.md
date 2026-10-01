@@ -12,4 +12,4 @@ d) a rendőrségi panasz előterjesztője kérte, hogy kilétét ne fedjék fel,
 
 (3) Ha a vizsgálat nem tár fel alapjogi visszásságot vagy nem érint alapjogi szempontból lényeges kérdést, az alapvető jogok biztosa a rendőrségi panaszt jelentés készítésének mellőzésével is elutasíthatja.
 
-(4) Az alapvető jogok biztosa a jelentést, illetve a (3) bekezdés szerinti elutasítást megküldi az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója vagy az idegenrendészeti szerv főigazgatója számára.
+(4) Az alapvető jogok biztosa a jelentést, illetve a (3) bekezdés szerinti elutasítást megküldi az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója vagy az idegenrendészeti szerv főigazgatója számára.
