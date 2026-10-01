@@ -30,7 +30,7 @@ a) 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontj�
 
 b) 11.1.3. pont b) alpontjában és 11.1.4. pont b) alpontjában megjelölt adatokat az általános rendőrségi feladatokat ellátó szerv,
 
-c) 11.1.3. pont d) alpontjában megjelölt adatokat a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal
+c) 11.1.3. pont d) alpontjában megjelölt adatokat az általános rendőrségi feladatok ellátására létrehozott szerv és az Alkotmányvédelmi Hivatal
 
 kezeli.
 
@@ -42,7 +42,7 @@ kezeli.
 
 (15) A (12) bekezdésben meghatározott szervezetek és szervek a védelmi háttérellenőrzés keretében általuk kezelt adatokat az (EU) 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzésre kötelezett személy foglalkoztatásának megszűnésétől számított 5 évig megőrzik. A védelmi háttérellenőrzés a kötelezett személyekkel szemben az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.7. pont b) alpontjában meghatározott időtartamon belül is bármikor megismételhető.
 
-(15a) A védelmi háttérellenőrzésben részt vevő légiközlekedési hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal meghatározott időközönként, folyamatosan folytatják le a nyilvántartásban szereplő személyek védelmi háttérellenőrzését. A fokozott háttérellenőrzés esetén 1 évig, a standard háttérellenőrzés esetén 3 évig tartó időszakon belül biztosítják a háttérellenőrzések folyamatosságát.
+(15a) A védelmi háttérellenőrzésben részt vevő légiközlekedési hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv és az Alkotmányvédelmi Hivatal meghatározott időközönként, folyamatosan folytatják le a nyilvántartásban szereplő személyek védelmi háttérellenőrzését. A fokozott háttérellenőrzés esetén 1 évig, a standard háttérellenőrzés esetén 3 évig tartó időszakon belül biztosítják a háttérellenőrzések folyamatosságát.
 
 (16) Foglalkoztatást kizáró oknak minősül, ha az (EU) 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés alkalmával végrehajtott vizsgálat a következő tények valamelyikét állapítja meg a háttérellenőrzésre kötelezett személyről:
 
@@ -110,13 +110,13 @@ b) a védelmi háttérellenőrzés alá vont személy háttérellenőrzésének 
 
 c) a foglalkoztatóval fennálló jogviszony megszűnését követő egy év eltelte esetén, kivéve, amennyiben a jogviszony megszűnésétől számított egy éven belül ismételten olyan foglalkoztatóval létesít jogviszonyt, ahol a védelmi háttérellenőrzési kötelezettsége fennáll.
 
-(28a) A légiközlekedési hatóság a nyilvántartásból való törlésről az ügyfélen kívül értesíti az általános rendőrségi feladatok ellátására létrehozott szervet, a terrorizmust elhárító szervet, az Alkotmányvédelmi Hivatalt, a Katonai Nemzetbiztonsági Szolgálatot, valamint a repülőtéri személyazonosító kártyát kiadó szervezetet is.
+(28a) A légiközlekedési hatóság a nyilvántartásból való törlésről az ügyfélen kívül értesíti az általános rendőrségi feladatok ellátására létrehozott szervet, az Alkotmányvédelmi Hivatalt, a Katonai Nemzetbiztonsági Szolgálatot, valamint a repülőtéri személyazonosító kártyát kiadó szervezetet is.
 
 (29) A légiközlekedési hatóság által vezetett nyilvántartásból – a törvényben meghatározottakon túl – adatkérésre jogosult különösen
 
 a) az általános rendőrségi feladatok ellátására létrehozott szerv,
 
-b) a terrorizmust elhárító szerv,
+b)
 
 c) a nemzetbiztonsági szolgálatok.
 

@@ -144,7 +144,7 @@ b) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irá
 
 c) a Közlekedésbiztonsági Szervezet,
 
-d) az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség.
+d) az általános rendőrségi feladatok ellátására létrehozott szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv.
 
 (3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -156,7 +156,7 @@ b) a helyi önkormányzatok és azok társulásai;
 
 c) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása és felügyelete alá tartozó szervezetek;
 
-d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség;
+d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv;
 
 e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 

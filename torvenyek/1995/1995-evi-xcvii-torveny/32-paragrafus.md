@@ -16,9 +16,9 @@ d) a képzésre jelentkező képzés ideje alatti tartózkodási helyét.
 
 (3) A légiközlekedési hatóság az általa kiadott magyar vizsgáztatói tanúsítványt vagy oktatói szakszolgálati engedélyt (a továbbiakban: engedély) annak kiadását követő tíz munkanapon belül megküldi az általános rendőrségi feladatok ellátására létrehozott szervnek az engedély közbiztonsági, terrorfenyegetettségi és nemzetbiztonsági szempontú vizsgálata céljából.
 
-(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést, engedélyt annak beérkezésétől számított két munkanapon belül megküldi a terrorizmust elhárító szervnek, az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak közbiztonsági és terrorfenyegetettségi kockázat, valamint nemzetbiztonsági érdek sérelmének vizsgálata céljából.
+(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést, engedélyt annak beérkezésétől számított két munkanapon belül megküldi az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak közbiztonsági és terrorfenyegetettségi kockázat, valamint nemzetbiztonsági érdek sérelmének vizsgálata céljából.
 
-(5) A terrorizmust elhárító szerv, az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a megkeresés beérkezésétől számított négy munkanapon belül megküldi a vizsgálat eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
+(5) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a megkeresés beérkezésétől számított négy munkanapon belül megküldi a vizsgálat eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
 
 (6) Az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonsági kockázat, továbbá – az (5) bekezdés szerinti szakvélemények alapján – közbiztonsági, illetve terrorfenyegetettségi kockázat vagy a nemzetbiztonsági érdek sérelme esetén – az erről szóló döntés légiközlekedési hatóság részére történő megküldése mellett – az érintett személy számára
 

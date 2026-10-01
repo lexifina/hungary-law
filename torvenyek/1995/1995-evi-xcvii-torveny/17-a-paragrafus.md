@@ -12,4 +12,4 @@ e) kiadott szakszolgálati engedélyekről, valamint
 
 f) üzembentartási engedélyekről,
 
-vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból a terrorizmust elhárító szerv közvetlen adathozzáféréssel átveheti.
+vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból az általános rendőrségi feladatok ellátására létrehozott szerv közvetlen adathozzáféréssel átveheti.
