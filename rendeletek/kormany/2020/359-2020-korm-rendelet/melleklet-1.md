@@ -40,19 +40,19 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 19. földvédelmi hatósági eljárás,
 
-20.[^23] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+20.[^26] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 21. az építési, illetve a bontási hulladékok kezelésére és hulladékgazdálkodási előírásokra vonatkozó megfelelőségre irányuló eljárások,
 
 22. közműkezeléssel kapcsolatos hatósági eljárások,
 
-23.[^24] vasúthatósági engedélyezési eljárások,
+23.[^27] vasúthatósági engedélyezési eljárások,
 
-24.[^25] azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+24.[^28] azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-25.[^26] az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+25.[^29] az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^23]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 315. §-a szerint módosított szöveg.
-[^24]: Az 1. melléklet 23. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^25]: Az 1. melléklet 24. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^26]: Az 1. melléklet 25. pontját a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontja iktatta be.
+[^26]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 315. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet 23. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^28]: Az 1. melléklet 24. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^29]: Az 1. melléklet 25. pontját a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontja iktatta be.
