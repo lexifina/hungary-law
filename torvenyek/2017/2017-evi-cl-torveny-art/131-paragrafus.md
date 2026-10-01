@@ -58,7 +58,7 @@ b) az ügyészséget;
 
 c) a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
 
-d) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el;
+d) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
 e) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges;
 
@@ -116,7 +116,7 @@ r) a Nemzeti Adó- és Vámhivatal szabálysértési hatóságként eljáró sze
 
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
 
-(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és vármegyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
+(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
 
 (28) Az állami adó- és vámhatóság ellenőrzi az elektronikus építési naplóban rögzítendő adószám érvényességét, amelynek eredményét az elektronikus építési napló részére automatikus adattovábbítással átadja.
 

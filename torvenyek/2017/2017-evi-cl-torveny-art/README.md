@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2026-03-01 | 2025. évi LXXXIII. törvény | 2017-150-00-00.74 |
 | 2026-07-15 | 2026. évi XXIV. törvény | 2017-150-00-00.78 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2017-150-00-00.79 |
+| 2026-10-01 | 2026. évi XLVI. törvény | 2017-150-00-00.75 |
