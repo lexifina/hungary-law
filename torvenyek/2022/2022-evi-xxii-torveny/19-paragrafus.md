@@ -2,8 +2,8 @@
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) a fővárosi és vármegyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket,
+a) a fővárosi és megyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket,
 
-b) a fővárosi és vármegyei kormányhivataloknál az ügyfelek megőrzésében maradó papír alapú iratok körét, a megőrzés időtartamát
+b) a fővárosi és megyei kormányhivataloknál az ügyfelek megőrzésében maradó papír alapú iratok körét, a megőrzés időtartamát
 
 rendeletben határozza meg.

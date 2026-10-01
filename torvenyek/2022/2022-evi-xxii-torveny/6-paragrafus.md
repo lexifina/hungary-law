@@ -1,8 +1,8 @@
 ## 5. Aláírásminta-alapú dokumentum-hitelesítés
 
-6. § (1) A fővárosi és vármegyei kormányhivatal ügyfélszolgálatain, a járási (fővárosi kerületi) hivatal kormányablakaiban, illetve a települési ügysegédnél az elektronikus dokumentumok ügyfél általi hitelesítésére az aláírás képi, dinamikai és íráserősségi adatainak elektronikus felvételezésére képes hitelesítő eszköz (a továbbiakban: aláírópad) rendszeresíthető.
+6. § (1) A fővárosi és megyei kormányhivatal ügyfélszolgálatain, a járási (fővárosi kerületi) hivatal kormányablakaiban, illetve a települési ügysegédnél az elektronikus dokumentumok ügyfél általi hitelesítésére az aláírás képi, dinamikai és íráserősségi adatainak elektronikus felvételezésére képes hitelesítő eszköz (a továbbiakban: aláírópad) rendszeresíthető.
 
-(2) Az (1) bekezdés szerinti eszköz rendszeresítése esetén a Kormány által rendeletben kijelölt fővárosi és vármegyei kormányhivatal az aláírás képi, dinamikai és íráserősségi adatait tartalmazó kormányhivatali aláírásminta-nyilvántartást (a továbbiakban: kormányhivatali aláírásminta-nyilvántartás) vezet.
+(2) Az (1) bekezdés szerinti eszköz rendszeresítése esetén a Kormány által rendeletben kijelölt fővárosi és megyei kormányhivatal az aláírás képi, dinamikai és íráserősségi adatait tartalmazó kormányhivatali aláírásminta-nyilvántartást (a továbbiakban: kormányhivatali aláírásminta-nyilvántartás) vezet.
 
 (3) A kormányhivatali aláírásminta-nyilvántartás a Szaz. tv. szerinti összerendelési nyilvántartással, annak szabályai szerinti kapcsolati kóddal rendelhető a természetes személyhez, az aláírásminta kiértékeléshez szükséges adatokon túl egyéb személyes adatot nem tartalmazhat.
 
@@ -16,4 +16,4 @@
 
 (8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet a Dáptv. szerinti elektronikus ügyintézési ponton vagy a Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
-(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és vármegyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.
+(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és megyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.

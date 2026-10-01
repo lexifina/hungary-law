@@ -56,7 +56,7 @@ c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladata
 
 d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 
 f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
 
