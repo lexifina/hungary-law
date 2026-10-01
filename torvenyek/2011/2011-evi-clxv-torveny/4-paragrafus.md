@@ -1,6 +1,6 @@
 4. § (1) A polgárőr egyesület a 3. § (1) bekezdésében meghatározott alapfeladatokat akkor kezdheti meg, valamint végezheti, ha
 
-a) a működési területén illetékes vármegyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
+a) a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
 
 b) az Országos Polgárőr Szövetség és a területi polgárőr szövetség tagja.
 

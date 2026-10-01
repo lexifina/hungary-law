@@ -20,7 +20,7 @@ d) a közterületen közbiztonsági, bűnmegelőzési, valamint bűnüldözési 
 
 e) a rendezvények helyszínének biztosításában,
 
-f) a Rendőrségről szóló törvény alapján a rendőrkapitány, a vármegyék (főváros) tekintetében a rendőrfőkapitány és a polgárőr szervezet működési területén illetékes helyi önkormányzat által létrehozott bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában,
+f) a Rendőrségről szóló törvény alapján a rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és a polgárőr szervezet működési területén illetékes helyi önkormányzat által létrehozott bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában,
 
 g) az önálló, valamint közös feladat- vagy szolgálatellátás útján az együttműködő szervek szakmai tevékenységének segítésében,
 

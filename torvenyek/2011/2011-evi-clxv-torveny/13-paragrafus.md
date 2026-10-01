@@ -28,12 +28,14 @@ d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési,
 
 e) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
 
-f) a rendőrség terrorizmust elhárító szerve terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 
 g) az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonság-védelmi feladatainak, valamint közrendvédelmi, határrendészeti feladatainak ellátása során az együttműködési megállapodás megkötéséhez szükséges, az e törvényben meghatározott rendelkezések vizsgálata céljából,
 
-h) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság, valamint
+h) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság,
 
-i) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
+i) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi feladatai ellátása céljából, valamint
+
+j) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
 
 (6) Az adattovábbítás iránti kérelemnek tartalmaznia kell az adatigénylés céljának igazolását és a jogalapot, valamint az adatigénylés tárgyának azonosításához szükséges adatokat.
