@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2026-02-15 | 2025. évi XCII. törvény | 2011-164-00-00.47 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 2011-164-00-00.50 |
 | 2026-08-26 | 2026. évi XVIII. törvény | 2011-164-00-00.49 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2011-164-00-00.51 |
