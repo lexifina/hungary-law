@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-108-00-00
 | 2025-01-01 | 2024. évi LXIX. törvény | 2001-108-00-00.38 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2001-108-00-00.39 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2001-108-00-00.40 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 2001-108-00-00.41 |
