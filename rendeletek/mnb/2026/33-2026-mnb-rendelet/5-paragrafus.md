@@ -1,3 +1,1 @@
-5. §[^6]
-
-[^6]: Az 5. § a 6. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+5. § Hatályát veszti a Rendelet 5. § (3) bekezdésében a „kockázati tőkealap-kezelő és” szövegrész.
