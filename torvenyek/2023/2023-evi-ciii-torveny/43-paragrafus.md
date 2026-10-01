@@ -36,9 +36,11 @@ c) az ügyészségnek az ügyészségről szóló törvényben meghatározott k�
 
 d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 
-e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése illetve megszakítása, továbbá elhárítási, információszerzési személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása céljából,
 
 f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+
+g) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 
 (8) A természetes személy adatait az ügyfél-regisztrációs szerv a regisztráció megszűnését követő 5 év elteltével zárolja, ezt követően azokat kizárólag az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme érdekében, az általános szerződési feltételeiben meghatározott időpontig, de legalább a regisztráció megszűnését követő 10 évig, legfeljebb a regisztráció megszűnését követő 50 évig kezeli.
 

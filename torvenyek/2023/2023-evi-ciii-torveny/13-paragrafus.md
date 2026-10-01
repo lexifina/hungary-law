@@ -30,6 +30,8 @@ d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 
 e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, kormányrendeletben kijelölt szerv a belső bűnmegelőzési és bűnfelderítési feladatai ellátása céljából,
 
-f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+f) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása céljából,
 
 g) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+
+h) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
