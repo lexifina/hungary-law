@@ -1,6 +1,6 @@
 ## 8. § A bv. szervek katasztrófák elleni védekezésre alkalmas személyi és fogvatartotti állományának – várható feladatainak mértékéig történő – elméleti- és gyakorlati felkészítésére a társ- és együttműködő szervek közreműködésével kerül sor.
 
-## 5.[^9] Az idegenrendészeti szerv katasztrófavédelmi feladatai
+## 5.[^10] Az idegenrendészeti szerv katasztrófavédelmi feladatai
 
 9. § (1) Az idegenrendészeti szerv vezetője irányítja és ellenőrzi az idegenrendészeti szerv feladatkörébe tartozó, valamint általa vállalt, katasztrófák elleni felkészülési, elhárítási és helyreállítási feladatok végrehajtását.
 
@@ -38,4 +38,4 @@ c) ellenőrzi a riasztási feladatok végrehajtásához szükséges kommunikáci
 
 d) kidolgozza az irányítás és jelentéstétel rendjét.
 
-[^9]: Az 5. alcímet (9. §-t) a 41/2022. (XII. 9.) BM rendelet 11. § b) pontja hatályon kívül helyezte, újonnan a 16/2025. (V. 29.) BM rendelet 17. §-a iktatta be.
+[^10]: Az 5. alcímet (9. §-t) a 41/2022. (XII. 9.) BM rendelet 11. § b) pontja hatályon kívül helyezte, újonnan a 16/2025. (V. 29.) BM rendelet 17. §-a iktatta be.

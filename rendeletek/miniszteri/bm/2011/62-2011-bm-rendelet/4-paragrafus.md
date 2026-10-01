@@ -45,3 +45,7 @@ i) a helyszín biztosítását, lezárását,
 j) katasztrófaveszély vagy veszélyhelyzet felszámolásában részt vevő erők gyors közúti felvonulását és az államhatáron történő átléptetését elősegítő intézkedések végrehajtását,
 
 k) a nemzetközi katasztrófavédelemben részt vevő erők, eszközök schengeni külső határon lévő határterületen történő mozgásának biztosítását, illetve a vonatkozó nemzetközi megállapodásban rögzített határátléptetést a határátkelőhelyek körzetében.
+
+(4)[^9] A rendőrség katasztrófavédelmi feladatai teljesítése során végzi a védett személyek és a kijelölt létesítmények védelméről szóló jogszabály alapján általa védett személyek kitelepítését, valamint a kitelepítés végrehajtásához szükséges befogadóhelyek biztosítását, ha a katasztrófa a védett személyeket és családtagjaikat érinti.
+
+[^9]: A 4. § (4) bekezdését a 23/2026. (IX. 30.) BM rendelet 16. §-a iktatta be.

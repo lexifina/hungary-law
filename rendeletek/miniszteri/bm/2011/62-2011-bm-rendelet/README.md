@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-0
 | 2025-05-30 | 2011-62-20-0A.14 | 16/2025. (V. 29.) BM rendelet |
 | 2025-08-03 | 2011-62-20-0A.15 | 31/2025. (VII. 31.) BM rendelet |
 | 2026-02-20 | 2011-62-20-0A.16 | 2/2026. (II. 19.) BM rendelet |
+| 2026-10-01 | 2011-62-20-0A.17 | 23/2026. (IX. 30.) BM rendelet |

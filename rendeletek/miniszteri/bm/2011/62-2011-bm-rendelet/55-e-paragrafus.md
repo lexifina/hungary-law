@@ -2,7 +2,7 @@
 
 ## A KÖZIGAZGATÁSI VEZETŐK KATASZTRÓFAVÉDELMI FELKÉSZÍTÉSE
 
-## 27/B.[^43] A közigazgatási vezetők felkészítésének általános szabályai
+## 27/B.[^44] A közigazgatási vezetők felkészítésének általános szabályai
 
 55/E. § (1) A közigazgatási vezetők felkészítésének célja a felkészülés, védekezés és helyreállítás időszakában a tervezői, szervezői, irányítói tevékenységükkel összefüggő katasztrófavédelmi feladatokra való felkészítés biztosítása.
 
@@ -10,4 +10,4 @@
 
 (3) Az alapképzés időtartama 6 tanóra.
 
-[^43]: A 27/B. alcímet (55/E. §) a 41/2022. (XII. 9.) BM rendelet 6. §-a iktatta be.
+[^44]: A 27/B. alcímet (55/E. §) a 41/2022. (XII. 9.) BM rendelet 6. §-a iktatta be.

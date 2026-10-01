@@ -1,4 +1,4 @@
-## IX/A. Fejezet[^58]
+## IX/A. Fejezet[^59]
 
 ## A KÖZBIZTONSÁGI REFERENSEK KÉPZÉSE
 
@@ -20,4 +20,4 @@
 
 (9) A vizsga eredményéről az igazgatóság kiállítja a 3. melléklet szerinti tanúsítványt.
 
-[^58]: A IX/A. Fejezetet (69/A. §) a 41/2022. (XII. 9.) BM rendelet 8. §-a iktatta be.
+[^59]: A IX/A. Fejezetet (69/A. §) a 41/2022. (XII. 9.) BM rendelet 8. §-a iktatta be.

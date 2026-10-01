@@ -2,9 +2,9 @@
 
 ## A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERVEK IRÁNYÍTÁSI ÉS MŰKÖDÉSI RENDJE
 
-## 8.[^13] A BM OKF főigazgatója feladat- és hatásköre
+## 8.[^14] A BM OKF főigazgatója feladat- és hatásköre
 
-12. §[^14] A védekezésre való felkészülés és a megelőzés során a BM OKF főigazgatója különösen:
+12. §[^15] A védekezésre való felkészülés és a megelőzés során a BM OKF főigazgatója különösen:
 
 a) meghatározza a hivatásos állományra vonatkozó képzés és továbbképzés, valamint az e területekhez kapcsolódó tudományos kutató tevékenység tartalmát és a végrehajtás kereteit, jóváhagyja a képzés tartalmát,
 
@@ -12,8 +12,8 @@ b) kidolgozza az ország katasztrófaveszélyeztetettségére, a katasztrófák 
 
 c) kapcsolatot tart a kiemelt informatikai és távközlési szolgáltatókkal, a kritikus infrastruktúra elemek üzemeltetőivel, valamint az országos médiaszolgáltatókkal,
 
-d)[^15] meghatározza a hivatásos katasztrófavédelmi szerv helyi szerve vezetője 25. § (4) bekezdése szerinti véleményének kialakítása során irányadó szempontokat.
+d)[^16] meghatározza a hivatásos katasztrófavédelmi szerv helyi szerve vezetője 25. § (4) bekezdése szerinti véleményének kialakítása során irányadó szempontokat.
 
-[^13]: A 8. alcím címe a 16/2025. (V. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
-[^14]: A 12. § nyitó szövegrésze a 16/2025. (V. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
-[^15]: A 12. § d) pontját a 11/2014. (II. 21.) BM rendelet 1. §-a iktatta be.
+[^14]: A 8. alcím címe a 16/2025. (V. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^15]: A 12. § nyitó szövegrésze a 16/2025. (V. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^16]: A 12. § d) pontját a 11/2014. (II. 21.) BM rendelet 1. §-a iktatta be.

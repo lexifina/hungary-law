@@ -18,7 +18,7 @@ g)[^3]
 
 h)[^4]
 
-i)[^5] a Terrorelhárítási Központra,
+i)[^5]
 
 j)[^6]
 
@@ -28,6 +28,6 @@ k)[^7] az idegenrendészeti szervre.
 [^2]: Az 1. § b) pontja a 41/2022. (XII. 9.) BM rendelet 3. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 61. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § g) pontját a 41/2022. (XII. 9.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § h) pontját a 41/2022. (XII. 9.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
-[^5]: Az 1. § i) pontja a 27/2019. (VI. 28.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § i) pontját a 23/2026. (IX. 30.) BM rendelet 17. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § j) pontját a 41/2022. (XII. 9.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^7]: Az 1. § k) pontját a 27/2019. (VI. 28.) BM rendelet 17. §-a iktatta be.
