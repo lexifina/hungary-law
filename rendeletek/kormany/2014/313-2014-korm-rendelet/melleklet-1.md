@@ -1,4 +1,4 @@
-## 11. §[^13] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^14] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
+## 11. §[^14] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^15] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
 
 1. melléklet a 313/2014. (XII. 12.) Korm. rendelethez
 
@@ -48,5 +48,5 @@ tartalmi követelményei
 
 13. Dátum:
 
-[^13]: A 11. §-t a 66/2021. (II. 16.) Korm. rendelet 18. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2021. április 2.
+[^14]: A 11. §-t a 66/2021. (II. 16.) Korm. rendelet 18. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2021. április 2.
