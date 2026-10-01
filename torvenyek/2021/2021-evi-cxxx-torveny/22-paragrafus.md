@@ -46,7 +46,7 @@ d) elektronikus elérhetőség (e-mail) és telefonszám.
 
 (4) Az oltási regisztrációs felületet fenntartó szerv a TAJ számmal rendelkező személyek védőoltásra történő regisztrációja során megadott (3) bekezdés szerinti adatait a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére átadja.
 
-(5) A NEAK a védőoltás igénybevételének szervezésével kapcsolatos feladatát az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, az Oktatási Hivatal, a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a fővárosi és vármegyei kormányhivatal (a továbbiakban együtt: közreműködő szerv) bevonásával látja el.
+(5) A NEAK a védőoltás igénybevételének szervezésével kapcsolatos feladatát az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, az Oktatási Hivatal, a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a fővárosi és megyei kormányhivatal (a továbbiakban együtt: közreműködő szerv) bevonásával látja el.
 
 (6) A NEAK, illetve a közreműködő szerv a NEAK által meghatározott, védőoltásra regisztráló személyeket a védőoltás igénybevételének rendjéről postai, illetve elektronikus vagy telefonos úton értesíti.
 

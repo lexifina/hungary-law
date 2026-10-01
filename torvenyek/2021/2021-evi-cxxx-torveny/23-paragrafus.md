@@ -14,7 +14,7 @@ f) elektronikus elérhetőség (e-mail) és telefonszám.
 
 (2) Az (1) bekezdés szerinti személy regisztrációjára
 
-a) a Kormány által rendeletben kijelölt, a fővárosi és vármegyei kormányhivatalok járási hivatalaiban (a továbbiakban: járási hivatal) vagy kormányablakaiban személyesen, a magyar igazolványa bemutatása és a születési ideje megadása mellett, vagy
+a) a Kormány által rendeletben kijelölt, a fővárosi és megyei kormányhivatalok járási hivatalaiban (a továbbiakban: járási hivatal) vagy kormányablakaiban személyesen, a magyar igazolványa bemutatása és a születési ideje megadása mellett, vagy
 
 b) az oltási regisztrációs felületen elektronikus úton
 
