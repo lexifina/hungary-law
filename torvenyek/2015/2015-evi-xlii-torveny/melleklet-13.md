@@ -11,27 +11,3 @@ I. A rendvédelmi alkalmazott
 ## – anyja neve
 
 ## – TAJ száma, adóazonosító jele
-
-## – lakóhelye, tartózkodási hely, telefonszáma
-
-## – családi állapota
-
-## – gyermekeinek születési ideje
-
-## – egyéb eltartottak száma, az eltartás kezdete
-
-## – állampolgársága
-
-## – igazolásai (bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte)
-
-II. Képzettség, szakképzettség
-
-## – legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
-
-## – felsőfokú szakképzettségei, szakképzettségei, szakképesítései
-
-## – iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
-
-## – tudományos fokozata
-
-## – idegennyelv-ismerete

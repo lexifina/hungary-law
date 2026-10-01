@@ -1,0 +1,1 @@
+327/A. § A hivatásos katasztrófavédelmi szerv szervezeti egységének az Országház tűzbiztonsági feladatait ellátó elkülönített szervezeti eleménél alapfeladatokat ellátó hivatásos állomány tekintetében a 114. § (6) bekezdés b) pontja szerinti 7. és 8. mellékletben meghatározott besorolási szabályokat kell alkalmazni.

@@ -8,4 +8,4 @@
 
 (4) A miniszter által kiszabott fenyítés ellen panasznak helye nincs.
 
-(5) Az Országgyűlési Őrség parancsnokának a fegyelmi ügyben hozott érdemi határozata ellen panasznak helye nincs.
+(5)

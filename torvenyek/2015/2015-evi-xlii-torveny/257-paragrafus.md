@@ -12,4 +12,4 @@
 
 (5) A fellebbezést a miniszter által meghatározott szerv harminc napon belül bírálja el. E határidő egy alkalommal harminc nappal meghosszabbítható. A másodfokú eljárásban hozott határozattal szemben bírósághoz lehet fordulni.
 
-(6) Az Országgyűlési Őrség hivatásos állományának tagja esetében a (4) bekezdésben foglaltaktól eltérően a minősítő határozat ellen fellebbezésnek nincs helye.
+(6)

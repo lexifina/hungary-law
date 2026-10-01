@@ -46,9 +46,11 @@ cd) osztályvezető 2.
 
 (3) A tiszti besorolási osztályba és a tiszthelyettesi besorolási osztályba tartozó,
 
-a) az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
+a) az általános rendőrségi feladatok ellátására létrehozott szervnél a c) pontban meghatározott kivétellel, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél a c) pontban meghatározott kivétellel rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
 
-b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, valamint az Országgyűlési Őrségnél rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű
+b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű,
+
+c) rendszeresített szolgálati beosztásokat az általános rendőrségi feladatok ellátására létrehozott szervnek a 318/A. § hatálya alá tartozó hivatásos állománya és a hivatásos katasztrófavédelmi szervnek a 327/A. § hatálya alá tartozó hivatásos állománya tekintetében a négy-négy, „A”, „B”, „C”, „D” jelölésű
 
 besorolási kategóriába kell besorolni.
 
@@ -60,9 +62,11 @@ besorolási kategóriába kell besorolni.
 
 a) a (3) bekezdés a) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban az 5. melléklet, a tiszti besorolási osztályban a 6. melléklet,
 
-b) a (3) bekezdés b) pontjában megjelölt szerveknél a tiszthelyettesi besorolási osztályban a 7. melléklet, a tiszti besorolási osztályban a 8. melléklet,
+b) a (3) bekezdés b) pontjában megjelölt szerveknél és a (3) bekezdés c) pontjában meghatározott körben a tiszthelyettesi besorolási osztályban a 7. melléklet, a tiszti besorolási osztályban a 8. melléklet,
 
-c) a vezetői besorolási osztályban a 9. melléklet tartalmazza.
+c) a vezetői besorolási osztályban a 9. melléklet
+
+tartalmazza.
 
 (6a) A (2) bekezdés a) pont aa) és ab) alpontjában megjelölt vezető illetményét a miniszter egyedileg határozza meg azzal, hogy az illetmény nem lehet kevesebb a (6) bekezdés c) pontja szerinti, a 9. mellékletben meghatározott alsó határnál.
 

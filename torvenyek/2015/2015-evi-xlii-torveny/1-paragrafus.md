@@ -10,7 +10,7 @@ a) az általános rendőrségi feladatok ellátására létrehozott szerv,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
-c) a terrorizmust elhárító szerv,
+c)
 
 d) az idegenrendészeti szerv [az a)–d) pontban felsorolt szervek a továbbiakban együtt: rendőrség],
 
@@ -18,15 +18,15 @@ e) a hivatásos katasztrófavédelmi szerv,
 
 f) a büntetés-végrehajtási szervezet,
 
-g) az Országgyűlési Őrség,
+g)
 
 h)
 
 i)
 
-[az a)–g) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
+[az a) és b), d–f) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
 
-(2) Az Országgyűlési Őrség hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(2)
 
 (3)
 

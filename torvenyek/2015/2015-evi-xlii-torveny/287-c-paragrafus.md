@@ -32,7 +32,7 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 
 (11a) A rendvédelmi szervnél foglalkoztatott munkavállalóra a XIX. Fejezet rendelkezései közül a 228–255. § szabályait megfelelően alkalmazni kell. A 239. §-t azzal az eltéréssel kell alkalmazni, hogy a kártérítésre kötelezett a kártérítési eljárásban hozott elsőfokú határozattal szemben bírósághoz fordulhat. Ha a kártérítésre kötelezett nem él jogorvoslati jogával, a kártérítésre vonatkozó határozat végrehajtható.
 
-(11b) A terrorizmust elhárító szervnél foglalkoztatott munkavállaló munkaviszonyára a XXXI. Fejezet rendelkezései közül a 124/B. alcím rendelkezéseit alkalmazni kell.
+(11b)
 
 (12) Az általános rendőrségi feladatok ellátására létrehozott szerv az általa a nevelési-oktatási intézmény, a technikum, a szakképző iskola, a gyermekotthon, a napközbeni gyermekfelügyelet, a 18 év alatti személyek csoportos, többnapos táboroztatása, üdültetése és egyéb szabadidős foglalkoztatása (e § alkalmazásában a továbbiakban együtt: nevelési-oktatási intézmény) rendjének fenntartása érdekében foglalkoztatott munkavállalói (a továbbiakban: iskolaőr) vonatkozásában
 

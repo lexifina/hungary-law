@@ -4,7 +4,7 @@
 
 2. megállapítsa
 
-a) a rendvédelmi szervnél vagy a rendvédelmi szerv által irányított szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
+a) a rendvédelmi szervnél rendszeresített szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket,
 
 b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényléssel betölthető szolgálati beosztásokat, azok besorolását és a szolgálati beosztás betöltéséhez szükséges képesítési követelményeket, valamint a vezényléssel betölthető szolgálati beosztások számát,
 
@@ -156,10 +156,10 @@ c) a rendvédelmi tisztjelölteknek a rendvédelmi alapképzés időtartama alat
 
 28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben az Országgyűlés elnöke véleményének kikérésével az (1) bekezdés szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.
+(2)
 
 (3) Felhatalmazást kap a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott, a rendészeti felsőoktatás felügyeletét gyakorló miniszter, hogy a Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztásokat, továbbá azok besorolási kategóriába sorolását rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a miniszter – az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában meghatározza az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
+(4) Felhatalmazást kap a miniszter, hogy a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában meghatározza az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
 
-(5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében – az Országgyűlési Őrség vonatkozásában az Országgyűlés elnöke véleményének kikérésével a rendészetért felelős miniszter –, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.
+(5) Felhatalmazást kap a miniszter az általa irányított rendvédelmi szerv tekintetében, hogy az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és nem hivatásos munkakörök meghatározásának rendjét rendeletben állapítsa meg.

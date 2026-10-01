@@ -42,7 +42,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését
 
-a) a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség esetében az Alkotmányvédelmi Hivatal,
+a) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 

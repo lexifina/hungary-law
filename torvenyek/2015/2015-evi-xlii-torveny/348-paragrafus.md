@@ -1,4 +1,4 @@
-348. § (1) Az 58. § (4) bekezdését az e törvény hatálybalépését követően történő vezetői kinevezésekre kell alkalmazni. Az 58. § (4) bekezdése szempontjából a három év számításánál a korábban megfelelő vezetői beosztásban eltöltött időt a 351. § szerinti besorolás alapján kell figyelembe venni. Az Országgyűlési Őrség esetében az 58. § (4) bekezdését a 2017. január 1-jét követő vezetői kinevezések esetében kell alkalmazni.
+348. § (1) Az 58. § (4) bekezdését az e törvény hatálybalépését követően történő vezetői kinevezésekre kell alkalmazni. Az 58. § (4) bekezdése szempontjából a három év számításánál a korábban megfelelő vezetői beosztásban eltöltött időt a 351. § szerinti besorolás alapján kell figyelembe venni.
 
 (2) Az 58. § (5) bekezdését – a (3) bekezdésben foglalt kivétellel – az e törvény hatálybalépését követően kinevezett vezetők esetében kell alkalmazni.
 

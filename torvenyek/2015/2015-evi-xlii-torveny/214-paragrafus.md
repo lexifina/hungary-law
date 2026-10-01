@@ -1,4 +1,4 @@
-214. § (1) A miniszter, az Országgyűlési Őrség parancsnokának hatáskörében hozott, valamint a panasszal kapcsolatos határozat ellen az eljárás alá vont személy bírósághoz fordulhat.
+214. § (1) A miniszter hatáskörében hozott, valamint a panasszal kapcsolatos határozat ellen az eljárás alá vont személy bírósághoz fordulhat.
 
 (2) A szolgálati viszony megszüntetése fenyítés kiszabása esetén a XVIII. Fejezetben foglaltak szerint kell eljárni.
 

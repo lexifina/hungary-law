@@ -2,11 +2,11 @@
 
 270. § (1) A hivatásos állomány tagja a szolgálati viszonyból származó jogvita esetén keresettel fordulhat a bírósághoz
 
-a) ha – a d) pontban meghatározott kivétellel – a szolgálati panaszát, az elsőfokú határozat elleni panaszát vagy fellebbezését elutasították, vagy
+a) ha – a d) pontban meghatározott kivétellel – a szolgálati panaszát, az elsőfokú határozat elleni panaszát vagy fellebbezését elutasították,
 
 b) ha – a d) pontban meghatározott kivétellel – a sérelmezett intézkedést a miniszter hozta,
 
-c) a 212. § (5) bekezdésében, a 239. § (4) bekezdésében vagy a 257. § (6) bekezdésében foglalt esetekben, továbbá
+c)
 
 d) ha a Becsületbíróság a 225. § (1) bekezdésében meghatározott esetekben a felmentést vagy a szolgálati viszony megszüntetése fenyítés kiszabását helybenhagyta.
 

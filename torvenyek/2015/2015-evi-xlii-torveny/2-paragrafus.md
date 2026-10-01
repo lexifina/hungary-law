@@ -40,9 +40,9 @@
 
 17a. nemzetközi közigazgatási szakértői tevékenység: a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő – külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői – tevékenység;
 
-18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv főigazgatója;
+18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint az idegenrendészeti szerv főigazgatója;
 
-19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, valamint az Országgyűlési Őrség parancsnoka;
+19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka;
 
 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 

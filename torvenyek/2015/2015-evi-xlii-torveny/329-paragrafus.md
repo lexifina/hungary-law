@@ -1,35 +1,3 @@
-## 127. Az Országgyűlési Őrség hivatásos állományára vonatkozó szabályok
+## 127.
 
-329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
-
-(2) Az Országgyűlési Őrség vonatkozásában a 62/A. §, a 63. § (4a)–(4c) bekezdése, a 96/A. §, a 97/A. §, a 98. § (2) bekezdése, a 98/A. § (2) bekezdése, a 175. § (4) bekezdése, valamint a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
-
-(3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
-
-a) szolgálati viszony szüneteltetése tábornok esetében,
-
-b) tábornoki rendfokozattal rendszeresített szolgálati beosztásokba történő kinevezés, felmentés, megbízás,
-
-c) tábornok más rendvédelmi szervhez vagy a Magyar Honvédséghez történő áthelyezése,
-
-d) a 32. § (1) bekezdésében meg nem jelölt fegyelmi fenyítések kiszabása tábornok esetében,
-
-e) illetmény nélküli szabadság engedélyezése tábornok esetében,
-
-f) kitüntetésre vonatkozó javaslat felterjesztése a köztársasági elnökhöz.
-
-g) a vezetői besorolási osztályba tartozó szolgálati beosztások esetében – a 157/A. §-ban foglalt vezetői besorolási osztályba tartozó szolgálati beosztások kivételével – a hivatásos pótlék mértékének miniszteri rendeletben meghatározott sávon belüli megállapítása.
-
-(4) Az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlési Őrség parancsnoka gyakorolja az alábbi, e törvényben a miniszter számára biztosított munkáltatói jogokat:
-
-a) a 62–66. § szerinti vezénylés esetében,
-
-b) a 69. § szerinti külföldre vezénylés esetében,
-
-c) a 262. § (1) bekezdése szerinti hősi halottá, szolgálat halottjává nyilvánítás esetében,
-
-d) a 308. § (1) bekezdése szerinti, az ágazati érdekvédelmi tanáccsal történő egyeztetés esetében.
-
-(5) A 163. § (6) bekezdése alkalmazásában az Országgyűlési Őrség hivatásos állományának illetményszámfejtését végző szerv ad elszámolást.
-
-(6) Az Országgyűlési Őrség vonatkozásában a 21. § (3) bekezdésében, a 163. § (4) bekezdésében, valamint a 176. § (6) bekezdésében foglaltaktól eltérően a miniszter vagy az országos parancsnok által kiadott közjogi szervezetszabályozó eszköz helyett a megjelölt tárgyköröket az Országgyűlési Őrség parancsnoka belső szabályzatban szabályozza.
+### 329. §

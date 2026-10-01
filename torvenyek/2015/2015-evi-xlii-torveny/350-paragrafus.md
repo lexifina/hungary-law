@@ -1,6 +1,6 @@
 350. § (1) A hivatásos állomány e törvény hatálybalépésének napján szolgálati viszonyban álló tagja a 128. § (1) bekezdésében foglaltakkal ellentétben középfokú iskolai végzettség hiányában is elláthat zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó rendfokozathoz kötött szolgálati beosztást.
 
-(2) Az Országgyűlési Őrség hivatásos állományának e törvény hatálybalépésekor szolgálati viszonyban álló, a 47. § (1) bekezdése szerinti, a szolgálati viszony fenntartásához szükséges rendvédelmi szakmai képesítéssel nem rendelkező tagjának ezen rendvédelmi szakmai képesítést 2018. január 1-ig kell megszerezni. A törvény hatálybalépésekor elvégzendő besorolás tekintetében az ezen képesítési követelményt figyelmen kívül kell hagyni.
+(2)
 
 (3) A 139. § (2) bekezdésében meghatározott éves korlátot az e törvény hatálybalépéskor szolgálati viszonyban álló hivatásos állomány esetében a 2015. tárgyévre vonatkozóan alkalmazni kell, a 2015. évi teljesíthető túlszolgálat esetében a 2015. január 1. és 2015. június 30. között teljesített túlszolgálatot is figyelembe kell venni.
 

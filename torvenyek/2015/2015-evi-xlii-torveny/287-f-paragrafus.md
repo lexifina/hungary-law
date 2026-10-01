@@ -12,4 +12,4 @@
 
 (6) A rendvédelmi alkalmazottat el kell látni a rendvédelmi szervhez tartozást igazoló szolgálati igazolvánnyal. A szolgálati igazolvány adattartalmát a miniszter közjogi szervezetszabályozó eszközben szabályozza.
 
-(7) A terrorizmust elhárító szervnél foglalkoztatott rendvédelmi alkalmazottra a XXXI. Fejezetbe tartozó rendelkezések közül a 124/B. alcím rendelkezéseit alkalmazni kell.
+(7)

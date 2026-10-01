@@ -8,10 +8,10 @@ a) a rendőrség,
 
 b) a büntetés-végrehajtási szervezet,
 
-c) a Nemzeti Adó- és Vámhivatal,
+c) a Nemzeti Adó- és Vámhivatal, valamint
 
-d) a hivatásos katasztrófavédelmi szerv, valamint
+d) a hivatásos katasztrófavédelmi szerv
 
-e) az Országgyűlési Őrség
+e)
 
-hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak a)–e) pont szerint elkülönülő résztestülete.
+hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak a)–d) pont szerint elkülönülő résztestülete.

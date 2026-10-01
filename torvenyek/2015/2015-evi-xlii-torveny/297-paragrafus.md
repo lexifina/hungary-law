@@ -1,4 +1,4 @@
-297. § (1) Az Etikai Bizottság a Közgyűlés által megválasztott, a 291. § (3) bekezdés a)–d) pontja szerinti tagozatonként négy, valamint a 291. § (3) bekezdés e) pontja szerinti tagozat esetében egy, összesen tizenhét tagból áll.
+297. § (1) Az Etikai Bizottság a Közgyűlés által megválasztott, a 291. § (3) bekezdés a)–d) pontja szerinti tagozatonként négy, összesen tizenhat tagból áll.
 
 (2) Az Etikai Bizottság elnökét a Közgyűlés választja meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el.
 
