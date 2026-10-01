@@ -16,9 +16,9 @@ e) elemzi, értékeli a környezet állapotát illetékességi területén, és 
 
 f) a fejlesztési feladatok során érvényesíti a környezetvédelem követelményeit, elősegíti a környezeti állapot javítását.
 
-(2) A vármegyei önkormányzat az épített és természeti környezet védelmével kapcsolatos feladatainak ellátása érdekében
+(2) A megyei önkormányzat az épített és természeti környezet védelmével kapcsolatos feladatainak ellátása érdekében
 
-a) a települési önkormányzatokkal és az illetékes vármegyei területfejlesztési tanáccsal egyeztetve vármegyei környezetvédelmi programot készít a 48/D. §-ban foglaltak szerint, amelyet a vármegyei közgyűlés hagy jóvá;
+a) a települési önkormányzatokkal és az illetékes megyei területfejlesztési tanáccsal egyeztetve megyei környezetvédelmi programot készít a 48/D. §-ban foglaltak szerint, amelyet a megyei közgyűlés hagy jóvá;
 
 b) előzetes véleményt nyilvánít a települési önkormányzati környezetvédelmi programokról, illetve kezdeményezheti azok megalkotását;
 
