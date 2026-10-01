@@ -2,7 +2,7 @@
 
 (2) Mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
 
-a) több vármegyére kiterjedő, mikro- és kisvállalkozásokat is magában foglaló, az alapanyag piaci árkockázatát kiegyenlítő mechanizmust is tartalmazó, legalább öt éve működtetett, a teljes termékpályát átfogó integráció keretében abból a célból tenyészt, tart, illetve vásárol fel állatot, hogy azokat részvételével feldolgozzák;
+a) több megyére kiterjedő, mikro- és kisvállalkozásokat is magában foglaló, az alapanyag piaci árkockázatát kiegyenlítő mechanizmust is tartalmazó, legalább öt éve működtetett, a teljes termékpályát átfogó integráció keretében abból a célból tenyészt, tart, illetve vásárol fel állatot, hogy azokat részvételével feldolgozzák;
 
 b) részt vesz a teljes termékpályát átfogó integráció keretében előállított termékek piacbővítésében, ennek érdekében szorosan együttműködik a termékeit feldolgozó vállalkozással a stratégia meghatározásában, napi üzemszervezésben, logisztikában, minőségpolitikában;
 
