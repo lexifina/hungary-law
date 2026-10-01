@@ -1,6 +1,6 @@
 ## 9. A honvédelemben közreműködő szervek
 
-11. § (1) A rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség a jogszabályban meghatározott hatáskörükben, illetékességi területükön
+11. § (1) A rendvédelmi szervek, valamint a nemzetbiztonsági szolgálatok a jogszabályban meghatározott hatáskörükben, illetékességi területükön
 
 a) ellátják a honvédelem érdekében meghatározott feladataikat,
 

@@ -4,7 +4,7 @@
 
 ## 30. A honvédelmi bírság
 
-46. § (1) A fővárosi és a vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
+46. § (1) A fővárosi és a megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
 
 a) a kötelezett a hadiállapot kihirdetését megelőzően elrendelt járulékos kötelezettségének nem tesz eleget,
 

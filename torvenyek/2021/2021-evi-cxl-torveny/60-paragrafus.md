@@ -14,6 +14,6 @@ a) a Honvédség a rendőrség feladat- és hatáskörét nem vonhatja el,
 
 b) a honvéd kizárólag a Kormány rendeletében meghatározott területen – az e törvényben meghatározottak szerint – segítheti a rendőr feladatainak ellátását.
 
-(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő.
+(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség csapatmozgását az erre jogosult engedélyezte, és a rendőrség alkalmazása nem elegendő.
 
 (6) Az 59. § (1) bekezdés m) pontja szerinti közreműködés során a honvéd a veszélyhelyzettel, az egészségügyi válsághelyzettel, illetve a befogadással érintett területen az e törvényben meghatározottak szerint segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.
