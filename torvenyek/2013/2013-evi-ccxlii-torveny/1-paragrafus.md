@@ -1,4 +1,4 @@
-1. § (1) A Budapest XIV. kerület 29732/1 helyrajzi számú ingatlannak (a továbbiakban: városligeti ingatlan) az államot, Budapest Főváros Önkormányzatát és Budapest Főváros XIV. Kerület Zugló Önkormányzatát megillető tulajdoni hányada e törvény erejénél fogva mint közfeladat ellátásához szükséges terület ingyenesen, az e törvény hatálybalépésétől számított 99 éves időtartamra az állam 100%-os tulajdonában álló Városliget Ingatlanfejlesztő Zrt. (a továbbiakban: vagyonkezelő) vagyonkezelésébe kerül. A városligeti ingatlanon fennálló építményekre e törvény hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett egyéb vagyonkezelői jogok, illetve Budapest Főváros Önkormányzata forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra fenntartási, továbbá településtisztasági és hulladékgazdálkodási feladatkörei változatlanul fennmaradnak. A vagyonkezelői jog nem terjed ki a Budapest XIV. kerület, Dózsa György úr 37. szám alatti ingatlan (Műcsarnok) és hozzá tartozó földterületre, a Széchenyi Gyógyfürdő és Uszoda, valamint a Városligeti Műjégpálya épületére, továbbá a műszaki infrastruktúra sajátos építményeire.
+1. § (1) A Budapest XIV. kerület 29732/11 helyrajzi számú ingatlannak (a továbbiakban: városligeti ingatlan) az államot, Budapest Főváros Önkormányzatát és Budapest Főváros XIV. Kerület Zugló Önkormányzatát megillető tulajdoni hányada e törvény erejénél fogva mint közfeladat ellátásához szükséges terület ingyenesen, az e törvény hatálybalépésétől számított 99 éves időtartamra az állam 100%-os tulajdonában álló Városliget Ingatlanfejlesztő Zrt. (a továbbiakban: vagyonkezelő) vagyonkezelésébe kerül. A városligeti ingatlanon fennálló építményekre e törvény hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett egyéb vagyonkezelői jogok, illetve Budapest Főváros Önkormányzata forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra fenntartási, továbbá településtisztasági és hulladékgazdálkodási feladatkörei változatlanul fennmaradnak. A vagyonkezelői jog nem terjed ki a Budapest XIV. kerület, Dózsa György úr 37. szám alatti ingatlan (Műcsarnok) és hozzá tartozó földterületre, a Széchenyi Gyógyfürdő és Uszoda, valamint a Városligeti Műjégpálya épületére, továbbá a műszaki infrastruktúra sajátos építményeire.
 
 (1a) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása érdekében
 
@@ -6,7 +6,7 @@ a) a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCX
 
 aa) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada, valamint
 
-ab) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
+ab)
 
 az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével, és
 
@@ -25,6 +25,10 @@ e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatla
 (1c) A vagyonkezelői jog az (1b) bekezdés a) pontja szerinti ingatlanok teljes területére, a b) és c) pontja szerinti ingatlanok esetében az épületre és annak alkotórészeire, valamint az épület rendeltetésszerű használatához szükséges, beruházással érintett tartozékaira terjed ki.
 
 (1d) A vagyonkezelői jog nem terjed ki az (1b) bekezdés a)–c) pontjai szerinti ingatlanokon az Opera beruházásokkal nem érintett eszközökre és ingóságokra, amelyek tekintetében a Magyar Állami Operaház vagyonkezelői joga változatlanul fennmarad.
+
+(1e) Az (1) bekezdés szerinti vagyonkezelő a törvényi célok és közfeladatok megvalósítása érdekében jogosult és köteles a vagyonkezelésében lévő városligeti ingatlan fenntartására és üzemeltetésére, valamint az üzemeltetői feladatok keretében a szükséges mértékű fejlesztési tevékenységek elvégzésére, továbbá a zöldfelületek és egyéb közterületek karbantartására.
+
+(1f) Az (1) bekezdés szerinti vagyonkezelő az (1e) bekezdés szerinti feladatai ellátása körében érvényesíti a szavatossági és jótállási jogokat.
 
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 

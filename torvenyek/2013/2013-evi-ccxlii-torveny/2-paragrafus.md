@@ -1,4 +1,4 @@
-2. § (1) A vagyonkezelő vagyonkezelői joga tekintetében az Nvt. 6. § (1) bekezdése szerinti osztott tulajdon létesítésének tilalmát a 3. § (1) bekezdése alapján létesített épület, valamint a 3. § (2) bekezdése alapján átalakítással érintett ingatlan tekintetében nem kell alkalmazni.
+2. § (1)
 
 (2) A vagyonkezelő és a projekttársaság vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
