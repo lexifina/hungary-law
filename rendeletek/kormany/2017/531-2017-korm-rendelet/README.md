@@ -92,3 +92,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2025-12-24 | 2017-531-20-22.87 | 428/2025. (XII. 23.) Korm. rendelet |
 | 2025-12-31 | 2017-531-20-22.88 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2026-01-01 | 2017-531-20-22.86 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2026-10-01 | 2017-531-20-22.89 | 360/2019. (XII. 30.) Korm. rendelet |
