@@ -4,9 +4,9 @@
 
 (2) Ha az értékelt személy jogviszonya év közben megszűnik, vagy beosztása a tárgyév során módosul, az ajánlott elemek értékelését a Korm. rendelet 22. §-ában foglaltakra figyelemmel kell végrehajtani.
 
-(3)[^23] Az ajánlott elemek értékelése a 2–5. melléklet szerinti értékelő lapokon, a közszolgálati teljesítményértékelés végrehajtását szolgáló informatikai rendszer felhasználásával történik.
+(3)[^24] Az ajánlott elemek értékelése a 2–5. melléklet szerinti értékelő lapokon, a közszolgálati teljesítményértékelés végrehajtását szolgáló informatikai rendszer felhasználásával történik.
 
-(4)[^24] A 6. melléklet szerinti összesített értékelő lapot az értékelt személlyel közölni kell, valamint az irattárban is el kell helyezni.
+(4)[^25] A 6. melléklet szerinti összesített értékelő lapot az értékelt személlyel közölni kell, valamint az irattárban is el kell helyezni.
 
-[^23]: Az 5. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^24]: Az 5. § (4) bekezdése a 40/2017. (XII. 29.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^25]: Az 5. § (4) bekezdése a 40/2017. (XII. 29.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.

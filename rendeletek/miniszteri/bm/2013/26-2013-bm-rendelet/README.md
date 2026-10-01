@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-26-20-0
 | 2023-01-01 | 2013-26-20-0A.12 | 27/2019. (VI. 28.) BM rendelet |
 | 2023-12-29 | 2013-26-20-0A.13 | 37/2015. (VI. 16.) BM rendelet |
 | 2025-08-01 | 2013-26-20-0A.14 | 29/2016. (VII. 15.) BM rendelet |
+| 2026-10-01 | 2013-26-20-0A.15 | 27/2019. (VI. 28.) BM rendelet |

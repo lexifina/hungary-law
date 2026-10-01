@@ -1,4 +1,4 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^72]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^73]
 
 Szervezeti működés teljesítménymutatói
 
@@ -204,61 +204,7 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 7.3. az állampolgárokkal történő kommunikáció színvonala és az intézkedések szakszerűsége
 
-IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesítménymutatók
-
-1. felderítési terület
-
-1.1. a titkosan együttműködő személyekkel összefüggő szakmai tevékenységek eredményessége
-
-1.2. titkos információgyűjtő tevékenység eredményessége
-
-1.3. külső engedélyhez kötött eszközök alkalmazásának eredményessége
-
-1.4. a szervezeten belüli, társszolgálati, közigazgatási, partnerszolgálati koordináció és együttműködés szintje
-
-1.5. az előkészítő eljárások szakszerűsége és színvonala
-
-2. műveleti terület
-
-2.1. túsztárgyalók bevonását igénylő feladatok eredményessége
-
-2.2. társszervektől érkező felkérések végrehajtásának eredményessége
-
-2.3. a Terrorelhárítási Központ Felderítési Igazgatóságtól érkező felkérések végrehajtásának eredményessége
-
-2.4. a Terrorelhárítási Központ Személyvédelmi Igazgatóságtól érkező felkérések végrehajtásának eredményessége
-
-3. személyvédelmi terület
-
-3.1. személybiztosítások színvonala
-
-3.2. lakásbiztosítások színvonala
-
-3.3. helyszínbiztosítások színvonala
-
-3.4. kijelölt létesítmények őrzésével és a védett személy biztosításával kapcsolatos rendkívüli események során alkalmazott igazoltatások, intézkedések jogszerűsége és szakszerűsége
-
-4. operatív-technikai terület
-
-4.1. a szakmai igazgatóságok által megrendelt és elvégzett operatív munka eredményessége
-
-4.2. a kiépített technikai és informatikai rendszerek működtetésének színvonala
-
-4.3. informatikai és híradástechnikai szolgáltatások színvonala
-
-5. ügyeleti és objektumvédelmi terület
-
-5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje, valamint a gépjárművek érkeztetése, indítása, és a szállítási feladatok végrehajtásának eredményessége
-
-5.2. a Terrorelhárítási Központ műveleti egységeinek az ügyelet által történő riasztása hatékonysága, szakszerűsége
-
-## 6. képzési terület
-
-## 6.1. a Terrorelhárítási Központ műveleti, személyvédelmi, felderítési szakterületének képzésre kötelezett állománya képzései, valamint a Terrorelhárítási Központ szakterületeihez tartozó nemzetközi képzések szervezésének színvonala
-
-## 6.2. a Terrorelhárítási Központ műveleti, személyvédelmi, felderítési szakterületének képzésre kötelezett állománya képzései, valamint a Terrorelhárítási Központ szakterületeihez tartozó nemzetközi képzések végrehajtásának eredményessége
-
-## 6.3. a Terrorelhárítási Központ szervezeti elemeitől érkező megkeresések végrehajtásának színvonala
+IV.
 
 V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -378,4 +324,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a, a 14/2021. (VI. 16.) BM rendelet 6. §-a, a 87/2023. (XII. 28.) BM rendelet 1. §-a szerint módosított szöveg.
+[^73]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a, a 14/2021. (VI. 16.) BM rendelet 6. §-a, a 87/2023. (XII. 28.) BM rendelet 1. §-a, a 23/2026. (IX. 30.) BM rendelet 32. § d) pontja szerint módosított szöveg.

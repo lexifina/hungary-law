@@ -40,7 +40,7 @@
 
 | ........................................................... értékelt személy | ........................................................... értékelő vezető |
 
-7. melléklet a 26/2013. (VI. 26.) BM rendelethez[^71]
+7. melléklet a 26/2013. (VI. 26.) BM rendelethez[^72]
 
 MINŐSÍTŐ LAP .......... évre / soron kívül
 
@@ -154,4 +154,4 @@ A minősítésben foglaltakat megismertem, a minősítő lap egy példányát á
 
 dátum, minősített aláírása
 
-[^71]: A 7. melléklet a 76/2015. (XII. 22.) BM rendelet 17. § f) pontjával megállapított szöveg.
+[^72]: A 7. melléklet a 76/2015. (XII. 22.) BM rendelet 17. § f) pontjával megállapított szöveg.
