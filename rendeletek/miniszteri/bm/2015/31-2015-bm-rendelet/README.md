@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-31-20-0
 | 2024-12-31 | 2015-31-20-0A.20 | 62/2024. (XII. 30.) BM rendelet |
 | 2025-01-01 | 2015-31-20-0A.21 | 62/2024. (XII. 30.) BM rendelet |
 | 2025-08-01 | 2015-31-20-0A.22 | 14/2025. (VII. 31.) MK rendelet |
+| 2026-10-01 | 2015-31-20-0A.23 | 15/2017. (VI. 22.) BM rendelet |
