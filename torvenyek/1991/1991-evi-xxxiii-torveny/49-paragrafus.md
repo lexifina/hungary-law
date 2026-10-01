@@ -1,1 +1,1 @@
-49. § Az önkormányzatok törvényen és a fővárosi és vármegyei kormányhivatal döntésén alapuló tulajdonszerzése, illetve a tulajdonjog feladat- és hatáskör megváltozásával összefüggő átadása másik önkormányzatnak és az államnak adómentes.
+49. § Az önkormányzatok törvényen és a fővárosi és megyei kormányhivatal döntésén alapuló tulajdonszerzése, illetve a tulajdonjog feladat- és hatáskör megváltozásával összefüggő átadása másik önkormányzatnak és az államnak adómentes.

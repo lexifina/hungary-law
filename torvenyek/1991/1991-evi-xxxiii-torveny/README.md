@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-33-00-00
 | 2018-01-01 | 2017. évi L. törvény | 1991-33-00-00.23 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1991-33-00-00.24 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 1991-33-00-00.25 |
+| 2026-10-01 | 2026. évi XLIX. törvény | 1991-33-00-00.26 |

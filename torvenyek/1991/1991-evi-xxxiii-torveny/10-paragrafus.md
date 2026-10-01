@@ -16,4 +16,4 @@ e)
 
 (4) A beépítetlen föld önkormányzat tulajdonába adásakor a kezelő szervet terhelő tartozásokért — a beépítetlen földnek a kezelő vagyonában képviselt arányában, de legfeljebb a beépítetlen föld forgalmi értékének erejéig — az önkormányzat kezesként felel.
 
-(5) A fővárosi és vármegyei kormányhivatal az önkormányzat tulajdonába adott beépítetlen földön lévő közmű üzemeltetője (tulajdonosa) javára — kérelemre — a működéséhez szükséges, műszakilag indokolt használati jogot állapít meg, amelyért az önkormányzatot kártalanítás nem illeti meg.
+(5) A fővárosi és megyei kormányhivatal az önkormányzat tulajdonába adott beépítetlen földön lévő közmű üzemeltetője (tulajdonosa) javára — kérelemre — a működéséhez szükséges, műszakilag indokolt használati jogot állapít meg, amelyért az önkormányzatot kártalanítás nem illeti meg.

@@ -1,4 +1,4 @@
-14. § (1) A fővárosi és vármegyei kormányhivatal a fekvésük szerint illetékes települési, fővárosban a fővárosi önkormányzat tulajdonába adja:
+14. § (1) A fővárosi és megyei kormányhivatal a fekvésük szerint illetékes települési, fővárosban a fővárosi önkormányzat tulajdonába adja:
 
 a) az állam tulajdonában lévő komp- és révátkelőhelyeket, azok hajózást kiszolgáló létesítményeivel együtt;
 
