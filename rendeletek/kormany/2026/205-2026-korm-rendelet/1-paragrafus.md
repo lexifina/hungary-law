@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 20. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a Budai Palotanegyed területén megvalósuló kiemelten közérdekű beruházások megnevezéséről, valamint az ingatlanok vagyonkezelési feladatainak ellátásáról szóló 313/2018. (XII. 27.) Korm. rendelet 13. § (2) bekezdés c) pontjában a „terrorizmust elhárító szerv, a” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
