@@ -6,14 +6,6 @@
 
 ## [4] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 2. pont a) alpontjában, valamint 21. pont b) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 7. és 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet 11. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) A 2. és 5. mellékletben meghatározott tiszti besorolási osztály „Hszt. 8. melléklet szerinti D” besorolási kategóriába tartozó szolgálati beosztásba történő kinevezés feltétele a rendészeti szakvizsga sikeres teljesítése.
-
-(2b) A 2. melléklet 10.2. pontjában meghatározott tiszti besorolási osztály
-
-a) a „Hszt. 6. melléklet szerinti E” besorolási kategóriába tartozó, valamint
-
-b) a „Hszt. 6. melléklet szerinti D” besorolási kategóriába tartozó szolgálati beosztások kivételével a „D” besorolási kategóriába tartozó
-
-szolgálati beosztásba történő kinevezés feltétele a rendészeti szakvizsga sikeres teljesítése.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
