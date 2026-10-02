@@ -1,3 +1,3 @@
-6. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 8/B. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„8/B. § A védett személy hivatalos programja során a rohamkocsi szintű mentési készenlét biztosításáról a Terrorelhárítási Központ, akadályoztatása, valamint kapacitását meghaladó feladat esetén a Terrorelhárítási Központ felkérésére az ÉPC-HK kijelölt osztálya vagy az Országos Mentőszolgálat kijelölt egysége gondoskodik.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

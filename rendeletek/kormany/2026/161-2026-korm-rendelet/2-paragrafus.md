@@ -1,3 +1,3 @@
-2. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 3. § (9) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(9) Az 1. § (2) bekezdés h) pontjában meghatározott személy személyvédelmének szükségességéről a Terrorelhárítási Központ javaslata alapján a rendészetért felelős miniszter dönt.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

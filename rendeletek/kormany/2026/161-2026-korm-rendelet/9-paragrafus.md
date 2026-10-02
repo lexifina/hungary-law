@@ -1,23 +1,32 @@
 9. § Hatályát veszti a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet
 
-a) 3. § (8) bekezdése,
+a)[^9]
 
-b) 3/A. § (2) bekezdésében a „köztársasági elnök, illetve a” szövegrész és az „a köztársasági elnöknek, illetve” szövegrész,
+b)[^10]
 
-c) 5. § (1) bekezdésében az „a Készenléti Rendőrség, illetve” szövegrész,
+c)[^11]
 
-d) 5. § (2) bekezdésében az „a Készenléti Rendőrséget, illetve” szövegrész,
+d)[^12]
 
-e) 6. § (1) bekezdésében az „a köztársasági elnök és családtagja, illetve” szövegrész,
+e)[^13]
 
-f) 6. § (2) bekezdés nyitó szövegrészében az „a köztársasági elnök és családtagja, illetve” szövegrész,
+f)[^14]
 
-g) 7. §-ában az „a Készenléti Rendőrség, illetve” szövegrész,
+g)[^15]
 
-h)[^1]
+h)[^16]
 
-i) 14. § (2)–(4) bekezdése,
+i)[^17]
 
-j) 15. §-a.
+j)[^18]
 
-[^1]: A 9. § h) pontja a 10. § (2) bekezdése alapján 2026. december 1-jén lép hatályba.
+[^9]: A 9. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 9. § h) pontja a 410/2026. (XI. 3.) Korm. rendelet 13. §-a alapján nem lép hatályba.
+[^17]: A 9. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 9. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
