@@ -1,1 +1,3 @@
-19. § A 365/2016. (XI. 29.) Korm. rendelet 22. § (3b) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

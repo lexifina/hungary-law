@@ -1,1 +1,3 @@
-22. § A 624/2022. (XII. 30.) Korm. rendelet 6/A. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
