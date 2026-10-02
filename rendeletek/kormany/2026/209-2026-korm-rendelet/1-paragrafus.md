@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Védelmi Igazgatási Hivatalról szóló 337/2022. (IX. 7.) Korm. rendelet 2. alcíme a következő 4. §-sal egészül ki:
+1. §[^2]
 
-„4. § A Hivatal ellátja a kormányügyeleti rendszer működési rendjéből fakadó feladatokat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
