@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés k) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Rendőrség által alkalmazott kényszerítő eszközök rendszeresítésének szakmai követelményeiről és eljárási szabályairól szóló 384/2007. (XII. 23.) Korm. rendelet
+1. §[^2]
 
-a) 14. § (4) bekezdés a) pontjában a „rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója” szövegrész helyébe a „rendőrfőkapitány” szöveg,
-
-b) 14. § (4) bekezdés d) pontjában a „rendőrfőkapitány, a terrorizmust elhárító szerv” szövegrész helyébe a „rendőrfőkapitány” szöveg,
-
-c) 5. melléklet címében a „TERRORELHÁRÍTÁSI KÖZPONT / NEMZETI” szövegrész helyébe a „NEMZETI” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
