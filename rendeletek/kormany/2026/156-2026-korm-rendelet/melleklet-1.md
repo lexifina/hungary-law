@@ -1,3 +1,3 @@
-1. melléklet a 156/2026. (IX. 18.) Korm. rendelethez[^21]
+1. melléklet a 156/2026. (IX. 18.) Korm. rendelethez[^13]
 
-[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
