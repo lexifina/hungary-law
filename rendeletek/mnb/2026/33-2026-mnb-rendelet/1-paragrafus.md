@@ -2,6 +2,6 @@
 
 ## [2] A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés i) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (6) és (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
