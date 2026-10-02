@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 40. alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a közúti járművezetők pályaalkalmassági vizsgálatáról szóló 444/2017. (XII. 27.) Korm. rendelet 1. § (2) bekezdésében az „az Országgyűlési Őrség,” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
