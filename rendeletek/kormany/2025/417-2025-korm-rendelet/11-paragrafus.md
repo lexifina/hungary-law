@@ -1,9 +1,3 @@
-11. § Hatályát veszti az Adóig. vhr.
+11. §[^12]
 
-a) 24. § (4) bekezdése,
-
-b)[^7]
-
-c) 58. § (5) bekezdése.
-
-[^7]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
