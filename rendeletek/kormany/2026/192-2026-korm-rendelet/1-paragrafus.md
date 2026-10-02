@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (3) bekezdés a) és c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételéről, a nyilvános repülőtér üzemben tartója részére történő visszaadásáról és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének szabályairól, valamint a védelmi ellenőrzés felügyeletéről szóló 302/2014. (XII. 5.) Korm. rendelet
+1. §[^2]
 
-a) 6. § (1) bekezdés nyitó szövegrészében a „szerv, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv” szövegrész helyébe a „szerv, a Terrorelhárítási Központ” szöveg,
-
-b) 8. § (2) bekezdésében a „rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet is” szövegrész helyébe a „Terrorelhárítási Központot” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
