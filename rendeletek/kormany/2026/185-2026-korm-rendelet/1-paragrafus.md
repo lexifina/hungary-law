@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 1. § (3) bekezdésében a „Szolgálat, a Terrorelhárítási Központ” szövegrész helyébe a „Szolgálat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

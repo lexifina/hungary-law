@@ -1,1 +1,3 @@
-2. § Hatályát veszti a munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 5/A. alcíme.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
