@@ -26,7 +26,7 @@ k) további, a kiemelt jelentőségű ügyet megállapító kormányrendeletben 
 
 (3) A (2) bekezdés b), c), e)–h) és j) pontja szerinti megkereséssel érintett szerv a megkeresést érdemben megvizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról a megkeresés kézhezvételétől számított nyolc napon belül írásban tájékoztatja a főispánt.
 
-(4)[^21] A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv – ideértve az önálló szabályozó szerveket, az autonóm államigazgatási szerveket, a Nemzeti Adó- és Vámhivatalt, valamint a rendvédelmi szerveket – hetente tájékoztatja a kormányrendeletben kijelölt főispánt a kiemelt jelentőségű ügy állásáról.
+(4)[^23] A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv – ideértve az önálló szabályozó szerveket, az autonóm államigazgatási szerveket, a Nemzeti Adó- és Vámhivatalt, valamint a rendvédelmi szerveket – hetente tájékoztatja a kormányrendeletben kijelölt főispánt a kiemelt jelentőségű ügy állásáról.
 
 (5) A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv a főispán (2) bekezdés szerinti intézkedésére okot adó körülmény észlelése esetén haladéktalanul írásbeli jelzéssel él a kormányrendeletben kijelölt főispán felé. A főispán a jelzést nyolc napon belül kivizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról írásban tájékoztatja a jelzéssel élő szervet.
 
@@ -40,11 +40,11 @@ c) a Kormány döntését igénylő kérdésben előterjesztést készít a Korm
 
 d) minden hónap 5. munkanapjáig tájékoztatja a minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
 
-(7)[^22] A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt főispán nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok, valamint a rendvédelmi szervek tekintetében.
+(7)[^24] A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt főispán nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, a polgári nemzetbiztonsági szolgálatok, valamint a rendvédelmi szervek tekintetében.
 
 (8) A nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított beruházás státuszáról, tényleges megvalósulásáról, az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendeletekben megjelölt beruházó az üzleti titok sérelme nélkül a kormányrendeletben kijelölt főispánt kérésre tájékoztatja. A beruházó kijelölt kapcsolattartó útján biztosítja a megfelelő tájékoztatást.
 
 (9) A kapcsolattartót a beruházó a beruházásra vonatkozó nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendelet hatálybalépésétől számított 15 napon belül jelöli ki, és a személyéről tájékoztatja a főispánt.
 
-[^21]: A 32. § (4) bekezdése a 24/2025. (II. 27.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
-[^22]: A 32. § (7) bekezdése a 24/2025. (II. 27.) Korm. rendelet 96. § b) pontja szerint módosított szöveg.
+[^23]: A 32. § (4) bekezdése a 24/2025. (II. 27.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
+[^24]: A 32. § (7) bekezdése a 24/2025. (II. 27.) Korm. rendelet 96. § b) pontja szerint módosított szöveg.
