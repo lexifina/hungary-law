@@ -1,3 +1,5 @@
 ## 2. A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet módosítása
 
-3. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: Támogatási rendelet) 1. melléklete a 3. melléklet szerint módosul.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
