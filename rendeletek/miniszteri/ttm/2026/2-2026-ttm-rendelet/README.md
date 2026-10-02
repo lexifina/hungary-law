@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-2-20-9N
 | 2026-09-11 | 2026-2-20-9N.1 | 2/2026. (IX. 10.) TTM rendelet |
 | 2026-09-12 | 2026-2-20-9N.2 | 2010. évi CXXX. törvény |
 | 2026-10-01 | 2026-2-20-9N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-10-02 | 2026-2-20-9N.4 | 2010. évi CXXX. törvény |

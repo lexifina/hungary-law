@@ -1,5 +1,3 @@
-2. § Hatályát veszti a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet
+2. §[^3]
 
-a) 1. melléklet 6. pontja,
-
-b) 1. melléklet 14. pontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
