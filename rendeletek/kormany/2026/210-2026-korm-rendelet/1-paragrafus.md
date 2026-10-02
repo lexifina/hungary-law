@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a postai szolgáltatások különleges jogrend és az összehangolt védelmi tevékenység időszakára való felkészítésének rendszeréről, feladatairól, működési feltételeiről szóló 411/2022. (X. 24.) Korm. rendelet 1. § (2) bekezdés 1. pont e) alpontja.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
