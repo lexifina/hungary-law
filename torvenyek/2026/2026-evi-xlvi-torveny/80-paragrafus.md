@@ -1,33 +1,33 @@
 80. § Hatályát veszti az Országgyűlésről szóló 2012. évi XXXVI. törvény
 
-a) 2. § (2) bekezdés p) pontjában a „rendészeti, illetve” szövegrész,
+a)
 
-b) 2. § (2) bekezdés q) pontja,
+b)
 
-c) 3. § (4) bekezdésében az „és q)” szövegrész,
+c)
 
-d) 53. §-a,
+d)
 
-e) 54. § (2) bekezdésében az „az Országgyűlési Őrség és” szövegrész,
+e)
 
-f) ÖTÖDIK Rész címében az „ÉS AZ ORSZÁGGYŰLÉSI ŐRSÉG” szövegrész,
+f)
 
-g) 40/H. alcím címében a „vagy az Országgyűlési Őrség” szövegrész,
+g)
 
-h) 124/V. § (1) bekezdés nyitó szövegrészében a „vagy az Országgyűlési Őrség” szövegrész,
+h)
 
-i) XIII. Fejezet címe,
+i)
 
-j) 41. és 42. alcíme,
+j)
 
-k) 43–48. alcíme,
+k)
 
-l) 49. alcíme,
+l)
 
-m) 145. § (4)–(6) bekezdése,
+m)
 
-n) 145. § (7) bekezdése,
+n)
 
 o)
 
-p) 2. melléklete.
+p)

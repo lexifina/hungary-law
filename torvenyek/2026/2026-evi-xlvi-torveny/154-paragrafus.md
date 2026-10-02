@@ -1,3 +1,1 @@
-## „g) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.”
-
-154. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 94. § (1) bekezdésében a „bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító” szövegrész helyébe a „bíróságnak és a nemzetbiztonsági szolgálatoknak, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában szereplő feladat ellátása céljából az általános rendőrségi feladatok ellátására létrehozott” szöveg lép.
+### 154. §

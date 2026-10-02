@@ -1,1 +1,1 @@
-30. § Hatályát veszti a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 1. § (1) bekezdés nyitó szövegrészében a „valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség,” szövegrész.
+### 30. §
