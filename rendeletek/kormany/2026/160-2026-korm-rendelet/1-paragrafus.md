@@ -6,8 +6,9 @@
 
 1. § Hatályát veszti a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet
 
-a) 1. melléklet 3.1.64. pontjában a „köztisztviselői, munkavállalói és” szövegrész és az „és munkáltatói” szövegrész,
+a)[^1]
 
-b)[^1]
+b)[^2]
 
-[^1]: Az 1. § b) pontja a 2. § (2) bekezdése alapján 2027. április 1-jén lép hatályba.
+[^1]: Az 1. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § b) pontja a 2. § (2) bekezdése alapján 2027. április 1-jén lép hatályba.
