@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet 63. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[Kizárólag a KAVIG jár el az állami adó- és vámhatóság hatáskörébe tartozó adók, költségvetési támogatások tekintetében a regisztrációs adó, illetve az illetékügyek kivételével, ide nem értve a soron kívüli adómegállapítás során kiszabott, valamint az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét, illetve ha jogszabály másként nem rendelkezik]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
