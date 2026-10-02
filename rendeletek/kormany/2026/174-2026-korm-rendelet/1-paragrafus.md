@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdés j) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet 5/A. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A Tv. 5/A. § (9) bekezdése alkalmazásában speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatónak minősül]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
