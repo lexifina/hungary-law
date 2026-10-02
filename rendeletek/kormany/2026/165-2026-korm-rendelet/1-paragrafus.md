@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 26. § (5) bekezdésében az „az Országgyűlési Őrség,” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
