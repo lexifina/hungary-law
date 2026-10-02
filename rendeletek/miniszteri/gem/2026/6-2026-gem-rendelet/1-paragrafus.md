@@ -14,16 +14,6 @@
 
 ## 1. Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet módosítása
 
-1. § (1) Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet (a továbbiakban: Felajánlási rendelet) 5. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép, és a § a következő d) ponttal egészül ki:
+1. §[^2]
 
-[Ha az 1. § (2) bekezdése és a 2. § (2) bekezdése alapján az egyetemes szolgáltató által alkalmazott árakra tekintettel – figyelembe véve az Árrendeletben szereplő, az egyetemes szolgáltató által alkalmazandó díjak mértékét a szállításra vagy a tárolásra vonatkozóan – az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatás céljára értékesített földgázforrásain a tényadatok szerint az indokolt költségekhez képest többletbevételre tesz szert, vagy veszteséget szenved el, annak figyelembevétele az Árképzési rendelet 3. § (1) bekezdés g) pontja szerinti árelem megállapítása során az alábbiak szerint történik:]
-
-## „c) az Árképzési rendelet 2. melléklet szerinti finanszírozási igény tényértékekhez, valamint a 2. melléklet szerinti kockázatmentes hozam tényező tárgyévi átlagos értékhez viszonyított eltérése miatti tárgyévi árbevétel többlet vagy hiány a tárgyév első három negyedéve vonatkozásában a negyedik negyedévben, a tárgyév vonatkozásában a tárgyévet követő második negyedévben,
-
-## d) az Árképzési rendelet 7. § (3) bekezdése szerinti árbevétel többlet vagy hiány a tárgyév első három negyedéve vonatkozásában a negyedik negyedévben, a tárgyév vonatkozásában a tárgyévet követő első negyedévben”
-
-## [kerül elszámolásra.]
-
-(2) A Felajánlási rendelet 5. § (8) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[Az egyetemes szolgáltatót ellátó földgázkereskedő (7) bekezdés szerinti indokolt költsége]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

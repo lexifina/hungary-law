@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Felajánlási rendelet 2. § (3) bekezdésében az „a mobilgáz-finanszírozás,” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
