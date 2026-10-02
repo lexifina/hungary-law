@@ -10,7 +10,7 @@ c) a honvédelemért felelős miniszter,
 
 d) az informatikáért felelős miniszter,
 
-e) a kultúráért és innovációért felelős miniszter,
+e)[^1]
 
 f) a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság,
 
@@ -31,3 +31,5 @@ c) a hazai közszolgálati mesterséges intelligencia szaktudás és szakemberá
 d) ösztöndíjprogramokat alakíthat ki a mesterséges intelligenciával kapcsolatos tudományos tevékenységet folytató kutatók, valamint felsőoktatási hallgatók számára,
 
 e) gondoskodik a hazai szakértők delegálásáról a mesterséges intelligencia fejlesztésével, alkalmazásával, szabványok kidolgozásával foglalkozó nemzetközi testületekbe.
+
+[^1]: Az 5. § (1) bekezdés e) pontját a 224/2026. (X. 1.) Korm. rendelet 7. §-a hatályon kívül helyezte.

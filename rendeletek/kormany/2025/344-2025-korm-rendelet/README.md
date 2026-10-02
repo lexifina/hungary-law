@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-344-20-
 | --- | --- | --- |
 | 2025-12-01 | 2025-344-20-22.1 | 344/2025. (X. 31.) Korm. rendelet |
 | 2025-12-02 | 2025-344-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-10-02 | 2025-344-20-22.3 | 224/2026. (X. 1.) Korm. rendelet |
