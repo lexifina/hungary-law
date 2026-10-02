@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) pont aa) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A veszélyes áru légi szállításával kapcsolatos katasztrófavédelmi hatósági ellenőrzésről és a bírság kivetésének szabályairól szóló 313/2014. (XII. 12.) Korm. rendelet 9. § (2) bekezdésében az „a Terrorelhárítási Központot” szövegrész helyébe az „– a terrorcselekmények felderítésével kapcsolatos feladataira tekintettel – a Nemzeti Nyomozó Irodát” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
