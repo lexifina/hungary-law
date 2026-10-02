@@ -4,8 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a közbiztonságra különösen veszélyes eszközökről szóló 175/2003. (X. 28.) Korm. rendelet
+1. §[^2]
 
-a) 3. § (2) bekezdés a) pontjában az „az Országgyűlési Őrségre,” szövegrész,
-
-b) 4. § (4) bekezdésében az „az Országgyűlési Őrségre,” szövegrész.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
