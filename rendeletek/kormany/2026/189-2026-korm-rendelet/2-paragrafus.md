@@ -1,1 +1,3 @@
-2. § A rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló 4/2014. (I. 10.) Korm. rendelet 6. § (2) bekezdésében az „a Terrorelhárítási Központ főigazgatóját jelöli ki, aki hatósági jogkörét a Terrorelhárítási Központ rendvédelmi tisztiorvosa” szövegrész helyébe a „büntetés-végrehajtás országos parancsnokát jelöli ki, aki hatósági jogkörét a büntetés-végrehajtási szervezet rendvédelmi tisztiorvosa” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
