@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pont ba) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a Készenléti Rendőrség Nemzeti Nyomozó Iroda épületének kialakítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 109/2017. (IV. 28.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
