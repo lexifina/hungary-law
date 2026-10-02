@@ -1,3 +1,5 @@
 ## 3. Az egységes elektronikuskártya-kibocsátás engedélyezésére irányuló hatósági eljárás igazgatási szolgáltatási díjáról, az ezzel kapcsolatos egyes díjak megállapításának szabályairól, valamint az egységes arcképmás- és aláírás-felvételezésre irányuló hatósági eljárás díjmentességéről szóló 70/2015. (XII. 21.) BM rendelet módosítása
 
-3. § Az egységes elektronikuskártya-kibocsátás engedélyezésére irányuló hatósági eljárás igazgatási szolgáltatási díjáról, az ezzel kapcsolatos egyes díjak megállapításának szabályairól, valamint az egységes arcképmás- és aláírás-felvételezésre irányuló hatósági eljárás díjmentességéről szóló 70/2015. (XII. 21.) BM rendelet 5. § (1) bekezdésében az „10032000-00290713-06020037” szövegrész helyébe az „10032000-01425190-06020037” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

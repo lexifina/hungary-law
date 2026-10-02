@@ -12,4 +12,6 @@
 
 ## 1. A magánútlevél soron kívüli, sürgősségi, valamint azonnali eljárásban történő kiállításáért fizetendő igazgatási szolgáltatási pótdíj megfizetéséről szóló 69/2011. (XII. 30.) BM rendelet módosítása
 
-1. § A magánútlevél soron kívüli, sürgősségi, valamint azonnali eljárásban történő kiállításáért fizetendő igazgatási szolgáltatási pótdíj megfizetéséről szóló 69/2011. (XII. 30.) BM rendelet 2. §-ában az „10032000-00290713-06020037” szövegrész helyébe az „10032000-01425190-06020037” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
