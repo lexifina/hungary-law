@@ -1,7 +1,3 @@
-3. § A Rendelet 2. melléklet
+3. §[^4]
 
-a) II. 12. pont 12.2. alpontjában a „34.” szövegrész helyébe a „34., 38., 39.” szöveg,
-
-b) II. 12. pont 12.3. alpontjában a „206–209.” szövegrész helyébe a „206–209., 216–218., 220.” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,6 +2,6 @@
 
 ## [2] A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés i) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (6) és (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségről szóló 35/2018. (XI. 13.) MNB rendelet (a továbbiakban: Rendelet) 6. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„6. § A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 24/2026. (VII. 7.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 24/2026. (VII. 7.) MNB rendelet 3. §-ával módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2026. december hónapra mint tárgyidőszakra vonatkozóan teljesíti.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
