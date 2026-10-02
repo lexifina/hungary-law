@@ -1,3 +1,1 @@
-5. § A közúti közlekedésről szóló 1988. évi I. törvény 33/A. § (6a) bekezdése helyébe a következő rendelkezés lép:
-
-„(6a) Ha az útdíjszolgáltatási gazdasági társaság más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszolgáltatási gazdasági társasági feladatait e gazdasági társaság különálló szervezeti egysége (a továbbiakban: különálló szervezeti egység) útján végzi, amely az útdíjszolgáltatási tevékenység tekintetében számviteli szempontból elkülönített nyilvántartásokat vezet. A különálló szervezeti egység működésére vonatkozó részletes szabályokat kormányrendelet határozza meg. A különálló szervezeti egység az útdíjszolgáltatási gazdasági társasági tevékenységével kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a különálló szervezeti egység vezetője látja el.”
+### 5. §

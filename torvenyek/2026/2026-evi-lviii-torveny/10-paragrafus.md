@@ -1,3 +1,1 @@
-10. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 1/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az útdíjszolgáltatási gazdasági társaság más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszolgáltatási gazdasági társasági feladatait e gazdasági társaság különálló, elkülönített számviteli nyilvántartással rendelkező szervezeti egysége útján végzi e törvény végrehajtására kiadott kormányrendelet szerint. E szervezeti egység az útdíjszolgáltatási gazdasági társasági tevékenységével kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a különálló szervezeti egység vezetője látja el.”
+### 10. §
