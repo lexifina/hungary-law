@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Országos Mentőszolgálatról szóló 322/2006. (XII. 23.) Korm. rendelet 6. § (7) bekezdésében az „az általa alapított, a Készenléti Rendőrség tulajdonosi joggyakorlásában levő és a Mentőszolgálat egészségügyi szakmai irányítása alatt álló” szövegrész helyébe az „a” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
