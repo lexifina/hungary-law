@@ -4,20 +4,6 @@
 
 ## [3] A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § q) és r) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az OAH az (1) bekezdés b)–d) pontjában meghatározott kérdésekben a következő szervekkel történő egyeztetés alapján a kötelezett intézkedését megalapozó határozatot hoz:
-
-a) az Országos Rendőr-főkapitányság,
-
-b) a Nemzeti Nyomozó Iroda,
-
-c) a Terrorelhárítási Központ,
-
-d) a Katonai Nemzetbiztonsági Szolgálat,
-
-e) az Alkotmányvédelmi Hivatal,
-
-f) a Nemzeti Biztonsági Felügyelet és
-
-g) a Nemzeti Információs Központ.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
