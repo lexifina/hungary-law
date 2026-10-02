@@ -18,7 +18,7 @@ h) figyelemmel kíséri a hazai informatikai, e-közigazgatási és digitalizác
 
 i) a miniszter delegálása alapján részt vesz jogszabály alapján vagy kormányhatározattal létrehozott, továbbá egyéb testületek munkájában,
 
-j)[^6] a 4. § szerinti kezelő szervi feladatkörében gondoskodik a rendelkezésére álló költségvetési források hatékony felhasználásáról,
+j)[^7] a 4. § szerinti kezelő szervi feladatkörében gondoskodik a rendelkezésére álló költségvetési források hatékony felhasználásáról,
 
 k) nyomon követi az e-közigazgatási, az informatikai, valamint a közigazgatási infokommunikációs infrastruktúrát érintő ágazati és ágazatközi fejlesztési elképzelések és uniós finanszírozású programok kidolgozását és azok végrehajtását,
 
@@ -26,11 +26,11 @@ l) figyelemmel kíséri és vizsgálja az informatikai, az infokommunikációs �
 
 m) figyelemmel kíséri és vizsgálja a lakosság és a vállalkozások digitális kompetenciaszintjét, magyarországi digitális infrastruktúra fejlettségi szintjét, a digitalizáció előnyeinek hatékonyabb kihasználását elősegítő nemzetközi együttműködési lehetőségeket, az adatvezérelt ágazatirányítás bevezetésének és fejlesztésének a lehetőségeit a magyar gazdaság minden területén, és e körben szakmai anyagokat készít, és döntés-előkészítési javaslatokat fogalmaz meg,
 
-n)[^7] az e-közigazgatással, az informatikával, a kormányzati célú elektronikus hírközlési tevékenységgel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztéssel kapcsolatos területeket – különösen a 7. § (1) bekezdés e) pontjában, valamint a 8. § (1) bekezdés h) és j) pontjában foglaltakat – érintően fejlesztési és üzemeltetési feladatokat is elláthat.
+n)[^8] az e-közigazgatással, az informatikával, a kormányzati célú elektronikus hírközlési tevékenységgel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztéssel kapcsolatos területeket – különösen a 7. § (1) bekezdés e) pontjában, valamint a 8. § (1) bekezdés h) és j) pontjában foglaltakat – érintően fejlesztési és üzemeltetési feladatokat is elláthat.
 
-o)[^8] a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 19/A. §-ával összhangban, az e-közigazgatásért felelős miniszter kijelölése alapján ellátja a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 2. § 9. pontja szerinti nemzeti koordinátori feladatokat.
+o)[^9] a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 19/A. §-ával összhangban, az e-közigazgatásért felelős miniszter kijelölése alapján ellátja a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 2. § 9. pontja szerinti nemzeti koordinátori feladatokat.
 
-(1a)[^9] A DMÜ szolgáltatástervezési központként
+(1a)[^10] A DMÜ szolgáltatástervezési központként
 
 a) meghatározza a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet szerinti analitikai központ stratégiai célkitűzéseit, a mérési keretrendszer kialakításának módszertanát;
 
@@ -44,15 +44,15 @@ e) meghatározza a dizájn keretrendszer továbbfejlesztésének irányait, tám
 
 f) ellátja az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendeletben meghatározott, a Szolgáltatástervezési Központra vonatkozó feladatokat.
 
-(1b)[^10] A közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2018. évi LXXV. törvény 5. §-a szerinti ellenőrzési és végrehajtási feladatokat a DMÜ látja el.
+(1b)[^11] A közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2018. évi LXXV. törvény 5. §-a szerinti ellenőrzési és végrehajtási feladatokat a DMÜ látja el.
 
 (2) A DMÜ a tulajdonosi joggyakorlása alá tartozó gazdasági társaságok által ellátott feladatok szakszerű és hatékony végrehajtása felett folyamatos szakmai felügyeletet gyakorol.
 
-(3)[^11] A DMÜ az (1)–(2) bekezdésben foglalt feladatainak ellátására a tulajdonosi joggyakorlása alatt lévő gazdasági társaságot bevonhat.
+(3)[^12] A DMÜ az (1)–(2) bekezdésben foglalt feladatainak ellátására a tulajdonosi joggyakorlása alatt lévő gazdasági társaságot bevonhat.
 
-[^6]: A 8. § (1) bekezdés j) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^7]: A 8. § (1) bekezdés n) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^8]: A 8. § (1) bekezdés o) pontját az 528/2023. (XII. 1.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 164/2025. (VI. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^9]: A 8. § (1a) bekezdését a 365/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^10]: A 8. § (1b) bekezdését a 365/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^11]: A 8. § (3) bekezdése a 365/2025. (XI. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^7]: A 8. § (1) bekezdés j) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdés n) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^9]: A 8. § (1) bekezdés o) pontját az 528/2023. (XII. 1.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 164/2025. (VI. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 8. § (1a) bekezdését a 365/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^11]: A 8. § (1b) bekezdését a 365/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^12]: A 8. § (3) bekezdése a 365/2025. (XI. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
