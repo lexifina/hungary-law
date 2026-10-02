@@ -10,9 +10,9 @@
 
 (4)[^194] Az NHIT elnöke – a (2a) bekezdésben meghatározott kivétellel – az államtitkár illetményének megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye kilencven százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye nyolcvan százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig.
 
-(5)[^195] Az NHIT tevékenységének a támogatására a Kormány az Energiaügyi Minisztériumot jelöli ki.
+(5)[^195] Az NHIT tevékenységének támogatására a Kormány az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter által vezetett minisztériumot jelöli ki.
 
 [^192]: A 15. § (2a) bekezdését a 428/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
 [^193]: A 15. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § e) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
 [^194]: A 15. § (4) bekezdése a 428/2021. (VII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^195]: A 15. § (5) bekezdése a 21/2025. (II. 24.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^195]: A 15. § (5) bekezdése a 224/2026. (X. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
