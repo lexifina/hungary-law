@@ -1,5 +1,3 @@
-55. § Hatályát veszti a rendfokozati vizsgáról szóló 39/2016. (X. 6.) BM rendelet
+55. §[^56]
 
-a) 1. § (1) bekezdésében az „a terrorizmust elhárító szerv,” szövegrész,
-
-b) 1. mellékletében foglalt táblázat 9. sora.
+[^56]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

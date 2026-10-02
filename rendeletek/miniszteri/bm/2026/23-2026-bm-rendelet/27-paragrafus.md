@@ -1,7 +1,3 @@
-27. § Hatályát veszti a lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet
+27. §[^28]
 
-a) 3. § b) pont bm) alpontja,
-
-b) 17. § (3) bekezdés g) pontjában a „vagy az Országgyűlési Őrséghez” szövegrész,
-
-c) 1. mellékletében foglalt táblázat 9. sora.
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

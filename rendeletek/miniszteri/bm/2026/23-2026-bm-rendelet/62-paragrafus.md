@@ -1,1 +1,3 @@
-62. § Hatályát veszti a rendvédelmi igazgatási alkalmazottak rendvédelmi igazgatási szolgálati jogviszonyával összefüggő egyes szabályokról szóló 4/2019. (III. 11.) BM rendelet 10. § (3) bekezdés b) pontja.
+62. §[^63]
+
+[^63]: A 62. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-35. § Hatályát veszti a könnyített szolgálatban foglalkoztatottak által betölthető beosztásokról és a betöltésükhöz szükséges követelményekről, továbbá egyes BM rendeletek módosításáról szóló 45/2013. (VIII. 15.) BM rendelet
+35. §[^36]
 
-a) 1. §-ában az „a Terrorelhárítási Központ,” szövegrész,
-
-b) 5. § (4) bekezdése.
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

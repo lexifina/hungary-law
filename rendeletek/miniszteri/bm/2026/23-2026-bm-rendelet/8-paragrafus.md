@@ -1,1 +1,3 @@
-8. § Hatályát veszti a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet 3. § (1) bekezdés m) pontja.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

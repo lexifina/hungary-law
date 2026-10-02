@@ -80,12 +80,6 @@
 
 ## 1. A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet módosítása
 
-1. § (1) A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet 1/A. § b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A belügyi szervek helyi lakásügyi szerve)
-
-## „b) a Készenléti Rendőrség a saját dolgozói állománya, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság, a Nemzeti Nyomozó Iroda, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzetközi Oktatási Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ, valamint a rendvédelmi technikumok dolgozói állománya vonatkozásában,”
-
-(2) A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet 1/A. §-a a következő e) ponttal egészül ki:
-
-(A belügyi szervek helyi lakásügyi szerve)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-19. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet 1. melléklet 2. pontjában foglalt táblázat 11. sora.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

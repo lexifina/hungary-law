@@ -1,5 +1,5 @@
 ## 7. A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet módosítása
 
-12. § A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 26. § (3) bekezdés g) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(Fokozott ellenőrzés végrehajtását)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

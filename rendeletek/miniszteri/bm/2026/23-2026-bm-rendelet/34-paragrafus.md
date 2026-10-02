@@ -1,1 +1,3 @@
-34. § A könnyített szolgálatban foglalkoztatottak által betölthető beosztásokról és a betöltésükhöz szükséges követelményekről, továbbá egyes BM rendeletek módosításáról szóló 45/2013. (VIII. 15.) BM rendelet 5. § (1) bekezdésében az „Az” szövegrész helyébe az „Az (1a) bekezdésben foglalt kivétellel” szöveg lép.
+34. §[^35]
+
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

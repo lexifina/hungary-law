@@ -1,5 +1,3 @@
-22. § Hatályát veszti a belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai szolgálati igazolványának rendszeresítéséről, kiadásának és nyilvántartásának eljárási rendjéről szóló 14/2012. (III. 30.) BM rendelet
+22. §[^23]
 
-a) 3. § (4) bekezdés a) pont ab) alpontja,
-
-b) 3. melléklete.
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

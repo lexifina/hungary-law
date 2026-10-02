@@ -1,3 +1,3 @@
-41. § A rendőrségi fogdák rendjéről szóló 56/2014. (XII. 5.) BM rendelet 40. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+41. §[^42]
 
-(A panasz elbírálására jogosult:)
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

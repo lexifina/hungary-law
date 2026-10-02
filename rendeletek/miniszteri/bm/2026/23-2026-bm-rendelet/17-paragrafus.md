@@ -1,5 +1,3 @@
-17. § Hatályát veszti a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendelet
+17. §[^18]
 
-a) 1. § i) pontja,
-
-b) 6. alcíme.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
