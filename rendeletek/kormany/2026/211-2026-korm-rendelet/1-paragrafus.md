@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés m) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a polgári légiközlekedésben alkalmazandó nemzeti vészhelyzeti tervről és a légitársasági segítségnyújtási tervről szóló 455/2022. (XI. 9.) Korm. rendelet 1. § (2) bekezdés 7. pontja.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
