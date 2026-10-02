@@ -1,0 +1,5 @@
+## 3. A Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendelet módosítása
+
+3. § A Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendelet (a továbbiakban: R1.) 2. §-a helyébe a következő rendelkezés lép:
+
+„2. § Az e-közigazgatással, az informatikával, az e-közigazgatási és informatikai fejlesztések egységesítésével, a kormányzati célú elektronikus hírközlési tevékenységgel, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával kapcsolatos miniszteri felelősségbe tartozó egyes állami feladatok ellátására a Kormány a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaságot (a továbbiakban: DMÜ) jelöli ki.”
