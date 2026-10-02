@@ -1,1 +1,3 @@
-2. § Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény hatálya alá tartozó árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításához kapcsolódó kiegészítő eljárási rendelkezésekről szóló 207/2022. (VI. 14.) Korm. rendelet 1. § 6. pontjában a „valamint az Országgyűlési Őrség esetében az Országgyűlésről szóló 2012. évi XXXVI. törvény 129. § (1) bekezdés b) pontja alapján a házelnök,” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

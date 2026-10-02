@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 20. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény hatálya alá tartozó árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításához kapcsolódó kiegészítő eljárási rendelkezésekről szóló 207/2022. (VI. 14.) Korm. rendelet 1. § 8. pontjában az „a)–g)” szövegrész helyébe az „a)–f)” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
