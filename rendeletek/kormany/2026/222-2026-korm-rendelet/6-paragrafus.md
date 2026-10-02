@@ -1,3 +1,3 @@
-6. § A 359/2020. (VII. 23.) Korm. rendelet a következő 12. §-sal egészül ki:
+6. §[^7]
 
-„12. § E rendeletnek az egyes gazdaságfejlesztési célú kiemelt beruházásokról szóló kormányrendeletek módosításáról szóló 222/2026. (IX. 30.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 3/D. §-át a Módr7. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

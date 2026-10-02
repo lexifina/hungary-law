@@ -1,3 +1,3 @@
-2. § A 75/2015. (III. 30.) Korm. rendelet a következő 20. §-sal egészül ki:
+2. §[^3]
 
-„20. § E rendeletnek az egyes gazdaságfejlesztési célú kiemelt beruházásokról szóló kormányrendeletek módosításáról szóló 222/2026. (IX. 30.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 3/E. §-át a Módr14. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
