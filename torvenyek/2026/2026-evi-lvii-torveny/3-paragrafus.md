@@ -1,7 +1,1 @@
-3. § A magyar építészetről szóló 2023. évi C. törvény 194. §-a a következő (14)–(16) bekezdéssel egészül ki:
-
-„(14) Ha kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet úgy rendelkezik, hogy a kiemelt jelentőségű ügy vonatkozásában hatósági engedélyt kiadni meghatározott ideig nem lehet, ebben az esetben ezen időtartam alatt a 194/A. § (7) és (8) bekezdésében foglalt határidők szünetelnek.
-
-(15) A környezetvédelmi vagy a természetvédelmi hatóság a környezetvédelmi vagy a természetvédelmi szabályok megsértése okán az előtte indított eljárás megindulásáról, az eljárásban hozott döntés véglegessé válásáról, valamint a szabálytalanság megszüntetésének tényéről haladéktalanul tájékoztatja az eljáró építésügyi hatóságot. Az eljáró építésügyi hatóság a környezetvédelmi vagy a természetvédelmi hatóságnak az eljárás megindulásáról szóló tájékoztatására az engedélyezési eljárását felfüggeszti a környezetvédelmi vagy a természetvédelmi hatóság döntésének véglegessé válásáig.
-
-(16) Az (1) bekezdés szerinti jogszabály előírhatja, hogy a kiemelt beruházáshoz kapcsolódó eljárás során a környezetvédelmi vagy természetvédelmi hatóság döntésével megállapított jogsértés esetén a beruházás megvalósításához építési vagy létesítési engedély nem adható ki a jogsértő állapot megszüntetéséig, de legalább a döntés véglegessé válásától számított hat hónapig.”
+### 3. §
