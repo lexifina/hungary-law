@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a menedékjogról szóló 2007. évi LXXX. törvény 93. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 2/A. § a) pontjában az „a Terrorelhárítási Központot,” szövegrész helyébe az „– a terrorkockázatok formájában jelentkező veszélyek tekintetében – az általános rendőrségi feladatok ellátására létrehozott szervet,” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
