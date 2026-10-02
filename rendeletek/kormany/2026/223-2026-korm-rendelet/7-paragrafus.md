@@ -1,0 +1,3 @@
+7. §[^2]
+
+[^2]: A 7. § a 10. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
