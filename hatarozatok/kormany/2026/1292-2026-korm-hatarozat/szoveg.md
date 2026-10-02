@@ -44,7 +44,7 @@ d) az ágazati kormányzati beavatkozást igénylő események jegyzékének meg
 
 | Határidő: | folyamatos |
 
-9. A Kormány visszavonja a kormányügyeleti rendszer létrehozásáról szóló 1324/2011. (IX. 22.) Korm. határozatot.
+9.[^1]
 
 10. Ez a határozat – a 11. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -175,3 +175,5 @@ b) az ügyeletes állami vezetők névjegyzékét és elérhetőségi adatait a 
 a) ellátja a Kormányügyelet részére elektronikus úton érkező jelentések és tájékoztatók naplózását,
 
 b) gondoskodik a beérkezett jelentések és tájékoztatók iratkezelési szabályzat szerinti kezeléséről és megőrzéséről.
+
+[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
