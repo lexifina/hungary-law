@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 114. § (1) bekezdés 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályukat vesztik a digitális állam megvalósításához kapcsolódó egyes szervezetek kijelöléséről szóló 320/2024. (XI. 6.) Korm. rendelet 8. § (1) bekezdés a) pontjában az „a Terrorelhárítási Központ,” szövegrészek.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
