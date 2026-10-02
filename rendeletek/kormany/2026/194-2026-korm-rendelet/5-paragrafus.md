@@ -1,7 +1,3 @@
-5. § Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet
+5. §[^6]
 
-a) 2. §-a,
-
-b) 3. mellékletében foglalt táblázat 4. sora,
-
-c) 3. mellékletében foglalt táblázat 7. sora.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
