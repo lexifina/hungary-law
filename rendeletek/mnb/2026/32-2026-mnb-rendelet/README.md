@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-32-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-10-01 | 2026-32-20-2C.1 | 32/2026. (IX. 14.) MNB rendelet |
+| 2026-10-02 | 2026-32-20-2C.2 | 2010. évi CXXX. törvény |
