@@ -4,14 +4,6 @@
 
 ## [3] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 59. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A kiemelt nemzeti emlékhely használatának rendjéről szóló 119/2014. (IV. 8.) Korm. rendelet 13/A. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A védett várakozási övezetbe)
-
-## „d) a nemzetbiztonsági szolgálatok járműve – a vagyonkezelővel kötött megállapodás alapján –,”
-
-## (behajthat.)
-
-(2) A kiemelt nemzeti emlékhely használatának rendjéről szóló 119/2014. (IV. 8.) Korm. rendelet 13/A. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(A védett várakozási övezetbe)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
