@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73/B. § i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a pilóta nélküli állami légijárművek repüléséről szóló 307/2025. (X. 9.) Korm. rendelet 13. § (3) bekezdés d) és e) pontja.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
