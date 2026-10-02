@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a foglalkozás-egészségügyi szolgálatról szóló 89/1995. (VII. 14.) Korm. rendelet 1. § a) pontjában az „az Országgyűlési Őrséget,” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
