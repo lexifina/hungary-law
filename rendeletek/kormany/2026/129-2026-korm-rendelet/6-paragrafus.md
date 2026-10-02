@@ -1,7 +1,3 @@
-6. § Hatályát veszti a 38/2014. (II. 24.) Korm. rendelet
+6. §[^7]
 
-a) 1. § (2) bekezdésében az „ , az azt kezelő számítástechnikai eszközzel olvasható és kinyomtatható formában is megjeleníthető”,
-
-b) 20. § (1) bekezdésében az „Az adatlap papír alapú vagy elektronikus másolatként szolgáltatható.”
-
-szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
