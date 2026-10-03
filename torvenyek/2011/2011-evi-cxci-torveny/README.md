@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2025-06-02 | 2025. évi XXXIV. törvény | 2011-191-00-00.49 |
 | 2026-01-01 | 2025. évi LXXX. törvény | 2011-191-00-00.50 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2011-191-00-00.51 |
+| 2026-10-03 | 7/2026. (X. 2.) AB határozat | 2011-191-00-00.52 |
