@@ -4,4 +4,6 @@ A Kormány a Budapest és az agglomeráció fejlesztésével összefüggő álla
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Fővárosi Közfejlesztések Tanácsáról szóló 1509/2018. (X.17.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
