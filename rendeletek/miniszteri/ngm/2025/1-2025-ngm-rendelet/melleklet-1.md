@@ -964,7 +964,7 @@ A települési önkormányzatok által 2025. évben teljesítendő önkormányza
 
 | 480 | Pest | Budakeszi | 180 578 989 |
 
-| 481 | Pest | Budaörs | 6 099 807 695 |
+| 481[^2] |  |  |  |
 
 | 482 | Pest | Cegléd | 587 183 382 |
 
@@ -1713,3 +1713,5 @@ A települési önkormányzatok által 2025. évben teljesítendő önkormányza
 | 854 | Zala | Zalaszentbalázs | 902 109 |
 
 | 855 | Zala | Zalaszentiván | 5 479 987 |
+
+[^2]: Az 1. mellékletben foglalt táblázat 481. sorát az Alkotmánybíróság a 6/2026. (X. 2.) AB határozat 3. pontjával megsemmisítette 2026. október 3. napjával.
