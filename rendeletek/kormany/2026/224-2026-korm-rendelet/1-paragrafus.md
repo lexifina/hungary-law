@@ -16,4 +16,6 @@
 
 ## 1. A nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 484/2017. (XII. 28.) Korm. rendelet módosítása
 
-1. § A nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 484/2017. (XII. 28.) Korm. rendelet 1/A. §-ában az „az Energiaügyi Minisztérium” szövegrész helyébe az „a” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

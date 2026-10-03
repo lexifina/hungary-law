@@ -1,3 +1,3 @@
-6. § Az R2. 11. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„11. § A miniszter a 10. § b) pontja szerinti feladatát, valamint az e-közigazgatásért felelős miniszter a 6. § (2) bekezdése szerinti feladatát a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság bevonásával látja el.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

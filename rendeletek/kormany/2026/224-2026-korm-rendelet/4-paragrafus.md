@@ -1,1 +1,3 @@
-4. § Az R1. 4. §-ában a „miniszter” szövegrész helyébe a „felette az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló miniszter (a továbbiakban: miniszter)” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
