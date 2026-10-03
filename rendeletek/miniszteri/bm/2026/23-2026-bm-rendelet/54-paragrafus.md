@@ -1,5 +1,0 @@
-## 30. A rendfokozati vizsgáról szóló 39/2016. (X. 6.) BM rendelet módosítása
-
-54. §[^55]
-
-[^55]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
