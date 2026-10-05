@@ -22,6 +22,10 @@ c) „magas” megbízhatósági szint esetén 620 000 Ft.
 
 (9)[^7] A nyilvántartásba vett sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetek adatváltozás-bejegyzésére irányuló eljárás igazgatási szolgáltatási díja 60 000 Ft.
 
+(10)[^8] Az (EU) 2024/2847 európai parlamenti és tanácsi rendelet szerinti megfelelőségértékelő szervezet bejelentés iránti kérelmére induló eljárás igazgatási szolgáltatási díja 390 000 Ft.
+
+(11)[^9] A Kiberbiztonsági tv. 80/E. § (1) bekezdése szerinti nyilvántartásba felvett megfelelőségértékelő szervezet vagy bejelentett szervezet adatváltozás-bejegyzésére irányuló eljárás igazgatási szolgáltatási díja 60 000 Ft.
+
 [^1]: Az 1. § a 7/2024. (VI. 24.) SZTFH rendelet 7. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 31. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 31. § b) pontja szerint módosított szöveg.
@@ -29,3 +33,5 @@ c) „magas” megbízhatósági szint esetén 620 000 Ft.
 [^5]: Az 1. § (6) bekezdése a 6/2026. (VI. 8.) SZTFH rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (8) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
 [^7]: Az 1. § (9) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
+[^8]: Az 1. § (10) bekezdését a 9/2026. (IX. 4.) SZTFH rendelet 9. §-a iktatta be.
+[^9]: Az 1. § (11) bekezdését a 9/2026. (IX. 4.) SZTFH rendelet 9. §-a iktatta be.
