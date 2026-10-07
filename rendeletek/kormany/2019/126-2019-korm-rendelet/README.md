@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-126-20-
 | 2020-07-31 | 2019-126-20-22.4 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2023-01-01 | 2019-126-20-22.5 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2023-09-01 | 2019-126-20-22.6 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2026-10-07 | 2019-126-20-22.7 | 371/2020. (VII. 30.) Korm. rendelet |
