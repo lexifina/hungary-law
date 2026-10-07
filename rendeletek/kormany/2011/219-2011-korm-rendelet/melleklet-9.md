@@ -14,7 +14,7 @@ a) a veszélyes anyagokkal kapcsolatos súlyos baleset következtében kialakul�
 
 b) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésbe bevonható települési infrastruktúra, berendezések és anyagok;
 
-c)[^273] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
+c)[^274] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
 
 ca) vezetési és együttműködési feladatok,
 
@@ -42,7 +42,7 @@ cl) a híradás, valamint
 
 cm) az áldozatokkal kapcsolatos tevékenység.
 
-cn)[^274] súlyos balesetet követően a környezet helyreállítása és megtisztítása.
+cn)[^275] súlyos balesetet követően a környezet helyreállítása és megtisztítása.
 
 1.2.2. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés irányítása:
 
@@ -54,7 +54,7 @@ c) a védekezési tevékenységet elindító, a védekezést irányító és má
 
 d) az irányításhoz, a helyzet értékeléséhez és a döntések előkészítéséhez szükséges technikai infrastruktúra.
 
-1.2.3.[^275] A veszélyes anyagokkal kapcsolatos súlyos baleset bekövetkezése utáni tájékoztatási feladatok meghatározása:
+1.2.3.[^276] A veszélyes anyagokkal kapcsolatos súlyos baleset bekövetkezése utáni tájékoztatási feladatok meghatározása:
 
 a) a lakosság felé történő tájékoztatás tartalma és eszközei,
 
@@ -62,7 +62,7 @@ b) a védelmi és biztonsági igazgatás szervei felé történő tájékoztatá
 
 c) az iparbiztonsági hatóság felé történő tájékoztatás tartalma és eszközei.
 
-1.2.4.[^276]
+1.2.4.[^277]
 
 1.3. A külső védelmi terv részét képezheti más jogszabály alapján létrehozott védelmi tervnek, de önálló okmányként úgy kell kialakítani, hogy tartalma és végrehajthatósága megítélhető legyen.
 
@@ -72,7 +72,7 @@ c) az iparbiztonsági hatóság felé történő tájékoztatás tartalma és es
 
 2.2. A térképeken (vázlaton) ki kell emelni a veszélyes anyagokkal foglalkozó üzem, vagy a küszöbérték alatti üzem megközelítési útvonalait, valamint a kimenekítési és egyéb, a veszélyes anyagokkal kapcsolatos súlyos baleset hatásai elleni védekezéssel kapcsolatos tevékenységek során igénybe vehető útvonalakat.
 
-[^273]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
-[^274]: A 9. melléklet 1.2.1. pont c) alpont cn) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § d) pontja iktatta be.
-[^275]: A 9. melléklet 1.2.3. pontja a 175/2025. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^276]: A 9. melléklet 1.2.4. pontját a 175/2025. (VI. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^274]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
+[^275]: A 9. melléklet 1.2.1. pont c) alpont cn) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § d) pontja iktatta be.
+[^276]: A 9. melléklet 1.2.3. pontja a 175/2025. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^277]: A 9. melléklet 1.2.4. pontját a 175/2025. (VI. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.

@@ -22,7 +22,7 @@ h)[^13] a belső védelmi terv és a súlyos káresemény elhárítási terv gya
 
 (2) A veszélyes anyagokkal foglalkozó üzem azonosításának részletes szabályait az 1. melléklet tartalmazza.
 
-(3)[^14] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban – ha kormányrendelet másként nem rendelkezik – a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes fővárosi és vármegyei kormányhivatal (a továbbiakban: iparbiztonsági hatóság) jár el.
+(3)[^14] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban – ha kormányrendelet másként nem rendelkezik – a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: iparbiztonsági hatóság) jár el.
 
 (4)[^15]
 
@@ -30,5 +30,5 @@ h)[^13] a belső védelmi terv és a súlyos káresemény elhárítási terv gya
 [^11]: A 4. § (1) bekezdés f) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4. § (1) bekezdés g) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 4. § (1) bekezdés h) pontját a 476/2013. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^14]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^14]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 31. §-ával megállapított, a 243/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 350. § (1) bekezdése iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 41. § b) pontja hatályon kívül helyezte.

@@ -1,14 +1,14 @@
-34. § (1)[^142] Az alábbi kritériumok egyikének teljesülése esetén súlyos káresemény elhárítási terv készítését kell előírni:
+34. § (1)[^143] Az alábbi kritériumok egyikének teljesülése esetén súlyos káresemény elhárítási terv készítését kell előírni:
 
-a)[^143] az 1. melléklet, 1. táblázat, H1, H2, H3 veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
+a)[^144] az 1. melléklet, 1. táblázat, H1, H2, H3 veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
 
-b)[^144] az 1. melléklet, 1. táblázat, P1.a, P1.b veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
+b)[^145] az 1. melléklet, 1. táblázat, P1.a, P1.b veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
 
-c)[^145] veszélyes anyagok körébe tartózó cseppfolyós gáz jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb, propán-bután gázt tartalmazó, fogyasztói tartályban történő tárolást, beleértve a kapcsolódó technológiai berendezéseket.
+c)[^146] veszélyes anyagok körébe tartózó cseppfolyós gáz jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb, propán-bután gázt tartalmazó, fogyasztói tartályban történő tárolást, beleértve a kapcsolódó technológiai berendezéseket.
 
-d)[^146] nyomás (legalább 300 kPa túlnyomás) alatti, veszélyes anyagot tartalmazó technológiai berendezések jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb, propán-bután gázt tartalmazó, fogyasztói tartályban történő tárolást, beleértve a kapcsolódó technológiai berendezéseket.
+d)[^147] nyomás (legalább 300 kPa túlnyomás) alatti, veszélyes anyagot tartalmazó technológiai berendezések jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb, propán-bután gázt tartalmazó, fogyasztói tartályban történő tárolást, beleértve a kapcsolódó technológiai berendezéseket.
 
-(2)[^147] Az (1) bekezdés alá nem tartozó esetekben nem kell súlyos káresemény elhárítási terv készítését előírni, ha az alábbi kritériumok együttesen teljesülnek:
+(2)[^148] Az (1) bekezdés alá nem tartozó esetekben nem kell súlyos káresemény elhárítási terv készítését előírni, ha az alábbi kritériumok együttesen teljesülnek:
 
 a) a küszöbérték alatti üzem határától számítva
 
@@ -16,27 +16,27 @@ aa) a lakóövezet, üdülőövezet, közintézmények, tömegtartózkodásra sz
 
 ab) a munkahelyek, más egyéb üzemek, irodaházak stb. távolsága nagyobb, mint 200 méter, és
 
-ac)[^148] veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem távolsága nagyobb, mint 100 méter, és
+ac)[^149] veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem távolsága nagyobb, mint 100 méter, és
 
 b) az üzem saját munkavállalóinak és az üzem területén rendszeresen vagy állandóan tartózkodó munkavállalók száma 30 főnél kevesebb.
 
-(2a)[^149] A (2) bekezdés alkalmazásában a (2) bekezdés a) pont ac) alpontja szerinti kritériumot nem kell figyelembe venni olyan csővezetékek esetében, ahol a veszélyes anyagokkal foglalkozó üzem vagy a küszöbérték alatti üzem a csővezetékkel technológiai kapcsolatban van.
+(2a)[^150] A (2) bekezdés alkalmazásában a (2) bekezdés a) pont ac) alpontja szerinti kritériumot nem kell figyelembe venni olyan csővezetékek esetében, ahol a veszélyes anyagokkal foglalkozó üzem vagy a küszöbérték alatti üzem a csővezetékkel technológiai kapcsolatban van.
 
-(3)[^150] Az (1) és (2) bekezdés alá nem tartozó esetben súlyos káresemény elhárítási terv készítését nem kell előírni, ha az üzemeltető a 33. § (1) bekezdés szerinti kérelemhez csatolt dokumentációban bizonyítja, hogy
+(3)[^151] Az (1) és (2) bekezdés alá nem tartozó esetben súlyos káresemény elhárítási terv készítését nem kell előírni, ha az üzemeltető a 33. § (1) bekezdés szerinti kérelemhez csatolt dokumentációban bizonyítja, hogy
 
 a) emberi életet veszélyeztető tűz- és robbanási hatás mértéke az üzem határánál hőhatás esetében 4 kW/m2 és túlnyomás esetében 10 kPa értéket nem haladja meg, és
 
-b)[^151] a környezetterheléssel járó súlyos balesetből származó veszélyeztetés esetén a 7. melléklet 1.7. pontjában rögzített feltételek teljesülnek.
+b)[^152] a környezetterheléssel járó súlyos balesetből származó veszélyeztetés esetén a 7. melléklet 1.7. pontjában rögzített feltételek teljesülnek.
 
 (4) A kérelemhez csatolt (3) bekezdés szerinti dokumentációban az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető bemutatja azokat a területeket, melyeket az üzemből kiinduló súlyos balesetek hatásai érinthetnek. Az értékelés során valamennyi veszélyes anyagokkal foglalkozó létesítmény legnagyobb veszélyeztető hatást okozó eseményét kell bemutatni. A veszélyeztetett területek bemutatása térképen ábrázolva és ezzel egyenértékű leírással történik. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel elvégezheti.
 
-[^142]: A 34. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^143]: A 34. § (1) bekezdés a) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 34/2015. (II. 27.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
-[^144]: A 34. § (1) bekezdés b) pontja a 34/2015. (II. 27.) Korm. rendelet 31. § d) pontja szerint módosított szöveg.
-[^145]: A 34. § (1) bekezdés c) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^146]: A 34. § (1) bekezdés d) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^147]: A 34. § (2) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^148]: A 34. § (2) bekezdés a) pont ac) alpontja a 175/2025. (VI. 30.) Korm. rendelet 9. § k) pontja szerint módosított szöveg.
-[^149]: A 34. § (2a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 15. § (5) bekezdése iktatta be, szövege a 175/2025. (VI. 30.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
-[^150]: A 34. § (3) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 15. § (6) bekezdésével megállapított szöveg.
-[^151]: A 34. § (3) bekezdés b) pontja a 34/2015. (II. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^143]: A 34. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^144]: A 34. § (1) bekezdés a) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 34/2015. (II. 27.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
+[^145]: A 34. § (1) bekezdés b) pontja a 34/2015. (II. 27.) Korm. rendelet 31. § d) pontja szerint módosított szöveg.
+[^146]: A 34. § (1) bekezdés c) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^147]: A 34. § (1) bekezdés d) pontja a 476/2013. (XII. 17.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^148]: A 34. § (2) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^149]: A 34. § (2) bekezdés a) pont ac) alpontja a 175/2025. (VI. 30.) Korm. rendelet 9. § k) pontja szerint módosított szöveg.
+[^150]: A 34. § (2a) bekezdését a 476/2013. (XII. 17.) Korm. rendelet 15. § (5) bekezdése iktatta be, szövege a 175/2025. (VI. 30.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
+[^151]: A 34. § (3) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 15. § (6) bekezdésével megállapított szöveg.
+[^152]: A 34. § (3) bekezdés b) pontja a 34/2015. (II. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
