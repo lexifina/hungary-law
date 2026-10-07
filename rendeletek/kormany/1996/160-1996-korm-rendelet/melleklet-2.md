@@ -72,7 +72,7 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 11. Berettyóújfalu, Gróf Tisza István Kórház
 
-12.[^129] Békéscsaba, Békés Vármegyei Központi Kórház
+12.[^129] Békéscsaba, Békés Megyei Központi Kórház
 
 13. Cegléd, Toldy Ferenc Kórház és Rendelőintézet
 
@@ -90,33 +90,33 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 20. Esztergom, Vaszary Kolos Kórház
 
-21.[^130] Fehérgyarmat, Szabolcs-Szatmár-Bereg Vármegyei Kórházak és Egyetemi Oktatókórház
+21.[^130] Fehérgyarmat, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 22. Gyöngyös, Bugát Pál Kórház
 
-23.[^131] Győr, Petz Aladár Vármegyei Oktató Kórház
+23.[^131] Győr, Petz Aladár Megyei Oktató Kórház
 
-24.[^132] Gyula, Békés Vármegyei Központi Kórház
+24.[^132] Gyula, Békés Megyei Központi Kórház
 
 25. Hatvan, Albert Schweitzer Kórház-Rendelőintézet
 
-26.[^133] Hódmezővásárhely, Csongrád Vármegyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
+26.[^133] Hódmezővásárhely, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
 
 27. Jászberény, Jászberényi Szent Erzsébet Kórház
 
-28.[^134] Kalocsa, Bács-Kiskun Vármegyei Kórház
+28.[^134] Kalocsa, Bács-Kiskun Megyei Kórház
 
-29.[^135] Kaposvár, Somogy Vármegyei Kaposi Mór Oktató Kórház
+29.[^135] Kaposvár, Somogy Megyei Kaposi Mór Oktató Kórház
 
 30. Karcag, Kátai Gábor Kórház
 
 31. Kazincbarcika, Kazincbarcikai Kórház Nonprofit Kft.
 
-32.[^136] Kecskemét, Bács-Kiskun Vármegyei Kórház
+32.[^136] Kecskemét, Bács-Kiskun Megyei Kórház
 
 33. Keszthely, Keszthelyi Kórház
 
-34.[^137] Kiskunfélegyháza, Bács-Kiskun Vármegyei Kórház
+34.[^137] Kiskunfélegyháza, Bács-Kiskun Megyei Kórház
 
 35. Kiskunhalas, Kiskunhalasi Semmelweis Kórház
 
@@ -124,15 +124,15 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 37. Komárom, Selye János Kórház
 
-38.[^138] Makó, Csongrád Vármegyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
+38.[^138] Makó, Csongrád Megyei Egészségügyi Ellátó Központ – Hódmezővásárhely-Makó
 
-39.[^139] Marcali, Somogy Vármegyei Kaposi Mór Oktató Kórház
+39.[^139] Marcali, Somogy Megyei Kaposi Mór Oktató Kórház
 
-40.[^140] Mátészalka, Szabolcs-Szatmár-Bereg Vármegyei Kórházak és Egyetemi Oktatókórház
+40.[^140] Mátészalka, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 41. Mezőtúr, Mezőtúri Kórház és Rendelőintézet
 
-42.[^141] Miskolc, Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház
+42.[^141] Miskolc, Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 43. Mohács, Mohácsi Kórház
 
@@ -142,7 +142,7 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 46. Nagykanizsa, Kanizsai Dorottya Kórház
 
-47.[^142] Nyíregyháza, Szabolcs-Szatmár-Bereg Vármegyei Kórházak és Egyetemi Oktatókórház
+47.[^142] Nyíregyháza, Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 48. Orosháza, Orosházi Kórház
 
@@ -152,7 +152,7 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 51. Pécs, Pécsi Tudományegyetem
 
-52.[^143] Salgótarján, Szent Lázár Vármegyei Kórház
+52.[^143] Salgótarján, Szent Lázár Megyei Kórház
 
 53. Sátoraljaújhely, Sátoraljaújhelyi Erzsébet Kórház
 
@@ -162,13 +162,13 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 56. Szeged, Szegedi Tudományegyetem
 
-57.[^144] Szekszárd, Tolna Vármegyei Balassa János Kórház
+57.[^144] Szekszárd, Tolna Megyei Balassa János Kórház
 
-58.[^145] Székesfehérvár, Fejér Vármegyei Szent György Egyetemi Oktató Kórház
+58.[^145] Székesfehérvár, Fejér Megyei Szent György Egyetemi Oktató Kórház
 
-59.[^146] Szentes, Csongrád Vármegyei Dr. Bugyi István Kórház
+59.[^146] Szentes, Csongrád Megyei Dr. Bugyi István Kórház
 
-60.[^147] Szolnok, Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet
+60.[^147] Szolnok, Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
 
 61. Szombathely, Markusovszky Egyetemi Oktatókórház
 
@@ -178,7 +178,7 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 
 64. Veszprém, Csolnoky Ferenc Kórház
 
-65.[^148] Zalaegerszeg, Zala Vármegyei Szent Rafael Kórház
+65.[^148] Zalaegerszeg, Zala Megyei Szent Rafael Kórház
 
 [^112]: Az 1. melléklet 1. pontját a 161/2026. (IX. 21.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^113]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -197,23 +197,23 @@ A védett személy gyógyintézeti ellátására kijelölhető intézmények[^12
 [^126]: Az 1. melléklet 2. pont v) alpontját a 161/2026. (IX. 21.) Korm. rendelet 7. §-a iktatta be.
 [^127]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^128]: A 2. melléklet címe a 161/2026. (IX. 21.) Korm. rendelet 8. § 31. pontja szerint módosított szöveg.
-[^129]: A 2. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^130]: A 2. melléklet 21. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^131]: A 2. melléklet 23. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^132]: A 2. melléklet 24. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^133]: A 2. melléklet 26. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^134]: A 2. melléklet 28. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^135]: A 2. melléklet 29. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^136]: A 2. melléklet 32. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^137]: A 2. melléklet 34. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^138]: A 2. melléklet 38. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^139]: A 2. melléklet 39. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^140]: A 2. melléklet 40. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^141]: A 2. melléklet 42. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^142]: A 2. melléklet 47. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^143]: A 2. melléklet 52. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^144]: A 2. melléklet 57. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^145]: A 2. melléklet 58. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^146]: A 2. melléklet 59. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^147]: A 2. melléklet 60. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^148]: A 2. melléklet 65. pontja a 616/2022. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^129]: A 2. melléklet 12. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^130]: A 2. melléklet 21. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^131]: A 2. melléklet 23. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^132]: A 2. melléklet 24. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^133]: A 2. melléklet 26. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^134]: A 2. melléklet 28. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^135]: A 2. melléklet 29. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^136]: A 2. melléklet 32. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^137]: A 2. melléklet 34. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^138]: A 2. melléklet 38. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^139]: A 2. melléklet 39. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^140]: A 2. melléklet 40. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^141]: A 2. melléklet 42. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^142]: A 2. melléklet 47. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^143]: A 2. melléklet 52. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^144]: A 2. melléklet 57. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^145]: A 2. melléklet 58. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^146]: A 2. melléklet 59. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^147]: A 2. melléklet 60. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^148]: A 2. melléklet 65. pontja a 226/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
