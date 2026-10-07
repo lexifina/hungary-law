@@ -80,7 +80,7 @@ A kritikus szervezetek és kritikus infrastruktúrák ellenálló képességi sz
 
 |  | A | B | C | D |
 
-| 1 | Követelmény, amelyre intézkedést szükséges hozni | 1-es ellenálló képességi szint[^65] | 2-es ellenálló képességi szint[^66] | 3-as ellenálló képességi szint[^67] |
+| 1 | Követelmény, amelyre intézkedést szükséges hozni | 1-es ellenálló képességi szint[^72] | 2-es ellenálló képességi szint[^73] | 3-as ellenálló képességi szint[^74] |
 
 | 2 | A kritikus szervezet biztosítja a kritikus munkakörben foglalkoztatottak nyilvántartása naprakész voltának havonkénti ellenőrzését. | – | x | x |
 
@@ -90,7 +90,7 @@ A kritikus szervezetek és kritikus infrastruktúrák ellenálló képességi sz
 
 | 5 | A kritikus szervezet biztosítja az EDR személyi és tárgyi feltételei megfelelőségének negyedévenkénti ellenőrzését, legalább kettő alkalommal előforduló hiányosság esetén az általános kijelölő hatóság értesítését. | – | x | x |
 
-| 6 | A kritikus szervezet a kritikus infrastruktúrák területén biztosítja a létesítmény belépési pontjainak, – villamosenergia-, kőolaj-, földgáz-, ivóvíz és szennyvíz vezetékek telephelyen kívüli szakaszai kivételével – kamerával vagy élőerővel történő megfigyelését. | –[^68] | x | – |
+| 6 | A kritikus szervezet a kritikus infrastruktúrák területén biztosítja a létesítmény belépési pontjainak, – villamosenergia-, kőolaj-, földgáz-, ivóvíz és szennyvíz vezetékek telephelyen kívüli szakaszai kivételével – kamerával vagy élőerővel történő megfigyelését. | –[^75] | x | – |
 
 | 7 | A kritikus szervezet a kritikus infrastruktúrák területén biztosítja a létesítmény belépési pontjainak kamerával és élőerővel történő megfigyelését. | – | – | x |
 
@@ -110,7 +110,7 @@ A kritikus szervezetek és kritikus infrastruktúrák ellenálló képességi sz
 
 | 15 | A kritikus szervezet biztosítja, hogy a biztonsági személyzet a kritikus infrastruktúrák területén lévő kerítést negyedévente, dokumentáltan ellenőrizze. | – | x | x |
 
-| 16 | A kritikus szervezet a kritikus infrastruktúrák területén biztonsági személyzetet alkalmaz. | – | –[^69] | x |
+| 16 | A kritikus szervezet a kritikus infrastruktúrák területén biztonsági személyzetet alkalmaz. | – | –[^76] | x |
 
 | 17 | A kritikus szervezet a kritikus infrastruktúrák területén biztosítja az ingatlanra belépő járművek és személyek adatainak rögzítését, nyomon követését. | – | – | x |
 
@@ -132,11 +132,11 @@ A kritikus szervezetek és kritikus infrastruktúrák ellenálló képességi sz
 
 | 26 | A kritikus szervezet biztosítja a kritikus infrastruktúrák területén a vezérlő központ épületszerkezeteinek megerősített védelmét. | – | x | x |
 
-| 27 | A kritikus szervezet biztosítja a kritikus infrastruktúrák területére belépő külső személyek beazonosíthatóságát. | – | –[^70] | x |
+| 27 | A kritikus szervezet biztosítja a kritikus infrastruktúrák területére belépő külső személyek beazonosíthatóságát. | – | –[^77] | x |
 
-[^65]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 3. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § i) pontja szerint módosított szöveg.
-[^66]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 4. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
-[^67]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 5. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § k) pontja szerint módosított szöveg.
-[^68]: Az 1. melléklet 2.2. pontjában foglalt táblázat B:6 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^69]: Az 1. melléklet 2.2. pontjában foglalt táblázat C:16 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^70]: Az 1. melléklet 2.2. pontjában foglalt táblázat C:27 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^72]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 3. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § i) pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 4. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
+[^74]: Az 1. melléklet 2.2. pontjában foglalt táblázat fejléc 5. mezője a 175/2025. (VI. 30.) Korm. rendelet 36. § k) pontja szerint módosított szöveg.
+[^75]: Az 1. melléklet 2.2. pontjában foglalt táblázat B:6 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^76]: Az 1. melléklet 2.2. pontjában foglalt táblázat C:16 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^77]: Az 1. melléklet 2.2. pontjában foglalt táblázat C:27 mezője a 175/2025. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.

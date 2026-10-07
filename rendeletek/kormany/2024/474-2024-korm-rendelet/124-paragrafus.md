@@ -1,3 +1,3 @@
-124. §[^15]
+124. §[^22]
 
-[^15]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

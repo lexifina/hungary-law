@@ -1,3 +1,3 @@
-130. §[^21]
+130. §[^28]
 
-[^21]: A 130. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 130. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

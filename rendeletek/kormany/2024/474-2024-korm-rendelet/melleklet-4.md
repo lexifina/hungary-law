@@ -34,6 +34,6 @@
 
 | 17 | Kritikus szervezetre vagy infrastruktúrára vonatkozó további kötelezettség elmulasztása | 1 000 000 | 15 000 000 |
 
-4. melléklet a 474/2024. (XII. 31.) Korm. rendelethez[^71]
+4. melléklet a 474/2024. (XII. 31.) Korm. rendelethez[^78]
 
-[^71]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

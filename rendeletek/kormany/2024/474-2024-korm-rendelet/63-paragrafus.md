@@ -1,6 +1,6 @@
 ## 32. Kőolaj alágazat kritériumai
 
-63. § (1)[^8] Kőolajvezeték üzemeltetés vonatkozásában kritikus szervezetként jelölhető ki
+63. § (1)[^11] Kőolajvezeték üzemeltetés vonatkozásában kritikus szervezetként jelölhető ki
 
 a) a (2) bekezdés szerinti kritikus infrastruktúra üzemeltetője, valamint
 
@@ -12,4 +12,4 @@ a) az a kizárólag kőolajat szállító csővezeték, ami nemzetközi szállí
 
 b) az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.
 
-[^8]: A 63. § (1) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^11]: A 63. § (1) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 34. §-ával megállapított szöveg.

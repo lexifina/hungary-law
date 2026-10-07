@@ -16,10 +16,13 @@ a) a TEN-T közlekedési hálózat magyarországi törzshálózatának kiépült
 
 b) a TEN-T közlekedési hálózat magyarországi törzshálózatának kiépült gyorsforgalmi szakaszain vagy ahhoz kapcsolódóan létesített, a schengeni övezet külső határán lévő, nemzetközi személy- és áruforgalom lebonyolítását végző határátkelőhely,
 
-c) az az útszakasz, amely a TEN-T közlekedési hálózat magyarországi törzshálózatának kiépült gyorsforgalmi szakaszairól a vármegyeszékhelyek és a megyei jogú városok közúti elérhetőségét magasabb útosztályban, több azonos útosztály esetén, a legrövidebb útvonalon biztosítja,
+c)[^12] az az útszakasz, amely a TEN-T közlekedési hálózat magyarországi törzshálózatának kiépült gyorsforgalmi szakaszairól a megyeszékhelyek és a megyei jogú városok közúti elérhetőségét magasabb útosztályban, több azonos útosztály esetén, a legrövidebb útvonalon biztosítja,
 
 d) a Duna folyam hídjai,
 
-e) a vármegyeszékhelyek és a megyei jogú városok közúti elérhetőségét biztosító közúthálózati elem forgalomirányítását, valamint Magyarország kiépült gyorsforgalmi úthálózatán létesített alagutak felügyeletét biztosító rendszer, valamint
+e)[^13] a megyeszékhelyek és a megyei jogú városok közúti elérhetőségét biztosító közúthálózati elem forgalomirányítását, valamint Magyarország kiépült gyorsforgalmi úthálózatán létesített alagutak felügyeletét biztosító rendszer, valamint
 
 f) az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.
+
+[^12]: A 97. § (2) bekezdés c) pontja a 269/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^13]: A 97. § (2) bekezdés e) pontja a 269/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

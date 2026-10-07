@@ -1,3 +1,3 @@
-136. §[^27]
+136. §[^34]
 
-[^27]: A 136. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 136. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
