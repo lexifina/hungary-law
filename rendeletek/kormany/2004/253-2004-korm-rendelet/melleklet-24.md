@@ -2,7 +2,7 @@
 
 ## VIZSGABIZONYÍTVÁNY
 
-## Igazolom, hogy ................................................ (név) ......................................... (szül. hely és idő) ................................. (lakcím) a vármegyei (budapesti) rendőr-főkapitányság előtt a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és gyakorlati vizsgát eredményesen letette.
+## Igazolom, hogy ................................................ (név) ......................................... (szül. hely és idő) ................................. (lakcím) a megyei (budapesti) rendőr-főkapitányság előtt a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és gyakorlati vizsgát eredményesen letette.
 
 ## ...............................20 .............
 
@@ -16,6 +16,6 @@
 
 | bizottsági tag | bizottsági tag |
 
-24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^371]
+24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^372]
 
-[^371]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
+[^372]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.

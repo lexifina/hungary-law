@@ -24,8 +24,8 @@
 
 ## Engedélyezés dátuma:
 
-15. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^361]
+15. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^362]
 
 Fegyver (és lőszer) kísérő igazolvány
 
-[^361]: A 15. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 282. § b)–c) pontja szerint módosított szöveg.
+[^362]: A 15. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 282. § b)–c) pontja szerint módosított szöveg.

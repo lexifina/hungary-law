@@ -1,6 +1,6 @@
 ## Kárt okozó vad elejtése
 
-36. §[^182] (1) A rendőrség engedélye szükséges a kárt okozó vagy kockázatot jelentő, vadászható állatfaj egyedének – közegészségügyi, közbiztonsági okból, illetve a köz- és magántulajdon súlyos károsodástól való megóvása érdekében történő – elejtéséhez, ha az elejtésre
+36. §[^183] (1) A rendőrség engedélye szükséges a kárt okozó vagy kockázatot jelentő, vadászható állatfaj egyedének – közegészségügyi, közbiztonsági okból, illetve a köz- és magántulajdon súlyos károsodástól való megóvása érdekében történő – elejtéséhez, ha az elejtésre
 
 a) repülőtér területén,
 
@@ -42,4 +42,4 @@ b) az elejtés pontos helyét és idejét, valamint
 
 c) az elejtett vad faját és a vadféleséget.
 
-[^182]: A 36. § a 456/2025. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^183]: A 36. § a 456/2025. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

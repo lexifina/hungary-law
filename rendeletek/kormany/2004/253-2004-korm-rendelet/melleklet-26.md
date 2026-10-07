@@ -1,4 +1,4 @@
-26. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^373]
+26. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^374]
 
 Szakképzések meghatározása a 37. § (5a) bekezdését illetően
 
@@ -14,4 +14,4 @@ Szakképzések meghatározása a 37. § (5a) bekezdését illetően
 
 6. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében foglalt táblázat 134. sorában meghatározott „Rendészeti őr” szakma megszerzésére irányuló szakképzés.
 
-[^373]: A 26. számú mellékletet a 283/2022. (VIII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^374]: A 26. számú mellékletet a 283/2022. (VIII. 1.) Korm. rendelet 4. §-a iktatta be.

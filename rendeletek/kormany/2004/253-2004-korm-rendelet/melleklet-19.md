@@ -132,6 +132,6 @@
 
 ## cégszerű aláírás
 
-19. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^365]
+19. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^366]
 
-[^365]: A 19. melléklet a 39/2012. (III. 12.) korm. rendelet 28. § d) pontjával megállapított szöveg.
+[^366]: A 19. melléklet a 39/2012. (III. 12.) korm. rendelet 28. § d) pontjával megállapított szöveg.

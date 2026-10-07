@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2026-03-01 | 2004-253-20-22.50 | 457/2025. (XII. 29.) Korm. rendelet |
 | 2026-04-10 | 2004-253-20-22.51 | 39/2012. (III. 12.) Korm. rendelet |
 | 2026-10-01 | 2004-253-20-22.52 | 671/2020. (XII. 28.) Korm. rendelet |
+| 2026-10-07 | 2004-253-20-22.53 | 232/2026. (X. 6.) Korm. rendelet |

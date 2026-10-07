@@ -6,11 +6,11 @@
 
 ## 3. A megjelölésben használt betűjel a latin, a cirill vagy a görög ábécé betűkészletéből, a megjelölésben használt számrendszer az arab vagy a római számrendszer számkészletéből kerülhet ki azzal, hogy a megjelölés során kizárólag a használható betűkészletek, illetve számrendszerek egyikének betű-, illetve számkészlete alkalmazható egyidejűleg.
 
-## 4.[^368] A megjelölés jelmélységének legalább 0,0762 milliméternek kell lennie.
+## 4.[^369] A megjelölés jelmélységének legalább 0,0762 milliméternek kell lennie.
 
-22. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^369]
+22. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^370]
 
 A színházi tűzfegyverekre vonatkozó műszaki követelmények
 
-[^368]: A 21. melléklet 4. pontját a 39/2025. (III. 11.) Korm. rendelet 2. §-a iktatta be.
-[^369]: A 22. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § f) pontja iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 20. § c) pontjával megállapított szöveg.
+[^369]: A 21. melléklet 4. pontját a 39/2025. (III. 11.) Korm. rendelet 2. §-a iktatta be.
+[^370]: A 22. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § f) pontja iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 20. § c) pontjával megállapított szöveg.
