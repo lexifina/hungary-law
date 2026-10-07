@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-460-20-
 | --- | --- | --- |
 | 2018-01-01 | 2017-460-20-22.1 | 460/2017. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2017-460-20-22.2 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-10-07 | 2017-460-20-22.3 | 255/2026. (X. 6.) Korm. rendelet |

@@ -1,6 +1,6 @@
 ## 1. § Nemzetközi szerződés eltérő rendelkezése hiányában a rendelet hatálya a schengeni külső határon található határvízi közlekedés engedélyezésére terjed ki.
 
-2. § (1)[^1] Az államhatárról szóló törvényben meghatározott engedély iránti kérelmet a határvízen történő közlekedés megkezdése előtt legalább 15 nappal kell benyújtani az útvonal szerint illetékes vármegyei rendőr-főkapitányságnál (a továbbiakban: vármegyei rendőr-főkapitányság).
+2. § (1)[^1] Az államhatárról szóló törvényben meghatározott engedély iránti kérelmet a határvízen történő közlekedés megkezdése előtt legalább 15 nappal kell benyújtani az útvonal szerint illetékes megyei rendőr-főkapitányságnál (a továbbiakban: megyei rendőr-főkapitányság).
 
 (2) A kérelem tartalmazza:
 
@@ -18,4 +18,4 @@ f) a határvízen való közlekedés útvonalát,
 
 g) a tervezett kikötési helyek felsorolását.
 
-[^1]: A 2. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 275. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdése a 255/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
