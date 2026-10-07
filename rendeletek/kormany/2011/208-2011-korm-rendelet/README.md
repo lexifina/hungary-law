@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-208-20-
 | 2022-11-01 | 2011-208-20-22.8 | 176/2016. (VII. 1.) Korm. rendelet |
 | 2024-10-01 | 2011-208-20-22.9 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2025-01-01 | 2011-208-20-22.10 | 340/2024. (XI. 14.) Korm. rendelet |
+| 2026-10-07 | 2011-208-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
