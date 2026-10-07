@@ -122,11 +122,11 @@ n)[^61] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról,
 
 o)[^62] másodfokon elbírálja a közúti közlekedésről szóló 1988. évi I. törvény 9. § (5) bekezdése alapján a területi szerv által hozott első fokú döntéssel szemben benyújtott fellebbezéseket, továbbá ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,
 
-p)[^63] ellátja a több vármegye területén vagy országosan, valamint a büntetés-végrehajtási szervezet és az irányítása alá tartozó szervek szervezetében működő fegyveres biztonsági őrségek tekintetében a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában meghatározott hatósági feladatokat, és felügyeli e fegyveres biztonsági őrségek tevékenységét,
+p)[^63] ellátja a több megye területén vagy országosan, valamint a büntetés-végrehajtási szervezet és az irányítása alá tartozó szervek szervezetében működő fegyveres biztonsági őrségek tekintetében a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában meghatározott hatósági feladatokat, és felügyeli e fegyveres biztonsági őrségek tevékenységét,
 
 q)[^64] ellátja a p) pontba nem tartozó fegyveres biztonsági őrségek tekintetében a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. § (1) bekezdés a), d), e), h) és i) pontjában meghatározott hatósági feladatokat,
 
-r)[^65] felügyeli és ellenőrzi a vármegyei (fővárosi) rendőr-főkapitányság és a Repülőtéri Rendőr Igazgatóság fegyveres biztonsági őrségekkel kapcsolatos tevékenységét,
+r)[^65] felügyeli és ellenőrzi a megyei (fővárosi) rendőr-főkapitányság és a Repülőtéri Rendőr Igazgatóság fegyveres biztonsági őrségekkel kapcsolatos tevékenységét,
 
 s)[^66] a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/A. §-a szerinti panaszügyekben a Repülőtéri Rendőr Igazgatóság által hozott döntések tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
 
@@ -199,9 +199,9 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^60]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^61]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 37/2021. (II. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^62]: A 6. § (3) bekezdés o) pontját a 457/2017. (XII. 28.) Korm. rendelet 205. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^63]: A 6. § (3) bekezdés p) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^63]: A 6. § (3) bekezdés p) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^64]: A 6. § (3) bekezdés q) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^65]: A 6. § (3) bekezdés r) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § a) pontja szerint módosított szöveg.
+[^65]: A 6. § (3) bekezdés r) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 235/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^66]: A 6. § (3) bekezdés s) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^67]: A 6. § (3) bekezdés t) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be.
 [^68]: A 6. § (3) bekezdés u) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.

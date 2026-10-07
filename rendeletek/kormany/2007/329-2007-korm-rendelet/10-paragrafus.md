@@ -28,7 +28,7 @@ i)[^91] lefolytatja az elektronikus adat hozzáférhetetlenné tételével kapcs
 
 (2a)[^92] A Repülőtéri Rendőr Igazgatóság a légiforgalmi irányító szolgálat központi létesítményének területén ellátja a (2) bekezdés b), d), és e) pontjában meghatározott feladatokat.
 
-(3)[^93] A Repülőtéri Rendőr Igazgatóság Budapest, Pest vármegye területén ellátja
+(3)[^93] A Repülőtéri Rendőr Igazgatóság Budapest, Pest megye területén ellátja
 
 a)[^94] a 11. § (2) bekezdés gd)–ge) alpontjában meghatározott feladatokat;
 
@@ -51,6 +51,6 @@ ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei �
 [^90]: A 10. § (2) bekezdés h) pontját a 373/2025. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
 [^91]: A 10. § (2) bekezdés i) pontját a 373/2025. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
 [^92]: A 10. § (2a) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^93]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^93]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^94]: A 10. § (3) bekezdés a) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése, a 267/2019. (XI. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^95]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

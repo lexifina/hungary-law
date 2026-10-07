@@ -157,14 +157,14 @@ végzi.
 [^160]: A 12. § (5) bekezdés i) pontját a 259/2021. (V. 20.) Korm. rendelet 21. §-a hatályon kívül helyezte.
 [^161]: A 12. § (6) bekezdését a 148/2010. (IV. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^162]: A 12. § (7) bekezdését a 259/2021. (V. 20.) Korm. rendelet 20. § (5) bekezdése iktatta be.
-[^163]: A 12. § (7) bekezdés a) pontja a 280/2023. (VI. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^164]: A 12. § (7) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^165]: A 12. § (7) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^166]: A 12. § (7) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^167]: A 12. § (7) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^168]: A 12. § (7) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^163]: A 12. § (7) bekezdés a) pontja a 280/2023. (VI. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg. [A 12. § (7) bekezdés a) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^164]: A 12. § (7) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 12. § (7) bekezdés b) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^165]: A 12. § (7) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 12. § (7) bekezdés c) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^166]: A 12. § (7) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 12. § (7) bekezdés d) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^167]: A 12. § (7) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 12. § (7) bekezdés e) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^168]: A 12. § (7) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 12. § (7) bekezdés f) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
 [^169]: A 12. § (7) bekezdés g) pontját a 43/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
-[^170]: A 12. § (7) bekezdés h) pontját a 43/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
-[^171]: A 12. § (7) bekezdés i) pontját a 373/2025. (XI. 28.) Korm. rendelet 9. § (5) bekezdése iktatta be.
+[^170]: A 12. § (7) bekezdés h) pontját a 43/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be. [A 12. § (7) bekezdés h) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^171]: A 12. § (7) bekezdés i) pontját a 373/2025. (XI. 28.) Korm. rendelet 9. § (5) bekezdése iktatta be. [A 12. § (7) bekezdés i) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
 [^172]: A 12. § (8) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.
 [^173]: A 12. § (9) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.

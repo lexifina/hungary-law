@@ -24,12 +24,12 @@ j) a Budapesti Határőr Igazgatóság jogutódja a Repülőtéri Rendőr Igazga
 
 k) a Határőrség Országos Parancsnoksága és az irányítása alatt álló, az a)–j) pontban fel nem sorolt szervek jogutódja az Országos Rendőr-főkapitányság.
 
-[^178]: A 14. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^179]: A 14. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^180]: A 14. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^181]: A 14. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^182]: A 14. § (2) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^183]: A 14. § (2) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^184]: A 14. § (2) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^185]: A 14. § (2) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^186]: A 14. § (2) bekezdés i) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^178]: A 14. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés a) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^179]: A 14. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés b) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^180]: A 14. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés c) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^181]: A 14. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés d) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^182]: A 14. § (2) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés e) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^183]: A 14. § (2) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés f) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^184]: A 14. § (2) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés g) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^185]: A 14. § (2) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés h) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^186]: A 14. § (2) bekezdés i) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 14. § (2) bekezdés i) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]

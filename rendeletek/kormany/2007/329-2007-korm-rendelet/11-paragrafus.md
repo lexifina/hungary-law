@@ -24,21 +24,21 @@ c) szervezi és végrehajtja a minősített időszaki feladatokat, egyes honvéd
 
 d) a gyülekezési jog hatálya alá tartozó rendezvényekkel kapcsolatos feladatokat lát el,
 
-e)[^106] ellátja a közúti, légi és vízi közlekedés rendjével kapcsolatos feladatokat, baleset-megelőzési tevékenységet végez, továbbá biztosítja a folyamatos balesethelyszínelői tevékenység ellátását az autópályákon, a Heves Vármegyei Rendőr-főkapitányság és a Pest Vármegyei Rendőr-főkapitányság az autóutakon is, valamint
+e)[^106] ellátja a közúti, légi és vízi közlekedés rendjével kapcsolatos feladatokat, baleset-megelőzési tevékenységet végez, továbbá biztosítja a folyamatos balesethelyszínelői tevékenység ellátását az autópályákon, a Heves Megyei Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság az autóutakon is, valamint
 
 ea) a Budapesti Rendőr-főkapitányság Budapest,
 
-eb)[^107] a Nógrád Vármegyei Rendőr-főkapitányság Nógrád vármegye,
+eb)[^107] a Nógrád Vármegyei Rendőr-főkapitányság Nógrád megye,
 
-ec)[^108] a Zala Vármegyei Rendőr-főkapitányság Zala vármegye
+ec)[^108] a Zala Vármegyei Rendőr-főkapitányság Zala megye
 
-ed)[^109] a Baranya Vármegyei Rendőr-főkapitányság Baranya vármegye
+ed)[^109] a Baranya Vármegyei Rendőr-főkapitányság Baranya megye
 
 teljes közigazgatási területén,
 
 f) a határrendészeti feladatok tekintetében szakmai irányítói jogkört gyakorol határrendészeti kirendeltségek és a határrendészeti feladatokat ellátó rendőrkapitányságok felett,
 
-g)[^110] működteti a vármegye határbiztonsági rendszerét, amelynek keretén belül
+g)[^110] működteti a megye határbiztonsági rendszerét, amelynek keretén belül
 
 ga) külső határon ellátja a határőrizeti, határforgalomellenőrzési, az államhatár rendjének fenntartásával kapcsolatos feladatokat,
 
@@ -131,17 +131,17 @@ r)[^132] másodfokon elbírálja a szervezett bűnözés, valamint az azzal öss
 [^103]: A 11. § (1) bekezdés d) pontja a 77/2018. (IV. 20.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^104]: A 11. § (1) bekezdés g) pontját a 373/2025. (XI. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^105]: A 11. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^106]: A 11. § (2) bekezdés e) pontja a 259/2021. (V. 20.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 86. § c) pontja szerint módosított szöveg.
-[^107]: A 11. § (2) bekezdés e) pont eb) alpontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^108]: A 11. § (2) bekezdés e) pont ec) alpontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^109]: A 11. § (2) bekezdés e) pont ed) alpontját a 280/2023. (VI. 29.) Korm. rendelet 21. §-a iktatta be.
-[^110]: A 11. § (2) bekezdés g) pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^111]: A 11. § (2) bekezdés g) pont ge) alpontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^112]: A 11. § (2) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^106]: A 11. § (2) bekezdés e) pontja a 259/2021. (V. 20.) Korm. rendelet 20. § (1) bekezdésével megállapított, nyitó szövegrésze a 235/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^107]: A 11. § (2) bekezdés e) pont eb) alpontja a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg. [A 11. § (2) bekezdés e) pont eb) alpontjában e módosító rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^108]: A 11. § (2) bekezdés e) pont ec) alpontja a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg. [A 11. § (2) bekezdés e) pont ec) alpontjában e módosító rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^109]: A 11. § (2) bekezdés e) pont ed) alpontját a 280/2023. (VI. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg. [A 11. § (2) bekezdés e) pont ed) alpontjában ez utóbbi módosító rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^110]: A 11. § (2) bekezdés g) pont nyitó szövegrésze a 235/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^111]: A 11. § (2) bekezdés g) pont ge) alpontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 11. § (2) bekezdés g) pont ge) alpontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
+[^112]: A 11. § (2) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 11. § (2) bekezdés h) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
 [^113]: A 11. § (2) bekezdés i) pontja a 172/2026. (IX. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^114]: A 11. § (2) bekezdés j) pontját újonnan a 373/2025. (XI. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^115]: A 11. § (2) bekezdés k) pontját a 319/2012. (XI. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 206. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^116]: A 11. § (2) bekezdés l) pontját a 302/2014. (XII. 5.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^116]: A 11. § (2) bekezdés l) pontját a 302/2014. (XII. 5.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 11. § (2) bekezdés l) pontjában a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
 [^117]: A 11. § (2) bekezdés m) pontját a 441/2016. (XII. 16.) Korm. rendelet 16. §-a iktatta be.
 [^118]: A 11. § (3) bekezdés c) pontja a 373/2025. (XI. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^119]: A 11. § (3) bekezdés d) pontja a 612/2023. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
@@ -159,4 +159,4 @@ r)[^132] másodfokon elbírálja a szervezett bűnözés, valamint az azzal öss
 [^131]: A 11. § (3) bekezdés q) pontját a 373/2025. (XI. 28.) Korm. rendelet 8. § (4) bekezdése iktatta be.
 [^132]: A 11. § (3) bekezdés r) pontját a 456/2025. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^133]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 373/2025. (XI. 28.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^134]: A 11. § (5) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 14. §-a iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 6. §-a, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^134]: A 11. § (5) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 14. §-a iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 6. §-a, a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg. [A 11. § (5) bekezdésében a 235/2026. (X. 6.) Korm. rendelet 1. § d) pontja által elrendelt módosítás, amely szerint a „vármegyei” szövegrész helyébe a „megyei” szöveg lép, nem vezethető át.]
