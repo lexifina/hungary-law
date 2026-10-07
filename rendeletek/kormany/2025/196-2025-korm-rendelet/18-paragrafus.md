@@ -34,6 +34,6 @@ b) a magyar nyugdíjrendszerből öregségi nyugdíjban részesül, vagy
 
 c) külföldről származó öregségi nyugdíjban részesül, és azt Magyarországon fel tudja venni.
 
-(10)[^6] A támogatás a Nemzeti Foglalkoztatási Alap Foglalkoztatási támogatások cím előirányzata terhére nyújtható.
+(10)[^14] A támogatás a Nemzeti Foglalkoztatási Alap Foglalkoztatási támogatások cím előirányzata terhére nyújtható.
 
-[^6]: A 18. § (10) bekezdése a 24. § szerint módosított szöveg.
+[^14]: A 18. § (10) bekezdése a 24. § szerint módosított szöveg.

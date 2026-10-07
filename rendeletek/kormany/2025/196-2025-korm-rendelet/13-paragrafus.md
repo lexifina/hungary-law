@@ -1,6 +1,6 @@
-13. § (1) Ha minisztérium vagy a vármegyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a Magyar Máltai Szeretetszolgálat Egyesület szállásadóként megállapodást köt ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybevételére, a Magyar Máltai Szeretetszolgálat Egyesület az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
+13. § (1)[^8] Ha minisztérium vagy a megyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a Magyar Máltai Szeretetszolgálat Egyesület szállásadóként megállapodást köt ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybevételére, a Magyar Máltai Szeretetszolgálat Egyesület az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
 
-(2)[^5] Az (1) bekezdés szerinti megállapodás az államháztartásért felelős miniszter vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
+(2)[^9] Az (1) bekezdés szerinti megállapodás az államháztartásért felelős miniszter vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
 
 (3) Az (1) bekezdés szerinti támogatás összege megegyezik a 12. § (1) bekezdése szerinti fajlagos támogatás összegével, amelytől a felek a megállapodásban különösen indokolt esetben legfeljebb 50%-kal térhetnek el.
 
@@ -22,20 +22,25 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 
 a) – ha a megrendelő minisztérium – a minisztériumot vezető miniszter az elbírált igényt az államháztartásért felelős miniszter részére öt napon belül továbbítja,
 
-b) – ha a megrendelő vármegyei, fővárosi védelmi bizottság – a vármegyei, fővárosi védelmi bizottság az elbírált igényt – az abban foglaltak igazolásával – a közigazgatás-szervezésért felelős miniszter részére öt napon belül továbbítja.
+b)[^10] – ha a megrendelő megyei, fővárosi védelmi bizottság – a megyei, fővárosi védelmi bizottság az elbírált igényt – az abban foglaltak igazolásával – a közigazgatás-szervezésért felelős miniszter részére öt napon belül továbbítja.
 
-(9) A közigazgatás-szervezésért felelős miniszter a vármegyei, fővárosi védelmi bizottságtól érkezett elbírált igényeket összesíti, és – a (10) bekezdés szerinti kivétellel – az államháztartásért felelős miniszter részére öt napon belül továbbítja.
+(9)[^11] A közigazgatás-szervezésért felelős miniszter a megyei, fővárosi védelmi bizottságtól érkezett elbírált igényeket összesíti, és – a (10) bekezdés szerinti kivétellel – az államháztartásért felelős miniszter részére öt napon belül továbbítja.
 
-(10) Ha a közigazgatás-szervezésért felelős miniszter az igényben foglaltakkal nem ért egyet, a vármegyei, fővárosi védelmi bizottságot – legfeljebb öt nap határidővel – az igény kiegészítésére vagy átdolgozására hívja fel, ha a kiegészített vagy átdolgozott igénnyel egyetért, a (9) bekezdés szerint jár el.
+(10)[^12] Ha a közigazgatás-szervezésért felelős miniszter az igényben foglaltakkal nem ért egyet, a megyei, fővárosi védelmi bizottságot – legfeljebb öt nap határidővel – az igény kiegészítésére vagy átdolgozására hívja fel, ha a kiegészített vagy átdolgozott igénnyel egyetért, a (9) bekezdés szerint jár el.
 
 (11) Az államháztartásért felelős miniszter a kifizethető támogatás összegéről
 
 a) – ha a megrendelő minisztérium – az elbírált igény továbbításától számított öt napon belül értesíti a megrendelő minisztériumot vezető minisztert,
 
-b) – ha a megrendelő vármegyei, fővárosi védelmi bizottság – az összesített elbírált igények továbbításától számított öt napon belül értesíti a közigazgatás-szervezésért felelős minisztert.
+b)[^13] – ha a megrendelő megyei, fővárosi védelmi bizottság – az összesített elbírált igények továbbításától számított öt napon belül értesíti a közigazgatás-szervezésért felelős minisztert.
 
 (12) A Magyar Máltai Szeretetszolgálat Egyesület számára a (11) bekezdés szerinti támogatást a döntést követő tíz napon belül kell folyósítani.
 
 (13) A támogatás folyósításáról az érintett miniszter utalványozása alapján a kincstár gondoskodik.
 
-[^5]: A 13. § (2) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^8]: A 13. § (1) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^9]: A 13. § (2) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^10]: A 13. § (8) bekezdés b) pontja a 271/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^11]: A 13. § (9) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^12]: A 13. § (10) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 13. § (11) bekezdés b) pontja a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

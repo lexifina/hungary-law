@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-196-20-
 | 2026-01-01 | 2025-196-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2026-01-02 | 2025-196-20-22.4 | 2010. évi CXXX. törvény |
 | 2026-09-05 | 2025-196-20-22.6 | 145/2026. (IX. 4.) Korm. rendelet |
+| 2026-10-07 | 2025-196-20-22.7 | 271/2026. (X. 6.) Korm. rendelet |
