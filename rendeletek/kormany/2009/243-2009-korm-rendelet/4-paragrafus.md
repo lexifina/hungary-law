@@ -1,6 +1,4 @@
-## 3. § Az Emlékérem adományozását nem zárja ki, ha az életveszélybe került, vagy a mentés céljából beavatkozó személy a mentés során, illetve az életveszélyt okozó helyzetben elszenvedett hatások következtében utóbb életét veszti (posztumusz adományozás).
-
-## 4. § Nem adományozható az Emlékérem annak,
+4. § Nem adományozható az Emlékérem annak,
 
 a) akinek az életveszély vállalása hivatásbeli kötelezettsége és az életmentés szolgálatteljesítés közben történt;
 

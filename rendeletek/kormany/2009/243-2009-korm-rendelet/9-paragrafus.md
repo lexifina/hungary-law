@@ -1,3 +1,1 @@
-## 8. §[^11] Az Emlékérmet a miniszter vagy az általa kijelölt állami vezető adja át állami vagy nemzeti ünnepi rendezvény keretében.
-
-[^11]: A 8. § a 10/2011. (II. 22.) Korm. rendelet 10. §-ával megállapított szöveg.
+9. § Az adományozással járó költségeket a Minisztérium költségvetésében kell tervezni.

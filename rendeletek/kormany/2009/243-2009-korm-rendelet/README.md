@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-243-20-
 | 2020-01-01 | 2009-243-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2022-08-12 | 2009-243-20-22.7 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2023-01-01 | 2009-243-20-22.8 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2026-10-07 | 2009-243-20-22.9 | 174/2012. (VII. 26.) Korm. rendelet |

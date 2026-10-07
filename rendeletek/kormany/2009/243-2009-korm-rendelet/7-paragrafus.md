@@ -1,4 +1,4 @@
-7. § (1)[^9] A főispán az Emlékérem adományozását a helyi önkormányzatokért felelős miniszternél (a továbbiakban: miniszter) írásban indítványozza.
+7. § (1)[^9] A kormánymegbízott az Emlékérem adományozását a helyi önkormányzatokért felelős miniszternél (a továbbiakban: miniszter) írásban indítványozza.
 
 (2) Az indítvány tartalmazza
 
@@ -8,9 +8,9 @@ b) a kitüntetési javaslat indokolását, és
 
 c) a rendőr-főkapitányság vezetőjének egyetértő nyilatkozatát.
 
-(3)[^10] A miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) kitüntetési ügyekért felelős szervezeti egysége az indítványt megvizsgálja. Ha az indítványt nem támogatja, erről a főispánt – az indítvány egyidejű visszaküldésével – értesíti. A főispán e döntésről a javaslattevőt és a kitüntetésre javasolt személyt írásban tájékoztatja.
+(3)[^10] A miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) kitüntetési ügyekért felelős szervezeti egysége az indítványt megvizsgálja. Ha az indítványt nem támogatja, erről a kormánymegbízottat – az indítvány egyidejű visszaküldésével – értesíti. A kormánymegbízott e döntésről a javaslattevőt és a kitüntetésre javasolt személyt írásban tájékoztatja.
 
 (4) A miniszter az Emlékérem adományozására a Kormánynak előterjesztésben tesz javaslatot.
 
-[^9]: A 7. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés a) pontja, a 174/2012. (VII. 26.) Korm. rendelet 65. § b) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^10]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés b) pontja, a 174/2012. (VII. 26.) Korm. rendelet 65. § b) és c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 78. § (2) bekezdés b) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
+[^9]: A 7. § (1) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés a) pontja, a 174/2012. (VII. 26.) Korm. rendelet 65. § b) pontja, a 239/2026. (X. 6.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^10]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (2) bekezdés b) pontja, a 174/2012. (VII. 26.) Korm. rendelet 65. § b) és c) pontja, a 239/2026. (X. 6.) Korm. rendelet 1. § e) és f) pontja szerint módosított szöveg.
