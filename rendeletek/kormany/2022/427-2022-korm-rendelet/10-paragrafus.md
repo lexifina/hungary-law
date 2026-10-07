@@ -8,11 +8,11 @@ b) a katasztrófák elleni védekezésért felelős miniszter által kijelölt v
 
 c) a védelmi és biztonsági igazgatás központi szervének vezetőjét,
 
-d)[^8] a területi védelmi bizottság illetékességi területén működő rendvédelmi szerv vármegyei vezetőit, a polgári nemzetbiztonsági szolgálat vármegyei vezetőit, a nemzetbiztonsági védelem alá eső szerv és létesítmény biztonsági védelméért felelős szerv területi vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
+d)[^9] a területi védelmi bizottság illetékességi területén működő rendvédelmi szerv megyei vezetőit, a polgári nemzetbiztonsági szolgálat megyei vezetőit, a nemzetbiztonsági védelem alá eső szerv és létesítmény biztonsági védelméért felelős szerv területi vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
 
 e) az Országos Idegenrendészeti Főigazgatóság területileg illetékes vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
 
-f)[^9] a Honvéd Vezérkar főnöke által a területi védelmi bizottsággal együttműködésre kijelölt katonai szervezet parancsnokát,
+f)[^10] a Honvéd Vezérkar főnöke által a területi védelmi bizottsággal együttműködésre kijelölt katonai szervezet parancsnokát,
 
 g) az Országos Mentőszolgálat területileg illetékes vezetőjét,
 
@@ -24,5 +24,5 @@ j) az a)–i) pont szerinti vezető által kijelölt képviselőt.
 
 (3) A (2) bekezdésben meghatározott személyen kívül a területi védelmi bizottság elnöke meghívja azt, akinek a területi védelmi bizottság ülésén való jelenlétét indokoltnak tartja.
 
-[^8]: A 10. § (2) bekezdés d) pontja a 22. § (1) bekezdése, a 24/2025. (II. 27.) Korm. rendelet 95. §-a szerint módosított szöveg.
-[^9]: A 10. § (2) bekezdés f) pontja az 592/2023. (XII. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^9]: A 10. § (2) bekezdés d) pontja a 24/2025. (II. 27.) Korm. rendelet 95. §-a, a 264/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^10]: A 10. § (2) bekezdés f) pontja az 592/2023. (XII. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.

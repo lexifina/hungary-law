@@ -1,6 +1,6 @@
 3. § A területi védelmi bizottság elnöke
 
-a)[^4] felel a vármegyei, fővárosi szintű védelmi és biztonsági feladatok összehangolásáért,
+a)[^4] felel a megyei, fővárosi szintű védelmi és biztonsági feladatok összehangolásáért,
 
 b) irányítja a hibrid fenyegetéssel szembeni ellenálló képesség növelésének területi szintű feladatait,
 
@@ -28,4 +28,4 @@ m) meghatározza az illetékességi területén működő közigazgatási szerv 
 
 n) koordinálja a humanitárius segély elosztását.
 
-[^4]: A 3. § a) pontja a 22. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 3. § a) pontja a 264/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

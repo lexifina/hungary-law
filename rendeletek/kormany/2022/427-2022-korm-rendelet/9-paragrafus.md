@@ -12,6 +12,7 @@ b) a hivatásos katasztrófavédelmi szerv állományába tartozik, a katasztró
 
 jelöli ki.
 
-(5) A területi védelmi bizottság titkárságának további foglalkoztatottját a fővárosi és megyei kormányhivatal főispánja jelöli ki.
+(5)[^8] A területi védelmi bizottság titkárságának további foglalkoztatottját a fővárosi és megyei kormányhivatal kormánymegbízottja jelöli ki.
 
 [^7]: [ A 9. § (3) bekezdésben a 427/2022. (X. 28.) Korm. rendelet 22. § (1) bekezdése által elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe a "vármegyei" szöveg lép, nem vezethető át. ]
+[^8]: A 9. § (5) bekezdése a 264/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
