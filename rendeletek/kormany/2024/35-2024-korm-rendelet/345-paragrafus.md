@@ -1,5 +1,5 @@
 ## 162. A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet módosítása
 
-345. §[^157]
+345. §[^173]
 
-[^157]: A 345. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^173]: A 345. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

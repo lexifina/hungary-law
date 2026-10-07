@@ -1,5 +1,5 @@
 ## 132. A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosítása
 
-286. §[^100]
+286. §[^116]
 
-[^100]: A 286. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 286. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

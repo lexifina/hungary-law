@@ -22,7 +22,7 @@ jelölhet ki.
 
 (5) Ha harmadik országbeli állampolgár az emberkereskedelem áldozata, részére az emberkereskedelem áldozatai elhelyezését szolgáló befogadó állomást vagy szerződés alapján fenntartott más szálláshelyet lehet kijelölni.
 
-(6) Az (1) és (2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott vármegye közigazgatási területét vagy befogadó állomás vagy közösségi szállás területét jelölheti ki.
+(6)[^52] Az (1) és (2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott megye közigazgatási területét vagy befogadó állomás vagy közösségi szállás területét jelölheti ki.
 
 (7) A (6) bekezdés szerinti szálláson a harmadik országbeli állampolgár kizárólag elhelyezésre jogosult, egyéb ellátás nem illeti meg.
 
@@ -39,3 +39,5 @@ c) a szükséges orvosi vizsgálatnak, járványügyi intézkedésnek – beleé
 d) a szállás berendezési, felszerelési tárgyait megóvni, a károkozástól tartózkodni, a szándékosan okozott kárt megtéríteni.
 
 (10) A Tv. 128. § (6) bekezdésének alkalmazása esetén a kötelező tartózkodási helyként kijelölt tranzitzóna engedély nélküli elhagyásának megakadályozását a Rendőrség végzi.
+
+[^52]: A 117. § (6) bekezdése a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

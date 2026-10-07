@@ -1,4 +1,4 @@
-## 19/A.[^20] Nemzeti Kártya a határ menti ingázó munkavállaló részére
+## 19/A.[^21] Nemzeti Kártya a határ menti ingázó munkavállaló részére
 
 37/A. § (1) A Tv.-ben és e rendeletben meghatározott Nemzeti Kártyára vonatkozó rendelkezéseket a határ menti ingázó munkavállaló harmadik országbeli állampolgár esetében az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -26,19 +26,19 @@ cb) legalább hat hónapja folyamatosan, megszakítás nélkül jogszerűen lega
 
 (4) A (3) bekezdés alapján a munkavégzés helye az alábbi területrészeken jelölhető ki:
 
-a) Borsod-Abaúj-Zemplén vármegye,
+a)[^22] Borsod-Abaúj-Zemplén megye,
 
-b) Szabolcs-Szatmár-Bereg vármegye,
+b)[^23] Szabolcs-Szatmár-Bereg megye,
 
-c) Hajdú-Bihar vármegye,
+c)[^24] Hajdú-Bihar megye,
 
-d) Békés vármegye,
+d)[^25] Békés megye,
 
-e) Csongrád-Csanád vármegye,
+e)[^26] Csongrád-Csanád megye,
 
-f) Bács-Kiskun vármegye vagy
+f)[^27] Bács-Kiskun megye vagy
 
-g) Baranya vármegye.
+g)[^28] Baranya megye.
 
 (5) A határ menti ingázó munkavállalóként Nemzeti Kártyával rendelkező harmadik országbeli állampolgár nem kaphat nemzeti tartózkodási kártyát.
 
@@ -54,4 +54,11 @@ c) foglalkoztatója nem felel meg a (3) bekezdés c) pontjában foglalt valamely
 
 d) a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért.
 
-[^20]: A 19/A. alcímet (37/A. §-t) a 73/2025. (IV. 10.) Korm. rendelet 11. §-a iktatta be.
+[^21]: A 19/A. alcímet (37/A. §-t) a 73/2025. (IV. 10.) Korm. rendelet 11. §-a iktatta be.
+[^22]: A 37/A. § (4) bekezdés a) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 37/A. § (4) bekezdés b) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 37/A. § (4) bekezdés c) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: A 37/A. § (4) bekezdés d) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^26]: A 37/A. § (4) bekezdés e) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: A 37/A. § (4) bekezdés f) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^28]: A 37/A. § (4) bekezdés g) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

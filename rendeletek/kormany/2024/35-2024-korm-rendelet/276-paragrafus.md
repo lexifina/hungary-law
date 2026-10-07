@@ -1,3 +1,3 @@
-276. §[^90]
+276. §[^106]
 
-[^90]: A 276. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 276. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

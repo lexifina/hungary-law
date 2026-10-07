@@ -1,3 +1,3 @@
-344. §[^156]
+344. §[^172]
 
-[^156]: A 344. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: A 344. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

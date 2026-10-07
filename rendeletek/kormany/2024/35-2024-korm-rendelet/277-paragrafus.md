@@ -1,3 +1,3 @@
-277. §[^91]
+277. §[^107]
 
-[^91]: A 277. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 277. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

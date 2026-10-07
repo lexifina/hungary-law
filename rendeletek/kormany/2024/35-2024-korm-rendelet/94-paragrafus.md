@@ -12,10 +12,10 @@
 
 (4) A Tv. 98. § (1) bekezdés c) pontja alapján a jogsértés helye szerint illetékes regionális igazgatóság jogosult kiutasítás elrendelésére.
 
-(5)[^31] Idegenrendészeti kiutasítás a Tv. 98. § (1) bekezdés d) pontja alapján a nyomozó hatóságként eljáró rendvédelmi szerv vagy az Alkotmányvédelmi Hivatal javaslatára vagy a regionális igazgatóság által saját hatáskörben is elrendelhető.
+(5)[^42] Idegenrendészeti kiutasítás a Tv. 98. § (1) bekezdés d) pontja alapján a nyomozó hatóságként eljáró rendvédelmi szerv vagy az Alkotmányvédelmi Hivatal javaslatára vagy a regionális igazgatóság által saját hatáskörben is elrendelhető.
 
 (6) Idegenrendészeti kiutasítás a Tv. 98. § (1) bekezdés e) pontja alapján kizárólag az egészségügyi államigazgatási szerv javaslatára rendelhető el.
 
 (7) A Tv. 98. § (4) bekezdése szerinti esetben a harmadik országbeli állampolgár utolsó ismert magyarországi lakóhelye, tartózkodási vagy szálláshelye szerint illetékes regionális igazgatóság jogosult kiutasítást elrendelni.
 
-[^31]: A 94. § (5) bekezdése a 213/2026. (IX. 21.) Korm. rendelet 1. § 8. pontja szerint módosított szöveg.
+[^42]: A 94. § (5) bekezdése a 213/2026. (IX. 21.) Korm. rendelet 1. § 8. pontja szerint módosított szöveg.

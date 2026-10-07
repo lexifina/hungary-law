@@ -1,4 +1,4 @@
-## 111.[^70] Az Európai Határregisztrációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok
+## 111.[^86] Az Európai Határregisztrációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok
 
 257. § (1) Az Európai Határregisztrációs Rendszerben tárolt adatokhoz az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 9. cikke alapján a 162/A. §-ban meghatározott hatóságok rendelkeznek közvetlen hozzáféréssel az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 14. cikk (8) bekezdésében, valamint 19. és 24. cikkében meghatározott célból. Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet említett rendelkezéseiben meghatározott feladatokat vízumhatóságként a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság látja el.
 
@@ -26,4 +26,4 @@ foglalt feladatkörében eljárva közvetlen hozzáféréssel rendelkezik.
 
 (6) A rövid időtartamú, tervezett tartózkodásra jogosító vízum meghosszabbítása esetén az Európai Határregisztrációs Rendszerben tárolt adatokhoz az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 9. cikke alapján – a kérelemfájlok kiegészítésének elvégzése érdekében –, az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 19. cikkében meghatározott célból a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság a 205. § (1) bekezdésében foglalt feladatkörében eljárva közvetlen hozzáféréssel rendelkezik.
 
-[^70]: A 111. alcím (257. §) a 166/2024. (VI. 28.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^86]: A 111. alcím (257. §) a 166/2024. (VI. 28.) Korm. rendelet 24. §-ával megállapított szöveg.

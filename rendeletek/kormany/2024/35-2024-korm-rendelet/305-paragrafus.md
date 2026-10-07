@@ -1,3 +1,3 @@
-305. §[^119]
+305. §[^135]
 
-[^119]: A 305. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 305. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

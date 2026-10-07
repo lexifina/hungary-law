@@ -4,9 +4,9 @@
 
 (2) A Tv. 242. § (6) bekezdésében foglaltaktól eltérően, ha
 
-a) a munka természetéből adódóan a munkavégzés több vármegye területére terjedhet ki, a munkavégzés megkezdésének helye szerinti kormányhivatal,
+a)[^74] a munka természetéből adódóan a munkavégzés több megye területére terjedhet ki, a munkavégzés megkezdésének helye szerinti kormányhivatal,
 
-b) a harmadik országbeli állampolgárt a foglalkoztató több – különböző vármegye területén lévő – telephelyén kívánja foglalkoztatni, a foglalkoztató székhelye szerinti kormányhivatal
+b)[^75] a harmadik országbeli állampolgárt a foglalkoztató több – különböző megye területén lévő – telephelyén kívánja foglalkoztatni, a foglalkoztató székhelye szerinti kormányhivatal
 
 jár el.
 
@@ -46,6 +46,8 @@ f) a Tv. 242. § (7) bekezdésében meghatározott mentességet megalapozó ok.
 
 (11) A (8)–(10) bekezdésben foglalt eljárás során a harmadik országbeli állampolgár köteles mellékelni a foglalkoztatási jogviszony létesítésére irányuló előzetes megállapodást vagy a foglalkoztatási jogviszonyt igazoló okiratot. A (9) bekezdésben meghatározott eljárás során, ha az érvényes tartózkodási engedély kiadásának alapjául szolgáló, a Tv. 17. § (1) bekezdés a)–c) és e)–g) pontjában foglalt feltételek nem változtak meg, a harmadik országbeli állampolgárnak a változatlan feltételekre vonatkozó dokumentumokat nem kell ismételten csatolnia.
 
-(12)[^60] A Tv. 242. § (7) bekezdés 1., 2., 3., 11., 13. és 14. pontjában foglalt feltétel fennállása esetén a tartós magyarországi tartózkodási cél tekintetében a foglalkoztatási jogviszony létesítésére irányuló előzetes megállapodáson vagy a foglalkoztatási jogviszonyt igazoló okiraton túl a harmadik országbeli állampolgárnak az előzetes megállapodásban foglalt munkakör ellátásához szükséges szakképzettségét, iskolai végzettségét hitelt érdemlő módon kell igazolnia.
+(12)[^76] A Tv. 242. § (7) bekezdés 1., 2., 3., 11., 13. és 14. pontjában foglalt feltétel fennállása esetén a tartós magyarországi tartózkodási cél tekintetében a foglalkoztatási jogviszony létesítésére irányuló előzetes megállapodáson vagy a foglalkoztatási jogviszonyt igazoló okiraton túl a harmadik országbeli állampolgárnak az előzetes megállapodásban foglalt munkakör ellátásához szükséges szakképzettségét, iskolai végzettségét hitelt érdemlő módon kell igazolnia.
 
-[^60]: A 234. § (12) bekezdése a 73/2025. (IV. 10.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^74]: A 234. § (2) bekezdés a) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^75]: A 234. § (2) bekezdés b) pontja a 267/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^76]: A 234. § (12) bekezdése a 73/2025. (IV. 10.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
