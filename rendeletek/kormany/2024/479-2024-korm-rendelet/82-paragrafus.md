@@ -1,5 +1,5 @@
 ## 20. A speciális személy- és vagyonvédelmi ellenőrzést igazoló tanúsítvánnyal, valamint a helyszínelői és bűnügyi technikai tevékenységgel összefüggő egyes rendelkezésekről szóló 43/2024. (II. 29.) Korm. rendelet módosítása
 
-82. §[^81]
+82. §[^82]
 
-[^81]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 82. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
