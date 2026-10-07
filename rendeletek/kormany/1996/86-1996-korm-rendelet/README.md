@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-86-20-2
 | 2024-11-05 | 1996-86-20-22.64 | 313/2024. (XI. 4.) Korm. rendelet |
 | 2025-03-01 | 1996-86-20-22.65 | 24/2025. (II. 27.) Korm. rendelet |
 | 2026-10-01 | 1996-86-20-22.66 | 160/2026. (IX. 21.) Korm. rendelet |
+| 2026-10-07 | 1996-86-20-22.68 | 227/2026. (X. 6.) Korm. rendelet |

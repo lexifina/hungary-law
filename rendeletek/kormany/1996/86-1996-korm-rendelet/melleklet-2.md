@@ -1,22 +1,22 @@
-2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^67]
+2. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^68]
 
 I. Az okmányvédelmi kategóriák meghatározásánál irányadó szempontok
 
-1.[^68] „A” védelmi kategória
+1.[^69] „A” védelmi kategória
 
 Az e védelmi kategóriába tartozó biztonsági okmányok minden alkatrészét védeni kell a teljes vagy részleges hamisítás ellen. A védelmi módszereknél a kémiai, fizikai, technikai, technológiai és adminisztratív eljárásokat, valamint informatikai adathordozót tartalmazó biztonsági okmány esetében a digitális védelmi módszereket, eljárásokat együtt kell alkalmazni.
 
-2.[^69] „B” védelmi kategória
+2.[^70] „B” védelmi kategória
 
 Az e védelmi kategóriába tartozó biztonsági okmányok egyes főbb alkatrészeit kell a teljes vagy részleges hamisítás ellen védeni. A védelmi módszereknél a kémiai, technikai, technológiai és adminisztratív eljárásokat, valamint informatikai adathordozót tartalmazó biztonsági okmány esetében a digitális védelmi módszereket, eljárásokat differenciáltan kell alkalmazni.
 
-3.[^70] „C” védelmi kategória
+3.[^71] „C” védelmi kategória
 
 Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen, és annak felismerése érdekében legalább adminisztratív védelmi eljárásokat kell alkalmazni.
 
 Informatikai adathordozót tartalmazó biztonsági okmány esetében az informatikai védelmet úgy kell kialakítani, hogy az elektronikusan tárolt adatok jellegétől és a használat során várható kockázattól függően „Kiemelt”, „Fokozott” vagy „Alap” szintű informatikai védelmet kell biztosítani.
 
-II. [^71] Az okmányinformatikai védelmi kategóriák és az azokra irányadó általános biztonsági, védelmi követelmények
+II. [^72] Az okmányinformatikai védelmi kategóriák és az azokra irányadó általános biztonsági, védelmi követelmények
 
 1. Az informatikai adathordozó fajtájának kiválasztása a tárolt adat szenzitivitásának és felhasználásának megfelelően történik. A kategóriába sorolás folyamán az adathordozó fajtájának figyelembevételével értelemszerűen kell a 2–4. pontban foglalt követelményeket alkalmazni.
 
@@ -60,8 +60,8 @@ II. [^71] Az okmányinformatikai védelmi kategóriák és az azokra irányadó 
 
 III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategóriák összerendelése
 
-[^67]: A 2. számú melléklet a 312/2015. (X. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^68]: A 2. számú melléklet I. pont 1. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^69]: A 2. számú melléklet I. pont 2. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^70]: A 2. melléklet I. pont 3. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
-[^71]: A 2. számú melléklet II. pontja az 563/2023. (XII. 14.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^68]: A 2. számú melléklet a 312/2015. (X. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^69]: A 2. számú melléklet I. pont 1. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^70]: A 2. számú melléklet I. pont 2. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^71]: A 2. melléklet I. pont 3. alpontja az 563/2023. (XII. 14.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
+[^72]: A 2. számú melléklet II. pontja az 563/2023. (XII. 14.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

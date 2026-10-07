@@ -1,4 +1,4 @@
-4. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^73]
+4. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^74]
 
 Az érvényesítés, megszemélyesítés engedélyezéséhez szükséges adatok
 
@@ -16,7 +16,7 @@ I. 1. A megszemélyesítést végző szervezet megnevezése, elérhetőségei
 
 7. A forgalomba kerülő biztonsági okmánnyal mindenben megegyező mintaokmány
 
-II.[^74] Informatikai adathordozót tartalmazó biztonsági okmány esetében az I. pontban foglaltak mellett:
+II.[^75] Informatikai adathordozót tartalmazó biztonsági okmány esetében az I. pontban foglaltak mellett:
 
 1. Az elektronikus megszemélyesítés folyamatának leírása, amely tartalmazza a tárolt adatokra vonatkozó átalakításokat is.
 
@@ -30,5 +30,5 @@ II.[^74] Informatikai adathordozót tartalmazó biztonsági okmány esetében az
 
 6. Megszemélyesített adattároló elemet tartalmazó, teljeskörűen kitöltött és a forgalomba kerülő okmánnyal mindenben megegyező tesztminta.
 
-[^73]: A 4. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (5) bekezdése iktatta be.
-[^74]: A 4. melléklet II. pontja az 563/2023. (XII. 14.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^74]: A 4. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^75]: A 4. melléklet II. pontja az 563/2023. (XII. 14.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
