@@ -1,4 +1,4 @@
-84. § (1)[^89] A tevékenység helye szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság (a továbbiakban: engedélyező hatóság) az engedélyt akkor adja ki, ha a kérelmező a tevékenységhez a jogszabályokban előírt követelményeket biztosította. Az egyes követelmények maradéktalan teljesüléséhez szükséges feltételeket, valamint tárolási tevékenység esetén a tárolási normát vagy a tárolókapacitást az engedélyben kell meghatározni.
+84. § (1)[^89] A tevékenység helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság (a továbbiakban: engedélyező hatóság) az engedélyt akkor adja ki, ha a kérelmező a tevékenységhez a jogszabályokban előírt követelményeket biztosította. Az egyes követelmények maradéktalan teljesüléséhez szükséges feltételeket, valamint tárolási tevékenység esetén a tárolási normát vagy a tárolókapacitást az engedélyben kell meghatározni.
 
 (2) Az engedélyező hatóság az engedélyt visszavonja, ha
 
@@ -10,5 +10,5 @@ c) az engedélyes a 4. mellékletben meghatározott, a polgári célú pirotechn
 
 (3)[^90] Az engedélyező hatóság a pirotechnikai termék gyártására, és állandó vagy ideiglenes tárolóhelyen történő tárolására vonatkozó engedélyeket a tevékenység helye szerint illetékes helyi önkormányzat (Budapesten a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) jegyzőjének tájékoztatás céljából megküldi.
 
-[^89]: A 84. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 125. §-a, a 479/2024. (XII. 31.) Korm. rendelet 54. § e) pontja szerint módosított szöveg.
+[^89]: A 84. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 54. § e) pontja, a 241/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^90]: A 84. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 37. §-a szerint módosított szöveg.

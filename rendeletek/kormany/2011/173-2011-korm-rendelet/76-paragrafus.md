@@ -1,4 +1,4 @@
-76. §[^78] (1)[^79] Ha a rendőrség tudomására jut, hogy egy pirotechnikai termék jelentős kockázatot jelent a természetes személyek életére, testi épségére, egészségére vagy biztonságára, megvizsgáltatja a pirotechnikai terméket, és elvégzi annak értékelését, amelynek eredményéről tájékoztatja valamennyi fővárosi és vármegyei kormányhivatalt.
+76. §[^78] (1)[^79] Ha a rendőrség tudomására jut, hogy egy pirotechnikai termék jelentős kockázatot jelent a természetes személyek életére, testi épségére, egészségére vagy biztonságára, megvizsgáltatja a pirotechnikai terméket, és elvégzi annak értékelését, amelynek eredményéről tájékoztatja valamennyi fővárosi és megyei kormányhivatalt.
 
 (2) Ha az (1) bekezdés szerinti értékelés során a rendőrség megállapítja, hogy a pirotechnikai termék nem felel meg az e rendeletben meghatározott követelményeknek, akkor határidő tűzésével felhívja a gazdasági szereplőt azon kiigazító intézkedések megtételére, amelyek biztosítják az e rendeletben foglaltaknak való megfelelést.
 
@@ -21,4 +21,4 @@ e) a meghozott piacfelügyeleti intézkedések jellegét és időtartamát, és
 f) a gazdasági szereplő által tett nyilatkozatot.
 
 [^78]: A 76. § a 100/2015. (IV. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^79]: A 76. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 54. § d) pontja szerint módosított szöveg.
+[^79]: A 76. § (1) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 54. § d) pontja, a 241/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
