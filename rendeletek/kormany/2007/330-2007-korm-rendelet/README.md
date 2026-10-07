@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-330-20-
 | 2023-01-01 | 2007-330-20-22.11 | 181/2009. (IX. 4.) Korm. rendelet |
 | 2025-01-01 | 2007-330-20-22.12 | 479/2024. (XII. 31.) Korm. rendelet |
 | 2025-05-27 | 2007-330-20-22.13 | 148/2010. (IV. 29.) Korm. rendelet |
+| 2026-10-07 | 2007-330-20-22.14 | 181/2009. (IX. 4.) Korm. rendelet |

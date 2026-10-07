@@ -1,6 +1,6 @@
 ## A határterülethez tartozó települések
 
-## 1. Baranya vármegye
+## 1. Baranya megye
 
 ## 1.1. Adorjás
 
@@ -170,7 +170,7 @@
 
 ## 1.84. Zaláta
 
-## 2. Bács-Kiskun vármegye
+## 2. Bács-Kiskun megye
 
 ## 2.1. Balotaszállás
 
@@ -220,7 +220,7 @@
 
 ## 2.24. Vaskút
 
-## 3. Békés vármegye
+## 3. Békés megye
 
 ## 3.1. Almáskamarás
 
@@ -294,7 +294,7 @@
 
 ## 3.36. Zsadány
 
-## 4. Borsod-Abaúj-Zemplén vármegye
+## 4. Borsod-Abaúj-Zemplén megye
 
 ## 4.1. Abaújvár
 
@@ -540,7 +540,7 @@
 
 ## 4.122. Zsujta
 
-## 5. Csongrád-Csanád vármegye
+## 5. Csongrád-Csanád megye
 
 ## 5.1. Ambrózfalva
 
@@ -596,7 +596,7 @@
 
 ## 5.27. Zákányszék
 
-## 6. Győr-Moson-Sopron vármegye
+## 6. Győr-Moson-Sopron megye
 
 ## 6.1. Abda
 
@@ -804,7 +804,7 @@
 
 ## 6.99. Zsira
 
-## 7. Hajdú-Bihar vármegye
+## 7. Hajdú-Bihar megye
 
 ## 7.1. Álmosd
 
@@ -890,7 +890,7 @@
 
 ## 7.42. Váncsod
 
-## 8. Komárom-Esztergom vármegye
+## 8. Komárom-Esztergom megye
 
 ## 8.1. Ács
 
@@ -960,7 +960,7 @@
 
 ## 8.32. Tokodaltáró
 
-## 9. Nógrád vármegye
+## 9. Nógrád megye
 
 ## 9.1. Balassagyarmat
 
@@ -1080,7 +1080,7 @@
 
 ## 9.59. Zabar
 
-## 10. Pest vármegye
+## 10. Pest megye
 
 ## 10.1. Bernecebaráti
 
@@ -1108,7 +1108,7 @@
 
 ## 10.13. Zebegény
 
-## 11. Somogy vármegye
+## 11. Somogy megye
 
 ## 11.1. Babócsa
 
@@ -1188,7 +1188,7 @@
 
 ## 11.39. Zákányfalu
 
-## 12. Szabolcs-Szatmár-Bereg vármegye
+## 12. Szabolcs-Szatmár-Bereg megye
 
 ## 12.1. Anarcs
 
@@ -1484,7 +1484,7 @@
 
 ## 12.147. Zsurk
 
-## 13. Vas vármegye
+## 13. Vas megye
 
 ## 13.1. Alsószölnök
 
@@ -1650,7 +1650,7 @@
 
 ## 13.81. Viszák
 
-## 14. Zala vármegye
+## 14. Zala megye
 
 ## 14.1. Alsószenterzsébet
 
