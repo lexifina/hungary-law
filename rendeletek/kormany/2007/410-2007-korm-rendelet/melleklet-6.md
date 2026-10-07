@@ -4,6 +4,6 @@
 
 | 2 | 1. | Haladás a leállósávon | 37. § (5) bekezdés | 156 000 |
 
-6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^65]
+6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^67]
 
-[^65]: A 6. melléklet a 76/2026. (III. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^67]: A 6. melléklet a 76/2026. (III. 26.) Korm. rendelet 4. §-ával megállapított szöveg.

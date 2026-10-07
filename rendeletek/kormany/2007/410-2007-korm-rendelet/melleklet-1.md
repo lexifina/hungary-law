@@ -1,3 +1,3 @@
-1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^60]
+1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^62]
 
-[^60]: Az 1. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^62]: Az 1. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § a) pontjával megállapított szöveg.

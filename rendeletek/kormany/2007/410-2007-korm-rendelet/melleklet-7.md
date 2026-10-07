@@ -16,6 +16,6 @@
 
 | 8 | Korlátozott forgalmú övezetre (zóna) | 14. § (1) bekezdés z/2. pont | 100 000 |
 
-7. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^66]
+7. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^68]
 
-[^66]: A 7. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § f) pontjával megállapított szöveg.
+[^68]: A 7. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § f) pontjával megállapított szöveg.
