@@ -2,7 +2,7 @@
 
 44. § (1) Az EGT-állampolgár a tartózkodás bejelentésekor, illetve a harmadik ország állampolgárságával rendelkező családtag a tartózkodási kártya kiadása iránti kérelem benyújtásakor köteles nyilatkozni arról, hogy külön jogszabályban meghatározott közegészséget veszélyeztető betegségben szenved-e, fertőzőképes, illetve kórokozó hordozó állapotban van-e, illetve ezekre tekintettel részesül-e kötelező és rendszeres ellátásban.
 
-(2)[^145] Ha az EGT-állampolgár vagy a családtag nyilatkozata szerint az (1) bekezdés szerinti egészségügyi állapot fennáll, a regionális igazgatóság értesíti az egészségügyi államigazgatási szervnek az EGT-állampolgár vagy a családtag lakóhelye szerint illetékes fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
+(2)[^145] Ha az EGT-állampolgár vagy a családtag nyilatkozata szerint az (1) bekezdés szerinti egészségügyi állapot fennáll, a regionális igazgatóság értesíti az egészségügyi államigazgatási szervnek az EGT-állampolgár vagy a családtag lakóhelye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
 
 (3)[^146] A járási hivatal az EGT-állampolgárt vagy a családtagot kötelezheti arra, hogy a szükséges orvosi vizsgálatoknak alávesse magát.
 
@@ -12,6 +12,6 @@ a) megteszi a szükséges járványügyi intézkedéseket, vagy
 
 b) a Tv. 40. § (1) bekezdésében foglaltakra tekintettel – egyidejűleg javaslatot téve a beutazási és tartózkodási tilalom időtartamára – az EGT-állampolgár vagy a családtag kiutasítását kezdeményezi.
 
-[^145]: A 44. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 76. §-a szerint módosított szöveg.
+[^145]: A 44. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés a) pontja, a 233/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^146]: A 44. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^147]: A 44. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés c) pontja szerint módosított szöveg.
