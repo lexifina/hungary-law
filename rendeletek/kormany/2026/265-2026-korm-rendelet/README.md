@@ -1,0 +1,9 @@
+# 265/2026. (X. 6.) Korm. rendelet
+
+a gazdasági és anyagi szolgáltatási kötelezettség szabályairól szóló 428/2022. (X. 28.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-265-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-10-07 | 2026-265-20-22.1 | 265/2026. (X. 6.) Korm. rendelet |
