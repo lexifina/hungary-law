@@ -1,6 +1,6 @@
 ## 1. Az emberkereskedelem áldozatává vált személy azonosítására irányuló eljárás szabályai
 
-## 1. § E rendelet alkalmazásában:
+1. § E rendelet alkalmazásában:
 
 1.[^1] Azonosítást végző szerv: az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, a személyes gondoskodást nyújtó szolgáltató, a köznevelési intézmény, a rendőrség, a foglalkoztatás-felügyeleti hatóság, a konzuli tisztviselő, az idegenrendészeti hatóság, a menekültügyi hatóság, az áldozatsegítő szolgálat, az Országos Kríziskezelő és Információs Telefonszolgálat (a továbbiakban: OKIT),, a pártfogó felügyelői szolgálat és a jogi segítségnyújtó szolgálat.
 

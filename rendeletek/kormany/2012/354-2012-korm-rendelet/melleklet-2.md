@@ -148,7 +148,7 @@
 
 ## Alulírott .................................................................................. (az emberkereskedelem feltételezhető áldozataként azonosított személy neve) megértettem, hogy engem emberkereskedelem valószínűsíthető áldozataként azonosítottak. Hozzájárulok személyes adataimnak a következők szerinti továbbításához és kezeléséhez:
 
-## (1) hozzájárulok a személyes adataimnak az áldozatsegítő szolgálat részére történő átadásához, és az áldozatsegítő szolgálat eljárása során, az abban eljáró szervek által történő kezeléséhez. Kérem, hogy a ...................................................... vármegyei/fővárosi áldozatsegítő szolgálat kerüljön értesítésre!
+## (1) hozzájárulok a személyes adataimnak az áldozatsegítő szolgálat részére történő átadásához, és az áldozatsegítő szolgálat eljárása során, az abban eljáró szervek által történő kezeléséhez. Kérem, hogy a ...................................................... megyei/fővárosi áldozatsegítő szolgálat kerüljön értesítésre!
 
 ## ......................................................
 
