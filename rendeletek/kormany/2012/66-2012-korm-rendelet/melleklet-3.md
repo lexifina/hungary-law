@@ -392,9 +392,9 @@
 
 3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^178]
 
-Éves jelentés/becslés a pszichotróp anyagok gyártásáról, készletéről, forgalmazásáról
+## Éves jelentés/becslés a pszichotróp anyagok gyártásáról, készletéről, forgalmazásáról
 
-20........ év
+## 20........ év
 
 ## Kitöltési útmutató
 
@@ -402,9 +402,9 @@
 
 2. Egy vagy több pszichotróp anyagot tartalmazó, összetett készítmények esetében mindegyik pszichotróp komponenst külön kell feltüntetni a megfelelő sorban.
 
-3/a táblázat
+## 3/a táblázat
 
-Éves pszichotróp anyagmérleg (g)
+## Éves pszichotróp anyagmérleg (g)
 
 | Pszichotróp anyag neve és besorolása | Nyitó készlet (I. 1.) | Gyártott hatóanyag mennyisége | Import | Belföldi beszerzés | Összesen | Fogyasztás: kiskereskedelmi értékesítés vagy kutatás | Nagykereskedelmi értékesítés | Nem pszichotróp anyag gyártására felhasznált mennyiség | Export | Veszteség | Záró készlet XII. 31. | Összesen |
 

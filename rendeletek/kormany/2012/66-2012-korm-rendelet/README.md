@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2024-12-31 | 2012-66-20-22.39 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2025-03-01 | 2012-66-20-22.40 | 24/2025. (II. 27.) Korm. rendelet |
 | 2026-01-01 | 2012-66-20-22.41 | 172/2016. (VII. 1.) Korm. rendelet |
+| 2026-10-07 | 2012-66-20-22.42 | 379/2016. (XII. 2.) Korm. rendelet |
