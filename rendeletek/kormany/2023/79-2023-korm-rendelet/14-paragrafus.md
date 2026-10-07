@@ -22,8 +22,8 @@ h) vízügyi és árvízvédelmi termék,
 
 i) pénzeszköz, továbbá
 
-j)[^1] az a)–i) pontba nem tartozó, kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet által előállított, a társadalom alapvető szükségletét kielégítő termék és eszköz.
+j)[^2] az a)–i) pontba nem tartozó, kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet által előállított, a társadalom alapvető szükségletét kielégítő termék és eszköz.
 
 (3) Tartaléknak minősül az ágazati minisztérium védelemgazdasági tervében meghatározott termelési, szolgáltatási, védelmi és helyreállítási tevékenység végrehajtásához nélkülözhetetlen alap- és nyersanyag, alkatrész, félkész és késztermék, tárgyi eszköz, valamint a speciális célú termék különleges jogrendi időszaki beszerzését szolgáló nemesfémtartalék.
 
-[^1]: A 14. § (2) bekezdés j) pontja a 175/2025. (VI. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^2]: A 14. § (2) bekezdés j) pontja a 175/2025. (VI. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

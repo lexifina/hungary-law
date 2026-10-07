@@ -6,4 +6,6 @@ b) a társadalom és a nemzetgazdaság működőképességének fenntartását, 
 
 szolgáló kapacitás.
 
-(2) Ellátásbiztonsági szempontból országos vagy több vármegyét érintően gazdálkodó szervezetet stratégiai jelentőségű gazdálkodó szervezetté a belgazdaságért felelős miniszter – a Kormány feladatkörében érintett tagjával egyeztetett – javaslatára a Kormány a Védelemgazdasági Alaptervben jelöl ki.
+(2)[^1] Ellátásbiztonsági szempontból országos vagy több megyét érintően gazdálkodó szervezetet stratégiai jelentőségű gazdálkodó szervezetté a belgazdaságért felelős miniszter – a Kormány feladatkörében érintett tagjával egyeztetett – javaslatára a Kormány a Védelemgazdasági Alaptervben jelöl ki.
+
+[^1]: A 9. § (2) bekezdése a 266/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
