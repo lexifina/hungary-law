@@ -4,7 +4,7 @@
 
 (3) Ha a tevékenység végzésétől az (1) bekezdés szerint eltiltott kéményseprő-ipari szolgáltató a kéményseprő-ipari tevékenységet a tiltás időtartamának leteltét követően folytatni kívánja, a tevékenység megkezdése előtt eleget kell tennie a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentési kötelezettségének.
 
-(4)[^14] A kéményseprő-ipari szolgáltató székhelye szerint illetékes tűzvédelmi hatóság vármegyei ellátási területenként nyilvántartást vezet a Kstv. 7. § (4) bekezdése alapján a kéményseprő-ipari tevékenységet folytatni kívánó szolgáltatókról.
+(4)[^14] A kéményseprő-ipari szolgáltató székhelye szerint illetékes tűzvédelmi hatóság megyei ellátási területenként nyilvántartást vezet a Kstv. 7. § (4) bekezdése alapján a kéményseprő-ipari tevékenységet folytatni kívánó szolgáltatókról.
 
 (4a)[^15] A tűzvédelmi hatóság a (4) bekezdés szerinti nyilvántartás adatai alapján a nyilvántartásba bejegyzett kéményseprő-ipari szolgáltató adatairól – kérelmére – hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján, ha a kérelmet személyesen nyújtják be.
 
@@ -29,6 +29,6 @@ b) a kéményseprő-ipari szolgáltató a jogszerűen végzett tevékenysége er
 a tűzvédelmi hatóság a szankciót tartalmazó döntésében felhívja a kéményseprő-ipari szolgáltatót, illetve a Kstv. 7. § (4) bekezdése szerinti nyilvántartásba fel nem vett gazdálkodó szervezetet a Kstv. 2. § (8) bekezdése szerinti dokumentum visszavonására, jogszerűen végzett tevékenység esetén a kéményseprő-ipari szolgáltatót a tevékenység eredményéről új dokumentum kiállítására.
 
 [^13]: A 3. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 573. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^14]: A 3. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 233. §-a szerint módosított szöveg.
+[^14]: A 3. § (4) bekezdése a 252/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^15]: A 3. § (4a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
 [^16]: A 3. § (9) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 10. § (2) bekezdése iktatta be.
