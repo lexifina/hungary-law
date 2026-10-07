@@ -1,4 +1,4 @@
-63. § (1)[^183] Amennyiben a menekültügyi hatóság az elismerését kérőt befogadó állomáson helyezi el, vagy számára kötelező tartózkodási helyet jelöl ki, az elismerés iránti kérelem előterjesztését követően a menekültügyi hatóság haladéktalanul értesíti az elismerését kérő tartózkodási helye szerint illetékes fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala járási tisztifőorvosát (a továbbiakban: tisztifőorvos) az adott járványügyi helyzetnek megfelelő orvosi vizsgálatok elrendelése érdekében.
+63. § (1)[^183] Amennyiben a menekültügyi hatóság az elismerését kérőt befogadó állomáson helyezi el, vagy számára kötelező tartózkodási helyet jelöl ki, az elismerés iránti kérelem előterjesztését követően a menekültügyi hatóság haladéktalanul értesíti az elismerését kérő tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala járási tisztifőorvosát (a továbbiakban: tisztifőorvos) az adott járványügyi helyzetnek megfelelő orvosi vizsgálatok elrendelése érdekében.
 
 (2)[^184] Ha az (1) bekezdésben elrendelt vizsgálatok eredménye alapján a tisztifőorvos megállapítja, hogy az elismerését kérő közegészséget veszélyeztető betegségben szenved, illetve fertőzőképes, a menekültügyi hatóság tájékoztatása mellett haladéktalanul javaslatot tesz a szükséges korlátozó intézkedések megtételére.
 
@@ -8,6 +8,6 @@
 
 (5)[^185] Nincs szükség az (1) bekezdés szerinti orvosi vizsgálat elrendelésére, illetve elvégzésére, ha az elismerését kérő járványügyi helyzetre tekintettel indokolt orvosi vizsgálatát korábban magyar egészségügyi államigazgatási szerv már elvégezte, és annak megtörténte óta az elismerését kérő nem hagyta el Magyarország területét.
 
-[^183]: A 63. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 47. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 109. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 83. §-a szerint módosított szöveg.
+[^183]: A 63. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 47. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 109. § b) pontja, a 234/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^184]: A 63. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 111. § (1) bekezdésével megállapított szöveg.
 [^185]: A 63. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 111. § (2) bekezdése iktatta be, szövege a 276/2011. (XII. 20.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
