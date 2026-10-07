@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-302-20-
 | 2016-12-17 | 2014-302-20-22.3 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2023-01-01 | 2014-302-20-22.4 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2026-10-01 | 2014-302-20-22.5 | 192/2026. (IX. 21.) Korm. rendelet |
+| 2026-10-07 | 2014-302-20-22.6 | 249/2026. (X. 6.) Korm. rendelet |
