@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-332-20-
 | 2017-03-21 | 2007-332-20-22.13 | 55/2017. (III. 20.) Korm. rendelet |
 | 2023-01-01 | 2007-332-20-22.14 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2025-01-20 | 2007-332-20-22.15 | 409/2024. (XII. 20.) Korm. rendelet |
+| 2026-10-07 | 2007-332-20-22.16 | 237/2026. (X. 6.) Korm. rendelet |

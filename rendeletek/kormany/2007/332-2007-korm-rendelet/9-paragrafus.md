@@ -1,4 +1,4 @@
-9. § (1)[^10] Korlátozott nyitvatartási időben működő határátkelőhely nyitvatartási időn kívüli igénybevételét, illetve korlátozott forgalmú határátkelőhelynek a forgalmi jellegtől eltérő eseti igénybevételét a vármegyei rendőr-főkapitányság kérelemre engedélyezheti annak részére, aki igazolja, hogy ahhoz jogos érdeke fűződik. Az államhatárt érintő határátkelőhely esetén a szomszédos állam határforgalom-ellenőrző hatóságának hozzájárulását az engedélyező hatóság kérelmezi.
+9. § (1)[^10] Korlátozott nyitvatartási időben működő határátkelőhely nyitvatartási időn kívüli igénybevételét, illetve korlátozott forgalmú határátkelőhelynek a forgalmi jellegtől eltérő eseti igénybevételét a megyei rendőr-főkapitányság kérelemre engedélyezheti annak részére, aki igazolja, hogy ahhoz jogos érdeke fűződik. Az államhatárt érintő határátkelőhely esetén a szomszédos állam határforgalom-ellenőrző hatóságának hozzájárulását az engedélyező hatóság kérelmezi.
 
 (2)[^11]
 
@@ -14,5 +14,5 @@ d) forgalmi jellegtől eltérő eseti igénybevétel esetén a forgalom bővít�
 
 e) a kérelem indokait.
 
-[^10]: A 9. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 88. § a) pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdése a 237/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^11]: A 9. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 3. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
