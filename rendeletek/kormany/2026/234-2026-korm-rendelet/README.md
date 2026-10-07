@@ -1,0 +1,9 @@
+# 234/2026. (X. 6.) Korm. rendelet
+
+a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-234-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-10-07 | 2026-234-20-22.1 | 234/2026. (X. 6.) Korm. rendelet |
