@@ -20,7 +20,7 @@ esetén kerülhet sor.
 
 (2) Az (1) bekezdés szerinti bírságolással kapcsolatos
 
-a)[^56] első fokú eljárás lefolytatására a sportrendezvény helye szerint illetékes vármegyei rendőr-főkapitányság,
+a)[^56] első fokú eljárás lefolytatására a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság,
 
 b)[^57]
 
@@ -30,7 +30,7 @@ b)[^57]
 
 [^54]: A 19/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 12. §-a iktatta be.
 [^55]: A 19/A. § (1) bekezdés d) pontja a 172/2013. (V. 30.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^56]: A 19/A. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^56]: A 19/A. § (2) bekezdés a) pontja a 231/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^57]: A 19/A. § (2) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. erndelet 129. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^58]: A 19/A. § (3) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^59]: A 19/A. § (4) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 6. § (2) bekezdése iktatta be.
