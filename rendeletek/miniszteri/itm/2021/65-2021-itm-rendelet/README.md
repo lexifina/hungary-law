@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-65-20-7
 | 2023-12-31 | 2021-65-20-7Q.4 | 11/2023. (XII. 23.) KIM rendelet |
 | 2024-07-01 | 2021-65-20-7Q.5 | 26/2024. (VI. 11.) KIM rendelet |
 | 2024-10-30 | 2021-65-20-7Q.6 | 38/2024. (X. 22.) KIM rendelet |
+| 2026-10-07 | 2021-65-20-7Q.7 | 3/2026. (X. 6.) OGYM rendelet |

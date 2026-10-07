@@ -30,7 +30,7 @@
 
 | 15. | vadgazda mérnöki | Wildlife Management Engineering | vadgazda mérnök | Wildlife Management Engineer | 6 |
 
-| 16.[^15] | gazdasági és vidékfejlesztési agrármérnöki | Agribusiness and Rural Development Management | gazdasági és vidékfejlesztési agrármérnök | Agribusiness and Rural Development Engineer | 6 |
+| 16.[^20] | gazdasági és vidékfejlesztési agrármérnöki | Agribusiness and Rural Development Management | gazdasági és vidékfejlesztési agrármérnök | Agribusiness and Rural Development Engineer | 6 |
 
 | 17. | Bölcsészettudomány | Arts and Humanities | anglisztika | English and American Studies | anglisztika alapszakos bölcsész | Philologist in English and American Studies | 6 |
 
@@ -104,7 +104,7 @@
 
 | 29. | szabad bölcsészet | Liberal Arts | alapszakos szabad bölcsész | Philologist | 6 |
 
-| 30.[^16] | szlavisztika | Slavonic Studies | 1. szlavisztika, orosz alapszakos bölcsész | 1. Slavonic Studies, Philologist in Russian Studies | 6 |
+| 30.[^21] | szlavisztika | Slavonic Studies | 1. szlavisztika, orosz alapszakos bölcsész | 1. Slavonic Studies, Philologist in Russian Studies | 6 |
 
 | 2. szlavisztika, bolgár alapszakos bölcsész | 2. Slavonic Studies, Philologist in Bulgarian Studies |
 
@@ -230,7 +230,7 @@
 
 | 78. | műszaki menedzser | Engineering Management | műszaki menedzser | Engineering Manager | 6 |
 
-| 78/A.[^17] | repülési infrastruktúra üzemmérnöki | Aviation Infrastructure Engineering | repülési infrastruktúra üzemmérnök | Aviation Infrastructure Engineer | 6 |
+| 78/A.[^22] | repülési infrastruktúra üzemmérnöki | Aviation Infrastructure Engineering | repülési infrastruktúra üzemmérnök | Aviation Infrastructure Engineer | 6 |
 
 | 79. | tesztmérnöki | Test Engineering | tesztmérnök | Test Engineer | 6 |
 
@@ -244,7 +244,7 @@
 
 | 84. | vízügyi üzemeltetési mérnöki | Water Operation Engineering | vízügyi üzemeltetési mérnök | Water Operation Engineer | 6 |
 
-| 85.[^18] | Orvos- és egészségtudomány | Health Science | ápolás és betegellátás | Nursing and Patient Care | 1. ápoló | 1. Nurse | 6 |
+| 85.[^23] | Orvos- és egészségtudomány | Health Science | ápolás és betegellátás | Nursing and Patient Care | 1. ápoló | 1. Nurse | 6 |
 
 | 2. dietetikus | 2. Dietitian |
 
@@ -260,9 +260,9 @@
 
 | 8. ortopédiai műszerész | 8. Orthopedic technician |
 
-| 86. | digitális fogászati tervezés | Digital Technology in Dentistry | digitális fogászati tervező | Digital Dental Designer | 6 |
+| 86.[^24] | digitális fogászati tervezés | Digital Dental Design | digitális fogászati tervező | Digital Dental Designer | 6 |
 
-| 87. | egészségügyi gondozás és prevenció | Health Care and DiseasePrevention | 1. népegészségügyi szakember[^19] | 1. Public Health Supervisor | 6 |
+| 87. | egészségügyi gondozás és prevenció | Health Care and DiseasePrevention | 1. népegészségügyi szakember[^25] | 1. Public Health Supervisor | 6 |
 
 | 2. védőnő | 2. Health Visitor |
 
@@ -272,13 +272,13 @@
 
 | 89. | orvosi diagnosztikai analitikus | Medical Diagnostic Analysis | orvosi diagnosztikai analitikus | Medical Diagnostic Analyst | 6 |
 
-| 90. | Sporttudomány | Sport Science | edző | Physical Training | szakedző (megjelölve a sportágat) | Physical Trainer (name of sport) | 6 |
+| 90.[^26] | Sporttudomány | Sport Science | edző | Sports Coaching | szakedző (megjelölve a sportágat) | Sports Coach in (name of sport) | 6 |
 
 | 91. | rekreáció és életmód | Recreation Management and Health Promotion | rekreáció és életmód szakember | Recreation and Health Promotion Manager | 6 |
 
 | 92. | sportszervezés | Sports Management | sportszervező | Sports Manager | 6 |
 
-| 92/A.[^20] | sporttudomány | Sport and Exercise Science | sporttudományi szakember | Sport and Exercise Science Analyst | 6 |
+| 92/A.[^27] | sporttudomány | Sport and Exercise Science | sporttudományi szakember | Sport and Exercise Science Analyst | 6 |
 
 | 93. | Természettudomány | Natural Science | biológia | Biology | biológus | Biologist | 6 |
 
@@ -600,7 +600,7 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 
 | 50. | horvát nyelv és irodalom |  | Croatian Language and Literature | okleveles horvát nyelv és irodalom szakos bölcsész | Philologist in Croatian Language and Literature | 7 |
 
-| 51. | hungarológia |  | Hungarian Studies | hungarológia szakos bölcsész | Hungarologist | 7 |
+| 51. | hungarológia |  | Hungarian Studies | okleveles hungarológia szakos bölcsész[^28] | Hungarologist | 7 |
 
 | 52. | indológia |  | Indian Studies | okleveles indológia szakos bölcsész | Expert in Indian Studies | 7 |
 
@@ -632,7 +632,7 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 
 | 66. | logika és tudományfilozófia |  | Logic and Philosophy of Science | okleveles logika és tudományfilozófia szakos bölcsész | Expert in Logic and Philosophy of Science | 7 |
 
-| 66/A.[^21] | magyar mint idegennyelv- oktató |  | Instruction of Hungarian as a Foreign Language | okleveles magyar mint idegennyelv- oktató bölcsész | Instructor of Hungarian as a Foreign Language | 7 |
+| 66/A.[^29] | magyar mint idegennyelv- oktató |  | Instruction of Hungarian as a Foreign Language | okleveles magyar mint idegennyelv- oktató bölcsész | Instructor of Hungarian as a Foreign Language | 7 |
 
 | 67. | magyar nyelv és irodalom |  | Hungarian Language and Literature Studies | okleveles magyar nyelv és irodalom szakos bölcsész | Philologist in Hungarian Language and Literature | 7 |
 
@@ -732,7 +732,9 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 
 | 115. | politikatudomány |  | Political Science | okleveles politológus | Political Scientist | 7 |
 
-| 116. | survey statisztika és adatanalitika |  | Survey Statistics and Data Analytics[^22] | okleveles survey statisztika és adatanalitikai szakértő | Survey Statistician and Data Analyst | 7 |
+| 115/A.[^30] | reedukáció |  | Educational Rehabilitation | okleveles reedukációs szakember | Specialist in Educational Rehabilitation | 7 |
+
+| 116. | survey statisztika és adatanalitika |  | Survey Statistics and Data Analytics[^31] | okleveles survey statisztika és adatanalitikai szakértő | Survey Statistician and Data Analyst | 7 |
 
 | 117. | szociális munka |  | Social Work | okleveles szociális munkás | Social Worker | 7 |
 
@@ -932,7 +934,7 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 
 | 215. | sportmenedzser |  | Sports Management | okleveles sportmenedzser | Sports Manager | 7 |
 
-| 216. | szakedző |  | Sports Coaching | okleveles szakedző (a sportág megjelölésével) | Sports Coachspecialized in (Name of Sport) | 7 |
+| 216.[^32] | szakedző |  | Sports Elite Coaching | okleveles szakedző (megjelölve a sportágat) | Sports Elite Coach Specialized in (name of sport) | 7 |
 
 | 217. | Természettudomány | Natural Science | alkalmazott matematikus |  | Applied Mathematics | okleveles alkalmazott matematikus | Applied Mathematician | 7 |
 
@@ -1164,11 +1166,16 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 
 | 288. | Művészetközvetítés | Art Education | művészeti instruktor |  | Arts Communication | okleveles művészeti instruktor | Arts Communication Expert | 7 |
 
-[^15]: A 2. mellékletben foglalt táblázat 16. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^16]: A 2. mellékletben foglalt táblázat 30. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^17]: A 2. mellékletben foglalt táblázat 78/A. sorát a 11/2023. (XII. 23.) KIM rendelet 2. §-a iktatta be.
-[^18]: A 2. mellékletben foglalt táblázat 85. sora a 11/2023. (XII. 23.) KIM rendelet 2. §-ával megállapított szöveg.
-[^19]: A 2. mellékletben foglalt táblázat E:87 mezője a 38/2024. (X. 22.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
-[^20]: A 2. mellékletben foglalt táblázat 92/A. sorát a 11/2023. (XII. 23.) KIM rendelet 2. §-a iktatta be, szövege a 26/2024. (VI. 11.) KIM rendelet 1. § b) pontjával megállapított szöveg.
-[^21]: A 3. mellékletben foglalt táblázat 66/A. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (3) bekezdése iktatta be.
-[^22]: A 3. mellékletben foglalt táblázat E:116 mezője a 38/2024. (X. 22.) KIM rendelet 3. § b) pontja szerint módosított szöveg.
+[^20]: A 2. mellékletben foglalt táblázat 16. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. mellékletben foglalt táblázat 30. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^22]: A 2. mellékletben foglalt táblázat 78/A. sorát a 11/2023. (XII. 23.) KIM rendelet 2. §-a iktatta be.
+[^23]: A 2. mellékletben foglalt táblázat 85. sora a 11/2023. (XII. 23.) KIM rendelet 2. §-ával megállapított szöveg.
+[^24]: A 2. mellékletben foglalt táblázat 86. sora a 3/2026. (X. 6.) OGYM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. mellékletben foglalt táblázat E:87 mezője a 38/2024. (X. 22.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
+[^26]: A 2. mellékletben foglalt táblázat 90. sora a 3/2026. (X. 6.) OGYM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. mellékletben foglalt táblázat 92/A. sorát a 11/2023. (XII. 23.) KIM rendelet 2. §-a iktatta be, szövege a 26/2024. (VI. 11.) KIM rendelet 1. § b) pontjával megállapított szöveg.
+[^28]: A 3. mellékletben foglalt táblázat F:51 mezője a 3/2026. (X. 6.) OGYM rendelet 4. § b) pontja szerint módosított szöveg.
+[^29]: A 3. mellékletben foglalt táblázat 66/A. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (3) bekezdése iktatta be.
+[^30]: A 3. mellékletben foglalt táblázat 115/A. sorát a 3/2026. (X. 6.) OGYM rendelet 3. § (3) bekezdése iktatta be.
+[^31]: A 3. mellékletben foglalt táblázat E:116 mezője a 38/2024. (X. 22.) KIM rendelet 3. § b) pontja szerint módosított szöveg.
+[^32]: A 3. mellékletben foglalt táblázat 216. sora a 3/2026. (X. 6.) OGYM rendelet 3. § (3) bekezdésével megállapított szöveg.

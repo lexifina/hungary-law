@@ -10,6 +10,8 @@
 
 | 5. | gyógy- és fűszernövények felsőoktatási szakképzés | Medicinal Plants and Herbs | felsőfokú gyógynövény technológus | Medicinal Plant Technologist | 5 |
 
+| 5/A.[^17] | ökológiai gazdálkodás felsőoktatási szakképzés | Organic Farming | felsőfokú ökológiai gazdálkodó | Organic Farming Technologist | 5 |
+
 | 6. | Informatika | Computer Science and Information Technology | gazdaságinformatikus felsőoktatási szakképzés | Business Informatics | felsőfokú gazdaságinformatikus-asszisztens | Business Informatics Assistant | 5 |
 
 | 7. | mérnökinformatikus felsőoktatási szakképzés | Computer Science Engineering | 1. felsőfokú hálózati mérnökinformatikus- asszisztens | 1. Computer Science Engineer Assistant in Networks | 5 |
@@ -62,10 +64,14 @@
 
 | 20. | légijármű-vezetés felsőoktatási szakképzés | Professional Pilot Training | légijármű-vezető | Professional Pilot | 5 |
 
-| 21.[^14] | Társadalom-tudomány | Social Science | társadalmi integráció felsőoktatási szakképzés | Social Integration | integrációs asszisztens | Social Integration Assistant | 5 |
+| 21.[^18] | Társadalom-tudomány | Social Science | társadalmi integráció felsőoktatási szakképzés | Social Integration | integrációs asszisztens | Social Integration Assistant | 5 |
+
+| 22.[^19] | Természettudomány | Natural Science | biotechnológia felsőoktatási szakképzés | Biotechnology | felsőfokú biotechnológus asszisztens | assistant biotechnologist | 5 |
 
 2. melléklet a 65/2021. (XII. 29.) ITM rendelethez
 
 Alapképzések és alapképzésben szerezhető szakképzettségek jegyzéke
 
-[^14]: Az 1. mellékletben foglalt táblázat 21. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (1) bekezdése iktatta be.
+[^17]: Az 1. mellékletben foglalt táblázat 5/A. sorát a 3/2026. (X. 6.) OGYM rendelet 3. § (1) bekezdése iktatta be.
+[^18]: Az 1. mellékletben foglalt táblázat 21. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (1) bekezdése iktatta be.
+[^19]: Az 1. mellékletben foglalt táblázat 22. sorát a 3/2026. (X. 6.) OGYM rendelet 3. § (1) bekezdése iktatta be.
