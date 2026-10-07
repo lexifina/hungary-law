@@ -1,6 +1,6 @@
 ## 2. Jogosultsági és kizáró feltételek
 
-3. § (1) A rendvédelmi lakhatási támogatás olyan magán- vagy önkormányzati tulajdonú lakás egészének vagy egy részének bérletéhez, albérletéhez vehető igénybe, amely ingatlan Budapest vagy Pest vármegye területén vagy Pest vármegye közigazgatási határától 60 km-es vonzáskörzetben lévő magyarországi településen található.
+3. § (1)[^3] A rendvédelmi lakhatási támogatás olyan magán- vagy önkormányzati tulajdonú lakás egészének vagy egy részének bérletéhez, albérletéhez vehető igénybe, amely ingatlan Budapest vagy Pest megye területén vagy Pest megye közigazgatási határától 60 km-es vonzáskörzetben lévő magyarországi településen található.
 
 (2) A rendvédelmi lakhatási támogatás igénybevételének feltétele, hogy a 2. § szerinti foglalkoztatott érvényes,
 
@@ -14,7 +14,7 @@ lakásbérleti vagy albérleti szerződéssel rendelkezik.
 
 (3) Nem jogosult a rendvédelmi lakhatási támogatás igénybevételére az, aki
 
-a) Budapest vagy Pest vármegye területén vagy Pest vármegye közigazgatási határától számított 60 km-es vonzáskörzetben lévő településen belül lakástulajdonnal vagy lakáshasználati joggal rendelkezik,
+a)[^4] Budapest vagy Pest megye területén vagy Pest megye közigazgatási határától számított 60 km-es vonzáskörzetben lévő településen belül lakástulajdonnal vagy lakáshasználati joggal rendelkezik,
 
 b) belügyi rendelkezésű lakás bérlője vagy szállóférőhely használója,
 
@@ -49,3 +49,6 @@ b) olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasz
 c) az olyan, nem adásvétel útján szerzett lakásban rendelkezik tulajdonrésszel, amelyben a társtulajdonos nem a házastársa vagy élettársa, és a tulajdoni részesedése 50% alatti, így a lakás használata számára nem biztosított.
 
 (5) A rendvédelmi lakhatási támogatást a próbaidőn lévő foglalkoztatott nem veheti igénybe.
+
+[^3]: A 3. § (1) bekezdése a 268/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés a) pontja a 268/2026. (X. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

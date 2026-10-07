@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-366-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-12-01 | 2025-366-20-22.1 | 366/2025. (XI. 28.) Korm. rendelet |
+| 2026-10-07 | 2025-366-20-22.2 | 268/2026. (X. 6.) Korm. rendelet |
