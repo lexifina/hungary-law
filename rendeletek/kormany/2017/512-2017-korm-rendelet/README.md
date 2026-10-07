@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-512-20-
 | --- | --- | --- |
 | 2018-01-01 | 2017-512-20-22.1 | 512/2017. (XII. 29.) Korm. rendelet |
 | 2025-07-20 | 2017-512-20-22.2 | 196/2025. (VII. 8.) Korm. rendelet |
+| 2026-10-07 | 2017-512-20-22.3 | 196/2025. (VII. 8.) Korm. rendelet |
