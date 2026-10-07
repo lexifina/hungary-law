@@ -4,9 +4,9 @@
 
 ## 1. Tűzvédelmi hatóságként eljáró hatóságok
 
-1. § (1) A Kormány tűzvédelmi hatóságként – a (2) és (3) bekezdésben, valamint a 2–4. §-ban meghatározott kivételekkel – a fővárosi és vármegyei kormányhivatalt jelöli ki, amely
+1. § (1)[^2] A Kormány tűzvédelmi hatóságként – a (2) és (3) bekezdésben, valamint a 2–4. §-ban meghatározott kivételekkel – a fővárosi és megyei kormányhivatalt jelöli ki, amely
 
-a)[^2] eljár a beépített tűzjelző, tűzoltó berendezések engedélyezési és bejelentési ügyeiben,
+a)[^3] eljár a beépített tűzjelző, tűzoltó berendezések engedélyezési és bejelentési ügyeiben,
 
 b) eltérést engedélyezhet az épületek, építmények tűzvédelmi használati előírásai, valamint a tűzoltóságok beavatkozásával kapcsolatos követelmények alól,
 
@@ -14,7 +14,7 @@ c) eljár az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendeletb
 
 d) eljár a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 20. § (1) bekezdésében meghatározott bejelentési kötelezettség ügyében,
 
-e)[^3] eljár – a 2. § (3) bekezdés d) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdésében meghatározott tevékenységekkel kapcsolatos közigazgatási hatósági eljárásokban,
+e)[^4] eljár – a 2. § (3) bekezdés d) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdésében meghatározott tevékenységekkel kapcsolatos közigazgatási hatósági eljárásokban,
 
 f) a jogszabályok keretei között megállapítja a tűzvédelmi kötelezettségeket,
 
@@ -40,7 +40,7 @@ k) a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörö
 
 a) eltérést engedélyezhet az épületek, építmények tűzvédelmi létesítési előírásai alól,
 
-b)[^4] engedélyezi azon tűzoltó-technikai termék forgalmazását, amelyre nem vonatkozik tűzvédelmi, biztonságossági követelmény vagy amelyre nem szerezhető be tűzvédelmi megfelelőségi tanúsítvány,
+b)[^5] engedélyezi azon tűzoltó-technikai termék forgalmazását, amelyre nem vonatkozik tűzvédelmi, biztonságossági követelmény vagy amelyre nem szerezhető be tűzvédelmi megfelelőségi tanúsítvány,
 
 c) elbírálja a vonatkozó műszaki követelmény előírásától eltérő, de azzal legalább egyenértékű biztonságot nyújtó műszaki megoldást,
 
@@ -57,6 +57,7 @@ fb) kiadott nyilatkozatok megfelelőségét ellenőrzi.
 (3) A Kormány a Budapest Liszt Ferenc Nemzetközi Repülőtér létesítményei tekintetében az (1) és (2) bekezdésben meghatározott ügyekben tűzvédelmi hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
 [^1]: Az I. Fejezet (1–6/A. §) a 257/2024. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés a) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés e) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdés b) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 244/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés a) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés e) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés b) pontja a 175/2025. (VI. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

@@ -42,7 +42,7 @@
 
 | 21. | a jogszabály vagy hatóság által előírt beépített tűzjelző vagy tűzoltó berendezés készenlétben tartásának, üzemeltetésének, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása, ha a védett tér 500 m2 feletti alapterületű | 200 000 | 2 000 000 |
 
-| 21a[^39] | a jogszabály vagy hatóság által előírt fokozott üzembiztonságú tűzoltó berendezés készenlétben tartásának, üzemeltetésének, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása | 100 000 | 3 000 000 |
+| 21a[^42] | a jogszabály vagy hatóság által előírt fokozott üzembiztonságú tűzoltó berendezés készenlétben tartásának, üzemeltetésének, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása | 100 000 | 3 000 000 |
 
 | 22. | tűzjelző vagy tűzoltó berendezés központjának jogszabály vagy hatóság által előírt állandó felügyeletének, tűzátjelzés hiánya | 100 000 | 1 500 000 |
 
@@ -78,7 +78,7 @@
 
 | 38. | a kötelező időszakos villamos- vagy villámvédelmi felülvizsgálati minősítő iratban feltárt – tűzveszélyes vagy soron kívüli, javítandó jelzéssel ellátott – hibák igazolt megszüntetésének hiánya | 40 000 | 300 000 |
 
-| 39. | az erdőgazdálkodó a jogszabály által előírt erdő-tűzvédelmi tervet vagy egyszerűsített erdő-tűzvédelmi tervet nem készíti, készítteti el, vagy nem aktualizálja[^40] | 50 000 | 200 000 |
+| 39. | az erdőgazdálkodó a jogszabály által előírt erdő-tűzvédelmi tervet vagy egyszerűsített erdő-tűzvédelmi tervet nem készíti, készítteti el, vagy nem aktualizálja[^43] | 50 000 | 200 000 |
 
 | 40. | a településen vagy a létesítményben a tűzoltást befolyásoló változások bejelentésének elmulasztása az állandó készenléti jellegű szolgálatot ellátó hivatásos tűzoltóság vagy önkormányzati tűzoltóság, illetve az érintett létesítményi tűzoltóság felé | 30 000 | 1 000 000 |
 
@@ -102,8 +102,8 @@
 
 | 50. | eltérés a tűzvédelmi hatóság által jóváhagyott eltérő műszaki megoldástól, kivéve, ha a jogszabályban, nemzeti szabványban vagy tűzvédelmi műszaki irányelvben foglalt műszaki megoldást alkalmazzák | 50 000 | 1 000 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^41]
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^44]
 
-[^39]: Az 1. mellékletben foglalt táblázat 21a. sorát az 569/2022. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
-[^40]: Az 1. mellékletben foglalt táblázat A:39 mezője a 257/2024. (VIII. 29.) Korm. rendelet 47. §-a szerint módosított szöveg.
-[^41]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 1. mellékletben foglalt táblázat 21a. sorát az 569/2022. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
+[^43]: Az 1. mellékletben foglalt táblázat A:39 mezője a 257/2024. (VIII. 29.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^44]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
