@@ -1,7 +1,3 @@
-4. § A 65/2021. (XII. 29.) ITM rendelet
+4. §[^7]
 
-a) 8. § (2) bekezdés c) pontjában a „tudományfilózófia” szövegrész helyébe a „tudományfilozófia” szöveg,
-
-b) 3. mellékletében foglalt táblázat F:51 mezőjében a „hungarológia” szövegrész helyébe az „okleveles hungarológia” szöveg
-
-lép.
+[^7]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
