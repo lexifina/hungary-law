@@ -4,14 +4,6 @@
 
 ## [3] A Kormány a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 283. § (1) bekezdés 1., 3., 5., 10. és 19. pontjában, valamint 283. § (3) bekezdés a) és d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet
+1. §[^2]
 
-a) 29. § nyitó szövegrészében, 63. § (1) bekezdés c) pontjában és 72. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 37/A. § (4) bekezdés a)–g) pontjában, 117. § (6) bekezdésében, 234. § (2) bekezdés a) és b) pontjában a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-c) 72. § (2) és (3) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-d) 176. § (1) és (2) bekezdésében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
