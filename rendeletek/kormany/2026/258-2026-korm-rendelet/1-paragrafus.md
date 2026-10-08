@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (1) bekezdés e) pont ea) alpontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 492/2017. (XII. 29.) Korm. rendelet 3. § (5) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
