@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 34. § d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzet során kiadott egyes veszélyhelyzeti kormányrendeleti szabályok kivezetéséről szóló 196/2025. (VII. 8.) Korm. rendelet
+1. §[^2]
 
-a) 5. § (1) bekezdés b) pontjában, 12. § (2) és (7) bekezdésében, 13. § (1), (9), (10) bekezdésében és (11) bekezdés b) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 11. § (10) bekezdésében és 13. § (8) bekezdés b) pontjában a „vármegyei” szövegrészek helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
