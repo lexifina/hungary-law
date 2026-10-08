@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A nemzetbiztonsági szolgálatok által közzéteendő adatokról szóló 180/2017. (VII. 5.) Korm. rendelet 1. melléklet I. pontjában foglalt táblázat A:2 mezőjében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
