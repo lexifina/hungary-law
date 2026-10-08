@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés p) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az idegenrendészeti szerv kijelöléséről és hatásköréről szóló 126/2019. (V. 30.) Korm. rendelet
+1. §[^2]
 
-a) 1. mellékletében foglalt táblázat A:2 mezőjében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-b) 1. mellékletében foglalt táblázat B:2 mezőjében a „vármegye” szövegrész helyébe a „megye” szöveg,
-
-c) 1. mellékletében foglalt táblázat B:3–B:8 mezőjében a „vármegye” szövegrészek helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
