@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közterület-felügyeletről szóló 1999. évi LXIII. törvény 28/A. §-ában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A kerékbilincs alkalmazásával és a járművek elszállításával kapcsolatos eljárás során alkalmazandó kiegészítő és eltérő közigazgatási hatósági eljárási szabályokról szóló 512/2017. (XII. 29.) Korm. rendelet 5/A. §-ában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
