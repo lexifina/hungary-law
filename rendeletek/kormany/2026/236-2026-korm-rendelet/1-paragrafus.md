@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés i) és j) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A határterületről, valamint a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás szabályairól szóló 330/2007. (XII. 13.) Korm. rendelet
+1. §[^2]
 
-a) 7. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 7. § (3) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg és
-
-c) 1. melléklet 1., 2., 3., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14. pontjában a „vármegye” szövegrész helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
