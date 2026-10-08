@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés f) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015. (VII. 23.) Korm. rendelet 1. § (1) bekezdésében és 2. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
