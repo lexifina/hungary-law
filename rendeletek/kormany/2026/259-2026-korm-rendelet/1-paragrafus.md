@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörben eljárva a következőket rendeli el:
 
-1. § A nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren közlekedő légi járművek határforgalmi ellenőrzésével, a nemzetközi forgalomban közlekedő vasúti és vízi járművek menet közbeni ellenőrzésével, valamint a munkavégzés céljából határátkelőhelyen kívül történő határátlépéssel kapcsolatos kiegészítő eljárási rendelkezésekről szóló 509/2017. (XII. 29.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (2) és (3) bekezdésében, valamint 4. § (1) és (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 2. § (4) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
