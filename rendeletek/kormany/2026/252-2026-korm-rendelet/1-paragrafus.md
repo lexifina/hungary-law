@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 8. § (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet 3. § (4) bekezdésében és 4. § (12) és (12a) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
