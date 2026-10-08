@@ -4,12 +4,6 @@
 
 ## [3] A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés a) és b) pontjában, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet
+1. §[^2]
 
-a) 1. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 5. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 7. § (2) bekezdés c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
