@@ -4,16 +4,6 @@
 
 ## [3] A Kormány a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 80. § e)–h), k) és o) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet
+1. §[^2]
 
-a) 4. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 22/A. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-c) 23. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-d) 28. § (2) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-e) 29. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
