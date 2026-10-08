@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bc) alpontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet 15. § (5) bekezdésében és 19/A. § (2) bekezdés a) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
