@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 86. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 28. § (2) bekezdés b) pontjában, 44. § (2) bekezdésében, 50. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
