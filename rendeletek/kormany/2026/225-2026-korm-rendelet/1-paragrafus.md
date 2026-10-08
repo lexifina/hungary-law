@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés l) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A kerékbilincs alkalmazásával és a járművek elszállításával kapcsolatos szabályokról szóló 143/1995. (XI. 30.) Korm. rendelet 14. §-ában és 17. § (2) bekezdés c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
