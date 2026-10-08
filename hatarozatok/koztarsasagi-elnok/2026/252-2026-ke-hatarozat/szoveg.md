@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés c) pontja, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 112. § (1) bekezdése, valamint 126. § (4) bekezdése alapján, az Mttv. 126. § (5) bekezdésére, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa elnökének és tagjainak megválasztásáról szóló 62/2026. (IX. 22.) OGY határozat (a továbbiakban: OGY határozat) 1. pont a) alpontjára figyelemmel – a miniszterelnök javaslatára – dr. Polyák Gábort 2026. október 12-ei hatállyal, az OGY határozat alapján fennálló médiatanácsi elnöki megbízatásának időtartamára a Nemzeti Média- és Hírközlési Hatóság elnökévé kinevezem.
+
+SP ügyszám: SP/3012-5/2026
