@@ -4,4 +4,6 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva a következőket rendeli el:
 
-1. § A mohácsi határkikötő üzemeltetőjének kijelöléséről és egyes belügyi tárgyú kormányrendeletek módosításáról szóló 479/2024. (XII. 31.) Korm. rendelet 1. §-ában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
