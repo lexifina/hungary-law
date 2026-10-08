@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 3. pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A nemzetgazdaság védelmi és biztonsági felkészítésének, mozgósításának, valamint a tartalékolás végrehajtásának szabályozásáról szóló 79/2023. (III. 13.) Korm. rendelet 9. § (2) bekezdésében a „vármegyét” szövegrész helyébe a „megyét” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
