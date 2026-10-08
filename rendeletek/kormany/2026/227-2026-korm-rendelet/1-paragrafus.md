@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet 3.1.109. pontjában a „vármegyei” szövegrészek helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
