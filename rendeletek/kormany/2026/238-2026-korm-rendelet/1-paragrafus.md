@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 20., 21. és 22. alpontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pont aa) és ab) alpontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg, a „vármegye” szövegrészek helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
