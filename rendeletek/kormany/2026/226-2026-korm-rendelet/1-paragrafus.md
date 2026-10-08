@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés g) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A védett személyekről és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet
+1. §[^2]
 
-a) 8/C. § (2) bekezdés b) pont ba) alpontjában, 8/C. § (3) bekezdés b) pontjában, 8/D. § (4) bekezdésében, 8/F. § b) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 2. melléklet 12., 21., 23., 24., 26., 28., 29., 32., 34., 38–40., 42., 47., 52., 57–60. és 65. pontjában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
