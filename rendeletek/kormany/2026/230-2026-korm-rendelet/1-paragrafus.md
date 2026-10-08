@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény 15. §-ában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló 236/2000. (XII. 23.) Korm. rendelet 1. § (3) bekezdésében és 3. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
