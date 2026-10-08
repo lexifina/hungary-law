@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 26. alpontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 133/2022. (IV. 7.) Korm. rendelet 4. melléklet 1. pontjában a „vármegye” szövegrész helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
