@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 1. pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet
+1. §[^2]
 
-a) 1. melléklet I. pontjában foglalt táblázat B:7 mezőjében, 1. melléklet IV. pontjában foglalt táblázat B:2 mezőjében, 2. melléklet I. pontjában foglalt táblázat A:10 és B:10 mezőjében, 2. melléklet IV. pontjában foglalt táblázat A:3 mezőjében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 1. melléklet V. pontjában foglalt táblázat E:2, E:3, C:4, E:4, E:5, E:7–E:9, E:11 és C:16 mezőjében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
