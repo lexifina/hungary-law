@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés b) és d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 76. § (1) bekezdésében, 79. § (1) bekezdés a) pontjában, 84. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
