@@ -4,18 +4,6 @@
 
 ## [3] A Kormány a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (2) bekezdés c) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az „Életmentő Emlékérem” adományozásáról szóló 243/2009. (X. 29.) Korm. rendelet
+1. §[^2]
 
-a) 5. § (1) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-b) 5. § (1) bekezdésében a „főispán” szövegrész helyébe a „kormánymegbízott” szöveg,
-
-c) 6. § (1)–(3) bekezdésében a „főispán” szövegrész helyébe a „kormánymegbízott” szöveg,
-
-d) 6. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-e) 7. § (1) és (3) bekezdésében a „főispán” szövegrész helyébe a „kormánymegbízott” szöveg és
-
-f) 7. § (3) bekezdésében a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
