@@ -1,0 +1,1716 @@
+# Az Alkotmánybíróság 8/2026. (X. 8.) AB határozata
+
+Magyar Közlöny 2026. évi 148. szám, 2026. október 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/B2ymQLKbyKAXb8XDKNBv6abe9f87223d0/dokumentumok/45f49fea9f1462766cce80de51fc7031212c84cb/letoltes)
+
+---
+
+Az Alkotmánybíróság 8/2026. (X. 8.) AB határozata
+a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló
+2013. évi CCXL. törvény 46/A–46/H. §-ai alaptörvény-ellenességének megállapításáról és megsemmisítéséről
+Az Alkotmánybíróság teljes ülése alkotmányjogi panasz tárgyában – dr. Czine Ágnes alkotmánybíró párhuzamos
+indokolásával, valamint dr. Handó Tünde és dr. Horváth Attila alkotmánybírók különvéleményével – meghozta
+a következő
+h a t á r o z a t o t :
+1. Az Alkotmánybíróság megállapítja, hogy a büntetések, az intézkedések, egyes kényszerintézkedések
+és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 46/A–46/H. §-ai az Alaptörvény
+II. cikkébe és III. cikk (1) bekezdésébe ütköző módon alaptörvény-ellenesek, ezért azokat 2027. május 31-ével
+megsemmisíti.
+2. Az Alkotmánybíróság a Kúria Bfv.III.914/2017/13. számú végzése alaptörvény-ellenességének megállapítására
+és megsemmisítésére irányuló indítványt elutasítja.
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzéteszi.
+I n d o k o l á s
+I.
+[1] 1. Az indítványozó az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 27. §-a alapján
+alkotmányjogi panasszal fordult az Alkotmánybírósághoz.
+[2] Beadványában előadta, hogy a Kúria Bfv.III.914/2017/13. számú végzését ellentétesnek tartja az Alaptörvény
+II. cikkében, III. cikk (1) bekezdésében, valamint XXVIII. cikk (1) és (7) bekezdésében foglalt rendelkezésekkel,
+ezért kérte, hogy az Alkotmánybíróság a bírósági döntést semmisítse meg.
+[3] A Kúria végzésének alapjául szolgáló bírósági eljárás lényege az alábbiak szerint foglalható össze. Az indítványozót
+a Borsod-Abaúj-Zemplén Megyei Bíróság 2010. május 14-én kihirdetett, 4.Fk.115/2010/44. számú ítéletében
+bűnösnek mondta ki emberölés bűntettében [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+(a továbbiakban: régi Btk.) 166. § (1) bekezdése, (2) bekezdés a), c), f), i) pontja] és lőszerrel visszaélés bűntettében
+[régi Btk. 263/A. § (1) bekezdés a) pont], ezért halmazati büntetésül életfogytig tartó szabadságvesztésre ítélte,
+egyúttal a régi Btk. 47/A. §-a alapján kizárta a feltételes szabadságra bocsátás lehetőségét. A másodfokon eljáró
+Debreceni Ítélőtábla 2010. november 9-én kihirdetett, Bf.I.408/2010/8. számú végzésében a Borsod-Abaúj-Zemplén
+Megyei Bíróság elsőfokú ítéletét helybenhagyta. A Legfelsőbb Bíróság az indítványozó jogi képviselője által
+előterjesztett felülvizsgálati indítványt 2011. szeptember 13-án kelt és jogerős Bfv.III.298/2011/5. számú végzésében
+elutasította.
+[4] Az indítványozó ezt követően a jogerős bírósági döntéssel szemben az Emberi Jogok Európai Bíróságához
+(a továbbiakban: EJEB) fordult. Az EJEB 2016. október 4-én kihirdetett és 2017. március 6-án véglegessé vált
+T. P. és A. T. kontra Magyarország (37871/14, 73986/14) határozatában megállapította, hogy az indítványozó
+esetében megvalósult az Emberi Jogok Európai Egyezménye (a továbbiakban: Egyezmény) 3. cikkének a sérelme.
+[5] Az indítványozó jogi képviselője által ezt követően előterjesztett felülvizsgálati indítványt a Kúria 2017. szeptember 19-én
+kelt, Bfv.III.914/2017/13. számú végzésével elutasította. A Kúria végzésének indokolásában hangsúlyozta,
+hogy az EJEB ítélet „kiváltotta kötelező felülvizsgálatban kizárólag a konkrét ügyben a konkrét bírósági ítéleteket,
+azok rendelkezéseit vizsgálja, vizsgálhatja felül. Ekként a [Büntető Törvénykönyvről szóló 2012. évi C. törvény
+(a továbbiakban: Btk.)] és a Be. [értsd: a büntetőeljárásról szóló 1998. évi XIX. törvény, a továbbiakban: régi Be.]
+rendelkezéseinek a perbíróság általi alkalmazását, azt, hogy ennek során történt-e az Egyezmény megsértése
+
+vagy sem. A Kúria nem végez, nem végezhet normakontrollt és nem alkothat jogot. Az EJEB ítélete jelen esetben
+ténylegesen nem a perbíróság ítéleteit tartotta sérelmesnek, hanem az új végrehajtási szabályokat (a kötelező
+kegyelemi eljárást), amelyek egyébként a korábbi esetjoggal nem ütköztek, az abban foglaltakat figyelembe véve
+kerültek megalkotásra (lásd Törköly, illetve Magyar kontra Magyarország ügy)”(Kúria végzése, Indokolás [83]–[85]).
+[6] Az alaptörvény-ellenesség elsődleges indokaként az indítványozó előadta, hogy az EJEB által megállapított
+jogsérelem az Alaptörvény III. cikk (1) bekezdése vonatkozásában is alapot ad jogsértés megállapítására.
+Mivel pedig az egyezménysértés következményeit a Kúria a kifogásolt határozatában nem vonta le, az Alaptörvény
+III. cikk (1) bekezdésének a megsértése nem csupán megvalósult, hanem tartósan fennáll.
+[7] Az Alaptörvény II. cikkével összefüggésben az indítványozó az alaptörvény-ellenesség indokaként mindössze
+a 144/2008. (XI. 26.) AB határozatra hivatkozott.
+[8] Utalt az indítványozó arra, hogy az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában,
+1950. november 4-én kelt Egyezmény és az ahhoz tartozó nyolc kiegészítő jegyzőkönyv kihirdetéséről szóló
+1993. évi XXXI. törvénnyel az Országgyűlés kihirdette az Egyezményt, amelynek rendelkezései így közvetlenül
+alkalmazandók. A hazai bíróságoknak ezért jogalkalmazó tevékenységük során figyelembe kell venniük
+az Egyezmény előírásait és az EJEB gyakorlatát egyaránt. Azokban az esetekben pedig, amelyekben az Egyezmény
+és az Alaptörvény az alapjog lényegi tartalmát egyezően fogalmazza meg, a bíróságok által nyújtott jogvédelem
+szintje a nemzetközi fórum által biztosított jogvédelem szintjénél nem lehet alacsonyabb. Felhívta ezzel
+összefüggésben az indítványozó a 61/2011. (VII. 13.) AB határozat azon megállapítását, amely szerint a „pacta
+sunt servanda elvéből [Alkotmány 7. § (1) bekezdés, Alaptörvény Q) cikk (2)–(3) bekezdés] következően
+tehát az Alkotmánybíróságnak akkor is követnie kell a strasbourgi joggyakorlatot, az abban meghatározott
+alapjogvédelmi szintet, ha saját megelőző, »precedens-határozataiból« ez kényszerűen nem következne”.
+Hivatkozott továbbá a 6/2014. (II. 26.) AB határozat indokolásának [29] bekezdésére, amelynek értelmében
+„[a]z Alaptörvény Q) cikk (2) bekezdése azt a kötelezettséget rója az államra, hogy nemzetközi jogi
+kötelezettségeinek teljesítése érdekében biztosítsa a nemzetközi jog és a magyar jog összhangját”.
+[9] Röviden utalt az indítványozó az EJEB azon megállapításaira, amelyeket a Vinter és mások kontra Egyesült Királyság
+([GC] 66069/09, 130/10, 3896/10, 2013. július 9.), a Magyar László kontra Magyarország (73593/10, 2014. október 13.),
+valamint a Murray kontra Hollandia ([GC] 10511/10, 2016. április 26.) döntéseiben tett. Felhívta rá a figyelmet, hogy
+ezen megállapításokra az EJEB az indítványozó által kezdeményezett ügyben hozott határozatában is hivatkozott.
+[10] Az Alaptörvény XXVIII. cikk (1) és (7) bekezdésének a megsértését az indítványozó azért tartotta megállapíthatónak,
+mert az ellene folytatott büntetőeljárásban az EJEB döntését követően sem született egyezménysértést már nem
+magában rejtő határozat. Megítélése szerint a Kúriának törvényi kötelezettsége volt, hogy az EJEB által kimondott
+embertelen és megalázó büntetésből fakadó alapjogsérelmet esetében megszüntesse. Ezen kötelezettségét
+azonban a Kúria nem teljesítette. Ennek következtében pedig a Kúria kifogásolt határozata az indítványozó
+tisztességes eljáráshoz és jogorvoslathoz való jogainak a sérelmét idézte elő. Az indítványozó álláspontja szerint
+az akkor hatályos büntetőeljárási törvény, a régi Be. 427. § (3) bekezdése és 428. § (4) bekezdése értelmében a Kúria
+csak abban dönthetett volna, hogy maga hozza meg az Egyezménynek megfelelő határozatot, vagy elrendeli
+az eljárás megismétlését.
+[11] Kifejtette továbbá az indítványozó azon álláspontját is, hogy a 3/2015. Büntető jogegységi határozat
+(a továbbiakban: BJE), amelyet a Kúria az eljárásban irányadónak tekintett, nem áll összhangban az EJEB által
+lefektetett követelményrendszerrel. Utalt rá, hogy a BJE egyik érve, hogy a jogalkotó a büntetések, az intézkedések,
+egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény
+(a továbbiakban: Bv. tv.) rendelkezései közé beiktatta a feltételes szabadságra bocsátás lehetőségéből kizárt,
+életfogytig tartó szabadságvesztésre ítéltek kötelező kegyelmi eljárását. Az EJEB ugyanakkor az indítványozó
+ügyében hozott döntésében éppen ezen rendelkezésekkel kapcsolatosan fogalmazta meg aggályait, és
+látta indokoltnak az egyezménysértés megállapítását.
+[12] Az Alaptörvény XXVIII. cikk (1) és (7) bekezdésének a megsértését tehát az indítványozó azért tekintette
+megállapíthatónak, mert a jogerős bírósági határozat egyezmény- és alaptörvény-ellenességét a Kúria nem
+szüntette meg, ezáltal megfosztotta őt a tényleges jogorvoslás lehetőségétől. Ezen felül a Kúria a végzésében olyan
+jogszabályi rendelkezésekre hivatkozott, amelyeket az EJEB a vizsgálata során az Egyezmény rendelkezéseivel
+ellentétesnek minősített.
+[13] A kúriai határozat alaptörvény-ellenességét az Alaptörvény XXVIII. cikk (1) bekezdése alapján az indítványozó azon
+az alapon is megállapíthatónak tartotta, hogy a döntéshozatalban két olyan bíró is részt vett, akik a BJE-t megalkotó
+jogegységi tanácsnak is a tagjai voltak.
+
+[14] Végül kifejtette az indítványozó, hogy ugyan nem jogosult arra, hogy a régi Btk. 47/A. §-a, valamint a Bv. tv.
+46/A–46/H. §-ai alkotmányossági vizsgálatát kezdeményezze, de indokoltnak tartja, hogy azt az Alkotmánybíróság
+hivatalból eljárva elvégezze.
+[15] 2. Az Alkotmánybíróság eljárása során – szakmai álláspontjának kifejtése céljából – megkereste az igazságügyért
+felelős minisztert.
+II.
+[16] 1. Az Alaptörvénynek az indítvánnyal érintett rendelkezései:
+„II. cikk Az emberi méltóság sérthetetlen. Minden embernek joga van az élethez és az emberi méltósághoz,
+a magzat életét a fogantatástól kezdve védelem illeti meg.”
+„III. cikk (1) Senkit nem lehet kínzásnak, embertelen, megalázó bánásmódnak vagy büntetésnek alávetni, valamint
+szolgaságban tartani. Tilos az emberkereskedelem.”
+„XXVIII. cikk (1) Mindenkinek joga van ahhoz, hogy az ellene emelt bármely vádat vagy valamely perben a jogait és
+kötelezettségeit törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű
+határidőn belül bírálja el.
+[…]
+(7) Mindenkinek joga van ahhoz, hogy jogorvoslattal éljen az olyan bírósági, hatósági és más közigazgatási döntés
+ellen, amely a jogát vagy jogos érdekét sérti.”
+[17] 2. A Bv. tv. érintett rendelkezései:
+„A feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek kötelező
+kegyelmi eljárása
+46/A. § (1) A feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítélt
+esetében e törvény rendelkezései alapján hivatalból kegyelmi eljárást kell lefolytatni.
+(2) A kötelező kegyelmi eljárás lefolytatása nem zárja ki annak a lehetőségét, hogy a feltételes szabadságra bocsátás
+lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítélt vagy az arra jogosult más személy az általános
+szabályok szerint kegyelmi kérelmet nyújtson be vagy az arra jogosult hivatalból kegyelmi eljárást kezdeményezzen.
+46/B. § (1) Az elítéltet fogva tartó bv. intézet értesíti az igazságügyért felelős minisztert, ha az elítélt
+a szabadságvesztésből negyven évet kitöltött.
+(2) A bv. intézet az (1) bekezdés szerinti értesítést megelőzően nyilatkoztatja az elítéltet arról, hogy a kötelező
+kegyelmi eljárás lefolytatásához hozzájárul-e. Az (1) bekezdés szerinti értesítéshez az elítélt hozzájáruló
+nyilatkozatát, a hozzájárulás megtagadásáról szóló nyilatkozatát, vagy ha az elítélt a nyilatkozattételt megtagadja,
+az erről kiállított jegyzőkönyvet mellékelni kell.
+(3) Az elítélt hozzájárulásának hiánya esetén, vagy ha az elítélt a nyilatkozattételt megtagadja, a kötelező kegyelmi
+eljárás nem folytatható le.
+(4) Az (1) bekezdésben meghatározott időtartam számításakor a szabadságvesztésbe a Btk. 92–92/B. §-a alapján
+beszámított időt figyelembe kell venni.
+46/C. § Az igazságügyért felelős miniszter – a 46/B. § szerinti értesítés beérkezésétől számított hatvan napon belül –
+a 46. § (2) bekezdése szerint beszerzi a kötelező kegyelmi eljárás lefolytatásához szükséges személyes adatokat,
+illetve a 17. § szerinti megkeresés szabályai szerint beszerzi a kötelező kegyelmi eljárás lefolytatásához szükséges,
+a kegyelmi ügyben hozott döntéshozatal során megvizsgálandó előkészítő iratokat, különösen
+a) a bv. intézet által összeállított,
+aa) az elítéltről készült kockázatértékelési összefoglaló jelentést,
+ab) az elítélt biztonsági kockázati besorolásával kapcsolatos iratokat,
+ac) az elítéltről készült értékelő véleményeket,
+ad) az elítélttel szemben indított fegyelmi eljárásokkal kapcsolatos iratokat,
+ae) az elítélt egészségi állapotára vonatkozó dokumentációt, ideértve az elítélt mentális állapotára vonatkozó
+szakorvosi és pszichológusi véleményeket is;
+b) az elítélttel szemben folyamatban volt büntetőeljárás ügyiratait;
+c) a büntetés-végrehajtási pártfogó felügyelő által, az elítélt befogadó környezetéről készített környezettanulmányt;
+d) – ha az elítélt a bv. intézetet arról tájékoztatja, hogy szabadulása esetén foglalkoztatása biztosított lesz –
+a munkáltató által kiadott foglalkoztatási nyilatkozatot.
+
+46/D. § (1) Az igazságügyért felelős miniszter – legkésőbb a 46/B. § szerinti értesítés beérkezésétől számított
+három napon belül – értesíti a Kúria elnökét a kötelező kegyelmi eljárás megkezdéséről.
+(2) A Kegyelmi Bizottság öttagú, a kötelező kegyelmi eljárásban közreműködő testület.
+(3) A Kegyelmi Bizottság eseti jelleggel, tagjainak kijelölésétől a Kegyelmi Bizottság állásfoglalásának
+az igazságügyért felelős miniszternek történő megküldéséig működik.
+(4) A Kegyelmi Bizottság tagjait az (1) bekezdés szerinti értesítést követően haladéktalanul a Kúria elnöke jelöli ki
+a Kúria büntető kollégiumának javaslata alapján. A Kegyelmi Bizottság tagjává a Kúrián vagy az ítélőtáblán
+büntetőügyekben eljáró bíró jelölhető ki. A kijelöléshez a bíró hozzájárulása szükséges.
+(5) A Kegyelmi Bizottság tagjává nem jelölhető ki olyan bíró, aki
+a) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során
+bíróként eljárt,
+b) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során
+ügyészként, illetve az NVVH tagjaként eljárt,
+c) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben a nyomozó hatóság tagjaként eljárt,
+d) az elítélt hozzátartozója,
+e) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügy sértettje vagy a sértett hozzátartozója.
+46/E. § (1) Az Alaptörvény 26. cikk (1) bekezdése szerinti követelmények a Kegyelmi Bizottság tagjaként történő
+eljárásra is kiterjednek.
+(2) A Kegyelmi Bizottság a döntéseit szótöbbséggel hozza meg.
+(3) A Kegyelmi Bizottság saját tagjai közül elnököt választ. Az elnököt akadályoztatása esetén a Kegyelmi
+Bizottságnak az elnök által kijelölt tagja teljes jogkörben helyettesíti.
+46/F. § (1) Az igazságügyért felelős miniszter a 46/C. § szerinti határidőben beszerzett iratokat a rendelkezésre
+bocsátásukat követő nyolc napon belül megküldi a Kegyelmi Bizottság részére.
+(2) A Kegyelmi Bizottság a 46/C. § szerint beszerzett iratok beérkezését követő kilencven napon belül megvizsgálja,
+hogy
+a) az elítéltnek a büntetés végrehajtása alatt tanúsított kifogástalan magatartására, valamint arra a készségére
+tekintettel, hogy törvénytisztelő életmódot fog folytatni, illetve
+b) az elítélt személyi vagy családi körülményeire, valamint az egészségi állapotára tekintettel
+alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás nélkül is elérhető.
+(3) A Kegyelmi Bizottság a 17. § szerinti megkeresés szabályai szerint, illetve a 46. § (2) bekezdése alkalmazásával
+a kötelező kegyelmi eljárás lefolytatásához szükséges további adatokat és iratokat szerezhet be.
+(4) A Kegyelmi Bizottság eljárása során bármely, a vizsgálat során lényegesnek minősülő szakkérdésben megfelelő
+szakértelemmel rendelkező személy közreműködését veheti igénybe vagy meghatározott szakkérdésben
+állásfoglalást kérhet. Az elítélt mentális állapotára vonatkozóan a Kegyelmi Bizottság köteles szakorvos vagy
+pszichológus szakértő közreműködését igénybe venni. A felkért szakértő az eljárás során beszerzett iratokat,
+adatokat megismerheti. A felkért szakértő eljárásának a költségeit az állam viseli.
+(5) A Kegyelmi Bizottság az elítéltet az eljárása során meghallgatja.
+(6) A Kegyelmi Bizottság a (2) bekezdés szerinti vizsgálat alapján indokolt állásfoglalást fogad el, amely a kegyelem
+gyakorlásával kapcsolatos javaslatot is tartalmaz.
+(7) A Kegyelmi Bizottság az indokolt állásfoglalást, valamint a vizsgálata során beérkezett iratokat, beszerzett
+adatokat, illetve a szakértői véleményeket megküldi az igazságügyért felelős miniszternek.
+46/G. § (1) A Kegyelmi Bizottság állásfoglalásától az igazságügyért felelős miniszter nem térhet el. Az igazságügyért
+felelős miniszter a Kegyelmi Bizottság állásfoglalásában szereplő tartalommal készíti el a köztársasági elnök részére
+a felterjesztést, amely az állásfoglalás indokolását is tartalmazza.
+(2) Az igazságügyért felelős miniszter a felterjesztést a Kegyelmi Bizottság állásfoglalásának a beérkezését követő
+tizenöt napon belül megküldi a köztársasági elnöknek.
+(3) Az igazságügyért felelős miniszter a felterjesztést az elítéltet fogva tartó bv. intézet útján megküldi
+az elítéltnek is.
+(4) A kegyelmi döntésről szóló határozat, illetve a kegyelmi eljárás befejezéséről szóló tájékoztatás kézbesítésére
+a 46. § (4)–(11) bekezdését megfelelően alkalmazni kell.
+46/H. § Ha a kötelező kegyelmi eljárás anélkül zárult le, hogy az elítélt kegyelemben részesült volna, és
+az elítélt továbbra is életfogytig tartó szabadságvesztését tölti, a kötelező kegyelmi eljárás lezárultát követően
+két év elteltével a kötelező kegyelmi eljárást ismételten le kell folytatni.”
+
+III.
+[18] Az Alkotmánybíróság az Abtv. 56. § (1) bekezdése alapján mindenekelőtt azt vizsgálta, hogy az alkotmányjogi
+panasz alkalmas-e érdemi vizsgálatra, vagyis megfelel-e az Abtv.-ben foglalt, a panaszok befogadhatóságára
+vonatkozó törvényi feltételeknek.
+[19] 1. Az Abtv. 30. § (1) bekezdése értelmében az alkotmányjogi panaszt a sérelmezett döntés kézbesítésétől számított
+hatvan napon belül kell benyújtani az ügyben első fokon eljáró bírósághoz címezve. A bíróság tájékoztatása szerint
+a Kúria döntésének kézbesítését igazoló tértivevény nem áll rendelkezésre, míg az indítványozó úgy nyilatkozott,
+hogy a támadott döntést 2017. november 7-én vette át. Az alkotmányjogi panaszt az indítványozó a fentiekre
+figyelemmel 2017. december 21-én, határidőben adta postára.
+[20] 2. Az Abtv. 27. §-a értelmében alkotmányjogi panaszt az ügy érdemében hozott döntés vagy a bírósági eljárást
+befejező egyéb döntés ellen lehet előterjeszteni. Ennek a feltételnek megfelel a Kúria Bfv.III.914/2017/13. számú
+végzése, amely az indítványozó jogi képviselője által kezdeményezett felülvizsgálati eljárásban született. Egyúttal
+azt is megállapította az Alkotmánybíróság, hogy az indítványozó az ügyében a rendelkezésre álló jogorvoslati
+lehetőségeket kimerítette. Ezért az alkotmányjogi panasz megfelel az Abtv. 27. §-ában e körben előírt feltételnek is.
+[21] 3. Az Alkotmánybíróság szerint az indítványozó az Abtv. 27. §-a, illetve az Abtv. 51. § (1) bekezdése szerint az egyedi
+ügyben érintett és alkotmányjogi panasz előterjesztésére jogosult személynek tekinthető.
+[22] 4. A Kúria támadott végzését érintő indítványozói kifogások kapcsán az Alkotmánybíróság megállapította azt is,
+hogy megfelelnek az Abtv. 52. §-ából a határozott kérelem tekintetében fakadó követelményeknek. Az indítvány
+megjelöli az Alkotmánybíróság hatáskörét megalapozó törvényi rendelkezést (az Abtv. 27. §-át) és az Alaptörvény
+sérülni vélt rendelkezéseit [II. cikk; III. cikk (1) bekezdés; XXVIII. cikk (1) és (7) bekezdés], valamint az Alaptörvényben
+biztosított jog sérelmének lényegét. Meghatározza az Alkotmánybíróság által vizsgálandó konkrét bírói végzést
+(a Kúria Bfv.III.914/2017/13. számú végzése), és kifejezett kérelmet fogalmaz meg a megsemmisítésére. Megfelelő
+indokolást tartalmaz továbbá az indítvány arra vonatkozóan, hogy az Alaptörvény egyes felhívott rendelkezéseit
+a megsemmisíteni kért döntés miért és mennyiben sérti.
+[23] 5. Az Abtv. 29. §-a alapján az indítvány érdemi vizsgálatának további feltétele, hogy az alkotmányjogi panasz
+a bírói döntést érdemben befolyásoló alaptörvény-ellenesség lehetőségét vagy alapvető alkotmányjogi
+jelentőségű kérdést vessen fel. E két feltétel alternatív jellegű, így az egyik fennállása önmagában is megalapozza
+az Alkotmánybíróság érdemi eljárását {erről lásd: 3/2013. (II. 14.) AB határozat, Indokolás [30], illetve 34/2013. (XI. 22.)
+AB határozat, Indokolás [18]}. A feltételek meglétének a vizsgálata az Alkotmánybíróság mérlegelési jogkörébe tartozik.
+[24] A befogadhatóság e törvényi feltételével összefüggésben az Alkotmánybíróság elsőként arra emlékeztet, hogy
+a bírói döntéssel szemben benyújtott alkotmányjogi panasz intézményén keresztül is az Alaptörvényt és az abban
+elismert jogokat oltalmazhatja {3325/2012. (XI. 12.) AB végzés, Indokolás [13]}. Vagyis az Alkotmánybíróság
+a bírói döntések felülvizsgálata során is az Alaptörvényben elismert alapjogi követelményrendszer tényleges
+érvényesülését garantálja {erről lásd például: 8/2013. (III. 1.) AB határozat, Indokolás [55]}.
+[25] Jelen esetben az indítványozó a Kúria Bfv.III.914/2017/13. számú végzésének az alaptörvény-ellenességét
+állította, amelyet elsősorban a következőkkel indokolt. Az EJEB 2016. október 4-én kihirdetett és
+2017. március 6-án véglegessé vált T. P. és A. T. kontra Magyarország határozatában megállapította, hogy
+az indítványozó elleni büntetőeljárásban hozott jogerős határozat az indítványozót érintően az Egyezmény
+3. cikkének a sérelmét idézte elő. Az indítványozó jogi képviselője által az EJEB döntésére figyelemmel ezt követően
+előterjesztett felülvizsgálati indítványt a Kúria 2017. szeptember 19-én kelt, Bfv.III.914/2017/13. számú végzésével
+elutasította.
+[26] Az indítványozó álláspontja szerint az EJEB által megállapított jogsérelem az Alaptörvény III. cikk (1) bekezdése,
+valamint II. cikke vonatkozásában is alapot ad a jogsértés megállapítására. Mivel pedig az egyezménysértés
+következményeit a Kúria a kifogásolt határozatában nem vonta le megfelelően, az alapjogi sérelem nem csupán
+megvalósult, hanem tartósan fennáll.
+[27] Az Alaptörvény XXVIII. cikk (1) és (7) bekezdésének a megsértését az indítványozó azért tekintette
+megállapíthatónak, mert a jogerős bírósági határozat egyezmény- és alaptörvény-ellenességét a Kúria
+nem szüntette meg. Ezen felül a Kúria a végzésében olyan jogszabályi rendelkezésekre hivatkozott, amelyeket
+az EJEB a vizsgálata során az Egyezmény rendelkezéseivel ellentétesnek minősített.
+
+[28] A befogadhatóság vizsgálata során az Alkotmánybíróság úgy ítélte meg, hogy az indítványozó ezen kifogásai
+alapvető alkotmányjogi jelentőségű kérdést, valamint a bírói döntést érdemben befolyásoló alaptörvény-ellenesség
+lehetőségét is felvetik.
+[29] Az Alkotmánybíróság alapvető alkotmányjogi jelentőségű kérdésnek tekintette, hogy megvalósítja-e
+az indítványozó emberi méltósághoz való jogának és a kínzás, embertelen, megalázó bánásmód vagy büntetés
+tilalmának a sérelmét a tényleges életfogytig tartó szabadságvesztés büntetése. Az adott szankció alkalmazása
+következtében felmerül továbbá az indítványozó ügyében hozott és az indítványban támadott bírósági határozat
+alaptörvény-ellenességének a lehetősége is.
+[30] 6. Az Ügyrend 31. § (6) bekezdése lehetővé teszi, hogy az előadó alkotmánybíró a panasz befogadásáról szóló
+döntés helyett a panasz érdemi elbírálását tartalmazó határozattervezetet terjesszen a testület elé. Jelen ügyben
+az Alkotmánybíróság a hivatkozott rendelkezés alkalmazásával járt el, és az indítvány befogadásáról, valamint
+a panasz érdemi elbírálásáról egyszerre döntött.
+IV.
+[31] 1. Az Alkotmánybíróság az indítvány vizsgálata során áttekintette az indítványozó esetében alkalmazott szankció,
+az életfogytig tartó szabadságvesztés jogintézményi történetét, valamint alkalmazásának a hatályos szabályait
+és tapasztalatait. Összefoglalta a hazánkkal szemben fennálló nemzetközi követelményrendszer történetét és
+elemeit. Végül pedig mindezekre figyelemmel végezte el annak vizsgálatát, hogy az indítványozó esetében az első-
+és másodfokú bíróságok által alkalmazott, majd a támadott bírósági határozatban fenntartott jogkövetkezmény
+alkalmazására az Alaptörvény rendelkezéseivel összhangban került-e sor.
+[32] 2. A konkrét jogkövetkezmény vizsgálatát megelőzően az Alkotmánybíróság a büntetőjogi tárgyú határozataiban
+következetesen hangsúlyozott, alábbi megállapításait emeli ki. A büntetőjog a jogi felelősségi rendszerben
+az ultima ratio és a büntetőjogi jogkövetkezmény az emberi jogokat, szabadságokat szükségképpen,
+rendeltetésénél fogva korlátozza {4/2013. (II 21.) AB határozat, Indokolás [57]; 20/2013. (VII. 19.) AB határozat,
+Indokolás [34]}. Az adott magatartás büntetendővé nyilvánításával szemben támasztható követelményeket
+(szükségesség-arányosság tesztje, normavilágosság és az önkényes jogértelmezés lehetőségének kizárása) pedig
+az Alkotmánybíróság a büntetőjogi szankció vonatkozásában is érvényesnek tekinti. [Részletesen: pl. 47/2000. (XII. 14.)
+AB határozat, ABH 2000. 377., 380.; 13/2001. (V. 14.) AB határozat, ABK 2001. május, 226., 238.]
+[33] A Btk. rendszerében a törvényhozó az általános részben állapítja meg az egyes büntetési nemekre és intézkedésekre
+vonatkozó fő szabályokat, az azokban rejlő joghátrány jellegét, azok generális minimumait és maximumait, és
+részben az alkalmazhatóságuk körét és feltételeit is. Ugyanitt kerül sor a büntetés kiszabása során figyelembe
+veendő, a bűncselekményhez vagy az elkövető személyéhez tapadó, büntetőjogilag releváns egyes körülmények
+körülírására. A törvény különös részében, az egyes különös részi törvényi tényállásokhoz kapcsolódóan
+a bűncselekmények súlya szerint határozza meg a jogalkotó az alkalmazható – esetleg vagylagosan választható –
+büntetési nemet, valamint az adott tényálláshoz tapadó speciális szabadságvesztési minimumot és maximumot.
+Erre figyelemmel állapította meg az Alkotmánybíróság, hogy „[a]z egyes bűncselekmények természetéhez és
+súlyához igazodó büntetési rendszer és a büntetéskiszabás normatív előírásai együttesen szolgálják a jogállami
+legális büntetés funkcióját: a szankcióval történő arányos és megérdemelt viszonzást” (1214/B/1990. AB határozat,
+ABH 1995. 571., 576., 577.).
+[34] Az Alkotmánybíróság értelmezésében a büntetéskiszabás büntető törvényben megjelenő szabályai minden
+esetben egy adott büntetőpolitika normatív megtestesülését jelentik. Ezzel összefüggésben fontos kiemelni,
+hogy „[a]z Alkotmánybíróságnak nem feladata a büntetőpolitikai célok, követelmények helyességéről és indokairól,
+így különösen azok célszerűségéről és hatékonyságáról dönteni, azt azonban vizsgálhatja, hogy a büntetéskiszabás
+rendjével kapcsolatos szabályok megállapítására vonatkozó diszkrecionális jogával összefüggésben a jogalkotó
+mérlegelési jogának gyakorlása során nem került-e ellentétbe az Alaptörvény valamely rendelkezésével”
+{23/2014. (VII. 15.) AB határozat, Indokolás [33]–[34]}.
+[35] Az Alkotmánybíróságnak tehát arra van jogosítványa, hogy megállapítsa a büntetőpolitika alkotmányos korlátait
+– anélkül, hogy a büntetőpolitika tartalmáról állást foglalna –, ennek során pedig különös tekintettel legyen
+az alapvető jogok védelmének alkotmányos büntetőjogi garanciáira. Alkotmányjogilag az nem kérdőjelezhető meg,
+hogy egy adott büntetőjogi szankció alkalmas-e a büntetőpolitikai célok elérésére, de a szankció alkalmazása
+jogszabályi feltételeinek az alkotmányossága vizsgálható. A büntetőjogi szankciók az állampolgárok alapvető
+
+jogainak legsúlyosabb korlátozását jelentik, ezért különösen fontos, hogy a büntetőjogi jogkövetkezményeket
+megfelelő garanciák mellett lehessen alkalmazni.
+[36] 3. Az Alkotmánybíróság elsőként az életfogytig tartó szabadságvesztés és annak tényleges, vagyis a feltételes
+szabadság kizárásával alkalmazható módja (a továbbiakban: TÉSZ) hazai történetét és tapasztalatait foglalta össze.
+[37] 3.1. A TÉSZ a büntetőjogi dogmatika szempontjából nem önálló büntetési nem, hanem a szabadságvesztés
+büntetés legsúlyosabb formájának, az életfogytig tartó szabadságvesztésnek a legszigorúbb esete.
+[38] Az életfogytig tartó szabadságvesztés büntetés kiszabásának a lehetősége 1878-ban jelent meg a magyar
+büntetőjogban. A Csemegi-kódex szankciórendszere rögzítette elsőként a büntetés ezen formáját. Két esetben
+zárta ki az életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátást: ha az elítélt külföldi, illetve
+meghatározott bűncselekmények tekintetében visszaeső volt. Ezeket a szabályokat a későbbi szabályozás
+– sem a büntető törvénykönyv általános részéről szóló 1950. évi II. törvény hatálybaléptetéséről rendelkező
+1950. évi 39. számú törvényerejű rendelet, sem az 1961. évi Btk.-t módosító novella – nem vette át, és ilyen szabály
+nem szerepelt a régi Btk.-ban sem 1993-ig. A régi Btk. első néhány évében hatályos szabályok szerint az elítéltet
+15 vagy 20 év elteltével a törvény erejénél fogva feltételes szabadságra bocsátották.
+[39] A régi Btk. eredeti jogszabályszövegéhez fűzött miniszteri indokolás értelmében „a Javaslat humanizmusa
+fejeződik ki abban, hogy az életfogytig tartó szabadságvesztésre ítéltet sem zárja ki a feltételes szabadságra
+bocsátás lehetőségéből. Ennek reménye az elítéltet a büntetés végrehajtása során a helyes magatartásra
+ösztönözheti. E büntetés súlyával azonban az áll összhangban, hogy az elítéltnek hosszú időn át kell kifogástalan
+magatartást tanúsítania. A Javaslat ezért legalább húsz év kitöltése után teszi lehetővé a feltételes szabadságra
+bocsátását.”
+[40] Az életfogytig tartó szabadságvesztés az Alkotmánybíróság 23/1990. (X. 31.) AB határozata, a halálbüntetés eltörlése
+következtében nyert új státuszt. A halálbüntetéssel kapcsolatos büntetőjogi rendelkezések megsemmisítésével
+ugyanis az életfogytig tartó szabadságvesztés lett a szankciórendszer legsúlyosabb büntetési neme. Emlékeztet rá
+az Alkotmánybíróság, hogy a halálbüntetést az Emberi Jogok Európai Egyezménye 6. Kiegészítő Jegyzőkönyvének
+1. cikkére is hivatkozva semmisítette meg.
+[41] A lényeges változást az életfogytig tartó szabadságvesztés szabályozásában az 1993. évi XVII. törvény 6. §-a
+hozta. A módosítás – 1993. május 15-i hatállyal – egyrészről a büntetéskiszabás részeként az ítélkező bíróság
+hatáskörébe utalta a feltételes szabadságra bocsátás legkorábbi időtartamának megállapítását. Másrészről pedig
+kizárta a feltételes szabadságra bocsátás lehetőségét, ha az életfogytig tartó szabadságvesztésre ítéltet ismételten
+életfogytig tartó szabadságvesztésre ítélték.
+[42] Az 1998. évi LXXXVII. törvénnyel – 1999. március 1-jei hatállyal – a jogalkotó ismételten módosította az életfogytig
+tartó szabadságvesztés feltételes szabadságra bocsátással kapcsolatos rendelkezéseit. Az új szabályozás értelmében
+a bíróság – a büntetés kiszabása körében releváns tényezők sokoldalú elemző mérlegelése következtében –
+juthatott arra a következtetésre, hogy az életfogytig tartó szabadságvesztés büntetésre ítéltet a feltételes
+szabadságra bocsátás lehetőségéből kizárja.
+[43] A módosítás következtében a hazai jogrendszer részévé vált az életfogytig tartó szabadságvesztés azon formája,
+amely már a kiszabáskor ténylegesen életfogytig tart. A feltételes szabadságra bocsátás lehetőségének a kizárásával
+életfogytig tartó szabadságvesztésre ítélt szabadítására 1999. március 1-jét követően nem volt törvényes lehetőség,
+egyetlen kivételtől eltekintve: ha a Magyar Köztársaság elnöke végrehajtási kegyelemben részesítette.
+[44] A jogintézmény alkotmányossága szempontjából meghatározó, hogy a 2012. január 1-jén hatályba lépett
+Alaptörvény a IV. cikk (2) bekezdésében rögzítette: tényleges életfogytig tartó szabadságvesztés csak szándékos,
+erőszakos bűncselekmény elkövetése miatt szabható ki. Ezzel párhuzamosan a 2011. évi CL. törvény 6. §-a egy új
+(3) bekezdést iktatott be az életfogytig tartó szabadságvesztés kiszabása esetén a feltételes szabadságra bocsátás
+lehetőségét szabályozó régi Btk. 47/A. §-ába. Abban a jogalkotó meghatározta, hogy a feltételes szabadságra
+bocsátás lehetősége mely bűncselekmények esetén zárható ki. Ez a rendelkezés teremtette meg az összhangot
+a Btk. és az Alaptörvény hivatkozott rendelkezése között.
+[45] 3.2. A Btk. megtartotta a régi Btk. koncepcióját az életfogytig tartó szabadságvesztés fenti szabályait érintően.
+A Btk. 42. §-a alapján az ítélkező bíróság életfogytig tartó szabadságvesztés kiszabása esetén meghatározza
+a feltételes szabadságra bocsátás legkorábbi időpontját, vagy a feltételes szabadságra bocsátás lehetőségét kizárja.
+A Btk. 44. § (1) bekezdése sorolja fel azt a 18 bűncselekményt, amelyeknél életfogytig tartó szabadságvesztés
+kiszabása esetén lehetőség van a feltételes szabadság kizárására. Azt is előírja ugyanakkor a hatályos szabályozás
+– a Btk. 44. § (2) bekezdésében –, hogy ki kell zárni a feltételes szabadságra bocsátás lehetőségét, ha az elkövető
+erőszakos többszörös visszaeső, vagy a – Btk. 44. § (1) bekezdésében meghatározott – bűncselekményt
+
+bűnszervezetben követte el. Hasonló korlátozást a régi Btk. 47. §-a a határozott ideig tartó szabadságvesztésre
+ítéltek feltételes szabadságra bocsátásával összefüggésben tartalmazott.
+[46] A szabályozást érintő újabb változást a 2014. évi LXXII. törvény hozta, amelynek 109. §-a – 2014. december 31-i
+hatállyal – beiktatta a Bv. tv. rendelkezései közé (Bv. tv. 46/A–46/H. §) a feltételes szabadságra bocsátás
+lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek kötelező kegyelmi eljárását.
+[47] A módosító jogszabály normaszöveg-javaslatához fűzött jogalkotói indokolás kiemeli, hogy a kötelező kegyelmi
+eljárás bevezetésével „biztosítja a magyar jogrendszer az Emberi Jogok Európai Bírósága 2014. május 20-án hozott,
+a Magyar kontra Magyarország ügyben hozott ítéletében […] kifejtett azon követelményt, hogy a TÉSZ esetében
+legyen olyan eljárás, amelynek révén – ha a szabadságvesztésből már megfelelő hosszúságú idő eltelt – vizsgálható,
+hogy a büntetés büntetőpolitikai indokai továbbra is fennállnak-e.”
+[48] A Bv. tv. 46/A. §-a értelmében a feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó
+szabadságvesztésre ítélt esetében hivatalból kegyelmi eljárást (a továbbiakban: kötelező kegyelmi eljárás)
+kell lefolytatni. Az elítéltet fogva tartó büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) a kötelező
+kegyelmi eljárás megindítása érdekében akkor értesíti az igazságügyért felelős minisztert, ha az elítélt
+a szabadságvesztésből negyven évet letöltött. Feltétel azonban, hogy az elítélt nyilatkozzon: hozzájárul-e az eljárás
+lefolytatásához. A hozzájárulás hiánya vagy a nyilatkozattétel megtagadása esetén a kötelező kegyelmi eljárás
+nem folytatható le.
+[49] Az igazságügyért felelős miniszter a büntetés-végrehajtási intézet értesítésének a beérkezésétől számított
+hatvan napon belül köteles az eljárást lefolytatni. Annak során beszerzi a döntéshozatalhoz szükséges
+személyes adatokat és a megvizsgálandó iratokat, továbbá értesíti a Kúria elnökét. Utóbbi az értesítést követően
+haladéktalanul intézkedik az öttagú Kegyelmi Bizottság kijelölése iránt.
+[50] A büntetőügyekben eljáró bírókból álló, eseti jellegű Kegyelmi Bizottságnak az iratok beérkezésétől számított
+kilencven napon belül kell megvizsgálnia: alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás
+nélkül is elérhető. A vizsgálati eljárás indokolt állásfoglalással zárul, amelyet a Bizottság az iratokkal együtt megküld
+az igazságügyért felelős miniszternek. Utóbbi az iratok érkeztetésétől számított tizenöt napon belül elkészíti
+a felterjesztését a köztársasági elnöknek. Abban a Kegyelmi Bizottság állásfoglalásától nem térhet el. Mindezeket
+követően a döntést a kegyelemről diszkrecionális jogkörben eljárva a köztársasági elnök hozza meg. Ha az elítélt
+nem részesült kegyelemben, a kötelező kegyelmi eljárást két év elteltével meg kell ismételni.
+[51] Meg kell említeni, hogy a kötelező kegyelmi eljárás eredeti, 2015. január 1-jétől hatályos szabályozásában
+a jogalkotó – visszautalva a kegyelmi eljárás általános szabályaira – az igazságügyért felelős miniszter
+ellenjegyzéséhez kötötte a köztársasági elnök kegyelmi döntését. A szabályozás ezen elemét ugyanakkor
+a jogalkotó – a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel –
+2024. július 1-jétől kiiktatta. Így a köztársasági elnök kegyelmi döntése a hatályos rendelkezések értelmében már
+nincs az igazságügyért felelős miniszter ellenjegyzéséhez kötve a kötelező kegyelmi eljárásban sem.
+[52] 3.3. A köztársasági elnök az egyéni kegyelmezés jogát – Magyarország Alaptörvényének tizenharmadik módosítása
+1. cikk (1) bekezdése alapján, 2024. július 1-jétől – az Alaptörvény 9. cikk (3) bekezdés n) pontja alapján gyakorolja.
+A kegyelmi jogkör gyakorlására irányadó szabályozás nem tesz különbséget az egyéni kegyelmezés jogának
+a kötelező kegyelmi eljárásban és az egyéb esetekben való gyakorlása között, azokkal szemben egységes
+követelményeket támaszt.
+[53] A köztársasági elnök egyéni kegyelmezési joga gyakorlásának – Magyarország Alaptörvényének tizenharmadik
+módosítása 1. cikk (1) bekezdésével, 2024. július 1-jétől – ugyanakkor korlátot is állított az alkotmányozó.
+Az Alaptörvény 9. cikk (8) bekezdése értelmében sarkalatos törvény határozza meg azon, a gyermek sérelmére
+elkövetett szándékos bűncselekmények körét, amelyek tekintetében a köztársasági elnök az egyéni kegyelmezés
+jogát nem gyakorolhatja. Ez a sarkalatos törvény a Btk.
+[54] A Btk. 104. § (3) bekezdése rögzíti, hogy:
+„A köztársasági elnök az egyéni kegyelmezési jogát nem gyakorolhatja azzal az elítélttel szemben, akit
+a) tizennyolcadik életévét betöltött személy által tizennyolcadik életévét be nem töltött személy sérelmére
+elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, vagy
+b) az a) pontban meghatározott bűncselekménnyel vagy az a) pontban meghatározott bűncselekmény miatt
+indult büntetőeljárással összefüggő, tizennyolcadik életévét betöltött személy által elkövetett más szándékos
+bűncselekmény
+miatt ítéltek el.”
+
+[55] A módosítás a kötelező kegyelmi eljárás tekintetében is jelentős változást hozott: meghatározta ugyanis
+azon elítéltek körét, akiknek a köztársasági elnök kötelező kegyelmi eljárás keretében sem kegyelmezhet.
+A köztársasági elnök döntési jogkörének korlátozásával a kötelező kegyelmi eljárás ezen utalt elítélti kör esetében
+– habár megindítható, de – bizonyosan nem zárul kegyelem gyakorlásával.
+[56] 3.4. Az Alkotmánybíróság annak érdekében, hogy az életfogytig tartó szabadságvesztést töltő elítéltekről és
+a büntetéseikről tájékoztatást kapjon, több alkalommal adatkéréssel fordult a büntetés-végrehajtás országos
+parancsnokához. A válaszaiban az országos parancsnok – egyebek mellett – arról nyújtott tájékoztatást,
+hogy az életfogytig tartó szabadságvesztés büntetést töltő elítéltek létszáma 2018. április 17-én 356 fő,
+2021. február 23-án 402 fő, míg 2022. szeptember 7-én 451 fő volt. A 356 főből 56 fő elítélt esetében, a 402 főből
+68 elítélt esetében, míg a 451 főből 73 elítélt esetében zárta ki a bíróság az ítéletben a feltételes szabadságra
+bocsátás lehetőségét, és szabott ki tényleges életfogytig tartó szabadságvesztést. A tájékoztatás értelmében
+továbbá a büntetés-végrehajtási intézetekből 2012. január 1-jét követően elbocsátott tényleges életfogytig tartó
+szabadságvesztés büntetésre ítéltek száma 44 fő volt. A büntetés befejezésének okait tekintve: hatályon kívül
+helyezés 5 fő, fellebbviteli eljárásban kiszabott enyhébb büntetés 30 fő, elhunyt 9 fő. Kegyelemben közülük egyetlen
+elítélt sem részesült.
+[57] 4. Az Alkotmánybíróság a továbbiakban az életfogytig tartó szabadságvesztés jogintézmény fejlődése és megítélése
+szempontjából mérvadó külföldi és nemzetközi jogi követelményeket tekintette át.
+[58] 4.1. A nemzetközi jog több dokumentuma – így például az Európa Tanács és az Európai Unió joganyaga –
+is megfogalmaz az életfogytig tartó szabadságvesztéssel összefüggésben olyan követelményeket, amelyek hatással
+vannak a tagállami szintű szabályozás kialakítására, esetleges változására.
+[59] Az Európa Tanács Miniszteri Bizottsága elsőként 1976-ban fogalmazott meg ajánlást a hosszú tartamú és életfogytig
+tartó szabadságvesztés büntetésüket töltő elítéltek vonatkozásában. A 76 (2) számú ajánlás értelmében minden
+elítélt számára biztosítani kell a feltételes szabadságra bocsátás lehetőségének a vizsgálatát. Az életfogytig tartó
+szabadságvesztésre ítéltek esetében erre a fogva tartás kezdetétől számított 8–14 éven belül kell sort keríteni,
+és a vizsgálatot ezt követően meghatározott időközönként meg kell ismételni. A 2003 (22) számú ajánlásában
+a Miniszteri Bizottság a feltételes szabadságra bocsátás kérdéseit taglalta. Az ajánláshoz csatolt függelék általános
+elvként rögzíti, hogy a feltételes szabadon bocsátás lehetőségét valamennyi fogvatartott számára biztosítani
+kell, beleértve az életfogytig tartó büntetéssel sújtottakat is. További követelmény, hogy az elítélt már a büntetés
+megkezdésekor tisztában lehessen azzal, hogy mely időpontban – milyen tartamú büntetés letöltését követően –
+nyílik meg számára a szabadon bocsátás lehetősége, és annak vizsgálatára milyen feltételek alapján kerül sor.
+[60] A Nemzetközi Büntetőbíróság Statútumának 77. cikk 1. (b) pontja alkalmazható büntetésként nevesíti az életfogytig
+tartó szabadságvesztést olyan esetekben, amikor azt a bűncselekmény különösen nagy súlya és az elkövető egyedi
+körülményei indokolják. A Statútum 110. cikke ugyanakkor előírásként rögzíti a kiszabott életfogytig tartó büntetés
+felülvizsgálatát. Arra a büntetés mérséklése érdekében akkor kerülhet sor, ha az elítélt már legalább 25 évet letöltött
+a büntetéséből.
+[61] Az Európai Unió Tanácsa 2002. június 13-án fogadta el a 2002/584/IB számú kerethatározatot az európai
+elfogatóparancsról és a tagállamok közötti átadási eljárásokról. A kerethatározat 5. cikke lehetőséget biztosít
+a tagállamoknak arra, hogy a más tagállamban kibocsátott európai elfogatóparancs végrehajtását az alábbi
+feltételhez kössék: a kibocsátó tagállam jogrendszere lehetővé teszi a kiszabott büntetés végrehajtásának
+a felfüggesztését célzó felülvizsgálatot. Arra kérelemre vagy legkésőbb 20 éven belül hivatalból sor kell
+hogy kerüljön.
+[62] Kifejezetten a feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó büntetésre ítéltekre irányadó
+szabályt tartalmaz a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény. Az 1991. évi
+LXIV. törvénnyel kihirdetett hivatalos magyar szöveg 37. cikk a) pontja értelmében: az Egyezményben részes
+államok gondoskodnak arról, hogy „gyermeket ne lehessen sem kínzásnak, sem kegyetlen, embertelen, megalázó
+büntetésnek vagy bánásmódnak alávetni. Tizennyolc éven aluli személyek által elkövetett bűncselekményekért
+sem halálbüntetést, sem szabadlábra helyezés lehetőségét kizáró életfogytiglan tartó szabadságvesztést ne legyen
+szabad alkalmazni; […].”
+[63] 4.2. Az életfogytig tartó szabadságvesztés fejlődéstörténetében a nemzetközi követelményeken túl meghatározó
+szerepet játszik a Német Szövetségi Alkotmánybíróság néhány határozata.
+[64] 1977. június 21-i (45 BVerfGE 187). döntésében a testület az életfogytig tartó szabadságvesztés kötelező
+alkalmazásának az alkotmányosságát vizsgálta. A német büntetőjogi szabályozás értelmében ugyanis kötelezően
+alkalmazandó volt az életfogytig tartó szabadságvesztés az emberölés (211. § StGB), az emberölés súlyosabb esetei
+
+[212. § (2) StGB], a népirtás [6. § (1) VStGB], az emberiesség elleni bűntett [7. § (1) VStGB], a személyek halálával járó
+háborús bűncselekmények [8. § (1) VStGB], valamint az agresszió bűncselekménye [13. § (1) VStGB] esetén.
+[65] A határozat megállapította, hogy a büntetés ezen formája önmagában nem alkotmányellenes. Az indokolás
+értelmében ugyanakkor az életfogytig tartó szabadságvesztés csak akkor egyeztethető össze az emberi
+méltósággal, ha az elítéltnek konkrét, realizálható esélye van a szabadon bocsátásra. Sérti az emberi méltóság
+lényegét, ha az elítéltet megfosztják a szabadság visszanyerésének minden reményétől, tekintet nélkül
+személyiségének a jövőbeli fejlődésére, annak esetleges kedvező alakulására. Azon elkövetők esetében ugyanakkor,
+akik fennálló veszélyt jelentenek a társadalomra, és ezért nem is rehabilitálhatók, a személyes körülményeik
+szolgáltatnak alapot arra, hogy a szabadságuk megvonását akár életfogytig fenntartsák. A döntés hangsúlyozta
+továbbá, hogy a kegyelem intézménye nem tekinthető hatékony garanciának a szabadulás reménye szempontjából.
+[66] A döntés következményeként sor került a Német Büntető Törvénykönyv módosítására: lehetővé vált, hogy
+az életfogytig tartó szabadságvesztésre ítélt elítélt büntetésének a végrehajtását a bíróság meghatározott feltételek
+teljesülése – egyebek mellett 15 év szabadságvesztés letöltése – esetén felfüggessze.
+[67] A határozat alkotmányjogi jelentősége abból fakad, hogy megteremtette a lehetőséget az életfogytig tartó
+szabadságvesztés végrehajtásának bíróság általi felfüggesztésére. Ennek következtében az érintett elítéltek
+szabadulására már nem csupán kegyelem révén, hanem a bíróság döntése által is sor kerülhetett.
+[68] Egy következő, 1986-ban hozott határozatában (72 BVerfGE 105) azt hangsúlyozta a Német Szövetségi
+Alkotmánybíróság, hogy az életfogytig tartó szabadságvesztésre ítélt szabadon bocsátásának a mérlegelésekor
+nem szabad túl nagy hangsúlyt helyezni a bűncselekmény súlyosságára, szemben az elítélt személyiségével,
+elmeállapotával és életkorával. Ez utóbbi tényezőknek továbbá minden egyes ismételt felülvizsgálat során egyre
+nagyobb jelentőséget kell tulajdonítani. Ennek oka, hogy a büntetés negatív hatásai egy szokatlanul hosszú
+időtartamú szabadságvesztés esetén egyre erőteljesebben érvényesülnek.
+[69] 2010. január 16-i (BVerfGE, 2 BvR 2299/09 számú) döntésében a Német Szövetségi Alkotmánybíróság egy olyan
+bűnelkövető kiadatási ügyében határozott, akit „minősített életfogytig tartó börtönbüntetéssel” (erschwerte
+lebenslängliche Freiheitsstrafe bis zum Tod) fenyegettek Törökországban. A német kormány biztosítékokat kért arra,
+hogy az elítélt lehetőséget fog kapni a feltételes szabadságra bocsátásra. Németország a kérésre azt a választ kapta,
+hogy a török köztársasági elnöknek joga van a büntetés enyhítésére krónikus betegség, rokkantság vagy idős kor
+okán. Ezt követően a német bíróság megtagadta az elítélt kiadását, mert álláspontja szerint a köztársasági elnök
+fentiek szerinti jogköre a szabadulásnak csupán kiszámíthatatlan lehetőségét biztosítja, így nem kielégítő garancia.
+Jóllehet, a külföldi jogrend tiszteletben tartása követelmény, a bíróság megállapította: ha valakinek nincs gyakorlati
+esélye a szabadulásra, akkor a büntetés kegyetlennek és megalázónak minősül (grausam und erniedrigend),
+és sérti az emberi méltósághoz való jogot.
+[70] 4.3. Az EJEB esetjogában a tényleges életfogytig tartó szabadságvesztés megítélésével összefüggésben
+az elmúlt tíz évben formálódott ítélkezési gyakorlat eredményei az alábbiak szerint foglalhatók össze.
+[71] 4.3.1. Az EJEB megállapításai szempontjából meghatározó jelentőséggel bírnak az Európa Tanács tagországaitól
+kapott információk arról, hogy mely államok alkalmazzák az életfogytig tartó szabadságvesztést, és melyek
+a jogintézmény szabályozásának a főbb sajátosságai. Ezen tényeket az EJEB a Vinter és mások kontra Egyesült
+Királyság (GC) (66069/09, 130/10, 3896/10) ügyben 2013. július 9-én hozott ítéletében foglalta össze.
+[72] Az ítélet megállapítása szerint a 47-ből kilenc tagországban egyáltalán nem létezik életfogytig tartó
+szabadságvesztés: Andorra, Bosznia-Hercegovina, Horvátország, Montenegro, Norvégia, Portugália, San Marino,
+Szerbia és Spanyolország. A szabadságvesztés kiszabható leghosszabb tartama ezekben az országokban
+21 év (Norvégia) és 45 év (Bosznia és Hercegovina) között mozog. Horvátországban bűnhalmazat esetén
+50 év szabadságvesztés is kiszabható.
+[73] A 38 fennmaradó tagország jogi szabályozásának része az életfogytig tartó szabadságvesztés. Ezek közül
+a 2013-as adatszolgáltatás idején 32-ben létezett olyan, tételes jogi és a büntetéskiszabási gyakorlatban kialakult
+mechanizmus, amely a büntetés kitöltésének a megkezdését követő meghatározott időtartam elteltével lehetővé
+tette az ítélet (a kiszabott büntetés) felülvizsgálatát. Ezek: Albánia (25 év), Örményország (20 év), Ausztria
+(15 év), Azerbajdzsán (25 év), Belgium (15 év, de visszaesők esetében 19 vagy 23 év), Bulgária (20 év), Ciprus (12 év),
+Csehország (20 év), Dánia (12 év), Észtország (30 év), Finnország (12 év), Franciaország (18 év, de az emberölés egyes
+eseteiben 30 év), Grúzia (25 év), Németország (15 év), Görögország (20 év), Magyarország (20 év, kivéve, ha a bíróság
+másként határoz), Írország (a Kegyelmi Bizottság 7 évente felülvizsgálja, kivéve az emberölés egyes eseteit),
+Olaszország (26 év), Lettország (25 év), Liechtenstein (15 év), Luxemburg (15 év), Moldova (30 év), Monaco (15 év),
+Lengyelország (25 év), Románia (20 év), Oroszország (25 év), Szlovákia (25 év), Szlovénia (25 év), Svédország (10 év),
+
+Svájc (15 év, ami 10 évre csökkenthető), Macedónia (15 év), Törökország (24 év, 30 év a minősített életfogytig tartó
+szabadságvesztés esetén, 36 év minősített életfogytig tartó szabadságvesztések összbüntetésbe foglalása esetén).
+[74] Az ítélet rögzíti, hogy Skóciában az életfogytig tartó szabadságvesztés kiszabásakor a bíró határozza meg
+a felülvizsgálathoz szükséges minimális várakozási időt, amely a belátása szerinti hosszúságú lehet, esetenként akár
+az elítélt várható élettartamát is túllépheti.
+[75] Öt olyan tagországot jelölt meg továbbá a döntés, amelyben életfogytig tartó szabadságvesztés esetén
+nincs mód a feltételes szabadságra bocsátásra: Izland, Litvánia, Málta, Hollandia és Ukrajna. Ezekben az országokban
+elnöki, királyi vagy miniszteri szintű kegyelemért lehet folyamodni. Izlandot érintően megjegyezte az EJEB,
+hogy az országban ugyan létezik életfogytig tartó szabadságvesztés, de még sosem szabták ki.
+[76] Az Egyesült Királyságon kívül hat olyan tagországot azonosított továbbá az EJEB, ahol létezik ugyan kegyelmi
+rendszer, de bizonyos súlyú bűncselekmények vagy büntetések esetén nem alkalmazható. Ezen az országok:
+Bulgária, Magyarország, Franciaország, Szlovákia, Svájc, valamint Törökország.
+[77] 4.3.2. Az Alkotmánybíróság a továbbiakban áttekintette a jogintézmény megítélése szempontjából meghatározó
+döntések lényeges megállapításait.
+[78] A Kafkaris kontra Ciprus (21906/04) ügyben, 2008. február 12-én hozott ítéletében az EJEB fenntartotta azon
+korábbi álláspontját, amely szerint az életfogytig tartó szabadságvesztés önmagában nem tiltott. Megállapította
+ugyanakkor, hogy amennyiben a büntetés de facto és de jure „csökkenthetetlen” tartamú, sérti az Egyezmény
+3. cikkét. Amennyiben azonban az állam biztosítja az életfogytig tartó szabadságvesztés felülvizsgálatát
+az átváltoztatás, a büntetés-elengedés, a befejezés vagy a feltételes szabadságra bocsátás lehetősége útján,
+akkor a szabályozás megfelel a 3. cikk követelményeinek.
+[79] A Törköly kontra Magyarország (4413/06) ügyben 2011. április 5-én hozott elfogadhatósági határozatban
+azért utasította el az EJEB a kérelmet, mert a kérelmező nem volt megfosztva a szabadulás reményétől.
+Feltételes szabadságra bocsátását ugyanis a bíróság döntése értelmében 40 év után (az elítélt 75 éves korában)
+meg kell vizsgálni. Mivel pedig az indítványozó feltételes szabadságra bocsátása nem volt kizárt, az EJEB
+nem vizsgálta részleteiben a magyar szabályozás egyéb jellemzőit.
+[80] Előbb a Iorgov (II) kontra Bulgária (23295/02) ügyben 2010. szeptember 2-án hozott ítéletében, majd a Vinter és
+mások kontra Egyesült Királyság ([GC], 66069/09, 130/10, 3896/10) ügyben 2013. július 9-én hozott ítéletében
+az EJEB megerősítette, hogy az életfogytig tartó szabadságvesztés akkor tekinthető az Egyezmény 3. cikke
+rendelkezéseivel összhangban állónak, ha a részes állam törvényei biztosítják az elítélt számára a felülvizsgálat
+lehetőségét, valamint azzal együtt a felülvizsgálatra irányuló eljárási mechanizmust. Az EJEB értelmezésében
+ugyanis a fogvatartás akkor minősül jogszerűnek, ha annak alapjául megfelelő pönológiai indokok szolgálnak.
+Ilyen indoknak tekinthető a büntetés, az elrettentés, a társadalom védelme és az elkövetők rehabilitációja.
+Ezen indokok közül az ítélet meghozatalakor egyidejűleg több is fennállhat, annak végrehajtása során,
+az idő előrehaladtával azonban az egyes indokok létjogosultsága változik, megkérdőjelezve ezzel a büntetés
+fenntartásának a jogszerűségét. Az életfogytig tartó szabadságvesztés végrehajtása során ezért szükséges ezen
+pönológiai indokok periodikus felülvizsgálata. Kiemelte az EJEB, hogy nincs hatásköre a felülvizsgálatra irányuló
+eljárás szabályainak a kidolgozására. Ezért a részes állam mérlegelési jogkörébe tartozik a döntéshozatal arról, hogy
+a felülvizsgálatot bírói vagy közigazgatási úton biztosítja. Tartózkodott az EJEB továbbá attól is, hogy felülvizsgálat
+időpontját meghatározza. Figyelemmel azonban arra, hogy a releváns nemzetközi jogi szabályok és a részes
+államok gyakorlatának összehasonlító elemzése alapján a büntetés kiszabásától az ítélet felülvizsgálatáig általában
+25 év telik el, a felülvizsgálat elvégzését az EJEB is első alkalommal 25 év után, majd azt követően periodikusan
+tartotta indokoltnak. Hangsúlyozta az EJEB azt is, hogy az életfogytig tartó szabadságvesztésre ítélt személynek
+már az elítélésekor joga van tudni, hogy a szabadlábra kerülése érdekében milyen követelményeket kell teljesítenie,
+valamint azt is, hogy ítéletének a felülvizsgálatára mikor, milyen módon kerülhet sor.
+[81] A 2014. május 20-án hozott, majd 2014. október 13-án véglegessé vált Magyar László kontra Magyarország
+(73593/10) ítéletben az EJEB azon korábbi megállapításából indult ki, amely szerint az életfogytig tartó
+szabadságvesztésnek az Egyezmény 3. cikkével való kompatibilitása a szabadulás lehetőségét megteremtő rendszer
+megléte vagy hiánya alapján vizsgálható. A konkrét ügyben – mivel a feltételes szabadon bocsátás lehetőségéből
+az elítélt eleve ki volt zárva – az EJEB a szabadulás lehetőségét érintően a köztársasági elnöki kegyelem
+szabályozásának és gyakorlatának a vizsgálatát tartotta szükségesnek. Ezen vizsgálat eredményeként kétségbe
+vonta, hogy a panaszossal szemben kiszabott életfogytig tartó szabadságvesztés az Egyezmény 3. cikke értelmében
+mérsékelhető tartamú lenne, ezért megállapította az egyezménysértést. A konkrét ügyben feltárt rendszerbeli
+problémára és a megállapított jogsértés jellegére figyelemmel úgy ítélte meg továbbá az EJEB, hogy az ítélet
+
+megfelelő végrehajtásához az alperes államnak – lehetőleg jogalkotás útján – meg kell reformálnia a tényleges
+életfogytig tartó szabadságvesztés büntetés felülvizsgálatának a rendszerét.
+[82] A Harakchiev és Tolumov kontra Bulgária (15018/11, 61199/12) – 2014. július 8-án hozott, majd 2014. október 8-án
+véglegessé vált – ítéletben az EJEB arra a következtetésre jutott, hogy az életfogytig tartó szabadságvesztés
+büntetés mérséklésére alkalmas eljárási módok hiánya önmagában elegendő alapul szolgál a 3. cikk megsértésének
+a megállapításához.
+[83] A Bodein kontra Franciaország (400410) ügyben 2014. november 13-án hozott ítéletében az EJEB megállapította,
+hogy a francia jogban létezik a bírói felülvizsgálat intézménye, amelynek értelmében a börtönbe vonulást
+követően 30 év elteltével nyílik meg a szabadulás lehetősége. Az EJEB eljárásában igazolást nyert, hogy
+a kérelmező már az ítélet kiszabásakor tisztában lehetett szabadulásának a feltételeivel, a vele szemben támasztott
+követelményekkel. Bodein esetében továbbá a felülvizsgálat 2034-ben, tehát – az előzetes letartóztatás időtartamát
+is számítva – a büntetése 26. évében esedékes. Ezt az időtartamot az EJEB az Egyezmény rendelkezéseivel
+összhangban állónak minősítette, és nem mondta ki a 3. cikk sérelmét. A Bíróság különös súllyal vette figyelembe
+azt a tényt, hogy a felülvizsgálat számítása szempontjából a kezdő időpont a francia jogban magában foglalta
+a szabadságtól való megfosztás bármely formáját, még a tárgyalást megelőző letartóztatást is.
+[84] A jelen alkotmánybírósági eljárás indítványozója és egy további elítélt kérelme alapján eljárva az EJEB
+2016. október 4-én hozott a T. P. és A. T. kontra Magyarország (37871/14 és 73986/14) ügyben döntést, amelyben
+megállapította az EJEE 3. cikkének a megsértését. Az ítélet megállapítása szerint a negyvenéves időszak, amelyet
+a fogvatartottnak le kell töltenie, mielőtt első ízben kegyelmet remélhet, sokkal hosszabb, mint az összehasonlító
+és nemzetközi jogi konszenzus alapján az életfogytiglani szabadságvesztés büntetés garantált felülvizsgálatára
+javasolt maximális időszak. Utalt az EJEB arra is, hogy a korábban – a Magyar László kontra Magyarország ügyben –
+kifejtett álláspontja szerint az elnöki kegyelem nem biztosítja az életfogytiglani börtönbüntetés de facto vagy
+de iure csökkenthetőségét. Önmagában azt a tényt továbbá, hogy a kérelmezők számára csak azt követően lehet
+remény arra, hogy kiszabaduljanak, miután a büntetésükből negyven évet letöltöttek, megfelelő alapnak tekintette
+az EJEB annak megállapítására, hogy az új, 2015-től hatályos magyar szabályozás nem biztosítja a kérelmezők
+életfogytiglani szabadságvesztésének de facto csökkenthetőségét. Az EJEB ezen felül számos aggályát kifejtette
+a Bv. tv. módosításával bevezetett kötelező kegyelmi eljárással kapcsolatban. A határozat megállapításai szerint
+a Bv. tv. 46/C. §-a egyértelműen felsorolja azokat az általános szempontokat, melyeket a Kegyelmi Bizottságnak
+mérlegelnie kell azzal összefüggésben, hogy javasolja-e a fogvatartott feltételes szabadságra bocsátását. Úgy tűnik
+ugyanakkor, hogy ezek a szempontok nem irányadók a köztársasági elnök döntésének a meghozatala során, aki
+minden egyedi ügyben a végső szót mondja ki a szabadon bocsátás tekintetében. Nem szab továbbá határidőt
+az új szabályozás a köztársasági elnök határozatának a meghozatalára, és nem kötelezi sem a köztársasági elnököt,
+sem az igazságügyi minisztert arra, hogy a döntését megindokolja, még abban az esetben sem, ha az ellentétes
+a Kegyelmi Bizottság álláspontjával. A felülvizsgálatra előírt hosszú várakozási idő, valamint az eljárási garanciák
+hiánya miatt az EJEB nem volt meggyőződve arról, hogy a kérelmezők életfogytiglani szabadságvesztés büntetése
+az Egyezmény 3. cikke szempontjából csökkenthetőnek minősül, ezért megállapította az egyezménysértést.
+[85] Ezt követően a Hutchinson kontra Egyesült Királyság ([GC], 57592/08) ügyben 2017. január 17-én hozott döntésben
+foglalta össze az EJEB, hogy az életfogytig tartó szabadságvesztés felülvizsgálatát érintően mely szempontokat
+vizsgálja annak megítélése érdekében, hogy a nemzeti jog összhangban áll-e az EJEE 3. cikkével:
+– a felülvizsgálat természete (bírói vagy közigazgatási út egyaránt elfogadható),
+– a felülvizsgálat hatóköre (a folytatás vagy a megszakítás jogalapja),
+– a felülvizsgálat feltételei (milyen magatartást kell tanúsítania az elítéltnek a szabadulás érdekében),
+– a felülvizsgálat időkerete (a büntetés kiszabásától számított maximum 25 év).
+[86] A Kruchió és Lehóczki kontra Magyarország (43444/15 és 53441/15) ügyben 2020. január 14-én hozott döntésében
+az EJEB a T. P. és A. T. kontra Magyarország ügyben hozott döntésében tett megállapításait idézte fel. Tekintettel
+egyrészt arra, hogy a kötelező kegyelmi eljárás lefolytatására Magyarországon csak 40 év szabadságvesztés
+letöltését követően kerülhet sor, másrészt arra, hogy a kötelező kegyelmi eljárás szabályozásából hiányoznak
+a megfelelő garanciális elemek, az EJEB arra a következtetésre jutott, hogy megvalósult az Egyezmény 3. cikkének
+a megsértése.
+[87] Azonos következtetésre jutott az EJEB a Coman és mások kontra Magyarország (49006/18 és 8 további kérelem)
+ügyben 2023. január 12-én hozott ítéletben, és szintén egyezménysértést állapított meg.
+[88] A Pápics és mások kontra Magyarország (13727/20 és további 15 kérelem) ügyben 2025. március 4-én hozott
+ítéletében az EJEB Második Szekciója tényleges életfogytig tartó szabadságvesztésre ítélt kérvényezők
+sérelmeit vizsgálta, akik azt kifogásolták, hogy a büntetésükből csak 40 év elteltével és a kötelező kegyelmi
+
+eljárás lehetőségével szabadulhatnak. Az EJEB rámutatott: a magyar kormány által az indítványokkal szemben
+előterjesztett érvek hasonlóak voltak azokhoz, amelyeket a T. P. és A. T. kontra Magyarország ügyben az EJEB
+már megvizsgált és elutasított. Új körülmények hiányában az EJEB nem látott indokot arra, hogy eltérjen korábbi
+megállapításaitól, miszerint az olyan életfogytig tartó szabadságvesztések, amelyekre a felperesek panaszt
+emeltek, nem tekinthetők az Egyezmény 3. cikke értelmében csökkenthetőnek. Ezért megállapította az Egyezmény
+3. cikkének a megsértését.
+[89] Az Éberling és mások kontra Magyarország (19002/20 és további 6 kérelem) ügyben 2026. április 14-én hozott
+ítéletében az EJEB azonos következtetésre jutott, mint a Pápics és mások kontra Magyarország ítéletében: a kormány
+új érvei hiányában fenntartotta a korábbi megállapításait a tényleges életfogytig tartó szabadságvesztéssel
+kapcsolatban. Megerősítette ezek közül különösen azt, hogy a köztársasági elnök egyéni kegyelmezési joga
+nem teszi a tényleges életfogytig tartó szabadságvesztést az Egyezmény 3. cikke értelmében csökkenthetővé.
+Az Egyezménynek megfelelő fülvizsgálati mechanizmus hiányában a kérelmezőkre kiszabott büntetést az EJEB
+az Egyezmény 3. cikkét sértőnek minősítette.
+[90] 4.3.3. Az Európa Tanács Miniszteri Bizottsága a Magyar László és mások kontra Magyarország ügyben hozott
+EJEB ítélet végrehajtását vizsgálva 2024. szeptember 19-én, a miniszterhelyettesek 1507. ülésén elfogadott
+ideiglenes állásfoglalásában [CM/ResDH(2024)202] kiemelte: több mint tíz év telt el azóta, hogy a Bíróság
+egyértelműen rámutatott egy olyan rendszerszintű problémára, amely indokolja az életfogytig tartó
+szabadságvesztés felülvizsgálatának reformját; nyolc év telt el azóta, hogy a Bíróság az ezt követően bevezetett
+kötelező kegyelmi eljárást az Egyezménnyel összeegyeztethetetlennek találta; és csaknem három év telt el azóta,
+hogy az első ítélet jogsértést állapított meg az egyszerű (vagyis a nem tényleges) életfogytig tartó szabadságvesztés
+felülvizsgálatát megelőző várakozási időtartam tekintetében. A dokumentum felhívta a figyelmet arra is, hogy
+2025-re és 2026-ra mindkét kategóriába tartozó (azaz a tényleges életfogytiglanra és az egyszerű életfogytiglanra
+ítélt) fogvatartottak között lesz olyan, aki 25 év börtönbüntetést töltött le anélkül, hogy a hazai jogszabályok
+az Egyezmény és a Bíróság ítélkezési gyakorlata által előírtaknak megfelelően „a szabadulás kilátását és
+a felülvizsgálat lehetőségét”biztosították volna számára.
+[91] Minderre figyelemmel tehát az Európa Tanács Miniszteri Bizottsága sürgetőnek tartja az Egyezménnyel ellentétes
+szabályozás korrekcióját és egy egyezménykonform jogalkotói megoldás kidolgozását.
+[92] 4.4. A nemzetközi jogi követelményekkel összefüggésben az Alkotmánybíróság emlékeztet következetes
+gyakorlatára, amely szerint az alapjogok érvényesülésének minimális mércéjeként fogadja el a nemzetközi
+jogvédelmi mechanizmusok által biztosított jogvédelmi szintet {először lásd: 61/2011. (VII. 13.) AB határozat,
+ABH 2011. 290., 321.; megerősítette, többek között: 13/2014. (IV. 18.) AB határozat, Indokolás [33]}. Magyarország
+alávetette magát az európai közrend őrzése, illetve az emberi jogok és szabadságok megóvása érdekében életre
+hívott EJEB joghatóságának, így az Alkotmánybíróság és a jogalkotó számára is irányadó, hogy az EJEB saját
+joggyakorlatában milyen keretek között tekinti elfogadhatónak az életfogytig tartó szabadságvesztés kiszabását, és
+ezen keretek érvényesülését milyen szempontrendszer alapján vizsgálja.
+[93] Emellett figyelemmel volt az Alkotmánybíróság arra, hogy Magyarország nemzetközi jogi kötelezettségvállalásaiból
+fakadó követelmények érvényesítését kívánja meg maga az Alaptörvény is, hiszen a Q) cikk (2) bekezdésében
+kifejezetten előírja: Magyarország nemzetközi jogi kötelezettségeinek teljesítése érdekében biztosítja a nemzetközi
+jog és a magyar jog összhangját.
+V.
+[94] 1. Az indítvány az alábbiak szerint nem megalapozott.
+[95] 1.1. Az indítványozó kifogásait érintően az Alkotmánybíróság hangsúlyozza, hogy „[a] bírói döntések
+alkotmányossági felülvizsgálatát lehetővé tevő alkotmányjogi panasz (Abtv. 27. §) az Alaptörvény 28. cikkének
+érvényesülését szolgáló jogintézmény” {3/2015. (II. 2.) AB határozat, Indokolás [18]; 13/2016. (VII. 18.) AB határozat,
+Indokolás [30]}. Az Alaptörvény 28. cikke megköveteli, hogy a bíróságok a jogalkalmazás során a jogszabályok
+szövegét az Alaptörvénnyel összhangban értelmezzék.„A 28. cikk szerint a jogszabály Alaptörvénnyel összhangban
+történő értelmezése a bíró számára nem csak jog, hanem kifejezett kötelesség: amennyiben a bíró a jogszabály
+szövegét az értelmezés segítségével az Alaptörvénnyel összhangban tudja alkalmazni, annyiban ennek megfelelően
+köteles eljárni”{28/2013. (X. 9.) AB határozat, Indokolás [29]}.
+[96] Az Abtv. 27. §-a szerinti alkotmányjogi panasz alapján az Alkotmánybíróság a bírói döntésben foglalt jogértelmezés
+Alaptörvénnyel való összhangját vizsgálja, azt, hogy a jogszabály alkalmazása során a bíróság az Alaptörvényben
+biztosított jogok alkotmányos tartalmát érvényre juttatta-e. „Ha a bíróság az előtte fekvő, alapjogilag releváns
+
+ügy alapjogi érintettségére tekintet nélkül járt el, és az általa kialakított jogértelmezés nem áll összhangban
+e jog alkotmányos tartalmával, akkor a meghozott bírói döntés alaptörvény-ellenes” {3/2015. (II. 2.) AB határozat,
+Indokolás [18]; 13/2016. (VII. 18.) AB határozat, Indokolás [30]}. Az Abtv. 27. §-a szerinti alkotmányjogi panasznak
+az Alkotmánybíróság tehát akkor ad helyt, ha a bírósági jogértelmezés és jogalkalmazás egyértelmű következménye
+valamely Alaptörvényben biztosított jog sérelme.
+[97] Jelen – az Abtv. 27. §-ára alapított – alkotmányjogi panaszeljárásban az Alkotmánybíróság azt vizsgálhatta, hogy
+a konkrét bírósági jogértelmezés és jogalkalmazás megvalósítja-e az életfogytig tartó szabadságvesztéssel
+büntetett és a feltételes szabadság lehetőségéből kizárt indítványozó emberi méltósághoz való jogának és a kínzás,
+embertelen, megalázó bánásmód vagy büntetés tilalmának a sérelmét.
+[98] Kiemelt jelentőséget tulajdonított az eljárásban az Alkotmánybíróság annak, hogy az Alaptörvény IV. cikk
+(2) bekezdése kifejezetten megengedi a tényleges életfogytig tartó szabadságvesztés kiszabását szándékos,
+a büntető törvényben meghatározott erőszakos bűncselekmény elkövetése esetén. A rendelkezés a hozzá
+fűzött indokolás értelmében nem zárja ki a szabadságtól való végleges megfosztás lehetőségét, azonban erre
+kizárólag bűncselekmény elkövetése miatt, jogerős bírói ítélet alapján, a szükségességi és arányossági kritériumok
+értelemszerű figyelembevételével kerülhet sor.
+[99] 1.2. Az Alkotmánybíróság az indítványozó kifogásai és az ügyben felmerülő alapvető alkotmányjogi jelentőségű
+kérdés alapján elsősorban az Alaptörvény III. cikkében rögzített kínzás, embertelen, megalázó bánásmód vagy
+büntetés tilalmának a sérelmét tartotta szükségesnek megvizsgálni. Az Alkotmánybíróság ezért felvázolta
+az említett alaptörvényi rendelkezés jelen ügy megítélése szempontjából releváns elemeit.
+[100] Az Alkotmánybíróság több korábbi döntésében állapította meg azt, hogy az abban az eljárásban támadott
+jogszabályhely, valamint az Alkotmány 54. § (2) bekezdésében, illetve az Alaptörvény III. cikk (1) bekezdésében
+meghatározott tilalom – a kínzás, kegyetlen, embertelen, megalázó elbánás vagy büntetés tilalma – között nem áll fenn
+tartalmi összefüggés, így annak alkotmányos tartalmát nem fejtette ki [351/B/2005. AB határozat, 737/B/2000.
+AB határozat, 3222/2018. (VII. 2.) AB határozat], más döntéseiben értékelhető indokolás hiányában nem folytatott
+érdemi vizsgálatot [3018/2016. (II. 2.) AB határozat, 21/2014. (VII. 15.) AB határozat]. A kínzás, embertelen, megalázó
+bánásmód, illetve büntetés abszolút tilalmát kimondó rendelkezés [Alaptörvény III. cikk (1) bekezdés] alkotmányos
+tartalmának részletes kifejtését végül a 32/2014. (XI. 3.) AB határozatban (a továbbiakban: Abh.) végezte el.
+[101] Az Abh.-ban kitért rá, hogy a felsorolt tilalmakat – kiegészítve a kegyetlen bánásmód, illetve büntetés tilalmával –
+korábban az Alkotmány az emberi élethez és méltósághoz való joggal együttesen szabályozta az 54. §-ában. Ennek
+megfelelően a kínzás, embertelen, megalázó bánásmód és büntetés tilalma az emberi élethez és méltósághoz
+való jog, illetve ezen alapjog korlátozhatatlanságának önálló, az alkotmányozó által nevesített megjelenési
+formája volt. Bár az Alaptörvény külön cikkben szabályozza az emberi élethez és méltósághoz való jogot (II. cikk)
+és a kínzás, embertelen, megalázó bánásmód, illetve büntetés tilalmát (III. cikk), az alkotmányozó hatalom
+normaszerkesztési módja csupán formai különállást valósít meg, így az Alkotmánybíróság értelmezésében a III. cikk
+(1) bekezdésében megjelenő tilalmak az emberi élethez és méltósághoz való jog megsértése tilalmának önálló,
+speciális megfogalmazásai is egyben. Ez a felfogás összhangban van az Egyezmény 3. cikkének EJEB által kibontott
+tartalmával is, amely szerint az említett tilalmak megszegése az emberi méltóság sérelmét is jelenti (Indokolás [46]).
+[102] Az Abh.-ban továbbá az Alkotmánybíróság irányadónak tekintette az EJEB gyakorlatát a rendelkezés egyes
+elemeit érintő fogalommeghatározások vonatkozásában az alábbiak szerint. Az Abh. értelmében „[e]mbertelen
+bánásmódnak vagy büntetésnek minősül minden olyan, az érintettnek komoly testi és/vagy lelki szenvedést
+okozó magatartás, amely nem éri el a kínzás megállapításához szükséges mértéket, illetve hiányzik a fentiekben
+említett szándékosság és célzat {Írország kontra Egyesült Királyság (5310/71.), 1978. január 18., 167. bekezdés;
+Ramirez Sanchez kontra Franciaország [GC], (59450/00.), 2006. július 4., 118. bekezdés}.
+[103] A tilalmak közül a megalázó bánásmód vagy büntetés jár a legenyhébb szenvedéssel, az e körben értékelhető
+magatartás jellemzően alsóbbrendűségi érzésben megnyilvánuló lelki gyötrelmet okoz elszenvedőjének. Annak
+megítélésekor, hogy egy bánásmód megalázó-e, figyelembe kell venni azt is, hogy annak célja az érintett személy
+megalázása vagy lealacsonyítása volt-e, és hogy ennek következményeként károsan befolyásolta-e annak
+személyiségét a 3. cikket sértő módon {Raninen kontra Finnország (20972/92.), 1997. december 16., 55. bekezdés;
+Peers kontra Görögország, (28524/95.), 2001. április 19., 68. bekezdés}. Ugyanakkor az EJEB azt is hangsúlyozta,
+hogy az említett szándék hiánya nem feltétlenül zárja ki az Egyezmény 3. cikkének megsértését {Riad és Idiab kontra
+Belgium (29787/03.), 2008. január 24., 95. bekezdés}”(Abh., Indokolás [34]–[36]).
+[104] Az Abh.-ban az Alkotmánybíróság a fenti értelmezés alapján a fogvatartottak büntetés-végrehajtási intézetben
+történő elhelyezésére irányadó szabályok miatt állapította meg az Alaptörvény III. cikkének a megsértését.
+
+[105] Az Abh.-ban az Alkotmánybíróság egyúttal megerősítette korábbi gyakorlatát, miszerint a fogvatartottak
+alapjogaiba „[…] történő beavatkozás jogalapját a büntetőeljárásban meghozott jogerős ítélet teremti meg,
+a tényleges korlátozás, beavatkozás azonban a végrehajtás menetében történik. Az egyének helyzetében
+jogilag ugyan az elítélés, ám ténylegesen a végrehajtás ténye váltja ki az érzékelhető változást” [5/1992. (I. 30.)
+AB határozat, ABH 1992. 27., 31., legutóbb megerősítve: 30/2013. (X. 28.) AB határozat, ABH 2013. 892., 902.].
+A büntetés-végrehajtási jogszabályok alkotmányossági vizsgálatának mércéjéül pedig az Alkotmánybíróság újfent
+általánosságban leszögezte, hogy „[a]z elítélt nem tárgya a büntetés-végrehajtásnak, hanem alanya, akinek jogai és
+kötelezettségei vannak. […] A büntetés-végrehajtás alkotmányos kereteinek szélső értékeit egyrészről az emberi
+méltósághoz, a személyi biztonsághoz való jog, másrészről a kínzásnak, a kegyetlen, embertelen, megalázó
+bánásmódnak és büntetésnek tilalma jelöli ki” [13/2001. (V. 14.) AB határozat, ABH 2001. 177., 193., legutóbb
+megerősítve: 30/2013. (X. 28.) AB határozat, ABH 2013. 892., 902.]. Az Alkotmánybíróság mindezekre figyelemmel
+hangsúlyozza, hogy a kínzás, az embertelen vagy megalázó bánásmód, illetve büntetés tilalmának abszolút
+jellegéből következik, hogy érvényesülését minden esetben – így a fogvatartás végrehajtása során is – biztosítani
+kell (Indokolás [47]–[48]).
+[106] Az Alkotmánybíróság jelen ügyben irányadónak tekintette az Abh.-ban foglaltakat az Alaptörvény III. cikk
+(1) bekezdésének alkotmányos tartalmát érintően. Emellett figyelemmel volt az EJEB-nek az életfogytig tartó
+szabadságvesztéssel kapcsolatos újabb, fentiekben bemutatott döntéseiben foglalt megállapításaira.
+[107] 1.3. Az Alaptörvény III. cikkéből fakadó követelmények vizsgálatában az Alkotmánybíróság különös jelentőséget
+tulajdonított annak is, hogy a TÉSZ az Alaptörvény IV. cikk (2) bekezdéséből fakadóan a hazai büntetőjogi
+szankciórendszer része olyan módon, hogy az életfogytig tartó szabadságvesztés egyik kiszabható formája.
+[108] A büntetőjogi szankció alkotmányos értelemben vett tartalmát és rendeltetését az Alkotmánybíróság
+már a 30/1992. (V. 26.) AB határozatában vizsgálta. Rámutatott, hogy „a különböző életviszonyok, erkölcsi és
+jogi normák védelmében az emberi jogokat és szabadságokat szükségképpen korlátozó büntetőjogi
+eszközrendszert csak a feltétlenül szükséges esetben és arányos mértékben indokolt igénybe venni, akkor,
+ha az alkotmányos vagy az Alkotmányra visszavezethető állami, társadalmi, gazdasági célok, értékek megóvása
+más módon nem lehetséges” (ABH 1992. 167., 176.). Az Alkotmánybíróság értelmezésében tehát a büntetőjogi
+eszközrendszer, jelesül a büntetőjogi jogkövetkezmény az emberi jogokat, szabadságjogokat szükségképpen,
+rendeltetésénél fogva korlátozza (ABH 2002. 85., 90.).
+[109] Minderre figyelemmel az Alkotmánybíróság megállapította, hogy a TÉSZ rendeltetésénél fogva korlátozza az elítélt
+számos alapjogát és egyéb jogait, amely korlátozás akár az elítélt élete végéig is tarthat. Ez ugyanakkor önmagában
+nem teszi a TÉSZ-t alaptörvény-ellenessé. Az Alaptörvény III. cikkében foglalt követelmények annak vizsgálatát
+kívánják meg, hogy a TÉSZ kiszabása a szankcióval szükségszerűen, azzal rendeltetésénél fogva együtt járó
+hátrányokon túl előidéz-e olyan további hátrányt, amely negatív következményként jelentkezik az elítélt oldalán.
+Ezen vizsgálat keretében az Alkotmánybíróság szükségesnek tartotta áttekinteni az adott szankció sajátosságait és
+azok elítéltre gyakorolt hatásait.
+[110] 1.4. A tényleges életfogytig tartó szabadságvesztés sajátosságait érintően az Alkotmánybíróság abból indult ki,
+hogy a TÉSZ az életfogytig tartó szabadságvesztés azon formájával egyetemben, amelyben a feltételes szabadságra
+bocsátás nem kizárt, határozatlan tartamú szankció. Mindkét típusú jogkövetkezmény esetén fennáll annak
+a lehetősége, hogy az elítélt fogvatartása az élete végéig tart. Az életfogytig tartó szabadságvesztés két formájában
+ezért közös, hogy az elítélt alapjogait és egyéb jogait az állam hosszú ideig, akár az elítélt élete végéig korlátozhatja.
+[111] A két jogintézmény között azonban fontos különbség is mutatkozik. Ha a feltételes szabadságra bocsátás nincs
+kizárva, az elítélt bizton számíthat rá, hogy szabadon bocsátását egy adott időpontban megvizsgálják és mérlegelik.
+A bv. bíró a feltételes szabadságra bocsátási eljárásban megvizsgálja: alaposan feltehető-e, hogy a büntetés célja
+további szabadságelvonás nélkül is elérhető. A vizsgálati szempontok a Bv. tv. értelmében különösen az elítélt
+által elkövetett bűncselekményhez, az alkalmazott jogkövetkezményhez és az elítélt fogvatartása során tanúsított
+magatartásához kapcsolódnak, de több szempontból vizsgálja a bv. bíró az elítélt személyiségét, annak változásait is.
+[112] Ehhez képest az életfogytig tartó szabadságvesztés azon eseteiben, amikor a bíróság kizárja a feltételes szabadon
+bocsátás lehetőségét, a szankció rendeltetése az, hogy az elítéltet az élete végéig elzárva, a társadalomból
+kirekesztve lehessen tartani. Felülvizsgálat hiányában az elítéltek ezen köre abban lehet biztos, hogy a fogvatartása
+nem ér véget, a haláláig tart. Felülvizsgálat hiányában továbbá nincs olyan fórum, amely az elítélt fogvatartása során
+tanúsított magatartásának, személyiségének és a személyisége változásainak a fogvatartás kimenetelét érintően
+jelentőséget tulajdonítana. Mindezek legfeljebb az elítélt bv. intézeten belüli elhelyezésére, életkörülményeire
+vannak hatással.
+
+[113] Ilyen esetben az életfogytig tartó szabadságvesztés több, mint jogok gyakorlásától való végleges megfosztás.
+A szabadság elvonásához, a jogok korlátozásához ilyenkor az a kétség társul, hogy az elítélt képes-e vagy
+mennyiben képes arra, hogy a saját életéről rendelkezzen. Ez a kétség pedig abból fakad, hogy az elítélt
+döntéseinek, magatartásának és személyiségének ilyen esetekben nincs érdemi hatása vagy következménye
+az elítélt fogvatartásának a kimenetelére. Bármilyen magatartást tanúsít az elítélt, az a büntetés határozatlan
+tartamán nem változtat. Egyszerűen fogalmazva: felülvizsgálati lehetőség hiányában bármilyen magatartást is
+tanúsít az elítélt, bármilyen pozitív fejlődést is mutat a személyisége, az nem vezet szabaduláshoz.
+[114] Az Alkotmánybíróság a szabályozás ezen sajátossága kapcsán emlékeztet rá, hogy az emberi méltósághoz
+való jog alkotmányos tartalmát elemezve már a 8/1990. (IV. 23.) AB határozatában kimondta, hogy a modern
+alkotmányok, illetve alkotmánybírósági gyakorlat az emberi méltósághoz való jogot különféle aspektusaival
+nevezik meg. Ezek körében említhető az önrendelkezés szabadságához való jog. Ahogyan azt az Alkotmánybíróság
+a 75/1995. (XII. 21.) AB határozatában is megerősítette: „[a]z emberi méltósághoz való jog tehát magában foglalja
+az önrendelkezés szabadságához való alkotmányos alapjogot […]” [ABH 1995. 381.]. Az emberi méltósághoz való
+jog az Alkotmánybíróság megfogalmazásában „azt jelenti, hogy van az egyén autonómiájának, önrendelkezésének
+egy olyan, mindenki más rendelkezése alól kivont magja, amelynél fogva – a klasszikus megfogalmazás szerint –
+az ember alany marad, s nem válhat eszközzé vagy tárggyá. A méltósághoz való jognak ez a felfogása különbözteti
+meg az embert a jogi személyektől, amelyek teljesen szabályozás alá vonhatók, nincs »érinthetetlen« lényegük
+[64/1991. (XII. 17.) AB határozat, ABH 1991. 308–309.].”
+[115] Az önrendelkezési jogot az Alkotmánybíróság tehát az emberi méltóság részeként definiálta mint a döntésre képes
+ember saját teste és sorsa feletti rendelkezési jogát. Az emberi méltóság részeként az önrendelkezési jog azt teszi
+lehetővé, hogy az egyén saját sorsáról rendelkező döntéseket hozzon.
+[116] Következetes az Alkotmánybíróság gyakorlata abban, hogy az önrendelkezési jog – mint a méltósághoz való jog
+részjogosítványa – nem korlátozhatatlan. Az Alkotmánybíróság az önrendelkezéshez való jog korlátozhatóságát
+– hosszú ideje fennálló gyakorlata értelmében – a szükségesség és arányosság mércéje alapján vizsgálja
+[75/1995. (XII. 21.) AB határozat, ABH 1995. 376., 383.]. Alaptörvény-ellenes a korlátozás, ha az azzal elérni kívánt
+cél vagy a korlátozás módja nem felel meg az Alaptörvény I. cikk (3) bekezdése szerinti szükségességi-arányossági
+teszt követelményeinek. Az emberi méltósághoz való jog korlátozása körébe tartozó szabályt rögzít továbbá
+– önállósult formában – az Alaptörvény III. cikk (1) bekezdése is: a kínzás, embertelen, megalázó bánásmód vagy
+büntetés, valamint a szolgaságban tartás és az emberkereskedelem tilalma a korlátozás szélső értékeit jelölik.
+Így az Alaptörvény a III. cikk (1) bekezdésében az emberi méltósághoz való joggal összefüggésben abszolút
+tilalmakat fogalmaz meg. Ezeknek olyan kiemelt jelentőséget tulajdonított az alkotmányozó, amely önálló
+rendelkezésbe foglalásukat is igazolta. Ezt az alkotmányozói szándékot tiszteletben tartva az Alaptörvény III. cikk
+(1) bekezdésében foglalt tilalmak érvényesülésének az Alkotmánybíróság is kiemelt jelentőséget tulajdonít.
+[117] Az Alaptörvény II. cikkének és III. cikk (1) bekezdésének együttes értelmezése alapján az önrendelkezés olyan fokú
+korlátozása, amely az egyént – a szükségesség-arányosság tesztje alapján nem igazolható módon – kiszolgáltatott
+helyzetbe hozza, nemcsak az érintett méltóságát sérti, hanem szélsőséges esetben lealacsonyító, és ennek
+következményeként az érintett személyiségét károsan befolyásoló hatása miatt embertelen bánásmódnak minősül,
+ezért tilos.
+[118] Ilyen szélsőséges esetnek tekinti az Alkotmánybíróság azt, ha az egyén véglegesen és megváltoztathatatlanul meg
+van fosztva attól, hogy a saját sorsát alakítsa, a saját életéről rendelkezzen.
+[119] Az életfogytig tartó szabadságvesztés szabályait és sajátosságait felidézve rámutat az Alkotmánybíróság, hogy
+ilyen szélsőséges helyzet áll elő azon elítéltek esetében, akik vonatkozásában a bíróság kizárta a feltételes szabadon
+bocsátást, amennyiben a szabadulás lehetősége semmilyen egyéb formában sem biztosított. Ilyen esetekben
+az elítélt a büntetés-végrehajtási szervek felügyelete alatt éli le az életét, és a saját sorsa feletti rendelkezés jogától
+egész életére megfosztva marad.
+[120] Megállapította ugyanakkor az Alkotmánybíróság, hogy ez a hatás kiküszöbölhető azáltal, ha a szabályozás
+a fogvatartott döntéseinek (rendelkezésének) a fogvatartás kimenetelét alakító hatást tulajdonít, és bizonyos
+feltételek teljesülése esetére biztosítja az elítélt számára a szabadulás felülvizsgálatának a lehetőségét.
+Ez a lehetőség és a szankció felülvizsgálatának a szempontrendszere ugyanis értéket, jelentőséget képes adni
+az elítélt döntéseinek, ezáltal magatartásának és személyiségfejlődésének. Az Alkotmánybíróság szerint ezt a reális
+esélyt az elítéltnek a szankció szabályozásába épített garanciális rendelkezések képesek biztosítani.
+[121] 1.5. A tényleges életfogytig tartó szabadságvesztés ezen sajátosságát ismerte fel az EJEB, majd az EJEB döntései
+alapján a magyar jogalkotó, és annak hatására döntött úgy, hogy bevezeti a kötelező kegyelmi eljárás fent
+bemutatott rendszerét. Utal rá az Alkotmánybíróság, hogy a jogalkotó – a Bv. tv.-t módosító jogszabályi
+
+rendelkezések normaszöveg-javaslatához fűzött jogalkotói indokolás értelmében – a kötelező kegyelmi eljárás
+szabályozásával kívánta biztosítani a magyar jogrendszerben az EJEB Magyar László kontra Magyarország (73593/10,
+2014. október 13.) ügyben hozott ítéletében kifejtett azon követelményt, hogy a TÉSZ esetében legyen olyan eljárás,
+amelynek révén – ha a szabadságvesztésből már megfelelő hosszúságú idő eltelt – vizsgálható, hogy a büntetés
+büntetőpolitikai indokai továbbra is fennállnak-e. Ennek érdekében rögzíti a szabályozás, hogy a TÉSZ-re ítélt
+személyek esetében különleges, nem kérelemre induló kegyelmi eljárást kell lefolytatni. A jogalkotói indokolás
+kiemeli, hogy a törvény azt is biztosítja, hogy azok az eljárási szabályok, illetve feltételek, szempontok, amelyeket
+a kegyelmi eljárásban vizsgálni kell, már a büntetőügyben hozott ítélet meghozatalakor előreláthatók legyenek.
+[122] A jogalkotó szándéka tehát egyértelmű volt: a kötelező kegyelmi eljárás szabályozása alapján az elítélt számíthat
+a szabadon bocsátása felülvizsgálatára. Az Alkotmánybíróság megállapítása szerint ez a jogalkotói szándék
+az Alaptörvény II. cikkéből fakadó emberi méltósághoz való joggal és az Alaptörvény III. cikk (1) bekezdéséből
+fakadó tilalmakkal is összhangban áll. Ezen jogalkotói szándék érvényesüléséhez ugyanakkor a kötelező kegyelmi
+eljárás Bv. tv.-be iktatott konkrét szabályai adják meg a kereteket. Az Alkotmánybíróság ezért a továbbiakban
+azt megvizsgálta, hogy a TÉSZ hatályos, a kötelező kegyelmi eljárás szabályaival kiegészített szabályozása milyen
+garanciákat foglal magában. Vizsgálta továbbá az Alkotmánybíróság azt is, hogy a szabályozás garanciális elemei
+képesek-e ellensúlyozni a szankcióval szükségszerűen, rendeltetésénél fogva együtt járó hátrányokat, és ezáltal
+biztosítják-e a TÉSZ szabályozásának az Alaptörvénnyel való összhangját.
+[123] 2. A TÉSZ szabályozását érintő vizsgálata során az Alkotmánybíróság élt az Abtv. 28. § (1) bekezdésében biztosított
+lehetőséggel, amelyek értelmében az Abtv. 27. §-ában meghatározott bírói döntés felülvizsgálatára irányuló
+eljárásban az Abtv. 26. §-a szerinti, jogszabály Alaptörvénnyel való összhangját illető vizsgálatot is lefolytathat.
+A továbbiakban tehát az Alkotmánybíróság az alaptörvény-ellenesség vizsgálatát a támadott bírósági döntések
+mellett a bírósági eljárásban alkalmazott jogszabályi rendelkezésekre is kiterjesztette. Az Alkotmánybíróság
+a vizsgálat kiterjesztését azért tartotta szükségesnek, mert a Bv. tv. kötelező kegyelmi eljárást szabályozó
+rendelkezései automatikusan vonatkoznak azokra az elítéltekre – és csak rájuk –, akik esetében a bíróság a Btk.
+42. §-a alapján, életfogytig tartó szabadságvesztés kiszabásával egyidejűleg kizárta a feltételes szabadságra
+bocsátás lehetőségét. Így az indítványozó büntetése, a vele szemben kiszabott TÉSZ Alaptörvénnyel való
+összhangjának a megítélésében is relevánsnak minősülnek a Bv. tv. ezen rendelkezései. Figyelemmel volt
+az Alkotmánybíróság arra is, hogy az indítványozó alapjogi problémáját éppen a megfelelő felülvizsgálati
+mechanizmus hiánya okozza. Ezen az alapon indokolttá válik a jogintézmény rendszerszintű vizsgálata, amely
+szükségszerűvé teszi a kötelező kegyelmi eljárásra vonatkozó jogszabályi rendelkezések alkotmányossági vizsgálatát
+is szoros összefüggés alapján.
+[124] 2.1. A kötelező kegyelmi eljárás megindítására a Bv. tv. értelmében annak következtében kerül sor, hogy az elítéltet
+fogva tartó bv. intézet értesíti az igazságügyért felelős minisztert, ha az elítélt a szabadságvesztésből negyven évet
+kitöltött.
+[125] A büntetés-végrehajtás országos parancsnokának a jelen panaszeljárás keretében nyújtott tájékoztatása
+alapján megállapítható, hogy a tényleges életfogytig tartó szabadságvesztésre ítélt fogvatartottak közel 70%-a
+a 30–49 éves korosztályba tartozik. A nemek arányát tekintve a tájékoztatáskérés időpontjában: 1 nő és
+72 férfi elítélt volt. Figyelemmel volt az Alkotmánybíróság arra, hogy a Központi Statisztikai Hivatal publikált
+számításai értelmében a születéskor várható átlagos élettartam értékei folyamatosan emelkednek. Ez az érték
+2025-ben nők esetében 79,96 év, férfiak esetében 74,13 év volt, míg 1990-ben nők esetében 73,71 év,
+férfiak esetében 65,13 év, 1970-ben pedig nők esetében 72,08 év, férfiak esetében 66,31 év volt.
+[126] Mivel azok a fogvatartottak, akik jelenleg életfogytig tartó szabadságvesztés büntetést töltenek, túlnyomórészt
+1970 és 1990 között születtek, amikor a születéskori várható élettartam a hivatkozott értékek szerinti. Így ezen
+fogvatartotti csoport esetében kevéssé valószínű, hogy esélyük a szabadulás felülvizsgálatára 40 év fogvatartást
+követően reálisnak minősül.
+[127] 2.2. Az Alkotmánybíróság ezt követően a szabályozás azon elemét vizsgálta, amely szerint a kötelező kegyelmi
+eljárást lezáró döntést a kegyelemről a köztársasági elnök a ráruházott diszkrecionális mérlegelési jogkörben eljárva
+hozza meg.
+[128] A Bv. tv. 46/A–46/H. §-aiban rögzített szabályozás, ahogyan arra válaszlevelében az igazságügyi miniszter is
+rámutatott, számos garanciális elemet tartalmaz. Így az elítéltet fogva tartó bv. intézet az eljárás megindítása
+érdekében hivatalból értesíti az igazságügyért felelős minisztert, ha az elítélt a szabadságvesztésből
+negyven évet letöltött, gondoskodik továbbá az elítélt nyilatkozatának a beszerzéséről, amelyben az elítélt
+hozzájárul az eljárás lefolytatásához. Az igazságügyért felelős miniszter a büntetés-végrehajtási intézet értesítésének
+
+a beérkezésétől számított hatvan napon belül köteles az eljárást lefolytatni. Annak keretében be kell szereznie
+a döntéshozatalhoz szükséges személyes adatokat és a megvizsgálandó iratokat, amelyek példálózó felsorolását
+a Bv. tv. rögzíti. Az igazságügyi miniszternek továbbá értesítenie kell a Kúria elnökét, aki azt követően haladéktalanul
+intézkedik az öttagú Kegyelmi Bizottság kijelölése iránt. A Kegyelmi Bizottságnak az iratok beérkezésétől
+számított kilencven napon belül kell megvizsgálnia a szabadon bocsátás lehetőségét, az elítéltet az eljárása során
+meghallgatja. A vizsgálat eredményeként a Kegyelmi Bizottság indokolt állásfoglalást hoz, majd azt az iratokkal
+együtt megküldi az igazságügyért felelős miniszternek. Utóbbi az iratok érkeztetésétől számított tizenöt napon belül
+elkészíti a felterjesztését a köztársasági elnöknek, amelyben a Kegyelmi Bizottság állásfoglalásától nem térhet el.
+Az igazságügyért felelős miniszter a felterjesztést az elítéltet fogva tartó bv. intézet útján megküldi az elítéltnek is.
+[129] A fentiek azt mutatják, hogy a jogalkotó számos garanciát épített a büntetés-végrehajtási intézet, az igazságügyért
+felelős miniszter és a Kegyelmi Bizottság eljárását szabályozó rendelkezésekbe is. Nem tartalmaz ugyanakkor
+garanciális elemet a szabályozás a köztársasági elnök döntését érintően, sőt kifejezetten rendelkezik arról,
+hogy a döntést diszkrecionális jogkörben eljárva hozza meg. Az egyéni kegyelmezés jogának gyakorlása során
+alkalmazandó szempontokra nézve a 181/2024. (VII. 18.) KE határozat ad iránymutatást. A szabályozásban
+ugyanakkor a köztársasági elnök döntésének sem a tartalmára, sem az indokaira, sem a határidejére nincs
+jogszabályi előírás.
+[130] Ennek következtében valamennyi olyan garancia, amelyet a szabályozás a büntetés-végrehajtási intézet, a Kegyelmi
+Bizottság vagy akár az igazságügyért felelős miniszter kapcsán előír, és a kötelező kegyelmi eljárásban a köztársasági
+elnök döntését megelőzően érvényesül, a köztársasági elnök döntésének diszkrecionális jellegéből fakadóan
+jelentőségét veszti. Hiába jár el mind a büntetés-végrehajtási intézet, mind az igazságügyért felelős miniszter, mind
+pedig a Kegyelmi Bizottság az elvárt határidőben, ha a köztársasági elnök a döntését bármikor, akár több év, esetleg
+évtized elteltével is meghozhatja. Hiába gondoskodnak a döntés előkészítése során eljáró szervek a szükséges
+személyes adatok és a megvizsgálandó iratok beszerzéséről, sőt hiába foglal el szakmailag megalapozott álláspontot
+a Kegyelmi Bizottság a szabadon bocsátás indokoltságát érintően, ha ahhoz csak az igazságügyért felelős
+miniszter van kötve az előterjesztésében, és a köztársasági elnök mindezen adatokat, tényeket és körülményeket
+– arra alapot adó indok hiányában – figyelmen kívül hagyhatja a végleges döntés meghozatalakor.
+Ennek következtében nem garantálható az sem, hogy a kötelező kegyelmi eljárásban hozott döntés a legitim
+büntetőpolitikai indokok feltárásán, majd értékelésén, és nem csupán könyörületességi indokokon alapul.
+[131] Az irányadó szabályozás mellett megvizsgálta az Alkotmánybíróság azt is, hogy a köztársasági elnök
+miként gyakorolja az egyéni kegyelmezés jogát, melyek az adott jogkör gyakorlásának a tapasztalatai.
+Megállapította az Alkotmánybíróság, hogy a Sándor-palota weboldalán közzétett hivatalos tájékoztatás szerint
+2024-ben a köztársasági elnök az elé terjesztett 680 kérelem alapján egyetlen esetben sem gyakorolt kegyelmet,
+2025-ben az előterjesztett 689 kérelem alapján a köztársasági elnök 4 esetben gyakorolt kegyelmet, míg
+2026-ban a június 30-ig elé terjesztett 314 kérelem alapján a köztársasági elnök szintén egyetlen esetben
+sem gyakorolt kegyelmet.
+[132] Az Alkotmánybíróság a fentiekre figyelemmel megállapította, hogy a vizsgált szabályozás nélkülözi azon garanciális
+rendelkezéseket, amelyek ismeretében az elítélt a kötelező kegyelmi eljárás eredményeként még életében reálisan
+számíthat a szabadon bocsátása felülvizsgálatára. Garanciák hiányában ezért a kötelező kegyelmi eljárás és azzal
+együtt a tényleges életfogytig tartó szabadságvesztés szabályozása nem áll összhangban az Alaptörvény III. cikk
+(1) bekezdése szerinti tilalmakkal.
+[133] 2.3. Mindezen megállapítások alapján az Alkotmánybíróság az Abtv. 26. §-án alapuló eljárásban arra
+a következtetésre jutott, hogy az indítványozó jelenleg is olyan szabadságvesztés büntetést tölt, amelynek
+végrehajtása során az Alaptörvény III. cikk (1) bekezdéséből fakadó követelmények nem érvényesülnek.
+Az Alkotmánybíróság a fentebb kifejtett azon következetes gyakorlata értelmében továbbá, amely szerint
+az Alaptörvény III. cikk (1) bekezdésében megjelenő tilalmak az emberi élethez és méltósághoz való jog megsértése
+tilalmának önálló, speciális megfogalmazásai is egyben, megállapította az Alaptörvény II. cikkében foglalt emberi
+méltósághoz való jog sérelmét is.
+[134] 3. Az Alkotmánybíróság vizsgálata a továbbiakban az Abtv. 27. §-a alapján a Kúria felülvizsgálati eljárásban hozott
+végzésére irányult. Az Alkotmánybíróság úgy ítélte meg, hogy az alaptörvény-ellenes büntetést az indítványozó
+büntetőügyében első és másodfokon eljáró bíróságok szabták ki jogerősen, majd azt a Kúria a felülvizsgálati
+eljárásban hatályában fenntartotta. Ezáltal a Kúria a végzésében alaptörvény-ellenes büntetés hatályban tartásáról
+rendelkezett. Ezzel összefüggésben az indítványozó a Kúria döntésének alaptörvény-ellenességét az Alaptörvény
+III. cikk (1) bekezdése, II. cikke, valamint XXVIII. cikk (1) és (7) bekezdése alapján kérte megállapítani.
+
+[135] Az Abtv. 27. §-a szerinti alkotmányjogi panasznak az Alkotmánybíróság – következetes gyakorlata alapján –
+akkor ad helyt, ha a bírósági jogértelmezés és jogalkalmazás egyértelmű következménye valamely Alaptörvényben
+biztosított jog sérelme.
+[136] Az Alkotmánybíróság a Kúria támadott végzése és az annak alapjául szolgáló jogszabályi környezet vizsgálatával
+megállapította, hogy a Kúriának az irányadó jogszabályi rendelkezések alapján nem volt lehetősége arra, hogy
+az Alaptörvény II. cikkével és III. cikk (1) bekezdésével összhangban álló határozatot hozzon.
+[137] Az indítványozó büntetésének alaptörvény-ellenessége ugyanis a fent kifejtettek értelmében abból fakad, hogy
+a jogalkotó nem az Alaptörvény II. cikkével és III. cikk (1) bekezdésével összhangban szabályozta a feltételes
+szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek kötelező kegyelmi eljárását
+a Bv. tv. 46/A–46/H. §-aiban. Az indítványozó büntetése azért sérti az Alaptörvény felhívott rendelkezéseit, mert
+a Bv. tv. említett szabályai alapján a kötelező kegyelmi eljárás lefolytatására nem minden tényleges életfogytig tartó
+szabadságvesztést töltő elítélt esetében kerül sor, továbbá azért is, mert a kegyelemről a döntést a köztársasági
+elnök olyan szabályozás alapján hozza meg, amely nélkülözi a garanciákat.
+[138] Emlékeztet rá az Alkotmánybíróság, hogy az Abtv. 27. §-a szerinti alkotmányjogi panasznak az Alkotmánybíróság
+akkor ad helyt, ha a bírósági jogértelmezés és jogalkalmazás egyértelmű következménye valamely Alaptörvényben
+biztosított jog sérelme. Mivel azonban a jelen ügyben az irányadó jogszabályi környezet alapján a Kúria nem
+tudott az Alaptörvénynek megfelelő döntést hozni, az Alkotmánybíróság úgy ítélte meg, hogy a konkrét esetben
+nem a bírósági jogértelmezés és jogalkalmazás vezetett az alaptörvény-ellenességhez. Ezért a Kúria támadott
+végzése megsemmisítésére az Alkotmánybíróság nem látott alapot, az indítványozó erre irányuló indítványát
+elutasította.
+[139] Rámutat ugyanakkor az Alkotmánybíróság, hogy a bíró az előtte folyamatban lévő ügyben alkalmazandó
+norma alaptörvény-ellenessége mellett nemzetközi szerződésbe ütközésének a vizsgálatát is kezdeményezheti.
+Az Alkotmánybíróság ezen hatásköre az Alaptörvény 24. cikk (2) bekezdés f) pontján és az Abtv. 32. § (2) bekezdésén
+alapul. Az Alaptörvény hivatkozott rendelkezése értelmében az Alkotmánybíróság „vizsgálja a jogszabályok
+nemzetközi szerződésbe ütközését”. A rendelkezésnek különös súlyt ad, hogy az Alaptörvény egy további, már
+felhívott rendelkezése: a Q) cikk (2) bekezdése ugyanis kifejezetten előírja, hogy Magyarország nemzetközi jogi
+kötelezettségeinek teljesítése érdekében biztosítja a nemzetközi jog és a magyar jog összhangját. Az Abtv. 32. §-a
+ilyen módon a bíró rendelkezésére álló egyetlen eszköz minden olyan esetben, amikor az előtte folyamatban lévő
+eljárásban az alkalmazandó hazai jogszabály nemzetközi szerződésbe ütközését észleli.
+[140] 4. A lefolytatott vizsgálatok eredményeként megállapította az Alkotmánybíróság azt is, hogy az alaptörvény-
+ellenesség a jelen esetben a kötelező kegyelmi eljárás hatályos szabályozásából fakad. A Bv. tv. 46/A–46/H. §-ai
+azért nem képesek garantálni az Alaptörvény II. cikkében foglalt alapjog és III. cikk (1) bekezdésében foglalt
+tilalom érvényesülését, mert a kegyelemről a döntést a köztársasági elnök hozza meg, és azért sem, mert azt olyan
+szabályozás alapján teszi, amely nélkülözi a jogintézmény alkotmányos működése során elvárható garanciákat.
+[141] Az Alkotmánybíróság erre figyelemmel megállapította, hogy a Bv. tv. 46/A–46/H. §-ai az Alaptörvény II. cikkébe és
+III. cikk (1) bekezdésébe ütköző módon alaptörvény-ellenesek, ezért azokat a rendelkező részben foglaltak szerint,
+az Abtv. 41. § (1) bekezdése alapján megsemmisítette.
+[142] Az Alkotmánybíróság szerint az Alaptörvény II. cikkéből és III. cikk (1) bekezdéséből – a fent kifejtettek szerint –
+levezethető egy olyan szabályozás igénye, amely alapján a feltételes szabadságra bocsátás lehetőségéből kizárt
+életfogytig tartó szabadságvesztésre ítélt személyek büntetését megfelelő eljárási garanciák alkalmazásával,
+a büntetéstani szempontok következetes érvényesítésével, minden esetben felülvizsgálják. Egy ilyen szabályozás
+megalkotása a jogalkotó feladata.
+[143] A Bv. tv. 46/A–46/H. §-ai olyan szoros, rendszertani egységet alkotnak, amelyben az egyes rendelkezések tartalmilag
+egymásra épülnek, és kölcsönösen visszautalnak a negyvenévi szabadságvesztés letöltését követő eljárás speciális
+szabályaira. E normák szoros összefüggése folytán a szabályozás részleges megsemmisítése szükségképpen
+megbontaná a jogintézmény belső koherenciáját, és sértené a jogbiztonság, valamint a normavilágosság
+alkotmányos követelményét.
+[144] A Bv. tv. 46/C. §-a ugyan részletező, de nem taxatív szempontrendszert tartalmaz a kegyelmi eljárásban vizsgálandó
+körülmények meghatározására; e rendelkezés is szervesen illeszkedik a teljes eljárási konstrukcióba. A szabályozás
+szerkezeti egysége és az egyes szakaszok közötti tartalmi összefüggés miatt a jogalkotási folyamat csak akkor
+tekinthető teljesnek és konzekvensnek, ha a megsemmisítés valamennyi érintett rendelkezésre kiterjed.
+
+[145] Az Alkotmánybíróság állandó gyakorlata szerint a jogszabályi környezet rendszertani egységének sérelme
+önmagában is megalapozhatja a megsemmisítés szükségességét, ha a norma egyes elemei olyan mértékben
+kapcsolódnak egymáshoz, hogy azok egymástól való elválasztása a jogintézmény működését ellehetetlenítené.
+Jelen esetben a Bv. tv. 46/A–46/H. §-ában foglalt rendelkezések ilyen egységet alkotnak; ezért a jogalkotási folyamat
+teljessége és a szabályozás koherenciája csak a teljes szakaszcsoport megsemmisítésével biztosítható.
+[146] Mindemellett a részleges megsemmisítés nem csupán a szabályozás belső összhangját bontaná meg,
+hanem hátráltatná, akadályozná és indokolatlanul megnehezítené a jogalkotási folyamatot is. A jogalkotó
+ugyanis nem tudná a szabályozási koncepciót egységesen újraalkotni, ha a normacsoport egyes elemei hatályban
+maradnának, más rendelkezések pedig megsemmisítésre kerülnének. Ez a helyzet a jogintézmény rekonstrukcióját
+töredezetté, következetlenné és dogmatikailag bizonytalanná tenné, ami ellentétes volna a jogalkotási folyamat
+teljességének és koherenciájának alkotmányos követelményével.
+[147] Az Alkotmánybíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés főszabály szerint, az Abtv. 45. §
+(1) bekezdése értelmében az Alkotmánybíróság megsemmisítésről szóló határozatának a hivatalos lapban való
+közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható. Az Abtv. 45. § (4) bekezdése értelmében
+ugyanakkor az Alkotmánybíróság a főszabálytól eltérően is meghatározhatja az Alaptörvénnyel ellentétes
+jogszabály hatályon kívül helyezését, illetve a megsemmisített jogszabály általános vagy egyedi ügyekben történő
+alkalmazhatatlanságát, ha ezt az Alaptörvény védelme, a jogbiztonság vagy az eljárást kezdeményező különösen
+fontos érdeke indokolja.
+[148] A konkrét esetben az Alkotmánybíróság a megsemmisítés időpontjának meghatározásakor arra a megállapításra
+jutott, hogy kisebb sérelmét eredményezi az Alaptörvény II. cikkének és III. cikk (1) bekezdésének a garanciákat
+nélkülöző szabályozás időleges hatályban tartása azzal szemben, mintha átmenetileg, az újabb szabályozás
+kidolgozásáig nem volna biztosított semmilyen lehetőség a tényleges életfogytig tartó szabadságvesztésre
+ítélt személyek büntetésének a felülvizsgálatára. Ezért az Alkotmánybíróság a Bv. tv. 46/A–46/H. §-ai jövőbeli,
+2027. május 31. napjával történő megsemmisítésről döntött, időt hagyva a jogalkotónak az Alaptörvénynek
+megfelelő új szabályozás kidolgozására.
+[149] A megsemmisítés következtében a jogalkotónak lehetősége van arra, hogy fontolóra vegye, melyik törvényi
+szabályozás módosításával kívánja a jogintézmény szabályozását az Alaptörvénnyel összhangba hozni: a Btk. vagy
+a Bv. tv. rendelkezéseit módosítja. Ezen felül akár arra is lehetősége van, hogy a szabályozásba új megoldásokat vagy
+új jogintézményt is beiktasson.
+[150] Szubjektív jogorvoslás az Alkotmánybíróság határozata alapján közvetlenül nem valósul meg. Az új szabályozás
+ugyanakkor az indítványozó számára is jogorvoslást eredményez, amely rá nézve akkor fog realizálódni, amikor
+az alapján a felülvizsgálatra vele szemben megnyílik a lehetőség.
+[151] A szabályozás újraalkotása kapcsán emlékeztet rá az Alkotmánybíróság, hogy már a 36/1992. (VI. 10.)
+AB határozatában (ABH 1992, 207, 210.) rögzítette az alkotmány zártságának elvét, méghozzá épp a köztársasági
+elnöki hatáskörökkel összefüggésben. Ezen elvből fakadóan az Alaptörvénynek is ellentmondásmentes rendszert
+kell képeznie. Ezért az Alaptörvény III. cikkéből nem vonható le olyan következtetés, ami a köztársasági elnök
+jogállásával ellentétes.
+[152] A köztársasági elnök döntései – az 1990-es években lefektetett alkotmányos alapok szerint – más típusúak, mint
+a bírósági döntések. A köztársasági elnök számos jogkörének gyakorlását nem köteles indokolni (pl. mikorra
+írja ki a választást, miért ír alá törvényt stb.). Ezért is állapította meg az Alkotmánybíróság 47/2007. (VII. 3.)
+AB határozata (ABH 2007, 620, 642.), hogy az egyéni kegyelem gyakorlása során a köztársasági elnök jogon túli
+szempontokat is érvényesít. A köztársasági elnök döntése számos esetben valóban „önkényes”, de az önkényesség
+(azaz az, hogy a döntést nem csak jogszabályok határozzák meg) csak a bírói, jogalkalmazói döntések esetében
+alaptörvény-ellenes.
+[153] Minderre figyelemmel megjegyzi az Alkotmánybíróság: az alkotmányozó mérlegelési jogkörébe tartozik azon
+megoldás kiválasztása, amely az alkotmány zártságának elvét tiszteletben tartva lehetőséget teremt a tényleges
+életfogytig tartó szabadságvesztés felülvizsgálatára irányadó szabályozás kidolgozására.
+[154] Az Alkotmánybíróság hangsúlyozza, hogy az Alaptörvény II. cikkének és III. cikk (1) bekezdésének együttes
+értelmezéséből nem vezethető le több, mint hogy a szabályozásnak a feltételes szabadságra bocsátás
+lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek számára egy lehetőséget kell biztosítani.
+Lehetőséget arra, hogy szabadságvesztés töltése során egy meghatározott idő elteltével felülvizsgálati
+eljárásban felülvizsgálják a korábban meghozott határozatot. Ez a lehetőség a döntés tartalmát tekintve
+semmiféle kötelezettséggel nem jár a döntéshozóra nézve, legyen az akár bírósági, akár közigazgatási jogalany.
+
+Abban az esetben tehát, ha a szabadulás lehetőségét a szabályozás biztosítja, a szabadítás nem garantált.
+A fogvatartottnak a szabadulásra nincs alanyi joga.
+[155] A szabadulás kilátásba helyezése ugyanakkor igen fontos, ha nem a legfontosabb lehetőség ezen fogvatartottak
+motiválására. A szabadítás mérlegelésekor ugyanis magától értetődő szempont a fogvatartottnak a büntetés
+végrehajtása során tanúsított magatartása, amelyet a szabadítás esélye kedvező irányba képes befolyásolni.
+Míg annak a fogvatartottnak, aki nem szabadulhat, bármit tesz is, nincs vesztenivalója. A legsúlyosabb szankciót
+tölti, súlyosabb büntetés nem fenyegeti. A szabadulás lehetőségének kilátásba helyezése és időszakonkénti
+vizsgálata tehát olyan eszköz a hatóságok kezében, amely nehezen vagy talán egyáltalán nem helyettesíthető.
+Ezzel együtt továbbá olyan eszköz, amely motivációs szerepéhez képest csekély veszélyt hordoz. Hiszen nem fakad
+belőle kötelezettség, de még elvárás sem valamely fogvatartott szabadon bocsátására.
+[156] Figyelemmel volt mindezek mellett az Alkotmánybíróság arra is, hogy a TÉSZ 1999. március 1. óta része hazánk
+szankciórendszerének. A jogintézmény tehát immáron több mint 25 éve a magyar jogrendszer része. Így a kötelező
+kegyelmi eljárás keretében az első döntés meghozatala, azzal együtt az irányadó gyakorlat kialakításának
+a megkezdése az európai követelmények tükrében lassan időszerű.
+[157] 5. Tekintettel arra, hogy az Alaptörvény II. cikkén és III. cikk (1) bekezdésén alapuló alkotmányossági vizsgálat
+eredményeként megállapította a szabályozás alaptörvény-ellenességét, az Alkotmánybíróság az Alaptörvény
+XXVIII. cikk (1) és (7) bekezdésére vonatkozó indítványozói érvek megalapozottságának a vizsgálatát nem végezte el.
+[158] 6. Hazánkban az elmúlt években több olyan, rendkívüli súlyú élet elleni bűncselekményt követtek el, amely
+bűncselekmények az egész társadalmat megrendítették, és amelyek kapcsán az ország szinte egy emberként
+osztozott az áldozatok hozzátartozóinak fájdalmában. Az Alkotmánybíróság ezzel a döntésével azt is hangsúlyozza,
+hogy a legsúlyosabb élet elleni bűncselekmények elkövetőivel szemben – amennyiben a törvényi feltételek
+fennállnak és a bíróság az elkövető büntetőjogi felelősségét megállapítja – alkotmányos keretek között kiszabható
+a tényleges életfogytig tartó szabadságvesztés. Azonban a tényleges életfogytig tartó szabadságvesztés
+felülvizsgálata során olyan törvényes eljárást kell kialakítani, olyan garanciákat kell tartalmaznia az eljárásnak,
+amelyek szintén megfelelnek és összhangban állnak az Alaptörvényben rögzített alapvető jogokkal.
+[159] Az Alkotmánybíróság ezzel a döntésével azt is kiemeli, hogy a nagyon súlyos élet elleni bűncselekmények
+elkövetőivel szemben a bíróságok az elkövető büntetőjogi felelősségének megállapítása esetén – amennyiben
+annak törvényi feltételei fennállnak – alkotmányos keretek között szabhatják ki a tényleges életfogytig tartó
+szabadságvesztést.
+[160] Az Alkotmánybíróság ugyanakkor rámutat: a tényleges életfogytig tartó szabadságvesztés felülvizsgálatára irányuló
+eljárásnak olyan garanciákat kell tartalmaznia, amelyek összhangban állnak az Alaptörvényben foglalt alapvető
+jogokkal. Mivel a hatályos eljárási szabályok, a Bv. tv. rögzített rendelkezései ezt nem biztosítják, ezért vált indokolttá
+és szükségessé a Bv. tv. vonatkozó rendelkezéseinek a megsemmisítése.
+[161] Az Alkotmánybíróság álláspontja szerint a tényleges életfogytig tartó szabadságvesztés felülvizsgálatára
+vonatkozó eljárási szabályoknak olyan módon kell biztosítaniuk az egyéni körülmények értékelését, hogy az elítélt
+személyiségváltozása, reszocializációs esélyei és a társadalom védelméhez fűződő alkotmányos érdek egyaránt
+megfelelően mérlegelhető legyen. E követelmények teljesítése nélkül a felülvizsgálati eljárás nem felel meg
+az Alaptörvényből fakadó garanciáknak.
+[162] A felülvizsgálati mechanizmusnak biztosítania kell, hogy az elítélt helyzete ne váljon eleve reménytelenné,
+ugyanakkor a büntetés fenntartása esetén az továbbra is szolgálja a társadalom védelmét.
+VI.
+[163] Az Alkotmánybíróság határozatának a Magyar Közlönyben történő közzététele az Abtv. 44. § (1) bekezdésének
+első mondatán alapul.
+Budapest, 2026. szeptember 29.
+Dr. Czine Ágnes s. k.,
+az Alkotmánybíróság elnökhelyettese,
+előadó alkotmánybíró
+
+Dr. Czine Ágnes s. k., Dr. Horváth Attila s. k.,
+az Alkotmánybíróság elnökhelyettese, alkotmánybíró
+az aláírásban akadályozott
+dr. Handó Tünde
+alkotmánybíró helyett
+Dr. Hörcherné dr. Marosi Ildikó s. k., Dr. Kozma Ákos s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Patyi András s. k., Dr. Schanda Balázs s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Czine Ágnes s. k., Dr. Szabó Marcel s. k.,
+az Alkotmánybíróság elnökhelyettese, alkotmánybíró
+az aláírásban akadályozott
+dr. Sonnevend Pál
+alkotmánybíró helyett
+Dr. Czine Ágnes s. k.,
+az Alkotmánybíróság elnökhelyettese,
+az aláírásban akadályozott
+dr. Varga Réka
+alkotmánybíró helyett
+Alkotmánybírósági ügyszám: IV/13/2018.
+Dr. Czine Ágnes alkotmánybíró párhuzamos indokolása
+[164] A határozat indokolását érintően az alábbiak kiemelését tartom szükségesnek.
+[165] Előrebocsátom, hogy a többségi határozat nem arról szól, hogy 25 vagy 40 év után engedjük ki a legsúlyosabb élet
+elleni bűncselekmények, az emberölés elkövetőit. A kötelező kegyelmi eljárás szabályai sem ezt a célt szolgálták.
+Ugyanakkor az EJEB több okból vitatta ezt a magyar megoldást, a kötelező kegyelmi eljárást. Jelen többségi
+határozat ezért a kötelező kegyelmi eljárás, mint a TÉSZ felülvizsgálati eljárása alaptörvény-ellenességét vizsgálta.
+[166] A döntés tehát nem a gyilkosságot elkövetők, emberi életet kioltók szabadon bocsátásáról, hanem arról szól, hogy
+még a legsúlyosabb büntetések végrehajtása során is olyan eljárási garanciák érvényesüljenek, amelyek egyszerre
+szolgálják a társadalom védelmét, a büntetés céljait és az alkotmányos rend követelményeit.
+[167] A jelen határozat nem is arról szól, hogy töröljük el a tényleges életfogytiglani szabadságvesztés intézményét.
+Azok az elkövetők, akiket a bíróságok tényleges életfogytiglan tartó szabadságvesztésre ítélnek, a legsúlyosabb
+és a legszörnyűbb bűncselekményeket követik el a társadalom értékítélete szerint is. A tényleges életfogytig tartó
+szabadságvesztés büntetést rendszerint a legsúlyosabb, rendkívüli tárgyi súlyú bűncselekmények elkövetőivel
+szemben alkalmazzák a bíróságok. Az ilyen ügyek nem csupán büntetőjogi, hanem társadalmi szempontból
+is kiemelt jelentőséggel bírnak, hiszen a közvélemény együttérzéssel viszonyul a sértettekhez, és fokozott
+figyelemmel követi a bíróságok ítéletét. A büntetés kiszabása ezért e körben nemcsak egyéni felelősségre vonást
+jelent, hanem a jogrendbe vetett bizalom és a társadalmi igazságosság iránti elvárások érvényesülésének
+szimbolikus és valóságos kifejeződése is.
+[168] Kiemelten fontosnak tartom hangsúlyozni, hogy a jelen határozat nem a társadalom büntetőjogi védelmének
+csökkentését célozza, és végképp nem azt, hogy a legsúlyosabb bűncselekmények elkövetői automatikusan vagy
+könnyebben visszanyerhessék szabadságukat. A társadalom, az emberi élet és a közbiztonság védelme az állam
+egyik legfontosabb alkotmányos kötelezettsége. A tényleges életfogytiglani szabadságvesztés intézménye
+e kötelezettség érvényesítésének egyik legmarkánsabb eszköze, amely a rendkívüli súlyú bűncselekményekkel
+szembeni határozott állami fellépést fejezi ki.
+[169] Nem lehet eléggé hangsúlyozni, hogy a jelen határozatból nem következik a tényleges életfogytiglani
+szabadságvesztésre ítéltek szélesebb körű vagy könnyebb szabadulásának lehetősége. A társadalom jogos
+elvárása, hogy a legsúlyosabb élet elleni bűncselekmények elkövetőivel szemben az állam hatékony és szigorú
+büntetőjogi védelmet biztosítson. Az Alaptörvény nemcsak az emberi méltóság tiszteletben tartását, hanem
+az emberi élet védelmét és a közösség biztonságának garantálását is megköveteli. A jelen határozat mindezen
+
+alkotmányos értékek együttes figyelembevételén alapul. Célja nem a büntetés enyhítése, hanem annak biztosítása,
+hogy a tényleges életfogytiglani szabadságvesztés a jogállami garanciák által meghatározott rendben történjen.
+A társadalom védelmének elsődlegessége így változatlanul fennmarad; a változás kizárólag az alkalmazott eljárás
+alkotmányos minőségét érinti.
+[170] A társadalom védelme nem csorbul, az állam büntetőigénye nem gyengül, és a legsúlyosabb bűncselekményekkel
+szembeni zéró tolerancia sem kérdőjeleződik meg. A döntés egyetlen üzenete az, hogy a jogállam még
+a legveszélyesebb elkövetőkkel szemben sem mondhat le a garanciális, bírói kontroll alatt álló eljárás
+követelményéről. Ez nem a büntetés enyhítésének, hanem az alkotmányosság érvényesítésének követelménye.
+[171] A jelen határozat nem e büntetés szükségességét vagy létjogosultságát kérdőjelezi meg, hanem csupán
+azt vizsgálja, hogy az esetleges felülvizsgálat eljárási rendje megfelel-e a jogállamiság és az Alaptörvény
+követelményeinek.
+[172] A konkrét esetben az indítványozót a Borsod-Abaúj-Zemplén Megyei Bíróság 2010. május 14-én életfogytig tartó
+szabadságvesztésre ítélte, egyúttal kizárta a feltételes szabadságra bocsátása lehetőségét, vagyis tényleges
+életfogytiglani szabadságvesztést (TÉSZ) alkalmaztak vele szemben.
+[173] A másodfokon eljáró Debreceni Ítélőtábla az elsőfokú ítéletet helybenhagyta. A Legfelsőbb Bíróság az indítványozó
+jogi képviselője által előterjesztett felülvizsgálati indítványt elutasította. Az indítványozó ezt követően fordult
+a jogerős bírósági döntéssel szemben az EJEB-hez. Az EJEB 2016. október 4-én kihirdetett és 2017. március 6-án
+véglegessé vált T. P. és A. T. kontra Magyarország (37871/14, 73986/14) határozatában megállapította, hogy
+az indítványozó esetében megvalósult az Egyezmény sérelme. Az indítványozó jogi képviselője és a legfőbb ügyész
+által ezt követően előterjesztett felülvizsgálati indítványt elbírálva a Kúria 2017. szeptember 19-én kelt végzésével
+az elsőfokú és a másodfokú határozatot hatályában fenntartotta. A Kúria végzésének indokolásában hangsúlyozta,
+hogy az EJEB ítélete a konkrét esetben nem a perbíróság ítéleteit tartotta sérelmesnek, hanem a kiszabott büntetés,
+a TÉSZ végrehajtására irányadó szabályokat (a kötelező kegyelmi eljárást). Az indítványozó a Kúria ezen végzésének
+a megsemmisítését kérte az Alkotmánybíróságtól.
+[174] Az Alkotmánybíróság eljárása során megállapította, hogy a Btk. értelmében az ítélkező bíróság életfogytig tartó
+szabadságvesztés kiszabása esetén meghatározza a feltételes szabadságra bocsátás legkorábbi időpontját, vagy
+a feltételes szabadságra bocsátás lehetőségét kizárja. Ez utóbbi rendelkezés teremti meg a tényleges életfogytig
+tartó szabadságvesztés kiszabásának a lehetőségét a magyar bíróságok számára.
+[175] Az EJEB esetjogában a tényleges életfogytig tartó szabadságvesztés megítélésével összefüggésben az elmúlt tíz évben
+formálódott ítélkezési gyakorlatot áttekintve az Alkotmánybíróság többségi határozata rámutatott, hogy
+az életfogytig tartó szabadságvesztés önmagában nem tiltott [Kafkaris kontra Ciprus (21906/04)], az életfogytig
+tartó szabadságvesztésnek az Egyezménnyel való kompatibilitása azonban a felülvizsgálat lehetőségét megteremtő
+rendszer megléte vagy hiánya alapján vizsgálható.
+[176] Ezen mérce alapján az EJEB a magyar szabályozást érintően a köztársasági elnöki kegyelem szabályainak és
+gyakorlatának a vizsgálatát tartotta szükségesnek [Magyar László kontra Magyarország (73593/10)]. Ezen vizsgálat
+megállapította az egyezménysértést. A konkrét ügyben feltárt rendszerbeli problémára és a megállapított jogsértés
+jellegére figyelemmel úgy ítélte meg továbbá az EJEB, hogy az ítélet megfelelő végrehajtásához Magyarországnak
+– lehetőleg jogalkotás útján – meg kell reformálnia a tényleges életfogytig tartó szabadságvesztés büntetés
+felülvizsgálatának a rendszerét.
+[177] Ezen kívánalomnak eleget téve iktatta be a jogalkotó 2014. december 31-i hatállyal a Bv. tv. rendelkezései közé
+(46/A–46/H. §) a feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre
+ítéltek kötelező kegyelmi eljárását. A módosító jogszabály normaszöveg-javaslatához fűzött jogalkotói indokolás
+értelmében a jogalkotó célja a kötelező kegyelmi eljárás bevezetésével kifejezetten az volt, hogy érvényre juttassa
+az EJEB Magyar kontra Magyarország ügyben hozott ítéletében kifejtett azon követelményt, hogy a TÉSZ esetében
+legyen olyan eljárás, amelynek révén –, ha a szabadságvesztésből már megfelelő hosszúságú idő eltelt – vizsgálható
+legyen, hogy a büntetés büntetőpolitikai indokai továbbra is fennállnak-e.
+[178] Ezt az új szabályozási elemet az EJEB a T. P. és A. T. kontra Magyarország (37871/14 és 73986/14) ügyben vette
+górcső alá. Arra a következtetésre jutott, hogy az új, 2015-től hatályos magyar szabályozás nem megfelelő,
+egyezménysértő, ezért ismét megállapította az egyezménysértést. Ezt az álláspontot utóbb az EJEB számos további
+döntésében megerősítette [pl.: Pápics és mások kontra Magyarország (13727/20 és további 15 kérelem), Éberling és
+mások kontra Magyarország (19002/20 és további 6 kérelem)].
+[179] A magyar jogalkotó az EJEB ezen álláspontja alapján a szabályozást nem módosította.
+
+[180] Mindezen előzményekre is figyelemmel a jelen alkotmányjogi panaszeljárásban az Alkotmánybíróság
+azt vizsgálhatta, hogy a konkrét bírósági jogértelmezés és jogalkalmazás megvalósítja-e a TÉSZ-re ítélt indítványozó
+alapjogainak a sérelmét.
+[181] Az Alkotmánybíróság megállapította, hogy a TÉSZ rendeltetésénél fogva korlátozza az elítélt számos alapjogát és
+egyéb jogait, amely korlátozás akár az elítélt élete végéig is tarthat. Európa szerte elfogadott nézet ugyanakkor,
+hogy ez önmagában nem teszi a TÉSZ-t alaptörvény-ellenessé, hiszen vannak olyan súlyos bűncselekmények,
+amelyek esetében szükséges a társadalom tartós védelme az elkövetőtől, és ez csak tényleges életfogytig tartó
+szabadságvesztés kiszabásával, pontosabban a feltételes szabadság teljes kizárásával biztosítható, ami azt jelenti
+a büntetés kiszabásakor, hogy élete végéig a büntetés-végrehajtási intézetben marad az elkövető.
+[182] Megállapítható volt ugyanakkor az Alaptörvény sérelme, mert a kötelező kegyelmi eljárás nem felelt meg
+az Alaptörvénynek. Ennek oka, hogy ilyen esetekben az elítélt a büntetés-végrehajtási szervek felügyelete alatt éli
+le az életét, és a saját sorsa feletti rendelkezés jogától egész életére megfosztva marad. Megállapította ugyanakkor
+az Alkotmánybíróság azt is, hogy ez a hatás kiküszöbölhető azáltal, ha a szabályozás a fogvatartott döntéseinek
+(rendelkezésének) a fogvatartás kimenetelét alakító hatást tulajdonít, és bizonyos feltételek teljesülése esetére
+biztosítja az elítélt számára a büntetés felülvizsgálatának a lehetőségét.
+[183] Annak megállapítására, hogy ezen lehetőség az indítványozó számára biztosított-e, az Alkotmánybíróság
+megvizsgálta a kötelező kegyelmi eljárás szabályait is.
+[184] Ezen vizsgálat eredményeként állapította meg az Alkotmánybíróság, hogy az indítványozó jelenleg is olyan
+szabadságvesztés büntetést tölt, amelynek végrehajtása során az Alaptörvényből fakadó követelmények
+nem érvényesülnek.
+[185] Az Alkotmánybíróság ezt követően foglalt állást a Kúria támadott végzésének alaptörvény-ellenességéről.
+Megállapította, hogy a Kúriának az irányadó jogszabályi rendelkezések alapján nem volt lehetősége arra,
+hogy az Alaptörvénnyel összhangban álló határozatot hozzon. Az indítványozó büntetésének alaptörvény-
+ellenessége ugyanis abból fakad, hogy a jogalkotó nem az Alaptörvénnyel összhangban szabályozta a feltételes
+szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek kötelező kegyelmi eljárását.
+Az indítványozó büntetése azért sérti az Alaptörvény rendelkezéseit, mert a Bv. tv. említett szabályai alapján
+a kötelező kegyelmi eljárás lefolytatására nem minden tényleges életfogytig tartó szabadságvesztést töltő elítélt
+esetében kerül sor, továbbá azért is, mert a kegyelemről a döntést a köztársasági elnök olyan szabályozás alapján
+hozza meg, amely nélkülözi a garanciákat.
+[186] Az Alkotmánybíróság következtetése szerint tehát az alaptörvény-ellenesség a jelen esetben a kötelező kegyelmi
+eljárás hatályos szabályozásából fakad.
+[187] Az Alkotmánybíróság erre figyelemmel megállapította, hogy a kötelező kegyelmi eljárás szabályai alaptörvény-
+ellenesek, ezért azokat megsemmisítette, míg a konkrét bírósági döntés alaptörvény-ellenességének
+a megállapítására és megsemmisítésére irányuló panaszelemet elutasította.
+[188] Az Alkotmánybíróság a megsemmisítésről 2027. május 31-i, vagyis jövőbeli hatállyal döntött, időt hagyva ezzel
+a jogalkotónak az Alaptörvénynek megfelelő új szabályozás kidolgozására. A megsemmisítés következtében
+a jogalkotónak lehetősége van arra, hogy fontolóra vegye, miként kívánja a jogintézmény szabályozását
+az Alaptörvénnyel összhangba hozni, annak érdekében mely jogszabály rendelkezéseit módosítja. Lehetősége van
+továbbá a jogalkotónak arra is, hogy a szabályozásba új megoldásokat vagy új jogintézményt iktasson.
+[189] Az Alkotmánybíróság ezzel a döntésével azt kívánta biztosítani, hogy a nagyon súlyos bűncselekmények
+elkövetőivel szemben a bíróságok az elkövető büntetőjogi felelősségének megállapítása esetén, amennyiben
+annak törvényi feltételei fennállnak, alkotmányos keretek között szabhassák ki a tényleges életfogytig tartó
+szabadságvesztést, és a büntetés végrehajtása is megfeleljen az Alaptörvényből fakadó követelményeknek.
+Budapest, 2026. szeptember 29.
+Dr. Czine Ágnes s. k.,
+alkotmánybíró
+
+Dr. Handó Tünde alkotmánybíró különvéleménye
+[190] Az indítványt elutasító rendelkezést annak indokolása miatt nem tudtam támogatni. Nem támogattam a jogszabályt
+megsemmisítő rendelkezést sem, mert álláspontom szerint legfeljebb a jogalkotó általi mulasztással előidézett
+alaptörvény-ellenesség megállapításának lett volna helye.
+[191] A határozat indokolásában egyértelműen rögzíteni kellett volna azt, hogy a tényleges életfogytig tartó
+szabadságvesztés büntetés és annak kiszabása összhangban van az Alaptörvénnyel, és a büntetés kiszabása
+nem sérti az Alaptörvény II. és III. cikkét. Másrészt azt is világossá kellett volna tenni, hogy a Kúria döntése nem
+sérti az Alaptörvény XXVIII. cikk (1) és (7) bekezdését. Harmadrészt az indokolásában határozott különbséget
+kellett volna tennie a büntetés kiszabása és a büntetés végrehajtása között. Végül az Alaptörvény III. cikkének az
+– EJEB döntésekben megjelenő tartalom és mérce szerinti – értelmezésével sem lehetett volna eljutni
+a Bv. tv. 46/A–46/H. §-ainak a megsemmisítéséig.
+[192] 1. Az indítvány az Abtv. 27. §-a alapján a Kúria döntését támadta. Végső soron a korábban jogerősen kiszabott
+büntetése felülbírálatának elmaradását sérelmezte, arra hivatkozva, hogy a büntetése az EJEE 3. cikkét és
+az Alaptörvény II. és III. cikk (1) bekezdését sértő embertelen és megalázó büntetés. Állítása szerint önmagában
+a tényleges életfogytig tartó szabadságvesztés büntetés kiszabása már sértette ezeket az alapjogait. A tisztességes
+eljáráshoz való joga és a jogorvoslati joga sérelmét [Alaptörvény XXVIII. cikk (1) és (7) bekezdés], arra hivatkozva
+állította, hogy a Kúriának a felülvizsgálati eljárásban az EJEB rávonatkozó döntésére figyelemmel enyhítenie kellett
+volna a büntetését.
+[193] Ehhez képest a határozat az Abtv. 29. §-a szerinti alkotmányjogi jelentőségű kérdést, illetve a döntéssel szembeni
+alkotmányos kételyt a következőképpen foglalta össze: „[…] megvalósítja-e az indítványozó emberi méltósághoz
+való jogának és a kínzás, embertelen, megalázó bánásmód vagy büntetés tilalmának a sérelmét a tényleges
+életfogytig tartó szabadságvesztés büntetése. Az adott szankció alkalmazása következtében felmerül továbbá
+az indítványozó ügyében hozott és az indítványban támadott bírósági határozat alaptörvény-ellenességének
+a lehetősége is.”
+[194] Az indítványt elutasító rendelkezés érdemi indokolásában (határozat IV. és V. része) felhozott alapvetésekben és
+érvekben keverednek egymással a büntetéssel, a büntetés kiszabásával és annak végrehajtásával kapcsolatos
+leírások és megállapítások. Ellentmondásosnak látszanak a támadott döntésre vonatkozó konkrét megállapításai
+is (Indokolás [134] és köv.). Ilyen az a megállapítása, mely szerint „[a]z Alkotmánybíróság úgy ítélte meg, hogy
+az alaptörvény-ellenes büntetést az indítványozó büntetőügyében első- és másodfokon eljáró bíróságok szabták
+ki jogerősen, majd azt a Kúria a felülvizsgálati eljárásban hatályában fenntartotta. Ezáltal a Kúria a végzésében
+alaptörvény-ellenes büntetés hatályban tartásáról rendelkezett.”
+[195] Eme megállapítása ellenére – nevezetesen, hogy a tényleges életfogytig tartó büntetést és annak kiszabását
+alaptörvény-ellenesnek mondta ki – azzal mentette ki a Kúriát, „hogy a Kúriának az irányadó jogszabályi
+rendelkezések alapján nem volt lehetősége arra, hogy az Alaptörvény II. cikkével és III. cikk (1) bekezdésével
+összhangban álló határozatot hozzon.” Egy következő mondatával ugyancsak azt erősítette meg, hogy maga
+a Btk. szerinti büntetés és annak kiszabása sérti az Alaptörvény II. és III. cikk (1) bekezdését: „Az indítványozó
+büntetésének alaptörvény-ellenessége ugyanis a fent kifejtettek értelmében abból fakad, hogy a jogalkotó nem
+az Alaptörvény II. cikkével és III. cikk (1) bekezdésével összhangban szabályozta a feltételes szabadságra bocsátás
+lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítéltek kötelező kegyelmi eljárását […].”Meg kell jegyezni,
+hogy eme megállapításban benne rejlik az az álláspont is, hogy a büntetés és annak kiszabása is lehet alaptörvény-
+ellenes, ha – később részletezetten – egyéb feltételek nem teljesülnek.
+[196] Láthatóan az indokolás nem tesz különbséget a büntetés és büntetéskiszabás, valamint a büntetés végrehajtása
+között. Holott éppen a példaként felhozott és a börtönkörülmények elégtelensége miatt indult alkotmánybírósági
+eljárásokban és döntésekben az Alkotmánybíróság erre a megkülönböztetésre már mintát adott.
+[197] Mindezeket – a Kúria döntésével szembeni – ellentmondásos megállapításokat azzal zárja, hogy szignalizációként
+a következőket rögzíti: „a bíró az előtte folyamatban lévő ügyben alkalmazandó norma alaptörvény-ellenessége
+mellett nemzetközi szerződésbe ütközésének a vizsgálatát is kezdeményezheti.” Ez viszont újabb ellentmondást
+keletkeztet, hiszen máshol maga is leszögezi, hogy a Kúria az eljárásában nem alkalmazta – nem kellett és
+nem lehetett alkalmaznia – a Bv. tv. rendelkezéseit. Így aztán a jelen ügyben fel se merülhetett az, hogy a Kúria
+az Abtv. 32. § (1) bekezdése szerinti eljárást kezdeményezzen.
+
+[198] Ugyanakkor ebben az indokolási részben nem tér ki a tisztességes eljáráshoz való joggal és a jogorvoslati joggal
+összefüggően felhozott kételyekre, arra nevezetesen, hogy az EJEB döntésből mi következhet közvetlenül
+a felülvizsgálati eljárásban hozható döntésre. Az indítvány ezen felvetését egy későbbi megállapítással
+(Indokolás [157]) zárja le: „Tekintettel arra, hogy az Alaptörvény II. cikkén és III. cikk (1) bekezdésén alapuló
+alkotmányossági vizsgálat eredményeként megállapította a szabályozás alaptörvény-ellenességét,
+az Alkotmánybíróság az Alaptörvény XXVIII. cikk (1) és (7) bekezdésére vonatkozó indítványozói érvek
+megalapozottságának a vizsgálatát nem végezte el.” Így a határozat indokolása – az indítványban felvetett kételyek
+ellenére – annak a kérdésnek a megválaszolásával marad adós, hogy a Kúria döntése miért áll összhangban
+az Alaptörvénnyel, illetve, hogy a tényleges életfogytig tartó szabadságvesztés büntetés és annak kiszabása
+miért áll összhangban az Alaptörvénnyel.
+[199] 2. Az indítvány szerint önmagában a tényleges életfogytig tartó szabadságvesztés büntetés kiszabása már sértette
+a kínzás, az embertelen és megalázó bánásmód tilalmából eredő alapjogát. A határozat lényegében elfogadja ezt
+a megközelítést, legalábbis annyiban, hogy az indítványozó hányattatása a büntetés kiszabásával veszi kezdetét.
+[200] A büntetés kiszabása azonban csak az egyik eseménye a történetnek. Az indítványozót előre kitervelten aljas
+indokból, több emberen elkövetett emberölés bűntette és más bűncselekmények miatt ítélte a bíróság tényleges
+életfogytig tartó szabadságvesztésre. A Legfelsőbb Bíróság 2011-ben lényegében helybenhagyta a Borsod-Abaúj-
+Zemplén Megyei Bíróság és a Debreceni Ítélőtábla hasonló 2010. évi döntéseit. A bíróság bizonyítottnak találta,
+hogy az indítványozó 2008. szeptember 24-én munkahelyének telephelyére csalta a vállalkozót, majd megölte,
+mivel hárommillió forinttal tartozott a férfinak. Miután a vállalkozót lelőtte, észrevette, hogy a vállalkozó kocsijában
+várakozik annak 9 éves kislánya. A gyermeket a műhelybe hívta, és hátulról fejbe lőtte. A kislány holttestét egy
+környékbeli völgyben rejtette el, a vállalkozó holttestét meg egy medencébe dobta, amiről azt hitte, hogy savat
+tárolnak benne. Az ügyész a vádbeszédben – vélhetően a tényleges életfogytig büntetés ellen érvelő védői
+felszólalásra – többek között azt is mondta:„Álmai voltak a megölt kislánynak és megölt édesapjának is.”A határozat
+nem idézi fel az elkövetett bűncselekményt és a büntető ítéleteknek az ezzel való összefüggését. Nem idézi fel
+azt sem, hogy mi végett van egyáltalán a büntetőhatalom, és mi a rendeltetése a büntetésnek, és hogy ezek léte
+önmagában alkotmányos.
+[201] Az indítványból következően nyilvánvaló, hogy a határozatban foglalkozni kell az elítélt emberi méltóságának
+mibenlétével mind a büntetés, mind – az ettől elkülönítendő – büntetés-végrehajtás viszonylatában. Az előbbit
+illetően egy helyen megállapítja, hogy„a TÉSZ rendeltetésénél fogva korlátozza az elítélt számos alapjogát és egyéb
+jogait, amely korlátozás az elítélt élete végéig tarthat. Ez ugyanakkor önmagában nem teszi a TÉSZ-t alaptörvény-
+ellenessé”(Indokolás [109]).
+[202] A határozat a következőkben (Indokolás [115] és köv.) az önrendelkezési jog tartalmával foglalkozik.
+Az alkotmánybírósági gyakorlatot idézve rögzíti, hogy az önrendelkezési jog az emberi méltóság egyik aspektusa:
+„Az önrendelkezési jogot az Alkotmánybíróság tehát az emberi méltóság részeként definiálta, mint a döntésre
+képes ember saját teste és sorsa feletti rendelkezési jogát. Az emberi méltóság részeként az önrendelkezési
+jog azt teszi lehetővé, hogy az egyén saját sorsáról rendelkező döntéseket hozzon.” Ezek után azt is rögzíti, hogy
+az önrendelkezési jog nem korlátozhatatlan, és ide emeli be az Alaptörvény III. cikkét: „Az emberi méltósághoz
+való jog korlátozása körébe tartozó szabályt rögzít továbbá – önállósult formában – az Alaptörvény III. cikk
+(1) bekezdése is: a kínzás, embertelen, megalázó bánásmód vagy büntetés, valamint a szolgaságban tartás és
+az emberkereskedelem tilalma a korlátozás szélső értékeit jelölik. Így az Alaptörvény a III. cikk (1) bekezdésében
+az emberi méltósághoz való joggal összefüggésben abszolút tilalmakat fogalmaz meg. Ezeknek olyan
+kiemelt jelentőséget tulajdonított az alkotmányozó, amely önálló rendelkezésbe foglalásukat is igazolta.
+Ezt az alkotmányozói szándékot tiszteletben tartva az Alaptörvény III. cikk (1) bekezdésében foglalt tilalmak
+érvényesülésének az Alkotmánybíróság is kiemelt jelentőséget tulajdonít. Az Alaptörvény II. cikkének és III. cikk
+(1) bekezdésének együttes értelmezése alapján az önrendelkezés olyan fokú korlátozása, amely az egyént
+– a szükségesség-arányosság tesztje alapján nem igazolható módon – kiszolgáltatott helyzetbe hozza, nemcsak
+az érintett méltóságát sérti, hanem szélsőséges esetben lealacsonyító, és ennek következményeként az érintett
+személyiségét károsan befolyásoló hatása miatt embertelen bánásmódnak minősül, ezért tilos. Ilyen szélsőséges
+esetnek tekinti az Alkotmánybíróság azt, ha az egyén véglegesen és megváltoztathatatlanul meg van fosztva attól,
+hogy a saját sorsát alakítsa, a saját életéről rendelkezzen.” Az indokolás szerint ilyen szélsőséges eset áll elő „azon
+elítéltek esetében, akik vonatkozásában a bíróság kizárta a feltételes szabadon bocsátást, amennyiben a szabadulás
+lehetősége semmilyen egyéb formában sem biztosított. Ilyen esetekben az elítélt a büntetés-végrehajtási szervek
+felügyelete alatt éli le az életét, és a saját sorsa feletti rendelkezés jogától egész életére megfosztva marad.”
+
+[203] A határozat indokolása nem számol azzal, hogy az elítélt szabad akarata, az önrendelkezése elsősorban is
+az emberölés elkövetéséhez köthető. Ez jelenti a kiindulópontot. Az alkotmánybírósági érvelés végső soron az elítélt
+szabadulásának lehetőségét, és e lehetőséghez való jogát fókuszba helyezve, mintegy jogtechnikai kérdést állítja
+elénk az alkotmányossági problémát.
+[204] 3. A közmegegyezés tárgya lehet – a Nemzeti hitvallás is megfogalmazza –, hogy „[…] az emberi lét alapja,
+az emberi méltóság.” Ehhez kapcsolható egy másik tételmondat: „Valljuk, hogy a polgárnak és az államnak közös
+célja a jó élet, a biztonság, a rend, az igazság, a szabadság kiteljesítése.” Ezek tükrében van abban valami visszásság,
+hogy a határozat a több ember életét kioltó elítéltnek a maga szabad életéhez, a saját élete alakításához való
+önrendelkezési jogának kiteljesítését jelöli meg abban, hogy az életfogytig tartó büntetéséből szabadulhasson.
+Ezt – bár az alaptörvényi rendelkezést nem jelöli meg – végső soron talán az Alaptörvény VI. cikkére vezeti vissza.
+Mintha az elítélt a büntetés kiszabásával, az ítélettel – mint egy búcsúcédulával – megváltotta volna a mások
+életének elvételében megtestesült bűnét, s innen számára egy új, köztes élet kezdődne, amely kizárólag arról kell,
+hogy szóljon, hogy az állam – háttérbe szorítva a büntetés megtorló, vagy visszatartó erejét – hogyan vezesse vissza
+az elítéltet a szabad életbe. Ezek a szempontok gyakorlatilag hiányoznak a határozatból, mint ahogyan az is, hogy
+a szabadságvesztés korlátai között is létezik és léteznie kell az emberi méltóságának, s a mindennapi magatartása
+eme korlátok között is – a nem éléshez képest – biztosít számára önrendelkezést, és magatartása befolyásolja
+a fogvatartása körülményeit is. Utóbbi a Bv. tv. szabályaiból következik. Ehhez képest az általa meggyilkoltaknak
+ennyi szabadság se jutott.
+[205] Itt vissza kell utalni a halálbüntetés alkotmányellenességét megállapító 23/1990. (X. 31.) AB határozatra, amelynek
+V. rész 5. pontja a következőket írta: „Mivel a Btk.-ban meghatározott büntetések összefüggő rendszert alkotnak,
+a halálbüntetésnek mint e rendszer egyik elemének megszüntetése szükségessé teszi az egész büntetési rendszer
+felülvizsgálatát, amely azonban nem az Alkotmánybíróság hatáskörébe tartozik”. A büntetőjogi rendszerben
+a legsúlyosabb büntetésként a tényleges életfogytig tartó szabadságvesztés került bevezetésre. A tényleges
+életfogytig tartó szabadságvesztés 1999-től folyamatosan jelen van a büntetőjogi szabályokban. A tényleges
+életfogytig tartó szabadságvesztés intézménye nem csupán az emberek érzületével, hanem az egymást váltó
+kormányok álláspontjával is találkozott. A 2011-es nemzeti konzultációban mintegy 950000 állampolgár vett részt.
+A válaszolók 94%-a igennel válaszolt a következő kérdésre: „Az új magyar alkotmány tegye lehetővé a bíróságok
+számára a tényleges életfogytiglani szabadságvesztés kiszabását a kiemelt súlyosságú bűncselekmények esetében.”
+Az Alaptörvény IV. cikk (2) bekezdése eleve korlátot szab ennek a büntetési nemnek: „[…] Tényleges életfogytig
+tartó szabadságvesztés csak szándékos, erőszakos bűncselekmény elkövetése miatt szabható ki.” Ez a rendelkezés
+ugyanakkor ezt a büntetést és annak kiszabását alkotmányos szinten is igazolttá teszi.
+[206] 4. Az alkotmányossági kérdés gyökerei messzebbre vezetők: mit jelent a szabad akarat, mit jelent a bűn,
+mi végre van a büntetés. Erre az Alkotmánybíróság határozatai, a jogirodalom bőséges adalékkal szolgálnak.
+Ezek összefoglalása, felidézése helyett itt néhány idézetet hoznék fel.
+[207] Amikor az áldozatok hozzátartozói megszólalnak. Megszólal [Név1] édesapja, miután a fia egyik támadója
+kiszabadult: „Borzalmas érzés, hogy ezek az emberek ünnepelnek, gyakorlatilag egy tragédia nyomán örvendeznek
+[…] Egy életre tönkretették a családom! Senki és semmi nem hozhatja vissza [Név2]t! Elvették a lelkünknek
+legdrágábbat, és néha azt kívánom, hogy velük is az történjen, ami velem és családommal!” A négy ember halálát
+okozó közlekedési baleset egyik áldozata hozzátartozója, aki végig jelen volt a tárgyalásokon: „Közben iszonyú
+fájdalom volt bennem, szinte mindennap sírtam, volt, hogy többször, mert rengeteg emlék jutott eszembe,
+a nap bármely szakaszában szinte bármiről […] A családunkban a balesettel egyik napról a másikra
+harminc-iksz évesen mi lettünk a legidősebb generáció. Azóta ezzel élünk, ennek a következményeit viseljük.”
+[208] A tálió elvétől fokozatosan jutott oda az európai jogi kultúra, hogy a büntetés maga sem lehet kínzás, embertelen
+és megalázó. Ma már nemzetek között egyezményekkel megtámasztott közmegegyezés van arról, hogy a büntetési
+nemek ennek megfelelőek legyenek (szabadságvesztés, pénzbüntetés, munkára kötelezés), és a büntetések
+végrehajtása se legyen kínzó, embertelen vagy megalázó. Ez a jogfejlődés azonban aligha vezethet el odáig, hogy
+általában egy törvényben rendelt büntetés és annak végrehajtása önmagában legyen a kínzás tilalmába ütközőnek
+minősíthető. Erre hívta fel a figyelmet a jelen ügy EJEB döntéséhez csatolt különvélemény: „Főszabály szerint
+az életfogytiglan fogvatartottakat minősített (gyakran többszörös) élet elleni bűncselekmény miatt, vagy más
+gyűlöletes vagy felháborító bűn miatt ítélik el. Ezért egy árnyaltabb – és így kevésbé dogmatikus – megközelítés
+kívánatosabb lett volna, mely szerint a fogvatartott (a szabadon bocsátással kapcsolatos) „reményhez való joga”
+azzal a nem kevésbé legitim reménnyel lenne összevetve és szembe állítva, hogy az elkövetők legalább valamennyi
+időt töltenek és valamennyi erőfeszítést kifejtenek az önfejlesztésük érdekében, mielőtt reményük – mely a belső
+
+világuk része, és így senki se foszthatja meg őket ettől – a „reményhez való jog” alapjára helyeződik, illetve abból
+levezethetővé válik, mely által a remény jogi kategória lesz. Ez a másik „másik” remény, mellyel az életfogytiglani
+fogvatartottak reménye összevethető, a társadalom reménye, beleértve azokat is, akiknek az elkövetők
+elmondhatatlan szenvedést okoztak, és akiknek életét (igen!) reménytelenné és értelmetlenné tették azzal, hogy
+meggyilkolták a szeretteiket. Valamilyen okból a Bíróság az ő összetört reményeikről nem beszél, amikor „emberi
+jogokat”vagy bármilyen más„jogot”említ. De van élet a bíróságok elefántcsonttornyán kívül.”
+[209] Az európai keresztény kultúra lelkiismerete, Dosztojevszkij a Bűn és bűnhődés című regényében járta körbe
+ezt a morális kérdést. (Raszkolnyikov előre kitervelten megöli az uzsorást és a tetthelyen váratlanul megjelenő
+lányrokont.) A történet, a morális dilemmák (a szabadságról, a bűnről, a büntetésről, az Istenről és annak
+tagadásáról, a törvényről stb.) ismertek előttünk: „ […] a szenvedés a boldogság ára, ez a mi földgolyónk törvénye:
+az élet folyamatának érzékelése olyan hatalmas öröm, amely megéri, hogy évekig tartó szenvedéssel fizessünk érte.
+Az ember nem születik, hanem rászolgál a boldogságra s mindig szenvedéssel.”Éppen ebből a keresztény kultúrából
+is eredeztethető a kegyelem is.
+[210] 5. A határozat összefoglalóan ismerteti a Kúria támadott végzésének indokolását. Az indítvány ellenére
+nem vizsgálta és nem is válaszolta azt meg, hogy a felülvizsgálati eljárásban miért nem került sor a jogerős,
+büntetést kiszabó ítélet felülvizsgálatára. Ennek elmaradásával végső soron fenntartja a Kúria döntésével
+szemben támasztott kételyt, holott arra kellett volna magyarázattal szolgálnia, hogy a döntés összhangban van
+az Alaptörvény XXVIII. cikk (1) és (7) bekezdésével. Szükséges lett volna annak megerősítése, hogy „az EJEB
+nem az adott büntetés kiszabhatóságát, hanem a végrehajtás, a kötelező kegyelmi eljárás szabályait bírálta, amelyen
+változtatni nem jogalkalmazói, hanem jogalkotói feladat. Ha jogalkotásra van szükség, akkor felülvizsgálati ok
+nem valósul meg, nem keletkezik felülvizsgálati döntési jogkör, mert a hiányzó szabályt a Kúria nem alkothatja meg,
+s nem pótolhatja azt az Egyezmény közvetlen alkalmazásával.”
+[211] A határozat azonban az érdemi vizsgálat helyett az Alaptörvény XXVIII. cikkével összefüggő kérdést nem válaszolja
+meg, hanem kikerüli azzal, hogy tekintsék azt válasznak, hogy a Bv. tv.-nek a kötelező kegyelmi eljárásra vonatkozó
+szabályait megsemmisíti (Indokolás [157]). Csakhogy ez visszás következményekhez vezethet, hiszen korábban
+meg arra utalt (Indokolás [107] és köv.), hogy a TÉSZ alkotmányossága kétséges akkor, ha nincs garanciális szabálya
+a büntetés végrehajtására vonatkozóan. Azzal, hogy a ma még létező kötelező kegyelmi eljárási szabályokat
+megsemmisíti, azzal eltünteti – az indokolása szerint – a kiszabhatóság feltételeként azonosított teljes garancia-
+rendszert. Így aztán újabb hivatkozási alapot teremt arra, hogy a TÉSZ egyáltalán ne kerüljön kiszabásra.
+[212] 6. Álláspontom szerint az EJEB a „remény jogának” az Egyezmény 3. cikkébe értésével az eredeti szándékain
+túlmutató útra lépett. Nyilvánvaló, hogy a kínzás tilalmának abszolút jogként való értelmezése könnyebb
+haladást biztosíthat az elítélt szabadulásához vezető úton. Ez egyszerűbb a jogvédők számára, mint a valójában
+minden tagállamban létező tényleges életfogytig tartó szabadságvesztés büntetés és az egyes tagállamokban
+különféleképpen szabályozott, államfői, illetve bírói kegyelem kikezdése az emberi méltósághoz való
+jog alapján. Az EJEB döntéseiből az is látható, hogy a tagállami szabályozás tiszteletben tartását sokáig fenntartotta.
+Elsőként éppen a Magyar kontra Magyarország ügyben, 2014-ben fordult le a maga útjáról, amihez az ezt követő
+magyarországi ügyekben mindvégig következetesen tartotta magát. Bár a Hutchinson kontra Egyesült Királyság
+ügyben inkább visszahajlott a margin of appreciation elvére.
+[213] Az 1988. évi 3. törvényerejű rendelet hirdette ki az ENSZ Közgyűlésének XXXIX. ülésszakán elfogadott, a kínzás
+és más kegyetlen, embertelen vagy megalázó büntetések vagy bánásmódok elleni nemzetközi egyezmény.
+A kihirdetett jogszabály nem tartalmazta az ENSZ Egyezmény angol nyelvű szövegét, és a kihirdetett magyar
+szöveg szerint az Egyezmény 1. cikke csupán egy mondatból áll. Az ENSZ Egyezmény hivatalos szövege szerint
+az Egyezmény 1. cikkének van egy második mondata is, miszerint „It does not include pain of suffering arising
+only from, inherent in or incidental to lawful sanctions”, (azaz „Nem valósít meg kínzást a jogszerű büntetéssel
+szükségszerűen együtt járó vagy annak következményeképpen véletlenszerűen előadódó fájdalom vagy
+szenvedés.”). Az 1995. évi III. törvény hirdette ki az Európa Tanács Strasbourgban, 1987. november 26-án kelt,
+a kínzás és az embertelen vagy megalázó büntetések vagy bánásmód megelőzéséről szóló európai egyezményt.
+Ez a (kihirdető törvény indokolása szerint)„európai regionális összefüggésekben fogalmazza meg azokat az elveket,
+rendelkezéseket és eljárásmódokat, amelyeket univerzális összefüggésben az ENSZ … egyezménye fejezett ki.”
+Az Egyezmény nem definiálta a kínzás és embertelen vagy megalázó bánásmód mibenlétét. Hasonlóképpen
+– a tilalmazás megfogalmazásán kívül – nincs definíció, avagy fogalommagyarázat az 1993. évi XXXI. törvénnyel
+kihirdetett Egyezményben, és az Európai Unió Alapjogi Chartájában sem. Következésképpen az ENSZ Egyezményen
+kívül nincs nemzetek közötti megállapodásban foglalt (nemzetek által elfogadott) fogalmi definíció. Másfelől
+
+az embertelen, kegyetlen, megalázó büntetés vagy bánásmód vonatkozásában nincs nemzetek közötti
+megállapodásba foglalt definíció. Ugyanakkor van egy nemzetek közötti megállapodásba foglalt és a kínzás alól
+kivételt jelentő megfogalmazás (lásd az ENSZ Egyezményből idézett mondatrész) a büntetést illetően. Mindezek
+mellett van egy olyan EJEB gyakorlat, ami fokozatosan eloldotta, feloldotta az ENSZ egyezmény szerinti „célzatos
+és szándékos fájdalomkiváltás” fogalmi definícióját, s meghonosította az okozó/kiváltó cselekmény természetétől
+független, „objektív lelki szenvedés” bekövetkezésének, illetve bekövetkeztének esélye, lehetősége szempontját.
+Ezt egyébként nem valamely büntetés, hanem bizonyos bűnelkövetés (erőszakos közösülés) vonatkozásában
+vezették le, s utóbb ez a fogalmiság fordult az állami (jogszerű) büntetések vizsgálatának szempontjává
+is. A határozat indokolása anélkül tekint az EJEB fogalomértelmezését követendőként, hogy számot adna
+az ENSZ Egyezmény szerinti kivételről. Az utóbbi tartalmilag még az EJEB idézett döntéseiben is megjelenik, hiszen
+azok – bármely egyéb megállapításai mellett – azt következetesen rögzítik, hogy a tényleges életfogytig tartó
+büntetés mint büntetési forma és annak a kiszabása nem ütközik az EJEE 3. cikkébe.
+[214] Azt az álláspontot osztom, mely szerint a TÉSZ mint büntetési nem esetében az a büntetőjogi felfogás érvényesül,
+miszerint nincs mit helyreállítani, az áldozat és az elkövető oldalán egyaránt visszafordíthatatlan, ami történt.
+A tényleges életfogytig tartó szabadságvesztésre elítélés esetén az elítéltnek egy reménye biztosan megmarad,
+az, hogy ő tovább él. Ez biztosítja számára mind az esetleges téves elítélés, mind a kegyelmezés esetében
+a szabadulás lehetőségét.
+[215] 7. A kötelező kegyelmi eljárásra vonatkozó törvényi rendelkezések megsemmisítését azért nem támogattam, mivel
+azokkal a törvényhozó éppen az EJEB egy korábbi döntésből kiolvasható jogalkotói mulasztását pótolta. Az, hogy
+a jelenlegi ügyben – és más ügyekben hozott – újabb EJEB döntések a Bv. tv. szabályaiban további hiányosságokat
+észleltek, nem lehet alapja a jogszabályi rendelkezések megsemmisítésének.
+[216] Elfogadva azt, hogy az Alkotmánybíróság az adott bírósági ügyben közvetlenül nem alkalmazott, de azzal
+összefüggő jogszabály vizsgálatára is áttérhet, az az Abtv. 28. §-ának a felhatalmazásán alapul. Ugyanakkor
+a jogszabály alkotmányosságát vizsgáló eljárásban is lehetősége van az Alkotmánybíróságnak arra,
+hogy a jogszabály hiányosságai okán a jogalkotó általi mulasztással előidézett alaptörvény-ellenesség
+fennállását állapítson meg. Azt lehetett volna megállapítani, hogy a kötelező kegyelmi eljárás szabályozása
+nem áll összhangban az Alaptörvénnyel, mivel a fogvatartás/szabadságra bocsátás lehetőségét nem teszi
+kötelezővé 40 évnél korábban, mivel az eljárás egyes szakaszai nem mind határidőhöz kötöttek, s mert a végső
+döntéshez nem kapcsolódik indokolási kötelezettség. Az már a törvényhozó hatáskörébe tartozik, hogy ezekből
+az elemekből mit, miképpen épít be egy új szabályozásba. Ahogyan az is elsődlegesen a törvényhozó belátására
+tartozik, hogy az esetleges határidőkkel, az indokolási kötelezettséggel kapcsolatos újabb rendelkezések mennyire
+férnek össze a köztársasági elnök alkotmányos intézményével.
+[217] A megsemmisítéssel az Alkotmánybíróság éppen ilyen szabályokat vett ki a jogrendszerből.
+Budapest, 2026. szeptember 29.
+Dr. Czine Ágnes s. k.,
+az Alkotmánybíróság elnökhelyettese,
+az aláírásban akadályozott
+dr. Handó Tünde
+alkotmánybíró helyett
+Dr. Horváth Attila alkotmánybíró különvéleménye
+[218] Nemmel szavaztam az ügyben, mert formai (hatásköri) és tartalmi (alkotmányossági) okból sem értettem egyet
+az Alkotmánybíróság többségi döntésével.
+[219] Mindenekelőtt szükségesnek tartom utalni arra – mivel a határozat többségi indokolása az ügy ismertetését
+nem tartalmazza –, hogy az indítványozó bűncselekménye a sajtóban az ún. […]-i kettős gyilkosság néven vált
+ismertté. Az indítványozót azért ítélték halmazati büntetésként tényleges életfogytiglani szabadságvesztésre az eljáró
+bíróságok, mert 2008 szeptemberében azzal az ürüggyel csalta egy telephelyre hitelezőjét, akinek 3 millió forinttal
+tartozott, hogy megadja a pénzt; valójában előre odakészített puskával, közvetlen közelről fejbe lőtte. Amikor
+a telephelyet elhagyva észrevette, hogy hitelezője magával hozta 9 éves kislányát, behívta a gyermeket a műhelybe,
+
+és őt is fejbe lőtte; a holttestét a közelben, egy völgyben rejtette el. A vállalkozó ma 72 éves, kislánya pedig
+27 éves lenne.
+[220] I. Elsőként formai, hatásköri kifogásaim ismertetem a többség által támogatott határozattal szemben:
+[221] Az indítványozó Abtv. 27. §-a szerinti, bírói határozat elleni alkotmányjogi panasszal élt, az Abtv. 26. § (1) bekezdése
+szerinti, a bírósági eljárásban alkalmazott jogszabályok elleni indítványt nem terjesztett elő.
+[222] Az indítványhoz képest az Alkotmánybíróság nemcsak a támadott bírósági határozatot, hanem a bírósági eljárással
+összefüggő szabályozást is alkotmányossági vizsgálatnak vetette alá, amely során alapvetően az EJEB gyakorlatára,
+a Német Szövetségi Alkotmánybíróság gyakorlatára és az Európa Tanács Miniszteri Bizottságának ideiglenes
+állásfoglalására alapozta a rendelkező részt.
+[223] E tekintetben a többség által támogatott indokolás azzal magyarázta a nemzetközi és egy másik ország
+alkotmánybíróságának gyakorlatára hivatkozó érvelési megoldását, hogy az Alaptörvény Q) cikk (2) bekezdése
+értelmében Magyarország nemzetközi jogi kötelezettségeinek teljesítése érdekében biztosítja a nemzetközi
+jog és magyar jog összhangját.
+[224] Ezzel összefüggésben alapvetően két dolgot szükséges kiemelni:
+[225] 1. A Német Szövetségi Alkotmánybíróság joggyakorlata nem minősül olyan értelemben nemzetközi jognak,
+amellyel a Q) cikk (2) bekezdése alapján a magyar jognak összhangban kellene állnia.
+[226] 2. A jelen ügy kontextusában a Q) cikk (2) bekezdése értelmében vett nemzetközi jognak legfeljebb
+az EJEB joggyakorlata minősülhet, azonban a Q) cikknek a címzettje Magyarország, továbbá az Egyezmény
+kifejezetten szabályozza az EJEB döntéseinek végrehajtásával kapcsolatos jogköröket, amelyben
+az Alkotmánybíróság nem kapott szerepet, tekintettel arra, hogy az EJEB döntése inter partes az érintett
+tagállamot, azaz Magyarországot kötelezi, amelyet ebben a relációban biztosan nem az Alkotmánybíróság képvisel.
+Következésképpen bár az Alkotmánybíróság az Alaptörvény 24. cikk (2) bekezdés f) pontja alapján jogosult vizsgálni
+a jogszabályok nemzetközi szerződésbe ütközését, azonban ezen vizsgálat nem vonatkozhat olyan esetekre,
+amikor az adott ügyben rendelkezésre áll az EJEB döntése, amely Magyarországot részes államként kötelezi, hiszen
+az Alkotmánybíróság az Alaptörvény 24. cikk (1) bekezdése értelmében az Alaptörvény védelmének a legfőbb
+szerve, nem pedig egy nemzetközi szerződéssel létrehozott nemzetközi bíróság végrehajtási„segédje”.
+[227] Az Alkotmánybíróság arra tekintettel sem láthat el „végrehajtási” feladatkört az EJEB döntéseivel összefüggésben,
+mert az Egyezmény 46. cikke értelmében – amely az EJEB ítéletei végrehajtásának„gerincét” képezi – a végrehajtás
+felügyelete nem bírói, hanem politikai-kormányközi szerv, az Európa Tanács Miniszteri Bizottságának kezében van.
+Az Egyezmény 46. cikk (3)–(5) bekezdése két eljárást tesz lehetővé a Miniszteri Bizottság számára, mindkettőhöz
+a részvételre jogosult képviselők kétharmados többsége kell. A Miniszteri Bizottság az Egyezmény 46. cikk
+(3) bekezdése értelmében egyrészt értelmezési kérelemmel élhet, amennyiben a végrehajtás ellenőrzését
+az ítélettel kapcsolatos értelmezési probléma akadályozza, a Bizottság a Bíróság elé terjesztheti az ügyet,
+hogy az döntsön az értelmezési kérdésről, valamint a 46. cikk (4) bekezdése értelmében kötelezettségszegési
+eljárást kezdeményezhet, ha a Bizottság úgy találja, hogy az állam megtagadja a végleges ítélet végrehajtását,
+az érintett fél formális értesítése és kétharmados határozat után kérheti a Bíróságtól annak eldöntését, hogy
+az állam elmulasztotta-e az (1) bekezdés szerinti kötelezettségét. Ha a Bíróság megállapítja a jogsértést, az ügyet
+a meghozandó intézkedések megfontolása céljából visszaküldi a Bizottsághoz; ha nem, a Bizottság lezárja
+a vizsgálatot. Az Egyezmény 46. cikke eredménykötelmet ír elő, de nem mondja meg, milyen eszközökkel
+kell teljesíteni, így a végrehajtás módjának megválasztása az államra marad (egyedi intézkedések a kérelmező
+helyzetének orvoslására, illetve általános intézkedések – jogszabály-módosítás, gyakorlatváltás – az ismétlődés
+megelőzésére). Ezt a keretet a Miniszteri Bizottság végrehajtás-felügyeleti eljárási szabályai és gyakorlata (cselekvési
+tervek, cselekvési beszámolók, zárhatározatok) töltik ki, nem maga az Egyezmény szövege. A kikényszerítés
+végső, politikai eszköze pedig az Európa Tanács tagságához kötődik: a nem teljesítésnek elsősorban diplomáciai
+következményei vannak, szélsőséges esetben a szervezetből való kizárás.
+[228] Tekintettel arra, hogy az Egyezmény tartalmaz az EJEB ítéletei végrehajtása tekintetében szabályozást, amelyben
+a magyar Alkotmánybíróságnak nem jutott szerep, nem tartom helyesnek ezen végrehajtási mechanizmusba
+történő alkotmánybírósági beavatkozást, hiszen az Alaptörvény, illetve az Egyezmény nem hatalmazza fel erre
+a testületet, ily módon álláspontom szerint hatáskörén jelentős mértékben túlterjeszkedik az Alkotmánybíróság,
+amikor az EJEB valamely döntésének végrehajtása terén nemcsak a mindenkori magyar kormánnyal,
+hanem az Európa Tanács Miniszteri Bizottságával is„konkurál”.
+
+[229] Álláspontom szerint ez az újfajta alkotmánybírósági szerepfelfogás nemcsak azért káros, mert végső soron
+azt eredményezi, hogy az Alkotmánybíróság elszakad az Alaptörvény 24. cikke által dedikált, az Alaptörvény
+védelmének legfőbb védelmezője szerepétől, hanem politikai és diplomáciai felelősséget vállal, amikor beavatkozik
+egy EJEB ítélet tagállami végrehajtásának mechanizmusába. Ennek kapcsán jegyzem meg, amennyiben a Kormány
+vagy az Országgyűlés az EJEB valamely döntésének végrehajtása során alkotmányjogi problémába ütközne,
+az Abtv. 38. §-a alapján továbbra is kérheti, hogy az Alkotmánybíróság értelmezze az Alaptörvény valamely
+rendelkezését. Ugyanakkor az Alkotmánybíróság – dedikált hatáskör hiányában – nem jogosult a Kormány helyett,
+hivatalból szerepet vállalni az EJEB döntéseinek végrehajtása során, hiszen ezen lépésével a politikai felelősséget
+átvállalja a Kormánytól, másrészt diplomáciai bonyodalmakat is okoz, hiszen az Egyezményben részes tagállamok
+szándékával ellentétes módon avatkozik be az EJEB döntéseinek végrehajtásába. Szépirodalmi példával élve,
+az Alkotmánybíróság ezen attitűdje Karinthy Frigyes A jó tanuló felel című novellájából ismert Steinmann,
+az eminens diák alakját juttatja eszembe. Karinthy nem a tudást gúnyolja, hanem a tudás kirakatba tételét:
+a szolidaritás felmondását a társakkal. Steinmann túlbuzgósága végső soron rombolja a közösség összetartó erejét,
+a tagok közötti gentlemen’s agreement érvényét.
+[230] Ezen túlmenően a jelen esetben az Alkotmánybíróság hatáskör túllépését nemcsak a fent említett nemzetközi jogi
+felhatalmazással, hanem az Alaptörvénnyel is ellentétesnek tartom.
+[231] Tekintettel arra, hogy az indítványozót – többek között – gyermek sérelmére elkövetett, legsúlyosabb szándékos
+bűncselekmény miatt ítélték tényleges életfogytig tartó szabadságvesztésre, esetében a tizenharmadik
+Alaptörvénymódosítás révén 2024. július 1-jei hatállyal az Alaptörvény 9. cikk (8) bekezdésébe iktatott
+új szabályozás eleve kizárja, hogy a köztársasági elnök egyéni kegyelemben részesítse.
+[232] A többség által támogatott határozat indokolása kifejezetten akként foglalt állást a [132] bekezdésében,
+hogy „[g]aranciák hiányában ezért a kötelező kegyelmi eljárás és azzal együtt a tényleges életfogytig tartó
+szabadságvesztés szabályozása nem áll összhangban az Alaptörvény III. cikk (1) bekezdése szerinti tilalmakkal”.
+[233] Egyrészt leszögezendő, hogy Magyarország Alaptörvénye a IV. cikk (2) bekezdésében kifejezetten tartalmazza
+a tényleges életfogytig tartó szabadságvesztés büntetését, valamint a 9. cikk (8) bekezdése rögzíti, hogy
+a köztársasági elnök sarkalatos törvényben meghatározottak szerint nem gyakorolhatja az egyéni kegyelmezés
+jogát gyermek sérelmére elkövetett szándékos bűncselekmény elkövetőjével szemben.
+[234] Mindezek alapján – álláspontom szerint – a többség által támogatott határozat az Alaptörvény 9. cikk
+(8) bekezdésébe ütközően nemcsak az indítványon, hanem az Alkotmánybíróság saját hatáskörén is jelentős
+mértékben túlterjeszkedik, amikor az Abtv. 27. §-ában meghatározott bírói döntés felülvizsgálatára irányuló
+eljárásban olyan, az Abtv. 26. § szerinti, jogszabály Alaptörvénnyel való összhangját illető vizsgálatot is lefolytat,
+amely lényegében az Alaptörvény 9. cikk (8) bekezdésében foglalt szabályozás tartalmát kifogásolja.
+[235] Álláspontom szerint az Alkotmánybíróságot alkotmányjogi panaszeljárásban egyáltalán nem illeti meg az a hatáskör
+még„burkoltan”sem, hogy az Alaptörvény valamely kifejezett szabályának módosítására hívja fel a jogalkotót.
+[236] Megjegyzendő, hogy azon okból kifolyólag, hogy maga az Alaptörvény 9. cikk (8) bekezdése zárja ki a gyermekek
+sérelmére elkövetett szándékos bűncselekmény elkövetője esetében a köztársasági elnöki kegyelemben
+részesítést – amely körbe a gyermek sérelmére elkövetett szándékos emberölés miatt tényleges életfogytig tartó
+szabadságvesztés büntetésre ítélés kétségtelenül, mindenféle értelmezés mellett beleértendő – teljesen felesleges
+az Alkotmánybíróságnak a Bv. tv. 46/A–46/H. §-ainak érdemi vizsgálatába bocsátkoznia, hiszen az Alaptörvény
+9. cikk (8) bekezdésében foglalt kegyelmezési tilalom az Alaptörvény T) cikk (3) bekezdése folytán minden más
+jogszabály esetében is érvényesülni fog, mivel a gyermek sérelmére elkövetett szándékos emberölés miatt
+tényleges életfogytig tartó szabadságvesztés büntetésre ítélés mint legsúlyosabb büntetés, a kegyelmezési tilalom
+köréből gyakorlatilag nem vonható ki.
+[237] Összegezve: a többség által támogatott határozat formai, eljárásjogi hibájának tartom, hogy a bírói határozat
+ellen benyújtott Abtv. 27. §-a szerinti alkotmányjogi panaszeljárásban az Alkotmánybíróság oly módon végzett
+normakontrollt is, hogy hatáskörén jelentős mértékben túlterjeszkedve, az Egyezményben rögzített végrehajtási
+mechanizmust sértő módon beleavatkozott az indítványozó ügyében hozott EJEB határozat végrehajtásába,
+ezzel átvállalva a Kormány politikai felelősségét egy, az EJEB által kifogásolt büntetőpolitikai kérdésben.
+Ráadásul az Alkotmánybíróság ezen újszerű szerepfelfogása nemcsak az Egyezményt, hanem elsősorban magát
+az Alaptörvény több rendelkezését is sérti egyrészt azért, mert az Alaptörvény IV. cikk (2) bekezdése kifejezetten
+elismeri a tényleges életfogytig tartó szabadságvesztés büntetés létjogosultságát a magyar jogrendben, másrészt
+a köztársasági elnök egyéni kegyelmezési jogkörét érintően az Alkotmánybíróságnak az Alaptörvény legfőbb
+védelmi szerveként nem áll jogában kritikával illetni egy Alaptörvényben szabályozott jogintézményt, valamint
+ezzel összefüggésben még„burkoltan”sem hívhatja fel alaptörvény-módosításra a jogalkotót.
+
+[238] II. A többség által támogatott határozattal tartalmi, alkotmányossági okokból sem értettem egyet.
+[239] A többség által támogatott határozat az indokolás [109] bekezdésében deklarálta, hogy az Alaptörvény III. cikke
+szerinti érdemi vizsgálata során a TÉSZ kiszabásával szükségszerűen együttjáró hátrányokon túl, az elítéltre ható
+további negatív következményeket vette górcső alá. Az Alkotmánybíróság konklúzió jelleggel megállapította, hogy
+a TÉSZ-es elítélt önrendelkezési jogát sérti, hogy a hatályos szabályozás folytán „meg van fosztva attól, hogy saját
+sorsát alakítsa, a saját életéről rendelkezzen.”
+[240] Ugyanakkor a többség által támogatott határozat egyáltalán nem vizsgálja, még csak nem is említi, hogy a TÉSZ-es
+elítélt önrendelkezési jogának határát képezné a társadalom védelme. Ennek kapcsán utalok arra, hogy a TÉSZ oka
+a magyar jogrendben a halálbüntetés eltörlése után keletkezett szankciós űr kitöltése és a szigorító büntetőpolitika
+volt. Célja pedig a különösen veszélyes elkövetők végleges kivonása a társadalomból, az elrettentés és az arányos
+megtorlás érdekében, a reszocializáció rovására. A TÉSZ bevezetését az is indokolta, hogy a hagyományos
+életfogytiglani büntetés gyakorlatilag határozatlan tartamú szabadságelvonássá vált, mert a feltételes szabadságra
+bocsátás legkorábbi időpontja a gyakorlatban szinte alanyi jogot teremtett a tényleges szabadulásra. A többség
+által támogatott határozat a TÉSZ létét bár nem tagadja, azonban jelentős mértékben relativizálja annak határait
+azáltal, hogy gyakorlatilag olyan eljárásrend megteremtését kéri számon, amely megegyezik a „hagyományos”
+életfogytig tartó szabadságvesztés esetén irányadó feltételes szabadságra bocsátás szabályaival.
+[241] A többség által támogatott határozat e tekintetben abból a téves premisszából indul ki, hogy az idő múlásával
+az elítéltek pozitív irányú személyiségváltozáson esnek át, valamint alapul vette a KSH által publikált születéskor
+várható élettartamot. Álláspontom szerint egyik érv sem lehet megalapozott alkotmányjogi érvelés alapja több
+okból sem. Egyrészt a többségi határozat egyáltalán nem ismerteti az indítványozóra vonatkozó releváns tényeket,
+az általános, nem az indítványozóra vonatkozó statisztikai adatok pedig könnyen cáfolhatók.
+[242] Példaként említésre érdemesnek tartom a„[Név3]” becenevű, jelenleg is tényleges életfogytiglani szabadságvesztés
+büntetését töltő elítélt esetét. Ő a hírhedt [Név4]-féle rendőrgyilkos banda tagja volt, [évszám]-ben […] határában
+két társával – akiket halálra ítéltek és kivégeztek – rablásokat és gyilkosságokat, köztük rendőrgyilkosságot követett
+el. „[Név3]”-et tettéért nem lehetett halálra ítélni, mert a gyilkosságok idején még nem töltötte be a 20. életévét –
+így életfogytig tartó fegyházat kapott. A korabeli büntetőjog még nem ismerte a tényleges életfogytig terjedő
+szabadságvesztés büntetést, így 20 év letöltése után feltételesen szabadulhatott. A […]-i fegyházban kántornak
+tanult, 2000-ben szabadult. 2008-ban egy erdős területen lévő hajléktalanszálláson összeverekedett egy hajléktalan
+társával, aki nem adott neki abból a tízezer forintból, amit egy megtalált pénztárca visszaadásáért kapott. „[Név3]”
+égésgyorsítóval leöntötte és felgyújtotta; az áldozat belehalt égési sérüléseibe. Az újabb bűncselekményt még
+feltételes szabadság, illetve a büntetés hatálya alatt követte el, így különös visszaesőnek minősült. 2018 óta előzetes
+letartóztatásban volt, előtte még 2017 őszén egy […] megyei faluban élt a családjával, amikor is a saját 7 éves fia
+és élettársa 9 éves lánya sérelmére szexuális erőszakot követett el. 2022 áprilisában az Egri Törvényszék első fokon
+15 év fegyházra ítélte, majd 2022 novemberében a Fővárosi Törvényszék első fokon különös kegyetlenséggel
+és különös visszaesőként elkövetett emberölés bűntette miatt tényleges életfogytig terjedő szabadságvesztés
+büntetést szabott ki vele szemben.
+[243] „[Név3]” ügye álláspontom szerint megfelelően szemlélteti, hogy az általános statisztikai adatokat és
+a személyiségfejlődéssel kapcsolatos sztereotípiákat a való élet miként cáfolja, ezért sem helyes, ha
+az Alkotmánybíróság a konkrét ügy releváns tényeitől elrugaszkodik.
+[244] A magam részéről messzemenőkig osztom Lenkovics Barnabásnak, az Alkotmánybíróság korábbi elnökének, kiváló
+polgári jogi jogtudósnak az embert megillető szabadság határairól alkotott nézeteit, amely szerint „[a]z ember
+társadalomban él, szabadsága tehát a társadalomban való szabadság, nem pedig a társadalomtól való szabadság”
+{Lenkovics Barnabás: Ember és gondolat. Füveskönyv. Budapest, Ludovika Egyetemi Kiadó, 2024, 205–206. o.}.
+Következésképpen az embert megillető önrendelkezés szabadsága nem önmagában álló jogfogalom, hanem
+kettős természetű alapjog. Ennek oka, hogy ha a szabadság a társadalmon belül értelmezhető, akkor a határait is
+a társadalmi együttélés feltételei jelölik ki. Az önrendelkezési jog ezért nem lehet korlátlan. Az ember szabadsága
+nem a társadalommal szemben, attól elhatárolva létezik. A szabadság társas jelenség: csak az együttélésben
+lehet gyakorolni, és ott is kap értelmet. Az Alaptörvény emberképe az Alkotmánybíróság eddigi gyakorlata
+szerint „nem az elszigetelt egyéné, hanem a társadalomban élő felelős személyiségé. Ez különösen az O) cikkből
+következik”, amely szerint: „Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles az állami és
+közösségi feladatok ellátásához hozzájárulni” {3132/2013. (VII. 2.) AB határozat, Indokolás [95]}. Ez szemlélteti, hogy
+a„társadalomban való szabadság”együtt jár a közösségi elvárások vállalásával.
+
+[245] Az idézett emberkép két irányba hat. Egyrészt igazolja, hogy a társadalom védelmében a legsúlyosabb erőszakos
+elkövetők szabadsága a legteljesebb mértékben elvonható. Ha az önrendelkezés határa a társadalom védelme,
+akkor az erőszakos elkövető éppen ezt a határt lépte át. Mások életét és testi épségét, vagyis a közös szabadság
+alapfeltételeit támadta meg. A büntetés ezért egy alkotmányos értéket, a társadalom biztonságát védi.
+Az Alaptörvény IV. cikk (2) bekezdése maga rögzíti, hogy „tényleges életfogytig tartó szabadságvesztés csak
+szándékos, erőszakos bűncselekmény elkövetése miatt szabható ki”. A társadalomvédelmi mérlegelés tehát
+alkotmányi szinten megtörtént, és az erőszakosság kritériuma ezt a logikát tükrözi. Ha a szabadság korlátja
+a társadalom védelme, akkor a korlátozás csak addig igazolt, amíg ezt a védelmet valóban szolgálja. Ebből nem
+az következik, hogy a tényleges életfogytiglan alkotmányellenes, ezért indokolt lenne e büntetési kategória és
+a„hagyományos”életfogytig tartó szabadságvesztés közötti határvonal eltörlése.
+[246] A többség által támogatott határozat az indokolás [132] bekezdésében azért döntött a megsemmisítés mellett,
+mert „a vizsgált szabályozás nélkülözi azon garanciális rendelkezéseket, amelyek ismeretében az elítélt a kötelező
+kegyelmi eljárás eredményeként még életében reálisan számíthat a szabadon bocsátása felülvizsgálatára.”
+[247] Álláspontom szerint önmagában a többség által„hiányolt”garanciális rendelkezések sem alkalmasak arra, hogy akár
+a köztársasági elnökből, akár – a szabályozás változása esetén – más bírói testületből kikényszerítsék a tényleges
+életfogytiglanra ítélt szabadítását, amennyiben személyi körülményei azt nem indokolják. A többség által
+támogatott döntés azt sugallja, mintha a szabadítás hiánya a mindenkori köztársasági elnök garanciákat nélkülöző
+kegyelmi eljárására lenne visszavezethető, nem pedig az elítélt személyi körülményeire.
+[248] Összegezve tartalmi alkotmányossági okból azért nem értettem egyet a határozattal, mert nem vizsgálta, hogy
+a TÉSZ-es elítélt önrendelkezési jogának határa a társadalom védelme, valamint figyelmen kívül hagyta, hogy
+a TÉSZ célja a különösen veszélyes elkövetők végleges kivonása a társadalomból, az elrettentés és az arányos
+megtorlás, amelyet a többségi döntés relativizál, amikor lényegében a „hagyományos” életfogytiglan feltételes
+szabadságra bocsátási rendjét kéri számon a TÉSZ-re vonatkozó szabályozáson. Álláspontom szerint téves
+premissza, hogy a személyiség idővel javul, és a KSH szerinti várható élettartamnak bármilyen jogi relevanciája lehet
+az ügyben, hiszen a határozat az indítványozó esetében releváns tényeket nem ismerteti, egy másik elítélt visszaeső
+magatartása pedig mutatja, hogy a való élet cáfolhatja az elméletben jól hangzó, azonban a gyakorlattal cáfolható
+feltevéseket.
+[249] Mindezek alapján tartalmilag azért nem értettem egyet a többségi döntéssel, mert az az egyén, aki jelen esetben
+egy tényleges életfogytiglani szabadságvesztésre ítélt gyerekgyilkos,„társadalomtól való szabadsága”mellett foglalt
+állást, ahelyett, hogy a társadalom önvédelmét elismerő, az egyén „társadalomban való szabadságát” tette volna
+alaptételévé.
+Budapest, 2026. szeptember 29.
+Dr. Horváth Attila s. k.,
+alkotmánybíró
