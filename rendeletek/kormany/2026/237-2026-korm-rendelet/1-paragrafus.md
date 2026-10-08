@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés a) és b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A határátkelőhely és az ideiglenes határátkelőhely megnyitásáról és működtetéséről, valamint a határátlépési pontról szóló 332/2007. (XII. 13.) Korm. rendelet
+1. §[^2]
 
-a) 9. § (1) bekezdésében, 11. § (2) bekezdésében, valamint 12. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 12. § (2) bekezdésében a „vármegye” szövegrész helyébe a „megye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
