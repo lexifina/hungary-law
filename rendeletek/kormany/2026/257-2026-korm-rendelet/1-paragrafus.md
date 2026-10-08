@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A tűzvédelmi hatósági eljárások általános és különös szabályairól szóló 489/2017. (XII. 29.) Korm. rendelet 17. § (1) és (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
