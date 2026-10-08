@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés r) pontjában, valamint 73/B. § i) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 4. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
