@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
