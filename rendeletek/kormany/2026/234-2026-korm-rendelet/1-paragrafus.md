@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a menedékjogról szóló 2007. évi LXXX. törvény 93. § (1) bekezdés a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 62. § (9) bekezdésében és 63. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
