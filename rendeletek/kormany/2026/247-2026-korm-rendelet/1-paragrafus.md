@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. CXXXV. törvény 46. § (1) bekezdés c) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § Az emberkereskedelem áldozatai azonosításának rendjéről szóló 354/2012. (XII. 13.) Korm. rendelet 2. § (2) bekezdésében és 1. melléklet C. pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
