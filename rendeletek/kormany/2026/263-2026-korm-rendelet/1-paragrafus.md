@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés m) pontjában, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról szóló 194/2022. (V. 27.) Korm. rendelet 9. § (1) bekezdés e) pontjában a „vármegye” szövegrész helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
