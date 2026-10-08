@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdés a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 3. § (2a) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
