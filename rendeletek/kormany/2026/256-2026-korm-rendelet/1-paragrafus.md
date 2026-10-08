@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 76. § c) pontjában, továbbá az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 24/A. §-ában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A személy- és vagyonőr, a magánnyomozó, az egyes rendészeti feladatokat ellátó személyek tevékenységével, valamint a fegyveres biztonsági őrséggel kapcsolatos közigazgatási hatósági eljárások eltérő és kiegészítő szabályairól szóló 487/2017. (XII. 29.) Korm. rendelet 1. § (3) bekezdésében, 14. §-ában és 15. §-ában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
