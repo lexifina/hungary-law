@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 1. pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A gazdasági és anyagi szolgáltatási kötelezettség szabályairól szóló 428/2022. (X. 28.) Korm. rendelet 8. § (3) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
