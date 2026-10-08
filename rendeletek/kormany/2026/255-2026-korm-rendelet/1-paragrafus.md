@@ -4,10 +4,6 @@
 
 ## [3] A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés g) pontjában kapott felhatalmazás alapján a következőket rendeli el:
 
-1. § A határvízen történő közlekedés engedélyezéséről szóló 460/2017. (XII. 28.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében és 4. § (2) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-b) 3. § (1) és (2) bekezdésében és 4. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
