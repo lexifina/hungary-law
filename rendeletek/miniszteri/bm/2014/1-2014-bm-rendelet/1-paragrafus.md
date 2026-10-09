@@ -6,7 +6,7 @@
 
 2. egészségvédelmi megbízott: a belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet 2. § c) pontjában meghatározott személy;
 
-3. helyettes rendvédelmi tisztifőorvos: a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben (a továbbiakban: Korm. rendelet) meghatározott helyettes rendvédelmi tisztifőorvos;
+3.[^1] helyettes rendvédelmi tisztifőorvos: a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, továbbá a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben (a továbbiakban: Korm. rendelet) meghatározott helyettes rendvédelmi tisztifőorvos;
 
 4. hivatásos állomány: a belügyminiszter irányítása alá tartozó rendvédelmi szervek (a továbbiakban: rendvédelmi szerv) hivatásos szolgálati jogviszonyban álló állománya, valamint a rendkívüli munkavégzési körülmények esetén a rendészeti szakközépiskolák tanulói és személyi állománya;
 
@@ -23,3 +23,5 @@
 10. rendvédelmi tisztiorvos: a Korm. rendeletben meghatározott rendvédelmi tisztiorvos;
 
 11. személyi állomány: a rendvédelmi szervek hivatásos szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, munkaviszonyban, közalkalmazotti jogviszonyban, valamint közfoglalkoztatási jogviszonyban álló tagjai.
+
+[^1]: Az 1. § 3. pontja a 25/2026. (X. 8.) BM rendelet 5. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet az 1/2014. (I. 10.) BM rendelethez[^29]
+3. melléklet az 1/2014. (I. 10.) BM rendelethez[^30]
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szervnél rendszeresített azon szolgálati beosztások, illetve azon szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
 
@@ -134,7 +134,7 @@ A hivatásos állomány határrendészeti szolgálati feladatok ellátására á
 
 1. sora szerinti kötelező védőoltás elrendelésének van helye.
 
-2. A terrorizmust elhárító szervnél rendszeresített azon szolgálati beosztások, amelyek esetében a kötelező védőoltás elrendelésének van helye
+2.[^31] Az általános rendőrségi feladatok ellátására létrehozott szerven belül a Terrorelhárítási Központnál az 1.1.1. pontban felsorolt szolgálati beosztásokon túl az alábbi szolgálati beosztások esetében is kötelező védőoltás elrendelésének van helye
 
 2.1. Felderítési szakterületen:
 
@@ -364,9 +364,9 @@ Megjegyzések:
 
 ** Az elvégzett individuális biológiai kockázatbecslés eredménye alapján biztosítandó, ha a tevékenység a biológiai ágens expozíciójával jár.
 
-6.[^30]
+6.[^32]
 
-7 [^31]
+7 [^33]
 
 8. Az idegenrendészeti szervnél azon szolgálati beosztások, illetve szolgálati feladatok, amelyek esetében kötelező védőoltás elrendelésének van helye
 
@@ -382,6 +382,7 @@ Az idegenrendészeti szervnél
 
 rendszeresített szolgálati beosztások esetében hepatitis-A és hepatitis-B védőoltás elrendelésének van helye.
 
-[^29]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
-[^30]: A 3. melléklet 6. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.
-[^31]: A 3. melléklet 7. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.
+[^30]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
+[^31]: A 3. melléklet 2. pontja a 25/2026. (X. 8.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^32]: A 3. melléklet 6. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.
+[^33]: A 3. melléklet 7. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.
