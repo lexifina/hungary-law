@@ -12,4 +12,6 @@ a) a szénhidrogének tekintetében a bányászatról szóló 1993. évi XLVIII.
 
 b) a kőszenek tekintetében – a Korm. rendelet 1. melléklete szerinti lignit és lignit II. (ortho-lignit) kivételével – a természetes felszíntől mért 200 méteres mélységig terjedő földkéregrész.
 
-(3) A (2) bekezdés b) pontjától eltérően Nógrád és Borsod-Abaúj-Zemplén vármegye közigazgatási területén található lignit tekintetében nem minősül zárt területnek a természetes felszíntől mért 200 méteres mélységig terjedő földkéregrész.
+(3)[^1] A (2) bekezdés b) pontjától eltérően Nógrád és Borsod-Abaúj-Zemplén megye közigazgatási területén található lignit tekintetében nem minősül zárt területnek a természetes felszíntől mért 200 méteres mélységig terjedő földkéregrész.
+
+[^1]: Az 1. § (3) bekezdése a 10/2026. (X. 8.) SZTFH rendelet 8. §-a szerint módosított szöveg.
