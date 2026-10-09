@@ -24,7 +24,7 @@ gc) minősített igénybevételi mód.
 
 (3) A határozatlan időtartamra a jármű vagyonkezelője vagy üzemben tartója által engedélyezett magáncélú igénybevétel (a továbbiakban: tartós magáncélú igénybevétel) alatt keletkezett adatokat a járműkövető rendszer alkalmazás kizárólag menetlevél, a magáncélú igénybevétel futásteljesítmény adatának kimutatásához és statisztikai adatok készítéséhez használja fel.
 
-(4)[^15] A járműkövető rendszer alkalmazás által feldolgozott adatokhoz – ide nem értve a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ által kezelt adatokat –
+(4)[^15] A járműkövető rendszer alkalmazás által feldolgozott adatokhoz – ide nem értve a Nemzeti Védelmi Szolgálat és az általános rendőrségi feladatok ellátására létrehozott szerven belül a Terrorelhárítási Központ által kezelt adatokat –
 
 a) a Belügyminisztérium,
 
@@ -44,7 +44,7 @@ fér hozzá.
 
 (8) A Belügyminisztérium feladata az adatkezelő Országos Rendőr-főkapitányság, a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a Büntetés-végrehajtás Országos Parancsnoksága és az Országos Idegenrendészeti Főigazgatóság, valamint az általuk irányított önálló jogi személyek és önálló adatkezelők nevében a rendszer infrastruktúra-üzemeltetésére igénybe vett adatfeldolgozóval az adatfeldolgozási szerződés megkötése.
 
-(9)[^16] A Nemzeti Védelmi Szolgálat és a Terrorelhárítási Központ a járműkövető rendszer alkalmazás által feldolgozott adatokat saját hardware infrastruktúrán elkülönítve kezeli.
+(9)[^16] A Nemzeti Védelmi Szolgálat és az általános rendőrségi feladatok ellátására létrehozott szerven belül a Terrorelhárítási Központ a járműkövető rendszer alkalmazás által feldolgozott adatokat saját hardware infrastruktúrán elkülönítve kezeli.
 
 (10)[^17] Az (1) bekezdésben meghatározott követelmény alól a belügyminiszter felmentést adhat szervezetirányítói hatáskörben
 
@@ -71,6 +71,6 @@ j) a jármű tulajdonosa által megtiltott telematikaieszköz-elhelyezéssel ér
 esetében.
 
 [^14]: A 7/B. §-t az 5/2020. (III. 10.) BM rendelet 2. §-a iktatta be.
-[^15]: A 7/B. § (4) bekezdés nyitó szövegrésze a 22/2023. (VIII. 30.) MK rendelet 12. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^16]: A 7/B. § (9) bekezdése a 22/2023. (VIII. 30.) MK rendelet 12. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^15]: A 7/B. § (4) bekezdés nyitó szövegrésze a 22/2023. (VIII. 30.) MK rendelet 12. § d) pontja, a 25/2026. (X. 8.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^16]: A 7/B. § (9) bekezdése a 22/2023. (VIII. 30.) MK rendelet 12. § e) pontja, a 25/2026. (X. 8.) BM rendelet 6. § b) pontja szerint módosított szöveg.
 [^17]: A 7/B. § (10) bekezdése az 53/2025. (XII. 22.) BM rendelet 3. §-ával megállapított szöveg.
