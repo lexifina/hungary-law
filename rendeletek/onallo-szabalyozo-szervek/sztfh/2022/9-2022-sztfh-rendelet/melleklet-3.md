@@ -8,7 +8,7 @@
 
 | 4. | Szakhatósági állásfoglalás adása az Országos Atomenergia Hivatal hatósági eljárásában. | 57 000 | E0400 |
 
-| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^8] | 23 000 | E0500 |
+| 5. | Szakhatósági állásfoglalás adása a fővárosi és megyei kormányhivatalok engedélyezési eljárásaiban.[^8] | 23 000 | E0500 |
 
 | 6.[^9] |  |  |  |
 
@@ -17,6 +17,6 @@
 3. melléklet a 9/2022. (I. 28.) SZTFH rendelethez[^10]
 
 [^7]: A 2. mellékletben foglalt táblázat A:3 mezője a 16/2024. (IX. 19.) SZTFH rendelet 19. §-a szerint módosított szöveg.
-[^8]: 
+[^8]: A 2. mellékletben foglalt táblázat A:5 mezője a 10/2026. (X. 8.) SZTFH rendelet 4. §-a szerint módosított szöveg.
 [^9]: A 2. mellékletben foglalt táblázat 6. sorát a 19/2024. (XII. 30.) SZTFH rendelet 1. § b) pontja hatályon kívül helyezte.
 [^10]: A 3. mellékletet a 8/2026. (VIII. 17.) SZTFH rendelet 21. §-a hatályon kívül helyezte.
