@@ -970,11 +970,47 @@
 
 | 408[^111] | avizafone | 2,6-diamino-N-{2-[(2-benzoyl-4-chlorophenyl)(methyl)amino]-2-oxoethyl}hexanamide | C₂₂H₂₇ClN₄O₃ | LTKOVYBBGBGKTA-UHFFFAOYSA-N |
 
+| 409[^112] | N-piperidinyl-methiodone | 1-[4-(ethanesulfonyl)-4,4-diphenylbutan-2-yl]piperidine | C₂₃H₃₁NO₂S | ZVXQZJPYLLIYSB-UHFFFAOYSA-N |
+
+| 410[^113] | 5-cyano-isotodesnitazene | 1-[2-(diethylamino)ethyl]-2-({4-[(propan-2-yl)oxy]phenyl}methyl)-1H-1,3-benzimidazole-5-carbonitrile | C₂₄H₃₀N₄O | PCHKHUKJPIKAGU-UHFFFAOYSA-N |
+
+| 411[^114] | MCPPQ | 3-(2-chlorophenyl)-8-methyl-2-phenylquinazolin-4(3H)-one | C₂₁H₁₅ClN₂O | YZFKGLSRQUCTDV-UHFFFAOYSA-N |
+
+| 412[^115] | 2-methoxyqualone | 3-(2-methoxyphenyl)-2-methylquinazolin-4(3H)-one | C₁₆H₁₄N₂O₂ | YIEVFKLHPPPUSM-UHFFFAOYSA-N |
+
+| 413[^116] | ethylflualprazolam | 8-chloro-1-ethyl-6-(2-fluorophenyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine | C₁₈H₁₄ClFN₄ | SRZYAHVJONICNV-UHFFFAOYSA-N |
+
+| 414[^117] | chlorphine | 1-{1-[1-(4-chlorophenyl)ethylpiperidin-4-yl}-1,3-dihydro-2H-1,3- benzimidazol-2-one | C₂₀H₂₂ClN₃O | UARBQYKTGNWZBO-UHFFFAOYSA-N |
+
+| 415[^118] | 5,6-dichlorobrorphine | 1-{1-[1-(4-bromophenyl)ethyl]piperidin-4-yl}-5,6-dichloro-1,3-dihydro-2H-1,3-benzimidazol-2-one | C₂₀H₂₀BrCl₂N₃O | DJSSLECNUQMYKG-UHFFFAOYSA-N |
+
+| 416[^119] | spirobrorphine | 8-[1-(4-bromophenyl)ethyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan- 4-one | C₂₁H₂₄BrN₃O | BKVHJNVMUACENG-UHFFFAOYSA-N |
+
+| 417[^120] | etodezitramide | 1-[1-(4-oxo-3,3-diphenylhexyl)piperidin-4-yl]-1,3-dihydro-2H-1,3- benzimidazol-2-one | C₃₀H₃₃N₃O₂ | JEADZIOGPIBIHN-UHFFFAOYSA-N |
+
+| 418[^121] | N-dipropyl dimethocaine | (3-dipropylamino-2,2-dimethylpropyl) 4-aminobenzoate | C₁₈H₃₀N₂O₂ | RQBXGPQJYWRRJA-UHFFFAOYSA-N |
+
+| 419[^122] | 2-Cl-HHC | 2-chloro-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₁H₃₁ClO₂ | PHJMMAFCYCJUOX-UHFFFAOYSA-N |
+
+| 420[^123] | 4’-allyl-iso-HHC | 2-methyl-9-pentyl-5-(propan-2-yl)-8-(prop-2-en-1-yl)-3,4,5,6-tetrahydro-2H-2,6-methano-1-benzoxocin-7-ol | C₂₄H₃₆O₂ | OEYPVPQNTXKHQK-UHFFFAOYSA-N |
+
+| 421[^124] | 1’-dimethyl-delta-9-THCH | 6,6,9-trimethyl-3-(2-methylheptan-2-yl)-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₄H₃₆O₂ | CSLZDRYHWKWENX-UHFFFAOYSA-N |
+
+| 422[^125] | delta-8-THC butanenitrile oxime | 4-({[1-(1-hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl)ethylidene]amino}oxy)butanenitrile | C₂₂H₂₈N₂O₃ | BPUPSNATXJVJDE-UHFFFAOYSA-N |
+
+| 423[^126] | delta-9-THC butanenitrile oxime | 4-({[1-(1-hydroxy-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl)ethylidene]amino}oxy)butanenitrile | C₂₂H₂₈N₂O₃ | GBKSMZZUTLENIT-UHFFFAOYSA-N |
+
+| 424[^127] | adamantyl-HHC | 3-(adamantan-1-yl)-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | C₂₆H₃₆O₂ | JEPQCPPJXINENM-UHFFFAOYSA-N |
+
+| 425[^128] | 3-FPO | 2-[(3-fluorophenyl)(3-methyl-1,2,4-oxadiazol-5-yl)methyl]piperidine | C₁₅H₁₈FN₃O | VTIGLORPMJPEFB-UHFFFAOYSA-N |
+
+| 426[^129] | fenadiazole | 2-(1,3,4-oxadiazol-2-yl)phenol | C₈H₆N₂O₂ | OINXXHYENYVYPB-UHFFFAOYSA-N |
+
 6.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek,
 
 6.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve a 6.2. pontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-7.[^112] A jegyzékbe sorolás szempontjából a 6.1. pontban foglalt táblázat A és B oszlopában található adatok irányadóak, a C és D oszlop adatai a vegyületek számítógépes kereshetőségét biztosítják.
+7.[^130] A jegyzékbe sorolás szempontjából a 6.1. pontban foglalt táblázat A és B oszlopában található adatok irányadóak, a C és D oszlop adatai a vegyületek számítógépes kereshetőségét biztosítják.
 
 [^27]: A 3. melléklet 6. pont 6.1. alpontja a 31/2023. (VIII. 22.) BM rendelet 4. §-ával megállapított, a 43/2023. (X. 12.) BM rendelet 1. §-a szerint módosított szöveg.
 [^28]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 177. sorát a 4/2026. (II. 26.) BM rendelet 3. §-a hatályon kívül helyezte.
@@ -1061,4 +1097,22 @@
 [^109]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 406. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (2) bekezdése iktatta be.
 [^110]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 407. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (2) bekezdése iktatta be.
 [^111]: A 3. melléklet 6. pont 6.1. alpontjában foglalt táblázat 408. sorát az 1/2026. (VI. 19.) EÜM rendelet 2. § (2) bekezdése iktatta be.
-[^112]: A 3. melléklet 7. pontját a 31/2023. (VIII. 22.) BM rendelet 4. §-a iktatta be.
+[^112]: A 3. melléklet 6.1. pontjában foglalt táblázat 409. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^113]: A 3. melléklet 6.1. pontjában foglalt táblázat 410. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^114]: A 3. melléklet 6.1. pontjában foglalt táblázat 411. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^115]: A 3. melléklet 6.1. pontjában foglalt táblázat 412. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^116]: A 3. melléklet 6.1. pontjában foglalt táblázat 413. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^117]: A 3. melléklet 6.1. pontjában foglalt táblázat 414. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^118]: A 3. melléklet 6.1. pontjában foglalt táblázat 415. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^119]: A 3. melléklet 6.1. pontjában foglalt táblázat 416. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^120]: A 3. melléklet 6.1. pontjában foglalt táblázat 417. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^121]: A 3. melléklet 6.1. pontjában foglalt táblázat 418. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^122]: A 3. melléklet 6.1. pontjában foglalt táblázat 419. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^123]: A 3. melléklet 6.1. pontjában foglalt táblázat 420. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^124]: A 3. melléklet 6.1. pontjában foglalt táblázat 421. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^125]: A 3. melléklet 6.1. pontjában foglalt táblázat 422. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^126]: A 3. melléklet 6.1. pontjában foglalt táblázat 423. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^127]: A 3. melléklet 6.1. pontjában foglalt táblázat 424. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^128]: A 3. melléklet 6.1. pontjában foglalt táblázat 425. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^129]: A 3. melléklet 6.1. pontjában foglalt táblázat 426. sorát a 8/2026. (X. 6.) EÜM rendelet 1. §-a iktatta be.
+[^130]: A 3. melléklet 7. pontját a 31/2023. (VIII. 22.) BM rendelet 4. §-a iktatta be.
