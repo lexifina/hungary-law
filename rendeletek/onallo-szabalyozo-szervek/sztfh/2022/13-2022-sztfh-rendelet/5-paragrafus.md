@@ -40,11 +40,11 @@ vonatkozó információkra is.
 
 (11) A bányafelügyelet az üzemeltető által bejelentett súlyos balesetet a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló biztonsági szabályzatról szóló rendelet szerint kivizsgálja.
 
-(12)[^3] A külső vészhelyzeti tervről annak elkészítése során a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró illetékes járási (fővárosi kerületi) hivatala, illetve a környezetvédelmi hatóság, továbbá a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti fővárosi és vármegyei kormányhivatal, a tűzvédelmi hatóság, a mentőszolgálat, a rendőrség, valamint az üzemeltető véleményt nyilvánít.
+(12)[^3] A külső vészhelyzeti tervről annak elkészítése során a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró illetékes járási (fővárosi kerületi) hivatala, illetve a környezetvédelmi hatóság, továbbá a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti fővárosi és megyei kormányhivatal, a tűzvédelmi hatóság, a mentőszolgálat, a rendőrség, valamint az üzemeltető véleményt nyilvánít.
 
 (13) A külső vészhelyzeti tervet annak jóváhagyása előtt az érintett nyilvánosság véleményezheti. A polgármester a polgármesteri hivatal hirdetőtábláján közleményt tesz közzé, amely tartalmazza a külső vészhelyzeti terv véleményezési lehetőségére, a terv végrehajtásában érintett hatóságokra, valamint a vélemény megtételének módjára és határidejére vonatkozó tájékoztatást. A külső vészhelyzeti terv véleményezésére legalább 30 napot kell biztosítani. A véleményeket a terv véglegesítése során figyelembe kell venni.
 
-(14)[^4] A külső vészhelyzeti tervet a vármegyei védelmi bizottság elnöke hagyja jóvá. A jóváhagyott külső védelmi tervet a BM OKF területi szerve megküldi a (12) bekezdésben felsorolt szervezetek részére.
+(14)[^4] A külső vészhelyzeti tervet a megyei védelmi bizottság elnöke hagyja jóvá. A jóváhagyott külső védelmi tervet a BM OKF területi szerve megküldi a (12) bekezdésben felsorolt szervezetek részére.
 
 (15) A külső vészhelyzeti terv a külön jogszabály szerinti települési veszélyelhárítási terv része.
 
@@ -56,5 +56,5 @@ vonatkozó információkra is.
 
 (19) A polgármester a BM OKF területi szervével együttműködve a külső vészhelyzeti tervben foglaltak megvalósíthatóságának ellenőrzésére évente gyakorlatot szervez. A polgármester a bányászati hulladékkezelő létesítmény területén kívüli hatásokat okozó súlyos baleset bekövetkezése esetén, a külső vészhelyzeti tervben foglaltak végrehajtása érdekében a szükséges intézkedéseket haladéktalanul megteszi.
 
-[^3]: Az 5. § (12) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 31. § a) pontja, a 17/2024. (X. 28.) SZTFH rendelet 4. §-a szerint módosított szöveg.
-[^4]: Az 5. § (14) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 31. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (12) bekezdése a 17/2024. (X. 28.) SZTFH rendelet 4. §-a, a 10/2026. (X. 8.) SZTFH rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (14) bekezdése a 10/2026. (X. 8.) SZTFH rendelet 5. § b) pontja szerint módosított szöveg.
