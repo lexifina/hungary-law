@@ -1,5 +1,3 @@
-## 5. § A Terrorelhárítási Központ honvédelmi feladatai teljesítése során végzi a védett személyek és a kijelölt létesítmények védelméről szóló jogszabály alapján általa védett személyek kitelepítését, a kitelepítés végrehajtásához szükséges befogadó helyek biztosítását.
-
 ## 5. A hivatásos katasztrófavédelmi szervek
 
 ## 6. § A hivatásos katasztrófavédelmi szervek honvédelmi feladataik teljesítése során
@@ -12,14 +10,14 @@ c) közreműködnek az elsötétítési rendszabályok bevezetésének alkalmaz�
 
 d) részt vesznek a menekültek elhelyezésében,
 
-e)[^10] közreműködnek a lakosság túléléséhez szükséges nélkülözhetetlen létesítmények működőképességének fenntartásában, készenlétbe helyezésének feladataiban,
+e)[^12] közreműködnek a lakosság túléléséhez szükséges nélkülözhetetlen létesítmények működőképességének fenntartásában, készenlétbe helyezésének feladataiban,
 
 f) részt vesznek a hadműveleti területről kimenekített lakosság regisztrálásában.
 
-g)[^11] a honvédelmi intézkedési terv alapján végzik a polgári védelmi szervezetek létrehozásával, mozgósításával, alkalmazásával kapcsolatos tervezési, szervezési feladatokat, valamint végzik a polgári védelmi szervezetek irányítását, továbbá
+g)[^13] a honvédelmi intézkedési terv alapján végzik a polgári védelmi szervezetek létrehozásával, mozgósításával, alkalmazásával kapcsolatos tervezési, szervezési feladatokat, valamint végzik a polgári védelmi szervezetek irányítását, továbbá
 
-h)[^12] az éves költségvetési tervezéssel együtt éves készletképzési tervet készítenek.
+h)[^14] az éves költségvetési tervezéssel együtt éves készletképzési tervet készítenek.
 
-[^10]: A 6. § e) pontja a 10/2021. (IV. 1.) BM rendelet 5. §-a szerint módosított szöveg.
-[^11]: A 6. § g) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.
-[^12]: A 6. § h) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.
+[^12]: A 6. § e) pontja a 10/2021. (IV. 1.) BM rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 6. § g) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.
+[^14]: A 6. § h) pontját a 10/2021. (IV. 1.) BM rendelet 1. §-a iktatta be.

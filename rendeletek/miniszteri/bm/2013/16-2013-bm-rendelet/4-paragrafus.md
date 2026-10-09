@@ -48,4 +48,7 @@ i) a sorozó és bevonulási helyek rendőri biztosítását, a sorozásra rende
 
 j) a hadkötelesek bevonulása során a bevonulási hely rendőri biztosítását, a be nem vonult hadkötelesek felkutatását.
 
+(4)[^10] A rendőrség honvédelmi feladatai teljesítése során végzi a védett személyek és a kijelölt létesítmények védelméről szóló jogszabály alapján általa védett személyek kitelepítését, a kitelepítés végrehajtásához szükséges befogadó helyek biztosítását.
+
 [^9]: A II. fejezet címe az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés b) pontja, a 27/2019. (VI. 28.) BM rendelet 34. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdését a 25/2026. (X. 8.) BM rendelet 2. §-a iktatta be.
