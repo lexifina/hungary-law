@@ -1,6 +1,6 @@
 ## 2. § Az 1. §-ban meghatározott esetek meghatározásakor
 
-a)[^2] a nemzetbiztonsági szolgálatok és a terrorizmust elhárító szerv ilyen tartalmú információit,
+a)[^2] a nemzetbiztonsági szolgálatok és a Nemzeti Nyomozó Iroda terrorfelderítéssel foglalkozó szervezeti egységének ilyen tartalmú információit,
 
 b) a konzuli tisztviselők által vagy a helyi schengeni együttműködés keretében jelzett, a vízumkiadásra irányuló eljárásban az adott országban vagy a vízumkérelmezők meghatározott csoportjának körében tapasztalt, rendszeres rosszhiszemű magatartását,
 
@@ -10,6 +10,6 @@ d)[^4] az általános rendőrségi feladatok ellátására létrehozott szerv é
 
 e) a beutazási és tartózkodási tilalom hatálya alatt álló személyeknek egy adott országból érkező személyek vagy a személyek meghatározott csoportja körében a kiadott vízumok számához viszonyított nagy számát
 
-[^2]: A 2. § a) pontja a 23/2016. (VI. 29.) BM rendelet 20. §-ával megállapított szöveg.
+[^2]: A 2. § a) pontja a 23/2016. (VI. 29.) BM rendelet 20. §-ával megállapított, a 25/2026. (X. 8.) BM rendelet 1. §-a szerint módosított szöveg.
 [^3]: A 2. § c) pontja a 34/2013. (VI. 30.) BM rendelet 31. § d) pontja, a 27/2019. (VI. 28.) BM rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § d) pontja a 34/2013. (VI. 30.) BM rendelet 31. § d) pontja, az 58/2016. (XII. 22.) BM rendelet 25. §-a, a 27/2019. (VI. 28.) BM rendelet 10. § b) pontja szerint módosított szöveg.
