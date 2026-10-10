@@ -1,0 +1,7 @@
+## [1] Magyarország Alaptörvényének tizenhetedik módosítása, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény új központi költségvetési szervként írta elő létrehozni a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt, amelynek tevékenységi köre és gyakorlati működése számos további állami szerv működéséhez kapcsolódik.
+
+## [2] A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal bűnüldözési és rendvédelmi jellegű tevékenységet folytató társszervekkel megvalósuló összehangolt működésének biztosítása, valamint a jogszabályok közti összhang fenntartása érdekében szükségessé vált a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendeletnek az alapul fekvő törvényi szabályozáshoz kapcsolódó rendészeti tárgyú módosítása.
+
+## [3] A Kormány a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet 43. § (5) bekezdésében az „ügyészi szerveknél a” szövegrész helyébe az „ügyészi szerveknél, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál a” szöveg lép.
