@@ -16,4 +16,6 @@
 
 ## 1. A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőző kötelező egyeztetés eseteiről szóló 29/2010. (V. 12.) IRM–KüM–PTNM együttes rendelet módosítása
 
-1. § A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőző kötelező egyeztetés eseteiről szóló 29/2010. (V. 12.) IRM–KüM–PTNM együttes rendelet 2. § a) pontjában az „a terrorizmust elhárító szerv” szövegrész helyébe az „a Nemzeti Nyomozó Iroda terrorfelderítéssel foglalkozó szervezeti egységének” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
