@@ -12,6 +12,8 @@ e) a Kúria elnöke,
 
 f) a legfőbb ügyész.
 
+g)[^2] a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) elnöke és nyomozati elnökhelyettese.
+
 (2) A Terrorelhárítási Központ megszervezi és végrehajtja
 
 a) a köztársasági elnök és családtagja törvényben meghatározott állandó személyvédelmét,
@@ -35,3 +37,4 @@ h) az (1) bekezdésben meghatározott állandó személyvédelemben részesülő
 (3) A Készenléti Rendőrség megszervezi és végrehajtja az 1. melléklet 2. pontjában létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek (a továbbiakban: kijelölt létesítmény) védelmét.
 
 [^1]: Az 1. § a 161/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés g) pontját a 274/2026. (X. 9.) Korm. rendelet 1. §-a iktatta be.

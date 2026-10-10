@@ -1,12 +1,12 @@
 ## Vegyes és záró rendelkezések
 
-13. § (1)[^95] Az 1. § (2) bekezdés g) pontja szerint védelemben részesülő külföldi védett személy, valamint a nemzetközi gyakorlat és a viszonosság alapján az 1. § (2) bekezdés d) és f) pontja alapján védelemben részesülő külföldi védett személy magyarországi tartózkodása alatti védelmének költségeit a fogadó szerv megtéríti a védelem ellátásáért felelős szervnek.
+13. § (1)[^98] Az 1. § (2) bekezdés g) pontja szerint védelemben részesülő külföldi védett személy, valamint a nemzetközi gyakorlat és a viszonosság alapján az 1. § (2) bekezdés d) és f) pontja alapján védelemben részesülő külföldi védett személy magyarországi tartózkodása alatti védelmének költségeit a fogadó szerv megtéríti a védelem ellátásáért felelős szervnek.
 
-(2)[^96] Nem kell a védelem költségeit megtéríteni, ha az érintett személy
+(2)[^99] Nem kell a védelem költségeit megtéríteni, ha az érintett személy
 
-a)[^97] hazájában közjogi méltóságot tölt be, és az 1. § (1) bekezdésében meghatározott védett személy vendégeként tartózkodik Magyarországon,
+a)[^100] hazájában közjogi méltóságot tölt be, és az 1. § (1) bekezdésében meghatározott védett személy vendégeként tartózkodik Magyarországon,
 
-b)[^98] miniszter meghívására érkezik, és a meghívóval legalább azonos beosztású, illetve rangú, valamint hazájában is védett személynek minősül,
+b)[^101] miniszter meghívására érkezik, és a meghívóval legalább azonos beosztású, illetve rangú, valamint hazájában is védett személynek minősül,
 
 c) az ENSZ főtitkára,
 
@@ -16,26 +16,26 @@ e) az Európai Unió kül- és biztonságpolitikai főképviselője,
 
 f) az Európa Tanács Parlamenti Közgyűlés elnöke,
 
-g)[^99] a NATO főtitkára, a NATO Európai Haderők Főparancsnoka, a NATO Átalakítási Parancsnokság Főparancsnoka, a NATO Katonai Bizottságának elnöke, vagy
+g)[^102] a NATO főtitkára, a NATO Európai Haderők Főparancsnoka, a NATO Átalakítási Parancsnokság Főparancsnoka, a NATO Katonai Bizottságának elnöke, vagy
 
 h) az Amerikai Egyesült Államok Vezérkari Főnökök Egyesített Bizottságának Elnöke.
 
-(3)[^100]
+(3)[^103]
 
-(4)[^101] A rendészetért felelős miniszter személy vagy létesítmény ideiglenes védelmének elrendelése esetén a védett személyt foglalkoztató szervezet, illetve a létesítmény használója által fizetendő teljes vagy részleges költségtérítést határozhat meg.
+(4)[^104] A rendészetért felelős miniszter személy vagy létesítmény ideiglenes védelmének elrendelése esetén a védett személyt foglalkoztató szervezet, illetve a létesítmény használója által fizetendő teljes vagy részleges költségtérítést határozhat meg.
 
-(4)[^102] A védett személy hivatalos programja során szükséges egészségügyi ellátás biztosításában közreműködő egészségügyi szervezetek részvételét a népjóléti miniszter[^103] a belügyminiszterrel egyetértésben rendeletben szabályozza.[^104]
+(4)[^105] A védett személy hivatalos programja során szükséges egészségügyi ellátás biztosításában közreműködő egészségügyi szervezetek részvételét a népjóléti miniszter[^106] a belügyminiszterrel egyetértésben rendeletben szabályozza.[^107]
 
-(5)[^105]
+(5)[^108]
 
-[^95]: A 13. § (1) bekezdése a 203/1997. (XI. 19.) Korm. rendelet 1. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § h) pontja, a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés b)–c) pontja, a 161/2026. (IX. 21.) Korm. rendelet 8. § 29. pontja szerint módosított szöveg.
-[^96]: A 13. § új (2) bekezdését a 203/1997. (XI. 19.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatta. A (2) bekezdés a 63/2010. (III. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^97]: A 13. § (2) bekezdés a) pontja a 304/2013. (VII. 31.) Korm. rendelet 1. §-ával megállapított, a 161/2026. (IX. 21.) Korm. rendelet 8. § 30. pontja szerint módosított szöveg.
-[^98]: A 13. § (2) bekezdés b) pontja a 10/2011. (II. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^99]: A 13. § (2) bekezdés g) pontja a 267/2013. (VII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^100]: A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [A módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének átszámozásáról.] A 13. § (3) bekezdését a 63/2010. (III. 18.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^101]: A 13. § (3) – eredeti (2) – bekezdésének számozását a 197/1999. (XII. 21.) Korm. rendelet 15. §-a (4) bekezdésre változtatta. A (4) bekezdés a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
-[^102]: A 13. § eredeti (3) bekezdésének számozását a 203/1997. (XI. 19.) Korm. rendelet 1. §-a (4) bekezdésre változtatta. A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [Ez utóbbi módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének (5) bekezdésre történő átszámozásáról. Utóbb feltehetően ezt a bekezdést, (5) bekezdéskénet megjelölve, a 118/2008. (V. 8.) Korm. rendelet 1. § 1371. pontja hatályon kívül helyezte.
-[^103]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
-[^104]: Lásd az 5/1998. (XI. 18.) EüM rendeletet.
-[^105]: A 13. § (5) bekezdését a 231/2011. (XI. 8.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 102/2012. (V. 18.) Korm. rendelet 11. § d) pontja.
+[^98]: A 13. § (1) bekezdése a 203/1997. (XI. 19.) Korm. rendelet 1. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, a 102/2012. (V. 18.) Korm. rendelet 10. § h) pontja, a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés b)–c) pontja, a 161/2026. (IX. 21.) Korm. rendelet 8. § 29. pontja szerint módosított szöveg.
+[^99]: A 13. § új (2) bekezdését a 203/1997. (XI. 19.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatta. A (2) bekezdés a 63/2010. (III. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^100]: A 13. § (2) bekezdés a) pontja a 304/2013. (VII. 31.) Korm. rendelet 1. §-ával megállapított, a 161/2026. (IX. 21.) Korm. rendelet 8. § 30. pontja szerint módosított szöveg.
+[^101]: A 13. § (2) bekezdés b) pontja a 10/2011. (II. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^102]: A 13. § (2) bekezdés g) pontja a 267/2013. (VII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^103]: A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [A módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének átszámozásáról.] A 13. § (3) bekezdését a 63/2010. (III. 18.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^104]: A 13. § (3) – eredeti (2) – bekezdésének számozását a 197/1999. (XII. 21.) Korm. rendelet 15. §-a (4) bekezdésre változtatta. A (4) bekezdés a 97/2008. (IV. 29.) Korm. rendelet 4. § 64. pontja szerint módosított szöveg.
+[^105]: A 13. § eredeti (3) bekezdésének számozását a 203/1997. (XI. 19.) Korm. rendelet 1. §-a (4) bekezdésre változtatta. A 13. § új (3) bekezdését a 197/1999. (XII. 21.) Korm. rendelet 15. §-a iktatta a szövegbe, s egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre módosította. [Ez utóbbi módosító rendelet nem rendelkezett a 13. § (4) – eredeti (3) – bekezdésének (5) bekezdésre történő átszámozásáról. Utóbb feltehetően ezt a bekezdést, (5) bekezdéskénet megjelölve, a 118/2008. (V. 8.) Korm. rendelet 1. § 1371. pontja hatályon kívül helyezte.
+[^106]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
+[^107]: Lásd az 5/1998. (XI. 18.) EüM rendeletet.
+[^108]: A 13. § (5) bekezdését a 231/2011. (XI. 8.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 102/2012. (V. 18.) Korm. rendelet 11. § d) pontja.
