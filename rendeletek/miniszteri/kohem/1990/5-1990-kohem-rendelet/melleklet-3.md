@@ -1,4 +1,4 @@
-3. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^421]
+3. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^416]
 
 A jóváhagyási jel leírása
 
@@ -58,4 +58,4 @@ A jóváhagyási jel leírása
 
 27. Szlovákia
 
-[^421]: A 3. számú melléklet a 21/1995. (XII. 15.) KHVM rendelet 14. §-ának (1) bekezdésével, valamint 1. számú mellékletével megállapított szöveg.
+[^416]: A 3. számú melléklet a 21/1995. (XII. 15.) KHVM rendelet 14. §-ának (1) bekezdésével, valamint 1. számú mellékletével megállapított szöveg.

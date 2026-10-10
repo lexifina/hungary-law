@@ -73,3 +73,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2025-07-01 | 1990-5-20-5E.116 | 18/2025. (VI. 26.) ÉKM rendelet |
 | 2025-12-23 | 1990-5-20-5E.117 | 83/2005. (X. 11.) GKM rendelet |
 | 2026-01-01 | 1990-5-20-5E.118 | 41/2025. (XII. 22.) ÉKM rendelet |
+| 2026-10-10 | 1990-5-20-5E.119 | 9/2026. (X. 5.) KBM rendelet |

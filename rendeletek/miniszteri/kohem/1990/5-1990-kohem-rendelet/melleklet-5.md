@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^422]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^417]
 
 A forgalomba helyezés előtti és időszakos vizsgálat, honosítási eljárás tárgyi feltételei, technológiája és ügyrendje
 
@@ -56,7 +56,7 @@ e) az 1.18. pont g) alpontja szerinti tolómérőt, valamint
 
 f) a 1.13. pont szerinti mélységmérőt.
 
-1.1.12. Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2. b) alpontja, az 1.3. pont szerinti pótkocsi fékvezérlő levegőnyomásának ellenőrző mérésére való alkalmasság, az 1.6. pont szerinti mérő-adatgyűjtő berendezés, az 1.8., az 1.9–1.11., az 1.14–1.16. pontban, valamint az 1.18. pont d)–g) alpontjában meghatározottak teljesítése.
+1.1.12. Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2. b) alpontja, az 1.3. pont szerinti pótkocsi fékvezérlő levegőnyomásának ellenőrző mérésére való alkalmasság, az 1.8., az 1.9–1.11., az 1.14–1.16. pontban, valamint az 1.18. pont d)–g) alpontjában meghatározottak teljesítése.
 
 1.1.13. A 1. pontban felsorolt vizsgáló eszközök megváltozását a vizsgálati technológiában történő alkalmazásba vétele előtt – jóváhagyás végett – a közlekedési hatóságnak be kell jelenteni.
 
@@ -68,7 +68,7 @@ b) az 1.3., illetve 1.4. pontban meghatározott görgős fékerőmérő berendez
 
 c) az 1.18. pont j) alpontjában meghatározott informatikai rendszerhez való csatlakozás feltételeit a közlekedési hatóság biztosítja,
 
-d) nem kell biztosítani az 1.6. pont szerinti mérő-adatgyűjtő, az 1.8–1.12., 1.14–1.16. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
+d) nem kell biztosítani az 1.8–1.12., 1.14–1.16. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
 
 1.1.15. Bármely az 1.2–1.18. pontban meghatározott készülékek egy készülékké egyesíthetők, amennyiben ez nem befolyásolja az egyes készülékek mérési pontosságát.
 
@@ -98,9 +98,7 @@ d) a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mo
 
 1.5. Adattárolós, és adattovábbításra alkalmas – a pótkocsi fékkivezérlést is tároló – lassulásmérő berendezés az olyan vizsgáló állomáson ahol lassújármű, a mezőgazdasági vontató és pótkocsijaik, trolibusz, valamint olyan jármű vizsgálatát végzik, amelynél a jármű konstrukciós kialakítása nem teszi lehetővé a 1.3., illetve 1.4. pont szerinti berendezéssel történő mérést. (A nem folyamatosan mérő eszközöknek másodpercenként legalább tízszer kell feljegyeznie/tárolnia a mérési adatokat).
 
-1.6. Légfékrendszereket vizsgáló eszközök, illetve a légfékes, 3,5 tonna megengedett legnagyobb össztömeget meghaladó, nemzetközi forgalomban használt autóbuszok (M2 és M3 járműkategóriába tartozó gépkocsik) vizsgálatát (is) végző vizsgáló állomásokon mérő-adatgyűjtő berendezés. A jármű légfékrendszerének ellenőrzéséhez nyomásérzékelőkkel, időkésedelem mérésre is alkalmas kivitelben, a mérési adatokat értékelő számítógépes programmal és tárolással.
-
-A légfékes, 3,5 tonna megengedett legnagyobb össztömeget meghaladó, nemzetközi forgalomban használt autóbuszok (M2 és M3 járműkategóriába tartozó gépkocsik) műszaki vizsgálatához alkalmazandó mérő-adatgyűjtő berendezésre vonatkozó további, részletes műszaki jellemzőket, a légfékrendszer vizsgálati technológiáját és a vizsgálati eredmények egységes értékelési módszerét szakmai iránymutatás keretében a közlekedésért felelős miniszter állapítja meg.
+1.6. Légfékrendszerek vizsgálatához szükséges kiegészítő eszközök.
 
 1.7.
 
@@ -188,7 +186,7 @@ k) a DOT 3, DOT 4, DOT 4 Plus és DOT 5.1. fékfolyadék pontos forráspontját 
 
 l) a hibrid és elektromos jármű villamos biztonságának vizsgálatára alkalmas készülék, azokon a vizsgáló állomásokon, ahol hibrid vagy elektromos jármű forgalomba helyezés előtti műszaki vizsgálatát (is) végez a vizsgáló állomás,
 
-1.19. Az 1.1–1.6. és 1.10–1.16. pontban meghatározott egyes eszközök mérésügyi szempontból akkor tekinthetőek megfelelőnek, ha a legutóbbi ellenőrzés óta nem telt el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 7. számú mellékletében meghatározott időszak.
+1.19. Az 1.1–1.5. és 1.10–1.16. pontban meghatározott egyes eszközök mérésügyi szempontból akkor tekinthetőek megfelelőnek, ha a legutóbbi ellenőrzés óta nem telt el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 7. számú mellékletében meghatározott időszak.
 
 Az ellenőrzési periódus az 1.9. pontban meghatározott zajszintmérő készülék esetében 24 hónap.
 
@@ -350,4 +348,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^422]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja és 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése, az 54/2024. (XII. 30.) ÉKM rendelet 4. §-a, a 18/2025. (VI. 26.) ÉKM rendelet 7. § (1) bekezdése és 8. § d) pontja, a 37/2025. (XII. 22.) ÉKM rendelet 2. § b) pontja és 3. § a) pontja szerint módosított szöveg.
+[^417]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja és 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése, az 54/2024. (XII. 30.) ÉKM rendelet 4. §-a, a 18/2025. (VI. 26.) ÉKM rendelet 7. § (1) bekezdése és 8. § d) pontja, a 37/2025. (XII. 22.) ÉKM rendelet 2. § b) pontja és 3. § a) pontja, a 9/2026. (X. 5.) KBM rendelet 2. § (1) bekezdése, 3. és 4. §-a szerint módosított szöveg.

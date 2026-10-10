@@ -1,26 +1,37 @@
 ## Az autóbuszok emelt sebességgel történő közlekedésének engedélyezésére vonatkozó intézkedések
 
-13/A. §[^197] (1)[^198] Az emelt sebességgel történő közlekedésre jogosító – az MR. 112/A. §-ában meghatározott – engedélyt (a továbbiakban: engedély) a közlekedési hatóság adja ki vagy hosszabbítja meg annak időbeli hatályát a (3) és az (5)–(6) bekezdésben meghatározott feltételek alapján. Az engedély kiadása, időbeli hatályának meghosszabbítása a jármű-honosítási eljárásához, a jármű forgalomba helyezés előtti vizsgálatához, vagy a jármű időszakos vizsgálatához kapcsolódóan történhet. A közlekedési hatóság az engedély kiadását és az engedély időbeli hatályának meghosszabbítását közli a Nyilvántartóval.
+13/A. §[^197] (1) A jármű-honosítási eljáráshoz, a jármű forgalomba helyezés előtti vizsgálatához, a jármű időszakos vizsgálatához kapcsolódóan, azzal egy eljárásban vagy a forgalmi engedély időbeli hatályának lejárta előtt az emelt sebességgel történő közlekedésre jogosító hatósági engedélyt a közlekedési hatóság adja ki, az általa elvégzett szemle alapján.
 
-(2)[^199]
+(2) Emelt sebességgel való közlekedésre az az M2 vagy M3 kategóriájú, az ENSZ-EGB 107. számú előírás szerinti III. vagy B osztályhoz tartozó olyan autóbusz kaphat engedélyt, amely kizárólag ülő utasok szállítására van kialakítva, és megfelel az 5/B. számú melléklet szerinti feltételeknek.
 
-(3)[^200] Az engedély időbeli hatályát az időszakos vizsgálat határidejével megegyezően kell megállapítani.
+(3) A típusvizsgáló intézet a jármű-honosítási eljárás, a jármű forgalomba helyezés előtti vizsgálata vagy a jármű első időszakos vizsgálata előtt egy alkalommal az emelt sebességgel történő közlekedéshez tartozó jogszabályi feltételek teljesülését egyedi szakértői vizsgálat keretében – az autóbusz üzembentartójának költségére – ellenőrzi, és a megfelelőséget a közlekedési hatóság számára igazolja.
 
-(4)[^201] Az engedély időbeli hatályának meghosszabbítását – az időszakos vizsgálathoz a 12. § (6) bekezdésében meghatározott követelményeken túl – az MR. 112/A. §-ában és 15. számú melléklet 6. és 8. pontjában foglalt üzemeltetési műszaki feltételek vizsgálata alapján kell végezni. Az autóbusz gyártási évét tizenkét naptári évvel meghaladó korú autóbusz esetében az engedély időbeli hatálya meghosszabbításának további feltétele a nemzetközi közúti áru- és személyszállítás végzésének egyes feltételeiről szóló miniszteri rendelet 2. számú mellékletében előírt további műszaki feltételeknek való megfelelőség is.
-
-(5)[^202] A típusvizsgálót, illetőleg a külön jogszabályban meghatározott – a közlekedési hatóság által elfogadott szakértőt alkalmazó – felhatalmazott autóbusz-fenntartót, kérelmére a közlekedési hatóság jogosítja fel a (2) bekezdésben meghatározott szakvélemény kiállítására. Csak a típusvizsgáló végezheti el az MR. 15. számú mellékletének 3. és 7. pontja szerinti vizsgálatokat, amennyiben azok elvégzése a (6) bekezdésben foglaltak alapján kötelező.
-
-(6) A szakértő intézmény az emelt sebességgel történő közlekedéshez tartozó jogszabályi feltételek teljesülését egyedi szakértői vizsgálat keretében – az autóbusz üzembentartójának költségére – ellenőrzi. A szakértő intézmény a vizsgálata során figyelembe veszi:
+(4) A típusvizsgáló a vizsgálata során figyelembe veszi:
 
 a) az autóbusz típusához rendelkezésére álló típusbizonyítványban vagy nemzetközi jóváhagyási okmányban foglalt adatokat, valamint
 
-b) más kijelölt vizsgálóállomás által készített, emelt sebességű közlekedésre vonatkozó és egyéb szakvéleményeket,
+b) minden rendelkezésre álló, a jármű emelt sebességű közlekedésre vonatkozó szakvéleményt, amely az 5/B. számú melléklet tartalmával összhangban áll, és a vizsgált járműre vonatkoztatható.
 
-amennyiben azok az MR. 15. számú mellékletének tartalmával összhangban állnak és a vizsgált járműre vonatkoztathatók.
+(5) Ha a jármű a 2007/46/EK irányelv vagy az (EU) 2018/858 európai parlamenti és tanácsi rendelet szerinti teljes vagy befejezett járműre vonatkozó jóváhagyással rendelkezik, és tervezési sebessége eléri a 100 km/órát, a gyártó hazai vezérképviseletének alvázszám szerint kiadott igazolása, külföldi vezérképviselet esetén az igazolás hiteles fordítása alapján – a (3) bekezdésben meghatározott vizsgálat nélkül – teljesítettnek kell tekinteni az emelt sebességgel történő közlekedésre vonatkozó jogszabályi feltételeket.
 
-[^197]: A 13/A. §-t és alcímét a 43/2001. (XII. 18.) KöViM rendelet 5. §-a iktatta a szövegbe.
-[^198]: A 13/A. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 4. §-ával megállapított, az 54/2024. (XII. 30.) ÉKM rendelet 5. § e) pontja szerint módosított szöveg.
-[^199]: A 13/A. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § i) pontja hatályon kívül helyezte.
-[^200]: A 13/A. § (3) bekezdése a 72/2015. (XII. 29.) NFM rendelet 4. §-ával megállapított szöveg.
-[^201]: A 13/A. § (4) bekezdése a 72/2015. (XII. 29.) NFM rendelet 4. §-ával megállapított szöveg.
-[^202]: A 13/A. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 14. § (2) bekezdésével megállapított, a 15/2020. (VI. 4.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
+(6) Az engedély időbeli hatálya az első forgalomba helyezés időpontját követő naptól számított 15 év.
+
+(7) Az engedély a (6) bekezdésben meghatározott időtartamon túl további 2 évre, de legfeljebb a jármű első forgalomba helyezését követő naptól számított 20. naptári év végéig terjedő hatállyal többször is meghosszabbítható, amennyiben
+
+a) az autóbusz az időszakos vizsgálathoz a 12. § (6) bekezdésében meghatározott követelményeknek való megfelelőségen túl
+
+aa) megfelel az engedélyezés feltételeinek,
+
+ab) a gyártási évét tizenöt naptári évvel meghaladó korú autóbusz esetén rendelkezik a gépjárműfenntartó szervezet által az 5/C. számú melléklet szerint elvégzett vizsgálatot követően a megfelelőség tekintetében az 5/C. számú melléklet 3. pontja szerint kiállított tanúsítással, és
+
+b) az autóbusz üzembentartója gépjárműfenntartó szervezet által kiállított számlán vagy a számlához mellékelt egyéb bizonylattal, amennyiben saját részére végez járműfenntartó tevékenységet, akkor munkalappal igazolja
+
+ba) a biztonsági ellenőrzések elvégzését és
+
+bb) az autóbusz biztonsági berendezéseinek gyártó által előírt karbantartását.
+
+(8) A gépjárműfenntartó szervezet abban az esetben adja ki a (7) bekezdés a) pont ab) alpontja szerinti tanúsítást, amennyiben az autóbusz vizsgált fődarabjai és szerkezeti egységei a vizsgált jellemzőik, valamint az állapotuk tekintetében megfelelnek a követelményeknek.
+
+(9) A közlekedési hatóság az engedély kiadását és az engedély időbeli hatályának meghosszabbítását közli a Nyilvántartóval.
+
+[^197]: A 13/A. §-t és alcímét a 43/2001. (XII. 18.) KöViM rendelet 5. §-a iktatta be, szövege a 9/2026. (X. 5.) KBM rendelet 1. §-ával megállapított szöveg.
