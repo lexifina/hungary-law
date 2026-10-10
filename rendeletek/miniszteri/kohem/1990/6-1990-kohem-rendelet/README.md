@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2025-01-04 | 1990-6-20-5E.111 | 54/2024. (XII. 30.) ÉKM rendelet |
 | 2025-12-23 | 1990-6-20-5E.112 | 37/2025. (XII. 22.) ÉKM rendelet |
 | 2026-01-04 | 1990-6-20-5E.113 | 50/2025. (XII. 30.) ÉKM rendelet |
+| 2026-10-10 | 1990-6-20-5E.114 | 44/2001. (XII. 18.) KöViM rendelet |

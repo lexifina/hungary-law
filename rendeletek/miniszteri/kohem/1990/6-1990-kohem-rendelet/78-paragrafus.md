@@ -1,6 +1,6 @@
 ## Vezetőtérből való kilátásra vonatkozó üzemeltetési műszaki feltételek
 
-78. § (1)[^199] A gépjármű, a mezőgazdasági vontató és a lassú jármű vezetőterének olyannak kell lennie, hogy a vezető részére minden vezetési művelet esetében biztosítsa az előre és oldalra való kilátást, továbbá közvetett látást biztosító eszközökkel (a továbbiakban: visszapillantó tükör) a jármű mellett lévő mindkét oldali forgalmi sávra történő hátralátást.
+78. § (1)[^200] A gépjármű, a mezőgazdasági vontató és a lassú jármű vezetőterének olyannak kell lennie, hogy a vezető részére minden vezetési művelet esetében biztosítsa az előre és oldalra való kilátást, továbbá közvetett látást biztosító eszközökkel (a továbbiakban: visszapillantó tükör) a jármű mellett lévő mindkét oldali forgalmi sávra történő hátralátást.
 
 (2) Minden gépjárművet, mezőgazdasági vontatót és lassú járművet — kivéve a nem zárt vezetőfülkéjű lassú járművet és mezőgazdasági vontatót — fel kell szerelni legalább két visszapillantó tükörrel. Az egyik visszapillantó tükröt a jármű külső részén a bal oldalon, a másikat a jármű külső részén a jobb oldalon kell, illetőleg — ha a jármű kialakítása, vagy a raktérben elhelyezhető rakomány a hátralátást nem akadályozza — a jármű belsejében lehet elhelyezni. Motorkerékpáron a második visszapillantó tükröt az 1992. évi július hó 1. napjáig kell felszerelni.
 
@@ -10,14 +10,14 @@
 
 (5) A nem zárt vezetőfülkéjű lassú járművet és a mezőgazdasági vontatót fel kell szerelni legalább egy — a jármű bal oldalán elhelyezett — visszapillantó tükörrel.
 
-(6)[^200] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, a gépjárműveknek és pótkocsijaiknak, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek az általános biztonság, továbbá az utasok és a veszélyeztetett úthasználók védelme tekintetében történő típusjóváhagyásáról, az (EU) 2018/858 európai parlamenti és tanácsi rendelet módosításáról, valamint a 78/2009/EK, a 79/2009/EK és a 661/2009/EK európai parlamenti és tanácsi rendelet és a 631/2009/EK, a 406/2010/EU, a 672/2010/EU, az 1003/2010/EU, az 1005/2010/EU, az 1008/2010/EU, az 1009/2010/EU, a 19/2011/EU, a 109/2011/EU, a 458/2011/EU, a 65/2012/EU, a 130/2012/EU, a 347/2012/EU, a 351/2012/EU, az 1230/2012/EU és az (EU) 2015/166 bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. november 27-i (EU) 2019/2144 európai parlamenti és tanácsi rendelet II. MELLÉKLET 46. számú előírásnak nem megfelelő járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az előírásnak megfelelő IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
+(6)[^201] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, a gépjárműveknek és pótkocsijaiknak, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek az általános biztonság, továbbá az utasok és a veszélyeztetett úthasználók védelme tekintetében történő típusjóváhagyásáról, az (EU) 2018/858 európai parlamenti és tanácsi rendelet módosításáról, valamint a 78/2009/EK, a 79/2009/EK és a 661/2009/EK európai parlamenti és tanácsi rendelet és a 631/2009/EK, a 406/2010/EU, a 672/2010/EU, az 1003/2010/EU, az 1005/2010/EU, az 1008/2010/EU, az 1009/2010/EU, a 19/2011/EU, a 109/2011/EU, a 458/2011/EU, a 65/2012/EU, a 130/2012/EU, a 347/2012/EU, a 351/2012/EU, az 1230/2012/EU és az (EU) 2015/166 bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. november 27-i (EU) 2019/2144 európai parlamenti és tanácsi rendelet II. MELLÉKLET 46. számú előírásnak nem megfelelő járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az előírásnak megfelelő IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
 
-(7)[^201] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
+(7)[^202] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
 
 a) a 7,5 tonna legnagyobb megengedett össztömeget meg nem haladó járműre az V. osztályba tartozó tükrök felszerelése a 79. §-ban meghatározott módon nem lehetséges,
 
 b) a jármű az utasoldalon olyan nagy látószögű és közelre látó visszapillantó tükrökkel van felszerelve, amelyek összesen lefedett látótere teljesíti a 79. § (4) bekezdésében meghatározott követelményeket.
 
-[^199]: A 78. § (1) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 8. § c) pontja szerint módosított szöveg.
-[^200]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 5. §-ával megállapított, az 54/2024. (XII. 30.) ÉKM rendelet 8. § d) pontja szerint módosított szöveg.
-[^201]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.
+[^200]: A 78. § (1) bekezdése az 54/2024. (XII. 30.) ÉKM rendelet 8. § c) pontja szerint módosított szöveg.
+[^201]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 5. §-ával megállapított, az 54/2024. (XII. 30.) ÉKM rendelet 8. § d) pontja szerint módosított szöveg.
+[^202]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.

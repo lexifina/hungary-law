@@ -1,23 +1,23 @@
-## 11. §[^93] A jármű kipufogónyílás közelében mért közeltéri zaja (álló helyzeti zaj) nem haladhatja meg a típusbizonyítványban megadott közeltéri zaj 5 dBA-val megnövelt értékét. Ha a járműnek típusbizonyítványa nincs, vagy abban a közeltéri zaj értéke nem szerepel, abban az esetben a mért közeltéri zaj nem haladhatja meg a 3. számú mellékletben szereplő határértékeket.
+## 11. §[^94] A jármű kipufogónyílás közelében mért közeltéri zaja (álló helyzeti zaj) nem haladhatja meg a típusbizonyítványban megadott közeltéri zaj 5 dBA-val megnövelt értékét. Ha a járműnek típusbizonyítványa nincs, vagy abban a közeltéri zaj értéke nem szerepel, abban az esetben a mért közeltéri zaj nem haladhatja meg a 3. számú mellékletben szereplő határértékeket.
 
 ## Zajkibocsátásra és rezgésre vonatkozó további műszaki feltételek
 
-12. § (1)[^94] A gépjárműnek a külső zajra (elhaladási zaj) vonatkozó jóváhagyási jellel kell rendelkeznie.
+12. § (1)[^95] A gépjárműnek a külső zajra (elhaladási zaj) vonatkozó jóváhagyási jellel kell rendelkeznie.
 
-(2)[^95] A mezőgazdasági vontató és a lassú jármű külső zaja (elhaladási zaj) nem haladhatja meg a 88 dBA értéket a szabványban[^96] meghatározott mérési módszer szerint mérve.
+(2)[^96] A mezőgazdasági vontató és a lassú jármű külső zaja (elhaladási zaj) nem haladhatja meg a 88 dBA értéket a szabványban[^97] meghatározott mérési módszer szerint mérve.
 
-(3)[^97] A gépkocsi, a mezőgazdasági vontató és a lassú jármű belső zaja (vezetőtéri, utastéri zaj) nem haladhatja meg a 4. számú mellékletben meghatározott értéket.
+(3)[^98] A gépkocsi, a mezőgazdasági vontató és a lassú jármű belső zaja (vezetőtéri, utastéri zaj) nem haladhatja meg a 4. számú mellékletben meghatározott értéket.
 
-(4)[^98] A jármű közeltéri zaját (álló helyzeti zaj) típusvizsgálat során meg kell határozni, és a típusbizonyítványban fel kell tüntetni.)
+(4)[^99] A jármű közeltéri zaját (álló helyzeti zaj) típusvizsgálat során meg kell határozni, és a típusbizonyítványban fel kell tüntetni.)
 
-(5)[^99] A járművezetőre — annak egész testére — munkavégzés közben ható rezgés nem haladhatja meg a szabványban meghatározott határértéket.
+(5)[^100] A járművezetőre — annak egész testére — munkavégzés közben ható rezgés nem haladhatja meg a szabványban meghatározott határértéket.
 
 E rendelkezés hatálybalépéséről külön jogszabály rendelkezik.
 
-[^93]: A 11. § a 21/1995. (XII. 15.) KHVM rendelet 10. §-ával megállapított szöveg.
-[^94]: A 12. § (1) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 11. §-ával megállapított szöveg, második mondatát hatályon kívül helyezte a 12/2000. (V. 24.) KHVM rendelet 18. § (1) bekezdése.
-[^95]: A 12. § (2) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 11. §-ával megállapított szöveg.
-[^96]: MSZ ISO 7216.
-[^97]: A 12. § új (3) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 11. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
-[^98]: A 12. § (4) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 11. §-a iktatta be.
-[^99]: A 12. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 21/1995. (XII. 15.) KHVM rendelet 11. §-a.
+[^94]: A 11. § a 21/1995. (XII. 15.) KHVM rendelet 10. §-ával megállapított szöveg.
+[^95]: A 12. § (1) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 11. §-ával megállapított szöveg, második mondatát hatályon kívül helyezte a 12/2000. (V. 24.) KHVM rendelet 18. § (1) bekezdése.
+[^96]: A 12. § (2) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 11. §-ával megállapított szöveg.
+[^97]: MSZ ISO 7216.
+[^98]: A 12. § új (3) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 11. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
+[^99]: A 12. § (4) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 11. §-a iktatta be.
+[^100]: A 12. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 21/1995. (XII. 15.) KHVM rendelet 11. §-a.
