@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-90-20-2
 | 2024-10-25 | 2010-90-20-22.25 | 303/2024. (X. 24.) Korm. rendelet |
 | 2025-03-01 | 2010-90-20-22.26 | 243/2016. (VIII. 17.) Korm. rendelet |
 | 2026-01-06 | 2010-90-20-22.27 | 436/2025. (XII. 23.) Korm. rendelet |
+| 2026-10-10 | 2010-90-20-22.28 | 441/2016. (XII. 16.) Korm. rendelet |

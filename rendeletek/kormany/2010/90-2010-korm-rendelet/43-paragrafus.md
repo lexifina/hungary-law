@@ -44,7 +44,7 @@ megállapítható legyen.
 
 (4) Az iktatás minden év január 1-jén 1-es főszámmal kezdődik és a naptári év végéig emelkedő számmal folytatódik. A titkos ügykezelő az azonos tárgyban, ugyanabban az ügyben érkezett vagy készített újabb adatot az illető főszám 1-től növekvő alszámára iktatja. Amennyiben más tárgyban érkezett vagy készült az újabb adat, akkor azt iktatókönyv következő főszámára iktatja.
 
-(5)[^151] A (4) bekezdésben foglaltaktól eltérően a védelmi és biztonsági igazgatás központi szervénél, a rendvédelmi szerveknél, a polgári nemzetbiztonsági szolgálatoknál, a Nemzeti Adó- és Vámhivatalnál, a Katonai Nemzetbiztonsági Szolgálatnál, a bíróságoknál és az ügyészi szerveknél a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
+(5)[^151] A (4) bekezdésben foglaltaktól eltérően a védelmi és biztonsági igazgatás központi szervénél, a rendvédelmi szerveknél, a polgári nemzetbiztonsági szolgálatoknál, a Nemzeti Adó- és Vámhivatalnál, a Katonai Nemzetbiztonsági Szolgálatnál, a bíróságoknál és az ügyészi szerveknél, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
 
 (6)[^152]
 
@@ -62,7 +62,7 @@ megállapítható legyen.
 [^148]: A 43. § (3) bekezdés o) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^149]: A 43. § (3) bekezdés p) pontja a 243/2016. (VIII. 17.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^150]: A 43. § (3a) bekezdését a 177/2024. (VII. 7.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 303/2024. (X. 24.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^151]: A 43. § (5) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 177/2024. (VII. 7.) Korm. rendelet 21. § j) pontja, a 24/2025. (II. 27.) Korm. rendelet 22. § 9. pontja szerint módosított szöveg.
+[^151]: A 43. § (5) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 177/2024. (VII. 7.) Korm. rendelet 21. § j) pontja, a 24/2025. (II. 27.) Korm. rendelet 22. § 9. pontja, a 275/2026. (X. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^152]: A 43. § (6) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.
 [^153]: A 43. § (7) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.
 [^154]: A 43. § (8) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.
