@@ -1,6 +1,3 @@
-4. § (1) A 3. § (1) és (2) bekezdésében meghatározott minősítő vizsgálatért és a ,,Nemzetközi Időszakos Vizsgálati Bizonyítvány'' kiadásáért a külön jogszabályban[^9] meghatározott díjat kell fizetni.
+4. §[^5] A „Nemzetközi Időszakos Vizsgálati Bizonyítvány” kiadásáért a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló rendeletben meghatározott díjat kell fizetni, a rendeletben meghatározottak szerint.
 
-(2)[^10] A díjat a Nemzeti Fejlesztési Minisztérium költségvetési elszámolási számlájára kell befizetni.
-
-[^9]: A közúti járművek forgalomba helyezésével és forgalomban tartásával, valamint környezetvédelmi felülvizsgálatával és ellenőrzésével kapcsolatos egyes díjakról szóló 11/1998. (IV. 17.) KHVM–BM együttes rendelet I. számú melléklet, II. fejezet 4. és 11. pontja
-[^10]: A 4. § (2) bekezdése az 1/2017. (I. 3.) NFM rendelet 37. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § a 9/2026. (X. 5.) KBM rendelet 9. §-ával megállapított szöveg.
