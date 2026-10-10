@@ -14,4 +14,8 @@
 
 (7) A nyomozó hatóság vezetőjének fenyegetettsége esetén a személyi védelmet a felettes szerv vezetője, a bv. intézet vezetőjének fenyegetettsége esetén a személyi védelmet a büntetés-végrehajtás országos parancsnoka rendeli el.
 
+(7a)[^8] Az NVVH elnökének fenyegetettsége esetén a személyi védelmet az NVVH nyomozati elnökhelyettese rendeli el.
+
 (8) Ha a Tanúvédelmi Szolgálat – a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény alapján – sürgősségi intézkedésként rendeli el a személyi védelmet, a személyi védelmi feladatok ellátását haladéktalanul megkezdi, és az elrendelésről szóló határozatot 24 órán belül meghozza.
+
+[^8]: A 7. § (7a) bekezdését a 277/2026. (X. 9.) Korm. rendelet 3. §-a iktatta be.
