@@ -44,11 +44,31 @@
 
 ## c) a Kormány döntése alapján a vezető állású munkavállaló számára díjazásként az a) alpontban meghatározott értéknél magasabb prémium is megállapítható.
 
+## 9a.[^1] A Kormány felhívja az érintett minisztereket és a miniszterelnök nemzetbiztonsági főtanácsadóját, hogy az 1. és a 2. melléklet szerinti gazdasági társaságok esetében intézkedjenek
+
+## a) a tulajdonosi joggyakorlásuk alatt álló gazdasági társaságok, valamint az azok többségi befolyása alatt álló gazdasági társaságok,
+
+## b) az irányításuk vagy felügyeletük alatt álló központi költségvetési szervek tulajdonosi joggyakorlása alatt álló gazdasági társaságok, az azok többségi befolyása alatt álló gazdasági társaságok
+
+## tekintetében a 3–9. pontban meghatározottak végrehajtásáról.
+
+| Felelős: | érintett miniszterek a miniszterelnök nemzetbiztonsági főtanácsadója |
+
+| Határidő: | 2026. október 31. |
+
+## 9b.[^2] A Kormány felhívja az érintett minisztereket és a miniszterelnök nemzetbiztonsági főtanácsadóját, hogy adjanak tájékoztatást a Miniszterelnökséget vezető miniszter, valamint a miniszter részére a 9a. pontban meghatározottak alapján végrehajtott intézkedésekről és azok eredményéről, ideértve különösen a gazdasági társaságok létesítő okiratainak, belső szabályzatainak módosítását.
+
+| Felelős: | érintett miniszterek a miniszterelnök nemzetbiztonsági főtanácsadója |
+
+| Határidő: | 2026. november 30. |
+
+## 9c.[^3] E határozat rendelkezéseit nem kell alkalmazni azokra a gazdasági társaságokra, amelyek tekintetében a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény az e kormányhatározat szabályozási körét érintő kivételszabályt állapít meg.
+
 ## 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 11.[^1]
+## 11.[^4]
 
-1. melléklet az 1263/2026. (VIII. 19.) Korm. határozathoz
+1. melléklet az 1263/2026. (VIII. 19.) Korm. határozathoz[^5]
 
 Magas komplexitású gazdasági társaságok
 
@@ -56,88 +76,102 @@ Magas komplexitású gazdasági társaságok
 
 2. Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
 
-3. Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság
+3. Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság
 
-4. Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság
+4. Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság
 
-5. Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság
+5. HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság
 
-6. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
+6. HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság
 
-7. Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság
+7. IdomSoft Informatikai Zártkörűen Működő Részvénytársaság
 
-8. Magyar Posta Zártkörűen Működő Részvénytársaság
+8. Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság
 
-9. MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság
+9. Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság
 
-10. MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság
+10. Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság
 
-11. MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság
+11. Magyar Földgáztároló Zártkörűen Működő Részvénytársaság
 
-12. MVM Energetika Zártkörűen Működő Részvénytársaság
+12. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
 
-13. Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság
+13. Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság
 
-14. Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
+14. Magyar Posta Zártkörűen Működő Részvénytársaság
 
-15. NISZ Nemzeti Infokommunikációs Zártkörűen Működő Részvénytársaság
+15. Magyar Vonatflotta Zártkörűen Működő Részvénytársaság
 
-16. RÁBA Járműipari Holding Nyilvánosan Működő Részvénytársaság
+16. MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság
 
-17. Szerencsejáték Zártkörűen Működő Részvénytársaság
+17. MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság
 
-18. N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
+18. MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság
 
-19. Paks II Atomerőmű Zártkörűen Működő Részvénytársaság
+19. MÁV Személyszállítási Zártkörűen Működő Részvénytársaság
 
-20. MVM Mátrai Energia Zártkörűen Működő Részvénytársaság
+20. MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság
 
-21. MVM ONEnergy Zártkörűen Működő Részvénytársaság
+21. MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság
 
-22. Magyar Földgáztároló Zártkörűen Működő Részvénytársaság
+22. MVM Balance Zártkörűen Működő Részvénytársaság
 
-23. MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság
+23. MVM Démász Áramhálózati Korlátolt Felelősségű Társaság
 
-24. MVM Démász Áramhálózati Korlátolt Felelősségű Társaság
+24. MVM Főgáz Korlátolt Felelősségű Társaság
 
-25. MVM Főgáz Korlátolt Felelősségű Társaság
+25. MVM Energetika Zártkörűen Működő Részvénytársaság
 
 26. MVM Égáz-Dégáz Zártkörűen Működő Részvénytársaság
 
 27. MVM Émász Áramhálózati Korlátolt Felelősségű Társaság
 
-28. MVM Ügyfélkapcsolati Korlátolt Felelősségű Társaság
+28. MVM Mátrai Energia Zártkörűen Működő Részvénytársaság
 
-29. MVM Next Energiakereskedelmi Zártkörűen Működő Részvénytársaság
+29. MVM Mátra Gázturbinás Erőmű Korlátolt Felelősségű Társaság
 
-30. MVM Upstream Energy Zártkörűen Működő Részvénytársaság
+30. MVM Next Energiakereskedelmi Zártkörűen Működő Részvénytársaság
 
-31. MVM Upstream Korlátolt Felelősségű Társaság
+31. MVM ONEnergy Zártkörűen Működő Részvénytársaság
 
-32. MVM Services Zártkörűen Működő Részvénytársaság
+32. MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság
 
-33. MVM Balance Zártkörűen Működő Részvénytársaság
+33. MVM Services Zártkörűen Működő Részvénytársaság
 
 34. MVM Tisza Erőmű Korlátolt Felelősségű Társaság
 
-35. MVM Mátra Gázturbinás Erőmű Korlátolt Felelősségű Társaság
+35. MVM Upstream Energy Zártkörűen Működő Részvénytársaság
 
-36. HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság
+36. MVM Upstream Korlátolt Felelősségű Társaság
 
-37. MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság
+37. MVM Ügyfélkapcsolati Korlátolt Felelősségű Társaság
 
-38. MÁV Személyszállítási Zártkörűen Működő Részvénytársaság
+38. N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
 
-39. MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság
+39. Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaság
 
-40. Magyar Vonatflotta Zártkörűen Működő Részvénytársaság
+40. Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság
 
-41. OKK Országos Közlekedési Központ Zártkörűen Működő Részvénytársaság
+41. Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság
 
-42. Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság
+42. Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
-43. IdomSoft Informatikai Zártkörűen Működő Részvénytársaság
+43. NISZ Nemzeti Infokommunikációs Zártkörűen Működő Részvénytársaság
 
-44. Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság
+44. OKK Országos Közlekedési Központ Zártkörűen Működő Részvénytársaság
 
-[^1]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+45. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
+
+46. Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság
+
+47. Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság
+
+48. Szerencsejáték Zártkörűen Működő Részvénytársaság
+
+49. Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság
+
+[^1]: A 9a. pontot az 1330/2026. (X. 9.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 9b. pontot az 1330/2026. (X. 9.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 9c. pontot az 1330/2026. (X. 9.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1330/2026. (X. 9.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
