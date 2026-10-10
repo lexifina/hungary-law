@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2021-07-09 | 2012-22-20-22.43 | 398/2021. (VII. 6.) Korm. rendelet |
 | 2023-01-01 | 2012-22-20-22.44 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2025-01-01 | 2012-22-20-22.45 | 328/2024. (XI. 14.) Korm. rendelet |
+| 2026-10-10 | 2012-22-20-22.46 | 70/2015. (III. 30.) Korm. rendelet |
