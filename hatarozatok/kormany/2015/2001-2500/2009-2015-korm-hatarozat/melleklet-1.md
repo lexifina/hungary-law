@@ -68,7 +68,7 @@
 
 1.27. az általános rendőrségi feladatok ellátására létrehozott szerv szervei,
 
-1.28.[^3]
+1.28.[^3] Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 
 1.29. büntetés-végrehajtási szervek,
 
@@ -288,7 +288,7 @@
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
 [^2]: Az 1. melléklet 1. pont 1.22. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet 1.28. alpontját az 1312/2026. (IX. 21.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: Az 1. melléklet 1.28. alpontját az 1312/2026. (IX. 21.) Korm. határozat 4. pontja hatályon kívül helyezte, újonnan az 1328/2026. (X. 9.) Korm. határozat 1. pontja iktatta be.
 [^4]: Az 1. melléklet 1. pont 1.31. alpontját az 1041/2025. (III. 5.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^5]: Az 1. melléklet 1. pont 1.33. alpontja az 1405/2019. (VII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
 [^6]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.

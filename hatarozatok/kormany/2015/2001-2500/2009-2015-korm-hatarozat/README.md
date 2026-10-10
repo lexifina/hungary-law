@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2009-30
 | 2025-11-05 | 2015-2009-30-22.14 | 1604/2019. (X. 16.) Korm. határozat |
 | 2025-12-30 | 2015-2009-30-22.15 | 1585/2025. (XII. 29.) Korm. határozat |
 | 2026-10-01 | 2015-2009-30-22.16 | 1312/2026. (IX. 21.) Korm. határozat |
+| 2026-10-10 | 2015-2009-30-22.17 | 1312/2026. (IX. 21.) Korm. határozat |
