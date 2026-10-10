@@ -56,6 +56,8 @@
 
 | 21c. | a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság ügyvezető igazgatói szolgálati beosztásba vezénylés | miniszter |
 
+| 21d. | a Hszt. 68/A. § (1) bekezdése alapján az NVVH-hoz vezénylés | miniszter |
+
 | 22. | IV. Fegyelmi hatáskörök |  |
 
 | 23. | A rendfokozatot érintő fegyelmi fenyítés kiszabása az ezredesi rendfokozat kivételével a főtiszti, tiszti rendfokozati állománycsoportba tartozó esetében | országos főigazgató |
@@ -72,7 +74,7 @@
 
 | 29. | Különleges foglalkoztatási állomány tagjának a közfoglalkoztatás szervezésére, irányítására és végrehajtására irányuló feladatok ellátására létrehozott közigazgatási szervhez vezénylése | országos rendőrfőkapitány |
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^85]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^86]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -148,4 +150,4 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 IV. A 32/I. § (2) bekezdése és a 32/J. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^85]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^86]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
