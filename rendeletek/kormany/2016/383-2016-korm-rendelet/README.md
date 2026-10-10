@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2025-12-31 | 2016-383-20-22.53 | 220/2019. (IX. 12.) Korm. rendelet |
 | 2026-01-08 | 2016-383-20-22.54 | 89/2024. (IV. 23.) Korm. rendelet |
 | 2026-08-28 | 2016-383-20-22.55 | 129/2026. (VIII. 25.) Korm. rendelet |
+| 2026-10-10 | 2016-383-20-22.56 | 273/2026. (X. 9.) Korm. rendelet |

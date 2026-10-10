@@ -4,11 +4,11 @@
 
 a) a NÉBIH-et,
 
-b)[^41] a Pest Vármegyei Kormányhivatalt,
+b)[^42] a Pest Megyei Kormányhivatalt,
 
-c)[^42] a vármegyei kormányhivatalt
+c)[^43] a megyei kormányhivatalt
 
 jelöli ki.
 
-[^41]: A 7. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^42]: A 7. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^42]: A 7. § b) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^43]: A 7. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.

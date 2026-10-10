@@ -1,6 +1,6 @@
 ## 5. Az élelmiszerlánc-felügyeleti szerv kijelölése
 
-13. §[^80] A Kormány élelmiszerlánc-felügyeleti szervként
+13. §[^81] A Kormány élelmiszerlánc-felügyeleti szervként
 
 a) a minisztert,
 
@@ -12,20 +12,26 @@ d) a NÉBIH-et,
 
 e) az NKFH-t,
 
-f) a Pest Vármegyei Kormányhivatalt,
+f)[^82] a Pest Megyei Kormányhivatalt,
 
-g) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatalt,
+g)[^83] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalt,
 
-h) a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró kormányhivatal),
+h)[^84] a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalt (a továbbiakban: növény- és talajvédelmi hatáskörben eljáró kormányhivatal),
 
-i) a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
+i)[^85] a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal),
 
 j) a jegyzőt,
 
-k) a borászati hatáskörben eljáró vármegyei kormányhivatalt,
+k)[^86] a borászati hatáskörben eljáró megyei kormányhivatalt,
 
-l) a pálinkaellenőrző hatóságként eljáró vármegyei kormányhivatalt
+l)[^87] a pálinkaellenőrző hatóságként eljáró megyei kormányhivatalt
 
 jelöli ki.
 
-[^80]: A 13. § a 328/2024. (XI. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^81]: A 13. § a 328/2024. (XI. 14.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^82]: A 13. § f) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^83]: A 13. § g) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^84]: A 13. § h) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^85]: A 13. § i) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^86]: A 13. § k) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^87]: A 13. § l) pontja a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 2. pontja szerint módosított szöveg.
