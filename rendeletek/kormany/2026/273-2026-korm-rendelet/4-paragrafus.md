@@ -1,0 +1,1 @@
+4. § A 22/2012. (II. 29.) Korm. rendelet 2. § (3) és (4) bekezdésében, 4. alcím címében, 4. § (1) bekezdés nyitó szövegrészében, valamint 4. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.

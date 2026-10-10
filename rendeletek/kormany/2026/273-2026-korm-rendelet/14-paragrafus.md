@@ -1,0 +1,3 @@
+14. §[^13]
+
+[^13]: A 14. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
