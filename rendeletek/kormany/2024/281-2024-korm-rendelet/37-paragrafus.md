@@ -1,6 +1,6 @@
 ## 29. A használatbavételi eljárásban hozott döntés
 
-37. § (1)[^43] Az építésügyi hatóság a használatbavételi eljárásban, ha az eljárásban szakkérdés vizsgálata
+37. § (1)[^44] Az építésügyi hatóság a használatbavételi eljárásban, ha az eljárásban szakkérdés vizsgálata
 
 a) szükséges, a használatbavételt határozattal engedélyezi vagy elutasítja,
 
@@ -24,7 +24,7 @@ f) az építési engedélyhez vagy egyszerű bejelentéshez nem kötött eltér�
 
 g) a lejárt hatályú építési engedély alapján, a tízéves intézkedési határidőnél régebben befejezett vagy használatba vett építmény esetén az építésügyi műszaki szakértő nyilatkozata nem áll rendelkezésre, vagy annak tartalma nem felel meg a valóságnak,
 
-h)[^44] ha szakkérdés vizsgálata szükséges és a 2. melléklet szerinti dokumentáció nem áll rendelkezésre, vagy az nem a valóságot tartalmazza,
+h)[^45] ha szakkérdés vizsgálata szükséges és a 2. melléklet szerinti dokumentáció nem áll rendelkezésre, vagy az nem a valóságot tartalmazza,
 
 i) új épület építése vagy meglévő épület – az ingatlan-nyilvántartási térképi adatbázisban változást eredményező – bővítése esetén az ingatlanügyi hatóság által érvényes záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendeletben előírt változási vázrajz az OÉNY-ben nem áll rendelkezésre,
 
@@ -32,16 +32,16 @@ j) a 35. § (4) bekezdés d) pontjában meghatározott zöldfelületi tanúsítv
 
 k) új épület esetén az energetikai tanúsítványt az OÉNY-be nem töltötték fel,
 
-l)[^45] az új épület nem felel meg a 36. § (2) bekezdés m) pont ma) alpontjában előírt követelményeknek,
+l)[^46] az új épület nem felel meg a 36. § (2) bekezdés m) pont ma) alpontjában előírt követelményeknek,
 
-m)[^46] meglévő épület bővítése esetén a bővítmény vagy a teljes épület nem felel meg a 36. § (2) bekezdés m) pont mb) alpontjában előírt követelményeknek, vagy
+m)[^47] meglévő épület bővítése esetén a bővítmény vagy a teljes épület nem felel meg a 36. § (2) bekezdés m) pont mb) alpontjában előírt követelményeknek, vagy
 
-n)[^47] az Épkiv.-ben meghatározott esetben nem áll rendelkezésre az építész tervező Méptv. 173. § (5) bekezdése szerinti hozzájáruló nyilatkozata az elektronikus építési naplóban, vagy a területi építész kamara Méptv. 173. § (6)–(8) bekezdése szerinti nyilatkozata.
+n)[^48] az Épkiv.-ben meghatározott esetben nem áll rendelkezésre az építész tervező Méptv. 173. § (5) bekezdése szerinti hozzájáruló nyilatkozata az elektronikus építési naplóban, vagy a területi építész kamara Méptv. 173. § (6)–(8) bekezdése szerinti nyilatkozata.
 
 (4) Ha a használatbavételi eljárás során az építésügyi hatóság a rendeltetésszerű és biztonságos építményhasználatot nem gátló hiányosságot tapasztal, a használatbavételi engedélyt megadja, vagy a használatbavételt tudomásul veszi, és ezzel egyidejűleg teljesítési határidő megjelölésével és a nemteljesítés esetére a végrehajtás módjáról szóló tájékoztatással kötelezi az építtetőt a még fennálló hibák, hiányosságok megszüntetése érdekében szükséges építési munkák elvégzésére.
 
-[^43]: A 37. § (1) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
-[^44]: A 37. § (3) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.
-[^45]: A 37. § (3) bekezdés l) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 18. pontja szerint módosított szöveg.
-[^46]: A 37. § (3) bekezdés m) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 19. pontja szerint módosított szöveg.
-[^47]: A 37. § (3) bekezdés n) pontját a 448/2025. (XII. 29.) Korm. rendelet 82. §-a iktatta be.
+[^44]: A 37. § (1) bekezdés nyitó szövegrésze a 448/2025. (XII. 29.) Korm. rendelet 93. § b) pontja szerint módosított szöveg.
+[^45]: A 37. § (3) bekezdés h) pontja a 448/2025. (XII. 29.) Korm. rendelet 93. § e) pontja szerint módosított szöveg.
+[^46]: A 37. § (3) bekezdés l) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 18. pontja szerint módosított szöveg.
+[^47]: A 37. § (3) bekezdés m) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 19. pontja szerint módosított szöveg.
+[^48]: A 37. § (3) bekezdés n) pontját a 448/2025. (XII. 29.) Korm. rendelet 82. §-a iktatta be.

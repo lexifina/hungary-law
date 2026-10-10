@@ -1,4 +1,4 @@
-54. § (1)[^73] Az építésügyi hatóság az építőipari kivitelezési tevékenység végzésének hivatalbóli hatósági ellenőrzését a helyszínen, valamint távoli eléréssel az elektronikus építési napló alkalmazásban
+54. § (1)[^74] Az építésügyi hatóság az építőipari kivitelezési tevékenység végzésének hivatalbóli hatósági ellenőrzését a helyszínen, valamint távoli eléréssel az elektronikus építési napló alkalmazásban
 
 a) szúrópróbaszerűen, vagy
 
@@ -22,7 +22,7 @@ a) meghatározza a tárgyévben tartandó építésügyi célvizsgálatok szempo
 
 b) az előző évi nyilvántartási adatok alapján utóvizsgálati ellenőrzést rendelhet el azokon a településeken, településrészeken, ahol a szabálytalanságok száma növekedett.
 
-(8)[^74] Az építésügyi hatóság az engedélyezett vagy bejelentett építési tevékenység végzését
+(8)[^75] Az építésügyi hatóság az engedélyezett vagy bejelentett építési tevékenység végzését
 
 a) az 53. § (2) bekezdésében meghatározott vizsgálati szabályok szerint szükség esetén, de legalább két alkalommal, és
 
@@ -32,5 +32,5 @@ ellenőrzi.
 
 (9) Az építésügyi hatóság az előző évi ellenőrzések megállapításait tartalmazó összefoglaló jelentését az ellenőrzési időszakot követő harmincadik napig megküldi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszternek.
 
-[^73]: Az 54. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 87. § (1) bekezdésével megállapított szöveg.
-[^74]: Az 54. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 87. § (2) bekezdésével megállapított szöveg.
+[^74]: Az 54. § (1) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 87. § (1) bekezdésével megállapított szöveg.
+[^75]: Az 54. § (8) bekezdése a 448/2025. (XII. 29.) Korm. rendelet 87. § (2) bekezdésével megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-281-20-
 | 2026-02-27 | 2024-281-20-22.10 | 448/2025. (XII. 29.) Korm. rendelet |
 | 2026-06-30 | 2024-281-20-22.11 | 103/2026. (VI. 29.) Korm. rendelet |
 | 2026-07-29 | 2024-281-20-22.12 | 103/2026. (VI. 29.) Korm. rendelet |
+| 2026-10-10 | 2024-281-20-22.13 | 279/2026. (X. 9.) Korm. rendelet |

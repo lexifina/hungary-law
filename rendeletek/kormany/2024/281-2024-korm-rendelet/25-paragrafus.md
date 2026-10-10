@@ -6,7 +6,7 @@ a) a tervezett építmény, építményrész és annak elhelyezése megfelel-e a
 
 b) az építési tevékenységgel érintett telek kialakítása – kivéve az összevont telepítési eljárás integrált építési engedélyezési szakaszában – a helyi építési szabályzatban meghatározottak szerint vagy ennek hiányában az illeszkedés szabályai szerint megtörtént-e, a telek rendezett-e,
 
-c)[^34] a tervezett építmény és az alkalmazott építészeti-műszaki megoldás megfelel-e az egyes építményekre, területekre védettséget elrendelő jogszabályoknak és az építési tevékenységre vonatkozó, a szakkérdés vizsgálatához tartozó szakági jogszabályokban meghatározott követelményeknek,
+c)[^35] a tervezett építmény és az alkalmazott építészeti-műszaki megoldás megfelel-e az egyes építményekre, területekre védettséget elrendelő jogszabályoknak és az építési tevékenységre vonatkozó, a szakkérdés vizsgálatához tartozó szakági jogszabályokban meghatározott követelményeknek,
 
 d) az építmény megépítése, rendeltetése, használata, fenntartása nem okoz-e a környezetében olyan káros hatást, amely a terület rendeltetésének megfelelő és jogszabályban meghatározott mértéket meghaladná, az állékonyságot, az életet és egészséget vagy a közbiztonságot veszélyeztetné,
 
@@ -34,4 +34,4 @@ d) az építési tevékenységet építési engedély nélkül megkezdték.
 
 (3) Ha az építésügyi hatóság a kérelmet a (2) bekezdés d) pontja alapján utasította el, az 56. §-ban és az 57. §-ban foglaltak szerint intézkedik.
 
-[^34]: A 25. § (1) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 15. pontja szerint módosított szöveg.
+[^35]: A 25. § (1) bekezdés c) pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 15. pontja szerint módosított szöveg.

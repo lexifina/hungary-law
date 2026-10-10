@@ -4,7 +4,7 @@ A szakkérdések vizsgálatához szükséges dokumentációk tartalma
 
 1. A műemléki érték védelmével kapcsolatos szakkérdések vizsgálatához szükséges dokumentáció
 
-1.1.[^105] Műemléki környezetben, műemléki jelentőségű területen, műemlék történeti tájon, világörökségi területen, új építmény építése, meglévő nem védett építmény bővítése vagy bontása esetén az építészeti-műszaki dokumentáció a tervezés tárgyától függően az 1. mellékletben meghatározottakon túl tartalmazza
+1.1.[^106] Műemléki környezetben, műemléki jelentőségű területen, műemlék történeti tájon, világörökségi területen, új építmény építése, meglévő nem védett építmény bővítése vagy bontása esetén az építészeti-műszaki dokumentáció a tervezés tárgyától függően az 1. mellékletben meghatározottakon túl tartalmazza
 
 1.1.1. a közterület és a műemléki értékek meghatározó feltárulásának irányából készült,
 
@@ -20,7 +20,7 @@ A szakkérdések vizsgálatához szükséges dokumentációk tartalma
 
 ## rajzi és szöveges dokumentálásával.
 
-1.2.[^106]
+1.2.[^107]
 
 2. A műszaki biztonsági szakkérdések vizsgálatához szükséges dokumentáció
 
@@ -128,7 +128,7 @@ A szakkérdések vizsgálatához szükséges dokumentációk tartalma
 
 6.1.1.2. a technológia tűzvédelmére,
 
-6.1.1.3.[^107] az alkalmazott építési termékek, épületszerkezetek tűzvédelmi paramétereire,
+6.1.1.3.[^108] az alkalmazott építési termékek, épületszerkezetek tűzvédelmi paramétereire,
 
 6.1.1.4. a tűzszakaszolásra, a tűzterjedés gátlására, a tűztávolságra,
 
@@ -160,7 +160,7 @@ A szakkérdések vizsgálatához szükséges dokumentációk tartalma
 
 6.2. Meglévő épület bővítésére vonatkozó építési engedélyezési eljárás esetén a tűzvédelmi dokumentáció a 6.1. pontban felsorolt azon elemeket tartalmazza, amelyeket a bővítés tűzvédelmi szempontból érint.
 
-6.3.[^108] Használatbavételi engedélyezési eljárás esetén a dokumentáció tartalma
+6.3.[^109] Használatbavételi engedélyezési eljárás esetén a dokumentáció tartalma
 
 6.3.1. az alkalmazott építési termékek, épületszerkezetek tűzvédelmi megfelelőségét igazoló dokumentumok,
 
@@ -170,7 +170,7 @@ A szakkérdések vizsgálatához szükséges dokumentációk tartalma
 
 6.3.4. a technológia tűzvédelmét érintő műszaki megoldások, a tűz- vagy robbanásveszélyes készülék, gép, berendezés, technológia tűzvédelmi megfelelőségét igazoló dokumentumok.
 
-[^105]: A 2. melléklet 1. pont 1.1. alpontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^106]: A 2. melléklet 1. pont 1.2. alpontját a 449/2025. (XII. 29.) Korm. rendelet 92. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^107]: A 2. melléklet 6.1.1.3. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 43. pontja szerint módosított szöveg.
-[^108]: A 2. melléklet 6.3. pontját a 448/2025. (XII. 29.) Korm. rendelet 91. § (3) bekezdése iktatta be.
+[^106]: A 2. melléklet 1. pont 1.1. alpontja a 449/2025. (XII. 29.) Korm. rendelet 92. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^107]: A 2. melléklet 1. pont 1.2. alpontját a 449/2025. (XII. 29.) Korm. rendelet 92. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^108]: A 2. melléklet 6.1.1.3. pontja a 448/2025. (XII. 29.) Korm. rendelet 92. § 43. pontja szerint módosított szöveg.
+[^109]: A 2. melléklet 6.3. pontját a 448/2025. (XII. 29.) Korm. rendelet 91. § (3) bekezdése iktatta be.

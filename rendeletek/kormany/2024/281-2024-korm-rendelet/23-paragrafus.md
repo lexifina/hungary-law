@@ -1,6 +1,6 @@
 23. § (1) A lakóépület bővítményének felépítéséről az építésügyi hatóság hatósági bizonyítványt állít ki, ha a fővállalkozó kivitelező az épület felépítésének megtörténtéről az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: Épkiv.) 14. §-ában meghatározott tartalmú nyilatkozatot tett.
 
-(1a)[^33] Ha az (1) bekezdésben meghatározott nyilatkozattevő meghalt vagy megszűnt, az ott meghatározott tartalmú nyilatkozatot az építésügyi műszaki szakértő teszi meg.
+(1a)[^34] Ha az (1) bekezdésben meghatározott nyilatkozattevő meghalt vagy megszűnt, az ott meghatározott tartalmú nyilatkozatot az építésügyi műszaki szakértő teszi meg.
 
 (2) A lakóépület bővítményére vonatkozó hatósági bizonyítvány iránti kérelem benyújtásakor az építtetőnek csatolnia kell az épületek energetikai jellemzőinek meghatározásáról szóló 9/2023. (V. 25.) ÉKM rendelet [a továbbiakban: 9/2023. (V. 25.) ÉKM rendelet] hatálya alá tartozó meglévő épület bővítése esetén a bővítményre, ha a bővítmény hasznos alapterülete meghaladja a meglévő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a 9/2023. (V. 25.) ÉKM rendeletben meghatározott számítást vagy energetikai tanúsítványt, amely igazolja, hogy az építmény megfelel
 
@@ -30,4 +30,4 @@ b) a települési önkormányzati adóhatóságnak, valamint
 
 c) az ingatlanügyi hatóságnak.
 
-[^33]: A 23. § (1a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 80. §-a iktatta be.
+[^34]: A 23. § (1a) bekezdését a 448/2025. (XII. 29.) Korm. rendelet 80. §-a iktatta be.
