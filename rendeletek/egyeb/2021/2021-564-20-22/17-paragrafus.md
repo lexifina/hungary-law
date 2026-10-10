@@ -10,8 +10,10 @@
 
 (3) A SIS tv. 6. §-a alapján elhelyezett figyelmeztető jelzéssel kapcsolatos CS.SIS üzenetekről az NS.CP a SIRENE Irodát értesíti.
 
-(4) A SIS tv. 6. § (6) bekezdése szerinti esetben a körözést elrendelő hatóság beszerzi az ügyészség, illetve bíróság engedélyét, és továbbítja azt a SIRENE Iroda részére a jelzés ideiglenes lekérdezhetetlenné tételének végrehajtása érdekében.
+(4)[^2] A SIS tv. 6. § (6) bekezdése szerinti esetben a körözést elrendelő hatóság beszerzi az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a bíróság engedélyét, és továbbítja azt a SIRENE Iroda részére a jelzés ideiglenes lekérdezhetetlenné tételének végrehajtása érdekében.
 
 (5) Az európai vagy nemzetközi elfogatóparancson alapuló figyelmeztető jelzések ideiglenesen lekérdezhetetlenné tételről szóló engedélyt elektronikus úton kell a SIRENE Iroda részére megküldeni úgy, hogy a jelzésművelet, illetve annak hosszabbítása időszerűen végrehajtható legyen.
 
 (6) A jelzéskezelő a figyelmeztető jelzéshez legalább egy, az 1. mellékletben szereplő táblázat „A” oszlopa szerinti bűncselekmény típusnak megfelelő bűncselekményt jelöl meg.
+
+[^2]: A 17. § (4) bekezdése a 278/2026. (X. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.

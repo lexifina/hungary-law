@@ -1,3 +1,3 @@
-40. §[^17]
+40. §[^18]
 
-[^17]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,7 +2,7 @@
 
 19. § (1) Ha az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (3) vagy (4) bekezdésében meghatározott olyan figyelmeztető jelzés elhelyezésére kerül sor, amelynél a kért intézkedés azonnali intézkedést határoz meg, a jelzéskezelő – a 36. cikk (4) bekezdésében meghatározott tájékoztatási kötelezettség teljesítése érdekében – a figyelmeztető jelzés elhelyezésével egy időben tájékoztatást küld a SIRENE Irodának. A tájékoztatásnak tartalmaznia kell az azonnali intézkedés indokolását.
 
-(2)[^5] Ha az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdésében meghatározott figyelmeztető jelzés elhelyezését nemzetbiztonsági szolgálat vagy az általános rendőrségi feladatok ellátására létrehozott szerv rendeli el vagy kéri, az elrendeléssel egyidejűleg az elrendelés okáról, az elrendelő szervről és annak elérhetőségéről – a 36. cikk (4) bekezdésében meghatározott tájékoztatási kötelezettség teljesítése érdekében – tájékoztatni kell a SIRENE Irodát.
+(2)[^6] Ha az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdésében meghatározott figyelmeztető jelzés elhelyezését nemzetbiztonsági szolgálat vagy az általános rendőrségi feladatok ellátására létrehozott szerv rendeli el vagy kéri, az elrendeléssel egyidejűleg az elrendelés okáról, az elrendelő szervről és annak elérhetőségéről – a 36. cikk (4) bekezdésében meghatározott tájékoztatási kötelezettség teljesítése érdekében – tájékoztatni kell a SIRENE Irodát.
 
 (3) Ha a jelzéskezelő az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 37. cikke alapján a 36. cikk szerinti rejtett ellenőrzéssel, vagy célzott ellenőrzéssel kapcsolatos figyelmeztető jelzésben a C(2021) 92 final számú bizottsági végrehajtási határozat I. melléklet D. részében felsorolt, valamely egyéb információ beszerzését kéri, a találatot elérő és az alapján intézkedést foganatosító hatóságnak ezt figyelembe kell vennie, és a kért információkat lehetőség szerint össze kell gyűjtenie. Egy figyelmeztető jelzésben egyszerre legfeljebb öt, egyéb információ megjelölése lehetséges.
 
@@ -12,4 +12,4 @@
 
 (6) A jelzéskezelő az azonnali intézkedést igénylő, valamint a (3) bekezdés szerinti egyéb információ beszerzését igénylő figyelmeztető jelzés elhelyezését követően, annak tényéről elektronikus úton tájékoztatja a SIRENE Irodát.
 
-[^5]: A 19. § (2) bekezdése a 206/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 19. § (2) bekezdése a 206/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
