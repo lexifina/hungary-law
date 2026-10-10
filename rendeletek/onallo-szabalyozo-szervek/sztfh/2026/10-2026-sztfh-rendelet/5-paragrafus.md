@@ -1,9 +1,5 @@
 ## 5. A bányászati hulladékok kezeléséről szóló 13/2022. (I. 28.) SZTFH rendelet módosítása
 
-5. § A bányászati hulladékok kezeléséről szóló 13/2022. (I. 28.) SZTFH rendelet
+5. §[^6]
 
-a) 5. § (12) bekezdésében a „vármegyei” szövegrészek helyébe a „megyei” szöveg,
-
-b) 5. § (14) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

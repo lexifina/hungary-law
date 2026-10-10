@@ -22,4 +22,6 @@
 
 ## 1. Az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 13/2021. (X. 29.) SZTFH rendelet módosítása
 
-1. § Hatályát veszti az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló 13/2021. (X. 29.) SZTFH rendelet 3. alcíme.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
