@@ -1,1 +1,3 @@
-4. § A 22/2012. (II. 29.) Korm. rendelet 2. § (3) és (4) bekezdésében, 4. alcím címében, 4. § (1) bekezdés nyitó szövegrészében, valamint 4. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

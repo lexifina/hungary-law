@@ -1,3 +1,3 @@
-8. §[^7]
+8. §[^8]
 
-[^7]: A 8. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+[^8]: A 8. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.

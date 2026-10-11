@@ -1,3 +1,3 @@
-9. §[^8]
+9. §[^9]
 
-[^8]: A 9. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+[^9]: A 9. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
