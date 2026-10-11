@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet 43. § (5) bekezdésében az „ügyészi szerveknél a” szövegrész helyébe az „ügyészi szerveknél, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál a” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
