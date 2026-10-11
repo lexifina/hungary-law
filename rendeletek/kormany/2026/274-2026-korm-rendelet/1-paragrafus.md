@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. § (1) bekezdése a következő g) ponttal egészül ki:
+1. §[^2]
 
-(A köztársasági elnök és családtagja törvényben meghatározott állandó személyvédelmén túl e rendelet alapján állandó személyvédelemben részesül)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
