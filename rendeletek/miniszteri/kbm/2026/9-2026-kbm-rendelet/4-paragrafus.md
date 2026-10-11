@@ -1,5 +1,3 @@
-4. § Hatályát veszti az ER. 5. számú melléklet
+4. §[^5]
 
-a) 1.1.12. pontjában az „az 1.6. pont szerinti mérő-adatgyűjtő berendezés,” szövegrész,
-
-b) 1.1.14. pont d) alpontjában az „az 1.6. pont szerinti mérő-adatgyűjtő,” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

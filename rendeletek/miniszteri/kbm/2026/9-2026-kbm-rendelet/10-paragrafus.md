@@ -1,5 +1,3 @@
-10. § Hatályát veszti a 101/2003. (XII. 23.) GKM rendelet
+10. §[^11]
 
-a) 1. számú melléklete,
-
-b) 2. számú melléklete.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
