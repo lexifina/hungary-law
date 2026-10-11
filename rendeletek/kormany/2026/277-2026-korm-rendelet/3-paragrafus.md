@@ -1,3 +1,3 @@
-3. § A büntetőeljárással összefüggésben személyi védelemben részesíthető személyekről és a személyi védelem ellátásának szabályairól szóló 41/2018. (III. 13.) Korm. rendelet 7. §-a a következő (7a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(7a) Az NVVH elnökének fenyegetettsége esetén a személyi védelmet az NVVH nyomozati elnökhelyettese rendeli el.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

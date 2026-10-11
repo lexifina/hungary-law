@@ -1,3 +1,3 @@
-4. § A büntetőeljárással összefüggésben személyi védelemben részesíthető személyekről és a személyi védelem ellátásának szabályairól szóló 41/2018. (III. 13.) Korm. rendelet a következő 25. §-sal egészül ki:
+4. §[^5]
 
-„25. § E rendeletnek a büntetőeljárással összefüggésben személyi védelemben részesíthető személyekről és a személyi védelem ellátásának szabályairól szóló 41/2018. (III. 13.) Korm. rendeletnek a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény hatálybalépéséhez kapcsolódó módosításáról szóló 277/2026. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő eljárások során is alkalmazni kell.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
