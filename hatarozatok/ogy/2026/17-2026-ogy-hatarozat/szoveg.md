@@ -556,11 +556,11 @@ b) Digitalizációs és Technológiai Bizottság
 
 Elnök:
 
-Varga Balázs (TISZA)
+Járosi Péter (TISZA)[^20]
 
 Alelnök:
 
-Járosi Péter (TISZA)
+Varga Balázs (TISZA)[^21]
 
 Dr. Máthé Zsuzsa (KDNP)
 
@@ -630,7 +630,7 @@ Alelnök:
 
 Diószegi Judit (TISZA)
 
-Borics Mihály (TISZA)[^20]
+Borics Mihály (TISZA)[^22]
 
 Dr. Takács Árpád (Fidesz)
 
@@ -648,7 +648,7 @@ Dr. Kiss Máté Zsolt (TISZA)
 
 Dr. Miskolczi Orsolya (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^21]
+Melléthei-Barna Márton (TISZA)[^23]
 
 Tuzson Bence (Fidesz) 2026. május 13-tól
 
@@ -746,7 +746,7 @@ Bencsik János (Fidesz)
 
 Alelnök:
 
-Dr. Sárosi József (TISZA)[^22]
+Dr. Sárosi József (TISZA)[^24]
 
 Dr. Dicső Viktória (TISZA)
 
@@ -806,7 +806,7 @@ Dr. Bilisics Zita (TISZA)
 
 Dr. Bóka Zsolt (TISZA)
 
-Melléthei-Barna Márton (TISZA)[^23]
+Melléthei-Barna Márton (TISZA)[^25]
 
 Dr. Simon Krisztián Márk (TISZA)
 
@@ -832,7 +832,7 @@ Varga Szimeon (nemzetiségi szószóló)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^24]
+7.[^26]
 
 [^2]: A 24/2026. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 44/2026. (VIII. 11.) OGY határozat 1. pontjával megállapított szöveg.
@@ -852,8 +852,10 @@ Varga Szimeon (nemzetiségi szószóló)
 [^17]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
 [^18]: A 26/2026. (VI. 1.) OGY határozat 2. pontjával megállapított szöveg.
 [^19]: A 44/2026. (VIII. 11.) OGY határozat 2. pontjával megállapított szöveg.
-[^20]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
-[^21]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^20]: A 72/2026. (X. 13.) OGY határozat 1. pontjával megállapított szöveg.
+[^21]: A 72/2026. (X. 13.) OGY határozat 1. pontjával megállapított szöveg.
 [^22]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
 [^23]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
-[^24]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^25]: A 26/2026. (VI. 1.) OGY határozat 3. pontjával megállapított szöveg.
+[^26]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
