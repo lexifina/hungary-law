@@ -1,0 +1,1 @@
+46/B. § A 2026. évre meg nem fizetett tagdíj összegét az agrárpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezete biztosítja a közfeladatok zavartalan ellátása, valamint a tagok tehermentesítése érdekében, a fizetendő tagdíj mértékének felülvizsgálatára tekintettel.
