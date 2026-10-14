@@ -18,6 +18,7 @@
 
 ## 2.[^1]
 
-1. melléklet az 1168/2024. (VI. 14.) Korm. határozathoz
+1. melléklet az 1168/2024. (VI. 14.) Korm. határozathoz[^2]
 
 [^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1337/2026. (X. 14.) Korm. határozat 3. pontjával megállapított szöveg.
