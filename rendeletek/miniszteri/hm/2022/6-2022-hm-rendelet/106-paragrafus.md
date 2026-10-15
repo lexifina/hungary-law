@@ -1,23 +1,17 @@
-106. § (1) A rakodás-vezető oktató elméleti vizsga tárgycsoportjai a következők:
+106. §[^155] (1) A rakodás-vezető oktató elméleti vizsga tárgycsoportjai a következők:
 
-a) repülési szabályok és eljárások,
+a) oktatás és ellenőrzés módszertana és
 
-b) súlypontszámítási és teher berakodási ismeretek,
-
-c) be- és kirakást, valamint rögzítést biztosító műszaki eszközök, berendezések ismerete,
-
-d) teher vészeldobási eljárások, szabályok,
-
-e) oktatási módszerek és
-
-f) repülőegészségi ismeretek.
+b) a légijármű üzemeltetése a megengedett maximális és minimális paraméterekkel.
 
 (2) A rakodás-vezető oktató gyakorlati vizsga területei:
 
-a) az oktatott feladatra történő felkészítése,
+a) az oktatott útvonalszakaszra történő felkészítése,
 
-b) berendezések előkészítésének, üzemeltetésének, alkalmazásának ismertetése,
+b) a gyakorlati tapasztalatok módszeres átadása,
 
-c) együttműködés a személyzet más tagjaival és
+c) az oktatott által elkövetett hibák korrigálása és
 
-d) rakodás-vezető oktatása, értékelése.
+d) az oktatott értékelése.
+
+[^155]: A 106. § a 8/2026. (IX. 4.) HM rendelet 66. §-ával megállapított szöveg.

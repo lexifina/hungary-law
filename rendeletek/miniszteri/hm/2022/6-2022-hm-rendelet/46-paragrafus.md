@@ -1,27 +1,33 @@
 ## 17. A másodpilóta szakszolgálati engedély megszerzésének, meghosszabbításának, megújításának feltételei
 
-46. § (1) A másodpilóta szakszolgálati engedély megszerzésének feltételei:
+46. §[^82] (1) A másodpilóta szakszolgálati engedély megszerzésének feltételei:
 
 a) szakszolgálati vizsgára felkészítő tanfolyam elvégzésének igazolása,
 
 b) repülőegészségi alkalmasság megléte,
 
-c) akkreditált intézményben szerzett, államilag elismert legalább középfokú, B2 angol komplex nyelvvizsga, vagy STANAG 6001 követelmény szerinti nyelvvizsga esetén legalább 2.2.2.2. szint, vagy az ICAO követelmény szerinti nyelvvizsga esetén legalább 4. szint,
+c) akkreditált intézményben szerzett, államilag elismert, legalább középfokú, B2 angol komplex nyelvvizsga vagy STANAG 6001 követelmény szerinti nyelvvizsga esetén legalább 2.2.2.2. szint vagy az ICAO követelmény szerinti nyelvvizsga esetén legalább 4. szint,
 
-d) szállító repülőgép esetén legalább 200 óra összes repült idő légijárművön, ebből:
+d) angol nyelvű rádiótávbeszélő ismeretek igazolása,
 
-da) legalább 50 óra repült óra szállító repülőgépen gyakorló másodpilótaként, oktató légijármű parancsnok felügyelete mellett,
+e) az adott légijármű típusra vonatkozó kiképzési dokumentumban előírt típus átképzési program sikeres végrehajtása,
 
-db) oktató légijármű parancsnok felügyelete mellett nemzetközi közforgalomban legalább 20 útvonalszakasz az adott típuscsaládba tartozó légijárművön gyakorló másodpilótaként,
+f) a katonai légügyi hatóság előtt teljesített sikeres elméleti vizsga és hatósági gyakorlati vizsgarepülés és
 
-dc) a katonai légügyi hatóság által elfogadott szervezet által tartott 20 óra földi gyakorló berendezésben (FSTD) végrehajtott repülőszemélyzeti együttműködés (MCC) képzés elvégzése,
+g) szállító repülőgép esetén legalább 200 óra összes repült idő légijárművön, ebből:
 
-e) katonai helikopter esetén 20 repült óra az adott légijármű típuson,
+ga) a katonai légügyi hatóság által elfogadott szervezet által tartott oktató szervezetnél legalább 50 óra műszerrepülő gyakorlati képzés (amelyből 20 óra FNPT repülés- és navigációseljárás-gyakorló berendezés szimulátoron teljesíthető), 12 óra többmotoros repülő gyakorlati képzés (amelyből 5 óra FNPT szimulátoron teljesíthető), továbbá legalább 50 óra repült óra szállító repülőgépen gyakorló másodpilótaként, oktató légijármű parancsnok felügyelete mellett,
 
-f) rendvédelmi repülőgép esetén az adott légijármű kategóriában legalább 150 repült óra, ebből 50 óra az adott légijármű típuson, vagy
+gb) oktató légijármű parancsnok felügyelete mellett nemzetközi közforgalomban legalább 20 útvonalszakasz az adott típuscsaládba tartozó légijárművön gyakorló másodpilótaként,
 
-g) rendvédelmi helikopter esetén legalább 40 repült óra az adott légijármű típuson és
+gc) a katonai légügyi hatóság által elfogadott szervezet által tartott 20 óra FNPT repülés- és navigációseljárás-gyakorló berendezésben végrehajtott repülőszemélyzeti együttműködés (MCC) képzés elvégzése, valamint 10 óra sugárhajtómű orientációs képzés (JOC),
 
-h) a katonai légügyi hatóság előtt lebonyolított sikeres elméleti vizsga és hatósági gyakorlati vizsgarepülés.
+h) katonai helikopter esetén 20 repült óra az adott légijármű típuson,
 
-(2) Az (1) bekezdés szerinti másodpilóta kiterjesztésű szakszolgálati engedéllyel már rendelkező engedélyes, más típusra történő átképzése esetén az új kiterjesztés megszerzésének a feltétele az (1) bekezdés da)–dc) alpontjában meghatározott repült óra és útvonalszakasz 50%-ának teljesítése.
+i) rendvédelmi repülőgép esetén legalább 20 repült óra adott légijármű típuson vagy
+
+j) rendvédelmi helikopter esetén legalább 20 repült óra az adott légijármű típuson.
+
+(2) Ha a pályázó rendelkezik hatályos vagy 24 hónapnál nem régebben hatályát vesztett másodpilóta szakszolgálati engedéllyel az adott kategóriában, úgy más típusra történő átképzése esetén az új szakszolgálati engedély megszerzésének feltétele az (1) bekezdés g) pont ga) és gc) alpontjában meghatározott repült óra 50%-ának a teljesítése.
+
+[^82]: A 46. § a 8/2026. (IX. 4.) HM rendelet 24. §-ával megállapított szöveg.

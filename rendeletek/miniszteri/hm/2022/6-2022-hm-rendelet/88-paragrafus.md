@@ -2,6 +2,9 @@
 
 a) a légijármű fedélzeti és biztonsági berendezéseinek kezelése és
 
-b) mentési gyakorlat mindazokon a légijárműveken, amelyre az engedélyt megszerezni kívánja, vagy típus jogosítása kiterjed.
+b)[^133] a vészhelyzetben ellátandó feladatok bemutatása.
 
-(2) A légiutas-kísérő szakszolgálati engedéllyel már rendelkező engedélyes más típusra történő átképzése esetén a kiterjesztés megszerzésének a feltétele a 86. § f) pontjában meghatározott útvonalrepülés 50%-ának a teljesítése a kiképzés megkezdésétől.
+(2)[^134]
+
+[^133]: A 88. § (1) bekezdés b) pontja a 8/2026. (IX. 4.) HM rendelet 52. §-ával megállapított szöveg.
+[^134]: A 88. § (2) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 18. pontja hatályon kívül helyezte.

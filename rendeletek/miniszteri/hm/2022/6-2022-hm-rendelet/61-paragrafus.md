@@ -6,6 +6,9 @@ a) hatályos navigátor szakszolgálati engedély, vagy a kérelem benyújtásá
 
 b) szakszolgálati vizsgára felkészítő tanfolyam elvégzésének igazolása,
 
-c) jogosított navigátorként legalább 300 repült óra és legalább 100 nemzetközi útvonalszakasz teljesítése az adott légijármű típuson és
+c)[^99] jogosított navigátorként legalább 300 repült óra és legalább 50 nemzetközi útvonalszakasz végrehajtása az adott légijármű típuson és
 
-d) a katonai légügyi hatóság előtt lebonyolított sikeres elméleti és hatósági gyakorlati vizsgarepülés.
+d)[^100] a katonai légügyi hatóság előtt teljesített sikeres elméleti és hatósági gyakorlati vizsgarepülés.
+
+[^99]: A 61. § c) pontja a 8/2026. (IX. 4.) HM rendelet 34. §-ával megállapított szöveg.
+[^100]: A 61. § d) pontja a 8/2026. (IX. 4.) HM rendelet 80. § 17. pontja szerint módosított szöveg.

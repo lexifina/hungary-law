@@ -1,37 +1,39 @@
-60. § (1) A navigátor szakszolgálati engedély elméleti vizsga tárgycsoportjai:
+60. §[^98] (1) A navigátor szakszolgálati engedély elméleti vizsga tárgycsoportjai:
 
-a) repülési szabályok és eljárások,
+a) légijog,
 
-b) légitájékozódás és navigációs berendezés ismeret,
+b) repüléstervezés és eljárások,
 
-c) repülésmeteorológia,
+c) általános- és rádiónavigáció,
 
-d) repülő-egészségügyi ismeretek,
+d) repülésmeteorológia,
 
-e) gyakorlati aerodinamika,
+e) repülőegészségi ismeretek,
 
-f) légiüzemeltetés és légijármű ismeret,
+f) aerodinamika,
 
-g) a repülés különleges esetei,
+g) kommunikáció,
 
-h) teljesítményszámítás,
+h) légiforgalmi ismeretek,
 
-i) súlypontszámítás és
+i) légijármű üzemeltetés,
 
-j) a repülés navigációs tervezése.
+j) légijárműtípus-ismeret és
+
+k) a repülés különleges esetei.
 
 (2) A navigátor szakszolgálati engedély gyakorlati vizsga területei:
 
-a) léginavigáció valamennyi rendszeresített fedélzeti navigációs berendezés alkalmazásával,
+a) teljesítményszámítás,
 
-b) navigációs rendszerek, berendezések ellenőrzése, üzemeltetése,
+b) üzemanyag-számítás,
 
-c) tevékenység rendje a repülés imitált különleges eseteiben,
+c) súlypontszámítás,
 
-d) angol nyelvű rádióforgalmazás,
+d) FDP számolás (Flight Duty Period),
 
-e) teljesítményszámítás,
+e) a repülés navigációs tervezése és
 
-f) súlypontszámítás és
+f) vészhelyzeti angol nyelvű rádióforgalmazás.
 
-g) a repülés navigációs tervezése.
+[^98]: A 60. § a 8/2026. (IX. 4.) HM rendelet 33. §-ával megállapított szöveg.

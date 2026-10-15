@@ -1,19 +1,25 @@
-101. § (1) A rakodás-vezető elméleti vizsga tárgycsoportjai a következők:
+101. §[^151] (1) A rakodás-vezető elméleti vizsga tárgycsoportjai a következők:
 
-a) repülési szabályok és eljárások,
+a) légijog,
 
-b) súlypontszámítási és teher berakodási ismeretek,
+b) repülőegészségi ismeretek,
 
-c) be- és kirakást, valamint rögzítést biztosító műszaki eszközök, berendezések ismerete,
+c) légijármű alapismeretek,
 
-d) teher vészeldobási eljárások, szabályok és
+d) speciális kommunikációs alapismeretek,
 
-e) repülőegészségi ismeretek.
+e) terhelés- és súlypontszámítási ismeretek,
+
+f) meteorológiai alapismeretek és
+
+g) teher be- és kirakodási ismeretek.
 
 (2) A rakodás-vezető gyakorlati vizsga területei a következők:
 
-a) feladatra történő felkészülés,
+a) az útvonalszakaszra történő felkészülés,
 
-b) berendezések előkészítése, üzemeltetése, alkalmazása és
+b) súlypontszámítás és teher berakodás és
 
 c) együttműködés a személyzet más tagjaival.
+
+[^151]: A 101. § a 8/2026. (IX. 4.) HM rendelet 62. §-ával megállapított szöveg.

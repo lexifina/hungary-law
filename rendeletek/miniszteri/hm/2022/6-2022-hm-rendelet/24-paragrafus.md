@@ -1,4 +1,4 @@
-24. § (1) A szakszolgálati engedély megszerzéséhez, megújításához és kiterjesztéséhez szükséges tanfolyam elméleti és gyakorlati foglalkozásokból áll.
+24. § (1)[^39] A szakszolgálati engedély megszerzéséhez, megújításához és kiterjesztéséhez szükséges tanfolyam elméleti alapismereti és légijármű típusra vonatkozó foglalkozásokból áll.
 
 (2) A katonai légügyi hatóság a repülőhajózó könyv és az ugrási napló alapján elfogadja
 
@@ -8,4 +8,7 @@ b) a légijármű szakszemélyzet tagként teljesített, igazolt gyakorlati idő
 
 c) az ejtőernyős esetében az ejtőernyős ugrások számát és
 
-d) a fedélzeti rendszerkezelők esetén a feladatok számát és időtartamát.
+d)[^40] a fedélzeti rendszerkezelő, navigátor és légiutas-kísérő esetén az útvonalszakaszok számát.
+
+[^39]: A 24. § (1) bekezdése a 8/2026. (IX. 4.) HM rendelet 80. § 8. pontja szerint módosított szöveg.
+[^40]: A 24. § (2) bekezdés d) pontja a 8/2026. (IX. 4.) HM rendelet 80. § 9. pontja szerint módosított szöveg.

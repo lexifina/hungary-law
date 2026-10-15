@@ -1,15 +1,16 @@
-## 22. Az oktató fedélzeti mérnök és oktató fedélzeti technikus szakszolgálati engedély kiterjesztése
+## 22.[^114] Az oktató fedélzeti technikus szakszolgálati engedély kiterjesztése
 
-71. § A fedélzeti mérnök és fedélzeti technikus szakszolgálati engedély oktató fedélzeti mérnök és oktató fedélzeti technikus szaktevékenységre történő kiterjesztésének feltételei a következők:
+71. §[^115] (1) A fedélzeti technikus szakszolgálati engedély oktató fedélzeti technikus szaktevékenységre történő kiterjesztésének feltételei a következők:
 
-a) hatályos fedélzeti mérnök vagy fedélzeti technikus szakszolgálati engedély, vagy a kérelem benyújtásával egy időben és egy eljárás keretében kérelmezett fedélzeti mérnök, fedélzeti technikus szakszolgálati engedély,
+a) hatályos fedélzeti technikus szakszolgálati engedély,
 
 b) szakszolgálati vizsgára felkészítő tanfolyam elvégzésének igazolása,
 
-c) az adott légijármű kategóriában meghatározott repült óraszámok teljesítése az alábbiak szerint:
+c) az adott légijármű típuson legalább 200 repült óra teljesítése és
 
-ca) szállító repülőgép esetén szakszolgálati engedéllyel rendelkező fedélzeti mérnökként, fedélzeti technikusként legalább 300 repült óra,
+d) a katonai légügyi hatóság előtt teljesített sikeres elméleti vizsga és hatósági gyakorlati vizsgarepülés.
 
-cb) katonai helikopter esetén legalább 200 repült óra és
+(2) Ha a pályázó rendelkezik hatályos vagy 24 hónapnál nem régebben hatályát vesztett oktató kiterjesztésű fedélzeti technikus szakszolgálati engedéllyel az adott kategóriában, úgy más típusra történő átképzése esetén az új oktató fedélzeti technikus szakszolgálati engedély kiterjesztés megszerzésének feltétele az (1) bekezdés c) pontjában meghatározott repült óra 50%-ának a teljesítése.
 
-d) a katonai légügyi hatóság előtt lebonyolított sikeres elméleti vizsga és hatósági gyakorlati vizsgarepülés.
+[^114]: A 22. alcím címe a 8/2026. (IX. 4.) HM rendelet 81. § 16. pontja szerint módosított szöveg.
+[^115]: A 71. § a 8/2026. (IX. 4.) HM rendelet 41. §-ával megállapított szöveg.

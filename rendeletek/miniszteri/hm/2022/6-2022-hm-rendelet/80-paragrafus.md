@@ -1,13 +1,23 @@
-80. § (1) A fedélzeti rendszerkezelő elméleti vizsga tárgycsoportjai a következők:
+80. §[^125] (1) A fedélzeti rendszerkezelő elméleti vizsga tárgycsoportjai a következők:
 
-a) repülési szabályok és eljárások és
+a) légijog,
 
-b) rádiókommunikációs és navigációs, valamint speciális fedélzeti berendezések üzemeltetése, alkalmazása.
+b) repülőegészségi ismeretek,
+
+c) légijármű alapismeretek,
+
+d) speciális fedélzeti berendezések ismerete,
+
+e) speciális kommunikációs alapismeretek és
+
+f) meteorológiai alapismeretek.
 
 (2) A fedélzeti rendszerkezelő gyakorlati vizsga területei a következők:
 
-a) feladatra történő felkészülés,
+a) az útvonalszakaszra történő felkészülés,
 
-b) rádiókommunikációs és navigációs, valamint speciális fedélzeti berendezések üzemeltetése, alkalmazása,
+b) a speciális fedélzeti berendezések üzemeltetése, alkalmazása és
 
 c) együttműködés a személyzet más tagjaival.
+
+[^125]: A 80. § a 8/2026. (IX. 4.) HM rendelet 46. §-ával megállapított szöveg.

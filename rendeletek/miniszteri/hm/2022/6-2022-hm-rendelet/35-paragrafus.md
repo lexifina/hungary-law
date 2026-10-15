@@ -1,39 +1,43 @@
-35. § (1) A légijármű parancsnoki elméleti vizsga tárgycsoportjai:
+35. § (1)[^63] A légijármű parancsnok szakszolgálati engedély elméleti vizsga tárgycsoportjai:
 
 a) légijog,
 
 b) repüléstervezés és eljárások,
 
-c) műszertan,
+c) általános- és rádiónavigáció,
 
-d) navigáció,
+d) repülésmeteorológia,
 
-e) repülésmeteorológia,
+e) repülőegészségi ismeretek,
 
-f) emberi teljesítőképesség,
+f) aerodinamika,
 
-g) gyakorlati aerodinamika,
+g) kommunikáció,
 
-h) légijármű üzemeltetés,
+h) légiforgalmi ismeretek,
 
-i) légijármű ismeret,
+i) légijármű üzemeltetés,
 
-j) a repülés különleges esetei és
+j) légijárműtípus-ismeret és
 
-k) kommunikáció.
+k) a repülés különleges esetei.
 
 (2) A légijármű parancsnoki gyakorlati vizsga területei:
 
 a) rendszerek, berendezések ellenőrzése, földi és légi üzemeltetése,
 
-b) földközeli repülés,
+b)[^64]
 
 c) légitájékozódás,
 
 d) műszerrepülés,
 
-e) a repüléstechnika a tevékenység rendje a repülés imitált különleges eseteiben,
+e)[^65] a tevékenység rendje a repülés imitált különleges eseteiben,
 
 f) személyzet együttműködése és
 
 g) angol nyelvű rádióforgalmazás.
+
+[^63]: A 35. § (1) bekezdése a 8/2026. (IX. 4.) HM rendelet 19. §-ával megállapított szöveg.
+[^64]: A 35. § (2) bekezdés b) pontját a 8/2026. (IX. 4.) HM rendelet 81. § 11. pontja hatályon kívül helyezte.
+[^65]: A 35. § (2) bekezdés e) pontja a 8/2026. (IX. 4.) HM rendelet 81. § 12. pontja szerint módosított szöveg.

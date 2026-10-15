@@ -10,7 +10,7 @@ b) légijármű szakszemélyzet:
 
 ba) navigátor,
 
-bb) fedélzeti mérnök, fedélzeti technikus,
+bb)[^10] fedélzeti technikus,
 
 bc) fedélzeti rendszerkezelő,
 
@@ -37,3 +37,5 @@ a) oktató vagy
 b) berepülő
 
 kiterjesztés lehet.
+
+[^10]: A 4. § (1) bekezdés b) pont bb) alpontja a 8/2026. (IX. 4.) HM rendelet 81. § 1. pontja szerint módosított szöveg.

@@ -18,6 +18,12 @@ e) kiképző helikopter,
 
 f) rendvédelmi repülőgép,
 
-g) rendvédelmi helikopter és
+g)[^7] rendvédelmi helikopter,
 
-h) ejtőernyő.
+h)[^8] ejtőernyő és
+
+i)[^9] harcászati kiképző repülőgép.
+
+[^7]: A 3. § g) pontja a 8/2026. (IX. 4.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § h) pontja a 8/2026. (IX. 4.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § i) pontját a 8/2026. (IX. 4.) HM rendelet 2. § (2) bekezdése iktatta be.

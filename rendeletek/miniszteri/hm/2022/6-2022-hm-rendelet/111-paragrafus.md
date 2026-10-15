@@ -1,23 +1,27 @@
-111. § (1) Az ejtőernyős segédoktató szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
+111. §[^158] (1) Az ejtőernyős segédoktató szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
 
-a) aerodinamikai ismeretek,
+a) ejtőernyős szabályzatismeret,
 
-b) ejtőernyő típus ismeretek,
+b) ejtőernyős meteorológiai alapismeretek,
 
-c) ejtőernyős vészhelyzetek,
+c) ejtőernyős repülőegészségi alapismeretek,
 
-d) meteorológiai ismeretek,
+d) ejtőernyő aerodinamika,
 
-e) légijog,
+e) ejtőernyő vészhelyzetek,
 
-f) ejtőernyős szabályzó ismeret,
+f) ejtőernyő nyitóműszerek és minimális nyitási magasságot jelző készülékek,
 
-g) ellenőrzési módszerek és
+g) ellenőrzés és oktatás módszertana és
 
-h) ejtőernyő nyitóműszerek.
+h) ejtőernyőtípus-ismeret.
 
 (2) Az ejtőernyős segédoktató szakszolgálati engedély gyakorlati vizsga területei a következők:
 
-a) ejtőernyő rendszerek hajtogatásának ellenőrzése, üzemeltetése és kezelése, és
+a) ejtőernyő rendszerek hajtogatásának ellenőrzése, üzemeltetése és kezelése,
 
-b) ejtőernyős ugrás a katonai légügyi hatóság által meghatározott típusú ejtőernyővel.
+b) ejtőernyős felszerelések és azok felvételének ellenőrzése és
+
+c) ejtőernyős ugrás a katonai légügyi hatóság által meghatározott típusú ejtőernyővel.
+
+[^158]: A 111. § a 8/2026. (IX. 4.) HM rendelet 68. §-ával megállapított szöveg.

@@ -1,15 +1,17 @@
-87. § A légiutas-kísérő szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
+87. §[^132] A légiutas-kísérő szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
 
 a) légijog,
 
-b) légijármű ismeretek,
+b) repülőegészségi ismeretek,
 
-c) az általa kezelt fedélzeti és biztonsági berendezések működésének ismerete,
+c) légijármű alapismeret,
 
-d) vészhelyzetekben ellátandó feladatok ismerete,
+d) a légijármű biztonsági berendezéseinek ismerete,
 
-e) kereskedelmi, utas- és áruforgalmi ismeretek,
+e) vészhelyzetekben ellátandó feladatok ismerete,
 
-f) elsősegélynyújtás alapszabályainak ismerete és
+f) utas- és áruforgalmi ismeretek,
 
-g) repülőegészségi ismeretek.
+g) elsősegélynyújtás alapismeretek.
+
+[^132]: A 87. § a 8/2026. (IX. 4.) HM rendelet 51. §-ával megállapított szöveg.

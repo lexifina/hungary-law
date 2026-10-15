@@ -1,18 +1,26 @@
-50. § (1) A másodpilóta szakszolgálati engedély elméleti vizsga tárgycsoportjai:
+50. § (1)[^87] A másodpilóta szakszolgálati engedély elméleti vizsga tárgycsoportjai:
 
-a) repülési szabályok és eljárások,
+a) légijog,
 
-b) légitájékozódás és navigációs berendezés ismeret,
+b) repüléstervezés és eljárások,
 
-c) repülésmeteorológia,
+c) általános- és rádiónavigáció,
 
-d) repülő-egészségügyi ismeretek,
+d) repülésmeteorológia,
 
-e) gyakorlati aerodinamika,
+e) repülőegészségi ismeretek,
 
-f) légiüzemeltetés és légijármű ismeret és
+f) aerodinamika,
 
-g) a repülés különleges esetei.
+g) kommunikáció,
+
+h) légiforgalmi ismeretek,
+
+i) légijármű üzemeltetés,
+
+j) légijárműtípus-ismeret és
+
+k) a repülés különleges esetei.
 
 (2) A másodpilóta szakszolgálati engedély gyakorlati vizsga területei légijármű kategóriától és légijármű típustól függően:
 
@@ -29,3 +37,5 @@ e) tevékenység rendje a repülés imitált különleges eseteiben,
 f) együttműködés a személyzet más tagjaival és
 
 g) angol nyelvű rádióforgalmazás.
+
+[^87]: Az 50. § (1) bekezdése a 8/2026. (IX. 4.) HM rendelet 26. §-ával megállapított szöveg.

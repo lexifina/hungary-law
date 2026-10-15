@@ -1,23 +1,17 @@
-93. § (1) A légiutas-kísérő oktató szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
+93. §[^143] (1) A légiutas-kísérő oktató szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
 
-a) légijog,
+a) oktatás és ellenőrzés módszertana és
 
-b) légijárművek ismerete,
-
-c) az általa kezelt fedélzeti és biztonsági berendezések működésének ismerete,
-
-d) vészhelyzetekben ellátandó feladatok ismerete,
-
-e) oktatás módszertana,
-
-f) elsősegélynyújtás alapszabályainak ismerete és
-
-g) repülőegészségi ismeretek.
+b) a légijármű üzemeltetése a megengedett maximális és minimális paraméterekkel.
 
 (2) A légiutas-kísérő oktató gyakorlati vizsga tárgycsoportjai a következők:
 
-a) a légijármű fedélzeti és biztonsági berendezéseinek kezelése,
+a) az oktatott repülésre történő felkészítése,
 
-b) mentési gyakorlat és
+b) a gyakorlati tapasztalatok módszeres átadása,
 
-c) oktatási tevékenység bemutatása.
+c) az oktatott által elkövetett hibák korrigálása és
+
+d) az oktatott értékelése.
+
+[^143]: A 93. § a 8/2026. (IX. 4.) HM rendelet 56. §-ával megállapított szöveg.

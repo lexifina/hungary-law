@@ -4,7 +4,7 @@ a) feladatra történő felkészülés,
 
 b) rendszerek, berendezések ellenőrzése, üzemeltetése,
 
-c) földközeli repülés,
+c)[^178]
 
 d) légitájékozódás,
 
@@ -17,3 +17,5 @@ g) repülésbiztonsági eljárások alkalmazása,
 h) együttműködés a személyzet más tagjával és
 
 i) angol nyelvű rádióforgalmazás.
+
+[^178]: A 132. § c) pontját a 8/2026. (IX. 4.) HM rendelet 81. § 22. pontja hatályon kívül helyezte.

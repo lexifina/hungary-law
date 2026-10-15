@@ -1,25 +1,27 @@
-121. § (1) A tandemejtőernyős szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
+121. § (1)[^165] A tandemejtőernyős szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
 
-a) aerodinamikai ismeretek,
+a) ejtőernyős szabályzatismeret,
 
-b) tandem- és ejtőernyő típus ismeretek,
+b) ejtőernyős meteorológiai alapismeretek,
 
-c) egészségügyi ismeretek,
+c) ejtőernyős repülőegészségi alapismeretek,
 
-d) ejtőernyős vészhelyzetek,
+d) ejtőernyő aerodinamika,
 
-e) meteorológiai ismeretek,
+e) ejtőernyő vészhelyzetek,
 
-f) légijog,
+f) ejtőernyő nyitóműszerek és minimális nyitási magasságot jelző készülékek,
 
-g) ejtőernyős szabályzó ismeretek,
+g) ellenőrzés és oktatás módszertana,
 
-h) ejtőernyő nyitóműszerek és minimális nyitási magasságot jelző készülékek és
+h) ejtőernyőtípus-ismeret és
 
-i) az utas felkészítésének menete.
+i) légijármű- és ejtőernyős személy- és teherdobás ismeretek.
 
 (2) A tandemejtőernyős szakszolgálati engedély gyakorlati vizsga területei a következők:
 
 a) tandemejtőernyők és utas ugrásra történő elő- és felkészítése,
 
 b) tandemejtőernyős ugrás a katonai légügyi hatóság által meghatározott típusú tandemejtőernyővel.
+
+[^165]: A 121. § (1) bekezdése a 8/2026. (IX. 4.) HM rendelet 72. §-ával megállapított szöveg.

@@ -1,19 +1,27 @@
-131. § A földi gyakorló berendezés oktató elméleti vizsga tárgycsoportjai a következők:
+131. §[^177] A földi gyakorló berendezés oktató elméleti vizsga tárgycsoportjai a következők:
 
 a) légijog,
 
-b) repülési szabályok és eljárások,
+b) repüléstervezés és eljárások,
 
-c) légitájékozódás,
+c) általános- és rádiónavigáció,
 
 d) repülésmeteorológia,
 
-e) gyakorlati aerodinamika,
+e) repülőegészségi ismeretek,
 
-f) légiüzemeltetés és légijármű ismeret,
+f) aerodinamika,
 
-g) a repülés különleges esetei,
+g) kommunikáció,
 
-h) földi gyakorló berendezés ismeret és
+h) légiforgalmi ismeretek,
 
-i) repülőegészségi ismeretek.
+i) légijármű üzemeltetés,
+
+j) légijárműtípus-ismeret,
+
+k) a repülés különleges esetei és
+
+l) földi gyakorló berendezés ismeret.
+
+[^177]: A 131. § a 8/2026. (IX. 4.) HM rendelet 77. §-ával megállapított szöveg.

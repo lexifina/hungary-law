@@ -1,7 +1,7 @@
-90. § A légiutas-kísérő szakszolgálati engedély meghosszabbításának feltételei a következők:
+90. §[^135] A légiutas-kísérő szakszolgálati engedély meghosszabbításának feltételei a következők:
 
-a) a kérelmező a kérelem benyújtását megelőző 24 hónapon belül elsősegélynyújtásból sikeres vizsgát tett,
+a) a 86. § szerint kiadott hatályos szakszolgálati engedély és
 
-b) a kérelmező a kérelem benyújtását megelőző 12 hónapon belül részt vett a jogosított légijárművek mentési gyakorlatán és
+b) a kérelem benyújtását megelőző 12 hónapon belül légiutas-kísérőként legalább 10 útvonalszakasz teljesítése az adott légijármű típuson.
 
-c) a kérelmező sikeres gyakorlati vizsgát tett a jogosított típusok fedélzeti és biztonsági berendezéseinek kezeléséből.
+[^135]: A 90. § a 8/2026. (IX. 4.) HM rendelet 53. §-ával megállapított szöveg.

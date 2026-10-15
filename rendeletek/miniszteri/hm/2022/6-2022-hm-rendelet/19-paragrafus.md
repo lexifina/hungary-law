@@ -14,4 +14,6 @@ c) oktatást biztosító képzési létesítménnyel, eszközökkel és
 
 d) az oktatott szakterületen előírt szakmai gyakorlattal rendelkező elméleti oktatókkal, valamint oktatói szakszolgálati engedéllyel és oktatói kiképzettséggel rendelkező gyakorlati oktatókkal.
 
-(4) Az oktató szervezet tevékenységét, a képzéssel kapcsolatos tematikát és a képzési programot a katonai légügyi hatóság engedélyezi.
+(4)[^34] Az oktató szervezet tevékenységét a katonai légügyi hatóság engedélyezi. Az oktató szervezet (3) bekezdés szerinti megfelelőségéről a katonai légügyi hatóság a helyszínen köteles meggyőződni.
+
+[^34]: A 19. § (4) bekezdése a 8/2026. (IX. 4.) HM rendelet 11. §-ával megállapított szöveg.

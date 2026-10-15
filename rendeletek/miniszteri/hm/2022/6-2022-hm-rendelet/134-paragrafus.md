@@ -2,16 +2,24 @@
 
 134. § (1) E rendelet hatálybalépése nem érinti az e rendelet hatálybalépése előtt kiadott szakszolgálati engedély hatályát. Az e rendelet hatálybalépésekor hatályos szakszolgálati engedélyek meghosszabbítására, megújítására, kiterjesztésére e rendeletet kell alkalmazni.
 
-(2) A 46. § (1) bekezdés d) pont dc) alpontjában meghatározott MCC követelményt az e rendelet hatálybalépésekor hatályos szakszolgálati engedéllyel rendelkező engedélyes esetében nem kell alkalmazni.
+(2)[^179]
 
-(3) A rendvédelmi feladatokat ellátó légiközlekedési szakszemélyzet kivételével a légijármű vezető, a légijármű szakszemélyzet tag, a légijármű fedélzetén szaktevékenységet folytató és az egyéb szaktevékenységet folytató személyzettag az e rendeletben meghatározott nyelvismeretre vonatkozó követelményeket az e rendelet hatálybalépését követő 24 hónapon belül teljesíti.
+(3)[^180]
 
-(4) A szaktevékenységet ellátó légiutas-kísérő az e rendeletben meghatározott nyelvismeretre vonatkozó követelményeket a rendelet hatálybalépését követő 24 hónapon belül teljesíti.
+(4)[^181]
 
-(5) Az e rendelet hatálybalépésekor szaktevékenységet ellátó légiutas-kísérő az e rendeletben meghatározott szakszolgálati engedélyre vonatkozó követelményeket a (3) bekezdés kivételével a rendelet hatálybalépését követő 12 hónapon belül teljesíti. A szakszolgálati engedély megszerzéséig a szaktevékenység folytatható.
+(5)[^182]
 
-(6) Az e rendelet hatálybalépésekor állományban lévő légiutas-kísérőkre a 86. § e) pontját nem kell alkalmazni.
+(6)[^183]
 
-(7) Az e rendelet hatálybalépését követően az ejtőernyős oktatói szakszolgálati engedély iránti kérelem esetén a 112. § b) pontjában előírt feltételt e rendelet hatálybalépését követő 12 hónap leteltéig nem kell alkalmazni.
+(7)[^184]
 
-(8) A rendvédelmi helikopter és a rendvédelmi repülőgép esetén a 35. § (1) bekezdésében meghatározott vizsgatárgyak szerinti ismeretek megszerzése a rendelet hatálybalépését követő 12 hónapon belül teljesíthető.
+(8)[^185]
+
+[^179]: A 134. § (2) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^180]: A 134. § (3) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^181]: A 134. § (4) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^182]: A 134. § (5) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^183]: A 134. § (6) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^184]: A 134. § (7) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
+[^185]: A 134. § (8) bekezdését a 8/2026. (IX. 4.) HM rendelet 81. § 23. pontja hatályon kívül helyezte.
