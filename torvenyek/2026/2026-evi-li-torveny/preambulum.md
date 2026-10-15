@@ -10,6 +10,6 @@
 
 [6] Az Országgyűlés e törvény elfogadásával végül kifejezésre juttatja azt is, hogy az információs szabadság, a múlt feltárása és a közéleti nyilvánosság egymást erősítő alkotmányos értékek. A történeti forrásokhoz való hozzáférés biztosítása a jövő nemzedékei iránti felelősségből fakadó kötelezettség is, a szabályozás hozzájárul a demokratikus közösség önismeretéhez is.
 
-[7] E törvény közvetlenül az 1956. évi forradalom és szabadságharc kitörésének hetvenedik évfordulója előtt lép hatályba. Az Országgyűlés ezzel is kifejezi azon meggyőződését, hogy a szabadság örökségéhez nemcsak a politikai önrendelkezés, hanem a múlt megismerésének szabadsága, a közügyek átláthatósága és a történelmi igazságok megismerése is hozzátartozik.
+[7] E törvény az 1956. évi forradalom és szabadságharc kitörésének hetvenedik évfordulóját követően lép hatályba. Az Országgyűlés ezzel is kifejezi azon meggyőződését, hogy a szabadság örökségéhez nemcsak a politikai önrendelkezés, hanem a múlt megismerésének szabadsága, a közügyek átláthatósága és a történelmi igazságok megismerése is hozzátartozik.
 
 [8] A fentiekre figyelemmel az Országgyűlés a következő törvényt alkotja:
