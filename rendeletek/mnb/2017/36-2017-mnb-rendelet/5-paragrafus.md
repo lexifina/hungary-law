@@ -1,3 +1,0 @@
-5. § (1) Amennyiben üzemzavar miatt az elektronikus ügyintézésre kötelezett ügyfélnek nincs lehetősége a beadványát, valamint annak mellékletét elektronikus úton benyújtani az MNB-hez, az üzemzavar elhárításáig a beadványt, valamint annak mellékletét elektronikus adathordozón, az MNB által az Eüsztv. 26. § (1) bekezdése alapján közzétett, a 451/2016. (XII. 19.) Korm. rendelet 37. §-a szerinti tájékoztatásában meghatározott dokumentum formátumban, a 4. § (2) bekezdésében meghatározott elérhetőségeken nyújthatja be, illetve teljesítheti.
-
-(2) Az (1) bekezdésben meghatározott esetben az üzemzavar ideje alatt a bejelentés a 4. § (2) bekezdésében meghatározott elérhetőségeken papír alapon is benyújtható, illetve teljesíthető.
