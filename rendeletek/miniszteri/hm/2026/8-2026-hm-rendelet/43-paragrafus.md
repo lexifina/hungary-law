@@ -1,3 +1,3 @@
-43. § Az R. 74. §-a helyébe a következő rendelkezés lép:
+43. §[^44]
 
-„74. § Az oktató fedélzeti technikus kiterjesztés jogosítja fel az engedélyest oktató fedélzeti technikus szakszolgálati tevékenység végzésére az adott légijármű típuson.”
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

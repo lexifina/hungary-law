@@ -1,3 +1,3 @@
-7. § Az R. 9. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép
+7. §[^8]
 
-(A benyújtott kérelmen a katonai légügyi hatóság feltünteti)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

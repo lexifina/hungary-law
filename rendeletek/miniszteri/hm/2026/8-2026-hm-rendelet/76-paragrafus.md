@@ -1,5 +1,3 @@
-## „h) a katonai légügyi hatóság előtt teljesített sikeres elméleti vizsga és hatósági gyakorlati vizsgarepülés.”
+76. §[^77]
 
-76. § Az R. 129. §-a a következő d) ponttal egészül ki:
-
-(A földi gyakorló berendezés oktató szakszolgálati engedély megújításának feltételei a következők:)
+[^77]: A 76. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-12. § Az R. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(3) A szakszolgálati engedély megszerzése, megújítása és kiterjesztése érdekében a felelős szervezeti vezető kezdeményezi a katonai légügyi hatóság által képzésre feljogosított szervezetnél felkészítő tanfolyam szervezését. A tanfolyam tematikáját a katonai légügyi hatóság hagyja jóvá, ha az megfelel a (4) bekezdés szerinti követelményeknek.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

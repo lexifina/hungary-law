@@ -1,3 +1,3 @@
-11. § Az R. 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(4) Az oktató szervezet tevékenységét a katonai légügyi hatóság engedélyezi. Az oktató szervezet (3) bekezdés szerinti megfelelőségéről a katonai légügyi hatóság a helyszínen köteles meggyőződni.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

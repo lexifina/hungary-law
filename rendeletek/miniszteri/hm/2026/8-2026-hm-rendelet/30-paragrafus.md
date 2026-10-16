@@ -1,3 +1,3 @@
-30. § Az R. 57. § b) pontja helyébe a következő rendelkezés lép:
+30. §[^31]
 
-(A navigátor szakszolgálati engedély meghosszabbításának feltételei:)
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-64. § Az R. 103. § b) pontja helyébe a következő rendelkezés lép:
+64. §[^65]
 
-(A rakodás-vezető oktató szakszolgálati engedély kiterjesztés meghosszabbításának feltételei a következők:)
+[^65]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

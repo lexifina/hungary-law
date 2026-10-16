@@ -1,21 +1,3 @@
-72. § Az R. 121. § (1) bekezdése helyébe a következő rendelkezés lép:
+72. §[^73]
 
-„(1) A tandemejtőernyős szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
-
-a) ejtőernyős szabályzatismeret,
-
-b) ejtőernyős meteorológiai alapismeretek,
-
-c) ejtőernyős repülőegészségi alapismeretek,
-
-d) ejtőernyő aerodinamika,
-
-e) ejtőernyő vészhelyzetek,
-
-f) ejtőernyő nyitóműszerek és minimális nyitási magasságot jelző készülékek,
-
-g) ellenőrzés és oktatás módszertana,
-
-h) ejtőernyőtípus-ismeret és
-
-i) légijármű- és ejtőernyős személy- és teherdobás ismeretek.”
+[^73]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

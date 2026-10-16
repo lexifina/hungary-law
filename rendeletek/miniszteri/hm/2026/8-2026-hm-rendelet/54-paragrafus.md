@@ -1,3 +1,3 @@
-54. § Az R. 91. §-a a következő d) ponttal egészül ki:
+54. §[^55]
 
-(A légiutas-kísérő szakszolgálati engedély megújításának feltételei a következők:)
+[^55]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

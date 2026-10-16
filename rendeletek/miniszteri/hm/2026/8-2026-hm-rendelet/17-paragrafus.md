@@ -1,3 +1,3 @@
-17. § Az R. 33. §-a a következő d) ponttal egészül ki:
+17. §[^18]
 
-(A légijármű parancsnok szakszolgálati engedély megújításának feltétele:)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

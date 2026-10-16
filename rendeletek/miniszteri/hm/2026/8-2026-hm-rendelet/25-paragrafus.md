@@ -1,3 +1,3 @@
-25. § Az R. 48. §-a a következő d) ponttal egészül ki:
+25. §[^26]
 
-(A másodpilóta szakszolgálati engedély megújításának feltételei:)
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

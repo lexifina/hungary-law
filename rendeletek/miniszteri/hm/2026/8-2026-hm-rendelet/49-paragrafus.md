@@ -1,17 +1,3 @@
-49. § Az R. 85. §-a helyébe a következő rendelkezés lép:
+49. §[^50]
 
-„85. § (1) A fedélzeti rendszerkezelő oktató elméleti vizsga tárgycsoportjai a következők:
-
-a) oktatás és ellenőrzés módszertana és
-
-b) a légijármű üzemeltetése a megengedett maximális és minimális paraméterekkel.
-
-(2) A fedélzeti rendszerkezelő oktató gyakorlati vizsga területei a következők:
-
-a) az oktatott repülésre történő felkészítése,
-
-b) a gyakorlati tapasztalatok módszeres átadása,
-
-c) az oktatott által elkövetett hibák korrigálása és
-
-d) az oktatott értékelése.”
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

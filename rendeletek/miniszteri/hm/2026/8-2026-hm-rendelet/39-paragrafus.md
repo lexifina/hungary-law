@@ -1,7 +1,3 @@
-## „d) a szakszolgálati vizsgára felkészítő tanfolyam elvégzésének igazolása.”
+39. §[^40]
 
-39. § Az R. 69. §-a helyébe a következő rendelkezés lép:
-
-„69. § (1) A fedélzeti technikus szakszolgálati engedély engedélyese jogosult az engedélyben megjelölt légijármű típusokon fedélzeti technikus és fedélzeti rendszerkezelő szakszolgálati tevékenység ellátására.
-
-(2) A fedélzeti technikus szakszolgálati engedély kiterjeszthető oktató fedélzeti technikus kiegészítő szaktevékenységek végzésére.”
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

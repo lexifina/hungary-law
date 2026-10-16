@@ -1,3 +1,3 @@
-21. § Az R. 38. §-a a következő d) ponttal egészül ki:
+21. §[^22]
 
-(Az oktató légijármű parancsnok kiterjesztés megújításának feltételei:)
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

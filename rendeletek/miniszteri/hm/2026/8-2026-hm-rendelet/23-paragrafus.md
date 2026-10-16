@@ -1,3 +1,3 @@
-23. § Az R. 43. §-a a következő d) ponttal egészül ki:
+23. §[^24]
 
-(A berepülő légijármű parancsnok kiterjesztés megújításának feltételei:)
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

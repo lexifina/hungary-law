@@ -1,3 +1,3 @@
-4. § Az R. 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(5) A szakszolgálati engedély időbeli hatálya a hatósági gyakorlati vizsga napjától számított 24 hónap.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

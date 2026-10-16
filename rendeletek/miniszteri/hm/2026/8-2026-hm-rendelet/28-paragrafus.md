@@ -1,3 +1,3 @@
-28. § Az R. 53. §-a a következő d) ponttal egészül ki:
+28. §[^29]
 
-(A berepülő másodpilóta kiterjesztés megújításának feltételei:)
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

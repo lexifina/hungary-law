@@ -1,3 +1,3 @@
-57. § Az R. 95. § b) pontja helyébe a következő rendelkezés lép:
+57. §[^58]
 
-(A légiutas-kísérő oktató szakszolgálati engedély kiterjesztés meghosszabbításának feltételei a következők:)
+[^58]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

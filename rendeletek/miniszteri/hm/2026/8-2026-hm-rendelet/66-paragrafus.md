@@ -1,17 +1,3 @@
-66. § Az R. 106. §-a helyébe a következő rendelkezés lép:
+66. §[^67]
 
-„106. § (1) A rakodás-vezető oktató elméleti vizsga tárgycsoportjai a következők:
-
-a) oktatás és ellenőrzés módszertana és
-
-b) a légijármű üzemeltetése a megengedett maximális és minimális paraméterekkel.
-
-(2) A rakodás-vezető oktató gyakorlati vizsga területei:
-
-a) az oktatott útvonalszakaszra történő felkészítése,
-
-b) a gyakorlati tapasztalatok módszeres átadása,
-
-c) az oktatott által elkövetett hibák korrigálása és
-
-d) az oktatott értékelése.”
+[^67]: A 66. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

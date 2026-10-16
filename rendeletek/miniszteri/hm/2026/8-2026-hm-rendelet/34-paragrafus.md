@@ -1,3 +1,3 @@
-34. § Az R. 61. § c) pontja helyébe a következő rendelkezés lép:
+34. §[^35]
 
-(A navigátor szakszolgálati engedély oktató navigátor szaktevékenységre történő kiterjesztésének feltételei:)
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

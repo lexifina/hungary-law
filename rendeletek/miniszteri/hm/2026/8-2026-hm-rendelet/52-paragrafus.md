@@ -1,3 +1,3 @@
-52. § Az R. 88. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+52. §[^53]
 
-(A légiutas-kísérő gyakorlati vizsga tárgykörei a következők:)
+[^53]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

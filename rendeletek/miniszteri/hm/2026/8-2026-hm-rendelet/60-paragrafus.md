@@ -1,3 +1,3 @@
-60. § Az R. 98. § b) pontja helyébe a következő rendelkezés lép:
+60. §[^61]
 
-(A rakodás-vezető szakszolgálati engedély meghosszabbításának feltételei a következők:)
+[^61]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

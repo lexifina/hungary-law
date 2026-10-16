@@ -1,5 +1,3 @@
-79. § (1) Az R. 1. melléklete helyébe az 1. melléklet lép.
+79. §[^80]
 
-(2) Az R. a 2. melléklet szerinti 3. melléklettel egészül ki.
-
-(3) Az R. a 3. melléklet szerinti 4. melléklettel egészül ki.
+[^80]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,25 +1,3 @@
-19. § Az R. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(1) A légijármű parancsnok szakszolgálati engedély elméleti vizsga tárgycsoportjai:
-
-a) légijog,
-
-b) repüléstervezés és eljárások,
-
-c) általános- és rádiónavigáció,
-
-d) repülésmeteorológia,
-
-e) repülőegészségi ismeretek,
-
-f) aerodinamika,
-
-g) kommunikáció,
-
-h) légiforgalmi ismeretek,
-
-i) légijármű üzemeltetés,
-
-j) légijárműtípus-ismeret és
-
-k) a repülés különleges esetei.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-15. § Az R. 28. § (3) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(3) A hatósági megbízottat a katonai légügyi hatóság a hatósági gyakorlati vizsgarepülés időpontját kijelölő döntésében jelöli ki.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

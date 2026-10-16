@@ -1,3 +1,3 @@
-75. § Az R. 127. § (2) bekezdése a következő h) ponttal egészül ki:
+75. §[^76]
 
-(A földi gyakorló berendezés oktató szakszolgálati engedély megszerzésének feltételei a következők:)
+[^76]: A 75. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

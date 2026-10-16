@@ -1,5 +1,3 @@
-## „d) a szakszolgálati vizsgára felkészítő tanfolyam elvégzésének igazolása.”
+18. §[^19]
 
-18. § Az R. 34. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A légijármű parancsnok szakszolgálati engedély jogosítja az engedélyest légijármű parancsnoki, másodpilótai és fedélzeti rendszerkezelői szakszolgálati tevékenység végzésére az adott légijármű típuson.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

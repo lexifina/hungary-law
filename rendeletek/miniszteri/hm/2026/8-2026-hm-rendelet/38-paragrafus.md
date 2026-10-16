@@ -1,3 +1,3 @@
-38. § Az R. 68. §-a a következő d) ponttal egészül ki:
+38. §[^39]
 
-(A fedélzeti mérnök és fedélzeti technikus szakszolgálati engedély megújításának feltételei a következők:)
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

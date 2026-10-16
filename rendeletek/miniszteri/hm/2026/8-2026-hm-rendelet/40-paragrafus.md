@@ -1,25 +1,3 @@
-40. § Az R. 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+40. §[^41]
 
-„(1) A fedélzeti technikus szakszolgálati engedély elméleti vizsga tárgycsoportjai a következők:
-
-a) légijog,
-
-b) repüléstervezés és eljárások,
-
-c) általános- és rádiónavigáció,
-
-d) repülésmeteorológia,
-
-e) repülőegészségi ismeretek,
-
-f) aerodinamika,
-
-g) kommunikáció,
-
-h) légiforgalmi ismeretek,
-
-i) légijármű üzemeltetés,
-
-j) légijárműtípus-ismeret és
-
-k) a repülés különleges esetei.”
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

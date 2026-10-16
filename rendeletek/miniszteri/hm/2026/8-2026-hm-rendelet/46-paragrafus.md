@@ -1,23 +1,3 @@
-46. § Az R. 80. §-a helyébe a következő rendelkezés lép:
+46. §[^47]
 
-„80. § (1) A fedélzeti rendszerkezelő elméleti vizsga tárgycsoportjai a következők:
-
-a) légijog,
-
-b) repülőegészségi ismeretek,
-
-c) légijármű alapismeretek,
-
-d) speciális fedélzeti berendezések ismerete,
-
-e) speciális kommunikációs alapismeretek és
-
-f) meteorológiai alapismeretek.
-
-(2) A fedélzeti rendszerkezelő gyakorlati vizsga területei a következők:
-
-a) az útvonalszakaszra történő felkészülés,
-
-b) a speciális fedélzeti berendezések üzemeltetése, alkalmazása és
-
-c) együttműködés a személyzet más tagjaival.”
+[^47]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
