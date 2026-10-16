@@ -1,1 +1,3 @@
-11. § Hatályát veszti a Magyar Nemzeti Bank előtti egyes hatósági ügyekben az elektronikus kapcsolattartás szabályairól szóló 36/2017. (XII. 27.) MNB rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
