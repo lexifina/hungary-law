@@ -1,1 +1,1 @@
-2. § A Tv. [7] preambulumbekezdésében az „E törvény közvetlenül az 1956. évi forradalom és szabadságharc kitörésének hetvenedik évfordulója előtt lép hatályba.” szövegrész helyébe az „E törvény az 1956. évi forradalom és szabadságharc kitörésének hetvenedik évfordulóját követően lép hatályba.” szöveg lép.
+### 2. §
