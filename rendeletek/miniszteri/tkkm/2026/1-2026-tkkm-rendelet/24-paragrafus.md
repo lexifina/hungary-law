@@ -1,0 +1,1 @@
+24. § Az egyes ingatlanok műemlékké nyilvánításáról, valamint az egyes ingatlanok műemlékké nyilvánításáról szóló 36/2024. (X. 31.) ÉKM rendelet módosításáról szóló 15/2025. (V. 30.) ÉKM rendelet 18. § (1) bekezdésében a „0297/3” szövegrész helyébe a „0297/3/C” szöveg lép.
