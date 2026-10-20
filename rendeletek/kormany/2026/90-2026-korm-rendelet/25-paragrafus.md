@@ -1,6 +1,6 @@
 ## 4. Az agrár- és élelmiszergazdaságért felelős miniszter feladat- és hatásköre
 
-25. §[^14] Az agrár- és élelmiszergazdaságért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+25. §[^16] Az agrár- és élelmiszergazdaságért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) agrárpolitikáért,
 
@@ -22,4 +22,4 @@ i) vadgazdálkodásért
 
 felelős tagja.
 
-[^14]: A 25. § a 139/2026. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^16]: A 25. § a 139/2026. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -10,13 +10,13 @@ d) irányítja a Kormány egyedi döntéseivel megítélhető regionális beruh�
 
 e) ellátja az ikerintézményi programmal összefüggő feladatokat,
 
-f)[^111]
+f)[^113]
 
-g)[^112]
+g)[^114]
 
-h)[^113] felel a külgazdasági diplomata hálózat szakmai irányításáért,
+h)[^115] felel a külgazdasági diplomata hálózat szakmai irányításáért,
 
-i)[^114] felel a turisztikai diplomata hálózat szakmai irányításáért,
+i)[^116] felel a turisztikai diplomata hálózat szakmai irányításáért,
 
 j) ellátja a beruházásvédelmi megállapodásokkal kapcsolatos feladatokat,
 
@@ -26,15 +26,15 @@ l) fejleszti – ha a Kormány határozatában más felelőst nem jelöl ki – 
 
 m) kialakítja és képviseli az európai uniós miniszteri szintű energetikai tárgyalásokon, valamint a nemzetközi energetikai tárgyalásokon képviselendő álláspontot,
 
-n)[^115]
+n)[^117]
 
-o)[^116]
+o)[^118]
 
 p) ellátja a regionális és határ menti gazdaságfejlesztési programok és fejlesztések végrehajtásával összefüggő feladatokat.
 
-[^111]: A 86. § f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
-[^112]: A 86. § g) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
-[^113]: A 86. § h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 14. pontja szerint módosított szöveg.
-[^114]: A 86. § i) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 14. pontja szerint módosított szöveg.
-[^115]: A 86. § n) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
-[^116]: A 86. § o) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
+[^113]: A 86. § f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
+[^114]: A 86. § g) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
+[^115]: A 86. § h) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 14. pontja szerint módosított szöveg.
+[^116]: A 86. § i) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 14. pontja szerint módosított szöveg.
+[^117]: A 86. § n) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.
+[^118]: A 86. § o) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 16. pontja hatályon kívül helyezte.

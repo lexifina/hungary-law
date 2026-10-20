@@ -10,6 +10,6 @@ b) a sztrájkkövetelés alapvető tartalma a feladat- és hatáskörét érinti
 
 (2) Ha a sztrájkkövetelés tartalma a Kormány más tagjának feladat- és hatáskörét is érinti, a Kormány (1) bekezdés szerinti tagja a Kormány nevében képviselendő álláspontot a Kormány érintett tagjával egyezteti, szükség esetén a sztrájkkal kapcsolatos egyeztető eljárásba bevonja.
 
-(3)[^269] Ha az (1) bekezdés alapján a Kormány képviseletre jogosult tagja nem állapítható meg, a Kormányt a sztrájkkal kapcsolatos egyeztető eljárásban a foglalkoztatáspolitikáért felelős miniszter képviseli.
+(3)[^275] Ha az (1) bekezdés alapján a Kormány képviseletre jogosult tagja nem állapítható meg, a Kormányt a sztrájkkal kapcsolatos egyeztető eljárásban a foglalkoztatáspolitikáért felelős miniszter képviseli.
 
-[^269]: A 195. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 47. pontja szerint módosított szöveg.
+[^275]: A 195. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 47. pontja szerint módosított szöveg.

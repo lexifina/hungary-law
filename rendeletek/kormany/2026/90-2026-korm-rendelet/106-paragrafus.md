@@ -24,14 +24,14 @@ j) területrendezésért,
 
 k) útdíjfizetési szolgáltatásért
 
-l)[^140] – a világörökségi területekkel összefüggő állami feladatok tekintetében – kulturális örökség védelméért,
+l)[^142] – a világörökségi területekkel összefüggő állami feladatok tekintetében – kulturális örökség védelméért,
 
-m)[^141] az európai uniós források hazahozatalának és felhasználásának koordinációjáért,
+m)[^143] az európai uniós források hazahozatalának és felhasználásának koordinációjáért,
 
-n)[^142] – a 92/C. §-ban, a 130. § (1) bekezdés 3. és 4. pontjaiban és a 131. § (3) bekezdésében meghatározottak kivételével – koncesszióért
+n)[^144] – a 92/C. §-ban, a 130. § (1) bekezdés 3. és 4. pontjaiban és a 131. § (3) bekezdésében meghatározottak kivételével – koncesszióért
 
 felelős tagja.
 
-[^140]: A 106. § l) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.
-[^141]: A 106. § m) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.
-[^142]: A 106. § n) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.
+[^142]: A 106. § l) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.
+[^143]: A 106. § m) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.
+[^144]: A 106. § n) pontját a 139/2026. (VIII. 31.) Korm. rendelet 42. §-a iktatta be.

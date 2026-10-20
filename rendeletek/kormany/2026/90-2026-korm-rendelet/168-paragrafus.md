@@ -1,6 +1,6 @@
 ## 17. A tudományos és technológiai miniszter feladat- és hatásköre
 
-168. §[^233] A tudományos és technológiai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+168. §[^237] A tudományos és technológiai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. e-közigazgatásért,
 
@@ -32,4 +32,4 @@
 
 felelős tagja.
 
-[^233]: A 168. § a 139/2026. (VIII. 31.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^237]: A 168. § a 139/2026. (VIII. 31.) Korm. rendelet 71. §-ával megállapított szöveg.

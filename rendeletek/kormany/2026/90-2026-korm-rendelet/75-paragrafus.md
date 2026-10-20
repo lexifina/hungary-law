@@ -1,6 +1,6 @@
 ## 8. A gazdasági és energetikai miniszter feladat- és hatásköre
 
-75. §[^103] A gazdasági és energetikai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+75. §[^105] A gazdasági és energetikai miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bányászati ügyekért,
 
@@ -40,4 +40,4 @@
 
 felelős tagja.
 
-[^103]: A 75. § a 139/2026. (VIII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^105]: A 75. § a 139/2026. (VIII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.

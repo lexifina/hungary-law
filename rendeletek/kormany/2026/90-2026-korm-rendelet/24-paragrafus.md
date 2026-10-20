@@ -32,6 +32,6 @@ k) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 
 (3) A miniszter – ha jogszabály eltérően nem rendelkezik – irányítja, illetve felügyeli az 1. mellékletben meghatározott szerveket.
 
-(4)[^13] A miniszter bevonja a tudományos és technológiai minisztert az informatikai rendszerek, nyilvántartások informatikai fejlesztésébe és üzemeltetésébe, tekintettel a tudományos és technológiai miniszter általános közreműködői-fejlesztési feladatkörére.
+(4)[^15] A miniszter bevonja a tudományos és technológiai minisztert az informatikai rendszerek, nyilvántartások informatikai fejlesztésébe és üzemeltetésébe, tekintettel a tudományos és technológiai miniszter általános közreműködői-fejlesztési feladatkörére.
 
-[^13]: A 24. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^15]: A 24. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 9. §-a iktatta be.

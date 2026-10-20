@@ -1,4 +1,4 @@
-1. melléklet a 90/2026. (V. 13.) Korm. rendelethez[^279]
+1. melléklet a 90/2026. (V. 13.) Korm. rendelethez[^285]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -44,7 +44,7 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 9 | Országos Rendőr-főkapitányság és az irányítása alá tartozó szervek | irányítás |
 
-| 10[^280] |  |  |
+| 10[^286] |  |  |
 
 4. Egészségügyi miniszter
 
@@ -170,10 +170,10 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Fővárosi és megyei kormányhivatalok[^281] | irányítás |
+| 2 | Fővárosi és megyei kormányhivatalok[^287] | irányítás |
 
 | 3 | Felsőbbfokú Tanulmányok Intézete | irányítás |
 
-[^279]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.
-[^280]: Az 1. melléklet 3. pontjában foglalt táblázat 10. sorát a 139/2026. (VIII. 31.) Korm. rendelet 96. § 35. pontja hatályon kívül helyezte.
-[^281]: Az 1. melléklet 16. pontjában foglalt táblázat A:2 mezője a 139/2026. (VIII. 31.) Korm. rendelet 95. § 53. pontja szerint módosított szöveg.
+[^285]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.
+[^286]: Az 1. melléklet 3. pontjában foglalt táblázat 10. sorát a 139/2026. (VIII. 31.) Korm. rendelet 96. § 35. pontja hatályon kívül helyezte.
+[^287]: Az 1. melléklet 16. pontjában foglalt táblázat A:2 mezője a 139/2026. (VIII. 31.) Korm. rendelet 95. § 53. pontja szerint módosított szöveg.

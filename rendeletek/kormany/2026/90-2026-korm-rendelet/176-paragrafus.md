@@ -1,4 +1,4 @@
-176. §[^247] (1) A miniszter az elektronikus hírközlésért való felelőssége keretében
+176. §[^251] (1) A miniszter az elektronikus hírközlésért való felelőssége keretében
 
 a) előkészíti az elektronikus hírközlésre vonatkozó jogszabályokat,
 
@@ -10,4 +10,4 @@ a) a kormányzati célú hírközlési szolgáltatót és a központi elektronik
 
 b) az Egységes Digitális Rádiótávközlő Rendszer infrastrukturális alapját biztosító szervezet tevékenységét.
 
-[^247]: A 176. § a 139/2026. (VIII. 31.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^251]: A 176. § a 139/2026. (VIII. 31.) Korm. rendelet 80. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-132. §[^192]
+132. §[^195]
 
-[^192]: A 132. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 27. pontja hatályon kívül helyezte.
+[^195]: A 132. §-t a 139/2026. (VIII. 31.) Korm. rendelet 96. § 27. pontja hatályon kívül helyezte.

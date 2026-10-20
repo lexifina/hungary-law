@@ -1,4 +1,4 @@
-134. §[^193] (1) A miniszter a Nemzetközi Valutaalap tagságból és a Világbank tagságból fakadó feladatok, valamint az Európai Beruházási Bankban és az Európa Tanács Fejlesztési Bankjával folytatott kormányzati tevékenység koordinációja tekintetében a Kormány nemzetközi pénzügyi kapcsolatokért felelős tagja.
+134. §[^196] (1) A miniszter a Nemzetközi Valutaalap tagságból és a Világbank tagságból fakadó feladatok, valamint az Európai Beruházási Bankban és az Európa Tanács Fejlesztési Bankjával folytatott kormányzati tevékenység koordinációja tekintetében a Kormány nemzetközi pénzügyi kapcsolatokért felelős tagja.
 
 (2) A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében ellátja
 
@@ -10,4 +10,4 @@ c) koordinálja az Európai Beruházási Bankban folytatott kormányzati tevéke
 
 d) koordinálja az Európa Tanács Fejlesztési Bankjával folytatott kormányzati tevékenységet.
 
-[^193]: A 134. § a 139/2026. (VIII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^196]: A 134. § a 139/2026. (VIII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.

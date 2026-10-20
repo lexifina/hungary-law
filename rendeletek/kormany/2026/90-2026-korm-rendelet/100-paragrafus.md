@@ -14,13 +14,13 @@ ac) összehangolja a tartalmi és technikai deregulációt,
 
 ad) megszervezi és lebonyolítja a minisztériumokban jogi és kodifikációs feladatokat végző személyek képzését,
 
-ae)[^131]
+ae)[^133] a Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. útján gondoskodik a minőségi jogalkotás és a kormányzati döntés-előkészítési és döntéshozó folyamatok egységes és kizárólagos informatikai támogatását, valamint egyes kapcsolódó hatósági tevékenységek informatikai támogatását biztosító integrált jogalkotási rendszernek – a rendszert használó nem kormányzati szervek feladat- és hatáskörét nem érintő – üzemeltetéséről, működtetéséről és fejlesztéséről;
 
-b)[^132]
+b)[^134] vezeti és elektronikusan közzéteszi a jogszabályok és más jogi aktusok nyilvántartását, és a Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. útján gondoskodik a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjtemény közzétételéről.
 
-c)[^133]
+c)[^135]
 
-(4)[^134]
+(4)[^136]
 
 (5) A miniszter az igazságügyért való felelőssége keretében ellátja a Kormány képviseletét az alkotmánybírósági eljárásokban, és koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti a beadványokat.
 
@@ -32,7 +32,7 @@ c)[^133]
 
 a) felel a jogi segítségnyújtásért,
 
-b)[^135] felel a cégadatok nyilvánosságáért, a céginformáció-szolgáltatásért, a számviteli törvény szerinti beszámoló elektronikus úton történő közzétételéért, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszerrel való kapcsolattartásért, az ezeket érintő informatikai rendszer működtetéséért és az elektronikus cégeljárást érintő informatikai rendszernek – a személyiadat- és lakcímnyilvántartásért felelős miniszterrel együttműködésben, kormányzatilag koordinált – működtetéséért,
+b)[^137] felel a cégadatok nyilvánosságáért, a céginformáció-szolgáltatásért, a számviteli törvény szerinti beszámoló elektronikus úton történő közzétételéért, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszerrel való kapcsolattartásért, az ezeket érintő informatikai rendszer működtetéséért és az elektronikus cégeljárást érintő informatikai rendszernek – a személyiadat- és lakcímnyilvántartásért felelős miniszterrel együttműködésben, kormányzatilag koordinált – működtetéséért,
 
 c) ellátja a közjegyzőkkel, az ügyvédi tevékenységet gyakorlókkal, a bírósági végrehajtókkal, a polgári és közigazgatási jogi közvetítői tevékenységgel, – a 39. § (2) bekezdésében meghatározott kivétellel – a pártfogó felügyelői tevékenységgel és az igazságügyi szakértőkkel kapcsolatos feladatokat,
 
@@ -50,7 +50,7 @@ h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működés�
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
-b)[^136] – az európai uniós ügyek koordinációjáért felelős miniszterrel együttműködve – összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
+b)[^138] – az európai uniós ügyek koordinációjáért felelős miniszterrel együttműködve – összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
 
 ba) gondoskodik a jogharmonizációs tevékenység elvi, módszertani és terminológiai egységességéről,
 
@@ -90,9 +90,9 @@ b) közvetlen kapcsolatot tart a hazai szabályozásokat előkészítő és alka
 
 c) figyelemmel kíséri az állam működésének észszerűsítését elősegítő nemzetközi megoldásokat és gyakorlatokat.
 
-[^131]: A 100. § (3) bekezdés a) pont ae) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte.
-[^132]: A 100. § (3) bekezdés b) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte.
-[^133]: A 100. § (3) bekezdés c) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte.
-[^134]: A 100. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 96. § 18. pontja hatályon kívül helyezte.
-[^135]: A 100. § (8) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^136]: A 100. § (9) bekezdés b) pont nyitó szövegrésze a 139/2026. (VIII. 31.) Korm. rendelet 95. § 19. pontja szerint módosított szöveg.
+[^133]: A 100. § (3) bekezdés a) pont ae) alpontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte, újonnan a 281/2026. (X. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^134]: A 100. § (3) bekezdés b) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte, újonnan a 281/2026. (X. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^135]: A 100. § (3) bekezdés c) pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 17. pontja hatályon kívül helyezte.
+[^136]: A 100. § (4) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 96. § 18. pontja hatályon kívül helyezte.
+[^137]: A 100. § (8) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^138]: A 100. § (9) bekezdés b) pont nyitó szövegrésze a 139/2026. (VIII. 31.) Korm. rendelet 95. § 19. pontja szerint módosított szöveg.

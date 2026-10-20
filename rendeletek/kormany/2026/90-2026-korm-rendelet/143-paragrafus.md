@@ -1,9 +1,3 @@
-143. § (1) A miniszter a közbeszerzésekért való felelőssége keretében előkészíti a közbeszerzésekre vonatkozó jogszabályokat.
+143. §[^200]
 
-(2) A miniszter a közbeszerzésekért való felelőssége keretében
-
-a) kialakítja és végrehajtja a Kormány közbeszerzési politikáját,
-
-b) ellátja a közbeszerzések központi ellenőrzésével és engedélyezésével kapcsolatos feladatokat.
-
-(3) A miniszter a közbeszerzésekért való felelősségi körébe tartozó feladatokat a Nemzeti Fejlesztési Központ útján látja el.
+[^200]: A 143. §-t a 281/2026. (X. 19.) Korm. rendelet 6. §-a hatályon kívül helyezte.

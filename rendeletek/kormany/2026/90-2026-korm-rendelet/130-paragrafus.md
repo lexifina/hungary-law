@@ -14,13 +14,13 @@
 
 6. költségvetés makrogazdasági megalapozásáért,
 
-7. közbeszerzésekért,
+7.[^186]
 
 8. lakáscélú állami támogatásokért,
 
-9.[^184]
+9.[^187]
 
-10.[^185]
+10.[^188]
 
 11. nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
 
@@ -34,7 +34,7 @@
 
 felelős tagja.
 
-(1a)[^186] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(1a)[^189] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
 (2) A Kormány
 
@@ -48,9 +48,10 @@ d) az uniós vámjog végrehajtásáról szóló törvény szerinti, a vámjogi 
 
 a minisztert jelöli ki.
 
-(3)[^187]
+(3)[^190]
 
-[^184]: A 130. § (1) bekezdés 9. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
-[^185]: A 130. § (1) bekezdés 10. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
-[^186]: A 130. § (1a) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 54. §-a iktatta be.
-[^187]: A 130. § (3) bekezdését a 117/2026. (VII. 31.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^186]: A 130. § (1) bekezdés 7. pontját a 281/2026. (X. 19.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^187]: A 130. § (1) bekezdés 9. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
+[^188]: A 130. § (1) bekezdés 10. pontját a 139/2026. (VIII. 31.) Korm. rendelet 96. § 26. pontja hatályon kívül helyezte.
+[^189]: A 130. § (1a) bekezdését a 139/2026. (VIII. 31.) Korm. rendelet 54. §-a iktatta be.
+[^190]: A 130. § (3) bekezdését a 117/2026. (VII. 31.) Korm. rendelet 1. §-a hatályon kívül helyezte.

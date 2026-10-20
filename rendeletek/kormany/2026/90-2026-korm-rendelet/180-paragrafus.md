@@ -1,4 +1,4 @@
-180. §[^249] (1) A miniszter a vidékfejlesztésért való felelőssége keretében
+180. §[^254] (1) A miniszter a vidékfejlesztésért való felelőssége keretében
 
 a) elősegíti a vidéki helyi közösségi kezdeményezések és azok országos hálózatának kialakítását, működtetését,
 
@@ -24,4 +24,4 @@ d) a KAP végrehajtását támogató hálózat kialakításában és működtet�
 
 e) a 2028 utáni Nemzeti és Regionális Partnerségi Tervek és az ehhez kapcsolódó Európai Unióval való tárgyalási folyamatok előkészítése, a vidékfejlesztési fejezetek és kérdések vonatkozásában.
 
-[^249]: A 180. § a 139/2026. (VIII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^254]: A 180. § a 139/2026. (VIII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.

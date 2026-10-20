@@ -1,4 +1,4 @@
-58/A. §[^68] A miniszter az egészségpolitikáért való felelőssége körében felel
+58/A. §[^70] A miniszter az egészségpolitikáért való felelőssége körében felel
 
 a) az „Egészséget minden szakpolitikába” elv érvényesítéséért a kormányzat működésében,
 
@@ -14,4 +14,4 @@ f) a nemzetközi egészségügyi kapcsolatokért és uniós egészségpolitikai 
 
 g) az egészségügyben működő szakmai, érdekképviseleti és betegszervezetekkel való kapcsolattartásért.
 
-[^68]: Az 58/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^70]: Az 58/A. §-t a 139/2026. (VIII. 31.) Korm. rendelet 24. §-a iktatta be.

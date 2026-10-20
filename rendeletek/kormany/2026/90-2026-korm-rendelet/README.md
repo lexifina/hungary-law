@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-90-20-2
 | 2026-09-01 | 2026-90-20-22.4 | 139/2026. (VIII. 31.) Korm. rendelet |
 | 2026-09-07 | 2026-90-20-22.5 | 139/2026. (VIII. 31.) Korm. rendelet |
 | 2026-10-01 | 2026-90-20-22.6 | 139/2026. (VIII. 31.) Korm. rendelet |
+| 2026-10-20 | 2026-90-20-22.8 | 281/2026. (X. 19.) Korm. rendelet |

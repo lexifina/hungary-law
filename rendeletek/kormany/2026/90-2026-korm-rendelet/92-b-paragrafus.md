@@ -1,4 +1,4 @@
-92/B. §[^123] A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében
+92/B. §[^125] A miniszter a nemzetközi pénzügyi kapcsolatokért való felelőssége keretében
 
 a) eljár nemzetközi intézményekkel összefüggő gazdaságfejlesztési kérdésekben,
 
@@ -10,4 +10,4 @@ d) koordinálja a Gazdasági Együttműködési és Fejlesztési Szervezetben fo
 
 e) javaslatot tesz a Gazdasági Együttműködési és Fejlesztési Szervezet melletti Magyar Állandó Képviseletet vezető nagykövet kinevezésére és felmentésére.
 
-[^123]: A 92/B. §-t a 139/2026. (VIII. 31.) Korm. rendelet 38. §-a iktatta be.
+[^125]: A 92/B. §-t a 139/2026. (VIII. 31.) Korm. rendelet 38. §-a iktatta be.

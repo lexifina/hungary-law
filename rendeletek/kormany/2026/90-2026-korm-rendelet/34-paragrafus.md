@@ -1,6 +1,6 @@
 ## 5. A belügyminiszter feladat- és hatásköre
 
-34. § (1)[^41] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+34. § (1)[^43] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. aktív Magyarországért,
 
@@ -46,4 +46,4 @@
 
 felelős tagja.
 
-[^41]: A 34. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^43]: A 34. § (1) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.

@@ -4,9 +4,9 @@
 
 a) kidolgozza a Kormány közfoglalkoztatási politikáját, gondoskodik annak érvényesítéséről és végrehajtásáról,
 
-b)[^203] ellátja a közfoglalkoztatásban részt vevő személyek képzésével és humánszolgáltatásával kapcsolatos feladatokat,
+b)[^207] ellátja a közfoglalkoztatásban részt vevő személyek képzésével és humánszolgáltatásával kapcsolatos feladatokat,
 
-c)[^204] megszervezi és az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal közreműködésével működteti a közfoglalkoztatás rendszerét, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését, a közfoglalkoztatás tekintetében szakmai irányító miniszteri jogokat gyakorol a fővárosi és megyei kormányhivatal tevékenysége felett.
+c)[^208] megszervezi és az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal közreműködésével működteti a közfoglalkoztatás rendszerét, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését, a közfoglalkoztatás tekintetében szakmai irányító miniszteri jogokat gyakorol a fővárosi és megyei kormányhivatal tevékenysége felett.
 
-[^203]: A 148. § (2) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 32. pontja szerint módosított szöveg.
-[^204]: A 148. § (2) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 33. pontja szerint módosított szöveg.
+[^207]: A 148. § (2) bekezdés b) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 32. pontja szerint módosított szöveg.
+[^208]: A 148. § (2) bekezdés c) pontja a 139/2026. (VIII. 31.) Korm. rendelet 95. § 33. pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@ b) ellátja a társadalombiztosítási nyugellátások rendszerének irányítá
 
 c) előkészíti a társadalombiztosítási nyugellátásokra vonatkozó jogszabályokat.
 
-d)[^196] részt vesz a szociális biztonsági koordináció nyugdíjbiztosítási feladatainak ellátásában.
+d)[^199] részt vesz a szociális biztonsági koordináció nyugdíjbiztosítási feladatainak ellátásában.
 
-[^196]: A 142. § d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 57. §-a iktatta be.
+[^199]: A 142. § d) pontját a 139/2026. (VIII. 31.) Korm. rendelet 57. §-a iktatta be.

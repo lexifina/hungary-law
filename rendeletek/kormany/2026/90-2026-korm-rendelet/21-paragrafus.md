@@ -14,9 +14,9 @@ d) a Kormány feladatkörében érintett tagjai összehangolt védelmi tevékeny
 
 e) a miniszterelnök e § szerinti tevékenységéhez kapcsolódó háttéranyagok, felkészítők, elemzések előkészítéséért.
 
-f)[^10] a NATO Reziliencia Bizottság (Resilience Committee) szerveivel való kapcsolattartás koordinációjáért.
+f)[^12] a NATO Reziliencia Bizottság (Resilience Committee) szerveivel való kapcsolattartás koordinációjáért.
 
-(3)[^11] A miniszterelnök nemzetbiztonsági főtanácsadója vezeti a Védelmi Kabinet üléseit.
+(3)[^13] A miniszterelnök nemzetbiztonsági főtanácsadója vezeti a Védelmi Kabinet üléseit.
 
-[^10]: A 21. § (2) bekezdés f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 7. §-a iktatta be.
-[^11]: A 21. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
+[^12]: A 21. § (2) bekezdés f) pontját a 139/2026. (VIII. 31.) Korm. rendelet 7. §-a iktatta be.
+[^13]: A 21. § (3) bekezdése a 139/2026. (VIII. 31.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
