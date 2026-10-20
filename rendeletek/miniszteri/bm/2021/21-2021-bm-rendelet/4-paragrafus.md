@@ -1,4 +1,4 @@
-4. § (1) A büntetőeljárást folytató ügyészség, illetve nyomozó hatóság
+4. § (1)[^4] A büntetőeljárást folytató ügyészség, NVVH, illetve nyomozó hatóság
 
 a) az adatközlési és nyomatvételi kötelezettségét a 3. és 4. melléklet szerinti adattartalommal kitöltött ujjnyomatlap és tenyérnyomatlap,
 
@@ -13,3 +13,5 @@ a) a bűnjelekkel,
 b) a szakértő kirendelő határozattal, valamint
 
 c) az összehasonlítási és eliminációs nyilvántartásba vételi igényközléssel
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 28/2026. (X. 19.) BM rendelet 1. § b) pontja szerint módosított szöveg.

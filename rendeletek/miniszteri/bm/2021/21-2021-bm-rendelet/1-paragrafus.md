@@ -10,7 +10,7 @@
 
 4. Intézet: a Nemzeti Szakértői és Kutató Központról szóló 350/2016. (XI. 18.) Korm. rendelet alapján az érintett személy DNS-profiljának meghatározásában közreműködő szerv,
 
-5. eliminációs minta: a büntetőeljárást folytató ügyészség vagy nyomozó hatóság által a vétlen nyomszennyezés kizárása érdekében az érintett személytől levett és az Intézet részére átadott szájnyálkahártyatörlet-minta,
+5.[^1] eliminációs minta: a büntetőeljárást folytató ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy nyomozó hatóság által a vétlen nyomszennyezés kizárása érdekében az érintett személytől levett és az Intézet részére átadott szájnyálkahártyatörlet-minta,
 
 6. eliminációs minta szemléje: az eliminációs minta egy részének Intézet általi biztosítása DNS-elemzéshez,
 
@@ -21,3 +21,5 @@
 9. személyi DNS-profil: az érintett személytől származó mintából meghatározott DNS-marker-tulajdonságok (allélok) összessége,
 
 10. ujj- és tenyérnyomatvétel: az ujj- és tenyérnyomatnak a vétlen nyomszennyezés kizárása érdekében az érintett személytől történő felvétele.
+
+[^1]: Az 1. § 5. pontja a 28/2026. (X. 19.) BM rendelet 1. § a) pontja szerint módosított szöveg.
