@@ -30,7 +30,7 @@ szerinti rendőrkapitányság illetékes.
 
 (5e)[^17] Az eltűnt személy által eltűnését követően feltételezhetően használt vagy birtokában lévő jármű körözése során a körözési eljárás lefolytatására a körözést elrendelő rendőri szerv illetékes.
 
-(6)[^18] A büntetőeljárás jogerős befejezéséig az ügyészség vagy bíróság által elrendelt elfogatóparancs, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
+(6)[^18] A büntetőeljárás jogerős befejezéséig az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a bíróság által elrendelt elfogatóparancs, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
 
 (7)[^19] Az országos rendőrfőkapitány egyedi ügyekben hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) hatáskörébe utalja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) szerinti titkos információgyűjtési tevékenység folytatását.
 
@@ -49,7 +49,7 @@ szerinti rendőrkapitányság illetékes.
 [^15]: A 6. § (5c) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
 [^16]: A 6. § (5d) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.
 [^17]: A 6. § (5e) bekezdését a 37/2018. (XII. 28.) BM rendelet 27. §-a iktatta be.
-[^18]: A 6. § (6) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés c) pontja, a 37/2018. (XII. 28.) BM rendelet 28. §-a szerint módosított szöveg.
+[^18]: A 6. § (6) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés c) pontja, a 37/2018. (XII. 28.) BM rendelet 28. §-a, a 26/2026. (X. 19.) BM rendelet 3. §-a szerint módosított szöveg.
 [^19]: A 6. § (7) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § c) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § c) pontja és 3. §-a, a 23/2026. (IX. 30.) BM rendelet 37. § a) pontja szerint módosított szöveg.
 [^20]: A 6. § (8) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § d) pontja, a 43/2020. (XII. 7.) BM rendelet 2. § d) pontja, a 23/2026. (IX. 30.) BM rendelet 37. § b) pontja szerint módosított szöveg.
 [^21]: A 6. § (9) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (3) bekezdése iktatta be, szövege a 23/2026. (IX. 30.) BM rendelet 37. § c) pontja szerint módosított szöveg.
