@@ -10,6 +10,8 @@
 
 5. nyomozó hatóság: a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóság,
 
-6. statisztikai feladatot ellátó személy: a nyomozó hatóság és az ügyészség azon bűnügyi statisztikusa, illetve információs munkatársa, továbbá a rendészetért felelős miniszter által vezetett minisztériumnak az adatfeldolgozó rendszer működtetésében közreműködő azon dolgozója, aki a bűnügyi statisztikai adatot az adatfelvételi rendszerben, illetve az adatfeldolgozó rendszerben kezeli,
+6.[^2] statisztikai feladatot ellátó személy: a nyomozó hatóság, az NVVH és az ügyészség azon bűnügyi statisztikusa, illetve információs munkatársa, továbbá a rendészetért felelős miniszter által vezetett minisztériumnak az adatfeldolgozó rendszer működtetésében közreműködő azon dolgozója, aki a bűnügyi statisztikai adatot az adatfelvételi rendszerben, illetve az adatfeldolgozó rendszerben kezeli,
 
 7. ügyviteli rendszer: a statisztikai adatrögzítésben közreműködő szervek által adminisztratív céllal működtetett informatikai alkalmazások, amelyekben rögzítésre kerülnek a büntetőeljárás során keletkezett adatok.
+
+[^2]: A 2. § 6. pontja a 27/2026. (X. 19.) BM rendelet 2. § b) pontja szerint módosított szöveg.
