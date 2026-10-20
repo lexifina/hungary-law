@@ -26,4 +26,8 @@ a) a Beruházások előkészítéséhez, megvalósításához, használatbavéte
 
 b) a Beruházásokhoz közvetlenül kapcsolódó magasépítési, mélyépítési, közterület- és zöldfelület-rendezési, útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákra vonatkoznak.
 
+c)[^1] a 2. mellékletben foglalt táblázat szerinti, a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
+
 (4) Az építési beruházás költséghatékony elvégzéséhez szükséges, a helyi önkormányzat és az állam tulajdonában álló közterület használata díjmentes, annak külön engedély vagy hozzájárulás nélküli használati időtartama 6 hónap.
+
+[^1]: Az 1. § (3) bekezdés c) pontját a 282/2026. (X. 19.) Korm. rendelet 1. §-a iktatta be.
