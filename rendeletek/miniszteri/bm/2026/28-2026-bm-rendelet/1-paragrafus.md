@@ -4,12 +4,6 @@
 
 ## [3] A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (1a) bekezdés b)–e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az eliminációs célú mintavétel, valamint a DNS-profil meghatározásának szakmai-módszertani követelményei részletszabályairól, továbbá az eliminációs célú biometrikus adatok nyilvántartása részére teljesítendő adatszolgáltatás és a nyilvántartás vezetésével kapcsolatos technikai feladatok végrehajtásáról szóló 21/2021. (VII. 14.) BM rendelet
+1. §[^2]
 
-a) 1. § 5. pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
-
-b) 3. § (1) és (2) bekezdésében, valamint 4. § (1) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, NVVH, illetve” szöveg,
-
-c) 16. § (1) bekezdés a) pontjában és 16. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
