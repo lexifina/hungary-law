@@ -4,20 +4,6 @@
 
 ## [3] A büntetőeljárásról szóló 2017. évi XC. törvény 866. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § (1) Az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszerről, az adatgyűjtés és -feldolgozás részletes szabályairól szóló 12/2018. (VI. 7.) BM rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) Az adatfelvételi rendszerben tárolt adatokhoz – a (4) és az (5) bekezdésben foglalt kivétellel –
-
-a) a nyomozó hatóság eljáró tagja és parancsnoka,
-
-b) az NVVH elnöke és elnökhelyettesei,
-
-c) a felügyeleti vagy irányítási jogkörben eljáró ügyész és felettese, valamint
-
-d) a nyomozó hatóságnál, az NVVH-nál, illetve az ügyészségnél statisztikai feladatokat ellátó személyek
-
-férhetnek hozzá.”
-
-(2) Az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszerről, az adatgyűjtés és -feldolgozás részletes szabályairól szóló 12/2018. (VI. 7.) BM rendelet 4. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az adatfelvételi rendszerben tárolt, az NVVH által folytatott büntetőeljárásban keletkezett adatokhoz kizárólag az NVVH ügyben eljáró tagja és felettese, valamint az NVVH-nál statisztikai feladatokat ellátó személyek férhetnek hozzá.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
