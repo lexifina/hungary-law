@@ -8,10 +8,6 @@
 
 ## 1. A Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet módosítása
 
-1. § (1) A Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 20/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) A miniszter gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetéséről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit.”
-
-(2) A Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 20/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A miniszter a jogalkotásról szóló 2010. évi CXXX. törvény 25/A. § (2) bekezdése, 26. § (5) és (6) bekezdése, 28. § (2) és (3) bekezdése tekintetében a Kormány igazságügyért felelős tagja.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

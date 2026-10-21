@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 130. § (1) bekezdés 7. pontja és 143. §-a.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-281-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-10-20 | 2026-281-20-22.1 | 281/2026. (X. 19.) Korm. rendelet |
+| 2026-10-21 | 2026-281-20-22.2 | 2010. évi CXXX. törvény |
