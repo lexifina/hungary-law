@@ -4,6 +4,6 @@
 
 ## [3] A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 30. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 10. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az átkísérés a körözött személy megtalálásának helye szerint illetékes rendőrkapitányság vagy határrendészeti kirendeltség feladata, ha a körözést:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
