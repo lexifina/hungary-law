@@ -1,9 +1,3 @@
-5. § Az R.
+5. §[^6]
 
-a) 2. § (1) és (3) bekezdésében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-b) 2. § (2) bekezdésében a „Vármegyei” szövegrészek helyébe a „Megyei” szöveg,
-
-c) 5. § a) pontjában a „kérelmezni;” szövegrész helyébe a „kérelmezni; környezetvédelmi bírság kiszabásának nincs helye;” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
