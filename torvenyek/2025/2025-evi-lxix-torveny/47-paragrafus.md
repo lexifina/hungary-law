@@ -1,6 +1,6 @@
 47. § (1) Az Országgyűlés az országos, valamint a települési és területi nemzetiségi önkormányzatok részére nyújtandó támogatásokat és keretösszegeket a 9. melléklet szerint állapítja meg.
 
-(2) A XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 31. jogcímcsoport, 1. Nemzetiségi támogatások jogcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
+(2) A XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 3. alcím, 1. Nemzetiségi támogatások jogcímcsoport szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
 
 (3) A (2) bekezdés szerinti bizottság legfeljebb kilenc főből áll, amelybe
 
@@ -12,7 +12,7 @@ c) a nemzetiségpolitikáért felelős miniszter 3 főt
 
 delegál.
 
-(4) A XIV. Belügyminisztérium fejezet, 20. cím, 5. Társadalmi felzárkózást segítő programok alcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért a roma nemzetiség vonatkozásában felelős miniszter a Roma Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
+(4) A XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 6. Társadalmi felzárkóztatást segítő programok alcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Roma Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
 
 (5) A (4) bekezdés szerinti bizottság legfeljebb tizenegy főből áll, amelybe
 

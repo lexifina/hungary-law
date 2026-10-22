@@ -16,4 +16,4 @@
 
 (9) Az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével az egészségügyi szolgáltatók likviditási helyzetének stabilizálása érdekében a LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 7. alcím, 13. Egészségügyi szolgáltatók kiegészítő finanszírozása jogcímcsoportról az alcím 9. jogcímcsoportjára és 10. jogcímcsoportjának jogcímeire átcsoportosíthat.
 
-(10) Az aktív fekvőbeteg-ellátást nyújtó központi költségvetési szervek részére biztosított ingatlanüzemeltetési szolgáltatásokkal összefüggésben az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével a XXIII. Nemzetgazdasági Minisztérium fejezet és a LXXII. Egészségbiztosítási Alap fejezet között átcsoportosíthat.
+(10) Az aktív fekvőbeteg-ellátást nyújtó központi költségvetési szervek részére biztosított ingatlanüzemeltetési szolgáltatásokkal összefüggésben az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével a XXIII. Pénzügyminisztérium fejezet és a LXXII. Egészségbiztosítási Alap fejezet között átcsoportosíthat.

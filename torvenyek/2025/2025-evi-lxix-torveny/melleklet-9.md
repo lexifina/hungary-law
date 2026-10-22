@@ -14,9 +14,9 @@ A települési és területi nemzetiségi önkormányzatok és az országos nemz
 
 1.1. Az előirányzat összegének megbontása:
 
-1.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzat vonatkozásában 1 464,2 millió forint.
+1.1.1. A Települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzat vonatkozásában 1 464,2 millió forint.
 
-1.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 1 368,9 millió forint.
+1.1.2. A Roma települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 1 368,9 millió forint.
 
 1.2. A működési támogatás megállapításának és folyósításának szabályai
 
@@ -26,7 +26,7 @@ A települési és területi nemzetiségi önkormányzatok és az országos nemz
 
 1.2.3. Amennyiben a helyi nemzetiségi önkormányzat év közben megszűnik, akkor a megszűnés hónapjának utolsó napjáig a működési támogatás időarányos része illeti meg.
 
-1.2.4. A Kincstár a nemzetiségpolitikáért megosztott hatáskörben felelős minisztereket (a továbbiakban: miniszter) 2026. január 10-éig tájékoztatja a törzskönyvi nyilvántartásba bejegyzett helyi nemzetiségi önkormányzatokról. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a Kincstár a helyi nemzetiségi önkormányzat törzskönyvi bejegyzését követően haladéktalanul tájékoztatja ennek tényéről a minisztert.
+1.2.4. A Kincstár a nemzetiségpolitikáért felelős minisztert (a továbbiakban: miniszter) 2026. január 10-éig tájékoztatja a törzskönyvi nyilvántartásba bejegyzett helyi nemzetiségi önkormányzatokról. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a Kincstár a helyi nemzetiségi önkormányzat törzskönyvi bejegyzését követően haladéktalanul tájékoztatja ennek tényéről a minisztert.
 
 1.2.5. A miniszter a helyi nemzetiségi önkormányzatokat megillető működési támogatás összegének honlapján való közzétételéről 2026. január 20-áig intézkedik. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a miniszter a Kincstár 1.2.4. pont szerinti tájékoztatását követő 8 napon belül teszi közzé az érintett helyi nemzetiségi önkormányzatot megillető működési támogatás összegét.
 
@@ -48,13 +48,13 @@ A települési és területi nemzetiségi önkormányzatok és az országos nemz
 
 2.1. Az előirányzat összegének megbontása
 
-2.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzatok vonatkozásában 1187,1 millió forint.
+2.1.1. A Települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzatok vonatkozásában 1187,1 millió forint.
 
-2.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 560,0 millió forint.
+2.1.2. A Roma települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 560,0 millió forint.
 
 2.2. A feladatalapú támogatás fajlagos összegének meghatározása
 
-## A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának fajlagos összegét az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcím előirányzat összege és a 2.3. pont szerint a támogatásra való jogosultsági szabályoknak megfelelő helyi nemzetiségi önkormányzatok részére meghatározott összes pontszám hányadosaként kell meghatározni. A fajlagos összeg meghatározása fejezetenként, illetve a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok esetében külön-külön történik.
+## A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának fajlagos összegét az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcím előirányzat összege és a 2.3. pont szerint a támogatásra való jogosultsági szabályoknak megfelelő helyi nemzetiségi önkormányzatok részére meghatározott összes pontszám hányadosaként kell meghatározni. A fajlagos összeg meghatározása a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok esetében külön-külön történik.
 
 2.3. A feladatalapú támogatás megállapításának és folyósításának szabályai
 
@@ -320,7 +320,7 @@ A feladatra megállapítható maximális pontszám
 
 100
 
-2.3.5. Az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcímhez kapcsolódóan az egyes fejezeteknél rendelkezésre álló előirányzatot a települési nemzetiségi és területi nemzetiségi önkormányzatok között – a jogosult önkormányzatok száma alapján – oly módon kell megosztani, hogy a jogosult területi nemzetiségi önkormányzatok számát kétszeresen kell figyelembe venni. A feladatalapú támogatás összege a 2.3.3. pont alapján megállapított feladatmutató pontszám és a 2.2. pont szerint meghatározott fajlagos támogatási összeg szorzata.
+2.3.5. Az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcímhez kapcsolódóan az előirányzatokat a települési nemzetiségi és területi nemzetiségi önkormányzatok között – a jogosult önkormányzatok száma alapján – oly módon kell megosztani, hogy a jogosult területi nemzetiségi önkormányzatok számát kétszeresen kell figyelembe venni. A feladatalapú támogatás összege a 2.3.3. pont alapján megállapított feladatmutató pontszám és a 2.2. pont szerint meghatározott fajlagos támogatási összeg szorzata.
 
 2.3.6. A miniszter a feladatalapú támogatást megalapozó pontszámokat és a támogatás összegét 2026. április 15-éig a honlapján közzéteszi.
 
@@ -344,9 +344,9 @@ A feladatra megállapítható maximális pontszám
 
 3.1. Az előirányzat összegének megbontása
 
-3.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 453,3 millió forint.
+3.1.1. Az Országos nemzetiségi önkormányzatok és média támogatása előirányzat összege – a Magyarországi Romák Országos Önkormányzata kivételével – 2 453,3 millió forint.
 
-3.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 483,2 millió forint.
+3.1.2. A Magyarországi Romák Országos Önkormányzata működési és média támogatása előirányzat összege – a Magyarországi Romák Országos Önkormányzata vonatkozásában – 483,2 millió forint.
 
 3.2. Az Országos nemzetiségi önkormányzatok és média támogatása
 
@@ -550,9 +550,9 @@ Magyarországi Romák Országos Önkormányzata és Média
 
 4.1. Az előirányzat összegének megbontása
 
-4.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 072,9 millió forint.
+4.1.1. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 072,9 millió forint.
 
-4.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 196,2 millió forint.
+4.1.2. A Magyarországi Romák Országos Önkormányzata által fenntartott intézmények támogatása előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 196,2 millió forint.
 
 4.2. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása
 

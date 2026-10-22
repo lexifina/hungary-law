@@ -18,7 +18,7 @@ b) a 2. melléklet 1.3.2.14. Támogató szolgáltatás jogcím, 1.3.2.15. Közö
 
 (4) Az egyházi jogi személy a (2) bekezdés szerinti kiegészítő támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a humánszolgáltatást ellátó intézményei, illetve azok humánszolgáltatásai támogatására fordítani.
 
-(5) Az (1) bekezdés szerinti támogatás és a (2) bekezdés szerinti kiegészítő támogatás elszámolása a XIV. Belügyminisztérium fejezet terhére, illetve javára történik.
+(5) Az (1) bekezdés szerinti támogatás és a (2) bekezdés szerinti kiegészítő támogatás elszámolása a XXVIII. Szociális és Családügyi Minisztérium fejezet terhére, illetve javára történik.
 
 (6) A Gyvt. 44. §-a szerinti munkahelyi bölcsőde fenntartóját – az (1) és (2) bekezdéstől eltérően – a 2. melléklet 1.3.2.12. Családi bölcsőde jogcímmel azonos mértékű támogatás illeti meg.
 

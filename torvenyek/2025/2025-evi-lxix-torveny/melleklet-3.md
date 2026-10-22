@@ -4,7 +4,7 @@ A helyi önkormányzatok kiegészítő támogatásai
 
 ## I. Előirányzatok és támogatások
 
-## | | Jogcím-szám | Támogatási jogcím | Előirányzat (millió forintban) | 1 | 2. | A helyi önkormányzatok működési célú kiegészítő támogatásai | | 2 | 2.1. | A helyi önkormányzatok általános feladatainak működési célú kiegészítő támogatása | | 3 | 2.1.1. | Polgármesteri illetményhez és költségtérítéshez nyújtott támogatás | 34 460,5 | 4 | 2.1.2. | A kötelezően ellátandó helyi közösségi közlekedési feladat támogatása | 12 000,0 | 5 | 2.1.3. | A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtésére kijelölt közérdekű közszolgáltató meg nem térülő költségeinek támogatása | 280,0 | 6 | 2.1.4. | Önkormányzatok rendkívüli támogatása | 5 500,0 | 7 | 2.1.5. | Önkormányzati elszámolások | 9 824,0 | 8 | 2.1.6. | Vármegyei önkormányzatok feladatainak támogatása | 6 998,6 | 9 | 2.2. | A települési önkormányzatok köznevelési feladatainak működési célú kiegészítő támogatása | | 10 | 2.2.1. | Esélyteremtési illetményrész támogatása | 15 200,0 | 11 | 2.3. | A települési önkormányzatok egyes szociális és gyermekjóléti feladatainak működési célú kiegészítő támogatása | | 12 | 2.3.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 5 000,0 | 13 | 2.3.2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 32 227,5 | 14 | 2.4. | A települési önkormányzatok kulturális feladatainak működési célú kiegészítő támogatása | | 15 | 2.4.1. | Vármegyei hatókörű városi múzeumok feladatainak támogatása | 3 778,3 | 16 | 2.4.2. | Vármegyei hatókörű városi könyvtárak feladatainak támogatása | 4 191,3 | 17 | 2.4.3. | A települési önkormányzatok muzeális intézményi feladatainak támogatása | 1 238,1 | 18 | 2.4.4. | Táncművészeti szervezetek támogatása | 426,4 | 19 | 2.4.5. | Zeneművészeti szervezetek támogatása | 4 301,7 | 20 | 2.4.6. | A települési önkormányzatok kulturális feladatainak bérjellegű támogatása | 16 539,6 | 21 | 2.4.7. | A települési önkormányzatok könyvtári célú érdekeltségnövelő támogatása | 300,0 | 22 | 2.4.8. | Zalaegerszegi Mindszentyneum működtetési támogatása | 150,0 | 23 | 3. | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai | | 24 | 3.1. | Vis maior támogatás | 5 186,9 | 25 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 | 26 | 3.3. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 | 27 | 3.4. | A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezés támogatása | 400,0 | 28 | 3.5. | Karcag Város Önkormányzata Kossuth téri ingatlanfejlesztésének támogatása | 4 491,9 | 29 | 3.6. | Szenna Község Önkormányzata sportcsarnok felújításának támogatása | 79,0 | 30 | 3.7. | Nagykörű Községi Önkormányzat orvosi rendelő tetőzete felújításának támogatása | 15,3 | 31 | 3.8. | Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatása | 13,5 | 32 | 3.9. | Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatása | 100,0
+## | | Jogcím-szám | Támogatási jogcím | Előirányzat (millió forintban) | 1 | 2. | A helyi önkormányzatok működési célú kiegészítő támogatásai | | 2 | 2.1. | A helyi önkormányzatok általános feladatainak működési célú kiegészítő támogatása | | 3 | 2.1.1. | Polgármesteri illetményhez és költségtérítéshez nyújtott támogatás | 29 960,5 | 4 | 2.1.2. | A kötelezően ellátandó helyi közösségi közlekedési feladat támogatása | 12 000,0 | 5 | 2.1.3. | A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtésére kijelölt közérdekű közszolgáltató meg nem térülő költségeinek támogatása | 280,0 | 6 | 2.1.4. | Önkormányzatok rendkívüli támogatása | 5 500,0 | 7 | 2.1.5. | Önkormányzati elszámolások | 9 824,0 | 8 | 2.1.6. | Vármegyei önkormányzatok feladatainak támogatása | 6 998,6 | 9 | 2.2. | A települési önkormányzatok köznevelési feladatainak működési célú kiegészítő támogatása | | 10 | 2.2.1. | Esélyteremtési illetményrész támogatása | 15 200,0 | 11 | 2.3. | A települési önkormányzatok egyes szociális és gyermekjóléti feladatainak működési célú kiegészítő támogatása | | 12 | 2.3.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 9 500,0 | 13 | 2.3.2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 32 227,5 | 14 | 2.4. | A települési önkormányzatok kulturális feladatainak működési célú kiegészítő támogatása | | 15 | 2.4.1. | Vármegyei hatókörű városi múzeumok feladatainak támogatása | 3 778,3 | 16 | 2.4.2. | Vármegyei hatókörű városi könyvtárak feladatainak támogatása | 4 191,3 | 17 | 2.4.3. | A települési önkormányzatok muzeális intézményi feladatainak támogatása | 1 238,1 | 18 | 2.4.4. | Táncművészeti szervezetek támogatása | 426,4 | 19 | 2.4.5. | Zeneművészeti szervezetek támogatása | 4 301,7 | 20 | 2.4.6. | A települési önkormányzatok kulturális feladatainak bérjellegű támogatása | 16 539,6 | 21 | 2.4.7. | A települési önkormányzatok könyvtári célú érdekeltségnövelő támogatása | 300,0 | 22 | 2.4.8. | Zalaegerszegi Mindszentyneum működtetési támogatása | 150,0 | 23 | 3. | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai | | 24 | 3.1. | Vis maior támogatás | 5 186,9 | 25 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 | 26 | 3.3. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 | 27 | 3.4. | A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezés támogatása | 400,0 | 28 | | | | 29 | 3.6. | Szenna Község Önkormányzata sportcsarnok felújításának támogatása | 79,0 | 30 | 3.7. | Nagykörű Községi Önkormányzat orvosi rendelő tetőzete felújításának támogatása | 15,3 | 31 | | | | 32 | | |
 
 ## II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai
 
@@ -574,13 +574,7 @@ a támogatás 50%-át nem haladhatja meg. A támogatás felhasználási határid
 
 21.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Mohács Város Önkormányzata számára. A támogatás felhasználási határideje a tárgyévet követő év december 31-e.
 
-22. 3.5. Karcag Város Önkormányzata Kossuth téri ingatlanfejlesztésének támogatása jogcím
-
-22.1. A jogcím a címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, valamint a Rezsivédelmi Alapból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, valamint kormányhatározat módosításáról szóló 1374/2024. (XII. 6.) Korm. határozat (a továbbiakban: 1374/2024. (XII. 6.) Korm. határozat) alapján biztosított támogatással együtt szolgálja Karcag Város Önkormányzata ingatlanfejlesztésének támogatását.
-
-22.2. A támogatás folyósítására csak abban az esetben kerülhet sor, ha Karcag Város Önkormányzata az 1374/2024. (XII. 6.) Korm. határozat alapján a helyi önkormányzatokért felelős miniszter által Karcag Város Önkormányzatának kiadott támogatói okirat szerint biztosított támogatásrészt felhasználja, és azzal legkésőbb tárgyév november 15-éig elszámol. A határidő be nem tartása esetén a támogatás biztosítására a tárgyévet követő évben kerül sor.
-
-22.3. A támogatás felhasználási határideje a tárgyévet követő harmadik év december 31-e.
+22.
 
 23. 3.6. Szenna Község Önkormányzata sportcsarnok felújításának támogatása jogcím
 
@@ -600,23 +594,9 @@ b) a további részletek tárgyévi – támogatói okirat szerinti – folyós�
 
 24.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Nagykörű Községi Önkormányzat számára. A támogatás felhasználási határideje tárgyévet követő év december 31-e.
 
-25. 3.8. Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatása jogcím
+25.
 
-25.1. A jogcím szolgál Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatására.
-
-25.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Vezseny Község Önkormányzata számára. A támogatás felhasználási határideje tárgyévet követő év december 31-e.
-
-26. 3.9. Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatása jogcím
-
-26.1. A jogcím szolgál Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatására.
-
-26.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Budapest Főváros XVI. kerületi Önkormányzat számára oly módon, hogy
-
-a) a támogatás 50%-ának megfelelő előleg folyósítása a támogatói okirat kiadását követő 30 napon belül történik és
-
-b) a további részletek tárgyévi – támogatói okirat szerinti – folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol.
-
-26.3. A támogatás felhasználási határideje – ideértve a tárgyév november 15-éig el nem számolt előleget is – tárgyévet követő év december 31-e.
+26.
 
 27. Az e melléklet szerinti támogatások igénylési és döntési eljárására nem kell alkalmazni az Ákr. szabályait.
 

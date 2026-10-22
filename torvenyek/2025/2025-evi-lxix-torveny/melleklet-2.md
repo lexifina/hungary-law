@@ -1,3 +1,5 @@
+## 6X05213.pdf
+
 2. melléklet a 2025. évi LXIX. törvényhez
 
 A települési önkormányzatok általános működésének és ágazati feladatainak támogatása
@@ -258,7 +260,7 @@ a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, n
 
 b) a legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
 
-3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják. Amennyiben a köztisztviselők tekintetében legalább 15%-os mértékű tárgyévi illetményemelés megvalósul, úgy a növekmény fennmaradó összege a 2.2.1. pont szerinti feltételek szerint használható fel.
 
 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 

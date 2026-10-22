@@ -14,7 +14,7 @@ c) a 46. § (7) bekezdésében meghatározott támogatás igénylési feltétele
 
 d) a 2026/2027. tanévre leadott iskolai tankönyvrendeléseknél a 65. §-ban rögzített támogatási összegeknél magasabb támogatási összegeket.
 
-(2) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben állapítsa meg a XIV. Belügyminisztérium fejezet, 21. cím, 7. Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése alcím kiadásának felhasználásával kapcsolatos szabályokat.
+(2) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben állapítsa meg a XXVII. Egészségügyi Minisztérium fejezet, 11. cím, 1. Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése alcím kiadásának felhasználásával kapcsolatos szabályokat.
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletében
 

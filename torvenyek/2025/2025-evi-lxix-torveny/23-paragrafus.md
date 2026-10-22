@@ -4,13 +4,13 @@ a) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 1. Állami kit�
 
 b) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére átcsoportosíthat a II. Köztársasági Elnökség fejezet, 1. Sándor-palota cím javára,
 
-c) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
+c) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XVIII. Külügyminisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
 
 d) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XIII. Honvédelmi Minisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
 
 e) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 4. Magyar Corvin-lánc Testület és Iroda működésének támogatása jogcímcsoport terhére átcsoportosíthat a II. Köztársasági Elnökség fejezet, 1. Sándor-palota cím javára.
 
-(2) Az (1) bekezdés c) és d) pontja szerint átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külgazdasági és Külügyminisztérium fejezetet, valamint a XIII. Honvédelmi Minisztérium fejezetet irányító szerv vezetője jogosult.
+(2) Az (1) bekezdés c) és d) pontja szerint átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külügyminisztérium fejezetet, valamint a XIII. Honvédelmi Minisztérium fejezetet irányító szerv vezetője jogosult.
 
 (3) Az Országos Bírósági Hivatal elnöke a VI. Bíróságok fejezet, 4. Fejezeti kezelésű előirányzatok cím terhére átcsoportosíthat a VI. Bíróságok fejezet, 1. Bíróságok és 2. Kúria cím javára.
 

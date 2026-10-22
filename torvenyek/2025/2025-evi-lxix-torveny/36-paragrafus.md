@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó követelések behajtása során az MFB Zrt.-nél felmerülő költségeket a XIX. Uniós Fejlesztések fejezet, 2. cím, 7. alcím, 2. Fejezeti általános tartalék jogcímcsoport előirányzat terhére kell teljesíteni.
 
-(4) A (2) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó, az MFB Zrt. által behajtott követelés összege a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 21. Egyes korábban kihelyezett támogatások elszámolása alcím előirányzatát illeti.
+(4) A (2) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó, az MFB Zrt. által behajtott követelés összege a XXIII. Pénzügyminisztérium fejezet, 10. cím, 21. Egyes korábban kihelyezett támogatások elszámolása alcím előirányzatát illeti.
 
 (5) A (3) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó követelések behajtása során az MFB Zrt.-nél felmerült költségek térülésének összege a XIX. Uniós Fejlesztések fejezet, 2. cím, 7. alcím, 2. Fejezeti általános tartalék jogcímcsoport előirányzatát illeti meg.
