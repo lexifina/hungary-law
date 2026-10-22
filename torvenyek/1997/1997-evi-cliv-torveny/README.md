@@ -101,3 +101,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2026-03-01 | 2025. évi CXIX. törvény | 1997-154-00-00.133 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 1997-154-00-00.135 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 1997-154-00-00.136 |
+| 2026-10-22 | 2026. évi LXIV. törvény | 1997-154-00-00.137 |
