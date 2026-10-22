@@ -1,9 +1,0 @@
-## [1] Magyarország Alaptörvényének tizenhetedik módosítása, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény új központi költségvetési szervként írta elő létrehozni a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt, amelynek tevékenységi köre és gyakorlati működése számos további állami szerv működéséhez kapcsolódik.
-
-## [2] A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal bűnüldözési és rendvédelmi jellegű tevékenységet folytató társszervekkel megvalósuló összehangolt működésének biztosítása, valamint a jogszabályok közti összhang fenntartása érdekében szükségessé vált a körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendeletnek az alapul fekvő törvényi szabályozáshoz kapcsolódó rendészeti tárgyú módosítása.
-
-## [3] A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 30. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 34. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
-
-1. §[^2]
-
-[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
