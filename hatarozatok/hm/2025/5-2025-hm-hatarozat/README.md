@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-5-30-15
 | 2026-06-12 | 2025-5-30-15.3 | 3/2026. (VI. 12.) HM határozat |
 | 2026-07-03 | 2025-5-30-15.4 | 4/2026. (VII. 3.) HM határozat |
 | 2026-09-18 | 2025-5-30-15.5 | 5/2026. (IX. 18.) HM határozat |
+| 2026-10-22 | 2025-5-30-15.6 | 6/2026. (X. 22.) HM határozat |
