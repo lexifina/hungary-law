@@ -16,7 +16,7 @@ működik.
 
 (3) A szakmai kamarák feladataikat
 
-a) az alapszabály szerint létrehozott területi szervezeteik, valamint
+a) az alapszabály szerint létrehozott szakmai és területi szervezeteik, valamint
 
 b) országos szerveik
 

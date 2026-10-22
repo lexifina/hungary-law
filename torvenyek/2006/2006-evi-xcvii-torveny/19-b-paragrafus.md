@@ -2,7 +2,7 @@
 
 ## KÖZIGAZGATÁSI HATÓSÁGI ÜGYEK INTÉZÉSE
 
-19/B. § (1) A szakmai kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
+19/B. § (1) A szakmai kamara az általános közigazgatási rendtartásról szóló törvény szerinti hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
 
 a) felvétel a szakmai kamarába,
 

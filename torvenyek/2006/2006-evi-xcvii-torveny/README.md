@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2024-02-19 | 2023. évi XCI. törvény | 2006-97-00-00.27 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 2006-97-00-00.28 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2006-97-00-00.29 |
+| 2026-10-22 | 2026. évi LXIV. törvény | 2006-97-00-00.30 |

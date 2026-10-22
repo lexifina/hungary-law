@@ -1,1 +1,1 @@
-10/A. § A szakmai kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a közszolgálati tisztviselőkről szóló törvényben foglaltak szerint.
+10/A. § A szakmai kamara tisztségviselőinek díjazására, költségtérítésére és egyéb juttatásaira vonatkozó részletes szabályokat az alapszabály állapítja meg.

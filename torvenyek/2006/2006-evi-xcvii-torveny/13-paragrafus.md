@@ -2,4 +2,4 @@
 
 (2) A tisztségviselőnek és az ügyintéző szerv nem tisztségviselő tagjának a visszahívását az őt megválasztó testület tagjainak egytizede, valamint a területi szervezet tisztségviselője, ügyintéző szervének nem tisztségviselő tagja esetén a területi szervezet felügyelőbizottsága, továbbá – bármely tisztségviselő és ügyintéző szerv nem tisztségviselő tagja esetén – az országos felügyelőbizottság kezdeményezheti írásban, a kezdeményezést indokolva.
 
-(3) A visszahívásról – titkos szavazással – az a testület dönt, amelyik az érintett személyt megválasztotta, és visszahívás esetén egyidejűleg megválasztja az új tisztségviselőt, illetve az ügyintéző szerv nem tisztségviselő tagját. A döntésre jogosult testületet a visszahívás kezdeményezésétől számított 30 napon belüli időpontra össze kell hívni.
+(3) A visszahívásról – titkos szavazással – az a testület dönt, amelyik az érintett személyt megválasztotta, és visszahívás esetén egyidejűleg megválasztja az új tisztségviselőt, illetve az ügyintéző szerv nem tisztségviselő tagját. A döntésre jogosult testületet a visszahívás kezdeményezésétől számított 90 napon belüli időpontra össze kell hívni.

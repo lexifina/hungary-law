@@ -4,11 +4,13 @@
 
 (2) A küldöttközgyűlés tagjai:
 
-a) az alapszabály szerint 4 évre, titkos szavazással választott küldöttek, szavazati joggal,
+a) az alapszabály szerint számított 4 éves ciklusra, titkos szavazással választott küldöttek, szavazati joggal,
 
 b) a szakmai kamara országos elnökségének (a továbbiakban: országos elnökség) tagjai, tanácskozási joggal,
 
-c) a szakmai kamara országos etikai bizottságának, országos felügyelőbizottságának, valamint az alapszabály szerint létrehozott más, országos állandó bizottságok elnökei, továbbá az etikai kollégium elnöke, tanácskozási joggal.
+c) a szakmai kamara országos etikai bizottságának, országos felügyelőbizottságának, valamint az alapszabály szerint létrehozott más, országos állandó bizottságok elnökei, továbbá az etikai kollégium elnöke, tanácskozási joggal,
+
+d) a szakmai kamara szakmai szervezeteinek vezetői tanácskozási joggal.
 
 (3) A küldöttközgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az alapszabály rendelkezhet a küldöttközgyűlés gyakoribb összehívásáról, valamint meghatározhatja a kötelező összehívás további eseteit is.
 

@@ -1,10 +1,10 @@
-14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – az (1c)–(2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
+14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) és (2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
 
 (1a) A nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzés keretében egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (1) bekezdés szerint illetékes szakmai kamara a Magyar Orvosi Kamara.
 
 (1b) A Magyar Orvosi Kamara kérelemre az (1a) bekezdés szerinti szakképesítéssel rendelkező személlyel – amennyiben a kamarai tagság e törvényben meghatározott további feltételei fennállnak – abban az esetben is tagsági viszonyt létesít, ha a kérelmező nem minősül egészségügyi dolgozónak.
 
-(1c) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók egészségügyi tevékenységet akkor is végezhetnek, ha nem tagjai a szakképesítésük szerint illetékes szakmai kamarának.
+(1c)
 
 (2) Kamarai tagság nélkül is végezhető az (1) bekezdésben meghatározott tevékenység, ha azt olyan személy végzi, aki külön jogszabályban meghatározottak szerint ideiglenes működési nyilvántartásba vétellel, tevékenységre jogosító engedély kiadásával vagy előzetes bejelentés alapján jogot szerzett arra, hogy a működési nyilvántartásba történő felvétel nélkül egészségügyi tevékenységet végezzen Magyarországon.
 

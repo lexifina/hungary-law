@@ -21,3 +21,5 @@ b) a kamarai tagság alapjául szolgáló foglalkozástól végleges hatállyal 
 (5) Azt a személyt, akinek a tagsági viszonya az (1) bekezdés a) pontja alapján megszűnt, kérelmére a tagfelvételre egyébként illetékes területi szervezet ismét felveszi a kamara tagjai közé.
 
 (6) Ha a tagsági viszony az (1) bekezdés b)–d) pontjai alapján szűnt meg, a kérelmező a kamara tagjai közé ismét felvehető. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy a megszüntetés oka már nem áll fenn, szabadságvesztés büntetését kitöltötte, illetőleg őt a bíróság foglalkozásának gyakorlására ismételten alkalmasnak találta. Az egészségügyi tevékenység jogszabályban meghatározott időtartamot meghaladó megszakítása esetén igazolni kell az ilyen esetre előírt vizsga sikeres letételét is.
+
+(7) A kamarai tagsági jogviszony létrejöttére és megszűnésére vonatkozó eljárási részletszabályokat a szakmai kamarák alapszabályai határozzák meg.

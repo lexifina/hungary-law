@@ -1,4 +1,4 @@
-2/D. § (1) A szakmai kamara a 2. § m) pontja szerinti feladatkörében az e §-ban foglalt feltételek teljesülése esetén, megfelelő határidő kitűzésével továbbképzésre kötelezi a tagját.
+2/D. § (1) A szakmai kamara a 2. § 13. pontja szerinti feladatkörében az e §-ban foglalt feltételek teljesülése esetén, megfelelő határidő kitűzésével továbbképzésre kötelezi a tagját.
 
 (2) A kamarai tagot továbbképzésre kell kötelezni, ha az egészségügyi dolgozó az egészségügyi tevékenység végzés során, neki felróható okból súlyos szakmai szabályszegést követett el, és emiatt a bíróság jogerős ítélettel elmarasztalta, de foglalkozástól eltiltás büntetést nem alkalmazott.
 
