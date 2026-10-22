@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2026-05-14 | 2026. évi XIV. törvény | 2016-68-00-00.60 |
 | 2026-09-19 | 2026. évi L. törvény | 2016-68-00-00.62 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2016-68-00-00.61 |
+| 2026-10-22 | 2026. évi LXIII. törvény | 2016-68-00-00.64 |
