@@ -134,7 +134,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 56.[^23] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
-57.[^24] összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos vármegyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat, a 12. § 1. pontjában foglalt esetben csak azok a háromszor háromszázhatvanöt napos időszakon belül, ugyanazon vármegyében megkezdett beruházások veendők figyelembe, amelyek a kedvezményezett vagy független harmadik félnek nem minősülő személy azonos vagy hasonló tevékenységét szolgálják,
+57.[^24] összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos megyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat, a 12. § 1. pontjában foglalt esetben csak azok a háromszor háromszázhatvanöt napos időszakon belül, ugyanazon megyében megkezdett beruházások veendők figyelembe, amelyek a kedvezményezett vagy független harmadik félnek nem minősülő személy azonos vagy hasonló tevékenységét szolgálják,
 
 58. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
@@ -200,7 +200,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^21]: A 2. § (1) bekezdés 48a. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (3) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
 [^22]: A 2. § (1) bekezdés 54. pontja a 434/2022. (XI. 2.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^23]: A 2. § (1) bekezdés 56. pontja a 434/2022. (XI. 2.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^24]: A 2. § (1) bekezdés 57. pontja a 434/2022. (XI. 2.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 201. § a) pontja szerint módosított szöveg.
+[^24]: A 2. § (1) bekezdés 57. pontja a 434/2022. (XI. 2.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 291/2026. (X. 22.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^25]: A 2. § (1) bekezdés 60. pontja a 115/2024. (V. 23.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
 [^26]: A 2. § (1) bekezdés 62. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
 [^27]: A 2. § (1) bekezdés 66. pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.

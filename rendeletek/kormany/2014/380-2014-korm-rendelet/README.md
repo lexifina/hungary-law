@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-380-20-
 | 2024-05-26 | 2014-380-20-22.8 | 115/2024. (V. 23.) Korm. rendelet |
 | 2025-07-25 | 2014-380-20-22.9 | 225/2025. (VII. 24.) Korm. rendelet |
 | 2025-12-11 | 2014-380-20-22.10 | 391/2025. (XII. 10.) Korm. rendelet |
+| 2026-10-23 | 2014-380-20-22.11 | 434/2022. (XI. 2.) Korm. rendelet |
