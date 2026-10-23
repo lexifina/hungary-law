@@ -66,3 +66,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2025-07-04 | 1993-146-20-22.79 | 185/2025. (VII. 3.) Korm. rendelet |
 | 2026-01-01 | 1993-146-20-22.80 | 483/2025. (XII. 31.) Korm. rendelet |
 | 2026-10-01 | 1993-146-20-22.81 | 273/2010. (XII. 9.) Korm. rendelet |
+| 2026-10-23 | 1993-146-20-22.82 | 379/2016. (XII. 2.) Korm. rendelet |
