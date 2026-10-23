@@ -1,22 +1,22 @@
 ## Költségvetési beszámolás
 
-17. §[^54] (1)[^55] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^58] (1)[^59] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
-a)[^56] a fejezeti kezelésű előirányzatok és – a KNBSZ kivételével – a honvédelmi szervezetek tekintetében éves intézményi költségvetési beszámolót, intézményi időközi mérlegjelentéseket és a (4a) bekezdésben meghatározott módon intézményi időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások),
+a)[^60] a fejezeti kezelésű előirányzatok és – a KNBSZ kivételével – a honvédelmi szervezetek tekintetében éves intézményi költségvetési beszámolót, intézményi időközi mérlegjelentéseket és a (4a) bekezdésben meghatározott módon intézményi időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások),
 
-b)[^57] az a) pont szerinti intézményi elszámolások – ideértve a KNBSZ elszámolásait is – ellenőrzését és jóváhagyását követően, a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettségű összesítésével elszámolásokat, valamint
+b)[^61] az a) pont szerinti intézményi elszámolások – ideértve a KNBSZ elszámolásait is – ellenőrzését és jóváhagyását követően, a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettségű összesítésével elszámolásokat, valamint
 
 c) a zárszámadáshoz kapcsolódó adatszolgáltatást
 
 készít, és azokat – az intézményi elszámolások, valamint a 3. Katonai Nemzetbiztonsági Szolgálat költségvetési cím időközi mérlegjelentésének kivételével – az Áhsz.-ben, az Ávr.-ben, az (1a) bekezdésben, valamint az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határidőig megküldi a Kincstár és az államháztartásért felelős miniszter részére.
 
-(1a)[^58] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a honvédelmi szervezetenként elkészített, ellenőrzött, jóváhagyott és a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettséggel összeállított
+(1a)[^62] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a honvédelmi szervezetenként elkészített, ellenőrzött, jóváhagyott és a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettséggel összeállított
 
-a) időközi mérlegjelentéseket a tárgynegyedévet követő hónap 25. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő év február 10-éig,
+a) időközi költségvetési jelentéseket a tárgyhót követő hónap 25. napjáig, a december hónapra készített időközi költségvetési jelentést a költségvetési évet követő év február 10-éig,
 
-b) éves jelentést és éves költségvetési beszámolót az Áhsz. 32. § (1a) bekezdése szerinti határideig, és
+b) időközi mérlegjelentéseket a tárgynegyedévet követő hónap 25. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő év február 10-éig,
 
-c) a december hónapra készített időközi költségvetési jelentést a költségvetési évet követő év február 10-éig
+c) éves jelentést és éves költségvetési beszámolót az Áhsz. 32. § (1a) bekezdése szerinti határidőig
 
 a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe – a 3. Katonai Nemzetbiztonsági Szolgálat cím időközi mérlegjelentésének kivételével – feltölti.
 
@@ -34,15 +34,15 @@ c) az (1) bekezdés a) pontja szerint összesített elszámolásokat a pénzügy
 
 (4) A honvédelmi szervezetek költségvetése végrehajtását érintő, az Ávr. 169. § (2) bekezdése szerinti kötelezettségek teljesítése során feltárt, esetleges eltérések rendezését, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet negyedévente, a Kincstár által közzétett, a negyedév utolsó hónapját érintő kincstári költségvetési jelentés visszaküldésével egyidejűleg teljesíti.
 
-(4a)[^59] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a január és február hónapról szóló időközi költségvetési jelentést a központi költségvetés címrendjének megfelelően állítja össze.
+(4a)[^63] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a január és február hónapról szóló időközi költségvetési jelentést a központi költségvetés címrendjének megfelelően állítja össze.
 
 (5) A maradványelszámolás keretében a NATO Biztonsági Beruházási Programja megvalósításához kapcsolódó fejezeti kezelésű előirányzat teljesítésével összefüggésben a lezárt beruházási programok elszámolását követően a NATO által visszatérített pénzeszközök alapján elszámolt bevétel az Ávr. 150. § (1) bekezdésben foglaltaktól eltérően kötelezettségvállalás hiányában is a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzat fejezetet megillető költségvetési maradványnak minősül.
 
 (6) A KNBSZ speciális feladatai ellátása érdekében bérelt ingatlanon végzett felújítás elszámolt kiadásait a KNBSZ vagyonában nem kell kimutatni, azt a speciális működési kiadások terhére kell elszámolni. A felújítás elszámolt kiadásai a bérleti díjban érvényesíthetőek.
 
-[^54]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^55]: A 17. § (1) bekezdése az 57/2016. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^56]: A 17. § (1) bekezdés a) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^57]: A 17. § (1) bekezdés b) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^58]: A 17. § (1a) bekezdését az 57/2016. (III. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 196/2017. (VII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^59]: A 17. § (4a) bekezdését a 196/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^58]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^59]: A 17. § (1) bekezdése az 57/2016. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^60]: A 17. § (1) bekezdés a) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^61]: A 17. § (1) bekezdés b) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^62]: A 17. § (1a) bekezdését az 57/2016. (III. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 289/2026. (X. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^63]: A 17. § (4a) bekezdését a 196/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
