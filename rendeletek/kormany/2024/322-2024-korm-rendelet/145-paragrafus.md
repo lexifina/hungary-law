@@ -1,6 +1,6 @@
 ## 54. A szolgáltatásnyújtás bejelentése
 
-145. § (1)[^91] A szolgáltató a támogató szolgáltatások, a keretszolgáltatások, a keretalkalmazás, az életesemény-alapú szolgáltatás és az aggregátum szolgáltatás (a továbbiakban együtt: szolgáltatás) nyújtásának megkezdésére irányuló szándékát köteles a Felügyelet számára a Felügyelet által rendszeresített elektronikus űrlap alkalmazásával legalább 30 nappal a szolgáltatás megkezdését megelőzően bejelenteni.
+145. § (1)[^92] A szolgáltató a támogató szolgáltatások, a keretszolgáltatások, a keretalkalmazás, az életesemény-alapú szolgáltatás és az aggregátum szolgáltatás (a továbbiakban együtt: szolgáltatás) nyújtásának megkezdésére irányuló szándékát köteles a Felügyelet számára a Felügyelet által rendszeresített elektronikus űrlap alkalmazásával legalább 30 nappal a szolgáltatás megkezdését megelőzően bejelenteni.
 
 (2) A szolgáltató a bejelentéshez köteles csatolni
 
@@ -34,4 +34,4 @@ b) ha az nem tartalmazza a (2) és (3) bekezdésben foglalt tartalmi elemeket, v
 
 (7) A Felügyelet a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatókról szóló nyilvántartását a honlapján közzéteszi, és abba bárki betekinthet.
 
-[^91]: A 145. § (1) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 29. pontja szerint módosított szöveg.
+[^92]: A 145. § (1) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 29. pontja szerint módosított szöveg.

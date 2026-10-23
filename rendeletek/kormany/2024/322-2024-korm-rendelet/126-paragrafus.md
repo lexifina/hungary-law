@@ -2,7 +2,7 @@
 
 a) az országnevet,
 
-b) a vármegye nevét,
+b)[^81] a megye nevét,
 
 c) a település nevét,
 
@@ -39,3 +39,5 @@ d) azt, hogy a bejegyzett adatok telek, épület vagy közterület megjelölés�
 (3) E rendelet alkalmazásában két címet akkor kell különbözőnek tekinteni, ha legalább egy címadatuk különbözik.
 
 (4) Az 5. mellékletben felsoroltaktól eltérő közterületjelleg a központi címregiszterben nem rögzíthető.
+
+[^81]: A 126. § (1) bekezdés b) pontja a 295/2026. (X. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.

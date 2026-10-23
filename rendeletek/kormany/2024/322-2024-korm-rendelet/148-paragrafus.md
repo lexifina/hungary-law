@@ -16,8 +16,8 @@ e) elsődleges és másodlagos információforrásból rendelkezésre álló inf
 
 f) automatikus információátadási felület rendelkezésre állása és működése, összerendelési nyilvántartás alkalmazása,
 
-g)[^92] keretszolgáltatások, támogató szolgáltatások életesemény-alapú szolgáltatások és az aggregátum szolgáltatás igénybevétele,
+g)[^93] keretszolgáltatások, támogató szolgáltatások életesemény-alapú szolgáltatások és az aggregátum szolgáltatás igénybevétele,
 
 h) a címadatot tartalmazó nyilvántartások együttműködése.
 
-[^92]: A 148. § g) pontja a 164/2025. (VI. 23.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^93]: A 148. § g) pontja a 164/2025. (VI. 23.) Korm. rendelet 45. §-ával megállapított szöveg.
