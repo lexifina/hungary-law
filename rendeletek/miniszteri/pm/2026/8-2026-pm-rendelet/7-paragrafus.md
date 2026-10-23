@@ -1,0 +1,1 @@
+7. § Az elismerésben ugyanaz a személy vagy szervezet az elismerés adományozásától számított három éven belül ismételten csak kivételesen, legfeljebb egy alkalommal és kizárólag abban az esetben részesíthető, ha az előző elismerés adományozását követően szerzett további kimagasló érdemek azt alaposan és kétséget kizáróan indokolják.

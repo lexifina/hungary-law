@@ -1,0 +1,1 @@
+15. § A miniszter által adományozható elismerések adományozására a rendelet hatálybalépését megelőzően benyújtott kezdeményezéseket az e rendelet szerinti elismerésekre történő kezdeményezésnek kell tekinteni, és ekként kell elbírálni.
