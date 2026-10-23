@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-305-20-
 | 2013-05-30 | 2005-305-20-22.5 | 55/2012. (III. 30.) Korm. rendelet |
 | 2014-09-05 | 2005-305-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2023-01-01 | 2005-305-20-22.7 | 55/2012. (III. 30.) Korm. rendelet |
+| 2026-10-23 | 2005-305-20-22.8 | 55/2012. (III. 30.) Korm. rendelet |

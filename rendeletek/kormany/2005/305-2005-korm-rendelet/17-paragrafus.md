@@ -78,7 +78,7 @@ III. A Magyar Közlönnyel és az ágazati vagy tárcaközlönyökkel összefüg
 
 | Azonosító | – | Azonosító | A leíró adat egyedi azonosítója | Generált | 1 |
 
-IV. Egyéb közzéteendő közzétételi egységre vonatkozó leíró adatok:
+IV.[^20] Egyéb közzéteendő közzétételi egységre vonatkozó leíró adatok:
 
 | Leíró adat-elem | Minősítő | Tartalom, meghatározás | Magyarázat | Kötelező | Előfordulás |
 
@@ -130,7 +130,7 @@ IV. Egyéb közzéteendő közzétételi egységre vonatkozó leíró adatok:
 
 | Jogok | – | A jogok leírása | A közzétételi egységhez kapcsolódó jogok | Választható | 1 |
 
-| Kiterjedés | Területi | A dokumentum tartalmának területi hatálya | Szabad szöveges területi lehatárolás (település, kistérség vármegye, stb.) | Választható | n |
+| Kiterjedés | Területi | A dokumentum tartalmának területi hatálya | Szabad szöveges területi lehatárolás (település, kistérség, megye stb.) | Választható | n |
 
 | Leírás | – | A közzétételi egység rövid leírása | A közzétételi egység tartalmának rövid ismertetése, (absztrakt, tartalomjegyzék, alcímek, szabad szöveg) egyéb kapcsolódó információ. | Választható | 1 |
 
@@ -238,4 +238,5 @@ VI. Az Infotv. 1. melléklete szerint közzéteendő adatbázisokra és nyilván
 
 |  | Az adat- továbbításra vonatkozó adatok | A továbbított adatok fajtáját, címzettjét és a továbbítás jogalapját, ideértve a harmadik országokba irányuló adattovábbításokat. | Infotv. 65. § (1) bekezdés g) pont | Kötelező | 1 |
 
-[^19]: A melléklet az 55/2012. (III. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 61. §-a szerint módosított szöveg.
+[^19]: A Melléklet az 55/2012. (III. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^20]: A Melléklet IV. pontjában foglalt táblázat a 287/2026. (X. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
