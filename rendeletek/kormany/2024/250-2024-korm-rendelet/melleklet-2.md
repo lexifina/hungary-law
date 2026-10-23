@@ -18,13 +18,13 @@ A Nahtv. 93. § (2) bekezdése szerinti, a nemzeti adatvagyon részét képező 
 
 | 7. | Elektronikus anyakönyvi nyilvántartás | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
 
-| 8. | Földhasználati nyilvántartás | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, továbbá az ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal | teljes adatfeldolgozás | kötelező |
+| 8. | Földhasználati nyilvántartás | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, továbbá az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal[^3] | teljes adatfeldolgozás | kötelező |
 
 | 9. | Az államhatár adatbázisa, az állami nagyméretarányú topográfiai térképi adatbázisok, az állami távérzékelési adatbázisok, a Földrajzinév-tár adatbázis | Földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | teljes adatfeldolgozás | kötelező |
 
-| 10. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai | Földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, valamint az ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal | teljes adatfeldolgozás | kötelező |
+| 10. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai | Földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, valamint az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal[^4] | teljes adatfeldolgozás | kötelező |
 
-| 11. | Ingatlan-nyilvántartás, az állami ingatlan-nyilvántartási térképi adatbázis | Földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal | teljes adatfeldolgozás | kötelező |
+| 11. | Ingatlan-nyilvántartás, az állami ingatlan-nyilvántartási térképi adatbázis | Földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal[^5] | teljes adatfeldolgozás | kötelező |
 
 | 12. | Közepes és kisméretarányú állami topográfiai térképi adatbázisok, a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 19. § (1) bekezdése szerinti állami digitális távérzékelési adatbázisok | A honvédelem térképészeti támogatásáért felelős szervként eljáró HM Zrínyi Geoinformációs és Toborzástámogató Közhasznú Nonprofit Kft., továbbá a honvédelmi térképészeti hatósági feladatokért felelős szervként eljáró honvédelemért felelős miniszter | teljes adatfeldolgozás | kötelező |
 
@@ -71,3 +71,7 @@ A Nahtv. 93. § (2) bekezdése szerinti, a nemzeti adatvagyon részét képező 
 | 33. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 34. | Elektronikus Egészségügyi Szolgáltatási Tér rendszer | ESZFK Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | elektronikus adatfeldolgozás | kötelező |
+
+[^3]: A 2. mellékletben foglalt táblázat B:8 mezője a 293/2026. (X. 22.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 2. mellékletben foglalt táblázat B:10 mezője a 293/2026. (X. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 2. mellékletben foglalt táblázat B:11 mezője a 293/2026. (X. 22.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
