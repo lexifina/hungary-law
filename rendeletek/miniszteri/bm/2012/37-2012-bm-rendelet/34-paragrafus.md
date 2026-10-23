@@ -1,10 +1,10 @@
 34. § (1) A csapatzászló adományozása iránti kérelmet a (2) bekezdésben meghatározott szerv vezetője a tervezett csapatzászló-átadási ünnepséget 60 nappal megelőzően a belügyminiszter részére terjeszti fel.
 
-(2)[^106] A csapatzászló átadást lehetőleg állami, nemzeti ünnephez, testületi ünnephez vagy vallási ünnephez kapcsolódóan, nyilvános ünnepség keretében kell megrendezni.
+(2)[^97] A csapatzászló átadást lehetőleg állami, nemzeti ünnephez, testületi ünnephez vagy vallási ünnephez kapcsolódóan, nyilvános ünnepség keretében kell megrendezni.
 
 (3) A csapatzászlóra az adományozó, illetve képviselője, valamint a megadományozott szerv vezetője az adományozással egyidejűleg zászlószalagot köthet.
 
-(4)[^107] A (3) bekezdésben foglaltakon kívül – elismerésképpen – a Kormány tagja, a főispán, a vármegyei közgyűlés elnöke, a főpolgármester, a rendvédelmi szervek vezetői és az általuk felkért zászlóanya jogosult a csapatzászlón zászlószalagot elhelyezni.
+(4)[^98] A (3) bekezdésben foglaltakon kívül – elismerésképpen – a Kormány tagja, a főispán, a vármegyei közgyűlés elnöke, a főpolgármester, a rendvédelmi szervek vezetői és az általuk felkért zászlóanya jogosult a csapatzászlón zászlószalagot elhelyezni.
 
 (5) A (4) bekezdésben foglaltakon kívül természetes és jogi személy – a csapatzászlóval rendelkező szerv vezetőjének egyetértésével – adományozhat zászlószalagot, amely a 24. mellékletben meghatározott zászlószalagokkal nem lehet összetéveszthető, és amelynek elkészítéséről az adományozó gondoskodik.
 
@@ -18,5 +18,5 @@
 
 (10) A csapatzászló és tartozékai részletes leírását a 24. melléklet tartalmazza.
 
-[^106]: A 34. § (2) bekezdése a 68/2013. (XII. 10.) BM rendelet 9. §-a szerint módosított szöveg.
-[^107]: A 34. § (4) bekezdése a 39/2022. (XI. 22.) BM rendelet 16. § f) pontja, a 45/2022. (XII. 20.) BM rendelet 67. § b) pontja szerint módosított szöveg.
+[^97]: A 34. § (2) bekezdése a 68/2013. (XII. 10.) BM rendelet 9. §-a szerint módosított szöveg.
+[^98]: A 34. § (4) bekezdése a 39/2022. (XI. 22.) BM rendelet 16. § f) pontja, a 45/2022. (XII. 20.) BM rendelet 67. § b) pontja szerint módosított szöveg.

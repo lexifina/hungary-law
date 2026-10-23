@@ -1,18 +1,18 @@
-52. § (1)[^140]
+52. § (1)[^131]
 
-(2)[^141]
+(2)[^132]
 
-(3)[^142]
+(3)[^133]
 
-(4)[^143]
+(4)[^134]
 
-(5)[^144]
+(5)[^135]
 
-(6)[^145]
+(6)[^136]
 
-[^140]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^141]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^142]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^143]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^144]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^145]: Az 52. § (6) bekezdését a 62/2024. (XII. 30.) BM rendelet 9. § h) pontja hatályon kívül helyezte.
+[^131]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^132]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^133]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^134]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^135]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^136]: Az 52. § (6) bekezdését a 62/2024. (XII. 30.) BM rendelet 9. § h) pontja hatályon kívül helyezte.

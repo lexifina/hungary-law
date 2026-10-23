@@ -1,4 +1,4 @@
-## 21.[^84] Zsinka András Emlékérem
+## 21.[^75] Zsinka András Emlékérem
 
 23. § (1) Zsinka András Emlékérem adományozható a belügyminiszter irányítása alatt álló, rendvédelmi feladatokat ellátó szerveknél humánigazgatási szakterületen foglalkoztatási jogviszonyban álló, humánigazgatási szakterületi munkájukat huzamos időn keresztül kiválóan végző, a közösség elé példaképül állítható személyek részére.
 
@@ -14,4 +14,4 @@
 
 (7) Az (1) bekezdés szerinti elismerés leírását a 17. melléklet tartalmazza.
 
-[^84]: A 21. alcímet (23. §-t) a 2/2023. (II. 3.) MK rendelet 42. § b) pont bd) alpontja hatályon kívül helyezte, újonnan a 22/2024. (V. 3.) BM rendelet 3. §-a iktatta be.
+[^75]: A 21. alcímet (23. §-t) a 2/2023. (II. 3.) MK rendelet 42. § b) pont bd) alpontja hatályon kívül helyezte, újonnan a 22/2024. (V. 3.) BM rendelet 3. §-a iktatta be.
