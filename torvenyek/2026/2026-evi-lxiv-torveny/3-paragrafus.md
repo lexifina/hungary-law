@@ -1,3 +1,1 @@
-3. § Az Ekt. 2/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 2. § 4. pontjában foglaltakon túlmenően a Magyar Orvosi Kamara véleményezési jogot gyakorol a vezetői alkalmasság kérdésében az állami és önkormányzati fenntartású egészségügyi szolgáltatóknál, az egészségbiztosítási szerveknél, valamint az egyetemek orvosképzést, szakképzést végző karainál, szervezeti egységeinél magasabb vezető és vezető állásra pályázati eljárás keretében pályázó, orvos végzettségű jelöltek vezetői kinevezése, megbízása során, továbbá a háziorvosok, házi gyermekorvosok, fogorvosok e munkakörben, munkavégzésre irányuló jogviszony keretében történő foglalkoztatása és a foglalkoztatásnak a foglalkoztató kezdeményezésére történő megszüntetése tekintetében.”
+### 3. §
