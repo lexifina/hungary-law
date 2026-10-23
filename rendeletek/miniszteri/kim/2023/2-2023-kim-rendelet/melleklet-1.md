@@ -4,17 +4,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 1. Családügyi ágazat
 
-1.1. Bölcsődékért díj
-
-1.1.1. A bölcsődei ellátás területén kifejtett példaértékű, magas színvonalon végzett szakmai munkáért, a szakma fejlesztéséért, a családok és a gyermekek jólétének növelése érdekében tett közszolgálati tevékenység elismeréseként Bölcsődékért díj adományozható. A díj jogi személyeknek is adományozható.
-
-1.1.2. A díj átadására a bölcsődék napja (április 21.) alkalmából kerül sor.
-
-1.1.3. A díjból évente legfeljebb öt adományozható.
-
-1.1.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérmen a díj szellemiségét jelképező motívum és a „BÖLCSŐDÉKÉRT DÍJ” felirat található.
-
-1.1.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
+1.1.[^11]
 
 1.2. Családokért díj
 
@@ -42,17 +32,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 1.3.6. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
 
-1.4. Magyar Fiatalokért díj
-
-1.4.1. Az ifjúságügy és a tehetséggondozás területén végzett kiemelkedő szakmai teljesítmény vagy elért kimagasló eredmény elismerésére Magyar Fiatalokért díj adományozható.
-
-1.4.2. A díj átadására a fiatalok nemzetközi napja (augusztus 12.) vagy egyéb kiemelkedő szakmai esemény alkalmából kerül sor.
-
-1.4.3. A díjból évente legfeljebb öt adományozható természetes személy vagy jogi személy részére.
-
-1.4.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kör alakú, három részből áll, a külső bronzgyűrű átmérője 80 mm, magassága 12 mm, ezen látható a felirat: „MAGYAR FIATALOKÉRT DÍJ”. A bronzgyűrűbe egy gőzölt akácfa korong kerül belefoglalásra, jól látszó, koncentrikusan elhelyezkedő évgyűrűkkel, amelynek közepén a fa erezetét egyedileg lekövető kontúrvonalú ezüst intarzia szerepel. Az emlékérem Gelley Kristóf és Mátyás Zoltán ötvösművészek alkotása.
-
-1.4.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
+1.4.[^12]
 
 1.5. Monspart Sarolta-díj az idősekért
 
@@ -66,17 +46,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 1.5.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
 
-1.6. Pro Voluntarius díj
-
-1.6.1. Az önkéntesség, a köz javát szolgáló tevékenység, valamint a fiatal generációk önkéntességre nevelésében végzett kiemelkedő teljesítmény, tevékenység elismerésére Pro Voluntarius díj adományozható.
-
-1.6.2. A díj átadására az önkéntesek nemzetközi napja (december 5.) vagy egyéb kiemelkedő szakmai esemény alkalmából kerül sor.
-
-1.6.3. A díjból évente legfeljebb kettő adományozható természetes személy vagy jogi személy részére.
-
-1.6.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kör alakú, bronzból készült, átmérője 110 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, összefonódó kezeket ábrázol, „PRO VOLUNTARIUS DÍJ” félkörívű felirattal.
-
-1.6.5. A díjhoz bruttó 500 000 Ft összegű pénzjutalom jár.
+1.6.[^13]
 
 2. Kulturális ágazat
 
@@ -174,7 +144,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.7.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-2.7.5.[^5] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szanyi Péter szobrászművész alkotása, egyoldalas, és Gérecz Attila domború arcképét ábrázolja „GÉRECZ ATTILA-DÍJ” felirat kíséretében.
+2.7.5.[^14] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szanyi Péter szobrászművész alkotása, egyoldalas, és Gérecz Attila domború arcképét ábrázolja „GÉRECZ ATTILA-DÍJ” felirat kíséretében.
 
 2.7.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
@@ -264,7 +234,7 @@ A kultúráért és innovációért felelős miniszter által adományozható d�
 
 2.14. Máté Péter-díj
 
-2.14.1.[^6] A díj kiemelkedő könnyűzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
+2.14.1.[^15] A díj kiemelkedő könnyűzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
 
 2.14.2. A díj átadására március 15-e alkalmából kerül sor.
 
@@ -534,7 +504,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 2.31.10. A díj posztumusz is adományozható, amely esetben a díj és a díjjal járó járadék átvételére az elhunyt díjazott házastársa, annak hiányában a miniszter döntése szerinti leszármazója jogosult.
 
-2.32.[^7] Szakcsi Lakatos Béla-díj
+2.32.[^16] Szakcsi Lakatos Béla-díj
 
 2.32.1. A díj kiemelkedő jazz előadó-művészeti tevékenység elismerésére adományozható természetes személyek részére.
 
@@ -548,75 +518,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 2.32.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke a központi költségvetésről szóló törvényben meghatározott köztisztviselői illetményalap harmincszorosának megfelelő összeg.
 
-3. Felsőoktatási ágazat
-
-3.1. Eötvös József-díj (felsőoktatási tagozat)
-
-3.1.1. Eötvös József-díj (felsőoktatási tagozat) az oktatói élethivatás melletti elkötelezettség elismeréséért adományozható az életpályájuk során kiemelkedő munkát végző főiskolai, egyetemi oktatóknak.
-
-3.1.2. Évente legfeljebb 5 díj adományozható.
-
-3.1.3. A díj bronzból készült kisplasztika, magassága 200 mm. A kisplasztika Kutas László szobrászművész alkotása. A kisplasztika Eötvös József álló alakját ábrázolja.
-
-3.1.4. A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
-
-3.1.5. A díjhoz pénzjutalom jár, melynek mértéke bruttó 1 000 000 Ft.
-
-3.2. Apáczai Csere János-díj (felsőoktatási tagozat)
-
-3.2.1. Apáczai Csere János-díj (felsőoktatási tagozat) a kiemelkedő oktatási-gyógypedagógiai munka, valamint a pedagógiai gyakorlatot segítő kiemelkedő tudományos tevékenység elismeréséért adományozható főiskolai, egyetemi oktatók részére.
-
-3.2.2. Évente legfeljebb 10 díj adományozható.
-
-3.2.3. A díj kerek alakú, bronzból készült emlékérem, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Kiss Nagy András szobrászművész alkotása, egyoldalas, Apáczai Csere János domború arcképét ábrázolja, és azon az „APÁCZAI CSERE JÁNOS-DÍJ” felirat található.
-
-3.2.4. A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
-
-3.2.5. A díjhoz pénzjutalom jár, melynek mértéke bruttó 500 000 Ft.
-
-3.3. Trefort Ágoston-díj (felsőoktatási tagozat)
-
-3.3.1. Trefort Ágoston-díj (felsőoktatási tagozat) az oktatás érdekében hosszabb időn át kiemelkedően végzett munka elismeréséért adományozható felsőoktatási intézményben dolgozóknak.
-
-3.3.2. Évente legfeljebb 10 díj adományozható.
-
-3.3.3. A díj kerek alakú, bronzból készült emlékérem, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Fekete Tamás szobrászművész alkotása, egyoldalas, Trefort Ágoston domború arcképét ábrázolja, és azon a „TREFORT ÁGOSTON-DÍJ” felirat található.
-
-3.3.4. A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
-
-3.3.5. A díjhoz pénzjutalom jár, melynek mértéke bruttó 500 000 Ft.
-
-3.4. Kármán Tódor-díj
-
-3.4.1. Kármán Tódor-díj a magyarországi oktatás, képzés, felnőttoktatás, tudományos kutatás érdekében végzett kiemelkedő támogató tevékenység elismeréséért adományozható a gazdasági élet szereplőinek.
-
-3.4.2. Évente legfeljebb 5 díj adományozható.
-
-3.4.3. A díj kerek alakú, bronzból készült emlékérem, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Király Vilmos szobrászművész alkotása, egyoldalas, Kármán Tódor domború arcképét ábrázolja, és azon a „KÁRMÁN TÓDOR-DÍJ” felirat található.
-
-3.4.4. A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
-
-3.5. Szent-Györgyi Albert-díj
-
-3.5.1. Szent-Györgyi Albert-díj a felsőoktatás területén kiemelkedő oktatási, kutatási és nevelési munka, illetve iskolateremtő, nemzetközi elismertségű tevékenység elismeréséért adományozható.
-
-3.5.2. Évente legfeljebb 5 díj adományozható.
-
-3.5.3. A díj kerek alakú, bronzból készült emlékérem, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Szöllőssy Enikő szobrászművész alkotása, egyoldalas, Szent-Györgyi Albert domború arcképét ábrázolja, és azon a „SZENT-GYÖRGYI ALBERT-DÍJ” felirat található.
-
-3.5.4. A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
-
-3.5.5. A díjhoz pénzjutalom jár, melynek mértéke bruttó 1 000 000 Ft.
-
-3.6. Oktatói Szolgálati Emlékérem
-
-3.6.1. Oktatói Szolgálati Emlékérem a legalább 25 éven keresztül végzett, kiemelkedő oktatási tevékenység elismeréséért adományozható a nyugállományba vonult főiskolai, egyetemi oktatóknak.
-
-3.6.2. Évente korlátlan számú érem adományozható.
-
-3.6.3. Az érem díszdobozban elhelyezett, ezüstből készült, „proof” kivitelű, átmérője 42,5 mm, vastagsága 3 mm. Előlapján egyrészt az oktatást szimbolizáló holló szerepel, csőrében gyűrűvel, mely a tudást, a hosszú életet és a bölcsességet jelképezi, másrészt az „OKTATÓI SZOLGÁLATI EMLÉKÉREM” felirat látható. Hátoldalán Magyarország címere helyezkedik el, amelyet a „KULTÚRÁÉRT ÉS INNOVÁCIÓÉRT FELELŐS MINISZTER” felirat övez.
-
-3.6.4. Az érem adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
+3.[^17]
 
 4. Innovációs ágazat
 
@@ -648,28 +550,13 @@ d) Ipar 4.0 eredetű jelentős kutatást, fejlesztést vagy innovációt megval�
 
 4.2.4. A díjazottak emlékérmet és az adományozást igazoló oklevelet kapnak. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérmen a díj szellemiségét jelképező motívum és az „A(z) …. évi Társadalmi Innovációja Díj” felirat található.
 
-5. Szakképzési ágazat
+5.[^18]
 
-5.1. Szakképzésért Apáczai Csere János-díj
-
-5.1.1. A Szakképzésért Apáczai Csere János-díj a szakképzés és felnőttképzés területén legalább öt éve végzett eredményes, példamutató tevékenység elismeréséért adományozható.
-
-5.1.2. Évente legfeljebb 10 díj adományozható.
-
-5.1.3. A díj adományozására a tanítási év utolsó tanítási napja (a tanév rendjéről szóló miniszteri rendelet szerint) alkalmából kerülhet sor.
-
-5.1.4. A díjhoz pénzjutalom jár, melynek mértéke bruttó 1 000 000 Ft.
-
-5.2. Oktatói Szolgálati Emlékérem (szakképzési tagozat)
-
-5.2.1. A szakképzési ágazatban adományozható Oktatói Szolgálati Emlékéremre a 3.6. pontban foglaltak irányadók, azzal, hogy
-
-a) az a legalább 25 éven keresztül végzett, példamutató oktatási tevékenység elismeréséért adományozható szakképző intézmény, illetve többcélú szakképző intézmény nyugállományba vonult oktatóinak vagy pedagógusainak,
-
-b) adományozására a szakképzési tanítási év utolsó tanítási napján kerülhet sor, valamint
-
-c) évente adományozható:
-
-[^5]: Az 1. melléklet 2. pont 2.7. alpont 2.7.5. pontja a 2/2026. (II. 12.) KIM rendelet 3. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 2. pont 2.14. alpont 2.14.1. pontja a 2/2026. (II. 12.) KIM rendelet 4. §-a szerint módosított szöveg.
-[^7]: Az 1. melléklet 2. pont 2.32. alpontját a 2/2026. (II. 12.) KIM rendelet 3. §-a iktatta be.
+[^11]: Az 1. melléklet 1. pont 1.1. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 1. pont 1.4. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^13]: Az 1. melléklet 1. pont 1.6. alpontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^14]: Az 1. melléklet 2. pont 2.7. alpont 2.7.5. pontja a 2/2026. (II. 12.) KIM rendelet 3. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet 2. pont 2.14. alpont 2.14.1. pontja a 2/2026. (II. 12.) KIM rendelet 4. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet 2. pont 2.32. alpontját a 2/2026. (II. 12.) KIM rendelet 3. §-a iktatta be.
+[^17]: Az 1. melléklet 3. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^18]: Az 1. melléklet 5. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § d) pontja hatályon kívül helyezte.

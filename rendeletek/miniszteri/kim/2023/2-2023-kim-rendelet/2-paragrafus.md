@@ -1,16 +1,16 @@
 2. § (1) A miniszter által adományozható díjak a családügyi ágazatban a következők:
 
-1. Bölcsődékért díj,
+1.[^2]
 
 2. Családokért díj,
 
 3. Emberi méltóság védelméért díj,
 
-4. Magyar Fiatalokért díj,
+4.[^3]
 
 5. Monspart Sarolta-díj az idősekért,
 
-6. Pro Voluntarius díj.
+6.[^4]
 
 (2) A miniszter által adományozható művészeti díjak a kulturális ágazatban a következők:
 
@@ -56,7 +56,7 @@
 
 21. Sára Sándor-díj.
 
-22.[^1] Szakcsi Lakatos Béla-díj.
+22.[^5] Szakcsi Lakatos Béla-díj.
 
 (3) A miniszter által adományozható művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díj a kulturális ágazatban a következő:
 
@@ -86,19 +86,7 @@
 
 4. A Magyar Klasszikus Zene Ifjú Nagykövete cím.
 
-(7) A miniszter által adományozható díjak a felsőoktatási ágazatban a következők:
-
-1. Eötvös József-díj (felsőoktatási tagozat),
-
-2. Apáczai Csere János-díj (felsőoktatási tagozat),
-
-3. Trefort Ágoston-díj (felsőoktatási tagozat),
-
-4. Kármán Tódor-díj,
-
-5. Szent-Györgyi Albert-díj,
-
-6. Oktatói Szolgálati Emlékérem (felsőoktatási tagozat).
+(7)[^6]
 
 (8) A miniszter által adományozható díjak az innovációs ágazatban:
 
@@ -106,10 +94,11 @@
 
 2. Társadalmi Innovációs Díj.
 
-(9) A miniszter által adományozható díj a szakképzési ágazatban:
+(9)[^7]
 
-1. Szakképzésért Apáczai Csere János-díj,
-
-2. Oktatói Szolgálati Emlékérem (szakképzési tagozat).
-
-[^1]: A 2. § (2) bekezdés 22. pontját a 2/2026. (II. 12.) KIM rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés 1. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § b) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 4. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § b) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 6. pontját a 4/2026. (X. 22.) OGYM rendelet 39. § b) pontja hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdés 22. pontját a 2/2026. (II. 12.) KIM rendelet 1. §-a iktatta be.
+[^6]: A 2. § (7) bekezdését a 4/2026. (X. 22.) OGYM rendelet 39. § c) pontja hatályon kívül helyezte.
+[^7]: A 2. § (9) bekezdését a 4/2026. (X. 22.) OGYM rendelet 39. § c) pontja hatályon kívül helyezte.
