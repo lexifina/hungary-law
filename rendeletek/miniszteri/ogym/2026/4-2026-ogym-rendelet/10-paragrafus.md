@@ -1,0 +1,1 @@
+10. § Elismerés adományozása saját maga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója számára senki által nem kezdeményezhető.

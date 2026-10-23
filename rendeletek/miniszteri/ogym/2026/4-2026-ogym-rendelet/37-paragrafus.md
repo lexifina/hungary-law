@@ -1,0 +1,3 @@
+37. § (1) A miniszter által adományozható elismerések és díjak adományozására az e rendelet hatálybalépését megelőzően benyújtott kezdeményezéseket az e rendelet szerinti díjra történő kezdeményezésnek kell tekinteni, és ekként kell elbírálni.
+
+(2) Az Eötvös József-díj felsőoktatási tagozata, az Apáczai Csere János-díj felsőoktatási tagozata, a Szakképzésért Apáczai Csere János-díj, a Trefort Ágoston-díj felsőoktatási tagozata, a Kármán Tódor-díj, a Szent-Györgyi Albert-díj, az Oktatói Szolgálati Emlékérem felsőoktatási tagozata és a szakképzési ágazatban adományozható Oktatói Szolgálati Emlékérem adományozására a 2026. évben a 2026. október 23-i nemzeti ünnep alkalmából kerül sor.
