@@ -1,3 +1,1 @@
-1. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 150. §-a a következő (46) bekezdéssel egészül ki:
-
-„(46) A 113. § (5) bekezdésétől eltérően a kereskedelmi gázolaj beszerzéséről az e rendelkezés hatálybalépésének napjától 2026. december 31-ig kiállított bizonylatok után a 113. § (5) bekezdésében meghatározott összegnél literenként 25 forinttal magasabb összegű adó igényelhető vissza. Az előbbiek szerint megállapított adó-visszaigénylés mértékét az állami adó- és vámhatóság az üzemanyag-áremelkedésre tekintettel a kereskedelmi gázolaj adó-visszatérítésének növelése érdekében a jövedéki adóról szóló 2016. évi LXVIII. törvény módosításáról szóló 2026. évi LXIII. törvény kihirdetését követő 5 munkanapon belül közzéteszi a Magyar Közlönyben és az internetes honlapján.”
+### 1. §
