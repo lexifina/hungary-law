@@ -1,3 +1,3 @@
-7. §[^12]
+7. §[^13]
 
-[^12]: A 7. §-t a 223/2005. (X. 13.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^13]: A 7. §-t a 223/2005. (X. 13.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
