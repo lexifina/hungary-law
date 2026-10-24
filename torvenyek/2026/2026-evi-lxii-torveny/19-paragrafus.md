@@ -5,15 +5,3 @@
 (3) A 15. § és a 17. § az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 16. § az Alaptörvény IX. cikk (3) bekezdése, XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
-
-|
-
-Dr. Baka András s. k.,
-
-köztársasági elnök
-
-|
-
-Forsthoffer Ágnes s. k.,
-
-az Országgyűlés elnöke
