@@ -1,0 +1,1 @@
+5/B. § Járványügyi intézkedést grapevine flavescence dorée phytoplasma károsítóra figyelemmel elrendelő határozat esetén az Éltv. 42. § (3) bekezdésének alkalmazása szempontjából a nagyszámú ügyfél érintettsége vélelmezendő.

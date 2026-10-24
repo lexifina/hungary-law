@@ -1,6 +1,6 @@
 5. § (1) A szőlőültetvényt az ültetvény használója köteles rendeltetésének megfelelően művelni, a tulajdonos köteles a szőlőültetvény rendeltetésnek megfelelő művelését biztosítani.
 
-(2) Amennyiben a szőlőültetvény a hegybíró és a hegyközség választmányának legalább egy tagja által közösen elvégzett helyszíni szemle megállapítása alapján egy vegetációs időszak során nem áll rendeltetésszerű művelés alatt, a hegybíró figyelmezteti az ültetvény használóját a szőlőültetvény rendeltetésszerű művelésére, valamint tulajdonosát a szőlőültetvény rendeltetésszerű művelésének biztosítására.
+(2) Amennyiben a szőlőültetvény a hegybíró és a hegyközség választmányának legalább egy tagja által közösen elvégzett helyszíni szemle megállapítása alapján nem áll rendeltetésszerű művelés alatt, a hegybíró figyelmezteti az ültetvény használóját a szőlőültetvény rendeltetésszerű művelésére, valamint tulajdonosát a szőlőültetvény rendeltetésszerű művelésének biztosítására.
 
 (3) A (2) bekezdés szerinti figyelmeztetést követően az ültetvény használójának, illetve tulajdonosának hét napon belül nyilatkoznia kell arról, hogy a szőlőültetvény rendeltetésszerű művelését megkezdte. Ha a tulajdonos a szőlőültetvény művelését más ültetvényhasználóval kívánja biztosítani, a tulajdonosnak a figyelmeztetéstől számított hét napon belül be kell mutatnia a szőlőültetvény megfelelő hasznosítását biztosító szerződést, vagy ha a tulajdonos maga kívánja a szőlőültetvényt művelni, nyilatkoznia kell erről.
 
@@ -13,6 +13,10 @@ b) a (3) bekezdés szerinti nyilatkozattételnek az ültetvény használója vag
 (5) A rendeltetésszerű művelés elmulasztása miatt kiszabott bírság 50%-a a szőlőültetvény fekvése szerinti hegyközség, 50%-a a HNT által a Hktv. 38. § (5) bekezdése szerint létrehozott alap (a továbbiakban: Alap) bevétele.
 
 (6) Ha az ültetvény tulajdonosa a (4) bekezdés szerinti kivágási kötelezettségének az azt elrendelő hatósági határozat ellenére sem tesz határidőre eleget, a hegybíró közérdekű kivágást rendel el.
+
+(6a) Ha a (4) bekezdés szerinti határozat az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 86. § (1) bekezdése alapján tekintendő kézbesítettnek vagy az Ákr. 88. § (1) bekezdése alapján a határozat közlését hirdetmény útján kell teljesíteni, az Ákr. 84. § a) pontja szerinti azonnali végrehajthatóság tekintetében a súlyos kárral való fenyegetés megállapítható, ha szőlőültetvénytől vagy egyéb szőlőtől legfeljebb 4 kilométeres távolságban más szőlőültetvény található.
+
+(6b) A (6a) bekezdés szerinti azonnali végrehajthatóság esetén a hegybíró elrendeli a (6) bekezdés szerinti közérdekű kivágást.
 
 (7) A közérdekű kivágás költségeinek megelőlegezését az Alapból kell biztosítani. A közérdekű kivágás elvégzését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni a (6) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű kivágás költségei adók módjára végrehajtandó köztartozásnak minősülnek, amelyet az állami adó- és vámhatóság hajt be az Alap javára.
 

@@ -20,6 +20,8 @@ b) amelynek természetes személy tagjai, vagy jogi személy esetén a jogi szem
 
 5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképen a VINGIS-ben lehatárolt, nevesített terület;
 
+5a. egyéb szőlő: a Vitis vinifera subsp. sylvestris kivételével minden olyan, a Vitis nemzetséghez tartozó egyed, ezen egyedek társulása vagy ilyen egyedeket is tartalmazó növénytársulás, amely nem minősül szőlőültetvénynek;
+
 6. ePincekönyv rendszer: a szőlő-bor ágazat elektronikus információs rendszere;
 
 7. eredetmegjelölés: az 1308/2013/EU európai parlamenti és tanácsi rendelet 93. cikk (1) bekezdés a) pontja szerinti fogalom;
