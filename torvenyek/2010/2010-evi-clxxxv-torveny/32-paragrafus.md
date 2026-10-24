@@ -18,7 +18,7 @@ figyelemfelhívás.
 
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 
-(4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek megfelelő fizikai, szellemi és erkölcsi fejlődésének a kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése.
+(4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek fizikai, szellemi és erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütköző tartalom.
 
 (5) A közérdekű közlemény közzétételéért a médiaszolgáltató ellenszolgáltatást nem kérhet.
 

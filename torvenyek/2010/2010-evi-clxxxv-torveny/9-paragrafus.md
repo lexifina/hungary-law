@@ -18,7 +18,7 @@
 
 (5) Azt a műsorszámot, amely alkalmas a tizenhat éven aluliak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy erőszakra, illetve szexualitásra utal, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus, a IV. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenhat éven aluliak számára nem ajánlott.
 
-(6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése, illetve a szexualitás közvetlen, naturális vagy öncélú ábrázolása, az V. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
+(6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütköző tartalom, illetve a szexualitás közvetlen vagy naturális ábrázolása, az V. kategóriába kell sorolni, feltéve, hogy a műsorszám a (7) bekezdés alapján nem tartozik a VI. kategóriába. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
 
 (7) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének súlyos károsítására, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, a VI. kategóriába kell sorolni.
 
