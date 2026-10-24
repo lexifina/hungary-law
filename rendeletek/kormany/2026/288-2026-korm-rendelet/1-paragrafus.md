@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet 2. § (3) bekezdés g) pontjában a „vármegye” szövegrész helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
