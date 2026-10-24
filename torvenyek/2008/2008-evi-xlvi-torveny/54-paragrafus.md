@@ -30,4 +30,6 @@ i) ha a növény-egészségügyi zárlat Magyarországon honos vagy megtelepedet
 
 j) ha a termelő a növény-egészségügyi zárlat kapcsán meghatározott valamely kötelezettségének nem tesz eleget.
 
+k) ha a termelő, illetve a földhasználó a növény-egészségügyi zárlati intézkedés esetén a kártalanítás feltételeként megállapított kötelezettség teljesítését nem vállalja vagy a vállalt kötelezettségnek határidőben nem tesz eleget.
+
 (3) A növényvédelmi védekezéssel okozott kárért nem jogosult kártalanításra az a méhész, aki letelepedésének bejelentését elmulasztotta.

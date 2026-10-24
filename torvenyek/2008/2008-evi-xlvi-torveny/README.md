@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2026-05-14 | 2026. évi XIV. törvény | 2008-46-00-00.68 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2008-46-00-00.69 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2008-46-00-00.70 |
+| 2026-10-24 | 2026. évi LXVII. törvény | 2008-46-00-00.71 |
