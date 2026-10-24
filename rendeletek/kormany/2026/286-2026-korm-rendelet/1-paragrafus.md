@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Országos Dokumentumellátási Rendszerről szóló 73/2003. (V. 28.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 3. § e) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
