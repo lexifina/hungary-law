@@ -21,3 +21,5 @@
 (6) A gyermeknek joga van ahhoz, hogy a médiában fejlettségének megfelelő, ismeretei bővítését segítő, a magyar nyelv és kultúra értékeit őrző műsorokhoz hozzáférjen, továbbá hogy védelmet élvezzen az olyan káros hatásokkal szemben, mint a gyűlöletkeltés, az erőszak és a pornográfia.
 
 (7) A gyermeknek joga van ahhoz, hogy tudatos és felelősségteljes internet-, valamint médiahasználatot − ideértve a zaklatás internetes formáival szembeni hatékony fellépést − biztosító nevelésben, oktatásban és képzésben részesüljön.
+
+(8) A gyermeknek joga van ahhoz, hogy közterületen vagy más, bárki számára korlátozás nélkül hozzáférhető nyilvános helyen ne legyen kitéve olyan vizuális, audiovizuális vagy hangalapú kommunikációnak, amely tartalmára, képi vagy hanghatására, illetve megjelenítésének módjára tekintettel alkalmas testi, értelmi, érzelmi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen indokolatlan félelem, szorongás vagy pszichés megterhelés kiváltásával.

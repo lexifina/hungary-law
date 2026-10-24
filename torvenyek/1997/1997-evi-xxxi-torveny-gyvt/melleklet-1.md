@@ -145,7 +145,3 @@ A kifogástalan életvitel ellenőrzése során kezelt személyes és bűnügyi 
 ## 3. a bejelentéshez kötött egyéb, jogviszonyon kívüli tevékenységre vonatkozó adatok.
 
 ## IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai
-
-## 1. a jogviszony alatt megállapított illetmények, kifizetések adatai,
-
-## 2. jubileumi jutalomra vonatkozó adatok,
