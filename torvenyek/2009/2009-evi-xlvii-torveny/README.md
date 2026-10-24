@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2026-01-01 | 2025. évi LXXI. törvény | 2009-47-00-00.70 |
 | 2026-09-27 | 2026. évi XXXIV. törvény | 2009-47-00-00.71 |
 | 2026-10-01 | 2026. évi XLVI. törvény | 2009-47-00-00.72 |
+| 2026-10-24 | 2026. évi LXII. törvény | 2009-47-00-00.73 |

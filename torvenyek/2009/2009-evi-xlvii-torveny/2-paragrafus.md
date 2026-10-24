@@ -31,3 +31,5 @@ m) szakrendszeri azonosító kód: a szakértői nyilvántartó szerv által a D
 n) szájnyálkahártya-törlet: a szájüreg belső felületéről, annak sérelme nélkül, steril gézzel vagy más, az egészségügyben használatos hordozóval letörölt anyag;
 
 o) testi kényszer: megfogás, lefogás, valamint testi erővel valamely cselekvés, magatartás abbahagyására vagy a mintavétel tűrésére kényszerítés.
+
+p) természetes személyazonosító adat: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti természetes személyazonosító adat.
