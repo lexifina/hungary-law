@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló 47/2014. (II. 26.) Korm. rendelet 2. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
