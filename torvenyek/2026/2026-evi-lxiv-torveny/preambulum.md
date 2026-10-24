@@ -1,7 +1,0 @@
-[1] Az Országgyűlés elismeri, hogy a magas színvonalú, biztonságos és betegközpontú egészségügyi ellátás alapvető feltétele az egészségügyi dolgozók szakmai önkormányzathoz való joga és függetlensége, a szakmai önkormányzatiság hatékony működése, az egészségügyi tevékenység szakmai és etikai követelményeinek következetes érvényesülése, valamint annak biztosítása, hogy az egészségügyi dolgozók közvetlenül, az általuk választott testületeik útján, demokratikusan, a törvény által meghatározott keretek között önállóan intézzék szakmai ügyeiket.
-
-[2] Az egészségügyi hivatás gyakorlásához kapcsolódó egyes közfeladatok szakmai köztestület keretei között történő ellátásának biztosítása, a szakmai közösség önszabályozó szerepének helyreállítása, valamint a betegek bizalmának erősítése érdekében indokolt a Magyar Orvosi Kamara köztestületi feladat- és hatáskörének helyreállítása, valamint az egészségügyben működő szakmai kamarák feladat- és hatáskörének megerősítése.
-
-[3] E célok megvalósítása érdekében a törvény helyreállítja valamennyi egészségügyi szakképesítéshez kötött tevékenység tekintetében a szakmai kamarai tagság általános kötelezettségét, az orvosi hivatás gyakorlásával összefüggésben az etikai eljárások kamarai feladatkörben történő lefolytatását, biztosítva a tisztességes eljárás, a szakmai autonómia érvényesülését.
-
-[4] A fentiekre figyelemmel az Országgyűlés a következő törvényt alkotja:
