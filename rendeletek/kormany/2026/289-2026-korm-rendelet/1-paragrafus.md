@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 28. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet (a továbbiakban: 346/2009. Korm. rendelet) 11. § (3) bekezdés 11. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az elemi költségvetést, időközi költségvetési jelentést és az éves költségvetési beszámolót a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a KNBSZ tekintetében)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
