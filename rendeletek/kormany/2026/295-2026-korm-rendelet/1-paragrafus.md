@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 113. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 126. § (1) bekezdés b) pontjában a „vármegye” szövegrész helyébe a „megye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
