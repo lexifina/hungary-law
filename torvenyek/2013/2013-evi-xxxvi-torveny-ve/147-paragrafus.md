@@ -12,6 +12,8 @@
 
 (4a) A szavazás napján politikai reklámot nem lehet közzétenni.
 
+(4b) Politikai reklám és politikai hirdetés kizárólag akkor tehető közzé, ha az nem sérti a Gyvt. 6. § (8) bekezdésében foglalt előírásokat.
+
 (5) A politikai reklám közzétételére egyebekben az Mttv. rendelkezéseit kell alkalmazni.
 
 (6)

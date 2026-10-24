@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2026-06-29 | 2026. évi XVIII. törvény | 2013-36-00-00.46 |
 | 2026-07-31 | 2026. évi XXXV. törvény | 2013-36-00-00.48 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 2013-36-00-00.47 |
+| 2026-10-24 | 2026. évi LXII. törvény | 2013-36-00-00.49 |
