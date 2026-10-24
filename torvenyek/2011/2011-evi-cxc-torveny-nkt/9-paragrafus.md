@@ -28,4 +28,4 @@
 
 (11) A köznevelési intézmény köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.
 
-(12) A tanulók részére a szexuális kultúráról, a nemi életről, a nemi irányultságról, valamint a szexuális fejlődésről szóló foglalkozás megtartása során különösen figyelemmel kell lenni az Alaptörvény XVI. cikk (1) bekezdésében foglaltakra. E foglalkozások nem irányulhatnak a születési nemnek megfelelő önazonosságtól való eltérés, a nem megváltoztatása, valamint a homoszexualitás népszerűsítésére.
+(12) A tanulók részére a szexuális kultúráról, a nemi életről, a nemi irányultságról, valamint a szexuális fejlődésről szóló foglalkozás megtartása során különösen figyelemmel kell lenni az Alaptörvény XVI. cikk (1) bekezdésében foglaltakra. Tilos az olyan foglalkozás, amely a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütközik.
