@@ -4,10 +4,6 @@
 
 ## [3] A Kormány a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 43. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Kutatási, Fejlesztési és Innovációs Alap működtetésének és felhasználásának szabályairól szóló 380/2014. (XII. 31.) Korm. rendelet
+1. §[^2]
 
-a) 2. § (1) bekezdés 57. pontjában a „vármegyében” szövegrészek helyébe a „megyében” szöveg,
-
-b) 17. § (4) bekezdésében a „vármegyében” szövegrész helyébe a „megyében” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
