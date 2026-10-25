@@ -1,0 +1,5 @@
+29/Q. §[^287] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet és a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló 156/2025. (VI. 23.) Korm. rendelet környezetvédelmi jogkövetést elősegítő módosításáról szóló 280/2026. (X. 9.) Korm. rendelettel (a továbbiakban: Mkr17.) módosított 26. § (4a) bekezdését, valamint megállapított 26. § (4b)–(4d) bekezdését az Mkr17. hatálybalépése napjától[^288] elkövetett szabályszegéssel összefüggésben indult eljárásokban kell alkalmazni, azzal, hogy az eljárásban a 26. § (4b) bekezdésében meghatározott, az Mkr17. hatálybalépését[^289] megelőzően meghozott szankciós döntés figyelembe vehető.
+
+[^287]: A 29/Q. §-t a 280/2026. (X. 9.) Korm. rendelet 2. §-a iktatta be.
+[^288]: A hatálybalépés időpontja 2026. október 25.
+[^289]: A hatálybalépés időpontja 2026. október 25.

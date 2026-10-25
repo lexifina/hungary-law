@@ -22,9 +22,19 @@ veszi figyelembe.
 
 (4)[^243] A környezetvédelmi, integrált építési és környezetvédelmi, vagy egységes környezethasználati engedélyben foglaltaktól eltérően folytatott tevékenység esetén a környezetvédelmi hatóság határozatában kötelezi a környezethasználót ötszázezer forinttól húszmillió forintig terjedő bírság megfizetésére, az engedélyben rögzített feltételek betartására, valamint legfeljebb hat hónapos határidővel intézkedési terv készítésére, vagy a 20/A. § (8) bekezdés a) pontja esetén környezetvédelmi felülvizsgálat elvégzésére.
 
-(4a)[^244] A (4) bekezdés szerint kiszabott bírság összege a számvitelről szóló 2000. évi C. törvény hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás esetében ötszázezer forinttól a vállalkozás előző évi nettó árbevételének 5%-áig, de legfeljebb 2 milliárd forintig terjedhet.
+(4a)[^244] A (4) bekezdés szerint kiszabott bírság összege a számvitelről szóló 2000. évi C. törvény hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás esetében ötszázezer forinttól a vállalkozás előző évi nettó árbevételének 5%-áig, de legfeljebb 5 milliárd forintig terjedhet.
 
-(5)[^245] Környezetveszélyeztetés vagy -szennyezés esetén az (1) bekezdés jogkövetkezményei alkalmazhatóak. Amennyiben a környezethasználó a határozatban foglaltaknak nem tesz eleget, a környezetvédelmi hatóság az (1) bekezdés jogkövetkezményeit alkalmazhatja, vagy a környezetvédelmi, integrált építési és környezetvédelmi, vagy egységes környezethasználati engedélyt visszavonhatja, és az üzemeltetőt a (3) bekezdésben foglalt mértékű bírság megfizetésére kötelezi.
+(4b)[^245] A (4a) bekezdésében meghatározott árbevétellel rendelkező környezethasználó esetében a kiszabott bírság összegének el kell érnie a vállalkozás előző évi nettó árbevételének a 0,5%-át, de legalább az 5 millió forintot, ha
+
+a) a környezetvédelmi hatóság a környezethasználót – ugyanezen vagy más tevékenységére tekintettel – a bírság kiszabását megelőző 5 éven belül, végleges döntéssel környezetszennyezés miatt legalább két alkalommal az e rendeletben vagy más rendeletben meghatározott környezetvédelmi bírság megfizetésére kötelezte, vagy
+
+b) a környezethasználó – ugyanezzel vagy más tevékenységével – a bírság kiszabását megelőző 5 évben, végleges döntéssel megállapított módon környezetveszélyeztetést vagy környezetkárosítást okozó jogsértést követett el.
+
+(4c)[^246] A (4b) bekezdés a) vagy b) pontja alapján figyelembe vett korábbi döntés a (4b) bekezdés szerinti újabb bírságkiszabás során nem vehető figyelembe.
+
+(4d)[^247] A (4b) bekezdés szerinti bírság összege nem haladhatja meg a (4a) bekezdés szerinti felső határt.
+
+(5)[^248] Környezetveszélyeztetés vagy -szennyezés esetén az (1) bekezdés jogkövetkezményei alkalmazhatóak. Amennyiben a környezethasználó a határozatban foglaltaknak nem tesz eleget, a környezetvédelmi hatóság az (1) bekezdés jogkövetkezményeit alkalmazhatja, vagy a környezetvédelmi, integrált építési és környezetvédelmi, vagy egységes környezethasználati engedélyt visszavonhatja, és az üzemeltetőt a (3) bekezdésben foglalt mértékű bírság megfizetésére kötelezi.
 
 [^238]: A 26. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^239]: A 26. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 156. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -32,5 +42,8 @@ veszi figyelembe.
 [^241]: A 26. § (3) bekezdése a 61/2025. (III. 31.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^242]: A 26. § (3a) bekezdését a 61/2025. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^243]: A 26. § (4) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 12. § f) pontja, a 711/2021. (XII. 17.) Korm. rendelet 1. § b) pontja, a 61/2025. (III. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^244]: A 26. § (4a) bekezdését a 61/2025. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^245]: A 26. § (4) bekezdése a 711/2021. (XII. 17.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^244]: A 26. § (4a) bekezdését a 61/2025. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 280/2026. (X. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^245]: A 26. § (4b) bekezdését a 280/2026. (X. 9.) Korm. rendelet 1. §-a iktatta be.
+[^246]: A 26. § (4c) bekezdését a 280/2026. (X. 9.) Korm. rendelet 1. §-a iktatta be.
+[^247]: A 26. § (4d) bekezdését a 280/2026. (X. 9.) Korm. rendelet 1. §-a iktatta be.
+[^248]: A 26. § (4) bekezdése a 711/2021. (XII. 17.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

@@ -66,3 +66,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2025-09-18 | 2005-314-20-22.71 | 271/2025. (VIII. 18.) Korm. rendelet |
 | 2026-01-14 | 2005-314-20-22.72 | 449/2025. (XII. 29.) Korm. rendelet |
 | 2026-08-29 | 2005-314-20-22.73 | 131/2026. (VIII. 28.) Korm. rendelet |
+| 2026-10-25 | 2005-314-20-22.74 | 280/2026. (X. 9.) Korm. rendelet |
