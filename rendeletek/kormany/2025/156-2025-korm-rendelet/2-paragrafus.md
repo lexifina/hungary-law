@@ -1,8 +1,6 @@
-2. § (1) A hulladékgazdálkodási bírság mértékének felső határa
+2. § (1)[^1] A hulladékgazdálkodási bírság mértékének felső határa természetes személy esetén ötvenmillió forint.
 
-a) természetes személy esetén ötvenmillió forint,
-
-b) jogi személy és jogi személyiséggel nem rendelkező szervezet esetén – az 1. § (2) bekezdésében meghatározott jogsértések kivételével – ötszázmillió forint.
+(1a)[^2] A hulladékgazdálkodási bírságot jogi személy és jogi személyiséggel nem rendelkező szervezet esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 10. § (2) bekezdésében meghatározott mérték figyelmen kívül hagyásával, az 1. § szerinti bírságmérték alkalmazásával kell kiszabni.
 
 (2) Ha a hulladékgazdálkodási bírság az e rendeletben meghatározott több jogsértés alapján is kiszabható, a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékét az egyes jogsértések alapján megállapított bírságösszegeket összeadva állapítja meg. Ha a gyártó a 4. mellékletben foglalt táblázat 34. és 35. sora szerinti jogsértést több körforgásos termékre nézve valósítja meg, a körforgásos termékenként meghatározott bírságösszegek összeadódnak.
 
@@ -21,3 +19,6 @@ szorzót alkalmaz.
 (6) A hulladékgazdálkodási bírság a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 86. § (4) bekezdése szerinti legalacsonyabb mértéke megegyezik az 1. és 3. melléklet szerinti alapbírság összegével, valamint több jogsértés esetén az alapbírságok összegével.
 
 (7) A hulladékgazdálkodási bírság összege a (2)–(5) bekezdésben meghatározott esetekben sem haladhatja meg az (1) bekezdés szerinti felső határt.
+
+[^1]: A 2. § (1) bekezdése a 280/2026. (X. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^2]: A 2. § (1a) bekezdését a 280/2026. (X. 9.) Korm. rendelet 5. §-a iktatta be.
