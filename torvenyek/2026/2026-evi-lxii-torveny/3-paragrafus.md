@@ -1,3 +1,1 @@
-3. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 9/A. §-sal egészül ki:
-
-„9/A. § A gyermeknek joga van ahhoz, hogy az egészségügyi intézményben történő tartózkodása kizárólag a fekvőbeteg-gyógyintézeti ellátás által indokolt ideig tartson, és a gyermek családi vagy gyermekvédelmi helyzetének rendezéséhez szükséges intézkedések a körülmények által lehetővé tett legrövidebb időn belül megtörténjenek.”
+### 3. §

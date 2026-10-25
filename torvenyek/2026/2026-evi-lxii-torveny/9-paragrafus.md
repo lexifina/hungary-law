@@ -1,3 +1,1 @@
-9. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény „Átmeneti rendelkezések” című alcíme a következő 100/D. §-sal egészül ki:
-
-„100/D. § A bűnügyi nyilvántartó szerv a felülethez történő, az egyes törvényeknek a gyermekek jogainak és biztonságának megerősítését célzó módosításáról szóló 2026. évi LXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 75/B. § (3)–(5) bekezdésének, valamint 75/C. § (1) bekezdésének megfelelő hozzáférést a felületnek a Módtv2. szerinti feltételeknek megfelelő rendelkezésre állását követően haladéktalanul, de legkésőbb 2027. február 1-jétől biztosítja.”
+### 9. §
