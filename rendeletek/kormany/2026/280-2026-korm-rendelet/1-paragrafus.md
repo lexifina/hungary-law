@@ -18,14 +18,6 @@
 
 ## 1. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosítása
 
-1. § A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet [a továbbiakban: 314/2005. (XII. 25.) Korm. rendelet] 26. §-a a következő (4b)–(4d) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4b) A (4a) bekezdésében meghatározott árbevétellel rendelkező környezethasználó esetében a kiszabott bírság összegének el kell érnie a vállalkozás előző évi nettó árbevételének a 0,5%-át, de legalább az 5 millió forintot, ha
-
-a) a környezetvédelmi hatóság a környezethasználót – ugyanezen vagy más tevékenységére tekintettel – a bírság kiszabását megelőző 5 éven belül, végleges döntéssel környezetszennyezés miatt legalább két alkalommal az e rendeletben vagy más rendeletben meghatározott környezetvédelmi bírság megfizetésére kötelezte, vagy
-
-b) a környezethasználó – ugyanezzel vagy más tevékenységével – a bírság kiszabását megelőző 5 évben, végleges döntéssel megállapított módon környezetveszélyeztetést vagy környezetkárosítást okozó jogsértést követett el.
-
-(4c) A (4b) bekezdés a) vagy b) pontja alapján figyelembe vett korábbi döntés a (4b) bekezdés szerinti újabb bírságkiszabás során nem vehető figyelembe.
-
-(4d) A (4b) bekezdés szerinti bírság összege nem haladhatja meg a (4a) bekezdés szerinti felső határt.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
