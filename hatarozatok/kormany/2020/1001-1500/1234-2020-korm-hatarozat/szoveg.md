@@ -1,8 +1,8 @@
 A Kormány
 
-1. egyetért az Iparművészeti Múzeum (a továbbiakban: Múzeum) komplex múzeumszakmai fejlesztését megalapozó múzeumszakmai fejlesztés tervvel;
+1.[^1]
 
-2.[^1] felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a Múzeum nagyrekonstrukciója időtartama alatt a Múzeum átmeneti működéséhez a 2020. évben szükséges 2 299 144 123 forint többletforrás rendelkezésre állásáról, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára;
+2.[^2] felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a Múzeum nagyrekonstrukciója időtartama alatt a Múzeum átmeneti működéséhez a 2020. évben szükséges 2 299 144 123 forint többletforrás rendelkezésre állásáról, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára;
 
 Felelős: pénzügyminiszter
 
@@ -22,4 +22,5 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. évtől az adott évi központi költségvetés tervezése során
 
-[^1]: A 2. pont az 1574/2020. (IX. 9.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pontot az 1350/2026. (X. 27.) Korm. határozat 14. pont c) alpontja visszavonta.
+[^2]: A 2. pont az 1574/2020. (IX. 9.) Korm. határozat 6. pontja szerint módosított szöveg.
