@@ -10,7 +10,7 @@ b) az egészségügyi szolgáltató és az Állami Egészségügyi Tartalékkal 
 
 (2a)[^35] Az ÁEüT-ből biztosítható az időszakosan működő gyógyintézet – (1) bekezdés a) pontja szerinti – létrehozásához, illetve telepítéséhez szükséges egészségügyi anyag és eszköz.
 
-(3)[^36] Időszakosan működő gyógyintézet telepítésére a vármegyei kormányhivatal kezdeményezésére az országos tisztifőorvos egyetértésével az egészségügyért felelős miniszter ad engedélyt, és erről tájékoztatja a Kormányt, továbbá az OKFŐ részére elrendeli a készletek kiadásának haladéktalan megkezdését.
+(3)[^36] Időszakosan működő gyógyintézet telepítésére a megyei kormányhivatal kezdeményezésére az országos tisztifőorvos egyetértésével az egészségügyért felelős miniszter ad engedélyt, és erről tájékoztatja a Kormányt, továbbá az OKFŐ részére elrendeli a készletek kiadásának haladéktalan megkezdését.
 
 (4) Az alapellátást biztosító szolgáltató, illetve kezelőorvos közreműködik a település lakosságának kimenekítésében, illetve kitelepítésének előkészítésében, melynek során
 
@@ -22,4 +22,4 @@ b) gondoskodik a betegek további egészségügyi ellátásához szükséges dok
 
 [^34]: A 11. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^35]: A 11. § (2a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 73. § (2) bekezdése iktatta be.
-[^36]: A 11. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
+[^36]: A 11. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 308/2026. (X. 27.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
