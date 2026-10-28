@@ -84,14 +84,10 @@
 
 | Határidő: | 2026. október 31. |
 
-## 14. visszavonja
-
-## a) az Iparművészeti Múzeum nagyrekonstrukciójáról és múzeumszakmai fejlesztéséről szóló 1939/2015. (XII. 15.) Korm. határozatot,
-
-## b) az Iparművészeti Múzeum nagyrekonstrukciójáról és múzeumszakmai fejlesztéséről szóló 1513/2017. (VIII. 14.) Korm. határozatot,
-
-## c) az Iparművészeti Múzeum múzeumszakmai koncepciójának elfogadásáról, valamint a nagyrekonstrukció ideje alatt felmerülő, az átmeneti működéshez szükséges többletforrások biztosításáról szóló 1234/2020. (V. 15.) Korm. határozat 1. pontját.
+## 14.[^1]
 
 1. melléklet az 1350/2026. (X. 27.) Korm. határozathoz
 
 6X05500.pdf
+
+[^1]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
