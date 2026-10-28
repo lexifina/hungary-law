@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-386-20-
 | 2025-02-01 | 2016-386-20-22.25 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2025-11-13 | 2016-386-20-22.26 | 351/2025. (XI. 12.) Korm. rendelet |
 | 2026-01-01 | 2016-386-20-22.27 | 351/2025. (XI. 12.) Korm. rendelet |
+| 2026-10-28 | 2016-386-20-22.28 | 311/2026. (X. 27.) Korm. rendelet |
