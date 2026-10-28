@@ -1,111 +1,117 @@
 ## A) A Regionális Vesetranszplantációs Bizottságok működésének központjai
 
-## 1. Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+## 1.[^80] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
 
 ## Illetékességi terület:
 
 ## Budapest,
 
-## Fejér vármegye,
+## Fejér megye,
 
-## Győr-Moson-Sopron vármegye,
+## Győr-Moson-Sopron megye,
 
-## Heves vármegye,
+## Heves megye,
 
-## Komárom-Esztergom vármegye,
+## Komárom-Esztergom megye,
 
-## Nógrád vármegye,
+## Nógrád megye,
 
-## Pest vármegye,
+## Pest megye,
 
-## Vas vármegye,
+## Vas megye,
 
-## Veszprém vármegye.
+## Veszprém megye.
 
-## 2. Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinika (6725 Szeged, Semmelweis u. 8.)
-
-## Illetékességi terület:
-
-## Bács-Kiskun vármegye,
-
-## Békés vármegye,
-
-## Csongrád-Csanád vármegye,
-
-## Jász-Nagykun-Szolnok vármegye.
-
-## 3. Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^81] Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinika (6725 Szeged, Semmelweis u. 8.)
 
 ## Illetékességi terület:
 
-## Baranya vármegye,
+## Bács-Kiskun megye,
 
-## Somogy vármegye,
+## Békés megye,
 
-## Tolna vármegye,
+## Csongrád-Csanád megye,
 
-## Zala vármegye.
+## Jász-Nagykun-Szolnok megye.
 
-## 4. Debreceni Egyetem Klinikai Központ Sebészeti Intézet (4032 Debrecen, Móricz Zsigmond krt. 22.)
+## 3.[^82] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
-## Borsod-Abaúj-Zemplén vármegye,
+## Baranya megye,
 
-## Hajdú-Bihar vármegye,
+## Somogy megye,
 
-## Szabolcs-Szatmár-Bereg vármegye.
+## Tolna megye,
+
+## Zala megye.
+
+## 4.[^83] Debreceni Egyetem Klinikai Központ Sebészeti Intézet (4032 Debrecen, Móricz Zsigmond krt. 22.)
+
+## Illetékességi terület:
+
+## Borsod-Abaúj-Zemplén megye,
+
+## Hajdú-Bihar megye,
+
+## Szabolcs-Szatmár-Bereg megye.
 
 ## B) A Regionális Vese- és Hasnyálmirigy-transzplantációs Bizottságok működésének központjai
 
-## 1. Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+## 1.[^84] Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
 
 ## Illetékességi terület:
 
 ## Budapest,
 
-## Borsod-Abaúj-Zemplén vármegye,
+## Borsod-Abaúj-Zemplén megye,
 
-## Fejér vármegye,
+## Fejér megye,
 
-## Győr-Moson-Sopron vármegye,
+## Győr-Moson-Sopron megye,
 
-## Hajdú-Bihar vármegye,
+## Hajdú-Bihar megye,
 
-## Heves vármegye,
+## Heves megye,
 
-## Komárom-Esztergom vármegye,
+## Komárom-Esztergom megye,
 
-## Nógrád vármegye,
+## Nógrád megye,
 
-## Pest vármegye,
+## Pest megye,
 
-## Szabolcs-Szatmár-Bereg vármegye,
+## Szabolcs-Szatmár-Bereg megye,
 
-## Vas vármegye,
+## Vas megye,
 
-## Veszprém vármegye.
+## Veszprém megye.
 
-## 2. Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^85] Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
-## Baranya vármegye,
+## Baranya megye,
 
-## Bács-Kiskun vármegye,
+## Bács-Kiskun megye,
 
-## Békés vármegye,
+## Békés megye,
 
-## Csongrád-Csanád vármegye,
+## Csongrád-Csanád megye,
 
-## Jász-Nagykun-Szolnok vármegye,
+## Jász-Nagykun-Szolnok megye,
 
-## Somogy vármegye,
+## Somogy megye,
 
-## Tolna vármegye,
+## Tolna megye,
 
-## Zala vármegye.
+## Zala megye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^80]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^86]
 
-[^80]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^80]: A 3. számú melléklet A) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^81]: A 3. számú melléklet A) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^82]: A 3. számú melléklet A) pont 3. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^83]: A 3. számú melléklet A) pont 4. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^84]: A 3. számú melléklet B) pont 1. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^85]: A 3. számú melléklet B) pont 2. alpontja a 304/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^86]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
