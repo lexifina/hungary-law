@@ -1,13 +1,13 @@
 48. § (1) A gyermekvállalási támogatást a fel nem mondott kölcsönszerződésből eredő tőketartozás és kamatainak csökkentésére kell felhasználni.
 
-(2)[^129] A gyermekvállalási támogatást a kérelem és az igazolások hiánytalan benyújtását követő – az (5) bekezdésben foglalt kivétellel – 10. munkanapon kell előtörlesztésként elszámolni. A gyermekvállalási támogatás elszámolt összegének megállapításánál az elszámolás napján fennálló, nem lejárt tőke- és nem lejárt ügyleti kamattartozás összegét kell figyelembe venni.
+(2)[^131] A gyermekvállalási támogatást a kérelem és az igazolások hiánytalan benyújtását követő – az (5) bekezdésben foglalt kivétellel – 10. munkanapon kell előtörlesztésként elszámolni. A gyermekvállalási támogatás elszámolt összegének megállapításánál az elszámolás napján fennálló, nem lejárt tőke- és nem lejárt ügyleti kamattartozás összegét kell figyelembe venni.
 
 (3) Törlesztési hátralékkal rendelkező támogatott személyek esetén a gyermekvállalási támogatást a hátralék nélkül számolt tartozás után kell megállapítani. A meg nem fizetett hátralékot a Ptk. szabályai szerint, a fennmaradó összeget pedig a (2) bekezdés szerinti előtörlesztésként kell elszámolni.
 
-(4)[^130] Amennyiben a támogatás folyósításának időpontjában a tőketartozás és kamatai együttes összege már alacsonyabb a támogatási szerződés szerint igénybe vehető támogatás összegénél, a különbözetet a hitelintézet a támogatott személyek részére az általuk megjelölt bankszámlára, ennek hiányában postai úton fizeti ki.
+(4)[^132] Amennyiben a támogatás folyósításának időpontjában a tőketartozás és kamatai együttes összege már alacsonyabb a támogatási szerződés szerint igénybe vehető támogatás összegénél, a különbözetet a hitelintézet a támogatott személyek részére az általuk megjelölt bankszámlára, ennek hiányában postai úton fizeti ki.
 
-(5)[^131] A 46. § (4) bekezdése szerinti esetben, ha a (2) bekezdés szerinti időpontban a folyósított kölcsönösszeg tőketartozása és kamatai együttes összege még alacsonyabb, mint a támogatási szerződés szerint igénybe vehető támogatás összege, akkor a támogatás összegét a hitelintézet a támogatásnak megfelelő összeg eléréséhez még szükséges kölcsönrészlet folyósítását követő 4 munkanapon belül teljesíti előtörlesztésként a támogatott személyek javára.
+(5)[^133] A 46. § (4) bekezdése szerinti esetben, ha a (2) bekezdés szerinti időpontban a folyósított kölcsönösszeg tőketartozása és kamatai együttes összege még alacsonyabb, mint a támogatási szerződés szerint igénybe vehető támogatás összege, akkor a támogatás összegét a hitelintézet a támogatásnak megfelelő összeg eléréséhez még szükséges kölcsönrészlet folyósítását követő 4 munkanapon belül teljesíti előtörlesztésként a támogatott személyek javára.
 
-[^129]: A 48. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 38. pontja szerint módosított szöveg.
-[^130]: A 48. § (4) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 45. §-a iktatta be.
-[^131]: A 48. § (5) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 45. §-a iktatta be.
+[^131]: A 48. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 38. pontja szerint módosított szöveg.
+[^132]: A 48. § (4) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 45. §-a iktatta be.
+[^133]: A 48. § (5) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 45. §-a iktatta be.

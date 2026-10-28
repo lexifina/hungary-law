@@ -4,9 +4,9 @@
 
 (3) Az ügyleti kamat éves mértéke nem haladhatja meg
 
-a) az egyéves, vagy egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző 3 naptári hónapban tartott, 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 110 százalékának 1 százalékponttal növelt mértékét, vagy
+a)[^24] az egyéves, vagy egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző 3 naptári hónapban tartott, 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlagának 0,5 százalékponttal növelt mértékét, vagy
 
-b) ha az érintett futamidőre az a) pontban meghatározott módszer alapján átlaghozam nem számítható, akkor az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző 3 naptári hónapra vonatkozó számtani átlaga 110 százalékának 1 százalékponttal növelt mértékét.
+b)[^25] ha az érintett futamidőre az a) pontban meghatározott módszer alapján átlaghozam nem számítható, akkor az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző 3 naptári hónapra vonatkozó számtani átlagának 0,5 százalékponttal növelt mértékét.
 
 (4) A (3) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapjától kell alkalmazni.
 
@@ -14,13 +14,13 @@ b) ha az érintett futamidőre az a) pontban meghatározott módszer alapján á
 
 (6) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) 2. § (5) bekezdésére tekintettel a kölcsönre az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a és 25. §-a helyett a (7)–(11) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
 
-(7)[^24] A kölcsön előtörlesztése esetén az érvényesített költségek – ideértve a gyermekvállalási támogatás költségvetéssel való elszámolását is – mértéke nem haladhatja meg az előtörlesztett összeg 1%-át.
+(7)[^26] A kölcsön előtörlesztése esetén az érvényesített költségek – ideértve a gyermekvállalási támogatás költségvetéssel való elszámolását is – mértéke nem haladhatja meg az előtörlesztett összeg 1%-át.
 
 (8) Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (9) és (10) bekezdésben foglaltak szerint.
 
 (9) A kölcsön ügyleti kamata a kamattámogatás időszaka alatt
 
-a)[^25] első alkalommal a kölcsön – vagy részfolyósítás esetén annak első részlete – folyósításának napját követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
+a)[^27] első alkalommal a kölcsön – vagy részfolyósítás esetén annak első részlete – folyósításának napját követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
 
 b) második alkalommal az a) pont szerinti időpontot követő 1 év elteltével, a kölcsönszerződés szerinti fordulónapon,
 
@@ -42,5 +42,7 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-[^24]: A 12. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
-[^25]: A 12. § (9) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 5. pontja szerint módosított szöveg.
+[^24]: A 12. § (3) bekezdés a) pontja a 298/2026. (X. 27.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^25]: A 12. § (3) bekezdés b) pontja a 298/2026. (X. 27.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^26]: A 12. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
+[^27]: A 12. § (9) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 5. pontja szerint módosított szöveg.
