@@ -10,11 +10,11 @@
 
 5. adóazonosító jelét adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal vagy egyéb elektronikus igazolással,
 
-6.[^41] a 8. § (1) bekezdés c) pont ca) és cc) alpontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 8. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással,
+6.[^42] a 8. § (1) bekezdés c) pont ca) és cc) alpontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által a tanúsítani kívánt, 8. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással, vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással,
 
-6a.[^42] a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással,
+6a.[^43] a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolással vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított igazolással,
 
-7.[^43] a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel, a széljegyzett tulajdonjog- vagy vevői jog bejegyzési kérelem vagy a bejegyzett társasházi építményi jog bejegyzésére irányuló ingatlan-nyilvántartási kérelem és mellékletei másolatával, valamint a másolatoknak a benyújtott eredeti változatokkal való azonosságáról szóló igénylői nyilatkozattal,
+7.[^44] a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel, a széljegyzett tulajdonjog- vagy vevői jog bejegyzési kérelem vagy a bejegyzett társasházi építményi jog bejegyzésére irányuló ingatlan-nyilvántartási kérelem és mellékletei másolatával, valamint a másolatoknak a benyújtott eredeti változatokkal való azonosságáról szóló igénylői nyilatkozattal,
 
 8. az építési engedély meglétét a 4. § (7) bekezdése szerinti dokumentummal,
 
@@ -50,9 +50,9 @@ c) teljes bizonyító erejű magánokiratba vagy a kiállítási hely joga szeri
 
 d) az igénylő annak hiteles magyar nyelvű fordítását is benyújtja a kormányhivatal részére.
 
-(4)[^44] A hitelintézet otthon építése esetén a telekre nézve a tulajdonjog fennállását, otthon vásárlása esetén a tulajdonjog megszerzésére irányuló szándékot, illetve a 19. § (1) bekezdés b) pont ba) alpontja esetén az igénylők bejegyzett társasházi építményi jogának fennállását tulajdoni lap másolat lekérésével ellenőrzi.
+(4)[^45] A hitelintézet otthon építése esetén a telekre nézve a tulajdonjog fennállását, otthon vásárlása esetén a tulajdonjog megszerzésére irányuló szándékot, illetve a 19. § (1) bekezdés b) pont ba) alpontja esetén az igénylők bejegyzett társasházi építményi jogának fennállását tulajdoni lap másolat lekérésével ellenőrzi.
 
-[^41]: A 16. § (1) bekezdés 6. pontja a 332/2025. (X. 30.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
-[^42]: A 16. § (1) bekezdés 6a. pontját a 40/2026. (III. 5.) Korm. rendelet 15. §-a iktatta be.
-[^43]: A 16. § (1) bekezdés 7. pontja a 40/2026. (III. 5.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
-[^44]: A 16. § (4) bekezdése a 40/2026. (III. 5.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^42]: A 16. § (1) bekezdés 6. pontja a 332/2025. (X. 30.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^43]: A 16. § (1) bekezdés 6a. pontját a 40/2026. (III. 5.) Korm. rendelet 15. §-a iktatta be.
+[^44]: A 16. § (1) bekezdés 7. pontja a 40/2026. (III. 5.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^45]: A 16. § (4) bekezdése a 40/2026. (III. 5.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.

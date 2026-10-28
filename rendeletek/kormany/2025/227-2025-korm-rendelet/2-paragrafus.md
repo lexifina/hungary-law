@@ -8,6 +8,6 @@ b) építése esetén a kérelem benyújtásakor a hitelintézet által elfogado
 
 igényelhető és használható fel.
 
-(3)[^3] A kölcsönre ugyanazon igénylő csak egy alkalommal jogosult, ideértve azt az esetet is, ha az igénylő már visszafizette az e rendelet szerint igénybe vett kölcsönt és az igénybe vett kamattámogatást. E § tekintetében igénylő az a személy is, aki korábban már az e rendelet szerint létrejött hitelügyletbe adóstársként került bevonásra.
+(3)[^4] A kölcsönre ugyanazon igénylő csak egy alkalommal jogosult, ideértve azt az esetet is, ha az igénylő már visszafizette az e rendelet szerint igénybe vett kölcsönt és az igénybe vett kamattámogatást. E § tekintetében igénylő az a személy is, aki korábban már az e rendelet szerint létrejött hitelügyletbe adóstársként került bevonásra.
 
-[^3]: A 2. § (3) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 13. §-ával megállapított szöveg.

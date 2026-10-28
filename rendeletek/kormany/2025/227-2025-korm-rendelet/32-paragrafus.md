@@ -1,4 +1,4 @@
-32. §[^58] A hitelintézetek 24. §-ban foglaltak szerint benyújtott havi elszámolásai alapján a kamattámogatás kifizetése
+32. §[^59] A hitelintézetek 24. §-ban foglaltak szerint benyújtott havi elszámolásai alapján a kamattámogatás kifizetése
 
 a) a 2025. szeptember 1. és 2025. november 30. közötti időszakban folyósított kölcsönök után első alkalommal 2026 márciusában, de legkésőbb 2026. március hónapjának utolsó munkanapjáig,
 
@@ -8,4 +8,4 @@ c) a 2026. április 1. és 2026. május 31. közötti időszakban folyósított 
 
 történik.
 
-[^58]: A 32. § a 282/2025. (VIII. 25.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^59]: A 32. § a 282/2025. (VIII. 25.) Korm. rendelet 19. §-ával megállapított szöveg.

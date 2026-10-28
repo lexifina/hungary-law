@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-227-20-
 | 2025-11-15 | 2025-227-20-22.3 | 332/2025. (X. 30.) Korm. rendelet |
 | 2026-01-01 | 2025-227-20-22.4 | 392/2025. (XII. 10.) Korm. rendelet |
 | 2026-03-06 | 2025-227-20-22.5 | 40/2026. (III. 5.) Korm. rendelet |
+| 2026-10-28 | 2025-227-20-22.6 | 298/2026. (X. 27.) Korm. rendelet |

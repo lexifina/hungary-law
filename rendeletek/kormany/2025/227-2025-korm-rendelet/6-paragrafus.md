@@ -18,7 +18,7 @@ lehet.
 
 (6) Otthon vásárlásánál annak vételára legfeljebb 20 százalékkal térhet el a hitelintézet által megállapított forgalmi értéktől.
 
-(6a)[^23] A (6) bekezdésben foglalt rendelkezést nem kell alkalmazni abban az esetben, ha a kölcsön hitelcéljaként szolgáló otthon tulajdonjogát az igénylő önkormányzati bérlakás bérlőjeként szerzi meg, és az adásvételi szerződés szerinti vételárat az önkormányzat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvényben, illetve a saját rendeletében meghatározott engedménnyel állapította meg.
+(6a)[^24] A (6) bekezdésben foglalt rendelkezést nem kell alkalmazni abban az esetben, ha a kölcsön hitelcéljaként szolgáló otthon tulajdonjogát az igénylő önkormányzati bérlakás bérlőjeként szerzi meg, és az adásvételi szerződés szerinti vételárat az önkormányzat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvényben, illetve a saját rendeletében meghatározott engedménnyel állapította meg.
 
 (7) Az igénylő az otthon megvásárlásához a hitelprogramot legalább 10 százalékos önerővel veheti igénybe, kivéve megfelelő pótfedezet bevonása esetén, a jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabályozásáról szóló 32/2014. (IX. 10.) MNB rendeletben foglaltaknak megfelelően.
 
@@ -32,4 +32,4 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-[^23]: A 6. § (6a) bekezdését a 349/2025. (XI. 12.) Korm. rendelet 5. §-a iktatta be.
+[^24]: A 6. § (6a) bekezdését a 349/2025. (XI. 12.) Korm. rendelet 5. §-a iktatta be.
