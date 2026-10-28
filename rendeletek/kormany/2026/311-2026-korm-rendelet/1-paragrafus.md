@@ -1,0 +1,11 @@
+## [1] Az Alaptörvény tizenhetedik módosításával és a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvény elfogadásával az Országgyűlés a vármegyék megyékre történő átnevezéséről döntött, amit szükséges átvezetni az egészségügyi miniszter feladatkörébe tartozó kormányrendeletekben is.
+
+## [2] A Kormány az Alaptörvény 15. cikk (2) és (3) bekezdésében meghatározott eredeti jogalkotói hatáskörben eljárva, továbbá a kötelező egészségbiztosítás ellátásról szóló 1997. évi LXXXIII. törvény 83. § (5) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet
+
+a) 1. § b) pontjában és 4. § (2) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg,
+
+b) 4. § (3) bekezdésében a „vármegye” szövegrész helyébe a „megye” szöveg
+
+lép.
