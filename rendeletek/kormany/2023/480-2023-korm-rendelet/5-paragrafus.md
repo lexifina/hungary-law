@@ -1,3 +1,3 @@
-5. §[^1]
+5. §[^3] E rendeletnek a diaszpóra-magyarsággal történő kapcsolattartás támogatásáról szóló 480/2023. (X. 31.) Korm. rendelet módosításáról szóló 320/2026. (X. 27.) Korm. rendelet 2. § a) pontjával módosított 1. § (1) bekezdése alapján a nemzetpolitikáért felelős miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a társadalompolitika összehangolásáért felelős miniszter által vezetett minisztérium jogutódja a nemzetpolitikáért felelős miniszter által vezetett minisztérium.
 
-[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 320/2026. (X. 27.) Korm. rendelet 1. §-a iktatta be.
