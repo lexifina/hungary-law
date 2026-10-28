@@ -34,7 +34,7 @@ b) a betegazonosító típusa,
 
 c) a betegazonosító értéke,
 
-d) az ellátó szolgáltató vármegye kódja,
+d)[^80] az ellátó szolgáltató megye kódja,
 
 e) az ellátó szolgáltató megnevezése,
 
@@ -47,3 +47,4 @@ h) az ellátás dátuma,
 i) a betegforgalmi napló sorszáma.
 
 [^79]: Az 5/D. §-t a 288/2025. (VIII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^80]: Az 5/D. § (3) bekezdés d) pontja a 302/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
