@@ -6,7 +6,7 @@ b) a járóbeteg-szakellátás orvosa,
 
 c) az ideggondozó, bőr- és nemibeteg-gondozó, tüdőgondozó, valamint az onkológiai gondozó szakorvosa,
 
-d)[^6] az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal),
+d)[^6] az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal),
 
 e)[^7] a kormányhivatallal felülvéleményező tevékenységre szerződött főorvos (a továbbiakban: felülvéleményező főorvos).
 
@@ -23,7 +23,7 @@ e)[^7] a kormányhivatallal felülvéleményező tevékenységre szerződött f�
 (7)[^11] Az egynapos sebészeti, a kúraszerű ellátás, a járóbeteg-szakellátás keretében végzett nappali ellátás és a járóbetegként igénybe vett komplex fürdőgyógyászati ellátás idejére a háziorvos igazolja a keresőképtelenséget.
 
 [^5]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 300/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 6. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^8]: A 2. § (2) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 2. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
