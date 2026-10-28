@@ -2,11 +2,11 @@
 
 a) a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője a területileg illetékes városi kórház vezetője,
 
-b)[^9] a városi fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az irányító vármegyei intézmény vezetője,
+b)[^9] a városi fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az irányító megyei intézmény vezetője,
 
-c)[^10] vármegyei és országos fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az Országos Kórházi Főigazgatóságnak (a továbbiakban: OKFŐ) az országos kórház-főigazgató által kijelölt magasabb vezetője,
+c)[^10] megyei és országos fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az Országos Kórházi Főigazgatóságnak (a továbbiakban: OKFŐ) az országos kórház-főigazgató által kijelölt magasabb vezetője,
 
-d)[^11] vármegyei feladatokat is ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a klinikai központ elnöke az OKFŐ-nek az országos kórház-főigazgató által kijelölt magasabb vezetője, nem vármegyei feladatokat ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a foglalkoztatott a klinikai központ elnöke,
+d)[^11] megyei feladatokat is ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a klinikai központ elnöke az OKFŐ-nek az országos kórház-főigazgató által kijelölt magasabb vezetője, nem megyei feladatokat ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a foglalkoztatott a klinikai központ elnöke,
 
 e) az egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője az egyházi tulajdonos vagy fenntartó,
 
@@ -58,9 +58,9 @@ c)[^15] a központi ügyelet (szakma kód: 4601)
 
 során nyújtott tevékenység végzésére adhatja meg.
 
-[^9]: A 7. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
-[^10]: A 7. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja, a 663/2023. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^11]: A 7. § (1) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja, a 663/2023. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdés b) pontja a 313/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdés c) pontja a 663/2023. (XII. 29.) Korm. rendelet 13. § a) pontja, a 313/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^11]: A 7. § (1) bekezdés d) pontja a 663/2023. (XII. 29.) Korm. rendelet 13. § b) pontja, a 313/2026. (X. 27.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^12]: A 7. § (1) bekezdés g) pontját a 70/2021. (II. 19.) Korm. rendelet 19. §-a iktatta be.
 [^13]: A 7. § (8) bekezdését a 106/2023. (III. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 663/2023. (XII. 29.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
 [^14]: A 7. § (9) bekezdését a 106/2023. (III. 30.) Korm. rendelet 3. §-a iktatta be.
