@@ -6,7 +6,7 @@
 
 a) a szakképzési és szakmai jellemzők alapján kiemelt szakorvosi szakmák országos keretszáma,
 
-b)[^70] az a) pontba nem tartozó szakorvosi szakképesítések keretszámai fővárosi és vármegyénkénti bontásban,
+b)[^70] az a) pontba nem tartozó szakorvosi szakképesítések keretszámai fővárosi és megyénkénti bontásban,
 
 c) a kórházi-klinikai szakgyógyszerészi szakképzés országos keretszáma,
 
@@ -22,7 +22,7 @@ g)[^73] nem egyetemi utánpótlást szolgáló szakfogorvosi szakképzés orszá
 
 a) a humánerőforrás-monitoringrendszer adatainak,
 
-b)[^74] a vármegyei és a fővárosi lakosságszámnak, valamint az arra jutó orvosok számának,
+b)[^74] a megyei és a fővárosi lakosságszámnak, valamint az arra jutó orvosok számának,
 
 c) az egészségügyi ellátórendszer struktúrájának,
 
@@ -34,7 +34,7 @@ f) egyes állami kötelezettségvállalásból fakadó feladatok teljesítésén
 
 a figyelembevételével kerül sor.
 
-(4)[^75] A szakorvosi képzés tekintetében az (1) bekezdés szerinti közzététellel egyidejűleg, az ott meghatározott időtartamra vonatkozóan a miniszter a (2) bekezdés b) pontja szerinti keretszámok vonatkozásában meghatározza és az OKFŐ a honlapján közzéteszi fővárosi, vármegyénkénti, illetve intézményi bontásban a hiányszakmák körét. A miniszter a (2) bekezdés a) pontja, valamint d) és e) pontja szerinti keretszámok tekintetében is meghatározza, hogy az ott megjelölt szakmák mely vármegyében minősülnek hiányszakmának.
+(4)[^75] A szakorvosi képzés tekintetében az (1) bekezdés szerinti közzététellel egyidejűleg, az ott meghatározott időtartamra vonatkozóan a miniszter a (2) bekezdés b) pontja szerinti keretszámok vonatkozásában meghatározza és az OKFŐ a honlapján közzéteszi fővárosi, megyénkénti, illetve intézményi bontásban a hiányszakmák körét. A miniszter a (2) bekezdés a) pontja, valamint d) és e) pontja szerinti keretszámok tekintetében is meghatározza, hogy az ott megjelölt szakmák mely megyében minősülnek hiányszakmának.
 
 (5)[^76] Az adott évben meghirdetett és be nem töltött keretszámok miniszteri döntés alapján átcsoportosíthatók.
 
@@ -43,12 +43,12 @@ a figyelembevételével kerül sor.
 (7)[^78] A (6) bekezdés szerint megállapított megemelt keretszámot az OKFŐ a honlapján közzéteszi.
 
 [^69]: A 17. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^70]: A 17. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 214. § a) pontja szerint módosított szöveg.
+[^70]: A 17. § (2) bekezdés b) pontja a 309/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^71]: A 17. § (2) bekezdés e) pontja a 464/2016. (XII. 23.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.
 [^72]: A 17. § (2) bekezdés f) pontja a 463/2024. (XII. 30.) Korm. rendelet 70. § e) pontja szerint módosított szöveg.
 [^73]: A 17. § (2) bekezdés g) pontját a 464/2016. (XII. 23.) Korm. rendelet 40. § (1) bekezdése iktatta be.
-[^74]: A 17. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 214. § b) pontja szerint módosított szöveg.
-[^75]: A 17. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 214. § a) és c) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § f) pontja szerint módosított szöveg.
+[^74]: A 17. § (3) bekezdés b) pontja a 309/2026. (X. 27.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^75]: A 17. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 70. § f) pontja, a 309/2026. (X. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^76]: A 17. § (5) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 40. § (2) bekezdése iktatta be.
 [^77]: A 17. § (6) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
 [^78]: A 17. § (7) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
