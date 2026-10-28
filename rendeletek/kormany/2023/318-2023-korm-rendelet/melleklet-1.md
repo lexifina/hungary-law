@@ -1,6 +1,6 @@
-1. melléklet a 318/2023. (VII. 17.) Korm. rendelethez[^10]
+1. melléklet a 318/2023. (VII. 17.) Korm. rendelethez[^12]
 
-A Budapest és Pest Vármegye területén elsőfokon eljáró etikai szervek megnevezése és területi illetékessége
+A Budapest és Pest Megye területén elsőfokon eljáró etikai szervek megnevezése és területi illetékessége[^13]
 
 |  | A | B |
 
@@ -14,4 +14,5 @@ A Budapest és Pest Vármegye területén elsőfokon eljáró etikai szervek meg
 
 | 5. | ETT Észak-pesti Etikai Bizottság elnöke által létrehozott Etikai Tanács | Budapest IV., V., VI., XIII., XIV., XV., XVI. kerület, Aszódi járás, Dunakeszi járás, Gödöllői járás, Szobi járás, Váci járás |
 
-[^10]: Az 1. mellékletet a 261/2024. (VIII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^12]: Az 1. mellékletet a 261/2024. (VIII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^13]: Az 1. melléklet címe a 315/2026. (X. 27.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
