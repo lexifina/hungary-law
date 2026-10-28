@@ -6,7 +6,7 @@
 
 ## 1.2. amely eredeténél fogva tiszta, antropogén szennyeződéstől mentes,
 
-## 1.3.[^22] amely az adott felhasználási formában és az esetlegesen alkalmazott vízkezelés után mikrobiológiai, fiziko-kémiai és radioaktív tulajdonságait tekintve az emberi egészségre káros anyagot nem tartalmaz elfogadhatatlan mértékű kockázatot jelentő mennyiségben,
+## 1.3.[^25] amely az adott felhasználási formában és az esetlegesen alkalmazott vízkezelés után mikrobiológiai, fiziko-kémiai és radioaktív tulajdonságait tekintve az emberi egészségre káros anyagot nem tartalmaz elfogadhatatlan mértékű kockázatot jelentő mennyiségben,
 
 ## 1.4. amelynél az NNGYK szakhatósági állásfoglalása igazolja, hogy az összetétele, oldott szilárd ásványianyag-tartalma a víznyerő helyen – a természetes ingadozás határain belül maximum 20% változásig – közel állandó, és
 
@@ -88,11 +88,11 @@
 
 ## 2.1.2. amelynek a természetes ásványi anyagok és kőzetek vízzel történő kilúgozása során keletkező, oldott ásványianyag-tartalma, kémiai jellege természetes ingadozáson belül, maximum 20% eltérés mellett, állandó
 
-## 2.1.3.[^23] amely egészségkárosító anyagot önmagában és az esetlegesen alkalmazott vízkezelés után sem tartalmaz az adott felhasználási formában elfogadhatatlan mértékű kockázatot jelentő mennyiségben, és
+## 2.1.3.[^26] amely egészségkárosító anyagot önmagában és az esetlegesen alkalmazott vízkezelés után sem tartalmaz az adott felhasználási formában elfogadhatatlan mértékű kockázatot jelentő mennyiségben, és
 
-## 2.1.4.[^24] amelynek ilyen felhasználásban bizonyított gyógyhatása van,
+## 2.1.4.[^27] amelynek ilyen felhasználásban bizonyított gyógyhatása van,
 
-## 2.1.5.[^25] továbbá a kizárólag a 19. § (1) bekezdése szerinti azonosság alapján minősített gyógyvizek keverésével előállított kevert víz is, amennyiben a 2.1.1–2.1.4. pontban foglalt feltételek a gyógyvizek keverésével előállított kevert víz tekintetében teljesülnek.
+## 2.1.5.[^28] továbbá a kizárólag a 19. § (1) bekezdése szerinti azonosság alapján minősített gyógyvizek keverésével előállított kevert víz is, amennyiben a 2.1.1–2.1.4. pontban foglalt feltételek a gyógyvizek keverésével előállított kevert víz tekintetében teljesülnek.
 
 ## 2.2. belsőleg történő, azaz ivási, palackozási, inhalálási célú felhasználásban gyógyvíz az a víz,
 
@@ -102,11 +102,11 @@
 
 ## 2.2.3. amelynek ilyen felhasználásban bizonyított gyógyhatása van, és
 
-## 2.2.4.[^26] amely egészségkárosító anyagot önmagában és az esetlegesen alkalmazott vízkezelés után sem tartalmaz az adott felhasználási formában elfogadhatatlan mértékű kockázatot jelentő mennyiségben.
+## 2.2.4.[^29] amely egészségkárosító anyagot önmagában és az esetlegesen alkalmazott vízkezelés után sem tartalmaz az adott felhasználási formában elfogadhatatlan mértékű kockázatot jelentő mennyiségben.
 
-## 3.[^27] A gyógyvíz fürdővízkénti felhasználásánál a vízkezelési technológia megválasztásánál olyan eljárást kell alkalmazni, amely a víz biológiailag aktív alkotórészeit a legkevésbé károsítja. A gyógyvíz – a 2. melléklet 2. pont 2.1. alpont 2.1.5. pontjában rögzítettek kivételével – nem keverhető másik kút, forrás vizével vagy egyéb vízzel a fürdési hőmérséklet beállítása vagy egyéb célból.
+## 3.[^30] A gyógyvíz fürdővízkénti felhasználásánál a vízkezelési technológia megválasztásánál olyan eljárást kell alkalmazni, amely a víz biológiailag aktív alkotórészeit a legkevésbé károsítja. A gyógyvíz – a 2. melléklet 2. pont 2.1. alpont 2.1.5. pontjában rögzítettek kivételével – nem keverhető másik kút, forrás vizével vagy egyéb vízzel a fürdési hőmérséklet beállítása vagy egyéb célból.
 
-## 3.1.[^28] A 2.1.5. alpont szerinti gyógyvíz előállítása a jóváhagyott közegészségügyi-technológiai szabályzatban rögzített arányban és módon lehetséges.
+## 3.1.[^31] A 2.1.5. alpont szerinti gyógyvíz előállítása a jóváhagyott közegészségügyi-technológiai szabályzatban rögzített arányban és módon lehetséges.
 
 ## 4. Az elnevezési engedélye szerint belsőleg történő felhasználásra szolgáló gyógyvizet az alábbi eltérésekkel lehet az elismert ásványvizekre vonatkozó előírások szerint felhasználni, palackozni:
 
@@ -116,7 +116,7 @@
 
 ## 3. Gyógyhatású víz
 
-## 1.[^29] A gyógyhatású víz elismert természetes ásványvízből, gyógyvízből vagy természetes ásványvizekből, gyógyvizekből hőmérséklet-beállítás céljából legfeljebb 30% egyéb közműves hálózati vagy kútvízzel való keverés vagy az MSZ 15234 szerinti vagy egyéb engedélyezett vízkezelés során előállított víz, amely a felhasználás helyén is megfelel a külsőleg történő felhasználású ásványvíz minőségi követelményeinek, és bizonyított gyógyhatása van.
+## 1.[^32] A gyógyhatású víz elismert természetes ásványvízből, gyógyvízből vagy természetes ásványvizekből, gyógyvizekből hőmérséklet-beállítás céljából legfeljebb 30% egyéb közműves hálózati vagy kútvízzel való keverés vagy az MSZ 15234 szerinti vagy egyéb engedélyezett vízkezelés során előállított víz, amely a felhasználás helyén is megfelel a külsőleg történő felhasználású ásványvíz minőségi követelményeinek, és bizonyított gyógyhatása van.
 
 ## 2. A Hatóság egyedileg engedélyezhet az 1. ponttól eltérő vízkezelést, ha az előállított víz a jogszabály egyéb előírásainak megfelel.
 
@@ -130,7 +130,7 @@
 
 ## 1. A víznyerőhely azonosító adatai
 
-## 1.1. Vármegye
+## 1.1.[^33] Megye
 
 ## 1.2. Település
 
@@ -340,11 +340,12 @@ A gyógyiszapnak iszap-kompressz vagy más hasonló – közvetlenül a fogyaszt
 
 4.8. A kitermelés felelős vezetőjének szakképesítése
 
-[^22]: A 2. melléklet 1. pont 1. alpont 1.3. pontja a 160/2025. (VI. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
-[^23]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.3. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított, e módosító rendelet 9. § g) pontja szerint módosított szöveg.
-[^24]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.4. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^25]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.5. alpontját a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^26]: A 2. melléklet 2. pont 2. alpont 2.2. pont 2.2.4. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^27]: A 2. melléklet 2. pont 3. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^28]: A 2. melléklet 2. pont 3. alpont 3.1. pontját 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^29]: A 2. melléklet 3. pont 1. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet 1. pont 1. alpont 1.3. pontja a 160/2025. (VI. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.3. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított, e módosító rendelet 9. § g) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.4. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^28]: A 2. melléklet 2. pont 2. alpont 2.1. pont 2.1.5. alpontját a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^29]: A 2. melléklet 2. pont 2. alpont 2.2. pont 2.2.4. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^30]: A 2. melléklet 2. pont 3. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^31]: A 2. melléklet 2. pont 3. alpont 3.1. pontját 160/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^32]: A 2. melléklet 3. pont 1. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet 4. cím 1. pont 1.1. alpontja a 316/2026. (X. 27.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.

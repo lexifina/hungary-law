@@ -1,6 +1,6 @@
 4. § (1) A gyógyhellyé nyilvánítási eljárás kezdeményezéséről a települési önkormányzat képviselő-testülete dönt.
 
-(2) A kérelmező a kérelem benyújtását megelőzően a gyógyhely és védőterület határai kijelölésére, valamint a levegőterheltségi szint mérési pontok megfelelőségére vonatkozóan tájékoztatást kér a népegészségügyi feladatkörében eljáró, a gyógyhely fekvése szerint illetékes vármegyei kormányhivataltól (a továbbiakban: vármegyei kormányhivatal). A Fejér Vármegyei Kormányhivatal e rendelet szerinti feladatait Budapest fővárosra és Pest vármegyére kiterjedő illetékességgel látja el.
+(2)[^1] A kérelmező a kérelem benyújtását megelőzően a gyógyhely és védőterület határai kijelölésére, valamint a levegőterheltségi szint mérési pontok megfelelőségére vonatkozóan tájékoztatást kér a népegészségügyi feladatkörében eljáró, a gyógyhely fekvése szerint illetékes megyei kormányhivataltól (a továbbiakban: megyei kormányhivatal). A Fejér Megyei Kormányhivatal e rendelet szerinti feladatait Budapest fővárosra és Pest megyére kiterjedő illetékességgel látja el.
 
 (3) A gyógyhellyé nyilvánítás iránti kérelemnek tartalmaznia kell
 
@@ -29,3 +29,5 @@ f) a 4. § (1) bekezdése szerinti döntésről készült határozat másolatát
 g) a gyógyhely és a védőterület allergén pollenterhelésének csökkentését célzó, a 8. melléklet szerint elkészített intézkedési tervet,
 
 h) a (2) bekezdés szerinti tájékoztatásról szóló emlékeztetőt.
+
+[^1]: A 4. § (2) bekezdése a 316/2026. (X. 27.) Korm. rendelet 1. § a) és b) pontja szerint módosított szöveg.

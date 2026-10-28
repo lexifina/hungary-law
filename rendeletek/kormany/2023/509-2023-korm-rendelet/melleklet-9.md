@@ -30,7 +30,7 @@
 
 8. A szűrő-forgató technológia üzemeltetése alól felmentendő medencét tápláló kutat vagy forrást érintő, valamennyi felhasználóhelyet tartalmazó vízmérleg medencénként és összesítve, a medencék napi, havi, éves üzemideje (óra), valamint az üzemeltetéshez szükséges vízigény (m3/év és m3/nap). Ide kell érteni valamennyi felhasználási helyet, ahol a hőtartás céljából gyógyvíz- vagy gyógyhatásúvíz-hozzátáplálás történik, ahol gyógyászati célú kezelést gyógyvízzel vagy gyógyhatású vízzel végeznek, illetve lábmosókat ahol gyógyvizet vagy gyógyhatású vizet használnak. A vízmérlegszámításnak minden olyan helyre ki kell terjedni, ahol gyógyvízfelhasználás vagy gyógyhatású víz felhasználás történik.
 
-9.[^32] A közhasználatú fürdő közegészségügyi-technológiai szabályzatának tervezete
+9.[^36] A közhasználatú fürdő közegészségügyi-technológiai szabályzatának tervezete
 
 10. Igazolás az igazgatás szolgáltatási díj megfizetéséről
 
@@ -44,11 +44,11 @@
 
 4. A szűrő-forgatás alól felmentett medencét tápláló kutat vagy forrást érintő, valamennyi felhasználóhelyet tartalmazó vízmérleg medencénként és összesítve, valamint az üzemeltetéshez szükséges vízigény (m3/év és m3/nap). Ide kell érteni valamennyi felhasználási helyet, ahol a hőtartás céljából gyógyvíz- vagy gyógyhatásúvíz-hozzátáplálás történik, ahol gyógyászati célú kezelést gyógyvízzel vagy gyógyhatású vízzel végeznek, illetve lábmosókat, ahol gyógyvizet vagy gyógyhatású vizet használnak. A vízmérlegszámításnak minden olyan helyre ki kell terjedni, ahol gyógyvízfelhasználás vagy gyógyhatású víz felhasználás történik.
 
-5.[^33] Közhasználatú fürdő közegészségügyi-technológiai szabályzatának tervezete
+5.[^37] Közhasználatú fürdő közegészségügyi-technológiai szabályzatának tervezete
 
 6. Igazolás az igazgatás szolgáltatási díj megfizetéséről
 
 7. Ha a szűrő-forgató rendszer üzemeltetése alóli felmentés kiadása óta az azt befolyásoló tényezőkben változás történt, a 9. melléklet 1. pontja szerinti dokumentumok benyújtása szükséges.
 
-[^32]: A 9. melléklet 1. pont 9. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
-[^33]: A 9. melléklet 2. pont 5. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
+[^36]: A 9. melléklet 1. pont 9. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
+[^37]: A 9. melléklet 2. pont 5. alpontja a 160/2025. (VI. 23.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
