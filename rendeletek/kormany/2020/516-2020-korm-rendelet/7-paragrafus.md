@@ -22,13 +22,13 @@ h) 1/I. § (3), (6) és (7) bekezdése
 
 szerinti feladatok ellátására.
 
-(4)[^22] A Kormány a térségi betegút-szervezésért felelős szervként – országos illetékességgel – az OKFŐ-t jelöli ki.
+(4)[^25] A Kormány a térségi betegút-szervezésért felelős szervként – országos illetékességgel – az OKFŐ-t jelöli ki.
 
-(5)[^23]
+(5)[^26]
 
-(6)[^24]
+(6)[^27]
 
-(6a)[^25]
+(6a)[^28]
 
 (7) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az önálló orvosi tevékenységről szóló 2000. évi II. törvény 1. § (2) bekezdés c) pontja, 2. § (5) bekezdése, 2/A. § (2) bekezdése, 2/B. § (8) bekezdése, 3. § (5a) bekezdése szerinti feladatok ellátására.
 
@@ -60,10 +60,10 @@ szerinti feladatok ellátására.
 
 (11) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
 
-(12)[^26]
+(12)[^29]
 
-[^22]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 58. §-a iktatta be.
-[^23]: A 7. § (5) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
-[^24]: A 7. § (6) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
-[^25]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
-[^26]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^25]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 58. §-a iktatta be.
+[^26]: A 7. § (5) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^27]: A 7. § (6) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^28]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^29]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
