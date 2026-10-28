@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-79-20-2
 | 2023-01-01 | 2010-79-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-08-01 | 2010-79-20-22.10 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2026-10-01 | 2010-79-20-22.11 | 175/2026. (IX. 21.) Korm. rendelet |
+| 2026-10-28 | 2010-79-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
