@@ -2,7 +2,7 @@
 
 (2)[^388]
 
-(3)[^389] Az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján a területi védőnői szolgálat finanszírozására a NEAK a finanszírozási szerződést a területi védőnői szolgálatot működtető irányító vármegyei intézménnyel köti meg.
+(3)[^389] Az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján a területi védőnői szolgálat finanszírozására a NEAK a finanszírozási szerződést a területi védőnői szolgálatot működtető irányító megyei intézménnyel köti meg.
 
 (4)[^390]
 
@@ -10,6 +10,6 @@
 
 [^387]: A Vhr. 16. § (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 13. §-ával megállapított, valamint a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja, a 13/2020. (II. 7.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
 [^388]: A Vhr. 16. §-ának (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
-[^389]: A Vhr. 16. § (3) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 27. § (6)–(7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^389]: A Vhr. 16. § (3) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 27. § (6)–(7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § d) pontja, a 301/2026. (X. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^390]: A Vhr. 16. § (4) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
 [^391]: A Vhr. 16. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
