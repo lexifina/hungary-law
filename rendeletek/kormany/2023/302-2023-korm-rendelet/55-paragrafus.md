@@ -1,8 +1,8 @@
 55. § (1) A szerződésszerű teljesítés esetén – az 53. § (3) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egyéves időszakra vonatkozóan állandó. A kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – az 53. § (3) bekezdése szerinti időszakban – nem haladja meg:
 
-a)[^188] az egyéves vagy egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző 3 naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 115 százalékának 1 százalékponttal növelt mértékét, vagy
+a)[^188] az egyéves vagy egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző 3 naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlagának 1,5 százalékponttal növelt mértékét, vagy
 
-b) ha az érintett futamidőre az a) pontban meghatározott módszer alapján átlaghozam nem számítható, akkor az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző 3 naptári hónapra vonatkozó számtani átlaga 115 százalékának 1 százalékponttal növelt mértékét.
+b)[^189] ha az érintett futamidőre az a) pontban meghatározott módszer alapján átlaghozam nem számítható, akkor az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző 3 naptári hónapra vonatkozó számtani átlagának 1,5 százalékponttal növelt mértékét.
 
 (2) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
 
@@ -34,4 +34,5 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-[^188]: Az 55. § (1) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 65. pontja szerint módosított szöveg.
+[^188]: Az 55. § (1) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 65. pontja, a 298/2026. (X. 27.) Korm. rendelet 59. §-a szerint módosított szöveg.
+[^189]: Az 55. § (1) bekezdés b) pontja a 298/2026. (X. 27.) Korm. rendelet 59. §-a szerint módosított szöveg.
