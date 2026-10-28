@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-340-20-
 | 2023-01-01 | 2013-340-20-22.16 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-12-29 | 2013-340-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2025-07-01 | 2013-340-20-22.18 | 155/2025. (VI. 23.) Korm. rendelet |
+| 2026-10-28 | 2013-340-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
