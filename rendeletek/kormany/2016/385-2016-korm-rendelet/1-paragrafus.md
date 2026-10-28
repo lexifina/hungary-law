@@ -1,6 +1,6 @@
 ## 1. A kormányhivatal és a járási hivatal szakmai irányításának szabályai
 
-1. § (1)[^1] A népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) népegészségügyi feladatköreivel összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket az egészségügyért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter hatáskörei gyakorlásához szükséges döntések szakmai előkészítésében az országos tisztifőorvos közreműködik.
+1. § (1)[^1] A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) népegészségügyi feladatköreivel összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket az egészségügyért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter hatáskörei gyakorlásához szükséges döntések szakmai előkészítésében az országos tisztifőorvos közreműködik.
 
 (2)[^2] A kormányhivatal munkavédelmi és foglalkoztatás-felügyeleti feladatköreinek gyakorlásával összefüggésben ellátott munkaegészségügyi feladatai tekintetében – a munkavédelmi hatósági hatáskörben gyakorolt munkaegészségügyi feladat- és hatáskörök kivételével – a Ksztv. g) és h) pontja szerinti hatáskörök gyakorlására a miniszter jogosult. A miniszter hatáskörei gyakorlásához szükséges döntések szakmai előkészítésében az országos tisztifőorvos közreműködik.
 
@@ -32,7 +32,7 @@ g)[^8] ellátják a gyorsriasztási rendszerek üzemeltetésével kapcsolatos fe
 
 h)[^9] az országos tisztifőorvos által kiadott feladataik elvégzéséről közvetlenül tájékoztatják az országos tisztifőorvost.
 
-[^1]: Az 1. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 245. § a) pontja, a 463/2024. (XII. 30.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 73. § a) pontja, a 310/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 116/2021. (III. 10.) Korm. rendelet 32. §-a, a 463/2024. (XII. 30.) Korm. rendelet 73. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 72. §-a iktatta be.
 [^4]: Az 1. § (3) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
