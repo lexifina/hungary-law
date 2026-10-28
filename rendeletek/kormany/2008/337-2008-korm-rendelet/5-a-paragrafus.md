@@ -42,7 +42,7 @@ a) a rehabilitációs szakellátások esetében,
 
 b) a Tv. 5/A. § (9) bekezdés a) és b) pontjában meghatározott esetekben,
 
-c)[^109] a nyugat-közép-magyarországi, az észak-közép-magyarországi és a dél-közép-magyarországi térségek Pest vármegyéhez és Budapesthez tartozó területei tekintetében,
+c)[^109] a nyugat-közép-magyarországi, az észak-közép-magyarországi és a dél-közép-magyarországi térségek Pest megyéhez és Budapesthez tartozó területei tekintetében,
 
 d) a stroke ellátások esetében,
 
@@ -77,7 +77,7 @@ esetében.
 [^106]: Az 5/A. § (5b) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
 [^107]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
 [^108]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
-[^109]: Az 5/A. § (5d) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
+[^109]: Az 5/A. § (5d) bekezdés c) pontja a 305/2026. (X. 27.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^110]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^111]: Az 5/A. § (5e) bekezdés a) pontja az 532/2023. (XII. 5.) Korm. rendelet 3. §-a, a 8/2025. (II. 6.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^112]: Az 5/A. § (5e) bekezdés b) pontja a 8/2025. (II. 6.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.

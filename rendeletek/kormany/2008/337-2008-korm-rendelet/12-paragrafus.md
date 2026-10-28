@@ -56,7 +56,7 @@ f) a tervezett kapacitásbővítés révén az egészségügyi szolgáltató eg�
 
 (5)[^203] Az országos tisztifőorvos (4) bekezdés szerinti véleménye az alábbiakat tartalmazza:
 
-a)[^204] a vármegye érintett részén kimutatható-e kapacitáshiány,
+a)[^204] a megye érintett részén kimutatható-e kapacitáshiány,
 
 b) vannak-e szünetelő kapacitások az érintett szakmában,
 
@@ -70,5 +70,5 @@ c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 [^201]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
 [^202]: A 12. § (4) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^203]: A 12. § (5) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^204]: A 12. § (5) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 96. § b) pontja szerint módosított szöveg.
+[^204]: A 12. § (5) bekezdés a) pontja a 305/2026. (X. 27.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^205]: A 12. § (6) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

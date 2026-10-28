@@ -304,4 +304,4 @@
 [^304]: A 3. mellékletben foglalt táblázat 142. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^305]: A 3. mellékletben foglalt táblázat 143. sora a 8/2025. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^306]: A 3. mellékletben foglalt táblázat 144. sorát a 8/2025. (II. 6.) Korm. rendelet 6. §-a iktatta be.
-[^307]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.
+[^307]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja, a 305/2026. (X. 27.) Korm. rendelet 1. § c) és d) pontja szerint módosított szöveg.
