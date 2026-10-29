@@ -1,0 +1,1 @@
+2. § A gépjárműre megkülönböztető fény- és hangjelzést adó készüléket, illetve figyelmeztető jelzést adó készüléket – a 3. §-ban és a 8. § (1) bekezdésében foglalt kivétellel – az erre jogosító engedély birtokában lehet felszerelni, felhelyezni (a továbbiakban együtt: felszerelés).
