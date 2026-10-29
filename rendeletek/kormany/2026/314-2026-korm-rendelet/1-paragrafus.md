@@ -2,4 +2,6 @@
 
 ## [2] A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1a) bekezdés g)–j) pontjában és (1d) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az egészségügyi intézmények irányításának egyes szabályairól szóló 285/2023. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
