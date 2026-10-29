@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 18. § g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A diaszpóra-magyarsággal történő kapcsolattartás támogatásáról szóló 480/2023. (X. 31.) Korm. rendelet [a továbbiakban: 480/2023. (X. 31.) Korm. rendelet] a következő 5. §-sal egészül ki:
+1. §[^1]
 
-„5. § E rendeletnek a diaszpóra-magyarsággal történő kapcsolattartás támogatásáról szóló 480/2023. (X. 31.) Korm. rendelet módosításáról szóló 320/2026. (X. 27.) Korm. rendelet 2. § a) pontjával módosított 1. § (1) bekezdése alapján a nemzetpolitikáért felelős miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a társadalompolitika összehangolásáért felelős miniszter által vezetett minisztérium jogutódja a nemzetpolitikáért felelős miniszter által vezetett minisztérium.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
