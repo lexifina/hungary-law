@@ -1,5 +1,5 @@
 ## 18. A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet módosítása
 
-59. § [Módosító rendelkezés]
+59. §[^2]
 
-A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet 55. § (1) bekezdés a) és b) pontjában az „átlaga 115 százalékának 1” szövegrész helyébe az „átlagának 1,5” szöveg lép.
+[^2]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 19. A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet módosítása
 
-60. § [Módosító rendelkezés]
+60. §[^3]
 
-A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 12. § (3) bekezdés a) és b) pontjában az „átlaga 110 százalékának 1” szövegrész helyébe az „átlagának 0,5” szöveg lép.
+[^3]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
