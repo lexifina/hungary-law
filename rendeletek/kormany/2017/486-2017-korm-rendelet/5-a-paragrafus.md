@@ -1,4 +1,4 @@
-## 3/A. [^3] Az engedély visszavonása
+## 3/A. [^5] Az engedély visszavonása
 
 5/A. § (1) Az engedélyező hatóság a megkülönböztető jelzést adó készülék, vagy a figyelmeztető jelzést adó készülék felszerelésére vonatkozó engedélyt visszavonja, ha
 
@@ -20,4 +20,4 @@ g) az engedély visszavonását a jármű üzembentartója kéri.
 
 (3) A jármű üzembentartója köteles az (1) bekezdés c)–e) pontjában meghatározott változásokat, annak bekövetkezésétől számított tizenöt napon belül az engedélyező hatóságnak bejelenteni.
 
-[^3]: A 3/A. alcímet (5/A. §) a 713/2020. (XII. 30.) Korm. rendelet 54. §-a iktatta be.
+[^5]: A 3/A. alcímet (5/A. §) a 713/2020. (XII. 30.) Korm. rendelet 54. §-a iktatta be.
