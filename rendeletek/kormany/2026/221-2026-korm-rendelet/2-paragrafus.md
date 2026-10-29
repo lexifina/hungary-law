@@ -1,5 +1,5 @@
-## 2.[^2]
+## 2. A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosítása
 
-2. §
+2. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (3) bekezdés h) pontja helyébe a következő rendelkezés lép:
 
-[^2]: A 2. alcím a 8. § (2) bekezdése alapján 2026. október 29-én lép hatályba.
+(Az ORFK közigazgatási hatáskörében gondoskodik a hatáskörébe utalt közigazgatási hatósági eljárások lefolytatásáról, ellátja a hatósági, nyilvántartási és ellenőrzési feladatokat, ennek keretében)

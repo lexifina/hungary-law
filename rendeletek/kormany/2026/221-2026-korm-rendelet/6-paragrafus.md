@@ -1,1 +1,3 @@
-6. §
+6. § A megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokról szóló 486/2017. (XII. 29.) Korm. rendelet 3. alcíme a következő 4/A. §-sal egészül ki:
+
+„4/A. § A megkülönböztető jelzést adó készülék felszerelésére jogosító engedély iránti kérelem elbírálására irányuló eljárás, valamint a figyelmeztető jelzést adó készülék felszerelésére jogosító engedély iránti kérelem elbírálására irányuló eljárás során a hatóság legfeljebb két ízben hiánypótlásra hívhatja fel a kérelmezőt.”
