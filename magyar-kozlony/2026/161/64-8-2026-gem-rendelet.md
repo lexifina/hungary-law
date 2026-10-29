@@ -1,0 +1,55 @@
+# A gazdasági és energetikai miniszter 8/2026. (X. 29.) GEM rendelete
+
+Magyar Közlöny 2026. évi 161. szám, 2026. október 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/IkF1nDmjLF0Ek1sOryHs6ada330424623/dokumentumok/38f22c8e5e000fa934ea052567dc86c99a5d5c21/letoltes)
+
+---
+
+A gazdasági és energetikai miniszter 8/2026. (X. 29.) GEM rendelete
+a közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárásról
+szóló 11/2025. (IV. 10.) EM rendelet módosításáról
+[1] E rendelet célja a villamos energia hálózaton rendelkezésre álló szabad kapacitások kiosztására irányuló pályázati
+eljáráshoz kapcsolódó, szélenergiával összefüggő teljesítési biztosítékra vonatkozó szabályok beiktatása, illetve
+a jogalkalmazást segítve egyes szabályok pontosítása.
+[2] A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 25. pontjában kapott felhatalmazás alapján,
+a Kormány tagjainak feladat- és hatásköréről szóló 90/2026. (V. 13.) Korm. rendelet 75. § 3. pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. §
+A közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati eljárásról szóló
+11/2025. (IV. 10.) EM rendelet [a továbbiakban: 11/2025. (IV. 10.) EM rendelet] a következő 19. §-sal egészül ki:
+„19. § (1) A közép- és nagyfeszültségű hálózaton elérhető szabad kapacitások kiosztására irányuló pályázati
+eljárásról szóló 11/2025. (IV. 10.) EM rendelet módosításáról szóló 8/2026. (X. 29.) GEM rendelet hatálybalépésekor
+folyamatban lévő pályázati eljárás nyertese (e § alkalmazásában a továbbiakban: pályázati eljárás keretében nyertes
+pályázó) az adott pályázata szerinti beruházás megvalósításához szükséges építési engedély iránti kérelmének
+véglegessé vált döntéssel történő elutasítása esetén kérelmezheti az építési engedély Hivatal részére történő
+benyújtásra nyitva álló, a pályázati kiírásban meghatározott határidőig az adott hálózati csomópont vonatkozásában
+a csatlakozási jog megszűnésének megállapítását, ha az adott pályázata szerinti valamely szélerőmű vagy
+szélerőműpark tekintetében az elutasítás oka kizárólag az alábbi okok valamelyike vagy együttes fennállása:
+a) a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló Korm. rendelet szerinti építési
+engedélyezési eljárásban nemzetbiztonsági, honvédelmi vagy katonai követelmények nemteljesülése,
+b) a Nemzeti Média- és Hírközlési Hatóság Nemzetközi Távközlési Egyesület által nyilvántartott rádiófrekvenciás
+mérőállomásának nempolgári célú potenciális, nem ellensúlyozható képességcsökkenése.
+(2) Az (1) bekezdés a) pontja szerinti esetben a pályázati eljárás keretében nyertes pályázó a kérelemhez csatolja
+az építési engedély iránti kérelmet elutasító, véglegessé vált hatósági döntést. Az (1) bekezdés b) pontja szerinti
+esetben a Hivatal a kérelem beérkezésétől számított 15 napon belül megkeresi a Nemzeti Média- és Hírközlési
+Hatóságot, amely a megkeresés kézhezvételétől számított 15 napon belül tájékoztatja a Hivatalt arról, hogy
+a kérelemben foglalt körülmény fennáll-e. Ha az (1) bekezdés a) pontja szerinti feltétel igazolt, vagy a Nemzeti
+Média- és Hírközlési Hatóság megerősíti az (1) bekezdés b) pontjában foglalt körülmény fennállását, a Hivatal
+megállapítja az érintett szélerőműre vagy szélerőműparkra vonatkozó adott hálózati csomópont esetében
+a csatlakozási jog részleges vagy teljes megszűnését, és 10 munkanapon belül intézkedik a teljesítési biztosítéknak
+vagy annak arányos részének felszabadításáról.”
+2. §
+A 11/2025. (IV. 10.) EM rendelet
+a) 5. § (7) bekezdésében a „részletfeltételek értékelése során előnyben” szövegrész helyébe az „összehasonlító
+szempontok tekintetében többletpontban”szöveg,
+b) 5. § (7a) bekezdésében az„előnyben”szövegrészek helyébe a„többletpontban”szöveg,
+c) 5. § (8) bekezdésében az „a (7) bekezdésben foglalt értékelési szempontok” szövegrész helyébe
+az„az értékelési szempontok”szöveg,
+d) 5. § (8) bekezdésében az „a felsorolt szempontok közül több szempontnak felel meg” szövegrész helyébe
+az„az értékelési szempontok vizsgálata alapján magasabb összesített pontszámot ér el”szöveg
+lép.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Kapitány István s. k.,
+ gazdasági és energetikai miniszter
+
+IX. Határozatok Tára
