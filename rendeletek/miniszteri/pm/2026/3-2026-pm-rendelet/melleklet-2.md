@@ -272,6 +272,12 @@
 
 | 10[^29] | Richter Gedeon Vegyészeti Gyár Nyilvánosan Működő Rt. [állami tulajdonban álló „C” sorozatú részvényei (HU0000123096)] | 01-10-040944 | 2030. december 31. |
 
+| 11[^30] | KBKB Kék Bolygó Klímavédelmi Befektetési Alapkezelő Zártkörűen Működő Részvénytársaság | 01-10-140361 | 2030. december 31. |
+
+| 12[^31] | KBKC Kék Bolygó Klímavédelmi Capital Korlátolt Felelősségű Társaság | 01-09-381769 | 2030. december 31. |
+
+| 13[^32] | BL Nonprofit Korlátolt Felelősségű Társaság | 01-09-947934 | 2030. december 31. |
+
 ## XII. Tulajdonosi joggyakorló: a Szociális és Családügyi Minisztérium
 
 |  | A | B | C |
@@ -338,11 +344,11 @@
 
 | 23 | Robert Capa Kortárs Fotográfiai Központ Nonprofit Kft. | 01-09-176337 | 2030. december 31. |
 
-| 24[^30] | Petőfi Kulturális Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141338 | 2030. december 31. |
+| 24[^33] | Petőfi Kulturális Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141338 | 2030. december 31. |
 
-| 25[^31] | Thália Színház Nonprofit Korlátolt Felelősségű Társaság | 01-09-917942 | 2030. december 31. |
+| 25[^34] | Thália Színház Nonprofit Korlátolt Felelősségű Társaság | 01-09-917942 | 2030. december 31. |
 
-| 26[^32] | Pro Cultura Korlátolt Felelősségű Társaság | 01-09-397036 | 2030. december 31. |
+| 26[^35] | Pro Cultura Korlátolt Felelősségű Társaság | 01-09-397036 | 2030. december 31. |
 
 ## XIV. Tulajdonosi joggyakorló: a Tudományos és Technológiai Minisztérium
 
@@ -358,9 +364,9 @@
 
 | 5 | Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság | 01-09-389831 | 2030. december 31. |
 
-| 6[^33] | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 20-09-078620 | 2030. december 31. |
+| 6[^36] | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 20-09-078620 | 2030. december 31. |
 
-| 7[^34] | Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2030. december 31. |
+| 7[^37] | Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2030. december 31. |
 
 ## XV. Tulajdonosi joggyakorló: a Vidék- és Településfejlesztési Minisztérium
 
@@ -372,9 +378,9 @@
 
 | 3 | Somogyi Beruházásszervező és Mérnöki Korlátolt Felelősségű Társaság | 14-09-311381 | 2030. december 31. |
 
-| 4[^35] | BTTF Balaton Térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2030. december 31. |
+| 4[^38] | BTTF Balaton Térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2030. december 31. |
 
-| 5[^36] | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2030. december 31. |
+| 5[^39] | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2030. december 31. |
 
 2. melléklet a 3/2026. (VI. 30.) PM rendelethez
 
@@ -408,10 +414,13 @@ Tulajdonosi jogokat gyakorló költségvetési szervek
 [^27]: Az 1. melléklet XI. pontjában foglalt táblázat 8. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
 [^28]: Az 1. melléklet XI. pontjában foglalt táblázat 9. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
 [^29]: Az 1. melléklet XI. pontjában foglalt táblázat 10. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^30]: Az 1. melléklet XIII. pontjában foglalt táblázat 24. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^31]: Az 1. melléklet XIII. pontjában foglalt táblázat 25. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^32]: Az 1. melléklet XIII. pontjában foglalt táblázat 26. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^33]: Az 1. melléklet XIV. pontjában foglalt táblázat 6. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^34]: Az 1. melléklet XIV. pontjában foglalt táblázat 7. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
-[^35]: Az 1. melléklet XV. pontjában foglalt táblázat 4. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
-[^36]: Az 1. melléklet XV. pontjában foglalt táblázat 5. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^30]: Az 1. melléklet XI. pontjában foglalt táblázat 11. sorát a 9/2026. (X. 28.) PM rendelet 1. §-a iktatta be.
+[^31]: Az 1. melléklet XI. pontjában foglalt táblázat 12. sorát a 9/2026. (X. 28.) PM rendelet 1. §-a iktatta be.
+[^32]: Az 1. melléklet XI. pontjában foglalt táblázat 13. sorát a 9/2026. (X. 28.) PM rendelet 1. §-a iktatta be.
+[^33]: Az 1. melléklet XIII. pontjában foglalt táblázat 24. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
+[^34]: Az 1. melléklet XIII. pontjában foglalt táblázat 25. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
+[^35]: Az 1. melléklet XIII. pontjában foglalt táblázat 26. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
+[^36]: Az 1. melléklet XIV. pontjában foglalt táblázat 6. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
+[^37]: Az 1. melléklet XIV. pontjában foglalt táblázat 7. sorát az 5/2026. (VIII. 27.) PM rendelet 1. §-a iktatta be.
+[^38]: Az 1. melléklet XV. pontjában foglalt táblázat 4. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
+[^39]: Az 1. melléklet XV. pontjában foglalt táblázat 5. sorát a 4/2026. (VIII. 14.) PM rendelet 1. §-a iktatta be.
