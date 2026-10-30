@@ -1,1 +1,3 @@
-9. § Az NRÜ Zrt. az érintett sportszövetség delegáltjainak sportszakmai közreműködésével látja el a kiemelt sportesemény megrendezéséhez szükséges létesítmények rendelkezésre állásának – ideértve különösen a pályázat benyújtása előtt annak – biztosítását, hogy a létesítmény a kiemelt sportesemény tervezett időpontjában szabadon rendelkezésre álljon.
+9. §[^11]
+
+[^11]: A 9. §-t a 319/2026. (X. 27.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.

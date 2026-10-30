@@ -1,1 +1,3 @@
-18. § Az e rendelet alapján az NRÜ Zrt.-hez kerülő, az e rendelet hatálybalépését megelőzően a jogelőd szervnél megindult hatósági eljárások esetén az ügyintézési határidőbe az e rendelet hatálybalépését megelőzően eltelt idő nem számít be, az ügyintézési határidők újraindulnak.
+18. §[^20]
+
+[^20]: A 18. §-t a 319/2026. (X. 27.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.

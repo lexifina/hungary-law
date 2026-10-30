@@ -1,7 +1,3 @@
-14. § A 13. § (1) bekezdése szerinti feladatok átadás-átvétele kiterjed különösen
+14. §[^16]
 
-a) a feladatokkal kapcsolatos jogokra és kötelezettségekre,
-
-b) a feladatokat ellátó munkavállalók feletti munkáltatói jogok gyakorlására és kötelezettségek teljesítésére, valamint munkaviszonyukra,
-
-c) a feladatok ellátását biztosító működési jellegű előirányzatok átcsoportosításának rendjére.
+[^16]: A 14. §-t a 319/2026. (X. 27.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.

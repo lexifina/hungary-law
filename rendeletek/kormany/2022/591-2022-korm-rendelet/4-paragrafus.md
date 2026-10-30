@@ -1,3 +1,1 @@
-4. §[^5] A Hivatal a 3. § szerinti feladatát 2023. január 1. napjától a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) bevonásával látja el. Az NRÜ Zrt. a feladatellátása során költségvetési támogatások nyújtására jogosult.
-
-[^5]: A 4. § a 155/2023. (IV. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+4. § A Hivatal a 3. § szerinti közfeladatát a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) bevonásával látja el. Az NRÜ Zrt. támogatói döntés meghozatalára, költségvetési támogatás nyújtására, valamint támogatási jogviszonyban támogatóként történő részvételre nem jogosult.
