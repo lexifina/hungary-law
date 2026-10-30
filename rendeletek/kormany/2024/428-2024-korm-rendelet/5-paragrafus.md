@@ -1,6 +1,6 @@
-5. § (1) A 474/2016. (XII. 27.) Korm. rendeletben foglalt feladatkörében, költségvetési támogatásokkal kapcsolatos feladatai ellátásával összefüggésben, kivéve a 3. § (3) bekezdésében foglalt, kiemelt nemzetközi sport- és sportdiplomáciai eseményeket – külön, erre irányuló megállapodás alapján – az Intézet
+5. § (1)[^4] Az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendeletben [a továbbiakban: 474/2016. (XII. 27.) Korm. rendelet] foglalt feladatkörében, költségvetési támogatásokkal kapcsolatos feladatai ellátásával összefüggésben – külön, erre irányuló megállapodás alapján – az Intézet
 
-a) részt vesz az államilag elismert sportakadémiák, a kiemelt fővárosi és vidéki sportszervezetek, sportfejlesztési programban szereplő sportágak, a nem olimpiai sportágak, a fogyatékosok sportja, sportlétesítmény-fejlesztések, az egyetemi-főiskolai sport, valamint a 3. § (1) bekezdése szerinti sportesemények támogatásában, az e célra rendelkezésre álló sportcélú pénzügyi források elosztásában és felhasználásában,
+a) részt vesz az államilag elismert sportakadémiák, a kiemelt fővárosi és vidéki sportszervezetek, sportfejlesztési programban szereplő sportágak, a nem olimpiai sportágak, a fogyatékosok sportja, sportlétesítmény-fejlesztések, az egyetemi-főiskolai sport, valamint a hazai rendezésű és kiemelt hazai rendezésű nemzetközi sport- és sportdiplomáciai események támogatásában, az e célra rendelkezésre álló sportcélú pénzügyi források elosztásában és felhasználásában,
 
 b) a miniszter támogatásra vonatkozó döntése alapján lefolytatja a támogatói okirat kiadásához vagy támogatási szerződés (a továbbiakban együtt: támogatási szerződés) megkötéséhez szükséges egyeztetéseket a kedvezményezettekkel, amelynek keretében beszerzi a szerződéskötéshez szükséges dokumentumokat, hiánypótlást folytat le, előkészíti és megköti a támogatási szerződést,
 
@@ -17,3 +17,5 @@ g) a tárgyévet követő év március 31-éig beszámol a miniszter részére a
 h) ellátja a sportolók és sportszakemberek támogatási, ösztöndíj- és életpályaprogramjaival kapcsolatos feladatokat.
 
 (2) Külön, erre irányuló megállapodás alapján az Intézet elláthatja mindazon támogatási szerződés alapján benyújtott elszámolás ellenőrzését, amely a miniszter által kezelt sportcélú fejezeti kezelésű előirányzatból nyújtott támogatásra vonatkozik, tekintet nélkül a támogatási szerződés létrejöttének vagy az elszámolás benyújtásának időpontjára.
+
+[^4]: Az 5. § (1) bekezdése a 321/2026. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -10,4 +10,6 @@ d) kialakítja és koordinálja az edzők, sportszakemberek szakmai továbbképz
 
 e) ellátja a sport ágazati európai uniós stratégiai tervezéssel, az éves fejlesztési keretek és felhívások előkészítésével, a nyomon követéssel és értékeléssel kapcsolatos feladatokat.
 
-(2) Az (1) bekezdésben foglalt feladatok ellátása során az Intézet együttműködik a Magyar Edzők Társaságával, a Magyar Testnevelési és Sporttudományi Egyetemmel, a Magyar Sporttudományi Társasággal, valamint a 3. § (4) bekezdése szerinti és más, érintett érdekképviseleti szervezetekkel.
+(2)[^3] Az (1) bekezdésben foglalt feladatok ellátása során az Intézet együttműködik a Magyar Edzők Társaságával, a Magyar Testnevelési és Sporttudományi Egyetemmel, a Magyar Sporttudományi Társasággal, valamint az érintett sportág országos sportági szakszövetségével és más, érintett érdekképviseleti szervezetekkel.
+
+[^3]: A 4. § (2) bekezdése a 321/2026. (X. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.

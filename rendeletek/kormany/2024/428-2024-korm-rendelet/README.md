@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-428-20-
 | 2025-02-02 | 2024-428-20-22.4 | 2010. évi CXXX. törvény |
 | 2025-04-01 | 2024-428-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-04-02 | 2024-428-20-22.6 | 2010. évi CXXX. törvény |
+| 2026-10-30 | 2024-428-20-22.7 | 321/2026. (X. 27.) Korm. rendelet |
