@@ -1,3 +1,3 @@
-## „d) lefolytatja – a miniszteri rendeletben meghatározottak szerint nem engedélyköteles gépjárművek kivételével – a 6. § (3) bekezdés h) pontja alapján az ORFK közigazgatási hatáskörébe nem tartozó esetekben a gépjárművek megkülönböztető jelzéseinek felszerelésére vonatkozó hatósági eljárást, valamint az illetékességi területén működő rendőrkapitányságok figyelmeztető jelzést adó készülék felszerelése, visszavonása tárgyában hozott elsőfokú döntésével szemben benyújtott fellebbezések alapján a másodfokú eljárásokat, és ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,”
+4. §[^5]
 
-4. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 14/A. § (4) bekezdésében a „NAV-val” szövegrész helyébe a „Nemzeti Adó- és Vámhivatallal” szöveg lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
