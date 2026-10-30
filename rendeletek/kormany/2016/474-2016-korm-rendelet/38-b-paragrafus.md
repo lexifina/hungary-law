@@ -1,4 +1,4 @@
-38/B. §[^103] (1) A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére költségvetési támogatást nyújthat a hazai rendezésű nemzetközi sport- és sportdiplomáciai események megrendezésével összefüggő költségek fedezetéhez:
+38/B. §[^105] (1) A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére költségvetési támogatást nyújthat a hazai rendezésű nemzetközi sport- és sportdiplomáciai események megrendezésével összefüggő költségek fedezetéhez:
 
 a) nemzetközi jelentőségű és turisztikai vonzerővel bíró sportesemény,
 
@@ -16,10 +16,10 @@ g) egyéb, az a)–f) pontba nem tartozó jelentős esemény,
 
 ha az adott sport- és sportdiplomáciai eseményhez 500 millió forintot meg nem haladó költségvetési támogatást kíván igénybe venni a kérelmező.
 
-(2)[^104] Az Intézet a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet [a továbbiakban: 162/2020. (IV. 30.) Korm. rendelet] szerinti szponzorációs igényt bejelenti az NKOH felé.
+(2)[^106]
 
-(3)[^105] Ha a miniszter 15 millió forintot elérő támogatási összegről döntött, úgy a kérelmező a 162/2020. (IV. 30.) Korm. rendelet szerint jár el. A támogatási szerződés e bekezdés szerinti kötelezettséget tartalmazza.
+(3)[^107]
 
-[^103]: A 38/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
-[^104]: A 38/B. § (2) bekezdése a 428/2024. (XII. 23.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^105]: A 38/B. § (3) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
+[^105]: A 38/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^106]: A 38/B. § (2) bekezdését a 317/2026. (X. 27.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^107]: A 38/B. § (3) bekezdését a 317/2026. (X. 27.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

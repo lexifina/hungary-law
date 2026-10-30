@@ -1,6 +1,6 @@
-## 29/A. §[^81] Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
+## 29/A. §[^82] Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
 
-29/B. §[^82] (1) Beruházási célú támogatás esetén, ha
+29/B. §[^83] (1) Beruházási célú támogatás esetén, ha
 
 a) a kedvezményezett a költségvetési támogatás folyósításától számított egy éven belül a feladat megvalósítását nem kezdi meg,
 
@@ -12,5 +12,5 @@ a kedvezményezett a fel nem használt költségvetési támogatást köteles vi
 
 (3) A Kormány egyedi döntése alapján központi költségvetési forrásból megvalósuló beruházások esetén a beruházás finanszírozása érdekében kötött támogatási szerződés abban az esetben is megszüntethető vagy módosítható a támogató által, ha a kivitelezési munkálatok – tervezési feladatok finanszírozása esetén a tervezési munkálatok – nem kezdődtek meg és a Kormány az egyedi döntését visszavonja vagy azt a támogatási szerződés lényeges körülményeit érintő módon változtatja meg.
 
-[^81]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
-[^82]: A 29/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 11. §-a iktatta be.
+[^82]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^83]: A 29/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 11. §-a iktatta be.

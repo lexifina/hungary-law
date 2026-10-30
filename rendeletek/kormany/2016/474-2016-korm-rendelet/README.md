@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-474-20-
 | 2025-02-19 | 2016-474-20-22.24 | 18/2025. (II. 18.) Korm. rendelet |
 | 2025-07-01 | 2016-474-20-22.25 | 177/2025. (VI. 30.) Korm. rendelet |
 | 2026-01-01 | 2016-474-20-22.26 | 395/2025. (XII. 16.) Korm. rendelet |
+| 2026-10-30 | 2016-474-20-22.27 | 317/2026. (X. 27.) Korm. rendelet |

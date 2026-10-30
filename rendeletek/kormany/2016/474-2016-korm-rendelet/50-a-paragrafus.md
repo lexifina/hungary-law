@@ -1,5 +1,5 @@
-## 20.[^168]
+## 20.[^176]
 
 50/A. §
 
-[^168]: A 20. alcímet (50/A. §-t) a 298/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be, a 658/2023. (XII. 28.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.
+[^176]: A 20. alcímet (50/A. §-t) a 298/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be, a 658/2023. (XII. 28.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.

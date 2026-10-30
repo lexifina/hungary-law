@@ -1,3 +1,3 @@
-2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^181]
+2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^192]
 
-[^181]: A 2. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^192]: A 2. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.

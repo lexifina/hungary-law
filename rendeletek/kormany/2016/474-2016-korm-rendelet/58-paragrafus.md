@@ -1,0 +1,4 @@
+58. §[^189] A 2026. december 31-ig (vagy ezen a napon kezdődően) megrendezendő ötszázmillió forintot el nem érő állami forrásigényű, hazai rendezésű nemzetközi sport- és sportdiplomáciai esemény vagy kiemelt jelentőségű nemzetközi utánpótlás-sportesemények tekintetében, a kiemelt nemzetközi sport- és sportdiplomáciai események tekintetében, továbbá azon a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével megkezdett sportesemények tekintetében, melyre vonatkozóan nem történik jogutódlás, e rendeletnek az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet módosításáról szóló 317/2026. (X. 27.) Korm. rendelet hatálybalépését[^190] megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
+[^189]: Az 58. §-t a 317/2026. (X. 27.) Korm. rendelet 6. §-a iktatta be.
+[^190]: A hatálybalépés időpontja 2026. október 30.
