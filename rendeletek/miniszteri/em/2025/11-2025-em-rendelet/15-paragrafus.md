@@ -8,7 +8,7 @@ c) a pályázót az adott pályázat vonatkozásában a pályázati eljárásbó
 
 (2) Az ajánlati biztosíték hiánytalan teljesítése időpontjának az az időpont minősül, amikor az ajánlati biztosíték teljes összege a Hivatal számlájára beérkezik.
 
-(3)[^31]
+(3)[^32]
 
 (4) Ha megállapítást nyer, hogy a döntést valamely pályázó akár téves adatszolgáltatással, akár bármely más magatartással tisztességtelen módon befolyásolta, akkor pályázata érvénytelen, vagy a megállapított csatlakozási jogát a Hivatal erre vonatkozó határozata alapján elveszíti.
 
@@ -20,13 +20,13 @@ b) kizárólag érvénytelen pályázat került benyújtásra,
 
 c) valamely pályázónak a pályázati eljárás tisztaságát vagy a többi pályázó érdekeit súlyosan sértő cselekménye miatt a Hivatal a pályázati eljárás érvénytelenítéséről dönt, vagy
 
-d)[^32] a pályázók legalább 50%-ával szemben e rendeletben meghatározott kizárási ok áll fenn, és ez a pályázati eljárás céljának megvalósulását veszélyeztetheti.
+d)[^33] a pályázók legalább 50%-ával szemben e rendeletben meghatározott kizárási ok áll fenn, és ez a pályázati eljárás céljának megvalósulását veszélyeztetheti.
 
 (6) A Hivatal – az Értékelő Bizottság összefoglaló értékelése alapján – határozatban állapítja meg
 
 a) eredményesség esetén a pályázati eljárás nyertesét,
 
-b)[^33] a pályázati eljárás nyertese által megvalósítható erőmű alapvető adatait, ennek keretében az elhelyezkedését, a termelőegységek technológiáját, csatlakozási teljesítményét és a hálózati csatlakozás határidejét meghatározva.
+b)[^34] a pályázati eljárás nyertese által megvalósítható erőmű alapvető adatait, ennek keretében az elhelyezkedését, a termelőegységek technológiáját, csatlakozási teljesítményét és a hálózati csatlakozás határidejét meghatározva.
 
 (7) A Hivatal a (6) bekezdésben meghatározott döntéséről tájékoztatja a pályázókat, és döntését honlapján közzéteszi.
 
@@ -46,6 +46,6 @@ c) az a) és b) pont alá nem tartozó esetben elutasítja.
 
 (12) A pályázatok összefoglaló értékelését a Hivatal a honlapján közzéteszi.
 
-[^31]: A 15. § (3) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 19. § d) pontja hatályon kívül helyezte.
-[^32]: A 15. § (5) bekezdés d) pontja a 4/2026. (VIII. 28.) GEM rendelet 18. § i) pontja szerint módosított szöveg.
-[^33]: A 15. § (6) bekezdés b) pontja a 4/2026. (VIII. 28.) GEM rendelet 19. § e) pontja szerint módosított szöveg.
+[^32]: A 15. § (3) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^33]: A 15. § (5) bekezdés d) pontja a 4/2026. (VIII. 28.) GEM rendelet 18. § i) pontja szerint módosított szöveg.
+[^34]: A 15. § (6) bekezdés b) pontja a 4/2026. (VIII. 28.) GEM rendelet 19. § e) pontja szerint módosított szöveg.

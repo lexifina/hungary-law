@@ -40,7 +40,7 @@ m)[^15] az azonos társaságcsoporthoz tartozó pályázók által országos szi
 
 n)[^16] a 7. § (3) bekezdéséhez szükséges nyilatkozat mintáját, amely nyilatkozatminta tartalmazza legalább a vételi jog lényegi elemeit.
 
-(7)[^17] A Hivatal a benyújtott pályázatok értékelése során a pályázati kiírásban meghatározott részletfeltételek értékelése során előnyben részesíti az azonos hálózati csomópont vonatkozásában azt a pályázót, amely
+(7)[^17] A Hivatal a benyújtott pályázatok értékelése során a pályázati kiírásban meghatározott összehasonlító szempontok tekintetében többletpontban részesíti az azonos hálózati csomópont vonatkozásában azt a pályázót, amely
 
 a) teljes bizonyító erejű magánokiratban foglaltan vállalja, hogy a szélerőmű elhelyezésével érintett önkormányzat, önkormányzatok részére a pályázati kiírásban meghatározott módon, egy alkalommal teljesítendő helyi pénzügyi hozzájárulást biztosít,
 
@@ -60,9 +60,9 @@ h) hozzájárul a pályázati eljárás keretében általa elnyert csatlakozási
 
 i) teljes bizonyító erejű magánokiratban vállalja, hogy az erőmű létesítéséhez szükséges termékek, berendezések és részegységeik összességének pályázati kiírásban meghatározott arányát az Európai Unió területén gyártó ajánlattevőktől szerzi be, és a vállalás teljesítését a beszerzésekre vonatkozó szerződésekkel, számlákkal, szállítólevelekkel, valamint a termékek és berendezések Európai Unió területén történő gyártását igazoló gyártói nyilatkozatokkal igazolja.
 
-(7a)[^18] A pályázó által a (7) bekezdés szerinti előnyben részesítésért vállalt kötelezettségek teljesítését a nyertes pályázó az erőmű kereskedelmi üzembe helyezéséig köteles igazolni a Hivatal részére. Amennyiben az előnyben részesítésért vállalt kötelezettséget a nyertes pályázó nem tudja hitelt érdemlően igazolni a Hivatal részére, akkor a Hivatal köteles lehívni a teljesítési biztosítékot.
+(7a)[^18] A pályázó által a (7) bekezdés szerinti többletpontban részesítésért vállalt kötelezettségek teljesítését a nyertes pályázó az erőmű kereskedelmi üzembe helyezéséig köteles igazolni a Hivatal részére. Amennyiben az többletpontban részesítésért vállalt kötelezettséget a nyertes pályázó nem tudja hitelt érdemlően igazolni a Hivatal részére, akkor a Hivatal köteles lehívni a teljesítési biztosítékot.
 
-(8) Ha az azonos hálózati csomópontra a benyújtott pályázatok szerint igényelt csatlakozási kapacitás mértéke meghaladja az adott hálózati csomópontra kiadható csatlakozási kapacitás mértékét, akkor az azonos hálózati csomópontra benyújtott pályázatok értékelése során a Hivatal a (7) bekezdésben foglalt értékelési szempontok szerint előnyben részesíti azt a pályázót, aki a felsorolt szempontok közül több szempontnak felel meg.
+(8)[^19] Ha az azonos hálózati csomópontra a benyújtott pályázatok szerint igényelt csatlakozási kapacitás mértéke meghaladja az adott hálózati csomópontra kiadható csatlakozási kapacitás mértékét, akkor az azonos hálózati csomópontra benyújtott pályázatok értékelése során a Hivatal az értékelési szempontok szerint előnyben részesíti azt a pályázót, aki az értékelési szempontok vizsgálata alapján magasabb összesített pontszámot ér el.
 
 [^10]: Az 5. § (1) bekezdése a 4/2026. (VIII. 28.) GEM rendelet 18. § c) pontja szerint módosított szöveg.
 [^11]: Az 5. § (1a) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 7. §-a iktatta be.
@@ -71,5 +71,6 @@ i) teljes bizonyító erejű magánokiratban vállalja, hogy az erőmű létesí
 [^14]: Az 5. § (6) bekezdés l) pontja a 4/2026. (VIII. 28.) GEM rendelet 18. § f) pontja szerint módosított szöveg.
 [^15]: Az 5. § (6) bekezdés m) pontját a 4/2026. (VIII. 28.) GEM rendelet 8. § (1) bekezdése iktatta be.
 [^16]: Az 5. § (6) bekezdés n) pontját a 4/2026. (VIII. 28.) GEM rendelet 8. § (1) bekezdése iktatta be.
-[^17]: Az 5. § (7) bekezdése a 4/2026. (VIII. 28.) GEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (7a) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 8. § (3) bekezdése iktatta be.
+[^17]: Az 5. § (7) bekezdése a 4/2026. (VIII. 28.) GEM rendelet 8. § (2) bekezdésével megállapított, nyitó szövegrésze a 8/2026. (X. 29.) GEM rendelet 2. § a) pontja szerint módosított szöveg.
+[^18]: Az 5. § (7a) bekezdését a 4/2026. (VIII. 28.) GEM rendelet 8. § (3) bekezdése iktatta be, szövege a 8/2026. (X. 29.) GEM rendelet 2. § b) pontja szerint módosított szöveg.
+[^19]: Az 5. § (8) bekezdése a 8/2026. (X. 29.) GEM rendelet 2. § c) és d) pontja szerint módosított szöveg.

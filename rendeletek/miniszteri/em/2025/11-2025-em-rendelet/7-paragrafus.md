@@ -1,6 +1,6 @@
 ## 6. Részvétel és a pályázat benyújtása
 
-7. §[^19] (1) A pályázati eljárásban nem vehet részt a pályázó,
+7. §[^20] (1) A pályázati eljárásban nem vehet részt a pályázó,
 
 1. amelynek vagy amely anyavállalatának a pályázat benyújtása napján a Hivatallal szemben lejárt határidejű fizetési kötelezettsége van,
 
@@ -56,4 +56,4 @@
 
 (11) A Hivatal a pályázati kiírásban meghatározott benyújtási határidőt megelőzően legalább 15 nappal közzéteszi a tulajdoni részesedést szerző megújulóenergia-közösség kisebbségi tulajdonosként történő tulajdonszerzésről és a társaságban fennálló jogokról és kötelezettségekről szóló szerződésre vonatkozó lényeges elemeit, azzal, hogy a közzétett elemeken felül a vételi jog gyakorlásának megvalósulása érdekében a felek a kötelezett gazdasági társaság formájának megfelelő különös feltételekkel egészítik ki.
 
-[^19]: A 7. § a 4/2026. (VIII. 28.) GEM rendelet 9. §-ával megállapított szöveg.
+[^20]: A 7. § a 4/2026. (VIII. 28.) GEM rendelet 9. §-ával megállapított szöveg.
