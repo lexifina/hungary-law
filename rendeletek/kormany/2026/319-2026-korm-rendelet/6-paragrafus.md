@@ -1,5 +1,3 @@
-6. § Az R. a következő 5/A. alcímmel egészül ki:
+6. §[^7]
 
-„5/A. Elkülönített nyilvántartás és beszámolás
-
-9/A. § Az NRÜ Zrt. a feladatellátásáról nemzeti rendezvényenként elkülönített, a döntéseket, jóváhagyásokat, kötelezettségvállalásokat, szerződéseket, teljesítésigazolásokat és kifizetéseket visszakövethetően tartalmazó elektronikus nyilvántartást vezet.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

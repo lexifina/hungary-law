@@ -1,11 +1,3 @@
-8. § Hatályát veszti az R.
+8. §[^9]
 
-a) 1. § (1) bekezdése,
-
-b) 3. alcím címében a „kiemelt sportesemény és a” szövegrész,
-
-c) 5. § (1) bekezdése,
-
-d) 9. §-a,
-
-e) 13–18. §-a.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
