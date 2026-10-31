@@ -1,1 +1,3 @@
-3. § Az R. 4. § (2) bekezdésében az „a 3. § (4) bekezdése szerinti” szövegrész helyébe az „az érintett sportág országos sportági szakszövetségével” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
