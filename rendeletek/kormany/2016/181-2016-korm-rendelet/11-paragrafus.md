@@ -1,0 +1,7 @@
+## 10. §[^8] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. §-át, 4. §-át, 1. és 2. mellékletét a Módr2. hatálybalépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
+
+11. §[^10] A Beruházás kötöttpályás kapcsolatának kialakítására vonatkozó, a vasúti közlekedési hatóság által kiadott építési engedély alapján a tevékenység a koncesszor kiválasztását követő 90 napig, de legfeljebb 2030. október 31. napjáig végezhető, azzal, hogy a koncesszor a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 16. § (1) bekezdésében foglalt feltételek fennállta esetén az eltérési engedély iránti kérelmet az e bekezdés szerinti határidő lejártát megelőző 60 napig nyújthatja be.
+
+[^8]: A 10. §-t a 363/2020. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2020. július 24.
+[^10]: A 11. §-t a 384/2026. (X. 30.) Korm. rendelet 3. §-a iktatta be.
