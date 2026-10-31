@@ -1,3 +1,3 @@
-## 27/E. §[^221] A 13. § (3) bekezdés b)–e) pontjai alkalmazása esetén a beszerzési eljárásra az e rendeletben foglaltak az irányadók.
+## 27/E. §[^223] A 13. § (3) bekezdés b)–e) pontjai alkalmazása esetén a beszerzési eljárásra az e rendeletben foglaltak az irányadók.
 
-[^221]: A 27/E. §-t a 83/2019. (IV. 18.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^223]: A 27/E. §-t a 83/2019. (IV. 18.) Korm. rendelet 6. § (6) bekezdése iktatta be.

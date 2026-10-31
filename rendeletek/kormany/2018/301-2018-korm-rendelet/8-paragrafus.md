@@ -1,4 +1,4 @@
-8. §[^87] (1) A DMÜ az érintett szervezet részére, annak kézhezvételétől számított 7 munkanapon belül, legfeljebb egy alkalommal, átdolgozásra visszaküldheti az éves informatikai beszerzési tervet vagy éves informatikai fejlesztési tervet, ha azt észleli, hogy az
+8. §[^89] (1) A DMÜ az érintett szervezet részére, annak kézhezvételétől számított 7 munkanapon belül, legfeljebb egy alkalommal, átdolgozásra visszaküldheti az éves informatikai beszerzési tervet vagy éves informatikai fejlesztési tervet, ha azt észleli, hogy az
 
 a) formailag vagy tartalmilag nem megfelelő, vagy
 
@@ -60,4 +60,4 @@ b) az (5) és (10) bekezdésben meghatározott határidő 3 munkanap.
 
 (20) A tervmódosítás jóváhagyása esetén a terv a jóváhagyásnak megfelelő tartalommal módosul vagy egészül ki. A tervmódosítás jóváhagyásával az érintett, tervmódosítást igénylő informatikai beszerzési igény a jóváhagyás napjával benyújtott, tervezett informatikai beszerzési igénynek minősül.
 
-[^87]: A 8. § a 419/2023. (VIII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^89]: A 8. § a 419/2023. (VIII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 3/A.[^191] IT eszköz- és szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatáskörök
+## 3/A.[^193] IT eszköz- és szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatáskörök
 
 14/A. § Ezen alcím alkalmazásában
 
@@ -12,4 +12,4 @@
 
 5. Társadalmi hasznosítás: az eszközkivezetés részeként, a feleslegessé vált informatikai eszköz, licenc digitálisan hátrányos helyzetű állampolgárok, szervezetek részére a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezetek bevonásával történő hasznosítása, térítésmentes átadása.
 
-[^191]: A 3/A. alcímet (14/A. §-t) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be, szövege (14/A–14/F. §) a 468/2025. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^193]: A 3/A. alcímet (14/A. §-t) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be, szövege (14/A–14/F. §) a 468/2025. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

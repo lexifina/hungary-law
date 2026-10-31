@@ -1,3 +1,3 @@
-23. §[^201]
+23. §[^203]
 
-[^201]: A 23. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^203]: A 23. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.

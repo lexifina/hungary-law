@@ -1,36 +1,36 @@
-13. §[^152] (1)[^153] A DKÜ az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítése érdekében
+13. §[^154] (1)[^155] A DKÜ az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítése érdekében
 
-a)[^154] a beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet javára eljárva központosított beszerzés keretében vagy járulékos beszerzési szolgáltatás nyújtásával maga folytatja le, vagy
+a)[^156] a beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet javára eljárva központosított beszerzés keretében vagy járulékos beszerzési szolgáltatás nyújtásával maga folytatja le, vagy
 
 b) a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek visszaadja.
 
-(1a)[^155] A miniszter által vezetett minisztérium esetében az (1) bekezdés a) pontja szerint kell eljárni.
+(1a)[^157] A miniszter által vezetett minisztérium esetében az (1) bekezdés a) pontja szerint kell eljárni.
 
-(1b)[^156] Ha a DKÜ a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az (1) bekezdés b) pontja szerint visszaadta, az érintett szervezet a beszerzési igényét, ha az e rendelet szerinti sajátos beszerzési módszerekkel megkötött keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíthető, köteles azt a keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíteni.
+(1b)[^158] Ha a DKÜ a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az (1) bekezdés b) pontja szerint visszaadta, az érintett szervezet a beszerzési igényét, ha az e rendelet szerinti sajátos beszerzési módszerekkel megkötött keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíthető, köteles azt a keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíteni.
 
-(2)[^157] A DKÜ az (1) bekezdés szerinti döntésekor – a lehetőségek, az erőforrások és a kockázatok vizsgálatát követően, a célszerűségi szempontokra is figyelemmel – szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg, és a döntéséről a 9. § szerinti beszerzési igény esetében, ha a DKÜ az érintett szervezet beszerzési igényét vizsgálat alá vonta, a 9. § (3) bekezdése szerinti, a 10. § és 11. § szerinti beszerzési igény esetében a 10. § (2) bekezdése és a 11. § (2) bekezdése szerinti tájékoztatással egy időben tájékoztatja az érintett szervezetet.
+(2)[^159] A DKÜ az (1) bekezdés szerinti döntésekor – a lehetőségek, az erőforrások és a kockázatok vizsgálatát követően, a célszerűségi szempontokra is figyelemmel – szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg, és a döntéséről a 9. § szerinti beszerzési igény esetében, ha a DKÜ az érintett szervezet beszerzési igényét vizsgálat alá vonta, a 9. § (3) bekezdése szerinti, a 10. § és 11. § szerinti beszerzési igény esetében a 10. § (2) bekezdése és a 11. § (2) bekezdése szerinti tájékoztatással egy időben tájékoztatja az érintett szervezetet.
 
-(2a)[^158] A (2) bekezdés szerinti tájékoztatásra meghatározott határidő eredménytelen elteltét követően úgy kell tekinteni, hogy a DKÜ a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek a 13. § (1) bekezdés b) pontja szerint visszaadta.
+(2a)[^160] A (2) bekezdés szerinti tájékoztatásra meghatározott határidő eredménytelen elteltét követően úgy kell tekinteni, hogy a DKÜ a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek a 13. § (1) bekezdés b) pontja szerint visszaadta.
 
-(2b)[^159] Az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítésére szolgáló beszerzési eljárás, ha a beszerzési igény az e rendelet szerinti sajátos beszerzési módszerekkel megkötött keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíthető, a (2) bekezdés szerinti tájékoztatástól számított kettő hónapig, más esetben hat hónapig indítható.
+(2b)[^161] Az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítésére szolgáló beszerzési eljárás, ha a beszerzési igény az e rendelet szerinti sajátos beszerzési módszerekkel megkötött keretmegállapodás vagy más keretjellegű szerződés alkalmazásával kielégíthető, a (2) bekezdés szerinti tájékoztatástól számított kettő hónapig, más esetben hat hónapig indítható.
 
-(2c)[^160] Az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítésére szolgáló beszerzési eljárás, 9. § szerinti beszerzési igény esetében, ha a DKÜ az érintett szervezet beszerzési igényét vizsgálat alá vonta, a 9. § (3) bekezdése szerinti tájékoztatáskor, a 10. és 11. § szerinti beszerzési igény esetében, ha a miniszter azt jóváhagyta, a miniszteri döntés érintett szervezettel való, 10. § (17) bekezdése szerinti közlésekor, ha a miniszter a jóváhagyását feltételhez kötötte, a feltételek teljesülésekor fennálló becsült érték és műszaki tartalom mellett indítható meg, az alábbiak figyelembevétele mellett
+(2c)[^162] Az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítésére szolgáló beszerzési eljárás, 9. § szerinti beszerzési igény esetében, ha a DKÜ az érintett szervezet beszerzési igényét vizsgálat alá vonta, a 9. § (3) bekezdése szerinti tájékoztatáskor, a 10. és 11. § szerinti beszerzési igény esetében, ha a miniszter azt jóváhagyta, a miniszteri döntés érintett szervezettel való, 10. § (17) bekezdése szerinti közlésekor, ha a miniszter a jóváhagyását feltételhez kötötte, a feltételek teljesülésekor fennálló becsült érték és műszaki tartalom mellett indítható meg, az alábbiak figyelembevétele mellett
 
-a)[^161] 9. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 20%-os mértékig emelkedhet, azzal, hogy az igény a megváltozott becsült érték alapján ebben az esetben sem kerülhet át a 10. § szerinti beszerzési igény kategóriába,
+a)[^163] 9. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 20%-os mértékig emelkedhet, azzal, hogy az igény a megváltozott becsült érték alapján ebben az esetben sem kerülhet át a 10. § szerinti beszerzési igény kategóriába,
 
-b)[^162] a 10. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 15%-os mértékig emelkedhet, azzal, hogy az igény a megváltozott becsült érték alapján ebben az esetben sem kerülhet át a 11. § szerinti beszerzési igény kategóriába,
+b)[^164] a 10. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 15%-os mértékig emelkedhet, azzal, hogy az igény a megváltozott becsült érték alapján ebben az esetben sem kerülhet át a 11. § szerinti beszerzési igény kategóriába,
 
-c)[^163] a 11. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 10%-os mértékig emelkedhet,
+c)[^165] a 11. § szerinti beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb 10%-os mértékig emelkedhet,
 
-d)[^164] a műszaki tartalom kizárólag előre nem látható okból változhat, azzal, hogy a megváltozott műszaki tartalom kizárólag az eredetivel műszakilag egyenértékű vagy meghatározó műszaki paramétereiben kedvezőbb lehet,
+d)[^166] a műszaki tartalom kizárólag előre nem látható okból változhat, azzal, hogy a megváltozott műszaki tartalom kizárólag az eredetivel műszakilag egyenértékű vagy meghatározó műszaki paramétereiben kedvezőbb lehet,
 
 e) amennyiben a műszaki tartalom változása mellett egyben a becsült érték változása is fennáll, az a)–d) pont szerinti feltételeknek való megfelelésnek egyidejűleg kell fennállnia,
 
 f) az a)–e) pontok bármelyikének nem megfelelő változás esetén a megváltozott igény új beszerzési igénynek minősül.
 
-(3)[^165] A DKÜ a beszerzési igények hatékony kielégítése érdekében a beszerzési stratégiáját maga alakítja ki, figyelemmel az 5. § (2) bekezdésében foglaltakra is. Ennek keretében
+(3)[^167] A DKÜ a beszerzési igények hatékony kielégítése érdekében a beszerzési stratégiáját maga alakítja ki, figyelemmel az 5. § (2) bekezdésében foglaltakra is. Ennek keretében
 
-a)[^166] a DKÜ keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozására irányuló beszerzési eljárást is folytathat, és ennek érdekében sajátos beszerzési módszereket is alkalmazhat, így különösen
+a)[^168] a DKÜ keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozására irányuló beszerzési eljárást is folytathat, és ennek érdekében sajátos beszerzési módszereket is alkalmazhat, így különösen
 
 aa) keretmegállapodásos eljárást,
 
@@ -50,66 +50,66 @@ e) a DKÜ más központi beszerző szervvel együttműködve közösen is megval
 
 f) a DKÜ kialakíthatja az általa nyújtott járulékos beszerzési szolgáltatás általános szerződési feltételeit.
 
-(4)[^167] A (3) bekezdés b)–e) pontjai alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
+(4)[^169] A (3) bekezdés b)–e) pontjai alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
 
 a) az egyes ajánlatkérők felelősségi körét,
 
 b) a beszerzés megvalósításának megszervezését, különös tekintettel az eljárás lefolytatására, valamint
 
-c)[^168] a beszerzési igény kiszolgálási körülményeit.
+c)[^170] a beszerzési igény kiszolgálási körülményeit.
 
-(5)[^169] A (4) bekezdés szerinti esetben az együttműködés létrehozható határozatlan vagy határozott időre, meghatározott beszerzéstípusokra, valamint egy vagy több beszerzés megvalósítására is.
+(5)[^171] A (4) bekezdés szerinti esetben az együttműködés létrehozható határozatlan vagy határozott időre, meghatározott beszerzéstípusokra, valamint egy vagy több beszerzés megvalósítására is.
 
-(6)[^170]
+(6)[^172]
 
-(7)[^171] Ha a DKÜ eljárása eredményeképpen egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely az adott beszerzési igény(ek) kielégítésére irányuló visszterhes szerződés(ek) minden feltételét nem tartalmazza, annak alapján írásbeli konzultáció vagy verseny újranyitás eredményeként olyan keretjellegű szerződés is köthető, amely alapján az adott beszerzési igény(ek) közvetlen megrendelés(ek) útján is kielégíthető(ek), feltéve, hogy e keretjellegű szerződés a közvetlen megrendelés(ek) eredményeképpen létrejövő visszterhes szerződés(ek) minden feltételét tartalmazza.
+(7)[^173] Ha a DKÜ eljárása eredményeképpen egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely az adott beszerzési igény(ek) kielégítésére irányuló visszterhes szerződés(ek) minden feltételét nem tartalmazza, annak alapján írásbeli konzultáció vagy verseny újranyitás eredményeként olyan keretjellegű szerződés is köthető, amely alapján az adott beszerzési igény(ek) közvetlen megrendelés(ek) útján is kielégíthető(ek), feltéve, hogy e keretjellegű szerződés a közvetlen megrendelés(ek) eredményeképpen létrejövő visszterhes szerződés(ek) minden feltételét tartalmazza.
 
-(8)[^172] Az érintett szervezet a 13. § (1) bekezdés b) pontja szerinti beszerzési eljárás eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a 13. § (1) bekezdés a) és b) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződés másolatát a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntés másolatát a döntést követő 10 munkanapon belül a DKÜ alkalmazásra feltölti.
+(8)[^174] Az érintett szervezet a 13. § (1) bekezdés b) pontja szerinti beszerzési eljárás eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a 13. § (1) bekezdés a) és b) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződés másolatát a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntés másolatát a döntést követő 10 munkanapon belül a DKÜ alkalmazásra feltölti.
 
-(9)[^173] Az érintett szervezet a 13. § (1) bekezdés a) és b) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződések teljesítéséről a teljesítést követő – vagy ha a teljesítés meghiúsult, a teljesítésre meghatározott határidő lejártát követő – 10 munkanapon belül köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül számot adni.
+(9)[^175] Az érintett szervezet a 13. § (1) bekezdés a) és b) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződések teljesítéséről a teljesítést követő – vagy ha a teljesítés meghiúsult, a teljesítésre meghatározott határidő lejártát követő – 10 munkanapon belül köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül számot adni.
 
-(10)[^174] A DKÜ a (8) és (9) bekezdés szerinti adatszolgáltatási kötelezettségen túlmenően is jogosult adatszolgáltatást kérni az érintett szervezettől a beszerzési igényük teljesítési körülményeiről vagy egyéb, a központosított beszerzési rendszer működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
+(10)[^176] A DKÜ a (8) és (9) bekezdés szerinti adatszolgáltatási kötelezettségen túlmenően is jogosult adatszolgáltatást kérni az érintett szervezettől a beszerzési igényük teljesítési körülményeiről vagy egyéb, a központosított beszerzési rendszer működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
 
 (11) A DKÜ a (8)–(10) bekezdés szerinti adatszolgáltatási kötelezettség ellenőrzése céljából a teljesítéssel érintett szállítótól adatszolgáltatást kérhet, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
 
-(12)[^175] A 10. és 11. § szerinti beszerzési igény esetében, ha azt a miniszter a 12. § (4) bekezdés a) vagy b) pontja szerinti döntésekor, azzal egyidejűleg előírta, a 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződés érintett szervezet általi módosításának feltétele a miniszter jóváhagyása.
+(12)[^177] A 10. és 11. § szerinti beszerzési igény esetében, ha azt a miniszter a 12. § (4) bekezdés a) vagy b) pontja szerinti döntésekor, azzal egyidejűleg előírta, a 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás eredményeképpen az érintett szervezet által megkötött szerződés érintett szervezet általi módosításának feltétele a miniszter jóváhagyása.
 
-(13)[^176] A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás eredményeképpen megkötött szerződés módosításának (12) bekezdés szerinti jóváhagyása tekintetében a 9–12. § megfelelően alkalmazandó.
+(13)[^178] A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás eredményeképpen megkötött szerződés módosításának (12) bekezdés szerinti jóváhagyása tekintetében a 9–12. § megfelelően alkalmazandó.
 
-(14)[^177] Ha a DKÜ beszerzési eljárása eredményeképpen olyan, kifejezetten egy érintett szervezet javára létrejövő egyedi keretmegállapodás vagy más keretjellegű szerződés megkötésére kerül sor, amely az adott beszerzési igény(ek) kielégítésére irányuló visszterhes szerződés(ek) minden feltételét tartalmazza és a beszerzési igény(ek) – a keretmegállapodásban vagy a más keretjellegű szerződésben meghatározott feltételek szerint – közvetlen megrendeléssel vagy írásbeli konzultációt követő szerződéskötéssel kielégíthető(ek), e beszerzési igény(ek) esetében a 9–12. § nem alkalmazandó.
+(14)[^179] Ha a DKÜ beszerzési eljárása eredményeképpen olyan, kifejezetten egy érintett szervezet javára létrejövő egyedi keretmegállapodás vagy más keretjellegű szerződés megkötésére kerül sor, amely az adott beszerzési igény(ek) kielégítésére irányuló visszterhes szerződés(ek) minden feltételét tartalmazza és a beszerzési igény(ek) – a keretmegállapodásban vagy a más keretjellegű szerződésben meghatározott feltételek szerint – közvetlen megrendeléssel vagy írásbeli konzultációt követő szerződéskötéssel kielégíthető(ek), e beszerzési igény(ek) esetében a 9–12. § nem alkalmazandó.
 
-(15)[^178] A DKÜ a kormányzati szoftverlicenc-gazdálkodásról szóló rendelet szerinti kiemelt gyártók szoftverlicenceire, annak gyártói támogatására és az ezekhez kapcsolódó szolgáltatások beszerzésére irányuló keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozására irányuló beszerzési eljárás lefolytatása előtt, annak műszaki mellékleteit a DMÜ részére jóváhagyásra megküldi.
+(15)[^180] A DKÜ a kormányzati szoftverlicenc-gazdálkodásról szóló rendelet szerinti kiemelt gyártók szoftverlicenceire, annak gyártói támogatására és az ezekhez kapcsolódó szolgáltatások beszerzésére irányuló keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozására irányuló beszerzési eljárás lefolytatása előtt, annak műszaki mellékleteit a DMÜ részére jóváhagyásra megküldi.
 
-(16)[^179] A DMÜ a (15) bekezdés szerinti műszaki mellékletről 8 munkanapon belül véleményt ad.
+(16)[^181] A DMÜ a (15) bekezdés szerinti műszaki mellékletről 8 munkanapon belül véleményt ad.
 
-(17)[^180] A DKÜ a DMÜ által adott jóváhagyás esetén folytatja le a beszerzési eljárást.
+(17)[^182] A DKÜ a DMÜ által adott jóváhagyás esetén folytatja le a beszerzési eljárást.
 
-[^152]: A 13. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^153]: A 13. § (1) bekezdés nyitó szövegésze a 182/2019. (VII. 26.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
-[^154]: A 13. § (1) bekezdés a) pontja a 683/2020. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^155]: A 13. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (18) bekezdése iktatta be.
-[^156]: A 13. § (1b) bekezdését a 257/2019. (X. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^157]: A 13. § (2) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdésével megállapított szöveg.
-[^158]: A 13. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdése iktatta be.
-[^159]: A 13. § (2b) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^160]: A 13. § (2c) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^161]: A 13. § (2c) bekezdés a) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24-26. pontja szerint módosított szöveg.
-[^162]: A 13. § (2c) bekezdés b) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24. és 25. pontja szerint módosított szöveg.
-[^163]: A 13. § (2c) bekezdés c) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24. és 25. pontja szerint módosított szöveg.
-[^164]: A 13. § (2c) bekezdés d) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
-[^165]: A 13. § (3) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 4. pontja szerint módosított szöveg.
-[^166]: A 13. § (3) bekezdés a) pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 5. pontja szerint módosított szöveg.
-[^167]: A 13. § (4) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^168]: A 13. § (4) bekezdés c) pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 6. pontja szerint módosított szöveg.
-[^169]: A 13. § (5) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^170]: A 13. § (6) bekezdését 257/2019. (X. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^171]: A 13. § (7) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^172]: A 13. § (8) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^173]: A 13. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 7. pontja, a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^174]: A 13. § (10) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
-[^175]: A 13. § (12) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (6) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 7. pontja szerint módosított szöveg.
-[^176]: A 13. § (13) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja, a 683/2020. (XII. 28.) Korm. rendelet 15. § 9. pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
-[^177]: A 13. § (14) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^178]: A 13. § (15) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^179]: A 13. § (16) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^180]: A 13. § (17) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^154]: A 13. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^155]: A 13. § (1) bekezdés nyitó szövegésze a 182/2019. (VII. 26.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^156]: A 13. § (1) bekezdés a) pontja a 683/2020. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^157]: A 13. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (18) bekezdése iktatta be.
+[^158]: A 13. § (1b) bekezdését a 257/2019. (X. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^159]: A 13. § (2) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdésével megállapított szöveg.
+[^160]: A 13. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdése iktatta be.
+[^161]: A 13. § (2b) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^162]: A 13. § (2c) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^163]: A 13. § (2c) bekezdés a) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24-26. pontja szerint módosított szöveg.
+[^164]: A 13. § (2c) bekezdés b) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24. és 25. pontja szerint módosított szöveg.
+[^165]: A 13. § (2c) bekezdés c) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 24. és 25. pontja szerint módosított szöveg.
+[^166]: A 13. § (2c) bekezdés d) pontja a 419/2023. (VIII. 31.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
+[^167]: A 13. § (3) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 4. pontja szerint módosított szöveg.
+[^168]: A 13. § (3) bekezdés a) pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 5. pontja szerint módosított szöveg.
+[^169]: A 13. § (4) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^170]: A 13. § (4) bekezdés c) pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 6. pontja szerint módosított szöveg.
+[^171]: A 13. § (5) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^172]: A 13. § (6) bekezdését 257/2019. (X. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^173]: A 13. § (7) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^174]: A 13. § (8) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^175]: A 13. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 7. pontja, a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^176]: A 13. § (10) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
+[^177]: A 13. § (12) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 7. § (6) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 7. pontja szerint módosított szöveg.
+[^178]: A 13. § (13) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja, a 683/2020. (XII. 28.) Korm. rendelet 15. § 9. pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
+[^179]: A 13. § (14) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^180]: A 13. § (15) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^181]: A 13. § (16) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^182]: A 13. § (17) bekezdését a 468/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

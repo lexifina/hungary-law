@@ -1,4 +1,4 @@
-30/G. §[^269] (1) A DKÜ meghatározza és legkésőbb 2026. január 31. napjáig közzéteszi
+30/G. §[^271] (1) A DKÜ meghatározza és legkésőbb 2026. január 31. napjáig közzéteszi
 
 a) a Központi informatikai eszköz nyilvántartásban szolgáltatandó adatok körét;
 
@@ -18,4 +18,4 @@ c) a 2026. február 1. napja után teljesülő beszerzésből származó informa
 
 köteles.
 
-[^269]: A 30/G. §-t a 468/2025. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^271]: A 30/G. §-t a 468/2025. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
