@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-774-20-
 | 2025-07-01 | 2021-774-20-22.8 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2025-08-31 | 2021-774-20-22.10 | 230/2025. (VII. 31.) Korm. rendelet |
 | 2026-01-01 | 2021-774-20-22.9 | 181/2025. (VI. 30.) Korm. rendelet |
+| 2026-10-31 | 2021-774-20-22.11 | 384/2026. (X. 30.) Korm. rendelet |
