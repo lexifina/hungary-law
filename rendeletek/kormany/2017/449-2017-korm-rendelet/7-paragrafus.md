@@ -1,6 +1,6 @@
 ## 6. § A párhuzamos importtevékenység magában foglalja az ilyen módon behozni kívánt gyógyszer származási tagállamban történő beszerzését, a származási tagállamból kizárólag a hazai forgalomba hozatal érdekében történő behozatalát, átcsomagolását, minőségbiztosítását, minőségértékelését, eladható készletbe helyezését, tárolását, készletezését, a megrendelőhöz való eljuttatását, forgalomból történő kivonásának végrehajtását, nyilvántartását, továbbá a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos adatszolgáltatást és információátadást.
 
-7. §[^10] A párhuzamos importengedély iránti kérelmet az NNGYK-hoz kell benyújtani. A kérelemnek tartalmaznia kell
+7. §[^10] A párhuzamos importengedély iránti kérelmet az OGYI-hoz kell benyújtani. A kérelemnek tartalmaznia kell
 
 a) a párhuzamos importtal behozni kívánt gyógyszer adatait:
 
@@ -36,4 +36,4 @@ g) a párhuzamos importtal behozni kívánt gyógyszer minden hatáserősségéb
 
 h) arra irányuló nyilatkozatot, hogy a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos minőségi hibajelentési, mellékhatás-bejelentési és a származási országban kiadott forgalomba hozatali engedély módosításra vonatkozó bejelentési kötelezettségeknek eleget tesz.
 
-[^10]: A 7. § nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 56. § g) pontja szerint módosított szöveg.
+[^10]: A 7. § nyitó szövegrésze a 367/2026. (X. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
