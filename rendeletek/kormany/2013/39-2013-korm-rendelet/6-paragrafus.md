@@ -1,6 +1,6 @@
 ## 4. Jelölés
 
-6. §[^23] (1) A csomagolási egységen jelölni kell
+6. §[^25] (1) A csomagolási egységen jelölni kell
 
 a) a dohánytermék típusát a következők szerint:
 
@@ -20,7 +20,7 @@ ag) „tüsszentésre szolgáló dohánytermék”,
 
 ah) „vízipipadohány”,
 
-ai)[^24] „hevített dohánytermék”,
+ai)[^26] „hevített dohánytermék”,
 
 b) a dohánytermék márkanevét vagy márkajelzését,
 
@@ -48,5 +48,5 @@ h) a gyártás időpontját (az év, a hónap és a nap feltüntetésével) és 
 
 (7) Mentolos ízesítésű dohánytermék csomagolásán a mentol jelzése „mentol” felirattal történhet.
 
-[^23]: A 6. § a 239/2016. (VIII. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^24]: A 6. § (1) bekezdés a) pont ai) alpontját a 120/2024. (VI. 10.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 6. § a 239/2016. (VIII. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^26]: A 6. § (1) bekezdés a) pont ai) alpontját a 120/2024. (VI. 10.) Korm. rendelet 2. §-a iktatta be.

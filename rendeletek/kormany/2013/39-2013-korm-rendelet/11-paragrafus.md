@@ -1,8 +1,8 @@
-11. §[^52] (1) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, közterületeket, valamint a nemdohányzó intézményeket a 7. mellékletben meghatározott tartalmú és formájú felirat vagy jelzés alkalmazásával kell megjelölni. A felirat vagy jelzés mérete legalább A/4-es nagyságú. A feliraton vagy jelzésen szereplő „DOHÁNYZÁSRA KIJELÖLT HELY” és „TILOS A DOHÁNYZÁS” szövegeknek piros színnel, legalább 30 pontos Helvetica Bold, az egyéb szövegrészeknek legalább 18 pontos Helvetica Bold betűmérettel kell készülniük.
+11. §[^54] (1) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, közterületeket, valamint a nemdohányzó intézményeket a 7. mellékletben meghatározott tartalmú és formájú felirat vagy jelzés alkalmazásával kell megjelölni. A felirat vagy jelzés mérete legalább A/4-es nagyságú. A feliraton vagy jelzésen szereplő „DOHÁNYZÁSRA KIJELÖLT HELY” és „TILOS A DOHÁNYZÁS” szövegeknek piros színnel, legalább 30 pontos Helvetica Bold, az egyéb szövegrészeknek legalább 18 pontos Helvetica Bold betűmérettel kell készülniük.
 
-(1a)[^53] Az (1) bekezdés szerinti felirat vagy jelzés alatt az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatának korlátozását, valamint használatára kijelölt helyeket, helyiségeket, közterületeket is érteni kell.
+(1a)[^55] Az (1) bekezdés szerinti felirat vagy jelzés alatt az elektronikus cigaretta és a dohányzást imitáló elektronikus eszköz használatának korlátozását, valamint használatára kijelölt helyeket, helyiségeket, közterületeket is érteni kell.
 
-(2)[^54] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal kérelemre, a kérelmező részére engedélyezi az (1) bekezdésben és a 7. mellékletben foglaltaktól eltérő felirat vagy jelzés alkalmazását, ha
+(2)[^56] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal kérelemre, a kérelmező részére engedélyezi az (1) bekezdésben és a 7. mellékletben foglaltaktól eltérő felirat vagy jelzés alkalmazását, ha
 
 a) a kérelmező által egyidejűleg az Nvt. 2. § (7) bekezdése és az (1) bekezdés alapján alkalmazandó jelzések száma a tízet meghaladja,
 
@@ -16,9 +16,9 @@ e) az alkalmazott betűk mérete nem kisebb az (1) bekezdésben meghatározott b
 
 (3) A (2) bekezdés szerinti engedély iránti kérelemhez mellékelni kell az engedélyeztetni kért felirat vagy jelzés grafikai tervét, valamint tervezett elhelyezésének részletes leírását.
 
-(4)[^55] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi az NNGYK részére.
+(4)[^57] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi az ONI részére.
 
-[^52]: A 11. § a 169/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^53]: A 11. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 50. §-a iktatta be. [A 11. § (1a) bekezdésében a 463/2024. (XII. 30.) Korm. rendelet 59. § a) pontja által elrendelt módosítás, amely szerint az „és a dohányzást imitáló elektronikus eszköz,” szövegrész helyébe az „a dohányzást imitáló elektronikus eszköz, valamint a vízipipa” szöveg lép, nem vezethető át.]
-[^54]: A 11. § (2) bekezdés nyitó szövegrésze a 239/2016. (VIII. 16.) Korm. rendelet 20. § c) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^55]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés l) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^54]: A 11. § a 169/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^55]: A 11. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 50. §-a iktatta be. [A 11. § (1a) bekezdésében a 463/2024. (XII. 30.) Korm. rendelet 59. § a) pontja által elrendelt módosítás, amely szerint az „és a dohányzást imitáló elektronikus eszköz,” szövegrész helyébe az „a dohányzást imitáló elektronikus eszköz, valamint a vízipipa” szöveg lép, nem vezethető át.]
+[^56]: A 11. § (2) bekezdés nyitó szövegrésze a 239/2016. (VIII. 16.) Korm. rendelet 20. § c) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^57]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés l) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja, a 350/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

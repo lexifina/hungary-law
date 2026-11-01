@@ -1,4 +1,4 @@
-19/C. § (1)[^98] Dohányzást imitáló elektronikus eszköz és nikotinmentes utántöltő flakon a következő feltételekkel hozható forgalomba és forgalmazható:
+19/C. § (1)[^101] Dohányzást imitáló elektronikus eszköz és nikotinmentes utántöltő flakon a következő feltételekkel hozható forgalomba és forgalmazható:
 
 a) a bennük lévő folyadék nem tartalmazhat nikotint (a továbbiakban e § alkalmazásában: nikotinmentes folyadék),
 
@@ -40,7 +40,7 @@ c) a következő figyelmeztető feliratot: „A termék gyermekektől elzárva t
 
 (5) A dohányzást imitáló elektronikus eszköz csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon, a 19/B. § (6) bekezdésében foglaltaknak megfelelően fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék dohányzást imitáló elektronikus eszköz. Használata gyermekek számára nem ajánlott.”
 
-(6)[^99] A nikotinmentes utántöltő flakon csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon, a 19/B. § (6) bekezdésében foglaltaknak megfelelően fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotinmentes utántöltő flakon. Használata gyermekek számára tilos.”
+(6)[^102] A nikotinmentes utántöltő flakon csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon, a 19/B. § (6) bekezdésében foglaltaknak megfelelően fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotinmentes utántöltő flakon. Használata gyermekek számára tilos.”
 
-[^98]: A 19/C. § (1) bekezdése a 120/2024. (VI. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^99]: A 19/C. § (6) bekezdését a 120/2024. (VI. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^101]: A 19/C. § (1) bekezdése a 120/2024. (VI. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^102]: A 19/C. § (6) bekezdését a 120/2024. (VI. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be.

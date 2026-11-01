@@ -1,4 +1,4 @@
-18/C. §[^85] (1) A dohányzási célú gyógynövénytermék a következő feltételekkel hozható forgalomba és forgalmazható:
+18/C. §[^87] (1) A dohányzási célú gyógynövénytermék a következő feltételekkel hozható forgalomba és forgalmazható:
 
 a) nem tartalmazhat a 4. melléklet szerinti adalékanyagot,
 
@@ -22,6 +22,7 @@ b) az (1) bekezdés b)–d) pontjában foglalt anyagok annyiban felhasználható
 
 (5) A dohányzási célú gyógynövénytermékekre vonatkozó bejelentések vizsgálata során az országos tisztifőorvos a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben foglaltak figyelembevételével, a szolgáltatott adatok és információk alapján megítéli, hogy szükséges-e a termék betiltása. Az országos tisztifőorvos a dohányzási célú gyógynövénytermékekre vonatkozó bejelentések vizsgálatát követően – amennyiben a termék betiltása nem szükséges – a benyújtást követő 60 napon belül igazolást állít ki. Ha az országos tisztifőorvos 60 napon belül nem nyilatkozik, úgy a bejelentett termék forgalomba hozható és forgalmazható.
 
-(6) A dohányzási célú gyógynövénytermékek gyártásában felhasznált összetevőkkel, azok mennyiségével, valamint az ezek változásával kapcsolatban a (3) és (4) bekezdés szerint benyújtott információkat az NNGYK a honlapján közzéteszi. A közzététel során a gazdasági szereplő által megjelölt üzleti titok védelmére tekintettel kell lenni.
+(6)[^88] A dohányzási célú gyógynövénytermékek gyártásában felhasznált összetevőkkel, azok mennyiségével, valamint az ezek változásával kapcsolatban a (3) és (4) bekezdés szerint benyújtott információkat az ONI a honlapján közzéteszi. A közzététel során a gazdasági szereplő által megjelölt üzleti titok védelmére tekintettel kell lenni.
 
-[^85]: A 18/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15. §-a iktatta be, szövege a 120/2024. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^87]: A 18/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15. §-a iktatta be, szövege a 120/2024. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^88]: A 18/C. § (6) bekezdése a 350/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
