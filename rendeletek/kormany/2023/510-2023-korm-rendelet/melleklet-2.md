@@ -2,7 +2,7 @@
 
 1. Közegészségügyi-technológiai szabályzat tartalmi követelményei
 
-1.1.[^55] A 3-as és a 2/b típusú, valamint a legfeljebb 6 fő megengedett egyidejű legnagyobb terhelésű fürdési célú létesítményt tartalmazó 2/a típusú közhasználatú fürdő esetén
+1.1.[^72] A 3-as és a 2/b típusú, valamint a legfeljebb 6 fő megengedett egyidejű legnagyobb terhelésű fürdési célú létesítményt tartalmazó 2/a típusú közhasználatú fürdő esetén
 
 1.1.1. a fürdő általános leírása tartalmazza
 
@@ -76,7 +76,7 @@
 
 1.1.5.4. a tűzvédelmi előírásokat.
 
-1.2.[^56] Az 1-es típusú közhasználatú fürdő és a 6 fő megengedett egyidejű legnagyobb terhelést meghaladó fürdési célú létesítményt tartalmazó 2/a típusú közhasználatú fürdő esetén továbbá
+1.2.[^73] Az 1-es típusú közhasználatú fürdő és a 6 fő megengedett egyidejű legnagyobb terhelést meghaladó fürdési célú létesítményt tartalmazó 2/a típusú közhasználatú fürdő esetén továbbá
 
 1.2.1. üzemvitel, technológia és normatívákra vonatkozó rész az 1.1. alpontban előírtakon túl tartalmazza
 
@@ -100,7 +100,7 @@
 
 1.2.1.2.4. a vegyszeradagolók adatai és az adagolt vegyszerek specifikációi és azok jelentési kötelezettségei, a vegyszertárolók kialakítási követelményeit, a vegyszerútvonal leírását és az esetlegesen alkalmazott, a vegyszertovábbításra használt eszközök megadását;
 
-1.2.1.2.5.[^57]
+1.2.1.2.5.[^74]
 
 1.2.1.3. a személyzeti létszámra és a személyzet feladataira vonatkozó előírásokat, különös tekintettel a fürdési célú létesítmény felügyeletre és elsősegélynyújtásra vonatkozó követelményekre;
 
@@ -108,7 +108,7 @@
 
 1.2.1.5. a forgalomszabályzásra és számlálásra bevezetett rendszabályokat és módszereket;
 
-1.2.1.6.[^58] a jogszabály szerint elkészített munkahelyi kockázatértékelés kémiai kockázatokra vonatkozó becsléseinek kapcsolódó eredményeit;
+1.2.1.6.[^75] a jogszabály szerint elkészített munkahelyi kockázatértékelés kémiai kockázatokra vonatkozó becsléseinek kapcsolódó eredményeit;
 
 1.2.2. jogszabály szerinti orvosi vizsgálatokra vonatkozó dokumentáció tárolási helye.
 
@@ -196,7 +196,7 @@
 
 2.5.8. a felhasznált vegyszereket és azok mennyiségét.
 
-[^55]: A 2. melléklet 1. pont 1.1. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
-[^56]: A 2. melléklet 1. pont 1.2. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^57]: A 2. melléklet 1. pont 1.2. alpont 1.2.1. pont 1.2.1.2. alpont 1.2.1.2.5. pontját a 161/2025. (VI. 23.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
-[^58]: A 2. melléklet 1. pont 1.2. alpont 1.2.1. pont 1.2.1.6. alpontját a 161/2025. (VI. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^72]: A 2. melléklet 1. pont 1.1. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^73]: A 2. melléklet 1. pont 1.2. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^74]: A 2. melléklet 1. pont 1.2. alpont 1.2.1. pont 1.2.1.2. alpont 1.2.1.2.5. pontját a 161/2025. (VI. 23.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
+[^75]: A 2. melléklet 1. pont 1.2. alpont 1.2.1. pont 1.2.1.6. alpontját a 161/2025. (VI. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.

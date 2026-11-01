@@ -2,7 +2,7 @@
 
 1. Kockázatértékelés közhasználatú fürdőben
 
-1.1. A kockázatértékelés célja, hogy a közhasználatú fürdő üzemeltetője a közhasználatú fürdő esetében azonosítani tudja a fürdőzőkre vonatkozó legfontosabb mikrobiológiai, fizikai és kémiai kockázati tényezőket, és kidolgozza a jogszabályi előírások és műszaki szabályozások, szabványok figyelembevételével a fürdőzők védelmében szükséges kezelési tervet. A kockázatértékelési dokumentum a közegészségügyi-technológia szabályzat részét is képezheti. 1-es és 2/a típusú közhasználatú fürdő kockázatértékelésének tartalmát az MSZ EN 15288-2 vagy az azt helyettesítő újabb szabvány tartalmazza. 2/b és 3-as típusú közhasználatú fürdők egyszerűsített kockázatértékelését az NNGYK által kidolgozott módszertani útmutató alapján kell elvégezni. A munkavállalókra vonatkozó előírásokat és a munkavállalókra vonatkozó kockázatértékelés elkészítését a munkavédelemről szóló törvény tartalmazza.
+1.1.[^76] A kockázatértékelés célja, hogy a közhasználatú fürdő üzemeltetője a közhasználatú fürdő esetében azonosítani tudja a fürdőzőkre vonatkozó legfontosabb mikrobiológiai, fizikai és kémiai kockázati tényezőket, és kidolgozza a jogszabályi előírások és műszaki szabályozások, szabványok figyelembevételével a fürdőzők védelmében szükséges kezelési tervet. A kockázatértékelési dokumentum a közegészségügyi-technológia szabályzat részét is képezheti. 1-es és 2/a típusú közhasználatú fürdő kockázatértékelésének tartalmát az MSZ EN 15288-2 vagy az azt helyettesítő újabb szabvány tartalmazza. 2/b és 3-as típusú közhasználatú fürdők egyszerűsített kockázatértékelését az ONI által kidolgozott módszertani útmutató alapján kell elvégezni. A munkavállalókra vonatkozó előírásokat és a munkavállalókra vonatkozó kockázatértékelés elkészítését a munkavédelemről szóló törvény tartalmazza.
 
 1.2. A közhasználatú fürdő üzemeltetőjének felelőssége:
 
@@ -59,3 +59,5 @@
 1.5.9. takarítási és fertőtlenítési utasítások leírása,
 
 1.5.10. monitoring eredmények szerepeltetése, trendelemzésre alkalmas módon.
+
+[^76]: A 3. melléklet 1. pont 1.1. alpontja a 381/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

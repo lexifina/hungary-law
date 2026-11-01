@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-510-20-
 | 2024-03-20 | 2023-510-20-22.3 | 2010. évi CXXX. törvény |
 | 2024-11-07 | 2023-510-20-22.4 | 317/2024. (XI. 6.) Korm. rendelet |
 | 2025-06-24 | 2023-510-20-22.5 | 161/2025. (VI. 23.) Korm. rendelet |
+| 2026-11-01 | 2023-510-20-22.6 | 381/2026. (X. 29.) Korm. rendelet |

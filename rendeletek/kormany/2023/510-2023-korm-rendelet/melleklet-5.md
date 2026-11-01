@@ -24,7 +24,7 @@ Közhasználatú fürdők közegészségügyi előírásai
 
 1.11. Szervezett csecsemőúszás és kisgyermekek gyógyászati foglalkozása az 1.8. alpontban előírtak betartásával, csak más fürdővendégektől térben vagy időben elkülönítetten végezhető. A foglalkozás előtt és után, a többi fürdőző medencébe engedése előtt a fürdési célú létesítmény vizét egyszer teljesen át kell forgatni. A fürdővizet 29–32 °C hőmérséklet között szükséges szabályozni. A levegő hőmérséklete nem lehet alacsonyabb 27 °C-nál. A bakteriológiai megfelelőség biztosítása érdekében a fertőtlenítőszer koncentrációját a 6. melléklet 4. táblázatában rögzített tartományban szükséges tartani, amelyet minden foglalkozás megkezdése előtt ellenőrizni kell. A határérték feletti kötött klórtartalom vagy a fenti feltételek nemteljesülése esetén a foglalkozás nem tartható meg.
 
-1.12. [^63] A csecsemőúszás során a csecsemőn, a felügyelő felnőtt kísérőn és a foglalkozás vezetőjén kívül a medencében más személy nem tartózkodhat. A csecsemőúszás során a medencében tartózkodók létszáma nem haladhatja meg a jelen rendeletben meghatározott, az adott medence megengedett egyidejű legnagyobb terhelésének 75%-át.
+1.12. [^81] A csecsemőúszás során a csecsemőn, a felügyelő felnőtt kísérőn és a foglalkozás vezetőjén kívül a medencében más személy nem tartózkodhat. A csecsemőúszás során a medencében tartózkodók létszáma nem haladhatja meg a jelen rendeletben meghatározott, az adott medence megengedett egyidejű legnagyobb terhelésének 75%-át.
 
 1.13. A fürdési célú létesítmények használatára vonatkozó további korlátozást a fürdő üzemeltetője saját házirendjében előírhat.
 
@@ -32,4 +32,4 @@ Közhasználatú fürdők közegészségügyi előírásai
 
 1.15. A közhasználatú fürdő őrzésének ellátására csak érvényes állatorvosi igazolással rendelkező kutya alkalmazható. Őrkutya csak a fürdő üzemszünetében lehet szabadon a fürdő területén, de a vízbe ekkor sem engedhető be, továbbá esetleges ürülékét még nyitás előtt fel kell takarítani, valamint annak helyét fertőtleníteni kell. Üzemidőben is ellátható az őrkutyás szolgálat, azzal a korlátozással, hogy a kutya csak az illetéktelen behatolás megakadályozásához szükséges területen és csak pórázon vezetve tartózkodhat, a fürdési célú létesítmény közelébe nem vihető.
 
-[^63]: Az 5. melléklet 1.12. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
+[^81]: Az 5. melléklet 1.12. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.

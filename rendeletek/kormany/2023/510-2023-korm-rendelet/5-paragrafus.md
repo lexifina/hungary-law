@@ -10,7 +10,7 @@ a) közműves ivóvíz és egyedi kút vagy kutak vizének keverése csak a jóv
 
 b) egyedi kút kórokozómentes vize vagy kutak kevert vize vagy egyedi kút és közműves ivóvíz kevert vize akkor használható, ha eredeti állapotában vagy elkülönített műtárgyban végzett előkezelést követően megfelel a jogszabályban rögzített ivóvízminőségi követelményeknek, vagy
 
-c) egyedi kút vize csak az NNGYK támogató szakhatósági állásfoglalásának megléte esetén, az abban meghatározott feltételek betartása mellett használható, a szakhatósági állásfoglalásban meghatározott követelményeket a közhasználatú fürdő közegészségügyi-technológiai szabályzatában szerepeltetni kell.
+c)[^15] egyedi kút vize csak az ONI támogató szakhatósági állásfoglalásának megléte esetén, az abban meghatározott feltételek betartása mellett használható, a szakhatósági állásfoglalásban meghatározott követelményeket a közhasználatú fürdő közegészségügyi-technológiai szabályzatában szerepeltetni kell.
 
 (4) Elismert gyógyvíz, gyógyhatású víz vízkezelés nélkül kád típusú medence esetén töltő-ürítő üzemmódban, nem medencés jellegű fürdési célú létesítmények üzemeltetésére csak átfolyó rendszerben használható.
 
@@ -20,7 +20,7 @@ c) egyedi kút vize csak az NNGYK támogató szakhatósági állásfoglalásána
 
 (7) Az elismert gyógyhatású vízzel töltött, szűrő-forgató berendezés üzemeltetésének kötelezettsége alól felmentett medencék esetében a tápvíz összetételének azonosnak kell lennie a közegészségügyi-technológiai szabályzatban szereplő gyógyhatású víz összetétellel a természetes gyógytényezőkről szóló kormányrendeletben felsorolt, az engedélyezés alapjául szolgáló gyógyhatású alkotórészek koncentrációjának tekintetében, a természetes ingadozás és a mérési bizonytalanság határain belül, mely maximum 20% változás lehet az engedélyezett bázisértékhez képest.
 
-(8)[^13] A fürdési célú létesítményben, elismert ásvány- és gyógyvíz vagy egyedi összetételű tápvíz felhasználása esetén a medencevízre és szűrt vízre vonatkozó előírásoktól való eltérésről az illetékes egészségügyi államigazgatási szerv – az NNGYK szakhatósági állásfoglalása alapján – a közegészségügyi-technológiai szabályzatot jóváhagyó határozatában dönthet.
+(8)[^16] A fürdési célú létesítményben, elismert ásvány- és gyógyvíz vagy egyedi összetételű tápvíz felhasználása esetén a medencevízre és szűrt vízre vonatkozó előírásoktól való eltérésről az illetékes egészségügyi államigazgatási szerv – az ONI szakhatósági állásfoglalása alapján – a közegészségügyi-technológiai szabályzatot jóváhagyó határozatában dönthet.
 
 (9) A közhasználatú fürdő nem közműves vízellátását biztosító kutak és források védelmére védőterületet kell létesíteni és fenntartani.
 
@@ -28,4 +28,5 @@ c) egyedi kút vize csak az NNGYK támogató szakhatósági állásfoglalásána
 
 (11) A víznyerőhely védőterületének, védősávjának kialakítására és védőidom alkalmazására a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló rendelet rendelkezései az irányadóak.
 
-[^13]: Az 5. § (8) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: Az 5. § (3) bekezdés c) pontja a 381/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (8) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 4. §-ával megállapított, a 381/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
