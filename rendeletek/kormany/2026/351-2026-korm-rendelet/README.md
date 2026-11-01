@@ -1,0 +1,9 @@
+# 351/2026. (X. 29.) Korm. rendelet
+
+a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013. (VI. 19.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-351-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2026-11-01 | 2026-351-20-22.1 | 351/2026. (X. 29.) Korm. rendelet |
