@@ -1,0 +1,1 @@
+12. § Az e rendelet hatálybalépését megelőzően az NNGYK részére az elektronikus aláíráshoz, továbbá az elektronikus bélyegzőhöz kiadott, az elektronikus ügyintézés keretében alkalmazott tanúsítványok 2027. január 31. napjáig az OGYI eljárása során továbbra is érvényesek.
