@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-448-20-
 | 2023-08-01 | 2017-448-20-22.4 | 334/2023. (VII. 20.) Korm. rendelet |
 | 2024-06-18 | 2017-448-20-22.5 | 231/2022. (VI. 28.) Korm. rendelet |
 | 2025-07-01 | 2017-448-20-22.6 | 155/2025. (VI. 23.) Korm. rendelet |
+| 2026-11-01 | 2017-448-20-22.7 | 366/2026. (X. 29.) Korm. rendelet |
