@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-12-20-2
 | 2026-03-13 | 2020-12-20-22.43 | 57/2026. (III. 12.) Korm. rendelet |
 | 2026-07-01 | 2020-12-20-22.44 | 96/2026. (VI. 25.) Korm. rendelet |
 | 2026-09-25 | 2020-12-20-22.45 | 217/2026. (IX. 22.) Korm. rendelet |
+| 2026-11-01 | 2020-12-20-22.46 | 84/2025. (IV. 22.) Korm. rendelet |
