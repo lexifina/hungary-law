@@ -28,7 +28,7 @@
 
 13. Nemzeti Egészségbiztosítási Alapkezelő
 
-14. Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+14.[^13] Országos Gyógyszerészeti Intézet
 
 15. Nemzeti Szakértői és Kutató Központ
 
@@ -41,3 +41,4 @@
 19. Szociális és Gyermekvédelmi Főigazgatóság
 
 [^12]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. számú melléklet 14. pontja a 333/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
