@@ -1,22 +1,22 @@
 |  | A | B |
 
-| 1. | Vármegyei kormányhivatal[^122] | Illetékességi terület |
+| 1. | Vármegyei kormányhivatal[^125] | Illetékességi terület |
 
-| 2. | Győr-Moson-Sopron vármegyei Kormányhivatal[^123] | Győr-Moson-Sopron vármegye, Komárom-Esztergom vármegye, Vas vármegye, Zala vármegye[^124] |
+| 2. | Győr-Moson-Sopron vármegyei Kormányhivatal[^126] | Győr-Moson-Sopron vármegye, Komárom-Esztergom vármegye, Vas vármegye, Zala vármegye[^127] |
 
-| 3. | Fejér vármegyei Kormányhivatal[^125] | Fejér vármegye, Tolna vármegye, Veszprém vármegye[^126] |
+| 3. | Fejér vármegyei Kormányhivatal[^128] | Fejér vármegye, Tolna vármegye, Veszprém vármegye[^129] |
 
-| 4. | Baranya vármegyei Kormányhivatal[^127] | Baranya vármegye, Somogy vármegye[^128] |
+| 4. | Baranya vármegyei Kormányhivatal[^130] | Baranya vármegye, Somogy vármegye[^131] |
 
-| 5. | Pest vármegyei Kormányhivatal[^129] | Budapest főváros, Pest vármegye, Nógrád vármegye[^130] |
+| 5. | Pest vármegyei Kormányhivatal[^132] | Budapest főváros, Pest vármegye, Nógrád vármegye[^133] |
 
-| 6. | Hajdú-Bihar vármegyei Kormányhivatal[^131] | Hajdú-Bihar vármegye, Békés vármegye, Szabolcs-Szatmár-Bereg vármegye[^132] |
+| 6. | Hajdú-Bihar vármegyei Kormányhivatal[^134] | Hajdú-Bihar vármegye, Békés vármegye, Szabolcs-Szatmár-Bereg vármegye[^135] |
 
-| 7. | Borsod-Abaúj-Zemplén vármegyei Kormányhivatal[^133] | Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Jász-Nagykun-Szolnok vármegye[^134] |
+| 7. | Borsod-Abaúj-Zemplén vármegyei Kormányhivatal[^136] | Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Jász-Nagykun-Szolnok vármegye[^137] |
 
-| 8. | Csongrád-Csanád vármegyei Kormányhivatal[^135] | Csongrád-Csanád vármegye, Bács-Kiskun vármegye[^136] |
+| 8. | Csongrád-Csanád vármegyei Kormányhivatal[^138] | Csongrád-Csanád vármegye, Bács-Kiskun vármegye[^139] |
 
-8. melléklet a 624/2022. (XII. 30.) Korm. rendelethez[^137]
+8. melléklet a 624/2022. (XII. 30.) Korm. rendelethez[^140]
 
 A környezetvédelmi hatóság engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
@@ -48,19 +48,19 @@ A környezetvédelmi hatóság engedélyezési eljárásában az eljáró hatós
 
 ”
 
-[^122]: A 7. mellékletben foglalt táblázat A:1 mezője a 20. § (1) bekezdése szerint módosított szöveg.
-[^123]: A 7. mellékletben foglalt táblázat A:2 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^124]: A 7. mellékletben foglalt táblázat B:2 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^125]: A 7. mellékletben foglalt táblázat A:3 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^126]: A 7. mellékletben foglalt táblázat B:3 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^127]: A 7. mellékletben foglalt táblázat A:4 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^128]: A 7. mellékletben foglalt táblázat B:4 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^129]: A 7. mellékletben foglalt táblázat A:5 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^130]: A 7. mellékletben foglalt táblázat B:5 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^131]: A 7. mellékletben foglalt táblázat A:6 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^132]: A 7. mellékletben foglalt táblázat B:6 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^133]: A 7. mellékletben foglalt táblázat A:7 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^134]: A 7. mellékletben foglalt táblázat B:7 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^135]: A 7. mellékletben foglalt táblázat A:8 mezője a 20. § (3) bekezdése szerint módosított szöveg.
-[^136]: A 7. mellékletben foglalt táblázat B:8 mezője a 20. § (6) bekezdése szerint módosított szöveg.
-[^137]: A 8. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^125]: A 7. mellékletben foglalt táblázat A:1 mezője a 20. § (1) bekezdése szerint módosított szöveg.
+[^126]: A 7. mellékletben foglalt táblázat A:2 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^127]: A 7. mellékletben foglalt táblázat B:2 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^128]: A 7. mellékletben foglalt táblázat A:3 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^129]: A 7. mellékletben foglalt táblázat B:3 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^130]: A 7. mellékletben foglalt táblázat A:4 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^131]: A 7. mellékletben foglalt táblázat B:4 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^132]: A 7. mellékletben foglalt táblázat A:5 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^133]: A 7. mellékletben foglalt táblázat B:5 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^134]: A 7. mellékletben foglalt táblázat A:6 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^135]: A 7. mellékletben foglalt táblázat B:6 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^136]: A 7. mellékletben foglalt táblázat A:7 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^137]: A 7. mellékletben foglalt táblázat B:7 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^138]: A 7. mellékletben foglalt táblázat A:8 mezője a 20. § (3) bekezdése szerint módosított szöveg.
+[^139]: A 7. mellékletben foglalt táblázat B:8 mezője a 20. § (6) bekezdése szerint módosított szöveg.
+[^140]: A 8. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 31. §-a iktatta be.
