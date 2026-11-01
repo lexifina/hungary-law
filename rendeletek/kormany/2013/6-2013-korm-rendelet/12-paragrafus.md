@@ -1,4 +1,4 @@
-## 11. §[^53] Ha Közösségi Gyors Tájékoztatási Rendszer (RAPEX) értesítés vegyi anyag vagy készítmény forgalmazásának vagy használatának korlátozására irányul, akkor az NKFH 3 napon belül értesíti az országos tisztifőorvost a szükséges értékelés és intézkedések megtételére. Az országos tisztifőorvos 10 napon belül az NKFH rendelkezésére bocsátja a szóban forgó vegyi anyaggal vagy készítménnyel, valamint annak ismert és rendelkezésre álló helyettesítőivel kapcsolatos lényeges adatokra vonatkozó összegzést vagy tájékoztatást, amelyet az NKFH megküld az Európai Bizottságnak.
+## 11. §[^55] Ha Közösségi Gyors Tájékoztatási Rendszer (RAPEX) értesítés vegyi anyag vagy készítmény forgalmazásának vagy használatának korlátozására irányul, akkor az NKFH 3 napon belül értesíti az országos tisztifőorvost a szükséges értékelés és intézkedések megtételére. Az országos tisztifőorvos 10 napon belül az NKFH rendelkezésére bocsátja a szóban forgó vegyi anyaggal vagy készítménnyel, valamint annak ismert és rendelkezésre álló helyettesítőivel kapcsolatos lényeges adatokra vonatkozó összegzést vagy tájékoztatást, amelyet az NKFH megküld az Európai Bizottságnak.
 
 ## 10. Piacfelügyeleti programok
 
@@ -6,4 +6,4 @@
 
 (2) A programok és a piacfelügyeleti tevékenység koordinálása érdekében a fogyasztóvédelemért felelős miniszter az érintett tárcák és hatóságok részvételével Piacfelügyeleti Munkacsoportot működtet.
 
-[^53]: A 11. § a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés c), g) és h) pontja, a 328/2024. (XI. 14.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^55]: A 11. § a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés c), g) és h) pontja, a 328/2024. (XI. 14.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.

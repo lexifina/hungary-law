@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-22
 | 2025-06-28 | 2013-6-20-22.21 | 531/2022. (XII. 19.) Korm. rendelet |
 | 2025-12-01 | 2013-6-20-22.28 | 344/2025. (X. 31.) Korm. rendelet |
 | 2026-01-01 | 2013-6-20-22.29 | 415/2025. (XII. 23.) Korm. rendelet |
+| 2026-11-01 | 2013-6-20-22.30 | 349/2026. (X. 29.) Korm. rendelet |
