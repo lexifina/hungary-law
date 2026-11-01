@@ -14,7 +14,7 @@ a 2. melléklet szerinti adattartalommal évente adatgyűjtést (a továbbiakban
 
 (3)[^2] Az (1) bekezdés szerinti, rendelkezésére álló adatokat a területi környezetvédelmi hatóság, a NÉBIH és a népegészségügyi járási hivatal a tárgyévet követő év május 31. napjáig megküldi a miniszternek.
 
-(4)[^3] A népegészségügyi járási hivatal a (3) bekezdés szerinti adatokat másolatban a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak is megküldi.
+(4)[^3] A népegészségügyi járási hivatal a (3) bekezdés szerinti adatokat másolatban az Országos Népegészségügyi Intézet részére is megküldi.
 
 [^2]: A 3. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^3]: A 3. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^3]: A 3. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 77. §-ával megállapított, a 373/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

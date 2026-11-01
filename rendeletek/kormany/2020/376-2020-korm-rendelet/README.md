@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-376-20-
 | 2023-12-31 | 2020-376-20-22.6 | 633/2023. (XII. 23.) Korm. rendelet |
 | 2024-12-31 | 2020-376-20-22.7 | 463/2024. (XII. 30.) Korm. rendelet |
 | 2025-12-31 | 2020-376-20-22.8 | 472/2025. (XII. 30.) Korm. rendelet |
+| 2026-11-01 | 2020-376-20-22.9 | 463/2024. (XII. 30.) Korm. rendelet |
