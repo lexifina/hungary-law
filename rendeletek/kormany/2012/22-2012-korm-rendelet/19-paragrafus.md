@@ -1,3 +1,3 @@
-19. §[^56]
+19. §[^61]
 
-[^56]: A 19. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^61]: A 19. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

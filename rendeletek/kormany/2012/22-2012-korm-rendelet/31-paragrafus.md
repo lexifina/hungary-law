@@ -1,3 +1,3 @@
-31. §[^69]
+31. §[^74]
 
-[^69]: A 31. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^74]: A 31. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

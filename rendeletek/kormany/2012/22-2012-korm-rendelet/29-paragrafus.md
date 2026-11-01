@@ -1,6 +1,6 @@
-## 10.[^66] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
+## 10.[^71] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
 
-29. §[^67]
+29. §[^72]
 
-[^66]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^67]: A 29. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^71]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^72]: A 29. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.

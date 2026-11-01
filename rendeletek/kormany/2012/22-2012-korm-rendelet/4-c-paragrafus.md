@@ -1,4 +1,4 @@
-## 4/C. §[^22] A NÉBIH halgazdálkodási igazgatási feladatai körében
+## 4/C. §[^27] A NÉBIH halgazdálkodási igazgatási feladatai körében
 
 a) működteti az Országos Halgazdálkodási Adattárat,
 
@@ -12,4 +12,4 @@ e) fertőző halbetegség gyanúja esetén elvégzi a vízből, a haltetemből �
 
 f) ellátja az Atlanti Tonhal Védelmére Létrehozott Nemzetközi Bizottság (ICCAT) által kialakított, a kékúszójú tonhal fogásainak nyilvántartására szolgáló Electronic Bluefin Catch Document (eBCD) rendszer kapcsolattartói feladatait.
 
-[^22]: A 4/C. §-t a 111/2020. (IV. 14.) Korm. rendelet 7. §-a iktatta be.
+[^27]: A 4/C. §-t a 111/2020. (IV. 14.) Korm. rendelet 7. §-a iktatta be.

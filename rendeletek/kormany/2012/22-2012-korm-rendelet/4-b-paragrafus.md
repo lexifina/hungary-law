@@ -1,4 +1,4 @@
-## 4/B. §[^21] A NÉBIH erdészeti igazgatási feladatai körében
+## 4/B. §[^26] A NÉBIH erdészeti igazgatási feladatai körében
 
 a) szolgáltatja a miniszter részére a kormányzati munka ellátásához szükséges, a faanyag-kereskedelmi lánc hatósági tevékenységéhez kapcsolódó és további erdészeti hatósági tevékenysége során keletkezett adatokat, elemzéseket,
 
@@ -18,4 +18,4 @@ h) kialakítja és fejleszti a faanyag-kereskedelmi lánc felügyeletéhez kapcs
 
 i) gondoskodik az általa a faanyag-kereskedelmi lánc hatósági felügyeletéhez kapcsolódóan vezetett nyilvántartások összhangjának megteremtéséről más közhiteles nyilvántartásokkal.
 
-[^21]: A 4/B. § a 159/2019. (VI. 28.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^26]: A 4/B. § a 159/2019. (VI. 28.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

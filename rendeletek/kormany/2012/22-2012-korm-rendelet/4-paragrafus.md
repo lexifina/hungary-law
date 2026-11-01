@@ -32,20 +32,23 @@ n)[^13] részt vesznek a feladatkörüket érintő átruházott és együttműk�
 
 o) az elvégzett feladataikról közvetlenül jelentenek a NÉBIH-nek.
 
-(2)[^14] A megyei kormányhivatalok a NÉBIH által kiadott szakmai eljárásrendek, útmutatók, minőségirányítási elvek, valamint a NÉBIH által kötött megállapodások figyelembevételével látják el feladataikat.
+p)[^14] a NÉBIH által kért adatszolgáltatást közvetlenül megküldik a NÉBIH-nek.
 
-(3)[^15]
+(2)[^15] A megyei kormányhivatalok a NÉBIH által kiadott szakmai eljárásrendek, útmutatók, minőségirányítási elvek, valamint a NÉBIH által kötött megállapodások figyelembevételével látják el feladataikat.
 
-(4)[^16]
+(3)[^16]
 
-(5)[^17]
+(4)[^17]
+
+(5)[^18]
 
 [^9]: A 4. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 195. § (2) bekezdésével megállapított, a 273/2026. (X. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^10]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés a) pontja, a 273/2026. (X. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^11]: [A 4. § (1) bekezdés b) pontjának a 42/2014. (II. 24.) Korm. rendelet 19. § (5) bekezdés b) pontjával elrendelt módosítása, amely szerint hatályát veszti az „önállóan működő és gazdálkodó” szövegrész, nem vezethető át.]
 [^12]: A 4. § (1) bekezdés e) pontja a 319/2012. (XI. 13.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
 [^13]: A 4. § (1) bekezdés n) pontja a 328/2016. (X. 28.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^14]: A 4. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés b) pontja, a 273/2026. (X. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^15]: A 4. § (3) bekezdését a 70/215. (III. 30.) Korm. rendelet 191. § (7) bekezdése hatályon kívül helyezte.
-[^16]: A 4. § (4) bekezdését a 328/2016. (X. 28.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
+[^14]: A 4. § (1) bekezdés p) pontját a 273/2026. (X. 9.) Korm. rendelet 2. §-a iktatta be.
+[^15]: A 4. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés b) pontja, a 273/2026. (X. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdését a 70/215. (III. 30.) Korm. rendelet 191. § (7) bekezdése hatályon kívül helyezte.
+[^17]: A 4. § (4) bekezdését a 328/2016. (X. 28.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^18]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
