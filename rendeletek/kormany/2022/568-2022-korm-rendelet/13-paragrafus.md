@@ -33,3 +33,7 @@ b) az álláshelyen ellátandó feladatok szakszerű és hatékony ellátásána
 c) a miniszter által kiadott módszertani iránymutatás
 
 figyelembevételével.
+
+(9)[^10] A kormányhivatalok agrárkár-megállapító, mezőgazdasági haszonállatok állatjóléte vonatkozásában állatvédelmi, borászati, élelmiszerlánc-felügyeleti, – a végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében történő földárverés és pályáztatás kivételével – földművelésügyi igazgatási, halgazdálkodási, mezőgazdasági igazgatási, növénytermesztési, pálinkaellenőrzési, talajvédelmi, telepítési, tenyésztési és vadászati feladat- és hatáskörben eljáró szakmai vezetői kinevezési, illetve felmentési jogát a kormánymegbízott a NÉBIH elnökének egyetértésével gyakorolja.
+
+[^10]: A 13. § (9) bekezdését a 273/2026. (X. 9.) Korm. rendelet 19. §-a iktatta be.

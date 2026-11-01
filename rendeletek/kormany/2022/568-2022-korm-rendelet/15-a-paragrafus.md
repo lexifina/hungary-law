@@ -1,3 +1,3 @@
-15/A. §[^8] Az a kormánytisztviselő, aki kormányhivatalnál a munkáltatói jogkör gyakorlója által kijelölt, törvényességi felügyelet gyakorlását szolgáló álláshelyet, illetve munkakört tölt be (a továbbiakban együtt: törvényességi felügyelet gyakorlását szolgáló munkakör), a jogszabályok preambulumával összefüggő követelményeket ismertető továbbképzést köteles teljesíteni.
+15/A. §[^11] Az a kormánytisztviselő, aki kormányhivatalnál a munkáltatói jogkör gyakorlója által kijelölt, törvényességi felügyelet gyakorlását szolgáló álláshelyet, illetve munkakört tölt be (a továbbiakban együtt: törvényességi felügyelet gyakorlását szolgáló munkakör), a jogszabályok preambulumával összefüggő követelményeket ismertető továbbképzést köteles teljesíteni.
 
-[^8]: A 15/A. §-t a 200/2024. (VII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^11]: A 15/A. §-t a 200/2024. (VII. 29.) Korm. rendelet 9. §-a iktatta be.

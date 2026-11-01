@@ -17,3 +17,10 @@ d) a kormányhivatalok által használt informatikai rendszerek üzemeltetését
 (5) A miniszter módszertani útmutatóban határozhatja meg a szakmai irányító miniszterek és a kormányhivatalok közötti kapcsolattartás részletes szabályait.
 
 (6) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a szakmai irányító miniszter jogosult az Ákr. szerinti, a felügyeleti szervre ruházott jogkörök gyakorlására, ha a döntés a kormányhivatal hatáskörébe tartozik.
+
+(7)[^5] Az agrárkár-megállapító, mezőgazdasági haszonállatok jóléte vonatkozásában állatvédelmi, borászati, élelmiszerlánc-felügyeleti, – a végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében történő földárverés és pályáztatás kivételével – földművelésügyi igazgatási, halgazdálkodási, mezőgazdasági igazgatási, növénytermesztési, pálinkaellenőrzési, talajvédelmi, telepítési és tenyésztési feladatkörében eljáró megyei kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekben a Kit. 40. § (4) bekezdés c) pontja szerinti hatásköröket a NÉBIH gyakorolja.
+
+(8)[^6] A NÉBIH – a (4) és (5) bekezdésben foglaltaktól eltérően – közvetlenül tartja a kapcsolatot a (7) bekezdés szerinti feladat- és hatáskörben eljáró kormányhivatalokkal.
+
+[^5]: A 7. § (7) bekezdését a 273/2026. (X. 9.) Korm. rendelet 18. §-a iktatta be.
+[^6]: A 7. § (8) bekezdését a 273/2026. (X. 9.) Korm. rendelet 18. §-a iktatta be.

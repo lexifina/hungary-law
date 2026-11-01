@@ -24,10 +24,10 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (10) A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208/A. § (2) bekezdése szerinti szabálysértési hatóságként a kormányhivatalt jelöli ki.
 
-(11)[^26] A Kormány a virtuális kormányablak mint új közigazgatási környezet (virtuális ügyintézési platform) kialakításával kapcsolatos feladatok ellátására a Bács-Kiskun Vármegyei Kormányhivatalt jelöli ki.
+(11)[^29] A Kormány a virtuális kormányablak mint új közigazgatási környezet (virtuális ügyintézési platform) kialakításával kapcsolatos feladatok ellátására a Bács-Kiskun Vármegyei Kormányhivatalt jelöli ki.
 
 (12) A Kormány a kormányhivatalokat érintő, az állampolgári élethelyzetekhez kapcsolódó szolgáltatások, valamint automatizált folyamattámogató rendszer kialakításával kapcsolatos feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
 (13) A Kormány a társasházak működésével összefüggő adatok egycsatornás elérhetőségének kialakításával kapcsolatos feladatok ellátására a Bács-Kiskun Vármegyei Kormányhivatalt jelöli ki.
 
-[^26]: A 46. § (11) bekezdése a 242/2025. (VII. 31.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^29]: A 46. § (11) bekezdése a 242/2025. (VII. 31.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.

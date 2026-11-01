@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-568-20-
 | 2025-12-31 | 2022-568-20-22.18 | 340/2025. (X. 31.) Korm. rendelet |
 | 2026-01-01 | 2022-568-20-22.19 | 351/2025. (XI. 12.) Korm. rendelet |
 | 2026-10-02 | 2022-568-20-22.20 | 224/2026. (X. 1.) Korm. rendelet |
+| 2026-11-01 | 2022-568-20-22.21 | 273/2026. (X. 9.) Korm. rendelet |
