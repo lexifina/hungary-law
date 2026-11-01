@@ -120,7 +120,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 28. Szociális és Gyermekvédelmi Főigazgatóság
 
-29.[^288] Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+29.[^288]
 
 30.[^289] Agrárminisztérium
 
@@ -183,7 +183,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 [^285]: A 3. melléklet 22. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^286]: A 3. melléklet 23. pontja a 70/2021. (II. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^287]: A 3. melléklet 27. pontját a 306/2023. (VII. 11.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^288]: A 3. melléklet 29. pontja a 334/2023. (VII. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^288]: A 3. melléklet 29. pontját a 335/2026. (X. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^289]: A 3. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
 [^290]: [A 3. melléklet 32. pontjában az 591/2023. (XII. 20.) Korm. rendelet 4. §-a által elrendelt módosítás nem vezethető át.]
 [^291]: A 3. melléklet 35. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte, újonnan a 306/2023. (VII. 11.) Korm. rendelet 5. § b) pontja iktatta be.
