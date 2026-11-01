@@ -16,7 +16,7 @@ f)[^8] ellátja a (3c) bekezdés szerinti szolgáltatási megállapodásban megh
 
 fa)[^9]
 
-fb)[^10] a Nemzeti Adó- és Vámhivatal, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, a fővárosi és vármegyei kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Védelmi Igazgatási Hivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
+fb)[^10] a Nemzeti Adó- és Vámhivatal, az Országos Népegészségügyi Intézet, az Országos Gyógyszerészeti Intézet, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, a fővárosi és vármegyei kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Védelmi Igazgatási Hivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
 
 g)[^11] végzi a jogszabályban meghatározott, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 26. pont b) alpontja szerinti központosított közbeszerzési feladatokat,
 
@@ -97,7 +97,7 @@ megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóság
 [^7]: A 3. § (1) bekezdés d) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés f) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés f) pont fa) alpontját a 206/2025. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^10]: A 3. § (1) bekezdés f) pont fb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 41. §-ával megállapított, az 539/2023. (XII. 6.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés f) pont fb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 41. §-ával megállapított, az 539/2023. (XII. 6.) Korm. rendelet 2. §-a, a 358/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés g) pontja a 771/2021. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (1) bekezdés i) pontja a 771/2021. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
