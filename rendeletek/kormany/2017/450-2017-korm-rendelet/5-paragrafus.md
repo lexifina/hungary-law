@@ -6,17 +6,17 @@ b) amelynek forgalomba hozatalra engedélyezése iránti kérelmet valamely tag�
 
 (2) Az (1) bekezdést kell alkalmazni akkor is, ha a referencia-gyógyszer Magyarországon nem rendelkezik forgalomba hozatali engedéllyel. Ebben az esetben a kérelmezőnek a kérelemben meg kell jelölnie a referencia-gyógyszert engedélyező tagállam nevét.
 
-(3)[^5] Az NNGYK a referencia-gyógyszert engedélyező tagállamtól igazolást kér az engedélyezés tényéről, a referenciatermék teljes összetételéről és szükség esetén más releváns dokumentumokról.
+(3)[^5] Az OGYI a referencia-gyógyszert engedélyező tagállamtól igazolást kér az engedélyezés tényéről, a referenciatermék teljes összetételéről és szükség esetén más releváns dokumentumokról.
 
-(4)[^6] Ha más tagállam az NNGYK-t keresi meg a (3) bekezdés szerinti igazolás kiállítása érdekében, akkor az NNGYK köteles a megkeresést teljesíteni.
+(4)[^6] Ha más tagállam az OGYI-t keresi meg a (3) bekezdés szerinti igazolás kiállítása érdekében, akkor az OGYI köteles a megkeresést teljesíteni.
 
 (5) Ha valamely hatóanyag különböző sóit, észtereit, étereit, izomerjeit, izomerkeverékeit, komplexeit vagy származékait nem lehet egyazon hatóanyagnak tekinteni, mert tulajdonságaik jelentősen különböznek a biztonságosság, illetve hatásosság tekintetében, a kérelmezőnek az engedélyezett hatóanyag különböző sói, észterei vagy származékai biztonságosságára, illetve hatásosságára vonatkozó további bizonyítékokat kell benyújtania.
 
-(6)[^7] Nem szükséges bizonyítani a bioegyenértékűséget biohasznosulási vizsgálatokkal, ha a kérelmező igazolni tudja, hogy a generikus gyógyszer eleget tesz a vonatkozó kritériumoknak a megfelelő részletes, az Ügynökség bizottsága által kiadott és az NNGYK honlapján közzétett, a bioegyenértékűség vizsgálatáról szóló útmutatóban meghatározottak szerint.
+(6)[^7] Nem szükséges bizonyítani a bioegyenértékűséget biohasznosulási vizsgálatokkal, ha a kérelmező igazolni tudja, hogy a generikus gyógyszer eleget tesz a vonatkozó kritériumoknak a megfelelő részletes, az Ügynökség bizottsága által kiadott és az OGYI honlapján közzétett, a bioegyenértékűség vizsgálatáról szóló útmutatóban meghatározottak szerint.
 
 (7) Ha a gyógyszer nem generikus gyógyszer, vagy a bioegyenértékűsége biohasznosulási vizsgálatok útján nem igazolható, vagy megváltoztatták a hatóanyagot, hatóanyagokat, a terápiás javallatokat, a hatáserősséget, a gyógyszerformát vagy az alkalmazási módot a referencia-gyógyszerhez képest, akkor be kell nyújtani a megfelelő, a 3. § (2) bekezdés k) pont kb) és kc) alpontja szerinti vizsgálatok eredményeit.
 
-(8)[^8] Ha valamely biológiai gyógyszer, amely hasonlít a referencia biológiai gyógyszerre, nem felel meg a generikus gyógyszer fogalommeghatározásában foglalt feltételeknek, elsősorban a nyersanyagokkal kapcsolatos vagy a biológiai gyógyszer és a referencia biológiai gyógyszer gyártási folyamataiban mutatkozó különbségek miatt, a hasonló biológiai gyógyszerré minősüléshez meg kell adni a megfelelő, a 3. § (2) bekezdés k) pont kb) és kc) alpontja szerinti vizsgálatok eredményeit e feltételekre vonatkozóan, amely kiegészítő adatok típusának és mennyiségének meg kell felelnie az EüMr. 1. számú mellékletében és a vonatkozó részletes, az Ügynökség bizottsága által kiadott, az NNGYK honlapján közzétett útmutatóban megadott feltételeknek. A referencia-gyógyszer dokumentációjából az egyéb vizsgálatok és kísérletek eredményeit nem kell megadni.
+(8)[^8] Ha valamely biológiai gyógyszer, amely hasonlít a referencia biológiai gyógyszerre, nem felel meg a generikus gyógyszer fogalommeghatározásában foglalt feltételeknek, elsősorban a nyersanyagokkal kapcsolatos vagy a biológiai gyógyszer és a referencia biológiai gyógyszer gyártási folyamataiban mutatkozó különbségek miatt, a hasonló biológiai gyógyszerré minősüléshez meg kell adni a megfelelő, a 3. § (2) bekezdés k) pont kb) és kc) alpontja szerinti vizsgálatok eredményeit e feltételekre vonatkozóan, amely kiegészítő adatok típusának és mennyiségének meg kell felelnie az EüMr. 1. számú mellékletében és a vonatkozó részletes, az Ügynökség bizottsága által kiadott, az OGYI honlapján közzétett útmutatóban megadott feltételeknek. A referencia-gyógyszer dokumentációjából az egyéb vizsgálatok és kísérletek eredményeit nem kell megadni.
 
 (9) Az (1)–(3) bekezdés alkalmazásához szükséges tanulmányok és vizsgálatok, valamint az azokból adódó gyakorlati követelmények végrehajtása nem sértheti a szabadalmi jogokat vagy a gyógyszerekre vonatkozó kiegészítő szabadalmi oltalmi tanúsítványt.
 
@@ -26,7 +26,7 @@ b) amelynek forgalomba hozatalra engedélyezése iránti kérelmet valamely tag�
 
 (12) A forgalomba hozatali engedéllyel rendelkező gyógyszer esetén a forgalomba hozatali engedély jogosultja (a továbbiakban: jogosult) hozzájárulhat ahhoz, hogy felhasználják a gyógyszerre vonatkozó, a 3. § (2) bekezdés k) pontja szerinti dokumentációt vagy annak egy részét azzal a céllal, hogy elbírálják az olyan egyéb gyógyszerekre vonatkozó későbbi kérelmeket, amelyek a hatóanyagok tekintetében azonos minőségi és mennyiségi összetétellel rendelkeznek, és azonos a gyógyszerformájuk.
 
-[^5]: Az 5. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
-[^6]: Az 5. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) és c) pontja szerint módosított szöveg.
-[^7]: Az 5. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
-[^8]: Az 5. § (8) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdése a 368/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (4) bekezdése a 368/2026. (X. 29.) Korm. rendelet 1. § b) és c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (6) bekezdése a 368/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (8) bekezdése a 368/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

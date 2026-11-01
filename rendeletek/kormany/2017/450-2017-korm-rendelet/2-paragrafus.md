@@ -1,4 +1,4 @@
-## 2. § E rendelet alkalmazásában
+2. § E rendelet alkalmazásában
 
 1. segédanyag: a gyógyszer gyártása során a gyógyszerforma kialakításához és alkalmazásához szükséges megfelelő minőségű anyag;
 
