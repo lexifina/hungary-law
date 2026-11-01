@@ -1,4 +1,4 @@
-4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^401]
+4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^362]
 
 A növénytermesztési hatóságként több megyére kiterjedő illetékességgel eljáró kormányhivatalok illetékességi területe
 
@@ -40,4 +40,4 @@ II. Kertészeti szaporítóanyagokat érintő feladatok
 
 III. Erdészeti szaporítóanyagokat érintő feladatok
 
-[^401]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f) és j)-k) pontja, a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 3–4., 6. és 11. pontja szerint módosított szöveg.
+[^362]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f) és j)-k) pontja, a 273/2026. (X. 9.) Korm. rendelet 16. § (1) bekezdés 3., 4., 6. és 7. pontja szerint módosított szöveg.

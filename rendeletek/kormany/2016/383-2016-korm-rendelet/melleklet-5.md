@@ -10,6 +10,6 @@
 
 | 5. | Fejér Megyei Kormányhivatal | Fejér, Heves, Nógrád, Pest és Veszprém megyére |
 
-5. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^402]
+5. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^363]
 
-[^402]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 35. §-a iktatta be.
+[^363]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 35. §-a iktatta be.

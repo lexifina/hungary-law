@@ -1,5 +1,5 @@
-## 11/B.[^287]
+## 11/B.[^265]
 
 48/B. §
 
-[^287]: A 11/B. alcímet (48/B. §-t) az 596/2023. (XII. 21.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^265]: A 11/B. alcímet (48/B. §-t) az 596/2023. (XII. 21.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
