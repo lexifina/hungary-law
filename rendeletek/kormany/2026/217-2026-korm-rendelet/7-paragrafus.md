@@ -6,11 +6,10 @@ b)[^8]
 
 c)[^9]
 
-d)[^10]
+d) 299. §-ában az „alapított” szövegrész helyébe az „alapított, valamint a 91. § szerinti” szöveg
 
 lép.
 
 [^7]: A 7. § a) pontja a 10. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
 [^8]: A 7. § b) pontja a 10. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
 [^9]: A 7. § c) pontja a 10. § (4) bekezdése alapján 2027. január 1-jén lép hatályba.
-[^10]: A 7. § d) pontja a 10. § (3) bekezdése alapján 2026. november 1-jén lép hatályba.
