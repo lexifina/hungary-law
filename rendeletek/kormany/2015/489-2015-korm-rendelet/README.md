@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-489-20-
 | 2023-09-01 | 2015-489-20-22.12 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2023-12-29 | 2015-489-20-22.15 | 659/2023. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2015-489-20-22.14 | 591/2023. (XII. 20.) Korm. rendelet |
+| 2026-11-01 | 2015-489-20-22.16 | 360/2026. (X. 29.) Korm. rendelet |

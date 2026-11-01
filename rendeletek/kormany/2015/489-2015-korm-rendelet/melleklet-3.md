@@ -12,7 +12,7 @@ az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya
 
 | 1 | OKSER tag | Adatszolgáltató központ | Vizsgálatok tárgya |
 
-| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Nemzeti Népegészségügyi és Gyógyszerészeti Központ) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
+| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Országos Népegészségügyi Intézet) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
 
 | 3 | az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium | Nemzeti Élelmiszerlánc-biztonsági Hivatal | levegő, ivóvíz, a talaj, a növényzet, a növényi és az állati eredetű élelmiszertermékek, takarmányok, mezőgazdasági tevékenységgel és erdőgazdálkodással összefüggő egyéb minták |
 
@@ -96,4 +96,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 (b) = a levegő aeroszol mérése a HungaroMet Nonprofit Zrt. által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^22]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja, az 591/2023. (XII. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^22]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja, az 591/2023. (XII. 20.) Korm. rendelet 20. § b) pontja, a 360/2026. (X. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.

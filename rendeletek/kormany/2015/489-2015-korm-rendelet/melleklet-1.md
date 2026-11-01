@@ -30,7 +30,7 @@ Az OKSER tagjai
 
 14. a Mecsekérc Zártkörűen Működő Részvénytársaság,
 
-15.[^18] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
+15.[^18] Országos Népegészségügyi Intézet,
 
 16.[^19] a Magyar Kutatási Hálózat.
 
@@ -41,7 +41,7 @@ Az OKSER tagjai
 [^15]: [A 659/2023. (XII. 28.) Korm. rendelet 49. §-ával elrendelt módosítás, amely szerint hatályát veszti az 1. melléklet 1.2.1. pont 1.2.1.1. alpontjában a „201/2001. (X. 25.)” szövegrész, nem vezethető át.]
 [^16]: Az 1. § 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
 [^17]: Az 1. melléklet 9. pontja az 591/2023. (XII. 20.) Korm. rendelet 20. § a) pontjával megállapított szöveg.
-[^18]: Az 1. melléklet 15. pontja a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet 15. pontja a 360/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
 [^20]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
 [^21]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
