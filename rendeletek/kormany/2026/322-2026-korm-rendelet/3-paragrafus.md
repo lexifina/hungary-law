@@ -1,0 +1,3 @@
+3. § Az R. a következő 38/A. §-sal egészül ki:
+
+„38/A. § A 2026. október 31-ig megkötött azon kölcsönszerződések esetében, amelyeknél a támogatott személyek a 14. § (1) bekezdése szerinti határidő lejáratakor emberi reprodukciós eljárásban már legalább 3 alkalommal – a kötelező egészségbiztosítás keretében vagy azon kívül – részt vettek, vagy folyamatban van az örökbefogadásra irányuló eljárásuk, és az ezekre vonatkozó igazolásokat a határidő lejáratát megelőző napig – 2026. október 31-én lejáró határidő esetén 2026. december 31-ig – benyújtják a hitelintézethez, a 14. § (1) bekezdése szerinti határidő egy évvel meghosszabbodik. A támogatott személy kérelmének elfogadásáról vagy elutasításáról a hitelintézet 20 napon belül tájékoztatást küld.”
