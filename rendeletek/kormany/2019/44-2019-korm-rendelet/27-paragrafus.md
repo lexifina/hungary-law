@@ -1,0 +1,1 @@
+27. § A hitelintézet köteles a babaváró támogatással nyújtott kölcsönre vonatkozó reklámjaiban, hirdetéseiben az alábbi szöveget feltüntetni: „A hirdetésben szereplő kölcsönt a Magyarország Kormánya által biztosított babaváró támogatással nyújtjuk.”

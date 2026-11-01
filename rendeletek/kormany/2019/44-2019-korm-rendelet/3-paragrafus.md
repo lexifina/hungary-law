@@ -6,7 +6,7 @@ a) az ügyfelet hiánypótlásra két alkalommal is fel lehet hívni,
 
 b) az ügyfél az eljárás szünetelését nem kérheti,
 
-c)[^10] az ügyintézési határidő – a (2a) bekezdésben foglaltak kivételével – 30 nap, és
+c)[^10] az ügyintézési határidő 30 nap, és
 
 d) az 5. § (5) bekezdés d) pontja szerinti biztosítási jogviszonyra vonatkozó hatósági bizonyítvány kiadására irányuló eljárásban
 
@@ -14,7 +14,7 @@ da) automatikus döntéshozatalnak van helye,
 
 db) jogszerű hallgatásnak nincs helye.
 
-(2a)[^11] A kormányhivatal 17. § (1) és (3) bekezdésében meghatározott eljárásaiban az ügyintézési határidő 15 nap.
+(2a)[^11]
 
 (3)[^12] A kormányhivatal a hitelintézetnek az igénylők hitelképességével kapcsolatos döntését nem bírálhatja felül, a hitelképességgel kapcsolatban megállapításokat nem tehet, és egyéb módon sem korlátozhatja a hitelintézet hitelezési tevékenységét.
 
@@ -22,7 +22,7 @@ db) jogszerű hallgatásnak nincs helye.
 
 [^8]: A 3. § a 360/2019. (XII. 30.) Korm. rendelet 198. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^9]: A 3. § (1) bekezdése a 252/2020. (V. 29.) Korm. rendelet 17. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 292. § a) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdés c) pontja a 104/2024. (V. 9.) Korm. rendelet 35. §-a szerint módosított szöveg.
-[^11]: A 3. § (2a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 34. §-a iktatta be.
+[^10]: A 3. § (2) bekezdés c) pontja a 104/2024. (V. 9.) Korm. rendelet 35. §-a, a 322/2026. (X. 27.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § (2a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 34. §-a iktatta be, a 322/2026. (X. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^12]: A 3. § (3) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (4) bekezdését a 406/2023. (VIII. 30.) Korm. rendelet 39. §-a iktatta be.

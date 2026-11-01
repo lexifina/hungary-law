@@ -1,4 +1,4 @@
-## 32. §[^150] A családok támogatásaival összefüggő egyes kormányrendeletek módosításáról szóló 530/2021. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (1) bekezdés e) pontját és f) pont fc) alpontját, valamint 5. § (5) bekezdés g) pontját a Módr3. hatálybalépését[^151] megelőzően megkezdett eljárásokra is alkalmazni kell.
+33. §[^156] E rendeletnek az állam által fizetett költségtérítéssel kapcsolatban egyes kormányrendeletek módosításáról szóló 150/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 10. § (4) bekezdésében és 15. § (10) bekezdésében meghatározott ügyleti kamatot, valamint a 23. § (3) bekezdésében meghatározott költségtérítést a Módr4. hatálybalépését[^157] követően igényelt kölcsönszerződésekre kell alkalmazni.
 
-[^150]: A 32. §-t az 530/2021. (IX. 14.) Korm. rendelet 28. §-a iktatta be.
-[^151]: A hatálybalépés időpontja 2021. szeptember 29.
+[^156]: A 33. §-t a 150/2022. (IV. 14.) Korm. rendelet 4. §-a iktatta be.
+[^157]: A hatálybalépés időpontja 2022. április 29.
