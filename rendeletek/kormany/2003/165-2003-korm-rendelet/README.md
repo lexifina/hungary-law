@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-165-20-
 | 2020-02-15 | 2003-165-20-22.9 | 13/2020. (II. 7.) Korm. rendelet |
 | 2023-01-01 | 2003-165-20-22.10 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-08-01 | 2003-165-20-22.11 | 334/2023. (VII. 20.) Korm. rendelet |
+| 2026-11-01 | 2003-165-20-22.12 | 332/2026. (X. 29.) Korm. rendelet |
