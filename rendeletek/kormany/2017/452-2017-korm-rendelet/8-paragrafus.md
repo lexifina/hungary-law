@@ -4,9 +4,9 @@ a) a gyógyszer forgalomba hozatali engedélyének jogosultja a gyógyszerek ár
 
 b) a gyógyszer forgalomba hozatali engedélyének jogosultja a Gyftv. 29. § (4) bekezdése szerinti bejelentését az ESZCSM rendelet 6/b. számú mellékletében,
 
-c)[^13] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
+c)[^13] a tápszer forgalmazója – OGYI-nál a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
 
-d)[^14] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
+d)[^14] a tápszer forgalmazója – OGYI-nál a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
 
 meghatározott formanyomtatványon vagy elektronikus űrlapon nyújtja be.
 
@@ -24,6 +24,6 @@ c) az ESZCSM rendeletben meghatározott igazgatási-szolgáltatási díj befizet
 
 (5)[^15]
 
-[^13]: A 8. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
-[^14]: A 8. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdés c) pontja a 370/2026. (X. 29.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdés d) pontja a 370/2026. (X. 29.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^15]: A 8. § (5) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 21. §-a hatályon kívül helyezte.

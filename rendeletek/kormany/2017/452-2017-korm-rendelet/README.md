@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-452-20-
 | 2024-06-18 | 2017-452-20-22.7 | 128/2024. (VI. 17.) Korm. rendelet |
 | 2025-05-01 | 2017-452-20-22.8 | 83/2025. (IV. 22.) Korm. rendelet |
 | 2025-07-01 | 2017-452-20-22.9 | 155/2025. (VI. 23.) Korm. rendelet |
+| 2026-11-01 | 2017-452-20-22.10 | 370/2026. (X. 29.) Korm. rendelet |

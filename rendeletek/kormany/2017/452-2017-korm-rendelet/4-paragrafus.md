@@ -24,10 +24,10 @@ e) kedvezményezetti státusz megítélésére is
 
 f)[^6] a korábbi kérelemben megjelölt ár változatlanul hagyása mellett a finanszírozási kezdőnap megváltoztatására
 
-g)[^7] a stratégiai gyógyszerlista kiadásáról szóló miniszteri rendelet alapján az NNGYK által kiadott közleményben szereplő „SH” jelzésű gyógyszer áremelésére
+g)[^7] a stratégiai gyógyszerlista kiadásáról szóló miniszteri rendelet alapján az OGYI által kiadott közleményben szereplő „SH” jelzésű gyógyszer áremelésére
 
 érkezett.
 
 [^5]: A 4. § d) pontja a 110/2019. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^6]: A 4. § f) pontját a 128/2024. (VI. 17.) Korm. rendelet 21. §-a iktatta be.
-[^7]: A 4. § g) pontját a 83/2025. (IV. 22.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 4. § g) pontját a 83/2025. (IV. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 370/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
