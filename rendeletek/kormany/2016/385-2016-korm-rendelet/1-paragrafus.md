@@ -4,7 +4,7 @@
 
 (2)[^2] A kormányhivatal munkavédelmi és foglalkoztatás-felügyeleti feladatköreinek gyakorlásával összefüggésben ellátott munkaegészségügyi feladatai tekintetében – a munkavédelmi hatósági hatáskörben gyakorolt munkaegészségügyi feladat- és hatáskörök kivételével – a Ksztv. g) és h) pontja szerinti hatáskörök gyakorlására a miniszter jogosult. A miniszter hatáskörei gyakorlásához szükséges döntések szakmai előkészítésében az országos tisztifőorvos közreműködik.
 
-(2a)[^3] A kormányhivatal népegészségügyi feladatkörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben a felügyeleti szervre ruházott jogköröket a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) gyakorolja.
+(2a)[^3] A kormányhivatal népegészségügyi feladatkörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben a felügyeleti szervre ruházott jogköröket az Országos Népegészségügyi Intézet (a továbbiakban: ONI) gyakorolja.
 
 (3) A miniszter szakmai irányítása keretében a kormányhivatalok és a kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal)
 
@@ -34,7 +34,7 @@ h)[^9] az országos tisztifőorvos által kiadott feladataik elvégzéséről k�
 
 [^1]: Az 1. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 73. § a) pontja, a 310/2026. (X. 27.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 116/2021. (III. 10.) Korm. rendelet 32. §-a, a 463/2024. (XII. 30.) Korm. rendelet 73. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 72. §-a iktatta be.
+[^3]: Az 1. § (2a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 72. §-a iktatta be, szövege a 362/2026. (X. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (3) bekezdés c) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdés c) pontja a 79/2017. (IV. 7.) Korm. rendelet 7. §-ával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 37. §-a szerint módosított szöveg.
