@@ -20,9 +20,9 @@ A gyógyhely és a védőterület allergén pollenterhelésének csökkentését
 
 2. Az intézkedési terv tartalmi követelményei:
 
-2.1. Helyzetelemzés
+2.1.[^39] Helyzetelemzés
 
-A helyzetelemzés tartalmazza a gyógyhelyen és a védőterületen lévő fák és cserjék telepítésének rendjét. A helyzetelemzésben be kell mutatni a gyógyhelyen és a védőterületen lévő fák és cserjék potenciális allergenitásának kategóriák szerinti megoszlását a két területre külön-külön. A Magyarországon alkalmazott parkfák, sorfák és cserjék esetén az egyes fajok és fajták potenciális allergenitásáról az NNGYK évente frissített tájékoztatót tesz közzé a honlapján. Azokat a fajokat és fajtákat, melyek nem szerepelnek a listában, külön fel kell tüntetni a helyzetelemzésben.
+A helyzetelemzés tartalmazza a gyógyhelyen és a védőterületen lévő fák és cserjék telepítésének rendjét. A helyzetelemzésben be kell mutatni a gyógyhelyen és a védőterületen lévő fák és cserjék potenciális allergenitásának kategóriák szerinti megoszlását a két területre külön-külön. A Magyarországon alkalmazott parkfák, sorfák és cserjék esetén az egyes fajok és fajták potenciális allergenitásáról az ONI évente frissített tájékoztatót tesz közzé a honlapján. Azokat a fajokat és fajtákat, melyek nem szerepelnek a listában, külön fel kell tüntetni a helyzetelemzésben.
 
 2.2. Célmeghatározás
 
@@ -39,3 +39,5 @@ A cél elérése érdekében legalább az alábbi feladatokat, intézkedéseket 
 2.3.3. A potenciális allergenitás szempontjából 2. besorolású fajok és fajták esetén összefüggő állományok, fasorok telepítésének kerülését. Kétlakiság esetében csak a női ivarú egyed választható. Ajánlott a 2. besorolású fajok és fajták a hosszú távú cseréje 0. vagy 1. kategóriájú fajokra.
 
 2.3.4. Rendszeres gyommentesítés elrendelését a gyógyhely területén. A gyógyhelyen és a védőterületen élők figyelmét minden évben fel kell hívni a gyommentesítés és fűnyírás fontosságára.
+
+[^39]: A 8. melléklet 2. pont 2.1. alpontja a 380/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

@@ -32,9 +32,9 @@ bf) a fogyasztásra vonatkozó javallatot, ellenjavallatot és a konkrét fogyas
 
 bg) a forgalomba hozatali engedély számát és
 
-bh) az NNGYK teljes körű gyógyvízvizsgálati eredményét.
+bh)[^10] az ONI teljes körű gyógyvízvizsgálati eredményét.
 
-(3) A Hatóság a rendelkezésre álló iratok és az NNGYK vizsgálati eredménye alapján dönt a forgalomba hozatal engedélyezéséről.
+(3)[^11] A Hatóság a rendelkezésre álló iratok és az ONI vizsgálati eredménye alapján dönt a forgalomba hozatal engedélyezéséről.
 
 (4) A forgalomba hozatalra vonatkozó engedély jogosultja köteles az engedélye felülvizsgálatát kérni a Hatóságtól az engedély véglegessé válásától számított tízévenként.
 
@@ -47,3 +47,6 @@ bh) az NNGYK teljes körű gyógyvízvizsgálati eredményét.
 (8) A (7) bekezdés vonatkozásában a Hatóság határozatban állapítja meg, hogy a fogyasztók védelme tekintetében fennáll-e az egyenértékű védelem. Az egyenértékű védelem igazolására a származási ország gyógyvizekre vonatkozó jogszabályainak magyar nyelvű szövegét, valamint a kérelem benyújtásának időpontjához képest egy évnél nem régebbi – a 7. melléklet szerinti – vízvizsgálati eredményeket kell benyújtani.
 
 (9) Az importőr vagy a forgalmazó legkésőbb a forgalomba hozatal előtt harminc nappal köteles a Hatóságnak bejelenteni a palackozott gyógyvíz származási helyét és elnevezését.
+
+[^10]: A 21. § (2) bekezdés b) pont bh) alpontja a 380/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^11]: A 21. § (3) bekezdése a 380/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

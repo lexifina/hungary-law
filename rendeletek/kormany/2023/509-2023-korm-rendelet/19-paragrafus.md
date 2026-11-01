@@ -4,7 +4,7 @@ a) a vizet adó kút vagy forrás egy, már korábban gyógyvíz minősítést k
 
 b) azonos vízadó rétegből kapja a vizet, és
 
-c)[^7] a két víz kémiai összetétele a 15. § (2) bekezdés b) pontja szerinti vizsgálati eredmények figyelembevételével a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által kiállított szakhatósági állásfoglalás alapján a természetes ingadozás határain (a bázisértékhez viszonyítottan maximum 20% változás) belül megegyezik.
+c)[^7] a két víz kémiai összetétele a 15. § (2) bekezdés b) pontja szerinti vizsgálati eredmények figyelembevételével az Országos Népegészségügyi Intézet (a továbbiakban: ONI) által kiállított szakhatósági állásfoglalás alapján a természetes ingadozás határain (a bázisértékhez viszonyítottan maximum 20% változás) belül megegyezik.
 
 (1a)[^8] A gyógyhatású vízzé minősítési eljárás során az orvosi megfigyeléseket akkor nem kell lefolytatni, ha a gyógyhatás azonosság alapján is igazolható arra figyelemmel, hogy a gyógyhatású vizet minősített gyógyvíz és
 
@@ -27,6 +27,6 @@ keverésével állítják elő, és a gyógyvíz és a kevert víz kémiai össz
 (4) Az orvosi megfigyelések értékelését – amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is – a Hatóság a feladatkör szerinti szakmai kollégium szakhatósági állásfoglalása alapján bírálja el.
 
 [^6]: A 19. § (1) bekezdés nyitó szövegrésze a 160/2025. (VI. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^7]: A 19. § (1) bekezdés c) pontja a 160/2025. (VI. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 19. § (1) bekezdés c) pontja a 160/2025. (VI. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 380/2026. (X. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: A 19. § (1a) bekezdését a 160/2025. (VI. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^9]: A 19. § (1b) bekezdését a 160/2025. (VI. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.

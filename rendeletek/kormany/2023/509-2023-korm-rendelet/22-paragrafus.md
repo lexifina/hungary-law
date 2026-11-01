@@ -24,6 +24,6 @@ feltételeit érinti.
 
 (6) A 6. § (1) bekezdése, a 13. § (1) bekezdése, a 16. § (3) bekezdése, a 17. § (3) bekezdése, a 18. § (2) bekezdése, valamint a 21. § (4) bekezdése szerinti felülvizsgálatot megelőzően, az engedély lejárta előtt hat hónappal a hatóság értesíti az engedélyest az engedélye lejáratának időpontjáról, valamint a felülvizsgálati kérelem benyújtásának szükségességéről. Amennyiben az engedély jogosultja a 6. § (1) bekezdésében, a 13. § (1) bekezdésében, a 16. § (3) bekezdésében, a 17. § (3) bekezdésében, a 18. § (2) bekezdésében, valamint a 21. § (4) bekezdésében meghatározott időpont szerint benyújtja a felülvizsgálat iránti kérelmét, akkor a felülvizsgálati eljárás végleges lezárásáig a korábbi engedélye hivatalból érvényes, ha azt egyéb okból nem kell visszavonni.
 
-(7)[^10] Az e rendeletben foglalt feladatok gyakorlati végrehajtásához szükséges ismeretekről az országos tisztifőorvos módszertani levelet ad ki. A módszertani levelet az NNGYK a honlapján közzéteszi.
+(7)[^12] Az e rendeletben foglalt feladatok gyakorlati végrehajtásához szükséges ismeretekről az országos tisztifőorvos módszertani levelet ad ki. A módszertani levelet az ONI a honlapján közzéteszi.
 
-[^10]: A 22. § (7) bekezdését a 160/2025. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 22. § (7) bekezdését a 160/2025. (VI. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 380/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
