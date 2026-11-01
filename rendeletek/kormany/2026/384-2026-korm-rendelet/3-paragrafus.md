@@ -1,3 +1,3 @@
-3. § A Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet a következő 11. §-sal egészül ki:
+3. §[^1]
 
-„11. § A Beruházás kötöttpályás kapcsolatának kialakítására vonatkozó, a vasúti közlekedési hatóság által kiadott építési engedély alapján a tevékenység a koncesszor kiválasztását követő 90 napig, de legfeljebb 2030. október 31. napjáig végezhető, azzal, hogy a koncesszor a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 16. § (1) bekezdésében foglalt feltételek fennállta esetén az eltérési engedély iránti kérelmet az e bekezdés szerinti határidő lejártát megelőző 60 napig nyújthatja be.”
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
