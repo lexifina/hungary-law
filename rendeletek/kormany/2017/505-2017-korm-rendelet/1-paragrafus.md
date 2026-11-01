@@ -6,8 +6,8 @@ b) az a) pont szerinti vizsgálatot végző vizsgáló intézményre,
 
 c) az a) pont szerinti vizsgálatok ellenőrzésére és az azt végző hatóságra,
 
-d)[^1] bioanalitikai vizsgálatokat ellátó vizsgáló intézményeknek, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által lefolytatott helyes laboratóriumi gyakorlatára, a nem-klinikai vizsgálatok szervezésére és lefolytatására vonatkozó ellenőrző tevékenységére,
+d)[^1] bioanalitikai vizsgálatokat ellátó vizsgáló intézményeknek, az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) által lefolytatott helyes laboratóriumi gyakorlatára, a nem-klinikai vizsgálatok szervezésére és lefolytatására vonatkozó ellenőrző tevékenységére,
 
 e) az e rendelet szerinti vizsgálatok alá tartozó anyagok engedélyező hatóságaira.
 
-[^1]: Az 1. § d) pontja a 334/2023. (VII. 20.) Korm. rendelet 63. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § d) pontja a 371/2026. (X. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
