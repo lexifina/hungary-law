@@ -6,7 +6,7 @@ a) az előre nem látható természeti vagy más eredetű erők által fenyeget�
 
 b)[^17] – a biztosításból vagy egyéb módon megtérülő károk figyelembevételével – a helyi önkormányzat tulajdonában lévő kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett épületet, építményt, partfalat vagy a helyi önkormányzat vagyonkezelésében és az állam tulajdonában lévő kötelező önkormányzati feladatok ellátását szolgáló épületet sújtó, előre nem látható természeti vagy más eredetű erők által okozott károk helyreállításának részbeni támogatására,
 
-c)[^18] – ha a szúnyogok által okozott ártalom óránkénti mértéke a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak nyilatkozata szerint csípésszámban kifejezve személyenként meghaladja az 50 csípést – katasztrófavédelmi szúnyoggyérítés többletkiadásainak részbeni támogatására
+c)[^18] – ha a szúnyogok által okozott ártalom óránkénti mértéke az Országos Népegészségügyi Intézetnek nyilatkozata szerint csípésszámban kifejezve személyenként meghaladja az 50 csípést – katasztrófavédelmi szúnyoggyérítés többletkiadásainak részbeni támogatására
 
 [az a)–c) pont a továbbiakban együtt: vis maior esemény].
 
@@ -30,7 +30,7 @@ d)[^20] rendkívüli téli időjárás esetén a védekezési költségekhez kiz
 
 [^16]: A 2/A. alcímet (2/A. §) a 129/2014. (IV. 10.) Korm. rendelet 3. §-a iktatta be.
 [^17]: A 2/A. § (1) bekezdés b) pontja a 383/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 2/A. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^18]: A 2/A. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés b) pontja, a 346/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^19]: A 2/A. § (2) bekezdés c) pontja a 383/2015. (XII. 8.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^20]: A 2/A. § (2) bekezdés d) pontja az 591/2023. (XII. 20.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^21]: A 2/A. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 535. §-ával megállapított szöveg.

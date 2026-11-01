@@ -52,7 +52,7 @@
 
 | 1 | Önkormányzat neve: |  |
 
-| 2 | A Nemzeti Népegészségügyi és Gyógyszerészeti Központ tájékoztatása a 3. § (6) bekezdése alapján a bejelentés valódiságáról, a katasztrófavédelmi szúnyoggyérítés szükségességéről: |
+| 2 | Az Országos Népegészségügyi Intézet tájékoztatása a 3. § (6) bekezdése alapján a bejelentés valódiságáról, a katasztrófavédelmi szúnyoggyérítés szükségességéről: |
 
 | a) | a szúnyogártalom óránkénti csípésszámban kifejezett mértéke: |  |
 

@@ -214,4 +214,4 @@
 
 9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^167]
 
-[^167]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés c) pontjával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^167]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés c) pontjával megállapított, a 346/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg. [A 9. mellékletben a 346/2026. (X. 29.) Korm. rendelet 1. § c) pontja által elrendelt módosítás, amely szerint az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szövegrész helyébe az „az Országos Népegészségügyi Intézet” szöveg lép, nem vezethető át.]

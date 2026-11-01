@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-22
 | 2024-01-01 | 2011-9-20-22.26 | 591/2023. (XII. 20.) Korm. rendelet |
 | 2024-10-01 | 2011-9-20-22.27 | 92/2013. (III. 28.) Korm. rendelet |
 | 2025-01-01 | 2011-9-20-22.28 | 431/2024. (XII. 23.) Korm. rendelet |
+| 2026-11-01 | 2011-9-20-22.29 | 92/2013. (III. 28.) Korm. rendelet |
