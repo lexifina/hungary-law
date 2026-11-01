@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-159-20-
 | 2018-01-01 | 2005-159-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2022-07-01 | 2005-159-20-22.15 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-08-01 | 2005-159-20-22.16 | 362/2008. (XII. 31.) Korm. rendelet |
+| 2026-11-01 | 2005-159-20-22.17 | 362/2008. (XII. 31.) Korm. rendelet |
