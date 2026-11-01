@@ -54,9 +54,11 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 2 | Nemzeti Egészségbiztosítási Alapkezelő | irányítás |
 
-| 3 | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | irányítás |
+| 3[^287] | Országos Népegészségügyi Intézet | irányítás |
 
 | 4 | Országos Kórházi Főigazgatóság és a középirányítása alá tartozó szervek | irányítás |
+
+| 5[^288] | Országos Gyógyszerészeti Intézet | irányítás |
 
 5. Élő környezetért felelős miniszter
 
@@ -170,10 +172,12 @@ A Kormány tagja által irányított vagy felügyelt központi államigazgatási
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Fővárosi és megyei kormányhivatalok[^287] | irányítás |
+| 2 | Fővárosi és megyei kormányhivatalok[^289] | irányítás |
 
 | 3 | Felsőbbfokú Tanulmányok Intézete | irányítás |
 
 [^285]: Az 1. melléklet a 139/2026. (VIII. 31.) Korm. rendelet 94. §-ával megállapított szöveg.
 [^286]: Az 1. melléklet 3. pontjában foglalt táblázat 10. sorát a 139/2026. (VIII. 31.) Korm. rendelet 96. § 35. pontja hatályon kívül helyezte.
-[^287]: Az 1. melléklet 16. pontjában foglalt táblázat A:2 mezője a 139/2026. (VIII. 31.) Korm. rendelet 95. § 53. pontja szerint módosított szöveg.
+[^287]: Az 1. melléklet 4. pontjában foglalt táblázat 3. sora a 383/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^288]: Az 1. melléklet 4. pontjában foglalt táblázat 5. sorát a 383/2026. (X. 29.) Korm. rendelet 1. §-a iktatta be.
+[^289]: Az 1. melléklet 16. pontjában foglalt táblázat A:2 mezője a 139/2026. (VIII. 31.) Korm. rendelet 95. § 53. pontja szerint módosított szöveg.
