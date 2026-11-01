@@ -12,7 +12,7 @@ e) a pályázathoz csatolandó dokumentumok körét:
 
 ea) a gyógyszertár műszaki tervdokumentációját,
 
-eb)[^3] nyilatkozatot arról, hogy a kérelmező megfelel a Gyftv. 56. §-ában foglalt feltételeknek, valamint arról, hogy a gyógyszertár létesítési engedélyének kézhezvételét követő öt napon belül a személyi jog iránti kérelmet a Nemzeti Népegészségügyi és Gyógyszerészeti Központhoz (a továbbiakban: NNGYK) benyújtja,
+eb)[^3] nyilatkozatot arról, hogy a kérelmező megfelel a Gyftv. 56. §-ában foglalt feltételeknek, valamint arról, hogy a gyógyszertár létesítési engedélyének kézhezvételét követő öt napon belül a személyi jog iránti kérelmet az Országos Gyógyszerészeti Intézethez (a továbbiakban: OGYI) benyújtja,
 
 ec) gazdasági társaság esetén a cég nevét, cégjegyzékszámát, a képviselő elérhetőségét, – a (2) bekezdésben foglaltak kivételével – a közjegyzői aláírás-hitelesítéssel ellátott címpéldányának másolatát, egységes szerkezetbe foglalt, hatályos társasági szerződésének másolatát, amelyben a személyi jogos gyógyszerész vagy személyi jogra jogosult gyógyszerész és a gyógyszertárban alkalmazott valamennyi gyógyszerész együttes tulajdonhányada meghaladja az 50%-ot, még létre nem jött gazdasági társaság esetén társasági szerződésének (alapszabályának, alapító okiratának) tervezetét, a képviselő elérhetőségét és kötelezettségvállalást arra vonatkozóan, hogy a létesítési engedély megszerzése esetén a gazdasági társaság – pályázat során benyújtott tervezetnek megfelelő – bejegyzését a létesítési engedély kiadásától számított 15 napon belül kezdeményezik, amelyben a személyi jogos gyógyszerész vagy személyi jogra jogosult gyógyszerész és a gyógyszertárban alkalmazott valamennyi gyógyszerész együttes tulajdonhányada meghaladja az 50%-ot,
 
@@ -24,9 +24,9 @@ f) a pályázat benyújtásának határnapját.
 
 g)[^4] a Gyftv. 49. § (2a) bekezdése szerint a településen létesítési engedéllyel rendelkező közforgalmú gyógyszertár működési engedélyének véglegessé válását megelőzően újabb pályázat kiírása esetén a korábban elbírált pályázat alapján létesítendő közforgalmú gyógyszertár létesítési engedélyében rögzített címét.
 
-(2)[^5] Ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az NNGYK az iratot és a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2)[^5] Ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OGYI az iratot és a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(3)[^6] A pályázat kiírása során az NNGYK vizsgálja a szolgálati rendre, valamint többletszolgáltatás előírására vonatkozóan az adott településen vagy településrészen az egészségügyi szolgáltatók – ideértve a már működő gyógyszertárakat is – szolgálati rendjét, és a lakosság gyógyszerellátása szempontjából releváns egyéb, az (5) bekezdés szerinti, többletszolgáltatást jelentő tényezőket.
+(3)[^6] A pályázat kiírása során az OGYI vizsgálja a szolgálati rendre, valamint többletszolgáltatás előírására vonatkozóan az adott településen vagy településrészen az egészségügyi szolgáltatók – ideértve a már működő gyógyszertárakat is – szolgálati rendjét, és a lakosság gyógyszerellátása szempontjából releváns egyéb, az (5) bekezdés szerinti, többletszolgáltatást jelentő tényezőket.
 
 (4) Pályázatot személyi joggal rendelkező vagy személyi jogra jogosult gyógyszerész nyújthat be, ha vállalja a személyi jogra és tulajdoni hányadra vonatkozó előírások folyamatos betartását, a személyi és tárgyi feltételeknek való folyamatos megfelelést.
 
@@ -58,11 +58,11 @@ dc) betegségspecifikus gyógyszerészi gondozás nyújtását
 
 a gyógyszertár megnyitását követő legalább öt éven keresztül, azzal, hogy a da)–dc) alpontban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
 
-(6)[^7] Ha az (5) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az NNGYK részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
+(6)[^7] Ha az (5) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az OGYI részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
 
 [^2]: A 3. § (1) bekezdés d) pontja a 128/2024. (VI. 17.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés e) pont eb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés e) pont eb) alpontja a 364/2026. (X. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés g) pontját a 231/2022. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^5]: A 3. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 70. §-a, a 334/2023. (VII. 20.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
-[^7]: A 3. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 70. §-a, a 364/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 364/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdése a 364/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

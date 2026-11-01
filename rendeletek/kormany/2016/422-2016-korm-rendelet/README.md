@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-422-20-
 | 2022-07-02 | 2016-422-20-22.3 | 231/2022. (VI. 28.) Korm. rendelet |
 | 2023-08-01 | 2016-422-20-22.4 | 334/2023. (VII. 20.) Korm. rendelet |
 | 2024-06-18 | 2016-422-20-22.5 | 128/2024. (VI. 17.) Korm. rendelet |
+| 2026-11-01 | 2016-422-20-22.6 | 364/2026. (X. 29.) Korm. rendelet |
