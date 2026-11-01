@@ -18,11 +18,11 @@
 
 ## d) Clostridium perfringens esetében, beleértve a spórákat is: MSZ EN ISO 14189 szabvány;
 
-## e) szomatikus colifágok esetében: EN ISO 10705-2 és EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amelynek megfelelőségét az NNGYK igazolja és Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) jóváhagyja;
+## e)[^66] szomatikus colifágok esetében: EN ISO 10705-2 és EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amelynek megfelelőségét az ONI igazolja és Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) jóváhagyja;
 
 ## f) Pseudomonas aeruginosa esetében: MSZ EN ISO 16266 szabvány.
 
-## 1.3. A laboratóriumok az 1.1. és 1.2. alpontban foglaltaktól eltérő módszert akkor alkalmazhatnak, ha azokat ellenőrzik és validálják, valamint a 15. § (10) bekezdésben foglaltak szerint alkalmazásukat a BFKH jóváhagyja. Az alternatív módszereknek az e mellékletben meghatározott módszerekkel való egyenértékűsége értékelésének céljából az MSZ EN ISO 17994 szabványt, vagy az MSZ EN ISO 17994 szabvány alkalmazási körén kívül eső, a tenyésztéstől eltérő elveken alapuló módszerek egyenértékűségének megállapítására az EN ISO 16140 szabványt kell alkalmazni, illetve bármely más hasonló, nemzetközileg elfogadott vizsgálati eljárás alkalmazható. Az új módszer bevezetése előtt az NNK a módszer használatát az Európai Bizottsággal engedélyezteti.
+## 1.3.[^67] A laboratóriumok az 1.1. és 1.2. alpontban foglaltaktól eltérő módszert akkor alkalmazhatnak, ha azokat ellenőrzik és validálják, valamint a 15. § (10) bekezdésben foglaltak szerint alkalmazásukat a BFKH jóváhagyja. Az alternatív módszereknek az e mellékletben meghatározott módszerekkel való egyenértékűsége értékelésének céljából az MSZ EN ISO 17994 szabványt, vagy az MSZ EN ISO 17994 szabvány alkalmazási körén kívül eső, a tenyésztéstől eltérő elveken alapuló módszerek egyenértékűségének megállapítására az EN ISO 16140 szabványt kell alkalmazni, illetve bármely más hasonló, nemzetközileg elfogadott vizsgálati eljárás alkalmazható. Az új módszer bevezetése előtt az ONI a módszer használatát az Európai Bizottsággal engedélyezteti.
 
 ## 2. Kémiai és indikátor paraméterek, amelyek esetében az analitikai módszerrel szembeni teljesítménykövetelmények meghatározottak
 
@@ -294,9 +294,9 @@
 
 ## a) Az e rendeletnek való megfelelés ellenőrzése céljából alkalmazott mintavételi és elemzési módszereket – az üzemeltetési monitoring keretében végzett vizsgálatok, beleértve a kézi műszerrel, napi rendszerességgel végzett zavarosságmérést is, valamint az online zavarosság és a fertőtlenítőszer-maradék vizsgálat kivételével – az EN ISO/IEC 17025 szabvány vagy más, azzal egyenértékű, nemzetközileg elfogadott szabvány szerint kell validálni és dokumentálni. A laboratóriumoknak és az azokkal szerződésben álló feleknek az EN ISO/IEC 17025 szabványnak vagy más, nemzetközileg elfogadott azzal egyenértékű szabványnak megfelelő minőségirányítási rendszert kell alkalmazniuk.
 
-## b) Az e rendeletben előírt, illetve vízminőség-ellenőrző vizsgálatot az adott paraméterre akkreditált és az adott paraméterre az országos tisztifőorvos megbízásából az NNGYK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet. Az élelmiszeripari vállalkozás esetén az ivóvíz minőségellenőrző vizsgálatot, ivóvízvizsgálatra a nem állami laboratóriumok engedélyezéséről, nyilvántartásba vételéről és működési feltételeinek részletes szabályozásáról szóló miniszteri rendelet alapján engedélyezett és akkreditált laboratórium végezhet.
+## b)[^68] Az e rendeletben előírt, illetve vízminőség-ellenőrző vizsgálatot az adott paraméterre akkreditált és az adott paraméterre az országos tisztifőorvos megbízásából az ONI által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet. Az élelmiszeripari vállalkozás esetén az ivóvíz minőségellenőrző vizsgálatot, ivóvízvizsgálatra a nem állami laboratóriumok engedélyezéséről, nyilvántartásba vételéről és működési feltételeinek részletes szabályozásáról szóló miniszteri rendelet alapján engedélyezett és akkreditált laboratórium végezhet.
 
-## c) A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró BFKH erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az NNGYK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNGYK vagy a BFKH kezdeményezheti.
+## c)[^69] A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró BFKH erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az ONI által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az ONI vagy a BFKH kezdeményezheti.
 
 ## d) Az elosztó hálózatban történő mintavételt – a fogyasztói csapoknál történő mintavétel kivételével – az ISO 5667-5 szabvány szerint kell végezni.
 
@@ -310,11 +310,11 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 
 3. Az ivóvízszolgáltató köteles a fogyasztó indokolt kérésére hozzáférést biztosítani a 2. pont szerinti információkhoz legfeljebb 10 évre visszamenőleg, ha ehhez a HUMVI rendszerben rendelkezésre állnak a szükséges jóváhagyott adatok.
 
-4.[^66] Információk az emberi egészségre nézve jelentkező potenciális veszélyről, és ezzel kapcsolatban az egészségvédelmi és fogyasztási tanácsok vagy egy ezen információkat tartalmazó weboldalra mutató link a 4. § szerint meghatározott határértékek és parametrikus értékek túllépését követően a népegészségügyi szerv által megállapított, az emberi egészségre nézve jelentkező potenciális veszély esetén, ha a 19. § (2) bekezdés szerint a népegészségügyi szerv által előírt tájékoztatási kötelezettség fennáll.
+4.[^70] Információk az emberi egészségre nézve jelentkező potenciális veszélyről, és ezzel kapcsolatban az egészségvédelmi és fogyasztási tanácsok vagy egy ezen információkat tartalmazó weboldalra mutató link a 4. § szerint meghatározott határértékek és parametrikus értékek túllépését követően a népegészségügyi szerv által megállapított, az emberi egészségre nézve jelentkező potenciális veszély esetén, ha a 19. § (2) bekezdés szerint a népegészségügyi szerv által előírt tájékoztatási kötelezettség fennáll.
 
 5. Az ivóvízellátó rendszer kockázatértékelésével kapcsolatos releváns információk.
 
-6.[^67] A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az NNGYK honlapján.
+6.[^71] A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az ONI honlapján.
 
 7. A napi átlagban legalább 10 000 m3 ivóvizet szolgáltató, vagy legalább 50 000 főt ellátó ivóvízszolgáltatók esetében éves tájékoztatás a következőkről:
 
@@ -324,5 +324,9 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 
 7.3. ha rendelkezésre áll, az e rendelet hatálya alá tartozó tárgykörökhöz kapcsolódóan az ivóvízszolgáltatóhoz intézett fogyasztói panaszok összefoglalása és az ezekkel kapcsolatos statisztikák;
 
-[^66]: [A 4. melléklet 4. pontjában a 463/2024. (XII. 30.) Korm. rendelet 85. § b) pontja által elrendelt módosítás, amely szerint a „legfrissebb” szövegrész helyébe az „értékelt” szöveg lép, nem vezethető át.]
-[^67]: A 4. melléklet 6. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^66]: A 3. melléklet 1. pont 1.2. alpont e) pontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^67]: A 3. melléklet 1. pont 1.3. alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+[^68]: A 3. melléklet 5. pont b) alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 5. pont c) alpontja a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^70]: [A 4. melléklet 4. pontjában a 463/2024. (XII. 30.) Korm. rendelet 85. § b) pontja által elrendelt módosítás, amely szerint a „legfrissebb” szövegrész helyébe az „értékelt” szöveg lép, nem vezethető át.]
+[^71]: A 4. melléklet 6. pontja a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

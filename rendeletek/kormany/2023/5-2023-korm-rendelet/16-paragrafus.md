@@ -1,8 +1,8 @@
 ## 10. Informatikai rendszer
 
-16. § (1)[^34] Az ivóvízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint az ivóvízminőség-javító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az NNGYK működteti a HUMVI rendszert. Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a NÉBIH gyűjti az adatokat.
+16. § (1)[^34] Az ivóvízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint az ivóvízminőség-javító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az ONI működteti a HUMVI rendszert. Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a NÉBIH gyűjti az adatokat.
 
-(2)[^35] A HUMVI rendszerbe az NNGYK, valamint az NNGYK felhatalmazása alapján
+(2)[^35] A HUMVI rendszerbe az ONI, valamint az ONI felhatalmazása alapján
 
 a) a népegészségügyi szerv,
 
@@ -52,12 +52,12 @@ g) ivóvízfertőtlenítés módja.
 
 (9) Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a laboratórium a vonatkozó rendeletnek megfelelően küldi az adatokat a NÉBIH számára.
 
-(10)[^40] A 15. § szerinti vizsgálatok és adatgyűjtés alapján az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozások által végzett, az élelmiszerüzemi célú ivóvíz vizsgálatára vonatkozó eredményeket az aktuális negyedévet követő huszonegy napon belül összesíti és továbbítja a NÉBIH-nek, amely ezen adatokat az NNGYK részére átadja.
+(10)[^40] A 15. § szerinti vizsgálatok és adatgyűjtés alapján az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozások által végzett, az élelmiszerüzemi célú ivóvíz vizsgálatára vonatkozó eredményeket az aktuális negyedévet követő huszonegy napon belül összesíti és továbbítja a NÉBIH-nek, amely ezen adatokat az ONI részére átadja.
 
-[^34]: A 16. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
-[^35]: A 16. § (2) bekezdés nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
+[^34]: A 16. § (1) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^35]: A 16. § (2) bekezdés nyitó szövegrésze a 378/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^36]: A 16. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^37]: A 16. § (6) bekezdés b) pontját a 264/2023. (VI. 28.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
 [^38]: A 16. § (7) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^39]: A 16. § (8) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^40]: A 16. § (10) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^40]: A 16. § (10) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

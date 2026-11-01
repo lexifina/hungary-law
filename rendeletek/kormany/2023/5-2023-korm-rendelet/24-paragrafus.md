@@ -34,7 +34,7 @@ h) a területi védőnőkön keresztül tájékoztatja a „C”, a „D” és 
 
 i) a közigazgatási területen elérhető közüzemi ivóvízellátást végző víziközmű szolgáltatóval együttműködve felméri a „B” szintű hozzáféréssel rendelkező személyek ellátása esetén, az „A” szintű hozzáférés biztosításának lehetőségeit.
 
-(4)[^50] A települési önkormányzat a (3) bekezdés c) pontja szerint összeállított lista adatait évente aktualizálja és a következő év március 31-ig továbbítja a járási hivatalnak. Az adatokból a járási hivatal, a víziközmű-szolgáltató által évente január 31-ig felülvizsgált és a járási hivatalnak átadott, a Vksztv. 58. § (3) bekezdés d) pontja szerinti értesítési adatok összesítésével elkészíti az ivóvízhez való hozzáférés szempontjából marginalizált csoportba tartozó személyek nyilvántartását, amelyet tárgyév április 30-ig továbbít az NNGYK-nak.
+(4)[^50] A települési önkormányzat a (3) bekezdés c) pontja szerint összeállított lista adatait évente aktualizálja és a következő év március 31-ig továbbítja a járási hivatalnak. Az adatokból a járási hivatal, a víziközmű-szolgáltató által évente január 31-ig felülvizsgált és a járási hivatalnak átadott, a Vksztv. 58. § (3) bekezdés d) pontja szerinti értesítési adatok összesítésével elkészíti az ivóvízhez való hozzáférés szempontjából marginalizált csoportba tartozó személyek nyilvántartását, amelyet tárgyév április 30-ig továbbít az ONI-nak.
 
 (5) A népegészségügyi szerv a „C”, a „D” és az „E” szintű hozzáféréssel rendelkező várandós személyek és 3 év alatti gyermeket nevelő személyek számára, egyszeri, ingyenes vízvizsgálati lehetőséget biztosít az ivóvízellátás mikrobiológiai minőségének, nitrit és nitrát tartalmának ellenőrzésére.
 
@@ -52,8 +52,8 @@ e) közigazgatási területén arra ösztönzi a vendéglátó ipari szolgáltat
 
 f) közigazgatási területén gondoskodik róla, hogy a hajléktalanellátást biztosító létesítmények biztosítsák a hajléktalanok tájékoztatását a településen nyilvánosan igénybe vehető ivóvízvételi lehetőségekről.
 
-(7)[^51] A (3) bekezdés e), f) és h) pontja, valamint a (6) bekezdés c) pontja szerinti tájékoztatáshoz az NNGYK által készített tájékoztató anyagok felhasználhatók.
+(7)[^51] A (3) bekezdés e), f) és h) pontja, valamint a (6) bekezdés c) pontja szerinti tájékoztatáshoz az ONI által készített tájékoztató anyagok felhasználhatók.
 
 [^49]: A 24. § (3) bekezdés c) pontja a 264/2023. (VI. 28.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
-[^50]: A 24. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 9. §-ával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 71. § f) pontja szerint módosított szöveg.
-[^51]: A 24. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^50]: A 24. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 9. §-ával megállapított, a 378/2026. (X. 29.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^51]: A 24. § (7) bekezdése a 378/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
