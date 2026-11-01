@@ -16,9 +16,9 @@
 
 |  | b) véralkohol, vérfolt, testváladék, haj-szőr, diatóma, szén-monoxid, szövettani vizsgálat csontvázlelet alapján történő személyazonosítás | NSZKK egyetemi intézetek |
 
-|  | c) ételmérgezéssel és ételfertőzéssel kapcsolatos bakteriológiai szakkérdés | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
+|  | c) ételmérgezéssel és ételfertőzéssel kapcsolatos bakteriológiai szakkérdés | Országos Népegészségügyi Intézet |
 
-|  | d) vírustani vizsgálat | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
+|  | d) vírustani vizsgálat | Országos Népegészségügyi Intézet |
 
 | 3. | Toxikológiai vizsgálatok: |  |
 
@@ -34,7 +34,7 @@
 
 |  | f) gyermekjáték, csomagoló- és tárolóanyag, kozmetikai készítmény toxikológiai vizsgálata | NSZKK |
 
-|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | NSZKK Nemzeti Népegészségügyi és Gyógyszerészeti Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | NSZKK Országos Népegészségügyi Intézet (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 4. | Tűzvizsgálat (tűzveszélyes folyadékok, ásványolaj-származékok, bűnjelről származó tűzveszélyes és ásványolaj-származék maradványok, égésmaradványok laboratóriumi vizsgálata) | NSZKK, egyetemi intézetek, Katasztrófavédelmi Kutatóintézet |
 
@@ -42,7 +42,7 @@
 
 | 6. | Lőfegyverrel elkövetett bűncselekmény esetén az ismeretlen lőfegyverek, töltényhüvelyek és lövedékek azonosítási vizsgálata | NSZKK |
 
-| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Nemzeti Népegészségügyi és Gyógyszerészeti Központ Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos Népegészségügyi Intézet Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 8. |  |  |
 
@@ -58,4 +58,4 @@
 
 Szakvélemény adására elsősorban feljogosított szervek
 
-[^10]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja, a 350/2023. (VII. 27.) Korm. rendelet 2. §-a, a 481/2025. (XII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja, a 350/2023. (VII. 27.) Korm. rendelet 2. §-a, a 481/2025. (XII. 31.) Korm. rendelet 1. §-a, a 337/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -46,7 +46,7 @@
 
 |  | b) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet I. melléklete alapján a II. és III. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | foglalkoztatáspolitikáért felelős miniszter |
 
-| 11. | Gyógyszerek vizsgálata | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
+| 11. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti Intézet |
 
 | 12. | Közlekedéspszichológiai kérdések, vizsgálatok | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság |
 
@@ -150,7 +150,7 @@ Szakvélemény adására feljogosított szervek
 
 | 42 |  | b) mozgóképterjesztés, állagvédelem | Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság |
 
-| 43 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Népegészségügyi és Gyógyszerészeti Központ, Magyar Honvédség Egészségügyi Központ |
+| 43 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Országos Népegészségügyi Intézet, Magyar Honvédség Egészségügyi Központ[^13] |
 
 | 44 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
@@ -174,3 +174,4 @@ Szakvélemény adására feljogosított szervek
 
 [^11]: A 4. számú melléklet a 331/2024. (XI. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. mellékletben foglalt táblázat 24. sorát a 481/2025. (XII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^13]: A 4. számú mellékletben foglalt táblázat 43:C mezője a 337/2026. (X. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.

@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-282-20-
 | 2025-01-01 | 2007-282-20-22.35 | 331/2024. (XI. 14.) Korm. rendelet |
 | 2026-01-01 | 2007-282-20-22.37 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2026-02-09 | 2007-282-20-22.36 | 273/2010. (XII. 9.) Korm. rendelet |
+| 2026-11-01 | 2007-282-20-22.38 | 53/2008. (III. 14.) Korm. rendelet |
