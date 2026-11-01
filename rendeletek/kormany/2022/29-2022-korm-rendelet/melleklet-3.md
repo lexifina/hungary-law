@@ -1,4 +1,4 @@
-3. melléklet a 29/2022. (I. 31.) Korm. rendelethez[^35]
+3. melléklet a 29/2022. (I. 31.) Korm. rendelethez[^36]
 
 EESZT csatlakozáshoz használt informatikai rendszerek felhasználási területei
 
@@ -68,4 +68,4 @@ EESZT csatlakozáshoz használt informatikai rendszerek felhasználási terület
 
 5.2. Több önálló szervezetet egy infrastruktúráról, de elkülönített adatkezeléssel működtető alkalmazás
 
-[^35]: A 3. mellékletet a 294/2025. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^36]: A 3. mellékletet a 294/2025. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
