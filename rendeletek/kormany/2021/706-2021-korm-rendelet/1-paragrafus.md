@@ -28,7 +28,7 @@ a) az (1) bekezdés a), b) és e) pontja szerinti egészségügyi intézmény es
 
 b) az (1) bekezdés c) és d) pontja szerinti egészségügyi intézmény esetében a honvédelmi egészségügyi szolgáltató fenntartója és az Országos Kórházi Főigazgatóság együtt;
 
-7.[^1] Szakértői Bizottság: az egészségügyért felelős miniszter által kijelölt bizottság, amelynek tagjai az (1) bekezdés szerinti egészségügyi intézmények fenntartói, az ágazati specifikációk miatt a honvédelemért felelős miniszter által kijelölt személy, a Nemzeti Egészségbiztosítási Alapkezelő, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ, a Kulturális és Innovációs Minisztérium, valamint a meghívott érdekképviseletek képviselői és a meghívott szakértők;
+7.[^1] Szakértői Bizottság: az egészségügyért felelős miniszter által kijelölt bizottság, amelynek tagjai az (1) bekezdés szerinti egészségügyi intézmények fenntartói, az ágazati specifikációk miatt a honvédelemért felelős miniszter által kijelölt személy, a Nemzeti Egészségbiztosítási Alapkezelő, az Országos Népegészségügyi Intézet, a Kulturális és Innovációs Minisztérium, valamint a meghívott érdekképviseletek képviselői és a meghívott szakértők;
 
 8. szakmai minőségértékelés: a megelőzésnek és a betegellátásnak a szakmai szabályokkal, érvényben lévő szakmai irányelvekkel, eljárásokkal, ajánlásokkal, a nemzetközi legjobb gyakorlattal való összevetése, értékelése, az alkalmazott eljárások dokumentációs rendszere és az adatszolgáltatás minőségi követelményeinek meghatározása és értékelése;
 
@@ -36,4 +36,4 @@ b) az (1) bekezdés c) és d) pontja szerinti egészségügyi intézmény eseté
 
 (3) Az (1) és (2) bekezdés eltérő rendelkezése hiányában e rendelet alkalmazásában az Eütv. 3. §-ában meghatározott fogalmak alkalmazandók.
 
-[^1]: Az 1. § (2) bekezdés 7. pontja a 238/2022. (VI. 30.) Korm. rendelet 217. §-a, a 334/2023. (VII. 20.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdés 7. pontja a 238/2022. (VI. 30.) Korm. rendelet 217. §-a, a 375/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
