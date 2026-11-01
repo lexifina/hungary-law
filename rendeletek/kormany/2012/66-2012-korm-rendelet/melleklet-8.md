@@ -1,4 +1,4 @@
-## NNGYK
+## Országos Gyógyszerészeti Intézet
 
 ## KÁBÍTÓSZER (K1, K2) / PSZICHOTRÓP ANYAG (P1, P2, P3, P4) EXPORT adatlap
 
@@ -58,4 +58,4 @@
 
 8. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^183]
 
-[^183]: A 8. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (6) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.
+[^183]: A 8. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (6) bekezdésével megállapított, a 347/2026. (X. 29.) Korm. rendelet 1. § i) pontja szerint módosított szöveg. [A 8. mellékletben a 347/2026. (X. 29.) Korm. rendelet 1. § g) pontja által elrendelt módosítás, amely szerint az „NNGYK-tól” szövegrész helyébe az „OGYI-tól” szöveg lép, nem vezethető át.]

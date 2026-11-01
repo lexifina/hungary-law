@@ -6,7 +6,7 @@
 
 (2) A selejtezett anyagokról az anyag e rendelet mellékletei szerinti megnevezésének, mennyiségének és a selejtté válás okának feltüntetésével tételes jegyzőkönyvet kell készíteni. A jegyzőkönyvet az engedélyes képviseletére jogosult személynek és a kijelölt kábítószer-felelősnek vagy helyettesének, vagy a kábítószerért felelős személynek is alá kell írnia. A selejtezett anyagokat megsemmisítésig elkülönítetten, a kábítószerek tárolására vonatkozó előírások szerint kell tárolni.
 
-(3)[^124] Az (1) bekezdés szerinti anyagokat és készítményeket égetéssel kell megsemmisíteni. Az átadásra fel nem kínált, és az át nem vett mákszalma-maradványt égetéssel vagy talajba forgatással kell megsemmisíteni. A megsemmisítést – a nyomozó hatóság birtokába került, vagy a tárgyi eljárás során lefoglalt, de elkobzásra nem került anyagok vagy készítmények kivételével – az NNGYK engedélyezi.
+(3)[^124] Az (1) bekezdés szerinti anyagokat és készítményeket égetéssel kell megsemmisíteni. Az átadásra fel nem kínált, és az át nem vett mákszalma-maradványt égetéssel vagy talajba forgatással kell megsemmisíteni. A megsemmisítést – a nyomozó hatóság birtokába került, vagy a tárgyi eljárás során lefoglalt, de elkobzásra nem került anyagok vagy készítmények kivételével – az OGYI engedélyezi.
 
 (4) A megsemmisítést veszélyes hulladék égetésére környezetvédelmi hatósági engedéllyel rendelkező égetőműben kell végezni.
 
@@ -18,7 +18,7 @@
 
 [^122]: A 21/A. §-t a 413/2015. (XII. 23.) Korm. rendelet 42. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 43. §-ával megállapított szöveg.
 [^123]: A 22. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 54. § (1) bekezdésével megállapított, a 347/2019. (XII. 23.) Korm. rendelet 14. § g) pontja, a 607/2022. (XII. 28.) Korm. rendelet 10. § 14. pontja szerint módosított szöveg.
-[^124]: A 22. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 54. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^124]: A 22. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 54. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^125]: A 22. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 54. § (3) bekezdésével megállapított, a 347/2019. (XII. 23.) Korm. rendelet 14. § g) pontja, a 607/2022. (XII. 28.) Korm. rendelet 10. § 13. pontja szerint módosított szöveg.
 [^126]: A 22. § (6) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^127]: A 22. § (7) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

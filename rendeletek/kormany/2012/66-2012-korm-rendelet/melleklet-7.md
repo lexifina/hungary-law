@@ -18,8 +18,8 @@
 
 | Átadó – pl. gyógyszer-nagykereskedő, gyógyszergyár, gyógyszertár, intézet, állatgyógyászati intézmény stb. (név, cím, bélyegző, dátum, aláírás) | Szállító/Szállítmányozó – belföldi szállításra (név, cím, bélyegző, dátum, aláírás) |
 
-| Ez a dokumentum 5 példányban készül, minden példányát eredeti bélyegzővel és eredeti aláírással kell ellátni. Az 1. példány a megrendelőnél marad. A 2. példány az átadónál marad. A 3., 4., 5. példány a szállítmánnyal visszakerül a megrendelőhöz. A megrendelő a 4., 5. példányt az átadónak 48 órán belül visszaküldi, aki az 5. példányt az NNGYK-nak küldi tovább. |
+| Ez a dokumentum 5 példányban készül, minden példányát eredeti bélyegzővel és eredeti aláírással kell ellátni. Az 1. példány a megrendelőnél marad. A 2. példány az átadónál marad. A 3., 4., 5. példány a szállítmánnyal visszakerül a megrendelőhöz. A megrendelő a 4., 5. példányt az átadónak 48 órán belül visszaküldi, aki az 5. példányt az OGYI-nak küldi tovább. |
 
 7. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^182]
 
-[^182]: A 7. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (5) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.
+[^182]: A 7. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (5) bekezdésével megállapított, a 347/2026. (X. 29.) Korm. rendelet 1. § i) pontja szerint módosított szöveg. [A 7. mellékletben a 347/2026. (X. 29.) Korm. rendelet 1. § g) pontja által elrendelt módosítás, amely szerint az „NNGYK-tól” szövegrész helyébe az „OGYI-tól” szöveg lép, nem vezethető át.]

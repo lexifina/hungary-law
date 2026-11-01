@@ -1,4 +1,4 @@
-9. § (1)[^64] A tevékenységi engedélyt az NNGYK visszavonja amennyiben:
+9. § (1)[^64] A tevékenységi engedélyt az OGYI visszavonja amennyiben:
 
 a) az engedélyes azt kéri,
 
@@ -12,7 +12,7 @@ e) az engedélyes az engedélyezett tevékenységet bizonyíthatóan nem kezdi m
 
 f) a felfüggesztésre okot adó körülményt a felfüggesztés időtartama alatt nem szünteti meg.
 
-(2)[^65] A tevékenységi engedély alapján folytatott tevékenység folytatását az NNGYK felfüggeszti, ha
+(2)[^65] A tevékenységi engedély alapján folytatott tevékenység folytatását az OGYI felfüggeszti, ha
 
 a) az engedélyes az e rendeletben foglalt előírásokat, vagy az engedélyben meghatározott feltételeket megszegi,
 
@@ -22,14 +22,14 @@ c) az engedélyes a 18. § (2)–(4) bekezdése szerinti adatszolgáltatást nem
 
 (3) A felfüggesztés időtartamát a felfüggesztésre okot adó magatartás súlyára, a jogsértés időtartamára vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a felfüggesztés időtartama legfeljebb egy év lehet.
 
-(4)[^66] Amennyiben az engedélyes a felfüggesztésre okot adó körülményt a felfüggesztés időtartama alatt megszünteti, és ezt bejelenti, az NNGYK dönt a felfüggesztés megszüntetéséről.
+(4)[^66] Amennyiben az engedélyes a felfüggesztésre okot adó körülményt a felfüggesztés időtartama alatt megszünteti, és ezt bejelenti, az OGYI dönt a felfüggesztés megszüntetéséről.
 
-(5)[^67] Az NNGYK a tevékenységi engedély felfüggesztéséről és visszavonásáról szóló határozatát közli a rendőrséggel, és a felfüggesztést vagy visszavonást kezdeményező hatósággal.
+(5)[^67] Az OGYI a tevékenységi engedély felfüggesztéséről és visszavonásáról szóló határozatát közli a rendőrséggel, és a felfüggesztést vagy visszavonást kezdeményező hatósággal.
 
-(6)[^68] Az engedély felfüggesztésének vagy visszavonásának tényét az NNGYK a honlapján közhírré teszi.
+(6)[^68] Az engedély felfüggesztésének vagy visszavonásának tényét az OGYI a honlapján közhírré teszi.
 
-[^64]: A 9. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^65]: A 9. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^66]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^67]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^68]: A 9. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 391. §-a, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^64]: A 9. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^65]: A 9. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^66]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^67]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^68]: A 9. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 391. §-a, a 347/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
