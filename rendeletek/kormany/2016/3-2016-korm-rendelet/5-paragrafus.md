@@ -10,7 +10,7 @@ b) a genetikai erőforrás vagy genetikai erőforráshoz kapcsolódó hagyomány
 
 ba)[^2] a növénytermesztési, élelmiszerlánc-felügyeleti, erdészeti, vadászati, halgazdálkodási hatáskörében eljáró Pest Vármegyei Kormányhivatal,
 
-bb)[^3] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ.
+bb)[^3] az Országos Gyógyszerészeti Intézet.
 
 (2) Az (1) bekezdésben felsoroltakon túl ellenőrzési pontnak minősül minden olyan szerv, amely a genetikai erőforrás vagy genetikai erőforráshoz kapcsolódó hagyományos tudás
 
@@ -23,4 +23,4 @@ c) felhasználásával kifejlesztett terméket, illetve annak forgalomba hozatal
 d) felhasználásával kifejlesztett terméket, illetve annak forgalmazását ellenőrzi.
 
 [^2]: A 5. § (1) bekezdés b) pont ba) alpontja a 379/2016. (XII. 2.) Korm. rendelet 319. § b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 229. §-a szerint módosított szöveg.
-[^3]: Az 5. § (1) bekezdés b) pont bb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés b) pont bb) alpontja a 361/2026. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
