@@ -32,7 +32,7 @@ c) alapos okkal feltételezi, hogy a termesztő bejelentésében valótlan adato
 
 (4)[^44] Az étkezési mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
 
-(5)[^45] A kormányhivatal a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a NÉBIH-nek, amely azt június 15-ig összesítve továbbítja az NNGYK-nak.
+(5)[^45] A kormányhivatal a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a NÉBIH-nek, amely azt június 15-ig összesítve továbbítja az OGYI-nak.
 
 [^38]: A 8. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
 [^39]: A 8. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, nyitó szövegrésze a 19/2015. (II. 16.) Korm. rendelet 9. § 13–14. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -41,4 +41,4 @@ c) alapos okkal feltételezi, hogy a termesztő bejelentésében valótlan adato
 [^42]: A 8. § (2b) bekezdését a 19/2015. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^43]: A 8. § (3) bekezdése a 177/2015. (VII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^44]: A 8. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^45]: A 8. § (5) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^45]: A 8. § (5) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 331/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

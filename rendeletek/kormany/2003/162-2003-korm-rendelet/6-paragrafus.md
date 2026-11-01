@@ -30,10 +30,10 @@ d)[^31] a kifejtetlen ipari máktok teljes mennyiségét a termesztető részér
 
 e)[^32] a betakarítás után a kifejtetlen ipari máktok termesztető általi átvételét követően az általa az a) pontban meghatározott adattartalommal vezetett nyilvántartást a 7. § (2) bekezdése szerint aláíratni.
 
-(2)[^33] A termesztő köteles továbbá minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek, valamint a termesztővel szerződésben álló termesztetőnek haladéktalanul írásban bejelenteni. Az ügyészség a nyomozás eredményéről értesíti a kormányhivatalt, valamint az NNGYK-t.
+(2)[^33] A termesztő köteles továbbá minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek, valamint a termesztővel szerződésben álló termesztetőnek haladéktalanul írásban bejelenteni. Az ügyészség a nyomozás eredményéről értesíti a kormányhivatalt, valamint az OGYI-t.
 
 [^29]: A 6. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^30]: A 6. § (1) bekezdés a) pont aj) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
 [^31]: A 6. § (1) bekezdés d) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
 [^32]: A 6. § (1) bekezdés e) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
-[^33]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^33]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja, a 331/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
