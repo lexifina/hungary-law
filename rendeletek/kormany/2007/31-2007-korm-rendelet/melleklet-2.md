@@ -172,4 +172,4 @@
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^67]
 
-[^67]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja és (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 72. § b) és d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 12. és 13. §-a, a 107/2024. (V. 9.) Korm. rendelet 3. §-a, a 140/2024. (VI. 28.) Korm. rendelet 2. §-a és 3. § g) és h) pontja, a 62/2025. (III. 31.) Korm. rendelet 3. §-a és 4. § b) pontja szerint módosított szöveg.
+[^67]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja és (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 72. § b) és d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 12. és 13. §-a, a 107/2024. (V. 9.) Korm. rendelet 3. §-a, a 140/2024. (VI. 28.) Korm. rendelet 2. §-a és 3. § g) és h) pontja, a 62/2025. (III. 31.) Korm. rendelet 3. §-a és 4. § b) pontja, a 336/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
