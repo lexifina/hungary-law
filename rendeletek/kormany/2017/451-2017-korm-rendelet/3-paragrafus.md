@@ -54,7 +54,7 @@ k) az eszköz az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökről 
 
 l) az orvostechnikai eszközök európai uniós adatbázisában nem regisztrált orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz esetében – ide nem értve a rendelésre készült eszközöket –
 
-la) magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) történt regisztrációról szóló igazolást,
+la)[^8] magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az Országos Gyógyszerészeti Intézetnél (a továbbiakban: OGYI) történt regisztrációról szóló igazolást,
 
 lb) az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást;
 
@@ -64,11 +64,11 @@ n) ha rendelkezésre áll, az eszközre vonatkozó publikációk jegyzékét és
 
 o) a kérelmező nyilatkozatát a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmek esetén a kérelemben foglaltak és az elektronikus adathordozón benyújtott adatok azonosságáról és hitelességéről.
 
-(5a)[^8] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az NNGYK-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
+(5a)[^9] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az OGYI-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
 
 (6) Ha az eszköz az (5) bekezdés b) pont bd) alpontja szerinti esetben finanszírozott, meg kell jelölni tagállamonként a finanszírozás módját, mértékét, illetve összegét.
 
-(7)[^9] A Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelemhez csatolni kell az (1) bekezdésben megjelölt kérelmen túl
+(7)[^10] A Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelemhez csatolni kell az (1) bekezdésben megjelölt kérelmen túl
 
 a) a nem magyarországi gyártó által a kérelmet benyújtó magyarországi forgalomba hozó részére kiállított írásbeli meghatalmazást a kérelmezett eszközre vonatkozó gyártói képviseletre;
 
@@ -96,15 +96,15 @@ a) be) alpontja szerinti bejelentés esetén a bejelentéshez csatolni kell
 
 aa) az árcsökkentéssel érintett eszköz nevét és 13–15 jegyű ISO kódját, valamint a bejelentés idején érvényes, továbbá a bejelentés szerinti közfinanszírozás alapjául javasolt árat, illetve
 
-ab)[^10]
+ab)[^11]
 
 b) bg) alpontja szerinti bejelentés esetén a bejelentéshez csatolni kell
 
 ba) a törléssel érintett eszköz nevét és 13–15 jegyű ISO kódját, valamint a törlés rövid indoklását, illetve
 
-bb)[^11]
+bb)[^12]
 
-(11a)[^12] Ha a Gyftv. 32. § (2) bekezdés b) pont be) és bg) alpontja szerinti bejelentés esetén a bejelentő a NEAK szállítójegyzékében nem szerepel, az egészségbiztosítási szerv elektronikus úton hivatalból szerzi be a cégnyilvántartásból a cégjegyzésre jogosult képviselő aláírási címpéldányát.
+(11a)[^13] Ha a Gyftv. 32. § (2) bekezdés b) pont be) és bg) alpontja szerinti bejelentés esetén a bejelentő a NEAK szállítójegyzékében nem szerepel, az egészségbiztosítási szerv elektronikus úton hivatalból szerzi be a cégnyilvántartásból a cégjegyzésre jogosult képviselő aláírási címpéldányát.
 
 (12) Ha a gyógyászati segédeszköz használati útmutatójában a befogadást követően változás következik be, a módosított útmutatót a módosítás pontos megjelölésével az érintett gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője a NEAK-nak benyújtja.
 
@@ -118,8 +118,9 @@ bb)[^11]
 [^5]: A 3. § (1) bekezdés e) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdését a 128/2024. (VI. 17.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^7]: A 3. § (5) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege, a 334/2023. (VII. 20.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
-[^9]: A 3. § (7) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^10]: A 3. § (11) bekezdés a) pont ab) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
-[^11]: A 3. § (11) bekezdés b) pont bb) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
-[^12]: A 3. § (11a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 29. §-a iktatta be.
+[^8]: A 3. § (5) bekezdés l) pont la) alpontja a 369/2026. (X. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 369/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (7) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (11) bekezdés a) pont ab) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^12]: A 3. § (11) bekezdés b) pont bb) alpontját a 395/2025. (XII. 16.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^13]: A 3. § (11a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 29. §-a iktatta be.

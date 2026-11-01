@@ -1,4 +1,4 @@
-## 6. § Nem fogadható be olyan gyógyászati segédeszköz, amelynek a forgalomba hozó által kérelmezett közfinanszírozás alapjául szolgáló ára, közfinanszírozás alapjául szolgáló kölcsönzési napidíja
+6. § Nem fogadható be olyan gyógyászati segédeszköz, amelynek a forgalomba hozó által kérelmezett közfinanszírozás alapjául szolgáló ára, közfinanszírozás alapjául szolgáló kölcsönzési napidíja
 
 a) a referenciaeszköz közfinanszírozás alapjául szolgáló áránál az FFX-csoportba sorolandó eszköz esetében 50%-kal, az RFX-csoportba sorolandó eszköz esetében 100%-kal magasabb, vagy
 
