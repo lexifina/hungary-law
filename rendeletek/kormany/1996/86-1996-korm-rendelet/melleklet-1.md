@@ -104,7 +104,7 @@ A biztonsági okmányok
 
 3.1.22. közgyógyellátási igazolvány;
 
-3.1.23. a Nemzeti Népegészségügyi és Gyógyszerészeti Központban dolgozó hatósági személy igazolványa;
+3.1.23.[^60] az Országos Népegészségügyi Intézetben dolgozó hatósági személy igazolványa;
 
 3.1.24. a szakorvosi, szakfogorvosi, szakgyógyszerészi, szakpszichológusi és egyéb egészségügyi felsőfokú szakirányú szakképesítések megszerzése esetén kiadott bizonyítvány;
 
@@ -126,7 +126,7 @@ A biztonsági okmányok
 
 3.1.33. oktatási intézmények által kiállított bizonyítványok, bizonyítvány-pótlapok;
 
-3.1.34.[^60] hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti szolgálati viszony fennállásának igazolására szolgáló honvédségi szolgálati igazolvány;
+3.1.34.[^61] hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti szolgálati viszony fennállásának igazolására szolgáló honvédségi szolgálati igazolvány;
 
 3.1.35. a honvédelmi szervezetek és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény személyi állományába tartozást igazoló kormánytisztviselői igazolvány, közalkalmazotti igazolvány, honvédelmi alkalmazotti igazolvány (honvédelmi munkáltatói igazolvány);
 
@@ -146,15 +146,15 @@ A biztonsági okmányok
 
 3.1.43. adatlap a külföldi fegyveres erő vagy nemzetközi katonai parancsnokság állománya tagjának hozzátartozója részére;
 
-3.1.44.[^61] a Magyar Honvédség központi nyilvántartó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és az állományuk tagja részére kiállított igazolvány a jogállásukról, a kiváltságaik és a mentességeik igénybevételére;
+3.1.44.[^62] a Magyar Honvédség központi nyilvántartó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és az állományuk tagja részére kiállított igazolvány a jogállásukról, a kiváltságaik és a mentességeik igénybevételére;
 
 3.1.45. futárigazolványok;
 
-3.1.46.[^62] a nemzetbiztonsági szolgálatok hivatásos és nemzetbiztonsági alkalmazotti állománya részére rendszeresített szolgálati igazolványok, valamint a nemzetbiztonsági szolgálatoktól nyugállományba helyezettek nyugdíjas igazolványai és a szolgálati járandóságra jogosultságot igazoló igazolványai;
+3.1.46.[^63] a nemzetbiztonsági szolgálatok hivatásos és nemzetbiztonsági alkalmazotti állománya részére rendszeresített szolgálati igazolványok, valamint a nemzetbiztonsági szolgálatoktól nyugállományba helyezettek nyugdíjas igazolványai és a szolgálati járandóságra jogosultságot igazoló igazolványai;
 
 3.1.47. a nemzetbiztonsági szolgálatok üzemben tartásában lévő járművek közúti ellenőrzés alóli mentesülését biztosító igazolványai;
 
-3.1.48.[^63] a rendvédelmi szervek hivatásos állománya részére rendszeresített szolgálati igazolványok, nem hivatásos állománya részére rendszeresített munkáltatói igazolványok, valamint az ezen szervektől nyugállományba helyezettek nyugdíjas igazolványai és a szolgálati járandóságra jogosultságot igazoló igazolványai;
+3.1.48.[^64] a rendvédelmi szervek hivatásos állománya részére rendszeresített szolgálati igazolványok, nem hivatásos állománya részére rendszeresített munkáltatói igazolványok, valamint az ezen szervektől nyugállományba helyezettek nyugdíjas igazolványai és a szolgálati járandóságra jogosultságot igazoló igazolványai;
 
 3.1.49. a Belügyminisztérium, továbbá a belügyminiszter irányítása alá tartozó – más alpontban nem nevesített – szervek személyi állományának munkáltatói igazolványai és az ezen szervektől nyugállományba helyezettek nyugdíjas igazolványai;
 
@@ -186,7 +186,7 @@ A biztonsági okmányok
 
 3.1.63. az Országgyűlés nemzetiségi szószólójának igazolványa;
 
-3.1.64.[^64] az Országgyűlési Őrség hivatásos állománya részére rendszeresített szolgálati igazolványok;
+3.1.64.[^65] az Országgyűlési Őrség hivatásos állománya részére rendszeresített szolgálati igazolványok;
 
 3.1.65. vámtanácsadói igazolvány;
 
@@ -276,11 +276,11 @@ A biztonsági okmányok
 
 3.1.108. a Nemzeti Adatvédelmi és Információszabadság Hatóság által kibocsátott köztisztviselői és munkavállalói igazolványok;
 
-3.1.109.[^65] a fővárosi és a megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala kormánytisztviselőinek hatósági ellenőrzésre jogosító igazolványa;
+3.1.109.[^66] a fővárosi és a megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala kormánytisztviselőinek hatósági ellenőrzésre jogosító igazolványa;
 
-3.1.110.[^66] Magyar Államkincstár helyszíni ellenőri igazolvány,
+3.1.110.[^67] Magyar Államkincstár helyszíni ellenőri igazolvány,
 
-3.1.111.[^67] az Országos Atomenergia Hivatalnál hatósági feladatokat ellátó személyek szolgálati igazolványa.
+3.1.111.[^68] az Országos Atomenergia Hivatalnál hatósági feladatokat ellátó személyek szolgálati igazolványa.
 
 3.2. A védelmet igénylő létesítmények, szervek, intézmények belépési engedélyei, belépésre jogosító igazolványai:
 
@@ -325,11 +325,12 @@ A biztonsági okmányok
 3.2.20. a légiközlekedési, a légiközlekedési védelmi hatósági felügyeletet ellátó és a légiközlekedés védelmi, valamint biztonsági ellenőrzést végző személyek részére kiállított, a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre, ellenőrzésre jogosító igazolvány.
 
 [^59]: Az 1. melléklet az 563/2023. (XII. 14.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^60]: Az 1. melléklet 3.1.34. pontja a 176/2024. (VII. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^61]: Az 1. melléklet 3.1.44. pontja a 313/2024. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^62]: Az 1. számú melléklet 3.1.46. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^63]: Az 1. számú melléklet 3.1.48. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^64]: Az 1. melléklet 3.1.64. pontja a 160/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^65]: Az 1. számú melléklet 3.1.109. pontja a 227/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^66]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^67]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^60]: Az 1. melléklet 3. pont 3.1.23. alpontja a 326/2026. (X. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^61]: Az 1. melléklet 3.1.34. pontja a 176/2024. (VII. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^62]: Az 1. melléklet 3.1.44. pontja a 313/2024. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^63]: Az 1. számú melléklet 3.1.46. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^64]: Az 1. számú melléklet 3.1.48. pontja a 24/2025. (II. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^65]: Az 1. melléklet 3.1.64. pontja a 160/2026. (IX. 21.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^66]: Az 1. számú melléklet 3.1.109. pontja a 227/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^67]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^68]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
