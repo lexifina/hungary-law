@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A 22/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdése a következő p) ponttal egészül ki:
 
-[^2]: A 2. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+(A NÉBIH szakmai irányító tevékenysége keretében a vármegyei kormányhivatalok)

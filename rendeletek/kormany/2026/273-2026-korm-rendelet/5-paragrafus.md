@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+5. § A 22/2012. (II. 29.) Korm. rendelet 4/A. § (1) bekezdés h) pontjában a „takarmánybiztonsági” szövegrész helyébe a „takarmánybiztonsági, növénytermesztési” szöveg lép.

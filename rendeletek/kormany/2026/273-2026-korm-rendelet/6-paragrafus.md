@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+6. § Hatályát veszti a 22/2012. (II. 29.) Korm. rendelet 4/A. § (9) bekezdése.

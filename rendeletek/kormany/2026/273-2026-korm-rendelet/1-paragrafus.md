@@ -26,6 +26,6 @@
 
 ## 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet [a továbbiakban: 22/2012. (II. 29.) Korm. rendelet] 2. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 20. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+„(3) Az agrárkár-megállapító, mezőgazdasági haszonállatok jóléte vonatkozásában állatvédelmi, borászati, élelmiszerlánc-felügyeleti, – a végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében történő földárverés és pályáztatás kivételével – földművelésügyi igazgatási, halgazdálkodási, mezőgazdasági igazgatási, növénytermesztési, pálinkaellenőrzési, talajvédelmi, telepítési és tenyésztési feladatkörében eljáró megyei kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekben a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 40. § (4) bekezdés c) pontja szerinti hatáskörök gyakorlására a Kormány a NÉBIH-et jelöli ki.”
