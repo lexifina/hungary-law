@@ -1,3 +1,5 @@
-6. §[^1]
+6. § (1) A kereskedő az iskolakezdési utalványt 2027. május 15-éig válthatja be a pénzforgalmi számláját vezető pénzforgalmi szolgáltató fióki pénztárában, ennek hiányában bármely pénzforgalmi szolgáltató fióki pénztárában.
 
-[^1]: A 6. § a 10. § (2) bekezdése alapján 2026. november 1-jén lép hatályba.
+(2) A pénzforgalmi szolgáltató a beváltáskor elvégzi az iskolakezdési utalvány eredetiségének ellenőrzését az utalvány sorszámának és az utalvány biztonsági elemeinek ellenőrzésével, és a beváltott utalvány ellenértékét – a (3) bekezdés szerinti beváltási díjjal csökkentett – névértékben számlapénz vagy – pénzforgalmi számla hiányában – készpénz formájában biztosítja a beváltó kereskedő részére, ha ellenőrzése alapján a kereskedő erre jogosult. A beváltás módjára vonatkozó tájékoztatót a pénzforgalmi szolgáltató a honlapján közzéteszi.
+
+(3) Az iskolakezdési utalvány beváltása során a pénzforgalmi szolgáltató legfeljebb az iskolakezdési utalvány névértékének 1%-át számíthatja fel beváltási díjként a kereskedő felé. A beváltáshoz kapcsolódóan a kereskedő részére egyéb díj vagy jutalék nem számítható fel.
