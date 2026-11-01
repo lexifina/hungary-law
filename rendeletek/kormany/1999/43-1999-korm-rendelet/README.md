@@ -169,3 +169,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2026-07-24 | 1999-43-20-22.242 | 113/2026. (VII. 23.) Korm. rendelet |
 | 2026-09-19 | 1999-43-20-22.243 | 147/2026. (IX. 18.) Korm. rendelet |
 | 2026-10-28 | 1999-43-20-22.244 | 302/2026. (X. 27.) Korm. rendelet |
+| 2026-11-01 | 1999-43-20-22.245 | 205/2016. (VII. 21.) Korm. rendelet |
