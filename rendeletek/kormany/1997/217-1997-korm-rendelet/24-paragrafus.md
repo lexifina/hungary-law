@@ -4,7 +4,7 @@ a)[^445] az általa forgalmazott gyógyászati segédeszköz tekintetében megfe
 
 aa) az e területre kijelölt, az orvostechnikai eszközt gyártók minőségirányítási rendszerét tanúsító szervezet eljárásának lefolytatását, érvényben tartását igazoló minőségirányítási rendszer tanúsítvánnyal, vagy
 
-ab)[^446] a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletnek az egyedi méretvétel alapján készült gyógyászati segédeszközök gyártására és kiszolgálására vonatkozó követelményekről szóló mellékletében meghatározott követelmények teljesítését igazoló, az NNGYK által a gyártó vonatkozásában kiadott határozattal,
+ab)[^446] a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletnek az egyedi méretvétel alapján készült gyógyászati segédeszközök gyártására és kiszolgálására vonatkozó követelményekről szóló mellékletében meghatározott követelmények teljesítését igazoló, az OGYI által a gyártó vonatkozásában kiadott határozattal,
 
 b)[^447] megfelel a külön jogszabályban foglalt feltételeknek, amennyiben jogszabály az adott gyógyászati segédeszköz(ök) forgalmazását, javítását, kölcsönzését meghatározott személyi vagy tárgyi feltételek meglétéhez köti, és
 
@@ -12,6 +12,6 @@ c)[^448] a szerződéskötést megelőző két éven belül nem volt olyan egyé
 
 [^444]: A Vhr. 24. §-a a 232/1998. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított, nyitó szövegrésze a 295/2002. (XII. 27.) Korm. rendelet 23. § (4) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^445]: A Vhr. 24. § a) pontja a 192/2015. (VII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^446]: A Vhr. 24. § a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^446]: A Vhr. 24. § a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja, a 327/2026. (X. 29.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^447]: A Vhr. 24. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^448]: A Vhr. 24. §-ának c) pontját a 200/2006. (X. 2.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2006. október 16. napját követően kiállított vények esetén kell alkalmazni.
