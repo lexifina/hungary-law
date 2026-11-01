@@ -22,11 +22,11 @@ szorzóval súlyozottan kerülnek figyelembevételre.
 
 (3)[^41]
 
-(4)[^42] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétéről a gyógyszertárak szakmai felügyeletét ellátó Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) hatósági bizonyítványt állít ki a támogatást igénylő kérelmére. Az NNGYK az általa kiállított hatósági bizonyítványon feltünteti a (2) bekezdés alapján kiszámított, egy gyógyszertár által igényelhető működési célú támogatás összegét.
+(4)[^42] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétéről a gyógyszertárak szakmai felügyeletét ellátó Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) hatósági bizonyítványt állít ki a támogatást igénylő kérelmére. Az OGYI az általa kiállított hatósági bizonyítványon feltünteti a (2) bekezdés alapján kiszámított, egy gyógyszertár által igényelhető működési célú támogatás összegét.
 
 (5)[^43]
 
-(6)[^44] A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat a NEAK az NNGYK számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
+(6)[^44] A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat a NEAK az OGYI számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
 
 (7)[^45] A gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv a gyógyszertár helye szerint illetékes adóhatóság részére az adózás rendjéről szóló 2017. évi CL. törvény 93. §-a szerint szolgáltat adatot.
 
@@ -42,9 +42,9 @@ szorzóval súlyozottan kerülnek figyelembevételre.
 [^39]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított, a 231/2022. (VI. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^40]: A 6/C. § (2b) bekezdését a 221/2023. (VI. 2.) Korm. rendelet 1. §-a iktatta be, a 2. §-a hatályon kívül helyezte.
 [^41]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
-[^42]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 8. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 5. § a) és b) pontja szerint módosított szöveg.
+[^42]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 8. § a) pontja, a 329/2026. (X. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^43]: A 6/C. § (5) bekezdését újonnan a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^44]: A 6/C. § (6) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 8. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^44]: A 6/C. § (6) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 8. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja, a 329/2026. (X. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^45]: A 6/C. § (7) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^46]: A 6/C. § (8) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^47]: A 6/C. § (9) bekezdése a 201/2010. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
