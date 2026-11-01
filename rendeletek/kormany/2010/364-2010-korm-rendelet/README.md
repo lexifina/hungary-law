@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-364-20-
 | 2022-01-01 | 2010-364-20-22.8 | 757/2021. (XII. 22.) Korm. rendelet |
 | 2023-08-01 | 2010-364-20-22.9 | 757/2021. (XII. 22.) Korm. rendelet |
 | 2024-06-18 | 2010-364-20-22.10 | 376/2012. (XII. 19.) Korm. rendelet |
+| 2026-11-01 | 2010-364-20-22.11 | 757/2021. (XII. 22.) Korm. rendelet |
