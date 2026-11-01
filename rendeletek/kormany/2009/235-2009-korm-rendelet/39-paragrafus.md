@@ -1,3 +1,3 @@
-39. §[^131]
+39. §[^133]
 
-[^131]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^133]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.

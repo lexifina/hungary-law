@@ -1,5 +1,5 @@
-## 3/B. [^128] CÍM
+## 3/B. [^130] CÍM
 
 ## AZ MDR ÉS AZ IVDR SZERINTI ETIKAI VÉLEMÉNY KIADÁSÁRA IRÁNYULÓ ELJÁRÁS
 
-[^128]: A 3/B. címet (37/D–37/G. §) a 135/2022. (IV. 7.) Korm. rendelet 10. §-a iktatta be.
+[^130]: A 3/B. címet (37/D–37/G. §) a 135/2022. (IV. 7.) Korm. rendelet 10. §-a iktatta be.

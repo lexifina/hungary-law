@@ -24,13 +24,13 @@ c) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás ter
 
 (3)[^68] A 16. § c) pontjában említett vizsgálat esetében a megbízó
 
-a)[^69] a 17. § (1) bekezdés b) pont ba) alpontja esetében az engedélyt az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint az NNGYK-tól,
+a)[^69] a 17. § (1) bekezdés b) pont ba) alpontja esetében az engedélyt az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint az OGYI-tól,
 
 b) a 17. § (1) bekezdés b) pont bb) alpontja esetében az etikai engedélyt az ETT TUKEB-től
 
 kéri meg.
 
-(4)[^70] Az NNGYK a 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az engedélyezési eljárás során értékeli, hogy
+(4)[^70] Az OGYI a 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az engedélyezési eljárás során értékeli, hogy
 
 a) a vizsgálat lefolytatása nem ösztönöz-e gyógyszerhasználatra,
 
@@ -40,7 +40,7 @@ c) a vizsgálat nem minősül-e klinikai vizsgálatnak,
 
 d)[^71]
 
-(5)[^72] A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az NNGYK megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
+(5)[^72] A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az OGYI megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
 
 (6) A 17. § (1) bekezdés b) pont bb) alpontjában említett vizsgálat esetében az ETT TUKEB értékeli, hogy
 
@@ -61,7 +61,7 @@ d) a vizsgálat tudományosan megalapozott-e.
 [^66]: A 18. § (2b) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
 [^67]: A 18. § (2c) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
 [^68]: A 18. § (3) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^69]: A 18. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 41. § g) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^70]: A 18. § (4) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^69]: A 18. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 41. § g) pontja, a 341/2026. (X. 29.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^70]: A 18. § (4) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja, a 341/2026. (X. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^71]: A 18. § (4) bekezdés d) pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^72]: A 18. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^72]: A 18. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 341/2026. (X. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
