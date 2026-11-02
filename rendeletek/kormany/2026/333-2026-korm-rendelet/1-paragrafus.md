@@ -2,4 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A magyar Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ feladatainak ellátásával kapcsolatos egyes kérdésekről szóló 28/2004. (II. 28.) Korm. rendelet 2. számú melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
