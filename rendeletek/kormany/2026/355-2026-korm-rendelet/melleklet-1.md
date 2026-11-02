@@ -1,13 +1,3 @@
-1. melléklet a 355/2026. (X. 29.) Korm. rendelethez
+1. melléklet a 355/2026. (X. 29.) Korm. rendelethez[^3]
 
-Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat A:148 mezője helyébe a következő mező lép:
-
-|  | (A) |
-
-| (1.) | (Egészségügyi szolgáltató neve) |
-
-„
-
-| (148.) | Országos Népegészségügyi Intézet |
-
-”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
