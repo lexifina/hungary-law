@@ -2,4 +2,6 @@
 
 ## [2] A Kormány az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló 2009. évi XCI. törvény 3. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai végrehajtásának egyes kérdéseiről szóló 253/2013. (VII. 5.) Korm. rendelet 2. § (1) bekezdésében a „Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szövegrész helyébe az „az Országos Népegészségügyi Intézet” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
