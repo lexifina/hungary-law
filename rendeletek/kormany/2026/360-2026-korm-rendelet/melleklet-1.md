@@ -1,7 +1,3 @@
-1. melléklet a 360/2026. (X. 29.) Korm. rendelethez
+1. melléklet a 360/2026. (X. 29.) Korm. rendelethez[^4]
 
-A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet 1. melléklet 15. pontja helyébe a következő rendelkezés lép:
-
-(Az OKSER tagjai)
-
-„15. Országos Népegészségügyi Intézet,”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

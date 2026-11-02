@@ -1,1 +1,3 @@
-2. § A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet 3. melléklet 1. pont 1.1. alpontjában foglalt táblázat B:2 mezőjében a „(Nemzeti Népegészségügyi és Gyógyszerészeti Központ)” szövegrész helyébe az „(Országos Népegészségügyi Intézet)” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
