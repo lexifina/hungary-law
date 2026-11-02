@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 67. § e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.) Korm. rendelet 7. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A nukleáris és radiológiai veszélyhelyzet esetén lakossági tájékoztatásra az (1) bekezdésben meghatározott szervekkel előzetes egyeztetés alapján jogosult szervek:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
