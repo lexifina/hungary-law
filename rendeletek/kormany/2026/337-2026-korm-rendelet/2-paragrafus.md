@@ -1,1 +1,3 @@
-2. § A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet 2. számú mellékletében foglalt táblázat 2. pont c) és d) alpontjában, 3. pont g) alpontjában és 7. pontjában, valamint 4. számú mellékletében foglalt táblázat 43:C mezőjében a „Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szövegrész helyébe az „Országos Népegészségügyi Intézet” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
