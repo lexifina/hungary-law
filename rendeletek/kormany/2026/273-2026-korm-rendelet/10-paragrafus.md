@@ -1,3 +1,3 @@
-10. § A 383/2016. (XII. 2.) Korm. rendelet 10. § a) pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(A Kormány erdészeti hatóságként)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

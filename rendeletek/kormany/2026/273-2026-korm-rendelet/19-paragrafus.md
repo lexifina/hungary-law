@@ -1,3 +1,3 @@
-19. § Az 568/2022. (XII. 23.) Korm. rendelet 13. §-a a következő (9) bekezdéssel egészül ki:
+19. §[^20]
 
-„(9) A kormányhivatalok agrárkár-megállapító, mezőgazdasági haszonállatok állatjóléte vonatkozásában állatvédelmi, borászati, élelmiszerlánc-felügyeleti, – a végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében történő földárverés és pályáztatás kivételével – földművelésügyi igazgatási, halgazdálkodási, mezőgazdasági igazgatási, növénytermesztési, pálinkaellenőrzési, talajvédelmi, telepítési, tenyésztési és vadászati feladat- és hatáskörben eljáró szakmai vezetői kinevezési, illetve felmentési jogát a kormánymegbízott a NÉBIH elnökének egyetértésével gyakorolja.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

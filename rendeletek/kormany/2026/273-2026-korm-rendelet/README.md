@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-273-20-
 | 2026-10-10 | 2026-273-20-22.1 | 273/2026. (X. 9.) Korm. rendelet |
 | 2026-10-11 | 2026-273-20-22.2 | 2010. évi CXXX. törvény |
 | 2026-11-01 | 2026-273-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-11-02 | 2026-273-20-22.4 | 2010. évi CXXX. törvény |

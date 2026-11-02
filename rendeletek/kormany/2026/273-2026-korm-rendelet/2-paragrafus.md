@@ -1,3 +1,3 @@
-2. § A 22/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdése a következő p) ponttal egészül ki:
+2. §[^3]
 
-(A NÉBIH szakmai irányító tevékenysége keretében a vármegyei kormányhivatalok)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

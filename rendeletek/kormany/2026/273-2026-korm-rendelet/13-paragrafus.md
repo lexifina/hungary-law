@@ -1,7 +1,3 @@
-## „d) 26. § (1) bekezdés d) pontjában, 44/B. § (1) bekezdésében foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,”
+13. §[^14]
 
-## (a kijelölt élelmiszerlánc-felügyeleti szerv.)
-
-13. § A 383/2016. (XII. 2.) Korm. rendelet 20. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A kijelölt élelmiszerlánc-felügyeleti szerv)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
