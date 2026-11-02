@@ -1,7 +1,3 @@
-4. § Az R. a következő 42. §-sal egészül ki:
+4. §[^5]
 
-„42. § (1) A 2026. október 31-ig megkötött babaváró kölcsönszerződések esetén a támogatott személy – a kamattámogatásra való jogosultság megszűnését követő 120 napon belül benyújtott – kérelmére a 15. § (1) bekezdés a) pontja, (1a) bekezdése és 16. § (2) bekezdése alapján őt terhelő fizetési kötelezettségből 1 000 000 forintot – illetve ha a kötelezettség összege ennél kisebb, akkor az azzal megegyező összeget – a fővárosi és megyei kormányhivatal elenged, ha a háztartásban az egy főre eső igazolt bruttó havi jövedelem nem haladja meg a kérelem benyújtása időpontjában hatályos kötelező legkisebb munkabér (minimálbér) bruttó összegének 100%-át.
-
-(2) Az (1) bekezdésben meghatározott elengedést kizárólag az e rendeletben meghatározott részletfizetéssel együtt lehet kezdeményezni.
-
-(3) Az 1 000 000 forint elengedésére vonatkozó kérelmet a hitelintézethez kell benyújtani. A hitelintézet a kormányhivatal döntésének előkészítése érdekében ellenőrzi az igazolásokat, majd a kérelem és az igazolások hiánytalan benyújtásától számított 10 napon belül továbbítja azokat a kormányhivatalnak. A kérelem elfogadásáról vagy elutasításáról a kormányhivatal – a hitelintézet továbbítását követően – 15 napon belül értesíti a támogatott személyt, és erről tájékoztatást küld a hitelintézet részére. A hitelintézet ezt követően 10 napon belül értesíti a támogatott személyt a döntésről és a hitelintézet útján a kincstár felé teljesítendő fizetési kötelezettségről.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
