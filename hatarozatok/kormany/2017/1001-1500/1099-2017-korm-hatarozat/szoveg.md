@@ -2,7 +2,7 @@
 
 a) a Habsburg Ottó Alapítványról szóló 2016. évi XCIX. törvény (a továbbiakban: Törvény) 1. § (2) bekezdésében, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében eljárva létrehozza a Habsburg Ottó Alapítványt (a továbbiakban: Alapítvány);
 
-b) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására a Miniszterelnökséget vezető minisztert jelöli ki;
+b)[^1] a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására a társadalmi kapcsolatokért és kultúráért felelős minisztert jelöli ki;
 
 c) a Törvényben meghatározott alapítványi célok megvalósításához az alapító okiratban 100,0 millió forint pénzbeli vagyoni juttatás (a továbbiakban: Induló Vagyon) rendelkezésre bocsátását vállalja.
 
@@ -26,11 +26,11 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az Alapítvány bírósági nyilvántartásba vételét követően azonnal
 
-2.a.[^1]
+2.a.[^2]
 
 3. A Kormány
 
-a)[^2] felhívja a nemzetgazdasági minisztert, hogy az Alapítvány Induló Vagyonának fedezetére biztosítson egyszeri jelleggel 100,0 millió forint forrást a Kvtv. XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 91. Habsburg Ottó Alapítvány létrehozásához, céljainak megvalósításához szükséges, alapító okirat szerinti pénzbeli vagyonrendelés jogcímcsoport javára;
+a)[^3] felhívja a nemzetgazdasági minisztert, hogy az Alapítvány Induló Vagyonának fedezetére biztosítson egyszeri jelleggel 100,0 millió forint forrást a Kvtv. XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 91. Habsburg Ottó Alapítvány létrehozásához, céljainak megvalósításához szükséges, alapító okirat szerinti pénzbeli vagyonrendelés jogcímcsoport javára;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -72,13 +72,13 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-i) felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy az Alapítvány működtetésével összefüggő feladatok ellátása érdekében a 2018. évtől, tartós jelleggel gondoskodjon 400,0 millió forintnak a központi költségvetés XI. Miniszterelnökség fejezet javára történő rendelkezésre állásáról.
+i)[^4] felhívja a pénzügyminisztert és a társadalmi kapcsolatokért és kultúráért felelős minisztert, hogy az Alapítvány működtetésével összefüggő feladatok ellátása érdekében tartós jelleggel gondoskodjon 400 000 000 forintnak a központi költségvetés XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet javára történő rendelkezésre állásáról.
 
-Felelős: nemzetgazdasági miniszter
+| Felelős: | pénzügyminiszter társadalmi kapcsolatokért és kultúráért felelős miniszter |
 
-Miniszterelnökséget vezető miniszter
+| Határidő: | az éves központi költségvetés tervezése során |
 
-Határidő: a 2018. évi központi költségvetés tervezése során, majd ezt követően az éves központi költségvetés tervezése során
-
-[^1]: A 2.a. pontot az 1313/2017. (VI. 8.) Korm. határozat 2. pontja iktatta be, a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: A 3. pont az 1313/2017. (VI. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1365/2026. (XI. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2.a. pontot az 1313/2017. (VI. 8.) Korm. határozat 2. pontja iktatta be, a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 3. pont az 1313/2017. (VI. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 3. pont i) alpontja az 1365/2026. (XI. 3.) Korm. határozat 1. pontjával megállapított szöveg.
