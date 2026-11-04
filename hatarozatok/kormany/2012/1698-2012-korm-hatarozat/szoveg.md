@@ -1,6 +1,6 @@
-1. A Kormány megbízza a Miniszterelnökséget vezető államtitkárt, hogy – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 10. § e) pontjában részére meghatározott, a miniszterelnök társadalompolitikai kérdésekkel összefüggő tevékenységének elősegítése érdekében, valamint az ehhez szükséges koordinációs feladatok keretében – ellássa a zsidó közösségek vagyoni igényeinek rendezésével, valamint a zsidó közösségekkel összefüggő kulturális, hagyományőrző, oktatási és történelmi tényfeltáró tevékenységekkel kapcsolatos valamennyi közigazgatási és szakmai feladat előkészítését és koordinációját.
+1.[^1] A Kormány megbízza a társadalmi kapcsolatokért és kultúráért felelős minisztert, hogy ellássa a zsidó közösségek vagyoni igényeinek rendezésével, valamint a zsidó közösségekkel összefüggő kulturális, hagyományőrző, oktatási és történelmi tényfeltáró tevékenységekkel kapcsolatos valamennyi közigazgatási és szakmai feladat előkészítését és koordinációját.
 
-2. A Miniszterelnökséget vezető államtitkár különösen az alábbi közigazgatási és szakmai előkészítéssel és koordinációval kapcsolatos feladatokat látja el:
+2.[^2] A társadalmi kapcsolatokért és kultúráért felelős miniszter különösen az alábbi közigazgatási és szakmai előkészítéssel és koordinációval kapcsolatos feladatokat látja el:
 
 a) a zsidó közösségek érdekképviseletének ellátására hivatott szervezetek képviselőivel megvitatja az örökös nélkül elhalt zsidó származású, vallású, sérelmet szenvedett személyek után a zsidó közösségek vagyoni igényeivel összefüggő kérdéseket,
 
@@ -12,6 +12,10 @@ d) részt vesz az a)–c) pontokban foglalt tevékenységek nyomán előállt ja
 
 e) javaslatokat terjeszt a Kormány elé az a)–d) pontokban meghatározott feladatokkal összefüggő, illetőleg azok végrehajtása során felmerülő kérdésekben.
 
-3. Miniszterelnökséget vezető államtitkár a 2. pontban felsorolt feladatai ellátása érdekében rendszeresen, de legalább negyedévente egyeztet a 2. a) pont szerinti zsidó szervezetek képviselőivel.
+3.[^3] A társadalmi kapcsolatokért és kultúráért felelős miniszter a 2. pontban felsorolt feladatai ellátása érdekében rendszeresen, de legalább negyedévente egyeztet a 2. a) pont szerinti zsidó szervezetek képviselőivel.
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1364/2026. (XI. 3.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont nyitó szövegrésze az 1364/2026. (XI. 3.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1364/2026. (XI. 3.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
