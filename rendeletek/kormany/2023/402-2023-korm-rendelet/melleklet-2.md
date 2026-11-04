@@ -1,3255 +1,3255 @@
 |  | A | B |
 
-|  | Vármegye | Település |
+|  | Megye | Település |
 
-| 1 | Bács-Kiskun vármegye | Bácsborsód |
+| 1 | Bács-Kiskun megye | Bácsborsód |
 
-| 2 | Bács-Kiskun vármegye | Bácsszentgyörgy |
+| 2 | Bács-Kiskun megye | Bácsszentgyörgy |
 
-| 3 | Bács-Kiskun vármegye | Bácsszőlős |
+| 3 | Bács-Kiskun megye | Bácsszőlős |
 
-| 4 | Bács-Kiskun vármegye | Balotaszállás |
+| 4 | Bács-Kiskun megye | Balotaszállás |
 
-| 5 | Bács-Kiskun vármegye | Bátya |
+| 5 | Bács-Kiskun megye | Bátya |
 
-| 6 | Bács-Kiskun vármegye | Bócsa |
+| 6 | Bács-Kiskun megye | Bócsa |
 
-| 7 | Bács-Kiskun vármegye | Borota |
+| 7 | Bács-Kiskun megye | Borota |
 
-| 8 | Bács-Kiskun vármegye | Bugac |
+| 8 | Bács-Kiskun megye | Bugac |
 
-| 9 | Bács-Kiskun vármegye | Bugacpusztaháza |
+| 9 | Bács-Kiskun megye | Bugacpusztaháza |
 
-| 10 | Bács-Kiskun vármegye | Császártöltés |
+| 10 | Bács-Kiskun megye | Császártöltés |
 
-| 11 | Bács-Kiskun vármegye | Csátalja |
+| 11 | Bács-Kiskun megye | Csátalja |
 
-| 12 | Bács-Kiskun vármegye | Csávoly |
+| 12 | Bács-Kiskun megye | Csávoly |
 
-| 13 | Bács-Kiskun vármegye | Csengőd |
+| 13 | Bács-Kiskun megye | Csengőd |
 
-| 14 | Bács-Kiskun vármegye | Csikéria |
+| 14 | Bács-Kiskun megye | Csikéria |
 
-| 15 | Bács-Kiskun vármegye | Csólyospálos |
+| 15 | Bács-Kiskun megye | Csólyospálos |
 
-| 16 | Bács-Kiskun vármegye | Dávod |
+| 16 | Bács-Kiskun megye | Dávod |
 
-| 17 | Bács-Kiskun vármegye | Drágszél |
+| 17 | Bács-Kiskun megye | Drágszél |
 
-| 18 | Bács-Kiskun vármegye | Dunafalva |
+| 18 | Bács-Kiskun megye | Dunafalva |
 
-| 19 | Bács-Kiskun vármegye | Dunaszentbenedek |
+| 19 | Bács-Kiskun megye | Dunaszentbenedek |
 
-| 20 | Bács-Kiskun vármegye | Dunatetétlen |
+| 20 | Bács-Kiskun megye | Dunatetétlen |
 
-| 21 | Bács-Kiskun vármegye | Fajsz |
+| 21 | Bács-Kiskun megye | Fajsz |
 
-| 22 | Bács-Kiskun vármegye | Felsőszentiván |
+| 22 | Bács-Kiskun megye | Felsőszentiván |
 
-| 23 | Bács-Kiskun vármegye | Foktő |
+| 23 | Bács-Kiskun megye | Foktő |
 
-| 24 | Bács-Kiskun vármegye | Fülöpszállás |
+| 24 | Bács-Kiskun megye | Fülöpszállás |
 
-| 25 | Bács-Kiskun vármegye | Gara |
+| 25 | Bács-Kiskun megye | Gara |
 
-| 26 | Bács-Kiskun vármegye | Gátér |
+| 26 | Bács-Kiskun megye | Gátér |
 
-| 27 | Bács-Kiskun vármegye | Géderlak |
+| 27 | Bács-Kiskun megye | Géderlak |
 
-| 28 | Bács-Kiskun vármegye | Harkakötöny |
+| 28 | Bács-Kiskun megye | Harkakötöny |
 
-| 29 | Bács-Kiskun vármegye | Hercegszántó |
+| 29 | Bács-Kiskun megye | Hercegszántó |
 
-| 30 | Bács-Kiskun vármegye | Imrehegy |
+| 30 | Bács-Kiskun megye | Imrehegy |
 
-| 31 | Bács-Kiskun vármegye | Jánoshalma |
+| 31 | Bács-Kiskun megye | Jánoshalma |
 
-| 32 | Bács-Kiskun vármegye | Kaskantyú |
+| 32 | Bács-Kiskun megye | Kaskantyú |
 
-| 33 | Bács-Kiskun vármegye | Katymár |
+| 33 | Bács-Kiskun megye | Katymár |
 
-| 34 | Bács-Kiskun vármegye | Kecel |
+| 34 | Bács-Kiskun megye | Kecel |
 
-| 35 | Bács-Kiskun vármegye | Kelebia |
+| 35 | Bács-Kiskun megye | Kelebia |
 
-| 36 | Bács-Kiskun vármegye | Kéleshalom |
+| 36 | Bács-Kiskun megye | Kéleshalom |
 
-| 37 | Bács-Kiskun vármegye | Kisszállás |
+| 37 | Bács-Kiskun megye | Kisszállás |
 
-| 38 | Bács-Kiskun vármegye | Kömpöc |
+| 38 | Bács-Kiskun megye | Kömpöc |
 
-| 39 | Bács-Kiskun vármegye | Kunadacs |
+| 39 | Bács-Kiskun megye | Kunadacs |
 
-| 40 | Bács-Kiskun vármegye | Kunbaja |
+| 40 | Bács-Kiskun megye | Kunbaja |
 
-| 41 | Bács-Kiskun vármegye | Kunbaracs |
+| 41 | Bács-Kiskun megye | Kunbaracs |
 
-| 42 | Bács-Kiskun vármegye | Kunpeszér |
+| 42 | Bács-Kiskun megye | Kunpeszér |
 
-| 43 | Bács-Kiskun vármegye | Madaras |
+| 43 | Bács-Kiskun megye | Madaras |
 
-| 44 | Bács-Kiskun vármegye | Mátételke |
+| 44 | Bács-Kiskun megye | Mátételke |
 
-| 45 | Bács-Kiskun vármegye | Mélykút |
+| 45 | Bács-Kiskun megye | Mélykút |
 
-| 46 | Bács-Kiskun vármegye | Miske |
+| 46 | Bács-Kiskun megye | Miske |
 
-| 47 | Bács-Kiskun vármegye | Móricgát |
+| 47 | Bács-Kiskun megye | Móricgát |
 
-| 48 | Bács-Kiskun vármegye | Nagybaracska |
+| 48 | Bács-Kiskun megye | Nagybaracska |
 
-| 49 | Bács-Kiskun vármegye | Ordas |
+| 49 | Bács-Kiskun megye | Ordas |
 
-| 50 | Bács-Kiskun vármegye | Orgovány |
+| 50 | Bács-Kiskun megye | Orgovány |
 
-| 51 | Bács-Kiskun vármegye | Öregcsertő |
+| 51 | Bács-Kiskun megye | Öregcsertő |
 
-| 52 | Bács-Kiskun vármegye | Páhi |
+| 52 | Bács-Kiskun megye | Páhi |
 
-| 53 | Bács-Kiskun vármegye | Pálmonostora |
+| 53 | Bács-Kiskun megye | Pálmonostora |
 
-| 54 | Bács-Kiskun vármegye | Petőfiszállás |
+| 54 | Bács-Kiskun megye | Petőfiszállás |
 
-| 55 | Bács-Kiskun vármegye | Rém |
+| 55 | Bács-Kiskun megye | Rém |
 
-| 56 | Bács-Kiskun vármegye | Sükösd |
+| 56 | Bács-Kiskun megye | Sükösd |
 
-| 57 | Bács-Kiskun vármegye | Szalkszentmárton |
+| 57 | Bács-Kiskun megye | Szalkszentmárton |
 
-| 58 | Bács-Kiskun vármegye | Szentkirály |
+| 58 | Bács-Kiskun megye | Szentkirály |
 
-| 59 | Bács-Kiskun vármegye | Szeremle |
+| 59 | Bács-Kiskun megye | Szeremle |
 
-| 60 | Bács-Kiskun vármegye | Tass |
+| 60 | Bács-Kiskun megye | Tass |
 
-| 61 | Bács-Kiskun vármegye | Tataháza |
+| 61 | Bács-Kiskun megye | Tataháza |
 
-| 62 | Bács-Kiskun vármegye | Tázlár |
+| 62 | Bács-Kiskun megye | Tázlár |
 
-| 63 | Bács-Kiskun vármegye | Újsolt |
+| 63 | Bács-Kiskun megye | Újsolt |
 
-| 64 | Bács-Kiskun vármegye | Újtelek |
+| 64 | Bács-Kiskun megye | Újtelek |
 
-| 65 | Bács-Kiskun vármegye | Uszód |
+| 65 | Bács-Kiskun megye | Uszód |
 
-| 66 | Bács-Kiskun vármegye | Zsana |
+| 66 | Bács-Kiskun megye | Zsana |
 
-| 67 | Baranya vármegye | Adorjás |
+| 67 | Baranya megye | Adorjás |
 
-| 68 | Baranya vármegye | Ág |
+| 68 | Baranya megye | Ág |
 
-| 69 | Baranya vármegye | Almamellék |
+| 69 | Baranya megye | Almamellék |
 
-| 70 | Baranya vármegye | Almáskeresztúr |
+| 70 | Baranya megye | Almáskeresztúr |
 
-| 71 | Baranya vármegye | Alsómocsolád |
+| 71 | Baranya megye | Alsómocsolád |
 
-| 72 | Baranya vármegye | Alsószentmárton |
+| 72 | Baranya megye | Alsószentmárton |
 
-| 73 | Baranya vármegye | Apátvarasd |
+| 73 | Baranya megye | Apátvarasd |
 
-| 74 | Baranya vármegye | Aranyosgadány |
+| 74 | Baranya megye | Aranyosgadány |
 
-| 75 | Baranya vármegye | Áta |
+| 75 | Baranya megye | Áta |
 
-| 76 | Baranya vármegye | Babarc |
+| 76 | Baranya megye | Babarc |
 
-| 77 | Baranya vármegye | Babarcszőlős |
+| 77 | Baranya megye | Babarcszőlős |
 
-| 78 | Baranya vármegye | Bakóca |
+| 78 | Baranya megye | Bakóca |
 
-| 79 | Baranya vármegye | Bánfa |
+| 79 | Baranya megye | Bánfa |
 
-| 80 | Baranya vármegye | Baranyahídvég |
+| 80 | Baranya megye | Baranyahídvég |
 
-| 81 | Baranya vármegye | Baranyajenő |
+| 81 | Baranya megye | Baranyajenő |
 
-| 82 | Baranya vármegye | Baranyaszentgyörgy |
+| 82 | Baranya megye | Baranyaszentgyörgy |
 
-| 83 | Baranya vármegye | Basal |
+| 83 | Baranya megye | Basal |
 
-| 84 | Baranya vármegye | Belvárdgyula |
+| 84 | Baranya megye | Belvárdgyula |
 
-| 85 | Baranya vármegye | Besence |
+| 85 | Baranya megye | Besence |
 
-| 86 | Baranya vármegye | Bezedek |
+| 86 | Baranya megye | Bezedek |
 
-| 87 | Baranya vármegye | Bisse |
+| 87 | Baranya megye | Bisse |
 
-| 88 | Baranya vármegye | Boda |
+| 88 | Baranya megye | Boda |
 
-| 89 | Baranya vármegye | Bodolyabér |
+| 89 | Baranya megye | Bodolyabér |
 
-| 90 | Baranya vármegye | Bogádmindszent |
+| 90 | Baranya megye | Bogádmindszent |
 
-| 91 | Baranya vármegye | Bogdása |
+| 91 | Baranya megye | Bogdása |
 
-| 92 | Baranya vármegye | Boldogasszonyfa |
+| 92 | Baranya megye | Boldogasszonyfa |
 
-| 93 | Baranya vármegye | Bosta |
+| 93 | Baranya megye | Bosta |
 
-| 94 | Baranya vármegye | Botykapeterd |
+| 94 | Baranya megye | Botykapeterd |
 
-| 95 | Baranya vármegye | Bükkösd |
+| 95 | Baranya megye | Bükkösd |
 
-| 96 | Baranya vármegye | Bürüs |
+| 96 | Baranya megye | Bürüs |
 
-| 97 | Baranya vármegye | Cún |
+| 97 | Baranya megye | Cún |
 
-| 98 | Baranya vármegye | Csányoszró |
+| 98 | Baranya megye | Csányoszró |
 
-| 99 | Baranya vármegye | Csarnóta |
+| 99 | Baranya megye | Csarnóta |
 
-| 100 | Baranya vármegye | Csebény |
+| 100 | Baranya megye | Csebény |
 
-| 101 | Baranya vármegye | Cserdi |
+| 101 | Baranya megye | Cserdi |
 
-| 102 | Baranya vármegye | Csertő |
+| 102 | Baranya megye | Csertő |
 
-| 103 | Baranya vármegye | Csonkamindszent |
+| 103 | Baranya megye | Csonkamindszent |
 
-| 104 | Baranya vármegye | Dencsháza |
+| 104 | Baranya megye | Dencsháza |
 
-| 105 | Baranya vármegye | Dinnyeberki |
+| 105 | Baranya megye | Dinnyeberki |
 
-| 106 | Baranya vármegye | Diósviszló |
+| 106 | Baranya megye | Diósviszló |
 
-| 107 | Baranya vármegye | Drávacsehi |
+| 107 | Baranya megye | Drávacsehi |
 
-| 108 | Baranya vármegye | Drávacsepely |
+| 108 | Baranya megye | Drávacsepely |
 
-| 109 | Baranya vármegye | Drávafok |
+| 109 | Baranya megye | Drávafok |
 
-| 110 | Baranya vármegye | Drávaiványi |
+| 110 | Baranya megye | Drávaiványi |
 
-| 111 | Baranya vármegye | Drávakeresztúr |
+| 111 | Baranya megye | Drávakeresztúr |
 
-| 112 | Baranya vármegye | Drávapalkonya |
+| 112 | Baranya megye | Drávapalkonya |
 
-| 113 | Baranya vármegye | Drávapiski |
+| 113 | Baranya megye | Drávapiski |
 
-| 114 | Baranya vármegye | Drávaszabolcs |
+| 114 | Baranya megye | Drávaszabolcs |
 
-| 115 | Baranya vármegye | Drávaszerdahely |
+| 115 | Baranya megye | Drávaszerdahely |
 
-| 116 | Baranya vármegye | Drávasztára |
+| 116 | Baranya megye | Drávasztára |
 
-| 117 | Baranya vármegye | Dunaszekcső |
+| 117 | Baranya megye | Dunaszekcső |
 
-| 118 | Baranya vármegye | Egyházasharaszti |
+| 118 | Baranya megye | Egyházasharaszti |
 
-| 119 | Baranya vármegye | Egyházaskozár |
+| 119 | Baranya megye | Egyházaskozár |
 
-| 120 | Baranya vármegye | Endrőc |
+| 120 | Baranya megye | Endrőc |
 
-| 121 | Baranya vármegye | Erdősmárok |
+| 121 | Baranya megye | Erdősmárok |
 
-| 122 | Baranya vármegye | Erdősmecske |
+| 122 | Baranya megye | Erdősmecske |
 
-| 123 | Baranya vármegye | Fazekasboda |
+| 123 | Baranya megye | Fazekasboda |
 
-| 124 | Baranya vármegye | Feked |
+| 124 | Baranya megye | Feked |
 
-| 125 | Baranya vármegye | Felsőegerszeg |
+| 125 | Baranya megye | Felsőegerszeg |
 
-| 126 | Baranya vármegye | Felsőszentmárton |
+| 126 | Baranya megye | Felsőszentmárton |
 
-| 127 | Baranya vármegye | Garé |
+| 127 | Baranya megye | Garé |
 
-| 128 | Baranya vármegye | Gerde |
+| 128 | Baranya megye | Gerde |
 
-| 129 | Baranya vármegye | Gerényes |
+| 129 | Baranya megye | Gerényes |
 
-| 130 | Baranya vármegye | Gilvánfa |
+| 130 | Baranya megye | Gilvánfa |
 
-| 131 | Baranya vármegye | Gordisa |
+| 131 | Baranya megye | Gordisa |
 
-| 132 | Baranya vármegye | Gödre |
+| 132 | Baranya megye | Gödre |
 
-| 133 | Baranya vármegye | Görcsönydoboka |
+| 133 | Baranya megye | Görcsönydoboka |
 
-| 134 | Baranya vármegye | Gyöngyfa |
+| 134 | Baranya megye | Gyöngyfa |
 
-| 135 | Baranya vármegye | Gyöngyösmellék |
+| 135 | Baranya megye | Gyöngyösmellék |
 
-| 136 | Baranya vármegye | Hegyhátmaróc |
+| 136 | Baranya megye | Hegyhátmaróc |
 
-| 137 | Baranya vármegye | Hegyszentmárton |
+| 137 | Baranya megye | Hegyszentmárton |
 
-| 138 | Baranya vármegye | Helesfa |
+| 138 | Baranya megye | Helesfa |
 
-| 139 | Baranya vármegye | Hetvehely |
+| 139 | Baranya megye | Hetvehely |
 
-| 140 | Baranya vármegye | Hirics |
+| 140 | Baranya megye | Hirics |
 
-| 141 | Baranya vármegye | Hobol |
+| 141 | Baranya megye | Hobol |
 
-| 142 | Baranya vármegye | Homorúd |
+| 142 | Baranya megye | Homorúd |
 
-| 143 | Baranya vármegye | Horváthertelend |
+| 143 | Baranya megye | Horváthertelend |
 
-| 144 | Baranya vármegye | Husztót |
+| 144 | Baranya megye | Husztót |
 
-| 145 | Baranya vármegye | Ibafa |
+| 145 | Baranya megye | Ibafa |
 
-| 146 | Baranya vármegye | Illocska |
+| 146 | Baranya megye | Illocska |
 
-| 147 | Baranya vármegye | Ipacsfa |
+| 147 | Baranya megye | Ipacsfa |
 
-| 148 | Baranya vármegye | Ivánbattyán |
+| 148 | Baranya megye | Ivánbattyán |
 
-| 149 | Baranya vármegye | Ivándárda |
+| 149 | Baranya megye | Ivándárda |
 
-| 150 | Baranya vármegye | Kacsóta |
+| 150 | Baranya megye | Kacsóta |
 
-| 151 | Baranya vármegye | Kákics |
+| 151 | Baranya megye | Kákics |
 
-| 152 | Baranya vármegye | Kásád |
+| 152 | Baranya megye | Kásád |
 
-| 153 | Baranya vármegye | Katádfa |
+| 153 | Baranya megye | Katádfa |
 
-| 154 | Baranya vármegye | Kékesd |
+| 154 | Baranya megye | Kékesd |
 
-| 155 | Baranya vármegye | Kémes |
+| 155 | Baranya megye | Kémes |
 
-| 156 | Baranya vármegye | Kemse |
+| 156 | Baranya megye | Kemse |
 
-| 157 | Baranya vármegye | Kétújfalu |
+| 157 | Baranya megye | Kétújfalu |
 
-| 158 | Baranya vármegye | Királyegyháza |
+| 158 | Baranya megye | Királyegyháza |
 
-| 159 | Baranya vármegye | Kisasszonyfa |
+| 159 | Baranya megye | Kisasszonyfa |
 
-| 160 | Baranya vármegye | Kisbeszterce |
+| 160 | Baranya megye | Kisbeszterce |
 
-| 161 | Baranya vármegye | Kisbudmér |
+| 161 | Baranya megye | Kisbudmér |
 
-| 162 | Baranya vármegye | Kisdér |
+| 162 | Baranya megye | Kisdér |
 
-| 163 | Baranya vármegye | Kisdobsza |
+| 163 | Baranya megye | Kisdobsza |
 
-| 164 | Baranya vármegye | Kishajmás |
+| 164 | Baranya megye | Kishajmás |
 
-| 165 | Baranya vármegye | Kisharsány |
+| 165 | Baranya megye | Kisharsány |
 
-| 166 | Baranya vármegye | Kisjakabfalva |
+| 166 | Baranya megye | Kisjakabfalva |
 
-| 167 | Baranya vármegye | Kiskassa |
+| 167 | Baranya megye | Kiskassa |
 
-| 168 | Baranya vármegye | Kislippó |
+| 168 | Baranya megye | Kislippó |
 
-| 169 | Baranya vármegye | Kisnyárád |
+| 169 | Baranya megye | Kisnyárád |
 
-| 170 | Baranya vármegye | Kistamási |
+| 170 | Baranya megye | Kistamási |
 
-| 171 | Baranya vármegye | Kistapolca |
+| 171 | Baranya megye | Kistapolca |
 
-| 172 | Baranya vármegye | Kistótfalu |
+| 172 | Baranya megye | Kistótfalu |
 
-| 173 | Baranya vármegye | Kisvaszar |
+| 173 | Baranya megye | Kisvaszar |
 
-| 174 | Baranya vármegye | Kisszentmárton |
+| 174 | Baranya megye | Kisszentmárton |
 
-| 175 | Baranya vármegye | Kórós |
+| 175 | Baranya megye | Kórós |
 
-| 176 | Baranya vármegye | Kovácshida |
+| 176 | Baranya megye | Kovácshida |
 
-| 177 | Baranya vármegye | Kovácsszénája |
+| 177 | Baranya megye | Kovácsszénája |
 
-| 178 | Baranya vármegye | Köblény |
+| 178 | Baranya megye | Köblény |
 
-| 179 | Baranya vármegye | Kölked |
+| 179 | Baranya megye | Kölked |
 
-| 180 | Baranya vármegye | Kővágótöttös |
+| 180 | Baranya megye | Kővágótöttös |
 
-| 181 | Baranya vármegye | Lapáncsa |
+| 181 | Baranya megye | Lapáncsa |
 
-| 182 | Baranya vármegye | Liget |
+| 182 | Baranya megye | Liget |
 
-| 183 | Baranya vármegye | Liptód |
+| 183 | Baranya megye | Liptód |
 
-| 184 | Baranya vármegye | Lúzsok |
+| 184 | Baranya megye | Lúzsok |
 
-| 185 | Baranya vármegye | Magyarlukafa |
+| 185 | Baranya megye | Magyarlukafa |
 
-| 186 | Baranya vármegye | Magyarmecske |
+| 186 | Baranya megye | Magyarmecske |
 
-| 187 | Baranya vármegye | Magyartelek |
+| 187 | Baranya megye | Magyartelek |
 
-| 188 | Baranya vármegye | Maráza |
+| 188 | Baranya megye | Maráza |
 
-| 189 | Baranya vármegye | Márfa |
+| 189 | Baranya megye | Márfa |
 
-| 190 | Baranya vármegye | Markóc |
+| 190 | Baranya megye | Markóc |
 
-| 191 | Baranya vármegye | Marócsa |
+| 191 | Baranya megye | Marócsa |
 
-| 192 | Baranya vármegye | Márok |
+| 192 | Baranya megye | Márok |
 
-| 193 | Baranya vármegye | Matty |
+| 193 | Baranya megye | Matty |
 
-| 194 | Baranya vármegye | Mekényes |
+| 194 | Baranya megye | Mekényes |
 
-| 195 | Baranya vármegye | Merenye |
+| 195 | Baranya megye | Merenye |
 
-| 196 | Baranya vármegye | Meződ |
+| 196 | Baranya megye | Meződ |
 
-| 197 | Baranya vármegye | Mindszentgodisa |
+| 197 | Baranya megye | Mindszentgodisa |
 
-| 198 | Baranya vármegye | Molvány |
+| 198 | Baranya megye | Molvány |
 
-| 199 | Baranya vármegye | Monyoród |
+| 199 | Baranya megye | Monyoród |
 
-| 200 | Baranya vármegye | Mozsgó |
+| 200 | Baranya megye | Mozsgó |
 
-| 201 | Baranya vármegye | Nagybudmér |
+| 201 | Baranya megye | Nagybudmér |
 
-| 202 | Baranya vármegye | Nagycsány |
+| 202 | Baranya megye | Nagycsány |
 
-| 203 | Baranya vármegye | Nagydobsza |
+| 203 | Baranya megye | Nagydobsza |
 
-| 204 | Baranya vármegye | Nagyhajmás |
+| 204 | Baranya megye | Nagyhajmás |
 
-| 205 | Baranya vármegye | Nagyharsány |
+| 205 | Baranya megye | Nagyharsány |
 
-| 206 | Baranya vármegye | Nagytótfalu |
+| 206 | Baranya megye | Nagytótfalu |
 
-| 207 | Baranya vármegye | Nagyváty |
+| 207 | Baranya megye | Nagyváty |
 
-| 208 | Baranya vármegye | Nemeske |
+| 208 | Baranya megye | Nemeske |
 
-| 209 | Baranya vármegye | Nyugotszenterzsébet |
+| 209 | Baranya megye | Nyugotszenterzsébet |
 
-| 210 | Baranya vármegye | Ócsárd |
+| 210 | Baranya megye | Ócsárd |
 
-| 211 | Baranya vármegye | Okorág |
+| 211 | Baranya megye | Okorág |
 
-| 212 | Baranya vármegye | Okorvölgy |
+| 212 | Baranya megye | Okorvölgy |
 
-| 213 | Baranya vármegye | Old |
+| 213 | Baranya megye | Old |
 
-| 214 | Baranya vármegye | Oroszló |
+| 214 | Baranya megye | Oroszló |
 
-| 215 | Baranya vármegye | Ózdfalu |
+| 215 | Baranya megye | Ózdfalu |
 
-| 216 | Baranya vármegye | Palé |
+| 216 | Baranya megye | Palé |
 
-| 217 | Baranya vármegye | Páprád |
+| 217 | Baranya megye | Páprád |
 
-| 218 | Baranya vármegye | Patapoklosi |
+| 218 | Baranya megye | Patapoklosi |
 
-| 219 | Baranya vármegye | Pécsbagota |
+| 219 | Baranya megye | Pécsbagota |
 
-| 220 | Baranya vármegye | Pécsdevecser |
+| 220 | Baranya megye | Pécsdevecser |
 
-| 221 | Baranya vármegye | Pereked |
+| 221 | Baranya megye | Pereked |
 
-| 222 | Baranya vármegye | Peterd |
+| 222 | Baranya megye | Peterd |
 
-| 223 | Baranya vármegye | Pettend |
+| 223 | Baranya megye | Pettend |
 
-| 224 | Baranya vármegye | Piskó |
+| 224 | Baranya megye | Piskó |
 
-| 225 | Baranya vármegye | Pócsa |
+| 225 | Baranya megye | Pócsa |
 
-| 226 | Baranya vármegye | Rádfalva |
+| 226 | Baranya megye | Rádfalva |
 
-| 227 | Baranya vármegye | Regenye |
+| 227 | Baranya megye | Regenye |
 
-| 228 | Baranya vármegye | Rózsafa |
+| 228 | Baranya megye | Rózsafa |
 
-| 229 | Baranya vármegye | Sámod |
+| 229 | Baranya megye | Sámod |
 
-| 230 | Baranya vármegye | Sárok |
+| 230 | Baranya megye | Sárok |
 
-| 231 | Baranya vármegye | Sátorhely |
+| 231 | Baranya megye | Sátorhely |
 
-| 232 | Baranya vármegye | Sellye |
+| 232 | Baranya megye | Sellye |
 
-| 233 | Baranya vármegye | Siklósbodony |
+| 233 | Baranya megye | Siklósbodony |
 
-| 234 | Baranya vármegye | Siklósnagyfalu |
+| 234 | Baranya megye | Siklósnagyfalu |
 
-| 235 | Baranya vármegye | Somogyapáti |
+| 235 | Baranya megye | Somogyapáti |
 
-| 236 | Baranya vármegye | Somogyhárságy |
+| 236 | Baranya megye | Somogyhárságy |
 
-| 237 | Baranya vármegye | Somogyhatvan |
+| 237 | Baranya megye | Somogyhatvan |
 
-| 238 | Baranya vármegye | Somogyviszló |
+| 238 | Baranya megye | Somogyviszló |
 
-| 239 | Baranya vármegye | Sósvertike |
+| 239 | Baranya megye | Sósvertike |
 
-| 240 | Baranya vármegye | Sumony |
+| 240 | Baranya megye | Sumony |
 
-| 241 | Baranya vármegye | Szágy |
+| 241 | Baranya megye | Szágy |
 
-| 242 | Baranya vármegye | Szalatnak |
+| 242 | Baranya megye | Szalatnak |
 
-| 243 | Baranya vármegye | Szaporca |
+| 243 | Baranya megye | Szaporca |
 
-| 244 | Baranya vármegye | Szárász |
+| 244 | Baranya megye | Szárász |
 
-| 245 | Baranya vármegye | Szava |
+| 245 | Baranya megye | Szava |
 
-| 246 | Baranya vármegye | Szebény |
+| 246 | Baranya megye | Szebény |
 
-| 247 | Baranya vármegye | Szellő |
+| 247 | Baranya megye | Szellő |
 
-| 248 | Baranya vármegye | Szentdénes |
+| 248 | Baranya megye | Szentdénes |
 
-| 249 | Baranya vármegye | Szentegát |
+| 249 | Baranya megye | Szentegát |
 
-| 250 | Baranya vármegye | Szentkatalin |
+| 250 | Baranya megye | Szentkatalin |
 
-| 251 | Baranya vármegye | Szentlászló |
+| 251 | Baranya megye | Szentlászló |
 
-| 252 | Baranya vármegye | Szilágy |
+| 252 | Baranya megye | Szilágy |
 
-| 253 | Baranya vármegye | Szilvás |
+| 253 | Baranya megye | Szilvás |
 
-| 254 | Baranya vármegye | Szőke |
+| 254 | Baranya megye | Szőke |
 
-| 255 | Baranya vármegye | Szörény |
+| 255 | Baranya megye | Szörény |
 
-| 256 | Baranya vármegye | Szulimán |
+| 256 | Baranya megye | Szulimán |
 
-| 257 | Baranya vármegye | Szűr |
+| 257 | Baranya megye | Szűr |
 
-| 258 | Baranya vármegye | Tarrós |
+| 258 | Baranya megye | Tarrós |
 
-| 259 | Baranya vármegye | Tékes |
+| 259 | Baranya megye | Tékes |
 
-| 260 | Baranya vármegye | Teklafalu |
+| 260 | Baranya megye | Teklafalu |
 
-| 261 | Baranya vármegye | Tengeri |
+| 261 | Baranya megye | Tengeri |
 
-| 262 | Baranya vármegye | Tésenfa |
+| 262 | Baranya megye | Tésenfa |
 
-| 263 | Baranya vármegye | Téseny |
+| 263 | Baranya megye | Téseny |
 
-| 264 | Baranya vármegye | Tófű |
+| 264 | Baranya megye | Tófű |
 
-| 265 | Baranya vármegye | Tormás |
+| 265 | Baranya megye | Tormás |
 
-| 266 | Baranya vármegye | Tótszentgyörgy |
+| 266 | Baranya megye | Tótszentgyörgy |
 
-| 267 | Baranya vármegye | Töttös |
+| 267 | Baranya megye | Töttös |
 
-| 268 | Baranya vármegye | Újpetre |
+| 268 | Baranya megye | Újpetre |
 
-| 269 | Baranya vármegye | Vajszló |
+| 269 | Baranya megye | Vajszló |
 
-| 270 | Baranya vármegye | Várad |
+| 270 | Baranya megye | Várad |
 
-| 271 | Baranya vármegye | Varga |
+| 271 | Baranya megye | Varga |
 
-| 272 | Baranya vármegye | Vásárosbéc |
+| 272 | Baranya megye | Vásárosbéc |
 
-| 273 | Baranya vármegye | Vásárosdombó |
+| 273 | Baranya megye | Vásárosdombó |
 
-| 274 | Baranya vármegye | Vázsnok |
+| 274 | Baranya megye | Vázsnok |
 
-| 275 | Baranya vármegye | Vejti |
+| 275 | Baranya megye | Vejti |
 
-| 276 | Baranya vármegye | Vékény |
+| 276 | Baranya megye | Vékény |
 
-| 277 | Baranya vármegye | Velény |
+| 277 | Baranya megye | Velény |
 
-| 278 | Baranya vármegye | Véménd |
+| 278 | Baranya megye | Véménd |
 
-| 279 | Baranya vármegye | Versend |
+| 279 | Baranya megye | Versend |
 
-| 280 | Baranya vármegye | Zádor |
+| 280 | Baranya megye | Zádor |
 
-| 281 | Baranya vármegye | Zaláta |
+| 281 | Baranya megye | Zaláta |
 
-| 282 | Békés vármegye | Almáskamarás |
+| 282 | Békés megye | Almáskamarás |
 
-| 283 | Békés vármegye | Battonya |
+| 283 | Békés megye | Battonya |
 
-| 284 | Békés vármegye | Békéssámson |
+| 284 | Békés megye | Békéssámson |
 
-| 285 | Békés vármegye | Bélmegyer |
+| 285 | Békés megye | Bélmegyer |
 
-| 286 | Békés vármegye | Biharugra |
+| 286 | Békés megye | Biharugra |
 
-| 287 | Békés vármegye | Bucsa |
+| 287 | Békés megye | Bucsa |
 
-| 288 | Békés vármegye | Csabaszabadi |
+| 288 | Békés megye | Csabaszabadi |
 
-| 289 | Békés vármegye | Csanádapáca |
+| 289 | Békés megye | Csanádapáca |
 
-| 290 | Békés vármegye | Csárdaszállás |
+| 290 | Békés megye | Csárdaszállás |
 
-| 291 | Békés vármegye | Dombegyház |
+| 291 | Békés megye | Dombegyház |
 
-| 292 | Békés vármegye | Dombiratos |
+| 292 | Békés megye | Dombiratos |
 
-| 293 | Békés vármegye | Ecsegfalva |
+| 293 | Békés megye | Ecsegfalva |
 
-| 294 | Békés vármegye | Elek |
+| 294 | Békés megye | Elek |
 
-| 295 | Békés vármegye | Füzesgyarmat |
+| 295 | Békés megye | Füzesgyarmat |
 
-| 296 | Békés vármegye | Gádoros |
+| 296 | Békés megye | Gádoros |
 
-| 297 | Békés vármegye | Gerendás |
+| 297 | Békés megye | Gerendás |
 
-| 298 | Békés vármegye | Geszt |
+| 298 | Békés megye | Geszt |
 
-| 299 | Békés vármegye | Hunya |
+| 299 | Békés megye | Hunya |
 
-| 300 | Békés vármegye | Kamut |
+| 300 | Békés megye | Kamut |
 
-| 301 | Békés vármegye | Kardos |
+| 301 | Békés megye | Kardos |
 
-| 302 | Békés vármegye | Kaszaper |
+| 302 | Békés megye | Kaszaper |
 
-| 303 | Békés vármegye | Kertészsziget |
+| 303 | Békés megye | Kertészsziget |
 
-| 304 | Békés vármegye | Kétegyháza |
+| 304 | Békés megye | Kétegyháza |
 
-| 305 | Békés vármegye | Kétsoprony |
+| 305 | Békés megye | Kétsoprony |
 
-| 306 | Békés vármegye | Kevermes |
+| 306 | Békés megye | Kevermes |
 
-| 307 | Békés vármegye | Kisdombegyház |
+| 307 | Békés megye | Kisdombegyház |
 
-| 308 | Békés vármegye | Körösnagyharsány |
+| 308 | Békés megye | Körösnagyharsány |
 
-| 309 | Békés vármegye | Körösújfalu |
+| 309 | Békés megye | Körösújfalu |
 
-| 310 | Békés vármegye | Kötegyán |
+| 310 | Békés megye | Kötegyán |
 
-| 311 | Békés vármegye | Kunágota |
+| 311 | Békés megye | Kunágota |
 
-| 312 | Békés vármegye | Magyarbánhegyes |
+| 312 | Békés megye | Magyarbánhegyes |
 
-| 313 | Békés vármegye | Magyardombegyház |
+| 313 | Békés megye | Magyardombegyház |
 
-| 314 | Békés vármegye | Medgyesbodzás |
+| 314 | Békés megye | Medgyesbodzás |
 
-| 315 | Békés vármegye | Medgyesegyháza |
+| 315 | Békés megye | Medgyesegyháza |
 
-| 316 | Békés vármegye | Méhkerék |
+| 316 | Békés megye | Méhkerék |
 
-| 317 | Békés vármegye | Mezőgyán |
+| 317 | Békés megye | Mezőgyán |
 
-| 318 | Békés vármegye | Mezőhegyes |
+| 318 | Békés megye | Mezőhegyes |
 
-| 319 | Békés vármegye | Nagybánhegyes |
+| 319 | Békés megye | Nagybánhegyes |
 
-| 320 | Békés vármegye | Nagykamarás |
+| 320 | Békés megye | Nagykamarás |
 
-| 321 | Békés vármegye | Nagyszénás |
+| 321 | Békés megye | Nagyszénás |
 
-| 322 | Békés vármegye | Okány |
+| 322 | Békés megye | Okány |
 
-| 323 | Békés vármegye | Örménykút |
+| 323 | Békés megye | Örménykút |
 
-| 324 | Békés vármegye | Pusztaföldvár |
+| 324 | Békés megye | Pusztaföldvár |
 
-| 325 | Békés vármegye | Pusztaottlaka |
+| 325 | Békés megye | Pusztaottlaka |
 
-| 326 | Békés vármegye | Sarkad |
+| 326 | Békés megye | Sarkad |
 
-| 327 | Békés vármegye | Sarkadkeresztúr |
+| 327 | Békés megye | Sarkadkeresztúr |
 
-| 328 | Békés vármegye | Újszalonta |
+| 328 | Békés megye | Újszalonta |
 
-| 329 | Békés vármegye | Végegyháza |
+| 329 | Békés megye | Végegyháza |
 
-| 330 | Békés vármegye | Vésztő |
+| 330 | Békés megye | Vésztő |
 
-| 331 | Békés vármegye | Zsadány |
+| 331 | Békés megye | Zsadány |
 
-| 332 | Borsod-Abaúj-Zemplén vármegye | Abaújalpár |
+| 332 | Borsod-Abaúj-Zemplén megye | Abaújalpár |
 
-| 333 | Borsod-Abaúj-Zemplén vármegye | Abaújkér |
+| 333 | Borsod-Abaúj-Zemplén megye | Abaújkér |
 
-| 334 | Borsod-Abaúj-Zemplén vármegye | Abaújlak |
+| 334 | Borsod-Abaúj-Zemplén megye | Abaújlak |
 
-| 335 | Borsod-Abaúj-Zemplén vármegye | Abaújszántó |
+| 335 | Borsod-Abaúj-Zemplén megye | Abaújszántó |
 
-| 336 | Borsod-Abaúj-Zemplén vármegye | Abaújszolnok |
+| 336 | Borsod-Abaúj-Zemplén megye | Abaújszolnok |
 
-| 337 | Borsod-Abaúj-Zemplén vármegye | Abaújvár |
+| 337 | Borsod-Abaúj-Zemplén megye | Abaújvár |
 
-| 338 | Borsod-Abaúj-Zemplén vármegye | Abod |
+| 338 | Borsod-Abaúj-Zemplén megye | Abod |
 
-| 339 | Borsod-Abaúj-Zemplén vármegye | Alacska |
+| 339 | Borsod-Abaúj-Zemplén megye | Alacska |
 
-| 340 | Borsod-Abaúj-Zemplén vármegye | Alsóberecki |
+| 340 | Borsod-Abaúj-Zemplén megye | Alsóberecki |
 
-| 341 | Borsod-Abaúj-Zemplén vármegye | Alsódobsza |
+| 341 | Borsod-Abaúj-Zemplén megye | Alsódobsza |
 
-| 342 | Borsod-Abaúj-Zemplén vármegye | Alsógagy |
+| 342 | Borsod-Abaúj-Zemplén megye | Alsógagy |
 
-| 343 | Borsod-Abaúj-Zemplén vármegye | Alsóregmec |
+| 343 | Borsod-Abaúj-Zemplén megye | Alsóregmec |
 
-| 344 | Borsod-Abaúj-Zemplén vármegye | Alsószuha |
+| 344 | Borsod-Abaúj-Zemplén megye | Alsószuha |
 
-| 345 | Borsod-Abaúj-Zemplén vármegye | Alsótelekes |
+| 345 | Borsod-Abaúj-Zemplén megye | Alsótelekes |
 
-| 346 | Borsod-Abaúj-Zemplén vármegye | Alsóvadász |
+| 346 | Borsod-Abaúj-Zemplén megye | Alsóvadász |
 
-| 347 | Borsod-Abaúj-Zemplén vármegye | Alsózsolca |
+| 347 | Borsod-Abaúj-Zemplén megye | Alsózsolca |
 
-| 348 | Borsod-Abaúj-Zemplén vármegye | Arka |
+| 348 | Borsod-Abaúj-Zemplén megye | Arka |
 
-| 349 | Borsod-Abaúj-Zemplén vármegye | Arló |
+| 349 | Borsod-Abaúj-Zemplén megye | Arló |
 
-| 350 | Borsod-Abaúj-Zemplén vármegye | Ároktő |
+| 350 | Borsod-Abaúj-Zemplén megye | Ároktő |
 
-| 351 | Borsod-Abaúj-Zemplén vármegye | Aszaló |
+| 351 | Borsod-Abaúj-Zemplén megye | Aszaló |
 
-| 352 | Borsod-Abaúj-Zemplén vármegye | Baktakék |
+| 352 | Borsod-Abaúj-Zemplén megye | Baktakék |
 
-| 353 | Borsod-Abaúj-Zemplén vármegye | Balajt |
+| 353 | Borsod-Abaúj-Zemplén megye | Balajt |
 
-| 354 | Borsod-Abaúj-Zemplén vármegye | Bánhorváti |
+| 354 | Borsod-Abaúj-Zemplén megye | Bánhorváti |
 
-| 355 | Borsod-Abaúj-Zemplén vármegye | Baskó |
+| 355 | Borsod-Abaúj-Zemplén megye | Baskó |
 
-| 356 | Borsod-Abaúj-Zemplén vármegye | Becskeháza |
+| 356 | Borsod-Abaúj-Zemplén megye | Becskeháza |
 
-| 357 | Borsod-Abaúj-Zemplén vármegye | Beret |
+| 357 | Borsod-Abaúj-Zemplén megye | Beret |
 
-| 358 | Borsod-Abaúj-Zemplén vármegye | Berzék |
+| 358 | Borsod-Abaúj-Zemplén megye | Berzék |
 
-| 359 | Borsod-Abaúj-Zemplén vármegye | Bodroghalom |
+| 359 | Borsod-Abaúj-Zemplén megye | Bodroghalom |
 
-| 360 | Borsod-Abaúj-Zemplén vármegye | Bodrogkisfalud |
+| 360 | Borsod-Abaúj-Zemplén megye | Bodrogkisfalud |
 
-| 361 | Borsod-Abaúj-Zemplén vármegye | Bodrogolaszi |
+| 361 | Borsod-Abaúj-Zemplén megye | Bodrogolaszi |
 
-| 362 | Borsod-Abaúj-Zemplén vármegye | Bódvalenke |
+| 362 | Borsod-Abaúj-Zemplén megye | Bódvalenke |
 
-| 363 | Borsod-Abaúj-Zemplén vármegye | Bódvarákó |
+| 363 | Borsod-Abaúj-Zemplén megye | Bódvarákó |
 
-| 364 | Borsod-Abaúj-Zemplén vármegye | Bódvaszilas |
+| 364 | Borsod-Abaúj-Zemplén megye | Bódvaszilas |
 
-| 365 | Borsod-Abaúj-Zemplén vármegye | Boldogkőújfalu |
+| 365 | Borsod-Abaúj-Zemplén megye | Boldogkőújfalu |
 
-| 366 | Borsod-Abaúj-Zemplén vármegye | Boldogkőváralja |
+| 366 | Borsod-Abaúj-Zemplén megye | Boldogkőváralja |
 
-| 367 | Borsod-Abaúj-Zemplén vármegye | Boldva |
+| 367 | Borsod-Abaúj-Zemplén megye | Boldva |
 
-| 368 | Borsod-Abaúj-Zemplén vármegye | Borsodbóta |
+| 368 | Borsod-Abaúj-Zemplén megye | Borsodbóta |
 
-| 369 | Borsod-Abaúj-Zemplén vármegye | Borsodgeszt |
+| 369 | Borsod-Abaúj-Zemplén megye | Borsodgeszt |
 
-| 370 | Borsod-Abaúj-Zemplén vármegye | Borsodnádasd |
+| 370 | Borsod-Abaúj-Zemplén megye | Borsodnádasd |
 
-| 371 | Borsod-Abaúj-Zemplén vármegye | Borsodszentgyörgy |
+| 371 | Borsod-Abaúj-Zemplén megye | Borsodszentgyörgy |
 
-| 372 | Borsod-Abaúj-Zemplén vármegye | Borsodszirák |
+| 372 | Borsod-Abaúj-Zemplén megye | Borsodszirák |
 
-| 373 | Borsod-Abaúj-Zemplén vármegye | Bózsva |
+| 373 | Borsod-Abaúj-Zemplén megye | Bózsva |
 
-| 374 | Borsod-Abaúj-Zemplén vármegye | Bükkaranyos |
+| 374 | Borsod-Abaúj-Zemplén megye | Bükkaranyos |
 
-| 375 | Borsod-Abaúj-Zemplén vármegye | Bükkmogyorósd |
+| 375 | Borsod-Abaúj-Zemplén megye | Bükkmogyorósd |
 
-| 376 | Borsod-Abaúj-Zemplén vármegye | Büttös |
+| 376 | Borsod-Abaúj-Zemplén megye | Büttös |
 
-| 377 | Borsod-Abaúj-Zemplén vármegye | Cigánd |
+| 377 | Borsod-Abaúj-Zemplén megye | Cigánd |
 
-| 378 | Borsod-Abaúj-Zemplén vármegye | Csenyéte |
+| 378 | Borsod-Abaúj-Zemplén megye | Csenyéte |
 
-| 379 | Borsod-Abaúj-Zemplén vármegye | Csernely |
+| 379 | Borsod-Abaúj-Zemplén megye | Csernely |
 
-| 380 | Borsod-Abaúj-Zemplén vármegye | Csincse |
+| 380 | Borsod-Abaúj-Zemplén megye | Csincse |
 
-| 381 | Borsod-Abaúj-Zemplén vármegye | Csobád |
+| 381 | Borsod-Abaúj-Zemplén megye | Csobád |
 
-| 382 | Borsod-Abaúj-Zemplén vármegye | Csobaj |
+| 382 | Borsod-Abaúj-Zemplén megye | Csobaj |
 
-| 383 | Borsod-Abaúj-Zemplén vármegye | Csokvaomány |
+| 383 | Borsod-Abaúj-Zemplén megye | Csokvaomány |
 
-| 384 | Borsod-Abaúj-Zemplén vármegye | Damak |
+| 384 | Borsod-Abaúj-Zemplén megye | Damak |
 
-| 385 | Borsod-Abaúj-Zemplén vármegye | Dámóc |
+| 385 | Borsod-Abaúj-Zemplén megye | Dámóc |
 
-| 386 | Borsod-Abaúj-Zemplén vármegye | Debréte |
+| 386 | Borsod-Abaúj-Zemplén megye | Debréte |
 
-| 387 | Borsod-Abaúj-Zemplén vármegye | Dédestapolcsány |
+| 387 | Borsod-Abaúj-Zemplén megye | Dédestapolcsány |
 
-| 388 | Borsod-Abaúj-Zemplén vármegye | Detek |
+| 388 | Borsod-Abaúj-Zemplén megye | Detek |
 
-| 389 | Borsod-Abaúj-Zemplén vármegye | Domaháza |
+| 389 | Borsod-Abaúj-Zemplén megye | Domaháza |
 
-| 390 | Borsod-Abaúj-Zemplén vármegye | Dövény |
+| 390 | Borsod-Abaúj-Zemplén megye | Dövény |
 
-| 391 | Borsod-Abaúj-Zemplén vármegye | Dubicsány |
+| 391 | Borsod-Abaúj-Zemplén megye | Dubicsány |
 
-| 392 | Borsod-Abaúj-Zemplén vármegye | Edelény |
+| 392 | Borsod-Abaúj-Zemplén megye | Edelény |
 
-| 393 | Borsod-Abaúj-Zemplén vármegye | Egerlövő |
+| 393 | Borsod-Abaúj-Zemplén megye | Egerlövő |
 
-| 394 | Borsod-Abaúj-Zemplén vármegye | Égerszög |
+| 394 | Borsod-Abaúj-Zemplén megye | Égerszög |
 
-| 395 | Borsod-Abaúj-Zemplén vármegye | Encs |
+| 395 | Borsod-Abaúj-Zemplén megye | Encs |
 
-| 396 | Borsod-Abaúj-Zemplén vármegye | Erdőbénye |
+| 396 | Borsod-Abaúj-Zemplén megye | Erdőbénye |
 
-| 397 | Borsod-Abaúj-Zemplén vármegye | Erdőhorváti |
+| 397 | Borsod-Abaúj-Zemplén megye | Erdőhorváti |
 
-| 398 | Borsod-Abaúj-Zemplén vármegye | Fáj |
+| 398 | Borsod-Abaúj-Zemplén megye | Fáj |
 
-| 399 | Borsod-Abaúj-Zemplén vármegye | Fancsal |
+| 399 | Borsod-Abaúj-Zemplén megye | Fancsal |
 
-| 400 | Borsod-Abaúj-Zemplén vármegye | Farkaslyuk |
+| 400 | Borsod-Abaúj-Zemplén megye | Farkaslyuk |
 
-| 401 | Borsod-Abaúj-Zemplén vármegye | Felsőberecki |
+| 401 | Borsod-Abaúj-Zemplén megye | Felsőberecki |
 
-| 402 | Borsod-Abaúj-Zemplén vármegye | Felsődobsza |
+| 402 | Borsod-Abaúj-Zemplén megye | Felsődobsza |
 
-| 403 | Borsod-Abaúj-Zemplén vármegye | Felsőgagy |
+| 403 | Borsod-Abaúj-Zemplén megye | Felsőgagy |
 
-| 404 | Borsod-Abaúj-Zemplén vármegye | Felsőkelecsény |
+| 404 | Borsod-Abaúj-Zemplén megye | Felsőkelecsény |
 
-| 405 | Borsod-Abaúj-Zemplén vármegye | Felsőnyárád |
+| 405 | Borsod-Abaúj-Zemplén megye | Felsőnyárád |
 
-| 406 | Borsod-Abaúj-Zemplén vármegye | Felsőregmec |
+| 406 | Borsod-Abaúj-Zemplén megye | Felsőregmec |
 
-| 407 | Borsod-Abaúj-Zemplén vármegye | Felsőtelekes |
+| 407 | Borsod-Abaúj-Zemplén megye | Felsőtelekes |
 
-| 408 | Borsod-Abaúj-Zemplén vármegye | Felsővadász |
+| 408 | Borsod-Abaúj-Zemplén megye | Felsővadász |
 
-| 409 | Borsod-Abaúj-Zemplén vármegye | Filkeháza |
+| 409 | Borsod-Abaúj-Zemplén megye | Filkeháza |
 
-| 410 | Borsod-Abaúj-Zemplén vármegye | Fony |
+| 410 | Borsod-Abaúj-Zemplén megye | Fony |
 
-| 411 | Borsod-Abaúj-Zemplén vármegye | Forró |
+| 411 | Borsod-Abaúj-Zemplén megye | Forró |
 
-| 412 | Borsod-Abaúj-Zemplén vármegye | Fulókércs |
+| 412 | Borsod-Abaúj-Zemplén megye | Fulókércs |
 
-| 413 | Borsod-Abaúj-Zemplén vármegye | Füzér |
+| 413 | Borsod-Abaúj-Zemplén megye | Füzér |
 
-| 414 | Borsod-Abaúj-Zemplén vármegye | Füzérkajata |
+| 414 | Borsod-Abaúj-Zemplén megye | Füzérkajata |
 
-| 415 | Borsod-Abaúj-Zemplén vármegye | Füzérkomlós |
+| 415 | Borsod-Abaúj-Zemplén megye | Füzérkomlós |
 
-| 416 | Borsod-Abaúj-Zemplén vármegye | Füzérradvány |
+| 416 | Borsod-Abaúj-Zemplén megye | Füzérradvány |
 
-| 417 | Borsod-Abaúj-Zemplén vármegye | Gadna |
+| 417 | Borsod-Abaúj-Zemplén megye | Gadna |
 
-| 418 | Borsod-Abaúj-Zemplén vármegye | Gagyapáti |
+| 418 | Borsod-Abaúj-Zemplén megye | Gagyapáti |
 
-| 419 | Borsod-Abaúj-Zemplén vármegye | Gagybátor |
+| 419 | Borsod-Abaúj-Zemplén megye | Gagybátor |
 
-| 420 | Borsod-Abaúj-Zemplén vármegye | Gagyvendégi |
+| 420 | Borsod-Abaúj-Zemplén megye | Gagyvendégi |
 
-| 421 | Borsod-Abaúj-Zemplén vármegye | Galvács |
+| 421 | Borsod-Abaúj-Zemplén megye | Galvács |
 
-| 422 | Borsod-Abaúj-Zemplén vármegye | Garadna |
+| 422 | Borsod-Abaúj-Zemplén megye | Garadna |
 
-| 423 | Borsod-Abaúj-Zemplén vármegye | Gelej |
+| 423 | Borsod-Abaúj-Zemplén megye | Gelej |
 
-| 424 | Borsod-Abaúj-Zemplén vármegye | Gesztely |
+| 424 | Borsod-Abaúj-Zemplén megye | Gesztely |
 
-| 425 | Borsod-Abaúj-Zemplén vármegye | Gibárt |
+| 425 | Borsod-Abaúj-Zemplén megye | Gibárt |
 
-| 426 | Borsod-Abaúj-Zemplén vármegye | Girincs |
+| 426 | Borsod-Abaúj-Zemplén megye | Girincs |
 
-| 427 | Borsod-Abaúj-Zemplén vármegye | Gömörszőlős |
+| 427 | Borsod-Abaúj-Zemplén megye | Gömörszőlős |
 
-| 428 | Borsod-Abaúj-Zemplén vármegye | Gönc |
+| 428 | Borsod-Abaúj-Zemplén megye | Gönc |
 
-| 429 | Borsod-Abaúj-Zemplén vármegye | Göncruszka |
+| 429 | Borsod-Abaúj-Zemplén megye | Göncruszka |
 
-| 430 | Borsod-Abaúj-Zemplén vármegye | Györgytarló |
+| 430 | Borsod-Abaúj-Zemplén megye | Györgytarló |
 
-| 431 | Borsod-Abaúj-Zemplén vármegye | Halmaj |
+| 431 | Borsod-Abaúj-Zemplén megye | Halmaj |
 
-| 432 | Borsod-Abaúj-Zemplén vármegye | Hangács |
+| 432 | Borsod-Abaúj-Zemplén megye | Hangács |
 
-| 433 | Borsod-Abaúj-Zemplén vármegye | Hangony |
+| 433 | Borsod-Abaúj-Zemplén megye | Hangony |
 
-| 434 | Borsod-Abaúj-Zemplén vármegye | Hegymeg |
+| 434 | Borsod-Abaúj-Zemplén megye | Hegymeg |
 
-| 435 | Borsod-Abaúj-Zemplén vármegye | Hejőbába |
+| 435 | Borsod-Abaúj-Zemplén megye | Hejőbába |
 
-| 436 | Borsod-Abaúj-Zemplén vármegye | Hejőkürt |
+| 436 | Borsod-Abaúj-Zemplén megye | Hejőkürt |
 
-| 437 | Borsod-Abaúj-Zemplén vármegye | Hejőpapi |
+| 437 | Borsod-Abaúj-Zemplén megye | Hejőpapi |
 
-| 438 | Borsod-Abaúj-Zemplén vármegye | Hejőszalonta |
+| 438 | Borsod-Abaúj-Zemplén megye | Hejőszalonta |
 
-| 439 | Borsod-Abaúj-Zemplén vármegye | Hernádbűd |
+| 439 | Borsod-Abaúj-Zemplén megye | Hernádbűd |
 
-| 440 | Borsod-Abaúj-Zemplén vármegye | Hernádcéce |
+| 440 | Borsod-Abaúj-Zemplén megye | Hernádcéce |
 
-| 441 | Borsod-Abaúj-Zemplén vármegye | Hernádkak |
+| 441 | Borsod-Abaúj-Zemplén megye | Hernádkak |
 
-| 442 | Borsod-Abaúj-Zemplén vármegye | Hernádkércs |
+| 442 | Borsod-Abaúj-Zemplén megye | Hernádkércs |
 
-| 443 | Borsod-Abaúj-Zemplén vármegye | Hernádnémeti |
+| 443 | Borsod-Abaúj-Zemplén megye | Hernádnémeti |
 
-| 444 | Borsod-Abaúj-Zemplén vármegye | Hernádpetri |
+| 444 | Borsod-Abaúj-Zemplén megye | Hernádpetri |
 
-| 445 | Borsod-Abaúj-Zemplén vármegye | Hernádszentandrás |
+| 445 | Borsod-Abaúj-Zemplén megye | Hernádszentandrás |
 
-| 446 | Borsod-Abaúj-Zemplén vármegye | Hernádszurdok |
+| 446 | Borsod-Abaúj-Zemplén megye | Hernádszurdok |
 
-| 447 | Borsod-Abaúj-Zemplén vármegye | Hernádvécse |
+| 447 | Borsod-Abaúj-Zemplén megye | Hernádvécse |
 
-| 448 | Borsod-Abaúj-Zemplén vármegye | Hét |
+| 448 | Borsod-Abaúj-Zemplén megye | Hét |
 
-| 449 | Borsod-Abaúj-Zemplén vármegye | Hidasnémeti |
+| 449 | Borsod-Abaúj-Zemplén megye | Hidasnémeti |
 
-| 450 | Borsod-Abaúj-Zemplén vármegye | Hidvégardó |
+| 450 | Borsod-Abaúj-Zemplén megye | Hidvégardó |
 
-| 451 | Borsod-Abaúj-Zemplén vármegye | Hollóháza |
+| 451 | Borsod-Abaúj-Zemplén megye | Hollóháza |
 
-| 452 | Borsod-Abaúj-Zemplén vármegye | Homrogd |
+| 452 | Borsod-Abaúj-Zemplén megye | Homrogd |
 
-| 453 | Borsod-Abaúj-Zemplén vármegye | Igrici |
+| 453 | Borsod-Abaúj-Zemplén megye | Igrici |
 
-| 454 | Borsod-Abaúj-Zemplén vármegye | Imola |
+| 454 | Borsod-Abaúj-Zemplén megye | Imola |
 
-| 455 | Borsod-Abaúj-Zemplén vármegye | Ináncs |
+| 455 | Borsod-Abaúj-Zemplén megye | Ináncs |
 
-| 456 | Borsod-Abaúj-Zemplén vármegye | Irota |
+| 456 | Borsod-Abaúj-Zemplén megye | Irota |
 
-| 457 | Borsod-Abaúj-Zemplén vármegye | Izsófalva |
+| 457 | Borsod-Abaúj-Zemplén megye | Izsófalva |
 
-| 458 | Borsod-Abaúj-Zemplén vármegye | Jákfalva |
+| 458 | Borsod-Abaúj-Zemplén megye | Jákfalva |
 
-| 459 | Borsod-Abaúj-Zemplén vármegye | Járdánháza |
+| 459 | Borsod-Abaúj-Zemplén megye | Járdánháza |
 
-| 460 | Borsod-Abaúj-Zemplén vármegye | Jósvafő |
+| 460 | Borsod-Abaúj-Zemplén megye | Jósvafő |
 
-| 461 | Borsod-Abaúj-Zemplén vármegye | Kács |
+| 461 | Borsod-Abaúj-Zemplén megye | Kács |
 
-| 462 | Borsod-Abaúj-Zemplén vármegye | Kánó |
+| 462 | Borsod-Abaúj-Zemplén megye | Kánó |
 
-| 463 | Borsod-Abaúj-Zemplén vármegye | Kány |
+| 463 | Borsod-Abaúj-Zemplén megye | Kány |
 
-| 464 | Borsod-Abaúj-Zemplén vármegye | Karcsa |
+| 464 | Borsod-Abaúj-Zemplén megye | Karcsa |
 
-| 465 | Borsod-Abaúj-Zemplén vármegye | Karos |
+| 465 | Borsod-Abaúj-Zemplén megye | Karos |
 
-| 466 | Borsod-Abaúj-Zemplén vármegye | Kázsmárk |
+| 466 | Borsod-Abaúj-Zemplén megye | Kázsmárk |
 
-| 467 | Borsod-Abaúj-Zemplén vármegye | Kéked |
+| 467 | Borsod-Abaúj-Zemplén megye | Kéked |
 
-| 468 | Borsod-Abaúj-Zemplén vármegye | Kelemér |
+| 468 | Borsod-Abaúj-Zemplén megye | Kelemér |
 
-| 469 | Borsod-Abaúj-Zemplén vármegye | Kenézlő |
+| 469 | Borsod-Abaúj-Zemplén megye | Kenézlő |
 
-| 470 | Borsod-Abaúj-Zemplén vármegye | Keresztéte |
+| 470 | Borsod-Abaúj-Zemplén megye | Keresztéte |
 
-| 471 | Borsod-Abaúj-Zemplén vármegye | Kesznyéten |
+| 471 | Borsod-Abaúj-Zemplén megye | Kesznyéten |
 
-| 472 | Borsod-Abaúj-Zemplén vármegye | Királd |
+| 472 | Borsod-Abaúj-Zemplén megye | Királd |
 
-| 473 | Borsod-Abaúj-Zemplén vármegye | Kiscsécs |
+| 473 | Borsod-Abaúj-Zemplén megye | Kiscsécs |
 
-| 474 | Borsod-Abaúj-Zemplén vármegye | Kisgyőr |
+| 474 | Borsod-Abaúj-Zemplén megye | Kisgyőr |
 
-| 475 | Borsod-Abaúj-Zemplén vármegye | Kishuta |
+| 475 | Borsod-Abaúj-Zemplén megye | Kishuta |
 
-| 476 | Borsod-Abaúj-Zemplén vármegye | Kiskinizs |
+| 476 | Borsod-Abaúj-Zemplén megye | Kiskinizs |
 
-| 477 | Borsod-Abaúj-Zemplén vármegye | Kisrozvágy |
+| 477 | Borsod-Abaúj-Zemplén megye | Kisrozvágy |
 
-| 478 | Borsod-Abaúj-Zemplén vármegye | Kissikátor |
+| 478 | Borsod-Abaúj-Zemplén megye | Kissikátor |
 
-| 479 | Borsod-Abaúj-Zemplén vármegye | Komjáti |
+| 479 | Borsod-Abaúj-Zemplén megye | Komjáti |
 
-| 480 | Borsod-Abaúj-Zemplén vármegye | Komlóska |
+| 480 | Borsod-Abaúj-Zemplén megye | Komlóska |
 
-| 481 | Borsod-Abaúj-Zemplén vármegye | Korlát |
+| 481 | Borsod-Abaúj-Zemplén megye | Korlát |
 
-| 482 | Borsod-Abaúj-Zemplén vármegye | Kovácsvágás |
+| 482 | Borsod-Abaúj-Zemplén megye | Kovácsvágás |
 
-| 483 | Borsod-Abaúj-Zemplén vármegye | Köröm |
+| 483 | Borsod-Abaúj-Zemplén megye | Köröm |
 
-| 484 | Borsod-Abaúj-Zemplén vármegye | Krasznokvajda |
+| 484 | Borsod-Abaúj-Zemplén megye | Krasznokvajda |
 
-| 485 | Borsod-Abaúj-Zemplén vármegye | Kupa |
+| 485 | Borsod-Abaúj-Zemplén megye | Kupa |
 
-| 486 | Borsod-Abaúj-Zemplén vármegye | Kurityán |
+| 486 | Borsod-Abaúj-Zemplén megye | Kurityán |
 
-| 487 | Borsod-Abaúj-Zemplén vármegye | Lácacséke |
+| 487 | Borsod-Abaúj-Zemplén megye | Lácacséke |
 
-| 488 | Borsod-Abaúj-Zemplén vármegye | Ládbesenyő |
+| 488 | Borsod-Abaúj-Zemplén megye | Ládbesenyő |
 
-| 489 | Borsod-Abaúj-Zemplén vármegye | Lak |
+| 489 | Borsod-Abaúj-Zemplén megye | Lak |
 
-| 490 | Borsod-Abaúj-Zemplén vármegye | Legyesbénye |
+| 490 | Borsod-Abaúj-Zemplén megye | Legyesbénye |
 
-| 491 | Borsod-Abaúj-Zemplén vármegye | Léh |
+| 491 | Borsod-Abaúj-Zemplén megye | Léh |
 
-| 492 | Borsod-Abaúj-Zemplén vármegye | Lénárddaróc |
+| 492 | Borsod-Abaúj-Zemplén megye | Lénárddaróc |
 
-| 493 | Borsod-Abaúj-Zemplén vármegye | Litka |
+| 493 | Borsod-Abaúj-Zemplén megye | Litka |
 
-| 494 | Borsod-Abaúj-Zemplén vármegye | Makkoshotyka |
+| 494 | Borsod-Abaúj-Zemplén megye | Makkoshotyka |
 
-| 495 | Borsod-Abaúj-Zemplén vármegye | Mályinka |
+| 495 | Borsod-Abaúj-Zemplén megye | Mályinka |
 
-| 496 | Borsod-Abaúj-Zemplén vármegye | Martonyi |
+| 496 | Borsod-Abaúj-Zemplén megye | Martonyi |
 
-| 497 | Borsod-Abaúj-Zemplén vármegye | Megyaszó |
+| 497 | Borsod-Abaúj-Zemplén megye | Megyaszó |
 
-| 498 | Borsod-Abaúj-Zemplén vármegye | Méra |
+| 498 | Borsod-Abaúj-Zemplén megye | Méra |
 
-| 499 | Borsod-Abaúj-Zemplén vármegye | Meszes |
+| 499 | Borsod-Abaúj-Zemplén megye | Meszes |
 
-| 500 | Borsod-Abaúj-Zemplén vármegye | Mezőcsát |
+| 500 | Borsod-Abaúj-Zemplén megye | Mezőcsát |
 
-| 501 | Borsod-Abaúj-Zemplén vármegye | Mezőnagymihály |
+| 501 | Borsod-Abaúj-Zemplén megye | Mezőnagymihály |
 
-| 502 | Borsod-Abaúj-Zemplén vármegye | Mezőzombor |
+| 502 | Borsod-Abaúj-Zemplén megye | Mezőzombor |
 
-| 503 | Borsod-Abaúj-Zemplén vármegye | Monaj |
+| 503 | Borsod-Abaúj-Zemplén megye | Monaj |
 
-| 504 | Borsod-Abaúj-Zemplén vármegye | Monok |
+| 504 | Borsod-Abaúj-Zemplén megye | Monok |
 
-| 505 | Borsod-Abaúj-Zemplén vármegye | Múcsony |
+| 505 | Borsod-Abaúj-Zemplén megye | Múcsony |
 
-| 506 | Borsod-Abaúj-Zemplén vármegye | Nagybarca |
+| 506 | Borsod-Abaúj-Zemplén megye | Nagybarca |
 
-| 507 | Borsod-Abaúj-Zemplén vármegye | Nagycsécs |
+| 507 | Borsod-Abaúj-Zemplén megye | Nagycsécs |
 
-| 508 | Borsod-Abaúj-Zemplén vármegye | Nagykinizs |
+| 508 | Borsod-Abaúj-Zemplén megye | Nagykinizs |
 
-| 509 | Borsod-Abaúj-Zemplén vármegye | Nagyrozvágy |
+| 509 | Borsod-Abaúj-Zemplén megye | Nagyrozvágy |
 
-| 510 | Borsod-Abaúj-Zemplén vármegye | Négyes |
+| 510 | Borsod-Abaúj-Zemplén megye | Négyes |
 
-| 511 | Borsod-Abaúj-Zemplén vármegye | Nekézseny |
+| 511 | Borsod-Abaúj-Zemplén megye | Nekézseny |
 
-| 512 | Borsod-Abaúj-Zemplén vármegye | Nemesbikk |
+| 512 | Borsod-Abaúj-Zemplén megye | Nemesbikk |
 
-| 513 | Borsod-Abaúj-Zemplén vármegye | Novajidrány |
+| 513 | Borsod-Abaúj-Zemplén megye | Novajidrány |
 
-| 514 | Borsod-Abaúj-Zemplén vármegye | Nyésta |
+| 514 | Borsod-Abaúj-Zemplén megye | Nyésta |
 
-| 515 | Borsod-Abaúj-Zemplén vármegye | Nyíri |
+| 515 | Borsod-Abaúj-Zemplén megye | Nyíri |
 
-| 516 | Borsod-Abaúj-Zemplén vármegye | Nyomár |
+| 516 | Borsod-Abaúj-Zemplén megye | Nyomár |
 
-| 517 | Borsod-Abaúj-Zemplén vármegye | Olaszliszka |
+| 517 | Borsod-Abaúj-Zemplén megye | Olaszliszka |
 
-| 518 | Borsod-Abaúj-Zemplén vármegye | Onga |
+| 518 | Borsod-Abaúj-Zemplén megye | Onga |
 
-| 519 | Borsod-Abaúj-Zemplén vármegye | Ónod |
+| 519 | Borsod-Abaúj-Zemplén megye | Ónod |
 
-| 520 | Borsod-Abaúj-Zemplén vármegye | Ormosbánya |
+| 520 | Borsod-Abaúj-Zemplén megye | Ormosbánya |
 
-| 521 | Borsod-Abaúj-Zemplén vármegye | Oszlár |
+| 521 | Borsod-Abaúj-Zemplén megye | Oszlár |
 
-| 522 | Borsod-Abaúj-Zemplén vármegye | Ózd |
+| 522 | Borsod-Abaúj-Zemplén megye | Ózd |
 
-| 523 | Borsod-Abaúj-Zemplén vármegye | Pácin |
+| 523 | Borsod-Abaúj-Zemplén megye | Pácin |
 
-| 524 | Borsod-Abaúj-Zemplén vármegye | Pamlény |
+| 524 | Borsod-Abaúj-Zemplén megye | Pamlény |
 
-| 525 | Borsod-Abaúj-Zemplén vármegye | Pányok |
+| 525 | Borsod-Abaúj-Zemplén megye | Pányok |
 
-| 526 | Borsod-Abaúj-Zemplén vármegye | Parasznya |
+| 526 | Borsod-Abaúj-Zemplén megye | Parasznya |
 
-| 527 | Borsod-Abaúj-Zemplén vármegye | Pere |
+| 527 | Borsod-Abaúj-Zemplén megye | Pere |
 
-| 528 | Borsod-Abaúj-Zemplén vármegye | Perecse |
+| 528 | Borsod-Abaúj-Zemplén megye | Perecse |
 
-| 529 | Borsod-Abaúj-Zemplén vármegye | Perkupa |
+| 529 | Borsod-Abaúj-Zemplén megye | Perkupa |
 
-| 530 | Borsod-Abaúj-Zemplén vármegye | Prügy |
+| 530 | Borsod-Abaúj-Zemplén megye | Prügy |
 
-| 531 | Borsod-Abaúj-Zemplén vármegye | Pusztafalu |
+| 531 | Borsod-Abaúj-Zemplén megye | Pusztafalu |
 
-| 532 | Borsod-Abaúj-Zemplén vármegye | Pusztaradvány |
+| 532 | Borsod-Abaúj-Zemplén megye | Pusztaradvány |
 
-| 533 | Borsod-Abaúj-Zemplén vármegye | Putnok |
+| 533 | Borsod-Abaúj-Zemplén megye | Putnok |
 
-| 534 | Borsod-Abaúj-Zemplén vármegye | Radostyán |
+| 534 | Borsod-Abaúj-Zemplén megye | Radostyán |
 
-| 535 | Borsod-Abaúj-Zemplén vármegye | Ragály |
+| 535 | Borsod-Abaúj-Zemplén megye | Ragály |
 
-| 536 | Borsod-Abaúj-Zemplén vármegye | Rakaca |
+| 536 | Borsod-Abaúj-Zemplén megye | Rakaca |
 
-| 537 | Borsod-Abaúj-Zemplén vármegye | Rakacaszend |
+| 537 | Borsod-Abaúj-Zemplén megye | Rakacaszend |
 
-| 538 | Borsod-Abaúj-Zemplén vármegye | Rásonysápberencs |
+| 538 | Borsod-Abaúj-Zemplén megye | Rásonysápberencs |
 
-| 539 | Borsod-Abaúj-Zemplén vármegye | Regéc |
+| 539 | Borsod-Abaúj-Zemplén megye | Regéc |
 
-| 540 | Borsod-Abaúj-Zemplén vármegye | Révleányvár |
+| 540 | Borsod-Abaúj-Zemplén megye | Révleányvár |
 
-| 541 | Borsod-Abaúj-Zemplén vármegye | Ricse |
+| 541 | Borsod-Abaúj-Zemplén megye | Ricse |
 
-| 542 | Borsod-Abaúj-Zemplén vármegye | Rudabánya |
+| 542 | Borsod-Abaúj-Zemplén megye | Rudabánya |
 
-| 543 | Borsod-Abaúj-Zemplén vármegye | Rudolftelep |
+| 543 | Borsod-Abaúj-Zemplén megye | Rudolftelep |
 
-| 544 | Borsod-Abaúj-Zemplén vármegye | Sajóbábony |
+| 544 | Borsod-Abaúj-Zemplén megye | Sajóbábony |
 
-| 545 | Borsod-Abaúj-Zemplén vármegye | Sajógalgóc |
+| 545 | Borsod-Abaúj-Zemplén megye | Sajógalgóc |
 
-| 546 | Borsod-Abaúj-Zemplén vármegye | Sajóhídvég |
+| 546 | Borsod-Abaúj-Zemplén megye | Sajóhídvég |
 
-| 547 | Borsod-Abaúj-Zemplén vármegye | Sajókápolna |
+| 547 | Borsod-Abaúj-Zemplén megye | Sajókápolna |
 
-| 548 | Borsod-Abaúj-Zemplén vármegye | Sajókaza |
+| 548 | Borsod-Abaúj-Zemplén megye | Sajókaza |
 
-| 549 | Borsod-Abaúj-Zemplén vármegye | Sajólád |
+| 549 | Borsod-Abaúj-Zemplén megye | Sajólád |
 
-| 550 | Borsod-Abaúj-Zemplén vármegye | Sajólászlófalva |
+| 550 | Borsod-Abaúj-Zemplén megye | Sajólászlófalva |
 
-| 551 | Borsod-Abaúj-Zemplén vármegye | Sajómercse |
+| 551 | Borsod-Abaúj-Zemplén megye | Sajómercse |
 
-| 552 | Borsod-Abaúj-Zemplén vármegye | Sajónémeti |
+| 552 | Borsod-Abaúj-Zemplén megye | Sajónémeti |
 
-| 553 | Borsod-Abaúj-Zemplén vármegye | Sajópetri |
+| 553 | Borsod-Abaúj-Zemplén megye | Sajópetri |
 
-| 554 | Borsod-Abaúj-Zemplén vármegye | Sajópüspöki |
+| 554 | Borsod-Abaúj-Zemplén megye | Sajópüspöki |
 
-| 555 | Borsod-Abaúj-Zemplén vármegye | Sajószentpéter |
+| 555 | Borsod-Abaúj-Zemplén megye | Sajószentpéter |
 
-| 556 | Borsod-Abaúj-Zemplén vármegye | Sajóvelezd |
+| 556 | Borsod-Abaúj-Zemplén megye | Sajóvelezd |
 
-| 557 | Borsod-Abaúj-Zemplén vármegye | Sály |
+| 557 | Borsod-Abaúj-Zemplén megye | Sály |
 
-| 558 | Borsod-Abaúj-Zemplén vármegye | Sárazsadány |
+| 558 | Borsod-Abaúj-Zemplén megye | Sárazsadány |
 
-| 559 | Borsod-Abaúj-Zemplén vármegye | Sáta |
+| 559 | Borsod-Abaúj-Zemplén megye | Sáta |
 
-| 560 | Borsod-Abaúj-Zemplén vármegye | Selyeb |
+| 560 | Borsod-Abaúj-Zemplén megye | Selyeb |
 
-| 561 | Borsod-Abaúj-Zemplén vármegye | Semjén |
+| 561 | Borsod-Abaúj-Zemplén megye | Semjén |
 
-| 562 | Borsod-Abaúj-Zemplén vármegye | Serényfalva |
+| 562 | Borsod-Abaúj-Zemplén megye | Serényfalva |
 
-| 563 | Borsod-Abaúj-Zemplén vármegye | Sóstófalva |
+| 563 | Borsod-Abaúj-Zemplén megye | Sóstófalva |
 
-| 564 | Borsod-Abaúj-Zemplén vármegye | Szakácsi |
+| 564 | Borsod-Abaúj-Zemplén megye | Szakácsi |
 
-| 565 | Borsod-Abaúj-Zemplén vármegye | Szakáld |
+| 565 | Borsod-Abaúj-Zemplén megye | Szakáld |
 
-| 566 | Borsod-Abaúj-Zemplén vármegye | Szalaszend |
+| 566 | Borsod-Abaúj-Zemplén megye | Szalaszend |
 
-| 567 | Borsod-Abaúj-Zemplén vármegye | Szalonna |
+| 567 | Borsod-Abaúj-Zemplén megye | Szalonna |
 
-| 568 | Borsod-Abaúj-Zemplén vármegye | Szászfa |
+| 568 | Borsod-Abaúj-Zemplén megye | Szászfa |
 
-| 569 | Borsod-Abaúj-Zemplén vármegye | Szegi |
+| 569 | Borsod-Abaúj-Zemplén megye | Szegi |
 
-| 570 | Borsod-Abaúj-Zemplén vármegye | Szegilong |
+| 570 | Borsod-Abaúj-Zemplén megye | Szegilong |
 
-| 571 | Borsod-Abaúj-Zemplén vármegye | Szemere |
+| 571 | Borsod-Abaúj-Zemplén megye | Szemere |
 
-| 572 | Borsod-Abaúj-Zemplén vármegye | Szendrő |
+| 572 | Borsod-Abaúj-Zemplén megye | Szendrő |
 
-| 573 | Borsod-Abaúj-Zemplén vármegye | Szendrőlád |
+| 573 | Borsod-Abaúj-Zemplén megye | Szendrőlád |
 
-| 574 | Borsod-Abaúj-Zemplén vármegye | Szentistván |
+| 574 | Borsod-Abaúj-Zemplén megye | Szentistván |
 
-| 575 | Borsod-Abaúj-Zemplén vármegye | Szentistvánbaksa |
+| 575 | Borsod-Abaúj-Zemplén megye | Szentistvánbaksa |
 
-| 576 | Borsod-Abaúj-Zemplén vármegye | Szin |
+| 576 | Borsod-Abaúj-Zemplén megye | Szin |
 
-| 577 | Borsod-Abaúj-Zemplén vármegye | Szinpetri |
+| 577 | Borsod-Abaúj-Zemplén megye | Szinpetri |
 
-| 578 | Borsod-Abaúj-Zemplén vármegye | Szögliget |
+| 578 | Borsod-Abaúj-Zemplén megye | Szögliget |
 
-| 579 | Borsod-Abaúj-Zemplén vármegye | Szuhafő |
+| 579 | Borsod-Abaúj-Zemplén megye | Szuhafő |
 
-| 580 | Borsod-Abaúj-Zemplén vármegye | Szuhakálló |
+| 580 | Borsod-Abaúj-Zemplén megye | Szuhakálló |
 
-| 581 | Borsod-Abaúj-Zemplén vármegye | Szuhogy |
+| 581 | Borsod-Abaúj-Zemplén megye | Szuhogy |
 
-| 582 | Borsod-Abaúj-Zemplén vármegye | Taktabáj |
+| 582 | Borsod-Abaúj-Zemplén megye | Taktabáj |
 
-| 583 | Borsod-Abaúj-Zemplén vármegye | Taktaharkány |
+| 583 | Borsod-Abaúj-Zemplén megye | Taktaharkány |
 
-| 584 | Borsod-Abaúj-Zemplén vármegye | Taktakenéz |
+| 584 | Borsod-Abaúj-Zemplén megye | Taktakenéz |
 
-| 585 | Borsod-Abaúj-Zemplén vármegye | Taktaszada |
+| 585 | Borsod-Abaúj-Zemplén megye | Taktaszada |
 
-| 586 | Borsod-Abaúj-Zemplén vármegye | Tállya |
+| 586 | Borsod-Abaúj-Zemplén megye | Tállya |
 
-| 587 | Borsod-Abaúj-Zemplén vármegye | Tarcal |
+| 587 | Borsod-Abaúj-Zemplén megye | Tarcal |
 
-| 588 | Borsod-Abaúj-Zemplén vármegye | Telkibánya |
+| 588 | Borsod-Abaúj-Zemplén megye | Telkibánya |
 
-| 589 | Borsod-Abaúj-Zemplén vármegye | Tiszabábolna |
+| 589 | Borsod-Abaúj-Zemplén megye | Tiszabábolna |
 
-| 590 | Borsod-Abaúj-Zemplén vármegye | Tiszacsermely |
+| 590 | Borsod-Abaúj-Zemplén megye | Tiszacsermely |
 
-| 591 | Borsod-Abaúj-Zemplén vármegye | Tiszadorogma |
+| 591 | Borsod-Abaúj-Zemplén megye | Tiszadorogma |
 
-| 592 | Borsod-Abaúj-Zemplén vármegye | Tiszakarád |
+| 592 | Borsod-Abaúj-Zemplén megye | Tiszakarád |
 
-| 593 | Borsod-Abaúj-Zemplén vármegye | Tiszakeszi |
+| 593 | Borsod-Abaúj-Zemplén megye | Tiszakeszi |
 
-| 594 | Borsod-Abaúj-Zemplén vármegye | Tiszaladány |
+| 594 | Borsod-Abaúj-Zemplén megye | Tiszaladány |
 
-| 595 | Borsod-Abaúj-Zemplén vármegye | Tiszalúc |
+| 595 | Borsod-Abaúj-Zemplén megye | Tiszalúc |
 
-| 596 | Borsod-Abaúj-Zemplén vármegye | Tiszapalkonya |
+| 596 | Borsod-Abaúj-Zemplén megye | Tiszapalkonya |
 
-| 597 | Borsod-Abaúj-Zemplén vármegye | Tiszatardos |
+| 597 | Borsod-Abaúj-Zemplén megye | Tiszatardos |
 
-| 598 | Borsod-Abaúj-Zemplén vármegye | Tiszatarján |
+| 598 | Borsod-Abaúj-Zemplén megye | Tiszatarján |
 
-| 599 | Borsod-Abaúj-Zemplén vármegye | Tokaj |
+| 599 | Borsod-Abaúj-Zemplén megye | Tokaj |
 
-| 600 | Borsod-Abaúj-Zemplén vármegye | Tolcsva |
+| 600 | Borsod-Abaúj-Zemplén megye | Tolcsva |
 
-| 601 | Borsod-Abaúj-Zemplén vármegye | Tomor |
+| 601 | Borsod-Abaúj-Zemplén megye | Tomor |
 
-| 602 | Borsod-Abaúj-Zemplén vármegye | Tornabarakony |
+| 602 | Borsod-Abaúj-Zemplén megye | Tornabarakony |
 
-| 603 | Borsod-Abaúj-Zemplén vármegye | Tornakápolna |
+| 603 | Borsod-Abaúj-Zemplén megye | Tornakápolna |
 
-| 604 | Borsod-Abaúj-Zemplén vármegye | Tornanádaska |
+| 604 | Borsod-Abaúj-Zemplén megye | Tornanádaska |
 
-| 605 | Borsod-Abaúj-Zemplén vármegye | Tornaszentandrás |
+| 605 | Borsod-Abaúj-Zemplén megye | Tornaszentandrás |
 
-| 606 | Borsod-Abaúj-Zemplén vármegye | Tornaszentjakab |
+| 606 | Borsod-Abaúj-Zemplén megye | Tornaszentjakab |
 
-| 607 | Borsod-Abaúj-Zemplén vármegye | Tornyosnémeti |
+| 607 | Borsod-Abaúj-Zemplén megye | Tornyosnémeti |
 
-| 608 | Borsod-Abaúj-Zemplén vármegye | Trizs |
+| 608 | Borsod-Abaúj-Zemplén megye | Trizs |
 
-| 609 | Borsod-Abaúj-Zemplén vármegye | Újcsanálos |
+| 609 | Borsod-Abaúj-Zemplén megye | Újcsanálos |
 
-| 610 | Borsod-Abaúj-Zemplén vármegye | Uppony |
+| 610 | Borsod-Abaúj-Zemplén megye | Uppony |
 
-| 611 | Borsod-Abaúj-Zemplén vármegye | Vadna |
+| 611 | Borsod-Abaúj-Zemplén megye | Vadna |
 
-| 612 | Borsod-Abaúj-Zemplén vármegye | Vágáshuta |
+| 612 | Borsod-Abaúj-Zemplén megye | Vágáshuta |
 
-| 613 | Borsod-Abaúj-Zemplén vármegye | Vajdácska |
+| 613 | Borsod-Abaúj-Zemplén megye | Vajdácska |
 
-| 614 | Borsod-Abaúj-Zemplén vármegye | Vámosújfalu |
+| 614 | Borsod-Abaúj-Zemplén megye | Vámosújfalu |
 
-| 615 | Borsod-Abaúj-Zemplén vármegye | Vatta |
+| 615 | Borsod-Abaúj-Zemplén megye | Vatta |
 
-| 616 | Borsod-Abaúj-Zemplén vármegye | Vilmány |
+| 616 | Borsod-Abaúj-Zemplén megye | Vilmány |
 
-| 617 | Borsod-Abaúj-Zemplén vármegye | Vilyvitány |
+| 617 | Borsod-Abaúj-Zemplén megye | Vilyvitány |
 
-| 618 | Borsod-Abaúj-Zemplén vármegye | Viss |
+| 618 | Borsod-Abaúj-Zemplén megye | Viss |
 
-| 619 | Borsod-Abaúj-Zemplén vármegye | Viszló |
+| 619 | Borsod-Abaúj-Zemplén megye | Viszló |
 
-| 620 | Borsod-Abaúj-Zemplén vármegye | Vizsoly |
+| 620 | Borsod-Abaúj-Zemplén megye | Vizsoly |
 
-| 621 | Borsod-Abaúj-Zemplén vármegye | Zádorfalva |
+| 621 | Borsod-Abaúj-Zemplén megye | Zádorfalva |
 
-| 622 | Borsod-Abaúj-Zemplén vármegye | Zalkod |
+| 622 | Borsod-Abaúj-Zemplén megye | Zalkod |
 
-| 623 | Borsod-Abaúj-Zemplén vármegye | Zemplénagárd |
+| 623 | Borsod-Abaúj-Zemplén megye | Zemplénagárd |
 
-| 624 | Borsod-Abaúj-Zemplén vármegye | Ziliz |
+| 624 | Borsod-Abaúj-Zemplén megye | Ziliz |
 
-| 625 | Borsod-Abaúj-Zemplén vármegye | Zubogy |
+| 625 | Borsod-Abaúj-Zemplén megye | Zubogy |
 
-| 626 | Borsod-Abaúj-Zemplén vármegye | Zsujta |
+| 626 | Borsod-Abaúj-Zemplén megye | Zsujta |
 
-| 627 | Csongrád-Csanád vármegye | Ambrózfalva |
+| 627 | Csongrád-Csanád megye | Ambrózfalva |
 
-| 628 | Csongrád-Csanád vármegye | Apátfalva |
+| 628 | Csongrád-Csanád megye | Apátfalva |
 
-| 629 | Csongrád-Csanád vármegye | Árpádhalom |
+| 629 | Csongrád-Csanád megye | Árpádhalom |
 
-| 630 | Csongrád-Csanád vármegye | Ásotthalom |
+| 630 | Csongrád-Csanád megye | Ásotthalom |
 
-| 631 | Csongrád-Csanád vármegye | Baks |
+| 631 | Csongrád-Csanád megye | Baks |
 
-| 632 | Csongrád-Csanád vármegye | Balástya |
+| 632 | Csongrád-Csanád megye | Balástya |
 
-| 633 | Csongrád-Csanád vármegye | Csanádalberti |
+| 633 | Csongrád-Csanád megye | Csanádalberti |
 
-| 634 | Csongrád-Csanád vármegye | Csanádpalota |
+| 634 | Csongrád-Csanád megye | Csanádpalota |
 
-| 635 | Csongrád-Csanád vármegye | Csanytelek |
+| 635 | Csongrád-Csanád megye | Csanytelek |
 
-| 636 | Csongrád-Csanád vármegye | Csengele |
+| 636 | Csongrád-Csanád megye | Csengele |
 
-| 637 | Csongrád-Csanád vármegye | Derekegyház |
+| 637 | Csongrád-Csanád megye | Derekegyház |
 
-| 638 | Csongrád-Csanád vármegye | Dóc |
+| 638 | Csongrád-Csanád megye | Dóc |
 
-| 639 | Csongrád-Csanád vármegye | Eperjes |
+| 639 | Csongrád-Csanád megye | Eperjes |
 
-| 640 | Csongrád-Csanád vármegye | Fábiánsebestyén |
+| 640 | Csongrád-Csanád megye | Fábiánsebestyén |
 
-| 641 | Csongrád-Csanád vármegye | Felgyő |
+| 641 | Csongrád-Csanád megye | Felgyő |
 
-| 642 | Csongrád-Csanád vármegye | Forráskút |
+| 642 | Csongrád-Csanád megye | Forráskút |
 
-| 643 | Csongrád-Csanád vármegye | Földeák |
+| 643 | Csongrád-Csanád megye | Földeák |
 
-| 644 | Csongrád-Csanád vármegye | Királyhegyes |
+| 644 | Csongrád-Csanád megye | Királyhegyes |
 
-| 645 | Csongrád-Csanád vármegye | Kövegy |
+| 645 | Csongrád-Csanád megye | Kövegy |
 
-| 646 | Csongrád-Csanád vármegye | Magyarcsanád |
+| 646 | Csongrád-Csanád megye | Magyarcsanád |
 
-| 647 | Csongrád-Csanád vármegye | Nagyér |
+| 647 | Csongrád-Csanád megye | Nagyér |
 
-| 648 | Csongrád-Csanád vármegye | Nagylak |
+| 648 | Csongrád-Csanád megye | Nagylak |
 
-| 649 | Csongrád-Csanád vármegye | Nagymágocs |
+| 649 | Csongrád-Csanád megye | Nagymágocs |
 
-| 650 | Csongrád-Csanád vármegye | Nagytőke |
+| 650 | Csongrád-Csanád megye | Nagytőke |
 
-| 651 | Csongrád-Csanád vármegye | Óföldeák |
+| 651 | Csongrád-Csanád megye | Óföldeák |
 
-| 652 | Csongrád-Csanád vármegye | Ópusztaszer |
+| 652 | Csongrád-Csanád megye | Ópusztaszer |
 
-| 653 | Csongrád-Csanád vármegye | Öttömös |
+| 653 | Csongrád-Csanád megye | Öttömös |
 
-| 654 | Csongrád-Csanád vármegye | Pitvaros |
+| 654 | Csongrád-Csanád megye | Pitvaros |
 
-| 655 | Csongrád-Csanád vármegye | Pusztamérges |
+| 655 | Csongrád-Csanád megye | Pusztamérges |
 
-| 656 | Csongrád-Csanád vármegye | Pusztaszer |
+| 656 | Csongrád-Csanád megye | Pusztaszer |
 
-| 657 | Csongrád-Csanád vármegye | Ruzsa |
+| 657 | Csongrád-Csanád megye | Ruzsa |
 
-| 658 | Csongrád-Csanád vármegye | Székkutas |
+| 658 | Csongrád-Csanád megye | Székkutas |
 
-| 659 | Csongrád-Csanád vármegye | Tömörkény |
+| 659 | Csongrád-Csanád megye | Tömörkény |
 
-| 660 | Csongrád-Csanád vármegye | Üllés |
+| 660 | Csongrád-Csanád megye | Üllés |
 
-| 661 | Csongrád-Csanád vármegye | Zákányszék |
+| 661 | Csongrád-Csanád megye | Zákányszék |
 
-| 662 | Fejér vármegye | Alap |
+| 662 | Fejér megye | Alap |
 
-| 663 | Fejér vármegye | Alsószentiván |
+| 663 | Fejér megye | Alsószentiván |
 
-| 664 | Fejér vármegye | Cece |
+| 664 | Fejér megye | Cece |
 
-| 665 | Fejér vármegye | Daruszentmiklós |
+| 665 | Fejér megye | Daruszentmiklós |
 
-| 666 | Fejér vármegye | Enying |
+| 666 | Fejér megye | Enying |
 
-| 667 | Fejér vármegye | Igar |
+| 667 | Fejér megye | Igar |
 
-| 668 | Fejér vármegye | Lajoskomárom |
+| 668 | Fejér megye | Lajoskomárom |
 
-| 669 | Fejér vármegye | Mátyásdomb |
+| 669 | Fejér megye | Mátyásdomb |
 
-| 670 | Fejér vármegye | Mezőkomárom |
+| 670 | Fejér megye | Mezőkomárom |
 
-| 671 | Fejér vármegye | Mezőszentgyörgy |
+| 671 | Fejér megye | Mezőszentgyörgy |
 
-| 672 | Fejér vármegye | Nagykarácsony |
+| 672 | Fejér megye | Nagykarácsony |
 
-| 673 | Fejér vármegye | Sáregres |
+| 673 | Fejér megye | Sáregres |
 
-| 674 | Fejér vármegye | Sárkeresztúr |
+| 674 | Fejér megye | Sárkeresztúr |
 
-| 675 | Fejér vármegye | Szabadhídvég |
+| 675 | Fejér megye | Szabadhídvég |
 
-| 676 | Fejér vármegye | Vajta |
+| 676 | Fejér megye | Vajta |
 
-| 677 | Győr-Moson-Sopron vármegye | Cakóháza |
+| 677 | Győr-Moson-Sopron megye | Cakóháza |
 
-| 678 | Győr-Moson-Sopron vármegye | Csáfordjánosfa |
+| 678 | Győr-Moson-Sopron megye | Csáfordjánosfa |
 
-| 679 | Győr-Moson-Sopron vármegye | Csér |
+| 679 | Győr-Moson-Sopron megye | Csér |
 
-| 680 | Győr-Moson-Sopron vármegye | Edve |
+| 680 | Győr-Moson-Sopron megye | Edve |
 
-| 681 | Győr-Moson-Sopron vármegye | Lázi |
+| 681 | Győr-Moson-Sopron megye | Lázi |
 
-| 682 | Győr-Moson-Sopron vármegye | Maglóca |
+| 682 | Győr-Moson-Sopron megye | Maglóca |
 
-| 683 | Győr-Moson-Sopron vármegye | Magyarkeresztúr |
+| 683 | Győr-Moson-Sopron megye | Magyarkeresztúr |
 
-| 684 | Győr-Moson-Sopron vármegye | Markotabödöge |
+| 684 | Győr-Moson-Sopron megye | Markotabödöge |
 
-| 685 | Győr-Moson-Sopron vármegye | Rábaszentandrás |
+| 685 | Győr-Moson-Sopron megye | Rábaszentandrás |
 
-| 686 | Győr-Moson-Sopron vármegye | Rábcakapi |
+| 686 | Győr-Moson-Sopron megye | Rábcakapi |
 
-| 687 | Győr-Moson-Sopron vármegye | Sobor |
+| 687 | Győr-Moson-Sopron megye | Sobor |
 
-| 688 | Győr-Moson-Sopron vármegye | Szerecseny |
+| 688 | Győr-Moson-Sopron megye | Szerecseny |
 
-| 689 | Győr-Moson-Sopron vármegye | Tárnokréti |
+| 689 | Győr-Moson-Sopron megye | Tárnokréti |
 
-| 690 | Győr-Moson-Sopron vármegye | Vadosfa |
+| 690 | Győr-Moson-Sopron megye | Vadosfa |
 
-| 691 | Hajdú-Bihar vármegye | Álmosd |
+| 691 | Hajdú-Bihar megye | Álmosd |
 
-| 692 | Hajdú-Bihar vármegye | Ártánd |
+| 692 | Hajdú-Bihar megye | Ártánd |
 
-| 693 | Hajdú-Bihar vármegye | Bagamér |
+| 693 | Hajdú-Bihar megye | Bagamér |
 
-| 694 | Hajdú-Bihar vármegye | Bakonszeg |
+| 694 | Hajdú-Bihar megye | Bakonszeg |
 
-| 695 | Hajdú-Bihar vármegye | Balmazújváros |
+| 695 | Hajdú-Bihar megye | Balmazújváros |
 
-| 696 | Hajdú-Bihar vármegye | Báránd |
+| 696 | Hajdú-Bihar megye | Báránd |
 
-| 697 | Hajdú-Bihar vármegye | Bedő |
+| 697 | Hajdú-Bihar megye | Bedő |
 
-| 698 | Hajdú-Bihar vármegye | Berekböszörmény |
+| 698 | Hajdú-Bihar megye | Berekböszörmény |
 
-| 699 | Hajdú-Bihar vármegye | Bihardancsháza |
+| 699 | Hajdú-Bihar megye | Bihardancsháza |
 
-| 700 | Hajdú-Bihar vármegye | Biharkeresztes |
+| 700 | Hajdú-Bihar megye | Biharkeresztes |
 
-| 701 | Hajdú-Bihar vármegye | Biharnagybajom |
+| 701 | Hajdú-Bihar megye | Biharnagybajom |
 
-| 702 | Hajdú-Bihar vármegye | Bihartorda |
+| 702 | Hajdú-Bihar megye | Bihartorda |
 
-| 703 | Hajdú-Bihar vármegye | Bojt |
+| 703 | Hajdú-Bihar megye | Bojt |
 
-| 704 | Hajdú-Bihar vármegye | Csökmő |
+| 704 | Hajdú-Bihar megye | Csökmő |
 
-| 705 | Hajdú-Bihar vármegye | Darvas |
+| 705 | Hajdú-Bihar megye | Darvas |
 
-| 706 | Hajdú-Bihar vármegye | Derecske |
+| 706 | Hajdú-Bihar megye | Derecske |
 
-| 707 | Hajdú-Bihar vármegye | Egyek |
+| 707 | Hajdú-Bihar megye | Egyek |
 
-| 708 | Hajdú-Bihar vármegye | Esztár |
+| 708 | Hajdú-Bihar megye | Esztár |
 
-| 709 | Hajdú-Bihar vármegye | Folyás |
+| 709 | Hajdú-Bihar megye | Folyás |
 
-| 710 | Hajdú-Bihar vármegye | Földes |
+| 710 | Hajdú-Bihar megye | Földes |
 
-| 711 | Hajdú-Bihar vármegye | Furta |
+| 711 | Hajdú-Bihar megye | Furta |
 
-| 712 | Hajdú-Bihar vármegye | Fülöp |
+| 712 | Hajdú-Bihar megye | Fülöp |
 
-| 713 | Hajdú-Bihar vármegye | Gáborján |
+| 713 | Hajdú-Bihar megye | Gáborján |
 
-| 714 | Hajdú-Bihar vármegye | Hajdúbagos |
+| 714 | Hajdú-Bihar megye | Hajdúbagos |
 
-| 715 | Hajdú-Bihar vármegye | Hajdúhadház |
+| 715 | Hajdú-Bihar megye | Hajdúhadház |
 
-| 716 | Hajdú-Bihar vármegye | Hajdúsámson |
+| 716 | Hajdú-Bihar megye | Hajdúsámson |
 
-| 717 | Hajdú-Bihar vármegye | Hajdúszovát |
+| 717 | Hajdú-Bihar megye | Hajdúszovát |
 
-| 718 | Hajdú-Bihar vármegye | Hencida |
+| 718 | Hajdú-Bihar megye | Hencida |
 
-| 719 | Hajdú-Bihar vármegye | Hortobágy |
+| 719 | Hajdú-Bihar megye | Hortobágy |
 
-| 720 | Hajdú-Bihar vármegye | Hosszúpályi |
+| 720 | Hajdú-Bihar megye | Hosszúpályi |
 
-| 721 | Hajdú-Bihar vármegye | Kaba |
+| 721 | Hajdú-Bihar megye | Kaba |
 
-| 722 | Hajdú-Bihar vármegye | Kismarja |
+| 722 | Hajdú-Bihar megye | Kismarja |
 
-| 723 | Hajdú-Bihar vármegye | Kokad |
+| 723 | Hajdú-Bihar megye | Kokad |
 
-| 724 | Hajdú-Bihar vármegye | Komádi |
+| 724 | Hajdú-Bihar megye | Komádi |
 
-| 725 | Hajdú-Bihar vármegye | Konyár |
+| 725 | Hajdú-Bihar megye | Konyár |
 
-| 726 | Hajdú-Bihar vármegye | Körösszakál |
+| 726 | Hajdú-Bihar megye | Körösszakál |
 
-| 727 | Hajdú-Bihar vármegye | Körösszegapáti |
+| 727 | Hajdú-Bihar megye | Körösszegapáti |
 
-| 728 | Hajdú-Bihar vármegye | Létavértes |
+| 728 | Hajdú-Bihar megye | Létavértes |
 
-| 729 | Hajdú-Bihar vármegye | Magyarhomorog |
+| 729 | Hajdú-Bihar megye | Magyarhomorog |
 
-| 730 | Hajdú-Bihar vármegye | Mezőpeterd |
+| 730 | Hajdú-Bihar megye | Mezőpeterd |
 
-| 731 | Hajdú-Bihar vármegye | Mezősas |
+| 731 | Hajdú-Bihar megye | Mezősas |
 
-| 732 | Hajdú-Bihar vármegye | Nádudvar |
+| 732 | Hajdú-Bihar megye | Nádudvar |
 
-| 733 | Hajdú-Bihar vármegye | Nagykereki |
+| 733 | Hajdú-Bihar megye | Nagykereki |
 
-| 734 | Hajdú-Bihar vármegye | Nagyrábé |
+| 734 | Hajdú-Bihar megye | Nagyrábé |
 
-| 735 | Hajdú-Bihar vármegye | Nyírábrány |
+| 735 | Hajdú-Bihar megye | Nyírábrány |
 
-| 736 | Hajdú-Bihar vármegye | Nyíracsád |
+| 736 | Hajdú-Bihar megye | Nyíracsád |
 
-| 737 | Hajdú-Bihar vármegye | Nyíradony |
+| 737 | Hajdú-Bihar megye | Nyíradony |
 
-| 738 | Hajdú-Bihar vármegye | Nyírmártonfalva |
+| 738 | Hajdú-Bihar megye | Nyírmártonfalva |
 
-| 739 | Hajdú-Bihar vármegye | Pocsaj |
+| 739 | Hajdú-Bihar megye | Pocsaj |
 
-| 740 | Hajdú-Bihar vármegye | Polgár |
+| 740 | Hajdú-Bihar megye | Polgár |
 
-| 741 | Hajdú-Bihar vármegye | Sáp |
+| 741 | Hajdú-Bihar megye | Sáp |
 
-| 742 | Hajdú-Bihar vármegye | Sáránd |
+| 742 | Hajdú-Bihar megye | Sáránd |
 
-| 743 | Hajdú-Bihar vármegye | Sárrétudvari |
+| 743 | Hajdú-Bihar megye | Sárrétudvari |
 
-| 744 | Hajdú-Bihar vármegye | Szentpéterszeg |
+| 744 | Hajdú-Bihar megye | Szentpéterszeg |
 
-| 745 | Hajdú-Bihar vármegye | Szerep |
+| 745 | Hajdú-Bihar megye | Szerep |
 
-| 746 | Hajdú-Bihar vármegye | Téglás |
+| 746 | Hajdú-Bihar megye | Téglás |
 
-| 747 | Hajdú-Bihar vármegye | Tetétlen |
+| 747 | Hajdú-Bihar megye | Tetétlen |
 
-| 748 | Hajdú-Bihar vármegye | Tiszacsege |
+| 748 | Hajdú-Bihar megye | Tiszacsege |
 
-| 749 | Hajdú-Bihar vármegye | Tiszagyulaháza |
+| 749 | Hajdú-Bihar megye | Tiszagyulaháza |
 
-| 750 | Hajdú-Bihar vármegye | Told |
+| 750 | Hajdú-Bihar megye | Told |
 
-| 751 | Hajdú-Bihar vármegye | Újiráz |
+| 751 | Hajdú-Bihar megye | Újiráz |
 
-| 752 | Hajdú-Bihar vármegye | Újléta |
+| 752 | Hajdú-Bihar megye | Újléta |
 
-| 753 | Hajdú-Bihar vármegye | Újszentmargita |
+| 753 | Hajdú-Bihar megye | Újszentmargita |
 
-| 754 | Hajdú-Bihar vármegye | Újtikos |
+| 754 | Hajdú-Bihar megye | Újtikos |
 
-| 755 | Hajdú-Bihar vármegye | Vámospércs |
+| 755 | Hajdú-Bihar megye | Vámospércs |
 
-| 756 | Hajdú-Bihar vármegye | Váncsod |
+| 756 | Hajdú-Bihar megye | Váncsod |
 
-| 757 | Hajdú-Bihar vármegye | Vekerd |
+| 757 | Hajdú-Bihar megye | Vekerd |
 
-| 758 | Hajdú-Bihar vármegye | Zsáka |
+| 758 | Hajdú-Bihar megye | Zsáka |
 
-| 759 | Heves vármegye | Átány |
+| 759 | Heves megye | Átány |
 
-| 760 | Heves vármegye | Bekölce |
+| 760 | Heves megye | Bekölce |
 
-| 761 | Heves vármegye | Bodony |
+| 761 | Heves megye | Bodony |
 
-| 762 | Heves vármegye | Bükkszenterzsébet |
+| 762 | Heves megye | Bükkszenterzsébet |
 
-| 763 | Heves vármegye | Bükkszentmárton |
+| 763 | Heves megye | Bükkszentmárton |
 
-| 764 | Heves vármegye | Csány |
+| 764 | Heves megye | Csány |
 
-| 765 | Heves vármegye | Dormánd |
+| 765 | Heves megye | Dormánd |
 
-| 766 | Heves vármegye | Egerbakta |
+| 766 | Heves megye | Egerbakta |
 
-| 767 | Heves vármegye | Egercsehi |
+| 767 | Heves megye | Egercsehi |
 
-| 768 | Heves vármegye | Egerfarmos |
+| 768 | Heves megye | Egerfarmos |
 
-| 769 | Heves vármegye | Erdőkövesd |
+| 769 | Heves megye | Erdőkövesd |
 
-| 770 | Heves vármegye | Erdőtelek |
+| 770 | Heves megye | Erdőtelek |
 
-| 771 | Heves vármegye | Erk |
+| 771 | Heves megye | Erk |
 
-| 772 | Heves vármegye | Fedémes |
+| 772 | Heves megye | Fedémes |
 
-| 773 | Heves vármegye | Gyöngyösoroszi |
+| 773 | Heves megye | Gyöngyösoroszi |
 
-| 774 | Heves vármegye | Halmajugra |
+| 774 | Heves megye | Halmajugra |
 
-| 775 | Heves vármegye | Heves |
+| 775 | Heves megye | Heves |
 
-| 776 | Heves vármegye | Hevesaranyos |
+| 776 | Heves megye | Hevesaranyos |
 
-| 777 | Heves vármegye | Hevesvezekény |
+| 777 | Heves megye | Hevesvezekény |
 
-| 778 | Heves vármegye | Ivád |
+| 778 | Heves megye | Ivád |
 
-| 779 | Heves vármegye | Kerecsend |
+| 779 | Heves megye | Kerecsend |
 
-| 780 | Heves vármegye | Kisfüzes |
+| 780 | Heves megye | Kisfüzes |
 
-| 781 | Heves vármegye | Kisköre |
+| 781 | Heves megye | Kisköre |
 
-| 782 | Heves vármegye | Kompolt |
+| 782 | Heves megye | Kompolt |
 
-| 783 | Heves vármegye | Kömlő |
+| 783 | Heves megye | Kömlő |
 
-| 784 | Heves vármegye | Mezőszemere |
+| 784 | Heves megye | Mezőszemere |
 
-| 785 | Heves vármegye | Mezőtárkány |
+| 785 | Heves megye | Mezőtárkány |
 
-| 786 | Heves vármegye | Nagyfüged |
+| 786 | Heves megye | Nagyfüged |
 
-| 787 | Heves vármegye | Pély |
+| 787 | Heves megye | Pély |
 
-| 788 | Heves vármegye | Pétervására |
+| 788 | Heves megye | Pétervására |
 
-| 789 | Heves vármegye | Sarud |
+| 789 | Heves megye | Sarud |
 
-| 790 | Heves vármegye | Szajla |
+| 790 | Heves megye | Szajla |
 
-| 791 | Heves vármegye | Szentdomonkos |
+| 791 | Heves megye | Szentdomonkos |
 
-| 792 | Heves vármegye | Szúcs |
+| 792 | Heves megye | Szúcs |
 
-| 793 | Heves vármegye | Tarnabod |
+| 793 | Heves megye | Tarnabod |
 
-| 794 | Heves vármegye | Tarnalelesz |
+| 794 | Heves megye | Tarnalelesz |
 
-| 795 | Heves vármegye | Tarnaörs |
+| 795 | Heves megye | Tarnaörs |
 
-| 796 | Heves vármegye | Tarnaszentmária |
+| 796 | Heves megye | Tarnaszentmária |
 
-| 797 | Heves vármegye | Tarnaszentmiklós |
+| 797 | Heves megye | Tarnaszentmiklós |
 
-| 798 | Heves vármegye | Tarnazsadány |
+| 798 | Heves megye | Tarnazsadány |
 
-| 799 | Heves vármegye | Terpes |
+| 799 | Heves megye | Terpes |
 
-| 800 | Heves vármegye | Tiszanána |
+| 800 | Heves megye | Tiszanána |
 
-| 801 | Heves vármegye | Tófalu |
+| 801 | Heves megye | Tófalu |
 
-| 802 | Heves vármegye | Újlőrincfalva |
+| 802 | Heves megye | Újlőrincfalva |
 
-| 803 | Heves vármegye | Váraszó |
+| 803 | Heves megye | Váraszó |
 
-| 804 | Heves vármegye | Vécs |
+| 804 | Heves megye | Vécs |
 
-| 805 | Heves vármegye | Verpelét |
+| 805 | Heves megye | Verpelét |
 
-| 806 | Heves vármegye | Visznek |
+| 806 | Heves megye | Visznek |
 
-| 807 | Heves vármegye | Zaránk |
+| 807 | Heves megye | Zaránk |
 
-| 808 | Jász-Nagykun-Szolnok vármegye | Abádszalók |
+| 808 | Jász-Nagykun-Szolnok megye | Abádszalók |
 
-| 809 | Jász-Nagykun-Szolnok vármegye | Cibakháza |
+| 809 | Jász-Nagykun-Szolnok megye | Cibakháza |
 
-| 810 | Jász-Nagykun-Szolnok vármegye | Csataszög |
+| 810 | Jász-Nagykun-Szolnok megye | Csataszög |
 
-| 811 | Jász-Nagykun-Szolnok vármegye | Csépa |
+| 811 | Jász-Nagykun-Szolnok megye | Csépa |
 
-| 812 | Jász-Nagykun-Szolnok vármegye | Hunyadfalva |
+| 812 | Jász-Nagykun-Szolnok megye | Hunyadfalva |
 
-| 813 | Jász-Nagykun-Szolnok vármegye | Jászágó |
+| 813 | Jász-Nagykun-Szolnok megye | Jászágó |
 
-| 814 | Jász-Nagykun-Szolnok vármegye | Jászfelsőszentgyörgy |
+| 814 | Jász-Nagykun-Szolnok megye | Jászfelsőszentgyörgy |
 
-| 815 | Jász-Nagykun-Szolnok vármegye | Jászivány |
+| 815 | Jász-Nagykun-Szolnok megye | Jászivány |
 
-| 816 | Jász-Nagykun-Szolnok vármegye | Jászkisér |
+| 816 | Jász-Nagykun-Szolnok megye | Jászkisér |
 
-| 817 | Jász-Nagykun-Szolnok vármegye | Jászladány |
+| 817 | Jász-Nagykun-Szolnok megye | Jászladány |
 
-| 818 | Jász-Nagykun-Szolnok vármegye | Karcag |
+| 818 | Jász-Nagykun-Szolnok megye | Karcag |
 
-| 819 | Jász-Nagykun-Szolnok vármegye | Kenderes |
+| 819 | Jász-Nagykun-Szolnok megye | Kenderes |
 
-| 820 | Jász-Nagykun-Szolnok vármegye | Kengyel |
+| 820 | Jász-Nagykun-Szolnok megye | Kengyel |
 
-| 821 | Jász-Nagykun-Szolnok vármegye | Kétpó |
+| 821 | Jász-Nagykun-Szolnok megye | Kétpó |
 
-| 822 | Jász-Nagykun-Szolnok vármegye | Kőtelek |
+| 822 | Jász-Nagykun-Szolnok megye | Kőtelek |
 
-| 823 | Jász-Nagykun-Szolnok vármegye | Kuncsorba |
+| 823 | Jász-Nagykun-Szolnok megye | Kuncsorba |
 
-| 824 | Jász-Nagykun-Szolnok vármegye | Kunhegyes |
+| 824 | Jász-Nagykun-Szolnok megye | Kunhegyes |
 
-| 825 | Jász-Nagykun-Szolnok vármegye | Kunmadaras |
+| 825 | Jász-Nagykun-Szolnok megye | Kunmadaras |
 
-| 826 | Jász-Nagykun-Szolnok vármegye | Kunszentmárton |
+| 826 | Jász-Nagykun-Szolnok megye | Kunszentmárton |
 
-| 827 | Jász-Nagykun-Szolnok vármegye | Mesterszállás |
+| 827 | Jász-Nagykun-Szolnok megye | Mesterszállás |
 
-| 828 | Jász-Nagykun-Szolnok vármegye | Mezőhék |
+| 828 | Jász-Nagykun-Szolnok megye | Mezőhék |
 
-| 829 | Jász-Nagykun-Szolnok vármegye | Nagyiván |
+| 829 | Jász-Nagykun-Szolnok megye | Nagyiván |
 
-| 830 | Jász-Nagykun-Szolnok vármegye | Nagykörű |
+| 830 | Jász-Nagykun-Szolnok megye | Nagykörű |
 
-| 831 | Jász-Nagykun-Szolnok vármegye | Nagyrév |
+| 831 | Jász-Nagykun-Szolnok megye | Nagyrév |
 
-| 832 | Jász-Nagykun-Szolnok vármegye | Öcsöd |
+| 832 | Jász-Nagykun-Szolnok megye | Öcsöd |
 
-| 833 | Jász-Nagykun-Szolnok vármegye | Örményes |
+| 833 | Jász-Nagykun-Szolnok megye | Örményes |
 
-| 834 | Jász-Nagykun-Szolnok vármegye | Szelevény |
+| 834 | Jász-Nagykun-Szolnok megye | Szelevény |
 
-| 835 | Jász-Nagykun-Szolnok vármegye | Tiszabő |
+| 835 | Jász-Nagykun-Szolnok megye | Tiszabő |
 
-| 836 | Jász-Nagykun-Szolnok vármegye | Tiszabura |
+| 836 | Jász-Nagykun-Szolnok megye | Tiszabura |
 
-| 837 | Jász-Nagykun-Szolnok vármegye | Tiszaderzs |
+| 837 | Jász-Nagykun-Szolnok megye | Tiszaderzs |
 
-| 838 | Jász-Nagykun-Szolnok vármegye | Tiszaföldvár |
+| 838 | Jász-Nagykun-Szolnok megye | Tiszaföldvár |
 
-| 839 | Jász-Nagykun-Szolnok vármegye | Tiszagyenda |
+| 839 | Jász-Nagykun-Szolnok megye | Tiszagyenda |
 
-| 840 | Jász-Nagykun-Szolnok vármegye | Tiszaigar |
+| 840 | Jász-Nagykun-Szolnok megye | Tiszaigar |
 
-| 841 | Jász-Nagykun-Szolnok vármegye | Tiszainoka |
+| 841 | Jász-Nagykun-Szolnok megye | Tiszainoka |
 
-| 842 | Jász-Nagykun-Szolnok vármegye | Tiszakürt |
+| 842 | Jász-Nagykun-Szolnok megye | Tiszakürt |
 
-| 843 | Jász-Nagykun-Szolnok vármegye | Tiszaörs |
+| 843 | Jász-Nagykun-Szolnok megye | Tiszaörs |
 
-| 844 | Jász-Nagykun-Szolnok vármegye | Tiszapüspöki |
+| 844 | Jász-Nagykun-Szolnok megye | Tiszapüspöki |
 
-| 845 | Jász-Nagykun-Szolnok vármegye | Tiszaroff |
+| 845 | Jász-Nagykun-Szolnok megye | Tiszaroff |
 
-| 846 | Jász-Nagykun-Szolnok vármegye | Tiszasas |
+| 846 | Jász-Nagykun-Szolnok megye | Tiszasas |
 
-| 847 | Jász-Nagykun-Szolnok vármegye | Tiszasüly |
+| 847 | Jász-Nagykun-Szolnok megye | Tiszasüly |
 
-| 848 | Jász-Nagykun-Szolnok vármegye | Tiszaszentimre |
+| 848 | Jász-Nagykun-Szolnok megye | Tiszaszentimre |
 
-| 849 | Jász-Nagykun-Szolnok vármegye | Tiszaszőlős |
+| 849 | Jász-Nagykun-Szolnok megye | Tiszaszőlős |
 
-| 850 | Jász-Nagykun-Szolnok vármegye | Tiszatenyő |
+| 850 | Jász-Nagykun-Szolnok megye | Tiszatenyő |
 
-| 851 | Jász-Nagykun-Szolnok vármegye | Tomajmonostora |
+| 851 | Jász-Nagykun-Szolnok megye | Tomajmonostora |
 
-| 852 | Jász-Nagykun-Szolnok vármegye | Zagyvarékas |
+| 852 | Jász-Nagykun-Szolnok megye | Zagyvarékas |
 
-| 853 | Komárom-Esztergom vármegye | Aka |
+| 853 | Komárom-Esztergom megye | Aka |
 
-| 854 | Komárom-Esztergom vármegye | Bakonybánk |
+| 854 | Komárom-Esztergom megye | Bakonybánk |
 
-| 855 | Komárom-Esztergom vármegye | Csém |
+| 855 | Komárom-Esztergom megye | Csém |
 
-| 856 | Komárom-Esztergom vármegye | Csép |
+| 856 | Komárom-Esztergom megye | Csép |
 
-| 857 | Komárom-Esztergom vármegye | Ete |
+| 857 | Komárom-Esztergom megye | Ete |
 
-| 858 | Nógrád vármegye | Alsótold |
+| 858 | Nógrád megye | Alsótold |
 
-| 859 | Nógrád vármegye | Bárna |
+| 859 | Nógrád megye | Bárna |
 
-| 860 | Nógrád vármegye | Bátonyterenye |
+| 860 | Nógrád megye | Bátonyterenye |
 
-| 861 | Nógrád vármegye | Bér |
+| 861 | Nógrád megye | Bér |
 
-| 862 | Nógrád vármegye | Bokor |
+| 862 | Nógrád megye | Bokor |
 
-| 863 | Nógrád vármegye | Cered |
+| 863 | Nógrád megye | Cered |
 
-| 864 | Nógrád vármegye | Csécse |
+| 864 | Nógrád megye | Csécse |
 
-| 865 | Nógrád vármegye | Cserháthaláp |
+| 865 | Nógrád megye | Cserháthaláp |
 
-| 866 | Nógrád vármegye | Cserhátsurány |
+| 866 | Nógrád megye | Cserhátsurány |
 
-| 867 | Nógrád vármegye | Cserhátszentiván |
+| 867 | Nógrád megye | Cserhátszentiván |
 
-| 868 | Nógrád vármegye | Csesztve |
+| 868 | Nógrád megye | Csesztve |
 
-| 869 | Nógrád vármegye | Csitár |
+| 869 | Nógrád megye | Csitár |
 
-| 870 | Nógrád vármegye | Debercsény |
+| 870 | Nógrád megye | Debercsény |
 
-| 871 | Nógrád vármegye | Dorogháza |
+| 871 | Nógrád megye | Dorogháza |
 
-| 872 | Nógrád vármegye | Drégelypalánk |
+| 872 | Nógrád megye | Drégelypalánk |
 
-| 873 | Nógrád vármegye | Ecseg |
+| 873 | Nógrád megye | Ecseg |
 
-| 874 | Nógrád vármegye | Egyházasgerge |
+| 874 | Nógrád megye | Egyházasgerge |
 
-| 875 | Nógrád vármegye | Endrefalva |
+| 875 | Nógrád megye | Endrefalva |
 
-| 876 | Nógrád vármegye | Erdőtarcsa |
+| 876 | Nógrád megye | Erdőtarcsa |
 
-| 877 | Nógrád vármegye | Etes |
+| 877 | Nógrád megye | Etes |
 
-| 878 | Nógrád vármegye | Felsőtold |
+| 878 | Nógrád megye | Felsőtold |
 
-| 879 | Nógrád vármegye | Garáb |
+| 879 | Nógrád megye | Garáb |
 
-| 880 | Nógrád vármegye | Héhalom |
+| 880 | Nógrád megye | Héhalom |
 
-| 881 | Nógrád vármegye | Herencsény |
+| 881 | Nógrád megye | Herencsény |
 
-| 882 | Nógrád vármegye | Hont |
+| 882 | Nógrád megye | Hont |
 
-| 883 | Nógrád vármegye | Horpács |
+| 883 | Nógrád megye | Horpács |
 
-| 884 | Nógrád vármegye | Hugyag |
+| 884 | Nógrád megye | Hugyag |
 
-| 885 | Nógrád vármegye | Iliny |
+| 885 | Nógrád megye | Iliny |
 
-| 886 | Nógrád vármegye | Ipolyszög |
+| 886 | Nógrád megye | Ipolyszög |
 
-| 887 | Nógrád vármegye | Ipolytarnóc |
+| 887 | Nógrád megye | Ipolytarnóc |
 
-| 888 | Nógrád vármegye | Kálló |
+| 888 | Nógrád megye | Kálló |
 
-| 889 | Nógrád vármegye | Karancsalja |
+| 889 | Nógrád megye | Karancsalja |
 
-| 890 | Nógrád vármegye | Karancsberény |
+| 890 | Nógrád megye | Karancsberény |
 
-| 891 | Nógrád vármegye | Karancskeszi |
+| 891 | Nógrád megye | Karancskeszi |
 
-| 892 | Nógrád vármegye | Karancslapujtő |
+| 892 | Nógrád megye | Karancslapujtő |
 
-| 893 | Nógrád vármegye | Karancsság |
+| 893 | Nógrád megye | Karancsság |
 
-| 894 | Nógrád vármegye | Kazár |
+| 894 | Nógrád megye | Kazár |
 
-| 895 | Nógrád vármegye | Kisbárkány |
+| 895 | Nógrád megye | Kisbárkány |
 
-| 896 | Nógrád vármegye | Kisecset |
+| 896 | Nógrád megye | Kisecset |
 
-| 897 | Nógrád vármegye | Kishartyán |
+| 897 | Nógrád megye | Kishartyán |
 
-| 898 | Nógrád vármegye | Kozárd |
+| 898 | Nógrád megye | Kozárd |
 
-| 899 | Nógrád vármegye | Kutasó |
+| 899 | Nógrád megye | Kutasó |
 
-| 900 | Nógrád vármegye | Legénd |
+| 900 | Nógrád megye | Legénd |
 
-| 901 | Nógrád vármegye | Litke |
+| 901 | Nógrád megye | Litke |
 
-| 902 | Nógrád vármegye | Lucfalva |
+| 902 | Nógrád megye | Lucfalva |
 
-| 903 | Nógrád vármegye | Ludányhalászi |
+| 903 | Nógrád megye | Ludányhalászi |
 
-| 904 | Nógrád vármegye | Magyargéc |
+| 904 | Nógrád megye | Magyargéc |
 
-| 905 | Nógrád vármegye | Márkháza |
+| 905 | Nógrád megye | Márkháza |
 
-| 906 | Nógrád vármegye | Mátramindszent |
+| 906 | Nógrád megye | Mátramindszent |
 
-| 907 | Nógrád vármegye | Mátraszele |
+| 907 | Nógrád megye | Mátraszele |
 
-| 908 | Nógrád vármegye | Mátraszőlős |
+| 908 | Nógrád megye | Mátraszőlős |
 
-| 909 | Nógrád vármegye | Mátraterenye |
+| 909 | Nógrád megye | Mátraterenye |
 
-| 910 | Nógrád vármegye | Mátraverebély |
+| 910 | Nógrád megye | Mátraverebély |
 
-| 911 | Nógrád vármegye | Mihálygerge |
+| 911 | Nógrád megye | Mihálygerge |
 
-| 912 | Nógrád vármegye | Mohora |
+| 912 | Nógrád megye | Mohora |
 
-| 913 | Nógrád vármegye | Nagybárkány |
+| 913 | Nógrád megye | Nagybárkány |
 
-| 914 | Nógrád vármegye | Nagykeresztúr |
+| 914 | Nógrád megye | Nagykeresztúr |
 
-| 915 | Nógrád vármegye | Nagylóc |
+| 915 | Nógrád megye | Nagylóc |
 
-| 916 | Nógrád vármegye | Nógrádmarcal |
+| 916 | Nógrád megye | Nógrádmarcal |
 
-| 917 | Nógrád vármegye | Nógrádmegyer |
+| 917 | Nógrád megye | Nógrádmegyer |
 
-| 918 | Nógrád vármegye | Nógrádsipek |
+| 918 | Nógrád megye | Nógrádsipek |
 
-| 919 | Nógrád vármegye | Nógrádszakál |
+| 919 | Nógrád megye | Nógrádszakál |
 
-| 920 | Nógrád vármegye | Piliny |
+| 920 | Nógrád megye | Piliny |
 
-| 921 | Nógrád vármegye | Rákóczibánya |
+| 921 | Nógrád megye | Rákóczibánya |
 
-| 922 | Nógrád vármegye | Rimóc |
+| 922 | Nógrád megye | Rimóc |
 
-| 923 | Nógrád vármegye | Ságújfalu |
+| 923 | Nógrád megye | Ságújfalu |
 
-| 924 | Nógrád vármegye | Salgótarján |
+| 924 | Nógrád megye | Salgótarján |
 
-| 925 | Nógrád vármegye | Sámsonháza |
+| 925 | Nógrád megye | Sámsonháza |
 
-| 926 | Nógrád vármegye | Somoskőújfalu |
+| 926 | Nógrád megye | Somoskőújfalu |
 
-| 927 | Nógrád vármegye | Sóshartyán |
+| 927 | Nógrád megye | Sóshartyán |
 
-| 928 | Nógrád vármegye | Szalmatercs |
+| 928 | Nógrád megye | Szalmatercs |
 
-| 929 | Nógrád vármegye | Szarvasgede |
+| 929 | Nógrád megye | Szarvasgede |
 
-| 930 | Nógrád vármegye | Szátok |
+| 930 | Nógrád megye | Szátok |
 
-| 931 | Nógrád vármegye | Szécsényfelfalu |
+| 931 | Nógrád megye | Szécsényfelfalu |
 
-| 932 | Nógrád vármegye | Szilaspogony |
+| 932 | Nógrád megye | Szilaspogony |
 
-| 933 | Nógrád vármegye | Szirák |
+| 933 | Nógrád megye | Szirák |
 
-| 934 | Nógrád vármegye | Tar |
+| 934 | Nógrád megye | Tar |
 
-| 935 | Nógrád vármegye | Terény |
+| 935 | Nógrád megye | Terény |
 
-| 936 | Nógrád vármegye | Tereske |
+| 936 | Nógrád megye | Tereske |
 
-| 937 | Nógrád vármegye | Zabar |
+| 937 | Nógrád megye | Zabar |
 
-| 938 | Pest vármegye | Ipolytölgyes |
+| 938 | Pest megye | Ipolytölgyes |
 
-| 939 | Pest vármegye | Jászkarajenő |
+| 939 | Pest megye | Jászkarajenő |
 
-| 940 | Pest vármegye | Kocsér |
+| 940 | Pest megye | Kocsér |
 
-| 941 | Pest vármegye | Mikebuda |
+| 941 | Pest megye | Mikebuda |
 
-| 942 | Pest vármegye | Nagybörzsöny |
+| 942 | Pest megye | Nagybörzsöny |
 
-| 943 | Pest vármegye | Tápiószőlős |
+| 943 | Pest megye | Tápiószőlős |
 
-| 944 | Pest vármegye | Tatárszentgyörgy |
+| 944 | Pest megye | Tatárszentgyörgy |
 
-| 945 | Somogy vármegye | Alsóbogát |
+| 945 | Somogy megye | Alsóbogát |
 
-| 946 | Somogy vármegye | Andocs |
+| 946 | Somogy megye | Andocs |
 
-| 947 | Somogy vármegye | Babócsa |
+| 947 | Somogy megye | Babócsa |
 
-| 948 | Somogy vármegye | Bábonymegyer |
+| 948 | Somogy megye | Bábonymegyer |
 
-| 949 | Somogy vármegye | Bakháza |
+| 949 | Somogy megye | Bakháza |
 
-| 950 | Somogy vármegye | Balatonberény |
+| 950 | Somogy megye | Balatonberény |
 
-| 951 | Somogy vármegye | Bálványos |
+| 951 | Somogy megye | Bálványos |
 
-| 952 | Somogy vármegye | Barcs |
+| 952 | Somogy megye | Barcs |
 
-| 953 | Somogy vármegye | Bárdudvarnok |
+| 953 | Somogy megye | Bárdudvarnok |
 
-| 954 | Somogy vármegye | Baté |
+| 954 | Somogy megye | Baté |
 
-| 955 | Somogy vármegye | Bedegkér |
+| 955 | Somogy megye | Bedegkér |
 
-| 956 | Somogy vármegye | Bélavár |
+| 956 | Somogy megye | Bélavár |
 
-| 957 | Somogy vármegye | Beleg |
+| 957 | Somogy megye | Beleg |
 
-| 958 | Somogy vármegye | Berzence |
+| 958 | Somogy megye | Berzence |
 
-| 959 | Somogy vármegye | Bolhás |
+| 959 | Somogy megye | Bolhás |
 
-| 960 | Somogy vármegye | Bolhó |
+| 960 | Somogy megye | Bolhó |
 
-| 961 | Somogy vármegye | Bonnya |
+| 961 | Somogy megye | Bonnya |
 
-| 962 | Somogy vármegye | Böhönye |
+| 962 | Somogy megye | Böhönye |
 
-| 963 | Somogy vármegye | Büssü |
+| 963 | Somogy megye | Büssü |
 
-| 964 | Somogy vármegye | Csákány |
+| 964 | Somogy megye | Csákány |
 
-| 965 | Somogy vármegye | Cserénfa |
+| 965 | Somogy megye | Cserénfa |
 
-| 966 | Somogy vármegye | Csokonyavisonta |
+| 966 | Somogy megye | Csokonyavisonta |
 
-| 967 | Somogy vármegye | Csombárd |
+| 967 | Somogy megye | Csombárd |
 
-| 968 | Somogy vármegye | Csököly |
+| 968 | Somogy megye | Csököly |
 
-| 969 | Somogy vármegye | Csömend |
+| 969 | Somogy megye | Csömend |
 
-| 970 | Somogy vármegye | Csurgónagymarton |
+| 970 | Somogy megye | Csurgónagymarton |
 
-| 971 | Somogy vármegye | Darány |
+| 971 | Somogy megye | Darány |
 
-| 972 | Somogy vármegye | Drávagárdony |
+| 972 | Somogy megye | Drávagárdony |
 
-| 973 | Somogy vármegye | Ecseny |
+| 973 | Somogy megye | Ecseny |
 
-| 974 | Somogy vármegye | Edde |
+| 974 | Somogy megye | Edde |
 
-| 975 | Somogy vármegye | Felsőmocsolád |
+| 975 | Somogy megye | Felsőmocsolád |
 
-| 976 | Somogy vármegye | Fiad |
+| 976 | Somogy megye | Fiad |
 
-| 977 | Somogy vármegye | Fonó |
+| 977 | Somogy megye | Fonó |
 
-| 978 | Somogy vármegye | Főnyed |
+| 978 | Somogy megye | Főnyed |
 
-| 979 | Somogy vármegye | Gadács |
+| 979 | Somogy megye | Gadács |
 
-| 980 | Somogy vármegye | Gadány |
+| 980 | Somogy megye | Gadány |
 
-| 981 | Somogy vármegye | Gálosfa |
+| 981 | Somogy megye | Gálosfa |
 
-| 982 | Somogy vármegye | Gamás |
+| 982 | Somogy megye | Gamás |
 
-| 983 | Somogy vármegye | Gige |
+| 983 | Somogy megye | Gige |
 
-| 984 | Somogy vármegye | Gölle |
+| 984 | Somogy megye | Gölle |
 
-| 985 | Somogy vármegye | Görgeteg |
+| 985 | Somogy megye | Görgeteg |
 
-| 986 | Somogy vármegye | Gyugy |
+| 986 | Somogy megye | Gyugy |
 
-| 987 | Somogy vármegye | Hács |
+| 987 | Somogy megye | Hács |
 
-| 988 | Somogy vármegye | Hajmás |
+| 988 | Somogy megye | Hajmás |
 
-| 989 | Somogy vármegye | Háromfa |
+| 989 | Somogy megye | Háromfa |
 
-| 990 | Somogy vármegye | Hedrehely |
+| 990 | Somogy megye | Hedrehely |
 
-| 991 | Somogy vármegye | Hencse |
+| 991 | Somogy megye | Hencse |
 
-| 992 | Somogy vármegye | Heresznye |
+| 992 | Somogy megye | Heresznye |
 
-| 993 | Somogy vármegye | Hollád |
+| 993 | Somogy megye | Hollád |
 
-| 994 | Somogy vármegye | Homokszentgyörgy |
+| 994 | Somogy megye | Homokszentgyörgy |
 
-| 995 | Somogy vármegye | Hosszúvíz |
+| 995 | Somogy megye | Hosszúvíz |
 
-| 996 | Somogy vármegye | Iharos |
+| 996 | Somogy megye | Iharos |
 
-| 997 | Somogy vármegye | Iharosberény |
+| 997 | Somogy megye | Iharosberény |
 
-| 998 | Somogy vármegye | Inke |
+| 998 | Somogy megye | Inke |
 
-| 999 | Somogy vármegye | Istvándi |
+| 999 | Somogy megye | Istvándi |
 
-| 1000 | Somogy vármegye | Jákó |
+| 1000 | Somogy megye | Jákó |
 
-| 1001 | Somogy vármegye | Kadarkút |
+| 1001 | Somogy megye | Kadarkút |
 
-| 1002 | Somogy vármegye | Kálmáncsa |
+| 1002 | Somogy megye | Kálmáncsa |
 
-| 1003 | Somogy vármegye | Kánya |
+| 1003 | Somogy megye | Kánya |
 
-| 1004 | Somogy vármegye | Kapoly |
+| 1004 | Somogy megye | Kapoly |
 
-| 1005 | Somogy vármegye | Kaposhomok |
+| 1005 | Somogy megye | Kaposhomok |
 
-| 1006 | Somogy vármegye | Kaposkeresztúr |
+| 1006 | Somogy megye | Kaposkeresztúr |
 
-| 1007 | Somogy vármegye | Kára |
+| 1007 | Somogy megye | Kára |
 
-| 1008 | Somogy vármegye | Karád |
+| 1008 | Somogy megye | Karád |
 
-| 1009 | Somogy vármegye | Kastélyosdombó |
+| 1009 | Somogy megye | Kastélyosdombó |
 
-| 1010 | Somogy vármegye | Kaszó |
+| 1010 | Somogy megye | Kaszó |
 
-| 1011 | Somogy vármegye | Kazsok |
+| 1011 | Somogy megye | Kazsok |
 
-| 1012 | Somogy vármegye | Kelevíz |
+| 1012 | Somogy megye | Kelevíz |
 
-| 1013 | Somogy vármegye | Kercseliget |
+| 1013 | Somogy megye | Kercseliget |
 
-| 1014 | Somogy vármegye | Kisasszond |
+| 1014 | Somogy megye | Kisasszond |
 
-| 1015 | Somogy vármegye | Kisbajom |
+| 1015 | Somogy megye | Kisbajom |
 
-| 1016 | Somogy vármegye | Kisbárapáti |
+| 1016 | Somogy megye | Kisbárapáti |
 
-| 1017 | Somogy vármegye | Kisberény |
+| 1017 | Somogy megye | Kisberény |
 
-| 1018 | Somogy vármegye | Kisgyalán |
+| 1018 | Somogy megye | Kisgyalán |
 
-| 1019 | Somogy vármegye | Kiskorpád |
+| 1019 | Somogy megye | Kiskorpád |
 
-| 1020 | Somogy vármegye | Komlósd |
+| 1020 | Somogy megye | Komlósd |
 
-| 1021 | Somogy vármegye | Kőkút |
+| 1021 | Somogy megye | Kőkút |
 
-| 1022 | Somogy vármegye | Kötcse |
+| 1022 | Somogy megye | Kötcse |
 
-| 1023 | Somogy vármegye | Kutas |
+| 1023 | Somogy megye | Kutas |
 
-| 1024 | Somogy vármegye | Lábod |
+| 1024 | Somogy megye | Lábod |
 
-| 1025 | Somogy vármegye | Lad |
+| 1025 | Somogy megye | Lad |
 
-| 1026 | Somogy vármegye | Lakócsa |
+| 1026 | Somogy megye | Lakócsa |
 
-| 1027 | Somogy vármegye | Látrány |
+| 1027 | Somogy megye | Látrány |
 
-| 1028 | Somogy vármegye | Libickozma |
+| 1028 | Somogy megye | Libickozma |
 
-| 1029 | Somogy vármegye | Lulla |
+| 1029 | Somogy megye | Lulla |
 
-| 1030 | Somogy vármegye | Magyaregres |
+| 1030 | Somogy megye | Magyaregres |
 
-| 1031 | Somogy vármegye | Mezőcsokonya |
+| 1031 | Somogy megye | Mezőcsokonya |
 
-| 1032 | Somogy vármegye | Mike |
+| 1032 | Somogy megye | Mike |
 
-| 1033 | Somogy vármegye | Miklósi |
+| 1033 | Somogy megye | Miklósi |
 
-| 1034 | Somogy vármegye | Nágocs |
+| 1034 | Somogy megye | Nágocs |
 
-| 1035 | Somogy vármegye | Nagybajom |
+| 1035 | Somogy megye | Nagybajom |
 
-| 1036 | Somogy vármegye | Nagyberki |
+| 1036 | Somogy megye | Nagyberki |
 
-| 1037 | Somogy vármegye | Nagycsepely |
+| 1037 | Somogy megye | Nagycsepely |
 
-| 1038 | Somogy vármegye | Nagykorpád |
+| 1038 | Somogy megye | Nagykorpád |
 
-| 1039 | Somogy vármegye | Nagyszakácsi |
+| 1039 | Somogy megye | Nagyszakácsi |
 
-| 1040 | Somogy vármegye | Nemesdéd |
+| 1040 | Somogy megye | Nemesdéd |
 
-| 1041 | Somogy vármegye | Nemeskisfalud |
+| 1041 | Somogy megye | Nemeskisfalud |
 
-| 1042 | Somogy vármegye | Nemesvid |
+| 1042 | Somogy megye | Nemesvid |
 
-| 1043 | Somogy vármegye | Nikla |
+| 1043 | Somogy megye | Nikla |
 
-| 1044 | Somogy vármegye | Nyim |
+| 1044 | Somogy megye | Nyim |
 
-| 1045 | Somogy vármegye | Osztopán |
+| 1045 | Somogy megye | Osztopán |
 
-| 1046 | Somogy vármegye | Öreglak |
+| 1046 | Somogy megye | Öreglak |
 
-| 1047 | Somogy vármegye | Őrtilos |
+| 1047 | Somogy megye | Őrtilos |
 
-| 1048 | Somogy vármegye | Ötvöskónyi |
+| 1048 | Somogy megye | Ötvöskónyi |
 
-| 1049 | Somogy vármegye | Pálmajor |
+| 1049 | Somogy megye | Pálmajor |
 
-| 1050 | Somogy vármegye | Pamuk |
+| 1050 | Somogy megye | Pamuk |
 
-| 1051 | Somogy vármegye | Patalom |
+| 1051 | Somogy megye | Patalom |
 
-| 1052 | Somogy vármegye | Patca |
+| 1052 | Somogy megye | Patca |
 
-| 1053 | Somogy vármegye | Patosfa |
+| 1053 | Somogy megye | Patosfa |
 
-| 1054 | Somogy vármegye | Péterhida |
+| 1054 | Somogy megye | Péterhida |
 
-| 1055 | Somogy vármegye | Pogányszentpéter |
+| 1055 | Somogy megye | Pogányszentpéter |
 
-| 1056 | Somogy vármegye | Polány |
+| 1056 | Somogy megye | Polány |
 
-| 1057 | Somogy vármegye | Porrog |
+| 1057 | Somogy megye | Porrog |
 
-| 1058 | Somogy vármegye | Porrogszentkirály |
+| 1058 | Somogy megye | Porrogszentkirály |
 
-| 1059 | Somogy vármegye | Porrogszentpál |
+| 1059 | Somogy megye | Porrogszentpál |
 
-| 1060 | Somogy vármegye | Potony |
+| 1060 | Somogy megye | Potony |
 
-| 1061 | Somogy vármegye | Pusztakovácsi |
+| 1061 | Somogy megye | Pusztakovácsi |
 
-| 1062 | Somogy vármegye | Rinyabesenyő |
+| 1062 | Somogy megye | Rinyabesenyő |
 
-| 1063 | Somogy vármegye | Rinyakovácsi |
+| 1063 | Somogy megye | Rinyakovácsi |
 
-| 1064 | Somogy vármegye | Rinyaszentkirály |
+| 1064 | Somogy megye | Rinyaszentkirály |
 
-| 1065 | Somogy vármegye | Rinyaújlak |
+| 1065 | Somogy megye | Rinyaújlak |
 
-| 1066 | Somogy vármegye | Rinyaújnép |
+| 1066 | Somogy megye | Rinyaújnép |
 
-| 1067 | Somogy vármegye | Sávoly |
+| 1067 | Somogy megye | Sávoly |
 
-| 1068 | Somogy vármegye | Segesd |
+| 1068 | Somogy megye | Segesd |
 
-| 1069 | Somogy vármegye | Simonfa |
+| 1069 | Somogy megye | Simonfa |
 
-| 1070 | Somogy vármegye | Somodor |
+| 1070 | Somogy megye | Somodor |
 
-| 1071 | Somogy vármegye | Somogyacsa |
+| 1071 | Somogy megye | Somogyacsa |
 
-| 1072 | Somogy vármegye | Somogyaracs |
+| 1072 | Somogy megye | Somogyaracs |
 
-| 1073 | Somogy vármegye | Somogybabod |
+| 1073 | Somogy megye | Somogybabod |
 
-| 1074 | Somogy vármegye | Somogybükkösd |
+| 1074 | Somogy megye | Somogybükkösd |
 
-| 1075 | Somogy vármegye | Somogycsicsó |
+| 1075 | Somogy megye | Somogycsicsó |
 
-| 1076 | Somogy vármegye | Somogydöröcske |
+| 1076 | Somogy megye | Somogydöröcske |
 
-| 1077 | Somogy vármegye | Somogyegres |
+| 1077 | Somogy megye | Somogyegres |
 
-| 1078 | Somogy vármegye | Somogyfajsz |
+| 1078 | Somogy megye | Somogyfajsz |
 
-| 1079 | Somogy vármegye | Somogygeszti |
+| 1079 | Somogy megye | Somogygeszti |
 
-| 1080 | Somogy vármegye | Somogyjád |
+| 1080 | Somogy megye | Somogyjád |
 
-| 1081 | Somogy vármegye | Somogymeggyes |
+| 1081 | Somogy megye | Somogymeggyes |
 
-| 1082 | Somogy vármegye | Somogysámson |
+| 1082 | Somogy megye | Somogysámson |
 
-| 1083 | Somogy vármegye | Somogysárd |
+| 1083 | Somogy megye | Somogysárd |
 
-| 1084 | Somogy vármegye | Somogyszentpál |
+| 1084 | Somogy megye | Somogyszentpál |
 
-| 1085 | Somogy vármegye | Somogyszil |
+| 1085 | Somogy megye | Somogyszil |
 
-| 1086 | Somogy vármegye | Somogyszob |
+| 1086 | Somogy megye | Somogyszob |
 
-| 1087 | Somogy vármegye | Somogytúr |
+| 1087 | Somogy megye | Somogytúr |
 
-| 1088 | Somogy vármegye | Somogyudvarhely |
+| 1088 | Somogy megye | Somogyudvarhely |
 
-| 1089 | Somogy vármegye | Somogyvámos |
+| 1089 | Somogy megye | Somogyvámos |
 
-| 1090 | Somogy vármegye | Somogyvár |
+| 1090 | Somogy megye | Somogyvár |
 
-| 1091 | Somogy vármegye | Somogyzsitfa |
+| 1091 | Somogy megye | Somogyzsitfa |
 
-| 1092 | Somogy vármegye | Szabadi |
+| 1092 | Somogy megye | Szabadi |
 
-| 1093 | Somogy vármegye | Szabás |
+| 1093 | Somogy megye | Szabás |
 
-| 1094 | Somogy vármegye | Szegerdő |
+| 1094 | Somogy megye | Szegerdő |
 
-| 1095 | Somogy vármegye | Szenta |
+| 1095 | Somogy megye | Szenta |
 
-| 1096 | Somogy vármegye | Szentborbás |
+| 1096 | Somogy megye | Szentborbás |
 
-| 1097 | Somogy vármegye | Szentgáloskér |
+| 1097 | Somogy megye | Szentgáloskér |
 
-| 1098 | Somogy vármegye | Szenyér |
+| 1098 | Somogy megye | Szenyér |
 
-| 1099 | Somogy vármegye | Szilvásszentmárton |
+| 1099 | Somogy megye | Szilvásszentmárton |
 
-| 1100 | Somogy vármegye | Szorosad |
+| 1100 | Somogy megye | Szorosad |
 
-| 1101 | Somogy vármegye | Szőkedencs |
+| 1101 | Somogy megye | Szőkedencs |
 
-| 1102 | Somogy vármegye | Szulok |
+| 1102 | Somogy megye | Szulok |
 
-| 1103 | Somogy vármegye | Tapsony |
+| 1103 | Somogy megye | Tapsony |
 
-| 1104 | Somogy vármegye | Tarany |
+| 1104 | Somogy megye | Tarany |
 
-| 1105 | Somogy vármegye | Táska |
+| 1105 | Somogy megye | Táska |
 
-| 1106 | Somogy vármegye | Teleki |
+| 1106 | Somogy megye | Teleki |
 
-| 1107 | Somogy vármegye | Tengőd |
+| 1107 | Somogy megye | Tengőd |
 
-| 1108 | Somogy vármegye | Tikos |
+| 1108 | Somogy megye | Tikos |
 
-| 1109 | Somogy vármegye | Torvaj |
+| 1109 | Somogy megye | Torvaj |
 
-| 1110 | Somogy vármegye | Tótújfalu |
+| 1110 | Somogy megye | Tótújfalu |
 
-| 1111 | Somogy vármegye | Törökkoppány |
+| 1111 | Somogy megye | Törökkoppány |
 
-| 1112 | Somogy vármegye | Újvárfalva |
+| 1112 | Somogy megye | Újvárfalva |
 
-| 1113 | Somogy vármegye | Varászló |
+| 1113 | Somogy megye | Varászló |
 
-| 1114 | Somogy vármegye | Vése |
+| 1114 | Somogy megye | Vése |
 
-| 1115 | Somogy vármegye | Visnye |
+| 1115 | Somogy megye | Visnye |
 
-| 1116 | Somogy vármegye | Visz |
+| 1116 | Somogy megye | Visz |
 
-| 1117 | Somogy vármegye | Vízvár |
+| 1117 | Somogy megye | Vízvár |
 
-| 1118 | Somogy vármegye | Vörs |
+| 1118 | Somogy megye | Vörs |
 
-| 1119 | Somogy vármegye | Zákányfalu |
+| 1119 | Somogy megye | Zákányfalu |
 
-| 1120 | Somogy vármegye | Zala |
+| 1120 | Somogy megye | Zala |
 
-| 1121 | Somogy vármegye | Zics |
+| 1121 | Somogy megye | Zics |
 
-| 1122 | Somogy vármegye | Zselickisfalud |
+| 1122 | Somogy megye | Zselickisfalud |
 
-| 1123 | Szabolcs-Szatmár-Bereg vármegye | Anarcs |
+| 1123 | Szabolcs-Szatmár-Bereg megye | Anarcs |
 
-| 1124 | Szabolcs-Szatmár-Bereg vármegye | Aranyosapáti |
+| 1124 | Szabolcs-Szatmár-Bereg megye | Aranyosapáti |
 
-| 1125 | Szabolcs-Szatmár-Bereg vármegye | Baktalórántháza |
+| 1125 | Szabolcs-Szatmár-Bereg megye | Baktalórántháza |
 
-| 1126 | Szabolcs-Szatmár-Bereg vármegye | Balkány |
+| 1126 | Szabolcs-Szatmár-Bereg megye | Balkány |
 
-| 1127 | Szabolcs-Szatmár-Bereg vármegye | Balsa |
+| 1127 | Szabolcs-Szatmár-Bereg megye | Balsa |
 
-| 1128 | Szabolcs-Szatmár-Bereg vármegye | Barabás |
+| 1128 | Szabolcs-Szatmár-Bereg megye | Barabás |
 
-| 1129 | Szabolcs-Szatmár-Bereg vármegye | Bátorliget |
+| 1129 | Szabolcs-Szatmár-Bereg megye | Bátorliget |
 
-| 1130 | Szabolcs-Szatmár-Bereg vármegye | Benk |
+| 1130 | Szabolcs-Szatmár-Bereg megye | Benk |
 
-| 1131 | Szabolcs-Szatmár-Bereg vármegye | Beregdaróc |
+| 1131 | Szabolcs-Szatmár-Bereg megye | Beregdaróc |
 
-| 1132 | Szabolcs-Szatmár-Bereg vármegye | Beregsurány |
+| 1132 | Szabolcs-Szatmár-Bereg megye | Beregsurány |
 
-| 1133 | Szabolcs-Szatmár-Bereg vármegye | Berkesz |
+| 1133 | Szabolcs-Szatmár-Bereg megye | Berkesz |
 
-| 1134 | Szabolcs-Szatmár-Bereg vármegye | Besenyőd |
+| 1134 | Szabolcs-Szatmár-Bereg megye | Besenyőd |
 
-| 1135 | Szabolcs-Szatmár-Bereg vármegye | Beszterec |
+| 1135 | Szabolcs-Szatmár-Bereg megye | Beszterec |
 
-| 1136 | Szabolcs-Szatmár-Bereg vármegye | Biri |
+| 1136 | Szabolcs-Szatmár-Bereg megye | Biri |
 
-| 1137 | Szabolcs-Szatmár-Bereg vármegye | Botpalád |
+| 1137 | Szabolcs-Szatmár-Bereg megye | Botpalád |
 
-| 1138 | Szabolcs-Szatmár-Bereg vármegye | Bököny |
+| 1138 | Szabolcs-Szatmár-Bereg megye | Bököny |
 
-| 1139 | Szabolcs-Szatmár-Bereg vármegye | Buj |
+| 1139 | Szabolcs-Szatmár-Bereg megye | Buj |
 
-| 1140 | Szabolcs-Szatmár-Bereg vármegye | Cégénydányád |
+| 1140 | Szabolcs-Szatmár-Bereg megye | Cégénydányád |
 
-| 1141 | Szabolcs-Szatmár-Bereg vármegye | Csaholc |
+| 1141 | Szabolcs-Szatmár-Bereg megye | Csaholc |
 
-| 1142 | Szabolcs-Szatmár-Bereg vármegye | Csaroda |
+| 1142 | Szabolcs-Szatmár-Bereg megye | Csaroda |
 
-| 1143 | Szabolcs-Szatmár-Bereg vármegye | Császló |
+| 1143 | Szabolcs-Szatmár-Bereg megye | Császló |
 
-| 1144 | Szabolcs-Szatmár-Bereg vármegye | Csegöld |
+| 1144 | Szabolcs-Szatmár-Bereg megye | Csegöld |
 
-| 1145 | Szabolcs-Szatmár-Bereg vármegye | Csenger |
+| 1145 | Szabolcs-Szatmár-Bereg megye | Csenger |
 
-| 1146 | Szabolcs-Szatmár-Bereg vármegye | Csengersima |
+| 1146 | Szabolcs-Szatmár-Bereg megye | Csengersima |
 
-| 1147 | Szabolcs-Szatmár-Bereg vármegye | Csengerújfalu |
+| 1147 | Szabolcs-Szatmár-Bereg megye | Csengerújfalu |
 
-| 1148 | Szabolcs-Szatmár-Bereg vármegye | Darnó |
+| 1148 | Szabolcs-Szatmár-Bereg megye | Darnó |
 
-| 1149 | Szabolcs-Szatmár-Bereg vármegye | Dombrád |
+| 1149 | Szabolcs-Szatmár-Bereg megye | Dombrád |
 
-| 1150 | Szabolcs-Szatmár-Bereg vármegye | Döge |
+| 1150 | Szabolcs-Szatmár-Bereg megye | Döge |
 
-| 1151 | Szabolcs-Szatmár-Bereg vármegye | Encsencs |
+| 1151 | Szabolcs-Szatmár-Bereg megye | Encsencs |
 
-| 1152 | Szabolcs-Szatmár-Bereg vármegye | Eperjeske |
+| 1152 | Szabolcs-Szatmár-Bereg megye | Eperjeske |
 
-| 1153 | Szabolcs-Szatmár-Bereg vármegye | Érpatak |
+| 1153 | Szabolcs-Szatmár-Bereg megye | Érpatak |
 
-| 1154 | Szabolcs-Szatmár-Bereg vármegye | Fábiánháza |
+| 1154 | Szabolcs-Szatmár-Bereg megye | Fábiánháza |
 
-| 1155 | Szabolcs-Szatmár-Bereg vármegye | Fülesd |
+| 1155 | Szabolcs-Szatmár-Bereg megye | Fülesd |
 
-| 1156 | Szabolcs-Szatmár-Bereg vármegye | Fülpösdaróc |
+| 1156 | Szabolcs-Szatmár-Bereg megye | Fülpösdaróc |
 
-| 1157 | Szabolcs-Szatmár-Bereg vármegye | Gacsály |
+| 1157 | Szabolcs-Szatmár-Bereg megye | Gacsály |
 
-| 1158 | Szabolcs-Szatmár-Bereg vármegye | Garbolc |
+| 1158 | Szabolcs-Szatmár-Bereg megye | Garbolc |
 
-| 1159 | Szabolcs-Szatmár-Bereg vármegye | Gávavencsellő |
+| 1159 | Szabolcs-Szatmár-Bereg megye | Gávavencsellő |
 
-| 1160 | Szabolcs-Szatmár-Bereg vármegye | Géberjén |
+| 1160 | Szabolcs-Szatmár-Bereg megye | Géberjén |
 
-| 1161 | Szabolcs-Szatmár-Bereg vármegye | Gégény |
+| 1161 | Szabolcs-Szatmár-Bereg megye | Gégény |
 
-| 1162 | Szabolcs-Szatmár-Bereg vármegye | Gelénes |
+| 1162 | Szabolcs-Szatmár-Bereg megye | Gelénes |
 
-| 1163 | Szabolcs-Szatmár-Bereg vármegye | Gemzse |
+| 1163 | Szabolcs-Szatmár-Bereg megye | Gemzse |
 
-| 1164 | Szabolcs-Szatmár-Bereg vármegye | Geszteréd |
+| 1164 | Szabolcs-Szatmár-Bereg megye | Geszteréd |
 
-| 1165 | Szabolcs-Szatmár-Bereg vármegye | Gulács |
+| 1165 | Szabolcs-Szatmár-Bereg megye | Gulács |
 
-| 1166 | Szabolcs-Szatmár-Bereg vármegye | Győröcske |
+| 1166 | Szabolcs-Szatmár-Bereg megye | Győröcske |
 
-| 1167 | Szabolcs-Szatmár-Bereg vármegye | Győrtelek |
+| 1167 | Szabolcs-Szatmár-Bereg megye | Győrtelek |
 
-| 1168 | Szabolcs-Szatmár-Bereg vármegye | Gyulaháza |
+| 1168 | Szabolcs-Szatmár-Bereg megye | Gyulaháza |
 
-| 1169 | Szabolcs-Szatmár-Bereg vármegye | Gyügye |
+| 1169 | Szabolcs-Szatmár-Bereg megye | Gyügye |
 
-| 1170 | Szabolcs-Szatmár-Bereg vármegye | Gyüre |
+| 1170 | Szabolcs-Szatmár-Bereg megye | Gyüre |
 
-| 1171 | Szabolcs-Szatmár-Bereg vármegye | Hermánszeg |
+| 1171 | Szabolcs-Szatmár-Bereg megye | Hermánszeg |
 
-| 1172 | Szabolcs-Szatmár-Bereg vármegye | Hetefejércse |
+| 1172 | Szabolcs-Szatmár-Bereg megye | Hetefejércse |
 
-| 1173 | Szabolcs-Szatmár-Bereg vármegye | Hodász |
+| 1173 | Szabolcs-Szatmár-Bereg megye | Hodász |
 
-| 1174 | Szabolcs-Szatmár-Bereg vármegye | Ibrány |
+| 1174 | Szabolcs-Szatmár-Bereg megye | Ibrány |
 
-| 1175 | Szabolcs-Szatmár-Bereg vármegye | Ilk |
+| 1175 | Szabolcs-Szatmár-Bereg megye | Ilk |
 
-| 1176 | Szabolcs-Szatmár-Bereg vármegye | Jánd |
+| 1176 | Szabolcs-Szatmár-Bereg megye | Jánd |
 
-| 1177 | Szabolcs-Szatmár-Bereg vármegye | Jánkmajtis |
+| 1177 | Szabolcs-Szatmár-Bereg megye | Jánkmajtis |
 
-| 1178 | Szabolcs-Szatmár-Bereg vármegye | Jéke |
+| 1178 | Szabolcs-Szatmár-Bereg megye | Jéke |
 
-| 1179 | Szabolcs-Szatmár-Bereg vármegye | Kállósemjén |
+| 1179 | Szabolcs-Szatmár-Bereg megye | Kállósemjén |
 
-| 1180 | Szabolcs-Szatmár-Bereg vármegye | Kántorjánosi |
+| 1180 | Szabolcs-Szatmár-Bereg megye | Kántorjánosi |
 
-| 1181 | Szabolcs-Szatmár-Bereg vármegye | Kék |
+| 1181 | Szabolcs-Szatmár-Bereg megye | Kék |
 
-| 1182 | Szabolcs-Szatmár-Bereg vármegye | Kékcse |
+| 1182 | Szabolcs-Szatmár-Bereg megye | Kékcse |
 
-| 1183 | Szabolcs-Szatmár-Bereg vármegye | Kemecse |
+| 1183 | Szabolcs-Szatmár-Bereg megye | Kemecse |
 
-| 1184 | Szabolcs-Szatmár-Bereg vármegye | Kérsemjén |
+| 1184 | Szabolcs-Szatmár-Bereg megye | Kérsemjén |
 
-| 1185 | Szabolcs-Szatmár-Bereg vármegye | Kisar |
+| 1185 | Szabolcs-Szatmár-Bereg megye | Kisar |
 
-| 1186 | Szabolcs-Szatmár-Bereg vármegye | Kishódos |
+| 1186 | Szabolcs-Szatmár-Bereg megye | Kishódos |
 
-| 1187 | Szabolcs-Szatmár-Bereg vármegye | Kisléta |
+| 1187 | Szabolcs-Szatmár-Bereg megye | Kisléta |
 
-| 1188 | Szabolcs-Szatmár-Bereg vármegye | Kisnamény |
+| 1188 | Szabolcs-Szatmár-Bereg megye | Kisnamény |
 
-| 1189 | Szabolcs-Szatmár-Bereg vármegye | Kispalád |
+| 1189 | Szabolcs-Szatmár-Bereg megye | Kispalád |
 
-| 1190 | Szabolcs-Szatmár-Bereg vármegye | Kisvarsány |
+| 1190 | Szabolcs-Szatmár-Bereg megye | Kisvarsány |
 
-| 1191 | Szabolcs-Szatmár-Bereg vármegye | Kisszekeres |
+| 1191 | Szabolcs-Szatmár-Bereg megye | Kisszekeres |
 
-| 1192 | Szabolcs-Szatmár-Bereg vármegye | Kocsord |
+| 1192 | Szabolcs-Szatmár-Bereg megye | Kocsord |
 
-| 1193 | Szabolcs-Szatmár-Bereg vármegye | Komlódtótfalu |
+| 1193 | Szabolcs-Szatmár-Bereg megye | Komlódtótfalu |
 
-| 1194 | Szabolcs-Szatmár-Bereg vármegye | Komoró |
+| 1194 | Szabolcs-Szatmár-Bereg megye | Komoró |
 
-| 1195 | Szabolcs-Szatmár-Bereg vármegye | Kótaj |
+| 1195 | Szabolcs-Szatmár-Bereg megye | Kótaj |
 
-| 1196 | Szabolcs-Szatmár-Bereg vármegye | Kölcse |
+| 1196 | Szabolcs-Szatmár-Bereg megye | Kölcse |
 
-| 1197 | Szabolcs-Szatmár-Bereg vármegye | Kömörő |
+| 1197 | Szabolcs-Szatmár-Bereg megye | Kömörő |
 
-| 1198 | Szabolcs-Szatmár-Bereg vármegye | Laskod |
+| 1198 | Szabolcs-Szatmár-Bereg megye | Laskod |
 
-| 1199 | Szabolcs-Szatmár-Bereg vármegye | Levelek |
+| 1199 | Szabolcs-Szatmár-Bereg megye | Levelek |
 
-| 1200 | Szabolcs-Szatmár-Bereg vármegye | Lónya |
+| 1200 | Szabolcs-Szatmár-Bereg megye | Lónya |
 
-| 1201 | Szabolcs-Szatmár-Bereg vármegye | Lövőpetri |
+| 1201 | Szabolcs-Szatmár-Bereg megye | Lövőpetri |
 
-| 1202 | Szabolcs-Szatmár-Bereg vármegye | Magosliget |
+| 1202 | Szabolcs-Szatmár-Bereg megye | Magosliget |
 
-| 1203 | Szabolcs-Szatmár-Bereg vármegye | Magy |
+| 1203 | Szabolcs-Szatmár-Bereg megye | Magy |
 
-| 1204 | Szabolcs-Szatmár-Bereg vármegye | Mánd |
+| 1204 | Szabolcs-Szatmár-Bereg megye | Mánd |
 
-| 1205 | Szabolcs-Szatmár-Bereg vármegye | Mándok |
+| 1205 | Szabolcs-Szatmár-Bereg megye | Mándok |
 
-| 1206 | Szabolcs-Szatmár-Bereg vármegye | Máriapócs |
+| 1206 | Szabolcs-Szatmár-Bereg megye | Máriapócs |
 
-| 1207 | Szabolcs-Szatmár-Bereg vármegye | Márokpapi |
+| 1207 | Szabolcs-Szatmár-Bereg megye | Márokpapi |
 
-| 1208 | Szabolcs-Szatmár-Bereg vármegye | Mátyus |
+| 1208 | Szabolcs-Szatmár-Bereg megye | Mátyus |
 
-| 1209 | Szabolcs-Szatmár-Bereg vármegye | Méhtelek |
+| 1209 | Szabolcs-Szatmár-Bereg megye | Méhtelek |
 
-| 1210 | Szabolcs-Szatmár-Bereg vármegye | Mérk |
+| 1210 | Szabolcs-Szatmár-Bereg megye | Mérk |
 
-| 1211 | Szabolcs-Szatmár-Bereg vármegye | Mezőladány |
+| 1211 | Szabolcs-Szatmár-Bereg megye | Mezőladány |
 
-| 1212 | Szabolcs-Szatmár-Bereg vármegye | Milota |
+| 1212 | Szabolcs-Szatmár-Bereg megye | Milota |
 
-| 1213 | Szabolcs-Szatmár-Bereg vármegye | Nábrád |
+| 1213 | Szabolcs-Szatmár-Bereg megye | Nábrád |
 
-| 1214 | Szabolcs-Szatmár-Bereg vármegye | Nagyar |
+| 1214 | Szabolcs-Szatmár-Bereg megye | Nagyar |
 
-| 1215 | Szabolcs-Szatmár-Bereg vármegye | Nagycserkesz |
+| 1215 | Szabolcs-Szatmár-Bereg megye | Nagycserkesz |
 
-| 1216 | Szabolcs-Szatmár-Bereg vármegye | Nagydobos |
+| 1216 | Szabolcs-Szatmár-Bereg megye | Nagydobos |
 
-| 1217 | Szabolcs-Szatmár-Bereg vármegye | Nagyecsed |
+| 1217 | Szabolcs-Szatmár-Bereg megye | Nagyecsed |
 
-| 1218 | Szabolcs-Szatmár-Bereg vármegye | Nagyhalász |
+| 1218 | Szabolcs-Szatmár-Bereg megye | Nagyhalász |
 
-| 1219 | Szabolcs-Szatmár-Bereg vármegye | Nagyhódos |
+| 1219 | Szabolcs-Szatmár-Bereg megye | Nagyhódos |
 
-| 1220 | Szabolcs-Szatmár-Bereg vármegye | Nagykálló |
+| 1220 | Szabolcs-Szatmár-Bereg megye | Nagykálló |
 
-| 1221 | Szabolcs-Szatmár-Bereg vármegye | Nagyszekeres |
+| 1221 | Szabolcs-Szatmár-Bereg megye | Nagyszekeres |
 
-| 1222 | Szabolcs-Szatmár-Bereg vármegye | Nagyvarsány |
+| 1222 | Szabolcs-Szatmár-Bereg megye | Nagyvarsány |
 
-| 1223 | Szabolcs-Szatmár-Bereg vármegye | Nemesborzova |
+| 1223 | Szabolcs-Szatmár-Bereg megye | Nemesborzova |
 
-| 1224 | Szabolcs-Szatmár-Bereg vármegye | Nyírbátor |
+| 1224 | Szabolcs-Szatmár-Bereg megye | Nyírbátor |
 
-| 1225 | Szabolcs-Szatmár-Bereg vármegye | Nyírbéltek |
+| 1225 | Szabolcs-Szatmár-Bereg megye | Nyírbéltek |
 
-| 1226 | Szabolcs-Szatmár-Bereg vármegye | Nyírbogát |
+| 1226 | Szabolcs-Szatmár-Bereg megye | Nyírbogát |
 
-| 1227 | Szabolcs-Szatmár-Bereg vármegye | Nyírcsaholy |
+| 1227 | Szabolcs-Szatmár-Bereg megye | Nyírcsaholy |
 
-| 1228 | Szabolcs-Szatmár-Bereg vármegye | Nyírcsászári |
+| 1228 | Szabolcs-Szatmár-Bereg megye | Nyírcsászári |
 
-| 1229 | Szabolcs-Szatmár-Bereg vármegye | Nyírderzs |
+| 1229 | Szabolcs-Szatmár-Bereg megye | Nyírderzs |
 
-| 1230 | Szabolcs-Szatmár-Bereg vármegye | Nyírgelse |
+| 1230 | Szabolcs-Szatmár-Bereg megye | Nyírgelse |
 
-| 1231 | Szabolcs-Szatmár-Bereg vármegye | Nyírgyulaj |
+| 1231 | Szabolcs-Szatmár-Bereg megye | Nyírgyulaj |
 
-| 1232 | Szabolcs-Szatmár-Bereg vármegye | Nyíribrony |
+| 1232 | Szabolcs-Szatmár-Bereg megye | Nyíribrony |
 
-| 1233 | Szabolcs-Szatmár-Bereg vármegye | Nyírjákó |
+| 1233 | Szabolcs-Szatmár-Bereg megye | Nyírjákó |
 
-| 1234 | Szabolcs-Szatmár-Bereg vármegye | Nyírkarász |
+| 1234 | Szabolcs-Szatmár-Bereg megye | Nyírkarász |
 
-| 1235 | Szabolcs-Szatmár-Bereg vármegye | Nyírkáta |
+| 1235 | Szabolcs-Szatmár-Bereg megye | Nyírkáta |
 
-| 1236 | Szabolcs-Szatmár-Bereg vármegye | Nyírkércs |
+| 1236 | Szabolcs-Szatmár-Bereg megye | Nyírkércs |
 
-| 1237 | Szabolcs-Szatmár-Bereg vármegye | Nyírlövő |
+| 1237 | Szabolcs-Szatmár-Bereg megye | Nyírlövő |
 
-| 1238 | Szabolcs-Szatmár-Bereg vármegye | Nyírlugos |
+| 1238 | Szabolcs-Szatmár-Bereg megye | Nyírlugos |
 
-| 1239 | Szabolcs-Szatmár-Bereg vármegye | Nyírmada |
+| 1239 | Szabolcs-Szatmár-Bereg megye | Nyírmada |
 
-| 1240 | Szabolcs-Szatmár-Bereg vármegye | Nyírmeggyes |
+| 1240 | Szabolcs-Szatmár-Bereg megye | Nyírmeggyes |
 
-| 1241 | Szabolcs-Szatmár-Bereg vármegye | Nyírmihálydi |
+| 1241 | Szabolcs-Szatmár-Bereg megye | Nyírmihálydi |
 
-| 1242 | Szabolcs-Szatmár-Bereg vármegye | Nyírparasznya |
+| 1242 | Szabolcs-Szatmár-Bereg megye | Nyírparasznya |
 
-| 1243 | Szabolcs-Szatmár-Bereg vármegye | Nyírpilis |
+| 1243 | Szabolcs-Szatmár-Bereg megye | Nyírpilis |
 
-| 1244 | Szabolcs-Szatmár-Bereg vármegye | Nyírtass |
+| 1244 | Szabolcs-Szatmár-Bereg megye | Nyírtass |
 
-| 1245 | Szabolcs-Szatmár-Bereg vármegye | Nyírtét |
+| 1245 | Szabolcs-Szatmár-Bereg megye | Nyírtét |
 
-| 1246 | Szabolcs-Szatmár-Bereg vármegye | Nyírvasvári |
+| 1246 | Szabolcs-Szatmár-Bereg megye | Nyírvasvári |
 
-| 1247 | Szabolcs-Szatmár-Bereg vármegye | Ófehértó |
+| 1247 | Szabolcs-Szatmár-Bereg megye | Ófehértó |
 
-| 1248 | Szabolcs-Szatmár-Bereg vármegye | Olcsva |
+| 1248 | Szabolcs-Szatmár-Bereg megye | Olcsva |
 
-| 1249 | Szabolcs-Szatmár-Bereg vármegye | Olcsvaapáti |
+| 1249 | Szabolcs-Szatmár-Bereg megye | Olcsvaapáti |
 
-| 1250 | Szabolcs-Szatmár-Bereg vármegye | Ópályi |
+| 1250 | Szabolcs-Szatmár-Bereg megye | Ópályi |
 
-| 1251 | Szabolcs-Szatmár-Bereg vármegye | Ököritófülpös |
+| 1251 | Szabolcs-Szatmár-Bereg megye | Ököritófülpös |
 
-| 1252 | Szabolcs-Szatmár-Bereg vármegye | Ömböly |
+| 1252 | Szabolcs-Szatmár-Bereg megye | Ömböly |
 
-| 1253 | Szabolcs-Szatmár-Bereg vármegye | Őr |
+| 1253 | Szabolcs-Szatmár-Bereg megye | Őr |
 
-| 1254 | Szabolcs-Szatmár-Bereg vármegye | Panyola |
+| 1254 | Szabolcs-Szatmár-Bereg megye | Panyola |
 
-| 1255 | Szabolcs-Szatmár-Bereg vármegye | Papos |
+| 1255 | Szabolcs-Szatmár-Bereg megye | Papos |
 
-| 1256 | Szabolcs-Szatmár-Bereg vármegye | Paszab |
+| 1256 | Szabolcs-Szatmár-Bereg megye | Paszab |
 
-| 1257 | Szabolcs-Szatmár-Bereg vármegye | Pátroha |
+| 1257 | Szabolcs-Szatmár-Bereg megye | Pátroha |
 
-| 1258 | Szabolcs-Szatmár-Bereg vármegye | Pátyod |
+| 1258 | Szabolcs-Szatmár-Bereg megye | Pátyod |
 
-| 1259 | Szabolcs-Szatmár-Bereg vármegye | Penészlek |
+| 1259 | Szabolcs-Szatmár-Bereg megye | Penészlek |
 
-| 1260 | Szabolcs-Szatmár-Bereg vármegye | Penyige |
+| 1260 | Szabolcs-Szatmár-Bereg megye | Penyige |
 
-| 1261 | Szabolcs-Szatmár-Bereg vármegye | Petneháza |
+| 1261 | Szabolcs-Szatmár-Bereg megye | Petneháza |
 
-| 1262 | Szabolcs-Szatmár-Bereg vármegye | Piricse |
+| 1262 | Szabolcs-Szatmár-Bereg megye | Piricse |
 
-| 1263 | Szabolcs-Szatmár-Bereg vármegye | Pócspetri |
+| 1263 | Szabolcs-Szatmár-Bereg megye | Pócspetri |
 
-| 1264 | Szabolcs-Szatmár-Bereg vármegye | Porcsalma |
+| 1264 | Szabolcs-Szatmár-Bereg megye | Porcsalma |
 
-| 1265 | Szabolcs-Szatmár-Bereg vármegye | Pusztadobos |
+| 1265 | Szabolcs-Szatmár-Bereg megye | Pusztadobos |
 
-| 1266 | Szabolcs-Szatmár-Bereg vármegye | Ramocsaháza |
+| 1266 | Szabolcs-Szatmár-Bereg megye | Ramocsaháza |
 
-| 1267 | Szabolcs-Szatmár-Bereg vármegye | Rápolt |
+| 1267 | Szabolcs-Szatmár-Bereg megye | Rápolt |
 
-| 1268 | Szabolcs-Szatmár-Bereg vármegye | Rétközberencs |
+| 1268 | Szabolcs-Szatmár-Bereg megye | Rétközberencs |
 
-| 1269 | Szabolcs-Szatmár-Bereg vármegye | Rohod |
+| 1269 | Szabolcs-Szatmár-Bereg megye | Rohod |
 
-| 1270 | Szabolcs-Szatmár-Bereg vármegye | Rozsály |
+| 1270 | Szabolcs-Szatmár-Bereg megye | Rozsály |
 
-| 1271 | Szabolcs-Szatmár-Bereg vármegye | Sényő |
+| 1271 | Szabolcs-Szatmár-Bereg megye | Sényő |
 
-| 1272 | Szabolcs-Szatmár-Bereg vármegye | Sonkád |
+| 1272 | Szabolcs-Szatmár-Bereg megye | Sonkád |
 
-| 1273 | Szabolcs-Szatmár-Bereg vármegye | Szabolcs |
+| 1273 | Szabolcs-Szatmár-Bereg megye | Szabolcs |
 
-| 1274 | Szabolcs-Szatmár-Bereg vármegye | Szabolcsbáka |
+| 1274 | Szabolcs-Szatmár-Bereg megye | Szabolcsbáka |
 
-| 1275 | Szabolcs-Szatmár-Bereg vármegye | Szabolcsveresmart |
+| 1275 | Szabolcs-Szatmár-Bereg megye | Szabolcsveresmart |
 
-| 1276 | Szabolcs-Szatmár-Bereg vármegye | Szakoly |
+| 1276 | Szabolcs-Szatmár-Bereg megye | Szakoly |
 
-| 1277 | Szabolcs-Szatmár-Bereg vármegye | Szamosangyalos |
+| 1277 | Szabolcs-Szatmár-Bereg megye | Szamosangyalos |
 
-| 1278 | Szabolcs-Szatmár-Bereg vármegye | Szamosbecs |
+| 1278 | Szabolcs-Szatmár-Bereg megye | Szamosbecs |
 
-| 1279 | Szabolcs-Szatmár-Bereg vármegye | Szamoskér |
+| 1279 | Szabolcs-Szatmár-Bereg megye | Szamoskér |
 
-| 1280 | Szabolcs-Szatmár-Bereg vármegye | Szamossályi |
+| 1280 | Szabolcs-Szatmár-Bereg megye | Szamossályi |
 
-| 1281 | Szabolcs-Szatmár-Bereg vármegye | Szamostatárfalva |
+| 1281 | Szabolcs-Szatmár-Bereg megye | Szamostatárfalva |
 
-| 1282 | Szabolcs-Szatmár-Bereg vármegye | Szamosújlak |
+| 1282 | Szabolcs-Szatmár-Bereg megye | Szamosújlak |
 
-| 1283 | Szabolcs-Szatmár-Bereg vármegye | Szamosszeg |
+| 1283 | Szabolcs-Szatmár-Bereg megye | Szamosszeg |
 
-| 1284 | Szabolcs-Szatmár-Bereg vármegye | Szatmárcseke |
+| 1284 | Szabolcs-Szatmár-Bereg megye | Szatmárcseke |
 
-| 1285 | Szabolcs-Szatmár-Bereg vármegye | Székely |
+| 1285 | Szabolcs-Szatmár-Bereg megye | Székely |
 
-| 1286 | Szabolcs-Szatmár-Bereg vármegye | Szorgalmatos |
+| 1286 | Szabolcs-Szatmár-Bereg megye | Szorgalmatos |
 
-| 1287 | Szabolcs-Szatmár-Bereg vármegye | Tákos |
+| 1287 | Szabolcs-Szatmár-Bereg megye | Tákos |
 
-| 1288 | Szabolcs-Szatmár-Bereg vármegye | Tarpa |
+| 1288 | Szabolcs-Szatmár-Bereg megye | Tarpa |
 
-| 1289 | Szabolcs-Szatmár-Bereg vármegye | Terem |
+| 1289 | Szabolcs-Szatmár-Bereg megye | Terem |
 
-| 1290 | Szabolcs-Szatmár-Bereg vármegye | Tiborszállás |
+| 1290 | Szabolcs-Szatmár-Bereg megye | Tiborszállás |
 
-| 1291 | Szabolcs-Szatmár-Bereg vármegye | Timár |
+| 1291 | Szabolcs-Szatmár-Bereg megye | Timár |
 
-| 1292 | Szabolcs-Szatmár-Bereg vármegye | Tiszaadony |
+| 1292 | Szabolcs-Szatmár-Bereg megye | Tiszaadony |
 
-| 1293 | Szabolcs-Szatmár-Bereg vármegye | Tiszabecs |
+| 1293 | Szabolcs-Szatmár-Bereg megye | Tiszabecs |
 
-| 1294 | Szabolcs-Szatmár-Bereg vármegye | Tiszabercel |
+| 1294 | Szabolcs-Szatmár-Bereg megye | Tiszabercel |
 
-| 1295 | Szabolcs-Szatmár-Bereg vármegye | Tiszabezdéd |
+| 1295 | Szabolcs-Szatmár-Bereg megye | Tiszabezdéd |
 
-| 1296 | Szabolcs-Szatmár-Bereg vármegye | Tiszacsécse |
+| 1296 | Szabolcs-Szatmár-Bereg megye | Tiszacsécse |
 
-| 1297 | Szabolcs-Szatmár-Bereg vármegye | Tiszadada |
+| 1297 | Szabolcs-Szatmár-Bereg megye | Tiszadada |
 
-| 1298 | Szabolcs-Szatmár-Bereg vármegye | Tiszadob |
+| 1298 | Szabolcs-Szatmár-Bereg megye | Tiszadob |
 
-| 1299 | Szabolcs-Szatmár-Bereg vármegye | Tiszaeszlár |
+| 1299 | Szabolcs-Szatmár-Bereg megye | Tiszaeszlár |
 
-| 1300 | Szabolcs-Szatmár-Bereg vármegye | Tiszakanyár |
+| 1300 | Szabolcs-Szatmár-Bereg megye | Tiszakanyár |
 
-| 1301 | Szabolcs-Szatmár-Bereg vármegye | Tiszakerecseny |
+| 1301 | Szabolcs-Szatmár-Bereg megye | Tiszakerecseny |
 
-| 1302 | Szabolcs-Szatmár-Bereg vármegye | Tiszakóród |
+| 1302 | Szabolcs-Szatmár-Bereg megye | Tiszakóród |
 
-| 1303 | Szabolcs-Szatmár-Bereg vármegye | Tiszalök |
+| 1303 | Szabolcs-Szatmár-Bereg megye | Tiszalök |
 
-| 1304 | Szabolcs-Szatmár-Bereg vármegye | Tiszamogyorós |
+| 1304 | Szabolcs-Szatmár-Bereg megye | Tiszamogyorós |
 
-| 1305 | Szabolcs-Szatmár-Bereg vármegye | Tiszanagyfalu |
+| 1305 | Szabolcs-Szatmár-Bereg megye | Tiszanagyfalu |
 
-| 1306 | Szabolcs-Szatmár-Bereg vármegye | Tiszarád |
+| 1306 | Szabolcs-Szatmár-Bereg megye | Tiszarád |
 
-| 1307 | Szabolcs-Szatmár-Bereg vármegye | Tiszaszalka |
+| 1307 | Szabolcs-Szatmár-Bereg megye | Tiszaszalka |
 
-| 1308 | Szabolcs-Szatmár-Bereg vármegye | Tiszaszentmárton |
+| 1308 | Szabolcs-Szatmár-Bereg megye | Tiszaszentmárton |
 
-| 1309 | Szabolcs-Szatmár-Bereg vármegye | Tiszatelek |
+| 1309 | Szabolcs-Szatmár-Bereg megye | Tiszatelek |
 
-| 1310 | Szabolcs-Szatmár-Bereg vármegye | Tiszavid |
+| 1310 | Szabolcs-Szatmár-Bereg megye | Tiszavid |
 
-| 1311 | Szabolcs-Szatmár-Bereg vármegye | Tisztaberek |
+| 1311 | Szabolcs-Szatmár-Bereg megye | Tisztaberek |
 
-| 1312 | Szabolcs-Szatmár-Bereg vármegye | Tivadar |
+| 1312 | Szabolcs-Szatmár-Bereg megye | Tivadar |
 
-| 1313 | Szabolcs-Szatmár-Bereg vármegye | Tornyospálca |
+| 1313 | Szabolcs-Szatmár-Bereg megye | Tornyospálca |
 
-| 1314 | Szabolcs-Szatmár-Bereg vármegye | Tunyogmatolcs |
+| 1314 | Szabolcs-Szatmár-Bereg megye | Tunyogmatolcs |
 
-| 1315 | Szabolcs-Szatmár-Bereg vármegye | Túristvándi |
+| 1315 | Szabolcs-Szatmár-Bereg megye | Túristvándi |
 
-| 1316 | Szabolcs-Szatmár-Bereg vármegye | Túrricse |
+| 1316 | Szabolcs-Szatmár-Bereg megye | Túrricse |
 
-| 1317 | Szabolcs-Szatmár-Bereg vármegye | Tuzsér |
+| 1317 | Szabolcs-Szatmár-Bereg megye | Tuzsér |
 
-| 1318 | Szabolcs-Szatmár-Bereg vármegye | Tyukod |
+| 1318 | Szabolcs-Szatmár-Bereg megye | Tyukod |
 
-| 1319 | Szabolcs-Szatmár-Bereg vármegye | Újdombrád |
+| 1319 | Szabolcs-Szatmár-Bereg megye | Újdombrád |
 
-| 1320 | Szabolcs-Szatmár-Bereg vármegye | Újkenéz |
+| 1320 | Szabolcs-Szatmár-Bereg megye | Újkenéz |
 
-| 1321 | Szabolcs-Szatmár-Bereg vármegye | Ura |
+| 1321 | Szabolcs-Szatmár-Bereg megye | Ura |
 
-| 1322 | Szabolcs-Szatmár-Bereg vármegye | Uszka |
+| 1322 | Szabolcs-Szatmár-Bereg megye | Uszka |
 
-| 1323 | Szabolcs-Szatmár-Bereg vármegye | Vaja |
+| 1323 | Szabolcs-Szatmár-Bereg megye | Vaja |
 
-| 1324 | Szabolcs-Szatmár-Bereg vármegye | Vállaj |
+| 1324 | Szabolcs-Szatmár-Bereg megye | Vállaj |
 
-| 1325 | Szabolcs-Szatmár-Bereg vármegye | Vámosatya |
+| 1325 | Szabolcs-Szatmár-Bereg megye | Vámosatya |
 
-| 1326 | Szabolcs-Szatmár-Bereg vármegye | Vámosoroszi |
+| 1326 | Szabolcs-Szatmár-Bereg megye | Vámosoroszi |
 
-| 1327 | Szabolcs-Szatmár-Bereg vármegye | Vásárosnamény |
+| 1327 | Szabolcs-Szatmár-Bereg megye | Vásárosnamény |
 
-| 1328 | Szabolcs-Szatmár-Bereg vármegye | Vasmegyer |
+| 1328 | Szabolcs-Szatmár-Bereg megye | Vasmegyer |
 
-| 1329 | Szabolcs-Szatmár-Bereg vármegye | Zajta |
+| 1329 | Szabolcs-Szatmár-Bereg megye | Zajta |
 
-| 1330 | Szabolcs-Szatmár-Bereg vármegye | Zsarolyán |
+| 1330 | Szabolcs-Szatmár-Bereg megye | Zsarolyán |
 
-| 1331 | Szabolcs-Szatmár-Bereg vármegye | Zsurk |
+| 1331 | Szabolcs-Szatmár-Bereg megye | Zsurk |
 
-| 1332 | Tolna vármegye | Alsónyék |
+| 1332 | Tolna megye | Alsónyék |
 
-| 1333 | Tolna vármegye | Attala |
+| 1333 | Tolna megye | Attala |
 
-| 1334 | Tolna vármegye | Báta |
+| 1334 | Tolna megye | Báta |
 
-| 1335 | Tolna vármegye | Bátaapáti |
+| 1335 | Tolna megye | Bátaapáti |
 
-| 1336 | Tolna vármegye | Belecska |
+| 1336 | Tolna megye | Belecska |
 
-| 1337 | Tolna vármegye | Bikács |
+| 1337 | Tolna megye | Bikács |
 
-| 1338 | Tolna vármegye | Bogyiszló |
+| 1338 | Tolna megye | Bogyiszló |
 
-| 1339 | Tolna vármegye | Csibrák |
+| 1339 | Tolna megye | Csibrák |
 
-| 1340 | Tolna vármegye | Csikóstőttős |
+| 1340 | Tolna megye | Csikóstőttős |
 
-| 1341 | Tolna vármegye | Dalmand |
+| 1341 | Tolna megye | Dalmand |
 
-| 1342 | Tolna vármegye | Diósberény |
+| 1342 | Tolna megye | Diósberény |
 
-| 1343 | Tolna vármegye | Döbrököz |
+| 1343 | Tolna megye | Döbrököz |
 
-| 1344 | Tolna vármegye | Dúzs |
+| 1344 | Tolna megye | Dúzs |
 
-| 1345 | Tolna vármegye | Értény |
+| 1345 | Tolna megye | Értény |
 
-| 1346 | Tolna vármegye | Fácánkert |
+| 1346 | Tolna megye | Fácánkert |
 
-| 1347 | Tolna vármegye | Fadd |
+| 1347 | Tolna megye | Fadd |
 
-| 1348 | Tolna vármegye | Felsőnána |
+| 1348 | Tolna megye | Felsőnána |
 
-| 1349 | Tolna vármegye | Felsőnyék |
+| 1349 | Tolna megye | Felsőnyék |
 
-| 1350 | Tolna vármegye | Fürged |
+| 1350 | Tolna megye | Fürged |
 
-| 1351 | Tolna vármegye | Gerjen |
+| 1351 | Tolna megye | Gerjen |
 
-| 1352 | Tolna vármegye | Grábóc |
+| 1352 | Tolna megye | Grábóc |
 
-| 1353 | Tolna vármegye | Gyulaj |
+| 1353 | Tolna megye | Gyulaj |
 
-| 1354 | Tolna vármegye | Jágónak |
+| 1354 | Tolna megye | Jágónak |
 
-| 1355 | Tolna vármegye | Kajdacs |
+| 1355 | Tolna megye | Kajdacs |
 
-| 1356 | Tolna vármegye | Kalaznó |
+| 1356 | Tolna megye | Kalaznó |
 
-| 1357 | Tolna vármegye | Keszőhidegkút |
+| 1357 | Tolna megye | Keszőhidegkút |
 
-| 1358 | Tolna vármegye | Kistormás |
+| 1358 | Tolna megye | Kistormás |
 
-| 1359 | Tolna vármegye | Kisvejke |
+| 1359 | Tolna megye | Kisvejke |
 
-| 1360 | Tolna vármegye | Kisszékely |
+| 1360 | Tolna megye | Kisszékely |
 
-| 1361 | Tolna vármegye | Kocsola |
+| 1361 | Tolna megye | Kocsola |
 
-| 1362 | Tolna vármegye | Koppányszántó |
+| 1362 | Tolna megye | Koppányszántó |
 
-| 1363 | Tolna vármegye | Kurd |
+| 1363 | Tolna megye | Kurd |
 
-| 1364 | Tolna vármegye | Lápafő |
+| 1364 | Tolna megye | Lápafő |
 
-| 1365 | Tolna vármegye | Magyarkeszi |
+| 1365 | Tolna megye | Magyarkeszi |
 
-| 1366 | Tolna vármegye | Medina |
+| 1366 | Tolna megye | Medina |
 
-| 1367 | Tolna vármegye | Miszla |
+| 1367 | Tolna megye | Miszla |
 
-| 1368 | Tolna vármegye | Mórágy |
+| 1368 | Tolna megye | Mórágy |
 
-| 1369 | Tolna vármegye | Mucsfa |
+| 1369 | Tolna megye | Mucsfa |
 
-| 1370 | Tolna vármegye | Mucsi |
+| 1370 | Tolna megye | Mucsi |
 
-| 1371 | Tolna vármegye | Murga |
+| 1371 | Tolna megye | Murga |
 
-| 1372 | Tolna vármegye | Nagykónyi |
+| 1372 | Tolna megye | Nagykónyi |
 
-| 1373 | Tolna vármegye | Nagyszékely |
+| 1373 | Tolna megye | Nagyszékely |
 
-| 1374 | Tolna vármegye | Nagyszokoly |
+| 1374 | Tolna megye | Nagyszokoly |
 
-| 1375 | Tolna vármegye | Nagyvejke |
+| 1375 | Tolna megye | Nagyvejke |
 
-| 1376 | Tolna vármegye | Nak |
+| 1376 | Tolna megye | Nak |
 
-| 1377 | Tolna vármegye | Németkér |
+| 1377 | Tolna megye | Németkér |
 
-| 1378 | Tolna vármegye | Ozora |
+| 1378 | Tolna megye | Ozora |
 
-| 1379 | Tolna vármegye | Pálfa |
+| 1379 | Tolna megye | Pálfa |
 
-| 1380 | Tolna vármegye | Pári |
+| 1380 | Tolna megye | Pári |
 
-| 1381 | Tolna vármegye | Regöly |
+| 1381 | Tolna megye | Regöly |
 
-| 1382 | Tolna vármegye | Sárpilis |
+| 1382 | Tolna megye | Sárpilis |
 
-| 1383 | Tolna vármegye | Sárszentlőrinc |
+| 1383 | Tolna megye | Sárszentlőrinc |
 
-| 1384 | Tolna vármegye | Simontornya |
+| 1384 | Tolna megye | Simontornya |
 
-| 1385 | Tolna vármegye | Szakadát |
+| 1385 | Tolna megye | Szakadát |
 
-| 1386 | Tolna vármegye | Szakály |
+| 1386 | Tolna megye | Szakály |
 
-| 1387 | Tolna vármegye | Szakcs |
+| 1387 | Tolna megye | Szakcs |
 
-| 1388 | Tolna vármegye | Szárazd |
+| 1388 | Tolna megye | Szárazd |
 
-| 1389 | Tolna vármegye | Tolnanémedi |
+| 1389 | Tolna megye | Tolnanémedi |
 
-| 1390 | Tolna vármegye | Udvari |
+| 1390 | Tolna megye | Udvari |
 
-| 1391 | Tolna vármegye | Újireg |
+| 1391 | Tolna megye | Újireg |
 
-| 1392 | Tolna vármegye | Várong |
+| 1392 | Tolna megye | Várong |
 
-| 1393 | Tolna vármegye | Varsád |
+| 1393 | Tolna megye | Varsád |
 
-| 1394 | Tolna vármegye | Závod |
+| 1394 | Tolna megye | Závod |
 
-| 1395 | Vas vármegye | Andrásfa |
+| 1395 | Vas megye | Andrásfa |
 
-| 1396 | Vas vármegye | Bejcgyertyános |
+| 1396 | Vas megye | Bejcgyertyános |
 
-| 1397 | Vas vármegye | Bérbaltavár |
+| 1397 | Vas megye | Bérbaltavár |
 
-| 1398 | Vas vármegye | Borgáta |
+| 1398 | Vas megye | Borgáta |
 
-| 1399 | Vas vármegye | Csehi |
+| 1399 | Vas megye | Csehi |
 
-| 1400 | Vas vármegye | Csipkerek |
+| 1400 | Vas megye | Csipkerek |
 
-| 1401 | Vas vármegye | Csönge |
+| 1401 | Vas megye | Csönge |
 
-| 1402 | Vas vármegye | Döbörhegy |
+| 1402 | Vas megye | Döbörhegy |
 
-| 1403 | Vas vármegye | Duka |
+| 1403 | Vas megye | Duka |
 
-| 1404 | Vas vármegye | Egervölgy |
+| 1404 | Vas megye | Egervölgy |
 
-| 1405 | Vas vármegye | Egyházashetye |
+| 1405 | Vas megye | Egyházashetye |
 
-| 1406 | Vas vármegye | Felsőszölnök |
+| 1406 | Vas megye | Felsőszölnök |
 
-| 1407 | Vas vármegye | Győrvár |
+| 1407 | Vas megye | Győrvár |
 
-| 1408 | Vas vármegye | Halastó |
+| 1408 | Vas megye | Halastó |
 
-| 1409 | Vas vármegye | Halogy |
+| 1409 | Vas megye | Halogy |
 
-| 1410 | Vas vármegye | Hegyháthodász |
+| 1410 | Vas megye | Hegyháthodász |
 
-| 1411 | Vas vármegye | Hegyhátszentpéter |
+| 1411 | Vas megye | Hegyhátszentpéter |
 
-| 1412 | Vas vármegye | Keléd |
+| 1412 | Vas megye | Keléd |
 
-| 1413 | Vas vármegye | Kemeneskápolna |
+| 1413 | Vas megye | Kemeneskápolna |
 
-| 1414 | Vas vármegye | Kemenesmagasi |
+| 1414 | Vas megye | Kemenesmagasi |
 
-| 1415 | Vas vármegye | Kemenespálfa |
+| 1415 | Vas megye | Kemenespálfa |
 
-| 1416 | Vas vármegye | Kissomlyó |
+| 1416 | Vas megye | Kissomlyó |
 
-| 1417 | Vas vármegye | Kondorfa |
+| 1417 | Vas megye | Kondorfa |
 
-| 1418 | Vas vármegye | Köcsk |
+| 1418 | Vas megye | Köcsk |
 
-| 1419 | Vas vármegye | Magyarszombatfa |
+| 1419 | Vas megye | Magyarszombatfa |
 
-| 1420 | Vas vármegye | Meggyeskovácsi |
+| 1420 | Vas megye | Meggyeskovácsi |
 
-| 1421 | Vas vármegye | Mikosszéplak |
+| 1421 | Vas megye | Mikosszéplak |
 
-| 1422 | Vas vármegye | Nagykölked |
+| 1422 | Vas megye | Nagykölked |
 
-| 1423 | Vas vármegye | Nagytilaj |
+| 1423 | Vas megye | Nagytilaj |
 
-| 1424 | Vas vármegye | Nemeskeresztúr |
+| 1424 | Vas megye | Nemeskeresztúr |
 
-| 1425 | Vas vármegye | Nemeskocs |
+| 1425 | Vas megye | Nemeskocs |
 
-| 1426 | Vas vármegye | Nemesmedves |
+| 1426 | Vas megye | Nemesmedves |
 
-| 1427 | Vas vármegye | Olaszfa |
+| 1427 | Vas megye | Olaszfa |
 
-| 1428 | Vas vármegye | Pankasz |
+| 1428 | Vas megye | Pankasz |
 
-| 1429 | Vas vármegye | Pápoc |
+| 1429 | Vas megye | Pápoc |
 
-| 1430 | Vas vármegye | Petőmihályfa |
+| 1430 | Vas megye | Petőmihályfa |
 
-| 1431 | Vas vármegye | Porpác |
+| 1431 | Vas megye | Porpác |
 
-| 1432 | Vas vármegye | Rábahídvég |
+| 1432 | Vas megye | Rábahídvég |
 
-| 1433 | Vas vármegye | Rönök |
+| 1433 | Vas megye | Rönök |
 
-| 1434 | Vas vármegye | Szakonyfalu |
+| 1434 | Vas megye | Szakonyfalu |
 
-| 1435 | Vas vármegye | Szemenye |
+| 1435 | Vas megye | Szemenye |
 
-| 1436 | Vas vármegye | Szergény |
+| 1436 | Vas megye | Szergény |
 
-| 1437 | Vas vármegye | Telekes |
+| 1437 | Vas megye | Telekes |
 
-| 1438 | Vas vármegye | Vásárosmiske |
+| 1438 | Vas megye | Vásárosmiske |
 
-| 1439 | Veszprém vármegye | Adorjánháza |
+| 1439 | Veszprém megye | Adorjánháza |
 
-| 1440 | Veszprém vármegye | Apácatorna |
+| 1440 | Veszprém megye | Apácatorna |
 
-| 1441 | Veszprém vármegye | Bakonykoppány |
+| 1441 | Veszprém megye | Bakonykoppány |
 
-| 1442 | Veszprém vármegye | Bakonypölöske |
+| 1442 | Veszprém megye | Bakonypölöske |
 
-| 1443 | Veszprém vármegye | Bakonyság |
+| 1443 | Veszprém megye | Bakonyság |
 
-| 1444 | Veszprém vármegye | Bakonyszentiván |
+| 1444 | Veszprém megye | Bakonyszentiván |
 
-| 1445 | Veszprém vármegye | Bakonyszücs |
+| 1445 | Veszprém megye | Bakonyszücs |
 
-| 1446 | Veszprém vármegye | Bakonytamási |
+| 1446 | Veszprém megye | Bakonytamási |
 
-| 1447 | Veszprém vármegye | Balatonhenye |
+| 1447 | Veszprém megye | Balatonhenye |
 
-| 1448 | Veszprém vármegye | Balatonrendes |
+| 1448 | Veszprém megye | Balatonrendes |
 
-| 1449 | Veszprém vármegye | Barnag |
+| 1449 | Veszprém megye | Barnag |
 
-| 1450 | Veszprém vármegye | Bazsi |
+| 1450 | Veszprém megye | Bazsi |
 
-| 1451 | Veszprém vármegye | Békás |
+| 1451 | Veszprém megye | Békás |
 
-| 1452 | Veszprém vármegye | Bodorfa |
+| 1452 | Veszprém megye | Bodorfa |
 
-| 1453 | Veszprém vármegye | Borszörcsök |
+| 1453 | Veszprém megye | Borszörcsök |
 
-| 1454 | Veszprém vármegye | Csót |
+| 1454 | Veszprém megye | Csót |
 
-| 1455 | Veszprém vármegye | Csögle |
+| 1455 | Veszprém megye | Csögle |
 
-| 1456 | Veszprém vármegye | Dabronc |
+| 1456 | Veszprém megye | Dabronc |
 
-| 1457 | Veszprém vármegye | Egyházaskesző |
+| 1457 | Veszprém megye | Egyházaskesző |
 
-| 1458 | Veszprém vármegye | Gecse |
+| 1458 | Veszprém megye | Gecse |
 
-| 1459 | Veszprém vármegye | Gógánfa |
+| 1459 | Veszprém megye | Gógánfa |
 
-| 1460 | Veszprém vármegye | Gyepükaján |
+| 1460 | Veszprém megye | Gyepükaján |
 
-| 1461 | Veszprém vármegye | Hetyefő |
+| 1461 | Veszprém megye | Hetyefő |
 
-| 1462 | Veszprém vármegye | Homokbödöge |
+| 1462 | Veszprém megye | Homokbödöge |
 
-| 1463 | Veszprém vármegye | Hosztót |
+| 1463 | Veszprém megye | Hosztót |
 
-| 1464 | Veszprém vármegye | Iszkáz |
+| 1464 | Veszprém megye | Iszkáz |
 
-| 1465 | Veszprém vármegye | Kamond |
+| 1465 | Veszprém megye | Kamond |
 
-| 1466 | Veszprém vármegye | Karakószörcsök |
+| 1466 | Veszprém megye | Karakószörcsök |
 
-| 1467 | Veszprém vármegye | Kemenesszentpéter |
+| 1467 | Veszprém megye | Kemenesszentpéter |
 
-| 1468 | Veszprém vármegye | Kisberzseny |
+| 1468 | Veszprém megye | Kisberzseny |
 
-| 1469 | Veszprém vármegye | Kiscsősz |
+| 1469 | Veszprém megye | Kiscsősz |
 
-| 1470 | Veszprém vármegye | Kispirit |
+| 1470 | Veszprém megye | Kispirit |
 
-| 1471 | Veszprém vármegye | Kisszőlős |
+| 1471 | Veszprém megye | Kisszőlős |
 
-| 1472 | Veszprém vármegye | Köveskál |
+| 1472 | Veszprém megye | Köveskál |
 
-| 1473 | Veszprém vármegye | Külsővat |
+| 1473 | Veszprém megye | Külsővat |
 
-| 1474 | Veszprém vármegye | Küngös |
+| 1474 | Veszprém megye | Küngös |
 
-| 1475 | Veszprém vármegye | Lesencefalu |
+| 1475 | Veszprém megye | Lesencefalu |
 
-| 1476 | Veszprém vármegye | Lókút |
+| 1476 | Veszprém megye | Lókút |
 
-| 1477 | Veszprém vármegye | Lovászpatona |
+| 1477 | Veszprém megye | Lovászpatona |
 
-| 1478 | Veszprém vármegye | Magyargencs |
+| 1478 | Veszprém megye | Magyargencs |
 
-| 1479 | Veszprém vármegye | Marcalgergelyi |
+| 1479 | Veszprém megye | Marcalgergelyi |
 
-| 1480 | Veszprém vármegye | Marcaltő |
+| 1480 | Veszprém megye | Marcaltő |
 
-| 1481 | Veszprém vármegye | Megyer |
+| 1481 | Veszprém megye | Megyer |
 
-| 1482 | Veszprém vármegye | Mihályháza |
+| 1482 | Veszprém megye | Mihályháza |
 
-| 1483 | Veszprém vármegye | Mindszentkálla |
+| 1483 | Veszprém megye | Mindszentkálla |
 
-| 1484 | Veszprém vármegye | Nagydém |
+| 1484 | Veszprém megye | Nagydém |
 
-| 1485 | Veszprém vármegye | Nagypirit |
+| 1485 | Veszprém megye | Nagypirit |
 
-| 1486 | Veszprém vármegye | Nemesgörzsöny |
+| 1486 | Veszprém megye | Nemesgörzsöny |
 
-| 1487 | Veszprém vármegye | Nemeshany |
+| 1487 | Veszprém megye | Nemeshany |
 
-| 1488 | Veszprém vármegye | Németbánya |
+| 1488 | Veszprém megye | Németbánya |
 
-| 1489 | Veszprém vármegye | Oroszi |
+| 1489 | Veszprém megye | Oroszi |
 
-| 1490 | Veszprém vármegye | Pápasalamon |
+| 1490 | Veszprém megye | Pápasalamon |
 
-| 1491 | Veszprém vármegye | Pápateszér |
+| 1491 | Veszprém megye | Pápateszér |
 
-| 1492 | Veszprém vármegye | Pusztamiske |
+| 1492 | Veszprém megye | Pusztamiske |
 
-| 1493 | Veszprém vármegye | Rigács |
+| 1493 | Veszprém megye | Rigács |
 
-| 1494 | Veszprém vármegye | Somlójenő |
+| 1494 | Veszprém megye | Somlójenő |
 
-| 1495 | Veszprém vármegye | Somlószőlős |
+| 1495 | Veszprém megye | Somlószőlős |
 
-| 1496 | Veszprém vármegye | Somlóvecse |
+| 1496 | Veszprém megye | Somlóvecse |
 
-| 1497 | Veszprém vármegye | Szentbékkálla |
+| 1497 | Veszprém megye | Szentbékkálla |
 
-| 1498 | Veszprém vármegye | Szentimrefalva |
+| 1498 | Veszprém megye | Szentimrefalva |
 
-| 1499 | Veszprém vármegye | Szentjakabfa |
+| 1499 | Veszprém megye | Szentjakabfa |
 
-| 1500 | Veszprém vármegye | Szőc |
+| 1500 | Veszprém megye | Szőc |
 
-| 1501 | Veszprém vármegye | Tagyon |
+| 1501 | Veszprém megye | Tagyon |
 
-| 1502 | Veszprém vármegye | Vanyola |
+| 1502 | Veszprém megye | Vanyola |
 
-| 1503 | Veszprém vármegye | Várkesző |
+| 1503 | Veszprém megye | Várkesző |
 
-| 1504 | Veszprém vármegye | Veszprémgalsa |
+| 1504 | Veszprém megye | Veszprémgalsa |
 
-| 1505 | Veszprém vármegye | Vid |
+| 1505 | Veszprém megye | Vid |
 
-| 1506 | Veszprém vármegye | Vigántpetend |
+| 1506 | Veszprém megye | Vigántpetend |
 
-| 1507 | Veszprém vármegye | Zalaerdőd |
+| 1507 | Veszprém megye | Zalaerdőd |
 
-| 1508 | Veszprém vármegye | Zalameggyes |
+| 1508 | Veszprém megye | Zalameggyes |
 
-| 1509 | Veszprém vármegye | Zalaszegvár |
+| 1509 | Veszprém megye | Zalaszegvár |
 
-| 1510 | Zala vármegye | Almásháza |
+| 1510 | Zala megye | Almásháza |
 
-| 1511 | Zala vármegye | Baglad |
+| 1511 | Zala megye | Baglad |
 
-| 1512 | Zala vármegye | Baktüttös |
+| 1512 | Zala megye | Baktüttös |
 
-| 1513 | Zala vármegye | Bánokszentgyörgy |
+| 1513 | Zala megye | Bánokszentgyörgy |
 
-| 1514 | Zala vármegye | Barlahida |
+| 1514 | Zala megye | Barlahida |
 
-| 1515 | Zala vármegye | Belezna |
+| 1515 | Zala megye | Belezna |
 
-| 1516 | Zala vármegye | Bezeréd |
+| 1516 | Zala megye | Bezeréd |
 
-| 1517 | Zala vármegye | Bocska |
+| 1517 | Zala megye | Bocska |
 
-| 1518 | Zala vármegye | Bókaháza |
+| 1518 | Zala megye | Bókaháza |
 
-| 1519 | Zala vármegye | Bödeháza |
+| 1519 | Zala megye | Bödeháza |
 
-| 1520 | Zala vármegye | Börzönce |
+| 1520 | Zala megye | Börzönce |
 
-| 1521 | Zala vármegye | Bucsuta |
+| 1521 | Zala megye | Bucsuta |
 
-| 1522 | Zala vármegye | Csapi |
+| 1522 | Zala megye | Csapi |
 
-| 1523 | Zala vármegye | Csertalakos |
+| 1523 | Zala megye | Csertalakos |
 
-| 1524 | Zala vármegye | Csörnyeföld |
+| 1524 | Zala megye | Csörnyeföld |
 
-| 1525 | Zala vármegye | Dióskál |
+| 1525 | Zala megye | Dióskál |
 
-| 1526 | Zala vármegye | Dobri |
+| 1526 | Zala megye | Dobri |
 
-| 1527 | Zala vármegye | Döbröce |
+| 1527 | Zala megye | Döbröce |
 
-| 1528 | Zala vármegye | Egeraracsa |
+| 1528 | Zala megye | Egeraracsa |
 
-| 1529 | Zala vármegye | Esztergályhorváti |
+| 1529 | Zala megye | Esztergályhorváti |
 
-| 1530 | Zala vármegye | Fűzvölgy |
+| 1530 | Zala megye | Fűzvölgy |
 
-| 1531 | Zala vármegye | Gáborjánháza |
+| 1531 | Zala megye | Gáborjánháza |
 
-| 1532 | Zala vármegye | Galambok |
+| 1532 | Zala megye | Galambok |
 
-| 1533 | Zala vármegye | Garabonc |
+| 1533 | Zala megye | Garabonc |
 
-| 1534 | Zala vármegye | Gétye |
+| 1534 | Zala megye | Gétye |
 
-| 1535 | Zala vármegye | Gyűrűs |
+| 1535 | Zala megye | Gyűrűs |
 
-| 1536 | Zala vármegye | Hahót |
+| 1536 | Zala megye | Hahót |
 
-| 1537 | Zala vármegye | Hernyék |
+| 1537 | Zala megye | Hernyék |
 
-| 1538 | Zala vármegye | Homokkomárom |
+| 1538 | Zala megye | Homokkomárom |
 
-| 1539 | Zala vármegye | Hosszúvölgy |
+| 1539 | Zala megye | Hosszúvölgy |
 
-| 1540 | Zala vármegye | Iborfia |
+| 1540 | Zala megye | Iborfia |
 
-| 1541 | Zala vármegye | Iklódbördőce |
+| 1541 | Zala megye | Iklódbördőce |
 
-| 1542 | Zala vármegye | Kallósd |
+| 1542 | Zala megye | Kallósd |
 
-| 1543 | Zala vármegye | Kányavár |
+| 1543 | Zala megye | Kányavár |
 
-| 1544 | Zala vármegye | Karmacs |
+| 1544 | Zala megye | Karmacs |
 
-| 1545 | Zala vármegye | Keménfa |
+| 1545 | Zala megye | Keménfa |
 
-| 1546 | Zala vármegye | Kerecseny |
+| 1546 | Zala megye | Kerecseny |
 
-| 1547 | Zala vármegye | Kerkabarabás |
+| 1547 | Zala megye | Kerkabarabás |
 
-| 1548 | Zala vármegye | Kerkakutas |
+| 1548 | Zala megye | Kerkakutas |
 
-| 1549 | Zala vármegye | Kilimán |
+| 1549 | Zala megye | Kilimán |
 
-| 1550 | Zala vármegye | Kiscsehi |
+| 1550 | Zala megye | Kiscsehi |
 
-| 1551 | Zala vármegye | Kisgörbő |
+| 1551 | Zala megye | Kisgörbő |
 
-| 1552 | Zala vármegye | Kiskutas |
+| 1552 | Zala megye | Kiskutas |
 
-| 1553 | Zala vármegye | Kisrécse |
+| 1553 | Zala megye | Kisrécse |
 
-| 1554 | Zala vármegye | Kistolmács |
+| 1554 | Zala megye | Kistolmács |
 
-| 1555 | Zala vármegye | Kisvásárhely |
+| 1555 | Zala megye | Kisvásárhely |
 
-| 1556 | Zala vármegye | Kissziget |
+| 1556 | Zala megye | Kissziget |
 
-| 1557 | Zala vármegye | Kozmadombja |
+| 1557 | Zala megye | Kozmadombja |
 
-| 1558 | Zala vármegye | Lasztonya |
+| 1558 | Zala megye | Lasztonya |
 
-| 1559 | Zala vármegye | Lendvadedes |
+| 1559 | Zala megye | Lendvadedes |
 
-| 1560 | Zala vármegye | Lendvajakabfa |
+| 1560 | Zala megye | Lendvajakabfa |
 
-| 1561 | Zala vármegye | Lispeszentadorján |
+| 1561 | Zala megye | Lispeszentadorján |
 
-| 1562 | Zala vármegye | Liszó |
+| 1562 | Zala megye | Liszó |
 
-| 1563 | Zala vármegye | Magyarföld |
+| 1563 | Zala megye | Magyarföld |
 
-| 1564 | Zala vármegye | Maróc |
+| 1564 | Zala megye | Maróc |
 
-| 1565 | Zala vármegye | Miháld |
+| 1565 | Zala megye | Miháld |
 
-| 1566 | Zala vármegye | Mikekarácsonyfa |
+| 1566 | Zala megye | Mikekarácsonyfa |
 
-| 1567 | Zala vármegye | Milejszeg |
+| 1567 | Zala megye | Milejszeg |
 
-| 1568 | Zala vármegye | Murarátka |
+| 1568 | Zala megye | Murarátka |
 
-| 1569 | Zala vármegye | Muraszemenye |
+| 1569 | Zala megye | Muraszemenye |
 
-| 1570 | Zala vármegye | Nagybakónak |
+| 1570 | Zala megye | Nagybakónak |
 
-| 1571 | Zala vármegye | Nagygörbő |
+| 1571 | Zala megye | Nagygörbő |
 
-| 1572 | Zala vármegye | Nagyrada |
+| 1572 | Zala megye | Nagyrada |
 
-| 1573 | Zala vármegye | Nemesapáti |
+| 1573 | Zala megye | Nemesapáti |
 
-| 1574 | Zala vármegye | Nemeshetés |
+| 1574 | Zala megye | Nemeshetés |
 
-| 1575 | Zala vármegye | Nemespátró |
+| 1575 | Zala megye | Nemespátró |
 
-| 1576 | Zala vármegye | Nemesrádó |
+| 1576 | Zala megye | Nemesrádó |
 
-| 1577 | Zala vármegye | Nemesszentandrás |
+| 1577 | Zala megye | Nemesszentandrás |
 
-| 1578 | Zala vármegye | Óhíd |
+| 1578 | Zala megye | Óhíd |
 
-| 1579 | Zala vármegye | Oltárc |
+| 1579 | Zala megye | Oltárc |
 
-| 1580 | Zala vármegye | Orbányosfa |
+| 1580 | Zala megye | Orbányosfa |
 
-| 1581 | Zala vármegye | Ormándlak |
+| 1581 | Zala megye | Ormándlak |
 
-| 1582 | Zala vármegye | Orosztony |
+| 1582 | Zala megye | Orosztony |
 
-| 1583 | Zala vármegye | Ortaháza |
+| 1583 | Zala megye | Ortaháza |
 
-| 1584 | Zala vármegye | Pacsa |
+| 1584 | Zala megye | Pacsa |
 
-| 1585 | Zala vármegye | Padár |
+| 1585 | Zala megye | Padár |
 
-| 1586 | Zala vármegye | Pálfiszeg |
+| 1586 | Zala megye | Pálfiszeg |
 
-| 1587 | Zala vármegye | Pat |
+| 1587 | Zala megye | Pat |
 
-| 1588 | Zala vármegye | Pördefölde |
+| 1588 | Zala megye | Pördefölde |
 
-| 1589 | Zala vármegye | Pusztaapáti |
+| 1589 | Zala megye | Pusztaapáti |
 
-| 1590 | Zala vármegye | Pusztaederics |
+| 1590 | Zala megye | Pusztaederics |
 
-| 1591 | Zala vármegye | Pusztamagyaród |
+| 1591 | Zala megye | Pusztamagyaród |
 
-| 1592 | Zala vármegye | Ramocsa |
+| 1592 | Zala megye | Ramocsa |
 
-| 1593 | Zala vármegye | Resznek |
+| 1593 | Zala megye | Resznek |
 
-| 1594 | Zala vármegye | Rigyác |
+| 1594 | Zala megye | Rigyác |
 
-| 1595 | Zala vármegye | Sénye |
+| 1595 | Zala megye | Sénye |
 
-| 1596 | Zala vármegye | Söjtör |
+| 1596 | Zala megye | Söjtör |
 
-| 1597 | Zala vármegye | Szalapa |
+| 1597 | Zala megye | Szalapa |
 
-| 1598 | Zala vármegye | Szentkozmadombja |
+| 1598 | Zala megye | Szentkozmadombja |
 
-| 1599 | Zala vármegye | Szentliszló |
+| 1599 | Zala megye | Szentliszló |
 
-| 1600 | Zala vármegye | Szentmargitfalva |
+| 1600 | Zala megye | Szentmargitfalva |
 
-| 1601 | Zala vármegye | Szentpéterfölde |
+| 1601 | Zala megye | Szentpéterfölde |
 
-| 1602 | Zala vármegye | Szentpéterúr |
+| 1602 | Zala megye | Szentpéterúr |
 
-| 1603 | Zala vármegye | Szijártóháza |
+| 1603 | Zala megye | Szijártóháza |
 
-| 1604 | Zala vármegye | Szilvágy |
+| 1604 | Zala megye | Szilvágy |
 
-| 1605 | Zala vármegye | Tekenye |
+| 1605 | Zala megye | Tekenye |
 
-| 1606 | Zala vármegye | Tilaj |
+| 1606 | Zala megye | Tilaj |
 
-| 1607 | Zala vármegye | Tormafölde |
+| 1607 | Zala megye | Tormafölde |
 
-| 1608 | Zala vármegye | Valkonya |
+| 1608 | Zala megye | Valkonya |
 
-| 1609 | Zala vármegye | Várfölde |
+| 1609 | Zala megye | Várfölde |
 
-| 1610 | Zala vármegye | Vaspör |
+| 1610 | Zala megye | Vaspör |
 
-| 1611 | Zala vármegye | Vindornyalak |
+| 1611 | Zala megye | Vindornyalak |
 
-| 1612 | Zala vármegye | Vindornyaszőlős |
+| 1612 | Zala megye | Vindornyaszőlős |
 
-| 1613 | Zala vármegye | Zajk |
+| 1613 | Zala megye | Zajk |
 
-| 1614 | Zala vármegye | Zalabaksa |
+| 1614 | Zala megye | Zalabaksa |
 
-| 1615 | Zala vármegye | Zalaboldogfa |
+| 1615 | Zala megye | Zalaboldogfa |
 
-| 1616 | Zala vármegye | Zalaigrice |
+| 1616 | Zala megye | Zalaigrice |
 
-| 1617 | Zala vármegye | Zalakomár |
+| 1617 | Zala megye | Zalakomár |
 
-| 1618 | Zala vármegye | Zalaköveskút |
+| 1618 | Zala megye | Zalaköveskút |
 
-| 1619 | Zala vármegye | Zalaszabar |
+| 1619 | Zala megye | Zalaszabar |
 
-| 1620 | Zala vármegye | Zalaszentbalázs |
+| 1620 | Zala megye | Zalaszentbalázs |
 
-| 1621 | Zala vármegye | Zalaszentjakab |
+| 1621 | Zala megye | Zalaszentjakab |
 
-| 1622 | Zala vármegye | Zalaszentmárton |
+| 1622 | Zala megye | Zalaszentmárton |
 
-| 1623 | Zala vármegye | Zalaújlak |
+| 1623 | Zala megye | Zalaújlak |
 
-| 1624 | Zala vármegye | Zebecke |
+| 1624 | Zala megye | Zebecke |
 
-2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez[^11]
+2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez[^12]
 
-[^11]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
