@@ -1,4 +1,4 @@
-| 1 | VÁRMEGYE | TANKERÜLETI KÖZPONT | BEOLVADÓ TANKERÜLET |
+| 1 | MEGYE | TANKERÜLETI KÖZPONT | BEOLVADÓ TANKERÜLET |
 
 | 2 | BÁCS-KISKUN | Kecskeméti | Kecskeméti tankerület |
 
