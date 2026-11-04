@@ -1,4 +1,4 @@
-24. § (1) Ha törvény másként nem rendelkezik, a személyes adatot tartalmazó levéltári anyag az érintett halálozási évét követő harminc év után válik bárki számára kutathatóvá. A védelmi idő
+24. § (1) Ha törvény másként nem rendelkezik, a személyes adatot tartalmazó levéltári anyag az érintett halálozási évét követő öt év után válik bárki számára kutathatóvá. A védelmi idő
 
 a) az érintett születésétől számított kilencven év, ha a halálozás ténye és annak ideje nem ismert, és az csak aránytalanul nagy erőfeszítéssel volna megállapítható, vagy
 

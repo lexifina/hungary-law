@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2026-01-01 | 2025. évi LXXX. törvény | 1995-66-00-00.56 |
 | 2026-07-29 | 2026. évi XXXIV. törvény | 1995-66-00-00.57 |
 | 2026-10-01 | 2026. évi XLIX. törvény | 1995-66-00-00.58 |
+| 2026-11-04 | 2026. évi LI. törvény | 1995-66-00-00.59 |
