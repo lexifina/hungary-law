@@ -410,13 +410,13 @@
 
 ## OKLEVÉL
 
-## Ezt az oklevelet ... számára állítottuk ki, aki ... évben ... hó ... napján ... városban (községben) ... vármegyében ... országban ... néven született, és ... tanévtől ... tanévig a ... főiskolai/egyetemi tanulmányi kötelezettségeinek eleget tett.
+## Ezt az oklevelet … számára állítottuk ki, aki … évben … hó … napján … városban (községben) … megyében …országban … néven született, és … tanévtől … tanévig a … főiskolai/egyetemi tanulmányi kötelezettségeinek eleget tett.
 
-## A záróvizsga-bizottságnak ... év ... hó ... -i határozata alapján nevezettet .../nevezettet... nyilvánítjuk.
+## A záróvizsga-bizottságnak … év … hó … -i határozata alapján nevezettet … nyilvánítjuk.
 
-## Oklevelének minősítése: ...
+## Oklevelének minősítése: …
 
-## keltezés, bélyegző, aláírás, záradék
+## keltezés, bélyegző, aláírás, záradék”
 
 ## 5.9.[^450] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakirányú továbbképzésben szerezhető oklevél
 
@@ -426,11 +426,11 @@
 
 ## OKLEVÉL
 
-## Ezt a szakirányú továbbképzésben szerzett oklevelet ... számára állítottuk ki, aki ... évben ... hó ... napján ... városban (községben) ... vármegyében ... országban ... néven született, és ... (felsőoktatási intézményben) szerzett ... év ... hó ... napján kelt, ... számon kiállított oklevéllel igazolt .. szintű végzettsége, ... szakképzettsége alapján ... tanévtől ... tanévig ... (felsőoktatási intézmény) szakirányú továbbképzésén tanulmányokat folytatott.
+## Ezt a szakirányú továbbképzésben szerzett oklevelet … számára állítottuk ki, aki … évben … hó … napján … városban (községben) … megyében … országban … néven született, és … (felsőoktatási intézményben) szerzett … év … hó … napján kelt, … számon kiállított oklevéllel igazolt … szintű végzettsége, … szakképzettsége alapján … tanévtől … tanévig … (felsőoktatási intézmény) szakirányú továbbképzésén tanulmányokat folytatott.
 
-## A záróvizsga-bizottság előtt ... év ... hó ... napján tett záróvizsga alapján (vagy vizsgának megfelelően) (pedagógus szakvizsga) ... szakirányú szakképzettséget szerzett.
+## A záróvizsga-bizottság előtt … év … hó … napján tett záróvizsga alapján (vagy vizsgának megfelelően) (pedagógus szakvizsga) … szakirányú szakképzettséget szerzett.
 
-## Oklevelének minősítése: ....
+## Oklevelének minősítése: …
 
 ## keltezés, bélyegző, aláírás, záradék”
 
@@ -680,8 +680,8 @@
 [^446]: A 9. melléklet 5. pont 5.7. alpontja a 442/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg.
 [^447]: A 9. melléklet 5. pont 5.7. alpont a) pontja a 84/2025. (IV. 22.) Korm. rendelet 42. § 23. pontja szerint módosított szöveg.
 [^448]: A 9. melléklet 5. pont 5.7. alpont b) pontja a 84/2025. (IV. 22.) Korm. rendelet 42. § 23. pontja szerint módosított szöveg.
-[^449]: A 9. melléklet 5. pont 5.8. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 209. § b) pontja szerint módosított szöveg.
-[^450]: A 9. melléklet 5. pont 5.9. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdése szerint módosított szöveg.
+[^449]: A 9. melléklet 5. pont 5.8. alpontja a 391/2026. (XI. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^450]: A 9. melléklet 5. pont 5.9. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 391/2026. (XI. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^451]: A 9. melléklet 6. pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 39. pontja szerint módosított szöveg.
 [^452]: A 9. melléklet 6. pont 6.1. alpontját a 610/2023. (XII. 22.) Korm. rendelet 47. § 25. pontja hatályon kívül helyezte.
 [^453]: A 9. melléklet 6. pont 6.5. alpontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés c)–d) pontja szerint módosított szöveg.
