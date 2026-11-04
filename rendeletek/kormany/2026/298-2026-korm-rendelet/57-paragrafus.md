@@ -1,7 +1,3 @@
-## VIII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
 ## 16. Hatálybaléptető rendelkezések
 
 57. § [Hatálybalépés]

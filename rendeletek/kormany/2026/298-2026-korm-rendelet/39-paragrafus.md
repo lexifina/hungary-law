@@ -1,3 +1,3 @@
-39. § [A kölcsönnel kapcsolatos reklámtevékenység]
+39. §[^2]
 
-A hitelintézet köteles a kölcsönre vonatkozó reklámjaiban, hirdetéseiben az alábbi szöveget feltüntetni: „A hirdetésben szereplő lakáshitel részét képező támogatásokat Magyarország Kormánya nyújtja.”.
+[^2]: A 39. §-t a 411/2026. (XI. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.

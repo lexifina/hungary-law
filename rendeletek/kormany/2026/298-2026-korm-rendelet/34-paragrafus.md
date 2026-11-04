@@ -6,7 +6,7 @@
 
 (2) A 47. § (2) bekezdés b) pont bb) alpontja szerinti esetben a kamattámogatási időszak a vásárolt új lakás használatbavételi engedélyének hitelintézet részére való bemutatását követő napon kezdődik, ha – a 18. §-ban foglaltak alkalmazásával – a lakás a műszaki állapotára tekintettel a lakhatási igények kielégítésére alkalmas.
 
-(3) A kamattámogatás mértéke legfeljebb a 33. § (1) bekezdése szerinti legmagasabb ügyleti kamatnak a támogatott személy által fizetett 32. § szerinti kamattal csökkentett mértéke, de nem haladhatja meg a hitelintézet által ténylegesen megállapított ügyleti kamat mértékét.
+(3)[^1] A kamattámogatás mértéke legfeljebb a 33. § (1) bekezdése szerinti ügyleti kamatnak a 32. § szerint megállapítható legmagasabb kamattal csökkentett mértéke, de nem haladhatja meg a hitelintézet által ténylegesen megállapított ügyleti kamat mértékét.
 
 (4) A kamattámogatás összege havonta változik. A havi kamattámogatás az adott havi törlesztőrészletben megfizetendő tőketörlesztéssel csökkentett, már folyósított, még esedékessé nem vált tőketartozásra számított (3) bekezdés szerinti kamattámogatás 1/12 része.
 
@@ -23,3 +23,5 @@ b) a meglévő kölcsöntartozás kiegyenlítésére szolgáló kölcsönre, és
 c) a kölcsön lejárt tőketartozása esetén a kölcsönre.
 
 (8) A hitelintézet az igénybe vett kamattámogatás éves összegéről évente egyszer, az éves elszámolás keretében tájékoztatja a támogatott személyt.
+
+[^1]: A 34. § (3) bekezdése a 411/2026. (XI. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
