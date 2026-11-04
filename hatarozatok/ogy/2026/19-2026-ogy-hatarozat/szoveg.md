@@ -14,7 +14,7 @@ c) határozza meg, hogy a gyermekvédelmi rendszer működésével összefüggé
 
 3. A Bizottság ügyrendjét – az e határozatban foglaltak figyelembevételével – az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat vonatkozó rendelkezései alapján maga állapítja meg.
 
-4. A Bizottság tevékenységéről 2026. december 31-ig jelentést készít, amely tartalmazza többek között
+4.[^2] A Bizottság tevékenységéről 2027. június 15-ig jelentést készít, amely tartalmazza többek között
 
 a) a Bizottság által alkalmazott eljárási rendet és vizsgálati módszereket,
 
@@ -49,3 +49,5 @@ Mi Hazánk 1 fő.
 13. A Bizottság megbízatása a jelentése elfogadásáról vagy elutasításáról szóló országgyűlési határozat meghozataláig, illetve a jelentés benyújtására nyitva álló határidő eredménytelen elteltéig tart.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont a 83/2026. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
