@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1882-30
 | 2022-04-06 | 2017-1882-30-22.5 | 1545/2021. (VIII. 4.) Korm. határozat |
 | 2022-11-03 | 2017-1882-30-22.6 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2024-12-16 | 2017-1882-30-22.7 | 1399/2024. (XII. 16.) Korm. határozat |
+| 2026-11-04 | 2017-1882-30-22.8 | 1366/2026. (XI. 3.) Korm. határozat |
