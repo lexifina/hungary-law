@@ -4,7 +4,7 @@
 
 | 2. | Veresegyháza | új iskola építése, létesítése | új 24 osztályos iskola |
 
-| 3. | Gyömrő | működő köznevelési intézmény bővítése | új 16 tantermes iskola |
+| 3.[^5] | Gyömrő | működő köznevelési intézmény bővítése | új 24 osztályos iskola |
 
 | 4. | Inárcs | működő köznevelési intézmény bővítése | új 8 tantermes iskola |
 
@@ -32,7 +32,7 @@
 
 | 16. | Tahitótfalu | működő köznevelési intézmény bővítése | új 8 tantermes iskola |
 
-2. melléklet az 1051/2021. (II. 15.) Korm. határozathoz[^5]
+2. melléklet az 1051/2021. (II. 15.) Korm. határozathoz[^6]
 
 | Sorszám | Település | Fejlesztés | Fejlesztéssel érintett ingatlan |
 
@@ -42,4 +42,5 @@
 
 | 3. | Dunaharaszti | új 24 osztályos iskola építése | Dunaharaszti belterület 7844, 7845 és 7847 helyrajzi számú ingatlanok |
 
-[^5]: A 2. mellékletet az 1617/2021. (VIII. 18.) Korm. határozat 3. pontja iktatta be.
+[^5]: Az 1. mellékletben foglalt táblázat 3. sora az 1368/2026. (XI. 4.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^6]: A 2. mellékletet az 1617/2021. (VIII. 18.) Korm. határozat 3. pontja iktatta be.
