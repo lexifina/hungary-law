@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-297-20-
 | 2019-12-31 | 2017-297-20-22.3 | 365/2019. (XII. 30.) Korm. rendelet |
 | 2022-12-23 | 2017-297-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2017-297-20-22.5 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2026-11-04 | 2017-297-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
