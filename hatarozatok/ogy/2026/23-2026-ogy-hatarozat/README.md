@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2026-23-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2026-05-28 | 2026-23-30-41.1 | 23/2026. (V. 27.) OGY határozat |
+| 2026-11-04 | 2026-23-30-41.2 | 83/2026. (XI. 3.) OGY határozat |
