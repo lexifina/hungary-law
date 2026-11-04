@@ -4,9 +4,9 @@
 
 | 2. | A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezése | Budapest VIII. kerület Orczy út 1. Hrsz. 36030; Budapest VIII. kerület Diószeghy Sámuel utca 38–40. Hrsz. 36009; Budapest VIII. kerület Diószeghy Sámuel utca 42. Hrsz. 36014; Budapest VIII. kerület Korányi Sándor utca 14. Hrsz. 36038/2; Budapest VIII. kerület Dugonics utca 9. Hrsz. 36038/2; Budapest VIII. kerület Korányi Sándor utca 22–26. Hrsz. 36034; Budapest VIII. kerület Dugonics utca 17–21. Hrsz. 36034; Budapest VIII. kerület Diószeghy Sámuel utca 16. Hrsz. 35978; Budapest VIII. kerület Diószeghy Sámuel utca 18. Hrsz. 35979; Budapest VIII. kerület Diószeghy Sámuel utca 20. Hrsz. 35980; Budapest VIII. kerület Diószeghy Sámuel utca 22. Hrsz. 35981; Budapest VIII. kerület Diószeghy Sámuel utca 24. Hrsz. 35982; Budapest VIII. kerület Diószeghy Sámuel utca 26. Hrsz. 35983; Budapest VIII. kerület Diószeghy Sámuel utca 28. Hrsz. 35996; Budapest VIII. kerület Diószeghy Sámuel utca 30. Hrsz. 35997; Budapest VIII. kerület Sárkány utca 8. Hrsz. 35995; Budapest VIII. kerület Nagyvárad tér Hrsz. 36806/3; Budapest VIII. kerület Üllői út Hrsz. 36806/2; Budapest VIII. kerület Ludovika tér Hrsz. 36179; Budapest VIII. kerület Korányi Sándor utca Hrsz. 36031; Budapest VIII. kerület Diószeghy Sámuel utca Hrsz. 35903; Budapest VIII. kerület Dugonics utca Hrsz. 36054; Budapest VIII. kerület Orczy út Hrsz. 35929/2. | általános építésügyi és építésfelügyeleti hatósági eljárások, beleértve: – az általános építményeket, – a műemléki védelem alatt álló építményeket, – az építményen belül, építménybe beépített felvonókat, mozgólépcsőket, (beleértve a mozgójárdát is), ha annak létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység szükséges, fás szárú növények kivágására vonatkozó engedélyezési eljárás, kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^19] |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal[^19] |
 
-| 4. | vízjogi hatósági engedélyezési eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^20] |
+| 4. | vízjogi hatósági engedélyezési eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró megyei kormányhivatal[^20] |
 
 | 5. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -18,25 +18,27 @@
 
 | 9. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 10. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^21] |
+| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal[^21] |
 
-| 11.[^22] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
+| 11.[^22] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és megyei kormányhivatal[^23] |
 
-| 12.[^23] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
+| 12.[^24] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 13.[^24] | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
+| 13.[^25] | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | illetékes fővárosi és megyei kormányhivatal[^26] |
 
 | 14. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 15. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^25] |
+| 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal[^27] |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^26]
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^28]
 
-[^19]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^20]: Az 1. mellékletben foglalt táblázat D:4 mezője a 257/2024. (VIII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^21]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat D:3 mezője a 388/2026. (XI. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat D:4 mezője a 257/2024. (VIII. 29.) Korm. rendelet 54. §-a, a 388/2026. (XI. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:10 mezője a 388/2026. (XI. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^22]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^23]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^24]: Az 1. mellékletben foglalt táblázat 13. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^25]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^26]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
+[^23]: Az 1. mellékletben foglalt táblázat D:11 mezője a 388/2026. (XI. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat 13. sora a 257/2024. (VIII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat D:13 mezője a 388/2026. (XI. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^27]: Az 1. mellékletben foglalt táblázat D:15 mezője a 388/2026. (XI. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^28]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
