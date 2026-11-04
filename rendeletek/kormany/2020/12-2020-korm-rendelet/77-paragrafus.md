@@ -4,7 +4,7 @@
 
 ## 25. Az Szkt. 26. § (1) bekezdéséhez
 
-77. § (1)[^194] Vármegyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három egymást követő tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
+77. § (1)[^194] Megyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három egymást követő tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
 
 (2)[^195] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
 
@@ -45,7 +45,7 @@ cb) folyamatos nyilvántartást vezet a szakképzésért felelős miniszter ált
 cc) ellátja a jogszabályban számára meghatározott, illetve a szakképzésért felelős miniszter által meghatározott egyéb feladatokat.
 
 [^193]: A XIII. Fejezet címe a 292/2023. (VII. 6.) Korm. rendelet 47. § 26. pontja szerint módosított szöveg.
-[^194]: A 77. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 303. § a) pontja, a 292/2023. (VII. 6.) Korm. rendelet 47. § 27. pontja szerint módosított szöveg.
+[^194]: A 77. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 27. pontja, a 397/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^195]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított, a 292/2023. (VII. 6.) Korm. rendelet 48. § 30. pontja szerint módosított szöveg.
 [^196]: A 77. § (3) bekezdés nyitó szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 48. § 31. pontja szerint módosított szöveg.
 [^197]: A 77. § (3) bekezdés a) pont ab) alpontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 32. pontja hatályon kívül helyezte.
