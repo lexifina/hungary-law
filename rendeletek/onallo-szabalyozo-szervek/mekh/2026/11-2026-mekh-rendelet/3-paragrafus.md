@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének a rendelet kiadásában való helyettesítéséről szóló 9/2022. (X. 14.) MEKH rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
