@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2024-08-01 | 1997-100-20-22.69 | 201/2024. (VII. 29.) Korm. rendelet |
 | 2025-01-01 | 1997-100-20-22.63 | 65/2021. (II. 15.) Korm. rendelet |
 | 2026-09-01 | 1997-100-20-22.70 | 233/2004. (VIII. 6.) Korm. rendelet |
+| 2026-11-04 | 1997-100-20-22.71 | 233/2004. (VIII. 6.) Korm. rendelet |

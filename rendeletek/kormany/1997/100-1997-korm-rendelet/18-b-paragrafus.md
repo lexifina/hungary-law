@@ -4,7 +4,7 @@
 
 (3)[^125] A Hivatal vezetője megszervezi a feladatlapok sokszorosítását, csomagolását és szállítását. Ennek keretében a feladatlapok csomagolásának megkezdésétől az írásbeli vizsgaidőszak utolsó napján, tizennégy óráig a Hivatal gondoskodik a feladatlapok csomagolása helyszínének mechanikus és elektronikus védelemmel kiegészített élőerős védelméről.
 
-(4)[^126] A Hivatal vezetője a feladatlapokat – fenntartóra tekintet nélkül, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) közreműködésével – átadja a vizsgabizottságot működtető intézmény megbízottjának.
+(4)[^126] A Hivatal vezetője a feladatlapokat – fenntartóra tekintet nélkül, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) közreműködésével – átadja a vizsgabizottságot működtető intézmény megbízottjának.
 
 (5)[^127] Az igazgató az írásbeli vizsgatételeket tartalmazó feladatlapokat az adott vizsgatárgy írásbeli vizsgájának a tanév rendjéről szóló rendeletben meghatározott időpontjáig köteles elzárni oly módon, hogy ahhoz illetéktelen személy ne férhessen hozzá.
 
@@ -17,6 +17,6 @@
 [^123]: A 18/B. §-t a 256/2005. (XII. 7.) Korm. rendelet 8. §-a iktatta be.
 [^124]: A 18/B. § (2) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 351/2010. (XII. 30.) Korm. rendelet 41. § j) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^125]: A 18/B. § (3) bekezdése a 37/2017. (III. 6). Korm. rendelet 1. §-ával megállapított, a 363/2022. (IX. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^126]: A 18/B. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^126]: A 18/B. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 385/2026. (XI. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^127]: A 18/B. § (5) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének f) pontja szerint módosított szöveg.
 [^128]: A 18/B. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § k) pontja szerint módosított szöveg.
