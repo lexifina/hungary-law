@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2023-11-19 | 2007-51-20-22.29 | 280/2023. (VI. 29.) Korm. rendelet |
 | 2024-01-01 | 2007-51-20-22.31 | 610/2023. (XII. 22.) Korm. rendelet |
 | 2025-03-01 | 2007-51-20-22.32 | 363/2011. (XII. 30.) Korm. rendelet |
+| 2026-11-04 | 2007-51-20-22.33 | 386/2026. (XI. 3.) Korm. rendelet |

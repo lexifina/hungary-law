@@ -6,7 +6,7 @@
 
 (4)[^67] A nem állami fenntartású felsőoktatási intézmények az intézményi ösztöndíjrészt biztosító finanszírozási megállapodásban foglaltak szerint kötelesek az ösztöndíj folyósításáról elszámolni a minisztériumnak.
 
-(5)[^68] E rendelet alkalmazásában a fővárosi önkormányzatot vármegyei önkormányzatnak, a fővárosi kerületi önkormányzatot települési önkormányzatnak kell tekinteni.
+(5)[^68] E rendelet alkalmazásában a fővárosi önkormányzatot megyei önkormányzatnak, a fővárosi kerületi önkormányzatot települési önkormányzatnak kell tekinteni.
 
 [^67]: A 20. § (4) bekezdése a 346/2019. (XII. 23.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^68]: A 20. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
+[^68]: A 20. § (5) bekezdése a 386/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
