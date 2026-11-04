@@ -1,0 +1,1 @@
+3. § Az R. 34. § (3) bekezdésében a „legmagasabb ügyleti kamatnak a támogatott személy által fizetett 32. § szerinti” szövegrész helyébe az „ügyleti kamatnak a 32. § szerint megállapítható legmagasabb” szöveg lép.
