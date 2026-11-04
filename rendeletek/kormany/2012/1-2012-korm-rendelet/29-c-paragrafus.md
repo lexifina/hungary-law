@@ -28,7 +28,7 @@ e) az igénylő vállalja, hogy a hitelkiváltást követő 7 éven belül legal
 
 a) az (1) bekezdés b) pontjában meghatározott feltétel teljesülését a felsőoktatási intézmény által kiállított, angol nyelvű oklevéllel,
 
-b) a (2) bekezdés a) pontjában meghatározott Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételnek való megfelelést az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által kiállított igazolással; a munkaviszony fennállását az azt létesítő szerződéssel és jövedelemigazolással; a hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással,
+b)[^167] a (2) bekezdés a) pontjában meghatározott Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételnek való megfelelést az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított igazolással; a munkaviszony fennállását az azt létesítő szerződéssel és jövedelemigazolással; a hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással,
 
 c) a (2) bekezdés b) és c) pontjában meghatározott feltételt a külföldön kötött, angol nyelvű kölcsönszerződéssel,
 
@@ -43,3 +43,4 @@ igazolja.
 (5) A külföldi felsőoktatási intézmény által kiállított igazolások tekintetében alkalmazni kell a 22. § (4) bekezdésének rendelkezéseit.
 
 [^166]: A 22. alcímet (29/C–29/F. §-t) a 360/2024. (XI. 25.) Korm. rendelet 2. §-a iktatta be.
+[^167]: A 29/C. § (4) bekezdés b) pontja a 387/2026. (XI. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.

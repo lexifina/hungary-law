@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-22
 | 2025-07-01 | 2012-1-20-22.43 | 433/2024. (XII. 23.) Korm. rendelet |
 | 2026-01-01 | 2012-1-20-22.44 | 433/2024. (XII. 23.) Korm. rendelet |
 | 2026-07-01 | 2012-1-20-22.45 | 433/2024. (XII. 23.) Korm. rendelet |
+| 2026-11-04 | 2012-1-20-22.46 | 387/2026. (XI. 3.) Korm. rendelet |
