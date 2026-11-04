@@ -1,4 +1,4 @@
-## 51/A.[^65] Kiegészítő juttatás
+## 51/A.[^67] Kiegészítő juttatás
 
 108/A. § (1) Amennyiben tárgyévben a magyarországi átlagos pedagógusbér – az Emberi Erőforrás Fejlesztési Operatív Program Plusz keretében vállaltaktól eltérően – nem éri el a magyarországi felsőfokú végzettségűek átlagbérének legalább 80%-át, azon a tárgyév december 31-én a pedagógus-előmenetel hatálya alá tartozó pedagógus és pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott, továbbá az Nkt. 35/B. § (3) bekezdésében meghatározott, hit- és erkölcstanoktatásban közreműködő, illetve hittant oktató személy (e § alkalmazásában a továbbiakban együtt: pedagógus), aki a tárgyévet követő év március 1-jén is ezen munkakörök, feladatkörök valamelyikében van foglalkoztatva, egyszeri kiegészítő juttatásra jogosult, amelynek kifizetése a tárgyévet követő évben történik meg. Az egyszeri kiegészítő juttatás kifizetése során a személyi jövedelemadóról szóló törvény bérjellegű juttatásra vonatkozó szabályait kell alkalmazni.
 
@@ -14,4 +14,4 @@
 
 (7) A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Vhr.) 37/J. § (3b) bekezdése alapján az egyszeri kiegészítő támogatás szabályszerű felhasználásának ellenőrzése érdekében a fenntartó október utolsó napjáig a Magyar Államkincstár (a továbbiakban: Kincstár) számára, a Kincstár által meghatározott adatlapon köteles személyazonosításra alkalmatlan módon adatot szolgáltatni.
 
-[^65]: Az 51/A. alcímet (108/A. §-t) a 36/2026. (III. 5.) Korm. rendelet 8. §-a iktatta be.
+[^67]: Az 51/A. alcímet (108/A. §-t) a 36/2026. (III. 5.) Korm. rendelet 8. §-a iktatta be.

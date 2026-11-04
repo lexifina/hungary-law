@@ -4,11 +4,11 @@
 
 ## 37. Az illetmény megállapítása
 
-88. § (1)[^47] A Gyakornok fokozathoz tartozó havi illetmény a 2026. évben 707 600 Ft.
+88. § (1)[^49] A Gyakornok fokozathoz tartozó havi illetmény a 2026. évben 707 600 Ft.
 
-(2)[^48] A Púétv. 98. § (1) bekezdése szerinti köznevelési foglalkoztatott havi illetménye nem lehet kevesebb, mint az (1) bekezdés szerinti összeg.
+(2)[^50] A Púétv. 98. § (1) bekezdése szerinti köznevelési foglalkoztatott havi illetménye nem lehet kevesebb, mint az (1) bekezdés szerinti összeg.
 
-(3)[^49] Az esélyteremtési illetményrészre való jogosultság szempontjából figyelembe veendő kedvezményezett és felzárkózó települések listáját az Fktr. 1. melléklete tartalmazza.
+(3)[^51] Az esélyteremtési illetményrészre való jogosultság szempontjából figyelembe veendő kedvezményezett és felzárkózó települések listáját az Fktr. 1. melléklete tartalmazza.
 
 (4) Az esélyteremtési illetményrész megállapításának feltétele, hogy a köznevelési foglalkoztatotti jogviszonyban álló a kinevezésében feltüntettek szerint a Púétv. 76. § (1) bekezdése szerinti általános teljes napi munkaidő alapulvételével meghatározott heti munkaidő legalább ötven százalékában teljesítse a Púétv. 98. § (5) bekezdésében meghatározott feltételeket. Ebben az esetben az esélyteremtési illetményrésznek teljes összege jár, a feladatra fordított munkaidő arányától függetlenül.
 
@@ -20,6 +20,6 @@
 
 (8) Ha a köznevelési foglalkoztatotti jogviszonyban álló a Púétv. 68. § (4) bekezdése szerint lát el feladatot, akkor a feladatellátás idejére a havi illetményének pótlék és egyes köznevelési feladatokért járó megbízási díj nélküli összege tíz százalékával emelt összegű illetmény illeti meg.
 
-[^47]: A 88. § (1) bekezdése a 96/2026. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^48]: A 88. § (2) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^49]: A 88. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.
+[^49]: A 88. § (1) bekezdése a 96/2026. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^50]: A 88. § (2) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^51]: A 88. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.

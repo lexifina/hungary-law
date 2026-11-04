@@ -1,5 +1,5 @@
 ## 59. Módosító rendelkezések
 
-133. §[^76]
+133. §[^78]
 
-[^76]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

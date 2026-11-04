@@ -1,3 +1,3 @@
-132/A. §[^69] E rendeletnek a minősítési, pályázati, megújítási eljárásra vonatkozó rendelkezéseit első alkalommal a 2024. január 1-jét követően indult eljárásokban kell alkalmazni.
+132/A. §[^71] E rendeletnek a minősítési, pályázati, megújítási eljárásra vonatkozó rendelkezéseit első alkalommal a 2024. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-[^69]: A 132/A. §-t a 661/2023. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
+[^71]: A 132/A. §-t a 661/2023. (XII. 29.) Korm. rendelet 17. §-a iktatta be.

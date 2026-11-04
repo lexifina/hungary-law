@@ -1,3 +1,3 @@
-134. §[^77]
+134. §[^79]
 
-[^77]: A 134. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 134. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

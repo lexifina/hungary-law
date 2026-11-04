@@ -1,4 +1,4 @@
-45. §[^42] (1) A 44. § (2) bekezdése szerinti pedagógus-kompetenciák megfigyelési és értékelési szempontjait
+45. §[^43] (1) A 44. § (2) bekezdése szerinti pedagógus-kompetenciák megfigyelési és értékelési szempontjait
 
 a) a b)–g) pontban felsoroltak kivételével köznevelési intézményben a pedagógus munkakörben foglalkoztatott Pedagógus I. fokozatra irányuló minősítő vizsgán, valamint a Pedagógus II. fokozat elérésére irányuló minősítési eljárásban a 3/a. melléklet A) pontja,
 
@@ -44,4 +44,4 @@ c) a Kutatótanár fokozat elérésére irányuló pályázati és a megújítá
 
 határozza meg.
 
-[^42]: A 45. § a 661/2023. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^43]: A 45. § a 661/2023. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

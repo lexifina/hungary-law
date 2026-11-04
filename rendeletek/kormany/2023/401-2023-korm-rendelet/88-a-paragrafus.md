@@ -1,4 +1,4 @@
-88/A. §[^50] (1)[^51] A munkáltató a pedagógus, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott (e § alkalmazásában a továbbiakban együtt: pedagógus) tartós pótlékok és megbízási díjak nélküli havi illetményét a Púétv. 97. § (1) bekezdése szerinti fokozata alapján, a Púétv. 98. § (2) bekezdésében foglaltak figyelembevételével – a (2) és (3) bekezdésben foglalt eltéréssel – olyan módon állapítja meg, hogy a havi illetmény összege – az esélyteremtési illetményrészt ide nem értve –
+88/A. §[^52] (1)[^53] A munkáltató a pedagógus, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott (e § alkalmazásában a továbbiakban együtt: pedagógus) tartós pótlékok és megbízási díjak nélküli havi illetményét a Púétv. 97. § (1) bekezdése szerinti fokozata alapján, a Púétv. 98. § (2) bekezdésében foglaltak figyelembevételével – a (2) és (3) bekezdésben foglalt eltéréssel – olyan módon állapítja meg, hogy a havi illetmény összege – az esélyteremtési illetményrészt ide nem értve –
 
 a) Pedagógus I. esetén 720 000 Ft-tól 1 406 000 Ft-ig,
 
@@ -14,5 +14,5 @@ terjedhet.
 
 (3) A (2) bekezdés alkalmazása során nem minősül illetménynövelésnek, ha a pedagógus számára magasabb fokozatba történő átsorolás vagy a teljesítményértékelés eredménye okán lett magasabb illetmény megállapítva.
 
-[^50]: A 88/A. §-t a 3/2024. (I. 18.) Korm. rendelet 3. §-a iktatta be.
-[^51]: A 88/A. § (1) bekezdése a 96/2026. (VI. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^52]: A 88/A. §-t a 3/2024. (I. 18.) Korm. rendelet 3. §-a iktatta be.
+[^53]: A 88/A. § (1) bekezdése a 96/2026. (VI. 25.) Korm. rendelet 6. §-ával megállapított szöveg.

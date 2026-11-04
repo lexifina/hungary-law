@@ -1,9 +1,9 @@
 ## 34. Az átsorolás és a visszasorolás végrehajtása
 
-80. §[^46] A magasabb fokozatba történő besorolásra a Púétv. 97. § (8) bekezdésében meghatározott időpontban visszamenőlegesen kerül sor akkor is, ha
+80. §[^48] A magasabb fokozatba történő besorolásra a Púétv. 97. § (8) bekezdésében meghatározott időpontban visszamenőlegesen kerül sor akkor is, ha
 
 a) a minősítési eljárás a 72. § (2) bekezdése alapján a minősítést követő évben zárult le, vagy
 
 b) a sikeres panasz alapján a tanúsítvány visszavonására és új tanúsítvány kiadására került sor.
 
-[^46]: A 80. § nyitó szövegrésze a 661/2023. (XII. 29.) Korm. rendelet 19. § 7. pontja szerint módosított szöveg.
+[^48]: A 80. § nyitó szövegrésze a 661/2023. (XII. 29.) Korm. rendelet 19. § 7. pontja szerint módosított szöveg.

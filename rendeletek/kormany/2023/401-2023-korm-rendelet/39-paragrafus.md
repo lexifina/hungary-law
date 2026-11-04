@@ -1,4 +1,4 @@
-39. § (1)[^32] Az a Pedagógus II. fokozatba besorolt pedagógus, aki rendelkezik
+39. § (1)[^33] Az a Pedagógus II. fokozatba besorolt pedagógus, aki rendelkezik
 
 a) pedagógus-szakvizsgával és
 
@@ -6,7 +6,7 @@ b) a Pedagógus II. fokozatba történt besorolását követően öt év szakmai
 
 a Mesterpedagógus fokozatba lépéshez szükséges pályázati eljárásban való részvételét kezdeményezheti.
 
-(1a)[^33] Ha a Mesterpedagógus fokozat a (2) bekezdés a) vagy b) pontja szerinti tevékenység ellátását célozza – a 39. § (1) bekezdésében foglalt követelményeken felül – a pályázati eljárásra való jelentkezés további szakmai feltétele, hogy a pedagógus
+(1a)[^34] Ha a Mesterpedagógus fokozat a (2) bekezdés a) vagy b) pontja szerinti tevékenység ellátását célozza – a 39. § (1) bekezdésében foglalt követelményeken felül – a pályázati eljárásra való jelentkezés további szakmai feltétele, hogy a pedagógus
 
 a) a jelentkezés határidejéig legalább tizennégy év szakmai gyakorlatot szerzett,
 
@@ -14,9 +14,9 @@ b) 2015. január 1. óta nem volt sikertelen eredménnyel zárult minősítési 
 
 c) megfelel a hivatal honlapján a minősítés évét megelőző év február végéig közzétett pályázati feltételeknek.
 
-(1b)[^34] Ha a Mesterpedagógus fokozat a (2) bekezdés c)–e) pontja szerinti tevékenység ellátását célozza, a 39. § (1) bekezdésében foglalt követelményeken felül a pályázati vagy megújítási eljárásra való jelentkezés feltétele, hogy a pedagógus a jelentkezés során a jelentkezést megelőző öt évben megvalósított feladatairól, tevékenységéről szóló beszámolóval igazolja a jelentkezéskor választott tevékenységi területre való alkalmasságát. A beszámoló megfelelőségét a hivatal Mesterpedagógus szakértő bevonásával vizsgálja.
+(1b)[^35] Ha a Mesterpedagógus fokozat a (2) bekezdés c)–e) pontja szerinti tevékenység ellátását célozza, a 39. § (1) bekezdésében foglalt követelményeken felül a pályázati vagy megújítási eljárásra való jelentkezés feltétele, hogy a pedagógus a jelentkezés során a jelentkezést megelőző öt évben megvalósított feladatairól, tevékenységéről szóló beszámolóval igazolja a jelentkezéskor választott tevékenységi területre való alkalmasságát. A beszámoló megfelelőségét a hivatal Mesterpedagógus szakértő bevonásával vizsgálja.
 
-(1c)[^35] Az éves minősítési tervbe történő felvételkor előnyben kell részesíteni azt a személyt, aki
+(1c)[^36] Az éves minősítési tervbe történő felvételkor előnyben kell részesíteni azt a személyt, aki
 
 a) az 50. § (1) bekezdése szerinti miniszteri közleményben meghatározott területeken tervezi a mesterprogramját megvalósítani,
 
@@ -54,7 +54,7 @@ ba) az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő
 
 bb) a szaktanácsadói feladatok ellátásának vállalása esetén a pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló miniszteri rendelet szerinti szaktanácsadói névjegyzékben.
 
-(4)[^36]
+(4)[^37]
 
 (5) Ha a pedagógus a Mesterpedagógus fokozatba lépéshez szükséges pályázati eljárásba jelentkezésekor a (2) bekezdés e) pontja szerinti tevékenység vállalásáról tett nyilatkozatot, az (1) bekezdésben foglaltakon túl az eredményes pályázati eljárás feltétele az is, hogy a jelentkezéskor és az eljárás teljes időtartama alatt rendelkezzen igazgatói vagy más vezetői megbízással.
 
@@ -68,8 +68,8 @@ b) a (2) bekezdés c)–e) pontja szerinti feladat vállalása esetén öt évre
 
 Mesterpedagógus fokozatba kell besorolni.
 
-[^32]: A 39. § (1) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^33]: A 39. § (1a) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^34]: A 39. § (1b) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^35]: A 39. § (1c) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^36]: A 39. § (4) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § c) pontja alapján nem lép hatályba.
+[^33]: A 39. § (1) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^34]: A 39. § (1a) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^35]: A 39. § (1b) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^36]: A 39. § (1c) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^37]: A 39. § (4) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § c) pontja alapján nem lép hatályba.
