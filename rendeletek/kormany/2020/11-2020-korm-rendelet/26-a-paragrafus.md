@@ -16,7 +16,7 @@ a)[^93] az oktatási nyilvántartás működtetéséért felelős szerv az oktat
 
 b) a felnőttképzési államigazgatási szerv az Fktv. 5. § (1) bekezdés a) pontjában, valamint a 7. § (1) bekezdés b) pontjában meghatározott adatokat és a 22/A. §-ban szabályozott kérdőív adatait,
 
-c)[^94] az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – a foglalkoztatottak tárgyévi létszámát és megoszlását településenként, valamint foglalkozás szerinti bontásban a Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR) szerinti négy számjegyű kód megadásával, továbbá a tárgyévi medián- és átlagbérek mértékét vármegyei és foglalkozás szerinti bontásban a FEOR szerinti négy számjegyű kód megadásával,
+c)[^94] az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – a foglalkoztatottak tárgyévi létszámát és megoszlását településenként, valamint foglalkozás szerinti bontásban a Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR) szerinti négy számjegyű kód megadásával, továbbá a tárgyévi medián- és átlagbérek mértékét megyei és foglalkozás szerinti bontásban a FEOR szerinti négy számjegyű kód megadásával,
 
 d) a foglalkoztatáspolitikáért felelős miniszter a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 57/A. § (1) bekezdés a) pontjában foglalt adatok közül a születés évét, c) pontjában foglalt adatok közül a lakcím irányítószámát, f) pontjában foglalt adatok közül az iskolai végzettség és a szakképzettség megnevezését, valamint az álláskereső nemét, továbbá az Flt. 57/A. § (1) bekezdése szerinti nyilvántartásba való felvétel és az abból való törlés időpontját,
 
@@ -35,6 +35,6 @@ a munkaerő-piaci előrejelző rendszer számára a Hivatal által működtetett
 [^91]: A 26/A. § (3) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, szövege e módosító rendelet 9. § j) pontja szerint módosított szöveg.
 [^92]: A 26/A. § (4) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, záró szövegrésze e módosító rendelet 9. § j) pontja szerint módosított szöveg.
 [^93]: A 26/A. § (4) bekezdés a) pontja a 473/2025. (XII. 30.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
-[^94]: A 26/A. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 302. § a) pontja szerint módosított szöveg.
+[^94]: A 26/A. § (4) bekezdés c) pontja a 396/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^95]: A 26/A. § (4) bekezdés f) pontja a 243/2022. (VII. 4.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^96]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.

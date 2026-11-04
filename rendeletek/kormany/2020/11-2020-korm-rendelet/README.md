@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-11-20-2
 | 2025-12-31 | 2020-11-20-22.21 | 473/2025. (XII. 30.) Korm. rendelet |
 | 2026-01-01 | 2020-11-20-22.20 | 395/2025. (XII. 16.) Korm. rendelet |
 | 2026-03-31 | 2020-11-20-22.22 | 473/2025. (XII. 30.) Korm. rendelet |
+| 2026-11-04 | 2020-11-20-22.24 | 396/2026. (XI. 3.) Korm. rendelet |
