@@ -1,10 +1,10 @@
 ## 44/K. § A többcélú köznevelési intézményre, alkalmazottaira és tanulóira az Nkt. rendelkezéseit kell alkalmazni azzal, hogy a többcélú köznevelési intézmény által ellátott, nem köznevelési alapfeladat tekintetében az alapfeladatot szabályozó jogszabálynak kizárólag az alapfeladat megszervezése szakmai tartalmát és annak oktatásához szükséges végzettségi, képesítési és munkaköri követelményeket meghatározó rendelkezéseit kell alkalmazni.
 
-## V/F. Fejezet[^286]
+## V/F. Fejezet[^287]
 
 ## A KÖZNEVELÉS TANKÖNYVELLÁTÁSA
 
-44/L. §[^287] (1) A Kormány
+44/L. §[^288] (1) A Kormány
 
 a) az Nkt. 93/A. § (3) bekezdés b) pontjában meghatározott állami tankönyvfejlesztésért és kiadásért felelős szerv feladatait ellátó szervként a Hivatalt,
 
@@ -14,5 +14,5 @@ jelöli ki.
 
 (2) A Könyvtárellátó az iskolában alkalmazott tankönyvek terjesztésével kapcsolatos feladatok ellátása során bizományosként is eljárhat.
 
-[^286]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^287]: A 44/L. § a 454/2025. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^287]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^288]: A 44/L. § a 454/2025. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

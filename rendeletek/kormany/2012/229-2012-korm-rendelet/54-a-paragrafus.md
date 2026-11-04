@@ -1,8 +1,8 @@
-## 54. §[^314] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^315] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 54. §[^315] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^316] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-54/A. §[^316] E rendeletnek az egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 403/2023. (VIII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 44/L–44/Y. § rendelkezéseit a Módr. hatálybalépését[^317] követően a megismételt eljárásokban is alkalmazni kell.
+54/A. §[^317] E rendeletnek az egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 403/2023. (VIII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 44/L–44/Y. § rendelkezéseit a Módr. hatálybalépését[^318] követően a megismételt eljárásokban is alkalmazni kell.
 
-[^314]: Az 54. §-t újonnan a 171/2017. (VI. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^315]: A hatálybalépés időpontja 2017. július 1.
-[^316]: Az 54/A. §-t a 403/2023. (VIII. 30.) Korm. rendelet 11. §-a iktatta be.
-[^317]: A hatálybalépés időpontja 2024. január 1.
+[^315]: Az 54. §-t újonnan a 171/2017. (VI. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^316]: A hatálybalépés időpontja 2017. július 1.
+[^317]: Az 54/A. §-t a 403/2023. (VIII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^318]: A hatálybalépés időpontja 2024. január 1.

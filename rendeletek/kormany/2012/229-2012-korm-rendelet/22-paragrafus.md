@@ -14,7 +14,7 @@ b) a körzethatárokat megállapító döntést tartalmazó határozatot vagy je
 
 c) az adott köznevelési intézmény működési körzetét településenként, településrészenként, a közterület címével,
 
-d)[^56] a pedagógiai szakszolgálat feladattípus szerinti, vármegyei, települési körzethatárait,
+d)[^56] a pedagógiai szakszolgálat feladattípus szerinti, megyei, települési körzethatárait,
 
 e) iskola és óvoda esetén a hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekekkel és tanulókkal összefüggő statisztikai adatokat,
 
@@ -29,7 +29,7 @@ f)[^58]
 (4) A Hivatal a KIR honlapján mindenki számára térítésmentes hozzáférést biztosít az (1)–(3) bekezdés szerinti adatokhoz.
 
 [^55]: A 22. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^56]: A 22. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^56]: A 22. § (2) bekezdés d) pontja a 389/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^57]: A 22. § (2) bekezdés e) pont eb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.
 [^58]: A 22. § (2) bekezdés f) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 1. pontja hatályon kívül helyezte.
 [^59]: A 22. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

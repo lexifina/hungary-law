@@ -1,4 +1,4 @@
-37/C. § (1)[^131] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig kizárólag a kincstár fenntartó székhelye szerint területileg illetékes vármegyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
+37/C. § (1)[^131] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig kizárólag a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
 
 (2)[^132] A kérelmet
 
@@ -44,7 +44,7 @@ c) a köznevelés területén alkalmazandó diszkriminációellenes intézkedés
 
 (8)[^142]
 
-[^131]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 402. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^131]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 402. § c) pontja, a 389/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^132]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^133]: A 37/C. § (2) bekezdés a) pontja a 394/2025. (XII. 11.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^134]: A 37/C. § (2) bekezdés b) pontját a 417/2020. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.

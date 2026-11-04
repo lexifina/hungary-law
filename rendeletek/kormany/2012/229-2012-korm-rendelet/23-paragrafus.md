@@ -58,7 +58,7 @@ c) az első minősítés évéhez viszonyítva az előképző, az alapfokú és 
 
 d) az országos, nemzetközi és egyéb szakmai bemutatókon, rendezvényeken, versenyeken, fesztiválokon, kiállításokon való részvételt,
 
-e)[^61] a vármegyei, területi szakmai bemutatókon, versenyeken elért eredményeket,
+e)[^61] a megyei, területi szakmai bemutatókon, versenyeken elért eredményeket,
 
 f) az alapfokú művészeti iskola rendezvényeit, hagyományait,
 
@@ -77,4 +77,4 @@ c) a nevelési-oktatási intézményekkel, pedagógiai szakszolgálat esetén a 
 d) tanévenkénti bontásban a díjfizetés mellett igénybe vehető szolgáltatásokat, azok díjtételeit.
 
 [^60]: A 23. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 8. pontja szerint módosított szöveg.
-[^61]: A 23. § (5) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
+[^61]: A 23. § (5) bekezdés e) pontja a 389/2026. (XI. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## III/B. Fejezet
 
-## A KÖZNEVELÉSI INTÉZMÉNYBEN IDEIGLENES VÉDELEMRE JOGOSULT TANULÓK FEJLESZTÉSÉNEK, NEVELÉSÉNEK-OKTATÁSÁNAK MEGVALÓSÍTÁSÁRA VONATKOZÓ SZABÁLYOK[^232]
+## A KÖZNEVELÉSI INTÉZMÉNYBEN IDEIGLENES VÉDELEMRE JOGOSULT TANULÓK FEJLESZTÉSÉNEK, NEVELÉSÉNEK-OKTATÁSÁNAK MEGVALÓSÍTÁSÁRA VONATKOZÓ SZABÁLYOK[^233]
 
 37/T. § (1) A nemzetiségi önkormányzati, az egyházi és magán köznevelési intézmény fenntartója (e § alkalmazásában a továbbiakban együtt: fenntartó) részére az ideiglenes védelemre jogosult tanulók (e § alkalmazásában a továbbiakban: tanuló) fejlesztésének, nevelésének-oktatásának megvalósítására havonta 130 000 forint/hó/tanuló fajlagos összeg (a továbbiakban: kiegészítő támogatás) kerül megállapításra.
 
@@ -18,4 +18,4 @@
 
 (8) A kiegészítő támogatás elszámolására, ellenőrzésére és visszafizetésére a III/A. Fejezet rendelkezéseit kell alkalmazni. A fenntartó a kiegészítő támogatásra vonatkozó igényét a tárgyévre vonatkozó elszámolás keretében is érvényesítheti.
 
-[^232]: A III/B. Fejezetet (37/T. §-t) a 196/2025. (VII. 8.) Korm. rendelet 27. §-a iktatta be.
+[^233]: A III/B. Fejezetet (37/T. §-t) a 196/2025. (VII. 8.) Korm. rendelet 27. §-a iktatta be.
