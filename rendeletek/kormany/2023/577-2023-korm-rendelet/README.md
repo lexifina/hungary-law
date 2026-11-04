@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-577-20-
 | 2023-12-19 | 2023-577-20-22.1 | 577/2023. (XII. 18.) Korm. rendelet |
 | 2024-10-01 | 2023-577-20-22.2 | 257/2024. (VIII. 29.) Korm. rendelet |
 | 2025-12-06 | 2023-577-20-22.3 | 381/2025. (XII. 5.) Korm. rendelet |
+| 2026-11-04 | 2023-577-20-22.4 | 402/2026. (XI. 3.) Korm. rendelet |

@@ -1,4 +1,4 @@
-9/A. §[^6] (1) A Beruházás esetében az 1. § (1) bekezdésében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra a beépítés és a telekalakítás egyedi szabályait, valamint az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+9/A. §[^7] (1) A Beruházás esetében az 1. § (1) bekezdésében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra a beépítés és a telekalakítás egyedi szabályait, valamint az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2)–(5) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -30,4 +30,4 @@ a) területének zöldfelületi minimumértéke nem lehet alacsonyabb az e rende
 
 b) fejlesztése során a számított zöldtérfogat egyenértékűségnek a Beruházás megvalósulása után a műszaki átadás-átvétel időpontjától számított tizedik évben kell megfelelnie a védendő és a telepített növényzet telepítéstől továbbfejlődött zöldtérfogatának.
 
-[^6]: A 9/A. §-t a 381/2025. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 9/A. §-t a 381/2025. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
