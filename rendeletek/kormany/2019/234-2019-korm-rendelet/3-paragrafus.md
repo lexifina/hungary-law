@@ -1,8 +1,8 @@
 ## 3. § A miniszter
 
-a) nyílt pályázatot hirdet az ösztöndíjra, melyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a befogadó intézmény honlapján közzétesz,
+a)[^2] nyílt pályázatot hirdet az ösztöndíjra, melyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzétesz,
 
-b) kijelöli a kiválasztási bizottság (a továbbiakban: Bizottság) tagjait a befogadó intézmény
+b)[^3] kijelöli a kiválasztási bizottság (a továbbiakban: Bizottság) tagjait a minisztérium
 
 ba) felsőfokú végzettségű,
 
@@ -16,7 +16,7 @@ ca) a pályázati felhívást,
 
 cb) az ösztöndíjprogram működési szabályzatát (a továbbiakban: Programszabályzat),
 
-cc) a befogadó intézménynek az ösztöndíjprogram végrehajtásával kapcsolatos beszámolóját,
+cc)[^4] a minisztériumnak az ösztöndíjprogram végrehajtásával kapcsolatos beszámolóját,
 
 d) megállapítja
 
@@ -25,3 +25,7 @@ da) az ösztöndíjprogramba felvehető ösztöndíjasok számát,
 db) az ösztöndíj havi összegét,
 
 e) dönt a pályázat eredményéről.
+
+[^2]: A 3. § a) pontja a 408/2026. (XI. 3.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § b) pont nyitó szövegrésze a 408/2026. (XI. 3.) Korm. rendelet 3. § 2. pontja szerint módosított szöveg.
+[^4]: A 3. § c) pont cc) alpontja a 408/2026. (XI. 3.) Korm. rendelet 3. § 3. pontja szerint módosított szöveg.
