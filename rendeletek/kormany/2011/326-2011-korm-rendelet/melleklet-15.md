@@ -82,18 +82,4 @@ sebességváltóra vonatkozó adatok (kódszám)***
 
 a jármű gyártási éve [a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 2. § (4) bekezdés b) pontja]
 
-forgalmi engedély száma
-
-gyártó megnevezése
-
-forgalmazó megnevezése
-
-Kódszámok:
-
-* Vontatásra vonatkozó adatok
-
-0: fék nélküli
-
-1: ráfutófékes
-
 [^671]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
