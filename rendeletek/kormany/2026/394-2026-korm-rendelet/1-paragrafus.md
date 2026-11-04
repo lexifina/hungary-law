@@ -1,0 +1,5 @@
+## [1] E rendelet célja Magyarország Alaptörvényének tizenhetedik módosítása, valamint a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvény alapján a jogszabályi koherencia megteremtése az oktatási és gyermekügyi terület kormányrendeleti szintű szabályozásában.
+
+## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A piliscsabai Iosephinum területén megvalósuló fejlesztések keretében az AVICENNA Kutatóintézet beruházási munkáival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 297/2017. (X. 10.) Korm. rendelet 3. §-ában a „főispánként a Pest Vármegyei Kormányhivatalt vezető főispánt” szövegrész helyébe a „kormánymegbízottként a Pest Megyei Kormányhivatalt vezető kormánymegbízottat” szöveg lép.
