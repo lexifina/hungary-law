@@ -98,4 +98,6 @@ b) a megbízatásból adódó feladatokat nem látja el vagy nem képes ellátni
 
 20. A Bázis létrehozásáig, de legkésőbb 2027. március 1-jéig a Tanács – kizárólag a Bázis létrehozásához szükséges – feladat- és hatásköreit az 5. pont szerinti állandó tagokból álló testület gyakorolja.
 
-21. Hatályát veszti a Gyermek és Ifjúsági Alapprogram Tanácsáról szóló 1292/2012. (VIII. 13.) Korm. határozat.
+21.[^1]
+
+[^1]: A 21. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
