@@ -136,4 +136,6 @@ b) kijelöli a Fórum tagjai közül a tematikus munkacsoport elnökét.
 
 30. A Fórum tanácskozási joggal rendelkező állandó meghívott civil szervezet résztvevőinek kiválasztására 2026. november 20-ig pályázatot kell kiírni.
 
-31. Hatályát veszti az Emberi Jogi Munkacsoportról szóló 1039/2012. (II. 22.) Korm. határozat.
+31.[^1]
+
+[^1]: A 31. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
