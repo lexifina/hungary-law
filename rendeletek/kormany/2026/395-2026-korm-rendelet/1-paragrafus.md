@@ -2,12 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló iskolafejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 3/2018. (II. 1.) Korm. rendelet 2/B. §-ában
+1. §[^2]
 
-a) a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg,
-
-b) a „Vármegyei” szövegrész helyébe a „Megyei” szöveg,
-
-c) a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
