@@ -2,4 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 24/2021. (I. 28.) Korm. rendelet 2. §-ában a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg, a „Vármegyei” szövegrész helyébe a „Megyei” szöveg, a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
