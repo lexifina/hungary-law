@@ -2,12 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet
+1. §[^2]
 
-a) 3. § nyitó szövegrészében a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg,
-
-b) 3. § a) és b) pontjában a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg,
-
-c) 3. § b) pontjában a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
