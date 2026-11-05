@@ -88,7 +88,7 @@
 
 ## 27. Az Országgyűlés felkéri a Kormányt, hogy a Társaságot sorolja be a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény szerinti, az állam többségi befolyása alatt lévő köztulajdonban álló gazdasági társaságok igazgatósági és felügyelőbizottsági tagságáról és a kapcsolódó díjazásokról, valamint a vezető állású munkavállalóinak javadalmazásáról szóló kormányhatározat alapján a Társaságnak megfelelő komplexitású gazdasági társaságok körébe.
 
-## 28. Hatályát veszti a Magyar Távirati Iroda Részvénytársaság létrehozásáról szóló 70/1997. (VII. 15.) OGY határozat.
+## 28.[^2]
 
 ## 29. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -811,3 +811,5 @@ Budapest, 2026. [hónap] [nap]
 …………………………………
 
 jogi képviselő
+
+[^2]: A 28. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
