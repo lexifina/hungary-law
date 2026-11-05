@@ -2,10 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Károli Gáspár Református Egyetem beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 577/2023. (XII. 18.) Korm. rendelet
+1. §[^2]
 
-a) 3. § (1) bekezdésében a „főispánként” szövegrész helyébe a „kormánymegbízottként” szöveg, a „főispánt” szövegrész helyébe a „kormánymegbízottat” szöveg,
-
-b) 3. § (2) bekezdésében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
