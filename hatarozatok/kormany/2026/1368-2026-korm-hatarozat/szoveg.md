@@ -30,4 +30,6 @@ rendelkezésre állásáról;
 
 1.7. az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 106. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a Beruházás megvalósítása érdekében a 2026–2028. években az adott évi központi költségvetésről szóló törvény XLV. Állami beruházások fejezetén belül a magasépítési beruházások finanszírozását szolgáló előirányzat terhére vállalható éven túli kötelezettség felső korlátját 10 652 205 752 forintban határozza meg.
 
-2. Az 1051/2021. (II. 15.) Korm. határozat 1. mellékletében foglalt táblázat 3. sorában a „16 tantermes iskola” szövegrész helyébe a „24 osztályos iskola” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
