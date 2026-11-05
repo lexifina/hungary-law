@@ -1,1 +1,3 @@
-3. § Az R. 34. § (3) bekezdésében a „legmagasabb ügyleti kamatnak a támogatott személy által fizetett 32. § szerinti” szövegrész helyébe az „ügyleti kamatnak a 32. § szerint megállapítható legmagasabb” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
