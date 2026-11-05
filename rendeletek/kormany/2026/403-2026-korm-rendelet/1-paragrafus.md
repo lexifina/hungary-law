@@ -2,4 +2,6 @@
 
 ## [2] A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés z) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához nyújtható kiegészítő támogatás megállapításáról, igényléséről, elszámolásáról szóló 213/2025. (VII. 22.) Korm. rendelet 3. § (1) bekezdésében a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
