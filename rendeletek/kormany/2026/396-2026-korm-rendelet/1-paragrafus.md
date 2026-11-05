@@ -2,10 +2,6 @@
 
 ## [2] A Kormány a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (1) bekezdés a) pontjában, valamint (2) bekezdés a) és g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet
+1. §[^2]
 
-a) 26/A. § (4) bekezdés c) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg,
-
-b) 34. § (1) és (2) bekezdésében, 36. §-ában, valamint 37. § (3) bekezdésében a „Vármegyei” szövegrész helyébe a „Megyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
