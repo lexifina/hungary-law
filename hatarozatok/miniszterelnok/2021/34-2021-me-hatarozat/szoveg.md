@@ -1,1 +1,0 @@
-A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 34. §-ában meghatározott jogkörömben eljárva Vartus Gergelyt, a Miniszterelnökség helyettes államtitkárát a Digitális Megújulás Operatív Program Plusz monitoring bizottsága elnökévé – 2021. június 30-i hatállyal – kinevezem.
