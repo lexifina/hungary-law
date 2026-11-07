@@ -2,7 +2,7 @@
 
 | 1. |  |  |  | Kedvezményezett járás |
 
-| 2. | Régió | Vármegye | Járás |  | Fejlesztendő járás |
+| 2. | Régió | Megye | Járás |  | Fejlesztendő járás |
 
 | 3. |  |  |  |  | Komplex programmal fejlesztendő járás |
 
@@ -248,8 +248,8 @@
 
 | 124. | Kedvezményezett járás összesen |  | 109 |  |
 
-4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^12]
+4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^13]
 
 Átmenetileg kedvezményezett települések jegyzéke
 
-[^12]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a, a 616/2022. (XII. 29.) Korm. rendelet 195. § d) pontja szerint módosított szöveg.
+[^13]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a, a 436/2026. (XI. 6.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.

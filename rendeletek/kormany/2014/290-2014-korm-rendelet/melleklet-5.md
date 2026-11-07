@@ -1,6 +1,6 @@
 |  | A | B |
 
-| 1. | Vármegye | Település |
+| 1. | Megye | Település |
 
 | 2. | Baranya | Berkesd |
 

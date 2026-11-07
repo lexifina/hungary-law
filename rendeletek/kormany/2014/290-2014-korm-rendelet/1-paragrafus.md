@@ -12,7 +12,7 @@
 
 4.[^2] komplex programmal fejlesztendő járások: a kedvezményezett járásokon belül azok a legalacsonyabb komplex mutatóval rendelkező járások, amelyekben az ország kumulált lakónépességének 10%-a él,
 
-5.[^3] regionális szempontból kedvezményezett járások: e rendelet figyelembevételével a vármegyei közgyűlések által kijelölt járások,
+5.[^3] regionális szempontból kedvezményezett járások: e rendelet figyelembevételével a megyei közgyűlések által kijelölt járások,
 
 6. súlyos természeti vagy civilizációs katasztrófával sújtott térség: a fejlesztendő járásokkal egyenlő elbánásban részesülő térség, amelyben a károk felszámolása, a helyi társadalmi-gazdasági élet normál működésének beindítása tartós, több éves fejlesztést igényel, ahol a térség fejlődési lehetőségeit a katasztrófa több évre súlyosan korlátozza,
 
@@ -20,4 +20,4 @@
 
 [^1]: Az 1. § (2) bekezdés 1. pontja a 106/2015. (IV. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 4. pontja a 106/2015. (IV. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés 5. pontja a 106/2015. (IV. 23.) Korm. rendelet 4. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 195. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 5. pontja a 106/2015. (IV. 23.) Korm. rendelet 4. § b) pontja, a 436/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

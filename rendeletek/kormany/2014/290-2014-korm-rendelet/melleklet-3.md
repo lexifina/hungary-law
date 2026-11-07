@@ -1,6 +1,6 @@
 |  | A | B | C | D | E | F | G | H | I |
 
-| 1. | Régió | Vármegye | Járás | Lakónépesség (2013. XII. 31.) | A komplex mutató értéke | Rangsorszám a komplex mutató értéke alapján | Kedvezményezett járás (46,68 alatt) | Fejlesztendő járás (a népesség 15%-a) | Komplex programmal fejlesztendő járás (a népesség 10%-a) |
+| 1. | Régió | Megye[^11] | Járás | Lakónépesség (2013. XII. 31.) | A komplex mutató értéke | Rangsorszám a komplex mutató értéke alapján | Kedvezményezett járás (46,68 alatt) | Fejlesztendő járás (a népesség 15%-a) | Komplex programmal fejlesztendő járás (a népesség 10%-a) |
 
 | 2. | ÉM | BAZ | Cigándi | 16 115 | 18,63 | 1. | 1 | 1 | 1 |
 
@@ -398,8 +398,9 @@
 
 | 199. |  |  | Ország összesen | 9 877 365 |  |  | 109 | 54 | 36 |
 
-3. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^11]
+3. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^12]
 
 A kedvezményezett járások listája
 
-[^11]: A 3. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a, a 616/2022. (XII. 29.) Korm. rendelet 195. § d) pontja szerint módosított szöveg.
+[^11]: A 2. mellékletben foglalt táblázat B:1 mezője a 436/2026. (XI. 6.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^12]: A 3. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a, a 436/2026. (XI. 6.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.

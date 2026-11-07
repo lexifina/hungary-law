@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-290-20-
 | 2017-01-01 | 2014-290-20-22.4 | 290/2016. (VII. 13.) Korm. rendelet |
 | 2020-07-31 | 2014-290-20-22.5 | 106/2015. (IV. 23.) Korm. rendelet |
 | 2023-01-01 | 2014-290-20-22.6 | 106/2015. (IV. 23.) Korm. rendelet |
+| 2026-11-07 | 2014-290-20-22.7 | 106/2015. (IV. 23.) Korm. rendelet |
