@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-2
 | 2023-01-01 | 2010-16-20-22.16 | 37/2010. (II. 26.) Korm. rendelet |
 | 2023-08-01 | 2010-16-20-22.17 | 351/2023. (VII. 27.) Korm. rendelet |
 | 2024-07-03 | 2010-16-20-22.18 | 140/2024. (VI. 28.) Korm. rendelet |
+| 2026-11-07 | 2010-16-20-22.19 | 37/2010. (II. 26.) Korm. rendelet |
