@@ -72,7 +72,7 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 23. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és projektenként meghaladja a 70 millió eurónak megfelelő forintösszeget,
 
-24.[^21] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 165 millió eurónak megfelelő forintösszeget,
+24.[^22] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 165 millió eurónak megfelelő forintösszeget,
 
 25. sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 33 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 110 millió eurónak megfelelő forintösszeget,
 
@@ -94,4 +94,4 @@ cb) cb) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó 
 
 (3) Ha a támogatás nyújtása az (1)–(2) bekezdésben foglaltak alapján az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
 
-[^21]: A 20. § (1) bekezdés 24. pontja a 127/2024. (VI. 14.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 20. § (1) bekezdés 24. pontja a 127/2024. (VI. 14.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.

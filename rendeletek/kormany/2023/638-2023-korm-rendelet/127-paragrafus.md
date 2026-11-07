@@ -1,4 +1,4 @@
-## 55.[^58] A csekély összegű közszolgáltatási támogatás
+## 55.[^60] A csekély összegű közszolgáltatási támogatás
 
 127. § (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három évben Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -6,12 +6,12 @@
 
 (3) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-(3a)[^59] Az (1) bekezdésben meghatározott értékhatárba – a 360/2012/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – nem számít bele más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatás.
+(3a)[^61] Az (1) bekezdésben meghatározott értékhatárba – a 360/2012/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – nem számít bele más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatás.
 
-(4)[^60] A támogatás a 360/2012/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
+(4)[^62] A támogatás a 360/2012/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
 
 (5) A kedvezményezettnek az (EU) 2023/2832 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^58]: Az 55. alcím (127. §) a 127/2024. (VI. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^59]: A 127. § (3a) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 93. §-ával megállapított szöveg.
-[^60]: A 127. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^60]: Az 55. alcím (127. §) a 127/2024. (VI. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^61]: A 127. § (3a) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^62]: A 127. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 93. §-ával megállapított szöveg.

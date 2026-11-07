@@ -262,7 +262,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 127. okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző;
 
-128. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást;
+128.[^2] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást;
 
 129. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény;
 
@@ -375,3 +375,4 @@ d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkor
 176. visszafizetendő előleg: a 651/2014/EU bizottsági rendelet 2. cikk 21. pontja szerinti támogatási forma.
 
 [^1]: A 2. § 27. pontja a 127/2024. (VI. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^2]: A 2. § 128. pontja a 459/2026. (XI. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

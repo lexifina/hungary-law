@@ -8,7 +8,7 @@ b) az Atr. 25. § (1) bekezdése szerinti területen megvalósuló beruházás e
 
 növelhető.
 
-(3)[^37] A támogatás a beruházási költségek 100%-áig nyújtható, ha a támogatást olyan, a 2. § 173. pontja szerinti versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
+(3)[^39] A támogatás a beruházási költségek 100%-áig nyújtható, ha a támogatást olyan, a 2. § 173. pontja szerinti versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
 
 a) az eljárást objektív, világos, átlátható és megkülönböztetés-mentes, a tényleges verseny lehetővé tétele érdekében előzetesen meghatározott és az ajánlatok benyújtásának határideje előtt legalább 6 héttel közzétett kritériumok alapján dolgozzák ki, és
 
@@ -20,4 +20,4 @@ d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a vers
 
 (4) A 70. § (8) bekezdése szerinti esetben az (1) és (2) bekezdésben meghatározott támogatási intenzitások és bónuszok 50%-kal csökkennek.
 
-[^37]: A 71. § (3) bekezdés nyitó szövegrésze a 202/2025. (VII. 16.) Korm. rendelet 55. § d) pontja szerint módosított szöveg.
+[^39]: A 71. § (3) bekezdés nyitó szövegrésze a 202/2025. (VII. 16.) Korm. rendelet 55. § d) pontja szerint módosított szöveg.

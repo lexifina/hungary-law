@@ -1,6 +1,6 @@
 ## 54. Mezőgazdasági csekély összegű támogatás
 
-126. §[^57] (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, bármely három évben Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3) és (8)–(10) bekezdését.
+126. §[^59] (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, bármely három évben Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3) és (8)–(10) bekezdését.
 
 (2) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
@@ -12,4 +12,4 @@
 
 (6) A támogatás vonatkozásában a támogatást nyújtó az Atr. 11. és 11/A. §-ában meghatározottak szerint biztosítja az (1) és (4) bekezdésben foglaltak betartását.
 
-[^57]: A 126. § a 202/2025. (VII. 16.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^59]: A 126. § a 202/2025. (VII. 16.) Korm. rendelet 54. §-ával megállapított szöveg.

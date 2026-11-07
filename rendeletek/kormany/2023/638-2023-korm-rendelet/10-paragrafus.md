@@ -6,8 +6,8 @@
 
 2. csekély összegű közszolgáltatási támogatásként,
 
-3.[^7]
+3.[^8]
 
 nyújtható.
 
-[^7]: A 10. § 3. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § e) pontja hatályon kívül helyezte.
+[^8]: A 10. § 3. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § e) pontja hatályon kívül helyezte.

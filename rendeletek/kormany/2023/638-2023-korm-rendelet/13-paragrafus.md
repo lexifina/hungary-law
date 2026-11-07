@@ -10,8 +10,8 @@
 
 4. csekély összegű támogatásként,
 
-5.[^11]
+5.[^12]
 
 nyújtható.
 
-[^11]: A 13. § 5. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § h) pontja hatályon kívül helyezte.
+[^12]: A 13. § 5. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § h) pontja hatályon kívül helyezte.

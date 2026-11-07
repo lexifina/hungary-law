@@ -38,8 +38,8 @@
 
 18. közszolgáltatásért járó ellentételezésként,
 
-19.[^5]
+19.[^6]
 
 nyújtható.
 
-[^5]: A 8. § 19. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte.
+[^6]: A 8. § 19. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte.

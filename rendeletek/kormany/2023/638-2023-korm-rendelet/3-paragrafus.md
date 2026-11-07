@@ -16,6 +16,6 @@ c) visszafizetendő előleg
 
 nyújtható.
 
-(3)[^2] A 651/2014/EU bizottsági rendelet, az (EU) 2023/2831 bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
+(3)[^3] A 651/2014/EU bizottsági rendelet, az (EU) 2023/2831 bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
 
-[^2]: A 3. § (3) bekezdése a 127/2024. (VI. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdése a 127/2024. (VI. 14.) Korm. rendelet 11. §-ával megállapított szöveg.

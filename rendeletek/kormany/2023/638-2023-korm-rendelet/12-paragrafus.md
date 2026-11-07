@@ -50,11 +50,11 @@
 
 24. közszolgáltatásért járó ellentételezésként,
 
-25.[^9]
+25.[^10]
 
-26.[^10] elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+26.[^11] elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
 
 nyújtható.
 
-[^9]: A 12. § 25. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § g) pontja hatályon kívül helyezte.
-[^10]: A 12. § 26. pontját a 218/2024. (VII. 31.) Korm. rendelet 90. §-a iktatta be.
+[^10]: A 12. § 25. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § g) pontja hatályon kívül helyezte.
+[^11]: A 12. § 26. pontját a 218/2024. (VII. 31.) Korm. rendelet 90. §-a iktatta be.
