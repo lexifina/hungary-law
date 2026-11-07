@@ -1,4 +1,4 @@
-23. §[^42] (1) Ha az ingatlan-nyilvántartásban a kérelem tárgyát képező földrészletet vagy földrészleteket érintően változtatási vagy telekalakítási tilalom van bejegyezve, a telekalakítási kérelmet vissza kell utasítani.
+23. §[^44] (1) Ha az ingatlan-nyilvántartásban a kérelem tárgyát képező földrészletet vagy földrészleteket érintően változtatási vagy telekalakítási tilalom van bejegyezve, a telekalakítási kérelmet vissza kell utasítani.
 
 (2) A telekalakítási engedély és a hozzá tartozó telekalakítási dokumentáció az engedélyező határozat véglegessé válásától számított egy évig érvényes. A telekalakítási hatóság a telekalakítás engedélyezése esetén a változási vázrajzot „A telekalakítást a … számú határozatban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig érvényes.” záradékszöveggel látja el. A telekalakítási engedély véglegessé válásával egyidejűleg a változási vázrajzot az ingatlanügyi hatóság újrazáradékolja.
 
@@ -18,8 +18,9 @@
 
 (10) Ha a telekalakítás meglévő állandó, ideiglenes működésű repülőtér területét érinti, a telekalakítási kérelemhez mellékelni kell a repülőtér üzemeltetőjének hozzájárulását.
 
-(11) A telekalakítási engedélyezési eljárásban a fővárosi és vármegyei kormányhivatalnak a 23/B–23/D. §-ban meghatározott szakkérdéseket is vizsgálnia kell.
+(11)[^45] A telekalakítási engedélyezési eljárásban a fővárosi és megyei kormányhivatalnak a 23/B–23/D. §-ban meghatározott szakkérdéseket is vizsgálnia kell.
 
 (12) Az ingatlanügyi hatóság által záradékolt változási vázrajz és a hozzá tartozó területkimutatás, valamint a telekalakítási helyszínrajz hiteles másolata képezi a szakkérdések vizsgálatának alapját.
 
-[^42]: A 23. § a 179/2023. (V. 15.) Korm. rendelet 176. §-ával megállapított szöveg.
+[^44]: A 23. § a 179/2023. (V. 15.) Korm. rendelet 176. §-ával megállapított szöveg.
+[^45]: A 23. § (11) bekezdése a 440/2026. (XI. 6.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.

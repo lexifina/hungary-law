@@ -1,4 +1,4 @@
-3. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^110]
+3. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^113]
 
 A tulajdonszerzés hatósági jóváhagyására irányuló kérelem tartalma
 
@@ -152,4 +152,4 @@ A tulajdonszerzés hatósági jóváhagyására irányuló kérelem tartalma
 
 13. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^110]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § f) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § b) pontja iktatta be.
+[^113]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § f) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § b) pontja iktatta be.

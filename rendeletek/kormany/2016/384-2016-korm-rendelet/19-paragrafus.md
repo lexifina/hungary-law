@@ -12,9 +12,11 @@ a) a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a k
 
 b) ha a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, azok megegyeznek az eredeti okiratokkal, és a kérelmező vállalja, hogy az eredeti papír alapú okiratot felhívásra bemutatja az ingatlanügyi hatóság részére.
 
-(3) Az (1) bekezdés szerinti kérelemben kizárólag ugyanazon vármegye vagy a főváros illetékességi területéhez tartozó földrészletek szerepelhetnek.
+(3)[^31] Az (1) bekezdés szerinti kérelemben kizárólag ugyanazon megye vagy a főváros illetékességi területéhez tartozó földrészletek szerepelhetnek.
 
-(4) Ha az (1) bekezdés szerinti kérelemben több vármegye illetékességi területéhez tartozó földrészlet is szerepel, az az ingatlanügyi hatóság, amelyiknél az eljárás megindult, az illetékességi területén kívül fekvő földrészletek tárgyában a kérelmet és az ahhoz csatolt okiratokat a földvédelmi és a földminősítési eljárások lefolytatását támogató informatikai rendszerben átteszi az illetékes ingatlanügyi hatósághoz.
+(4)[^32] Ha az (1) bekezdés szerinti kérelemben több megye illetékességi területéhez tartozó földrészlet is szerepel, az az ingatlanügyi hatóság, amelyiknél az eljárás megindult, az illetékességi területén kívül fekvő földrészletek tárgyában a kérelmet és az ahhoz csatolt okiratokat a földvédelmi és a földminősítési eljárások lefolytatását támogató informatikai rendszerben átteszi az illetékes ingatlanügyi hatósághoz.
 
 [^29]: A 18. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 103/2018. (VI. 11.) Korm. rendelet 24. §-a iktatta be.
 [^30]: A 19. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 60. §-a iktatta be.
+[^31]: A 19. § (3) bekezdése a 440/2026. (XI. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^32]: A 19. § (4) bekezdése a 440/2026. (XI. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

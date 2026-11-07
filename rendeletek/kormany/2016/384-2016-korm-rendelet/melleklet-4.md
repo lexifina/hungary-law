@@ -1,4 +1,4 @@
-4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^111]
+4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^114]
 
 A földhasználat szerzés hatósági jóváhagyására irányuló kérelem tartalma
 
@@ -156,4 +156,4 @@ A földhasználat szerzés hatósági jóváhagyására irányuló kérelem tart
 
 14. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^111]: A 4. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 160. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § c) pontja iktatta be.
+[^114]: A 4. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 160. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § c) pontja iktatta be.
